@@ -54,8 +54,6 @@ Firefighters respond to fires, emergencies, traffic accidents, and other disaste
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighters' core tasks—firefighting, emergency rescue, disaster response—require real-time decision-making, physical effort, and high responsibility, making them hard for AI to replace; however, AI will significantly enhance situational awareness, equipment monitoring, and administrative efficiency. Competition for entry-level roles increases, but overall job demand remains stable, with human-machine collaboration becoming the new norm.
-
 Career progression path from firefighter to senior firefighter, fire officer, or station officer. Also possible to specialize in hazardous materials handling, technical rescue, or fire investigation. Some firefighters become fire engineers or trainers through further study.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career progression path from firefighter to senior firefighter, fire officer, or
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Improve physical fitness, obtain first aid certification and large vehicle dr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter/IE)**

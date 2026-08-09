@@ -53,8 +53,6 @@ Inspect, maintain, diagnose and repair aircraft engines to ensure aircraft meet 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers rely heavily on physical inspections, manual repairs, and on-site decisions; AI is difficult to fully replace but will take over tasks like documentation, preliminary fault diagnosis, and predictive maintenance planning, making the overall risk moderately low.
-
 Start as an apprentice or mechanic, obtain an EASA Part-66 license to advance to a licensed engineer, then progress to team leader or quality inspector. Some move into aviation management or technical training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as an apprentice or mechanic, obtain an EASA Part-66 license to advance to
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list and annual salary ≥ €32,000, you can apply; eligible for permanent residency after 2 years |
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥ 1.5 times the average (approx. €40,000), suitable for senior engineers. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Core requirement is EASA Part-66 B1.1 license, plus passing a series of modul
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-engine-mechanic-and-repairer/IE)**

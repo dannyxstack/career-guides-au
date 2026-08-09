@@ -4,8 +4,6 @@
 
 This occupation involves performing simple support tasks at construction and mining sites, primarily physical labor such as material transport, site cleaning, and excavation assistance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves performing simple support tasks at construction and min
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace some simple tasks (material transport, sorting, etc.), but the complex environment and non-standardized work on construction sites still require human presence, making full replacement difficult.
-
 With skilled training, transition to construction craftsmen (plasterers, carpenters, etc.) is possible, but most remain in unskilled labor positions with limited promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ With skilled training, transition to construction craftsmen (plasterers, carpent
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Construction simple labor possible, need Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Limited to skilled manual workers only |
-| Subclass F-2 (Residence) | Allowed for long-term residents, no employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +126,12 @@ A: Possible with E-9 (Non-professional Employment) visa, but requires allocation
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-mining-laborers/KR)**

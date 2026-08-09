@@ -54,8 +54,6 @@ Performs physical labor on construction sites, operating manual and power tools 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Physical labor and on-site collaboration of construction workers are hard to fully replace in the short term, but AI-driven automation and drone surveying will take over some measurement and material handling tasks, while enhancing safety monitoring and resource allocation efficiency.
-
 Typically start as general laborers, gain experience, and can advance to foreman or skilled trades (e.g., carpentry, electrician). Some workers obtain licenses or certifications through apprenticeship programs to move into higher-skilled roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as general laborers, gain experience, and can advance to foreman
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to Foreman, skilled trades (e.g., electrician, carpenter), or Con
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-laborers/US)**

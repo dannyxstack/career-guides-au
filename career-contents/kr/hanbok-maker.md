@@ -4,8 +4,6 @@
 
 A specialized artisan who creates garments by combining traditional Hanbok design with modern elements, primarily responsible for custom-made Hanbok and repairs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized artisan who creates garments by combining traditional Hanbok desig
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in Hanbok design or pattern automation, but since Hanbok manufacturing relies on handwork and traditional skills, complete replacement is difficult, so the impact is limited.
-
 Starting as a skilled worker, one can grow into a master artisan or Hanbok designer with experience, and self-employment is also possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as a skilled worker, one can grow into a master artisan or Hanbok desig
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment in skilled craft fields is possible, but demand for Hanbok manufacturing is low |
-| Subclass F-2 (Residence) | Long-term stay possible under a points system, classified as professional workforce |
-| Subclass F-4 (Overseas Koreans) | Targets overseas Koreans, no employment restrictions |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: It is not mandatory; a Hanbok technician certification or private academy tra
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hanbok-maker/KR)**

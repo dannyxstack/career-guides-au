@@ -55,8 +55,6 @@ Automotive painters are responsible for vehicle surface repair and spraying, for
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automotive painters face dual impacts from automation and AI: color matching and spray path planning can be optimized by AI, but high-touch skills like fine masking and manual defect repair are hard to replace in the short term; overall risk is controllable but entry-level competition intensifies.
-
 Progress from apprentice to journeyman, then enhance competitiveness by obtaining Red Seal certification, and further become workshop supervisor, damage appraiser, or open your own paint shop.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from apprentice to journeyman, then enhance competitiveness by obtainin
 | Subclass FSTP (Federal Skilled Trades Program) | Federal Skilled Trades Program, requires a job offer or qualification. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for this occupation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory in most provinces, but Red Seal certification aids interprovinc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-painters/CA)**

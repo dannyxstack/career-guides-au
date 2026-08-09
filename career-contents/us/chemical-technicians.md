@@ -51,8 +51,6 @@ Chemical technicians conduct chemical and physical lab tests under scientists' g
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemical technicians will see divergence: routine analysis and clerical tasks face automation threats, but experimental design, anomaly analysis, and cross-disciplinary collaboration skills are enhanced by AI; overall occupational risk is moderate.
-
 Junior technicians can advance to senior technician, lab supervisor, or researcher with experience. Further education can lead to engineer or scientist roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior technicians can advance to senior technician, lab supervisor, or research
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, can advance to senior technician, lab supervisor, or researcher, or move
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-technicians/US)**

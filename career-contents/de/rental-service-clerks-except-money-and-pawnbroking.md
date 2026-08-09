@@ -53,8 +53,6 @@ Rental Service Officers handle receipt, inspection, contract processing, and cus
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace clerical work and inventory management, but physical inspection, client negotiation, and complex handling still require humans; overall role risk is medium.
-
 Career progression from junior to senior leasing consultant, branch manager, or regional manager. Further study can lead to roles in logistics, sales, or customer management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression from junior to senior leasing consultant, branch manager, or 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is not on Germany's shortage list and typically requires Germ
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rental-service-clerks-except-money-and-pawnbroking/DE)**

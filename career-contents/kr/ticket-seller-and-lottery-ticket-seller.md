@@ -4,8 +4,6 @@
 
 This occupation involves selling tickets or lottery tickets at venues such as performance halls, transportation facilities, and lottery outlets, as well as handling customer service and store maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves selling tickets or lottery tickets at venues such as pe
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The introduction of AI and unmanned kiosks is rapidly replacing ticket clerk jobs, leading to a continuous decline in the number of positions.
-
 Starting as a ticket seller, one can gain experience in customer service or store management, but promotion opportunities are limited, and the need for career transition due to automation is growing.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a ticket seller, one can gain experience in customer service or stor
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional employment) | Limited to non-professional work; some sales jobs possible but restricted |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no employment restrictions |
-| Subclass F-4 (Overseas Koreans) | Sales jobs available only to overseas Koreans |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Promotion to store manager or transfer to similar sales positions is possible
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ticket-seller-and-lottery-ticket-seller/KR)**

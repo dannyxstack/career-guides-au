@@ -4,8 +4,6 @@
 
 Engineers engaged in the design and development of transportation equipment such as ships, aircraft, and railway vehicles. They leverage the latest technology to improve safety and performance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Engineers engaged in the design and development of transportation equipment such
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists in simulation and design optimization, expanding engineers' creativity. Design automation advances, but humans handle final decisions and safety checks.
-
 After gaining research and development experience at major manufacturers or graduate schools, they advance to project leader or management roles in research departments. Independent work leveraging expertise is also possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After gaining research and development experience at major manufacturers or grad
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. General work visa. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Point-based system with benefits, 5-year stay, easy PR. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For skilled workers, family accompaniment allowed. Limited fields. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Obtaining a Professional Engineer license or a master's/doctoral degree from 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-equipment-engineer-excluding-automobiles-development/JP)**

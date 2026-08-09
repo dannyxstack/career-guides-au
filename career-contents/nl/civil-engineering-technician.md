@@ -52,8 +52,6 @@ Civil engineering technicians assist civil engineers with design, construction s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of civil engineering technician is being reshaped by AI: BIM and automated design tools have compressed basic drafting and calculation tasks, but construction supervision, site coordination, and complex structural analysis are hard to replace due to the need for physical judgment and multi-person collaboration. Overall, there are both risks and opportunities.
-
 Can progress from junior technician to senior technician or project supervisor, and further obtain registered engineer qualification to move into design or management.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Can progress from junior technician to senior technician or project supervisor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled workers, requires employer sponsorship, annual salary threshold approx. €5,000/month (over 30 years old) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for salaried positions (annual salary nearly €60,000), with fast family reunification and permanent residency pathways |
-| Subclass Orientation Year (Orientation Year) | Dutch graduates can get one year to find work; visa can be converted to work visa |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Yes, due to aging infrastructure and strong construction activity, this occup
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-technician/NL)**

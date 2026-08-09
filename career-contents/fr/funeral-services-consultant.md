@@ -4,8 +4,6 @@
 
 Providing professional consulting for grieving families in funeral arrangements, ceremony planning, and administrative procedures.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing professional consulting for grieving families in funeral arrangements,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core empathy and planning responsibilities of funeral service consultants are hard to replace, but administrative procedures and document writing can be significantly automated by AI, requiring practitioners to transform into technology-enhanced consultants.
-
 You can be promoted from funeral consultant to funeral supervisor or manager, or specialize in body embalming or memorial event planning. Some have established independent funeral homes.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted from funeral consultant to funeral supervisor or manager, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | For employed work residence, the employer must provide a labor contract and prove recruitment difficulties or qualification matching. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | The Talent Passport is for qualified workers with salaries 1.5 times the median. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: This occupation is limited by French language requirements and cultural diffe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-services-consultant/FR)**

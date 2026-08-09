@@ -4,8 +4,6 @@
 
 Responsible for rooftop installation, maintenance, and renovation, including the installation of tiles, metal panels, waterproof layers, and other materials. Demand in the French construction industry is stable, requiring familiarity with safety codes and leak-proof technologies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for rooftop installation, maintenance, and renovation, including the
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
-
 Junior workers can be promoted to professional roofers or foremen, and after gaining experience, can establish their own renovation companies. You can also switch to construction project management or construction supervision positions.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior workers can be promoted to professional roofers or foremen, and after gai
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer must be submitted and approved by the Labor Bureau. Suitable for non-urgently needed occupations, but the construction industry is relatively easy to approve. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you are hired by a high-paying French company (annual salary ≥ €53,000), you can apply for this visa, but rooftop workers usually earn less than the required salary. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for a one-year work-finding visa, and once you find a job, transfer to Salarié. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Must hold a CAP or equivalent qualification, obtain it via VAE or accreditati
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofing-installation-and-restoration-worker/FR)**

@@ -49,8 +49,6 @@ Perform housekeeping services such as cleaning, tidying, laundry, etc. in hotels
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of home managers/domestic workers faces both automation replacement risks and potential for AI enhancement. Simple cleaning and repetitive tasks may be taken over by robots, but personalized services and customer interaction will be enhanced by AI tools.
-
 Typically start as a junior cleaner, gaining experience to advance to housekeeper, room supervisor, or facilities management roles. A few enter high-end private service, with limited salary growth potential.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as a junior cleaner, gaining experience to advance to housekeepe
 | Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires employer sponsorship, annual salary not less than 27,000 euros. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applies to intra-company transfers within multinationals, requires employer sponsorship. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: You can apply for a general work permit, but this occupation is not in shorta
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-housekeeper/IE)**

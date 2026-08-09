@@ -52,8 +52,6 @@ Responsible for daily cleaning and hygiene maintenance in office buildings, shop
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will cause cleaning work to diverge: routine cleaning tasks in standardized areas (e.g., corridors, restrooms) are highly automatable, but complex, unstructured scenarios (e.g., hospital disinfection, special stain treatment) still require human judgment. Entry-level competition intensifies, but demand for technical cleaners rises.
-
 Usually start as general cleaners, can advance to supervisor or specialize in areas like medical or industrial cleaning; some become property managers or start cleaning companies after training.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as general cleaners, can advance to supervisor or specialize in ar
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Most provinces do not require a formal license, but special venues (e.g., hos
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/light-duty-cleaners/CA)**

@@ -52,8 +52,6 @@ In Canada, licensed practical nurses require provincial regulatory certification
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Licensed practical nurses' work includes both low-level clerical and high-level clinical tasks; AI will significantly replace human effort in medication calculations and document sorting, but patient care requiring human communication and hands-on tasks remains stable—a mixed-impact occupation.
-
 LPNs can advance to Registered Nurse or Nursing Supervisor by pursuing an RN degree or specialty certification to raise career ceilings. Some provinces offer employer-sponsored immigration fast tracks.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ LPNs can advance to Registered Nurse or Nursing Supervisor by pursuing an RN deg
 | Subclass PNP (Provincial Nominee Program) | Most provinces list LPN as a priority occupation, e.g., Ontario, BC, Alberta, can get 600 points bonus |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for LPN applicants with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: CPNRE pass rate is about 80%, moderately difficult. However, some provinces l
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/licensed-practical-nurses/CA)**

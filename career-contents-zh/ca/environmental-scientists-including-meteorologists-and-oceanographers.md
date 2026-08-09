@@ -1,6 +1,6 @@
-# Environmental scientists, including meteorologists and oceanographers 职业分析 · 加拿大
+# 环境科学家，包括气象学家和海洋学家（Environmental scientists, including meteorologists and oceanographers）职业分析 · 加拿大
 
-**职业代码: 21113 (NOC)**
+**职业代码：21113 (NOC)**
 
 加拿大对应职业为环境科学家，研究环境问题、提供可持续发展建议。可通过Express Entry（STEM类别）或省提名移民，就业前景良好。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. 加拿大对环境科学家的需求稳定，受政府环保政策和企业可持续发展推动。阿尔伯塔、不列颠哥伦比亚和安大略省机会较多。预计未来5年就业增长中等。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。加拿大对环境科学家的需求稳定，受政府环保政策和企业可持续发展推动。阿尔伯塔、不列颠哥伦比亚和安大略省机会较多。预计未来5年就业增长中等。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -48,35 +48,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 环境科学家的工作喜忧参半：AI在数据收集、建模和报告生成上快速替代部分任务，但现场采样、跨学科判断和政策沟通仍依赖人类，需主动拥抱AI工具并强化不可替代的技能。
 
 初级职位如环境分析师可晋升为高级科学家或项目经理，也可向政策顾问或博士研究方向发展。获得专业工程师（P.Eng.）资格可提升竞争力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动数据收集与预处理（如传感器数据清洗、缺失值插补）
 - 基本统计建模与预测（如气候趋势线性回归）
 - 常规环境报告初稿生成（模板化内容填充）
 - 文献检索与初步综述（AI语义搜索与摘要）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 高精度气候模拟与复杂系统建模（AI加速计算）
 - 多源数据融合（卫星、地面站、模型输出）
 - 异常检测与环境风险预警（实时监控与模式识别）
 - 政策建议的数据可视化与交互式展示
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨学科系统思考（综合生态、经济、政策因素）
 - 现场采样与实地实验设计（物理环境适应性）
 - 利益相关方沟通与政策谈判（非结构化互动）
 - 伦理判断与不确定性管理（高风险决策）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R高级数据分析与机器学习（如Scikit-learn、TensorFlow）
 - 地理信息系统（GIS）与遥感数据分析（如Google Earth Engine）
@@ -85,16 +85,16 @@
 - 数据可视化工具（如Plotly、D3.js）
 - 项目管理与沟通（AI协作工作流）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- STEM immigration
-- Provincial Nominee
-- Green jobs
-- Environmental policy
+- STEM移民
+- 省提名
+- 绿色就业
+- 环境政策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -103,9 +103,7 @@
 | Subclass PNP (Provincial Nominee Program) | 各省如BC省、安省有环境科学类职业优先邀请 |
 | Subclass AIP (Atlantic Immigration Program) | 大西洋省份雇主担保，适合已有工作offer者 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★★☆）**
 
 ---
 
@@ -149,12 +147,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/environmental-scientists-including-meteorologists-and-oceanographers/CA)**

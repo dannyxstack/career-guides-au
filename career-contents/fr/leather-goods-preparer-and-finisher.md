@@ -4,8 +4,6 @@
 
 Professionals are engaged in cutting, sewing, sanding, coloring, and fine processing of leather products, including bags, shoes, belts, and other products. Work is done in workshops or factories and requires manual skills and knowledge of materials.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Professionals are engaged in cutting, sewing, sanding, coloring, and fine proces
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job structure of leather product preparation and finishing technicians is mixed: standardized cutting and polishing processes are easily replaced by automation, but capabilities in customized craftsmanship, quality control, and creative restoration still have strong advantages; AI tools can assist in design, inspection, and training, improving efficiency and accuracy.
-
 You can start as a novice worker or apprentice, advance to senior technician, workshop supervisor, or start your own custom leather workshop. Continuous learning of new technologies and participation in vocational training (such as CFA) to improve their ranks are required.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can start as a novice worker or apprentice, advance to senior technician, wo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that no suitable EU candidate can be found for the position. |
-| Subclass Passeport Talent (Talent Passport) | Those with outstanding skills or high academic qualifications can apply through the Talent Passport. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Typically, a CAP diploma in leather goods or Bac Pro is required. Apprentices
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-goods-preparer-and-finisher/FR)**

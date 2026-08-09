@@ -52,8 +52,6 @@ Provides medical services under physician supervision, including exams, diagnosi
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on physician assistants is mixed: administrative and some diagnostic tasks may be automated, but clinical decisions, patient communication, and procedures are hard to replace; overall demand grows due to healthcare efficiency.
-
 Junior PAs can advance to senior physician assistants or specialist PAs (e.g., surgery, emergency), some move into medical management or education. Requires continuous education to maintain certification.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior PAs can advance to senior physician assistants or specialist PAs (e.g., s
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable for bachelor's degree or equivalent, requires PERM. PA usually requires a master's, but EB-3 is also possible. Long wait times, especially for countries without backlogs. |
 | Subclass J-1 Waiver (J-1 Exchange Visitor (Conrad 30 Waiver)) | For foreign medical graduates, PA may not apply. Usually for doctors. PA typically does not use this pathway. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must graduate from an ARC-PA accredited master's program, pass the NCCPA's PA
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physician-assistants/US)**

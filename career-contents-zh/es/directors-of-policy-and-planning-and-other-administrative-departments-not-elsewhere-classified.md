@@ -1,6 +1,6 @@
-# Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified 职业分析 · 西班牙
+# 未另分类的政策与规划主任及其他行政主任（Directors of Policy and Planning and Other Administrative Departments Not Elsewhere Classified）职业分析 · 西班牙
 
-**职业代码: 1219 (CNO)**
+**职业代码：1219 (CNO)**
 
 负责制定和执行组织或政府部门的政策、战略与规划，监督行政管理、预算和人事，确保目标实现。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 6,500. 西班牙公共行政领域稳定，受财政紧缩影响增长缓慢，但资深职位需求持续，需应对数字化改革和欧盟政策协调。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 6,500。西班牙公共行政领域稳定，受财政紧缩影响增长缓慢，但资深职位需求持续，需应对数字化改革和欧盟政策协调。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -48,21 +48,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI 将大幅提升政策分析、数据整合与报告生成效率，但涉及多方利益协调、政治判断与问责的核心任务仍依赖人类。总体风险可控，受益明显。
 
 可从部门经理或高级政策顾问晋升，常需跨部门经验，后期可担任政府秘书长或国有企业高管，也可转向咨询业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动化生成政策简报、报告初稿及会议纪要
 - 替代基础数据收集、整理与可视化工作
 - 自动监测法规变化并生成合规预警
 - 替代项目进度跟踪与预算执行的常规汇报
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI 辅助复杂政策方案的模拟推演与多方案比较
 - 实时舆情分析与政策影响预测
@@ -70,7 +70,7 @@ AI 将大幅提升政策分析、数据整合与报告生成效率，但涉及�
 - 智能知识库加速政策研究文献综述
 - 利用 NLP 自动提取公众意见中的关键诉求
 
-**人类护城河:**
+**人类护城河：**
 
 - 高层政治判断与敏感决策的责任担当
 - 跨部门利益协调与冲突调解能力
@@ -78,7 +78,7 @@ AI 将大幅提升政策分析、数据整合与报告生成效率，但涉及�
 - 基于长期经验的战略直觉与情景预判
 - 伦理困境中的价值权衡与最终定夺
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析和统计建模（Python/R/SQL）
 - 政策模拟与情景规划工具 (如系统动力学)
@@ -87,26 +87,20 @@ AI 将大幅提升政策分析、数据整合与报告生成效率，但涉及�
 - 数字化转型与数字政府治理知识
 - 跨部门协作与利益相关者沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- digitalization
-- public administration reform
-- EU policy coordination
-- aging workforce
+- 数字化
+- 公共行政改革
+- 欧盟政策协调
+- 劳动力老龄化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，西班牙主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | 适合高薪技术管理岗位，需大学学历和offer，薪资通常>4万欧元 |
-| Subclass Cuenta ajena (Work Permit (Employer Sponsorship)) | 雇主担保工作居留，需证明职位无法由本地人填补 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +141,12 @@ AI 将大幅提升政策分析、数据整合与报告生成效率，但涉及�
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/directors-of-policy-and-planning-and-other-administrative-departments-not-elsewhere-classified/ES)**

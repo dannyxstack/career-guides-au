@@ -52,8 +52,6 @@ Metal structure workers fabricate and install metal components such as steel fra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 Can progress from apprentice to skilled worker, then obtain Master (Meister) qualification, or further study to become technician or engineer. Also possible to start own business or move into project management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from apprentice to skilled worker, then obtain Master (Meister) qua
 | Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, introduced in 2024, suitable for applicants with professional qualifications |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can become a master (Meister) to manage projects, or further study as a techn
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-construction-worker/DE)**

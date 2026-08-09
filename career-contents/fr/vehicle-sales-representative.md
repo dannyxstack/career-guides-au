@@ -51,8 +51,6 @@ Automotive sales consultants are responsible for promoting new or used cars to c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Junior sales can be promoted to senior sales, sales manager, or brand manager. Some have shifted to used car appraisal, automotive finance, or leasing.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Junior sales can be promoted to senior sales, sales manager, or brand manager. S
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain an offer from a French employer and apply to the Labor Bureau for a work permit, which applies to non-urgent occupations. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with an annual salary exceeding €40,000 and holding a master's degree or equivalent experience, who can quickly obtain residency. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: An employer must provide a work contract, apply for a work permit (Salarié) 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-sales-representative/FR)**

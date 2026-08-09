@@ -50,8 +50,6 @@ Booksellers work in bookstores or publishing houses handling book sales, custome
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Junior booksellers can advance to store manager or regional buyer, or move into publishing marketing or copyright management. Career path depends on store size and company structure.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior booksellers can advance to store manager or regional buyer, or move into 
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Must complete German-recognized vocational training (Dual System) and obtain a job contract; book dealers can apply for a work visa through this pathway. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | A points-based system allowing job-seeking and trial training in Germany, suitable for those with relevant qualifications or language skills. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance from shop assistant to store manager or regional buyer, or move i
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookseller/DE)**

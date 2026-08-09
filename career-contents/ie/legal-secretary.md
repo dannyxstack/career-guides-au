@@ -51,8 +51,6 @@ A legal secretary provides administrative support in law firms or legal departme
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
-
 Junior legal secretaries can advance to senior legal secretaries or legal assistants, and some may become lawyers or legal administrative managers through further study. After gaining experience, they can move into specialized areas such as corporate law or intellectual property law.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior legal secretaries can advance to senior legal secretaries or legal assist
 | Subclass EU Blue Card (EU Blue Card) | Applicable to positions with an annual salary not lower than the general threshold (approx. €40,000) and at least 3 years of relevant experience, but legal secretaries generally do not meet advanced professional requirements. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Legal secretary is not on the skilled occupation list and is generally not applicable. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance from junior secretary to senior secretary or legal assistant, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretary/IE)**

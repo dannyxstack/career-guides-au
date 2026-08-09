@@ -54,8 +54,6 @@ Port operators in New Zealand handle loading and unloading of cargo and operate 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Stevedores face moderate automation risk; physical and coordination tasks will be partially replaced by equipment, but safety supervision and emergency judgment rely on human experience, with AI mostly assisting and augmenting.
-
 Starting as a general worker, can advance to equipment operator (e.g., crane operator), team leader, or dock supervisor. With experience, can transition to logistics coordination or port management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Starting as a general worker, can advance to equipment operator (e.g., crane ope
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: The basic requirement is a port safety certificate issued by Maritime New Zea
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stevedore/NZ)**

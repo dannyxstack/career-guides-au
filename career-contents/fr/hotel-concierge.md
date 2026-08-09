@@ -4,8 +4,6 @@
 
 Hotel concierges are responsible for providing personalized services to guests, such as arranging transportation, booking restaurants, and recommending attractions, ensuring a comfortable and satisfying stay.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Hotel concierges are responsible for providing personalized services to guests, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over routine tasks like information retrieval, booking, and translation, lowering the skill threshold but also creating higher demand for personalized service and local expertise. Concierge roles will not disappear, but responsibilities will shift toward high-value experience design.
-
 Career Promotion Path: Junior Concierge - > Assistant Chief Concierge - > Chief Concierge (can join the Golden Key organization) - > Concierge Manager - > Hotel Front Office Manager.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career Promotion Path: Junior Concierge - > Assistant Chief Concierge - > Chief 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | After obtaining a work contract from a French employer, applications must pass review by the Labor Bureau (lacking local labor validation). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, but concierges are often difficult to qualify unless in luxury hotel management. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Opportunities to be promoted to chief concierge or even front office manager,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-concierge/FR)**

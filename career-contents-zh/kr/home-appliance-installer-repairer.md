@@ -1,10 +1,8 @@
-# Home Appliance Installer & Repairer 职业分析 · 韩国
+# 家电安装与维修工（Home Appliance Installer & Repairer）职业分析 · 韩国
 
-**职业代码: 83221 (KECO)**
+**职业代码：83221 (KECO)**
 
-A skilled technician who installs home appliances and diagnoses/repairs malfunctions. Provides on-site service for refrigerators, washing machines, air conditioners, and more.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+熟练技工，负责安装家电并诊断/修理故障。提供冰箱、洗衣机、空调等现场服务。
 
 
 ---
@@ -13,8 +11,8 @@ A skilled technician who installs home appliances and diagnoses/repairs malfunct
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 0年 | $0~$0（No separate training cost） |
-| Associate degree in Electrical/Electronic Engineering | 2 年 | $5,000,000~$8,000,000（Tuition and textbook fees） |
+| 高中及以上学历 | 0年 | $0~$0（无单独培训费用） |
+| 电气/电子工程副学士学位 | 2 年 | $5,000,000~$8,000,000（学费和教材费） |
 
 ---
 
@@ -22,18 +20,18 @@ A skilled technician who installs home appliances and diagnoses/repairs malfunct
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician (E.technician) | Human Resources Development Service of Korea | 可选 | Not mandatory, but advantageous |
-| Home Appliance Repair Technician | Korea Chamber of Commerce & Industry | 可选 | Private certification, beneficial for practical work |
-| Electrical Engineer (E.gongsa) | Human Resources Development Service of Korea | 可选 | Advantageous for high-level technicians |
+| 电工（电气技术员） | 韩国人力资源开发服务局 | 可选 | 非强制但有利 |
+| 家电维修技师 | 大韩商工会议所 | 可选 | 私人认证，对实际工作有利 |
+| 电气工程师（如工社） | 韩国人力资源开发服务局 | 可选 | 对高级技术人员有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 85,000. Demand remains steady due to expanding appliance adoption and aging products, but the growth in employment is expected to be moderate as DIY repair culture and AI diagnostic services spread.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 85,000。因家电普及和产品老化，需求稳定，但就业增长预计温和，因DIY维修文化和AI诊断服务推广。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,90 +39,82 @@ A skilled technician who installs home appliances and diagnoses/repairs malfunct
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$32,000,000 | Based on large company subcontractors |
-| 中级（4-7年） | $32,000,000~$42,000,000 | Varies by skill level |
-| 高级（8年+） | $40,000,000~$55,000,000 | Team lead or self-employed, variable |
+| 入门级（0-3年） | $25,000,000~$32,000,000 | 基于大公司分包商 |
+| 中级（4-7年） | $32,000,000~$42,000,000 | 因技能水平而异 |
+| 高级（8年+） | $40,000,000~$55,000,000 | 团队负责人或自雇，视情况而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist in fault diagnosis and enable predictive maintenance, but on-site installation and repair require human hands, making full replacement difficult.
+AI可辅助故障诊断和实现预测性维护，但现场安装和维修需要人工，难以完全替代。
 
-After joining, acquire field experience for 2-3 years; after 5+ years, become eligible for senior or team lead positions. Obtaining certifications enables starting a business or operating a dealership.
+入职后，积累2-3年现场经验；5年以上可晋升为高级或团队主管职位。获得认证后可创业或经营经销店。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple fault diagnosis
-- Parts inventory management
-- Customer booking and scheduling
+- 简单故障诊断
+- 零件库存管理
+- 客户预约与排期
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision diagnosis and analysis
-- Remote monitoring data interpretation
-- Energy efficiency consulting
+- 精准诊断与分析
+- 远程监控数据解读
+- 能源效率咨询
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability
-- Direct repair skills
-- Building customer trust
+- 现场适应能力
+- 直接维修技能
+- 建立客户信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI diagnostic tools
-- Understanding IoT appliances
-- Electric vehicle charger installation skills
+- 使用AI诊断工具
+- 理解物联网设备
+- 电动汽车充电器安装技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart home installation
-- Eco-friendly appliance repair
-- AI diagnosis assistance
-- Electric vehicle charger installation
+- 智能家居安装
+- 环保家电维修
+- AI辅助诊断
+- 电动汽车充电器安装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if invited as skilled technician, but requirements are strict. |
-| Subclass E-9 (Non-professional Employment) | Limited to simple installation and repair assistance. |
-| Subclass F-2 (Residence) | Employment possible for long-term stay, but separate permit required. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity who enjoy handling tools
-- People who prefer outdoor field activities
-- People who are comfortable with customer service
+- 手巧且喜欢使用工具的人
+- 喜欢户外实地活动的人
+- 适合客户服务的人
 
 **谁不适合**
-- People who find repetitive or simple tasks boring
-- People who are afraid of hazardous work
+- 对重复或简单任务感到枯燥的人
+- 害怕危险工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for home appliance installers and repairers?**
-答：Entry-level: about 25-32 million KRW; experienced (8+ years): 40-55 million KRW.
+**问：家电安装和维修人员的平均工资是多少？**
+答：入门级：约2500-3200万韩元；有经验（8年以上）：4000-5500万韩元。
 
-**问：Can foreigners get a visa for this job?**
-答：Possible with E-7 visa but requirements are strict; E-9 visa is limited to auxiliary tasks. Advantageous for F-2 (Residence) visa holders.
+**问：外国人能否获得这份工作签证？**
+答：E-7签证可行但要求严格；E-9签证仅限于辅助任务。F-2（居住）签证持有者具有优势。
 
 
 ---
@@ -142,12 +132,12 @@ After joining, acquire field experience for 2-3 years; after 5+ years, become el
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/home-appliance-installer-repairer/KR)**

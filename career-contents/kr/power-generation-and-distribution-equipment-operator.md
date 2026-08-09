@@ -4,8 +4,6 @@
 
 This occupation involves controlling, monitoring, and operating power generation and transmission/distribution facilities at power plants or substations, ensuring a stable electricity supply.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ This occupation involves controlling, monitoring, and operating power generation
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation assist in remote monitoring and control of power generation and distribution devices, but human judgment is crucial for fault response and safety management, so complete replacement is difficult. Rather, some tasks may be reduced due to operational efficiency.
-
 Starting as a junior operator, you can advance to main control room operator, shift supervisor, or power plant manager after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a junior operator, you can advance to main control room operator, sh
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon employment as an electrician; requires high skill |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Unskilled plant assistant work is limited |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: An electrician certificate is essential and provides extra points in internal
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-generation-and-distribution-equipment-operator/KR)**

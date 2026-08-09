@@ -51,8 +51,6 @@ ICT account managers are responsible for managing client relationships for IT pr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance the sales strategies and customer analysis capabilities of ICT account managers, but automation may also replace some administrative and reporting tasks, leading to mixed impacts overall.
-
 Junior account managers can advance to senior account managers, account directors, or sales vice presidents. With experience, they may move into solutions architecture, product management, or entrepreneurship. Those with a technical background are more competitive.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior account managers can advance to senior account managers, account director
 | Subclass 190 (Skilled Nominated Visa) | Permanent state-sponsored visa, requires ACS assessment and state nomination; some states prioritize ICT roles |
 | Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa: to switch to 191 permanent residence requires 3 years of residence and meeting income requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to senior account manager, account director, sales vice presi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-account-manager/AU)**

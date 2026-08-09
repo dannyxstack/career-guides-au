@@ -4,8 +4,6 @@
 
 A professional artist who plays, creates, and educates traditional Korean music, contributing to its popularization and globalization through performances and broadcasting.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional artist who plays, creates, and educates traditional Korean music,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can be used for Korean traditional music creation (composition, arrangement) or sound correction and educational tools, but it is difficult to replace the improvisation and emotion of traditional music. Technology is used as an auxiliary means, and the human role remains central in performance and education settings.
-
 After formal training at institutions like the National Gugak Center or Gugak High School, join national or provincial Gugak organizations or work as a freelancer, building experience and reputation.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After formal training at institutions like the National Gugak Center or Gugak Hi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for inviting outstanding talent, but rare for Gugak musicians |
-| Subclass D-2 (Study abroad) | Possible for Korean traditional music majors with activity restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Not mandatory, but it is common to receive formal education at traditional mu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/korean-traditional-musician/KR)**

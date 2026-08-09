@@ -4,8 +4,6 @@
 
 Administrative staff at post offices who sort mail, handle counter services, and track postal items. Employed by Japan Post, supporting community infrastructure.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Administrative staff at post offices who sort mail, handle counter services, and
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automated mail sorting machines and AI-optimized delivery routes are reducing simple sorting tasks, though face-to-face services and complex mail processing remain.
-
 Promotion from general staff to chief, section manager, and postmaster possible. Transfer to logistics firms like Nittsu or Yamato Transport. Vocational school postal courses serve as career entry points.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Promotion from general staff to chief, section manager, and postmaster possible.
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Eligible for clerical work, but post office counters may require interpretation elements |
-| Subclass 特定活動 (Designated Activities (University Graduate)) | Staying in Japan after graduating from a Japanese university while job-hunting |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: very low (½☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: Counter work requires fluent Japanese, and may be possible with an Engineer/S
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-clerk/JP)**

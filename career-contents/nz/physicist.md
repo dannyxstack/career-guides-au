@@ -54,8 +54,6 @@ Physicists in New Zealand primarily work in scientific research, university teac
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
-
 Career path: early stage involves experimental/theoretical research or clinical medical physics training (2 years); mid-career can advance to senior researcher or chief medical physicist; later stage can progress to management (e.g., research director, head of medical physics department) or transition to cross-disciplinary fields such as data science or financial analysis.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: early stage involves experimental/theoretical research or clinical 
 | Subclass SMC (Skilled Migrant Category) | Skilled migration: Based on the 6-point system, physicists can typically gain points for master's/doctorate degrees, reaching 6 points to apply. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: applies to roles not meeting the Green List criteria; requires accredited employer sponsorship. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can enter fields such as data science, financial modeling, software developme
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physicist/NZ)**

@@ -51,8 +51,6 @@ Operates, installs, adjusts, and maintains aerospace vehicles and ground support
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aerospace engineering and operations technician jobs will be significantly enhanced rather than replaced by AI, as physical operations and compliance requirements create a moat, but data analysis and simulation tasks face automation risk.
-
 Start as a junior technician, can advance to senior technician, team leader, or engineering support manager. Some transition to aerospace engineering roles through further education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior technician, can advance to senior technician, team leader, or 
 | Subclass EB-2 (Employment-Based Second Preference) | Requires advanced degree or exceptional ability, PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Applies to skilled workers and professionals; requires PERM labor certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires at least an associate degree (2 years); some positions accept releva
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aerospace-engineering-and-operations-technologists-and-technicians/US)**

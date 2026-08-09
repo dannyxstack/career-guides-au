@@ -52,8 +52,6 @@ Lay, cut, and install concrete/stone interlocking paving blocks, including base 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Paving work is a typical labor-intensive outdoor job. AI and automation will significantly reduce jobs: autonomous pavers and robotic brick layers are already mature, with replacement rates over 70%.
-
 Can advance from paver to paving crew leader, project manager, or start own paving company.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from paver to paving crew leader, project manager, or start own pavi
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Suitable for seasonal temporary paving workers, but requires employer sponsorship with limited quotas. |
 | Subclass H-1B (Specialty Occupations) | Typically not suitable for this occupation because a bachelor's degree is not required. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation usually does not meet H-1B requirements, and PERM labor certi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/segmental-pavers/US)**

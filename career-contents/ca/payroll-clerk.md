@@ -54,8 +54,6 @@ In Canada, payroll officers calculate employee wages, deductions, and generate r
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Payroll clerks face medium risk of AI replacement; data entry and report generation can be automated, but compliance judgment, employee communication, and exception handling still require humans, leading to mixed outlook.
-
 Junior payroll clerks can advance to senior payroll specialists, payroll managers, or transition to HR specialists; can also pursue CPP certification (Canadian Payroll Association). Long-term, can shift to consulting or system implementation.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior payroll clerks can advance to senior payroll specialists, payroll manager
 | Subclass CEC (Canadian Experience Class) | If you have 1 year of relevant work experience in Canada, you can apply through Express Entry |
 | Subclass FSW (Federal Skilled Worker Program) | Must meet 67/100 points threshold, salary clerk is a B-class occupation, eligible for invitation |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No mandatory license, but CPA's PCP certification can enhance employability; 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-clerk/CA)**

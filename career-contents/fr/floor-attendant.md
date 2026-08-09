@@ -4,8 +4,6 @@
 
 Responsible for cleaning, organizing, and maintaining hotel rooms, ensuring tidiness and comfort to provide guests with a high-quality stay.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cleaning, organizing, and maintaining hotel rooms, ensuring tidi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core cleaning and organizing tasks for floor attendants can be automated and replaced, but the hotel industry still has rigid demands for interpersonal interaction and standardization, leading to fewer positions and higher skill requirements.
-
 You can be promoted from floor attendant to floor supervisor or housekeeping manager, and after gaining experience, you can move on to higher-end hotels or resorts, or enter the hotel management field through training.
 
 **Tasks most exposed to AI:**
@@ -94,15 +90,9 @@ You can be promoted from floor attendant to floor supervisor or housekeeping man
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | For employment-based residence, you must obtain a work contract with a French employer and meet minimum wage requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -143,12 +133,12 @@ A: It is difficult because the occupation is not in urgent demand and pays relat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-attendant/FR)**

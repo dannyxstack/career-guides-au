@@ -51,8 +51,6 @@ Singers perform through singing, covering live shows, recordings, musicals, choi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's Impact on Singers is Mixed: AI-generated music and virtual singers compress the low-end market, but digital tools amplify individual production and performance capabilities. Top-tier human voices and emotional expression remain irreplaceable core assets.
-
 Self-media and short videos have become key channels for exposure and monetization; event singing (weddings/corporate) is a stable cash flow source.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Self-media and short videos have become key channels for exposure and monetizati
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: AI-generated voices and covers impact session singing and stock vocals, but l
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/singer/AU)**

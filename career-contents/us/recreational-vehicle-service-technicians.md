@@ -53,8 +53,6 @@ Responsible for diagnosing, inspecting, adjusting, repairing, or refurbishing re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Task differentiation for recreational vehicle repair technicians: electrical/electronic diagnostics, documentation, and client communication will rely on AI tools, but complex multi-system fault troubleshooting, physical repairs, and custom modifications still require human experience; overall outlook is mixed.
-
 Can advance from junior technician to senior technician or supervisor, or specialize in specific systems like electrical or air conditioning. With experience, may open an independent repair shop or move to quality inspection roles in RV manufacturers.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior technician to senior technician or supervisor, or specia
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation typically does not meet H-1B requirements, making immigration
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreational-vehicle-service-technicians/US)**

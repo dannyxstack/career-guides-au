@@ -53,8 +53,6 @@ Buying and selling securities or commodities for investment and trading firms, o
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Financial sales agents' work is highly divergent: standardized trade execution and information retrieval will be replaced by AI, but relationship maintenance, complex financial solution customization, and regulatory compliance still rely on human judgment. Entry-level roles like order entry have significantly narrowed, while senior advisor roles have increased in value due to AI enhancement.
-
 Junior agents can advance to senior agent, team supervisor, or branch manager; with accumulated client resources, transition to private wealth management or institutional sales; or pursue CFA to enter investment analysis or portfolio management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior agents can advance to senior agent, team supervisor, or branch manager; w
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, employer sponsorship, and longer waiting times. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find US workers, then can apply for employment-based green card. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must pass FINRA Series 7 and Series 63 exams; Series 65 or 66 required if pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/securities-commodities-and-financial-services-sales-agents/US)**

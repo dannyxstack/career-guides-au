@@ -50,8 +50,6 @@ Taxi drivers transport passengers safely to their destinations, working for priv
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Due to AI and autonomous driving technology, the taxi driver occupation is likely to shrink in the long term. However, areas requiring human judgment and service, such as complex urban sections or transportation for the disabled and elderly, are expected to remain.
-
 Corporate taxi drivers may obtain a private taxi license to become self-employed or work as platform drivers. No retirement age; many elderly workers, limited promotion paths.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Corporate taxi drivers may obtain a private taxi license to become self-employed
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Some local governments allocate E-9 quotas for taxi driving, require Korean language skills |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can also work, with few activity restrictions |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage, free to work |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: In the short term, the impact is limited, but partial replacement is possible
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/taxi-driver/KR)**

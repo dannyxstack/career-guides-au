@@ -1,10 +1,8 @@
-# Street stall and mobile vendors 职业分析 · 韩国
+# 街边摊位和流动摊贩（Street stall and mobile vendors）职业分析 · 韩国
 
-**职业代码: 61551 (KECO)**
+**职业代码：61551 (KECO)**
 
-This profession involves selling food, miscellaneous goods, etc., on the street using stalls or vehicles.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+本职业涉及使用摊位或车辆在街头销售食品、杂货等。
 
 
 ---
@@ -13,7 +11,7 @@ This profession involves selling food, miscellaneous goods, etc., on the street 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 不需要 | 0年 | $0~$0（No specific education or training required） |
+| 不需要 | 0年 | $0~$0（无需特定教育或培训） |
 
 ---
 
@@ -21,17 +19,17 @@ This profession involves selling food, miscellaneous goods, etc., on the street 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food hygiene training (when cooking/selling) | Korea Food and Drug Administration | 必备 | Mandatory when cooking/selling food |
-| Cook Certification (optional) | Human Resources Development Service of Korea | 可选 | Helps improve food quality |
+| 食品卫生培训（烹饪/销售时） | 韩国食品医药品安全处 | 必备 | 烹饪/销售食品时强制 |
+| 厨师证（可选） | 韩国人力资源开发服务局 | 可选 | 有助于改善食品质量 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 150,000. Due to the spread of online shopping and stricter regulations, the outlook is poor, but it persists partly due to demand in tourist areas and low entry barriers for startups.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 150,000。由于网购普及和监管趋严，前景不佳，但因旅游区需求和创业门槛低，仍部分存在。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,92 +37,83 @@ This profession involves selling food, miscellaneous goods, etc., on the street 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $12,000,000~$24,000,000 | Large variation depending on location and items |
-| 中级 (3-7年) | $18,000,000~$36,000,000 | Revenue increases with regular customers |
-| Advanced (7+ years) | $24,000,000~$48,000,000 | Profit possible with multiple stalls |
+| 初级（0-3年） | $12,000,000~$24,000,000 | 因地点和项目而异，差异较大 |
+| 中级 (3-7年) | $18,000,000~$36,000,000 | 收入随常客增加 |
+| 高级（7年以上） | $24,000,000~$48,000,000 | 多个摊位可盈利 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Although AI does not directly run street stalls, the introduction of kiosks and mobile ordering systems may reduce some simple sales tasks. However, human interaction and on-the-spot cooking are difficult to automate, so the impact is limited.
+虽然AI不直接经营街边摊位，但自助点餐机和移动订餐系统的引入可能会减少一些简单的销售任务。然而，人际互动和现场烹饪难以自动化，因此影响有限。
 
-Starting as an individual business without store rental, there is no specific promotion path. Expanding the business typically involves operating multiple stalls or combining online sales.
+从个体经营起步，无店面租用，无特定晋升路径。扩展业务通常涉及多个摊位或结合在线销售。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive sales
-- Calculation and change handling
+- 简单的重复性销售
+- 计算与找零处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Menu recommendation and customized sales
-- Automated inventory management
+- 菜单推荐和定制化销售
+- 自动化库存管理
 
-**人类护城河:**
+**人类护城河：**
 
-- On-the-spot cooking skills
-- Customer relationship building
-- On-site response ability
+- 现场烹饪技能
+- 客户关系建设
+- 现场响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 简单烹饪技巧
-- Small-scale accounting management
-- SNS marketing
+- 小规模会计管理
+- 社交媒体营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Street Food
-- Tourism demand
-- Regulatory changes
-- Online substitution
+- 街头小吃
+- 旅游需求
+- 监管变化
+- 在线替代
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for some foreign-operated stalls requiring expertise, but not a general route |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residency stage, allows self-employment |
-| Subclass F-4 (Overseas Korean (F-4)) | Self-employment allowed for foreign nationals of Korean descent |
-| Subclass F-5 (Permanent Residence) | Permanent residents can run any self-employed business |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in self-employment
-- Those wanting to start a small business
-- Those who prefer flexible working hours
+- 有意自主创业者
+- 想要创业的人
+- 喜欢灵活工作时间的人
 
 **谁不适合**
-- Those wanting stable income
-- Those who prefer regular work
+- 希望收入稳定的人
+- 偏好常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average monthly income of a street vendor?**
-答：The average is 1 to 3 million KRW per month, but it varies greatly by location, item, and season.
+**问：街头小贩的平均月收入是多少？**
+答：平均每月1至3百万韩元，但因地点、项目和季节差异很大。
 
-**问：Can foreigners work as street vendors?**
-答：It is difficult with an employment visa (E-7, etc.), but possible with a permanent residence (F-5) or overseas Korean (F-4) visa.
+**问：外国人可以做街头小贩吗？**
+答：就业签证（E-7等）难以获得，但永久居留（F-5）或在外同胞（F-4）签证可能可行。
 
-**问：Do street vendors need permits?**
-答：They need to complete hygiene training, report to local government, and obtain a street vendor permit. Unauthorized vending can be subject to crackdowns.
+**问：街头小贩需要许可证吗？**
+答：他们需要完成卫生培训、向当地政府报告并取得街头摊贩许可证。未经授权的销售可能会受到打击。
 
 
 ---
@@ -142,12 +131,12 @@ Starting as an individual business without store rental, there is no specific pr
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/street-stall-and-mobile-vendors/KR)**

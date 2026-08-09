@@ -49,8 +49,6 @@ Engaging in simple manual or service work not classified elsewhere, such as movi
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly impact unclassified frontline workers: many repetitive manual tasks will be replaced by robots or algorithms, reducing job demand; however, some tasks requiring human judgement will remain.
-
 Limited advancement paths; can transition to logistics, catering, or similar roles through experience; or take short-term training to become a skilled worker for income growth.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Limited advancement paths; can transition to logistics, catering, or similar rol
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU workers in Italy taking low-skilled jobs; requires employer to apply for a quota, with annual limits. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work in Italy without a visa, but this does not apply to non-EU citizens. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Limited, but can shift to skilled roles in logistics, hospitality, etc. throu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-worker-not-elsewhere-classified/IT)**

@@ -55,8 +55,6 @@ Refrigeration and Air Conditioning Mechanics install, service and maintain comme
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Tasks of refrigeration and air conditioning technicians heavily rely on physical operations and on-site judgment, so AI's direct replacement is limited. However, AI's penetration in fault diagnosis, energy efficiency optimization, and knowledge retrieval will compress junior positions, with automation exposure concentrated on cognitive parts.
-
 The transition to new low-GWP refrigerants requires licensed technicians to continuously update their knowledge. Automated monitoring is being introduced, but on-site installation and maintenance cannot be replaced. HVAC technicians are among the most in-demand tradespeople across Australia, particularly those with commercial HVAC experience.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ The transition to new low-GWP refrigerants requires licensed technicians to cont
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | +15 points for regional areas |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -160,12 +156,13 @@ A: The AI computing-driven surge in data centre cooling demand places extremely 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-and-air-conditioning-mechanic/AU)**

@@ -52,8 +52,6 @@ Engineering inspectors and regulatory officers inspect engineering facilities, e
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 Junior inspectors can gain experience and advance to senior inspector or supervisor, or move to project management, quality control, or compliance roles. Obtaining professional certification (e.g., recognized by Canadian Engineering Accreditation Board) aids career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior inspectors can gain experience and advance to senior inspector or supervi
 | Subclass PNP (Provincial Nominee Program) | Obtain provincial nomination priority processing, e.g., Ontario, Alberta |
 | Subclass LMIA (Labour Market Impact Assessment) | After the employer obtains an LMIA, it supports a work visa application, which can later lead to permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Stable prospects, with high demand in construction, oil and gas, manufacturin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-inspectors-and-regulatory-officers/CA)**

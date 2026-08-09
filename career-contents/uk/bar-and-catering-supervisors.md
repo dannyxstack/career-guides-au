@@ -52,8 +52,6 @@ Bar and restaurant supervisors oversee food and beverage service operations, dir
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can significantly improve efficiency in scheduling, inventory, and customer demand forecasting, but face-to-face interpersonal supervision and handling of emergencies still rely on human experience, resulting in a mixed overall impact.
-
 Usually promoted from waiter or bartender; after gaining experience, can advance to restaurant manager, regional manager, or operations director. Can also move into event catering management or hotel management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually promoted from waiter or bartender; after gaining experience, can advance
 | Subclass Health & Care (Health and Care Worker visa) | Not applicable; this occupation is not in the healthcare sector. |
 | Subclass Graduate (Graduate visa) | Graduate visa holders can work in this role without sponsorship requirements, but the visa is valid for 2 years (3 years for PhD). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, bar and restaurant supervisors are on the list of occupations eligible f
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bar-and-catering-supervisors/UK)**

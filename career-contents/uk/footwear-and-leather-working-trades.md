@@ -51,8 +51,6 @@ Shoe and leather goods traders make and repair footwear; cut, sew, decorate, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Footwear and leather goods traders face high risk of automation replacement, especially standardized shoe repair and cutting tasks can be taken over by machines and AI processes, but high-end customization, restoration, and customer service are hard to automate.
-
 Practitioners can start as apprentices, gradually become skilled artisans, or move into high-end custom, restoration studio management; some may set up their own studios or enter the luxury repair field.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Practitioners can start as apprentices, gradually become skilled artisans, or mo
 | Subclass Skilled Worker (Skilled Worker visa) | For skilled workers with employer sponsorship; must meet salary threshold (usually £25,600/year or industry standard) |
 | Subclass Graduate (Graduate visa) | Available to UK graduates, allowing 2 years of work (3 years for PhD), no sponsorship required. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Market demand is small but stable, with growth opportunities in high-end cust
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/footwear-and-leather-working-trades/UK)**

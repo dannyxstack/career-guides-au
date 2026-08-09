@@ -53,8 +53,6 @@ Install, adjust, and maintain electronic communication equipment on moving vehic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Usually start as an apprentice or junior technician, gain experience, and advance to senior technician or supervisor. Some may move to railway or shipping companies for technical management roles or start their own repair business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as an apprentice or junior technician, gain experience, and advanc
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Projected employment growth of about 6%, on par with the average. Trends towa
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-installers-and-repairers-transportation-equipment/US)**

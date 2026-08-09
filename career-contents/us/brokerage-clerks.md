@@ -55,8 +55,6 @@ Execute duties including securities trading, transfer tax calculation, stock tra
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Securities brokerage clerk roles are highly structured; automation and AI will significantly reduce core execution tasks, entry-level positions will shrink sharply, and remaining roles will shift to complex exception handling and AI process management.
-
 Junior roles can advance to senior clerical or trader positions, with some transitioning to compliance or investment advisor roles. Series licenses (e.g., Series 7) required to expand career paths.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior roles can advance to senior clerical or trader positions, with some trans
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification, but employer sponsorship is difficult. |
 | Subclass L-1 (L-1 Intracompany Transferee) | Only for intra-company transfer within multinational companies, limited opportunities. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires obtaining Series 7 and Series 63 licenses, then internal transfer or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brokerage-clerks/US)**

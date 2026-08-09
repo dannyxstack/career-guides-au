@@ -4,8 +4,6 @@
 
 Responsible for designing, making, and repairing various types of hats, including fashion hats, traditional hat accessories, and custom hats. Usually working in handicraft workshops or small garment companies, you need to master cutting, sewing, and styling skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for designing, making, and repairing various types of hats, includin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The craftsmanship of hat makers is difficult to fully replace by AI in the short term, but AI filters and 3D modeling are eating into tasks like design expression and style preview, while customization, repairs, and customer communication have actually been enhanced.
-
 You can advance from apprentice to master craftsman, or open your own hat workshop. Some experienced individuals have moved into the stage or film industry, engaging in stage hat production. You can also enhance your design skills and become a creative director through further studies at art schools.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can advance from apprentice to master craftsman, or open your own hat worksh
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Work residence employed by a French company requires employer sponsorship and matches occupational requirements |
-| Subclass Passeport Talent (Passeport Talent) | Talent passport, applicable to artists or craftsmen, requires proof of high skill or financial contribution |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: This profession is not in short supply but is relatively difficult to immigra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hat-maker/FR)**

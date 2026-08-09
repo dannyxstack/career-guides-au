@@ -53,8 +53,6 @@ Responsible for installation, maintenance, and renovation of building facades, i
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on facade builders is mixed: design optimization and material cutting tasks are automated, but on-site installation, quality inspection, and complex structure handling—which rely on physical operations and judgment—are enhanced by AI-assisted tools. Competition for entry-level jobs increases, but the value of experienced professionals rises.
-
 Career path: start as a facade construction assistant, can advance to foreman or project manager, or become an energy efficiency consultant or building technology expert through continuing education.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: start as a facade construction assistant, can advance to foreman or
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing unsponsored jobseekers to enter the country to find work, requiring proof of language and qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment, requiring relevant qualifications and sufficient funds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can be promoted to site foreman, project manager, or through further study be
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/facade-builder/DE)**

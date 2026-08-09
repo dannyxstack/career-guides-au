@@ -54,8 +54,6 @@ General practitioners provide primary healthcare in New Zealand, including diagn
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
-
 Starting as a junior GP, you can advance to senior partner or specialist. You can also move into medical management, academic research, or public health, offering diverse career paths.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior GP, you can advance to senior partner or specialist. You ca
 | Subclass SMC (Skilled Migrant Category) | Can apply via the 6-point system; general practitioners usually meet the higher education or registration requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can be used as a transitional work visa, but direct residence pathway is more preferred. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must obtain provisional registration with the Medical Council of New Zealand,
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-medical-practitioner/NZ)**

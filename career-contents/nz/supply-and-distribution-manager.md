@@ -54,8 +54,6 @@ Supply chain managers in New Zealand oversee procurement, warehousing, logistics
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The supply chain manager role presents a mixed outlook: routine scheduling and document verification tasks are automated away, but core capabilities like strategic planning, complex negotiation, and resilience design are amplified by AI, shifting value toward higher-level decision-making.
-
 Entry-level roles include logistics coordinator or procurement specialist; after 3-5 years of experience, move up to supply chain manager, then to operations director or COO. Some progress to VP level at large retailers or manufacturing companies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level roles include logistics coordinator or procurement specialist; after
 | Subclass SMC (Skilled Migrant Category) | Six-point skilled migration: eligible to apply if meeting conditions, requires a total of 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, allows work for up to 3 years after obtaining employer sponsorship. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, but need to accumulate 3-5 years of relevant work experience and obtain 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supply-and-distribution-manager/NZ)**

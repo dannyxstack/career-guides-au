@@ -55,8 +55,6 @@ Clean and repair septic tanks, sewers, or drains, including patching tank walls,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Septic tank servicers and sewer pipe cleaners face medium-high automation risk; AI-driven robotic inspection and autonomous cleaning technologies will replace most routine physical tasks, but complex environment judgment and compliance handling still require humans, and competition for entry-level positions intensifies.
-
 Can be promoted from general cleaner to team supervisor or independent contractor, or receive training to transition to more specialized fields such as water treatment or plumbing repair.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted from general cleaner to team supervisor or independent contracto
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal temporary worker visa, employer must demonstrate labor shortage |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Requires employer sponsorship and PERM labor certification, but such positions are usually difficult to obtain |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most states require a commercial driver's license (CDL) and a state wastewate
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/septic-tank-servicers-and-sewer-pipe-cleaners/US)**

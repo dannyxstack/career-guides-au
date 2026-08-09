@@ -1,10 +1,8 @@
 # 厨房助手（Kitchen Assistant）职业分析 · 韩国
 
-**职业代码: 53231 (KECO)**
+**职业代码：53231 (KECO)**
 
-A job that involves assisting cooks, preparing ingredients, and cleaning the kitchen in restaurants or institutional food services.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+协助厨师、准备食材以及在餐厅或机构餐饮服务中清洁厨房的工作。
 
 
 ---
@@ -14,7 +12,7 @@ A job that involves assisting cooks, preparing ingredients, and cleaning the kit
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 0年 | $0~$0（无特定学历要求） |
-| Culinary academy/vocational training | 3个月 | $500,000~$2,000,000（Short-term courses enable employment） |
+| 烹饪学院/职业培训 | 3个月 | $500,000~$2,000,000（短期课程即可就业） |
 
 ---
 
@@ -22,17 +20,17 @@ A job that involves assisting cooks, preparing ingredients, and cleaning the kit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cook Certification (Cooks License) | Human Resources Development Service of Korea | 可选 | Optional, but gives bonus points for employment |
-| Food Hygiene Education Certificate | Korea Food Service Industry Association, etc. | 可选 | 非强制但推荐 |
+| 厨师证书（厨师执照） | 韩国人力资源开发服务局 | 可选 | 可选，但就业时可加分 |
+| 食品卫生教育证书 | 韩国餐饮业协会等 | 可选 | 非强制但推荐 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Due to labor shortages and an aging population in the food service industry, demand for kitchen assistants remains steady, but minimum wage hikes and automation are expected to slow employment growth.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。由于餐饮业劳动力短缺和人口老龄化，厨房帮工的需求保持稳定，但最低工资上涨和自动化预计将减缓就业增长。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A job that involves assisting cooks, preparing ingredients, and cleaning the kit
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$28,000,000 | Minimum wage applies, increases with night shift allowance |
-| Intermediate (4–7 years) | $29,000,000~$34,000,000 | Varies by skill level |
-| Advanced (8+ years) | $35,000,000~$40,000,000 | Increases with kitchen management duties |
+| 初级（0-3年） | $24,000,000~$28,000,000 | 适用最低工资，夜班补贴增加 |
+| 中级（4-7年） | $29,000,000~$34,000,000 | 因技能水平而异 |
+| 高级（8年以上） | $35,000,000~$40,000,000 | 随厨房管理职责增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation are highly likely to replace simple repetitive tasks in kitchen assistant work, such as cutting and washing ingredients. However, complex kitchen cooking assistance and hygiene management require human judgment, making full replacement difficult.
+人工智能和自动化极有可能取代厨房助手工作中的简单重复性任务，如切割和清洗食材。然而，复杂的厨房烹饪辅助和卫生管理需要人类判断，因此完全替代较为困难。
 
-With experience, can advance to cook, head chef, or restaurant owner. Many foreign workers (E-9) enter this field, and skilled workers can move to higher-paying kitchen positions.
+有经验者可晋升为厨师、主厨或餐厅老板。许多外国工人（E-9）进入该领域，熟练工人可转向高薪厨房职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Cutting and washing ingredients
-- Simple food serving
-- Kitchen cleaning
+- 食材切洗
+- 简易食物供应
+- 厨房清洁
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Kitchen hygiene inspection
-- Food ingredient inventory management
-- Cooking assistant tasks requiring judgment
+- 厨房卫生检查
+- 食品原料库存管理
+- 需要判断力的烹饪助手任务
 
-**人类护城河:**
+**人类护城河：**
 
-- Experiential judgment on hygiene and safety
-- Customer response ability
-- Emergency response ability
+- 卫生与安全经验判断
+- 客户响应能力
+- 应急响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cooking skills and recipe understanding
-- Hygiene and safety management
-- Operation of kitchen automation equipment
+- 烹饪技能与食谱理解
+- 卫生与安全管理
+- 厨房自动化设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Workforce shortage in food service industry
-- Senior hiring
-- Unmanned/automation
-- Demand for group meals
+- 餐饮服务业劳动力短缺
+- 高级招聘
+- 无人化/自动化
+- 团体用餐需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Most common visa for foreign kitchen assistants. Issued under Employment Permit System. |
-| Subclass F-2 (Residence (F-2-99)) | Convertible from E-9 when meeting certain skill and income requirements. |
-| Subclass F-4 (Overseas Korean) | Available for overseas Koreans to work as kitchen assistants. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit and detail-oriented person
-- Person who can move quickly and endure simple repetitive tasks
-- Person with thorough hygiene standards
+- 身体健康且注重细节的人
+- 能快速移动且耐受简单重复任务的人
+- 具有严格卫生标准的人
 
 **谁不适合**
-- Person insensitive to cleanliness
-- Person unable to stay calm under stress
+- 对清洁不敏感的人
+- 压力下无法保持冷静者
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：厨房助理的平均薪资是多少？**
-答：Starting salary is around 24–28 million won per year, with overtime and weekend pay possible up to 30 million won or more.
+答：起薪约为每年2400-2800万韩元，加班和周末工资可能达到3000万韩元或更多。
 
-**问：Can foreigners work as kitchen assistants?**
-答：Possible with an E-9 (Non-professional Employment) visa, and can work legally through the Employment Permit System.
+**问：外国人可以担任厨房助理吗？**
+答：持有E-9（非专业就业）签证即可，并通过就业许可制度合法工作。
 
-**问：How to transition from kitchen assistant to cook?**
-答：Obtaining a cooking skills certificate and gaining field experience makes promotion to cook or job change easier.
+**问：如何从厨房助理转型为厨师？**
+答：获得烹饪技能证书并积累现场经验有助于晋升为厨师或换工作。
 
 
 ---
@@ -144,12 +134,12 @@ With experience, can advance to cook, head chef, or restaurant owner. Many forei
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/kitchen-assistant/KR)**

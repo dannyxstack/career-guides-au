@@ -52,8 +52,6 @@ Responsible for overseeing technical teams in the manufacture and repair of vehi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-As a technical supervisor, AI will take over many production scheduling, quality inspection, and document generation tasks, but complex equipment troubleshooting, team coordination, and safety decisions still require human experience and judgment, so the outlook is mixed.
-
 Can advance from technician to supervisor, then to production manager or technical director. Experienced personnel can move into project management or R&D.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from technician to supervisor, then to production manager or technic
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to qualified technicians, requires a job offer from a German employer |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, allows searching for work in Germany for one year |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Non-EU qualifications must be certified by the German Federal Office for Fore
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-vehicle-aerospace-and-shipbuilding-technology/DE)**

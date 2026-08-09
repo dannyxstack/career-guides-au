@@ -51,8 +51,6 @@ Technology R&D Managers lead R&D teams, formulate innovation strategies, manage 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
-
 Usually starts as a research and development engineer, gradually advancing to team leader, department manager, and eventually Chief Technology Officer (CTO). Requires both technical depth and management skills.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually starts as a research and development engineer, gradually advancing to te
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Technology R&D manager is a non-regulated occupation, no mandatory certificat
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-technical-research-and-development/DE)**

@@ -54,8 +54,6 @@ Operate and monitor textile machinery such as looms to process yarn into fabric 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile fiber and yarn preparation and winding operators face high automation risk; AI and robots will massively replace repetitive manual operations, and job demand continues to decline, but equipment maintenance and quality monitoring still retain some manual roles.
-
 Junior operators can progress to senior operator or supervisor roles; some may transition to textile technician or quality control positions. Requires experience and possibly relevant certifications to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior operators can progress to senior operator or supervisor roles; some may t
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically only requires high school graduation. Some employers provide on-the
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-fibre-and-yarn-preparation-and-winding-operators/CA)**

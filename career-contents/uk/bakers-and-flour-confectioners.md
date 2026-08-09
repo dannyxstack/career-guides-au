@@ -52,8 +52,6 @@ Prepare and bake dough, pastry, and cake mixtures; hand-make and finish flour-ba
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
-
 Can start as an apprentice and progress to senior baker or pastry chef, managing production teams or opening your own bakery.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can start as an apprentice and progress to senior baker or pastry chef, managing
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually through apprenticeships or vocational training, such as City & Guilds
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bakers-and-flour-confectioners/UK)**

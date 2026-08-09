@@ -51,8 +51,6 @@ Includes independent artists, street performers, freelance creative workers, etc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on creative performing artists is mixed: some executive tasks (e.g., colour grading, basic composition) face automation, but core creativity, improvisational interaction, and emotional expression are amplified by AI tools, fostering new creative possibilities.
-
 Mostly freelance, gradually build personal brand, expand into teaching, curation, arts management, etc., few can enter top-tier art institutions.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Mostly freelance, gradually build personal brand, expand into teaching, curation
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled artists employed by recognized sponsoring organizations, meeting income threshold (approx. €4,500 monthly salary in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-income artists, requiring an employment contract and a salary of at least €5,331/month (2024). |
-| Subclass Orientation Year (Orientation Year) | Graduates from the Netherlands or top 200 global universities can apply, receive a 1-year job search period, and work freely. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Start with freelance performances, gradually build a personal brand, and expa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/creative-and-performing-artist-not-elsewhere-classified/NL)**

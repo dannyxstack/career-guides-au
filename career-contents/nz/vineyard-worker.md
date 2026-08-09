@@ -52,8 +52,6 @@ Vineyard workers are responsible for viticulture, pruning, irrigation, pest and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
-
 Progression to senior vineyard worker, team leader, or vineyard manager; some transition to winemaking or vineyard management. After gaining experience, you can apply for residency through the Green List.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progression to senior vineyard worker, team leader, or vineyard manager; some tr
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After working as a vineyard worker for 24 months with an hourly wage of $29.66, can apply for residency |
 | Subclass SMC (Skilled Migrant Category) | 6-point system: qualifications + work experience, with extra points if hourly wage reaches $39.29 (3x median). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires physical strength, teamwork, basic mechanical operation (e.g., tract
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vineyard-worker/NZ)**

@@ -52,8 +52,6 @@ Respiratory therapists assess, treat, and care for patients with respiratory dis
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
-
 Junior respiratory therapists can advance to senior therapist, supervisor, or department manager, or specialize in neonatal/pediatrics, sleep medicine, or pulmonary function testing, or further study to become a physician assistant or nurse.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior respiratory therapists can advance to senior therapist, supervisor, or de
 | Subclass EB-3 (EB-3 Skilled Worker) | Require at least 2 years of training or experience, apply for green card through PERM labor certification. Respiratory therapists are in shortage, EB-3 visa queue is long. |
 | Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens may apply; respiratory therapists are on the USMCA occupational list, no lottery required, renewable. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: In the US, at least an associate degree and completion of an NBRC-accredited 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-therapists/US)**

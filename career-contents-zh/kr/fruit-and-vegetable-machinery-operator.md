@@ -1,8 +1,8 @@
-# Fruit and vegetable machinery operator 职业分析 · 韩国
+# 果蔬机械操作员（Fruit and vegetable machinery operator）职业分析 · 韩国
 
-**职业代码: 87341 (KECO)**
+**职业代码：87341 (KECO)**
 
-A production worker who operates and manages automated machines that sort, wash, cut, dry, and package fruits and vegetables.
+操作并管理自动化机器对果蔬进行分拣、清洗、切割、干燥和包装的生产工人。
 
 
 ---
@@ -12,8 +12,8 @@ A production worker who operates and manages automated machines that sort, wash,
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育） |
-| Food Science and Technology in community college | 2 年 | $6,000,000~$10,000,000（Tuition fee basis） |
-| Vocational training (Polytech) | 1年 | $500,000~$2,000,000（Government funding available） |
+| 社区学院食品科学与技术 | 2 年 | $6,000,000~$10,000,000（学费基准） |
+| 职业培训（理工学院） | 1年 | $500,000~$2,000,000（可申请政府资助） |
 
 ---
 
@@ -21,18 +21,18 @@ A production worker who operates and manages automated machines that sort, wash,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 卫生证书 | Public health center | 必备 | Required for employment in food industry |
-| Food Processing Technician | Human Resources Development Service of Korea | 可选 | Certifies ability in processing machinery operation and hygiene management |
-| Food Engineer | Human Resources Development Service of Korea | 可选 | Requires advanced knowledge; advantageous for promotion |
+| 卫生证书 | 公共卫生中心 | 必备 | 食品行业就业所需 |
+| 食品加工技术员 | 韩国人力资源开发服务局 | 可选 | 认证加工机械操作和卫生管理能力 |
+| 食品工程师 | 韩国人力资源开发服务局 | 可选 | 需要高级知识；对晋升有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 12,000. Employment is expected to increase slightly due to rising demand for processed foods and automation, but low-skilled jobs are likely to decrease.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 12,000。因加工食品需求上升和自动化，就业预计略有增长，但低技能岗位可能减少。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,92 +40,85 @@ A production worker who operates and manages automated machines that sort, wash,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$32,000,000 | Before tax; overtime pay not included |
-| 中级 (4-7年) | $33,000,000~$38,000,000 | Can operate 2-3 machines simultaneously |
-| Advanced (8+ years) | $40,000,000~$48,000,000 | Includes foreman·quality control role |
+| 入门级（0-3年） | $28,000,000~$32,000,000 | 税前；不包括加班费 |
+| 中级 (4-7年) | $33,000,000~$38,000,000 | 可同时操作2-3台机器 |
+| 高级（8年以上） | $40,000,000~$48,000,000 | 包括领班·质量控制角色 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-Due to AI and automation, simple sorting and packaging tasks are being replaced by machines, but machine maintenance and quality control still require human workers.
+由于人工智能和自动化，简单的分拣和包装任务正被机器取代，但机器维护和质量控制仍需人工。
 
-Starting with simple operation, promotion to machine management and quality control is possible with experience; obtaining certifications is advantageous.
+从简单操作开始，随着经验积累可晋升为机器管理和质量控制；获得认证有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple sorting tasks
-- Cutting to a uniform size
-- Simple packaging line tasks
+- 简单分拣任务
+- 切割成统一尺寸
+- 简单的包装线任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Machine monitoring
-- Production volume data analysis
-- Anomaly detection
+- 机器监控
+- 生产量数据分析
+- 异常检测
 
-**人类护城河:**
+**人类护城河：**
 
 - 机床故障诊断与维修
-- Quality inspection judgment
-- Workplace hygiene management
+- 质量检测判断
+- 工作场所卫生管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine maintenance
-- Data analysis basics
-- Hygiene management knowledge
+- 机器维护
+- 数据分析基础
+- 卫生管理知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Food processing automation
-- Non-professional Employment E-9
-- Smart factory
-- Fresh-cut produce
+- 食品加工自动化
+- 非专业就业 E-9
+- 智能工厂
+- 鲜切农产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Available for use in agriculture, livestock, fisheries, and manufacturing as non-professional foreign workers. |
-| Subclass E-7 (Specific Activities (E-7)) | Requires qualifications·experience as skilled labor, with employer recommendation. |
-| Subclass F-2 (Residence (F-2)) | Convertible by points system, permits long-term stay and free employment. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machine operation
-- People who can consistently perform repetitive tasks
-- People meticulous about hygiene
+- 对机器操作感兴趣的人
+- 能持续执行重复性任务的人
+- 对卫生一丝不苟的人
 
 **谁不适合**
-- People who prefer creative work
-- People who dislike night·weekend work
+- 喜欢创造性工作的人
+- 不喜欢夜间/周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：The annual pre-tax salary for entry-level is approximately 28-32 million KRW, with possible shift allowances.
+**问：起薪是多少？**
+答：入门级税前年薪约2800-3200万韩元，可能有轮班津贴。
 
-**问：Can foreigners also get employed?**
-答：Yes, it's possible with an E-9 (Non-professional Employment) visa, and after a certain period of experience, you can switch to an E-7 (Specific Activities) visa for long-term stay.
+**问：外国人也能就业吗？**
+答：是的，持E-9（非专业就业）签证有可能，在具备一定经验后，可转为E-7（特定活动）签证长期居留。
 
-**问：Is there a required educational background?**
-答：A high school diploma or higher is sufficient, and completing a one-year course at a vocational training institute is advantageous for employment.
+**问：是否有学历要求？**
+答：高中以上学历即可，完成职业培训机构的1年课程有助于就业。
 
 
 ---
@@ -143,12 +136,12 @@ Starting with simple operation, promotion to machine management and quality cont
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fruit-and-vegetable-machinery-operator/KR)**

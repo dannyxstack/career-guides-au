@@ -1,6 +1,6 @@
 # 电工（Electrician）职业分析 · 澳大利亚
 
-**职业代码: 341111 (ANZSCO)**
+**职业代码：341111 (ANZSCO)**
 
 电工负责安装、维护和修缮电气系统，广泛服务于住宅、商业、工业和矿业领域。在澳大利亚，电工属于持牌强制行业，长期位居技术短缺清单，是技术移民的热门路径之一。
 
@@ -21,9 +21,9 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certificate III in Electrotechnology Electrician (UEE30820) | TAFE / RTO | 必备 | 全国统一课程，3826学时，执业基础资质 |
+| 三级电工证书（UEE30820） | TAFE / RTO | 必备 | 全国统一课程，3826学时，执业基础资质 |
 | Electrical Worker Licence（A级） | 各州 Fair Trading / Energy Safety 部门 | 必备 | 合法施工的强制持牌要求，无证操作违法 |
-| Electrical Contractor Licence | 各州独立颁发 | 可选 | 独立承接合同必须，雇主电工可豁免 |
+| 电气承包商执照 | 各州独立颁发 | 可选 | 独立承接合同必须，雇主电工可豁免 |
 | Restricted Licence（如 Solar Grid Connect） | Clean Energy Council / 各州 | 可选 | 太阳能安装、EV充电桩等专项工种额外资质 |
 | TRA技能评估 | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，国内学历豁免 |
 
@@ -31,10 +31,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 128,000. Jobs and Skills Australia 预计2025~2035年技工类（含电工）新增就业约195,800人（+9.8%）。技工类（Skill Level 3）岗位填补率仅54.3%，是全澳最难招聘的工种之一。
+**职位需求量：很高（★★★★★）** 全国从业人数约 128,000。Jobs and Skills Australia 预计2025~2035年技工类（含电工）新增就业约195,800人（+9.8%）。技工类（Skill Level 3）岗位填补率仅54.3%，是全澳最难招聘的工种之一。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -55,35 +55,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 电工岗位总体受AI影响复杂：重复性任务（如计划编制）被自动化，但现场安装、诊断和合规工作难以替代。持牌和物理操作形成护城河，且AI可提升设计、检测和管理效率。
 
 可再生能源转型（Solar、Battery Storage、EV Chargers）持续拉动需求，预计2030年前供需缺口进一步扩大。AI与自动化替代率极低，现场操作无法远程化。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手动编制布线计划和材料清单（AI可自动优化生成）
 - 基本电气安全计算（如负载计算、线径选择）
 - 标准化测试记录和报告撰写
 - 简单故障远程诊断（通过AI视觉和传感器数据）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 使用AI工具辅助设计复杂电气系统（如光伏阵列布局）
 - 利用AI增强现实（AR）进行隐蔽线路定位和安装指导
 - 借助AI故障预测系统提高预防性维护效率
 - 通过AI自动翻译技术文档和合规要求，跨语言作业
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场操作安全责任与持牌法律要求
 - 复杂故障诊断的人工判断和应急处理
 - 与客户、承包商、监管者的沟通及合规签章
 - 在恶劣环境（高空、狭小空间）中的实际动手能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 智能建筑系统（BMS、物联网）集成
 - 可再生能源系统设计（光伏、储能）
@@ -92,17 +92,17 @@
 - 项目管理与成本估算
 - 数字工作平台（如SimPRO、ServiceM8）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Solar Installation & Battery Storage
-- EV Charger Infrastructure
-- Industrial Automation & Data Centres
-- Renewable Energy Grid Upgrades
-- Residential & Commercial Construction
+- 太阳能安装与电池存储
+- 电动汽车充电基础设施
+- 工业自动化与数据中心
+- 可再生能源电网升级
+- 住宅与商业建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -113,9 +113,7 @@
 | Subclass 190 (Skilled Nominated) | 州政府提名，加5分，永居，建议首选路线 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区提名加15分，临居5年转PR，适合189分数不够者 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -178,12 +176,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrician/AU)**

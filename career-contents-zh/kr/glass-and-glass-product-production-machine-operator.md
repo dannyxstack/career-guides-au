@@ -1,10 +1,8 @@
-# Glass and Glass Product Production Machine Operator 职业分析 · 韩国
+# 玻璃及玻璃制品生产机器操作员（Glass and Glass Product Production Machine Operator）职业分析 · 韩国
 
-**职业代码: 82611 (KECO)**
+**职业代码：82611 (KECO)**
 
-This job involves operating and managing machines that produce glass and glass products, covering the entire process from raw material input to molding, heat treatment, and cutting.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该工作涉及操作和管理生产玻璃及玻璃制品的机器，涵盖从原料投入到成型、热处理和切割的整个过程。
 
 
 ---
@@ -13,9 +11,9 @@ This job involves operating and managing machines that produce glass and glass p
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school graduate or higher, no specific major required） |
-| Associate degree (2-year) | 2 年 | $10,000,000~$20,000,000（Glass/Ceramics-related department） |
-| 职业培训 | 6 months | $0~$5,000,000（Korea Polytechnic University or private academies） |
+| 高中毕业 | 0年 | $0~$0（高中及以上学历，无特定专业要求） |
+| 副学士学位（2年制） | 2 年 | $10,000,000~$20,000,000（玻璃/陶瓷相关专业） |
+| 职业培训 | 6个月 | $0~$5,000,000（韩国理工大学或私立学院） |
 
 ---
 
@@ -23,19 +21,19 @@ This job involves operating and managing machines that produce glass and glass p
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Glass Manufacturing Technician | Human Resources Development Service of Korea | 可选 | Not required but preferred |
-| Production Automation Technician | Human Resources Development Service of Korea | 可选 | Advantageous for automated line operation |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Needed for some tasks |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Possible for safety management tasks |
+| 玻璃制造技术员 | 韩国人力资源开发服务局 | 可选 | 非必需但优先考虑 |
+| 生产自动化技术员 | 韩国人力资源开发服务局 | 可选 | 有利于自动化生产线操作 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 某些任务需要 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 安全管理任务可能可行 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Linked to demand in the construction and automotive industries; employment decline is expected due to automation, but demand for precision glass is likely to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。与建筑和汽车行业需求相关；由于自动化，就业预计下降，但精密玻璃需求可能持续。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -43,95 +41,87 @@ This job involves operating and managing machines that produce glass and glass p
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | 起步阶段 |
-| 中级（4-9年） | $32,000,000~$42,000,000 | Experienced average |
-| Advanced (10+ years) | $45,000,000~$55,000,000 | Skilled or managerial |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 起步阶段 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 普通经验水平 |
+| 高级（10年以上） | $45,000,000~$55,000,000 | 技能或管理类 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the introduction of AI and automation technology, simple repetitive tasks are being replaced, reducing labor demand. Automation is rapidly advancing particularly in glass cutting, forming, and inspection processes, shrinking the scope of work.
+随着人工智能和自动化技术的引入，简单重复性任务正在被取代，劳动力需求减少。特别是在玻璃切割、成型和检验过程中，自动化进展迅速，工作范围缩小。
 
-Initially perform auxiliary tasks, then advance to machine operation and line management after gaining skill. With certifications and experience, can progress to production supervisor or quality control manager.
+最初执行辅助任务，掌握技能后晋升到机器操作和生产线管理。通过认证和经验，可晋升为生产主管或质量控制经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Glass cutting work
-- Simple operation of forming machines
-- Surface inspection
-- Raw material input
+- 玻璃切割工作
+- 成型机械的简单操作
+- 表面检查
+- 原料投入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Quality inspection (AI-assisted)
-- Process optimization
+- 质量检测（AI辅助）
+- 流程优化
 - 设备预防性维护预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Skilled repair and maintenance abilities
-- Judgment and response to abnormal situations
-- Precision Glass Processing Technology
+- 熟练的维修和保养能力
+- 异常情况的判断与应对
+- 精密玻璃加工技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC Programming
-- Robot Collaboration Technology
-- Data Analysis
-- Facility Maintenance
+- PLC编程
+- 机器人协作技术
+- 数据分析
+- 设施维护
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation
-- Precision glass
-- Construction economy
-- Exports
+- 自动化
+- 精密玻璃
+- 建筑经济
+- 出口
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional (E-9)) | For unskilled foreign workers, manufacturing only |
-| Subclass E-7 (Specific Activities (E-7)) | Possible if recognized as skilled worker, but limited in glass production |
-| Subclass F-2 (Residence (F-2)) | Long-term stay via points system, if skilled criteria met |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient with repetitive tasks and machine operation
-- Physically fit and able to work night shifts
-- A personality that strictly follows safety rules
+- 能耐心处理重复性任务及机器操作
+- 身体健康，能上夜班
+- 严格遵守安全规则的性格
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who find it difficult to endure high temperatures and noise
+- 难以忍受高温和噪音的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a glass and glass product machine operator?**
-答：The annual salary for new hires is approximately 24 to 30 million KRW, and may be higher including night shift and overtime pay.
+**问：玻璃及玻璃制品机器操作员的起薪是多少？**
+答：新入职员工年薪约为2400万至3000万韩元，包括夜班和加班费可能会更高。
 
-**问：Can foreigners obtain a work visa for this occupation?**
-答：It is possible with an E-9 visa (Non-professional Employment), but the E-7 visa is limited due to difficulty in recognizing skills. F-2 (Residence) visa may be considered for long-term stay.
+**问：外国人能获得这个职业的工作签证吗？**
+答：持有E-9签证（非专业就业）可能可行，但由于技能认可困难，E-7签证受限。长期居留可考虑F-2（居住）签证。
 
-**问：Is this occupation a shortage occupation in Korea?**
-答：It is not currently included in the Ministry of Employment and Labor's shortage occupation list, and recruitment demand is decreasing due to automation.
+**问：这个职业在韩国是短缺职业吗？**
+答：目前该职业未被列入雇佣劳动部的短缺职业清单，且由于自动化，招聘需求正在减少。
 
 
 ---
@@ -149,12 +139,12 @@ Initially perform auxiliary tasks, then advance to machine operation and line ma
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/glass-and-glass-product-production-machine-operator/KR)**

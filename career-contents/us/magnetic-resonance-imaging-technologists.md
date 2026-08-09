@@ -52,8 +52,6 @@ Magnetic resonance imaging technologists operate MRI scanners, ensure patient sa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially take over MRI scan parameter optimization and image processing, but patient positioning, communication, and clinical judgment remain highly human-dependent, with mixed overall impact.
-
 Career development paths include senior technician, imaging supervisor, MRI educator, or medical imaging management role, usually requiring accumulated experience and additional certifications.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career development paths include senior technician, imaging supervisor, MRI educ
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, Green Card application, long wait times |
 | Subclass TN (TN NAFTA Professionals) | Open only to Canadian and Mexican citizens, relevant professional qualifications required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires an associate or bachelor's degree, completion of an accredit
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/magnetic-resonance-imaging-technologists/US)**

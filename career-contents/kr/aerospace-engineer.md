@@ -4,8 +4,6 @@
 
 Engineering technology professional responsible for designing, developing, testing, and producing aircraft and spacecraft.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Engineering technology professional responsible for designing, developing, testi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI expands its role in design optimization, simulation, and data analysis, but areas requiring human judgment, such as aircraft certification and safety assessment, remain.
-
 Starting as a junior researcher, one can advance to senior and principal researcher with experience; master's/doctoral degrees and certifications are advantageous.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Starting as a junior researcher, one can advance to senior and principal researc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For aerospace professionals, requires employer recommendation |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Unsuitable for this occupation |
-| Subclass F-2 (Residence (F-2-1)) | Convertible to points system, long-term stay |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Stable with the growth of Korea's aerospace industry, but competition is fier
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aerospace-engineer/KR)**

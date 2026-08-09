@@ -53,8 +53,6 @@ A commissioned officer in the Canadian Armed Forces is a military leadership rol
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Promotion path from Second Lieutenant to General, typically requires completing military training, accumulating command experience, and continuous education. Outstanding officers can advance to senior staff or diplomatic positions.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Promotion path from Second Lieutenant to General, typically requires completing 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can transition into government management, security consulting, or private se
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commissioned-officers-of-the-canadian-armed-forces/CA)**

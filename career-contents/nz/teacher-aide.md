@@ -53,8 +53,6 @@ Teaching assistant demand is stable in New Zealand's education sector, usually r
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of teaching assistants (document processing, scheduling, record-keeping) are easily replaced by AI, but demand for emotional labor like face-to-face student support and behavior management remains; the role is evolving overall.
-
 Teaching assistants can advance to head TA or school administration, but advancement is limited. With experience and higher education certifications, they can transition to advanced educational roles like early childhood teacher or learning support coordinator. Career path is flexible but vertical mobility is limited.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Teaching assistants can advance to head TA or school administration, but advance
 | Subclass SMC (Skilled Migrant Category) | Must meet 6-point system requirements (qualifications or experience + salary), salary at least median ($29.66/hr), age under 55 |
 | Subclass Green List T2 (Green List Tier 2 - Work to Residence) | This occupation is not on the current Green List, not eligible for fast-track residency |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires New Zealand Certificate Level 3-4, such as New Zealand Cer
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-aide/NZ)**

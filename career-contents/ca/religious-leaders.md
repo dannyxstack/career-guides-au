@@ -52,8 +52,6 @@ Religious leaders are responsible for conducting religious ceremonies, providing
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core functions of religious leaders—empathy, spiritual guidance, and trust-building—are hard for AI to replace, but AI can assist with paperwork and research; entry-level roles may shrink due to AI streamlining administration.
-
 Career path typically starts from assistant/trainee clergy, gradually becoming an independent minister or head of a large religious organization. Some move into religious education or administrative roles, with a few advancing to national leadership positions.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Career path typically starts from assistant/trainee clergy, gradually becoming a
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Generally requires a theology degree (Bachelor's or Master's), and some denom
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-leaders/CA)**

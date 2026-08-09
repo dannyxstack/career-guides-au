@@ -52,8 +52,6 @@ Responsible for compiling, processing, and maintaining medical records of hospit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will shrink medical records specialist roles as coding and data entry automation matures; entry-level jobs decrease significantly, but senior compliance and audit roles remain.
-
 Start as an entry-level coder, can advance to senior coder, coding supervisor, compliance auditor, or health information manager. Some transition to medical data analysis or consulting after obtaining certifications like RHIA or CPC.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an entry-level coder, can advance to senior coder, coding supervisor, c
 | Subclass EB-3 (EB-3 Skilled Worker) | Through PERM labor certification application, with long waiting periods, but suitable for experienced coders |
 | Subclass Green Card (PERM) (Green Card via PERM) | Employer-sponsored permanent green card pathway requiring proof of labor shortage |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Minimum requirement is an associate degree in health information management o
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-records-specialists/US)**

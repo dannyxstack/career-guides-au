@@ -53,8 +53,6 @@ Masonry workers are responsible for using materials such as bricks, stone, and c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Masonry workers face automation risks, but AI mainly replaces auxiliary tasks such as design and measurement, while core masonry skills still require manual labor. Entry-level positions may narrow due to the widespread adoption of BIM, but AI-assisted tools can improve efficiency.
-
 You can grow from an apprentice to a skilled worker, and then be promoted to foreman or self-employed foreman. Some people transition to building technicians, site managers, or architectural engineers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can grow from an apprentice to a skilled worker, and then be promoted to for
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Employment residency requires employer sponsorship, and the contract and salary meet requirements |
-| Subclass Passeport Talent (Passeport Talent) | Talent passport, suitable for high-skilled or in-demand occupations, streamlines procedures |
-| Subclass Recherche emploi (Recherche emploi / création d'entreprise) | Job-seeking/entrepreneurial residence permits, allowing you to find work in France after graduation |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: A minimum CAP Maçon diploma is required, usually obtained through apprentice
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/masonry-worker/FR)**

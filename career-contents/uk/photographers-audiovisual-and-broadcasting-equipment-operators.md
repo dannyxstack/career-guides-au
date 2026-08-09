@@ -51,8 +51,6 @@ Operate still, motion picture, and television cameras and other equipment to rec
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools will significantly enhance post-production, automated editing, and real-time color grading for photographers and broadcast equipment operators, but non-creative shooting tasks face pressure; the occupation as a whole is amplified and benefited by AI.
-
 Career progression can start as assistant or technician, advancing to senior photographer or director. Self-learning enables rapid skill development; freelancers can build a portfolio and explore fields. Large broadcasters offer internal promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression can start as assistant or technician, advancing to senior pho
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Common path: start as a photography assistant or technician, progress to inde
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographers-audiovisual-and-broadcasting-equipment-operators/UK)**

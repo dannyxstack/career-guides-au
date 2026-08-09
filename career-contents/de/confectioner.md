@@ -53,8 +53,6 @@ Confectioners are responsible for the manual or industrial production of chocola
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task composition of confectionery pastry chefs is mixed: standardized production steps are easily automated, but creative recipes, handcrafted detailing, and custom customer service remain a strong moat; AI tools can boost efficiency but cannot replace artisan touch and aesthetic.
-
 Career starts as a chocolatier or confectionery production worker; through further study can advance to production supervisor or quality management roles; some move into development or machine operation. Can also run an artisanal candy shop or join a large food group.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career starts as a chocolatier or confectionery production worker; through furth
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to production supervisor, quality specialist, or pursue further t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/confectioner/DE)**

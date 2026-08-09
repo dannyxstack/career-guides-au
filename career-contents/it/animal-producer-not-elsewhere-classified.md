@@ -4,8 +4,6 @@
 
 Professionals responsible for raising, breeding, and managing various farm animals (e.g., poultry, pigs, sheep) to ensure animal health and production efficiency.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professionals responsible for raising, breeding, and managing various farm anima
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal producers (not elsewhere classified) face higher replacement risk; AI and automation are gradually replacing human tasks in data monitoring, feeding optimization, health alerts, but on-site operations and emotional interaction with animals still rely on humans.
-
 Can progress from junior stockman to farm manager or self-employed farmer, improving animal health management skills through professional training.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Can progress from junior stockman to farm manager or self-employed farmer, impro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU seasonal workers, requires employer sponsorship and meets annual quota. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for highly skilled employees, but the income threshold is usually above this occupation level. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Can be promoted to farm manager or start a business, or transition to profess
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-producer-not-elsewhere-classified/IT)**

@@ -53,8 +53,6 @@ Responsible for operation, maintenance, and troubleshooting of industrial electr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly reduce junior monitoring roles for electrical operation technicians, but senior fault diagnosis and compliance roles remain relatively secure.
-
 Can advance to electrical supervisor or systems engineer, or become an automation or energy management specialist through further education.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance to electrical supervisor or systems engineer, or become an automatio
 | Subclass EU Blue Card (EU Blue Card) | Applicable only to positions with high educational requirements, typically requiring a bachelor's degree or higher |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, no employer required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must first obtain qualification recognition (Anerkennung), then apply for a s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-operating-engineer/DE)**

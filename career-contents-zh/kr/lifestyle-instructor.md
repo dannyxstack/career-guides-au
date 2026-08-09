@@ -1,10 +1,8 @@
-# Lifestyle Instructor 职业分析 · 韩国
+# 生活方式教练（Lifestyle Instructor）职业分析 · 韩国
 
-**职业代码: 23291 (KECO)**
+**职业代码：23291 (KECO)**
 
-A lifestyle instructor is a professional who supports residents in social welfare facilities and youth protection facilities, providing counseling, education, and leisure activity guidance.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+生活指导员是支持社会福利机构和青少年保护机构居民的专业人员，提供咨询、教育和休闲活动指导。
 
 
 ---
@@ -13,9 +11,9 @@ A lifestyle instructor is a professional who supports residents in social welfar
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 0年 | $0~$0（Hirable with high school diploma or above） |
-| Social Worker Level 2 Certificate | 2 年 | $3,000,000~$8,000,000（Completion of 2-year Social Welfare program at a community college or credit bank system） |
-| Social Worker Level 1 Certificate | 4年 | $10,000,000~$20,000,000（Graduation from a 4-year Social Welfare university program and written exam） |
+| 高中及以上学历 | 0年 | $0~$0（高中及以上学历可聘用） |
+| 社会工作者二级证书 | 2 年 | $3,000,000~$8,000,000（在社区学院或学分银行系统完成2年社会福利课程） |
+| 社会工作者一级证书 | 4年 | $10,000,000~$20,000,000（四年制社会福利大学毕业并通过笔试） |
 
 ---
 
@@ -23,18 +21,18 @@ A lifestyle instructor is a professional who supports residents in social welfar
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Worker Level 2 | Korea Social Workers Association | 可选 | Not a legal requirement but preferred in hiring |
-| Social Worker Level 1 | Korea Social Workers Association | 可选 | Advantageous for promotion and facility director positions |
-| Youth Guidance Counselor | Ministry of Gender Equality and Family | 可选 | Required in youth facilities |
+| 社工二级 | 韩国社会工作者协会 | 可选 | 非法律要求，但招聘时优先 |
+| 社会工作者一级 | 韩国社会工作者协会 | 可选 | 对晋升和设施主任职位有利 |
+| 青少年指导顾问 | 性别平等与家庭部 | 可选 | 青年设施所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Due to aging population and increasing welfare demand, employment for lifestyle instructors is expected to remain stable. However, budget constraints and workforce turnover lead to supply shortages relative to demand.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。由于人口老龄化和福利需求增加，生活方式指导员的就业预计保持稳定。然而，预算限制和人员流动导致供不应求。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,91 +40,83 @@ A lifestyle instructor is a professional who supports residents in social welfar
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$30,000,000 | Government-supported positions: minimum wage level |
-| Intermediate (4~9 years) | $30,000,000~$36,000,000 | 经验丰富后增长 |
-| Advanced (10+ years) | $36,000,000~$45,000,000 | Higher for facility management roles or with professional certifications |
+| 初级（0~3 年） | $24,000,000~$30,000,000 | 政府支持岗位：最低工资水平 |
+| 中级（4~9年） | $30,000,000~$36,000,000 | 经验丰富后增长 |
+| 高级（10年以上） | $36,000,000~$45,000,000 | 设施管理岗位或持有专业认证者更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Life guidance instructors are in the personal service occupation, with low risk of AI replacement. Counseling, life support, and emotional support rely on human empathy, so AI will only be used as an auxiliary tool without reducing tasks.
+生活指导指导员属于个人服务职业，被AI替代的风险低。咨询、生活支持和情感支持依赖人类同理心，因此AI仅作为辅助工具，不会减少任务。
 
-Starting as a lifestyle instructor, one can advance to facility director or community welfare manager with experience. Obtaining a social worker license aids career development.
+从生活方式教练起步，随着经验积累可晋升为设施主管或社区福利经理。取得社会工作者执照有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing simple counseling records
-- Managing attendance of residents
+- 撰写简单的咨询记录
+- 管理居民的出勤情况
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Recommending personalized programs
-- Supporting remote counseling
+- 推荐个性化项目
+- 支持远程咨询
 
-**人类护城河:**
+**人类护城河：**
 
-- Forming emotional empathy and trust
-- Judging and coping with crisis situations
-- Planning creative leisure activities
+- 形成情感共鸣和信任
+- 判断和应对危机情况
+- 策划创意休闲活动
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Counseling skills
-- Conflict management
-- Case management
-- Digital literacy
+- 咨询技巧
+- 冲突管理
+- 案例管理
+- 数字素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Elderly welfare
-- Disability welfare
-- Youth welfare
-- Home visit care
+- 老年人福利
+- 残疾人福利
+- 青年福利
+- 家访护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible for those with overseas life counselor experience and qualifications, but very limited |
-| Subclass F-2 (F-2 (Residence)) | May switch after long-term residence as skilled worker |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as life counselors |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like others and are interested in counseling and care
-- People with excellent patience and empathy
+- 喜欢他人并对咨询和护理感兴趣的人
+- 极具耐心和同理心的人
 
 **谁不适合**
-- People who prefer clerical and repetitive tasks
-- People sensitive to interpersonal stress
+- 偏好文书和重复性工作的人
+- 对人际压力敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a life counselor?**
-答：About 24-30 million KRW for entry-level, up to 45 million KRW depending on experience and qualifications.
+**问：生活咨询师的平均年薪是多少？**
+答：入门级约2400-3000万韩元，根据经验和资历最高可达4500万韩元。
 
-**问：Can foreigners work as life guidance instructors?**
-答：It is limited. Possible with Overseas Korean (F-4) or Specific Activities (E-7) visas, but Korean language ability and qualification requirements are strict.
+**问：外国人能否担任生活指导老师？**
+答：有限制。可通过海外韩国人（F-4）或特定活动（E-7）签证实现，但韩语能力和资格要求严格。
 
-**问：What qualifications are needed to work as a life guidance instructor?**
-答：No legal qualification is required, but a social worker certificate is advantageous; youth facilities may require a youth guidance instructor certificate.
+**问：担任人生指导教练需要什么资格？**
+答：无需法律资格，但持有社会工作者证书有利；青年设施可能需要青年指导指导员证书。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a lifestyle instructor, one can advance to facility director or comm
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/lifestyle-instructor/KR)**

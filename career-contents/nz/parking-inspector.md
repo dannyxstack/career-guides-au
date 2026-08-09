@@ -54,8 +54,6 @@ Parking inspectors in New Zealand enforce parking regulations, patrol streets an
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core duties of parking inspectors (patrolling, identifying violations, issuing tickets) are highly rule-based and easily automated. AI cameras and automated payment systems have already taken over most tasks, significantly reducing the number of positions. New Zealand's low-skilled immigration policies also limit its growth.
-
 Limited career path: junior parking inspectors can advance to senior inspector or supervisor, but this usually requires years of experience. A few move into traffic management or compliance. Overall limited promotion opportunities, mostly lateral moves.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Limited career path: junior parking inspectors can advance to senior inspector o
 | Subclass SMC (Skilled Migrant Category) | Generally does not meet skilled migration requirements because ANZSCO skill level is 4-5, unless salary reaches 1.5 times the median (approx. $44.49/hour), virtually impossible in practice. |
 | Subclass WHV (Working Holiday Visa) | Some Working Holiday visa holders can engage in short-term work, but usually limited to 3 months. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Mainly outdoor work, requiring long periods of walking or driving. Often invo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-inspector/NZ)**

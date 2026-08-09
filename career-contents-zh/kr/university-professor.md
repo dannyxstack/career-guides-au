@@ -1,10 +1,8 @@
-# University Professor 职业分析 · 韩国
+# 大学教授（University Professor）职业分析 · 韩国
 
-**职业代码: 21111 (KECO)**
+**职业代码：21111 (KECO)**
 
-A higher education expert who lectures on major subjects at universities, guides students, and conducts research and publishes papers in their academic field.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在大学讲授专业学科、指导学生，并在其学术领域进行研究和发表论文的高等教育专家。
 
 
 ---
@@ -13,9 +11,9 @@ A higher education expert who lectures on major subjects at universities, guides
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Doctoral Degree | 3~5年 | $20,000,000~$60,000,000（For national universities, low tuition burden; private universities require scholarships.） |
-| 硕士 | 2 年 | $10,000,000~$30,000,000（Research assistant scholarships available.） |
-| 本科（学士学位） | 4年 | $8,000,000~$20,000,000（Based on national/public university standards.） |
+| 博士学位 | 3~5年 | $20,000,000~$60,000,000（国立大学学费负担低；私立大学需奖学金。） |
+| 硕士 | 2 年 | $10,000,000~$30,000,000（提供研究助理奖学金。） |
+| 本科（学士学位） | 4年 | $8,000,000~$20,000,000（基于国立/公立大学标准。） |
 
 ---
 
@@ -23,18 +21,18 @@ A higher education expert who lectures on major subjects at universities, guides
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctoral Degree | 大学 | 必备 | Doctorate in the relevant field required. |
-| Research Performance | National Research Foundation of Korea, etc. | 必备 | At least 2 papers in registered (candidate) journals required. |
-| Teacher's Certificate | 教育部 | 可选 | Optional for private school faculty, mandatory for national/public schools. |
+| 博士学位 | 大学 | 必备 | 需相关领域博士学位。 |
+| 研究绩效 | 韩国国家研究基金会等 | 必备 | 至少需要在注册（候选）期刊上发表2篇论文。 |
+| 教师资格证书 | 教育部 | 可选 | 私立学校教职员工可选，国立/公立学校强制。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 87,500. Due to a declining school-age population, new appointment opportunities are limited, but demand for outstanding talent is expected to persist with tenure guarantees and the expansion of research-focused universities.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 87,500。由于学龄人口下降，新任命机会有限，但对优秀人才的需求预计将持续，因为终身教职保障和研究型大学的扩张。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A higher education expert who lectures on major subjects at universities, guides
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (Assistant Professor, 0–5 years) | $40,000,000~$60,000,000 | Based on national/public universities; may be lower at private universities. |
-| Mid Level (Associate Professor, 6–15 years) | $60,000,000~$90,000,000 | Varies based on research performance |
-| Senior (Full Professor, 15+ years) | $90,000,000~$99,999,999 | Includes tenure and various allowances |
+| 初级（助理教授，0–5年） | $40,000,000~$60,000,000 | 以国立/公立大学为准；私立大学可能更低。 |
+| 中级（副教授，6-15年） | $60,000,000~$90,000,000 | 根据研究表现而异 |
+| 高级（正教授，15年以上） | $90,000,000~$99,999,999 | 包括任期和各种津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists professors in research data analysis, draft paper writing, and lecture material creation, but core research idea generation and student mentoring remain human domains, limiting AI's impact.
+AI协助教授进行研究数据分析、论文草稿撰写和讲座材料制作，但核心研究思路生成和学生指导仍由人类主导，限制了AI的影响。
 
-Promotion proceeds from Assistant Professor to Associate Professor to Full Professor, with research performance and teaching evaluations being crucial. Some move into administrative roles (department head, graduate school dean) or industry-academia collaboration positions.
+晋升路径从助理教授到副教授再到正教授，研究绩效和教学评价至关重要。部分人转向行政职务（系主任、研究生院院长）或产学合作岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic data collection and organization
-- Standard lecture material creation
-- Paper format correction
+- 基础数据收集与整理
+- 标准讲座材料制作
+- 论文格式校正
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Research data analysis and visualization
-- Personalized learning guidance
-- Paper plagiarism detection
+- 研究数据分析与可视化
+- 个性化学习指导
+- 论文查重
 
-**人类护城河:**
+**人类护城河：**
 
-- Novel research question identification
-- Student mentoring and human interaction
-- Research ethics judgment
+- 新颖研究问题识别
+- 学生指导与人际互动
+- 研究伦理判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based research methodology
-- Data analysis programming
-- Convergence education capability
+- 基于AI的研究方法
+- 数据分析编程
+- 融合教育能力
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 高等教育
-- Research and Development
+- 研究与开发
 - BK21
-- Local Talent
+- 本地人才
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-1 (Professor (E-1)) | Visa for education/research activities at universities, sponsored by employer |
-| Subclass E-7 (Specific Activities (E-7)) | Used by some universities for researchers or adjunct professors |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible via points system, precursor to permanent residence |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong intellectual curiosity who enjoy research
-- People passionate about teaching and student guidance
-- People who can set long-term research plans
+- 具有强烈求知欲、喜欢研究的人
+- 热爱教学和学生指导的人
+- 能够制定长期研究计划的人
 
 **谁不适合**
-- People who want rapid promotion and high salary
-- People who prefer regular working hours
+- 希望快速晋升和高薪的人
+- 偏好固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is a university professor's salary?**
-答：Starting assistant professors earn about 40 to 60 million won, while full professors range from 90 million to 150 million won, with differences between national/public and private universities.
+**问：大学教授薪资是多少？**
+答：起始助理教授年薪约4000万至6000万韩元，正教授为9000万至1.5亿韩元，国立/公立与私立大学存在差异。
 
-**问：What visa does a foreigner need to work as a professor in Korea?**
-答：Mainly the E-1 professor visa, requiring an invitation from the hiring university. A doctoral degree and research achievements are essential.
+**问：外国人在韩国担任教授需要什么签证？**
+答：主要是E-1教授签证，需要招聘大学的邀请。博士学位和研究成就是必需的。
 
-**问：What preparations are needed to become a university professor?**
-答：After obtaining a master's and doctoral degree, it's important to gain postdoctoral or research experience abroad and build research achievements. It takes an average of 5 to 10 years to get hired.
+**问：成为一名大学教授需要做哪些准备？**
+答：获得硕士和博士学位后，重要的是积累海外博士后或研究经验并建立研究成果。平均需要5到10年才能获得聘用。
 
 
 ---
@@ -146,12 +136,12 @@ Promotion proceeds from Assistant Professor to Associate Professor to Full Profe
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/university-professor/KR)**

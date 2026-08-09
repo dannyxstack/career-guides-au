@@ -1,10 +1,8 @@
 # 牙医助理（Dental Assistant）职业分析 · 日本
 
-**职业代码: 372 (JSCO)**
+**职业代码：372 (JSCO)**
 
-Medical support staff who assist with treatment, handle patients, and manage instrument preparation and sterilization at dental clinics.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+医疗辅助人员，协助治疗、处理患者，并管理牙科诊所的器械准备和消毒。
 
 
 ---
@@ -13,8 +11,8 @@ Medical support staff who assist with treatment, handle patients, and manage ins
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 不需要 | $0~$0（No educational background requirement, no experience needed） |
-| Dental Assistant Training Course | 3个月至1年 | $50,000~$300,000（Private schools or correspondence courses） |
+| 高中文凭 | 不需要 | $0~$0（无学历要求，无需经验） |
+| 牙科助理培训课程 | 3个月至1年 | $50,000~$300,000（私立学校或函授课程） |
 
 ---
 
@@ -22,17 +20,17 @@ Medical support staff who assist with treatment, handle patients, and manage ins
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dental Assistant Certification (Private) | Japan Dental Assistants Association, etc. | 可选 | Optional but advantageous if obtained |
-| Medical Office Skills Examination (Medical Clerk) | Japan Medical Office Association | 可选 | Valued if combined with medical office skills |
+| 牙科助理认证（私人） | 日本牙科助理协会等 | 可选 | 可选但获得后有利 |
+| 医疗办公技能考试（医疗文员） | 日本医疗办公室协会 | 可选 | 若结合医疗办公技能更受重视 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand for dental care remains stable due to aging population, with continuous job openings especially in urban areas. Not covered by Specified Skilled Worker visa but labor shortage persists.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。受人口老龄化影响，牙科护理需求稳定，城市地区持续有职位空缺。特定技能签证不覆盖，但劳动力短缺持续。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ Medical support staff who assist with treatment, handle patients, and manage ins
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $2,400,000~$3,000,000 | Hourly wage common, annual income depends on working hours |
-| 中级 (4-7年) | $3,000,000~$3,600,000 | Varies by clinic size and role |
-| Advanced (8+ years) | $3,500,000~$4,200,000 | Increases with management duties or working at multiple clinics |
+| 初级（0-3年） | $2,400,000~$3,000,000 | 通常按小时计薪，年收入取决于工时 |
+| 中级 (4-7年) | $3,000,000~$3,600,000 | 因诊所规模和职位而异 |
+| 高级（8年以上） | $3,500,000~$4,200,000 | 随着管理职责或在多家诊所工作而增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are being introduced in indirect tasks such as appointment management and questionnaire processing, but patient interaction and manual tasks like instrument preparation and sterilization are difficult to replace with AI; instead, AI complements these tasks, maintaining demand.
+人工智能正在被引入预约管理和问卷处理等间接任务中，但患者互动以及器械准备和消毒等手动任务难以被AI取代；相反，AI对这些任务进行补充，维持了需求。
 
-Even beginners can work, and with experience, can transition to clinic management or become a dental hygienist.
+即使是初学者也能工作，有经验后可过渡到诊所管理或成为牙科卫生员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- appointment management
-- questionnaire data entry
-- simple patient guidance
+- 预约管理
+- 问卷数据录入
+- 简单患者引导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- patient interaction
-- treatment assistance
-- sterilization management
-- inventory management optimization
+- 患者互动
+- 治疗辅助
+- 灭菌管理
+- 库存管理优化
 
-**人类护城河:**
+**人类护城河：**
 
-- interpersonal skills
-- flexible response
-- knowledge of sterilization and hygiene management
-- know-how of clinic management
+- 人际交往能力
+- 灵活应对
+- 灭菌和卫生管理知识
+- 诊所管理诀窍
 
-**需构建的技能:**
+**需构建的技能：**
 
-- dental knowledge, communication, IT literacy, teamwork
+- 牙科知识、沟通能力、IT素养、团队合作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Geriatric dentistry
-- Mobile dentistry
-- dental prevention
-- dental IT adoption
+- 老年牙科
+- 移动牙科
+- 牙科预防
+- 牙科IT应用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Not applicable for dental assistants; general work visa difficult. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Fields like nursing care are covered, but dental assistants are not. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like interacting with others
-- People good at detailed manual work
-- People who maintain cleanliness
+- 喜欢与人互动的人
+- 擅长精细手工活的人
+- 保持清洁的人
 
 **谁不适合**
-- People who dislike heavy responsibility
-- People who are uncomfortable with blood or treatment
+- 不喜欢承担重大责任的人
+- 对血液或治疗感到不适的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a dental assistant?**
-答：With no experience, ¥2.4-3 million/year; with experience, about ¥3.5-4.2 million. Many are hourly part-time, varying by hours.
+**问：牙科助理的年收入是多少？**
+答：无经验年收入240-300万日元；有经验约350-420万日元。多为计时兼职，视工时而定。
 
-**问：Is there a visa to work as a dental assistant in Japan?**
-答：Dental assistant is not eligible for Specified Skilled Worker, nor does it meet Engineer/Humanities/Intl Services requirements, making work visa extremely difficult. In principle, only Japanese or permanent residents can hold this job.
+**问：是否有签证可以在日本担任牙医助理？**
+答：牙科助理不符合特定技能签证资格，也不满足工程师/人文知识/国际服务签证要求，因此获得工作签证极为困难。原则上只有日本人或永久居民才能从事此工作。
 
-**问：What are the career advancement options?**
-答：Common path is obtaining a dental hygienist license. Also possible to move into clinic management or dental administration.
+**问：有哪些职业晋升选择？**
+答：常见路径是获得牙科卫生师执照。也可能转向诊所管理或牙科行政工作。
 
 
 ---
@@ -143,12 +134,12 @@ Even beginners can work, and with experience, can transition to clinic managemen
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dental-assistant/JP)**

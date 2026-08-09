@@ -1,8 +1,8 @@
-# Other Stationary and Construction Machinery Operators 职业分析 · 日本
+# 其他固定式和建筑机械操作员（Other Stationary and Construction Machinery Operators）职业分析 · 日本
 
-**职业代码: 649 (JSCO)**
+**职业代码：649 (JSCO)**
 
-Operate stationary and construction machinery like bulldozers and cranes at construction sites and factories. Qualification and experience are key; demand is stable due to infrastructure projects.
+在建筑工地和工厂操作推土机、起重机等固定和工程机械。资格和经验是关键；由于基础设施项目，需求稳定。
 
 
 ---
@@ -11,8 +11,8 @@ Operate stationary and construction machinery like bulldozers and cranes at cons
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| No specific education required, emphasis on practical experience | 0年 | $0~$0（Education not required; training and courses have separate costs） |
-| Training and licensing for construction machinery operation | 1-2个月 | $50,000~$200,000（Vehicle-type construction machinery operation skill training, etc.） |
+| 无特定学历要求，注重实践经验 | 0年 | $0~$0（无需教育背景；培训与课程另计费用） |
+| 建筑机械操作培训与许可 | 1-2个月 | $50,000~$200,000（车辆型建筑机械操作技能培训等） |
 
 ---
 
@@ -20,17 +20,17 @@ Operate stationary and construction machinery like bulldozers and cranes at cons
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Vehicle-type construction machinery operation skill training completion | Prefectural Labor Bureau Director Registered Training Institution | 必备 | Required per machine type |
-| Crane and Derrick Operator License | Ministry of Health, Labour and Welfare | 可选 | Essential for crane operation |
+| 车辆类工程机械操作技能培训结业 | 县劳动局主任注册培训机构 | 必备 | 每种机器类型所需 |
+| 起重机与吊杆操作员执照 | 厚生劳动省 | 可选 | 起重机操作必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 170,000. Demand for construction machinery operators remains steady mid-term due to domestic public works and aging infrastructure renewal. Labor shortage persists, but automation is gradually emerging.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 170,000。由于国内公共工程和老化基础设施更新，建筑机械操作员需求中期保持稳定。劳动力短缺持续，但自动化逐渐兴起。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,90 +38,83 @@ Operate stationary and construction machinery like bulldozers and cranes at cons
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,600,000 | Overtime pay not included; salary increases depend on experience |
-| Mid-level (4-9 years) | $3,600,000~$4,800,000 | Increases with large machinery operation and licenses |
-| 资深（10年以上） | $4,800,000~$6,500,000 | Higher income possible as site supervisor |
+| 入门级（0-3年） | $2,800,000~$3,600,000 | 加班费不含；薪资增长取决于经验 |
+| 中级（4-9年） | $3,600,000~$4,800,000 | 随大型机械操作和执照增加 |
+| 资深（10年以上） | $4,800,000~$6,500,000 | 作为现场主管，收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-While AI and automation will increase efficiency for some tasks like GPS-linked bulldozers, complex on-site response and safety management still require humans, so full replacement will not progress.
+虽然AI和自动化将提高某些任务（如GPS连接推土机）的效率，但复杂的现场响应和安全管理仍需人类，因此不会全面替代。
 
-Beginners start with small machinery, gain experience, and obtain licenses for large/special machinery. Career advancement to site supervisor or safety manager is possible. Self-employment is also an option.
+初学者从小型机械入手，积累经验后获得大型/特种机械执照。可晋升至现场主管或安全经理。也可选择自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine transport and leveling of earth and sand
-- Simple excavation work
+- 常规的土砂运输和平整
+- 简单挖掘工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring of autonomous driving using GNSS
-- Collaboration with drone surveying
+- 使用GNSS监控自动驾驶
+- 与无人机测量合作
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible decision-making in hazardous sites
-- Handling machine breakdowns
-- Comprehensive safety management judgment
+- 危险场所灵活决策
+- 处理机器故障
+- 综合安全管理判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Skills in operating heavy machinery
-- Safety and health management
-- IT literacy (monitoring automated machinery)
+- 重型机械操作技能
+- 安全与健康管理
+- IT素养（监控自动化机械）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction industry
-- Infrastructure renewal
-- Technical intern training
-- Specified skilled worker
+- 建筑行业
+- 基础设施更新
+- 技能实习生培训
+- 特定技能工人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | 5-year stay for those who pass skill tests in construction |
-| Subclass 技能実習2号 (Technical Intern Training) | Construction machinery operation is covered but with job change restrictions |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Only possible for university graduates with expertise (rare) |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy operating machinery
-- People confident in physical strength
-- People who don't mind outdoor work
+- 喜欢操作机器的人
+- 体力充沛的人
+- 不介意户外工作的人
 
 **谁不适合**
-- People who prefer desk work
-- People who dislike dangerous work
+- 偏好案头工作的人
+- 不喜欢危险工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income?**
-答：Entry-level: ¥2.8-3.6M, mid-level: ¥3.6-4.8M, veteran: ¥4.8-6.5M. Varies with overtime and qualifications.
+**问：年收入是多少？**
+答：入门级：280-360万日元，中级：360-480万日元，资深级：480-650万日元。视加班和资质而定。
 
-**问：Can foreigners work here?**
-答：Possible under Specified Skilled Worker (i) (Construction) or Technical Intern Training. Japanese proficiency and skill test required.
+**问：外国人能在这里工作吗？**
+答：在特定技能工人(i)（建筑）或技术实习培训下可行。需要日语能力和技能测试。
 
-**问：Will automation reduce jobs?**
-答：Some tasks are being automated, but complex on-site judgment requires humans, so demand remains.
+**问：自动化会减少就业机会吗？**
+答：一些任务正在自动化，但复杂的现场判断仍需人工，因此需求依然存在。
 
 
 ---
@@ -139,12 +132,12 @@ Beginners start with small machinery, gain experience, and obtain licenses for l
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-stationary-and-construction-machinery-operators/JP)**

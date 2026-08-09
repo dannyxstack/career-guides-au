@@ -51,8 +51,6 @@ A specialized research professional who studies forest ecosystems, tree breeding
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some tasks such as forest data analysis, remote sensing, and growth modeling, but areas requiring human judgment and experience, such as field surveys, comprehensive ecosystem assessment, and policy formulation, remain important. Overall, AI is expected to play a complementary role in enhancing research efficiency.
-
 After obtaining a master's degree or higher, one enters research institutes (public/private) or universities, and advances from assistant researcher to senior researcher to principal researcher to lab director based on experience. Advancement to the public sector such as the Korea Forest Service or National Institute of Forest Science is common.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ After obtaining a master's degree or higher, one enters research institutes (pub
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon employment at a forestry-related R&D institution as a professional in research and technology |
-| Subclass E-9 (Non-professional Employment) | E-9 visa is not suitable due to the nature of this occupation |
-| Subclass F-2 (Residence) | Long-term residents may engage in research activities |
-| Subclass D-10 (Job Seeking) | Master's degree or higher holders may stay for job seeking |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: A master's degree is essential for research positions, and a doctoral degree 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-and-forest-science-researcher/KR)**

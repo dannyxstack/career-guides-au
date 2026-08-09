@@ -52,8 +52,6 @@ Assists social scientists in laboratory, survey, and other social science resear
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will automate a lot of work in data sorting, literature review, etc., but also enhance analytical capabilities. Competition for entry-level positions will intensify, while the value of senior roles will increase. Overall, it's a mixed bag.
-
 Usually start as a research assistant, gain experience, and can advance to research coordinator or senior research assistant; some pursue a PhD to become independent researchers or professors.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a research assistant, gain experience, and can advance to resea
 | Subclass EB-3 (EB-3 Skilled Workers) | Applicable to those with a bachelor's degree or two years of experience; requires PERM labor certification |
 | Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens under specific occupational lists (social science research assistant may fall under Research Assistant) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's degree in social sciences or related field; r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-science-research-assistants/US)**

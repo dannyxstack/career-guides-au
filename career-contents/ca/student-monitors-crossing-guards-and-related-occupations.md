@@ -53,8 +53,6 @@ Responsible for supervising student safe crossing around schools, crosswalks, an
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not fully replace traffic controllers in the short term, but automated signals and monitoring systems will take over some tasks while enhancing situational awareness and recording capabilities; the role will shift towards safety supervision and emergency response.
-
 This occupation has limited advancement opportunities; can transition to school safety coordinator, traffic controller, or community safety roles, but additional training is required.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ This occupation has limited advancement opportunities; can transition to school 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Limited promotion opportunities, but experience can lead to roles such as cam
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/student-monitors-crossing-guards-and-related-occupations/CA)**

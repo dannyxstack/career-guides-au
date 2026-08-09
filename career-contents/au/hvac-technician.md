@@ -58,8 +58,6 @@ An HVAC/Refrigeration Technician installs, commissions, maintains, and repairs i
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 The transition to green refrigerants (HFOs replacing HFCs), the explosion in data centre cooling demand, and ongoing residential and commercial construction continue to drive strong demand. Automation poses very little substitution risk for on-site installation and refrigerant handling, making the occupation highly stable.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ The transition to green refrigerants (HFOs replacing HFCs), the explosion in dat
 | Subclass 190 (Skilled Nominated) | State government nomination, 5 bonus points, permanent residency – recommended as the first-choice pathway |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residence pathway to PR after 5 years; suitable for those with insufficient points for subclass 189 |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Both are on the MLTSSL with similar PR pathways. Electricians generally earn 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hvac-technician/AU)**

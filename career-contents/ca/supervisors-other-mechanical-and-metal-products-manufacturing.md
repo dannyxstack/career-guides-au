@@ -51,8 +51,6 @@ Supervise and coordinate worker activities in machinery and metal product manufa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Supervisors' management tasks such as scheduling, progress tracking, and report generation will be largely automated by AI, but interpersonal coordination and on-the-job decision-making still require humans, with an estimated 20% reduction in positions.
-
 Advance from production worker to team leader, supervisor, then production manager or plant manager. Can accelerate through management training or obtaining industrial engineering certification.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Advance from production worker to team leader, supervisor, then production manag
 | Subclass PNP (Provincial Nominee Program) | Manufacturing priority categories in provinces like Ontario and Alberta |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer can sponsor work visa if unable to hire local staff |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Generally no mandatory license required, but provincial safety training (e.g.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-other-mechanical-and-metal-products-manufacturing/CA)**

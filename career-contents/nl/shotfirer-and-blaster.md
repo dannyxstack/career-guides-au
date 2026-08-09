@@ -4,8 +4,6 @@
 
 Blasters are responsible for safely conducting blasting operations in mining, quarrying, and construction sites, including loading explosives, connecting detonators, and ensuring post-blast safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Blasters are responsible for safely conducting blasting operations in mining, qu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters in Australia are high-paid skilled trades; AI automation poses substitution risks for some planning and record-keeping tasks, but on-site supervision and safety responsibilities are hard to replace. Overall risk is moderate, with both opportunities and challenges.
-
 Usually start as blasting assistants; with experience can advance to blasting supervisor or safety specialist, some transition to mine planning or blasting consulting.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Usually start as blasting assistants; with experience can advance to blasting su
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled workers earning above the salary threshold, where the employer must be a recognised sponsor in the Netherlands |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requiring a work contract and a higher annual salary |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands, allowing them to work freely for one year |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Usually requires completion of secondary vocational education (MBO) in blasti
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shotfirer-and-blaster/NL)**

@@ -51,8 +51,6 @@ ICT Sales (Business Development Manager) involves client acquisition and solutio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of ICT sales (business development manager) is undergoing a 'mixed' transformation: AI automates customer information collection, proposal generation, and report writing, but high-value customer relationship building, strategic negotiation, and complex solution customization still rely on humans, and AI enhances data analysis, customer insights, and sales forecasting, boosting efficiency.
-
 Requires IT knowledge plus sales ability; career pathway leads to Sales Director or Regional Manager roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Requires IT knowledge plus sales ability; career pathway leads to Sales Director
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. ICT Business Development Manager (ANZSCO 225212) is on the skilled migra
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-business-development-manager/AU)**

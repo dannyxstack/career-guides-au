@@ -4,8 +4,6 @@
 
 Responsible for managing bets, operating table games (e.g., roulette, poker) and paying out winnings in casinos or gambling venues. This occupation is strictly regulated in Italy, mainly concentrated in legal casinos such as Venice and San Remo.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for managing bets, operating table games (e.g., roulette, poker) and
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Occupations such as bookmakers and croupiers in Italy face AI automation, but legal and customer experience constraints limit core replacement. AI is mostly used for back-end risk control, odds calculation, and customer service; front-line croupiers remain temporarily safe due to trust and interaction needs.
-
 Starting as a junior dealer, you can advance to table supervisor or casino manager. Requires professional training and qualification exams, and obtaining a 'Nulla Osta' permit. Language and customer service skills are key factors for promotion.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Starting as a junior dealer, you can advance to table supervisor or casino manag
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, requires employer to apply for annual quota. Gaming industry quotas are minimal, with fierce competition. |
-| Subclass EU Blue Card (EU Blue Card) | Requires high salary (≥1.5 times average annual wage), ordinary gambling industry roles usually do not meet this. |
-| Subclass Work Residence Permit (Work Residence Permit) | Requires employer sponsorship; first apply for Nulla Osta, then residency. Process is complex, suitable for those with legal status. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Must be 18 years old, have no criminal record (Nulla Osta), complete a casino
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookmaker-croupier-and-related-gaming-worker/IT)**

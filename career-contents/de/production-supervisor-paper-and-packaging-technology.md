@@ -53,8 +53,6 @@ In the paper and packaging industry, responsible for overseeing production proce
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on paper and packaging technology production managers is mixed: routine process scheduling and quality monitoring will be automated, but troubleshooting, team management, and cross-department coordination still rely on human experience; proactive mastery of AI tools is needed to improve management efficiency.
-
 Can advance from production line team leader to production supervisor, then to production manager or factory manager. Further study in industrial management or technical fields (e.g., paper technology) can lead to quality management or process optimization roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from production line team leader to production supervisor, then to p
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to applicants who have completed recognized vocational training in Germany (dual system) or hold equivalent foreign qualifications authenticated. An employment contract from the employer is required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | New option in 2024, based on a points system allowing job seeking in Germany. Suitable for foreigners with professional qualifications and German language skills. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. You can advance from production supervisor to production manager or fact
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-supervisor-paper-and-packaging-technology/DE)**

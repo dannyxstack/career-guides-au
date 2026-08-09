@@ -53,8 +53,6 @@ New Zealand land property valuers assess the value of residential, commercial, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
-
 Junior valuers start with residential valuation; after 2-3 years' experience, they can move to commercial or industrial property, or enter specialized fields like agricultural or forestry valuation. Career paths include senior valuer, team leader, or starting an independent consultancy.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior valuers start with residential valuation; after 2-3 years' experience, th
 | Subclass SMC (Skilled Migrant Category) | Six-point system for skilled migration, based on points for education, work experience, income, etc., for residency application. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, can transition to residence after 2 years of work |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Complete an undergraduate degree from an accredited university (e.g., Bachelo
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/property-valuer/NZ)**

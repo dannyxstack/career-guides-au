@@ -51,8 +51,6 @@ Under the guidance of a traffic engineer, conduct field studies to determine tra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive data collection and field survey tasks for transportation technicians are easily replaced by AI and automation, leading to slow job growth, but advanced analysis and decision-support roles can be enhanced by AI. Entry-level positions face significant compression risk.
-
 Can progress from junior technician to senior technician or supervisor; some become transportation engineers after obtaining a Professional Engineer (PE) license.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can progress from junior technician to senior technician or supervisor; some bec
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Advance from junior technician to senior technician or supervisor, or obtain 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traffic-technicians/US)**

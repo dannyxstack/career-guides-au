@@ -52,8 +52,6 @@ Responsible for hosting and introducing performances or programs on television, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core impromptu interaction and on-the-spot adaptability of hosts are hard to replace, but AI can already take over script narration, information broadcasting, and other stylized content, reducing the demand for purely on-site roles; At the same time, AI-assisted tools can enhance dialogue preparation, multilingual services, and personalized opening designs. In the future, collaboration with AI will be needed, with a greater emphasis on emotional connection and on-site control.
-
 You can start with local media or small events, and gradually advance to national-level broadcasting or large-scale performance hosting. You can also transition into a producer or content creator.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can start with local media or small events, and gradually advance to nationa
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for hosts with outstanding achievements or projects in the cultural and artistic fields, and must provide a portfolio and invitation letter. |
-| Subclass Salarié (Employee (Salaried)) | Employed by a French company with salary at 1.5x SMIC to be eligible, requires employer to provide work permit. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary ≥ €53,000), less common in hosting fields but worth trying. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: The common path is Passeport Talent, which requires proof of artistic achieve
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/show-or-broadcast-presentation/FR)**

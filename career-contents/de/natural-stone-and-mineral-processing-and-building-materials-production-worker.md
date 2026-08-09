@@ -53,8 +53,6 @@ Engaged in crushing, screening, grinding of natural stone and minerals, as well 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Natural stone mineral processing and building material production workers face high automation risk, with AI and robots massively replacing repetitive physical tasks such as crushing, screening, and mixing, leading to significant contraction of entry-level positions.
-
 Can progress from junior operator to team leader, production supervisor, or through further training to technician, master (Meister), or switch to quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior operator to team leader, production supervisor, or thro
 | Subclass Chancenkarte (Opportunity Card) | Implemented in 2026, points-based, allows job seeking in Germany. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek work, must prove financial means. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Can advance to foreman (Meister), production supervisor, or further stud
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-stone-and-mineral-processing-and-building-materials-production-worker/DE)**

@@ -4,8 +4,6 @@
 
 A professional who conducts psychological assessments and psychotherapy in psychiatric departments, counseling centers, schools, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who conducts psychological assessments and psychotherapy in psych
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist with some of the tasks of a clinical psychologist, but it is difficult to fully replace human empathy and therapeutic relationships. AI is likely to replace tasks such as analysis of psychological assessment tools or record keeping, but counseling and diagnosis will remain human roles.
-
 After promotion from Level 2 to Level 1, career advancement to hospitals, counseling centers, and public institutions is possible. Specialization through graduate school and training courses is common.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After promotion from Level 2 to Level 1, career advancement to hospitals, counse
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence Visa) | Targeted at long-term residents, few employment restrictions |
-| Subclass F-4 (Overseas Korean Visa) | Overseas Korean professionals eligible for employment |
-| Subclass E-7 (Specific Activities Visa) | Professional field employment visa, requires psychology degree and experience |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: At least a bachelor's degree in psychology is required, and for level 2 or hi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-psychologist/KR)**

@@ -52,8 +52,6 @@ Responsible for overseeing and managing policy implementation, project coordinat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI/automation on this occupation is mixed: administrative tasks like document processing and report generation are easily replaced, but complex decisions such as policy analysis and multi-party coordination still rely on human judgment, and compliance requirements limit full automation.
-
 Typically advances from policy analyst or project officer to department head, which can be accelerated through obtaining advanced management qualifications or cross-department rotations.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically advances from policy analyst or project officer to department head, wh
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree in public administration, political sc
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-managers-in-public-administration/CA)**

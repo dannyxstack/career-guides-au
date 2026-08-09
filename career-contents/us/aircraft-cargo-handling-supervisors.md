@@ -54,8 +54,6 @@ Supervise and coordinate ground crew in loading, securing aircraft cargo or bagg
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The supervisory and coordination duties of aircraft cargo loading supervisors are difficult to fully automate, but AI/automation will significantly optimize load calculations, documentation, and scheduling; some tasks like data entry and balance calculations may be replaced, while human value in emergency response and team management becomes more prominent.
-
 Can progress from ground staff to supervisor, then to cargo operations manager or airport operations director. With experience, can transition to aviation logistics management or safety coordination roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from ground staff to supervisor, then to cargo operations manager o
 | Subclass EB-3 (EB-3 Skilled/Unskilled) | As a non-skilled worker category, requires a PERM labor certification, but employer sponsorship is difficult |
 | Subclass TN (TN NAFTA Professional) | Not applicable as it does not meet professional occupation requirements |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically start as ground staff, gain 2-3 years of experience before competin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-cargo-handling-supervisors/US)**

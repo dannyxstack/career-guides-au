@@ -52,8 +52,6 @@ Canadian skilled cable splicers install, maintain, and repair underground and ov
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core outdoor physical tasks of telecom line and cable workers are hard to replace by AI, but AI will optimize troubleshooting processes and document management, while automation may reduce some repetitive maintenance needs, presenting both risks and opportunities.
-
 Entry-level trades typically require an apprenticeship (4 years) or trade certification. With experience, you can advance to supervisor, project manager, or self-employment. Holding a Red Seal endorsement, recognized in multiple provinces, greatly expands employment opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level trades typically require an apprenticeship (4 years) or trade certif
 | Subclass FSTP (Federal Skilled Trades Program) | Federal skilled trades immigration requires no criminal record, CLB 5 or higher language score, and a full-time paid job offer or certificate. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers with a job offer in the Atlantic provinces |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completion of a 4-year apprenticeship or provincial trade 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-line-and-cable-workers/CA)**

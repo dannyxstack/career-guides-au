@@ -53,8 +53,6 @@ Responsible for diagnosis, treatment and prevention of oral diseases, including 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentist roles are less affected by AI automation; AI is more of an assistive diagnostic tool (e.g., image analysis) enhancing efficiency, but core clinical procedures and patient communication still rely on humans. Overall demand is stable, with shortages in remote areas.
-
 Starting as a dental assistant, you can advance to clinic partner or open a private practice, or further specialize as an orthodontist or oral surgeon.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a dental assistant, you can advance to clinic partner or open a priv
 | Subclass Skilled Worker (Skilled Immigration Act) | Must complete credential recognition (Anerkennung), can apply with work contract |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed 6 months in Germany to seek work, but must pass qualification pre-assessment first. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: a university dental degree typically takes 6 years (including internship), af
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist-and-orthodontist/DE)**

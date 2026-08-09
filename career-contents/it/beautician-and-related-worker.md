@@ -52,8 +52,6 @@ Beauticians provide facial treatments, makeup, nail care, hairstyling, and other
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core manual services of beauticians (e.g., facial treatments) are hard to replace by AI in the short term, but peripheral tasks like consultation, booking, and marketing are being streamlined by AI tools; entry-level roles face increased competition due to AI.
-
 Beauticians can progress from junior technician to senior beautician, store manager, or start their own beauty salon. Continuous training and learning new skills aid career development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Beauticians can progress from junior technician to senior beautician, store mana
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for highly skilled non-EU talent; beauticians typically do not meet high-skill requirements, but may qualify if holding a management position |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers; beauty industry is usually included in the quota, requiring employer sponsorship |
-| Subclass Freelance Visa (Freelance Visa) | Applies to self-employed beauticians, requiring proof of sufficient income and professional skills |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Must obtain a beautician qualification certificate issued by the regional hea
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beautician-and-related-worker/IT)**

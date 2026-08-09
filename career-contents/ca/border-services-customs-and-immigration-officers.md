@@ -54,8 +54,6 @@ Responsible for enforcing border regulations, inspecting incoming and outgoing p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
-
 Usually start as a border services officer, then advance to senior officer or supervisor through assessments, with potential to move into immigration or law enforcement roles.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Usually start as a border services officer, then advance to senior officer or su
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: No. This occupation is limited to Canadian citizens only; qualification must 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/border-services-customs-and-immigration-officers/CA)**

@@ -51,8 +51,6 @@ Chefs are responsible for preparing, seasoning, and cooking food in restaurants,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
-
 Junior chefs can advance to department head, sous chef, executive chef, or transition to food R&D, catering management, and other positions. With accumulated experience, they can also start their own restaurant.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior chefs can advance to department head, sous chef, executive chef, or trans
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled chefs meeting the salary threshold, requiring employer sponsorship; 2024 threshold approx. €5,331/month (for ages 30+) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talent; annual salary threshold approximately €58,900, which chefs generally find difficult to meet |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates of Dutch or world top 200 universities can apply; valid for 1 year, allows free job seeking. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can progress from junior chef to section head, sous chef, executive chef, or 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chef/NL)**

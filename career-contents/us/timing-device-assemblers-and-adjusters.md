@@ -53,8 +53,6 @@ Performs precision assembly or adjustment of digital clocks and other timing dev
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Timing device assemblers and adjusters face mixed prospects with AI and automation: repetitive tasks in precision assembly and adjustment can be replaced by machines, but extremely tight tolerances, complex debugging, and exception handling still require human experience.
-
 Career progression is narrow, typically starting as an assembler, advancing to senior adjuster or quality inspector, with limited room for growth. Transitioning to electronic equipment repair or precision instrument manufacturing may offer more opportunities.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression is narrow, typically starting as an assembler, advancing to s
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Very difficult. This occupation typically does not require a bachelor's degre
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/timing-device-assemblers-and-adjusters/US)**

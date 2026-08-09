@@ -1,8 +1,8 @@
-# Industrial Machinery Installer and Repairer 职业分析 · 韩国
+# 工业机械安装与修理工（Industrial Machinery Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 81111 (KECO)**
+**职业代码：81111 (KECO)**
 
-A skilled technical position that installs, inspects, and repairs machinery on factory production lines, essential for maintaining safety and productivity.
+在工厂生产线安装、检查和维修机械的技术岗位，对维护安全和生产力至关重要。
 
 
 ---
@@ -11,8 +11,8 @@ A skilled technical position that installs, inspects, and repairs machinery on f
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$500,000（Employment possible with just high school diploma, academy fees extra） |
-| Junior college (Mechanical) | 2 年 | $4,000,000~$8,000,000（Public universities base, private higher） |
+| 高中毕业 | 0年 | $0~$500,000（仅凭高中文凭即可就业，学院费用另计） |
+| 大专（机械） | 2 年 | $4,000,000~$8,000,000（公立大学基础，私立高等教育） |
 
 ---
 
@@ -20,18 +20,18 @@ A skilled technical position that installs, inspects, and repairs machinery on f
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mechanical Maintenance Technician | Human Resources Development Service of Korea | 可选 | Beginner Certificate, Advantageous for Employment |
-| Hydraulic and Pneumatic Technician | Human Resources Development Service of Korea | 可选 | Optional, advantageous for hydraulic/pneumatic equipment responsibilities |
-| Electrician Technician | Human Resources Development Service of Korea | 可选 | May be required for electrical/control work |
+| 机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 初级证书，就业优势 |
+| 液压与气动技术员 | 韩国人力资源开发服务局 | 可选 | 可选，对液压/气动设备职责有利 |
+| 电工技师 | 韩国人力资源开发服务局 | 可选 | 电气/控制工作可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 125,000. Demand for mechanical maintenance persists due to manufacturing automation and smart factory transition, but proficiency becomes crucial as AI can replace simple tasks.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 125,000。由于制造自动化和智能工厂转型，机械维护需求持续存在，但AI可替代简单任务，因此熟练程度变得至关重要。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A skilled technical position that installs, inspects, and repairs machinery on f
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $30,000,000~$38,000,000 | Increases when including high school graduate standard and night shift allowance |
-| Intermediate (4-7 yrs) | $38,000,000~$48,000,000 | Higher if holding a technician certificate |
-| Advanced (8+ years) | $48,000,000~$65,000,000 | Team leader level, may be higher at large corporations |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 包括高中毕业生标准和夜班津贴时增加 |
+| 中级（4-7年） | $38,000,000~$48,000,000 | 持有技师证书时更高 |
+| 高级（8年以上） | $48,000,000~$65,000,000 | 团队主管级别，大型企业可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation will enhance diagnostic and predictive maintenance, but on-site repair and adjustment still require human touch, making full replacement difficult. The role of maintenance technicians is expected to become more advanced with smart factory adoption.
+AI和自动化将增强诊断和预测性维护，但现场维修和调整仍需人工，完全替代困难。维护技术员的角色预计将随智能工厂采用而提升。
 
-Career path progression: Junior Maintenance Assistant → Intermediate Maintenance Technician → Senior/Team Lead → Technical Specialist/Manager. Factory equipment management or obtaining certifications supports career growth.
+职业发展路径：初级维护助理 → 中级维护技术员 → 高级/团队负责人 → 技术专家/经理。工厂设备管理或获得认证有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- recording regular inspection data
-- managing simple parts replacement schedules
-- basic diagnostic tasks
+- 记录定期检查数据
+- 管理简单零件更换计划
+- 基本诊断任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based equipment anomaly diagnosis
-- data analysis for predictive maintenance
-- operating remote monitoring systems
+- 基于人工智能的设备异常诊断
+- 用于预测性维护的数据分析
+- 操作远程监控系统
 
-**人类护城河:**
+**人类护城河：**
 
-- field-adaptive problem solving
-- repairing non-standard equipment
-- safety management and team collaboration
+- 实地适应性问题解决
+- 修理非标准设备
+- 安全管理与团队协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC programming
-- robot control
-- data analysis
-- understanding smart factory systems
+- PLC编程
+- 机器人控制
+- 数据分析
+- 理解智能工厂系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- smart factory
-- robot maintenance
-- semiconductor equipment
-- PLC programming
+- 智能工厂
+- 机器人维护
+- 半导体设备
+- PLC编程
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when skilled workers are needed; requires experience and qualifications |
-| Subclass E-9 (Non-professional Employment) | Limited to unskilled labor in manufacturing; mainly simple tasks |
-| Subclass F-2 (Residence) | Long-term stay, no employment restrictions, pre-Permanent Residence stage |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy machinery and hands-on work
-- People adaptable to night and weekend shift work
-- People with strong problem-solving and analytical thinking
+- 喜欢机械和动手操作的人
+- 适应夜班和周末轮班工作的人群
+- 具有强大解决问题和分析思维能力者
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who have difficulty with night shifts
+- 不适应夜班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for an industrial machinery mechanic?**
-答：Entry-level: approx. 30–38 million KRW, mid-level: 38–48 million KRW, senior: 48–65 million KRW; varies by company size and night shift allowances.
+**问：工业机械技师的年薪是多少？**
+答：入门级约3000-3800万韩元，中级3800-4800万韩元，高级4800-6500万韩元；因公司规模和夜班津贴而异。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：It's possible with an E-7 visa but requires experience and qualifications, while E-9 is limited to simple tasks.
+**问：外国人能获得此职业的工作签证吗？**
+答：持E-7签证可行但需经验和资格，E-9仅限于简单任务。
 
-**问：What is the promotion path for this occupation?**
-答：You can advance from maintenance assistant to maintenance technician to team leader/manager, and acquiring certifications and smart factory-related skills is advantageous.
+**问：该职业的晋升路径是什么？**
+答：你可以从维护助理晋升到维护技术员再到团队领导/经理，获得认证和智能工厂相关技能是有利的。
 
 
 ---
@@ -143,12 +136,12 @@ Career path progression: Junior Maintenance Assistant → Intermediate Maintenan
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-machinery-installer-and-repairer/KR)**

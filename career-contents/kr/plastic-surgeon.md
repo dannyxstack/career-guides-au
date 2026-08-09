@@ -4,8 +4,6 @@
 
 A doctor who performs surgical and non-surgical procedures to improve patients' appearance, specializing in cosmetic and reconstructive surgery.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A doctor who performs surgical and non-surgical procedures to improve patients' 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in diagnostic image analysis, surgical planning, etc., but actual surgery and patient consultations require the high-level judgment and skill of human doctors, making complete replacement difficult.
-
 After graduating from medical school, complete internship and residency to obtain plastic surgery specialist certification, then open a clinic or work at a hospital; with experience, can become a department head at a large hospital or open a private practice.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After graduating from medical school, complete internship and residency to obtai
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (specific activities) | Issuable to specialists in specific fields with foreign medical licenses but practically very limited |
-| Subclass F-2 (residence) | Pre-permanent residency stage; permits physician employment; requires Korean medical license |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: After graduating from medical school, passing the national medical exam, comp
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-surgeon/KR)**

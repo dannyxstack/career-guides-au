@@ -4,8 +4,6 @@
 
 Responsible for designing and decorating retail stores, exhibitions, windows, and other commercial spaces, enhancing brand image and customer experience through visual displays, lighting, colors, and props.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for designing and decorating retail stores, exhibitions, windows, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail and exhibition space decorators are affected by AI: design tasks like visual displays and color matching can be enhanced by AI tools, but tasks like physical setup and client communication, which rely on on-the-ground operations and emotional insight, still have moats.
-
 You can advance from junior decorator to senior decorator, visual merchandising manager, or creative director. You can also specialize in specific areas such as luxury window displays or large-scale exhibition design, or set up your own studio to take on projects.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can advance from junior decorator to senior decorator, visual merchandising 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | A CDI contract must be provided by a French employer, the position must pass France Travail review, and the salary must not be lower than industry standards. |
-| Subclass Passeport Talent (Talent Passport (Passeport Talent)) | Suitable for outstanding design talents who must demonstrate significant achievements or projects, with salaries usually above average. |
-| Subclass Carte bleue UE (EU Blue Card) | High salary is required (about 54,000 euros/year in 2024), suitable for senior decorators or project managers. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Gain project experience, build portfolios, pursue higher qualifications (such
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-and-exhibition-space-decorator/FR)**

@@ -1,10 +1,8 @@
-# Entertainment Manager 职业分析 · 韩国
+# 娱乐经理（Entertainment Manager）职业分析 · 韩国
 
-**职业代码: 41721 (KECO)**
+**职业代码：41721 (KECO)**
 
-A professional manager who supports the overall management of celebrities such as singers and actors, including schedule coordination, contracts, public relations, and external affairs.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专业经理人，支持歌手、演员等名人的整体管理，包括日程协调、合同、公关及对外事务。
 
 
 ---
@@ -13,8 +11,8 @@ A professional manager who supports the overall management of celebrities such a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（Minimum Education） |
-| Associate/Bachelor's in Related Field | 2 年 | $6,000,000~$20,000,000（Entertainment·Broadcasting·Business） |
+| 高中毕业 | 0年 | $0~$0（最低学历） |
+| 相关领域的副学士/学士学位 | 2 年 | $6,000,000~$20,000,000（娱乐·广播·商务） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional manager who supports the overall management of celebrities such a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Driver's License | National Police Agency | 必备 | Vehicle travel required |
-| Practical Manager Experience | Agency | 可选 | Training/Internship preferred |
+| 一级驾驶证 | 国家警察厅 | 必备 | 需要驾车出行 |
+| 实际经理经验 | 中介 | 可选 | 优先培训/实习 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 4,500. Driven by the global growth of the Korean entertainment industry, demand remains steady, but job growth is limited due to hiring centered on a few large agencies and high competition.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 4,500。受韩国娱乐产业全球增长的推动，需求保持稳定，但由于招聘集中在少数大型机构且竞争激烈，就业增长有限。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,92 +38,85 @@ A professional manager who supports the overall management of celebrities such a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $25,000,000~$35,000,000 | Assistant Manager Level |
-| Mid (4-7 years) | $35,000,000~$50,000,000 | Regular Manager |
-| 高级（8年+） | $50,000,000~$80,000,000 | Team Leader / Large Agency |
+| 初级 (0-3年) | $25,000,000~$35,000,000 | 助理经理级别 |
+| 中级（4-7年） | $35,000,000~$50,000,000 | 常规经理 |
+| 高级（8年+） | $50,000,000~$80,000,000 | 团队负责人/大型中介 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI assists managers in scheduling, translation, data analysis, etc., but human intuition and relationship-centered negotiation are irreplaceable, so the role is expected to expand.
+人工智能辅助管理者进行日程安排、翻译、数据分析等，但人类的直觉和以关系为中心的谈判不可替代，因此该角色预计将扩大。
 
-Typically start as an assistant manager at an agency, then move up to regular manager, team leader, or transition into planning/marketing. Also possible to move to independent agencies.
+通常从代理机构助理经理做起，晋升为正式经理、团队领导，或转岗至策划/市场。也可跳槽至独立代理机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic Schedule Adjustment
-- Basic Promotional Material Creation
-- Statistical Analysis
+- 自动排程调整
+- 基本宣传物料制作
+- 统计分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fan Communication
-- Global Media Monitoring
-- Contract Term Analysis
+- 粉丝沟通
+- 全球媒体监测
+- 合同期限分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Human Networks and Trust
-- Emotional Empathy
-- On-site Responsiveness
+- 人脉与信任
+- 情感同理心
+- 现场响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Marketing
-- Data Literacy
-- Foreign Language Skills
+- 数字营销
+- 数据素养
+- 外语技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Globalization of K-pop
-- Digital content
-- Multinational Artist
-- Agency Diversification
+- 韩流全球化
+- 数字内容
+- 跨国艺术家
+- 机构多元化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible for specialized entertainment professionals |
-| Subclass F-2 (F-2 (Residence)) | Allowed for long-term residents, few activity restrictions |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are resilient and flexible under stress
-- People with excellent interpersonal and negotiation skills
-- People who can tolerate overtime and weekend work
+- 在压力下具有韧性和灵活性的人
+- 具备出色人际交往和谈判技巧的人
+- 能接受加班和周末工作的人
 
 **谁不适合**
-- People who prefer a regular lifestyle
-- People who value personal time
+- 偏好规律生活的人
+- 重视个人时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary for an entertainer manager?**
-答：Entry-level 25-35 million KRW, up to 80 million KRW with experience, but varies greatly by agency size.
+**问：娱乐经理的典型薪资是多少？**
+答：入门级2500-3500万韩元，有经验者可达8000万韩元，但根据机构规模差异较大。
 
-**问：Can foreigners work as entertainer managers?**
-答：Possible with an E-7 visa, but language and cultural understanding are important, and competition is fierce.
+**问：外国人可以担任娱乐经理吗？**
+答：持E-7签证可能，但语言和文化理解重要，竞争激烈。
 
-**问：Are there required certifications?**
-答：A Class 1 driver's license is required; experience is valued more than related degrees or certifications.
+**问：是否需要必需的认证？**
+答：需持有A1驾照；经验比相关学历或证书更受重视。
 
 
 ---
@@ -143,12 +134,12 @@ Typically start as an assistant manager at an agency, then move up to regular ma
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/entertainment-manager/KR)**

@@ -4,8 +4,6 @@
 
 A professional office worker responsible for planning, editing, proofreading, and publishing books, magazines, and online content, as well as managing manuscripts and establishing publication plans.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional office worker responsible for planning, editing, proofreading, an
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-With automation in AI-driven translation, proofreading, and cover design, simple editing tasks are shrinking, but creative judgment like content planning and author networking will remain uniquely human. Publishers should use AI tools to boost productivity, and editors need to develop digital publishing and data analysis skills.
-
 Typically starting as an entry-level editor at publishing houses, editorial offices, or corporate PR teams, and advancing to editor-in-chief, content planner, or publishing house representative with experience.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Typically starting as an entry-level editor at publishing houses, editorial offi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-2 Culture & Information)) | Possible if invited as a publishing/editing professional, but requires employment recommendation letter and career proof |
-| Subclass D-10 (Job Seeking (D-10-1)) | Stay for job-seeking purposes, later convertible to E-7 |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +137,12 @@ A: While simple tasks like proofreading and spell-checking are being replaced by
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/publication-and-document-editing-clerk/KR)**

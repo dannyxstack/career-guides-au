@@ -51,8 +51,6 @@ Teach non-English language and literature courses at universities or colleges, i
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually start as part-time lecturer or assistant professor, then advance to associate professor and professor. Need strong research output and teaching experience; competition for tenure is fierce. Some transition to administrative or curriculum development roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as part-time lecturer or assistant professor, then advance to asso
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to professors with outstanding achievements in the field of language and literature, no labor certification required |
 | Subclass Green Card (PERM) (Permanent Residence through PERM) | University sponsorship for tenure-track or long-term positions; must prove no qualified U.S. workers available |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must obtain a full-time teaching or research position at a university, and th
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foreign-language-and-literature-teachers-postsecondary/US)**

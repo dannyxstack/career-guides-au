@@ -53,8 +53,6 @@ Responsible for manufacturing, repairing, and tuning musical instruments, includ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Instrument manufacturing and tuning is a mixed bag: AI can assist with precise tuning and repair diagnostics, but the core skills of handcrafting and fine acoustic adjustments are hard to replace, and clients' personalized tonal needs rely on human experience.
-
 Start as a junior apprentice or assistant, gain experience, then advance to senior technician or workshop supervisor. You can also start your own instrument repair shop or specialize in a type of instrument (e.g., piano tuning).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior apprentice or assistant, gain experience, then advance to seni
 | Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, minimum annual salary of €30,000. This occupation is not on the shortage list and requires a labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of no less than €43,456 (2024 standard), typically requiring higher education qualifications, not suitable for this occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mainly through 3-4 year apprenticeships (regulated by SOLAS) or vocational ce
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musical-instrument-maker-and-tuner/IE)**

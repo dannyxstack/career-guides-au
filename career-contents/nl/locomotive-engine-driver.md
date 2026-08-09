@@ -52,8 +52,6 @@ Train drivers operate freight or passenger trains, ensuring safe and punctual op
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure of train drivers is being reshaped by AI/automation: autonomous driving and scheduling systems may take over some driving and monitoring tasks, but safety responsibility, complex environment judgment, and emergency handling still rely on humans. Entry-level positions have narrowed due to increased automated monitoring.
-
 Career progression paths include transitioning from freight driver to high-speed passenger train, or advancing to dispatcher, trainer, safety manager, etc., requiring accumulated experience and additional certifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career progression paths include transitioning from freight driver to high-speed
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled migrants with an employment contract from a Dutch railway company, must meet salary threshold (approx. €5,008/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, requires university degree and at least €5,331/month salary (2024), railway companies can sponsor. |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who have graduated in the Netherlands, allowing them to seek work within one year; can switch to a work visa after finding a train driver job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can progress from freight train driver to passenger train driver, then to hig
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locomotive-engine-driver/NL)**

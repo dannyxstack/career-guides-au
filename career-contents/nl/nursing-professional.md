@@ -4,8 +4,6 @@
 
 Nursing professionals are responsible for providing comprehensive nursing services, including patient assessment, care planning, implementation and evaluation, playing a key role in healthcare institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Nursing professionals are responsible for providing comprehensive nursing servic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nursing is mixed: structured tasks like data entry, scheduling, and basic triage are automated, but clinical judgment, patient communication, and nursing decisions have deep moats, and are enhanced by AI tools for efficiency and quality.
-
 Registered nurses can advance to specialist nurses, nursing supervisors, or nursing managers, or become nursing researchers or educators through further study.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Registered nurses can advance to specialist nurses, nursing supervisors, or nurs
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Valid for those with a Bachelor of Nursing and a work contract, where the employer must be an approved sponsor; meet income requirements (2024 monthly salary approximately over 3,000 euros). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU nursing professionals, requires a work contract with an annual salary of approximately €56,000 or more (2024 standard) |
-| Subclass Orientation Year (Or (Orientation Year) | For graduates who have obtained a master's degree in the Netherlands or other specified countries, you can work in the Netherlands for one year to find a suitable position. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, the Netherlands faces a severe shortage of care workers, especially in e
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-professional/NL)**

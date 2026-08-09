@@ -53,8 +53,6 @@ Sell spare parts and replacement parts and equipment at repair or parts stores, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of parts salesperson will be partially reduced by AI, but AI also enhances their information retrieval and customer service capabilities. Key humanized communication and complex transaction processing remain human advantages.
-
 Starts as junior salesperson, can advance to senior salesperson, department manager, or purchasing specialist; requires product knowledge and customer relationships.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starts as junior salesperson, can advance to senior salesperson, department mana
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can transition to procurement, inventory management, or store management role
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parts-salespersons/US)**

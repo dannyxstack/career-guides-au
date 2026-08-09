@@ -55,8 +55,6 @@ Responsible for supervising and enforcing regulations in commercial and health s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly improve regulatory data analysis and reporting efficiency, but core responsibilities such as on-site inspections, legal discretion, and interpersonal communication are hard to replace, leading to a mixed outlook for the occupation.
-
 Career path from professional inspector to team leader, then to department management. Can advance to senior management roles through further education (e.g., Master's in Public Health Management).
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path from professional inspector to team leader, then to department manag
 | Subclass Skilled Worker (Skilled Immigration Act) | Skilled Migration Act: must obtain a German employer offer and have professional qualifications recognized. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must prove financial capacity. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress from entry-level inspector to team supervisor, then department m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisory-and-management-personnel-in-commercial-and-health-inspection-disinfection/DE)**

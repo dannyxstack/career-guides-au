@@ -4,8 +4,6 @@
 
 Responsible for cleaning and waste collection in public places such as streets, parks, and residential areas, and separating recyclables, playing a key role in maintaining urban environmental hygiene.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ Responsible for cleaning and waste collection in public places such as streets, 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI and automation technologies have been introduced, replacing some simple tasks such as autonomous driving of street sweepers and unmanned cleaning robots, but areas requiring human judgment, such as recycling sorting and illegal waste enforcement, remain handled by people. Overall, AI is at a level of assisting labor, and complete replacement is difficult for the time being due to cost and technical limitations.
-
 Starting as a beginner, one can be promoted to head or team leader based on experience, or transition to a manager position at a public institution's cleaning service company. Acquiring professional certifications opens opportunities for advancement to higher-level positions.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Starting as a beginner, one can be promoted to head or team leader based on expe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Under the Employment Permit System for non-professional foreign workers, employment in cleaning and waste collection is possible. The employer must obtain an employment permit. |
-| Subclass H-2 (Working Visit (H-2)) | Available for overseas Koreans to work in the cleaning industry. Stay period of 5 years with relaxed employment restrictions. |
-| Subclass F-2 (Residence (F-2)) | Can be converted to a points-based permanent residence status, allowing employment in cleaning jobs for long-term stays. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Depending on experience, you can be promoted to team leader or shift manager,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-cleaners-and-recyclable-waste-collectors/KR)**

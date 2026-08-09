@@ -51,8 +51,6 @@ Kitchen and dining assistants help prepare and serve food and drinks in restaura
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Many repetitive tasks in kitchen and catering assistance (e.g., dishwashing, food prep, cleaning) are being replaced by automation; entry-level demand will shrink, but service roles requiring human judgment remain.
-
 Usually start in entry-level roles and can advance to cook, chef, or food and beverage supervisor. Some transition through training into professional cooking or food service management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start in entry-level roles and can advance to cook, chef, or food and be
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the skilled occupation list and generally cannot be sponsored under the Skilled Worker visa. |
 | Subclass Graduate (Graduate visa) | Graduate visa may allow short-term work but no long-term residency pathway. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually not. This occupation is not on the skilled occupation list, and emplo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-and-catering-assistants/UK)**

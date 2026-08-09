@@ -4,8 +4,6 @@
 
 An expert who designs and develops virtual environments using VR/AR technology and optimizes user experiences. Used in various industries such as games, education, and healthcare.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ An expert who designs and develops virtual environments using VR/AR technology a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI impacts the VR/AR field by automating content creation and optimizing user interaction, enhancing work efficiency, while the creativity and technical judgment of experts become more important.
-
 Starting as a junior developer, can advance to senior engineer, technical lead, or CTO. Freelancing or startup founding is also common. Continuous skill updates are essential.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Starting as a junior developer, can advance to senior engineer, technical lead, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued upon employment contract as VR specialist. Requires degree/experience. |
-| Subclass D-10 (Job seeking) | For job seeking after domestic university graduation. Can link to VR field employment. |
-| Subclass F-2 (Residence) | Point-based permanent residence. Possible for long-term stay. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Unity/Unreal engines, 3D modeling, C#/C++ programming, and spatial computing 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/virtual-reality-specialist/KR)**

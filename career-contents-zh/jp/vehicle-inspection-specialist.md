@@ -1,10 +1,8 @@
-# Vehicle Inspection Specialist 职业分析 · 日本
+# 车辆检验专家（Vehicle Inspection Specialist）职业分析 · 日本
 
-**职业代码: 583 (JSCO)**
+**职业代码：583 (JSCO)**
 
-A professional who conducts final inspections and periodic inspections (shaken) of vehicles to confirm compliance with safety standards. They work in factories and land transport offices.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+对车辆进行最终检验和定期检验（车检）以确认符合安全标准的专业人员。他们在工厂和陆运局工作。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who conducts final inspections and periodic inspections (shaken) 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Public high school tuition is free, private averages about ¥300,000/year） |
-| Vocational School (Automotive Maintenance) | 2 年 | $1,000,000~$2,000,000（Vocational school tuition is around ¥500,000–1,000,000/year） |
+| 高中文凭 | 3年 | $0~$300,000（公立高中学费免费，私立平均约30万日元/年） |
+| 职业学校（汽车维修） | 2 年 | $1,000,000~$2,000,000（职业院校学费约为每年50万至100万日元） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who conducts final inspections and periodic inspections (shaken) 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automotive Inspector Certification | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | National certification. Required for conducting final and periodic inspections. |
-| Automotive Mechanic (Grade 1 & 2) | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Mechanic certification is advantageous as a prerequisite for inspection work. |
-| Automotive Maintenance Supervisor | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for management positions at maintenance shops. |
+| 汽车检验员认证 | 国土交通省 | 必备 | 国家认证。进行最终和定期检查所需。 |
+| 汽车修理工（1级和2级） | 国土交通省 | 可选 | 机械师认证对检验工作有优势，是必备前提。 |
+| 汽车维修主管 | 国土交通省 | 可选 | 维修店管理职位所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 45,000. Stable employment is expected due to the consistent number of registered vehicles and regular inspection demand. However, continuous skill upgrading is necessary with advances in inspection technology and the shift to electric vehicles.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 45,000。由于注册车辆数量稳定且定期检查需求，就业预计稳定。然而，随着检测技术的进步和向电动汽车的转变，持续提升技能是必要的。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A professional who conducts final inspections and periodic inspections (shaken) 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0–3 years) | $3,000,000~$4,000,000 | After transitioning from mechanic to inspector, salary is typically in the ¥3 million range. |
-| Mid-Level (3–10 years) | $4,000,000~$5,500,000 | With experience, chief inspector class earns ¥4–5.5 million. |
-| 资深（10年以上） | $5,500,000~$7,000,000 | Factory manager or management positions earn ¥5.5–7 million. At major dealerships, it can be higher. |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 从机械师转为检查员后，薪资通常在300万日元左右。 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 有经验后，首席检查员级别年薪400-550万日元。 |
+| 资深（10年以上） | $5,500,000~$7,000,000 | 工厂经理或管理职位年薪550-700万日元。大型经销商可能更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI supports vehicle inspection through image recognition for visual inspection and analysis of diagnostic data, but human experience and judgment are essential for final decisions and identifying complex defects. AI is used as a tool for inspectors, contributing to efficiency and accuracy.
+AI通过图像识别进行视觉检查和分析诊断数据来支持车辆检测，但最终决策和识别复杂缺陷仍需人类经验和判断。AI作为检验员的工具，有助于提高效率和准确性。
 
-After obtaining the inspector qualification (national certification), advancement to chief inspector or factory manager is possible. Common career paths include working at maintenance companies or automakers, and independence is an option with experience.
+获得检验员资格（国家认证）后，可晋升为首席检验员或厂长。常见职业路径包括在维修公司或汽车制造商工作，有经验后也可独立执业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual inspection
-- Simple measurement tasks
-- Reading and recording diagnostic codes
+- 目视检查
+- 简单测量任务
+- 读取和记录诊断代码
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex fault diagnosis
-- Verification and judgment of AI inspection results
-- Analysis of inspection data and improvement proposals
+- 复杂故障诊断
+- AI检测结果的验证与判断
+- 检查数据分析与改进建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Final safety judgment
-- Sensory identification of abnormal sounds and vibrations
-- Comprehensive knowledge and experience as a mechanic
+- 最终安全判断
+- 异常声音和振动的感官识别
+- 全面的机械知识和经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/IoT device operation skills
+- AI/IoT设备操作技能
 - 数据分析技能
-- Electrical/electronic technology
-- Communication skills
+- 电气/电子技术
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI-based image inspection
-- EV/HV support
-- Connected cars
-- Autonomous driving technology
+- 基于AI的图像检测
+- 电动车/混合动力车支持
+- 网联汽车
+- 自动驾驶技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Auto Maintenance)) | Able to engage in auto maintenance and inspection work. Max stay: 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and work experience. Can handle inspection tasks. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People skilled at detail work
-- People who love cars and prioritize safety
-- People who can steadily follow fixed procedures accurately
+- 擅长细致工作的人
+- 热爱汽车并优先考虑安全的人
+- 能稳定准确遵循固定流程的人
 
 **谁不适合**
-- People who dislike routine work
-- People who dislike talking to others
+- 不喜欢例行工作的人
+- 不喜欢与他人交谈的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of vehicle inspection workers?**
-答：Starting salary around ¥3-4 million, mid-level ¥4-5.5 million, senior ¥5.5-7 million. Slightly higher than mechanics, income stable due to steady inspection demand.
+**问：车辆检验员的年收入是多少？**
+答：起薪约300-400万日元，中级400-550万日元，高级550-700万日元。略高于机修工，因检验需求稳定而收入稳定。
 
-**问：How can foreigners work in this occupation in Japan?**
-答：Use Specified Skilled Worker (i) (Auto Maintenance) or Engineer/Specialist in Humanities/International Services status. Requires Japanese ability (N4+) and maintenance skills; Engineer status needs university degree or higher.
+**问：外国人在日本如何从事该职业？**
+答：使用特定技能工人(i)（汽车维修）或工程师/人文/国际服务专家身份。需要日语能力（N4+）和维修技能；工程师身份需大学学位或更高。
 
 **问：职业晋升路径是什么？**
-答：After obtaining the vehicle inspector qualification, you can aim to become a chief inspector or plant manager. Furthermore, by obtaining a mechanic qualification, you can start your own business or change jobs to a manufacturer.
+答：获得车辆检测员资格后，可争取成为主任检测员或工厂经理。此外，获得机械工资格后，可自主创业或跳槽至制造商。
 
 
 ---
@@ -145,12 +136,12 @@ After obtaining the inspector qualification (national certification), advancemen
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/vehicle-inspection-specialist/JP)**

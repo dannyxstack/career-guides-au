@@ -54,8 +54,6 @@ In New Zealand, Local Area Coordinators assist people with disabilities (especia
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on NDIS local coordinators is mixed: some administrative and information tasks can be automated, but core personalized support, community connections, and complex case coordination still require humans, providing a deeper moat.
-
 Junior local coordinators can advance to senior coordinator or team leader, or move into disability policy, community service management, etc. However, New Zealand has low job mobility and limited promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior local coordinators can advance to senior coordinator or team leader, or m
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Job opportunities are limited, mainly in government-funded community service 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-area-coordinator-ndis/NZ)**

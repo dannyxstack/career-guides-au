@@ -51,8 +51,6 @@ Printing machine assistants set up and operate various printing equipment, inclu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Printing machine assistant jobs are highly repetitive and process-driven; AI and automation technologies will gradually take over most operational tasks, leading to significantly reduced demand.
-
 Junior printing press assistants can advance to senior operators or press supervisors through experience. Further training can lead to printing technician, color management, or production management roles. A few can move into digital printing or pre-press design.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior printing press assistants can advance to senior operators or press superv
 | Subclass Graduate (Graduate visa) | Suitable for UK graduates, can work in any role for 2-3 years. |
 | Subclass Scale-up (Scale-up visa) | Suitable for working in eligible high-growth companies, requires sponsorship for the first 6 months |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior operator, printing team leader, or transition through t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-machine-assistants/UK)**

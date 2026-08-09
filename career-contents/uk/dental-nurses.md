@@ -52,8 +52,6 @@ Dental nurses assist dentists during treatments, handling patient preparation, i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on dental nurses is mixed: administrative and documentation tasks will be significantly automated, but clinical assistance tasks still rely heavily on humans due to physical contact and fine motor skills, and AI-enhanced tools can improve work efficiency.
-
 Can progress from junior dental nurse to senior dental nurse, team leader, or specialize as a dental hygienist or therapist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior dental nurse to senior dental nurse, team leader, or sp
 | Subclass Health & Care (Health and Care Worker visa) | Designed for healthcare professionals, lower visa fees, and can include family members. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for up to 2 years, gaining experience before transitioning to a Skilled Worker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from clinical nurse to senior dental nurse, team leader, or throu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-nurses/UK)**

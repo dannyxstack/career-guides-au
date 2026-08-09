@@ -4,8 +4,6 @@
 
 Tax experts who professionally handle tax reporting, tax consultations, and tax objection claims for corporations and individuals. They are qualified professionals under the Certified Tax Accountant Act.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Tax experts who professionally handle tax reporting, tax consultations, and tax 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI automates simple repetitive tasks such as tax data analysis and return preparation, but advanced judgment tasks like tax consultation, strategy development, and objection claims still require human tax accountants. Tax accountants who use AI as an auxiliary tool can work more efficiently.
-
 After gaining practical experience at a tax accounting firm or accounting firm, one can open a practice or advance to a law firm or corporate tax team. After obtaining a tax accountant license, one can specialize in areas such as corporate tax or international tax.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ After gaining practical experience at a tax accounting firm or accounting firm, 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For foreign experts with tax accountant license, limited demand |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +130,12 @@ A: It is possible with an E-7 visa after obtaining a Korean tax accountant licen
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-accountant/KR)**

@@ -52,8 +52,6 @@ Designs, develops, and evaluates the operation of ships, marine machinery, and r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Career path usually starts as junior engineer or designer, can advance to senior engineer, project manager, or technical expert. Some transition to management or marine operations roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path usually starts as junior engineer or designer, can advance to senior
 | Subclass EB-3 (EB-3 Employment-Based Green Card) | Applicable for skilled workers, requires PERM labor certification, long wait times |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applies to outstanding engineers, requires internationally recognized achievements, no labor certification needed. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from design roles to project manager, technical director, or tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-engineers-and-naval-architects/US)**

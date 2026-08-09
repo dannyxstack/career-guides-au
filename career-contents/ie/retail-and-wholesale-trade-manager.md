@@ -53,8 +53,6 @@ Responsible for managing the daily operations of a retail or wholesale store, in
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail and wholesale trade managers face dual AI impacts: tasks like inventory management and sales reporting will be automated, but personnel management, customer relations, and strategic decision-making still rely on human judgment. Entry-level roles are narrowing due to the prevalence of low-level data analysis tools, but senior management roles are amplified by AI-enhanced decision-making.
-
 Can progress from store manager to regional manager or operations director, or move into procurement, supply chain management, or starting your own business. With experience, can manage larger scale or more stores.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from store manager to regional manager or operations director, or m
 | Subclass EU Blue Card (EU Blue Card) | Applies to management positions with annual salary above general level (usually above €50,000); requires bachelor's degree or higher. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Retail management is not typically on the shortage list, but senior positions with salary above €64,000 may be eligible. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can be promoted to regional manager, operations director, or transition to fi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-and-wholesale-trade-manager/IE)**

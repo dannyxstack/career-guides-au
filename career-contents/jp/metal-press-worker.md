@@ -50,8 +50,6 @@ A job that punches and forms metal sheets using press machines. Important in the
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Automation via AI and robots is progressing. Mass-produced simple pressing is easily replaced, but multi-variety small-lot, die adjustment, and troubleshooting depend on skilled human workers.
-
 Career progression: apprentice → intermediate press worker → skilled worker/multi-process operator → production leader or die adjustment specialist. Skill certification exams are useful for career advancement.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career progression: apprentice → intermediate press worker → skilled worker/
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（素形材・産業機械・電気電子情報関連製造業） (Specified Skilled Worker (i)) | Targeted for manufacturing. Requires JLPT N4+ & skill exam pass. Max stay total 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university-level expertise. Covers press tech guidance & design. Stay up to 5 years. |
-| Subclass 技能実習（機械・金属） (Technical Intern Training (i)/(ii)) | Can enter as trainee. Eligible to switch to SSW after 3 years. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Metal Press Processing Technician (Grade 1/2) is valid. Also, Press Machine O
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-press-worker/JP)**

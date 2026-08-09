@@ -4,8 +4,6 @@
 
 Professionals engaged in geographic information collection, processing, analysis, and mapping use technologies such as remote sensing and GIS to provide spatial data support for urban planning, environmental management, land registration, and other fields.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Professionals engaged in geographic information collection, processing, analysis
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
-
 Starting positions are geographic information technicians or junior cartographers. After accumulating experience, they can be promoted to project supervisor or GIS analyst. Senior candidates may serve as technical directors or establish their own surveying companies.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Starting positions are geographic information technicians or junior cartographer
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for high-tech professionals from third countries with a bachelor's degree or higher and an annual salary not less than 1.5 times the Spanish average (about 38,000 euros). |
-| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled professionals, residence permits require employment by a Spanish company and meeting educational and salary requirements. |
-| Subclass Cuenta ajena (Work Contract) | Standard employed work residence can be applied for through company sponsorship, and the necessity of the position must be proven. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: With the development of smart cities, environmental monitoring, and digital l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geographers-and-cartographers/ES)**

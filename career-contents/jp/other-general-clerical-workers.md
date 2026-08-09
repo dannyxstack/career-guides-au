@@ -4,8 +4,6 @@
 
 Occupation engaged in general clerical work not belonging to specific specialized fields such as sales or accounting, among general office positions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Occupation engaged in general clerical work not belonging to specific specialize
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Routine general office tasks such as data entry and document sorting are easily replaced by AI/RPA, leading to a decline in hiring numbers.
-
 Can start with no experience and advance from general clerical to secretary/assistant, or to sales/accounting clerical. Professional qualifications broaden opportunities for raises and job changes.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Can start with no experience and advance from general clerical to secretary/assi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. General clerical work is often excluded, but may be possible when combined with translation/interpreting. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | General clerical work is excluded. Related work such as sales clerical is also not applicable. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: General clerical is often excluded from the Engineer/Specialist in Humanities
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-general-clerical-workers/JP)**

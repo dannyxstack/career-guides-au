@@ -1,8 +1,8 @@
-# Civil Engineering Construction Technician and Estimator 职业分析 · 韩国
+# 土木工程施工技术员与估算师（Civil Engineering Construction Technician and Estimator）职业分析 · 韩国
 
-**职业代码: 14036 (KECO)**
+**职业代码：14036 (KECO)**
 
-A professional who performs construction planning, process management, cost estimation, and bidding tasks for civil engineering projects, responsible for site management and technical support.
+从事土木工程项目施工规划、过程管理、成本估算和招投标工作的专业人员，负责现场管理和技术支持。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who performs construction planning, process management, cost esti
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (Civil Engineering and related fields) | 2-3年 | $8,000,000~$15,000,000（Based on national universities, private universities about double） |
-| University (Civil Engineering, Architectural Engineering, etc.) | 4年 | $16,000,000~$30,000,000（Based on national universities, private universities about double） |
+| 大专（土木工程及相关领域） | 2-3年 | $8,000,000~$15,000,000（国立大学约是私立大学的两倍） |
+| 大学（土木工程、建筑工程等） | 4年 | $16,000,000~$30,000,000（国立大学约是私立大学的两倍） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who performs construction planning, process management, cost esti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Civil Engineer (National Technical Qualification) | Human Resources Development Service of Korea | 必备 | Required basic certification |
-| Civil Engineering Construction Professional Engineer (National Technical Qualification) | Human Resources Development Service of Korea | 可选 | Advanced expert certification |
-| Construction Safety Engineer (National Technical Qualification) | Human Resources Development Service of Korea | 可选 | Strengthen safety management capabilities |
+| 土木工程师（国家技术资格） | 韩国人力资源开发服务局 | 必备 | 所需基本认证 |
+| 土木建筑工程专业工程师（国家技术资格） | 韩国人力资源开发服务局 | 可选 | 高级专家认证 |
+| 建筑安全工程师（国家技术资格） | 韩国人力资源开发服务局 | 可选 | 加强安全管理能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Employment growth is expected to stagnate due to Korea's reduced SOC investment, but demand will be sustained by aging infrastructure maintenance and redevelopment needs.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。由于韩国减少SOC投资，就业增长预计将停滞，但基础设施老化维护和改造需求将维持需求。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,90 +39,83 @@ A professional who performs construction planning, process management, cost esti
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on small-to-medium construction companies, higher at large firms |
-| Mid-level (4-9 years) | $40,000,000~$55,000,000 | Varies by experience and certifications |
-| Senior (10 years or more) | $60,000,000~$90,000,000 | Can exceed KRW 100 million with professional engineer license |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于中小建筑公司，大公司更高 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 因经验和证书而异 |
+| 高级（10年及以上） | $60,000,000~$90,000,000 | 持有专业工程师执照可超过1亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 AI shows strengths in quantitative cost estimation and automated process simulation, but human experience and judgment are essential for handling site variables and design change negotiations. AI is used as a supplementary tool, and full replacement of the job is difficult.
 
-Starting as a junior technician, you can gain field experience, then advance to construction team leader, project manager (PM), or technical executive after obtaining a professional engineer license.
+从初级技术员开始，积累现场经验，然后晋升为施工队组长、项目经理（PM），或在获得专业工程师执照后成为技术主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive cost calculation
-- Standard material quantity calculation
-- Simple schedule preparation
+- 重复成本计算
+- 标准材料数量计算
+- 简单的日程准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D model-based simulation
-- Process optimization data analysis
-- Safety risk prediction
+- 基于3D模型的模拟
+- 流程优化数据分析
+- 安全风险预测
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site situation judgment and decision-making
-- Stakeholder coordination and negotiation
-- Handling exceptional situations
+- 现场情况判断与决策
+- 利益相关者协调与谈判
+- 处理特殊情况
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM
 - 项目管理
-- Risk analysis
-- AI-based process design
+- 风险分析
+- 基于AI的流程设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction
-- BIM (Building Information Modeling)
-- Aging infrastructure maintenance
-- Eco-friendly construction technology
+- 智慧建造
+- BIM（建筑信息模型）
+- 老化的基础设施维护
+- 环保建筑技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for skilled technical personnel based on employment contract. Requires invitation from a Korean company. |
-| Subclass E-9 (Non-professional Employment) | Usable for general construction labor but not suitable for skilled technicians. |
-| Subclass F-2 (Residence) | Convertible to points-based system. Allows long-term stay and free employment. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer outdoor and field work
-- People with strong physical stamina and patience
-- People with excellent problem-solving skills and interest in process management
+- 喜欢户外和现场工作的人
+- 体力强壮且耐心的人
+- 具有出色解决问题能力和流程管理兴趣的人
 
 **谁不适合**
-- People who prefer office environments
-- People who dislike frequent schedule changes or irregular work hours
+- 偏爱办公环境的人
+- 不喜欢频繁班次变动或不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a civil engineering technician?**
-答：Entry-level: KRW 28-35 million, mid-level: KRW 40-55 million, senior: KRW 60-90 million, with professional engineer certification: over KRW 100 million.
+**问：土木工程技术员的平均年薪是多少？**
+答：入门级：2800-3500万韩元，中级：4000-5500万韩元，高级：6000-9000万韩元，持有专业工程师认证：超过1亿韩元。
 
-**问：What visa is required for foreigners to work?**
-答：The E-7 (Specific Activities) visa is common, and conversion to F-2 is possible through the skilled worker points system. Employer invitation is mandatory.
+**问：外国人工作需要什么签证？**
+答：E-7（特定活动）签证常见，可通过技术工人积分制度转为F-2。需雇主邀请。
 
 
 ---
@@ -140,12 +133,12 @@ Starting as a junior technician, you can gain field experience, then advance to 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-engineering-construction-technician-and-estimator/KR)**

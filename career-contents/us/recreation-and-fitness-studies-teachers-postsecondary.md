@@ -54,8 +54,6 @@ University leisure and fitness studies lecturers teach leisure, fitness, exercis
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually start as assistant professor, advance to associate professor, professor, or into administrative roles like department chair, associate dean. Alternatively, transition to applied fields like sports management, fitness industry management, or community recreation planning
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually start as assistant professor, advance to associate professor, professor,
 | Subclass EB-2 (EB-2 Advanced Degree Professional) | Doctorate can apply for EB-2, requires PERM or National Interest Waiver (NIW); strong academic record can pursue NIW. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Outstanding achievements in the field (e.g., top publications, awards) can apply for O-1, with university support. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually requires a PhD in a relevant field (e.g., sports science, leisure stu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-and-fitness-studies-teachers-postsecondary/US)**

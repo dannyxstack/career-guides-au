@@ -54,8 +54,6 @@ In breweries, handle raw materials, monitor fermentation, filtration, packaging,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of brewery workers like fermentation monitoring, filtration, and packaging will be optimized by AI systems but not fully replaced; entry-level jobs are reduced due to automation, but demand for technical and management roles grows.
-
 Can advance to senior brewer, brewing supervisor, or production manager by accumulating experience and obtaining brewing qualifications (e.g., New Zealand Brewing Institute courses). Some large breweries provide internal training; transitioning to the wine or spirits industry is also common.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance to senior brewer, brewing supervisor, or production manager by accum
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance to brewing supervisor, production manager, or move into quality c
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brewery-worker/NZ)**

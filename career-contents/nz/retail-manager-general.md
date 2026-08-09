@@ -54,8 +54,6 @@ Retail managers are responsible for daily store operations, inventory management
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Promote from junior supervisor to store manager, regional manager, or operations director. Large retail chains offer training programs, allowing transition to procurement, marketing, or franchising. Starting an independent retail store is also a common path.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Promote from junior supervisor to store manager, regional manager, or operations
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa requires employer accreditation, offer and salary meet criteria, up to 3 years, can lead to residence |
 | Subclass Partnership (Partner of a New Zealander Resident Visa) | Spouse sponsorship immigration, if spouse is a New Zealand citizen or resident, can apply for residence |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a business or management qualification, such as a Bachelor
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-manager-general/NZ)**

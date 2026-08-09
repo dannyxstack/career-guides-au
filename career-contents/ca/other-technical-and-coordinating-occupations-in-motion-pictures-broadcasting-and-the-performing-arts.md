@@ -53,8 +53,6 @@ Production assistant (film, television, radio, or stage) corresponds to NOC 5222
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on coordinating roles like production assistant is mixed: some administrative tasks can be automated, but creative coordination and on-site adaptability remain core strengths.
-
 Career path: Production Assistant → Coordinator/Production Coordinator → Production Manager/Producer. Need to accumulate project experience and obtain relevant certifications (e.g., safety credentials). Can also transition to creative roles like director or screenwriter, but usually requires education and networking.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Production Assistant → Coordinator/Production Coordinator → Pro
 | Subclass PNP (Provincial Nominee Program) | e.g., BC PNP Tech Pilot, no employer sponsorship needed but the job must be on the list, enabling rapid provincial nomination |
 | Subclass AIP (Atlantic Immigration Program) | Film and TV production roles in Atlantic provinces, employer sponsorship required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Work environment varies by project, on set or in an office; involves long per
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-technical-and-coordinating-occupations-in-motion-pictures-broadcasting-and-the-performing-arts/CA)**

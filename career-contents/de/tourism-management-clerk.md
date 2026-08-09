@@ -51,8 +51,6 @@ Tourism management officers work in travel agencies, tour operators, and tourist
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 Can progress from junior travel consultant to team leader, product manager or destination specialist; also can move to online travel platforms or corporate travel management. Continuing education can broaden to travel marketing or management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior travel consultant to team leader, product manager or de
 | Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable to those who completed dual vocational training or university degree, require a German employer offer, and work must match qualifications. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based jobseeker visa allows eligible applicants to come to Germany to look for work; can switch to a work visa once employed. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. Can be promoted to team leader, product manager, or destination expert, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourism-management-clerk/DE)**

@@ -1,10 +1,8 @@
-# Labor Attorney 职业分析 · 韩国
+# 劳动律师（Labor Attorney）职业分析 · 韩国
 
-**职业代码: 02221 (KECO)**
+**职业代码：02221 (KECO)**
 
-A labor attorney provides expert consultation and representation on corporate HR/labor management, employment contracts, wage systems, and labor dispute resolution.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+劳动律师为企业提供人力资源管理、雇佣合同、工资制度及劳动争议解决方面的专家咨询与代理服务。
 
 
 ---
@@ -13,9 +11,9 @@ A labor attorney provides expert consultation and representation on corporate HR
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Take the Labor Attorney Exam | 3年 | $2,000,000~$5,000,000（Tuition and textbook costs for cram schools） |
-| Law major (optional) | 4年 | $30,000,000~$50,000,000（Tuition based on private university） |
-| Credit Bank System / Self-study | 2 年 | $500,000~$2,000,000（Minimum credit completion cost） |
+| 参加劳动律师考试 | 3年 | $2,000,000~$5,000,000（补习班的学费和教材费用） |
+| 法律专业（可选） | 4年 | $30,000,000~$50,000,000（基于私立大学的学费） |
+| 学分银行制/自学 | 2 年 | $500,000~$2,000,000（最低学分完成费用） |
 
 ---
 
@@ -23,17 +21,17 @@ A labor attorney provides expert consultation and representation on corporate HR
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Labor Attorney License | Human Resources Development Service of Korea | 必备 | Pass 1st and 2nd exams and complete practical training |
-| Social Insurance Manager | Human Resources Development Service of Korea | 可选 | 可自愿考取 |
+| 持证劳动律师执照 | 韩国人力资源开发服务局 | 必备 | 通过第一和第二次考试并完成实践培训 |
+| 社会保险经理 | 韩国人力资源开发服务局 | 可选 | 可自愿考取 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 18,000. Demand for labor attorneys is expected to grow steadily due to stricter labor laws and changing work environments, but competition with legal professionals like legal assistants and lawyers is intensifying.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 18,000。由于劳动法律日益严格和工作环境变化，对劳动律师的需求预计将稳步增长，但与法律助理和律师等法律专业人士的竞争也在加剧。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,91 +39,82 @@ A labor attorney provides expert consultation and representation on corporate HR
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $30,000,000~$40,000,000 | Based on small/medium firm |
-| Mid (4-10 years) | $50,000,000~$70,000,000 | 经验丰富后增长 |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Comparable to partner-level attorney income |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 基于中小型公司 |
+| 中级（4-10年） | $50,000,000~$70,000,000 | 经验丰富后增长 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 与合伙人级别律师收入相当 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some tasks like legal document retrieval, contract review, and payroll calculation, but the core of labor attorney work—labor relations mediation, dispute resolution, and strategic consulting—will remain a uniquely human domain.
+人工智能和自动化可以替代法律文件检索、合同审查和薪资计算等部分任务，但劳动律师工作的核心——劳动关系调解、争议解决和战略咨询——仍将是人类独有的领域。
 
-After working at a labor attorney firm for 3-5 years, one may open an independent practice or move to a law firm or corporate HR team. There are also paths to large law firms or public sector labor attorney positions.
+在劳动法律事务所工作3-5年后，可独立开业或转至律所、企业HR团队。也有机会进入大型律所或公共部门劳动律师岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Drafting standard employment contract templates
-- Calculating wages and four major insurances
-- Answering simple labor law inquiries
+- 起草标准雇佣合同模板
+- 计算工资和四大保险
+- 回答简单的劳动法咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Searching labor precedents and statutes
-- Wage system analysis report writing
-- Reviewing employment rules
+- 搜索劳动判例和法规
+- 工资体系分析报告撰写
+- 审查雇用规则
 
-**人类护城河:**
+**人类护城河：**
 
-- Mediating and arbitrating labor disputes
-- Establishing customized corporate HR strategies
-- Representing labor-management negotiations
+- 调解和仲裁劳动争议
+- 制定定制化的企业人力资源战略
+- 劳资谈判代表
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and automation tool proficiency
-- Data analysis (HR data)
-- Advanced labor law practice
+- AI与自动化工具熟练度
+- 数据分析（人力资源数据）
+- 高级劳动法实践
 
-**主要增长方向:**
+**主要增长方向：**
 
-- HR and labor consulting
-- Labor law risk management
-- Freelance and platform labor
-- Labor issues in ESG management
+- 人力资源与劳动咨询
+- 劳动法风险管理
+- 自由职业和平台劳动
+- ESG管理中的劳工问题
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Foreigners with a labor attorney qualification may engage in professional work, but market accessibility is low. |
-| Subclass F-2 (Residence) | Long-term residence under a points system, no restrictions on labor attorney activities. |
-| Subclass F-5 (Permanent Residence) | Permanent residents can freely engage in labor attorney activities. |
-| Subclass D-10 (Job Seeking) | Possible after obtaining qualification while job seeking, then transition to E-7 after gaining practical experience. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Logical and analytical people
-- People with patience for acquiring legal knowledge
-- People with excellent interpersonal skills
+- 逻辑分析型人才
+- 有耐心学习法律知识的人
+- 具有出色人际交往能力的人
 
 **谁不适合**
 - 厌恶重复性文档工作的人
-- People who cannot tolerate intense competition
+- 无法忍受激烈竞争的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for a labor attorney?**
-答：Entry-level (0-3 years) annual salary of 30-40 million KRW, with variations between small offices and large law firms.
+**问：劳动法律师的平均起薪是多少？**
+答：初级（0-3年）年薪3000-4000万韩元，小型办公室与大型律师事务所之间存在差异。
 
-**问：What visa is needed for a foreigner to work as a labor attorney in Korea?**
-答：After obtaining a certified labor attorney license, you can work with an E-7 (Specific Activities) visa, then switch to an F-2 (Residence) or F-5 (Permanent Residence) visa.
+**问：外国人在韩国担任劳动律师需要什么签证？**
+答：获得认证劳动律师执照后，可持E-7（特定活动）签证工作，随后转为F-2（居住）或F-5（永久居住）签证。
 
 
 ---
@@ -143,12 +132,12 @@ After working at a labor attorney firm for 3-5 years, one may open an independen
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/labor-attorney/KR)**

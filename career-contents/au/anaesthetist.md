@@ -54,8 +54,6 @@ An anesthetist is a medical specialist responsible for providing anesthesia, ana
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI mainly plays a supporting role in monitoring and data analysis for anesthesiologists, but core operations and complex decisions still require human control, overall risk is moderate to low.
-
 Starting from residency training, you can progress to consultant anaesthetist, specialising in sub-specialties such as cardiac, paediatric or pain management, or move into academic/management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting from residency training, you can progress to consultant anaesthetist, s
 | Subclass 482 (Skills in Demand Visa) | Temporary Skill Shortage visa; after sponsored employment, can transition to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires occupation on MLTSSL and a skills assessment. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically takes 12-14 years: 4-6 years medical undergraduate, 2 years interns
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anaesthetist/AU)**

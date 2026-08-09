@@ -54,8 +54,6 @@ Judicial administration officers handle administrative tasks in courts and judic
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Judicial administration officers' work will be significantly automated by AI, but core administrative duties and legal responsibilities make the role both replaceable and enhanced, with overall medium-low risk.
-
 Clear career development path: start as a judicial administration assistant, and through continuous training and exams, advance to judicial administration supervisor (Justizfachwirt) or higher management positions. Lateral transfers to other government administrative departments are also possible.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Clear career development path: start as a judicial administration assistant, and
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Usually requires completing 3 years of dual training, combining practical and
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/justice-administration-officer/DE)**

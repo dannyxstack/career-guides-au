@@ -53,8 +53,6 @@ Responsible for checking whether products, services, or processes comply with re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
-
 Junior inspectors can be promoted to senior inspectors, team leaders, or quality managers. You can also move to consulting or training positions, or specialize in specific industries (such as food and construction).
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior inspectors can be promoted to senior inspectors, team leaders, or quality
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, requiring a work permit, applicable to long-term employment contracts. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or above or higher salaries (annual salary ≥ 36,547 euros), who can quickly obtain residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to high-skilled non-EU citizens, requires annual salary ≥ EUR 53,600 (2023 standard), allows mobility within the EU. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Junior inspectors can be promoted to senior inspectors, quality managers, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conformity-inspector/FR)**

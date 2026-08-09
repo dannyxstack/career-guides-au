@@ -4,8 +4,6 @@
 
 A job that provides cabin management, food and beverage service, and guidance for passenger safety and convenience on ferries or cruise ships.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A job that provides cabin management, food and beverage service, and guidance fo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace repetitive tasks such as cabin cleaning and simple inquiries, but passenger safety and personalized services still require humans.
-
 After experience on large cruise ships, promotion to cabin team leader or crew manager is possible, and transition to the hotel/tourism sector is also feasible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After experience on large cruise ships, promotion to cabin team leader or crew m
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Employment visa limited to seafarer duties, with nationality restrictions |
-| Subclass E-7 (Specific Activities) | Issuable as a skilled seafarer but limited |
-| Subclass F-2 (Residence) | Employment possible with long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: With an E-9 (Non-professional Employment) visa, seafarer work is possible but
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-cabin-crew/KR)**

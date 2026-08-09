@@ -54,8 +54,6 @@ Responsible for overseeing interior design projects, visual merchandising, and s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Interior Design/Visual Merchandising Manager job has mixed prospects: AI can automate layout plans, color trend analysis, etc., but client communication, creative integration, and team coordination remain human strengths; proactively embrace AI tools to improve efficiency.
-
 Can advance from interior designer or visual merchandising specialist to supervisor, further to design director or own studio. Continuous learning of trends such as sustainable design and digital display technology is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can advance from interior designer or visual merchandising specialist to supervi
 | Subclass Chancenkarte (Opportunity Card) | Job search visa based on points system, allows coming to Germany to find work, requires proof of language skills and qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment, requires sufficient funds and qualification recognition. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can advance to design director, creative director, or start own design studio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-architecture-visual-merchandising-and-interior-design-supervisor/DE)**

@@ -51,8 +51,6 @@ This occupation covers technical support and coordination roles in film, televis
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on coordinating roles like production assistant is mixed: some administrative tasks can be automated, but creative coordination and on-site adaptability remain core strengths.
-
 Start in junior roles such as assistant or technician, then advance through experience to department head, technical director, or production coordinator. Some move into freelancing or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start in junior roles such as assistant or technician, then advance through expe
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario and British Columbia have relevant nomination programs |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, applicable to shortage occupations |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Express Entry or Provincial Nominee Program is possible, but competition is f
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-technical-and-coordinating-occupations-in-motion-pictures-broadcasting-and-the-performing-arts-52119/CA)**

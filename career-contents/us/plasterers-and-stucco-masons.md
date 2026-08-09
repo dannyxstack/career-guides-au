@@ -54,8 +54,6 @@ Responsible for applying plaster, cement, stucco, and other materials to interio
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation is significantly impacted by AI automation; indoor plastering robots have begun replacing repetitive tasks, entry-level positions are narrowing, but advanced manual skills and on-site adaptability still hold value.
-
 Entry usually starts with an apprenticeship, progressing to journeyman. Advancement to foreman, project manager, or self-employment is possible. Experienced workers may also transition to related building material sales or training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry usually starts with an apprenticeship, progressing to journeyman. Advancem
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Temporary seasonal worker visa for non-agricultural temporary work, requires employer sponsorship and limited quotas. |
 | Subclass Green Card (EB-3) (Employment-Based Immigration: Third Preference) | Employment-based, third preference, for skilled workers, professionals, or other workers. Requires labor certification and employer sponsorship; long wait times. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from apprentice to journeyman, then to foreman, project manager,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterers-and-stucco-masons/US)**

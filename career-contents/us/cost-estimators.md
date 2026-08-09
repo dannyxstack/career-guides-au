@@ -51,8 +51,6 @@ Cost estimators prepare cost estimates for product manufacturing, construction p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core duties of quantity surveyors (cost estimation and budget management) will be greatly enhanced by AI, but entry-level repetitive tasks face automation risk. Overall risk is manageable; proactive learning of AI tools is needed to stay competitive.
-
 Junior cost estimators can advance to senior estimator, project manager, or estimation department head. Obtaining certification (e.g., CCT or CCE) aids career development; experienced ones can also shift to consulting or independent contracting.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior cost estimators can advance to senior estimator, project manager, or esti
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree holders, requires PERM. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residency pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a bachelor's degree (construction management, engineering,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cost-estimators/US)**

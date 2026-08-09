@@ -53,8 +53,6 @@ Responsible for airport flight scheduling, ground services, and passenger guidan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of airport operations directors involves complex coordination, emergency decision-making, and balancing multiple interests, making it difficult for AI to fully replace; However, tasks related to data analysis and scheduling optimization will be significantly enhanced by AI, requiring proactive adoption of tool upgrades.
-
 Ground Handling Supervisor can be promoted to Operations Manager, and then to Airport Director; You can also move to management positions at airlines or the Civil Aviation Authority.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Ground Handling Supervisor can be promoted to Operations Manager, and then to Ai
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Salarié) | Work residence permit for employed work requires employer to provide CDI contract and meet salary threshold. |
-| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for senior positions, requires a salary ≥ 1.5 times SMIC, valid for 4 years |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card: requires annual salary of at least €53,000 (2024 standard); can transition to permanent residence after short term. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promotion from ground supervisor to operations manager, then to airport direc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airport-operations-manager/FR)**

@@ -4,8 +4,6 @@
 
 A professional who performs with their voice across various media such as animation, games, advertisements, and narration, playing a crucial role in the Korean popular culture industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who performs with their voice across various media such as animat
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the rapid advancement of AI voice synthesis technology, simple narrations, announcement broadcasts, and AI speaker voices are being replaced, but animation and game dubbing that require emotional acting and creative expression still need human voice actors. Thus, fields that are difficult for AI to completely replace and those exposed to replacement risk are mixed.
-
 Typically debuts through auditions after completing specialized training institutes, and with over 10 years of experience, can advance into high-income fields such as dubbing, narration, and advertising or expand into acting instruction.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically debuts through auditions after completing specialized training institu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a professional in culture and arts, but very limited; mainly domestic activities |
-| Subclass D-10 (Job seeking) | Foreign voice actors can seek work in Korea, but are limited by performance records |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: With the advancement of AI voice synthesis technology, simple narration or an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/voice-actor/KR)**

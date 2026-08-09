@@ -53,8 +53,6 @@ Responsible for protecting property and personnel safety, conducting patrols, su
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce demand for security guards; automated surveillance, patrol and access control systems replace most routine tasks, but crisis response and human intervention still require humans.
-
 Advancement from entry-level security guard to supervisor, security manager, or specialized fields (e.g., corporate security, investigations). Requires experience accumulation and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Advancement from entry-level security guard to supervisor, security manager, or 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Each province requires a security guard license, which involves completing tr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guards-and-related-security-service-occupations-64410/CA)**

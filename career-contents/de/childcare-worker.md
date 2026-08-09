@@ -55,8 +55,6 @@ Responsible for caring for and educating children aged 0-14, including daily car
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core care and emotional interaction tasks of child care and education workers are hard to replace by AI, but administrative records, activity planning, and basic teaching content will be automated, leading to reduced demand for mid-to-low-end positions, while high-end roles emphasize emotional support and personalized education design.
-
 After completing dual vocational training, you can become a team leader. With experience, you can advance to facility management or specialist consultant. Further education can lead to becoming an expert in special education or a trainer, or you can pursue an early childhood education degree to enter management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ After completing dual vocational training, you can become a team leader. With ex
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa allowing holders to seek work in Germany for one year. Suitable for those who completed early childhood education training in their home country and have pre-certification. |
 | Subclass Job Seeker Visa (Job Seeker Visa (6-month residence permit)) | Allows highly qualified professionals to stay in Germany for 6 months to seek employment, requiring proof of sufficient financial resources. Early childhood educators with equivalent qualifications may apply. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must go through Germany's qualification recognition procedure (Anerkennung), 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-worker/DE)**

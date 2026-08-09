@@ -54,8 +54,6 @@ In animal hospitals, clinics, and labs, responsible for feeding and caring for p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
-
 Usually start as an entry-level veterinary assistant, after gaining experience can advance to senior veterinary assistant, veterinary technician (requires additional education), or switch to laboratory animal care management, animal welfare officer, etc. Some become registered veterinary technicians through continuing education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as an entry-level veterinary assistant, after gaining experience c
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Only possible if employer can prove inability to find US workers and the job requires at least 2 years of experience or training, but extremely rare |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Must pass PERM labor certification and prove no qualified U.S. workers are available; actual cases are very rare. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Through accumulated experience and additional education (e.g., associate degr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-assistants-and-laboratory-animal-caretakers/US)**

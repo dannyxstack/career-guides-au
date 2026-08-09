@@ -52,8 +52,6 @@ Responsible for in-flight communication, radar, weapons, and defense system oper
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Promotion from junior crew to senior officer or captain requires accumulating flight hours and completing professional training. Can also move to aviation management or aviation safety.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promotion from junior crew to senior officer or captain requires accumulating fl
 | Subclass H-1B (H-1B Specialty Occupations) | Rarely used, usually limited to civilian aviation technical roles; not applicable for military roles |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to pilots or crew members with outstanding abilities, requiring proof of international reputation. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually not, as this occupation often requires U.S. citizenship and lacks a s
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-crew-officers/US)**

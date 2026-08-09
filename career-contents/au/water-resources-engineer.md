@@ -53,8 +53,6 @@ Water resources engineers plan, design and manage water supply, drainage, flood 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will amplify the value of water resources engineers, not replace them. With machine learning for precise hydrological forecasting, optimized water allocation, and automated design, demand for this occupation grows with climate change.
-
 Hydrological modelling software (TUFLOW, MIKE) and GIS are widely used, with digital twin water systems emerging as a new trend. Climate risk assessment capability is becoming a key competitive differentiator, and CPEng-certified engineers are prioritised for major project opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Hydrological modelling software (TUFLOW, MIKE) and GIS are widely used, with dig
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Demand remains consistently strong, with significant opportunities across sta
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-resources-engineer/AU)**

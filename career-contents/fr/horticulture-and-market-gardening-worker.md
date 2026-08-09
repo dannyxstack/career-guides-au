@@ -54,8 +54,6 @@ Engaged in the planting, maintenance, harvesting, and primary processing of hort
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on horticulture and vegetable growers is mixed: routine physical tasks like irrigation and weeding can be automated, but detailed decisions like pest and disease diagnosis and organic certification still rely on manual labor.
-
 You can be promoted from an ordinary grower to a team supervisor, greenhouse manager, or farm manager. Through training, you can transition to positions such as agricultural technical consultant, quality control, or organic farming certification.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from an ordinary grower to a team supervisor, greenhouse man
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | After obtaining a work contract from a French employer, applicants must meet the salary threshold and are suitable for long-term employees. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled professionals, such as agricultural experts, the annual salary must be approximately 2 times the SMIC, and multiple-year residency can be obtained. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires higher education (BAC+5) or equivalent experience, with a higher salary threshold and is less common in horticulture. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Minimum CAP Agricole (2 years), BTS Agricole (2 years) for management roles. 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticulture-and-market-gardening-worker/FR)**

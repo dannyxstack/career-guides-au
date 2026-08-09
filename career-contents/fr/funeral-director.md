@@ -51,8 +51,6 @@ Responsible for organizing and coordinating funeral ceremonies, including body h
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of funeral service supervisors combines high-emotional interaction with administrative processes; AI can optimize paperwork and resource management, but core rituals and empathetic communication are hard to replace.
-
 You can be promoted from junior funeral assistant to funeral consultant, department head, or run a funeral home independently. Ongoing study of regulations and etiquette is necessary, with some practitioners turning to hospice care or souvenir design.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from junior funeral assistant to funeral consultant, departm
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by a French funeral company and required to obtain a work permit (labor market audit) |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | You can apply for a talent passport, which requires proof of high skill or economic contribution, but the funeral service industry is not typical |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary must be 1.5 times the French average (about 53,000 euros), which is generally not available for this profession |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: The most feasible approach is to apply for the Salarié visa after obtaining 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-director/FR)**

@@ -53,8 +53,6 @@ Responsible for costume design, production, fitting, and maintenance for perform
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of a wardrobe manager is highly dependent on physical operations and on-site judgment; AI is difficult to fully replace, but wearable devices and automated fitting systems will reduce demand for low-skilled positions.
-
 You can be promoted from a costume assistant to chief costume designer or styling director, or transition to the film industry or open a personal studio.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from a costume assistant to chief costume designer or stylin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists and professionals in the cultural sector, requiring contract or project proof |
-| Subclass Salarié (Salaried Employee) | Work visas employed by French companies require employer sponsorship and labor permits |
-| Subclass Carte bleue UE (EU Blue Card) | It is suitable for high-skilled positions, but relatively rare for arts fields |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: From fashion assistant → costume designer→ chief costume designer/styling
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/costume-and-wardrobe-specialist-for-the-performing-arts/FR)**

@@ -53,8 +53,6 @@ Set up, operate, or monitor machines that cut or slice materials such as glass, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Cutting and slicing machine operator jobs are highly procedural; AI and automation will significantly replace core tasks, entry-level positions will shrink sharply, and transition risk is high.
-
 Start as an operator, can advance to senior operator, team leader or quality inspector; some move into equipment maintenance or production management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as an operator, can advance to senior operator, team leader or quality ins
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Limited, can advance to team leader, quality inspector, or production supervi
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cutting-and-slicing-machine-setters-operators-and-tenders/US)**

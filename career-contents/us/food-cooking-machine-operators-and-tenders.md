@@ -53,8 +53,6 @@ Operate or monitor steaming equipment used to prepare food, such as steam kettle
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Food steaming machine operators' work is highly repetitive and in controlled environments; AI and automation will quickly take over temperature control, timing, and process operations, leading to substantial reduction in positions and significantly fewer entry-level job opportunities.
-
 Typically starting as an entry-level operator, with experience can advance to senior operator or supervisor, some may move to quality control or production management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically starting as an entry-level operator, with experience can advance to se
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Can be used for temporary non-agricultural workers, but this occupation is uncommon |
 | Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Theoretically possible to apply, but employer sponsorship is difficult, usually not applicable |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Very difficult. This occupation is a low-skilled blue-collar job, typically n
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-cooking-machine-operators-and-tenders/US)**

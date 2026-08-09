@@ -51,8 +51,6 @@ A professional who collects, analyzes, and processes spatial data to build, oper
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI promotes automation of GIS data analysis and processing, but high-level judgment such as location analysis and policy formulation, as well as field surveys, require human experts, so it is used as a supplementary tool rather than complete replacement.
-
 Begins as a GIS technician or analyst; can advance to project manager or senior researcher with experience; can enter public institutions, research institutes, IT companies, and diverse fields.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Begins as a GIS technician or analyst; can advance to project manager or senior 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for GIS work requiring specialized knowledge/skills; Ministry of Justice review needed |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay via points system; common conversion from E-7 |
-| Subclass D-10 (D-10 (Job Seeking)) | Degree holders can stay for job-seeking activities; convertible |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: GIS Engineer or Surveying and Geospatial Information Engineer are useful, adv
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geographic-information-systems-specialist/KR)**

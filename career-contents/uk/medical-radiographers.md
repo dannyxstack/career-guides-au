@@ -54,8 +54,6 @@ Medical radiographers operate X-ray, ultrasound, MRI, and other imaging equipmen
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance radiographers' diagnostic and treatment planning capabilities but will not fully replace their patient communication, equipment operation, and clinical decision-making responsibilities; entry-level positions are narrowing due to automated image analysis.
-
 Junior radiographers can advance to senior radiographers, clinical specialists (e.g., ultrasound, MRI), management roles, or education/research positions. Some may become consultant radiographers with independent reporting rights.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior radiographers can advance to senior radiographers, clinical specialists (
 | Subclass Skilled Worker (Skilled Worker visa) | Applicable to radiographers employed by an Home Affairs-approved sponsor, meeting salary and skill requirements. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work or look for work in the UK after completing their studies, for up to 2 years (3 years for PhDs) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Overseas qualifications need assessment by HCPC, may require English language
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-radiographers/UK)**

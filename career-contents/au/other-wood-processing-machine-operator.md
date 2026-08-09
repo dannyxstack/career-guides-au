@@ -56,8 +56,6 @@ Operate wood processing machines other than sawing and planing, such as sanders,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
-
 Can advance from general operator to senior operator or production supervisor, or move into CNC programming or quality control through training; some start their own business after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance from general operator to senior operator or production supervisor, o
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can enter through TAFE short courses or apprenticeships, obtain a Certificate
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-wood-processing-machine-operator/AU)**

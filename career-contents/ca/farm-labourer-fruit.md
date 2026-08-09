@@ -54,8 +54,6 @@ Fruit farm workers are responsible for picking, grading, packaging fruits, as we
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fruit farm workers will face mixed effects from AI and automation: repetitive tasks like picking and sorting may be replaced, but field management and quality assessment still require human experience, and emerging technologies like smart monitoring will improve efficiency.
-
 Limited career path; can advance to farm supervisor or shift to agricultural equipment operation (NOC 84120). However, it often requires years of experience or accumulation in the main farm business before moving into farm management or agricultural technology roles.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Limited career path; can advance to farm supervisor or shift to agricultural equ
 | Subclass BC PNP PwT (BC Provincial Nominee Program: Processing and Technology (PwT) for Agri-food) | BC PNP Agricultural Worker stream requires a job offer and has lower language requirements |
 | Subclass TFWP Low-wage (Temporary Foreign Worker Program (Low-wage)) | Temporary work visa requiring Labour Market Impact Assessment (LMIA); can accumulate Canadian experience and later transfer to other immigration programs. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Usually no professional certificate required, but migration programs may requ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farm-labourer-fruit/CA)**

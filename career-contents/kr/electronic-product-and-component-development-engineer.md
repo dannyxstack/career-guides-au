@@ -50,8 +50,6 @@ R&D engineers responsible for designing, developing, and testing electronic prod
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI significantly boosts productivity in electronics product development by optimizing design, simulation, and test automation, but human roles are essential for creative conceptual design and complex system integration. Thus, AI will augment rather than replace jobs.
-
 Starting at large corporate labs or SME R&D centers, advancement to senior/principal researcher, team leader, or lab director is possible, with specialization in specific fields (e.g., semiconductor design) based on expertise.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Starting at large corporate labs or SME R&D centers, advancement to senior/princ
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to skilled foreign engineers, R&D possible in electronics |
-| Subclass D-10 (Job-seeking) | For degree holders, 6-month job-seeking allowed |
-| Subclass F-2 (Residence) | Point-based, long-term stay possible |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans, few employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: Yes, skilled R&D personnel can be hired with an E-7 visa (Specific Activities
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-product-and-component-development-engineer/KR)**

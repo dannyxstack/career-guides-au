@@ -4,8 +4,6 @@
 
 A profession that consults and sells vehicles to customers at car dealerships or agencies, handling the entire process from test drives, estimates, contracts to delivery.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that consults and sells vehicles to customers at car dealerships or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can replace parts of car sales, such as automated customer inquiries, initial consultations, and vehicle recommendations, but human salespeople remain crucial for final contracts and building customer relationships. Thus, a mixed impact is expected overall.
-
 Entry-level salesperson → Mid-level (team leader/assistant manager) → Branch manager/manager → Vice president/Head. High performers can achieve faster promotions, and many move to higher salaries through job changes.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ Entry-level salesperson → Mid-level (team leader/assistant manager) → Branch
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hiring as a professional in automotive sales, but general sales positions face visa issuance difficulties. |
-| Subclass F-2 (Residence) | Can engage in automotive sales without employment restrictions when certain conditions are met. |
-| Subclass F-4 (Overseas Koreans) | Employment activities are permitted for overseas Koreans, allowing sales positions without additional permits. |
-| Subclass H-2 (Visit Employment) | Permitted in some industries, but automotive sales is not a visa-eligible industry, making it limited. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +135,12 @@ A: Junior salesperson → Intermediate (team leader/assistant manager) → Branc
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-sales-representative/KR)**

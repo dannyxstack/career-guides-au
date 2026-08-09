@@ -51,8 +51,6 @@ Responsible for overseeing the daily operations of hotels, motels, resorts, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are reshaping the role of accommodation services managers; some administrative and scheduling tasks are being replaced, but core responsibilities like customer experience and crisis management are amplified by AI, increasing the demand for human-centered service and management skills
-
 Typically progresses from front desk or housekeeping management to assistant manager, then to manager. Experienced individuals can manage large hotels or regional operations of chain brands.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically progresses from front desk or housekeeping management to assistant man
 | Subclass PNP (Provincial Nominee Program) | Some provinces have hotel management nomination programs. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, must prove inability to hire local staff |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Eligible through Express Entry's FSW program, or provincial nomination (e.g.,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accommodation-service-managers/CA)**

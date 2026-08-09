@@ -4,8 +4,6 @@
 
 Professional who captures still images and video to produce artistic works or commercial content. Active in diverse fields such as advertising, journalism, film, and weddings.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Professional who captures still images and video to produce artistic works or co
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI-based automatic editing and generation technology (e.g., AI photo correction, automatic video editing) is becoming widespread, replacing simple tasks. Meanwhile, areas requiring human sensibility such as creative composition, direction, and client interaction are being strengthened.
-
 Start as an assistant, gain experience in a specialty (e.g., weddings, products, journalism). Self-branding via social media is key to career development.
 
 **Tasks most exposed to AI:**
@@ -94,16 +90,9 @@ Start as an assistant, gain experience in a specialty (e.g., weddings, products,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge/skills in photography/videography. Sponsorship by a contracting company required. |
-| Subclass 特定活動 (Designated Activities (Arts/Culture)) | Limited to those engaged in renowned artistic or cultural activities. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +133,12 @@ A: Generally, an 'Engineer/Specialist in Humanities/International Services' visa
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer-videographer/JP)**

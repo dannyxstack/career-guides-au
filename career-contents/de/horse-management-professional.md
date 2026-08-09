@@ -53,8 +53,6 @@ Equine management careers cover horse breeding, training, care, and equestrian f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Equine management combines traditional farming and management; AI can optimise data recording, health monitoring, etc., but core tasks like horse training, care, and event organisation rely on human intuition and emotion, making them less replaceable.
-
 Career progression can go from stable hand to horse riding instructor or stable manager. Some advance to become veterinarians or animal technicians through further study. Running an independent stable or offering equine therapy services are advancement paths.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression can go from stable hand to horse riding instructor or stable 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Difficult. Must complete German dual-system training, and the occupation is n
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horse-management-professional/DE)**

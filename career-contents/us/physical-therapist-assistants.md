@@ -54,8 +54,6 @@ Assisting physiotherapists in executing treatment procedures, including developi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Physical therapist assistant job has mixed prospects: AI can handle administrative tasks like record-keeping and scheduling, but direct patient contact and treatment execution still require humans; overall demand is stable.
-
 Most assistants are eligible to become physical therapists (requiring a doctoral degree) or move into management, education, and other roles. Continuing education can increase salary and opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Most assistants are eligible to become physical therapists (requiring a doctoral
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, with at least 2 years of training or experience; PTA usually does not meet the standard |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified US workers; PTA positions are highly competitive and approvals are difficult |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Very difficult. This occupation is generally not considered a professional ro
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-therapist-assistants/US)**

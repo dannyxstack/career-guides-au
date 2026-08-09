@@ -53,8 +53,6 @@ Manual packers are responsible for manually placing products into containers, la
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Manual packers face high risk of automation, especially routine packing, labeling, and sealing tasks. AI and robotics will significantly reduce entry-level positions, but human judgment is still needed for anomaly handling and quality control.
-
 Entry-level position, can advance to packaging supervisor or warehouse manager through experience; learning machine operation can lead to technical roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level position, can advance to packaging supervisor or warehouse manager t
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, can be promoted to packaging supervisor or warehouse manager, or transit
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hand-packer/IE)**

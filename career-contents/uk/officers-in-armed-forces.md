@@ -55,8 +55,6 @@ Armed forces officers are commissioned officers in the Royal Armed Forces and Co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI primarily amplifies officers' command decision-making and information processing capabilities, rather than replacing their core combat leadership duties, but it risks compressing entry-level administrative roles.
-
 Officer promotion path is clear: from Second Lieutenant to Captain typically takes 3-5 years, after which promotion to Major, Lieutenant Colonel, and other senior positions is possible through competitive selection. Some officers may enter staff or command roles, or transition to civilian fields.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Officer promotion path is clear: from Second Lieutenant to Captain typically tak
 | Subclass Global Talent (Global Talent visa) | Only applicable to a few highly talented individuals with exceptional skills in the military field, extremely limited pathway. |
 | Subclass Armed Forces (Armed Forces visa) | Non-UK citizens can apply to join the British Armed Forces, subject to nationality and residence requirements and visa support. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Common transition directions include security consultant, project management,
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/officers-in-armed-forces/UK)**

@@ -53,8 +53,6 @@ Bank Relationship Managers are responsible for managing personal or corporate cl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Bank relationship manager positions are in a mixed zone reshaped by AI: some tasks are compressed automatically, but personal relationships and high-level consulting capabilities are amplified. The core risk is the narrowing of entry-level positions and the replacement of repetitive tasks.
-
 Junior Client Managers can start as relationship managers or credit analysts, gain experience, and advance to senior client managers or team leaders, then advance into private banking, corporate banking, or wealth management. Some have shifted to financial advisor or management roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior Client Managers can start as relationship managers or credit analysts, ga
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applies to high-skilled talent, annual salary must reach approximately €53k (2023 standard), bank relationship managers usually meet this. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for those with higher education or those employed by French companies, with an annual salary threshold of about 36k euros. |
-| Subclass Salarié (Salaried Employee) | A work permit from the employer is required, applicable to a regular work visa, and proof that the position cannot be filled by an EU citizen. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can be promoted to Senior Client Manager, Team Leader, or move into priva
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/banking-client-manager/FR)**

@@ -52,8 +52,6 @@ New Zealand registered pharmacists dispense medications and provide medication a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 Start as a dispensing pharmacist, after 2-3 years can become clinical pharmacist or pharmacy manager. Further specialize in oncology, geriatric care, or move into pharmaceutical companies for regulatory affairs, pharmacovigilance. Licensed pharmacists can independently open pharmacies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a dispensing pharmacist, after 2-3 years can become clinical pharmacist
 | Subclass SMC (Skilled Migrant Category) | Pharmacists can apply for skilled migration under the 6-point system, accumulating points through qualifications + work experience + income; usually a master's degree gives 6 points |
 | Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, can be applied for with an approved employer offer; after 2 years of work, can lead to residency pathway. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: International pharmacy bachelor's tuition costs about 30,000-40,000 NZD per y
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/NZ)**

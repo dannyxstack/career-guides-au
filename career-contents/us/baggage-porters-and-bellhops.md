@@ -53,8 +53,6 @@ Transport and store luggage for guests at hotels, airports, train stations, etc.
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Baggage handlers and bellhops, involving physical handling and basic greeting services, are significantly impacted by AI and automation; online self-service baggage tags and smart handling equipment gradually replace manual work, narrowing entry-level positions, but high-touch service and emergency response needs retain limited human value.
-
 Can advance from entry-level bellhop to luggage supervisor or front desk team leader; some move into hotel management or concierge roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from entry-level bellhop to luggage supervisor or front desk team le
 | Subclass H-1B (H-1B Specialty Occupation) | Not suitable; this occupation typically does not meet professional occupation requirements. |
 | Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Theoretically eligible for EB-3 unskilled category, but employer sponsorship is very rare |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Extremely difficult, as this occupation typically does not require higher edu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baggage-porters-and-bellhops/US)**

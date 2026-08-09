@@ -53,8 +53,6 @@ Registered nurses provide patient care, health education, and treatment support,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Nursing faces mixed impacts from AI: automation will take over documentation and monitoring tasks, but AI enhances clinical decision-making and patient education, requiring improved technical literacy to seize opportunities.
-
 Can progress from registered nurse to clinical nurse specialist or nursing manager, or move into education, research, or policy roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from registered nurse to clinical nurse specialist or nursing manag
 | Subclass General Employment P (General Employment Permit) | Labor market testing required, but nursing occupations are usually treated as an exception |
 | Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled work, must meet salary threshold (approx. €34,000 annual) |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must pass assessment by the Nursing and Midwifery Board of Ireland, including
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-professional/IE)**

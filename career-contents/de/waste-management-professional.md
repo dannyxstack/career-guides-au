@@ -53,8 +53,6 @@ Responsible for waste collection, treatment, recycling, and disposal, ensuring e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Waste management professionals will face a double-edged effect from AI and automation: tasks like route planning and documentation are replaced, but capabilities in data analysis and smart monitoring are amplified, requiring a transition to circular economy specialists.
-
 Waste treatment operators can progress to team supervisor, facility manager, or through further education become environmental engineers.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Waste treatment operators can progress to team supervisor, facility manager, or 
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job-seeking in Germany without a pre-existing work contract. |
 | Subclass Recognition (Qualification Recognition) | Overseas professional qualifications need to be assessed by a German certification body. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from operator to team leader, facility manager, or further study 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-management-professional/DE)**

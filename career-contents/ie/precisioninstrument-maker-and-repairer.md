@@ -51,8 +51,6 @@ Precision instrument makers and repairers manufacture, calibrate, and repair pre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Precision instrument manufacturing and repair technicians face mixed AI impact: repetitive calibration and data recording tasks can be automated, but high-precision manual debugging, fault diagnosis, and customer service still require human judgment, with demand likely shifting to high-end customization and comprehensive repair.
-
 Practitioners can start as apprentices, advance to senior technician or supervisor, or move into quality control or technical sales. Further education can lead to instrumentation engineer.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Practitioners can start as apprentices, advance to senior technician or supervis
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Mainly through SOLAS-approved 4-year apprenticeship combining on-the-job trai
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precisioninstrument-maker-and-repairer/IE)**

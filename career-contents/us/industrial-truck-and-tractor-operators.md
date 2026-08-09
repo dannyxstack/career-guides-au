@@ -54,8 +54,6 @@ Operate industrial trucks or tractors to move materials in warehouses, yards, fa
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Forklift operator roles face automation risk; warehouse automation (e.g., AGVs) will replace some repetitive handling tasks, but safety supervision and complex environment operations still rely on humans.
-
 Typically start as junior operators, then with experience can advance to senior operator, team leader, or warehouse supervisor. Some can gain equipment maintenance skills through training and move to maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as junior operators, then with experience can advance to senior 
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | For non-agricultural temporary workers, but employers must prove labor shortages and seasonal needs |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | EB-3 skilled or unskilled worker green card path, requires PERM labor certification |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Moderate risk. Warehouse automation and autonomous forklift technology are de
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-truck-and-tractor-operators/US)**

@@ -52,8 +52,6 @@ Shipping professionals are responsible for vessel operations, cargo management, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Starting as a junior crew member or port dispatcher, can advance to captain, shipping manager, or port operations director; after gaining experience, move to maritime consulting or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior crew member or port dispatcher, can advance to captain, shi
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Points-based skilled migration, occupation in ANZSCO Skill Level 1-3, must achieve 6-point threshold. |
 | Subclass AEWV (Accredited Employer Work Visa) | If Green List requirements are not met, a work visa can be obtained through accredited employer sponsorship, with residence after 2 years of work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: If the occupation meets Green List Tier 1 criteria (e.g., ship captain or chi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-transport-professionals-nec/NZ)**

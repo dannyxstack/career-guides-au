@@ -50,8 +50,6 @@ Sell electrical appliances, electronic products, and home goods in retail stores
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
-
 Career progression: starting as a junior salesperson, you can advance to department head, store manager, or move into commercial areas such as procurement and product management. Pursuing further study to become a technical consultant or trainer is also a common path.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career progression: starting as a junior salesperson, you can advance to departm
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: The main pathway is to complete German dual vocational training or obtain a c
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salesperson-for-electrical-electronic-and-household-goods/DE)**

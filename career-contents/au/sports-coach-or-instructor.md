@@ -54,8 +54,6 @@ Sports coaches train and guide athletes or teams to improve competitive performa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of sports coaches (training guidance, tactical analysis) are hard to replace by AI for now, but data collection, basic teaching, and administrative tasks are increasingly automated, compressing entry-level positions.
-
 Data and sports science (GPS/performance analysis) increasingly integrated into training; specialization and certification enhance bargaining power.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Data and sports science (GPS/performance analysis) increasingly integrated into 
 | Subclass 494 (Skilled Employer Sponsored Regional) | Regional employer-sponsored (temporary to permanent residency) |
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional specified agreements can include the qualification in the list |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Low Risk. Data Analysis, Sports Science, and Wearable Devices Will Enhance Tr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-coach-or-instructor/AU)**

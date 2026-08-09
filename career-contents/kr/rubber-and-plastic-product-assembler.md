@@ -4,8 +4,6 @@
 
 A production job that processes and assembles rubber or plastic parts to create finished products, mainly producing automotive parts, household goods, and industrial machinery components.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A production job that processes and assembles rubber or plastic parts to create 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and robot automation are rapidly replacing simple assembly and inspection processes, and jobs for rubber and plastic assemblers are expected to decline by over 20% by 2030.
-
 Promotion path: assembler → skilled worker → shift leader → process manager. Obtaining a certification (e.g., Rubber and Plastic Industrial Engineer) is advantageous for transitioning to technical roles. Most gain experience at small and medium-sized enterprises.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Promotion path: assembler → skilled worker → shift leader → process manage
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Targeting non-professional foreign workers in manufacturing, employment is possible through the Employment Permit System, but rubber/plastic assembly may be included in visa quotas. |
-| Subclass F-2-99 (Residence (F-2) Point System) | Long-term stay is possible upon meeting a certain score, with manufacturing work experience recognized. |
-| Subclass H-2 (Working Visit (H-2)) | For overseas Koreans, allows employment in simple functional jobs in manufacturing. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Possible with E-9 (Non-professional Employment) visa but limited by Employmen
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-and-plastic-product-assembler/KR)**

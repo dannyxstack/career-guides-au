@@ -52,8 +52,6 @@ Construction electricians install, maintain, and repair electrical systems in bu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction electrician roles face medium-to-high automation risk: smart distribution boxes, automated wiring tools, and AI-assisted design will reduce entry-level positions, but on-site installation and commissioning still require manual work.
-
 Career progression paths include becoming an electrical foreman, technical supervisor, or project manager. Further study can lead to building automation, renewable energy systems, or electrical engineering.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression paths include becoming an electrical foreman, technical super
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers with vocational training qualifications (dual system or equivalent certification); construction electricians are on the shortage occupation list with simplified procedures. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A job-seeking visa based on a points system, allowing holders to look for work in Germany; electrical fitters score higher points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from skilled worker to foreman, technical supervisor, or project 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-electrician/DE)**

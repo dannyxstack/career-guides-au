@@ -1,8 +1,8 @@
 # 兽医（Veterinarian）职业分析 · 韩国
 
-**职业代码: 30201 (KECO)**
+**职业代码：30201 (KECO)**
 
-A medical professional who diagnoses, treats, and prevents animal diseases, working with companion animals, livestock, and wildlife.
+诊断、治疗和预防动物疾病的医疗专业人员，从事伴侣动物、家畜和野生动物工作。
 
 
 ---
@@ -11,9 +11,9 @@ A medical professional who diagnoses, treats, and prevents animal diseases, work
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College of Veterinary Medicine (Bachelor's/Professional Doctorate) | 6年 | $30,000,000~$60,000,000（Approx. 30 million KRW for national universities, up to 60 million KRW for private universities (over 6 years)） |
-| Veterinarian National Examination (License) | Within 1 year | $1,000,000~$2,000,000（Includes exam and preparation fees; license issued upon passing） |
-| Board Certification (Optional) | 3年 | $5,000,000~$10,000,000（Internship/residency at veterinary teaching hospitals） |
+| 兽医学院（学士/专业博士学位） | 6年 | $30,000,000~$60,000,000（国立大学约3000万韩元，私立大学最高6000万韩元（6年以上）） |
+| 兽医国家考试（执照） | 1年内 | $1,000,000~$2,000,000（包括考试和准备费用；通过后颁发执照） |
+| 董事会认证（可选） | 3年 | $5,000,000~$10,000,000（兽医教学医院的实习/住院医师） |
 
 ---
 
@@ -21,18 +21,18 @@ A medical professional who diagnoses, treats, and prevents animal diseases, work
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Veterinarian License | Ministry of Agriculture, Food and Rural Affairs | 必备 | Granted upon graduation from veterinary school and passing the national exam |
-| Animal Hospital Establishment Permit | 地方当局 | 必备 | Requires veterinarian license and certain experience |
-| Specialist Veterinarian Certification | Korean Veterinary Medical Association | 可选 | Certification in fields such as small animal, large animal, wildlife |
+| 兽医执照 | 农业、食品与农村事务部 | 必备 | 从兽医学院毕业并通过国家考试后授予 |
+| 动物医院设立许可证 | 地方当局 | 必备 | 需要兽医执照和一定经验 |
+| 兽医专科认证 | 韩国兽医协会 | 可选 | 小动物、大动物、野生动物等领域的认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 15,000. Demand is steadily increasing due to the growth of the pet industry and rising interest in animal welfare, but competition is tough in urban areas, while rural and public health sectors are expected to face ongoing shortages.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 15,000。由于宠物行业的增长和动物福利意识的提高，需求稳步增长，但城市地区竞争激烈，而农村和公共卫生部门预计将持续短缺。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ A medical professional who diagnoses, treats, and prevents animal diseases, work
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (1–3 years) | $40,000,000~$60,000,000 | Based on animal hospital work; government veterinarians may earn less |
-| Mid Level (5–10 years) | $60,000,000~$90,000,000 | Higher for hospital directors/specialists based on experience |
-| Senior (15+ years or founding partner) | $99,999,999 | Large revenue fluctuations when opening a veterinary hospital |
+| 入门级（1-3年） | $40,000,000~$60,000,000 | 基于动物医院工作；政府兽医可能收入较低 |
+| 中级（5-10年） | $60,000,000~$90,000,000 | 根据经验，医院主任/专家更高 |
+| 高级（15年以上或创始合伙人） | $99,999,999 | 开设兽医医院时收入波动大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI will expand its role in image reading, diagnostic assistance, and drug prescription recommendations for veterinarians, but direct clinical judgment, surgery, and client consultation remain the unique domain of human veterinarians, rather improving work efficiency.
+AI将在影像判读、诊断辅助和药物处方推荐方面扩大兽医的应用范围，但直接的临床判断、手术和客户咨询仍为人类兽医的独特领域，从而提高工作效率。
 
-After graduating from veterinary school and obtaining a license, career paths include working at an animal hospital, government service, research, then opening a practice or pursuing board certification.
+从兽医学院毕业并获得执照后，职业路径包括在动物医院工作、政府服务、研究，然后开设诊所或追求专科认证。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic image reading
-- Blood test result analysis
-- Standardization of drug prescriptions
+- 基础图像读取
+- 验血结果分析
+- 药物处方标准化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision diagnostic image reading
-- Infectious disease surveillance and epidemiological analysis
-- Customized treatment plan formulation
+- 精准诊断影像判读
+- 传染病监测与流行病学分析
+- 定制治疗方案制定
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex diagnosis based on clinical intuition and experience
-- Trust and emotional rapport with clients
-- Flexible decision-making in emergency situations
+- 基于临床直觉和经验的复杂诊断
+- 与客户的信任和情感联系
+- 紧急情况下的灵活决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Using AI diagnostic assistance tools
-- Data-based epidemiological analysis
-- Animal behavior and client communication
+- 使用AI诊断辅助工具
+- 基于数据的流行病学分析
+- 动物行为与客户沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in animal hospitals
-- Pet industry
-- Animal welfare
-- Public health quarantine
+- 动物医院数量增加
+- 宠物行业
+- 动物福利
+- 公共卫生检疫
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (Professional Foreign Workforce)) | Available for experienced veterinarians working in animal hospitals, research institutes, etc.; requires meeting degree and experience criteria |
-| Subclass F-2 (Residence (Points-based Permanent Residency)) | Long-term residence possible when meeting scores for period of stay, income, and social integration. |
-| Subclass F-4 (Overseas Korean) | Overseas Korean nationals can work at animal hospitals after obtaining a Korean veterinarian license |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person who truly loves animals and respects life
-- A person with strong scientific curiosity and problem-solving skills
-- People who can work standing for long periods and withstand emotional pressure
+- 真正热爱动物并尊重生命的人
+- 具有强烈科学好奇心和解决问题能力的人
+- 能长时间站立并承受情绪压力的人
 
 **谁不适合**
-- Someone who extremely dislikes seeing blood or wounds
-- People who struggle with regular routines and making quick decisions
+- 极其讨厌看到血液或伤口的人
+- 难以适应日常规律和快速决策的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for veterinarians?**
-答：Entry-level veterinarians earn 40-60 million KRW, mid-level 60-90 million KRW, and practice owners 100-200 million KRW or more.
+**问：兽医的薪资范围是多少？**
+答：初级兽医年收入4000-6000万韩元，中级兽医6000-9000万韩元，诊所所有者1-2亿韩元或以上。
 
-**问：What visa do foreigners need to work as a veterinarian in Korea?**
-答：Employment is possible with an E-7 (Specific Activities) visa, and you must have a veterinary license and degree. For long-term residence, F-2 (Residence) or F-5 (Permanent Residence) may be considered.
+**问：外国人在韩国担任兽医需要什么签证？**
+答：E-7（特定活动）签证可就业，需持有兽医执照和学位。长期居留可考虑F-2（居住）或F-5（永久居留）。
 
-**问：Do I have to graduate from a veterinary college to become a veterinarian?**
-答：Yes, you must graduate from a veterinary college (6-year program) and pass the national exam to obtain a veterinary license.
+**问：成为兽医必须毕业于兽医学院吗？**
+答：是，必须从兽医学院毕业（6年制）并通过国家考试获得兽医执照。
 
 
 ---
@@ -143,12 +136,12 @@ After graduating from veterinary school and obtaining a license, career paths in
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/veterinarian/KR)**

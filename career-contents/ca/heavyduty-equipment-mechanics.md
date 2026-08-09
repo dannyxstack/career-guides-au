@@ -52,8 +52,6 @@ Heavy equipment mechanics diagnose, repair, and maintain diesel-powered heavy eq
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Heavy equipment mechanics face challenges from automated diagnostic tools, but AI also enhances predictive maintenance and remote repair capabilities; core manual operations and on-site decisions are hard to replace, so overall job demand remains stable.
-
 Practitioners can progress from junior technician to senior technician, team supervisor, or equipment manager. Obtaining Red Seal certification enhances qualifications and facilitates interprovincial mobility. Some senior technicians may move into equipment sales or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can progress from junior technician to senior technician, team sup
 | Subclass PNP (Provincial Nominee Program) | Provinces like Alberta, British Columbia, Ontario have trade-specific PNP streams, usually requiring employer sponsorship or occupation-specific draws. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for tradespersons requires a job offer from an employer in an Atlantic province. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Although not mandatory, obtaining a Red Seal endorsement significantly improv
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavyduty-equipment-mechanics/CA)**

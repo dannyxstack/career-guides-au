@@ -53,8 +53,6 @@ Power line workers build, maintain, and repair overhead and underground transmis
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Power line workers face mixed prospects with AI and automation: inspection and scheduling tasks are being automated, but complex high-altitude work and fault repairs still rely on humans; AI tools can enhance preventive maintenance and training, but the industry's high safety thresholds and physical field characteristics create a natural moat.
-
 Entry-level line workers can advance to line supervisor or project manager, or shift to power dispatch by obtaining transmission system operator certification. Some experienced workers become subcontractors for contractors, earning well.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level line workers can advance to line supervisor or project manager, or s
 | Subclass PNP (Provincial Nominee Program) | E.g., Ontario Skilled Trades stream, BC PNP Skilled Worker - Skilled Trades stream, Alberta Opportunity Stream, offering additional points |
 | Subclass AIP (Atlantic Immigration Program) | Applicable to those with a job offer in Atlantic provinces (Nova Scotia, New Brunswick, Prince Edward Island, Newfoundland) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Overseas experience requires ECA credential assessment (e.g., IQAS or WES), a
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-power-line-and-cable-workers/CA)**

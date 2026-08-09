@@ -54,8 +54,6 @@ Capture, store, retrieve, and transcribe pretrial and court proceedings or other
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of court stenographers are highly threatened by AI, but legal processes still require human verification and real-time adaptation, making the outlook mixed.
-
 Start as a junior recorder or court reporter, gain experience, and can become a freelancer, real-time captioner, or advance to chief reporter. Some transition to broadcast captioning or legal transcription management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a junior recorder or court reporter, gain experience, and can become a 
 | Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate extraordinary ability, such as national certification or awards, rarely applicable. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | PERM labor certification required; employer must prove no available domestic workers, difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Some risk, but court and broadcast environments demand high accuracy, so manu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-reporters-and-simultaneous-captioners/US)**

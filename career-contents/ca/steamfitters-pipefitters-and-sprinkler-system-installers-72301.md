@@ -52,8 +52,6 @@ Steamfitters, pipefitters, and sprinkler system installers install, maintain, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-On-site installation and compliance inspection for fire sprinkler fitters are difficult to replace by AI, but design planning, documentation, and preliminary testing tasks may be enhanced or partially replaced by automation tools, making it a mixed bag.
-
 Start as an apprentice, gain experience and obtain Red Seal certification to advance to foreman, project manager, or self-employed contractor. Some senior technicians become trainers or inspectors.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an apprentice, gain experience and obtain Red Seal certification to adv
 | Subclass PNP (Provincial Nominee Program) | Multiple provinces list plumbers as a shortage occupation, facilitating provincial nomination for immigration. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can transition to permanent residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Although not mandatory in all provinces, Red Seal certification enables inter
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steamfitters-pipefitters-and-sprinkler-system-installers-72301/CA)**

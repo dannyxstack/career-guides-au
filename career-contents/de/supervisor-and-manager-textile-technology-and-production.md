@@ -54,8 +54,6 @@ Responsible for the daily management of textile production workshops, including 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The middle management responsibilities of textile production supervisors are difficult to fully automate, but data monitoring, reporting, and scheduling tasks will be replaced by AI. Individuals will also need to master data analysis and digital tools to improve efficiency.
-
 Typically starting as skilled workers, progressing to team leaders or department supervisors after gaining experience, and then advancing to production managers or plant managers. Some may enter senior management by pursuing engineering or management degrees.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically starting as skilled workers, progressing to team leaders or department
 | Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable to dual system training or technician certification, requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entering the country to look for a job without a prior job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to production manager or plant manager, or transition to procurem
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-textile-technology-and-production/DE)**

@@ -4,8 +4,6 @@
 
 Public works technical engineers are responsible for the design, construction, supervision, and maintenance of infrastructure projects such as highways, bridges, and water conservancies, and are the backbone of Spain's civil engineering field.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Public works technical engineers are responsible for the design, construction, s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Career development path: junior engineer→ project supervisor→ technical manager→ public works director. You can advance to senior engineer or transfer to management at large contractors through further study (such as a master's in civil engineering). It can also shift toward green infrastructure or digital modeling (BIM).
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career development path: junior engineer→ project supervisor→ technical mana
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated engineers with salaries reaching the threshold (approximately €33,908 in 2024), employer contracts are required. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, relevant academic qualifications and at least one year of work experience are required, with a relatively low salary threshold. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residency requires employer sponsorship and labor market testing, with many restrictions for non-EU citizens. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes. Promotion to project manager, technical director, or independent consult
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-works-technical-engineer/ES)**

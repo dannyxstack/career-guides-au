@@ -52,8 +52,6 @@ Painters are responsible for applying paint, spraying, and wallpapering surfaces
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters face mixed impacts from AI and automation: repetitive tasks like spraying and surface finishing are easily automated, but skills in color matching, surface preparation, and client communication are in greater demand; entry-level competition intensifies.
-
 Usually starts with an apprenticeship, can advance to foreman, project manager, or self-employed contractor after gaining experience; some senior technicians may switch to decoration consultant or trainer.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts with an apprenticeship, can advance to foreman, project manager, 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only applies to high-skilled positions on the shortage occupation list; painters are typically not included, but senior project managers may qualify. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled non-EU workers, with high salary requirements (around €60,000+); painters are generally not eligible. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must complete a SOLAS-accredited 4-year apprenticeship and obtain a national 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-related-worker/IE)**

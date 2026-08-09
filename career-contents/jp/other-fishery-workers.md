@@ -4,8 +4,6 @@
 
 Engaged in fishing but performing tasks not classified under specific subcategories such as fishing, aquaculture, or net making.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Engaged in fishing but performing tasks not classified under specific subcategor
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation (fish finders, auto-steering, etc.) improve some tasks, but many tasks like gear handling and fish processing remain labor-dependent, making full substitution difficult.
-
 The path to becoming a skilled fisherman is long, taking over 10 years to independence. Experience at fisheries cooperatives or companies, plus boat licenses and fishing rights, are needed.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ The path to becoming a skilled fisherman is long, taking over 10 years to indepe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fishery)) | Eligible to work in fishery sector; max stay 5 years |
-| Subclass 技能実習 (Technical Intern Training (Fishery)) | Skills transfer; max 5 years |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Fishery engineers, etc., advanced knowledge required |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: A boat license, fishing rights acquisition, and fishing boat purchase funds a
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-fishery-workers/JP)**

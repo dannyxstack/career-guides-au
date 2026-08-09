@@ -51,8 +51,6 @@ Environmental Research Scientists use scientific methods to study environmental 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Junior researchers can advance to senior scientist or team leader by accumulating project experience, with some transitioning to policy development or environmental consulting. A doctoral degree and published papers help in moving into management or academia.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior researchers can advance to senior scientist or team leader by accumulatin
 | Subclass SMC (Skilled Migrant Category) | Can apply through the 6-point system, with points for education, work experience, and New Zealand work. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a work visa transition, requires an accredited employer offer, with possibility to transfer to residence later. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree or higher in environmental science or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-research-scientist/NZ)**

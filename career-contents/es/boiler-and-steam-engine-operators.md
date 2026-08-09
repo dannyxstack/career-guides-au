@@ -4,8 +4,6 @@
 
 Responsible for operating, monitoring, and maintaining boilers and steam engines to ensure the safe and efficient operation of industrial or heating systems, commonly found in manufacturing, power plants, and large facilities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating, monitoring, and maintaining boilers and steam engines
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Boiler and steam engine operators face moderate risks from AI automation: some monitoring and recording tasks will be taken over by AI, but complex fault handling and safety supervision still require humans, resulting in mixed outcomes.
-
 Starting as a junior operator, you can be promoted to senior operator or supervisor through experience, or move into energy management or industrial maintenance, requiring continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -100,15 +96,9 @@ Starting as a junior operator, you can be promoted to senior operator or supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and proof that the position is difficult to recruit in the EU, with low pass rates for high school and below occupations. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Typically, FP Grado Superior is required in mechanical or energy engineering,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boiler-and-steam-engine-operators/ES)**

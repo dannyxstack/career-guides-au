@@ -51,8 +51,6 @@ Responsible for assembling, manufacturing, and inspecting industrial electric mo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
-
 Can advance from junior assembler to senior inspector or supervisor, or transition to electrical engineering technician or maintenance technician through additional training. Some experienced individuals may start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior assembler to senior inspector or supervisor, or transiti
 | Subclass PNP (Provincial Nominee Program) | Some provinces have skilled trade nomination programs that can add points. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for working before immigration. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to inspection supervisor, production manager, or further study to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-fabricators-and-inspectors-industrial-electrical-motors-and-transformers/CA)**

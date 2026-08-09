@@ -54,8 +54,6 @@ Construction demolition workers are responsible for safely demolishing buildings
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Many repetitive, high-risk tasks of building demolition workers will be replaced by automated machinery and AI planning systems, but on-site decision-making and complex structure assessment still require humans.
-
 Career progression from general worker to blasting expert or foreman, then to project manager. Through continuing education, can transition into construction recycling or environmental management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression from general worker to blasting expert or foreman, then to pr
 | Subclass Chancenkarte (Opportunity Card) | Job search residence permit based on a points system, allowing job seeking in Germany; requires qualification assessment. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires proof of financial capacity and recognition of professional qualification. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress to roles such as blasting expert, foreman or project manager, or
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/demolition-worker/DE)**

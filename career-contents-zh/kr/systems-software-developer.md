@@ -1,8 +1,8 @@
-# Systems Software Developer 职业分析 · 韩国
+# 系统软件开发员（Systems Software Developer）职业分析 · 韩国
 
-**职业代码: 13311 (KECO)**
+**职业代码：13311 (KECO)**
 
-A professional who designs, develops, and maintains system software such as operating systems, compilers, and networks, handling the interface between hardware and application software.
+设计、开发和维护系统软件（如操作系统、编译器和网络）的专业人员，处理硬件与应用软件之间的接口。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who designs, develops, and maintains system software such as oper
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year bachelor's) | 4年 | $20,000,000~$50,000,000（Based on national universities） |
-| College (2-3 year) | 2 年 | $10,000,000~$20,000,000（Affordable tuition） |
+| 大学（4年制学士学位） | 4年 | $20,000,000~$50,000,000（以国立大学为基础） |
+| 学院（2-3年） | 2 年 | $10,000,000~$20,000,000（可负担的学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who designs, develops, and maintains system software such as oper
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 必备 | Advantageous for employment |
-| Linux Master | Korea IT Promotion Agency | 可选 | Specialization in systems |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 必备 | 有利于就业 |
+| Linux大师 | 韩国IT振兴院 | 可选 | 系统专业化 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. With increasing demand for infrastructure such as cloud, IoT, and autonomous driving, demand for systems software developers is expected to grow steadily. Expertise in security and real-time systems will become even more important.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。随着云计算、物联网和自动驾驶等基础设施需求的增长，系统软件开发人员的需求预计将稳步增长。安全和实时系统方面的专业知识将变得更加重要。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,7 +38,7 @@ A professional who designs, develops, and maintains system software such as oper
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$45,000,000 | Based on large corporations |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 基于大企业 |
 | 中级（4-7年） | $45,000,000~$70,000,000 | — |
 | 高级（8年+） | $70,000,000~$99,999,999 | 团队主管级别 |
 
@@ -46,81 +46,75 @@ A professional who designs, develops, and maintains system software such as oper
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates some tasks like code generation and debugging, but high-level decisions such as system architecture design and optimization still rely on humans. AI is used as a productivity tool and will not completely replace the core tasks of system software developers.
+AI自动化部分任务如代码生成和调试，但系统架构设计和优化等高层决策仍依赖人类。AI作为生产力工具使用，不会完全取代系统软件开发者的核心任务。
 
-Typically, new graduates join as junior developers and advance to senior developer, team leader, or architect. After gaining experience at large corporations or research institutes, some may found startups or become freelancers.
+通常，应届毕业生作为初级开发人员入职，晋升至高级开发人员、团队负责人或架构师。在大型企业或研究所积累经验后，有些人可能创办初创公司或成为自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic code generation
-- Unit test writing
-- Documentation
+- 基础代码生成
+- 单元测试编写
+- 文件编制
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- System performance analysis
-- Bug pattern recognition
-- Code review
+- 系统性能分析
+- 错误模式识别
+- 代码审查
 
-**人类护城河:**
+**人类护城河：**
 
-- System architecture design
-- Real-time system optimization
-- Security vulnerability analysis
+- 系统架构设计
+- 实时系统优化
+- 安全漏洞分析
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ML proficiency
-- Cloud-native
-- Security engineering
-- Distributed systems
+- AI/ML熟练度
+- 云原生
+- 安全工程
+- 分布式系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud Native
-- Embedded Systems
-- Information Security
-- Autonomous Driving Software
+- 云原生
+- 嵌入式系统
+- 信息安全
+- 自动驾驶软件
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for software development experts with 5+ years of experience or relevant degree |
-| Subclass D-10 (Job-seeking) | Possible after graduating from a domestic university while job-seeking; later convert to E-7 |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical thinking and problem-solving skills
-- People with a deep curiosity about computer systems
-- People who enjoy continuous learning
+- 逻辑思维和解决问题能力强的人
+- 对计算机系统有深厚好奇心的人
+- 喜欢持续学习的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who prefer working alone over teamwork
+- 偏好简单重复任务的人
+- 偏好独自工作而非团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For large companies, it is around 30-45 million KRW, and for SMEs, around 25-35 million KRW.
+**问：起薪是多少？**
+答：大型企业约3000-4500万韩元，中小企业约2500-3500万韩元。
 
-**问：Can foreigners get a job?**
-答：It is possible with an E-7 visa, requiring a related degree or more than 5 years of experience.
+**问：外国人能找到工作吗？**
+答：E-7签证可行，需要相关学位或5年以上经验。
 
 
 ---
@@ -138,12 +132,12 @@ Typically, new graduates join as junior developers and advance to senior develop
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/systems-software-developer/KR)**

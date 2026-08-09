@@ -51,8 +51,6 @@ Business Sales Supervisors provide professional advice to existing and potential
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Start as a junior sales consultant or account manager, accumulate industry knowledge and client resources, then advance to senior sales supervisor or regional manager, and further to sales director or business development manager; some transition to product management or consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as a junior sales consultant or account manager, accumulate industry knowl
 | Subclass Skilled Worker (Skilled Worker visa) | For skilled workers with employer sponsorship, the occupation must be on the eligible occupations list, meeting the salary threshold (usually £26,200/year or going rate). |
 | Subclass Graduate (Graduate visa) | UK graduates can apply, allowing 2 years of work in the UK (3 years for PhD), then can switch to a Skilled Worker visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Growth driven by digital sales and B2B demand; experienced sales managers hav
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-sales-executives/UK)**

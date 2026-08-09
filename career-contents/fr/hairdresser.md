@@ -4,8 +4,6 @@
 
 Hairdressers are responsible for providing customers with hair washing and cutting, styling, coloring, perming, and other hairdressing services. They usually work in barbershops or hair salons and require strong handicraft skills and customer communication skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Hairdressers are responsible for providing customers with hair washing and cutti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
-
 Junior barbers can be promoted to senior barbers, salon managers, or open their own shops. You can also choose to specialize in niche areas such as hair dyeing and hair extension, or become technical consultants or trainers for hair product companies.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Junior barbers can be promoted to senior barbers, salon managers, or open their 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires a job offer from a French employer, and the position must pass the labour market test (unless in a shortage occupation). Hair and beauty are not shortage occupations, making sponsorship difficult. |
-| Subclass Passeport Talent (Talent Passport) | Only for highly skilled talents or entrepreneurs; ordinary barbers are not eligible. |
-| Subclass Recherche emploi (Job Search Permit) | Can apply after completing studies in France, seeking hairdressing-related work. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: You can be promoted from employee to senior technician, salon manager, or aft
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/FR)**

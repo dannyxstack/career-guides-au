@@ -53,8 +53,6 @@ Dance teachers teach different styles of dance, such as ballet, contemporary, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Teaching and creative work for dance teachers is relatively safe, but AI tools can assist with choreography, music selection, and virtual teaching, replacing some repetitive tasks. Entry-level positions have narrowed slightly due to competition from online courses and AI tools, but demand remains stable for high-emotion in-person classes.
-
 Can progress from dance teacher to senior teacher, dance school director, or independent studio owner. Through continuing education, can branch into cross-disciplinary areas such as dance therapy or choreography.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from dance teacher to senior teacher, dance school director, or ind
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can apply via the opportunity card (Chancenkarte) or employer-sponsored skill
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dance-teacher/DE)**

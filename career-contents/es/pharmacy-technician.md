@@ -4,8 +4,6 @@
 
 Under the guidance of pharmacists, pharmacy technicians are responsible for drug dispensing, inventory management, and customer consultation, serving as important auxiliary personnel in community and hospital pharmacies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Under the guidance of pharmacists, pharmacy technicians are responsible for drug
 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-AI will partially replace pharmacy technicians in order processing, inventory management, and consultation responses, but regulatory compliance, complex dispensing, and doctor-patient communication still require humans, presenting both risks and opportunities in the job.
 
 You can advance to pharmacist status through further study with FP Grado Superior or a university degree, or move into hospital pharmacy, pharmaceutical industry QA, or drug procurement positions. Gaining experience can lead to promotion to pharmacy manager or technical supervisor.
 
@@ -100,16 +96,9 @@ You can advance to pharmacist status through further study with FP Grado Superio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | Spanish employer sponsorship required, job contract, labor market test (preferably EU citizens), suitable for third-country applicants who have obtained FP diploma. |
-| Subclass Homologación (Qualification Recognition) | If your qualification is from outside the EU, you need to obtain a homologación (credential evaluation) to gain FP equivalent status, a process taking 6-12 months. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You need to complete Spain's FP Grado Medio or complete academic certificatio
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-technician/ES)**

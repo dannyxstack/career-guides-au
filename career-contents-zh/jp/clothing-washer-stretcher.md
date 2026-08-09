@@ -1,10 +1,8 @@
-# Clothing Washer/Stretcher 职业分析 · 日本
+# 服装清洗/拉伸工（Clothing Washer/Stretcher）职业分析 · 日本
 
-**职业代码: 386 (JSCO)**
+**职业代码：386 (JSCO)**
 
-A specialist who washes, starches, and stretches kimonos and Japanese clothing to shape them. Requires traditional techniques and craftsmanship.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专门清洗、浆洗和拉伸和服及日式服装以定型。需要传统技术和工艺。
 
 
 ---
@@ -13,9 +11,9 @@ A specialist who washes, starches, and stretches kimonos and Japanese clothing t
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Kimono Sewing & Washing/Stretching Department) | 2 年 | $1,000,000~$2,000,000（Varies by school） |
-| Vocational Training School | 6个月-1年 | $0~$100,000（Free for public vocational training） |
-| Apprenticeship System | 3~5年 | $0~$0（Training while receiving wages） |
+| 职业学校（和服缝制与洗涤/拉伸专业） | 2 年 | $1,000,000~$2,000,000（因学校而异） |
+| 职业培训学校 | 6个月-1年 | $0~$100,000（公共职业培训免费） |
+| 学徒制 | 3~5年 | $0~$0（带薪培训） |
 
 ---
 
@@ -23,18 +21,18 @@ A specialist who washes, starches, and stretches kimonos and Japanese clothing t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dry-Cleaning Specialist | Ministry of Health, Labour and Welfare | 必备 | National qualification; related to washing/stretching work |
-| Kimono Washing and Stretching Skills Cert. | Ministry of Health, Labour and Welfare | 可选 | Eligible after practical experience |
-| Kimono Dressing Skills Test | National Kimono Dressing Skills Testing Association | 可选 | Optional but enhances customer trust |
+| 干洗专家 | 厚生劳动省 | 必备 | 国家资格；与洗涤/拉伸工作相关 |
+| 和服清洗与拉伸技能证书 | 厚生劳动省 | 可选 | 具备实践经验后符合条件 |
+| 和服穿着技能测试 | 全国和服着装技能检测协会 | 可选 | 可选但增强客户信任 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 3,500. Employment numbers are declining due to reduced kimono demand, but steady demand is expected in the luxury and recycling markets.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 3,500。由于对和服需求减少，就业人数正在下降，但在奢侈品和回收市场预计需求稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,95 +40,87 @@ A specialist who washes, starches, and stretches kimonos and Japanese clothing t
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,500,000~$3,500,000 | Low during apprenticeship |
-| Intermediate Level (4–10 years) | $3,500,000~$5,000,000 | Increases with skill improvement |
-| Advanced (10+ years) | $4,500,000~$7,000,000 | Self-employment can lead to even higher income |
+| 入门级（0–3年） | $2,500,000~$3,500,000 | 学徒期间较低 |
+| 中级（4-10 年） | $3,500,000~$5,000,000 | 随技能提高而增长 |
+| 高级（10年以上） | $4,500,000~$7,000,000 | 自主创业可能带来更高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are unlikely to directly replace refitting work, but they can't stop declining demand. However, AI can improve efficiency in kimono diagnosis and inventory management.
+AI和自动化不太可能直接取代改装工作，但无法阻止需求下降。不过，AI可以提高和服诊断和库存管理的效率。
 
-Apprenticeship-centered with a seniority-based career path. Independent business is possible, but successor shortages are a challenge.
+以学徒制为核心，基于资历的职业路径。可独立经营，但接班人短缺是挑战。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting and finishing tasks
-- Inventory management
-- Customer data management
+- 简单切割和精加工任务
+- 库存管理
+- 客户数据管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based kimono deterioration diagnosis
-- Operating automatic glue applicators
-- Online booking and customer management systems
+- 基于AI的和服劣化诊断
+- 操作自动胶水涂抹器
+- 在线预订和客户管理系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Delicate hand glue application
-- Techniques that preserve kimono texture
+- 精细手工涂胶
+- 保留和服质感的技艺
 - Customer trust
-- Passing down traditional techniques
+- 传承传统技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Knowledge of materials like fur and silk
-- Dyeing techniques
-- Management ability
-- Kimono styling proposal skills
+- 了解皮毛和丝绸等材料的知识
+- 染色技术
+- 管理能力
+- 和服造型提案技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Kimono recycling
-- High-end item maintenance
-- Preserving traditional crafts
-- Tourism demand
+- 和服回收
+- 高端物品维护
+- 保护传统工艺
+- 旅游需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply for traditional skills instruction or management, but not common |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not allowed as not in eligible industries (textiles/clothing) |
-| Subclass 技能 (Skilled Worker Visa) | May apply in traditional crafts, but few precedents for futon washing alone |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity and attention to detail
-- People interested in traditional skills and willing to learn patiently
-- People aiming to be independent craftsmen
+- 灵巧且注重细节的人
+- 对传统技能感兴趣并愿意耐心学习的人
+- 旨在成为独立工匠的人
 
 **谁不适合**
-- People who prioritize short-term income
-- People who prefer mass production and efficiency
+- 重视短期收入的人
+- 喜欢大规模生产和效率的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for a kimono refitter?**
-答：For beginners, about 2.5 to 3.5 million yen; intermediate: 3.5 to 5 million; advanced: 4.5 to 7 million. Self-employment can yield higher income, but the market is shrinking.
+**问：和服改裁师的平均年收入是多少？**
+答：初学者约250-350万日元；中级：350-500万；高级：450-700万。自主创业收入可能更高，但市场正在萎缩。
 
-**问：What visa does a foreigner need to work as a kimono refitter in Japan?**
-答：The standard 'Engineer/Specialist in Humanities/International Services' visa is difficult. The 'Technical Skills' visa for traditional crafts may apply, but few have it, and advanced skills are required. It's not covered by Specified Skilled Worker.
+**问：外国人在日本从事和服改制工作需要什么签证？**
+答：标准的'工程师/人文/国际服务'签证难以获得。传统工艺的'技术技能'签证可能适用，但持有者极少，且要求高级技能。不在特定技能工人范围内。
 
-**问：What are the routes to becoming a kimono refitter?**
-答：Study at vocational school or training center, or apprentice under a master. Gain practical experience and obtain a cleaning technician certification.
+**问：成为和服改衣师有哪些途径？**
+答：在职业学校或培训中心学习，或拜师学徒。积累实践经验并获得清洁技师认证。
 
 
 ---
@@ -148,12 +138,12 @@ Apprenticeship-centered with a seniority-based career path. Independent business
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/clothing-washer-stretcher/JP)**

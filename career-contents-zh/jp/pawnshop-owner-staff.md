@@ -1,10 +1,8 @@
-# Pawnshop Owner/Staff 职业分析 · 日本
+# 当铺老板/员工（Pawnshop Owner/Staff）职业分析 · 日本
 
-**职业代码: 334 (JSCO)**
+**职业代码：334 (JSCO)**
 
-Pawnshops lend money against items deposited as collateral, and sell items if loans are not repaid. Requires appraisal skills and customer service.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+当铺以抵押物品放贷，若贷款未偿还则出售物品。需要评估技能和客户服务。
 
 
 ---
@@ -13,8 +11,8 @@ Pawnshops lend money against items deposited as collateral, and sell items if lo
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $100,000~$300,000（Public high school tuition） |
-| Vocational School (e.g., Gem Appraisal) | 2 年 | $1,000,000~$2,000,000（Private vocational school tuition） |
+| 高中 | 3年 | $100,000~$300,000（公立高中学费） |
+| 职业学校（如宝石鉴定） | 2 年 | $1,000,000~$2,000,000（私立职业学校学费） |
 
 ---
 
@@ -22,18 +20,18 @@ Pawnshops lend money against items deposited as collateral, and sell items if lo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Secondhand Dealer Permit | Prefectural Public Safety Commission | 必备 | Required for business |
-| Gem Appraiser | Japan Gem Appraisal Association | 可选 | Optional but advantageous |
-| Brand Item Appraiser | Japan Brand Item Appraisal Association | 可选 | Optional but advantageous |
+| 二手经销商许可证 | 县公安委员会 | 必备 | 业务所需 |
+| 宝石鉴定师 | 日本宝石鉴定协会 | 可选 | 非必需但有利 |
+| 品牌物品鉴定师 | 日本品牌物品鉴定协会 | 可选 | 非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. Demand is stable due to growth in the reuse market, but the number of stores is slightly declining. Demand is high for staff with appraiser qualifications.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。由于再利用市场的增长，需求稳定，但门店数量略有下降。对持有鉴定师资格的员工需求较高。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ Pawnshops lend money against items deposited as collateral, and sell items if lo
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,500,000~$3,500,000 | Annual income as staff |
-| Mid Level (4–9 years) | $3,500,000~$5,000,000 | Supervisor class |
-| Senior Level (10+ years) | $5,000,000~$8,000,000 | Store Manager/Owner |
+| 入门级（0–3年） | $2,500,000~$3,500,000 | 职员年收入 |
+| 中级（4-9年） | $3,500,000~$5,000,000 | 主管级别 |
+| 高级（10年以上） | $5,000,000~$8,000,000 | 店铺经理/店主 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI-assisted appraisal tools are being introduced, human sensitivity is still essential for building customer trust and making detailed condition judgments, so complete replacement is difficult. AI is expected to improve operational efficiency.
+虽然AI辅助评估工具正在引入，但人类感知对于建立客户信任和进行详细状况判断仍然必要，因此完全替代较难。AI有望提升运营效率。
 
-First, gain experience as a staff member and learn appraisal techniques. Then there is a career path to store manager or independent owner. Qualifications in gem or brand item appraisal are advantageous.
+首先，作为员工积累经验并学习鉴定技术。之后有职业路径成为店长或独立经营者。宝石或品牌物品鉴定资格有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple appraisal tasks
-- Automation of inventory management
-- Data entry tasks
+- 简单评估任务
+- 库存管理自动化
+- 数据录入任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improvement of appraisal accuracy
-- Rapid acquisition of market information
-- Efficiency in customer management
+- 提高评估准确性
+- 快速获取市场信息
+- 客户管理效率
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person customer service skills
-- Appraisal know-how
-- Experience in authenticating luxury brands and jewelry
+- 面对面客户服务技能
+- 评估专业知识
+- 奢侈品和珠宝鉴定经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Appraisal techniques
+- 评估技巧
 - 客户服务技巧
-- Market knowledge
-- Utilization of AI tools
+- 市场知识
+- 人工智能工具的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of the reuse market
-- Demand for appraisal skills
-- Integration with EC sales
-- Demand for inheritance and estate sorting
+- 二手市场扩展
+- 评估技能需求
+- 与电商销售整合
+- 遗产和遗产整理需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires appraisal skills and management knowledge, along with certain work experience or academic background |
-| Subclass 特定活動 (Designated Activities (e.g., Working Holiday)) | Short-term work possible, but regular employment difficult |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in item appraisal
-- People who enjoy communication with others
-- People comfortable with customer service
+- 对物品鉴定感兴趣的人
+- 喜欢与他人沟通的人
+- 适合从事客户服务的人
 
 **谁不适合**
-- People who prefer routine work
-- People not confident in physical strength
+- 偏好例行工作的人
+- 对体力不自信的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary at a pawnshop?**
-答：Entry-level: 2.5–3.5M yen, mid-level: 3.5–5M yen, senior: 5–8M yen. Shop owners can earn more.
+**问：当铺的年薪是多少？**
+答：入门级：250-350万日元，中级：350-500万日元，高级：500-800万日元。店主收入更高。
 
-**问：What visa is needed for foreigners to work at a pawnshop?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. Appraisal and management skills are required, and Specified Skilled Worker does not apply.
+**问：外国人在当铺工作需要什么签证？**
+答：技术/人文知识/国际业务签证较为常见。需要评估和管理技能，特定技能签证不适用。
 
-**问：How can I advance my career at a pawnshop?**
-答：Generally, one obtains certifications such as jewelry or brand item appraiser, builds a track record, and aims to become a store manager or start their own business.
+**问：如何在当铺发展我的职业生涯？**
+答：通常，获得珠宝或品牌物品鉴定师等认证，积累业绩，并旨在成为店长或创业。
 
 
 ---
@@ -145,12 +136,12 @@ First, gain experience as a staff member and learn appraisal techniques. Then th
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pawnshop-owner-staff/JP)**

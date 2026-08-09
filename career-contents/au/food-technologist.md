@@ -55,8 +55,6 @@ Food technologists develop new food products, improve production processes, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
-
 Plant-based alternative proteins (soy/pea protein) and precision fermentation are the largest areas of investment in food technology from 2025–2030. Ongoing regulatory updates to the Australian food standards (FSANZ) continue to drive demand for food safety compliance specialists.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Plant-based alternative proteins (soy/pea protein) and precision fermentation ar
 | Subclass 190 (Skilled Nominated) | State nomination; VIC/SA/QLD food industry hubs |
 | Subclass 491 (Skilled Work Regional) | Regional food industry positions, +15 points. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Chemical engineers command higher salaries ($90k–$115k vs $75k–$95k), hav
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-technologist/AU)**

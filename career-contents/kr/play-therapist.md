@@ -4,8 +4,6 @@
 
 A professional who diagnoses and treats children's psychological and emotional difficulties through play activities, primarily working in hospitals, welfare centers, and counseling centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who diagnoses and treats children's psychological and emotional d
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace the emotional connection and human interaction that are core to play therapy, but some tasks such as diagnostic assistance, record management, and treatment planning may be automated, potentially reducing the scope of work.
-
 After obtaining a play therapist certification through a graduate master's program, one builds clinical experience through a training (internship) period. Advancement to center director, university professor, etc., is possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After obtaining a play therapist certification through a graduate master's progr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Issuable if professional qualifications and experience are recognized, but play therapist is not a shortage occupation |
-| Subclass F-2 (F-2-99 (Residence)) | Possible under points system conversion, but Korean language ability and education are important |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: After obtaining a bachelor's and master's degree (major in play therapy) in a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/play-therapist/KR)**

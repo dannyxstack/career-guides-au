@@ -51,8 +51,6 @@ Counsellors in Ireland primarily handle customer inquiries, provide information,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Consultant roles are heavily impacted by AI and automation; many information retrieval and transaction processing tasks will be replaced, entry positions are significantly reduced. However, some complex advisory and interpersonal tasks remain, and practitioners need to transition towards professional consulting or service management.
-
 Junior consultants can advance to customer service supervisor or call centre manager, or transfer to sales, administration, etc. Continuous learning of digital tools can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior consultants can advance to customer service supervisor or call centre man
 | Subclass General Employment P (General Employment Permit) | Applicable to non-critical positions with annual salary below €30,000, requires labor market test. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, requires working at the Irish branch. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: A General Employment Permit may be applied for, requiring employer support an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inquiry-clerk/IE)**

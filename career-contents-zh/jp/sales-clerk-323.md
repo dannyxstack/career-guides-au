@@ -1,8 +1,8 @@
-# Sales Clerk 职业分析 · 日本
+# 售货员（Sales Clerk）职业分析 · 日本
 
-**职业代码: 323 (JSCO)**
+**职业代码：323 (JSCO)**
 
-Occupation involving product explanation, customer service, sales, and cashier operations at retail stores or department stores. Identifies customer needs and suggests appropriate products.
+在零售店或百货商店从事产品介绍、客户服务、销售和收银的岗位。识别客户需求并推荐合适产品。
 
 
 ---
@@ -11,8 +11,8 @@ Occupation involving product explanation, customer service, sales, and cashier o
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $3,000,000~$4,000,000（Public high school tuition fees） |
-| Vocational School (Customer Service/Sales) | 2 年 | $2,000,000~$3,000,000（Private vocational school tuition） |
+| 高中文凭 | 3年 | $3,000,000~$4,000,000（公立高中学费） |
+| 职业学校（客户服务/销售） | 2 年 | $2,000,000~$3,000,000（私立职业学校学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Occupation involving product explanation, customer service, sales, and cashier o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Sales Expert | Japan Chamber of Commerce and Industry | 可选 | Levels 1-3. Certifies specialized knowledge in retail. |
-| Customer Service and Sales Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | National qualification. Includes practical exam. |
-| Specified Skilled Worker (Food and Beverage Manufacturing) | Immigration Services Agency | 可选 | For foreign workers. Requires certain skills and Japanese language ability. |
+| 销售专家 | 日本商工会议所 | 可选 | 1-3级。认证零售领域专业知识。 |
+| 客户服务和销售熟练工 | 厚生劳动省 | 可选 | 国家资格。包含实践考试。 |
+| 特定技能工人（食品饮料制造） | 出入境在留管理厅 | 可选 | 适用于外国工作者。需要特定技能和日语能力。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 2,400,000. Labor shortage due to aging population is severe, but demand for physical stores is declining due to e-commerce growth. Demand for some items is increasing with tourism recovery.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 2,400,000。由于人口老龄化，劳动力短缺严重，但电子商务发展导致实体店需求下降。旅游业复苏推动某些商品需求增长。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,70 +39,63 @@ Occupation involving product explanation, customer service, sales, and cashier o
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $2,800,000~$3,500,000 | 可能接近最低工资 |
-| 中级（4-9年） | $3,500,000~$4,500,000 | Supervisor level. Includes incentives. |
-| Advanced (10+ years) | $4,500,000~$6,000,000 | Store manager level. Includes management allowance. |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 可能接近最低工资 |
+| 中级（4-9年） | $3,500,000~$4,500,000 | 主管级别。包含激励奖金。 |
+| 高级（10年以上） | $4,500,000~$6,000,000 | 店长级别。包含管理津贴。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the spread of AI, self-checkout, and e-commerce, simple sales tasks are decreasing. Meanwhile, high-end and specialized customer service is less likely to be replaced by AI and demand remains. Sales strategies leveraging AI data analysis are becoming more important.
+随着人工智能、自助结账和电子商务的普及，简单的销售任务正在减少。与此同时，高端和专业的客户服务被AI取代的可能性较低，需求依然存在。利用AI数据分析的销售策略正变得越来越重要。
 
-Career progression: Sales Clerk → Supervisor → Store Manager → Area Manager. Requires customer service and management skills. Product knowledge is important at specialty stores.
+职业发展路径：销售助理→主管→店经理→区域经理。需客户服务与管理技能。专卖店产品知识重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Register operations
-- Inventory checks
-- Simple product guidance
-- Price tagging
+- 注册操作
+- 库存检查
+- 简单产品指导
+- 贴价签
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer data analysis
-- Inventory forecasting
-- Personalized recommendations
-- Multilingual translation
+- 客户数据分析
+- 库存预测
+- 个性化推荐
+- 多语种翻译
 
-**人类护城河:**
+**人类护城河：**
 
 - 高级客户服务技巧
-- Building customer trust
-- Deep product knowledge
-- Flexible response
+- 建立客户信任
+- 深度的产品知识
+- 灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Communication skills
-- Product knowledge
-- Digital literacy
-- Language skills
+- 沟通能力
+- 产品知识
+- 数字素养
+- 语言技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Inbound customer service
-- Combination with e-commerce
-- High-value-added customer service
-- DX adoption
+- 入境客户服务
+- 与电子商务结合
+- 高附加值客户服务
+- 数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Food and Beverage Manufacturing)) | Residence status for foreign workers. Requires passing skills and Japanese language exams. Maximum stay of 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or relevant experience. Allows sales work. Stay periods: 1, 3, or 5 years. |
-| Subclass 留学 (Student (Permission for Specified Activities)) | International students can work as sales staff up to 28 hours per week. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -110,25 +103,25 @@ Career progression: Sales Clerk → Supervisor → Store Manager → Area Manage
 
 **谁适合**
 - 喜欢与人打交道者
-- People who can adapt flexibly to situations
-- People who want to deepen product knowledge
+- 能灵活适应情况的人
+- 希望加深产品知识的人
 
 **谁不适合**
-- People who are uncomfortable in front of others
-- People who prefer monotonous work
+- 在众人面前感到不自在的人
+- 偏好单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a sales clerk?**
-答：It depends on experience and employer, but roughly 3 to 4.5 million yen. Store managers may earn over 5 million yen.
+**问：销售员的平均年收入是多少？**
+答：视经验和雇主而定，大致为300万至450万日元，店长可能超过500万日元。
 
-**问：What visa is needed for foreigners to work as sales staff in Japan?**
-答：The Engineer/Specialist in Humanities/International Services visa (requiring university graduation or higher) or Specified Skilled Worker (i) (e.g., food and beverage manufacturing) are common. Working under a student visa with permission for activities outside status is also possible.
+**问：外国人在日本从事销售工作需要什么签证？**
+答：人文/国际服务领域的工程师/专家签证（需大学毕业或以上）或特定技能工人(i)（如食品饮料制造）常见。持学生签证并在获得许可下从事资格外活动也可。
 
-**问：How to advance your career from a sales clerk?**
-答：Polish customer service skills and obtain certifications like sales expert. Gaining management experience opens paths to store manager or buyer positions.
+**问：如何从销售员晋升职业？**
+答：提升客户服务技能并获得销售专家等认证。获得管理经验可通往门店经理或采购职位。
 
 
 ---
@@ -146,12 +139,12 @@ Career progression: Sales Clerk → Supervisor → Store Manager → Area Manage
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sales-clerk-323/JP)**

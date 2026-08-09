@@ -54,8 +54,6 @@ Data and telecommunications cablers in New Zealand install, maintain, and repair
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line installers and repairers face a high risk of automation, especially as automatic fiber fusion splicing, drone inspection, and AI-assisted fault diagnosis will significantly reduce manual demand, but on-site work and emergency response still provide some protection.
-
 Career progression pathways include advancing from junior wiring technician to senior technician, project supervisor, or telecommunications engineer. Holding a New Zealand registered electrician license or telecom qualification can enhance competitiveness. Experienced individuals may transition to higher-paying fields such as network design, security system integration, or data center operations. Continuous learning of new technologies (e.g., 5G, smart building systems) is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression pathways include advancing from junior wiring technician to s
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain work visa through accredited employer sponsorship, usually requires relevant certification; can apply for residency after 2 years of work |
 | Subclass SMC (Skilled Migrant Category) | Must meet 6-point system requirements (e.g., qualifications, work experience), Green List occupations receive additional points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: If only engaged in low-voltage wiring (e.g., communication cables and fiber o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cabler-data-and-telecommunications/NZ)**

@@ -52,8 +52,6 @@ Responsible for managing the floor-cleaning team of hotels or accommodation faci
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Promoted from floor attendant to supervisor, then to housekeeping manager or hotel operations manager. You can obtain a diploma in hotel management or take French professional certification to enhance your competitiveness.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Promoted from floor attendant to supervisor, then to housekeeping manager or hot
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, employment contract must last at least 1 year, and the salary must be at least 1.5 times the minimum wage (about €30,000/year) to apply. |
-| Subclass Passeport Talent (Talents Passport (Qualified Employee)) | Applicable to mid- to senior-level management positions with an annual salary of no less than €36,500. The visa is valid for 4 years and allows family members to be present. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary must exceed €53,000 (2024 standard), usually limited to management of large international groups. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Diplomas in hotel management related to hotel management are usually required
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housekeeping-supervisor/FR)**

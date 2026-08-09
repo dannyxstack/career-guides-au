@@ -53,8 +53,6 @@ Responsible for writing, editing, and maintaining technical documentation (such 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
-
 Junior technical documentation writers can be promoted to senior or lead document writers, or develop into information architects, content strategists, or technical writing managers. After gaining industry experience, you can transition to product management or technical trainers.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior technical documentation writers can be promoted to senior or lead documen
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Suitable for highly skilled professionals, requiring a master's degree or at least 5 years of experience, with an annual salary at least 1.5 times the French average (about 49,000 euros) |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to non-EU highly skilled employees, annual salary must reach €53,900 (2024 standard), contract at least 1 year |
-| Subclass Salarié (Salarié (Employee) Visa) | If sponsored by an employer, it must be proven that suitable EU citizens cannot be recruited and that the salary is not lower than the statutory minimum wage |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Working in France usually requires fluent French (B2 or above), as the docume
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-writer/FR)**

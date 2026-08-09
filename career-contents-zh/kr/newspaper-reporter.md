@@ -1,10 +1,8 @@
-# Newspaper Reporter 职业分析 · 韩国
+# 报社记者（Newspaper Reporter）职业分析 · 韩国
 
-**职业代码: 41201 (KECO)**
+**职业代码：41201 (KECO)**
 
-Newspaper reporters gather, write, and edit news and articles to deliver to readers, covering various fields such as society and politics.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+报社记者负责收集、撰写和编辑新闻与文章，涵盖社会、政治等多个领域，以便向读者传递信息。
 
 
 ---
@@ -13,8 +11,8 @@ Newspaper reporters gather, write, and edit news and articles to deliver to read
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or Bachelor's degree | 4年 | $40,000,000~$80,000,000（Including national and private university tuition） |
-| 副学士学位 | 2~3 年 | $20,000,000~$40,000,000（Based on national university tuition） |
+| 高中文凭或学士学位 | 4年 | $40,000,000~$80,000,000（包括国立和私立大学学费） |
+| 副学士学位 | 2~3 年 | $20,000,000~$40,000,000（基于公立大学学费） |
 
 ---
 
@@ -22,16 +20,16 @@ Newspaper reporters gather, write, and edit news and articles to deliver to read
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Reporter Certificate | Korea Press Foundation | 可选 | 可选，有助于就业 |
+| 记者证 | 韩国媒体振兴财团 | 可选 | 可选，有助于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 30,000. Due to digital transformation, newspaper restructuring is underway, and job opportunities are on the decline, but some demand remains through collaboration with online media.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 30,000。由于数字化转型，报纸行业正在重组，就业机会呈下降趋势，但通过与在线媒体合作，仍有一定需求。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,88 +37,82 @@ Newspaper reporters gather, write, and edit news and articles to deliver to read
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0~3 years) | $30,000,000~$45,000,000 | Based on local papers, top 25% |
-| Mid (4~9 years) | $45,000,000~$65,000,000 | Based on central papers |
-| 资深（10年以上） | $60,000,000~$90,000,000 | Specialist reporter and editor-in-chief |
+| 入门（0~3年） | $30,000,000~$45,000,000 | 基于本地报纸，前25% |
+| 中级（4~9年） | $45,000,000~$65,000,000 | 基于核心论文 |
+| 资深（10年以上） | $60,000,000~$90,000,000 | 专业记者与主编 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI is replacing some tasks in article writing and data analysis, but in-depth reporting and analysis remain human roles.
+AI正在取代文章写作和数据分析中的部分任务，但深度报道和分析仍由人类承担。
 
-Newcomers start at local papers or internet media, build experience, then advance to central papers or specialist reporters, or move into management roles like editor-in-chief.
+新人从地方报纸或网络媒体开始，积累经验后晋升至中央报纸或专业记者，或进入主编等管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Organizing simple press releases
-- Drafting data-based article drafts
-- Photo and Video Caption Generation
+- 组织简单新闻稿
+- 起草基于数据的文章草稿
+- 照片和视频字幕生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Interview Content Analysis
-- News Curation
-- Fact-checking Support
+- 面试内容分析
+- 新闻策展
+- 事实核查支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Exclusive Source Network
-- In-depth Analysis and Insights
-- Ethical Judgment
+- 独家资源网络
+- 深度分析与洞察
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Literacy
-- Multimedia Storytelling
-- AI Tool Proficiency
+- 数据素养
+- 多媒体叙事
+- AI工具熟练度
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Transformation
-- Data Journalism
-- Mobile Content
-- Fact-Checking
+- 数字化转型
+- 数据新闻学
+- 移动内容
+- 事实核查
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign reporters but issuance is strict; Korean language proficiency required |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone curious with a talent for writing
-- Someone resilient to stress and able to handle deadline pressure
-- Someone with a strong sense of social justice
+- 有好奇心且写作天赋的人
+- 能抗压、应对截止日期压力的人
+- 具有强烈社会正义感的人
 
 **谁不适合**
-- Someone who prefers regular working hours
-- Someone who dislikes direct face-to-face interaction
+- 偏好固定工作时间的人
+- 不喜欢直接面对面交流的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a newspaper reporter?**
-答：Entry-level: approx. 30–45 million KRW, Mid-level: 45–65 million KRW, Senior: 60–90 million KRW.
+**问：报纸记者的平均工资是多少？**
+答：入门级：约3000-4500万韩元，中级：4500-6500万韩元，高级：6000-9000万韩元。
 
-**问：Can foreigners work as reporters in Korea?**
-答：Possible with an E-7 visa, but requires Korean language skills and a media sponsor, with high entry barriers.
+**问：外国人能在韩国当记者吗？**
+答：可能通过E-7签证，但需要韩语能力和媒体担保人，入门门槛高。
 
 
 ---
@@ -138,12 +130,12 @@ Newcomers start at local papers or internet media, build experience, then advanc
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/newspaper-reporter/KR)**

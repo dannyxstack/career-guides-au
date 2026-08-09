@@ -53,8 +53,6 @@ Textile technicians operate and maintain textile machinery, monitor fabric produ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Textile technicians face medium-high automation risk, especially in machine monitoring and basic quality control tasks, but equipment maintenance and complex troubleshooting still require human experience. AI will compress entry-level roles, but senior technicians still have opportunities.
-
 Career progression can go from junior technician to senior technician, team leader, or production supervisor. Further education can lead to roles such as textile engineer or technical manager. Some move into R&D or quality control positions.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression can go from junior technician to senior technician, team lead
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Some repetitive tasks may be automated, but technicians are still needed to m
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-technician-general/DE)**

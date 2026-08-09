@@ -4,8 +4,6 @@
 
 Responsible for repairing, maintaining, and commissioning bicycles, including replacing parts, correcting wheels, adjusting brakes and shifting systems, ensuring safe vehicle operation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for repairing, maintaining, and commissioning bicycles, including re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bicycle mechanics face challenges from AI-assisted diagnostics and automated inventory management, but core repair work relies on manual skills and on-site judgment, making it difficult to fully replace and making it a mixed responsibility.
-
 You can start as an apprentice or helper, gain experience, and be promoted to senior technician or store manager, or start your own repair shop.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ You can start as an apprentice or helper, gain experience, and be promoted to se
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract (employed)) | Employers must provide a work contract; non-urgently needed occupations must prove local recruitment is not available |
-| Subclass Busqueda empleo (Job search visa) | Those with higher education can apply, but the occupation usually does not meet the high-skill requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You can be promoted from mechanic to senior technician, store manager, or ope
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bicycle-repairer/ES)**

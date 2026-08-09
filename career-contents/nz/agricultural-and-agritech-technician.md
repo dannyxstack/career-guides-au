@@ -52,8 +52,6 @@ Agricultural and agricultural technicians assist agricultural science research i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural and agricultural technicians face a mixed outlook: routine tasks like data collection and report generation will be replaced by AI, but precision agriculture technology and complex decision analysis create new high-value roles for humans.
-
 Can progress to senior technical specialist, agricultural research project manager, or farm consultant, or transition into agritech companies or policy-making departments, and start a business after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress to senior technical specialist, agricultural research project manag
 | Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (qualifications + work experience). |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires approved employer sponsorship, up to 3 years |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the Green List Tier 2. You can apply for residency afte
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-agritech-technician/NZ)**

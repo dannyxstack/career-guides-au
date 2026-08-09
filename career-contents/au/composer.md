@@ -51,8 +51,6 @@ Composers create original music works, including symphonies, film scores, pop so
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
-
 Career progression can advance from freelance composer to music director, film scorer, or music producer. Some composers move into teaching or music management.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression can advance from freelance composer to music director, film s
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Job numbers will remain stable over the next five years, but demand for tradi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/composer/AU)**

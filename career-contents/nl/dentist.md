@@ -51,8 +51,6 @@ Dentists diagnose, prevent, and treat oral diseases, including problems with tee
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Dentists can advance from general practitioners to specialist dentists (e.g., orthodontics, oral surgery) or open chain clinics. Some dentists enter academia or research. Continuing education is mandatory.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Dentists can advance from general practitioners to specialist dentists (e.g., or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly educated professionals, requiring a Dutch employer sponsor. Income threshold in 2024 is approximately €5,331/month (over 30) or €3,909/month (under 30). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled workers, requiring a work contract of at least €5,331/month (2024) and matching educational qualifications. |
-| Subclass Orientation Year (Orientation Year (Search Year)) | Applicable to master's/PhD graduates from universities ranked in the top 200 in the Netherlands or globally, granting a one-year job search period with free work rights. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Dutch dental education is a 6-year integrated bachelor-master program; gradua
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/NL)**

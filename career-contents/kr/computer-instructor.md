@@ -4,8 +4,6 @@
 
 A profession that teaches computer literacy (OA, programming, etc.) at academies, lifelong education centers, and corporate settings, with steady educational demand.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession that teaches computer literacy (OA, programming, etc.) at academies
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI-based learning platforms (e.g., tutoring) are replacing basic OA training, but hands-on practice, coaching, and advanced courses still require human instructors, so the occupation is not expected to disappear. Instructors who use AI as an auxiliary tool can maintain competitiveness.
-
 Starting as a junior instructor, one can advance to full-time and lead instructor roles through experience; obtaining IT certifications (e.g., Information Processing Engineer) enables advancement to managerial or educational consultant positions in training institutions.
 
 **Tasks most exposed to AI:**
@@ -94,18 +90,9 @@ Starting as a junior instructor, one can advance to full-time and lead instructo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited by academies/educational institutions as a specialized instructor (e.g., programming) |
-| Subclass F-2 (Residence) | General instructor activities possible at the pre-permanent residence stage |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work as instructors, with few employment restrictions |
-| Subclass D-10 (Job Seeking) | Can stay while seeking instructor position; switch to E-7 after employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +136,12 @@ A: Basic OA training may be replaced by AI tutors, but advanced programming and 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-instructor/KR)**

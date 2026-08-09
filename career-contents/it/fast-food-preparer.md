@@ -4,8 +4,6 @@
 
 Responsible for preparing and cooking fast food items such as burgers, fries, and sandwiches in fast food restaurants, takeaway shops, etc., ensuring food quality and hygiene standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for preparing and cooking fast food items such as burgers, fries, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Fast food preparation roles are highly structured; AI and automation will significantly reduce demand—smart cooking equipment, self-service ordering, and robotic food assembly systems can handle most made-to-order tasks. Entry-level positions will shrink, and survivors will need to shift to equipment maintenance and quality control.
-
 Can advance from basic preparer to kitchen supervisor or store manager by accumulating experience and participating in internal training; some chain enterprises offer management trainee programs.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Can advance from basic preparer to kitchen supervisor or store manager by accumu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Work Visa for Non-EU Workers (Decreto Flussi)) | Applicable to non-EU workers, requires employer sponsorship, annual quota limited, mostly for low-skilled labor |
-| Subclass EU Blue Card (EU Blue Card) | Only for high-skilled occupations; fast food preparers do not qualify |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Yes, but through the Decreto Flussi quota work visa, with limited opportuniti
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-preparer/IT)**

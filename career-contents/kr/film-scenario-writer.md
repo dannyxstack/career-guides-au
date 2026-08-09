@@ -4,8 +4,6 @@
 
 A professional writer who creates and adapts movie scenarios and structures stories, performing the role of a key planner in film production.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional writer who creates and adapts movie scenarios and structures stor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can assist with writing synopses and character settings, but creative plots and dialogue infused with human emotion remain the domain of human writers. AI improves efficiency but cannot fully replace them.
-
 Primarily works as a freelancer, initially entering through short films and then building a career via feature-length scenario contests or film company contracts. Career advancement typically involves increased recognition based on project success rather than promotions.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Primarily works as a freelancer, initially entering through short films and then
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible if invited by a film production company, but difficult to obtain due to freelancer nature |
-| Subclass F-2 (Residence (F-2)) | General Path for Long-term Stay |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: E-7 visa is possible, but since many are freelancers, you need an employer, a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-scenario-writer/KR)**

@@ -54,8 +54,6 @@ Responsible for handling cash receipts and payments, processing transactions, an
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
-
 Cashiers can advance to senior cashier, customer service representative, or branch administrator; some move into loans or investments by obtaining financial certifications.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Cashiers can advance to senior cashier, customer service representative, or bran
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Poor outlook. Affected by ATMs, online banking, and automation, positions are
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tellers/US)**

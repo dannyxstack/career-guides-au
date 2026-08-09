@@ -52,8 +52,6 @@ In New Zealand, manage fish, shellfish or aquatic plant farms, including feeding
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
-
 Start as a junior aquaculturist, can advance to farm supervisor, manager, or move into R&D, quality control, and other specialist roles. Experienced individuals can start their own business or become industry consultants, participating in sustainable aquaculture projects.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a junior aquaculturist, can advance to farm supervisor, manager, or mov
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration visa: accumulate points through occupational registration, qualifications, work experience, etc. Apply once you reach 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for entering on a work visa first, gaining local experience, then transitioning to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a New Zealand Certificate in Aquaculture (Level 4) or a re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-farmer/NZ)**

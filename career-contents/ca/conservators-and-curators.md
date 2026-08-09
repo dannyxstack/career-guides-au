@@ -50,8 +50,6 @@ Protects, manages, and exhibits collections in museums, galleries, and other cul
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will disrupt curators' document sorting and digitization processes, but the core of curation—artistic judgment, narrative construction, and public interaction—is nearly impossible to automate and will instead be amplified by AI tools. Entry-level positions will narrow due to reduced repetitive tasks, but the value of experienced curators will increase.
-
 Start as assistant or technician, gain experience to advance to senior curator or department head; some move into arts management or academia.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as assistant or technician, gain experience to advance to senior curator o
 | Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have cultural provincial nominee programs, requiring meeting provincial nomination criteria. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, but competition is fierce. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, but requires a master's degree or higher and relevant work experience. E
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conservators-and-curators/CA)**

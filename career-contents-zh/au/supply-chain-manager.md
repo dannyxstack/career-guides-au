@@ -1,6 +1,6 @@
 # 供应链经理（Supply Chain Manager）职业分析 · 澳大利亚
 
-**职业代码: 133611 (ANZSCO)**
+**职业代码：133611 (ANZSCO)**
 
 供应链经理统筹采购、仓储、物流和配送网络，确保产品从生产端高效流通至终端客户。后疫情时代澳洲供应链韧性建设需求和电商物流爆发推动对供应链专业人才的持续需求，是理工科背景跨入商业管理领域的高薪通道。
 
@@ -21,19 +21,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| CSCP（Certified Supply Chain Professional） | APICS（美国生产和库存管理协会） | 可选 | 全球最认可的供应链专业认证，持有者薪资溢价显著 |
-| CPIM（Certified in Planning and Inventory Management） | APICS | 可选 | 库存和生产计划专精认证 |
-| CLTD（Certified in Logistics Transportation and Distribution） | APICS | 可选 | 物流和配送专精认证 |
+| CSCP（认证供应链专业人士） | APICS（美国生产和库存管理协会） | 可选 | 全球最认可的供应链专业认证，持有者薪资溢价显著 |
+| CPIM（认证计划与库存管理） | APICS | 可选 | 库存和生产计划专精认证 |
+| CLTD（物流、运输与配送认证） | APICS | 可选 | 物流和配送专精认证 |
 | Vetassess 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 48,000. JSA预测供应链经理至2035年就业增长约11%。关键矿产战略储备、国防供应链本地化和ESG供应链合规是2025-2030年增长最快的政策驱动方向。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 48,000。JSA预测供应链经理至2035年就业增长约11%。关键矿产战略储备、国防供应链本地化和ESG供应链合规是2025-2030年增长最快的政策驱动方向。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：中低（★★☆☆☆）**
 
 供应链经理岗位整体呈『喜忧参半』态势：常规调度、单据核对等任务被自动化压缩，但战略规划、复杂谈判、韧性设计等核心能力被AI放大，价值向高阶决策倾斜。
 
 供应链数字化（Digital Supply Chain）是2025年行业核心转型，SAP S/4HANA和Oracle Supply Chain Management的专精人才需求急增。ESG供应链（可持续采购+碳足迹追踪）是上市公司供应链合规的强制方向。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 库存需求预测与自动补货计算
 - 运输路线优化与物流成本核算
@@ -67,7 +67,7 @@
 - 供应链绩效仪表盘生成与异常报警
 - 合规文档审核与海关清关单据预填
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 基于AI模拟的供应链韧性场景建模与应急方案生成
 - 通过NLP分析供应商风险舆情与合同条款协商
@@ -75,7 +75,7 @@
 - 多渠道订单履行策略的智能评估与推荐
 - 利用机器视觉与物联网实现仓储物流数字孪生监控
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨部门战略协调与长期合作伙伴关系维护
 - 在不确定性下做出权衡决策（成本、服务、风险）
@@ -83,7 +83,7 @@
 - 构建组织韧性与变革管理（如推动自动化落地）
 - 高层商业谈判与采购策略创新
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 供应链数据分析与Python/SQL脚本编写
 - AI/ML预测建模（如时序预测、分类模型）
@@ -92,17 +92,17 @@
 - 敏捷供应链与精益管理方法论
 - 跨文化沟通与团队领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Supply Chain Technology & Digital Twin
-- ESG & Sustainable Supply Chain
-- Cold Chain & Pharmaceutical Logistics
-- E-commerce Fulfilment Optimisation
-- Critical Minerals & Defence Supply Chain
+- 供应链技术与数字孪生
+- ESG与可持续供应链
+- 冷链与医药物流
+- 电商履约优化
+- 关键矿产与国防供应链
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -113,9 +113,7 @@
 | Subclass 190 (Skilled Nominated) | 州提名通道 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区制造/物流中心，加15分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -177,12 +175,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supply-chain-manager/AU)**

@@ -4,8 +4,6 @@
 
 Responsible for navigation, navigation, and cargo transportation management of inland vessels to ensure the safety and compliance of waterways.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for navigation, navigation, and cargo transportation management of i
 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
 
 Starting as an intern or crew member, after obtaining an inland navigation certificate, you can be promoted to captain or shipping dispatch supervisor.
 
@@ -100,17 +96,9 @@ Starting as an intern or crew member, after obtaining an inland navigation certi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for professionals hired by French shipping companies with annual salaries above 38,400 euros |
-| Subclass Salarié (Employee Work Permit) | If the employer provides a work contract that meets labor market conditions, you can apply for employment work residence |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of at least 53,941 euros (2025 threshold) is required, usually applicable to senior positions |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Non-EU certificates must be assessed by the French Ministry for Ecological Tr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inland-waterways-navigation-officer/FR)**

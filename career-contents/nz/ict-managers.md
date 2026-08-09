@@ -52,8 +52,6 @@ IT project managers lead the planning, execution, and delivery of technical proj
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of IT project managers (communication, decision-making, stakeholder management) are hard to replace by AI, but AI tools significantly boost efficiency in execution tasks like progress tracking, document generation, and risk prediction, potentially reducing demand for junior PM roles while senior roles require AI tool proficiency.
-
 Typical career progression: project manager → senior project manager → project director → CIO. Can pivot to agile coach, PMO manager, or consultant, with salary significantly increasing with experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typical career progression: project manager → senior project manager → proje
 | Subclass Green List T1 (Tier 1 Green List Direct Residence) | ICT Project Manager is on Green List T1, can directly apply for residency |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer supports work visa, can later transition to residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. IT Project Manager is on the Green List Tier 1; meeting the salary requi
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-managers/NZ)**

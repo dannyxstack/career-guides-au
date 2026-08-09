@@ -53,8 +53,6 @@ Assist passengers boarding and alighting from public transport (trains, buses), 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Transport ticket sellers/conductors face significant reduction, as automated ticketing systems, mobile payments, and smart ticket machines will diminish their core roles of checking tickets and selling tickets, leading to decreased demand and narrower entry-level positions.
-
 Can be promoted to station supervisor, operations dispatcher, or customer service manager, or transition to train driver training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted to station supervisor, operations dispatcher, or customer servic
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted to station supervisor, operations dispatcher or customer serv
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-conductor/IE)**

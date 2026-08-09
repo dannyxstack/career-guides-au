@@ -55,8 +55,6 @@ UI/UX designers create user interfaces and interactive experiences across web, m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
-
 Figma has become the definitive UI/UX design tool in Australia. Design Tokens and Design System management are the highest-premium specialist skills for 2025–2026. Generative AI design is accelerating product iteration while increasing demand for senior designers.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Figma has become the definitive UI/UX design tool in Australia. Design Tokens an
 | Subclass 189 (SkillSelect Independent) | Invitation-based, ACS skills assessment + EOI |
 | Subclass 190 (Skilled Nominated) | State nomination — NSW/VIC technology stream |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: The migration pathway for software engineers is clearer (with roughly 5–10 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ui-ux-designer/AU)**

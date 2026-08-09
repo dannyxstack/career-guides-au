@@ -51,8 +51,6 @@ Specialist technician for glass installation and window/door frame manufacturing
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 can start as an apprentice and advance to senior technician, foreman, or start your own glass installation business.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ can start as an apprentice and advance to senior technician, foreman, or start y
 | Subclass Skilled Worker (Skilled Worker visa) | Applicable to skilled workers employed by a UK employer; requires meeting salary and language requirements; glass installers are on the eligible occupation list. |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2 years, but this occupation typically requires apprenticeship experience rather than a degree. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Starting as an apprentice, becoming a skilled tradesperson, then advancing to
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glaziers-window-fabricators-and-fitters/UK)**

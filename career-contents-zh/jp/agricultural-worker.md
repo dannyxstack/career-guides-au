@@ -1,8 +1,8 @@
-# Agricultural Worker 职业分析 · 日本
+# 农业工人（Agricultural Worker）职业分析 · 日本
 
-**职业代码: 461 (JSCO)**
+**职业代码：461 (JSCO)**
 
-Cultivates and harvests rice, vegetables, fruit trees, etc. in fields. Mechanization is advancing, but much manual work remains.
+在田间种植和收割水稻、蔬菜、果树等。机械化正在推进，但仍有许多体力劳动
 
 
 ---
@@ -11,9 +11,9 @@ Cultivates and harvests rice, vegetables, fruit trees, etc. in fields. Mechaniza
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Agricultural High School | 3年 | $100,000~$300,000（Public high school tuition fees） |
-| Agricultural College (Vocational School) | 2 年 | $500,000~$1,500,000（Annual tuition fees） |
-| Agricultural Training (New Farmer Program) | 1年 | $0~$500,000（Subsidized by national and local governments） |
+| 农业高中 | 3年 | $100,000~$300,000（公立高中学费） |
+| 农业学院（职业院校） | 2 年 | $500,000~$1,500,000（年度学费） |
+| 农业培训（新农民计划） | 1年 | $0~$500,000（由国家和地方政府补贴） |
 
 ---
 
@@ -21,18 +21,18 @@ Cultivates and harvests rice, vegetables, fruit trees, etc. in fields. Mechaniza
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Poisonous and Deleterious Substances Handler | Prefectural government | 可选 | Mandatory for pesticide use |
-| 叉车操作员 | Prefectural Labor Bureau | 可选 | For agricultural forklifts |
-| Large Special Vehicle License | 警察局 | 可选 | For driving farm machinery on public roads |
+| 有毒有害物质处理员 | 县/省级政府 | 可选 | 农药使用强制要求 |
+| 叉车操作员 | 县级劳动局 | 可选 | 适用于农用叉车 |
+| 大型特种车辆驾照 | 警察局 | 可选 | 用于在公共道路上驾驶农用机械 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 1,680,000. The agricultural workforce is aging and shrinking, leading to a severe labor shortage. Hiring of foreign workers is on the rise.
+**职位需求量：很高（★★★★½）** 全国从业人数约 1,680,000。农业劳动力老龄化和减少导致劳动力严重短缺。外籍工人招聘呈上升趋势。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Cultivates and harvests rice, vegetables, fruit trees, etc. in fields. Mechaniza
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,500,000~$3,500,000 | Starting salary at agricultural corporations |
-| Mid Level (4–10 years) | $3,500,000~$5,000,000 | Core Worker |
-| Veteran (11+ years) | $4,500,000~$7,000,000 | Managerial or Independent Farming |
+| 入门级（0–3年） | $2,500,000~$3,500,000 | 农业企业起薪 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 核心工人 |
+| 资深（11年以上） | $4,500,000~$7,000,000 | 管理型或独立经营型农业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-In agriculture, AI and robots support tasks like harvest timing and automated tractors, combining with human judgment and skilled techniques to boost productivity.
+在农业中，人工智能和机器人支持收获时机、自动驾驶拖拉机等任务，结合人类判断和熟练技术提高生产力。
 
-Aim for independent farming or employment at agricultural corporations. Learn smart agriculture tech to boost productivity.
+目标是独立务农或受雇于农业公司。学习智能农业技术以提高生产力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Weeding tasks
-- Partial harvesting (by robots)
-- Pesticide spraying planning
+- 除草任务
+- 部分收获（由机器人完成）
+- 农药喷洒规划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Growth diagnosis (AI sensors)
-- Harvest timing prediction (machine learning)
-- Irrigation/fertilizer optimization (AI control)
+- 生长诊断（AI传感器）
+- 收获时间预测（机器学习）
+- 灌溉/施肥优化（AI控制）
 
-**人类护城河:**
+**人类护城河：**
 
-- Experience-based sensing of subtle soil changes
-- Flexible decision-making in response to climate change
-- Communication with consumers
+- 基于经验的细微土壤变化感知
+- 应对气候变化的灵活决策
+- 与消费者沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Drone operation
-- Maintenance of smart agriculture equipment
-- Agricultural Business Management
+- 数据分析
+- 无人机操作
+- 智能农业设备维护
+- 农业企业管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart agriculture
-- Organic farming
-- Plant factories
-- Agriculture-welfare collaboration
+- 智慧农业
+- 有机农业
+- 植物工厂
+- 农福合作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Agriculture)) | Work in agriculture. Expected to accept in 2023. Skills and Japanese language tests required. |
-| Subclass 技能実習 (Technical Intern Training (Agriculture)) | Up to 5 years. Transfer not allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Agricultural Management)) | Management positions at agricultural corporations. University graduate or higher. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
+- 体力充沛的人
 - 喜爱户外工作的人
-- People who enjoy seasonal changes
+- 喜欢季节变化的人
 
 **谁不适合**
-- People who like fixed routines
-- People with germophobia
+- 喜欢固定日程的人
+- 恐菌症患者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income of agricultural workers?**
-答：First year: about 2.5 to 3.5 million yen. With experience, it can exceed 5 million yen. Varies by agricultural corporation.
+**问：农业工人的年收入是多少？**
+答：第一年：约 250 万至 350 万日元。有经验后可超过 500 万日元。因农业法人而异。
 
-**问：Can foreigners work as agricultural workers?**
-答：Yes, under Specified Skilled Worker (i) (Agriculture). Requires Japanese language proficiency test and skills test.
+**问：外国人可以从事农业工人工作吗？**
+答：是的，在特定技能工人(i)（农业）下。需要日语能力测试和技能测试。
 
-**问：How can I advance my career?**
-答：Acquire smart agriculture technology and farm management experience. Options include independent farming or executive roles in agricultural corporations.
+**问：如何提升我的职业生涯？**
+答：掌握智能农业技术和农场管理经验。可选择独立经营或农业企业高管职位。
 
 
 ---
@@ -144,12 +137,12 @@ Aim for independent farming or employment at agricultural corporations. Learn sm
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/agricultural-worker/JP)**

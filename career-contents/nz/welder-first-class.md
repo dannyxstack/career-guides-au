@@ -52,8 +52,6 @@ Welders are in high demand in New Zealand's construction, manufacturing, and inf
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Welders can advance from general welders to senior welders, welding supervisors, or workshop managers; some transition to welding inspectors (CWI) or welding engineers (with additional education). New Zealand offers apprenticeships and on-the-job training to support career progression.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Welders can advance from general welders to senior welders, welding supervisors,
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Under the 6-point system, welders can use qualifications (e.g., level 4 certificate + 3 points) plus work experience (1-3 points) to reach 6 points for residency application. |
 | Subclass AEWV (Accredited Employer Work Visa) | For welders without direct residency eligibility but with a job offer from an approved employer, up to 3 years, with potential for subsequent residency transition. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. Typically requires a New Zealand Certificate in Welding Level 4 or equiv
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welder-first-class/NZ)**

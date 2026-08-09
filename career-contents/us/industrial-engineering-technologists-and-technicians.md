@@ -51,8 +51,6 @@ Under the guidance of engineers, apply engineering principles to solve industria
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on fire safety engineers is mixed: routine document review and basic risk assessment can be automated, but on-site decision-making, compliance responsibility, and human factor judgment remain core human barriers.
-
 Entry-level technicians can advance to senior technician or industrial engineer; with experience, move into production management, quality control, or supply chain management. Typically requires associate degree or relevant certificate.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level technicians can advance to senior technician or industrial engineer;
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to skilled workers, professionals, requiring PERM labor certification. |
 | Subclass Green Card (PERM) (Permanent Residence via PERM) | Employer-sponsored permanent green card process, including labor certification testing. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Common pathway is the H-1B work visa, requiring employer sponsorship and a ba
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-engineering-technologists-and-technicians/US)**

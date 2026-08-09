@@ -52,8 +52,6 @@ Joiners specialize in manufacturing and installing wooden components such as doo
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Progress from apprentice to skilled carpenter, then to foreman, project manager, or self-employment. Can specialize in joinery, cabinet making, or architectural carpentry.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from apprentice to skilled carpenter, then to foreman, project manager,
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | A temporary visa for regional areas with state nomination, can lead to PR via the 191 visa. |
 | Subclass 189 (Skilled Independent Visa) | Skilled Independent visa, joinery is on the MLTSSL, must score 65 points or above. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Construction projects are concentrated in New South Wales, Queensland, and Vi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/joiner/AU)**

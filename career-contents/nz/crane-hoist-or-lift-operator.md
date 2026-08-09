@@ -52,8 +52,6 @@ Operate cranes, hoisting equipment, or lifts to move heavy loads in construction
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Crane operators face automation threats: unmanned tower cranes and remote control systems are replacing traditional roles, with entry-level opportunities significantly reduced; certified veterans still have short-term demand.
-
 Start as an assistant operator, obtain a New Zealand crane registration certificate to become an independent operator. With experience, advance to supervisor, trainer, or higher-level crane license (e.g., tower crane, mobile crane), with significant salary increases.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as an assistant operator, obtain a New Zealand crane registration certific
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, requiring meeting the 6-point system criteria (e.g., qualifications, work experience, New Zealand employment), occupation at ANZSCO Skill Level 3 or above |
 | Subclass Green List T2 (Green List Tier 2) | Green List Tier 2, eligible for residence after 2 years of work, subject to specific salary and position requirements (e.g., senior operator) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must hold a relevant crane type registration certificate issued by the New Ze
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-hoist-or-lift-operator/NZ)**

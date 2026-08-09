@@ -51,8 +51,6 @@ Chemical laboratory technicians perform chemical analysis, synthesis, and testin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemical laboratory technicians will be partially replaced by AI automation, but AI can also enhance their data analysis and experimental efficiency; overall, it's a mixed bag.
-
 Junior technicians can progress to senior technician or lab supervisor through experience. Further study (e.g., at technical schools or university) can lead to chemical engineer or R&D manager. Transition to quality management or technical sales is also common.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior technicians can progress to senior technician or lab supervisor through e
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable for applicants who have completed a German-recognized (or equivalent) dual vocational training or university degree, requiring a job offer from an employer. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | A new points-based job-seeking visa introduced in 2024 that allows entry to Germany to look for work, with permission to work under certain conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Good employment prospects, especially in chemical, pharmaceutical, and R&D fi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-laboratory-technician/DE)**

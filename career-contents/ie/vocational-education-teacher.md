@@ -53,8 +53,6 @@ Vocational education teachers in Irish institutions (such as institutes of techn
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 Career progression includes moving from instructor to senior instructor, course director, or training manager. Some teachers may transition to education policy development, corporate training, or vocational education research roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression includes moving from instructor to senior instructor, course 
 | Subclass EU Blue Card (EU Blue Card) | Applicable for higher education workers, annual salary must meet a certain threshold (approx. €33,000), requires an employment contract. |
 | Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | After 5 years of work, eligible to apply for long-term residence, allowing free employer changes. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can be promoted from lecturer to senior lecturer, course coordinator, trainin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-education-teacher/IE)**

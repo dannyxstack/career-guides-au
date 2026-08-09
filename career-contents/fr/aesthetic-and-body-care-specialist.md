@@ -4,8 +4,6 @@
 
 It offers facial treatments, body massages, hair removal, manicures, and other beauty services, as well as makeup and skin consultations, making it a core position in the French beauty industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ It offers facial treatments, body massages, hair removal, manicures, and other b
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
-
 You can advance from beautician to senior technician, store manager, or trainer, or even open an independent studio. Developing towards medical aesthetics or spa management requires supplementary management or medical qualifications.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can advance from beautician to senior technician, store manager, or trainer,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | Requires a French employer sponsorship, a work contract of at least one year, and a salary not lower than SMIC, but salaries in the beauty industry are relatively low and sponsorship is more challenging. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but the beauty industry often does not meet the requirements for high salaries or special talents. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Minimum requirement is CAP Esthétique (2 years), or Bac Pro (3 years) or BTS
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aesthetic-and-body-care-specialist/FR)**

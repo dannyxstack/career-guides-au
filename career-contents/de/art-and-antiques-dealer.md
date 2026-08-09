@@ -50,8 +50,6 @@ Art and antique dealers in Germany buy and sell art, antiques, and collectibles,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace some information retrieval and valuation tasks, but physical identification, client connections, and negotiation skills remain core advantages. Entry-level positions become more competitive due to AI tools, but professional appraisal and curation skills gain value.
-
 Career progression can move from assistant to independent dealer or gallery owner, specialising in a field (e.g. modern art, antique furniture), or expanding into online business.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression can move from assistant to independent dealer or gallery owne
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires relevant qualifications or vocational certification, and the employer must offer a position with terms equal to those for local German employees |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job search, suitable for applicants with certain qualifications |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can progress from assistant to independent dealer or gallery owner, or move i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-and-antiques-dealer/DE)**

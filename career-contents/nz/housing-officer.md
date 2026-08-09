@@ -53,8 +53,6 @@ Housing officers manage social housing leases, allocations, maintenance coordina
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core duties of housing officers (lease management, tenant support) rely on interpersonal communication and legal compliance, making them less amenable to full automation, but data entry, report generation, and other administrative tasks will be significantly taken over by AI; overall job numbers remain stable but entry barriers rise as tools replace some junior tasks.
-
 Junior housing officers can progress to senior housing officer, regional manager, or policy advisor. Opportunities also exist to move into community development or project management, but require experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior housing officers can progress to senior housing officer, regional manager
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to team leader, regional manager, policy advisor, or transition t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housing-officer/NZ)**

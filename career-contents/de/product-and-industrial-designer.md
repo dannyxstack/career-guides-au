@@ -51,8 +51,6 @@ Product and industrial designers develop and design the appearance, function, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Product and industrial design roles will be deeply reshaped by AI: routine modelling and layout tasks are automated, but creative concepts, user research, and interdisciplinary integration skills become more critical.
-
 Can progress to design director, creative director, or design manager; also can transition to UX/UI designer or start own business. Senior designers can serve as project leads or enter design consulting senior roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress to design director, creative director, or design manager; also can 
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to non-EU skilled workers with a recognized German qualification and a job offer. |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on a points system, allowing job search in Germany; requires professional qualifications or work experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires a bachelor's or master's degree in product design or indus
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-and-industrial-designer/DE)**

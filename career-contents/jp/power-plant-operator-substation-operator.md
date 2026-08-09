@@ -4,8 +4,6 @@
 
 Specialist responsible for operating, monitoring, and maintaining equipment to ensure stable power supply at power plants and substations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Specialist responsible for operating, monitoring, and maintaining equipment to e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Due to advances in automation and AI for remote monitoring/operation support, some monitoring tasks will decrease, but maintenance, inspection, and emergency response requiring human judgment will remain. Overall, job content will change, and staffing is expected to be slightly reduced.
-
 Career path from power plant operator to substation manager or central load dispatching center operator. Obtain national certifications or electrical chief engineer licenses for promotion and specialization.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Career path from power plant operator to substation manager or central load disp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for jobs requiring electrical engineering knowledge. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not currently applicable as the field is not covered. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Obtainable via points system with qualifications like chief electrical engineer and high income. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -150,12 +138,12 @@ A: A Certified Electrical Engineer (Class 3 or higher) is legally required. Elec
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-plant-operator-substation-operator/JP)**

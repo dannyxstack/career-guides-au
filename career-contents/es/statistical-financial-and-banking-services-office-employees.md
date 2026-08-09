@@ -51,8 +51,6 @@ Responsible for handling daily administrative tasks such as data entry, account 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Tasks such as daily data processing and account verification for staff in statistics, finance, and banking services offices are easily replaced by AI automation, but exception handling and customer relationship management that require human judgment have been enhanced, resulting in mixed outcomes overall.
-
 You can advance from junior data entry specialist to senior clerk, team leader, or financial analysis assistant. By obtaining an advanced FP degree or financial certification (such as banking regulatory training), you have the opportunity to transfer into professional positions such as risk control or internal audit.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ You can advance from junior data entry specialist to senior clerk, team leader, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees (Cuenta Ajena)) | Employed work residence requires employer sponsorship, applicable to office staff positions in banks/financial companies. Salary must meet minimum wage requirements, with an annual salary ≥ 20,000 euros. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled professionals but requires higher educational background and annual salary (about €33,900), and is generally not suitable for entry-level clerk positions. |
-| Subclass Busqueda empleo (Job Search Visa) | The Spanish job seeker visa allows you to stay in Spain for up to 6 months looking for work, and after finding a qualifying job, it can be converted to work residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Generally, completion of at least secondary education (ESO) is required, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistical-financial-and-banking-services-office-employees/ES)**

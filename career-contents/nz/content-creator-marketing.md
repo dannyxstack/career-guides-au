@@ -53,8 +53,6 @@ Responsible for planning, creating, and distributing digital content (videos, bl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-content creators (marketing) are winners in the AI era: automation tools take over repetitive tasks, allowing creators to focus on creativity and strategy, while data analysis capabilities are amplified, but beware of industry barriers rising due to the proliferation of AI tools.
-
 Junior content creators can advance to senior content strategist, social media manager or digital marketing executive; with experience, they can move into brand management or start their own business. Continuous learning of SEO, video production and data analysis skills is key.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior content creators can advance to senior content strategist, social media m
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-specific work visa, requires an accredited employer sponsor, hourly wage not below the median, can lead to a residence pathway |
 | Subclass Student / Post-study (Post-study Work Visa) | Post-graduation work visa, suitable for graduates completing relevant qualifications to gain local work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: No statutory registration required, but a digital marketing diploma or Google
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/content-creator-marketing/NZ)**

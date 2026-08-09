@@ -52,8 +52,6 @@ Assess and treat individuals with mental, emotional, or substance abuse issues (
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on social workers is mainly augmentation rather than replacement, but entry-level positions face compression from automated administrative tasks; core human skills (empathy, crisis judgment) remain irreplaceable, and demand continues to grow with policy support.
-
 Career progression path: entry-level clinical social worker → licensed clinical social worker (LCSW) → senior clinician/supervisor → project manager/director → independent private practice.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression path: entry-level clinical social worker → licensed clinica
 | Subclass EB-2 (EB-2 Advanced Degree) | Through PERM labor certification, applicable to master's degree or higher, green card pathway |
 | Subclass EB-3 (EB-3 Skilled Worker) | Applicable for bachelor's degree plus experience, with long waiting times. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires LCSW licence, 2 years of supervised experience after MSW, an
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mental-health-and-substance-abuse-social-workers/US)**

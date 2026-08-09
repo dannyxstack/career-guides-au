@@ -4,8 +4,6 @@
 
 Responsible for commercial flight operations, including takeoff, cruising, and landing, ensuring the safety of passengers and crew. A high level of professionalism and emergency response skills is required, and they typically work for airlines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Responsible for commercial flight operations, including takeoff, cruising, and l
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 The career path usually starts as a co-pilot, and after accumulating flight hours, you can be promoted to captain. Senior captains can transition to training instructors, inspectors, or management roles (such as flight operations managers).
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ The career path usually starts as a co-pilot, and after accumulating flight hour
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as foreign pilots employed by airlines, who must provide work contracts and qualification certificates |
-| Subclass Salarié (Salaried Employee) | After obtaining a job contract with Air France, the employer must provide permission to apply |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions, pilot salaries usually qualify and can apply for an EU Blue Card |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Non-EU pilot licenses must be certified and converted by the French Civil Avi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-airline-pilot/FR)**

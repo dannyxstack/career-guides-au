@@ -1,8 +1,8 @@
-# Soil Environment Engineers and Researchers 职业分析 · 韩国
+# 土壤环境工程师与研究员（Soil Environment Engineers and Researchers）职业分析 · 韩国
 
-**职业代码: 15536 (KECO)**
+**职业代码：15536 (KECO)**
 
-Professionals who investigate and analyze soil and groundwater contamination, research and develop remediation technologies, and carry out environmental impact assessments and pollution cleanup projects.
+调查和分析土壤及地下水污染、研究和开发修复技术、进行环境影响评估和污染清理项目的专业人士。
 
 
 ---
@@ -11,9 +11,9 @@ Professionals who investigate and analyze soil and groundwater contamination, re
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree in environmental engineering, geology, civil engineering, or related fields | 4年 | $40,000,000~$60,000,000（Based on a 4-year university） |
-| Master's degree in environment or geology | 2 年 | $20,000,000~$40,000,000（Graduate school tuition） |
-| Doctorate in environment or geology | 3~4 years | $30,000,000~$60,000,000（Graduate school tuition and research funding） |
+| 环境工程、地质学、土木工程或相关领域的学士学位 | 4年 | $40,000,000~$60,000,000（基于4年制大学） |
+| 环境或地质学硕士学位 | 2 年 | $20,000,000~$40,000,000（研究生学费） |
+| 环境或地质学博士 | 3~4年 | $30,000,000~$60,000,000（研究生院学费和研究经费） |
 
 ---
 
@@ -21,18 +21,18 @@ Professionals who investigate and analyze soil and groundwater contamination, re
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Soil Environment Engineer | Human Resources Development Service of Korea | 必备 | Essential for soil pollution assessment and remediation technology |
-| Water Environment Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for groundwater-related work |
-| Environmental Impact Assessor | Ministry of Environment | 可选 | Required for environmental impact assessment work |
+| 土壤环境工程师 | 韩国人力资源开发服务局 | 必备 | 土壤污染评估和修复技术所必需 |
+| 水环境工程师 | 韩国人力资源开发服务局 | 可选 | 有利于地下水相关工作 |
+| 环境影响评估师 | 环境部 | 可选 | 环境影响评估工作所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 3,500. Demand is steady due to soil remediation projects and stricter environmental regulations, but the industry is small, limiting job growth. Some new hiring is expected in connection with the government's Green New Deal policy.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 3,500。由于土壤修复项目及更严格的环境法规，需求稳定，但行业规模较小，限制了就业增长。预计政府绿色新政政策将带来一些新招聘。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +40,86 @@ Professionals who investigate and analyze soil and groundwater contamination, re
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry level (0~3 years) | $30,000,000~$35,000,000 | Researcher/staff level |
-| Mid level (4~9 years) | $40,000,000~$55,000,000 | Assistant Manager to Manager |
-| 资深（10年以上） | $60,000,000~$80,000,000 | General Manager to Executive |
+| 入门级（0~3年） | $30,000,000~$35,000,000 | 研究员/职员级别 |
+| 中级（4~9年） | $40,000,000~$55,000,000 | 助理经理到经理 |
+| 资深（10年以上） | $60,000,000~$80,000,000 | 总经理到高管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies enhance work efficiency in data analysis, modeling, monitoring, etc., but areas requiring human expertise such as field surveys, sampling, and legal judgment remain important. AI is used as a supplementary tool, and jobs will not be fully replaced.
+AI和自动化技术提升了数据分析、建模、监控等方面的工作效率，但需要人类专业知识的领域，如实地调查、采样和法律判断，仍然很重要。AI作为辅助工具使用，工作不会被完全取代。
 
-Typically, those with master's or doctoral degrees find employment at research institutes, environmental consulting firms, and government-funded research organizations. After gaining experience, they can advance to principal researcher, team leader, or technical director.
+通常，硕士或博士毕业生在研究机构、环境咨询公司和政府资助的研究组织找到工作。积累经验后，可晋升为首席研究员、团队负责人或技术总监。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular data collection and report writing
-- Simple statistical analysis
-- Operate some monitoring systems
+- 定期数据收集和报告撰写
+- 简单统计分析
+- 操作一些监控系统
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Contamination Distribution Predictive Modeling
-- Large-scale data analysis
-- Remote monitoring system
+- 污染分布预测建模
+- 大规模数据分析
+- 远程监控系统
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site investigation and sampling judgment
-- Regulatory interpretation and legal decisions
-- Development of Complex Pollution Remediation Technology
+- 现场调查与采样判断
+- 法规解释与法律裁决
+- 复杂污染修复技术的开发
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Environmental Modeling Software
-- GIS (Geographic Information System)
-- Statistical Analysis (R/Python)
-- Drone Operation
+- 环境建模软件
+- GIS（地理信息系统）
+- 统计分析（R/Python）
+- 无人机操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Soil Remediation
-- Environmental Impact Assessment
-- Groundwater Pollution
-- Smart Environmental Monitoring
+- 土壤修复
+- 环境影响评估
+- 地下水污染
+- 智能环境监测
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Able to perform soil environment-related research and technical work as environmental specialist. Must meet degree and experience requirements. |
-| Subclass D-10 (Job Seeking) | Job-seeking visa. Holders of bachelor's degree or higher can stay for employment purposes; later eligible for E-7 conversion. |
-| Subclass F-2 (Residence) | Residence visa. Allows long-term stay and free job-seeking. Prerequisite for permanent residence. |
-| Subclass F-5 (Permanent Residence) | Permanent residence status. No restrictions on stay or employment. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Persons with strong interest in environmental protection and perseverance in acquiring soil/geological knowledge
-- Persons able to perform both field surveys and laboratory analyses
-- Persons with meticulous nature in applying regulations and technical standards
+- 对环境保护有强烈兴趣并坚持获取土壤/地质知识的人
+- 能够同时进行实地调查和实验室分析的人员
+- 在应用法规和技术标准方面一丝不苟的人
 
 **谁不适合**
-- People who prefer practical work over theory
-- People who want office regular job
+- 偏好实践而非理论的人
+- 想要办公室常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a soil environment technician?**
-答：Entry level: KRW 30-35 million, mid-level: KRW 40-55 million, senior level: KRW 60-80 million. Varies by degree and certification.
+**问：土壤环境技术员的平均年薪是多少？**
+答：入门级：KRW 30-35 million，中级：KRW 40-55 million，高级：KRW 60-80 million。因学历和证书而异。
 
-**问：What visa is needed for a foreigner to work as a soil environment engineer in Korea?**
-答：We primarily use the E-7 (Specific Activities) visa. A bachelor's degree (environment-related) and relevant experience are required; during job-seeking, you can stay on a D-10 visa and then switch to E-7.
+**问：外国人在韩国从事土壤环境工程师工作需要什么签证？**
+答：我们主要使用E-7（特定活动）签证。需要学士学位（环境相关）和相关经验；求职期间可持D-10签证，然后转为E-7。
 
-**问：What are the main fields of work for soil environmental engineers?**
-答：Environmental consulting firms, pollution cleanup companies, government-affiliated research institutes, university labs, and the Ministry of Environment and local government departments.
+**问：土壤环境工程师的主要工作领域有哪些？**
+答：环境咨询公司、污染清理公司、政府附属研究机构、大学实验室以及环境部和地方政府部门。
 
 
 ---
@@ -145,12 +137,12 @@ Typically, those with master's or doctoral degrees find employment at research i
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/soil-environment-engineers-and-researchers/KR)**

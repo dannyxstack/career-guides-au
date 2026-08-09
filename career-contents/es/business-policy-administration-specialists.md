@@ -53,8 +53,6 @@ Analyze corporate policies, develop management strategies, and optimize organiza
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Promotion path: Junior Analyst → Policy Specialist → Manager → Director of Policy. Holding an MBA or a related master's degree helps you advance to management positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Promotion path: Junior Analyst → Policy Specialist → Manager → Director of
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for those with higher education (bachelor's degree or above) and a work contract, with an annual salary threshold of about 33,908 euros (2024). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For executives or highly skilled talent, requires work contract, annual salary threshold approx €40,000. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires enterprise sponsorship and requires contracts and academic qualifications. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Analytical skills, strategic thinking, communication skills, English, and pro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-policy-administration-specialists/ES)**

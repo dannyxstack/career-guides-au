@@ -54,8 +54,6 @@ Evaluate, design, and implement exercise programs to improve cardiorespiratory f
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of exercise physiologists has mixed prospects: AI can automate data analysis and report generation, but core assessment, intervention design, and patient guidance heavily rely on human judgment and interaction. Entry-level positions face increased competition due to AI tools, but senior roles see growing demand due to efficiency gains from AI assistance.
-
 Beginners usually work as assistants, can advance to senior exercise physiologist or department head with experience, or move into research, teaching, or private practice.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Beginners usually work as assistants, can advance to senior exercise physiologis
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Bachelor's degree or less, requires PERM, long wait times. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove they cannot find U.S. workers; the process takes about 1.5-2 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: May transition to rehabilitation management, fitness coach training, sports s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/exercise-physiologists/US)**

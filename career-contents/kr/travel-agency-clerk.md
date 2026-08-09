@@ -4,8 +4,6 @@
 
 A professional who plans/sells travel products and books/adjusts flights, accommodations, and itineraries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who plans/sells travel products and books/adjusts flights, accomm
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-Online booking systems and AI chatbots are rapidly replacing travel consultation and booking tasks, significantly reducing jobs.
-
 Promotion typically starts from office assistant to product planning, team leader, and branch manager; foreign language skills and computer system proficiency are key.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Promotion typically starts from office assistant to product planning, team leade
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Experienced travel agency clerks may work under E-7 visa but limited |
-| Subclass F-2 (F-2-99 (Residence)) | Possible for long-term stay with point system, but travel agent gets low points |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: Extremely limited under E-7 visa; requires high skills and advanced foreign l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-agency-clerk/KR)**

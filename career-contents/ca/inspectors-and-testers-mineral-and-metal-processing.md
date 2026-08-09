@@ -52,8 +52,6 @@ Responsible for inspecting products, materials, and equipment during mineral and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Mineral and metal processing inspectors and testers face high automation risk; AI vision and sensors will take over most repetitive quality inspection tasks, but complex interpretation and anomaly handling still require human judgment. Entry-level positions are significantly reduced.
-
 Junior inspectors can advance to senior inspectors or quality supervisors through experience, and some can transition to quality control engineer or production management roles. Further study and certification support career development.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior inspectors can advance to senior inspectors or quality supervisors throug
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Some inspection tasks can be replaced by automated vision systems, but comple
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inspectors-and-testers-mineral-and-metal-processing/CA)**

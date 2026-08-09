@@ -52,8 +52,6 @@ Beauticians, electrotherapists, and related occupations provide skin care, hair 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
-
 Career progression paths include becoming a senior beautician, store supervisor, or opening a personal salon. Some may transition into the medical aesthetics field.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression paths include becoming a senior beautician, store supervisor,
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Most provinces require a provincial esthetician license; electrology requires
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/estheticians-electrologists-and-related-occupations/CA)**

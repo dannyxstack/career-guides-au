@@ -4,8 +4,6 @@
 
 Install, maintain, and repair electrical systems on construction sites, including wiring, distribution boxes, lighting, and grounding systems, ensuring compliance with safety regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Install, maintain, and repair electrical systems on construction sites, includin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
-
 Starting as a junior electrician, after gaining experience, you can be promoted to foreman or electrical supervisor, and further become an independent contractor or project manager. It can also transition into industrial electrical or renewable energy sectors.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Starting as a junior electrician, after gaining experience, you can be promoted 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish company sponsorship is required, proving that the position cannot be filled locally, and the application process is lengthy |
-| Subclass Tarjeta azul UE (EU Blue Card) | This applies to those with higher education, with a relatively high salary threshold (about 33,000 euros per year), and electricians usually do not meet the requirements |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must prove your financial capability |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Typically, it is necessary to complete two years of FP Grado Medio (secondary
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-electrician/ES)**

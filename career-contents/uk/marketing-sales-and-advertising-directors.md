@@ -52,8 +52,6 @@ Marketing, sales and advertising directors plan, organise and direct advertising
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Usually starts as a marketing, sales, or advertising specialist, advances to manager, and eventually director. An MBA or professional certification can boost competitiveness; cross-industry experience (e.g., FMCG, tech, finance) aids career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as a marketing, sales, or advertising specialist, advances to man
 | Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or leadership in marketing, advertising, or sales; no employer sponsorship required; must be assessed by relevant recognised authority. |
 | Subclass Scale-up (Scale-up Worker Visa) | For highly skilled talents employed by rapidly growing companies (average annual growth ≥20%), must meet salary requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually start as a marketing specialist or sales representative, then advance
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marketing-sales-and-advertising-directors/UK)**

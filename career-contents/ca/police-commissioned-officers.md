@@ -55,8 +55,6 @@ A Canadian Policing Commission Officer (NOC 40010) leads police teams, develops 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core duties such as policy decision-making, community relations, and accountability for police committee officers are difficult to replace with AI, but tasks like administration, data analysis, and report generation can be automated, resulting in mixed overall impact.
-
 Career progression typically starts from constable, advancing to sergeant, inspector, superintendent and other command positions after years of experience. Promotion assessments are rigorous, requiring written exams, interviews, and assessment center tests. Officers with university degrees, management experience, and specialized training have an advantage.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts from constable, advancing to sergeant, inspe
 | Subclass PNP (Provincial Nominee Program) | Some provinces may have nomination streams for senior management talent, but require employer sponsorship and job offer; competition is fierce. |
 | Subclass EE (Express Entry) | Only possible if the applicant already has Canadian work experience and a job offer, applying through the CEC category, but directly matching this occupation is difficult. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires: Canadian citizenship or permanent residency, post-seconda
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-commissioned-officers/CA)**

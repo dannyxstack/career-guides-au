@@ -4,8 +4,6 @@
 
 Driving a car, taxi, or light van to transport passengers or goods is usually employed by transport companies, taxi companies, or delivery companies. The work includes daily vehicle inspections, route planning, customer service, and safe driving.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Driving a car, taxi, or light van to transport passengers or goods is usually em
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
-
 Career advancement is limited; you can be promoted to fleet supervisor, dispatcher, or operate taxis/minivans independently. You can also transition to truck or bus driver training programs.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career advancement is limited; you can be promoted to fleet supervisor, dispatch
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit - Employed) | Employed work residence requires employer sponsorship and usually requires the Spanish company to prove that suitable candidates cannot be found within the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | Job-seeking residence, allows looking for work in Spain, applicable to high-education or in-demand occupations. However, driver roles are usually not included. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Difficult. Drivers are not considered high-skilled professions and cannot app
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salaried-driver-of-cars-taxis-and-vans/ES)**

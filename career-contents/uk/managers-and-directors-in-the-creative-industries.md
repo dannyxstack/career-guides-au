@@ -52,8 +52,6 @@ Creative Industry Managers and Directors plan, organise, and coordinate activiti
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Creative industry managers and directors' coordination, copywriting, budgeting tasks are easily automated by AI; entry-level positions face increased competition due to the spread of automation tools, mid- to low-level roles are compressed, but strategic decision-making and interpersonal leadership remain core moats.
-
 Usually promoted from positions such as project manager, producer, or creative director. Senior staff can become supervisors or directors, or start their own creative companies. Cross-departmental experience and management skills are crucial for promotion.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually promoted from positions such as project manager, producer, or creative d
 | Subclass Graduate (Graduate visa) | Suitable for graduates who have completed a degree in the UK; can work for 2-3 years before switching to another visa |
 | Subclass Scale-up (Scale-up worker visa) | Applicants suited for management roles in fast-growing companies |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Good prospects, rapid growth in digital media and content production. However
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-and-directors-in-the-creative-industries/UK)**

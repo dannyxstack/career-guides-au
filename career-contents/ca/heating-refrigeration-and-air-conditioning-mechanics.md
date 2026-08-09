@@ -53,8 +53,6 @@ Corresponds to Canadian NOC 72402, responsible for installing, maintaining indus
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of heating, cooling, and refrigeration technicians is affected by AI/automation with mixed results: remote monitoring and diagnosis will replace some inspection tasks, but hands-on installation and repair demand remains solid, and AI tools enhance energy efficiency analysis.
-
 Start as an apprentice (approx. 4 years), obtain provincial Red Seal certification to advance to foreman or project manager; also may specialize in large-scale refrigeration or heat pump systems, or start own business. Experienced workers can transition into energy management or engineering supervision.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an apprentice (approx. 4 years), obtain provincial Red Seal certificati
 | Subclass PNP (Provincial Nominee Program) | Provincial skilled migration (e.g., Ontario In-Demand Skills Stream, BC Skilled Migration), can apply without employer sponsorship |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Recommended if planning to work in another province; some provinces require m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heating-refrigeration-and-air-conditioning-mechanics/CA)**

@@ -55,8 +55,6 @@ Directly supervise and coordinate the activities of recreation and entertainment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Entertainment and recreation supervisors face risk of AI automating some administrative scheduling tasks, but core duties like interpersonal coordination, emergency handling, and technical supervision are hard to replace. Meanwhile, AI tools can improve operational efficiency and service personalization, overall mixed.
-
 Career paths typically start as entertainment or recreation workers, advance to department supervisors, then progress to regional managers or operations directors. Requires accumulating experience in customer service, personnel management, and budget control.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career paths typically start as entertainment or recreation workers, advance to 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Usually a high school diploma is sufficient, but many employers prefer an ass
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-entertainment-and-recreation-workers-except-gambling-services/US)**

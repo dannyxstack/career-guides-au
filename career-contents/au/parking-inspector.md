@@ -54,8 +54,6 @@ Parking enforcement officers enforce parking regulations, patrol streets and par
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce parking inspector positions; automatic license plate recognition, mobile payments, and smart surveillance can already replace most on-site inspections and ticket issuance, leading to decreased demand.
-
 Junior parking inspectors can advance to senior inspector or supervisor, responsible for training new staff and allocating resources. Some transition to traffic management, community safety, or local government administration roles. Requires accumulation of enforcement experience and communication skills.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior parking inspectors can advance to senior inspector or supervisor, respons
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Career prospects are stable but limited. Advancement to parking management su
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-inspector/AU)**

@@ -51,8 +51,6 @@ Works in a timber mill on sawing, planing, joining, packaging, etc., operating w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Wood and wood products factory worker positions have high automation risk; AI and robots will gradually replace repetitive tasks like assembly line operations and quality inspection, reducing demand for entry-level roles.
-
 Entry-level positions can advance to machine operator, production supervisor, or quality inspector through internal training. Some experienced workers can transition to higher-skilled occupations such as carpentry or joinery.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level positions can advance to machine operator, production supervisor, or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Limited. Can advance to machine operator, team leader, or quality inspector, 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-and-wood-products-factory-worker/AU)**

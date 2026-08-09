@@ -54,8 +54,6 @@ Lead elite teams in unconventional combat missions, including raids, reconnaissa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI does not replace special forces officers but amplifies their intelligence analysis, mission planning, and communication coordination capabilities, but physical combat and leadership decisions remain irreplaceable.
-
 Career progression: Second Lieutenant → Lieutenant → Captain → Major → Lieutenant Colonel → Colonel; can serve as special forces detachment commander, battalion staff, or joint special operations command positions.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression: Second Lieutenant → Lieutenant → Captain → Major → L
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost impossible. This occupation is limited to US citizens and requires pas
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-forces-officers/US)**

@@ -53,8 +53,6 @@ Check guests in and out of hotels, motels, and resorts, assign rooms, handle res
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will streamline repetitive tasks (e.g., booking, check-in), but enhance customer service and personalization—job transformation, not elimination.
-
 Front desk receptionists can advance to front desk supervisor, guest service manager, or hotel operations manager. With experience, they can move into management roles at resorts or hotel chains.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Front desk receptionists can advance to front desk supervisor, guest service man
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Only for seasonal hotels, employers must prove labor shortage, limited places |
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation does not require a professional degree. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: After gaining experience, you can advance to front desk supervisor, guest rel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-motel-and-resort-desk-clerks/US)**

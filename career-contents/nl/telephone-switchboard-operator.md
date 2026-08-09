@@ -4,8 +4,6 @@
 
 Responsible for answering and transferring calls, handling internal and external call requests, and providing basic customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for answering and transferring calls, handling internal and external
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Telephone switchboard operators face high automation risk in the Netherlands; AI voice recognition and virtual assistants will largely replace human operators, with demand expected to shrink significantly.
-
 Can transition to roles such as customer service representative, administrative assistant, or call center supervisor.
 
 **Tasks most exposed to AI:**
@@ -96,16 +92,9 @@ Can transition to roles such as customer service representative, administrative 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled employees, but this occupation usually does not meet the salary threshold. |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated from the Netherlands, allowing free work for one year. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: This occupation typically does not meet the high-skilled immigration salary t
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-switchboard-operator/NL)**

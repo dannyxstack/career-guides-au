@@ -53,8 +53,6 @@ Responsible for installing, operating, maintaining, and troubleshooting audio an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly optimise audio-video editing and standardised colour grading, lowering entry barriers, but on-site equipment operation, multi-camera coordination and artistic creative control remain human advantages, resulting in mixed impact on jobs.
-
 Can advance from junior technician to senior technician or team leader, or specialize in areas like 3D audio and VR production. Experienced individuals can move into management or start their own business. Continuous learning of new technologies is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior technician to senior technician or team leader, or speci
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can progress from junior technician to senior technician, team supervisor, or
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sound-and-image-technician/DE)**

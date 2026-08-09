@@ -4,8 +4,6 @@
 
 Specializing in cleaning and maintenance of exterior walls, chimneys, and industrial facilities of high-rise buildings, using high-pressure water guns, chemicals, and aerial work equipment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Specializing in cleaning and maintenance of exterior walls, chimneys, and indust
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not directly replace high-altitude work, but will use intelligent dispatch, automated inspection tools, and remote monitoring systems to compress the demand for low-skilled cleaners, retaining only high-value positions such as complex facade maintenance.
-
 You can be promoted from assistant to team leader or independent contractor, or transition to building maintenance or specialized cleaning.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted from assistant to team leader or independent contractor, or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-sponsored)) | A Spanish employer sponsor is required, proving that there is no suitable local labor force, and foreign workers must meet the requirements for a shortage occupation |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find work, but you must provide proof of funds |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: No university degree certification is required, but a certificate in aerial w
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-facade-and-chimney-cleaner/ES)**

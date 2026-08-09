@@ -4,8 +4,6 @@
 
 Engages in the cultivation, harvesting, and daily management of aquatic organisms such as fish and shellfish, including feeding, water quality monitoring, disease control, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engages in the cultivation, harvesting, and daily management of aquatic organism
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aquaculture workers face a mix of automation reduction and AI augmentation: repetitive tasks like feeding and monitoring will be replaced, but complex decisions such as disease diagnosis and environmental control still require human experience, leading to increased competition for entry-level positions.
-
 Can advance from entry-level worker to senior aquaculture technician or farm supervisor, or transition to roles such as quality control, aquatic technology extension, etc.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Can advance from entry-level worker to senior aquaculture technician or farm sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers; requires employer to apply for a quota, with an annual cap. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but aquaculture workers usually do not meet the salary threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Primarily available via the Decreto Flussi seasonal work visa, requiring empl
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-worker/IT)**

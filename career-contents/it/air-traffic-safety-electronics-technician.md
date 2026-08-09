@@ -4,8 +4,6 @@
 
 Responsible for installing, maintaining, and repairing electronic equipment for air traffic control systems, ensuring flight safety, including radar, navigation, and communication systems.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for installing, maintaining, and repairing electronic equipment for 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Can advance from junior technician to senior technician or technical supervisor, or move into avionics engineering or air traffic control system management.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can advance from junior technician to senior technician or technical supervisor,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to high-skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately €28,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-high-skilled positions, requires employer sponsorship, no education requirements, but quota competition is fierce. |
-| Subclass Work Permit (Nulla Osta al Lavoro) | Employer applies to immigration authorities, proving no local candidate available, can transfer to work and residence permit. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Usually requires high school graduation plus 3 years of vocational training, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-safety-electronics-technician/IT)**

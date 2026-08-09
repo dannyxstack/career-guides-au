@@ -51,8 +51,6 @@ Management consultants provide strategic, operational, and digital transformatio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Management consultants and business analysts face a mixed impact from AI: tasks like data analysis and report generation will be automated, but core value such as strategic advice and client communication still rely on human judgment.
-
 Junior consultants can advance to senior consultant, manager, or partner. They can also transition to in-house strategy departments or entrepreneurship. Obtaining Certified Management Consultant (CMC) certification enhances career prospects.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior consultants can advance to senior consultant, manager, or partner. They c
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs (e.g., Ontario, BC, Alberta) can add 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for employer sponsorship |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but Certified Management Consultant (CMC) certification can in
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultants-and-business-analysts/CA)**

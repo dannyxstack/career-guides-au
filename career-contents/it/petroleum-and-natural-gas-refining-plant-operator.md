@@ -4,8 +4,6 @@
 
 Responsible for monitoring and controlling oil and gas refining processes to ensure safe and efficient operation, including unit operations such as distillation, cracking, and catalytic reforming.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for monitoring and controlling oil and gas refining processes to ens
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The task structure for petroleum and natural gas refining operators faces mixed impacts from AI: process monitoring and parameter optimization will be taken over by AI, but unstructured troubleshooting and on-site safety monitoring still require human experience and judgment.
-
 Can advance from operator to senior operator, team leader or process engineer by gaining experience and obtaining professional qualifications.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Can advance from operator to senior operator, team leader or process engineer by
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract and an annual salary no less than the EU Blue Card threshold (approximately €33,000 in Italy for 2024) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens; employers need to apply for quotas, typically for occupations in shortage. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Available via EU Blue Card (requires high-salary contract) or Decreto Flussi 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-and-natural-gas-refining-plant-operator/IT)**

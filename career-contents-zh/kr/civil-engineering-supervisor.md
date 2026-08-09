@@ -1,10 +1,8 @@
-# Civil Engineering Supervisor 职业分析 · 韩国
+# 土木工程监理（Civil Engineering Supervisor）职业分析 · 韩国
 
-**职业代码: 14034 (KECO)**
+**职业代码：14034 (KECO)**
 
-A professional engineer who supervises and reviews whether the design and construction of civil engineering works comply with design documents and relevant laws, and manages quality and safety.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+监督和审查土木工程设计施工是否符合设计文件和相关法律，并管理质量和安全的专业工程师。
 
 
 ---
@@ -13,8 +11,8 @@ A professional engineer who supervises and reviews whether the design and constr
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (civil engineering or architecture related) | 2 年 | $8,000,000~$12,000,000（Based on tuition） |
-| Bachelor's degree (civil engineering, etc.) | 4年 | $18,000,000~$28,000,000（Based on tuition） |
+| 副学士学位（土木工程或建筑相关） | 2 年 | $8,000,000~$12,000,000（按学费计费） |
+| 学士学位（土木工程等） | 4年 | $18,000,000~$28,000,000（按学费计费） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional engineer who supervises and reviews whether the design and constr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Safety (Industrial) Engineer | Human Resources Development Service of Korea | 必备 | Essential for supervision work |
-| Architecture and Civil Engineering Supervision Training Completion | Institution designated by the Ministry of Land, Infrastructure and Transport | 必备 | Mandatory training for deployment of supervisors |
-| Civil (Structural) Engineer | Human Resources Development Service of Korea | 可选 | Recognized as technical qualification |
+| 建筑安全（工业）工程师 | 韩国人力资源开发服务局 | 必备 | 监督工作必需 |
+| 建筑与土木工程监督培训结业 | 国土交通部指定机构 | 必备 | 主管部署的强制性培训 |
+| 土木（结构）工程师 | 韩国人力资源开发服务局 | 可选 | 被认可为技术资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 25,000. Due to reduced SOC investment, new orders are decreasing, but employment is expected to be maintained by demand for aging infrastructure maintenance and safety diagnosis.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 25,000。由于社会投资减少，新订单正在下降，但老化基础设施维护和安全诊断的需求预计将维持就业。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,68 +39,60 @@ A professional engineer who supervises and reviews whether the design and constr
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$40,000,000 | For new hires |
-| 中级（4-9年） | $40,000,000~$55,000,000 | 5 years of experience |
-| 资深（10年以上） | $55,000,000~$80,000,000 | Senior supervisor level |
+| 初级 (0-3年) | $30,000,000~$40,000,000 | 针对新员工 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 5年经验 |
+| 资深（10年以上） | $55,000,000~$80,000,000 | 高级主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates simple tasks like reviewing supervision documents and analyzing safety inspection data, reducing routine work. However, on-site judgment and legal responsibility must be performed by humans, so the job is not fully replaced.
+AI自动化了审阅监管文件和分析安全检测数据等简单任务，减少了日常工作量。然而，现场判断和法律责任必须由人类执行，因此工作未被完全替代。
 
-Promotion from junior supervisor → intermediate supervisor → senior supervisor → head of supervision office, with experience and certifications (e.g., Construction Safety Engineer) being important.
+从初级主管→中级主管→高级主管→监督办公室主任晋升，经验和证书（例如建筑安全工程师）很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Review of Design Documents
-- Daily Safety Inspection Record Keeping
+- 设计文件简单审查
+- 日常安全检查记录保存
 - Automation of Progress Payment Calculation
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- On-site Safety Risk Prediction
-- Real-time Quality Data Analysis
-- Automatic Generation of Supervision Reports
+- 现场安全风险预测
+- 实时质量数据分析
+- 自动生成监督报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuition and Experience in On-site Situations
-- Final Judgment Involving Legal Responsibility
-- Stakeholder Coordination Skills
+- 现场情况的直觉与经验
+- 涉及法律责任的最终判决
+- 利益相关方协调技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI Supervision Tools
-- Data Analysis
-- BIM-based Supervision
-- Risk Management
+- 利用AI监督工具
+- 数据分析
+- 基于BIM的监理
+- 风险管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Construction
-- Enhanced Safety Management
-- Aging Infrastructure Maintenance
-- Supervisory Expertise
+- 智能建造
+- 强化安全管理
+- 老旧基础设施维护
+- 监督专长
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to foreigners with specialized knowledge/skills, construction companies can invite |
-| Subclass D-10 (Job Seeking) | Holders of relevant degrees can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Long-term stay possible with points-based permanent residency |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -110,25 +100,25 @@ Promotion from junior supervisor → intermediate supervisor → senior supervis
 
 **谁适合**
 - 注重细节和分析能力的人
-- Person who can handle both field and administrative tasks
-- Person sensitive to safety and regulations
+- 能兼顾现场和行政任务的人
+- 对安全和法规敏感的人
 
 **谁不适合**
-- Person who dislikes repetitive paperwork
-- Person uncomfortable with field movement
+- 不喜欢重复性文书工作的人
+- 不适应现场流动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual salary for a civil engineering supervisor?**
-答：Entry-level about 30–40 million KRW, mid-level 40–55 million KRW, senior 55–80 million KRW, additional allowances may apply for large projects.
+**问：土木工程监理主管的年薪是多少？**
+答：入门级约3000-4000万韩元，中级4000-5500万韩元，高级5500-8000万韩元，大型项目可能有额外津贴。
 
-**问：What visa does a foreigner need to work as a civil engineering supervisor?**
-答：E-7 (Specific Activities) visa is common and requires a technical certification from the Ministry of Land, Infrastructure and Transport and a sponsoring company. F-2 (Residence) visa also allows for work.
+**问：外国人担任土木工程监理需要什么签证？**
+答：E-7（特定活动）签证常见，需取得国土交通部技术认证并有担保公司；F-2（居住）签证也可工作。
 
-**问：What is the outlook for this occupation?**
-答：Although new SOC orders are decreasing, steady jobs are expected due to maintenance and safety management demands for existing infrastructure. Acquiring digital skills like smart construction is advantageous.
+**问：该职业的前景如何？**
+答：虽然新的SOC订单在减少，但现有基础设施的维护和安全管理需求预计将带来稳定的工作。掌握智能建造等数字技能将具有优势。
 
 
 ---
@@ -146,12 +136,12 @@ Promotion from junior supervisor → intermediate supervisor → senior supervis
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-engineering-supervisor/KR)**

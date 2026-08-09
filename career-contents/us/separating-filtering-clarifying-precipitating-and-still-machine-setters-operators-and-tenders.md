@@ -53,8 +53,6 @@ Set up, operate, or monitor continuous flow or tank equipment, such as filters, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation consists of many repetitive physical operations; AI and automation will quickly replace process control in filtration, centrifugation, distillation, etc. Entry-level positions will shrink significantly, leaving only a few roles requiring complex troubleshooting and supervision.
-
 Usually start as operators, and with experience can advance to senior operator or supervisor. Some transition through training to maintenance technician or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually start as operators, and with experience can advance to senior operator o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Very difficult. This occupation usually does not meet H-1B specialty occupati
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/separating-filtering-clarifying-precipitating-and-still-machine-setters-operators-and-tenders/US)**

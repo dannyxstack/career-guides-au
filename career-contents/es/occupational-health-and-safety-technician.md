@@ -52,8 +52,6 @@ Responsible for identifying, assessing, and controlling workplace risks in enter
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance environmental monitoring and data analysis capabilities, but on-site inspections and regulatory decisions still rely on human experience, making overall job risks controllable and demand stable.
-
 You can be promoted from junior technician to senior technician or safety coordinator, or transition to environmental health management or safety auditing. Through continuing education, you can become a corporate safety officer.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from junior technician to senior technician or safety coordi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals requiring a university degree or equivalent experience, with annual salary at least 1.5 times the Spanish average wage (approx. €34,000). |
-| Subclass Cuenta ajena (Work Permit (employed)) | Ordinary work residence, sponsored by a Spanish employer, requires proof that the position cannot be filled by a local resident. |
-| Subclass Busqueda empleo (Job Search Visa) | Allows stay in Spain for up to 6 months to seek employment, requires proof of financial means. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You must hold the Occupational Risk Prevention Technician certification (obta
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-health-and-safety-technician/ES)**

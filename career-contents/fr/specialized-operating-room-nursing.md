@@ -4,8 +4,6 @@
 
 Professional nurses in the operating room assist surgeons during the procedure, manage the sterile environment, prepare instruments, and monitor patients' vital signs. This profession requires a high degree of precision, stress tolerance, and teamwork, making it a core member of the surgical medical team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Professional nurses in the operating room assist surgeons during the procedure, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Career development paths include: junior operating room nurse → senior operating room nurse→ operating room coordinator→ nursing management roles (such as operating room supervisors) or senior specialist practice nurses. It can also shift to device management, infection control, or clinical teaching.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Career development paths include: junior operating room nurse → senior operati
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employed Work Residence) (Salarié) | Must be sponsored by a French hospital employer, have a work contract of at least one year, and pass the review by the Labor Bureau |
-| Subclass Talent Passport (Passeport Talent - Salarié) | For highly skilled talent, employer sponsorship is required, and the process is simplified |
-| Subclass Carte bleue européen (Carte Bleue Européenne) | The annual salary must exceed the French average wage by 1.5 times (about €53k), and operating room nurses usually do not meet the standard |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: You must first obtain the French National Diploma in Nursing (DEI, 3 years), 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-operating-room-nursing/FR)**

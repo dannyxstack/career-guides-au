@@ -1,10 +1,8 @@
-# Psychiatrist 职业分析 · 韩国
+# 精神科医生（Psychiatrist）职业分析 · 韩国
 
-**职业代码: 30117 (KECO)**
+**职业代码：30117 (KECO)**
 
-A doctor who diagnoses mental health disorders and provides medication treatment and psychotherapy.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+诊断心理健康障碍并提供药物治疗和心理治疗的精神科医生。
 
 
 ---
@@ -13,9 +11,9 @@ A doctor who diagnoses mental health disorders and provides medication treatment
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Pre-med | 2 年 | $20,000,000~$30,000,000（每年学费） |
-| Medical school | 4年 | $20,000,000~$30,000,000（每年学费） |
-| Internship and residency | 4年 | $0~$0（Salary paid during training period） |
+| 医学预科 | 2 年 | $20,000,000~$30,000,000（每年学费） |
+| 医学院 | 4年 | $20,000,000~$30,000,000（每年学费） |
+| 实习和住院培训 | 4年 | $0~$0（培训期间支付工资） |
 
 ---
 
@@ -23,17 +21,17 @@ A doctor who diagnoses mental health disorders and provides medication treatment
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical license | Ministry of Health and Welfare | 必备 | Pass national exam after graduating from medical school |
-| Mental health specialist | Korean Medical Association | 必备 | Pass specialist exam after training |
+| 医疗执照 | 保健福祉部 | 必备 | 医学院毕业后通过国家考试 |
+| 心理健康专家 | 韩国医学会 | 必备 | 培训后通过专业考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 6,000. Continuous employment growth is expected due to improved awareness of mental health and increased demand in Korean society, especially with the expansion of public mental health services.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 6,000。随着心理健康意识的提高和韩国社会需求的增加，尤其是公共心理健康服务的扩展，预计就业将持续增长。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,89 +39,81 @@ A doctor who diagnoses mental health disorders and provides medication treatment
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (resident) | $40,000,000~$60,000,000 | Varies by training hospital |
-| Mid-level (5th year specialist) | $80,000,000~$99,999,999 | Hospital employment |
-| Senior (20+ years/private practitioner) | $99,999,999 | Upon successful private clinic |
+| 初级（住院医生） | $40,000,000~$60,000,000 | 因培训医院而异 |
+| 中级（第5年专家） | $80,000,000~$99,999,999 | 医院就业 |
+| 资深（20年以上/私人执业） | $99,999,999 | 成功创办私人诊所后 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists psychiatrists in diagnosis, counseling record analysis, etc., but it is difficult to replace human empathy and therapeutic relationships. AI is expected to improve work efficiency.
+AI辅助精神科医生进行诊断、咨询记录分析等，但难以取代人类的同理心和治疗关系。AI有望提高工作效率。
 
-General doctor → Resident (intern/resident 4 years) → Mental health specialist → Private practice/professor/researcher. Career built at university hospitals or private clinics.
+普通医生 → 住院医师（实习/住院4年） → 精神健康专家 → 私人执业/教授/研究员。在大学医院或私人诊所建立职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Organizing basic counseling records
-- Simple symptom classification
+- 组织基本咨询记录
+- 简单症状分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Using AI for diagnostic assistance
-- Patient data analysis
-- Optimizing treatment plans
+- 利用人工智能进行诊断辅助
+- 患者数据分析
+- 优化治疗方案
 
-**人类护城河:**
+**人类护城河：**
 
-- Building therapeutic relationships
-- Empathy
-- Ethical judgment
+- 建立治疗关系
+- 同理心
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI diagnostic tools
-- Data literacy
-- Telemedicine technology
+- 理解人工智能诊断工具
+- 数据素养
+- 远程医疗技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increased mental health awareness
-- Aging society
-- Post-traumatic stress
-- Workplace depression
+- 心理健康意识提升
+- 老龄化社会
+- 创伤后应激
+- 职场抑郁
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | As a specialized medical professional, can work at domestic hospitals. Requires Korean medical license and employer. |
-| Subclass F-2 (Residence Visa) | Long-term stay possible. No work permit required. |
-| Subclass F-5 (Permanent Residence Visa) | Permanent resident. No employment restrictions. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with high empathy
-- People skilled in stress management
-- People open to lifelong learning
+- 高共情能力的人
+- 擅长压力管理的人
+- 乐于终身学习的人
 
 **谁不适合**
-- People vulnerable to emotional exhaustion
-- People who dislike rapidly changing schedules
+- 易受情绪耗竭影响的人
+- 不喜欢频繁变动日程的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a psychiatrist's annual salary?**
-答：Resident starting approx. 40-60 million KRW, specialist with 5 years experience 80-150 million KRW, private practitioner up to 300 million KRW.
+**问：心理医生年薪多少？**
+答：住院医师起薪约4000-6000万韩元，5年经验专科医师8000万-1.5亿韩元，私人执业者可达3亿韩元。
 
-**问：Can foreigners work as psychiatrists in Korea?**
-答：Possible, but obtaining a Korean medical license is mandatory, and an E-7 visa or permanent residency is required. The national medical exam is conducted in Korean, posing a high language barrier.
+**问：外国人能在韩国当精神科医生吗？**
+答：可能，但必须取得韩国行医执照，并持有E-7签证或永久居留权。国家医学考试使用韩语，语言障碍大。
 
 
 ---
@@ -141,12 +131,12 @@ General doctor → Resident (intern/resident 4 years) → Mental health speciali
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/psychiatrist/KR)**

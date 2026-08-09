@@ -51,8 +51,6 @@ Responsible for deck duties and the operation and maintenance of machinery inclu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The outlook for water transport operators is mixed: automated navigation and remote monitoring technology are reducing some deck and engine roles, but complex shipping regulations and unexpected situations maintain the need for human judgment, while AI-assisted systems can enhance navigation safety and cargo management efficiency.
-
 Can advance from ordinary seaman to senior seaman, boatswain, or engineer; by obtaining maritime certificates, can become captain or chief engineer.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from ordinary seaman to senior seaman, boatswain, or engineer; by ob
 | Subclass Skilled Worker (Skilled Worker visa) | Applicable to positions such as marine engineer and captain with employer sponsorship; must meet salary threshold and English requirements |
 | Subclass Graduate (Graduate visa) | Applicable to graduates of UK university maritime-related programs, allowing them to work in the UK for 2-3 years |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply for Skilled Worker visa, need job offer as marine engineer or capta
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-and-waterways-transport-operatives/UK)**

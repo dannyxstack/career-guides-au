@@ -54,8 +54,6 @@ Occupations involved in catching, farming, and processing aquatic products, incl
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on fishing careers is mixed: data monitoring and aquaculture management are enhanced, but fishing and primary processing face automation; entry-level positions are narrowing due to rising technical requirements.
-
 Career progression: from ordinary fisher to fishing boat captain or farm manager, requiring experience and relevant licences (e.g., captain's licence). Can transition to fisheries management or technical sales.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression: from ordinary fisher to fishing boat captain or farm manager
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically completed through 3-year dual training, working at a fishing compan
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fisher/DE)**

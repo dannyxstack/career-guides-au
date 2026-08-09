@@ -54,8 +54,6 @@ Responsible for installing, repairing, and replacing parts in cars, trucks, and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Start as an apprentice or parts fitter, gain experience to become a senior technician or foreman, specialize in heavy equipment repair, move into management, or start a repair shop.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as an apprentice or parts fitter, gain experience to become a senior techn
 | Subclass PNP (Provincial Nominee Program) | Several provinces (e.g., Alberta, British Columbia) have provincial nominee programs for trades occupations, offering fast-track permanent residency. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA-supported work visa, then accumulate experience before applying for permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Red Seal is a cross-province certification, not mandatory but very helpful. E
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-and-heavy-truck-and-equipment-parts-installers-and-servicers/CA)**

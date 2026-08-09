@@ -51,8 +51,6 @@ Traffic management clerks are responsible for organizing, coordinating, and hand
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Many clerical and scheduling tasks of transport clerks will be automated by AI, but tasks requiring human coordination and exception handling will be augmented. Overall job numbers may decrease, but demand for advanced skills increases.
-
 Starting as a junior clerk, can advance to transport supervisor, logistics manager, or supply chain specialist. Further training (e.g., IHK certification) can broaden career development paths.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Starting as a junior clerk, can advance to transport supervisor, logistics manag
 | Subclass Skilled Worker (Skilled Immigration Act) | Suitable for dual-system graduates with professional qualification certification |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeker visa based on a points system |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can apply through Blue Card (bachelor's degree + work contract), Skilled Migr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-management-clerk/DE)**

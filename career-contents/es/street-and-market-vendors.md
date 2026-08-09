@@ -4,8 +4,6 @@
 
 Sell various goods at temporary markets or street stalls, including food, clothing, handicrafts, and more. Flexible work but unstable income, mostly self-employed or short-term employment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Sell various goods at temporary markets or street stalls, including food, clothi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of street and market vendors heavily depends on interpersonal interaction and physical environments. AI is difficult to fully replace, but payments, inventory management, and marketing will gradually be automated, with unstable and low income barriers, requiring proactive adoption of tools to enhance competitiveness.
-
 Practitioners usually start as assistants and, after gaining experience, can run their own stalls or be promoted to market managers. Some people have shifted to online sales combined with street vending, or expanded to become small wholesalers. There is no formal promotion ladder, and income is strongly tied to personal management ability.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Practitioners usually start as assistants and, after gaining experience, can run
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | In rare cases, the employer must prove inability to hire locally, typically not applicable to such unskilled positions |
-| Subclass Cuenta propia (Self-Employment Visa) | Self-employed vendors can apply, but must submit a business plan and demonstrate financial capability, with relatively high entry requirements |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: You must first obtain legal Spanish residency (such as student residence, fam
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-and-market-vendors/ES)**

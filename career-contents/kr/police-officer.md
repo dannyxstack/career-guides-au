@@ -4,8 +4,6 @@
 
 A police officer is a public official who protects citizens' lives and property, and prevents and investigates crimes to maintain social order.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A police officer is a public official who protects citizens' lives and property,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can replace some tasks like CCTV analysis and crime pattern prediction, but human judgment in field response and investigative discretion remains, limiting overall employment impact.
-
 After appointment as a police officer, promotions to sergeant, inspector, superintendent, etc. occur through exams and performance evaluations.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ After appointment as a police officer, promotions to sergeant, inspector, superi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | As a preliminary stage to permanent residency, employment as a police officer is practically impossible |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: Recently, the average competition rate for the constable recruitment exam is 
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officer/KR)**

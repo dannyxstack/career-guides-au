@@ -54,8 +54,6 @@ Senior government managers and officials hold leadership roles in Canadian feder
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core strategic decisions and personnel leadership of this occupation are hard to replace by AI, but many administrative, intelligence analysis, training management tasks will be significantly automated, with talent demand concentrated among fewer senior roles.
-
 Career progression usually starts from junior policy analyst or administrative officer, gradually advancing to department head, assistant deputy secretary, and eventually deputy secretary or cabinet minister. Political appointees may come from members of parliament or party staff.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression usually starts from junior policy analyst or administrative o
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Opportunities are minimal; these positions typically require Canadian citizen
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-government-managers-and-officials-00011/CA)**

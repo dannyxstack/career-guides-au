@@ -53,8 +53,6 @@ Metal engineering process workers operate and monitor metal processing equipment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Tasks of metal engineering process workers can be significantly replaced by AI and automation, especially quality monitoring and process optimization, but physical operations and fault handling still require humans.
-
 Can advance from entry-level operator to senior technician, production supervisor, or quality inspector. With experience, may transition to specialized welding, CNC machining, or team management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from entry-level operator to senior technician, production superviso
 | Subclass 482 (Temporary Skill Shortage) | Requires employer sponsorship, but this occupation is typically not on the short-term occupation list, making application difficult. |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Regional state sponsorship, but requires CSOL listing; this occupation is usually not included |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: By obtaining advanced certificates (e.g., Certificate IV) or through apprenti
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-engineering-process-worker/AU)**

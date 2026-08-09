@@ -4,8 +4,6 @@
 
 Home cleaners and helpers are responsible for cleaning, organizing, and daily household tasks in private residences, including cleaning, laundry, and simple cooking. The demand for this occupation is stable in Italy, often under informal employment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Home cleaners and helpers are responsible for cleaning, organizing, and daily ho
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI cannot completely replace physical cleaning labor, but intelligent scheduling and task planning tools will compress low-end positions while enhancing personalized service and efficiency; the career outlook is mixed.
 
 Career progression paths are limited, typically starting as a junior cleaner and advancing to team supervisor or self-employed small cleaning company operator. Some practitioners transition to aged care or hotel cleaning through training.
 
@@ -99,16 +95,9 @@ Career progression paths are limited, typically starting as a junior cleaner and
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU citizens can apply for work visas through annual quotas, but household-related quotas are very limited and competition is fierce. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Very difficult. The Decreto Flussi quota is very small and prioritizes other 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-cleaner-and-helper/IT)**

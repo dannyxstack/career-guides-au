@@ -54,8 +54,6 @@ Manage trust accounts, estate planning, and trust fund operations, ensuring comp
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The work of trust officers is both amplified and compressed by AI: document processing, compliance checks, etc. will be automated, but trust relationship management, complex estate planning and other work requiring high trust and judgment will be enhanced. Entry-level positions may shrink due to automation, but demand for senior experts will increase.
-
 Junior trust assistants can advance to trust officer, senior trust manager, or department head. Holding a CFA or legal qualification can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior trust assistants can advance to trust officer, senior trust manager, or d
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | If employer-sponsored, can transition to permanent residence after 2 years, subject to salary requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Temporary skill shortage visa for accredited employers, can then apply for residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance from assistant to specialist, senior manager, or even department 
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trust-officer/NZ)**

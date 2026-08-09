@@ -55,8 +55,6 @@ Web designers focus on the visual design, user experience and interactive protot
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is automating layout generation and code writing in web design, but because design decisions and user experience insights still require human leadership, the role will not disappear but instead shift towards strategy and creativity.
-
 Australian corporate websites and e-commerce platforms are continuously being upgraded, driving steady demand for web designers. Figma has become the undisputed industry standard for web and product design. AI design tools (Wix ADI/Framer AI) are affecting the low-end website template segment, but custom branded websites and complex UX projects still require professional designers. Accessible design (WCAG 2.1 compliance) has become a mandatory requirement for government and large enterprises.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Australian corporate websites and e-commerce platforms are continuously being up
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Front-end developers earn more ($95k–$130k vs web designers $70k–$90k) an
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer/AU)**

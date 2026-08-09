@@ -52,8 +52,6 @@ Teaches ballet, modern, Latin, hip-hop, etc. at dance studios or private institu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on dance instructors is mixed: choreography and tutorial design can be assisted, but physical guidance, emotional motivation, and personalized corrections still require humans; entry-level roles face increased competition due to the proliferation of online resources.
-
 Progression from junior coach to senior coach, dance director, or self-employed studio owner; some move into choreography or community arts management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progression from junior coach to senior coach, dance director, or self-employed 
 | Subclass EE (Express Entry) | If eligible under another occupation (e.g., NOC 0AB), but dance instructors are typically not in the main EE list; need to combine with PNP. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program requires finding a dance instructor job in a designated province. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: National certification is not necessarily required, but having certification 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/instructors-of-persons-with-disabilities-and-other-instructors/CA)**

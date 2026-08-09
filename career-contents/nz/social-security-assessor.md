@@ -54,8 +54,6 @@ Social security assessors evaluate individual eligibility for social security be
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Compliance officer tasks are polarizing: rule checking and document sorting will be efficiently replaced by AI, but risk judgment and regulatory negotiation skills are amplified by AI. Entry-level competition intensifies, while senior officer value increases
-
 Entry-level roles can start as welfare officers or case workers, progressing to senior assessors or team leaders after gaining experience. You can move into policy analysis, project management, or training roles; some enter private insurance or health sectors, with salary increasing with experience.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level roles can start as welfare officers or case workers, progressing to 
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Usually requires a diploma or bachelor's degree in social sciences, but emplo
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-security-assessor/NZ)**

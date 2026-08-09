@@ -1,8 +1,8 @@
-# Road and Park Cleaner 职业分析 · 日本
+# 道路与公园清洁工（Road and Park Cleaner）职业分析 · 日本
 
-**职业代码: 713 (JSCO)**
+**职业代码：713 (JSCO)**
 
-Work involves cleaning public spaces such as roads and parks to maintain aesthetics and hygiene. Primarily outdoor work, contributing to the upkeep of residents' living environment.
+工作涉及清洁道路、公园等公共场所，以保持美学和卫生。主要为户外工作，有助于维护居民生活环境。
 
 
 ---
@@ -11,8 +11,8 @@ Work involves cleaning public spaces such as roads and parks to maintain aesthet
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 9年 | $0~$0（Free due to public education） |
-| Vocational Training School | 6个月-1年 | $100,000~$300,000（Subsidies available for training by local governments and Hello Work） |
+| 义务教育 | 9年 | $0~$0（公立教育免费） |
+| 职业培训学校 | 6个月-1年 | $100,000~$300,000（地方政府和Hello Work提供培训补贴） |
 
 ---
 
@@ -20,18 +20,18 @@ Work involves cleaning public spaces such as roads and parks to maintain aesthet
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 无需特殊资格 | 无 | 可选 | Work possible even without experience |
-| Ordinary Driver's License | Public Safety Commission | 可选 | Advantageous for operating cleaning vehicles |
-| Construction Cleaning Work Training | Japan Building Cleaning Association | 可选 | Effective for acquiring specialized knowledge |
+| 无需特殊资格 | 无 | 可选 | 无经验也可工作 |
+| 普通驾驶执照 | 公共安全委员会 | 可选 | 有利于操作清洁车辆 |
+| 建筑清洁工作培训 | 日本建筑清洁协会 | 可选 | 对于获取专业知识有效 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Labor shortages due to an aging population persist, with many job openings especially in local governments and contracted companies. Acceptance of foreign workers is expected to increase.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。因人口老龄化导致的劳动力短缺持续存在，尤其在地方政府和承包公司中有大量职位空缺。预计外籍工人的接受度将增加。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,86 +39,80 @@ Work involves cleaning public spaces such as roads and parks to maintain aesthet
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | Many part-time or contract jobs; full-time equivalent |
-| Intermediate Level (4-10 years) | $3,500,000~$4,500,000 | Leader or supervisor class |
-| Advanced Level (11+ years) | $4,500,000~$6,000,000 | Managerial or self-employed |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 许多兼职或合同工作；全职等效 |
+| 中级水平（4-10年） | $3,500,000~$4,500,000 | 领导者或主管级别 |
+| 高级（11年以上） | $4,500,000~$6,000,000 | 管理层或自雇 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although automation with AI and robots is advancing, humans are more suited for work in complex outdoor environments and uneven terrain, making full replacement difficult.
+虽然人工智能和机器人的自动化正在推进，但人类更适合复杂户外环境和不平坦地形的工作，完全替代很困难。
 
-Career paths are limited, but opportunities exist for promotion to leader or site supervisor, or management roles in cleaning contracting companies.
+职业发展途径有限，但有晋升为领班或现场主管，或清洁承包公司管理职位的机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- cleaning fixed routes
-- partial automation of garbage collection
+- 清洁固定路线
+- 垃圾收集的部分自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- monitoring and maintenance of AI-equipped cleaning robots
-- optimization of cleaning plans through data analysis
+- 监控和维护配备AI的清洁机器人
+- 通过数据分析优化清洁计划
 
-**人类护城河:**
+**人类护城河：**
 
-- flexible response
-- handling fine dirt
-- communication with citizens
+- 灵活应对
+- 处理细尘
+- 与市民沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- robot operation skills
-- knowledge of cleaning chemicals
-- site management skills
+- 机器人操作技能
+- 清洁化学品知识
+- 现场管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- aging population
-- public facilities
-- cleaning industry
+- 劳动力短缺
+- 人口老龄化
+- 公共设施
+- 清洁行业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Residence status for building cleaning. Requires passing skills and Japanese language tests. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | Residence status for 3-year skill acquisition; may exclude road/park cleaning. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident
-- Doesn't mind outdoor work
-- Meticulous and follows procedures
+- 身体自信
+- 不介意户外工作
+- 细致且遵循程序
 
 **谁不适合**
-- Not physically confident
-- Dislikes dirt and odors
+- 身体不够自信
+- 不喜欢污垢和异味
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a road/park cleaner?**
-答：Depending on experience and region, entry-level approx. 2.5-3.5 million yen, intermediate 3.5-4.5 million yen.
+**问：道路/公园清洁工的平均年收入是多少？**
+答：根据经验和地区，入门级约250-350万日元，中级350-450万日元。
 
-**问：Can foreigners work as road/park cleaners?**
-答：It falls under Specified Skilled Worker (i) (Building Cleaning) but may exclude road/park cleaning, so check in advance.
+**问：外国人可以做道路/公园清洁工吗？**
+答：属于特定技能工人(i)(建筑物清洁),但可能排除道路/公园清洁,需提前确认。
 
 
 ---
@@ -136,12 +130,12 @@ Career paths are limited, but opportunities exist for promotion to leader or sit
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/road-and-park-cleaner/JP)**

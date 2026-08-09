@@ -54,8 +54,6 @@ Architects plan and design buildings and structures, balancing functionality, ae
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Career path typically starts as junior architect, can advance to project manager, design director, or partner. May also specialise in sustainable architecture, heritage conservation, or urban planning.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path typically starts as junior architect, can advance to project manager
 | Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek employment; proof of financial means required. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based, allowing entry for job seeking or qualification certification without prior employment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must hold a recognized degree (usually master's), complete 2 years of profess
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architect/DE)**

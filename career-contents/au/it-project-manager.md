@@ -56,8 +56,6 @@ IT project managers lead the planning, execution and delivery of technology proj
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Core tasks of IT project managers (communication, decision-making, stakeholder management) are hard to replace by AI, but AI tools significantly boost efficiency in execution tasks like progress tracking, document generation, and risk prediction, potentially reducing demand for junior PM roles while senior roles require AI tool proficiency.
-
 Agile/SAFe frameworks have become the standard for IT projects in Australia. The Product Owner and Scrum Master roles are highly integrated with IT PM functions, and hybrid IT PMs (technical background + Agile certification) command a salary premium of $15k–$25k.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Agile/SAFe frameworks have become the standard for IT projects in Australia. The
 | Subclass 190 (Skilled Nominated) | State nomination, ACT government has many IT projects |
 | Subclass 491 (Skilled Work Regional) | Regional IT PM roles — 15 bonus points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: IT PMs earn slightly more (average $128k vs $110k), but have higher English l
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-project-manager/AU)**

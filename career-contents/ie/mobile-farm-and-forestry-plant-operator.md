@@ -54,8 +54,6 @@ Operate mobile agricultural and forestry machinery such as tractors and harveste
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will partially replace driving and monitoring tasks but enhance decision support and precision operations. Operators must transition to hybrid technical-management roles.
-
 Can progress from entry-level operator to senior machinery operator or farm manager, and also become an agricultural technology consultant or equipment sales specialist through training.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can progress from entry-level operator to senior machinery operator or farm mana
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Can advance to senior operator, farm manager, or through further training bec
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-farm-and-forestry-plant-operator/IE)**

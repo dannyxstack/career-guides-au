@@ -53,8 +53,6 @@ Responsible for managing aquaculture farms, raising fish, shellfish, or aquatic 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
-
 Starting as a junior aquaculturist, can advance to farm supervisor or manager, or specialize in water quality management, hatchery, or breeding. Experienced individuals can start their own business or work as consultants.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as a junior aquaculturist, can advance to farm supervisor or manager, o
 | Subclass 491 (Skilled Work Regional (Provisional)) | Remote area state-sponsored visa, suitable for working on remote farms |
 | Subclass 186 (Employer Nomination Scheme) | 482 to 186 permanent residency, requires employer sponsorship and skills assessment. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires a bachelor's degree in agriculture or aquaculture, but vocat
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-farmer/AU)**

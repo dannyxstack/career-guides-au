@@ -52,8 +52,6 @@ Study the composition, structure, and other physical properties of the Earth; us
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Entry-level positions often involve fieldwork or lab support; with experience, can advance to project supervisor, chief geologist, or department manager. Some transition to consulting, academia, or management as exploration managers.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level positions often involve fieldwork or lab support; with experience, c
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Some states require a Professional Geologist (PG) license, needing the ASBOG 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geoscientists-except-hydrologists-and-geographers/US)**

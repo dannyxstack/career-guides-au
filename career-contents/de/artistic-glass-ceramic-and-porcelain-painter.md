@@ -53,8 +53,6 @@ This occupation involves artistic painting and decoration of handmade glass, cer
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creative work of visual artists (concept, style, emotional expression) is hard to fully replace by AI in the short term, but commercial illustration, basic design, and batch generation will be significantly impacted by AI. Meanwhile, AI tools offer new creative mediums and efficiency tools. Entry-level competition will intensify, but senior artists can leverage AI to amplify their creativity.
-
 Starting via apprenticeship, can advance to master craftsman (Meister) or open own studio. Large firms offer limited management roles, but most practitioners remain in design or production long-term.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting via apprenticeship, can advance to master craftsman (Meister) or open o
 | Subclass Skilled Worker (Skilled Immigration Act - Work Visa) | Requires professional qualification recognition (Anerkennung), employer sponsorship, and may be restricted due to non-shortage occupation |
 | Subclass Chancenkarte (Opportunity Card) | 2024 new pathway, points-based, allows job seeking or trial work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Mainly in traditional craft areas such as Bavaria, Saxony (Meissen porcelain)
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-glass-ceramic-and-porcelain-painter/DE)**

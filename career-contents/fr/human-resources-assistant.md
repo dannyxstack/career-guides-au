@@ -4,8 +4,6 @@
 
 HR assistants are responsible for supporting the daily operations of the HR department, including recruitment administration, employee file management, contract preparation, attendance records, and more, serving as the fundamental executive role of the HR team.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ HR assistants are responsible for supporting the daily operations of the HR depa
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The impact of AI on HR assistant roles is mixed: transactional tasks are being automated, but value-added tasks like data analysis and employee experience are being amplified, raising skill requirements.
-
 Junior HR assistants can be promoted through experience to HR specialists (such as recruitment specialists or payroll specialists), and then to HR managers or HRBP. You can also accelerate your career development by obtaining French HR certifications (such as Master RH).
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior HR assistants can be promoted through experience to HR specialists (such 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Visa) | Employed by a French company sponsored by an employer requires permission from the French Labor Authority (DIRECCTE). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an annual salary threshold (about 53,000 euros) to quickly obtain residency |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, annual salary must be 1.5 times the French average salary |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: You can be promoted to HR specialist (recruitment, compensation, training, et
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-assistant/FR)**

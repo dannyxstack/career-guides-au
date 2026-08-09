@@ -4,8 +4,6 @@
 
 Professions that provide instruction in diverse educational settings such as various schools, cram schools, and corporate education, excluding teachers defined under the School Education Law.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Professions that provide instruction in diverse educational settings such as var
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-With the advancement of AI, automated generation of online materials and learning management systems are becoming widespread, potentially automating some classes and evaluation tasks. However, human interaction, individual guidance, and motivation management are areas where AI is difficult to replace, leading to new educational methods utilizing AI.
-
 Career paths are diverse; with experience, one can advance to positions such as school director, curriculum developer, or independent business owner.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ Career paths are diverse; with experience, one can advance to positions such as 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | May include activities as teachers or instructors; employment at universities or vocational schools is eligible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (e.g., Nursing Care)) | May be eligible for some educational roles in nursing care, but generally not applicable. |
-| Subclass 教育 (Professor) | Applies to educational/research activities at universities and higher education institutions; requires advanced expertise. |
-| Subclass 文化活動 (Cultural Activities) | Applies to unpaid cultural activities like education, but employment is not allowed. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +135,12 @@ A: It is effective to obtain certifications to enhance expertise (e.g., career c
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-teachers/JP)**

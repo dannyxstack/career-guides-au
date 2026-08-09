@@ -52,8 +52,6 @@ Oversees the operations of insurance, real estate, and financial brokerage firms
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Typically starts as a sales representative or broker and progresses to team leader, regional manager, and eventually senior management or opening their own brokerage.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically starts as a sales representative or broker and progresses to team lead
 | Subclass PNP (Provincial Nominee Program) | Some provinces have business or management PNP streams, suitable for those with a job offer |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points or lead directly to permanent residency. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as a sales representative or broker, progress to team leader, regional 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-real-estate-and-financial-brokerage-managers/CA)**

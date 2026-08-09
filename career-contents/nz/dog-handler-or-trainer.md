@@ -51,8 +51,6 @@ Demand is stable in the pet, security, and service dog fields; immigration oppor
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The outlook for dog trainer roles is mixed: basic behaviour training is easily replaceable by AI/automation, but advanced behaviour modification and custom service dog training rely on interpersonal trust and flexible judgment, making them less automatable.
-
 Can start with pet dog behavior correction, then move into competitive training, working dogs (police dogs, search and rescue dogs), or open a studio. Advanced stages can lead to international certifications (e.g., IAABC, CCPDT) and consulting business.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can start with pet dog behavior correction, then move into competitive training,
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: While not legally mandatory, the New Zealand Certificate in Animal Technology
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dog-handler-or-trainer/NZ)**

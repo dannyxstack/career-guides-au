@@ -4,8 +4,6 @@
 
 Operate printing equipment, perform printing tasks, including setting up, adjusting, and monitoring printing presses to ensure print quality meets standards.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate printing equipment, perform printing tasks, including setting up, adjust
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Printers operate traditional printing presses; AI combined with automation will significantly reduce positions. Prepress and quality inspection automation pose the greatest threats, requiring a shift to digital printing or adjacent fields.
-
 Junior printers can advance to senior press operators, printing supervisors, or transition to digital printing and prepress design. Continuous learning in digital technology benefits career development.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Junior printers can advance to senior press operators, printing supervisors, or 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for higher education and higher salary levels, but printers usually do not meet salary requirements. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual cap applies for non-EU workers; requires employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Permit)) | Employers must demonstrate inability to recruit suitable candidates within the EU. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Can progress from junior operator to senior printer, print supervisor, or tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printer/IT)**

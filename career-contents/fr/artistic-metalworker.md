@@ -53,8 +53,6 @@ Engaged in metal art creation and restoration, including forging, welding, casti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
-
 Growing from apprenticeship to independent craftsmanship can lead to promotion to studio supervisor or to start a personal brand. Some shifted toward cultural heritage restoration, haute changing, or teaching training.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Growing from apprenticeship to independent craftsmanship can lead to promotion t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as artists and craftsmen, requiring a project plan or employer sponsorship, valid for 4 years. |
-| Subclass Salarié (Work Permit (Salarié)) | For work residence employed by a French company, a company guarantee is required, and the annual salary must be no less than 1.5 times the French minimum wage. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires a high salary (usually ≥€53,000) and a contract, suitable for senior craftsmen. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can be promoted to studio director, independent master, or move to cultur
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-metalworker/FR)**

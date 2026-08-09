@@ -51,8 +51,6 @@ Optometry technicians, under the guidance of ophthalmologists or optometrists, p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Optician occupation is significantly augmented rather than replaced by AI; automated tools will handle measurements and order processing, but personalized fitting, client communication, and clinical judgment become more important; demand is stable with moderate growth.
-
 You can be promoted from junior technician to senior technician or optometrist (university degree required), or move into ophthalmology clinic management or optical product development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from junior technician to senior technician or optometrist (
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | University degree and employment contract required, annual salary meeting (approximately €33,908) |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for highly skilled professionals, requiring academic credentials and a work contract |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary work residence requires employer sponsorship and labor market testing |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, but you must complete a four-year undergraduate optometry program and be
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/optometry-technician/ES)**

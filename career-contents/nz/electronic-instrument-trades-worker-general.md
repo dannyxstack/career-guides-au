@@ -52,8 +52,6 @@ Responsible for installing, testing, maintaining, and repairing electronic instr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical and electronics engineers face mixed impacts from AI: repetitive tasks like design verification and wiring optimization can be automated, but complex system integration, innovative design, and safety compliance still require human judgment; using AI properly can improve efficiency.
-
 Start as an electrician or electronics technician, with potential to advance to senior technician, project manager, or automation engineer. Holding a New Zealand registered electrician license (EST) can boost salary and employment competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an electrician or electronics technician, with potential to advance to 
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored work visa for up to 3 years, with dependents eligible |
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration, scored based on qualifications, work experience, etc. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires an NZQF Level 4 Electronic Engineering certificate (approx
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-instrument-trades-worker-general/NZ)**

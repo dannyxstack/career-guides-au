@@ -54,8 +54,6 @@ Fitness and gymnastics coaches in Germany design and guide individual or group f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will significantly compress routine lesson design and exercise demonstration tasks for fitness and gymnastics coaches, but the need for personalised guidance and emotional motivation slows down full substitution. Entry-level positions (such as group class coaches) will shrink due to the prevalence of online templates and virtual coaches.
-
 Initially can work as an Assistant Coach, gain experience to advance to Head Coach or Fitness Center Manager. Further study in sports science or special certifications (e.g., rehabilitation training) can lead to higher-paying fields like Health Management or Sports Therapy.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Initially can work as an Assistant Coach, gain experience to advance to Head Coa
 | Subclass EU Blue Card (EU Blue Card) | Usually requires annual income ≥ €43,800 (2024), gym instructor salaries often fall short. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows staying in Germany for 6 months to look for work, requiring proof of sufficient financial support. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can be promoted to fitness centre manager, sports therapist, or start a busin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitness-and-gymnastics-trainer/DE)**

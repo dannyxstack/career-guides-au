@@ -53,8 +53,6 @@ Operate shoemaking machines, performing cutting, stitching, shaping, and assembl
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation involves repetitive tasks of operating shoemaking machines (cutting, stitching) that are easily automated. Demand for entry-level positions will decline significantly, but machine maintenance and process optimization still require human oversight.
-
 Junior operators can advance to senior operator or production line supervisor, and can also transition to quality control or equipment maintenance roles. Further training can lead to footwear design or production management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior operators can advance to senior operator or production line supervisor, a
 | Subclass LMIA (Labour Market Impact Assessment) | Employer can prove unable to recruit local workers, supporting work visa or migration applications. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, requires employer sponsorship, suitable for applicants working in the Atlantic provinces. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Limited job opportunities, affected by automation, expected slow growth. Main
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-products-machine-operators/CA)**

@@ -1,8 +1,8 @@
-# Electrical/Electronic/Telecommunications Engineer (excluding R&D) 职业分析 · 日本
+# 电气/电子/电信工程师（不含研发）（Electrical/Electronic/Telecommunications Engineer (excluding R&D)）职业分析 · 日本
 
-**职业代码: 082 (JSCO)**
+**职业代码：082 (JSCO)**
 
-Engineers responsible for design, construction, and maintenance of power equipment, electronic circuits, and communication networks. They work across a wide range, from factory and building electrical systems to public infrastructure.
+负责电力设备、电子电路和通信网络的设计、施工和维护的工程师。工作范围从工厂和建筑电气系统到公共基础设施。
 
 
 ---
@@ -11,9 +11,9 @@ Engineers responsible for design, construction, and maintenance of power equipme
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School (General/Industrial Course) | 3年 | $0~$3,000,000（Public 0 to Private approx. 3 million JPY） |
-| Technical College (Electrical/Electronic Engineering) | 5年 | $200,000~$700,000（Approx. 400,000 to 1.4 million JPY per year） |
-| University (Electrical/Electronic Engineering or Information/Communication Engineering) | 4年 | $2,000,000~$4,000,000（Private science/engineering approx. 1–2 million JPY per year） |
+| 高中（普通/工业课程） | 3年 | $0~$3,000,000（公共0至私营约300万日元） |
+| 技术学院（电气/电子工程） | 5年 | $200,000~$700,000（每年约40万至140万日元） |
+| 大学（电气/电子工程或信息/通信工程） | 4年 | $2,000,000~$4,000,000（私立理工类约100-200万日元/年） |
 
 ---
 
@@ -21,19 +21,19 @@ Engineers responsible for design, construction, and maintenance of power equipme
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 电工 | Ministry of Economy, Trade and Industry (METI) | 必备 | Class 2 and Class 1. Essential for construction work. |
-| Electrical Chief Engineer | Ministry of Economy, Trade and Industry (METI) | 可选 | Class 3 to Class 1. High demand and advantageous for promotion. |
-| Telecommunications Chief Engineer | Ministry of Internal Affairs and Communications (MIC) | 可选 | Advantageous for maintenance and operation of communication facilities. |
-| Professional Engineer (Electrical/Electronic Engineering) | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 可选 | Proof of advanced technical skills. Effective for career advancement. |
+| 电工 | 经济产业省（METI） | 必备 | 2级和1级证书。建筑工程必备。 |
+| 电气总工程师 | 经济产业省（METI） | 可选 | 3级至1级。需求高且利于晋升。 |
+| 电信首席工程师 | 总务省 | 可选 | 有利于通信设施的维护和操作。 |
+| 专业工程师（电气/电子工程） | 文部科学省 | 可选 | 高级技术技能证明。对职业发展有效。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 560,000. Demand remains steady with the expansion of renewable energy and smart grids. 5G/IoT-related communication infrastructure development is also a tailwind. A field facing persistent labor shortages.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 560,000。随着可再生能源和智能电网的扩张，需求保持稳定。5G/IoT相关通信基础设施发展也是利好。一个持续面临劳动力短缺的领域。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,95 +41,87 @@ Engineers responsible for design, construction, and maintenance of power equipme
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$4,500,000 | Base salary for new grads |
-| Mid-level (4-9 years) | $5,000,000~$7,000,000 | Chief class |
-| 资深（10年以上） | $7,000,000~$10,000,000 | Varies by manager/specialist |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 应届生基本工资 |
+| 中级（4-9年） | $5,000,000~$7,000,000 | 首席类别 |
+| 资深（10年以上） | $7,000,000~$10,000,000 | 因经理/专家而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are being introduced as efficiency tools for design and maintenance, but human roles remain for on-site decisions and legal compliance. Demand for engineers with AI skills is increasing.
+AI和自动化正作为设计和维护的效率工具引入，但现场决策和法律合规仍需要人类角色。对具备AI技能的工程师的需求正在增加。
 
-Begins at the entry level with design assistance or site supervision. Progress to chief engineer or project leader through experience. Promotion is aided by acquiring national certifications such as the Electrical Chief Engineer license.
+从入门级的设计协助或现场监督开始。通过经验积累，可晋升为总工程师或项目负责人。获得国家认证（如电气总工程师执照）有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine circuit design and wiring diagram creation
-- Standard inspection and measurement tasks
-- Data organization and report creation
+- 常规电路设计和接线图创建
+- 标准检验和测量任务
+- 数据整理和报告制作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based failure prediction and diagnosis
-- Design optimization via automation tools
-- Inspection by drones and robots
+- 基于AI的故障预测与诊断
+- 通过自动化工具进行设计优化
+- 无人机和机器人检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible on-site troubleshooting
-- Deep understanding of regulations and safety standards
-- Coordination with diverse stakeholders
+- 灵活的现场故障排除
+- 深入理解法规与安全标准
+- 与多样化利益相关者协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of AI and machine learning
-- Data analysis (Python/R)
-- Programming (C/C++)
-- Knowledge of renewable energy
+- 人工智能与机器学习基础
+- 数据分析（Python/R）
+- 编程（C/C++）
+- 可再生能源知识
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Smart grids
-- 5G/IoT
-- Energy saving and electrification
+- 可再生能源
+- 智能电网
+- 5G/物联网
+- 节能与电气化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For engineers with bachelor's or higher; obtainable in electrical/electronic roles. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Electrical/Electronic Information Industries)) | New field in 2024. Requires skills test and N4+ Japanese. Max 5-year stay. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Electrical/Electronic Information Industries)) | Expansion planned in 2027. For skilled workers. Family accompaniment & PR possible. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Point-based. High score in research/tech for PR preference. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those with a science background skilled in math and physics
-- For those interested in both hands-on work and desk-based study
-- For those with a sense of responsibility to support social infrastructure
+- 适合具有理科背景、擅长数学和物理的人
+- 适合对动手操作和桌面研究都感兴趣的人
+- 适用于有责任感支撑社会基础设施的人
 
 **谁不适合**
-- For those who prefer desk work
-- For those who dislike workplaces with frequent relocations
+- 适合喜欢伏案工作的人
+- 适合不喜欢频繁调动工作地点的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income of electrical/electronic engineers?**
-答：Starting salary around 3.5 million yen, mid-career 5–7 million yen, management or specialized qualifications can exceed 10 million yen. Including overtime, large companies tend to be higher.
+**问：电气/电子工程师的年收入是多少？**
+答：起薪约350万日元，中期500-700万日元，管理或专业资质可超过1000万日元。包括加班费，大公司通常更高。
 
-**问：Can foreigners work as electrical engineers?**
-答：Yes, with a 'Engineer/Specialist in Humanities/International Services' visa requiring a university degree and related work. Also, from 2024, 'Specified Skilled Worker (i) (Electronics/Information Related Industries)' allows work with skills exam and JLPT N4.
+**问：外国人可以从事电气工程师工作吗？**
+答：可以，持有'人文/国际服务工程师/专家'签证需要大学学历和相关工作经验。此外，从2024年起，'特定技能工人(i)（电子/信息相关行业）'允许通过技能考试和JLPT N4工作。
 
-**问：Is an electrical chief engineer license mandatory?**
-答：Not mandatory, but advantageous for promotion and salary increase. Especially Type 1 and Type 2 are in high demand, aiding career stability.
+**问：电气总工程师执照是强制性的吗？**
+答：非强制，但对晋升和加薪有利。尤其是1类和2类需求高，有助于职业稳定。
 
 
 ---
@@ -147,12 +139,12 @@ Begins at the entry level with design assistance or site supervision. Progress t
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-electronic-telecommunications-engineer-excluding-rd/JP)**

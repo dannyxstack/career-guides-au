@@ -52,8 +52,6 @@ Sell non-technical and scientific products to businesses or groups on behalf of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
-
 Career path can progress from junior sales representative to regional sales manager, national sales manager, or transition to product management, marketing, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path can progress from junior sales representative to regional sales mana
 | Subclass EB-2 (Employment-Based Second Preference) | Requires master's or bachelor's plus 5 years experience, PERM labor certification, long wait times. |
 | Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree or equivalent experience, PERM labor certification, long wait times. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Somewhat difficult. Must prove the position requires a bachelor's degree and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representatives-wholesale-and-manufacturing-except-technical-and-scientific-products/US)**

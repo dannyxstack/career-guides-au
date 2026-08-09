@@ -4,8 +4,6 @@
 
 Responsible for installing, maintaining, and repairing electronic medical equipment in hospitals and clinics, such as ECGs, monitors, ventilators, etc., to ensure safe operation of equipment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing, maintaining, and repairing electronic medical equipm
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate some diagnostic and reporting tasks, but on-site installation, maintenance, and compliance tasks still rely on human experience, resulting in mixed outcomes for the job.
-
 You can be promoted to maintenance team leader or equipment management manager, or through further training to become a medical equipment engineer or technical consultant, or start your own maintenance service company.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted to maintenance team leader or equipment management manager, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | A Spanish company provides a work contract to apply for employment-based residence, and it must be proven that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly skilled professionals, requiring a university degree or senior FP, with an annual salary not lower than the specified threshold (about 34,000 euros). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Typically, students need to complete secondary vocational education (FP Grado
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electromedical-equipment-installers-and-repairers/ES)**

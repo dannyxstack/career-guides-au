@@ -53,8 +53,6 @@ Pawnbrokers and moneylenders provide small loans secured against personal proper
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pawnbrokers and moneylenders face dual impact from automation compression and AI enhancement: AI can optimize loan assessment and customer management, but legal compliance and customer trust still require human control.
-
 Practitioners can start as store assistants and gradually advance to store manager or regional manager; some may operate their own pawnshop or small loan company, requiring authorization from the central bank.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Practitioners can start as store assistants and gradually advance to store manag
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must apply for a consumer credit authorisation from the Central Bank of Irela
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pawnbroker-and-moneylender/IE)**

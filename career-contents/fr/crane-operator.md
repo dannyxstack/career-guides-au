@@ -4,8 +4,6 @@
 
 Operate tower-type, mobile, or crawler cranes to lift and move heavy materials at construction sites, ports, or industrial sites.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate tower-type, mobile, or crawler cranes to lift and move heavy materials a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane operator positions face moderate automation risks. AI and sensor technologies can autonomously plan routes and avoid obstacles, but complex lifting still requires human judgment and compliance supervision, so the overall entry-level position may be reduced.
-
 You can start as an assistant crane operator, gain experience, and earn the CACES advanced certificate to be promoted to hoisting supervisor or site manager. There is also an opportunity to become a crane trainer.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can start as an assistant crane operator, gain experience, and earn the CACE
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A CDI contract from a French employer must be obtained, reviewed by the labor bureau, and proven that no EU candidates are qualified. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled positions, requiring an annual salary above about 53,000 euros, with a relatively high threshold. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Promotion can be to lifting supervisor, site equipment manager, or switch to 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-operator/FR)**

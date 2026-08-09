@@ -53,8 +53,6 @@ Higher education teachers are responsible for teaching courses and supervising u
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly change the work mode of higher education teachers, automating tasks such as grading and basic content delivery, but core functions like academic research, personalised guidance, and teaching innovation will be enhanced, presenting both risks and opportunities.
-
 Career advancement path is typically Lecturer → Senior Lecturer → Reader/Associate Professor → Professor, with options to move into research management or academic leadership roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career advancement path is typically Lecturer → Senior Lecturer → Reader/Ass
 | Subclass Graduate (Graduate Visa) | For international graduates who completed their degree in the UK, allows them to work in the UK for 2-3 years after graduation |
 | Subclass Health & Care (Health and Care Worker Visa) | Not applicable to this occupation, only for medical and nursing industries |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically start as lecturer, progress to senior lecturer, associate professor
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/higher-education-teaching-professionals/UK)**

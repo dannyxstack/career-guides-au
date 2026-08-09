@@ -4,8 +4,6 @@
 
 Engaged in various service tasks within the hotel, including room cleaning, reception, breakfast preparation, and maintenance of public areas, this is a flexible employment position.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in various service tasks within the hotel, including room cleaning, rece
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Multi-skilled employees are affected by AI, which is a mixed responsibility: repetitive cleaning and tidying tasks are easily replaced by automation, but human-machine collaboration, flexible responses, and personalized services still require humans, and future positions will move toward multi-skilled skill upgrades.
-
 You can start as a housekeeping staff or general staff member and be promoted to floor supervisor, front desk manager, or hotel department supervisor; Experience and a BTS diploma in hotel management (2 years) are required.
 
 **Tasks most exposed to AI:**
@@ -100,15 +96,9 @@ You can start as a housekeeping staff or general staff member and be promoted to
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Residence Permit)) | Employer sponsorship required; annual salary must be above the SMIC; difficult to obtain due to local preference. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Promotion can be made to housekeeping supervisor, front desk manager, or food
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-multiskilled-worker/FR)**

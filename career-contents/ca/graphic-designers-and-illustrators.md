@@ -52,8 +52,6 @@ Animators and game designers create 2D/3D animations and game mechanics in Canad
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is significantly changing the animation and game design field: 2D/3D art creation is particularly impacted by generative AI, but game mechanics design, narrative, and creative coordination still require deep human involvement. Entry-level art execution roles have notably shrunk, while advanced creative thinking, technical art, and AI tool mastery have become differentiating competitiveness.
-
 Junior animators can advance to senior animators, art directors, or producers; game designers can develop into lead designers, creative directors, or move into subfields like technical art or user research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior animators can advance to senior animators, art directors, or producers; g
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, such as BC Tech (tech category) and Ontario Human Capital Priorities, prioritize digital media talent. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for applicants with a job offer from a local employer. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Vancouver (VFX and gaming), Toronto (film and advertising), Montreal (gaming 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-designers-and-illustrators/CA)**

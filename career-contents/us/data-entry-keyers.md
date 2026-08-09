@@ -53,8 +53,6 @@ Operate keyboards or data entry devices to input information, which may include 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Data entry operators face a very high risk of automation, as data transcription, validation, and formatting tasks can be efficiently replaced by AI/OCR technology, leading to significant shrinkage in job demand.
-
 Junior data entry clerks can advance to data verifiers or team supervisors; with experience, move toward data analysis, database management, or system administration. Some boost positions through certifications like Microsoft Office Specialist.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior data entry clerks can advance to data verifiers or team supervisors; with
 | Subclass H-1B (Specialty Occupation Worker) | Typically requires a bachelor's degree, but data entry operators do not meet professional position requirements and are rarely approved. |
 | Subclass EB-3 (Employment-Based Third Preference) | Theoretically feasible but requires employer to prove inability to find qualified US workers; rarely happens in practice |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: High risk. Automation and optical character recognition (OCR) significantly r
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-entry-keyers/US)**

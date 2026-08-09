@@ -55,8 +55,6 @@ Operate power pumps and auxiliary equipment in oil fields to extract oil or natu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Operational tasks for wellhead pump operators (e.g., adjusting valves, monitoring pressure) are being replaced by automated control systems and AI predictive maintenance, posing significant risk, but on-site emergency judgment still relies on humans.
-
 Typically start as a junior operator, with experience can advance to senior pump operator or well site supervisor, and some move into oilfield maintenance or equipment management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as a junior operator, with experience can advance to senior pump
 |---|---|
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal or temporary work visas, but oilfield positions are usually not temporary and are rarely used. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to oilfield equipment supervisor, production supervisor, or throu
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wellhead-pumpers/US)**

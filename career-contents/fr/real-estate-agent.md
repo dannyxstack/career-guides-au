@@ -4,8 +4,6 @@
 
 Real estate agents assist clients in buying and selling and leasing properties, conducting market analysis, property displays, negotiations, and transaction coordination. It is necessary to stay informed about local regulations and market trends.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Real estate agents assist clients in buying and selling and leasing properties, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Career path: Real estate consultant → Senior broker → Team manager/store manager → Independently established a real estate agency company. You can also develop into commercial real estate, property appraisal, or asset management.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Career path: Real estate consultant → Senior broker → Team manager/store man
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Requires employer sponsorship, a work contract, and approval from the French Labour Directorate, suitable for employment with a real estate company. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with a master's degree or above or a high-paying position (annual salary ≥ 56,700 euros) may apply |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | A 12-month job-seeking visa after graduation is suitable for those who have completed real estate-related studies in France |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You must obtain a work contract with a French company and apply for the Salar
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent/FR)**

@@ -52,8 +52,6 @@ Welcome customers, seat them, and ensure facility and service quality.
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant receptionist work will be significantly enhanced by AI-assisted tools, but some tasks like phone reservations and customer data analysis can be automated. Overall risk is manageable; interpersonal skills remain a core moat.
-
 Junior receptionist can be promoted to team leader, restaurant supervisor, or manager by accumulating service experience and customer management skills.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior receptionist can be promoted to team leader, restaurant supervisor, or ma
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Almost impossible; this occupation is not skilled, and employers can hardly s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hosts-and-hostesses-restaurant-lounge-and-coffee-shop/US)**

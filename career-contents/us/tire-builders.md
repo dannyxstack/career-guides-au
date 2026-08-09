@@ -53,8 +53,6 @@ Operate machines to manufacture tires, including layering materials such as rubb
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Repetitive tasks of tire manufacturing workers are easily automated by robots, leading to a continuous reduction in positions, but equipment maintenance and anomaly handling still require humans.
-
 Limited career path; can advance from operator to senior operator or team leader. Some experienced individuals move to quality control, equipment maintenance, or production management. Certification or additional training is often needed for advancement.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Limited career path; can advance from operator to senior operator or team leader
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Outlook is stable but with slow growth. Automation may reduce some positions,
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tire-builders/US)**

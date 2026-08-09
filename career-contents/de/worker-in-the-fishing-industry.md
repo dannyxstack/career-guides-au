@@ -51,8 +51,6 @@ Professionals engaged in fishing-related work such as catching, aquaculture, fis
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fishing workers face risk of partial task replacement by AI, but physical operations and on-site judgment remain hard to automate, entry-level positions narrow, overall employment prospects shrink.
-
 Can progress from junior fishing worker to skipper or farm supervisor, or move into fisheries management or quality control roles through further study.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from junior fishing worker to skipper or farm supervisor, or move i
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled workers with recognized German vocational qualifications |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing entry to seek job opportunities before finding work |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Possible via skilled migration visa, but requires recognized vocational quali
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/worker-in-the-fishing-industry/DE)**

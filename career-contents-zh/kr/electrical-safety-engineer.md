@@ -1,10 +1,8 @@
-# Electrical Safety Engineer 职业分析 · 韩国
+# 电气安全工程师（Electrical Safety Engineer）职业分析 · 韩国
 
-**职业代码: 15316 (KECO)**
+**职业代码：15316 (KECO)**
 
-A professional engineer who performs safety inspections, diagnostics, and supervision of electrical facilities to prevent electrical accidents.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一名专业工程师，负责对电气设施进行安全检查、诊断和监督，以防止电气事故。
 
 
 ---
@@ -13,8 +11,8 @@ A professional engineer who performs safety inspections, diagnostics, and superv
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (Electrical Engineering) | 2 年 | $6,000,000~$10,000,000（Public/National Standards） |
-| University (Electrical Engineering) | 4年 | $12,000,000~$20,000,000（Public/National Standards） |
+| 社区学院（电气工程） | 2 年 | $6,000,000~$10,000,000（公共/国家标准） |
+| 大学（电气工程） | 4年 | $12,000,000~$20,000,000（公共/国家标准） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional engineer who performs safety inspections, diagnostics, and superv
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 电气工程师 | Human Resources Development Service of Korea | 必备 | Required Certification |
-| Electrical Safety Engineer (Professional) | Human Resources Development Service of Korea | 可选 | Advanced Certification |
-| Electrical Construction Engineer | Human Resources Development Service of Korea | 可选 | Optional Certification |
+| 电气工程师 | 韩国人力资源开发服务局 | 必备 | 所需认证 |
+| 电气安全工程师（专业） | 韩国人力资源开发服务局 | 可选 | 高级认证 |
+| 电气施工工程师 | 韩国人力资源开发服务局 | 可选 | 可选认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. As power infrastructure ages and renewable energy expands, demand for electrical safety is increasing, so employment is expected to remain stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。随着电力基础设施老化和可再生能源扩张，电气安全需求增加，就业预计保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,87 +39,80 @@ A professional engineer who performs safety inspections, diagnostics, and superv
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$40,000,000 | Pre-tax Annual Salary |
-| 中级（4-7年） | $42,000,000~$55,000,000 | Pre-tax Annual Salary |
-| 高级（8年+） | $60,000,000~$80,000,000 | Pre-tax Annual Salary |
+| 初级 (0-3年) | $30,000,000~$40,000,000 | 税前年薪 |
+| 中级（4-7年） | $42,000,000~$55,000,000 | 税前年薪 |
+| 高级（8年+） | $60,000,000~$80,000,000 | 税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI may be introduced as a safety diagnostic aid, but human judgment and legal responsibility remain in place, making substitution unlikely.
+AI可能作为安全诊断辅助工具引入，但人类判断和法律责任仍然存在，因此替代可能性不大。
 
-Promotion from junior assistant engineer to mid-level engineer to senior supervisor/safety manager is possible, and obtaining relevant certifications is essential.
+可从初级助理工程师晋升为中级工程师、高级主管/安全经理，获得相关认证至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Periodic inspection data entry
-- Recording simple measurement values
+- 定期检查数据录入
+- 记录简单的测量值
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based risk prediction analysis
-- Facility inspection using drones
+- 基于AI的风险预测分析
+- 使用无人机进行设施检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal safety responsibility
-- Judgment based on field experience
-- Emergency response
+- 法律安全责任
+- 基于现场经验的判断
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI-based diagnostic tools
-- Data analysis
-- Understanding smart grids
+- 使用AI诊断工具
+- 数据分析
+- 理解智能电网
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Strengthened electrical safety management regulations
-- Power facility aging
-- Expansion of renewable energy
-- Smart grid
+- 加强电气安全管理规定
+- 电力设施老化
+- 可再生能源扩张
+- 智能电网
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled electrical safety technicians |
-| Subclass F-2 (Residence) | Convertible to points-based system |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and detail-oriented personality
-- Thorough in following safety regulations
-- Enjoys solving technical problems
+- 细致且注重细节的性格
+- 严格遵守安全规定
+- 喜欢解决技术问题
 
 **谁不适合**
 - 厌恶重复性工作任务
-- Dislikes outdoor activities
+- 不喜欢户外活动
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an electrical safety technician?**
-答：Depending on experience, it ranges from 30 to 80 million KRW, with intermediate level around 45 to 55 million KRW.
+**问：电气安全技术员的平均年薪是多少？**
+答：根据经验，年薪在3000万至8000万韩元之间，中级水平约为4500万至5500万韩元。
 
-**问：Can foreigners get a job in this occupation?**
-答：Possible with an E-7 visa, but Korean language proficiency and certification are required.
+**问：外国人能否从事该职业？**
+答：可能持有E-7签证，但需要韩语能力和认证。
 
 
 ---
@@ -139,12 +130,12 @@ Promotion from junior assistant engineer to mid-level engineer to senior supervi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-safety-engineer/KR)**

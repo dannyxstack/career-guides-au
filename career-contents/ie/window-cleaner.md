@@ -54,8 +54,6 @@ Window cleaners clean windows, glass curtain walls, and exterior walls of commer
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Window cleaner work is repetitive and physically demanding; AI-driven automated equipment (e.g., drone cleaning, robots) can gradually replace most physical operations, significantly reducing employment opportunities.
-
 Can advance from entry-level cleaner to team leader or project manager, or specialize in high-altitude work or start a cleaning company.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from entry-level cleaner to team leader or project manager, or speci
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Yes, can advance to team leader, project manager, or start own business. With
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/window-cleaner/IE)**

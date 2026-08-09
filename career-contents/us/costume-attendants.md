@@ -53,8 +53,6 @@ Selects, fits, and maintains costumes for performers, assists with quick changes
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-The role of a wardrobe manager is highly dependent on physical operations and on-site judgment; AI is difficult to fully replace, but wearable devices and automated fitting systems will reduce demand for low-skilled positions.
-
 Junior costume assistants can advance to costume supervisors or stylists, with some moving into film or fashion industries. With experience, they can become head costume makers on large productions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior costume assistants can advance to costume supervisors or stylists, with s
 | Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to top talent with national or international recognition |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Requires employer sponsorship; clothing managers struggle to prove a skills shortage, leading to low approval rates |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Accumulate years of large-scale production experience and build industry conn
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/costume-attendants/US)**

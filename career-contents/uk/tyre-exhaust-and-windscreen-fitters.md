@@ -50,8 +50,6 @@ Responsible for installing, repairing, and adjusting tires, exhaust systems, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some tasks of tire, exhaust pipe, and windshield installers are partially automated (e.g., diagnostics, inventory management), but physical installation, custom adjustments, and safety checks still require manual work; AI is more of an auxiliary tool. Entry-level roles have slightly narrowed due to AI simplifying diagnostics, but overall demand remains stable.
-
 Start as an apprentice, then advance to senior technician, foreman, or open your own repair shop after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Start as an apprentice, then advance to senior technician, foreman, or open your
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Yes, but requires employer sponsorship and meeting salary threshold (usually 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tyre-exhaust-and-windscreen-fitters/UK)**

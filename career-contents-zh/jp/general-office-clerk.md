@@ -1,10 +1,8 @@
 # 一般办公室文员（General Office Clerk）职业分析 · 日本
 
-**职业代码: 257 (JSCO)**
+**职业代码：257 (JSCO)**
 
-General office position in companies/organizations handling diverse clerical tasks such as general affairs, document management, data entry, and phone correspondence.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+公司/组织中处理各类文书工作的通用办公职位，涉及总务、文档管理、数据录入和电话沟通等
 
 
 ---
@@ -13,8 +11,8 @@ General office position in companies/organizations handling diverse clerical tas
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Public high school tuition） |
-| Vocational School (Business Department) | 2 年 | $2,000,000~$4,000,000（For private vocational schools） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中学费） |
+| 职业学校（商务系） | 2 年 | $2,000,000~$4,000,000（针对私立职业学校） |
 
 ---
 
@@ -22,18 +20,18 @@ General office position in companies/organizations handling diverse clerical tas
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nissho Bookkeeping Level 2 | Japan Chamber of Commerce and Industry | 可选 | Advantageous for accounting work |
-| Secretary Level 2 | Practical Skills Proficiency Association | 可选 | Evaluates etiquette and manners |
-| MOS (Microsoft Office Specialist) | Microsoft | 可选 | Proves Excel/Word skills |
+| 日商簿记2级 | 日本商工会议所 | 可选 | 对会计工作有利 |
+| 二级秘书 | 实用技能熟练协会 | 可选 | 评估礼仪与举止 |
+| MOS（微软办公软件国际认证） | Microsoft | 可选 | 证明Excel/Word技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 2,500,000. Although digitalization is improving efficiency, labor shortages persist, and stable demand is expected, especially at small and medium-sized enterprises.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 2,500,000。尽管数字化提高了效率，但劳动力短缺持续存在，中小企业需求稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,96 +39,89 @@ General office position in companies/organizations handling diverse clerical tas
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $2,500,000~$3,500,000 | Monthly salary approx. ¥200,000–¥280,000 |
-| Intermediate (4–10 years) | $3,500,000~$4,800,000 | Section chief class |
-| Senior (11+ years) | $4,800,000~$6,000,000 | Just below management level |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 月薪约20万–28万日元 |
+| 中级（4-10年） | $3,500,000~$4,800,000 | 科长级 |
+| 高级（11年以上） | $4,800,000~$6,000,000 | 略低于管理层 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Routine tasks such as data entry, document processing, and schedule management are being automated by AI and RPA, so demand for general office clerks is declining. However, tasks requiring interpersonal skills and judgment will remain, so the role won't completely disappear.
+数据输入、文档处理和日程管理等常规任务正被AI和RPA自动化，因此对普通办公文员的需求下降。然而，需要人际交往和判断力的任务仍会保留，因此该职位不会完全消失。
 
-Start as a beginner, advance to lead clerk or section chief with experience. Career advancement possible with specialized certifications (e.g., bookkeeping).
+从初学者开始，随着经验晋升为首席文员或部门主管。通过专业认证（如簿记）可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data Entry
-- Filing Documents
-- Automated Email Responses
-- Schedule Coordination
+- 数据录入
+- 文件归档
+- 自动邮件回复
+- 日程协调
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer Service
-- Complaint Handling
-- Planning and Coordination
-- Data Analysis and Reporting
+- 客户服务
+- 投诉处理
+- 规划与协调
+- 数据分析与报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Negotiation Skills
-- Situational Judgment
-- Handling Confidential Information
-- Flexible Response
+- 人际谈判技巧
+- 情境判断
+- 处理机密信息
+- 灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Bookkeeping
-- PC Skills (e.g., Excel Macros)
-- Language Skills
+- 簿记
+- 电脑技能（如Excel宏）
+- 语言技能
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 一般办公室文员
-- General Affairs
-- Data Entry
-- Document Management
+- 总务
+- 数据录入
+- 文档管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Common residence status for foreigners in clerical work. Requires specialized knowledge. Direct application is difficult, IT and language skills needed. |
-| Subclass 特定活動（ワーキングホリデー） (Designated Activities (Working Holiday)) | Short-term work allowed, but rare to become regular employee. Not suited for long-term career. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and accuracy-oriented individuals
-- People good at communication
-- People who can handle multitasking
+- 细致且注重准确性的人
+- 善于沟通的人
+- 能处理多项任务的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who prefer creative work
+- 喜欢创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a general office clerk?**
-答：Depending on experience, entry level about ¥2.5-3.5M, mid level ¥3.5-4.8M, senior ¥4.8-6M.
+**问：一般办公室文员的平均年薪是多少？**
+答：视经验而定，入门级约250-350万日元，中级350-480万，高级480-600万。
 
-**问：What visa does a foreigner need to work as a general office clerk in Japan?**
-答：Need Engineer/Specialist in Humanities/International Services status. University degree or 10+ years experience required. Direct application difficult, often needs N2+ Japanese.
+**问：外国人在日本担任一般办公室文员需要什么签证？**
+答：需要人文/国际服务领域的工程师/专家身份。需大学学位或10年以上经验。直接申请困难，通常需要N2以上日语。
 
-**问：Can I become one with no experience?**
-答：Yes, many companies have job offers for inexperienced workers. However, basic PC operation skills (Word, Excel) are required.
+**问：没有经验能从事吗？**
+答：是的，许多公司为无经验者提供职位，但需要基本的电脑操作技能（Word、Excel）。
 
 
 ---
@@ -148,12 +139,12 @@ Start as a beginner, advance to lead clerk or section chief with experience. Car
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-office-clerk/JP)**

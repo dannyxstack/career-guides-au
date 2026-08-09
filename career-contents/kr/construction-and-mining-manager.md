@@ -4,8 +4,6 @@
 
 A managerial professional responsible for planning, directing, and supervising all operations at construction or mining sites, ensuring safety and quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A managerial professional responsible for planning, directing, and supervising a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation don't directly replace construction/mining managers' work, but technologies like drones, BIM, and smart sensors greatly improve on-site monitoring and safety management efficiency, expanding the manager's role.
-
 The typical career path is on-site technician → site manager → construction manager. Certifications such as Construction Safety Engineer and Civil Engineer, along with experience, are essential for advancing to senior positions in large corporations and public sector clients.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ The typical career path is on-site technician → site manager → construction 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Eligible for long-term residence under the Skilled Worker Points System, construction manager experience recognized |
-| Subclass E-7 (Specific Activities (E-7)) | Targeting construction/engineering professionals, degree + experience required |
-| Subclass F-5 (Permanent Residence (F-5)) | Can apply for permanent residence after long-term stay, must pass points system |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: It's not legally required, but it's expected for most construction site manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-mining-manager/KR)**

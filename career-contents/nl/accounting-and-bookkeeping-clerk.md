@@ -53,8 +53,6 @@ Responsible for recording financial transactions, reconciling accounts, preparin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of accountants and bookkeepers will become polarized: repetitive tasks like bookkeeping and reconciliation face high automation risk, but financial analysis, tax planning and other tasks requiring professional judgment will be enhanced by AI, increasing demand for versatile financial talent.
-
 Junior bookkeepers can advance to senior accountant, accounting supervisor, or become an independent accountant by obtaining CPA (AA/RA) certification. They can also transition to financial analysis, auditing, or tax consulting.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior bookkeepers can advance to senior accountant, accounting supervisor, or b
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled immigration, must sign contract with an approved employer, monthly salary threshold approx. €3,672 (under 30) or €5,008 (over 30) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, requires a job matching the qualification, salary threshold of approximately €56,500. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For graduates from Dutch or world top 200 universities, offering 1 year job-seeking period |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: AI and automation will replace some repetitive bookkeeping tasks, but complex
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-and-bookkeeping-clerk/NL)**

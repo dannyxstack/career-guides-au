@@ -52,8 +52,6 @@ Work in slaughterhouses and meat processing plants performing slaughtering, spli
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Slaughterers/meat processing workers face both automation threats and AI enhancement: machine vision and robotic arms are replacing repetitive tasks like cutting and packaging, but AI-assisted quality inspection, equipment maintenance, and production scheduling optimization greatly improve efficiency and reduce rework. Entry-level roles are declining due to replacement of basic cutting workers, but demand for advanced boners and quality control technicians remains stable.
-
 Entry-level workers can advance through on-the-job training to skilled positions like boner or slaughterer. Experienced workers can become supervisors, production line managers, or move to quality control and cold chain management. Career mobility increases after gaining residency.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level workers can advance through on-the-job training to skilled positions
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, must meet a 6-point system (e.g., work experience, qualifications), current occupation has extra points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for cases without a Green List occupation but with employer sponsorship. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -147,12 +143,13 @@ A: The occupation is on Tier 1 of the Green List (direct residence); an offer of
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-process-worker/NZ)**

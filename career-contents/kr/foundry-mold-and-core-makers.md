@@ -4,8 +4,6 @@
 
 This occupation involves performing casting operations by melting metal and pouring it into molds to create products of desired shapes, typically in factories combining automated machinery and manual work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves performing casting operations by melting metal and pour
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation technology are expected to significantly replace casting processes, with automation progressing rapidly especially in repetitive mold making and basic casting operations.
-
 Starting as entry-level workers, one can advance to skilled worker, team leader, or process manager positions, with further advancement possible through certifications and experience.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting as entry-level workers, one can advance to skilled worker, team leader,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | May be partially allowed in the manufacturing sector during domestic labor shortages, but typically for unskilled positions |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable only to advanced casting technicians, but very limited |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: E-7 visa is issued restrictively only to advanced technicians, while E-9 is p
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foundry-mold-and-core-makers/KR)**

@@ -52,8 +52,6 @@ Operates various heavy construction equipment such as bulldozers, excavators, gr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Heavy equipment operator roles face mixed impacts from AI/automation: automated transport, loading, and basic digging tasks are at high risk of replacement, but AI-enhanced remote operation, predictive maintenance, and precision work significantly improve efficiency and safety.
-
 Start as equipment operator, progress to foreman, project manager, or equipment trainer; also can obtain advanced certificates to move into heavy equipment sales or maintenance engineer.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Start as equipment operator, progress to foreman, project manager, or equipment 
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Green card path, requires PERM labor certification, applies to skilled workers |
 | Subclass TN (TN NAFTA Professional) | Engineer/technician visa available to Canadian/Mexican citizens, but this occupation usually doesn't qualify |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply through EB-3 green card, but employer must sponsor PERM labor certi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operating-engineers-and-other-construction-equipment-operators/US)**

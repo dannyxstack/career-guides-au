@@ -1,8 +1,8 @@
 # 室内设计师（Interior Designer）职业分析 · 韩国
 
-**职业代码: 41531 (KECO)**
+**职业代码：41531 (KECO)**
 
-A professional who plans, designs, and supervises the construction of interiors for residential and commercial spaces, harmonizing aesthetics and practicality.
+规划、设计和监督住宅及商业空间室内装修的专业人员，协调美学与实用性。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who plans, designs, and supervises the construction of interiors 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (2-year) | 2 年 | $8,000,000~$12,000,000（Based on public institutions; private up to 2x） |
-| University (4-year) | 4年 | $18,000,000~$28,000,000（Based on interior design/architecture; private upper limit） |
+| 社区学院（2年制） | 2 年 | $8,000,000~$12,000,000（基于公共机构；私立最高2倍） |
+| 大学（4年制） | 4年 | $18,000,000~$28,000,000（基于室内设计/建筑，私人上限） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who plans, designs, and supervises the construction of interiors 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Craftsman Interior Architecture | Human Resources Development Service of Korea | 可选 | Most common; extra points for employment |
-| Industrial Engineer Interior Architecture | Human Resources Development Service of Korea | 可选 | Advantageous for community college graduates |
-| Professional Engineer Colorist | Human Resources Development Service of Korea | 可选 | Useful when emphasizing color expertise |
+| 室内建筑工匠 | 韩国人力资源开发服务局 | 可选 | 最常见；额外加分就业 |
+| 室内建筑工业工程师 | 韩国人力资源开发服务局 | 可选 | 社区大学毕业生有优势 |
+| 专业工程师调色师 | 韩国人力资源开发服务局 | 可选 | 在强调色彩专业知识时有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Sensitive to the real estate market and construction industry, but demand is expected to remain steady due to remodeling and the rise of single-person households. Many small firms make job competition somewhat high.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。受房地产市场和建筑业影响敏感，但由于翻新和单人家庭增加，需求预计保持稳定。许多小公司使得工作竞争有些激烈。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,94 +39,87 @@ A professional who plans, designs, and supervises the construction of interiors 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Based on interns and new hires |
-| Mid-level (4-9 years) | $35,000,000~$50,000,000 | Varies by project size |
-| 资深（10年以上） | $50,000,000~$80,000,000 | Includes senior designers and freelancers |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于实习生和新员工 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 因项目规模而异 |
+| 资深（10年以上） | $50,000,000~$80,000,000 | 包括高级设计师和自由职业者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI plays a supporting role in tasks like automated space layout, 3D rendering, and material recommendation, but human-specific areas like design sense and client communication remain protected. About 20% of total tasks are expected to be replaceable by AI.
+AI在自动化空间布局、3D渲染和材料推荐等任务中起辅助作用，但设计感和客户沟通等人类专属领域仍受保护。约20%的任务预计可被AI替代。
 
-Starting as a junior intern or designer, advancement to mid-level designer in 3-5 years, senior designer or team lead in 7-10 years. Certifications and portfolio boost promotion prospects.
+从初级实习生或设计师开始，3-5年晋升为中级设计师，7-10年成为高级设计师或团队负责人。认证和作品集可提升晋升前景。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic floor plan drafting
-- Material cost estimation
-- Lighting layout automation
-- 3D rendering post-processing
+- 基本平面图绘制
+- 材料成本估算
+- 照明布局自动化
+- 3D渲染后期处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized design proposals for clients
-- Space utilization simulation
-- Material combination optimization
+- 为客户定制设计方案
+- 空间利用模拟
+- 材料组合优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Human aesthetic sense and spatial design skills
-- Empathy to read client needs
-- On-site construction supervision and coordination skills
+- 人类审美感与空间设计能力
+- 理解客户需求的同理心
+- 现场施工监督与协调能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI design tool utilization
-- Knowledge of eco-friendly materials
-- Understanding of smart home systems
-- Project management (PM)
+- AI设计工具应用
+- 环保材料知识
+- 了解智能家居系统
+- 项目管理（PM）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Remodeling
-- Eco-friendly interior design
-- Smart home
-- Design tailored for single-person households
+- 翻新
+- 环保室内设计
+- 智能家居
+- 为单人家庭量身定制设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available when employed by a Korean company; requires skilled worker qualifications |
-| Subclass F-2 (Residence) | Applicable after long-term stay; no activity restrictions |
-| Subclass F-4 (Overseas Koreans) | Allows employment activities for overseas Koreans |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with strong aesthetic sense and spatial perception
-- Communication skills to specify customer needs
-- Strong stress tolerance for project deadlines
+- 具有强烈审美感和空间感知能力的人
+- 沟通能力以明确客户需求
+- 对项目截止日期有很强的抗压能力
 
 **谁不适合**
-- Prefers regular work and static tasks
-- Inflexible in accepting others' opinions
+- 偏好常规工作和静态任务
+- 固执己见，不接受他人意见
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an interior designer?**
-答：Based on 5 years of experience, around 35-50 million KRW; freelancers' income varies per project.
+**问：室内设计师的平均薪资是多少？**
+答：基于5年经验，约3500-5000万韩元；自由职业者收入因项目而异。
 
-**问：Can a foreigner work as an interior designer in Korea?**
-答：Possible with an E-7 visa, but requires relevant degree, career proof, and Korean language ability. F-4 visa holders have more freedom for employment.
+**问：外国人可以在韩国做室内设计师吗？**
+答：持有E-7签证可能可行，但要求相关学位、职业证明和韩语能力。F-4签证持有人就业更自由。
 
-**问：Is there a required certification?**
-答：Not mandatory, but the indoor construction engineer certification is highly advantageous for employment.
+**问：是否需要强制认证？**
+答：非强制性，但室内建筑工程师认证对就业非常有利。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as a junior intern or designer, advancement to mid-level designer in 3-
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/interior-designer/KR)**

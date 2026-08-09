@@ -54,8 +54,6 @@ Conduct unconventional warfare and special operations missions in air, land, or 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-In special forces missions, intelligence analysis and communication coordination are easily enhanced by AI, but high-risk raids, complex tactical decisions, and interpersonal trust still rely on humans, presenting a mixed outlook.
-
 Career path from soldier to non-commissioned officer, officer, up to squad leader or senior staff. Outstanding individuals can enter higher-level units (e.g., Delta Force) or become instructors.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path from soldier to non-commissioned officer, officer, up to squad leade
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Must complete basic combat training, advanced individual training, then Speci
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-forces/US)**

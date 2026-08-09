@@ -53,8 +53,6 @@ Responsible for lighting design and operation for stage performances, including 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some lighting programming and preset tasks, but on-site artistic judgment, creative collaboration, and physical equipment operation still rely on humans, resulting in mixed job prospects.
-
 You can advance from assistant lighting technician to lighting designer or technical director, or transition to film or event lighting. Long-term options include founding a lighting rental company or becoming a freelancer.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can advance from assistant lighting technician to lighting designer or techn
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents such as artists or technical experts, who must provide a work contract or project certification, valid for 4 years. |
-| Subclass Salarié (Salarié (Employee)) | Work visas employed by French companies require employer sponsorship and are valid for the same period as the contract. |
-| Subclass Carte bleue UE (Carte bleue européenne (EU Blue Card)) | Suitable for highly educated, high-paying positions (annual salary at least €53k), but lighting technicians usually do not meet the salary threshold. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Start as an assistant lighting technician and advance to lighting designer or
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stage-lighting-technician/FR)**

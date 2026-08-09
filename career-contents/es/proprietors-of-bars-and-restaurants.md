@@ -52,8 +52,6 @@ Responsible for managing and operating small bars, restaurants, or cafes, includ
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Common path: Start as a waiter or chef→ gain experience, then open an independent store → multi-store chain or franchise. Some operators have shifted to related industries such as catering consulting, ingredient supply, or catering training.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Common path: Start as a waiter or chef→ gain experience, then open an independ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employee)) | Employed by a catering company, applying for work residence through employer sponsorship |
-| Subclass Cuenta propia (Self-Employed Residence Permit) | To open a restaurant as an individual entrepreneur, a business plan and investment proof must be submitted |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Only applicable to senior executives or special technical personnel of large chain catering enterprises; ordinary operators are not eligible |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Common path: Start as a waiter or chef→ accumulate experience, then open yo
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/proprietors-of-bars-and-restaurants/ES)**

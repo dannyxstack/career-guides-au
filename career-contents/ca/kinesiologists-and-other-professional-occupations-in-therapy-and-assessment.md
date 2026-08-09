@@ -52,8 +52,6 @@ Kinesiologists use exercise science and functional assessment to help patients r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly enhance the assessment and analysis capabilities of exercise physiologists, but will not replace core functions such as patient interaction and personalized program design.
-
 Entry-level kinesiologists can advance to senior therapist, team lead, or clinic manager; some move into research, teaching, or private practice. With experience, they can specialize in sports medicine, cardiopulmonary rehabilitation, or geriatric health.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level kinesiologists can advance to senior therapist, team lead, or clinic
 | Subclass Provincial Nominee P (Provincial Nominee Program) | Many provinces (e.g., BC, ON, AB) list kinesiologists as priority occupations, offering fast-track provincial nomination. |
 | Subclass LMIA-based Work Perm (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas; accumulate Canadian experience and then apply for immigration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can specialize in sports medicine, cardiac rehabilitation, geriatric health, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kinesiologists-and-other-professional-occupations-in-therapy-and-assessment/CA)**

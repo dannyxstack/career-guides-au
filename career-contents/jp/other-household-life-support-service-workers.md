@@ -4,8 +4,6 @@
 
 Occupations providing household life support services such as housekeeping, babysitting, and personal care for the elderly.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Occupations providing household life support services such as housekeeping, baby
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and robots complement tasks via monitoring sensors, cleaning robots, and communication robots, but human empathy and flexible responses are essential, so the occupation itself is unlikely to be replaced by AI; rather, AI tools will increase efficiency and demand.
-
 Entry possible without experience. Acquiring qualifications (e.g., Certified Care Worker) and enhancing expertise can lead to management or self-employment. Practical experience and training are key for career advancement.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Entry possible without experience. Acquiring qualifications (e.g., Certified Car
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving)) | Eligible to work in caregiving for up to 5 years. Requires JLPT N4 level and skills test. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to holders of national qualifications like Certified Care Worker or those with specialized knowledge. |
-| Subclass 特定活動（家事支援） (Designated Activities (Domestic Care Support Foreigner)) | Engaged in housekeeping services. Must meet host organization requirements. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: By obtaining qualifications such as Certified Care Worker or Social Worker, y
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-household-life-support-service-workers/JP)**

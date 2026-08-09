@@ -1,8 +1,8 @@
-# Risk Manager 职业分析 · 韩国
+# 风险经理（Risk Manager）职业分析 · 韩国
 
-**职业代码: 15842 (KECO)**
+**职业代码：15842 (KECO)**
 
-A professional who prevents and manages various risks such as fires, chemical spills, and industrial accidents on the manufacturing floor, creating a safe working environment.
+在制造车间预防和管理火灾、化学品泄漏、工业事故等各种风险，创造安全工作环境的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who prevents and manages various risks such as fires, chemical sp
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Safety engineering department at a college/university | 2–4 years | $6,000,000~$20,000,000（Tuition and textbook costs） |
-| Industrial Safety Engineer certification | 6 months–1 year | $500,000~$1,500,000（Academy tuition and exam fees） |
+| 大学/学院的安全工程系 | 2-4年 | $6,000,000~$20,000,000（学费和教材费） |
+| 工业安全工程师认证 | 6个月至1年 | $500,000~$1,500,000（学院学费和考试费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who prevents and manages various risks such as fires, chemical sp
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 必备 | Key qualification for performing risk management tasks |
-| Industrial Safety Engineer (Hazardous Materials) | Human Resources Development Service of Korea | 可选 | Preferred when handling chemical substances |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 必备 | 执行风险管理任务的关键资质 |
+| 工业安全工程师（危险品） | 韩国人力资源开发服务局 | 可选 | 处理化学物质时优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Demand is stable due to manufacturing automation and strengthened Serious Accident Punishment Act, but the outlook is positive due to a shortage of skilled workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于制造业自动化和加强的《重大事故处罚法》，需求稳定，但由于技术工人短缺，前景看好。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,86 @@ A professional who prevents and manages various risks such as fires, chemical sp
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$40,000,000 | Based on holding Industrial Safety Engineer certification |
-| Mid-level (4–7 years) | $40,000,000~$55,000,000 | Field experience and additional certifications |
-| 高级（8年+） | $55,000,000~$75,000,000 | Team leader level or professional consultant |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于持有工业安全工程师认证 |
+| 中级（4–7年） | $40,000,000~$55,000,000 | 现场经验和额外认证 |
+| 高级（8年+） | $55,000,000~$75,000,000 | 团队领导级别或专业顾问 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists in risk data analysis and monitoring, but on-site judgment, training, and incident response remain essential for humans and are difficult to replace.
+AI协助风险数据分析和监控，但现场判断、培训和事件响应仍然需要人类，且难以替代。
 
-After obtaining a safety manager certificate and gaining field experience, you can grow into a plant safety general manager or consultant.
+获得安全管理证书和现场经验后,可成长为工厂安全总经理或顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Risk data collection and basic analysis
-- Regular report writing
-- CCTV monitoring
+- 风险数据收集和基本分析
+- 定期报告撰写
+- CCTV监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Risk prediction modeling
-- Safety training simulation
-- Real-time risk warning system operation
+- 风险预测建模
+- 安全培训模拟
+- 实时风险预警系统运行
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex judgment based on on-site intuition and experience
-- Emergency response and leadership
-- Communication skills for establishing a safety culture
+- 基于现场直觉和经验的复杂判断
+- 应急响应与领导力
+- 建立安全文化的沟通技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Big data analysis
-- Machine learning basics
-- IoT sensor utilization
-- Communication
+- 大数据分析
+- 机器学习基础
+- 物联网传感器应用
+- 通信
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Industrial Safety
-- Serious Accidents Punishment Act
-- Manufacturing Automation
-- Safety Management
+- 工业安全
+- 重大灾害处罚法
+- 制造自动化
+- 安全管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for employment as a safety management professional, requires skill proficiency |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible through points system, bonus for safety field experience |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in risk prediction and prevention
-- Thorough in following regulations and guiding others
-- Practical type who prefers field work
+- 对风险预测和预防感兴趣的人
+- 严格遵守规定并指导他人
+- 偏好实地工作的实践型
 
 **谁不适合**
-- People who are insensitive to safety
-- Personality that often breaks rules or is careless
+- 对安全不敏感的人
+- 经常违反规则或粗心大意的性格
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a risk manager?**
-答：For new hires, annual pre-tax salary is about 30-40 million KRW, and having an industrial safety engineer license is advantageous.
+**问：风险管理师的起薪是多少？**
+答：新入职员工税前年薪约3000-4000万韩元，持有工业安全工程师执照者优先。
 
-**问：Can foreigners work as risk managers?**
-答：Yes, skilled safety personnel can be hired under an E-7 visa, provided experience and qualification requirements are met.
+**问：外国人可以担任风险经理吗？**
+答：是的，熟练的安全人员可以持E-7签证受雇，需满足经验和资格要求。
 
-**问：Are there required certifications?**
-答：Industrial safety engineer is the most common, and hazardous materials industrial engineer is also helpful depending on the site.
+**问：是否需要必需的认证？**
+答：工业安全工程师最为常见，根据现场情况，危险品工业工程师也有帮助。
 
 
 ---
@@ -141,12 +135,12 @@ After obtaining a safety manager certificate and gaining field experience, you c
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/risk-manager/KR)**

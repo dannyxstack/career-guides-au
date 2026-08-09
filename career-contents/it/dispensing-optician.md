@@ -4,8 +4,6 @@
 
 Optical dispensers prepare and fit glasses based on optometrists' prescriptions, handling lens selection, frame adjustment, and customer consultation to ensure vision correction and comfort.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Optical dispensers prepare and fit glasses based on optometrists' prescriptions,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI impacts opticians ambivalently: automation of refraction and lens fitting may reduce some technical tasks, but AI enhances customer service, inventory management, and tailored recommendations, making professional judgment and interpersonal communication key differentiators.
-
 Can advance from optician to senior optician or store manager, or become an optometrist or open an independent optical store through further study.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can advance from optician to senior optician or store manager, or become an opto
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quotas and require employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled occupations, the annual salary must meet the threshold (approximately €25,000), suitable for senior opticians. |
-| Subclass nulla osta (Nulla Osta Work Permit) | Employers apply to the labour bureau for work permits, applicable to foreign workers with specialized skills |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can work in optical retail stores or clinics, advance to store manager or reg
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dispensing-optician/IT)**

@@ -51,8 +51,6 @@ Statisticians are responsible for collecting, analyzing, and interpreting data t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
-
 You can advance from junior analyst to senior statistician, data science manager, or research director, with ongoing learning in programming and machine learning skills.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can advance from junior analyst to senior statistician, data science manager
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and at least two years of work experience, with an annual salary at 1.5 times the Spanish average (about 45,000 euros). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled talent, company support is required, education or experience requirements are strict, and salary thresholds are lower than those of the EU Blue Card |
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Requires a Spanish employer to provide a work contract and prove that the position cannot be filled by a local candidate. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Proficiency in statistical analysis software (R, Python, SAS) and database la
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistician/ES)**

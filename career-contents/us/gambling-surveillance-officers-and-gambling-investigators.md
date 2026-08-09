@@ -53,8 +53,6 @@ Monitor casino operations, detect cheating, theft, and other violations to prote
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will have mixed impact on casino surveillance officers and investigators: video analytics automation will replace some monitoring tasks, but complex investigations and compliance responsibilities still require human professional judgment; jobs won't disappear but entry-level positions will decrease.
-
 Can advance from monitor to investigator, supervisor, or move into security management or compliance departments.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from monitor to investigator, supervisor, or move into security mana
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Difficult, as it typically does not meet H-1B professional position requireme
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-surveillance-officers-and-gambling-investigators/US)**

@@ -1,8 +1,8 @@
-# Legal Administrative Staff 职业分析 · 日本
+# 法律行政人员（Legal Administrative Staff）职业分析 · 日本
 
-**职业代码: 179 (JSCO)**
+**职业代码：179 (JSCO)**
 
-Assist lawyers and judicial scriveners with document preparation and legal research; work in law firms or corporate legal departments.
+协助律师和司法书士准备文件和法律研究；在律师事务所或企业法务部门工作。
 
 
 ---
@@ -11,8 +11,8 @@ Assist lawyers and judicial scriveners with document preparation and legal resea
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior College / Vocational School (Law/Legal Practice) | 2 年 | $1,500,000~$2,500,000（Standard tuition for private vocational schools） |
-| Four-year University (Faculty of Law) | 4年 | $2,000,000~$4,000,000（Estimated annual tuition for national to private universities） |
+| 大专/职业学校（法律/法律实践） | 2 年 | $1,500,000~$2,500,000（私立职业学校的标准学费） |
+| 四年制大学（法学院） | 4年 | $2,000,000~$4,000,000（公私大学预估年学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Assist lawyers and judicial scriveners with document preparation and legal resea
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Administrative Scrivener (Gyoseishoshi) | Administrative Scrivener Examination Committee | 可选 | Not mandatory but beneficial for career |
-| Judicial Scrivener (Shihoshoshi) | Ministry of Justice | 可选 | Enables advanced legal work as a legal professional |
-| Bookkeeping Level 2 | The Chamber of Commerce and Industry of Japan | 可选 | Knowledge of law and accounting valued |
+| 行政书士 | 行政书士考试委员会 | 可选 | 非强制但有助于职业发展 |
+| 司法书士 | 法务部 | 可选 | 作为法律专业人士能够进行高级法律工作 |
+| 簿记二级 | 日本商工会议所 | 可选 | 重视法律和会计知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 49,000. Labor shortage is moderate, but roles requiring specialized qualifications maintain stable demand. Routine tasks expected to decrease due to AI adoption.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 49,000。劳动力短缺程度中等，但需要专业资格的职位需求稳定。日常任务因AI应用预计减少。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,94 +39,87 @@ Assist lawyers and judicial scriveners with document preparation and legal resea
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Law firm assistant level |
-| 中级（4-9年） | $4,200,000~$6,000,000 | Senior level; increases with certification |
-| Advanced (10+ years) | $6,000,000~$9,000,000 | Legal manager / certified specialist |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 律师事务所助理级别 |
+| 中级（4-9年） | $4,200,000~$6,000,000 | 高级水平；随认证提升 |
+| 高级（10年以上） | $6,000,000~$9,000,000 | 法律经理 / 认证专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation are advancing in document creation and contract review, but tasks requiring human expertise such as legal judgment and client interaction will remain.
+AI和自动化在文件创建和合同审查方面不断进步，但需要人类专长的任务如法律判断和客户互动仍将保留。
 
-Career advancement possible through experience and obtaining qualifications like Administrative or Judicial Scrivener. Transition to in-house legal departments is common.
+通过经验和取得行政书士或司法书士等资格，可以实现职业晋升。向企业内部法务部门转型很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document template creation
-- Primary screening of patent searches
-- Checking contracts for typos and errors
+- 文档模板创建
+- 专利检索初步筛选
+- 检查合同中的错别字和错误
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drafting legal documents
-- Case law search and analysis
-- Compliance risk assessment
+- 起草法律文件
+- 判例法检索与分析
+- 合规风险评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Applied legal interpretation
-- Understanding client needs
-- Ethical judgment
-- Negotiation and coordination skills
+- 应用法律解释
+- 理解客户需求
+- 道德判断
+- 谈判与协调技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and legal tech operation
-- English contract skills
+- AI与法律科技运营
+- 英语合同技能
 - 项目管理
-- Risk awareness
+- 风险意识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Corporate Legal Affairs
-- Compliance
-- Intellectual Property
-- M&A Support
+- 企业法律事务
+- 合规
+- 知识产权
+- 并购支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable for jobs requiring a university degree and knowledge of law. |
-| Subclass 特定活動（司法試験受験） (Designated Activities) | For foreign nationals who have passed the bar exam and want to train at a Japanese law firm. |
-| Subclass 経営・管理 (Business Manager) | Applies when operating your own law firm. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People skilled in detailed paperwork
-- People who like researching laws and regulations
-- People who don't mind painstaking investigations
+- 擅长细致文书工作的人
+- 喜欢研究法律法规的人
+- 不介意进行艰苦调查的人
 
 **谁不适合**
-- People who prefer creative work
-- People not good at direct negotiation with others
+- 喜欢创造性工作的人
+- 不擅长直接与他人谈判的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：About ¥4.5 million with 5 years of experience, and over ¥6 million after obtaining qualifications.
+**问：该职业的平均年收入是多少？**
+答：拥有5年经验大约450万日元，获得资格证书后超过600万日元。
 
-**问：What visa do foreigners need to work in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is common. Requires graduation from a Japanese university or a combination of work experience and academic background.
+**问：外国人在日本工作需要什么签证？**
+答："人文/国际服务工程师/专家"签证常见。需毕业于日本大学或结合工作经验与学历。
 
-**问：What qualifications should be obtained for career advancement?**
-答：Administrative scriveners and judicial scriveners are typical. In corporate legal affairs, compliance certifications are also useful.
+**问：职业发展需要获得哪些资格？**
+答：行政代书人和司法代书人是典型代表。在企业法务中，合规认证也很有用。
 
 
 ---
@@ -144,12 +137,12 @@ Career advancement possible through experience and obtaining qualifications like
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/legal-administrative-staff/JP)**

@@ -53,8 +53,6 @@ Pig farmers are responsible for the daily breeding, reproduction, health managem
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Career progression starts as a stockperson or farm assistant, advancing to farm supervisor, farm manager, and eventually farm owner or regional production manager. Requires experience in livestock management and ongoing learning in animal health and farm management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression starts as a stockperson or farm assistant, advancing to farm 
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for workers with employer sponsorship, with the opportunity to transition to residency after two years of work |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, based on a 6-point system, requiring qualifications, work experience, and a high salary (above median wage) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires agricultural qualifications (e.g. Level 5 diploma) and a far
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pig-farmer/NZ)**

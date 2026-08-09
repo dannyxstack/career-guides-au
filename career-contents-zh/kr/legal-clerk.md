@@ -1,10 +1,8 @@
-# Legal Clerk 职业分析 · 韩国
+# 法律文员（Legal Clerk）职业分析 · 韩国
 
-**职业代码: 22201 (KECO)**
+**职业代码：22201 (KECO)**
 
-This occupation assists legal professionals such as lawyers and notaries in handling legal affairs including lawsuits, registrations, and notarizations. Tasks include drafting legal documents, submitting papers to courts and administrative agencies, and supporting client consultations.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+本职业协助律师、公证员等法律专业人员处理法律事务，包括诉讼、登记和公证。任务包括起草法律文件、向法院和行政机关提交材料以及支持客户咨询。
 
 
 ---
@@ -13,9 +11,9 @@ This occupation assists legal professionals such as lawyers and notaries in hand
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（Minimum education requirement, no additional cost） |
-| Associate degree in law-related field | 2 年 | $6,000,000~$12,000,000（Based on tuition, lower for public institutions） |
-| Bachelor's degree in law | 4年 | $15,000,000~$30,000,000（Based on tuition, higher for private institutions） |
+| 高中文凭 | 0年 | $0~$0（最低学历要求，无额外费用） |
+| 法律相关领域的副学士学位 | 2 年 | $6,000,000~$12,000,000（基于学费，公立机构较低） |
+| 法学学士学位 | 4年 | $15,000,000~$30,000,000（基于学费，私立院校更高） |
 
 ---
 
@@ -23,18 +21,18 @@ This occupation assists legal professionals such as lawyers and notaries in hand
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Paralegal/Notary Certificate | Notary Examination Management Committee | 可选 | Allows independent work, advantageous for employment |
-| Computerized Accounting Operator | Korea Productivity Center | 可选 | Useful for accounting office assistance |
-| Computer Literacy | Korea Chamber of Commerce and Industry | 可选 | Demonstrates office skills |
+| 律师助理/公证员证书 | 公证考试管理委员会 | 可选 | 允许独立工作，利于就业 |
+| 计算机化会计操作员 | 韩国生产力中心 | 可选 | 有助于会计办公室助理工作 |
+| 计算机素养 | 大韩商工会议所 | 可选 | 展示办公技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 78,000. Demand for legal services is stable, but simple tasks are expected to decrease due to office automation. Demand for skilled professionals will remain.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 78,000。法律服务需求稳定，但简单任务因办公自动化预计减少。对熟练专业人员的需求将持续存在。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,85 @@ This occupation assists legal professionals such as lawyers and notaries in hand
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Based on small-to-medium law firm, pre-tax annual salary |
-| Mid-level (4–7 years) | $30,000,000~$40,000,000 | Increases with experience, larger firms offer more |
-| Advanced (8+ years) | $40,000,000~$55,000,000 | Senior clerk or team leader level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于中小型律师事务所的税前年薪 |
+| 中级（4–7年） | $30,000,000~$40,000,000 | 随经验增长，大型企业薪资更高 |
+| 高级（8年以上） | $40,000,000~$55,000,000 | 高级文员或团队主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-With AI and automation replacing simple repetitive tasks such as legal document drafting and document review, the role of legal assistants will shrink. However, tasks requiring high-level judgment and human interaction like client counseling will still be needed, making the value of specialized legal assistants more important.
+随着AI和自动化取代法律文件起草和文档审查等简单重复任务，法律助理的角色将缩减。然而，需要高层判断和人际互动的任务（如客户咨询）仍将存在，使专业法律助理的价值更加重要。
 
-Typically starts as an office assistant; with experience, advancement to senior clerk or team leader is possible. Many aim to obtain qualifications as a lawyer or notary.
+通常从办公室助理开始；凭经验可晋升为高级文员或团队主管。许多人以取得律师或公证人资格为目标。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Drafting legal documents
-- Searching for precedents and statutes
-- Organizing and classifying documents
+- 起草法律文件
+- 查找先例和法规
+- 整理和分类文件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Supporting client counseling
-- Analyzing complex cases
-- Assisting in legal strategy formulation
+- 支持客户咨询
+- 分析复杂案例
+- 协助制定法律策略
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal service skills
-- Professional legal knowledge
-- Ethical judgment
+- 人际服务技能
+- 专业法律知识
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Legal data analysis
-- Utilizing legal tech
-- Client communication
+- 法律数据分析
+- 利用法律科技
+- 客户沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Legal document automation
-- Enhanced specialization
-- Introduction of e-litigation
-- Development of legal tech
+- 法律文档自动化
+- 增强型专业化
+- 电子诉讼介绍
+- 法律科技开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Partially possible with recognized legal expertise, but uncommon |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no separate activity restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | Employment allowed for overseas Koreans, legal office assistance possible |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People strong in meticulous and accurate document work
-- People interested in acquiring diverse legal knowledge
-- People who prefer a quiet and calm office environment
+- 擅长细致准确的文书工作的人
+- 对获取多样化法律知识感兴趣的人
+- 喜欢安静平和办公环境的人
 
 **谁不适合**
-- People who find repetitive document work tedious
-- People who prefer active interpersonal relationships
+- 认为重复性文书工作乏味的人
+- 喜欢积极人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a legal assistant?**
-答：For entry-level, it is about 24 to 30 million won before tax, and with experience, it can reach over 40 million won.
+**问：法律助理的平均薪资是多少？**
+答：入门级约2400万至3000万韩元（税前），有经验者可超过4000万韩元。
 
-**问：Can a foreigner work as a legal assistant?**
-答：It is possible with an E-7 visa, but legal expertise and Korean language skills are required, and it is generally difficult. Holders of F-4 (Overseas Korean) or F-2 (Residence) visas have an advantage.
+**问：外国人可以担任法律助理吗？**
+答：持有E-7签证可能可行，但需要法律专业知识和韩语能力，通常较困难。持有F-4（在外同胞）或F-2（居住）签证者有优势。
 
-**问：Can a legal assistant become a lawyer?**
-答：You must graduate from law school and pass the bar exam separately; field experience can be helpful.
+**问：法律助理能成为律师吗？**
+答：您必须从法学院毕业并单独通过律师资格考试；实践经验可能有帮助
 
 
 ---
@@ -146,12 +136,12 @@ Typically starts as an office assistant; with experience, advancement to senior 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/legal-clerk/KR)**

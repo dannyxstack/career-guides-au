@@ -54,8 +54,6 @@ Program director is responsible for planning, coordinating, and supervising the 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is rapidly penetrating program planning and arrangement, replacing tasks in data analysis and content recommendation, but strategic decision-making, team leadership, and creative control remain core human strengths. Program directors need to actively embrace AI tools to enhance efficiency.
-
 Can progress from Producer, Editor, or Operations Manager to Program Director, then to Content Director or Media General Manager. Accumulating cross-platform (TV, radio, streaming) management experience is key. The New Zealand industry is small, so advancement requires leadership and strategic vision.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from Producer, Editor, or Operations Manager to Program Director, t
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, can work for up to 3 years; must meet skill and salary requirements |
 | Subclass Green List T1 (Green List Straight to Residence) | The current program director is not listed on T1; if listed in the future, can directly apply for residence |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Major opportunities are concentrated in Auckland and Wellington, as large bro
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-director-television-or-radio/NZ)**

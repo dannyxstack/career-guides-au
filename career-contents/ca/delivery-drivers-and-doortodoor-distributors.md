@@ -52,8 +52,6 @@ Delivering parcels, documents, food, and other goods, driving light vans or truc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Delivery drivers face high risk of automation, especially last-mile delivery. Autonomous driving and drones will reduce job numbers, but niche areas like instant delivery and cold chain still have demand.
-
 Junior drivers can advance to fleet supervisor, dispatcher, or owner-operator. With experience, they can also become long-haul truck drivers or logistics managers. Holding a higher-class license (e.g., Class 1) expands opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior drivers can advance to fleet supervisor, dispatcher, or owner-operator. W
 | Subclass PNP (Provincial Nominee Program (e.g., Ontario, British Columbia, Alberta)) | Many provinces list truck drivers as a shortage occupation, allowing fast-track through provincial nominee programs. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program designated employer sponsorship, suitable for drivers with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually need a G-class (regular) driver's license; some trucks require Class 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-drivers-and-doortodoor-distributors/CA)**

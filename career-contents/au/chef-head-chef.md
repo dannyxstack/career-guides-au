@@ -56,8 +56,6 @@ Chefs and head chefs are responsible for menu development, ingredient management
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
-
 Australia's hospitality industry has fully recovered post-COVID, but chef shortages remain unresolved — restaurants nationwide face a critical labour shortage. Chefs with certificate-level qualifications (Certificate III in Hospitality/Commercial Cookery) have a clear pathway in the skilled migration market. Mining FIFO chefs (two weeks on, one week off roster) can earn $100,000–$130,000, making the role highly attractive.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Australia's hospitality industry has fully recovered post-COVID, but chef shorta
 | Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
 | Subclass 491 (Skilled Work Regional) | Chefs in regional areas are in extremely high demand; attracts a 15-point bonus and multiple states are actively nominating. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Both are MLTSSL shortage occupations. Nurses earn higher salaries ($95k–$12
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chef-head-chef/AU)**

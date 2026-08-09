@@ -53,8 +53,6 @@ Enforce rules in competitive sports events, judge fouls according to regulations
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist referees with video replay, offside calls, etc., improving accuracy; but on-field judgment, rule interpretation, and maintaining order remain human responsibilities, not replaceable in the short term.
-
 Can start as a referee for local amateur competitions, gradually advance to college or professional leagues; need to continuously update rule knowledge and accumulate experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can start as a referee for local amateur competitions, gradually advance to coll
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost impossible. This occupation is not a professional occupation, employer
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/umpires-referees-and-other-sports-officials/US)**

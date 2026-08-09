@@ -52,8 +52,6 @@ A mechanical assembler puts together parts to form complete mechanical equipment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mechanical assemblers face automation risks; repetitive assembly tasks are easily replaced by intelligent robots, but debugging and troubleshooting still rely on human experience.
-
 Typically starting as an apprentice or assembly assistant, one can progress to senior mechanical assembler, production line supervisor, or quality inspector with experience. Some transition to mechanical engineering technology or management roles through further education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically starting as an apprentice or assembly assistant, one can progress to s
 | Subclass PNP (Provincial Nominee Program) | Each province may have priority application streams for skilled trades. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be found. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to assembly supervisor, mechanical technician, or quality ins
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-fitters/CA)**

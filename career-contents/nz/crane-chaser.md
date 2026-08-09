@@ -52,8 +52,6 @@ Crane signalers direct crane operations on construction, mining, and logistics s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
-
 Typically starting as an assistant, with experience one can advance to senior signaler or crane operator, or transition to safety supervision roles. Continuous training to enhance skills supports career growth.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically starting as an assistant, with experience one can advance to senior si
 | Subclass SMC (Skilled Migrant Category) | Skilled migration, requires a 6-point system (e.g., qualifications + work experience); occupation not on the Green List but still eligible to apply. |
 | Subclass Partnership (Partner of a New Zealander Residence Visa) | If your spouse is a New Zealand citizen or resident, you can apply for residence through the partner category. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Safety certificates (e.g., Site Safe) are required. It is also recommended to
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-chaser/NZ)**

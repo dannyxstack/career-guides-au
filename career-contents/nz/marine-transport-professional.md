@@ -54,8 +54,6 @@ Maritime transport professionals in New Zealand are responsible for the navigati
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Career progression can go from ordinary seaman (OS) to officer, then to master or pilot. By accumulating sea hours, obtain higher-level certificates; some transition to maritime management or shore-based work.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression can go from ordinary seaman (OS) to officer, then to master o
 | Subclass SMC (Skilled Migrant Category) | If holding a captain or senior officer certificate, can apply via the SMC 6-point system, scoring based on qualifications and work experience. The current Green List Tier 2 path is more straightforward. |
 | Subclass AEWV (Accredited Employer Work Visa) | As an entry visa, requires an offer from an accredited employer, typically a 3-year work visa. Can later transfer to Green List T2. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold a certificate of competency issued by Maritime New Zealand (dependi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-transport-professional/NZ)**

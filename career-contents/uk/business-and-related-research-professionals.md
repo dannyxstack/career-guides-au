@@ -52,8 +52,6 @@ Business and Related Research Professionals conduct various research activities 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Some tasks for business and related researchers (data collection, report generation) are easily automated by AI, but core capabilities like strategic analysis and client communication still rely on human judgment. AI is a powerful tool; active learning and adaptation are needed.
-
 Career path: Junior Researcher → Senior Researcher → Research Manager or Principal Researcher. Can transition to media editor, policy advisor, or intelligence analysis. Some enter academia or start research consulting firms.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Junior Researcher → Senior Researcher → Research Manager or Pri
 | Subclass Graduate (Graduate visa) | UK graduates can apply for a 2-year (bachelor's/master's) or 3-year (PhD) work visa without employer sponsorship, allowing them to gain experience. |
 | Subclass Scale-up (Scale-up visa) | Applies to research work in eligible high-growth enterprises; employer sponsorship required for first 6 months, flexible thereafter. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically start as a junior researcher or assistant, gain experience, and the
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-and-related-research-professionals/UK)**

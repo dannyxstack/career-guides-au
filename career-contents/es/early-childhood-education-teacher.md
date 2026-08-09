@@ -4,8 +4,6 @@
 
 Responsible for the education, care, and early development of children aged 0-6, designing teaching activities to promote children's cognitive, social, and emotional growth. Patience and creativity are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for the education, care, and early development of children aged 0-6,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on early childhood educators is mixed: automation can reduce administrative and record-keeping burdens, but core caregiving, emotional interaction, and creative teaching are hard to replace; Entry-level positions may face increased competition due to the widespread adoption of AI tools, but demand for deep expertise is rising.
-
 Teachers can be promoted from teacher to head of teaching and research groups, kindergarten principals, or education supervisors. You can also gain specialized expertise in special education or bilingual teaching through further study, entering education administration or training fields.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Teachers can be promoted from teacher to head of teaching and research groups, k
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship required, contract meeting minimum wage requirements, and application within Spain |
-| Subclass Busqueda empleo (Job Search Visa) | Student residence or high-skilled talent job visas allow for a stay of 6-12 months |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Difficult. Public schools require passing the teacher qualification exam (opo
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-education-teacher/ES)**

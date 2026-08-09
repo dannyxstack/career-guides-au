@@ -54,8 +54,6 @@ Responsible for overseeing the production, quality control, and team management 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automates some standardized tasks, but core responsibilities like management decisions, quality control, and regulatory compliance are hard to replace; overall impact is mixed.
-
 Can progress from technical expert to department head or production manager, or move to senior roles such as R&D management or quality management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from technical expert to department head or production manager, or 
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for qualified professionals requiring employer sponsorship |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | The Opportunity Card allows job seekers to enter the country to find work, suitable for highly qualified applicants |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance from technical roles to team leader, production manager, or R&D m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-medical-orthopedic-and-rehabilitation-technology/DE)**

@@ -51,8 +51,6 @@ Assist lawyers and notaries in daily tasks at law firms or notary offices, inclu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Tasks such as standardized document drafting and schedule management in German law firms/notary offices can be efficiently replaced by AI, but responsibilities involving legal judgment, client trust, and notarial procedures still rely on humans—a mixed blessing.
-
 Junior assistants can progress to senior assistants or office supervisors through experience; some can further study to become legal specialists (Fachwirt) or transition to legal assistants (Rechtsanwaltsfachangestellte) through certification. A few have opportunities for internal promotion into management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior assistants can progress to senior assistants or office supervisors throug
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually requires completion of German dual system vocational training (Ausbil
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-assistant-in-law-firm-and-notary-office/DE)**

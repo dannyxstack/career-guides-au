@@ -1,10 +1,8 @@
 # 注册会计师(CPA)（Certified Public Accountant (CPA)）职业分析 · 日本
 
-**职业代码: 181 (JSCO)**
+**职业代码：181 (JSCO)**
 
-Japan's only audit and assurance exclusive license. Specializes in financial statement audits, tax, and consulting for listed companies.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本唯一的审计与鉴证专属执照。专注于上市公司的财务报表审计、税务和咨询。
 
 
 ---
@@ -13,9 +11,9 @@ Japan's only audit and assurance exclusive license. Specializes in financial sta
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University or vocational school (including junior colleges) | 4年 | $2,000,000~$5,000,000（Approx. ¥4M at private liberal arts, ¥2.5M at national/public） |
-| CPA exam prep school | 2–3 years | $600,000~$1,500,000（¥300k–500k/year, total ¥1–2M until passing） |
-| Practical training (at audit firms, etc.) | 3年 | $0~$0（Paid on-the-job experience） |
+| 大学或职业学校（含专科） | 4年 | $2,000,000~$5,000,000（私立文科约400万日元，国立/公立约250万日元） |
+| 注册会计师考试预备学校 | 2–3年 | $600,000~$1,500,000（¥30万–50万/年，总费用¥100万–200万直至通过） |
+| 实践培训（如在审计公司） | 3年 | $0~$0（带薪在职经验） |
 
 ---
 
@@ -23,18 +21,18 @@ Japan's only audit and assurance exclusive license. Specializes in financial sta
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass CPA exam | Financial Services Agency / CPA & Audit Oversight Board | 必备 | Three-stage exam (short-answer, essay, oral). Pass rate ~10% |
-| Complete practical training | Japan Institute of Certified Public Accountants (JICPA) | 必备 | 3 years of experience and completed training required |
-| U.S. CPA (USCPA) | State Boards of Accountancy (USA) | 可选 | Beneficial for international work but not mandatory |
+| 通过CPA考试 | 金融监管厅/注册会计师及审计监督委员会 | 必备 | 三阶段考试（简答、论文、口试）。通过率约10% |
+| 完成实践培训 | 日本注册会计师协会（JICPA） | 必备 | 要求3年经验并完成培训 |
+| USCPA（美国注册会计师） | 美国各州会计委员会 | 可选 | 对国际工作有利但非必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. Stable demand due to corporate governance and internal control needs. Audit firm hiring remains robust, but AI reduces routine tasks.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。由于公司治理和内控需求，需求稳定。审计事务所招聘保持强劲，但AI减少了日常任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ Japan's only audit and assurance exclusive license. Specializes in financial sta
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $4,000,000~$6,000,000 | Audit firm staff, salary example |
-| Mid-level (4–10 years) | $7,000,000~$12,000,000 | Senior Manager at audit corporation, equivalent in-house accountant |
-| Veteran (10+ years) | $12,000,000~$20,000,000 | Partner, CFO, or independent practice can be even higher |
+| 初级（0-3年） | $4,000,000~$6,000,000 | 审计公司员工薪资示例 |
+| 中级（4-10年） | $7,000,000~$12,000,000 | 审计公司的高级经理，相当于内部会计师 |
+| 资深（10年以上） | $12,000,000~$20,000,000 | 合伙人、首席财务官或独立执业可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI will enhance rather than replace the work of CPAs. Tools for audit data analysis, fraud detection, and automatic journal entries are introduced, allowing humans to focus on judgment and client communication.
+AI将增强而非取代注册会计师的工作。引入了审计数据分析、欺诈检测和自动记账工具，使人类能专注于判断和客户沟通。
 
-After 3–7 years at an audit firm, career advancement to independent practice, CFO, or M&A advisor. International skills are highly valued.
+在审计事务所工作3-7年后，职业可晋升为独立执业、CFO或并购顾问。国际技能备受重视。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple book checking
-- Standard tax return preparation
-- Simple data entry tasks
+- 简单账簿核对
+- 标准纳税申报准备
+- 简单的数据录入任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data analysis for fraud detection
-- Audit risk assessment
-- Financial forecasting and scenario analysis
+- 欺诈检测数据分析
+- 审计风险评估
+- 财务预测与情景分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Professional ethics and legal responsibility
-- Trust relationships with clients
-- Complex judgment and interpretation
+- 职业道德与法律责任
+- 与客户建立信任关系
+- 复杂判断与解释
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Basics of AI/machine learning
+- 数据分析
+- AI/机器学习基础
 - 英语能力
-- Consulting Skills
+- 咨询技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Audit quality
-- IFRS compliance
-- Internal control
-- M&A advisory
+- 审计质量
+- IFRS合规
+- 内部控制
+- 并购咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status utilizing accounting/auditing expertise. Allows work at audit firms or corporate accounting departments. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i), (ii), (iii)) | 70+ points under point system; CPAs get bonus for education/experience. Fastest path to permanent residency in 1 year. |
-| Subclass 経営・管理 (Business Manager) | Applies when opening own accounting firm. Requires business management track record. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are strong with numbers and can perform detailed work accurately
-- People with perseverance to endure long periods of study
-- People good at communicating with clients and teams
+- 擅长数字并能准确完成细致工作的人
+- 具有长期学习毅力的人
+- 善于与客户和团队沟通的人
 
 **谁不适合**
-- People who find routine work monotonous
-- People weak to pressure and want to avoid environments with heavy overtime
+- 认为日常工作单调的人
+- 难以承受压力、希望避免加班过多环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a certified public accountant?**
-答：For working at an audit firm, the standard is around 8-10 million yen with about 5 years of experience, and 12-20 million yen with 10+ years. If you open your own practice, higher income is possible but it can be unstable.
+**问：注册会计师的平均年收入是多少？**
+答：在审计公司工作，约5年经验的标准年薪为800-1000万日元，10年以上经验为1200-2000万日元。如果自己开业，收入可能更高，但可能不稳定。
 
-**问：What kind of visa does a foreigner need to work as a certified public accountant in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' residence status is standard. It is advantageous to have obtained the Japanese CPA qualification or specialized knowledge of international accounting standards. It also qualifies for points under the Highly Skilled Professional visa.
+**问：外国人在日本担任注册会计师需要什么签证？**
+答：'人文/国际服务领域的工程师/专家'居留身份为标准。拥有日本CPA资格或国际会计准则专业知识更有利。也符合高技能专业人才签证的积分要求。
 
-**问：What career paths are available if you change jobs from being a CPA?**
-答：Diverse options include CFO, accounting manager, M&A advisor, tax accountant, consultant, etc. They are also valued in venture companies for business planning and IPO preparation.
+**问：从注册会计师转行有哪些职业路径？**
+答：多样化的选择包括首席财务官、会计经理、并购顾问、税务会计师、咨询师等。他们在风险投资公司中也受到重视，负责业务规划和IPO准备。
 
 
 ---
@@ -147,12 +137,12 @@ After 3–7 years at an audit firm, career advancement to independent practice, 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/certified-public-accountant-cpa/JP)**

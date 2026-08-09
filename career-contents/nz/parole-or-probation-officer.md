@@ -52,8 +52,6 @@ Parole or probation officers in New Zealand are responsible for supervising and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
-
 Start as a junior probation officer, can advance to senior probation officer, team leader, or regional manager. Also transition to policy development or training roles, or pursue advanced degrees in psychology or social work for professional development.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior probation officer, can advance to senior probation officer, te
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, requiring a 6-point system (based on qualifications/work) and meeting registration requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Certificate of Sponsorship work visa, for those who have not directly applied for immigration; can later switch to Tier 1. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Easy. On Green List Tier 1, can directly apply for a resident visa, and is a 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parole-or-probation-officer/NZ)**

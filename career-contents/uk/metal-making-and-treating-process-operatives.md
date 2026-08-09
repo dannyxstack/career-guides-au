@@ -51,8 +51,6 @@ Operate furnaces, rolling mills, extruders and other equipment for metal smeltin
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact of AI on fire safety engineers is mixed: routine document review and basic risk assessment can be automated, but on-site decision-making, compliance responsibility, and human factor judgment remain core human barriers.
-
 Starting as a junior operator, progressing to senior operator or team leader through on-the-job training and NVQ qualifications. Some can transition to quality control or process engineering roles, requiring further study in engineering technology.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Starting as a junior operator, progressing to senior operator or team leader thr
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation can be pursued with employer sponsorship, meeting minimum salary of £26,200 or the going rate for the SOC code (which may be lower; employer must demonstrate inability to recruit locally). |
 | Subclass Graduate (Graduate visa) | Suitable for fresh graduates with relevant degrees, can work in any position for 2 years (bachelor's/master's) or 3 years (PhD), then switch to a work visa |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Automation may reduce low-end jobs, but green steel and reindustrialization c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-making-and-treating-process-operatives/UK)**

@@ -1,8 +1,8 @@
 # 矿工（Miner）职业分析 · 日本
 
-**职业代码: 691 (JSCO)**
+**职业代码：691 (JSCO)**
 
-Occupation that excavates mineral resources in mines. Involves drilling, blasting, and hauling underground, supporting the subsurface resource industry.
+在矿井中开采矿产资源的职业。涉及地下钻探、爆破和运输，支撑地下资源产业。
 
 
 ---
@@ -11,8 +11,8 @@ Occupation that excavates mineral resources in mines. Involves drilling, blastin
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Eligible for public high school tuition waiver.） |
-| Vocational School (Mining Technology) | 2 年 | $1,000,000~$2,000,000（Tuition and materials included.） |
+| 高中 | 3年 | $0~$0（有资格享受公立高中学费减免。） |
+| 职业学校（采矿技术） | 2 年 | $1,000,000~$2,000,000（包含学费和材料费。） |
 
 ---
 
@@ -20,18 +20,18 @@ Occupation that excavates mineral resources in mines. Involves drilling, blastin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Blaster License | Prefectural Public Safety Commission | 必备 | National license for handling explosives. Requires work experience before exam. |
-| Mine Safety Technical Officer Certificate | Ministry of Economy, Trade and Industry | 可选 | Required for safety management. |
-| Specified Skills Evaluation Test (Mining) | Ministry of Health, Labour and Welfare / Ministry of Economy, Trade and Industry | 可选 | Useful for transitioning from Technical Intern Training. |
+| 爆破工许可证 | 县公安委员会 | 必备 | 处理爆炸物的国家许可证。考试前需工作经验。 |
+| 矿山安全技术员证书 | 经济产业省 | 可选 | 安全管理所需。 |
+| 特定技能评估考试（矿业） | 厚生劳动省/经济产业省 | 可选 | 有助于从技能实习转岗。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 5,000. Employment is shrinking due to declining domestic mines and reliance on resource imports. However, demand for rare metals and skills transfer maintains some need.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 5,000。由于国内矿山减少和依赖资源进口，就业正在萎缩。但对稀有金属和技能转移的需求维持了一些岗位。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,86 @@ Occupation that excavates mineral resources in mines. Involves drilling, blastin
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,000,000~$4,000,000 | Major mines · Hokkaido · Kyushu |
-| 中级（3-7年） | $4,000,000~$5,500,000 | After obtaining blaster license |
-| 高级（7年以上） | $5,500,000~$7,500,000 | Site supervisor level |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 主要矿山·北海道·九州 |
+| 中级（3-7年） | $4,000,000~$5,500,000 | 取得爆破许可证后 |
+| 高级（7年以上） | $5,500,000~$7,500,000 | 现场主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-The remote operation and automation of mining machinery are advancing through AI and automation, reducing physical labor, but on-site judgment and safety management remain with humans. Overall employment is shrinking due to the decline in mines.
+通过AI和自动化推进采矿机械的远程操作和自动化，减少体力劳动，但现场判断和安全管理仍由人类负责。总体就业因矿山减少而萎缩。
 
-Career progression from pit worker to blaster or site supervisor possible. Upskill via licenses and safety management.
+职业发展可从矿工晋升为爆破工或现场主管。通过执照和安全管理提升技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual excavation work
-- Simple transportation work
-- Underground monitoring tasks
+- 手动挖掘工作
+- 简单运输工作
+- 地下监测任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimization of blasting plans
-- Geological data analysis
-- Remote operation of machinery
+- 爆破方案优化
+- 地质数据分析
+- 远程操作机械
 
-**人类护城河:**
+**人类护城河：**
 
-- Comprehensive on-site judgment
-- Abnormal response capabilities
-- Safety management and teamwork
+- 全面现场判断
+- 异常响应能力
+- 安全管理和团队合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI operation skills
-- Data analysis
-- Machine maintenance
-- English (overseas technical literature)
+- AI操作技能
+- 数据分析
+- 机器维护
+- 英语（海外技术文献）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mining Technology
-- Safety Management
-- Small Elite Teams
-- Resource Recycling
+- 采矿技术
+- 安全管理
+- 小型精英团队
+- 资源回收
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Mining)) | Pass exam & JLPT N4+. Max 5-year stay. |
-| Subclass 技能実習3号 (Technical Intern Training (Mining)) | Can transfer to Specified Skilled Worker after training. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People comfortable working underground/in confined spaces
-- People who enjoy operating machinery
+- 体力充沛的人
+- 适应地下/受限空间工作的人
+- 喜欢操作机器的人
 
 **谁不适合**
-- People with claustrophobia
-- People uneasy about dangerous work
+- 患有幽闭恐惧症的人
+- 对危险工作感到不安的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a miner?**
-答：Varies by experience/qualifications; entry-level 3-4 million yen, veteran 5.5-7.5 million yen. Overtime and underground allowances often paid separately.
+**问：矿工的平均年收入是多少？**
+答：因经验和资质而异；初级300-400万日元，资深550-750万日元。加班费和井下津贴通常另付。
 
-**问：Can foreigners work as miners?**
-答：Yes, with Specified Skilled Worker (i) (Mining) status, passing skill test & JLPT N4+. However, domestic job openings are limited.
+**问：外国人可以当矿工吗？**
+答：可以，凭借特定技能工人(i)（采矿）身份、通过技能测试及日语能力测试N4级以上。但国内职位空缺有限。
 
-**问：How to become a miner with no experience?**
-答：After being hired by a mining company, on-site training is common. Obtaining qualifications such as blasting technician licenses is effective for career advancement. It is also possible to learn the basics at vocational schools.
+**问：如何在没有经验的情况下成为矿工？**
+答：被矿业公司聘用后，通常进行在职培训。获得爆破技师等资格对职业发展有效。也可以在职业学校学习基础。
 
 
 ---
@@ -142,12 +136,12 @@ Career progression from pit worker to blaster or site supervisor possible. Upski
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/miner/JP)**

@@ -51,8 +51,6 @@ Electrical engineering technicians assist electrical engineers in designing, tes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of electrical engineering technicians has mixed prospects: routine drawing, testing, and document generation are easily automated by AI, but on-site installation, fault diagnosis, and compliance responsibilities still rely on human experience. AI will enhance design optimization and predictive maintenance capabilities.
-
 Can progress from junior technician to senior technician or project supervisor, or become a registered electrical engineer or technical manager through further education.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from junior technician to senior technician or project supervisor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled migrants sponsored by a Dutch employer, with a salary threshold of approximately €3,909/month (age 30+) or €2,866/month (age under 30), requiring MBO-level or higher qualification. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU highly skilled workers, requiring at least 3 years of work experience or higher education, salary threshold approximately €5,668/month; electrical technicians usually qualify. |
-| Subclass Orientation Year Vis (Orientation Year) | For master's or doctoral graduates from universities in the Netherlands or ranked in the top 200 globally, allows one year to seek work; can switch to a work visa once employed. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically requires an MBO (Intermediate Vocational Education) Level 4 diploma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/NL)**

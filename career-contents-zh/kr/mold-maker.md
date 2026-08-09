@@ -1,8 +1,8 @@
-# Mold Maker 职业分析 · 韩国
+# 模具制造师（Mold Maker）职业分析 · 韩国
 
-**职业代码: 81311 (KECO)**
+**职业代码：81311 (KECO)**
 
-Professional technical role that designs, processes, assembles, and tests molds to produce and maintain molds required for product manufacturing.
+负责设计、加工、组装和测试模具的专业技术角色，以生产和维护产品制造所需的模具。
 
 
 ---
@@ -11,9 +11,9 @@ Professional technical role that designs, processes, assembles, and tests molds 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Specialized high school in industrial fields (mechanical/mold) | 3年 | $0~$500,000（Free tuition, textbook costs, etc.） |
-| College (Mold Design/Mechanical Engineering) | 2 年 | $2,000,000~$4,000,000（Annual tuition fees） |
-| Korea Polytechnics Mold Engineering Department | 2 年 | $1,000,000~$2,000,000（Affordable with government support） |
+| 工业领域（机械/模具）的专业高中 | 3年 | $0~$500,000（免学费、教材费等。） |
+| 大学（模具设计/机械工程） | 2 年 | $2,000,000~$4,000,000（年度学费） |
+| 韩国Polytechnics模具工程系 | 2 年 | $1,000,000~$2,000,000（借助政府支持价格实惠） |
 
 ---
 
@@ -21,18 +21,18 @@ Professional technical role that designs, processes, assembles, and tests molds 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mold Technician (Mold Functional Technician) | Human Resources Development Service of Korea | 可选 | National technical qualification; verifies basic skills |
-| Mold Industry Engineer | Human Resources Development Service of Korea | 可选 | Preferred in the field; bonus points for promotion |
-| Mechanical Processing Master (Functional Master) | Human Resources Development Service of Korea | 可选 | For highly skilled workers; essential for small business owners |
+| 模具技术员（模具功能技术员） | 韩国人力资源开发服务局 | 可选 | 国家技术资格；验证基本技能 |
+| 模具行业工程师 | 韩国人力资源开发服务局 | 可选 | 该领域优先；晋升加分 |
+| 机械加工大师（功能大师） | 韩国人力资源开发服务局 | 可选 | 面向高技能工人；对小企业主至关重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 48,600. Demand for precision molds remains due to manufacturing automation and smart factory transitions, but a deepening shortage of skilled workers keeps the outlook stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 48,600。由于制造自动化和智能工厂转型，精密模具需求持续存在，但技术工人短缺加深，前景稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,97 +40,89 @@ Professional technical role that designs, processes, assembles, and tests molds 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$32,000,000 | Varies by education and company size |
-| Intermediate (3–7 years) | $32,000,000~$45,000,000 | Increase if holding Craftsman or Industrial Engineer |
-| Advanced (7+ years) | $45,000,000~$60,000,000 | Exceeds maximum salary when doubling as Master Craftsman or Designer |
+| Beginner (0–3 years) | $24,000,000~$32,000,000 | 因教育背景和公司规模而异 |
+| 中级（3-7年） | $32,000,000~$45,000,000 | 持有工匠或工业工程师资格则增加 |
+| 高级（7年以上） | $45,000,000~$60,000,000 | 同时担任大师级工匠或设计师时超过最高薪资 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI enhances mold design optimization, CAM automatic programming, and quality inspection (vision systems), but complex mold modification, setup, and testing require skilled workers' know-how, making full replacement difficult.
+人工智能增强了模具设计优化、CAM自动编程和质量检测（视觉系统），但复杂的模具修改、设置和测试需要熟练工人的技能，使得完全替代困难。
 
-On-site technician → CNC/EDM machining skilled → Mold design (CAD/CAM) → Mold team leader/technical development. Independence is possible after gaining experience at large companies or specialized firms.
+现场技术员 → CNC/EDM加工技工 → 模具设计（CAD/CAM）→ 模具团队负责人/技术开发。在大公司或专业公司积累经验后可独立创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drilling and tapping
-- Repetitive 2D drawing
-- Visual quality inspection
-- Basic NC programming
+- 简单的钻孔和攻丝
+- 重复性2D绘图
+- 视觉质检
+- 基础数控编程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Mold flow analysis
-- Automatic tool path generation
-- 3D scanning and reverse engineering
-- Smart mold design
+- 模流分析
+- 自动刀具路径生成
+- 3D扫描与逆向工程
+- 智能模具设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex precision machining (CAM correction)
-- On-site fault and anomaly judgment
-- Custom mold modification for customer needs
-- Injection/press test adjustment
+- 复杂精密加工（CAM修正）
+- 现场故障与异常判断
+- 根据客户需求定制模具修改
+- 注塑/压力测试调整
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CAD/CAM (NX, Catia, Mastercam)
-- Mold flow analysis (Moldflow)
-- Proficient in CNC and EDM
-- Python-based automation scripts
+- CAD/CAM（NX, Catia, Mastercam）
+- 模流分析(Moldflow)
+- 精通CNC和EDM
+- 基于Python的自动化脚本
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart mold
-- Ultra-precision machining
-- Injection/press mold
-- Mold automation
+- 智能模具
+- 超精密加工
+- 注射/压塑模具
+- 模具自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1, E-7-2)) | Possible as Skilled Worker (E-7-2) or Mold Specialist (E-7-1). Requires employer recommendation and career proof. |
-| Subclass E-9 (Non-professional Employment (E-9)) | Some simple mold tasks allowed; can switch to E-7 after skill development. |
-| Subclass F-2 (Residence (F-2) (Points-based)) | Can obtain residence visa as prelude to permanent residence upon passing skilled worker points system. |
-| Subclass F-4 (Overseas Korean (F-4)) | No employment restrictions for overseas Koreans aged 25+. Easier with field experience. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent dexterity and attention to detail
-- Person who enjoys working with machinery and tools
-- Person skilled at reading blueprints and 3D visualization
+- 手巧且注重细节的人
+- 喜欢操作机械和工具的人
+- 擅长阅读蓝图和3D可视化的人
 
 **谁不适合**
-- People who find simple repetitive tasks boring
-- People who don't follow safety rules well
+- 觉得简单重复任务枯燥的人
+- 不遵守安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a mold maker?**
-答：For new hires, the annual pre-tax salary is about 24-32 million KRW, and for mid-sized/large companies, it is over 30 million KRW.
+**问：模具制造师的起薪是多少？**
+答：新入职者年薪税前约2400万至3200万韩元，中大型企业超过3000万韩元。
 
-**问：Can foreigners get a work visa in the mold field?**
-答：It is possible with an E-7-2 (Skilled Worker) visa or E-7-1 (Professional) visa. Requires at least 1 year of relevant experience and employer recommendation.
+**问：外国人可以在模具行业获得工作签证吗？**
+答：持E-7-2（技术工人）或E-7-1（专业人员）签证可行。要求至少1年相关工作经验及雇主推荐信。
 
-**问：What certifications are advantageous to become a mold maker?**
-答：Mold Technician (essential), Mold Industrial Engineer (promotion/extra points), and Machine Processing Master (independent/advanced) are advantageous in that order.
+**问：成为模具制造师有哪些有利的证书？**
+答：模具技术员（必备）、模具工业工程师（晋升/加分）、机加工大师（独立/高级）依次具有优势。
 
 
 ---
@@ -148,12 +140,12 @@ On-site technician → CNC/EDM machining skilled → Mold design (CAD/CAM) → M
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mold-maker/KR)**

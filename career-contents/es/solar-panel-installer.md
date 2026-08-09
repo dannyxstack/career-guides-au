@@ -52,8 +52,6 @@ Responsible for installing solar photovoltaic panels on rooftops or floors, incl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation tools are optimizing the site selection, design, and monitoring processes for solar panel installation, but physical installation, wiring, and on-site commissioning still require manual labor, resulting in a mixed overall situation for positions and moderate risks associated with core task automation.
-
 You can be promoted to project supervisor, installation team leader, or move to photovoltaic system design and operation engineer. After gaining experience, you can establish your own installation company or enter emerging fields such as energy storage system installation.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted to project supervisor, installation team leader, or move to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by Spanish employer, must prove position cannot be filled locally. Solar installer is a shortage occupation with high approval rate. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring higher education or at least 3 years of relevant experience. The income must reach 1.5 times the minimum wage (approximately 40,000 euros in 2024). |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled talent (Ley 14/2013), applicable to positions with annual salaries over 34,000 euros, the process is relatively fast. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Promotion can be to installation supervisor, project manager, or shift to pho
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solar-panel-installer/ES)**

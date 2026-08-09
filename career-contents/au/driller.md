@@ -55,8 +55,6 @@ Drillers operate drilling rigs for mineral exploration, geotechnical investigati
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
-
 Horizontal directional drilling (HDD) is growing rapidly in urban infrastructure pipeline laying. RC (rotary percussion) and diamond core drilling skills are the highest-paying specialisations.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Horizontal directional drilling (HDD) is growing rapidly in urban infrastructure
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Very easy. The critical minerals exploration boom has made RC and diamond dri
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driller/AU)**

@@ -56,8 +56,6 @@ Dentists diagnose and treat oral diseases, providing services such as cleaning, 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 The cosmetic dentistry (whitening, veneers/implants) and orthodontics markets are growing rapidly, with strong profitability in private clinics. Rural DWS areas offer additional government subsidies and fast-track PR pathways.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ The cosmetic dentistry (whitening, veneers/implants) and orthodontics markets ar
 | Subclass 190 (Skilled Nominated) | State nomination, rural dentists given priority |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, stackable with government subsidies |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both are excellent migration occupations. General practitioners have a wider 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/AU)**

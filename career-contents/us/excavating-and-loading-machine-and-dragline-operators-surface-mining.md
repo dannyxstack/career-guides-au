@@ -53,8 +53,6 @@ Operate or oversee excavation loading machinery at surface mining sites, using b
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Some tasks for heavy equipment operators (e.g., scheduling, documentation) can be automated by AI, but core operations involve on-site perception and physical control; AI is more of an assistant than a replacement, overall risk is moderate.
-
 Typically start as equipment operation assistants, gain experience to advance to senior operator or foreman; some may transition to equipment maintenance or mining management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as equipment operation assistants, gain experience to advance to
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually only requires high school diploma, but must complete MSHA safety trai
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/excavating-and-loading-machine-and-dragline-operators-surface-mining/US)**

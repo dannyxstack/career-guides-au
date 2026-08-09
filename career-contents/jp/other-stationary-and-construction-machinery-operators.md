@@ -49,8 +49,6 @@ Operate stationary and construction machinery like bulldozers and cranes at cons
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-While AI and automation will increase efficiency for some tasks like GPS-linked bulldozers, complex on-site response and safety management still require humans, so full replacement will not progress.
-
 Beginners start with small machinery, gain experience, and obtain licenses for large/special machinery. Career advancement to site supervisor or safety manager is possible. Self-employment is also an option.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Beginners start with small machinery, gain experience, and obtain licenses for l
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | 5-year stay for those who pass skill tests in construction |
-| Subclass 技能実習2号 (Technical Intern Training) | Construction machinery operation is covered but with job change restrictions |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Only possible for university graduates with expertise (rare) |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -139,12 +130,12 @@ A: Some tasks are being automated, but complex on-site judgment requires humans,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-stationary-and-construction-machinery-operators/JP)**

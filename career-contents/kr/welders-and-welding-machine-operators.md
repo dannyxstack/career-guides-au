@@ -4,8 +4,6 @@
 
 This occupation involves joining or cutting metal materials through welding or operating automatic welding machines, playing a key role in manufacturing sectors such as shipbuilding, automotive, and construction.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ This occupation involves joining or cutting metal materials through welding or o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-In the welding field, the adoption of automated welding robots is increasing, but complex shapes and site-specific welding still require human skill, making full replacement by AI difficult.
-
 Starting as entry-level welders, workers can advance by obtaining advanced certifications (e.g., Special Welding Technician), move up to field supervisors or technical superintendents, and enhance competitiveness through training in automation technology.
 
 **Tasks most exposed to AI:**
@@ -94,18 +90,9 @@ Starting as entry-level welders, workers can advance by obtaining advanced certi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled workers, requires welding experience and certifications |
-| Subclass E-9 (Non-professional Employment) | For welders in manufacturing and construction, under Employment Permit System |
-| Subclass F-2 (Residence) | Long-term residents, convertible to points-based system |
-| Subclass F-4 (Overseas Korean) | Open to overseas Korean welders |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +136,12 @@ A: Legally not mandatory, but recommended to obtain a Welding Technician or Indu
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welders-and-welding-machine-operators/KR)**

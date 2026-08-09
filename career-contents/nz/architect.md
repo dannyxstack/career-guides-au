@@ -51,8 +51,6 @@ Architects plan and design buildings, urban complexes, and infrastructure. Due t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Junior architects can gain project experience, then obtain NZRAB registration, advance to registered architect (technical lead), then project manager or design director. Some veterans open their own firms or transition to urban planning consultants.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior architects can gain project experience, then obtain NZRAB registration, a
 | Subclass SMC (Skilled Migrant Category) | Skilled migration, for applicants with New Zealand qualifications or work experience |
 | Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa as a transitional path; eligible for residency after working for 2 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires completing an accredited 5-year Bachelor of Architecture (
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architect/NZ)**

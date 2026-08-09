@@ -53,8 +53,6 @@ FPGA engineers use Verilog/VHDL to implement high-performance digital circuits o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
-
 By 2026, defense signal processing, edge AI acceleration, and low-latency financial computing will be the main directions, but engineers skilled in Verilog/VHDL, timing convergence, and high-speed interfaces are scarce. AI-assisted RTL generation is limited, while hardware timing and verification remain highly specialized.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ By 2026, defense signal processing, edge AI acceleration, and low-latency financ
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Electronic Engineering (233411) is on the immigration list and can be ta
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fpga-engineer/AU)**

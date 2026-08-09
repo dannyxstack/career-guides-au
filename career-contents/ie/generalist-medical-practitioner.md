@@ -52,8 +52,6 @@ General practitioners are the core of the Irish healthcare system, providing pri
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on general practitioner roles is mixed: automation tools will take over some administrative tasks, data entry, and initial screening, but clinical reasoning, patient communication, and complex diagnoses remain highly human-dependent; AI has strong enhancement potential but requires careful integration to maintain trust.
-
 Career path: Resident physician → General practice specialist training (4 years) → GP partner or independent practice. Can develop into management, teaching, or public health.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Resident physician → General practice specialist training (4 year
 | Subclass General Employment P (General Employment Permit) | If Critical Skills criteria are not met, this permit may be applied for. Requires annual salary ≥ €30,000. Employer must pass labour market test. |
 | Subclass EU Blue Card (EU Blue Card) | Minimum annual salary of €64,000 (2024 standard). Provides pathway to EU long-term residency. Applies to highly skilled non-EU doctors. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must apply to the Irish Medical Council (IMC), submit credential assessment, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/generalist-medical-practitioner/IE)**

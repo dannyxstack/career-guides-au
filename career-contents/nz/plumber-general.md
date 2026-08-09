@@ -52,8 +52,6 @@ Plumbers install, maintain, and repair water, drainage, gas, and fire piping sys
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Usually start as a plumber's apprentice; after obtaining a license, can advance to supervisor, project manager, or self-employed contractor. With experience, can also transition to building inspector, pipe designer, or start a company, with flexible income.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as a plumber's apprentice; after obtaining a license, can advance 
 | Subclass SMC (Skilled Migrant Category) | Through the 6-point system: occupational registration can earn 3 points, plus work experience and qualifications, full 6 points to apply. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a transitional work visa, it allows working for an accredited employer for 3 years, after which one may apply for residency. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires completion of a 4-year apprenticeship, obtaining the New Z
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-general/NZ)**

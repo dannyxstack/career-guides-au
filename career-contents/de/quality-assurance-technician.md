@@ -53,8 +53,6 @@ Responsible for monitoring product quality during production, conducting inspect
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
-
 From junior inspector, you can progress to quality engineer or quality manager. Through continuing education (e.g., Six Sigma), you can expand into process optimization or auditing roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ From junior inspector, you can progress to quality engineer or quality manager. 
 | Subclass Skilled Worker (Skilled Worker Visa (German Employment Visa)) | Suitable for dual training or accredited qualifications, with employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows seeking employment in Germany for one year |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, can advance to quality engineer or quality manager; digitalization and I
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-assurance-technician/DE)**

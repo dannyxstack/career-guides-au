@@ -49,8 +49,6 @@ A professional who creates patterns (blueprints) for cutting fabric based on clo
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The automation of pattern making is progressing with advances in CAD software and 3D virtual fitting technology, and the risk of AI replacement is high, especially in mass production.
-
 Starting as a junior pattern maker, one can advance to senior pattern maker or design room manager with experience; learning CAD skills may allow transition to designer or technician roles.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Starting as a junior pattern maker, one can advance to senior pattern maker or d
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employable as skilled functional worker in apparel manufacturing; issued upon meeting degree or experience requirements |
-| Subclass E-9 (Non-professional Employment (E-9)) | Can be employed as non-professional workforce, but pattern maker is eligible for E-7, limited for E-9 |
-| Subclass F-2 (Residence) | Pre-permanent residency stage, no employment restrictions for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +129,12 @@ A: E-7 (Specific Activities) visa is suitable, requiring relevant degree or 5+ y
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pattern-maker/KR)**

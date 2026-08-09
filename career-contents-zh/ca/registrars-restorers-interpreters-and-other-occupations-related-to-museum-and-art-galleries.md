@@ -1,6 +1,6 @@
-# Registrars, restorers, interpreters and other occupations related to museum and art galleries 职业分析 · 加拿大
+# 登记员、修复员、口译员及其他与博物馆和美术馆相关的职业（Registrars, restorers, interpreters and other occupations related to museum and art galleries）职业分析 · 加拿大
 
-**职业代码: 53100 (NOC)**
+**职业代码：53100 (NOC)**
 
 在博物馆、美术馆和文化遗产机构中从事藏品登记、修复、保护、展览策划及公众讲解等工作，确保文化遗产的保存与传播。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 8,500. 加拿大文化产业发展推动博物馆和美术馆就业需求稳定增长，预计未来几年职位数量温和上升，但竞争较为激烈，尤其在大城市。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 8,500。加拿大文化产业发展推动博物馆和美术馆就业需求稳定增长，预计未来几年职位数量温和上升，但竞争较为激烈，尤其在大城市。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 档案管理的自动化风险较高，AI在分类、元数据提取和数字归档方面已能替代大量基础工作，入门岗位需求缩减，但专家级鉴定和策展能力仍具护城河。
 
 职业发展路径通常从助理或技术人员起步，积累经验后可晋升为高级修复师、登记主管或策展人，部分可进入管理或研究岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动分类与标引：AI根据内容自动分配元数据标签和分类号
 - 数字化档案的OCR文本识别与基本校对
@@ -63,7 +63,7 @@
 - 常规保存状态的自动化监控与警报
 - 生成标准化描述与摘要
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI工具进行大规模档案内容挖掘与关联分析
 - 通过自然语言处理提升档案检索的精确度和语义理解
@@ -71,7 +71,7 @@
 - 使用自动化流程加速数字修复与格式迁移
 - 利用AI生成初步策展报告与展览建议
 
-**人类护城河:**
+**人类护城河：**
 
 - 高层次的档案鉴定与价值判断（如确定哪些材料值得永久保存）
 - 处理模糊、破损或极度非结构化的物理档案
@@ -79,7 +79,7 @@
 - 跨学科的知识整合与历史背景解读
 - 开发并监督AI系统的规则与质量保证
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python数据分析与AI工具集成（如使用TensorFlow进行文本分类）
 - 数字策展与元数据标准（如Dublin Core、EAD）
@@ -88,16 +88,16 @@
 - 项目管理和AI伦理认知
 - 熟悉云平台与数字保存技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cultural Heritage
-- Museum Studies
-- Conservation
-- Public Engagement
+- 文化遗产
+- 博物馆学
+- 保护
+- 公共参与
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@
 | Subclass PNP (Provincial Nominee Program) | 部分省份（如安大略省、BC省）可通过省提名移民，需有雇主offer或相关经验 |
 | Subclass LMIA (Labour Market Impact Assessment) | 若获得雇主担保，可通过LMIA工签后申请永久居民 |
 
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -152,12 +150,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/registrars-restorers-interpreters-and-other-occupations-related-to-museum-and-art-galleries/CA)**

@@ -4,8 +4,6 @@
 
 A professional dancer who performs choreography in Korean popular music, broadcasting, and live shows, active on various stages such as K-pop backup dancer, musicals, and concerts.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional dancer who performs choreography in Korean popular music, broadca
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will serve as creative aids (choreography generation, motion capture, etc.) for dancers, enhancing their inherent creativity and expressiveness.
-
 Usually starts as a trainee or backup dancer after passing an audition; with experience, can advance to choreographer, dance team leader, or broadcast appearances.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Usually starts as a trainee or backup dancer after passing an audition; with exp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued to those with professional qualifications in performing/cultural arts; requires employer sponsorship |
-| Subclass F-2 (Residence (F-2)) | Long-term residents with unrestricted activities and no employment limitations |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans; no restrictions on employment activities, and no separate permit needed as a dancer |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: AI can assist with group choreography or simple pattern generation, but creat
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/popular-dance-performer/KR)**

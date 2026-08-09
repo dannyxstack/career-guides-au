@@ -52,8 +52,6 @@ Ultrasound technicians are in high demand in New Zealand's healthcare industry, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sonographer's core tasks (image acquisition and preliminary analysis) are enhanced by AI assistance, but diagnostic interpretation, patient communication, and ethical decisions still require human judgment, presenting both risks and opportunities.
-
 Junior technicians can advance to senior technician or department supervisor with experience, or transition to teaching or research roles, offering broad career development opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior technicians can advance to senior technician or department supervisor wit
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled Migrant Category, based on 6-point system, requires job offer and qualification certification |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a transition pathway |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires assessment by the New Zealand Qualifications Authority (NZQA) and co
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sonographer/NZ)**

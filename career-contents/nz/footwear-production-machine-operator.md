@@ -53,8 +53,6 @@ Operate specialized machines in footwear manufacturing enterprises to perform cu
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
-
 Can progress from junior operator to senior operator or production line supervisor, or laterally transfer to quality control or equipment maintenance roles. Requires accumulating experience and possibly obtaining relevant certificates.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from junior operator to senior operator or production line supervis
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Limited prospects. The industry is impacted by imports, with few job openings
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/footwear-production-machine-operator/NZ)**

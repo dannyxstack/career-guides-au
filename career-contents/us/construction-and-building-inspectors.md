@@ -52,8 +52,6 @@ Building inspectors are responsible for inspecting building structures to ensure
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 Junior inspectors can advance to senior inspector, chief inspector, or project manager through experience. Professional certifications (e.g., ICC certification) can lead to management or consulting roles. Some transition to building code development or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior inspectors can advance to senior inspector, chief inspector, or project m
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to skilled workers, professionals, or other workers. Common for inspectors with relevant degrees or experience; requires PERM labor certification. |
 | Subclass TN (TN NAFTA Professional) | For citizens of Canada and Mexico, the occupation must be on the NAFTA list. Construction inspectors are not explicitly listed, but may apply under 'Engineer' or 'Construction Manager' categories. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: ICC certification is an industry standard, offering specializations in buildi
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-building-inspectors/US)**

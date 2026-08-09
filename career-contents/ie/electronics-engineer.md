@@ -51,8 +51,6 @@ Electronics engineers in Ireland design, develop, and test electronic systems us
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hardware design and testing tasks for electronic engineers face automation pressure, but system integration, innovative design, and cross-disciplinary collaboration are significantly amplified by AI, presenting both risks and opportunities.
-
 The career path usually starts as a junior design engineer, with potential advancement to senior engineer, technical supervisor, or project manager. With experience, one can move into R&D management or consulting, and some specialize in semiconductor or embedded systems.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ The career path usually starts as a junior design engineer, with potential advan
 | Subclass General Employment P (General Employment Permit) | Applies to non-occupations in demand; requires labour market testing; annual salary threshold around €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary must be around €42,000, eligible for fast-track permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Electronic engineers are in high demand in Ireland, particularly in semicondu
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineer/IE)**

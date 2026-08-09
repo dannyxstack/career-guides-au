@@ -52,8 +52,6 @@ In Canada, financial analysts analyze market trends and assess investment risks,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior analysts or investment managers, then to chief investment officer or partner. Lateral moves to risk management, private wealth management, or fintech. Large banks and asset management companies provide clear career ladders.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analysts can advance to senior analysts or investment managers, then to c
 | Subclass PNP (Provincial Nominee (e.g. OINP, BC PNP)) | Both Ontario and British Columbia have provincial nomination programs for financial analysts, usually requiring a job offer or local work experience, which can add 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program: suitable for applicants with a job offer from an Atlantic province; faster processing. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: CFA is the industry gold standard; about 40% of financial analysts hold it. I
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-analysts/CA)**

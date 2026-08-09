@@ -4,8 +4,6 @@
 
 A medical professional who manages patients' health through Oriental medical diagnosis and treatment (acupuncture, moxibustion, herbal medicine, etc.).
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A medical professional who manages patients' health through Oriental medical dia
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI expands the capabilities of Korean medicine doctors in diagnosis assistance, prescription recommendations, and literature analysis, but direct acupuncture procedures and patient consultations will remain a human domain.
-
 Career paths include graduate school, opening a practice or working at an Oriental medicine hospital, public health centers, research institutes, and advancement to professor or researcher.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Career paths include graduate school, opening a practice or working at an Orient
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreigners with Oriental medicine license to work at domestic medical institutions, but very limited |
-| Subclass F-2 (F-2 (Residence)) | Eligible for employment as long-term resident, but requires Oriental medicine license |
-| Subclass F-5 (F-5 (Permanent Residence)) | Eligible for employment as permanent resident, but license must be obtained first |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Graduation from a 6-year Oriental medicine program (Bachelor's) or a 4-year g
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oriental-medicine-doctor/KR)**

@@ -53,8 +53,6 @@ Fly fixed-wing aircraft or helicopters for non-scheduled commercial flights, inc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Career path: start as a flight instructor or small charter co-pilot, accumulate flight hours to become captain, then develop into airline co-pilot/captain, or transition to corporate management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: start as a flight instructor or small charter co-pilot, accumulate 
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to skilled workers, requires PERM labor certification. Long waiting period. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For pilots with extraordinary achievements in aviation; no labor certification required. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically accumulate hours as a flight instructor, charter co-pilot, or aeria
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-pilots/US)**

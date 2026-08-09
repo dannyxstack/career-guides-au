@@ -4,8 +4,6 @@
 
 Responsible for installation, commissioning, daily maintenance, and fault repair of vending machines to ensure normal operation. It requires mastery of mechanical, electrical, and electronic knowledge, along with a customer service mindset.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for installation, commissioning, daily maintenance, and fault repair
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vending machine installers and maintenance workers are affected by AI: AI can optimize fault diagnosis and inventory management, but on-site installation, mechanical repairs, and customer interaction still require human skills, presenting both risks and opportunities.
-
 Career path: Start as a junior installation and maintenance technician, and can be promoted to senior technician, team leader, or regional manager. You can also switch to maintaining self-service devices (such as coffee machines and ticket machines). Some experienced individuals can start a repair company.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Career path: Start as a junior installation and maintenance technician, and can 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract with a French company and apply for a work permit (Autorisation de Travail), which has a relatively high threshold for non-EU residents |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you have high skills or are transferred within the company, you may apply, but this occupation usually does not meet the criteria for urgently needed talent |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: The most common paths are CAP (2 years) or BTS (2 years) related majors, such
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automatic-vending-machine-installer-and-maintainer/FR)**

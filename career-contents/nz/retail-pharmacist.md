@@ -52,8 +52,6 @@ Retail pharmacists work in community pharmacies dispensing prescription medicine
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-NZ retail pharmacist roles are profoundly changed by AI and automation but not easily replaced: dispensing, inventory, and other transactional tasks will be highly automated, while clinical moats such as patient consultations, vaccination services, and chronic disease management are amplified by AI assistants. Entry-level positions narrow due to automation, requiring earlier mastery of digital health tools.
-
 Junior pharmacists can advance to pharmacy manager or specialize in areas like anticoagulation and diabetes. They may also open independent pharmacies or move into pharmaceuticals and drug regulation.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior pharmacists can advance to pharmacy manager or specialize in areas like a
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, higher education or skills can add points |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional step, but not a direct migration pathway |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Overseas pharmacists need to undergo assessment by the Pharmaceutical Society
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-pharmacist/NZ)**

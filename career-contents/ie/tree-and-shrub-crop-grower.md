@@ -53,8 +53,6 @@ Responsible for planting, cultivating and harvesting trees and shrub crops (such
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation will significantly reduce job demand for tree and shrub crop growers, especially in routine monitoring and documentation, but on-site physical work and complex decision-making remain.
-
 Can advance from general worker to planting supervisor or farm manager, or become a crop consultant through specialist training. Self-employment running an orchard or nursery is also common.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from general worker to planting supervisor or farm manager, or becom
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress from general worker to planting supervisor or farm manager, or b
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-and-shrub-crop-grower/IE)**

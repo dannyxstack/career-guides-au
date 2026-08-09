@@ -1,10 +1,8 @@
-# Ticket Inspector 职业分析 · 韩国
+# 检票员（Ticket Inspector）职业分析 · 韩国
 
-**职业代码: 56241 (KECO)**
+**职业代码：56241 (KECO)**
 
-An employee who checks tickets or boarding passes and provides guidance at performance venues, stadiums, public transportation facilities, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在演出场所、体育场馆、公共交通设施等处检查门票或登机牌并提供引导的员工。
 
 
 ---
@@ -13,7 +11,7 @@ An employee who checks tickets or boarding passes and provides guidance at perfo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（Required education: high school or above, but not strictly enforced） |
+| 高中文凭 | 0年 | $0~$0（学历要求：高中及以上，但非强制） |
 
 ---
 
@@ -21,16 +19,16 @@ An employee who checks tickets or boarding passes and provides guidance at perfo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 无 | 无 | 可选 | No separate certification required |
+| 无 | 无 | 可选 | 无需单独认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 8,000. With the recent introduction of automation (electronic gates, mobile tickets), demand for ticket inspectors is declining, but is expected to persist at sites requiring face-to-face service.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 8,000。随着自动化（电子闸机、手机票务）的引入，查票员需求下降，但在需要面对面服务的场所仍将存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★☆☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★☆☆☆☆）**
 
 ---
 
@@ -38,65 +36,59 @@ An employee who checks tickets or boarding passes and provides guidance at perfo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $20,000,000~$24,000,000 | Based on hourly wage, annual salary for 40-hour work week |
-| Intermediate (3-5 years) | $22,000,000~$26,000,000 | Slight increase with experience |
-| Advanced (5+ years) | $24,000,000~$28,000,000 | Moderate increase upon promotion to supervisor |
+| 初级（0-3年） | $20,000,000~$24,000,000 | 基于时薪，40小时工作周的年薪 |
+| 中级（3-5年） | $22,000,000~$26,000,000 | 随经验略有增加 |
+| 高级（5年以上） | $24,000,000~$28,000,000 | 晋升为主管时适度增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Ticket examiners are rapidly losing jobs due to AI and automation technology (electronic gates, QR codes, mobile tickets). Simple repetitive tasks are being replaced, leading to a significant reduction in employment scale.
+由于AI和自动化技术（电子闸机、二维码、手机票务），检票员岗位正在迅速减少。简单重复性任务被取代，就业规模大幅缩减。
 
-Primarily employed as part-time or contract workers; can advance to site supervisor or facility management team with experience. Promotion opportunities are limited.
+主要作为兼职或合同工受雇；有经验后可晋升为现场主管或设施管理团队。晋升机会有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Scanning and checking tickets
-- Manual ticket checking
-- Simple guidance
+- 扫描和检票
+- 人工检票
+- 简单指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer response and handling complex inquiries
-- Emergency response
-- Issue resolution
+- 客户响应与处理复杂咨询
+- 应急响应
+- 问题解决
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face communication skills
-- Ability to handle unexpected situations
-- Accuracy and speed
+- 面对面沟通能力
+- 应对突发情况的能力
+- 准确性和速度
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 客户服务技巧
 - Digital device proficiency
-- Safety and crisis response training
+- 安全与危机应对培训
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation impact
-- Low-skilled
-- Contract
-- Face-to-face service
+- 自动化影响
+- 低技能
+- 合同
+- 面对面服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible to work as a ticket inspector with a non-professional employment visa, but limited through the Employment Permit System |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -104,25 +96,25 @@ Primarily employed as part-time or contract workers; can advance to site supervi
 
 **谁适合**
 - 注重细节且耐心的人
-- Person comfortable with interpersonal service
-- Person who can tolerate simple repetitive tasks
+- 适合人际服务的人
+- 能忍受简单重复性工作的人
 
 **谁不适合**
-- Person seeking quick promotion
-- Person seeking high salary
+- 寻求快速晋升的人
+- 追求高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a ticket examiner?**
-答：Mostly paid hourly, based on 40 hours per week, annual salary is about 20~24 million KRW.
+**问：票务检查员的平均年薪是多少？**
+答：主要按小时计薪，每周40小时，年薪约2000~2400万韩元。
 
-**问：Can foreigners work as ticket examiners?**
-答：Possible with E-9 (Non-professional Employment) visa, but employment through the employment permit system is limited and the occupation may not be included in the officially permitted occupations.
+**问：外国人能担任检票员吗？**
+答：持E-9（非专业就业）签证有可能，但通过雇佣许可制度的就业有限，且该职业可能不在官方允许的职业范围内。
 
-**问：Can a ticket examiner switch to other occupations?**
-答：Possible to move to similar occupations such as facility management or information desk, but may require separate certifications or training.
+**问：检票员可以转行到其他职业吗？**
+答：可能转向设施管理或问讯台等类似职业，但可能需要单独的认证或培训。
 
 
 ---
@@ -140,12 +132,12 @@ Primarily employed as part-time or contract workers; can advance to site supervi
 | 工作强度 | 较低（★☆☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ticket-inspector/KR)**

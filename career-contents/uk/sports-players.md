@@ -52,8 +52,6 @@ Professional athletes compete in individual or team sports for a living through 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
-
 Career pathways include advancing from youth teams, university athletic scholarships, moving to semi-professional/professional clubs. Later, can transition to coaching, sports management, or media commentary.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career pathways include advancing from youth teams, university athletic scholars
 | Subclass Global Talent (Global Talent Visa) | Applicable to athletes internationally recognized or with exceptional talent in sports; no mandatory employer sponsorship required, but endorsement application is needed. |
 | Subclass Skilled Worker (Skilled Worker Visa) | Only applicable to elite athletes sponsored by a few professional clubs, and must meet salary thresholds, rarely used in practice. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Primarily applied for through the Global Talent Visa, requiring evidence of i
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-players/UK)**

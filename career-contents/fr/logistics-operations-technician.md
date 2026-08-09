@@ -54,8 +54,6 @@ Responsible for technical interventions in logistics warehousing operations, inc
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Automation will take over daily equipment monitoring and documentation processes, but AI enhances predictive maintenance and path optimization, requiring technicians to be upgraded to system management roles.
-
 You can advance from junior technician to team leader or logistics engineer, or develop into automation system specialist or supply chain manager, with experience gained and a CQP or BTS diploma required.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can advance from junior technician to team leader or logistics engineer, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, contract of at least one year, salary not less than 1.5 times SMIC, and a work permit required |
-| Subclass Carte bleue UE (EU Blue Card) | Salary must reach €53,715/year (2024 standard), eligible for permanent residence after 5 years |
-| Subclass Passeport Talent - Q (Talent Passport - Professional Qualification) | A bachelor's degree or above or equivalent professional experience is required; a 4-year residence permit can be obtained |
-| Subclass Recherche d'emploi (Job Search Visa) | French graduates can apply, valid for 1 year, can work during this period |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Yes, operating logistics equipment such as forklifts must hold a CACES certif
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logistics-operations-technician/FR)**

@@ -53,8 +53,6 @@ Responsible for optimizing production processes, designing industrial methods, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 You can advance from technician to industrialization engineer or method manager, and after gaining experience, you can transition to project management or supply chain optimization.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from technician to industrialization engineer or method manager,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions with annual salary ≥€53,900 (2024 standard), fast-track residence |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, annual salary ≥ €38,392, can bring family |
-| Subclass Salarié (Employee Work Permit) | Regular employment residency requires a French company guarantee and meets salary standards |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Minimum requires BTS Industrial Methods (2-year program); bachelor's or engin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-intervention-in-methods-and-industrialization/FR)**

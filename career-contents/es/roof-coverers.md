@@ -52,8 +52,6 @@ Responsible for installing and repairing various roof covering materials (such a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
-
 You can start as an apprentice or junior worker, and after gaining experience, be promoted to foreman or project manager, or start your own business to undertake project contracts. Continuous learning about new waterproof materials and green roofing technologies helps enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can start as an apprentice or junior worker, and after gaining experience, b
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work residence) | Sponsored by a Spanish employer, requires submission of a work contract and proof of occupation in shortage, applies to roofers with employer sponsorship. |
-| Subclass Altamente cualificad (Residence of highly skilled professionals (Ley 14/2013)) | Suitable for roofers with senior qualifications (such as FP Grado Superior) and salaries at a certain level, with faster approvals. |
-| Subclass Busqueda empleo (Job seeker visa) | Allows entry into Spain to seek employment for 6 months under the high-skilled category, suitable for experienced roofers. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can start as an apprentice and grow into a skilled worker, foreman, proje
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roof-coverers/ES)**

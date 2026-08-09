@@ -52,8 +52,6 @@ Responsible for caring for dogs in kennels, including feeding, cleaning, walking
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 From junior kennel attendant, can advance to senior attendant, kennel supervisor, or breeding coordinator. With experience, can move into veterinary care or pet behavior training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ From junior kennel attendant, can advance to senior attendant, kennel supervisor
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional Employer Sponsored Provisional Visa, allows work in designated regional areas, with a pathway to 191 permanent residence. |
 | Subclass DAMA (Designated Area Migration Agreement) | Under certain regional agreements, some DAMA include animal care occupations with lower thresholds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can be promoted to kennel supervisor, breeding manager, or transition to pet 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kennel-hand/AU)**

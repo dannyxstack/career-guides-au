@@ -53,8 +53,6 @@ Multimedia content designers are responsible for planning, designing, and produc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Junior multimedia designers can be promoted to senior designer, art director, or creative director. You can also specialize in user interface/user experience design, 3D animation, or video production. Freelancers need to build their personal brand and client networks.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior multimedia designers can be promoted to senior designer, art director, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a work contract or project certification, valid for 4 years. |
-| Subclass Salarié (Employee Work Permit) | Based on the employment contract, a French company sponsorship is required, usually for the first 1 year. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (annual salary ≥ 53,477 euros) for quick residency acquisition. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Nationally recognized diplomas (such as BTS or Licence) are usually required.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/multimedia-content-designer/FR)**

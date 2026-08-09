@@ -1,10 +1,8 @@
-# Material Handling Equipment Installer/Repairer 职业分析 · 韩国
+# 物料搬运设备安装/维修工（Material Handling Equipment Installer/Repairer）职业分析 · 韩国
 
-**职业代码: 81131 (KECO)**
+**职业代码：81131 (KECO)**
 
-A technical role that installs, inspects, and repairs material handling equipment such as forklifts and conveyors; key workforce in logistics and warehouse industries.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+技术岗位，负责安装、检查和维修叉车、传送带等物料搬运设备；物流和仓储行业的关键劳动力。
 
 
 ---
@@ -13,8 +11,8 @@ A technical role that installs, inspects, and repairs material handling equipmen
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Vocational training after high school | 1年 | $500,000~$3,000,000（Korea Polytechnic University or private institutes） |
-| Mechanical Engineering at a junior college | 2 年 | $6,000,000~$12,000,000（Including tuition and textbook fees） |
+| 高中后职业培训 | 1年 | $500,000~$3,000,000（韩国理工大学或私立学院） |
+| 机械工程（专科院校） | 2 年 | $6,000,000~$12,000,000（包括学费和教材费） |
 
 ---
 
@@ -22,17 +20,17 @@ A technical role that installs, inspects, and repairs material handling equipmen
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operator (Craftsman) | Human Resources Development Service of Korea | 必备 | Essential for forklift operation and maintenance |
-| Mechanical Maintenance (Craftsman) | Human Resources Development Service of Korea | 可选 | General mechanical maintenance skills |
+| 叉车操作员（技工） | 韩国人力资源开发服务局 | 必备 | 操作和维护叉车必备 |
+| 机械维护（工匠） | 韩国人力资源开发服务局 | 可选 | 通用机械维护技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Demand is steadily increasing due to e-commerce growth and logistics automation, but some simple repairs may be replaceable by AI.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于电子商务增长和物流自动化，需求稳步增加，但一些简单维修可能被AI取代。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A technical role that installs, inspects, and repairs material handling equipmen
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $24,000,000~$30,000,000 | Annual salary before tax, excluding bonuses |
-| Intermediate (4–7 years) | $32,000,000~$40,000,000 | 年薪税前 |
-| 高级（8年+） | $40,000,000~$55,000,000 | Annual salary before tax, technical team leader level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 税前年薪，不含奖金 |
+| 中级（4-7年） | $32,000,000~$40,000,000 | 年薪税前 |
+| 高级（8年+） | $40,000,000~$55,000,000 | 技术团队负责人级别税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation enhance diagnosis and predictive maintenance of logistics equipment, but on-site installation and complex repairs still rely on human roles, increasing the value of highly skilled maintenance personnel with advanced technical expertise.
+AI和自动化增强了物流设备的诊断和预测性维护，但现场安装和复杂维修仍依赖人工角色，提高了具备高级技术专长的高技能维护人员的价值。
 
-Starting as a junior repairer, you can advance to lead, supervisor, or technical team leader with experience; some move to logistics centers of large corporations or equipment manufacturers.
+从初级维修工做起，随着经验积累可晋升为组长、主管或技术团队负责人；部分转至大型企业物流中心或设备制造商。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine Inspection and Visual Check
-- Simple Part Replacement
-- Basic Operation Testing
+- 日常检查与目视检查
+- 简单零件更换
+- 基本操作测试
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Equipment Fault Diagnosis and Analysis
-- Predictive Maintenance Planning
-- Integration of Automation Systems at Installation Sites
+- 设备故障诊断与分析
+- 预测性维护规划
+- 安装现场自动化系统集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible Problem Solving Based on Site Conditions
-- Comprehensive Understanding of Various Equipment
-- Importance of Safety Rules and Regulatory Compliance
+- 基于现场条件的灵活问题解决
+- 对各种设备的全面了解
+- 安全规则与法规合规的重要性
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Utilization of AI-Based Maintenance Software
-- Electrical, Electronic, and PLC Knowledge
-- Data Analysis and Reporting
+- 电气、电子和PLC知识
+- 数据分析与报告
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics Automation
-- E-commerce
-- Forklift Maintenance
-- Conveyor Installation
+- 物流自动化
+- 电子商务
+- 叉车维护
+- 输送机安装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when experienced foreign repairers are employed by domestic companies; requires experience and certifications |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Partially allowed in manufacturing/logistics, but mechanical maintenance is limited |
-| Subclass F-2 (Residence) | Convertible to points-based system after residence period, for skilled workers |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with manual dexterity and interest in machinery
-- Those unafraid of outdoor/field work
-- Those willing to steadily learn skills
+- 手巧且对机械感兴趣的人
+- 不畏惧户外/现场工作的人
+- 愿意稳步学习技能的人
 
 **谁不适合**
-- Those preferring office work
-- Those wanting regular work hours
+- 偏好办公室工作的人群
+- 希望固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level, annual pre-tax salary is around 24-30 million KRW, increasing with experience and certifications.
+**问：起薪是多少？**
+答：入门级年薪税前约为2400-3000万韩元，随经验和认证增加。
 
-**问：Can foreigners get a work visa for this job?**
-答：Possible with E-7 visa, but requires relevant experience and certifications (e.g., forklift operator), and employer sponsorship.
+**问：外国人能获得这份工作的工作签证吗？**
+答：E-7签证可行，但需相关经验与认证（如叉车操作员），且需雇主担保。
 
-**问：What training or certifications are needed?**
-答：High school diploma or above; completing a 1-year course at Korea Polytechnics or obtaining a forklift operator certification is advantageous.
+**问：需要哪些培训或认证？**
+答：高中及以上学历；完成韩国理工学院的1年课程或取得叉车操作员证书者优先。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a junior repairer, you can advance to lead, supervisor, or technical
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/material-handling-equipment-installer-repairer/KR)**

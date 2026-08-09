@@ -1,10 +1,8 @@
-# Internist 职业分析 · 韩国
+# 内科医生（Internist）职业分析 · 韩国
 
-**职业代码: 30111 (KECO)**
+**职业代码：30111 (KECO)**
 
-An internist is a physician who diagnoses and treats diseases in adult patients using medication and non-surgical methods. They typically work in hospitals or private clinics, handling a variety of internal medical conditions.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+内科医生是使用药物和非手术方法诊断和治疗成人疾病的医生。他们通常在医院或私人诊所工作，处理各种内科疾病。
 
 
 ---
@@ -13,8 +11,8 @@ An internist is a physician who diagnoses and treats diseases in adult patients 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Pre-med (2 years) + Medical school (4 years) | 6年 | $40,000,000~$80,000,000（Low at national universities, high at private universities; scholarships available） |
-| Internship (1 year) + Residency (3 years) | 4年 | $20,000,000~$30,000,000（Receive salary during training; no separate tuition fees） |
+| 预科（2年）+ 医学院（4年） | 6年 | $40,000,000~$80,000,000（国立大学低，私立大学高；有奖学金） |
+| 实习（1年）+住院医师（3年） | 4年 | $20,000,000~$30,000,000（培训期间领取工资，无需额外学费） |
 
 ---
 
@@ -22,17 +20,17 @@ An internist is a physician who diagnoses and treats diseases in adult patients 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical license | Ministry of Health and Welfare | 必备 | Requires passing the national exam after graduating from medical school |
-| Internal medicine specialist certification | Korean Academy of Medical Sciences | 必备 | Requires passing the specialist exam after completing residency |
+| 医疗执照 | 保健福祉部 | 必备 | 从医学院毕业后需通过国家考试 |
+| 内科专科医师认证 | 大韩医学科学院 | 必备 | 完成住院医师培训后需通过专科考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. With aging and the rise of chronic diseases, demand for internists is expected to steadily increase. As the shortage of doctors deepens, job prospects are very favorable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。随着老龄化和慢性病增多，对内科医生的需求预计将稳步增长。随着医生短缺加剧，就业前景非常有利。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ An internist is a physician who diagnoses and treats diseases in adult patients 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry level (Intern/Resident) | $40,000,000~$60,000,000 | Salary during training varies by hospital size |
-| Mid level (5th year specialist) | $99,999,999 | Based on hospital staff; higher if private practice |
-| Senior level (15+ years or private practitioner) | $99,999,999 | Possible annual salary of 500 million KRW or more if private practice is successful |
+| 入门级（实习/住院医师） | $40,000,000~$60,000,000 | 培训期间薪资因医院规模而异 |
+| 中级（第5年专家） | $99,999,999 | 基于医院员工；私营诊所更高 |
+| 高级（15年以上经验或私人执业） | $99,999,999 | 私人执业成功的话，年薪可达5亿韩元或更多 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used in internal medicine for image reading, diagnosis assistance, and drug recommendations to improve efficiency, but the core of medical care is handled by human doctors. AI will act as a tool to enhance rather than replace doctors.
+AI在内科中用于影像读取、诊断辅助和药物推荐以提高效率，但医疗核心由人类医生处理。AI将成为增强而非取代医生的工具。
 
-After obtaining a general internal medicine specialist license, one can open a private practice or advance from fellow to assistant professor to professor at a university hospital. Subspecialties (e.g., gastroenterology, cardiology) can also be chosen.
+获得普通内科专科医生执照后，可以开设私人诊所，或在大学医院从研究员晋升为助理教授、教授。也可以选择亚专科（如胃肠病学、心脏病学）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image reading
-- Basic diagnostic classification
-- Drug interaction verification
+- 简单图像读取
+- 基本诊断分类
+- 药物相互作用验证
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision diagnosis assistance
-- Treatment plan formulation
-- Patient monitoring
+- 精准诊断辅助
+- 治疗方案制定
+- 患者监护
 
-**人类护城河:**
+**人类护城河：**
 
-- Clinical judgment
-- Patient empathy skills
-- Complex problem solving
+- 临床判断
+- 患者共情技能
+- 复杂问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI utilization skills
-- Data analysis
-- Medical informatics
+- AI应用技能
+- 数据分析
+- 医学信息学
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Chronic diseases
-- Increase in medical demand
-- Internist
+- 人口老龄化
+- 慢性病
+- 医疗需求增长
+- 内科医生
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when employed at a domestic medical institution with internal medicine specialist certification, but Korean proficiency and medical license verification are required |
-| Subclass F-2 (F-2 (Residence) (Points-based)) | Favorable for long-term residence as skilled professionals; doctors benefit from high education and income |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in science and life
-- People who can endure long learning and patience
-- People skilled in patient communication
+- 对科学和生命有浓厚兴趣的人
+- 能忍受长时间学习和耐心的人
+- 擅长患者沟通的人
 
 **谁不适合**
-- People not interested in drug therapy over surgery or direct treatment
-- People who struggle with high-stress environments
+- 对药物治疗而非手术或直接治疗不感兴趣的人
+- 在高压环境中感到吃力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an internist?**
-答：Entry-level residents earn 40-60 million KRW, 5th-year specialists earn 120-200 million KRW, and private practitioners earn 250-500 million KRW or more.
+**问：内科医生的平均薪资是多少？**
+答：入门级居民收入4000-6000万韩元，第5年专家收入1.2-2亿韩元，私人执业者收入2.5-5亿韩元或以上。
 
-**问：Can foreign nationals work as internists in Korea?**
-答：Possible, but requires a Korean medical license, E-7 visa, and Korean language proficiency.
+**问：外国人在韩国能否担任内科医生？**
+答：可能，但需要韩国医疗执照、E-7签证和韩语能力。
 
-**问：How long does it take to become an internal medicine specialist?**
-答：Total of 10+ years: 6 years of medical school, 1 year of internship, 3 years of residency.
+**问：成为内科专家需要多长时间？**
+答：总计10年以上：医学院6年，实习1年，住院医师3年。
 
 
 ---
@@ -143,12 +134,12 @@ After obtaining a general internal medicine specialist license, one can open a p
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/internist/KR)**

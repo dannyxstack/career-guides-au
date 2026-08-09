@@ -52,8 +52,6 @@ Construction technicians are responsible for supervising construction sites and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core supervisory decisions and on-site coordination for construction technicians are difficult to replace with AI, but tasks such as code review, document processing, and quality data recording will be automated, making overall risk controllable.
-
 You can advance from junior technician (assisting with surveying, material testing) to senior technician (independently managing small projects), and then to construction project manager or technical consultant. Accelerate your advancement by earning a degree in Architecture/Engineering (Grado) or Advanced Vocational Training (FP Grado Superior).
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from junior technician (assisting with surveying, material testi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of relevant experience, with a contract meeting the salary threshold (approximately €33,600 in 2023). Suitable for intermediate and above technicians. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | For employment-based residence, a contract must be provided by the Spanish company and proof that the vacancy cannot be filled by a local resident. Suitable for all types of construction technicians. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled professionals, the process is faster, requiring education or experience, with a salary threshold of about 40,000 euros. Suitable for senior technicians or project managers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Common pathways: Complete 2 years of Advanced Vocational Training (FP Grado S
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-technician/ES)**

@@ -52,8 +52,6 @@ Responsible for sorting, delivering, and collecting mail and parcels; a key role
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly reduce the demand for mail deliverers and sorters, as smart sorting and autonomous delivery can replace most physical and procedural work, but the last-mile human interaction still has room.
-
 You can start as a courier or sorter and advance to team leader, regional operations manager, or transition into logistics coordination or customer service management. This requires accumulating experience and participating in internal training.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can start as a courier or sorter and advance to team leader, regional operat
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, with a high income threshold (approx. €5,331/month in 2024); this occupation usually does not meet it. Consider EU Blue Card, but employer sponsorship may go through a regular work permit (GVVA). |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Requires annual salary of at least €5,539/month (2024); this occupation's salary usually does not meet the threshold. Alternative: Labour Agreement (labour migration), etc. EU citizens can move freely. |
-| Subclass Orientation Year (Orientation Year (Search Year)) | For master's/PhD graduates from the Netherlands, allows one year to find a job, any occupation. Applies to international students who have graduated. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Some sorting is automated, but last-mile delivery still requires human labor.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mail-carrier-and-sorting-clerk/NL)**

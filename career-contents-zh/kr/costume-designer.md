@@ -1,10 +1,8 @@
-# Costume Designer 职业分析 · 韩国
+# 服装设计师（Costume Designer）职业分析 · 韩国
 
-**职业代码: 41521 (KECO)**
+**职业代码：41521 (KECO)**
 
-A costume designer analyzes fashion trends, designs clothing and accessories, and oversees the entire process from sample production to manufacturing.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+服装设计师分析流行趋势，设计服装和配饰，并监督从样品制作到生产的全过程。
 
 
 ---
@@ -13,9 +11,9 @@ A costume designer analyzes fashion trends, designs clothing and accessories, an
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $6,000,000~$10,000,000（Based on national polytechnic college） |
-| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（Annual tuition for fashion design department at 4-year university） |
-| 硕士 | 2 年 | $12,000,000~$25,000,000（Annual graduate school tuition） |
+| 副学士学位 | 2 年 | $6,000,000~$10,000,000（基于国立理工学院） |
+| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（四年制大学时尚设计系年度学费） |
+| 硕士 | 2 年 | $12,000,000~$25,000,000（研究生院年学费） |
 
 ---
 
@@ -23,17 +21,17 @@ A costume designer analyzes fashion trends, designs clothing and accessories, an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fashion Design Industrial Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory |
-| Garment Making Craftsman | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
+| 时装设计工业工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制 |
+| 服装制作工匠 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Employment in the Korean fashion industry is expected to stagnate due to intensified global competition and changing consumer trends, but new jobs are expected to be created in online brands and sustainable fashion.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于全球竞争加剧和消费者趋势变化，韩国时尚行业的就业预计将停滞，但在线上品牌和可持续时尚领域预计将创造新就业机会。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A costume designer analyzes fashion trends, designs clothing and accessories, an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Before tax, design assistant |
-| Mid-level (4–7 years) | $35,000,000~$45,000,000 | Before tax, general designer |
-| Advanced (8+ years) | $50,000,000~$70,000,000 | Before tax, senior or creative director |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 税前，设计助理 |
+| 中级（4–7年） | $35,000,000~$45,000,000 | 税前，一般设计师 |
+| 高级（8年以上） | $50,000,000~$70,000,000 | 税前，高级或创意总监 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists designers in fashion trend analysis, pattern generation, and personalized recommendations, but creative design and aesthetic judgment remain human domains. Simple repetitive tasks risk automation.
+AI协助设计师进行时尚趋势分析、图案生成和个性化推荐，但创意设计和审美判断仍是人类领域。简单重复性任务有被自动化风险。
 
-Careers typically start in design studios or fashion companies, with promotions from assistant designer to designer, senior designer, and creative director. Portfolio and networking are important.
+职业生涯通常始于设计工作室或时装公司，从助理设计师晋升为设计师、高级设计师和创意总监。作品集和人脉很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic pattern making
-- Simple color matching
-- Trend report writing
+- 基本打版
+- 简单配色
+- 趋势报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Trend analysis
-- Customized design proposals
-- 3D virtual sample production
+- 趋势分析
+- 定制化设计方案
+- 3D虚拟样品制作
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative design sense
-- Ability to understand customer needs
-- Practical experience in sewing and materials
+- 创意设计感
+- 理解客户需求的能力
+- 缝纫和材料的实践经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI design tools
-- Data analysis
-- Knowledge of sustainable fashion
+- AI设计工具的应用
+- 数据分析
+- 可持续时尚知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online fashion
-- Sustainable fashion
-- Sportswear
-- Cultural content costumes
+- 在线时尚
+- 可持续时尚
+- 运动服装
+- 文化内容服装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires over 5 years of experience as a professional in fashion design |
-| Subclass D-10 (Job Seeking) | Short-term job-seeking for fashion-related graduates |
-| Subclass F-2 (Residence) | Long-term stay permitted, no employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Highly creative with strong aesthetic sense
-- Interested in fashion trends and continuously studies them
-- Detail-oriented and able to focus on specifics
+- 高度创意，审美感强
+- 对时尚趋势感兴趣并持续学习
+- 注重细节，能专注于具体事务
 
 **谁不适合**
-- Prefers regular and structured tasks
-- Vulnerable to rapid change and pressure
+- 偏好常规和有结构的任务
+- 易受快速变化和压力影响
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a costume designer?**
-答：Entry-level pre-tax approx. 24-30 million KRW, 8+ years experience: 50-70 million KRW
+**问：服装设计师的平均年薪是多少？**
+答：入门税前约2400-3000万韩元，8年以上经验：5000-7000万韩元
 
-**问：What visa can foreigners use to work as a costume designer?**
-答：The E-7 (Special Occupation) visa is commonly used, requiring at least 5 years of experience. Fashion majors can engage in job-seeking activities with the D-10 (Job Seeker) visa.
+**问：外国人从事服装设计师工作可以使用什么签证？**
+答：常用E-7（特殊职业）签证，要求至少5年经验。时尚专业可用D-10（求职者）签证进行求职活动。
 
-**问：Do I need to go to university to become a costume designer?**
-答：It's not mandatory, but a degree in fashion design is advantageous for employment and career development. A portfolio is most important.
+**问：成为服装设计师需要上大学吗？**
+答：非强制性，但时装设计学位对就业和职业发展有利。作品集最重要。
 
 
 ---
@@ -145,12 +135,12 @@ Careers typically start in design studios or fashion companies, with promotions 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/costume-designer/KR)**

@@ -4,8 +4,6 @@
 
 A specialist who diagnoses and treats oral diseases, comprehensively managing dental and oral health including cavities, gum disease, orthodontics, and implants.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialist who diagnoses and treats oral diseases, comprehensively managing de
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI enhances some tasks like diagnostic assistance, radiograph interpretation, and surgical planning, but actual procedures and patient consultations still require human doctors. Replacement risk by AI is low, but use of assistive tools is expected to increase.
-
 Graduate from dental school → pass national dental exam → internship/residency (optional) → open a clinic or work at a hospital. Common path: become a professor at a university hospital, obtain specialist certification, then open a clinic.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Graduate from dental school → pass national dental exam → internship/residen
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for foreign dentists invited to work at domestic medical institutions, but license recognition procedures required |
-| Subclass F-2 (F-2 (Residence)) | Possible to open a dental clinic as a long-term resident if points-based qualifications are met |
-| Subclass F-5 (Permanent Residence) | No restrictions on medical activities as a permanent resident |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: It takes at least 6 years: 2 years of pre-dental and 4 years of dental school
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/KR)**

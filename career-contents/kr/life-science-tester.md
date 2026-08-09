@@ -49,8 +49,6 @@ A professional who experiments and analyzes the structure and function of living
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some repetitive experiments and data analysis tasks in life science testers' work, but human roles remain crucial for new research design and interpretation. Thus, the main impact is improved work efficiency rather than job loss due to AI.
-
 Initially, tasks include experiment assistance and data analysis; with experience, promotion to researcher, senior researcher, and laboratory director is possible. Master's/Doctoral degrees and research achievements are advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Initially, tasks include experiment assistance and data analysis; with experienc
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professional research personnel; can engage in life science research at institutes or companies |
-| Subclass D-2 (D-2 (Student Visa)) | Can participate in research during master's/doctoral programs; eligible for D-10 or E-7 conversion after graduation |
-| Subclass F-2 (Residence (F-2)) | Long-term stay and free employment; eligible to apply after meeting residence period upon obtaining E-7 |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: A Life Science Engineer (national technical certification) is beneficial for 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/life-science-tester/KR)**

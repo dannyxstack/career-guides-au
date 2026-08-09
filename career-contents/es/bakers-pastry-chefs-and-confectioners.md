@@ -4,8 +4,6 @@
 
 Professionals responsible for making baked goods such as bread, pastries, cakes, and candies, usually working in craft workshops, bakeries, supermarkets, or hotel kitchens.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Professionals responsible for making baked goods such as bread, pastries, cakes,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of bakers, pastry chefs, and confectioners is a mixed mix of joys and worries due to AI: repetitive tasks like simple weighing and mixing face automation, but creative recipes, fine decoration, and quality control still rely on human skills.
-
 Junior bakers/pastry chefs can be promoted to master or supervisor, or start their own bakery. Some continue their education to study food management and enter production or quality control positions. In the hotel industry, you can rise to the position of pastry supervisor under the executive chef.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Junior bakers/pastry chefs can be promoted to master or supervisor, or start the
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and a labor contract, applicable to non-EU citizens, but bakers are not considered high-skilled and scarce occupations, making approval difficult. |
-| Subclass Cuenta propia (Work Permit (Self-Employed)) | For self-employment residency, a business plan must be submitted, and to open a bakery or pastry workshop, proof of investment capability and economic sustainability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can grow from apprentice to master, then become a production supervisor o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bakers-pastry-chefs-and-confectioners/ES)**

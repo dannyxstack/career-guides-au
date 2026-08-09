@@ -51,8 +51,6 @@ Accountants record, analyze, and report financial information, ensure tax compli
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Starting as a junior accountant, can advance to senior accountant, financial manager, or financial controller. After obtaining the certified public accountant (Dottore Commercialista) qualification, can open a practice or become a partner.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Starting as a junior accountant, can advance to senior accountant, financial man
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU workers, requiring higher education and a high salary (2024 threshold approx. €32,000) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU quota work visas, requires employer sponsorship, with annual quota limits |
-| Subclass Work Permit (Nulla Osta) | Work permit applied for by the employer, suitable for regular work visas |
-| Subclass EU intra-company transfer (Intra-Company Transfer) | Intra-company transfer to Italian branch |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: You can apply for the EU Blue Card (requiring high salary and qualifications)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/IT)**

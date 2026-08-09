@@ -53,8 +53,6 @@ Engage in unskilled simple physical labor or support work, including cleaning, m
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation mainly involves simple manual labor with high automation risk. AI and robots will massively replace tasks such as handling, packaging, and cleaning. The number of positions is expected to shrink, but there will still be some demand in logistics and cleaning sectors.
-
 Limited promotion paths, typically to supervisor or semi-skilled roles. With experience, opportunities to work as operators in transport, warehousing, or manufacturing.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Limited promotion paths, typically to supervisor or semi-skilled roles. With exp
 | Subclass General Employment P (General Employment Permit) | Applicable to non-shortage positions with an annual salary below 30,000 euros, requiring employer sponsorship. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer within multinational corporations, suitable for large logistics companies. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Limited promotion paths, typically advancing to team leader or moving to semi
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-worker-not-elsewhere-classified/IE)**

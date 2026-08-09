@@ -52,8 +52,6 @@ Environmental consultant is a shortage occupation in New Zealand's environmental
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of environmental consultants (report writing, data analysis, regulatory compliance) will be significantly enhanced by AI, but human abilities like field investigation, client communication, and strategic decision-making remain irreplaceable. Entry-level roles are slightly compressed due to automation of basic tasks, but demand for compound talents rises. Overall, it's a mixed risk.
-
 Junior consultants can advance to senior consultant, project manager, or partner. Experienced professionals can move into government policy-making, corporate sustainability executive roles, or independent consulting, with opportunities in carbon trading or ecological restoration.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior consultants can advance to senior consultant, project manager, or partner
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Strengthened environmental regulations in New Zealand and increased infrastru
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-consultant/NZ)**

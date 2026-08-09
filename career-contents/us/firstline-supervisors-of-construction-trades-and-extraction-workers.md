@@ -52,8 +52,6 @@ Supervise and coordinate activities of construction or mining workers to ensure 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Landscaping and horticulture services contractors/supervisors have mixed prospects: physical and on-site decision tasks are hard to automate, but documentation, monitoring, and client communication are being enhanced by AI, with medium automation risk.
-
 Usually promoted from skilled workers; with experience can advance to project manager, construction manager, or company executive. Continuing education in construction management can improve promotion prospects.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually promoted from skilled workers; with experience can advance to project ma
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card application requires at least 2 years of training or experience |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Labor certification, employer-sponsored green card process |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires only high school diploma plus years of experience, but ass
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-construction-trades-and-extraction-workers/US)**

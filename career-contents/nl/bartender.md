@@ -4,8 +4,6 @@
 
 Bartenders prepare drinks, serve customers, and maintain bar cleanliness in venues such as bars and restaurants. Skills required include cocktail mixing, customer service, and cash handling.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Bartenders prepare drinks, serve customers, and maintain bar cleanliness in venu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The career outlook for bartenders is mixed: AI will automate tasks like inventory management, cashiering, and simple drink preparation, but human emotion and skill remain core barriers in creative cocktails, personalized customer service, and atmosphere creation.
-
 Junior bartenders can advance to senior bartenders or bar supervisors through experience, and further develop into bar managers or beverage directors. Some choose to open their own bars.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior bartenders can advance to senior bartenders or bar supervisors through ex
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for bartenders? Usually requires a degree and salary threshold; bartenders generally don't qualify unless in senior management. |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary, bartending is nearly impossible. |
-| Subclass Orientation Year (Orientation Year) | Applicable to Dutch graduate international students; can work freely for one year, after which they need to switch visas. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can advance from junior bartender to senior bartender, bar supervisor, bar ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bartender/NL)**

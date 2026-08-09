@@ -52,8 +52,6 @@ Including legal advisors, compliance officers, intellectual property specialists
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Uncategorised legal professionals face mixed AI impacts: routine tasks like contract review and legal research will be automated, but areas requiring professional judgment such as strategic consulting, negotiation, and compliance assessment will be enhanced by AI, reshaping rather than eliminating job structures.
-
 Entry-level can start as legal assistant or corporate legal counsel, advancing to senior legal advisor, compliance manager, or partner.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Entry-level can start as legal assistant or corporate legal counsel, advancing t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU talent, requires university degree and contract at least 1.5 times Italian average wage (approx. €33,000) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, applies to non-EU workers; legal professions are usually not on the shortage list, but you can try |
-| Subclass Autonomous Work Visa (Self-Employment Visa) | Suitable for legal consulting as a freelancer or independent contractor, requiring proof of high professional standards |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: After 5 years of continuous residence on a work visa, you can apply for perma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-professional-not-elsewhere-classified/IT)**

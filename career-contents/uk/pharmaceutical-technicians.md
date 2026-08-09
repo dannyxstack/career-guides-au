@@ -54,8 +54,6 @@ Pharmacy technicians assist pharmacists in preparing and dispensing medications 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will take over some prescription checks and inventory tracking, but pharmacy technicians' duties in pharmacy operations, regulatory compliance, and patient interaction remain hard to replace, making overall risk medium-high.
-
 Junior technicians can gain experience and advance to senior technician or pharmacy manager. Further education can lead to becoming a pharmacist (requires a university degree). Registration with the General Pharmaceutical Council is a necessary step for advancement.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior technicians can gain experience and advance to senior technician or pharm
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes, advancement to senior technician, pharmacy manager, or further study to 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmaceutical-technicians/UK)**

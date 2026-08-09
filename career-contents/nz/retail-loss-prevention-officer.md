@@ -53,8 +53,6 @@ Retail loss prevention officers monitor theft, fraud, and shrinkage in retail en
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Retail loss prevention officers face mixed AI impact: AI video surveillance automates some theft prevention tasks, but also enhances data analysis and risk prediction. Traditional monitoring roles may shrink, but demand for AI-proficient loss prevention experts rises.
-
 Can progress from junior security officer or loss prevention assistant to loss prevention supervisor and regional loss prevention manager. After gaining experience and professional certifications, can transition to security consulting or enterprise risk management roles. Executive positions require strong analytical and communication skills.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can progress from junior security officer or loss prevention assistant to loss p
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Starting as a junior loss prevention officer, can advance to loss prevention 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-loss-prevention-officer/NZ)**

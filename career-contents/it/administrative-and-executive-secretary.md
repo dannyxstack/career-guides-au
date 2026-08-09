@@ -53,8 +53,6 @@ Responsible for providing administrative support to senior management, including
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on administrative and executive secretary roles is mixed: routine tasks like scheduling and document processing will be taken over by AI tools, but high-level tasks such as complex communication and decision support will be enhanced, requiring proactive adaptation.
-
 Can progress from junior secretary to senior administrative assistant or office manager; some may transition to professional fields such as human resources or project management through further study.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Can progress from junior secretary to senior administrative assistant or office 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and annual salary ≥ approximately €24,000 |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quotas and require employer sponsorship |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer applies for work permission with immigration authorities; upon approval, can apply for a work visa |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Eligible via EU Blue Card (requires university degree and high salary) or Dec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-and-executive-secretary/IT)**

@@ -1,6 +1,6 @@
-# ASIC Design Engineer 职业分析 · 新西兰
+# ASIC设计工程师（ASIC Design Engineer）职业分析 · 新西兰
 
-**职业代码: 233411-ASIC (ANZSCO)**
+**职业代码：233411-ASIC (ANZSCO)**
 
 ASIC 设计工程师负责专用集成电路的数字前端(RTL 设计/综合)或后端(物理设计/时序收敛)，面向 SoC、AI 加速器与专用芯片，是稀缺、高门槛、高薪的深科技岗位。
 
@@ -28,10 +28,10 @@ ASIC 设计工程师负责专用集成电路的数字前端(RTL 设计/综合)�
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 400. 在新西兰，全球芯片自主与 AI 加速需求外溢，ASIC 芯片设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**职位需求量：中（★★½☆☆）** 全国从业人数约 400。在新西兰，全球芯片自主与 AI 加速需求外溢，ASIC 芯片设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,21 +49,21 @@ ASIC 设计工程师负责专用集成电路的数字前端(RTL 设计/综合)�
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 ASIC设计工程师处于喜忧参半的局面：AI将显著提升RTL生成、综合优化和时序分析等自动任务效率，但复杂架构决策、跨层级协同和流片前最终签核仍需人类判断。入门级岗位（如简单模块RTL编写）可能被压缩，但高端岗位需求增长。
 
 新西兰 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 简单RTL模块的代码生成（AI根据高层次描述自动生成Verilog/VHDL）
 - 基础综合流程设置与优化（AI自动选择库和约束）
 - 时序分析报告生成与常见违例自动修复
 - 功耗分析报告的自动生成与简单优化建议
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助进行高层次架构探索（快速评估面积-功耗-性能权衡）
 - AI驱动的验证覆盖率分析与测试用例自动生成
@@ -71,14 +71,14 @@ ASIC设计工程师处于喜忧参半的局面：AI将显著提升RTL生成、�
 - 跨团队协作时AI自动生成设计文档和检查清单
 - AI加速版本回归测试与调参（如综合策略、DFT插入）
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂架构决策（如微架构创新、功耗-性能-面积折衷的非平凡选择）
 - 跨域协调（与模拟、验证、测试、软件团队的对接与规格定义）
 - 流片前最终签核判断（基于经验的风险评估和应急方案）
 - 芯片安全与可靠性设计（侧信道防护、老化感知设计等）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握AI辅助设计工具（如Synopsys DSO.ai、Cadence Cerebrus）
 - 强化系统级架构设计能力（SoC集成、异构计算）
@@ -87,17 +87,17 @@ ASIC设计工程师处于喜忧参半的局面：AI将显著提升RTL生成、�
 - 提升Python/Perl/Tcl脚本能力以驾驭AI工作流
 - 学习芯片安全与可靠性设计基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Frontend RTL Design & Synthesis
-- Low-Power/High-Performance SoC Design
-- AI Accelerators & ASICs
-- Backend Physical Design and Timing Closure
-- Chip Startup & Fabless Design
+- 数字前端RTL设计与综合
+- 低功耗/高性能SoC设计
+- AI加速器与ASICs
+- 后端物理设计与时序收敛
+- 芯片初创与无晶圆设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@ ASIC设计工程师处于喜忧参半的局面：AI将显著提升RTL生成、�
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa：雇主担保工签 |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category：积分制技术移民居留 |
 
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -160,12 +158,13 @@ ASIC设计工程师处于喜忧参半的局面：AI将显著提升RTL生成、�
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 中低（★★☆☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/asic-design-engineer/NZ)**

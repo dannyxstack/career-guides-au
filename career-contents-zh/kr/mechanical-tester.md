@@ -1,8 +1,8 @@
-# Mechanical Tester 职业分析 · 韩国
+# 机械测试员（Mechanical Tester）职业分析 · 韩国
 
-**职业代码: 15131 (KECO)**
+**职业代码：15131 (KECO)**
 
-A professional who conducts tests and inspections to evaluate the quality and safety of machinery and metal products.
+进行测试和检查以评估机械和金属产品质量与安全的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who conducts tests and inspections to evaluate the quality and sa
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Mechanical/Metal-related) | 2 年 | $8,000,000~$12,000,000（Varies by national/public and private schools based on tuition） |
-| University (Mechanical Engineering, etc.) | 4年 | $18,000,000~$25,000,000（National/public universities are cheaper based on tuition） |
+| 大学（机械/金属相关） | 2 年 | $8,000,000~$12,000,000（因国立/公立和私立学校而异，取决于学费） |
+| 大学（机械工程等） | 4年 | $18,000,000~$25,000,000（国立/公立大学学费更便宜） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who conducts tests and inspections to evaluate the quality and sa
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Non-Destructive Testing Engineer | Human Resources Development Service of Korea | 必备 | Essential qualification in non-destructive testing field |
-| Metal & Materials Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification related to mechanical testing |
-| Quality Management Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for quality control positions |
+| 无损检测工程师 | 韩国人力资源开发服务局 | 必备 | 无损检测领域的基本资质 |
+| 金属与材料工程师 | 韩国人力资源开发服务局 | 可选 | 与机械测试相关的国家技术资格 |
+| 质量管理工程师 | 韩国人力资源开发服务局 | 可选 | 对质量控制职位有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 18,000. Employment is maintained due to increased automation and quality importance in manufacturing, but demand for personnel is expected to stagnate.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 18,000。由于制造业自动化和质量重要性提高，就业得以维持，但人员需求预计将停滞。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,86 +39,79 @@ A professional who conducts tests and inspections to evaluate the quality and sa
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Varies between large and small/medium enterprises |
-| Mid-level (4-10 years) | $38,000,000~$48,000,000 | Increases with certification |
-| 资深（10年以上） | $50,000,000~$65,000,000 | Quality control manager level |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 大企业与中小企业之间有所不同 |
+| 中级（4-10年） | $38,000,000~$48,000,000 | 随着认证增加 |
+| 资深（10年以上） | $50,000,000~$65,000,000 | 质量控制经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are replacing parts of the testing process, but human expertise is still needed for interpreting results and making judgments. Simple repetitive inspections are decreasing, while roles in advanced analysis and quality decision-making are strengthened.
+人工智能和自动化正在取代部分测试过程，但解读结果和做出判断仍需人的专业知识。简单的重复性检查减少，而高级分析和质量决策的角色得到加强。
 
-Promotion possible from entry-level mechanical tester to skilled tester and quality control manager; certifications and experience play a key role.
+可从初级机械测试员晋升为熟练测试员和质量控制经理；认证和经验起关键作用。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Unit test record
-- Basic pass/fail judgment
+- 单元测试记录
+- 基本通过/不通过判断
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Non-destructive test result analysis
-- Statistical processing of test data
+- 无损检测结果分析
+- 测试数据的统计处理
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpretation of non-standard test results
-- Judgment based on field experience
+- 非标准测试结果的解读
+- 基于现场经验的判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Non-destructive testing practice
-- Test data analysis
-- Use of AI tools
+- 无损检测实践
+- 测试数据分析
+- 人工智能工具的使用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Quality control
-- Non-destructive testing
-- Manufacturing automation
-- Test data analysis
+- 质量控制
+- 无损检测
+- 制造业自动化
+- 测试数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Work available as skilled personnel in mechanical testing |
-| Subclass E-9 (Non-professional Employment) | Simple test assistant work possible but limited |
-| Subclass F-2 (Residence) | Long-term stay can lead to permanent residence conversion |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and meticulous personality
-- Person with high interest in machinery and metal fields
-- Person who can concentrate even on repetitive inspection tasks
+- 注重细节且一丝不苟的性格
+- 对机械和金属领域有浓厚兴趣的人
+- 能专注于重复性检查任务的人员
 
 **谁不适合**
-- Person who prefers creative and autonomous work
-- Person who dislikes static work environments
+- 喜欢创意和自主工作的人
+- 不喜欢静态工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a mechanical tester?**
-答：The starting salary is between 28 million won and 35 million won, with differences between large and small-to-medium enterprises.
+**问：机械测试员的起薪是多少？**
+答：起薪在2800万韩元至3500万韩元之间，大企业与中小企业有差异。
 
-**问：Can foreigners get a job with an E-7 visa?**
-答：Yes, specialized personnel in mechanical testing are eligible for E-7 visas, and relevant certifications or degrees are required.
+**问：外国人可以通过E-7签证就业吗？**
+答：是，机械测试专业技术人员有资格申请E-7签证，需持有相关证书或学历。
 
 
 ---
@@ -136,12 +129,12 @@ Promotion possible from entry-level mechanical tester to skilled tester and qual
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mechanical-tester/KR)**

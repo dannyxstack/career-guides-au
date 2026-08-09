@@ -1,10 +1,8 @@
-# Reporter, Editor 职业分析 · 日本
+# 记者、编辑（Reporter, Editor）职业分析 · 日本
 
-**职业代码: 212 (JSCO)**
+**职业代码：212 (JSCO)**
 
-A profession involving interviewing, writing, and editing for newspapers, broadcasters, and publishers. Strong writing and research skills are required.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+涉及为报纸、广播公司和出版商进行采访、写作和编辑的职业。需要较强的写作和研究能力。
 
 
 ---
@@ -13,8 +11,8 @@ A profession involving interviewing, writing, and editing for newspapers, broadc
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Undergraduate) | 4年 | $4,000,000~$6,000,000（For private universities. National/public universities cost approx. ¥2.5 million.） |
-| Vocational School (Media/Journalism Department) | 2 年 | $2,000,000~$3,500,000（学费因学校而异。） |
+| 大学（本科） | 4年 | $4,000,000~$6,000,000（适用于私立大学。国立/公立大学费用约250万日元。） |
+| 职业学校（媒体/新闻系） | 2 年 | $2,000,000~$3,500,000（学费因学校而异。） |
 
 ---
 
@@ -22,18 +20,18 @@ A profession involving interviewing, writing, and editing for newspapers, broadc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Reporter Exam | Each broadcaster/newspaper company | 必备 | An in-house exam required upon hiring. |
-| Editorial Certification | Japan Publishing Club | 可选 | A certification valued in the publishing industry. |
-| Fact-Checking Certification | Japan Fact-Check Center | 可选 | Useful for improving credibility. |
+| 记者考试 | 各广播公司/报社 | 必备 | 入职时需参加内部考试。 |
+| 编辑认证 | 日本出版俱乐部 | 可选 | 出版行业重视的认证。 |
+| 事实核查认证 | 日本事实核查中心 | 可选 | 有助于提高可信度。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 80,000. Demand is decreasing due to the decline of print media and digital shift. However, growth opportunities exist in web media and video content production.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 80,000。由于印刷媒体的衰落和数字化转变，需求正在减少。然而，在网络媒体和视频内容生产方面存在增长机会。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A profession involving interviewing, writing, and editing for newspapers, broadc
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,500,000~$5,000,000 | Starting salary level at newspapers and broadcasters. |
-| Mid-Level (5–10 years) | $5,000,000~$8,000,000 | Specialist reporters or desk editors. |
-| Veteran (15+ years) | $8,000,000~$12,000,000 | Editor-in-chief class. Higher at major media companies. |
+| 入门级（0–3年） | $3,500,000~$5,000,000 | 报纸和广播公司的起薪水平。 |
+| 中级（5-10年） | $5,000,000~$8,000,000 | 专业记者或编辑。 |
+| 资深（15年以上） | $8,000,000~$12,000,000 | 主编级别。大型媒体公司更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-AI-generated articles are progressing, automating routine pieces like sports updates and financial reports. However, investigative reporting, interviews, and complex analysis remain human tasks. As a result, AI serves as a tool, altering job content.
+AI生成的文章正在进步，能够自动化处理体育更新和财务报告等常规内容。然而，调查报道、采访和复杂分析仍由人类完成。因此，AI作为一种工具，正在改变工作内容。
 
-Typical career path from reporter to desk editor to editor-in-chief. Specializing in a field (politics, economics, science, etc.) can lead to a position as a specialist reporter.
+典型职业路径：从记者到编辑再到总编辑。专攻某一领域（政治、经济、科学等）可成为专业记者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing breaking news articles on accidents/disasters
-- Automated generation of corporate earnings reports
-- Simple event announcement articles
+- 撰写关于事故/灾难的突发新闻文章
+- 企业收益报告的自动生成
+- 简单的活动通知文章
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data analysis and visualization using AI
-- Automated translation and subtitle generation
-- Fact-checking support
+- 使用AI进行数据分析和可视化
+- 自动翻译和字幕生成
+- 事实核查支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Information based on original interviews
-- Building relationships and trust
-- Ethical judgment and editorial policy decisions
-- Creative storytelling
+- 基于原始访谈的信息
+- 建立关系和信任
+- 伦理判断与编辑政策决策
+- 创意叙事
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与可视化
-- Video editing and multimedia production
-- Fact-checking
-- Foreign languages such as English and Chinese
+- 视频编辑与多媒体制作
+- 事实核查
+- 外语如英语和中文
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital media
-- Data journalism
-- Video distribution
-- Fact-checking
+- 数字媒体
+- 数据新闻
+- 视频分发
+- 事实核查
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge. Application possible if the job matches. Japanese proficiency is emphasized. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as outside the target field. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Based on a points system. Possible if high income or career background. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Curious and investigative people
-- People good at writing
-- People with stress tolerance
+- 好奇和探究型的人
+- 擅长写作的人
+- 抗压能力强的人
 
 **谁不适合**
-- People who value a regular lifestyle
-- People who prefer solitary work
+- 重视规律生活的人
+- 偏好单独工作的人员
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a journalist/editor?**
-答：Depending on experience and employer, starting salary is 3.5–5 million yen, mid-career 5–8 million yen, and veteran 8–12 million yen. May be higher at major media companies.
+**问：记者/编辑的平均薪资是多少？**
+答：根据经验和雇主不同，起薪为350-500万日元，中期500-800万日元，资深800-1200万日元。大型媒体公司可能更高。
 
-**问：What visa is needed for a foreigner to work as a journalist/editor in Japan?**
-答：Requires 'Engineer/Specialist in Humanities/International Services' visa status. High Japanese proficiency and expertise needed, making entry difficult.
+**问：外国人在日本从事记者/编辑工作需要什么签证？**
+答：需要“工程师/人文国际服务”签证身份。需要较高的日语水平和专业知识，因此进入门槛高。
 
-**问：Will AI take journalists' and editors' jobs?**
-答：AI-generated articles are advancing, but investigative reporting, original interviews, and deep analysis remain human roles. AI will be used as a supplement.
+**问：AI会取代记者和编辑的工作吗？**
+答：AI生成的文章在进步，但调查性报道、原创采访和深度分析仍是人类角色。AI将作为辅助工具使用。
 
 
 ---
@@ -147,12 +137,12 @@ Typical career path from reporter to desk editor to editor-in-chief. Specializin
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/reporter-editor/JP)**

@@ -1,10 +1,8 @@
-# Wedding Planner 职业分析 · 韩国
+# 婚礼策划师（Wedding Planner）职业分析 · 韩国
 
-**职业代码: 51212 (KECO)**
+**职业代码：51212 (KECO)**
 
-Wedding planners are professionals who plan and prepare weddings, providing overall wedding services including budget management, vendor selection, and schedule coordination.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+婚礼策划师是策划和筹备婚礼的专业人士，提供包括预算管理、供应商选择和日程协调在内的整体婚礼服务。
 
 
 ---
@@ -13,8 +11,8 @@ Wedding planners are professionals who plan and prepare weddings, providing over
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Wedding Planner-related programs) | 2 年 | $10,000,000~$20,000,000（Tuition based on national/public universities） |
-| University (Event/Tourism-related programs) | 4年 | $20,000,000~$40,000,000（Tuition based on private universities） |
+| 大学（婚礼策划相关专业） | 2 年 | $10,000,000~$20,000,000（按国立/公立大学标准收费） |
+| 大学（活动/旅游相关专业） | 4年 | $20,000,000~$40,000,000（按私立大学标准收费） |
 
 ---
 
@@ -22,17 +20,17 @@ Wedding planners are professionals who plan and prepare weddings, providing over
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Wedding Planner Certificate | Korea Vocational Competency Institute | 可选 | Private certification; advantageous for employment |
-| Fashion Coordinator Certificate | Korea Vocational Competency Institute | 可选 | 可选 |
+| 婚礼策划师证书 | 韩国职业能力研究院 | 可选 | 私人认证；对就业有利 |
+| 时尚协调员证书 | 韩国职业能力研究院 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 12,000. Despite intensifying competition due to a decline in the number of marriages and the contactless trend, demand for professional planners is expected to persist thanks to the growing need for customized small weddings.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 12,000。尽管结婚数量下降和接触限制趋势导致竞争加剧，但对定制小型婚礼的需求使得专业策划人的需求预计持续存在。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,66 +38,59 @@ Wedding planners are professionals who plan and prepare weddings, providing over
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $22,000,000~$30,000,000 | Based on pre-tax annual salary |
-| Mid-level (4–7 years) | $30,000,000~$42,000,000 | Based on pre-tax annual salary |
-| Senior-level (8+ years) | $42,000,000~$60,000,000 | Pre-tax annual salary, varies by experience and scale |
+| 初级（0-3年） | $22,000,000~$30,000,000 | 基于税前年薪 |
+| 中级（4–7年） | $30,000,000~$42,000,000 | 基于税前年薪 |
+| 高级（8年以上） | $42,000,000~$60,000,000 | 税前年薪，视经验和规模而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can automate tasks like wedding schedule management, budget calculation, and vendor recommendations, but emotional interaction with clients, creative planning, and on-site coordination still require human roles.
+AI可自动处理婚礼日程管理、预算计算和供应商推荐等任务，但与客户的互动、创意策划和现场协调仍需人工。
 
-Starting as a junior planner, one can advance to a senior planner after 3–5 years, and to a wedding consultant or independent business after 7–10 years. The field is moving away from large wedding companies toward personal brands and studios.
+从初级策划师起步，3-5年后可晋升为高级策划师，7-10年后成为婚礼顾问或自主创业。该领域正从大型婚礼公司转向个人品牌和工作室。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- budget template creation
-- schedule reminder sending
-- basic vendor list creation
+- 预算模板制作
+- 日程提醒发送
+- 基本供应商名单创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- customized wedding planning
-- real-time budget adjustment
-- vendor negotiation strategy development
+- 定制婚礼策划
+- 实时预算调整
+- 供应商谈判策略制定
 
-**人类护城河:**
+**人类护城河：**
 
-- emotional empathy skills
-- on-site emergency handling
-- creative concept planning
+- 情感共情技能
+- 现场应急处理
+- 创意概念策划
 
-**需构建的技能:**
+**需构建的技能：**
 
-- data analysis
-- UI/UX-based service planning
-- understanding customer psychology
+- 数据分析
+- 基于UI/UX的服务规划
+- 理解客户心理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Small-scale weddings
-- Customized services
-- non-face-to-face consultation
-- wedding tech
+- 小型婚礼
+- 定制服务
+- 非面对面咨询
+- 婚庆科技
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign wedding planners with professional qualifications employed in domestic companies, but issuance records are extremely rare. |
-| Subclass F-2 (F-2 (Residence)) | Foreign residents in Korea can work as wedding planners without employment restrictions. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -107,25 +98,25 @@ Starting as a junior planner, one can advance to a senior planner after 3–5 ye
 
 **谁适合**
 - 注重细节和创造力的人
-- Those with excellent stress management skills
-- Those skilled in interpersonal relations and negotiation
+- 具备出色压力管理能力者
+- 擅长人际关系和谈判的人
 
 **谁不适合**
-- Those who prefer regular and predictable tasks
-- Those who dislike overtime and weekend work
+- 喜欢规律和可预测任务的人
+- 不喜欢加班和周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a wedding planner?**
-答：Entry-level pre-tax annual salary is about KRW 22-30 million, rising to KRW 42-60 million with experience. However, commission-based income structures may cause significant fluctuations.
+**问：婚礼策划师的平均薪资是多少？**
+答：入门级税前年薪约2200-3000万韩元，有经验后升至4200-6000万韩元。但基于佣金的收入结构可能造成大幅波动。
 
-**问：Can foreigners work as wedding planners in Korea?**
-答：Possible with an E-7 visa but very difficult to obtain; F-2 visa holders residing in Korea can work without restrictions. Overall, it is a limited immigration pathway.
+**问：外国人可以在韩国担任婚礼策划师吗？**
+答：持有E-7签证可能但申请困难；持F-2签证且在韩国居住者可以无限制工作。总体而言，移民途径有限。
 
-**问：How can a wedding planner advance their career?**
-答：Starting as an entry-level, one typically progresses to mid-level and senior planner, then to independent business ownership or transitioning to a wedding consultant. Recently, specializing in small-scale customized weddings is a trend.
+**问：婚礼策划师如何提升职业发展？**
+答：从初级岗位开始，通常晋升至中级和高级规划师，然后独立创业或转型为婚礼顾问。近期，专门从事小型定制婚礼成为趋势。
 
 
 ---
@@ -143,12 +134,12 @@ Starting as a junior planner, one can advance to a senior planner after 3–5 ye
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/wedding-planner/KR)**

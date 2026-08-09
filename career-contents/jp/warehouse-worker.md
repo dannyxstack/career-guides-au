@@ -51,8 +51,6 @@ Performs receiving, inspection, sorting, and inventory management of goods in th
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The introduction of AI and automation technologies (automated warehouses, AGVs, picking robots) makes simple sorting and moving tasks easily replaceable. However, tasks requiring complex judgment and flexible responses will remain.
-
 Start with no experience; by obtaining a forklift license and inventory management skills, you can advance to team leader or warehouse manager.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Start with no experience; by obtaining a forklift license and inventory manageme
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fields: Casting/Manufacturing, Industrial Machinery, Electrical/Electronic Information-Related Manufacturing)) | Logistics including warehouse work is not directly covered, but manufacturing fields may include warehouse work. As of 2024, not a designated field for Specified Skilled Worker, but under discussion due to labor shortages. |
-| Subclass 技能実習3号 (Technical Intern Training (Manufacturing/Warehouse-related)) | Warehouse work possible under manufacturing or logistics-related technical intern training. Max residency period 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable when engaged in specialized work such as warehouse management or inventory control. Requires university degree or higher, or relevant work experience. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: By obtaining a forklift license or warehouse manager certification, and acqui
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/warehouse-worker/JP)**

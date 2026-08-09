@@ -53,8 +53,6 @@ Display and sell various goods and services to customers in stores, showrooms, e
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce sales and retail assistant positions, especially replaceable tasks like inventory queries, checkout, and basic inquiries, but interpersonal interaction and complex services will retain some demand.
-
 Career path: Senior Sales Assistant → Department Supervisor → Assistant Store Manager → Store Manager → Regional Manager. Some can transition to purchasing, merchandising, or e-commerce operations. Need to accumulate customer service and sales management experience.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career path: Senior Sales Assistant → Department Supervisor → Assistant Stor
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can advance to senior sales assistant, department supervisor, assistant store
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-retail-assistants/UK)**

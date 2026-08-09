@@ -1,10 +1,8 @@
-# Customs Broker 职业分析 · 韩国
+# 报关行（Customs Broker）职业分析 · 韩国
 
-**职业代码: 02331 (KECO)**
+**职业代码：02331 (KECO)**
 
-A profession specializing in customs duties, clearance, and trade-related legal consultation and agency for import/export goods. Requires a license issued by the Commissioner of the Korea Customs Service.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专门从事进出口货物关税、通关及贸易相关法律咨询和代理的职业。需要获得韩国关税厅厅长颁发的许可证。
 
 
 ---
@@ -13,9 +11,9 @@ A profession specializing in customs duties, clearance, and trade-related legal 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Customs/Trade related) | 2 年 | $10,000,000~$20,000,000（Based on public universities; higher for private ones.） |
-| Bachelor's degree (Trade/Economics related) | 4年 | $20,000,000~$40,000,000（Estimated including tuition and living expenses.） |
-| License acquisition (Customs Broker) | 2-3年 | $5,000,000~$15,000,000（Includes academy fees, textbook costs, etc.） |
+| 大专学历（海关/贸易相关） | 2 年 | $10,000,000~$20,000,000（基于公立大学；私立大学更高） |
+| 学士学位（贸易/经济学相关） | 4年 | $20,000,000~$40,000,000（Estimated including tuition and living expenses.） |
+| 许可获取（报关行） | 2-3年 | $5,000,000~$15,000,000（包含学院费、教材费等。） |
 
 ---
 
@@ -23,18 +21,18 @@ A profession specializing in customs duties, clearance, and trade-related legal 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 报关师执照 | Korea Customs Service | 必备 | 1st round: multiple choice (Customs Law, Trade English, etc.), 2nd round: subjective test. Pass rate 5-10%. |
-| Trade English Level 1 | Korea Chamber of Commerce and Industry | 可选 | Preferred qualification. Not mandatory. |
-| FTA Specialist Certificate | Korea Customs Service | 可选 | Advantageous when specializing in FTA-related work. |
+| 报关师执照 | 韩国海关 | 必备 | 第一轮：选择题（海关法、贸易英语等），第二轮：主观题。通过率5-10%。 |
+| 贸易英语一级 | 大韩商工会议所 | 可选 | 优先资格。非强制性。 |
+| FTA专家证书 | 韩国海关 | 可选 | 在从事自由贸易协定相关工作时具有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 3,200. Demand is stable due to increased global trade and expanded use of FTAs. High difficulty in obtaining qualification, but offers high income and employment stability once expertise is recognized.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 3,200。由于全球贸易增长和FTA的扩展，需求稳定。获得资格难度高，但一旦专业知识得到认可，可带来高收入和就业稳定性。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,92 +40,86 @@ A profession specializing in customs duties, clearance, and trade-related legal 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$45,000,000 | Starting salary at customs brokerage firm or corporate customs team. |
-| Mid-level (4-9 years) | $50,000,000~$80,000,000 | Experienced regular employee, partner-level at a customs brokerage. |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Partner customs broker or team leader at a large corporation; higher if self-employed. |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 报关行或企业海关团队的起薪。 |
+| 中级（4-9年） | $50,000,000~$80,000,000 | 经验丰富的正式员工，在报关行相当于合伙人级别。 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 大型企业的合作伙伴报关行或团队负责人；个体经营者更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can replace some tasks like customs document processing, HS code classification, and duty calculation, but high-level professional judgment (legal interpretation, FTA negotiations, customs audit response) still requires humans. Overall, AI improves efficiency and serves as an assistant rather than a replacement.
+AI和自动化可以取代部分任务如海关文件处理、HS编码分类和税费计算，但高级专业判断（法律解释、FTA谈判、海关审计应对）仍需要人类。总体而言，AI提高了效率，作为辅助而非替代。
 
-Careers typically start at customs brokerage firms, corporate customs teams, or the Korea Customs Service. After 5-10 years, can advance to partner at a customs corporation or team leader at a large company. Self-employment is also possible.
+职业通常始于报关公司、企业报关团队或韩国海关。5-10年后可晋升为报关公司合伙人或大型企业团队负责人。也可自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- HS code classification automation
-- Duty calculation automation
-- AI review of declaration documents
+- HS编码分类自动化
+- 关税计算自动化
+- AI审核申报文件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customs risk analysis
-- FTA origin determination support
-- Customs audit response
+- 海关风险分析
+- FTA原产地判定支持
+- 海关稽查应对
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal judgment and argumentation
-- Government liaison skills
-- Personalized consulting
+- 法律判断与论证
+- 政府联络技能
+- 个性化咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- In-depth customs law knowledge
-- AI tool proficiency
-- Data analysis
-- Foreign languages (English, Chinese, etc.)
+- 深入的关务法律知识
+- AI工具熟练度
+- 数据分析
+- 外语（英语、中文等）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- FTA utilization
-- Advanced electronic customs clearance
-- Increase in customs audits
-- Supply chain restructuring
+- 自贸协定利用
+- 高级电子报关
+- 海关审计增加
+- 供应链重组
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible when employed at a domestic corporation as a foreign customs broker; professional certification required. |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy legal analysis and logical reasoning
-- People with a strong interest in global trade and import/export
-- Patient individuals who can overcome challenging certification exams
+- 喜欢法律分析和逻辑推理的人
+- 对全球贸易和进出口有浓厚兴趣的人
+- 有耐心、能克服困难认证考试的人
 
 **谁不适合**
-- Those who prefer simple repetitive tasks
-- Those who have difficulty adapting to change
+- 喜欢简单重复任务的人
+- 难以适应变化者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a customs broker?**
-答：Average salary in 2023 is approximately 60–80 million KRW; highly variable if self-employed.
+**问：报关员的平均工资是多少？**
+答：2023年平均薪资约为6000-8000万韩元；自雇人士差异较大。
 
-**问：Can foreigners become customs brokers?**
-答：Yes. Possible after passing the customs broker exam and obtaining qualification in Korean, then working with an E-7 visa.
+**问：外国人可以成为报关行吗？**
+答：可以。通过海关经纪人考试并获得韩语资格后，持E-7签证工作即可。
 
-**问：Can I do related work without a customs broker license?**
-答：Yes. You can start with practical assistance in a customs broker’s office. Work is possible without a license, but promotions may be limited.
+**问：没有报关行执照可以从事相关工作吗？**
+答：是。你可以在报关行办公室从实际协助开始。无执照也可工作，但晋升可能受限。
 
 
 ---
@@ -145,12 +137,12 @@ Careers typically start at customs brokerage firms, corporate customs teams, or 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/customs-broker/KR)**

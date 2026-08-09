@@ -53,8 +53,6 @@ Driving instructors teach driving skills and coach for road tests, covering regu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
-
 Heavy vehicle license (HR/HC/MC) training demand rising with logistics driver shortage; self-operated driving schools coexist with affiliated ones.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Heavy vehicle license (HR/HC/MC) training demand rising with logistics driver sh
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Cannot directly immigrate via skilled migration. Driving Instructor (451511) 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driving-instructor/AU)**

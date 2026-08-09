@@ -4,8 +4,6 @@
 
 Senior management who oversee and manage the overall operations of independent administrative institutions and national R&D institutions. Responsible for budget planning, HR strategy, and business plan formulation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Senior management who oversee and manage the overall operations of independent a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Management roles center on decision-making and interpersonal coordination, which are less susceptible to AI substitution. However, AI adoption is advancing in data analysis and operational efficiency, shifting management roles toward more strategic directions.
-
 Internal promotion is standard, advancing from section chief → department head → director/auditor. Secondments from other ministries and exchanges with private companies are increasing.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Internal promotion is standard, advancing from section chief → department head
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires managerial experience and academic background. Possible at major corporations, but rare due to strong public nature. |
-| Subclass 高度専門職1号・2号 (Highly Skilled Professional) | Possible if high scores on points-based system for education and career, but few hires at public organizations. |
-| Subclass 経営・管理 (Business Manager) | Often ineligible for this status at incorporated administrative agencies; actual cases are very limited. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: For internal promotions, it typically takes 15–20 years to reach section ch
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/independent-administrative-institution-management-staff/JP)**

@@ -53,8 +53,6 @@ Engages in IT fields such as software development, system analysis, database man
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on computer scientists is mixed: automation will replace tasks like coding and debugging, but also enhances algorithm design and system architecture; proactive advancement to higher levels is needed.
-
 Can advance to senior developer, architect, technical lead, IT project manager, or CTO. Move into management or consulting paths.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance to senior developer, architect, technical lead, IT project manager, 
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa allowing job seeking in Germany |
 | Subclass Job Seeker (Job Seeker Visa) | Allows non-EU citizens to stay in Germany for 6 months to seek employment, must prove financial means. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, non-German qualifications typically require credential evaluation by a r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-scientist-general/DE)**

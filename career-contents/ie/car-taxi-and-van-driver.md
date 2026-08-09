@@ -53,8 +53,6 @@ Drive cars, taxis, or vans to transport passengers or goods, providing basic tra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Autonomous driving technology will gradually replace driving tasks in urban fixed-route, low-complexity scenarios, but humans will still handle complex road conditions, passenger service, and legal liability; the number of jobs will significantly decrease.
-
 Limited opportunities for career advancement; can progress to fleet supervisor or owner-operator; some drivers transition to logistics distribution or passenger transport management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Limited opportunities for career advancement; can progress to fleet supervisor o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Yes, taxi drivers must hold an SPSV license issued by the NTA and complete a 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/car-taxi-and-van-driver/IE)**

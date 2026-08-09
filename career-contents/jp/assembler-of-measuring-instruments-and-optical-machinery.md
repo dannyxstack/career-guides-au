@@ -52,8 +52,6 @@ Skilled worker who assembles precision parts of measuring instruments and optica
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Full replacement by AI or robots is difficult, but automation of assembly assistance and quality inspection is advancing. The fusion of skilled craftsmanship and digital technology enhances value.
-
 Start as apprentice, become multi-skilled and acquire inspection/adjustment skills to become expert. Career path to leader or process management exists.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Start as apprentice, become multi-skilled and acquire inspection/adjustment skil
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates and above. Assembly roles can be applied combined with design/development. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Target field in 2024. Limited to metal/machinery assembly. |
-| Subclass 技能実習 (Technical Intern Training (Machinery/Metal)) | Max 5 years, no job change. Transfer of assembly skills. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | Target in 2024. For skilled workers, family accompaniment allowed. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: High-precision adjustments and inspections require human senses, making full 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assembler-of-measuring-instruments-and-optical-machinery/JP)**

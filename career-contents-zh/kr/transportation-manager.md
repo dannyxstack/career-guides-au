@@ -1,8 +1,8 @@
-# Transportation Manager 职业分析 · 韩国
+# 运输经理（Transportation Manager）职业分析 · 韩国
 
-**职业代码: 01521 (KECO)**
+**职业代码：01521 (KECO)**
 
-A managerial role that plans, coordinates, and oversees logistics and transportation to ensure smooth resource flow. Oversees freight/passenger transport, warehouse management, and vehicle dispatch.
+规划、协调和监督物流与运输以确保资源顺畅流动的管理角色。负责货物/乘客运输、仓库管理和车辆调度。
 
 
 ---
@@ -11,8 +11,8 @@ A managerial role that plans, coordinates, and oversees logistics and transporta
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate or above | 0 | $0~$0（No academic restrictions, relevant majors preferred） |
-| Community college/university (logistics, distribution, etc.) | 2-4年 | $20,000,000~$40,000,000（Based on tuition） |
+| 高中及以上学历 | 0 | $0~$0（无学历限制，相关专业优先） |
+| 社区学院/大学（物流、配送等） | 2-4年 | $20,000,000~$40,000,000（按学费计费） |
 
 ---
 
@@ -20,18 +20,18 @@ A managerial role that plans, coordinates, and oversees logistics and transporta
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Logistics Manager | Human Resources Development Service of Korea | 可选 | National certification, advantageous across logistics |
-| Transport Manager | Human Resources Development Service of Korea | 可选 | Responsible for freight/passenger transport management |
-| 叉车操作员 | Human Resources Development Service of Korea | 可选 | Advantageous for field work |
+| 物流经理 | 韩国人力资源开发服务局 | 可选 | 国家认证，物流行业通用优势 |
+| 运输经理 | 韩国人力资源开发服务局 | 可选 | 负责货运/客运管理 |
+| 叉车操作员 | 韩国人力资源开发服务局 | 可选 | 有利于现场工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. With the growth of e-commerce and logistics industries, demand for transportation managers remains steady, but automation and AI adoption are expected to change some tasks.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。随着电商和物流行业的增长，运输经理需求保持稳定，但自动化和AI的采用预计将改变部分任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,96 +39,89 @@ A managerial role that plans, coordinates, and oversees logistics and transporta
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $32,000,000~$40,000,000 | Based on SME standards |
-| 中级（4-7年） | $42,000,000~$55,000,000 | Includes mid-sized and large enterprises |
-| 高级（8年+） | $58,000,000~$80,000,000 | Managerial level, performance bonuses separate |
+| 入门级（0-3年） | $32,000,000~$40,000,000 | 基于中小企业标准 |
+| 中级（4-7年） | $42,000,000~$55,000,000 | 包括中大型企业 |
+| 高级（8年+） | $58,000,000~$80,000,000 | 管理层级，绩效奖金另计 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation replace some tasks such as route optimization, inventory management, and document processing, while areas requiring human judgment like decision-making, coordination, and emergency response are strengthened. Complete replacement is difficult.
+AI和自动化取代了部分任务，如路线优化、库存管理和文档处理，而需要人类判断的决策、协调和应急响应等领域得到加强。完全取代是困难的。
 
-Typically promoted after 5+ years of experience in logistics/transportation; advantageous to hold certifications such as Logistics Manager or Transport Manager. Career advancement possible in large corporate logistics centers, courier companies, and ports.
+通常在物流/运输领域拥有5年以上经验后晋升；持有物流经理或运输经理等证书有利。在大型企业物流中心、快递公司和港口有职业发展机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Route planning
-- Inventory monitoring reporting
-- Transportation document processing
-- Basic dispatch scheduling
+- 路线规划
+- 库存监控报告
+- 运输文件处理
+- 基本调度安排
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time data-driven decision making
-- Vehicle/cargo tracking and monitoring
-- Customer response and coordination
-- Cost optimization analysis
+- 基于实时数据的决策
+- 车辆/货物跟踪与监控
+- 客户应对与协调
+- 成本优化分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency situation handling
-- Human relations and negotiation
-- Strategic logistics planning
-- Team management and leadership
+- 应急情况处理
+- 人际关系与谈判
+- 战略物流规划
+- 团队管理与领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Logistics automation system operation
-- Data analysis (Python, R, etc.)
-- SAP/ERP utilization
-- Negotiation and Communication
+- 物流自动化系统操作
+- 数据分析（Python、R等）
+- SAP/ERP使用
+- 谈判与沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics automation
-- E-commerce logistics
-- Smart logistics
-- Eco-friendly transportation
+- 物流自动化
+- 电商物流
+- 智慧物流
+- 环保交通
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Professionals in logistics management etc. eligible, if education/experience requirements met |
-| Subclass F-2 (Residence) | Points-based permanent residence, eligible after long-term stay |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, some employment restrictions apply |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong organizational skills and leadership
-- Problem-solving skills to handle various variables
-- People interested in logistics and transportation fields
+- 组织能力强且有领导力的人
+- 处理各种变量的解决问题的能力
+- 对物流和运输领域感兴趣的人
 
 **谁不适合**
-- Prefer regular and repetitive office work
-- Avoid tasks with many site visits or travel
+- 偏好规律重复的办公室工作
+- 避免需要频繁现场访问或出差的任务
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a transportation manager?**
-答：For small businesses, entry-level annual salary is approximately KRW 32 million to 40 million, increasing with certifications and experience.
+**问：运输经理的起薪是多少？**
+答：对于小型企业，入门级年薪约3200万至4000万韩元，随证书和经验增加。
 
-**问：What visa do foreigners need to work as transportation managers?**
-答：Must be eligible for E-7 visa and meet requirements such as relevant degree or 5+ years of experience.
+**问：外国人从事运输管理工作需要什么签证？**
+答：必须符合E-7签证资格并满足相关学位或5年以上经验等要求。
 
-**问：How does promotion work as a transportation manager?**
-答：Promotion proceeds in the order of logistics team leader → department head → executive, and having a logistics manager certificate is advantageous.
+**问：作为运输经理，晋升是如何运作的？**
+答：晋升按物流组长→部门主管→高管的顺序进行，持有物流经理证书更有利。
 
 
 ---
@@ -146,12 +139,12 @@ Typically promoted after 5+ years of experience in logistics/transportation; adv
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transportation-manager/KR)**

@@ -53,8 +53,6 @@ Financial Control Specialists are responsible for financial planning, cost contr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Usually start as a finance assistant or cost accountant, and can advance to senior control specialist, head of controlling, or move into senior management roles such as financial analysis and strategic planning.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as a finance assistant or cost accountant, and can advance to seni
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based jobseeker visa allows searching for work in Germany for one year, suitable for those with relevant qualifications and language skills. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires German degree or qualification recognition; can search for control-related work during this period. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically start as control assistant or cost accountant, progress to control 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/controller/DE)**

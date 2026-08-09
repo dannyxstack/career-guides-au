@@ -1,8 +1,8 @@
-# Transmission and Distribution Equipment Engineer 职业分析 · 韩国
+# 输电和配电设备工程师（Transmission and Distribution Equipment Engineer）职业分析 · 韩国
 
-**职业代码: 15314 (KECO)**
+**职业代码：15314 (KECO)**
 
-This engineer is responsible for designing, constructing, operating, and maintaining transmission and distribution equipment to stably supply electricity generated at power plants to consumers via substations and transmission lines.
+该工程师负责设计、建造、运营和维护输配电设备，以便将通过变电站和输电线路从发电厂产生的电力稳定供应给消费者。
 
 
 ---
@@ -11,8 +11,8 @@ This engineer is responsible for designing, constructing, operating, and maintai
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Vocational training after high school | 4年 | $1,000,000~$3,000,000（In-house training at KEPCO Technical Education Institute etc.） |
-| 副学士学位 | 2 年 | $6,000,000~$8,000,000（Associate degree in Electrical Engineering） |
+| 高中后职业培训 | 4年 | $1,000,000~$3,000,000（在KEPCO技术教育学院等机构内部培训） |
+| 副学士学位 | 2 年 | $6,000,000~$8,000,000（电气工程副学士学位） |
 | 学士学位 | 4年 | $12,000,000~$20,000,000（电气工程学士学位） |
 
 ---
@@ -21,18 +21,18 @@ This engineer is responsible for designing, constructing, operating, and maintai
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Engineer (Electrical) | Human Resources Development Service of Korea | 必备 | Near-mandatory certification |
-| Professional Engineer (Electrical) | Human Resources Development Service of Korea | 可选 | Highest level certification, requires experience |
-| Industrial Engineer (Electrical) | Human Resources Development Service of Korea | 可选 | For 3-year associate degree graduates |
+| 工程师（电气） | 韩国人力资源开发服务局 | 必备 | 近乎必需的认证 |
+| 专业工程师（电气） | 韩国人力资源开发服务局 | 可选 | 最高级别认证，需经验 |
+| 工业工程师（电气） | 韩国人力资源开发服务局 | 可选 | 面向3年制副学士学位毕业生 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 35,000. Employment is stable due to expansion of renewable energy, introduction of smart grids, and replacement of aging power grids, but new hiring is expected to decrease slightly.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 35,000。由于可再生能源扩张、智能电网引入及老旧电网更换，就业稳定，但新招聘预计略有减少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ This engineer is responsible for designing, constructing, operating, and maintai
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on public company regular employee |
-| 中级（4-7年） | $45,000,000~$60,000,000 | Bonus for holding an engineering certificate |
-| 高级（8年+） | $60,000,000~$90,000,000 | Including management/engineer allowance |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于上市公司正式员工 |
+| 中级（4-7年） | $45,000,000~$60,000,000 | 持有工程证书者额外奖励 |
+| 高级（8年+） | $60,000,000~$90,000,000 | 包括管理/工程师津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technology assist in design optimization, fault prediction, and remote monitoring, but on-site safety and direct work must be performed by humans, so the impact is limited.
+AI和自动化技术辅助设计优化、故障预测和远程监控，但现场安全和直接工作必须由人类执行，因此影响有限。
 
-After high school graduation, possible to join public companies like KEPCO, or after associate degree, join engineering firms. After acquiring professional engineer certification, can advance to management; some may enter overseas projects.
+高中毕业后可进入KEPCO等公营企业，或取得副学士学位后加入工程公司。获得专业工程师认证后可晋升管理层，部分人可能参与海外项目。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Meter Reading
-- Basic Line Inspection Records
-- Standard Report Writing
+- 简单抄表
+- 基本线路检查记录
+- 标准报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-Based Equipment Diagnosis
-- Remote Control System Operation
-- Data-Driven Maintenance Planning
+- 基于AI的设备诊断
+- 远程控制系统操作
+- 数据驱动的维护规划
 
-**人类护城河:**
+**人类护城河：**
 
-- High-Voltage On-Site Safety Judgment
-- Abnormal Situation Response
-- Equipment Repair/Replacement Work
+- 高压现场安全判断
+- 异常情况响应
+- 设备维修/更换工作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Smart Grid Understanding
-- Automation System Operation
-- AI Model Utilization
+- 数据分析
+- 智能电网理解
+- 自动化系统操作
+- AI模型利用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Grid
-- Renewable Energy Generation
-- Electric Vehicle Charging Infrastructure
-- HVDC Transmission
+- 智能电网
+- 可再生能源发电
+- 电动汽车充电基础设施
+- 高压直流输电
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (특정활동) (Professional Employment Visa) | Can be issued to skilled technicians with qualifications and experience such as electrical engineer. |
-| Subclass E-5 (전문직) (Professional Worker Visa) | Available with a master's degree or higher, or 5 years of experience. |
-| Subclass F-2 (거주) (Long-term Residence Status) | Convertible from E-7, no restrictions on commercial activities. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in mechanical/electrical fields
-- People comfortable with field work
-- People with strong safety awareness
+- 对机械/电气领域感兴趣的人
+- 适应实地工作的人
+- 安全意识强的人
 
 **谁不适合**
 - 倾向于办公室工作的人
-- People who dislike high-noise/high-voltage environments
+- 不喜欢高噪音/高电压环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of transmission and distribution facility technicians?**
-答：It varies by experience, but for entry-level it is about 35-45 million KRW, and for senior level it is 60-90 million KRW.
+**问：输配电设施技术员的平均薪资是多少？**
+答：因经验而异，入门级约3500-4500万韩元，高级为6000-9000万韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes, the E-7-1 (Specific Activities) visa is possible, requiring an electrician certification and at least one year of experience.
+**问：外国人能获得此职业的工作签证吗？**
+答：是的，E-7-1（特定活动）签证可行，需要电工认证和至少一年经验。
 
-**问：What are the required certifications?**
-答：The electrician certification is mandatory, and obtaining a senior electrician certification is advantageous in the long term.
+**问：需要哪些认证？**
+答：电工认证是强制性的，长期来看获得高级电工认证更有利。
 
 
 ---
@@ -144,12 +137,12 @@ After high school graduation, possible to join public companies like KEPCO, or a
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transmission-and-distribution-equipment-engineer/KR)**

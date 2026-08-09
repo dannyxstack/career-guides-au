@@ -4,8 +4,6 @@
 
 Performing analysis and testing of biological samples (blood, urine, etc.) in medical laboratories to provide accurate data for doctors' diagnoses.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Performing analysis and testing of biological samples (blood, urine, etc.) in me
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 You can be promoted from technician to laboratory supervisor or quality management manager, or become a biologist through continuing education (doctoral degree required).
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can be promoted from technician to laboratory supervisor or quality manageme
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring employer sponsorship, with a contract of at least 3 months |
-| Subclass Salarié (Employee Residence Permit) | Employed work residence requires employer sponsorship and a labor permit |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card applies to high-skilled positions with annual salary ≥ €53,955 (2023), but this occupation usually has insufficient salary. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Academic credentials must be verified through ENIC-NARIC, confirming equivale
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-laboratory-technician/FR)**

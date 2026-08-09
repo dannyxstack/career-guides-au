@@ -4,8 +4,6 @@
 
 A professional security occupation that protects the lives and property of individuals or organizations, operating in places like the Blue House, airports, and corporations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A professional security occupation that protects the lives and property of indiv
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are replacing some simple tasks in security work, such as CCTV monitoring and access control, but the crisis response, judgment, and interpersonal monitoring roles of human bodyguards remain crucial. AI is used as a supplementary tool, and the scope of work is expected to shrink and become more specialized.
-
 Promotion path: Junior bodyguard (weapon/self-defense certification) → Security team leader (5+ years) → Security manager (10+ years). Backgrounds in police or military special forces are advantageous.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Promotion path: Junior bodyguard (weapon/self-defense certification) → Securit
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if employed as professional security personnel (bodyguard, facility security), but rare. |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work with security-related qualifications and experience. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work when employed by private security companies. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: There are no mandatory certifications, but having a Personal Protection Offic
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bodyguard/KR)**

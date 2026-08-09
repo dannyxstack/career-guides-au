@@ -53,8 +53,6 @@ A QA Engineer is responsible for software testing, defect identification and qua
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The impact of AI on test engineer roles is mixed: Repetitive tasks like automated test script writing and regression testing are easily replaced by AI, but AI also significantly improves test coverage and efficiency, while new directions like AI testing and model evaluation create new opportunities.
-
 Manual testing roles are declining rapidly; automation testing frameworks (Selenium, Playwright) and API testing (Postman/RestAssured) have become essential skills. Salary premiums are notable in performance testing (JMeter, k6) and security testing (OWASP) areas, and CI/CD integration testing skills are a key hiring focus.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Manual testing roles are declining rapidly; automation testing frameworks (Selen
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Demand for manual testing is declining, while automation test engineers remai
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/qa-engineer/AU)**

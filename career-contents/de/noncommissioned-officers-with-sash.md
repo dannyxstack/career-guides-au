@@ -54,8 +54,6 @@ A senior non-commissioned officer in the German Bundeswehr, responsible for lead
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on non-commissioned officers is mixed: automation will take over administrative tasks such as documentation and scheduling, but core leadership, training, and discipline maintenance are hard to replace; AI assistance enhances decision-making and training efficiency, but human-machine collaboration will increase the value of NCOs.
-
 Clear promotion path: from junior non-commissioned officer (Unteroffizier) to senior NCO with sash (e.g., Feldwebel, Oberstabsfeldwebel), then can become an officer (Offizier) or continue advancing within NCO ranks to the highest level (e.g., Oberstabsfeldwebel).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Clear promotion path: from junior non-commissioned officer (Unteroffizier) to se
 | Subclass Job Seeker (Chancenk (Opportunity Card) | The Germany Opportunity Card allows job seekers to enter the country to look for work, but military positions are usually only open to EU citizens or Germans, with very few opportunities for foreigners. |
 | Subclass Skilled Worker (Skilled Worker Visa) | Theoretically possible to apply, but military positions usually require German nationality or EU citizenship; third-country nationals have almost no chance. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Starting from junior NCO (Unteroffizier), promotion to senior NCO with sash (
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncommissioned-officers-with-sash/DE)**

@@ -52,8 +52,6 @@ Industrial designers in New Zealand mainly engage in product appearance and func
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
-
 Junior designers can gain experience in manufacturing companies or design studios, becoming senior designers or design directors. Some transition to UX design or product management, or start their own independent design firms.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior designers can gain experience in manufacturing companies or design studio
 | Subclass SMC (Skilled Migrant Category) | Based on a 6-point system, having a bachelor's degree plus work experience accumulates points, and meeting the score threshold allows application. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can apply after obtaining accredited employer job offer; up to 3 years, can serve as a stepping stone to residency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Limited but stable positions. Mainly in manufacturing, tech companies, and de
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-designer/NZ)**

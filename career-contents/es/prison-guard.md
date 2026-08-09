@@ -4,8 +4,6 @@
 
 Prison guards are responsible for monitoring inmate behavior, maintaining order within the prison, conducting security checks, and responding to emergencies. They work within the Spanish national prison system and belong to the public administration service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Prison guards are responsible for monitoring inmate behavior, maintaining order 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Prison guards' work combines physical surveillance and interpersonal interaction. AI can replace some monitoring and recording tasks, but handling interpersonal conflicts, emergency judgment, and legal authorization responsibilities with inmates remain humanity's moat, leading to mixed overall risks.
-
 Junior prison guards can be promoted to Level 2 or Level 1 security through internal examinations, with some moving to management positions (such as regional supervisors) or entering prison professional training departments. Ongoing vocational training is required.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior prison guards can be promoted to Level 2 or Level 1 security through inte
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Third-country workers require employer sponsorship, but the public sector usually does not. |
-| Subclass Busqueda empleo (Job Search Visa) | After graduation, you can stay in Spain to look for work, but you must prove sufficient funds. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Candidates can be promoted through internal exams to Level 2 or Level 1 Guard
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-guard/ES)**

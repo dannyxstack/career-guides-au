@@ -1,8 +1,8 @@
-# Warehouse Worker 职业分析 · 日本
+# 仓库工人（Warehouse Worker）职业分析 · 日本
 
-**职业代码: 704 (JSCO)**
+**职业代码：704 (JSCO)**
 
-Performs receiving, inspection, sorting, and inventory management of goods in the warehouse. Operates forklifts and handheld scanners to handle items accurately and efficiently.
+在仓库进行收货、检查、分类和库存管理。操作叉车和手持扫描仪，准确高效地处理物品。
 
 
 ---
@@ -11,9 +11,9 @@ Performs receiving, inspection, sorting, and inventory management of goods in th
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior high school graduate | 0年 | $0~$0（No educational background required; skill acquisition through on-the-job training） |
-| Forklift Operation Skills Training | 1个月 | $25,000~$50,000（Not mandatory, but obtaining it can lead to higher pay） |
-| Warehouse Management Specialist (Certification) | 3个月 | $10,000~$20,000（Optional, but useful for career advancement） |
+| 初中毕业 | 0年 | $0~$0（无需教育背景；通过在职培训掌握技能） |
+| 叉车操作技能培训 | 1个月 | $25,000~$50,000（非强制要求，但获得后可提高薪酬） |
+| 仓库管理专家（认证） | 3个月 | $10,000~$20,000（可选，但对职业发展有益） |
 
 ---
 
@@ -21,18 +21,18 @@ Performs receiving, inspection, sorting, and inventory management of goods in th
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 叉车操作员 | Ministry of Health, Labour and Welfare | 可选 | Required to operate forklifts of 1 ton or more |
-| Hazardous Materials Handler (Class B) | Fire and Disaster Management Agency | 可选 | Useful for managing hazardous materials warehouses |
-| Warehouse Management Specialist (Level 2 & 1) | Japan Federation of Logistics Industries | 可选 | Certifies knowledge of inventory management and warehouse operations |
+| 叉车操作员 | 厚生劳动省 | 可选 | 需要操作1吨及以上的叉车 |
+| 危险品处理员（B级） | 消防与灾害管理局 | 可选 | 有助于管理危险品仓库 |
+| 仓库管理专员（2级和1级） | 日本物流行业联合会 | 可选 | 认证库存管理和仓库操作知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 1,100,000. Demand for warehouse work remains steady with EC market growth. However, automation and robots are reducing simple tasks. Labor shortages persist, and it's a target field for Specified Skilled Worker status.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 1,100,000。随着电商市场增长，仓库工作需求稳定。然而，自动化和机器人减少了简单任务。劳动力短缺持续存在，是特定技能签证的目标领域。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ Performs receiving, inspection, sorting, and inventory management of goods in th
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Base salary + overtime pay. Varies by region and company size. |
-| Mid-level (3–10 years) | $4,000,000~$5,500,000 | Rise through forklift and management skills |
-| Advanced (10+ years) | $5,500,000~$7,000,000 | Warehouse manager class. Includes management allowance |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 基本工资+加班费，因地区和公司规模而异 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 通过叉车和管理技能晋升 |
+| 高级（10年以上） | $5,500,000~$7,000,000 | 仓库经理类别。包括管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-The introduction of AI and automation technologies (automated warehouses, AGVs, picking robots) makes simple sorting and moving tasks easily replaceable. However, tasks requiring complex judgment and flexible responses will remain.
+人工智能和自动化技术（自动仓库、AGV、拣选机器人）的引入使得简单的分拣和搬运任务容易替代。然而，需要复杂判断和灵活应对的任务仍将保留。
 
-Start with no experience; by obtaining a forklift license and inventory management skills, you can advance to team leader or warehouse manager.
+从无经验开始；通过获得叉车执照和库存管理技能，可以晋升为团队领导或仓库经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Moving pallets
-- Sorting products
-- Inventory check via barcode scanning
+- 移动托盘
+- 产品分拣
+- 通过条码扫描进行库存检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal layout suggestions by inventory management systems
-- Receiving and shipping instructions linked with automated warehouses
+- 通过库存管理系统优化布局建议
+- 与自动化仓库联动的收货和发货指令
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible judgment (e.g., handling damaged items)
-- Complex picking (irregular items)
-- Human communication (team coordination)
+- 灵活判断（例如处理损坏物品）
+- 复杂拣选（不规则物品）
+- 人际沟通（团队协调）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Forklift operation
-- Inventory management system (WMS) operation
-- Basic PC skills
-- Operation and maintenance of robots and automated warehouses
+- 叉车操作
+- 库存管理系统（WMS）操作
+- 基本电脑技能
+- 机器人和自动化仓库的运维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- E-commerce logistics
-- Automated warehouse
-- Robot implementation
-- Inventory management system
+- 电商物流
+- 自动化仓库
+- 机器人实施
+- 库存管理系统
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fields: Casting/Manufacturing, Industrial Machinery, Electrical/Electronic Information-Related Manufacturing)) | Logistics including warehouse work is not directly covered, but manufacturing fields may include warehouse work. As of 2024, not a designated field for Specified Skilled Worker, but under discussion due to labor shortages. |
-| Subclass 技能実習3号 (Technical Intern Training (Manufacturing/Warehouse-related)) | Warehouse work possible under manufacturing or logistics-related technical intern training. Max residency period 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable when engaged in specialized work such as warehouse management or inventory control. Requires university degree or higher, or relevant work experience. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People who can work steadily and accurately
-- People who value teamwork
+- 体力充沛的人
+- 能够稳定准确工作的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who dislike physical labor
+- 不喜欢体力劳动的人
 - 厌恶单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for warehouse workers?**
-答：The average annual income is about 3.7 million yen (from the 2022 Basic Survey on Wage Structure by the Ministry of Health, Labour and Welfare). It varies depending on experience and qualifications.
+**问：仓库工人的平均年收入是多少？**
+答：平均年收入约为370万日元（来自厚生劳动省2022年《工资结构基本调查》）。具体金额因经验和资格而异。
 
-**问：What visa do foreigners need to work in warehouse jobs?**
-答：Currently, the logistics field for Specified Skilled Worker is not established, but Technical Intern Training or Engineer/Specialist in Humanities/International Services visas may apply. Check with the Immigration Services Agency for details.
+**问：外国人在仓库工作需要什么签证？**
+答：目前，特定技能物流领域尚未建立，但技术实习培训或技术/人文知识/国际业务签证可能适用。详情请咨询出入境在留管理厅。
 
-**问：How can I advance my career from warehouse work?**
-答：By obtaining a forklift license or warehouse manager certification, and acquiring skills in inventory management systems, you can open the path to warehouse manager or logistics management positions.
+**问：如何从仓库工作实现职业发展？**
+答：取得叉车执照或仓库经理认证，并掌握库存管理系统技能，可打开仓库经理或物流管理职位之路。
 
 
 ---
@@ -143,12 +136,12 @@ Start with no experience; by obtaining a forklift license and inventory manageme
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/warehouse-worker/JP)**

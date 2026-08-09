@@ -1,10 +1,8 @@
-# Sociology Researcher 职业分析 · 韩国
+# 社会学研究员（Sociology Researcher）职业分析 · 韩国
 
-**职业代码: 11023 (KECO)**
+**职业代码：11023 (KECO)**
 
-A professional research position that systematically studies and analyzes social phenomena to contribute to solving social problems and establishing policies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一个专业研究职位，系统研究和分析社会现象，以帮助解决社会问题和制定政策。
 
 
 ---
@@ -13,9 +11,9 @@ A professional research position that systematically studies and analyzes social
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree in Sociology | 4年 | $40,000,000~$80,000,000（National: about 4 million KRW/year for 4 years; Private: about 8 million KRW/year） |
-| Master's Degree in Sociology | 2 年 | $20,000,000~$50,000,000（Estimated including graduate school tuition and living expenses） |
-| Doctorate in Sociology | 4年 | $40,000,000~$99,999,999（4-year average, without scholarship） |
+| 社会学学士学位 | 4年 | $40,000,000~$80,000,000（国立：约400万韩元/年，4年；私立：约800万韩元/年） |
+| 社会学硕士学位 | 2 年 | $20,000,000~$50,000,000（估计包括研究生学费和生活费） |
+| 社会学博士 | 4年 | $40,000,000~$99,999,999（4年平均，不含奖学金） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional research position that systematically studies and analyzes social
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctorate Degree | 大学 | 必备 | Required for senior research positions |
-| Social Survey Analyst Level 2 | Korea Data Agency | 可选 | Demonstrates data analysis capability |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for using statistical software |
+| 博士学位 | 大学 | 必备 | 高级研究职位要求 |
+| 社会调查分析师二级 | 韩国数据局 | 可选 | 展示数据分析能力 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 使用统计软件有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 4,200. Employment is limited to academic and government research institutions; growth is expected to slow due to population decline, but may partially increase due to demand for data analysis.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 4,200。就业限于学术和政府研究机构；由于人口下降，增长预计放缓，但可能因数据分析需求而部分增加。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,93 +41,85 @@ A professional research position that systematically studies and analyzes social
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
 | Beginner (0–3 years) | $25,000,000~$35,000,000 | 研究助理或初级研究员 |
-| Intermediate (4–8 years) | $35,000,000~$50,000,000 | senior researcher level |
-| advanced (9+ years) | $50,000,000~$80,000,000 | professor or senior researcher |
+| 中级（4–8年） | $35,000,000~$50,000,000 | 高级研究员级别 |
+| 高级（9年以上） | $50,000,000~$80,000,000 | 教授或高级研究员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-As AI automates data collection and basic statistical analysis, the role of researchers will focus on data interpretation and theorization. Repetitive tasks will decrease, but demand for advanced analytical skills will increase.
+随着AI自动化数据收集和基本统计分析，研究人员的角色将聚焦于数据解释和理论化。重复性任务将减少，但对高级分析技能的需求将增加。
 
-Typically follows the path of Post-doc after a master's or doctoral degree, then to professor or policy research fellow. Entry into the industry is limited.
+通常遵循从硕士或博士学位后的博士后，再到教授或政策研究员的路径。进入行业的机会有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic statistical processing
-- Survey data cleaning
-- Literature search
+- 基础统计处理
+- 调查数据清理
+- 文献检索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex data analysis
-- Policy simulation
-- Interview data interpretation
+- 复杂数据分析
+- 政策模拟
+- 面试数据解读
 
-**人类护城河:**
+**人类护城河：**
 
-- Theoretical insight
-- Understanding context of human behavior
-- Ethical judgment
+- 理论洞察
+- 理解人类行为背景
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R
-- Machine learning
-- Social network analysis
-- Data Visualization
+- 机器学习
+- 社会网络分析
+- 数据可视化
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Social research
-- Data analysis
-- Demographic change
-- Policy research
+- 社会研究
+- 数据分析
+- 人口结构变化
+- 政策研究
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (specific activities) | Available when employed at a research institution. Master's degree or higher required. |
-| Subclass D-2 (study abroad) | Issued to graduate students abroad. Can switch to D-10 after degree. |
-| Subclass F-2 (residence) | Eligible for permanent residence after long-term stay. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- strong curiosity and analytical skills about social phenomena
-- patient research attitude
-- data literacy and statistical knowledge
+- 对社会现象有强烈的好奇心和分析能力
+- 耐心的研究态度
+- 数据素养和统计知识
 
 **谁不适合**
-- preference for immediately cashable jobs
-- short-term performance orientation
+- 偏好立即可变现的工作
+- 短期绩效导向
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a sociology researcher?**
-答：Entry-level: about 30 million KRW, mid-level: 45 million, senior: 65 million.
+**问：社会学研究员的平均薪资是多少？**
+答：入门级：约3000万韩元，中级：4500万，高级：6500万。
 
-**问：Can I get an employment visa as a sociology researcher?**
-答：Employment at research institutions is possible with an E-7 visa, but academic competition is fierce, making it difficult. Searching for a job with a D-10 visa after studying abroad is common.
+**问：作为社会学研究员可以申请工作签证吗？**
+答：在研究机构就业可以使用E-7签证，但学术竞争激烈，难度较大。留学后持D-10签证找工作很常见。
 
-**问：Can I become a sociology researcher without a master's degree?**
-答：A research assistant position is possible, but a master's degree or higher is required for a regular researcher position.
+**问：没有硕士学位能成为社会学研究员吗？**
+答：研究助理职位可能，但常规研究员职位要求硕士或更高学历。
 
 
 ---
@@ -147,12 +137,12 @@ Typically follows the path of Post-doc after a master's or doctoral degree, then
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sociology-researcher/KR)**

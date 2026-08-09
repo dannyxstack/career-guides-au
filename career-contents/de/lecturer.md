@@ -54,8 +54,6 @@ Lecturers in higher education institutions (such as universities and universitie
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For instructors, AI is both a threat and an opportunity: standardized teaching and assessment may be automated, but curriculum design, personalized guidance, and academic mentoring roles are enhanced by AI.
-
 Lecturers typically start on short-term contracts and can apply for tenured professor positions (W1/W2/W3) after accumulating teaching and research achievements. Alternative career paths include research management, adult education, or corporate training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Lecturers typically start on short-term contracts and can apply for tenured prof
 | Subclass Skilled Worker (Skilled Worker Visa (Section 18b AufenthG)) | For academic personnel with recognized qualifications, employer sponsorship, no hard salary threshold. |
 | Subclass Job Seeker (Job Seeker Visa (Section 20 AufenthG)) | Allows to stay in Germany for 6 months to look for work, requires sufficient funds and a degree. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Lecturers can progress to tenured professor (W1/W2/W3) but competition is fie
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lecturer/DE)**

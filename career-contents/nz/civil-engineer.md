@@ -52,8 +52,6 @@ Civil engineers in New Zealand plan, design, construct, and maintain roads, brid
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
-
 Start in design, site supervision, or project management; after 5-10 years, advance to senior engineer, project manager, or technical expert; some move into consulting or entrepreneurship, with significant salary growth.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start in design, site supervision, or project management; after 5-10 years, adva
 | Subclass SMC (Skilled Migrant Category) | 6-point system, based on qualifications/registration/work experience; apply with 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can transition to residence (e.g., Green List Tier 2 or after 2 years of work) |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but without registration usually only entry-level work is poss
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineer/NZ)**

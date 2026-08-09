@@ -52,8 +52,6 @@ Teach in primary schools in a Māori language environment, integrating Māori cu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
-
 Can progress from junior teacher to senior teacher, subject head, or deputy principal. With experience, can enter the Ministry of Education or Maori education institutions for policy development or curriculum development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior teacher to senior teacher, subject head, or deputy prin
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting the 6-point system requirements (e.g., qualifications + work experience). Registered teachers typically receive higher scores. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa as a transitional visa, requiring employer sponsorship. Typically used to accumulate work experience for immigration eligibility. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires registration with New Zealand Teaching Council, advanced Māori lang
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kaiako-kura-kaupapa-mori-morimedium-primary-school-teacher/NZ)**

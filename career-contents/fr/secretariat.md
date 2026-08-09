@@ -4,8 +4,6 @@
 
 The secretary is responsible for managing administrative affairs, scheduling, handling communications and documents, and supporting the efficient operation of the organization.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ The secretary is responsible for managing administrative affairs, scheduling, ha
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Secretary positions face significant AI impact: core tasks like scheduling and document processing will be automated by AI, while tasks requiring judgment and interpersonal interaction, such as senior administrative assistants and meeting coordination, will be enhanced. The entry threshold is lowered, but senior positions require even higher requirements.
-
 Junior secretaries can be promoted to senior secretaries, administrative assistants, or office managers, and can also transition to human resources management or project management through continuing education.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Junior secretaries can be promoted to senior secretaries, administrative assista
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work permit (Salarié)) | Standard employment-based residence requires a CDI/CDD contract from a French employer to meet the conditions of the French employment market. |
-| Subclass Recherche emploi (Job search permit (Recherche d'emploi)) | After graduation, students studying in France can apply for this type of residence to find work, valid for one year. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Typically, BTS secretary or administrative management diplomas are the most r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretariat/FR)**

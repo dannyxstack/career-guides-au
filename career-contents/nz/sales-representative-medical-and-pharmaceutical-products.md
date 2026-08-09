@@ -52,8 +52,6 @@ Pharmaceutical sales representatives in New Zealand promote prescription drugs, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Junior representatives can advance to senior representative or regional manager through performance, with some moving into market access or product management. Large pharmaceutical companies offer systematic training, but promotion paths are relatively narrow, requiring continuous learning of new drug knowledge and sales skills.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior representatives can advance to senior representative or regional manager 
 | Subclass AEWV (Accredited Employer Work Visa) | Must obtain a job offer from an accredited employer for an ANZSCO Level 3-4 position, with wages at least at the median (approx. $29.66/hour) |
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, points are required for education, work experience, etc. The position must be ANZSCO Level 3 or above, and a salary 1.5 times the median (approx. $44.49/hour) can earn extra points. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: A bachelor's degree in medicine, life sciences, or business is usually requir
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representative-medical-and-pharmaceutical-products/NZ)**

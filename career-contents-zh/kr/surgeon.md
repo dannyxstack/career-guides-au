@@ -1,10 +1,8 @@
-# Surgeon 职业分析 · 韩国
+# 外科医生（Surgeon）职业分析 · 韩国
 
-**职业代码: 30112 (KECO)**
+**职业代码：30112 (KECO)**
 
-Medical professional treating diseases through surgical procedures, responsible for the entire process from diagnosis to surgery and recovery management.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+通过外科手术治疗疾病的医疗专业人员，负责从诊断到手术及康复管理的全过程。
 
 
 ---
@@ -13,9 +11,9 @@ Medical professional treating diseases through surgical procedures, responsible 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical school (6-year program) | 6年 | $60,000,000~$99,999,999（Varies by national vs. private universities） |
-| 注册实习（1年） | 1年 | $0~$5,000,000（Stipend provided depending on training hospital） |
-| Residency (4 years) | 4年 | $0~$10,000,000（Salary received during training, some qualification exam fees） |
+| 医学院（6年制课程） | 6年 | $60,000,000~$99,999,999（因公立与私立大学而异） |
+| 注册实习（1年） | 1年 | $0~$5,000,000（根据培训医院提供津贴） |
+| 居住（4年） | 4年 | $0~$10,000,000（培训期间获得的薪资，部分资格考试费用） |
 
 ---
 
@@ -23,17 +21,17 @@ Medical professional treating diseases through surgical procedures, responsible 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical license | Ministry of Health and Welfare | 必备 | Pass national exam after medical school graduation |
-| Surgeon specialist certification | Korean Surgical Society | 必备 | Pass specialist exam after residency training |
+| 医疗执照 | 保健福祉部 | 必备 | 医学院毕业后通过国家考试 |
+| 外科专家认证 | 韩国外科学会 | 必备 | 完成住院医师培训后通过专科考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. Due to aging population and increasing healthcare demand, demand for surgeons remains steady, but avoidance of residency training raises concerns about shortages in some fields.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。由于人口老龄化和医疗需求增加，外科医生需求保持稳定，但规避住院医师培训引发了对某些领域短缺的担忧。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -41,94 +39,87 @@ Medical professional treating diseases through surgical procedures, responsible 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (resident/intern) | $40,000,000~$60,000,000 | Based on hospital training stipend |
-| Mid-level (5–10 years as specialist) | $99,999,999 | Based on hospital staff salary |
-| Senior-level (10+ years/private practice) | $99,999,999 | Income varies widely for private practitioners |
+| 初级（住院医师/实习医生） | $40,000,000~$60,000,000 | 基于医院培训津贴 |
+| 中级（作为专家5-10年） | $99,999,999 | 基于医院员工薪资 |
+| 高级（10年以上/私人执业） | $99,999,999 | 个体执业者收入差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI contributes to improving diagnostic and surgical accuracy in areas such as image interpretation, surgical planning, and robotic surgery assistance, but it is difficult to completely replace the judgment and surgical skills of surgeons. Surgical robots are merely tools; complex decision-making and emergency response remain the core role of human doctors.
+AI有助于提高图像解读、手术规划、机器手术辅助等领域的诊断和手术准确性，但难以完全取代外科医生的判断和手术技能。手术机器人只是工具；复杂决策和应急处理仍是人类医生的核心角色。
 
-After graduating from medical school, complete internship and residency (general surgery, 4 years) to obtain specialist certification, then advance to fellow, professor, or private practitioner.
+医学院毕业后完成实习和住院医师培训（普通外科，4年）获得专科医师认证，之后晋升为研究员、教授或私人执业医师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image interpretation (AI primary review)
-- Writing surgical records
-- General drug dose calculation
+- 简单图像判读（AI初筛）
+- 撰写手术记录
+- 一般药物剂量计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Preoperative planning (3D simulation)
-- Assisting precise manipulation in robotic surgery
-- Improving lesion detection accuracy
+- 术前规划（3D模拟）
+- 协助机器人手术中的精确操作
+- 提高病灶检测准确性
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust relationship with patients
-- Momentary judgment in emergencies
-- Handling unexpected situations during surgery
-- Medical ethical judgment
+- 与患者的信任关系
+- 紧急情况下的瞬间判断
+- 手术中处理突发情况
+- 医学伦理判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of robotic surgery systems
-- Medical data analysis and utilization
-- Interpretation of AI diagnostic results
-- Remote medical collaboration
+- 机器人手术系统操作
+- 医疗数据分析与应用
+- AI诊断结果解读
+- 远程医疗协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Robotic surgery
-- Minimally invasive surgery
-- Trauma surgery
+- 人口老龄化
+- 机器人手术
+- 微创手术
+- 创伤外科
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Required when a foreign doctor is invited to work at a domestic medical institution, must obtain a Korean medical license |
-| Subclass F-2 (Residence) | Long-term residence via points system, advantageous for professionals |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- High Stress Tolerance
-- Precise hand technique
-- Teamwork and Leadership
+- 高压力耐受性
+- 精确的手部技巧
+- 团队合作与领导力
 
 **谁不适合**
-- Sensitive to surgical scenes
-- Lacks stamina for long, standing work
+- 对手术场景敏感
+- 缺乏长时间站立工作的体力
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for a surgeon?**
-答：Junior (Resident): approx. 40-60 million KRW, Mid-level (Specialist with 5-10 years experience): approx. 120-200 million KRW, Senior (Private practitioner): 200-500 million KRW or more.
+**问：外科医生的薪资范围是多少？**
+答：初级（住院医师）：约4000-6000万韩元，中级（专科医生5-10年经验）：约1.2-2亿韩元，高级（私人执业）：2亿-5亿韩元以上。
 
-**问：Can foreigners work as surgeons in Korea?**
-答：Possible, but acquiring a Korean medical license is mandatory, and employment under an E-7 (Specific Activities) visa is available. However, graduation from a domestic medical school is typical.
+**问：外国人在韩国能当外科医生吗？**
+答：可能，但必须取得韩国行医执照，且可通过E-7（特定活动）签证就业，但通常需毕业于韩国国内医学院。
 
-**问：How long does it take to study to become a surgeon?**
-答：It takes a total of at least 11 years: medical school (6 years) + internship (1 year) + residency (4 years).
+**问：成为一名外科医生需要学习多久？**
+答：总共至少需要11年：医学院（6年）+实习（1年）+住院医师培训（4年）
 
 
 ---
@@ -146,12 +137,12 @@ After graduating from medical school, complete internship and residency (general
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/surgeon/KR)**

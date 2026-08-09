@@ -51,8 +51,6 @@ Quantity surveyors handle cost estimation, budget management, and contract settl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
-
 Starting with estimation and tendering, then progressing to project manager, cost manager, or partner; can also move to developer or consultancy roles, with salary increasing significantly with experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting with estimation and tendering, then progressing to project manager, cos
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, you can score based on qualifications/registration/experience, suitable for applicants with a New Zealand job offer |
 | Subclass AEWV (Accredited Employer Work Visa) | Employed by an accredited employer can get a 3-year work visa, transitioning to residency after gaining experience |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Massey University (undergrad), Unitec (undergrad/diploma), Otago Polytechnic 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quantity-surveyor/NZ)**

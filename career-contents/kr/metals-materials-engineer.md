@@ -51,8 +51,6 @@ An engineering professional who researches physical properties of metals and mat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation enhance support roles in materials simulation, data analysis, and quality inspection, but creative experiment design and interpretation of physical phenomena still require human experts. While AI replaces some repetitive tasks, advanced research like new material development is becoming more efficient due to AI.
-
 After obtaining a master's or doctoral degree, one typically joins a research institute or corporate R&D center. With experience, advancement to senior researcher or lab director is possible. Research positions at mid-sized companies and public enterprises are also promising.
 
 **Tasks most exposed to AI:**
@@ -91,15 +89,9 @@ After obtaining a master's or doctoral degree, one typically joins a research in
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | A work visa for research/technical fields requiring expertise, suitable for metallurgical/materials engineers |
-| Subclass D-10 (Job Seeking) | Visa for job seeking after degree acquisition, convertible to E-7 |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +135,12 @@ A: A minimum bachelor's degree is required; research and development positions p
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metals-materials-engineer/KR)**

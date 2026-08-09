@@ -51,8 +51,6 @@ Engage in research and application of physical sciences such as physics, geology
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
-
 Career progression typically starts from junior researcher or technician, advancing to senior scientist, project manager, or research director, or transitioning to academia or private sector management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression typically starts from junior researcher or technician, advanc
 | Subclass PNP (Provincial Nominee Program) | Some provinces prioritize physical science talent, such as BC and Ontario. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for Labor Market Impact Assessment to support work permits and immigration. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Major employers include federal and provincial governments, universities and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-professional-occupations-in-physical-sciences/CA)**

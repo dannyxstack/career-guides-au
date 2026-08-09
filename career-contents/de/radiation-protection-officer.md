@@ -54,8 +54,6 @@ Radiation protection officers oversee radiation safety at nuclear facilities, me
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Radiation protection officers face enhancements from AI-assisted monitoring and data analysis, but core tasks such as safety assessments, regulatory compliance, and liability decisions are difficult to replace, resulting in a mixed overall impact.
-
 Career paths include progressing from assistant specialist to senior specialist or department head. Further education can lead to becoming a radiation protection expert or entering nuclear safety regulatory bodies. Some transition to medical physics or environmental monitoring.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths include progressing from assistant specialist to senior specialist 
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to dual system training or qualifications, requiring employer sponsorship and professional qualification certification |
 | Subclass Job Seeker (Job Seeker Visa) | 6 months to find a job, requires credential assessment and sufficient funds; switch to work visa after finding a job |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, further training to become a 'radiation protection expert' (Fachkraft f�
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiation-protection-officer/DE)**

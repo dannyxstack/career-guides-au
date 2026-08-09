@@ -51,8 +51,6 @@ Early childhood teachers are on the long-term shortage list in New Zealand, elig
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
-
 Junior teachers can advance to Head Teacher, Centre Manager, or Educational Consultant. They may also transition into early intervention, early childhood policy research, or higher education training. A master's degree helps specialize in curriculum leadership or special education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior teachers can advance to Head Teacher, Centre Manager, or Educational Cons
 | Subclass SMC (Skilled Migrant Category) | 6-point system: registered occupation plus education earns 6 points; meets age and English requirements; no work experience points needed. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, used to gain New Zealand work experience before transferring to residence. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must pass NZQA assessment to equate qualification with NZ bachelor's degree, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-preprimary-school-teacher/NZ)**

@@ -52,8 +52,6 @@ Secondary school teachers teach grades 7-13 in public or private schools, are on
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 Can progress from regular teacher to subject head, grade leader, or deputy principal, or transition to education policy, curriculum development, or teacher training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from regular teacher to subject head, grade leader, or deputy princ
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Under the 6-point system, registered teachers can accumulate points through qualifications and work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, typically a transitional path to immigration |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, overseas qualifications require assessment by the New Zealand Teaching C
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/middle-school-teacher-intermediate-school-teacher/NZ)**

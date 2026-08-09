@@ -52,8 +52,6 @@ Responsible for planning, directing, and coordinating operations of restaurants,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate routine tasks such as scheduling and inventory management, improving efficiency, but customer experience, crisis handling, and team leadership remain core human strengths; job roles shift from execution to strategic management.
-
 Typically starting as restaurant supervisor or assistant manager, with experience advancing to regional manager, operations director, or starting own restaurant. Continuous learning of catering management trends is required.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically starting as restaurant supervisor or assistant manager, with experienc
 | Subclass Scale-up (Scale-up Worker Visa) | Eligible fast-growing enterprises can sponsor; can change employers after 6 months from initial visa grant, suitable for high-skilled managers. |
 | Subclass Global Talent (Global Talent Visa) | Only applicable when proven to be an outstanding talent in the food service industry, not a general pathway. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from assistant manager to restaurant manager, then to regional m
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-and-catering-establishment-managers-and-proprietors/UK)**

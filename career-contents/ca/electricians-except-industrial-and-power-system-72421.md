@@ -53,8 +53,6 @@ Solar installers in Canada are classified under electricians (NOC 72421), respon
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI is difficult to replace electricians' hands-on work and on-site judgment, software tools are gradually taking over design, documentation, and other tasks, creating mixed impacts.
-
 Start from apprenticeship, gradually obtain provincial Red Seal certification to advance to supervisor, project manager, or start your own solar installation company. With increasing rooftop PV and large-scale ground-mounted projects, career prospects are broad.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start from apprenticeship, gradually obtain provincial Red Seal certification to
 | Subclass PNP (Provincial Nominee Program) | Such as Ontario Skilled Trades stream, BC EEBC, Alberta AOS, etc., requiring employer offer or specific skilled trade occupation. |
 | Subclass AIP (Atlantic Immigration Program) | Valid job offer from a designated employer in one of the Atlantic provinces and a high school diploma or higher, with language proficiency at CLB 4 or above. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Not directly recognized, but provincial apprenticeship agencies can assess ov
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electricians-except-industrial-and-power-system-72421/CA)**

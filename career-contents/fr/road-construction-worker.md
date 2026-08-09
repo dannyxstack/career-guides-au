@@ -52,8 +52,6 @@ Engaged in the paving, maintenance, and upkeep of infrastructure such as roads, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core physical tasks for road construction workers (paving and compaction) will be replaced by automated machinery, but on-site decision-making and fine adjustments will still require manpower, and entry-level positions will be significantly reduced.
-
 Career path: Start as an ordinary road worker, advance to team leader (Chef d'équipe), and then to site supervisor (Conducteur de travaux). Some become road construction technicians or project managers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career path: Start as an ordinary road worker, advance to team leader (Chef d'é
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer-provided work contract and a recruitment difficulty certificate verified by France Travail, suitable for experienced road construction workers. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent or innovative projects, but road construction positions are generally not suitable unless advanced engineering management is involved. |
-| Subclass Recherche emploi (Job Search Visa) | After completing a French degree, you can apply to work in France for one year, and after finding a job, you can switch to working residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must hold the CACES Construction Machinery Operation Certificate (R482 catego
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-construction-worker/FR)**

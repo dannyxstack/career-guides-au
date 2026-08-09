@@ -50,8 +50,6 @@ A professional who supports the health maintenance and promotion of local reside
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI complements public health nurses' work through data analysis and health management apps, but interpersonal support and community activities are less likely to be replaced, rather strengthening their role via efficiency.
-
 Many work in government or corporate settings. With experience, they advance to managerial or specialized fields (e.g., mental health). Graduate school offers a path to further specialization.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Many work in government or corporate settings. With experience, they advance to 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Corresponds to public health nurse duties. Requires university graduation and practical experience. |
-| Subclass 特定活動（医療） (Designated Activities (Medical)) | Visa for foreigners with nurse or public health nurse qualifications to work at Japanese medical institutions. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Based on a points system for education, experience, and annual income; public health nurses may be eligible. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: In government, there is a path from public health nurse to management (chief 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-health-nurse/JP)**

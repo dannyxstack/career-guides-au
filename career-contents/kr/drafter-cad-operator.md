@@ -50,8 +50,6 @@ A drafter (CAD operator) creates and revises product design drawings using CAD s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI and automation software rapidly replace simple drafting tasks, the traditional role of drafters is shrinking. However, advanced CAD tasks such as 3D modeling, BIM, and simulation are increasing productivity through collaboration with AI. While demand for simple CAD operators is decreasing, demand for experts who can utilize AI tools is expected to grow.
-
 Starting as a CAD operator, one can advance to design engineer or project manager with experience. Specialization in specific industries (mechanical, electrical, architectural) and certifications (e.g., ATC) are advantageous.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Starting as a CAD operator, one can advance to design engineer or project manage
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for CAD design as a skilled professional, must meet degree and experience requirements |
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing production roles, not suitable for CAD jobs |
-| Subclass F-2 (Residence) | For long-term residents, free to work in CAD jobs |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +137,12 @@ A: Yes, simple 2D drafting is at high risk of automation, but advanced tasks lik
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drafter-cad-operator/KR)**

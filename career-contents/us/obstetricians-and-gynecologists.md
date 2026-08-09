@@ -54,8 +54,6 @@ Obstetricians and gynecologists (OB/GYNs) are responsible for women's reproducti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on obstetricians and gynecologists is mixed: imaging diagnosis and documentation automation can improve efficiency, but core clinical operations, emergency decisions, and patient communication still require human leadership, overall replacement risk is low.
-
 Career path typically begins with residency training (4 years), after which one can become an attending physician. Further specialization in maternal-fetal medicine, reproductive endocrinology, etc., or advancement to department head or hospital management. Some enter academic research or private practice.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path typically begins with residency training (4 years), after which one 
 | Subclass J-1 Waiver (J-1 Visa Waiver (Conrad 30)) | Foreign medical graduates who complete J-1 residency training can apply for a waiver of the home residency requirement through the Conrad 30 program, working in designated health professional shortage areas. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card pathway requiring proof that no qualified U.S. workers are available. Physician positions typically apply for EB-2 or EB-3 through PERM. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires 4 years bachelor's + 4 years medical school + 4 years resi
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/obstetricians-and-gynecologists/US)**

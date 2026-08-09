@@ -53,8 +53,6 @@ Drama actors interpret characters through body, voice, and emotion, presenting s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI brings mixed impacts for actors: on one hand, AI-generated virtual actors and synthetic media may replace some extras, background performances, and standardized voice acting; on the other hand, AI tools can enhance performance creation, storyboard previews, and facial animation, but core emotional expression and live interaction remain a human moat.
-
 Career advancement path: Start as a supporting actor, gradually build up your works and reputation, and can be promoted to lead or director. Some actors turn to voice acting, teaching, or drama therapy. Long-term training and networking are required.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career advancement path: Start as a supporting actor, gradually build up your wo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Ar (Talent Passport (Performing Artist)) | Applicable to actors with outstanding artistic achievements or contracted to French projects, valid for 4 years, renewable and allowing family members to accompany the party. |
-| Subclass Salarié (Employee Work Permit) | A French employer must provide a long-term contract (CDI), but the drama industry is mostly short-term and requires employers to prove non-replaceability. |
-| Subclass Recherche emploi / c (Job Search / Business Creation (Post-Study)) | French graduates can apply for a one-year residence permit to find work and then convert to work residence. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Besides acting skills, improvisation, voice control, physical expression, scr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor-drama/FR)**

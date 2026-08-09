@@ -53,8 +53,6 @@ Meat packers in New Zealand slaughterhouses or meat processing plants handle wei
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Meat packers face a mixed impact from automation and AI: simple repetitive packaging and labelling tasks will be replaced by machines, but quality checks, equipment maintenance and other jobs requiring sensory judgement and flexibility can instead be made more efficient with AI tools—overall, risk is moderate.
-
 Junior packers can advance to quality inspectors, team leaders, or slaughterers (with additional training). Some experienced workers can transition to cold chain logistics or food technology roles. Holding New Zealand meat processing certificates (e.g., Level 2/3) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior packers can advance to quality inspectors, team leaders, or slaughterers 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not mandatory, but holding a New Zealand national certificate (Meat Processin
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-packer/NZ)**

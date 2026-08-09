@@ -52,8 +52,6 @@ Responsible for repairing, testing, adjusting, or installing industrial control 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
-
 Typically start as apprentice or from technical school, can advance to senior technician or supervisor with experience, some move to equipment sales or technical service management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically start as apprentice or from technical school, can advance to senior te
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires an associate degree or completion of electronics technolog
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-repairers-commercial-and-industrial-equipment/US)**

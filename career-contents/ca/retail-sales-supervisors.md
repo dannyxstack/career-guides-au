@@ -51,8 +51,6 @@ Retail supervisors oversee daily operations of retail stores, manage sales teams
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
-
 Retail supervisors can advance to store manager, regional manager, or operations director. With experience, they can also move into procurement, merchandise planning, or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Retail supervisors can advance to store manager, regional manager, or operations
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in multiple provinces cover retail supervisors, especially in labor shortage areas. |
 | Subclass LMIA (Labour Market Impact Assessment) | If direct immigration is not possible, the employer can apply for LMIA to support a work visa, then transition to permanent residency. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Could be promoted from supervisor to store manager, regional manager, or even
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-sales-supervisors/CA)**

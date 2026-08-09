@@ -52,8 +52,6 @@ Oversees contractors, workers, and projects in the electrical and telecommunicat
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The electrical and telecommunications contracting and supervision profession faces mixed prospects with AI: routine documentation, scheduling, and compliance checks can be automated, but on-site supervision, emergency judgment, and human coordination still rely on human experience. Overall risk is manageable.
-
 Can progress from tradesperson to foreman or project manager, and with experience, start your own contracting company.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from tradesperson to foreman or project manager, and with experienc
 | Subclass PNP (Provincial Nominee Program) | Many provinces offer priority invitations for tradespeople |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, easier approval for shortage occupations |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Available through Express Entry (FSW), Provincial Nominee Program (PNP), or L
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-electrical-trades-and-telecommunications-occupations/CA)**

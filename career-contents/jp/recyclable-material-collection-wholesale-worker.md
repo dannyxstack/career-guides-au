@@ -4,8 +4,6 @@
 
 Occupations involved in collecting, sorting, and wholesaling recyclable resources such as waste paper, scrap metal, and used textiles to recycling or manufacturing companies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Occupations involved in collecting, sorting, and wholesaling recyclable resource
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI image recognition and robotic sorting are advancing, reducing manual sorting. Meanwhile, new jobs in data management and system operation for AI emerge, but overall employment shrinks.
-
 Entry-level positions available; career growth from field work to procurement/sales route development, management, or even independent business ownership.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Entry-level positions available; career growth from field work to procurement/sa
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | May fall under waste treatment tasks (field limited). |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable when engaged in recycling tech or sales/management duties. |
-| Subclass 技能 (Skilled Labor) | When recognized as skilled worker (e.g., metal processing). |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Start with fieldwork, then after learning sorting techniques, move to procure
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recyclable-material-collection-wholesale-worker/JP)**

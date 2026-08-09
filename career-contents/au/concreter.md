@@ -58,8 +58,6 @@ A Concreter prepares, pours, levels and cures concrete for foundations, floors, 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Concrete workers face a mixed impact from AI/automation: repetitive measuring and mixing work will be replaced by machines, but on-site fine work and client communication are enhanced by AI tools; entry barriers lower, but senior tradespeople increase in value.
-
 High-efficiency pumping and laser screed equipment improve productivity, but pouring, finishing and joint cutting still require significant manual labour. Independent subcontractors earn considerably more than employees.
 
 **Tasks most exposed to AI:**
@@ -115,9 +113,7 @@ High-efficiency pumping and laser screed equipment improve productivity, but pou
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both have similar PR pathways. Concreter roles are more plentiful with greate
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concreter/AU)**

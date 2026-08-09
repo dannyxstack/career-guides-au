@@ -53,8 +53,6 @@ New Zealand government administrative officers work in the public service, handl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
-
 Career progression usually starts from Administrative Officer (AO), advancing to Senior Administration Officer (SAO), team leader, or policy advisor. Requires accumulating internal experience and participating in public service training; promotion cycle is about 3-5 years.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression usually starts from Administrative Officer (AO), advancing to
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically requires New Zealand citizenship or residency, a bachelor's degree 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-servant-government-administration-officer/NZ)**

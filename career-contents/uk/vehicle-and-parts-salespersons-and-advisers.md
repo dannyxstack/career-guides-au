@@ -52,8 +52,6 @@ Vehicle and parts salespersons and advisors sell new and used cars to the public
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on vehicle and parts salespeople and consultants is mixed: routine product inquiries, document processing, and initial customer screening can be automated, but high-value sales rely on interpersonal trust and complex negotiations, which are less replaceable, overall showing structural adjustment rather than replacement.
-
 Can advance from junior sales consultant to senior sales consultant, sales manager, or brand manager. Also can transition to parts sales, after-sales service, or used car procurement roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from junior sales consultant to senior sales consultant, sales manag
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to senior sales consultant, sales manager, brand manager, or tran
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-and-parts-salespersons-and-advisers/UK)**

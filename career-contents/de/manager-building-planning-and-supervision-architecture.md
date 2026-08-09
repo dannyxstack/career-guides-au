@@ -52,8 +52,6 @@ Responsible for project planning, design review, construction supervision, and t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Can progress from project architect, construction supervisor to department head or company partner; through continuing education, can move to large project management or building code consulting, clear career path.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from project architect, construction supervisor to department head 
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can progress from project architect to department manager, partner, or transi
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-building-planning-and-supervision-architecture/DE)**

@@ -51,8 +51,6 @@ Responsible for recruiting, screening, interviewing, or arranging personnel onbo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Entry-level can progress from HR assistant to specialist, then to HR manager or director, or pursue certification to enhance professionalism. Large companies have clearer career paths.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level can progress from HR assistant to specialist, then to HR manager or 
 | Subclass EB-2/EB-3 (Employment-Based Green Card (PERM)) | Apply for green card through PERM labor certification, must prove no US worker available. EB-2 requires master's or bachelor's plus 5 years experience. |
 | Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational corporations, suitable for those who have worked at an overseas branch for one year before transferring to the US. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Good. Can advance to HR manager, director, or specialize in recruitment, comp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-specialists/US)**

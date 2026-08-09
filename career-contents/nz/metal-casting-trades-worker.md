@@ -51,8 +51,6 @@ Metal casting trades workers operate casting equipment to pour molten metal into
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Metal casting trades face moderate compression from AI and automation: CNC machines and robots have simplified pouring and post-processing, but mould preparation and pouring control still rely on manual experience; overall job numbers will decline, but core skilled workers remain in demand.
-
 Career progression includes senior technician, foundry supervisor, or mold designer. With experience, one can move into technical management or quality control. Some practitioners upgrade to engineer level by learning CAD or metallurgy.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression includes senior technician, foundry supervisor, or mold desig
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for skilled workers with employer sponsorship, time can be accumulated for SMC |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, need to meet 6-point system (e.g., skilled work + salary/qualification), occupation at ANZSCO skill level 3. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Feasible, but not a Green List occupation. Can proceed via AEWV work visa to 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-casting-trades-worker/NZ)**

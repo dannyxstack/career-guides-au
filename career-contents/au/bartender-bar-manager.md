@@ -56,8 +56,6 @@ Bartenders prepare and serve alcoholic and non-alcoholic beverages in bars, rest
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Bartenders/bar managers face AI automation taking over ordering, inventory, and other admin tasks, but core skills like creative mixology, customer experience, and human interaction are amplified; the moat lies in sensory creation and personalized service.
-
 Australia's premium cocktail culture continues to move upmarket, with an increasing number of Sydney and Melbourne bars entering the World's 50 Best Bars rankings. Non-alcoholic craft beverages (mocktails) have become a mainstream menu staple. Demand for wine education (WSET/sommelier certification) has grown significantly. Bartenders with sommelier qualifications earn approximately 20–30% more than those without.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Australia's premium cocktail culture continues to move upmarket, with an increas
 | Subclass 190 (Skilled Nominated) | State nomination; some states include bar managers in their nomination lists |
 | Subclass 491 (Skilled Work Regional) | There is a shortage in rural and remote pubs and hotels; a 15-point regional bonus is a viable option |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: The two roles have similar salaries (bar manager $75k–$92k vs café manager
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bartender-bar-manager/AU)**

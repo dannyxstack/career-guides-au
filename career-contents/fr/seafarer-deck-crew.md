@@ -4,8 +4,6 @@
 
 Seafarers are responsible for deck operations, maintenance, navigation watch, and cargo handling. They are core positions in the maritime industry and often require long-term work at sea.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Seafarers are responsible for deck operations, maintenance, navigation watch, an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core operational tasks for seafarers (deck sections) (such as navigation, lookout, cargo handling) are being rapidly replaced by AI and automation systems. In particular, autonomous vessel technology will significantly reduce crew demand, but legal and safety responsibilities remain
-
 Matelots can be promoted from ordinary sailors to senior sailors (Quartier-maître) or Bosco, and by obtaining the STCW certificate and advanced training, they can become bridge watchmen or captains.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Matelots can be promoted from ordinary sailors to senior sailors (Quartier-maît
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Pass)) | Employers must provide CDI contracts and labor permits, suitable for qualified crew members to be employed directly |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled personnel, such as captains holding advanced competency certificates |
-| Subclass Carte bleue UE (EU Blue Card) | High education and high salaries are required, making it suitable for graduates to become senior seafarers |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: He was promoted step by step from sailor to chief boatswain, third mate, seco
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/seafarer-deck-crew/FR)**

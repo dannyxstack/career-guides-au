@@ -1,8 +1,8 @@
-# Customs Administration Clerk 职业分析 · 韩国
+# 海关管理文员（Customs Administration Clerk）职业分析 · 韩国
 
-**职业代码: 02521 (KECO)**
+**职业代码：02521 (KECO)**
 
-A professional office worker who handles customs clearance procedures for import/export goods, reviews tariffs and related regulations, and manages customs declarations and documents.
+处理进出口货物报关手续、审核关税及相关法规、管理报关单证的专业办公人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional office worker who handles customs clearance procedures for import
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-Year College) | 2 年 | $14,000,000~$22,000,000（Low-cost public, high-cost private） |
-| Bachelor’s Degree (4-Year University) | 4年 | $28,000,000~$48,000,000（Mostly majors in Trade/International Commerce） |
+| 副学士学位（两年制大学） | 2 年 | $14,000,000~$22,000,000（低成本的公立机构，高成本的私立机构） |
+| 学士学位（4年大学） | 4年 | $28,000,000~$48,000,000（主要为贸易/国际商务专业） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional office worker who handles customs clearance procedures for import
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Customs Broker | Human Resources Development Service of Korea | 可选 | High-difficulty license; allows independent customs clearance |
-| Trade English Level 1/2 | Korea Chamber of Commerce and Industry | 可选 | Advantageous for trade practice |
-| International Trade Specialist Level 1/2 | Korea International Trade Association | 可选 | Assesses FTA utilization skills |
+| 报关行 | 韩国人力资源开发服务局 | 可选 | 高难度执照；允许独立报关 |
+| 贸易英语一级/二级 | 大韩商工会议所 | 可选 | 有利于贸易实践 |
+| 国际贸易专员 1/2级 | 韩国国际贸易协会 | 可选 | 评估FTA利用能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 52,000. South Korea’s high trade dependence ensures steady demand for customs administration, though electronic documentation and AI adoption are expected to reduce routine tasks while increasing the need for expertise.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 52,000。韩国高度依赖贸易，确保海关管理需求稳定，但电子化和AI应用预计将减少常规工作，同时增加对专业知识的需求
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,95 +40,88 @@ A professional office worker who handles customs clearance procedures for import
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
 | Beginner (0–3 years) | $26,000,000~$34,000,000 | 根据企业规模和地区有所差异 |
-| Intermediate (4–9 years) | $36,000,000~$48,000,000 | Increases with customs broker license |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Executive at customs agency or expert at large corporation |
+| 中级（4-9年） | $36,000,000~$48,000,000 | 持有报关员执照后薪资增长 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 报关行高管或大企业专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-With the introduction of the electronic customs clearance system (UNI-PASS) and AI-based customs analysis tools, simple document review and data entry tasks are being automated, but highly specialized areas such as FTA utilization, customs strategy formulation, and legal judgment are still handled by humans. As a result, AI will act as a tool to enhance efficiency rather than completely replacing jobs.
+随着电子通关系统（UNI-PASS）和基于AI的海关分析工具的引入，简单的文件审核和数据输入任务正在实现自动化，但FTA利用、海关战略制定和法律判断等高度专业化领域仍由人类处理。因此，AI将作为提高效率的工具，而非完全取代工作。
 
-Starting in junior office positions, one can acquire a customs broker license or build practical experience to advance to team leader or manager, with career paths in corporate logistics teams, customs agencies, or the Korea Customs Service.
+从初级办公室职位起步，可获取报关员执照或积累实践经验，晋升为组长或经理，职业路径包括企业物流团队、报关行或韩国海关。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing and reviewing import/export declarations
-- Classifying tariff codes
-- Compiling basic statistical data
-- Copying and scanning documents
+- 撰写和审查进出口报关单
+- 关税编码归类
+- 编制基本统计数据
+- 复印和扫描文件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analyzing customs risks
-- Determining FTA origins
-- Formulating customs clearance strategies
-- Client consultation and tax advisory
+- 分析海关风险
+- 确定FTA原产地
+- 制定清关策略
+- 客户咨询与税务建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to interpret complex regulations
-- Interpersonal negotiation and communication
-- Conflict resolution skills
-- Ethical judgment
+- 解读复杂法规的能力
+- 人际协商与沟通
+- 冲突解决技能
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Foreign languages such as English and Chinese
-- Utilizing ERP and customs-related IT tools
+- 数据分析
+- 外语如英语和中文
+- 利用ERP和通关相关IT工具
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increasing demand for customs brokers
-- Expansion of FTA-related tasks
-- Advancement of electronic customs clearance
-- Importance of supply chain management
+- 海关经纪人需求增长
+- FTA相关任务扩展
+- 推进电子清关
+- 供应链管理的重要性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Issuable to trade/customs field professionals with customs broker license or experience |
-| Subclass E-9 (Non-professional Employment (E-9)) | Partially applicable only for customs support tasks, but limited due to lack of expertise |
-| Subclass F-2 (Residence (F-2-1)) | Long-term stay possible when switching to points system; customs work experience recognized |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and skilled in paperwork
-- People with high interest in international trade and regulations
-- People seeking long-term career and stable job
+- 细心且擅长文书工作的人
+- 对国际贸易和法规有高度兴趣的人
+- 寻求长期职业和稳定工作的人
 
 **谁不适合**
 - 讨厌重复性文书工作的人
-- People who find it hard to keep up with rapidly changing regulations
+- 难以跟上快速变化法规的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a customs administration clerk?**
-答：Entry-level is about 26-34 million won, mid-level 36-48 million won, senior 50-70 million won. Varies greatly depending on customs broker license.
+**问：海关管理文员的平均薪资是多少？**
+答：入门级约2600-3400万韩元，中级3600-4800万韩元，高级5000-7000万韩元。视报关行执照情况差异较大。
 
-**问：What visa does a foreigner need to work as a customs administration clerk?**
-答：E-7 visa (Specific Activities) is typical for those with professional qualifications. A customs broker license or related degree/experience is required, and conversion to an F-2 (Residence) visa is possible.
+**问：外国人从事海关行政文员工作需要什么签证？**
+答：E-7签证（特定活动）适用于具有专业资格的人员。需要报关员执照或相关学位/经验，并可转换为F-2（居住）签证。
 
-**问：What certifications are advantageous for promotion?**
-答：A customs broker license is most advantageous, and trade English/international trade certificates also help. Building experience in customs brokerage firms or logistics teams at large corporations is common.
+**问：哪些认证对晋升有利？**
+答：报关行执照最为有利，贸易英语/国际贸易证书也有帮助。在报关行或大型企业的物流团队积累经验很常见。
 
 
 ---
@@ -146,12 +139,12 @@ Starting in junior office positions, one can acquire a customs broker license or
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/customs-administration-clerk/KR)**

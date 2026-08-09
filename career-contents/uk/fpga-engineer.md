@@ -51,8 +51,6 @@ FPGA engineers use Verilog/VHDL to implement high-performance digital circuits o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
-
 The UK focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ The UK focuses on AI accelerators and low-power/simulation design, with engineer
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fpga-engineer/UK)**

@@ -4,8 +4,6 @@
 
 Lawyers in the Netherlands provide legal advice and representation, primarily employed by law firms, companies, and government agencies. Must be proficient in Dutch and have solid knowledge of Dutch law.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Lawyers in the Netherlands provide legal advice and representation, primarily em
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on lawyer jobs is mixed: document review and legal research tasks are significantly automated, but consulting, court appearances, and client trust roles are amplified by AI assistance. Competition for entry-level positions intensifies, while senior lawyers' value increases.
-
 Usually start from an internship, then advance to paralegal or junior lawyer, and then to senior lawyer or partner. Can also transition to corporate legal, government, or academia.
 
 **Tasks most exposed to AI:**
@@ -104,18 +100,9 @@ Usually start from an internship, then advance to paralegal or junior lawyer, an
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to high-skilled migrants employed by an approved sponsor; must meet the salary threshold (approx. €5,331/month in 2024, for those over 30). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a contract of at least 1 year and a salary meeting the threshold (approx. €5,331/month in 2024) |
-| Subclass Orientation Year (zo (Orientation Year for Graduates) | For graduates from top 200 universities in the Netherlands or worldwide, you can apply within 1 year after graduation, valid for 1 year. |
-| Subclass Self-employed (zzp) (Self-employed Residence Permit) | Applicable for working as an independent lawyer (advocaat-zzp), requiring assessment by the Dutch Ministry of Economic Affairs. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -159,12 +146,12 @@ A: Usually start as trainee lawyers, become formal lawyers after 3 years of trai
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyer/NL)**

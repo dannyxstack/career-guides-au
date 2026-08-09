@@ -54,8 +54,6 @@ Operate and set woodworking machines such as saws, planers, and routers for proc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Woodworking machine operators face automation risk, but AI technology can enhance their design optimization and quality control capabilities, moderately raising the entry barrier.
-
 Career progression path: from operator to senior setter or production supervisor, or towards woodworking technician or quality inspector. Some experienced individuals can start their own business in custom furniture or renovation.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression path: from operator to senior setter or production supervisor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: This occupation is not on the critical skills occupation list; a general empl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodworking-machine-tool-setter-and-operator/IE)**

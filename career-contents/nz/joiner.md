@@ -53,8 +53,6 @@ Joinery is a key trade in New Zealand's construction industry, specializing in m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Initially usually start as an apprentice or workshop assistant, becoming a qualified tradesperson after 2-4 years. With experience, progress to foreperson, project manager, or self-employment. Certification through the New Zealand Certified Builders Association (NZCB) can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Initially usually start as an apprentice or workshop assistant, becoming a quali
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, occupational registration can earn points, offering high immigration prospects. |
 | Subclass AEWV (Accredited Employer Work Visa) | Suitable for temporary work, then transition to residence after gaining experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, LBP carpentry certification and NZQA national certificate are necessary 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/joiner/NZ)**

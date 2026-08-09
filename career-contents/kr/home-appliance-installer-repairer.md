@@ -4,8 +4,6 @@
 
 A skilled technician who installs home appliances and diagnoses/repairs malfunctions. Provides on-site service for refrigerators, washing machines, air conditioners, and more.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A skilled technician who installs home appliances and diagnoses/repairs malfunct
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in fault diagnosis and enable predictive maintenance, but on-site installation and repair require human hands, making full replacement difficult.
-
 After joining, acquire field experience for 2-3 years; after 5+ years, become eligible for senior or team lead positions. Obtaining certifications enables starting a business or operating a dealership.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After joining, acquire field experience for 2-3 years; after 5+ years, become el
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if invited as skilled technician, but requirements are strict. |
-| Subclass E-9 (Non-professional Employment) | Limited to simple installation and repair assistance. |
-| Subclass F-2 (Residence) | Employment possible for long-term stay, but separate permit required. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Possible with E-7 visa but requirements are strict; E-9 visa is limited to au
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-appliance-installer-repairer/KR)**

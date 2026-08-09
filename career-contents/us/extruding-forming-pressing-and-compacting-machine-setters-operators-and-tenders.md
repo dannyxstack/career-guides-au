@@ -53,8 +53,6 @@ Operate and adjust extruding, forming, pressing, and compacting machines to prod
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Jobs for pressing, forming, pressing and compacting machine operators will be significantly reduced by automation; AI-driven robots and smart monitoring systems can handle tasks like operation, adjustment and quality inspection, but equipment maintenance and anomaly handling still need humans.
-
 Typically start as operators, gain experience, and advance to senior operator or team leader; some may transition to equipment maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as operators, gain experience, and advance to senior operator or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost unsuitable. This occupation usually does not meet H-1B bachelor's degr
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/extruding-forming-pressing-and-compacting-machine-setters-operators-and-tenders/US)**

@@ -4,8 +4,6 @@
 
 A professional who directs and controls takeoff, landing, and flight paths for safe and efficient aircraft operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who directs and controls takeoff, landing, and flight paths for s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used as an auxiliary tool for control tasks (collision warnings, optimal route suggestions), but final decisions and safety responsibility rest with human controllers, making full automation unlikely. Thus, demand for controllers will persist, but work methods will become more efficient due to technology.
-
 Entry-level Controller (after training) → Controller → Senior Controller → Control Team Leader. Open competitive recruitment and internal promotion. Career mobility to airport facilities and airlines possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Entry-level Controller (after training) → Controller → Senior Controller →
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | (E-7-1 Skilled Technician) or (E-7-4 Professional) possible, but since air traffic controllers are civil servants, foreign employment is extremely limited. Theoretically possible |
-| Subclass F-2 (Residence) | Pre-permanent residence step. When foreigners apply as air traffic controllers, many cases require permanent residence or F-2 to apply |
-| Subclass F-5 (Permanent Residence) | As a permanent resident, civil service employment is possible. Foreign air traffic controllers effectively need permanent residence or F-5 |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: After graduating from a Ministry of Land, Infrastructure and Transport design
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/KR)**

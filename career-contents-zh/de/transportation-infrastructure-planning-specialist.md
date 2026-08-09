@@ -1,6 +1,6 @@
-# Transportation Infrastructure Planning Specialist 职业分析 · 德国
+# 交通基础设施规划专员（Transportation Infrastructure Planning Specialist）职业分析 · 德国
 
-**职业代码: 3113 (KldB)**
+**职业代码：3113 (KldB)**
 
 负责规划、设计和协调道路、铁路、桥梁等交通基础设施项目，确保交通系统安全、高效和可持续。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. 德国大规模基础设施投资计划（如交通转型）推动需求增长，公共部门和私营咨询公司均有稳定招聘，短期至中期前景良好。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。德国大规模基础设施投资计划（如交通转型）推动需求增长，公共部门和私营咨询公司均有稳定招聘，短期至中期前景良好。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 土木工程师任务结构呈现两极分化：重复性计算与文档工作被AI压缩，但设计创新、现场协调与安全决策被AI放大，整体需求不减但入门岗位竞争加剧。
 
 初级规划师可晋升为项目负责人或部门主管，也可通过继续教育（如硕士学位或资质认证）进入高级管理或专业咨询领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 标准结构分析与计算（如常规梁柱受力计算）
 - 施工图纸的自动化生成与审核（BIM参数化输出）
@@ -64,7 +64,7 @@
 - 合规性文档与标准规范的自动比对
 - 材料清单与成本估算的自动生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 复杂地质条件下的结构优化设计（AI生成多方案比选）
 - 基于IoT与AI的结构健康监测与预警
@@ -72,7 +72,7 @@
 - 通过自然语言接口快速检索历史工程案例与规范
 - 生成式AI辅助编写技术报告与投标文件
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂工程决策与跨专业协调（如桥梁与交通、环境影响评估）
 - 现场不可预见问题的判断与应急处理
@@ -80,7 +80,7 @@
 - 客户关系与利益相关方沟通
 - 创新方案设计（如新型材料应用、独特建筑造型）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握BIM软件（如Revit、Navisworks）及自动化脚本（Dynamo）
 - 学习AI辅助结构分析工具（如AISC AI模块）
@@ -89,16 +89,16 @@
 - 学习数据分析基础（Python/R）用于处理工程数据
 - 关注模块化建造与3D打印在土木中的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Infrastructure investment
-- Mobility transition
-- Digital planning (BIM)
-- Sustainability
+- 基础设施投资
+- 流动性转型
+- 数字规划（BIM）
+- 可持续性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | 具备德国认可的职业资质（学历认证）即可申请；雇主担保工作许可。 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制的求职签证，允许在德国找工一年；适合有学历和语言能力的申请人。 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -153,12 +151,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transportation-infrastructure-planning-specialist/DE)**

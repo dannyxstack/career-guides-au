@@ -53,8 +53,6 @@ Tree workers prune, remove, and maintain trees to ensure safety and health. They
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tree workers face mixed prospects from AI and automation: physical tasks like pruning and removal are hard to replace, but scheduling, safety monitoring, and customer communication will be enhanced by AI tools, increasing competition for entry-level positions.
-
 Career path: start as arborist assistant, gain experience, then advance to senior arborist or team supervisor, or start your own tree service company.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path: start as arborist assistant, gain experience, then advance to senio
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Migration is possible through employer sponsorship (482 or 186 visa). Relevan
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-worker/AU)**

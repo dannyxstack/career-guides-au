@@ -53,8 +53,6 @@ In Canada, a buyer's agent corresponds to a real estate agent or salesperson, re
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Real estate agents' task structure is being significantly reshaped by AI: property information search and document processing can be automated, but client relationships, negotiation, and emotional insight still rely on humans. Entry-level positions face increased competition due to information transparency, but high-skill agents' value is amplified.
-
 Junior traders can advance to senior broker, team leader, or independent broker. Some transition to property management, investment advisor, or start their own brokerage firms. Digital tools (e.g., VR property viewing) are trending, requiring adaptation to new technologies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior traders can advance to senior broker, team leader, or independent broker.
 | Subclass ICT (Intra-Company Transfer) | If employed by a multinational real estate company, may obtain a work visa through intra-company transfer |
 | Subclass Self-employed (Self-Employed Persons Program) | Not applicable; real estate agents are not eligible for self-employment category unless internationally renowned |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires completing provincially authorized licensing courses, passing qualif
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-and-salesperson/CA)**

@@ -4,8 +4,6 @@
 
 Italian electrical engineers design, develop, and maintain power systems and equipment, covering generation, transmission, and distribution, with high demand in energy transition and renewable energy projects.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Italian electrical engineers design, develop, and maintain power systems and equ
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
-
 Career path: Junior electrical engineer (design/testing) → Senior engineer/Project manager → Technical director or department manager. Can deepen into energy management, automation, or R&D, or transition to freelance consultant.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Career path: Junior electrical engineer (design/testing) → Senior engineer/Pro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, requires an annual salary threshold (approx. €24,000) and a university degree. Eligible for residence and family reunification. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | For non-EU workers, there is an annual quota and requires employer sponsorship. Applicable to general skilled positions, but electrical engineers are more likely to be approved due to shortages. |
-| Subclass Permesso per lavoro  (Self-Employment Permit) | Freelancers or entrepreneurs can apply, requiring a business plan and proof of funds, suitable for independent consultants. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: The Italian National Engineer Exam (Esame di Stato) is highly challenging, co
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/IT)**

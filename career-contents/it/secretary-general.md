@@ -53,8 +53,6 @@ General secretaries handle administrative tasks, including answering phones, sch
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The division of tasks in secretary roles is intensifying: repetitive administrative tasks (like scheduling and document processing) will be automated by AI tools, but tasks requiring interpersonal judgment, coordination, and confidentiality still rely on humans. The role is upgrading to administrative specialist or executive assistant, with higher entry thresholds.
-
 Junior secretaries can advance to executive assistant or office manager by gaining experience; acquiring foreign language and IT skills can open doors to international companies or senior management support roles.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior secretaries can advance to executive assistant or office manager by gaini
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU individuals, annual salary must meet the threshold (approximately 27,500 euros in 2023). |
-| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Quota-based work visa for non-high-skilled positions, requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit approval requires employers to demonstrate that no suitable candidate can be found within the EU. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Can be promoted to administrative supervisor, office manager, or executive as
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretary-general/IT)**

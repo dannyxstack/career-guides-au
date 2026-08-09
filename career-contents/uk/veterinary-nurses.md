@@ -51,8 +51,6 @@ Veterinary nurses assist veterinarians in treating and caring for sick or injure
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinary nurse roles will see a mixed impact from AI: back-office tasks like documentation and image analysis can be automated, but core tasks involving live animal care, client communication, and clinical judgment are hard to replace, while efficiency gains may amplify certain duties.
-
 Career path: Registered Veterinary Nurse (RVN) → Senior/Specialist Nurse (e.g., surgery, dentistry, emergency) → Nursing Supervisor/Clinic Manager. Option to study veterinary medicine or switch to veterinarian.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career path: Registered Veterinary Nurse (RVN) → Senior/Specialist Nurse (e.g.
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes. Some universities offer an accelerated programme from veterinary nurse t
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-nurses/UK)**

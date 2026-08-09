@@ -54,8 +54,6 @@ In Ireland, social work and counseling professionals provide psychosocial suppor
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Social work and counseling professionals face mixed AI impact: high-volume documentation and assessment tasks are automated, but core emotional support, ethical judgment, and complex interpersonal interactions are hard to replace, increasing demand for high-skilled roles.
-
 Career development paths include progressing from frontline social worker/counsellor to senior practitioner, team leader or management roles, or specializing in clinical fields or entering policy, research and education.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career development paths include progressing from frontline social worker/counse
 | Subclass General Employment P (General Employment Permit) | For general employment, annual salary ≥€30,000, labor market test required, eligible for permanent residence after 5 years. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU talent, requires ≥5 years of experience and annual salary ≥€33,453 (2024 benchmark), can bring family, fast-track permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Social workers must register with CORU; psychologists can voluntarily enhance
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-and-counselling-professional/IE)**

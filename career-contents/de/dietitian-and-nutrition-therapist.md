@@ -53,8 +53,6 @@ Diet and nutrition therapists provide personalised nutrition advice and meal pla
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can automate some documentation and data analysis tasks for dietitians and nutrition therapists, but personalized patient counseling and clinical judgment are hard to replace. Overall risk is moderate; AI is more of an enhancement tool.
-
 Practitioners can first complete dual-system Ausbildung or a bachelor's degree, gain experience, then advance to department head or nutrition management consultant; alternatively, pursue a master's for research or teaching.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Practitioners can first complete dual-system Ausbildung or a bachelor's degree, 
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking for one year without an employer, suitable for those with qualifications |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa requires academic qualification verification certificate |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance from clinical to department head, or shift to nutrition consultin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian-and-nutrition-therapist/DE)**

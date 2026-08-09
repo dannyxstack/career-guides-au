@@ -53,8 +53,6 @@ Inspect, test, classify, sample, or weigh non-agricultural raw materials or proc
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
-
 Can advance to quality supervisor, quality engineer, or certified inspector; some experienced individuals can move into quality control management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to quality supervisor, quality engineer, or certified inspector; som
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to quality supervisor, quality engineer, or gain NDT certificatio
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inspectors-testers-sorters-samplers-and-weighers/US)**

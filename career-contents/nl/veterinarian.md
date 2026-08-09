@@ -50,8 +50,6 @@ Veterinarians diagnose, treat, and prevent diseases, injuries, and disorders in 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
-
 Junior veterinarians can advance to specialist veterinarians (e.g., surgery, dentistry), or transition to research, teaching, public health, animal pharmaceuticals, and other industries. Experienced individuals can open private clinics.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior veterinarians can advance to specialist veterinarians (e.g., surgery, den
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, requiring employer sponsorship and meeting the salary threshold (€5,331/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly specialized talent, requiring a salary threshold (2024 approx. €5,500/month). |
-| Subclass Orientation Year (Orientation Year for Graduates) | Applicable to international students who graduated from a Dutch university, allowing one year to find a job |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Must register with BIG (managed by the Royal Netherlands Veterinary Associati
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/NL)**

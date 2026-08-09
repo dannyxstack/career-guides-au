@@ -54,8 +54,6 @@ Responsible for daily monitoring, maintenance, and traffic control of waterways 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The daily monitoring and traffic control tasks of waterway and bridge managers may be automated by AI, but facility maintenance and emergency decisions still require human judgment, leading to mixed prospects for the role.
-
 Can advance from assistant to senior administrator or team leader, some may transition to hydraulic engineering or waterway management. Requires internal training and certification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from assistant to senior administrator or team leader, some may tran
 | Subclass Skilled Worker (Skilled Employment (Sec. 18a AufenthG)) | After obtaining qualification certification, can apply with a vocational training contract or employment contract, requiring B2 German |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system, suitable for applicants with training qualifications but without employer sponsorship, can seek work in Germany |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must first complete recognized vocational training in Germany or pass a quali
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waterway-and-bridge-attendant/DE)**

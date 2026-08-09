@@ -4,8 +4,6 @@
 
 Handle customer inquiries, orders, and complaints in a call center, providing information support via phone or online channels.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Handle customer inquiries, orders, and complaints in a call center, providing in
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Call center information clerks' routine tasks of answering inquiries, processing orders, and triaging complaints are highly replaceable by AI voice and chatbots, leading to a significant reduction in entry-level positions. However, complex complaints and emotional support still require humans, and roles are upgrading to senior customer service or trainer positions.
-
 Can progress to team leader, quality control, or trainer roles, or transition into customer relationship management or data analysis positions.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can progress to team leader, quality control, or trainer roles, or transition in
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to professionals with an annual salary above the threshold (approx. €5,669/month), employer must be an accredited sponsor. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens earning above approximately €5,593/month, requiring a university degree or 5 years' experience. |
-| Subclass Orientation Year (Orientation Year) | Available for graduates who studied in the Netherlands, providing one year of job search time. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Can be promoted to team leader, quality monitor, or trainer, or transition to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contact-centre-information-clerk/NL)**

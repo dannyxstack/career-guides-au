@@ -1,8 +1,8 @@
 # 助产士（Midwife）职业分析 · 日本
 
-**职业代码: 132 (JSCO)**
+**职业代码：132 (JSCO)**
 
-A professional specializing in the health management and care of pregnant women, mothers, postpartum women, and newborns, providing normal delivery assistance, breastfeeding support, and emotional support for mother and child.
+专注于孕妇、产妇、产后女性和新生儿的健康管理与护理的专业人士，提供正常分娩协助、母乳喂养支持及母婴情感支持。
 
 
 ---
@@ -11,8 +11,8 @@ A professional specializing in the health management and care of pregnant women,
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Nursing university (midwifery course) | 4年 | $5,000,000~$7,000,000（Private universities are more expensive than public ones） |
-| Nursing school + midwifery training school | 3年 + 1年 | $3,000,000~$5,000,000（Public schools are low-cost） |
+| 护理大学（助产课程） | 4年 | $5,000,000~$7,000,000（私立大学比公立大学更贵） |
+| 护理学校 + 助产培训学校 | 3年 + 1年 | $3,000,000~$5,000,000（公立学校费用低） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional specializing in the health management and care of pregnant women,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Registered Nurse License | Ministry of Health, Labour and Welfare | 必备 | Prerequisite for becoming a midwife |
-| Midwife License | Ministry of Health, Labour and Welfare | 必备 | National certification; eligible after obtaining RN license |
+| 注册护士执照 | 厚生劳动省 | 必备 | 成为助产士的先决条件 |
+| 助产士执照 | 厚生劳动省 | 必备 | 国家认证；获得RN执照后符合资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. Despite declining birth rates, demand for midwives remains stable and high due to an increase in older maternal age and advances in perinatal care. Steady job openings are expected.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。尽管出生率下降，但由于产妇年龄增长和围产期护理的进步，对助产士的需求依然稳定且旺盛。预计将有稳定的职位空缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,86 @@ A professional specializing in the health management and care of pregnant women,
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $4,000,000~$5,000,000 | Hospital employment, excluding night shift allowance |
-| Mid-level (4–9 years) | $5,200,000~$6,500,000 | Mid-career; increases with experience |
-| 资深（10年以上） | $6,500,000~$8,500,000 | Managerial or highly specialized positions |
+| 初级（0-3年） | $4,000,000~$5,000,000 | 医院就业，不包括夜班津贴 |
+| 中级（4-9年） | $5,200,000~$6,500,000 | 职业生涯中期；随经验增长 |
+| 资深（10年以上） | $6,500,000~$8,500,000 | 管理或高度专业化职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI substitution for tasks is limited; rather, AI-assisted fetal monitoring and data analysis support midwives' judgment and enhance work.
+AI替代任务有限；相反，AI辅助的胎儿监测和数据分析支持助产士的判断并增强工作。
 
-After gaining experience, career paths include midwifery manager, perinatal care specialist, or independent midwife (midwifery clinic). Advanced practice is possible through graduate studies.
+积累经验后，职业路径包括助产士经理、围产期护理专家或独立助产士（助产诊所）。通过研究生学习可实现高级实践。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated analysis of fetal heart rate monitoring
-- Basic postnatal questioning
-- Partial automation of medical records
+- 胎心率监测自动分析
+- 产后基础问询
+- 病历部分自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Childbirth risk prediction
-- Data analysis for breastfeeding support
-- Postpartum depression screening
+- 分娩风险预测
+- 母乳喂养支持的数据分析
+- 产后抑郁筛查
 
-**人类护城河:**
+**人类护城河：**
 
-- Delivery assistance skills
-- Emotional care
-- Building trust with mothers
-- Emergency decision-making
+- 配送协助技能
+- 情感关怀
+- 与母亲建立信任
+- 应急决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation skills for AI medical devices
-- Data literacy
-- Advanced clinical judgment
-- Communication ability
+- AI医疗设备操作技能
+- 数据素养
+- 高级临床判断
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Perinatal care
-- Breastfeeding support
-- Postpartum care
-- Midwifery practice
+- 围产期护理
+- 母乳喂养支持
+- 产后护理
+- 助产实践
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Common work status for midwives in Japanese medical institutions; requires a university degree or 10+ years of professional experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Nursing Care Field)) | Midwives are not in the nursing care field, but as nurses they are excluded from Specified Skilled Worker. However, midwifery is not allowed under Specified Skilled Worker (i) in nursing care. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who can take responsibility for lives
-- Those with high stress tolerance who can handle night shifts
-- Those strongly interested in women's physical and mental care
+- 能够承担责任的人
+- 适合高压力承受能力且能值夜班的人
+- 对女性身心健康护理有浓厚兴趣的人
 
 **谁不适合**
-- Those who want to avoid irregular work hours
-- Those weak to strong mental pressure
+- 希望避免不规律工作时间的人
+- 承受从弱到强心理压力者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a midwife?**
-答：It varies by experience and workplace, but around 4-5 million JPY in the first year, and 6.5-8.5 million JPY for veterans with over 10 years. Night shift allowances can increase it further.
+**问：助产士的年收入是多少？**
+答：视经验和工作场所而定，第一年约为400-500万日元，拥有10年以上经验的老手可达650-850万日元。夜班津贴可进一步提高收入。
 
-**问：How can a foreigner work as a midwife in Japan?**
-答：A Japanese nursing license and midwifery license are required. Foreign qualifications do not allow direct work; Japanese proficiency (around N1) and passing the national exam are mandatory. A Engineer/Specialist in Humanities/International Services visa is also needed, and the difficulty is high.
+**问：外国人如何在日本从事助产士工作？**
+答：需要日本护士执照和助产士执照。外国资格不允许直接执业；需要日语能力（约N1）并通过国家考试。还需要人文/国际服务工程师/专家签证，难度较高。
 
-**问：How can a midwife advance their career?**
+**问：助产士如何提升职业发展？**
 答：Paths include becoming a midwifery manager in hospitals, perinatal center director, or pursuing graduate studies to become an advanced practice midwife, certified midwife, or independent midwife.
 
 
@@ -142,12 +136,12 @@ After gaining experience, career paths include midwifery manager, perinatal care
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/midwife/JP)**

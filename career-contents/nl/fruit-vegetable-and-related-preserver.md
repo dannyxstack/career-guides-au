@@ -4,8 +4,6 @@
 
 Responsible for cleaning, sorting, pickling, canning, and other processing operations of fruits, vegetables, and other ingredients, ensuring food safety and quality, playing a basic role in the Dutch food processing industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cleaning, sorting, pickling, canning, and other processing opera
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fruit and vegetable and food pickling workers face high automation risk. As the Dutch food processing industry has widely adopted machine vision and robotics for sorting, cleaning, and canning, the number of positions will continue to decrease, but maintenance and quality control positions may remain.
-
 Practitioners can advance from operator to production line leader or quality inspector, and transition to food technology or factory management roles by gaining experience. Taking food processing courses can improve competitiveness.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Practitioners can advance from operator to production line leader or quality ins
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable for high-skilled migration, but has education and salary requirements; this occupation's typical salary level does not meet the threshold, making it difficult to apply. |
-| Subclass EU Blue Card (EU Blue Card) | Requires high education and high salary; this occupation generally does not qualify |
-| Subclass Orientation Year (Zo (Orientation Year) | Suitable for international graduates in the Netherlands seeking work, but this occupation is not a high-skilled role and may not be easily eligible for this visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +137,12 @@ A: This occupation is affected by automation, but demand for handmade goods and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-vegetable-and-related-preserver/NL)**

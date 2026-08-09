@@ -52,8 +52,6 @@ Sculptors in New Zealand create three-dimensional artworks using materials such 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on sculptors is mixed: 3D modeling and digital rendering replace some sketching and design work, but physical material shaping and artistic originality still rely on humans; entry-level positions have slightly shrunk due to digital barriers.
-
 Sculptors usually start as assistants or studio technicians, build a portfolio, then take on independent commissions or participate in exhibitions. Career progression includes becoming a senior sculptor, art director, or opening a personal studio; some move into art education or public art project management. New Zealand arts funds or government programs offer some funding opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Sculptors usually start as assistants or studio technicians, build a portfolio, 
 | Subclass SMC (Skilled Migrant Category) | Satisfy the 6-point system, require a recognized employer offer and median wage (currently NZD 29.66/hour) |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, not a direct migration pathway |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, but must meet SMC 6-point requirements, including an accredited employer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sculptor/NZ)**

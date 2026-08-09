@@ -51,8 +51,6 @@ An occupation that controls and monitors assembly equipment for general, product
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Equipment control and monitoring operations are increasingly being conducted via remote monitoring and automation using AI and IoT, and the need for manual monitoring is expected to gradually decrease. However, situations requiring human judgment, such as anomaly response and equipment adjustment, will remain.
-
 Gaining skills can lead to career advancement in equipment maintenance or production management. Multi-skilling is increasing, and programming skills are advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Gaining skills can lead to career advancement in equipment maintenance or produc
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Permitted to work in manufacturing. Requires skills test and Japanese N4 or higher. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires knowledge of mechanical or control engineering. University degree or equivalent experience needed. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Currently limited to construction and other fields. This occupation not covered yet, but expansion possible. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Career changes to equipment maintenance, production management, etc. are poss
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-purpose-industrial-machinery-assembly-equipment-control-monitoring-operator/JP)**

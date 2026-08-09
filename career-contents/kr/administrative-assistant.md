@@ -4,8 +4,6 @@
 
 An occupation that assists with general administrative tasks such as document organization, data entry, and phone reception in an office, responsible for using various office equipment and maintaining the office environment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ An occupation that assists with general administrative tasks such as document or
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation are rapidly replacing repetitive office tasks like data entry, document classification, and schedule management, and employment of simple office assistants is expected to decline significantly.
-
 Mostly start on a contract or part-time basis, and after gaining experience, can transition to regular office positions (accounts, HR, general affairs) or advance by obtaining professional administrative certifications.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Mostly start on a contract or part-time basis, and after gaining experience, can
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to issue when skilled office personnel are specifically needed, but not common. |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work as office assistants, easier to get a job than E-7 visa holders. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: You can transition to professional office roles such as accounting, HR, or ge
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-assistant/KR)**

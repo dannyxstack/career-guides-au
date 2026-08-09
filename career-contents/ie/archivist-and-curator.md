@@ -53,8 +53,6 @@ Archivists and curators manage, preserve, and display collections of historical,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
-
 Usually start as an assistant or technician, then advance to senior archivist or chief curator. Some move into digital asset management or cultural heritage consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as an assistant or technician, then advance to senior archivist or
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with annual salary above €39,752, requires relevant qualifications. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on this list, but applies if the position is on the shortage occupation list. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's or master's degree in archival science, museo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivist-and-curator/IE)**

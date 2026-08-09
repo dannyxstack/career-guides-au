@@ -52,8 +52,6 @@ Responsible for product procurement, sales, inventory management, and customer c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
-
 Can promote to department manager, regional manager or procurement supervisor; some become Fachwirt (business specialist) or Betriebswirt (business manager) through Weiterbildung.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can promote to department manager, regional manager or procurement supervisor; s
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers without a job offer to enter Germany to find work, suitable for applicants with professional qualifications or experience. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany for job seeking, requiring proof of financial means, but qualifications must be recognised as equivalent to German standards. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Progress from sales or purchasing assistant to department manager or regional
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/merchant-in-wholesale-and-retail-trade/DE)**

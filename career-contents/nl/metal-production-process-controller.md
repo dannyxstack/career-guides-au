@@ -4,8 +4,6 @@
 
 Metal production process controllers monitor and operate automated control systems for metal smelting, refining, and rolling production processes to ensure safe and efficient production.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Metal production process controllers monitor and operate automated control syste
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI/automation will significantly take over monitoring, data analysis, and routine decision-making tasks in metal production process control, but physical operations, anomaly handling, and process optimization still require human experience, with overall risks and opportunities coexisting.
-
 Career path starts from operator, advancing to senior controller, production supervisor, or process engineer. Ongoing training and digital skills facilitate transition to management or technical expert roles.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career path starts from operator, advancing to senior controller, production sup
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled talent with an annual salary of at least €5,008/month (over 30) or €3,672/month (under 30), requiring sponsorship by a Dutch recognized employer. |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled talents earning at least €5,331/month (2024 standard), requiring tertiary qualification and employment contract. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates with a master's or doctoral degree completed in the Netherlands can apply for a one-year job-seeking visa with no salary threshold to find employment. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: The Dutch metal industry is stable, but overall growth is limited. Mastering 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-production-process-controller/NL)**

@@ -53,8 +53,6 @@ Using soft materials such as leather and synthetic materials, handcrafted or mec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on leather goods makers is mixed: automation will replace repetitive tasks like pattern design and material cutting, but core human values such as personalized customization, handcrafted craftsmanship, and creative design will be amplified.
-
 Starting as an apprentice or novice craftsman, you can gain experience and be promoted to senior craftsman, workshop supervisor, or to establish your own studio. It can also be turned to luxury goods restoration or product development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Starting as an apprentice or novice craftsman, you can gain experience and be pr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Profession Artistique et Culturelle) | For artists or craftsmen; requires proof of work or projects; valid for 4 years, renewable. |
-| Subclass Salarié (Salarié (employee work permit)) | Requires employer sponsorship and work contract. Usually apply for temporary work permit first. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions; annual salary must reach 1.5 times the threshold (around €53,000) |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typically, a CAP or Bac Pro leather goods diploma is required, and apprentice
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-goods-and-soft-materials-maker-excluding-clothing/FR)**

@@ -1,10 +1,8 @@
-# Metal Engraving/Surface Treatment Specialist 职业分析 · 日本
+# 金属雕刻/表面处理专家（Metal Engraving/Surface Treatment Specialist）职业分析 · 日本
 
-**职业代码: 527 (JSCO)**
+**职业代码：527 (JSCO)**
 
-Professional who applies decorative engraving to metal parts/products or performs surface treatments such as plating/painting. Plays a key role in the final stage of manufacturing, enhancing appearance and functionality.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专业从事金属零件/产品的装饰雕刻或进行电镀/涂装等表面处理的专业人员。在制造最后阶段发挥关键作用，增强外观和功能性。
 
 
 ---
@@ -13,8 +11,8 @@ Professional who applies decorative engraving to metal parts/products or perform
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 中学 | 3年 | $0~$300,000（For public high schools） |
-| Vocational training school (Polytechnic Center) | 1 to 2 years | $0~$500,000（Low cost for public facilities; private schools charge fees） |
+| 中学 | 3年 | $0~$300,000（面向公立高中） |
+| 职业培训学校（理工学院中心） | 1至2年 | $0~$500,000（公立机构费用低；私立学校收费） |
 
 ---
 
@@ -22,19 +20,19 @@ Professional who applies decorative engraving to metal parts/products or perform
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metal Plating Skill Certification (Grade 1/2) | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Association) | 可选 | National qualification for plating work. Requires practical experience or training. |
-| Painting Skill Certification (Grade 1/2) | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Association) | 可选 | National qualification in painting. Career advancement upon acquisition. |
-| Engraving Skill Certification (Metal Engraving) | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Association) | 可选 | Very rare qualification. Proof of advanced craftsmanship. |
-| Forklift Operation Skills Training Completion | Prefectural Labor Bureau registered training organization | 可选 | Useful for material transport within factories. |
+| 金属镀层技能认证（1级/2级） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 电镀工种国家资格，需实践经验或培训。 |
+| 油漆技能认证（1级/2级） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 国家油漆资质。获得后可晋升。 |
+| 雕刻技能认证（金属雕刻） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 非常罕见的资质。需要证明高级工艺技能。 |
+| 叉车操作技能培训结业 | 县劳动局注册培训机构 | 可选 | 适用于工厂内的物料运输。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 28,000. With automation advancing in manufacturing, demand for high-quality manual surface treatment is limited. Decorative engraving depends on skilled artisans, but successor shortages are severe. Demand for electronic component plating remains stable.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 28,000。随着制造业自动化推进，对高质量手工表面处理的需求有限。装饰雕刻依赖熟练工匠，但接班人短缺严重。电子元件电镀需求保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ Professional who applies decorative engraving to metal parts/products or perform
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $2,500,000~$3,500,000 | Annual salary. Mostly working at small-to-medium factory with low bonuses. |
-| Mid-career (5–10 years) | $3,500,000~$4,800,000 | Manager class. Raises available upon passing skill certification exams. |
-| Experienced (15+ years). | $4,500,000~$6,000,000 | Site leader or foreman. Even higher positions exist at major parts manufacturers. |
+| 初级（0–3年） | $2,500,000~$3,500,000 | 年薪。主要在中小型工厂工作，奖金较少。 |
+| 中期职业（5-10年） | $3,500,000~$4,800,000 | 管理级别。通过技能认证考试后可加薪。 |
+| 经验丰富（15年以上）。 | $4,500,000~$6,000,000 | 现场领导或工头。大型零部件制造商甚至还有更高的职位。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Simple painting and plating processes will likely be automated with AI and robots. In mass production lines, robots are already mainstream. On the other hand, engraving of luxury items and special surface treatment require craftsmen's skills and are difficult to fully replace with AI, but these fields are shrinking.
+简单的喷漆和电镀工艺可能被AI和机器人自动化。在量产线上，机器人已成为主流。然而，奢侈品的雕刻和特殊表面处理需要工匠技艺，难以被AI完全替代，但这些领域正在萎缩。
 
-Entry through factory apprenticeship or vocational training. Obtain skill certifications (metal plating/painting) and advance to team leader. Self-employment is possible but workload is declining. Career change to other industries is difficult.
+通过工厂学徒或职业培训入行。获取技能认证（金属电镀/喷漆）并晋升为团队负责人。可自主创业但工作量下降。转行困难。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Mass-produced painting/plating work
-- Simple deburring/polishing
-- Processing of standard engraving patterns
+- 大规模涂装/电镀工作
+- 简单去毛刺/抛光
+- 标准雕刻图案处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Design engraving using CAD/CAM
-- Quality inspection of surface treatment using sensors and AI
-- Teaching and programming of robot arms
+- 使用CAD/CAM进行设计雕刻
+- 使用传感器和AI进行表面处理的质量检测
+- 机器人手臂的教学与编程
 
-**人类护城河:**
+**人类护城河：**
 
-- High aesthetic sense and manual skills
-- Ability to handle non-standard items
-- Know-how based on years of experience
+- 高审美能力和手工技能
+- 处理非标准物品的能力
+- 基于多年经验的专业知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CAD/CAM operation
-- Robot programming
-- Chemical knowledge of surface treatment
-- Quality Control & Inspection Skills
+- CAD/CAM操作
+- 机器人编程
+- 表面处理的化学知识
+- 质量控制与检验技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automotive parts plating
-- Semiconductor manufacturing equipment surface treatment
-- Mold engraving
-- Vacuum deposition/sputtering
+- 汽车零件电镀
+- 半导体制造设备表面处理
+- 模具雕刻
+- 真空沉积/溅射
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and specialized knowledge. Typically hired as surface treatment engineers or manufacturing engineers. Not suitable for roles mainly involving simple tasks. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Metal molding, Industrial machinery, Electrical/electronic information-related manufacturing)) | Added to target fields in 2023. Allows work with certain skills and Japanese language ability. However, due to the specialized nature of surface treatment, mainly for plating/coating operators. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Metal molding, Industrial machinery, Electrical/electronic information-related manufacturing)) | Requires higher skills than Type (i). Family accompaniment and long-term stay possible. Possible if skilled expertise is recognized. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who can concentrate on detailed manual work.
-- Those interested in traditional manufacturing techniques.
-- Those who also want to acquire chemical knowledge.
+- 能专注于精细手工工作的人。
+- 对传统制造技术感兴趣的人。
+- 希望同时学习化学知识的人
 
 **谁不适合**
-- Those not good at doing the same task for long hours.
-- Those uncomfortable handling chemical substances.
+- 不擅长长时间做同一件事的人。
+- 那些不习惯处理化学物质的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of workers in metal engraving and surface treatment?**
-答：The average annual income is about 3.6 million yen. It varies depending on experience and skills; at major manufacturers, it can exceed 4 million yen, but at small and medium enterprises, it is often in the low 3 million yen range.
+**问：金属雕刻和表面处理工人的年均收入是多少？**
+答：平均年收入约为360万日元。因经验和技能而异；在大型制造商中可能超过400万日元，但在中小企业中通常在300万日元左右。
 
-**问：What visa is required for foreigners to work in this occupation in Japan?**
-答：Mainly, 'Specified Skilled Worker (i) (Manufacturing sector)' applies. However, with advanced skills or knowledge, 'Engineer/Specialist in Humanities/International Services' may also be possible. Japanese Language Proficiency Test N4 or higher is generally required.
+**问：外国人在日本从事该职业需要什么签证？**
+答：主要适用“特定技能工人(i)（制造业部门）”。但具备高级技能或知识时，也可能申请“工程师/人文/国际服务专家”。通常需日语能力测试N4或以上。
 
-**问：Is it difficult to change careers to this occupation without experience?**
-答：Even without experience, you can start as a factory trainee. Learning basics at a vocational training school increases chances of being hired. However, decorative engraving requires years of training, so if you have no particular preference, gaining experience in general surface treatment is more realistic.
+**问：没有经验转行到该职业困难吗？**
+答：即使没有经验，也可以从工厂实习生开始。在职业培训学校学习基础知识可以增加被雇佣的机会。然而，装饰雕刻需要多年的培训，因此如果没有特别偏好，在一般表面处理领域积累经验更为现实。
 
 
 ---
@@ -147,12 +137,12 @@ Entry through factory apprenticeship or vocational training. Obtain skill certif
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-engraving-surface-treatment-specialist/JP)**

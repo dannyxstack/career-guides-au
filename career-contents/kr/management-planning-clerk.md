@@ -4,8 +4,6 @@
 
 A professional office worker who establishes mid- to long-term management strategies and plans/coordinates business plans. Supports management decision-making based on market analysis and financial forecasting.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional office worker who establishes mid- to long-term management strate
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can replace data processing tasks like market analysis, predictive modeling, and report drafting, but strategic planning and decision-making require human judgment. In business planning roles, AI will be used as a tool, automating some tasks but not fully replacing the role.
-
 Typical career path: clerical → management planning officer → team leader/manager → executive (head of strategic planning). MBA or consulting experience is advantageous, with active career development in large corporations and financial sectors.
 
 **Tasks most exposed to AI:**
@@ -92,15 +88,9 @@ Typical career path: clerical → management planning officer → team leader/ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Issuable when meeting professional career (5+ years) and degree requirements; management planning falls under E-7-1 (Professional Personnel) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: Possible but the expertise requirements are strict. The E-7 visa requires a b
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-planning-clerk/KR)**

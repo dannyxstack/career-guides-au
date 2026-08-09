@@ -53,8 +53,6 @@ Doctors diagnose and treat diseases and injuries, including history taking, phys
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on doctors is mixed: automation reduces some documentation and diagnostic tasks, but AI also enhances doctors' capabilities; core skills like clinical judgment and empathetic communication remain human-led.
-
 After completing specialist training, can become a specialist doctor, and further advance to attending physician, department head, or medical director. Can also engage in academic research or open a private practice.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After completing specialist training, can become a specialist doctor, and furthe
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | After qualification assessment, this pathway is available with no salary threshold, but requires a work contract. |
 | Subclass Recognition of Quali (Recognition of Qualifications (Anerkennung)) | Foreign doctors need their qualifications certified and may be required to take bridging courses or exams. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Application to the state health department required, certification process ta
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physicians-without-specialization/DE)**

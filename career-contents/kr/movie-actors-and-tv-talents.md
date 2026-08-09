@@ -4,8 +4,6 @@
 
 A professional artist who creates characters by taking on roles in films, dramas, and plays based on acting skills, conveying emotion to the audience.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional artist who creates characters by taking on roles in films, dramas
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can generate virtual actors or backgrounds, but human actors' emotional acting and improvisation are not easily replaced, and AI is likely to expand content production opportunities instead.
-
 After debut, actors grow from bit parts and supporting roles to leading roles, with pay rising significantly based on experience, but long-term stability is low.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After debut, actors grow from bit parts and supporting roles to leading roles, w
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-6 (Arts and Entertainment Visa) | Foreign actors need to work domestically; requires a sponsoring organization and proof of expertise |
-| Subclass F-2 (Residence Visa) | Allows long-term stay and free activity; can convert to points-based system |
-| Subclass F-5 (Permanent Residence Visa) | Obtainable after long-term stay; no activity restrictions |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: It's not mandatory, and many debut with just a high school diploma. However, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/movie-actors-and-tv-talents/KR)**

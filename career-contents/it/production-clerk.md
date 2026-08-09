@@ -4,8 +4,6 @@
 
 A production clerk coordinates production schedules, monitors inventory, processes orders, and maintains production records, playing a key support role in manufacturing and logistics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A production clerk coordinates production schedules, monitors inventory, process
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The production clerk role presents a mixed outlook: core data entry and document processing tasks will be accelerated by AI replacement, but complex supply chain coordination and exception handling capabilities are amplified; entry-level competition intensifies while senior role value increases.
-
 Junior production clerk can advance to senior clerk or production supervisor; through experience and supply chain management courses, can transition to logistics manager or production planner.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior production clerk can advance to senior clerk or production supervisor; th
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, annual quota is limited and requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled migrants; salary threshold about €28,000 per year; production clerks usually do not meet this. |
-| Subclass Free Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Production clerks are not high-skilled occupations and are unlikely to qualif
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-clerk/IT)**

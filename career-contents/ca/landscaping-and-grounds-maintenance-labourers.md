@@ -53,8 +53,6 @@ Canadian landscape workers maintain and build outdoor spaces like lawns, gardens
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gardeners less affected by AI; AI mainly boosts design planning and client communication. Physical labor still hard to replace, but tools can improve efficiency.
-
 Landscapers can progress from entry-level workers to landscape technicians, project managers, or self-employment. With experience, they can expand their career by obtaining certifications (e.g., landscape designer).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Landscapers can progress from entry-level workers to landscape technicians, proj
 | Subclass TFWP (Temporary Foreign Worker Program) | Employers can apply for a Labour Market Impact Assessment (LMIA) to hire foreign landscapers; after one year of work, they can apply for immigration |
 | Subclass EE (Express Entry) | Those with management experience may apply through Federal Skilled Migration or Experience Class, but general gardeners typically do not meet direct eligibility criteria. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Employment prospects are stable, growing with urban construction and resident
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscaping-and-grounds-maintenance-labourers/CA)**

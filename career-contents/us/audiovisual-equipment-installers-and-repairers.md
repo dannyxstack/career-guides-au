@@ -53,8 +53,6 @@ Install, repair, and commission audio, TV, camera, and other electronic entertai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Audiovisual equipment installers and repairers face compression from AI automating some diagnostics and troubleshooting tasks, but AI enhances field troubleshooting, remote collaboration, and system integration design. Demand for diverse skills; entry-level positions are squeezed by smart tools, but advanced service and customized installation retain human advantages.
-
 Start as a junior installation technician, advance to senior maintenance specialist or team supervisor; some transition to system integration or audio-visual engineer, requiring experience and manufacturer certifications.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior installation technician, advance to senior maintenance special
 | Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree, but this occupation typically does not meet professional position requirements, making employer sponsorship difficult. |
 | Subclass Green Card (PERM) (EB-3 Skilled Worker) | must demonstrate labor shortage, but this occupation is not high-skilled, making PERM applications challenging. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Very difficult; typically does not meet H-1B professional position requiremen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiovisual-equipment-installers-and-repairers/US)**

@@ -51,8 +51,6 @@ Operate dredges to remove sediment like sand and gravel from waterways, maintain
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dredge operator roles face high automation risk; AI and unmanned vessels can perform dredging tasks accurately around the clock, significantly reducing labor demand and entry-level positions.
-
 Start as a junior operator, gain experience, then advance to senior operator, team leader, or project manager. Some may transition to engineering or equipment management roles.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Start as a junior operator, gain experience, then advance to senior operator, te
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: Common path is H-1B (requires related major) or EB-3 skilled worker green car
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dredge-operators/US)**

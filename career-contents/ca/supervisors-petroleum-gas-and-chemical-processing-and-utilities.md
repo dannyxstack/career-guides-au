@@ -53,8 +53,6 @@ Oversees operations of oil, gas, chemical, and utility facilities, coordinates w
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on Oil, Gas, Chemical Processing & Utilities Supervisor roles is mixed: some routine monitoring and reporting tasks will be automated, but complex decision-making, emergency response, and people management still require humans. Job prospects depend on upskilling.
-
 Usually promoted from technician or operator to supervisor, and further to operations manager or facility manager, requiring management experience and safety certifications.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually promoted from technician or operator to supervisor, and further to opera
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in Alberta, Saskatchewan, etc. prefer energy industry supervisors. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa requires proof that no local workers can be hired. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Career progression typically from operator or technician to supervisor, then 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-petroleum-gas-and-chemical-processing-and-utilities/CA)**

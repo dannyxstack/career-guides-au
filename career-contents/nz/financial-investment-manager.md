@@ -54,8 +54,6 @@ Finance Investment Manager falls under the ANZSCO classification (139912) shared
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Promoted from analyst to investment manager, then to investment director or chief investment officer. Need continuous learning of CFA, etc.; experienced can expand to private equity or venture capital.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Promoted from analyst to investment manager, then to investment director or chie
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, can transition to permanent residency after meeting salary requirements |
 | Subclass Green List T2 (Work to Residence Visa) | Can apply for residency after 2 years of work (uncommon, T1 is more common) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: CFA is most highly regarded, while FRM is useful for risk control roles. FMA 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-investment-manager/NZ)**

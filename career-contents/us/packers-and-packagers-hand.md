@@ -53,8 +53,6 @@ Manual packing and packaging of various products and materials, commonly in ware
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Manual packers are severely threatened by AI and automation; entry-level positions will shrink significantly, low-skill repetitive work faces high replacement risk.
-
 Typically start as temporary or seasonal workers, can advance to packaging line supervisor or warehouse coordinator; a few move to forklift operation or quality management through skill upgrading.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as temporary or seasonal workers, can advance to packaging line 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Limited. Can advance to packaging supervisor, warehouse coordinator, or becom
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packers-and-packagers-hand/US)**

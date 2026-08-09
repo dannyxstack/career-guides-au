@@ -53,8 +53,6 @@ A building superintendent is responsible for maintaining and managing residentia
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building administrators face medium automation risk; AI can take over monitoring, scheduling, reporting, etc., but physical maintenance and interpersonal communication still require humans; entry-level roles are slightly narrowing due to technological substitution.
-
 Limited career progression path; may advance to property manager or facilities management supervisor. Some practitioners obtain qualifications such as electrician or plumber to transition to skilled trade roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Limited career progression path; may advance to property manager or facilities m
 | Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires employer sponsorship, annual salary threshold approximately 30,000 euros |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable for this occupation as it is not on the shortage list |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually no formal qualifications are required; safety training certificates a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-caretaker/IE)**

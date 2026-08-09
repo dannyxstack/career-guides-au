@@ -1,10 +1,8 @@
-# National Defense Academy/National Defense Medical College Student 职业分析 · 日本
+# 国防大学/国防医学院学生（National Defense Academy/National Defense Medical College Student）职业分析 · 日本
 
-**职业代码: 434 (JSCO)**
+**职业代码：434 (JSCO)**
 
-Students studying at the National Defense Academy or the National Defense Medical College, which are officer training institutions of the Ministry of Defense. Upon graduation, they are commissioned as officers.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在防卫省下属的军官培训机构——防卫大学或防卫医科大学学习的学生。毕业后被任命为军官。
 
 
 ---
@@ -13,8 +11,8 @@ Students studying at the National Defense Academy or the National Defense Medica
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Defense Academy (Undergraduate) | 4年 | $0~$0（Tuition-free. Salary and housing provided. Only entrance exam fee required at enrollment.） |
-| National Defense Medical College (Medical School) | 6年 | $0~$0（Tuition-free. Salary and housing provided. After graduation, serve as medical officers.） |
+| 国防大学（本科） | 4年 | $0~$0（免学费。提供薪水和住房。入学时仅需缴纳入学考试费。） |
+| 国防医科大学（医学院） | 6年 | $0~$0（免学费。提供薪资和住宿。毕业后担任医疗官员。） |
 
 ---
 
@@ -22,17 +20,17 @@ Students studying at the National Defense Academy or the National Defense Medica
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Defense Academy Graduation | National Defense Academy | 必备 | Commissioned as an officer upon graduation |
-| National Defense Medical College Graduation | National Defense Medical College | 必备 | Serve as a medical officer after obtaining a medical license |
+| 国防大学毕业 | 国防学院 | 必备 | 毕业后被任命为军官 |
+| 国防医学院毕业 | 国防医科大学 | 必备 | 获得行医执照后担任医疗官员 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 2,300. Due to the declining birthrate and changes in the security environment, demand for defense personnel is stable. While recruitment quotas are expected to be maintained, competition rates remain high.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 2,300。由于少子化和安全环境变化，国防人员需求稳定。虽然预计维持招募配额，但竞争率仍然较高。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,87 @@ Students studying at the National Defense Academy or the National Defense Medica
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Student (During Enrollment) | $2,000,000~$2,500,000 | National Defense Academy students receive salary and bonuses as officer candidates. Annual income approx. ¥2-2.5 million. |
-| Junior Officer (2nd Lieutenant upon graduation) | $4,300,000~$5,000,000 | After commissioning, based on Self-Defense Forces pay scale. |
-| Mid-level Officer (Lieutenant Colonel class) | $8,000,000~$10,000,000 | Approximately 15-20 years of service. |
+| 学生（在读期间） | $2,000,000~$2,500,000 | 防卫大学学生作为军官候补生领取薪水和奖金。年收入约200-250万日元。 |
+| 初级军官（毕业后授少尉） | $4,300,000~$5,000,000 | 入职后，根据自卫队薪资标准。 |
+| 中级军官（中校级别） | $8,000,000~$10,000,000 | 约15-20年服务期。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI/automation impact is limited. Humans handle command decisions, leadership, physical combat and training, with AI playing a supporting role.
+AI/自动化影响有限。人类负责指挥决策、领导力、实际战斗和训练，AI起辅助作用。
 
-After completing four years of study, students are commissioned as officer candidates for the Ground, Maritime, and Air Self-Defense Forces. A career path is established, progressing through platoon leader, staff officer, and commander ranks.
+完成四年学业后，学生被任命为陆海空自卫队军官候补。职业路径明确，从排长、参谋到指挥官。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple data analysis
-- Pattern recognition-based surveillance
-- Routine report writing
+- 简单数据分析
+- 基于模式识别的监控
+- 常规报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Tactical simulation
-- Logistics management
-- Intelligence gathering and analysis
+- 战术模拟
+- 物流管理
+- 情报收集与分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Leadership
-- Crisis judgment
-- Interpersonal negotiation
-- Physical activity
+- 领导层
+- 危机判断
+- 人际谈判
+- 体力活动
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and data analysis
-- Foreign languages
-- Strategic thinking
-- Mental toughness
+- AI与数据分析
+- 外语
+- 战略思维
+- 心理韧性
 
-**主要增长方向:**
+**主要增长方向：**
 
-- National Defense
-- Security
-- Leadership Development
-- Technical Officer
+- 国防
+- 安全
+- 领导力发展
+- 技术官员
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 該当なし (Foreign enrollment is generally not allowed) | Japanese nationality is a requirement for enrollment; foreigners are ineligible. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Disciplined people
-- People with a strong sense of service to the nation
-- People confident in their physical and mental strength
+- 自律的人
+- 有强烈服务国家意识的人
+- 对自己身心有信心的人
 
 **谁不适合**
-- People who value freedom in their personal life
-- People who want to live abroad for extended periods
+- 重视个人生活自由的人
+- 希望长期在国外生活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Can students receive a salary?**
-答：Yes. Students of the National Defense Academy and National Defense Medical College are treated as officer candidates and receive a monthly salary of approximately ¥150,000-200,000 plus bonuses.
+**问：学生能否获得薪酬？**
+答：是的。国防学院和国防医学院的学生被视为军官候选人，每月工资约15-20万日元，外加奖金。
 
-**问：Is it possible for foreigners to enroll?**
-答：Japanese nationality is required, so enrollment by foreigners is generally not permitted. Permanent residents and special permanent residents are also not eligible.
+**问：外国人可以报名吗？**
+答：需要日本国籍，因此通常不允许外国人入学。永久居民和特别永久居民也不符合条件。
 
-**问：What is the career path after graduation?**
-答：Upon graduation, they are commissioned as officers in the Self-Defense Forces and can advance through ranks to become commanders, staff officers, or technical officers.
+**问：毕业后职业路径是怎样的？**
+答：毕业后成为自卫队军官，可晋升至指挥官、参谋或技术军官。
 
 
 ---
@@ -144,12 +136,12 @@ After completing four years of study, students are commissioned as officer candi
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/national-defense-academy-national-defense-medical-college-student/JP)**

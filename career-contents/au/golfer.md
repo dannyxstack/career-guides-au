@@ -53,8 +53,6 @@ Professional golfers earn prize money and sponsorship income by participating in
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on golfers is mixed: data analysis and personalised training tools enhance skill development, but automation may reduce coaching and officiating roles, with high income relying on human-machine collaboration.
-
 Advances from amateur to professional tournaments, accumulating prize money and rankings to improve sponsorship opportunities; some transition to careers such as coaching, golf course management, or sports business.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Advances from amateur to professional tournaments, accumulating prize money and 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Start from amateur tournaments, pass vocational qualification exams, compete 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/golfer/AU)**

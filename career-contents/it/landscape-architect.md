@@ -52,8 +52,6 @@ Landscape architects in Italy plan and design outdoor spaces, including parks, g
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Career path: From junior designer to project lead, then to director or partner. Alternatively, specialize in ecological restoration or urban planning. The registered architect (Architetto) status can broaden opportunities for cross-disciplinary collaboration.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career path: From junior designer to project lead, then to director or partner. 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for highly skilled non-EU talent, salary threshold approximately €40,000, requiring university degree and work contract. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-quota skilled occupations, but landscape architects are not in the traditional quota; employers must prove inability to recruit locally. |
-| Subclass Autonomous Work Visa (Freelance Visa (Self-employment)) | Suitable for self-employed landscape architects, requiring proof of financial capacity and professional registration. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Must complete a master's degree in architecture or landscape architecture (LM
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-architect/IT)**

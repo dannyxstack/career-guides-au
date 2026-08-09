@@ -54,8 +54,6 @@ Cost estimators are responsible for cost estimation and budget management of con
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core duties of quantity surveyors (cost estimation and budget management) will be greatly enhanced by AI, but entry-level repetitive tasks face automation risk. Overall risk is manageable; proactive learning of AI tools is needed to stay competitive.
-
 After starting as a junior estimator, one can progress to senior estimator, project controls manager, or contract manager; with experience, pursue professional qualifications (e.g., CIQS certification) to advance to director or independent consultant.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After starting as a junior estimator, one can progress to senior estimator, proj
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs, such as Ontario Human Capital Priorities or BC PNP Tech Pilot, can add 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, suitable for applicants with employer sponsorship |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory but strongly recommended. Certification from the Canadian Insti
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-estimator/CA)**

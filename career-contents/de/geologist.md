@@ -55,8 +55,6 @@ Geologists study the Earth's composition, structure, and history, explore minera
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Career progression can range from junior geologist to project lead, chief geologist, or into management roles like exploration manager. Also possible to move into academic research or cross into environmental and engineering consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can range from junior geologist to project lead, chief geolog
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled migration with German-recognized qualifications or vocational credentials, requires employer sponsorship. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find employment; must prove financial means. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must hold a German-recognized geology degree or pass qualification certificat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geologist/DE)**

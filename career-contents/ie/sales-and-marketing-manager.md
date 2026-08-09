@@ -53,8 +53,6 @@ responsible for planning and executing marketing activities, managing sales team
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Sales and Marketing Manager roles face a mixed impact from AI: repetitive tasks (e.g., data reports, routine emails) will be automated, but core duties like strategic decision-making, customer relationship management, and cross-departmental coordination are enhanced by AI, presenting both risks and opportunities.
-
 Typically start as a sales representative or marketing specialist, then advance to regional manager, director, or chief marketing officer. Continuous learning in digital marketing, data analytics, and leadership helps accelerate career progression.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as a sales representative or marketing specialist, then advance 
 | Subclass General Employment P (General Employment Permit) | Applies to positions with an annual salary over 30,000 euros, requiring a labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary over 60,000 euros, offering easy mobility within the EU. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Strong demand, especially in tech, pharma, and financial services, with digit
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-marketing-manager/IE)**

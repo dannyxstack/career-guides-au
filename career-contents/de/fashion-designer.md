@@ -53,8 +53,6 @@ Fashion designers are responsible for conceiving and creating collections of clo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
-
 Junior designers can advance to senior designers, creative directors, or brand managers. Some shift to sustainable fashion consulting, fashion tech, or freelancing. Large companies offer clearer hierarchical advancement, while small studios require versatile skills.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior designers can advance to senior designers, creative directors, or brand m
 | Subclass Skilled Worker (Section 18g AufenthG - Skilled Worker without Recognized Qualification) | Applies to skilled workers without formal qualifications but with substantial occupational experience, requiring at least three years of relevant work experience and employer sponsorship, with no hard salary threshold but must be sufficient for living expenses. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system (e.g., language, age, professional experience, etc.), allows entry to Germany for job seeking or qualification recognition, valid for up to 1 year, suitable for job seekers with a fashion background. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Most common is to complete a Bachelor's degree in fashion design (4 years) or
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-designer/DE)**

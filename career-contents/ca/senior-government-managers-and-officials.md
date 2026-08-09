@@ -52,8 +52,6 @@ Senior officer responsible for leadership, command, and strategic planning in th
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core strategic decisions and personnel leadership of this occupation are hard to replace by AI, but many administrative, intelligence analysis, training management tasks will be significantly automated, with talent demand concentrated among fewer senior roles.
-
 Career progression typically ranges from junior officer to mid-level command, then to senior strategic management. Requires many years of experience and advanced military training, with possible transition to senior civilian positions in the Department of Defence.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically ranges from junior officer to mid-level command, th
 | Subclass EE (Express Entry (Federal Skilled Worker)) | To immigrate through the FSW category, you need a bachelor's or higher degree, language test results, and work experience. |
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) nominate senior management talent, requiring a job offer or relevant background. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Relatively difficult because senior positions in the Canadian military are us
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-government-managers-and-officials/CA)**

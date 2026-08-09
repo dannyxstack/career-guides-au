@@ -50,8 +50,6 @@ A professional who analyzes an organization's business requirements to design an
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate parts of coding and system analysis, but human roles remain crucial for customer needs analysis and architecture design; AI proficiency is expected to become essential.
-
 Career path: Junior Analyst → Systems Analyst → Senior Analyst/PM → IT Consultant/CTO, with project management and business insight being key.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career path: Junior Analyst → Systems Analyst → Senior Analyst/PM → IT Con
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for IT jobs, targeting skilled technicians |
-| Subclass F-2 (Residence) | Point-based; eligible for settlement after long-term stay |
-| Subclass D-10 (Job-seeking) | Used by international graduates for job-seeking after graduation |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Project management skills and business understanding are important.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-systems-designer-and-analyst/KR)**

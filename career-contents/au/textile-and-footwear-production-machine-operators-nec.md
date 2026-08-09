@@ -51,8 +51,6 @@ Operate textile or footwear production machines such as weaving, stitching, cutt
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Textile and footwear production machine operators face significant impact from AI and automation: repetitive tasks are easily replaced by intelligent machines, entry-level jobs are reduced, but maintenance and anomaly handling still depend on humans.
-
 Can progress from operator to production line supervisor or quality inspector, or transition to machine maintenance or production management through training.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Can progress from operator to production line supervisor or quality inspector, o
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer-sponsored temporary visa allows transition to 191 permanent residency after 3 years. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA offer relaxed conditions, such as age concession up to 50 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Affected by automation, but niche products like custom footwear still have de
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-and-footwear-production-machine-operators-nec/AU)**

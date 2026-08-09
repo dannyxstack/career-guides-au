@@ -1,10 +1,8 @@
-# Senior Civil Servant 职业分析 · 韩国
+# 高级公务员（Senior Civil Servant）职业分析 · 韩国
 
-**职业代码: 01112 (KECO)**
+**职业代码：01112 (KECO)**
 
-A high-ranking managerial position responsible for establishing and coordinating policies of ministries or local governments and overseeing organizations, working for the public interest of the entire nation.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+高级管理职位，负责制定和协调部委或地方政府的政策并监督组织，为整个国家的公共利益服务。
 
 
 ---
@@ -13,9 +11,9 @@ A high-ranking managerial position responsible for establishing and coordinating
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year) | 4年 | $4,000,000~$6,000,000（Annual tuition, based on national/public universities） |
-| Preparation for the Civil Service Exam (5th grade open recruitment) | 2~3 年 | $5,000,000~$15,000,000（Private academy and textbook fees, etc.） |
-| Civil service career (lower ranks) | 15~20 years | $0~$0（No cost for promotion process, income generated） |
+| 大学（4年制） | 4年 | $4,000,000~$6,000,000（年学费，基于国立/公立大学） |
+| 公务员考试备考（五等公开招考） | 2~3 年 | $5,000,000~$15,000,000（私立补习班和教材费等） |
+| 公务员职业（低级） | 15~20年 | $0~$0（晋升过程零成本，有收入产生） |
 
 ---
 
@@ -23,18 +21,18 @@ A high-ranking managerial position responsible for establishing and coordinating
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Passing the 5th grade open competitive recruitment exam (Civil Service Exam) | Ministry of Personnel Management | 必备 | General path to becoming a senior civil servant |
-| Appointment to the Senior Civil Service | Ministry of Personnel Management | 必备 | Conditions for appointment to department head level or above |
-| Completion of specialized policy/management training | National Human Resources Development Institute | 可选 | Reflected in promotion evaluations |
+| 通过第5级公开竞争招聘考试（公务员考试） | Ministry of Personnel Management | 必备 | 成为高级公务员的通用路径 |
+| 高级公务员任命 | Ministry of Personnel Management | 必备 | 任命为部门主任级别或更高职位的条件 |
+| 完成专项政策/管理培训 | 韩国人力资源开发院 | 可选 | 反映在晋升评估中 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 4,500. Due to population decline and digital transformation, some tasks are being reduced, but demand for policy and administration remains steady, making this a highly competitive occupation.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 4,500。由于人口减少和数字化转型，一些任务正在减少，但政策与行政的需求保持稳定，使这一职业竞争激烈。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,96 +40,90 @@ A high-ranking managerial position responsible for establishing and coordinating
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years, lower ranks) | $35,000,000~$45,000,000 | Based on 5th grade new appointment, pre-tax |
-| Mid-level (10~15 years, department head level) | $60,000,000~$80,000,000 | General civil servant pay scale |
-| Senior (20+ years, high-ranking official) | $99,999,999 | Director-General to Assistant Minister level |
+| 入门级（0~3年，较低级别） | $35,000,000~$45,000,000 | 基于5级新任命，税前 |
+| 中级（10~15年，部门主管级别） | $60,000,000~$80,000,000 | 普通公务员薪资标准 |
+| 高级（20年以上，高级官员） | $99,999,999 | 局长级至助理部长级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation may replace some routine administrative and data processing tasks, but the policy-making and leadership roles of senior civil servants are difficult to replace with AI, so the workforce size is expected to remain or slightly decrease.
+人工智能和自动化可能会取代一些常规行政和数据处理任务，但高级公务员的政策制定和领导角色难以被人工智能取代，因此劳动力规模预计将保持或略有下降。
 
-After passing the 5th-7th grade civil service exam, one rises to senior positions through internal promotions, with policy expertise in finance, economy, society, etc., and leadership being key.
+通过5-7级公务员考试，内部晋升至高级职位，需具备财政、经济、社会等政策专长及领导力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized report writing
-- Statistical analysis and data collection
-- Automation of legal review
-- Schedule management
+- 标准化报告撰写
+- 统计分析及数据收集
+- 法律审查自动化
+- 时间表管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Policy simulation
-- Risk analysis
-- Analysis of public opinion
-- Optimization of administrative procedures
+- 政策模拟
+- 风险分析
+- 舆情分析
+- 行政流程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Political judgment
-- Ethical decision-making
-- Mediation and negotiation skills
-- Crisis response leadership
-- Public service ethics
+- 政治判断
+- 伦理决策
+- 调解与谈判技巧
+- 危机响应领导力
+- 公共服务道德
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- AI tool utilization skills
-- Advanced policy analysis
-- Understanding Digital Administration
+- 数据素养
+- 人工智能工具运用技能
+- 高级政策分析
+- 理解数字行政
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Policy planning
-- Digital administration
-- International negotiation
-- Organizational management
+- 政策规划
+- 数字管理
+- 国际谈判
+- 组织管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 해당 없음 (Civil service recruitment is reserved for nationals) | High-ranking officials must be ROK nationals |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Persons with outstanding public service values and ethics
-- Persons with policy analysis and coordination skills and long-term vision
-- Persons with strong leadership and communication skills
+- 具有突出公共服务价值观和道德的人
+- 具备政策分析和协调能力及长远眼光的人
+- 具有强大领导力和沟通能力的人
 
 **谁不适合**
-- Persons seeking rapid change and innovation
-- Persons dissatisfied with political neutrality and bureaucratic procedures
+- 寻求快速变革与创新的人
+- 对政治中立性和官僚程序不满的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a high-ranking public official?**
-答：The annual salary of high-ranking officials (Deputy Director-General to Director-General) is approximately 100-150 million KRW (pre-tax), varying by rank and step.
+**问：高级公职人员的平均工资是多少？**
+答：高级官员（副司长至司长）的年薪约为1-1.5亿韩元（税前），视职级和级别而定。
 
-**问：Can a foreigner become a high-ranking public official?**
-答：Due to nationality restrictions in the Public Official Appointment Act, foreigners cannot become high-ranking officials in South Korea.
+**问：外国人能成为高级公务员吗？**
+答：因《公务员任用令》国籍限制，外国人无法成为韩国高级公务员。
 
-**问：What is the typical path to becoming a senior civil servant?**
-答：After passing the Civil Service Examination (Grade 5 open competition), you enter public service and get promoted for 15-20 years, and must be selected for the Senior Civil Service.
+**问：成为高级公务员的典型路径是什么？**
+答：通过公务员考试（5级公开竞争）后进入公共服务部门，晋升15-20年，并须被选拔为高级公务员。
 
 
 ---
@@ -149,12 +141,12 @@ After passing the 5th-7th grade civil service exam, one rises to senior position
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/senior-civil-servant/KR)**

@@ -54,8 +54,6 @@ Responsible for overseeing installation and maintenance teams in the fields of p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Can progress from skilled tradesperson to project supervisor, then to technical manager or self-employed business owner. Continuing education such as energy consultant or technician qualifications can broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from skilled tradesperson to project supervisor, then to technical 
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to qualified dual-system trainees, requires German-recognized vocational qualifications |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based visa for job seekers, implemented in 2024 |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to technical manager, self-employed business owner, or become an 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-in-plumbing-sanitary-heating-and-air-conditioning/DE)**

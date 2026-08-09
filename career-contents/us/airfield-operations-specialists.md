@@ -56,8 +56,6 @@ Responsible for ensuring safe takeoff and landing of commercial and military air
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI automates some routine monitoring tasks for airport operations specialists, but also enhances complex decision-making such as air traffic coordination and emergency response, presenting both risks and opportunities.
-
 Entry-level roles typically start as dispatcher or assistant; with experience, can advance to operations supervisor or airport manager. Holding relevant certifications (e.g., AAAE certification) helps progress to senior management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level roles typically start as dispatcher or assistant; with experience, c
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Minimum requirement: high school diploma, but associate or bachelor's degree 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airfield-operations-specialists/US)**

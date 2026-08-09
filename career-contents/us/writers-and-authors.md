@@ -53,8 +53,6 @@ Writers and authors create and prepare written materials such as scripts, storie
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI's impact on writers and authors is mixed: automation can generate basic content and assist editing, compressing entry-level jobs; but creative writing, deep narrative, and unique style still require humans, and AI tools can enhance research and drafting efficiency.
-
 Junior writers can improve by building a portfolio and specializing in fields like technology or marketing. Intermediate can advance to editor, content manager, or columnist. Senior can become a bestselling author, script consultant, or creative director, some transitioning to media management or teaching.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior writers can improve by building a portfolio and specializing in fields li
 | Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to writers with outstanding achievements in writing (e.g., published books, awards); need to provide evidence |
 | Subclass H-1B (H-1B Specialty Occupation Visa) | Requires employer sponsorship, typically for technical writing or content strategy roles; ordinary writers may find it difficult to meet professional occupation requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Very difficult. General writers lack the specific skills needed for skilled m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/writers-and-authors/US)**

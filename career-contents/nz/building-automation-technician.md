@@ -53,8 +53,6 @@ In the construction industry, install, commission, and maintain building managem
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building automation technicians have mixed prospects: AI will take over programming, configuration, and fault diagnosis, but on-site installation, commissioning, and complex system integration still require human decisions. Market demand grows due to green building and data center expansion.
-
 Progress from junior commissioning assistant to independent technician, then to project supervisor or BMS system engineer. After 3-5 years of experience, can move into energy consulting or IoT system integration with significant salary growth.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from junior commissioning assistant to independent technician, then to 
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, eligible to apply with qualifications and work experience in the occupation, meeting the 6-point system requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, as a transitional work visa, requires a qualifying employer sponsor. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a qualification in electrical engineering or a 2-year NZ c
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-automation-technician/NZ)**

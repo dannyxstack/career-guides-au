@@ -50,8 +50,6 @@ Professionals who install and repair office electronic equipment such as compute
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation play a supporting role in diagnostics and remote assistance, but physical installation and repair require human intervention, so complete replacement is difficult.
-
 Beginners start at small service companies or as freelancers; with experience, they can move to large company partners or electronics repair centers. Starting a business is also common.
 
 **Tasks most exposed to AI:**
@@ -89,17 +87,9 @@ Beginners start at small service companies or as freelancers; with experience, t
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible with specialized skills, employer recommendation required |
-| Subclass E-9 (Non-professional Employment) | Limited; some electronic device repair allowed |
-| Subclass F-2 (Residence) | Step before permanent residence, free job changes allowed |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, no activity restrictions |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: In small businesses, starting a business is common; in large company partners
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-electronic-equipment-installer-repairer/KR)**

@@ -1,10 +1,8 @@
-# Chemical Product Production Machine Operator (excluding Rubber and Plastic) 职业分析 · 韩国
+# 化工品生产机器操作员（不含橡胶和塑料）（Chemical Product Production Machine Operator (excluding Rubber and Plastic)）职业分析 · 韩国
 
-**职业代码: 85231 (KECO)**
+**职业代码：85231 (KECO)**
 
-This occupation involves operating machines that mix, react, separate, and refine chemical raw materials to produce chemical products.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及操作机器混合、反应、分离和精炼化学原料以生产化工产品。
 
 
 ---
@@ -13,9 +11,9 @@ This occupation involves operating machines that mix, react, separate, and refin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduation | 3年 | $0~$0（Compulsory Education） |
-| Department of Chemical Engineering (Junior College) | 2 年 | $6,000,000~$9,000,000（Based on Tuition Fees） |
-| Department of Chemical Engineering (University) | 4年 | $12,000,000~$18,000,000（Based on Tuition Fees） |
+| 高中毕业 | 3年 | $0~$0（义务教育） |
+| 化学工程系（专科） | 2 年 | $6,000,000~$9,000,000（按学费计算） |
+| 化学工程系（大学） | 4年 | $12,000,000~$18,000,000（按学费计算） |
 
 ---
 
@@ -23,18 +21,18 @@ This occupation involves operating machines that mix, react, separate, and refin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hazardous Material Safety Manager | Korea Fire Institute | 必备 | Mandatory in some workplaces |
-| 化学工程师 | Human Resources Development Service of Korea | 可选 | Not required but advantageous |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | 优先考虑 |
+| 危险品安全管理师 | Korea Fire Institute | 必备 | 某些工作场所强制要求 |
+| 化学工程师 | 韩国人力资源开发服务局 | 可选 | 非必需但有利 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 62,000. Employment is expected to remain stagnant or slightly decrease due to restructuring and automation in the domestic petrochemical industry.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 62,000。由于国内石化行业的重组和自动化，就业预计将停滞或略有下降。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,85 @@ This occupation involves operating machines that mix, react, separate, and refin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Annual Salary (Pre-tax) |
-| Mid-level (4-9 years) | $36,000,000~$45,000,000 | pre-tax annual salary |
-| senior (10+ years) | $47,000,000~$60,000,000 | pre-tax annual salary |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 年薪（税前） |
+| 中级（4-9年） | $36,000,000~$45,000,000 | 税前年薪 |
+| 高级（10年以上） | $47,000,000~$60,000,000 | 税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI and automation replace some tasks like process monitoring and data analysis, but equipment failure response and quality control require human judgment, resulting in mixed impacts.
+AI和自动化取代了流程监控和数据分析等部分任务，但设备故障响应和质量控制需要人工判断，因此影响不一。
 
-After joining a large corporation or mid-sized company as a production worker, one can advance to team leader or process manager based on experience.
+加入大公司或中型企业成为生产工人后，可根据经验晋升为组长或流程经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular machine inspection and monitoring
-- Simple repetitive input tasks
-- Basic data recording and reporting
+- 定期机器检查与监控
+- 简单重复的输入任务
+- 基本数据记录与报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Process optimization analysis
-- Use of predictive maintenance systems
-- Safety risk prediction
+- 流程优化分析
+- 预测性维护系统的使用
+- 安全风险预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Abnormal situation judgment and response
-- Equipment repair and maintenance
-- Safety regulation compliance and management
+- 异常情况判断与响应
+- 设备维修与保养
+- 安全法规合规与管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of process automation systems
-- Data analysis and statistics
+- 了解过程自动化系统
+- 数据分析与统计
 - 安全管理认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Petrochemicals
-- Fine chemicals
-- Process automation
-- Safety management
+- 石油化工
+- 精细化工
+- 流程自动化
+- 安全管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (non-professional employment) | available for production workers through Employment Permit System |
-| Subclass E-7 (specific activities) | convertible to skilled worker status (point system) |
-| Subclass F-2 (residence) | eligibility for permanent residency after long-term stay |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- people who are meticulous and follow rules well
-- people with understanding of chemicals and safety awareness
-- people who can adapt to night shifts
+- 细致且遵守规则的人
+- 了解化学品并具有安全意识的人
+- 能适应夜班的人
 
 **谁不适合**
-- people who prefer a flexible work environment
-- people who find repetitive work boring
+- 偏好灵活工作环境者
+- 觉得重复性工作无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a chemical product production machine operator?**
-答：Depending on experience, entry-level is about 28-35 million KRW, mid-level 36-45 million KRW, and senior 47-60 million KRW.
+**问：化工产品生产机器操作员的平均年薪是多少？**
+答：根据经验，入门级约28-35百万韩元，中级36-45百万韩元，高级47-60百万韩元。
 
-**问：Can foreigners obtain a Korean work visa for this occupation?**
-答：Yes. You can enter on an E-9 (Non-professional Employment) visa, then switch to E-7 under the skilled worker points system or apply for an F-2 (Residence) visa.
+**问：外国人能否获得韩国的这个职业的工作签证？**
+答：可以。您可以持E-9（非专业就业）签证入境，然后根据熟练工人积分制度转为E-7签证，或申请F-2（居住）签证。
 
-**问：Is AI likely to replace this job?**
-答：Some process automation is underway, but handling atypical situations and safety management require humans, so complete replacement is difficult.
+**问：AI可能取代这份工作吗？**
+答：一些流程自动化正在进行，但处理异常情况和安全管理仍需人工，因此完全替代是困难的。
 
 
 ---
@@ -146,12 +136,12 @@ After joining a large corporation or mid-sized company as a production worker, o
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chemical-product-production-machine-operator-excluding-rubber-and-plastic/KR)**

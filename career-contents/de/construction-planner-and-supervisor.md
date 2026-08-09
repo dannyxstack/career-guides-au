@@ -53,8 +53,6 @@ Responsible for planning, coordinating, and supervising construction projects to
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate compliance checks and document generation, but on-site coordination and judgment of responsibility remain core human tasks. Jobs overall are magnified, but entry-level positions face competitive pressure.
-
 Can progress to project leader, technical supervisor, or department manager. Further education can lead to becoming a registered architect or senior engineer, or transition to project management or urban planning.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress to project leader, technical supervisor, or department manager. Fur
 | Subclass Skilled Worker (Skilled Immigration Act Visa) | Applicable for applicants with a recognized German qualification or those who have completed qualification recognition, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a job offer to come to Germany to find work, suitable for applicants with a construction background. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Low replacement risk; on-site coordination and decision-making require human 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-planner-and-supervisor/DE)**

@@ -51,8 +51,6 @@ Food and beverage tasters evaluate the quality, flavor, aroma, and texture of fo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Food and beverage taster work has pros and cons: standardized sensory evaluation (e.g., flavor description) is easily replaced by AI and sensors, but new product development, creative pairing, and consumer preference judgment still require human intuition and experience.
-
 Career progression paths are relatively limited, from assistant taster to senior taster or quality control supervisor. Some specialized fields (e.g., coffee, wine, cheese) can advance through professional certification and sensory analysis training. Self-employment or consulting are also options.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression paths are relatively limited, from assistant taster to senior
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Can apply for a skilled migration visa after completing recognized vocational training in Germany |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers without a work contract to enter Germany to look for work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common path: complete 3-year dual vocational training (e.g., food sales profe
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-taster/DE)**

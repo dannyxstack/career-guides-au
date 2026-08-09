@@ -1,10 +1,8 @@
 # 药剂师（Pharmacist）职业分析 · 日本
 
-**职业代码: 124 (JSCO)**
+**职业代码：124 (JSCO)**
 
-Healthcare professionals who dispense medications and provide medication guidance based on physicians' prescriptions, supporting patients' drug therapy as pharmaceutical experts.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+根据医生处方配药并提供用药指导的医疗专业人员，作为药学专家支持患者的药物治疗。
 
 
 ---
@@ -13,7 +11,7 @@ Healthcare professionals who dispense medications and provide medication guidanc
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Pharmacy (6-year program) | 6年 | $3,000,000~$5,000,000（Approx. ¥500,000/year at national/public universities, ¥1–2 million/year at private universities） |
+| 药学（6年制） | 6年 | $3,000,000~$5,000,000（国公立大学约50万日元/年，私立大学约100-200万日元/年） |
 
 ---
 
@@ -21,17 +19,17 @@ Healthcare professionals who dispense medications and provide medication guidanc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Pharmacist Examination | Ministry of Health, Labour and Welfare | 必备 | After completing the 6-year pharmacy program, eligibility to take the exam is granted. Pass rate is about 70%. |
-| Certified Pharmacist | Japan Pharmacist Training Center, etc. | 可选 | Certification in specialized fields (cancer, diabetes, etc.). Effective for career advancement. |
+| 国家药剂师考试 | 厚生劳动省 | 必备 | 完成6年药学课程后，获得参加考试的资格。通过率约70%。 |
+| 认证药剂师 | Japan Pharmacist Training Center等 | 可选 | 专业领域认证（癌症、糖尿病等）。有助于职业发展。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 310,000. Demand for pharmacists is expected to remain steady due to increasing medication needs from an aging population and the expansion of home healthcare. However, regional imbalances and intensified competition are anticipated due to pharmacy saturation and AI automation.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 310,000。由于人口老龄化和家庭医疗的扩展，药物需求增加，药剂师的需求预计保持稳定。然而，由于药房饱和和AI自动化，预计会出现区域失衡和竞争加剧。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,95 +37,89 @@ Healthcare professionals who dispense medications and provide medication guidanc
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,500,000~$4,500,000 | For pharmacy work, basic salary plus dispensing allowance, etc. |
-| Mid level (4–10 years) | $4,500,000~$6,000,000 | Increases with experience as a managing or specialized pharmacist. |
-| Senior level (11+ years) | $5,500,000~$8,000,000 | Pharmacy manager or hospital pharmacy director class; varies by position. |
+| 初级（0–3年） | $3,500,000~$4,500,000 | 药房工作基础工资加配药津贴等 |
+| 中级（4–10年） | $4,500,000~$6,000,000 | 随着作为管理药剂师或专业药剂师的经验而增加。 |
+| 高级（11年以上） | $5,500,000~$8,000,000 | 药房经理或医院药房主任级别；因职位而异。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI complements and streamlines pharmacy work through automation of dispensing (robotic dispensing), medication guidance support, and drug information provision, but tasks requiring human judgment, such as face-to-face medication guidance and prescription review, remain. AI augmentation may expand the scope of work.
+AI通过自动化配药（机器人配药）、用药指导支持和药物信息提供来补充和优化药房工作，但需要人工判断的任务，如面对面用药指导和处方审核仍然存在。AI增强可能扩大工作范围。
 
-After working in hospitals or pharmacies, advancement to pharmacy manager or supervisory pharmacist is possible. Career upgrades through specialized or certified pharmacist qualifications, or career changes to pharmaceutical companies or government agencies are also common.
+在医院或药房工作后，可晋升为药房经理或监管药剂师。通过专业或认证药剂师资格实现职业升级，或转行至制药公司或政府机构也常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Dispensing (automated by robots)
-- Search and provision of drug information
-- Inventory management
-- Simple medication guidance (chatbot)
+- 配药（机器人自动化）
+- 药物信息的检索与提供
+- 库存管理
+- 简单用药指导（聊天机器人）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Prescription audit (combined with AI checks)
-- Medication guidance (personalized via patient data analysis)
-- Side effect prediction
-- Health support (advice from health data analysis)
+- 处方审核（结合AI检查）
+- 用药指导（通过患者数据分析实现个性化）
+- 副作用预测
+- 健康支持（基于健康数据分析的建议）
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication skills
-- Clinical judgment
-- Ethical judgment
-- Community healthcare collaboration
+- 人际沟通技巧
+- 临床判断
+- 道德判断
+- 社区医疗合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data science
-- Communication skills
-- Home healthcare skills
-- Health management and preventive medicine knowledge
+- 数据科学
+- 沟通能力
+- 家庭护理技能
+- 健康管理与预防医学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home medical care
-- Health support pharmacy
-- Specialist pharmacist
-- Healthcare DX
+- 居家医疗
+- 健康支持药房
+- 专科药剂师
+- 医疗数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | A pharmacist license and graduation from a Japanese pharmacy school are required. Since foreign pharmacists must pass the national exam to work in Japan, obtaining a work visa is often difficult. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer meticulous and accurate work
+- 偏好细致准确工作的人
 - 喜欢与人交流的人
-- People interested in medicine and chemistry
+- 对医学和化学感兴趣的人
 
 **谁不适合**
-- People not good at flexible responses
-- People unable to bear heavy responsibility
+- 不善于灵活应变的人
+- 无法承担重大责任的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a pharmacist?**
-答：The average annual income is about 5 to 5.5 million yen. It varies by experience, position, and workplace (pharmacy, hospital, pharmaceutical company). Managing pharmacists and specialist pharmacists can earn over 6 million yen.
+**问：药剂师的年收入是多少？**
+答：平均年收入约500万至550万日元，因经验、职位及工作场所（药房、医院、制药公司）而异。管理药师和专科药师年收入可超过600万日元。
 
-**问：Can foreign pharmacists work in Japan?**
-答：You must pass the Japanese national pharmacist exam and complete a 6-year pharmacy program (or equivalent). There is no mutual recognition with China, South Korea, etc., making the bar practically high. The applicable work visa is 'Engineer/Specialist in Humanities/International Services'.
+**问：外国药剂师能在日本工作吗？**
+答：必须通过日本国家药剂师考试，并完成6年药学课程（或同等学历）。与中国、韩国等没有互认，门槛实际上很高。适用的工作签证是“技术·人文知识·国际业务”签证。
 
-**问：Are there ways to advance your career?**
-答：There are options such as obtaining certification as a specialist pharmacist (cancer, infection control, psychopharmacy, etc.), promotion to hospital pharmacy director or pharmacy manager, and moving to pharmaceutical companies or government. Graduate school is also an option.
+**问：有职业晋升的途径吗？**
+答：可选择获得专科药剂师认证（癌症、感染控制、精神药学等），晋升为医院药房主任或药店经理，或转至制药公司或政府部门。也可选择读研。
 
 
 ---
@@ -145,12 +137,12 @@ After working in hospitals or pharmacies, advancement to pharmacy manager or sup
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pharmacist/JP)**

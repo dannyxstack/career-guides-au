@@ -52,8 +52,6 @@ Other Italian language teachers are primarily responsible for teaching non-Itali
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on language teachers is mixed: basic grammar and vocabulary teaching are easily replaceable, but demand for high-interaction and cultural immersion teaching is increasing, leading to polarization of job value.
-
 Career development can start as a part-time teacher at a private language school, gradually transitioning to a full-time teacher or course director. It is also possible to obtain a tenured position in public schools through examinations. Additionally, one can move into corporate training, educational consulting, or curriculum development.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career development can start as a part-time teacher at a private language school
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a university degree and an annual salary of at least approximately €24,787 (2023); language teachers usually qualify but need employer sponsorship. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens to work in Italy, requiring employer sponsorship and limited quotas. |
-| Subclass Self-employed Work Visa (Autonomous Work Visa) | Applicable to providing language teaching services on a self-employed basis; requires proof of financial capacity and a business plan. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: To teach in public schools, you must hold a teaching qualification issued by 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-language-teacher/IT)**

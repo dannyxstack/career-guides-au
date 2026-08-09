@@ -56,8 +56,6 @@ Metal production workers handle smelting, casting, rolling, and other metal manu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Metal production workers (unskilled) face moderate automation risk; routine tasks are easily replaced by AI, but on-site adaptability and complex processes still require humans.
-
 Can progress from operator to team leader, production supervisor, or through further education to become a master craftsman (Meister) or technician (Techniker). Some may transition to quality management or process optimization roles.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from operator to team leader, production supervisor, or through fur
 | Subclass Recognition Partners (Recognition Partnership (Anerkennungspartnerschaft)) | Allows starting work before fully completing certification, completing qualifications while working. Suitable for those with relevant experience but incomplete qualifications. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job seeker visa based on points, allows staying in Germany for 1 year to look for work. Requires basic German and qualifications, and is competitive. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can be promoted to team leader, production supervisor, or become a Meister to
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-production-worker-without-specialization/DE)**

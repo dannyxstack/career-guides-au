@@ -53,8 +53,6 @@ Perform physical tasks such as cleaning, cutting, packaging, and freezing in fis
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Fish and seafood processing laborers face high automation replacement risk; robots, AI vision, and automated production lines will compress many repetitive manual positions. Entry barriers are low, but total positions will significantly decrease.
-
 This role is entry-level physical labor with limited advancement paths; can transition to quality inspector, machine operator, or supervisor, but usually requires additional training or experience.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ This role is entry-level physical labor with limited advancement paths; can tran
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to find local workers; can apply for a work visa |
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Nova Scotia, Newfoundland) have low-skilled categories but require employer sponsorship |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Difficult. This occupation is low-skilled (TEER 5), does not meet federal ski
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-fish-and-seafood-processing/CA)**

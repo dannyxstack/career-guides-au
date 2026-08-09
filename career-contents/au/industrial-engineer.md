@@ -52,8 +52,6 @@ Industrial engineers optimize production processes, improve efficiency, reduce c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Career progression path: Junior Industrial Engineer → Senior Engineer/Project Manager → Engineering Manager/Operations Director → Corporate Executive. Can transition to lean management, supply chain optimization, or consulting fields, with significant salary increases after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression path: Junior Industrial Engineer → Senior Engineer/Project 
 | Subclass 189 (Skilled Independent Visa) | Permanent residency visa for skilled independent migration, requiring a high EOI score and skills assessment |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress to lean production manager, supply chain director, operations ma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-engineer/AU)**

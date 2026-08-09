@@ -52,8 +52,6 @@ Responsible for mining solid minerals (such as coal, metal ores, industrial mine
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Solid mineral miners face the dual impact of automation and AI: repetitive tasks are being highly replaced, while on-site supervision, emergency response, and equipment maintenance—tasks that rely on human judgment—are being enhanced by AI, resulting in a reduction in overall job positions but increased value.
-
 Candidates can be promoted from junior operator to rig operator, blasting technician, or mining team leader; Through experience accumulation and training (such as CQP), they can transition to positions such as mine supervision and safety coordination. Some personnel are shifting to overseas projects or the development of renewable energy raw materials.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Candidates can be promoted from junior operator to rig operator, blasting techni
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract and obtain approval from the French Labor Bureau |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals, such as engineers or managers |
-| Subclass Carte bleue UE (EU Blue Card) | Occupations in short demand that require annual salary thresholds can be accelerated to the fast-track track |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Usually hold CAP or Bac Pro related diplomas and have passed industry CQP cer
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solid-mineral-extraction-worker/FR)**

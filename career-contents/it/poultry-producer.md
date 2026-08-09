@@ -4,8 +4,6 @@
 
 Poultry producers raise poultry (e.g., chickens, ducks, turkeys) to produce meat, eggs, or other products, managing feed, health, breeding, and daily farm operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Poultry producers raise poultry (e.g., chickens, ducks, turkeys) to produce meat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Poultry producers face mixed AI impact: automation will handle data monitoring and basic health checks, but actual animal care, emergency decisions, and regulatory compliance rely on human judgment; entry-level positions are slightly tighter due to equipment operation requirements.
-
 Beginners can start as farm workers, gain experience and advance to farm supervisor or independent farmer, or develop into professional roles like veterinarian or nutrition advisor.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Beginners can start as farm workers, gain experience and advance to farm supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Seasonal agricultural labor quotas require employer sponsorship, with limited annual slots. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: Primarily through Decreto Flussi quota work visas, requiring employer sponsor
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/poultry-producer/IT)**

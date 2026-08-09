@@ -53,8 +53,6 @@ Operate mechanical equipment to install roof bolts in underground mines to reinf
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physical tasks and simple judgments of mine roof bolters can be replaced by automated equipment, demand is expected to decline, making it a shrinking occupation.
-
 Typically starting as a miner or support assistant, one can advance to support captain or mining supervisor with experience; some transfer to blasting or equipment operation. Requires ongoing training in safety procedures and new support technologies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically starting as a miner or support assistant, one can advance to support c
 | Subclass EB-3 (Employment-Based Green Card (Skilled Workers)) | Possible through PERM labour certification, but must prove shortage of US workers, difficult to obtain approval. |
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal mines may use H-2B temporary work visas, but caps are tight and employers must prove no suitable US workers available. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted from support worker to shift supervisor, mining supervisor, o
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roof-bolters-mining/US)**

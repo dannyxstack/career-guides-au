@@ -4,8 +4,6 @@
 
 Mechanical assemblers assemble mechanical components into complete mechanical products or equipment, such as engines, pumps, and compressors, according to drawings and specifications. Work involves using hand and power tools, measuring instruments, and performing functional tests.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Mechanical assemblers assemble mechanical components into complete mechanical pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical assembly and inspection roles face high risk of automation replacement as AI and robots take over repetitive assembly, inspection, and adjustment tasks drastically; entry-level jobs will shrink significantly, requiring workers to upskill.
-
 Career progression paths include promotion to production line supervisor, quality control officer, or technical specialist. Through continuing education, one can transition into mechanical design or maintenance fields, or become a self-employed contractor.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Career progression paths include promotion to production line supervisor, qualit
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For professionals earning above the threshold (approximately €53,000 in 2024), sponsored by an employer |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, requires university degree and contract with salary above 1.5 times the average wage |
-| Subclass Orientation Year (Orientation Year for Graduates) | Applicable to graduates who have completed a degree in the Netherlands; they can freely seek employment for one year with no salary requirement. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Typically requires MBO 2-4 mechanical engineering diploma, or completion of o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-machinery-assembler/NL)**

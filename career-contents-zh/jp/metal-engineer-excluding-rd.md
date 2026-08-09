@@ -1,8 +1,8 @@
-# Metal Engineer (Excluding R&D) 职业分析 · 日本
+# 金属工程师（不含研发）（Metal Engineer (Excluding R&D)）职业分析 · 日本
 
-**职业代码: 086 (JSCO)**
+**职业代码：086 (JSCO)**
 
-Engineers responsible for manufacturing, processing, and quality control of metal materials. They provide technical guidance and handle issues in processes like casting, forging, heat treatment, and surface treatment.
+负责金属材料制造、加工和质量控制的工程师。提供技术指导并处理铸造、锻造、热处理和表面处理等工艺中的问题。
 
 
 ---
@@ -11,9 +11,9 @@ Engineers responsible for manufacturing, processing, and quality control of meta
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school tuition-free program eligible） |
-| Vocational School (Mechanical/Metal) | 2 年 | $800,000~$1,500,000（Vocational school tuition: 400,000–800,000 yen/year） |
-| University (Faculty of Engineering, Metallurgical Engineering) | 4年 | $2,400,000~$4,000,000（National university: approx. 600,000 yen/year; private: over 1,000,000 yen/year） |
+| 高中文凭 | 3年 | $0~$0（公立高中学费减免项目资格） |
+| 职业学校（机械/金属） | 2 年 | $800,000~$1,500,000（职业学校学费：40万–80万日元/年） |
+| 大学（工程学院，冶金工程） | 4年 | $2,400,000~$4,000,000（国立大学：约600,000日元/年；私立：超过1,000,000日元/年） |
 
 ---
 
@@ -21,18 +21,18 @@ Engineers responsible for manufacturing, processing, and quality control of meta
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Metal Section) | The Institution of Professional Engineers, Japan | 可选 | Demonstrates advanced specialized knowledge, advantageous for promotion |
-| Metallic Materials Engineer (MET) | The Japan Institute of Metals and Materials | 可选 | Certifies knowledge in material evaluation and development |
-| Casting Engineer (Certified by JFS) | Japan Foundry Engineering Society | 可选 | Specialized qualification in casting |
+| 专业工程师（金属方向） | 日本专业工程师协会 | 可选 | 展示高级专业知识，有利于晋升 |
+| 金属材料工程师（MET） | 日本金属与材料学会 | 可选 | 认证材料评估与开发知识 |
+| 铸造工程师（JFS认证） | 日本铸造工程学会 | 可选 | 铸造专业资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 320,000. Japan's manufacturing industry faces a persistent labor shortage, leading to high demand for metal engineers. Skilled expertise is particularly required in the automotive and aerospace sectors, and the shortage of young workers drives strong hiring intent, though automation is beginning to have an impact.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 320,000。日本制造业面临持续的劳动力短缺，导致对金属工程师的高需求。汽车和航空航天领域尤其需要熟练技术，年轻工人短缺推动了强劲的招聘意愿，尽管自动化开始产生影响。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Engineers responsible for manufacturing, processing, and quality control of meta
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,500,000~$4,500,000 | Based on starting salary for new graduates, annual income including bonuses |
-| Mid-career (4–10 years) | $5,000,000~$6,500,000 | Section manager class, overtime pay separate |
-| Veteran (11+ years) | $7,000,000~$9,000,000 | Department manager level or above, including managerial allowance |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 基于新毕业生起薪，包括奖金的年收入 |
+| 中级（4-10年） | $5,000,000~$6,500,000 | 课长级别，加班费另算 |
+| 资深（11年以上） | $7,000,000~$9,000,000 | 部门经理及以上级别，含管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI and robotics-driven automation is advancing in some processes (inspection, simple processing), but skilled intuition and troubleshooting still rely on humans. AI is used as a support in quality control and process design.
+人工智能和机器人驱动的自动化在一些流程（检查、简单加工）中取得进展，但熟练的直觉和故障排除仍依赖人类。人工智能用作质量控制和工艺设计的辅助工具。
 
-After joining, gain hands-on experience on the shop floor, then advance to process management and quality assurance. Career growth is possible through certifications and specialized knowledge. Management roles and technical advisor positions are within reach, but AI and robotics are changing job content.
+入职后，在生产现场获得实践经验，然后晋升至流程管理和质量保证。通过认证和专业知识的积累可实现职业发展。管理职位和技术顾问职位也可触及，但AI和机器人正在改变工作内容。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Welding automation
-- Image judgment for non-destructive inspection
-- Robotization of simple cutting processes
+- 焊接自动化
+- 无损检测图像判断
+- 简单切割工序的机器人化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based defect prediction
-- Optimization of process simulation
-- AR-based work support
+- 基于AI的缺陷预测
+- 过程模拟优化
+- 基于AR的工作支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment and response during abnormalities
-- Establishing processing conditions for new materials
-- Inheritance of craftsmanship
+- 异常时的判断与应对
+- 为新材料制定加工条件
+- 工艺传承
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis and statistics
-- 3D-CAD and simulation
-- Programming (Python, R)
+- 数据分析与统计
+- 3D-CAD与仿真
+- 编程（Python、R）
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automotive parts manufacturing
-- Aerospace materials
-- Metal 3D printing
-- Quality control DX
+- 汽车零部件制造
+- 航空航天材料
+- 金属3D打印
+- 质量控制DX
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university-level knowledge. Can perform core tasks in manufacturing as a metal processing technician. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting/Molding, Industrial Machinery, Electrical/Electronic Information Related Manufacturing)) | Requires passing skills and Japanese language tests. As of 2024, applicable to 3 manufacturing fields, allowing metal processing work. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Casting/Molding, Industrial Machinery, Electrical/Electronic Information Related Manufacturing)) | Requires advanced skills; allows family accompaniment and permanent residency. Target fields to expand from 2024. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like operating machinery
-- People interested in manufacturing
-- People confident in physical strength
+- 喜欢操作机械的人
+- 对制造业感兴趣的人
+- 体力充沛的人
 
 **谁不适合**
-- People who prefer desk work
+- 偏好案头工作的人
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a metal engineer?**
-答：Entry-level: 3.5–4.5 million yen, mid-career: 5–6.5 million yen, veteran: 7–9 million yen. Varies by experience, certifications, and company size.
+**问：金属工程师的年薪是多少？**
+答：入门级：350-450万日元，中级：500-650万日元，资深：700-900万日元。因经验、证书和公司规模而异。
 
-**问：What visa is needed for foreigners to work as metal engineers?**
-答：The Engineer/Specialist in Humanities/International Services visa (university degree or higher) or Specified Skilled Worker (i) (pass the exam) are common. Specified Skilled Worker (ii) is for skilled workers and allows permanent residency.
+**问：外国人从事金属工程师工作需要什么签证？**
+答：常见路径为技术·人文知识·国际业务签证（大学及以上学历）或特定技能1号（通过考试）。特定技能2号面向熟练工人，可申请永住。
 
-**问：Does this occupation have future prospects?**
-答：Demand is stable in core industries like automotive and aerospace, but automation via AI and robots is advancing. Multi-skilling and DX skills are important.
+**问：这个职业有前景吗？**
+答：在汽车和航空航天等核心行业需求稳定，但AI和机器人的自动化正在推进。多技能和数字化技能很重要。
 
 
 ---
@@ -144,12 +137,12 @@ After joining, gain hands-on experience on the shop floor, then advance to proce
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-engineer-excluding-rd/JP)**

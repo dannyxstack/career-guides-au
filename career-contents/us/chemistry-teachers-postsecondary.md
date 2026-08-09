@@ -51,8 +51,6 @@ Teach courses related to chemical substances and changes in physical properties 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on chemistry teachers (higher education) is mixed: automation tools will take over tasks like literature searches and basic lab teaching, but core work such as curriculum design and high-impact research guidance is enhanced due to the need for human judgment and creativity.
-
 Career path: Lecturer → Assistant Professor → Associate Professor → Professor. Requires research output and teaching experience; stability increases after obtaining tenure. Can also transition to industrial R&D or government labs.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path: Lecturer → Assistant Professor → Associate Professor → Profes
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | PERM or NIW required; suitable for teachers with PhD or exceptional ability. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For those with outstanding achievements in research or teaching, no quota limit. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can transition into chemical industry R&D, pharmaceuticals, environmental tes
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemistry-teachers-postsecondary/US)**

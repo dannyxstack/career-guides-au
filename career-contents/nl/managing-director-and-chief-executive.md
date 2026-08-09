@@ -4,8 +4,6 @@
 
 Executive responsible for overall company strategy and operations, setting long-term goals, leading the management team, and ensuring organizational profitability and growth.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Executive responsible for overall company strategy and operations, setting long-
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core strategic and leadership decisions of Managing Director/CEO are difficult to replace by AI, but data-driven analysis and reporting will be greatly enhanced by AI; overall risk is low, with AI more as an empowerment tool.
-
 Typically promoted from department manager or director, accumulating cross-functional experience. Some advance through an MBA or internal executive development programs.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Typically promoted from department manager or director, accumulating cross-funct
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigrants, employer sponsorship is required, with a high salary threshold (2024: approx. €5,331/month). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requiring higher education and a minimum salary of €5,331/month (2024). |
-| Subclass Orientation Year Vis (Orientation Year) | Graduates from Dutch or top global universities may apply, with 1 year to find a job; no salary threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Primarily through the EU Blue Card or highly skilled migrant visa, requiring 
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managing-director-and-chief-executive/NL)**

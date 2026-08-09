@@ -50,8 +50,6 @@ Installation and construction of drywall, plasterboard, and ceiling systems, inc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The physical labor of drywall and ceiling installers is not easily fully automated, but tasks like measuring, material management, and quality inspection can be AI-enhanced. Entry barriers are lowered due to tool advancements, but experience-based judgment remains a core moat.
-
 Usually start as an apprentice, advance to skilled tradesperson or foreman, then progress to project supervisor or self-employed construction business owner.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually start as an apprentice, advance to skilled tradesperson or foreman, then
 | Subclass Skilled Worker (Skilled Employment Visa) | Requires vocational training certification and a German employer contract; priority for shortage occupations |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking in Germany, requires qualification recognition |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can be promoted to foreman, project supervisor, or become a construction tech
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drywall-and-ceiling-tile-installers/DE)**

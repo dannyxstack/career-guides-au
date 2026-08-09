@@ -52,8 +52,6 @@ Management consultants provide strategic, operational, and digital transformatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Management consultant roles have mixed impacts: AI automation will replace much data collection and report generation, but strategic advice, client relationships, and change management skills are amplified, increasing the value of senior consultants while intensifying competition for junior roles.
-
 Junior consultants typically take 3-5 years to become project managers or senior consultants, then another 3-5 years to advance to director or partner. They can also move to corporate strategy, project management, or start a business, or pursue an MBA to accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior consultants typically take 3-5 years to become project managers or senior
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Management consultant is on Green List Tier 2; eligible to apply for residence after working in the occupation for 2 years |
 | Subclass AEWV (Accredited Employer Work Visa) | Work visa sponsored by accredited employer, can lead to residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good, especially in the fields of corporate digital transformation and operat
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultant-224711/NZ)**

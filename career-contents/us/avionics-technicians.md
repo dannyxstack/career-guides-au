@@ -52,8 +52,6 @@ Install, inspect, test, adjust, or repair avionics equipment such as radar, radi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Junior technicians can advance to senior technician, team leader, or quality inspector. By obtaining FAA certification and gaining experience, they can move into engineering or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to senior technician, team leader, or quality ins
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, long queue times; applicable for technician positions |
 | Subclass TN (TN NAFTA Professional) | Only applicable to citizens of Canada or Mexico, with support from relevant occupation list. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must obtain FAA avionics technician certification. Additionally, FAA A&P cert
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/avionics-technicians/US)**

@@ -53,8 +53,6 @@ Detectives investigate criminal activities, gather evidence, surveil suspects, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on detectives and criminal investigators is mixed: automation will take over data analysis and document review, but core interrogation, interpersonal intuition, and on-site reasoning are hard to replace, and AI tools can actually improve case-solving efficiency.
-
 Career progression path: start as a police officer or private detective assistant, gain experience to advance to senior detective, investigation supervisor, or specialize in criminal investigation, forensic investigation, etc.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression path: start as a police officer or private detective assistan
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must obtain a private detective license from the Bureau of Industry, requirin
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/detective/DE)**

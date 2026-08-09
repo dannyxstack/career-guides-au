@@ -54,8 +54,6 @@ Medical technologists in Canada correspond to Other Medical Technologists and Te
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace standardized laboratory testing and data analysis tasks, but enhance diagnostic collaboration and instrument management; overall risk is moderate. Human skills like clinical judgment, patient communication, and regulatory compliance remain a moat.
-
 Entry-level often in hospital labs or diagnostic centers; after gaining experience, can advance to senior technician or lab supervisor. Some move into management or technical sales, or become medical laboratory scientists through further study.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level often in hospital labs or diagnostic centers; after gaining experien
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for medical technicians with job offers |
 | Subclass LMIA (Labour Market Impact Assessment) | An approved LMIA supports work visa and adds immigration points |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Most provinces require passing regulatory exams or registration, e.g., O
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-medical-technologists-and-technicians/CA)**

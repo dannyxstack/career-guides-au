@@ -56,8 +56,6 @@ Machine learning engineers build, train, deploy and maintain ML/AI models, cover
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Machine learning engineer is a core role directly created by AI, with demand surging alongside AI investment, currently in short supply; however, entry barriers are rising, requiring continuous learning of cutting-edge technologies, otherwise basic modelling roles may be automated.
-
 Generative AI (LLM/RAG/Fine-tuning) engineers are the highest-premium specialisation in 2025–2026, with annual salaries potentially exceeding $200,000. Demand for MLOps engineers (model operations automation) has increased significantly.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Generative AI (LLM/RAG/Fine-tuning) engineers are the highest-premium specialisa
 | Subclass 190 (Skilled Nominated) | State nomination, NSW/VIC AI industry pathway |
 | Subclass 491 (Skilled Work Regional) | Remote area IT, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: ML Engineers earn higher salaries ($131k–$165k vs $95k–$115k) but face a 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-learning-engineer/AU)**

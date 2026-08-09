@@ -53,8 +53,6 @@ Install wallpaper, fabric, or advertising posters on walls, ceilings, or billboa
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Paperhanger tasks rely heavily on manual precision and on-site judgment; AI is unlikely to fully replace core work, but AI-assisted tools can enhance efficiency in measurement, design previews, and material optimization, balancing risks and opportunities.
-
 Junior paperhangers can start as apprentices, gaining experience to become skilled workers or foremen. Some may become self-employed or start decoration companies. Competition is moderate in the industry.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior paperhangers can start as apprentices, gaining experience to become skill
 |---|---|
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applies to temporary non-agricultural workers, but demand for paperhangers is low, and employer sponsorship is limited |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually only requires a high school diploma or equivalent. Many skills are ac
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paperhangers/US)**

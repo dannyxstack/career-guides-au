@@ -4,8 +4,6 @@
 
 A healthcare professional who helps patients with physical or mental disabilities return to daily life by designing and conducting evaluations and treatment programs.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A healthcare professional who helps patients with physical or mental disabilitie
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and robots may be introduced as assessment and exercise aids, but occupational therapy, where patient-tailored intervention and human interaction are key, is difficult to automate. AI will only play a supporting role.
-
 After clinical experience, advancement to center director or specialist occupational therapist (Ministry of Health and Welfare) is possible. Graduate studies open paths to research and education.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ After clinical experience, advancement to center director or specialist occupati
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Visa for foreign occupational therapists to work at domestic nursing facilities. Requires meeting skill/experience criteria. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, long-term stay and work allowed. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: General therapist → Team head/Center director → Specialist occupational t
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/KR)**

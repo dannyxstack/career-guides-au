@@ -1,10 +1,8 @@
 # 航空乘务员（Flight Attendant）职业分析 · 韩国
 
-**职业代码: 52211 (KECO)**
+**职业代码：52211 (KECO)**
 
-A profession responsible for the safety and comfort of passengers on board an aircraft, providing services, with main duties including cabin safety checks and passenger assistance.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责机上乘客安全和舒适并提供服务的职业，主要职责包括客舱安全检查与乘客协助。
 
 
 ---
@@ -13,8 +11,8 @@ A profession responsible for the safety and comfort of passengers on board an ai
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (2-year) | 2 年 | $6,000,000~$12,000,000（Varies by national/private institution） |
-| Bachelor's degree (4-year) | 4年 | $20,000,000~$40,000,000（Higher including tuition and living expenses） |
+| 副学士学位（2年制） | 2 年 | $6,000,000~$12,000,000（因国立/私立机构而异） |
+| 学士学位（4年制） | 4年 | $20,000,000~$40,000,000（包括学费和生活费在内的总费用较高） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession responsible for the safety and comfort of passengers on board an ai
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Completion of flight attendant training course | Airlines or educational institutions | 可选 | Not mandatory but advantageous for hiring |
-| English proficiency certification such as TOEIC | ETS, etc. | 可选 | Often requires a minimum score of 700 |
+| 完成空乘培训课程 | 航空公司或教育机构 | 可选 | 非强制但对招聘有利 |
+| 英语水平认证如托业 | ETS等 | 可选 | 通常要求最低700分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. Due to recovery in air travel demand after COVID-19, hiring has increased, but the job outlook is average due to sensitivity to economic fluctuations and intense competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。由于疫情后航空旅行需求复苏，招聘增加，但由于对经济波动敏感和激烈竞争，就业前景一般。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A profession responsible for the safety and comfort of passengers on board an ai
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $30,000,000~$40,000,000 | Includes base salary and flight pay |
-| Mid-level (4–7 years) | $40,000,000~$55,000,000 | Flight pay increases with experience |
-| Senior (8 years+) | $55,000,000~$70,000,000 | Purser or senior crew level |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 包括基本工资和飞行补贴 |
+| 中级（4–7年） | $40,000,000~$55,000,000 | 飞行津贴随经验增加 |
+| 高级（8年以上） | $55,000,000~$70,000,000 | 乘务长或高级乘务员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI does not completely replace the work of cabin crew, but automates parts such as reservations and boarding procedures. Safety management and passenger service will evolve toward AI-assisted approaches.
+人工智能不会完全取代客舱乘务员的工作，但会自动化预订和登机程序等部分。安全管理和乘客服务将朝着AI辅助方式发展。
 
-Career progression is possible from junior flight attendant to purser, cabin crew trainer, or ground staff (passenger service, safety management). Some advance to airline managers.
+职业发展可以从初级空乘到乘务长、客舱培训师或地勤人员（旅客服务、安全管理）。部分晋升为航空公司管理人员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Airline ticket reservation and issuance
-- Guidance on boarding procedures
-- In-flight duty-free inventory management
+- 机票预订和出票
+- 登机手续指导
+- 机上免税品库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Provision of personalized passenger services
-- Emergency response simulations
-- Multilingual translation support
+- 提供个性化乘客服务
+- 应急响应模拟
+- 多语言翻译支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Human empathy skills
-- Creative handling of emergencies
-- Understanding of cultural diversity
+- 人类同理心技能
+- 创造性地处理紧急情况
+- 理解文化多样性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI service tools
-- Basics of data analysis
-- Psychology and conflict management
+- AI服务工具的应用
+- 数据分析基础
+- 心理学与冲突管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recovery of air travel demand
-- Expansion of low-cost carriers
-- Enhanced Safety Services
-- Diversity Requirements
+- 航空旅行需求复苏
+- 低成本航空公司的扩张
+- 增强安全服务
+- 多样性要求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | Issuable to skilled aviation service personnel, but limited to expatriates rather than general employment. |
-| Subclass F-2 (F-2 (Residence) Visa) | Long-term residence status has fewer employment restrictions, but employment as a flight attendant requires additional requirements. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent service mindset
-- People who can stay calm in crisis situations
-- People who enjoy communicating with passengers of various nationalities
+- 服务意识强者
+- 能在危机情况下保持冷静的人
+- 喜欢与不同国籍乘客交流的人
 
 **谁不适合**
-- People who find it difficult to endure irregular working hours and long flights
-- People who get stressed by conflicts in the cabin
+- 难以忍受不规律工作时间和长途飞行的人
+- 因机舱内冲突感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a cabin crew member?**
-答：For entry-level, approximately KRW 30 million to 40 million (annual pre-tax), with additional allowances based on flight hours and experience.
+**问：机组人员的起薪是多少？**
+答：入门级约为3000万至4000万韩元（税前年薪），根据飞行小时和经验另有额外津贴。
 
-**问：Can foreigners work as cabin crew in Korea?**
-答：Possible with an E-7 visa, but Korean language skills and the airline's own standards must be met, and it is very limited.
+**问：外国人能在韩国担任空乘吗？**
+答：可能通过E-7签证，但需满足韩语能力和航空公司自身标准，且非常有限。
 
-**问：Is it easy to transition from flight attendant to other occupations?**
-答：It is possible to transition to airline ground staff, hotels, tourism, etc. using service and safety experience, but there is competition.
+**问：从空乘转行到其他职业容易吗？**
+答：利用服务和安全经验可转至航空地勤、酒店、旅游等领域，但存在竞争。
 
 
 ---
@@ -143,12 +134,12 @@ Career progression is possible from junior flight attendant to purser, cabin cre
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/flight-attendant/KR)**

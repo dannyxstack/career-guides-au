@@ -51,8 +51,6 @@ Teaching environmental science courses at colleges or universities, including co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall job outlook for environmental science professors is mixed: AI can automate some literature searches, data preprocessing, and basic teaching assessments, but core field research design, interdisciplinary thinking, and ethical judgment are hard to replace, while AI can significantly enhance data analysis and simulation teaching.
-
 Usually start as lecturer or assistant professor, progress to associate professor, full professor, may also serve as department chair or research institute director.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as lecturer or assistant professor, progress to associate professo
 | Subclass EB-2 (Employment-Based Second Preference) | For professors with advanced degrees, applying for green card via PERM or National Interest Waiver. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers apply for permanent residence through labor certification, a process that typically takes 1-2 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Moderately difficult. Requires a doctoral degree, typically works under H-1B 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-science-teachers-postsecondary/US)**

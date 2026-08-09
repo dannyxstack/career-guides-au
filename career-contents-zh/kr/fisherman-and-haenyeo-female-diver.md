@@ -1,10 +1,8 @@
-# Fisherman and Haenyeo (Female Diver) 职业分析 · 韩国
+# 渔民与海女（Fisherman and Haenyeo (Female Diver)）职业分析 · 韩国
 
-**职业代码: 90421 (KECO)**
+**职业代码：90421 (KECO)**
 
-A profession that involves harvesting and capturing aquatic resources using fishing vessels or diving in coastal and offshore waters, including fishing vessel operations and diving fishing (haenyeo).
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用渔船或潜水在近海和远洋水域捕捞和采集水产资源的职业，包括渔船作业和潜水捕捞（海女）。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that involves harvesting and capturing aquatic resources using fish
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Middle school graduate or higher (irregular) | 0年 | $0~$0（On-site training without separate curriculum） |
-| Education at Korea Fisheries Training Institute | 6 months | $500,000~$1,000,000（Tuition for basic fishing and aquaculture courses） |
-| College (Fisheries-related) | 2 年 | $4,000,000~$8,000,000（Tuition for marine and fisheries departments） |
+| 初中毕业或以上（非正式） | 0年 | $0~$0（无单独课程的现场培训） |
+| 韩国渔业培训学院教育 | 6个月 | $500,000~$1,000,000（基础渔业和水产养殖课程学费） |
+| 学院（渔业相关） | 2 年 | $4,000,000~$8,000,000（海洋与渔业部门学费） |
 
 ---
 
@@ -23,18 +21,18 @@ A profession that involves harvesting and capturing aquatic resources using fish
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Small vessel operator license (6~10 tons or less) | Ministry of Oceans and Fisheries | 必备 | Required for operating fishing vessels; partial exam exemption |
-| Haenyeo Training Certificate | Local governments such as Haenyeo Museum | 可选 | Recommended for haenyeo activities in Jeju region |
-| First aid and diving safety training | Korea Fisheries Resources Agency, etc. | 可选 | Recommended for diving fishery workers |
+| 小型船舶操作员执照（6~10吨及以下） | 海洋水产部 | 必备 | 操作渔船所需；部分考试豁免 |
+| 海女培训证书 | 地方政府如海女博物馆 | 可选 | 推荐用于济州地区海女活动 |
+| 急救与潜水安全培训 | 韩国渔业资源局等 | 可选 | 推荐用于潜水渔业工人 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 85,000. Due to aging and lack of successors, employment is on a decreasing trend, but some demand is expected to be maintained through government support for returning to fishing/rural areas and the transition to smart aquaculture.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 85,000。由于老龄化和后继无人，就业呈下降趋势，但通过政府支持回归渔业/农村地区及向智慧水产转型，部分需求有望维持。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,85 @@ A profession that involves harvesting and capturing aquatic resources using fish
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$30,000,000 | Entry-level salary for crew/haenyeo, subject to seasonal fluctuations |
-| Intermediate (4~10 years) | $35,000,000~$50,000,000 | Captain·Experienced Haenyeo, varies by catch |
-| Advanced (over 10 years) | $50,000,000~$80,000,000 | Large fishing vessel captain·diving experienced, based on coastal fishery |
+| 初级（0~3 年） | $24,000,000~$30,000,000 | 船员/海女的入门级薪资，受季节性波动影响 |
+| 中级（4~10年） | $35,000,000~$50,000,000 | 船长·资深海女，按渔获量而异 |
+| 高级（10年以上） | $50,000,000~$80,000,000 | Large fishing vessel captain·diving experienced, based on coastal fishery |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is not yet significant, but smart aquaculture and automated fishing equipment are replacing some tasks. AI replacement is limited in traditional fishing grounds.
+AI和自动化的影响尚不显著，但智能水产养殖和自动化捕捞设备正在取代部分任务。在传统渔场，AI替代有限。
 
-Initially starting as a crew member or haenyeo, one can gain experience and later become a captain or independent fisher, or advance into seafood distribution and processing.
+从船员或海女起步，积累经验后可以成为船长或独立渔民，或进入海鲜分销和加工领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simplified catch prediction
-- Automated navigation assistance
-- Automated aquaculture feed supply
+- 简化的捕鱼预测
+- 自动导航辅助
+- 自动化水产饲料供应
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Seaweed harvesting support using underwater drones
-- Efficient fish school detection via IoT buoys
-- Smart aquaculture system operation
+- 利用水下无人机支持海藻收割
+- 通过物联网浮标高效检测鱼群
+- 智慧水产养殖系统操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Field experience and intuition
-- Ability to adapt to uncertain marine environments
-- Human networks and fishing rights information
+- 现场经验和直觉
+- 适应不确定海洋环境的能力
+- 人际网络和捕鱼权信息
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart aquaculture operation skills
-- Drone and IoT Equipment Utilization
-- Seafood Processing and Sales Marketing
+- 智能水产养殖操作技能
+- 无人机与物联网设备利用
+- 海产品加工与销售营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Decline in fishing population
-- Aging population
-- Smart aquaculture
-- Support for returning to fishing
+- 捕捞种群数量下降
+- 人口老龄化
+- 智慧水产养殖
+- 支持重返渔业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers possible in non-professional fields like fishing, industry restrictions apply |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled technical personnel, permitted only in specific fields like smart aquaculture |
-| Subclass F-4 (Overseas Koreans (F-4)) | Available for overseas Koreans seeking fishery jobs, few activity restrictions |
-| Subclass F-2 (Residence (F-2)) | Free employment possible after certain stay, requires report when engaging in fishery |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent physical strength and no aversion to working at sea
-- People who adapt well to independent and changing environments
-- People with high interest in fisheries and considering returning to fishing
+- 体力优秀且不厌恶海上工作者
+- 适应独立和多变环境的人
+- 对渔业有浓厚兴趣并考虑重返捕鱼的人
 
 **谁不适合**
-- People who avoid physical labor
-- People who prefer stable regular employment
+- 避免体力劳动的人
+- 偏好稳定固定就业者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a fisherman?**
-答：For beginners, about 25 million to 30 million KRW; with over 10 years of experience, up to 50 million to 80 million KRW, but highly variable depending on catch volume.
+**问：渔夫的平均年薪是多少？**
+答：初入行者约2500万至3000万韩元；10年以上经验者可达5000万至8000万韩元，但根据捕捞量波动很大。
 
-**问：What visa does a foreigner need to work as a fisherman?**
-答：Non-professional Employment (E-9) or Specific Activities (E-7) visas are commonly used; depending on skill level, conversion to Overseas Korean (F-4) or Residence (F-2) is possible.
+**问：外国人从事渔民工作需要什么签证？**
+答：非专业就业（E-9）或特定活动（E-7）签证常用；根据技能水平，可转为在外同胞（F-4）或居住（F-2）签证。
 
-**问：Are there any educational requirements or certifications needed to become a fisherman?**
-答：A small vessel operator license is required; for female divers, scuba safety training and certification are recommended. Advanced courses are available at the Korea Fisheries Technology Training Institute.
+**问：成为渔民是否需要任何教育要求或认证？**
+答：需持有小型船舶驾驶证；女潜水员建议接受潜水安全培训和认证。韩国水产技术培训院提供高级课程。
 
 
 ---
@@ -147,12 +136,12 @@ Initially starting as a crew member or haenyeo, one can gain experience and late
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fisherman-and-haenyeo-female-diver/KR)**

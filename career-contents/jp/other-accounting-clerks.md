@@ -4,8 +4,6 @@
 
 Clerical role using accounting software for slip organization, bookkeeping, and invoice processing, also assisting tax accountants and CPAs.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Clerical role using accounting software for slip organization, bookkeeping, and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the progress of automation via AI and RPA, simple tasks like slip entry and journalizing are decreasing. In the future, work will shift to analysis and advice.
-
 Gain experience at accounting firms or corporate accounting departments; career advancement via CPA exam or Level 1 Bookkeeping.
 
 **Tasks most exposed to AI:**
@@ -94,15 +90,9 @@ Gain experience at accounting firms or corporate accounting departments; career 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術人文知識国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree equivalent or 10+ years of practical experience. Accounting work may qualify, but simple tasks are unsuitable. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +133,12 @@ A: May qualify for the Engineer/Specialist in Humanities/International Services 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-accounting-clerks/JP)**

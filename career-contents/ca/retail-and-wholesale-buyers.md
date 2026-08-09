@@ -51,8 +51,6 @@ Retail and Wholesale Buyers purchase goods for retailers or wholesalers, includi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve procurement efficiency, but cannot fully replace interpersonal negotiation and strategic decisions; entry-level positions face compression, while senior roles become more valuable.
-
 Junior buyers can advance to senior buyer or procurement manager, or progress into supply chain management or category management. Some experienced buyers become independent consultants or move into retail management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior buyers can advance to senior buyer or procurement manager, or progress in
 | Subclass PNP (Provincial Nominee Program) | Some provinces have priority nomination pathways for business or procurement talents. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, accumulate Canadian experience then transition to permanent residence. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: From junior buyer to senior buyer, then to purchasing manager or category man
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-and-wholesale-buyers/CA)**

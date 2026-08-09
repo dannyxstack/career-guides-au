@@ -52,8 +52,6 @@ Urban planners in New Zealand develop land use and sustainable development strat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance urban planners' data analysis, scenario generation, and report writing capabilities, but legal and public participation aspects still require human judgment; entry-level drafting and compliance review positions may be reduced by automation, with a mixed overall outlook.
-
 Junior planners can advance to senior planner, team leader, or policy advisor; can also move into niche areas like natural resource management or transport planning; senior professionals can become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior planners can advance to senior planner, team leader, or policy advisor; c
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to senior planner, planning manager, or specialize in transport p
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-planner/NZ)**

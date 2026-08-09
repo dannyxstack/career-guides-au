@@ -50,8 +50,6 @@ Professionals who protect lives and property from fire through fire system desig
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will support fire engineering by enhancing fire prediction models, design optimization, and data analysis to improve work efficiency and accuracy. However, human experience and intuition remain crucial for on-site judgment, legal interpretation, and emergency response, with AI serving as an enhancement tool.
-
 Can advance from junior engineer to mid-level, senior engineer, and project manager. Researchers can grow from postdoctoral to senior researcher and principal researcher.
 
 **Tasks most exposed to AI:**
@@ -91,15 +89,9 @@ Can advance from junior engineer to mid-level, senior engineer, and project mana
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hired by a Korean company as a fire protection engineering expert |
-| Subclass F-2 (Residence) | Long-term stay possible through a points system |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +135,12 @@ A: Fire-fighting equipment engineer is essential, and fire safety manager qualif
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-protection-engineer-and-researcher/KR)**

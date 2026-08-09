@@ -4,8 +4,6 @@
 
 Medical technology assistants assist doctors in diagnostic and treatment procedures, operate medical equipment, prepare patient information, and ensure the smooth progress of technical processes within medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Medical technology assistants assist doctors in diagnostic and treatment procedu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 You can advance from junior technical assistant to senior technical specialist or team leader, or transition to specialties such as radiotherapy or ultrasound through continuing education, or work as a technical consultant at a medical device company.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ You can advance from junior technical assistant to senior technical specialist o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, employer sponsorship is required, and contract salary is no less than 1.5 times the average wage in France |
-| Subclass Salarié (Employee Work Permit) | Employers must provide work contracts, and the position on the shortage occupation list can simplify the process |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary ≥ €53,000), but medical technical assistants usually do not meet the standard |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Candidates can be promoted to senior technical assistant, team leader, or thr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-technical-assistant/FR)**

@@ -54,8 +54,6 @@ Funeral industry directors manage funeral home operations, including body handli
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on funeral directors is mixed: administrative coordination and paperwork will be automated, but emotional care, highly customized funeral planning, and sensitive interpersonal negotiations rely on humans, keeping the role's core stable.
-
 Starting point can be a funeral service specialist or assistant, progressing through dual vocational training or further education to become a department manager. With more experience, one can become a funeral home manager or run their own funeral business.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting point can be a funeral service specialist or assistant, progressing thr
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa for applicants who have not yet found a job but have qualifications and language ability. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job search visa, allows searching for work in Germany. Must prove sufficient financial means. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Overseas qualifications need German recognition (Anerkennung), usually requir
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-funeral-services/DE)**

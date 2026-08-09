@@ -52,8 +52,6 @@ Responsible for planning, planting, cultivating, and harvesting plants in a nurs
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Production nursery growers face a mix of AI automation and enhancement. AI can optimize repetitive tasks like irrigation and pest monitoring, but cultivation judgment and manual operations still require human experience. Entry-level positions may be reduced due to automation, but demand for high-skilled roles increases.
-
 Junior growers can gain experience in nurseries before being promoted to production supervisors or managers, or moving into horticultural consulting or running their own nursery. Some pursue further study to obtain a horticulture degree to enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior growers can gain experience in nurseries before being promoted to product
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Occupation is in Tier 2 of the Green List; eligible for residency after 2 years of work; must meet median wage (approx. 29.66 NZD/hour in 2024) or above. |
 | Subclass AEWV (Accredited Employer Work Visa) | Work visa sponsored by accredited employer; can apply for residence after 2 years of work (subject to conditions). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, this occupation is on the Green List Tier 2, indicating a skills shortag
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-nursery-grower/NZ)**

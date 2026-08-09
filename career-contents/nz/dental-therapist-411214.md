@@ -53,8 +53,6 @@ Dental therapists focus on children and adolescent oral health, performing preve
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
-
 Dental therapists can advance to senior therapist, clinical tutor, or oral health coordinator. Some become dentists or oral health therapists through further study. New Zealand offers progressive registration and continuing education support.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Dental therapists can advance to senior therapist, clinical tutor, or oral healt
 | Subclass SMC (Skilled Migrant Category) | Even if not on the Green List, you can apply under the 6-point system (qualifications + work experience), but you need a certified employer offer |
 | Subclass AEWV (Accredited Employer Work Visa) | Apply once you find an approved employer, up to 3 years, renewable; paves the way for residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires the University of Otago's Bachelor of Oral Health (BOH) 3-
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-therapist-411214/NZ)**

@@ -52,8 +52,6 @@ Dentists diagnose and treat oral diseases, including dental restoration, extract
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Career paths typically start as a dental assistant; after gaining experience, one can practice independently or co-establish a clinic. Further study allows specialization in orthodontics, oral surgery, or academic research.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career paths typically start as a dental assistant; after gaining experience, on
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU professionals, requiring a work contract and meeting a minimum annual salary (approx. €28,000 in 2024). Can bring family, fast track to residency. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers. Requires employer sponsorship, limited quotas, and is highly competitive. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | For dentists planning to open a private clinic in Italy. Must submit a business plan proving sufficient funds. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Dental education in Italy is a 6-year integrated bachelor's and master's prog
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/IT)**

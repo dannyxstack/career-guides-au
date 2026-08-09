@@ -52,8 +52,6 @@ Operate and monitor equipment for fiber preparation, spinning, doubling, and win
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of fiber preparation, spinning, and winding machine operators will present a 'mixed' outlook: routine monitoring and repetitive operations are rapidly replaced by AI and automation, but scenarios requiring human experience, such as handling yarn breaks, product changes, and quality anomalies, remain irreplaceable. Entry-level positions may shrink, but remaining jobs demand higher comprehensive skills.
-
 Can progress from operator to production line supervisor or quality control technician; further study can lead to textile technology or production management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from operator to production line supervisor or quality control tech
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to production line supervisor, quality control technician, or mov
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fibre-preparing-spinning-and-winding-machine-operator/IE)**

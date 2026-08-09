@@ -54,8 +54,6 @@ Musical instrument makers craft, repair, and tune various instruments such as pi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
-
 Start as an apprentice, gain experience to become a master craftsperson (Meister), or advance to workshop supervisor, or start a studio. Specialise further in specific instruments (e.g., piano tuning).
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an apprentice, gain experience to become a master craftsperson (Meister
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, you can come to Germany to find work without a job contract; applicable to this occupation. |
 | Subclass Qualification Recogn (Recognition Partnership Visa) | You can work in Germany during the professional qualification period, for a maximum of 18 months. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Common pathway: apprentice → skilled worker (Geselle) → master craftsman 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musical-instrument-maker/DE)**

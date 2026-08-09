@@ -4,8 +4,6 @@
 
 Responsible for classifying, inspecting, and testing manufactured products (such as electronics, machinery, textiles, etc.) to ensure compliance with quality standards, commonly found in factories and quality inspection departments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for classifying, inspecting, and testing manufactured products (such
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will automate some repetitive detection tasks, but human comprehensive judgment and anomaly handling abilities remain central, leaving the overall job position mixed.
-
 You can be promoted from junior inspector to senior quality inspection technician, quality supervisor, or quality assurance engineer, with experience accumulated and professional certification obtained (such as ISO 9001 internal auditor).
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from junior inspector to senior quality inspection technicia
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employed work residence requires a Spanish company sponsorship; entry-level positions are harder to obtain because they are not in short supply and have lower salary thresholds. |
-| Subclass Busqueda empleo (Job Search Visa) | Job search visa (valid for 1 year), suitable for graduates with high academic degrees or vocational training, but this profession is less competitive. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can advance to Quality Supervisor or Quality Assurance Engineer, requiring ad
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-classifiers-and-testers-except-food-beverages-and-tobacco/ES)**

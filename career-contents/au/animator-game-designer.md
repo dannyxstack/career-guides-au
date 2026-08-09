@@ -55,8 +55,6 @@ Animators create 2D/3D animation content for film, games, advertising and digita
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Animators/game designers face mixed prospects: AI can efficiently generate drafts, basic animations, and procedural content, but creative decision-making, artistic style control, and complex narrative design remain human moats; industry entry barriers will slightly rise due to automation.
-
 Screen Australia continues to fund local animation and VFX production, sustaining stable industry employment. Australia's indie game development scene is active (e.g. studios such as House House and League of Geeks in Sydney/Melbourne). AI animation tools (Runway Gen-2, Adobe Firefly) are changing content creation workflows, but human animators remain irreplaceable for creative quality control.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Screen Australia continues to fund local animation and VFX production, sustainin
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway (NSW/VIC offer nominations for the tech and creative industries) |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Game designers earn slightly more ($85k–$118k vs animators at $72k–$92k) 
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animator-game-designer/AU)**

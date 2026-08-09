@@ -4,8 +4,6 @@
 
 Engaged in the production of artistic glass and functional glass products, including blowing, casting, and carving techniques, involving decorative items, utensils, architectural glass, and more.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaged in the production of artistic glass and functional glass products, inclu
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Artistic glassmaking faces challenges from AI-assisted design tools, but craftsmanship and personalized creation remain core moats, with overall risks and opportunities coexisting.
-
 Career development can progress from junior craftsmen to senior craftsmen or studio supervisors, with some opening personal studios or shifting to teaching and restoration.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development can progress from junior craftsmen to senior craftsmen or stu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Residence Permit) | Employed by a French company with employer sponsorship, salary not less than SMIC; non-occupier on shortage list; moderate approval difficulty. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as artists or individuals with outstanding achievements, who must provide portfolios and invitations from French institutions. |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for job-seeking residence for one year, non-renewable. If you find a job, you can transfer to Salarié. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, a CAP (2 years) or BMA (2 years) Glass Craft Diploma, or a DNMADE 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-and-functional-glass-object-maker/FR)**

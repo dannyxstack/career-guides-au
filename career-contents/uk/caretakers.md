@@ -52,8 +52,6 @@ Responsible for daily caretaking, cleaning, maintenance, and facility management
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Caretaker roles are less affected by AI automation, but AI tools can significantly enhance work efficiency and management capabilities, making this an AI-augmented occupation.
-
 Can advance to facility supervisor or property manager through experience, or move to specialized maintenance fields (such as electrical, plumbing).
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can advance to facility supervisor or property manager through experience, or mo
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: No, this occupation typically does not meet the skill threshold for skilled w
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/caretakers/UK)**

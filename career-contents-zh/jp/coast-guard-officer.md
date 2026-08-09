@@ -1,10 +1,8 @@
-# Coast Guard Officer 职业分析 · 日本
+# 海岸警卫队官员（Coast Guard Officer）职业分析 · 日本
 
-**职业代码: 442 (JSCO)**
+**职业代码：442 (JSCO)**
 
-A national public officer responsible for guarding Japan's territorial waters, cracking down on smuggling and illegal immigration, conducting maritime rescue, protecting the marine environment, and ensuring maritime traffic safety.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责守卫日本领海、打击走私和非法移民、进行海上救援、保护海洋环境及确保海上交通安全的国家公务员。
 
 
 ---
@@ -13,9 +11,9 @@ A national public officer responsible for guarding Japan's territorial waters, c
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| After high school graduation | About 1 year | $0~$500,000（Tuition at the Coast Guard School (general course) is free, but textbook and other fees may apply.） |
-| After university graduation | About 2 years | $0~$1,000,000（The Coast Guard Academy (graduates become officer candidates) provides a salary.） |
-| Experienced professional recruitment | About 1 year | $0~$300,000（Training period after recruitment.） |
+| 高中毕业后 | 约1年 | $0~$500,000（海岸警卫学校（普通课程）学费免费，但可能需要支付教材等其他费用。） |
+| 大学毕业后 | 约2年 | $0~$1,000,000（海岸警卫学院（毕业生成为军官候选人）提供薪资） |
+| 资深专业人才招聘 | 约1年 | $0~$300,000（招聘后的培训期。） |
 
 ---
 
@@ -23,19 +21,19 @@ A national public officer responsible for guarding Japan's territorial waters, c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Coast Guard Officer Recruitment Exam | Japan Coast Guard | 必备 | National public service exam at university graduate level (officer) or high school graduate level (general). |
-| Ship License (1st/2nd class, etc.) | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for patrol vessel duties; typically obtained after recruitment. |
-| English (TOEIC, etc.) | ETS | 可选 | Useful for collaboration with international organizations. |
-| Diver Qualification | Ministry of Health, Labour and Welfare | 可选 | Required when assigned to rescue or dive units. |
+| 海岸警卫队军官招聘考试 | 日本海上保安厅 | 必备 | 国家公务员考试分大学毕业级别（官员）或高中毕业级别（一般）。 |
+| 船舶执照（一等/二等，等） | 国土交通省 | 可选 | 巡逻船职务所需；通常入职后取得。 |
+| 英语（TOEIC等） | ETS | 可选 | 有助于与国际组织合作。 |
+| 潜水员资格 | 厚生劳动省 | 可选 | 当被分配到救援或潜水单位时必需。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 10,000. The Japan Coast Guard is always recruiting personnel, and this field continues to face labor shortages. Recruitment exams are held annually, promising stable employment.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 10,000。日本海上保安厅持续招募人员，该领域长期面临劳动力短缺。每年举行录用考试，就业稳定。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -43,96 +41,88 @@ A national public officer responsible for guarding Japan's territorial waters, c
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (up to 5 years) | $4,000,000~$6,000,000 | Starting salary for Japan Coast Guard officers (including regional and miscellaneous allowances). |
-| Mid-level (6–15 years) | $6,000,000~$8,000,000 | Crew members of patrol vessels, administrative roles, etc.; salary increases with experience. |
-| Senior-level (16+ years) | $8,000,000~$12,000,000 | Managerial and specialist positions. Executives such as Coast Guard Superintendents earn even higher. |
+| 初级（5年以内） | $4,000,000~$6,000,000 | 日本海上保安厅官员的起薪（包括地区津贴和杂项津贴） |
+| 中级（6-15年） | $6,000,000~$8,000,000 | 巡逻船船员、行政岗位等；薪资随经验增长。 |
+| 高级（16年以上） | $8,000,000~$12,000,000 | 管理和专业职位。海岸警卫队总监等高管收入更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation complement and enhance coast guard operations. Automated detection of suspicious vessels using surveillance cameras, drones, and AI image analysis, as well as the use of unmanned vehicles in rescue operations, are advancing, but on-site judgment and human response remain essential.
+AI和自动化辅助并增强海岸警卫队行动。通过监控摄像头、无人机和AI图像分析自动检测可疑船只，以及在救援行动中使用无人驾驶车辆正在推进，但现场判断和人类响应仍然至关重要。
 
-After attending the Coast Guard School (general or specialized courses) or the Coast Guard Academy, officers are assigned to patrol vessel crews or land-based duties. With experience, they can advance to management positions such as Security and Rescue Supervisor Director or specialist roles.
+就读海洋警察学校（普通或专业课程）或海洋警察大学后，军官被分配到巡逻舰艇或陆地岗位。随着经验积累，可晋升至保安救援主管或专业岗位等管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant visual monitoring of surveillance camera footage
-- Regular patrol and fixed-point monitoring by patrol vessels
-- Simple call reception and recording tasks
+- 持续目视监控监控摄像头画面
+- 巡逻船的定期巡逻和定点监控
+- 简单的电话接听和记录任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based detection and tracking of suspicious vessels
-- Wide-area surveillance using drones
-- Automatic collision avoidance systems
-- Simulation training for rescue operations
+- 基于AI的可疑船只检测与追踪
+- 使用无人机进行广域监控
+- 自动碰撞避免系统
+- 救援行动模拟培训
 
-**人类护城河:**
+**人类护城河：**
 
-- Improvised decision-making in crisis situations
-- Interpersonal negotiation and persuasion skills (e.g., with smuggling ships)
-- Physical response (lifesaving, emergency measures)
-- Legal/ethical judgment (necessity of use of force)
+- 危机情况下的临时决策
+- 人际谈判与说服技巧（如针对走私船）
+- 身体反应（救生、应急措施）
+- 法律/道德判断（使用武力的必要性）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic knowledge of AI and data analysis
-- Operation skills of unmanned vehicles (drones, USVs)
-- Foreign language communication including English
-- Operation of latest communication and navigation equipment
+- AI和数据分析基础知识
+- 无人驾驶车辆（无人机、USV）操作技能
+- 包括英语在内的外语沟通
+- 最新通信和导航设备的操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Maritime security
-- Anti-smuggling measures
-- Maritime rescue
+- 海上安全
+- 反走私措施
+- 海上救援
 - 网络安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For foreigners with advanced skills or knowledge. As Japan Coast Guard officers are national public servants, this visa generally does not apply. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Japan Coast Guard officer is not included in eligible occupations. |
-| Subclass 高度専門職 (Highly Skilled Professional) | For foreigners engaged in advanced academic or technical activities. Depending on duties, may apply in theory but is not realistic. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those confident in physical strength and willing to work at sea
-- Those who value discipline and have a sense of mission for public safety
-- People with strong language and communication skills, interested in international cooperation
+- 体力充沛且愿意在海上工作的人
+- 重视纪律并对公共安全有使命感的人
+- 语言和沟通能力强、对国际合作感兴趣的人
 
 **谁不适合**
-- People who dislike living on a ship or long hours of confinement
-- People with low stress tolerance who are uneasy about dangerous missions
+- 不喜欢在船上生活或长时间封闭的人
+- 压力承受能力低、对危险任务感到不安的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a coast guard officer?**
-答：Starting salary is about ¥4 million, and with experience it exceeds ¥8 million, with management positions exceeding ¥10 million. Various allowances (regional, hazard, navigation, etc.) are generous.
+**问：海岸警卫队官员的年收入是多少？**
+答：起薪约400万日元，有经验后超过800万日元，管理职位超过1000万日元。各种津贴（地区、危险、航行等）优厚。
 
-**问：Can foreigners become coast guard officers?**
-答：Coast guard officers are national civil servants, so Japanese nationality is generally required. Unless there are special circumstances, there is no visa route for foreigners.
+**问：外国人可以成为海岸警卫队员吗？**
+答：海岸警卫官员是国家公务员，因此一般要求日本国籍。除非有特殊情况，否则没有针对外国人的签证途径。
 
-**问：What is the career path in the Japan Coast Guard?**
-答：After graduating from the Coast Guard School or the Coast Guard Academy, you can move through patrol vessel duty, base duty, and headquarters duty while aiming for specialized positions such as Security and Rescue Supervisor or Maritime Information Officer, or management positions.
+**问：日本海上保安厅的职业发展路径是怎样的？**
+答：从海岸警卫学校或海岸警卫学院毕业后，可经历巡逻艇勤务、基地勤务和总部勤务，同时瞄准安保与救援主管或海事信息官等专业职位，或管理职位。
 
 
 ---
@@ -150,12 +140,12 @@ After attending the Coast Guard School (general or specialized courses) or the C
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/coast-guard-officer/JP)**

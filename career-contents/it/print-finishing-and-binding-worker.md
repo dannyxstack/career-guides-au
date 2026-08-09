@@ -4,8 +4,6 @@
 
 Responsible for post-press finishing of printed materials, including cutting, folding, collating, gluing, saddle stitching, and other operations to ensure product quality meets client requirements.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for post-press finishing of printed materials, including cutting, fo
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Print finishing workers face high automation risk; repetitive tasks are easily replaced by machines, but custom finishing and troubleshooting still require human input.
-
 May progress from junior operator to senior binding technician or production supervisor, or move into digital post-press processing, quality control, or printing management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ May progress from junior operator to senior binding technician or production sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Work Visa (Decreto Flussi)) | Available to non-EU citizens via annual quota applications, usually requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, but such occupations often do not meet the salary threshold, so it is rarely used. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Affected by digitalization, traditional binding roles are slowly declining, b
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-finishing-and-binding-worker/IT)**

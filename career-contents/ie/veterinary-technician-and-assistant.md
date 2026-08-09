@@ -51,8 +51,6 @@ Veterinary technicians and assistants support veterinarians in animal diagnosis,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinary technicians and assistants face dual impacts from AI automation and enhancement: routine lab tests, record-keeping, etc., will be automated, while complex tasks like surgical assistance and client communication become more efficient with AI assistance, presenting both risks and opportunities.
-
 Junior assistants can gain experience and then obtain formal veterinary technician qualifications, leading to advancement to senior technician or clinic management, and some may transition to related fields such as animal nutrition or pharmaceuticals.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior assistants can gain experience and then obtain formal veterinary technici
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Annual salary ≥ €32,000 and occupation on shortage list is eligible to apply; spouse can work |
 | Subclass EU Blue Card (EU Blue Card) | Annual salary ≥€34,000 and higher education degree, eligible for long-term residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, can advance to senior technician, clinic manager, or transition to anima
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-technician-and-assistant/IE)**

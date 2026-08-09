@@ -53,8 +53,6 @@ Canadian blasters holding provincial licenses perform drilling and blasting at m
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 Starting as an apprentice, you can advance to senior blaster or blasting supervisor with experience. After many years, you can transition to blasting consultant or safety trainer, or move into mining management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as an apprentice, you can advance to senior blaster or blasting supervi
 | Subclass PNP (Provincial Nominee Program) | Multiple provinces like BC, Ontario, Saskatchewan have skilled categories requiring provincial nomination. Nomination adds 600 CRS points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for Newfoundland and Labrador with mining. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must complete apprenticeship or experience certification and pass provincial 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/blasters/CA)**

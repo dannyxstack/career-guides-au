@@ -53,8 +53,6 @@ IT support professionals diagnose and resolve hardware, software and network iss
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
-
 Level 1/2 support is branching towards Level 3 and specialised roles, with preference given to candidates holding CompTIA A+/Network+ or Microsoft 365 certifications. The MSP sector is the primary employment channel for IT support, offering opportunities to rapidly build technical experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Level 1/2 support is branching towards Level 3 and specialised roles, with prefe
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This is one of the highest-volume IT roles in Australia, with 500–900 activ
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-support-technician/AU)**

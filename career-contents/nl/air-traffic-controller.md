@@ -4,8 +4,6 @@
 
 Air traffic controllers monitor and guide aircraft takeoffs, landings, and air navigation to ensure flight safety and efficiency. They typically work at the Dutch Air Traffic Control Center (LVNL) or airport towers, requiring rigorous selection and training.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Air traffic controllers monitor and guide aircraft takeoffs, landings, and air n
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 After onboarding, complete on-the-job training and obtain ratings. Career progression: aerodrome controller → approach controller → area controller → supervisor or trainer. Some transition to ATC system development or management roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ After onboarding, complete on-the-job training and obtain ratings. Career progre
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migrants with an annual salary exceeding €5,000/month (2024 threshold), employers must be IND-recognized sponsors. Air traffic controllers meet the conditions. |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU citizens, the annual salary threshold is approximately €58,000 (2024), suitable for mid-level and above air traffic controllers. Requires a work contract and higher education degree. |
-| Subclass Single Permit (GVVA) (Single Permit for Work and Residence) | Applies to non-high-skilled but eligible foreign employees; requires employer to apply for a combined work permit (TWV) and residence permit. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: LVNL offers paid training, about 3 years, including theory, simulators, and o
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/NL)**

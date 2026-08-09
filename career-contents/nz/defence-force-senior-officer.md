@@ -52,8 +52,6 @@ Senior defence force officers command and manage the land, sea, and air forces o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The command decision-making and moral responsibility of senior defense force officers are hard to replace by AI, but tasks like intelligence analysis, logistics optimization, and administrative reporting will be highly automated. Entry-level positions are narrowing due to AI management tools, but demand for strategic thinking and leadership is increasing, presenting a mixed outlook for the profession.
-
 Career progression usually starts as junior officer, advancing to major, lieutenant colonel, colonel, and senior positions up to brigadier. Promotion depends on performance, years of service, and senior command courses; path is clear but competitive.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression usually starts as junior officer, advancing to major, lieuten
 | Subclass SMC (Skilled Migrant Category) | Available through skilled migration categories, requiring 6-point system including points for education, work experience, and salary. |
 | Subclass AEWV (Accredited Employer Work Visa) | If offered a job by an accredited employer (New Zealand Defence Force), you can apply for this work visa, but citizens are given priority. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Starting from Major, promotion occurs every 3-5 years, requiring completion o
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/defence-force-senior-officer/NZ)**

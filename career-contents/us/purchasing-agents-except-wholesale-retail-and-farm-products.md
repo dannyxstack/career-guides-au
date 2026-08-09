@@ -52,8 +52,6 @@ Purchasing machinery, equipment, tools, parts, consumables or services for an or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
-
 Junior buyers can advance to senior purchasing agents, procurement managers, or supply chain directors. Obtaining CPSM certification aids career development; they can also transition to logistics or contract management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior buyers can advance to senior purchasing agents, procurement managers, or 
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or no degree with experience; requires PERM, long waiting period. |
 | Subclass TN (TN NAFTA Professional) | For Canadian and Mexican citizens only; purchasing agents usually do not qualify as professional occupations and require case-by-case assessment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior procurement agent, procurement manager, supply chain di
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-agents-except-wholesale-retail-and-farm-products/US)**

@@ -52,8 +52,6 @@ Fashion designers are responsible for designing clothing and accessories, from c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Fashion designers' creativity remains strong, but repetitive work is taken over by AI, narrowing entry-level positions. AI-assisted design tools improve efficiency, but aesthetic and fashion insights remain the core moats.
-
 Junior designers can be promoted to senior designer, art director, or creative director. You can also turn to fashion buyers, stylists, or start your own brand, but you need to accumulate experience and connections.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior designers can be promoted to senior designer, art director, or creative d
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents such as designers, who need to provide company contracts or projects, valid for 4 years, and can be renewed. |
-| Subclass Salarié (Employee (Salarié) Residence Permit) | If you apply for employed residence after finding an employer in France, your salary must be higher than the SMIC and you can switch to long-term residence. |
-| Subclass Recherche emploi (Job Search/Business Creation) | After graduation, you can apply for a one-year temporary residence to find a job, and once you find one, it will be converted to work residence. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Not required, but education and experience matter, and the portfolio is key.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-designer/FR)**

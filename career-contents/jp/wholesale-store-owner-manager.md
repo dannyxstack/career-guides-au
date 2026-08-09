@@ -49,8 +49,6 @@ Oversees overall store operations at wholesale markets or wholesalers, including
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and systems are advancing inventory management and ordering, but human judgment—such as negotiation, reading market trends, and staff management—remains essential, making full replacement difficult.
-
 Can advance from buyer or store manager to large store manager, area manager, or management participation. Independence is challenging due to consolidation in wholesale markets.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Can advance from buyer or store manager to large store manager, area manager, or
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires managerial or sales experience in wholesale. Generally, a university degree or about 10 years of experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not applicable)) | Wholesale store owners/managers are not eligible for Specified Skilled Worker (i). |
-| Subclass 経営・管理 (Management) | Applies when starting and operating a wholesale store independently. Requires capital of at least 5 million yen, etc. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: Start as a buyer or store supervisor, gain experience to become a store manag
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesale-store-owner-manager/JP)**

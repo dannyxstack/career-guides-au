@@ -53,8 +53,6 @@ Registered nurses (practitioner level) provide independent nursing care on the c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Junior registered nurses can advance to senior practice nurses, nursing consultants, or nursing management roles, or specialize in areas like emergency or intensive care, or pursue a PhD for academic research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior registered nurses can advance to senior practice nurses, nursing consulta
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to registered nurses meeting skill requirements and a salary threshold (generally £26,200 per year). |
 | Subclass Graduate (Graduate Visa) | International students who complete a nursing degree in the UK can apply, allowing them to work in the UK for two years after graduation (three years for PhD). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, the UK has a long-term nursing shortage, and this occupation is on the s
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse-practitioners/UK)**

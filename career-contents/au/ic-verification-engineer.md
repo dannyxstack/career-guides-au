@@ -53,8 +53,6 @@ IC verification engineers use SystemVerilog/UVM to set up verification environme
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over repetitive tasks such as test case generation and coverage analysis, but verification engineers will still be responsible for architecture design, debugging complex errors, and formulating verification strategies, shifting from manual execution to tool supervision and intellectual arbitration.
-
 In 2026, SoC-level verification, low-power and security verification, as well as AI-assisted verification, will be the focus. AI improves test generation and debugging efficiency, but verification methodology, coverage convergence, and specification understanding are still dominated by engineers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ In 2026, SoC-level verification, low-power and security verification, as well as
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Electronics Engineer (233411) is on the migration list and can apply via
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ic-verification-engineer/AU)**

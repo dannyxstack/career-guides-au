@@ -52,8 +52,6 @@ Arts administrators or managers plan, organize, and direct the operations of art
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Administrative tasks for arts managers (such as scheduling, budgeting, fundraising emails) are being rapidly automated by AI, but curatorial creativity, artist relationship maintenance, and strategic decision-making remain high-value human domains. Overall risk is moderate, with increasing divergence.
-
 Career progression typically starts from project coordinator or assistant manager, gradually advancing to department manager, executive director, or independent curator. Accumulating industry experience and building professional networks is crucial; some practitioners may transition to consulting or arts entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically starts from project coordinator or assistant manage
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category requiring 6-point system (qualifications + work experience + income), with occupation at ANZSCO skill level 1-3 |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires a job offer from a New Zealand accredited employer, eligible for residence after working for 2 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Employment prospects are stable but competitive, with major opportunities in 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arts-administrator-or-manager/NZ)**

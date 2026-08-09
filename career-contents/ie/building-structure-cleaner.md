@@ -52,8 +52,6 @@ Building structure cleaners clean the exterior walls, windows, roofs, and other 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
-
 Can advance to cleaning supervisor or project manager, or specialize in areas like high-rise work or stone restoration. Experienced professionals may start their own business to take on commercial cleaning contracts.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance to cleaning supervisor or project manager, or specialize in areas li
 | Subclass EU Blue Card (EU Blue Card) | Not applicable, as this occupation typically does not meet high-skill requirements. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, this occupation is not on the skilled occupation list. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply for a General Employment Permit, but this occupation is not on the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-structure-cleaner/IE)**

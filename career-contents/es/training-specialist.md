@@ -51,8 +51,6 @@ Training specialists are responsible for designing and implementing employee tra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of training specialists will be significantly reshaped by AI: standard content generation and administrative tasks will be automated, but areas that rely on human judgment—such as personalized training design, soft skills development, and effectiveness evaluation—will become more valuable, resulting in overall polarization in the job landscape.
-
 You can advance from training assistant to training manager or human resources manager, or specialize in a specific area such as leadership training or technical training, becoming a senior consultant or independent trainer.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from training assistant to training manager or human resources m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled employees, requiring a university degree and a work contract meeting the salary threshold. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residency requires employer sponsorship and proof that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or high-income professionals, the process is faster. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Promotion to Training Manager, Human Resources Manager, or becoming an indepe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/training-specialist/ES)**

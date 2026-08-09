@@ -1,10 +1,8 @@
-# Junior High School Teacher 职业分析 · 日本
+# 初中教师（Junior High School Teacher）职业分析 · 日本
 
-**职业代码: 193 (JSCO)**
+**职业代码：193 (JSCO)**
 
-A professional who provides subject instruction, student guidance, and class management at junior high schools. Based on the national curriculum guidelines, they play a crucial role in supporting the growth of adolescent students.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在初中提供学科教学、学生指导和班级管理的专业人士。根据国家课程指南，他们在支持青少年学生成长中发挥关键作用。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who provides subject instruction, student guidance, and class man
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (teacher training program) | 4年 | $4,000,000~$5,000,000（For national universities） |
-| Graduate school of education (professional degree) | 2 年 | $2,000,000~$3,000,000（Optional, costs vary by university） |
+| 大学（教师培训课程） | 4年 | $4,000,000~$5,000,000（适用于国立大学） |
+| 教育研究生院（专业学位） | 2 年 | $2,000,000~$3,000,000（可选，各大学费用不同） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who provides subject instruction, student guidance, and class man
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Junior High School Teaching Certificate (First Class) | Ministry of Education, Culture, Sports, Science and Technology (Prefectural Board of Education) | 必备 | Required per subject; completion of designated credits at university |
-| Junior High School Teaching Certificate (Advanced Class) | Ministry of Education, Culture, Sports, Science and Technology (Prefectural Board of Education) | 可选 | Master's level; advantageous for administrative roles |
+| 初中教师资格证（一级） | 文部科学省（都道府县教育委员会） | 必备 | 按科目要求；在大学完成指定学分 |
+| 初中教学证书（高级班） | 文部科学省（都道府县教育委员会） | 可选 | 硕士水平；对行政职位有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Demand for teachers is declining due to a decreasing student population from low birth rates, but hiring numbers are expected to remain high due to replenishing the retiring baby boomer generation and increased demand for special needs education.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于低出生率导致学生人数减少，教师需求正在下降，但预计招聘人数仍将保持高位，因为需要补充退休的婴儿潮一代并增加特殊教育需求。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,91 +38,84 @@ A professional who provides subject instruction, student guidance, and class man
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$4,500,000 | Based on prefectural board of education salary schedule |
-| Mid-career (10-15 years) | $5,500,000~$7,500,000 | Including head teacher allowance, etc. |
-| Veteran (20+ years) | $7,000,000~$9,000,000 | Additional allowances for administrative roles like vice principal |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 基于都道府县教育委员会薪资表 |
+| 职业中期（10-15年） | $5,500,000~$7,500,000 | 包括班主任津贴等 |
+| 资深从业者（20年以上） | $7,000,000~$9,000,000 | 副校长等行政岗位的额外津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI streamlines class preparation, grading, and individualized learning support, but many tasks like student guidance and interpersonal care require human touch. It reduces teacher burden and improves education quality, but full replacement is difficult.
+AI简化了备课、评分和个性化学习支持，但许多任务如学生指导和人际关怀需要人情味。它减轻了教师负担并提高了教育质量，但完全替代很难。
 
-Generally, career paths include moving into administrative roles such as vice principal and principal, or developing as subject specialists. The teacher license renewal system has been abolished, but ongoing training continues.
+一般而言，职业发展路径包括晋升为副校长和校长等行政职务，或发展为学科专家。教师执照更新制度已废除，但持续培训仍在进行。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Lesson material creation
-- Grading and data aggregation
-- Routine Q&A handling
+- 课程材料制作
+- 评分与数据聚合
+- 常规问答处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individual learning plan design
-- Visualizing student progress
-- Data analysis for lesson improvement
+- 个性化学习计划设计
+- 可视化学生进度
+- 用于课程改进的数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Interpersonal skills
-- Conveying values
-- Fostering non-cognitive skills
+- 同理心
+- 人际交往能力
+- 传达价值观
+- 培养非认知技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ICT teaching skills
-- Data literacy
-- Curriculum management
-- Special needs education knowledge
+- ICT教学技能
+- 数据素养
+- 课程管理
+- 特殊教育知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Special Needs Education
-- English Education
-- ICT Utilization Guidance
-- Student Guidance
+- 特殊需求教育
+- 英语教育
+- ICT利用指导
+- 学生指导
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Foreign teachers may work under this status of residence when employed. Usually for universities or language schools, rare at junior high schools. |
-| Subclass 教育 (Education) | Residence status for foreign teachers teaching at elementary, junior high, and high schools. However, it is rarely obtained as a regular teacher; mainly targets ALTs etc. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who enjoy engaging with children
-- Those capable of multitasking and handling multiple tasks simultaneously
-- Those who are patient and can collaborate in a team
+- 喜欢与儿童互动的人
+- 能够同时处理多项任务的人
+- 耐心且能团队合作的人
 
 **谁不适合**
-- Those seeking short-term results
-- Those who want to avoid overtime and taking work home
+- 寻求短期成果的人
+- 希望避免加班和带工作回家的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a junior high school teacher?**
-答：It is said to be about 4 million yen in their 20s and about 7 million yen in their 40s, but varies by prefecture and allowances.
+**问：初中教师平均年收入是多少？**
+答：据说20多岁约400万日元，40多岁约700万日元，但视都道府县和津贴而异。
 
-**问：What visa do foreigners need to become junior high school teachers?**
-答：It is extremely difficult to be hired as a regular teacher. An education visa or Engineer/Specialist in Humanities/International Services visa is assumed, but Japanese proficiency and a teaching license are required.
+**问：外国人成为初中教师需要什么签证？**
+答：成为正式教师极其困难。假设持有教育签证或人文/国际服务领域的工程师/专家签证，但需要日语能力和教师资格证。
 
 
 ---
@@ -142,12 +133,12 @@ Generally, career paths include moving into administrative roles such as vice pr
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/junior-high-school-teacher/JP)**

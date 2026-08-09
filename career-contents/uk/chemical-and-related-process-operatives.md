@@ -51,8 +51,6 @@ Operate processing equipment for chemical and related materials, produce synthet
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on chemical operators is mixed: repetitive monitoring and data collection tasks are automated, but process optimisation, anomaly handling, and compliance operations enhance human capabilities. Entry-level positions will decrease, but existing staff need to improve data analysis skills.
-
 Junior operators can advance to senior operators, team leaders, or production supervisors; some transition to quality control or process engineering roles through training.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior operators can advance to senior operators, team leaders, or production su
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, this occupation is on the eligible occupation list for the Skilled Worke
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-and-related-process-operatives/UK)**

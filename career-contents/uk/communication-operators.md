@@ -51,8 +51,6 @@ Communications operators operate telecommunications equipment to transmit and re
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of communication operators is semi-structured; AI automation will take over routine tasks such as signal monitoring and fault location, but maintenance decisions and emergency response still rely on humans, leading to a mixed outlook overall.
-
 Start with basic signal monitoring, can advance to network operations manager or move into telecom engineering or wireless communications roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Start with basic signal monitoring, can advance to network operations manager or
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, but requires employer sponsorship. This occupation is on the skilled wor
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/communication-operators/UK)**

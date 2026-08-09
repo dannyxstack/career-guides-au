@@ -51,8 +51,6 @@ Perform light cleaning tasks in hotels, hospitals, or private residences, such a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-maids and housekeeping cleaners face automation risks; automated equipment and robots will take over many repetitive cleaning tasks, reducing job numbers, but high-end custom cleaning services will still require humans.
-
 Usually starts with informal work experience, no formal education required. Can advance to team leader or supervisor, or move to other cleaning service management roles. Some take over cleaning businesses or start their own after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually starts with informal work experience, no formal education required. Can 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to housekeeping team leader, supervisor, or assistant manager. Ma
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maids-and-housekeeping-cleaners/US)**

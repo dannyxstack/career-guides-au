@@ -4,8 +4,6 @@
 
 Taking orders, serving, and handling payments at food service counters, common in fast-food restaurants, cafes, and canteens. Duties include preparing simple food, cleaning, and maintaining counter areas.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Taking orders, serving, and handling payments at food service counters, common i
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of food service counter attendants is highly repetitive; AI automation and self-service ordering systems will significantly reduce job demand, narrowing entry-level opportunities, but human interaction still provides some buffer.
-
 Entry-level positions can advance to supervisor or store manager, or transition to food and beverage management or hospitality. With experience, can apply for higher-level food service positions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Entry-level positions can advance to supervisor or store manager, or transition 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Available for high-skilled migration, but this occupation usually does not meet the salary threshold (2024 minimum annual salary approx. €5,008) |
-| Subclass Orientation Year (Orientation Year) | Non-EU graduates can seek work in the Netherlands for one year, but opportunities in this occupation are limited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Very difficult. This occupation does not meet the high-skilled immigration sa
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-service-counter-attendant/NL)**

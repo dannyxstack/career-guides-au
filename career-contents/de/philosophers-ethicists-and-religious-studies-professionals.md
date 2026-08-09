@@ -51,8 +51,6 @@ In Germany, philosophy, religion, and ethics professionals mainly work in educat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Philosophy, religion, and ethics professionals face significant AI compression, as automation can replace routine knowledge work such as literature analysis and ethical framework generation, reducing entry-level positions, but high-level decision-making still requires humans.
-
 Common path: PhD research → postdoc/lecturer → professor. In applied ethics (e.g., medical ethics, business ethics), one can also enter corporate or NGO roles as an ethics consultant, but the career progression is less clear than in academia.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Common path: PhD research → postdoc/lecturer → professor. In applied ethics 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Typically requires a German high school diploma or equivalent; non-EU student
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/philosophers-ethicists-and-religious-studies-professionals/DE)**

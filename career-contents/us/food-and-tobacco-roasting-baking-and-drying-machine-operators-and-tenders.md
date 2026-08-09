@@ -53,8 +53,6 @@ Operate or monitor food or tobacco roasting, baking, and drying equipment, inclu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
-
 Starting as an operator, one can advance to production line supervisor or quality control technician with experience. Some move into equipment maintenance or food process development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as an operator, one can advance to production line supervisor or qualit
 | Subclass H-1B (H-1B Specialty Occupations) | Typically not applicable, as this occupation does not meet professional position requirements. |
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Rarely used, requires PERM labor certification, but employers struggle to prove shortage. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Demand is stable but growing slowly; automation may reduce positions. Experie
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-tobacco-roasting-baking-and-drying-machine-operators-and-tenders/US)**

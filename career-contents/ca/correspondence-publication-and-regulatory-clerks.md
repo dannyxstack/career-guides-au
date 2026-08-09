@@ -53,8 +53,6 @@ Correspondence, publishing, and regulatory affairs clerks handle correspondence,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will largely take over routine tasks like document processing and compliance checks, but regulatory interpretation, client communication, and complex judgment still require humans; the task structure is a mixed bag.
-
 Junior clerks can advance to senior clerk or supervisory roles through experience, and some may transition to specialist regulatory affairs or publishing coordination positions. Obtaining relevant diplomas or certificates helps progress to management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior clerks can advance to senior clerk or supervisory roles through experienc
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Not very suitable. This is a low-skilled administrative role, generally not m
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correspondence-publication-and-regulatory-clerks/CA)**

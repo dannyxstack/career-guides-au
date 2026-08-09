@@ -4,8 +4,6 @@
 
 Kindergarten teachers educate young children, fostering basic life skills and social development. This profession requires a license from MEXT, distinct from a nursery teacher qualification.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Kindergarten teachers educate young children, fostering basic life skills and so
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-It is unlikely that AI and robots will significantly replace kindergarten teachers' duties, but automation of clerical tasks such as record-keeping, contact book creation, and material preparation will likely advance. Meanwhile, face-to-face instruction tailored to children's emotions and development can only be done by humans, and AI will likely be used as a supplementary tool.
-
 After obtaining a kindergarten teaching license, one can work at a school and advance to head teacher, vice principal, or principal. Enhanced collaboration with certified kodomoen and elementary schools is also progressing.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After obtaining a kindergarten teaching license, one can work at a school and ad
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | The residence status required for foreigners to work as kindergarten teachers. A university degree or relevant work experience is necessary. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving, Food Services, etc.)) | Kindergarten teachers are not covered by the Specified Skilled Worker status. Although childcare workers are covered under the caregiving field, kindergartens are not eligible. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +133,12 @@ A: Possible, but you would need to additionally obtain an elementary school teac
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kindergarten-teacher/JP)**

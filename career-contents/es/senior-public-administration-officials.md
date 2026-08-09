@@ -4,8 +4,6 @@
 
 Senior civil servants responsible for planning, guiding, and implementing government policies, leading government departments or public institutions, formulating strategies, and managing public affairs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Senior civil servants responsible for planning, guiding, and implementing govern
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The decision-making and leadership of senior public administration officials are not easily replaced, but tasks such as data analysis and document writing will be significantly automated by AI, shifting the core of the job toward strategic and political judgment.
-
 Promotion paths usually start as administrative officers or technical experts, and through internal appointments or political appointments, advance to senior positions such as department heads, secretaries-general, or director-general. Long-term public service experience and management skills are required.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Promotion paths usually start as administrative officers or technical experts, a
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Highly Skilled Professional)) | You must obtain a work contract with a Spanish public institution and apply through the highly skilled professional program, but public administration positions are usually limited to EU citizens or residents. |
-| Subclass Tarjeta azul UE (EU Blue Card) | In theory, this applies to senior technical positions, but public administration management positions are generally not open to third-country citizens unless special agreements are granted. |
-| Subclass Búsqueda de empleo (Job Search Visa) | Those with higher education can apply for a job-seeking visa, but public administration positions require passing a national selection exam, and opportunities for non-EU citizens are extremely limited. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Almost impossible. Such positions usually require Spanish nationality or EU c
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-public-administration-officials/ES)**

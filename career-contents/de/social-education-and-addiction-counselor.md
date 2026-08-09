@@ -54,8 +54,6 @@ Professionals engaged in social education, youth support, and addiction counseli
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI primarily replaces document writing and basic information retrieval tasks, but deep empathy, crisis intervention, and personalized rehabilitation plan design are hard to automate. Entry-level positions have been slightly reduced due to widespread AI tools.
-
 can progress from entry-level counselor to team leader, project manager, or agency management, or become a psychotherapist or specialist consultant through further education.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ can progress from entry-level counselor to team leader, project manager, or agen
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires qualification verification, work contract, and German B1 or above. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based jobseeker visa, allows job search in Germany for up to 1 year. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must be assessed by a German credential evaluation body (e.g., Anabin). Typic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-education-and-addiction-counselor/DE)**

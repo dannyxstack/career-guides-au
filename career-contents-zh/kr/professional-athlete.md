@@ -1,10 +1,8 @@
 # 职业运动员（Professional Athlete）职业分析 · 韩国
 
-**职业代码: 42021 (KECO)**
+**职业代码：42021 (KECO)**
 
-A professional athlete who earns income by playing in games as a member of a pro sports team and competes in league events by sport.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+职业运动员，作为职业运动队成员通过比赛赚取收入，并按运动项目参加联赛赛事。
 
 
 ---
@@ -13,8 +11,8 @@ A professional athlete who earns income by playing in games as a member of a pro
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Sports-related department at a college or university | 3年 | $12,000,000~$24,000,000（Based on tuition, private university standard） |
-| Sports-specialized high school | 3年 | $3,000,000~$6,000,000（Public standard, additional for private） |
+| 大学或学院的体育相关院系 | 3年 | $12,000,000~$24,000,000（基于学费，私立大学标准） |
+| 体育特色高中 | 3年 | $3,000,000~$6,000,000（公共标准，私营额外） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional athlete who earns income by playing in games as a member of a pro
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass pro team tryout | Relevant team | 必备 | Required for pro debut |
-| Level 2 Lifetime Sports Instructor | Korea Sports Promotion Foundation | 可选 | Required if coaching beyond playing |
+| 通过职业队试训 | 相关团队 | 必备 | 职业首秀所需 |
+| 二级终身体育指导员 | 韩国体育振兴公团 | 可选 | 如果教练超出单纯指导则需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 15,000. Korean pro sports are growing, but the number of players is limited by league rosters, so employment is expected to stagnate or increase slightly. Elite-focused recruitment continues.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 15,000。韩国职业体育正在增长，但联盟名册限制球员数量，预计就业将停滞或略有增长。精英选拔仍在继续。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：很高（★★★★★）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -40,88 +38,81 @@ A professional athlete who earns income by playing in games as a member of a pro
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $25,000,000~$50,000,000 | Minimum annual salary, varies greatly by sport and team |
-| 中级 (4-7年) | $50,000,000~$99,999,999 | Based on starting player level |
-| Advanced (8+ years) | $99,999,999 | Top star level |
+| 初级（0-3年） | $25,000,000~$50,000,000 | 最低年薪，因运动和团队差异很大 |
+| 中级 (4-7年) | $50,000,000~$99,999,999 | 基于玩家初始等级 |
+| 高级（8年以上） | $99,999,999 | 顶级明星级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 很低（½☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：很低（½☆☆☆☆）**
 
-AI does not directly replace athletes' skills, but its use in training analysis, game strategy, injury prediction, etc., is enhancing player performance.
+AI不直接取代运动员的技能，但用于训练分析、比赛策略、伤病预测等，正在提升运动员表现。
 
-Specialize in a sport from elementary school, join a corporate or pro team, and secure a starting position through competition. After retirement, transition to coaching or commentary.
+从小学开始专攻一项运动，加入企业或职业队伍，通过竞争获得首发位置。退役后转型为教练或评论员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple record-keeping tasks
-- Basic feedback
+- 简单的记录保存任务
+- 基本反馈
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Game video analysis
-- Injury risk assessment
-- Personalized training plans
+- 游戏视频分析
+- 伤害风险评估
+- 个性化培训计划
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative play
-- Advanced physical control
+- 创意游戏
+- 高级物理控制
 - 团队协作与领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Sports data analysis
-- Understanding exercise physiology
-- Using AI tools
+- 体育数据分析
+- 理解运动生理学
+- 使用人工智能工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Professional sports
-- E-sports
-- Sports marketing
-- Sports science
+- 职业体育
+- 电子竞技
+- 体育营销
+- 体育科学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-6 (Artistic and Performance Visa (E-6)) | Foreign athlete work visa, requires invitation from a pro team |
-| Subclass F-2 (Residence Visa (F-2)) | Long-term residency possible |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Excellent physical strength and competitiveness
-- Personality that follows training and discipline well
-- Person with high teamwork and focus
+- 出色的体力和竞争力
+- 遵循培训与纪律的性格
+- 团队合作和专注力强的人
 
 **谁不适合**
-- Someone unable to risk injury
-- Someone who wants immediate results
+- 无法承受受伤风险的人
+- 追求立竿见影效果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a professional athlete?**
-答：Varies greatly by sport and league; entry-level is KRW 20-50 million, star-level is over hundreds of millions.
+**问：职业运动员的平均薪资是多少？**
+答：因运动和联赛差异很大；入门级2000万-5000万韩元，明星级数亿韩元以上。
 
-**问：What visa does a foreigner need to work as an athlete in Korea?**
-答：E-6 (Arts and Entertainment) visa is required, along with an invitation from a Korean team and KOC approval.
+**问：外国人在韩国担任运动员需要什么签证？**
+答：需要E-6（艺术与娱乐）签证，并需韩国团队邀请及KOC批准。
 
 
 ---
@@ -139,12 +130,12 @@ Specialize in a sport from elementary school, join a corporate or pro team, and 
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 很低（½☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/professional-athlete/KR)**

@@ -4,8 +4,6 @@
 
 A specialized technical role that inspects, maintains, and repairs helicopter airframes, engines, rotors, and avionics to ensure safe operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized technical role that inspects, maintains, and repairs helicopter ai
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace some diagnostic and data analysis tasks, but since skilled human hands are essential for actual maintenance and repair work, the job itself has low replaceability.
-
 After obtaining an Aircraft Maintenance Engineer license (rating), promotion to senior or lead mechanic is possible based on experience. In addition to internal promotions at airlines or MROs, obtaining a medium or higher rating allows transfer to major airlines.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After obtaining an Aircraft Maintenance Engineer license (rating), promotion to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible as professional in aircraft maintenance field, employer recommendation required |
-| Subclass E-9 (Non-professional Employment) | Classified as non-professional field, thus unsuitable |
-| Subclass F-2 (Residence) | Possible for long-term stay, but technician certification must be obtained first |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Demand for helicopters is steady, but the scale of new hiring is small, so co
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helicopter-maintenance-technician/KR)**

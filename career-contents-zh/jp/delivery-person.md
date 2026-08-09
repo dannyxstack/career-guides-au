@@ -1,10 +1,8 @@
-# Delivery Person 职业分析 · 日本
+# 配送员（Delivery Person）职业分析 · 日本
 
-**职业代码: 705 (JSCO)**
+**职业代码：705 (JSCO)**
 
-A job that delivers orders from restaurants and retail stores to customers by motorcycle or bicycle; demand has surged in recent years.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+通过摩托车或自行车从餐厅和零售店向客户配送订单的工作；近年来需求激增。
 
 
 ---
@@ -13,8 +11,8 @@ A job that delivers orders from restaurants and retail stores to customers by mo
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 9年 | $0~$0（No educational background required） |
-| Driver's License | 1个月 | $100,000~$300,000（moped license: tens of thousands of yen; regular license: 100,000–300,000 yen） |
+| 义务教育 | 9年 | $0~$0（无学历要求） |
+| 驾驶执照 | 1个月 | $100,000~$300,000（轻便摩托车驾照：数万日元；普通驾照：10万-30万日元） |
 
 ---
 
@@ -22,18 +20,18 @@ A job that delivers orders from restaurants and retail stores to customers by mo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Regular Automobile License | Public Safety Commission | 可选 | Required for four-wheeled delivery |
-| Moped License | Public Safety Commission | 可选 | Required for moped delivery |
-| Large Motorcycle License | Public Safety Commission | 可选 | Advantageous when delivering on large motorcycles |
+| 普通汽车驾照 | 公共安全委员会 | 可选 | 四轮配送所需 |
+| 轻便摩托车驾照 | 公共安全委员会 | 可选 | 踏板车送货必备 |
+| 大型摩托车驾照 | 公共安全委员会 | 可选 | 驾驶大型摩托车时有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 280,000. Demand is increasing due to the expansion of EC and food delivery markets. Barriers to entry are low, but there is a medium-to-long-term risk of decline with the introduction of AI and drone delivery.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 280,000。由于电商和外卖市场扩张，需求增加。入行门槛低，但中长期可能因AI和无人机配送引入而面临下降风险。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A job that delivers orders from restaurants and retail stores to customers by mo
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,200,000~$3,500,000 | Hourly or commission-based pay possible |
-| Intermediate (3–5 years) | $3,500,000~$4,500,000 | Has stable delivery routes |
-| Advanced (5+ years) | $4,000,000~$5,500,000 | Increased income as leader or independent |
+| Beginner (0–3 years) | $2,200,000~$3,500,000 | 可能按小时或佣金支付 |
+| 中级（3-5年） | $3,500,000~$4,500,000 | 拥有稳定的配送路线 |
+| 高级（5年以上） | $4,000,000~$5,500,000 | 作为领导或独立时收入增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the practical application of autonomous delivery vehicles and drones, short-distance delivery tasks are expected to be gradually replaced. However, complex urban areas and customer-facing situations will still require humans for the time being.
+随着自动驾驶配送车辆和无人机的实际应用，短途配送任务预计逐渐被取代。但复杂城市区域和客户面对面的情况仍需要人类。
 
-Can start with no experience. With experience, can become a delivery leader or manager. Also possible to start an independent business or change careers to logistics/transportation.
+无经验可入门。有经验后可成为配送负责人或经理。也可自主创业或转行至物流/运输业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Route delivery
-- Simple pickup and delivery tasks
-- In-warehouse movement
+- 路线配送
+- 简单的取货和送货任务
+- 仓库内移动
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Delivery route optimization (AI route suggestions)
-- Customer interaction (AI translation, chatbots)
-- Real-time delivery status management
+- 配送路线优化（AI路线建议）
+- 客户互动（AI翻译、聊天机器人）
+- 实时配送状态管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible response
-- Judgment in complex traffic situations
-- Interpersonal service
+- 灵活应对
+- 复杂交通情况下的判断
+- 人际服务
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operations management
-- Logistics system knowledge
-- Customer service
+- 运营管理
+- 物流系统知识
+- 客户服务
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Food delivery
-- Last mile
-- Same-day delivery
-- E-commerce logistics
+- 外卖配送
+- 最后一公里
+- 当日送达
+- 电商物流
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing, etc.)) | Target industries are limited. Delivery personnel are not covered by Specified Skilled Worker, so need to obtain in other occupations. |
-| Subclass 技能実習 (Technical Intern Training (Transportation/Warehousing, etc.)) | Delivery is not covered by Technical Intern Training, but may be possible in related duties. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Only possible for work requiring advanced knowledge. Simple delivery is not allowed. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People who enjoy cycling or riding motorcycles
-- People who are not time-lax
+- 体力充沛的人
+- 喜欢骑行或骑摩托车的人
+- 不拖延时间的人
 
 **谁不适合**
-- People who want to work quietly
-- People who dislike jobs affected by weather
+- 希望安静工作的人
+- 不喜欢受天气影响工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a delivery driver?**
-答：For full-time work, annual income is around 2.5–3.5 million yen. With commission, monthly income can exceed 400,000 yen during busy periods, but is unstable.
+**问：送货司机的平均年收入是多少？**
+答：全职工作年收入约250-350万日元。加提成后，旺季月收入可超40万日元，但不稳定。
 
-**问：What visa is needed to work in Japan as a delivery driver?**
-答：Currently, simple delivery tasks are not covered by residence status; work requires advanced fields like Engineer/Specialist in Humanities/International Services.
+**问：在日本当送货司机需要什么签证？**
+答：目前，简单配送任务不属于在留资格范围；工作需要高级领域，如工程师/人文知识/国际服务专家。
 
-**问：Can delivery workers advance their careers?**
-答：It is possible to become a delivery manager, logistics company operations manager, or start your own business. Obtaining qualifications (e.g., operations manager) is advantageous.
+**问：配送员能晋升职业吗？**
+答：可以成为配送经理、物流公司运营经理或创业。获得资格（如运营经理）有优势。
 
 
 ---
@@ -145,12 +135,12 @@ Can start with no experience. With experience, can become a delivery leader or m
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/delivery-person/JP)**

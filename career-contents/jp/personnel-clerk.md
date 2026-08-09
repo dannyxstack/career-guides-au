@@ -51,8 +51,6 @@ An administrative role handling general HR tasks such as recruiting, payroll, at
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI is advancing HR data analysis and payroll automation, but tasks requiring human judgment like employee interviews and labor issue coordination remain, and skills to leverage AI are needed. As a result, HR roles are expanding and strengthening.
-
 Many start as general clerks, advancing to HR chief, section manager, and HR director with experience. Specialization can lead to a career as an HR/labor consultant.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Many start as general clerks, advancing to HR chief, section manager, and HR dir
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | HR work falls under 'Humanities'. Requires university degree or work experience. |
-| Subclass 特定活動（EPA） (Designated Activities (Foreign nurses/care workers under EPA)) | EPA-based personnel acceptance; not directly HR, but possible in related departments |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | HR work not eligible; may be indirectly involved in clerical support. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: Obtaining a Social Insurance Labor Consultant qualification or specializing i
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-clerk/JP)**

@@ -51,8 +51,6 @@ Responsible for inspecting buildings, metering, electrical, gas, water supply, e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Most of the documentation and on-site inspection tasks of standards and regulations inspectors can be automated by AI, leading to a significant reduction in job demand, but legal authorization and on-site judgment still require human roles.
-
 Junior inspectors can advance to senior inspectors or supervisors through experience, and some may move into policy-making or management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior inspectors can advance to senior inspectors or supervisors through experi
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for inspector positions with employer sponsorship, meeting salary and skill requirements. |
 | Subclass Graduate (Graduate Visa) | Allows graduates to work in the UK for 2-3 years, then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires a relevant degree (e.g., engineering, environmental science)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inspectors-of-standards-and-regulations/UK)**

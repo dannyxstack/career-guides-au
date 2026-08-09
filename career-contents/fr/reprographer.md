@@ -4,8 +4,6 @@
 
 Responsible for operating copying, printing, and binding equipment, and providing document duplication, digitization, and post-processing services.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating copying, printing, and binding equipment, and providin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core tasks of copy technicians (scanning, printing, binding) are being rapidly replaced by automated and digital processes, significantly shrinking positions. Without transforming into digital printing and design, their survival space will shrink dramatically.
-
 You can be promoted from junior operator to team leader or digital printing expert, or transition to digital archive management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted from junior operator to team leader or digital printing expe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires a French employer sponsorship, salary not less than SMIC (about 21,000 euros/year), and proof of priority recruitment for EU citizens. |
-| Subclass Passeport Talent (Talent Passport) | Requires high skills or special background (e.g., talent program), salary requirement high (usually ≥€53,000/year), not applicable for copy technicians. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Demand has declined due to digitalization, but stable positions remain in dig
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reprographer/FR)**

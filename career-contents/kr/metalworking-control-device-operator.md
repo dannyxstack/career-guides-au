@@ -4,8 +4,6 @@
 
 This is a skilled worker who operates CNC lathes, milling machines, and other numerical control devices for metalworking to produce parts.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ This is a skilled worker who operates CNC lathes, milling machines, and other nu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are replacing simple data input and tool change tasks, but precision machining and error handling still rely on human technicians.
-
 Starting as an entry-level operator, one can advance to skilled worker, shift leader, or process manager; mastering multi-axis machining leads to higher wages.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as an entry-level operator, one can advance to skilled worker, shift le
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Skilled Technician (E-7-1) or General Machinery Field Possible |
-| Subclass E-9 (Non-professional Employment) | Non-professional workers possible but limited |
-| Subclass F-2 (Residence) | Can be converted upon meeting certain skill level and stay duration |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: CNC lathe/milling technician certification is required; having a mechanical m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-control-device-operator/KR)**

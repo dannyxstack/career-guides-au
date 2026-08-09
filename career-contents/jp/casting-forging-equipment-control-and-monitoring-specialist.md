@@ -52,8 +52,6 @@ A professional who controls and monitors casting and forging equipment to manage
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Automation using AI and robots is advancing, reducing simple monitoring tasks. However, complex quality judgment and equipment troubleshooting remain human roles. AI is used supplementarily; full replacement is difficult, but headcount is expected to decrease.
-
 Advance through skill certification and experience to team leader or chief, with further paths to equipment design and production management. AI and robot integration are raising the complexity of monitoring tasks, requiring digital skills.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Advance through skill certification and experience to team leader or chief, with
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Usable in 3 manufacturing fields. Requires skill test and Japanese N4 or higher. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of practical experience. As a casting/forging engineer. |
-| Subclass 技能 (Skilled Labor (Technical Skills)) | Requires 10+ years of practical experience in casting/forging. Limited fields like Japanese cuisine; casting/forging may not qualify. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: Certification as Casting Technician or Forging Technician is effective. Knowl
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/casting-forging-equipment-control-and-monitoring-specialist/JP)**

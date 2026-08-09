@@ -52,8 +52,6 @@ Fire safety engineers in Canada design fire protection systems, conduct fire ris
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on fire safety engineers is mixed: routine document review and basic risk assessment can be automated, but on-site decision-making, compliance responsibility, and human factor judgment remain core human barriers.
-
 Junior fire protection engineers (EIT) can gain experience and obtain a Professional Engineer (P.Eng.) license, then advance to senior engineer, project manager, or fire consultant. Some transition to government regulation or insurance risk assessment.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior fire protection engineers (EIT) can gain experience and obtain a Professi
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for engineers in Ontario, BC, Alberta, etc., offering points or direct nomination |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship immigration, suitable for applicants with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: STEM occupation with high CRS points advantage in EE, but requires IELTS CLB 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-professional-engineers-nec/CA)**

@@ -51,8 +51,6 @@ Musical instrument makers and tuners manufacture, repair, and tune various instr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on musical instrument makers and tuners is mixed: automated tuning tools replace some tuning work, but demand for custom handcrafting and complex repairs is increasing, core reliance on auditory aesthetics and tactile skills provides a strong moat.
-
 Career progression typically starts with an apprenticeship or graduation from a professional music conservatory, gradually gaining experience to become an independent technician. Experienced professionals can open their own studios or work in large instrument companies as senior technicians or managers.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career progression typically starts with an apprenticeship or graduation from a 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers requiring employer sponsorship, annual salary threshold approx. €5,331/month (2025) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education backgrounds with salary meeting the threshold (approx. €58,800/year), enabling accelerated permanent residency |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch or foreign universities can obtain a one-year residence permit to find a job |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: No mandatory license required, but holding a vocational education diploma or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musical-instrument-maker-and-tuner/NL)**

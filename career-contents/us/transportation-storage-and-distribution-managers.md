@@ -52,8 +52,6 @@ Plan, direct or coordinate transportation, warehousing or distribution activitie
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
-
 Typically promoted from logistics coordinator, warehouse supervisor, or transport dispatcher; with experience, can advance to logistics director or supply chain VP, or switch to consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically promoted from logistics coordinator, warehouse supervisor, or transpor
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Requires bachelor's or equivalent experience, via PERM labor certification |
 | Subclass L-1A (Intracompany Transferee Executive or Manager) | Multinational executive or manager transfer, applicable for internal promotion |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires accumulating multi-field logistics experience, obtaining pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-storage-and-distribution-managers/US)**

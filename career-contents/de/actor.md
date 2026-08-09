@@ -54,8 +54,6 @@ Actors interpret roles on stage, film, television, or radio, conveying emotions 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The creative core of actors is not easily replaced by AI, but AI is penetrating areas such as auditions, supporting role generation, and background performances, increasing competitive pressure; meanwhile, AI tools can assist content creation and rehearsal, requiring proactive adoption of technology.
-
 Actors usually start in supporting or minor roles, gaining experience and connections before moving to lead or more significant roles. Some actors transition to directing, writing, or teaching acting. Professional training and continuous education help improve competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Actors usually start in supporting or minor roles, gaining experience and connec
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically start with supporting roles and gradually pursue lead roles. Many a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/DE)**

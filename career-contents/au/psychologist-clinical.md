@@ -56,8 +56,6 @@ Psychologists (especially clinical psychologists) provide psychological assessme
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
-
 Demand for mental health services in Australia continues to surge (wait times have grown from 2 weeks to over 6 months), and there is a severe nationwide shortage of clinical psychologists. Post-COVID, telehealth has become a mainstream service model, significantly expanding the reach of psychologists.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Demand for mental health services in Australia continues to surge (wait times ha
 | Subclass 190 (Skilled Nominated) | State nomination, mental health shortage actively nominated across all states |
 | Subclass 491 (Skilled Work Regional) | Psychologists are in acute shortage in regional areas – 15 bonus points, actively nominated by multiple states |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both are MLTSSL shortage occupations. Psychologists earn higher salaries ($11
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychologist-clinical/AU)**

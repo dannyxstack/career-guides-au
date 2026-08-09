@@ -52,8 +52,6 @@ Canadian police are responsible for law enforcement, crime prevention, investiga
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
-
 Start as patrol officer, can advance to detective, sergeant, or specialized units (e.g., cybercrime). Requires experience and internal exams; some roles need university degree.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as patrol officer, can advance to detective, sergeant, or specialized unit
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for designated police occupations, such as in Ontario and BC |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, requires employer support |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not directly recognized. Requires training at a Canadian police academy and p
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officers-except-commissioned/CA)**

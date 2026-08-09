@@ -52,8 +52,6 @@ Dental therapists focus on children and adolescents' oral health, performing pre
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
-
 Can progress from junior therapist to senior therapist, clinical supervisor, or oral health coordinator, and may further study to become a dentist or public health specialist.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior therapist to senior therapist, clinical supervisor, or 
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored work visa then transitioning to 186 permanent residency |
 | Subclass 491 (Skilled Work Regional Visa) | Remote area work may qualify for DAMA or state sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. After completing an additional degree program (e.g., Bachelor of Dental 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-therapist-411214/AU)**

@@ -52,8 +52,6 @@ EV charging infrastructure engineers are responsible for electrical design, dist
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
-
 Germany's ultra-fast charging and fleet charging have become hot topics, with stations often needing power distribution upgrades and energy storage peak shaving; AI-assisted site selection and load forecasting, core electrical design and compliance are handled by engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Germany's ultra-fast charging and fleet charging have become hot topics, with st
 | Subclass Skilled Worker (Skilled Worker Visa) | Fachkräfte skilled worker visa: recognized qualification + employment contract. |
 | Subclass Opportunity Card (Opportunity card) | Chancenkarte: Points-based job seeker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, eligible for Germany's 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-charging-infrastructure-engineer/DE)**

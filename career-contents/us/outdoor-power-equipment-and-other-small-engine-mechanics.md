@@ -53,8 +53,6 @@ Diagnose, adjust, repair, or overhaul small engines used in lawnmowers, chainsaw
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation and AI may replace some diagnostic and clerical work, but also amplify technician capabilities through enhanced diagnostic tools and remote support; overall risk and opportunity coexist.
-
 Junior technicians can advance to senior technician or team leader through on-the-job training; some experienced individuals can open their own repair shops. Certification in small engine repair helps career development.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Junior technicians can advance to senior technician or team leader through on-th
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Low risk. Although new equipment is becoming more electronic, repair work rel
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/outdoor-power-equipment-and-other-small-engine-mechanics/US)**

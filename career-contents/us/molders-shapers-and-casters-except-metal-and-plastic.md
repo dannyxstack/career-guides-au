@@ -55,8 +55,6 @@ Use materials such as clay, glass, plaster, concrete, and stone to produce food 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automation will compress such roles: computer vision-guided 3D printing and robotic arms can replace most forming processes, reducing demand for manual mold makers.
-
 Starting as an apprentice or assistant, gain skills to advance to senior mold maker, supervisor, or inspector. Some experienced individuals can start their own business or move into niche areas like art ceramics or sculpture.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Starting as an apprentice or assistant, gain skills to advance to senior mold ma
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Job numbers are expected to decline; automation replaces some work, but deman
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/molders-shapers-and-casters-except-metal-and-plastic/US)**

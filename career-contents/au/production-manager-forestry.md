@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing forestry production activitie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Progress from forestry supervisor to production manager, then to regional operations manager or forestry consultant. With field experience, move to corporate sustainability management or government forestry policy roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from forestry supervisor to production manager, then to regional operat
 | Subclass 186 (Employer Nomination Scheme) | Permanent residence requires employer nomination and skill assessment |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state sponsorship, must be on the occupation list and nominated by the state government |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Demand is stable and driven by sustainable forestry and carbon sequestration,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-manager-forestry/AU)**

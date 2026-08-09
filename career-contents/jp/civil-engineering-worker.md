@@ -52,8 +52,6 @@ On-site skilled worker who constructs and maintains social infrastructure such a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will streamline surveying and design, but manual labor and situational judgment on site are hard to replace. Skilled craftsmanship retains value.
-
 Can advance to site supervisor or construction management engineer by building skills. Obtaining qualifications opens doors to salary increases and management positions. Many become independent contractors.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Can advance to site supervisor or construction management engineer by building s
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i) (Construction)) | Specified Skilled Worker in construction. Requires skill test and JLPT N4 or higher. Residency up to 5 years. |
-| Subclass 技能（建設） (Skilled Labor (Construction)) | Requires 10+ years of practical experience. Residency: 1, 3, or 5 years. Eligible for permanent residency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For civil engineers with university degree or higher. Specialized tasks like design and construction management. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +137,12 @@ A: Civil Engineering Construction Management Engineer (Class 1 & 2) is most impo
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-worker/JP)**

@@ -53,8 +53,6 @@ Surgical/medical technical assistants assist doctors in operating medical equipm
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
-
 Can advance from assistant to senior technician, department supervisor, or medical equipment trainer. Through continuing education, can transition to medical technology management or R&D roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from assistant to senior technician, department supervisor, or medic
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification certification; can apply for a work visa directly in Germany |
 | Subclass Chancenkarte (Chancenkarte) | Points-based opportunity card allowing job search/vocational training in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Opportunities for promotion to senior technician, department supervisor, or m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgical-medical-technology-assistant/DE)**

@@ -52,8 +52,6 @@ Mechanical engineers research, design, develop, manufacture, operate, and mainta
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
-
 Career development typically starts as a junior design engineer, progressing to senior engineer, principal engineer, or engineering manager. It can also pivot to project management, technical specialist, or R&D director. Becoming a Chartered Engineer (CEng) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development typically starts as a junior design engineer, progressing to 
 | Subclass Global Talent (Global Talent visa) | Suitable for individuals with outstanding achievements or potential in engineering; no employer sponsorship required, but must pass assessment by UKRI or the Royal Academy of Engineering. |
 | Subclass Graduate (Graduate visa) | Graduates who have completed a bachelor's or master's degree in the UK can apply, allowing them to work in the UK for 2 years (3 years for PhDs) as a pathway to a skilled worker visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: CEng is not mandatory but significantly aids career advancement, salary incre
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineers-professional/UK)**

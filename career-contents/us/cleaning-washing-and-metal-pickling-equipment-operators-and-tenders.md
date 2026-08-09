@@ -53,8 +53,6 @@ Operate or tend machines to clean products such as barrels, glass, food, coal, p
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation relies heavily on repetitive physical actions and visual inspections, posing a very high risk of replacement by AI and robotic automation. With the spread of smart cleaning equipment and machine vision, the number of positions will significantly decrease; current workers need to transition to equipment maintenance or complex operations.
-
 Usually starts as an operator and can be promoted to production line leader or quality control inspector. A few transition through training to equipment maintenance or higher-level operator positions.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Usually starts as an operator and can be promoted to production line leader or q
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: May advance to production line leader, quality inspector, or equipment mainte
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaning-washing-and-metal-pickling-equipment-operators-and-tenders/US)**

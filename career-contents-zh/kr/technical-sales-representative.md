@@ -1,10 +1,8 @@
-# Technical Sales Representative 职业分析 · 韩国
+# 技术销售代表（Technical Sales Representative）职业分析 · 韩国
 
-**职业代码: 61211 (KECO)**
+**职业代码：61211 (KECO)**
 
-Technical Sales Representatives sell specialized technology products (IT, semiconductors, machinery, etc.) to businesses, analyzing customer technical needs and proposing customized solutions.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+技术销售代表向企业销售专业科技产品（IT、半导体、机械等），分析客户技术需求并提出定制解决方案。
 
 
 ---
@@ -13,8 +11,8 @@ Technical Sales Representatives sell specialized technology products (IT, semico
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$15,000,000（Tuition at national universities） |
-| 学士学位 | 4年 | $18,000,000~$40,000,000（Including tuition at private universities） |
+| 副学士学位 | 2 年 | $8,000,000~$15,000,000（国立大学学费） |
+| 学士学位 | 4年 | $18,000,000~$40,000,000（包括私立大学学费） |
 
 ---
 
@@ -22,17 +20,17 @@ Technical Sales Representatives sell specialized technology products (IT, semico
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Technical Sales Level 2 | Korea Technical Sales Association | 可选 | Not required but advantageous |
-| Computerized Accounting Level 1 | Korean Institute of Certified Public Accountants | 可选 | Certification |
+| 技术销售二级 | 韩国技术销售协会 | 可选 | 非必需但有利 |
+| 计算机化会计一级 | 韩国注册会计师协会 | 可选 | 认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Growth in AI and semiconductor industries is expected to increase demand for high-value technical sales, but demand in mid-to-low price segments may stagnate due to automation and expanded online channels.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。人工智能和半导体行业的增长预计将增加对高价值技术销售的需求，但由于自动化和在线渠道扩展，中低价格区间的需求可能停滞。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,94 +38,86 @@ Technical Sales Representatives sell specialized technology products (IT, semico
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$45,000,000 | Excluding base salary and incentives |
-| 中级（4-7年） | $45,000,000~$70,000,000 | Increases with incentives |
-| 高级（8年+） | $70,000,000~$99,999,999 | Including allowances and performance bonuses |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 不含基本工资和奖金 |
+| 中级（4-7年） | $45,000,000~$70,000,000 | 随激励措施增加 |
+| 高级（8年+） | $70,000,000~$99,999,999 | 包括津贴和绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances data analysis, automated quoting, and CRM management for technical sales representatives, but building customer trust and complex negotiations remain human roles. Overall, AI supplementation is expected to improve efficiency.
+AI为技术销售代表增强了数据分析、自动报价和CRM管理，但建立客户信任和复杂谈判仍由人类负责。总体而言，AI的辅助有望提高效率。
 
-Entry-level Sales Associate → Technical Sales Representative → Senior Sales Representative/Team Lead → Branch Manager/Sales Director; building technical expertise and customer relationships is key to promotion.
+初级销售助理→技术销售代表→高级销售代表/团队领导→分公司经理/销售总监；建立技术专长和客户关系是晋升的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Quotation Preparation
-- Repetitive Customer Data Entry
-- Basic Market Research
+- 简易报价准备
+- 重复性客户数据录入
+- 基础市场调研
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer Data Analysis
-- Customized Solution Proposal
-- Sales Strategy Development
+- 客户数据分析
+- 定制解决方案提案
+- 销售策略制定
 
-**人类护城河:**
+**人类护城河：**
 
-- Customer Trust Relationship
-- In-depth Understanding of Technical Products
-- Complex Negotiation Skills
+- 客户信任关系
+- 对技术产品的深入理解
+- 复杂谈判技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Basic Understanding of AI/ML
-- Presentation
+- 数据分析
+- AI/ML基础了解
+- 演示
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductor
-- AI Solution
-- Eco-friendly Energy
-- Bio
+- 半导体
+- AI解决方案
+- 环保能源
+- 生物
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Available with employer recommendation in specialized technical sales, subject to salary requirements |
-| Subclass F-2 (F-2 (Residence) visa) | Convertible for long-term stay, skilled professional point system applies |
-| Subclass F-4 (Overseas Korean Visa (F-4)) | Business types allowed for overseas Koreans, no separate work permit needed |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent technical knowledge and communication skills
-- Goal-oriented and self-driven individuals
-- People skilled at identifying customer needs
+- 技术知识和沟通能力出色的人
+- 目标导向和自我驱动的人
+- 善于识别客户需求的人才
 
 **谁不适合**
-- People who avoid interpersonal relationships
-- People who prefer static work
+- 回避人际关系的人
+- 偏好静态工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for a technical sales representative?**
-答：Entry-level annual salary 30-45 million KRW, up to 120 million KRW with experience, with performance incentives as a major variable.
+**问：技术销售代表的薪资范围是多少？**
+答：入门年薪3000-4500万韩元，有经验者可达1.2亿韩元，绩效奖金为主要变量。
 
-**问：Can foreigners get a job as a technical sales representative?**
-答：Possible with an E-7 visa, but Korean language skills and technical background are required, along with an employer's recommendation.
+**问：外国人能否担任技术销售代表？**
+答：持有E-7签证可以，但需要韩语能力和技术背景，并需雇主推荐。
 
-**问：What is the outlook for technical sales representatives?**
-答：Demand is increasing in high-value-added industries, but some job changes due to AI are expected.
+**问：技术销售代表的前景如何？**
+答：高附加值行业需求正在增加，但预计AI会导致一些工作变动。
 
 
 ---
@@ -145,12 +135,12 @@ Entry-level Sales Associate → Technical Sales Representative → Senior Sales 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/technical-sales-representative/KR)**

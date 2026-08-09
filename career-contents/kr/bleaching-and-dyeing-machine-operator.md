@@ -4,8 +4,6 @@
 
 As a production worker operating machines that dye or bleach fibers and textiles, mainly working in dyeing and processing plants.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ As a production worker operating machines that dye or bleach fibers and textiles
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI and automation are replacing simple repetitive tasks such as temperature/time control and color matching in dyeing processes, reducing labor demand.
-
 Promotion possible from skilled worker to dyeing technician to production team leader, but career differentiation is small and turnover is frequent.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Promotion possible from skilled worker to dyeing technician to production team l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Targets unskilled foreign workers, partially allowed in dyeing industry |
-| Subclass E-7 (E-7 (Specific Activities)) | Targets skilled foreign workers, possible for dyeing technicians but rare |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: A Dyeing Processing Technician certificate is not mandatory but helpful for e
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bleaching-and-dyeing-machine-operator/KR)**

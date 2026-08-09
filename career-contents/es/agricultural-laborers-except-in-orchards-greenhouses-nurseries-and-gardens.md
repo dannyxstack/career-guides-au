@@ -4,8 +4,6 @@
 
 Manual laborers in Spain engaged in the planting, field management, and harvesting of field crops (such as grains, oilseeds, cotton, etc.), whose work includes sowing, irrigation, fertilizing, weeding, and harvesting, is usually seasonal employment relying on manual or simple machinery.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Manual laborers in Spain engaged in the planting, field management, and harvesti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Farm workers (crops, nurseries, greenhouses) face very high automation replacement risk: repetitive physical tasks (e.g., weeding, picking, sorting) are rapidly covered by agricultural robots and AI vision systems; entry-level positions are shrinking significantly, leaving only irregular or high-precision manual operations
-
 Ordinary agricultural workers can be promoted to agricultural machinery operator, agricultural team leader, or to independently run a small farm. You can also enhance your skills and enter the field of agricultural technology by attending local agricultural training (such as FP Grado Medio en Producción Agroecológica).
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Ordinary agricultural workers can be promoted to agricultural machinery operator
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence sponsored by Spanish employers applies to ordinary agricultural workers, but requires proof that the position cannot be filled by local workers, with a relatively high threshold. |
-| Subclass Temporada/Estacional (Seasonal Work Permit) | The seasonal agricultural work visa is usually valid for 4-9 months and can be renewed. It is suitable for short-term employment but is difficult to convert into long-term residence. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to agricultural machinery operator, agricultural technici
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-laborers-except-in-orchards-greenhouses-nurseries-and-gardens/ES)**

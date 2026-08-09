@@ -53,8 +53,6 @@ Delivery salespeople deliver and sell food, beverages, and other goods to househ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Typically start as a delivery assistant or warehouse worker, gain experience, and then advance to sales supervisor or regional manager; some may transition to logistics or supply chain management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically start as a delivery assistant or warehouse worker, gain experience, an
 | Subclass Skilled Worker (Skilled Worker) | Theoretically meets skilled worker visa requirements, but salary usually falls below the minimum threshold (generally needs over £26,200), and actual sponsorship is rare. |
 | Subclass Graduate (Graduate Visa) | Suitable for recent graduates, allows working in the UK for 2 years, but job skill levels usually do not meet requirements for subsequent skilled worker visa conversion. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Theoretically eligible for skilled worker visa sponsorship, but due to higher
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roundspersons-and-van-salespersons/UK)**

@@ -52,8 +52,6 @@ Responsible for overseeing the installation, maintenance, and optimization of me
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a mechatronics and automation technical supervisor, you are in a mixed position: AI will take over monitoring and scheduling tasks, but system fault diagnosis, cross-team coordination, and strategic optimization still rely on you, and AI tools can amplify your technical decision-making and project management capabilities.
-
 Can progress from senior technician to team leader or department manager, or become an automation engineer or technical specialist through further education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from senior technician to team leader or department manager, or bec
 | Subclass Skilled Worker (Skilled Immigration Act Visa) | For skilled migrants with German-recognized vocational qualifications (e.g., dual vocational training), no salary ceiling. |
 | Subclass Chancenkarte (Opportunity Card) | Issued based on a points system, suitable for qualified job seekers who do not yet have a job offer; can enter the country to seek employment. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from technician to senior technician (Meister), technical special
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-mechatronics-and-automation-technology/DE)**

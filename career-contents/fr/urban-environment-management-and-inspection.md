@@ -4,8 +4,6 @@
 
 Responsible for urban environmental sanitation supervision, pollution control, public space maintenance and compliance inspections, and coordinating municipal services to ensure sustainable urban development.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for urban environmental sanitation supervision, pollution control, p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate data collection and basic compliance checks, but on-site coordination, human judgment, and accountability remain solid; Urban environmental management positions are being strengthened rather than replaced, but entry-level pure inspection positions may be compressed.
-
 Practitioners can be promoted from site inspectors to team supervisors or environmental project managers, accumulating experience and obtaining advanced qualifications. Some personnel may turn to policy consulting or private environmental companies.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Practitioners can be promoted from site inspectors to team supervisors or enviro
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employment by a French municipal or private company requires a work contract and approval from the labor bureau |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, with an annual salary of no less than 36,500 euros |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requiring a high degree of education and an annual salary of at least 53,200 euros (2024 standard) |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You can be promoted to Environmental Services Supervisor, Policy Consultant, 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-environment-management-and-inspection/FR)**

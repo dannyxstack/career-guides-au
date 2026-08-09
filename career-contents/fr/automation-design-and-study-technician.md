@@ -52,8 +52,6 @@ Responsible for the design, research, and technical implementation of industrial
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation design and research technician positions have been significantly enhanced by AI, but some core design tasks face automation risks. The entry threshold has risen, requiring mastery of AI tools, while physical debugging and system integration remain solid.
-
 You can be promoted to automation project lead, system architect, or transition to Industry 4.0 consulting and integration.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted to automation project lead, system architect, or transition 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to higher education holders, annual salary must meet the threshold (about €53k) |
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requiring master's degree or higher or high salary (approx. €42k+) |
-| Subclass Salarié (Employee Visa) | Employer sponsorship, which must be approved by the French Labor Department |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Academic credentials must be verified through ENIC-NARIC, proving they are eq
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automation-design-and-study-technician/FR)**

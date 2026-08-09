@@ -51,8 +51,6 @@ Retail and wholesale sales supervisors oversee operations, directly manage and c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Usually start as a sales assistant, gain experience to become sales supervisor, then develop into store manager, regional manager, or retail operations director.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as a sales assistant, gain experience to become sales supervisor, 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can be promoted to store manager, regional manager, or retail operations dire
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-supervisors-retail-and-wholesale/UK)**

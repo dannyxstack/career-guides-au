@@ -55,8 +55,6 @@ University lecturers are responsible for undergraduate and postgraduate teaching
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Australian universities face a structural issue with an excessively high proportion of casual and sessional teaching staff, and competition for continuing/ongoing full-time positions is intense. AI-assisted teaching and the expansion of online courses are impacting traditional teaching models, but research output and research-focused academic positions continue to grow.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australian universities face a structural issue with an excessively high proport
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 | Subclass 491 (Skilled Work Regional) | Regional university (Armidale/Wagga Wagga etc.), +15 points |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: The migration pathway for primary and secondary school teachers is more certa
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-lecturer-academic/AU)**

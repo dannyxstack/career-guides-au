@@ -51,8 +51,6 @@ Operate and maintain stage machinery (such as lifts, turntables, flight systems)
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Stage mechanical technicians are experiencing mixed feelings due to AI: automated programming can optimize equipment scheduling and safety monitoring, but on-site emergency handling, precision machinery maintenance, and creative collaboration still rely on humans, with entry-level positions narrowing due to higher technical barriers.
-
 You can be promoted from junior operator to chief mechanic or technical director, or move into stage design, equipment sales, and other directions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from junior operator to chief mechanic or technical director
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists or technicians, requiring a work contract or project proof |
-| Subclass Salarié (Salaried Employee) | Employer-sponsored work visas are applicable to long-term contracts |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, annual salary must meet threshold (approximately €56,000 in 2025) |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Non-mandatory, but CQP stage mechanic certification and SSCT safety training 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stage-machinery-technician/FR)**

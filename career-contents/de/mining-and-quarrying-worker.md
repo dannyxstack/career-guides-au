@@ -52,8 +52,6 @@ Engaging in the extraction and transportation of minerals, rocks, and other reso
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Work for mining and quarrying workers and related operators is polarized: repetitive monitoring and operational tasks face automation risk, but roles in complex geological decisions, equipment maintenance, and safety management increase in value with AI assistance; overall mixed outlook.
-
 Entry-level workers can advance to specialized roles such as driller or blasting technician, or further study to become mining technician or foreman. Due to industry decline, promotion opportunities are limited, and transitioning to construction or environmental engineering is common.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level workers can advance to specialized roles such as driller or blasting
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search visa based on a points system, allowing job seeking in Germany, suitable for those with relevant training background. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring proof of sufficient financial means, suitable for those with high education and good career prospects. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, but requires professional qualification recognition (Anerkennung) and a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-quarrying-worker/DE)**

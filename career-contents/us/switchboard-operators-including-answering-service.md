@@ -53,8 +53,6 @@ Operate telephone switchboards or PBX systems, transfer calls, provide informati
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-AI voice assistants and intelligent call routing systems are directly replacing manual operator tasks; this occupation has a very high risk of automation, with job opportunities possibly decreasing by over 50% in the next 5 years.
-
 Limited career development path, can advance to customer service supervisor or dispatcher; some transition to customer service representative, administrative assistant, or call center management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Limited career development path, can advance to customer service supervisor or d
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Negative outlook, positions are expected to continue shrinking due to automat
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/switchboard-operators-including-answering-service/US)**

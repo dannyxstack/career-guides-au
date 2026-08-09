@@ -4,8 +4,6 @@
 
 Drive buses or trams, transporting passengers along fixed routes and schedules, ensuring safety and punctuality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Drive buses or trams, transporting passengers along fixed routes and schedules, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Can progress from bus driver to fleet supervisor or dispatcher, or obtain training to qualify as a long-distance coach driver. Some drivers transfer to rail or subway driver roles through internal exams. Obtaining a higher-grade driving licence can increase salary.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Can progress from bus driver to fleet supervisor or dispatcher, or obtain traini
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but bus drivers typically do not meet salary requirements, rarely used. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | The most common pathway for non-EU workers requires employer sponsorship, with annual quotas limited. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must prove they cannot recruit from within the EU before applying to hire non-EU drivers. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens do not need a work visa and can work in this occupation directly in Italy. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Requires a Class D driver's license and a CQC vocational competency certifica
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-and-tram-driver/IT)**

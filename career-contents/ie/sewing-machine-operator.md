@@ -53,8 +53,6 @@ Sewing machine operators operate sewing machines in the clothing, textile, and f
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will augment rather than replace sewing machine operators, boosting productivity and quality through smart templates, automated defect detection, and real-time optimization, though low-end assembly line jobs may decrease.
-
 Starting as a basic operator, one can advance to senior sewer, pattern maker, or production supervisor. Some practitioners transition to running their own tailoring or small garment workshops through experience.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Starting as a basic operator, one can advance to senior sewer, pattern maker, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: The textile manufacturing industry in Ireland is in continuous decline, with 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewing-machine-operator/IE)**

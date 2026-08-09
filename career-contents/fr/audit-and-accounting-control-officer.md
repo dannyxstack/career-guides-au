@@ -53,8 +53,6 @@ Responsible for auditing the company's financial statements to ensure compliance
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Candidates can be promoted from junior auditor to senior audit manager, or move to positions such as internal audit or financial analysis. Obtaining CPA or CIA certification can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Candidates can be promoted from junior auditor to senior audit manager, or move 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for audit professionals with annual salaries above the French Blue Card threshold (about 45,000 euros) to quickly obtain EU residency. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for audit talents with a master's degree or DEC certification, eligible for long-term residence, and family members may accompany them. |
-| Subclass Salarié (Employee Work Permit) | Company-sponsored work visa, subject to French labor market test, suitable for auditors without special qualifications. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted from junior auditor to senior auditor, audit manager, or 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audit-and-accounting-control-officer/FR)**

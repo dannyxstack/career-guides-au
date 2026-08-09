@@ -4,8 +4,6 @@
 
 A specialized research professional who studies historical documents and artifacts to identify and interpret historical facts. Mainly active in universities, national research institutes, and museums.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized research professional who studies historical documents and artifac
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can automate some tasks like data analysis and digital archiving in historical research, but interpretation and context understanding will remain uniquely human. Thus, the historian researcher profession is unlikely to be fully replaced by AI.
-
 After obtaining a master's/doctoral degree, one advances from researcher (postdoc) to full-time researcher and then to senior researcher, with tenure-track professor positions being extremely rare.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ After obtaining a master's/doctoral degree, one advances from researcher (postdo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible in specialized research fields with employer invitation, but very limited |
-| Subclass F-2 (Residence (F-2)) | Research activities possible for long-term residents |
-| Subclass D-2 (Student (D-2)) | Research possible during master's/doctorate, requires status change after graduation |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Typically, a PhD is required; with only a master's degree, landing a research
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/historiography-researcher/KR)**

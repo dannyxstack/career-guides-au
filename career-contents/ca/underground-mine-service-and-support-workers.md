@@ -52,8 +52,6 @@ Performs tasks such as supporting underground mine strata, blasting assistance, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Underground mine service and support workers face moderate automation risk; AI and automation will gradually take over data monitoring, documentation, and other administrative tasks, but underground physical operations and complex environment judgment still rely on humans.
-
 Junior miners can advance to operators, team leaders, and then to mine supervisors or safety officers. Through certification (e.g., Common Core) and experience, can transition to heavy equipment operation or mine planning.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior miners can advance to operators, team leaders, and then to mine superviso
 | Subclass EE (Express Entry (FSW/CEC)) | Eligible applicants can enter the pool through the Federal Skilled Worker Program or Canadian Experience Class and receive CRS points. |
 | Subclass AIP (Atlantic Immigration Program) | Mining employer sponsorship in Atlantic provinces (Newfoundland) with lower threshold. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mandatory Common Core certification (basic safety and operations) plus provin
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underground-mine-service-and-support-workers/CA)**

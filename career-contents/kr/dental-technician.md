@@ -48,8 +48,6 @@ A dental technician is a healthcare professional who manufactures dental prosthe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can assist dental technicians in designing and producing prosthetics using CAD/CAM, and replace some simple tasks, but high-difficulty work requiring final adjustments and aesthetic judgment still needs human skill, making complete replacement difficult.
-
 Most dental technicians work in dental laboratories. After 5–10 years of experience, they can advance to head technician or open their own laboratory. Specializing in prosthetic areas (crowns, implants, orthodontics, etc.) is advantageous for career development.
 
 **Tasks most exposed to AI:**
@@ -87,15 +85,9 @@ Most dental technicians work in dental laboratories. After 5–10 years of exper
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when employed at a Korean dental lab as a skilled dental technician; requires employer recommendation |
-| Subclass F-2 (F-2 (Residence)) | Convertible from E-7 under a points system for long-term stay purposes |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +131,12 @@ A: You need to graduate from a junior college's dental technology department (3 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-technician/KR)**

@@ -53,8 +53,6 @@ This occupation involves wiring parts, coil winding, harness assembly, and pre-a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
-
 Junior assemblers can advance to senior assembler, production line supervisor, or quality inspector; some can move into technician or engineer roles through further training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior assemblers can advance to senior assembler, production line supervisor, o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Not easy. Salaries are generally below the £26,200 threshold and the occupat
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-electrical-and-electronic-products/UK)**

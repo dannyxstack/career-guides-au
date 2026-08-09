@@ -55,8 +55,6 @@ Actuaries apply mathematical, statistical and financial methods to assess insura
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
-
 Catastrophe modelling (CAT modelling) is the most in-demand actuarial specialisation in the Australian insurance industry in 2025, with demand for specialists surging due to the increasing frequency of extreme weather events. AI model validation actuaries are also an emerging high-paying niche.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Catastrophe modelling (CAT modelling) is the most in-demand actuarial specialisa
 | Subclass 189 (SkillSelect Independent) | No employer required, invitation-based, listed on MLTSSL |
 | Subclass 190 (Skilled Nominated) | State nomination; NSW/VIC have concentrated insurance industries |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Actuaries offer higher salaries (AUD $135k–$250k vs $100k–$200k), greater
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actuary/AU)**

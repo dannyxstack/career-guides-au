@@ -53,8 +53,6 @@ Providing daily care and companionship for the elderly, people with disabilities
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Promotion from junior nursing assistant to senior nursing assistant or team leader; Continuing education allows for a transition to professional nursing, social worker, or nursing management positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Promotion from junior nursing assistant to senior nursing assistant or team lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employer-sponsored work residency requires a long-term employment contract (CDI) and meets market labor force testing. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to shortage occupations or highly skilled talent, streamlined process, no labor market test required. |
-| Subclass Recherche emploi (Recherche emploi (Job Search Visa)) | Suitable for French graduates seeking work in this field. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can be promoted from junior nursing assistant to senior nursing assistant
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/adult-care-assistant/FR)**

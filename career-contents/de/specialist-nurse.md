@@ -55,8 +55,6 @@ Specialist nurses in German hospitals or care facilities provide professional nu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Specialist nurses face moderate overall risk; AI cannot replace bedside hands-on fine nursing and emotional support, but automation will greatly increase in tasks such as documentation and monitoring data analysis, shifting from passive execution to human-machine collaboration.
-
 Can progress from general nurse to specialist nurse (through further training), then to nursing director (Stationsleitung) or nursing management roles, or pursue a master's in nursing to enter education or management.
 
 **Tasks most exposed to AI:**
@@ -114,8 +112,6 @@ Can progress from general nurse to specialist nurse (through further training), 
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -159,11 +155,12 @@ A: Can be promoted to nursing supervisor, nursing management role, or pursue a m
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-nurse/DE)**

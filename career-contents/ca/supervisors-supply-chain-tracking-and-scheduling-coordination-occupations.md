@@ -52,8 +52,6 @@ Warehouse supervisor oversees warehouse operations, including inventory manageme
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Warehouse supervisor role has mixed prospects: AI optimizes route planning and inventory management to boost efficiency, but data entry, monitoring, etc., are automated, shifting the role toward strategic coordination.
-
 Junior warehouse supervisors can advance to warehouse manager, logistics manager, or supply chain director. With experience, they can move into operations management or specialized logistics functions like cold chain management or international freight.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior warehouse supervisors can advance to warehouse manager, logistics manager
 | Subclass PNP (Provincial Nominee Program) | For example, Ontario Human Capital Priorities, BC Skilled Immigration, etc., requiring employer sponsorship or provincial nomination |
 | Subclass TFWP (Temporary Foreign Worker Program) | Obtain a work permit through LMIA, accumulate Canadian experience, then transition to permanent residency. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Demand is stable due to the continued growth of e-commerce and logistics, esp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-supply-chain-tracking-and-scheduling-coordination-occupations/CA)**

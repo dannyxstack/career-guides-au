@@ -52,8 +52,6 @@ Manually sew, piece, reinforce, or finish various manufactured products, includi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Hand sewing is a high-automation exposure occupation; AI and robots will significantly replace repetitive sewing tasks, entry-level positions are severely reduced, leaving only a few high-end custom repair jobs.
-
 Hand sewers usually start as apprentices or assistants and can advance to senior sewers or quality controllers. A few may transition to fashion design or apparel production management, but overall advancement opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Hand sewers usually start as apprentices or assistants and can advance to senior
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Extremely difficult. Hand sewer usually does not meet H-1B specialty occupati
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewers-hand/US)**

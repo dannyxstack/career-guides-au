@@ -4,8 +4,6 @@
 
 A skilled artisan who processes precious metals and gems to create accessories and crafts, combining manual work and machinery from design to casting, carving, and polishing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A skilled artisan who processes precious metals and gems to create accessories a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can be used as design and carving assistants in precious metal crafting, but high-end custom handcraft work is difficult to replace, so the occupation itself will not completely disappear.
-
 Typically learns skills through an apprenticeship in small workshops, grows into a master craftsman, and may transition to independent entrepreneurship or become a gem appraiser.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically learns skills through an apprenticeship in small workshops, grows into
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Specialized professional in a specific field; jewelry sector requirements are stringent |
-| Subclass F-2 (F-2 (Residence)) | Easier if skilled and after long-term residence |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Many small workshops, so wage increases by skill level or starting own busine
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewelry-and-precious-metal-artisan/KR)**

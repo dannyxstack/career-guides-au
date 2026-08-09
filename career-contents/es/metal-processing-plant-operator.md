@@ -4,8 +4,6 @@
 
 Responsible for operating metal smelting, rolling, heat treatment, and other equipment to convert ore or scrap metal into semi-finished or finished products. The work environment is a factory, and strict safety procedures must be followed.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating metal smelting, rolling, heat treatment, and other equ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Parts of the work of metalworking equipment operators can be automated (such as parameter monitoring), but AI amplifies human capabilities in process optimization and fault prediction, resulting in mixed outcomes.
-
 You can be promoted from junior operator to production line leader or section leader, or through training, you can move to equipment maintenance or quality control positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted from junior operator to production line leader or section le
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, non-urgently needed occupations, and approval is relatively difficult |
-| Subclass Busqueda empleo (Job search visa) | Applicable to highly educated or Spanish graduates; operator roles usually do not qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Typically, FP Grado Medio (2 years of vocational education) or Grado Superior
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-processing-plant-operator/ES)**

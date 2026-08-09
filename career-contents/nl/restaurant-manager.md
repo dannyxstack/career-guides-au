@@ -51,8 +51,6 @@ Restaurant managers oversee daily operations including staff management, custome
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on restaurant manager roles is mixed: tasks like scheduling, shift planning, and inventory forecasting will be automated, but people management, customer experience, and crisis handling still require human judgment, and AI tools can enhance data-driven decision-making.
-
 Can progress from junior manager to senior management or regional director, or start a business by opening an independent restaurant.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from junior manager to senior management or regional director, or s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applicable to high-skilled employees meeting annual income thresholds; employer must be an approved sponsor. |
-| Subclass EU Blue Card (EU Blue Card) | Provides work and residence convenience within the EU for professionals with a university degree and high salary threshold. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International students who graduate in the Netherlands can apply for a one-year job-seeking visa and switch to a work residence permit after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can be done via highly skilled migration or EU Blue Card, requiring finding a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-manager/NL)**

@@ -51,8 +51,6 @@ Dental assistants help dentists with clinical procedures; dental laboratory assi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
-
 Entry-level dental assistants can gain experience and pursue advanced certification (CDA) or shift to dental lab assisting. Some enter dental sales or management; limited advancement but stable.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level dental assistants can gain experience and pursue advanced certificat
 | Subclass PNP (Provincial Nominee Program) | In-demand occupations in some provinces may receive nomination or extra points through Provincial Nominee Programs. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, then transition to experience-based immigration |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistants-and-dental-laboratory-assistants/CA)**

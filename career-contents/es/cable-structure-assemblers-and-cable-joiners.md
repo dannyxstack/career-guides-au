@@ -4,8 +4,6 @@
 
 Responsible for installing, connecting, and maintaining cable structures for telecommunications, power, and other sectors, including wiring and testing overhead and underground cables to ensure the safety of communication and power transmission.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for installing, connecting, and maintaining cable structures for tel
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In this profession, repetitive and procedural cable connection and testing tasks are easily replaced by AI automation, but on-site installation, fault diagnosis, and complex environmental decision-making still require human flexibility, resulting in a mixed overall impact.
-
 You can advance from junior wielder to senior technician or site supervisor, or through further training to become an electrical engineer or project management specialist. Obtaining an advanced electrician license can broaden your career path.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can advance from junior wielder to senior technician or site supervisor, or 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work permit (initial)) | Employed residence, requires employer sponsorship, occupation not in demand, must prove vacancy cannot be filled locally |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires a high degree (bachelor's degree or above) and a high salary (usually > €40k), but this occupation generally does not qualify |
-| Subclass Altamente cualificad (Highly qualified professional) | Highly skilled professional visa, but this occupation is generally not considered highly skilled and has low applicability |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, you need to complete an electrical or telecommunications-related m
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cable-structure-assemblers-and-cable-joiners/ES)**

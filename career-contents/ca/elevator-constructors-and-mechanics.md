@@ -54,8 +54,6 @@ Responsible for installing, maintaining, and repairing elevators, escalators, li
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
-
 Can progress from apprentice to skilled tradesperson, then to supervisor or contractor, or pivot to equipment sales or training.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from apprentice to skilled tradesperson, then to supervisor or cont
 | Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and BC have skilled trade provincial nomination programs |
 | Subclass Express Entry (Express Entry (Federal Skilled Trades)) | Must meet trade conditions, but spots are limited |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires a 4-5 year apprenticeship and provincial trade certificate; can furt
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elevator-constructors-and-mechanics/CA)**

@@ -56,8 +56,6 @@ Special education teachers educate students with physical, intellectual, or emot
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Career paths include advancing from classroom teacher to department head, special education coordinator, or through further study becoming a school psychologist or education consultant. You can also move into special education research or management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths include advancing from classroom teacher to department head, specia
 | Subclass EU Blue Card (EU Blue Card) | If the salary meets the Blue Card threshold (~€45,300 in 2025), application is possible; family reunification is straightforward. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job-seeking, requiring qualifications and sufficient funds. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a teacher-training bachelor's and master's (including spec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teacher/DE)**

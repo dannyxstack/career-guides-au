@@ -52,8 +52,6 @@ Manage crop cultivation and livestock rearing on a mixed farm, including grains,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Start as a farm assistant or junior farmer, gain experience, and advance to farm manager or farm owner. Can also transition to agricultural consulting or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a farm assistant or junior farmer, gain experience, and advance to farm
 | Subclass SMC (Skilled Migrant Category) | 6-point system; points from qualifications + work experience, meeting median wage threshold. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, up to 3 years, with option to switch to other pathways later |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Agricultural labor shortages, especially in remote areas, but competition is 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-production-farmers-nec/NZ)**

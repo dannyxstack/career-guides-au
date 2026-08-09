@@ -52,8 +52,6 @@ Community service workers have stable demand in New Zealand, supporting social w
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Community service worker roles face complex AI impact: administrative documents, scheduling, and initial client needs sorting are easily automated, but core skills like emotional support, crisis intervention, and personalized service planning are hard to replace, overall risk and opportunity coexist.
-
 Entry-level roles can grow into case managers, team leaders, or project coordinators. With a social services diploma, can advance to senior practitioner, or move into counseling, policy making, etc.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level roles can grow into case managers, team leaders, or project coordina
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Community service workers are currently not on Tier 1 but meet Tier 2 conditions; can transition to residence after 2 years. Actual Green List should be checked for updates. |
 | Subclass AEWV (Accredited Employer Work Visa) | Preferred by most overseas applicants, employer-sponsored, can apply for residency after 3 years of work (must meet median wage etc.). |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Currently this occupation is not on Green List Tier 1, but is on Tier 2 (work
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/community-services-worker/NZ)**

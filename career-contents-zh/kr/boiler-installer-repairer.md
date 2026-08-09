@@ -1,10 +1,8 @@
-# Boiler Installer/Repairer 职业分析 · 韩国
+# 锅炉安装工/修理工（Boiler Installer/Repairer）职业分析 · 韩国
 
-**职业代码: 81151 (KECO)**
+**职业代码：81151 (KECO)**
 
-A technical role that installs, inspects, and repairs industrial and residential boilers and related heating systems. Performs regular maintenance and fault diagnosis in accordance with safety regulations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责安装、检查和维修工业及住宅锅炉及相关供暖系统的技术岗位。按安全规范进行定期维护和故障诊断。
 
 
 ---
@@ -13,9 +11,9 @@ A technical role that installs, inspects, and repairs industrial and residential
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（On-site Training after Hire） |
-| College (Mechanical Engineering) | 2 年 | $4,000,000~$8,000,000（Tuition based on National/Public Universities） |
-| Craftsman Certification Process | 1年 | $500,000~$1,500,000（Academy tuition and exam fees） |
+| 高中毕业 | 0年 | $0~$0（入职后现场培训） |
+| 大学（机械工程） | 2 年 | $4,000,000~$8,000,000（国立/公立大学学费标准） |
+| 工匠认证流程 | 1年 | $500,000~$1,500,000（学院学费和考试费） |
 
 ---
 
@@ -23,18 +21,18 @@ A technical role that installs, inspects, and repairs industrial and residential
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Boiler Handling Craftsman | Human Resources Development Service of Korea | 必备 | Required certification, includes practical test |
-| Gas Craftsman | Human Resources Development Service of Korea | 必备 | Required for gas boiler work |
-| Energy Management Industrial Engineer | Human Resources Development Service of Korea | 可选 | Optional, advantageous for promotion |
+| 锅炉处理工匠 | 韩国人力资源开发服务局 | 必备 | 需认证，包含实践考试 |
+| 燃气工匠 | 韩国人力资源开发服务局 | 必备 | 燃气锅炉工作所需 |
+| 能源管理工业工程师 | 韩国人力资源开发服务局 | 可选 | 可选，对晋升有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 28,000. Due to the shift to eco-friendly energy, demand for electric boilers and heat pumps is increasing, sustaining employment, but the existing oil boiler market is declining.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 28,000。由于向环保能源转变，电锅炉和热泵需求增加，维持了就业，但现有燃油锅炉市场正在萎缩。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A technical role that installs, inspects, and repairs industrial and residential
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Based on Small/Medium Enterprises |
-| Intermediate (4–9 years) | $32,000,000~$40,000,000 | Including large corporations and plant site allowances |
-| Advanced (10+ years) | $42,000,000~$55,000,000 | When holding supervisory and technician qualifications |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 基于中小企业 |
+| 中级（4-9年） | $32,000,000~$40,000,000 | 包括大企业和工厂园区津贴 |
+| 高级（10年以上） | $42,000,000~$55,000,000 | 持有监理和技术员资格时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI plays a supporting role in diagnostics and remote control, but humans are essential for physical installation and repair. Automation reduces some repetitive tasks, but AI cannot replace high-difficulty equipment.
+AI在诊断和远程控制中起辅助作用，但人工对于物理安装和维修必不可少。自动化减少了一些重复性任务，但AI无法替代高难度设备。
 
-Certification can advance from Craftsman to Industrial Engineer to Professional Engineer; job changes to large construction firms or energy plants increase salary; replacement of aging equipment contributes to career retention.
+认证可从工匠晋升为工业工程师再到专业工程师；跳槽至大型建筑公司或能源工厂可增加薪资；更换老化设备有助于职业稳定。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- writing regular simple inspection reports
-- basic diagnostics and anomaly checks
-- organizing customer consultation materials
+- 撰写常规的简单检查报告
+- 基本诊断和异常检查
+- 组织客户咨询材料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI deep learning-based anomaly prediction and diagnosis
-- operation of remote control and monitoring systems
-- energy efficiency optimization consulting support
+- 基于AI深度学习的异常预测与诊断
+- 远程控制和监控系统的操作
+- 能效优化咨询支持
 
-**人类护城河:**
+**人类护城河：**
 
-- on-site safety judgment and experiential know-how
-- ability to respond to unstructured environments
-- final inspection and approval involving legal responsibility
+- 现场安全判断与经验性诀窍
+- 应对非结构化环境的能力
+- 涉及法律责任的最终检查和批准
 
-**需构建的技能:**
+**需构建的技能：**
 
-- smart boiler remote diagnostic technology
-- use of Energy Management System (EMS)
-- customer-customized energy consulting capabilities
+- 智能锅炉远程诊断技术
+- 使用能源管理系统（EMS）
+- 客户定制化能源咨询能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- eco-friendly boilers
-- energy saving
-- remote control diagnostics
-- high-efficiency heating
+- 环保锅炉
+- 节能
+- 远程控制诊断
+- 高效供暖
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Limited to boiler manufacturing and simple assistance in manufacturing, etc., with limited skilled functions |
-| Subclass E-7 (Specific Activities) | Possible when skilled functions are recognized, requires experience verification and contract |
-| Subclass F-2 (Residence) | Point system, can apply for long-term stay, no employment restrictions |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good manual dexterity and interest in machine operation
-- People who don't mind outdoor and field work
-- Personality that thoroughly follows safety rules
+- 手巧且对机器操作感兴趣的人
+- 不介意户外和现场工作的人
+- 严格遵循安全规则的性格
 
 **谁不适合**
-- People who prefer only indoor office work
-- People who dislike irregular working hours
+- 只喜欢室内办公室工作的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a boiler installer/repairer?**
-答：Based on 10 years of experience, it is about 45 million KRW before tax, and at large corporations and plant sites, it can reach up to 55 million KRW.
+**问：锅炉安装工/维修工的平均薪资是多少？**
+答：基于10年经验，税前约4500万韩元，在大企业和工厂现场可达5500万韩元。
 
-**问：Can foreigners work with an employment visa?**
-答：It is possible with an E-7 visa if skilled work is recognized, but Korean language and technical proof are required. E-9 is limited.
+**问：外国人可以持工作签证工作吗？**
+答：如果技能工作被认可，可能通过E-7签证实现，但需韩语和技术证明。E-9受限。
 
-**问：How can I get a high salary?**
-答：Obtaining advanced certifications such as Energy Management Industry Engineer and gaining experience in large plants or overseas projects is advantageous.
+**问：如何获得高薪？**
+答：取得能源管理行业工程师等高级认证，并拥有大型工厂或海外项目经验者优先。
 
 
 ---
@@ -146,12 +136,12 @@ Certification can advance from Craftsman to Industrial Engineer to Professional 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/boiler-installer-repairer/KR)**

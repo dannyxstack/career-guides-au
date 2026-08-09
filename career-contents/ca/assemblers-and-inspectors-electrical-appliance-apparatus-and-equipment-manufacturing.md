@@ -52,8 +52,6 @@ Worker responsible for assembling, adjusting, and inspecting electrical componen
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Electrical assembly and inspection roles face high risk of automation replacement as AI and robots take over repetitive assembly, inspection, and adjustment tasks drastically; entry-level jobs will shrink significantly, requiring workers to upskill.
-
 Starting as a junior assembler, can advance to senior assembler, inspection team leader, or quality supervisor. By obtaining industry certifications (e.g., CWB welding certification) or on-the-job training, can move to technician or production management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a junior assembler, can advance to senior assembler, inspection team
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a work visa after obtaining a labor market impact assessment, and eligible applicants can later transition to permanent residency |
 | Subclass Express Entry (Express Entry (CEC)) | If you have worked in Canada for over one year, you may apply through the Canadian Experience Class |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Common pathways are Provincial Nominee Program (PNP) or Labour Market Impact 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-and-inspectors-electrical-appliance-apparatus-and-equipment-manufacturing/CA)**

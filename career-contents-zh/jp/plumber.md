@@ -1,8 +1,8 @@
 # 管道工（Plumber）职业分析 · 日本
 
-**职业代码: 666 (JSCO)**
+**职业代码：666 (JSCO)**
 
-Skilled professional who installs and maintains piping for water, gas, and air conditioning at construction sites and plants.
+在建筑工地和工厂安装和维护水、气和空调管道的熟练专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ Skilled professional who installs and maintains piping for water, gas, and air c
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school or training institute | 2 年 | $1,000,000~$2,000,000（Skill acquisition course） |
-| High school (Industrial department) | 3年 | $0~$500,000（Public high school case） |
-| Correspondence education or self-study | 1年 | $100,000~$300,000（Qualification exam preparation only） |
+| 职业学校或培训机构 | 2 年 | $1,000,000~$2,000,000（技能培训课程） |
+| 高中（工业科） | 3年 | $0~$500,000（公立高中案例） |
+| 函授教育或自学 | 1年 | $100,000~$300,000（仅备考资格考试） |
 
 ---
 
@@ -21,19 +21,19 @@ Skilled professional who installs and maintains piping for water, gas, and air c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Gas Engineer | Ministry of Economy, Trade and Industry | 必备 | Required for gas work |
-| Water Supply Facility Engineer | Ministry of Health, Labour and Welfare | 必备 | Required for water supply work |
-| Piping Technician | Ministry of Health, Labour and Welfare | 可选 | Level 1 and Level 2 available |
-| Type 1 Electrician | Ministry of Economy, Trade and Industry | 可选 | Advantageous for electrical piping work |
+| 燃气工程师 | 经济产业省 | 必备 | 从事燃气工作所必需 |
+| 给水设备工程师 | 厚生劳动省 | 必备 | 供水工作所需 |
+| 管道技术员 | 厚生劳动省 | 可选 | 提供1级和2级 |
+| 1类电工 | 经济产业省 | 可选 | 有利于电气管道作业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 370,000. Stable long-term employment is expected due to steady construction demand and renewal needs for aging facilities.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 370,000。由于稳定的建筑需求和老化设施的更新需求，预计将提供稳定的长期就业机会。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,88 +41,82 @@ Skilled professional who installs and maintains piping for water, gas, and air c
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $3,000,000~$4,000,000 | Annual Income |
-| Mid-level (4-10 years) | $4,500,000~$5,500,000 | Annual Income |
-| 资深（10年以上） | $5,500,000~$7,000,000 | Annual Income |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 年收入 |
+| 中级（4-10年） | $4,500,000~$5,500,000 | 年收入 |
+| 资深（10年以上） | $5,500,000~$7,000,000 | 年收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Automation of simple piping is advancing with AI and robots, but tasks requiring human judgment, such as complex on-site responses and renovation of existing facilities, will remain.
+简单管道的自动化正在借助AI和机器人推进，但需要人类判断的任务，如复杂的现场响应和现有设施改造，仍将保留。
 
-Start as an apprentice, improve skills through various certifications, and advance to lead or site supervisor.
+从学徒开始，通过各类认证提升技能，晋升为领班或现场主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard straight pipe automatic welding
-- Routine water supply equipment replacement
+- 标准直管自动焊接
+- 常规供水设备更换
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AR-based visualization of piping routes
-- Utilization of AI-based leak detection systems
-- Pipe inspection using drones
+- 基于增强现实的管道路线可视化
+- 基于人工智能的泄漏检测系统的应用
+- 使用无人机进行管道检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexibility in complex sites
-- Diagnosis and repair planning of aging pipes
-- Communication with customers
+- 复杂场地的灵活性
+- 老化管道诊断与维修规划
+- 与客户沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM/CIM skills
-- Piping design CAD
-- IoT-based maintenance
-- Multi-skilling (electrical/welding)
+- BIM/CIM技能
+- 管道设计CAD
+- 基于物联网的维护
+- 多项技能（电气/焊接）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction sites
-- Plant piping
-- Duct work
-- Maintenance
+- 建筑工地
+- 厂区管道
+- 管道工程
+- 维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) - Construction) | Residence permitted as construction-related specified skilled worker. Renewable up to 5 years. |
-| Subclass 技能 (Skilled Labor (Plumbing)) | Residence permitted for work requiring advanced skills. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People with dexterous hands
-- People who enjoy on-site work
+- 体力充沛的人
+- 手巧的人
+- 喜欢现场工作的人
 
 **谁不适合**
-- People uncomfortable with heights or confined spaces
-- People who want to avoid physical labor
+- 不适应高处或密闭空间的人
+- 想避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a plumber?**
-答：Approximately 300-400万円 for entry-level, 450-550万円 for mid-level, and 550-700万円 for skilled workers.
+**问：水管工的年收入是多少？**
+答：入门级约300-400万日元，中级450-550万日元，熟练工550-700万日元。
 
-**问：How can foreigners work as plumbers?**
-答：A Specified Skilled Worker (i) (Construction) or Engineer/Specialist in Humanities/International Services visa is required. Conditions include practical experience and passing a skills test.
+**问：外国人如何成为水管工？**
+答：需要特定技能工人(i)(建筑)或人文/国际服务工程师/专家签证。条件包括实践经验并通过技能测试。
 
 
 ---
@@ -140,12 +134,12 @@ Start as an apprentice, improve skills through various certifications, and advan
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plumber/JP)**

@@ -4,8 +4,6 @@
 
 A professional who manages customers' hair and skin, providing beauty services such as cutting, dyeing, perming, and styling.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who manages customers' hair and skin, providing beauty services s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This is an occupation with limited impact from AI and automation. Tasks requiring creativity and hand skills, such as hair design, consultation, and cutting, are difficult to replace. However, AI can assist with some tasks like appointment management and product recommendations.
-
 Junior hairdresser → Mid-level hairdresser → Salon manager → Franchise owner or independent business. Income varies significantly based on experience and skills, and entry barriers for starting a business are relatively low.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Junior hairdresser → Mid-level hairdresser → Salon manager → Franchise own
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible with professional license, but beauticians are generally excluded from work visas. |
-| Subclass F-2 (Residence) | Issued to long-term residents under a points system; can work as a beautician. |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans; can work in beauty services but limited. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: National certification can be obtained through a 2-year college program or a 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/KR)**

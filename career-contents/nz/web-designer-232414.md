@@ -52,8 +52,6 @@ Web designers are responsible for planning and designing the user interface and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Web designers' creative and visual decisions are hard to replace by AI in the short term, but coding translation, image generation, A/B testing tasks are being compressed by AI, and entry-level roles are already facing significant competitive pressure.
-
 Career path: from junior web designer to mid-level designer, then to art director or UX manager. Also possible to move into digital design, interaction design, or front-end development. Building a portfolio and user research results is important for advancement; a multimedia or design qualification is advantageous.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: from junior web designer to mid-level designer, then to art directo
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants who have an employer offer but do not meet residence requirements; the employer must be an approved sponsor and the salary must not be below the median. |
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | Web designer is not on the Green List, this pathway is not applicable. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Moderate to high competition; many junior positions but a shortage of senior 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer-232414/NZ)**

@@ -1,10 +1,8 @@
-# Other Corporate/Organizational Executives 职业分析 · 日本
+# 其他企业/组织高管（Other Corporate/Organizational Executives）职业分析 · 日本
 
-**职业代码: 029 (JSCO)**
+**职业代码：029 (JSCO)**
 
-Executives responsible for management and governance of entities other than stock companies (e.g., general incorporated associations, medical corporations, school corporations, NPOs) and various organizations, such as directors, auditors, and councilors.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责管理非股份公司（如一般社团法人、医疗法人、学校法人、非营利组织）及各类组织的高管，如董事、监事和理事。
 
 
 ---
@@ -13,8 +11,8 @@ Executives responsible for management and governance of entities other than stoc
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Business, Law, Economics) | 4年 | $4,000,000~$6,000,000（For national/public universities） |
-| Graduate School (MBA, Professional Degree) | 2 年 | $2,000,000~$4,000,000（Includes national university law schools） |
+| 大学（商业、法律、经济学） | 4年 | $4,000,000~$6,000,000（针对国立/公立大学） |
+| 研究生院（MBA、专业学位） | 2 年 | $2,000,000~$4,000,000（包括国立大学法学院） |
 
 ---
 
@@ -22,18 +20,18 @@ Executives responsible for management and governance of entities other than stoc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 注册会计师(CPA) | CPA Exam | 可选 | Useful for financial management but not mandatory |
-| Certified Social Worker | National Social Worker Exam | 可选 | Advantageous for social welfare corporation executives |
-| Administrative Scrivener | Administrative Scrivener Exam | 可选 | Useful for incorporation and operations |
+| 注册会计师(CPA) | 注册会计师考试 | 可选 | 有助于财务管理，但非强制 |
+| 持证社会工作者 | 国家社会工作者考试 | 可选 | 对社会福利公司高管有利 |
+| 行政书士 | 行政书记员考试 | 可选 | 对成立和运营有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 210,000. Demand for executives in nonprofit corporations and cooperatives remains stable due to aging populations and complex social issues. However, successor shortages are becoming apparent.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 210,000。由于人口老龄化和复杂社会问题，非营利公司和合作社的高管需求保持稳定，但接班人短缺问题日益明显。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,84 @@ Executives responsible for management and governance of entities other than stoc
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $5,000,000~$8,000,000 | Executive at small/medium corporations/organizations |
-| Intermediate (4–9 years) | $8,000,000~$12,000,000 | Full-time executive at mid-sized corporations/organizations |
-| 资深（10年以上） | $12,000,000~$20,000,000 | Representative director, etc., at large corporations/organizations |
+| 初级（0-3年） | $5,000,000~$8,000,000 | 中小型企业/组织的高管 |
+| 中级（4-9年） | $8,000,000~$12,000,000 | 中型企业/组织的全职高管 |
+| 资深（10年以上） | $12,000,000~$20,000,000 | 大型企业/组织的代表董事等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI streamlines management data analysis and compliance checks, supporting executives' decision-making. However, since final judgment and external responsibility remain with humans, complete substitution is difficult.
+人工智能简化了管理数据分析和合规检查，支持高管决策。然而，由于最终判断和对外责任仍由人类承担，完全替代难以实现。
 
-The typical route is from general staff to management and then to executive. Expertise (accounting, law, management) and industry experience are required, and external recruitment is increasing.
+典型路径是从普通员工到管理层再到高管。需要专业知识（会计、法律、管理）和行业经验，外部招聘正在增加。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine report creation
-- Simple data aggregation and analysis
-- Schedule adjustment
+- 常规报告创建
+- 简单数据汇总与分析
+- 日程调整
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Strategic planning simulation
-- Automation of compliance checks
-- Real-time visualization of management indicators
+- 战略规划模拟
+- 合规检查自动化
+- 管理指标的实时可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal negotiation
-- Ethical judgment
-- Cultivation of organizational culture
-- Crisis response
+- 人际谈判
+- 道德判断
+- 组织文化培养
+- 危机应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis literacy
-- Governance knowledge
-- Facilitation skills
-- Change management
+- 数据分析素养
+- 治理知识
+- 引导技巧
+- 变更管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Non-profit organization
-- Governance enhancement
-- Successor development
-- Compliance
+- 非营利组织
+- 治理加强
+- 接班人培养
+- 合规
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to management or specialized work. Generally, executive roles are not permitted. |
-| Subclass 経営・管理 (Business Manager Visa) | Required for business operations as a corporate representative director, etc. Residency eligibility is strict. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable. Executive duties are not eligible. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with business acumen
-- People interested in organizational management
-- People wanting to demonstrate leadership
+- 具有商业头脑的人
+- 对组织管理感兴趣的人
+- 想要展示领导力的人
 
 **谁不适合**
-- People who like detailed routine tasks
-- People not good at public speaking
+- 喜欢细致重复性工作的人
+- 不擅长公开演讲的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How is executive compensation determined?**
-答：Determined based on the articles of incorporation or shareholders' meeting resolution, reflecting performance and scale. Public corporations are required to disclose compensation.
+**问：高管薪酬如何确定？**
+答：根据公司章程或股东大会决议确定，反映业绩和规模。上市公司必须披露薪酬。
 
-**问：Is it possible for a foreign national to obtain a residency status for this occupation?**
-答：Difficult. A Business Manager visa is required, but the actual business operations and capital requirements are strict; simply being appointed as an officer is not approved.
+**问：外国人能否因该职业获得居留身份？**
+答：困难。需要商业管理签证，但实际业务运营和资本要求严格；仅被任命为高管不被批准。
 
 
 ---
@@ -144,12 +134,12 @@ The typical route is from general staff to management and then to executive. Exp
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-corporate-organizational-executives/JP)**

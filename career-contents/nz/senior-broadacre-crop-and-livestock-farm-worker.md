@@ -52,8 +52,6 @@ Responsible for overseeing and executing crop planting, livestock breeding, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Traditional manual operations face the risk of automation and remote monitoring replacement, but AI-enhanced precision agriculture and data analysis capabilities will amplify the decision-making value of senior farm workers, significantly raising skill requirements for the role.
-
 A career can progress from farm worker to farm manager, regional supervisor, or even owning a farm. With experience, one can specialize in specific crops or livestock, or move into agricultural consulting and training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ A career can progress from farm worker to farm manager, regional supervisor, or 
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, for temporary work, with a path to residency later |
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration based on education, income, work experience, etc.; this occupation must meet ANZSCO skill level requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires agricultural-related certificates (not mandatory but helpf
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-broadacre-crop-and-livestock-farm-worker/NZ)**

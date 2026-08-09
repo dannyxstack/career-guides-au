@@ -53,8 +53,6 @@ Responsible for managing the overall operation of logistics sites (warehouses, d
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of the logistics site director will be redefined by AI automation: daily scheduling, report generation, and process monitoring will be compressed, but strategic planning, team management, and customer relationships will be amplified, requiring proactive embrace of technological change.
-
 You can be promoted from logistics supervisor or operations manager, or develop to supply chain director or regional operations director. Accumulate experience in multi-site management and master digital tools (WMS, TMS).
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from logistics supervisor or operations manager, or develop 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled management positions, a contract with an annual salary of at least 1.5 times SMIC (approximately €37,000) is required, valid for 4 years |
-| Subclass Salarié (Employee (Salarié)) | Residence permit for employed work requires employer sponsorship, salary meets French standards, valid for 1 year and renewable |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary at least €53,300 (2023), high qualifications required, valid for 4 years |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Good. E-commerce and supply chain transformation drive demand; promotion to S
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logistics-site-director/FR)**

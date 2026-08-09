@@ -54,8 +54,6 @@ Food technologists work in food companies, research institutions, and government
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
-
 Junior food technologists typically start in laboratory or production support roles, and can advance to senior technologist, R&D manager, or quality assurance manager with experience. Those with a PhD or management experience are more likely to enter leadership positions or become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior food technologists typically start in laboratory or production support ro
 | Subclass SMC (Skilled Migrant Category) | 6-point system, must achieve 6 points (e.g., 3 points for qualification + 3 points for work experience), require hourly wage at least $29.66 |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, renewable, requires employer sponsorship |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Auckland, Christchurch, and Wellington are main demand centers due to large f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-and-physical-science-professionals-nec/NZ)**

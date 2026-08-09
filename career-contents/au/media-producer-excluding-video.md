@@ -52,8 +52,6 @@ Media producer (excluding video) plans, coordinates, and oversees production of 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Career progression can start as an Assistant Producer, advance to Producer, Senior Producer, then Content Director or Media Manager. Also possible to move into independent production or start a production company.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Career progression can start as an Assistant Producer, advance to Producer, Seni
 | Subclass 186 (Employer Nomination Scheme (Permanent)) | Employer-sponsored permanent residence visa, requires skills assessment and 3 years of work experience |
 | Subclass 190 (Skilled Nominated Visa (Permanent)) | State-nominated skilled migration, requires meeting state nomination requirements, occupation on relevant list |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Digital transformation brings new opportunities, with strong growth in podcas
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/media-producer-excluding-video/AU)**

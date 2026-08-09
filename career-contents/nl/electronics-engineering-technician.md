@@ -51,8 +51,6 @@ Electronic engineering technicians design, test, and maintain electronic devices
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronic engineering technicians face dual impacts from automation and AI: repetitive testing and documentation tasks will be replaced by AI, while complex system debugging, fault diagnosis, and AI integration design are enhanced, shifting job responsibilities toward higher-value directions.
-
 Career progression paths usually start from junior technician, gain experience to advance to senior technician or team leader, and further transition to R&D engineer or project management roles.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career progression paths usually start from junior technician, gain experience t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For high-skilled migration, requires approved employer sponsorship with an annual salary threshold of approximately €5,008 (under 30) or €6,735 (30 and over). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requires higher education degree and annual salary of at least €56,540 (2024 standard). |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from Dutch universities or top 200 global universities can reside in the Netherlands for one year to seek employment, then convert to a work visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: With the development of semiconductors, renewable energy, and Industry 4.0, d
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineering-technician/NL)**

@@ -54,8 +54,6 @@ Medical and dental technicians operate, calibrate, and maintain test equipment s
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and dental technicians' work will be greatly transformed by AI; some tasks are automated, but clinical judgment, patient communication, and complex manual operations still rely on humans. Overall risk is moderate, requiring proactive adaptation.
-
 Entry-level medical and dental technicians can advance to senior technicians or team supervisors through on-the-job training and professional certification. Further study enables roles such as audiologist, dental therapist, or lab manager.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Entry-level medical and dental technicians can advance to senior technicians or 
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Starting as a junior technician, through on-the-job training and obtaining pr
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-dental-technicians/UK)**

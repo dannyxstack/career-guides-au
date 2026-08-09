@@ -53,8 +53,6 @@ Selling fresh fruits and vegetables, meat, dairy products, and other products to
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate data tasks such as order processing and inventory management, but jobs requiring interpersonal trust and sensory judgment, such as face-to-face sales, customer relationship maintenance, and fresh product quality control, still rely on humans, so this position is mixed.
-
 Employees can be promoted from junior salesperson to senior sales manager, category manager, or regional director. After accumulating customer resources and industry knowledge, you can shift to procurement or start a wholesale company.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Employees can be promoted from junior salesperson to senior sales manager, categ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Carte de séjour pluriannuelle) | Suitable for highly skilled talents, such as master's degree + work contract, with flexible quotas |
-| Subclass Salarié (Carte de séjour salarié) | Work permit and employer sponsorship required, applicable to long-term employment contracts (CDI) |
-| Subclass Carte bleue UE (EU Blue Card) | High-paying positions (annual salary ≥ €53,836.50, 2024) are available for application and offer high flexibility |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted from salesperson to sales manager or category manager, or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesale-fresh-produce-salesperson/FR)**

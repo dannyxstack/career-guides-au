@@ -54,8 +54,6 @@ Responsible for overseeing industrial ceramics production, ensuring quality and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of industrial ceramics manufacturing and processing supervisors will face a mixed impact from AI: automation will take over repetitive tasks such as quality inspection and process monitoring, while AI tools can enhance optimization scheduling, predictive maintenance, and defect analysis. On-site coordination, emergency handling, and people management remain human moats.
-
 Can be promoted to production manager or technical expert, and obtain master's qualification (Meister) through continuing education to enhance management functions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted to production manager or technical expert, and obtain master's q
 | Subclass EU Blue Card (EU Blue Card) | Annual salary needs to meet the threshold, usually for shortage occupations |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing trial work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Professional qualification recognition (Anerkennung) required, meeting German
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-industrial-ceramics-manufacturing-and-processing/DE)**

@@ -1,10 +1,8 @@
-# Coast Guard Officer 职业分析 · 韩国
+# 海岸警卫队官员（Coast Guard Officer）职业分析 · 韩国
 
-**职业代码: 24012 (KECO)**
+**职业代码：24012 (KECO)**
 
-A public official responsible for maintaining maritime order, conducting search and rescue, preventing marine pollution, and ensuring maritime safety.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责维持海上秩序、开展搜救、防止海洋污染及确保海上安全的公务员。
 
 
 ---
@@ -13,8 +11,8 @@ A public official responsible for maintaining maritime order, conducting search 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree in Maritime Police | 4年 | $20,000,000~$60,000,000（Based on a 4-year university, significant difference between national/public and private.） |
-| Coast Guard Academy training | 1年 | $0~$0（Free training after appointment, with salary provided.） |
+| 海事警察学士学位 | 4年 | $20,000,000~$60,000,000（基于四年制大学，国立/公立与私立之间存在显著差异。） |
+| 海岸警卫队学院培训 | 1年 | $0~$0（上任后提供免费培训，并支付工资。） |
 
 ---
 
@@ -22,17 +20,17 @@ A public official responsible for maintaining maritime order, conducting search 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Civil Service Examination (Patrol Officer) | Ministry of Personnel Management | 必备 | Written, physical, and interview. |
-| Specialized certificate for Coast Guard | Korea Coast Guard | 可选 | Preference for holders of specific majors or certificates. |
+| 公务员考试（巡警） | Ministry of Personnel Management | 必备 | 笔试、实操和面试。 |
+| 海岸警卫队专业证书 | 韩国海岸警卫队 | 可选 | 偏好特定专业或证书持有者。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 11,500. With sustained demand for maritime safety and illegal fishing crackdowns, personnel recruitment is expected to continue steadily, but competition rates are high due to quota limits.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 11,500。随着海上安全和打击非法捕捞需求的持续，人员招聘预计将稳步进行，但由于配额限制，竞争率较高。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,84 @@ A public official responsible for maintaining maritime order, conducting search 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$42,000,000 | Based on Patrol Officer, including various allowances. |
-| Mid-level (5-10 years) | $45,000,000~$55,000,000 | Sergeant to Inspector, varies with allowances. |
-| 高级（15年以上） | $60,000,000~$80,000,000 | Superintendent or above, considering age limit. |
+| 入门级（0-3年） | $35,000,000~$42,000,000 | 基于巡逻警官，包含各种津贴。 |
+| 中级（5-10年） | $45,000,000~$55,000,000 | 巡佐到督察，因津贴而异。 |
+| 高级（15年以上） | $60,000,000~$80,000,000 | 主管及以上，考虑年龄限制。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies are utilized to enhance the efficiency of maritime police officers. For example, drone-based maritime surveillance, AI-powered vessel identification systems, and automated situation reporting are introduced to reduce personnel burden and improve accuracy. However, field responses such as rescue and enforcement still rely heavily on human judgment and action.
+利用AI和自动化技术提高海警的工作效率。例如，引入无人机海上监控、AI船舶识别系统和自动情况报告，以减少人力负担并提高准确性。然而，救援和执法等现场响应仍主要依赖人类的判断和行动。
 
-After training at the Coast Guard Academy, appointed as a Patrol Officer, promoted to Inspector and Superintendent, with specialized career paths to the Ministry of Oceans and Fisheries or overseas postings.
+在海岸警卫队学院培训后，被任命为巡逻官，晋升为督察和总监，并可选择专门从事海洋水产部或海外派驻的职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Vessel Identification and Monitoring Tasks
-- Navigation Logs and Report Writing
+- 简易船舶识别与监控任务
+- 导航日志与报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Maritime Surveillance and Detection
-- Risk Assessment and Decision Making
-- Rescue Plan Development
+- 海上监视与探测
+- 风险评估与决策
+- 救援计划制定
 
-**人类护城河:**
+**人类护城河：**
 
-- On-Site Judgment in Crisis Situations
-- Interpersonal Negotiation and Response Skills
-- Exercise of Legal Discretion
+- 危机情况下的现场判断
+- 人际谈判与应对能力
+- 法律自由裁量权的行使
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and Drone Operation Skills
-- Data Analysis
-- Digital Literacy
+- AI与无人机操作技能
+- 数据分析
+- 数字素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Maritime Safety
-- Maritime Security
-- Rescue Personnel
-- Coast Guard
+- 海事安全
+- 海上保安
+- 救援人员
+- 海岸警卫队
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For non-professional foreign workers, not applicable to Coast Guard Officers. |
-| Subclass E-7 (E-7 (Specific Activities)) | Not issued for professionals; maritime police officers are civil servants and thus ineligible |
-| Subclass F-5 (Permanent Residence) | Only permanent residents may apply for maritime police, but very limited |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong sense of responsibility and public service
-- People with excellent physical and mental health
-- People who can remain calm in crisis situations
+- 具有强烈责任感和公共服务意识的人
+- 身心健康良好的人
+- 能在危机情况下保持冷静的人
 
 **谁不适合**
-- People with a tendency to avoid risk
-- People who dislike rules and hierarchy
+- 倾向于规避风险的人
+- 不喜欢规则和等级制度的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a maritime police officer?**
-答：Starting as a patrol officer, approximately 35–42 million won (including allowances); senior officers above inspector earn 60–80 million won.
+**问：海上警务人员的平均工资是多少？**
+答：从巡警起步，约3500-4200万韩元（含津贴）；督察级以上高级警官收入6000-8000万韩元。
 
-**问：Can foreigners become maritime police officers?**
-答：Under current law, maritime police officers are South Korean civil servants; only Korean nationals can apply. Even permanent residents (F-5) without citizenship are ineligible.
+**问：外国人能成为海事警察吗？**
+答：根据现行法律，海事警察是韩国公务员；只有韩国国民可以申请。即使是没有国籍的永久居民（F-5）也不符合资格。
 
-**问：What preparation is needed to become a maritime police officer?**
-答：Applicants must pass a written exam (Korean history, English, Constitution, etc.), physical fitness test, and interview. Majors in maritime police science or related fields are advantageous.
+**问：成为海上警务人员需要做什么准备？**
+答：申请人须通过笔试（韩国历史、英语、宪法等）、体能测试和面试。海洋警察科学或相关专业优先。
 
 
 ---
@@ -143,12 +133,12 @@ After training at the Coast Guard Academy, appointed as a Patrol Officer, promot
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/coast-guard-officer/KR)**

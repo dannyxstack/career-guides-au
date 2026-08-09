@@ -52,8 +52,6 @@ Construction managers oversee projects from planning to completion, including bu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction managers' roles won't be fully replaced by AI, but entry-level positions and some supervisory functions face automation pressure; AI will enhance data analysis and risk prediction capabilities, requiring stronger communication and decision-making skills.
-
 Typically progress from project manager or site supervisor; with experience, can become senior project manager, construction director, or business partner. Holding PMP or Gold Seal certification helps advancement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically progress from project manager or site supervisor; with experience, can
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not a mandatory license, but Gold Seal certification, PMP, or relevant degree
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-manager/CA)**

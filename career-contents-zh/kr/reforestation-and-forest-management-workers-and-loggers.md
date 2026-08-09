@@ -1,8 +1,8 @@
-# Reforestation and Forest Management Workers and Loggers 职业分析 · 韩国
+# 重新造林和森林管理工人及伐木工（Reforestation and Forest Management Workers and Loggers）职业分析 · 韩国
 
-**职业代码: 90311 (KECO)**
+**职业代码：90311 (KECO)**
 
-Forestry professionals who create and manage forests and produce timber, performing reforestation, forest management, and logging tasks.
+林业专业人员，创建和管理森林，生产木材，执行重新造林、森林管理和伐木任务。
 
 
 ---
@@ -12,7 +12,7 @@ Forestry professionals who create and manage forests and produce timber, perform
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 中学 | 0年 | $0~$0（义务教育免费） |
-| Department of Forest Resources (college) | 2 年 | $6,000,000~$12,000,000（Tuition-based） |
+| 森林资源学院 | 2 年 | $6,000,000~$12,000,000（学费制） |
 
 ---
 
@@ -20,17 +20,17 @@ Forestry professionals who create and manage forests and produce timber, perform
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forest Technician (Craft) | Korea Forest Certification Institute | 必备 | Logging/forestation fieldwork required |
-| Forest Engineer (Technician) | Korea Forest Certification Institute | 可选 | Favorable for manager-level promotion |
+| 林业技术员（技工） | 韩国森林认证研究院 | 必备 | 需要伐木/造林现场工作 |
+| 林业工程师（技术员） | 韩国森林认证研究院 | 可选 | 有利于晋升到经理级别 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 38,000. Labor shortages due to aging and youth departure persist, but employment is expected to be maintained through mechanization and smart forest management adoption.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 38,000。由于老龄化和青年外流，劳动力短缺持续存在，但预计通过机械化和智能森林管理可维持就业水平。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,90 +38,83 @@ Forestry professionals who create and manage forests and produce timber, perform
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$32,000,000 | Logger standards |
-| 中级（4-7年） | $32,000,000~$42,000,000 | Forest Craft certificate holder |
-| Advanced (8+ years) | $42,000,000~$55,000,000 | Forest Engineer or manager |
+| 入门级（0-3年） | $24,000,000~$32,000,000 | 伐木工标准 |
+| 中级（4-7年） | $32,000,000~$42,000,000 | 持有森林工艺证书的人 |
+| 高级（8年以上） | $42,000,000~$55,000,000 | 林业工程师或经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation replace parts of logging work (e.g., automatic harvesters, drone forest monitoring), but afforestation and management requiring field judgment and physical labor are difficult to fully replace with AI. Workforce size decreases, but productivity of remaining workers increases.
+人工智能和自动化替代部分伐木工作（如自动采伐机、无人机森林监测），但需要现场判断和体力劳动的造林和管理工作难以被AI完全替代。劳动力规模减少，但剩余工人的生产力提高。
 
-Career advancement: entry-level skilled worker → mid-level forest technician → forest management instructor or cooperative manager. Certifications and experience are key.
+职业发展：入门级技术工人→中级林业技术员→林业管理指导员或合作社经理。认证和经验是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- manual logging
-- repetitive tree planting work
+- 手动记录
+- 重复植树工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- drone forest monitoring
-- automatic afforestation system
+- 无人机森林监测
+- 自动造林系统
 
-**人类护城河:**
+**人类护城河：**
 
-- field judgment
-- risk situation coping ability
-- ecosystem understanding
+- 现场判断
+- 风险应对能力
+- 生态系统理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- smart equipment operation
-- data analysis
-- drone piloting
+- 智能设备操作
+- 数据分析
+- 无人机驾驶
 
-**主要增长方向:**
+**主要增长方向：**
 
-- smart forestry
-- forest carbon offset
-- urban forest creation
-- timber industry
+- 智慧林业
+- 森林碳补偿
+- 城市森林建设
+- 木材行业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible for simple reforestation/logging jobs; subject to Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Targeting professionals such as forest engineers |
-| Subclass F-2 (Residence) | Can apply after long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and enjoy outdoor activities
-- People interested in environmental protection
-- People who are consistent in obtaining certifications
+- 身体健康且喜欢户外活动的人
+- 对环保感兴趣的人
+- 持之以恒获取认证的人
 
 **谁不适合**
-- People who prefer indoor office work
-- People afraid of dangerous tasks
+- 喜欢室内办公室工作的人
+- 害怕危险任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level loggers, the annual pre-tax salary is about 24 to 32 million KRW, increasing with experience and certifications.
+**问：起薪是多少？**
+答：对于入门级伐木工，年税前工资约2400万至3200万韩元，随着经验和认证增加。
 
-**问：Can foreigners get a job in this occupation?**
-答：With an E-9 (Non-professional Employment) visa, simple functional work is possible; with a forest engineer certification, you can also apply for an E-7 (Professional) visa.
+**问：外国人能否从事该职业？**
+答：持E-9（非专业就业）签证可从事简单功能性工作；持有林业工程师证书也可申请E-7（专业）签证。
 
-**问：Are there required certifications?**
-答：The Forest Technician certification is essential for practical work, and the Forest Engineer certification is advantageous for managerial positions.
+**问：是否需要必需的认证？**
+答：森林技术员认证对实际工作至关重要，森林工程师认证对管理职位有利。
 
 
 ---
@@ -139,12 +132,12 @@ Career advancement: entry-level skilled worker → mid-level forest technician �
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/reforestation-and-forest-management-workers-and-loggers/KR)**

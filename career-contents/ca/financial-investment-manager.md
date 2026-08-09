@@ -52,8 +52,6 @@ Financial investment managers in Canada are responsible for managing investment 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Quantitative analysis tasks for financial investment managers will be highly automated by AI, but strategic decisions, client relationships, and compliance responsibilities remain human moats. Competition for entry-level jobs intensifies, while senior roles see efficiency gains from AI enhancement.
-
 Junior analyst (approx. $50K-$70K) → Investment manager (approx. $100K-$150K) → Senior investment director/CIO ($180K+). Typically requires a CFA or CAIA certification and industry experience. Clear promotion path within large institutions, or move to hedge funds or private equity.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analyst (approx. $50K-$70K) → Investment manager (approx. $100K-$150K) 
 | Subclass PNP (Provincial Nominee Program) | Ontario PNP (Human Capital Priorities) or BC Tech Pilot, etc., with provincial nomination adding 600 points |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored LMIA can earn 50 or 200 EE points, applicable when having a Canadian employer job offer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as an analyst, gain experience, then promote to investment manager, and
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-investment-manager/CA)**

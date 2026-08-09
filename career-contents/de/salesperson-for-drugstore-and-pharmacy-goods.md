@@ -53,8 +53,6 @@ Responsible for providing consultation and selling medicines, cosmetics, health 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Daily consultation and cashier tasks for pharmacy and cosmetics sales staff will be significantly reduced by self-service, AI recommendation systems, and automated inventory management, but professional health and customized recommendations still rely on human staff.
-
 Start as a junior salesperson, can advance to branch supervisor, regional manager; also can become a pharmacist assistant through further study or transfer to wholesale procurement.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start as a junior salesperson, can advance to branch supervisor, regional manage
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to store manager, regional manager, or through training become ph
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salesperson-for-drugstore-and-pharmacy-goods/DE)**

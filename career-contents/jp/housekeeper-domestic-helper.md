@@ -4,8 +4,6 @@
 
 A profession that performs general household tasks such as cleaning, laundry, cooking, and shopping in homes or facilities. Demand is stable among dual-income families and elderly households.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A profession that performs general household tasks such as cleaning, laundry, co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-With the spread of AI and robot vacuums, simple tasks are partly automated, but chores requiring human judgment and communication remain. AI supports workers as an efficiency tool.
-
 With experience, advancement to management roles at domestic service companies or independent business ownership is possible. No mandatory qualifications, but cleaning and cooking skills are valued.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ With experience, advancement to management roles at domestic service companies o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Rarely applicable. Requires advanced specialized knowledge; not permitted for general domestic work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not eligible. Housekeeping is not included in the specified skilled worker categories. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +133,12 @@ A: Common paths are to aim for a managerial position at a housekeeping company o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housekeeper-domestic-helper/JP)**

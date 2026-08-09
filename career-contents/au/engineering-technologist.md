@@ -51,8 +51,6 @@ Engineering technologists apply engineering principles to industrial, manufactur
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of engineering technicians is mixed: AI will automate routine tasks such as design verification and data collection, while enhancing complex work like fault diagnosis and process optimization, requiring proactive adoption of tool upgrades.
-
 Career path: Junior Engineering Technician → Senior Engineering Technician → Engineering Manager or Project Lead. Can become a Professional Engineer (requires accredited engineering degree) through further study.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: Junior Engineering Technician → Senior Engineering Technician →
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from junior to senior technician or engineering manager, or beco
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-technologist/AU)**

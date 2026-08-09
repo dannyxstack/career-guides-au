@@ -4,8 +4,6 @@
 
 A costume designer analyzes fashion trends, designs clothing and accessories, and oversees the entire process from sample production to manufacturing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A costume designer analyzes fashion trends, designs clothing and accessories, an
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists designers in fashion trend analysis, pattern generation, and personalized recommendations, but creative design and aesthetic judgment remain human domains. Simple repetitive tasks risk automation.
-
 Careers typically start in design studios or fashion companies, with promotions from assistant designer to designer, senior designer, and creative director. Portfolio and networking are important.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Careers typically start in design studios or fashion companies, with promotions 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires over 5 years of experience as a professional in fashion design |
-| Subclass D-10 (Job Seeking) | Short-term job-seeking for fashion-related graduates |
-| Subclass F-2 (Residence) | Long-term stay permitted, no employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: It's not mandatory, but a degree in fashion design is advantageous for employ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/costume-designer/KR)**

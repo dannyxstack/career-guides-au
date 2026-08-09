@@ -4,8 +4,6 @@
 
 Responsible for periodically reading utility meters such as water, electricity, and gas, as well as collecting cash or data from vending machines. The work involves outdoor activities, data recording, and basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for periodically reading utility meters such as water, electricity, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Utility meter readers face high automation due to smart meters and remote reading technology, leading to sharp job decline and severely limited career prospects.
-
 Can progress from junior meter reader to senior technician or team supervisor, or transition to smart metering system installation and maintenance, or enter utility company data management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Can progress from junior meter reader to senior technician or team supervisor, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applies to non-EU citizens; requires employer sponsorship with an annual quota. Typically requires high school education or above. |
-| Subclass EU Blue Card (EU Blue Card) | Only applicable to high-skilled occupations; this occupation typically does not meet the salary threshold (must be higher than 1.5 times the Italian average wage). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: High possibility; smart metering systems are becoming widespread, gradually r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meter-reader-and-vendingmachine-collector/IT)**

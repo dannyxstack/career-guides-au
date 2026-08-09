@@ -52,8 +52,6 @@ Responsible for designing, developing, and maintaining websites, multimedia appl
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
-
 Advance from junior front-end/back-end developer to senior developer, technical leader, or architect; You can also transition to project management or product manager; After accumulating experience, start your own business or become a freelancer.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Advance from junior front-end/back-end developer to senior developer, technical 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, requiring a university degree or 5 years of experience, with an annual salary threshold of about €33,908 (2023), allowing quick residency acquisition. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeted at highly skilled professionals, no academic credentials required, contracts must meet salary thresholds (usually €40,000+), and family members are allowed. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored work residency, you need to prove that the position is hard to find locals, flexible but slow to approve. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can obtain the EU Blue Card (with academic qualifications), a highly skil
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-and-multimedia-analysts-programmers-and-designers/ES)**

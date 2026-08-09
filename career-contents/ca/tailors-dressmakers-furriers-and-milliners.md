@@ -51,8 +51,6 @@ Tailors, dressmakers, furriers, and milliners design, make, alter, and repair cl
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
-
 Practitioners can start as apprentices or technicians, advance to senior tailor or custom shop manager after gaining experience, or start their own studio.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Practitioners can start as apprentices or technicians, advance to senior tailor 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually requires completion of vocational training certificate or apprentices
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tailors-dressmakers-furriers-and-milliners/CA)**

@@ -53,8 +53,6 @@ Gaming venue and gambling establishment managers plan, organize, lead, and coord
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Daily operations and compliance supervision tasks of betting shops and gambling venue managers may be AI-assisted, but core customer service, risk decision-making, and legal compliance responsibilities are hard to replace; career prospects are mixed.
-
 Usually start as a betting shop assistant or cashier, gain experience and advance to assistant manager, then store manager or area manager, or transition to online betting operations management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as a betting shop assistant or cashier, gain experience and advanc
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted to regional manager, operations director, or move into online
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/betting-shop-and-gambling-establishment-managers/UK)**

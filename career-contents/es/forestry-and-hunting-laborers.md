@@ -4,8 +4,6 @@
 
 Forestry and hunting workers are responsible for forest planting, logging, fire prevention, and assisting with hunting activities. There is stable demand in Spain's forestry and rural areas, and the work environment is mostly outdoors.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Forestry and hunting workers are responsible for forest planting, logging, fire 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI struggles to replace outdoor physical strength and judgment, but as an amplifier, it can improve efficiency and provide stable employment prospects. Spain faces a significant labor gap in forestry and hunting, and AI assistance will enhance rather than eliminate jobs.
-
 Workers can be promoted through experience to become forestry machinery operators, hunting guides, or forest foremen. Attending FP Forest Resource Management courses can lead to technical positions or pass exams to enter public sectors such as forestry police.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Workers can be promoted through experience to become forestry machinery operator
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Sponsorship from a Spanish employer is required, and the position cannot be filled within the EU, which is quite challenging. |
-| Subclass Busqueda empleo (Job search visa) | You can stay in Spain for 6-12 months to find work, but forestry positions have high mobility and low success rates. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: It's not easy. This occupation is not in short supply, requires employer spon
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-and-hunting-laborers/ES)**

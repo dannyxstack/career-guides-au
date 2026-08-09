@@ -51,8 +51,6 @@ Management consultants provide strategic, operational, organisational and digita
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Management consultant roles have mixed impacts: AI automation will replace much data collection and report generation, but strategic advice, client relationships, and change management skills are amplified, increasing the value of senior consultants while intensifying competition for junior roles.
-
 A relevant degree plus analytical and communication skills are required; the career path progresses towards senior consultant and partner roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ A relevant degree plus analytical and communication skills are required; the car
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. Management Consultant (224711) is on the skilled migration list and requ
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultant/AU)**

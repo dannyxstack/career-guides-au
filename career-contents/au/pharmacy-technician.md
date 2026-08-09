@@ -54,8 +54,6 @@ Pharmacy technicians assist in dispensing medications, managing inventory, proce
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve the efficiency of pharmacy technicians but will also reduce some traditional tasks. The overall outlook is mixed: repetitive tasks are replaced, but the value of clinical support and patient services rises.
-
 Junior pharmacy technicians can advance to senior technician or team leader through experience, with some transitioning to procurement, quality management, or further study to become registered pharmacists.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior pharmacy technicians can advance to senior technician or team leader thro
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Must complete an accredited Bachelor of Pharmacy (usually 4 years) and pass t
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-technician/AU)**

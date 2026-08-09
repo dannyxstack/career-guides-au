@@ -4,8 +4,6 @@
 
 A professional who records and transcribes speech in real time at meetings, courtrooms, broadcasts, etc., where accuracy and speed are key.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who records and transcribes speech in real time at meetings, cour
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-As AI voice recognition and automatic stenography technology rapidly develop, simple minutes writing tasks are being replaced, and employment size is shrinking. However, in court and National Assembly stenography where accuracy and legal responsibility are crucial, human stenographers are still needed, making full replacement difficult.
-
 After building a career in office work or broadcasting/legal fields, one can transition to a professional stenographer; freelancing or starting a transcription company is also possible with experience.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After building a career in office work or broadcasting/legal fields, one can tra
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed at a foreign company or institution as a professional stenographer, but not common |
-| Subclass F-2 (Residence) | Possible after obtaining permanent residence |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work as stenographers, but rare on work visas |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: With the development of AI voice recognition technology, replacement is under
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stenographer/KR)**

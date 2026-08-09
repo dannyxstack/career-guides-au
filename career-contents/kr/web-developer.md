@@ -50,8 +50,6 @@ A professional who designs, develops, and maintains websites and web application
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automates code generation, testing, and debugging to boost productivity, but it is unlikely to replace entire jobs. Tasks like requirements analysis, architecture design, and UX optimization still require human judgment.
-
 Progress from junior developer to senior, tech lead, or architect. Can specialize as a frontend/backend expert or full-stack developer. Opportunities in startups or corporate IT departments.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Progress from junior developer to senior, tech lead, or architect. Can specializ
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires an employment contract as a skilled technical worker. Web developers may be included. |
-| Subclass D-10 (Job Seeking) | Useful for switching status for international students majoring in IT, allows 6 months of job seeking. |
-| Subclass F-2 (Residence) | Can be converted to a points-based system, stable for long-term stay. |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: E-7 (Specific Activities) visas are common; requires an employment contract a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-developer/KR)**

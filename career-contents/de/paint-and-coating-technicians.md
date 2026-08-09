@@ -52,8 +52,6 @@ Professionals engaged in paint, varnish, coating and surface treatment technolog
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Paint and coatings technician roles are moderately affected by automation: pretreatment and spraying can be partially replaced, but quality control, color matching, and complex surface finishing still rely on human judgment. AI-enhanced tools can improve efficiency, with a mix of risk and opportunity overall.
-
 After apprenticeship, can advance to foreman or technician, or gain higher qualifications through continuing education (e.g., technician or industrial coating specialist). Some advance to workshop supervisor or coating engineer.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ After apprenticeship, can advance to foreman or technician, or gain higher quali
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking residence permit; can be used for on-site job hunting |
 | Subclass Vocational Training  (Vocational Training Visa) | Allows you to go to Germany to complete dual vocational training and stay to work after training |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to foreman (Meister), plant supervisor, or paint technician. Furt
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paint-and-coating-technicians/DE)**

@@ -52,8 +52,6 @@ IT network professionals design, build and maintain computer networks, support n
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of IT network professionals (e.g., configuration, troubleshooting) face risks of AI automation, but complex network design, security strategies, and project management needs are enhanced by AI, presenting a mixed outlook.
-
 Junior network engineers can advance to senior network engineers or network architects, and can also move toward cybersecurity or cloud networking, becoming technical managers or IT managers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior network engineers can advance to senior network engineers or network arch
 | Subclass Scale-up (Scale-up visa) | Suitable for highly skilled talents working in fast-growing companies; requires employer sponsorship and a relatively high salary (approximately over GBP 33,000). |
 | Subclass Graduate (Graduate visa) | Open to recent UK university graduates, valid for 2 years (3 years for PhD), allowing unrestricted work, then can switch to Skilled Worker. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but a bachelor's or master's degree often helps job applicatio
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-network-professionals/UK)**

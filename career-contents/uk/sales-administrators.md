@@ -50,8 +50,6 @@ Sales administrator provides administrative support to the sales team, including
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
-
 Sales administrators can advance to sales supervisor, sales manager, or account manager. By accumulating industry experience and mastering sales strategies, they can move into more senior business development or account management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Sales administrators can advance to sales supervisor, sales manager, or account 
 | Subclass Graduate (Graduate visa) | UK university graduates can apply, allowing them to work in the UK for 2 years (3 years for PhDs) and then switch to a Skilled Worker visa after gaining experience. |
 | Subclass Scale-up (Scale-up visa) | Positions for rapidly growing companies require sponsorship by an eligible employer; initial visa 2 years, renewable or convertible to permanent residence. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can be promoted to Sales Supervisor, Sales Manager, or Account Manager. Also 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-administrators/UK)**

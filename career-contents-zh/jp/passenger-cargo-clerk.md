@@ -1,8 +1,8 @@
-# Passenger & Cargo Clerk 职业分析 · 日本
+# 客货运输职员（Passenger & Cargo Clerk）职业分析 · 日本
 
-**职业代码: 301 (JSCO)**
+**职业代码：301 (JSCO)**
 
-Clerical role handling passenger guidance, cargo arrangement, and operations management for railways, airlines, and shipping. Also handles reservations, ticketing, and parcel tracking.
+文职角色，负责铁路、航空和航运的乘客引导、货物安排和运营管理。也处理预订、票务和包裹跟踪。
 
 
 ---
@@ -11,9 +11,9 @@ Clerical role handling passenger guidance, cargo arrangement, and operations man
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Free at public high schools, approx. ¥3 million at private） |
-| Vocational School (Transportation/Tourism) | 2 年 | $2,000,000~$4,000,000（Tuition average for private vocational schools） |
-| University (Economics/Business/Logistics) | 4年 | $4,000,000~$8,000,000（¥4 million at national/public, ¥8 million at private） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中免费，私立约300万日元） |
+| 职业学校（交通/旅游） | 2 年 | $2,000,000~$4,000,000（私立职业学校平均学费） |
+| 大学（经济学/商业/物流学） | 4年 | $4,000,000~$8,000,000（公立/国立400万日元，私立800万日元） |
 
 ---
 
@@ -21,18 +21,18 @@ Clerical role handling passenger guidance, cargo arrangement, and operations man
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Operations Manager | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | National qualification required for passenger/cargo operations management |
-| Domestic Travel Service Handling Manager | Japan Tourism Agency | 可选 | Valid for engaging in travel business |
-| TOEIC 730+ | IIBC | 可选 | Advantageous in international tourism/cargo work |
+| 运营经理 | 国土交通省 | 可选 | 客运/货运运营管理需国家资格 |
+| 国内旅行服务处理经理 | 日本观光局 | 可选 | 从事旅游业务有效 |
+| TOEIC 730+ | IIBC | 可选 | 在国际旅游/货运工作中具有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 120,000. While demand persists due to tourism recovery and logistics expansion, IT/automation reduces routine tasks, requiring staff specializing in customer service and complex coordination.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 120,000。尽管旅游复苏和物流扩张带来需求，但IT/自动化减少了常规任务，需要专攻客户服务和复杂协调的员工。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +40,85 @@ Clerical role handling passenger guidance, cargo arrangement, and operations man
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $2,500,000~$3,500,000 | Monthly ¥200,000–250,000 + bonus |
-| Mid-level (4–10 years) | $3,500,000~$5,000,000 | Monthly salary ¥250,000–¥350,000 + bonus |
-| Advanced (11+ years) | $4,500,000~$6,500,000 | Managerial position, monthly salary ¥350,000–¥450,000 + bonus |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 月薪20万~25万日元 + 奖金 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 月薪25万–35万日元 + 奖金 |
+| 高级（11年以上） | $4,500,000~$6,500,000 | 管理职位，月薪35万-45万日元 + 奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation are likely to replace some ticketing and reservation system tasks. However, tasks requiring human judgment, such as complex inquiries and emergency coordination, will remain, making full replacement difficult.
+人工智能和自动化可能会取代部分票务和预订系统任务。然而，需要人类判断的任务，如复杂咨询和紧急协调，将保留，因此完全取代很困难。
 
-Career advancement possible from field experience to operations management or sales. Also pathways to airport/station management or logistics company manager.
+职业发展可从现场经验晋升到运营管理或销售。也有通往机场/车站管理或物流公司经理的路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Ticketing and reservation tasks
-- Automated inquiry response for package tracking
-- Simple schedule modification tasks
+- 票务和预订任务
+- 包裹跟踪自动查询回复
+- 简单的日程修改任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer guidance (using multilingual AI translation)
-- Flexible staffing based on demand forecasting
-- Improving complaint handling quality
+- 客户引导（使用多语言AI翻译）
+- 基于需求预测的灵活人员配置
+- 提高投诉处理质量
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced crisis management skills
-- Building customer trust
-- Flexible negotiation and coordination skills
+- 高级危机管理技能
+- 建立客户信任
+- 灵活的谈判和协调能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Foreign languages (English, Chinese, etc.)
-- Operations management system knowledge
-- Data analysis and problem-solving skills
+- 外语（英语、中文等）
+- 运营管理系统知识
+- 数据分析和解决问题的能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics DX
-- Tourism demand
-- Residence status support
-- Automation/AI
+- 物流数字化转型
+- 旅游需求
+- 居留资格支持
+- 自动化/人工智能
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Residence status for clerical/administrative managers. Applicable when engaged in international transport operations. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Accommodation field)) | Limited to accommodation/tourism work, but may apply. |
-| Subclass 経営・管理 (Business Manager) | Applies when engaged in management or administrative work at a transport company. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at multitasking
-- People comfortable with interpersonal service
-- People with accuracy and attention to detail
+- 擅长多任务处理的人
+- 适合人际服务的人
+- 注重准确性和细节的人
 
 **谁不适合**
-- People who prefer monotonous work
-- People not good at flexible responses
+- 偏好单调工作的人
+- 不善于灵活应变的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income for foreigners working in this occupation from overseas?**
-答：For entry-level, annual income is generally around 2.5 million to 3.5 million yen, varying by experience and language skills.
+**问：在该职业工作的外国人年收入是多少？**
+答：入门级年收入一般在250万至350万日元左右，因经验和语言能力而异。
 
-**问：How can I obtain a work visa for this occupation?**
-答：Typically, the 'Engineer/Specialist in Humanities/International Services' visa applies. Job duties must be clerical or managerial and require specialized skills. Specified Skilled Worker is limited to the accommodation sector.
+**问：如何获得这一职业的工作签证？**
+答：通常适用“人文/国际服务工程师/专家”签证。工作职责必须是文书或管理性质，并需要专业技能。特定技能工人仅限于住宿行业。
 
-**问：Can I start without experience?**
-答：Experience as a flight attendant or airport ground staff is advantageous, but there are also job openings for inexperienced candidates through new graduate or mid-career hiring. Language skills are a plus.
+**问：没有经验可以开始吗？**
+答：有乘务员或机场地勤经验者优先，但通过新毕业生或社会招聘也有无经验者的职位。语言能力是加分项。
 
 
 ---
@@ -143,12 +136,12 @@ Career advancement possible from field experience to operations management or sa
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/passenger-cargo-clerk/JP)**

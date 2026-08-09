@@ -51,8 +51,6 @@ A construction worker who finishes walls or floors by applying mortar, cement, e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have limited impact, but the introduction of automatic plastering machines may reduce simple repetitive tasks. The know-how of skilled workers remains crucial.
-
 Can advance from beginner plasterer → intermediate plasterer → senior plastering master → site manager. Experience and certifications are crucial for promotion.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Can advance from beginner plasterer → intermediate plasterer → senior plaste
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Targets foreign workers in construction, issued under Employment Permit System, can include plasterers |
-| Subclass E-7 (Specific Activities (E-7)) | Targets skilled workers, experienced plasterers eligible |
-| Subclass F-2 (Residence (F-2)) | Long-term residence status, can convert under skilled worker points system |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: After obtaining a technician certificate and gaining experience, you can adva
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/KR)**

@@ -54,8 +54,6 @@ Responsible for diagnosing and treating diseases in domestic and companion anima
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
-
 Typically starting as a veterinary assistant, one can gain experience to become a lead veterinarian or clinic department head, or open a private practice, or shift to research/teaching roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically starting as a veterinary assistant, one can gain experience to become 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires qualification recognition and employer sponsorship, applicable to shortage occupations. |
 | Subclass Recognition Qualific (Recognition of Professional Qualifications) | Overseas degrees must be accredited by Anabin or the Veterinary Association, and supplementary courses may be required. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Small animals, horses, ruminants, public health, food inspection, etc., with 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian-for-pets-and-companion-animals/DE)**

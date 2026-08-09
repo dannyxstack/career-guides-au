@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing farm production, growing fiel
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can start as a farm assistant or operator, gain experience to independently manage a farm or become a farm owner. Also can transition to agricultural consulting, agricultural product trading, or agricultural technology management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can start as a farm assistant or operator, gain experience to independently mana
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, can transition to 191 permanent residency |
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. This occupation is on the MLTSSL list, eligible for 189/190/491 visas, r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-oilseed-pulse-or-pasture-grower-field-crop-grower/AU)**

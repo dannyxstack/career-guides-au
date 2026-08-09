@@ -1,10 +1,8 @@
 # 律师（Lawyer）职业分析 · 日本
 
-**职业代码: 173 (JSCO)**
+**职业代码：173 (JSCO)**
 
-Japanese lawyers are highly specialized professionals handling a wide range of legal work including court representation, legal consultation, and contract drafting. As the core of the legal profession, they support the judicial system.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本律师是高专业化的专业人士，处理包括法庭代理、法律咨询和合同起草在内的广泛法律工作。作为法律职业的核心，他们支持司法体系。
 
 
 ---
@@ -13,9 +11,9 @@ Japanese lawyers are highly specialized professionals handling a wide range of l
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor of Laws (LL.B.) | 4年 | $4,000,000~$6,000,000（Varies between national/public and private universities） |
-| Law School (LL.M.) | 2 年 | $6,000,000~$12,000,000（Private universities are expensive） |
-| Judicial Training | 1年 | $0~$0（Stipend provided (approx. ¥200,000/month)） |
+| 法学学士（LL.B.） | 4年 | $4,000,000~$6,000,000（国立/公立和私立大学之间有所不同） |
+| 法学院（法学硕士） | 2 年 | $6,000,000~$12,000,000（私立大学费用高昂） |
+| 司法培训 | 1年 | $0~$0（提供津贴（约20万日元/月）） |
 
 ---
 
@@ -23,17 +21,17 @@ Japanese lawyers are highly specialized professionals handling a wide range of l
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bar Exam | Ministry of Justice | 必备 | Pass rate approx. 30-40% |
-| Lawyer Registration | Japan Federation of Bar Associations | 必备 | Post-bar exam, requires completion of judicial training |
+| 律师资格考试 | 法务部 | 必备 | 通过率约30-40% |
+| 律师注册 | 日本律师联合会 | 必备 | 通过司法考试后，需完成司法培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 43,000. While the number of legal professionals is increasing, issues such as uneven job distribution and regional shortages persist. New demand is emerging through in-house lawyers and legal tech utilization.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 43,000。虽然法律专业人员数量在增加，但工作分布不均和地区短缺等问题依然存在。通过内部律师和法律科技的运用，新的需求正在涌现。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,87 @@ Japanese lawyers are highly specialized professionals handling a wide range of l
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $5,000,000~$8,000,000 | Varies between large firms and corporate legal |
-| Mid-level (3-10 years) | $10,000,000~$15,000,000 | Varies by specialty and affiliation |
-| 资深（10年以上） | $15,000,000~$30,000,000 | Partnership or independent practice yields high income |
+| 初级 (0-3年) | $5,000,000~$8,000,000 | 因大型企业和公司法务而异 |
+| 中级（3-10年） | $10,000,000~$15,000,000 | 因专业和所属机构而异 |
+| 资深（10年以上） | $15,000,000~$30,000,000 | 合伙或独立执业收入高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Legal work is affected by AI but full replacement is difficult. AI complements routine tasks like contract review and case search, allowing lawyers to focus on strategic judgment and negotiation.
+法律工作受AI影响，但完全替代困难。AI辅助合同审查、案例搜索等常规任务，使律师专注于战略判断和谈判。
 
-After passing the bar exam, one completes judicial training (1 year) and registers as a lawyer. Subsequently, they gain experience at law firms or corporate legal departments, advancing to partner or independent practice. Establishing a specialized field is key to career growth.
+通过律师考试后，完成司法培训（1年）并注册为律师。随后在律所或企业法务部门积累经验，晋升为合伙人或独立执业。建立专业领域是职业发展的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated contract review
-- Case law search
-- Partial document drafting
+- 自动化合同审查
+- 判例法检索
+- 部分文件起草
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Research work
-- Due diligence
-- Legal risk analysis
+- 研究工作
+- 尽职调查
+- 法律风险分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex legal interpretation
-- Interpersonal negotiation
-- Courtroom argumentation
-- Ethical judgment
+- 复杂法律解释
+- 人际谈判
+- 法庭辩论
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Legal Tech knowledge
-- Data analysis
+- 法律科技知识
+- 数据分析
 - 英语能力
-- Negotiation skills
+- 谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Corporate law
-- International transactions
-- Intellectual property
-- Legal Tech
+- 公司法
+- 国际交易
+- 知识产权
+- 法律科技
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | This may apply if a foreign lawyer handles foreign law at a Japanese law firm. A separate Japanese lawyer qualification is required. |
-| Subclass 高度専門職 (Highly Skilled Professional Visa) | This may apply to foreign lawyers with high income or experience. Preferential treatment for permanent residency. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong logical thinking
-- Those skilled in negotiation and argument
-- Those who handle pressure well
+- 逻辑思维能力强的人
+- 擅长谈判和辩论的人
+- 能良好应对压力的人
 
 **谁不适合**
-- Those who seek short-term results
-- Those who prefer routine work
+- 寻求短期结果的人
+- 喜欢常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a lawyer?**
-答：First year: 5-8 million yen; mid-career: 10-15 million yen; partner or independent: over 20 million yen. Varies by firm size and specialty.
+**问：律师的年收入是多少？**
+答：第一年：500-800万日元；中期：1000-1500万日元；合伙人或独立：超过2000万日元。因公司规模和专业而异。
 
-**问：How can a foreigner become a lawyer in Japan?**
-答：Must pass the Japanese bar exam and receive approval from the Ministry of Justice. However, as a foreign law attorney, there is also a visa (Engineer/Specialist in Humanities/International Services) limited to handling home country law.
+**问：外国人如何在日本成为律师？**
+答：必须通过日本司法考试并获得法务省批准。但作为外国法务律师，也有仅限于处理本国法律的签证（工程师/人文知识/国际服务）。
 
-**问：What is the career path for a lawyer?**
-答：Various environments including corporate legal departments, law firms, and government offices. Independent practice is also common, and specializing broadens career options.
+**问：律师的职业发展路径是什么？**
+答：各种环境包括企业法务部、律师事务所和政府办公室。独立执业也很常见，专业化可拓宽职业选择。
 
 
 ---
@@ -146,12 +137,12 @@ After passing the bar exam, one completes judicial training (1 year) and registe
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/lawyer/JP)**

@@ -4,8 +4,6 @@
 
 Kitchen assistants assist chefs with ingredient preparation, cleaning, and basic cooking tasks in restaurants, hotels, and other dining establishments, serving as a fundamental support for the kitchen team.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Kitchen assistants assist chefs with ingredient preparation, cleaning, and basic
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Kitchen assistant positions heavily rely on repetitive physical labor and simple judgment tasks. AI and automation technologies (such as smart vegetable cutters and automated cooking systems) have significantly reduced demand, and entry-level positions have noticeably contracted. However, high-complexity cooking and personalized services still remain a human moat.
-
 Kitchen assistants can be promoted to chef assistant, Level 2 chef, or become professional chefs through vocational training. Some staff members may also transition to restaurant management positions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Kitchen assistants can be promoted to chef assistant, Level 2 chef, or become pr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | A work contract from a Spanish employer is required, and the position cannot be filled by a local employee. This usually applies to high-skilled positions, but kitchen assistants may not qualify. |
-| Subclass Busqueda empleo (Job Search Visa) | Kitchen assistants are not suitable for highly educated or highly skilled talents. |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Through accumulating experience, you can be promoted to Chef Assistant, Level
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-assistant/ES)**

@@ -1,10 +1,8 @@
-# Baker and Pastry Chef 职业分析 · 韩国
+# 面包师和糕点师（Baker and Pastry Chef）职业分析 · 韩国
 
-**职业代码: 87111 (KECO)**
+**职业代码：87111 (KECO)**
 
-A baker and pastry chef is responsible for the entire process of making bread, cakes, and pastries by kneading, shaping, and baking using ingredients such as flour, sugar, and eggs.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+面包师和糕点师负责使用面粉、糖、鸡蛋等原料，通过揉捏、塑形和烘烤来制作面包、蛋糕和糕点的全过程。
 
 
 ---
@@ -13,9 +11,9 @@ A baker and pastry chef is responsible for the entire process of making bread, c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 0 | $0~$0（Employment is possible without qualifications, but education level is irrelevant.） |
-| Two-year college in baking and pastry | 2 年 | $5,000,000~$8,000,000（Differences exist between national and private institutions.） |
-| Short-term academy course | 6 months | $1,000,000~$3,000,000（Government subsidies may be available.） |
+| 高中文凭或更高学历 | 0 | $0~$0（无资格也可就业，但教育程度无关紧要。） |
+| 烘焙与糕点制作两年制大专 | 2 年 | $5,000,000~$8,000,000（国立和私立机构之间存在差异。） |
+| 短期学院课程 | 6个月 | $1,000,000~$3,000,000（可能有政府补贴。） |
 
 ---
 
@@ -23,18 +21,18 @@ A baker and pastry chef is responsible for the entire process of making bread, c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pastry Chef Certification (Je-gwa-gineung-sa) | Human Resources Development Service of Korea | 可选 | Basic certification, written and practical exams |
-| Baker Certification (Je-ppang-gineung-sa) | Human Resources Development Service of Korea | 可选 | Basic certification, written and practical exams |
-| Master Pastry Chef (Je-gwa-gineung-jang) | Human Resources Development Service of Korea | 可选 | Advanced certification, requires experience. |
+| 糕点师认证（Je-gwa-gineung-sa） | 韩国人力资源开发服务局 | 可选 | 基础认证，笔试和实操考试 |
+| 烘焙师认证（Je-ppang-gineung-sa） | 韩国人力资源开发服务局 | 可选 | 基础认证，笔试和实操考试 |
+| 高级糕点师傅（制菓技能长） | 韩国人力资源开发服务局 | 可选 | 高级认证，需要经验。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 —. With the increase in bakery demand and growth of the food service industry, employment of bakers and pastry chefs is expected to steadily increase, although some low-skilled positions may be replaced by automation.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 —。随着烘焙需求的增加和食品服务业的发展，面包师和糕点师的就业预计将稳步增长，尽管一些低技能岗位可能被自动化取代。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,94 +40,85 @@ A baker and pastry chef is responsible for the entire process of making bread, c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$32,000,000 | Annual salary before tax, including probation period |
-| 中级（4-7年） | $32,000,000~$40,000,000 | Pre-tax salary influenced by certifications |
-| 高级（8年+） | $40,000,000~$55,000,000 | Pre-tax salary, including managerial positions |
+| 入门级（0-3年） | $25,000,000~$32,000,000 | 税前年薪（含试用期） |
+| 中级（4-7年） | $32,000,000~$40,000,000 | 受认证影响的税前工资 |
+| 高级（8年+） | $40,000,000~$55,000,000 | 税前薪资，含管理岗位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are replacing bread dough mixing and simple molding processes, but areas requiring human senses such as creative design, flavor combinations, and quality control remain, leading to job roles being reduced and advanced.
+AI和自动化正在取代面包面团搅拌和简单成型工艺，但需要人类感官的领域如创意设计、口味组合和质量控制仍然存在，导致职位减少和高级化。
 
-Typically, one can accumulate skills in small businesses and advance to a head pastry chef or bakery manager, or even start their own business or become a franchise branch manager.
+通常可以在小企业积累技能，晋升为主管糕点师或面包店经理，甚至创业或成为特许经营分店经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- dough measuring and mixing
-- Simple Molding
-- Oven temperature control monitoring
+- 面团计量与混合
+- 简易成型
+- 烤箱温度控制监测
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Recipe Development and Improvement
-- Quality Inspection
-- Production Process Optimization
+- 配方开发与改进
+- 质量检验
+- 生产过程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Taste and Creativity
-- Hand skills
-- Custom product manufacturing
+- 品味与创造力
+- 手部技能
+- 定制产品制造
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Baking Equipment Operation
-- Food Engineering Knowledge
-- Dessert Trend Analysis
+- AI烘焙设备操作
+- 食品工程知识
+- 甜品趋势分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- HACCP Certification
-- Premium Bakery
-- Vegan Confectionery
-- Online Sales
+- HACCP认证
+- 精品面包店
+- 纯素糖果
+- 在线销售
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible in manufacturing/bakery, but quota limited |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled bakers as skilled worker |
-| Subclass F-2 (F-2 (Residence)) | No work restrictions after long-term stay |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans, service industry allowed |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity and attention to detail
-- People with thorough hygiene awareness
-- People available for early morning shifts
+- 灵巧且注重细节的人
+- 卫生意识强的人
+- 可上早班的人
 
 **谁不适合**
-- People with low physical stamina
+- 体力耐力较低的人
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a pastry and bakery worker?**
-答：Based on entry-level (0-3 years), the pre-tax annual salary is around KRW 25 million to 32 million, varying by certification and work location.
+**问：糕点烘焙工的起薪是多少？**
+答：以入门级（0-3年）为准，税前年薪约2500万至3200万韩元，因认证和工作地点而异。
 
-**问：Can a foreigner get a job as a confectionery/bakery chef?**
-答：E-7 visa (Specific Activities) allows skilled workers to be employed, but requires experience, certifications, and employer recommendation is important.
+**问：外国人能否找到糖果/烘焙厨师的工作？**
+答：E-7签证（特定活动）允许技术工人受雇，但需要经验、证书，且雇主推荐很重要。
 
-**问：Do I have to graduate from a related department?**
-答：No, there is no educational restriction, but vocational college or academy training can be advantageous for employment and make it easier to obtain certifications.
+**问：必须毕业于相关院系吗？**
+答：不，没有教育限制，但职业学院或培训机构的经历有助于就业，并能更容易获得认证。
 
 
 ---
@@ -147,12 +136,12 @@ Typically, one can accumulate skills in small businesses and advance to a head p
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/baker-and-pastry-chef/KR)**

@@ -54,8 +54,6 @@ Responsible for safely loading, connecting, and detonating explosives in mining,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 Career progression: start as a blaster's assistant, gain experience to advance to blasting supervisor or blasting engineer, or transition to safety consultant.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression: start as a blaster's assistant, gain experience to advance t
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If blaster is listed as a shortage occupation, this visa can be applied for, with an annual salary exceeding €64,000 (or €32,000 for specific occupations) |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU workers, annual salary must exceed the EU Blue Card threshold (approx. €64,000), relevant qualifications or experience required |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to blasting supervisor, blasting engineer, or safety consultant, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shotfirer-and-blaster/IE)**

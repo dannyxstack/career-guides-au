@@ -54,8 +54,6 @@ Watchmakers repair, maintain, and manufacture clocks and watches, involving mech
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on watchmakers mainly compresses job functions: automated movement diagnostics and inventory identification will eliminate low-end entry-level positions, but high-precision hand repair and antique watch restoration remain stable.
-
 Starting as an apprentice (Ausbildung), one can advance to master craftsman (Meister) or open their own studio. Some transition to high-end brand after-sales or precision instrument manufacturing.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as an apprentice (Ausbildung), one can advance to master craftsman (Mei
 | Subclass Skilled Worker (Visa for Qualified Professionals (Fachkräfte)) | Application with vocational training certification (via Anerkennung) possible, no salary threshold |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Obtained through a points system, allows job seeking for one year without a work contract, suitable for watchmakers |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can obtain a Meister certificate to open your own workshop or be promoted to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/watchmaker/DE)**

@@ -53,8 +53,6 @@ Handle mail sorting, counter service, and mail tracking to ensure efficient post
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Manual sorting and route sequencing tasks for postal mail carriers are highly susceptible to AI and automation replacement; parcel volume growth is limited, leading to significant job reduction and severely constrained entry opportunities.
-
 Can be promoted to postal supervisor or operations management role, requiring accumulated experience and knowledge of logistics management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can be promoted to postal supervisor or operations management role, requiring ac
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Migration pathways are very limited, usually requiring an LMIA employer spons
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-services-representatives/CA)**

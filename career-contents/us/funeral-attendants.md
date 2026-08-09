@@ -53,8 +53,6 @@ Perform multiple tasks during funerals, such as moving the coffin to the chapel,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
-
 Usually starts as a funeral home assistant, can advance to senior funeral director or funeral home manager, requires gaining experience and obtaining relevant licenses.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Usually starts as a funeral home assistant, can advance to senior funeral direct
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires an associate or bachelor's degree, obtaining a state license
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-attendants/US)**

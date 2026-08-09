@@ -52,8 +52,6 @@ Environmental consultants in Canada assess environmental impacts and provide com
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Junior environmental consultants can advance to senior consultant or project manager, later move into policy making or start their own consulting firm; federal and provincial governments provide ongoing support.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior environmental consultants can advance to senior consultant or project man
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination adds 600 points (e.g., OINP, BC EEBC) |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, lower threshold |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, through FSW or provincial nomination, requiring ECA and language scores,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-scientists-and-specialists-including-health/CA)**

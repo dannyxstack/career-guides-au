@@ -4,8 +4,6 @@
 
 A professional who performs stage arts such as rakugo, manzai, storytelling, and magic to entertain audiences. Activity ranges from preserving classical pieces to creating new works.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who performs stage arts such as rakugo, manzai, storytelling, and
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI is unlikely to completely replace rakugo or manzai, it may be partially utilized for automatic script generation or performance assistance. AI is sometimes used to analyze audience laughter, but the value of human artistry remains high.
-
 Progress from apprenticeship (lowest rank) to second rank, then to headliner. Entering a master's tutelage is common; skill and popularity are keys to career advancement. After independence, self-promotion skills are also important.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Progress from apprenticeship (lowest rank) to second rank, then to headliner. En
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply if a foreigner learns and performs Japanese performing arts, but typically requires work such as interpretation/translation |
-| Subclass 興行 (Entertainer Visa) | Available for short-term performances and event appearances, but with restrictions on work purposes |
-| Subclass 特定技能 (Specified Skilled Worker) | Not applicable (Entertainers/Performers are not a designated field for Specified Skilled Worker) |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +130,12 @@ A: It is possible, but language ability and mastery of the art are essential. If
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/performing-artist/JP)**

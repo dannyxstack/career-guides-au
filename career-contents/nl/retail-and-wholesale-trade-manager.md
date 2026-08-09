@@ -51,8 +51,6 @@ Responsible for overseeing the daily operations of a retail or wholesale store, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Career path can progress from department manager to regional manager or operations director; experienced individuals may move into consulting or start their own business.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career path can progress from department manager to regional manager or operatio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requires annual salary above a threshold (approx. €5,600/month in 2024), employer-sponsored. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | For highly skilled migrants, requires working with a recognized sponsor; salary threshold depends on age (over 30: about €5,600/month). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For graduates who have completed a master's or doctoral degree in the Netherlands, providing one year to find a job. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance from store manager to regional manager or operations director, or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-and-wholesale-trade-manager/NL)**

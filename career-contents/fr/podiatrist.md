@@ -4,8 +4,6 @@
 
 Podiatrists are medical professionals specializing in the diagnosis, treatment, and prevention of foot and lower limb diseases. In France, this profession is regulated and requires a national diploma (DE de pédicure-podologue) to practice.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Podiatrists are medical professionals specializing in the diagnosis, treatment, 
 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-AI's impact on podiatrists is mixed: imaging diagnosis and paperwork will be automated, but skills like palpation, manual therapy, and patient communication will be hard to replace; Compliance and accountability requirements limit AI autonomy.
 
 Initially, you can work in clinics or hospitals, and after gaining experience, you can open a private clinic or engage in specialized fields (such as sports foot diseases or diabetic foot care). You can also enter the fields of education or research.
 
@@ -100,17 +96,9 @@ Initially, you can work in clinics or hospitals, and after gaining experience, y
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, who can apply based on academic qualifications and work experience |
-| Subclass Salarié (Salarié) | Employed by a French medical institution, a work permit is required |
-| Subclass Reconnaissance des q (Professional Qualifications Recognition) | A third-country diploma requires certification to practice |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Requires completion of a 3-year national podiatry diploma (DE), usually studi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/podiatrist/FR)**

@@ -52,8 +52,6 @@ Canadian urban planners work on land use planning, urban design, and policy maki
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace many routine analytical tasks, but the politics of planning, community consultation, and creative design still rely on humans. Overall job numbers may decrease slightly, but quality improves, requiring GIS automation and data skills.
-
 Junior planners can advance to senior planner, project manager, or policy analyst, and then to planning director. Obtaining the Registered Professional Planner (RPP) certification in Canada opens up broader development opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior planners can advance to senior planner, project manager, or policy analys
 | Subclass PNP (Provincial Nominee Program) | Provinces have targeted streams, e.g., Ontario Human Capital Priorities, linked to Express Entry |
 | Subclass AIP (Atlantic Immigration Program) | Employer sponsorship, suitable for job opportunities in Atlantic provinces |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Sustainable development and smart cities drive demand growth. Obtaining RPP c
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-and-land-use-planners/CA)**

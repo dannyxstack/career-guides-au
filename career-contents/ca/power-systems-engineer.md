@@ -51,8 +51,6 @@ Power system engineers are responsible for planning, analyzing, and operating po
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-driven simulation and automation tools will take over a large number of routine analytical tasks, but critical steps such as system planning, reliability decision-making, and grid connection approvals still rely on human experience and regulatory responsibility, resulting in a 'polarization' of positions: entry-level entry is squeezed, while high-end value is highlighted.
-
 Canada's wind, solar, storage, and grid integration, grid digitalization, and computing power expansion continue, making engineers skilled in grid connection, stability, and compliance highly sought after; AI-assisted analysis: Grid safety responsibility remains the responsibility of certified engineers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Canada's wind, solar, storage, and grid integration, grid digitalization, and co
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Provincial nomination bonus points channel |
 | Subclass GTS (Global Talent Pass) | Global Talent Stream: Two-week expedited work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow Canada's
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-systems-engineer/CA)**

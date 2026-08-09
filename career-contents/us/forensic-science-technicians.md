@@ -51,8 +51,6 @@ Collect, classify, and analyze physical evidence from crime scenes, such as fibe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some core tasks of forensic technicians (e.g., evidence classification, basic analysis) are being replaced by automated tools, slowing job growth, but tasks like court testimony still require human judgment.
-
 Entry-level forensic technicians usually start as evidence processors or lab assistants; with experience, they can advance to senior technician or lab supervisor, and some transition to forensic scientist or court consultant.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level forensic technicians usually start as evidence processors or lab ass
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: At least a bachelor's degree in forensic science or related natural science. 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forensic-science-technicians/US)**

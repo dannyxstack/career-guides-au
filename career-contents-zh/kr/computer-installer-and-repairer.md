@@ -1,10 +1,8 @@
-# Computer Installer and Repairer 职业分析 · 韩国
+# 计算机安装与维修员（Computer Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 84111 (KECO)**
+**职业代码：84111 (KECO)**
 
-A technical role that installs, inspects, and repairs computers, servers, and network equipment in businesses and homes, resolving hardware and software issues.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一个技术岗位，在企业及家庭中安装、检查和维修计算机、服务器及网络设备，解决硬件和软件问题。
 
 
 ---
@@ -13,9 +11,9 @@ A technical role that installs, inspects, and repairs computers, servers, and ne
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Graduate from vocational or specialized high school） |
-| Associate degree (2-year college) | 2 年 | $10,000,000~$20,000,000（Computer engineering or information and communication） |
-| Bachelor's degree (4-year university) | 4年 | $20,000,000~$40,000,000（Optional, a degree is advantageous） |
+| 高中毕业 | 0年 | $0~$0（毕业于职业或专业高中） |
+| 副学士学位（两年制学院） | 2 年 | $10,000,000~$20,000,000（计算机工程或信息与通信） |
+| 学士学位（4年制大学） | 4年 | $20,000,000~$40,000,000（可选，有学位更佳） |
 
 ---
 
@@ -23,19 +21,19 @@ A technical role that installs, inspects, and repairs computers, servers, and ne
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Technology Qualification (ITQ) | Korea Productivity Center | 可选 | Basic proficiency in Excel, Word, etc. |
-| Information Processing Engineer (Gisagisa) | Human Resources Development Service of Korea | 可选 | Professional engineer certification, preferred by large corporations |
-| Cisco CCNA | Cisco | 可选 | Network specialist, advantageous for advanced positions |
-| CompTIA A+ | CompTIA | 可选 | Internationally recognized, foundational hardware/software skills |
+| 信息技术资格 | 韩国生产力中心 | 可选 | Excel、Word等基本熟练 |
+| 信息处理工程师（基本情报技术者） | 韩国人力资源开发服务局 | 可选 | 专业工程师认证，大企业优先 |
+| Cisco CCNA | 思科 | 可选 | 网络专家，高级职位有优势 |
+| CompTIA A+ | CompTIA | 可选 | 国际认可的基础硬件/软件技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 38,000. Demand remains steady due to digital transformation, but simple repair tasks are expected to decline with cloud and AI diagnostics. Skilled workers are still needed.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 38,000。由于数字化转型，需求保持稳定，但简单的维修任务预计会因云和AI诊断而减少。仍需要熟练工人。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,95 +41,87 @@ A technical role that installs, inspects, and repairs computers, servers, and ne
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $26,000,000~$32,000,000 | SME standard, overtime pay separate |
-| 中级（4-7年） | $35,000,000~$45,000,000 | Including large corporations and public institutions |
-| 高级（8年+） | $48,000,000~$60,000,000 | Network administrator-level; freelancers earn higher |
+| 入门级（0-3年） | $26,000,000~$32,000,000 | 中小企业标准，加班费另算 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 包括大型企业和公共机构 |
+| 高级（8年+） | $48,000,000~$60,000,000 | 网络管理员级别；自由职业者收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and RPA replace simple diagnostics and remote repairs, reducing some tasks, but on-site hardware work and complex problem-solving still require humans, leading to mixed effects.
+AI和RPA取代简单诊断和远程维修，减少部分任务，但现场硬件工作和复杂问题解决仍需人类，效果混合。
 
-Starting as a junior technician, advancement to L2/L3 engineer, team leader, or IT manager is possible with experience. Certifications and experience are key.
+从初级技术员开始，可通过经验晋升为L2/L3工程师、团队负责人或IT经理。认证和经验是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple PC diagnostics
-- OS reinstallation
-- Driver updates
-- Basic network settings
+- 简单PC诊断
+- 操作系统重装
+- 司机更新
+- 基本网络设置
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Utilizing remote diagnostic systems
-- AI-based predictive maintenance
-- Large-scale deployment via automation tools
+- 利用远程诊断系统
+- 基于AI的预测性维护
+- 通过自动化工具大规模部署
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site dispatch and physical installation
-- Repair of unexpected hardware failures
-- Customer communication and field situational judgment
+- 现场派遣及物理安装
+- 意外硬件故障的修复
+- 客户沟通和现场情况判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud services (AWS/Azure) basics
-- Network security
-- Python/script automation
-- Understanding AI diagnostic tools
+- 云服务（AWS/Azure）基础
+- 网络安全
+- Python/脚本自动化
+- 理解人工智能诊断工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hardware maintenance
-- Network installation
-- Cloud infrastructure
-- Remote support
+- 硬件维护
+- 网络安装
+- 云基础设施
+- 远程支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Skilled technicians (e.g., engineers) with 5+ years of experience can be employed |
-| Subclass E-9 (Non-professional Employment) | This occupation is not eligible for E-9 (Non-professional Employment) and requires expertise |
-| Subclass F-2 (Residence) | Can convert after long-term stay under the Skilled Worker Point System |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with dexterity and problem-solving skills
-- A person who is curious about new technologies and continuously learns
-- Patient people for customer service
+- 具备灵活性和解决问题能力的人
+- 对新科技充满好奇并持续学习的人
+- 有耐心的客服人员
 
 **谁不适合**
-- People who dislike simple repetitive tasks
-- People burdened by overtime or business trips
+- 不喜欢简单重复任务的人
+- 被加班或出差所累的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：What is the typical starting salary?**
-答：For SMEs, annual salary is 26-32 million KRW; higher for large companies or with professional certifications.
+答：中小企业年薪2600-3200万韩元；大公司或持有专业认证者更高。
 
-**问：Can foreigners get a visa for this occupation?**
-答：E-7 visa allows professional employment (E-7-1) with over 5 years of experience and a degree or special skills. Not eligible for E-9 visa.
+**问：外国人可以为此职业获得签证吗？**
+答：E-7签证允许专业就业（E-7-1），需5年以上经验并有学位或特殊技能。不符合E-9签证条件。
 
-**问：What is the future outlook?**
-答：With cloud and remote management, simple installation/repair decreases, while advanced network/security engineering is promising.
+**问：未来前景如何？**
+答：随着云和远程管理，简单安装/维修减少，而高级网络/安全工程前景广阔。
 
 
 ---
@@ -149,12 +139,12 @@ Starting as a junior technician, advancement to L2/L3 engineer, team leader, or 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/computer-installer-and-repairer/KR)**

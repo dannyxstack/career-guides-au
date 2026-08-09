@@ -52,8 +52,6 @@ New Zealand mining engineers plan, design, and supervise mining operations, incl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
-
 Junior engineers (0-5 years) can gain field experience and obtain professional engineer registration; mid-level (5-10 years) can advance to project supervisor or operations manager; senior (10+ years) can become technical director or consultant, or shift to mine planning or resource assessment specialist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior engineers (0-5 years) can gain field experience and obtain professional e
 | Subclass SMC (Skilled Migrant Category) | Eligible for the 6-point skilled migration scheme, requiring qualifications, work experience, and salary requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residence conditions are not met, can first enter on a sponsored employer work visa, then later switch to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Limited opportunities, with only about 800 practitioners nationwide. Main emp
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-engineer/NZ)**

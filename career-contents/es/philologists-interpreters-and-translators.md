@@ -52,8 +52,6 @@ Linguists, interpreters, and translators work in language research, text transla
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
-
 Junior translators can develop into senior translators or project managers in specialized fields (such as law or medicine), while interpreters can be promoted to expert interpreters or conference interpreters. Linguists can engage in teaching and research at universities or enter the publishing industry.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior translators can develop into senior translators or project managers in sp
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled immigrants, requiring a university degree or 5 years of experience, with a contract annual salary of no less than 1.5 times the Spanish average salary (about 33,000 euros). |
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship required, and the occupation must be on the National Occupation List, but translation is not on the shortage list, so need to prove recruitment difficulties. |
-| Subclass Altamente cualificad (Highly Skilled Professional visa (Ley 14/2013)) | Applicable to internal transfers within multinational companies or high-skilled positions, with an annual salary usually above 40,000 euros. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Typically, a four-year Grado undergraduate (such as translation and interpret
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/philologists-interpreters-and-translators/ES)**

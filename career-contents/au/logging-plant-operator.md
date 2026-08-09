@@ -54,8 +54,6 @@ A logging equipment operator operates heavy machinery for tree felling, skidding
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of logging equipment operators is mainly physical; short-term risk of automation replacement is low, but AI and automation technologies enhance efficiency in path planning, equipment monitoring, and safety management. Be aware of new technologies like remote control squeezing entry-level positions.
-
 Junior operators can advance to senior operators or team supervisors through experience, with some transitioning to forest management or equipment maintenance. Holding heavy vehicle licenses and forestry safety certificates aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior operators can advance to senior operators or team supervisors through exp
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship requires meeting DAMA or designated area migration agreement requirements. |
 | Subclass DAMA (Designated Area Migration Agreement) | If the Northern Territory DAMA includes this occupation, employer sponsorship and additional conditions are required. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically complete a short TAFE course (6 months), obtain a heavy vehicle lic
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-plant-operator/AU)**

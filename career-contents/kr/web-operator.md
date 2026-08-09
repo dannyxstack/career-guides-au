@@ -50,8 +50,6 @@ This professional role involves ensuring the stable operation and maintenance of
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation tools are replacing repetitive tasks such as server monitoring, log analysis, and fault response, changing the role of web operators. However, complex fault cause analysis, security response, and system optimization still require human judgment, so complete replacement is difficult.
-
 Starting as a junior web operator, one can advance to system administrator, cloud engineer, or DevOps engineer. Large companies have dedicated teams, while SMEs often require multitasking. Certifications and practical experience are key for career growth.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a junior web operator, one can advance to system administrator, clou
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for web operation work requiring professional qualifications, degree and experience required |
-| Subclass D-10 (Job Seeking) | Used by international students etc. for job preparation, allows job-seeking activities in web operation |
-| Subclass F-2 (Residence) | For long-term residents, freely able to perform web operation work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Linux server management, web server (Apache, Nginx) configuration, basic data
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-operator/KR)**

@@ -53,8 +53,6 @@ Medical secretaries and administrative assistants perform clerical duties in hea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Medical secretaries and administrative assistants face risk of AI automation, especially structured tasks like appointment scheduling, billing, and medical records management. However, AI tools can also enhance document processing and patient communication, with opportunities to transition into higher-value medical administrative or coordination roles by mastering AI-assisted tools.
-
 Career progression: from junior medical secretary to senior administrative assistant, medical office manager, or transition to medical coding, medical records technology, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression: from junior medical secretary to senior administrative assis
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable as this occupation typically does not require a bachelor's degree, but occasionally possible if the employer can demonstrate complexity. |
 | Subclass EB-3 (EB-3 Skilled/Professional) | Very rare cases; requires at least 2 years of training or experience, but PERM labor certification is difficult and uncommon. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to medical office manager, medical coder, or health information t
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-secretaries-and-administrative-assistants/US)**

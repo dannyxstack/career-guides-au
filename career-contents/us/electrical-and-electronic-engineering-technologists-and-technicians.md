@@ -51,8 +51,6 @@ Under engineer guidance, apply electrical and electronic theory to design, build
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 Junior technicians can advance to senior technician, technical specialist, or engineering supervisor; with experience, can shift to engineer roles (e.g., electrical engineer) or move into project management, sales engineering, etc.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to senior technician, technical specialist, or en
 | Subclass H-1B (H-1B Specialty Occupations) | Common for technical positions requiring a bachelor's degree or higher; requires employer sponsorship and lottery |
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card pathway, requires at least 2 years experience or training, need PERM labor certification |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Relatively easy, as technical background is needed but bachelor's degree is n
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-engineering-technologists-and-technicians/US)**

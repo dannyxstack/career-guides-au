@@ -1,6 +1,6 @@
-# Office and Secretariat Supervisor 职业分析 · 德国
+# 办公室与秘书主管（Office and Secretariat Supervisor）职业分析 · 德国
 
-**职业代码: 7149 (KldB)**
+**职业代码：7149 (KldB)**
 
 在德国，办公室与秘书主管负责监督行政和秘书团队，确保办公流程高效运行，处理文件管理、会议协调及内部沟通。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 120,000. 德国办公室管理岗位需求稳定，受数字化转型影响，对数字化办公技能要求提升。大型企业和公共部门需求较多，但竞争中等。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 120,000。德国办公室管理岗位需求稳定，受数字化转型影响，对数字化办公技能要求提升。大型企业和公共部门需求较多，但竞争中等。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
 办公室经理的日常行政协调任务易被AI自动化替代，入门岗位减少，但战略与人力资源决策仍需人类。
 
 职业晋升路径：办公室主管 → 行政经理 → 运营总监。也可通过进修（如IHK工商管理师）拓展至综合管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 安排会议日程和会议室预订
 - 处理日常邮件和内部通信
@@ -63,7 +63,7 @@
 - 生成常规报告和数据分析
 - 管理员工假期和出勤记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI工具进行预算规划和成本分析
 - 通过智能系统优化办公室空间利用
@@ -71,7 +71,7 @@
 - 借助自动化工作流提升团队协作效率
 - 利用数据分析优化办公流程
 
-**人类护城河:**
+**人类护城河：**
 
 - 人际沟通与团队冲突调解
 - 处理突发危机和复杂问题
@@ -79,7 +79,7 @@
 - 维护员工士气和组织文化
 - 跨部门协调与高级管理层对接
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI办公工具使用（如Microsoft Copilot, Notion AI）
 - 数据分析与可视化（Tableau、Power BI）
@@ -88,16 +88,16 @@
 - 数字协作平台管理（Slack, Teams）
 - 变革管理与领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digitalization
-- Office Automation
-- Process Optimization
-- Administrative Efficiency
+- 数字化
+- 办公自动化
+- 流程优化
+- 行政效率
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | 适用于有德国认可的职业资格（如双元制培训）的申请人，需雇主担保。 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分系统，允许未找到工作前进入德国找工作，最长一年。 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -150,11 +148,12 @@
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
 | PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/office-and-secretariat-supervisor/DE)**

@@ -4,8 +4,6 @@
 
 Metal structure assemblers are responsible for assembling, installing, and commissioning steel structural components in the workshop or on-site, such as bridges, factory frameworks, towers, etc., using techniques like welding and bolted connections to ensure structural stability.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Metal structure assemblers are responsible for assembling, installing, and commi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Metal structure assemblers face moderate automation risks; AI and robotics can take over repetitive welding and bolt connections, but complex structural installation and on-site decision-making still require humans.
-
 Starting as an apprentice or junior assembler, you can be promoted to senior technician, site supervisor, or quality controller. After gaining experience, you can move on to project management or start a startup with an installation company.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ Starting as an apprentice or junior assembler, you can be promoted to senior tec
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Requires a French employer sponsor, applies for a work permit, and is suitable for third-country citizens who already have employment. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This is suitable for highly skilled talent, such as engineers or management, but metal assemblers often do not meet the requirements. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: Usually, you need to have a CAP or Bac Pro related major, and you can also ge
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-structure-assembler/FR)**

@@ -53,8 +53,6 @@ Operate batching, melting, forming, annealing machines in a glass manufacturing 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Glass production machine operators face high automation risk, as machine vision and sensors can replace most manual monitoring and adjustment tasks, and automated production lines are already widespread in the industry.
-
 Junior operators advance to senior operators or team leaders through on-the-job training. Some can move into quality control or production management. Gaining a New Zealand qualification (such as NZQF Level 4 certificate) helps with promotion.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior operators advance to senior operators or team leaders through on-the-job 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Limited. Advancement to senior operator or team leader is possible, but the m
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-production-machine-operator/NZ)**

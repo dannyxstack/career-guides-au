@@ -4,8 +4,6 @@
 
 A cashier is a professional who calculates the price of products purchased by customers at a store or sales outlet, receives payment, or issues receipts.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A cashier is a professional who calculates the price of products purchased by cu
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of self-checkout and kiosks, a significant portion of cashier duties have been automated, greatly reducing employment. Simple repetitive tasks have been replaced by AI and automation, but customer service and handling complex situations still require human intervention.
-
 Starting as a new cashier, responsibilities gradually expand to customer service or inventory management, and with experience, one can advance to store manager or salesperson.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Starting as a new cashier, responsibilities gradually expand to customer service
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some retail sectors have demand for unskilled labor, but cashier is not the main visa. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as cashiers without employment restrictions. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: Yes, you can be promoted to store manager or sales associate, with career gro
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier/KR)**

@@ -52,8 +52,6 @@ Operate heavy handling equipment such as forklifts, reach stackers, and containe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive operations by heavy handling equipment operators (such as route planning and cargo identification) will be replaced by AI automation, but on-site safety judgment, complex scenario response, and equipment maintenance still rely on human experience, with overall risks being moderately high.
-
 Operators can be promoted to team leader, dispatcher, or warehouse supervisor. After gaining experience, you can obtain higher-level equipment licenses or move into logistics management positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Operators can be promoted to team leader, dispatcher, or warehouse supervisor. A
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Work Permit)) | Sponsored by a French employer, requiring proof of recruitment difficulties (for shortage occupations with simplified procedures), residence can be applied for after obtaining a work permit. |
-| Subclass Passeport Talent (Talent Passport) | For intra-company transfers or high-skilled roles, this visa is available, valid for 4 years, spouse can work. |
-| Subclass Recherche emploi (Job Search (After Study)) | French graduates can apply for a work-seeking visa, during which they can work full-time and transfer to a work visa after finding a matching job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: France legally requires CACES operating licenses (R489 category), classified 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-forklift-and-handling-equipment-operator/FR)**

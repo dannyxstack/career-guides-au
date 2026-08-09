@@ -52,8 +52,6 @@ Psychologists study human behavior and mental processes, offering assessment, di
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance psychologists' efficiency in data analysis and standardized testing, but core clinical assessment, therapeutic relationships, and ethical decisions are hard to replace—overall mixed impact.
-
 Clinical psychologists can progress from registered psychologist to senior specialist or independent practitioner; industrial and organisational psychologists can enter management; academic path requires a PhD and involvement in research and teaching.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Clinical psychologists can progress from registered psychologist to senior speci
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applies to employment contracts with sponsoring employer, meeting salary threshold (2024: €5,331/month for ages 30+ or €3,909/month below). |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education diploma and a minimum salary of €5,331/month (2024), validity 1-4 years, family can be sponsored. |
-| Subclass Orientation Year (Or (Orientation Year (Oriëntatiejaar)) | Graduates with a master's degree from the Netherlands or from a top 200 world university can apply for a one-year job search visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Academic credential assessment via DUO required, with possible supplementary 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychologist/NL)**

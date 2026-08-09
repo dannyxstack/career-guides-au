@@ -1,6 +1,6 @@
-# Web Developer 职业分析 · 澳大利亚
+# Web开发人员（Web Developer）职业分析 · 澳大利亚
 
-**职业代码: 261212 (ANZSCO)**
+**职业代码：261212 (ANZSCO)**
 
 网页开发负责设计、构建和维护网站与 Web 应用，涵盖前端界面、后端逻辑与性能优化。澳洲各行业数字化对 Web 技能需求稳定，且属于 IT 技术移民职业，是较友好的入行与移民方向之一。
 
@@ -11,8 +11,8 @@
 
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| Diploma of IT / Web Development | 1~2年 | $8,000~$20,000（TAFE 路径） |
+| IT/计算机科学学士 | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
+| IT/网页开发文凭 | 1~2年 | $8,000~$20,000（TAFE 路径） |
 | Coding Bootcamp / 自学作品集 | 3~9个月 | $0~$15,000（需作品集支撑） |
 
 ---
@@ -21,7 +21,7 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of IT / Computer Science | 认可大学 | 可选 | 技术移民 ACS 评估首选 |
+| IT/计算机科学学士 | 认可大学 | 可选 | 技术移民 ACS 评估首选 |
 | ACS技能评估 | Australian Computer Society | 可选 | 技术移民必需 |
 | AWS / Azure 云认证（可选） | Amazon / Microsoft | 可选 | 全栈/部署加分 |
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. 澳洲企业持续投入数字渠道，前端框架（React/Vue）、全栈和电商方向需求旺盛；初级岗位竞争加剧，具备全栈、云部署和无障碍/性能经验者更抢手。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。澳洲企业持续投入数字渠道，前端框架（React/Vue）、全栈和电商方向需求旺盛；初级岗位竞争加剧，具备全栈、云部署和无障碍/性能经验者更抢手。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,8 +41,8 @@
 | 经验水平 | 年薪 (AUD) | 备注 |
 |---|---:|---|
 | 薪资中位数 | $128,752 | 全职周中位收入×52 年化（来源：ABS EEH May 2025，ANZSCO 4位） |
-| 初级（0–3年） | $65,000~$82,000 | Junior/Front-end Dev |
-| 中级（3-7年） | $85,000~$115,000 | Mid / Full-stack |
+| 初级（0–3年） | $65,000~$82,000 | 初级/前端开发 |
+| 中级（3-7年） | $85,000~$115,000 | 中级/全栈 |
 | 高级（7年以上） | $115,000~$145,000 | 资深 / 牵头 |
 | 平均薪资 | $106,600 | 全体雇员周均总现金×52 年化（来源：ABS EEH May 2025，ANZSCO 大类） |
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 AI 将显著提升网页开发效率，尤其是代码生成和测试自动化，但不会完全替代开发者的设计、调试和协作职责。入门级岗位因低代码工具而面临压缩，但全栈、架构等高阶岗位价值被放大。
 
 React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显。职业路径可向全栈工程师、前端架构师或软件工程师延伸。技术移民需通过 ACS 技能评估。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 重复性的 UI 组件编写与样式调试
 - 标准 REST API 的 CRUD 代码生成
@@ -65,7 +65,7 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 - 基础测试用例的编写与执行
 - 简单的数据库查询与数据迁移脚本
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI 辅助快速生成原型与代码片段，加速开发迭代
 - AI 驱动的自动化测试与错误检测，提升代码质量
@@ -73,7 +73,7 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 - AI 生成文档与 API 说明，减少编写时间
 - AI 辅助进行项目进度估算与技术方案选型
 
-**人类护城河:**
+**人类护城河：**
 
 - 系统架构设计与技术选型决策
 - 复杂业务逻辑理解与非标需求实现
@@ -81,7 +81,7 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 - 跨团队沟通与项目管理能力
 - 系统安全、合规与运维保障
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握 AI 代码助手（如 Copilot、Cody）的高级用法
 - 学习系统架构设计与云原生技术（AWS/Azure/GCP）
@@ -90,17 +90,17 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 - 学习 AI 模型集成与 API 调用（如 LangChain、OpenAI API）
 - 培养项目管理与敏捷方法论（如 Scrum、SAFe）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- React / Next.js Front-end
-- Headless CMS & JAMstack
-- E-commerce (Shopify/Magento)
-- Web Performance & Accessibility
-- Full-stack / Node.js
+- React / Next.js 前端
+- 无头CMS与JAMstack
+- 电子商务（Shopify/Magento）
+- Web性能与可访问性
+- 全栈 / Node.js
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -109,9 +109,7 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 | Subclass 186 (ENS) | 雇主担保永居，需ACS评估 |
 | Subclass 190 (Skilled Nominated) | 州提名，按各州清单 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -156,12 +154,13 @@ React/Next.js 是主流前端栈，Node.js 全栈与 headless CMS 增长明显�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/web-developer/AU)**

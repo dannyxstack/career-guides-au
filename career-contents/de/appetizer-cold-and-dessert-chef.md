@@ -54,8 +54,6 @@ This occupation focuses on making appetizers, cold dishes, salads, and desserts,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The chef profession faces mixed AI impact: repetitive prep tasks risk automation, but creative, quality control, and team management roles are amplified by AI assistance, with the entry barrier slightly raised.
-
 Start as an apprentice (Auszubildender), progress to section head (Chef de Partie) or assistant chef (Sous Chef), then advance to Executive Chef or hotel F&B director.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an apprentice (Auszubildender), progress to section head (Chef de Parti
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing entry to seek employment before finding a job, suitable for those with qualifications |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows a 6-month stay in Germany for job searching; requires proof of language skills and living funds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can be promoted to Chef de Partie, Sous Chef, or Executive Chef, or further s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/appetizer-cold-and-dessert-chef/DE)**

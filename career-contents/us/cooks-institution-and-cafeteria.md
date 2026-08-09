@@ -53,8 +53,6 @@ Cooking large quantities of food in institutions such as schools, hospitals, or 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will optimize menu planning and inventory management, but cooking execution and food safety still require human work; job task structures are reorganized, some entry-level tasks automated, but overall demand remains stable.
-
 Can progress from junior chef to senior chef or kitchen manager, then to food service manager; some transition to nutrition or food service management through further education.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior chef to senior chef or kitchen manager, then to food se
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to Kitchen Supervisor, Food Service Manager, or transition to the
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooks-institution-and-cafeteria/US)**

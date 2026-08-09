@@ -4,8 +4,6 @@
 
 Responsible for daily management of the farm, including feeding, breeding, health monitoring, and barn maintenance, ensuring animal welfare and production efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for daily management of the farm, including feeding, breeding, healt
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI/automation has mixed effects for livestock technical workers: routine data recording and health monitoring can be automated, but on-site animal care, breeding management, and emergency judgment still require human skills, with work transforming rather than disappearing.
-
 From basic breeders, you can be promoted to herd manager, farm manager, or specialize in animal health and reproductive technology. Those with an FP vocational education background find it easier to secure management positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ From basic breeders, you can be promoted to herd manager, farm manager, or speci
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | A work contract must be provided by a Spanish employer, and the position must prove in a labor market test that it is difficult to recruit locally. Because it is a non-urgently needed occupation, approval is difficult. |
-| Subclass Busqueda empleo (Job Search Visa) | With this visa, you can stay in Spain for one year to look for work, but livestock positions are usually not open to graduates from third countries. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Typically, you need to complete two years of intermediate vocational training
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-livestock-workers-not-elsewhere-classified/ES)**

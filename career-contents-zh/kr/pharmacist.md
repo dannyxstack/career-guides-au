@@ -1,10 +1,8 @@
 # 药剂师（Pharmacist）职业分析 · 韩国
 
-**职业代码: 30301 (KECO)**
+**职业代码：30301 (KECO)**
 
-A pharmacist is a healthcare professional responsible for dispensing medications, providing medication guidance, drug counseling, and ensuring medication safety.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+药剂师是负责配药、提供用药指导、药物咨询并确保用药安全的医疗专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A pharmacist is a healthcare professional responsible for dispensing medications
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College of Pharmacy (6-year program) | 6年 | $40,000,000~$99,999,999（Tuition and practicum fees included, varies by national/private institution and scholarships） |
-| Korean Pharmacist Licensing Examination | 1年 | $500,000~$2,000,000（Taken after graduating from pharmacy school, costs include exam preparation and textbooks） |
+| 药学院（6年制） | 6年 | $40,000,000~$99,999,999（学费和实习费包含在内，因国立/私立机构和奖学金而异） |
+| 韩国药师执照考试 | 1年 | $500,000~$2,000,000（从药学院毕业后参加，费用包括考试准备和教科书） |
 
 ---
 
@@ -22,16 +20,16 @@ A pharmacist is a healthcare professional responsible for dispensing medications
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pharmacist License | Korean Health Personnel Licensing Examination Institute | 必备 | Obtained upon passing the Korean Pharmacist Licensing Examination after graduating from pharmacy school |
+| 药剂师执照 | 韩国健康人员资格考试院 | 必备 | 通过药学专业毕业后参加韩国药师资格考试获得。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Due to an aging population and increase in chronic diseases, demand for pharmacists in pharmacies and hospitals remains steady, with particularly increasing recruitment in community pharmacies and clinical pharmacy fields.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于人口老龄化和慢性病增加，药店和医院对药剂师的需求保持稳定，社区药房和临床药学领域的招聘尤其增加。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,93 +37,85 @@ A pharmacist is a healthcare professional responsible for dispensing medications
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $40,000,000~$50,000,000 | Based on public institution pharmacists, varies by hospital and pharmacy |
-| Mid-level (4–9 years) | $55,000,000~$70,000,000 | Average for general hospital pharmacists, increases with experience |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Revenue from opening a pharmacy is highly variable; clinical pharmacists at pharmaceutical companies may exceed this range |
+| 初级（0-3年） | $40,000,000~$50,000,000 | 基于公立机构药剂师，因医院和药房而异 |
+| 中级（4-9年） | $55,000,000~$70,000,000 | 综合医院药剂师平均水平，随经验增加 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 开设药店的收入差异很大；制药公司的临床药师可能超过此范围 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Rather than completely replacing pharmacists, AI will be used as a supportive tool in areas such as dispensing automation, drug interaction analysis, and prescription review, making the pharmacist's professional judgment and counseling role even more important.
+AI不会完全取代药剂师，而是作为辅助工具用于自动配药、药物相互作用分析和处方审核等领域，使药剂师的专业判断和咨询角色更加重要。
 
-After obtaining a pharmacist license, career paths include opening a pharmacy, hospital pharmacist, pharmaceutical company clinical development, or MFDS officer; with experience, one can advance to pharmacy management or specialist pharmacist.
+获得药剂师执照后，职业路径包括开设药房、医院药剂师、制药公司临床开发或食药处官员；有经验后可晋升为药房管理者或专科药剂师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Dispensing
-- Inventory Management of Pharmaceuticals
-- Prescription Entry and Review
+- 简单配药
+- 药品库存管理
+- 处方录入与审核
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drug Interaction Analysis
-- Patient Medication Counseling
-- Support for Clinical Trials in New Drug Development
+- 药物相互作用分析
+- 患者用药咨询
+- 支持新药开发中的临床试验
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust Relationships with Patients
-- Professional Judgment on Drug Safety
-- Solving Atypical Drug-Related Problems
+- 与患者的信任关系
+- 药物安全专业判断
+- 解决非典型药物相关问题
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI-Based Drug Information Systems
-- Data Analysis
-- Communication and Education Skills
+- 基于人工智能的药品信息系统的利用
+- 数据分析
+- 沟通与教育技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aging population
-- chronic diseases
-- drug safety
-- Clinical Pharmacy
+- 人口老龄化
+- 慢性疾病
+- 药物安全
+- 临床药学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | With a domestic pharmacist license, employment is possible in specialized fields like pharmaceutical R&D; general pharmacy employment is difficult |
-| Subclass F-2 (F-2 (Residence)) | Eligible for employment after long-term residence via points system, may have work restrictions even with pharmacist license |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents can work as pharmacists without restrictions, provided they have obtained a pharmacist license in advance. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- detail-oriented and thorough person
-- someone interested in both scientific knowledge and interpersonal relations
-- someone who prefers a stable job
+- 注重细节、一丝不苟的人
+- 对科学知识和人际关系都感兴趣的人
+- 喜欢稳定工作的人
 
 **谁不适合**
-- someone who prefers a fast-changing environment
-- someone who avoids night shifts
+- 喜欢快速变化环境的人
+- 避免夜班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a pharmacist?**
-答：For entry-level pharmacists, pre-tax annual salary is about 40-50 million KRW; with over 10 years of experience, it can range from 70 million KRW to 100 million KRW or more. Profits vary greatly when opening a pharmacy.
+**问：药剂师的平均年薪是多少？**
+答：初级药剂师税前年薪约4000-5000万韩元；10年以上经验可达7000万至1亿韩元或更多。开设药房时利润差异很大。
 
-**问：Can foreigners work as pharmacists in Korea?**
-答：Yes, but obtaining a Korean pharmacist license is mandatory. They can work in pharmaceutical company R&D etc. with an E-7 visa. Employment at general pharmacies is practically difficult.
+**问：外国人能在韩国担任药剂师吗？**
+答：是的，但必须取得韩国药剂师执照。他们可以持E-7签证在制药公司研发等部门工作。在普通药店就业实际上很困难。
 
-**问：What educational background is needed to become a pharmacist?**
-答：Graduation from a 6-year pharmacy college and passing the national pharmacist exam are required. Admission to pharmacy college is highly competitive.
+**问：成为药剂师需要什么教育背景？**
+答：需从六年制药学专业毕业并通过国家药剂师考试。药学专业入学竞争激烈。
 
 
 ---
@@ -143,12 +133,12 @@ After obtaining a pharmacist license, career paths include opening a pharmacy, h
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pharmacist/KR)**

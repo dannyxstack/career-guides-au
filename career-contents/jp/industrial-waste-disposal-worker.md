@@ -50,8 +50,6 @@ Handles collection, transport, treatment, and recycling of waste from factories 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation contribute to waste sorting and transport efficiency, but tasks requiring human flexibility, such as on-site judgment and foreign object removal, remain. Overall, automation reduces some work but full replacement is difficult.
-
 Start as a field worker, gain experience, and advance to disposal manager or sales. Certifications lead to promotion; management or self-employment possible.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Start as a field worker, gain experience, and advance to disposal manager or sal
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Industrial Waste Treatment)) | 5-year work permit in industrial waste treatment. Requires Japanese and skills exam. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable with expertise in recycling tech or environmental engineering. |
-| Subclass 技能 (Skills (Waste Treatment)) | For skilled workers with many years of experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: By obtaining qualifications such as forklift or hazardous materials handler, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-waste-disposal-worker/JP)**

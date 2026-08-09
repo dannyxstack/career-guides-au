@@ -50,8 +50,6 @@ A professional engaged in the research and development of chemical products and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI aids in data analysis and optimization of experimental design, but areas requiring human intuition and experience, such as molecular design in drug discovery or generating ideas for new materials, remain indispensable. While some routine experiments are automated, AI will not replace the entire research process.
-
 After obtaining a master's or doctoral degree, one starts as a researcher and progresses to leader or manager. Career advancement leveraging expertise is possible. In large companies, roles like lab director or business development are attainable; in ventures, CTO is a possibility.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ After obtaining a master's or doctoral degree, one starts as a researcher and pr
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable to R&D work requiring specialized knowledge at universities, etc. Can work as a foreign researcher at Japanese chemical companies. |
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional) | Screened by points system. High income or educational background favors obtaining permanent residency. |
-| Subclass 特定活動(インターンシップ等) (Designated Activities) | Visa supporting job hunting after graduate school. Used for matching R&D positions. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Researcher → Senior Researcher → Project Leader → Research Lab Director
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer-rd/JP)**

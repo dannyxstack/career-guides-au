@@ -53,8 +53,6 @@ Feeding materials into or removing them from automated or worker-operated machin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Machine feeders and offbearers will see significant job reduction due to automation and AI vision technology; high-risk occupation for substitution requiring urgent reskilling.
-
 Typically starts as a feeder operator, can advance to machine operator, production line leader, or quality inspector; some transition to maintenance technician or supervisor through training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically starts as a feeder operator, can advance to machine operator, producti
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Limited. Usually can advance to machine operator, team leader or quality insp
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-feeders-and-offbearers/US)**

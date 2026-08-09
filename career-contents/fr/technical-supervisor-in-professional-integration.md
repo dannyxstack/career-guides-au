@@ -53,8 +53,6 @@ Responsible for coordinating and overseeing career integration programs, helping
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This profession is not easily replaced, and AI will amplify its capabilities by improving efficiency through automated administration and data analysis, enabling it to focus on high-value human interaction and personalized guidance.
-
 You can be promoted from project coordinator to regional integration manager, or move into public policy or human resources training. Supervisory experience and relevant master's degree must be pursued.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from project coordinator to regional integration manager, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Employee on Mission / Qualified Employee)) | Applicable to highly skilled talents, requiring a master's degree or above and an annual salary ≥of €36,512 (2024 standard), with visa renewal and family members available. |
-| Subclass Salarié (Employee Residence Permit) | Applicable to those who have received an offer from a French employer and need to apply for a work permit, which are public sector occupations requiring proof that the position cannot be filled by EU workers. |
-| Subclass Recherche emploi (Job Search / Business Creation Permit) | After graduation, you can apply for a one-year residence to find work or start a business, which is suitable for holders of French degrees. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: At least a National Diploma in Social Service (DEASS) or a relevant master's 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-supervisor-in-professional-integration/FR)**

@@ -4,8 +4,6 @@
 
 Responsible for diagnosing, repairing, and servicing passenger cars and light commercial vehicles, including mechanical and electronic components such as engines, transmissions, braking systems, and electrical systems.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for diagnosing, repairing, and servicing passenger cars and light co
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Technicians can be promoted from junior technicians to professional technicians (such as diagnostic specialists), and then develop to workshop supervisors or technical managers. You can also choose to start a business and open an independent garage.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Technicians can be promoted from junior technicians to professional technicians 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | A French employer sponsorship is required, and the French Labor Office must review and prove that no suitable EU candidates are present. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you meet the criteria for a shortage occupation or high skills, the application can be simplified, valid for 4 years. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: You can be promoted to diagnostic specialist, workshop supervisor, technical 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-mechanic-and-vehicle-maintenance/FR)**

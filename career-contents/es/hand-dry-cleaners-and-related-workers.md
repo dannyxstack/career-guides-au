@@ -4,8 +4,6 @@
 
 This profession involves manually cleaning clothes, textiles, and leather goods using dry cleaning solvents, including stain removal, ironing, and finishing. They usually work in laundromats, dry cleaners, and hotel laundries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This profession involves manually cleaning clothes, textiles, and leather goods 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Manual dry cleaning workers face high automation risks. AI-driven intelligent dry cleaning systems and robots will significantly replace manual operations, sharply shrinking entry-level positions and forcing practitioners to shift toward equipment maintenance and customer service.
-
 Career promotion paths are limited; one can advance from junior worker to senior dry cleaner or workshop supervisor, and a few can open their own dry cleaner. You need to master more techniques (such as leather care) and customer service skills to enhance value.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Career promotion paths are limited; one can advance from junior worker to senior
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Must have a job contract from a Spanish company, salary must meet minimum wage, not a shortage occupation, approval is strict. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: Short courses in textile care can boost skills; experience may lead to store 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hand-dry-cleaners-and-related-workers/ES)**

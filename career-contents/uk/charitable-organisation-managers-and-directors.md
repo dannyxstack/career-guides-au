@@ -50,8 +50,6 @@ Charitable organization managers and directors plan, organize, coordinate, and d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall outlook for charity organization managers and directors is mixed: routine administrative and data tasks will be highly automated, but core work like strategic decision-making and interpersonal fundraising will be amplified by AI, requiring managers to adapt to technological tools faster.
-
 Career progression typically starts as a project officer or department manager, advancing to senior management roles such as CEO or foundation director.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression typically starts as a project officer or department manager, 
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or leadership in the charitable sector; no employer sponsorship required |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work or look for work in the UK after completing their studies, for up to 2 years (3 years for PhDs) |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: The charity sector continues to grow with stable demand for management roles,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/charitable-organisation-managers-and-directors/UK)**

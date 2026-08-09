@@ -51,8 +51,6 @@ Sell new or used cars in car dealerships or caravan showrooms, offering test dri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace motor vehicle salespeople but will become a powerful sales support tool, handling information queries, customer tracking, and personalized recommendations, allowing salespeople to focus more on building trust and closing deals.
-
 Junior roles can progress to senior salesperson, sales supervisor, or showroom manager. With experience, one can move into brand manager or business development roles, with salary significantly increasing based on performance.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior roles can progress to senior salesperson, sales supervisor, or showroom m
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer, stay up to 3 years, renewable and can apply for permanent residence. |
 | Subclass SMC (Skilled Migrant Category) | If you meet the six-point requirements (e.g., NZQF qualification + work experience), you can apply for residence through SMC; but employer support is needed. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Stable employment prospects, with electric vehicle demand growth creating opp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-or-caravan-salesperson/NZ)**

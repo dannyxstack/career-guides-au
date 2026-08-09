@@ -4,8 +4,6 @@
 
 Dancers express artistic emotions through physical movements, participate in performances such as ballet, modern dance, and street dance, and can work in theater, television, film, or commercial productions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Dancers express artistic emotions through physical movements, participate in per
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dance positions are shrinking due to AI and automation technologies, especially with the widespread use of virtual idols and motion capture technology, which has reduced the demand for real dancers in commercial performances and film and television.
-
 Career path: From group dancer to solo or principal dancer, with some shifting to choreography, dance teaching, or arts management. Ongoing training and industry connections are required.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career path: From group dancer to solo or principal dancer, with some shifting t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists and freelancers, who must demonstrate significant achievements in the cultural field |
-| Subclass Salarié (Employee) | If employed long-term by a French dance company or organization, you can apply for a long-term work visa |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Dancers typically transition to choreographers, dance teachers, or arts manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dancer/FR)**

@@ -52,8 +52,6 @@ Drive heavy trucks or articulated lorries with a total weight exceeding 7.5 tonn
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Can start as a novice driver, then advance to senior driver, team leader, or transport dispatcher, or transition to training or management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as a novice driver, then advance to senior driver, team leader, or tra
 | Subclass Skilled Worker (Skilled Worker Visa) | If employer-sponsored and the occupation is on the eligible list, can apply; HGV drivers are on the shortage occupation list with a lower salary threshold (£25,600 or £20,960) |
 | Subclass Graduate (Graduate Visa) | Suitable for UK university graduates, allowing 2 years of work, but requires finding an employer sponsor to switch to a work visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Short-term automation impact is limited, but long-term may partially replace;
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-and-large-goods-vehicle-drivers/UK)**

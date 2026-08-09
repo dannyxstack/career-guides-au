@@ -4,8 +4,6 @@
 
 Professions engaged in fine textile processing such as hand sewing, embroidery, and touch-ups are commonly found in the clothing customization, restoration, and decoration industries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Professions engaged in fine textile processing such as hand sewing, embroidery, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hand-sewing, embroidery, and related tasks face a high risk of being replaced by automation. AI-driven design and automation embroidery machines have replaced large amounts of manual labor in mass production, leaving only niche areas such as high-end customization and fine restoration to retain demand.
-
 Typically, you start as an apprentice or technician, and after gaining experience, you can be promoted to senior technician, workshop manager, or start your own tailor/embroidery studio.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Typically, you start as an apprentice or technician, and after gaining experienc
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees (Cuenta Ajena)) | For employer-sponsored work residence, it must be proven that the position cannot be filled locally. Hand-sewing is not a shortage occupation and is difficult to approve. |
-| Subclass Busqueda empleo (Job Search Visa (Búsqueda de Empleo)) | Highly educated individuals can look for jobs in Spain after graduation, but this industry usually does not meet the educational requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Generally, you start as an apprentice, gain experience, and become a senior t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hand-sewers-embroiderers-and-related-workers/ES)**

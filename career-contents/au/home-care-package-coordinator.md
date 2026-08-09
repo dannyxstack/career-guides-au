@@ -53,8 +53,6 @@ Home Care Package Coordinators/Case Managers manage government-subsidised Home C
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will greatly enhance budget analysis, report generation, and schedule optimization for this role, but core interpersonal coordination, emotional support, and budget approval responsibilities still require humans, making the overall risk controllable with significant efficiency gains.
-
 Path: Coordinator → Senior Case Manager → Service Manager; familiarity with HCP/Support at Home funding rules leads to higher income.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Path: Coordinator → Senior Case Manager → Service Manager; familiarity with 
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: If you hold registered nurse qualifications, you can pursue nursing migration
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-care-package-coordinator/AU)**

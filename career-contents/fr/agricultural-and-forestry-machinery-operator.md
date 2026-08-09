@@ -53,8 +53,6 @@ Operate agricultural and forestry machinery such as tractors, harvesters, and fo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Starting as a machine operator, you can be promoted to farm supervisor, agricultural technician, or transition through training to become an agricultural machinery sales/maintenance technician. Holding CAP/BTS allows you to advance to farm manager.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Starting as a machine operator, you can be promoted to farm supervisor, agricult
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | This applies to foreigners with a work contract with a French employer who need to apply for a work permit. Agricultural labor-scarce areas (such as Grand Est) can expedite approval through France Travail. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If your annual salary is about €40k or above, or you hold a master's degree (BTS+ 3 years of experience is considered equivalent), you may apply for a talent passport valid for 4 years. Non-agricultural mainstream channels. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary must meet at least the French Blue Card threshold (approx. €53k in 2025). Farm machinery operators usually do not meet this; only supervisors may qualify. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Can progress to farm supervisor, agricultural technician, farm machinery sale
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-forestry-machinery-operator/FR)**

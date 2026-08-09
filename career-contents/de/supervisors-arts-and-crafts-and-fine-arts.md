@@ -54,8 +54,6 @@ Supervise creative teams, manage projects, and ensure artistic quality in crafts
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance management coordination and efficiency, but the core of creative decisions and artistic direction still relies on humans; entry-level roles are narrowing due to automation tools, but demand for cross-disciplinary skills increases.
-
 Start as a craftsman or artist, gain experience to become a supervisor, then further become a studio head or start your own business. Equal emphasis on management skills and artistic standards.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a craftsman or artist, gain experience to become a supervisor, then fur
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualification certification (Anerkennung) and a German employer sponsor. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month job search; requires German B1 and qualification/certification recognition. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Some craft fields require a craftsman's certificate (Gesellenbrief); supervis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-arts-and-crafts-and-fine-arts/DE)**

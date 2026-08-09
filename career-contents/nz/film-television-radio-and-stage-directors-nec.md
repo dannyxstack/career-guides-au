@@ -52,8 +52,6 @@ Responsible for guiding the creative and production aspects of film, TV, radio, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is both a threat and an opportunity for directors: standardized production processes are easily automated, but creative decision-making, emotional communication, and on-site coordination still rely on humans; proactive adoption of AI tools is needed to maintain an advantage.
-
 Entry-level roles such as assistant director or production assistant; after gaining experience, can advance to director or art director. A few top talents can enter international production. Starting a business or establishing a production company is also a career path.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level roles such as assistant director or production assistant; after gain
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (qualifications + experience), eligible for skilled migration |
 | Subclass AEWV (Accredited Employer Work Visa) | Can apply after obtaining a certified employer offer, must meet salary requirements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Competitive but opportunities exist; requires building a portfolio and networ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-television-radio-and-stage-directors-nec/NZ)**

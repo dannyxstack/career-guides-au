@@ -4,8 +4,6 @@
 
 Visual artists engage in visual arts such as painting, sculpture, and printmaking. Their works can be displayed in galleries, exhibitions, or public spaces, and may also be commissioned. The profession is highly freelancing, with unstable income, relying on individual talent and market demand.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Visual artists engage in visual arts such as painting, sculpture, and printmakin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on visual artists is mixed: on one hand, generative AI can efficiently produce simulated artworks or concept sketches, squeezing out some of the commissioned and commercial illustration markets; On the other hand, AI can assist with inspiration generation, color experimentation, and digital presentation, amplifying creative possibilities, but the high-end art sector that relies on emotional expression and originality remains stable.
-
 Career development typically begins after graduating from art schools, gradually building reputation through participating in exhibitions, winning awards, or representing galleries. Some artists have turned to related fields such as art education, curation, or art direction.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development typically begins after graduating from art schools, gradually
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to foreign artists with outstanding achievements or recognition in the fields of art and culture, requiring submission of portfolios, exhibition certificates, etc |
-| Subclass Salarié (Employee) | If hired by a gallery or institution, you can apply for a work residence permit, but freelance artists find it difficult to obtain |
-| Subclass Recherche emploi (Job Search Visa) | Artists who graduate from France can apply for a one-year job-seeking residence to find job or project opportunities |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Although a mandatory diploma is not required, having a national diploma (DNAP
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-artist/FR)**

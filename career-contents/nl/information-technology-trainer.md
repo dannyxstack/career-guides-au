@@ -52,8 +52,6 @@ IT training instructors are responsible for designing and delivering IT skills t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of information technology trainers will be partially automated, but human roles remain important due to interpersonal interaction and course design needs. AI can handle knowledge delivery and assessment, but personalized guidance and adapting to learner needs remain human-led.
-
 Junior trainers can progress to senior trainer, training manager, or curriculum development head, and can also transition into IT consulting or educational technology fields.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior trainers can progress to senior trainer, training manager, or curriculum 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled non-EU talent, requires job offer, salary threshold around €5,670/month (over 30 years old). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talents, requires a job offer with a salary threshold of approximately €5,669/month (2024). |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who have graduated in the Netherlands or at specific foreign universities, allowing them to work freely for one year. Valid only for specific qualifications. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Driven by digital transformation and lifelong learning trends, AI tools will 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-technology-trainer/NL)**

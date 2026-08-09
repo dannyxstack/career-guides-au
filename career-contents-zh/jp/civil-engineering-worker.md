@@ -1,8 +1,8 @@
-# Civil Engineering Worker 职业分析 · 日本
+# 土木工程工人（Civil Engineering Worker）职业分析 · 日本
 
-**职业代码: 681 (JSCO)**
+**职业代码：681 (JSCO)**
 
-On-site skilled worker who constructs and maintains social infrastructure such as roads, bridges, and tunnels. Responsible for surveying, excavation, concrete pouring, etc.
+现场技术工人，负责建造和维护道路、桥梁、隧道等社会基础设施。负责测量、挖掘、混凝土浇筑等。
 
 
 ---
@@ -11,9 +11,9 @@ On-site skilled worker who constructs and maintains social infrastructure such a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$300,000（Almost free at public high schools; up to about ¥300,000/year at private schools） |
-| Vocational training school (Construction Department) | 1~2年 | $200,000~$600,000（Public vocational training may be free） |
-| Specialized school (Civil Engineering Department) | 2 年 | $1,000,000~$2,000,000（Total annual tuition） |
+| 高中毕业 | 3年 | $0~$300,000（公立高中几乎免费；私立高中每年约30万日元） |
+| 职业培训学校（建筑系） | 1~2年 | $200,000~$600,000（公共职业培训可能免费） |
+| 专业学校（土木工程系） | 2 年 | $1,000,000~$2,000,000（年学费总额） |
 
 ---
 
@@ -21,19 +21,19 @@ On-site skilled worker who constructs and maintains social infrastructure such a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 2 Civil Engineering Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required as a chief engineer. A step toward higher qualifications. |
-| Vehicle Construction Machinery Operation License | Ministry of Health, Labour and Welfare | 必备 | Required to work as a heavy machinery operator. |
-| Class 1 Civil Engineering Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Essential qualification to become a site supervisor. Requires practical experience. |
-| Construction Business Accountant | Construction Industry Promotion Fund | 可选 | Accounting skills. Beneficial for independence or management positions. |
+| 二级土木工程施工管理工程师 | 国土交通省 | 必备 | 总工程师必备。向更高级资格迈进的步骤。 |
+| 车辆工程机械操作许可证 | 厚生劳动省 | 必备 | 重型机械操作员所需 |
+| 一级土木工程施工管理工程师 | 国土交通省 | 可选 | 成为现场主管的必要资格。需要实践经验。 |
+| 建筑业务会计 | 建筑行业促进基金 | 可选 | 会计技能。有利于独立或管理职位。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 520,000. Demand is stable in the medium to long term due to aging infrastructure renewal needs and disaster prevention/mitigation investment. Labor shortages persist, also driven by infrastructure development demand in Southeast Asia.
+**职位需求量：很高（★★★★½）** 全国从业人数约 520,000。由于老旧基础设施的更新需求和防灾减灾投资，中长期需求稳定。劳动力短缺持续存在，东南亚基础设施开发需求也加剧了短缺。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +41,87 @@ On-site skilled worker who constructs and maintains social infrastructure such a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,200,000~$4,000,000 | Base salary + overtime included |
-| 中级(3-7年) | $4,200,000~$5,500,000 | Chief class. Includes site allowance. |
-| 高级（7年以上） | $5,600,000~$7,000,000 | Site agent, management. Wide salary range. |
+| 入门级（0-3年） | $3,200,000~$4,000,000 | 底薪+加班费已包含 |
+| 中级(3-7年) | $4,200,000~$5,500,000 | 首席级别。包含现场津贴。 |
+| 高级（7年以上） | $5,600,000~$7,000,000 | 现场代理、管理。薪资范围较广。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will streamline surveying and design, but manual labor and situational judgment on site are hard to replace. Skilled craftsmanship retains value.
+AI和自动化将简化测量和设计，但现场体力劳动和情况判断难以替代。熟练工艺保留价值。
 
-Can advance to site supervisor or construction management engineer by building skills. Obtaining qualifications opens doors to salary increases and management positions. Many become independent contractors.
+通过技能提升可晋升为现场主管或施工管理工程师。获得资格后有机会加薪和担任管理职务。许多成为独立承包商。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- simple survey data entry
-- simple excavation work (unmanned)
-- progress management numerical recording
+- 简单调查数据录入
+- 简单挖掘工作（无人操作）
+- 进度管理数值记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- drone surveying and data processing
-- 3D model construction simulation
-- AI-based process optimization
+- 无人机测绘与数据处理
+- 3D模型构建模拟
+- 基于AI的流程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- on-site flexible decision-making
-- skilled plastering and compaction techniques
-- five senses for safety assurance
-- Team Communication
+- 现场灵活决策
+- 熟练的抹灰和压实技术
+- 五感安全保障
+- 团队沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ICT Construction Skills
-- BIM/CIM Literacy
-- Construction Management
-- English for Working with Foreign Workers
+- ICT施工技术
+- BIM/CIM素养
+- 施工管理
+- 与外国工人共事英语
 
-**主要增长方向:**
+**主要增长方向：**
 
-- infrastructure aging renewal
-- disaster prevention and mitigation work
-- national resilience
-- construction DX
+- 基础设施老化更新
+- 防灾减灾工作
+- 国家韧性
+- 建设数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i) (Construction)) | Specified Skilled Worker in construction. Requires skill test and JLPT N4 or higher. Residency up to 5 years. |
-| Subclass 技能（建設） (Skilled Labor (Construction)) | Requires 10+ years of practical experience. Residency: 1, 3, or 5 years. Eligible for permanent residency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For civil engineers with university degree or higher. Specialized tasks like design and construction management. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident
+- 身体自信
 - 喜爱户外工作
-- want to acquire a trade skill
+- 想掌握一门手艺
 
 **谁不适合**
-- prefer desk work
-- dislike working at heights or in bad weather
+- 偏好案头工作
+- 不喜欢高空作业或恶劣天气
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of civil engineering workers?**
-答：Entry-level: 3.2-4 million yen, mid-level: 4.2-5.5 million yen, veteran: 5.6-7 million yen. Varies by qualifications, position, and overtime.
+**问：土木工程从业人员的平均年收入是多少？**
+答：初级：320-400万日元，中级：420-550万日元，资深：560-700万日元。因资格、职位和加班而异。
 
-**问：What visa is needed for foreigners to work as civil engineering workers?**
-答：Technical Intern Training (Construction) and Specified Skilled Worker (i) (Construction) are common. With over 10 years of experience, a skilled worker visa is possible. Engineer/Specialist in Humanities/International Services is for university graduates.
+**问：外国人在土木工程行业工作需要什么签证？**
+答：技能实习（建筑）和特定技能（i）（建筑）常见。拥有10年以上经验，可申请熟练工人签证。工程师/人文知识/国际服务签证适用于大学毕业生。
 
-**问：What qualifications should I obtain for career advancement?**
-答：Civil Engineering Construction Management Engineer (Class 1 & 2) is most important. Vehicle construction machinery operation license and construction industry accountant are also advantageous.
+**问：职业发展应获得哪些资格证书？**
+答：土木工程施工管理工程师（1级和2级）最重要。车辆施工机械操作许可证和建筑业会计也有优势。
 
 
 ---
@@ -146,12 +139,12 @@ Can advance to site supervisor or construction management engineer by building s
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-engineering-worker/JP)**

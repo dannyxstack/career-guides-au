@@ -52,8 +52,6 @@ Commodity traders buy and sell commodities (e.g., grains, metals, energy) in fin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Routine analysis, trade execution, and reporting tasks of commodity traders will be significantly impacted by AI, but complex market judgement, risk management, and client relationships remain human strengths. Entry-level competition will intensify, requiring upgraded technical skills.
-
 Junior traders can advance to senior trader or trading desk head, then to portfolio manager or risk management roles. Some move into commodity analysis or consulting. Obtaining CFA or PRM certification aids career development.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior traders can advance to senior trader or trading desk head, then to portfo
 | Subclass AEWV (Accredited Employer Work Visa) | Through accredited employer sponsorship, requires relevant work experience and employer support |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is on the Green List Tier 2; after working for 2 years, you can apply for residency, subject to salary and employer requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Median prospects; limited positions, competitive, but experienced workers can
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commodities-trader/NZ)**

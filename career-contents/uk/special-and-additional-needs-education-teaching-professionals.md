@@ -52,8 +52,6 @@ Special education teachers provide individualized instruction for children with 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teacher jobs will not disappear, but entry-level tasks (e.g., documentation, basic assessment) may be automated by AI, while AI can enhance personalized teaching and data analysis, making experienced teachers more valuable.
-
 Career paths usually start with a transfer from general teaching or direct entry into special education. Advancement can lead to roles such as Special Educational Needs Coordinator (SENCO), deputy head/head of a special school, or transition to educational consulting, policy development, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career paths usually start with a transfer from general teaching or direct entry
 | Subclass Health & Care (Health and Care Worker Visa) | Not directly applicable in the education sector, but special education teachers may qualify if employed by NHS-related institutions |
 | Subclass Graduate (Graduate Visa) | Graduates who have completed a degree in the UK can apply; valid for 2 years, allows any type of employment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to SENCO, special school leadership, or transition to roles in ed
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-and-additional-needs-education-teaching-professionals/UK)**

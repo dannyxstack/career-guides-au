@@ -50,8 +50,6 @@ Workers engaged in the production process of beverages and tobacco, handling raw
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-With AI and automation, processes like filling, packaging, and inspection are gradually being replaced by machines, reducing demand for simple tasks. However, jobs requiring human judgment, such as equipment maintenance and anomaly response, will remain.
-
 Start without experience; with experience, advancement to line leader or quality control manager is possible. Multiskilling within the factory is progressing, and machine maintenance skills are also required.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Start without experience; with experience, advancement to line leader or quality
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree and relevant work experience. Recognized as technical staff in food manufacturing. Eligible for permanent residency after a certain period. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing)) | Requires passing exam and Japanese proficiency N4 or above. Max stay 5 years, no family accompaniment. Possible to switch from Technical Intern Training. |
-| Subclass 技能実習 (Technical Intern Training (Food and Beverage Manufacturing)) | Up to No. 3, max 5 years. After return, possible to switch to Specified Skilled Worker. Job changes generally not allowed. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -139,12 +130,12 @@ A: Yes. Specified Skilled Worker (i) (Food and Beverage Manufacturing) and Techn
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beverage-and-tobacco-manufacturing-workers/JP)**

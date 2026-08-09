@@ -50,8 +50,6 @@ The business assistant is responsible for supporting the sales team, handling cu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
-
 Junior Business Assistants can be promoted to Sales Representative, Client Manager, or Business Development Specialist. After gaining experience, you can move on to positions such as Regional Sales Manager or Business Director.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior Business Assistants can be promoted to Sales Representative, Client Manag
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employers must provide CDI contracts, with wages at least 1.5 times the SMIC. |
-| Subclass Passeport Talent (Passeport Talent - Salarié qualifié) | For highly skilled talents, salaries must reach at least twice the SMIC to quickly obtain residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated applicants whose salary meets the EU Blue Card threshold (about 53,000 euros per year). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Via Salarié work visa (CDI contract, salary ≥1.5x SMIC) or Passeport Talen
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-assistant/FR)**

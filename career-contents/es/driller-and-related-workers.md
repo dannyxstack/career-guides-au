@@ -4,8 +4,6 @@
 
 Drillers operate drilling rigs for geological exploration, mineral extraction, well drilling, or foundation construction, and are responsible for equipment installation, maintenance, and on-site safety monitoring.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Drillers operate drilling rigs for geological exploration, mineral extraction, w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Drillers face mixed challenges: AI and automation will take over tasks such as data monitoring and drilling parameter optimization, but field operations, equipment maintenance, and emergency response rely on human judgment and cannot be fully replaced in the short term.
-
 You can be promoted from junior drilling assistant to operator or supervisor, or specialize in niche fields such as directional drilling and geothermal drilling, requiring continuous technical learning.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can be promoted from junior drilling assistant to operator or supervisor, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | You must obtain an offer from a Spanish employer, be reviewed by the Ministry of Labor, and meet the occupational requirements |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find a job, and you must have financial means |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated drilling engineers, requiring contract and degree certification, with a salary threshold of about 33,000 euros |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Common pathways include work contract visas (Cuenta ajena) and job search vis
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driller-and-related-workers/ES)**

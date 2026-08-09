@@ -1,8 +1,8 @@
-# Energy Tester 职业分析 · 韩国
+# 能源测试员（Energy Tester）职业分析 · 韩国
 
-**职业代码: 15523 (KECO)**
+**职业代码：15523 (KECO)**
 
-A professional technical position that conducts tests and analyses to evaluate the performance, efficiency, and safety of energy equipment and facilities.
+负责进行测试和分析以评估能源设备和设施性能、效率和安全的专业技术职位。
 
 
 ---
@@ -11,8 +11,8 @@ A professional technical position that conducts tests and analyses to evaluate t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2-3年 | $15,000,000~$20,000,000（National standard） |
-| 学士学位 | 4年 | $20,000,000~$40,000,000（Private standard） |
+| 副学士学位 | 2-3年 | $15,000,000~$20,000,000（国家标准） |
+| 学士学位 | 4年 | $20,000,000~$40,000,000（私营标准） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional technical position that conducts tests and analyses to evaluate t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Energy Manager Engineer | Human Resources Development Service of Korea | 必备 | Required certification in energy testing field |
-| 电气工程师 | Human Resources Development Service of Korea | 可选 | Preferred certification |
+| 能源管理工程师 | 韩国人力资源开发服务局 | 必备 | 能源测试领域所需认证 |
+| 电气工程师 | 韩国人力资源开发服务局 | 可选 | 优先认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Employment is expected to steadily increase due to growing demand for energy efficiency testing driven by renewable energy expansion and carbon neutrality policies.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。受可再生能源扩张和碳中和政策推动，能效测试需求增长，就业预计稳步增加。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,91 +38,85 @@ A professional technical position that conducts tests and analyses to evaluate t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$38,000,000 | Large corporation/public enterprise standard |
-| Mid-level (4-9 years) | $40,000,000~$55,000,000 | Varies by experience and certification |
-| Senior-level (10+ years) | $55,000,000~$75,000,000 | Includes management positions |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 大型企业/公共事业单位标准 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 因经验和认证而异 |
+| 高级（10年以上经验） | $55,000,000~$75,000,000 | 包含管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI can replace data analysis and report writing tasks, but actual test equipment operation and judgment require human roles, so the possibility of full replacement is low.
+AI可替代数据分析和报告撰写任务，但实际测试设备操作和判断仍需人力角色，完全替代可能性较低。
 
-Mainly works in power plants, testing certification agencies, and research institutes, with promotion possible to test team leader, quality manager, or technical director based on experience.
+主要在发电厂、检测认证机构和研究所工作，根据经验可晋升为测试组长、质量经理或技术总监。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple entry of test data
-- Search and organize reference documents
-- Format work for regular reports
+- 简单输入测试数据
+- 搜索并整理参考文档
+- 格式化为常规报告的工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Test result analysis
-- Early detection of abnormal signs
-- Performance optimization simulation
+- 检测结果分析
+- 异常征兆的早期发现
+- 性能优化模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Field equipment operation know-how
-- Judgment for abnormal situation response
-- Supervision of safety procedure compliance
+- 现场设备操作诀窍
+- 异常情况响应判断
+- 监督安全程序合规
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of AI/Machine Learning
-- Data Analysis (Python, R)
-- Knowledge of Energy Storage Systems (ESS)
+- 人工智能/机器学习基础
+- 数据分析（Python、R）
+- 储能系统（ESS）知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy testing
-- Hydrogen energy safety
-- ESS Performance Evaluation
-- Carbon Neutral Certification
+- 可再生能源测试
+- 氢能安全
+- ESS绩效评估
+- 碳中和认证
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled energy testing personnel, meeting demand for specialized workforce |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage for long-term stay, points-based |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Tendency to follow systematic procedures
-- People with strong interest in machinery and electrical fields
-- People with strong safety awareness
+- 倾向于遵循系统化程序
+- 对机械和电气领域有浓厚兴趣的人
+- 安全意识强的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who prefer working alone rather than collaborating
+- 喜欢独立工作而非合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an energy tester?**
-答：The starting salary is approximately 30 million to 38 million KRW, and it is higher at public and large corporations, with additional pay for certifications.
+**问：能源测试员的起薪是多少？**
+答：起薪约3000万至3800万韩元，公共机构和大企业更高，另有资格证补贴。
 
-**问：Can foreigners get a job as an energy tester?**
-答：Yes, skilled worker recruitment is possible with an E-7 visa, and relevant degrees and experience are required.
+**问：外国人能获得能源测试员的工作吗？**
+答：是的，E-7签证可用于招聘熟练工人，需要相关学历和经验。
 
-**问：Are there required certifications?**
-答：The Energy Manager Engineer certification is required, and certifications in electrical engineering or fire fighting provide additional points.
+**问：是否需要必需的认证？**
+答：需能源管理工程师认证，电气工程或消防相关认证可加分。
 
 
 ---
@@ -140,12 +134,12 @@ Mainly works in power plants, testing certification agencies, and research insti
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/energy-tester/KR)**

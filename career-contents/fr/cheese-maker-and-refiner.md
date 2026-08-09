@@ -4,8 +4,6 @@
 
 Responsible for producing and refining cheese from raw materials such as milk, including steps such as coagulation, cutting, draining, salting, and aging to ensure product quality and flavor.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for producing and refining cheese from raw materials such as milk, i
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In the work of cheese makers and refiners, aging monitoring and quality control are most easily replaced by AI, but manual techniques (such as curd cutting, salting, and flavor judgment) are still difficult to automate. Meanwhile, AI can enhance quality prediction and supply chain management, leading to mixed outcomes.
-
 You can grow from an apprentice to a cheese technician, and then to a production supervisor or workshop manager. You can also obtain the Affineur qualification through training, or work as a quality control expert at a large dairy company.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can grow from an apprentice to a cheese technician, and then to a production
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee visa) | Employer sponsorship required, and contracts comply with French labor standards |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with an annual salary of 1.5 times SMIC |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually requires a CAP or BP diploma in performing arts; mature-age qualifica
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cheese-maker-and-refiner/FR)**

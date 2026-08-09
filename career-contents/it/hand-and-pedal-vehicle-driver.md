@@ -4,8 +4,6 @@
 
 Operate human-powered or pedal vehicles to transport people or goods, commonly used for urban short-distance delivery, tourism, and local logistics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Operate human-powered or pedal vehicles to transport people or goods, commonly u
 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-Demand for human and bicycle drivers will be significantly reduced by automation, as self-driving delivery vehicles, drones, and e-scooters can complete short-distance deliveries more efficiently, leaving only a few customized, non-structured routes or tourism experience services remaining.
 
 Can be promoted to distribution team supervisor or logistics coordinator, or transfer to motor vehicle driver for higher income. Some practitioners operate their own small delivery businesses.
 
@@ -100,16 +96,9 @@ Can be promoted to distribution team supervisor or logistics coordinator, or tra
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Generally not applicable for this occupation due to low skill threshold, but may be attempted if the employer can prove scarcity. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Non-EU citizens can apply through annual quotas, but positions are competitive and require employer sponsorship. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Affected by e-bikes and automated delivery, long-term demand may decline, but
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hand-and-pedal-vehicle-driver/IT)**

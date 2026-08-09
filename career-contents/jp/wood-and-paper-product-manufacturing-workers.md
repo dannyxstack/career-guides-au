@@ -4,8 +4,6 @@
 
 Skilled workers who manufacture furniture, building materials, and paper products from wood and paper. They handle a wide range of processes, from machine operation to manual finishing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Skilled workers who manufacture furniture, building materials, and paper product
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although automation via AI and robots is advancing, human judgment is essential for high-end furniture making and finishing processes requiring craftsmanship. Simple cutting and polishing are mechanized.
-
 Entry-level workers start as machine operators; with skill development, they can advance to pattern making, quality control, or production management. Independent work as a craftsman is also an option.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Entry-level workers start as machine operators; with skill development, they can
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Metal Molding, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Covers 3 sectors in manufacturing. Requires skills test and Japanese N4 or above. Up to 5 years. |
-| Subclass 技能 (Skills (Landing Permit for Foreign Nationals)) | For skilled workers. Requires 10+ years of practical experience. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible for design/development roles. Requires university degree or higher. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +128,12 @@ A: Specified Skilled Worker (i) (Manufacturing 3 fields) is the most realistic. 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-and-paper-product-manufacturing-workers/JP)**

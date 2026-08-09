@@ -52,8 +52,6 @@ Responsible for post-production work such as editing, color grading, sound compo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is rapidly penetrating film and video editing, automating repetitive tasks like cutting and color correction, but also enhancing creative tools, pushing editors towards higher-level narrative and decision-making skills.
-
 Initially, they usually start as editing assistants or freelances, and after accumulating work, they can be promoted to chief editor or post-production director. Some have shifted to specialized fields like color grading and special effects, or have established their own post-production studios.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Initially, they usually start as editing assistants or freelances, and after acc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (pr (Talent Passport (Artistic and Cultural Professions)) | For artists and cultural sector talents, 4-year residence, can bring family, must prove project or employer in France. |
-| Subclass Salarié (CDI/CDD) (Employee (Permanent/Fixed-term Contract)) | Employed by a French company, which requires a work permit for long-term positions. |
-| Subclass Recherche d'emploi / (Job Search / Business Creation) | Temporary residence after graduation allows you to find work or start a business in France, with a one-year renewal. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can rise from assistant to chief editor, or specialize in color grading, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiovisual-editing-and-postproduction-technician/FR)**

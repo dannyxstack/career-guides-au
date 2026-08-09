@@ -55,8 +55,6 @@ Auctioneers conduct auctions, assess item values, and guide bidding. This occupa
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Auctioneers' core tasks such as bid calling, item presentation, and client relationship management are less affected by AI, but tasks like valuation, document processing, and data analysis are being replaced by AI tools, leading to stable or slightly reduced demand and fewer entry-level opportunities.
-
 Junior auctioneers can advance to senior auctioneer or auction house manager, or move into professional asset appraisal. Building client networks and industry reputation is key. Some auctioneers set up independent auction houses.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior auctioneers can advance to senior auctioneer or auction house manager, or
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: No mandatory qualifications, but a business diploma or real estate license (e
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auctioneer/NZ)**

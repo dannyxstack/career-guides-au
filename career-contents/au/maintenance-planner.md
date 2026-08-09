@@ -52,8 +52,6 @@ A maintenance planner coordinates maintenance plans for industrial equipment, ma
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
-
 Can start as a maintenance technician or scheduler, then advance to senior planner or maintenance manager with experience, or transition to asset management and reliability engineering roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can start as a maintenance technician or scheduler, then advance to senior plann
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires a skills assessment and 3 years of work experience |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Regional state sponsorship, can transfer to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on CSOL, can migrate via 186 employer sponsorship or 491 r
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maintenance-planner/AU)**

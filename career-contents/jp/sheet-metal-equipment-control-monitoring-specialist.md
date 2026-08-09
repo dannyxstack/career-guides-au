@@ -4,8 +4,6 @@
 
 A professional who operates and monitors sheet metal processing equipment to maintain quality and productivity on automated lines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who operates and monitors sheet metal processing equipment to mai
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Simple monitoring tasks shrink due to AI/robot automation, but humans essential for complex sheet metal work and fault response. AI assists production planning and quality inspection.
-
 Career advancement possible by expanding skills to include multi-axis robot and laser processing machine programming. Team leader → Production management.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Career advancement possible by expanding skills to include multi-axis robot and 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Must have university degree in engineering or 10+ years of practical experience, and be capable of sheet metal design and control work |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 Fields)) | Must pass skills test and have N4 or higher Japanese to engage in manufacturing. Applicable fields as of 2024 |
-| Subclass 技能実習2号 (Technical Intern Training (Machinery/Metal)) | Maximum 3 years, with premise of returning home. Eligible for sheet metal processing training |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Acquire skill certifications or CNC programming to move into production manag
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-equipment-control-monitoring-specialist/JP)**

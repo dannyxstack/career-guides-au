@@ -4,8 +4,6 @@
 
 Responsible for civil safety, emergency response, and rescue actions, including emergency response and personnel assistance at fires, traffic accidents, and natural disaster sites.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for civil safety, emergency response, and rescue actions, including 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Civil defense and rescue operations are affected by AI: dispatch and document processing can be automated, but on-site decision-making, complex rescue operations, and interpersonal trust are hard to replace.
-
 Starting as a rescue team member, you can be promoted to team leader or operational commander, or move into specialized fields such as hazardous materials handling and water rescue, or enter training or management roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Starting as a rescue team member, you can be promoted to team leader or operatio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | For employment residence, you must obtain a work contract from a French employer and prove that the position cannot be held by an EU citizen. |
-| Subclass Passeport Talent (Passeport Talent) | The talent passport is suitable for highly skilled professionals, requires qualification certificates and a project plan, and is valid for 4 years. |
-| Subclass Recherche emploi (Recherche d'emploi) | Job-seeking residence allows graduates to find work in France, valid for one year, and can be converted to work residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You must hold a PSE1/PSE2 first aid certificate and pass the SDIS firefighter
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-security-and-rescue/FR)**

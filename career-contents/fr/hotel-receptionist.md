@@ -53,8 +53,6 @@ In hotels, guesthouses, and other accommodations, they are responsible for recei
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The job of hotel front desk receptionists faces compression from automation, but AI also enhances service efficiency and personalization; Competition for entry-level positions is intensifying, but skill upgrades can shift toward high-value roles.
-
 You can be promoted to front desk supervisor, lobby assistant manager, front office manager, or move to the reservation or sales departments. After gaining experience, you can also enter the Chain Hotel Management Trainee Program and advance to hotel management positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted to front desk supervisor, lobby assistant manager, front off
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | To be employed by a French hotel, you need to obtain a work permit and apply through your employer. Applicable to non-EU citizens. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled workers; can apply with salary 1.5x French average wage (approx. €40,000+) or master's degree. Front-desk roles often struggle to meet salary threshold. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | After completing higher education in France, you can apply for a one-year job-seeking visa and transfer to a work visa after finding a job that matches your academic qualifications. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Candidates can be promoted from junior front desk to front desk supervisor, l
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-receptionist/FR)**

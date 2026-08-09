@@ -49,8 +49,6 @@ Professionals who measure, analyze, and reduce noise and vibration, conducting r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace parts of data measurement and analysis, but on-site judgment and regulatory response require human roles. Thus, the overall impact is limited.
-
 Entry-level engineers handle measurement and analysis tasks; with experience, they can advance to researcher, project leader, or senior engineer roles. Graduate studies or obtaining certifications are advantageous.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Entry-level engineers handle measurement and analysis tasks; with experience, th
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (E-7 (Specific Activities, Professionals)) | Suitable for professional employment in noise and vibration fields |
-| Subclass E-7-4 (E-7 (Specific Activities, Advanced Technology)) | Possible in advanced measurement technology field |
-| Subclass F-2 (Residence (F-2)) | Possible for long-term stay conversion |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -135,12 +126,12 @@ A: Yes, it is possible with an E-7-1 (Specific Activities) visa, issued based on
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noise-and-vibration-engineers-and-researchers/KR)**

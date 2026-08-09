@@ -51,8 +51,6 @@ A Japanese cuisine chef is a professional who prepares Japanese dishes such as s
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job of a Japanese cuisine chef has a low risk of replacement by AI. This is because delicate knife skills, freshness assessment, and customized plating rely on human taste and hand techniques. However, AI can be introduced for auxiliary tasks such as order management or inventory optimization.
-
 Starting as a junior chef, one can advance to head chef, executive chef, or become an owner-chef; training in Japan or obtaining certifications aids career growth.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Starting as a junior chef, one can advance to head chef, executive chef, or beco
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when hiring skilled chefs specialized in Japanese cuisine |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to general cooking assistant roles, difficult to recognize Japanese cuisine expertise |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence status, no employment restrictions, possible to work as Japanese cuisine chef |
-| Subclass F-4 (F-4 (Overseas Korean)) | Issued to overseas Koreans, eligible to work as Japanese cuisine chef |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: It is not legally required, but it is highly advantageous for employment and 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/japanese-cuisine-chef/KR)**

@@ -53,8 +53,6 @@ Cashiers and ticket sellers handle cash and non-cash transactions in retail stor
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Cashiers face significant automation compression; AI and self-service devices can handle most transactions, but human interaction, exception handling, and complex service scenarios still require humans, overall risk medium to high.
-
 Junior cashiers can advance to senior cashier, shift manager, or retail supervisor. Through vocational training (e.g., retail management), they can transition to roles in purchasing, inventory management, etc. With experience, they can also move into customer service or sales specialist positions.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior cashiers can advance to senior cashier, shift manager, or retail supervis
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: The trend toward self-checkout and online ticketing has indeed reduced demand
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier-and-ticket-seller/DE)**

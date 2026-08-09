@@ -4,8 +4,6 @@
 
 To teach specialized courses (such as mathematics, French, history, etc.) in regular French junior or senior high schools, one must hold a CAPES or Agrégation teaching certificate, qualifying as a national civil servant or contract teacher.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ To teach specialized courses (such as mathematics, French, history, etc.) in reg
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will profoundly change the work of ordinary secondary school teachers. Standardized content delivery and assessment will be compressed, but personalized teaching, emotional guidance, and lectures on complex topics will be amplified, upgrading professional content rather than disappearing.
-
 Typically, they start as contract teachers and obtain CAPES or Agrégation through internal exams to become a formal civil servant. They can be promoted to principal, supervisor, or enter educational management positions.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Typically, they start as contract teachers and obtain CAPES or Agrégation throu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | You must obtain a work contract from a French school and pass the review by the labor bureau (hiring foreign teachers requires proof of recruitment difficulties). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with Agrégation or a doctorate may apply for a Talent Passport, simplifying procedures. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires an annual salary exceeding EUR 53,600 (2025 standard), typically only achievable by senior teachers or principals. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: CAPES is a secondary school teaching qualification, Agrégation is an advance
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-school-teacher-general/FR)**

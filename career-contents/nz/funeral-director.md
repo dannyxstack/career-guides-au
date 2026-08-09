@@ -52,8 +52,6 @@ Funeral directors coordinate funeral services, including body handling, ceremony
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
-
 Junior funeral director can advance to senior director or manager, some move into funeral consulting or independently run a funeral home. New Zealand offers courses like Graduate Diploma in Funeral Direction; after gaining experience, can apply for registration.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior funeral director can advance to senior director or manager, some move int
 | Subclass SMC (Skilled Migrant Category) | If the wage reaches 1.5 times the median ($44.49/hour), can apply for skilled migration, but places are limited |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Currently not on the Green List, but may be adjusted in the future; monitor policy. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Registration is not mandatory, but a recognized funeral services diploma (Lev
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-director/NZ)**

@@ -51,8 +51,6 @@ Materials technicians test, analyze, and process metals, plastics, ceramics, and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Materials engineer work involves both repetitive experiments and creative design. AI will automate material screening and document generation, but cannot replace deep material science and failure analysis judgment. Overall manageable risk, opportunity lies in using AI to accelerate R&D.
-
 Career progression path includes: Materials Technician → Senior Technician/Lab Supervisor → Materials Engineer/R&D Manager. Can obtain engineering qualification through further study, or transition to quality management, technical sales, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression path includes: Materials Technician → Senior Technician/Lab
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Starting as a technician, you can advance to lab supervisor, production manag
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/materials-technologist/DE)**

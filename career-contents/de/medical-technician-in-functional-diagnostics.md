@@ -54,8 +54,6 @@ Functional diagnostic medical technicians operate medical diagnostic equipment s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 Career paths include from junior to senior technician, department supervisor, or through further training becoming a specialist in functional diagnostics (e.g., cardiac diagnostic technician). Also possible to move into medical technology management or education roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career paths include from junior to senior technician, department supervisor, or
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for those with a recognized German professional qualification; no degree required. Requires employer sponsorship; no strict salary requirement but must be sufficient for living expenses. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows seeking work in Germany for 1 year. Requires at least 2 years of professional qualification or degree, German A1 or English B2. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Main pathway is 3-year dual vocational training (Ausbildung) with a stipend. 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-technician-in-functional-diagnostics/DE)**

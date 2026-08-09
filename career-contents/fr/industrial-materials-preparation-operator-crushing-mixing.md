@@ -4,8 +4,6 @@
 
 Responsible for operating crushers, mixers, and other equipment to process industrial raw materials into semi-finished products and ensure materials meet production specifications.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating crushers, mixers, and other equipment to process indus
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This profession carries extremely high automation risks; AI and machine vision will replace most operational, monitoring, and quality inspection tasks, leading to a sharp decline in entry-level positions and a small number of maintenance and exception handling roles in the future.
-
 Operators can be promoted from junior to senior operator or team leader, or through internal training to positions in quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Operators can be promoted from junior to senior operator or team leader, or thro
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Visa) | Must have a French employer sponsorship, a work contract, and meet salary requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: This occupation is not on the Shortage List, foreigners require employer spon
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-materials-preparation-operator-crushing-mixing/FR)**

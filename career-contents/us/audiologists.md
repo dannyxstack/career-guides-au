@@ -52,8 +52,6 @@ Audiologists assess and treat hearing and related disorders; they may fit hearin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
-
 Career progression includes clinical specialist, research positions, management roles, or opening a private practice. After obtaining a PhD and completing clinical internships, one can advance to senior audiologist or department head.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes clinical specialist, research positions, management 
 | Subclass EB-2 (EB-2 Advanced Degree Professional) | Holding a Doctor of Audiology (AuD) degree qualifies for EB-2 employment-based green card, requiring a PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for PERM through employer sponsorship to obtain a permanent green card, usually requiring proof of US labor shortage. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically via H-1B work visa or EB-2 employment-based green card. Must hold a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiologists/US)**

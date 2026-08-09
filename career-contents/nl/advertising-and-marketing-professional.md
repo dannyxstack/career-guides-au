@@ -52,8 +52,6 @@ Advertising and marketing professionals plan, execute, and monitor marketing cam
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core strategy, creative, and client relationship tasks for advertising and marketing specialists are less affected by AI, but data analysis and content generation tasks will be largely automated. Competition for entry-level roles intensifies, but experts proficient in AI tools gain value.
-
 Career paths progress from specialist to manager to director, with opportunities to specialize in digital marketing, brand management, or market research. With experience, one can advance to marketing manager or chief marketing officer, or transition into consulting.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career paths progress from specialist to manager to director, with opportunities
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Applies to highly skilled non-EU citizens, must meet salary threshold (approx. €5,388/month, 2023). |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Common work visa, employer-sponsored, salary threshold approx. €4,500/month (under 30) or €5,888/month (over 30). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Non-EU citizens who graduated in the Netherlands or obtained a degree from a world top 200 university can apply for a one-year job search visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Digital transformation drives demand; digital marketing, data analysis, and o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-marketing-professional/NL)**

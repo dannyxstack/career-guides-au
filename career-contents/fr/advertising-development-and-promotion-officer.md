@@ -50,8 +50,6 @@ Responsible for planning, developing, and executing advertising campaigns, coord
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will automate ad placement and data reporting, but strategic creativity and client relationships remain core; overall job demand stable, skill requirements upgraded.
-
 You can be promoted from junior advertising planner to project manager, creative director, or client group director. It can also shift to specialized fields such as digital marketing and brand strategy.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted from junior advertising planner to project manager, creative
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent – Profession Artistique et Culturelle) | Applicable to professionals in the cultural, arts, or advertising sectors; requires project or employer contract; valid for up to 4 years. |
-| Subclass Salarié (Salarié (Employee) Visa) | Employer-sponsored work visa requires a job contract with a French company and meeting salary requirements. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled non-EU workers, requiring an annual salary of at least 53,000 euros (2024 standard), suitable for senior positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can progress to Project Manager, Creative Director, Group Account Director, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-development-and-promotion-officer/FR)**

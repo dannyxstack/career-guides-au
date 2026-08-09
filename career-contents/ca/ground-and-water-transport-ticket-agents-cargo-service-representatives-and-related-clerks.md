@@ -52,8 +52,6 @@ Responsible for handling passenger ticketing, baggage, cargo documentation, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Freight forwarding is undergoing profound change due to AI automation: some tasks are compressed, but the overall role is amplified—low-value paperwork and tracking are replaced, while strategic coordination and client advisory become core moats.
-
 Junior ticketing or customer service roles can advance to senior agent or team supervisor through experience. Some may move into logistics coordination, operations management, or customer relationship management.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior ticketing or customer service roles can advance to senior agent or team s
 | Subclass PNP (Provincial Nominee Program) | Some provinces list the transport industry as a priority sector, allowing provincial nomination points. |
 | Subclass LMIA (Labour Market Impact Assessment) | If the employer can prove difficulty in hiring locals, they can apply for an LMIA to obtain a work visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Usually high school graduation is sufficient, but a diploma helps with promot
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ground-and-water-transport-ticket-agents-cargo-service-representatives-and-related-clerks/CA)**

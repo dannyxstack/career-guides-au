@@ -1,8 +1,8 @@
-# Elevator Installer and Repairer 职业分析 · 韩国
+# 电梯安装维修工（Elevator Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 81121 (KECO)**
+**职业代码：81121 (KECO)**
 
-A technical professional who installs, regularly inspects, and repairs elevators (including elevators, escalators, etc.) in buildings to ensure safety.
+负责安装、定期检查和维修建筑内电梯（含升降梯、自动扶梯等）的技术专业人员，确保安全。
 
 
 ---
@@ -12,7 +12,7 @@ A technical professional who installs, regularly inspects, and repairs elevators
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中毕业证或等同 | 0年 | $0~$0（义务教育） |
-| Related department at a college (2-3 year program) | 3年 | $10,000,000~$20,000,000（Including tuition and textbook fees） |
+| 学院相关院系（2-3年制项目） | 3年 | $10,000,000~$20,000,000（包括学费和教材费） |
 
 ---
 
@@ -20,18 +20,18 @@ A technical professional who installs, regularly inspects, and repairs elevators
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Elevator Technician License | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
-| Elevator Industrial Engineer | Human Resources Development Service of Korea | 可选 | Recommended for senior technicians |
-| Electrician License | Human Resources Development Service of Korea | 可选 | Basic certification in related field |
+| 电梯技术员执照 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
+| 电梯工业工程师 | 韩国人力资源开发服务局 | 可选 | 推荐给高级技术人员 |
+| 电工执照 | 韩国人力资源开发服务局 | 可选 | 相关领域基础认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. Demand is steady due to urbanization and the increase in high-rise buildings, and stricter safety regulations require specialized personnel. Employment is stable but new hiring is limited.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。随着城市化和高层建筑增加需求稳定，更严格的安全法规需要专业人员。就业稳定但新招聘有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,90 +40,83 @@ A technical professional who installs, regularly inspects, and repairs elevators
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
 | 初级 (0-3年) | $28,000,000~$36,000,000 | 税前年薪，不包括奖金 |
-| 中级（4-7年） | $36,000,000~$48,000,000 | Pre-tax annual salary, additional allowance for certification holders |
-| 高级（8年+） | $48,000,000~$60,000,000 | Pre-tax annual salary, higher cap when transitioning to management |
+| 中级（4-7年） | $36,000,000~$48,000,000 | 税前年薪，持证者额外津贴 |
+| 高级（8年+） | $48,000,000~$60,000,000 | 税前年薪，转管理岗时上限更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is unlikely to replace installation and maintenance work, so automation impact is low; rather, it is used as an auxiliary tool for tasks like inspection data analysis.
+AI不太可能取代安装和维护工作，因此自动化影响低；相反，它被用作检查数据分析等任务的辅助工具。
 
-Starting as a junior technician, you can grow into a mid-level or senior technician through field experience and certifications (e.g., Elevator Technician License), and also advance to a manager or self-employed.
+从初级技术员起步，通过现场经验和认证（如电梯技术员执照）可成长为中级或高级技术员，也可晋升为经理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple inspection record writing
-- Basic remote monitoring
+- 简单检查记录编写
+- 基本远程监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault prediction analysis
-- Safety diagnostic system operation
-- Maintenance schedule optimization
+- 故障预测分析
+- 安全诊断系统操作
+- 维护计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Problem-solving based on field sense and experience
-- Physical installation and repair work
-- Compliance with safety regulations and field adaptation
+- 基于现场感知和经验的问题解决
+- 物理安装和维修工作
+- 遵守安全规定和现场适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI-based diagnostic tools
-- Basics of data analysis
-- Understanding of smart elevator systems
+- 使用AI诊断工具
+- 数据分析基础
+- 智能电梯系统理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban redevelopment
-- Strengthened safety regulations
-- Increase in high-rise buildings
-- Aging elevators
+- 城市重建
+- 加强安全规定
+- 高层建筑增加
+- 老旧电梯
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled workers, but elevator installation is a professional field so E-7 is more suitable than E-9. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when employed as skilled workers; Korean language ability and experience required. |
-| Subclass F-2 (F-2 (Residence)) | Can convert to residence status after long-term stay; must pass points system. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical fitness and no aversion to working at heights
-- People with a strong interest in mechanical/electrical fields
-- People who are meticulous and have a high safety awareness
+- 身体健康且不畏惧高空作业的人
+- 对机械/电气领域有浓厚兴趣的人
+- 细致且有高度安全意识的人
 
 **谁不适合**
-- People with severe acrophobia
-- People who dislike non-repetitive fieldwork
+- 患有严重恐高症的人
+- 不喜欢非重复性野外工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Around 30 million won, which increases with experience and certifications.
+**问：起薪是多少？**
+答：约3000万韩元，随经验和认证增加。
 
-**问：Can foreigners get a job in this occupation?**
-答：Yes, possible with an E-7 visa, requiring relevant experience and Korean language ability.
+**问：外国人能否从事该职业？**
+答：可以，通过E-7签证，需要相关经验和韩语能力。
 
-**问：Are there required certifications?**
-答：Elevator mechanic certification is advantageous but not required; can be obtained after on-site training.
+**问：是否需要必需的认证？**
+答：电梯机械师认证有优势但非必需；可在现场培训后获得。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as a junior technician, you can grow into a mid-level or senior technic
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/elevator-installer-and-repairer/KR)**

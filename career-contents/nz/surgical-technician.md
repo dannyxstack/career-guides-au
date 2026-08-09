@@ -52,8 +52,6 @@ Surgical technicians are key members of the surgical team, preparing instruments
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
-
 Junior technicians can gain experience and specialize in cardiac, orthopedic, or other surgical specialties, or advance to senior technician or team leader. Some transition to medical device sales or training roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can gain experience and specialize in cardiac, orthopedic, or
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation plus qualification or work experience can earn points |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a labour market test; employer must be a certified employer |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must have overseas qualifications assessed by the Medical Sciences Council of
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgical-technician/NZ)**

@@ -1,10 +1,8 @@
-# Investment Analyst 职业分析 · 韩国
+# 投资分析师（Investment Analyst）职业分析 · 韩国
 
-**职业代码: 03111 (KECO)**
+**职业代码：03111 (KECO)**
 
-A financial professional who analyzes corporate, industrial, and economic data to support investment decisions and optimize portfolios.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+分析公司、行业和经济数据以支持投资决策和优化投资组合的金融专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A financial professional who analyzes corporate, industrial, and economic data t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Business·Economics·Financial Engineering) | 4年 | $12,000,000~$24,000,000（Annual tuition (national/private average)） |
-| Graduate School (Finance·Economics Master's) | 2 年 | $18,000,000~$40,000,000（Annual tuition (large variation between national/private)） |
+| 大学（商学·经济学·金融工程） | 4年 | $12,000,000~$24,000,000（年学费（国立/私立平均）） |
+| 研究生院（金融·经济学硕士） | 2 年 | $18,000,000~$40,000,000（年学费（国立/私立差异较大）） |
 
 ---
 
@@ -22,18 +20,18 @@ A financial professional who analyzes corporate, industrial, and economic data t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Financial Investment Analyst | Korea Financial Investment Association | 必备 | Mandatory for financial investment professionals |
-| CFA（特许金融分析师） | CFA协会 | 可选 | International chartered investment analyst, highly preferred |
-| Korea Certified Investment Analyst (KCIA) | Korea Investment Certification Association | 可选 | Domestic analyst certification |
+| 金融投资分析师 | 韩国金融投资协会 | 必备 | 对金融投资专业人士强制要求 |
+| CFA（特许金融分析师） | CFA协会 | 可选 | 国际特许投资分析师，优先考虑 |
+| 韩国注册投资分析师（KCIA） | 韩国投资认证协会 | 可选 | 国内分析师认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Investment demand continues to rise due to aging population and asset market growth, but employment growth is expected to be moderate due to stock market volatility and fintech development.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于人口老龄化和资产市场增长，投资需求持续上升，但因股市波动和金融科技发展，就业增长预计较为温和。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,94 +39,86 @@ A financial professional who analyzes corporate, industrial, and economic data t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $35,000,000~$50,000,000 | Based on major securities firms, bonus separate |
-| Mid-level (4–7 years) | $60,000,000~$90,000,000 | Analyst/Manager level |
-| 高级（8年+） | $99,999,999 | Head/CIO level, high upper limit including bonuses |
+| 初级（0-3年） | $35,000,000~$50,000,000 | 基于主要证券公司，奖金另计 |
+| 中级（4–7年） | $60,000,000~$90,000,000 | 分析师/经理级别 |
+| 高级（8年+） | $99,999,999 | 总监/CIO级别，含奖金上限高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI replaces data collection and basic analysis, but high-value tasks like strategy, judgment, and client relationships actually expand.
+AI取代数据收集和基础分析，但策略、判断和客户关系等高价值任务实际上会扩展。
 
-Career path: Junior Analyst → Fund Manager/Analyst → Research Head/CIO. CFA and Korea Certified Investment Analyst (KCIA) are advantageous.
+职业路径：初级分析师→基金经理/分析师→研究主管/首席投资官。持有CFA和韩国注册投资分析师（KCIA）证书者优先。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic financial statement analysis
-- Data aggregation and report writing
-- Simple market information collection
+- 基础财务报表分析
+- 数据汇总与报告撰写
+- 简单的市场信息收集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Risk modeling
-- Portfolio optimization
-- Market forecasting and scenario analysis
+- 风险建模
+- 投资组合优化
+- 市场预测与情景分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic insight and judgment
-- Client communication
-- Regulatory and legal understanding
+- 战略洞察与判断
+- 客户沟通
+- 法规与法律理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python/R programming
-- Machine learning/deep learning
-- Financial engineering
-- ESG analysis
+- Python/R编程
+- 机器学习/深度学习
+- 金融工程
+- ESG分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- ESG investing
-- Quantitative analysis
-- Overseas investment
-- Fintech integration
+- ESG投资
+- 定量分析
+- 海外投资
+- 金融科技整合
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | For skilled foreigners in professional fields (finance/investment), requires employer sponsorship |
-| Subclass F-2 (Residence (F-2)) | Can be converted after long-term E-7 stay, a step before permanent residence |
-| Subclass F-5 (Permanent Residence (F-5)) | Can be obtained through skilled/investment immigration, no activity restrictions |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People strong with numbers and data analysis
-- People open to continuous learning and acquiring new information
-- People with stress tolerance and ability to focus for long periods
+- 擅长数字和数据分析的人
+- 愿意持续学习和获取新信息的人
+- 具有抗压能力和长时间集中注意力的人
 
 **谁不适合**
-- People who have difficulty enduring volatility and uncertainty
-- People who prefer simple repetitive tasks
+- 难以承受波动和不确定性的人
+- 偏好简单重复任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for an investment analyst?**
-答：At major securities firms, around 35-50 million KRW (excluding performance bonuses); smaller firms may offer less.
+**问：投资分析师的起薪平均是多少？**
+答：在大型证券公司，约3500-5000万韩元（不含绩效奖金）；小公司可能更低。
 
-**问：What visa does a foreigner need to work as an investment analyst in Korea?**
-答：E-7 (Specific Activities) visa is common, requiring expertise in finance/investment and employer sponsorship.
+**问：外国人在韩国担任投资分析师需要什么签证？**
+答：E-7（特定活动）签证常见，要求金融/投资专业知识及雇主担保。
 
-**问：How can you advance your career from an investment analyst?**
-答：Starting as a junior analyst, you can accumulate industry experience and be promoted to fund manager, head of research, or chief investment officer (CIO).
+**问：如何从投资分析师获得职业发展？**
+答：从初级分析师起步，积累行业经验后可晋升为基金经理、研究主管或首席投资官（CIO）。
 
 
 ---
@@ -146,12 +136,12 @@ Career path: Junior Analyst → Fund Manager/Analyst → Research Head/CIO. CFA 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/investment-analyst/KR)**

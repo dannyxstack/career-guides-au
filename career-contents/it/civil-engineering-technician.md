@@ -52,8 +52,6 @@ Assist civil engineers in the design, construction, and maintenance of infrastru
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering technicians face a higher risk of automation, as AI can optimise routine tasks like drawing generation, data analysis and site monitoring, but on-site coordination and compliance responsibilities remain.
-
 Can advance from technician to senior technician, project manager, or professional engineer; with experience, can independently undertake projects or transition to consulting.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can advance from technician to senior technician, project manager, or profession
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a high-salary contract (annual salary ≥ 1.5 times the EU average) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota applies to non-EU workers requiring employer sponsorship; civil engineering technicians fall under a shortage occupation with a higher quota. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply to the labor bureau to prove no local candidates are available; foreign workers can obtain work permits |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Higher technical education (ITS) or bachelor's degree in civil engineering, w
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-technician/IT)**

@@ -55,8 +55,6 @@ Architects plan and design buildings, urban complexes and infrastructure, coveri
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Parametric design (Grasshopper/Rhino) and BIM (Building Information Modelling, Revit) are the highest salary-premium skill areas in 2025–2026. Sustainable design credentials (green building/carbon-neutral design) significantly boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Parametric design (Grasshopper/Rhino) and BIM (Building Information Modelling, R
 | Subclass 190 (Skilled Nominated) | State nomination, with many housing projects in NSW/VIC/QLD |
 | Subclass 491 (Skilled Work Regional) | Regional construction role, +15 points |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Civil engineers have greater employment volume (Seek ~4,000 vs architects ~1,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architect/AU)**

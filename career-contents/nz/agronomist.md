@@ -52,8 +52,6 @@ Agronomists in New Zealand study crops, soil, and climate to optimize agricultur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is a double-edged sword for agronomists: automated data collection and analysis can improve efficiency, but complex field decisions, interdisciplinary problem-solving, and sustainability strategy planning still require human experience, creativity, and ethical judgment. The profession overall will not be replaced, but competition for entry-level positions will intensify.
-
 Junior agronomists can start as field technicians or assistants, and after 3-5 years of experience can advance to senior agronomist or regional manager. With over 10 years of experience, they can move into agricultural research, policy development, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior agronomists can start as field technicians or assistants, and after 3-5 y
 | Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence pathway: occupation on Green List Tier 1, with a valid job offer from an accredited employer. |
 | Subclass AEWV (Accredited Employer Work Visa) | Skilled Employer-Sponsored Temporary visa, as a transitional visa before permanent migration, requires an offer from an approved employer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a bachelor's degree in agricultural science or related field
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agronomist/NZ)**

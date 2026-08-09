@@ -51,8 +51,6 @@ Human Resources Managers are responsible for recruitment, compensation, performa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-HR managers' tasks like recruitment screening, document processing, and data reporting are easily automated by AI, but core responsibilities like strategic planning, employee relations, and complex negotiations are amplified by AI; overall mixed impact.
-
 Can progress from HR specialist or consultant to manager, then to HR director or chief HR officer. Holding MCIPD or NZIRH certification can accelerate advancement; cross-industry experience (e.g., IT, construction) yields higher salaries.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from HR specialist or consultant to manager, then to HR director or
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Occupation is on the Tier 2 list, requires 2 years of work before residency, employer must be accredited. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer-sponsored work visa, can be a pathway to residency, requires hourly wage above median |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Outlook is stable, with increasing demand for digital HR and compliance. Oppo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resource-manager-132311/NZ)**

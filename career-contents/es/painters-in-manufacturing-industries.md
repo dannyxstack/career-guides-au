@@ -52,8 +52,6 @@ Manufacturing painters are responsible for spraying, brushing, or powder coating
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The impact of AI and automation on manufacturing painters is mixed: painting processes may be replaced by robots, but tasks like quality control and defect handling still rely on human experience, and demand remains stable.
-
 Career path: Start as an apprentice (FP Grado Medio), gain experience, and be promoted to senior painter or production line supervisor, with some options to move into quality inspection or paint sales. Continuous learning of new technologies such as water-based coatings can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Career path: Start as an apprentice (FP Grado Medio), gain experience, and be pr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Work residency sponsored by a Spanish employer requires proof of occupational shortages or inability to recruit suitable personnel within the EU |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled occupations; annual salary must reach approximately €34,000 (2024 threshold). Manufacturing painters typically do not meet high salary requirements; a few senior positions may try. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For management or technical specialists, ordinary painters are less likely to be approved, but those with multiple certifications may be successful |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: The most common pathway is employer-sponsored work residency (Cuenta ajena), 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painters-in-manufacturing-industries/ES)**

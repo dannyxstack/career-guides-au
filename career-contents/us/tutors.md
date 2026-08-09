@@ -53,8 +53,6 @@ Tutors provide private academic instruction to individuals or small groups, supp
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI tools can automate some lesson planning and grading, but personalized tutoring and emotional support still rely on humans; tutoring jobs have mixed prospects.
-
 Tutors can start part-time, then with experience become full-time or set up a tutoring agency. Some may transition to school teachers or educational consultants.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Tutors can start part-time, then with experience become full-time or set up a tu
 |---|---|
 | Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, extremely difficult to obtain |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Almost impossible, as it does not meet H-1B specialty occupation requirements
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tutors/US)**

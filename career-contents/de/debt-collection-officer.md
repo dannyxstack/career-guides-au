@@ -52,8 +52,6 @@ Debt collection officers are responsible for pursuing overdue debts from debtors
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Debt collector's repetitive communication and paperwork are easily automated by AI; entry-level demand significantly declines, but complex negotiation and legal decisions still need humans; surviving roles emphasize higher skills.
-
 Starting as a junior collector, can progress to senior specialist, team leader, or department manager. Some transition to credit management, risk analysis, or legal assistant roles. Holding a banking or business specialist certificate (Fachwirt) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Starting as a junior collector, can progress to senior specialist, team leader, 
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: If you have a university degree and meet the salary threshold, you can apply 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/debt-collection-officer/DE)**

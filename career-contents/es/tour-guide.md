@@ -53,8 +53,6 @@ The guide is responsible for leading visitors to tourist attractions, providing 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 You can be promoted from junior tour guide to senior tour guide, group leader, or tourism product manager. It can also develop into specialty tourism (such as culture, cuisine, or adventure) or self-employment.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can be promoted from junior tour guide to senior tour guide, group leader, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | For employed work residence, the employer must provide a work contract, applicable to travel companies hiring tour guides. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled employees, but guides usually do not meet salary requirements and are rarely used. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Applicable for senior management or technical positions, generally not for tour guides. |
-| Subclass Búsqueda de empleo (Job Search Visa) | The international student or highly skilled work-seeking visa allows you to reside in Spain and look for work. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: You can be promoted from junior tour guide to team leader or tourism product 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-guide/ES)**

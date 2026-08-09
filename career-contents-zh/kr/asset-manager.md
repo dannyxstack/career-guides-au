@@ -1,10 +1,8 @@
-# Asset Manager 职业分析 · 韩国
+# 资产经理（Asset Manager）职业分析 · 韩国
 
-**职业代码: 03121 (KECO)**
+**职业代码：03121 (KECO)**
 
-A professional who invests and manages diverse assets such as stocks, bonds, and real estate to generate returns, working at banks, securities firms, asset management companies, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+投资和管理股票、债券、房地产等多元资产以获取回报的专业人士，就职于银行、证券公司、资产管理公司等。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who invests and manages diverse assets such as stocks, bonds, and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Business, Economics, Finance) | 4年 | $20,000,000~$40,000,000（Based on national/public universities; private and capital area higher） |
-| Graduate School (Financial Engineering, MBA) | 2 年 | $30,000,000~$60,000,000（Optional but advantageous, scholarships available） |
+| 大学（商业、经济、金融） | 4年 | $20,000,000~$40,000,000（基于国立/公立大学；私立和首都地区更高） |
+| 研究生院（金融工程、MBA） | 2 年 | $30,000,000~$60,000,000（非强制但有利，提供奖学金） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who invests and manages diverse assets such as stocks, bonds, and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Securities Investment Advisory Personnel | Korea Financial Investment Association | 必备 | Required for fund manager registration |
-| 特许金融分析师（CFA） | CFA协会 | 可选 | International certification, not mandatory but highly beneficial for employment |
-| Korean Certified Public Accountant (KICPA) | Financial Supervisory Service | 可选 | Useful for accounting and financial analysis |
+| 证券投资咨询人员 | 韩国金融投资协会 | 必备 | 基金管理者注册所需 |
+| 特许金融分析师（CFA） | CFA协会 | 可选 | 国际认证，非强制但对就业非常有利 |
+| 韩国注册会计师 (KICPA) | 金融监督院 | 可选 | 对会计和财务分析有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 54,000. Due to aging population and increased demand for asset management, jobs are stable, but employment is becoming more selective and some tasks may be automated by AI.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 54,000。由于人口老龄化和资产管理需求增加，就业稳定，但就业竞争加剧，部分任务可能被AI自动化。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,87 @@ A professional who invests and manages diverse assets such as stocks, bonds, and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $40,000,000~$60,000,000 | Based on large asset management companies |
-| Mid (4-9 years) | $60,000,000~$99,999,999 | Varies greatly with performance bonuses included |
-| 资深（10年以上） | $99,999,999 | Senior fund manager, high proportion of performance bonuses |
+| 入门级（0-3年） | $40,000,000~$60,000,000 | 基于大型资产管理公司 |
+| 中（4-9年） | $60,000,000~$99,999,999 | 因包含绩效奖金而差异很大 |
+| 资深（10年以上） | $99,999,999 | 高级基金经理，绩效奖金占比高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-As AI automates data analysis and basic research, some tasks (e.g., simple analysis) decrease, but strategy formulation and judgment remain human domains. Areas like portfolio optimization using AI are actually strengthened.
+随着AI自动执行数据分析和基础研究，某些任务（如简单分析）减少，但战略制定和判断仍由人类负责。像利用AI进行投资组合优化等领域实际上得到加强。
 
-Typically, after graduating from university, one joins a securities firm or asset management company, gains experience as an analyst or trader, and is promoted to fund manager. Professional certifications like CFA are advantageous.
+通常大学毕业后加入证券公司或资产管理公司，积累分析师或交易员经验，晋升为基金经理。专业认证如CFA具有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Quantitative data collection and organization
-- Basic financial analysis report writing
-- General market trend summaries
+- 定量数据收集与整理
+- 基础财务分析报告撰写
+- 一般市场趋势总结
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Portfolio rebalancing
-- Risk management
-- Investment idea generation
+- 投资组合再平衡
+- 风险管理
+- 投资创意生成
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique investment philosophy and intuition
-- Insight into macroeconomics
-- Trust-based client relationships
-- Regulatory and market sentiment analysis
+- 独特的投资理念和直觉
+- 洞察宏观经济学
+- 基于信任的客户关系
+- 监管与市场情绪分析
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis (Python/R)
-- Basics of AI/machine learning
-- ESG analysis
-- Behavioral economics
+- 数据分析（Python/R）
+- AI/机器学习基础
+- ESG分析
+- 行为经济学
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Pension fund management
-- ESG investing
-- Hedge fund
-- Robo-advisor
+- 养老金基金管理
+- ESG投资
+- 对冲基金
+- 智能投顾
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Issuable as a professional if you meet asset management experience and qualification requirements; duration 1 year, renewable |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone skilled in numbers and data analysis with a long-term investment vision
-- Someone responsible who can take risks but make systematic decisions
-- Someone who continuously learns and is interested in macroeconomics and industry trends
+- 擅长数字和数据分析、具有长期投资眼光的人
+- 有责任心、能承担风险但做系统决策的人
+- 持续学习并对宏观经济和行业趋势感兴趣的人
 
 **谁不适合**
-- Someone who clings to short-term profits and lacks patience
-- Someone who finds it difficult to endure stress and uncertainty
+- 只顾短期利益、缺乏耐心的人
+- 难以承受压力和不确定性的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an asset manager?**
-答：Entry-level: about 40-60 million won, mid-level: 60-120 million won, senior: over 300 million won including performance bonuses.
+**问：资产经理的平均工资是多少？**
+答：入门级：约4000-6000万韩元，中级：6000-12000万韩元，高级：包括绩效奖金超过3亿韩元。
 
-**问：What visa does a foreigner need to work as an asset manager?**
-答：An E-7 professional visa is required, along with a relevant degree, experience, and an employer sponsor.
+**问：外国人需要什么签证才能从事资产经理工作？**
+答：需E-7专业签证，以及相关学历、经验和雇主担保。
 
-**问：Is it mandatory to obtain the CFA to become an asset manager?**
-答：Not mandatory, but it is advantageous for employment and promotion, and preferred by large asset management firms.
+**问：成为资产管理师必须获得CFA吗？**
+答：非强制，但有利于就业和晋升，大型资产管理公司偏好。
 
 
 ---
@@ -145,12 +137,12 @@ Typically, after graduating from university, one joins a securities firm or asse
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/asset-manager/KR)**

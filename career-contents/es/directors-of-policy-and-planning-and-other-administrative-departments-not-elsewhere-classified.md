@@ -51,8 +51,6 @@ Responsible for formulating and implementing policies, strategies, and plans for
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly improve the efficiency of policy analysis, data integration, and report generation, but core tasks involving multi-party interest coordination, political judgment, and accountability still rely on humans. Overall, risks are controllable and benefits are significant.
-
 You can be promoted from department manager or senior policy advisor, often requiring cross-departmental experience. Later, you may serve as a government secretary-general or senior executive in a state-owned enterprise, or transition to consulting.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ You can be promoted from department manager or senior policy advisor, often requ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for high-paying technical management roles, requires university degree and job offer, salary typically >EUR 40,000. |
-| Subclass Cuenta ajena (Work Permit (Employer Sponsorship)) | Employer-sponsored work residency requires proof that the position cannot be filled by a local resident |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +139,12 @@ A: Yes, through the High-Skilled Professional Visa (Altamente cualificado) requi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-of-policy-and-planning-and-other-administrative-departments-not-elsewhere-classified/ES)**

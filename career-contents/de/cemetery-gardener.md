@@ -53,8 +53,6 @@ Cemetery horticulturists are responsible for green space design, plant planting 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on cemetery horticulturists is mixed: some physical tasks are automated, but emotional services and complex design still require humans, with overall job demand stable.
-
 Can advance from apprentice to professional horticulturist; with experience, can take on cemetery management roles or start a gardening business. Further study in plant protection or landscape design can expand into municipal greening.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from apprentice to professional horticulturist; with experience, can
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Requires the Anerkennung procedure, assessed by IHK. Qualifications from outs
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cemetery-gardener/DE)**

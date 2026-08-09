@@ -58,8 +58,6 @@ A crane operator is responsible for operating various lifting equipment (tower c
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Crane operators face mixed impacts from AI/automation: high-precision tasks (e.g., lift path planning) will be enhanced, but routine monitoring operations may be automated, requiring a shift to remote control and smart construction sites.
-
 Wind turbine installation, high-rise residential construction and mining expansion are the three main demand drivers. Operators must hold multiple licences, entry barriers are high, and supply remains persistently short.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Wind turbine installation, high-rise residential construction and mining expansi
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Crane operators earn significantly higher salaries ($100k–$200k vs forklift
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-operator/AU)**

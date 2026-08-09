@@ -54,8 +54,6 @@ Yoga instructors teach group or private yoga classes in New Zealand. They need i
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace yoga instructors but will amplify their value: by generating personalized training plans, real-time pose correction, and automated client management, allowing instructors to focus more on emotional connection and safety protection.
-
 Start as a part-time instructor, gain experience, and advance to senior instructor or open your own studio. Some instructors pivot to Pilates, meditation, or rehabilitation training to diversify income.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a part-time instructor, gain experience, and advance to senior instruct
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, IELTS 4.0, hourly wage no less than the median ($29.66/hr), maximum 3 years |
 | Subclass SMC (Skilled Migrant Category) | Yoga instructors are not on the skilled occupation list, cannot apply directly, must meet other conditions such as high salary or special skills. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires Yoga Alliance RYT 200 certification and first aid certific
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/yoga-instructor/NZ)**

@@ -54,8 +54,6 @@ Engage in installation, maintenance, cleaning, and repair work in high-altitude 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-High-altitude workers face the combined impact of AI and automation: drones and robots replace some high-risk inspection and cleaning tasks, but enhance safety monitoring and precise operation capabilities; Humans still have advantages in judging complex environments and handling emergencies.
-
 Career Promotion Path: From aerial operator to team leader, then to safety supervisor or trainer. You can also transition to complex engineering management by obtaining higher-level certifications (such as CQP).
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Career Promotion Path: From aerial operator to team leader, then to safety super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Applicable to non-EU high-skilled professionals, requiring an annual salary of approximately €53,395 (2024), but salaries in this occupation are usually below the threshold and rarely used. |
-| Subclass Passeport Talent - P (Talent Passport - Qualified Professional) | Applicable to scarce occupations, requiring an employer contract and a salary of no less than 28,108 euros (SMIC); this occupation meets the requirements. |
-| Subclass Salarié (Employee Work Permit) | Standard work permit, requiring a long-term contract from a French employer and proof of recruitment difficulties, suitable for experienced applicants. |
-| Subclass Recherche d'emploi / (Job Search / Business Creation) | After graduation, you can apply for a 12-month residence to find a job, and after finding a relevant job, you can switch to a work visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Required: Certificate for Working at Heights (CQP Travaux en hauteur), Safety
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/highaltitude-intervention-worker/FR)**

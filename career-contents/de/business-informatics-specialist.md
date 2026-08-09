@@ -51,8 +51,6 @@ Business informatics specialists analyze business processes, design and implemen
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Can advance to IT Project Manager, CIO, or Digital Lead, or transition into Data Science or AI.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance to IT Project Manager, CIO, or Digital Lead, or transition into Data
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: can apply via EU Blue Card or skilled migration visa, requires bachelor's deg
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-informatics-specialist/DE)**

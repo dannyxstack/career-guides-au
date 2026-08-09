@@ -4,8 +4,6 @@
 
 A professional athlete who earns income by playing in games as a member of a pro sports team and competes in league events by sport.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional athlete who earns income by playing in games as a member of a pro
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI does not directly replace athletes' skills, but its use in training analysis, game strategy, injury prediction, etc., is enhancing player performance.
-
 Specialize in a sport from elementary school, join a corporate or pro team, and secure a starting position through competition. After retirement, transition to coaching or commentary.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Specialize in a sport from elementary school, join a corporate or pro team, and 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-6 (Artistic and Performance Visa (E-6)) | Foreign athlete work visa, requires invitation from a pro team |
-| Subclass F-2 (Residence Visa (F-2)) | Long-term residency possible |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +128,12 @@ A: E-6 (Arts and Entertainment) visa is required, along with an invitation from 
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-athlete/KR)**

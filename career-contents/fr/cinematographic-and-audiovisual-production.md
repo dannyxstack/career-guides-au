@@ -53,8 +53,6 @@ Responsible for planning, shooting, post-production, and project management of f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
-
 Starting as an assistant producer or production coordinator, you can be promoted to production manager or executive producer. Some have shifted to content development, distribution, or founding independent production companies.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as an assistant producer or production coordinator, you can be promoted
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Artistic and Cultural Profession)) | Applicable to artists and performers, including film directors and producers, who must provide works and contracts, valid for up to 4 years |
-| Subclass Salarié (Salaried Employee Visa) | Employed by a French production company or institution, employer sponsorship required |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for senior producers or management positions, meeting salary thresholds |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Starting as an assistant producer or production coordinator, you can advance 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cinematographic-and-audiovisual-production/FR)**

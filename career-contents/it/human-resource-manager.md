@@ -51,8 +51,6 @@ Human resources managers are responsible for planning, directing, and coordinati
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Career progression path: Junior HR Specialist → HR Manager → HR Director/Chief Human Resources Officer. Experienced professionals can transition into management consulting or specialized domain experts.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Career progression path: Junior HR Specialist → HR Manager → HR Director/Chi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU citizens, requiring an employment contract and annual salary not below the EU threshold (approx. €28,000 in Italy). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-high-skilled positions, requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit: the employer applies to the immigration office; once approved, a work visa can be applied for. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Can be obtained via EU Blue Card (requires high-salary contract) or Decreto F
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resource-manager/IT)**

@@ -51,8 +51,6 @@ A professional responsible for controlling and monitoring equipment on assembly 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-With AI and automation, simple monitoring tasks decrease, but human judgment is still needed for equipment anomaly response and adjustment. AI is used complementarily.
-
 Career advancement from assembly work to equipment control is possible. After gaining experience, paths to production management and equipment maintenance engineering open up.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career advancement from assembly work to equipment control is possible. After ga
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Manufacturing 3 fields)) | Targets skilled training completers; allows work in manufacturing. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Vocational school grads+ can engage in equipment control. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Expected acceptance)) | Assumes long-term acceptance of skilled workers. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Promotion from equipment control to production management or equipment mainte
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-equipment-assembly-line-equipment-control-monitoring-specialist/JP)**

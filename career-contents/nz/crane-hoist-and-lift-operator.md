@@ -52,8 +52,6 @@ New Zealand crane operators operate tower cranes, mobile cranes, etc., employed 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane operators face mixed impacts from AI/automation: high-precision tasks (e.g., lift path planning) will be enhanced, but routine monitoring operations may be automated, requiring a shift to remote control and smart construction sites.
-
 Start as assistant operator or crane signaler, gain experience and obtain advanced licenses (e.g., Class 4/5), can advance to senior operator, site supervisor, or trainer. May also transition to heavy machinery management.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Start as assistant operator or crane signaler, gain experience and obtain advanc
 | Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system: qualifications (e.g., Level 4 certificate) + work experience points, but this occupation is not on the Green List, requiring high salary or local experience. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Currently, this occupation is not on the Green List, but if listed in the future, residence can be applied for after 2 years of work. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Must hold a crane license issued by WorkSafe and complete Site Safe safety ca
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-hoist-and-lift-operator/NZ)**

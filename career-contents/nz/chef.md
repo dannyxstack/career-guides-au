@@ -53,8 +53,6 @@ Chef is a core occupation in New Zealand's hospitality industry, responsible for
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
-
 Progress from commie chef to senior chef or head chef by gaining experience and certifications. Can pivot to catering management, food R&D, or starting a business.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Progress from commie chef to senior chef or head chef by gaining experience and 
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes. New Zealand's tourism boom drives high demand for fine dining. Chefs can
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chef/NZ)**

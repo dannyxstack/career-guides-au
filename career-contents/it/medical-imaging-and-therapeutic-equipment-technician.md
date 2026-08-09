@@ -52,8 +52,6 @@ Responsible for operating and maintaining medical imaging equipment (such as X-r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
-
 Can advance from junior technician to senior technician, department head, or imaging center manager; through continuing education, specialize in MRI or radiation therapy, or transition to medical physicist or radiation protection specialist.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can advance from junior technician to senior technician, department head, or ima
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a university degree and a contract; minimum annual salary approx. €28,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable for non-EU workers, requires employer sponsorship, suitable for medium-skilled roles. |
-| Subclass Nulla Osta (Self-Emp (Nulla Osta for Self-Employment) | Freelancer visa, requires proof of funds and professional qualifications, suitable for independent radiographers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Must obtain an Italian-recognised qualification, pass a national exam for reg
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-imaging-and-therapeutic-equipment-technician/IT)**

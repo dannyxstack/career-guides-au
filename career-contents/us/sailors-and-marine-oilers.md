@@ -52,8 +52,6 @@ Responsible for deck watchkeeping, lookout, steering, maintaining deck equipment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The workload for sailors and marine engineers is mixed: repetitive deck tasks are easily automated, but navigation safety supervision, emergency handling, and complex mechanical maintenance still require human judgment; AI is more of an auxiliary tool.
-
 Can advance from ordinary sailor to senior sailor, boatswain, and then become a driver or captain by obtaining a license.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from ordinary sailor to senior sailor, boatswain, and then become a 
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Employment-based third preference, requires PERM labor certification, but few applicants. |
 | Subclass TN (TN NAFTA Professional) | Maritime professionals for Canadian or Mexican citizens, must meet specific occupations |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: High school diploma required, but must complete Coast Guard approved training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sailors-and-marine-oilers/US)**

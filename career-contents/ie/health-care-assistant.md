@@ -52,8 +52,6 @@ Health care assistants assist registered nurses and care staff in medical and ca
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace administrative tasks such as documentation and scheduling for health care assistants, but core caregiving tasks like direct patient care and emotional support are difficult to automate; meanwhile, AI tools can improve efficiency, but demand for roles continues to grow due to population aging, presenting both risks and opportunities.
-
 After gaining initial experience, one can advance to senior care assistant or specialized care assistant, or become a registered nurse through further study.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ After gaining initial experience, one can advance to senior care assistant or sp
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the skilled shortage list, this permit can be applied for, and family members can accompany. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paying positions, but nursing assistant salaries usually do not meet the threshold |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, can advance to senior nursing assistant or become a registered nurse thr
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-care-assistant/IE)**

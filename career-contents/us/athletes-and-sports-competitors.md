@@ -52,8 +52,6 @@ Participate in sports competitions, including professional athletes, amateur ath
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
-
 Professional athletes typically start training as teenagers, entering college leagues or professional leagues. Career progression includes becoming a key player, signing with higher-level leagues, transitioning to coaching or sports commentary. A few top athletes secure huge endorsement deals, but most need other careers after retirement.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Professional athletes typically start training as teenagers, entering college le
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Common career transitions include coach, sports commentator, sports managemen
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/athletes-and-sports-competitors/US)**

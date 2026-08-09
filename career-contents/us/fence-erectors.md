@@ -54,8 +54,6 @@ Installing and repairing fences and gates using manual and power tools; one of t
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fencing installers' tasks heavily depend on on-site measurement, cutting, and physical installation; AI can hardly replace physical labor and hand-eye coordination, but automated design tools and digital measurement may reduce entry-level drafting and measurement roles, overall risk moderately low.
-
 Can start as an apprentice or assistant, gain experience, and advance to skilled worker, foreman, or contractor. Or gain more skills through training, such as welding or decorative fencing installation, to increase income.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can start as an apprentice or assistant, gain experience, and advance to skilled
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically requires only a high school diploma, then learning skills through o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fence-erectors/US)**

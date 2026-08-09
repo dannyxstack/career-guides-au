@@ -54,8 +54,6 @@ Hotel service staff are responsible for welcoming guests, cleaning rooms, and pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly replace repetitive tasks for hotel service staff, such as front desk check-ins, room status monitoring, and basic customer inquiries, but interpersonal interaction and emergency handling still depend on humans. Competition for entry-level positions will intensify, requiring enhanced technical and interpersonal skills.
-
 Can be promoted from server to department supervisor (e.g., housekeeping supervisor, food and beverage supervisor), or transition to hotel management trainee programs, eventually becoming hotel manager.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can be promoted from server to department supervisor (e.g., housekeeping supervi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, but must complete a recognized vocational training (dual system) in Germ
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-service-staff/DE)**

@@ -52,8 +52,6 @@ An application software developer designs, develops, and maintains web, mobile, 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI, especially generative AI, can automate some tasks like code generation, debugging, and documentation. However, human skills in design, requirements analysis, optimization, and maintenance remain crucial in the overall development process. AI is expected to be a productivity tool, coexisting with rather than replacing humans.
-
 Junior developers grow into seniors by gaining project experience and can transition to roles like tech lead, architect, or PM. Movement between startups and large corporations is common.
 
 **Tasks most exposed to AI:**
@@ -94,17 +92,9 @@ Junior developers grow into seniors by gaining project experience and can transi
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Issued for regular employment at a Korean company as a software developer; must meet salary criteria |
-| Subclass F-2 (F-2-7 (Residence)) | Convertible via points system (education, career, income, Korean language, etc.); benefits of long-term stay |
-| Subclass D-10 (D-10-1 (Job Seeker)) | Available for job-seeking in IT field; extendable for 6 months to 1 year |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans; few employment restrictions and free activities |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +138,12 @@ A: Yes, it's possible. By learning programming through bootcamps or online unive
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/application-software-developer/KR)**

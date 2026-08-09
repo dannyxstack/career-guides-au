@@ -52,8 +52,6 @@ Grade and sort unprocessed agricultural products by size, weight, color, or cond
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly replace visual inspection and manual grading tasks for agricultural product graders and sorters, but will also create new demands for quality traceability, supply chain coordination, etc. Entry-level positions face compression, but technical upgrade paths are clear
-
 Typically start as entry-level grader, can advance to senior grader or quality control supervisor, with some transitioning to agricultural inspection or quality control.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Typically start as entry-level grader, can advance to senior grader or quality c
 | Subclass H-2A (H-2A Temporary Agricultural Workers) | Seasonal agricultural worker visa, employer must prove labor shortage |
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Non-agricultural seasonal work, applicable to processing stages |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Limited immigration pathways for this occupation, mainly through H-2A or H-2B
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graders-and-sorters-agricultural-products/US)**

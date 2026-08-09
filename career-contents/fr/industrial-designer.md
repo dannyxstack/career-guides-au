@@ -52,8 +52,6 @@ Industrial designers are responsible for designing the product's appearance, fun
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
-
 Career starts usually as junior designers or design assistants, and after gaining experience, they can be promoted to senior designer, design supervisor, or creative director, or may also develop into user experience design or strategic design.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career starts usually as junior designers or design assistants, and after gainin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for designers with senior qualifications, holding a master's degree or at least 5 years of work experience, eligible for 4 years of residence. |
-| Subclass Salarié (Employee (Work Permit)) | Employed by a French company, offering a work contract and obtaining a work permit, it usually requires the company to prove that it cannot find suitable EU candidates. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary > 53k EUR), fast track, and family members allowed. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Non-mandatory, but having a DNMADE or master's degree is more recognized by e
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-designer/FR)**

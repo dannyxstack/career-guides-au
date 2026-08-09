@@ -4,8 +4,6 @@
 
 Responsible for driving passenger or freight trains, ensuring safe and punctual operation, and following signals and dispatch instructions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for driving passenger or freight trains, ensuring safe and punctual 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Train drivers' work is mixed with AI-driven automation: routine monitoring and speed adjustment can be automated, but responsibilities such as handling sudden faults, assessing complex road conditions, and collaborating with dispatchers still require human responsibility.
-
 Drivers can be promoted from assistant drivers to chief drivers, or move to positions such as dispatching or training; Internal training and examinations are required.
 
 **Tasks most exposed to AI:**
@@ -96,16 +92,9 @@ Drivers can be promoted from assistant drivers to chief drivers, or move to posi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | For foreigners who have obtained an employment contract with a French employer; requires proof that no EU candidate is available |
-| Subclass Recherche emploi (Recherche d'emploi) | Graduate residence permit allows job searching in France for one year. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: It is very difficult, requiring a French driver's license and language skills
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-driver/FR)**

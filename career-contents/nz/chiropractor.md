@@ -53,8 +53,6 @@ Chiropractors in New Zealand are registered and practice by using manual adjustm
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chiropractors' core clinical decisions are hard to replace by AI, but administrative tasks, data collation, and initial image screening are being compressed by automation tools, while AI (e.g., digital patient consultations, image analysis) also creates new opportunities for service extension and efficiency improvement.
-
 Career development typically starts as junior assistant therapist or opening a small clinic, gradually building client base to advance to senior therapist or clinic partner. Some therapists specialize in sports, pediatrics, or teaching/research, or pursue higher degrees to enhance professional status.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career development typically starts as junior assistant therapist or opening a s
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Must submit qualifications and assessment to the New Zealand Chiropractic Boa
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chiropractor/NZ)**

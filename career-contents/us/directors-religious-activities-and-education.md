@@ -53,8 +53,6 @@ Coordinate or design religious education programs, conduct outreach activities, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist religious education directors with information organization and content generation, but core tasks like spiritual care, value transmission, and community cohesion still require human leadership; this is a mixed-impact occupation.
-
 Career path usually begins as a religious education coordinator or assistant, advancing to director after gaining experience. Further development can lead to senior pastor, regional religious education supervisor, or religious organization administrative leadership. Some transition to nonprofit management or community service roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path usually begins as a religious education coordinator or assistant, ad
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Limited immigration pathways, mainly dependent on EB-4 religious worker visa,
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-religious-activities-and-education/US)**

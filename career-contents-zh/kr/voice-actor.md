@@ -1,10 +1,8 @@
-# Voice actor 职业分析 · 韩国
+# 配音演员（Voice actor）职业分析 · 韩国
 
-**职业代码: 41625 (KECO)**
+**职业代码：41625 (KECO)**
 
-A professional who performs with their voice across various media such as animation, games, advertisements, and narration, playing a crucial role in the Korean popular culture industry.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在动画、游戏、广告、旁白等多种媒体中用声音表演的专业人士，在韩国流行文化产业中扮演重要角色。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who performs with their voice across various media such as animat
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Specialized training institute | 1~2 年 | $5,000,000~$15,000,000（Based on major voice actor institutes; online courses are cheaper） |
-| Short-term workshop | 3~6 个月 | $1,000,000~$4,000,000（Practice-oriented short-term course） |
+| 专业培训学院 | 1~2 年 | $5,000,000~$15,000,000（基于主要声优培训机构；在线课程更便宜） |
+| 短期研讨会 | 3~6 个月 | $1,000,000~$4,000,000（实践导向短期课程） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who performs with their voice across various media such as animat
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Full member of the Korean Voice Actors Association | Korean Voice Actors Association | 可选 | Can join after debut; advantageous for industry networking |
-| Korea Communications Commission Voice Actor Certification | Korea Communications Commission | 可选 | Preferred for public broadcasting dubbing |
+| 韩国声优协会正式会员 | 韩国声优协会 | 可选 | 出道后可加入；有利于行业人脉积累 |
+| 韩国通信委员会声优认证 | 韩国通信委员会 | 可选 | 公共广播配音优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,500. Employment of voice actors is expected to grow steadily due to the rise of OTT platforms and increased demand for games and animation, but the development of AI voice synthesis technology and rising entry barriers are variables.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,500。由于OTT平台兴起及游戏和动画需求增加，声优就业预计稳步增长，但AI语音合成技术发展和入门门槛提高是变量。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional who performs with their voice across various media such as animat
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $12,000,000~$30,000,000 | Freelancer basis; income from audition-based projects |
-| Intermediate (4~9 years) | $30,000,000~$60,000,000 | Includes stable narration, CFs, etc. |
-| Advanced (10+ years) | $60,000,000~$99,999,999 | Star-level voice actors; when starring in major works |
+| 初级（0~3 年） | $12,000,000~$30,000,000 | 自由职业者；收入来自试镜项目 |
+| 中级（4~9年） | $30,000,000~$60,000,000 | 包括稳定的配音、商业广告等。 |
+| 高级（10年以上） | $60,000,000~$99,999,999 | 星级配音演员；主演大型作品时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the rapid advancement of AI voice synthesis technology, simple narrations, announcement broadcasts, and AI speaker voices are being replaced, but animation and game dubbing that require emotional acting and creative expression still need human voice actors. Thus, fields that are difficult for AI to completely replace and those exposed to replacement risk are mixed.
+随着AI语音合成技术的快速进步，简单的旁白、公告广播和AI扬声器语音正在被取代，但需要情感表演和创意表达的动画和游戏配音仍需人类声优。因此，AI难以完全取代的领域与面临替代风险的领域并存。
 
-Typically debuts through auditions after completing specialized training institutes, and with over 10 years of experience, can advance into high-income fields such as dubbing, narration, and advertising or expand into acting instruction.
+通常通过专业培训机构完成试镜出道，拥有10年以上经验后可进入配音、旁白、广告等高收入领域，或拓展至表演教学。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Announcement Narration
-- Notice Voice Recording
-- Simple Commercial Narration
+- 公告旁白
+- 通知语音录制
+- 简单商业旁白
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Character Voice Acting
-- Dubbing with High Emotional Expression
-- AI Voice Quality Inspection and Tuning
+- 角色配音表演
+- 高情感表现配音
+- AI语音质量检测与调优
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique Voice Tone
-- Real-time Emotional Acting Skills
-- Improvisation and Ad-lib
+- 独特音调
+- 实时情感表演技巧
+- 即兴发挥与临时台词
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Vocalization and Breathing Training
-- Character Analysis and Acting Skills
-- Use of Voice Editing Software
-- Understanding AI Voice Collaboration
+- 发声与呼吸训练
+- 性格分析与表演技巧
+- 语音编辑软件的使用
+- 理解AI语音协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital content
-- Game dubbing
-- Audio Drama
-- AI Voice
+- 数字内容
+- 游戏配音
+- 音频剧
+- AI语音
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a professional in culture and arts, but very limited; mainly domestic activities |
-| Subclass D-10 (Job seeking) | Foreign voice actors can seek work in Korea, but are limited by performance records |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent vocal cords and vocal skills
-- People interested in expressing a variety of characters
-- Those with a strong mindset who don't get discouraged by audition failures
+- 拥有出色声带和发声技巧的人
+- 对表达多样角色感兴趣的人
+- 心态坚强、不因试镜失败而气馁的人
 
 **谁不适合**
-- People lacking voice modulation or expressiveness
-- Those who prefer a stable monthly salary
+- 缺乏声音调节或表现力的人
+- 偏好稳定月薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for voice actors?**
-答：Entry-level (0-3 years) is around 12-30 million KRW, mostly freelancers; intermediate (4-9 years) 30-60 million KRW; advanced (10+ years) can reach 60-150 million KRW.
+**问：配音演员的平均年薪是多少？**
+答：入门级（0-3年）约1200-3000万韩元，多为自由职业者；中级（4-9年）3000-6000万韩元；高级（10年以上）可达6000-1.5亿韩元。
 
-**问：What visa is needed for a foreigner to work as a voice actor in Korea?**
-答：In theory, an E-7 (Specific Activities) visa is possible, but invitations in the arts/culture sector are very rare; activities are mostly limited in Korea. Only F-2/F-5 permanent residents can work freely.
+**问：外国人在韩国担任配音演员需要什么签证？**
+答：理论上，E-7（特定活动）签证是可能的，但艺术/文化领域的邀请非常罕见；活动主要在韩国受限。只有F-2/F-5永久居民可以自由工作。
 
-**问：Is there a risk of AI replacing voice actors?**
-答：With the advancement of AI voice synthesis technology, simple narration or announcement voices have a high possibility of being replaced. However, dubbing that requires character acting and emotional expression is expected to remain the domain of human voice actors.
+**问：AI有取代配音演员的风险吗？**
+答：随着AI语音合成技术的进步，简单的解说或播报配音很可能被取代。但需要角色表演和情感表达的配音预计仍将是人类声优的领域。
 
 
 ---
@@ -144,12 +135,12 @@ Typically debuts through auditions after completing specialized training institu
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/voice-actor/KR)**

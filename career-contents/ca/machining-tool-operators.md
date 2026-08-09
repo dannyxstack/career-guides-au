@@ -53,8 +53,6 @@ Operate metalworking machine tools such as lathes, milling machines, drilling ma
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Progression from operator to senior technician, programmer, or workshop supervisor is possible, or via apprenticeship to become a toolmaker.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progression from operator to senior technician, programmer, or workshop supervis
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario and British Columbia have skilled trades categories |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer sponsorship can lead to a work visa, then apply for permanent residency. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With manufacturing upgrades and the spread of CNC technology, operators with 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machining-tool-operators/CA)**

@@ -55,8 +55,6 @@ In Canada, aged care workers primarily provide home support, offering personal c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
-
 Career path: Starting as a home care worker, can advance to care coordinator, case manager, or nursing home supervisor. Additional training can lead to becoming a registered nurse or social worker, with significantly increased salary and stability.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: Starting as a home care worker, can advance to care coordinator, ca
 | Subclass Caregiver (Home Support Worker Pilot) | federal Home Support Worker Pilot, allows direct application for permanent residence, requires employer and work experience |
 | Subclass EE (Express Entry (Canadian Experience Class)) | If you already have one year of Canadian nursing experience, you can apply under the CEC category, but a high CRS score is required. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Due to population aging, demand grows steadily, but salary growth is slow. In
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-support-workers-housekeepers-and-related-occupations/CA)**

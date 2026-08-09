@@ -51,8 +51,6 @@ Journalists gather, investigate, and report news events, writing articles and cr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will profoundly reshape the journalism profession: basic information gathering, data sorting, and content generation tasks become automated, but human core values such as investigative analysis, in-depth interviews, and narrative creativity are amplified, creating a bittersweet situation of 'low-end shrinking, high-end expanding.'
-
 Junior journalists can advance to senior journalists, editors, or feature writers; experienced ones can move into management roles such as news editor-in-chief or become freelance writers.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior journalists can advance to senior journalists, editors, or feature writer
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Typically requires employer-sponsored General Employment Permit, meeting sala
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/IE)**

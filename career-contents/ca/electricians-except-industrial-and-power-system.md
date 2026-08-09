@@ -52,8 +52,6 @@ In Canada, electricians install, maintain, and repair residential, commercial, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electricians are in demand in Canada; automation risk is moderate: AI struggles to replace on-site operations and diagnostics, but simplifies design, documentation, and compliance, enhancing safety monitoring and efficiency tools. Entry-level roles may narrow due to remote diagnostic tools, but licensed electricians remain stable.
-
 Electricians can specialize in industrial electrical, power system electrical, or fire alarm technician fields, or advance to foreman, project supervisor, or self-employed contractor. Holding a Red Seal certification allows nationwide mobility, enhancing employment flexibility.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Electricians can specialize in industrial electrical, power system electrical, o
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario, BC, Alberta list electricians as in-demand, offering priority nomination and fast processing |
 | Subclass AIP (Atlantic Immigration Program) | Electrical shortage in Atlantic provinces, employer sponsorship available for application |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Overseas electricians can immigrate through Express Entry (FSW category) or P
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electricians-except-industrial-and-power-system/CA)**

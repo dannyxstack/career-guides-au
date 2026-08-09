@@ -51,8 +51,6 @@ Respiratory therapy technicians assist in diagnosing and treating respiratory di
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
-
 Junior technicians can advance to senior respiratory therapist (requires completing a specified course) or transition to specialty areas like sleep technician or cardiopulmonary technician; some move into equipment sales or training roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to senior respiratory therapist (requires complet
 | Subclass 190 (Skilled Nominated Visa) | Requires state nomination; some states list respiratory therapists as a skilled occupation. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional state nomination, can transfer to 191 permanent residence after meeting residency requirements. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. This occupation is on the CSOL and can lead to immigration via 482→186
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-technician/AU)**

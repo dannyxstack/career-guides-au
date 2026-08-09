@@ -52,8 +52,6 @@ ICT Customer Support Officers provide technical support to computer system users
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-IT user support technicians face a mixed impact from AI: routine troubleshooting and request handling are being automated, but demand for complex problem diagnosis and interpersonal collaboration is increasing, evolving the role towards higher-value support.
-
 Can progress from junior support staff to senior support engineer, team leader, or IT manager, or transition to specialized fields like network administration, system administration, or cybersecurity.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior support staff to senior support engineer, team leader, 
 | Subclass 190 (Skilled Nominated Visa) | If nominated by state, can apply for 190 permanent visa, requiring at least 2 years of residence in that state. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional state sponsorship or family sponsorship; can obtain a 491 temporary visa first, then transfer to a 191 permanent visa. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires VET Certificate IV or IT-related bachelor's degree; CompTIA 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-customer-support-officer/AU)**

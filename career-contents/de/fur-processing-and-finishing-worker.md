@@ -53,8 +53,6 @@ Engages in processes such as tanning, dyeing, cutting, and sewing to transform r
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fur Processing and Handling Workers: due to AI-driven automated cutting, dyeing and design trends, core manual tasks are reduced, especially low-end positions; need to transition to precision handcraft and customisation.
-
 Career path: apprentice → skilled worker → master/workshop supervisor. Due to industry contraction, few promotion opportunities; most stay in the same job lifelong. Can transition to leather processing or textile industries.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path: apprentice → skilled worker → master/workshop supervisor. Due t
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult. This occupation is not in shortage; requires German-recognize
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fur-processing-and-finishing-worker/DE)**

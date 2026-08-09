@@ -4,8 +4,6 @@
 
 A professional who designs game characters, backgrounds, UI, and effects, enhancing the visual completeness of the game.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who designs game characters, backgrounds, UI, and effects, enhanc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can replace repetitive texture generation and some low-poly modeling in game graphic design, but creative character design and storytelling still heavily rely on humans. Utilizing AI tools can boost productivity.
-
 Starting as a junior designer, you can advance to senior, art director, or specialize in fields (background, character, UI). Portfolio and experience are key.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a junior designer, you can advance to senior, art director, or speci
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible as a game industry professional, but must meet experience and education requirements |
-| Subclass D-10 (Job-seeking visa (D-10)) | Stay while preparing for employment, short-term permitted |
-| Subclass F-2 (Residence visa) | No restrictions on employment after long-term stay |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: An E-7 visa is required, and you must meet academic degree and work experienc
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/game-graphic-designer/KR)**

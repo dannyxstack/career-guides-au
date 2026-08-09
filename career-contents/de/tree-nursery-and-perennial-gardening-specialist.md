@@ -55,8 +55,6 @@ Nursery and ornamental plant growers produce, cultivate, and sell trees, shrubs,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Nursery and ornamental plant cultivators face mixed prospects: repetitive physical tasks are easily automated, but plant health diagnosis and custom client consultations rely on experience and sensory judgment, making them less replaceable in the short term.
-
 Can first complete dual training to become a skilled worker, then pursue advancement as a foreman or technician, or further study as a horticultural engineer, or start own nursery business.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can first complete dual training to become a skilled worker, then pursue advance
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year to find work in Germany, requiring proof of language skills and funds. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows residence in Germany for 6 months to seek employment; requires bachelor's degree or equivalent qualification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from skilled worker to foreman, technician, or study for a bachel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-nursery-and-perennial-gardening-specialist/DE)**

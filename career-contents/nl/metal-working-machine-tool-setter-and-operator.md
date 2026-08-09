@@ -52,8 +52,6 @@ Responsible for setting up, operating, and maintaining metalworking machine tool
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly impact this role; CNC programming and monitoring tasks face high replacement risk, but clamping, tool changing, and troubleshooting still require human intervention, reducing entry-level positions.
-
 Junior operators can advance to senior technicians, programmers, or production supervisors; through further study, they can move to higher-value roles such as mold design, quality control, or process engineering.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior operators can advance to senior technicians, programmers, or production s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | suitable for tradespeople with MBO or higher education and an annual salary of at least €3,672/month (2024 threshold), requiring a Dutch employer sponsor. |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education degree and annual salary of at least €5,331/month; uncommon for the role, but high-paying CNC programmers may try. |
-| Subclass Orientation Year (Orientation Year) | Graduates who have studied in the Netherlands can apply and find a job within one year, without skill threshold restrictions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance from operator to CNC programmer, production supervisor, or qualit
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-working-machine-tool-setter-and-operator/NL)**

@@ -52,8 +52,6 @@ Foreign language secretaries and foreign language correspondence clerks in Germa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
-
 Can advance from junior secretary to senior executive secretary or team supervisor. By pursuing international business qualifications or cross-disciplinary learning (such as marketing, project management), can transition to management or specialized business roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior secretary to senior executive secretary or team supervis
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to candidates who have already obtained a recognized German professional qualification or dual training, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a job offer to come to Germany to find work (implemented from 2024) |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Common pathways: 1) Apply for a skilled migration visa after obtaining a reco
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foreign-language-secretary-correspondent/DE)**

@@ -53,8 +53,6 @@ Responsible for leading and managing the accounting team, overseeing financial r
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of accounting department managers will face significant impacts from AI automation, especially in data entry and routine report generation; At the same time, AI can enhance its data analysis and management capabilities, requiring a shift toward higher-value strategic decisions and interpersonal coordination.
-
 Candidates can be promoted from accounting supervisor to financial director or chief financial officer. Continuous learning is required regarding IFRS, tax reform, and financial software (such as SAP and Oracle). Obtaining the French Statutory Auditor (CAC) or Management Accounting Certification (DSCG) can accelerate your promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Candidates can be promoted from accounting supervisor to financial director or c
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card targets highly skilled talent, requiring an annual salary of at least about 53,000 euros (2024 standard), suitable for accounting manager positions |
-| Subclass Passeport Talent (Talent Passport) | The talent passport is suitable for professionals with a master's degree and a work contract. There is no mandatory salary threshold, but professional qualifications must be met |
-| Subclass Salarié (Salaried Employee) | Employed work residence, guaranteed by a French company, requiring proof that the position cannot be filled by EU residents, suitable for intermediate accounting management positions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to CFO, CFO, or audit partner, or move to financial consu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-department-or-service-manager/FR)**

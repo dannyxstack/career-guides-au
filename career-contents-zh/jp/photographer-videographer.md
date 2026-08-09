@@ -1,10 +1,8 @@
-# Photographer, Videographer 职业分析 · 日本
+# 摄影师、摄像师（Photographer, Videographer）职业分析 · 日本
 
-**职业代码: 225 (JSCO)**
+**职业代码：225 (JSCO)**
 
-Professional who captures still images and video to produce artistic works or commercial content. Active in diverse fields such as advertising, journalism, film, and weddings.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+捕捉静态图像和视频以制作艺术作品或商业内容的专业人员。活跃于广告、新闻、电影和婚礼等多个领域。
 
 
 ---
@@ -13,8 +11,8 @@ Professional who captures still images and video to produce artistic works or co
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Photography/Video) | 2 年 | $1,500,000~$3,000,000（Tuition varies significantly by school） |
-| University (Art/Film) | 4年 | $2,500,000~$5,000,000（Varies between national/public and private） |
+| 职业学校（摄影/视频） | 2 年 | $1,500,000~$3,000,000（学费因学校而异） |
+| 大学（艺术/电影） | 4年 | $2,500,000~$5,000,000（因国家/公立与私立而异） |
 
 ---
 
@@ -22,17 +20,17 @@ Professional who captures still images and video to produce artistic works or co
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Skills Test (Photography) | Ministry of Health, Labour and Welfare | 可选 | Not required but boosts credibility |
-| Color Coordinator Certification | Sponsored by MEXT | 可选 | Advantageous as foundation for art/design |
+| 技能测试（摄影） | 厚生劳动省 | 可选 | 非必需但能提升可信度 |
+| 色彩搭配师认证 | 由文部科学省资助 | 可选 | 有助于艺术/设计基础 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 82,000. Demand is stable, but freelance competition is fierce; AI-driven automated editing may replace some tasks.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 82,000。需求稳定，但自由职业竞争激烈；AI驱动的自动编辑可能取代部分任务。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,86 @@ Professional who captures still images and video to produce artistic works or co
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$3,500,000 | Assistant or small studio work |
-| Intermediate (4–9 years) | $3,500,000~$5,000,000 | Freelancing with stable projects |
-| Advanced (10+ years) | $5,000,000~$8,000,000 | High income as renowned photographer or specialist |
+| Beginner (0–3 years) | $2,500,000~$3,500,000 | 助理或小型工作室工作 |
+| 中级（4-9年） | $3,500,000~$5,000,000 | 自由职业并稳定项目 |
+| 高级（10年以上） | $5,000,000~$8,000,000 | 著名摄影师或专家收入高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI-based automatic editing and generation technology (e.g., AI photo correction, automatic video editing) is becoming widespread, replacing simple tasks. Meanwhile, areas requiring human sensibility such as creative composition, direction, and client interaction are being strengthened.
+基于AI的自动编辑和生成技术（如AI照片校正、自动视频编辑）正在普及，取代了简单任务。同时，需要人类感性的创意构图、导演和客户互动等领域正在强化。
 
-Start as an assistant, gain experience in a specialty (e.g., weddings, products, journalism). Self-branding via social media is key to career development.
+从助理做起，在专业领域（如婚礼、产品、新闻）积累经验。通过社交媒体打造个人品牌是职业发展的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Exposure adjustment and color correction
-- Organizing and tagging large numbers of photos
-- Routine product photography
-- Simple video editing (cutting and splicing)
+- 曝光调整和颜色校正
+- 组织和标记大量照片
+- 常规产品摄影
+- 简单视频编辑（剪辑和拼接）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Photography composition suggestions (AI-based learning)
-- Automatic portfolio generation
-- Rapid editing based on client requests
-- Real-time photography assistance
+- 摄影构图建议（基于AI学习）
+- 自动投资组合生成
+- 根据客户要求快速编辑
+- 实时摄影辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Human sensibility and creativity
-- Trust relationships with clients
-- Flexible on-site response
-- Brand power and unique style
+- 人类感性和创造力
+- 与客户建立信任关系
+- 灵活现场响应
+- 品牌实力与独特风格
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Creative expression skills
-- AI editing software operation
-- Marketing and sales skills
-- Mastery of latest technologies (drones, 360-degree cameras)
+- 创意表达能力
+- 人工智能编辑软件操作
+- 市场营销和销售技能
+- 掌握最新技术（无人机、360度相机）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in video content demand
-- Social media and web marketing
-- Drone and 360-degree photography
-- Use of AI editing tools
+- 视频内容需求增加
+- 社交媒体和网络营销
+- 无人机与360度摄影
+- AI编辑工具的使用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge/skills in photography/videography. Sponsorship by a contracting company required. |
-| Subclass 特定活動 (Designated Activities (Arts/Culture)) | Limited to those engaged in renowned artistic or cultural activities. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who are creative and want to express themselves
-- Those interested in equipment and editing techniques
-- Those who are independent and freelancer-oriented
+- 有创造力且想表达自我的人
+- 对设备和编辑技术感兴趣者
+- 独立性强者和自由职业者倾向的人
 
 **谁不适合**
-- Those who value regular working hours
-- Those who prioritize stable income
+- 重视固定工作时间的人
+- 优先考虑稳定收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of photographers and videographers?**
-答：The average is about 4-5 million yen, but it varies greatly depending on freelancing and specialization; top earners can exceed 10 million yen.
+**问：摄影师和摄像师的平均年收入是多少？**
+答：平均约400-500万日元，但根据自由职业和专业领域差异很大；高收入者可通过1000万日元。
 
-**问：What visa do foreigners need to work as photographers in Japan?**
-答：Generally, an 'Engineer/Specialist in Humanities/International Services' visa is required, with expertise in photography/videography needed. For renowned artists, a 'Designated Activities (Art/Culture)' visa may be possible.
+**问：外国人在日本工作需要什么签证才能成为摄影师？**
+答：通常需要“人文/国际服务工程师/专家”签证，且具备摄影/摄像专业知识。对于知名艺术家，可能可以申请“指定活动（艺术/文化）”签证。
 
 
 ---
@@ -144,12 +135,12 @@ Start as an assistant, gain experience in a specialty (e.g., weddings, products,
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/photographer-videographer/JP)**

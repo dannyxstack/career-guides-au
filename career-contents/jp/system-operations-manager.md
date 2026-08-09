@@ -50,8 +50,6 @@ An IT engineer who maintains stable operation of information systems and oversee
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As AI advances automated monitoring and failure prediction, routine tasks decrease, but system-wide design and advanced troubleshooting remain human roles.
-
 Career advancement from operations manager to DevOps engineer or cloud architect is possible. Higher salaries can be expected with advanced certifications and experience.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career advancement from operations manager to DevOps engineer or cloud architect
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | Primary work visa for IT engineers. Requires a university degree or 10 years of work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (IT field)) | IT field to be added in 2024. Requires passing an exam and Japanese language ability. |
-| Subclass 高度専門職1号 (Highly Skilled Professional visa) | Points-based system with preferential treatment for permanent residency. For high income and advanced degree holders. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +131,12 @@ A: Generally, a 'Engineer/Specialist in Humanities/International Services' visa 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/system-operations-manager/JP)**

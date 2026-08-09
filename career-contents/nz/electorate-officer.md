@@ -53,8 +53,6 @@ Provides administrative and community liaison support for New Zealand MPs or loc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administrative and data clustering tasks for electoral officials will be highly automated, but core human-interaction roles like community liaison and policy advice will remain, with significant compression of entry-level positions.
-
 Career progression can move from junior administrative assistant to senior constituency officer or constituency manager, then transition to policy advisor, government relations manager, or campaign manager. Some enter the civil service or become political advisors.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression can move from junior administrative assistant to senior const
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance from junior admin to constituency manager, then to policy advisor
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electorate-officer/NZ)**

@@ -53,8 +53,6 @@ Maintain cleanliness of buildings, including floor cleaning, carpet cleaning, wa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cleaner positions will be significantly reduced by AI automation, especially repetitive floor cleaning, trash removal, and basic maintenance tasks, but complex cleaning, disinfection, and customer interaction still require humans; job numbers will decrease, skill requirements will increase.
-
 Limited promotion path, usually starting as cleaner, then advancing to cleaning supervisor, facility manager, or operations manager with experience; some may start own business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Limited promotion path, usually starting as cleaner, then advancing to cleaning 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to cleaning supervisor, facilities manager, or join a professiona
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/janitors-and-cleaners-except-maids-and-housekeeping-cleaners/US)**

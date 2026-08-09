@@ -53,8 +53,6 @@ Responsible for drafting insurance contract terms, risk assessment, and premium 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The jobs of underwriters and claims adjusters are being diverged by AI automation: data-driven risk assessment and standardized claims processing will be compressed, while complex case investigations, policy innovation, and human-machine collaborative decision-making will be amplified, making skill upgrades urgent.
-
 You can start as a junior claims adjuster/underwriting assistant, gain experience, and be promoted to senior underwriting/claims specialist, then manage teams or move into more advanced fields such as reinsurance or actuarial science. Holding French insurance qualification certificates (such as BTS Insurance, Licence Specialist) can help with promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can start as a junior claims adjuster/underwriting assistant, gain experienc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employed by a French insurance company, the employer must apply for a work permit and prove that there is no suitable candidate locally. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with an annual salary exceeding 33,000 euros or holding a master's degree, who can quickly obtain residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly educated non-EU talents, with an annual salary of about 53,000 euros (2023 standard), and free mobility after working in France for 18 months. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: A mandatory CCM competency certificate (for sales-related positions), and it 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-underwriter-and-claims-adjuster/FR)**

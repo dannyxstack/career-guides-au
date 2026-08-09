@@ -53,8 +53,6 @@ Cash van salesperson drives a van along a set route to sell daily goods (e.g., b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Cash van salespeople face high automation risk: core tasks such as route planning, inventory management, and payment reconciliation can be replaced by AI and digital systems. Entry-level positions will significantly shrink, and it is recommended to transition to retail management or supply chain roles as soon as possible.
-
 Can progress from junior salesperson to senior salesperson or route supervisor, managing multiple routes and teams. Experienced individuals may move into sales management or logistics coordination roles. Some become independent distributors by building client networks.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior salesperson to senior salesperson or route supervisor, 
 | Subclass SMC (Skilled Migrant Category) | Usually does not meet ANZSCO skill level 1-3 requirement (this occupation is level 5), very difficult to apply. Only added as extra work points if other skills are high. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Does not include this occupation. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Career progression includes becoming a senior salesperson, route supervisor, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cash-van-salesperson/NZ)**

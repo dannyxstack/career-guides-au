@@ -54,8 +54,6 @@ Repair and refinish vehicle bodies, straighten frames, including sheet metal rep
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
-
 Can start as an apprentice or at trade school, progress to senior technician, team leader, shop manager, or open own repair shop. ASE certification, aluminum repair, and advanced painting skills can boost salary.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can start as an apprentice or at trade school, progress to senior technician, te
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Very few. Non-skilled visas like H-2B may apply for temporary workers, but no
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-body-and-related-repairers/US)**

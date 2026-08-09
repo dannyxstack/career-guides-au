@@ -54,8 +54,6 @@ Specializes in diagnosing, treating, and preventing diseases in children and ado
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Pediatricians' work heavily relies on clinical judgment, communication, and patient trust. AI is unlikely to fully replace core diagnosis and treatment but will significantly improve diagnostic efficiency and administrative automation, posing a medium risk.
-
 After completing specialist training, can become senior consultant or chief physician, or open a private clinic. Some doctors transition to research or teaching, or enter hospital management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After completing specialist training, can become senior consultant or chief phys
 | Subclass Skilled Worker Visa (Skilled Immigration Act Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to medical professionals with recognized qualifications, requiring employer sponsorship. |
 | Subclass Anerkennung Visa (Recognition Visa (for Qualification Assessment)) | For completing the qualification recognition process in Germany, valid for up to 6 months. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: 6 years of university medical education (including internship), followed by 5
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-in-pediatric-and-adolescent-medicine/DE)**

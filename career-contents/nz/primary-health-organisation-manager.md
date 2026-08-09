@@ -53,8 +53,6 @@ Primary health organization managers plan, organize, and manage New Zealand's pr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on primary care organization managers is mixed: administrative tasks are easily automated, but interpersonal coordination and accountability decisions still rely on humans. Entry-level positions may decrease, while existing roles need to embrace AI tools.
-
 Career path progresses from junior administrator or medical practitioner to regional manager, executive director. Common promotions include managing larger medical networks, policy development, or moving to health administration, requiring accumulated management experience and ongoing education.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path progresses from junior administrator or medical practitioner to regi
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: There is no mandatory registration, but employers often prefer candidates wit
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-health-organisation-manager/NZ)**

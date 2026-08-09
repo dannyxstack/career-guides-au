@@ -54,8 +54,6 @@ Short-term substitute teachers temporarily replace regular teachers, usually usi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Short-term substitute teacher positions heavily rely on temporarily executing preset lesson plans, easily replaced by AI teaching platforms and automated scheduling systems. Demand for entry-level positions will significantly decrease, and surviving roles will shift to handling emergencies and human interaction scenarios.
-
 Substitute teachers can gain teaching experience, obtain a formal teaching license through further study, and then transition to full-time teachers or long-term substitutes. A few may move into school administrative positions.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Substitute teachers can gain teaching experience, obtain a formal teaching licen
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes. By accumulating teaching experience and obtaining a formal teaching lice
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/substitute-teachers-shortterm/US)**

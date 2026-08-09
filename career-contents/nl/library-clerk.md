@@ -51,8 +51,6 @@ Library staff are responsible for book lending and returns, shelf organization, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Library staff positions are significantly impacted by AI and automation; repetitive tasks like borrowing, returning, and inquiries will be replaced, but reader services still rely on interpersonal skills, with entry-level roles notably shrinking.
-
 Junior library staff can advance to senior staff or department heads, or pursue further study to become library information professionals (e.g., information specialists or librarians); some transition into archives management or digital content management.
 
 **Tasks most exposed to AI:**
@@ -95,17 +93,9 @@ Junior library staff can advance to senior staff or department heads, or pursue 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled migrants meeting salary thresholds; library staff usually do not meet salary requirements |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €58,000 (2025), not typically applicable. |
-| Subclass Orientation Year (Orientation Year) | Dutch graduates can apply for a one-year job-seeking visa, and can switch to a work visa after finding a job |
-| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can freely work in the Netherlands |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +136,12 @@ A: Difficult, as this occupation does not fall under high-skilled migration cate
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-clerk/NL)**

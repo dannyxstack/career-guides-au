@@ -51,8 +51,6 @@ Embedded/firmware engineers develop underlying software on microcontrollers and 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI greatly empowers embedded/firmware engineers to automate low-level coding and debugging, freeing up focus on system architecture, hardware interface innovation, and security, but caution is needed regarding AI's ability to automatically generate conventional firmware.
-
 Edge AI, functional safety, and device security have become hot topics in the UK, with firmware engineers skilled in low-level debugging and real-time constraints in short supply; AI-generated prototypes, but the hardware still relies on people at its core.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Edge AI, functional safety, and device security have become hot topics in the UK
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embedded-firmware-engineer/UK)**

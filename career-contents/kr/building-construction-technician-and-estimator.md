@@ -51,8 +51,6 @@ A professional technical personnel who oversees construction at the site and per
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI replaces auxiliary tasks like estimation and design automation, but on-site construction, coordination, and safety judgment remain human domains, less affected by AI.
-
 Career progression: Junior construction assistant → Construction technician (intermediate) → Responsible technician (site manager) → Construction manager (PM).
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Career progression: Junior construction assistant → Construction technician (i
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled construction workers (5+ years experience + certification) |
-| Subclass E-9 (Non-professional Employment) | Construction Employment Permit System (within quota, simple labor possible) |
-| Subclass F-2 (Residence) | Long-term stay possible through points system (education, experience, income) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Yes, especially for skilled workers, leading to active foreign hiring under E
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-technician-and-estimator/KR)**

@@ -54,8 +54,6 @@ Fishing vessel masters and senior officers are responsible for commanding and op
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Starting as a deckhand or sailor, gain sea experience to become a senior crew member, then pass exams to become a captain. Some captains can move into fisheries management or shipping company management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a deckhand or sailor, gain sea experience to become a senior crew me
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local workers can be found. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for employer sponsorship in Atlantic provinces |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must hold a Canadian fishing vessel master's certificate issued by Transport 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishing-masters-and-officers/CA)**

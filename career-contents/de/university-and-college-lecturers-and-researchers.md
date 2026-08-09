@@ -53,8 +53,6 @@ Teaching and research work at German universities and research institutions, inc
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Higher education lecturers and researchers face task restructuring driven by AI: AI will take over basic work like literature reviews and data analysis, but core critical thinking, teaching interaction, and research innovation are amplified, increasing demand for high-value human skills.
-
 Career path typically starts with a PhD/postdoc, transitions to assistant professor/junior professor, and ultimately competes for a tenured professor (W2/W3) position; can also shift to industrial R&D or administration.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path typically starts with a PhD/postdoc, transitions to assistant profes
 | Subclass EU Blue Card (EU Blue Card) | Requires a PhD and minimum annual salary of €43,056 (2024 standard for science fields), eligible for permanent residence |
 | Subclass Skilled Worker Visa (Skilled Worker Visa (qualified professionals)) | Applicable to PhD graduates, requires accredited university position, German B1 usually required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Doctoral degrees usually require recognition (Anerkennung), but German univer
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-and-college-lecturers-and-researchers/DE)**

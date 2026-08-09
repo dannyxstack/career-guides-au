@@ -1,8 +1,8 @@
-# Healthcare practitioners (not elsewhere classified) 职业分析 · 日本
+# 医疗从业者（未另分类）（Healthcare practitioners (not elsewhere classified)）职业分析 · 日本
 
-**职业代码: 159 (JSCO)**
+**职业代码：159 (JSCO)**
 
-Health and medical professionals other than doctors and nurses, including dietitians, clinical laboratory technicians, physical therapists, speech-language therapists, and various other occupations.
+医生和护士以外的健康医疗专业人员，包括营养师、临床检验技师、物理治疗师、言语治疗师等各种职业。
 
 
 ---
@@ -11,8 +11,8 @@ Health and medical professionals other than doctors and nurses, including dietit
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (specialized course) | 2–3 years | $2,000,000~$4,000,000（Private schools more expensive than public） |
-| University (Faculty of Health and Medical Sciences) | 4年 | $3,000,000~$6,000,000（Private universities even more expensive） |
+| 职业学校（专业课程） | 2–3年 | $2,000,000~$4,000,000（私立学校比公立学校更贵） |
+| 大学（健康与医学科学学院） | 4年 | $3,000,000~$6,000,000（私立大学更贵） |
 
 ---
 
@@ -20,18 +20,18 @@ Health and medical professionals other than doctors and nurses, including dietit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Clinical laboratory technician | Ministry of Health, Labour and Welfare | 必备 | National certification. Requires graduation from an accredited training school and passing the national exam |
-| Physical therapist | Ministry of Health, Labour and Welfare | 必备 | National certification. Requires graduation from an accredited training school and passing the national exam |
-| Speech-language therapist | Ministry of Health, Labour and Welfare | 必备 | National certification. Requires graduation from an accredited training school and passing the national exam |
+| 临床实验室技术员 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可培训学校并通过国家考试 |
+| 物理治疗师 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可培训学校并通过国家考试 |
+| 言语治疗师 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可培训学校并通过国家考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 600,000. Demand remains steady due to aging population, but supply-demand balance varies by occupation. Many require national certification, limiting supply.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 600,000。由于人口老龄化，需求保持稳定，但不同职业的供需平衡存在差异。许多职业要求国家认证，限制了供应。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,95 +39,88 @@ Health and medical professionals other than doctors and nurses, including dietit
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Hospital employment |
-| Mid-level (5–10 years) | $4,500,000~$5,500,000 | Pre-management |
-| Senior-level (15+ years) | $6,000,000~$8,000,000 | Management/Specialist |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 医院就业 |
+| 中级（5-10年） | $4,500,000~$5,500,000 | 前期管理 |
+| 高级（15年以上） | $6,000,000~$8,000,000 | 管理/专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used for diagnostic support and image analysis, but interpersonal services and advanced decision-making remain human roles. AI improves operational efficiency, allowing focus on more specialized tasks.
+AI用于诊断辅助和图像分析，但人际服务和高级决策仍由人类负责。AI提高运营效率，让人们专注于更专业的工作。
 
-After obtaining qualifications at vocational schools or universities, gain experience in hospitals/facilities, and can advance to managerial positions, specialist instructors, or private practice.
+在职业学校或大学取得资格后，在医院/设施中积累经验，可晋升为管理职位、专业讲师或开设私人诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine data entry
-- Primary screening of images
-- Automated judgment of simple test results
+- 常规数据录入
+- 图像初筛
+- 自动化判断简单测试结果
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Diagnostic support
-- Optimization of rehabilitation plans
-- Efficient patient monitoring
-- Speech analysis assistance
+- 诊断支持
+- 康复计划优化
+- 高效患者监控
+- 语音分析辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Complex clinical judgment
-- Ethical judgment
-- Coordination in team-based healthcare
+- 人际沟通
+- 复杂的临床判断
+- 道德判断
+- 团队医疗协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Operation of AI tools
-- Communication skills
-- Multidisciplinary collaboration
+- 数据分析
+- AI工具操作
+- 沟通能力
+- 多学科协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Home healthcare
-- Rehabilitation needs
-- Preventive medicine
+- 人口老龄化
+- 家庭医疗
+- 康复需求
+- 预防医学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For foreigners engaging in specialized work. Requires relevant work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Targeted in fields like nursing care. Requires certain skills and Japanese ability. |
-| Subclass 技能実習 (Technical Intern Training) | Aimed at skills transfer, but limited in healthcare professions. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at detailed work
-- People wanting to contribute to health
-- People who value teamwork
+- 擅长细致工作的人
+- 希望为健康做贡献的人
+- 重视团队合作的人
 
 **谁不适合**
-- People not good at monotonous tasks
-- People not good at flexible responses
+- 不擅长单调任务的人
+- 不善于灵活应变的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：Varies by occupation, but for clinical lab technicians about 4.5 million yen, for physical therapists about 4-5 million yen as a guide.
+**问：该职业的平均年收入是多少？**
+答：因职业而异，但临床实验室技术员约450万日元，物理治疗师约400-500万日元作为参考。
 
-**问：What visa is needed for foreigners to work in Japan?**
-答：A representative visa is the Engineer/Specialist in Humanities/International Services. For occupations requiring national licenses, obtaining them is a prerequisite.
+**问：外国人在日本工作需要什么签证？**
+答：代表签证是工程师/人文知识/国际服务。对于需要国家执照的职业，获得执照是前提条件。
 
 **问：有晋升机会吗？**
-答：With experience, you can advance to managerial roles, become a leader in a specialized field, or even start your own business. Medical technologists can advance by obtaining certification.
+答：随着经验积累，你可以晋升到管理职位，成为专业领域的领导者，甚至创业。医学技师可以通过获得认证来晋升。
 
 
 ---
@@ -145,12 +138,12 @@ After obtaining qualifications at vocational schools or universities, gain exper
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/healthcare-practitioners-not-elsewhere-classified/JP)**

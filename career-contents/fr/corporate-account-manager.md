@@ -53,8 +53,6 @@ Responsible for maintaining and developing business relationships with major cli
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 You can be promoted from sales representative or account manager to key account manager, and then to regional sales director or business director. After accumulating major client resources and industry knowledge, you can shift to consulting or business development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from sales representative or account manager to key account 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires annual salary at least 1.5 times the French average wage (approx. €45,000), renewable permit. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU employees who need an annual salary of at least 53,748 euros (2024 standard) and can apply for long-term residence |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, reviewed by the French Labor Department, suitable for general employees, no mandatory annual salary requirement but must match market levels |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to Regional Sales Director or Business Director, or move 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/corporate-account-manager/FR)**

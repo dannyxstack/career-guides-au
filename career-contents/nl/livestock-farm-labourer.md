@@ -4,8 +4,6 @@
 
 Farm laborers involved in livestock feeding, watering, cleaning, and basic care, typically working on dairy, pig, or poultry farms.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Farm laborers involved in livestock feeding, watering, cleaning, and basic care,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fruit farm workers will face mixed effects from AI and automation: repetitive tasks like picking and sorting may be replaced, but field management and quality assessment still require human experience, and emerging technologies like smart monitoring will improve efficiency.
-
 Starting as a general worker, you can advance to senior stockman or farm supervisor, a few may become independent farmers or agricultural consultants. Requires gaining experience and attending short training courses to improve skills.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Starting as a general worker, you can advance to senior stockman or farm supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration, but this occupation usually does not meet the salary threshold and is rarely used. |
-| Subclass Seasonal Work Visa (Seasonal Work Permit) | Suitable for short-term seasonal farm work, up to 6 months, requiring employer sponsorship. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Primarily through seasonal work visas (up to 6 months), or by negotiating wit
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-farm-labourer/NL)**

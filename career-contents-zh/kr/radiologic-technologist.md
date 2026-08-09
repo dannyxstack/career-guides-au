@@ -1,10 +1,8 @@
-# Radiologic Technologist 职业分析 · 韩国
+# 放射技师（Radiologic Technologist）职业分析 · 韩国
 
-**职业代码: 30621 (KECO)**
+**职业代码：30621 (KECO)**
 
-A specialized medical professional who operates imaging equipment in medical institutions to capture images for diagnosis and treatment, establishes radiation therapy plans, and performs radiation safety management.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种在医疗机构操作影像设备以拍摄诊断和治疗图像、制定放射治疗计划并进行辐射安全管理的专业医疗人员。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized medical professional who operates imaging equipment in medical ins
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Radiology) | 3年 | $15,000,000~$20,000,000（Based on national/public institutions; private may be higher） |
-| University (Department of Radiology) | 4年 | $20,000,000~$35,000,000（含学费和生活费） |
+| 大学（放射学） | 3年 | $15,000,000~$20,000,000（基于国家/公共机构；私立可能更高） |
+| 大学（放射科） | 4年 | $20,000,000~$35,000,000（含学费和生活费） |
 
 ---
 
@@ -22,17 +20,17 @@ A specialized medical professional who operates imaging equipment in medical ins
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Radiologic Technologist National License | Ministry of Health and Welfare | 必备 | Required license; must graduate from a radiologic technology program and pass the national exam. |
-| Medical Technologist License | Ministry of Health and Welfare | 必备 | Needed for radiation management duties in addition to radiologic technologist license. |
+| 放射技师国家执照 | 保健福祉部 | 必备 | 需持有执照；须从放射技术专业毕业并通过国家考试。 |
+| 医学技师执照 | 保健福祉部 | 必备 | 除放射技师执照外，还需要进行辐射管理职责。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 55,000. Employment of radiologic technologists is expected to steadily increase due to an aging population and rising demand for health checkups. Advanced equipment like MRI and CT further requires expertise.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 55,000。由于人口老龄化和体检需求增加，放射技师就业预计稳步增长。MRI和CT等先进设备进一步需要专业知识。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A specialized medical professional who operates imaging equipment in medical ins
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$38,000,000 | Varies by hospital size |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 视医院规模而定 |
 | 中级（4-9年） | $40,000,000~$50,000,000 | 经验丰富后薪资提升 |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Higher for chiefs and university hospitals |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 主任级和大学医院薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is being introduced through technologies such as image interpretation assistance and automatic imaging, but human judgment is essential for core tasks of radiologists, including equipment operation, patient positioning, and radiation safety management. Therefore, AI enhances work efficiency but is closer to an assistive role rather than replacement.
+AI通过图像判读辅助和自动成像等技术引入，但放射科医师的核心任务，包括设备操作、患者定位和辐射安全管理，仍需人工判断。因此，AI提升工作效率但更接近辅助角色而非替代。
 
-Careers can advance to chief, team leader, or professor by gaining experience in medical institutions (general hospitals, hospitals), pursuing graduate studies, or obtaining certifications (e.g., specialized radiologic technologist in radiology).
+职业生涯可通过在医疗机构（综合医院、医院）积累经验、攻读研究生或获得认证（如放射科专科放射技师）晋升至主任、团队负责人或教授。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive imaging
-- Basic interpretation assistance
+- 简单重复成像
+- 基础口译协助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision imaging diagnosis
-- Optimization of radiation therapy plans
+- 精准影像诊断
+- 放射治疗计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Patient safety management
-- Communication with medical staff
-- Emergency response
+- 患者安全管理
+- 与医务人员沟通
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI image analysis tools
-- Data analysis
-- Medical information systems
+- 人工智能图像分析工具的应用
+- 数据分析
+- 医疗信息系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increase in health checkups
-- Advanced medical equipment
-- Demand for radiation therapy
+- 人口老龄化
+- 健康体检增加
+- 先进医疗设备
+- 放射治疗需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to professionals; radiologic technologists qualify as healthcare professionals. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay visa can be converted to points-based system |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person interested in medical technology and meticulous
-- A person with patience and responsibility when dealing with patients
-- A person adaptable to operating high-tech equipment
+- 对医疗技术感兴趣且细致的人
+- 有耐心和责任心对待患者的人
+- 适应操作高科技设备的人
 
 **谁不适合**
-- A person with a strong fear of radiation exposure
-- A person who finds repetitive tasks boring
+- 对辐射暴露有强烈恐惧的人
+- 觉得重复性任务无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary of a radiologic technologist?**
-答：The starting salary is about ₩30-38 million depending on the hospital size, and can rise to ₩50-70 million with experience.
+**问：放射技师的平均起薪是多少？**
+答：起薪约为3000-3800万韩元，取决于医院规模，随着经验增加可升至5000-7000万韩元。
 
-**问：Can a foreigner work as a radiologic technologist in Korea?**
-答：It is possible, but a Korean Ministry of Health and Welfare license is required, and you can get a job through an E-7 visa. However, it is limited as an immigration path due to language and license requirements.
+**问：外国人能在韩国从事放射技师工作吗？**
+答：有可能，但需要韩国保健福利部执照，并可通过E-7签证就业。但由于语言和执照要求，作为移民途径有限。
 
-**问：What is the main job of a radiologic technologist?**
-答：It includes X-ray, CT, MRI scanning and assisting in reading, radiation therapy planning, and radiation safety management.
+**问：放射技师的主要工作是什么？**
+答：包括X射线、CT、MRI扫描及辅助阅片、放射治疗计划和辐射安全管理。
 
 
 ---
@@ -141,12 +132,12 @@ Careers can advance to chief, team leader, or professor by gaining experience in
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/radiologic-technologist/KR)**

@@ -53,8 +53,6 @@ Assists scientists or foresters in managing forest resources, collecting data on
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
-
 Can advance from field technician to project supervisor or forester, or through further study become a resource management specialist or policy advisor.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from field technician to project supervisor or forester, or through 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Many entry-level jobs accept an associate degree, but advancement requires a 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forest-and-conservation-technicians/US)**

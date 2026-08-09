@@ -4,8 +4,6 @@
 
 Tanners are responsible for transforming raw animal hides into durable leather through chemical and mechanical processes, including steps such as soaking, dehairing, tanning, dyeing, and finishing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Tanners are responsible for transforming raw animal hides into durable leather t
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The core manual and sensory experience of tanners is difficult to fully replace by AI, but AI can significantly improve efficiency in quality control, process optimization, and document processing. Entry-level positions have narrowed slightly due to the widespread adoption of automated inspection systems.
-
 Junior tanners can be promoted to foreman or quality controller through accumulated experience, and some join chemical suppliers for technical support. However, the shrinking industry has limited room for promotion, and most positions are lifetime positions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Junior tanners can be promoted to foreman or quality controller through accumula
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Requires employer sponsorship; work contract must prove inability to recruit suitable workers within the EU. |
-| Subclass Busqueda empleo (Job search visa) | You are allowed to stay in Spain for 6-12 months looking for work, but this usually applies to high-skilled occupations; tanners do not meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: It is very difficult; this occupation is not considered high-skilled or in sh
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tanners-and-pelt-preparers/ES)**

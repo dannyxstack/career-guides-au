@@ -4,8 +4,6 @@
 
 A professional responsible for hygiene and grooming of pets, including fur care, bathing, nail care, and providing customized styling through communication with pet owners.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -49,8 +47,6 @@ A professional responsible for hygiene and grooming of pets, including fur care,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace grooming tasks themselves, but it may be used for appointment management and customer data analysis, potentially reducing some tasks.
-
 Starting as a junior groomer, one can advance to store manager, franchise owner, or total pet care specialist after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -86,15 +82,9 @@ Starting as a junior groomer, one can advance to store manager, franchise owner,
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if an experienced pet groomer is hired by a specific company, but very limited |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -135,12 +125,12 @@ A: It is possible with an E-7 visa, but requires employer recommendation and pro
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pet-groomer/KR)**

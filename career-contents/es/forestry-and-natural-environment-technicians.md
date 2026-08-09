@@ -4,8 +4,6 @@
 
 Technical professionals engaged in resource management, protection, and monitoring in forests, nature parks, and rural environments are responsible for ecological surveys, fire prevention planning, and sustainable development projects.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Technical professionals engaged in resource management, protection, and monitori
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of forestry and natural environment technicians is mixed: routine data collection and monitoring tasks will be partially replaced by AI, but on-site decision-making, ecological assessment, and multi-party coordination capabilities will be amplified, resulting in overall stable and changing job demands.
-
 You can advance from technician to senior technician or project manager, or transition to research or management roles by pursuing a master's degree in environmental science. Both the public sector (Autonomous Region Forestry Bureau) and private consulting firms have room for growth.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can advance from technician to senior technician or project manager, or tran
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Requires employer sponsorship, demonstrating no suitable candidate available in EU; regulated occupations need qualification recognition. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Applicable for high education and high salary (annual salary about 34,000 euros or more), but requires assessment of education and work experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can advance from technician to senior technician or project manager, or t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-and-natural-environment-technicians/ES)**

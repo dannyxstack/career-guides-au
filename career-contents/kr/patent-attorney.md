@@ -4,8 +4,6 @@
 
 A patent attorney is a professional who provides legal and technical advice regarding the filing and registration of industrial property rights such as patents, trademarks, and designs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A patent attorney is a professional who provides legal and technical advice rega
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists with patent search and analysis, but high-level legal interpretation and advocacy require human patent attorneys, making full replacement difficult.
-
 After gaining practical experience at a patent law firm or corporate IP team, one can advance to a team leader, partner patent attorney, or open a private practice. Differentiation in specialized fields (e.g., biotech, AI) is important.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ After gaining practical experience at a patent law firm or corporate IP team, on
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-3)) | A visa allowing foreigners with specialized knowledge or skills to work at domestic patent law firms, etc. |
-| Subclass F-2 (Residence (F-2)) | Possible to work as a patent attorney with long-term residence status |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: After obtaining a bachelor's degree in science/technology or law, one must pa
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patent-attorney/KR)**

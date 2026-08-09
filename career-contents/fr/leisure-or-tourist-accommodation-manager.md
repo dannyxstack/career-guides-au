@@ -4,8 +4,6 @@
 
 Responsible for overall operational management of leisure venues or tourist accommodation facilities, including team leadership, customer service, marketing promotion, and financial performance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for overall operational management of leisure venues or tourist acco
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 You can be promoted from department head to regional manager or chain group operations director, or start your own business to run homestays or small hotels.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted from department head to regional manager or chain group oper
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | Work residence employed by a French company requires obtaining a labor permit |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled talents or innovative projects, with a relatively high entry threshold |
-| Subclass Carte bleue UE (EU Blue Card) | For high-paying roles, annual salary must exceed the EU Blue Card threshold (approx. €54k). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: From department heads to regional managers and then to operations directors o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leisure-or-tourist-accommodation-manager/FR)**

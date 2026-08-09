@@ -4,8 +4,6 @@
 
 Controls vehicle access, collects parking fees, and guides vehicles to parking spaces in a parking lot.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Controls vehicle access, collects parking fees, and guides vehicles to parking s
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-As AI and automation technologies (unmanned payment machines, license plate recognition systems) are introduced, the demand for parking management and attendant personnel is decreasing. Particularly, repetitive tasks like fee collection and access control are vulnerable to automation.
-
 Most enter without experience, and may advance to parking lot manager with experience, but upper-level positions are limited.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Most enter without experience, and may advance to parking lot manager with exper
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional employment) | Parking attendants are possible under E-9 visa, but must be included in the Employment Permit System quota. |
-| Subclass F-2 (Residence) | Possible for long-term residents, overseas Koreans, etc. |
-| Subclass F-4 (Overseas Koreans) | Permitted for overseas Koreans aged 25 or older, no employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Possible to advance to parking lot manager or facility management team leader
 | Work intensity | low (★★☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-control-guide/KR)**

@@ -51,8 +51,6 @@ Applying scientific principles from chemistry, microbiology, engineering, etc., 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for food scientists and technicians is being reshaped by AI: automated tools take over repetitive testing and recipe optimization, while AI enhances product innovation and supply chain analysis. Entry-level roles are narrowing due to automation, but demand for advanced R&D and regulatory compliance positions is rising.
-
 Entry-level roles such as food technician can advance to food scientist or R&D manager; senior roles can become chief scientist or quality director. Some transition to regulatory affairs or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level roles such as food technician can advance to food scientist or R&D m
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for a bachelor's degree or equivalent experience |
 | Subclass TN (Trade NAFTA (USMCA)) | Limited to Canadian or Mexican citizens, meeting occupation list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: BLS predicts ~7% growth from 2022-2032, mainly driven by food safety, sustain
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-scientists-and-technologists/US)**

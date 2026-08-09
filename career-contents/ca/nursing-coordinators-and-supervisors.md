@@ -53,8 +53,6 @@ Responsible for coordinating and supervising nursing staff to ensure high-qualit
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of care coordinators and supervisors involves personnel management, process optimization, and clinical judgment. AI can automate scheduling and data management but cannot replace interpersonal coordination and leadership, resulting in a mixed overall impact.
-
 Typically promoted from Registered Nurse, with further advancement to Director of Nursing, Clinical Nurse Specialist, or Medical Management roles. Continuing education and certifications (e.g., Canadian nursing certification) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically promoted from Registered Nurse, with further advancement to Director o
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for nursing workers in various provinces, such as Ontario, BC, and Alberta, usually require employer sponsorship. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, then transition to permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a Bachelor of Nursing and a registered nurse license. A ma
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-coordinators-and-supervisors/CA)**

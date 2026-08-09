@@ -51,8 +51,6 @@ Chemists conduct chemical analysis, research, and develop new products, serving 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job of a chemist will have mixed prospects: AI can handle routine analysis and data interpretation, but experimental design, interdisciplinary innovation, and regulatory responsibility remain human strengths, requiring active adoption of AI tools to stay competitive.
-
 Junior chemists can work as analysts in labs or companies; with experience, they can advance to senior chemist, lab supervisor, or R&D manager. Continuous learning of new technologies and obtaining professional certifications aid advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior chemists can work as analysts in labs or companies; with experience, they
 | Subclass General Employment P (General Employment Permit) | Standard work permit, requires labor market testing. |
 | Subclass EU Blue Card (EU Blue Card) | Highly skilled talent, annual salary must meet a threshold (approx. €60,000+). |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Eligible via Critical Skills Employment Permit or EU Blue Card. Requires empl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/IE)**

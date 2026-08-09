@@ -52,8 +52,6 @@ Wholesale and retail buyers analyze purchasing trends, sales records, prices, an
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Wholesale and retail buyers (except agricultural products) face AI-assisted data analysis, but interpersonal negotiation, supplier relationship management, and strategic decision-making remain highly human-dependent; overall outlook is mixed.
-
 Junior procurement officers can start as assistants or data analysts, gain experience, and advance to senior procurement officers or procurement managers, then to supply chain directors or commodity VPs. Some move into supply chain management or logistics.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior procurement officers can start as assistants or data analysts, gain exper
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Difficult, as buyers are generally not considered a 'specialty occupation' un
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesale-and-retail-buyers-except-farm-products/US)**

@@ -51,8 +51,6 @@ A professional operating bleaching, dyeing, and fabric washing machines, mainly 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile bleaching and dyeing machine operator work is highly repetitive and easily automated; AI and robots will significantly reduce demand, but machine maintenance and exception handling still require human intervention.
-
 Career advancement paths are limited; can progress from operator to senior operator or production supervisor. By learning automated system maintenance or quality management, can transition to technician or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career advancement paths are limited; can progress from operator to senior opera
 | Subclass EU Blue Card (EU Blue Card) | Requires an annual salary higher than the Irish average wage (approximately €45,000), suitable for technical positions |
 | Subclass Stamp 1G (Third Leve (Third Level Graduate Scheme) | Graduates can work in Ireland for 2 years, then apply for a work visa after gaining experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: After holding a general work visa for 5 years, you can apply for long-term re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bleaching-dyeing-and-fabric-cleaning-machine-operator/IE)**

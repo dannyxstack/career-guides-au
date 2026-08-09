@@ -52,8 +52,6 @@ Book or script editors in New Zealand are responsible for reviewing, revising, a
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Book or script editors will face significant AI impact: basic proofreading and formatting are highly automated, but creative content and deep narrative editing may see boosted opportunities due to AI tools, presenting a mixed outlook.
-
 Junior editors can do proofreading and basic polishing; senior editors can advance to content director or independent consultant. They can also move into digital publishing, content strategy, or editorial management, or provide remote services to international clients.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior editors can do proofreading and basic polishing; senior editors can advan
 | Subclass AEWV (Accredited Employer Work Visa) | Apply after obtaining a contract with an accredited employer, up to 3 years, convertible to a resident visa |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Edit not in T2 list, this path does not apply |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Limited job positions, with around 800 employees, mainly concentrated in Auck
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/book-or-script-editor/NZ)**

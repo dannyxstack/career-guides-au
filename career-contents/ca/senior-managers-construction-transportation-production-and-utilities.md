@@ -52,8 +52,6 @@ This occupation oversees and coordinates strategic planning and daily operations
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 The promotion path typically starts from department manager or project manager, and after gaining experience, advances to regional or vice president, eventually serving as CEO or board member. Continuing education such as an MBA or industry certifications helps with advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ The promotion path typically starts from department manager or project manager, 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for senior management talent, such as in Ontario, BC, Alberta, etc. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove unable to find local employee, can be used for Express Entry points or direct work visa application |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to Vice President, CEO, or board member, or move into consulting 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-managers-construction-transportation-production-and-utilities/CA)**

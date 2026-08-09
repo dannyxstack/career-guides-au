@@ -54,8 +54,6 @@ Responsible for driving, maneuvering, and safety management of vessels on inland
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed impacts on captains, chief mates, and pilots: route planning, paperwork, and monitoring tasks are enhanced or replaced, but core responsibilities like legal liability, emergency decisions, and crew management are hard to automate; overall risk is manageable.
-
 Can advance to senior captain or shipping company management through accumulated sailing experience, or qualify for larger vessels or ocean voyages.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance to senior captain or shipping company management through accumulated
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to skilled workers who have completed recognised German vocational training (dual system) |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa that allows you to come to Germany to find work. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold a boat operator license (Binnenschifferpatent) and a ship master ce
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inland-waterway-and-harbour-vessel-master/DE)**

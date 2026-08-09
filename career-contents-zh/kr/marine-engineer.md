@@ -1,8 +1,8 @@
-# Marine Engineer 职业分析 · 韩国
+# 轮机工程师（Marine Engineer）职业分析 · 韩国
 
-**职业代码: 62123 (KECO)**
+**职业代码：62123 (KECO)**
 
-Operates and maintains engine, boiler, generator, and other machinery on a ship; oversees the engine room during voyages.
+操作和维护船舶上的发动机、锅炉、发电机及其他机械；在航行期间监督机舱。
 
 
 ---
@@ -11,8 +11,8 @@ Operates and maintains engine, boiler, generator, and other machinery on a ship;
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Maritime University (Bachelor's) | 4年 | $0~$0（National maritime universities: tuition-free or low cost） |
-| Maritime Officer Training Institute (Associate's) | 2 年 | $10,000,000~$20,000,000（Private training cost） |
+| 海事大学（本科） | 4年 | $0~$0（国立海事大学：免学费或低学费） |
+| 海事官员培训学院（副学士） | 2 年 | $10,000,000~$20,000,000（私人培训费用） |
 
 ---
 
@@ -20,18 +20,18 @@ Operates and maintains engine, boiler, generator, and other machinery on a ship;
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Marine Engineer License (Class 4 or higher) | Ministry of Oceans and Fisheries | 必备 | Separate from deck officer license; mandatory |
-| STCW基本安全培训 | Ministry of Oceans and Fisheries | 必备 | Mandatory training for shipboard service |
-| GMDSS General Operator | Korea Coast Guard | 可选 | Communication equipment operation qualification |
+| 轮机工程师执照（4级或以上） | 海洋水产部 | 必备 | 与甲板高级船员执照分开，强制要求 |
+| STCW基本安全培训 | 海洋水产部 | 必备 | 船上服务强制培训 |
+| GMDSS通用操作员 | 韩国海岸警卫队 | 可选 | 通信设备操作资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. Demand fluctuates with the Korean shipbuilding and shipping industry cycle, but a steady demand is expected due to a shortage of skilled workers.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。需求随韩国造船和航运行业周期波动，但由于熟练工人短缺，预计需求将保持稳定。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,91 +39,84 @@ Operates and maintains engine, boiler, generator, and other machinery on a ship;
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Including sea service allowance |
-| Mid-level (4–7 years) | $45,000,000~$60,000,000 | Based on Class 2 engineer |
-| 高级（8年+） | $60,000,000~$90,000,000 | Chief engineer or Class 1 license holder |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 包括海上服务津贴 |
+| 中级（4–7年） | $45,000,000~$60,000,000 | 基于二级工程师 |
+| 高级（8年+） | $60,000,000~$90,000,000 | 总工程师或一级执照持有者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation support condition monitoring and predictive maintenance of ship machinery, but complete replacement is difficult as human judgment and skill are essential for failure response and repair.
+AI和自动化支持船舶机械的状态监测和预测性维护，但完全替代较困难，因为故障响应和维修仍需人类判断和技能。
 
-After obtaining 4th→3rd→2nd→1st class engineer licenses, one can advance to captain or shore management positions, or build a career as a maritime officer.
+取得4级→3级→2级→1级轮机员证书后，可晋升为船长或岸基管理职位，或作为海事官员发展职业生涯。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular condition monitoring
-- Simple inspection report writing
+- 定期状态监测
+- 简单检查报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis
-- Maintenance planning
-- Energy efficiency optimization
+- 故障诊断
+- 维护规划
+- 能效优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex machinery repair
-- Emergency response
-- Regulatory compliance judgment
+- 复杂机械维修
+- 应急响应
+- 法规合规判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automation system operation
-- Data analysis
-- Understanding integrated machinery control systems
+- 自动化系统操作
+- 数据分析
+- 理解集成机械控制系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shipping industry
-- Shipbuilding industry
-- Eco-friendly ships
-- Automated ships
+- 航运业
+- 造船业
+- 环保船舶
+- 自动化船舶
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Issuable for boarding Korean vessels as a professional maritime officer |
-| Subclass E-9 (E-9 (Non-professional Employment) visa) | Limited to some crew duties such as assistant marine engineer |
-| Subclass F-2 (F-2 (Residence) visa) | Available for employment after long-term residence, requires salary conditions, etc. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machinery and engines
-- People with physical stamina and patience to endure long voyages
-- People who enjoy solving problems independently
+- 对机械和发动机感兴趣的人
+- 有体力且能忍受长途航行的耐心者
+- 喜欢独立解决问题的人
 
 **谁不适合**
-- People who find it difficult to endure long voyages
-- People who prefer working on land
+- 难以忍受长途航行的人
+- 偏好土地相关工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a new entry-level marine engineer?**
-答：For new entry-level (junior), including boarding allowances, it is 35 million to 45 million won.
+**问：初级轮机工程师的平均薪资是多少？**
+答：对于新入职初级员工（含住宿补贴），为3500万至4500万韩元。
 
-**问：What visa does a foreigner need to work as a marine engineer in Korea?**
-答：If you have a professional maritime officer license, you can work under an E-7 visa (Specific Activities); simple tasks are partially permitted under an E-9 visa.
+**问：外国人在韩国担任轮机工程师需要什么签证？**
+答：持有专业海事官员执照者可在E-7签证（特定活动）下工作；部分简单任务允许在E-9签证下进行。
 
-**问：What are the required certifications to become a ship engineer?**
-答：A maritime officer license issued by the Ministry of Oceans and Fisheries (Engineer 4th class or higher) is mandatory, and completion of STCW basic safety training is required.
+**问：成为轮机工程师需要哪些认证？**
+答：必须持有海洋水产部颁发的海事官员执照（工程师4级或以上），并完成STCW基本安全培训。
 
 
 ---
@@ -141,12 +134,12 @@ After obtaining 4th→3rd→2nd→1st class engineer licenses, one can advance t
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/marine-engineer/KR)**

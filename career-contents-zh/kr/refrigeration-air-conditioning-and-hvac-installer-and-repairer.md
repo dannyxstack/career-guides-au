@@ -1,8 +1,8 @@
-# Refrigeration, Air Conditioning and HVAC Installer and Repairer 职业分析 · 韩国
+# 制冷、空调和暖通空调安装与维修工（Refrigeration, Air Conditioning and HVAC Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 81141 (KECO)**
+**职业代码：81141 (KECO)**
 
-A technician who installs and maintains refrigeration, air conditioning, and HVAC systems in buildings or industrial facilities; requires knowledge of electricity, mechanics, and field experience.
+在建筑或工业设施中安装和维护制冷、空调及HVAC系统的技术人员；需具备电力、机械知识和现场经验。
 
 
 ---
@@ -11,8 +11,8 @@ A technician who installs and maintains refrigeration, air conditioning, and HVA
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（No formal education cost） |
-| College (Refrigeration & Air Conditioning) | 2 年 | $5,000,000~$10,000,000（Tuition and textbook fees） |
+| 高中毕业 | 3年 | $0~$0（无正式教育费用） |
+| 学院（制冷与空调） | 2 年 | $5,000,000~$10,000,000（学费和教材费） |
 
 ---
 
@@ -20,19 +20,19 @@ A technician who installs and maintains refrigeration, air conditioning, and HVA
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Gas Technician | Human Resources Development Service of Korea | 必备 | 涉及制冷剂时需持有 |
-| Refrigeration Machinery Engineer | Human Resources Development Service of Korea | 可选 | Core license, advantageous for large company employment |
-| HVAC Technician | Human Resources Development Service of Korea | 可选 | Recommended for beginners |
-| Electrician Technician | Human Resources Development Service of Korea | 可选 | Advantageous if held |
+| 燃气技师 | 韩国人力资源开发服务局 | 必备 | 涉及制冷剂时需持有 |
+| 制冷机械工程师 | 韩国人力资源开发服务局 | 可选 | 核心执照，有利于大型企业就业 |
+| 暖通空调技师 | 韩国人力资源开发服务局 | 可选 | 推荐给初学者 |
+| 电工技师 | 韩国人力资源开发服务局 | 可选 | 持有者优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 75,000. Employment is stable due to growth in data centers, logistics centers, and sustained heating/cooling demand; outlook is good due to skilled worker shortage, but new hires are mainly experienced workers.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 75,000。由于数据中心、物流中心增长以及持续的冷暖需求，就业稳定；因技术工人短缺前景良好，但新招聘主要是经验丰富的工人。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,94 +40,86 @@ A technician who installs and maintains refrigeration, air conditioning, and HVA
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$35,000,000 | Based on small and medium enterprises |
-| Mid-level (4-9 years) | $36,000,000~$50,000,000 | Including large corporations and public institutions |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Including management and engineering positions |
+| 入门级（0-3年） | $25,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4-9年） | $36,000,000~$50,000,000 | 包括大型企业和公共机构 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 包括管理和工程职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation replace some tasks like diagnostics and remote monitoring, but on-site installation and repair require human intervention, making full replacement difficult. However, AI tools may improve work efficiency, potentially reducing labor demand.
+人工智能和自动化会取代诊断和远程监控等部分任务，但现场安装和维修需要人工干预，完全取代较难。然而，AI工具可能提高工作效率，可能降低劳动力需求。
 
-Beginners can gain field experience at small firms and, after obtaining certifications (e.g., Refrigeration Machinery Engineer), advance to large companies or public institutions; license renewal is important due to technological advances.
+初学者可在小型企业获得现场经验，获得证书（如制冷机械工程师）后，可晋升至大型企业或公共机构；由于技术进步，证书更新很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Fault diagnosis report writing
-- Basic remote monitoring
-- Consumable replacement timing prediction
+- 故障诊断报告撰写
+- 基本远程监控
+- 耗材更换时机预测
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision diagnostics (AI-assisted)
-- Energy optimization design
-- Predictive maintenance planning
+- 精准诊断（AI辅助）
+- 能源优化设计
+- 预测性维护计划
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment
-- Handling unstructured situations
-- Physical repair work
+- 现场判断
+- 处理非结构化情况
+- 物理维修工作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart HVAC
-- IoT/Sensors
-- Energy Management
-- Data Analysis
+- 智能暖通空调
+- 物联网/传感器
+- 能源管理
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- HVAC installation
-- Data centers
-- Energy efficiency
-- Maintenance
+- 暖通空调安装
+- 数据中心
+- 能源效率
+- 维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to foreign technicians with professional qualifications, available in refrigeration/AC field |
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing, etc., refrigeration/AC field is restricted |
-| Subclass F-2 (Residence) | No employment restrictions for long-term residents |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy machine operation and repair
-- People who are comfortable with outdoor and elevated work
-- People who are meticulous and patient
+- 喜欢机器操作和维修的人
+- 适应户外和高空作业的人员
+- 细致耐心的人
 
 **谁不适合**
-- People who prefer office jobs
-- People who want regular working hours
+- 偏好办公室工作的人
+- 希望有固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for beginners?**
-答：Based on entry-level (0-3 years), it ranges from 25 to 35 million KRW, increasing with certifications and experience.
+**问：初学者平均年薪是多少？**
+答：基于入门级（0-3年），薪资范围为2500万至3500万韩元，随认证和经验增长而增加。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes. An E-7 visa (Specific Activities) can be issued if you have relevant qualifications and experience, and F-2/F-4 visa holders can work freely.
+**问：外国人能获得此职业的工作签证吗？**
+答：是的。如果拥有相关资格和经验，可签发E-7（特定活动）签证，F-2/F-4签证持有者可以自由工作。
 
-**问：What certifications are needed for promotion?**
-答：A Refrigeration Machinery Technician certification is essential, and electrical/gas certifications are also advantageous.
+**问：晋升需要哪些认证？**
+答：必须持有制冷机械技术员证书，电气和燃气证书也有优势。
 
 
 ---
@@ -145,12 +137,12 @@ Beginners can gain field experience at small firms and, after obtaining certific
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/refrigeration-air-conditioning-and-hvac-installer-and-repairer/KR)**

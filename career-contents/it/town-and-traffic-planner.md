@@ -4,8 +4,6 @@
 
 Urban and transport planners design and manage city and transport systems, including land use planning, transport network optimization, and sustainable development strategies. They collaborate with government, developers, and the community to ensure efficient, environmentally friendly, and compliant urban development.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Urban and transport planners design and manage city and transport systems, inclu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
-
 Planners can progress from junior analyst to senior planner, project manager, and eventually to urban planning director or independent consultant. Obtaining professional certification (e.g., registration with the Italian Association of Urban Planners) and a master's degree aids career development.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Planners can progress from junior analyst to senior planner, project manager, an
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card - Italy) | Applicable to highly skilled non-EU citizens, requires university degree + employment contract, annual salary threshold approximately €33,500 (2024). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requires employer sponsorship, subject to annual quota limits, suitable for non-high-skilled positions. |
-| Subclass Autonomous Work Visa (Italy Autonomous Work Visa) | Freelance career planners can apply, requiring professional qualifications and project plan |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Stable but slow growth. Italy's infrastructure update demand persists, but co
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/town-and-traffic-planner/IT)**

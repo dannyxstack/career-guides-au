@@ -4,8 +4,6 @@
 
 Cultivates, manages, and harvests vegetables and special crops (ginseng, mushrooms, etc.) in open fields or facilities, performing soil management, pest control, and post-harvest tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Cultivates, manages, and harvests vegetables and special crops (ginseng, mushroo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation support irrigation, environmental control, and pest/disease diagnosis in open-field and facility cultivation, boosting productivity. Full replacement is unlikely, but smart farm tech will greatly improve work efficiency.
-
 Begins with simple cultivation tasks, then may transition to crop switching, farm management, self-employment, or smart farm technician roles with experience.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Begins with simple cultivation tasks, then may transition to crop switching, far
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | With an E-9 (Non-professional Employment) visa for agriculture and livestock, vegetable cultivation is possible; after 5 years of stay, conversion to Skilled Worker (E-7-4) is possible. |
-| Subclass E-7-4 (Skilled Worker (E-7-4)) | Allowable transition from E-9, long-term stay permitted. |
-| Subclass F-4 (Overseas Korean (F-4)) | Employment in agriculture allowed for overseas Koreans, with simple labor restricted but agriculture permitted. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: Labor shortages will sustain employment, but smart farm adoption will raise s
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-special-crop-grower/KR)**

@@ -53,8 +53,6 @@ Construction workers are entry-level manual laborers on construction sites, assi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of construction workers face automation squeeze; low entry barriers but high replacement risk, requiring shift to skilled roles to maintain job security.
-
 Construction workers can advance to skilled trades (e.g., carpentry, bricklaying) through experience, leading to higher wages and immigration opportunities. Some may become site supervisors or self-employed contractors.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Construction workers can advance to skilled trades (e.g., carpentry, bricklaying
 | Subclass SMC (Skilled Migrant Category) | Skilled migration requires ANZSCO skill level 4-5 to have a hourly wage of $25.29 or higher; construction workers usually meet this, but employer sponsorship is needed. |
 | Subclass Green List T2 (Green List Tier 2) | Construction workers are not on the Green List, but related skilled trades (e.g., carpentry) may apply. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, through apprenticeships to become tradespeople such as carpenters or bri
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/builders-labourer/NZ)**

@@ -55,8 +55,6 @@ A scientist who studies livestock genetics, nutrition, reproduction, growth, and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly enhance animal scientists' data analysis and genetic prediction, but core tasks involving animal experimentation, farm management, and ethical judgment remain hard to replace; overall, risks and opportunities coexist.
-
 Career progression: Research assistant → Independent researcher → Project leader or laboratory director, or transition into biotech R&D management.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career progression: Research assistant → Independent researcher → Project le
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: EB-2 typically requires PERM labor certification proving no US workers are av
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-scientists/US)**

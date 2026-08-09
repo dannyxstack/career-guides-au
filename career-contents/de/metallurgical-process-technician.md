@@ -51,8 +51,6 @@ Metallurgical technicians oversee the smelting, casting, and rolling processes f
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Metallurgical technicians face mixed impacts from AI and automation: routine tasks like production monitoring and parameter adjustment are easily taken over, but complex work like process troubleshooting and material performance judgment still requires human experience. Overall risk is moderate.
-
 Can advance from operator to team leader, process engineer, or become a metallurgical engineer through further study. Some companies offer technical expert or management paths.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can advance from operator to team leader, process engineer, or become a metallur
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can be promoted to team leader, process engineer, or technical manager, or be
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallurgical-process-technician/DE)**

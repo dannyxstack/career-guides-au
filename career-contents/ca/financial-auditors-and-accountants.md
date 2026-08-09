@@ -52,8 +52,6 @@ Tax consultants in Canada correspond to financial auditors and accountants, resp
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Financial auditors and accountants face risk from AI automating many repetitive tasks, but core judgment, complex tax planning, and client trust create a moat; AI as an enhancement tool can improve efficiency and value, overall mixed.
-
 Career development path includes advancement from junior tax accountant to senior tax manager, tax director. Obtaining CPA certification can lead to independent consulting or partnership, with significant salary increase.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development path includes advancement from junior tax accountant to senio
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario, BC, Alberta, etc., with priority processing for accounting occupations |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: It is recommended to obtain CPA Canada certification, as it is a core require
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-auditors-and-accountants/CA)**

@@ -4,8 +4,6 @@
 
 A healthcare professional who assesses, diagnoses, and treats communication and swallowing disorders, working in hospitals, welfare centers, and private clinics.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A healthcare professional who assesses, diagnoses, and treats communication and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-As AI is used to develop diagnostic aids or treatment programs, it increases the efficiency of speech therapists, but direct interaction with patients and the creation of personalized treatment plans remain uniquely human domains, so the risk of automation replacement is low.
-
 After graduate school and certification, clinical experience can lead to senior, center director, or private practice roles; opportunities also exist in research, education, and administration.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ After graduate school and certification, clinical experience can lead to senior,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign speech-language pathologists with professional qualifications can work in domestic medical institutions, etc. |
-| Subclass F-2 (F-2 (Residence)) | Convertible to points-based system, allows long-term stay and free job-seeking |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Usually a bachelor's degree in speech-language pathology is required; a maste
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speechlanguage-pathologist/KR)**

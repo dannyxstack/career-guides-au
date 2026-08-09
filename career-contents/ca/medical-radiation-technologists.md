@@ -53,8 +53,6 @@ In Canada, radiologic technologists operate X-ray, CT, MRI, and other equipment,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
-
 Entry-level radiologic technologists can start in hospital imaging departments, then advance to senior technologist, department supervisor, or imaging specialist. They can also broaden their career path by obtaining specialty certifications in MRI or nuclear medicine.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level radiologic technologists can start in hospital imaging departments, 
 | Subclass PNP (Provincial Nominee Program) | Many provinces list radiologic technologists as an occupation in demand; through provincial nomination, they can receive an extra 600 points, significantly increasing the chance of invitation |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Employer Sponsorship Program, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires an ECA of qualifications and passing the CAMRT exam for certificatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-radiation-technologists/CA)**

@@ -51,8 +51,6 @@ Includes IP lawyers, legal advisors, etc., providing professional legal services
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on unclassified legal professionals is mixed: routine contract review and paperwork are automated, but complex legal strategy, client trust, and accountability still rely on humans. Entry-level roles are narrowing due to AI tool distribution, but legal tech fields and new demands create upgrade paths.
-
 Progress from junior lawyer to senior lawyer, partner, or transition to in-house legal counsel, compliance manager and other management roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Progress from junior lawyer to senior lawyer, partner, or transition to in-house
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary over €30,000, requiring a labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with an annual salary threshold of approximately €60,000. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Requires a law degree (LLB) and qualification as a solicitor through training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-professional-not-elsewhere-classified/IE)**

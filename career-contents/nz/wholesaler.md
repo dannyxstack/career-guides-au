@@ -50,8 +50,6 @@ Wholesalers are key intermediaries connecting producers and retailers, responsib
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Wholesaler roles have mixed prospects: AI automation will compress routine order processing and inventory tracking, but core capabilities such as strategic sourcing, customer relationships, and market insights are enhanced by AI, shifting career value toward higher-value areas.
-
 Entry-level roles such as purchasing assistant can advance to wholesale manager or supply chain director. After accumulating client resources, one can start a business or move into consulting roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Entry-level roles such as purchasing assistant can advance to wholesale manager 
 | Subclass SMC (Skilled Migrant Category) | Must meet 6-point system requirements (qualifications + work experience), ANZSCO skill level 2 or 3, salary not below median |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a certified employer offer, meeting the salary threshold, and can apply for residency after 3 years of work. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Good prospects, especially in supply chain management and e-commerce. However
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesaler/NZ)**

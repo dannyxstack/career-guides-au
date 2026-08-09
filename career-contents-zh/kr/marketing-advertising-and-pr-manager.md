@@ -1,10 +1,8 @@
-# Marketing, Advertising, and PR Manager 职业分析 · 韩国
+# 市场营销、广告和公关经理（Marketing, Advertising, and PR Manager）职业分析 · 韩国
 
-**职业代码: 01231 (KECO)**
+**职业代码：01231 (KECO)**
 
-A managerial role responsible for establishing and overseeing a company's marketing, advertising, and PR strategies to enhance brand value and market share.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责建立和监督公司营销、广告和公关战略以提升品牌价值和市场份额的管理职位。
 
 
 ---
@@ -13,9 +11,9 @@ A managerial role responsible for establishing and overseeing a company's market
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 4-year university (Business, Advertising, PR) | 4年 | $8,000,000~$40,000,000（Based on tuition fees） |
-| Community college (Advertising, Marketing) | 2 年 | $4,000,000~$20,000,000（Based on tuition fees） |
-| Graduate school (MBA, Marketing master's) | 2 年 | $15,000,000~$50,000,000（Based on tuition fees） |
+| 四年制大学（商业、广告、公关） | 4年 | $8,000,000~$40,000,000（按学费计算） |
+| 社区学院（广告、市场营销） | 2 年 | $4,000,000~$20,000,000（按学费计算） |
+| 研究生院（MBA、市场营销硕士） | 2 年 | $15,000,000~$50,000,000（按学费计算） |
 
 ---
 
@@ -23,18 +21,18 @@ A managerial role responsible for establishing and overseeing a company's market
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Marketing Strategist | Korea Marketing Association | 可选 | Optional, obtained after gaining experience |
-| 广告专员 | Korea Advertising and Culture Association | 可选 | Optional, specialized in advertising |
-| GTQ (Graphic Technology Qualification) | Korea Productivity Center | 可选 | Helpful for design understanding |
+| 营销策略师 | 韩国营销协会 | 可选 | 可选，获得经验后取得 |
+| 广告专员 | 韩国广告文化协会 | 可选 | 可选的，广告专业方向 |
+| GTQ（图形技术资格） | 韩国生产力中心 | 可选 | 有助于设计理解 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 58,000. Demand remains steady due to digital transformation and data-driven marketing, but employment growth is expected to be moderate due to intense competition and economic sensitivity.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 58,000。由于数字化转型和数据驱动营销，需求保持稳定，但由于激烈竞争和经济敏感性，就业增长预计温和。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A managerial role responsible for establishing and overseeing a company's market
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$45,000,000 | Based on large corporations; lower for SMEs |
-| Mid-level (4–10 years) | $45,000,000~$70,000,000 | Manager to Deputy General Manager |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Department Head to Executive Level |
+| 初级（0-3年） | $30,000,000~$45,000,000 | 基于大企业标准；中小企业较低 |
+| 中级（4-10年） | $45,000,000~$70,000,000 | 经理至副总经理 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 部门主管至高管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI improves efficiency in data analysis, ad optimization, targeting, etc., but strategy and creative planning remain human domains. Therefore, some tasks may be replaced, but overall, AI-enhanced roles are expected.
+AI在数据分析、广告优化、定向等方面提高效率，但策略和创意规划仍属人类领域。因此，部分任务可能被取代，但总体而言，AI增强的职位将出现。
 
-Typical career path involves gaining experience at large corporations or marketing firms, then promotion to manager/director, or transitioning via an MBA or advanced degree.
+典型的职业路径包括在大型企业或营销公司积累经验，然后晋升为经理/总监，或通过MBA或高级学位转型。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized Report Writing
-- Basic Data Collection and Organization
-- Simple Repetitive Ad Optimization
+- 标准化报告撰写
+- 基础数据收集与整理
+- 简单重复的广告优化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Consumer Insight Extraction
-- Marketing Campaign Performance Analysis
-- Predictive Modeling-based Strategy
+- 消费者洞察提取
+- 营销活动效果分析
+- 基于预测建模的策略
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic Decision-making
-- Creative Brand Planning
-- Stakeholder Management and Negotiation
+- 战略决策
+- 创意品牌策划
+- 利益相关方管理与谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Literacy
-- AI Tool Utilization
-- Digital Marketing Strategy
-- Communication
+- 数据素养
+- AI工具运用
+- 数字营销策略
+- 通信
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Marketing
-- Data Analysis
-- Brand Strategy
-- Customer Experience
+- 数字营销
+- 数据分析
+- 品牌策略
+- 客户体验
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hired as a professional marketer; issuance for managerial roles is limited due to preference for local hires |
-| Subclass F-2 (Residence) | Possible for long-term residents; no separate permit needed for managerial employment |
-| Subclass D-10 (Job Seeking) | For job-seeking activities; requires change to E-7 or F-2 after employment |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strategic thinking and creativity
-- People skilled in data analysis and communication
-- People who adapt quickly to change and demonstrate leadership
+- 具有战略思维和创造力的人
+- 擅长数据分析与沟通的人才
+- 能够快速适应变化并展现领导力的人
 
 **谁不适合**
-- People who prefer repetitive and passive tasks
-- People who avoid interpersonal relationships or collaboration
+- 喜欢重复性和被动性任务的人
+- 避免人际关系或团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for this occupation?**
-答：For entry-level at large companies, the annual salary is 30-45 million KRW, and it may be lower at SMEs. It increases significantly with experience and performance.
+**问：该职业的起薪是多少？**
+答：大型企业入门级年薪为3000-4500万韩元，中小企业可能更低；随经验和绩效显著增加。
 
-**问：What visa is required for foreigners to work in this job in Korea?**
-答：If recognized as a professional, an E-7 (Specific Activities) visa is possible, but management positions prioritize locals, making actual employment difficult. Holders of F-2 or F-4 visas have an advantage.
+**问：外国人在韩国从事此工作需要什么签证？**
+答：如果被认定为专业人士，可以申请E-7（特定活动）签证，但管理职位优先考虑本地人，实际就业困难。持有F-2或F-4签证者有优势。
 
-**问：What skills should I develop to get promoted?**
-答：Data analysis, digital marketing, brand strategy, and leadership and communication skills are important. Degrees like an MBA can help.
+**问：应该培养哪些技能以得到晋升？**
+答：数据分析、数字营销、品牌战略以及领导力和沟通技巧很重要。MBA等学位有帮助。
 
 
 ---
@@ -147,12 +137,12 @@ Typical career path involves gaining experience at large corporations or marketi
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/marketing-advertising-and-pr-manager/KR)**

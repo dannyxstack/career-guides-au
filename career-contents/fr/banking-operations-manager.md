@@ -53,8 +53,6 @@ Responsible for daily operations management of bank branches, including customer
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The daily operations, reporting, and preliminary compliance reviews of bank operations managers will be greatly compressed by AI, but customer relations, complex problem handling, and team management are amplified by AI tools, making it a classic 'mixed' impact profession.
-
 You can advance from client consultant to operations manager, then to regional director or head office management positions. Accumulate management experience and compliance knowledge.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from client consultant to operations manager, then to regional d
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for highly educated (Master's) or high salary (≥53,834€) banking operations managers, fast track |
-| Subclass Passeport Talent - P (Talent Passport) | Not applicable; this profession usually does not meet the talent passport standards |
-| Subclass Salarié (Employee Work Permit) | Employed by a French bank, employer sponsorship required, and the typical annual salary is ≥ 1.5 times SMIC |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Promotion to Regional Director, Branch Management Director, or Transition to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/banking-operations-manager/FR)**

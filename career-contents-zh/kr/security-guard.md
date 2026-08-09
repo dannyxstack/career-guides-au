@@ -1,10 +1,8 @@
 # 保安（Security Guard）职业分析 · 韩国
 
-**职业代码: 54201 (KECO)**
+**职业代码：54201 (KECO)**
 
-A safety occupation that prevents theft, fire, and intrusion in buildings, facilities, factories, etc., and performs patrols, access control, and facility management.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一项安全职业，防止建筑、设施、工厂等的盗窃、火灾和入侵，并进行巡逻、门禁和设施管理。
 
 
 ---
@@ -13,9 +11,9 @@ A safety occupation that prevents theft, fire, and intrusion in buildings, facil
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（No academic background required, most new training free of charge） |
-| General Job Training | 1个月 | $100,000~$300,000（Basic training fees by Korea Security Association, etc.） |
-| Special Security Training | 3个月 | $1,000,000~$2,000,000（Escort and mechanical security qualification courses） |
+| 高中毕业 | 0年 | $0~$0（无学历要求，多数新培训免费） |
+| 通用职业培训 | 1个月 | $100,000~$300,000（韩国保安协会等提供的基础培训费） |
+| 特殊安全培训 | 3个月 | $1,000,000~$2,000,000（护卫与机械安防资格课程） |
 
 ---
 
@@ -23,19 +21,19 @@ A safety occupation that prevents theft, fire, and intrusion in buildings, facil
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| General Security Guard New Training | National Police Agency | 必备 | Mandatory completion of 24 hours for initial employment |
-| Mechanical Security Instructor | Korea Security Association | 可选 | Enables unmanned security control duties |
-| Special Security Guard Certificate | National Police Agency | 可选 | Required for escort and critical facility security |
-| Fire Safety Manager | Korea Fire Safety Institute | 可选 | Enhances fire prevention and response capabilities |
+| 普通保安新培训 | 国家警察厅 | 必备 | 初始就业需完成24小时强制培训 |
+| 机械安全指导员 | 韩国保安协会 | 可选 | 可实现无人安全控制职责 |
+| 特殊保安证 | 国家警察厅 | 可选 | 押运和关键设施安保所需 |
+| 消防安全经理 | 韩国消防安全研究所 | 可选 | 增强防火和响应能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 450,000. Due to aging and labor shortages, demand for security guards remains, but the adoption of AI/IoT-based unmanned security systems is gradually expanding.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 450,000。由于老龄化和劳动力短缺，保安的需求依然存在，但基于AI/IoT的无人化安防系统正逐步扩展。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,94 +41,85 @@ A safety occupation that prevents theft, fire, and intrusion in buildings, facil
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $25,000,000~$30,000,000 | Minimum wage compliance, based on 40-hour work week at hourly rate |
-| 中级 (4-7年) | $30,000,000~$35,000,000 | Increases when night/holiday pay included |
-| Advanced (8+ years) | $35,000,000~$42,000,000 | Additional allowances upon promotion to foreman/team leader |
+| 初级（0-3年） | $25,000,000~$30,000,000 | 最低工资合规，基于每周40小时工作制和小时工资 |
+| 中级 (4-7年) | $30,000,000~$35,000,000 | 含夜班/假日工资时增加 |
+| 高级（8年以上） | $35,000,000~$42,000,000 | 晋升为领班/团队负责人后的额外津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-The introduction of AI/IoT-based unmanned security systems reduces simple patrol and monitoring tasks, but tasks requiring interpersonal response and judgment still need humans, resulting in mixed impacts.
+基于AI/IoT的无人安防系统减少了简单的巡逻和监控任务，但需要人际应对和判断的任务仍需人类，因此影响喜忧参半。
 
-New recruits are assigned after simple on-site training, and with experience, they can be promoted to squad leader or team leader, or transition to special security (mechanical security/escort).
+新员工经过简单现场培训后分配岗位，随着经验积累可晋升为班长或组长，或转向特殊安保（机械安保/押运）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple patrol and access control records
-- Simple CCTV monitoring
-- Regular facility inspection report writing
+- 简单巡逻和门禁记录
+- 简单闭路电视监控
+- 定期设施检查报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone and robot patrols with human collaboration
-- AI anomaly detection system operation supervision
-- Decision-making and response in emergency situations
+- 无人机和机器人巡逻与人机协作
+- AI异常检测系统运行监控
+- 紧急情况下的决策与应对
 
-**人类护城河:**
+**人类护城河：**
 
 - 突发情况应变能力
-- Interpersonal Communication and Crisis Negotiation
-- Customized Safety Management Know-How by Building
+- 人际沟通与危机谈判
+- 按建筑定制的安全管理知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Mechanical Security System Operation
-- Fire and Disaster Prevention Practical Knowledge
-- Smart Security Equipment Utilization Skills
+- 机械安全系统操作
+- 消防与防灾实用知识
+- 智能安全设备应用技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging workforce
-- Expansion of unmanned security
-- Enhanced facility safety
-- Increase in apartments and buildings
+- 劳动力老龄化
+- 无人安保的扩展
+- 加强设施安全
+- 公寓与建筑数量增加
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Limited to manufacturing, construction, agriculture, fisheries, etc.; difficult for security guards to obtain directly. |
-| Subclass F-2 (Residence (F-2)) | A step toward permanent residency; no restrictions on working as a security guard. |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans; simple labor restrictions apply, but security guard work is possible. |
-| Subclass F-5 (Permanent Residence (F-5)) | Permanent residents can work as security guards without restrictions. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer a regular lifestyle
-- People comfortable with physical activity
-- Responsible and diligent people
+- 偏好规律生活的人
+- 喜欢体力活动的人
+- 负责任且勤奋的人
 
 **谁不适合**
-- People who find monotonous work boring
-- People who avoid night and weekend work
+- 觉得单调工作无聊的人
+- 避免夜班和周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：保安的平均薪资是多少？**
-答：Approximately 25-30 million KRW for entry-level, up to 42 million KRW with experience, night shift allowances, and special security qualifications.
+答：初级约2500-3000万韩元，有经验者最高4200万韩元，加夜班津贴和特殊安全资质。
 
-**问：Can foreigners work as security guards?**
-答：Difficult with an E-9 visa; possible for holders of F-2, F-4, F-5 residence or permanent residency, and overseas Koreans (F-4).
+**问：外国人可以当保安吗？**
+答：E-9签证困难；持有F-2、F-4、F-5居留或永久居留权及海外韩裔（F-4）者可能可行。
 
-**问：How can a security guard get promoted?**
-答：With work experience and special security or mechanical security certifications, there are opportunities for promotion to site manager (team leader/site chief).
+**问：保安如何获得晋升？**
+答：凭借工作经验和特殊安全或机械安全认证，有机会晋升为现场经理（团队领导/现场主管）。
 
 
 ---
@@ -148,12 +137,12 @@ New recruits are assigned after simple on-site training, and with experience, th
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/security-guard/KR)**

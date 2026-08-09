@@ -52,8 +52,6 @@ Teach education courses at universities or colleges, such as counseling, curricu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pressure on higher education pedagogy teachers' core teaching and research tasks from AI, especially course content generation and assessment grading, but personalized guidance and practical supervision still require human experience. Competition increases for entry-level roles, while strategic decision-making and ethical oversight value of senior teachers grows.
-
 Usually start as assistant professor, advance to associate professor and full professor. Research universities require continuous publications; community colleges focus more on teaching. Some move into education management (department chair, dean) or education policy.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as assistant professor, advance to associate professor and full pr
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can transition to educational policy analysis, teacher training program super
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-teachers-postsecondary/US)**

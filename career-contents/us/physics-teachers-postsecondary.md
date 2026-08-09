@@ -53,8 +53,6 @@ University professor teaching physics courses, covering laws of matter and energ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Promotion from assistant professor to associate professor to full professor requires research and tenure.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Promotion from assistant professor to associate professor to full professor requ
 | Subclass EB-2 (Employment-Based Second Preference) | Green card category based on advanced degree or special ability |
 | Subclass EB-1A (Extraordinary Ability) | Outstanding professors or researchers can apply for EB-1A green card |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Starting as an assistant professor, gaining tenure and becoming an associate 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physics-teachers-postsecondary/US)**

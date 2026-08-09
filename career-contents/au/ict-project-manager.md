@@ -53,8 +53,6 @@ ICT project manager plans, executes, and delivers IT projects, coordinating team
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-IT project managers face AI-driven task automation (e.g., report generation, progress tracking), but core cross-team coordination, risk management and client communication still require human judgment, presenting a mixed outlook.
-
 Usually promoted from developer or analyst, can progress to senior project manager, project director, or PMO lead. Those with PMP or PRINCE2 certification advance faster.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually promoted from developer or analyst, can progress to senior project manag
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, eligible for 186 permanent residency after 3 years |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Visa, requires living and working in a designated area for 3 years before transitioning to 191 permanent visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, but PMP or PRINCE2 certification can significantly boost competitiveness
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-project-manager/AU)**

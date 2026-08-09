@@ -51,8 +51,6 @@ ASIC design engineers are responsible for the digital front-end (RTL design/inte
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
-
 Canadian AI accelerators and low-power/simulation design are the main focus, with engineers skilled in RTL, timing, and layout in demand; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Canadian AI accelerators and low-power/simulation design are the main focus, wit
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Provincial nomination bonus points channel |
 | Subclass GTS (Global Talent Pass) | Global Talent Stream: Two-week expedited work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow Canada's
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asic-design-engineer/CA)**

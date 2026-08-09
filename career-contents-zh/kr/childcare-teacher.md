@@ -1,10 +1,8 @@
-# Childcare Teacher 职业分析 · 韩国
+# 保育教师（Childcare Teacher）职业分析 · 韩国
 
-**职业代码: 23211 (KECO)**
+**职业代码：23211 (KECO)**
 
-A professional responsible for the care and education of infants and young children, supporting their development and managing safety at daycare centers.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责婴幼儿照护与教育的专业人员，支持其发展并在日托中心管理安全。
 
 
 ---
@@ -13,9 +11,9 @@ A professional responsible for the care and education of infants and young child
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Childcare Studies at a Junior College (2-3 years) | 2 年 | $6,000,000~$9,000,000（Annual tuition based on national/public standards） |
-| Department of Child Development/Early Childhood Education at a University (4 years) | 4年 | $8,000,000~$12,000,000（Annual tuition based on national/public standards; private institutions cost more） |
-| Childcare Teacher Certificate (Credit Bank System) | 2-3年 | $3,000,000~$5,000,000（Includes online lectures and practicum costs） |
+| 专科大学儿童保育学系（2-3年） | 2 年 | $6,000,000~$9,000,000（按国立/公立标准计算的年学费） |
+| 大学儿童发展/幼儿教育系（4年制） | 4年 | $8,000,000~$12,000,000（根据国家/公立标准计算的年学费；私立机构费用更高） |
+| 保育教师证书（学分银行系统） | 2-3年 | $3,000,000~$5,000,000（包含在线讲座和实习费用） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional responsible for the care and education of infants and young child
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Childcare Teacher Level 2 | Korea Childcare Promotion Institute | 必备 | Obtainable upon graduation from a junior college childcare-related department |
-| Childcare Teacher Level 1 | Korea Childcare Promotion Institute | 可选 | Requires Level 2 certificate, 3+ years of experience, and completion of continuing education |
-| Kindergarten Teacher Level 2 | 教育部 | 可选 | Required for working as a kindergarten teacher; separate from childcare teacher |
+| 二级保育员 | 韩国儿童保育振兴院 | 必备 | 大专保育相关专业毕业后可获得 |
+| 一级保育教师 | 韩国儿童保育振兴院 | 可选 | 需要2级证书、3年以上经验，并完成继续教育。 |
+| 幼儿园教师二级 | 教育部 | 可选 | 担任幼儿园教师所需；与育儿教师不同 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 300,000. Despite a declining infant population due to low birth rates, demand for childcare teachers is expected to remain steady due to the increase in dual-income families and demands for higher quality care. Government support expansion ensures stable employment.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 300,000。尽管因低出生率导致婴儿人口减少，但由于双职工家庭增加和对更高质量保育的需求，对保育教师的需求预计将保持稳定。政府支持扩大确保了稳定的就业。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A professional responsible for the care and education of infants and young child
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $22,000,000~$26,000,000 | Varies by daycare center size and region |
-| 中级（4-9年） | $27,000,000~$32,000,000 | Salary increases based on years of experience |
-| 资深（10年以上） | $33,000,000~$40,000,000 | Possible over 40 million KRW upon promotion to director |
+| 入门级（0-3年） | $22,000,000~$26,000,000 | 因托儿所规模和地区而异 |
+| 中级（4-9年） | $27,000,000~$32,000,000 | 薪资随经验年限增长 |
+| 资深（10年以上） | $33,000,000~$40,000,000 | 晋升主管后可达4000万韩元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is difficult to directly replace childcare teachers, but it will be used as an auxiliary tool for administrative automation, educational material development, and child development analysis to improve work efficiency. Emotional bonding and immediate care must continue to be handled by humans.
+AI难以直接替代保育员，但将作为行政自动化、教材开发和儿童发展分析的辅助工具来提高工作效率。情感联结和即时护理仍需人类处理。
 
-Starting as an entry-level childcare teacher, one can advance to homeroom teacher, age-group head teacher, vice principal, and principal. Holding a Level 1 childcare teacher certificate and experience are advantageous for promotion.
+从初级育儿教师开始，可晋升至班主任、年龄段组长、副园长和园长。持有一级育儿教师证书和经验有利于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Attendance management and documentation
-- Creating simple educational materials
-- Writing daily reports
+- 考勤管理和文档记录
+- 制作简单的教育材料
+- 撰写每日报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Child development monitoring and analysis
-- Recommendations for personalized activities
-- Preparing parent consultation materials
+- 儿童发展监测与分析
+- 个性化活动推荐
+- 准备家长咨询材料
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional bonding and care
-- Intuitive response to crisis situations
-- Creative play and interaction
+- 情感联结与关怀
+- 危机情境的直觉反应
+- 创造性游戏与互动
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析技能
-- Utilization of digital educational tools
-- Using AI-based development assessment software
+- 数字教育工具的使用
+- 使用基于AI的开发评估软件
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Improving the quality of childcare
-- Tailored childcare
-- Integrated childcare for disabled children
-- Strengthening professionalism of childcare teachers
+- 改善儿童保育质量
+- 定制化育儿
+- 残疾儿童综合托育
+- 加强保育教师专业化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a foreign childcare teacher, but Korean language ability and qualification requirements are strict |
-| Subclass F-2 (Residence) | Pre-permanent residence stage; possible to work as a childcare teacher, but qualification recognition needed |
-| Subclass F-5 (Permanent Residence) | Permanent resident; can work as a childcare teacher if qualification requirements are met |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who likes children and has strong patience
-- Someone who can creatively plan play and education
-- A responsible person who can respond quickly to dangerous situations
+- 喜欢孩子且耐心强的人
+- 能够创造性规划游戏和教育的人
+- 能够快速应对危险情况的负责人
 
 **谁不适合**
-- Someone who finds it hard to tolerate noise and chaos
-- Someone who dislikes irregular work stress
+- 难以忍受噪音和混乱的人
+- 不喜欢不规则工作压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a childcare teacher?**
-答：For beginners, it is about 22-26 million KRW before tax, and can go up to 40 million KRW depending on experience and qualifications.
+**问：儿童保育老师的年薪是多少？**
+答：对于初学者，税前约2200-2600万韩元，根据经验和资质可达4000万韩元。
 
-**问：Can foreigners work as childcare teachers in Korea?**
-答：It is possible, but getting an E-7 visa is difficult and requires Korean language proficiency and certification. It is more advantageous for permanent residents or those with a residence visa.
+**问：外国人能在韩国做保育教师吗？**
+答：有可能，但获得E-7签证困难，需要韩语能力和证书。对于永居者或持有居留签证者更有利。
 
-**问：How can a childcare teacher become a director?**
-答：After obtaining a Level 1 childcare teacher qualification, you need to accumulate a certain amount of experience and complete director training.
+**问：幼师如何成为园长？**
+答：获得一级保育员资格后，需积累一定经验并完成园长培训。
 
 
 ---
@@ -146,12 +136,12 @@ Starting as an entry-level childcare teacher, one can advance to homeroom teache
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/childcare-teacher/KR)**

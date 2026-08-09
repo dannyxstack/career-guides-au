@@ -4,8 +4,6 @@
 
 Kindergarten administrators oversee overall operations, including staff management, curriculum planning, parent consultation, and budget execution.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Kindergarten administrators oversee overall operations, including staff manageme
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can partially replace administrative tasks (document writing, schedule management, etc.), but areas requiring human relationships and judgment such as curriculum planning, teacher coaching, and parent counseling are protected. Overall, AI's impact on this job is not significant.
-
 Promotion from kindergarten teacher to vice director (assistant principal) to director; requires specific experience and training. Both public and private institutions have promotion structures based on experience.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Promotion from kindergarten teacher to vice director (assistant principal) to di
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Rare as early childhood education professionals; mainly issued to foreign kindergarten founders |
-| Subclass F-2 (F-2 (Residence)) | Long-term resident foreigners can work as kindergarten directors |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents can work without restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: After working as a kindergarten teacher for at least 3 years, obtain a vice d
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-and-vice-director-of-kindergarten/KR)**

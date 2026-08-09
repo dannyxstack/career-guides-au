@@ -4,8 +4,6 @@
 
 Manual labor in manufacturing factories, including material handling, machine feeding, product packaging, cleaning, and simple assembly, requires no specialized skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Manual labor in manufacturing factories, including material handling, machine fe
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Ordinary manufacturing workers face high automation risks, with repetitive manual labor largely replaced by robots, AGVs, and AI scheduling systems, and the number of positions will continue to decrease.
-
 Usually, they start as temporary workers or labor dispatchers, and after gaining experience, can be promoted to team leader or production line supervisor, or transfer to more specialized machine operation positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Usually, they start as temporary workers or labor dispatchers, and after gaining
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employers must provide a work contract, and the position cannot be filled within the EU to pass the labor market test. |
-| Subclass Busqueda empleo (Job search visa) | Residency in Spain is allowed to seek work, but financial ability must be demonstrated. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Risks are high, and many simple, repetitive tasks have begun to be replaced b
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufacturing-labourer/ES)**

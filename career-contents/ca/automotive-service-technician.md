@@ -53,8 +53,6 @@ In Canada, automotive service technicians diagnose, repair, and maintain vehicle
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Career path: apprentice → skilled technician → supervisor/manager → store owner/independent operator. Can also specialize in specific brands or EV repair, or transition to heavy equipment repair. Obtaining Red Seal certification can improve interprovincial employment.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career path: apprentice → skilled technician → supervisor/manager → store 
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario, BC, and Alberta have priority streams for skilled trades, offering 600 additional points through provincial nomination. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, no scoring required; must have a designated employer offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, need to obtain a provincial certificate of qualification through a provi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-service-technician/CA)**

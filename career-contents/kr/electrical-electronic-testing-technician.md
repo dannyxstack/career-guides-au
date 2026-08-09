@@ -50,8 +50,6 @@ A professional who tests and analyzes the performance, safety, and durability of
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances efficiency through analysis and automation of electrical/electronic test data, but tasks requiring high-level judgment like test method design, specification interpretation, and defect analysis remain human roles. As a result, job content will evolve, and proficiency with AI tools will become important.
-
 Starting as an entry-level tester, one can advance to intermediate and senior tester, test lab manager, and quality control manager, with certifications and experience being important for enhancing expertise.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Starting as an entry-level tester, one can advance to intermediate and senior te
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed as a professional in electrical/electronic testing; degree and experience required |
-| Subclass E-9 (Non-professional Employment) | Limited to simple testing tasks; direct role as test engineer is restricted |
-| Subclass F-2 (Residence) | Convertible to points-based system, allows long-term stay and free employment |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: Although automated test equipment is increasing, tasks such as test planning,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-electronic-testing-technician/KR)**

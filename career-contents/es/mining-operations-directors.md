@@ -4,8 +4,6 @@
 
 The Director of Mining Operations is responsible for planning, directing, and coordinating all activities of the mineral mining project, including resource assessment, production planning, safety management, and cost control. They manage mining teams, ensuring compliance with environmental regulations and achieving production targets.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ The Director of Mining Operations is responsible for planning, directing, and co
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly optimize mining operations planning and data analysis, but on-site decision-making, safety management, and complex coordination still rely on human experience, resulting in mixed outcomes.
-
 Career promotion usually starts as a mining engineer or geologist and gradually advances to mining area manager, regional operations manager, and finally mining operations director. Some senior managers can join the company's board of directors or serve as senior group executives.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career promotion usually starts as a mining engineer or geologist and gradually 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with a relatively high salary threshold. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled Spanish professionals (Ley 14/2013), requires company sponsorship and meeting salary thresholds. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | For ordinary employed work residence, a work contract must be provided by the company and tested by the labor market. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Must hold a degree in mining engineering with academic credentials and must a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-operations-directors/ES)**

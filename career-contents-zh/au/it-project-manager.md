@@ -1,6 +1,6 @@
 # IT项目经理（IT Project Manager）职业分析 · 澳大利亚
 
-**职业代码: 135111 (ANZSCO)**
+**职业代码：135111 (ANZSCO)**
 
 IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发、云迁移、数字化转型和政府IT系统。澳洲联邦数字化政府计划（Digital Government Strategy）和AUKUS国防IT项目推动持续高需求，是IT类职场晋升路径最宽广的岗位之一。
 
@@ -21,19 +21,19 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| PMP（Project Management Professional） | 项目管理协会（PMI） | 可选 | 全球最广泛认可的PM认证，澳洲IT PM岗位中约70%优先要求 |
-| PRINCE2 Practitioner | AXELOS/PeopleCert | 可选 | 政府IT项目广泛使用的项目管理框架认证 |
-| Certified SAFe Agilist / SAFe Program Consultant | Scaled Agile Inc. | 可选 | 大型企业Agile转型的核心认证，溢价明显 |
+| PMP（项目管理专业人士） | 项目管理协会（PMI） | 可选 | 全球最广泛认可的PM认证，澳洲IT PM岗位中约70%优先要求 |
+| PRINCE2实践者 | AXELOS/PeopleCert | 可选 | 政府IT项目广泛使用的项目管理框架认证 |
+| 认证SAFe敏捷实践者/SAFe项目顾问 | Scaled Agile Inc. | 可选 | 大型企业Agile转型的核心认证，溢价明显 |
 | ACS技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 75,000. JSA 预测ICT经理至2035年就业增长约18%。大型云迁移项目和联邦政府数字服务转型是主要驱动力，PMP/PRINCE2持有者供不应求。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 75,000。JSA 预测ICT经理至2035年就业增长约18%。大型云迁移项目和联邦政府数字服务转型是主要驱动力，PMP/PRINCE2持有者供不应求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -53,14 +53,14 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
 IT项目经理的核心任务（沟通、决策、利益相关者管理）难以被AI替代，但AI工具在进度追踪、文档生成、风险预测等执行层面显著提升效率，导致初级项目经理岗位需求可能被压缩，而高级岗位则转向要求AI工具运用能力。
 
 Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角色与IT PM高度融合，混合型IT PM（技术背景+Agile认证）薪资溢价 $15k~$25k。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成项目状态报告和会议纪要
 - 使用AI进行资源分配冲突检测并给出优化建议
@@ -68,7 +68,7 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 - 自动整理JIRA/Asana任务并生成燃尽图
 - 基础问答式项目数据查询（如预算消耗、里程碑完成率）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 借助AI预测模型快速评估不同决策路径的风险收益
 - 通过自然语言查询仪表板实时获取跨团队关键指标
@@ -76,7 +76,7 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 - 使用生成式AI草拟需求文档、用户故事和验收标准初稿
 - 通过模拟训练AI化身进行利益相关者沟通演练
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨部门沟通与冲突调解能力
 - 在不确定环境下的战略优先级判断
@@ -84,7 +84,7 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 - 法律合规与道德责任承担
 - 团队士气激励与变革管理
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握AI项目管理工具（如Asana AI、Jira AI扩展）
 - 学习基础提示工程以高效使用Copilot/Claude生成文档
@@ -93,17 +93,17 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 - 敏捷/DevOps与AI持续集成（CI/CD）流程整合
 - 利益相关者+AI交互中的信任建立与伦理决策
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Transformation Program Delivery
-- Agile & SAFe at Enterprise Scale
-- Cloud Migration Project Management
-- Cybersecurity Program Management
-- Government ICT Projects (Defence/Health/Tax)
+- 数字化转型项目交付
+- 企业级敏捷与SAFe
+- 云迁移项目管理
+- 网络安全项目管理
+- 政府ICT项目（国防/卫生/税务）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 | Subclass 190 (Skilled Nominated) | 州提名，ACT政府IT项目多 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区IT PM岗，加15分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -178,12 +176,13 @@ Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角�
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/it-project-manager/AU)**

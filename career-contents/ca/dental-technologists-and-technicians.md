@@ -52,8 +52,6 @@ Dental technicians and prosthetists make and repair dental prostheses such as de
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Dental technicians and mechanics face a dual impact from AI: CAD/CAM and digital workflows will replace traditional handcrafting, but the demand for personalized, complex restorations and communication with dentists remains a moat. Practitioners need to transition to digital design.
-
 Junior technicians can start as lab assistants and become certified dental technicians after gaining experience. Experienced individuals can advance to lab supervisor, manager, or open their own dental lab. Continuous learning in digital dental technology (e.g., CAD/CAM) supports career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can start as lab assistants and become certified dental techn
 | Subclass PNP (Provincial Nominee Program) | Many provinces list dental technicians as priority occupations, which can earn extra points through provincial nomination and speed up the immigration process. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer can apply for LMIA to support a work visa, accumulating work experience for subsequent immigration or directly applying for permanent residence. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most provinces require dental technicians to register or obtain a license to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-technologists-and-technicians/CA)**

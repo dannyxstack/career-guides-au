@@ -52,8 +52,6 @@ Sports and fitness business management specialists handle the commercial operati
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly improve marketing and data analysis efficiency, but offline work such as venue operations and membership relationship maintenance is hard to replace, presenting a 'mixed blessing' situation.
-
 Career progression: Start as a sports and fitness business assistant, advance to department manager, regional manager, and eventually sports facility director or founder of a personal fitness brand. Further development into sports marketing, event management, or sports tourism is also possible.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: Start as a sports and fitness business assistant, advance to
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For applicants with vocational training qualifications (dual system) who have a formal job offer from a German employer, and whose vocational qualifications are recognized. |
 | Subclass Chancenkarte (Opportunity Card) | Job search visa based on points system, allows staying in Germany for one year to look for work, suitable for qualified applicants who have not yet obtained a job contract. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as business assistant, then advance to department manager, regional man
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-and-fitness-business-manager/DE)**

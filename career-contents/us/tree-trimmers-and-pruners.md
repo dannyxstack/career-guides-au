@@ -54,8 +54,6 @@ Using climbing and rigging techniques, trim dead or excess branches from trees o
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
-
 Career progression: from junior pruner to senior tree trimmer or team supervisor; some experienced workers start tree service companies. Industry association certification aids advancement.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression: from junior pruner to senior tree trimmer or team supervisor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation primarily recruits via H-2B seasonal visas, but green card pa
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-trimmers-and-pruners/US)**

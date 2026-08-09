@@ -1,8 +1,8 @@
-# Transport machinery assemblers (excluding automobiles) 职业分析 · 日本
+# 运输机械装配工（不含汽车）（Transport machinery assemblers (excluding automobiles)）职业分析 · 日本
 
-**职业代码: 544 (JSCO)**
+**职业代码：544 (JSCO)**
 
-Specialists who assemble, adjust, and inspect parts of transport machinery other than automobiles, such as railway vehicles, aircraft, and ships. Despite advancing automation in manufacturing processes, final assembly and adjustment still rely on skilled expertise.
+负责组装、调整和检查除汽车外的运输机械（如铁路车辆、飞机和船舶）部件的专家。尽管制造流程自动化推进，但最终组装和调整仍依赖熟练技术。
 
 
 ---
@@ -11,9 +11,9 @@ Specialists who assemble, adjust, and inspect parts of transport machinery other
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school (industrial department) | 3年 | $300,000~$500,000（For public high schools. Private schools are more expensive.） |
-| Vocational school (mechanical, aviation, shipbuilding departments) | 2 年 | $1,000,000~$2,000,000（Varies by field of specialization.） |
-| Vocational training center (standard vocational training) | 1年 | $0~$200,000（Public training is free or low-cost.） |
+| 高中（工业科） | 3年 | $300,000~$500,000（适用于公立高中。私立学校费用更高。） |
+| 职业学校（机械、航空、造船专业） | 2 年 | $1,000,000~$2,000,000（因专业领域而异。） |
+| 职业培训中心（标准职业培训） | 1年 | $0~$200,000（公共培训免费或低成本。） |
 
 ---
 
@@ -21,18 +21,18 @@ Specialists who assemble, adjust, and inspect parts of transport machinery other
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Skill certification (mechanical assembly) | Ministry of Health, Labour and Welfare (MHLW) | 可选 | Levels 1 and 2; advantageous for promotion but not mandatory. |
-| Monozukuri Meister certification from specialized high schools | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 可选 | Evaluates practical skills; can be used for job applications. |
-| Forklift operation skills training | Ministry of Health, Labour and Welfare (MHLW) | 可选 | Necessary for material transport within factories; recommended even for assemblers. |
+| 技能认证（机械装配） | 厚生劳动省 | 可选 | 1级和2级；对晋升有利，但非强制。 |
+| 来自专业高中的Monozukuri Meister认证 | 文部科学省 | 可选 | 评估实践技能；可用于求职申请。 |
+| 叉车操作技能培训 | 厚生劳动省 | 可选 | 工厂内物料运输必需；即使是装配工也建议具备。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. The domestic railway, aviation, and shipbuilding industries experience significant order fluctuations, and while new hiring is moderate, stable demand is expected from the perspective of skill inheritance.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。国内铁路、航空和造船业订单波动较大，虽然新招聘适中，但从技能传承角度来看，需求稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Specialists who assemble, adjust, and inspect parts of transport machinery other
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,000,000~$4,000,000 | Varies with overtime pay; higher at major companies. |
-| Mid-level (4–7 years) | $4,000,000~$5,500,000 | Certified skilled workers tend to get raises. |
-| Advanced (8+ years) | $5,500,000~$7,000,000 | Foreman/Lead class. Upper limit as skilled worker is somewhat low. |
+| 初级（0–3年） | $3,000,000~$4,000,000 | 视加班费而定；大型企业更高。 |
+| 中级（4–7年） | $4,000,000~$5,500,000 | 认证技术工人通常获得加薪。 |
+| 高级（8年以上） | $5,500,000~$7,000,000 | 工头/组长级别。作为技术工人的上限略低。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Automation through AI and robots is progressing, causing simple assembly tasks to decline. However, final adjustments, quality inspections, and complex assembly still require human skills, making full substitution difficult.
+AI和机器人自动化正在推进，简单装配岗位减少。但最终调试、质量检查和复杂装配仍需人工技能，完全替代困难。
 
-Generally, entry is from high school or vocational school, with career progression from assembly worker to team leader to manufacturing manager. Foreign worker acceptance is limited, such as under Specified Skilled Worker (ii).
+通常从高中或职业学校入职，职业发展路径为装配工→团队负责人→生产经理。外籍工人接受有限，例如特定技能工人(ii)类别。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple bolt tightening work
-- Parts transportation and supply
-- Standardized measurement and inspection
+- 简单的螺栓紧固工作
+- 零件运输与供应
+- 标准化测量与检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Visual inspection using image recognition
-- Assembly guidance with AR instructions
-- Production schedule optimization
+- 使用图像识别进行目视检查
+- AR指令辅助装配
+- 生产计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment in complex assembly procedures
-- Flexible response to defects
-- Fine-tuning and intuitive know-how based on long experience
+- 复杂装配程序中的判断
+- 灵活应对缺陷
+- 基于长期经验的微调和直觉诀窍
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot operation and teaching
-- Understanding of production management systems
-- QC methods and statistical quality control
-- CAD reading ability
+- 机器人操作与示教
+- 了解生产管理系统
+- QC方法和统计质量控制
+- CAD识图能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Railroad vehicle assembly
-- Aircraft maintenance
-- Automation technology
-- Skill succession
+- 铁路车辆组装
+- 飞机维修
+- 自动化技术
+- 技能传承
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Manufacturing: 3 fields)) | Specified Skilled Worker in manufacturing fields. Eligible for up to 5 years after exam. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Manufacturing: 3 fields)) | Renewable from (i). For skilled workers. Family accompaniment allowed, path to PR. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree+ and specialized knowledge. Unsuitable for assembly roles but eligible for design/technical management. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity for detailed tasks
-- People interested in manufacturing and tolerant of repetitive work
-- People who find fulfillment in teamwork assembling large machinery
+- 手巧适合精细工作的人
+- 对制造业感兴趣并能容忍重复工作的人
+- 在团队组装大型机械中找到成就感的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who prioritize high income
+- 重视高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for transportation machinery assembly?**
-答：For entry-level, it's about 3-4 million yen; intermediate, 4-5.5 million; advanced, 5.5-7 million. Large companies or those with skill certifications earn slightly more.
+**问：运输机械装配的年收入是多少？**
+答：入门级约300-400万日元；中级400-550万；高级550-700万。大公司或有技能认证者略高。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：Specified Skilled Worker (i) (Manufacturing 3 fields) is common. Passing the exam is required, and you can stay up to 5 years. With advanced skills, you can renew as Specified Skilled Worker (ii).
+**问：外国人从事这一职业需要什么签证？**
+答：特定技能工人（i）（制造业3个领域）常见。需通过考试，可在留最长5年。具备高级技能可续签为特定技能工人（ii）。
 
-**问：What are the career advancement paths in this occupation?**
-答：The common route is from assembly worker to team leader to production manager. Obtaining skill certifications or CAD qualifications can enable transfer to design or production engineering departments.
+**问：该职业的晋升路径有哪些？**
+答：常见路径：装配工→组长→生产经理。获得技能证书或CAD资格可转岗至设计或生产工程部门。
 
 
 ---
@@ -144,12 +137,12 @@ Generally, entry is from high school or vocational school, with career progressi
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transport-machinery-assemblers-excluding-automobiles/JP)**

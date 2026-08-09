@@ -1,10 +1,8 @@
-# Other Mining Workers 职业分析 · 日本
+# 其他矿业工人（Other Mining Workers）职业分析 · 日本
 
-**职业代码: 699 (JSCO)**
+**职业代码：699 (JSCO)**
 
-Responsible for drilling and extracting metallic and non-metallic minerals in mines and quarries. Includes operating mining machinery, blasting, and loading in both underground and open-pit operations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责在矿山和采石场钻探和提取金属和非金属矿物。包括操作采矿机械、爆破和装载，在地下和露天作业。
 
 
 ---
@@ -13,9 +11,9 @@ Responsible for drilling and extracting metallic and non-metallic minerals in mi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate (especially industrial courses) | 3年 | $0~$0（Free public high school eligible） |
-| Vocational school (Mining Technology / Construction Machinery) | 2 年 | $800,000~$1,500,000（学费及材料费） |
-| Vocational training (Construction Machinery) | 6个月-1年 | $0~$0（Public training is free (with allowance)） |
+| 高中毕业生（尤其是工业课程） | 3年 | $0~$0（符合免费公立高中资格） |
+| 职业学校（采矿技术/工程机械） | 2 年 | $800,000~$1,500,000（学费及材料费） |
+| 职业培训（工程机械） | 6个月-1年 | $0~$0（公共培训免费（提供津贴）） |
 
 ---
 
@@ -23,19 +21,19 @@ Responsible for drilling and extracting metallic and non-metallic minerals in mi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Blasting Technician | Ministry of Economy, Trade and Industry | 必备 | Required for blasting work in quarries and mines |
-| Explosives Handling Security Officer | Ministry of Economy, Trade and Industry | 必备 | Mandatory for explosives storage and blasting |
-| Specified Skilled Worker (Mining) Exam Pass | Ministry of Economy, Trade and Industry | 必备 | Requirement for foreign workers' residence status |
-| Vehicle-type Construction Machinery Operator (10t or more) | Prefectural Labor Bureau | 可选 | Advantageous for heavy machinery operators |
+| 爆破技术员 | 经济产业省 | 必备 | 采石场和矿山爆破作业所需 |
+| 爆炸物处理安保官 | 经济产业省 | 必备 | 炸药储存和爆破必须 |
+| 特定技能（采矿）考试合格 | 经济产业省 | 必备 | 外国工人居留身份要求 |
+| 车辆型建筑机械操作员（10吨及以上） | 县级劳动局 | 可选 | 对重型机械操作员有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 36,000. While the number of workers is declining due to the closure of domestic coal and metal mines, demand for non-metallic minerals such as limestone and crushed stone remains stable. Labor shortages are severe, making this a target field for Specified Skilled Worker status.
+**职位需求量：很高（★★★★½）** 全国从业人数约 36,000。由于国内煤矿和金属矿关闭，工人数量下降，但石灰石和碎石等非金属矿物需求稳定。劳动力短缺严重，因此成为特定技能工人的目标领域。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -43,97 +41,89 @@ Responsible for drilling and extracting metallic and non-metallic minerals in mi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$3,800,000 | Annual salary example: Small/Medium Mines |
-| Mid-level (4-10 years) | $3,800,000~$5,000,000 | Annual salary example: Major Limestone Company |
-| 资深（10年以上） | $4,800,000~$6,500,000 | Annual salary example: Site Chief Class |
+| 入门级（0-3年） | $3,000,000~$3,800,000 | 年薪示例：中小型矿山 |
+| 中级（4-10年） | $3,800,000~$5,000,000 | 年薪示例：大型石灰石公司 |
+| 资深（10年以上） | $4,800,000~$6,500,000 | 年薪示例：现场主管级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation improve safety and efficiency in mining. Autonomous haulage vehicles and remote-controlled drills are introduced, shifting humans to monitoring and maintenance. Complete replacement is difficult, so skilled workers remain in demand.
+AI和自动化提高了采矿的安全性和效率。引入了自动驾驶运输车辆和远程控制钻机，将人类转移到监控和维护。完全替代很难，所以熟练工人仍然有需求。
 
-As veteran workers age, fewer young workers enter the field, making skill transfer a challenge. Mechanization and automation are advancing, allowing careers as heavy machinery operators and underground transport technicians.
+随着资深工人老龄化，年轻工人进入该领域较少，技能传承成为挑战。机械化和自动化正在推进，可从事重型设备操作员和地下运输技术员等职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual ore transportation
-- Simple crushing and sorting work
-- Visual quality inspection
+- 手工矿石运输
+- 简单的破碎和分拣工作
+- 视觉质检
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote operation of heavy machinery
-- Precise control of blasting
-- Safety monitoring inside the mine
-- Analysis of mineral veins
+- 重型机械的远程操作
+- 精确控制爆破
+- 矿内安全监控
+- 矿脉分析
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment ability
-- Experience to distinguish abnormal machine sounds
-- Hazard prediction skills
-- Teamwork
+- 现场判断能力
+- 辨别异常机器声音的经验
+- 危险预测技能
+- 团队合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Heavy machinery operation
-- Blasting techniques
-- Safety management
-- IT literacy
-- Remote operation skills
+- 重型机械操作
+- 爆破技术
+- 安全管理
+- IT素养
+- 远程操作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Limestone mining
-- Crushed stone
-- Non-metallic minerals
-- Heavy equipment operator
+- 石灰石开采
+- 碎石
+- 非金属矿物
+- 重型设备操作员
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（採掘） (Specified Skilled Worker (i) (Mining)) | Residency up to 5 years. Requires passing skills and Japanese tests. Mainly simple tasks; no family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree + work experience. For specialists like underground engineers and safety managers. Renewable, with path to permanent residency. |
-| Subclass 特定技能2号（採掘） (Specified Skilled Worker (ii) (Mining)) | Accepted from 2024. Allows family accompaniment and permanent residency application. Requires transition from (i). |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically Confident
-- Enjoys Operating Machinery
-- No objection to working in mountainous areas or remote islands
+- 身体自信
+- 喜欢操作机械
+- 不反对在山区或偏远岛屿工作
 
 **谁不适合**
-- Claustrophobia
-- Cannot endure physical labor
+- 幽闭恐惧症
+- 无法承受体力劳动
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of mining workers?**
-答：The average annual income is about 4 million yen. It varies by experience and qualifications, and can exceed 5 million yen at large companies.
+**问：矿业工人的平均年收入是多少？**
+答：平均年收入约400万日元。根据经验和资格而异，大公司可能超过500万日元。
 
-**问：What visa is required for foreigners to work in Japanese mines?**
-答：Technical Intern Training (No. 2/3), Specified Skilled Worker (i) (Mining), or Engineer/Specialist in Humanities/International Services visa are common. Specified Skilled requires passing an exam, and transitioning to (ii) allows permanent residency.
+**问：外国人在日本矿山工作需要什么签证？**
+答：常见签证：技术实习培训（第2/3号）、特定技能工人(i)（采矿）、或工程师/人文国际服务签证。特定技能要求通过考试，转为(ii)后可获永久居留。
 
-**问：Can I become a mining worker without experience?**
-答：Yes. Many start after high school, receive OJT on-site, and obtain qualifications like blasting technician. Attending vocational training schools is also effective.
+**问：没有经验能成为矿工吗？**
+答：是的。许多人在高中后开始，接受现场在职培训，并获得爆破技术员等资格。参加职业培训学校也有效。
 
 
 ---
@@ -151,12 +141,12 @@ As veteran workers age, fewer young workers enter the field, making skill transf
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-mining-workers/JP)**

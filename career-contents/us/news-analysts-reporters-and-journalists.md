@@ -51,8 +51,6 @@ Broadcast or write news stories, commentaries, or opinion pieces for newspapers,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools are significantly changing how journalists work, with automated writing and data analysis boosting efficiency, but deep investigations, exclusive reporting, and ethical judgment remain human strengths.
-
 Junior Reporter → Feature Reporter/Editor → Senior Reporter/Editor-in-Chief → Media Manager or transition to PR, content marketing. Digital skills and multimedia capabilities can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior Reporter → Feature Reporter/Editor → Senior Reporter/Editor-in-Chief 
 | Subclass O-1 (O-1 Extraordinary Ability) | For distinguished journalists, requires international recognition, no lottery needed |
 | Subclass EB-2 (EB-2 Advanced Degree) | Journalists with a master's degree can apply for a green card through PERM, requiring a labor certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Traditional media roles are declining, but demand is growing for digital medi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/news-analysts-reporters-and-journalists/US)**

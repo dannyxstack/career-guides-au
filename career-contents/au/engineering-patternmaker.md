@@ -53,8 +53,6 @@ Engineering patternmakers manufacture and repair molds and patterns used in indu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Engineering pattern makers are at the center of AI automation: simple mold design, programming, and inspection tasks will be replaced by AI, but high-precision hand finishing, complex fault diagnosis, and client communication skills remain irreplaceable.
-
 Usually starts with an apprenticeship, then progresses to senior technician or supervisor. Further study in mold design, CNC programming can lead to roles as mold designer, production manager, or technical instructor. Some start their own mold workshops.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts with an apprenticeship, then progresses to senior technician or s
 | Subclass 190 (Skilled Nominated Visa (State Sponsored)) | State-sponsored skilled migration permanent visa, requiring meeting state sponsorship requirements. |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, transitioning to permanent residence requires meeting residence and income requirements |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from apprentice to senior technician, then transition into mold 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-patternmaker/AU)**

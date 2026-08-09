@@ -52,8 +52,6 @@ Responsible for metal marking, assembly, repair, and manufacturing of machine to
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Toolmaking is a profession at the intersection of high-precision manual skills and digital design. While AI cannot fully replace physical operations, it will significantly reduce traditional marking, measuring, and trial-and-error processes, while enhancing CAM programming and simulation optimization capabilities, requiring proactive upskilling in digital skills.
-
 Starting as an apprentice, progress to senior toolmaker, team supervisor, or technical expert; also possible to move into mould design or production management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as an apprentice, progress to senior toolmaker, team supervisor, or tec
 | Subclass Scale-up (Scale-up visa) | Applicable to high-growth enterprises, requires sponsorship and meeting the salary threshold. The occupation is not on the Scale-up priority list but can still apply. |
 | Subclass Graduate (Graduate visa) | UK university graduates can receive a 2-year post-study work visa; working in this occupation helps with transitioning to a skilled work visa. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Main pathways include Skilled Worker visa and Scale-up visa. Those with a UK 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-makers-tool-fitters-and-markersout/UK)**

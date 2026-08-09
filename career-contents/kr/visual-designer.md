@@ -4,8 +4,6 @@
 
 A professional who designs the image of brands, products, and services through visual communication, working in diverse fields such as graphics, editorial, and UI/UX.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who designs the image of brands, products, and services through v
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is replacing some tasks like logo generation and image retouching, but creative concepts and strategic design remain human domains. Productivity gains from AI tools are expected, and advanced designers will need to use AI as a collaboration tool.
-
 Career is typically built on a portfolio; freelancers, agencies, or in-house design teams are options. Mid-level can advance to art director or design team leader, or specialize in areas like UX/UI or motion graphics.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Career is typically built on a portfolio; freelancers, agencies, or in-house des
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled workers in professional design fields, requires employer sponsorship |
-| Subclass F-2 (Residence) | Granted to long-term residents, allows free employment, points-based |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking after design graduation, requires conversion upon employment |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: Junior designers can advance to senior, art director, design team lead, or sp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-designer/KR)**

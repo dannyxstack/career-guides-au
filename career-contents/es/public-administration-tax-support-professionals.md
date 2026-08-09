@@ -4,8 +4,6 @@
 
 In Spain's public administration, professionals who provide tax-related support assist in tax collection, taxpayer consultation, and tax document review, serving as an important pillar for the operation of the tax system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ In Spain's public administration, professionals who provide tax-related support 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance tax assistance work efficiency, but due to limitations in public sector regulations and data security requirements, the likelihood of complete replacement is low, and job responsibilities are shifted toward high-value analysis.
-
 You can be promoted from junior tax assistant to tax technician or tax inspector, with experience gained through internal exams and training. Some can turn to private tax advisors or the financial sector, but the public sector path is clearer.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted from junior tax assistant to tax technician or tax inspector
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | A public sector work contract is required, but it is extremely difficult for foreigners to enter Spain's public sector, usually requiring EU citizenship or long-term residency. |
-| Subclass Busqueda empleo (Job Search Visa) | Highly skilled talents can first seek jobs, but public sector positions are not suitable. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Higher education is usually required: FP Grado Superior (2 years) or a bachel
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-administration-tax-support-professionals/ES)**

@@ -51,8 +51,6 @@ NGO officers perform administrative and clerical work in industry associations, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will amplify NGO officials' analytical, communication, and project management skills, enabling more efficient data processing, report writing, and volunteer coordination, but core social missions and interpersonal trust still require humans.
-
 Career progression from junior administrative officer to senior policy officer or department manager, with lateral moves to public sector or private sector social responsibility roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression from junior administrative officer to senior policy officer o
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Gain project management experience, obtain relevant certifications (e.g., PRI
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/officers-of-nongovernmental-organisations/UK)**

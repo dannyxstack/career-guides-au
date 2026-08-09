@@ -51,8 +51,6 @@ Economists and economic policy researchers and analysts study and analyze econom
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Junior economists typically engage in data collection and analysis; progress to senior analyst or policy advisor, then to chief economist or department head.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior economists typically engage in data collection and analysis; progress to 
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs, suitable for applicants with a job offer or target province. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support work permits and immigration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With growing demand for data analysis and policy, economists have good career
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economists-and-economic-policy-researchers-and-analysts/CA)**

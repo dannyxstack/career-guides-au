@@ -53,8 +53,6 @@ Fishmongers and poultry processors clean, cut, and prepare fish and poultry for 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
-
 Can progress from junior assistant to senior processor or supervisor. Some may move to quality control, food safety inspection, or management. Experienced workers can run their own fish stall or poultry shop.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior assistant to senior processor or supervisor. Some may m
 | Subclass Skilled Worker (Skilled Worker visa) | Theoretically eligible for sponsorship, but usually not for low-skilled occupations. Salary must meet the general threshold of £26,200/year; this occupation typically does not reach that. |
 | Subclass Graduate (Graduate visa) | Suitable for graduates to gain experience, but the occupation has no education requirement, limiting visa value. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: This occupation typically does not meet skilled visa requirements due to low 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishmongers-and-poultry-dressers/UK)**

@@ -52,8 +52,6 @@ Radiation therapists are on New Zealand's Green List Tier 1, eligible for direct
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
-
 Junior radiation therapists can progress to senior therapist, team leader, or clinical specialist. Can also move to medical physics, dosimetry, or management. PhD can lead to university teaching/research.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior radiation therapists can progress to senior therapist, team leader, or cl
 | Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration; radiation therapist degree plus registration can achieve high points; approx. 6 points needed to apply. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a temporary work pathway, followed by a transition to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -149,12 +145,13 @@ A: No. This occupation is on Tier 1 of the Green List, eligible for Straight to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiation-therapist/NZ)**

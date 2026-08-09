@@ -53,8 +53,6 @@ Tour guides lead groups or individuals on tours of attractions, museums, or citi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
-
 Tour guides can start part-time, advance to senior guide or team leader after gaining experience, or transition to tourism coordination, event planning, or tourism management. Some guides improve career prospects by obtaining a provincial guide license.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Tour guides can start part-time, advance to senior guide or team leader after ga
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can be promoted to senior tour guide, tour guide supervisor, travel coordinat
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-and-travel-guides-64320/CA)**

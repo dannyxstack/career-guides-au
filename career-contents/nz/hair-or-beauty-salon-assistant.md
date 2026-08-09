@@ -56,8 +56,6 @@ Assist hairdressers and beauticians with basic tasks like washing, blow-drying, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
-
 Career path: from assistant to junior hairdresser or beautician, then progressing to senior technician, store manager, or self-employed. Typically requires completing a national certificate (NZ Certificate in Hairdressing/Beauty Therapy) and industry registration.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Career path: from assistant to junior hairdresser or beautician, then progressin
 | Subclass Green List T1 (Green List Tier 1 Direct Residence) | Green List Tier 1 direct residence; this occupation is not on the list. |
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | Green List Tier 2 work to residence, this occupation is not on the list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Usually start as an assistant, complete an NZQA-recognized national certifica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hair-or-beauty-salon-assistant/NZ)**

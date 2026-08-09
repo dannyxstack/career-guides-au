@@ -1,8 +1,8 @@
-# Construction & Well-drilling Machinery Operator 职业分析 · 日本
+# 建筑与钻井机械操作员（Construction & Well-drilling Machinery Operator）职业分析 · 日本
 
-**职业代码: 645 (JSCO)**
+**职业代码：645 (JSCO)**
 
-Operates heavy machinery (cranes, excavators, drills) at construction sites and well-drilling projects, handling foundational tasks.
+在建筑工地和钻井项目中操作重型机械（起重机、挖掘机、钻机），从事基础工作。
 
 
 ---
@@ -11,8 +11,8 @@ Operates heavy machinery (cranes, excavators, drills) at construction sites and 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Public high school tuition support available） |
-| Vocational school (Construction) | 2 年 | $1,000,000~$2,500,000（Hands-on curriculum advantageous for employment） |
+| 高中文凭 | 3年 | $0~$300,000（公立高中学费支持可用） |
+| 职业学校（建筑） | 2 年 | $1,000,000~$2,500,000（实践课程有利于就业） |
 
 ---
 
@@ -20,18 +20,18 @@ Operates heavy machinery (cranes, excavators, drills) at construction sites and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Vehicle Construction Machinery Operation (Leveling/Transporting/Loading) Skills Training | Prefectural Labor Bureau-registered training institution | 必备 | Required for basic earthmoving machinery |
-| Vehicle Construction Machinery Operation (Demolition) Skills Training | Prefectural Labor Bureau-registered training institution | 可选 | Required for demolition breakers and grapples |
-| Floor-operated Crane Operation Skills Training | Prefectural Labor Bureau-registered training institution | 可选 | Beneficial for crane operation |
+| 车辆工程机械操作（平整/运输/装载）技能培训 | 都道府县劳动局注册培训机构 | 必备 | 基础土方机械所需 |
+| 汽车施工机械操作（拆除）技能培训 | 都道府县劳动局注册培训机构 | 可选 | 拆除破碎机和抓斗必备 |
+| 地面操作起重机技能培训 | 都道府县劳动局注册培训机构 | 可选 | 对起重机操作有益 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 290,000. Demand stable from 2025 onward due to public investment and aging infrastructure; skill transfer challenges due to youth labor shortage.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 290,000。由于公共投资和老旧基础设施，2025年起需求稳定；青年劳动力短缺导致技能转移困难。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ Operates heavy machinery (cranes, excavators, drills) at construction sites and 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Mid-3 million yen range including overtime |
-| 中级（4-9年） | $4,000,000~$5,500,000 | Senior operator class |
-| Advanced (10+ years) | $5,500,000~$7,500,000 | Site supervisor or large-certification holder |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 含加班费300多万日元 |
+| 中级（4-9年） | $4,000,000~$5,500,000 | 高级操作员级 |
+| 高级（10年以上） | $5,500,000~$7,500,000 | 现场主管或大型证书持有者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technology are being introduced to complement autonomous driving and remote operation of construction machinery. Complete replacement is difficult, evolving to enhance the skills of experienced operators.
+AI和自动化技术被引入以辅助自动驾驶和远程操作工程机械，完全取代较难，正朝着提升有经验操作员技能的方向发展。
 
-Promotion to construction manager or safety officer after gaining field experience and large-vehicle licenses; path to contractor or self-employed.
+获得现场经验和大车驾照后晋升为施工经理或安全员；可成为承包商或个体经营者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive driving tasks
-- Tasks where safety checks can be partially automated
+- 简单的重复驾驶任务
+- 安全检查可部分自动化的任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- High-precision construction with ICT construction machinery
-- Monitoring tasks for remote control and autonomous driving
+- 使用ICT工程机械的高精度施工
+- 远程控制与自动驾驶的监控任务
 
-**人类护城河:**
+**人类护城河：**
 
-- Instinct and experience in complex terrain
-- Judgment of ground conditions
-- Accurate operation in emergencies
-- Coordination with the on-site team
+- 复杂地形中的直觉与经验
+- 地面状况判断
+- 紧急情况下的准确操作
+- 与现场团队协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ICT machinery operation
-- Drone surveying and point cloud data processing
-- Basic construction management
-- Safety and health management
+- ICT机械操作
+- 无人机测量与点云数据处理
+- 基础施工管理
+- 安全与健康管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction site
-- Infrastructure aging
-- Technical Intern Training
-- Automated construction
+- 建筑工地
+- 基础设施老化
+- 技能实习制度
+- 自动化施工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Acceptance framework for foreign workers in construction. Requires passing skill tests, etc. |
-| Subclass 技能実習 (Technical Intern Training (Construction)) | Skill transfer including construction machinery operation. Max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For managerial roles requiring construction engineering knowledge. Direct operation may not be allowed. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in machinery operation
-- Those who don't mind outdoor work
-- Those who want to learn a trade
+- 对机械操作感兴趣的人
+- 不介意户外工作的人
+- 想学一门手艺的人
 
 **谁不适合**
-- Those who prefer desk work
-- Those sensitive to heights and noise
+- 偏好办公室工作的人
+- 对高度和噪音敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a construction machinery operator?**
-答：First year: 3-4 million yen; 10+ years: 5.5-7.5 million yen. Varies with overtime and certifications.
+**问：建筑机械操作员的年收入是多少？**
+答：第一年：300-400万日元；10年以上：550-750万日元。因加班和认证而异。
 
-**问：What visa is required for foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) (Construction) or Technical Intern Training (Construction) is common. Experience in construction or passing a skills test is required.
+**问：外国人在此职业工作需要什么签证？**
+答：常见路径为特定技能工人（i）（建筑）或技能实习（建筑）。需要建筑经验或通过技能测试。
 
-**问：What is the path for promotion or career advancement?**
-答：After obtaining a large vehicle license, you can acquire qualifications like construction management engineer or safety and health manager, aiming to become a site supervisor or self-employed.
+**问：晋升或职业发展路径是什么？**
+答：获得大型车辆驾照后，可获取建筑管理工程师或安全健康经理等资格，目标是成为现场主管或自主创业。
 
 
 ---
@@ -142,12 +135,12 @@ Promotion to construction manager or safety officer after gaining field experien
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-welldrilling-machinery-operator/JP)**

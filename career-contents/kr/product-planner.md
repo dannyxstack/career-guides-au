@@ -4,8 +4,6 @@
 
 A professional who plans new products based on market research and consumer analysis, establishing strategies for product concept, design, pricing, and distribution.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who plans new products based on market research and consumer anal
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will assist merchandisers in data collection, analysis, and trend prediction, but creative ideation and strategic decision-making will remain human-led.
-
 Starting in marketing or planning departments, they grow into product planning experts, with potential for team leader or department head roles after 5-10 years of experience.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Starting in marketing or planning departments, they grow into product planning e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires related career and degree in product planning as a professional worker; employer application mandatory |
-| Subclass F-2 (F-2 (Residence)) | No employment restrictions with long-term stay, but initial acquisition is difficult |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: E-7 (Specific Activities) visa is common, requiring relevant degree and exper
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-planner/KR)**

@@ -50,8 +50,6 @@ A specialist responsible for the design, construction, operation, and maintenanc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will replace some parts of network monitoring and fault response, but advanced decisions such as design, tuning, and security remain human roles. It's a field where efficiency improves through AI support.
-
 After joining, work begins with on-site tasks and maintenance, progressing to design and management with experience. Career advancement to project manager or consultant is possible through certification and specialization.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ After joining, work begins with on-site tasks and maintenance, progressing to de
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable when hired as a network engineer. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Information and Telecommunications)) | Information and telecommunications field added from 2024. Requires passing exam and Japanese language ability. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For skilled workers. Allows family accompaniment and permanent residency. Expanding target fields. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Demand remains strong due to the expansion of 5G/6G and IoT. Although AI-driv
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-network-engineer/JP)**

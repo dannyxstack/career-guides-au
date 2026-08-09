@@ -52,8 +52,6 @@ Primary school teachers in Germany teach at the primary education level, coverin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
-
 Career paths include becoming a senior teacher, grade-level leader, school leader, or education consultant. One can also enter teacher training or education administration. A doctoral degree can lead to university teaching or research roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career paths include becoming a senior teacher, grade-level leader, school leade
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Requires academic credential recognition (Anerkennung), proving equivalence t
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/DE)**

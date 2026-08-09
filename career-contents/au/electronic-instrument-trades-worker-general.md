@@ -53,8 +53,6 @@ Electronic instrument trade worker (general) installs, tests, maintains and repa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical and electronics engineers face mixed impacts from AI: repetitive tasks like design verification and wiring optimization can be automated, but complex system integration, innovative design, and safety compliance still require human judgment; using AI properly can improve efficiency.
-
 Career development paths include promotion to senior technician, supervisor, or project manager, or transitioning via additional training to engineer or system designer.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career development paths include promotion to senior technician, supervisor, or 
 | Subclass 189 (Skilled Independent Visa) | Independent skilled migration, requires EOI points and skills assessment |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence, requires state nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior technician, supervisor or project manager, or become an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-instrument-trades-worker-general/AU)**

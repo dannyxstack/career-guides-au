@@ -51,8 +51,6 @@ Covers engineering roles not specifically classified, including but not limited 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on unclassified engineering professionals is mixed: some tasks like data analysis and design optimization will be automated, but interdisciplinary innovation and complex system integration still require humans; overall risk is manageable.
-
 Career path can progress from technical specialist to project manager or R&D lead, requiring continuous learning of new technologies; senior roles require professional engineering registration.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Career path can progress from technical specialist to project manager or R&D lea
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and a contract with above-average salary, valid for 1-4 years, can bring family. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship, limited quota, suitable for blue-collar or skilled workers. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for a work permit from the labor bureau, which reviews the labor contract and qualifications, and then the employer can apply for a work visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Yes, engaging in certain regulated engineering roles requires registration wi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-professional-not-elsewhere-classified/IT)**

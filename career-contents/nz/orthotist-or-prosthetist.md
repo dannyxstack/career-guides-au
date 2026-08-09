@@ -53,8 +53,6 @@ Orthotists or prosthetists design, manufacture, and fit orthoses or prostheses t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
-
 Junior orthotists or prosthetists can gain experience and advance to senior technician or team leader roles, or specialize in areas like pediatric prosthetics or sports orthotics. Some move into sales or management, or open private practices.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior orthotists or prosthetists can gain experience and advance to senior tech
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, based on a 6-point system; this occupation can receive points for education, meeting salary and registration requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa, for applicants without direct residence, can serve as a transitional pathway. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires assessment by the New Zealand Board of Orthotists and Prosthetists, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthotist-or-prosthetist/NZ)**

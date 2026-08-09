@@ -1,8 +1,8 @@
-# Building Manager 职业分析 · 日本
+# 楼宇管理员（Building Manager）职业分析 · 日本
 
-**职业代码: 413 (JSCO)**
+**职业代码：413 (JSCO)**
 
-A profession responsible for overall building maintenance, including cleaning, facility inspections, and tenant relations for buildings and condominiums.
+负责建筑物和公寓的整体维护，包括清洁、设施检查和租户关系的职业。
 
 
 ---
@@ -11,9 +11,9 @@ A profession responsible for overall building maintenance, including cleaning, f
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory education (junior high school graduation) | 无 | $0~$0（No educational background required） |
-| Vocational training (at Hello Work, etc.) | 3个月 | $0~$100,000（Free in some municipalities） |
-| Building Cleaning Skilled Worker Training | 1年 | $300,000~$500,000（Includes correspondence education） |
+| 义务教育（初中毕业） | 无 | $0~$0（无学历要求） |
+| 职业培训（在Hello Work等处） | 3个月 | $0~$100,000（部分市镇免费） |
+| 建筑清洁技工培训 | 1年 | $300,000~$500,000（包括函授教育） |
 
 ---
 
@@ -21,19 +21,19 @@ A profession responsible for overall building maintenance, including cleaning, f
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Building Cleaning Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Levels 1 and 2; valid for skill assessment |
-| Building Cleaning Management Qualification | Ministry of Health, Labour and Welfare | 可选 | Required for building management |
-| Fire Prevention Manager | Fire Department | 可选 | Required for fire prevention duties |
-| Specified Skilled Worker (i) (Building Cleaning) | Immigration Services Agency of Japan | 可选 | For foreign workers |
+| 建筑清洁技工 | 厚生劳动省 | 可选 | 1级和2级；技能评估有效 |
+| 建筑清洁管理资格 | 厚生劳动省 | 可选 | 建筑管理所需 |
+| 消防经理 | 消防部门 | 可选 | 消防职责所需 |
+| 特定技能工人(i)（建筑清洁） | 出入国在留管理厅 | 可选 | 针对外国工人 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Demand remains stable due to aging buildings and a persistent shortage of managers. Acceptance of foreign workers is expanding, especially in the 'Building Cleaning' field under Specified Skilled Worker status.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于建筑老化和管理人员持续短缺，需求保持稳定。在特定技能工人身份的“建筑清洁”领域，接受外国工人的范围正在扩大。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,92 +41,85 @@ A profession responsible for overall building maintenance, including cleaning, f
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $2,500,000~$3,200,000 | Annual salary ¥2.5–3.2M |
-| 中级（3-7年） | $3,200,000~$4,000,000 | Annual salary ¥3.2–4.0M |
-| 高级（7年以上） | $4,000,000~$5,000,000 | Managerial roles can exceed ¥5M |
+| 初级（0-3年） | $2,500,000~$3,200,000 | 年薪250-320万日元 |
+| 中级（3-7年） | $3,200,000~$4,000,000 | 年薪320-400万日元 |
+| 高级（7年以上） | $4,000,000~$5,000,000 | 管理职位可超过¥500万 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-Cleaning robots and AI monitoring are being introduced, but human response to residents and flexible decision-making is necessary. Complete replacement is difficult; complementary roles will expand.
+清洁机器人和AI监控正在引入，但人类对居民的反应和灵活决策是必要的。完全替代困难；互补角色将扩大。
 
-Easy to start with no experience; career progression to management roles or site supervisor at cleaning companies is possible. Certification can lead to career advancement.
+无经验易入门；可晋升至管理岗位或清洁公司现场主管。持有认证可促进职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Floor cleaning
-- Part of periodic cleaning
-- Remote monitoring of equipment
+- 地板清洁
+- 属于定期清洁的一部分
+- 远程监控设备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Resident response
-- Trouble response
-- Operation management of cleaning robots
+- 居民响应
+- 故障响应
+- 清洁机器人的运营管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Customer service
-- Flexible decision-making
+- 客户服务
+- 灵活决策
 - 注重细节
 
-**需构建的技能:**
+**需构建的技能：**
 
-- IT literacy
-- Customer service
-- Cleaning robot operation methods
+- IT素养
+- 客户服务
+- 清洁机器人操作方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population and labor shortage
-- Specified Skilled Worker Building Cleaning
-- Introduction of cleaning robots
-- Building management DX
+- 人口老龄化和劳动力短缺
+- 特定技能工人 建筑清洁
+- 引入清洁机器人
+- 楼宇管理数字化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | For foreign workers in building cleaning. Requires Japanese and skills exams. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for managerial or advanced roles. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | Aims to acquire skills over 3 years. Transfer to Specified Skilled Worker possible. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those skilled in detailed tasks
-- Those who enjoy interacting with people
-- People confident in physical strength
+- 擅长处理细节任务的人
+- 喜欢与人互动者
+- 体力充沛的人
 
 **谁不适合**
-- People who prefer creative work
-- People who prefer a quiet environment
+- 喜欢创造性工作的人
+- 喜欢安静环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a building manager?**
-答：Beginner: 2.5-3.2 million yen, intermediate: 3.2-4 million yen, advanced: 4-5 million yen. Managerial positions may exceed 5 million yen.
+**问：建筑经理的平均年收入是多少？**
+答：初级：250-320万日元，中级：320-400万日元，高级：400-500万日元。管理职位可能超过500万日元。
 
-**问：What visa is needed for foreigners to work as building managers?**
-答：Mainly Specified Skilled Worker (i) (Building Cleaning). Must pass Japanese language and skills tests. Many transition from technical intern training.
+**问：外国人担任建筑经理需要什么签证？**
+答：主要为特定技能（i）（楼宇清洁）。需通过日语和技能考试。多从技能实习制度转入。
 
-**问：Can I become one even with no experience?**
-答：Yes, no academic background or experience required. Many job postings at Hello Work and job sites; vocational training is also available.
+**问：没有经验也能成为吗？**
+答：是的，无需学历或经验。Hello Work和招聘网站上有许多职位；也提供职业培训。
 
 
 ---
@@ -144,12 +137,12 @@ Easy to start with no experience; career progression to management roles or site
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-manager/JP)**

@@ -49,8 +49,6 @@ Experts who research and design drug development and production processes, playi
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI accelerates the initial candidate screening and process optimization in drug development, but final judgment and experimental design remain the role of human experts, thus expanding the job scope.
-
 After joining a large company or research institute with a master's or doctoral degree, you build expertise through promotion from researcher to senior, principal, team leader, etc.
 
 **Tasks most exposed to AI:**
@@ -88,15 +86,9 @@ After joining a large company or research institute with a master's or doctoral 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa (E-7)) | For professionals in pharmaceutical/bio sector; stay of 3–5 years |
-| Subclass D-10 (Job-Seeker Visa (D-10)) | Used when PhD degree holders are job-seeking |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +132,12 @@ A: A master's or higher in pharmacy, chemical engineering, etc., is common, with
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmaceutical-engineering-technologists-and-researchers/KR)**

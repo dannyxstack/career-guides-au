@@ -51,8 +51,6 @@ Provide academic, social, and life skills instruction to elementary students wit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Starting from a regular teaching role, you can progress to special education coordinator, mentor, or school administrator as you gain experience. Some teachers choose to pursue a master's or doctorate, moving into university teaching or research.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting from a regular teaching role, you can progress to special education coo
 | Subclass TN (TN NAFTA Professional) | Canadian and Mexican citizens may apply, but must meet specific occupation lists |
 | Subclass J-1 (Exchange Visitor (Teacher)) | Cultural exchange program, short-term teaching, waiver of home residency requirement possible |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires a bachelor's degree in special education or related field, a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teachers-elementary-school/US)**

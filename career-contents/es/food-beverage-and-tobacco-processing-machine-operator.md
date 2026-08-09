@@ -4,8 +4,6 @@
 
 Operate and monitor machinery used to produce food, beverages, and tobacco products, including mixing, molding, packaging, and other processes to ensure production meets safety and quality standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate and monitor machinery used to produce food, beverages, and tobacco produ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of operators in food, beverage, and tobacco processing machines will undergo structural changes due to AI and automation technologies: routine monitoring and simple adjustments will largely be replaced by automation, but AI will enhance operator capabilities in quality inspection, process optimization, and failure prediction, while requiring operators to master digital skills and maintain exception handling capabilities.
-
 Junior operators can be promoted to production line supervisors or quality control technicians, and through vocational training (such as FP), they can transition to food technology specialists or production managers. Some experienced individuals can start their own businesses and set up small food processing factories.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior operators can be promoted to production line supervisors or quality contr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, applicable to non-EU citizens, and proof that the position cannot be filled by locals. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6 months looking for a job, provided you have sufficient funds. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually requires intermediate vocational education (FP Grado Medio) or releva
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-beverage-and-tobacco-processing-machine-operator/ES)**

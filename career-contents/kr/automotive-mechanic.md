@@ -52,8 +52,6 @@ A specialized technical professional who inspects, disassembles, assembles, repa
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation assist some tasks such as vehicle diagnosis, maintenance record management, and parts inventory management, but physical disassembly, assembly, and repair require human skill, making complete replacement difficult. However, the shift to EVs will reduce maintenance frequency, shrinking overall job numbers.
-
 Promotion path: Automotive Mechanic → Industrial Engineer Auto Maintenance → Maintenance Team Leader/Plant Manager. Acquiring electric/hybrid vehicle maintenance certifications is advantageous for career expansion.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Promotion path: Automotive Mechanic → Industrial Engineer Auto Maintenance →
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon employment contract as a skilled auto mechanic. Requires experience and qualifications. |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to unskilled simple repair assistance. Partially possible through the Employment Permit System. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay and free employment possible when converting from E-7 to F-2. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: It is not mandatory, but with the expansion of EVs, it is advantageous for em
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-mechanic/KR)**

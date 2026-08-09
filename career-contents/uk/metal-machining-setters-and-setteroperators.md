@@ -53,8 +53,6 @@ Operates machine tools to drill, bore, grind, cut, mill and shape metal workpiec
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Progress from operator to senior tuner, production supervisor, or through further training to CNC programmer or process engineer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from operator to senior tuner, production supervisor, or through furthe
 | Subclass Scale-up (Scale-up visa) | Suitable for fast-growing companies, requires sponsorship but with flexible conditions |
 | Subclass Graduate (Graduate visa) | UK graduates can obtain a two-year residence permit to look for work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, apprenticeships are a common pathway; they provide wages and certificati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-machining-setters-and-setteroperators/UK)**

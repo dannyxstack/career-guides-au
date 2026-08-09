@@ -51,8 +51,6 @@ Mechanical drafters prepare detailed working drawings of machinery and mechanica
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Mechanical drafting work is highly structured, with many drawing and dimensioning tasks likely to be replaced by AI; entry-level positions are shrinking rapidly, requiring upgrades toward design/engineering.
-
 Junior draftspersons can advance to senior draftspersons or design engineers by gaining experience, or transition to project management or technical sales roles. Continuing education, such as obtaining an engineering degree, can broaden career pathways.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior draftspersons can advance to senior draftspersons or design engineers by 
 | Subclass EB-3 (EB-3 Skilled Worker) | PERM labor certification required, long wait times |
 | Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens, must meet relevant occupation list |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: CAD automation will reduce low-end drafting jobs, but complex design and engi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-drafters/US)**

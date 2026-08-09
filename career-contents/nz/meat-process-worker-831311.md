@@ -52,8 +52,6 @@ Engage in meat cutting, deboning, and packing in slaughterhouses and meat proces
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial butchers and meat cutters face high automation risk; large plants already use robots for repetitive cutting, deboning, and packaging. Cold storage accelerates machine deployment; positions may shrink by over 30% in the next decade.
-
 Start as entry-level portioner, progress to boner, quality inspector or team leader. With experience, can apply for residency and move into slaughterhouse management or export inspection.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Start as entry-level portioner, progress to boner, quality inspector or team lea
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Yes, this occupation is on the Green List Tier 1; meeting the median salary a
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-process-worker-831311/NZ)**

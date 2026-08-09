@@ -52,8 +52,6 @@ A profession teaching English language skills to non-native speakers. New Zealan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
-
 Can progress from language school teacher to academic director or curriculum development, or enter secondary school teaching. Must complete New Zealand teacher registration or relevant qualification.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from language school teacher to academic director or curriculum dev
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirement (qualifications + work experience), eligible for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | Hold a job offer from an accredited employer, can apply for a work visa, then later transition to residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: TESOL certificate (NZQA recognized) usually required, some positions need tea
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/esl-teacher/NZ)**

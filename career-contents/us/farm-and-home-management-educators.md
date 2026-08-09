@@ -53,8 +53,6 @@ Advise individuals and families engaged in agriculture or home management, demon
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on farm and family management educators is mixed: routine knowledge transfer and material organization can be automated, but practical demonstrations, personalized consultations, and community relationship maintenance are hard to replace; proactive integration of AI tools to enhance efficiency is needed.
-
 Can progress from extension assistant to regional specialist or project manager; some move to agribusiness training or university extension leadership roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from extension assistant to regional specialist or project manager;
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree in agriculture or home economics; some
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farm-and-home-management-educators/US)**

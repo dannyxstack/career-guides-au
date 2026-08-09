@@ -53,8 +53,6 @@ Responsible for planning, organizing, and managing operations in tourism, sports
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Starting as department manager or team leader, can advance to regional manager, operations director. With experience, may transition to consulting, entrepreneurship, or senior management in large hotel chains or sports organizations.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as department manager or team leader, can advance to regional manager, 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must have a job offer from a German employer, occupation related to degree, no minimum salary requirement (but must meet minimum income threshold). |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing entry to Germany to look for work, requiring qualifications, language skills, etc. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Main pathway is through EU Blue Card (requires university degree and salary t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-tourism-and-sports/DE)**

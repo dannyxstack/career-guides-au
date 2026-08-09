@@ -4,8 +4,6 @@
 
 General practitioners and specialists in France are engaged in disease prevention, diagnosis, and treatment, including outpatient, inpatient, and emergency services. This profession is regulated by the French Medical Council and requires a national medical diploma and a medical license.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ General practitioners and specialists in France are engaged in disease preventio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core diagnostics, complex treatments, and doctor-patient communication tasks for general practitioners and specialists are difficult to replace, but tasks such as medical record recording, initial imaging screening, and medication consultation will be significantly automated by AI, showing an overall complementary trend.
-
 Your career starts as a resident physician and gradually advances to specialist or general practitioner, with the option to open a private clinic or work in a hospital. At the advanced stage, you can serve as a department head, teaching, or research position.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Your career starts as a resident physician and gradually advances to specialist 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Ca (EU Blue Card / Talent Passport) | Suitable for highly skilled doctors, requiring long-term contracts and a certain salary level (usually 1.5 times higher than the French average). |
-| Subclass Salarié (Employee Work Permit) | Applicable to those employed by French medical institutions who need to obtain a work permit and certification |
-| Subclass Recherche d'emploi / (Job Search / Business Creation) | After graduation, you can apply for a one-year job-seeking residence permit to find a job or open a clinic |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: It usually takes 10-12 years: 6 years of basic medicine (Phase 1), followed b
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-practitioner-and-specialist-physician/FR)**

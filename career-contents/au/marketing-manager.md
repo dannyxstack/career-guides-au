@@ -55,8 +55,6 @@ Marketing managers are responsible for developing and executing brand marketing 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
-
 Australia's corporate digital transformation is driving significant shifts in marketing budgets towards digital channels. Data-driven marketing (Google Analytics/HubSpot/Salesforce Marketing Cloud) has become the industry standard. AI marketing tools (ChatGPT content generation, automated ad optimisation) are reshaping how marketing teams work, though marketing strategy development and brand creativity still require human marketing managers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Australia's corporate digital transformation is driving significant shifts in ma
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -172,12 +168,13 @@ A: Business Analysts earn slightly more ($110k–$130k vs Marketing Manager $95k
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marketing-manager/AU)**

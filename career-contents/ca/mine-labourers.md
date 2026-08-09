@@ -54,8 +54,6 @@ Miners perform manual labor such as material handling, equipment cleaning, and a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Miners can advance to operator or shift supervisor through experience, some transition via apprenticeships to heavy equipment technician or mining technician.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Miners can advance to operator or shift supervisor through experience, some tran
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can advance to mining operator, shift supervisor, or become heavy equipment t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mine-labourers/CA)**

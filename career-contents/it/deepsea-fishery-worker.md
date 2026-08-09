@@ -52,8 +52,6 @@ Deep-sea fishery workers engage in commercial fishing operations in Italian wate
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Deep-sea fishery workers face automation risks (navigation, monitoring) and AI augmentation opportunities (fish school prediction, catch processing), but physical labor, maritime hazards, and environmental judgment are difficult to fully replace.
-
 Entry-level crew can advance to fishing master or deck foreman; with experience, they can become captain or fisheries manager. Some workers transition to aquaculture or maritime regulatory roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Entry-level crew can advance to fishing master or deck foreman; with experience,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU workers, requires a university degree or equivalent skills, with an annual salary threshold of approximately €24,000 (to be confirmed), but this occupation usually does not meet the educational requirements. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-EU seasonal workers, requires employer sponsorship. Suitable for seasonal work like deep-sea fishing. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Italian work permit, applied for by the employer, requiring proof that no EU citizen is available. A long-term contract can be converted into a residence permit. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Can advance from ordinary crew to fishing master, captain, or transition to a
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deepsea-fishery-worker/IT)**

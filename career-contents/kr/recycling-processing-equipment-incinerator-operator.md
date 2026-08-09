@@ -51,8 +51,6 @@ A professional environmental facility expert who operates and controls waste rec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation enhance some monitoring and predictive maintenance, but complete replacement is difficult as human judgment and adaptability are essential for waste sorting and equipment failure response.
-
 Mainly hired as production workers, after gaining equipment operation experience, can advance to senior operator, shift leader, or process manager; obtaining environmental-related certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Mainly hired as production workers, after gaining equipment operation experience
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Applicable as Skilled Worker (E-7-1), requires environment/recycling field experience |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Allowed in manufacturing/environment sectors under Employment Permit System; skilled workers may switch to E-7 |
-| Subclass F-2 (F-2 (Residence)) | E-7→F-2 Permanent Residency path, long-term stay possible |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Shift work within incineration and recycling facilities, with potential expos
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recycling-processing-equipment-incinerator-operator/KR)**

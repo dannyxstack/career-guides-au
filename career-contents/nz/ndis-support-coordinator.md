@@ -51,8 +51,6 @@ NDIS support coordinators assist people with disabilities in Australia in unders
 **Future prospect: very low (½☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-NDIS support coordinators will not be replaced by AI; instead, AI tools (e.g. automated document processing, data analysis, service matching) will amplify their capabilities and efficiency. However, continuous learning of digital tools is needed to stay competitive.
-
 In New Zealand, the disability support field can transition to community support worker or disability service manager, but NDIS coordinator skills are not directly transferable.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ In New Zealand, the disability support field can transition to community support
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: New Zealand does not have this occupation; no salary data available.
 | Future prospect | very low (½☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ndis-support-coordinator/NZ)**

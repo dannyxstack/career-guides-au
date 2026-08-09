@@ -52,8 +52,6 @@ Operate equipment to increase oil well flow, or remove blockages in drilling (e.
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Oil and gas well service operators rely heavily on on-site physical operations and equipment judgment; AI partially substitutes remote monitoring and data analysis tasks, but key operational decisions and hands-on repairs remain hard to automate, overall mixed outlook.
-
 Can progress from operator to senior operator, team leader, or supervisor; some move into management roles in oil and gas service companies; requires continuous learning of new equipment and safety standards.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from operator to senior operator, team leader, or supervisor; some 
 | Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to a very small number of top technicians |
 | Subclass Green Card (PERM) (EB-3 Skilled Worker) | Requires employer to prove labor shortage, but difficult due to sufficient local labor |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can advance from junior operator to senior operator, team leader, field super
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-unit-operators-oil-and-gas/US)**

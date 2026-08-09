@@ -53,8 +53,6 @@ Precision instrument manufacturing and repair technicians make, calibrate, test,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Precision instrument manufacturing and repair technicians face mixed AI impact: repetitive calibration and data recording tasks can be automated, but high-precision manual debugging, fault diagnosis, and customer service still require human judgment, with demand likely shifting to high-end customization and comprehensive repair.
-
 Usually start as an apprentice, gradually advancing to senior technician or team supervisor. Some may specialize in certain instruments (e.g., watches or optics), or move into quality management, technical sales, etc., with a few starting repair shops.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as an apprentice, gradually advancing to senior technician or team
 | Subclass Scale-up (Scale-up Visa) | Applicable to precision instrument technical roles in high-growth enterprises, subject to salary conditions and company size requirements. |
 | Subclass Graduate (Graduate Visa) | Allows UK university graduates to work in the UK for 2 years (3 years for PhD) in relevant roles to gain work experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically entered via an advanced apprenticeship (3-4 years), combining on-th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precision-instrument-makers-and-repairers/UK)**

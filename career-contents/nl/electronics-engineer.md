@@ -51,8 +51,6 @@ Design, develop, and maintain electronic systems and components, widely used in 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on electronic engineers is mixed: design verification and debugging tasks can be assisted by AI, but hardware innovation, fault diagnosis, and compliance responsibilities still rely on human experience. Overall risk is manageable, and proactive adoption of AI tools is recommended.
-
 Can advance from junior design engineer to senior engineer, technical supervisor, or architect. With experience, you can move into system design, project management, or R&D management roles.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can advance from junior design engineer to senior engineer, technical supervisor
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants earning above the salary threshold; employers must be government-approved sponsors. |
-| Subclass EU Blue Card (EU Blue Card) | Professionals with higher education degrees and an annual salary meeting the EU Blue Card threshold can obtain residency quickly. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from the Netherlands or top global universities can apply for a one-year job search visa. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can progress from design engineer to senior engineer, project manager, or tec
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineer/NL)**

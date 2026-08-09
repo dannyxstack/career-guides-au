@@ -4,8 +4,6 @@
 
 Artisan who produces, installs, and repairs traditional Japanese tatami mats. Main tasks include replacing tatami surfaces, making new mats, and laying tatami on flooring.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Artisan who produces, installs, and repairs traditional Japanese tatami mats. Ma
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tatami making relies on manual work and craftsmanship, with low risk of AI or automation replacement. However, the profession is shrinking due to declining tatami room demand. While mechanized tatami weaving and material processing are automated, installation and repair require human experience and intuition.
-
 Start as an apprentice; become independent after passing the Grade 1 skill test. Career paths include independent business, workshop management, or wholesale/retail of tatami materials.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Start as an apprentice; become independent after passing the Grade 1 skill test.
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Target of specified skilled work in construction. Requires skill test and Japanese N4 or higher. Max stay 5 years. No family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Tatami work is generally excluded, but possible with construction management knowledge. Requires university degree or higher. |
-| Subclass 技能 (Skilled Labor Visa) | Applicable if outstanding skills are recognized. Requires 10+ years of practical experience. Expertise in Japanese-style room construction needed. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Demand for tatami rooms is declining, but there is steady demand in high-end 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tatami-maker/JP)**

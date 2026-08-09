@@ -51,8 +51,6 @@ Responsible for installation, configuration, maintenance, and security of enterp
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
-
 You can be promoted from junior administrator to senior system administrator, IT infrastructure manager, or move into specialized fields such as cybersecurity or cloud computing. After gaining experience, you can become an IT Supervisor or Chief Information Officer.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ You can be promoted from junior administrator to senior system administrator, IT
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, requires annual salary ≥€53,836.50 (2023 standard), valid for 1-4 years. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for IT professionals with a master's degree or more than 3 years of experience, valid for 4 years |
-| Subclass Salarié (Work Permit (Salarié)) | Employed by a French company requires an employer sponsorship, valid for 1 year with renewable renewal |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Usually, Bac+2 (BTS) or above is required, with Bac+5 (Master's) being more f
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-systems-administrator/FR)**

@@ -4,8 +4,6 @@
 
 Responsible for organizing and guiding various sports activities, promoting healthy lifestyles, and may work in schools, sports clubs, or community centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Responsible for organizing and guiding various sports activities, promoting heal
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on fitness trainers is mixed: some administrative and content creation tasks may be replaced, but core personalized guidance and emotional motivation are hard to automate; AI is more of an aid than a replacement.
-
 You can be promoted to sports director, coach, or open a personal studio, which requires gaining experience and progressing through the National Diploma (BPJEPS).
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ You can be promoted to sports director, coach, or open a personal studio, which 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Requires a contract from a French employer; eligible for work residence if salary and qualification requirements are met. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to high-skilled or special talents, requiring proof of outstanding ability, valid for 4 years. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Students can apply after graduation, valid for one year, and are used for job hunting. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: Minimum requirement is a BPJEPS diploma (1-2 years), or starting with CAP/Bac
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-activity-educator/FR)**

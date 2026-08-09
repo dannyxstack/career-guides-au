@@ -4,8 +4,6 @@
 
 Responsible for daily retail store operations, including product procurement, inventory management, customer service, and sales. Typically self-employed or small retailer.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for daily retail store operations, including product procurement, in
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on store owners is mixed: inventory management and basic customer service can be replaced by AI, but in-store interpersonal interaction, personalized service, and real-time decision-making remain advantages.
-
 Store owners can expand from a single shop to chain management or transition to e-commerce entrepreneurs. With experience, they can open more stores or move into retail management roles.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Store owners can expand from a single shop to chain management or transition to 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to managers employed by an approved sponsor; shop owners are usually self-employed, not applicable. |
-| Subclass Self-employed visa (Self-employed visa (Verblijfsvergunning als zelfstandige)) | Applicable to non-EU citizens starting a business in the Netherlands; requires evaluation by the Netherlands Enterprise Agency (RVO) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled employees, not for self-employed shop owners |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Shop owners can expand into chain operations or transition to e-commerce. Wit
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shopkeeper/NL)**

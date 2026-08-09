@@ -50,8 +50,6 @@ Mining and quarrying labourers perform physical labour in mines or quarries, inc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Heavy equipment automation and remote operation technology will reduce routine physical jobs for mining and quarrying labourers, but there remains ongoing demand for on-site supervision and anomaly handling.
-
 Limited career progression: can advance from laborer to operator or technician with additional training. Long-term, may move to site supervision or related industries.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Limited career progression: can advance from laborer to operator or technician w
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Typically requires a General Employment Permit, employer sponsorship, and mee
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-quarrying-labourer/IE)**

@@ -4,8 +4,6 @@
 
 Using non-metallic materials such as gypsum, resin, and ceramics, sculptures, models, or industrial components are manufactured through mold making, casting, and molding processes. The work includes preparing materials, operating equipment, and finishing finished products, commonly found in art casting, architectural decoration, or industrial prototyping.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Using non-metallic materials such as gypsum, resin, and ceramics, sculptures, mo
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Starting as a junior stylist, you can be promoted to senior stylist or team leader. After gaining experience, you can move into art casting, model making, or architectural decoration. Some practitioners enhance their reputation through competitions or exhibitions and take orders independently.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Starting as a junior stylist, you can be promoted to senior stylist or team lead
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | A work contract from a French employer is required, and it must be reviewed by the Labor Bureau. Non-in-demand occupations must prove that suitable candidates cannot be found in the EU. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for artists or individuals with special talent, requiring a portfolio or project plan. The visa is valid for 4 years. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually requires CAP in arts and crafts (2 years) or Bac Pro in arts and craf
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonmetal-materials-molder/FR)**

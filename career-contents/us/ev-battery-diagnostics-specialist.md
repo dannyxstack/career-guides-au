@@ -54,8 +54,6 @@ Electric vehicle battery diagnostic experts are responsible for fault diagnosis 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
-
 High-voltage battery diagnostics and health assessments in the United States have become a hot topic, with OEM diagnostics and high-voltage safety experts in high demand; Diagnostic readings can be automated, but high-voltage disassembly and assessment still require manual labor.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ High-voltage battery diagnostics and health assessments in the United States hav
 | Subclass EB-3 Skilled (Technician green card) | EB-3: Skilled worker/employment-based green card with employer sponsorship |
 
 **PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
 
 ---
 
@@ -160,11 +156,12 @@ A: It is more difficult to immigrate independently. As a technician position, th
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-battery-diagnostics-specialist/US)**

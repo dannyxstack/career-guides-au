@@ -51,8 +51,6 @@ As a professional who collects and analyzes large-scale data to draw business in
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation doesn't replace big data analysts but greatly improves work efficiency. Data preprocessing and basic statistical analysis are automated, but insight extraction and business context interpretation remain human domains.
-
 Career progression: Junior Analyst → Senior Analyst → Data Scientist or Manager (Team Lead/CTO). After 5+ years of experience, expansion into data engineering or AI is possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Career progression: Junior Analyst → Senior Analyst → Data Scientist or Mana
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Issuable when employed by a Korean company as a professional big data analyst. Bachelor's degree or higher and work experience requirements must be met. |
-| Subclass D-10 (Job Seeking (D-10-1)) | Permits a stay of 6 months to 1 year for job-seeking activities, for holders of a bachelor's degree or higher. |
-| Subclass F-2 (Residence (F-2-99)) | Allows long-term stay and employment as a points-based permanent residency. Transition after E-7 experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A data-related degree or bootcamp completion, certifications like ADsP, and a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/big-data-analyst/KR)**

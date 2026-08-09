@@ -54,8 +54,6 @@ University administrators handle student support, course scheduling, admissions,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI impact on university administrative work is mixed: large volumes of documentation and data processing can be automated, but core duties involving student communication, policy judgment, and cross-department coordination still require human judgment; jobs won't be replaced in the short term, but work content and skill requirements will change significantly.
-
 Start as a junior administrative assistant (HEW 3-4), progress to senior coordinator (HEW 6-7), manager (HEW 8-9) or director level. Specialized areas like international admissions and research management offer higher advancement. Need to build project management and digital skills.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Start as a junior administrative assistant (HEW 3-4), progress to senior coordin
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Usually requires a bachelor's degree, preferably in education or business. A 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-administrator/NZ)**

@@ -4,8 +4,6 @@
 
 Responsible for sensory tasting, quality grading, and classification of food and beverages to ensure products meet standards, commonly used in wine, olive oil, cheese, and other industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for sensory tasting, quality grading, and classification of food and
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of food and beverage tasting and graders can be enhanced by AI (such as data recording and standard matching), but core sensory assessments, personal experience judgments, and subjective preferences are difficult to automate, resulting in a mixed overall situation.
-
 Usually starting in production or quality control positions, with experience accumulation leading to promotion to senior taster or quality manager; It can also shift toward R&D or export certification.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Usually starting in production or quality control positions, with experience acc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Workers) | When applying for a work permit from a Spanish employer, it must prove that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to high-education or high-income positions, but this occupation usually does not meet high-skilled standards. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for one year looking for work, but you must prove your own financial capability. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Not necessarily, FP vocational training is introductory, but university degre
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-taster-and-grader/ES)**

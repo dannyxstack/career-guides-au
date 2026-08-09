@@ -51,8 +51,6 @@ Plan, direct, or coordinate student instruction, administration, services, and o
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI impact on university administrative work is mixed: large volumes of documentation and data processing can be automated, but core duties involving student communication, policy judgment, and cross-department coordination still require human judgment; jobs won't be replaced in the short term, but work content and skill requirements will change significantly.
-
 Usually starts from academic departments or administrative positions, with career paths including department head, dean, vice president, etc. Requires accumulating management experience and pursuing a master's or doctoral degree in higher education administration or a related field.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts from academic departments or administrative positions, with caree
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or skilled workers, but with long wait times. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified US workers and apply for a green card after labor certification. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but senior management roles (e.g., dean, vice-chancellor) typi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-administrators-postsecondary/US)**

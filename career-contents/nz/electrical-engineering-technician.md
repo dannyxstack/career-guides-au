@@ -52,8 +52,6 @@ Assist electrical engineers in designing, testing, installing, and repairing ele
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on electrical engineering technician work is mixed: routine testing and wiring design are easily automated, but on-site installation, repair diagnostics, and compliance responsibilities still rely on human experience and judgment; core job skills are being reshaped.
-
 Junior technicians can advance to senior technicians or supervisors by gaining experience and obtaining New Zealand electrical registration (e.g., EWRB), or transition to project management or design roles. Some later develop into electrical engineers or technical managers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to senior technicians or supervisors by gaining e
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, eligible for residence after 2 years of work, requires employer sponsorship and median salary |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for temporary work, requires employer accreditation and meeting salary threshold, can transition to residency. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Stable opportunities, especially in construction, infrastructure, and renewab
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/NZ)**

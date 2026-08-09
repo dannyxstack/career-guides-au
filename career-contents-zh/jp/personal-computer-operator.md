@@ -1,8 +1,8 @@
-# Personal Computer Operator 职业分析 · 日本
+# 个人计算机操作员（Personal Computer Operator）职业分析 · 日本
 
-**职业代码: 311 (JSCO)**
+**职业代码：311 (JSCO)**
 
-A PC-based clerical job handling data entry, document creation, and other routine office tasks; often part of general or sales clerical work.
+基于PC的文职工作，处理数据录入、文档创建和其他常规办公室任务；通常是普通或销售文职工作的一部分。
 
 
 ---
@@ -11,9 +11,9 @@ A PC-based clerical job handling data entry, document creation, and other routin
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Tuition-free at public high schools） |
-| Vocational School | 2 年 | $1,500,000~$3,000,000（Tuition for OA-related courses） |
-| Junior College | 2 年 | $2,000,000~$4,000,000（Approximate cost at private junior colleges） |
+| 高中 | 3年 | $0~$0（公立高中学费全免） |
+| 职业学校 | 2 年 | $1,500,000~$3,000,000（OA相关课程学费） |
+| 大专 | 2 年 | $2,000,000~$4,000,000（私立大专的大致费用） |
 
 ---
 
@@ -21,18 +21,18 @@ A PC-based clerical job handling data entry, document creation, and other routin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nissho PC Certification | The Japan Chamber of Commerce and Industry | 可选 | Proof of basic PC operation skills |
-| MOS | Microsoft | 可选 | Proof of Word/Excel proficiency |
-| Information Technology Engineer Examination | Ministry of Economy, Trade and Industry | 可选 | Proof of IT fundamentals; useful for career advancement |
+| 日商PC认证 | 日本商工会议所 | 可选 | 基本电脑操作技能证明 |
+| MOS | Microsoft | 可选 | Word/Excel能级证明 |
+| 信息技术工程师考试 | 经济产业省 | 可选 | IT基础证明；有助于职业晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 120,000. Employment declining due to automation via RPA and AI, especially for simple data entry. However, advanced roles combining system management or data analysis remain stable.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 120,000。由于RPA和AI的自动化，就业正在减少，尤其是简单的数据录入。但结合系统管理或数据分析的高级职位仍然稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,90 +40,84 @@ A PC-based clerical job handling data entry, document creation, and other routin
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | Annual salary: approx. ¥1,200-1,600 per hour |
-| Intermediate Level (3-7 years) | $3,500,000~$4,500,000 | Rise through efficiency skills and expertise |
-| Advanced (7+ years) | $4,500,000~$6,000,000 | Team leader or system administrator level |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 年薪：约¥1,200-1,600每小时 |
+| 中级（3-7年） | $3,500,000~$4,500,000 | 通过效率技能和专业知识晋升 |
+| 高级（7年以上） | $4,500,000~$6,000,000 | 团队负责人或系统管理员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With advances in AI and RPA, routine data entry and document creation will be largely automated, reducing long-term demand for PC operators. However, talent for efficiency improvement and system management will still be needed.
+随着AI和RPA的进步，常规数据录入和文档创建将大幅自动化，减少对PC操作员的长期需求。然而，仍需要效率提升和系统管理的人才。
 
-Acquire PC skills early in your career and specialize in areas like accounting or sales clerical work to advance to roles such as office leader or OA instructor.
+尽早掌握电脑技能，专攻会计或销售行政等领域，以晋升为办公室主管或OA讲师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data entry
-- Slip processing
-- Simple aggregation tasks
-- Standard document creation
+- 数据录入
+- 滑差处理
+- 简单汇总任务
+- 标准文档创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data cleansing and verification
-- Automation workflow design
-- Cross-system data integration management
+- 数据清洗和验证
+- 自动化工作流设计
+- 跨系统数据集成管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex judgment data processing
-- Customer communication
-- Cross-system business improvement
+- 复杂判断数据处理
+- 客户沟通
+- 跨系统业务改进
 
-**需构建的技能:**
+**需构建的技能：**
 
-- RPA tools (e.g., UiPath)
-- VBA and basic programming
-- Data analysis (Excel pivot, etc.)
-- Business flow improvement skills
+- RPA工具（如UiPath）
+- VBA和基础编程
+- 数据分析（Excel数据透视表等）
+- 业务流程改进技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Data entry outsourcing
-- RPA implementation support
+- 数据录入外包
+- RPA实施支持
 - AI-OCR
-- Remote work
+- 远程工作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Simple data entry alone is not permitted, but may be applicable if accompanied by knowledge or experience in clerical work. Vocational school graduate or higher preferred. |
-| Subclass 特定活動 (Designated Activities (Equivalent to Loanwords)) | A route to gain practical experience while aiming to transition to Specified Skilled Worker. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who can work accurately and diligently
-- Someone comfortable with computer operations
-- Someone who does not mind routine work
+- 能准确勤奋工作的人
+- 熟悉电脑操作的人
+- 不介意重复性工作的人
 
 **谁不适合**
-- Someone who wants creative work
-- Someone who prioritizes interpersonal tasks over learning new skills
+- 想要创意工作的人
+- 优先处理人际任务而非学习新技能的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for computer operators?**
-答：First-year annual income ranges from 2.5 to 3.5 million yen, and with experience can exceed 4.5 million yen, but depends on industry and region. Slightly lower than the average for clerical positions.
+**问：计算机操作员的薪资水平是多少？**
+答：第一年收入范围在250万至350万日元之间，有经验后可超过450万日元，但取决于行业和地区。略低于文职职位平均水平。
 
-**问：Can foreigners work in Japan in this occupation?**
-答：Possible, but simple data entry roles make it hard to get status. To get an Engineer/Specialist in Humanities/International Services visa, the job must require expertise; e.g., handling general office work.
+**问：外国人可以在日本从事这个职业吗？**
+答：可能可行，但简单的数据录入角色难以获得身份。要获得人文/国际服务领域的工程师/专家签证，工作必须需要专业知识；例如处理一般办公室工作。
 
 
 ---
@@ -141,12 +135,12 @@ Acquire PC skills early in your career and specialize in areas like accounting o
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/personal-computer-operator/JP)**

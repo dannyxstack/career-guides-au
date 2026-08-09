@@ -1,10 +1,8 @@
-# Company Director 职业分析 · 日本
+# 公司董事（Company Director）职业分析 · 日本
 
-**职业代码: 021 (JSCO)**
+**职业代码：021 (JSCO)**
 
-A managerial occupation that involves determining corporate management policies and overseeing business execution as a board director, auditor, or executive officer of a stock company.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+一种管理类职业，涉及作为股份公司的董事、监事或执行官确定公司管理政策并监督业务执行。
 
 
 ---
@@ -13,8 +11,8 @@ A managerial occupation that involves determining corporate management policies 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (economics, business, law, etc.) | 4年 | $4,000,000~$8,000,000（National university standard tuition） |
-| MBA (Master of Business Administration) | 2 年 | $5,000,000~$15,000,000（Domestic business schools） |
+| 大学（经济学、商学、法律等） | 4年 | $4,000,000~$8,000,000（国立大学标准学费） |
+| MBA（工商管理硕士） | 2 年 | $5,000,000~$15,000,000（国内商学院） |
 
 ---
 
@@ -22,18 +20,18 @@ A managerial occupation that involves determining corporate management policies 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 注册会计师(CPA) | Japanese Institute of Certified Public Accountants | 可选 | Expertise in finance and auditing |
-| Lawyer (Bengoshi) | Ministry of Justice | 可选 | Strength in legal and compliance matters |
-| Tax Accountant (Zeirishi) | National Tax Agency | 可选 | Advantageous for tax strategy |
+| 注册会计师(CPA) | 日本注册会计师协会 | 可选 | 金融和审计专业知识 |
+| 律师（Bengoshi） | 法务部 | 可选 | 法律与合规事务优势 |
+| 税务会计师（税理师） | 国税厅 | 可选 | 有利于税务策略 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 1,350,000. Demand is stable due to corporate governance enhancement and succession shortages, but new positions are limited. Business succession in SMEs is a challenge.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 1,350,000。由于公司治理加强和继任短缺，需求稳定，但新职位有限。中小企业业务继任是一个挑战。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A managerial occupation that involves determining corporate management policies 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (small company director) | $8,000,000~$12,000,000 | Annual salary (excluding tax) |
-| Mid-level (mid-size company director) | $15,000,000~$30,000,000 | Annual salary (excluding tax) |
-| Senior-level (large company board member) | $50,000,000~$99,999,999 | Annual salary including stock compensation (excluding tax) |
+| 入门级（小型公司董事） | $8,000,000~$12,000,000 | 年薪（不含税） |
+| 中层（中型公司董事） | $15,000,000~$30,000,000 | 年薪（不含税） |
+| 高级（大型企业董事会成员） | $50,000,000~$99,999,999 | 年薪包含股票补偿（不含税） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI supports management decisions with data analysis, but final decisions and leadership remain human. Risk of AI replacement is low.
+人工智能通过数据分析支持管理决策，但最终决策和领导力仍由人类负责。被AI取代的风险较低。
 
-Promotion typically requires long-term achievements and internal advancement. MBAs and specialized certifications are advantageous. External appointments are also increasing.
+晋升通常需要长期成就和内部晋升。MBA和专业认证具有优势。外部任命也在增加。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine report creation
-- Data aggregation and analysis
+- 常规报告创建
+- 数据汇总与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Simulation for strategic planning
-- Risk analysis
-- Performance forecasting
+- 战略规划模拟
+- 风险分析
+- 绩效预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Building interpersonal relationships
-- Ethical judgment
-- Leadership
-- Crisis management
+- 建立人际关系
+- 道德判断
+- 领导层
+- 危机管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- AI project management
-- Data analysis
+- 数字素养
+- AI项目管理
+- 数据分析
 - 英语能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- DX Promotion
-- Corporate Governance
-- M&A
-- Sustainability Management
+- 数字化转型推进
+- 公司治理
+- 并购
+- 可持续管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 経営・管理 (Business Manager Visa) | For business owners and executives. Requires capital of at least 5 million yen. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | Allows managerial roles utilizing specialized knowledge. Used for internal promotion in large companies. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a long-term business perspective
-- People with leadership and decisiveness
-- People with high stress tolerance
+- 具有长远商业眼光的人
+- 具有领导力和决断力的人
+- 抗压能力强的人
 
 **谁不适合**
-- People who are stability-oriented and risk-averse
-- People who prefer monotonous work
+- 注重稳定且规避风险的人
+- 偏好单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a company director?**
-答：For SME executives: ¥8-12 million; for large companies: tens of millions to over ¥100 million. Varies greatly by company size and performance.
+**问：公司董事的平均年收入是多少？**
+答：中小企业高管：800-1200万日元；大企业：数千万至1亿日元以上。因公司规模和业绩差异很大。
 
-**问：Can a foreigner become a company director in Japan?**
-答：Yes. You need a Business Manager visa and must establish or participate in managing a company with capital of at least ¥5 million.
+**问：外国人能在日本成为公司董事吗？**
+答：是的。您需要获得商业经理签证，并设立或参与管理一家资本金至少 500 万日元的公司。
 
-**问：What is the career path to becoming a director?**
-答：Typically, after years of experience and a department manager role, one is promoted to director. An MBA or professional qualifications (certified public accountant, lawyer) can be advantageous.
+**问：成为导演的职业路径是什么？**
+答：通常，经过多年经验和部门经理职位后，晋升为总监。MBA或专业资格（注册会计师、律师）可能有优势。
 
 
 ---
@@ -145,12 +136,12 @@ Promotion typically requires long-term achievements and internal advancement. MB
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/company-director/JP)**

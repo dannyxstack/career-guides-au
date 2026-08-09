@@ -4,8 +4,6 @@
 
 This occupation involves planning, coordinating, and executing administrative tasks in public institutions, handling civil complaints, document management, budget and personnel support.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ This occupation involves planning, coordinating, and executing administrative ta
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are expected to replace repetitive office tasks such as complaint reception, document classification, and data entry, but human roles remain crucial in policy-making, public services, and coordination. Therefore, the tasks of administrative staff will evolve toward higher sophistication and increased demand for expertise.
-
 Entry is mainly through the Grade 9 open competitive exam, and advancement to Grade 5 officer is possible via the Higher Civil Service Exam. Promotion is based on performance evaluations and exams, leading to management roles such as team leader or department head.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Entry is mainly through the Grade 9 open competitive exam, and advancement to Gr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residency stage, no restrictions on employment activities. Employment in public administration is possible, but civil service appointments are limited. |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans, no employment restrictions, but civil service hiring is not allowed. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: Promotions are based on work performance, promotion exams, and completion of 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-administration-clerk/KR)**

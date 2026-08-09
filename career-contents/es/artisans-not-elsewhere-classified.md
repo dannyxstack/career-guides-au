@@ -4,8 +4,6 @@
 
 Refers to traditional handicrafts not explicitly classified in other specific categories, such as woodcarving, ceramics, jewelry making, etc., engaged in handmade manufacturing, repair, and customization.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Refers to traditional handicrafts not explicitly classified in other specific ca
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although artisans face risks from AI automation, AI will amplify their design, marketing, and client customization capabilities, becoming high-value creative partners and proactively integrating digital tools.
-
 Starting as an apprentice, gradually becoming a skilled artisan, you can open your own studio or enter the high-end customization field. Some enhance their reputation by participating in competitions or exhibitions, then move to teaching or design management roles.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Starting as an apprentice, gradually becoming a skilled artisan, you can open yo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract (employed)) | Employees employed by Spanish companies require company guarantees; handicraft positions are not in short supply and are more difficult to guarantee |
-| Subclass Cuenta propia (Self-employed (autónomo)) | Self-employed residence requires submitting a business plan that demonstrates sufficient financial capability and a client base |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -145,12 +134,12 @@ A: It's very difficult. Handicrafts are not in short supply, and employer sponso
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artisans-not-elsewhere-classified/ES)**

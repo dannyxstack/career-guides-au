@@ -54,8 +54,6 @@ Speech therapists assess, diagnose, and treat speech, language, fluency, and voi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on speech pathologists is largely positive, with low automation potential because core tasks rely on interpersonal interaction and clinical judgment; however, administrative and assessment tasks can be enhanced by AI to improve efficiency.
-
 Junior speech therapists can work in NHS, schools, or private clinics; career progression includes becoming senior therapist, clinical specialist, or team leader, or shifting to research or management roles such as speech therapy service manager.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior speech therapists can work in NHS, schools, or private clinics; career pr
 | Subclass Skilled Worker (Skilled Worker visa) | Applies to speech therapists under UK employer sponsorship, requiring a job offer and meeting salary requirements. |
 | Subclass Graduate (Graduate visa) | International graduates who completed a speech therapy degree in the UK can apply, allowing 2 years of work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must complete an HCPC-recognized speech therapy degree program and register w
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-and-language-therapists/UK)**

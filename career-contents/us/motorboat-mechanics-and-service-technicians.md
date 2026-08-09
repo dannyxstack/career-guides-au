@@ -53,8 +53,6 @@ Responsible for troubleshooting and repairing electrical and mechanical equipmen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on motorboat mechanics is mixed: diagnosis and troubleshooting will be enhanced by AI tools, but actual repair work still heavily relies on humans. Automation risk for routine maintenance tasks is moderate, while problem-solving skills for complex issues become a key moat.
-
 Can advance from junior technician to senior technician, service manager, or open an independent repair shop, requiring continuous learning in electronic diagnostics and new powertrain technologies.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior technician to senior technician, service manager, or ope
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually high school diploma, through on-the-job apprenticeship or technical s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorboat-mechanics-and-service-technicians/US)**

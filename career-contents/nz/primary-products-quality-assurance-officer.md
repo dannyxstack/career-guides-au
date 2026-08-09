@@ -54,8 +54,6 @@ Junior Product Quality Assurance Officers monitor agricultural product quality t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Daily quality monitoring, record-keeping, and standard checks for junior QA officers will be highly automated, but roles involving sensory judgment, compliance decisions, and audit explanation remain crucial. Opportunities come from AI-enhanced inspection efficiency; challenges from reduced entry-level positions.
-
 From junior QA officer, can advance to senior QA manager, quality system auditor, or food safety consultant. With experience, can transfer to Green List roles such as food technologist, enhancing immigration ease.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ From junior QA officer, can advance to senior QA manager, quality system auditor
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements, with points awarded for education and work experience. |
 | Subclass Talent Work to Resid (Talent Work to Residence) | Annual salary of $79,560 or more qualifies; requires certified employer. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to quality manager, auditor, or consultant, or shift to food safe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-products-quality-assurance-officer/NZ)**

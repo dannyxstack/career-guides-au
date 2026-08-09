@@ -55,8 +55,6 @@ Responsible for maintaining sports venues, parks, playgrounds and other public f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially simplify site monitoring and documentation, but physical maintenance and safety inspections are hard to replace. Overall job demand remains stable; workers must adapt to digital tools.
-
 Junior groundskeepers (1-2 years) → Senior equipment technicians (3-5 years) → Facilities supervisors or technical managers (5+ years). Further study can lead to becoming a specialist in horticulture or sports facility management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior groundskeepers (1-2 years) → Senior equipment technicians (3-5 years) �
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based, no employer sponsorship required, allows part-time job seeking |
 | Subclass EU Blue Card (EU Blue Card) | Only for management or high-salary positions, typically not applicable to this entry-level occupation |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Dual vocational training is the standard pathway; foreign qualifications need
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/groundskeeper-and-equipment-maintainer/DE)**

@@ -52,8 +52,6 @@ Under the guidance of university professors or researchers, assist with teaching
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will compress basic teaching and research assistant roles (e.g. literature search, data collation), but amplify their higher-level analysis, instructional design, and personalised tutoring capabilities. Need to shift to deeper research support and teaching innovation roles.
-
 Usually temporary or part-time positions; after gaining experience, can advance to lecturer, professor, or corporate R&D roles. Some assistants secure tenure through publications and teaching evaluations.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually temporary or part-time positions; after gaining experience, can advance 
 | Subclass PGWP (Post-Graduation Work Permit) | International graduates can obtain a 1-3 year work visa to work as teaching assistants etc. |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | After accumulating 1 year of full-time work experience, you can apply for immigration through Express Entry |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to lecturer or professor, or transition to corporate R&D, data an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postsecondary-teaching-and-research-assistants/CA)**

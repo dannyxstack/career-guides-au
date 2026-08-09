@@ -53,8 +53,6 @@ Chefs are a core profession in the food and beverage industry, responsible for i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The chef profession faces mixed AI impact: repetitive prep tasks risk automation, but creative, quality control, and team management roles are amplified by AI assistance, with the entry barrier slightly raised.
-
 Junior chefs (Ayudante de cocina) can be promoted through accumulated experience to frontline chefs (Cocinero) or head chefs (Jefe de partida), and eventually to executive chefs (Chef ejecutivo) or restaurant managers.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior chefs (Ayudante de cocina) can be promoted through accumulated experience
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Requires a bachelor's degree or above, or more than 5 years of experience, with an annual salary at 1.5 times the Spanish average (about 34,000 euros). |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Applicable to chefs with an annual income exceeding 40,000 euros, requiring a high-skill contract |
-| Subclass Cuenta ajena (Work Visa (Employed)) | Employer sponsorship is required; cooks are in shortage occupations, some provinces have simplified procedures. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: A mandatory food safety and hygiene certificate is required, an FP Culinary D
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook/ES)**

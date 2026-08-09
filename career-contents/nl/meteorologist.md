@@ -53,8 +53,6 @@ Meteorologists study atmospheric phenomena, conduct weather forecasting and clim
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of meteorologists is a mixed bag: AI substantially replaces human effort in numerical forecasting and data processing, but tasks requiring human experience and judgment—such as extreme weather analysis and public communication—are amplified.
-
 Junior meteorologists can advance to senior forecasters or climate researchers; some pivot to data science or environmental consulting; a PhD can lead to university or research institutions (e.g., KNMI).
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ Junior meteorologists can advance to senior forecasters or climate researchers; 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to employed professionals earning above the threshold (approx. €5,331/month in 2024), with employers being IND-recognized sponsors. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens with an annual salary above €5,331/month, allowing faster access to long-term residency. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from top 200 Dutch or world universities can obtain a one-year job-seeking visa, which can be converted to a work permit upon finding a job. |
-| Subclass EU free movement (EU/EEA Freedom of Movement) | EU/EEA citizens do not need a visa to work in the Netherlands; after registration, they have equal employment rights. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: At least a bachelor's degree in meteorology or a related field; a master's or
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/NL)**

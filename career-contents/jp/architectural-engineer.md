@@ -4,8 +4,6 @@
 
 Professional handling building design, construction management, and regulatory compliance. The architect license is central, supporting safety and quality in the construction industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Professional handling building design, construction management, and regulatory c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI advances design automation (BIM integration, structural calculations, code checks), but human roles like on-site judgment, coordination, and client negotiation remain. Rather than jobs being taken by AI, it is used as a tool.
-
 After gaining practical experience, obtaining a First-Class Architect license allows promotion to design office manager or general contractor construction manager. Women's participation is increasing.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After gaining practical experience, obtaining a First-Class Architect license al
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Architectural engineers fall under the 'Engineering' category. Requires a university degree or 10+ years of experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Targets the construction sector under the Specified Skilled Worker system. Requires passing a skills test. Max stay of 5 years. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: After graduating from a university architecture department, at least 4 years 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architectural-engineer/JP)**

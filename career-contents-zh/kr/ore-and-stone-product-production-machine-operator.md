@@ -1,8 +1,8 @@
-# Ore and Stone Product Production Machine Operator 职业分析 · 韩国
+# 矿石和石材产品生产机器操作员（Ore and Stone Product Production Machine Operator）职业分析 · 韩国
 
-**职业代码: 82641 (KECO)**
+**职业代码：82641 (KECO)**
 
-This occupation involves operating and controlling machines that crush, break, and sort ore, or cut and process stone.
+该职业涉及操作和控制破碎、粉碎和分选矿石，或切割和加工石料的机器。
 
 
 ---
@@ -11,9 +11,9 @@ This occupation involves operating and controlling machines that crush, break, a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Compulsory Education | 9年 | $0~$0（Elementary and Middle School Graduation） |
-| High School (Vocational Track) | 3年 | $0~$3,000,000（Meister/Specialized High School Free Education/National Scholarship） |
-| In-house and External Training | 6 months | $500,000~$2,000,000（Korea Polytechnic University/In-house Job Training） |
+| 义务教育 | 9年 | $0~$0（小学和初中毕业） |
+| 高中（职业方向） | 3年 | $0~$3,000,000（技师/专科高中免费教育/国家奖学金） |
+| 内部与外部培训 | 6个月 | $500,000~$2,000,000（韩国理工大学/企业内部职业培训） |
 
 ---
 
@@ -21,19 +21,19 @@ This occupation involves operating and controlling machines that crush, break, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Explosives Management Engineer | Human Resources Development Service of Korea | 必备 | Required for blasting work |
-| Excavator Operator (Craftsman) | Human Resources Development Service of Korea | 可选 | Optional, advantageous for field work |
-| Forklift Operator (Craftsman) | Human Resources Development Service of Korea | 可选 | Optional, advantageous for material transport |
-| Crane Operator (Craftsman) | Human Resources Development Service of Korea | 可选 | Optional, required for operating heavy equipment |
+| Explosives Management Engineer | 韩国人力资源开发服务局 | 必备 | 爆破作业所需 |
+| 挖掘机操作员（技工） | 韩国人力资源开发服务局 | 可选 | 可选，对现场工作有利 |
+| 叉车操作员（技工） | 韩国人力资源开发服务局 | 可选 | 可选，有利于物资运输 |
+| 起重机操作员（技工） | 韩国人力资源开发服务局 | 可选 | 可选，操作重型设备必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. Demand fluctuates with the construction and mining industries, and new hiring is expected to stagnate due to aging and automation.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。需求随建筑和矿业行业波动，因老龄化和自动化，新招聘预计停滞。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,92 +41,85 @@ This occupation involves operating and controlling machines that crush, break, a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$34,000,000 | Before tax, based on starting salary |
-| 中级（4-9年） | $35,000,000~$45,000,000 | Before tax, typical skilled worker level |
-| Advanced (10+ years) | $46,000,000~$60,000,000 | Before tax, foreman or higher |
+| 初级（0-3年） | $28,000,000~$34,000,000 | 税前，基于起薪 |
+| 中级（4-9年） | $35,000,000~$45,000,000 | 税前，典型技术工人水平 |
+| 高级（10年以上） | $46,000,000~$60,000,000 | 税前，工头或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation are replacing crushing, grinding, and sorting processes, reducing simple labor jobs, but areas requiring human judgment like precise stone processing and site management will remain.
+人工智能和自动化正在取代破碎、研磨和分选过程，减少了简单劳动岗位，但需要人工判断的领域，如精密石材加工和现场管理，将保留。
 
-Beginners start with simple assistant tasks and can advance to operate major machinery, become site foremen, or process managers as they gain skills.
+初学者从简单助理任务开始，随着技能提升可操作主要机器、成为现场主管或工艺经理
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple crushing tasks
-- Repetitive sorting tasks
-- Machine operation monitoring
+- 简单破碎任务
+- 重复性分拣任务
+- 机器操作监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Stone cutting path optimization
-- Equipment failure predictive diagnosis
-- Real-time quality management
+- 石材切割路径优化
+- 设备故障预测性诊断
+- 实时质量管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Sense for judging stone texture and grain
-- Ability to respond to unexpected equipment breakdowns
-- Experience in site safety management
+- 判断石材纹理和纹理的感觉
+- 应对意外设备故障的能力
+- 现场安全管理经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC Stone Processing Machine Operation
-- Basic PLC Maintenance
-- Drone/Sensor-based Remote Control
+- 数控石材加工设备操作
+- 基础PLC维护
+- 无人机/传感器远程控制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Stone processing automation
-- Correlation with construction industry
-- Mining mechanization
-- Demand for unskilled labor
+- 石材加工自动化
+- 与建筑行业的关联
+- 采矿机械化
+- 非技术劳动力需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Issued to unskilled foreign workers, employment permit in mining and construction |
-| Subclass E-7 (Specific Activities (E-7)) | For skilled workers, available to experts in ore and stone product production |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, long-term stay visa |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with good physical strength
-- Those who can withstand outdoor/dusty environments
-- People with patience for repetitive tasks
+- 体力好的人
+- 能够耐受户外/多尘环境的人
+- 对重复任务有耐心的人
 
 **谁不适合**
-- People with allergies or respiratory conditions
-- People who don't follow safety rules well
+- 过敏或呼吸系统疾病患者
+- 不遵守安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary for beginners?**
-答：For entry-level (0-3 years), annual pre-tax salary is around 28-34 million KRW.
+**问：初学者通常的薪资是多少？**
+答：入门级（0-3年）税前年薪约2800-3400万韩元。
 
-**问：Can foreigners get a visa for this job?**
-答：Yes, you can enter on an E-9 (Non-professional Employment) visa and switch to E-7 (Specific Activities) after gaining skills.
+**问：外国人能否获得这份工作签证？**
+答：是的，您可以持E-9（非专业就业）签证入境，并在获得技能后转换为E-7（特定活动）签证。
 
-**问：Is there a required education or certification?**
-答：Completion of compulsory education (middle school) or higher is acceptable, and certifications like excavator or forklift are advantageous.
+**问：是否有学历或认证要求？**
+答：完成义务教育（初中）或以上即可，持有挖掘机或叉车等证书有利。
 
 
 ---
@@ -144,12 +137,12 @@ Beginners start with simple assistant tasks and can advance to operate major mac
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ore-and-stone-product-production-machine-operator/KR)**

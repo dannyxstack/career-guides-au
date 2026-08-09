@@ -52,8 +52,6 @@ Perform administrative and clerical tasks in central government departments and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will significantly enhance data processing and document automation, replacing some routine tasks, but administrative decision-making, public accountability, and interpersonal coordination still require humans, with core job responsibilities evolving rather than disappearing.
-
 Can advance from administrative assistant to senior executive, team leader, or policy support role; some may enter the fast-track civil service stream through internal exams.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from administrative assistant to senior executive, team leader, or p
 | Subclass Graduate (Graduate Visa) | Suitable for UK graduates to gain work experience first, but switching to a skilled worker visa later poses salary challenges. |
 | Subclass Youth Mobility Schem (Youth Mobility Scheme (T5)) | Youth from certain countries can work in the UK for 2 years under this visa, including such administrative positions. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Difficult, because salaries are generally below the Skilled Worker visa thres
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/national-government-administrative-occupations/UK)**

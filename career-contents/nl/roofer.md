@@ -52,8 +52,6 @@ Roofers install, repair, and replace building roofs, including tiles, metal shee
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofers' core physical tasks and complex environmental adaptability are hard to be replaced by AI in the short term, but AI-driven automatic laying robots and intelligent detection tools will reduce simple labor positions; caution needed against replacement of tool-based work.
-
 Starting as an apprentice or assistant, you can gain experience and advance to foreman or self-employed contractor, or specialize in high-value-added areas such as green roofs and solar roofs.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Starting as an apprentice or assistant, you can gain experience and advance to f
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requires a work contract (annual salary threshold approx. €56,000, lower for shortage occupations). |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | For non-EU high-skilled workers, requires a sponsoring employer, annual salary threshold approximately €5,000/month (higher for those over 30). |
-| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens do not need a visa to work in the Netherlands. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Requires completion of MBO roofers course or apprenticeship, and holding a VC
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofer/NL)**

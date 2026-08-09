@@ -51,8 +51,6 @@ Engineering managers oversee the technical, team, budget and delivery aspects of
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation risk for engineering managers is moderate: repetitive reporting, resource scheduling, and compliance checks will be taken over by AI, but strategic decision-making, cross-team coordination, and emergency management needs will actually increase. Overall job numbers are stable, but core responsibilities shift to higher value-add.
-
 Requires an engineering background plus management experience; pathway leads to Project Director or Operations Director roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Requires an engineering background plus management experience; pathway leads to 
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. Engineering Manager (133211) is on the MLTSSL, requires an Engineers Aus
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-manager/AU)**

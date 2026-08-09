@@ -1,8 +1,8 @@
-# Taxi Driver 职业分析 · 韩国
+# 出租车司机（Taxi Driver）职业分析 · 韩国
 
-**职业代码: 62211 (KECO)**
+**职业代码：62211 (KECO)**
 
-Taxi drivers transport passengers safely to their destinations, working for private taxis, corporate taxis, or mobility platforms (e.g., Kakao Taxi).
+出租车司机安全地将乘客送达目的地，为私人出租车、公司出租车或出行平台（如Kakao Taxi）工作。
 
 
 ---
@@ -11,8 +11,8 @@ Taxi drivers transport passengers safely to their destinations, working for priv
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Class 1 Ordinary Driver's License | 3个月 | $500,000~$1,000,000（Driving school fees） |
-| Taxi Driver Certificate | 2周 | $50,000~$100,000（Exam and textbook fees） |
+| 一类普通驾驶执照 | 3个月 | $500,000~$1,000,000（驾校费用） |
+| 出租车司机证书 | 2周 | $50,000~$100,000（考试和教材费用） |
 
 ---
 
@@ -20,18 +20,18 @@ Taxi drivers transport passengers safely to their destinations, working for priv
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Ordinary Driver's License | National Police Agency | 必备 | Requires at least 1 year of driving experience after license acquisition |
-| Taxi Driver Certificate | Ministry of Land, Infrastructure and Transport | 必备 | Mandatory certificate by law |
-| Private Taxi Business License | 地方当局 | 可选 | Required for transitioning to self-employment |
+| 一类普通驾驶执照 | 国家警察厅 | 必备 | 要求取得驾照后至少1年驾驶经验 |
+| 出租车司机证书 | 国土交通省 | 必备 | 法律强制要求的证书 |
+| 私人出租车业务许可证 | 地方当局 | 可选 | 转型自雇所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Demand remains stable due to aging population and mobility platforms, but long-term employment outlook is somewhat negative with autonomous driving technology development.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于人口老龄化和移动平台，需求保持稳定，但长期就业前景因自动驾驶技术发展而略显负面。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ Taxi drivers transport passengers safely to their destinations, working for priv
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$30,000,000 | Corporate taxi base salary + allowances, minimum level with low performance |
-| 中级（4-9年） | $28,000,000~$40,000,000 | Higher call volume with experience leads to increased income |
-| Advanced (10+ years) | $35,000,000~$50,000,000 | Based on private taxi or top corporate driver |
+| 初级（0-3年） | $22,000,000~$30,000,000 | 公司出租车底薪+津贴，绩效低的最低水平 |
+| 中级（4-9年） | $28,000,000~$40,000,000 | 随着经验增加，通话量增多，收入提高 |
+| 高级（10年以上） | $35,000,000~$50,000,000 | 基于私人出租车或顶级公司司机 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Due to AI and autonomous driving technology, the taxi driver occupation is likely to shrink in the long term. However, areas requiring human judgment and service, such as complex urban sections or transportation for the disabled and elderly, are expected to remain.
+由于人工智能和自动驾驶技术，出租车司机职业长期可能萎缩。但在复杂城市路段或为残障及老年人提供交通服务等需要人工判断和服务的领域，预计将保留。
 
-Corporate taxi drivers may obtain a private taxi license to become self-employed or work as platform drivers. No retirement age; many elderly workers, limited promotion paths.
+企业出租车司机可获取私人出租车执照成为自雇人士或平台司机。无退休年龄；许多老年从业者，晋升途径有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive route driving
-- Fixed-route shuttle driving
-- Simple dispatch by call allocation algorithm
+- 简单重复路线驾驶
+- 固定路线穿梭驾驶
+- 通过呼叫分配算法的简单调度
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal route guidance based on real-time traffic information
-- Voice recognition-based customer service
-- Use of safe driving assistance systems
+- 基于实时交通信息的最优路线指引
+- 基于语音识别的客户服务
+- 安全驾驶辅助系统的使用
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle unexpected situations
-- Customized customer service and communication
-- Deep understanding of local geography
+- 应对突发情况的能力
+- 定制化客户服务与沟通
+- 对本地地理的深入了解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric vehicle driving and charging management
-- Certifications for transporting disabled and elderly people
-- Basic foreign language conversation
-- Ability to use mobility platforms
+- 电动汽车驾驶与充电管理
+- 运输残疾人和老年人的认证
+- 基础外语会话
+- 使用移动平台的能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mobility platform
-- Continued employment for the elderly
-- Autonomous driving threat
-- Electric vehicle transition
+- 移动平台
+- 老年人继续就业
+- 自动驾驶威胁
+- 电动车转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Some local governments allocate E-9 quotas for taxi driving, require Korean language skills |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can also work, with few activity restrictions |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage, free to work |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People accustomed to long-distance driving with strong patience
-- People who can accommodate night and weekend work
+- 习惯长途驾驶且耐心强的人
+- 能够适应夜间和周末工作的人
 
 **谁不适合**
-- People who prefer stable seated work
-- People weak to customer service stress while driving
+- 偏好稳定坐姿工作的人
+- 驾驶中不擅长应对客户服务压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a taxi driver?**
-答：For corporate taxis, the starting salary is about 22 to 30 million won, while independent taxis can reach 35 to 50 million won.
+**问：出租车司机平均年薪是多少？**
+答：公司出租车起薪约2200至3000万韩元，独立出租车可达3500至5000万韩元。
 
-**问：Can foreigners work as taxi drivers?**
-答：Some local governments hire foreign taxi drivers with E-9 visas, and F-4 overseas Korean visa holders are also eligible.
+**问：外国人可以做出租车司机吗？**
+答：部分地方政府允许外国出租车司机持E-9签证工作，F-4海外韩国同胞签证持有者也符合资格。
 
-**问：Will autonomous taxis eliminate jobs?**
-答：In the short term, the impact is limited, but partial replacement is possible within 10 years, making it advantageous to develop expertise (e.g., transporting disabled people).
+**问：自动驾驶出租车会消失就业机会吗？**
+答：短期内影响有限，但10年内可能部分替代，因此发展专长有优势（例如，运送残疾人）。
 
 
 ---
@@ -142,12 +135,12 @@ Corporate taxi drivers may obtain a private taxi license to become self-employed
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/taxi-driver/KR)**

@@ -54,8 +54,6 @@ Responsible for ship technical operations, including navigation, mechanical oper
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Ship technical operators face moderate replacement by automation for tasks such as navigation and mechanical monitoring, but AI simultaneously enhances capabilities in voyage planning, energy efficiency optimization, and emergency decision-making. Job skill requirements are upgraded, and entry thresholds may increase.
-
 Start as an ordinary crew member (Matrose), progress through experience to senior technician (Schiffsbetriebstechniker) or chief engineer (Leitender Ingenieur). May also shift to shore-based management or maritime technology consulting.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an ordinary crew member (Matrose), progress through experience to senio
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to enter Germany before finding employment, requiring proof of language skills and qualifications |
 | Subclass Job Seeker Visa (Job Seeker Visa) | 6 months validity, allows job seeking in Germany, requires German B1 or above and sufficient living funds |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance from general crew to chief engineer or captain, or transition to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-ship-transport-operator/DE)**

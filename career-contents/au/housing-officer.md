@@ -52,8 +52,6 @@ Housing officers in state housing departments and community housing agencies man
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Core duties of housing officers (lease management, tenant support) rely on interpersonal communication and legal compliance, making them less amenable to full automation, but data entry, report generation, and other administrative tasks will be significantly taken over by AI; overall job numbers remain stable but entry barriers rise as tools replace some junior tasks.
-
 Path: Housing Officer → Senior/Team Leader → Service Manager; experience handling complex tenancies and compliance determines progression.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Path: Housing Officer → Senior/Team Leader → Service Manager; experience han
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No, it is a local public sector role and not on the skilled migration list.
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housing-officer/AU)**

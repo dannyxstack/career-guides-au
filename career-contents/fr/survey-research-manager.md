@@ -4,8 +4,6 @@
 
 Responsible for designing, organizing, and implementing various types of research, including market research, public opinion surveys, and social surveys, managing teams, and ensuring data quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for designing, organizing, and implementing various types of researc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will greatly improve survey supervisors' efficiency by automatically completing questionnaire design, data cleaning, and preliminary analysis, enabling them to focus on higher-value research design and strategic insights.
-
 Start as a survey assistant or data analyst and can be promoted to survey manager or research director; You can also shift to market research or data science.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Start as a survey assistant or data analyst and can be promoted to survey manage
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee work permit) | A work contract provided by a French employer must be obtained, and the position must prove that the position cannot be filled by local labor. |
-| Subclass Passeport Talent (Talents Pass) | If you have a master's degree and an annual salary exceeding twice the minimum wage (about €53,000), you can apply for a Talent Passport. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to Research Director, Market Research Manager, or move in
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/survey-research-manager/FR)**

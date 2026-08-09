@@ -4,8 +4,6 @@
 
 A professional who counsels, assesses, and treats clients with psychological and emotional difficulties, including clinical psychologists, counseling psychologists, and school counselors.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who counsels, assesses, and treats clients with psychological and
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists with initial counseling chatbots, psychological assessment tools, and data analysis, but cannot fully replace the empathy and therapeutic relationship of human counselors. Therefore, while some tasks are enhanced, core counseling jobs are not vulnerable to AI.
-
 A master's degree or higher and a training period are essential. After obtaining clinical psychologist level 1/2 or counseling psychologist level 1/2 certifications, one can work in universities, hospitals, corporations, welfare centers, or open a private practice.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ A master's degree or higher and a training period are essential. After obtaining
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Acquirable but rare when a foreign psychological counselor is invited to a domestic institution; Korean language skills and qualification requirements are strict. |
-| Subclass F-2 (F-2 (Residence)) | Possible to work after long-term stay via points system, but activities as a psychological counselor face significant language and cultural barriers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +135,12 @@ A: After obtaining a master's degree and license, and completing training, you c
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychological-counselor/KR)**

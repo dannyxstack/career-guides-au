@@ -52,8 +52,6 @@ Responsible for on-site management and safety supervision of open-pit mines, und
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In the tasks of mining and blasting operations supervisors, procedure checks, data recording, and basic planning are easily automated by AI, but on-site decision-making, safety supervision, and unforeseen blast adjustments rely on human experience; overall mixed impact.
-
 Start as a mining technician or blasting technician, gain field experience, and progress to shift supervisor, mining manager, and then mine operations manager. Some transition to mining consulting or equipment supplier management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a mining technician or blasting technician, gain field experience, and 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable for dual-system training or bachelor's degree, requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Issued based on a points system, allows entry for job seeking, valid for one year. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Career advancement to mine operations manager, regional mining director, or i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-mining-and-quarrying-and-explosives-engineering/DE)**

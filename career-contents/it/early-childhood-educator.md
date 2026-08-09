@@ -51,8 +51,6 @@ Responsible for the education and care of children aged 0-6, including cognitive
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will compress entry-level positions for early childhood educators, with tasks like document processing and monitoring being replaced, but core human interaction cannot be automated, so overall occupational risk is moderate.
-
 Progression from assistant teacher to lead teacher, director, or education consultant is possible, requiring experience and management training; some move into special education.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Progression from assistant teacher to lead teacher, director, or education consu
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-educated non-EU individuals, annual salary must meet minimum threshold (approx. €25,000), can change country after two years of work. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Available for non-high-skilled workers, requires employer nomination and annual quota opening; early childhood educators are within-quota occupations. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: Must hold an early childhood teaching qualification, obtainable through vocat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-educator/IT)**

@@ -53,8 +53,6 @@ Set up, operate, or monitor electroplating equipment to coat metal or plastic pr
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Electroplating operators face high automation risk; AI and robots can handle most monitoring, adjustment, and repetitive operations, leaving only maintenance and anomaly handling for humans. Job demand will be greatly reduced.
-
 Entry-level operators can advance to senior operator or team leader, then to process technician or quality inspection roles. Experienced workers can become plating engineers or workshop supervisors, but advancement is limited due to the small industry scale.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Entry-level operators can advance to senior operator or team leader, then to pro
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Poor employment outlook; employment is projected to decline by about 5.6% ove
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plating-machine-setters-operators-and-tenders-metal-and-plastic/US)**

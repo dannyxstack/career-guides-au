@@ -54,8 +54,6 @@ Assists civil engineers and tradespeople on construction sites, performing physi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Civil engineering laborers are significantly threatened by AI and automation; physical work is easily replaced by robots, but on-site unpredictability still leaves room for humans.
-
 Usually start as general labourers and can progress to senior workers, foremen, or move into skilled roles such as concreter, reinforcement worker, or a few become technicians through training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as general labourers and can progress to senior workers, foremen, 
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, but laborers are excluded and typically not eligible. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Civil engineering labourers are not on the shortage occupation list and generally do not qualify. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically no formal education required, but safety training certificates such
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-labourer/IE)**

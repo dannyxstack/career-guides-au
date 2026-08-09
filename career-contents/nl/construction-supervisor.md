@@ -51,8 +51,6 @@ A construction supervisor oversees daily operations on construction sites, coord
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-A construction supervisor's job is half on-site coordination and half office management of documents and schedules. AI and automation have limited impact on on-site supervision, but significantly affect office tasks like planning and document processing, presenting a mixed outlook.
-
 Construction supervisors can advance to project managers, construction managers, or company executives, and can also enhance their professional status by obtaining higher-level qualification certificates (such as NEN certification).
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Construction supervisors can advance to project managers, construction managers,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Suitable for high-skilled workers, requires employer sponsorship, salary threshold approx. €5,008 (under 30) or €6,812 (over 30) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated professionals, annual salary threshold approx. €6,048 (2024), can bring family |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +142,12 @@ A: Typically requires MBO or HBO relevant qualifications and a VCA safety certif
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-supervisor/NL)**

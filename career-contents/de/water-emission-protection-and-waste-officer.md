@@ -54,8 +54,6 @@ Responsible for overseeing environmental compliance of wastewater, exhaust gas, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance monitoring and report generation capabilities, but core regulatory responsibilities and on-site judgment still rely on humans; the outlook is mixed.
-
 Can start as an assistant or departmental specialist, gain experience and then be promoted to environmental department head or environmental management representative. Some individuals can obtain qualifications to become certified experts or consultants.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can start as an assistant or departmental specialist, gain experience and then b
 | Subclass EU Blue Card (EU Blue Card) | If the annual salary exceeds the threshold (about €43,800 in 2024), you can apply for a Blue Card, suitable for mid-level and above positions. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing applications without a job offer, but requires proof of German language proficiency and relevant qualifications. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: No mandatory certification by law, but employers usually require a degree in 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-emission-protection-and-waste-officer/DE)**

@@ -54,8 +54,6 @@ Warehouse supervisors have stable demand in New Zealand's logistics industry. Wi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Warehouse supervisors benefit from AI enhancements (e.g. inventory forecasting, route optimization), but many operational and data-checking tasks face automation substitution, requiring skill upgrades to mitigate risks.
-
 Can advance from warehouse supervisor to logistics manager or operations manager; can also move into specialized fields like supply chain management or inventory control. Accumulating management experience and certifications (e.g., supply chain management diploma) enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from warehouse supervisor to logistics manager or operations manager
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Apply for residency after 2 years of work, subject to salary requirements (approximately median) |
 | Subclass Partnership (Partner of a New Zealander) | If spouse is a New Zealand citizen or resident, can use a partner work visa |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Not on the government's shortage list, but logistics industry demand is stabl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/warehouse-supervisor/NZ)**

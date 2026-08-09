@@ -4,8 +4,6 @@
 
 As an expert in social insurance and labor-related laws, this certified professional handles corporate labor management, procedural representation, and consultation. A specialist in HR and labor affairs.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ As an expert in social insurance and labor-related laws, this certified professi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will streamline routine tasks (document creation, data entry), but expert advice and legal interpretation remain hard to replace; rather, AI tools will enable higher-level services.
-
 A common career path involves working at an office before starting an independent practice. Career advancement includes becoming an HR/labor consultant or a partner at a Social Insurance and Labor Consultant firm.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ A common career path involves working at an office before starting an independen
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Since the job requires specialized knowledge, a residence status may be obtained under certain conditions. However, acquiring the qualification may be a prerequisite. |
-| Subclass 高度専門職 (Highly Skilled Professional (i) and (ii)) | Applicable if you meet points criteria for education, experience, income, etc. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -138,12 +127,12 @@ A: No nationality restrictions for exam eligibility, but Japanese language abili
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-insurance-and-labor-consultant-shakai-hoken-rmushi/JP)**

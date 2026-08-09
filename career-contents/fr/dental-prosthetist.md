@@ -4,8 +4,6 @@
 
 Design and fabricate dental restorations such as dentures, crowns, and bridges, collaborating with dentists using CAD/CAM, casting, and ceramic technologies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Design and fabricate dental restorations such as dentures, crowns, and bridges, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is profoundly transforming the work of dental technicians, but it has not caused the job to disappear; CAD/CAM and digital design tools will replace some traditional craftsmanship, but will create new digital jobs, while demand for high-end customization and doctor-patient communication continues to grow.
-
 Career development can be advanced from junior technician to senior technician or laboratory supervisor, or focus on digital denture design. With a BTS or DUT degree, students can gain experience or further study to become independent laboratory leaders.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Career development can be advanced from junior technician to senior technician o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | A work contract from a French employer must be obtained and approved by the labor bureau, applicable to employees at dental laboratories. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for those with high academic qualifications or special skills, employers are required to commit to an annual salary of no less than 42,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | A university degree and a minimum annual salary of €53,836.50 (2024 standard) are required, suitable for senior technicians or laboratory heads. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Must hold a nationally recognized BTS Prothésiste dentaire diploma. CAP qual
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-prosthetist/FR)**

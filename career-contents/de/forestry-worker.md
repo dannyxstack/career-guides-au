@@ -53,8 +53,6 @@ Forestry workers are responsible for forest planting, maintenance, harvesting, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly reduce forestry worker jobs, but not eliminate them entirely. Basic monitoring, record-keeping and repetitive tasks are easily replaced, while complex ecological decisions, manual operations and emergency management remain human advantages. Entry-level jobs will decrease, and existing workers will need to upgrade skills.
-
 Career path: Start as a forestry worker (Forstwirt), progress to forestry foreman (Forstwirtschaftsmeister), or through further education become a forestry technician or engineer. Some enter forestry management or start their own forestry service businesses.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Start as a forestry worker (Forstwirt), progress to forestry forema
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa allowing entry to Germany to find work, requiring conditions such as language, age, and work experience. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment; requires proof of financial means, suitable for those with relevant experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to master craftsman (Meister) or technician, or become a fore
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-worker/DE)**

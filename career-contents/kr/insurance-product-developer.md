@@ -4,8 +4,6 @@
 
 A professional who plans and designs insurance products, developing profitable and competitive offerings through market research, risk analysis, and actuarial modeling.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who plans and designs insurance products, developing profitable a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists and accelerates quantitative tasks like data analysis, risk modeling, and market forecasting, but creativity in product planning, regulatory/legal interpretation, and stakeholder consultation remain strongly human domains, making full replacement difficult.
-
 After obtaining certifications like Actuary or CFA, advance to Product Planning Team Leader → Department Head. With digital and data analysis skills, may move to insurance big data or fintech fields.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After obtaining certifications like Actuary or CFA, advance to Product Planning 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professional fields, but insurance product developers are recognized as highly skilled professionals with issuance cases. |
-| Subclass F-2 (Residence) | Can switch to points system; long-term stay possible with high education, experience, and income. |
-| Subclass F-5 (Permanent Residence) | Applicable after long-term residence; must meet income and integration conditions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Not mandatory, but it benefits promotions and salary, and recognizes expertis
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-product-developer/KR)**

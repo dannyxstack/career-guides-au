@@ -1,10 +1,8 @@
-# Civil Safety, Environment, and Quality Technician 职业分析 · 韩国
+# 民事安全、环境与质量技术员（Civil Safety, Environment, and Quality Technician）职业分析 · 韩国
 
-**职业代码: 14035 (KECO)**
+**职业代码：14035 (KECO)**
 
-A technical specialist who manages safety, environment, and quality on civil engineering construction sites.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+土木工程施工现场负责安全、环境和质量的技术专家。
 
 
 ---
@@ -13,8 +11,8 @@ A technical specialist who manages safety, environment, and quality on civil eng
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $10,000,000~$15,000,000（National universities: standard; private universities: double） |
-| University (4-year) | 4年 | $20,000,000~$30,000,000（College of Engineering, Department of Civil Engineering） |
+| 大专（2年制） | 2 年 | $10,000,000~$15,000,000（国立大学：标准；私立大学：双倍） |
+| 大学（4年制） | 4年 | $20,000,000~$30,000,000（工程学院土木工程系） |
 
 ---
 
@@ -22,18 +20,18 @@ A technical specialist who manages safety, environment, and quality on civil eng
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Safety Engineer (Korea) | Human Resources Development Service of Korea | 必备 | Mandatory for safety field |
-| Environmental Engineer (Korea) | Human Resources Development Service of Korea | 必备 | Mandatory for environmental field |
-| Professional Engineer Civil Engineering (Korea) | Human Resources Development Service of Korea | 可选 | Optional but advantageous |
+| 施工安全工程师（韩国） | 韩国人力资源开发服务局 | 必备 | 安全领域强制要求 |
+| 环境工程师（韩国） | 韩国人力资源开发服务局 | 必备 | 环境领域强制要求 |
+| 专业工程师土木工程（韩国） | 韩国人力资源开发服务局 | 可选 | 非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. Steady demand is expected due to the increase in large-scale infrastructure projects and stricter safety regulations.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。由于大型基础设施项目增加和安全法规趋严，预计需求稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A technical specialist who manages safety, environment, and quality on civil eng
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$38,000,000 | Varies by company size |
-| 中级 (4-7年) | $40,000,000~$50,000,000 | Additional pay for certification holders |
-| 高级（8年+） | $55,000,000~$70,000,000 | Increases upon transition to management |
+| 初级 (0-3年) | $30,000,000~$38,000,000 | 因公司规模而异 |
+| 中级 (4-7年) | $40,000,000~$50,000,000 | 证书持有者额外补贴 |
+| 高级（8年+） | $55,000,000~$70,000,000 | 转入管理层后增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists with some data analysis and monitoring, but human roles are essential for on-site judgment and safety management.
+人工智能辅助部分数据分析和监控，但现场判断和安全管理工作仍需人力。
 
-Starting as a junior technician, one can advance to intermediate, senior technician, and manager positions through field experience and certifications.
+从初级技术员开始，通过现场经验和认证可以晋升为中级、高级技术员和经理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document writing and report organization
-- Basic data collection and analysis
+- 文件编写和报告组织
+- 基础数据收集与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Safety risk assessment
-- Environmental impact analysis
-- Quality inspection automation
+- 安全风险评估
+- 环境影响分析
+- 质检自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site situation assessment
-- Interpersonal negotiation and communication
+- 现场情况评估
+- 人际协商与沟通
 - 监管合规与伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart construction technology
-- Big data analysis
-- AI-based safety management software
+- 智能建造技术
+- 大数据分析
+- 基于AI的安全管理软件
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Safety Management
-- Environmental Management
-- Quality Management
-- Smart Construction
+- 安全管理
+- 环境管理
+- 质量管理
+- 智能建造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targets skilled professionals; employer sponsorship required |
-| Subclass E-9 (Non-professional Employment) | Not applicable (not a professional job) |
-| Subclass F-2 (Residence) | Long-term stay possible; no employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and rule-abiding person
-- Person who prefers field work
-- Person with high interest in safety and quality
+- 注重细节和遵守规则的人
+- 偏好现场工作的人
+- 高度重视安全与质量的人
 
 **谁不适合**
-- Person who dislikes repetitive paperwork
-- Person who avoids outdoor activities
+- 不喜欢重复性文书工作的人
+- 避免户外活动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level, it's around 30 to 38 million won.
+**问：起薪是多少？**
+答：入门级约3000万至3800万韩元。
 
-**问：Is this a field where it's difficult for foreigners to get a job?**
-答：Requires professional qualifications and Korean language skills; possible with E-7 visa but competitive.
+**问：这个领域外国人难找工作吗？**
+答：需要专业资格和韩语技能；E-7签证有可能，但竞争激烈。
 
-**问：How is promotion achieved?**
-答：Through field experience and obtaining certifications, promotion from technician to manager.
+**问：如何获得晋升？**
+答：通过现场经验和获得认证，从技术员晋升为经理。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a junior technician, one can advance to intermediate, senior technic
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-safety-environment-and-quality-technician/KR)**

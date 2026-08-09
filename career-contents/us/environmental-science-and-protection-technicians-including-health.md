@@ -52,8 +52,6 @@ Under the guidance of environmental scientists, engineers, or other experts, con
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of environmental science and conservation technicians will see mixed changes: automation will replace repetitive sampling and basic data analysis, but AI enhances data analysis, predictive modeling, and report generation, while on-site emergency operations and regulatory judgments still rely on human experience.
-
 Junior technicians can advance to senior technicians or team leads through experience; some pursue further study to become environmental scientists or engineers. Professional certification (e.g., REHS/RS) can enhance career progression. Also possible to move into environmental compliance, safety health, etc.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior technicians can advance to senior technicians or team leads through exper
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or higher, or exceptional ability; PERM labor certification |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Employer-sponsored green card, requires proof that no local qualified worker is available |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires an associate degree, but a bachelor's degree is more preferr
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-science-and-protection-technicians-including-health/US)**

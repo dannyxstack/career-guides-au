@@ -52,8 +52,6 @@ R&D managers plan, direct, and coordinate research and development activities wi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of R&D manager presents a mixed outlook: AI can automate a large amount of data analysis and documentation, but the core of this position involves strategic decision-making, cross-departmental coordination, and innovation direction, which are human strengths difficult to replace in the short term.
-
 Usually promoted from R&D team lead or senior researcher, can become CTO or R&D director, or move to strategic management roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Usually promoted from R&D team lead or senior researcher, can become CTO or R&D 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable for high-skilled migrants, requiring employer sponsorship and meeting salary threshold (€5,008/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for high-education and high-salary positions, with a salary threshold of approximately €5,332/month, and allows family accompaniment |
-| Subclass Orientation Year (Orientation Year for Graduates) | Foreign students who graduate in the Netherlands can apply for a one-year job-seeking visa, and switch to a work residence permit after finding a job |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically start as a research scientist or R&D team lead, can advance to R&D 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-and-development-manager/NL)**

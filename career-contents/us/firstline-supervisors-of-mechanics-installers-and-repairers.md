@@ -52,8 +52,6 @@ Directly supervise and coordinate the activities of mechanics, installers, and r
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation has a low risk of AI automation; human core skills in management decision-making, supervision coordination, and complex repair diagnosis are hard to replace; AI tools will significantly improve team scheduling, data analysis, and training efficiency, shifting supervisors from routine coordination to higher-value management.
-
 Usually promoted from technical roles such as mechanic or electrician, gain experience to become supervisor. Further advancement to maintenance manager, facilities manager, or start own maintenance company. Requires leadership and technical management skills.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually promoted from technical roles such as mechanic or electrician, gain expe
 | Subclass EB-3 (Employment-Based Third Preference) | Green card path for skilled workers; supervisory experience can support application, but PERM labor certification is required. |
 | Subclass L-1 (Intracompany Transferee) | Intracompany transfer within multinational corporations, suitable for overseas employees relocating to U.S. supervisor roles. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires several years of experience as a technician and demonstrat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-mechanics-installers-and-repairers/US)**

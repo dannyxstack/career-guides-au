@@ -4,8 +4,6 @@
 
 A professional dedicated to enhancing customers' appearance through cutting, perming, coloring, etc. Requires skill acquisition and national certification.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional dedicated to enhancing customers' appearance through cutting, per
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation cannot fully replace cutting and styling, but are increasingly used in support areas like customer management, booking, and personal color analysis. Core skills still rely on human sensibility and communication.
-
 Start as an apprentice, then move from assistant to stylist. After working at a salon, you can open your own business or specialize in techniques like makeup or kimono dressing.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Start as an apprentice, then move from assistant to stylist. After working at a 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Building Cleaning)) | Hairdressers not eligible, but future expansion possible |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Not suitable for hairdressing (even vocational school graduates may be rejected) |
-| Subclass 特定活動（外国人美容師実習） (Designated Activities (Foreign Hairdresser Training)) | Limited training program available, no work permitted |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: From stylist to top stylist to salon manager. Alternatively, specialize in ha
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/JP)**

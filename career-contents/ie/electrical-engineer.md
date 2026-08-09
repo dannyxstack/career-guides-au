@@ -51,8 +51,6 @@ Electrical engineers design, develop, and maintain power systems and equipment, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
-
 Career progression path: Junior Engineer → Senior Engineer → Principal Engineer → Engineering Manager; also possible to move towards project management or technical specialist roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression path: Junior Engineer → Senior Engineer → Principal Engin
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary of €30,000+ and subject to labor market testing. |
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥ €52,000, can bring family, fast-track residency path. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply through Critical Skills Employment Permit or EU Blue Card; must hav
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/IE)**

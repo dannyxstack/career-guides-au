@@ -56,8 +56,6 @@ DevOps engineers build and maintain CI/CD pipelines, infrastructure automation, 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-DevOps engineer core skills (CI/CD, container orchestration, infrastructure as code) face AI automation risks, but AI also greatly improves configuration troubleshooting efficiency; low-end ops roles shrink, demand for senior architects surges, requiring evolution toward platform engineering or AI ops.
-
 Platform engineering is replacing traditional DevOps models, with a focus on building Internal Developer Platforms (IDPs). DevSecOps (security-integrated CI/CD) is the most in-demand sub-discipline, commanding a salary premium of $15k–$25k.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Platform engineering is replacing traditional DevOps models, with a focus on bui
 | Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
 | Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Cloud engineers command slightly higher salaries ($125k–$145k vs $120k–$1
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/devops-engineer/AU)**

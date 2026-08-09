@@ -53,8 +53,6 @@ Economists analyze economic data, forecast trends, and provide policy advice and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Junior economists can advance to senior economist, then to chief economist or economic policy director. They can also transition to data analysis, finance, or consulting.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior economists can advance to senior economist, then to chief economist or ec
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary below €32,000, requiring employer sponsorship, more restrictive. |
 | Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled economists, with an annual salary threshold of approximately €45,000, and allows work in other EU countries. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Trinity College Dublin, University College Dublin, University College Cork, a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economist/IE)**

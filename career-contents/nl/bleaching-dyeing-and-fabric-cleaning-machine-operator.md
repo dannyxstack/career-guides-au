@@ -4,8 +4,6 @@
 
 Operate bleaching, dyeing, and washing machines to process textiles, yarn, or leather, ensuring color and cleanliness meet specifications.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Operate bleaching, dyeing, and washing machines to process textiles, yarn, or le
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation relies heavily on physical operations and perception; direct AI replacement is limited. However, AI significantly amplifies efficiency through recipe optimization, defect detection, and quality control. Low-end entry-level roles may decrease due to automated recipes, but overall risk is manageable, requiring adaptation to human-machine collaboration.
-
 Usually starts as an operator, can advance to production supervisor or quality control technician; lateral moves to textile machinery maintenance or chemical-related roles.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Usually starts as an operator, can advance to production supervisor or quality c
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled positions, but this occupation typically does not meet the salary threshold (2024 requirement: approximately €56,000 per year) |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education background and high salary; this occupation is typically not applicable |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For international students graduating in the Netherlands, allows job search within one year. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +135,12 @@ A: Difficult; this occupation is not considered high-skilled immigration and can
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bleaching-dyeing-and-fabric-cleaning-machine-operator/NL)**

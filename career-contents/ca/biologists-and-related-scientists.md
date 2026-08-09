@@ -52,8 +52,6 @@ Zoologists in Canada conduct wildlife research, conservation, and management, wo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Biologists and related scientists are impacted by AI in mixed ways: automation reduces routine data analysis and literature review positions, but AI amplifies the ability to parse complex biological data, accelerate drug discovery, and personalize medicine.
-
 Junior zoologists typically start as field surveyors or lab assistants, and can advance to project leaders or department heads with experience. A PhD can lead to university faculty or senior research positions, or shift to policy-making or environmental management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior zoologists typically start as field surveyors or lab assistants, and can 
 | Subclass PNP (Provincial Nominee Program) | Such as the BC Skilled Worker category or the Ontario Human Capital Priorities stream |
 | Subclass AIP (Atlantic Immigration Program) | For biologists with employer sponsorship in Atlantic provinces |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: commonly found in government (e.g., Department of Environment), university re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologists-and-related-scientists/CA)**

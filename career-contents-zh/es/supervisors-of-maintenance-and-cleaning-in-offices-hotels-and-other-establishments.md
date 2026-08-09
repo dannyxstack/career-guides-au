@@ -1,10 +1,8 @@
-# Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments 职业分析 · 西班牙
+# 办公室、酒店及其他场所维护与清洁主管（Supervisors of Maintenance and Cleaning in Offices, Hotels and Other Establishments）职业分析 · 西班牙
 
-**职业代码: 5831 (CNO)**
+**职业代码：5831 (CNO)**
 
 负责监督和协调办公室、酒店、餐厅、医院等场所的清洁和维护团队，确保环境卫生与设施正常运行。
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
 
 ---
@@ -22,17 +20,17 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| FP Técnico Superior en Gestión de Alojamientos Turísticos | Ministerio de Educación y Formación Profesional | 可选 | 旅游住宿管理高级文凭，包含清洁与维护管理模块 |
+| FP 旅游住宿管理高级技师 | Ministerio de Educación y Formación Profesional | 可选 | 旅游住宿管理高级文凭，包含清洁与维护管理模块 |
 | Certificado de Profesionalidad en Limpieza en Espacios Abiertos e Instalaciones Industriales | SEPE | 可选 | 清洁专业能力证书，非强制但有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 58,000. 西班牙旅游业和酒店业持续复苏，推动了对维护清洁主管的需求。该职位在大型酒店、商业中心和医院稳定招聘，但季节性波动较大。
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 58,000。西班牙旅游业和酒店业持续复苏，推动了对维护清洁主管的需求。该职位在大型酒店、商业中心和医院稳定招聘，但季节性波动较大。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 该职业受AI影响喜忧参半：排班、报告等行政任务易被自动化，但现场监督、人际协调等核心职责难以替代；入门岗位因工具应用而增加效率要求，但整体需求稳定。
 
 可从清洁工/维护工晋升为主管，再升任设施经理或区域运营经理。考取FP高级文凭或专业认证（如清洁管理）有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 清洁与维护排班及人员分配（AI优化排班系统替代）
 - 工作质量检查报告生成（AI自动汇总传感器与视觉数据）
@@ -65,7 +63,7 @@
 - 客户投诉分级与初步回复（AI客服代理）
 - 日常巡检记录与异常上报（AI视觉监控自动识别）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI预测性维护预警，提前安排维修
 - 通过AI仪表盘实时监控清洁/维护进度，优化资源分配
@@ -73,7 +71,7 @@
 - 使用AI培训新员工（VR模拟清洁流程）
 - 利用AI辅助预算编制与绩效分析
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理突发事件（如突发漏水、紧急清洁）的现场决策能力
 - 人际沟通与团队激励（解决员工矛盾、客户关系维护）
@@ -81,7 +79,7 @@
 - 安全合规的现场监督（确保操作规范，避免事故）
 - 跨部门协调（与酒店前台、餐厅经理等沟通）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数字排班与工作管理软件（如ManagingCleaning、Zira）
 - 基础数据分析（Excel/Tableau）用于绩效跟踪
@@ -90,27 +88,20 @@
 - 基础英语（用于设备操作手册或外籍员工沟通）
 - 精益管理与六西格玛（流程优化）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- tourism recovery
-- hospitality demand
+- 旅游业复苏
+- 酒店服务业需求
 - 商业清洁
-- facility management
+- 设施管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+作为欧盟成员国，西班牙主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Cuenta ajena (Work contract (employed)) | 受雇工作居留，需雇主提供合同并证明无法在欧盟内找到合适人选。 |
-| Subclass Tarjeta azul UE (EU Blue Card) | 欧盟蓝卡，面向高技能专业人才（需大学学历或5年相关经验），此职位通常不符合薪资门槛。 |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-of-maintenance-and-cleaning-in-offices-hotels-and-other-establishments/ES)**

@@ -53,8 +53,6 @@ Auditors examine the accuracy and compliance of corporate financial statements, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Auditors and accountants face AI automation impact, especially repetitive tasks like data reconciliation and transaction classification. However, AI can also enhance efficiency in data analysis and anomaly detection, while regulations and strategic judgments still require human input—overall, a mixed outlook.
-
 Junior auditors can progress to senior auditor, audit manager, and eventually partner or chief audit officer. With experience, can also move into internal audit, financial consulting, or compliance management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior auditors can progress to senior auditor, audit manager, and eventually pa
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for professionals with employer sponsorship, requiring relevant qualifications and credential assessment. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based work visa for those with qualifications and language ability. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires completion of a university degree in economics (at least 240 ECTS cr
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auditor/DE)**

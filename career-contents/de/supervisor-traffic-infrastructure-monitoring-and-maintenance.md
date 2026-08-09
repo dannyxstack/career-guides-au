@@ -52,8 +52,6 @@ Responsible for monitoring, maintaining, and repairing transport infrastructure 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This profession is mixed in its exposure to AI and automation: routine monitoring and data analysis are easily automated, but complex repair decisions, on-site coordination, and safety management still rely on human experience.
-
 Career progression: from technician to supervisor, then to regional manager or project management. Further study in engineering technology can lead to planning or management roles. With many years of experience, can start an engineering services company.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression: from technician to supervisor, then to regional manager or p
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for those with dual vocational training or equivalent qualifications in shortage occupations, no salary threshold required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, suitable for those with qualifications but no job offer yet |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can progress to regional manager, project manager, or trainer; also can study
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-traffic-infrastructure-monitoring-and-maintenance/DE)**

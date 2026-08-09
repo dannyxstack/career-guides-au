@@ -1,10 +1,8 @@
-# Deposit/Counter Clerk 职业分析 · 日本
+# 存款/柜台柜员（Deposit/Counter Clerk）职业分析 · 日本
 
-**职业代码: 262 (JSCO)**
+**职业代码：262 (JSCO)**
 
-Responsible for counter operations at banks and credit unions, including accepting deposits, processing deposits/withdrawals, transfers, and passbook entries.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责银行和信用社柜面业务，包括受理存款、处理存取款、转账和存折登记。
 
 
 ---
@@ -14,8 +12,8 @@ Responsible for counter operations at banks and credit unions, including accepti
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$1,000,000（免费公立高中） |
-| Vocational school (e.g., banking course) | 2 年 | $1,000,000~$2,500,000（Approximate tuition for private vocational schools） |
-| Junior college or university (economics/commerce) | 2–4 years | $500,000~$4,000,000（National/public universities: ~¥500,000/year; private universities: ¥1,000,000–2,000,000/year） |
+| 职业学校（如银行课程） | 2 年 | $1,000,000~$2,500,000（私立职业学校的近似学费） |
+| 大专或大学（经济/商科） | 2-4年 | $500,000~$4,000,000（国立/公立大学：约50万日元/年；私立大学：100万-200万日元/年） |
 
 ---
 
@@ -23,19 +21,19 @@ Responsible for counter operations at banks and credit unions, including accepti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Domestic or international banking experience (alternative to academic background) | 无 | 必备 | For foreign nationals: Japanese N2 or higher, financial knowledge |
-| Banking Examination (Counter Operations) | The Banking Examination Association | 可选 | Recommended qualification for bank employees |
-| Financial Operations Skills Test (Deposits & Exchange) | Institute of Financial and Fiscal Affairs | 可选 | Proof of specialized knowledge |
-| FP Technician (Level 2 or higher) | Ministry of Health, Labour and Welfare (Skills Test) | 可选 | Advantageous for career advancement |
+| 国内或国际银行经验（可替代学历） | 无 | 必备 | 对外国人：日语N2以上，财务知识 |
+| 银行考试（柜台操作） | 银行考试协会 | 可选 | 银行员工推荐资格 |
+| 金融操作技能测试（存汇） | 财经事务研究所 | 可选 | 专业知识证明 |
+| FP技术员（二级或以上） | 厚生劳动省（技能测试） | 可选 | 有利于职业晋升。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 180,000. Demand for counter clerks is declining long-term due to fewer branches and the spread of ATMs/internet banking, though face-to-face services for elderly customers sustain some demand.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 180,000。由于网点减少和ATM/网银普及，柜台职员需求长期下降，但面向老年客户的面谈服务仍维持部分需求。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -43,98 +41,90 @@ Responsible for counter operations at banks and credit unions, including accepti
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,500,000 | Based on starting salary, excluding bonuses |
-| 中级(3-7年) | $3,500,000~$4,500,000 | Front desk/representative class |
-| 高级（7年以上） | $4,000,000~$5,500,000 | Chief class |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 基于起薪，不含奖金 |
+| 中级(3-7年) | $3,500,000~$4,500,000 | 前台/代表级别 |
+| 高级（7年以上） | $4,000,000~$5,500,000 | 首席类别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Deposit/savings teller duties are shrinking significantly due to ATMs, internet banking, and AI chatbots. Especially simple deposits/withdrawals and transfers are becoming automated, with counter roles increasingly limited to high-value transactions and complex consultations. Future work volume is expected to decline with AI adoption.
+存款/储蓄柜员职责因ATM、网上银行和AI聊天机器人而大幅缩减。尤其是简单的存取款和转账正变得自动化，柜员的角色越来越局限于大额交易和复杂咨询。未来工作量预计会随着AI的应用而下降。
 
-Obtaining qualifications and career advancement can lead to roles in exchange/loan counters or sales positions. Within banks, switching from general to comprehensive positions is possible.
+获取资格和职业晋升可前往兑换/贷款柜台或销售岗位。银行内部可从一般岗位转综合岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Deposit/withdrawal processing
-- Transfer/remittance processing
-- Passbook entry
-- Balance inquiry response
-- Simple address change procedures
+- 存款/取款处理
+- 转账/汇款处理
+- 银行存折录入
+- 余额查询回复
+- 简单的地址变更手续
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer needs analysis (AI-driven proposals)
-- Identity verification and screening for high-value transactions
-- Support for complex inheritance procedures
-- In-person consultation (asset management, housing loans)
+- 客户需求分析（基于AI的提案）
+- 高价值交易的身份验证和筛选
+- 复杂继承程序支持
+- 面对面咨询（资产管理、住房贷款）
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Skills (Trust Building)
-- Complex Financial Knowledge (Taxation, Inheritance)
-- Human Touch in Elderly Care
-- Regulatory Compliance & Judgment
+- 人际交往能力（建立信任）
+- 复杂财务知识（税务、遗产）
+- 老年护理中的人性关怀
+- 法规遵从与判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Knowledge of Financial Products (Investment Trusts, Insurance)
-- Financial Planning
-- Digital Tool Proficiency
-- Foreign Languages (for International Visitors)
+- 金融产品知识（投资信托、保险）
+- 财务规划
+- 数字工具熟练度
+- 外语（面向国际游客）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Decreasing trend
-- Labor saving
-- Elderly customer service
-- Retail banking
+- 呈下降趋势
+- 节省人力
+- 老年客户服务
+- 零售银行业务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | Requires specialized knowledge/experience in banking; N2+ Japanese & finance knowledge needed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as it doesn't fall under target fields. |
-| Subclass 永住者 (Permanent Resident) | Eligible to apply after long-term employment & meeting conditions. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and good at precise work
-- People who enjoy serving customers and are patient
-- People who can handle routine work
+- 注重细节、善于精确工作的人
+- 喜欢服务顾客且有耐心的人
+- 能够处理例行工作的人
 
 **谁不适合**
-- People who prefer creative work
-- People seeking change
+- 喜欢创造性工作的人
+- 寻求改变的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a deposit/savings teller?**
-答：About 2.8–3.5 million yen for entry-level, 3.5–4.5 million for mid-level, and 4–5.5 million for veterans. The average salary for bank employees varies by institution but generally ranges from 4–6 million yen.
+**问：储蓄/存款出纳员的平均年薪是多少？**
+答：入门级约280-350万日元，中级350-450万日元，资深400-550万日元。银行员工平均薪资因机构而异，但一般在400-600万日元之间。
 
-**问：How can a foreigner work as a teller?**
-答：An Engineer/Specialist in Humanities/International Services visa is required. Japanese N2 or above, financial knowledge or work experience are needed. Also, banks hiring foreigners is limited, mostly after studying abroad or for permanent residents.
+**问：外国人如何从事柜员工作？**
+答：需要人文/国际服务领域的工程师/专家签证。要求日语N2及以上，具备财务知识或工作经验。此外，银行雇佣外国人的情况有限，大多是在留学后或针对永久居民。
 
-**问：Are there career advancement opportunities?**
-答：By obtaining banking business certifications or FP qualifications, one can advance to loan counters or external sales. Some banks offer conversion exams for general positions.
+**问：有职业发展机会吗？**
+答：通过取得银行从业资格或FP资格，可晋升至贷款柜台或外勤销售。部分银行提供一般职位的转换考试。
 
 
 ---
@@ -152,12 +142,12 @@ Obtaining qualifications and career advancement can lead to roles in exchange/lo
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/deposit-counter-clerk/JP)**

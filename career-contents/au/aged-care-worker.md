@@ -53,8 +53,6 @@ Aged care workers provide daily living assistance, personal care, and social sup
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
-
 Personal care plans and specialized dementia care training are becoming industry standards, with home care models expanding rapidly. Bilingual care workers are in high demand, offering the most accessible pathway for immigrants to enter Australia's healthcare system.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Personal care plans and specialized dementia care training are becoming industry
 
 **PR friendliness: very high (★★★★★).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: It is one of the easiest occupations to find work in Australia — Seek consi
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aged-care-worker/AU)**

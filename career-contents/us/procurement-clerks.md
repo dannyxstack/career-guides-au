@@ -53,8 +53,6 @@ Procurement clerks gather information and records, and prepare purchase orders f
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Routine data processing, order entry, and invoice matching tasks for procurement clerks are highly automatable; AI and RPA will significantly reduce job numbers, but strategic procurement and supplier relationship management still require human decision-making.
-
 Purchasing clerks can advance to buyers or purchasing managers, requiring industry knowledge and supplier management experience. Some transition to supply chain analysis or contract management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Purchasing clerks can advance to buyers or purchasing managers, requiring indust
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to buyer, purchasing manager, or supply chain analyst roles, requ
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/procurement-clerks/US)**

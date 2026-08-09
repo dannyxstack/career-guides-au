@@ -52,8 +52,6 @@ Coordinates, regulates, or distributes electricity or steam to ensure grid stabi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of power distributors and dispatchers is being deeply reshaped by AI and automation: real-time monitoring and routine load distribution will be taken over by AI, but emergency decision-making and complex coordination still require human judgment, presenting a mixed outlook.
-
 Start as a junior dispatcher; with experience, advance to senior dispatcher, grid operations manager, or control center supervisor; some transition to energy trading or grid planning roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior dispatcher; with experience, advance to senior dispatcher, gri
 | Subclass EB-3 (EB-3 Skilled Workers) | Through PERM labor certification, applicable for skilled power dispatchers applying for a green card. |
 | Subclass Green Card (PERM) (Permanent Employment-Based Green Card) | Employer-sponsored green card pathway, requiring proof that no qualified US worker can be found. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires an associate degree or completion of on-the-job training, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-distributors-and-dispatchers/US)**

@@ -52,8 +52,6 @@ Engineering managers lead engineering project teams, managing budgets, schedules
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation risk for engineering managers is moderate: repetitive reporting, resource scheduling, and compliance checks will be taken over by AI, but strategic decision-making, cross-team coordination, and emergency management needs will actually increase. Overall job numbers are stable, but core responsibilities shift to higher value-add.
-
 Typically progress from senior engineer to engineering manager, then to senior project manager, engineering director, or CTO. Accumulating large project experience and PMP certification aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically progress from senior engineer to engineering manager, then to senior p
 | Subclass SMC (Skilled Migrant Category) | Can apply using the 6-point system, usually requires a bachelor's degree plus 3 years of experience or a higher degree for extra points. |
 | Subclass AEWV (Accredited Employer Work Visa) | If immigration conditions are not met, you can first work on a sponsored employer visa, then transition to permanent residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in engineering (accredited under the W
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-manager/NZ)**

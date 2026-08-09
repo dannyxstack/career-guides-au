@@ -50,8 +50,6 @@ A professional who operates railway vehicles to safely transport passengers or f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some driving tasks, but safety judgment and emergency response require humans, so full replacement is difficult.
-
 Career progression from junior driver to high-speed train driver or management position possible.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Career progression from junior driver to high-speed train driver or management p
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled train drivers, requires employer request |
-| Subclass F-2 (Residence) | Convertible after long-term residence, pre-permanent residency stage |
-| Subclass F-5 (Permanent Residence) | Acquirable for permanent residency, long-term stay status |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: A high school diploma or higher is acceptable, and completing railroad-relate
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-train-driver/KR)**

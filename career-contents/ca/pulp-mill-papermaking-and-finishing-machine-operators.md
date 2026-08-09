@@ -53,8 +53,6 @@ Operate and monitor pulp production, papermaking, and finishing equipment to ens
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Paper machine operators face high automation risk; AI and robots will take over core tasks like quality monitoring and parameter adjustment, leading to reduced demand, though equipment maintenance and anomaly handling still require humans.
-
 Operators can advance to senior operator, shift supervisor, or process coordinator. Further training can lead to maintenance or quality management.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Operators can advance to senior operator, shift supervisor, or process coordinat
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Paper mill environment is noisy, humid, with possible chemical exposure. Shif
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-mill-papermaking-and-finishing-machine-operators/CA)**

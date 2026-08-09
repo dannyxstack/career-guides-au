@@ -53,8 +53,6 @@ Foreign language teachers teach non-native languages such as English, French, Sp
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a positive impact on German as a foreign language teachers, automating some low-level tasks while enhancing instructional design and personalized learning capabilities, amplifying the professional value of teachers.
-
 Can advance from part-time teacher to full-time teacher or teaching director; through further education, obtain higher qualifications such as a Master's in Pedagogy, enabling entry into universities or management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from part-time teacher to full-time teacher or teaching director; th
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Public schools require passing a teaching qualification exam (Staatsexamen); 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foreign-language-teacher/DE)**

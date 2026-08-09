@@ -52,8 +52,6 @@ Responsible for installing and finishing interior walls and ceilings, including 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation is significantly impacted by AI automation; indoor plastering robots have begun replacing repetitive tasks, entry-level positions are narrowing, but advanced manual skills and on-site adaptability still hold value.
-
 After completing an apprenticeship, can advance to skilled worker; experienced individuals can become foremen or self-employed contractors, with some progressing to construction supervisors or project managers.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After completing an apprenticeship, can advance to skilled worker; experienced i
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for construction trades, e.g., BC PNP Tech. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, high approval rate for in-demand occupations |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Construction industry continues to grow, with a wave of retirements creating 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterers-drywall-installers-and-finishers-and-lathers-73102/CA)**

@@ -53,8 +53,6 @@ Fine artists create original artwork through various media such as painting, scu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools can generate images, optimise colour and composition, but the artist's core creative intent, artistic expression, and emotional resonance are difficult to replace; entry-level competition intensifies, freelance survival pressure increases, but AI assistance can improve efficiency and experimental range.
-
 Career path: start as a freelancer or gallery assistant, gradually build a personal brand, hold solo exhibitions, or move into management roles such as teaching or art direction.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: start as a freelancer or gallery assistant, gradually build a perso
 | Subclass O-1 (Extraordinary Ability Visa) | For artists with outstanding achievements in the arts, requiring international recognition |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-1A / EB-2 NIW)) | Extraordinary ability (EB-1A) or National Interest Waiver (EB-2 NIW) applicable to a few top artists |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Very limited pathways; only top artists can apply for O-1 visa or EB-1A green
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fine-artists-including-painters-sculptors-and-illustrators/US)**

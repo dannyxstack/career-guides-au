@@ -51,8 +51,6 @@ In Canada, statistical officers and research support professionals collect, anal
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-the impact of AI on statistical officers and research support roles is mixed: data cleaning and basic analysis tasks are automated, but skills in advanced analysis, methodological innovation, and policy advice are enhanced by AI, raising the career bar but increasing value.
-
 Start as a junior statistician or research assistant, and progress to senior statistical analyst, data scientist, or statistical manager with experience. Some may choose to obtain professional certification (e.g., P.Stat.) to enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as a junior statistician or research assistant, and progress to senior sta
 | Subclass PNP (Provincial Nominee Program) | Many provinces list statisticians as in-demand occupations, eligible for provincial nomination |
 | Subclass LMIA (Labour Market Impact Assessment) | With employer sponsorship, you can apply for a work visa to accumulate Canadian experience. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can progress from junior analyst to senior statistician or data science manag
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistical-officers-and-related-research-support-occupations/CA)**

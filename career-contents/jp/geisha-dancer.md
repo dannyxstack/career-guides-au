@@ -4,8 +4,6 @@
 
 Perform dances and arts on stage and at banquets, from traditional geisha to modern dance. Active in the entertainment and flower-and-willow world.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Perform dances and arts on stage and at banquets, from traditional geisha to mod
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-generated improvisational choreography and CG dancers are partially replacing roles, but human touch is needed for traditional arts and live performances. Demand remains in tourism.
-
 Geisha belong to okiya or ochaya, advancing from apprentice (maiko) to full-fledged. Dancers gain experience in troupes or clubs, and may advance to choreographer or instructor.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Geisha belong to okiya or ochaya, advancing from apprentice (maiko) to full-fled
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 芸術 (Artist Visa) | Required for performances; need established reputation |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Dancers rarely qualify |
-| Subclass 興行 (Entertainer Visa) | For short-term performances |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Learn the basics at vocational schools or dance studios and audition. Long-te
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geisha-dancer/JP)**

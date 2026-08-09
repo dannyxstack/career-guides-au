@@ -1,6 +1,6 @@
-# Aerospace Engineering and Operations Technologists and Technicians 职业分析 · 美国
+# 航空航天工程与运营技术专家和技术员（Aerospace Engineering and Operations Technologists and Technicians）职业分析 · 美国
 
-**职业代码: 17-3021 (SOC)**
+**职业代码：17-3021 (SOC)**
 
 从事航空航天器及地面支持系统的操作、安装、调整和维护，涉及计算机/通信系统、模拟器等设备，记录并解释测试数据。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,400. 美国航空航天业持续发展，商用太空旅行和无人机技术增长带来需求。BLS 预计 2022-2032 年就业增长约 6%，与平均水平持平。
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,400。美国航空航天业持续发展，商用太空旅行和无人机技术增长带来需求。BLS 预计 2022-2032 年就业增长约 6%，与平均水平持平。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -48,21 +48,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 航空航天工程与操作技师的工作将被AI显著增强而非取代，因为物理操作和合规性要求形成了护城河，但数据分析和模拟任务面临自动化风险。
 
 从初级技师起步，可晋升为高级技师、团队主管或工程支持经理。部分人通过继续教育转向航空航天工程岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手动记录测试数据并将结果输入数据库
 - 基础飞行模拟器操作和参数调整
 - 常规设备状态监控和预警报告生成
 - 标准文书工作，如维护日志填写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助诊断飞行器故障，提供维修建议
 - 利用AI模拟优化飞行测试参数
@@ -70,14 +70,14 @@
 - 使用自然语言助手快速检索技术手册
 - 自动化校准流程减少人为误差
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场安装、拆卸和维修复杂机械部件
 - 对异常故障的物理诊断和应急决策
 - 确保安全合规的操作流程监督
 - 与工程师合作解决非标准化问题
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI数据分析工具（如Python scikit-learn）
 - 自动化测试脚本编写（如LabVIEW）
@@ -86,16 +86,16 @@
 - 基础编程技能（Python/Java）
 - 故障诊断的AI辅助决策系统使用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Space commercial
-- UAV technology
-- Aviation safety
-- Automation
+- 太空商业
+- 无人机技术
+- 航空安全
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -104,9 +104,7 @@
 | Subclass EB-2 (Employment-Based Second Preference) | 需高级学位或特殊能力，PERM劳工证 |
 | Subclass EB-3 (Employment-Based Third Preference) | 适用于技术工人、专业人士，PERM 劳工认证 |
 
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中低（★★½☆☆）**
 
 ---
 
@@ -150,12 +148,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
+| PR友好度 | 中低（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/aerospace-engineering-and-operations-technologists-and-technicians/US)**

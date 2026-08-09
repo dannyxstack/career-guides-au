@@ -53,8 +53,6 @@ Hospital porters transport patients, equipment, linens, medical supplies, etc., 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hospital porters face high automation risk; indoor logistics automation (AGVs, robots) can handle most item transport, and AI will complete administrative scheduling and route optimization, significantly reducing job demand.
-
 Typically start as junior movers, gain experience to become senior movers or moving supervisors, or transition to medical support roles like nursing assistant or medical equipment operator; some advance to healthcare professionals through further study.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as junior movers, gain experience to become senior movers or mov
 | Subclass Health & Care (Health and Care Worker visa) | Laborers are usually not included; only registered medical professions can apply |
 | Subclass Graduate (Graduate visa) | Graduate visa holders can do this job, but it does not lead directly to permanent residency |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to moving supervisor, assist with nursing care, or become a medic
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospital-porters/UK)**

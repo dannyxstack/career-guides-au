@@ -53,8 +53,6 @@ Meat inspectors work in slaughterhouses and meat processing plants, inspecting l
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Visual inspection tasks for meat inspectors are easily automated by AI, but key duties involving sensory judgment, regulatory interpretation, and on-site decision-making still rely on humans; overall, there are both risks and opportunities.
-
 Usually starts as a junior inspector, with experience can advance to senior inspector or supervisor, or move into food safety management or government regulatory roles. Some enter veterinary public health through further study.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually starts as a junior inspector, with experience can advance to senior insp
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state nomination, with occupation on the relevant list. |
 | Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent residency, requires transition after a 482 visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Progress from inspector to senior inspector, supervisor, or shift to food saf
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-inspector/AU)**

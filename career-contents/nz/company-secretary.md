@@ -52,8 +52,6 @@ Company secretaries ensure the company complies with legal and regulatory requir
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Company Secretaries and Administrative Managers face high automation risk; AI can handle many clerical, compliance, and scheduling tasks, but the governance role of senior company secretaries still requires human judgment.
-
 Junior company secretary or assistant can advance to senior company secretary, or move into legal, risk management, compliance roles. Obtaining Governance New Zealand certification (e.g., Chartered Governance Professional) can lead to Governance Director or Board Advisor.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior company secretary or assistant can advance to senior company secretary, o
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If the occupation is on the Green List Tier 2, residency can be applied for after 2 years of work. Currently, company secretary is not on the Green List, but can be applied for through high salary (twice the median). |
 | Subclass AEWV (Accredited Employer Work Visa) | The most common work visa, requiring employer sponsorship and meeting salary requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's degree in commercial law or a related field, 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/company-secretary/NZ)**

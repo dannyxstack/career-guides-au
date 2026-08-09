@@ -1,8 +1,8 @@
-# Pattern Maker 职业分析 · 韩国
+# 模型制作师（Pattern Maker）职业分析 · 韩国
 
-**职业代码: 86211 (KECO)**
+**职业代码：86211 (KECO)**
 
-A professional who creates patterns (blueprints) for cutting fabric based on clothing design drawings, playing a key role in textile and apparel production.
+根据服装设计图纸制作裁剪面料图案（蓝图）的专业人员，在纺织和服装生产中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who creates patterns (blueprints) for cutting fabric based on clo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College | 2 年 | $8,000,000~$12,000,000（National/Public University Tuition） |
-| Polytechnic College | 1年 | $3,000,000~$5,000,000（Varies by course） |
+| 社区学院 | 2 年 | $8,000,000~$12,000,000（国立/公立大学学费） |
+| 理工学院 | 1年 | $3,000,000~$5,000,000（因课程而异） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who creates patterns (blueprints) for cutting fabric based on clo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fashion Design Industrial Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for obtaining Engineering Grade Employment Visa (E-7) |
-| Pattern Maker Certification | Korea Pattern Maker Association | 可选 | Private certification, preferred in the industry |
+| 时装设计工业工程师 | 韩国人力资源开发服务局 | 可选 | 有利于获得工程行业就业签证（E-7） |
+| 制版师认证 | 韩国制版师协会 | 可选 | 行业优先认可的私人认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 21,000. Employment is expected to stagnate due to automation in the fashion industry and increased overseas production, but demand for high-end custom clothing and small-batch production is likely to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 21,000。由于时尚行业的自动化和海外生产的增加，就业预计停滞，但对高端定制服装和小批量生产的需求可能持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,89 +38,82 @@ A professional who creates patterns (blueprints) for cutting fabric based on clo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $24,000,000~$30,000,000 | Based on base salary |
+| 初级 (0-3年) | $24,000,000~$30,000,000 | 基于基本薪资 |
 | 中级 (4-7年) | $32,000,000~$40,000,000 | 经验丰富后增长 |
-| 高级（8年+） | $42,000,000~$55,000,000 | Based on senior pattern maker standards |
+| 高级（8年+） | $42,000,000~$55,000,000 | 基于高级样板师标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-The automation of pattern making is progressing with advances in CAD software and 3D virtual fitting technology, and the risk of AI replacement is high, especially in mass production.
+随着CAD软件和3D虚拟试穿技术的进步，纸样制作正在实现自动化，在批量生产中尤其面临被AI替代的高风险。
 
-Starting as a junior pattern maker, one can advance to senior pattern maker or design room manager with experience; learning CAD skills may allow transition to designer or technician roles.
+从初级打版师开始，随着经验积累可晋升为高级打版师或设计室经理；学习CAD技能后可能转型为设计师或技术员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive pattern creation
-- Manual pattern modification tasks
-- Basic CAD tasks
+- 简单的重复图案创作
+- 手动纸样修改任务
+- 基本CAD任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Quick pattern generation
-- 3D simulation feedback
-- Fabric-saving optimization
+- 快速制版
+- 3D模拟反馈
+- 省料优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensitive design interpretation
-- Custom fitting know-how
-- Handcrafted high-end finishing skills
+- 敏感设计解读
+- 定制合身技术
+- 手工高端饰面技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Fashion CAD
-- 3D virtual fitting
-- Understanding of garment structure
-- Knowledge of material properties
+- 服装CAD
+- 3D虚拟试衣
+- 服装结构理解
+- 材料属性知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fashion CAD
-- 3D Virtual Fitting
-- Custom Tailoring
-- Small-batch production
+- 服装CAD
+- 3D虚拟试衣
+- 定制裁缝
+- 小批量生产
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employable as skilled functional worker in apparel manufacturing; issued upon meeting degree or experience requirements |
-| Subclass E-9 (Non-professional Employment (E-9)) | Can be employed as non-professional workforce, but pattern maker is eligible for E-7, limited for E-9 |
-| Subclass F-2 (Residence) | Pre-permanent residency stage, no employment restrictions for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone meticulous, detail-oriented, with design sense
-- Someone interested in garment production process and dexterous
+- 注重细节、有设计感的人
+- 对服装生产过程感兴趣且灵巧的人
 
 **谁不适合**
-- Someone who finds repetitive work boring
-- Someone who prefers manual work over computer work
+- 觉得重复工作无聊的人
+- 偏好体力工作而非电脑工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a pattern maker?**
-答：Entry-level pattern maker: about 24-30 million KRW, mid-level: 32-40 million KRW, senior: 42-55 million KRW.
+**问：打版师的年薪是多少？**
+答：初级打版师：约2400-3000万韩元，中级：3200-4000万韩元，高级：4200-5500万韩元。
 
-**问：What visa does a foreigner need to work as a pattern maker?**
-答：E-7 (Specific Activities) visa is suitable, requiring relevant degree or 5+ years of experience. E-9 (Non-professional Employment) visa is limited.
+**问：外国人从事打版师工作需要什么签证？**
+答：E-7（特定活动）签证适用，需相关学位或5年以上经验。E-9（非专业就业）签证有限制。
 
 
 ---
@@ -138,12 +131,12 @@ Starting as a junior pattern maker, one can advance to senior pattern maker or d
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pattern-maker/KR)**

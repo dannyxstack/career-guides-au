@@ -51,8 +51,6 @@ Responsible for mine design, mineral processing, optimization of metallurgical p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mining engineers are affected by both AI automation and augmentation: repetitive design and monitoring are easily replaced, but strategic decisions and compliance responsibilities still require humans. The overall impact tends to task reorganization rather than job elimination.
-
 Junior engineers can be promoted to project supervisor, technical manager, or mining area manager. After gaining experience, you can move on to consulting, regulatory, or overseas projects. Some enter the research and development field after further study.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior engineers can be promoted to project supervisor, technical manager, or mi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for technical positions with a bachelor's degree or above, annual salary of about 34,000 euros or more, enabling quick EU residency. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly skilled professionals, with educational and contract requirements, and approval is relatively fast. |
-| Subclass Cuenta ajena (Employed Work Permit) | Regular employment residence requires employer sponsorship and applies to ordinary engineers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: You must first complete academic certification (homologación), confirming th
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-metallurgical-and-related-technical-engineers/ES)**

@@ -53,8 +53,6 @@ Responsible for the production, processing, and quality control of plastic and r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI and automation on plastics and rubber production specialists is mixed: procedural tasks are easily automated, but machine monitoring, anomaly handling, and material debugging still require human judgment; jobs won't disappear but skill requirements will be higher.
-
 Can be promoted from operator to team leader, production supervisor, or technical specialist. Through continuing education, can transition to process optimization, mold design, or quality management; some may enter engineering or management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted from operator to team leader, production supervisor, or technica
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows one year to seek work in Germany; requires basic German and proof of qualifications |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job search period, requiring proof of education and funds |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from operator to team leader, technician, production supervisor,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-and-rubber-production-specialist/DE)**

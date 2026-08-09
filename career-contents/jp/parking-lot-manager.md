@@ -49,8 +49,6 @@ A job that involves customer service, fee collection, facility inspection, and c
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Due to the spread of automatic payment machines and remote monitoring systems, manned parking lot management operations are on the decline. While fully unmanned parking lots are increasing, tasks requiring human intervention, such as troubleshooting and complaint handling, remain.
-
 Easy to enter even without experience, but career paths are limited. Advancement to management duties or overseeing multiple facilities is possible.
 
 **Tasks most exposed to AI:**
@@ -87,15 +85,9 @@ Easy to enter even without experience, but career paths are limited. Advancement
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Parking lot management falls under building cleaning; requires skill exam and Japanese N4 or higher. Max 5 years of work. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Building Cleaning)) | Up to 3 years. Transfer to Specified Skilled Worker (i) also possible. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -139,12 +131,12 @@ A: Become an area manager overseeing multiple lots, move into management at a pa
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-lot-manager/JP)**

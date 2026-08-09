@@ -1,10 +1,8 @@
-# Middle and high school teacher 职业分析 · 韩国
+# 初高中教师（Middle and high school teacher）职业分析 · 韩国
 
-**职业代码: 21211 (KECO)**
+**职业代码：21211 (KECO)**
 
-A professional educator who teaches subjects, provides life guidance, and career counseling to students in middle and high schools.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在中学和高中教授科目、提供生活指导和职业咨询的专业教育者。
 
 
 ---
@@ -13,9 +11,9 @@ A professional educator who teaches subjects, provides life guidance, and career
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College of Education | 4年 | $4,000,000~$10,000,000（Annual tuition: national universities at the lowest level） |
-| Teaching course (general university) | 4年 | $5,000,000~$12,000,000（No additional cost for teaching course, but tuition varies） |
-| Graduate School of Education | 2 年 | $6,000,000~$15,000,000（Master's program, annual tuition） |
+| 教育学院 | 4年 | $4,000,000~$10,000,000（年学费：国立大学最低水平） |
+| 教学课程（普通大学） | 4年 | $5,000,000~$12,000,000（教学课程无额外费用，但学费因校而异） |
+| 教育学院研究生院 | 2 年 | $6,000,000~$15,000,000（硕士项目，年学费） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional educator who teaches subjects, provides life guidance, and career
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Secondary School Regular Teacher Grade 2 Certificate | 教育部 | 必备 | Obtained after completing College of Education or teaching course |
-| Passing the appointment exam | City/Provincial Office of Education | 必备 | Required for public school teacher appointment |
-| Teacher Certificate (Private) | Relevant school corporation | 可选 | Private schools have own standards |
+| 中学普通教师二级证书 | 教育部 | 必备 | 完成教育学院或师范课程后获得 |
+| 通过任命考试 | 市/省教育厅 | 必备 | 公立学校教师任命所需 |
+| 教师资格证（私立） | 相关学校法人 | 可选 | 私立学校有自有标准 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 420,000. Due to the sharp decline in the school-age population from low birth rates, teacher recruitment is decreasing, but some replacement demand is expected to persist due to adjustments in teacher college enrollment and retirements.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 420,000。由于低出生率导致学龄人口锐减，教师招聘正在减少，但因师范院校招生调整和退休等因素，部分替代需求预计将持续。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A professional educator who teaches subjects, provides life guidance, and career
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–5 years) | $35,000,000~$45,000,000 | Salary scale system, based on 2023 public school standards |
-| Intermediate (6–15 years) | $45,000,000~$60,000,000 | Increases with pay steps |
-| Advanced (16+ years) | $60,000,000~$80,000,000 | Salary for vice principal/principal separate |
+| 初级（0-5年） | $35,000,000~$45,000,000 | 薪级表制度，基于2023年公立学校标准 |
+| 中级（6-15年） | $45,000,000~$60,000,000 | 随薪资等级递增 |
+| 高级（16年以上） | $60,000,000~$80,000,000 | 副校长/校长薪资另计 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI streamlines some tasks like lesson preparation, grading, and data analysis, but human-specific roles such as student relationship building and guidance are difficult to replace with AI, actually strengthening the value of teachers.
+AI简化了备课、评分和数据分析等任务，但建立学生关系、指导等人性化角色难以被AI替代，反而强化了教师的价值。
 
-After obtaining a regular teacher certificate, one is appointed to public schools through the appointment exam. Promotion follows the order of teacher → head teacher → vice principal → principal. Private schools follow their own regulations.
+获得正式教师资格后，通过聘用考试分配到公立学校。晋升顺序为教师→班主任→副校长→校长。私立学校按自身规定执行。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple grading and grade processing
-- Basic Q&A
-- Searching and organizing class materials
+- 简单分级与等级处理
+- 基础问答
+- 搜索和整理课堂材料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individual learning design
-- Career counseling data analysis
-- Automating lesson feedback
+- 个性化学习设计
+- 职业咨询数据分析
+- 自动生成课程反馈
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Moral judgment
-- Relationship building
-- Unstructured problem solving
+- 同理心
+- 道德判断
+- 建立关系
+- 非结构化问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based lesson design
-- Data literacy
-- Basics of Psychological Counseling
+- 基于AI的课程设计
+- 数据素养
+- 心理咨询基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- IB education
-- High school credit system
-- Digital textbooks
+- IB教育
+- 高中学分制
+- 数字教材
 - 教师培训
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to some international or foreign school teachers but not regular middle/high schools |
-| Subclass F-2 (Residence) | Pre-permanent residence stage, fewer work restrictions |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can obtain teacher qualifications but have hiring restrictions |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People passionate about education
-- People interested in youth development
-- People with excellent communication skills
+- 热爱教育的人
+- 对青少年发展感兴趣的人
+- 沟通能力强的人
 
 **谁不适合**
-- People not flexible with change
-- People vulnerable to interpersonal stress
+- 不适应变化的人
+- 易受人际压力影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual salary of middle and high school teachers?**
-答：Starting salary (Step 1) is around 35 million KRW, and over 15 years, it rises to over 60 million KRW. Private schools may have some differences.
+**问：中小学教师的年薪是多少？**
+答：起薪（第1级）约为3500万韩元，超过15年升至6000万韩元以上。私立学校可能略有不同。
 
-**问：Can foreigners become teachers in Korea?**
-答：For regular middle and high schools, the employment exam must be taken in Korean, making it virtually impossible; foreign schools or international schools are possible with an E-7 visa.
+**问：外国人可以在韩国当老师吗？**
+答：对于普通中学和高中，就业考试必须用韩语参加，几乎不可能；外语学校或国际学校可通过E-7签证实现。
 
-**问：What qualifications are needed to become a teacher?**
-答：One must complete a college of education or a teaching course at a general university, obtain a secondary school teacher level 2 certificate, and pass the city/provincial education office employment exam for public schools.
+**问：成为教师需要哪些资格？**
+答：需完成师范大学或普通大学的师范课程，取得中等学校二级教师资格证，并通过市/道教育厅的公立学校录用考试。
 
 
 ---
@@ -147,12 +137,12 @@ After obtaining a regular teacher certificate, one is appointed to public school
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/middle-and-high-school-teacher/KR)**

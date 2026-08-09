@@ -53,8 +53,6 @@ Perform bookbinding and print finishing by hand or machine, operating binding an
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Print bindery and finishing workers face significant automation compression risk; AI and robots will gradually take over repetitive binding and inspection tasks, reducing entry-level positions, but machine maintenance and special material handling still require humans.
-
 Can progress from operator to senior technician, supervisor, or print production manager; need to accumulate binding equipment setup and maintenance skills, some move into digital printing.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from operator to senior technician, supervisor, or print production
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Very difficult. Usually does not meet H-1B specialty occupation requirements;
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-binding-and-finishing-workers/US)**

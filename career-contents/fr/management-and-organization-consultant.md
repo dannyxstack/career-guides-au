@@ -54,8 +54,6 @@ We provide consulting services for companies on strategic, organizational struct
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Junior consultants can be promoted to project manager, senior consultant, and then to managing partner and business director. You can also transform your company's internal strategy/operations departments. Senior individuals can establish independent consulting firms.
 
 **Tasks most exposed to AI:**
@@ -102,16 +100,9 @@ Junior consultants can be promoted to project manager, senior consultant, and th
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, such as those with a master's degree or above + employment contract, valid for 4 years, renewable with the right to renew |
-| Subclass Carte bleue européen (EU Blue Card) | Requires annual salary ≥ €53,836.50 (2024 standard), contract at least 1 year, suitable for intermediate-level and above consultants |
-| Subclass Salarié (Employee Work Permit) | Apply with a work contract, pass a labor market test (exemption available for shortage occupations), valid with the contract |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +146,12 @@ A: Usually, a BAC+5 (Master's) is required, with a master's degree in management
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-and-organization-consultant/FR)**

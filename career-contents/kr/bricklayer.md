@@ -50,8 +50,6 @@ A construction skilled worker who builds walls or structures by stacking bricks,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI and automation may not fully replace bricklaying work, BIM and robotic technologies are being used as auxiliary tools, which may reduce some repetitive tasks. However, precision bricklaying and on-site adaptability will still rely heavily on human roles.
-
 After field experience, can be promoted to bricklaying master; possible to become a construction site manager or start a specialized construction company.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After field experience, can be promoted to bricklaying master; possible to becom
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers, applies to construction industry including bricklayers under Employment Permit System |
-| Subclass E-7 (Specific Activities) | Can switch to skilled worker (E-7-1), requires proving expertise |
-| Subclass F-2 (Residence) | Apply after certain period of stay, few restrictions on employment |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: No special academic background is required, but receiving vocational training
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bricklayer/KR)**

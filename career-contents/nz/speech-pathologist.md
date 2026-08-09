@@ -52,8 +52,6 @@ Speech therapists are registered health professionals in New Zealand with high d
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Speech therapists are less affected by AI, with low automation displacement risk, but AI tools can significantly enhance diagnosis, reporting, and remote service capabilities; proactive adoption of new technologies to improve efficiency and service scope is needed.
-
 Entry-level speech pathologists can gain experience in public hospitals, schools, or private clinics. Advancement paths include senior clinical therapist, team leader, or opening own practice; can also move into academic research or policy development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level speech pathologists can gain experience in public hospitals, schools
 | Subclass SMC (Skilled Migrant Category) | Through the 6-point system, qualifications (3-5 points) + work experience (1-3 points) meet 6 points to apply |
 | Subclass AEWV (Accredited Employer Work Visa) | If residence requirements not met, can work on a work visa first, gain experience, then switch to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must complete a bachelor's or master's degree in speech therapy (e.g., 4-year
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-pathologist/NZ)**

@@ -54,8 +54,6 @@ An Instrumentation Technician is responsible for the installation, calibration, 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation will significantly enhance the capabilities of instrumentation technicians, freeing them from tedious calibration and data recording to focus on complex troubleshooting and system optimization.
-
 Industry 4.0 and process automation upgrades are increasing demand for instrumentation systems. Technicians with SCADA/DCS (ABB/Honeywell/Siemens) skills command a notable salary premium. Day rates during mining shutdowns are exceptionally high.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Industry 4.0 and process automation upgrades are increasing demand for instrumen
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Not required. A Certificate IV is sufficient to enter the field; those with a
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/instrumentation-technician/AU)**

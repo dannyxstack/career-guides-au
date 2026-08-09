@@ -51,8 +51,6 @@ Fundraising managers plan, direct, or coordinate fundraising activities for spec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core work of fundraising managers (relationships and strategy) is hard to replace by AI, but supporting tasks (data organization, copywriting) can be largely automated. AI enhances rather than replaces, but generalist roles (e.g., writing fundraising emails) may be compressed.
-
 Career path typically starts as a fundraising officer or event coordinator, then progresses to fundraising manager, and then to director or vice president level. Some may transition to consulting or foundation development.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path typically starts as a fundraising officer or event coordinator, then
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or equivalent experience; requires PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Mandatory step for EB-2 or EB-3 green card, must prove no qualified US workers available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can start as a fundraising officer, advance to manager, director, and eventua
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fundraising-managers/US)**

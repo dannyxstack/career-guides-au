@@ -54,8 +54,6 @@ In Canada, paramedics provide emergency medical care, patient transport, and on-
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on paramedic tasks is mixed: it enhances efficiency in dispatch, documentation, and image analysis, but core tasks like clinical assessment, emergency response, and patient communication are hard to automate, making overall risk moderate.
-
 Primary Care Paramedic (PCP) can advance to Advanced Care Paramedic (ACP) or Critical Care Paramedic (CCP), then to supervisor, educator, or healthcare management. Some mobility between provinces and territories.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Primary Care Paramedic (PCP) can advance to Advanced Care Paramedic (ACP) or Cri
 | Subclass EE (Express Entry) | If eligible for FSW or CEC, can get 600 points through provincial nomination, or receive direct invitation with high CRS. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored, lower threshold. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Main pathways include obtaining a provincial nomination (PNP), Express Entry 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paramedical-occupations/CA)**

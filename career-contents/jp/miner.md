@@ -50,8 +50,6 @@ Occupation that excavates mineral resources in mines. Involves drilling, blastin
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The remote operation and automation of mining machinery are advancing through AI and automation, reducing physical labor, but on-site judgment and safety management remain with humans. Overall employment is shrinking due to the decline in mines.
-
 Career progression from pit worker to blaster or site supervisor possible. Upskill via licenses and safety management.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ Career progression from pit worker to blaster or site supervisor possible. Upski
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Mining)) | Pass exam & JLPT N4+. Max 5-year stay. |
-| Subclass 技能実習3号 (Technical Intern Training (Mining)) | Can transfer to Specified Skilled Worker after training. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +134,12 @@ A: After being hired by a mining company, on-site training is common. Obtaining 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/miner/JP)**

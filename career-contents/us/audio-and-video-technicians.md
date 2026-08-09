@@ -52,8 +52,6 @@ Responsible for setting up, operating, and maintaining audio and video equipment
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is compressing basic equipment operation roles but enhancing creative mixing and remote production capabilities; entry-level narrows but advanced positions gain value.
-
 Junior technicians can advance to technical supervisor, project manager, or systems engineer through experience. They can also specialize in broadcast engineering, live event production, or post-production.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to technical supervisor, project manager, or syst
 | Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | PERM labor certification required, suitable for those with master's degree or higher or outstanding abilities. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Sponsorship for a green card requires proving labor shortage. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires an associate degree or equivalent work experience; technic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audio-and-video-technicians/US)**

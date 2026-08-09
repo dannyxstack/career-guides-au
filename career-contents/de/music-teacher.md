@@ -55,8 +55,6 @@ Music teachers teach music theory, instrument playing, or vocal performance at s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Music teachers face mixed effects from AI: basic course teaching and assessment may be reduced by AI tools, but personalized guidance, emotional interaction, and creative curriculum design still rely heavily on human teachers. Job demand remains stable overall but skill requirements are upgrading.
-
 You can start as a freelance teacher, gain experience, then move into management roles at music schools or become a music education consultant; some teachers go into university teaching.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ You can start as a freelance teacher, gain experience, then move into management
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa for finding music education positions |
 | Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to find a music teacher job |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Public school teachers must hold a national teaching license, while private m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-teacher/DE)**

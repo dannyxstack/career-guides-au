@@ -51,8 +51,6 @@ Trade brokers act as intermediaries between buyers and sellers to facilitate tra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of trade brokers, such as order matching, market data analysis, and compliance checks, will be largely taken over by AI trading algorithms and automated platforms, significantly reducing entry-level positions, but complex negotiations and client relationship maintenance still require humans.
-
 Usually start as an analyst or assistant, accumulate client resources and industry experience to advance to senior broker, some transition to investment management or start their own brokerage firm.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as an analyst or assistant, accumulate client resources and indust
 | Subclass General Employment P (General Employment Permit) | Applicable for positions with annual salary ≥ €30,000, requiring a labour market test. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU professionals with annual salary ≥ 1.5 times the general level (approx. €40,000). |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must obtain a work permit, such as a Critical Skills Permit or General Employ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trade-broker/IE)**

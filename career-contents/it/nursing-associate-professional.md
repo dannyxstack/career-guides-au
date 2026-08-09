@@ -52,8 +52,6 @@ Nursing assistant professionals provide basic care and patient support under the
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Nursing support professionals face a high risk of automation; AI/automation will replace basic vital sign monitoring, data entry, patient file management, and some routine communication tasks, reducing opportunities for assistant roles.
-
 Can advance from nursing assistant to registered nurse by attending a university nursing course. Also can move toward specialist nursing, aged care, or nursing management with additional certifications.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can advance from nursing assistant to registered nurse by attending a university
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card Italy) | For highly skilled non-EU citizens, requires a university degree and an annual salary threshold (approx. €24,789), nursing assistants usually qualify. Valid for 1-4 years, convertible to permanent residence. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italian annual quota work visa, applicable to non-EU workers, including caregivers. Requires employer sponsorship, with limited quota. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit requires employer to apply to the provincial labour bureau; issued upon approval. Applicable to all types of work, including care assistant. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must complete a three-year nursing bachelor's degree (costing approximately 4
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-associate-professional/IT)**

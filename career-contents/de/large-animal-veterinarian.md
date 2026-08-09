@@ -53,8 +53,6 @@ Large animal veterinarians specialize in diagnosing, treating, and preventing di
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
-
 Starting as a clinic veterinarian, can advance to specialist veterinarian (e.g., internal medicine, surgery), or enter government roles (e.g., official veterinarian), research institutions, or open a private practice.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a clinic veterinarian, can advance to specialist veterinarian (e.g.,
 | Subclass Skilled Worker (Skilled Immigration Act) | Applies to certified occupations; requires German-recognized qualifications and an employment contract. |
 | Subclass Anerkennung (Recognition Visa) | Used to enter Germany in advance for the qualification recognition process. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can become a specialist veterinarian (e.g., large animal surgery), enter the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/large-animal-veterinarian/DE)**

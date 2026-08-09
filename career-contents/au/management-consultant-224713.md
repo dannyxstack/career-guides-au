@@ -52,8 +52,6 @@ Management consultants provide expert advice on strategy, operations, finance, o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Typical promotion path: from junior consultant to senior consultant, manager, director, and eventually partner. Can also transition to internal strategy or operational management roles in the industry.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typical promotion path: from junior consultant to senior consultant, manager, di
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Data analysis, strategic thinking, project management, client communication, 
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultant-224713/AU)**

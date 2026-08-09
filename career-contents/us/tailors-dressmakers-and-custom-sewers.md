@@ -53,8 +53,6 @@ Tailors, dressmakers, and custom sewers design, make, alter, or repair garments 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
-
 Career often starts as an apprentice or sewing assistant, gaining experience to become an independent tailor or open a custom clothing store; some move into stage costume design, vintage clothing restoration, or haute couture.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career often starts as an apprentice or sewing assistant, gaining experience to 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: BLS predicts declining employment, but customizing and repair services still 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tailors-dressmakers-and-custom-sewers/US)**

@@ -57,8 +57,6 @@ Auditors conduct independent reviews of corporate financial statements and inter
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will automate data collection and some verification tasks, but audit judgment, fraud detection, and emerging areas like ESG still require human leadership, transitioning auditors toward data analysis and consulting roles.
-
 ESG/sustainability reporting assurance is the largest growth area in Australia's audit industry from 2025 to 2030, with ASIC mandating independent assurance of sustainability reports for large companies. IT audit and cybersecurity audit offer the highest salary premiums as specialisation areas.
 
 **Tasks most exposed to AI:**
@@ -115,9 +113,7 @@ ESG/sustainability reporting assurance is the largest growth area in Australia's
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 | Subclass 491 (Skilled Work Regional) | Regional government audit roles attract a 15-point bonus |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Both migration pathways are equally well-established (both MLTSSL + CPA/CAANZ
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auditor/AU)**

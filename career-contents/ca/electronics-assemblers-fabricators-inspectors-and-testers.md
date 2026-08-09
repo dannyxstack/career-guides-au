@@ -52,8 +52,6 @@ Responsible for assembling, manufacturing, inspecting, and testing electronic pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
-
 Can progress from junior assembler to senior inspector, test technician, or production supervisor. After gaining experience, one can shift to quality control or process engineering roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior assembler to senior inspector, test technician, or prod
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g. Ontario, British Columbia) have skilled trades categories that can nominate electronic assemblers. |
 | Subclass LMIA (Labour Market Impact Assessment) | If employer obtains LMIA, can apply for work permit, gaining experience for immigration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior inspector, testing technician, production supervisor, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-assemblers-fabricators-inspectors-and-testers/CA)**

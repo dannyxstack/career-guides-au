@@ -4,8 +4,6 @@
 
 Wedding planners are professionals who plan and prepare weddings, providing overall wedding services including budget management, vendor selection, and schedule coordination.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Wedding planners are professionals who plan and prepare weddings, providing over
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can automate tasks like wedding schedule management, budget calculation, and vendor recommendations, but emotional interaction with clients, creative planning, and on-site coordination still require human roles.
-
 Starting as a junior planner, one can advance to a senior planner after 3–5 years, and to a wedding consultant or independent business after 7–10 years. The field is moving away from large wedding companies toward personal brands and studios.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting as a junior planner, one can advance to a senior planner after 3–5 ye
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign wedding planners with professional qualifications employed in domestic companies, but issuance records are extremely rare. |
-| Subclass F-2 (F-2 (Residence)) | Foreign residents in Korea can work as wedding planners without employment restrictions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Starting as an entry-level, one typically progresses to mid-level and senior 
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wedding-planner/KR)**

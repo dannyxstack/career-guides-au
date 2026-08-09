@@ -1,10 +1,8 @@
-# Meat Butcher and Slaughterhouse Worker 职业分析 · 韩国
+# 肉类屠宰工和屠宰场工人（Meat Butcher and Slaughterhouse Worker）职业分析 · 韩国
 
-**职业代码: 87211 (KECO)**
+**职业代码：87211 (KECO)**
 
-This occupation involves slaughtering livestock such as cattle, pigs, and chickens at slaughterhouses or butcher shops, and breaking down and trimming carcasses to process into retail or processing meat. It is a professional role in the meat processing field where food safety and hygiene are key.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及在屠宰场或肉店屠宰牛、猪、鸡等牲畜，并分解和修剪胴体以加工成零售或加工用肉。是肉类加工领域的一个专业角色，食品安全和卫生是关键。
 
 
 ---
@@ -13,7 +11,7 @@ This occupation involves slaughtering livestock such as cattle, pigs, and chicke
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 义务教育 | 无 | $0~$0（No degree required） |
+| 义务教育 | 无 | $0~$0（无需学历） |
 
 ---
 
@@ -21,18 +19,18 @@ This occupation involves slaughtering livestock such as cattle, pigs, and chicke
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food Hygiene Education Completion Certificate | Ministry of Food and Drug Safety | 必备 | Required for Food Handlers |
-| Meat Cutter Certification | Korea Meat Association | 可选 | Preferred by some companies, not legally required |
-| Driver's License Type 2 Ordinary | National Police Agency | 可选 | Required if includes delivery work |
+| 食品卫生教育结业证书 | 食品药品安全部 | 必备 | 食品处理人员必备 |
+| 肉类切割师认证 | 大韩肉类协会 | 可选 | 部分公司偏好，非法律强制要求 |
+| 普通二类驾驶证 | 国家警察厅 | 可选 | 如包含配送工作则需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 72,000. While Korea's meat consumption is stagnating, demand for processed meat and HMR is increasing, so slaughtering and butchery manpower is expected to remain at a certain level. However, the adoption of automation and the influx of unskilled foreign workers will limit employment growth.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 72,000。尽管韩国肉类消费停滞，但加工肉类和家庭替代餐的需求增加，因此屠宰和分割劳动力预计将保持一定水平。然而，自动化的采用和非熟练外国工人的涌入将限制就业增长。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,95 +38,87 @@ This occupation involves slaughtering livestock such as cattle, pigs, and chicke
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $25,000,000~$30,000,000 | Slaughtering & Meat Cutting Assistant, Pre-tax |
-| Intermediate (4~9 years) | $32,000,000~$40,000,000 | Boneless Deboning & Trimming Skilled Worker |
-| 高级（10年以上） | $40,000,000~$55,000,000 | Master Butcher or Manager |
+| 初级（0-3年） | $25,000,000~$30,000,000 | 屠宰与切肉助手，税前 |
+| 中级（4~9年） | $32,000,000~$40,000,000 | 剔骨去骨与修整熟练工 |
+| 高级（10年以上） | $40,000,000~$55,000,000 | 主屠夫或经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-Although AI and robots are replacing some slaughtering and butchering processes (e.g., automatic deboners, AI sorting), high-level deboning and trimming work as well as customized services at small butcher shops still require human skilled workers, so the occupation itself will not completely disappear.
+虽然AI和机器人正在取代部分屠宰和加工流程（例如自动剔骨机、AI分拣），但高级剔骨、修整工作以及小型肉铺的定制服务仍需要人类熟练工人，因此该职业不会完全消失。
 
-Starting as a junior butcher, you can grow into a skilled cutter and boner after 2-3 years. Build your career at large-scale slaughterhouses, then advance to opening a small butcher shop or managing a meat processing plant.
+从初级屠夫做起，2-3年后可成长为熟练的切割和剔骨工。在大规模屠宰场建立职业生涯，然后晋升为开设小型肉店或管理肉类加工厂。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Cutting and Packing Work
-- Repetitive Carcass Splitting
-- Weight and Size Sorting
+- 简单切割和包装工作
+- 重复性胴体分割
+- 重量和尺寸分拣
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based Optimal Deboning Line Design
-- Precision Part Identification and Grade Assessment (AI-assisted)
-- Sanitary Inspection Automation System Monitoring
+- 基于AI的最优剔骨线设计
+- 精密零件识别和等级评估（AI辅助）
+- 卫生检查自动化系统监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced Deboning Skills and Hand Craftsmanship
-- Species-specific Expertise
-- Customer-tailored Butchery Services (Consumer Contact)
-- Experience with Live Animals and Hygiene Sense
+- 高级剔骨技能与手工工艺
+- 物种特异性专长
+- 定制化屠宰服务（客户接触）
+- 活体动物处理经验与卫生意识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot and Automation Equipment Operation
-- HACCP and Food Safety Management Certification
-- Basic ICT (Digital Order and Inventory Management)
-- Foreign Language (English, Vietnamese) – for Multinational Workplaces
+- 机器人与自动化设备操作
+- HACCP和食品安全管理认证
+- 基础信息通信技术（数字订单和库存管理）
+- 外语（英语、越南语）——适用于跨国工作场所
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Meat Processing Automation
-- Pre-processed Meat for HMR
-- Food Safety
-- Demand for Skilled Butchers
+- 肉类加工自动化
+- HMR预处理肉
+- 食品安全
+- 对熟练屠夫的需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Slaughtering and meat processing industry is eligible for E-9 (Non-professional Employment) under the Employment Permit System. Unskilled foreign workers can be employed. |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled butchers can apply for E-7-1 (Skilled Worker). Professionals in slaughtering and meat processing. |
-| Subclass F-2 (Residence (F-2)) | After 5+ years on E-7, can switch to permanent residence. Includes F-2-4 (Skilled Worker). |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit to endure hard physical labor.
-- Confident with knife skills and manual dexterity.
-- Able to accept night shifts and weekend work.
+- 身体健康，能够承受高强度体力劳动。
+- 精通刀工且手部灵活。
+- 能够接受夜班和周末工作。
 
 **谁不适合**
-- Has an aversion to animal carcass processing.
-- Dislikes hygiene rules and repetitive tasks.
+- 对动物尸体加工有反感。
+- 不喜欢卫生规定和重复性工作。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual salary for a butcher?**
-答：Entry-level: 25-30 million KRW; after 5+ years: 35-45 million KRW. Higher at large slaughterhouses or premium butcher shops, may include overtime pay.
+**问：屠夫的年薪是多少？**
+答：入门级：2500-3000万韩元；5年以上经验：3500-4500万韩元。大型屠宰场或高档肉店更高，可能包含加班费。
 
-**问：Can foreigners work as butchers?**
-答：Yes, with an E-9 (Non-professional Employment) visa for slaughtering and meat processing plants. Skilled workers can switch to an E-7-1 (Skilled Worker) visa for long-term work, and later to an F-2 residence visa with potential for permanent residency.
+**问：外国人可以做屠夫吗？**
+答：可以，持E-9（非专业就业）签证在屠宰和肉类加工厂工作。熟练工人可转为E-7-1（熟练工人）签证长期工作，之后可转为F-2居留签证，有望获得永久居留权。
 
-**问：Do I need a certification to work as a butcher?**
-答：Legally no mandatory certification, but having the 'Butcher Certificate' from the Korea Meat Association is advantageous. Completion of food hygiene education is required.
+**问：做屠夫需要认证吗？**
+答：法律上无强制认证，但持有韩国肉类协会的'屠夫证书'有利。需完成食品卫生教育。
 
 
 ---
@@ -146,12 +136,12 @@ Starting as a junior butcher, you can grow into a skilled cutter and boner after
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/meat-butcher-and-slaughterhouse-worker/KR)**

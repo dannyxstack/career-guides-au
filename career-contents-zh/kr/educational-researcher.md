@@ -1,10 +1,8 @@
-# Educational Researcher 职业分析 · 韩国
+# 教育研究员（Educational Researcher）职业分析 · 韩国
 
-**职业代码: 11014 (KECO)**
+**职业代码：11014 (KECO)**
 
-A professional research position that analyzes educational field and policy data, and researches and develops curricula and teaching methods.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+分析教育领域和政策数据，研究并开发课程和教学方法的专业研究职位。
 
 
 ---
@@ -13,8 +11,8 @@ A professional research position that analyzes educational field and policy data
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree in Education | 4年 | $8,000,000~$12,000,000（Annual tuition based on daytime enrollment） |
-| Master's Degree in Education | 2 年 | $6,000,000~$10,000,000（Research funding available） |
+| 教育学学士学位 | 4年 | $8,000,000~$12,000,000（基于白天入学的年学费） |
+| 教育硕士学位 | 2 年 | $6,000,000~$10,000,000（提供研究经费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional research position that analyzes educational field and policy data
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Research experience in education | Affiliated institution | 可选 | Papers and research achievements |
-| Teacher's certificate | 教育部 | 可选 | Not required but advantageous |
+| 教育领域研究经验 | 附属机构 | 可选 | 论文与研究成果 |
+| 教师资格证书 | 教育部 | 可选 | 非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 6,500. Although the school-age population is decreasing due to low birth rates, demand for research such as curriculum reform and digital education transition remains steady, so the outlook is stable.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 6,500。尽管低出生率导致学龄人口减少，但对课程改革和数字教育转型等研究的需求保持稳定，因此前景稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,90 +38,82 @@ A professional research position that analyzes educational field and policy data
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $32,000,000~$45,000,000 | Based on national research institutes |
-| Mid-level (4–9 years) | $45,000,000~$60,000,000 | Principal Researcher |
-| Senior-level (10+ years) | $60,000,000~$90,000,000 | Research Lab Director-level |
+| 初级（0-3年） | $32,000,000~$45,000,000 | 基于国家研究机构 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 首席研究员 |
+| 高级（10年以上经验） | $60,000,000~$90,000,000 | 研究实验室主任级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI partially replaces data analysis and literature review, but human expertise remains crucial for educational policy establishment and on-site context interpretation.
+AI部分替代数据分析和文献综述，但教育政策的制定和现场情境解读仍需人类专业知识。
 
-After completing a master's or doctoral degree, one typically builds experience in academia, national research institutes, or offices of education, and is promoted to positions such as principal researcher or research lab director.
+完成硕士或博士学位后，通常在学术界、国立研究机构或教育厅积累经验，并晋升至首席研究员或研究室主任等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Literature Review and Meta-Analysis
-- Basic Statistical Processing
-- Educational Data Organization
+- 文献综述与荟萃分析
+- 基础统计处理
+- 教育数据整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Educational Policy Scenario Simulation
-- Customized Curriculum Design
-- Learning Analytics Report Generation
+- 教育政策情景模拟
+- 定制化课程设计
+- 学习分析报告生成
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding of Educational On-site Context
-- In-Depth Qualitative Research
-- Policy Judgment Ability
+- 理解教育现场背景
+- 深度定性研究
+- 政策判断能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Educational Data Analysis
-- AI-Enhanced Research Methods
-- Understanding International Education Trends
+- 教育数据分析
+- AI增强研究方法
+- 了解国际教育趋势
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Curriculum research
-- Digital education
-- Lifelong Education
-- Special Education
+- 课程研究
+- 数字教育
+- 终身教育
+- 特殊教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | May stay as a professional research worker at a research institution |
-| Subclass F-2 (F-2 (Residence)) | Points-based permanent residence, research career bonus |
-| Subclass D-2 (Study (D-2 Visa)) | Employment linkage after graduate program |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent logical thinking
-- People interested in the educational field
-- People patient with long-term research projects
+- 逻辑思维优秀的人
+- 对教育领域感兴趣的人
+- 能耐心处理长期研究项目的人
 
 **谁不适合**
-- People who want immediate results
-- People who tire of paperwork over diverse fieldwork
+- 追求立竿见影效果的人
+- 厌倦文书工作而喜欢多样化现场工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an educational researcher?**
-答：The starting salary for entry-level is 32-45 million KRW per year, varying by national research institute and university.
+**问：教育研究员的起薪是多少？**
+答：入门级起薪为每年3200-4500万韩元，因国立研究机构和大学而异。
 
-**问：Can foreigners work as educational researchers?**
-答：Yes, but an E-7 visa is required, along with a relevant master's degree and research experience.
+**问：外国人能担任教育研究员吗？**
+答：是的，但需要E-7签证，以及相关硕士学位和研究经验。
 
 
 ---
@@ -141,12 +131,12 @@ After completing a master's or doctoral degree, one typically builds experience 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/educational-researcher/KR)**

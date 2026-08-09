@@ -54,8 +54,6 @@ Waitstaff are responsible for taking orders, serving food and drinks to customer
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI's impact on waitstaff is mixed: repetitive tasks like taking orders and billing will be automated, but AI can also enhance personalized service and efficiency; human emotional interaction and flexibility remain core strengths.
-
 Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, and can also move into fine dining or hotel management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, 
 | Subclass General Employment P (General Employment Permit) | Can apply, but must pass a labour market test, with an annual salary of at least €27,000. |
 | Subclass EU Blue Card (EU Blue Card) | Not applicable to this occupation as it generally does not meet high-skilled requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: A General Employment Permit is required, with an annual salary of at least �
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waiter/IE)**

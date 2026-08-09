@@ -54,8 +54,6 @@ Responsible for coordinating and operating material handling, loading/unloading,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Production logistics worker positions face polarization: repetitive material handling is easily automated, but on-site adaptability, equipment coordination, and anomaly handling still rely on human judgment; AI enhancement potential mainly lies in route optimization and inventory forecasting.
-
 Can advance from entry-level positions to warehouse supervisor, logistics coordinator, or supply chain analyst. With experience, opportunities to obtain forklift instructor and dangerous goods management certifications, progressing toward logistics manager.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from entry-level positions to warehouse supervisor, logistics coordi
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas; after one year of work, applicants can apply for permanent residence through CEC or PNP. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship applicable for this occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: It is recommended to obtain a diploma in logistics or supply chain management
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-logistics-workers/CA)**

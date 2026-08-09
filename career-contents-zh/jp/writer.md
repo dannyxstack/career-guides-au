@@ -1,10 +1,8 @@
 # 作家（Writer）职业分析 · 日本
 
-**职业代码: 211 (JSCO)**
+**职业代码：211 (JSCO)**
 
-Professional who writes articles for books, magazines, and web media. Works in diverse fields such as novels, non-fiction, and specialized books.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+为书籍、杂志和网络媒体撰写文章的专业人士。涉及小说、非虚构和专业书籍等多个领域。
 
 
 ---
@@ -14,8 +12,8 @@ Professional who writes articles for books, magazines, and web media. Works in d
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育后） |
-| University (Literature, etc.) | 4年 | $2,500,000~$5,000,000（National to private universities） |
-| Vocational school (Writing course) | 2 年 | $1,000,000~$2,000,000（Correspondence course available） |
+| 大学（文学等） | 4年 | $2,500,000~$5,000,000（国立到私立大学） |
+| 职业学校（写作课程） | 2 年 | $1,000,000~$2,000,000（提供函授课程） |
 
 ---
 
@@ -23,17 +21,17 @@ Professional who writes articles for books, magazines, and web media. Works in d
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Member of the Japan PEN Club | Japan PEN Club | 可选 | Affiliation with industry organizations |
-| Editor/Proofreader certification | Japan Editor School | 可选 | Optional but useful in practice |
+| 日本笔会会员 | 日本笔会 | 可选 | 隶属于行业组织 |
+| 编辑/校对员认证 | 日本编辑学校 | 可选 | 可选，但在实践中有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 120,000. Competition is intensifying with the shrinking publishing market, but opportunities to write are broadening due to e-books and self-publishing.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 120,000。随着出版市场萎缩，竞争加剧，但通过电子书和自出版，写作机会正在扩大。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,96 +39,88 @@ Professional who writes articles for books, magazines, and web media. Works in d
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $1,500,000~$3,000,000 | New writer, may also do part-time work |
-| 中级（3-10年） | $3,000,000~$6,000,000 | Serialized or published single works |
-| Advanced (10+ years) | $6,000,000~$15,000,000 | Bestselling author, full-time professional |
+| 入门级（0-3年） | $1,500,000~$3,000,000 | 新作者，也可能兼职 |
+| 中级（3-10年） | $3,000,000~$6,000,000 | 连载或出版的单行本 |
+| 高级（10年以上） | $6,000,000~$15,000,000 | 畅销书作家，全职专业人士 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-AI-powered text generation technology is rapidly advancing, posing a high risk of replacement, especially in information-based and practical book fields. However, highly creative literary works and non-fiction with unique perspectives retain human superiority.
+人工智能驱动的文本生成技术正在快速发展，构成很高的替代风险，特别是在信息类和实用类图书领域。然而，高度创意的文学作品和具有独特视角的非虚构作品仍保留人类优势。
 
-Career depends on personal achievements and works. Winning new author awards or securing serializations are keys to advancement. Building networks with editors and other media is important.
+职业发展取决于个人成就和作品。获得新人奖或确保连载是晋升的关键。与编辑和其他媒体建立网络很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Product descriptions
-- Drafts of news articles
-- SEO articles
-- Routine task manuals
+- 产品描述
+- 新闻稿件草拟
+- SEO文章
+- 常规任务手册
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea generation
-- Outline creation
-- Proofreading and editing
-- Research
+- 创意产生
+- 大纲创建
+- 校对与编辑
+- 研究
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique experiences and perspectives
-- Writing style and individuality
-- Essays and creative writing
+- 独特的经验和视角
+- 写作风格与个性
+- 散文与创意写作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Critical thinking
-- Research skills
-- Storytelling
-- Editing skills
+- 批判性思维
+- 研究技能
+- 讲故事
+- 编辑技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- E-books
-- Non-fiction
-- Writing techniques
-- Content marketing
+- 电子书
+- 非虚构
+- 写作技巧
+- 内容营销
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible with employment at a publisher etc., but difficult as a freelancer |
-| Subclass 教授 (Professor) | When writing as a university faculty member |
-| Subclass 特定活動 (Designated Activities (Working Holiday)) | Temporary writing activities are possible |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative individuals
-- Persistent and unafraid of revision
-- Book-loving and curious people
+- 创意型人才
+- 坚持不懈，不怕修改
+- 爱书且好奇的人
 
 **谁不适合**
-- Those who value income stability
-- Those who like working cooperatively with others
+- 注重收入稳定性的人
+- 喜欢与他人合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a writer?**
-答：Writers' income varies greatly; many full-time writers earn under 3 million yen annually, but bestselling authors can earn tens of millions of yen.
+**问：作家的平均年收入是多少？**
+答：作家收入差异很大；许多全职作家年收入低于300万日元，但畅销书作者可收入数千万日元。
 
-**问：What visa does a foreigner need to work as a writer in Japan?**
-答：If you sign an employment contract with a publisher, you can obtain an "Engineer/Specialist in Humanities/International Services" visa. Freelancers find this difficult, and often engage in writing activities while residing under a different visa.
+**问：外国人在日本从事作家工作需要什么签证？**
+答：如果与出版商签订雇佣合同，可获得“人文/国际服务工程师/专家”签证。自由职业者难以获得，通常持其他签证从事写作活动。
 
-**问：How can I succeed as an author?**
-答：Consistent writing, improving the quality of your work, building relationships with editors, and gaining fans through social media are important. Applying for newcomer awards is also an effective method.
+**问：如何作为作家成功？**
+答：持续写作、提高作品质量、与编辑建立关系、通过社交媒体积累粉丝都很重要。申请新人奖也是有效方法。
 
 
 ---
@@ -148,12 +138,12 @@ Career depends on personal achievements and works. Winning new author awards or 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/writer/JP)**

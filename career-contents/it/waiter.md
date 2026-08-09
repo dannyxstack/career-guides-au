@@ -4,8 +4,6 @@
 
 Serve customers by taking orders, serving food, and providing reception in Italian restaurants, bars, cafes, etc., a key role in the tourism and hospitality industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Serve customers by taking orders, serving food, and providing reception in Itali
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The waiter role in Italy faces automation pressure: repetitive tasks like ordering, payment, and queue management will be replaced by AI and self-service terminals, but the need for personalized service and complex communication remains.
-
 Can progress from entry-level server to senior server, head waiter, or restaurant manager; some transition to hotel management or start their own business through further study.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can progress from entry-level server to senior server, head waiter, or restauran
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Italian annual quota work visa for non-EU seasonal or long-term workers, requires employer sponsorship, and faces high competition due to limited annual quotas. |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary; waiters usually don't meet salary requirements, rarely applicable. |
-| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Applicable to self-employed waiters or restaurant owners, requiring proof of high income and legal residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Yes, can advance to head waiter, restaurant manager, or transition into hotel
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waiter/IT)**

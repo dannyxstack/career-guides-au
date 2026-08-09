@@ -53,8 +53,6 @@ Health and Safety Engineers promote workplace or product safety by applying know
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 Junior engineers typically need 3-5 years of experience to advance to senior engineer or safety manager; can move into management by obtaining certifications like CSP, or specialize in areas such as industrial hygiene or product safety, eventually becoming safety director or vice president.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior engineers typically need 3-5 years of experience to advance to senior eng
 | Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | For skilled workers with a bachelor's degree or higher, requires PERM labor certification. |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Employer-sponsored green card process, requires proving inability to find suitable US workers. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: CSP is one of the most recognized certifications in the industry, aiding prom
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-and-safety-engineers-except-mining-safety-engineers-and-inspectors/US)**

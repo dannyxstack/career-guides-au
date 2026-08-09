@@ -51,8 +51,6 @@ Use woodworking equipment such as saws, planers, and tenon machines to cut, shap
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Can advance from apprentice to skilled tradesperson or foreman, or transition to custom furniture, woodworking crafts, or self-employment.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from apprentice to skilled tradesperson or foreman, or transition to
 | Subclass EB-3 (Employment-Based Immigration: Skilled Worker) | Requires PERM labor certification, suitable for experienced cabinetmakers, but employer sponsorship is difficult |
 | Subclass TN (Trade NAFTA (USMCA) Professional) | Only specific majors eligible, cabinetmakers not eligible |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Very difficult. This occupation is not a professional role; H-1B is nearly im
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cabinetmakers-and-bench-carpenters/US)**

@@ -51,8 +51,6 @@ Teach computer science courses at colleges and universities, specializing in com
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career progression typically moves from assistant professor to associate professor to full professor, with some transitioning to research universities or senior R&D roles in industry. Requires continuous publication and pursuit of tenure.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically moves from assistant professor to associate profess
 | Subclass EB-2 (EB-2 (Advanced Degree)) | Apply for employment-based green card based on PhD and academic achievements, may apply for National Interest Waiver (NIW) |
 | Subclass O-1 (O-1 Extraordinary Ability) | Distinguished professors or researchers can use O-1 visa, requires international recognition. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually not required, as university applicants can use EB-2 NIW category to w
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-science-teachers-postsecondary/US)**

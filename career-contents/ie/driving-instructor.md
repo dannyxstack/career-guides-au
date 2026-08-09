@@ -52,8 +52,6 @@ Driving instructors teach students driving skills, including traffic rules, vehi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Driving instructors face impact from AI-assisted teaching tools, but core in-car instruction, risk assessment, and safety responsibilities are hard to replace, presenting a mixed outlook.
-
 Career paths include advancing to senior instructor, driving school manager, or opening your own driving school after gaining experience. You can also transition into traffic safety education or law enforcement.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career paths include advancing to senior instructor, driving school manager, or 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Driving instructors are usually not on the shortage occupation list, but can apply if annual salary exceeds €60,000. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, with an annual salary above the average; driving instructors are generally not eligible. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must pass a training course recognized by the Road Safety Authority (RSA), ob
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driving-instructor/IE)**

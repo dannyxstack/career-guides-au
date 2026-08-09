@@ -53,8 +53,6 @@ Responsible for operating and monitoring artificial board production equipment s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-This profession carries both risks and opportunities as a whole. Strict process parameters and environmental requirements make it difficult for automation to fully replace manual monitoring and exception handling, but repetitive operations are easily replaced by machines, and entry-level positions may be narrowed by automation.
-
 You can be promoted from operator to production line leader or production supervisor, or develop to equipment maintenance technician or quality control specialist. Some practitioners transfer into production management positions through continuing education.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from operator to production line leader or production superv
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires CDI contract from French company, salary at least 1.5 times SMIC (approx. 25,000 EUR/year), approval from labour authorities. |
-| Subclass Passeport Talent (Talent Passport) | High-skilled talent pathway, requires master's degree or above or annual salary twice the SMIC (approx. €33,000/year), faster process |
-| Subclass Carte bleue UE (EU Blue Card) | A contract annual salary of 53,600 euros (2024 standard) is required, which is generally underqualified in the woodworking industry and has low applicability |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Mainly Salarié work residence requires employer sponsorship and labor approv
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-panel-production-plant-operator/FR)**

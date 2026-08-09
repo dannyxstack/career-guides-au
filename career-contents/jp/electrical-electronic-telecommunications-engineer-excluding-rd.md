@@ -52,8 +52,6 @@ Engineers responsible for design, construction, and maintenance of power equipme
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are being introduced as efficiency tools for design and maintenance, but human roles remain for on-site decisions and legal compliance. Demand for engineers with AI skills is increasing.
-
 Begins at the entry level with design assistance or site supervision. Progress to chief engineer or project leader through experience. Promotion is aided by acquiring national certifications such as the Electrical Chief Engineer license.
 
 **Tasks most exposed to AI:**
@@ -93,17 +91,9 @@ Begins at the entry level with design assistance or site supervision. Progress t
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For engineers with bachelor's or higher; obtainable in electrical/electronic roles. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Electrical/Electronic Information Industries)) | New field in 2024. Requires skills test and N4+ Japanese. Max 5-year stay. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Electrical/Electronic Information Industries)) | Expansion planned in 2027. For skilled workers. Family accompaniment & PR possible. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Point-based. High score in research/tech for PR preference. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +137,12 @@ A: Not mandatory, but advantageous for promotion and salary increase. Especially
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-electronic-telecommunications-engineer-excluding-rd/JP)**

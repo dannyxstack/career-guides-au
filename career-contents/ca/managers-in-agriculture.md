@@ -51,8 +51,6 @@ Responsible for planning, organizing, and managing farm production of field crop
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance precision agriculture and data analysis, but crop cultivation relies on on-site decision-making and manual labor; overall risk is moderate, and entry-level positions are shrinking due to automation.
-
 Career path: Start as a farm supervisor or assistant manager, gain experience, then become a farm partner or independent farmer. Alternatively, transition to agricultural consulting, agribusiness trade, or government agriculture department management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path: Start as a farm supervisor or assistant manager, gain experience, t
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: No mandatory license required, but an agricultural degree or diploma (e.g., a
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-agriculture/CA)**

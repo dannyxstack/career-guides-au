@@ -52,8 +52,6 @@ Teaching ballet, modern dance, Latin, street dance, etc. to children and adults 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace the core teaching and demonstration of dance instructors; instead, it can greatly improve teaching efficiency through personalised choreography, virtual practice partners, and progress tracking. A hybrid model is emerging, while pure entry-level roles face pressure.
-
 Junior coaches can progress to senior coaches, choreographers, or studio managers. Experienced individuals can start their own dance schools or move into dance therapy, community arts projects, etc. Collaborating with local dance associations helps enhance visibility.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior coaches can progress to senior coaches, choreographers, or studio manager
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Yes, DanceNZ offers professional development resources, certification, and in
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dance-teacher-private-tuition/NZ)**

@@ -4,8 +4,6 @@
 
 Responsible for testing, inspection, quality control, and fault diagnosis of electrical and electronic products to ensure compliance with French and EU standards. Usually working in production, R&D, or third-party laboratories.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for testing, inspection, quality control, and fault diagnosis of ele
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 Candidates can be promoted from junior test technician to senior quality engineer or laboratory supervisor. By obtaining COTIREP certification or engineering diplomas (such as CNAM), you can transition to project management or quality management system (ISO 9001) positions.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ Candidates can be promoted from junior test technician to senior quality enginee
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Regular work residency requires employer sponsorship, with a minimum salary of SMIC (about €20,000 per year). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for those with a master's degree or highly skilled talents, with an annual salary of about 42,000 euros or more, valid for 4 years. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: Typically, BTS (Advanced Technician Diploma) or DUT (University Technical Dip
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-specialist-in-electrical-and-electronic-testing-and-quality-control/FR)**

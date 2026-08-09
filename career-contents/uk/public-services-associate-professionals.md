@@ -51,8 +51,6 @@ Public Service Associate Professionals oversee, manage and perform general admin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
-
 Junior administrative assistants can advance to senior administrative officer or team leader, then develop into department manager or policy advisor. Some enter the senior civil service through internal exams or transition to local government management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior administrative assistants can advance to senior administrative officer or
 | Subclass Graduate (Graduate visa) | Graduates who completed their degree in the UK can apply, allowing them to work in the UK for 2 years (3 years for PhD holders). |
 | Subclass Scale-up (Scale-up visa) | Suitable for recruitment in high-growth enterprises; may also apply to the public service sector. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually requires a job offer from a UK government agency or public service em
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-services-associate-professionals/UK)**

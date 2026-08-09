@@ -4,8 +4,6 @@
 
 They are responsible for presiding over religious ceremonies, providing spiritual guidance, managing religious affairs, and playing the role of moral and spiritual leader within the community.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ They are responsible for presiding over religious ceremonies, providing spiritua
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot replace the core spiritual companionship and ritual hosting of clergy, but it will significantly compress tasks related to paperwork, knowledge retrieval, and dissemination, forcing practitioners to strengthen emotional intelligence and community service capabilities.
-
 Typically, after graduating from a seminary or religious institution, students start as assistant pastors or priests and gradually advance to parish leaders, bishops, or administrators of religious institutions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Typically, after graduating from a seminary or religious institution, students s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa (General Regime)) | Work residency guaranteed by Spanish religious institutions must prove that the position cannot be filled by local or EU citizens. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | It is suitable for highly educated clergy but less commonly, requiring income threshold requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: Yes, but you must have a job contract sponsored by a Spanish religious instit
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clergy-of-various-religions/ES)**

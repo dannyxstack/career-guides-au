@@ -54,8 +54,6 @@ Train dispatchers are classified as skilled occupations in the shared ANZSCO cla
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Starting as an assistant dispatcher or signal operator, gaining experience to advance to senior dispatcher or control center supervisor, with some transitioning to railway planning or safety management roles. Typically takes 5-10 years to reach senior positions.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starting as an assistant dispatcher or signal operator, gaining experience to ad
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically shift work including nights, weekends, and public holidays. High wo
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-controller/NZ)**

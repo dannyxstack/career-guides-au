@@ -1,8 +1,8 @@
-# Auto Assembly Line and Industrial Robot Operator 职业分析 · 韩国
+# 汽车装配线与工业机器人操作员（Auto Assembly Line and Industrial Robot Operator）职业分析 · 韩国
 
-**职业代码: 81501 (KECO)**
+**职业代码：81501 (KECO)**
 
-A production worker who operates auto assembly lines and monitors industrial robots in manufacturing industries such as automobiles and electronics.
+在生产行业中操作自动化装配线并监控工业机器人（如汽车和电子制造业）的生产工人。
 
 
 ---
@@ -11,9 +11,9 @@ A production worker who operates auto assembly lines and monitors industrial rob
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 3 Years | $0~$0（Compulsory Education） |
-| College (Mechanical/Electrical) | 2 Years | $10,000,000~$15,000,000（Based on Tuition） |
-| Polytechnic College (Production Automation) | 2 Years | $5,000,000~$10,000,000（Government Support Available） |
+| 高中毕业 | 3年 | $0~$0（义务教育） |
+| 学院（机械/电气） | 2年 | $10,000,000~$15,000,000（基于学费） |
+| 理工学院（生产自动化） | 2年 | $5,000,000~$10,000,000（政府支持可用） |
 
 ---
 
@@ -21,18 +21,18 @@ A production worker who operates auto assembly lines and monitors industrial rob
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Optional, Advantageous for Safety Management |
-| Production Automation Technician | Human Resources Development Service of Korea | 可选 | Advantageous for Understanding Automation Lines |
-| Electrician Technician | Human Resources Development Service of Korea | 可选 | Advantageous for Robot Maintenance |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 可选，对安全管理有利 |
+| 生产自动化技术员 | 韩国人力资源开发服务局 | 可选 | 对理解自动化生产线有利 |
+| 电工技师 | 韩国人力资源开发服务局 | 可选 | 机器人维修优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 58,000. With the transition to smart factories in manufacturing, demand for robot operators is increasing, but simple assembly manpower is expected to decrease.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 58,000。随着制造业向智能工厂转型，机器人操作员需求增加，但简单装配人力预计减少。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,85 @@ A production worker who operates auto assembly lines and monitors industrial rob
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 Years) | $30,000,000~$38,000,000 | Includes Shift Work Allowance for Day/Night Shifts |
-| Intermediate (4–9 Years) | $38,000,000~$48,000,000 | Reflects skill proficiency |
-| 资深（10年以上） | $48,000,000~$60,000,000 | Including management and programming skills |
+| 初级（0–3年） | $30,000,000~$38,000,000 | 包含日/夜班轮班津贴 |
+| 中级（4-9年） | $38,000,000~$48,000,000 | 反映技能熟练度 |
+| 资深（10年以上） | $48,000,000~$60,000,000 | 包括管理和编程技能 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation will replace some simple operation tasks in this job, but advanced tasks like robot maintenance and programming will be strengthened, increasing demand.
+人工智能和自动化将取代该职位的一些简单操作任务，但机器人维护和编程等高级任务将得到加强，需求增加。
 
-Depending on experience, promotion to line management, robot programming, or production team leader is possible; faster growth is achievable with technical training.
+根据经验，可晋升至生产线管理、机器人编程或生产团队组长；通过技术培训可更快成长。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive assembly tasks
-- Low value-added parts of robot work monitoring
+- 简单重复的装配任务
+- 机器人工作监控的低附加值部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Robot fault diagnosis
-- Production line optimization
-- AI-based quality inspection
+- 机器人故障诊断
+- 生产线优化
+- 基于人工智能的质量检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle unstructured situations
-- Interaction with collaborative robots
-- Field experience-based problem solving
+- 处理非结构化情况的能力
+- 与协作机器人互动
+- 基于现场经验的问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot programming
-- PLC/HMI operation
-- Smart Factory Data Analysis
-- Maintenance Technology
+- 机器人编程
+- PLC/HMI操作
+- 智能工厂数据分析
+- 维护技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart factory
-- Automation equipment operation
-- Robot maintenance
-- Production automation
+- 智能工厂
+- 自动化设备操作
+- 机器人维护
+- 生产自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Non-professional foreign workforce, limited to manufacturing (Employment Permit System applicable) |
-| Subclass E-7 (Specific Activities) | Visa for skilled workers, requires certification and experience |
-| Subclass F-2 (Residence) | E-7 → F-2 convertible, long-term stay |
-| Subclass F-4 (Overseas Korean) | Available for Overseas Koreans, Employment in Manufacturing |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in operating machinery/robots
-- Person who can adapt to night and shift work
-- Person with patience for repetitive tasks
+- 对操作机械/机器人感兴趣的人
+- 能适应夜班和倒班工作的人
+- 有耐心从事重复性工作的人
 
 **谁不适合**
-- People who prefer static tasks
-- People who prefer individual work over teamwork
+- 偏好静态任务的人
+- 偏好独立工作而非团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary level?**
-答：About 30-38 million KRW (including night/shift allowances) for entry-level, increasing with experience and certifications.
+**问：起薪水平是多少？**
+答：入门级约3000-3800万韩元（含夜班/轮班津贴），随经验和认证增加。
 
-**问：Can foreigners also get a job?**
-答：Yes, possible with E-9 (Non-professional Employment) or E-7 (Specific Activities) visas. Advantageous when evaluated as skilled worker.
+**问：外国人也能找到工作吗？**
+答：可以，持E-9（非专业就业）或E-7（特定活动）签证可能。被评估为技术工人时具有优势。
 
-**问：How about promotion and career development?**
-答：Possible to advance to line manager, robot programmer, production team leader with experience; faster with polytechnic education.
+**问：晋升和职业发展如何？**
+答：可通过经验晋升为生产线主管、机器人程序员、生产组长；理工科教育背景晋升更快。
 
 
 ---
@@ -144,12 +136,12 @@ Depending on experience, promotion to line management, robot programming, or pro
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/auto-assembly-line-and-industrial-robot-operator/KR)**

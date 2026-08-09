@@ -52,8 +52,6 @@ Real estate agents in Canada handle intermediary services for residential and co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate much paperwork and data work, but core negotiation, local market insight, and client trust building are hard to replace; career roles will shift from transaction executors to advisors and community experts.
-
 Junior real estate agents can advance to senior agents, team managers, or open their own agencies. Later, they can move into commercial real estate, property management, or appraisal, requiring further licenses.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior real estate agents can advance to senior agents, team managers, or open t
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have targeted categories requiring a job offer or local ties. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with a job offer from an employer in Atlantic Canada. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, but typically requires a job offer from an employer or provincial nomina
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent/CA)**

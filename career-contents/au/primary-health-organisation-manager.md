@@ -54,8 +54,6 @@ Primary health organisation managers plan, organise, direct and manage the opera
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on primary care organization managers is mixed: automation will handle administrative tasks like scheduling and report generation, but strategic decisions, personnel management, and compliance responsibilities still require human judgment, overall demand for the role remains stable.
-
 Typically starts in clinical or management roles, such as registered nurse or practice manager. With experience, can advance to regional manager, medical network director, or health services administration director. Some transition to policy-making or consulting.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically starts in clinical or management roles, such as registered nurse or pr
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary work visa; requires employer nomination of the occupation, usually relevant qualifications and 3 years of experience. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires skills assessment and employer nomination. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires a bachelor's degree in health management, public health, o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-health-organisation-manager/AU)**

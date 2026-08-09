@@ -1,8 +1,8 @@
 # 木匠（Carpenter）职业分析 · 日本
 
-**职业代码: 661 (JSCO)**
+**职业代码：661 (JSCO)**
 
-A craftsman who processes wood and assembles building frameworks and interiors. Active in both traditional techniques and modern architecture.
+加工木材并组装建筑框架和内部的工匠。活跃于传统技术和现代建筑领域。
 
 
 ---
@@ -11,9 +11,9 @@ A craftsman who processes wood and assembles building frameworks and interiors. 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 职业培训学校 | 1-2年 | $500,000~$1,500,000（Public training schools may be free） |
-| Vocational School (Architecture) | 2 年 | $1,000,000~$2,500,000（Tuition + Material Fees） |
-| Apprentice (Indentureship) | 3-5年 | $0~$0（边学边赚） |
+| 职业培训学校 | 1-2年 | $500,000~$1,500,000（公立培训学校可能免费） |
+| 职业学校（建筑学） | 2 年 | $1,000,000~$2,500,000（学费 + 材料费） |
+| 学徒（契约制） | 3-5年 | $0~$0（边学边赚） |
 
 ---
 
@@ -21,18 +21,18 @@ A craftsman who processes wood and assembles building frameworks and interiors. 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Carpentry Skills Certificate (1st/2nd Grade) | Vocational Ability Development Association | 可选 | National qualification for skill evaluation |
-| Construction Accounting Clerk | Construction Industry Promotion Fund | 可选 | Advantageous when becoming independent |
-| Specified Skilled Worker (Construction) | Immigration Services Agency | 可选 | For foreign talent |
+| 木工技能证书（1级/2级） | 职业能力开发协会 | 可选 | 国家技能评价资格 |
+| 建筑会计文员 | 建筑行业促进基金 | 可选 | 独立时具有优势 |
+| 特定技能工人（建筑） | 出入境在留管理厅 | 可选 | 针对外籍人才 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 340,000. The construction industry continues to face labor shortages, and demand for carpenters remains steady. Job openings are particularly abundant in the renovation and wooden housing sectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 340,000。建筑行业持续面临劳动力短缺，木匠需求稳定。翻新和木结构住房领域职位尤其充足。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A craftsman who processes wood and assembles building frameworks and interiors. 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$3,800,000 | Annual income, apprentices and young workers |
-| 中级（3-10年） | $4,000,000~$5,500,000 | Annual salary, skilled worker |
-| Advanced (10+ years) | $6,000,000~$9,000,000 | Annual salary, master carpenter or site supervisor |
+| 入门级（0-3年） | $3,000,000~$3,800,000 | 年收入，学徒和青年工人 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 技术工人年薪 |
+| 高级（10年以上） | $6,000,000~$9,000,000 | 年薪，工匠长或现场主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation aid in blueprint creation and material optimization, but actual wood processing and assembly require expert manual work. AI will not completely replace carpenters but will be used as an efficiency tool.
+AI和自动化辅助蓝图创建和材料优化，但实际木材加工和组装需要专家手工操作。AI不会完全取代木匠，而是作为效率工具使用。
 
-Start as an apprentice, hone skills, advance to master or site supervisor. Self-employment possible. Construction career-up system gaining traction.
+从学徒开始，磨练技能，晋升为大师或现场主管。可自雇。建筑职业升级体系正在推广。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple marking
-- Material cutting (increasing use of automated machinery)
-- Inventory management
+- 简单标记
+- 材料切割（自动机械使用增加）
+- 库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimization of structural calculations
-- Automatic generation of blueprints
-- AI inspection of construction quality
+- 结构计算优化
+- 蓝图自动生成
+- AI检测施工质量
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced manual techniques and experience
-- On-site adaptability
-- Succession of traditional techniques
+- 高级手工技巧与经验
+- 现场适应能力
+- 传统技艺传承
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital design software (CAD)
-- Building Information Modeling (BIM)
+- 数字设计软件（CAD）
+- 建筑信息模型（BIM）
 - 项目管理
-- Latest tools and machinery operation
+- 最新工具和机械操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Wooden housing
-- Renovation
-- Traditional architecture
-- Skill succession
+- 木结构住宅
+- 翻新
+- 传统建筑
+- 技能传承
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i)) | For those who completed technical intern training in construction. Max stay 5 years. |
-| Subclass 特定技能2号（建設） (Specified Skilled Worker (ii)) | For skilled workers. Family accompaniment possible, eligible for permanent residency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires practical carpentry experience + specialized knowledge. As a regular employee of a construction company. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Good with hands, skilled at detailed work
-- Confident in physical strength
-- Passionate about craftsmanship
+- 手巧，擅长精细工作
+- 体力自信
+- 对手工艺充满热情
 
 **谁不适合**
-- Prefers indoor desk work
-- Dislikes high places
+- 偏好室内办公桌工作
+- 恐高
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a carpenter?**
-答：Entry-level: 300-380万 yen, intermediate: 400-550万 yen, advanced: 600-900万 yen. Going independent can lead to higher income.
+**问：木匠的年收入是多少？**
+答：入门级：300-380万日元，中级：400-550万日元，高级：600-900万日元。独立创业可获得更高收入。
 
-**问：How can foreigners work as carpenters in Japan?**
-答：Obtaining Specified Skilled Worker (i)/(ii) (construction field) is common. Routes include transitioning from technical intern training or being employed by a construction company via the Engineer/Specialist in Humanities/International Services visa.
+**问：外国人如何在日本成为木匠？**
+答：获取特定技能工人(i)/(ii)（建筑领域）常见。途径包括从技能实习转岗，或通过工程师/人文专家/国际服务签证被建筑公司聘用。
 
 **问：晋升路径有哪些？**
-答：Apprentice → Skilled worker → Master/foreman. Acquiring the Building Carpenter Skill Certification enhances evaluation and opens paths to independence.
+答：学徒 → 熟练工 → 师傅/工长。获得建筑木工技能证书可提升评价，并开启独立之路。
 
 
 ---
@@ -144,12 +137,12 @@ Start as an apprentice, hone skills, advance to master or site supervisor. Self-
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/carpenter/JP)**

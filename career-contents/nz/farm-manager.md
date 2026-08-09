@@ -51,8 +51,6 @@ New Zealand farm managers oversee daily operations of sheep, cattle, dairy, or h
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Junior assistant manager or department head can advance to farm manager, then to regional manager or farm owner. With experience, can also move to agricultural consultant or supply chain management; salary increases significantly with responsibility.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior assistant manager or department head can advance to farm manager, then to
 | Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | Direct residence pathway, meeting median salary (approx. $29.66/hour in 2024) and occupation requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for those with a valid employment contract, can later apply for residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from assistant manager to large farm manager, then to regional di
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farm-manager/NZ)**

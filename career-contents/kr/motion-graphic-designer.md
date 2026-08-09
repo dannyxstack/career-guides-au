@@ -4,8 +4,6 @@
 
 A professional who combines video and graphics to create visual effects and motion graphics for TV, film, advertising, and online content.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who combines video and graphics to create visual effects and moti
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI tools automate repetitive tasks like rotoscoping and color correction, but creative storytelling and aesthetic design remain human domains. Motion graphic designers can leverage AI as a tool to create higher value.
-
 Starting as a junior motion designer, with 3-5 years of experience can advance to senior designer, art director, or VFX supervisor. Freelance transition is common.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting as a junior motion designer, with 3-5 years of experience can advance t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible as cultural/arts professional, but approval is strict as motion graphic designer is not a shortage occupation |
-| Subclass F-2 (F-2 (Residence)) | Convertible to point system, but design field has low bonus points |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A degree in design or video from a two-year or four-year college is advantage
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motion-graphic-designer/KR)**

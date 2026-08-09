@@ -52,8 +52,6 @@ Responsible for installing precast concrete beams, columns, slabs, and other str
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 You can gradually advance from apprentice/assistant to installation team leader or foreman, and after gaining experience, you can also transition to prefabrication plant production technician, quality control, or small contractor. Some have become construction supervisors or project managers through further education.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can gradually advance from apprentice/assistant to installation team leader 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees (Self-Employed Pathway)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to those with a university degree or 5+ years of relevant experience; salary threshold about €34,000 per year. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Understand construction drawings, use cranes and measuring tools, collaborate
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precast-concrete-structural-assemblers/ES)**

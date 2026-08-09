@@ -53,8 +53,6 @@ A coachman is responsible for driving and maintaining carriages for tourism, tra
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The coachman profession faces dual pressure from automation and declining tourism demand, but opportunities remain in high-end custom travel and cultural heritage preservation; AI mainly assists with scheduling and maintenance rather than full replacement.
-
 Low entry barrier, can run own carriage business or transition to horse-riding coach, tourism services, etc. Limited promotion opportunities, need to build client base and reputation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Low entry barrier, can run own carriage business or transition to horse-riding c
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. Coachman is not a shortage occupation and has a small ma
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coachman/DE)**

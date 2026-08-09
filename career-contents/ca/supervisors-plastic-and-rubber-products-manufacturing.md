@@ -51,8 +51,6 @@ Oversees and coordinates the activities of production workers in plastic and rub
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation will enhance supervision and planning capabilities, but some repetitive tasks may be reduced, resulting in mixed impacts on production supervisors overall.
-
 Can progress from operator to supervisor, then to production manager or plant manager. Continuing education and certification can enhance management skills and broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from operator to supervisor, then to production manager or plant ma
 | Subclass PNP (Provincial Nominee Program) | Some provinces have Provincial Nominee Programs for manufacturing workers. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to recruit locally; after obtaining a work visa, can apply for residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes, it's generally feasible to apply via EE or PNP, but relevant work experi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-plastic-and-rubber-products-manufacturing/CA)**

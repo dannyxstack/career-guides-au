@@ -53,8 +53,6 @@ Home renovation installers in New Zealand install doors, windows, cabinets, coun
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hands-on skills of home renovation installers are not easily replaced, but AI will optimize tasks like measurement and material layout, lowering entry barriers; meanwhile, industry digitalization may compress purely manual roles, requiring upskilling in digital tool use.
-
 Can progress from installer to team leader, project manager, or self-employed contractor. With experience, can obtain Licensed Building Practitioner certification to enhance salary and migration competitiveness.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from installer to team leader, project manager, or self-employed co
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is an accredited sponsor, a work visa of up to 3 years may be granted, but local labor market testing is required first. |
 | Subclass SMC (Skilled Migrant Category) | Applies to those with work experience and EoI score of 6 (e.g., registered LBP can add points), requires salary above median. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires skills in installing doors, windows, cabinets, flooring, countertops
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-improvement-installer/NZ)**

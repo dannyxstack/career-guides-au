@@ -4,8 +4,6 @@
 
 A specialist who designs and reviews the structural safety and durability of buildings, responsible for structural calculations and drawings.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist who designs and reviews the structural safety and durability of bui
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will greatly increase productivity in structural calculations and design review, but final safety responsibility rests with human engineers, so complete replacement is difficult.
-
 Entry-level supports structural calculations; at 5–10 years, becomes a sectional lead; after 15+ years, with a Professional Engineer license, can advance to design firm representative or public institution supervisor.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Entry-level supports structural calculations; at 5–10 years, becomes a section
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Eligible for application upon meeting degree/career requirements as a building structural engineer, 3-year stay permit |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for this occupation, issuance difficult due to required expertise |
-| Subclass F-2-1 (Residence (Points System)) | Long-term stay possible when meeting professional qualification/income requirements |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: A 2-year college or 4-year university degree is typical, with majors in archi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-structural-engineer/KR)**

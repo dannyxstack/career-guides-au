@@ -54,8 +54,6 @@ Covers natural and physical science professionals not classified elsewhere, incl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
-
 Start as a junior researcher or laboratory assistant, gain experience, and then advance to senior scientist, project leader, or research supervisor; some transition to policy advisor or management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Start as a junior researcher or laboratory assistant, gain experience, and then 
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination and skills assessment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Starting as a junior researcher or lab assistant, can advance to senior scien
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-and-physical-science-professionals-nec/AU)**

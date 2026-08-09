@@ -4,8 +4,6 @@
 
 A medical administrative professional who comprehensively coordinates patient consultation, appointment scheduling, medical fee guidance, and insurance review at hospitals or medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A medical administrative professional who comprehensively coordinates patient co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical coordinator work involves human interaction such as patient reception and consultation, making it difficult to be fully replaced by AI. However, AI can partially replace repetitive administrative tasks such as reservation systems and fee calculations, so job changes are expected.
-
 Initially performing administrative assistance or coordinator tasks, with career progression to managerial positions such as team leader or center director, or development into specialized fields like medical marketing or international patient coordinator.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Initially performing administrative assistance or coordinator tasks, with career
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | A medical coordinator may fall under E-7-1 (Professional) but must demonstrate expertise. |
-| Subclass F-2 (Residence (F-2-99)) | Convertible to a points-based system, but requires career experience and a degree in the relevant field. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Possible, but proof of expertise is required to obtain an E-7-1 visa. Foreign
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-coordinator/KR)**

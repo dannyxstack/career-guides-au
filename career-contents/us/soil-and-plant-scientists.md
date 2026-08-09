@@ -53,8 +53,6 @@ Research crop breeding, physiology, yield, management, and soil chemical, physic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly change the work of soil and plant scientists, with some tasks automated, but core research and management capabilities enhanced; overall risk moderate.
-
 From assistant researcher to chief scientist or professor. Can pivot to agricultural consulting, policy development, or corporate R&D management. A doctoral degree accelerates promotion.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ From assistant researcher to chief scientist or professor. Can pivot to agricult
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Minimum bachelor's, but research positions usually require master's or doctor
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/soil-and-plant-scientists/US)**

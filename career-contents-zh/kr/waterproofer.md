@@ -1,10 +1,8 @@
-# Waterproofer 职业分析 · 韩国
+# 防水工（Waterproofer）职业分析 · 韩国
 
-**职业代码: 70221 (KECO)**
+**职业代码：70221 (KECO)**
 
-A waterproofer is a skilled technician who applies waterproofing to roofs, walls, basements, etc. of buildings to prevent leaks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+防水工是专门对建筑物的屋顶、墙壁、地下室等进行防水处理以防止渗漏的熟练技工。
 
 
 ---
@@ -13,9 +11,9 @@ A waterproofer is a skilled technician who applies waterproofing to roofs, walls
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0 | $0~$0（无学历要求） |
-| College (construction-related) | 2 年 | $5,000,000~$12,000,000（Public/national university standard） |
-| Vocational training (e.g., Polytech) | 6 months | $0~$1,000,000（Government funding available） |
+| 高中毕业 | 0 | $0~$0（无学历要求） |
+| 学院（建筑相关） | 2 年 | $5,000,000~$12,000,000（公立/国立大学标准） |
+| 职业培训（例如理工学院） | 6个月 | $0~$1,000,000（可申请政府资助） |
 
 ---
 
@@ -23,18 +21,18 @@ A waterproofer is a skilled technician who applies waterproofing to roofs, walls
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Waterproofing Technician | Human Resources Development Service of Korea (Q-Net) | 必备 | Official national technical qualification in waterproofing |
-| Construction Safety Engineer | Human Resources Development Service of Korea (Q-Net) | 可选 | Optional, beneficial for safety management |
-| At least 3 years of field experience after employment | Construction company | 可选 | Required for skilled worker grade acquisition |
+| 防水技术员 | 韩国人力资源开发服务（Q-Net） | 必备 | 国家官方防水技术资格 |
+| 建筑安全工程师 | 韩国人力资源开发服务（Q-Net） | 可选 | 可选，有利于安全管理 |
+| 就业后至少3年现场经验 | 建筑公司 | 可选 | 获取熟练工等级所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 80,000. While affected by construction cycles, steady demand is expected due to aging buildings and advances in waterproofing technology. As of 2023, the number of employed workers is stable at about 80,000.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 80,000。受建筑周期影响，但由于建筑老化和防水技术进步，需求稳定。截至2023年，从业人员稳定在约8万人。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,91 +40,82 @@ A waterproofer is a skilled technician who applies waterproofing to roofs, walls
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $24,000,000~$36,000,000 | Varies by skill level |
-| Intermediate (4–9 years) | $36,000,000~$50,000,000 | Extra points for certification |
-| Advanced (10+ years) | $45,000,000~$65,000,000 | Site Manager Level |
+| 初级（0-3年） | $24,000,000~$36,000,000 | 因技能水平而异 |
+| 中级（4-9年） | $36,000,000~$50,000,000 | 认证加分 |
+| 高级（10年以上） | $45,000,000~$65,000,000 | 现场经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although AI cannot completely replace the waterproofing process, some auxiliary tasks such as material management and quality inspection can be automated. Demand for skilled workers will remain, but new hiring may decrease slightly.
+虽然AI无法完全取代防水施工过程，但材料管理和质量检测等辅助任务可以实现自动化。技术工人的需求将持续存在，但新招聘可能略有减少。
 
-From entry-level, one can advance to skilled worker, foreman, or site manager. Having construction technician career management or a waterproofing technician certificate is advantageous.
+从入门级可晋升为熟练工、工头或现场经理。拥有建筑技师职业管理或防水技师证书者优先。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple waterproof sheet attachment
-- Material handling and mixing
+- 简易防水板安装
+- 物料搬运与混合
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Waterproof design simulation
-- Recommended Application Materials
+- 防水设计模拟
+- 推荐申请材料
 
-**人类护城河:**
+**人类护城河：**
 
-- Construction of Complex Shapes
-- Diagnosis of leak sources and on-site assessment
+- 复杂形状构造
+- 泄漏源诊断与现场评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding Advanced Waterproof Materials
-- Smart Construction Equipment Utilization
-- safety management skills
+- 了解先进防水材料
+- 智能施工设备应用
+- 安全管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction industry
-- Remodeling
-- Green Remodeling
-- Improved waterproof performance
+- 建筑行业
+- 翻新
+- 绿色改造
+- 改进的防水性能
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers; waterproofing possible with E-9 visa but requires skill |
-| Subclass E-7 (Specific Activities) | For skilled workers; possible for waterproofing experts |
-| Subclass F-2 (Residence) | Residence qualification after long stay; convertible from E-7 |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans; can work as waterproofing worker |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit and able to endure outdoor work
-- Precise and meticulous personality
-- Those who want to learn easily and build career
+- 身体健康，能适应户外工作
+- 细致严谨的性格
+- 想轻松学习并建立职业生涯的人
 
 **谁不适合**
 - 害怕高空或狭窄空间的人
-- People who prefer static office work
+- 偏好静态办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a waterproofing worker?**
-答：Entry-level is around 24-36 million KRW, with 10+ years of experience ranging from 45-65 million KRW.
+**问：防水工人的平均工资是多少？**
+答：入门级约为2400-3600万韩元，10年以上经验范围为4500-6500万韩元。
 
-**问：What visa do foreigners need to work as waterproofers?**
-答：Unskilled workers can get E-9 visas, skilled technicians E-7 visas, and overseas Koreans can work on F-4 visas.
+**问：外国人从事防水工需要什么签证？**
+答：非熟练工人可获E-9签证，熟练技工可获E-7签证，海外韩裔可持F-4签证工作。
 
-**问：Is a certificate required to work as a waterproofing worker?**
-答：A waterproofing technician certificate is not mandatory but advantageous for employment and wages.
+**问：从事防水工作需要证书吗？**
+答：防水技术员证书非强制，但对就业和工资有帮助。
 
 
 ---
@@ -144,12 +133,12 @@ From entry-level, one can advance to skilled worker, foreman, or site manager. H
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/waterproofer/KR)**

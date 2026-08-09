@@ -53,8 +53,6 @@ Greets customers who wish to open an account at a financial institution, explain
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
-
 Can progress from new account salesperson to senior customer service representative, personal banker, or branch manager; also possible to move into loan officer or investment advisor roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from new account salesperson to senior customer service representat
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to personal banker, loan officer, or branch manager, or transitio
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/new-accounts-clerks/US)**

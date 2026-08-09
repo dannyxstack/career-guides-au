@@ -54,8 +54,6 @@ A Sports and Leisure Assistant provides, maintains, and supervises facilities us
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of sports and leisure assistants faces automation risks (e.g., betting odds calculation, facility monitoring), but interpersonal interaction and on-site management are hard to replace; AI enhances customer experience and operational efficiency, creating mixed prospects requiring proactive skill upgrades.
-
 Junior assistants can advance to team supervisor or facility manager, or move into specialist areas like fitness instructor or event coordinator. Some pursue a sport science degree through further study to enter management or coaching roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior assistants can advance to team supervisor or facility manager, or move in
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress to roles such as recreation centre manager, event coordinator, o
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-and-leisure-assistants/UK)**

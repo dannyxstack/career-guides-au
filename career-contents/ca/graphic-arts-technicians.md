@@ -53,8 +53,6 @@ Graphic arts technicians operate pre-press, printing, and digital media equipmen
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Graphic arts technicians face dual impact of AI automation and augmentation: routine tasks like layout and color correction will be replaced by AI, while AI enhances creative design, client communication, and cross-media production capabilities; the role will evolve towards a fusion of technology and art.
-
 Start as a junior operator, can advance to senior technician, prepress supervisor, or production manager; can also transition to new fields such as digital media design, web design, or prepress automation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as a junior operator, can advance to senior technician, prepress superviso
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Traditional printing jobs are declining, but demand for digital printing and 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-arts-technicians/CA)**

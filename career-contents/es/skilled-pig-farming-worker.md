@@ -51,8 +51,6 @@ Skilled workers engaged in pig breeding, breeding, health management, and facili
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly transform the work of skilled pig farmers, replacing some repetitive tasks, but enhancing decision-making, animal welfare, and health management capabilities, resulting in mixed outcomes for the overall job.
-
 You can advance from junior breeder to breeding supervisor, farm manager, or specialize in animal health and reproductive technology. After accumulating experience, you can independently operate a small farm.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from junior breeder to breeding supervisor, farm manager, or spe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof of job demand and labor market testing. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Applicable for high-skilled positions, but pig farm workers typically do not meet high-skilled criteria, only in exceptional cases. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, and proof of financial capability is required. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Not mandatory, but completing the FP animal husbandry course can increase emp
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-pig-farming-worker/ES)**

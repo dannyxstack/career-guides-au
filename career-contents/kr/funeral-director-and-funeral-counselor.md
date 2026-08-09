@@ -4,8 +4,6 @@
 
 A professional who plans and manages the entire funeral process, and counsels and guides bereaved families on funeral procedures and products.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who plans and manages the entire funeral process, and counsels an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI cannot fully replace funeral directors due to the core role of emotional communication and ritual performance, some administrative tasks like pre-consultation and document processing can be automated.
-
 After obtaining a funeral director license, one can join a funeral home or funeral company, and can be promoted to team leader or branch manager with experience.
 
 **Tasks most exposed to AI:**
@@ -86,16 +82,9 @@ After obtaining a funeral director license, one can join a funeral home or funer
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for this occupation but issuance is rare |
-| Subclass F-2 (F-2 (Residence)) | Requires permanent residency or eligible visa |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +128,12 @@ A: Must pass written and practical exams; pass rate is around 60~70%, which is a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-director-and-funeral-counselor/KR)**

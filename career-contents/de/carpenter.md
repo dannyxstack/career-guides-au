@@ -54,8 +54,6 @@ In Germany, carpenters are responsible for timber structures, roof framing, inte
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Entry can be through dual vocational training to become a skilled worker, then obtain a master craftsman certificate (Meister) to practice independently or train apprentices. Further study can lead to becoming a construction technician or engineer, entering project management or design fields.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Entry can be through dual vocational training to become a skilled worker, then o
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers who have not yet found employment to enter the country for up to 1 year to search for work, with permission to work up to 20 hours per week |
 | Subclass Job Seeker (Job Seeker Visa) | Allows highly qualified individuals to enter for 6 months to seek employment, but carpentry usually does not apply (requires vocational qualification) |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can obtain master carpenter (Meister) status to start your own business, or f
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter/DE)**

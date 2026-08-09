@@ -51,8 +51,6 @@ Chemical scientists analyze and research the chemical structure and changes of s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of a chemical scientist is mixed: routine experiments and data analysis will be largely automated, but innovative research, interdisciplinary problem-solving, and experimental design remain human strengths.
-
 Junior researcher can advance to senior scientist or team leader, or move into project management or R&D management. Academic path from postdoc to lecturer, professor.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior researcher can advance to senior scientist or team leader, or move into p
 | Subclass Global Talent (Global Talent Visa) | Applicable to researchers with outstanding achievements or potential in chemistry |
 | Subclass Graduate (Graduate Visa) | Applicable to graduates who have completed a degree in the UK, allowing them to stay for 2 years to look for work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes. This occupation is on the Skilled Worker visa list and is a shortage occ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-scientists/UK)**

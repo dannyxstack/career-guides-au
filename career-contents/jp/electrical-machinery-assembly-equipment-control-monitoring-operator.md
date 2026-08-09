@@ -49,8 +49,6 @@ A production process worker responsible for controlling and monitoring equipment
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With advancements in process control via automation and AI, simple monitoring tasks are decreasing, while demand for anomaly response and equipment adjustment remains. Overall, employment is on a downward trend.
-
 After acquiring skills, career paths include line leader or equipment maintenance personnel. Broadening skills through multi-skilling and participating in QC activities expands promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ After acquiring skills, career paths include line leader or equipment maintenanc
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Manufacturing 3 fields)) | Available for work in manufacturing fields such as electrical machinery assembly. Requires passing an exam. |
-| Subclass 技能実習3号 (Technical Intern Training (Electrical/Electronic Equipment Assembly)) | Possible to switch to Specified Skilled Worker after training. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -138,12 +130,12 @@ A: It is included in the target fields (manufacturing 3 fields) for Specified Sk
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-machinery-assembly-equipment-control-monitoring-operator/JP)**

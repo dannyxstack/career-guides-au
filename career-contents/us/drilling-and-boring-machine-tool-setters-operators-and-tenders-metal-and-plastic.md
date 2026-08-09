@@ -53,8 +53,6 @@ Set up, operate, or tend drilling machines and boring machines to drill, bore, r
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly reduce jobs for drilling and boring machine operators, especially routine repetitive tasks, but complex workpiece setup and quality inspection still require human experience.
-
 Can advance from operator to CNC programmer, machine setter, or production supervisor; or shift to high-skilled machining positions or quality inspection by learning programming. Some experienced workers can move into equipment sales or technical support.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from operator to CNC programmer, machine setter, or production super
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Due to the prevalence of automation and CNC machines, demand for traditional 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drilling-and-boring-machine-tool-setters-operators-and-tenders-metal-and-plastic/US)**

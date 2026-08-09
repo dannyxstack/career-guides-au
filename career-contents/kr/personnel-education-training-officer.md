@@ -50,8 +50,6 @@ Professional administrative role responsible for corporate personnel management 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can replace some tasks like salary/benefits inquiry chatbots, training content recommendations, and resume screening, but strategic HR planning and interpersonal training execution remain human domains.
-
 Starting from general administrative work and growing into an HR specialist, obtaining an HRD (Human Resource Development) certification enables advancement as an education/training expert.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting from general administrative work and growing into an HR specialist, obt
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible in HR/education fields as a professional, but general office work is unlikely to qualify. |
-| Subclass F-2 (Residence (F-2-99)) | Long-term stay possible under the points system, including HR occupations. |
-| Subclass D-10 (Job Seeking) | Job-seeking visa that can lead to employment in HR fields. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Not mandatory, but certifications from the Korea HRD Association like HR Mana
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-education-training-officer/KR)**

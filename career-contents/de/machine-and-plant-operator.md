@@ -51,8 +51,6 @@ Operate and monitor industrial machinery and equipment to ensure smooth producti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Career progression includes: senior operator, team leader, production supervisor. Further training can lead to equipment maintenance or production technology roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression includes: senior operator, team leader, production supervisor
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those who have completed recognized vocational training in Germany (Ausbildung), no degree required, needs employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing job search in Germany, with requirements such as language, age, and qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires completion of a 3-year dual vocational training program or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-and-plant-operator/DE)**

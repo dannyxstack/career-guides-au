@@ -54,8 +54,6 @@ Dental technicians create dentures, crowns, bridges, and other dental prostheses
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate tasks such as crown design and 3D modeling, but manual finishing of prosthetics and patient customization still rely on technician skills, presenting mixed prospects for the role.
-
 Career path: start as an apprentice or technician, progress to lab supervisor, technical director, or open your own dental lab. Further education can lead to specialization in digital dentistry, implant restoration, or aesthetic restoration.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: start as an apprentice or technician, progress to lab supervisor, t
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Primarily works in a lab, closely collaborating with dentists. Digital equipm
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-technician/DE)**

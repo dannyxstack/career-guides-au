@@ -50,8 +50,6 @@ A System Designer is a professional responsible for defining requirements and cr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automates and streamlines parts of system design, but creative and judgmental tasks like requirements definition and architecture design remain human roles. While AI improves design quality and speed, simple design work will shrink.
-
 The typical career path is from programmer to system designer, then advancing to project manager or IT architect.
 
 **Tasks most exposed to AI:**
@@ -93,15 +91,9 @@ The typical career path is from programmer to system designer, then advancing to
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of experience. Main visa for IT engineers. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (IT)) | IT field to be added in 2024. Requires exam pass and Japanese ability. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +137,12 @@ A: It's common to accumulate practical experience as a programmer before steppin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/system-designer/JP)**

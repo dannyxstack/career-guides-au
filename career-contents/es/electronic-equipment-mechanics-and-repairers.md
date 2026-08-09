@@ -51,8 +51,6 @@ Responsible for diagnosing, repairing, and maintaining various electronic device
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation has mixed impact on motor vehicle electronic equipment installers and repairers: diagnostic and configuration tasks can be AI-enhanced, but physical installation and complex troubleshooting still rely on humans; entry-level positions narrow due to standardized diagnostic tools, but demand for advanced repairs increases.
-
 You can be promoted to technical supervisor or open a repair shop. By earning a degree in electronic engineering or professional certification, you can move into more advanced fields such as industrial automation or renewable energy system maintenance.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ You can be promoted to technical supervisor or open a repair shop. By earning a 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Requires a Spanish company sponsor, applicable to electronic repair technicians with employer contracts. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions (such as senior engineers), requiring a university degree or 5 years of experience, with a salary threshold of about 34,000 euros. |
-| Subclass Busqueda empleo (Job Search Visa) | To reside in Spain and look for work, you must prove sufficient funds. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Usually, FP Grado Medio or Superior (Electronic Repair Direction), or a vocat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-equipment-mechanics-and-repairers/ES)**

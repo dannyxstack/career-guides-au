@@ -51,8 +51,6 @@ Work in casinos, betting companies, etc., handling bet acceptance, table operati
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The casino gambling industry faces high automation risk: online betting, self-service betting terminals, and AI monitoring will reduce positions like dealers and croupiers, but some high-end table services still require human staff.
-
 Usually start as a table assistant or bet taker; with experience, can advance to table supervisor or gaming manager. Some transition to online gambling operations or compliance roles.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Usually start as a table assistant or bet taker; with experience, can advance to
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can progress from a gaming assistant to table supervisor, gaming manager, or 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookmaker-croupier-and-related-gaming-worker/IE)**

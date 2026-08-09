@@ -55,8 +55,6 @@ A Boilermaker fabricates, installs, and repairs pressure vessels, storage tanks,
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
-
 Automated welding assistance improves efficiency, but advanced welding skills (TIG / pressure vessels) remain scarce. Daily rates during mining shutdowns are exceptionally high, making this one of the highest-paid trades in Australia.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Automated welding assistance improves efficiency, but advanced welding skills (T
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -163,12 +159,13 @@ A: Not required. A Certificate III plus pressure vessel welding certification is
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boilermaker/AU)**

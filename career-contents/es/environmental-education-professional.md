@@ -52,8 +52,6 @@ Environmental education professionals are responsible for designing and implemen
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of environmental education professionals (interactive teaching, emotional empathy) are difficult to replace by AI, but tasks such as textbook writing and data analysis can be automated, presenting both risks and opportunities.
-
 At the entry level, students can start as educational assistants or event coordinators, gaining experience and then being promoted to project manager or department head. Some personnel have shifted to corporate sustainability consulting, environmental audits, or NGO management. Pursuing a master's degree in environmental science or education helps advance to management positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ At the entry level, students can start as educational assistants or event coordi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | For work residence sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local or EU citizen |
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled talents who have graduated from university and meet annual salary standards; the Master of Environmental Science is usually eligible for application |
-| Subclass Busqueda empleo (Job Search Visa) | Recent graduates or highly skilled professionals can stay in Spain for 6-12 months to find work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Undergraduate or FP advanced courses such as Environmental Science, Biology, 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-education-professional/ES)**

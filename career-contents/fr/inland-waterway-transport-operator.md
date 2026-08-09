@@ -53,8 +53,6 @@ Inland waterway transport operators are responsible for organizing, coordinating
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Junior operators can be promoted to dispatch supervisor or port operations manager through accumulated experience. Holding senior captain qualifications (such as Patron de Navigation Intérieure) allows you to switch to ship navigation or technical management. Some personnel can enter the fields of multimodal transport coordination or logistics consulting.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior operators can be promoted to dispatch supervisor or port operations manag
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requires contract and qualification certificates, valid for 4 years, renewable visa, spouse can accompany for work. |
-| Subclass Salarié (Salarié (Employee Work Permit)) | A long-term contract must be provided by a French employer, pass a labor market test (exemption for shortage occupations), valid for 1-4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | High salaries are required (annual salary ≥ 53,955 euros, 2023 standard). Salaries for this occupation are usually not met, but management positions may meet the requirements. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Can progress from entry-level operator to shift supervisor, port manager, or 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inland-waterway-transport-operator/FR)**

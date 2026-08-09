@@ -53,8 +53,6 @@ Develop legislation and policy in national and local governments as an elected r
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The core of an elected official's work—policy-making, voter communication, and multi-party mediation—relies heavily on human judgment and trust, making it difficult for AI to replace; however, AI can greatly enhance efficiency in information analysis, policy simulation, and constituent relationship management, allowing officials to focus more on strategic decision-making.
-
 Can progress from local councillor to parliament or cabinet positions, or transition to public policy consulting, senior government roles, or international organizations.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from local councillor to parliament or cabinet positions, or transi
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically progress through party activities, serving as an assistant or local
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elected-officers-and-representatives/UK)**

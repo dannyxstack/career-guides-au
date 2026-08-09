@@ -54,8 +54,6 @@ Responsible for technical setup, lighting and sound installation, exhibit transp
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over repetitive tasks such as exhibit data entry and basic lighting and sound programming, but on-site setup, precision exhibit handling, and creative design decisions remain human strengths—the outlook for the role is mixed.
-
 Can progress from technical assistant to senior technician or exhibition technical supervisor, with some shifting to exhibition planning or project management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from technical assistant to senior technician or exhibition technic
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Recognized professional qualification required, with employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa allowing entry to Germany to find work, requiring proof of language skills, etc. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must first complete academic/professional qualification recognition or comple
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/museum-and-exhibition-technician/DE)**

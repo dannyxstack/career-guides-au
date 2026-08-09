@@ -51,8 +51,6 @@ Non-destructive testing inspectors use ultrasonic, radiographic, magnetic partic
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-NDT inspectors and testers are mixedly affected by AI: automation can handle data collection and analysis, but on-site operations, regulatory responsibilities, and complex defect judgment still rely on humans; roles are transforming rather than disappearing.
-
 Junior inspectors can progress to senior technician, team supervisor, or become CGSB certified specialist. They can also move into quality engineering or training roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior inspectors can progress to senior technician, team supervisor, or become 
 | Subclass PNP (Provincial Nominee Program) | Shortage occupations under Alberta, Saskatchewan and other provincial nominee programs |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for those with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Progress from junior to senior, can become supervisor or trainer. Can also tr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nondestructive-testers-and-inspectors/CA)**

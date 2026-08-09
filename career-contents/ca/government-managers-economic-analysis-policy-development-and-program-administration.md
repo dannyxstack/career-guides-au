@@ -52,8 +52,6 @@ Local council officers in Canada correspond to government managers, responsible 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance policy analysis and project management efficiency but will also replace some data sorting and report generation tasks, presenting both risks and opportunities.
-
 Career path can progress from project officer, policy analyst to senior manager or director. Long-term can move to nonprofits, consulting firms, or federal positions. Promotion usually requires a Master of Public Administration (MPA) or related certification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path can progress from project officer, policy analyst to senior manager 
 | Subclass CEC (Canadian Experience Class) | Apply after accumulating 1 year of relevant work experience in Canada, suitable for applicants transitioning from a work permit |
 | Subclass FSW (Federal Skilled Worker Program) | Meets Federal Skilled Worker points but requires local work experience or a job offer to be competitive |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Highest demand in Ontario, British Columbia, Alberta, and Quebec. Additionall
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-managers-economic-analysis-policy-development-and-program-administration/CA)**

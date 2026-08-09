@@ -55,8 +55,6 @@ Veterinarians provide medical diagnosis, treatment and preventive care for compa
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
-
 Pet owners are increasingly willing to pay for specialist treatments (oncology, orthopaedics, cardiology), driving up specialist vet salaries. Large-animal vets in rural areas are in severe shortage and benefit from fast-track PR pathways.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Pet owners are increasingly willing to pay for specialist treatments (oncology, 
 | Subclass 190 (Skilled Nominated) | State nomination; priority for large-animal veterinarians in rural areas |
 | Subclass 491 (Skilled Work Regional) | Rural and remote veterinary services, nomination adds 15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: GP salaries are far higher than veterinarians ($250k–$500k+ vs $90k–$160k
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/AU)**

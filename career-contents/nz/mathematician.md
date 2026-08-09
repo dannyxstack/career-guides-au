@@ -52,8 +52,6 @@ Mathematicians in New Zealand apply advanced mathematics and statistical techniq
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mathematicians have greatly enhanced efficiency through AI tools (e.g., symbolic computation, automated theorem proving) but are not replaced; modeling and algorithm design skills become scarce, and job demand shifts toward higher value-added areas.
-
 Junior mathematicians can progress to senior analysts, project managers, or chief data scientists. They can also move into academic research, quantitative finance, or senior government statistical roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior mathematicians can progress to senior analysts, project managers, or chie
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration, requires points for qualifications, work experience, and salary; usually requires a job offer. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, as a temporary work visa, can accumulate eligibility for subsequent residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mathematicians are in high demand in research institutions, finance, IT compa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematician/NZ)**

@@ -52,8 +52,6 @@ This occupation involves operating and controlling machines that crush, break, a
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation are replacing crushing, grinding, and sorting processes, reducing simple labor jobs, but areas requiring human judgment like precise stone processing and site management will remain.
-
 Beginners start with simple assistant tasks and can advance to operate major machinery, become site foremen, or process managers as they gain skills.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Beginners start with simple assistant tasks and can advance to operate major mac
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Issued to unskilled foreign workers, employment permit in mining and construction |
-| Subclass E-7 (Specific Activities (E-7)) | For skilled workers, available to experts in ore and stone product production |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, long-term stay visa |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Completion of compulsory education (middle school) or higher is acceptable, a
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ore-and-stone-product-production-machine-operator/KR)**

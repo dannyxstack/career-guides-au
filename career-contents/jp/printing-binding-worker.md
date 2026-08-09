@@ -4,8 +4,6 @@
 
 Occupation that operates printing and binding machines to manufacture printed materials such as books, magazines, and pamphlets.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Occupation that operates printing and binding machines to manufacture printed ma
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With AI and automation, plate making and simple printing processes are being replaced, but areas requiring human judgment, such as color matching, special processing, and customer coordination, remain. The rise of digital printing has reduced some typesetting and plate-making processes.
-
 Start as a printing operator, with advancement possible to plate making/DTP operator, quality control, or process management.
 
 **Tasks most exposed to AI:**
@@ -94,18 +90,9 @@ Start as a printing operator, with advancement possible to plate making/DTP oper
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree and relevant experience; possible in DTP or process management. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Printing)) | Printing is not a target field as of 2023; note future additions. |
-| Subclass 技能 (Skilled Worker Visa) | Skilled workers may qualify, but printing trades are generally excluded. |
-| Subclass 特定活動 (Designated Activities (Foreign Technical Intern Training)) | Printing and bookbinding are eligible for technical intern training (up to category 3). |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +136,12 @@ A: You can aim for specialized roles such as DTP operator, quality control, or p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-binding-worker/JP)**

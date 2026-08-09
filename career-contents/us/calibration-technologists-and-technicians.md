@@ -51,8 +51,6 @@ Responsible for executing or adjusting calibration procedures for measuring equi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 Entry-level calibration technicians can advance to senior calibration technician, calibration supervisor, or quality engineer through experience and professional certifications. May also move into metrology, quality control, or engineering management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level calibration technicians can advance to senior calibration technician
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Typically through H-1B or EB-3 green card paths. Requires employer sponsorshi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/calibration-technologists-and-technicians/US)**

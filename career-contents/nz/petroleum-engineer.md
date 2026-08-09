@@ -52,8 +52,6 @@ Petroleum engineers design and optimize plans for oil and gas exploration, drill
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Routine data analysis and drilling optimization tasks for petroleum engineers will be gradually replaced by AI, but field operations and complex decisions still require human experience. Competition for entry-level roles intensifies.
-
 Junior engineers can start in drilling or production engineering and advance to senior engineer or project manager with experience. Some move into new energy (e.g. geothermal) or consulting. Continuous learning is required, and registration as a Chartered Professional Engineer (CPEng) can boost career prospects.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior engineers can start in drilling or production engineering and advance to 
 | Subclass SMC (Skilled Migrant Category (6 points)) | Accumulate 6 points for residency through qualifications/registration/salary etc., with bonus points for long-term shortage occupation. |
 | Subclass AEWV (Accredited Employer Work Visa) | If employed by an accredited employer, you can get a work visa for up to 3 years, after which you can apply for permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Small market size, around 300 people, concentrated in the Taranaki region. Su
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-engineer/NZ)**

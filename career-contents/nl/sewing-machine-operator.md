@@ -4,8 +4,6 @@
 
 In the Netherlands, sewing machine operators work mainly in the clothing, textiles, and leather goods manufacturing industries, operating sewing machines to sew items such as clothing and household goods. This is a basic operational role in manufacturing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In the Netherlands, sewing machine operators work mainly in the clothing, textil
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Sewing machine operators face the risk of AI automation replacing programmed sewing tasks, while AI tools can improve efficiency, quality control, and customization capabilities. Overall, it's a mixed blessing.
-
 Usually start as junior operators, and can advance to senior operators or sample makers through experience. Some may transition to quality management, production supervision, or garment design roles, but promotion opportunities are relatively limited.
 
 **Tasks most exposed to AI:**
@@ -101,18 +97,9 @@ Usually start as junior operators, and can advance to senior operators or sample
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable for highly skilled migrants, but sewing machine operators generally do not meet the salary threshold (minimum annual salary about €5,000/month in 2025) unless in managerial or technical roles. |
-| Subclass EU Blue Card (EU Blue Card) | Also because of a relatively high salary requirement (approx. €5,800/month), this occupation is difficult to meet the conditions. |
-| Subclass Orientation Year (Orientation Year (Search Year) Visa) | Applicable to international students who graduated in the Netherlands and can seek employment within one year, but must find a job meeting salary requirements to switch to a work visa. |
-| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens can work freely in the Netherlands without a visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +143,12 @@ A: Outlook is average; automation and overseas production shifts limit demand. O
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewing-machine-operator/NL)**

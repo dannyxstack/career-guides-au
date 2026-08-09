@@ -4,8 +4,6 @@
 
 This profession provides specialized interpretation and education on natural and cultural resources at national parks, museums, historical sites, etc., helping visitors understand them.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This profession provides specialized interpretation and education on natural and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation technologies can assist nature and cultural interpreters in some information delivery tasks, but moving storytelling and emotional interaction in the field remain a uniquely human domain, and the use of AI can actually enhance the quality of interpretation.
-
 Typically, after obtaining a degree in nature or culture-related fields, one gains experience through internships or volunteer work, acquires relevant certifications, and then enters as a regular interpreter. Advancement to senior interpreter or roles in education and planning is possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically, after obtaining a degree in nature or culture-related fields, one gai
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for specialized interpretation based on employment contract, but rare cases |
-| Subclass F-2 (F-2 (Residence)) | Free to work if income requirements are met |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Start as part-time or contract workers, and can advance to full-time or senio
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nature-and-culture-interpreter/KR)**

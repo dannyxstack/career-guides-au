@@ -51,8 +51,6 @@ Advertising and marketing professionals plan, execute, and monitor advertising a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Advertising and marketing professionals will experience structural differentiation: quantitative tasks like data analysis and ad optimization will be efficiently replaced by AI, but strategic creativity and client trust-building will be amplified, shifting the role from executor to AI trainer and brand curator.
-
 Entry-level roles such as marketing assistant can be promoted to marketing manager or brand manager, transitioning to strategic planning or digital marketing director after gaining experience. Large enterprises offer clearer career paths; one can also choose to become a consultant.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Entry-level roles such as marketing assistant can be promoted to marketing manag
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU employees, with an annual salary threshold of approximately €45,000 and a contract of at least 1 year. Can lead to long-term residency. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, there is an annual quota, requiring employer sponsorship. Marketing occupations typically meet the criteria. |
-| Subclass Nulla Osta Work Permit (Nulla Osta Work Permit) | Employers must apply to the labor office, proving they cannot recruit within the EU. The approval process takes about 2-4 months. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Starting as a Marketing Assistant or Coordinator, you can progress to Marketi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-marketing-professional/IT)**

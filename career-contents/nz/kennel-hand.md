@@ -55,8 +55,6 @@ A New Zealand occupation involving daily care of dogs in breeding facilities, bo
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 Junior kennel attendants can advance to supervisor or operations manager, or transition to veterinary assistant or animal control officer by obtaining animal care certificates. With 3-5 years of experience, they can also start their own pet boarding business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior kennel attendants can advance to supervisor or operations manager, or tra
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to kennel supervisor or operations manager, or become a veterinar
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kennel-hand/NZ)**

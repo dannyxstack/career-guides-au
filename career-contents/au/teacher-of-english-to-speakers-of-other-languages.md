@@ -52,8 +52,6 @@ Teachers of English to Speakers of Other Languages provide English language inst
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
-
 Entry-level TESOL teachers can start as assistants or part-time teachers, gaining experience to advance to senior teacher, course coordinator, or teaching supervisor. Some transition to exam preparation (e.g., IELTS), teacher training, or education management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level TESOL teachers can start as assistants or part-time teachers, gainin
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state nomination and occupation on state sponsorship list |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Skilled Migration Provisional Visa, transitioning to 191 Permanent Residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree and a TESOL certificate (e.g., CELTA).
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-of-english-to-speakers-of-other-languages/AU)**

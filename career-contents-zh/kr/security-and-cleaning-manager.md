@@ -1,10 +1,8 @@
-# Security and Cleaning Manager 职业分析 · 韩国
+# 安保与清洁经理（Security and Cleaning Manager）职业分析 · 韩国
 
-**职业代码: 01431 (KECO)**
+**职业代码：01431 (KECO)**
 
-A management professional responsible for overseeing security and cleaning operations in buildings or facilities, including personnel management, scheduling, quality inspection, and customer response.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责监督建筑或设施中安保和清洁运营的管理专业人员，包括人员管理、排班、质量检查和客户反馈处理。
 
 
 ---
@@ -13,8 +11,8 @@ A management professional responsible for overseeing security and cleaning opera
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No educational restrictions） |
-| Relevant certifications | 1年 | $500,000~$2,000,000（Security instructor qualification, etc.） |
+| 高中毕业 | 0年 | $0~$0（无学历限制） |
+| 相关认证 | 1年 | $500,000~$2,000,000（安保教官资格等） |
 
 ---
 
@@ -22,18 +20,18 @@ A management professional responsible for overseeing security and cleaning opera
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 必备 | Essential for safety management |
-| Security Instructor | Korea Security Association | 可选 | Advantageous for managing security operations |
-| Cleaning Manager | Korea Cleaning Association | 可选 | Certification for cleaning management expertise |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 必备 | 对安全管理至关重要 |
+| 安全讲师 | 韩国保安协会 | 可选 | 有利于安全管理 |
+| 清洁经理 | 韩国清洁协会 | 可选 | 清洁管理专业知识认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Due to aging population and increase in single-person households, demand for security and cleaning services remains, but employment growth is expected to stagnate due to automation and minimum wage hikes.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于人口老龄化和单人家庭增加，安保和清洁服务的需求仍然存在，但由于自动化和最低工资上调，就业增长预计将停滞。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A management professional responsible for overseeing security and cleaning opera
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | KRW 24,000,000 at minimum wage |
-| Intermediate (4–7 years) | $30,000,000~$36,000,000 | 随经验与认证提升 |
-| Advanced (8+ years) | $36,000,000~$45,000,000 | Large facility manager level |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 最低工资2400万韩元 |
+| 中级（4-7年） | $30,000,000~$36,000,000 | 随经验与认证提升 |
+| 高级（8年以上） | $36,000,000~$45,000,000 | 大型设施经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are replacing some tasks in security and cleaning through CCTV analysis and robot vacuum cleaners, but overall work is being strengthened as human roles remain crucial in manager decision-making, emergency response, and workforce management.
+人工智能和自动化通过闭路电视分析和机器人吸尘器正在取代保安和清洁的部分任务，但由于人类在管理者决策、应急响应和劳动力管理中的关键作用，整体工作正得到加强。
 
-Typically start as security guards or cleaners, then advance to site manager after gaining experience, and can rise to department head in large facilities.
+通常从保安或清洁工做起，积累经验后晋升为现场经理，在大型设施中可升至部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple CCTV monitoring
-- Cleaning robot schedule management
-- Manual access log checking
+- 简单闭路电视监控
+- 清洁机器人排程管理
+- 手动访问日志检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based anomaly analysis
-- Smart cleaning system optimization
-- Operation of automatic emergency response systems
+- 基于AI的异常分析
+- 智能清洁系统优化
+- 自动应急响应系统操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency situation judgment and response
-- Personnel management and motivation
+- 紧急情况判断与应对
+- 人员管理与激励
 - 客户服务与冲突处理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI monitoring system operation
-- Data analysis and reporting
-- Smart facility maintenance
+- AI监控系统操作
+- 数据分析与报告
+- 智能设施维护
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increase in single-person households
-- Smart security systems
-- Enhanced hygiene management
+- 人口老龄化
+- 单人家庭增加
+- 智能安防系统
+- 强化卫生管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For experienced security and cleaning managers, employer recommendation required |
-| Subclass F-2 (Residence) | Long-term residents, pre-permanent residency stage, few employment restrictions |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, employment in service industry possible |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Responsible person
-- Physically fit person
-- Person skilled in people management
+- 负责人
+- 体能良好的人
+- 擅长人员管理的人
 
 **谁不适合**
-- Person who dislikes monotonous repetitive tasks
-- Person who struggles with night shifts
+- 不喜欢单调重复任务的人
+- 难以适应夜班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for security and cleaning managers?**
-答：Beginner approx. 24-30 million won, intermediate 30-36 million won, advanced 36-45 million won.
+**问：安保和清洁经理的平均年薪是多少？**
+答：初级约2400-3000万韩元，中级3000-3600万韩元，高级3600-4500万韩元。
 
-**问：Can foreigners get a job in this occupation?**
-答：E-7 visa can be used to hire skilled managers, but on-site security and cleaning are limited to E-9 (Non-professional Employment) visa.
+**问：外国人能否从事该职业？**
+答：E-7签证可用于雇佣熟练经理，但现场保安和清洁仅限于E-9（非专业就业）签证。
 
-**问：What qualifications are needed for promotion?**
-答：Certifications such as security instructor, cleaning manager, and industrial safety engineer are advantageous, and experience is important.
+**问：晋升需要哪些资格？**
+答：持有安全讲师、清洁经理、工业安全工程师等证书者优先，经验也很重要。
 
 
 ---
@@ -145,12 +135,12 @@ Typically start as security guards or cleaners, then advance to site manager aft
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/security-and-cleaning-manager/KR)**

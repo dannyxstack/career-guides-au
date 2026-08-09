@@ -4,8 +4,6 @@
 
 Production process worker who inspects appearance, dimensions, and quality of rubber and plastic products. Main tasks involve visual inspection and use of measuring instruments on the production line.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Production process worker who inspects appearance, dimensions, and quality of ru
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI-based image inspection and automation equipment are increasingly being introduced, leading to a decline in simple visual inspection. However, areas requiring human judgment, such as anomaly determination and equipment maintenance, remain.
-
 Career path from inspector to team leader or quality assurance department is possible. Recognition as a skilled worker and promotion to production management or quality control positions can be expected.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Career path from inspector to team leader or quality assurance department is pos
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or 10+ years of professional experience. Specialized knowledge of quality control is necessary. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | May fall under manufacturing (plastic product manufacturing), but inspection-only work has limited applicability. |
-| Subclass 技能実習 (Technical Intern Training) | Can transition up to status 3. Track record of accepting trainees in manufacturing. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Some visual inspection is being replaced by AI image inspection, but complex 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-and-plastic-products-inspector/JP)**

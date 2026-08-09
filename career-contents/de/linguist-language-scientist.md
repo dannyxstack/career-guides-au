@@ -55,8 +55,6 @@ Engage in language and literary science research, including linguistics, philolo
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on linguists' work structure is complex: core linguistic theory innovation is hard to replace, but many tasks like data collation, basic translation, and corpus annotation are automated, increasing competition for entry-level jobs while enhancing high-value analysis and cross-cultural research.
-
 Career path typically starts as a research assistant (Wissenschaftlicher Mitarbeiter), then progresses to professor or senior researcher. Some transition to publishing, media, or corporate language technology fields.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career path typically starts as a research assistant (Wissenschaftlicher Mitarbe
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Need first to obtain a recognised German qualification or complete a skills a
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/linguist-language-scientist/DE)**

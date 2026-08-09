@@ -4,8 +4,6 @@
 
 Estimators and assessors evaluate the value of property, vehicles, goods, etc., handle insurance claims and loss assessment, with stable demand in Italy's insurance and real estate sectors.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -56,8 +54,6 @@ Estimators and assessors evaluate the value of property, vehicles, goods, etc., 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly change the work of loss adjusters and assessors, automating repetitive data analysis tasks, but core parts involving on-site inspections, complex judgments, and legal responsibilities remain human-led. Practitioners need to actively embrace AI tools to improve efficiency.
-
 Juniors can start as assistants in insurance or real estate companies, and progress to senior appraisers or team leaders, or move into legal appraisal, corporate risk management, etc.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Juniors can start as assistants in insurance or real estate companies, and progr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Lavoro Subordinato ( (Work Visa for Employed Work) | Requires employer sponsorship through Decreto Flussi quotas or casual work contracts, suitable for applicants with an Italian employer offer. |
-| Subclass EU Blue Card (EU Blue Card) | Bachelor's degree or higher required, annual salary 1.5 times above Italian average (about €50,000), fast-track residency available. |
-| Subclass Self-employment visa (Self-Employment Visa) | Suitable for independent assessors, requiring a business plan and proof of funds, with strict approval. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: Registration with the Italian Association of Valuers or the IVASS insurance i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/valuer-and-loss-assessor/IT)**

@@ -51,8 +51,6 @@ Counsellors provide emotional, mental health, and addiction support to individua
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
-
 Requires a relevant bachelor's or master's degree plus registration (e.g. ACA/PACFA); career progression into clinical or specialist areas is possible.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Requires a relevant bachelor's or master's degree plus registration (e.g. ACA/PA
 | Subclass 482 (Skills in Demand) | Employer-sponsored |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Possible, but varies by state. Counsellor (272199) appears on some state nomi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/counsellor/AU)**

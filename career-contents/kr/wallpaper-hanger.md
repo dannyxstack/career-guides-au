@@ -4,8 +4,6 @@
 
 A wallpaper hanger is a specialized construction craftsperson who applies wallpaper or sheet paper to walls in residences and commercial facilities. It requires manual precision and has steady demand at new construction and remodeling sites.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A wallpaper hanger is a specialized construction craftsperson who applies wallpa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to fully replace wallpaper work, but some assistive tools like automatic wallpaper cutters may reduce simple tasks. Overall AI impact is low.
-
 Career advancement: Craftsman → Skilled Worker → Site Foreman. It is common to gain experience while self-employed or affiliated with an interior company. Income varies significantly with skill level.
 
 **Tasks most exposed to AI:**
@@ -91,18 +87,9 @@ Career advancement: Craftsman → Skilled Worker → Site Foreman. It is common 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Non-professional foreign manpower, wallpaper installers possible but quota limited |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled workers, possible if experience requirements met |
-| Subclass F-2 (Residence (F-2)) | Point system, long-term residents eligible |
-| Subclass F-4 (Overseas Koreans (F-4)) | No employment restrictions for overseas Koreans |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +133,12 @@ A: Steady due to increasing interior demand, but aging workforce raises concerns
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wallpaper-hanger/KR)**

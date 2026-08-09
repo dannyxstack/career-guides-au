@@ -52,8 +52,6 @@ Assist ophthalmologists with clinical examinations, including visual acuity test
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Ophthalmic medical technicians' repetitive testing tasks (e.g., auto refraction, intraocular pressure measurement) are easily automated by AI, but complex work like clinical judgment, patient communication, and equipment maintenance still relies on humans, making career prospects mixed.
-
 Can progress from junior technician to senior technician or department supervisor, or gain experience and take exams to become an ophthalmic assistant or enter optometry.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior technician to senior technician or department superviso
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card path requires PERM labour certification, employer sponsorship |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Applying for employment-based immigration through the PERM process |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common paths are H-1B work visa (requires bachelor's degree) or EB-3 employme
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ophthalmic-medical-technicians/US)**

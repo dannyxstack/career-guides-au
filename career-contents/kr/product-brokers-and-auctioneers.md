@@ -4,8 +4,6 @@
 
 Professionals who mediate transactions or conduct auctions for various goods such as agricultural, fisheries, livestock products, used cars, and artworks; demand remains stable due to the growth of Korea's auction market and online trading platforms.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Professionals who mediate transactions or conduct auctions for various goods suc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and online platforms automate simple brokerage and auction information delivery, but human trust and negotiation skills remain important, so the scope of work is reduced but not completely replaced.
-
 Early career starts as a transaction or auction assistant; after 5-10 years, become an independent broker or certified auctioneer. Possible to work at large auction houses, agricultural cooperatives, fisheries cooperatives, etc., before starting a business.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Early career starts as a transaction or auction assistant; after 5-10 years, bec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreigners with specialized knowledge/skills, possible in auction-related professions |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can freely engage in brokerage activities |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: A certificate as an agricultural and fisheries product auctioneer is required
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-brokers-and-auctioneers/KR)**

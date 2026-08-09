@@ -50,8 +50,6 @@ Supervise and coordinate crew activities to ensure flight safety and operational
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Typically promoted from crew members (e.g., flight attendants); with experience, can advance to senior supervisor or operations manager, some transition to training or safety management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically promoted from crew members (e.g., flight attendants); with experience,
 | Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires advanced degree or exceptional ability, can be used for green card application. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Suitable for applicants with relevant experience, but long waiting times |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Relatively moderate. Possible via H-1B or EB-2/EB-3 green card, but requires 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-air-crew-members/US)**

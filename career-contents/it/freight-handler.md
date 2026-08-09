@@ -52,8 +52,6 @@ Responsible for loading, unloading, moving and sorting goods in warehouses, port
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Goods handlers, due to physical labor, can be replaced by machines, posing high automation risk; job numbers will significantly decrease, but some complex handling and supervisory roles will remain.
-
 Can be promoted from entry-level porter to warehouse team leader or logistics coordinator, and can expand roles by learning skills like forklift operation. Long-term may transition to warehouse management or transportation coordination.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Can be promoted from entry-level porter to warehouse team leader or logistics co
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Not applicable, as this occupation typically does not meet high-skilled requirements |
-| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota work visa for non-EU workers in low-skilled jobs, requires employer sponsorship |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit; employer must apply; labour market test required |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Promotion to warehouse supervisor, logistics coordinator, or training to beco
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-handler/IT)**

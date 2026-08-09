@@ -53,8 +53,6 @@ Direct or control vehicular and pedestrian traffic at streets, schools, railway 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI will not fully replace traffic controllers in the short term, but automated signals and monitoring systems will take over some tasks while enhancing situational awareness and recording capabilities; the role will shift towards safety supervision and emergency response.
-
 Usually start with part-time or temporary positions, after gaining experience can advance to traffic supervisor or safety coordinator, some switch to law enforcement or project management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually start with part-time or temporary positions, after gaining experience ca
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: This occupation typically does not meet H-1B specialty occupation requirement
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crossing-guards-and-flaggers/US)**

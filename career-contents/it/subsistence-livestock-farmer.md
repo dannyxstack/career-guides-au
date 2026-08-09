@@ -4,8 +4,6 @@
 
 Engaging in small-scale livestock farming to meet basic household needs, typically in remote mountainous or rural areas of Italy. Tasks include feeding, grazing, animal health care, and basic farm maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Engaging in small-scale livestock farming to meet basic household needs, typical
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of self-sufficient livestock farmers (grazing, basic veterinary care) are hard to replace directly by AI, but auxiliary tasks like record tracking and plan optimization can be enhanced by AI, making it a mixed blessing.
-
 Most practitioners maintain family farm operations; a few can transition to commercial farming by expanding production or joining cooperatives. Younger practitioners may increase income through organic farming, direct sales, or agritourism.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Most practitioners maintain family farm operations; a few can transition to comm
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU agricultural workers requiring employer sponsorship and annual quota. Self-sufficient farmers typically do not qualify unless switching to commercial farming. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely engage in self-sufficient agriculture in Italy, required to register as self-employed. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Extremely difficult. This occupation is not classified as high-skilled and ty
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-livestock-farmer/IT)**

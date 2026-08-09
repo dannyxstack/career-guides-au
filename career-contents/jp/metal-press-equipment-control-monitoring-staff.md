@@ -51,8 +51,6 @@ A production process specialist who operates, monitors, and adjusts metal press 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-With AI and robots, simple press work is automated, while monitoring, adjustment, and anomaly response remain. Job roles shift to higher-level control and maintenance skills.
-
 Start as a field operator, then gain experience to become a line leader or production manager. Career advancement possible through multi-skilling and acquiring programming skills.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Start as a field operator, then gain experience to become a line leader or produ
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) – Casting/Molding, Industrial Machinery, Metal Pressing) | Can work in 3 manufacturing fields (casting/molding, industrial machinery, metal pressing). Requires skills test and N4 Japanese. Max 5 years. |
-| Subclass 技能実習2号 (Technical Intern Training (Metal Pressing)) | Training period 3 years. Based on return to home country, but transfer to Specified Skilled Worker possible. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of work experience. Applies to design/management roles. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Get press machine operator or metal press technician certifications to move i
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-press-equipment-control-monitoring-staff/JP)**

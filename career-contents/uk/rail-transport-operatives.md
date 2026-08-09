@@ -52,8 +52,6 @@ Assist train drivers in operating passenger and freight trains, drive locomotive
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Daily inspections, recording, and scheduling for rail traffic crew can be automated by AI, but on-site judgment, emergency handling, and physical operations still rely on humans—overall risks and opportunities coexist.
-
 Start as a signal operator or yard operator, gain experience, and advance to senior operator, shift supervisor, or station manager. Some can further train to become train drivers.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Start as a signal operator or yard operator, gain experience, and advance to sen
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation is on the eligible skilled occupation list, meets requirements for skilled worker visa applications, requires employer sponsorship and meeting salary thresholds. |
 | Subclass Graduate (Graduate visa) | Graduate visa holders can work in any job and switch to a skilled worker visa after gaining experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply for a Skilled Worker visa, requiring a UK employer sponsor and meet
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-transport-operatives/UK)**

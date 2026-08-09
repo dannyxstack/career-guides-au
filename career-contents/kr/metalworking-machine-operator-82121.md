@@ -50,8 +50,6 @@ This occupation involves operating metalworking machines such as lathes, milling
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Due to AI and automation, simple lathe/milling work is rapidly being replaced, but complex precision machining and equipment maintenance are becoming more valuable. The labor shortage is intensifying as skilled older workers retire, and workers utilizing AI receive a premium.
-
 With CNC programming and equipment maintenance skills, one can advance to production manager or technical supervisor.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ With CNC programming and equipment maintenance skills, one can advance to produc
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can be issued if you have over 5 years of experience as a skilled worker |
-| Subclass E-9 (Non-professional Employment) | Available within manufacturing industry quotas |
-| Subclass F-2 (Residence) | Possible for long-term stay when transitioning from E-7 to F-2 |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: It is advantageous to learn CNC programming and equipment maintenance skills 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-machine-operator-82121/KR)**

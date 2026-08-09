@@ -53,8 +53,6 @@ Metal structure fabricators are responsible for cutting, assembling, and welding
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Through accumulated experience, you can be promoted to team leader, quality inspector, or technical supervisor, or you can start your own metal processing company.
 
 **Tasks most exposed to AI:**
@@ -97,17 +95,9 @@ Through accumulated experience, you can be promoted to team leader, quality insp
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Work residence employed by a French company requires a work permit, applicable to long-term contract CDI. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled talents, such as engineers or senior technicians, residency can be obtained quickly, and spouses can work. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires a high salary (about ≥53,000 euros/year), applicable to engineers. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates are allowed one year in France to seek employment; after finding a job, can switch to work residence. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: Yes. You can advance from technician to team leader or technical manager, or 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-structures-fabricator/FR)**

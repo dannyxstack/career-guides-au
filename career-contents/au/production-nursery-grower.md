@@ -52,8 +52,6 @@ Responsible for planning, planting, cultivating, and harvesting plants (e.g., tr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on production nursery growers is mixed: repetitive tasks can be automated, but parts relying on field sensory judgment and fine manual work are hard to replace. Overall risk is manageable, and embracing digital tools is recommended.
-
 Junior growers can advance to nursery supervisor or production manager, and later become nursery owners or horticultural consultants. With experience, they can move into plant breeding, pest management, or sustainable agriculture.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior growers can advance to nursery supervisor or production manager, and late
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored temporary visa, can transfer to 191 permanent residence after 3 years |
 | Subclass 189 (Skilled Independent Visa) | Independent skilled permanent visa based on EOI points; this occupation is on the MLTSSL |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation is on the MLTSSL and eligible for 189, 190, 491, 482, 186 vis
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-nursery-grower/AU)**

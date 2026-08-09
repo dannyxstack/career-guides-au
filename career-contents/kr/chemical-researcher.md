@@ -49,8 +49,6 @@ This is a professional research position that studies the properties and reactio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances some tasks such as drug candidate discovery and optimization of reaction conditions, but human creativity remains crucial for new molecular design and experimental interpretation, so the role of researchers is expected to expand.
-
 After obtaining a master's or doctoral degree, join a research lab; promotions from assistant to senior to principal researcher; possible transition to management roles such as team leader or CTO based on research performance.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After obtaining a master's or doctoral degree, join a research lab; promotions f
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled foreign nationals in R&D fields; bachelor's degree plus experience required |
-| Subclass F-2 (F-2 (Residence)) | E-7 can be converted after long-term stay, free to work |
-| Subclass D-10 (Job seeking) | Job-seeking visa for master's/PhD graduates, 6 months to 2 years |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Research achievements (papers, patents) and project management skills are key
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-researcher/KR)**

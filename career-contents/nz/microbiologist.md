@@ -51,8 +51,6 @@ In New Zealand, microbiologists study bacteria, viruses, and other microorganism
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Microbiologist tasks are complex; AI can enhance efficiency in data analysis and pattern recognition, but experimental operations and regulatory responsibilities are hard to automate. Overall mixed, low-end repetitive tasks replaced, core value enhanced.
-
 Junior microbiologists often start as lab technicians, advancing to senior scientists or team leaders after gaining experience. They can move into quality control, R&D, or management roles, with some entering academia or government agencies.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Junior microbiologists often start as lab technicians, advancing to senior scien
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Typically requires a bachelor's degree in microbiology or a related field; so
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/microbiologist/NZ)**

@@ -55,8 +55,6 @@ Operate plastic or rubber production machines to perform mixing, pressing, moldi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-For plastic and rubber production machine operators (not elsewhere classified), AI and automation will significantly reduce job numbers, especially in high-volume standardized production, where operators face high risk of replacement by robotic workstations and intelligent monitoring systems.
-
 Career progression paths are limited, with potential advancement from junior operator to senior operator or supervisor, but the level of specialized skills is not high. Some individuals may transition to mechanical maintenance or quality control positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression paths are limited, with potential advancement from junior ope
 | Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an approved employer, position must be low-skilled or medium-skilled, salary must meet median or market level |
 | Subclass SMC (Skilled Migrant Category) | Generally does not meet skilled migration requirements, as ANZSCO skill level is 4-5 and not on the long-term shortage list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Concentrated in Auckland, Waikato, and Canterbury regions due to higher manuf
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-and-rubber-production-machine-operators-nec/NZ)**

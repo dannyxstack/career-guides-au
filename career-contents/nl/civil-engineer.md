@@ -51,8 +51,6 @@ Civil engineers design, build, and maintain infrastructure projects such as road
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Junior engineers can start from design or site supervision, gain experience, and advance to project manager or specialist roles; senior positions can become technical directors or independent consultants.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior engineers can start from design or site supervision, gain experience, and
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigration, employer sponsorship, income threshold approximately €5,008/month (over 30 years old) |
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled workers, requiring an employment contract and annual salary of at least approximately €55,000 (2024 standard) |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities can find jobs within one year after graduation without employer sponsorship. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Starting from entry-level design or on-site engineer, you can advance to proj
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineer/NL)**

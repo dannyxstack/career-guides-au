@@ -53,8 +53,6 @@ Bar attendants prepare, mix and serve alcoholic and non-alcoholic drinks in bars
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on bar staff is mixed: basic drink preparation, inventory counting, etc., will be automated, but personalized customer service, social atmosphere creation, and handling unexpected situations remain human advantages. Industry demand is stable, but entry-level jobs face more competition.
-
 Usually start as a junior waiter/waitress, can advance to senior waiter, supervisor, or bar manager; some become bartenders or enter hotel management through training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as a junior waiter/waitress, can advance to senior waiter, supervi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted to supervisor, bar manager, or become a professional bartende
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bar-staff/UK)**

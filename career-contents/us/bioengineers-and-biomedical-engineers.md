@@ -53,8 +53,6 @@ Apply engineering, biology, chemistry, and computer science principles to design
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on biomedical engineers is mixed: data analysis and prototyping will be largely automated, but creative design involving human safety verification and clinical applications remains a human moat.
-
 Starting as a junior researcher or design engineer, one can advance to senior engineer, project manager, or R&D director with experience. A PhD helps in entering academia or top R&D institutions.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior researcher or design engineer, one can advance to senior en
 | Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Worker)) | Employment-Based Immigration: Third Preference, suitable for bachelor's or higher degree, requires PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | For individuals with outstanding achievements in science, no lottery, but high standards |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Good outlook. Aging population and medical technology advancements drive dema
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bioengineers-and-biomedical-engineers/US)**

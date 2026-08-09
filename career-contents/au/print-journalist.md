@@ -53,8 +53,6 @@ Print journalists write news stories and feature articles for print media such a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Junior reporters can advance to senior reporter, columnist, or editor, and some move into digital media or public relations.
 
 **Tasks most exposed to AI:**
@@ -102,8 +100,6 @@ Junior reporters can advance to senior reporter, columnist, or editor, and some 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -144,11 +140,12 @@ A: Print journalists are not on the current Australian skilled migration occupat
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-journalist/AU)**

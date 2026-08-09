@@ -52,8 +52,6 @@ Responsible for designing, developing, maintaining, and optimizing database syst
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
-
 Can progress from junior DBA to senior database architect or data engineer, or move into big data, cloud computing, or IT management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior DBA to senior database architect or data engineer, or m
 | Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Skilled migration visa; requires a job offer from a German employer and recognized qualifications |
 | Subclass Job Seeker Visa (Job Seeker Visa (Chancenkarte)) | Allowed to stay in Germany for 6 months to seek employment, requiring relevant qualifications and German B1 |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Common pathway is a university bachelor's degree in computer science or a dua
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-developer-and-administrator/DE)**

@@ -53,8 +53,6 @@ TV, video, and audio repair engineers install, repair, and maintain household TV
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Smart home technology (smart TVs, voice assistants) has driven automation in diagnostics and configuration, but physical repairs (soldering, power boards) still rely on manual labor. Entry-level roles are narrowing due to integrated repairs, but system-level repairs and remote diagnostics bring new opportunities.
-
 Career path: start as an apprentice or junior technician, gain experience, and advance to senior engineer or team supervisor. Some may pursue a degree in electronic engineering and transition to more complex industrial electronic repair or R&D roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path: start as an apprentice or junior technician, gain experience, and a
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires completing a Level 3 NVQ or BTEC Diploma in electronics re
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tv-video-and-audio-servicers-and-repairers/UK)**

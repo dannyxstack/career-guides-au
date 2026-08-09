@@ -53,8 +53,6 @@ Provide advanced administrative support, including research, report preparation,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce executive secretary and administrative assistant roles, with many routine tasks automated, but senior support and decision-making assistant roles will still retain opportunities.
-
 Can advance to administrative manager, office manager, or executive assistant, or transition to HR, project management, etc.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to administrative manager, office manager, or executive assistant, o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. H-1B requires a specialty occupation, typically needing 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/executive-secretaries-and-executive-administrative-assistants/US)**

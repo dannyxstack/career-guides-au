@@ -4,8 +4,6 @@
 
 Journalists are responsible for collecting, verifying, and reporting news events, writing articles for newspapers, TV stations, radio, or digital media, and producing video or audio content. They need to possess excellent investigative skills, writing skills, and journalistic sensitivity.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Journalists are responsible for collecting, verifying, and reporting news events
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Junior reporters can be promoted to senior reporters, editor-in-chiefs, or news directors. It can also be shifted to digital media, public relations, or content marketing. Freelance and entrepreneurial opportunities are increasing, but job stability is low.
 
 **Tasks most exposed to AI:**
@@ -94,16 +90,9 @@ Junior reporters can be promoted to senior reporters, editor-in-chiefs, or news 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer must be provided, and it must prove that the position cannot be filled by an EU citizen. |
-| Subclass Autónomo (Self-Employment Visa) | Applicable to freelance journalists, who must submit a business plan and demonstrate financial capability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Junior reporters can be promoted to senior reporters, editors, or news direct
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/ES)**

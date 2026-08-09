@@ -55,8 +55,6 @@ Judicial legal assistants assist judges with legal research, drafting legal docu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of a property transfer specialist involves both routine processes and legal responsibilities; AI will automate document processing, searches, compliance checks, etc., but core legal judgment, client communication, and signing authority still require humans. Overall, it's a mixed bag, but entry-level positions will be significantly reduced.
-
 Career progression typically starts with court internships or assistant roles, advancing to senior legal assistant or transitioning to lawyer or judicial administration officer. Experienced assistants can move to private law firms or government agencies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts with court internships or assistant roles, a
 | Subclass EB-2 (EB-2 Advanced Degree) | JD degree holders with professional work content can apply for a green card via EB-2, requiring PERM |
 | Subclass O-1 (O-1 Extraordinary Ability) | Very few outstanding judicial paralegals may qualify for O-1 visa |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes. Many judicial law clerks join law firms or government as lawyers after t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judicial-law-clerks/US)**

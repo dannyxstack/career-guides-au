@@ -50,8 +50,6 @@ Auto mechanics inspect, maintain, and repair passenger cars and trucks. Advances
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are used in diagnostic tools and operational efficiency, enhancing mechanics' work. Simple inspection tasks will decrease, but complex fault diagnosis and repairs requiring human judgment remain; skills to use AI as a tool become important.
-
 Starting as an apprentice, you can advance to Class 2 and Class 1 mechanic. Career paths include dealership or shop management, or starting your own business. JTEX and manufacturer training offer career growth.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as an apprentice, you can advance to Class 2 and Class 1 mechanic. Care
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（自動車整備） (Specified Skilled Worker (i)) | Automobile repair field added in 2023. Requires skill test and Japanese N4 level. Residence period: 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school degree or higher and work experience. Eligible for long-term stay and permanent residence. |
-| Subclass 技能（自動車整備） (Skilled Worker Visa) | Requires 10+ years of work experience. High level of skill demanded. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: Common paths: obtaining a Class 1 mechanic certification, becoming a service 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auto-mechanic/JP)**

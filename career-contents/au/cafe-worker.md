@@ -53,8 +53,6 @@ Cafe waitstaff take orders, prepare drinks and food, handle payments, and mainta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
-
 Promote to senior service staff, shift supervisor, or become assistant manager/manager of a café through coffee roasting or management courses. Some transition into food and beverage entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Promote to senior service staff, shift supervisor, or become assistant manager/m
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually requires 2-3 years of experience, participating in management trainin
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cafe-worker/AU)**

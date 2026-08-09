@@ -55,8 +55,6 @@ Responsible for placing and detonating explosives to demolish buildings or loose
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 Usually start as an apprentice or assistant, gain experience and can advance to supervisor or manager; some move into blasting design or safety management. State certification and federal license are key to advancement.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually start as an apprentice or assistant, gain experience and can advance to 
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applicable to temporary non-agricultural workers, but blasters usually require long-term experience, few applications |
 | Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as blaster is not a professional occupation |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can be promoted from assistant to foreman, supervisor, or transition to blast
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/explosives-workers-ordnance-handling-experts-and-blasters/US)**

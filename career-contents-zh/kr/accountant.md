@@ -1,8 +1,8 @@
 # 会计师（Accountant）职业分析 · 韩国
 
-**职业代码: 02311 (KECO)**
+**职业代码：02311 (KECO)**
 
-A professional who records, analyzes, and reports on a company's financial status and business performance, performing tax filing and financial advisory tasks.
+记录、分析并报告公司财务状况和经营业绩的专业人员，负责税务申报和财务咨询。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who records, analyzes, and reports on a company's financial statu
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University Accounting Department | 4年 | $4,000,000~$8,000,000（Based on average annual tuition (public/private)） |
-| Certified Public Accountant (KICPA) Exam | 2-3年 | $5,000,000~$12,000,000（Including academy tuition and exam fees） |
+| 大学会计系 | 4年 | $4,000,000~$8,000,000（基于平均年学费（公立/私立）） |
+| 注册会计师（KICPA）考试 | 2-3年 | $5,000,000~$12,000,000（包括学院学费和考试费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who records, analyzes, and reports on a company's financial statu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Public Accountant (KICPA) | Korean Institute of Certified Public Accountants | 必备 | A mandatory license for performing accounting work |
-| Tax Accountant (CTA) | Korean Tax Association | 可选 | Helps strengthen expertise in tax field |
+| 注册会计师（KICPA） | 韩国注册会计师协会 | 必备 | 从事会计工作的强制执照 |
+| 税务会计师（CTA） | 韩国税务协会 | 可选 | 有助于加强税务领域的专业知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Demand for accountants in Korea is stable, but growth is expected to be moderate due to a decrease in simple tasks caused by AI and increased competition.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。韩国会计师需求稳定，但由于AI导致简单任务减少及竞争加剧，增长预计温和。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,93 +38,86 @@ A professional who records, analyzes, and reports on a company's financial statu
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $40,000,000~$60,000,000 | Based on accounting firm, excluding performance bonus |
-| Mid-level (4–7 years) | $60,000,000~$90,000,000 | Assistant Manager to Manager level |
-| 高级（8年+） | $99,999,999 | Deputy General Manager to Partner level, including performance bonus |
+| 初级（0-3年） | $40,000,000~$60,000,000 | 基于会计师事务所，不含绩效奖金 |
+| 中级（4–7年） | $60,000,000~$90,000,000 | 助理经理至经理级别 |
+| 高级（8年+） | $99,999,999 | 副总经理至合伙人级别，含绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-In accounting work, simple tasks such as bookkeeping and journal entries are replaced by AI and RPA, but higher-level tasks like tax strategy, audit judgment, and advisory are actually strengthened.
+在会计工作中，簿记和分录等简单任务被AI和RPA取代，但税务策略、审计判断和咨询等高级任务反而得到加强。
 
-Careers are primarily built at accounting firms, corporate finance teams, or public institutions, with promotion to partner or CFO after obtaining CPA.
+职业主要在会计师事务所、企业财务团队或公共机构中发展，获得CPA后可晋升为合伙人或CFO。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Journal entries and bookkeeping
-- Simple review of financial statements
-- Basic tax return preparation
+- 日记账分录与簿记
+- 财务报表简单审核
+- 基础税务申报准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Financial analysis and forecasting
-- Tax risk assessment
-- Audit sampling and outlier detection
+- 财务分析与预测
+- 税务风险评估
+- 审计抽样与异常值检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Professional judgment
-- Client relations and negotiation
-- Complex tax strategy formulation
+- 专业判断
+- 客户关系与谈判
+- 复杂税务策略制定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
+- 数据分析
 - Python
-- IFRS·KGAAP expertise
-- Digital audit tools
+- IFRS·KGAAP专业知识
+- 数字审计工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- IFRS Adoption
-- Data Analysis
-- Tax Consulting
-- ESG Accounting
+- 采用IFRS
+- 数据分析
+- 税务咨询
+- ESG会计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Available for employment as accounting/tax professionals. Requires employment contract and proof of experience. |
-| Subclass F-2 (F-2-7 (Residence)) | Convertible with a points-based permanent residence visa when meeting certain income and stay period requirements. |
-| Subclass F-5 (Permanent (F-5)) | Permanent residence possible after long-term stay. Visa quotas have little effect on accountant demand. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and analytical person
-- Person strong with numbers and regulations
-- Person with patience for long-term certification preparation
+- 细致且善于分析的人
+- 擅长数字和法规的人
+- 有耐心长期备考认证的人
 
 **谁不适合**
-- Person wanting immediate results
-- Person who dislikes simple repetitive tasks
+- 希望立即看到结果的人
+- 不喜欢简单重复任务者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an accountant?**
-答：Junior 40-60M KRW, mid-level 60-90M KRW, senior 100-200M KRW, with differences between accounting firms and general companies.
+**问：会计师的平均薪资是多少？**
+答：初级4000-6000万韩元，中级6000-9000万韩元，高级1亿-2亿韩元，会计师事务所与普通公司之间有差异。
 
-**问：What visa does a foreigner need to work as an accountant in Korea?**
-答：An E-7 (Specific Activities) visa is required, along with a Korean CPA license or equivalent experience and an employment contract.
+**问：外国人在韩国从事会计工作需要什么签证？**
+答：需持有E-7（特定活动）签证，并具备韩国注册会计师执照或同等经验及雇佣合同。
 
-**问：What qualifications are required to become a Korean accountant?**
-答：A Certified Public Accountant (KICPA) license is essential, requiring passing the first and second exams and completing practical training.
+**问：成为韩国会计师需要什么资格？**
+答：持有注册会计师（KICPA）执照至关重要，需要参加并通过第一和第二考试，并完成实践培训。
 
 
 ---
@@ -142,12 +135,12 @@ Careers are primarily built at accounting firms, corporate finance teams, or pub
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/accountant/KR)**

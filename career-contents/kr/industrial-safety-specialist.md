@@ -50,8 +50,6 @@ A professional who performs safety management, identifies and improves risk fact
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is improving work efficiency in the industrial safety field through data analysis, risk prediction, and monitoring automation. However, human roles such as on-site judgment and training remain important, so AI is developing to complement rather than replace the duties of safety officers.
-
 Career path: Safety Manager → Safety and Health Team Leader → Safety and Health Management Officer. Holding a master's degree or higher or acquiring a Professional Engineer license is advantageous for advancing to specialized institutions or large corporations.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career path: Safety Manager → Safety and Health Team Leader → Safety and Hea
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for E-7 visa as safety-related professional; requires contract and career proof |
-| Subclass E-9 (Non-professional Employment) | Industrial safety field not eligible for E-9; requires expertise |
-| Subclass F-2 (Residence) | Can convert to points-based system; advantageous for long-term stay |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Industrial Safety Engineer or Industrial Safety Industrial Engineer is requir
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-safety-specialist/KR)**

@@ -54,8 +54,6 @@ Importers and exporters are key intermediaries in international trade, responsib
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of importers/exporters—document processing, compliance review, and basic market analysis—are being rapidly replaced by AI, but cross-border negotiation, relationship maintenance, and strategic decision-making remain human domains. The result is a polarized job structure: entry-level roles shrink while demand for senior experts rises.
-
 Entry-level positions can start as trade assistant or purchasing officer. After accumulating client relationships and supply chain experience, one can advance to import/export manager or trade director. Some choose to start their own trading company.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level positions can start as trade assistant or purchasing officer. After 
 | Subclass Scale-up (Scale-up visa) | Suitable for foreigners engaged in trade work at fast-growing enterprises, must meet salary requirements. |
 | Subclass Graduate (Graduate visa) | Suitable for UK university graduates, allows working in the UK for 2 years (3 years for PhD), convenient for gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Need knowledge of international trade regulations, customs procedures, supply
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/importers-and-exporters/UK)**

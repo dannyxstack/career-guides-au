@@ -52,8 +52,6 @@ Track construction workers lay, maintain, and repair railway tracks, a key trade
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will reduce low-end measurement and clerical tasks for rail construction workers, but core outdoor physical labor and on-site decision-making are hard to replace; meanwhile, AI enhances planning, welding precision, and inspection capabilities, upgrading job roles toward technical integration.
-
 After joining, you can gradually grow from assistant to independent skilled worker (Facharbeiter), then to foreman (Vorarbeiter) or site supervisor. Through further training, you can become a track construction technician (Meister) or technician (Techniker), or transition into railway operations and maintenance.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After joining, you can gradually grow from assistant to independent skilled work
 | Subclass Skilled Worker (Skilled Immigration Act) | Suitable for skilled workers with vocational training qualifications, requiring a German employer contract and qualification certification |
 | Subclass Chancenkarte (Opportunity Card) | Job search visa based on points system, allowing job seeking in Germany, effective from June 2024 |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Required certificates include: completion of a three-year dual training progr
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/track-construction-worker/DE)**

@@ -55,8 +55,6 @@ Water Resource Management Specialists plan, construct, and maintain water resour
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Career progression paths include moving from technician to project lead, then to water department supervisor or consulting expert. Further education can lead to water resource planning or environmental management.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career progression paths include moving from technician to project lead, then to
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled migration with dual vocational training or a bachelor's degree, and a job contract with a German employer |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job searching in Germany for 1 year, suitable for professionals with recognized qualifications. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Common pathway is completing dual vocational training (3 years) or studying f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-management-specialist/DE)**

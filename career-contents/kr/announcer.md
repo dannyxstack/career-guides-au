@@ -4,8 +4,6 @@
 
 A professional who delivers information and hosts broadcasts such as news, sports commentary, and entertainment programs, requiring excellent language skills and quick wit.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who delivers information and hosts broadcasts such as news, sport
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Although AI can replace some technical tasks such as voice synthesis and automatic subtitle generation in broadcasting, the unique delivery and emotional expression of an announcer are difficult to replace by AI, so the ability to produce content using AI tools is expected to become more important.
-
 A common path is to gain experience at a local broadcaster, then move to a metropolitan broadcaster, or go freelance to work on various platforms.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ A common path is to gain experience at a local broadcaster, then move to a metro
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for hiring foreign announcers, but Korean proficiency must be proven |
-| Subclass F-2 (F-2 (Residence)) | Possible as a long-term foreign resident to work as a freelancer |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: It varies by broadcaster, but a bachelor's degree is preferred, especially in
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/announcer/KR)**

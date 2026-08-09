@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing farm production, growing fiel
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Junior agricultural workers can gain experience and advance to farm manager or partner; or specialize in crop science, agricultural consulting, or agtech, managing large farms or starting a business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior agricultural workers can gain experience and advance to farm manager or p
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration, meet 6-point system requirements (education + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with validity up to 3 years, can lead to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires an agricultural certificate or diploma; a bachelor's degree 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-oilseed-pulse-or-pasture-grower-field-crop-grower/NZ)**

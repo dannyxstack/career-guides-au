@@ -51,8 +51,6 @@ Chefs in the Dutch catering industry are responsible for preparing and cooking d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some tasks of chefs (such as chopping and looking up recipes) are easily automated, but core tasks like creating dishes, on-site seasoning, and quality control are difficult to replace. Overall, the outlook is mixed.
-
 Career path: from kitchen hand to chef, then to head chef or executive chef. Requires gaining experience and obtaining relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career path: from kitchen hand to chef, then to head chef or executive chef. Req
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-salary chefs, requires employer sponsorship; salary threshold approx. €4,500/month (2025) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU high-skilled migrants with a salary threshold of approximately €5,331/month, but chefs often struggle to meet this |
-| Subclass Orientation Year (Orientation Year) | The orientation year visa for Dutch graduates, allows working in the Netherlands for one year |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Mandatory SVH food safety certificate, MBO cooking diploma not required but p
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook/NL)**

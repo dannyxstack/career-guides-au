@@ -4,8 +4,6 @@
 
 Photographers use cameras and lighting equipment to take professional photos of people, events, products, or artistic creations, and perform post-processing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Photographers use cameras and lighting equipment to take professional photos of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Photographer tasks are polarized: basic shooting and post-processing are easily automated by AI, but creative planning, emotional capture, and customized services are amplified by AI; industry entry barriers rise, requiring stronger comprehensive skills.
-
 Career development can be from assistant photographer to independent photographer or studio owner, or focus on portraits, business, art, or expand into video shooting.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career development can be from assistant photographer to independent photographe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed by a French photography studio or company, employer sponsorship required |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled photographers who must demonstrate artistic achievement or higher income |
-| Subclass Auto-entrepreneur (Self-Employed Work Permit) | Freelance photographers can apply, but must prove a stable income |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Common paths include applying for a Salarié visa by being employed by a Fren
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/FR)**

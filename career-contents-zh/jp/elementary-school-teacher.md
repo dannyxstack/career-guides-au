@@ -1,10 +1,8 @@
-# Elementary school teacher 职业分析 · 日本
+# 小学教师（Elementary school teacher）职业分析 · 日本
 
-**职业代码: 192 (JSCO)**
+**职业代码：192 (JSCO)**
 
-A professional who instructs children as a homeroom teacher in public elementary schools, conducting subject lessons, life guidance, and parent communication, and implementing education based on the curriculum guidelines.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在公立小学担任班主任，教授科目课程、进行生活指导和家长沟通，并根据课程指南实施教育的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who instructs children as a homeroom teacher in public elementary
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (teacher training course) | 4年 | $4,200,000~$5,000,000（National university annual tuition about ¥530,000. Private schools ¥1,000,000–1,500,000/year.） |
-| Graduate school of education | 2 年 | $2,000,000~$3,000,000（National graduate school tuition (approx. ¥800,000/year). Private schools ¥1,000,000–1,500,000/year.） |
+| 大学（教师培训课程） | 4年 | $4,200,000~$5,000,000（国立大学年学费约53万日元。私立学校每年100万-150万日元。） |
+| 教育学院 | 2 年 | $2,000,000~$3,000,000（国立研究生院学费（约80万日元/年）。私立学校100万-150万日元/年。） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who instructs children as a homeroom teacher in public elementary
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Elementary school teaching license (Type 1) | Prefectural Board of Education | 必备 | Obtained by completing required credits at university. Mandatory. |
-| Elementary school teaching license (Specialized) | Prefectural Board of Education | 可选 | Obtainable upon completing graduate school. Salary advantage. |
-| Special needs school teaching license | Prefectural Board of Education | 可选 | Advantageous when assigned to special needs classes. |
+| 小学教学许可证（1类） | 县教育委员会 | 必备 | 通过大学修满必修学分获得。强制性要求。 |
+| 小学教学许可证（专业） | 县教育委员会 | 可选 | 完成研究生院后可获得。薪资优势。 |
+| 特殊需求学校教学执照 | 县教育委员会 | 可选 | 分配到特教班时具有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 420,000. Demand is gradually declining due to decreasing child population, but hiring is expected to remain steady through large-scale retirements and increased non-regular employment from work style reforms.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 420,000。由于儿童人口减少，需求逐渐下降，但预计通过大规模退休和工作方式改革带来的非正规就业增加，招聘将保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,69 +39,61 @@ A professional who instructs children as a homeroom teacher in public elementary
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,200,000~$4,000,000 | New graduate recruitment. Varies by region. |
-| Mid-career (10–15 years) | $5,000,000~$6,000,000 | Head teacher level. Fluctuates with overtime pay. |
-| Veteran (20+ years) | $6,500,000~$8,000,000 | Vice principal level. Principals exceed ¥10,000,000. |
+| 初级（0–3年） | $3,200,000~$4,000,000 | 应届毕业生招聘。因地区而异。 |
+| 职业生涯中期（10–15年） | $5,000,000~$6,000,000 | 主任教师级别，随加班费波动。 |
+| 资深从业者（20年以上） | $6,500,000~$8,000,000 | 副校长级别。校长年薪超过1000万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI automation advances in lesson prep, grading, and grade management, but interpersonal skills like student guidance and parent communication are difficult to replace. Teacher numbers decline, but high-quality education is demanded.
+AI 自动化在备课、评分和成绩管理方面取得进展，但人际技能如学生指导和家长沟通难以替代。教师数量下降，但对高质量教育的需求增加。
 
-Career advancement from homeroom teacher to grade head, academic affairs head, vice principal, and principal. Graduate study for specialized licenses or management training is effective for career growth.
+班主任晋升年级主任、教务主任、副校长及校长；攻读研究生获取专业执照或管理培训有助于职业发展
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Test grading tasks
-- Attendance management
-- Document creation for parents
-- Lesson preparation (material search/creation assistance)
+- 测试评分任务
+- 考勤管理
+- 为家长创建文件
+- 备课（资料搜索/创作协助）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-powered individualized learning drills
-- Support for foreign-national children using translation tools
-- Data analysis for learning achievement tracking
+- AI驱动的个性化学习练习
+- 使用翻译工具的外国籍儿童支持
+- 学习成果跟踪数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Instruction that empathizes with each child's heart
-- Building trust with parents
-- Creative lesson design
+- 共情每个孩子内心的教学
+- 与家长建立信任
+- 创意课程设计
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to utilize ICT in instruction
-- Knowledge of special needs education
-- Cross-cultural understanding and foreign language skills
-- Data-driven lesson improvement
+- 在教学中使用ICT的能力
+- 特殊教育知识
+- 跨文化理解和外语技能
+- 数据驱动的课程改进
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in foreign-national children
-- Work style reform for teachers
-- Enhanced special needs education
-- Promotion of ICT education
+- 外籍儿童数量增加
+- 教师的工作方式改革
+- 加强的特殊需求教育
+- ICT教育推广
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when employed as a foreign teacher. Requires Japanese proficiency (around N1) and teaching license compatibility. |
-| Subclass 特定活動（本邦大学卒業者） (Designated Activities (Education)) | For teaching at Japanese language institutions, rarely for elementary school teachers. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based system for education, experience, and income; possible for long-term, high-earning teachers. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -111,25 +101,25 @@ Career advancement from homeroom teacher to grade head, academic affairs head, v
 
 **谁适合**
 - 喜欢儿童并有耐心的人
-- People with strong communication skills
-- People who value teamwork
+- 沟通能力强的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who prefer routine work
-- People who want to avoid overtime or take-home work
+- 偏好例行工作的人
+- 希望避免加班或带回家工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of an elementary school teacher?**
-答：Average annual salary is about 6.8 million yen (public elementary school teachers, 2022 salary data). Starting salary is around 200,000 yen, increasing with years of service; management positions can exceed 10 million yen.
+**问：小学教师的年薪是多少？**
+答：平均年薪约680万日元（公立小学教师，2022年薪资数据）。起薪约20万日元，随工龄增加；管理职位可超过1000万日元。
 
-**问：What visa is required for a foreigner to become an elementary school teacher in Japan?**
-答：Primarily requires 'Engineer/Specialist in Humanities/International Services' visa. Conditions include teaching license and Japanese proficiency (N1 level). Highly Skilled Professional visa also possible via points system.
+**问：外国人在日本成为小学教师需要什么签证？**
+答：主要需要“工程师/人文知识/国际业务”签证。条件包括教学执照和日语能力（N1级）。高度专门职签证也可通过积分制申请。
 
-**问：What is the career path for elementary school teachers?**
-答：Homeroom teacher → Subject head/Grade head → Academic affairs head → Vice principal → Principal. Advantageous to earn a specialized license via graduate school or undergo management training.
+**问：小学教师的职业发展路径是什么？**
+答：班主任 → 学科组长/年级组长 → 教务主任 → 副校长 → 校长。通过研究生院获得专业资格证书或接受管理培训更有利。
 
 
 ---
@@ -147,12 +137,12 @@ Career advancement from homeroom teacher to grade head, academic affairs head, v
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/elementary-school-teacher/JP)**

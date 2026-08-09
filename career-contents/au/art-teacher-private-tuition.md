@@ -51,8 +51,6 @@ Private Art Teacher (ANZSCO 249211) primarily teaches visual arts skills such as
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will compress entry-level sketching/coloring teaching positions while amplifying the teaching effect of senior private tutors through smart drawing tools and personalized learning systems; parts relying on face-to-face guidance and art aesthetic judgment remain stable.
-
 Most practitioners are self-employed or work part-time, with limited career progression. Options include opening a personal studio, undertaking commercial art projects, or transitioning to a formal school teacher (requiring additional teaching qualifications). Some move into art therapy or community arts management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Most practitioners are self-employed or work part-time, with limited career prog
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship required, art teacher positions are limited. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Visas with Lower Score Requirements |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation is on the MLTSSL list and eligible for 189/190/491 visas. Req
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-teacher-private-tuition/AU)**

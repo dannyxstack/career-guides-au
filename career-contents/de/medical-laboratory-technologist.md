@@ -52,8 +52,6 @@ Medical laboratory technicians perform analysis of body fluids, tissues, and oth
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Medical laboratory technicians face moderate automation risk: routine sample analysis is taken over by AI, but complex diagnostics, quality control, and human collaboration enhance job value.
-
 Junior technicians can accumulate experience to become department heads or quality managers. Further study can lead to the title of Medical Laboratory Expert (Fachmedizintechnologe), or transition to R&D, in vitro diagnostics sales and technical support. Some become biomedical scientists through continuing education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can accumulate experience to become department heads or quali
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to skilled workers holding a German-recognized vocational qualification or dual-system training certificate. Must have an employer contract. |
 | Subclass Chancenkarte (Opportunity Card) | Job search residence permit based on a points system, allowing job seeking in Germany with part-time work permitted. Implemented from 2024. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Main pathway is 3-year dual training, alternating between the lab and vocatio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-laboratory-technologist/DE)**

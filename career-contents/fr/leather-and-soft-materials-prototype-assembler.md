@@ -53,8 +53,6 @@ Responsible for handcrafting product prototypes using soft materials such as lea
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Leather and soft material prototype assemblers face a moderate impact from AI automation due to their delicate manual operations and customization, but digital tools can improve efficiency, so caution is needed regarding intensifying competition for entry-level positions.
-
 You can be promoted from junior assembler to senior prototype engineer, process supervisor, or move to roles such as product development or quality control. After gaining experience, you can start your own studio.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted from junior assembler to senior prototype engineer, process 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as process specialists, employer contracts or project certification are required. |
-| Subclass Salarié (Employee Visa) | Employed by a French company requires a work permit, and the employer must prove that suitable candidates cannot be found within the EU. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions, but the salary in this occupation usually falls short (requires an annual salary of ≥ 53,000 euros). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: It is more difficult because it requires a long-term employment contract and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-and-soft-materials-prototype-assembler/FR)**

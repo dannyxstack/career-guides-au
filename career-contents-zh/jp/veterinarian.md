@@ -1,10 +1,8 @@
 # 兽医（Veterinarian）职业分析 · 日本
 
-**职业代码: 123 (JSCO)**
+**职业代码：123 (JSCO)**
 
-Professional engaged in diagnosis, treatment, and prevention of animal diseases. Handles a wide range from small animals to livestock, and involved in public health and food safety.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事动物疾病诊断、治疗和预防的专业人员。处理范围从小动物到家畜，并涉及公共卫生和食品安全。
 
 
 ---
@@ -13,8 +11,8 @@ Professional engaged in diagnosis, treatment, and prevention of animal diseases.
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Veterinary School (6-year program) | 6年 | $2,500,000~$5,000,000（Large difference between national and private universities. Private can exceed 5 million yen annually.） |
-| Passing the National Veterinary Examination | 0年 | $0~$100,000（Exam fee approx. 10,000 yen.） |
+| 兽医学院（6年制） | 6年 | $2,500,000~$5,000,000（国立与私立大学差异大。私立大学年费用可超过500万日元。） |
+| 通过国家兽医考试 | 0年 | $0~$100,000（考试费约10,000日元。） |
 
 ---
 
@@ -22,18 +20,18 @@ Professional engaged in diagnosis, treatment, and prevention of animal diseases.
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Veterinary License | Ministry of Agriculture, Forestry and Fisheries | 必备 | Obtained by registration after passing national exam. Mandatory. |
-| Veterinary Pathology Specialist | Japanese Society of Veterinary Pathology | 可选 | Optional qualification to enhance expertise. |
-| Animal Hospital Management Specialist | Pet Life Design Association | 可选 | Certifies management knowledge. Optional. |
+| 兽医执照 | 农林水产省 | 必备 | 通过全国考试后注册获得，强制性。 |
+| 兽医病理学专家 | 日本兽医病理学会 | 可选 | 提升专业知识的可选资格。 |
+| 动物医院管理专家 | 宠物生活设计协会 | 可选 | 认证管理知识。可选。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 37,000. Demand for veterinarians is steady due to increased pet demand and food safety awareness. However, there is a supply-demand gap between urban and rural areas.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 37,000。宠物需求增长和食品安全意识提高使兽医需求稳定，但城乡供需存在差距。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,123 +39,115 @@ Professional engaged in diagnosis, treatment, and prevention of animal diseases.
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,500,000~$5,000,000 | New graduates earn around 3.5-4 million yen. |
-| Intermediate Level (3-10 years) | $5,000,000~$7,000,000 | Increases with experience and specialization. |
-| Advanced Level (10+ years) | $7,000,000~$12,000,000 | Income range is wide for private practitioners. |
+| 入门级（0-3年） | $3,500,000~$5,000,000 | 应届毕业生年薪约350-400万日元。 |
+| 中级水平（3-10年） | $5,000,000~$7,000,000 | 随着经验和专业化程度增加。 |
+| 高级（10年以上） | $7,000,000~$12,000,000 | 私人诊所从业者收入范围较广。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI streamlines veterinarians' work through diagnostic support and image analysis, but human roles like clinical judgment and surgery remain significant.
+AI通过诊断支持和图像分析简化兽医工作，但临床判断和手术等人类角色仍然重要。
 
-Typically runs a clinic or works at an animal hospital. Career paths include specializing (surgery, ophthalmology, etc.), research, or administrative roles.
+通常经营诊所或在动物医院工作。职业路径包括专科（外科、眼科等）、研究或行政职务。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple diagnostic imaging
-- Medical record entry
-- Vaccination schedule management
+- 简单影像诊断
+- 医疗记录录入
+- 疫苗接种日程管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- X-ray and ultrasound image analysis
-- Treatment plan support
-- Epidemiological data analysis
+- X光和超声图像分析
+- 治疗方案支持
+- 流行病学数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Pair
-- Move
-- Object
-- Child
-- Mi
-- Yu
-- Ni
+- 配对
+- 搬家
+- 对象
+- 儿童
+- 密
+- 余
+- 倪
 - Ke
 - E
-- Shi
-- Jo
+- 士
+- 乔
 - N
 - 、
-- Hand
-- Technique
-- Skills
-- Technique
+- 手
+- 技术
+- 技能
+- 技术
 - , 
-- Animal Care
-- Stomach
-- Main
-- To
-- of
-- theory/explanation
-- Bright
+- 动物护理
+- 胃
+- 主要
+- 至
+- /
+- 理论/解释
+- 光明
 - ・
-- Trust
-- rely
-- Pass
-- person in charge
-- Structure
-- Built
+- 信任
+- 依靠
+- 通过
+- 负责人
+- 结构
+- 内置
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Image Diagnosis Tool Operation
-- Gene Therapy Knowledge
-- Ethology
-- Business Management
+- AI图像诊断工具操作
+- 基因治疗知识
+- 行为生态学
+- 商业管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Pet medical care
-- Animal vaccine development
-- Food safety inspection
-- Wildlife conservation
+- 宠物医疗
+- 动物疫苗开发
+- 食品安全检查
+- 野生动物保护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when a foreigner works as a veterinarian. Requires a university degree or higher. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently, veterinarians are not eligible. Future additions under discussion. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Veterinarians meeting a certain score under the point system may be eligible. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who love animals and are physically confident
-- Those interested in life sciences and eager to keep learning
-- Those who handle pressure well
+- 热爱动物且体能自信
+- 对生命科学感兴趣并渴望不断学习的人
+- 能良好应对压力的人
 
 **谁不适合**
-- Those uncomfortable with blood
-- Those who dislike irregular hours
+- 对血感到不适的人
+- 不喜不规律工时的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a veterinarian?**
-答：New graduates earn about 3.5–4 million yen; with 10 years of experience, 7–12 million yen. Clinic owners may earn more but face business risks.
+**问：兽医的年收入是多少？**
+答：新毕业生约350-400万日元，10年经验者700-1200万日元。诊所所有者可能赚更多但面临业务风险。
 
-**问：How can a foreigner work as a veterinarian in Japan?**
-答：A Japanese veterinarian license is required, and Japanese language ability is also important. The Engineer/Specialist in Humanities/International Services visa is common, but you must meet the educational requirements.
+**问：外国人如何在日本成为兽医？**
+答：需要日本兽医执照，日语能力也重要。常见的是“工程师/人文知识/国际服务”签证，但必须满足学历要求。
 
-**问：What kind of education is needed to become a veterinarian?**
-答：After graduating from a 6-year veterinary program, you must pass the national exam to obtain a license. Tuition varies greatly by university.
+**问：成为兽医需要什么教育？**
+答：完成6年兽医课程后，需通过国家考试获得执照。学费因大学而异。
 
 
 ---
@@ -175,12 +165,12 @@ Typically runs a clinic or works at an animal hospital. Career paths include spe
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/veterinarian/JP)**

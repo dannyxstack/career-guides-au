@@ -54,8 +54,6 @@ Performs comedy, magic, acrobatics and other variety acts on stage, television o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Starts with small clubs or street performances; experience leads to theaters, TV shows, or large events. Experienced individuals can transition to performance directors or art directors, but promotion space is limited.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Starts with small clubs or street performances; experience leads to theaters, TV
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires accumulating performance experience and a portfolio, attendi
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/entertainer-or-variety-artist/NZ)**

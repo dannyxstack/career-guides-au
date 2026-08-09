@@ -53,8 +53,6 @@ Operating or tending to paper product processing machines, such as cutting, corr
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The role of paper products machine operators will be mixed due to AI and automation: repetitive monitoring and simple adjustments are easily automated, but complex fault diagnosis, multi-process coordination, and quality control still require human judgment, shifting the role toward technical maintenance and process optimization.
-
 Start as an operator, gain experience to advance to senior operator, production supervisor, or quality controller; some may move to maintenance technician or production scheduling roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an operator, gain experience to advance to senior operator, production 
 | Subclass H-1B (H-1B Specialty Occupation) | Usually requires bachelor's degree; this role is mostly operational, application difficult |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled/Unskilled)) | In rare cases, application through EB-3 Other Workers (unskilled) is possible, but requires a PERM labor certification. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Employment growth is slow, with high risk of automation replacement, but ther
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-goods-machine-setters-operators-and-tenders/US)**

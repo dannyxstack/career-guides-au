@@ -52,8 +52,6 @@ Radio communication technicians install, maintain, and repair radio communicatio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
-
 Junior technicians can advance to senior technicians or team leaders through experience; some can transition to network planning, project management, or technical support. Obtaining industry certifications (e.g., MITEZ certification) enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior technicians can advance to senior technicians or team leaders through exp
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Yes. This occupation is not on the Green List but is eligible under the Skill
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiocommunications-technician/NZ)**

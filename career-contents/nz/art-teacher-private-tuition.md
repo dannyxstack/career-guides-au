@@ -51,8 +51,6 @@ Private art teachers teach visual arts skills such as drawing, sketching, and oi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact of AI on private art teachers is mixed: AI can assist in generating creative references and grading assignments, but cannot replace one-on-one emotional motivation and personalized guidance. Moreover, this occupation is not on New Zealand's Green List, limiting immigration pathways. Career prospects require actively embracing AI tools and deepening the value of teaching interaction.
-
 Career progression includes opening a personal studio, starting an art school, or transitioning from part-time to full-time. Some teachers may move into community arts management or art therapy. Continuously improving teaching skills and artistic creation supports career development.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression includes opening a personal studio, starting an art school, o
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer, suitable for applicants with employer sponsorship. |
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (qualifications + New Zealand work experience), requiring ANZSCO Level 1-3 positions. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes, but must meet the SMC 6-point system requirements (e.g., bachelor's degr
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-teacher-private-tuition/NZ)**

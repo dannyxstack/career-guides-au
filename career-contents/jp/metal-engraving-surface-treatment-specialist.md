@@ -4,8 +4,6 @@
 
 Professional who applies decorative engraving to metal parts/products or performs surface treatments such as plating/painting. Plays a key role in the final stage of manufacturing, enhancing appearance and functionality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professional who applies decorative engraving to metal parts/products or perform
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Simple painting and plating processes will likely be automated with AI and robots. In mass production lines, robots are already mainstream. On the other hand, engraving of luxury items and special surface treatment require craftsmen's skills and are difficult to fully replace with AI, but these fields are shrinking.
-
 Entry through factory apprenticeship or vocational training. Obtain skill certifications (metal plating/painting) and advance to team leader. Self-employment is possible but workload is declining. Career change to other industries is difficult.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Entry through factory apprenticeship or vocational training. Obtain skill certif
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and specialized knowledge. Typically hired as surface treatment engineers or manufacturing engineers. Not suitable for roles mainly involving simple tasks. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Metal molding, Industrial machinery, Electrical/electronic information-related manufacturing)) | Added to target fields in 2023. Allows work with certain skills and Japanese language ability. However, due to the specialized nature of surface treatment, mainly for plating/coating operators. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Metal molding, Industrial machinery, Electrical/electronic information-related manufacturing)) | Requires higher skills than Type (i). Family accompaniment and long-term stay possible. Possible if skilled expertise is recognized. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Even without experience, you can start as a factory trainee. Learning basics 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-engraving-surface-treatment-specialist/JP)**

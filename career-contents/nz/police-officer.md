@@ -54,8 +54,6 @@ The New Zealand Police is the primary law enforcement agency responsible for mai
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Promotion path: Constable ➡ Senior Constable ➡ Sergeant ➡ Inspector ➡ Superintendent. Can specialize in criminal investigation, traffic, community policing, or move into intelligence, counter-terrorism, etc.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Promotion path: Constable ➡ Senior Constable ➡ Sergeant ➡ Inspector ➡ Su
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: No university degree required, but must complete 18 weeks of paid training at
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officer/NZ)**

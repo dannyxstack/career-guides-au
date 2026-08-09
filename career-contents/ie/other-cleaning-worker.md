@@ -51,8 +51,6 @@ Responsible for cleaning and maintenance of office buildings, shopping malls, ho
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and robotics are gradually replacing repetitive tasks of cleaners, such as automatic floor cleaning and garbage collection, but complex cleaning still requires manual work.
-
 Can advance from cleaner to cleaning supervisor or team leader, or transition to specialized cleaning fields (e.g., carpet cleaning, industrial cleaning) through training.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance from cleaner to cleaning supervisor or team leader, or transition to
 | Subclass General Employment P (General Employment Permit) | Non-occupation in shortage, requires employer sponsorship, annual salary ≥ 30,000 euros. |
 | Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizens) | EU citizens can work freely without a visa. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Non-occupation in shortage, requires General Employment Permit with annual sa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-cleaning-worker/IE)**

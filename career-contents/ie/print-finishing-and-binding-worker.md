@@ -53,8 +53,6 @@ Print binders are responsible for post-processing of printed materials, includin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Print bindery and finishing workers face significant automation compression risk; AI and robots will gradually take over repetitive binding and inspection tasks, reducing entry-level positions, but machine maintenance and special material handling still require humans.
-
 Starting as a basic bookbinder, one can advance to print shop supervisor or quality inspector. Mastering digital printing and automated binding equipment operation skills can broaden career paths. Some practitioners may transition to printing equipment sales or technical representative roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as a basic bookbinder, one can advance to print shop supervisor or qual
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship, annual salary usually no less than €30,000. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-corporate transfer, applicable to employees with overseas affiliated companies. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation is not on the critical skills occupation list, requires appli
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-finishing-and-binding-worker/IE)**

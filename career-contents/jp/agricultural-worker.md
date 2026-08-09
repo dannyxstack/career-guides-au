@@ -51,8 +51,6 @@ Cultivates and harvests rice, vegetables, fruit trees, etc. in fields. Mechaniza
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In agriculture, AI and robots support tasks like harvest timing and automated tractors, combining with human judgment and skilled techniques to boost productivity.
-
 Aim for independent farming or employment at agricultural corporations. Learn smart agriculture tech to boost productivity.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Aim for independent farming or employment at agricultural corporations. Learn sm
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Agriculture)) | Work in agriculture. Expected to accept in 2023. Skills and Japanese language tests required. |
-| Subclass 技能実習 (Technical Intern Training (Agriculture)) | Up to 5 years. Transfer not allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Agricultural Management)) | Management positions at agricultural corporations. University graduate or higher. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Acquire smart agriculture technology and farm management experience. Options 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-worker/JP)**

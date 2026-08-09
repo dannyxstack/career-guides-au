@@ -51,8 +51,6 @@ Operate or adjust grinding machines and related equipment to remove excess mater
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Grinding machine operators face high automation risk, as CNC and robotic systems can precisely perform material removal and polishing; entry-level positions are declining.
-
 Can start as an apprentice or operator, advance to senior operator or setter, then develop into CNC programmer or production supervisor; some move to quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as an apprentice or operator, advance to senior operator or setter, th
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires at least 2 years of training or experience, PERM labor certification process, long priority dates |
 | Subclass TN (TN Status (USMCA)) | Only for Canadian or Mexican citizens, requiring engineer or technician occupational categories; this job is typically not eligible. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. Can advance from operator to setter, CNC programmer, or shift to quality
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grinding-lapping-polishing-and-buffing-machine-tool-setters-operators-and-tenders-metal-and-plastic/US)**

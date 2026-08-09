@@ -51,8 +51,6 @@ Painters have stable demand in New Zealand, responsible for surface coating of r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
-
 Entry-level painters can gain experience and advance to senior technician or foreman, some start their own business. Can also transition to project supervision or building inspection.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level painters can gain experience and advance to senior technician or for
 | Subclass SMC (Skilled Migrant Category) | Painters belong to ANZSCO Skill Level 3; need to meet the 6-point system (work experience etc.), have employer sponsorship, and salary reaching the median |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Painters are not currently on the Green List but may be added in the future |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires New Zealand National Certificate in Construction (Painting and Decor
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-decorator/NZ)**

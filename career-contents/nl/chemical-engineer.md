@@ -52,8 +52,6 @@ Chemical engineers in the Netherlands are primarily involved in process design, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For chemical engineers, AI will compress routine process optimization and monitoring roles but amplify their value in complex process simulation, safety analysis, and interdisciplinary innovation, presenting a mix of risks and opportunities.
-
 Start as a process engineer, advance to senior engineer, project manager, or technical director. Cross-disciplinary experience can lead to consulting or R&D management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Start as a process engineer, advance to senior engineer, project manager, or tec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled talents with a contract with an approved employer, the annual salary must meet the threshold (approximately EUR 5,008/month in 2024, over 30 years old). |
-| Subclass EU Blue Card (EU Blue Card) | Requires a university degree and at least 1 year work contract, with a salary threshold of approximately €5,500/month (2024), and allows family accompaniment. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply, 1-year job search period, can switch to work visa after finding a job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Demand is stable, especially in the chemical, pharmaceutical, and energy sect
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer/NL)**

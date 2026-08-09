@@ -52,8 +52,6 @@ Responsible for overseeing daily operations of aquaculture farms, including repr
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
-
 Junior aquaculture workers can advance to supervisor, then farm manager or regional operations manager; they can also transition to technical advisor or water quality management specialist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior aquaculture workers can advance to supervisor, then farm manager or regio
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency visa, requiring state government invitation (usually with regional restrictions). |
 | Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa, transitioning to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Growing demand for seafood in Australia drives industry expansion, especially
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-supervisor/AU)**

@@ -53,8 +53,6 @@ Engages in cleaning, cutting, packaging, freezing and other processing work for 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fish and seafood processing workers face significant risk of automation; repetitive cutting, sorting, and packing tasks will gradually be taken over by machines, with entry-level positions expected to decline continuously.
-
 Entry-level positions with limited promotion paths, can advance to processing line supervisor or quality inspector. Some workers move into aquaculture or fisheries management through experience. Relies on experience or internal training for advancement.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level positions with limited promotion paths, can advance to processing li
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Very limited. Usually only temporary work via LMIA work permits; a few provin
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fish-and-seafood-plant-workers-94142/CA)**

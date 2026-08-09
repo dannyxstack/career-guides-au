@@ -51,8 +51,6 @@ Human Resource Managers and Directors plan, organize, and direct an organization
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-HR Managers face mixed impacts from AI: tasks like recruitment screening and payroll calculations are automated away, but strategic decision-making, employee relations, and compliance responsibilities are amplified, requiring a shift to tech-savvy HR leadership.
-
 Usually start as HR specialists or assistants, gain experience and advance to HR managers, and ultimately become HR directors or chief HR officers. May also transition to specialized areas like organizational development or talent management.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as HR specialists or assistants, gain experience and advance to HR
 | Subclass Graduate (Graduate visa) | UK graduates (bachelor's or higher) can apply, allowing 2 years of work in the UK (3 years for PhD), and may transition to Skilled Worker after gaining HR experience. |
 | Subclass Scale-up (Scale-up visa) | Suitable for securing HR roles in eligible high-growth companies, applicants must meet skills and salary requirements, and the company must have grown staff or revenue by at least 20% in 3 years. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically start as a human resources specialist (e.g., recruitment, training)
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resource-managers-and-directors/UK)**

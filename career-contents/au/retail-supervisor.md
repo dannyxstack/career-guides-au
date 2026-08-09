@@ -52,8 +52,6 @@ Retail supervisors lead sales teams and are responsible for rostering, stock man
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
-
 Can progress to store manager or area manager roles.
 
 **Tasks most exposed to AI:**
@@ -98,9 +96,7 @@ Can progress to store manager or area manager roles.
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -140,12 +136,13 @@ A: No, this is a non-skilled migration occupation.
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-supervisor/AU)**

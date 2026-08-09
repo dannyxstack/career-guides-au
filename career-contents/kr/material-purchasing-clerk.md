@@ -4,8 +4,6 @@
 
 A material/purchasing clerk is an office professional who procures raw materials, parts, and equipment needed for corporate production at the right time and price, and manages inventory.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A material/purchasing clerk is an office professional who procures raw materials
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation systems will replace simple tasks like ordering and inventory management, reducing demand for purchasing clerks and shifting toward high-value work like strategic sourcing and supplier management.
-
 Most start in purchasing teams at large/mid-sized companies, and after obtaining certifications (logistics manager, purchasing certificate), advance from purchasing associate to manager, deputy manager, or grow into a specialist buyer.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Most start in purchasing teams at large/mid-sized companies, and after obtaining
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment possible as a skilled procurement specialist, but office assistant roles are difficult |
-| Subclass F-2 (Residence) | Free employment possible after obtaining permanent residency |
-| Subclass D-10 (Job Seeking) | Possible to convert to E-7 after employment with job-seeking visa |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Logistics manager, distribution manager, CPIM, etc. are advantageous; larger 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/material-purchasing-clerk/KR)**

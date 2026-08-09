@@ -53,8 +53,6 @@ Responsible for planning, coordinating, and executing various meetings, exhibiti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
-
 Can progress from event coordinator to senior planner, event manager, or move into specialised areas such as sports events and wedding planning.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from event coordinator to senior planner, event manager, or move in
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not usually applicable for meeting planners unless annual salary exceeds 60,000 euros. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with salary ≥1.5 times national average; conference planners typically do not qualify. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a general work permit, an annual salary threshold of 30,000 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conference-and-event-planner/IE)**

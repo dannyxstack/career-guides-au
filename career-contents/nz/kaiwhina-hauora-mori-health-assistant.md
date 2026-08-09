@@ -54,8 +54,6 @@ Māori health assistants in New Zealand provide culturally safe health support f
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of Māori health assistants heavily relies on cultural competency and interpersonal trust; AI is unlikely to replace core functions but can significantly enhance administrative coordination, health education, and data tracking, enabling practitioners to focus on high-value services.
-
 Career development can follow two directions: clinical support or community health management. With experience, you can advance to senior health assistant, coordinator, or move into health promotion and policy. Registration with Te Ahukaramū Royal or similar bodies can enhance professional standing.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career development can follow two directions: clinical support or community heal
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: In the North Island, particularly Auckland, Waikato, Bay of Plenty, and North
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kaiwhina-hauora-mori-health-assistant/NZ)**

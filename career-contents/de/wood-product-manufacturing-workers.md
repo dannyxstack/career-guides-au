@@ -52,8 +52,6 @@ This occupation involves producing finished products such as furniture, doors, w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
-
 Career progression starts from entry-level production worker, advancing to team leader, production supervisor, or through further training to become a wood technician (Meister) or technician (Techniker), or transitioning to quality control or production planning.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression starts from entry-level production worker, advancing to team 
 | Subclass EU Blue Card (EU Blue Card) | if the annual salary reaches the threshold (approx. €43,800 in 2024), you can apply for the Blue Card, but the carpentry industry typically has lower salaries, making it difficult to achieve. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers who have not yet found a job to come to Germany to look for work, suitable for those lacking skills but with potential. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to production team leader, supervisor, or become a master carpent
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-product-manufacturing-workers/DE)**

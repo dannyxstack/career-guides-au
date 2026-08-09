@@ -52,8 +52,6 @@ Teach atmospheric, earth, ocean, and space science courses at universities or co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Common path: lecturer → assistant professor → associate professor → full professor. Requires research publications; career stability after achieving tenure.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Common path: lecturer → assistant professor → associate professor → full p
 | Subclass EB-2 (EB-2 Advanced Degree) | PhD can apply for EB-2 employment-based green card, requires PERM or National Interest Waiver (NIW). |
 | Subclass Green Card (PERM) (EB-2/EB-3 PERM) | University applies for PERM labor certification for tenured professors; process is lengthy |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Highly competitive, especially for positions at prestigious universities. Req
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/atmospheric-earth-marine-and-space-sciences-teachers-postsecondary/US)**

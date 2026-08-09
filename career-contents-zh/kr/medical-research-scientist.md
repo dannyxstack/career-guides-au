@@ -1,10 +1,8 @@
-# Medical Research Scientist 职业分析 · 韩国
+# 医学研究科学家（Medical Research Scientist）职业分析 · 韩国
 
-**职业代码: 12211 (KECO)**
+**职业代码：12211 (KECO)**
 
-Medical research scientists conduct basic and clinical research to investigate the causes, diagnosis, and treatment development of diseases.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+医学研究科学家进行基础和临床研究，探究疾病的病因、诊断和治疗方法开发。
 
 
 ---
@@ -13,8 +11,8 @@ Medical research scientists conduct basic and clinical research to investigate t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 硕士学位 | 2 年 | $20,000,000~$40,000,000（Tuition (national university standard)） |
-| 博士 | 3-4年 | $30,000,000~$60,000,000（Tuition (national university standard)） |
+| 硕士学位 | 2 年 | $20,000,000~$40,000,000（学费（国立大学标准）） |
+| 博士 | 3-4年 | $30,000,000~$60,000,000（学费（国立大学标准）） |
 
 ---
 
@@ -22,17 +20,17 @@ Medical research scientists conduct basic and clinical research to investigate t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Clinical Trial Personnel Training Course Completion | Korea National Enterprise for Clinical Trials | 可选 | Preferred but not required |
-| Research Notebook Writing Training | National Research Foundation of Korea | 可选 | Required by some institutions |
+| 临床试验人员培训课程完成证书 | 韩国临床试验企业 | 可选 | 优先考虑但非必需 |
+| 研究笔记本写作培训 | National Research Foundation of Korea | 可选 | 部分机构要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. In Korea, due to an aging population and growth in the pharmaceutical and biotech industries, demand for medical research is steadily increasing, leading to favorable employment prospects.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。在韩国，由于人口老龄化和制药、生物技术行业的增长，医学研究需求稳步增加，就业前景良好。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,96 +38,88 @@ Medical research scientists conduct basic and clinical research to investigate t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$50,000,000 | Institute/university standard |
-| Mid-level (4-9 years) | $50,000,000~$75,000,000 | Senior researcher level |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Principal researcher or above |
+| 入门级（0-3年） | $35,000,000~$50,000,000 | 学院/大学标准 |
+| 中级（4-9年） | $50,000,000~$75,000,000 | 高级研究员级别 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 主任研究员及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates some tasks like data analysis and drug screening, but creative and judgmental tasks such as hypothesis generation and experimental design remain uniquely human, making it more of a complement than a job transformation.
+AI可以自动化数据分析、药物筛选等任务，但假设提出和实验设计等需要创造力和判断力的工作仍由人类主导，这使其更多是作为补充而非职业转型。
 
-Career progression: start as a researcher after a master's, advance to senior researcher with a PhD, then principal researcher; opportunities exist at universities, hospitals, pharmaceutical companies, and national research institutes.
+职业发展：硕士毕业后从研究员起步，博士晋升为高级研究员，然后成为首席研究员；机会存在于大学、医院、制药公司和国家研究机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Statistical Analysis
-- Literature Search and Summarization
-- Primary Data Organization
+- 基础统计分析
+- 文献检索与总结
+- 初级数据组织
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Biomarker Discovery
-- Drug Candidate Screening
-- Genomic Data Analysis
-- Clinical Trial Design Optimization
+- 生物标志物发现
+- 药物候选筛选
+- 基因组数据分析
+- 临床试验设计优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Experimental Design and Hypothesis Formulation
-- Medical Interpretation of Results
-- Ethical Judgment
-- Multidisciplinary Collaboration
+- 实验设计与假设制定
+- 医疗结果解读
+- 道德判断
+- 多学科协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/Machine Learning Basics
+- AI/机器学习基础
 - 生物信息学
-- R/Python Programming
-- Data Visualization
+- R/Python编程
+- 数据可视化
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Biotechnology
-- New Drug Development
-- Precision Medicine
+- 生物技术
+- 新药研发
+- 精准医学
 - 数字健康
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon recommendation from a research institution; for skilled and professional workers |
-| Subclass D-10 (Job seeking) | Research Job Visa for Doctoral/Master's Degree Holders |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system, allows long-term stay and free activities |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong scientific curiosity
-- Meticulous and patient people
-- People who value teamwork
+- 具有强烈科学好奇心的人
+- 细心且有耐心的人
+- 重视团队合作的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who want immediate results
+- 追求立竿见影效果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a medical researcher?**
-答：For entry-level, the annual salary is around 35 to 50 million KRW, varying by institution and degree.
+**问：医学研究员的起薪是多少？**
+答：入门级年薪约3500万至5000万韩元，因机构和学历而异。
 
-**问：What visa does a foreigner need to work as a medical researcher?**
-答：The E-7 (Specific Activities) visa is common, requiring institutional recommendation and meeting degree/experience requirements.
+**问：外国人作为医学研究员工作需要什么签证？**
+答：E-7（特定活动）签证较为常见，需机构推荐并满足学历/经验要求。
 
-**问：Is a doctoral degree mandatory to become a medical researcher?**
-答：A master's degree is possible, but a doctoral degree is advantageous for promotion and research opportunities.
+**问：成为医学研究员必须拥有博士学位吗？**
+答：硕士学位可能，但博士学位对晋升和研究机会有利。
 
 
 ---
@@ -147,12 +137,12 @@ Career progression: start as a researcher after a master's, advance to senior re
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/medical-research-scientist/KR)**

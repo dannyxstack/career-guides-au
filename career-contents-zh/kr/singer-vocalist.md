@@ -1,10 +1,8 @@
-# Singer (Vocalist) 职业分析 · 韩国
+# 歌手（声乐家）（Singer (Vocalist)）职业分析 · 韩国
 
-**职业代码: 41462 (KECO)**
+**职业代码：41462 (KECO)**
 
-Performer specializing in opera, art songs, and musicals; core skills are vocal technique and stage experience.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+擅长歌剧、艺术歌曲和音乐剧的表演者；核心技能是声乐技巧和舞台经验。
 
 
 ---
@@ -13,8 +11,8 @@ Performer specializing in opera, art songs, and musicals; core skills are vocal 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Music | 4年 | $40,000,000~$80,000,000（Tuition and private lesson fees at private universities） |
-| Advanced training (graduate school, opera studio) | 2 年 | $20,000,000~$50,000,000（Domestic or international opera academy or master's program） |
+| 音乐学士 | 4年 | $40,000,000~$80,000,000（私立大学的学费和私人课程费用） |
+| 高级培训（研究生院、歌剧工作室） | 2 年 | $20,000,000~$50,000,000（国内或国际歌剧院或硕士课程） |
 
 ---
 
@@ -22,16 +20,16 @@ Performer specializing in opera, art songs, and musicals; core skills are vocal 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Degree in vocal music (Bachelor's or higher) | 大学 | 可选 | Basic requirement proving major |
+| 声乐学位（学士及以上） | 大学 | 可选 | 证明专业的基本要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 1,200. The Korean classical and musical market is limited, with few stars dominating; recession and intense competition make prospects dim.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 1,200。韩国古典和音乐市场规模有限，少数明星主导；经济衰退和激烈竞争使前景黯淡。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,84 +37,76 @@ Performer specializing in opera, art songs, and musicals; core skills are vocal 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $12,000,000~$25,000,000 | Freelance minor roles, choir member; per-project income |
-| Intermediate (4–9 years) | $25,000,000~$50,000,000 | Full-time soloist at regional opera company or musical ensemble |
-| Advanced (10+ years) | $50,000,000~$99,999,999 | Lead role at national theater, lead in famous musicals |
+| Beginner (0–3 years) | $12,000,000~$25,000,000 | 自由职业小角色、合唱团成员；按项目收入 |
+| 中级（4-9年） | $25,000,000~$50,000,000 | 地区歌剧团或音乐合奏团的专职独奏者 |
+| 高级（10年以上） | $50,000,000~$99,999,999 | 在国家剧院担任主角，参与著名音乐剧的主演 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot directly replace vocal performance, but simple stages like choral or tourism performances may be reduced by AI vocal synthesizers and recording technology.
+AI不能直接取代声乐表演，但合唱或旅游表演等简单舞台可能因AI语音合成器和录音技术而减少。
 
-After domestic music college graduation, join opera or musical troupes via study abroad and auditions; only a few enter national opera or overseas stages.
+国内音乐学院毕业后，通过出国留学和面试加入歌剧或音乐剧团；只有少数人进入国家歌剧院或海外舞台。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple vocal parts in large choirs
-- Recorded vocals for tourist attraction background music
+- 大型合唱团中的简单声部
+- 录制旅游景点背景音乐中的人声
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personal practice and recording via AI accompaniment and sound optimization
-- Education through real-time pitch and vocal feedback
+- 通过AI伴奏和声音优化进行个人练习与录音
+- 通过实时投球和声音反馈进行教育
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotion delivery and stage charisma
-- Real-time interaction with the audience
-- Originality and artistic interpretation
+- 情感传递与舞台魅力
+- 与观众实时互动
+- 原创性与艺术诠释
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital recording and editing skills
-- Performance planning and fundraising abilities
-- Multimedia content production
-- Foreign language skills and audition networking
+- 数字录音与编辑技能
+- 绩效规划和筹款能力
+- 多媒体内容制作
+- 外语技能与试镜人脉
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if invited as performing arts professional, but issuance records are rare |
-| Subclass D-2 (D-2 (Study Abroad)) | Enter as music college student, then pursue auditions |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence poses few restrictions on activities after settlement |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with musical talent and a passion for the stage
-- Freelancer-oriented with resilience and free-spiritedness
+- 有音乐天赋和对舞台热情的人
+- 面向自由职业者，具备韧性和自由精神
 
 **谁不适合**
-- Those who want stable income
-- Those who prefer practicing alone over socializing
+- 想要稳定收入的人
+- 偏好独处而非社交的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for vocalists?**
-答：Entry-level is very low at about KRW 12~25 million, and even for professional soloists it averages around KRW 30~50 million.
+**问：声乐家的平均薪资是多少？**
+答：入门级非常低，约1200-2500万韩元，即使是专业独奏者也平均约3000-5000万韩元。
 
-**问：What visa do foreign vocalists need to work in Korea?**
-答：An E-7 (Specific Activities) visa is required, but issuance is very strict and opportunities are rare; switching after studying on a D-2 visa is common.
+**问：外国歌手在韩国工作需要什么签证？**
+答：需要E-7（特定活动）签证，但发放非常严格，机会稀少；通常持有D-2签证学习后转换。
 
-**问：How competitive is the vocal field?**
-答：Competition is very intense as performance jobs are extremely scarce compared to graduates from vocal music departments.
+**问：声乐领域的竞争程度如何？**
+答：由于表演类岗位极其稀缺，而声乐系毕业生众多，竞争非常激烈。
 
 
 ---
@@ -134,12 +124,12 @@ After domestic music college graduation, join opera or musical troupes via study
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/singer-vocalist/KR)**

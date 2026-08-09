@@ -50,8 +50,6 @@ Processes raw materials, cooks, packages, and inspects quality at food factories
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Automation through AI and robots progresses in some processes, but tasks requiring human judgment like food quality inspection and adjustment remain. Overall direction is complementation/efficiency.
-
 Promotable from beginner to team leader/line leader. Career advancement via HACCP certification and multi-skilling. Paths to factory manager or quality control department.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Promotable from beginner to team leader/line leader. Career advancement via HACC
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Food Manufacturing)) | Work up to 5 years in labor-shortage fields. Japanese N4 or higher standard. |
-| Subclass 技能実習 (Technical Intern Training (Food Manufacturing)) | Up to 5 years, with return requirement. Transfer to Specified Skilled Worker possible. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Food Manufacturing Engineer)) | For university graduates. Professional roles like product development, quality control. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: Obtaining HACCP manager or food sanitation manager certifications and gaining
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-manufacturing-worker/JP)**

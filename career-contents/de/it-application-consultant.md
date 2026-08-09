@@ -52,8 +52,6 @@ IT application consultants analyze business processes, design and implement IT s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Can advance to senior consultant, project manager, or solutions architect. With experience, may become self-employed or move to management consulting, with salary significantly increasing with project complexity.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior consultant, project manager, or solutions architect. With 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a qualification recognized in Germany or equivalent, and apply with a job contract. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job seeker visa based on points, allowing one year to find work in Germany, suitable for highly qualified individuals. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Generally no mandatory certification required, but relevant qualifications (e
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-application-consultant/DE)**

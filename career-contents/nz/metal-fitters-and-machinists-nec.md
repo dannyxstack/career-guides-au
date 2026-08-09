@@ -52,8 +52,6 @@ This occupation is on New Zealand's Long Term Skill Shortage List, mainly respon
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Traditional metalworking tasks face automation risks, but AI enhances precision programming and complex repair skills, making the occupation a mixed bag overall.
-
 Junior mechanics can advance to senior mechanics or foremen, then develop into workshop supervisors or technical experts. Some choose to start their own machining workshops or move into engineering consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior mechanics can advance to senior mechanics or foremen, then develop into w
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting the 6-point system (e.g., qualifications + work experience + New Zealand job offer) is required to apply. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa allows accumulating experience during visa period to apply for permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires completing a 4-year apprenticeship and obtaining a Certifica
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fitters-and-machinists-nec/NZ)**

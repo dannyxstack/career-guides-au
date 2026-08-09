@@ -52,8 +52,6 @@ A Regional Education Manager oversees the operations of educational institutions
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Career progression paths typically start from education institution manager or principal, then advance to regional director or senior education department official after gaining experience. Alternatively, they can move into education consulting or policy-making roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression paths typically start from education institution manager or p
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After 2 years in the occupation, can apply for residency, requiring salary at 1.5 times the median wage. |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsorship by accredited employer, up to 3 years, can transition to other migration pathways |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in education or a related field; a mas
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/regional-education-manager/NZ)**

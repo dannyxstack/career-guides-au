@@ -54,8 +54,6 @@ Responsible for laying, inspecting, repairing, and maintaining railway tracks to
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Rail track and maintenance workers face automation (automatic inspection robots, intelligent diagnostic systems) compressing some tasks, but AI enhances detection accuracy and predictive maintenance, and high-risk regulatory environments ensure human irreplaceability, resulting in a mixed outlook.
-
 Can Progress from General Worker to Track Supervisor or Equipment Operator by Gaining Experience and Relevant Certifications. Some Workers May Transition to Railway Construction Management or Training Roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can Progress from General Worker to Track Supervisor or Equipment Operator by Ga
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Typically only requires a high school diploma, with employers providing on-th
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-yard-and-track-maintenance-workers/CA)**

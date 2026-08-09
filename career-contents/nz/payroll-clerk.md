@@ -55,8 +55,6 @@ Payroll clerks handle salary calculations, attendance management, tax compliance
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
-
 From entry-level payroll clerk to senior payroll specialist, payroll manager, or SAP/HRIS system administrator. With experience, can move to HR, financial analysis, or compensation benefits consulting. NZPPA or CPA certification aids development. Due to increased digitalization, payroll process optimization and data analysis skills are key for advancement.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ From entry-level payroll clerk to senior payroll specialist, payroll manager, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Generally not. Payroll clerks are ANZSCO Skill Level 4, not eligible for the 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-clerk/NZ)**

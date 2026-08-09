@@ -4,8 +4,6 @@
 
 Inspect passenger tickets, collect fees on land transportation such as buses, trains, and subways, and ensure ticketing compliance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Inspect passenger tickets, collect fees on land transportation such as buses, tr
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-Core tasks in this profession (paper invoice inspection, cash collection) are easily replaced by automation, significantly reducing job openings, with only a small number retained in regulatory and emergency scenarios in the future.
 
 Junior ticket inspectors can be promoted through experience to team leader or operations coordinator. Some have shifted to customer service or security management roles.
 
@@ -99,15 +95,9 @@ Junior ticket inspectors can be promoted through experience to team leader or op
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employees) | An employer must provide a work contract, but the position is not highly skilled and is generally not subject to immigration policy preferences. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +138,12 @@ A: Opportunities are limited, positions require familiarity with the local langu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ticket-inspector-and-fare-collector/ES)**

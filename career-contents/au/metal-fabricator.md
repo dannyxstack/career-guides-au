@@ -53,8 +53,6 @@ Metal fabricators manufacture, assemble, and install steel structures and metal 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Metal fabricators face task restructuring due to AI and automation: simple cutting, welding path planning may be replaced by machines, but complex assembly, on-site installation, and problem-solving skills are enhanced by AI-assisted tools (e.g., smart measurement, AR guidance), balancing risks and opportunities.
-
 After completing apprenticeship, you can advance to senior technician, supervisor, or shift to project management and quality control roles through experience. You can also become self-employed by starting a processing workshop.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After completing apprenticeship, you can advance to senior technician, superviso
 | Subclass 189 (Skilled Independent Visa) | Permanent residence visa through skilled independent migration, must be on the MLTSSL list. |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, can progress from tradesperson to supervisor, project manager, or specia
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fabricator/AU)**

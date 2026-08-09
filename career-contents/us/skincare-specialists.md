@@ -54,8 +54,6 @@ Providing facial and body skincare treatments, including hair removal, chemical 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
-
 Starting as a junior esthetician, accumulate experience to advance to senior specialist, store manager, or trainer, or open a personal studio or transition to medical aesthetics consultant.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Starting as a junior esthetician, accumulate experience to advance to senior spe
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Typically requires completing a state-approved cosmetology school program (6-
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skincare-specialists/US)**

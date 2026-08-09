@@ -53,8 +53,6 @@ Lay fibreglass layers on moulds to manufacture boat decks, hulls, golf cart bodi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Fibreglass laminators face high automation risk; AI and robots will take over many repetitive layup and cutting tasks, significantly reducing entry-level roles, but manual finishing and on-site troubleshooting still require humans.
-
 Can progress from assistant to senior laminator, foreman, or quality inspector, then further to composite technician or production supervisor.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from assistant to senior laminator, foreman, or quality inspector, 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost no skilled migration pathways. H-1B typically requires a bachelor's de
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fiberglass-laminators-and-fabricators/US)**

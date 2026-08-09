@@ -52,8 +52,6 @@ Rubber factory workers operate machines to produce rubber products such as tires
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Rubber factory workers are highly impacted by AI and automation. Repetitive operations and monitoring tasks will be replaced by machine vision and sensors, drastically reducing entry-level positions, but equipment maintenance and anomaly handling still require human input.
-
 Workers can advance to senior operator, production supervisor, or quality inspector. Some experienced workers can transition to tire retreading or plastic processing industries. Requires experience accumulation and possibly short-term certificates.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Workers can advance to senior operator, production supervisor, or quality inspec
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost impossible; this occupation is not on the skilled migration occupation
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-factory-worker/AU)**

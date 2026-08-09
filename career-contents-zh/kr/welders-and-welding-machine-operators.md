@@ -1,10 +1,8 @@
-# Welders and Welding Machine Operators 职业分析 · 韩国
+# 焊工与焊接机器操作员（Welders and Welding Machine Operators）职业分析 · 韩国
 
-**职业代码: 82411 (KECO)**
+**职业代码：82411 (KECO)**
 
-This occupation involves joining or cutting metal materials through welding or operating automatic welding machines, playing a key role in manufacturing sectors such as shipbuilding, automotive, and construction.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业通过焊接或操作自动焊接机连接或切割金属材料，在造船、汽车和建筑等制造业中发挥关键作用。
 
 
 ---
@@ -13,9 +11,9 @@ This occupation involves joining or cutting metal materials through welding or o
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school (specialized or meister high school welding programs) | 3年 | $0~$3,000,000（Free at public schools; tuition fees apply at private schools） |
-| College (Welding Engineering) | 2 年 | $6,000,000~$12,000,000（Tuition varies (national/public vs. private)） |
-| Vocational training (Polytechnic, Tomorrow Learning Card) | 6 months | $0~$500,000（Free with government funding; low cost for self-pay） |
+| 高中（专业或大师高中焊接课程） | 3年 | $0~$3,000,000（公立学校免费；私立学校需缴学费） |
+| 学院（焊接工程） | 2 年 | $6,000,000~$12,000,000（学费因学校类型（国立/公立 vs. 私立）而异） |
+| 职业培训（理工学院、明日学习卡） | 6个月 | $0~$500,000（政府资助免费；自费低成本） |
 
 ---
 
@@ -23,19 +21,19 @@ This occupation involves joining or cutting metal materials through welding or o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Welding Technician (General/Special) | Human Resources Development Service of Korea | 可选 | Not mandatory but preferred for employment |
-| Welding Industrial Engineer | Human Resources Development Service of Korea | 可选 | Recommended for intermediate to advanced technicians |
-| Welding Engineer | Human Resources Development Service of Korea | 可选 | Favorable for management and supervisory roles |
-| International Welding Engineer (IWE/IWT) | 国际焊接学会 (IIW) | 可选 | Required for large plants and overseas projects |
+| 焊接技术员（通用/专业） | 韩国人力资源开发服务局 | 可选 | 非强制但就业时优先 |
+| 焊接工业工程师 | 韩国人力资源开发服务局 | 可选 | 推荐给中高级技术人员 |
+| 焊接工程师 | 韩国人力资源开发服务局 | 可选 | 对管理和监督职位有利 |
+| 国际焊接工程师（IWE/IWT） | 国际焊接学会 (IIW) | 可选 | 大型工厂和海外项目所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 155,000. While sensitive to economic fluctuations in shipbuilding and construction, skilled welders remain in steady demand, and workforce shortages are expected to worsen due to an aging population.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 155,000。虽然对造船和建筑行业的经济波动敏感，但熟练焊工的需求稳定，且因人口老龄化，劳动力短缺预计将加剧。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -43,95 +41,86 @@ This occupation involves joining or cutting metal materials through welding or o
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 yrs) | $28,000,000~$35,000,000 | Based on starting salary, varies by company size |
-| Mid-level (4-9 yrs) | $38,000,000~$50,000,000 | Increases with certifications and skill level |
-| Senior-level (10+ yrs) | $50,000,000~$75,000,000 | Includes specialized welding and management roles |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于起薪，因公司规模而异 |
+| 中级（4-9年） | $38,000,000~$50,000,000 | 随认证和技能水平提高而增加 |
+| 高级（10年以上） | $50,000,000~$75,000,000 | 包括专业焊接与管理岗位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-In the welding field, the adoption of automated welding robots is increasing, but complex shapes and site-specific welding still require human skill, making full replacement by AI difficult.
+在焊接领域，自动焊接机器人的应用正在增加，但复杂形状和现场焊接仍需人工技能，AI难以完全替代。
 
-Starting as entry-level welders, workers can advance by obtaining advanced certifications (e.g., Special Welding Technician), move up to field supervisors or technical superintendents, and enhance competitiveness through training in automation technology.
+从入门级焊工开始，工人可以通过获得高级认证（如特殊焊接技师）晋升为现场主管或技术总监，并通过自动化技术培训提升竞争力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive MIG welding
-- General structure CO₂ welding
-- Simple operation of automatic welding machines
+- 简单的重复性MIG焊接
+- 一般结构二氧化碳焊接
+- 自动焊接机的简单操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Welding robot path planning
-- Real-time welding quality monitoring
-- AI-based welding condition optimization
+- 焊接机器人路径规划
+- 实时焊接质量监测
+- 基于人工智能的焊接条件优化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptive complex welding
+- 现场适应性复杂焊接
 - Fine Adjustment Based on Sight and Touch
-- Safety and Quality Judgment Skills
+- 安全与质量判断技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Welding Robot Programming
-- Special Welding (TIG/Plasma)
-- Non-Destructive Testing (NDT)
-- 3D Modeling and Welding Simulation
+- 焊接机器人编程
+- 特殊焊接（TIG/等离子）
+- 无损检测（NDT）
+- 3D建模与焊接模拟
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shipbuilding
-- Automotive manufacturing
-- Construction sites
-- Plant facilities
+- 造船业
+- 汽车制造业
+- 建筑工地
+- 工厂设施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled workers, requires welding experience and certifications |
-| Subclass E-9 (Non-professional Employment) | For welders in manufacturing and construction, under Employment Permit System |
-| Subclass F-2 (Residence) | Long-term residents, convertible to points-based system |
-| Subclass F-4 (Overseas Korean) | Open to overseas Korean welders |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with excellent fine manual dexterity and concentration
-- Someone physically strong on site
-- Someone who strictly follows safety rules
+- 具备出色的精细手部灵活性和专注力的人
+- 现场体力强壮的人
+- 严格遵守安全规则的人
 
 **谁不适合**
-- Someone who easily gets bored with simple repetitive tasks
-- Someone sensitive to smoking and harmful environments
+- 容易对简单重复性任务感到厌倦的人
+- 对吸烟和有害环境敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a welder?**
-答：For entry-level, about 28-35 million KRW; senior welders with 10+ years of experience can earn 50-75 million KRW.
+**问：焊工的平均年薪是多少？**
+答：入门级约2800-3500万韩元；10年以上经验的高级焊工可赚5000-7500万韩元。
 
-**问：What visa does a foreigner need to work as a welder?**
-答：E-9 (Non-professional Employment) or E-7 (Specific Activities) visas are common, with issuance criteria varying by skill level and certifications.
+**问：外国人需要什么签证才能当焊工？**
+答：E-9（非专业就业）或E-7（特定活动）签证常见，发放标准因技能水平和认证而异。
 
-**问：Are welding-related certifications mandatory?**
-答：Legally not mandatory, but recommended to obtain a Welding Technician or Industrial Engineer certificate to enhance employment and wage negotiation.
+**问：焊接相关认证是强制性的吗？**
+答：法律上非强制，但建议获得焊接技师或工业工程师证书，以增强就业和工资谈判能力。
 
 
 ---
@@ -149,12 +138,12 @@ Starting as entry-level welders, workers can advance by obtaining advanced certi
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/welders-and-welding-machine-operators/KR)**

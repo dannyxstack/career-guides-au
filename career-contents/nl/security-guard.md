@@ -51,8 +51,6 @@ Responsible for protecting property and personnel safety, monitoring alarm syste
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Junior security guards can advance through experience to roles such as monitoring center operator, supervisor, or security consultant. Some may further obtain advanced security certifications and enter risk management or corporate security fields.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Junior security guards can advance through experience to roles such as monitorin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU highly skilled talents, requiring annual salary threshold (approx. €5,331/month in 2025); security guards usually do not qualify unless in management roles. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled employees working for an approved sponsor; security guards usually do not meet the income threshold (for those aged 30+ in 2025, it is €5,690/month). |
-| Subclass Single Permit (Single Permit (GVVA)) | Applies to non-EU low- or medium-skilled workers requiring employer sponsorship; security guards can apply via this pathway but must meet labor market testing. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -145,12 +136,12 @@ A: Yes, but requires employer sponsorship. Usually applied through a single perm
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guard/NL)**

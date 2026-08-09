@@ -4,8 +4,6 @@
 
 A professional who designs the visual aspects and user experience of websites and mobile apps, handling UI/UX design.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who designs the visual aspects and user experience of websites an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI design tools (Figma AI, Adobe Firefly, etc.) replace simple design tasks, but user research and strategic UX design still require human roles.
-
 Starting as a junior designer, career can progress to senior designer, UI/UX director, or freelancer.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Starting as a junior designer, career can progress to senior designer, UI/UX dir
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for professional designer jobs; requires employer recommendation |
-| Subclass D-10 (Job Seeking) | Possible after graduation and job hunting in design major |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Demand exists due to the expansion of the digital environment, but competitio
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer/KR)**

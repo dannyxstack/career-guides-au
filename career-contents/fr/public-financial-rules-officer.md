@@ -4,8 +4,6 @@
 
 Responsible for supervising and enforcing public finance laws and regulations, ensuring compliance in the use of public funds, participating in budget preparation, financial audits, and fiscal policy implementation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for supervising and enforcing public finance laws and regulations, e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Most core tasks of public finance regulation enforcement specialists (compliance review, data analysis) can be assisted by AI, but final decision-making and legal responsibilities still require human experts, making them AI-amplified positions.
-
 You can be promoted from Executive Commissioner to Senior Auditor or Department Head, and by obtaining senior civil service positions, you can transition to internal audit, fiscal supervision, and other directions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ You can be promoted from Executive Commissioner to Senior Auditor or Department 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Visa) | Applicable to foreigners who obtain a work contract with a French employer must pass the review by the Labor Bureau. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or above and an annual salary at least 1.5 times the French average salary. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Usually, a bachelor's degree in public finance, accounting, or law-related fi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-financial-rules-officer/FR)**

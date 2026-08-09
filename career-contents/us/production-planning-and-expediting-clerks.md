@@ -51,8 +51,6 @@ Responsible for coordinating and expediting the flow of work and materials, ensu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
-
 Starting as a junior dispatcher, you can advance to senior dispatcher, production supervisor, or supply chain manager. With industry experience, you can move into broader operations management roles such as logistics manager or plant manager.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a junior dispatcher, you can advance to senior dispatcher, productio
 | Subclass H-1B (H-1B Specialty Occupation) | If the employer determines the position requires a professional degree (e.g., associate degree or higher), an H-1B can be applied for, but a lottery is required. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Through PERM labor certification, eligible for EB-3 employment-based green card, requires at least 2 years of training or experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Employment growth expected to be about average, around 3%. Automation may rep
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-planning-and-expediting-clerks/US)**

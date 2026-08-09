@@ -54,8 +54,6 @@ Responsible for monitoring and controlling rail, road, water transport systems t
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate data monitoring and scheduling optimization, but humans still need to handle complex emergencies and bear safety responsibilities. The role has a 'mixed' impact, with low-end monitoring positions compressed and high-end management positions rising.
-
 Can advance to senior dispatcher, traffic control center supervisor, or traffic management project manager. Requires accumulating experience and completing advanced training; some may transition to traffic planning or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior dispatcher, traffic control center supervisor, or traffic 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain recognized training qualifications or degree accreditation in Germany and have employer sponsorship. |
 | Subclass Vocational Training  (Vocational Training Visa) | If completing dual system training in Germany, you can apply for a training visa and switch to a work visa after graduation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 3-year dual training program, e.g., Fachkraft
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traffic-operations-monitoring-and-control-specialist/DE)**

@@ -51,8 +51,6 @@ Specialized technicians in biotechnology laboratories handling sample preparatio
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will largely take over data recording and standard experimental procedures, but experimental design, anomaly diagnosis, and interdisciplinary collaboration still rely on humans, job numbers stable but competition increases at entry level.
-
 Can advance to lab supervisor or transition to quality assurance/R&D roles. Through further education, can become a biomedical engineer or technical expert.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance to lab supervisor or transition to quality assurance/R&D roles. Thro
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to dual system training graduates, requiring a recognised vocational qualification. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa that allows entry to find work without meeting equivalent academic qualifications. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can enter via EU Blue Card (requires bachelor's degree or higher) or skilled 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-laboratory-technician/DE)**

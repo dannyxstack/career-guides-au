@@ -54,8 +54,6 @@ Responsible for refueling aircraft, de-icing, replenishing water and coolant, cl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers rely heavily on physical inspections, manual repairs, and on-site decisions; AI is difficult to fully replace but will take over tasks like documentation, preliminary fault diagnosis, and predictive maintenance planning, making the overall risk moderately low.
-
 After gaining experience in entry-level roles, can advance to senior technician or team supervisor; some transition to aviation maintenance or ground management, requiring additional certification.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After gaining experience in entry-level roles, can advance to senior technician 
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable; this occupation is not a professional occupation |
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Seasonal employers may apply, but quotas are tight |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Obtaining an aircraft maintenance certificate or transitioning to an aircraft
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-service-attendants/US)**

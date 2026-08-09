@@ -51,8 +51,6 @@ Collect survey data via telephone or face-to-face, and perform statistical recor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core data collection, sorting, and entry tasks for survey interviewers and statistical clerks will be significantly reduced by AI automation, with a sharp decline in positions. However, complex analysis and ethical decision-making still require humans, posing major transformation pressure.
-
 Can progress to senior investigator, data analyst, or statistical manager. With experience, can move into market research or government statistics departments.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress to senior investigator, data analyst, or statistical manager. With 
 | Subclass PNP (Provincial Nominee Program) | Some provinces have demand for this occupation, eligible for provincial nomination |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, and subsequently apply for permanent residency. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Not a high-demand occupation, but eligible for Express Entry or Provincial No
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/survey-interviewers-and-statistical-clerks/CA)**

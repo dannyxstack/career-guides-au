@@ -49,8 +49,6 @@ A professional responsible for the design, construction, optimization, and maint
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI boosts DB developer productivity and automates repetitive tasks, but data modeling and complex performance tuning require human expertise, increasing its value.
-
 Initially performs DB management and development tasks; with experience, can advance to Data Architect or CTO; high demand in large corporations and IT companies.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ Initially performs DB management and development tasks; with experience, can adv
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for skilled DB developers; requires a Korean employer |
-| Subclass D-10 (Job seeking) | Limited use of some skilled personnel |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -137,12 +129,12 @@ A: Mainly E-7 (Specific Activities) visa, requiring sponsorship from a Korean em
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-developer/KR)**

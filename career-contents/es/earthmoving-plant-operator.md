@@ -4,8 +4,6 @@
 
 Operate excavators, bulldozers, loaders, and other earthmoving and similar equipment, and perform tasks such as excavation, leveling, and loading in construction, mining, and infrastructure projects.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate excavators, bulldozers, loaders, and other earthmoving and similar equip
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some tasks for heavy equipment operators (e.g., scheduling, documentation) can be automated by AI, but core operations involve on-site perception and physical control; AI is more of an assistant than a replacement, overall risk is moderate.
-
 Starting as a junior operator, you can gain experience and be promoted to team leader or site supervisor, and further qualify for higher-level licenses to become trainers or project managers. Experience in large projects helps with promotions.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Starting as a junior operator, you can gain experience and be promoted to team l
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Trabajo por cuenta a (Work for an employer) | The employer must provide a work contract and prove that suitable local employees cannot be found, subject to approval from the Department of Labor. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: The main pathway is through employment-based residence, which requires employ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-plant-operator/ES)**

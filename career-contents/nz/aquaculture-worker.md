@@ -54,8 +54,6 @@ Aquaculture workers in New Zealand engage in farming and harvesting fish, shellf
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
-
 Career progression from general farm worker to farming technician, supervisor, or assistant manager. After accumulating local experience in New Zealand, may apply for Green List Tier 2 (e.g., farming technician) or immigrate through SMC points system.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression from general farm worker to farming technician, supervisor, o
 | Subclass SMC (Skilled Migrant Category) | Must meet a 6-point system, with points from qualifications, income, or registration, suitable for senior positions |
 | Subclass SWV/Partnership (Specific Purpose Work Visa / Family) | Specific projects or spousal work visas as supplementary pathways |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Good prospects. The New Zealand government encourages aquaculture expansion, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-worker/NZ)**

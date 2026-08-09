@@ -53,8 +53,6 @@ Responsible for converting patient diagnoses, surgeries, and medical procedures 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Clinical coder core tasks (code conversion) face high automation risk, but medical context validation and code dispute handling require human judgment and are enhanced by AI; entry-level pure coding roles will shrink significantly, while demand for senior coders will rise.
-
 Typically start as junior coder, progress to senior coder, coding supervisor, clinical coding auditor, or health information manager.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as junior coder, progress to senior coder, coding supervisor, cl
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, via 482 transfer to 186 or direct application. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Migration Scheme temporary visa, then transition to 191 permanent residence. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires completion of a TAFE Clinical Coding Certificate (1 year) 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-coder/AU)**

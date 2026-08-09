@@ -4,8 +4,6 @@
 
 In Italy, journalists collect, investigate, and report news for newspapers, magazines, radio, television, and online media. This occupation covers freelancers and journalists employed by news organizations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In Italy, journalists collect, investigate, and report news for newspapers, maga
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Career paths typically start at local media or internships, progressing to senior reporter, editor, or columnist. Also possible to move into PR, corporate communications, or digital content management.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Career paths typically start at local media or internships, progressing to senio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Targets highly skilled non-EU workers, requiring a university degree and an above-average salary contract. Journalists typically do not meet the salary threshold. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship. The journalist occupation is not on the priority list, making it difficult. |
-| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Applicable to self-employed journalists; requires proof of financial capacity and career plan. Approval is difficult. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +136,12 @@ A: Must pass a national exam and register with the Italian Journalists Associati
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/IT)**

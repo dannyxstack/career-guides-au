@@ -52,8 +52,6 @@ Operate manual control mechanisms to pour molten metal and regulate its flow int
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Metal pourers and casters face mixed effects: AI and robots will take over some pouring control tasks, but on-site complexities still require human judgment; skilled operators remain valuable.
-
 Start as an apprentice or assistant; with experience, advance to senior pourer or casting supervisor. Some may move into quality control or process engineering roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Start as an apprentice or assistant; with experience, advance to senior pourer o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Very difficult. This occupation typically does not meet the degree requiremen
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pourers-and-casters-metal/US)**

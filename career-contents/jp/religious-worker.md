@@ -4,8 +4,6 @@
 
 A religious worker conducts religious ceremonies at shrines, temples, churches, etc., and provides guidance, education, and rituals for followers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A religious worker conducts religious ceremonies at shrines, temples, churches, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-While AI may not replace religious practices themselves, it is increasingly being adopted as a tool for accounting, member management, and missionary activities. In particular, AI utilization may expand with the simplification of funerals and the spread of online memorial services.
-
 Career paths often involve internal promotion within religious organizations or training at sectarian educational institutions to become a chief priest or minister.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Career paths often involve internal promotion within religious organizations or 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence for religious activities is difficult; advanced knowledge of religious studies required, but permits are rare. |
-| Subclass 特定活動 (Designated Activities (Religious Worker)) | A residence status for foreign religious workers in Japan. Requires invitation from a sponsoring religious organization. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: Yes, but requires a 'Designated Activities (Religious Worker)' residence stat
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-worker/JP)**

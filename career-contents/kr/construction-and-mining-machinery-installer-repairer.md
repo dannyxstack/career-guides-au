@@ -51,8 +51,6 @@ A specialized technical profession responsible for installing, maintaining, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation play a supporting role in some diagnostic and parts management areas of construction equipment maintenance, but on-site repair and maintenance work requires physical manipulation and empirical judgment, making complete replacement difficult.
-
 With field experience and certification, one can advance to a technician (master craftsman) or be promoted to a maintenance team leader or site manager at a large company.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ With field experience and certification, one can advance to a technician (master
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when expertise is recognized in construction and mining sectors as a skilled functional worker |
-| Subclass E-9 (Non-professional Employment) | Limited to unskilled labor at construction sites as a non-professional worker |
-| Subclass F-2 (Residence) | Eligible for employment after long-term stay under a points system |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work in the construction machinery repair industry |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Not legally required, but having at least a Construction Equipment Mechanic T
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-mining-machinery-installer-repairer/KR)**

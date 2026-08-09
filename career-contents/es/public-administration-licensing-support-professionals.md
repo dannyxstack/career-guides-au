@@ -4,8 +4,6 @@
 
 Assist the public in handling various government permits (such as business licenses, building permits, driver's licenses, etc.), including material review, process guidance, information inquiry, and document archiving, ensuring administrative procedures are compliant and efficient.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Assist the public in handling various government permits (such as business licen
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly automate document review and process guidance tasks, but humans still have advantages in complex communication and decision-making responsibilities; This profession is a mixed bag.
-
 You can be promoted from grassroots clerk to team leader or department coordinator, or transition to public administration, policy analysis, or government digitalization roles. Administrative experience must be accumulated and candidates must be hired through internal competition.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted from grassroots clerk to team leader or department coordinat
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | A Spanish employer sponsor is required, proving that the position cannot be filled by local or EU citizens, usually requiring a university degree or equivalent experience. |
-| Subclass Busqueda empleo (Job search visa) | Allowing residence and job hunting in Spain for a maximum period of 12 months, requiring sufficient financial capability. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: You can be promoted to team leader, department coordinator, or to a higher-le
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-administration-licensing-support-professionals/ES)**

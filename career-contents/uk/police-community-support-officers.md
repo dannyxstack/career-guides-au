@@ -51,8 +51,6 @@ Police Community Support Officers (PCSOs) provide a visible and reassuring prese
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 PCSOs usually have opportunities to become police constables through internal exams and training. They can also move into specialist roles in community engagement or intelligence. Long-term development includes becoming a police constable or police community liaison officer.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ PCSOs usually have opportunities to become police constables through internal ex
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, PCSO is on the list of eligible occupations. You can immigrate via the S
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-community-support-officers/UK)**

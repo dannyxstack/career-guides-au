@@ -52,8 +52,6 @@ Insurance brokers are professionals who negotiate insurance plans with insurers 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Beginners can start in customer service or claims roles and advance to broker after gaining experience. Seniors can become senior brokers, team leaders, or start their own brokerage firms. They can also transition to risk management or underwriting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Beginners can start in customer service or claims roles and advance to broker af
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence visa, requires state invitation and skills assessment, insurance broker can apply |
 | Subclass 189 (Skilled Independent Visa) | Permanent residency visas requiring the occupation to be on the MLTSSL; insurance brokers are not on the MLTSSL and thus are not eligible. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually need to complete an RG146 compliance certificate, a business degree i
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-broker-222113/AU)**

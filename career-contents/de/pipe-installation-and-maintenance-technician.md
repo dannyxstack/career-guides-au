@@ -53,8 +53,6 @@ Responsible for installing, maintaining, and repairing water supply, heating, ga
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall risk for this occupation is mixed: automation tools (e.g., smart inspection, automated welding) will replace some repetitive tasks, but AI-enhanced remote diagnostics, BIM integration, and predictive maintenance improve efficiency and value.
-
 From junior technician, one can advance to foreman or project manager; by pursuing further education to obtain a master craftsman certificate (Meister), one can operate independently or serve as a senior supervisor.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ From junior technician, one can advance to foreman or project manager; by pursui
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allowing job seekers without a work contract to enter the country to look for work |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, must prove financial means |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can become a foreman or self-employed by obtaining a Master certificate, or f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipe-installation-and-maintenance-technician/DE)**

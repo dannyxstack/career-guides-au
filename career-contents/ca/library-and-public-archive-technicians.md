@@ -51,8 +51,6 @@ Library and public archive technicians assist in the daily operations of librari
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
-
 Technicians can advance to senior technician, department supervisor, or records manager. With experience in digitalisation and specialised fields (such as digital preservation), some may transition to library management or archive management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Technicians can advance to senior technician, department supervisor, or records 
 | Subclass Express Entry (Federal Skilled Worker) | After meeting work experience and language requirements, you can apply for permanent residence through the fast track. |
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have provincial nominee programs targeting information professionals. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can immigrate through Express Entry or Provincial Nominee Program, but it is 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-and-public-archive-technicians/CA)**

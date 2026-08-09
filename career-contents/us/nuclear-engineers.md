@@ -51,8 +51,6 @@ Nuclear engineers conduct nuclear energy research, design and operate nuclear re
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI automation on nuclear engineer roles is polarized: routine monitoring and documentation tasks are replaced, while core work involving nuclear safety, regulatory compliance, and complex system decisions is enhanced, requiring improved data analysis and AI tool skills.
-
 Career progression: Junior nuclear engineer → Senior nuclear engineer → Project supervisor or technical expert; some move into nuclear safety regulation or consulting.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression: Junior nuclear engineer → Senior nuclear engineer → Proj
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for bachelor's degree or higher; requires PERM with long processing times. |
 | Subclass TN (TN Status (USMCA)) | Applies to Canadian or Mexican citizens; nuclear engineering is on the NAFTA occupation list, no lottery needed. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires an ABET-accredited bachelor's degree in nuclear engineerin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nuclear-engineers/US)**

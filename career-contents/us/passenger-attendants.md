@@ -53,8 +53,6 @@ serve passengers on ships, buses, trains, or at stations/terminals, ensuring saf
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-In the tasks of passenger service agents, information inquiry and food and beverage services will be automated by AI, but safety guidance and interpersonal care still require humans. The overall risk is moderate, and entry-level positions may decrease due to the prevalence of self-service.
-
 Junior passenger service attendants can advance to team leader or supervisor, or move into customer service management or training roles. Requires experience and a good service record.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior passenger service attendants can advance to team leader or supervisor, or
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation does not typically require a bachelor's degree |
 | Subclass EB-3 (Employment-Based Third Preference) | May be applicable, but employer sponsorship is difficult, non-professional occupation |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Limited, can advance to team leader or supervisor, or transfer to customer se
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/passenger-attendants/US)**

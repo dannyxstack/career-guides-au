@@ -54,8 +54,6 @@ Orthopaedic and rehabilitation technicians manufacture, fit, and repair orthoses
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Orthopedic and rehabilitation technicians face dual impacts of AI-assisted design enhancement and manufacturing automation replacement, but customization, patient communication, and legal liability form a core moat, making overall prospects mixed.
-
 Junior technicians can advance to become Orthopedic Technology Master (Orthopädiemeister) or move into Prosthetist/Orthotist roles, or enter sales management or training positions.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior technicians can advance to become Orthopedic Technology Master (Orthopäd
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing you to come to Germany to look for work, subject to eligibility requirements. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, must prove financial means and qualifications |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Germany's aging population drives sustained growth in orthopedics and rehabil
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthopedic-and-rehabilitation-technician/DE)**

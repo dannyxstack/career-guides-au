@@ -53,8 +53,6 @@ Responsible for supervising teams involved in metal structure manufacturing and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The occupation has mixed prospects: routine welding and cutting tasks are easily automated, but supervision, quality control, and complex structural design still require human judgment; AI can serve as a tool to enhance efficiency.
-
 Can advance from skilled welder or metal worker to team leader, then supervisor; further progress to production manager, technical director, or corporate trainer, or study to become a welding engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from skilled welder or metal worker to team leader, then supervisor;
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised professional qualification or dual system training certificate, and employer sponsorship. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based, allowing job seekers to stay in Germany for one year; suitable for those with professional qualifications but no employer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as a welder or metalworker, advance to team leader, then supervisor, an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-metal-construction-and-welding-technology/DE)**

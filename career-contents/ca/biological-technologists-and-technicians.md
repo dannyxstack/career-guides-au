@@ -51,8 +51,6 @@ Provides technical support in laboratories or research institutions, assisting s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Biotechnician work has mixed prospects: routine experiments and data processing are easily automated by AI, but experimental design, equipment maintenance, and cross-team collaboration still require human judgment. Entry-level positions face compression risks, but mastering AI tools can improve efficiency and shift towards core research.
-
 Can progress from junior technician to senior technician, lab supervisor, or move into research assistant or quality control roles. Continuing education or certification helps career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior technician to senior technician, lab supervisor, or mov
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs, such as those in Ontario, BC, Alberta, etc., for candidates with a local employer offer or relevant experience. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers who have a job offer from an employer in the four Atlantic provinces |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Skilled occupation, can immigrate via EE or PNP, but requires qualification a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-technologists-and-technicians/CA)**

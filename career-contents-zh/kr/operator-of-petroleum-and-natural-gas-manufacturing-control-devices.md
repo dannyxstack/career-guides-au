@@ -1,10 +1,8 @@
-# Operator of Petroleum and Natural Gas Manufacturing Control Devices 职业分析 · 韩国
+# 石油和天然气制造控制设备操作员（Operator of Petroleum and Natural Gas Manufacturing Control Devices）职业分析 · 韩国
 
-**职业代码: 85111 (KECO)**
+**职业代码：85111 (KECO)**
 
-This occupation involves operating and controlling process control devices that perform fractional distillation of crude oil or refine natural gas in oil refineries and petrochemical plants.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+此职业涉及操作和控制过程控制设备，在炼油厂和石化厂对原油进行分馏或精炼天然气。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves operating and controlling process control devices that 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate (technical high school) | 3年 | $0~$0（Free education） |
-| College (Chemical Engineering, etc.) | 2 年 | $4,000,000~$8,000,000（每年学费） |
+| 高中毕业（技术高中） | 3年 | $0~$0（免费教育） |
+| 大学（化学工程等） | 2 年 | $4,000,000~$8,000,000（每年学费） |
 
 ---
 
@@ -22,18 +20,18 @@ This occupation involves operating and controlling process control devices that 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Engineer (Certified by Human Resources Development Service of Korea) | Human Resources Development Service of Korea | 可选 | Having professional engineer or master craftsman certification is also advantageous |
-| Gas Technician (Certified by Human Resources Development Service of Korea) | Human Resources Development Service of Korea | 可选 | Preferred in petrochemical plants |
-| Industrial Safety Engineer (Certified by Human Resources Development Service of Korea) | Human Resources Development Service of Korea | 可选 | Required for safety management roles |
+| 化学工程师（韩国人力资源开发院认证） | 韩国人力资源开发服务局 | 可选 | 持有专业工程师或高级技师证书也是优势 |
+| 燃气技术员（韩国人力资源开发服务院认证） | 韩国人力资源开发服务局 | 可选 | 石化厂优先 |
+| 工业安全工程师（经韩国人力资源开发服务认证） | 韩国人力资源开发服务局 | 可选 | 安全管理岗位所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to automation and digital transformation in the petrochemical industry, skilled employment will be maintained, but new hiring is expected to stagnate.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于石化行业的自动化和数字化转型，技术岗位将得以维持，但新招聘预计将停滞。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,90 +39,83 @@ This occupation involves operating and controlling process control devices that 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $36,000,000~$42,000,000 | Based on large corporations |
-| Mid-level (4–10 years) | $45,000,000~$60,000,000 | Depending on skill level |
-| Senior (10 years or more) | $60,000,000~$80,000,000 | Team leader/process manager |
+| 初级（0-3年） | $36,000,000~$42,000,000 | 基于大企业 |
+| 中级（4-10年） | $45,000,000~$60,000,000 | 取决于技能水平 |
+| 高级（10年及以上） | $60,000,000~$80,000,000 | 团队负责人/流程经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are introduced for process monitoring and anomaly detection, but on-site response and maintenance decisions are advantageous for humans, making full replacement difficult.
+AI和自动化被引入过程监控和异常检测，但现场响应和维护决策人类占优势，全面替代困难。
 
-Career advancement: field operator → main control room operator → process manager (team leader) → process engineer; experienced workers may move to large corporations and large plants.
+职业晋升：现场操作员→主控制室操作员→流程经理（团队负责人）→工艺工程师；经验丰富的工人可转向大型企业和大型工厂。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple monitoring of process data
-- Manual checking of alarm notifications
+- 过程数据的简单监控
+- 手动检查警报通知
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Advanced process optimization
-- Predictive maintenance decision-making
+- 高级流程优化
+- 预测性维护决策
 
-**人类护城河:**
+**人类护城河：**
 
 - 突发情况应变能力
-- Intuition for equipment failure
-- Understanding of complex processes
+- 对设备故障的直觉
+- 理解复杂流程
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of programmable logic controllers (PLC)
+- 可编程逻辑控制器（PLC）操作
 - 数据分析与可视化
-- In-depth understanding of safety regulations
+- 深入了解安全法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Petrochemical
-- Automation Control
-- Precision Measurement
-- Safety Management
+- 石油化工
+- 自动化控制
+- 精密测量
+- 安全管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeted at skilled workers, requires professional experience in petrochemical field |
-| Subclass E-9 (Non-professional Employment) | Limited, some simple operational positions available but few visa quotas |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machinery/electronics
-- Those who can tolerate night/shift work
-- Those strong in risk management
+- 对机械/电子感兴趣的人
+- 能耐受夜班/倒班的人
+- 风险管理能力强的人
 
 **谁不适合**
-- Those who prefer regular daytime work
-- Those who dislike isolated environments
+- 偏好常规白班工作的人
+- 不喜欢孤立环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For large companies, it's 36-42 million KRW; for SMEs, around 30 million KRW.
+**问：起薪是多少？**
+答：大企业为3600-4200万韩元；中小企业约3000万韩元。
 
-**问：Can foreigners get a job here?**
-答：E-7 visas allow hiring skilled workers, but experience and Korean language skills are required.
+**问：外国人能在这里找到工作吗？**
+答：E-7签证允许雇佣熟练工人，但需要经验和韩语能力。
 
-**问：Is it possible with just a high school diploma?**
-答：It's possible. After graduating from an industrial high school and gaining field experience, there are opportunities for promotion.
+**问：仅凭高中文凭可能吗？**
+答：有可能。从工业高中毕业后积累现场经验，就有晋升机会。
 
 
 ---
@@ -142,12 +133,12 @@ Career advancement: field operator → main control room operator → process ma
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/operator-of-petroleum-and-natural-gas-manufacturing-control-devices/KR)**

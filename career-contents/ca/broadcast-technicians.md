@@ -50,8 +50,6 @@ Operate and maintain broadcast, television, film, and audio equipment to ensure 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
-
 Can progress from junior technician to senior technician or supervisor, some move into audiovisual production, project management, or equipment sales. Continuous learning of new technologies like IP broadcasting and digital media is key.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior technician to senior technician or supervisor, some mov
 | Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have media occupation nominations, requiring employer sponsorship |
 | Subclass LMIA (Labour Market Impact Assessment) | An employer can apply for a work visa after proving inability to recruit locally; this is a supplementary pathway to immigration. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a college diploma (2 years) or university degree (4 years)
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcast-technicians/CA)**

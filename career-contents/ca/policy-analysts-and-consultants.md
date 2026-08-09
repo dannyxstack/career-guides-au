@@ -52,8 +52,6 @@ Policy analysts research policies, evaluate impacts, and make recommendations in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Policy analysts face mixed prospects: AI can assist with data collection, literature reviews, and drafting reports, but policy advice involves trade-offs, ethical judgment, and public accountability, making core decisions hard to automate. Entry-level roles are compressed due to automation, but demand for senior analysis increases.
-
 Junior analysts can advance to senior policy advisor, manager, or chief analyst. Can also transition to public affairs or consulting; government experience helps enter the private sector.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior analysts can advance to senior policy advisor, manager, or chief analyst.
 | Subclass PNP (Provincial Nominee Program) | Provinces such as Ontario and British Columbia have skilled migration nominations. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Demand is stable, but competition is moderate, especially in popular cities. 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-analysts-and-consultants/CA)**

@@ -53,8 +53,6 @@ Responsible for overseeing the photography studio, technical photography process
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Photography and cinematography roles face mixed AI impact: routine tasks like visual quality checks and color correction are automated, but creative decision-making, client communication, and team leadership are enhanced by AI tools.
-
 Can advance from photography assistant to photography supervisor, then to creative director or start your own photography studio.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from photography assistant to photography supervisor, then to creati
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Some basic photography and post-processing work may be automated by AI, but a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-photographic-technology-and-photography/DE)**

@@ -53,8 +53,6 @@ Responsible for planning, organizing, coordinating, and managing the daily opera
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Bed and breakfast and inn operators' work will be partially reduced by AI tools (e.g., smart booking systems, automated customer service), but core personalized service, on-site management, and emotional interaction are hard to replace; overall, risks and opportunities coexist.
-
 Start in front desk or housekeeping, gain experience, then progress to owner or manager. Some operators expand by purchasing existing properties or franchising brands. Can also move into hotel management or tourism services.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start in front desk or housekeeping, gain experience, then progress to owner or 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: No mandatory academic requirements, but hotel management or business courses 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bed-and-breakfast-and-guest-house-owners-and-proprietors/UK)**

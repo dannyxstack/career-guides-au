@@ -52,8 +52,6 @@ Computer network analysts are responsible for designing, configuring, maintainin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
-
 Junior analysts can be promoted to senior network engineers, cybersecurity specialists, or IT infrastructure managers. Obtaining certifications such as Cisco CCNA/CCNP can accelerate career development. With project management experience, you can serve as a technical lead or Chief Information Officer.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior analysts can be promoted to senior network engineers, cybersecurity speci
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled workers, requires a university degree or 5 years of experience, with a contract salary at least 1.5 times the Spanish average wage (approx. €40,000/year). |
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for senior professionals, requiring a university degree or 3 years of experience, with contracts not less than a certain percentage of average salary, and a relatively fast process. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Standard work residency, employer sponsorship required, contract aligns with market salary levels. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Bachelor's degree in Computer Engineering or Advanced Vocational Training (FP
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-analyst/ES)**

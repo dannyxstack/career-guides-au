@@ -51,8 +51,6 @@ Assist scientists in laboratories or research institutions with experiments, dat
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive tasks like experiments and data recording by other science technicians are easily automated by AI, but equipment maintenance and on-site problem solving still require humans. NZ migration pathways are limited; active skill upgrading is needed to avoid shrinking job opportunities.
-
 Can progress from junior technician to senior technician or lab supervisor, or transition to roles in R&D, quality management, or sales engineering, requiring experience accumulation and professional certifications.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior technician to senior technician or lab supervisor, or t
 | Subclass SMC (Skilled Migrant Category) | Skilled migration requires 6 points (qualifications + work experience) with a New Zealand job offer |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, common pathway; eligible for SMC after working for a certain number of years |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, you can advance from technician to senior technician, laboratory supervi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/science-technicians-nec/NZ)**

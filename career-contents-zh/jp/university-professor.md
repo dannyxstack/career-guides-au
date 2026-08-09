@@ -1,10 +1,8 @@
-# University Professor 职业分析 · 日本
+# 大学教授（University Professor）职业分析 · 日本
 
-**职业代码: 198 (JSCO)**
+**职业代码：198 (JSCO)**
 
-Engage in education and research in specialized fields at a university, including student guidance and academic activities. A doctoral degree is standard, and many positions are fixed-term.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在大学从事专业领域的教育和研究，包括学生指导和学术活动。博士学位是标准，许多职位是固定期限的。
 
 
 ---
@@ -13,8 +11,8 @@ Engage in education and research in specialized fields at a university, includin
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Doctoral Program (Doctorate) | 5年 | $3,000,000~$5,000,000（For national universities. Varies for private and science-related fields.） |
-| Master's Program (Master's Degree) | 2 年 | $1,500,000~$2,500,000（Prerequisite for doctoral programs.） |
+| 博士课程（博士学位） | 5年 | $3,000,000~$5,000,000（适用于国立大学。私立和科学相关领域有所不同。） |
+| 硕士项目（硕士学位） | 2 年 | $1,500,000~$2,500,000（博士课程的先决条件。） |
 
 ---
 
@@ -22,17 +20,17 @@ Engage in education and research in specialized fields at a university, includin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 博士学位（PhD） | Domestic and international universities | 必备 | Basic requirement for university faculty. |
-| Teaching License (High School) | Prefectural Boards of Education | 可选 | Not mandatory but advantageous in education-related fields. |
+| 博士学位（PhD） | 国内外大学 | 必备 | 大学教职的基本要求。 |
+| 教师资格证（高中） | 县级教育委员会 | 可选 | 在教育相关领域非强制但有利。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 180,000. With the decline in the 18-year-old population, competition among universities intensifies, while demand for faculty in growth areas like data science and AI increases. Overall, the trend is flat or slightly decreasing.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 180,000。随着18岁人口下降，大学竞争加剧，而数据科学和人工智能等增长领域的师资需求增加。总体趋势持平或略有下降。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,94 +38,86 @@ Engage in education and research in specialized fields at a university, includin
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (Assistant Professor/Lecturer, 0-5 years) | $5,500,000~$7,500,000 | National universities, varies by region. |
-| Mid-level (Associate Professor, 5-15 years) | $7,500,000~$10,000,000 | Varies based on research record. |
-| Senior-level (Professor, 15+ years) | $10,000,000~$15,000,000 | May be higher at private universities. |
+| 入门级（助理教授/讲师，0-5年） | $5,500,000~$7,500,000 | 国立大学，因地区而异。 |
+| 中级（副教授，5-15年） | $7,500,000~$10,000,000 | 根据研究记录而异。 |
+| 高级（教授，15年以上） | $10,000,000~$15,000,000 | 私立大学可能更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used in research data analysis and paper writing assistance, but it is hard to replace the essence of education and research. Notably, its impact is limited in areas requiring human relationships and creativity.
+AI用于研究数据分析和论文写作辅助，但难以替代教育和研究的本质。特别是在需要人际关系和创造力的领域，其影响有限。
 
-Promotion from Assistant Professor → Lecturer → Associate Professor → Professor. Research achievements and teaching ability are evaluated. The review process is strict, and obtaining tenure is a key goal.
+晋升路径：助理教授 → 讲师 → 副教授 → 教授。评估研究成就和教学能力，审查严格，获得终身教职是关键目标。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of lectures (creating e-learning materials)
-- Simple grading tasks
-- Part of data organization and analysis
+- 讲座自动化（创建电子学习材料）
+- 简单的评分任务
+- 数据组织与分析的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- High-speed analysis of research data
-- Literature survey and summarization of papers
-- Learning analysis for individual tutoring
+- 研究数据的高速分析
+- 文献调查和论文总结
+- 个性化辅导的学习分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face education and guidance
-- Lab management and student mentoring
-- Originality of research topics and hypothesis formulation
+- 面对面教育与指导
+- 实验室管理和学生指导
+- 研究课题的创新性与假设提出
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Practical skills in AI/machine learning
-- Interdisciplinary research skills
-- Ability to secure funding
-- Experience in international joint research
+- AI/机器学习的实用技能
+- 跨学科研究技能
+- 获得资金的能力
+- 国际联合研究经验
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 数据科学
-- AI/Machine Learning
-- Information Engineering
-- SDGs/Environment
+- 人工智能/机器学习
+- 信息工程
+- 可持续发展目标/环境
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 教授 (Professor Visa) | Residence status for university faculty. Allows long-term stay. Also eligible for permanent residence application. |
-| Subclass 高度専門職1号(ハ) (Highly Skilled Professional Visa) | Points-based system based on research achievements and annual income. Preferential treatment for permanent residency available. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | For some assistants and researchers. Obtainable if academic activities are recognized. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who can maintain passion for research
-- Those who can endure long periods to obtain a degree
-- Those who enjoy balancing education and research
+- 能够保持研究热情者
+- 能够长期坚持以获得学位的人
+- 喜欢平衡教育和研究的人
 
 **谁不适合**
-- Those seeking stable high income immediately
-- Those who prefer routine work
+- 追求即时稳定高收入者
+- 喜欢常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a university professor?**
-答：Assistant professor: 5.5M–7.5M yen/year, Associate professor: 7.5M–10M yen/year, Professor: 10M–15M yen/year. Differences between national and private universities; research funds are often provided separately.
+**问：大学教授的年收入是多少？**
+答：助理教授：550-750万日元/年，副教授：750-1000万日元/年，教授：1000-1500万日元/年。国立与私立大学之间存在差异；研究经费通常另外提供。
 
-**问：What visa does a foreigner need to become a university professor in Japan?**
-答：The 'Professor' visa is common. After obtaining a PhD, if hired by a Japanese university, you can apply. The Highly Skilled Professional visa is also available. Japanese language ability is not required but may be requested by some institutions.
+**问：外国人需要什么签证才能在日本成为大学教师？**
+答：'教授'签证常见。获得博士学位后，如被日本大学聘用可申请。高度人才签证也可用。日语能力非必需但部分机构可能要求。
 
-**问：Is a university professor's visa advantageous for permanent residency?**
-答：Yes. The Highly Skilled Professional visa has a points system that may allow earlier permanent residency. With the Professor visa, long-term residence history also makes it possible to apply.
+**问：大学教授签证是否对永久居留有利？**
+答：可以。高技能专业人才签证采用积分制，可能提前获得永久居留权。教授签证长期居住也可申请。
 
 
 ---
@@ -145,12 +135,12 @@ Promotion from Assistant Professor → Lecturer → Associate Professor → Prof
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/university-professor/JP)**

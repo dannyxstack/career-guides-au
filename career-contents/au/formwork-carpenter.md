@@ -56,8 +56,6 @@ Formwork Carpenters build and dismantle temporary formwork structures used for c
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace the physical labor and on-site judgment of formwork carpenters, but automated measurement, BIM, and prefabricated design will reduce high-skill tasks like layout and cutting. The role lies between 'augmented' and 'reduced.'
-
 The widespread adoption of aluminium formwork systems (Aluma/Doka, etc.) has improved efficiency, but erection and monitoring still require significant manual labour. Tight schedules on high-rise projects mean shift and overtime earnings far exceed those of general tradespeople.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ The widespread adoption of aluminium formwork systems (Aluma/Doka, etc.) has imp
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: No. A Certificate III is sufficient; TAFE entry is available to high school g
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/formwork-carpenter/AU)**

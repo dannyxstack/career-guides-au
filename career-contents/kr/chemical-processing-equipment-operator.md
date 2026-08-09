@@ -52,8 +52,6 @@ Operates equipment (reactors, distillation columns, etc.) for processing chemica
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI automation will reduce simple monitoring tasks but strengthen advanced tasks like process optimization and maintenance. Overall, workforce size will decrease and job difficulty will increase.
-
 Can start as a production worker and be promoted to skilled worker, team leader, or process supervisor; in large affiliates, technical training provides more promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Can start as a production worker and be promoted to skilled worker, team leader,
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Skilled worker eligible for employment in chemical processing |
-| Subclass E-9 (Non-professional Employment) | Non-professional employment possible in manufacturing, but chemical processing may be restricted if specialized |
-| Subclass F-2 (Residence) | Points-based permanent residency route, long-term stay and free job mobility |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: High school diploma or higher is acceptable, but college chemical engineering
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-processing-equipment-operator/KR)**

@@ -52,8 +52,6 @@ Electronics technicians in New Zealand install, test, and repair electronic equi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnostic testing and documentation tasks for electronics technicians will be automated by AI, but complex on-site troubleshooting and system integration gain value from AI-assisted tools, leading to a polarizing job market.
-
 Junior technicians can progress to senior technician or team supervisor, then to engineer or project manager. With experience, they can move into R&D, system integration, or start their own business, with salary and position rising accordingly.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior technicians can progress to senior technician or team supervisor, then to
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, must meet points for qualifications and work experience (e.g., bachelor's 3 points + 5 years experience 3 points), then apply after receiving an invitation |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for applicants with a job offer but not yet meeting immigration requirements, can later transition to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: A National Diploma in Electronic Engineering is not mandatory but beneficial 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-technician/NZ)**

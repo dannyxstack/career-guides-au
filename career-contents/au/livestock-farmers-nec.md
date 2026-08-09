@@ -54,8 +54,6 @@ Livestock Farmer (not elsewhere classified) manages livestock on farms, includin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed effects on livestock farmers: automated tools can take over data recording, environmental monitoring, etc., but animal health assessment and farm management experience remain hard to replace. Entry-level competition slightly intensifies.
-
 Can progress from entry-level livestock assistant to farm manager or self-employed farmer by accumulating management experience and industry knowledge; can also develop into livestock consultant or agricultural business manager.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from entry-level livestock assistant to farm manager or self-employ
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Provisional visa for regional state sponsorship, requiring work in a regional area |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Start as an assistant or breeder, advance to farm supervisor, manager, and ev
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-farmers-nec/AU)**

@@ -4,8 +4,6 @@
 
 A professional who plans and operates various leisure and recreation programs, helping participants have enjoyable and beneficial experiences.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who plans and operates various leisure and recreation programs, h
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can replace some repetitive program operations and data analysis tasks, but creative program planning and human interaction remain human domains. Overall, some tasks may be reduced or replaced.
-
 Career path: Entry-level activity assistant → Program planner → Team leader/Center director. Private certifications and experience are important, with specialization in areas like seniors or children recognized.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Career path: Entry-level activity assistant → Program planner → Team leader/
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Specialized area (e.g. sports instructor) possible, but general recreation is difficult |
-| Subclass F-2 (Residence) | Permanent residents only, general employment permitted |
-| Subclass F-4 (Overseas Koreans) | Employment in service industry possible only for overseas Koreans |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: There are no legally required certifications, but having a Recreation Instruc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-specialist/KR)**

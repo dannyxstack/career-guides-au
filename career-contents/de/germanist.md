@@ -55,8 +55,6 @@ German language and literature experts engage in the study of German linguistics
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on artists is mixed: generative AI can quickly produce visual content, reducing entry-level jobs in commercial illustration and design; but it also amplifies creative exploration and digital art capabilities, spawning new tools and expressions.
-
 Career progression typically starts as a research assistant or lecturer, becoming a professor through habilitation or after obtaining a PhD. Alternatively, can move into publishing, cultural management or freelance work.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts as a research assistant or lecturer, becomin
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain a degree in a relevant field from a German university and have a job contract meeting the annual salary standard. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Obtained through a points system, allowing one year to find a job in Germany, suitable for graduates who have not yet found employment. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires a master's degree from a German university; after securing a relevan
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/germanist/DE)**

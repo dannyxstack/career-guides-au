@@ -54,8 +54,6 @@ Gardeners and landscape horticulturists plant flowers, trees, shrubs, and other 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is compressing some administrative roles through automated documentation and remote inspections, but on-site manual work, creative design, and complex terrain handling still rely heavily on humans. This occupation has mixed prospects.
-
 Entry-level gardeners can advance to senior gardener, team leader, or landscape project manager. Obtaining RHS certificate or NVQ can increase salary, and some practitioners start their own gardening companies.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level gardeners can advance to senior gardener, team leader, or landscape 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress from junior gardener to senior gardener, team supervisor, or lan
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardeners-and-landscape-gardeners/UK)**

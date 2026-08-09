@@ -49,8 +49,6 @@ Caregivers are professionals who provide daily living assistance and nursing car
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are evolving to assist the work of care workers. For example, smart monitoring systems support fall detection, but physical care and emotional connection remain uniquely human domains. Thus, AI will act as a tool to reduce workload and increase efficiency.
-
 Entry-level caregiver → With experience, can advance to facility manager, instructor, or complete training to become a nurse assistant for hospital employment. Promotion structure is horizontal, but career development is possible after obtaining certification.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Entry-level caregiver → With experience, can advance to facility manager, inst
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Used for some caregiver personnel, but limited. Primarily viable for employment as nursing assistants |
-| Subclass F-2 (F-2 (Residence)) | Permanent residents or long-term visa holders can work as care workers |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can also work as care workers after obtaining certification |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: You need to complete 240 hours of theory and practice at a training instituti
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/caregiver/KR)**

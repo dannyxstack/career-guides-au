@@ -51,8 +51,6 @@ Oversee library, mail delivery, and related information staff to ensure efficien
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on library and information managers is mixed: routine process supervision is easily automated, but human service, crisis decision-making, and responsibility boundaries still rely on human judgment.
-
 Can advance to library director or information service center manager, requiring management experience and enhanced digital skills.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance to library director or information service center manager, requiring
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Suitable, can immigrate via Express Entry or Provincial Nominee Program, but 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-library-correspondence-and-related-information-workers/CA)**

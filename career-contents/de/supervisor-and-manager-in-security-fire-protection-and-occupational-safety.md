@@ -54,8 +54,6 @@ Responsible for monitoring security systems, managing security personnel, and es
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on this occupation is mixed: automation threatens repetitive monitoring and reporting tasks, but enhances risk assessment, emergency coordination, and training design, shifting overall demand towards strategic management.
-
 Practitioners can progress from security officer to security manager or regional security director. Pursuing a master's in security management or gaining chartered engineer status can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Practitioners can progress from security officer to security manager or regional
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes, with experience and a degree, promotion to safety director or group safe
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-in-security-fire-protection-and-occupational-safety/DE)**

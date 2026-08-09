@@ -56,8 +56,6 @@ A Glazier is responsible for measuring, cutting, and installing glass in buildin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on glaziers is mixed: automated measurement and cutting software will compress junior roles, but on-site skills like installation and sealing remain in high demand, with certified senior workers still scarce.
-
 Double-glazed Low-E glass and structural glazing have become mainstream, raising skill requirements. High-rise work requires abseiling certification, with a noticeable wage premium.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Double-glazed Low-E glass and structural glazing have become mainstream, raising
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: No, Certificate III is sufficient. High school graduates can enter TAFE appre
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/AU)**

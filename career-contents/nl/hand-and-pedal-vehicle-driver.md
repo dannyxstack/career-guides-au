@@ -4,8 +4,6 @@
 
 Includes bicycle couriers, rickshaw drivers, etc., playing a key role in urban short-distance logistics and passenger transport, with stable demand especially in bike-friendly cities like Amsterdam.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Includes bicycle couriers, rickshaw drivers, etc., playing a key role in urban s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Handcart and pedicab drivers face high automation substitution risk, especially as autonomous delivery robots and drones are being piloted in the Netherlands; entry-level positions will significantly narrow in the next 5 years. However, human traits such as flexible response to complex road conditions and interpersonal interaction still provide a protective moat.
-
 Usually no clear career progression path; may develop into fleet supervisor or self-operated courier business. Some drivers shift to logistics dispatch or delivery management roles.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Usually no clear career progression path; may develop into fleet supervisor or s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled migration, but this occupation usually does not meet the high-skilled criteria unless in a management role. |
-| Subclass Orientation Year (Orientation Year) | The graduate job-seeking visa for the Netherlands allows any work, including this occupation. |
-| Subclass Freelance visa (Freelance visa) | Self-employed drivers can apply, needing to demonstrate ongoing business in the Netherlands. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Limited promotion opportunities, can advance to fleet supervisor or self-oper
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hand-and-pedal-vehicle-driver/NL)**

@@ -52,8 +52,6 @@ Flight attendants are responsible for cabin safety and passenger service, requir
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
-
 Career progression: from junior flight attendant to senior purser, some move to management or training roles. Requires accumulating flight hours, passing assessments, and mastering multilingual skills.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression: from junior flight attendant to senior purser, some move to 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Career path includes senior flight attendant, purser, trainer, or management 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flight-attendant/NZ)**

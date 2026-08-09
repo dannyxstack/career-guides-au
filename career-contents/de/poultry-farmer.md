@@ -53,8 +53,6 @@ Poultry farmers raise and care for poultry such as chickens, ducks, and turkeys,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Career path: from farmhand to farm supervisor, livestock farm manager, or self-employed farm owner. Further study can lead to livestock consultant or agricultural technician.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: from farmhand to farm supervisor, livestock farm manager, or self-e
 | Subclass Skilled Worker (Skilled Worker Visa) | Must complete a German-recognized vocational training program, sponsored by an employer |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year to find a job, requires relevant qualifications |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires completing 3 years of dual vocational training (Ausbildung) 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/poultry-farmer/DE)**

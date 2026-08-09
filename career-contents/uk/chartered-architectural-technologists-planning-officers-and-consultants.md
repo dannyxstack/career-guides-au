@@ -52,8 +52,6 @@ Responsible for urban and rural development layout planning, architectural desig
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
-
 Can progress from assistant planner/technician to senior planning officer/chief technical expert, or transition to project management, urban planning leadership roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from assistant planner/technician to senior planning officer/chief 
 | Subclass Graduate (Graduate Visa) | UK graduates can apply for a 2-year work visa to stay in the UK |
 | Subclass Scale-up (Scale-up Visa) | Suitable for high-growth company sponsorship, requires annual salary above £33,000 |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the sponsorship list, but employer sponsorship is requi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chartered-architectural-technologists-planning-officers-and-consultants/UK)**

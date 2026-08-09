@@ -53,8 +53,6 @@ Responsible for feeding, breeding, and health management of poultry to produce m
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate data recording and monitoring tasks for poultry producers, but on-site operations and animal care still rely on humans. Biosecurity risks limit remote management, and production management roles may be enhanced.
-
 Starting as a stockperson, can advance to farm supervisor, production manager, or own a farm. Continuing education enhances skills.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Starting as a stockperson, can advance to farm supervisor, production manager, o
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Low likelihood, as the occupation is usually not in shortage, requiring emplo
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/poultry-producer/IE)**

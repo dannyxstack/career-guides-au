@@ -54,8 +54,6 @@ Painters (visual arts) in Canada primarily work as freelancers or part-time, sel
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core creative work of visual artists (concept, style, emotional expression) is hard to fully replace by AI in the short term, but commercial illustration, basic design, and batch generation will be significantly impacted by AI. Meanwhile, AI tools offer new creative mediums and efficiency tools. Entry-level competition will intensify, but senior artists can leverage AI to amplify their creativity.
-
 Career progression usually starts as a freelance painter, building a portfolio and reputation, then moving into gallery representation, art management, or art education. Some artists enhance competitiveness through a Master of Fine Arts (MFA) or professional training, and pivot to public art, art therapy, or digital art. Becoming a renowned artist or entering the high-end commercial art market requires long-term accumulation.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression usually starts as a freelance painter, building a portfolio a
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, British Columbia) have arts-specific Provincial Nominee Programs requiring employer sponsorship or meeting specific conditions, potentially needing provincial certification |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program: can apply if you have a job offer from an arts-related employer in an Atlantic province, but opportunities are limited |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: No mandatory education requirement, but many painters have a BFA or community
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painters-sculptors-and-other-visual-artists/CA)**

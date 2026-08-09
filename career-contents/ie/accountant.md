@@ -55,8 +55,6 @@ Accountants handle financial records, tax returns, audits, and financial analysi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Junior accountants can advance to senior accountant, finance manager, or financial controller, and can also obtain chartered accountant (ACA/ACCA) qualifications to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Junior accountants can advance to senior accountant, finance manager, or financi
 | Subclass General Employment P (General Employment Permit) | Applies to general positions with annual salary over €30,000, requires labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, with an annual salary of around €40,000, providing intra-EU mobility. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: The main pathways are the Critical Skills Employment Permit or the General Em
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/IE)**

@@ -4,8 +4,6 @@
 
 A professional who plans and operates conferences, exhibitions, meetings, and events for companies and organizations, coordinating overall aspects such as budget, schedule, and vendor selection.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who plans and operates conferences, exhibitions, meetings, and ev
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance and streamline repetitive booking, scheduling, and data analysis tasks for event planners, but creative planning and human-centered work will become even more valuable, expanding their role.
-
 Usually start as an employee at an agency or planning firm, then advance to team leader, department head, or PM (Project Manager), or switch to freelancing or starting a business.
 
 **Tasks most exposed to AI:**
@@ -96,18 +92,9 @@ Usually start as an employee at an agency or planning firm, then advance to team
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Capable of planning and operating as a professional event planner; needs corporate invitation |
-| Subclass E-9 (Non-professional Employment) | Only possible for event assistance tasks; limited |
-| Subclass F-2 (Residence) | Allows skilled workers free employment; all areas of event planning possible |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans; event planning possible |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -151,12 +138,12 @@ A: Low. Creative planning, negotiation, and on-site problem-solving require huma
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-planner/KR)**

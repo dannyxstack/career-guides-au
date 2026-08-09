@@ -4,8 +4,6 @@
 
 A professional who evaluates the value of various assets such as real estate, machinery, and ships, and produces appraisal reports, calculating objective value through legal and economic analysis.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who evaluates the value of various assets such as real estate, ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in basic data analysis for appraisal, but legal judgment and value assessment require human experts, making full replacement unlikely.
-
 Typically gain experience at appraisal corporations or offices, advancing to senior appraiser after 5-10 years, then possible independence by starting a practice or becoming a partner.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Typically gain experience at appraisal corporations or offices, advancing to sen
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible when performing professional duties at appraisal corporations, but employment visa issuance is limited. |
-| Subclass F-2 (Residence (F-2)) | Can switch to points-based system after long-term stay. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: Appraisers require a domestic license and a deep understanding of the languag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/certified-appraiser/KR)**

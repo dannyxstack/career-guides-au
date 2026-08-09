@@ -52,8 +52,6 @@ Data scientists extract insights from massive data using statistics, machine lea
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Data scientists can advance from data analyst to chief data scientist or AI lead, or laterally transition to machine learning engineer or data product manager.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Data scientists can advance from data analyst to chief data scientist or AI lead
 | Subclass 189 (Skilled Independent) | Independent skilled migration, requires EOI score of 65 or above |
 | Subclass 190 (Skilled Nominated) | State nominated skilled migration, add 5 points after nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Data scientists focus on data exploration, statistical modeling, and business
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-scientist/AU)**

@@ -1,10 +1,8 @@
-# Dental Hygienist 职业分析 · 日本
+# 牙科保健师（Dental Hygienist）职业分析 · 日本
 
-**职业代码: 146 (JSCO)**
+**职业代码：146 (JSCO)**
 
-A professional who performs preventive treatments such as scaling and fluoride application, assists in dental procedures, and provides oral hygiene instruction under the guidance of a dentist.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在牙医指导下，进行洗牙、涂氟等预防性治疗，协助牙科操作，并提供口腔卫生指导的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who performs preventive treatments such as scaling and fluoride a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Dental Hygienist Vocational School (Daytime) | 3年 | $3,000,000~$5,000,000（Estimated tuition. If entirely self-funded.） |
-| Dental Hygienist Junior College | 3年 | $2,500,000~$4,500,000（Estimated tuition. If entirely self-funded.） |
+| 口腔卫生师职业学校（日间） | 3年 | $3,000,000~$5,000,000（预估学费。如果完全自费。） |
+| 牙科卫生师专科学校 | 3年 | $2,500,000~$4,500,000（预估学费。如果完全自费。） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who performs preventive treatments such as scaling and fluoride a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Examination for Dental Hygienists | Ministry of Health, Labour and Welfare | 必备 | Required. Eligible to take after graduating from a vocational school or junior college. |
-| Dental Hygienist License | Prefectural Governor | 必备 | Must register for the license after passing the national exam. |
+| 全国牙科保健师资格考试 | 厚生劳动省 | 必备 | 必须。从职业学校或短期大学毕业后有资格参加考试。 |
+| 牙科卫生师执照 | 县长 | 必备 | 通过国家考试后必须注册执照。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 132,000. Due to increasing dental needs from an aging population and the spread of preventive dentistry, stable demand is expected in the medium to long term. Job openings are particularly abundant in urban areas.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 132,000。由于老龄化带来的牙科需求增加以及预防性牙科的普及，中长期内需求稳定。城市地区职位空缺尤其丰富。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A professional who performs preventive treatments such as scaling and fluoride a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,200,000~$3,800,000 | Clinic employment, annual salary example |
-| Intermediate Level (4–10 years) | $3,800,000~$4,800,000 | Takes on treatments and guidance with experience. |
-| Advanced Level (10+ years) | $4,500,000~$5,800,000 | Works as a manager or specialist. |
+| 入门级（0–3年） | $3,200,000~$3,800,000 | 诊所就业，年薪案例 |
+| 中级（4-10 年） | $3,800,000~$4,800,000 | 随经验承担治疗和指导工作。 |
+| 高级（10年以上） | $4,500,000~$5,800,000 | 担任经理或专家职务。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot fully replace dental hygienists but enhances efficiency and quality via patient data analysis, treatment planning optimization, and educational tools.
+AI无法完全取代牙科卫生师，但通过患者数据分析、治疗计划优化和教育工具，可提高效率和质量。
 
-In the early career, work primarily involves assisting, but with experience, paths open to becoming a preventive dentistry specialist, manager, or instructor at educational institutions.
+职业生涯初期主要担任辅助工作，但经验积累后可成为预防牙科专家、经理或教育机构讲师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple calculus removal (potential automation by AI robots)
-- Patient data entry
+- 简单微积分去除（可能被AI机器人自动化）
+- 患者数据录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted intraoral image diagnosis
-- Personalized prevention program proposals
-- AI chatbots for patient education
+- AI辅助口内影像诊断
+- 个性化预防方案提案
+- 用于患者教育的AI聊天机器人
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication and trust-building
-- Delicate manual techniques and tactile sense
-- Adaptable responses to individual patient situations
+- 人际沟通和信任建立
+- 精细的手工技巧和触觉
+- 针对个别患者情况的适应性应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation skills for AI diagnostic tools
-- Data-driven prevention planning
-- Patient education and counseling skills
-- Collaboration in team-based care
+- AI诊断工具操作技能
+- 数据驱动的预防规划
+- 患者教育和咨询技能
+- 团队护理中的协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Preventive dentistry
-- Geriatric dentistry
-- Home dental care
-- Dental implants
+- 预防性牙科
+- 老年牙科
+- 家庭牙科护理
+- 牙科植入物
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Dental hygienist work falls under specialized skills. Applicable to foreign personnel who have received relevant education at a university, etc. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Similar to the caregiving field, but track record of accepting dental hygienists is limited. May expand scope in the future. |
-| Subclass 技能実習 (Technical Intern Training) | Dental hygienist is not eligible for Technical Intern Training. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are good at detailed manual work
-- People who like communication
-- People who want to contribute to others' health
+- 擅长精细手工的人
+- 喜欢沟通的人
+- 想为他人健康做贡献的人
 
 **谁不适合**
-- People who are not good with blood or hygiene
-- People who cannot stand for long periods
+- 不擅长处理血液或卫生问题的人
+- 无法长时间站立的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a dental hygienist?**
-答：First year: approx. 3.2–3.8 million JPY; with 10+ years of experience: approx. 4.5–5.8 million JPY.
+**问：牙科保健员年收入是多少？**
+答：第一年：约320-380万日元；10年以上经验：约450-580万日元。
 
-**问：Can foreigners become dental hygienists in Japan?**
-答：Possible, but requires Japanese language ability (N1 equivalent) and a Japanese dental hygienist license. Must study at a vocational school and pass the national exam.
+**问：外国人能在日本成为牙科卫生士吗？**
+答：可能，但需要日语能力（N1同等水平）和日本牙科卫生师执照。必须在职业学校学习并通过国家考试。
 
-**问：How can I advance my career?**
-答：After gaining experience, you can aim to become a preventive dental specialist or manager, or become an instructor at a dental hygienist training school.
+**问：如何提升我的职业生涯？**
+答：积累经验后，可成为预防牙科专家或管理人员，或在牙科卫生员培训学校担任讲师。
 
 
 ---
@@ -144,12 +134,12 @@ In the early career, work primarily involves assisting, but with experience, pat
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dental-hygienist/JP)**

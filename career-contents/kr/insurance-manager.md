@@ -4,8 +4,6 @@
 
 A managerial position responsible for overseeing insurance product development, underwriting, claims management, and financial strategies at an insurance company to ensure organizational profitability and stability.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A managerial position responsible for overseeing insurance product development, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI is replacing some tasks such as data analysis, risk assessment, and claims processing, but its impact is mixed as human roles remain crucial for strategic decision-making and regulatory compliance.
-
 After gaining practical experience as an underwriter or claims investigator within an insurance company, one advances to department head or grows into a specialized manager by obtaining certifications.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After gaining practical experience as an underwriter or claims investigator with
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued for dispatch to overseas insurance companies or special projects as a professional in the insurance field |
-| Subclass F-2 (Residence) | Eligible for insurance management jobs as a long-term resident |
-| Subclass F-5 (Permanent Residence) | No employment restrictions as a permanent resident |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: While E-7 (Specific Activities) visas are available for skilled professionals
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-manager/KR)**

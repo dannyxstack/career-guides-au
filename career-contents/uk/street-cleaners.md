@@ -52,8 +52,6 @@ Street cleaners are responsible for cleaning public areas, collecting garbage, a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Street cleaners' repetitive sweeping tasks are highly automatable; AI and robots will take over most physical work, significantly reducing entry-level positions, but supervision and technical maintenance roles may emerge.
-
 Typically start as junior cleaners, can advance to team supervisor or sanitation equipment operator; some experienced workers may transition to waste management or environmental services.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Typically start as junior cleaners, can advance to team supervisor or sanitation
 | Subclass Skilled Worker (Skilled Worker Visa) | Not eligible, as it lacks skill requirements and salary is below general threshold. |
 | Subclass Graduate (Graduate Visa) | Not applicable; graduates for this occupation are not typically recruited. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Generally no. This occupation does not meet the skill and salary requirements
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-cleaners/UK)**

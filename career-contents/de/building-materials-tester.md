@@ -54,8 +54,6 @@ Responsible for physical and chemical performance testing of construction raw ma
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate the recording and report generation of repetitive test data, while enhancing data analysis and anomaly detection. However, on-site sampling, equipment calibration, and complex standard judgments still require human experience, leading to a divergence in the profession.
-
 Can advance from entry-level inspector to lab supervisor, quality assurance manager, or technical consultant. With experience, can move into engineering auditing or certification bodies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from entry-level inspector to lab supervisor, quality assurance mana
 | Subclass Chancenkarte (Opportunity Card) | Job search visa based on a points system, allowing entry to find employment |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, must demonstrate financial capacity. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to Laboratory Supervisor, Quality Manager, or transition to Const
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-materials-tester/DE)**

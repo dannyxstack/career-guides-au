@@ -55,8 +55,6 @@ This occupation involves maintenance, restoration, and renovation of historic an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation faces medium replacement risk due to AI automation, but repair decisions, manual craftsmanship, and historical preservation judgment remain core barriers.
-
 Career path: start as an apprentice (Ausbildung) or technician, progress to foreman (Meister) or project manager, or become a building conservation specialist or self-employed tradesperson through further education.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: start as an apprentice (Ausbildung) or technician, progress to fore
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers with a recognized German vocational qualification (Ausbildung or university degree), requiring a work contract. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job seeker visa based on a points system, implemented in 2024, allowing job search in Germany without a job offer; requires language and qualification certification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to master craftsman (Meister), technician (Techniker), or project
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-conservator-and-restorer/DE)**

@@ -53,8 +53,6 @@ Elevator mechanics are in stable demand in New Zealand, responsible for installi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
-
 Progressing from apprenticeship to licensed tradesperson, senior tradesperson, and then to supervisor or project manager. Some choose to start their own repair company or specialize in automated elevator systems.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Progressing from apprenticeship to licensed tradesperson, senior tradesperson, a
 | Subclass SMC (Skilled Migrant Category) | Apply through the 6-point system, combining qualifications and work experience, meeting salary threshold and registration requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa to accumulate work experience, usually requires employer sponsorship and salary not below the median |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Must complete a 4-year apprenticeship and obtain a national certificate, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lift-mechanic/NZ)**

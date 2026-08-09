@@ -52,8 +52,6 @@ In New Zealand, a Licensed Immigration Adviser submits visa applications to Immi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Immigration agent work is mixed under AI influence: substantial document processing and compliance checks can be automated, but strategic consulting, interpersonal communication, and legal responsibility form a solid moat; competition for entry-level roles intensifies, while senior consultants' value increases.
-
 Junior immigration advisors can advance to senior advisors or team leads; with experience, can open their own consultancy. Some move to government or education roles in policy and compliance. Continuous learning of immigration law updates and CAB certification can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior immigration advisors can advance to senior advisors or team leads; with e
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires a job offer from an accredited employer with hourly wage at or above median (NZD 29.66 in 2024). Immigration consultant roles are common at immigration companies. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, eligible for residency after 2 years of work. Immigration advisors are not currently on the Green List, but may apply if employer is accredited and position meets requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must complete a NZQA-recognized Graduate Diploma in NZ Immigration Advice (1-
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/migration-agent/NZ)**

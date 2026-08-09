@@ -4,8 +4,6 @@
 
 A nationally licensed medical professional who improves physical ailments through manual techniques and acupuncture/moxibustion. Works at orthopedic clinics, acupuncture clinics, and medical facilities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A nationally licensed medical professional who improves physical ailments throug
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI-based automatic treatment is difficult, AI may increasingly assist with supplementary tasks like interviews and medical record management.
-
 Career advancement possible through experience: independent practice or specialization (e.g., sports injury prevention). Broad career path.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Career advancement possible through experience: independent practice or speciali
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Required for foreigners to practice in Japan; relevant work experience and Japanese ability needed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Available in caregiving but not for massage, etc. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: National license, startup funds (¥5–10 million), approval of the treatment
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anma-massage-shiatsu-therapist-acupuncturist-moxibustionist-judo-orthopedist/JP)**

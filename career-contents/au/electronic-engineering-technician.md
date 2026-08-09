@@ -52,8 +52,6 @@ Electronic engineering technicians assist electronic engineers in designing, tes
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Troubleshooting and testing tasks for electronic engineering technicians face threats from AI automation, but AI will also enhance their design verification and data analysis capabilities. Meanwhile, on-site repairs, compliance responsibilities, and creative design still rely on human judgment, requiring career development towards high-value skills.
-
 Usually start as junior technician, progress to senior technician or technical supervisor after gaining experience; some move into engineering management or specialist areas (e.g., RF, embedded systems). Those with certifications and project management skills advance faster.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as junior technician, progress to senior technician or technical s
 | Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, transition to 191 permanent residence after 5 years |
 | Subclass 189 (Skilled Independent Visa) | Independent skilled migration, requires invitation and highly competitive scores |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Minimum requires completing a Certificate IV in Electronics (about 1-2 years)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-engineering-technician/AU)**

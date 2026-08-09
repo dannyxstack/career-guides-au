@@ -53,8 +53,6 @@ Operate or monitor the entire water/wastewater treatment process via control pan
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
-
 Start as a junior operator, gain experience to advance to senior operator, supervisor, or plant manager; requires state certification and ongoing technical training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as a junior operator, gain experience to advance to senior operator, super
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Most require only high school diploma; some employers prefer associate degree
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-and-wastewater-treatment-plant-and-system-operators/US)**

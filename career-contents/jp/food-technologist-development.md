@@ -52,8 +52,6 @@ A specialist responsible for food R&D, quality improvement, and new product plan
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines recipe suggestions and data analysis, but sensory evaluation of taste/texture and product design tailored to consumer preferences rely heavily on humans. AI is used as a tool to expand and enhance work.
-
 After hiring, gain experience in R&D and progress to chief → section manager → department manager. Career paths include lab director or technical director in food manufacturers. PhD holders can pursue advanced specialist routes.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ After hiring, gain experience in R&D and progress to chief → section manager �
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university education in a specialized field (e.g., food science, agriculture). General work visa. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | 70+ points under point system. R&D eligible, advantageous for permanent residency. |
-| Subclass 特定技能1号 (Specified Skilled Worker No. 1 (Manufacturing)) | Requires passing skill and Japanese tests in food manufacturing. Not suitable for R&D roles. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: Typically, study food science at university or vocational school, then join a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-technologist-development/JP)**

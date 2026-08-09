@@ -53,8 +53,6 @@ Comedians and cabaret artists entertain audiences through humorous performances,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creativity of comedians and cabaret artists is hard to replace by AI, but AI assistance in copywriting, sound production, audience analysis, etc., will significantly enhance creative efficiency; meanwhile, AI may replace some standardized or data-driven comedy content, forcing practitioners to shift towards higher-level originality and live interaction.
-
 Career progression typically starts with small local performances, gradually moving to medium-sized theaters or TV programs. Senior comedians can become directors, writers, or artistic directors; a few become media stars. Some practitioners shift to teaching or corporate entertainment training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression typically starts with small local performances, gradually mov
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically need to apply for a freelancer visa or artist visa, providing perfo
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/comedian-and-cabaret-artist/DE)**

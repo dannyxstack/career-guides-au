@@ -54,8 +54,6 @@ Automotive technicians diagnose, repair, and maintain mechanical, electrical, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Entry-level automotive technicians can advance to senior technician, workshop supervisor, or technical manager. With further study, they can become a Master Technician (Meister) or open their own repair shop.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level automotive technicians can advance to senior technician, workshop su
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows one-year entry for job seeking, suitable for those with professional qualifications or language advantages. |
 | Subclass EU Blue Card (EU Blue Card) | Only applicable when the position is recognized as expert/management level and the annual salary meets the threshold; usually not available for technicians. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must first complete IHK professional qualification certification. Then can mi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-technician/DE)**

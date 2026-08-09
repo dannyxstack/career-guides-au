@@ -4,8 +4,6 @@
 
 企業の電話交換や来客応対を担当する事務職。顧客からの問い合わせ対応や社内連絡の取り次ぎを行う。
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI音声認識と自動応答システムの普及により、単純な電話取次の多くが代替されると予想される。但し、クレーム対応や高度なコミュニケーションが必要な業務は残る。
-
 電話応接からコールセンター管理職や秘書職へのキャリアアップが可能。コミュニケーション能力を活かし、営業アシスタントなどへの転身も。
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ AI音声認識と自動応答システムの普及により、単純な電話取
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (技人国) | 事務職全般が対象。日本語能力（N2以上）と業務経験が必要。 |
-| Subclass 特定活動（外国人コールセンター） (特定活動) | 通訳・翻訳を伴う電話応接業務で可能な場合あり。 |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: 技術・人文知識・国際業務ビザで可能。ただし日本語N2以
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occ/JP)**

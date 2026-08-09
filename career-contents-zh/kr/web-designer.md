@@ -1,10 +1,8 @@
 # 网页设计师（Web Designer）职业分析 · 韩国
 
-**职业代码: 41551 (KECO)**
+**职业代码：41551 (KECO)**
 
-A professional who designs the visual aspects and user experience of websites and mobile apps, handling UI/UX design.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责网站和移动应用视觉方面及用户体验设计的专业人才，处理UI/UX设计。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who designs the visual aspects and user experience of websites an
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $12,000,000~$20,000,000（Public university standard; higher for private） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（Public university standard; higher for private） |
+| 副学士学位 | 2 年 | $12,000,000~$20,000,000（公立大学标准；私立更高） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（公立大学标准；私立更高） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who designs the visual aspects and user experience of websites an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Web Design Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory |
-| Computer Graphics Operation Technician | Human Resources Development Service of Korea | 可选 | 可选 |
+| 网页设计技术员 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制 |
+| 计算机图形操作技师 | 韩国人力资源开发服务局 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. Demand remains steady due to digital transformation and online business growth, but competition is expected to intensify with advances in AI design tools.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。数字化转型和在线业务增长使需求保持稳定，但随着AI设计工具的进步，竞争预计将加剧。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional who designs the visual aspects and user experience of websites an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $25,000,000~$35,000,000 | Pre-tax, small-medium enterprise |
-| Mid (4–9 years) | $35,000,000~$50,000,000 | Increases based on large company or expertise |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | UI/UX director or freelancer possible |
+| 初级（0-3年） | $25,000,000~$35,000,000 | 税前，中小企业 |
+| 中等（4-9年） | $35,000,000~$50,000,000 | 根据大公司或专业技能增加 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | UI/UX总监或自由职业者可能 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI design tools (Figma AI, Adobe Firefly, etc.) replace simple design tasks, but user research and strategic UX design still require human roles.
+AI设计工具（如Figma AI、Adobe Firefly）取代简单设计任务，但用户研究和战略UX设计仍需人类角色。
 
-Starting as a junior designer, career can progress to senior designer, UI/UX director, or freelancer.
+从初级设计师起步，职业可发展为高级设计师、UI/UX总监或自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Banner Image Production
-- Basic Template Design
-- Color and Font Combinations
+- 横幅图像制作
+- 基本模板设计
+- 颜色和字体组合
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- User Flow Design
-- A/B Test Design
-- Design System Building
+- 用户流程设计
+- A/B测试设计
+- 设计系统构建
 
-**人类护城河:**
+**人类护城河：**
 
-- User Empathy
-- Brand Strategy Understanding
-- Creative Problem Solving
+- 用户同理心
+- 品牌策略理解
+- 创造性问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced Figma Usage
-- User Research
-- HTML/CSS Basics
-- Data-Driven Design
+- 高级Figma使用
+- 用户研究
+- HTML/CSS基础
+- 数据驱动设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- UI/UX design
-- Responsive web
-- Web Accessibility
-- Design System
+- UI/UX设计
+- 响应式网页
+- 网页无障碍
+- 设计系统
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for professional designer jobs; requires employer recommendation |
-| Subclass D-10 (Job Seeking) | Possible after graduation and job hunting in design major |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent visual sense
-- People interested in user experience
-- People who quickly learn the latest web trends
+- 具有优秀视觉感知能力的人
+- 对用户体验感兴趣的人
+- 快速掌握最新网络趋势的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who prioritize originality over teamwork
+- 将原创性置于团队合作之上的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a web designer?**
-答：Approximately 30 million won for less than 3 years, 45 million for 5-10 years, 60 million for over 10 years.
+**问：网页设计师的平均薪资是多少？**
+答：3年以下约3000万韩元，5-10年约4500万，10年以上约6000万。
 
-**问：How can foreigners get a job as a web designer in Korea?**
-答：An E-7 visa is required, along with a degree and experience.
+**问：外国人如何在韩国找到网页设计师的工作？**
+答：需要E-7签证，以及学位和经验。
 
-**问：What is the outlook for web designers?**
-答：Demand exists due to the expansion of the digital environment, but competition has intensified due to AI tools, making expertise important.
+**问：网页设计师的前景如何？**
+答：由于数字环境扩展，存在需求，但因AI工具竞争加剧，专业知识变得重要。
 
 
 ---
@@ -144,12 +135,12 @@ Starting as a junior designer, career can progress to senior designer, UI/UX dir
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/web-designer/KR)**

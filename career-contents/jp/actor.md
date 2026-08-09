@@ -4,8 +4,6 @@
 
 A profession that performs roles based on scripts in film, television, stage, etc., delivering emotion and empathy to audiences and viewers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A profession that performs roles based on scripts in film, television, stage, et
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can synthesize an actor's expressions and voice, but humans have an advantage in emotional expression and improvisation. However, extras and some voice acting roles may be replaced.
-
 Career starts with theater company membership or auditions, progressing to lead roles or directing after gaining experience. Freelance is common.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Career starts with theater company membership or auditions, progressing to lead 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 興行 (Entertainment Visa) | For foreigners engaging in artistic activities. Performance contract required. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | For advanced acting instruction, etc. Limited applicability. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: Not mandatory, but it's common to learn basics at vocational schools or theat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/JP)**

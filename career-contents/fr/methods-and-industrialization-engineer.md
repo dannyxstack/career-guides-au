@@ -53,8 +53,6 @@ Responsible for optimizing production processes, designing manufacturing workflo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 After starting as a Methods Engineer, you can be promoted to Industrialization Project Manager, Manufacturing Engineering Manager, or Industrial Director. You can also turn to supply chain management or lean production specialists.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ After starting as a Methods Engineer, you can be promoted to Industrialization P
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Ca (EU Blue Card / Talent Passport) | Suitable for high-skilled positions with an annual salary ≥ €53,545 (2025), allowing quick acquisition of 4-year residency. |
-| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, proof of job shortage or compliance with labor market testing. |
-| Subclass Recherche d'emploi / (Job Search / Business Creation) | French master's graduates can apply for a 12-month residence permit to find work or start a business. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Academic assessment through ENIC-NARIC is required, and science and engineeri
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/methods-and-industrialization-engineer/FR)**

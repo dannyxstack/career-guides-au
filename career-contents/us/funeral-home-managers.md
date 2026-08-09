@@ -53,8 +53,6 @@ Plan, direct, or coordinate funeral home services or resources, including pricin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Funeral hosting, due to its highly emotional and customised nature, is hard for AI to fully replace core roles, but administrative, documentation, and client communication tools will boost efficiency, potentially lowering entry-level barriers.
-
 Typically start as a funeral director or assistant, gain experience and advance to manager, or develop into a regional director or own funeral home.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as a funeral director or assistant, gain experience and advance 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Demand stable, growth from aging, but limited promotion opportunities, mostly
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-home-managers/US)**

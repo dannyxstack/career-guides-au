@@ -55,8 +55,6 @@ Archivists collect, organise, preserve and provide access to archival materials,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
-
 Junior file managers can advance to department heads or chief archivists, and can also transition to digital archive management or cultural heritage management. Continuous learning of digital technology and data protection regulations is required.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Junior file managers can advance to department heads or chief archivists, and ca
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled workers with recognized professional qualifications (e.g., a degree in archival science). Requires a German employer contract and qualification recognition. |
 | Subclass Job Seeker (Job Seeker Visa) | Permits holders to stay in Germany for up to 6 months to seek work. Must prove language proficiency and sufficient living funds. Suitable for applicants with at least a bachelor's degree. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can be promoted from junior archivist to department head, chief archivist, or
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivist/DE)**

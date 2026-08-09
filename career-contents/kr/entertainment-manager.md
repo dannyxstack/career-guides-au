@@ -4,8 +4,6 @@
 
 A professional manager who supports the overall management of celebrities such as singers and actors, including schedule coordination, contracts, public relations, and external affairs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional manager who supports the overall management of celebrities such a
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI assists managers in scheduling, translation, data analysis, etc., but human intuition and relationship-centered negotiation are irreplaceable, so the role is expected to expand.
-
 Typically start as an assistant manager at an agency, then move up to regular manager, team leader, or transition into planning/marketing. Also possible to move to independent agencies.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Typically start as an assistant manager at an agency, then move up to regular ma
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible for specialized entertainment professionals |
-| Subclass F-2 (F-2 (Residence)) | Allowed for long-term residents, few activity restrictions |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A Class 1 driver's license is required; experience is valued more than relate
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/entertainment-manager/KR)**

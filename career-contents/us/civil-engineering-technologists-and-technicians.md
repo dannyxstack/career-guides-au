@@ -51,8 +51,6 @@ Assist civil engineers with structural design, construction supervision, and fac
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Can progress from junior technician to senior technician, project manager, or transition to civil engineer (requires bachelor's degree + PE license).
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior technician to senior technician, project manager, or tr
 | Subclass H-1B (H-1B Specialty Occupations) | Common pathway: requires bachelor's or equivalent, employer sponsorship, limited quotas. |
 | Subclass EB-3 (Employment-Based Third Preference) | Green card for skilled workers or professionals, requires PERM labor certification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, but requires employer sponsorship with a bachelor's degree or equivalent
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-technologists-and-technicians/US)**

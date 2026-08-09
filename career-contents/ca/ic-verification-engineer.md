@@ -51,8 +51,6 @@ IC verification engineers use SystemVerilog/UVM to set up verification environme
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over repetitive tasks such as test case generation and coverage analysis, but verification engineers will still be responsible for architecture design, debugging complex errors, and formulating verification strategies, shifting from manual execution to tool supervision and intellectual arbitration.
-
 Canada's SoC-level verification, low power consumption, and security verification have become key priorities; AI improves test generation and debugging efficiency, while methodology and coverage convergence remain dominated by engineers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Canada's SoC-level verification, low power consumption, and security verificatio
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Provincial nomination bonus points channel |
 | Subclass GTS (Global Talent Pass) | Global Talent Stream: Two-week expedited work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow Canada's
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ic-verification-engineer/CA)**

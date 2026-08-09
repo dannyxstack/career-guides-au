@@ -55,8 +55,6 @@ Responsible for overseeing the operation and maintenance of building technical s
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on facility managers (FMs) is twofold: routine admin, data analysis, and compliance monitoring tasks are easily automated, but on-site emergency response, supplier negotiation, and cross-department coordination, which rely on interpersonal trust and physical presence, are hard to replace. Overall, the role will not be fully replaced, but focus will shift to high-value decisions and exception handling.
-
 Can advance from technician to senior supervisor or facilities manager, or through continuing education become an energy consultant or building automation specialist. Some move into project management or self-employment.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Can advance from technician to senior supervisor or facilities manager, or throu
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Can advance to Facility Manager, Technical Director, or through further study
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-technology-supervisor/DE)**

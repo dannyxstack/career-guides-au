@@ -53,8 +53,6 @@ Outdoor adventure instructors in New Zealand lead activities such as paragliding
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
-
 Junior coaches can advance to senior coach, team leader, or trainer. With experience, they can move into outdoor education, risk management, or start their own outdoor activity company.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior coaches can advance to senior coach, team leader, or trainer. With experi
 | Subclass AEWV (Accredited Employer Work Visa) | Employer must be accredited; no Green List shortcut, but can switch to resident visa. |
 | Subclass Green List T2 (Green List Tier 2) | Not on the current Green List, but may be adjusted in the future. Cannot apply directly at present. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Start as a junior coach, then progress to senior coach, team leader, or train
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/outdoor-adventure-instructor/NZ)**

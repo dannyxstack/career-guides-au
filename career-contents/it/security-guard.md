@@ -51,8 +51,6 @@ Security personnel are responsible for protecting property and people, carrying 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Security work is not easily fully replaced, but AI will take over tasks such as fixed-post monitoring, electronic patrols, and basic visitor registration, leading to a reduction in entry-level positions. Meanwhile, skills such as complex emergency response, manual patrol judgment, and customer service are enhanced by AI, requiring improved human-machine collaboration.
-
 Can advance to security supervisor, security manager, or transition to specialized security fields (e.g., cash escort). Some become private detectives or join law enforcement agencies through exams.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Can advance to security supervisor, security manager, or transition to specializ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, but security guards usually do not meet salary requirements (must be 1.5 times the average wage) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply for a work visa through annual quotas, requiring employer sponsorship |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Must complete security training and pass the Department of Home Affairs exam 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guard/IT)**

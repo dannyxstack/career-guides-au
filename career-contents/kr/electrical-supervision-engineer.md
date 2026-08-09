@@ -4,8 +4,6 @@
 
 An engineer who supervises whether construction is carried out appropriately according to design documents and specifications of electrical works, and manages quality and safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ An engineer who supervises whether construction is carried out appropriately acc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used for site automation and quality inspection but cannot fully replace the judgment and experience of supervisors; work is expected to be supplemented.
-
 Starting as a junior engineer, one can advance to intermediate and senior supervisors, and upon obtaining a professional engineer license, can also work as a chief supervisor.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as a junior engineer, one can advance to intermediate and senior superv
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to foreigners with professional knowledge/skills; available in electrical supervision field |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents with few employment restrictions; can work in supervision |
-| Subclass F-4 (F-4 (Overseas Korean)) | Issued to overseas Koreans; most jobs allowed except simple labor |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: It's not mandatory but advantageous for employment and promotion, especially 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-supervision-engineer/KR)**

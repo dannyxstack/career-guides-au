@@ -4,8 +4,6 @@
 
 A skilled trade that cuts, bends, and welds metal sheets to manufacture automobile and aircraft parts, building materials, etc. Reads blueprints and finishes precision products through manual and machine processing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A skilled trade that cuts, bends, and welds metal sheets to manufacture automobi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/robot automation advances in some processes, but complex bending/welding and on-site adjustments require human skill. Demand for skilled workers continues.
-
 Start as an apprentice and obtain higher-level skills certification. Possible career paths include factory manager or independent business owner. Career advancement can be achieved by learning CAD/CAM and robot operation.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ Start as an apprentice and obtain higher-level skills certification. Possible ca
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Specified Skilled Worker (i) in construction. Pass exam and N4+ Japanese required. Max 5-year stay. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Construction)) | Family accompaniment and permanent residence possible. New in 2023. Requires skilled work experience. |
-| Subclass 技能実習2号 (Technical Intern Training (Construction)) | Construction trades under internship system. 3 years. No job change allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires advanced expertise. Covers engineers in design/management roles. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +135,12 @@ A: Obtain Grade 1 skill certification, secure capital and clients. File business
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-worker/JP)**

@@ -51,8 +51,6 @@ Responsible for planning, implementing, and evaluating vocational training withi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Enterprise training and vocational education specialists face mixed prospects: AI can automate content development, progress tracking, etc., but the core of roles requiring interpersonal guidance, assessment, and coordination is not easily replaced. Proactive adoption of AI tools is needed to enhance competitiveness.
-
 Can advance from training specialist to training supervisor, HR development manager, or transition to vocational education policy and consulting; pursuing a Master's in Education Management can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from training specialist to training supervisor, HR development mana
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled workers with vocational qualifications (e.g., AEVO certificate) without the high salary requirement of the Blue Card |
 | Subclass Job Seeker (Job Seeker Visa (Chancenkarte)) | Can first obtain a 6-month job-seeking visa, then switch to a work visa after finding a matching job |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from training specialist to training supervisor, HR development m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-education-and-training-specialist/DE)**

@@ -53,8 +53,6 @@ Pharmacists dispense prescription medications, provide medication consultation a
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 Start as a community pharmacy or hospital pharmacist, progress to pharmacy manager, clinical pharmacist, or specialist pharmacist, or move into pharmaceutical industry, drug regulation, and other fields.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a community pharmacy or hospital pharmacist, progress to pharmacy manag
 | Subclass General Employment P (General Employment Permit) | Applicable to general work, must meet salary and labour market testing. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU workers, requiring high salary and recognized qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Available via Critical Skills Employment Permit or EU Blue Card, both without
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/IE)**

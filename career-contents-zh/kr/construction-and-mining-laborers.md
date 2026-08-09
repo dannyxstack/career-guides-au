@@ -1,10 +1,8 @@
 # Construction and Mining Laborers 职业分析 · 韩国
 
-**职业代码: 70601 (KECO)**
+**职业代码：70601 (KECO)**
 
-This occupation involves performing simple support tasks at construction and mining sites, primarily physical labor such as material transport, site cleaning, and excavation assistance.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及在建筑和采矿现场执行简单的支持任务，主要是体力劳动，如材料运输、现场清理和挖掘协助。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves performing simple support tasks at construction and min
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 义务教育 | 0年 | $0~$0（No academic background required） |
-| Informal on-site training | 1个月 | $0~$500,000（In-house training or construction safety education） |
+| 义务教育 | 0年 | $0~$0（无学历要求） |
+| 非正式现场培训 | 1个月 | $0~$500,000（内部培训或建筑安全教育） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation involves performing simple support tasks at construction and min
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction safety education certificate | Ministry of Employment and Labor | 必备 | Mandatory at construction sites |
-| 叉车操作员 | Human Resources Development Service of Korea | 可选 | 优先考虑 |
+| 施工安全教育证书 | 雇佣劳动部 | 必备 | 建筑现场强制要求 |
+| 叉车操作员 | 韩国人力资源开发服务局 | 可选 | 优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 250,000. Vulnerable to construction economic fluctuations, but steady demand is expected at some sites due to labor shortages from an aging population. The mining sector is region-specific.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 250,000。易受建筑行业经济波动影响，但由于人口老龄化导致的劳动力短缺，部分工地的需求将保持稳定。采矿行业具有区域特定性。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,87 +38,79 @@ This occupation involves performing simple support tasks at construction and min
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Based on hourly minimum wage, 5 days a week |
-| 中级(3-7年) | $30,000,000~$38,000,000 | Includes overtime at some sites |
-| 高级（7年以上） | $35,000,000~$45,000,000 | Approaching skilled craftsman level |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于小时最低工资，每周5天 |
+| 中级(3-7年) | $30,000,000~$38,000,000 | 部分场地包含加班 |
+| 高级（7年以上） | $35,000,000~$45,000,000 | 接近熟练工匠水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can replace some simple tasks (material transport, sorting, etc.), but the complex environment and non-standardized work on construction sites still require human presence, making full replacement difficult.
+AI和自动化可以替代一些简单任务（物料运输、分拣等），但建筑工地的复杂环境和非标准化工作仍需人工，完全替代困难。
 
-With skilled training, transition to construction craftsmen (plasterers, carpenters, etc.) is possible, but most remain in unskilled labor positions with limited promotion opportunities.
+通过技能培训，可转型为建筑工匠（抹灰工、木工等），但多数仍处于非技术岗位，晋升机会有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Material transport and organization
-- Simple excavation assistance
+- 物料运输与整理
+- 简单挖掘辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Heavy equipment operation
-- Safety monitoring
+- 重型设备操作
+- 安全监控
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability
-- Non-standard work handling
-- Teamwork
+- 现场适应能力
+- 非标准工作处理
+- 团队合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Heavy equipment driving
-- Basic electrical/welding
-- Safety management
+- 重型设备驾驶
+- 基础电气/焊接
+- 安全管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Simple construction site labor
-- Mining assistant
-- Deepening labor shortage
-- aging society
+- 简单建筑工地劳动
+- 采矿助理
+- 劳动力短缺加剧
+- 老龄化社会
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Construction simple labor possible, need Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Limited to skilled manual workers only |
-| Subclass F-2 (Residence) | Allowed for long-term residents, no employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength who can endure outdoor work
-- People who are patient with simple repetitive tasks
+- 体力好且能承受户外工作的人员
+- 对简单重复性任务有耐心的人
 
 **谁不适合**
-- People with safety insensitivity
-- People who avoid physical labor
+- 安全意识薄弱的人
+- 避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average monthly salary of a construction laborer?**
-答：About 2 to 2.5 million KRW (before tax), near minimum wage, varies by site
+**问：建筑工人的平均月薪是多少？**
+答：约200万至250万韩元（税前），接近最低工资，因工作场所而异
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Possible with E-9 (Non-professional Employment) visa, but requires allocation under Employment Permit System; possible conversion to E-7 based on skill level
+**问：外国人能获得此职业的工作签证吗？**
+答：可用E-9（非专业就业）签证，但需在雇佣许可制度下分配；可根据技能水平转换为E-7
 
 
 ---
@@ -138,12 +128,12 @@ With skilled training, transition to construction craftsmen (plasterers, carpent
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-and-mining-laborers/KR)**

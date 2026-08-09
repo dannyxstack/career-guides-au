@@ -53,8 +53,6 @@ Precision metal machining technicians (CNC machine operators) have stable demand
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Junior operator → programmer → senior technician/supervisor → production manager. Can also transition to mold design or quality control, or establish contract manufacturing companies. Salary increases with CNC multi-axis programming skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior operator → programmer → senior technician/supervisor → production m
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: points for education and work experience, requires employer offer and meeting salary threshold |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for non-shortage roles, up to 3 years, renewable |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires New Zealand National Certificate (Level 4) in Precision Meta
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precision-metal-trades-worker/NZ)**

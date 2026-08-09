@@ -4,8 +4,6 @@
 
 A financial professional who generates profits by trading stocks, bonds, derivatives, etc. in the securities market. Typically works at securities firms, asset management companies, banks, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A financial professional who generates profits by trading stocks, bonds, derivat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI and algorithmic trading proliferate, the role of traditional manual trading dealers is diminishing. While repetitive decision-making like high-frequency trading, risk management, and portfolio optimization is replaced by AI, strategic design and handling exceptional situations remain human tasks.
-
 Starting as a trader or analyst, one can advance to senior dealer, department head, or head dealer. At large securities firms, overseas IB experience is advantageous, and professional certifications like CFA aid promotion.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as a trader or analyst, one can advance to senior dealer, department he
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for financial professionals; requires securities firm recommendation |
-| Subclass F-2 (F-2 (Residence)) | Obtainable through points-based immigration, advantageous for long-term stay |
-| Subclass F-5 (Permanent residence) | Can obtain permanent residency upon meeting certain conditions |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: E-7 is common, requiring a securities company sponsor. Can be converted to F-
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/securities-dealer/KR)**

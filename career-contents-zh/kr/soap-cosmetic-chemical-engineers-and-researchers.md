@@ -1,10 +1,8 @@
-# Soap/Cosmetic Chemical Engineers and Researchers 职业分析 · 韩国
+# 肥皂/化妆品化学工程师及研究员（Soap/Cosmetic Chemical Engineers and Researchers）职业分析 · 韩国
 
-**职业代码: 15414 (KECO)**
+**职业代码：15414 (KECO)**
 
-These are professionals who research raw material development, formulation design, quality control, and production processes for household chemical products such as soap, detergents, and cosmetics.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这些专业人士研究肥皂、洗涤剂、化妆品等家居化学品的原料开发、配方设计、质量控制和生产工艺。
 
 
 ---
@@ -13,9 +11,9 @@ These are professionals who research raw material development, formulation desig
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（High school graduate hiring is mainly for production positions; research positions require at least a bachelor's degree.） |
-| University (Chemistry, Chemical Engineering, Cosmetic Engineering) | 4年 | $8,000,000~$20,000,000（Four-year university tuition (varies by national/public vs. private)） |
-| Master's Degree (Graduate School) | 2 年 | $10,000,000~$30,000,000（Master's program tuition (varies by university and scholarship)） |
+| 高中文凭 | 0年 | $0~$0（高中毕业生招聘主要用于生产岗位；研究岗位至少需要学士学位。） |
+| 大学（化学、化学工程、化妆品工程） | 4年 | $8,000,000~$20,000,000（四年制大学学费（依国立/公立 vs. 私立而异）） |
+| 硕士学位（研究生院） | 2 年 | $10,000,000~$30,000,000（硕士课程学费（因大学和奖学金而异）） |
 
 ---
 
@@ -23,19 +21,19 @@ These are professionals who research raw material development, formulation desig
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 化学工程师 | Human Resources Development Service of Korea | 可选 | A national technical qualification in the field of chemical engineering, advantageous for research and development positions. |
-| Chemical Analyst | Human Resources Development Service of Korea | 可选 | Helpful for research tasks such as chemical analysis. |
-| Master's degree or higher | 大学 | 可选 | Large company research institutes prefer candidates with a master's degree or higher. |
-| Hazardous Materials Technician | Human Resources Development Service of Korea | 可选 | Not legally required for handling chemicals, but advantageous. |
+| 化学工程师 | 韩国人力资源开发服务局 | 可选 | 化学工程领域的国家技术资格，对研发岗位有利。 |
+| 化学分析师 | 韩国人力资源开发服务局 | 可选 | 有助于化学分析等研究任务。 |
+| 硕士及以上学历 | 大学 | 可选 | 大型公司研究机构偏好硕士或以上学历的候选人。 |
+| 危险材料技术员 | 韩国人力资源开发服务局 | 可选 | 处理化学品虽非法定要求，但具备有利。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Demand for R&D personnel continues due to increasing demand for eco-friendly and functional cosmetics, but simple experimental jobs are expected to decrease due to automation.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。由于对环保和功能性化妆品需求增加，研发人员需求持续，但简单实验工作因自动化预计减少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,95 +41,86 @@ These are professionals who research raw material development, formulation desig
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$40,000,000 | Small/medium enterprise basis; large enterprises: 40M-50M KRW |
-| 中级（4-9年） | $45,000,000~$60,000,000 | Principal researcher level; large enterprises: 60M-80M KRW |
-| Advanced (10+ years) | $65,000,000~$90,000,000 | Senior researcher level; large enterprises: 100M+ KRW possible |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 中小企业标准；大企业：40M-50M KRW |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 首席研究员级别；大型企业：6000万-8000万韩元 |
+| 高级（10年以上） | $65,000,000~$90,000,000 | 高级研究员级别；大型企业可达1亿韩元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation have greatly increased efficiency in cosmetic R&D, but creative formulation design and consumer sensory evaluation still rely heavily on human experts, making this a career where research capabilities are strengthened rather than replaced by AI.
+人工智能和自动化极大地提高了化妆品研发的效率，但创意配方设计和消费者感官评估仍然严重依赖人类专家，这使得这一职业的研究能力得到加强而非被取代。
 
-Most enter with a master's or doctoral degree in science or engineering, then advance from researcher to senior researcher, principal researcher, and chief researcher. Some transition to quality control or production management.
+多数以理工科硕士或博士学位入职，然后从研究员晋升为高级研究员、首席研究员和总研究员。部分转岗至质量控制或生产管理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple mixing and blending tasks
-- Basic property measurement repetitive experiments
-- Documentation and data recording
+- 简单的混合和搅拌任务
+- 基础物业测量重复实验
+- 文档与数据记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- New raw material screening
-- Formulation optimization design
-- Consumer preference prediction
+- 新原材料筛选
+- 配方优化设计
+- 消费者偏好预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative formulation innovation
-- Human Safety Assessment and Clinical Trials
-- Regulatory Response and Licensing Strategy
+- 创意配方创新
+- 人类安全评估与临床试验
+- 监管响应与许可策略
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning Basics
-- Python Programming
-- Design of Experiments (DOE)
-- Safety Regulations for Household Chemical Products
+- 机器学习基础
+- Python编程
+- 实验设计（DOE）
+- 家用化学品安全法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly cosmetics
-- Functional cosmetics
-- Customized cosmetics
-- Naturally derived ingredients
+- 环保化妆品
+- 功能性化妆品
+- 定制化妆品
+- 天然衍生成分
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For professional research personnel; applicable for cosmetic R&D positions |
-| Subclass D-2 (Study) | International students majoring in chemistry/cosmetic engineering; switch to D-10 after graduation |
-| Subclass F-2 (Residence) | Pre-permanent residence stage; free stay; applicable after domestic degree/career |
-| Subclass F-4 (Overseas Korean) | Overseas Korean (ethnic Korean foreigner) employment visa; research positions possible |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People deeply interested in chemical and cosmetic engineering
-- People who are meticulous and patient in experiments and analysis
-- People with creative ideas for new product development
+- 对化学与化妆品工程深感兴趣的人
+- 实验和分析中细致耐心的人
+- 拥有新产品开发创意的人
 
 **谁不适合**
-- People who find repetitive experimental work tedious
-- People who dislike chemical odors or safety regulations
+- 觉得重复实验工作枯燥的人
+- 不喜欢化学气味或安全规定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a soap/cosmetic researcher?**
-答：For small and medium-sized enterprises, it is 30-40 million KRW; for large corporations, 40-50 million KRW.
+**问：肥皂/化妆品研究员的起薪是多少？**
+答：中小企业3000-4000万韩元，大企业4000-5000万韩元。
 
-**问：What visa does a foreigner need to work in this occupation in Korea?**
-答：For professional research positions, the E-7 visa is suitable, and after studying, you can switch to a D-10 job-seeking visa or F-2 residence visa.
+**问：外国人在韩国从事此职业需要什么签证？**
+答：对于专业研究职位，E-7签证合适，学习后可转为D-10求职签证或F-2居住签证。
 
-**问：What is important for promotion in this job?**
-答：A master's degree or higher, research papers, and new product development performance are important, and English proficiency also helps.
+**问：此工作晋升的关键是什么？**
+答：硕士学位或以上、研究论文和新产品开发业绩很重要，英语能力也有帮助。
 
 
 ---
@@ -149,12 +138,12 @@ Most enter with a master's or doctoral degree in science or engineering, then ad
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/soap-cosmetic-chemical-engineers-and-researchers/KR)**

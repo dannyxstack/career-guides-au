@@ -55,8 +55,6 @@ Industrial designers create the appearance and functionality of industrial produ
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will revolutionize the visualization and modeling processes of industrial design, but the value of humans in creativity, user insight, and cross-disciplinary collaboration becomes more prominent; practitioners need to accelerate their transition to strategic design.
-
 Sustainable design (Circular Economy Design) and Life Cycle Assessment (LCA) are the most valued design skills among large manufacturers in 2025–2026. AI-assisted design (Generative Design in Fusion 360/Grasshopper) is transforming industrial design workflows.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Sustainable design (Circular Economy Design) and Life Cycle Assessment (LCA) are
 | Subclass 189 (SkillSelect Independent) | Invitation-based, skills assessment + EOI required |
 | Subclass 190 (Skilled Nominated) | State nomination; VIC/NSW manufacturing design roles |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -173,12 +169,13 @@ A: UX designers have a larger job market (Seek ~1,000 vs industrial design ~400)
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-designer/AU)**

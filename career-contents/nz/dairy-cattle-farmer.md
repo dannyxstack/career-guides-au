@@ -51,8 +51,6 @@ Manage daily operations of a dairy farm, including feeding, breeding, health man
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Starting as a junior stockman, advancing to herd manager, farm manager, and senior roles as farm owner or consultant. With experience, can migrate via the Green List for long-term residency.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Starting as a junior stockman, advancing to herd manager, farm manager, and seni
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: No formal qualification is usually required, but relevant agricultural certif
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-cattle-farmer/NZ)**

@@ -55,8 +55,6 @@ Industrial foundry workers operate casting equipment to manufacture metal castin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial foundry workers face mixed prospects with AI automation: monitoring and quality inspection tasks in the casting process are at high risk of AI replacement, but complex manual tasks such as mold adjustment and defect handling still rely on human experience. Meanwhile, AI can significantly improve melting parameter optimization and defect prediction capabilities.
-
 Career development can progress from operator to foreman or technician, or through further study become a foundry technology engineer or production manager. After dual training, you can also specialize in mold making or materials science.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career development can progress from operator to foreman or technician, or throu
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Requires recognized professional qualifications, employer sponsorship, no salary cap. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to enter the country to find work, requires basic German and qualification recognition |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can be promoted to foreman, casting technician, or production manager, and ca
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-foundry-worker/DE)**

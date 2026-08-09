@@ -4,8 +4,6 @@
 
 Responsible for cleaning offices, hotels, restaurants, and other places to maintain environmental hygiene. Tasks include sweeping, mopping, window cleaning, and garbage disposal, usually carried out according to contract or scheduling.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for cleaning offices, hotels, restaurants, and other places to maint
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Cleaning workers face a significant reduction in automation, AI-driven robots will gradually take over repetitive cleaning tasks, entry-level positions will decrease, and competition for low-skill positions will intensify.
-
 Employees can be promoted from junior cleaners to cleaning team leaders or supervisors, responsible for team management and quality control. A few have turned to self-employment or professional cleaning (such as industrial cleaning).
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ Employees can be promoted from junior cleaners to cleaning team leaders or super
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | The employer must provide a work contract and prove that suitable personnel cannot be recruited within the EU. Low-skilled positions are usually not given priority approval. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: You can be promoted to cleaning team leader or supervisor, or transition to p
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-hotel-and-other-establishment-cleaner/ES)**

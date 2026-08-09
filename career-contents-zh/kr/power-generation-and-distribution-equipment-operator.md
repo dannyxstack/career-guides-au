@@ -1,10 +1,8 @@
-# Power Generation and Distribution Equipment Operator 职业分析 · 韩国
+# 发电和配电设备操作员（Power Generation and Distribution Equipment Operator）职业分析 · 韩国
 
-**职业代码: 83301 (KECO)**
+**职业代码：83301 (KECO)**
 
-This occupation involves controlling, monitoring, and operating power generation and transmission/distribution facilities at power plants or substations, ensuring a stable electricity supply.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该职业涉及在发电厂或变电站控制、监控和操作发电及输电/配电设施，确保稳定供电。
 
 
 ---
@@ -13,9 +11,9 @@ This occupation involves controlling, monitoring, and operating power generation
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school hiring possible） |
-| Associate degree (2-year) in Electrical Engineering | 2 年 | $5,000,000~$10,000,000（Tuition-based） |
-| Bachelor's degree (4-year) in Electrical Engineering | 4年 | $20,000,000~$40,000,000（Tuition-based） |
+| 高中毕业 | 0年 | $0~$0（可高中招聘） |
+| 电气工程副学士（2年制） | 2 年 | $5,000,000~$10,000,000（学费制） |
+| 电气工程学士学位（4年） | 4年 | $20,000,000~$40,000,000（学费制） |
 
 ---
 
@@ -23,19 +21,19 @@ This occupation involves controlling, monitoring, and operating power generation
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrical Engineer (Professional Engineer) | Human Resources Development Service of Korea | 可选 | Not required but preferred |
-| Electrical Industry Engineer | Human Resources Development Service of Korea | 可选 | Recommended for beginners |
-| Power Plant Operation Technician (Craftsman) | Human Resources Development Service of Korea | 可选 | 部分工作场所要求 |
-| Substation Operation Technician (Craftsman) | Human Resources Development Service of Korea | 可选 | 部分工作场所要求 |
+| 电气工程师（专业工程师） | 韩国人力资源开发服务局 | 可选 | 非必需但优先考虑 |
+| 电气工业工程师 | 韩国人力资源开发服务局 | 可选 | 推荐给初学者 |
+| 发电厂运行技术员（工匠） | 韩国人力资源开发服务局 | 可选 | 部分工作场所要求 |
+| 变电站操作技术员（工匠） | 韩国人力资源开发服务局 | 可选 | 部分工作场所要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 18,000. With carbon neutrality policies driving the expansion of renewable energy and replacement of aging facilities, employment is expected to increase slightly.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 18,000。随着碳中和政策推动可再生能源扩张和老旧设施更换，就业预期略有增长。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -43,90 +41,82 @@ This occupation involves controlling, monitoring, and operating power generation
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$40,000,000 | Standards for public and large corporations |
-| 中级（4-9年） | $40,000,000~$55,000,000 | Varies by experience and certifications |
-| Advanced (10+ years) | $55,000,000~$80,000,000 | Managerial and highly skilled technical workers |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 适用于公共及大型企业标准 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 因经验和证书而异 |
+| 高级（10年以上） | $55,000,000~$80,000,000 | 管理及高技能技术工人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation assist in remote monitoring and control of power generation and distribution devices, but human judgment is crucial for fault response and safety management, so complete replacement is difficult. Rather, some tasks may be reduced due to operational efficiency.
+AI和自动化辅助远程监控和控制发电及配电设备，但故障响应和安全管理的判断仍需人工，因此完全替代较难。反而一些任务可能因运营效率提高而减少。
 
-Starting as a junior operator, you can advance to main control room operator, shift supervisor, or power plant manager after gaining experience.
+从初级操作员开始，积累经验后可晋升至主控室操作员、轮班主管或电厂经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular instrument inspection
-- Data recording and report writing
+- 常规仪器检查
+- 数据记录和报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time load forecasting
-- Fault diagnosis and remote control
+- 实时负荷预测
+- 故障诊断与远程控制
 
-**人类护城河:**
+**人类护城河：**
 
 - 突发情况应变能力
-- Equipment maintenance and risk assessment
+- 设备维护与风险评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based power system operation
-- Data analysis
-- Cyber security
+- 基于人工智能的电力系统运行
+- 数据分析
+- 网络安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Smart grid
-- Nuclear decommissioning
-- Power system stabilization
+- 可再生能源
+- 智能电网
+- 核退役
+- 电力系统稳定
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon employment as an electrician; requires high skill |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Unskilled plant assistant work is limited |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and have high concentration
-- People interested in machinery and electricity
+- 细致且专注力强的人
+- 对机械和电气感兴趣的人
 - 适应轮班工作的人
 
 **谁不适合**
-- People who dislike repetitive simple tasks
-- People who have difficulty with night shifts and shift work
+- 不喜欢重复简单任务的人
+- 难以适应夜班和轮班工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for power generation and distribution device operators?**
-答：The annual salary for entry-level (0-3 years) position at public enterprises is between 30 million KRW and 40 million KRW.
+**问：发电和配电设备操作员的起薪是多少？**
+答：公共企业入门级（0-3年）职位的年薪在3000万韩元至4000万韩元之间。
 
-**问：Can foreigners get a job in this occupation?**
-答：High-skilled electrical technicians can find employment with an E-7 visa, but domestic certifications and experience are required.
+**问：外国人能否从事该职业？**
+答：高技能电气技术人员可通过E-7签证就业，但需国内认证和经验。
 
-**问：What certifications are needed for promotion?**
-答：An electrician certificate is essential and provides extra points in internal promotion exams at power plants.
+**问：晋升需要哪些认证？**
+答：电工证是必需的，在电厂内部晋升考试中可提供额外加分。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a junior operator, you can advance to main control room operator, sh
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/power-generation-and-distribution-equipment-operator/KR)**

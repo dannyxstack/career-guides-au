@@ -1,10 +1,8 @@
-# On-Site Loading/Transport Worker 职业分析 · 日本
+# 现场装卸/运输工人（On-Site Loading/Transport Worker）职业分析 · 日本
 
-**职业代码: 703 (JSCO)**
+**职业代码：703 (JSCO)**
 
-Job involves carrying and organizing cargo at warehouses, factories, and truck loading/unloading. May also operate forklifts and cranes.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+工作涉及在仓库、工厂和卡车装卸处搬运和整理货物。也可能操作叉车和起重机。
 
 
 ---
@@ -13,8 +11,8 @@ Job involves carrying and organizing cargo at warehouses, factories, and truck l
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Subject to public high school tuition free program） |
-| Special training (forklift operation) | 1 to 2 months | $30,000~$80,000（Total cost of lectures and practical training） |
+| 高中文凭 | 3年 | $0~$0（享受公立高中学费减免计划） |
+| 特殊培训（叉车操作） | 1至2个月 | $30,000~$80,000（讲座和实践培训总费用） |
 
 ---
 
@@ -22,18 +20,18 @@ Job involves carrying and organizing cargo at warehouses, factories, and truck l
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training Completion Certificate | Prefectural Labor Bureau Director-registered training institution | 可选 | Required for operating forklifts of 1 ton or more |
-| Slinging Skills Training Completion Certificate | Prefectural Labor Bureau Director-registered training institution | 可选 | Required for crane slinging work |
-| Crane/Derrick Operator License | Prefectural Labor Bureau | 可选 | Required for operating cranes of 5 tons or more |
+| 叉车操作技能培训结业证书 | 县劳动局长注册培训机构 | 可选 | 操作1吨或以上叉车需持有 |
+| 吊索技能培训结业证书 | 县劳动局长注册培训机构 | 可选 | 起重机吊装作业所需 |
+| 起重机/塔吊操作证 | 县级劳动局 | 可选 | 操作5吨及以上起重机需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 1,200,000. Logistics demand is stable, but chronic labor shortage persists. Some areas are automating, but on-site work demand will continue for now.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 1,200,000。物流需求稳定，但长期劳动力短缺持续存在。部分领域正在自动化，但现场工作需求短期内仍将持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,86 @@ Job involves carrying and organizing cargo at warehouses, factories, and truck l
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Approx. ¥3.5 million annual salary including overtime |
-| 中级（3-10年） | $4,000,000~$5,000,000 | When holding forklift or other qualifications |
-| Veteran (10+ years) | $4,500,000~$6,000,000 | Supervisory role or large vehicle license holder |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 年薪约350万日元（含加班费） |
+| 中级（3-10年） | $4,000,000~$5,000,000 | 持有叉车或其他资格证书时 |
+| 资深（10年以上） | $4,500,000~$6,000,000 | 主管职位或大型车辆驾照持有者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With AI and automation, AGVs and automated warehouse systems are being introduced, reducing simple transportation work. However, on-site flexible judgment and complex cargo handling will remain for humans, so complete replacement is unlikely.
+随着AI和自动化，AGV和自动化仓库系统被引入，减少了简单的运输工作。然而，现场的灵活判断和复杂货物处理仍将由人类完成，因此完全替代不太可能。
 
-Obtaining a forklift license or crane skills training can lead to promotion to leader or site supervisor. Easy to start even without experience.
+取得叉车驾照或起重机技能培训可晋升为领班或现场主管。即使无经验也容易入门。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple transportation in flat warehouses
-- Moving goods on fixed routes
-- Standard pallet stacking
+- 在平坦仓库内的简单运输
+- 固定路线货物运输
+- 标准托盘堆垛
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring and operating AGVs
-- Operating warehouse management systems (WMS)
-- Troubleshooting automated warehouses
+- 监控和操作AGV
+- 操作仓库管理系统（WMS）
+- 自动化仓库故障排除
 
-**人类护城河:**
+**人类护城河：**
 
-- Handling irregularly shaped goods
-- On-site situational judgment (adjusting during congestion)
-- Complex cargo handling using heavy machinery
+- 处理不规则形状的货物
+- 现场情境判断（拥堵时调整）
+- 使用重型机械处理复杂货物
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Forklift operation
-- Crane operation
-- Proficiency in inventory management systems
-- Communication skills
+- 叉车操作
+- 起重机操作
+- 精通库存管理系统
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics crisis
-- E-commerce expansion
-- Warehouse automation
-- Forklift demand
+- 物流危机
+- 电子商务扩展
+- 仓库自动化
+- 叉车需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Field: Materials & Industrial Machinery, Electrical & Electronic Information Related Manufacturing)) | Engage in cargo handling/transport in manufacturing; max 5-year stay. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to specialized roles like logistics/warehouse management. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Field: Materials & Industrial Machinery, Electrical & Electronic Information Related Manufacturing)) | Engage in skilled tasks; family allowed, no stay limit. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People who can steadily do repetitive tasks
-- People motivated to obtain certifications
+- 体力充沛的人
+- 能稳定重复做任务的人
+- 有动力获取认证的人
 
 **谁不适合**
-- People who dislike physical labor
-- People who prefer air-conditioned office work
+- 不喜欢体力劳动的人
+- 喜欢空调办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for ground cargo handlers?**
-答：Typically ¥3-4 million in first year; over ¥5 million possible with forklift certification/experience.
+**问：地面货物装卸工平均年收入是多少？**
+答：通常第一年300-400万日元；持有叉车证书/经验者可能超过500万日元。
 
-**问：Are there visas for foreigners to work in this role?**
-答：This includes Specified Skilled Worker (i, ii) (manufacturing) and Engineer/Specialist in Humanities/International Services (e.g., logistics management). However, simple transportation work alone may make it difficult to obtain a residence status.
+**问：外国人从事此工作有签证吗？**
+答：这包括特定技能工人（i, ii）（制造业）和人文知识/国际服务工程师/专家（例如，物流管理）。然而，仅简单的运输工作可能难以获得居留身份。
 
-**问：What qualifications should I obtain for career advancement?**
-答：Forklift operation training and slinging training are basic. Additionally, obtaining a crane license or large vehicle license can lead to salary increases and management positions.
+**问：职业发展应获得哪些资格证书？**
+答：叉车操作培训和吊装培训是基础。此外，获得起重机执照或大型车辆执照可带来加薪和管理职位。
 
 
 ---
@@ -146,12 +136,12 @@ Obtaining a forklift license or crane skills training can lead to promotion to l
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/onsite-loading-transport-worker/JP)**

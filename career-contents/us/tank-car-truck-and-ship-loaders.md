@@ -53,8 +53,6 @@ Use material handling equipment to load or unload chemicals and bulk solids (e.g
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI automation will significantly replace core tasks of tanker, truck, and ship loaders, such as monitoring loading equipment, recording inventory, and generating reports. Manual operations for entry-level positions are decreasing, leading to job contraction, but safety supervision duties remain partially retained.
-
 Typically start as a loader/unloader, gain experience to advance to supervisor or logistics coordinator. Some regions require hazardous materials handling certification to expand duties.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Typically start as a loader/unloader, gain experience to advance to supervisor o
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Extremely difficult. EB-3 requires at least 2 years of experience or training
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tank-car-truck-and-ship-loaders/US)**

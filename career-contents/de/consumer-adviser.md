@@ -53,8 +53,6 @@ Consumer advisors work in consumer centers or similar agencies, providing indepe
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The consumer advisor role will be significantly augmented by AI: AI will take over repetitive tasks such as contract clause analysis and complaint classification, but tasks requiring human empathy, such as complex dispute mediation and personalised legal advice, will increase in value.
-
 Career progression paths include becoming a team leader, a specialist in a specific field (e.g., debt advisory, energy advisory), or a management role in a consumer centre. Professional capabilities can be enhanced through continuing education.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression paths include becoming a team leader, a specialist in a speci
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to team leader, specialist expert, or consumer-facing management,
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/consumer-adviser/DE)**

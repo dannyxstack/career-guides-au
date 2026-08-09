@@ -50,8 +50,6 @@ A profession teaching specialized skills (piano, English conversation, calligrap
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will enhance its auxiliary role in creating teaching materials, learning management, and online platforms, but human strengths remain in face-to-face detailed guidance and motivation management. Simple repetitive drills and basic knowledge transfer are easily replaceable by AI.
-
 Many are self-employed. Income improves with experience and growing client base. Possible to open a classroom or shift to online teaching.
 
 **Tasks most exposed to AI:**
@@ -93,15 +91,9 @@ Many are self-employed. Income improves with experience and growing client base.
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible if teaching requires specialized knowledge in language/arts. Employment contract required. |
-| Subclass 特定活動（ワーキングホリデーなど） (Designated Activities) | Limited period/work restrictions. Not typical for private tutors. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +137,12 @@ A: No legally required qualifications. However, having a teaching license or var
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/private-tutor/JP)**

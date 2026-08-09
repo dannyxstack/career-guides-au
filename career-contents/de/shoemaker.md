@@ -52,8 +52,6 @@ Shoemakers manufacture, repair and customise footwear by hand or machine, includ
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
-
 Shoe makers can progress from apprentice to senior technician, then to foreman or workshop supervisor. Some further study to become shoe designers or pattern makers. Self-employment by starting a shoe repair shop or custom shoemaking workshop is a common path.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Shoe makers can progress from apprentice to senior technician, then to foreman o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Difficult; shoemaking is not a shortage occupation, employer sponsorship is n
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaker/DE)**

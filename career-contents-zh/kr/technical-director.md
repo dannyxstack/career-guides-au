@@ -1,10 +1,8 @@
-# Technical Director 职业分析 · 韩国
+# 技术总监（Technical Director）职业分析 · 韩国
 
-**职业代码: 41615 (KECO)**
+**职业代码：41615 (KECO)**
 
-A specialized profession responsible for overseeing a sports team's training and game strategies, and for improving players' skills and team performance.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责监督运动队训练和比赛策略，提高球员技能和团队表现的专业职业。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized profession responsible for overseeing a sports team's training and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (major in physical education/sports-related field) | 4年 | $20,000,000~$40,000,000（Based on tuition fees; private universities are more expensive） |
-| Coach training course (e.g., KFA) | 1年 | $3,000,000~$5,000,000（Includes certification issuance fee） |
+| 大学（体育教育/运动相关专业） | 4年 | $20,000,000~$40,000,000（基于学费；私立大学更贵） |
+| 教练培训课程（如KFA） | 1年 | $3,000,000~$5,000,000（包含认证签发费） |
 
 ---
 
@@ -22,17 +20,17 @@ A specialized profession responsible for overseeing a sports team's training and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Player career | Affiliated club/association | 必备 | Generally required |
-| Sports Instructor Certificate (Level 1/Level 2) | Korea Sports Promotion Foundation | 可选 | Preferred but not required for technical director recruitment |
+| 球员生涯 | 附属俱乐部/协会 | 必备 | 通常需要 |
+| 体育指导员证书（一级/二级） | 韩国体育振兴公团 | 可选 | 技术总监招聘中优先考虑但非必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 2,500. Demand is expected to increase due to the expansion of professional sports and the growth of the sports industry, but top-level head coaching positions are limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 2,500。由于职业体育扩张和体育产业增长，需求预计增加，但顶级主教练职位有限。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,84 @@ A specialized profession responsible for overseeing a sports team's training and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $40,000,000~$60,000,000 | Second-team coach or combined coach role |
-| Intermediate (4–10 years) | $80,000,000~$99,999,999 | Professional club coach or amateur team head coach |
-| Advanced (10+ years) | $99,999,999 | Professional club head coach; varies greatly based on performance |
+| Beginner (0–3 years) | $40,000,000~$60,000,000 | 二队教练或综合教练角色 |
+| 中级（4-10年） | $80,000,000~$99,999,999 | 职业俱乐部教练或业余球队主教练 |
+| 高级（10年以上） | $99,999,999 | 专业俱乐部主教练；根据表现差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can be used for game data analysis and training plan optimization, but player management and intuitive decision-making during matches remain uniquely human. Overall, automation impact is limited, and it will evolve to enhance data-driven decision-making.
+AI可用于游戏数据分析和训练计划优化，但玩家管理和比赛中的直觉决策仍为人类独有。总体而言，自动化影响有限，其发展将增强数据驱动的决策。
 
-The typical career path involves starting as a player, then completing a coach training course, working as a coach, and advancing to technical director after gaining experience.
+典型的职业路径是从球员开始，然后完成教练培训课程，担任教练，积累经验后晋升为技术总监。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple game video analysis
-- Basic training plan creation
-- Player record management
+- 简单游戏视频分析
+- 基本培训计划制定
+- 选手记录管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Opponent team strategy analysis
-- Injury prediction and player condition management
-- Real-time game strategy adjustment
+- 对手团队策略分析
+- 伤病预测与球员状态管理
+- 实时游戏策略调整
 
-**人类护城河:**
+**人类护城河：**
 
-- Player psychological management and motivation
-- Intuitive judgment during games
-- Team culture building
+- 运动员心理管理和激励
+- 比赛中的直观判断
+- 团队文化建设
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Sports science knowledge
-- Communication and leadership
+- 数据素养
+- 运动科学知识
+- 沟通与领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Professional sports
-- eSports
-- Sports Marketing
-- Data Analysis
+- 职业体育
+- 电子竞技
+- 体育营销
+- 数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a technical director by a professional sports club. Must meet salary requirements and career criteria. |
-| Subclass F-2 (Residence) | After long-term stay, the step before permanent residence, allows unrestricted supervisory activities. |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans, allows domestic sports supervisory activities (some restrictions apply). |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with strong leadership and communication skills
-- Someone passionate about sports with strategic thinking
+- 具备强大领导力和沟通能力的人
+- 热爱运动、具有战略思维的人
 
 **谁不适合**
-- Someone who values individual achievement over teamwork
-- Someone who cannot stay calm under stress
+- 重视个人成就而非团队合作的人
+- 在压力下无法保持冷静的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a technical director?**
-答：For professional club directors, annual salaries range from 200 to 500 million KRW, varying greatly with performance. Amateur or second-team directors earn around 40 to 100 million KRW.
+**问：技术总监的平均年薪是多少？**
+答：职业俱乐部总监年薪在2亿至5亿韩元之间，因业绩差异大。业余或二队总监年薪约4000万至1亿韩元。
 
-**问：What visa does a foreigner need to work as a technical director in Korea?**
-答：An E-7 visa is required, along with a professional club invitation, certain experience (usually over 5 years), and meeting salary requirements (annual salary of at least 40 million KRW).
+**问：外国人在韩国担任技术总监需要什么签证？**
+答：需要E-7签证、专业俱乐部邀请、一定经验（通常超过5年）并满足薪资要求（年薪至少4000万韩元）。
 
-**问：Is playing experience necessary to become a technical director?**
-答：Not mandatory, but most clubs require it. Without playing experience, one can start with a physical education major and coaching certification, but it is disadvantageous in competition.
+**问：成为技术总监是否需要游戏经验？**
+答：非强制，但大多数俱乐部要求。无比赛经验者可从体育专业及教练认证开始，但在竞争中处于劣势。
 
 
 ---
@@ -143,12 +133,12 @@ The typical career path involves starting as a player, then completing a coach t
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/technical-director/KR)**

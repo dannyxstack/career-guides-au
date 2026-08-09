@@ -4,8 +4,6 @@
 
 Sheet metal workers manufacture, install, and repair metal sheet products such as ventilation ducts, roofs, and car bodies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Sheet metal workers manufacture, install, and repair metal sheet products such a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 Can progress from apprentice to skilled tradesperson, then to foreman or self-employed contractor; also can move into design or project management through further training.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can progress from apprentice to skilled tradesperson, then to foreman or self-em
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled talent, requires a work contract and meeting salary threshold |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For Highly Skilled Migrants Employed by a Recognized Sponsor in the Netherlands |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed their studies in the Netherlands and can seek employment within one year |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Can progress from tradesperson to foreman, project manager, or start own shee
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-worker/NL)**

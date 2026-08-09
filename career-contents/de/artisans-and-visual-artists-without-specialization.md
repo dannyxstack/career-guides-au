@@ -53,8 +53,6 @@ This occupation covers non-specialized roles in craft and visual arts, including
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace basic tasks like color matching and composition, but enhances creativity, client communication, and custom design capabilities; the core aesthetic sense and craftsmanship of artists remain difficult to automate.
-
 Practitioners usually start as apprentices or assistants and can become independent artists or studio heads after gaining experience. Some transition to design, art education, or cultural management through further study (e.g., bachelor's or master's degrees). Career progression depends on portfolio development and industry recognition.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Practitioners usually start as apprentices or assistants and can become independ
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Main pathway: enter Germany on a job-seeking visa to find opportunities, or a
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artisans-and-visual-artists-without-specialization/DE)**

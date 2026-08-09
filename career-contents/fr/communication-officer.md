@@ -52,8 +52,6 @@ Communications specialists are responsible for internal and external communicati
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is taking over basic PR tasks like copywriting and media monitoring on a large scale, but core functions like strategic communication, crisis management, and relationship maintenance are amplified, requiring practitioners to upgrade from executors to strategists.
-
 Career development path: Junior Communications Assistant→ Communications Specialist→ Communications Manager→ Communications Director; It can shift to digital marketing, public relations, and other directions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development path: Junior Communications Assistant→ Communications Speci
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an annual salary of €≥53,000 or a master's degree; Valid for 4 years, family members may be brought along |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, annual salary in line with industry standards; Valid for 1 year, renewable with the right to renew |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled non-EU talent, with an annual salary ≥ 1.5 times the French average (about €54,000); Shelf life is 1-4 years |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: No mandatory qualifications are required, but relevant degrees (such as Licen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/communication-officer/FR)**

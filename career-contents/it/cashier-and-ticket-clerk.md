@@ -4,8 +4,6 @@
 
 Responsible for handling cash and credit card transactions, as well as ticketing and customer service, commonly found in retail stores, supermarkets, cinemas, stations, and other venues.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for handling cash and credit card transactions, as well as ticketing
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Cashiers and ticket sellers face high risk of automation; self-checkout and online ticketing systems will significantly reduce demand for manual labor, but complex customer service and exception handling still require humans.
-
 Limited career progression; can advance to cashier supervisor, retail store manager, or move to customer service roles. Some transition to administrative or finance positions through accumulated experience.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Limited career progression; can advance to cashier supervisor, retail store mana
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Not applicable, due to low vocational skill requirements |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Available through annual quota application but requires employer sponsorship; fewer opportunities |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Usually only need a high school diploma; employer provides on-the-job trainin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier-and-ticket-clerk/IT)**

@@ -51,8 +51,6 @@ Fruit and vegetable growers are responsible for planning, planting, maintaining,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Fruit and vegetable growers will benefit from AI-driven precision agriculture and automated equipment, significantly boosting productivity, but core decision-making and field experience remain irreplaceable; overall role amplified by AI.
-
 Career path: starting as a planting assistant, you can become a professional grower through dual-system training, then advance to farm supervisor, production manager, or self-employed farmer. Further education can specialize in organic farming or precision agriculture technology.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: starting as a planting assistant, you can become a professional gro
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable for those with a recognized German vocational qualification (e.g., dual training certificate), requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing entry to Germany to find work, valid for up to one year. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Start as a planting assistant, complete dual vocational training to become a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-and-vegetable-grower/DE)**

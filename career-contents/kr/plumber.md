@@ -50,8 +50,6 @@ This is a specialized technical profession involving the construction, repair, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Design automation and smart construction tools improve work efficiency, but on-site plumbing work requires human touch, so the technician's skill is more decisive than AI.
-
 Career progression from skilled worker → senior skilled worker → site supervisor/construction company founder. Advancement depends on certifications and experience; it is an essential occupation on construction sites.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Career progression from skilled worker → senior skilled worker → site superv
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Available for foreign skilled workers through the Employment Permit System (some industries) |
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible with recommendation as a skilled worker |
-| Subclass F-2 (F-2 (Residence)) | Applicable for points-based permanent residence or long-term stay |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work at construction sites |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: They can be promoted from skilled worker to site foreman to construction mana
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber/KR)**

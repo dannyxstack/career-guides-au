@@ -1,8 +1,8 @@
-# Other product manufacturing/processing workers (excluding metal products) 职业分析 · 日本
+# 其他产品制造/加工工人（不含金属制品）（Other product manufacturing/processing workers (excluding metal products)）职业分析 · 日本
 
-**职业代码: 539 (JSCO)**
+**职业代码：539 (JSCO)**
 
-Occupations involved in the manufacturing/processing of non-metal products such as plastic, rubber, paper, and wood. Responsible for machine operation, manual parts processing, assembly, and finishing.
+从事塑料、橡胶、纸张和木材等非金属产品制造/加工的职业。负责机器操作、手工零件加工、组装和精加工。
 
 
 ---
@@ -11,9 +11,9 @@ Occupations involved in the manufacturing/processing of non-metal products such 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school tuition is effectively free.） |
-| Vocational school (industrial) | 2 年 | $1,000,000~$2,500,000（Additional costs for equipment and materials may apply.） |
-| Public vocational training (public vocational training) | 1年 | $0~$0（Unemployment benefits may be available.） |
+| 高中文凭 | 3年 | $0~$0（公立高中学费实际免费。） |
+| 职业学校(工业) | 2 年 | $1,000,000~$2,500,000（设备和材料可能产生额外费用。） |
+| 公共职业培训 | 1年 | $0~$0（可能有失业救济金。） |
 
 ---
 
@@ -21,19 +21,19 @@ Occupations involved in the manufacturing/processing of non-metal products such 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Specified Skilled Worker Evaluation Exam (Casting, Industrial Machinery, etc.) | Industry associations | 必备 | Exam required for Specified Skilled Worker visa; mandatory for residence status. |
-| Skill Test (Product Manufacturing Related) | Ministry of Health, Labour and Welfare | 可选 | Grade (1st or 2nd class) certifies skills; leads to career advancement and wage increases. |
-| Forklift Operation Skills Training | Prefectural Labour Bureau | 可选 | Required in many factories; acquisition broadens job scope. |
-| Crane Operator License | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Necessary for handling heavy objects when applicable. |
+| 特定技能评价考试（铸造、工业机械等） | 行业协会 | 必备 | 特定技能工人签证需考试；居住身份必需。 |
+| 技能测试（产品制造相关） | 厚生劳动省 | 可选 | 等级（一级或二级）证明技能；有助于职业发展和工资增长。 |
+| 叉车操作技能培训 | 县劳动局 | 可选 | 许多工厂要求持有；获取后可拓宽工作范围。 |
+| 起重机操作员执照 | 国土交通省 | 可选 | 必要时必须处理重物。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 1,200,000. Long-term employment in domestic manufacturing is declining due to industry contraction and overseas relocation, but certain sectors like food and medical products continue to face labor shortages. Foreign worker acceptance is increasing as this field is covered by Specified Skilled Worker categories (e.g., casting, industrial machinery, electrical/electronic).
+**职位需求量：中高（★★★★☆）** 全国从业人数约 1,200,000。由于行业收缩和海外转移，国内制造业长期就业正在减少，但食品和医疗产品等某些领域仍面临劳动力短缺。由于该领域涵盖特定技能工人类别（如铸造、工业机械、电气/电子），外国工人接收正在增加。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +41,87 @@ Occupations involved in the manufacturing/processing of non-metal products such 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,600,000 | Base salary + overtime included. Varies with overtime hours. |
-| Mid-level (3–10 years) | $3,600,000~$4,800,000 | Increases with skill level and qualifications. Leadership allowance may apply. |
-| 资深（10年以上） | $4,800,000~$6,000,000 | Managerial or chief class. Experience and qualifications can lead to higher positions. |
+| 初级（0-3年） | $2,800,000~$3,600,000 | 基本工资 + 包括加班费。因加班时间而异。 |
+| 中级（3-10年） | $3,600,000~$4,800,000 | 随技能水平和资格提升而增加。可能有领导津贴。 |
+| 资深（10年以上） | $4,800,000~$6,000,000 | 管理或主任级。经验和资格可晋升至更高职位。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-In non-metallic manufacturing/processing, many tasks are expected to be replaced by AI or robots. Particularly, quantifiable processes like pressing, injection molding, and cutting are experiencing automation waves. Simple processing jobs will decline, but a shift to roles requiring human-specific skills like equipment maintenance and process improvement will be important.
+在非金属制造/加工中，许多任务预计将被AI或机器人取代。特别是冲压、注塑和切割等可量化流程正经历自动化浪潮。简单加工岗位将减少，但转向设备维护和流程改进等需要人类技能的岗位将很重要。
 
-Entry-level workers can start with no experience and advance to team leader or line manager by honing skills. Multi-skilling and quality control knowledge boost career growth. Independent work is possible depending on the job.
+入门级员工可以无经验开始，通过磨练技能晋升为团队领导或生产线经理。多技能和质量控制知识促进职业发展。根据工作内容，可以独立工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple parts attachment and assembly
-- Routine processing work (deburring, cutting)
-- Product sorting and packaging
-- Supplying materials to machines
+- 简单零件连接与组装
+- 常规加工作业（去毛刺、切割）
+- 产品分拣和包装
+- 向机器供应材料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assistance in creating NC programs
-- Anomaly detection and quality prediction
-- Production plan optimization
+- 协助创建数控程序
+- 异常检测和质量预测
+- 生产计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Anomaly response and troubleshooting
-- Quality inspection using senses like touch and sound
-- Workflow changeover know-how
+- 异常应对与故障排除
+- 利用触觉和听觉等感官进行质量检验
+- 工作流程切换诀窍
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automation equipment operation/maintenance skills
-- Quality control knowledge (QC certification, etc.)
-- Process improvement thinking (IE, etc.)
-- Multi-skilled worker (mastery of multiple processes)
+- 自动化设备操作/维护技能
+- 质量控制知识（QC认证等）
+- 流程改善思维（IE等）
+- 多技能工人（掌握多种工艺）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Plastic processing
-- Rubber product manufacturing
-- Paper product processing
-- Non-metallic material processing
+- 塑料加工
+- 橡胶制品制造
+- 纸制品加工
+- 非金属材料加工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Molding, Industrial Machinery, Electrical/Electronics, etc.)) | For those who completed technical training in manufacturing. Max 5-year stay. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction, Shipbuilding/Marine Industry, etc.)) | Only shipbuilding/marine industry in manufacturing. Renewable, family accompaniment allowed. |
-| Subclass 技能実習 (Technical Intern Training (No. 3)) | Aimed at technology transfer to developing countries. Max 5 years. Job change restrictions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy manufacturing and don't mind hands-on work
-- People who can work collaboratively in a team
-- People who are good at learning machine operations and setups
+- 喜欢制造业且不介意动手工作的人
+- 能团队协作的人
+- 善于学习机器操作和设置的人
 
 **谁不适合**
-- People who get bored easily with repetitive tasks
-- People who dislike danger or dirt
+- 对重复性任务容易感到厌倦的人
+- 不喜欢危险或脏污的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income? Does it increase with years of service?**
-答：First year is approximately 2.8-3.6 million yen, intermediate 3.6-4.8 million yen, and advanced 4.8-6 million yen. It can increase significantly by passing skill tests or promotion to management.
+**问：年收入是多少？是否随服务年限增加？**
+答：第一年约280-360万日元，中级360-480万日元，高级480-600万日元。通过技能考试或晋升管理层可大幅增加。
 
-**问：Is there a visa for foreigners to work in this job?**
-答：Yes, Specified Skilled Worker (i) (Metal Molding, Industrial Machinery, Electrical/Electronic, etc.) applies. A transfer from Technical Intern Training is also possible. Specified Skilled Worker (ii) is only for some fields.
+**问：外国人是否有签证可以从事这项工作？**
+答：是的，特定技能工人（i）（金属成型、工业机械、电气/电子等）适用。从技能实习转岗也是可能的。特定技能工人（ii）仅适用于部分领域。
 
-**问：Can it be replaced by AI or robots?**
-答：Simple assembly and processing steps are expected to become automated, but tasks requiring human judgment like high-mix low-volume production, anomaly response, and quality checks will remain. Becoming multi-skilled or acquiring maintenance skills increases job security.
+**问：能否被AI或机器人取代？**
+答：简单装配加工将自动化，但多品种少量生产、异常响应和质量检查等需人工判断的工作将保留。多技能化或掌握维修技能可增加就业稳定性。
 
 
 ---
@@ -146,12 +139,12 @@ Entry-level workers can start with no experience and advance to team leader or l
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-product-manufacturing-processing-workers-excluding-metal-products/JP)**

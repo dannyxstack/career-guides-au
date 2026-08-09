@@ -4,8 +4,6 @@
 
 A role supporting sales operations through document creation, data entry, and customer correspondence. An unsung hero ensuring smooth corporate sales activities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A role supporting sales operations through document creation, data entry, and cu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Sales clerical work is highly likely to be replaced by AI-driven data entry automation and advanced CRM, with routine tasks particularly shrinking.
-
 Many start in general clerical positions, with opportunities to advance into sales or sales planning roles by deepening sales knowledge.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Many start in general clerical positions, with opportunities to advance into sal
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Sales admin is generally not eligible for this visa, but roles requiring advanced sales analysis or English may be possible. However, scrutiny is strict. |
-| Subclass 特定活動 (Designated Activities (with work restrictions)) | Temporary work such as working holiday is possible. Not suitable for permanent employment. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: Basic operation of office software such as Excel and Word, accurate data entr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-clerk/JP)**

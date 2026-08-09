@@ -51,8 +51,6 @@ Prison guards are responsible for supervising inmates, maintaining prison securi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on prison guards is mixed: repetitive tasks like patrols and monitoring will be automated, but inmate management and crisis judgment still require humans. Overall jobs are stable, but entry-level opportunities may decrease due to technological substitution.
-
 Career progression paths include senior guard, shift supervisor, prison officer, and management positions, requiring internal exams and training to gain experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include senior guard, shift supervisor, prison officer,
 | Subclass EU/EEA Freedom of Mo (EU/EEA Freedom of Movement) | EU/EEA citizens require no work permit and can freely work as prison guards in Ireland. |
 | Subclass Single Permit (Single Permit for Work and Residence) | For non-EU citizens, combines work and residence, requires employer application, salary conditions similar to General Employment Permit. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can apply for a General Employment Permit, but prison guard is not a shortage
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-guard/IE)**

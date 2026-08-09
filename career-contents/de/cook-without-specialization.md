@@ -53,8 +53,6 @@ Chefs in the German hospitality industry are responsible for food preparation, c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chef roles will be significantly enhanced by AI tools, not simply replaced; AI can optimise menu design, inventory management, and personalised ordering, but core cooking skills and on-site adaptability still require humans. Job skill requirements increase but opportunities grow.
-
 Junior chefs can advance to supervisor, sous chef, or head chef. Further study can lead to nutrition consultant or cooking instructor.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior chefs can advance to supervisor, sous chef, or head chef. Further study c
 | Subclass Chancenkarte (Opportunity Card) | One-year job-seeking visa based on points, allows part-time work |
 | Subclass Job Seeker (Job Seeker Visa) | Valid for 6 months, requires proof of financial capacity, seeking employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to sous chef, head chef, or through further study become a nu
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook-without-specialization/DE)**

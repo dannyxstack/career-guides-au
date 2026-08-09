@@ -4,8 +4,6 @@
 
 Providing legal consultation, contract drafting, litigation representation, and other legal services, suitable for law firms, corporate legal affairs, or public institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Providing legal consultation, contract drafting, litigation representation, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 Junior lawyers can be promoted to partners or transferred to corporate legal directors. It can also specialize in niche areas such as intellectual property and taxation to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior lawyers can be promoted to partners or transferred to corporate legal dir
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for senior professionals, such as lawyers or legal experts, who need to provide a work contract or project certification. |
-| Subclass Salarié (Employee Residence Permit) | Sponsored by a French employer, applicable to long-term employment in corporate legal departments. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to legal professionals with annual salary 1.5 times higher than the French average. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, lawyers must hold a CAPA certificate and join a local bar association, w
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-defense-and-advisory/FR)**

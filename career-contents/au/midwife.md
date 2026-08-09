@@ -53,8 +53,6 @@ Midwives provide antenatal, birth and postnatal care for pregnant women, and are
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
-
 Midwifery Group Practice (MGP) models are expanding rapidly across major hospitals, and caseload midwifery is becoming mainstream practice for improving maternal and infant outcomes. Remote care and digital maternal monitoring technology are providing new ways to deliver midwifery services in regional and remote areas.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Midwifery Group Practice (MGP) models are expanding rapidly across major hospita
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination, healthcare occupations prioritised |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This is a long-term, acutely short-supply occupation. Seek consistently lists
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwife/AU)**

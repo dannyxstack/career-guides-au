@@ -4,8 +4,6 @@
 
 In France's leather, textile, and apparel industries, the company is responsible for precisely cutting various flexible materials (such as leather, fabrics, and synthetic materials) according to paper patterns or design drawings, ensuring maximum fabric utilization, which is a key step in the production process.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ In France's leather, textile, and apparel industries, the company is responsible
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Manual cutters face high risk of automation replacement; AI-driven cutting robots and smart vision systems can already perform most cutting and trimming tasks, with entry-level jobs rapidly declining and demand expected to continue shrinking in the short term.
-
 The career starts as a cutter or apprentice, and can later be promoted to cutting team leader, modéliste, or production supervisor. Experienced professionals can turn to quality inspection or self-operated tailoring/craft studios.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ The career starts as a cutter or apprentice, and can later be promoted to cuttin
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employed Work Permit)) | Employed work residence: A work contract must be provided by a French employer, reviewed by the French Labor Department (DIRECCTE) to prove that suitable personnel cannot be recruited within the EU. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent Passport: Suitable for highly skilled talents or artists, if the employer can prove the applicant possesses unique handicraft skills. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: A CAP (2 years) or Bac Pro (3 years) diploma is usually required, and apprent
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-textile-and-soft-materials-cutter/FR)**

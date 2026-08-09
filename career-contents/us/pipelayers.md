@@ -53,8 +53,6 @@ Lays stormwater, sewer, drainage, and water mains, including trench sloping, pip
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Can start as an apprentice, advance to plumber foreman, supervisor, or independent contractor; with experience, can shift to plumbing system design or project management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can start as an apprentice, advance to plumber foreman, supervisor, or independe
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal non-agricultural worker visa; pipe laying may be applicable, but quotas are limited. Employers must demonstrate local labor shortage. |
 | Subclass Green Card (PERM) (Employment-Based Immigrant Visa) | Requires PERM labor certification to prove no qualified US workers; difficult for pipe layers, usually only senior positions have a chance. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Very difficult. This occupation typically does not meet high-skilled immigrat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipelayers/US)**

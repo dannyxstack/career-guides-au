@@ -4,8 +4,6 @@
 
 In the Netherlands, healthcare assistants support registered nurses in hospitals, nursing homes, and home care agencies with basic care, personal hygiene, and daily living support, playing a key role in the long-term care system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ In the Netherlands, healthcare assistants support registered nurses in hospitals
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Health care assistant roles are mixed regarding AI impact: some clerical documentation and scheduling tasks are automated, but core tasks like direct care and emotional support are enhanced. Overall demand is stable but skill requirements have increased.
-
 Health care assistants can become registered nurses or specialist nursing staff through accumulated experience and further study, or transition to nursing management or education roles, with clear career development pathways.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Health care assistants can become registered nurses or specialist nursing staff 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | High-skilled migrants who obtain a job contract and meet the salary threshold, but care assistants typically have lower salaries and require employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and above-average salary, difficult for nursing assistants to meet. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates who complete a degree in the Netherlands can apply for one year of job-seeking time, and then switch to a work visa after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Usually requires an MBO nursing assistant diploma; some institutions require 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-care-assistant/NL)**

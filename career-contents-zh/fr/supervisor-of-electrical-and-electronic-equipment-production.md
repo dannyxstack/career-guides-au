@@ -1,6 +1,6 @@
-# Supervisor Of Electrical And Electronic Equipment Production 职业分析 · 法国
+# 电气和电子设备生产主管（Supervisor Of Electrical And Electronic Equipment Production）职业分析 · 法国
 
-**职业代码: H2501 (ROME)**
+**职业代码：H2501 (ROME)**
 
 负责监督电气和电子产品的制造流程，管理生产团队，确保质量、成本和交货期达标。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. 法国电气电子制造业受再工业化与能源转型推动，岗位需求稳定。但生产主管职位竞争中等，需具备技术与管理双技能。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。法国电气电子制造业受再工业化与能源转型推动，岗位需求稳定。但生产主管职位竞争中等，需具备技术与管理双技能。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -50,34 +50,34 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI部分自动化生产调度和质量检测，但复杂设备故障诊断、团队管理和跨部门协调仍需人类经验，整体风险与机遇并存。
 
 可从生产主管晋升为生产经理、工厂经理，或转向质量管理、供应链管理等领域。积累经验后可担任更高级管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 生产数据统计和报表生成
 - 基础质量检测（如视觉检查）
 - 标准化生产排程优化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析生产数据预测设备故障
 - 使用AI辅助优化产线布局与工艺参数
 - 通过AI工具快速完成质量异常根因分析
 - 用自然语言处理自动整理技术文档
 
-**人类护城河:**
+**人类护城河：**
 
 - 紧急设备故障的现场决策与动手维修
 - 新员工培训与团队冲突调解
 - 多供应商协调与紧急订单谈判
 - 安全规程的底线判断与违规处理
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/Excel高级数据分析
 - 工业物联网与MES系统操作
@@ -85,27 +85,20 @@ AI部分自动化生产调度和质量检测，但复杂设备故障诊断、团
 - 精益生产六西格玛方法
 - AI工具应用（Copilot、Tableau）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Industry 4.0
-- Energy Transition
-- Electrification
-- Smart Manufacturing
+- 工业4.0
+- 能源转型
+- 电气化
+- 智能制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | 适合高技能人才，需满足学历及薪资要求，有效期4年 |
-| Subclass Salarié (Employee Work Permit) | 受雇于法国公司，需劳动局批准，每年更新 |
-| Subclass Carte bleue UE (EU Blue Card) | 要求年薪约5.4万欧元以上，快速通道 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +142,12 @@ AI部分自动化生产调度和质量检测，但复杂设备故障诊断、团
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-of-electrical-and-electronic-equipment-production/FR)**

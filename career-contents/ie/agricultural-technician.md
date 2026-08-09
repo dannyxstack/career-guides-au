@@ -51,8 +51,6 @@ Agricultural technicians in Ireland support agricultural production, soil testin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Junior technicians can advance to senior technicians or farm managers, or transition to agricultural consulting, agricultural technology sales, or R&D positions. Some further study to become agronomists.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior technicians can advance to senior technicians or farm managers, or transi
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, annual salary must exceed €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | For skilled work, annual salary must exceed €36,000 (2024 standard) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply through General Employment Permit, requiring employer sponsorship a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technician/IE)**

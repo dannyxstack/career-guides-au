@@ -52,8 +52,6 @@ Forestry operations supervisors oversee timber harvesting, reforestation, fire p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Forestry operations supervisors face mixed AI impacts: data monitoring and planning tasks will be automated, but on-site decisions, team coordination, and safety supervision still rely on human experience.
-
 Can progress to forestry manager or regional operations manager, or transition to environmental consulting or resource management. With experience, opportunities to enter government or senior roles in large forestry companies.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress to forestry manager or regional operations manager, or transition t
 | Subclass 482 (Skills in Demand Visa) | Employer sponsorship, requires experienced forestry supervisor |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requiring 3 years of work experience |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Employment is stable with increased demand for sustainable forestry and carbo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-operations-supervisor/AU)**

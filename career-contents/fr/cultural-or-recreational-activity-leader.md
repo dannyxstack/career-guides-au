@@ -52,8 +52,6 @@ Responsible for planning, organizing, and guiding cultural, artistic, or recreat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Event planning and guidance can be assisted by AI (such as schedule optimization and content generation), but interpersonal interaction, on-site adaptability, and emotional connection depend on humans. Overall risk is moderate, with AI being more of a tool than a substitute.
-
 You can advance from event planning assistant to project manager or cultural center director, or transition to tourism or education through training. After gaining experience, you can either be self-employed or establish an event company.
 
 **Tasks most exposed to AI:**
@@ -100,15 +98,9 @@ You can advance from event planning assistant to project manager or cultural cen
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Work Permit)) | You must obtain a work contract from a French employer and apply for an employment residence permit. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for young professionals, project plans or employer commitments are required. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: You can find a French employer and obtain a job contract through the Salarié
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cultural-or-recreational-activity-leader/FR)**

@@ -50,8 +50,6 @@ A skilled technical position that installs, inspects, and repairs machinery on f
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will enhance diagnostic and predictive maintenance, but on-site repair and adjustment still require human touch, making full replacement difficult. The role of maintenance technicians is expected to become more advanced with smart factory adoption.
-
 Career path progression: Junior Maintenance Assistant → Intermediate Maintenance Technician → Senior/Team Lead → Technical Specialist/Manager. Factory equipment management or obtaining certifications supports career growth.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career path progression: Junior Maintenance Assistant → Intermediate Maintenan
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when skilled workers are needed; requires experience and qualifications |
-| Subclass E-9 (Non-professional Employment) | Limited to unskilled labor in manufacturing; mainly simple tasks |
-| Subclass F-2 (Residence) | Long-term stay, no employment restrictions, pre-Permanent Residence stage |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: You can advance from maintenance assistant to maintenance technician to team 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-machinery-installer-and-repairer/KR)**

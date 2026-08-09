@@ -51,8 +51,6 @@ Cleaners and domestic servants clean the interiors of private residences, shops,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
-
 Limited career progression path, usually starting as junior cleaner, can advance to cleaning supervisor or cleaning manager, or move into specialized cleaning fields such as commercial cleaning or industrial cleaning.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Limited career progression path, usually starting as junior cleaner, can advance
 | Subclass Health & Care (Health and Care Worker Visa) | Not applicable, non-medical related |
 | Subclass Graduate (Graduate Visa) | Graduate visa holders may work in cleaning, but no permanent residency pathway. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Cleaners can advance to cleaning supervisor, cleaning manager, or transition 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaners-and-domestics/UK)**

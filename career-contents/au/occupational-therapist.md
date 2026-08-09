@@ -55,8 +55,6 @@ Occupational therapists help people with disabilities, older adults and those re
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
-
 NDIS is the biggest employment growth engine for occupational therapists, with over 1 million participants and growing. Early childhood intervention and mental health OT are the specialisations with the highest salary premiums.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ NDIS is the biggest employment growth engine for occupational therapists, with o
 | Subclass 190 (Skilled Nominated) | State nomination; NDIS and rural OT applicants receive priority |
 | Subclass 491 (Skilled Work Regional) | Remote areas OT, nomination adds 15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both have similar PR pathways and salaries. OT's unique advantage is the NDIS
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/AU)**

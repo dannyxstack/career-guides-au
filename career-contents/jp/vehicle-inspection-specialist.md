@@ -4,8 +4,6 @@
 
 A professional who conducts final inspections and periodic inspections (shaken) of vehicles to confirm compliance with safety standards. They work in factories and land transport offices.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who conducts final inspections and periodic inspections (shaken) 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI supports vehicle inspection through image recognition for visual inspection and analysis of diagnostic data, but human experience and judgment are essential for final decisions and identifying complex defects. AI is used as a tool for inspectors, contributing to efficiency and accuracy.
-
 After obtaining the inspector qualification (national certification), advancement to chief inspector or factory manager is possible. Common career paths include working at maintenance companies or automakers, and independence is an option with experience.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ After obtaining the inspector qualification (national certification), advancemen
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Auto Maintenance)) | Able to engage in auto maintenance and inspection work. Max stay: 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and work experience. Can handle inspection tasks. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: After obtaining the vehicle inspector qualification, you can aim to become a 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-inspection-specialist/JP)**

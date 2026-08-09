@@ -4,8 +4,6 @@
 
 Door-to-door salespeople in Italy typically work for energy, telecom, or non-profit organizations, promoting products or services door-to-door. This occupation requires high communication and persuasion skills, with income mainly based on commission.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Door-to-door salespeople in Italy typically work for energy, telecom, or non-pro
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Door-to-door salespeople face high automation risk in Italy: phone/video sales and AI-driven marketing automation are gradually replacing traditional door-to-door sales, with entry-level positions shrinking rapidly.
-
 Career advancement paths are limited; one can become a sales supervisor or regional manager, and some transition to telemarketing or digital marketing. Accumulating client resources may lead to starting one's own business.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career advancement paths are limited; one can become a sales supervisor or regio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, requires employer sponsorship, subject to annual quotas, typically for low-skilled positions, but Italy has very few quotas for such work. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled occupations, but door-to-door salespeople usually do not meet high-skilled requirements, making it difficult to obtain. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Can be promoted to sales supervisor, regional manager, or transition to telem
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/doortodoor-salesperson/IT)**

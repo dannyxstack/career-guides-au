@@ -51,8 +51,6 @@ Aircraft Maintenance Engineer (Structures) inspects, repairs, and modifies aircr
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Junior structural engineers can advance to licensed LAME (Licensed Aircraft Maintenance Engineer), then to team supervisor or quality inspector. Some transition to engineering management or aviation safety.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior structural engineers can advance to licensed LAME (Licensed Aircraft Main
 | Subclass 189 (Skilled Independent Visa) | Independent skilled migration, occupation on MLTSSL, requires EOI points |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Mainly works in aircraft hangar or apron, often requiring climbing and bendin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-engineer-structures/AU)**

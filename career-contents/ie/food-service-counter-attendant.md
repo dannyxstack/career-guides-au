@@ -53,8 +53,6 @@ Responsible for food preparation, counter service, and cashiering in fast food o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fast food and counter service workers perform highly procedural tasks; AI automation and self-service ordering systems are rapidly replacing core tasks, leading to significant job decline, lower entry barriers but worsening career prospects.
-
 Can be promoted from counter attendant to supervisor, manager, or franchisee, requiring experience and management training.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can be promoted from counter attendant to supervisor, manager, or franchisee, re
 | Subclass General Employment P (General Employment Permit) | Requires annual salary not less than 30,000 euros, but the position usually does not meet this; may require employer to prove the position cannot be filled by a local. |
 | Subclass EU Citizens (EU/EEA Freedom of Movement) | EU/EEA citizens can work and reside freely without a permit. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Difficult, as the General Employment Permit requires an annual salary of at l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-service-counter-attendant/IE)**

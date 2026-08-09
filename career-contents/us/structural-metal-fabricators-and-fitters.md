@@ -54,8 +54,6 @@ Responsible for fabricating, positioning, aligning, and assembling parts of stru
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 Starting as an apprentice or entry-level worker, you can advance to senior technician, foreman, or supervisor. Experienced workers can transition into quality control, project management, or start their own metal fabrication business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starting as an apprentice or entry-level worker, you can advance to senior techn
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very small. This occupation usually does not meet H-1B specialty occupation r
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/structural-metal-fabricators-and-fitters/US)**

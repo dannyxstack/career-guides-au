@@ -51,8 +51,6 @@ In the Netherlands, complementary and alternative medicine assistant professiona
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Traditional and complementary medicine associate professionals face mixed AI impact: some clerical and data analysis tasks can be automated, but core diagnosis, personalized treatment, and patient trust still rely on humans; overall risk is moderate.
-
 Practitioners can advance from assistant to independent practitioner, or become a full-time therapist through further study. Some transition to teaching or management roles. Continuous learning is required for higher certifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Practitioners can advance from assistant to independent practitioner, or become 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to qualified professionals, requiring an employment contract and a salary meeting the threshold (approx. €4,500/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU citizens with higher education background, requires work contract and minimum annual salary of €58,000 (2024) |
-| Subclass Orientation Year (Orientation Year (Oriëntatiejaar)) | Applicable to graduates from Dutch universities or the world's top 200 universities; valid for 1 year, allowing free job search. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Usually requires an MBO (secondary vocational education) or HBO (applied scie
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-associate-professional/NL)**

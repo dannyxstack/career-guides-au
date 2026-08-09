@@ -51,8 +51,6 @@ Responsible for coordinating the scheduling of vehicles, personnel, or goods to 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Delivery drivers face high risk of automation, especially last-mile delivery. Autonomous driving and drones will reduce job numbers, but niche areas like instant delivery and cold chain still have demand.
-
 Dispatchers can advance to dispatch supervisor, logistics manager, or transport operations manager. Obtaining relevant certifications (e.g., Canadian dispatcher certification) and accumulating industry experience aid career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Dispatchers can advance to dispatch supervisor, logistics manager, or transport 
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario and Alberta have nomination programs for the transportation industry, which can accelerate immigration. |
 | Subclass LMIA (Labour Market Impact Assessment) | Canadian employers can apply for LMIA to support work permits, which is common for dispatcher roles. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, dispatcher falls under NOC TEER 3, meeting the requirements for Federal 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dispatchers/CA)**

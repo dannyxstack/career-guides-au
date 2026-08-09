@@ -4,8 +4,6 @@
 
 Pharmacists are responsible for dispensing medications, patient medication consultation, and medication management. Working in pharmacies, hospitals, or the pharmaceutical industry requires a university degree and official certification.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Pharmacists are responsible for dispensing medications, patient medication consu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pharmacists face the risk of automation, but clinical judgment and patient communication are hard to replace; AI can improve efficiency but requires adapting to new tools, with overall risks and opportunities coexisting.
-
 Starting from a community pharmacy, you can gradually rise to pharmacy manager; or serve as a clinical pharmacist in hospitals, participating in multidisciplinary teams; It can also enter pharmaceutical research and development or regulatory fields. Further studies (such as Máster) can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Starting from a community pharmacy, you can gradually rise to pharmacy manager; 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled pharmacists, requiring a work contract, academic credentials, and a minimum salary threshold (approximately 33,908 euros/year). |
-| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residence requires company sponsorship, and academic credentials must be certified. Pharmacists are regulated professions and homologation is essential. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For executives or highly skilled talent, higher salaries (about €56,514/year) and contracts are required. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Must complete credential evaluation (homologación) and register with the pha
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/ES)**

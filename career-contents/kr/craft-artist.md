@@ -4,8 +4,6 @@
 
 A professional who creates artistic or practical crafts using various materials such as ceramics, woodworking, metal, and textiles based on hand skills and creativity.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who creates artistic or practical crafts using various materials 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has limitations in fully automating the craft field, but it can be used as an auxiliary tool for design generation, pattern optimization, marketing, etc., assisting the creative process. High-level handcraft skills are difficult to replace by AI and will remain a uniquely human domain.
-
 Typically starts with starting a personal studio or working at a workshop; with experience, one can be recognized as a master craft artist or expand into exhibition and education activities.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Typically starts with starting a personal studio or working at a workshop; with 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when invited as a professional artisan to a Korean workshop, contract required |
-| Subclass F-2 (Residence) | Acquired after long-term stay, allows free activities |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans, no restrictions on craft activities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: You can diversify your career paths by starting a personal studio, participat
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/craft-artist/KR)**

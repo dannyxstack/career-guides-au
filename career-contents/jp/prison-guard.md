@@ -4,8 +4,6 @@
 
 A profession that involves monitoring, guiding, and managing the daily lives of inmates in prisons and detention centers, maintaining facility security.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that involves monitoring, guiding, and managing the daily lives of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While surveillance cameras and AI anomaly detection systems enhance efficiency, human judgment and response are still needed for interactions and guidance with inmates.
-
 After joining as a prison guard at the entry level, promotion comes through years of service and training. Career paths include security chief, chief guard, and eventually prison management or correctional training instructor.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After joining as a prison guard at the entry level, promotion comes through year
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Foreign nationals are generally not allowed to become prison officers. Prison officers are Japanese civil servants requiring Japanese citizenship, so this is not applicable. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Outside target field. |
-| Subclass 教授 (Professor) | Possible if engaging in educational activities within correctional facilities, but usually not allowed as it is a civil servant position. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Through internal exams and training, one can become a manager, transfer to th
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-guard/JP)**

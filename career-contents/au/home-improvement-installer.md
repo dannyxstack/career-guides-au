@@ -53,8 +53,6 @@ Home improvement installers are responsible for installing and repairing interio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI/automation on home renovation installers is mixed: routine measuring and cutting can be replaced by tools, but complex installation, custom adjustments, and on-site problem-solving still require humans; competition for entry-level positions will intensify.
-
 Starting as a junior installer, you can gain experience and advance to senior installer, foreman, or project manager. Some choose to specialize in areas like cabinet installation or start their own renovation company.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior installer, you can gain experience and advance to senior in
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer sponsorship, occupation not on MLTSSL, usually requires two years of work experience |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | A provisional visa for regional areas requiring state nomination, meeting points test criteria, and the occupation must be on the relevant occupation list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is usually not on the skilled migration occupation list, so m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-improvement-installer/AU)**

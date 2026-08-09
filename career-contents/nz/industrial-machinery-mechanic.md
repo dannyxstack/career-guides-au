@@ -52,8 +52,6 @@ Industrial machinery mechanics maintain and repair mechanical equipment in minin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 Start as a maintenance technician and can advance to senior technician, team leader, or maintenance manager. By gaining experience and obtaining national certifications (e.g., New Zealand Engineering Certificate), you can move into automation systems or project management. Some start their own maintenance service company.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a maintenance technician and can advance to senior technician, team lea
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, 6-point system, scoring based on qualifications, skilled work experience, and income. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa requiring employer sponsorship, usually as a transitional step. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Overseas experience is partially recognized but typically requires NZQA asses
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-machinery-mechanic/NZ)**

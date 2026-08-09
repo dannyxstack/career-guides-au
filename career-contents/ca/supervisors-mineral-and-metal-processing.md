@@ -52,8 +52,6 @@ Oversee daily operations of mineral and metal processing plants, coordinate work
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Supervisory decisions of mining and quarry supervisors are not easily replaced, but tasks like data reporting and document management can be heavily automated by AI, making the overall impact mixed.
-
 Typically promoted from operator to supervisor, then to factory manager or production director. Some supervisors pursue engineering or management degrees to move into technical or general management roles.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Typically promoted from operator to supervisor, then to factory manager or produ
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually requires several years of operational experience and completion of su
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-mineral-and-metal-processing/CA)**

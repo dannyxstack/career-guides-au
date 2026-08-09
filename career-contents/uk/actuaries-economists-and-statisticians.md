@@ -52,8 +52,6 @@ Actuaries, economists and statisticians apply theoretical principles and practic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
-
 Career progression typically starts from junior analyst/assistant, gradually advancing to senior analyst/actuary, chief economist, or statistician. Can move into management roles such as actuary director, chief data officer, or become an independent consultant.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression typically starts from junior analyst/assistant, gradually adv
 | Subclass Scale-up (Scale-up Worker Visa) | For professionals employed by eligible high-growth companies; first 6 months require sponsorship, then can change sponsor. |
 | Subclass Graduate (Graduate Visa) | Applies to international graduates who have obtained a degree from a UK university, allowing them to work in the UK for 2 years (3 years for PhD), then transition to a Skilled Worker visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires obtaining professional certification (FIA/FFA) from the In
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actuaries-economists-and-statisticians/UK)**

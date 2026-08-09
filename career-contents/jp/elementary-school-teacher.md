@@ -4,8 +4,6 @@
 
 A professional who instructs children as a homeroom teacher in public elementary schools, conducting subject lessons, life guidance, and parent communication, and implementing education based on the curriculum guidelines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who instructs children as a homeroom teacher in public elementary
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation advances in lesson prep, grading, and grade management, but interpersonal skills like student guidance and parent communication are difficult to replace. Teacher numbers decline, but high-quality education is demanded.
-
 Career advancement from homeroom teacher to grade head, academic affairs head, vice principal, and principal. Graduate study for specialized licenses or management training is effective for career growth.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Career advancement from homeroom teacher to grade head, academic affairs head, v
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when employed as a foreign teacher. Requires Japanese proficiency (around N1) and teaching license compatibility. |
-| Subclass 特定活動（本邦大学卒業者） (Designated Activities (Education)) | For teaching at Japanese language institutions, rarely for elementary school teachers. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based system for education, experience, and income; possible for long-term, high-earning teachers. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Homeroom teacher → Subject head/Grade head → Academic affairs head → Vi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-school-teacher/JP)**

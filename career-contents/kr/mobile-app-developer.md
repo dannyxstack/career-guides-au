@@ -4,8 +4,6 @@
 
 A professional who designs, develops, tests, and maintains applications for smartphones and tablets, developing native or cross-platform apps on iOS and Android.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who designs, develops, tests, and maintains applications for smar
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI can assist in code generation, testing, optimization in mobile app development, but creative design and complex problem-solving remain human roles. Utilizing AI tools greatly boosts productivity, making collaboration with AI important.
-
 Can advance from junior developer to senior developer to tech lead/CTO, or become a specialist in fields like AI or blockchain. Career development is possible at both startups and large corporations.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Can advance from junior developer to senior developer to tech lead/CTO, or becom
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled professionals, requires 5+ years experience or degree |
-| Subclass D-10 (E-10 (Job Seeking)) | Post-graduation job seeking, 6 months to 2 years |
-| Subclass F-2 (F-2 (Residence)) | Point-based permanent residency, convertible from E-7 |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: Learning latest languages like Swift, Kotlin, Flutter is essential; UI/UX des
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-app-developer/KR)**

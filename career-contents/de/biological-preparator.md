@@ -53,8 +53,6 @@ Prepares, preserves, and manages biological specimens (e.g., anatomical specimen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The automation risk for biological specimen preparers is moderate to high; routine repetitive tasks like slicing and recording are easily replaced by AI, but fine dissection, artistic specimen presentation, and collaboration with research and clinical work rely on human skills, making it a mixed outlook.
-
 Can progress from assistant to senior specimen preparer, or move into lab management, museum technician, medical education technologist, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from assistant to senior specimen preparer, or move into lab manage
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually requires completion of dual vocational training (3 years) or a releva
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-preparator/DE)**

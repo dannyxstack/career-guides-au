@@ -54,8 +54,6 @@ Repair and adjust cameras and photographic equipment, including commercial video
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in diagnosing camera faults and optimizing repair processes, but due to precision mechanical adjustments and physical part replacement, cannot be fully automated; apprenticeship positions are decreasing, but senior repair technicians are still needed.
-
 Can advance to senior technician or move into equipment sales, technical service management; or specialize in high-end film camera equipment repair.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance to senior technician or move into equipment sales, technical service
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Outlook not optimistic. Smartphone popularity has reduced demand for cameras,
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/camera-and-photographic-equipment-repairers/US)**

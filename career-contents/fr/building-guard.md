@@ -4,8 +4,6 @@
 
 Responsible for monitoring and protecting building security, managing personnel and vehicles, and preventing theft and vandalism.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for monitoring and protecting building security, managing personnel 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Housing security guard positions in France face the risk of high automation shrinkage. AI monitoring and access control systems will replace most routine patrols and access management, sharply reducing demand.
-
 You can be promoted to Security Supervisor, Security Manager, or transition to professional security industries (such as private security companies).
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted to Security Supervisor, Security Manager, or transition to p
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Requires employer sponsorship, but approval is difficult as it is not a shortage occupation. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Certification of senior positions or special skills is required, which is generally not applicable to basic security |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Low possibility. This occupation is not in short supply, with higher employer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-guard/FR)**

@@ -4,8 +4,6 @@
 
 Job involves carrying and organizing cargo at warehouses, factories, and truck loading/unloading. May also operate forklifts and cranes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Job involves carrying and organizing cargo at warehouses, factories, and truck l
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With AI and automation, AGVs and automated warehouse systems are being introduced, reducing simple transportation work. However, on-site flexible judgment and complex cargo handling will remain for humans, so complete replacement is unlikely.
-
 Obtaining a forklift license or crane skills training can lead to promotion to leader or site supervisor. Easy to start even without experience.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Obtaining a forklift license or crane skills training can lead to promotion to l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Field: Materials & Industrial Machinery, Electrical & Electronic Information Related Manufacturing)) | Engage in cargo handling/transport in manufacturing; max 5-year stay. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to specialized roles like logistics/warehouse management. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Field: Materials & Industrial Machinery, Electrical & Electronic Information Related Manufacturing)) | Engage in skilled tasks; family allowed, no stay limit. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: Forklift operation training and slinging training are basic. Additionally, ob
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/onsite-loading-transport-worker/JP)**

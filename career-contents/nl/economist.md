@@ -52,8 +52,6 @@ Economists in the Netherlands engage in economic analysis, policy advice, and ma
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Junior analysts can advance to senior economists or policy advisors, or move into management roles or academic research.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior analysts can advance to senior economists or policy advisors, or move int
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled non-EU citizens requiring employer sponsorship; annual income threshold approximately €5,331/month (over 30) or €3,909/month (under 30). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled immigration; requires work contract and annual salary not less than €5,670/month (2024 standard); family reunification possible. |
-| Subclass Orientation Year (Zo (Orientation Year) | For international students who graduated in the Netherlands, provides a one-year job search period; can switch to a work visa upon finding a job. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: From analyst to senior economist, then to policy advisor or management role, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economist/NL)**

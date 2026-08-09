@@ -51,8 +51,6 @@ This role involves installing, commissioning, and repairing electrical and mecha
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation heavily relies on repetitive machining and inspection tasks; AI and automation will significantly replace these parts, sharply reducing demand, but complex work like repair and debugging remains irreplaceable.
-
 Progress from assembly worker/technician to advanced maintenance technician or supervisor, obtain Engineering Technician (EngTech) certification, or transition to automation and robotics.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Progress from assembly worker/technician to advanced maintenance technician or s
 | Subclass Scale-up (Scale-up visa) | Can apply if employed by a qualifying high-growth enterprise. |
 | Subclass Graduate (Graduate visa) | UK university graduates can first obtain a 2-year work right, then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: This occupation is on the skilled migration shortage list, making employer sp
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-working-production-and-maintenance-fitters-and-technicians/UK)**

@@ -51,8 +51,6 @@ Assist professional educators in caring for children aged 0-6, responsible for d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The daily care and record-keeping tasks of child care assistants face risks of automation, but interpersonal interaction and emotional support form a moat, intensifying competition for entry-level positions.
-
 Assistants can be promoted from assistant to Early Childhood Education Assistant (CAP AEPE) or Early Childhood Education Professional (EJE), and can also transition to home childcare management.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Assistants can be promoted from assistant to Early Childhood Education Assistant
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Applicable to obtaining a French employer employment contract where the position meets labor market demand. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you possess advanced qualifications or special skills, you may apply for a talent passport. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +139,12 @@ A: Employer-sponsored application for the Salarié work visa is usually required
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-assistant-k1303/FR)**

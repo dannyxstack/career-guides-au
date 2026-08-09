@@ -50,8 +50,6 @@ This occupation involves cutting, bending, and welding metal sheets to produce v
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and robots are replacing simple cutting and bending tasks, but complete substitution is difficult as human skill is still needed for complex custom welding and assembly.
-
 Junior metal fabricators can advance to skilled workers or foremen with experience, or grow into master craftsmen or site managers by obtaining relevant certifications such as welding licenses.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Junior metal fabricators can advance to skilled workers or foremen with experien
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Skilled functional personnel (welding/fabrication) can work on E-7-1 visa, must meet experience and qualification requirements |
-| Subclass E-9 (Non-professional Employment (E-9)) | Under the Employment Permit System, can work as fabrication assistant, limited to simple tasks |
-| Subclass F-2 (Residence (F-2)) | After a certain period of stay, can convert to skilled functional personnel, points system |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: Employment of skilled functional workers is possible with an E-7 (Specific Ac
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fabricator-and-welder/KR)**

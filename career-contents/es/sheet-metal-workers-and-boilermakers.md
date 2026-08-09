@@ -52,8 +52,6 @@ Skilled workers engaged in metal sheet forming, boiler and pressure vessel manuf
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 You can start as a junior sheet metal worker or welder, gain experience through apprenticeship programs, obtain welding certifications (such as ISO 9606), and be promoted to foreman, workshop supervisor, or quality inspector. You can also run your own sheet metal processing shop.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can start as a junior sheet metal worker or welder, gain experience through 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Apply after obtaining a job contract with a Spanish company; Proof that the position cannot be filled by locals (priority approval for shortage occupations) |
-| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or equivalent experience is required (FP senior is considered sufficient); Annual salary threshold: approximately €34,000 (2025) |
-| Subclass Busqueda empleo (Job Search Visa) | Highly skilled talents can first apply for a 6-month job-seeking visa, then transfer to work and stay after finding a job; Proof of education/experience is required |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically, completing two years of intermediate vocational training (FP Grado
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-workers-and-boilermakers/ES)**

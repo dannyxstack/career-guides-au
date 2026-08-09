@@ -51,8 +51,6 @@ Assist nuclear physicists and nuclear engineers in operating, maintaining nuclea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Nuclear technician jobs are moderately affected by AI automation; data processing and routine monitoring may be replaced, but field operations, compliance checks, and emergency response still rely heavily on human judgment — a mixed outlook.
-
 Entry-level nuclear technician can advance to senior technician or supervisor, some become radiation safety officer or nuclear engineer through continuing education. Typically requires on-the-job training and professional certification.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level nuclear technician can advance to senior technician or supervisor, s
 | Subclass EB-3 (Employment-Based Green Card (EB-3)) | Requires PERM labor certification with long waiting times |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens, relevant occupation required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Typically, first obtain an F-1 student visa to study a relevant degree, then 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nuclear-technicians/US)**

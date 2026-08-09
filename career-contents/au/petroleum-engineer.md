@@ -54,8 +54,6 @@ Petroleum engineers design and optimise plans for oil and gas exploration, drill
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI can easily replace data analysis and routine design tasks for petroleum engineers, but high-risk field decisions, complex geological modeling, and multidisciplinary coordination still rely on human experience.
-
 Entry can start as a field engineer or drilling engineer; with experience, one can advance to senior engineer, project manager, or technical director, and some may move into consulting or management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry can start as a field engineer or drilling engineer; with experience, one c
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Energy transition is driving petroleum engineers' skills toward carbon captur
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-engineer/AU)**

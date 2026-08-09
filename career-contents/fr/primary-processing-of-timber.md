@@ -4,8 +4,6 @@
 
 Engaged in primary processing such as sawing, peeling, and drying logs, operating saws and planers to ensure wood dimensions and quality meet subsequent production requirements.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in primary processing such as sawing, peeling, and drying logs, operatin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Primary wood processors face significant automation challenges; routine tasks like sawing, peeling, and sorting can be efficiently replaced by machine vision and robotics, leading to a significant reduction in entry-level positions.
-
 Promotion from operator to production line supervisor or quality inspector; Through further study with BTS or licence, you can enter industrial management positions, such as production managers or technical consultants.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Promotion from operator to production line supervisor or quality inspector; Thro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Visa) | Must obtain a French employer contract, work permits reviewed by DIRECCTE, and salary must be at least SMIC. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requiring an annual salary ≥SMIC×1.5 or equivalent, and is less commonly used in the wood processing field. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: It is difficult. This occupation is not on the French shortage list, requirin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-processing-of-timber/FR)**

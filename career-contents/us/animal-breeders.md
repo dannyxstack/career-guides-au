@@ -54,8 +54,6 @@ Select and breed animals based on pedigree, traits, and offspring, may involve a
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal breeder work is partly compressed by automation (e.g., data recording and basic genetic analysis), but AI enhances human capability in decision support like genetic selection and embryo analysis; overall impact is mixed.
-
 Junior breeders can advance to senior breeding specialists, farm managers, or genetics consultants. With experience, they can manage large breeding projects or start breeding companies, with some transitioning to animal genetics research or academia.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior breeders can advance to senior breeding specialists, farm managers, or ge
 | Subclass H-2A (H-2A Temporary Agricultural Workers) | Temporary agricultural worker visa for seasonal breeding work, employer must demonstrate US worker shortage. |
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Employment-based third preference, requires employer sponsorship and PERM labor certification; but animal breeders generally do not meet high-skill requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: A high school diploma is sufficient to start, but an associate or bachelor's 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-breeders/US)**

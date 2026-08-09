@@ -52,8 +52,6 @@ Automotive technicians in New Zealand diagnose, repair, and maintain motor vehic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Auto mechanics face mixed impact from automation: diagnostics enhanced by AI, but routine maintenance and documentation may be reduced; EV transition creates new demand but requires learning new skills like high-voltage, otherwise risk of replacement.
-
 Junior technicians can advance to senior technicians or workshop supervisors, and operate independently after obtaining WOF authorization. EV certification (e.g., EV Certificate) boosts competitiveness and salary growth.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior technicians can advance to senior technicians or workshop supervisors, an
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system, e.g., qualification + work experience, and hourly wage meets requirements. But the Green List path is more direct. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer sponsorship, hourly wage threshold met, maximum 3 years, renewable |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The Motor Trade Association (MTA) New Zealand can assess overseas qualificati
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-mechanic-general/NZ)**

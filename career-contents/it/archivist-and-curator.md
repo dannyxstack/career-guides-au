@@ -51,8 +51,6 @@ Archivists and curators are responsible for collecting, preserving, managing, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Archivists and curators face both risks and opportunities from AI automation: simple cataloguing, digitisation and online display tasks are easily replaced, but curatorial creativity, authentication, and ethical judgment remain core human roles, requiring proactive enhancement of AI collaboration skills.
-
 Typically start as an archive assistant or curatorial assistant, and with experience can advance to senior curator or department head. Requires continuous learning of digital management skills.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Typically start as an archive assistant or curatorial assistant, and with experi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and above-average salary (at least €24,767/year). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa, applicable to non-quota-limited positions, requires employer sponsorship |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit issued by the Italian labor office, usually requiring employer application |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Eligible via EU Blue Card (requires university degree and higher salary) or D
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivist-and-curator/IT)**

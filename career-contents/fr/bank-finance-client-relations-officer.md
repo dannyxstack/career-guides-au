@@ -53,8 +53,6 @@ Responsible for maintaining client relationships with banks or financial institu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of bank/financial customer relationship specialists will be significantly reshaped by AI: routine customer consultations, data entry, and other tasks will be automated, but high-value relationship maintenance, complex financial planning, and deep trust building will still require human experts.
-
 Promotion can be made to Client Relationship Manager, Wealth Management Consultant, or Deputy Branch Manager. Continuously obtaining financial certifications (such as CIF) and shifting towards high-net-worth clients or corporate finance directions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Promotion can be made to Client Relationship Manager, Wealth Management Consulta
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Regular work residency requires employer sponsorship and matches the work contract |
-| Subclass Passeport Talent (Passeport Talent – Qualified Employee) | Suitable for highly skilled talent, with an annual salary of ≥54k euros available for application |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, annual salary ≥ 53k euros, simplified residency path |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Yes, you must hold either an AMF CIF certification (for selling financial pro
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-finance-client-relations-officer/FR)**

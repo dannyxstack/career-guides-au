@@ -52,8 +52,6 @@ Responsible for soft furnishing production and installation of furniture, vehicl
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Furniture finishers face a medium-low automation risk, but AI-driven design tools and automated cutting equipment will compress entry-level positions while enhancing high-skilled work.
-
 Can advance to foreman or become a self-employed tradesperson, or further study to become an interior technician or design consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to foreman or become a self-employed tradesperson, or further study 
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, allowing entry to Germany to find an employer. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires relevant qualifications and German language ability. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Dual vocational training in Germany typically lasts 3 years, includes a stipe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/upholsterer-and-vehicle-interior-fitter/DE)**

@@ -4,8 +4,6 @@
 
 Working in Spain as a motorcycle or moped usually involves courier services, food delivery, or short-distance urban transport. This profession has low skill requirements and a low entry barrier, but the work intensity is high and income is unstable.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Working in Spain as a motorcycle or moped usually involves courier services, foo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation will significantly reduce motorcycle driver positions within 5-10 years, while automated route planning and unmanned delivery technologies will replace many simple delivery tasks, retaining only complex urban road conditions and interpersonal interaction positions.
-
 Career advancement opportunities are limited; you can usually move to distribution station supervisors or logistics dispatch roles, but this requires additional training and experience. Some drivers may transition to truck drivers or start small delivery companies.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Career advancement opportunities are limited; you can usually move to distributi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | Work residence employed by a Spanish company requires employer sponsorship. Motorcycle driver positions are generally not considered highly skilled, with low approval rates. |
-| Subclass Autónomo (Self-Employment Visa) | Self-employed residence, suitable for those planning to set up a personal delivery business in Spain. A business plan must be submitted and financial capability demonstrated. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You must hold a valid motorcycle license (AM/A1/A2/B), as well as a residence
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-and-moped-drivers/ES)**

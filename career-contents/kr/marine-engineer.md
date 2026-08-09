@@ -50,8 +50,6 @@ Operates and maintains engine, boiler, generator, and other machinery on a ship;
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation support condition monitoring and predictive maintenance of ship machinery, but complete replacement is difficult as human judgment and skill are essential for failure response and repair.
-
 After obtaining 4th→3rd→2nd→1st class engineer licenses, one can advance to captain or shore management positions, or build a career as a maritime officer.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ After obtaining 4th→3rd→2nd→1st class engineer licenses, one can advance t
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Issuable for boarding Korean vessels as a professional maritime officer |
-| Subclass E-9 (E-9 (Non-professional Employment) visa) | Limited to some crew duties such as assistant marine engineer |
-| Subclass F-2 (F-2 (Residence) visa) | Available for employment after long-term residence, requires salary conditions, etc. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: A maritime officer license issued by the Ministry of Oceans and Fisheries (En
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-engineer/KR)**

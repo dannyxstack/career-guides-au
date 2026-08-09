@@ -1,10 +1,8 @@
-# Air Quality Engineers and Researchers 职业分析 · 韩国
+# 空气质量工程师与研究员（Air Quality Engineers and Researchers）职业分析 · 韩国
 
-**职业代码: 15531 (KECO)**
+**职业代码：15531 (KECO)**
 
-Professionals who measure and analyze air pollutant emissions, and research and develop reduction technologies to improve air quality.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+测量和分析空气污染物排放，并研究和开发减排技术以改善空气质量的专业人员。
 
 
 ---
@@ -13,9 +11,9 @@ Professionals who measure and analyze air pollutant emissions, and research and 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate's Degree | 2 年 | $10,000,000~$20,000,000（Based on national universities; private universities are more expensive.） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（Environmental Engineering, Chemical Engineering, or related fields.） |
-| 硕士 | 2 年 | $10,000,000~$30,000,000（Advantageous for entering research positions.） |
+| 副学士学位 | 2 年 | $10,000,000~$20,000,000（基于国立大学；私立大学更贵。） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（环境工程、化学工程或相关领域。） |
+| 硕士 | 2 年 | $10,000,000~$30,000,000（进入研究职位具有优势。） |
 
 ---
 
@@ -23,18 +21,18 @@ Professionals who measure and analyze air pollutant emissions, and research and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Air Quality Engineer | Human Resources Development Service of Korea | 必备 | National technical qualification, essential in the air quality field. |
-| Air Quality Industrial Engineer | Human Resources Development Service of Korea | 可选 | Lower-level qualification than Engineer. |
-| Professional Air Quality Engineer | Human Resources Development Service of Korea | 可选 | Highest-level professional qualification, for experienced experts. |
+| 空气质量工程师 | 韩国人力资源开发服务局 | 必备 | 国家技术资格，空气质量领域必备。 |
+| 空气质量工业工程师 | 韩国人力资源开发服务局 | 可选 | 低于工程师的资质。 |
+| 专业空气质量工程师 | 韩国人力资源开发服务局 | 可选 | 最高级别专业资格，面向经验丰富的专家。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Due to growing social concern over air quality issues like fine dust and stronger government regulations, hiring demand is expected to remain steady, though it may be affected by budget fluctuations.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于社会对细颗粒物等空气质量问题的关注度提高及政府监管加强，招聘需求预计保持稳定，但可能受预算波动影响。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ Professionals who measure and analyze air pollutant emissions, and research and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on mid-sized companies; larger companies pay more. |
-| Mid-level (4-10 years) | $38,000,000~$55,000,000 | Varies by experience and qualifications |
-| 资深（10年以上） | $55,000,000~$80,000,000 | Lab director, manager level |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于中型企业；大型企业薪资更高。 |
+| 中级（4-10年） | $38,000,000~$55,000,000 | 因经验和资历而异 |
+| 资深（10年以上） | $55,000,000~$80,000,000 | 实验室主任，经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some tasks such as air pollution data analysis, monitoring, and predictive modeling, but tasks requiring professional judgment like field measurement, regulatory interpretation, and technology development will continue to be led by humans. Overall, efficiency improvement is expected rather than job reduction due to AI.
+人工智能和自动化可替代部分任务如空气污染数据分析、监测和预测建模，但需要专业判断的任务如现场测量、法规解释和技术开发仍由人类主导。总体而言，AI预计带来效率提升而非岗位减少。
 
-Beginners learn measurement and analysis tasks; with experience, they can advance to R&D, environmental consulting, or management. A master's or doctoral degree and research experience are advantageous.
+初学者学习测量和分析任务；有经验后可晋升至研发、环境咨询或管理层。硕士或博士学位及研究经验有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular air quality data collection and report writing
-- Basic statistical analysis and simple modeling
+- 定期空气质量数据收集与报告撰写
+- 基础统计分析与简单建模
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Air pollution dispersion prediction simulation
-- Real-time monitoring system operation
-- Emission estimation and reduction technology optimization
+- 空气污染扩散预测模拟
+- 实时监控系统运行
+- 排放估算与减排技术优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Problem-solving based on field experience and intuition
-- Regulatory and legal interpretation skills
-- Communication with clients and stakeholders
+- 基于现场经验和直觉的问题解决
+- 法规与法律解释技能
+- 与客户和利益相关者的沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- AI/machine learning basics
-- Environmental law understanding
-- Communication skills
+- 数据素养
+- 人工智能/机器学习基础
+- 环境法律理解
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fine dust reduction
-- Carbon neutrality
-- Air pollution measurement
-- Environmental regulation response
+- 减少微尘
+- 碳中和
+- 空气污染测量
+- 环境法规应对
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreigners with professional qualifications and experience can work as air quality engineers |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This occupation requires expertise and is not eligible for E-9 visa |
-| Subclass F-2 (F-2 (Residence)) | Can switch to points system, free to work with long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in environmental issues and who study consistently
-- People who can perform experiments and analysis meticulously
-- People adaptable to understanding and applying regulations and standards
+- 关注环境问题并持续学习的人
+- 能够细致进行实验和分析的人员
+- 能适应理解和应用法规标准的人
 
 **谁不适合**
-- People who dislike outdoor measurements or fieldwork
-- People who find repetitive data analysis and regulatory documentation difficult
+- 不喜欢户外测量或实地工作的人
+- 难以忍受重复性数据分析和监管文档工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an air quality engineer?**
-答：For entry level, about 28-35 million won, mid-level 38-55 million won, senior 55-80 million won.
+**问：空气质量工程师的平均薪资是多少？**
+答：入门级约2800-3500万韩元，中级3800-5500万韩元，高级5500-8000万韩元。
 
-**问：Can foreigners work as air quality engineers?**
-答：Possible with an E-7 visa, but Korean language skills and relevant certifications (e.g., Air Quality Engineer) are required, and the employer must provide a recommendation for employment.
+**问：外国人能担任空气质量工程师吗？**
+答：持E-7签证可能可行，但需要韩语能力和相关认证（如空气质量工程师），且雇主必须提供就业推荐。
 
-**问：What are the essential certifications?**
-答：Air Quality Engineer is essential, while Senior Air Quality Engineer is beneficial for experienced professionals.
+**问：必备认证有哪些？**
+答：空气质量工程师是必备的，而高级空气质量工程师对有经验的专业人士有利。
 
 
 ---
@@ -146,12 +136,12 @@ Beginners learn measurement and analysis tasks; with experience, they can advanc
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/air-quality-engineers-and-researchers/KR)**

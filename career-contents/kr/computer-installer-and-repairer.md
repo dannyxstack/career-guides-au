@@ -4,8 +4,6 @@
 
 A technical role that installs, inspects, and repairs computers, servers, and network equipment in businesses and homes, resolving hardware and software issues.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A technical role that installs, inspects, and repairs computers, servers, and ne
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and RPA replace simple diagnostics and remote repairs, reducing some tasks, but on-site hardware work and complex problem-solving still require humans, leading to mixed effects.
-
 Starting as a junior technician, advancement to L2/L3 engineer, team leader, or IT manager is possible with experience. Certifications and experience are key.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Starting as a junior technician, advancement to L2/L3 engineer, team leader, or 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Skilled technicians (e.g., engineers) with 5+ years of experience can be employed |
-| Subclass E-9 (Non-professional Employment) | This occupation is not eligible for E-9 (Non-professional Employment) and requires expertise |
-| Subclass F-2 (Residence) | Can convert after long-term stay under the Skilled Worker Point System |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: With cloud and remote management, simple installation/repair decreases, while
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-installer-and-repairer/KR)**

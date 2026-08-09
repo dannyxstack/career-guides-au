@@ -51,8 +51,6 @@ Responsible for supervising paint and varnish production processes, ensuring qua
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a team supervisor, your management and coordination duties are harder to replace, but AI has high replaceability in specific tasks like quality inspection and production scheduling, making the role mixed.
-
 Can progress from technician to supervisor, then to production manager or quality director; dual-system training plus work experience are key.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from technician to supervisor, then to production manager or qualit
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderung)) | Vocational qualification required, e.g. dual system training certificate |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system, suitable for applicants who do not yet have a job offer but meet eligibility criteria |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can be promoted to production manager, quality manager, or technical director
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-paint-and-lacquer-technology/DE)**

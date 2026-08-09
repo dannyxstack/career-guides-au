@@ -52,8 +52,6 @@ Veterinarians are on New Zealand's long-term skill shortage list, with a direct 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
-
 Junior veterinarians (0-3 years) can advance to lead or specialist veterinarians after gaining experience, or move into management (clinic manager), academia, or government quarantine departments. Specialist or management roles have significantly higher salaries.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior veterinarians (0-3 years) can advance to lead or specialist veterinarians
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (qualifications + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a pathway to permanent residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: International student total tuition for 5 years approx. NZD 300,000-450,000; 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/NZ)**

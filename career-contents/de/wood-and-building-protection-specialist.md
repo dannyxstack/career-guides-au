@@ -53,8 +53,6 @@ A skilled trade engaged in wood preservation, building moisture protection, fire
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Timber and Building Protection Specialist tasks are highly physical and on-site, making them difficult for AI to replace in the short term; however, automated inspection and spraying equipment may reduce lower-end positions, resulting in overall medium-low risk.
-
 Can advance to site supervisor, technical consultant, or self-employed protection company owner.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance to site supervisor, technical consultant, or self-employed protectio
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires employer sponsorship, can apply after obtaining professional qualification. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based residence permit for job seekers in Germany |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, approximately €800-1,000 per month in the first year, increasing annua
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-and-building-protection-specialist/DE)**

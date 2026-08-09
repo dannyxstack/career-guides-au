@@ -53,8 +53,6 @@ Operate and control nuclear reactors, adjust control rods, monitor equipment, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Many monitoring and data recording tasks for nuclear reactor operators can be automated by AI, but core control decisions, emergency response, and regulatory compliance responsibilities still require human judgment; the outlook is mixed.
-
 Progress from junior operator to senior operator, shift supervisor, or reactor engineer, requiring experience and strict certification; some may transition to nuclear safety or regulatory roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Progress from junior operator to senior operator, shift supervisor, or reactor e
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Must hold an operator's license issued by the U.S. Nuclear Regulatory Commiss
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nuclear-power-reactor-operators/US)**

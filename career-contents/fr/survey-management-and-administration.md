@@ -52,8 +52,6 @@ Responsible for designing, organizing, and supervising various surveys (market, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Survey management and execution positions will be significantly assisted by AI, but core judgment, solution design, and complex coordination remain human advantages. Entry-level data collection and processing tasks carry high risk of being replaced, while the value of advanced analysis and strategic design roles actually rises.
-
 Junior investigator/assistant→ survey project manager→ senior survey manager/research director. You can also enter market research, data analysis, or consulting fields laterally. Those with master's degrees in statistics or social sciences advance faster.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior investigator/assistant→ survey project manager→ senior survey manager
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree and a work contract, who can obtain a 4-year residence permit |
-| Subclass Salarié (Salarié (Employee work permit)) | Standard work visa, employer sponsorship required, and employment contract meeting salary requirements |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary threshold (about 53,000 euros) is required, suitable for intermediate and above positions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can advance from junior investigator to project manager, senior manager, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/survey-management-and-administration/FR)**

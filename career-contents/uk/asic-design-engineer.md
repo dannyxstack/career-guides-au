@@ -51,8 +51,6 @@ ASIC design engineers are responsible for the digital front-end (RTL design/inte
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
-
 The UK focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ The UK focuses on AI accelerators and low-power/simulation design, with engineer
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asic-design-engineer/UK)**

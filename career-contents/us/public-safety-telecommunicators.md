@@ -54,8 +54,6 @@ At 911 public safety answering points and emergency operations centers, answer e
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of public safety telecommunications dispatchers will be partially automated by AI voice recognition and intelligent dispatch systems, but judgment in complex emergencies and humanized communication still rely on humans; total employment may stabilize but entry barriers will rise.
-
 Junior dispatchers can advance to senior dispatchers, supervisors, or trainers, or transition to emergency management, public safety administration. Some continue education to enter law enforcement or firefighting.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior dispatchers can advance to senior dispatchers, supervisors, or trainers, 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Demand is stable, occupation is in shortage; due to shift work and high press
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-safety-telecommunicators/US)**

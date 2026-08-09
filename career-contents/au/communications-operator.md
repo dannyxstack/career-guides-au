@@ -54,8 +54,6 @@ Communications operators in police, fire, ambulance, and other emergency service
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Communication operators' routine tasks like call routing and resource scheduling are easily automated by AI, but human core skills such as crisis judgment, multi-department coordination, and emotional support are difficult to replace; roles will upgrade to high-complexity emergency management.
-
 Usually promote from operator to senior operator, team supervisor, or move into emergency management, training, and other roles, requiring experience and certification.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually promote from operator to senior operator, team supervisor, or move into 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes, can be promoted to senior operator, supervisor, or transition into emerg
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/communications-operator/AU)**

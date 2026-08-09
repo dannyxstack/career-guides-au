@@ -53,8 +53,6 @@ Drive and operate agricultural tractors, harvesters, and other forestry and agri
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly change the work of agricultural and forestry machinery operators in the next 10 years, replacing some routine driving and monitoring tasks, but also enabling operators to complete complex field operations and decisions more efficiently through enhanced perception, path planning, and fault warnings.
-
 Can progress from junior operator to senior mechanic or farm machinery fleet supervisor; some may move into farm machinery sales or training through continuing education (e.g., Meister).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior operator to senior mechanic or farm machinery fleet sup
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to find a job, requires recognized degree or professional qualification |
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a work contract from a German employer and recognized professional qualifications. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, driving agricultural machinery requires a German class T licence. Foreig
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driver-of-agricultural-and-forestry-machinery/DE)**

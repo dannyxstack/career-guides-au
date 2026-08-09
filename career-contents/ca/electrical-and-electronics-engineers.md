@@ -53,8 +53,6 @@ Electrical engineers design, develop, and supervise power systems, electronic de
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electrical and electronics engineers face mixed impacts from AI: repetitive tasks like design verification and wiring optimization can be automated, but complex system integration, innovative design, and safety compliance still require human judgment; using AI properly can improve efficiency.
-
 Junior electrical engineers can progress to senior engineer, project manager, or technical specialist. Typically require 4+ years of experience, obtaining P.Eng. license allows greater responsibility, and can transition to specialized fields like renewable energy or automation.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior electrical engineers can progress to senior engineer, project manager, or
 | Subclass PNP (Provincial Nominee Program) | Ontario, BC, Alberta, etc. have skilled immigration categories that prioritize engineers. Requires provincial nomination. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with job offers. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Apply through provincial engineering association (e.g., PEO in Ontario); requ
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-engineers/CA)**

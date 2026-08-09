@@ -55,8 +55,6 @@ Corporate trainers and training managers design, develop and deliver employee le
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI/automation reshapes corporate training roles: content production and administrative tasks are compressed, but trainers' value in strategy design, evaluation and coaching is amplified, and the role upgrades to learning experience designer.
-
 AI Upskilling training is the fastest-growing area of corporate training in Australia in 2025, with major companies and government agencies needing dedicated trainers to design AI tool application courses. Trainers specialising in Learning Experience Design (LXD) and digital learning (e-learning/LMS) command significant salary premiums.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ AI Upskilling training is the fastest-growing area of corporate training in Aust
 | Subclass 189 (SkillSelect Independent) | Invitation-based; on MLTSSL; VETASSESS assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Both are MLTSSL shortage occupations; HR Manager salaries are slightly higher
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/corporate-trainer-training-and-development-manager/AU)**

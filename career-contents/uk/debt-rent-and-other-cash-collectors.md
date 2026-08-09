@@ -53,8 +53,6 @@ Responsible for collecting overdue or unpaid amounts from individuals and busine
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Debt collectors rely heavily on repetitive communication and standardized collection processes; AI automation is rapidly replacing core tasks, entry-level positions are severely reduced, requiring a shift to strategic management or supervisory roles.
-
 Can advance from junior debt collector to senior debt collector, team supervisor, or credit control manager, or transition to fields like financial consulting.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior debt collector to senior debt collector, team supervisor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Can apply for a Skilled Worker visa, but not on the shortage occupation list;
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/debt-rent-and-other-cash-collectors/UK)**

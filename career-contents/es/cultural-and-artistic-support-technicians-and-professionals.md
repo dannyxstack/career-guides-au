@@ -4,8 +4,6 @@
 
 This profession includes auxiliary technical personnel in the cultural and arts fields, such as stage technicians, exhibition installers, and art studio assistants, responsible for equipment operation, set construction, and material preparation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This profession includes auxiliary technical personnel in the cultural and arts 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cultural and arts support technicians and professionals face moderate overall risk, with some repetitive tasks being replaced by AI. However, AI also enhances creative realization, equipment management, and project coordination capabilities. Human aesthetic judgment and on-site flexibility remain the core moat.
-
 Typically, they start as assistants or apprentices, and after gaining experience, can be promoted to technical supervisor or project manager. Some personnel have pursued more specialized roles through further education, such as lighting designers or exhibition curators.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Typically, they start as assistants or apprentices, and after gaining experience
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer, and the position must prove that it cannot be filled within the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find work, but you must prove your financial capability. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can start as a technical assistant and advance to technical supervisor or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cultural-and-artistic-support-technicians-and-professionals/ES)**

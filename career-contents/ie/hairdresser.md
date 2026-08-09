@@ -53,8 +53,6 @@ Provide hair cutting, coloring, styling, and other hairdressing services to clie
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist rather than fully replace barbers, but task reorganization is significant: automation can handle scheduling, consultations, and some styling processes, while core creative and interpersonal skills remain irreplaceable. Entry-level roles may have lower barriers due to AI tools, but advanced customization requires higher skills.
-
 Can advance from junior barber to senior hairstylist, creative director, or salon manager. After building a client base, can also start own salon.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from junior barber to senior hairstylist, creative director, or salo
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: This occupation is not on the shortage list; a general work permit is require
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/IE)**

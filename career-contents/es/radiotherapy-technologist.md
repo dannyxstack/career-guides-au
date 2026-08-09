@@ -4,8 +4,6 @@
 
 Radiation therapists operate radiation therapy equipment to deliver precise radiotherapy plans for cancer patients and ensure radiation safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Radiation therapists operate radiation therapy equipment to deliver precise radi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
-
 Promotion possible to lead radiotherapist, radiation physicist, or department manager; Gain more clinical responsibility through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Promotion possible to lead radiotherapist, radiation physicist, or department ma
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Apply for employment work permit after obtaining a work contract from a Spanish hospital; employer must prove they cannot hire within the EU. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | If the annual salary meets the threshold (about 34,000 euros), a skilled professional visa application is possible, with faster approval. |
-| Subclass Busqueda empleo (Job Search Visa) | After master's degree holders, you can apply for a 12-month job-seeking residence permit to find positions as radiotherapy technicians. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Homologación is required, which takes 6-12 months. After certification, immi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiotherapy-technologist/ES)**

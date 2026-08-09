@@ -53,8 +53,6 @@ Restaurant managers oversee daily operations, including staff management, custom
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on restaurant manager roles is mixed: scheduling, inventory counting, etc., are automated, but human strengths like customer experience management and team leadership are amplified, requiring proactive adoption of digital tools.
-
 Career progression from assistant manager to restaurant manager, then to regional manager or food and beverage director. With experience, you can start your own restaurant.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression from assistant manager to restaurant manager, then to regiona
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not required, but a hotel management diploma or degree can enhance employment
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-manager/IE)**

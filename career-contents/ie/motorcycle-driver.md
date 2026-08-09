@@ -52,8 +52,6 @@ Motorcycle drivers primarily deliver courier, food delivery, and passenger and f
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Motorcycle drivers face high risk of automation replacement, especially in navigation, dispatching, and payment processes. Entry barriers are extremely low, and job numbers will be significantly reduced by AI-optimized unmanned delivery vehicles and drones, leading to a marked decline in income over the next 5-10 years.
-
 Typical career progression includes fleet supervisor or logistics dispatcher. Experienced drivers can become courier trainers or start their own transport business. Some move into management roles at courier companies.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Typical career progression includes fleet supervisor or logistics dispatcher. Ex
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: A taxi license is required for passenger transport services, while freight se
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-driver/IE)**

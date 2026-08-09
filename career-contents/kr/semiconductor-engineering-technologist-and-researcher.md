@@ -51,8 +51,6 @@ Professionals responsible for semiconductor device, process, circuit design and 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is being actively introduced into semiconductor design and process optimization, greatly improving work efficiency, but core architecture design and creative problem-solving remain the domain of human experts.
-
 Typically start as researchers in labs/companies after a master's or doctoral degree; after 5–10 years of experience, advance to senior/principal researcher, team leader/lab head, and progress to management (CTO) or expert technical track.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Typically start as researchers in labs/companies after a master's or doctoral de
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled professionals in specialized fields, targeting semiconductor engineers |
-| Subclass D-10 (D-10 (Job Seeking)) | Job-seeking period after graduation for international students |
-| Subclass F-2 (F-2 (Residence)) | Points-based permanent residency, long-term residence for skilled workers |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A master's or doctoral degree and strong performance are important; R&D achie
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/semiconductor-engineering-technologist-and-researcher/KR)**

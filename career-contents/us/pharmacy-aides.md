@@ -53,8 +53,6 @@ Pharmacy assistants record delivered medications, store incoming stock, notify s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pharmacy assistants face high risk of automation, with AI and robots taking over core tasks like inventory management, prescription receiving, and checkout, potentially leading to significant job reductions.
-
 Pharmacy assistants can advance to pharmacy technicians through experience and certification exams. Some assistants pursue a pharmacy degree to become pharmacists or move into pharmacy management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Pharmacy assistants can advance to pharmacy technicians through experience and c
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually only a high school diploma is required, with on-the-job training prov
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-aides/US)**

@@ -52,8 +52,6 @@ Air traffic controllers direct aircraft takeoffs, landings, and en-route flights
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly enhance decision support and monitoring capabilities for air traffic controllers, but core safety command responsibilities remain under human control. It will not replace them in the short term; instead, it presents an opportunity for improved efficiency and job satisfaction.
-
 Career paths start at airport towers or area control centers, with progression to supervisor, trainer, or management positions, and some move into senior roles at the Irish Aviation Authority (IAA).
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career paths start at airport towers or area control centers, with progression t
 | Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, annual salary must be above €43,905, requires employer offer. |
 | Subclass General Employment P (General Employment Permit) | Applicable to occupations with annual salary above €30,000, but usually requires labor market testing |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: IAA paid training lasts about 18 months, plus previous undergraduate educatio
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/IE)**

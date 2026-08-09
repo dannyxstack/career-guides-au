@@ -53,8 +53,6 @@ Prepare, season, and cook dishes such as soups, meats, vegetables, or desserts i
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
-
 Junior chefs can advance to sous chef, head chef, or executive chef. Can also move into catering management, menu development, or private chef. Experience may open opportunities to start own restaurant.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior chefs can advance to sous chef, head chef, or executive chef. Can also mo
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal chefs may apply, but require employer sponsorship and limited quotas |
 | Subclass O-1B (Extraordinary Ability in Arts) | Outstanding chefs (e.g., award-winning or from renowned restaurants) may apply, but the bar is extremely high |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Requires knife skills, cooking techniques, time management, teamwork, and cre
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooks-restaurant/US)**

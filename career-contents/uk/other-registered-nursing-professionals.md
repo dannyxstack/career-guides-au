@@ -54,8 +54,6 @@ Other registered nursing professionals provide comprehensive nursing care to pat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Clear career progression path: start as a clinical nurse (Band 5), advance to specialist nurse (Band 6), advanced practice nurse (Band 7), nursing consultant or nursing management roles (Band 8+). Further study can lead to education, research, or leadership positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Clear career progression path: start as a clinical nurse (Band 5), advance to sp
 | Subclass Health & Care (Health and Care Worker visa) | Dedicated health visa, exempt from IHS surcharge, fast-tracked processing, applicable to NHS and care work. |
 | Subclass Graduate (Graduate visa) | Nursing graduates from the UK can apply for a 2-year graduate visa to gain work experience and switch to a work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Clinical pathway: from Band 5 registered nurse to Band 6 specialist nurse, th
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-registered-nursing-professionals/UK)**

@@ -52,8 +52,6 @@ Other language teachers in Ireland teach non-English foreign languages such as C
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on language teachers is mixed: basic teaching tasks are easily replaced by automatic translation and language learning apps, but advanced interaction and assessment still require human judgment, necessitating a shift to higher-value teaching.
-
 Career paths include advancing from part-time teacher to course coordinator or language school director. Further study such as a TESOL or Applied Linguistics master's can lead to higher education or curriculum development. There are also opportunities to transition into translation or international education management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career paths include advancing from part-time teacher to course coordinator or l
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, annual salary threshold approximately €43,000 (2025), requires relevant degree. Language teachers may find it difficult to meet. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only applies to occupations on the skilled occupation list; language teachers are typically not included. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from part-time teacher to curriculum developer, language school 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-language-teacher/IE)**

@@ -51,8 +51,6 @@ Wood treatment workers apply chemical treatments such as preservatives and fire 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Tasks of wood processing workers are highly programmable; automation and AI will significantly replace manual operations, with entry-level positions notably shrinking, but demand for supervision and technical maintenance remains.
-
 Entry-level workers can advance to senior processing worker or supervisor through experience. Further training can lead to quality control or production management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level workers can advance to senior processing worker or supervisor throug
 | Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, requires employer sponsorship |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from entry-level worker to senior processing worker, supervisor, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-treater/IE)**

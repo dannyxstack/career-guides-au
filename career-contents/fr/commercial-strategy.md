@@ -53,8 +53,6 @@ Business strategy experts are responsible for formulating and executing a compan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Junior Business Analysts can be promoted to Business Strategy Manager, then to Director or Vice President. You can also shift to product management, business development, or entrepreneurship. Gaining cross-industry experience benefits career development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior Business Analysts can be promoted to Business Strategy Manager, then to D
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with an annual salary of ≥53,955 euros (2023 standard) |
-| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required, and the work permit is bound to the employer |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talent, with an annual salary of ≥53,955 euros |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can rise from junior analyst to manager or director, or move into product
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-strategy/FR)**

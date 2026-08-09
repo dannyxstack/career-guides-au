@@ -52,8 +52,6 @@ Fencers in New Zealand install and repair various types of fences, a in-demand o
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fencing work is physically intensive outdoor work; direct risk of AI automation replacement is low, but tasks such as design, measurement, and quoting will be significantly enhanced by AI tools, with entry barriers slightly lowered due to digital tools, overall mixed prospects.
-
 Junior fencers can advance to senior technician or supervisor, and can start their own business after gaining experience. Those with relevant certifications or completed apprenticeships advance faster; some transition to project managers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior fencers can advance to senior technician or supervisor, and can start the
 | Subclass SMC (Skilled Migrant Category) | Eligible for skilled migration application, needs to meet the 6-point system (e.g., qualifications + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa suitable for gaining experience before transitioning to residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory but recommended: New Zealand Fencing National Certificate (Leve
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fencer/NZ)**

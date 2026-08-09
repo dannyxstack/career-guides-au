@@ -52,8 +52,6 @@ Responsible for installing, maintaining, troubleshooting, and repairing agricult
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are enhancing diagnostic and predictive maintenance capabilities, but physical repair work remains irreplaceable; entry-level roles are slightly narrowing due to technologies like remote monitoring.
-
 Can advance from junior technician to senior technician, maintenance supervisor, or equipment service manager. Further study can specialize in specific machinery (e.g., precision agriculture equipment) or shift to sales/training roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can advance from junior technician to senior technician, maintenance supervisor,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly educated or experienced skilled migrants, requires employer sponsorship, with a salary threshold of about €5,008/month (2025, age 30+). |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for university degree holders, salary requirement approx. €5,668/month (2025), Netherlands is a popular destination. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from top 200 universities in the Netherlands or worldwide can apply, allowing one year of free job seeking. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Yes. Netherlands agriculture and manufacturing face skilled worker shortages,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-industrial-machinery-mechanic-and-repairer/NL)**

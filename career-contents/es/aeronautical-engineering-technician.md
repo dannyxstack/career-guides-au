@@ -4,8 +4,6 @@
 
 Aeronautical engineering technicians are responsible for the design, testing, maintenance, and technical support of aircraft and aircraft, and are core technical talents in the aviation manufacturing and maintenance industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Aeronautical engineering technicians are responsible for the design, testing, ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aerospace engineering technicians face automation restructuring, with low-end inspection and mapping tasks being replaced, but AI-enhanced design and simulation capabilities require upgrades to system-level integration and creative fault diagnosis.
-
 Starting as a junior technician, you can advance to senior technician, project supervisor, or design engineer, or further study to transition to aerospace engineer or management roles such as quality manager or production manager.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Starting as a junior technician, you can advance to senior technician, project s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and contract, with a salary threshold of approximately 33,908 euros per year (2023) |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for highly skilled professionals, requiring a university degree and contract, with a relatively fast process |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship and proof that the position is difficult to fill within the EU |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: A bachelor's degree in aeronautical engineering (4 years) or advanced vocatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aeronautical-engineering-technician/ES)**

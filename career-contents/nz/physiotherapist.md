@@ -52,8 +52,6 @@ Physiotherapist is a shortage occupation in New Zealand, ANZSCO 252511, eligible
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
-
 Entry-level physiotherapists can gain experience in hospitals and clinics, advancing to senior therapist or specialist (e.g., neuro, orthopedic rehabilitation) in 3-5 years. They may also move into management, education, or private practice, with income increasing with experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level physiotherapists can gain experience in hospitals and clinics, advan
 | Subclass SMC (Skilled Migrant Category) | Meet 6-point system requirements, with offer and work experience bonus points |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can lead to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: High demand, especially in aged care, sports rehabilitation, and community he
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/NZ)**

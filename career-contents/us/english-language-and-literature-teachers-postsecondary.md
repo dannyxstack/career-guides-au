@@ -52,8 +52,6 @@ Teach at universities, offering courses in English language, literature, linguis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually starts as lecturer or assistant professor, progressing to associate professor and professor through research achievements and teaching quality; can also transition to academic management or publishing.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as lecturer or assistant professor, progressing to associate prof
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to professors with advanced degrees, requiring PERM or National Interest Waiver |
 | Subclass O-1 (O-1 Extraordinary Ability) | For outstanding scholars, must demonstrate international reputation, no labour certification required |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most universities (especially four-year ones) require a PhD. Community colleg
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/english-language-and-literature-teachers-postsecondary/US)**

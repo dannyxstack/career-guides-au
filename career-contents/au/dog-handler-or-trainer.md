@@ -53,8 +53,6 @@ Dog trainers train dogs to obey commands, correct behavioral issues, and provide
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on dog trainers is mixed: behavior analysis and training plans can be AI-assisted, but actual training, emotional connection, and real-time interaction rely on humans and are difficult to replace.
-
 Junior trainers can advance to senior trainer, behaviour consultant, or start their own training school. They may also specialise in working dog training (e.g., police dogs, guide dogs) or animal behaviour therapy, requiring ongoing study of animal psychology.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior trainers can advance to senior trainer, behaviour consultant, or start th
 | Subclass 482 (Temporary Skill Shortage Visa) | This occupation is not on the core skills list but may be possible via labor agreement; very limited opportunities. |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship requires proof of labor market shortage, very limited pathways. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. Can advance to senior trainer, animal behaviour consultant, or specialis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dog-handler-or-trainer/AU)**

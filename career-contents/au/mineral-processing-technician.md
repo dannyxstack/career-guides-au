@@ -52,8 +52,6 @@ Mineral Processing Technicians monitor and optimise processing circuits at miner
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Mineral processing technicians face mixed impacts from AI/automation: tasks like process monitoring and data analysis are enhanced by AI, but manual operations and experience-based decisions have lower automation risk, resulting in moderate job stability.
-
 Process control automation improves efficiency, but process optimisation and troubleshooting still require specialist expertise. A combined background in chemical/metallurgical engineering and minerals is the most competitive combination.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Process control automation improves efficiency, but process optimisation and tro
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 | Subclass 189 (Skilled Independent) | Points-based system, listed on CSOL |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Australia's lithium/nickel critical minerals processing sector is expanding r
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mineral-processing-technician/AU)**

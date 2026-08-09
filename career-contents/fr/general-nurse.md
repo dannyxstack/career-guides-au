@@ -4,8 +4,6 @@
 
 In the French healthcare system, general practitioners are responsible for providing basic nursing services, including condition monitoring, medication management, and wound care, making them key members of the medical team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ In the French healthcare system, general practitioners are responsible for provi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of general nurses is being doubly influenced by AI: tasks like paperwork and monitoring are being automated, while the value of clinical decision-making and patient communication is being amplified. Competition for entry-level positions is intensifying, but demand for senior practical positions is rising.
-
 Patients can be promoted from clinical nurses to nursing supervisors, specialist nurses (such as anesthesia nurses, operating room nurses), or transition to nursing management or education positions.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Patients can be promoted from clinical nurses to nursing supervisors, specialist
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents; nurses on the shortage list can apply |
-| Subclass Salarié (Employee) | Work residency requires employer sponsorship, and nurse positions are easily approved |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary ≥ €53,775, nurses usually meet the threshold. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, you must be registered with Ordre des infirmiers to practice, and you mu
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-nurse/FR)**

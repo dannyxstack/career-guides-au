@@ -51,8 +51,6 @@ Operate plateless printing equipment for commercial and industrial printing, inc
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Plateless printing press operators face high automation risk; AI and smart systems can take over most setup, monitoring, and quality control tasks, significantly reducing job demand.
-
 Junior operators can advance to senior operators or supervisors, but promotion opportunities are limited. Digital printing skills can lead to prepress or design roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior operators can advance to senior operators or supervisors, but promotion o
 | Subclass PNP (Provincial Nominee Program) | Some provinces may nominate printing workers, but demand is low; check specific occupation lists. |
 | Subclass LMIA (Labour Market Impact Assessment) | The employer can support a work visa after obtaining an LMIA, but it is usually difficult to prove labor shortage for this occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Not easy. This occupation is not on the skilled migration priority list; empl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plateless-printing-equipment-operators/CA)**

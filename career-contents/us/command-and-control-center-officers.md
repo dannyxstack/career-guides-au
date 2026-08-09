@@ -52,8 +52,6 @@ Manage and operate communication, detection, and weapon systems, coordinate air,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core decision-making responsibilities and unpredictable battlefield environment of command and control centre officers form a strong moat, but AI will take over tasks such as data fusion and threat assessment, and entry-level positions may be reduced due to AI-assisted systems.
-
 Career progression typically goes from junior officer to senior commander, requiring accumulated combat experience and leadership skills. Can transition to civilian roles in the Department of Defence or emergency management positions in the private sector.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression typically goes from junior officer to senior commander, requi
 | Subclass EB-2 (EB-2 Employment-Based Green Card) | Generally not applicable, as military roles often require citizenship |
 | Subclass Green Card (PERM) (Green Card via PERM) | Almost impossible due to citizenship requirements |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a bachelor's degree and completion of an officer training pr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/command-and-control-center-officers/US)**

@@ -52,8 +52,6 @@ Health information management professionals are responsible for maintaining, ana
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of Health Information Managers (clinical coding, data management) significantly threatened by AI, but strong human decision-making needed for regulatory compliance and privacy. Entry-level roles narrowing; mid-senior roles require more composite skills due to AI tools.
-
 Entry-level positions like health information technician can advance to health information management analyst, privacy officer, or management. Obtaining certification (e.g., CHIM) and gaining experience can lead to supervisor or director roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level positions like health information technician can advance to health i
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, e.g., Ontario, BC health priority streams |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, if unable to directly meet immigration requirements |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires the CHIM certification from the Canadian Health Informatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-information-management-occupations-12111/CA)**

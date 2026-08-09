@@ -4,8 +4,6 @@
 
 An office worker who handles buying, selling, settlement, and custody of securities such as stocks and bonds at a securities company, and manages customer accounts.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ An office worker who handles buying, selling, settlement, and custody of securit
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI and automation are replacing simple clerical tasks such as transaction processing and account management, reducing the role of securities clerks. High-value tasks like customer consulting and complex financial product analysis are still handled by humans, but overall job numbers are expected to decline.
-
 Typically hired as new college graduates or experienced employees, they start with general office tasks and can later advance to manager roles such as team leader, branch manager, or head office chief, or transition to specialized positions like asset management or investment banking.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Typically hired as new college graduates or experienced employees, they start wi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can be obtained as a finance professional, but general securities clerk is difficult |
-| Subclass F-2 (F-2 (Residence)) | Possible as a preliminary step to permanent residence after long-term career |
-| Subclass F-5 (F-5 (Permanent Residence)) | Can apply after meeting 5+ years of residence and income requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: Yes, it's possible. To switch to asset management firms or investment banking
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/securities-clerk/KR)**

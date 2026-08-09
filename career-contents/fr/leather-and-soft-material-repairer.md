@@ -4,8 +4,6 @@
 
 Responsible for repairing leather products (such as bags, shoes, and clothing) and other soft materials (such as canvas, synthetic leather), including cleaning, dyeing, mending, and replacing accessories. Most jobs are in small workshops or retail stores, but self-employment is also possible.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for repairing leather products (such as bags, shoes, and clothing) a
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Leather and soft materials repair workers face mixed effects from AI and automation: tasks like AI-enhanced diagnostics and color matching, but physical skills and personalized services remain the core moat.
-
 You can grow from an apprentice to a skilled craftsman, then open an independent repair shop or work in the luxury after-sales department. You can also transition to custom leather goods production, but additional training is required. Promotion opportunities are limited, but senior craftsmen can earn about 30% salaries.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can grow from an apprentice to a skilled craftsman, then open an independent
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship, employment contract, and French Labor Office permit required; Since it is not a shortage occupation, it is relatively difficult to obtain approval. |
-| Subclass Passeport Talent (Talent Passport) | Only those with high salaries or special talents are eligible; maintenance workers usually do not qualify. |
-| Subclass Recherche emploi (Job Search Visa) | International students can apply after graduation, but since it is not a shortage occupation, finding suitable jobs is more difficult. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Usually, a CAP (2 years) or Bac Pro (3 years) related diploma is required. Yo
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-and-soft-material-repairer/FR)**

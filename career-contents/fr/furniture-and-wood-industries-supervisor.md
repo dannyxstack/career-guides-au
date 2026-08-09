@@ -4,8 +4,6 @@
 
 Responsible for overseeing the manufacturing process of furniture and wood products, including production planning, quality control, team management, and safety compliance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for overseeing the manufacturing process of furniture and wood produ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of furniture and wood industry supervisors will undergo a 'mixed outcome' transformation due to AI: production planning and data analysis tasks are automated, but on-site management, quality judgment, and personnel coordination still require human experience, with job roles upgrading from operational supervision to technical management.
-
 You can be promoted from a skilled worker to a supervisor, and then to a production manager or factory manager. Needs to accumulate management experience and master skills such as lean production.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ You can be promoted from a skilled worker to a supervisor, and then to a product
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position cannot be filled by an EU citizen. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for senior management or technical talent, requiring them to meet a certain salary threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Typically, a BTS (Advanced Technician Certificate) or equivalent qualificatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-and-wood-industries-supervisor/FR)**

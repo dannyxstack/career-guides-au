@@ -54,8 +54,6 @@ Responsible for guiding the creative and production aspects of films, TV, radio,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI's impact on director roles is mixed: tasks like scheduling, editing, and visual previsualization can be automated, but creative decisions, team leadership, and artistic intuition are hard to replace; a bittersweet occupation.
-
 Career can start as Assistant Director/Production Assistant, then progress to Director, Senior Director, and eventually Creative Director or Producer. Requires continuous learning of new technologies and networking.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career can start as Assistant Director/Production Assistant, then progress to Di
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Not mandatory, but a bachelor's or master's degree (e.g. from AFTRS) provides
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-television-radio-and-stage-directors-nec/AU)**

@@ -51,8 +51,6 @@ Construction workers perform various manual labor tasks on construction sites, i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction worker roles face significant reduction due to automation (e.g., robotic bricklaying, 3D-printed buildings) and AI scheduling systems; repetitive physical tasks will be replaced, entry-level jobs decreasing, but high-risk, high-judgment tasks still require humans.
-
 Construction workers can advance to skilled trades (e.g., carpentry, bricklaying) or become foremen, site supervisors, or even start their own businesses through accumulated experience and skills.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Construction workers can advance to skilled trades (e.g., carpentry, bricklaying
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers, must meet salary threshold (2024: approx. €5,331/month, over 30 years old). Construction workers are generally ineligible. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring higher education and a higher salary (approximately €5,668/month in 2024). Construction workers are generally not eligible. |
-| Subclass Orientation Year (Zo (Orientation Year) | Applicable to international students who have graduated in the Netherlands, allowing one year of free work. Construction workers meeting conditions can apply. |
-| Subclass EU Freedom of Moveme (EU citizens) | EU citizens can freely work and live in the Netherlands without a visa. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Yes, housing shortages and infrastructure projects in the Netherlands cause a
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-labourer/NL)**

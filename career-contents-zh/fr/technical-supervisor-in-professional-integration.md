@@ -1,6 +1,6 @@
-# Technical Supervisor in Professional Integration 职业分析 · 法国
+# 专业整合技术主管（Technical Supervisor in Professional Integration）职业分析 · 法国
 
-**职业代码: K1203 (ROME)**
+**职业代码：K1203 (ROME)**
 
 负责协调和监督职业融入项目，帮助弱势群体重返就业市场，提供技能评估、个性化辅导和就业支持。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 8,500. 法国政府持续推动社会包容和就业扶持，该职业需求稳定，尤其在优先社区和公共部门。受社会政策影响，预计未来五年就业岗位小幅增长。
+**职位需求量：中高（★★★½☆）** 全国从业人数约 8,500。法国政府持续推动社会包容和就业扶持，该职业需求稳定，尤其在优先社区和公共部门。受社会政策影响，预计未来五年就业岗位小幅增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,28 +50,28 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 该职业不易被替代，AI将放大其能力，通过自动化行政和数据分析提升效率，使其能专注于高价值的人类互动和个性化指导。
 
 可从项目协调员晋升为区域融入经理，或转向公共政策、人力资源培训领域。需积累督导经验并修读相关硕士。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成标准化技能评估报告
 - 自动化跟踪和提醒学员进度与任务
 - 基础就业市场信息检索与匹配
 - 自动记录和整理会议纪要
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析学员技能差距并推荐个性化培训路径
 - 通过自然语言处理技术辅助撰写个性化就业支持计划
 - 使用AI预测工具识别就业市场趋势，优化指导策略
 - 借助聊天机器人提供24/7常见问题解答，释放人力
 
-**人类护城河:**
+**人类护城河：**
 
 - 深度的同理心与情感支持
 - 复杂的多利益相关方协调（雇主、学员、政府）
@@ -79,7 +79,7 @@
 - 对个体独特背景的创造性就业方案设计
 - 法律和伦理判断（如隐私、偏见）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与可视化（Python、Tableau）
 - AI工具应用（如ChatGPT、Copilot）
@@ -88,27 +88,20 @@
 - 项目管理与协调能力
 - 基础编程与自动化脚本
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Social Inclusion
-- Active Labor Market Policies
-- Professional Integration
-- Skill Development
+- 社会包容
+- 积极劳动力市场政策
+- 专业融合
+- 技能发展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Employee on Mission / Qualified Employee)) | 适用于高技能人才，需有硕士以上学历及年薪≥36,512欧元（2024标准），可续签并带家属。 |
-| Subclass Salarié (Employee Residence Permit) | 适用于已获法国雇主offer，需申请工作许可，属于公共部门职业，需证明职位无法由欧盟劳动者填补。 |
-| Subclass Recherche emploi (Job Search / Business Creation Permit) | 毕业后可申请一年居留寻找工作或创业，适用于法国学位持有者。 |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +145,12 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/technical-supervisor-in-professional-integration/FR)**

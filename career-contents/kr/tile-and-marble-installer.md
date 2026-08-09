@@ -51,8 +51,6 @@ A skilled worker who cuts, processes, and installs architectural finishing mater
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation is low. Robots may be introduced for material transport and cutting tasks, but precise installation, on-site adaptability, and creative design require human touch. However, new hiring may decrease and shift toward high-skilled roles.
-
 Career advancement from entry-level worker to intermediate skilled worker to senior installer to site manager is possible; certification and experience are important.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Career advancement from entry-level worker to intermediate skilled worker to sen
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Eligible for Non-professional Foreign Worker Employment Permit System, can work as tile installer |
-| Subclass E-7 (Specific Activities) | Eligible for Skilled Worker (E-7-1), possible if meeting certain career requirements |
-| Subclass F-2 (Residence) | Convertible from E-7, long-term stay qualification |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Having a tile or stone technician certification is advantageous but not manda
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tile-and-marble-installer/KR)**

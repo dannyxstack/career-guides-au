@@ -54,8 +54,6 @@ German police officers are responsible for maintaining public safety, crime prev
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
-
 Career progression includes from constable to senior constable, sergeant, inspector, etc. Internal exams allow entry into specialized fields such as criminal investigation, traffic management, or special forces.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career progression includes from constable to senior constable, sergeant, inspec
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Typically requires secondary education, followed by 2.5 years of paid trainin
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officer/DE)**

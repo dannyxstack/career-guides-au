@@ -4,8 +4,6 @@
 
 Responsible for daily care, feeding, cleaning, and basic training of various animals (pets, farm animals, zoo animals, etc.) to ensure their health and welfare.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for daily care, feeding, cleaning, and basic training of various ani
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 You can be promoted from assistant to senior caregiver or trainer, and after gaining experience, you can start a personal pet service business. Some people become animal behavior specialists or veterinary assistants through further education.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted from assistant to senior caregiver or trainer, and after gai
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work residence) | Employer sponsorship is required, proving that local workers cannot be recruited. Non-urgently needed occupations have higher approval difficulties. |
-| Subclass Busqueda empleo (Job search and residence) | This is suitable for international students who have completed their studies in Spain, allowing them to stay in Spain for a year to look for work. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Typically, a relevant major in FP Grado Medio (2 years) or Grado Superior (2 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-caretaker-and-trainer/ES)**

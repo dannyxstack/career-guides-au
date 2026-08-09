@@ -52,8 +52,6 @@ In Canada, TV hosts manage program hosting, interviews, and content presentation
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-TV presenter roles face structural changes due to AI: basic broadcasting and content generation will be automated, but in-depth interviews, improvisation, and emotional expression remain human strengths.
-
 Beginner hosts can start with local TV stations or online shows, then progress to national channels. Accumulating experience can lead to roles in directing, producing, or media management. Multi-skills (e.g., writing, editing) aid career development.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Beginner hosts can start with local TV stations or online shows, then progress t
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have media nomination programs; require employer offer or relevant experience |
 | Subclass AIP (Atlantic Immigration Program) | Employer sponsorship in maritime provinces, suitable for TV presenters with a job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Excellent verbal communication, interviewing skills, scriptwriting ability, a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/authors-and-writers-broadcast/CA)**

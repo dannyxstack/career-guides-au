@@ -4,8 +4,6 @@
 
 Aviation safety technicians are responsible for monitoring and ensuring the safety of aviation operations, including flight safety, ground safety, emergency response, and security screening procedures. They work at airports, airlines, and regulatory agencies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Aviation safety technicians are responsible for monitoring and ensuring the safe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aviation safety technicians face mixed effects from automation: AI can take over data monitoring and document review, but on-site emergency response and security decisions still require human judgment.
-
 Junior aviation safety technicians can be promoted to senior safety officers, safety managers, or aviation safety consultants. By gaining experience and obtaining certifications (such as ICAO certification), you can develop into a Security Management System (SMS) specialist.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior aviation safety technicians can be promoted to senior safety officers, sa
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Spanish employer sponsorship is required, a work contract must be provided, and the company certifies that the position cannot be filled by a local resident. Suitable for long-term employment. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled workers, requiring a university degree or 5 years of experience, with a contract annual salary not less than 1.5 times the Spanish average salary (about 35,000 euros). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Typically, an FP Grado Superior (2 years) or a bachelor's degree in aviation 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aeronautical-safety-technicians/ES)**

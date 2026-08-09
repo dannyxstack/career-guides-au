@@ -53,8 +53,6 @@ Responsible for manual or mechanical packing, labeling, and inspecting goods to 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Packaging worker positions are greatly impacted by AI and automation; repetitive tasks will be largely replaced by machines, entry-level positions will significantly decrease, requiring transition to high-skilled logistics roles.
-
 Usually starts as a general packer, and with experience can advance to packing team leader, warehouse supervisor, or transfer to logistics coordination positions. Skill improvement helps in developing towards machine operator roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually starts as a general packer, and with experience can advance to packing t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can progress from general packer to team leader, warehouse supervisor, or tra
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packers-nec/AU)**

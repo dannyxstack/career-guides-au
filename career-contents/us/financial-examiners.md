@@ -51,8 +51,6 @@ Financial examiners ensure financial institutions and transactions comply with l
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance the work of financial examiners, especially in massive data compliance detection and anomaly identification, but human decision-making and responsibility remain core; overall risk is low.
-
 Junior reviewers can advance to senior reviewer, supervisor, or regulatory agency executive through accumulating experience and obtaining certifications (e.g., CFA, FRM). They can also transition to positions like risk management or compliance officer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior reviewers can advance to senior reviewer, supervisor, or regulatory agenc
 | Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or a bachelor's degree plus 5 years of experience, through PERM labor certification. |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree holders; process similar to EB-2. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: H-1B requires lottery, but job demand is high and employer sponsorship is com
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-examiners/US)**

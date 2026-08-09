@@ -4,8 +4,6 @@
 
 Responsible for quality inspection of textile products (clothing, bedding, curtains, etc.), professionally checking appearance, dimensions, strength, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for quality inspection of textile products (clothing, bedding, curta
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-based automatic inspection systems are being introduced, but inspections requiring human senses such as color unevenness and texture are difficult to replace. Demand for skilled inspectors remains.
-
 Career typically progresses from on-site experience to inspection leader or quality control manager. Workers who can handle diverse products are valued as factories consolidate.
 
 **Tasks most exposed to AI:**
@@ -87,16 +83,9 @@ Career typically progresses from on-site experience to inspection leader or qual
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for work requiring textile inspection knowledge/skills. Requires bachelor's degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Covers textile manufacturing. Skill level proven by exam. Up to 5 years. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: Obtaining related certifications (e.g., Textile Product Quality Manager) and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-apparel-fabric-product-inspection-worker/JP)**

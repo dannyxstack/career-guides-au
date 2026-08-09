@@ -51,8 +51,6 @@ A profession that manufactures and processes various metal products by cutting, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and robotics are automating simple tasks, but humans are needed for judgment and skill in high-mix low-volume production and advanced processes. Full replacement is not expected.
-
 Starting as an apprentice, one can advance to a mid-level worker after acquiring skills in a few years. Career paths include becoming a site leader through skill certification or multi-skilling, and further to foreman or production management positions.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as an apprentice, one can advance to a mid-level worker after acquiring
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing, 3 fields)) | Eligible to work in manufacturing including metalworking; requires JLPT N4 or higher |
-| Subclass 技能実習2号 (Technical Intern Training (Machinery/Metal)) | 3-year residency for on-the-job training; aims for skill transfer, requires return home |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates in engineering roles; emphasizes expertise over experience |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Obtain skill certifications and become multi-skilled to become a team leader.
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-product-manufacturing-and-processing-worker/JP)**

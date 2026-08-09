@@ -52,8 +52,6 @@ A Police Officer (ANZSCO 139113) in the New Zealand Police is a senior managemen
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Career progression typically starts from police constable, through sergeant, senior sergeant, etc., advancing to inspector or higher via assessments and training. Requires continuous professional development, including leadership courses and tactical training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression typically starts from police constable, through sergeant, sen
 | Subclass Green List T2 (Green List Tier 2) | Can transition to residency after 2 years of work with a certified employer |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer provides job offer, eligible for work visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually must start as a police officer, serve for many years, and go through 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commissioned-police-officer/NZ)**

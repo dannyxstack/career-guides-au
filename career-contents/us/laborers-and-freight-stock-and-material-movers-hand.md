@@ -53,8 +53,6 @@ Manually move freight, luggage, stock, or other materials, or perform other gene
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Forklift drivers and material handlers face a certain threat from AI automation; repetitive lifting and sorting tasks may be replaced by machines, but flexible operations in complex environments, teamwork, and task coordination still depend on humans, overall risk moderate to high.
-
 Typically start at entry-level, can advance to team leader, warehouse supervisor, or logistics coordinator after gaining experience. Some workers obtain equipment operation certificates (e.g., forklift) through training, moving to higher-paying roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically start at entry-level, can advance to team leader, warehouse supervisor
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Yes, can advance to warehouse supervisor, logistics coordinator or operations
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laborers-and-freight-stock-and-material-movers-hand/US)**

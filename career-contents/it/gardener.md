@@ -51,8 +51,6 @@ Gardeners are responsible for plant cultivation, lawn maintenance, landscaping, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gardeners face medium automation risk: repetitive physical tasks like pruning, planting and fertilizing will be replaced by robots, but complex landscape design and understanding customer needs still require humans.
-
 Can progress from entry-level horticulturist to senior horticulturist or landscape supervisor, or start your own business. Requires ongoing learning in botany and ecology.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from entry-level horticulturist to senior horticulturist or landsca
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, requires employer sponsorship, annual quota |
-| Subclass EU Blue Card (EU Blue Card) | Skilled horticulturist with both university degree and high salary required |
-| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Self-employed horticulturists can apply, need to demonstrate financial capacity |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can progress from entry-level to senior horticulturist, landscape supervisor,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardener/IT)**

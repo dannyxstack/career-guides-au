@@ -53,8 +53,6 @@ Responsible for welcoming hotel guests, handling check-in/check-out procedures, 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Can be promoted to front desk supervisor, duty manager, housekeeping manager, or hotel general manager. Also can move to customer relations, sales, or reservations departments. Some obtain a hotel management diploma through further study to enter management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted to front desk supervisor, duty manager, housekeeping manager, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: With experience, advance to supervisor or shift manager, or pursue a diploma 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-receptionist/IE)**

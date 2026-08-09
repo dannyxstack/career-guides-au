@@ -53,8 +53,6 @@ Responsible for international and domestic wholesale trade business processes, i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly optimize procurement processes, but core negotiation and supplier relationship management still rely on humans; low-value procurement tasks are easily replaced, while strategic procurement roles gain value, overall mixed outlook.
-
 Can advance from junior business specialist to senior business manager, regional sales supervisor, or transition to supply chain management, international market development, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior business specialist to senior business manager, regional
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment; must prove financial means |
 | Subclass Skilled Worker Visa (Skilled Worker Visa) | Must obtain employer contract, professional qualification certification, German B1 is usually required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, can advance to business manager, regional sales director, or transfer to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesale-and-foreign-trade-merchant/DE)**

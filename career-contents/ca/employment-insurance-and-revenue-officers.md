@@ -52,8 +52,6 @@ Employment insurance and tax officers manage the Canadian Employment Insurance (
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Many tasks of employment insurance and tax officers (e.g., data auditing, compliance checks) are easily automated by AI, but parts involving complex policy interpretation, discretionary decisions, and client communication are hard to replace; overall demand may decline but not disappear.
-
 Career path typically starts from junior auditor or customer service representative, advancing to senior officer, team leader, or policy analyst. With experience and certifications (e.g., Certified Tax Agent), can move into management (e.g., regional manager) or specialist areas (e.g., tax investigation).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path typically starts from junior auditor or customer service representat
 | Subclass PNP (Provincial Nominee Program) | Some provinces include government administrative roles in their skilled occupation lists, allowing applicants to gain extra points through provincial nomination to expedite the immigration process. |
 | Subclass LMIA (Labour Market Impact Assessment) | If you secure a federal government position, the employer can apply for an LMIA to support a work visa, and you can later transition to permanent residence through CEC or FSW. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, can progress from junior officer to senior officer, team leader, policy 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/employment-insurance-and-revenue-officers/CA)**

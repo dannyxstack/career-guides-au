@@ -51,8 +51,6 @@ A customer service supervisor oversees the daily operations of the customer serv
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of customer service supervisor will be reshaped by AI: routine queries and report automation compress entry-level positions, but AI enhances complex problem-solving and team management skills, creating higher-value roles.
-
 Usually promoted from customer service representative; with experience can advance to customer service manager or operations manager. Some supervisors pursue professional certification or management courses to develop into senior roles such as call center manager or customer experience director.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually promoted from customer service representative; with experience can advan
 | Subclass Graduate (Graduate visa) | Allow UK university graduates to stay and work in the UK for 2 years (3 years for PhDs) after graduation, accumulating management experience before switching to a skilled work visa. |
 | Subclass Scale-up (Scale-up worker visa) | For customer service supervisors in fast-growing companies, must meet salary requirement (£33,000/year) and company qualifications. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Common career paths include customer service manager, operations manager, cal
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-service-supervisors/UK)**

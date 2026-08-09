@@ -52,8 +52,6 @@ Storage and warehouse managers plan, organize, and coordinate the activities and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Warehousing and warehouse manager roles are mixedly affected by AI/automation: routine scheduling and inventory tasks are compressed by automation, but data-driven optimization and anomaly handling capabilities are amplified, with high-value decisions still requiring human experience.
-
 Can advance from warehouse supervisor or operations assistant to warehouse manager, and further to regional operations manager or supply chain director.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from warehouse supervisor or operations assistant to warehouse manag
 | Subclass Scale-up (Scale-up visa) | Applicable to fast-growing businesses, requires employer sponsorship, minimum annual salary of £33,000 |
 | Subclass Graduate (Graduate visa) | UK graduates can work for 2 years (3 years for PhDs) without sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can be promoted to regional operations manager or supply chain director, and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-storage-and-warehousing/UK)**

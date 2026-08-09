@@ -54,8 +54,6 @@ Parquetry floor layer installs, sands and repairs wood flooring, a specialized t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Parquetry floor layers face task compression due to AI automation, especially in measuring, cutting, and sanding, but fine manual work and on-site adaptability remain core barriers.
-
 Can start as an apprentice, gain experience and advance to foreman or self-employed tradesperson, or further study floor design or project management to broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can start as an apprentice, gain experience and advance to foreman or self-emplo
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek work, requires qualification certification |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job search opportunities |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires completing 3 years of dual training, after which a master cr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parquet-floor-layer/DE)**

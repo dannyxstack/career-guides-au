@@ -1,8 +1,8 @@
-# Agricultural, Forestry and Fisheries Engineer 职业分析 · 日本
+# 农林渔业工程师（Agricultural, Forestry and Fisheries Engineer）职业分析 · 日本
 
-**职业代码: 061 (JSCO)**
+**职业代码：061 (JSCO)**
 
-Engineers dedicated to improving productivity and sustainability in agriculture, forestry, and fisheries. They handle tasks such as variety improvement, cultivation/breeding techniques, and environmental management.
+致力于提高农业、林业和渔业生产力和可持续性的工程师。他们负责品种改良、栽培/养殖技术、环境管理等工作。
 
 
 ---
@@ -11,8 +11,8 @@ Engineers dedicated to improving productivity and sustainability in agriculture,
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (e.g., Faculty of Agriculture) | 4年 | $4,000,000~$5,000,000（For national universities） |
-| Vocational school (Agriculture/Fisheries) | 2 年 | $2,000,000~$3,000,000（For private vocational schools） |
+| 大学（如农学院） | 4年 | $4,000,000~$5,000,000（适用于国立大学） |
+| 职业学校（农业/渔业） | 2 年 | $2,000,000~$3,000,000（针对私立职业学校） |
 
 ---
 
@@ -20,17 +20,17 @@ Engineers dedicated to improving productivity and sustainability in agriculture,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Agriculture) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | National qualification. Proves advanced specialized knowledge. |
-| Agricultural Technology Manager | Prefectural government | 可选 | Required for agricultural extension workers, etc. |
+| 专业工程师（农业） | 文部科学省 | 可选 | 国家资格。证明高级专业知识。 |
+| 农业技术经理 | 县/省级政府 | 可选 | 农业推广工作人员等所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 55,000. Due to severe aging and shortage of successors, technology transfer and labor-saving are urgent. Conversion to smart agriculture is progressing, and demand for engineers remains stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 55,000。由于严重老龄化和接班人短缺，技术转让和节省劳力迫在眉睫。向智慧农业转型正在推进，工程师需求保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -38,88 +38,82 @@ Engineers dedicated to improving productivity and sustainability in agriculture,
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0–3 years) | $3,000,000~$4,000,000 | Work at research institutions or agricultural corporations |
-| Mid-Level (4–10 years) | $4,000,000~$6,000,000 | Section chief class |
-| 资深（10年以上） | $6,000,000~$8,000,000 | Managerial positions or specialist engineers |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 在研究机构或农业企业工作 |
+| 中级（4-10年） | $4,000,000~$6,000,000 | 科长级 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 管理职位或专业工程师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robotics aid in automation and data analysis in farming, but human experience and insight are essential for cultivation decisions and environmental adaptation. AI complements engineers, boosting productivity.
+人工智能和机器人在农业自动化及数据分析方面提供帮助，但人类经验和直觉对种植决策和环境适应至关重要。人工智能辅助工程师，提升生产力。
 
-After specialized education at agricultural or fisheries universities, careers are built at research institutions, agricultural cooperatives, and private companies. Mastery of specialized skills enables management positions or self-employment.
+在农业或水产大学接受专业教育后，可在研究机构、农业合作社和私营企业就业。掌握专业技能后可晋升管理岗或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine farm work (harvesting, weeding)
-- Simple aquaculture tasks
+- 常规农场工作（收割、除草）
+- 简单的水产养殖任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Growth data collection and analysis
-- Early detection of pests and diseases
-- Planning optimal fertilization schedules
+- 增长数据收集与分析
+- 病虫害早期检测
+- 规划最优施肥计划
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site observation and judgment
-- Regionally adapted techniques
-- Intuition based on long experience
+- 现场观察与判断
+- 区域性适应技术
+- 基于长期经验的直觉
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data science
-- Drone operation
-- Biotechnology
-- Environmental monitoring
+- 数据科学
+- 无人机操作
+- 生物技术
+- 环境监测
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart agriculture
-- Gene editing
-- Aquaculture technology
-- Organic farming
+- 智慧农业
+- 基因编辑
+- 水产养殖技术
+- 有机农业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Obtainable for work requiring specialized skills at university graduate level. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Applicable in agriculture; requires passing a skills test. |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like nature and animals
-- Diligent and patient researchers
-- People motivated to contribute to the region
+- 喜欢自然和动物的人
+- 勤奋耐心的研究人员
+- 有意为地区做贡献的人
 
 **谁不适合**
-- People who want to avoid physical labor
-- People who prefer city life
+- 想避免体力劳动的人
+- 偏好城市生活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of agricultural and fishery engineers?**
-答：Entry-level: approx. 3-4 million yen; mid-level: 4-6 million yen; senior: 6-8 million yen. Stable at research institutes and government positions, but varies at private agricultural corporations.
+**问：农业和渔业工程师的年收入是多少？**
+答：初级：约300-400万日元；中级：400-600万日元；高级：600-800万日元。研究机构和政府职位稳定，但私营农业企业有所差异。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：After university graduation, 'Engineer/Specialist in Humanities/International Services' visa is common. Also, 'Specified Skilled Worker (i)' for agriculture is available, requiring passing skills and Japanese language tests.
+**问：外国人从事这一职业需要什么签证？**
+答：大学毕业后，常见'工程师/人文社科/国际服务'签证。此外，农业领域的'特定技能工人(i)'签证可通过技能和日语考试获得。
 
 
 ---
@@ -137,12 +131,12 @@ After specialized education at agricultural or fisheries universities, careers a
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/agricultural-forestry-and-fisheries-engineer/JP)**

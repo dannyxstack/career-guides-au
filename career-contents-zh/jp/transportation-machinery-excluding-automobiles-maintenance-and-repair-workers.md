@@ -1,8 +1,8 @@
-# Transportation machinery (excluding automobiles) maintenance and repair workers 职业分析 · 日本
+# 运输机械（不含汽车）维护和修理工人（Transportation machinery (excluding automobiles) maintenance and repair workers）职业分析 · 日本
 
-**职业代码: 554 (JSCO)**
+**职业代码：554 (JSCO)**
 
-A profession involving inspection, maintenance, and repair of transportation machinery such as aircraft, railway vehicles, and ships. Requires advanced specialized knowledge and skills.
+涉及对飞机、铁路车辆和船舶等运输机械进行检验、维护和修理的职业。需要高级专业知识和技能。
 
 
 ---
@@ -11,9 +11,9 @@ A profession involving inspection, maintenance, and repair of transportation mac
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Maintenance department) | 2 年 | $2,000,000~$3,000,000（Aviation maintenance departments, etc., can be relatively expensive.） |
-| University (Mechanical engineering department) | 4年 | $4,000,000~$6,000,000（Differs for national/public and private universities.） |
-| Vocational training school (Short-term course) | 1年 | $500,000~$1,000,000（May be free for those receiving employment insurance, etc.） |
+| 职业学校（维护部门） | 2 年 | $2,000,000~$3,000,000（航空维修部门等可能相对昂贵。） |
+| 大学（机械工程系） | 4年 | $4,000,000~$6,000,000（国立/公立和私立大学有所不同。） |
+| 职业培训学校（短期课程） | 1年 | $500,000~$1,000,000（领取就业保险等的人可能免费。） |
 
 ---
 
@@ -21,19 +21,19 @@ A profession involving inspection, maintenance, and repair of transportation mac
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Aircraft mechanic (First/Second Class) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for aircraft maintenance. First class allows final confirmation after maintenance. |
-| Gas welding skill training completion | Prefectural Labour Bureau | 必备 | Required for welding work. |
-| Railway vehicle maintenance technician | Ministry of Health, Labour and Welfare | 可选 | National qualification for railway maintenance. Has Grade 1 and 2. |
-| Ship mechanic (Grade 1 and 2) | Japan Ship Maintenance Association | 可选 | Qualification for ship repair and maintenance. Voluntary but recommended. |
+| 飞机机械师（一级/二级） | 国土交通省 | 必备 | 飞机维修必需。一级允许维修后最终确认。 |
+| 气焊技能培训结业 | 县劳动局 | 必备 | 焊接工作需要。 |
+| 铁路车辆维修技术员 | 厚生劳动省 | 可选 | 铁路维护国家资格。分1级和2级。 |
+| 船舶机械师（1级和2级） | 日本船舶维修协会 | 可选 | 船舶修理与维护资格。自愿，但建议持有。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Demand for railways and aviation is steady, and labor shortages persist due to the aging of skilled workers. Maintenance and inspection demand in particular is stable, so employment prospects are good.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。铁路和航空需求稳定，由于技术工人老龄化，劳动力短缺持续存在。特别是维护和检查需求稳定，因此就业前景良好。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +41,86 @@ A profession involving inspection, maintenance, and repair of transportation mac
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,200,000~$4,200,000 | No exp. but vocational school grad. level |
-| Intermediate (4–10 years) | $4,500,000~$6,000,000 | Increase with certification |
-| Advanced (10+ years) | $6,000,000~$8,500,000 | Manager, Grade 1 skilled worker, etc. |
+| 初级（0-3年） | $3,200,000~$4,200,000 | 无经验但职业院校毕业水平 |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 持有证书则薪资增加 |
+| 高级（10年以上） | $6,000,000~$8,500,000 | 经理、一级技术工人等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation contribute to inspection data analysis and diagnostic tool accuracy, but human skills are essential for physical maintenance and repair. AI plays a supportive role, expanding and enhancing the occupation overall.
+人工智能和自动化有助于检查数据分析和诊断工具准确性，但物理维护和修理需要人类技能。AI发挥辅助作用，整体上扩展和增强了该职业。
 
-Starting as an apprentice, one can advance to intermediate level by passing the skill test. Further promotion to senior skilled worker or managerial positions is possible. Aircraft mechanics, etc., require qualification acquisition.
+从学徒开始，通过技能测试可晋升至中级。进一步可晋升至高级技工或管理职位。飞机机械师等需要获取资格。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Partial automation of periodic inspections
-- AI-based initial fault diagnosis
+- 定期检查的部分自动化
+- 基于AI的初步故障诊断
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-powered anomaly detection systems
-- Drone-based aircraft inspection
-- AR-guided maintenance procedures
-- Big data-driven failure prediction
+- AI驱动的异常检测系统
+- 无人机飞机检查
+- AR引导的维护程序
+- 大数据驱动的故障预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Identifying causes of complex malfunctions
-- Working in confined spaces
-- Judgment based on intuition and experience
+- 识别复杂故障的原因
+- 在密闭空间工作
+- 凭直觉和经验判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool operation
-- Data analysis
-- Electrical/electronic engineering knowledge
-- English (aircraft maintenance manuals)
+- 人工智能工具操作
+- 数据分析
+- 电气/电子工程知识
+- 英语（飞机维修手册）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aircraft maintenance
-- Railway vehicle maintenance
-- Ship repair
-- Shinkansen maintenance
+- 飞机维修
+- 铁路车辆维修
+- 船舶修理
+- 新干线维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Vehicle Maintenance)) | Residence status for vehicle maintenance. Requires skills test & N4+ Japanese. Max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Available with university degree or 10+ years exp. For maintenance engineers. Can apply for PR. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Vehicle Maintenance)) | Transferable from SSW (i). For skilled workers. Family accompaniment & PR possible. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like tinkering with machines
-- People who are meticulous and precise
-- People confident in their physical strength
+- 喜欢摆弄机器的人
+- 细致精确的人
+- 对自己体力有信心的人
 
 **谁不适合**
-- People with a fear of heights
-- Those who easily get bored with routine work
+- 恐高的人
+- 容易对 routine 工作感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a mechanic?**
-答：Approximately ¥200,000-250,000/month for vocational school graduates, with annual income around ¥3.5 million. Major airlines tend to offer higher starting salaries.
+**问：机械师起薪是多少？**
+答：职业学校毕业生月薪约20-25万日元，年收入约350万日元。主要航空公司起薪较高。
 
-**问：Can foreigners become aircraft mechanics in Japan?**
-答：Yes, under Specified Skilled Worker (i). Requires JLPT N4 and passing a skills test. Aircraft mechanic certification requires national exams, so Japanese proficiency is key.
+**问：外国人能在日本成为飞机机械师吗？**
+答：可以，在特定技能工人（i）下。需要JLPT N4并通过技能考试。飞机机械师认证需要通过国家考试，因此日语能力至关重要。
 
-**问：What qualifications should I get for career advancement?**
-答：Aircraft Maintenance Engineer (Class 1) or Railway Vehicle Maintenance Technician (Grade 1) are advantageous. For management, gain experience and advanced certifications.
+**问：我应该获得哪些资格以促进职业发展？**
+答：飞机维修工程师（一级）或铁路车辆维修技术员（一级）优先。管理层需积累经验并取得高级认证。
 
 
 ---
@@ -145,12 +138,12 @@ Starting as an apprentice, one can advance to intermediate level by passing the 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transportation-machinery-excluding-automobiles-maintenance-and-repair-workers/JP)**

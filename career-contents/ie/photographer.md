@@ -54,8 +54,6 @@ Photographers use cameras and lighting equipment to capture people, events, land
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Photographers face the dual impact of AI automation and AI enhancement: basic color correction, batch photo editing, and other tasks will be replaced, but core abilities such as creative conception, art direction, and complex lighting are amplified by AI tools, leading to a mixed career outlook.
-
 Photographers can progress from assistant to chief photographer, or specialize in niches like weddings, fashion, commercial. After building a portfolio and client base, they can establish a studio or shift to video production.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Photographers can progress from assistant to chief photographer, or specialize i
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Photographers are not on the critical skills occupation list; they generally 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/IE)**

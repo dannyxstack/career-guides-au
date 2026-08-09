@@ -1,10 +1,8 @@
-# Secondary School Teacher 职业分析 · 日本
+# 中学教师（Secondary School Teacher）职业分析 · 日本
 
-**职业代码: 195 (JSCO)**
+**职业代码：195 (JSCO)**
 
-A professional responsible for subject instruction and student guidance in lower and upper secondary schools, supporting student growth through career counseling and club activities. Requires teaching practicum and teaching license.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责初中和高中学科教学和学生指导的专业人员，通过职业咨询和社团活动支持学生成长。需完成教学实习并持有教师资格证。
 
 
 ---
@@ -13,9 +11,9 @@ A professional responsible for subject instruction and student guidance in lower
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Teacher Training University (4-year) | 4年 | $2,500,000~$5,000,000（National universities: approx. JPY 2.5 million; private humanities: approx. JPY 4-5 million (tuition only)） |
-| Special Needs School Teaching License Program | 1-2年 | $500,000~$1,500,000（Available via additional programs or correspondence universities） |
-| Professional Graduate School of Education (Master's, 2 years) | 2 年 | $3,000,000~$6,000,000（For those seeking higher specialization） |
+| 师范大学（4年制） | 4年 | $2,500,000~$5,000,000（国立大学：约250万日元；私立文科：约400-500万日元（仅学费）） |
+| 特殊需求学校教学执照项目 | 1-2年 | $500,000~$1,500,000（可通过额外课程或函授大学获得） |
+| 专业教育研究生院（硕士，2年） | 2 年 | $3,000,000~$6,000,000（适合寻求更高专业化的人） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional responsible for subject instruction and student guidance in lower
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Lower Secondary School Teaching License (Type 1, Subject-Specific) | Ministry of Education, Culture, Sports, Science and Technology (MEXT) (via Prefectural Boards of Education) | 必备 | Obtained per subject after completing required credits at university. |
-| Upper Secondary School Teaching License (Type 1, Subject-Specific) | MEXT (via Prefectural Boards of Education) | 必备 | Often obtained together with lower secondary license. |
-| Teacher Recruitment Exam (Public Schools) | Prefectural and designated city boards of education | 可选 | Mandatory for public school positions. Includes written exam, interview, practical skills. |
+| 初中教学许可证（类型1，学科专用） | 文部科学省（通过都道府县教育委员会） | 必备 | 在大学完成所需学分后按科目获得。 |
+| 高中教学许可证（类型1，学科特定） | MEXT（通过都道府县教育委员会） | 必备 | 通常与初级执照同时获得。 |
+| 教师招聘考试（公立学校） | 都道府县及指定城市教育委员会 | 可选 | 公立学校职位必备。包括笔试、面试、实操技能。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 310,000. Declining student numbers due to low birthrate increase competition slightly, but teacher shortages and age imbalances sustain demand. Continued recruitment in rural areas.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 310,000。低出生率导致学生人数下降，竞争略有加剧，但教师短缺和年龄结构失衡维持了需求。农村地区持续招聘。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,95 +40,87 @@ A professional responsible for subject instruction and student guidance in lower
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,200,000~$4,200,000 | Starting salary varies by education and region for public schools; private schools vary more. |
-| Intermediate Level (10-15 years) | $4,800,000~$6,500,000 | Mid-career teacher. Includes head teacher allowance, etc. |
-| Senior (30+ years / managerial) | $7,000,000~$10,000,000 | Vice principal / principal class. Public schools follow pay scale. |
+| 入门级（0-3年） | $3,200,000~$4,200,000 | 公立学校起薪因教育程度和地区而异；私立学校差异更大。 |
+| 中级（10-15年） | $4,800,000~$6,500,000 | 中级教师。含班主任津贴等 |
+| 高级（30年以上/管理层） | $7,000,000~$10,000,000 | 副校长/校长级别。公立学校按薪资表执行。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI greatly streamlines auxiliary tasks like material creation, grade management, and learning analysis for teachers, but human interaction in lessons and student guidance remains. Teachers can focus on higher-quality education by leveraging AI tools.
+AI极大地简化了教师的辅助任务，如材料创作、成绩管理和学习分析，但课程中的人际互动和学生指导仍然存在。教师可以通过利用AI工具专注于更高质量的教育。
 
-Career path: beginning teacher → teacher → head teacher → vice principal → principal. Options to specialize, pursue administration, or switch to education boards or university faculty.
+职业路径：初级教师 → 教师 → 主任教师 → 副校长 → 校长。可选择专攻、行政或转到教育局或大学教职。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Grading periodic tests (multiple choice)
-- Grade management and aggregation
-- Creating standard contact documents for parents
+- 评定期中考试（选择题）
+- 成绩管理和汇总
+- 为家长创建标准联系文件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Planning individual learning plans
-- Tracking learning progress during lessons
-- Automated creation and customization of teaching materials
+- 规划个人学习计划
+- 课堂学习进度追踪
+- 教学材料的自动创建和定制
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face dialogue and empathy
-- Perceiving students' psychological conditions
-- Handling unstructured problems
-- Collaborative team guidance
+- 面对面对话与共情
+- 感知学生心理状况
+- 处理非结构化问题
+- 协作团队指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- AI tool operation
-- Critical Thinking
-- Interpersonal Communication
+- 数据素养
+- 人工智能工具操作
+- 批判性思维
+- 人际沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Integrated middle and high school
-- Support for school refusal
-- ICT education
-- Diversifying student guidance
+- 完全中学（初中和高中一贯制）
+- 拒学支持
+- ICT教育
+- 多元化学生指导
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Working as a teacher in a secondary school typically requires a Japanese teaching license and native-level Japanese. Employment under this status is limited to language schools or vocational schools. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | May apply if they have advanced knowledge/experience as a teacher, but actual cases are rare. |
-| Subclass 特定技能 (Specified Skilled Worker (not applicable)) | Secondary school teachers are not eligible for Specified Skilled Worker. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People passionate about children and education
-- People with strong communication skills and teamwork spirit
-- People who accept diverse values and adapt flexibly
+- 热爱儿童和教育的人
+- 沟通能力强、具有团队合作精神的人
+- 接受多元价值观并灵活适应的人
 
 **谁不适合**
-- People who cannot handle long hours or stress
-- People who dislike change and prefer routine tasks
+- 无法承受长时间工作或压力的人
+- 不喜欢变化、偏好常规任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a secondary school teacher?**
-答：For public middle and high schools, about 200,000–220,000 yen per month for university graduates, which translates to an annual income of approximately 3.2–4.2 million yen (including allowances). Private schools vary more.
+**问：中学教师的起薪是多少？**
+答：公立初中和高中，大学毕业生月薪约20万–22万日元，年收入约320万–420万日元（含津贴）。私立学校差异较大。
 
-**问：What visa do foreigners need to become teachers at Japanese secondary schools?**
-答：Typically, the 'Engineer/Specialist in Humanities/International Services' status of residence is required. However, obtaining a Japanese teaching license and the ability to teach in Japanese are prerequisites, making the bar quite high.
+**问：外国人在日本中学任教需要什么签证？**
+答：通常需要“技术/人文知识/国际业务”在留资格。但持有日语教学许可证和能用日语教学是前提条件，门槛相当高。
 
-**问：What career path leads to a management position?**
-答：Generally, after accumulating over 10 years of experience as a teacher and serving in positions such as lead teacher or mentor teacher, passing the management position exam is the norm.
+**问：什么样的职业路径能通向管理职位？**
+答：通常，积累了10年以上教学经验并担任过首席教师或导师教师等职位后，通过管理职位考试是常态。
 
 
 ---
@@ -148,12 +138,12 @@ Career path: beginning teacher → teacher → head teacher → vice principal �
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/secondary-school-teacher/JP)**

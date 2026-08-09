@@ -52,8 +52,6 @@ FPGA engineers use Verilog/VHDL to implement high-performance digital circuits o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
-
 New Zealand's AI accelerators focus on low-power/simulation design, with engineers skilled in RTL/timing/layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ New Zealand's AI accelerators focus on low-power/simulation design, with enginee
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer-sponsored work visa |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category: Points-based skilled migration residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow New Zeal
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fpga-engineer/NZ)**

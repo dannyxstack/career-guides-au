@@ -52,8 +52,6 @@ Dental assistants and therapists support dental practices in the Irish healthcar
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace administrative and diagnostic support tasks for dental assistants and therapists (e.g., radiographic analysis, appointment scheduling), but clinical tasks (e.g., four-handed dentistry, patient care) are difficult to automate, with both risks and opportunities overall.
-
 Junior dental assistants can advance to senior dental therapists through on-the-job training and additional qualifications, or transition to roles such as dental hygienist or practice manager. Some may choose to pursue a dentistry degree to become a dentist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior dental assistants can advance to senior dental therapists through on-the-
 | Subclass General Employment P (General Employment Permit) | Applicable for dental assistants; requires employer sponsorship and must pass a labour market test. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-paying jobs (annual salary over €38,000), but dental therapists typically do not meet the salary threshold |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires completion of a 1-year dental assistant diploma or a 3-year 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistant-and-therapist/IE)**

@@ -4,8 +4,6 @@
 
 Responsible for the assembly, welding, testing, and inspection of electrical and electronic components, commonly found on manufacturing production lines. Technical drawings and safety standards must be followed to ensure product quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for the assembly, welding, testing, and inspection of electrical and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Electrical and electronic product assemblers face high automation risks, as AI and robotics will replace repetitive assembly, welding, and testing tasks, resulting in fewer positions, lower entry barriers, and shrinking demand.
-
 You can be promoted to production line supervisor, quality control technician, or move to more specialized positions in electronic maintenance or automation equipment commissioning. Further education or apprenticeships can be promoted to technician level.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted to production line supervisor, quality control technician, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | A French employer sponsor is required, proving that the position cannot recruit EU citizens. An annual salary at least 1.5 times the statutory minimum wage is usually advantageous. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, requiring an annual salary of 1.5 times SMIC (about 28,000 euros). A work contract and qualification certificates must be provided. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: A work contract from a French employer is required to apply for the Salarié 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-product-assembler/FR)**

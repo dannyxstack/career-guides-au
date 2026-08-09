@@ -52,8 +52,6 @@ Medical scientists study mechanisms of human disease and ways to improve health,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on medical scientists (except epidemiologists) is mixed: routine data analysis and literature review tasks will be automated, but experimental design, clinical translation, and complex reasoning are enhanced by AI. Overall career outlook is stable but requires proactive adaptation.
-
 Junior researchers can advance to senior researcher or lab manager, some move to industry or academic professor roles, or enter regulatory bodies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior researchers can advance to senior researcher or lab manager, some move to
 | Subclass EB-2 (Employment-Based Second Preference) | Applicable to researchers with advanced degrees or exceptional skills, who may apply for green card via PERM. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to researchers with outstanding achievements in science, no quota limit. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a Ph.D. in biology or a related field; some roles may requ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-scientists-except-epidemiologists/US)**

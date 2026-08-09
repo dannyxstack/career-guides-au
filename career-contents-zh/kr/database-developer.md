@@ -1,8 +1,8 @@
-# Database Developer 职业分析 · 韩国
+# 数据库开发人员（Database Developer）职业分析 · 韩国
 
-**职业代码: 13411 (KECO)**
+**职业代码：13411 (KECO)**
 
-A professional responsible for the design, construction, optimization, and maintenance of database systems, supporting enterprise data management and utilization.
+负责数据库系统设计、构建、优化和维护的专业人员，支持企业数据管理和利用。
 
 
 ---
@@ -11,8 +11,8 @@ A professional responsible for the design, construction, optimization, and maint
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Computer-related department at a junior college | 2 年 | $15,000,000~$25,000,000（Tuition based on national/public university standards） |
-| Computer Engineering at a university | 4年 | $20,000,000~$50,000,000（Tuition based on private university standards） |
+| 大专院校计算机相关院系 | 2 年 | $15,000,000~$25,000,000（按国立/公立大学标准收取学费） |
+| 大学计算机工程 | 4年 | $20,000,000~$50,000,000（按私立大学标准收取学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional responsible for the design, construction, optimization, and maint
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| SQLD (SQL Developer) | Korea Data Agency | 可选 | Evaluates basic database competency; not mandatory |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification; preferred by large corporations |
+| SQLD（SQL开发人员） | 韩国数据局 | 可选 | 评估基本数据库能力；非强制性 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格；大型企业优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 52,000. Demand is increasing due to the spread of big data and cloud computing, with an expected average annual growth of 5% until 2025 and a continued labor shortage.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 52,000。由于大数据和云计算的普及，需求持续增长，预计到2025年年均增长5%，劳动力短缺状况将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -38,88 +38,82 @@ A professional responsible for the design, construction, optimization, and maint
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $28,000,000~$40,000,000 | Based on new graduate salary |
-| Mid-level (4–7 years) | $45,000,000~$60,000,000 | Based on experienced worker salary |
-| 高级（8年+） | $65,000,000~$90,000,000 | Based on senior salary |
+| 初级（0-3年） | $28,000,000~$40,000,000 | 基于应届毕业生薪资 |
+| 中级（4–7年） | $45,000,000~$60,000,000 | 基于有经验工人的薪资 |
+| 高级（8年+） | $65,000,000~$90,000,000 | 基于高级薪资 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI boosts DB developer productivity and automates repetitive tasks, but data modeling and complex performance tuning require human expertise, increasing its value.
+AI提升了数据库开发人员的生产力并自动化重复任务，但数据建模和复杂性能调优需要人类专业知识，增加了其价值。
 
-Initially performs DB management and development tasks; with experience, can advance to Data Architect or CTO; high demand in large corporations and IT companies.
+最初负责数据库管理和开发任务；随着经验积累，可晋升为数据架构师或CTO；在大企业和IT公司需求旺盛。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic query optimization
-- Regular backup tasks
-- Simple data cleansing
+- 基础查询优化
+- 定期备份任务
+- 简单数据清洗
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Performance monitoring and analysis
-- Anomaly detection
-- Auto-tuning suggestions
+- 性能监控与分析
+- 异常检测
+- 自动调谐建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex data modeling
-- Security and compliance design
-- Business requirement interpretation
+- 复杂数据建模
+- 安全与合规设计
+- 业务需求解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud databases (AWS RDS, Azure SQL)
-- Big data technologies (Spark, Hadoop)
-- DevOps and CI/CD
-- Data security
+- 云数据库（AWS RDS、Azure SQL）
+- 大数据技术（Spark、Hadoop）
+- DevOps与CI/CD
+- 数据安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud DB
-- Big Data
+- 云数据库
+- 大数据
 - 人工智能
-- Data Security
+- 数据安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for skilled DB developers; requires a Korean employer |
-| Subclass D-10 (Job seeking) | Limited use of some skilled personnel |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical thinking and problem-solving skills
-- People interested in data and system optimization
+- 逻辑思维和解决问题能力强的人
+- 对数据和系统优化感兴趣的人
 
 **谁不适合**
-- People who find repetitive tasks boring
-- People who prefer working alone over teamwork
+- 觉得重复性任务无聊的人
+- 偏好独自工作而非团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for database developers?**
-答：Junior: 28-40 million KRW, Mid-level: 45-60 million KRW, Senior: 65-90 million KRW.
+**问：数据库开发人员的薪资水平是多少？**
+答：初级：2800-4000万韩元，中级：4500-6000万韩元，高级：6500-9000万韩元。
 
-**问：What visa is needed for foreigners to work as DB developers in Korea?**
-答：Mainly E-7 (Specific Activities) visa, requiring sponsorship from a Korean employer.
+**问：外国人在韩国做DB开发者需要什么签证？**
+答：主要是E-7（特定活动）签证，需要韩国雇主担保。
 
 
 ---
@@ -137,12 +131,12 @@ Initially performs DB management and development tasks; with experience, can adv
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/database-developer/KR)**

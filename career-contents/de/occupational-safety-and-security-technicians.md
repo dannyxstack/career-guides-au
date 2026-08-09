@@ -53,8 +53,6 @@ Occupational safety and security technology specialists are responsible for iden
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In occupational safety and security, AI greatly improves efficiency and accuracy in core tasks such as risk assessment, compliance monitoring, and accident analysis, freeing practitioners from tedious data processing to focus on higher-value prevention strategies and on-site management.
-
 Can advance from safety technician to safety engineer or safety manager, obtain Fachkraft für Arbeitssicherheit certification through continuing education, or pursue a master's in engineering to move into management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from safety technician to safety engineer or safety manager, obtain 
 | Subclass Skilled Worker (Skilled Immigration Act) | Applies to dual-system training or bachelor's degrees; requires a job offer from a German employer, mainly for non-EU applicants. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking and qualification assessment, valid for one year, extendable. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can progress from technician to safety engineer or safety manager, obtain hig
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-safety-and-security-technicians/DE)**

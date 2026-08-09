@@ -53,8 +53,6 @@ Forestry professionals are responsible for managing forest resources, including 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is a mixed blessing for forestry professionals: automation will compress routine data analysis and reporting tasks, but areas requiring human judgment such as field decision-making, ecological assessment, and regulatory compliance are hard to replace, while AI amplifies efficiency in remote sensing monitoring and growth modeling.
-
 Entry-level positions such as forestry technician or assistant; with experience, can advance to forest manager or senior consultant. Also possible to move into research, policy-making, or corporate sustainability. Professional certification like Registered Professional Forester (RPF) can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level positions such as forestry technician or assistant; with experience,
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for forestry professionals, such as in British Columbia, Alberta, etc. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable for job offers from Canadian employers |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a forestry bachelor's degree, completion of an internship,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-professionals/CA)**

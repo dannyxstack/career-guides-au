@@ -4,8 +4,6 @@
 
 This occupation involves extracting and cutting ore or stone in mines or quarries, and processing construction stone, primarily requiring physical labor and machine operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ This occupation involves extracting and cutting ore or stone in mines or quarrie
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation technology can replace some stone cutting and processing tasks, but tasks requiring on-site judgment and manual labor still need humans. Automation is expected to reduce simple tasks and increase high-value tasks like machine maintenance.
-
 Starting as a beginner, one can obtain heavy equipment licenses such as excavators and cranes with experience and advance to a crew leader, but large-scale promotion paths are limited.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Starting as a beginner, one can obtain heavy equipment licenses such as excavato
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Non-professional employment in mining/manufacturing through Employment Permit System, mainly manufacturing. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable if skilled mining or stone-cutting skills recognized; requires employment contract. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system after certain stay; few job restrictions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: No legally required certificates, but having a excavator operation license or
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/blasters-and-stone-cutters/KR)**

@@ -53,8 +53,6 @@ Counter and rental clerks typically work in retail stores or rental counters, re
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI self-checkout, online rental platforms, and chatbots will massively replace counter and rental clerks, significantly reducing job demand and sharply narrowing entry-level positions.
-
 Can advance to customer service supervisor, store manager, or rental business manager, or transition to sales or operations roles through experience, but advancement opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to customer service supervisor, store manager, or rental business ma
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. This occupation typically does not meet H-1B specialty o
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/counter-and-rental-clerks/US)**

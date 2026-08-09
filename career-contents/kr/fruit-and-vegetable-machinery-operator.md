@@ -51,8 +51,6 @@ A production worker who operates and manages automated machines that sort, wash,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Due to AI and automation, simple sorting and packaging tasks are being replaced by machines, but machine maintenance and quality control still require human workers.
-
 Starting with simple operation, promotion to machine management and quality control is possible with experience; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting with simple operation, promotion to machine management and quality cont
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Available for use in agriculture, livestock, fisheries, and manufacturing as non-professional foreign workers. |
-| Subclass E-7 (Specific Activities (E-7)) | Requires qualifications·experience as skilled labor, with employer recommendation. |
-| Subclass F-2 (Residence (F-2)) | Convertible by points system, permits long-term stay and free employment. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A high school diploma or higher is sufficient, and completing a one-year cour
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-and-vegetable-machinery-operator/KR)**

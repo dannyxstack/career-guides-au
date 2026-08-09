@@ -49,8 +49,6 @@ This machine operator runs plastic injection, extrusion, blow molding machines, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the rapid introduction of AI and automation technology, simple manipulation tasks are being replaced by robots, and low-skilled jobs are expected to decrease significantly.
-
 Initially starting as a machine operation assistant, after gaining skills, one can be promoted to multi-model operation and line management manager. Career paths can expand to production management or quality control.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Initially starting as a machine operation assistant, after gaining skills, one c
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Available for non-professional foreign workers in plastic manufacturing. Subject to the Employment Permit System. |
-| Subclass E-7-1 (Specific Activities (E-7)) | Convertible upon recognition as skilled worker. Requires certain experience and skills. |
-| Subclass F-2-99 (Residence (F-2) Skilled Worker) | Can apply after staying for a period on E-7, allows long-term stay. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: No required certifications, but injection molding technician or mold technici
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-product-production-machine-operator/KR)**

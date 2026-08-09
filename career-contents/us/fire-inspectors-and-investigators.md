@@ -55,8 +55,6 @@ Responsible for inspecting buildings for fire hazards, enforcing local and state
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Career progression typically starts with a firefighter transfer; after gaining experience, one can become a chief investigator or fire captain. Some move to the private sector as safety consultants or work in fire engineering.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts with a firefighter transfer; after gaining e
 | Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based Green Card) | Employers must demonstrate inability to hire qualified US workers, but government positions are usually not open to foreigners. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Rarely applicable, unless outstanding achievements in firefighting |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Australia and Canada have greater demand for fire inspectors, and their skill
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-inspectors-and-investigators/US)**

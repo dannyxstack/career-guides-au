@@ -54,8 +54,6 @@ An art metal design supervisor oversees and guides the production of metal artwo
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of art metal design director involves creative design, manual craftsmanship, team management; AI can assist with design optimisation, production scheduling, and quality monitoring, but core artistic judgment and manual operations are hard to replace. It is a high-skill, low-automation-risk position.
-
 Typically start as a metal design apprentice and advance to supervisor after gaining experience. Can further obtain a Master Craftsman certificate (Meisterbrief) to become an independent artisan or business manager, or move toward heritage restoration or industrial design.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as a metal design apprentice and advance to supervisor after gai
 | Subclass EU Blue Card (EU Blue Card) | If annual salary meets the threshold (approx. EUR 43,000 in 2024), you can apply, but this occupation typically has lower pay, so check carefully. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | For qualified job seekers, allows job searching in Germany, points-based system |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, Germany faces a shortage of skilled tradespeople, with steady demand for
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-artistic-metal-design/DE)**

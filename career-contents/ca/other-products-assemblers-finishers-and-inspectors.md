@@ -51,8 +51,6 @@ Responsible for product assembly, trimming, grinding, and inspection in manufact
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation involves repetitive tasks of operating shoemaking machines (cutting, stitching) that are easily automated. Demand for entry-level positions will decline significantly, but machine maintenance and process optimization still require human oversight.
-
 Usually start as assemblers, and can be promoted to inspector, team leader or production supervisor after accumulating experience. Some workers can transition to automated equipment operation or quality control positions through training.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Usually start as assemblers, and can be promoted to inspector, team leader or pr
 | Subclass PNP (Provincial Nominee Program) | Some provinces have manufacturing-related nomination programs, such as Ontario, BC, and Alberta. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work permit, then gain experience for immigration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Job opportunities are relatively stable, but competition is moderate. Manufac
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-products-assemblers-finishers-and-inspectors/CA)**

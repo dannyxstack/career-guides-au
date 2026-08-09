@@ -51,8 +51,6 @@ Insurance brokers and agents are responsible for providing individuals and busin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Insurance brokers and agents face mixed AI impacts: standardized consulting and data processing tasks will be automated, but complex risk analysis, client relationship maintenance, and compliance responsibilities will still require human judgment. The overall job will not disappear, but skill upgrades will be required.
-
 They can rise from sales agents to team leaders or regional managers, with some moving into underwriting or claims roles. Senior professionals can establish independent brokerage firms or enter the bancassurance sector.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ They can rise from sales agents to team leaders or regional managers, with some 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Applying for work residence through Spanish employer-sponsored work is available to employees employed by insurance companies |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for employed persons with higher education (bachelor's or above) meeting salary threshold, can quickly obtain residence. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for executives or professionals, with higher salary thresholds and a simplified application process |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You need to obtain work residency and register as an insurance intermediary. 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-brokers-and-agents/ES)**

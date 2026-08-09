@@ -51,8 +51,6 @@ Dental technicians fabricate and repair full or partial dentures and orthodontic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
-
 Starting as a junior technician, after 5-10 years of experience can advance to supervisor or specialist technician (e.g., implant restoration), and some may open independent labs.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Starting as a junior technician, after 5-10 years of experience can advance to s
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Requires PERM labor certification, then green card application; applies to skilled workers |
 | Subclass O-1 (Individual with Extraordinary Ability) | Applicable only to technicians with outstanding abilities in dental technology, such as winners of international competitions. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can pivot to dental implant design, digital oral scanning and CAD/CAM technol
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-laboratory-technicians/US)**

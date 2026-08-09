@@ -54,8 +54,6 @@ Journalists research and write news stories and produce content for media organi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI tools are significantly changing how journalists work, with automated writing and data analysis boosting efficiency, but deep investigations, exclusive reporting, and ethical judgment remain human strengths.
-
 Australia's media industry continues to restructure (major groups are reducing editorial headcount), but digital news subscription models (e.g. The Australian Digital, AFR paywall) have stabilised some roles. Corporate content marketing is generating strong demand for content creators with journalism writing skills. AI writing tools are affecting structured news production (financial data, sports briefs), but in-depth reporting and investigative journalism remain irreplaceable.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Australia's media industry continues to restructure (major groups are reducing e
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: PR Specialist roles offer more employment opportunities (every organisation n
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/AU)**

@@ -52,8 +52,6 @@ Responsible for supervising and coordinating heavy equipment operator teams, ens
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will streamline management tasks through automated scheduling, remote equipment diagnostics, and document generation, but on-site safety supervision, interpersonal coordination, and emergency response still rely on human experience, with mixed overall impact.
-
 Start as a heavy equipment operator, gain experience, advance to foreman or supervisor, then move into project management or company management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a heavy equipment operator, gain experience, advance to foreman or supe
 | Subclass PNP (Provincial Nominee Program) | Provinces have nomination programs for construction and mining trades, such as British Columbia and Alberta. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, with a pathway to permanent residency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Driven by infrastructure and mining projects, demand is high; rated 3 stars b
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-heavy-equipment-operator-crews/CA)**

@@ -4,8 +4,6 @@
 
 A professional counselor who connects job seekers with employers, supporting efficient labor market matching through career planning, job placement, and job information provision.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional counselor who connects job seekers with employers, supporting eff
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI chatbots and automatic matching systems have been introduced, which may replace simple information-providing tasks, but personalized counseling and complex career guidance still require human counselors.
-
 Careers typically start at employment centers, private job information companies, or university career centers; with counseling experience and relevant certifications, one can advance to senior counselor or team leader.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Careers typically start at employment centers, private job information companies
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Possible for foreign workers in professional fields, but most job counselor positions are for Koreans and E-7 cases are rare |
-| Subclass F-2 (F-2 (Residence) visa) | Long-term residents can work, but employment as a job counselor has limitations such as language skills |
-| Subclass F-4 (F-4 (Overseas Koreans) visa) | Overseas Koreans can work, but expertise is required, limiting opportunities |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: It is not mandatory but highly advantageous for employment, and public instit
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/career-counselor/KR)**

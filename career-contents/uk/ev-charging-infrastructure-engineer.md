@@ -51,8 +51,6 @@ EV charging infrastructure engineers are responsible for electrical design, dist
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
-
 Ultra-fast charging and fleet charging in the UK have become hotspots, with stations often needing power distribution upgrades and energy storage peak shaving; AI-assisted site selection and load forecasting, core electrical design and compliance are handled by engineers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Ultra-fast charging and fleet charging in the UK have become hotspots, with stat
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-charging-infrastructure-engineer/UK)**

@@ -55,8 +55,6 @@ Graphic designers create visual communication materials for corporate, media and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Australia's digital marketing sector continues to grow (surpassing $13 billion AUD in 2026), driving strong demand for visual content designers. AI design tools (Midjourney/Adobe Firefly) are reshaping entry-level design tasks, but brand strategy, creative concepts and client communication remain irreplaceable. Figma has become the industry standard for UI/UX and graphic design.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Australia's digital marketing sector continues to grow (surpassing $13 billion A
 | Subclass 189 (SkillSelect Independent) | Invitation-based; skills assessment (VETASSESS) required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: UI/UX designers earn more ($90k–$130k vs graphic design $70k–$88k), are i
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-designer/AU)**

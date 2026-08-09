@@ -54,8 +54,6 @@ Earthmoving workers operate heavy equipment such as excavators and bulldozers fo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Earthmoving machine operators face dual impact from AI automation (e.g., autonomous driving and remote operation) and AI assistance (e.g., intelligent planning and monitoring). Entry-level positions are under pressure, but experienced operators retain advantages due to on-site adaptability and machine maintenance skills.
-
 Junior earthmoving workers can gain operating experience, obtain heavy vehicle licenses (e.g., Class 2/4), and advance to senior operator or foreman. Some move into project management or start small earthmoving contracting companies; career progression depends on experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior earthmoving workers can gain operating experience, obtain heavy vehicle l
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: The main pathway is through the Accredited Employer Work Visa (AEWV) to work 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-labourer/NZ)**

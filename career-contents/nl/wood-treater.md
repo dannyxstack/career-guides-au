@@ -52,8 +52,6 @@ Timber treatment workers apply chemical treatments such as preservatives, fire r
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Timber treatment workers face a mixed impact from automation and AI: automated equipment can take over chemical treatment processes, but tasks such as on-site inspections and recipe adjustments still require human judgment. Entry-level positions may shrink due to automation, but AI-enhanced monitoring and maintenance capabilities create new opportunities.
-
 Operators can advance to senior processing technicians, production supervisors, or quality controllers. With experience, they can transition to wood preservative R&D or environmental compliance roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Operators can advance to senior processing technicians, production supervisors, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for employer-sponsored skilled migration, meeting income threshold (approx. €5,578/month in 2025) |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled migrants with tertiary education and meeting salary threshold (approx. €6,293/month) |
-| Subclass Orientation Year (Orientation Year) | Orientation year visa for graduates of Dutch higher education institutions or the world's top 200 universities; allows work |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: A Timber Processing Operations Certificate (NBVT) and a Chemical Operations L
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-treater/NL)**

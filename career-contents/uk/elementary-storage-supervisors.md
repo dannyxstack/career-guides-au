@@ -51,8 +51,6 @@ Junior warehouse supervisors oversee daily operations of storage facilities such
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of a junior warehouse supervisor has mixed prospects: automated systems will take over administrative tasks like inventory records and task assignment, but on-site coordination, anomaly handling, and safety supervision still require human judgment; AI actually expands their management scope.
-
 Junior warehouse supervisors usually promoted from warehouse workers; with experience can advance to warehouse manager or supply chain supervisor. Some large companies offer internal training and management development programs, with further progression to operations manager or logistics director.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior warehouse supervisors usually promoted from warehouse workers; with exper
 | Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible occupation list, meets skilled worker visa requirements, requires employer sponsorship and meeting the salary threshold (usually 26,200 GBP per year) |
 | Subclass Graduate (Graduate Visa) | Suitable for graduates who completed a degree in the UK, can work in the UK for 2 years (PhD 3 years) after graduation, then transition to a skilled worker visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes. This occupation is on the eligible occupations list for skilled worker v
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-storage-supervisors/UK)**

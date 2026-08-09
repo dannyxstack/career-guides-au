@@ -4,8 +4,6 @@
 
 A magazine reporter is a professional in the editorial department of a magazine company responsible for planning, news gathering, article writing, and editing, providing readers with in-depth coverage on various topics.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A magazine reporter is a professional in the editorial department of a magazine 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI replaces some tasks like article writing and data analysis, the magazine reporter profession is shrinking, but in-depth reporting and creative storytelling remain human domains.
-
 Most hold a master's degree or higher in journalism, advancing from trainee to reporter, desk, and editor-in-chief. Freelancing or moving to online media is common.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Most hold a master's degree or higher in journalism, advancing from trainee to r
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Professional employment visa, available for magazine reporters but issuance is strict |
-| Subclass D-10 (Job seeking) | E-7 (Specific Activities) after job-seeking visa |
-| Subclass F-2 (F-2 (Residence)) | Limited employment possible with points-based permanent residence (F-5) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Possible with an E-7 visa, but Korean proficiency and relevant experience are
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/magazine-reporter/KR)**

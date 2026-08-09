@@ -53,8 +53,6 @@ Auditors in Canada review corporate financial statements and internal controls t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Auditors and accountants face AI automation impact, especially repetitive tasks like data reconciliation and transaction classification. However, AI can also enhance efficiency in data analysis and anomaly detection, while regulations and strategic judgments still require human input—overall, a mixed outlook.
-
 Advance from junior auditor to senior auditor, audit manager, or partner; also transition to financial analysis, risk management. CPA certification is key to promotion, significantly boosting salary and rank.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Advance from junior auditor to senior auditor, audit manager, or partner; also t
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee auditor occupations, such as Ontario HCP, BC PNP Tech, for accelerated permanent residence. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for auditors with a job offer from an employer in Atlantic Canada |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Although not mandatory, obtaining Canadian CPA certification is crucial for j
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auditors-and-accountants/CA)**

@@ -1,8 +1,8 @@
-# Production-Related Worker 职业分析 · 日本
+# 生产相关工人（Production-Related Worker）职业分析 · 日本
 
-**职业代码: 591 (JSCO)**
+**职业代码：591 (JSCO)**
 
-On-site production worker performing machine operation, assembly, inspection, packaging, etc. on manufacturing lines or in factories. A fundamental occupation supporting Japanese manufacturing.
+在生产线上或工厂内进行机器操作、组装、检查、包装等的现场生产工人。支持日本制造业的基础职业。
 
 
 ---
@@ -11,9 +11,9 @@ On-site production worker performing machine operation, assembly, inspection, pa
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Free public high school eligible） |
-| Vocational training school (public vocational training) | 1年 | $0~$100,000（Free for unemployment insurance recipients, etc.） |
-| Vocational school (Production Technology Department) | 2 年 | $1,000,000~$2,000,000（每年学费） |
+| 高中毕业 | 3年 | $0~$0（符合免费公立高中资格） |
+| 职业培训学校（公共职业培训） | 1年 | $0~$100,000（失业保险领取者等免费） |
+| 职业学校（生产技术系） | 2 年 | $1,000,000~$2,000,000（每年学费） |
 
 ---
 
@@ -21,19 +21,19 @@ On-site production worker performing machine operation, assembly, inspection, pa
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Special Education (Grinding Wheels, Arc Welding, etc.) | Business operator | 必备 | Mandatory for certain tasks |
-| Forklift Operation Skills Training | Prefectural Labor Bureau Director Registered Training Institution | 可选 | Advantageous for material handling |
-| Slinging Skills Training | 同上 | 可选 | Required for crane operations |
-| Work Chief (Scaffolding, Formwork, etc.) | Ministry of Health, Labour and Welfare | 可选 | Useful for safety management |
+| 特殊教育（砂轮、弧焊等） | 经营者 | 必备 | 某些任务必须 |
+| 叉车操作技能培训 | 县劳动局主任注册培训机构 | 可选 | 有利于物料搬运 |
+| 吊装技能培训 | 同上 | 可选 | 操作起重机所需 |
+| 工作主管（脚手架、模板等） | 厚生劳动省 | 可选 | 有助于安全管理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 6,000,000. Labor shortages continue due to an aging population with fewer children, but automation and robotization are reducing simple tasks. A shift to skilled workers is required.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 6,000,000。由于少子老龄化，劳动力持续短缺，但自动化和机器人化减少了简单任务。需要向技能型工人转变。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,95 +41,87 @@ On-site production worker performing machine operation, assembly, inspection, pa
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$3,500,000 | Base salary + overtime. Varies by region. |
-| Intermediate (3–10 years) | $3,500,000~$5,000,000 | Includes skill and qualification allowances. |
-| Advanced (10+ years) | $4,500,000~$6,000,000 | Team leader/foreman level. Wide annual income range. |
+| Beginner (0–3 years) | $2,500,000~$3,500,000 | 底薪+加班费。因地区而异。 |
+| 中级（3-10年） | $3,500,000~$5,000,000 | 包含技能和资格津贴。 |
+| 高级（10年以上） | $4,500,000~$6,000,000 | 团队负责人/领班级别。年收入范围广泛。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Automation through AI and robots is reducing simple assembly, inspection, and packaging tasks; roles requiring human judgment, such as equipment maintenance, anomaly response, and high-mix low-volume production, remain.
+通过AI和机器人进行的自动化正在减少简单的装配、检查和包装任务；需要人工判断的角色，如设备维护、异常响应和多品种少量生产，仍然存在。
 
-Beginners start with line work; after becoming multi-skilled or promoted to leader, they advance to production management or quality control. Many accept Specified Skilled Workers or Technical Intern Trainees.
+初学者从流水线工作开始；成为多技能工或晋升组长后，转向生产管理或质量管理。许多公司接收特定技能工人或技术实习生。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine assembly work
-- Visual inspection
-- Simple packaging
+- 常规装配工作
+- 目视检查
+- 简易包装
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Final check of image inspection (human judgment after AI determination)
-- Robot teaching and adjustment
-- Production schedule optimization (AI-assisted)
+- 图像检查最终确认（AI判定后人工判断）
+- 机器人示教与调试
+- 生产排程优化（AI辅助）
 
-**人类护城河:**
+**人类护城河：**
 
-- Troubleshooting during anomalies
-- Complex Assembly (Variance Handling)
-- Craftsman-Level Finishing
-- Team Communication and Improvement Proposals
+- 异常期间故障排除
+- 复杂装配（差异处理）
+- 工匠级精加工
+- 团队沟通与改进提案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Operation & Maintenance Skills
-- Basics of Production & Quality Control
-- Robot Programming
-- Kaizen (Continuous Improvement) Ability
+- 机器操作与维护技能
+- 生产与质量控制基础
+- 机器人编程
+- Kaizen（持续改进）能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Automation adaptation
-- Multi-skilling
-- Acceptance of foreign workers
+- 劳动力短缺
+- 自动化适应
+- 多技能
+- 接受外籍工人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Up to 5 years in 3 manufacturing fields (metal casting, industrial machinery, electrical/electronic information). Requires skill and Japanese language exams. |
-| Subclass 技能実習3号 (Technical Intern Training (Manufacturing)) | Internship from year 3 onwards. Max 5 years. No job change allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Technology)) | Requires university degree or higher in production engineering or engineering roles. Not suited for on-site work. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing 3 fields)) | For skilled workers. Unlimited stay renewal, family accompaniment possible. Strict requirements. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterous hands who excel at detailed work
-- People who can work collaboratively in a team
-- People who don't mind routine work
+- 双手灵巧、擅长精细工作的人
+- 能团队协作的人
+- 不介意做常规工作的人
 
 **谁不适合**
-- People who prefer creative and autonomous work
-- People not suited for physical labor or standing work
+- 喜欢创造性和自主工作的人
+- 不适合体力劳动或站立工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of production-related workers?**
-答：Entry-level: ¥2.5–3.5M, Mid-level: ¥3.5–5M, Senior: ¥4.5–6M; varies with overtime and skill allowances.
+**问：生产相关工人的年收入是多少？**
+答：入门级：¥2.5–3.5M，中级：¥3.5–5M，高级：¥4.5–6M；视加班和技能津贴而定。
 
-**问：Can foreigners work in production sites?**
-答：Possible under Specified Skilled Worker (i) (manufacturing 3 fields) or Technical Intern Training; requires Japanese proficiency and skill tests. Transition to Specified Skilled Worker (ii) allows long-term stay.
+**问：外国人能在生产现场工作吗？**
+答：在特定技能工人(i)（制造业3个领域）或技术实习培训下可能；需要日语能力和技能测试。过渡到特定技能工人(ii)允许长期居留。
 
-**问：Can you advance your career from this job?**
-答：Promotion paths to production control, quality control leader, or site supervisor; gaining certifications and multi-skilling are key.
+**问：你能通过这份工作实现职业晋升吗？**
+答：晋升路径为生产控制、质量控制主管或现场主管；获得认证和多技能是关键。
 
 
 ---
@@ -147,12 +139,12 @@ Beginners start with line work; after becoming multi-skilled or promoted to lead
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/productionrelated-worker/JP)**

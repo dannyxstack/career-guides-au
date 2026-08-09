@@ -50,8 +50,6 @@ Technical expert responsible for installing, maintaining, and troubleshooting wi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation can replace fault detection, traffic optimization, and some configuration tasks, but on-site response and complex troubleshooting still require human technicians, so complete replacement is difficult.
-
 Junior Engineer → Senior → Lead → Team Manager. With experience at telecom/equipment/infrastructure companies, can transition to network design, security, or cloud.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Junior Engineer → Senior → Lead → Team Manager. With experience at telecom
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Possible when hired as a network engineer by a telecom company/equipment vendor. Requires bachelor's degree or higher and experience. |
-| Subclass E-7-3 (Specific Activities (Skilled)) | E-7-3 issued as skilled worker in network operations. Must meet experience and skill requirements. |
-| Subclass F-2 (Residence (F-2-99)) | Can switch to points-based visa after long-term E-7 stay. Prerequisite for permanent residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Information and communication engineer, network administrator, CCNA, etc. are
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-network-operations-engineer/KR)**

@@ -56,8 +56,6 @@ Tour guides provide guided commentary, itinerary organization, and safety manage
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 Inbound tourism to Australia has fully recovered; China is one of the largest single-source markets (over 1 million per year). Mandarin/Cantonese-speaking tour guides are in high demand in the Great Barrier Reef, Sydney, Melbourne, and the Gold Coast, with better salaries than general guides. Ecotourism (Great Barrier Reef diving, rainforest hiking, Red Centre drives) is the most valuable guide direction.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Inbound tourism to Australia has fully recovered; China is one of the largest si
 | Subclass 190 (Skilled Nominated) | State nomination; Queensland, NT and WA have nomination pathways with a tourism focus |
 | Subclass 491 (Skilled Work Regional) | Severe shortage of tour guides in remote tourism areas (remote NT/QLD) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Travel consultant (travel agency sales) has slightly higher salary ($68k-$90k
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-guide-travel-consultant/AU)**

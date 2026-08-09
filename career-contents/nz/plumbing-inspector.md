@@ -52,8 +52,6 @@ Responsible for inspecting water pipe installation, maintenance, and repair to e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will compress demand for water pipe inspectors, automating routine inspection tasks, but legal review responsibilities remain protected, and entry-level positions may narrow.
-
 Can advance from junior inspector to senior inspector, team leader, or consultant. With experience, can specialize in gas or fire systems, or transition to building compliance manager.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from junior inspector to senior inspector, team leader, or consultan
 | Subclass SMC (Skilled Migrant Category) | Points-based skilled migration requiring a score of 6 |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa leading to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold Plumbers Board registration, typically requiring completion of the 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumbing-inspector/NZ)**

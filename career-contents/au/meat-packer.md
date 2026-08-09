@@ -53,8 +53,6 @@ A meat packer works in abattoirs or meat processing plants, weighing, packing, l
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Meat packers face high automation risk; AI and robots will replace repetitive tasks like weighing, packaging, and labeling, significantly reducing entry-level roles, but new needs in machine maintenance and quality monitoring will create a few upgraded positions.
-
 Entry-level meat packers can advance to packaging line supervisor or quality inspector, or move into meat inspection, cold chain logistics and other roles through training. Experienced workers can also enter processing plant management, but advancement opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level meat packers can advance to packaging line supervisor or quality ins
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: This occupation is usually not on the regular skilled migration list, but can
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-packer/AU)**

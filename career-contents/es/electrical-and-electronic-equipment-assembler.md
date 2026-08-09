@@ -51,8 +51,6 @@ Responsible for assembling electrical and electronic equipment such as circuit b
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
-
 Promotion from junior assembler to assembly line leader or quality inspector; By completing advanced FP courses, you can transition to industrial electronics repair or automation technicians.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Promotion from junior assembler to assembly line leader or quality inspector; By
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence, sponsored by a Spanish company, requires proof that the position cannot be filled by a local resident |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card is for highly skilled workers, requires a university degree or equivalent experience, with a salary threshold of approximately 33,908 euros (2024). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: You can apply for employment-based residence through company sponsorship, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-equipment-assembler/ES)**

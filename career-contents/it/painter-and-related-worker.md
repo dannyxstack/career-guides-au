@@ -51,8 +51,6 @@ Italian painters are responsible for coating and protecting surfaces of building
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
-
 Start as an apprentice or helper, gain experience to advance to foreman or project manager, or specialize in custom painting (e.g., automotive, artistic paint) to increase income. Some start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Start as an apprentice or helper, gain experience to advance to foreman or proje
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through an annual quota, requiring employer sponsorship, applicable to non-shortage occupations. Quotas are limited, and competition is intense. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, painters generally do not meet the salary threshold (approx. €28,000 in 2023), so applicability is low. |
-| Subclass Self-Employment Visa (Lavoro Autonomo) (Self-Employment Visa) | Need to prove sufficient funds and a business plan, suitable for painters planning to independently take on projects. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can advance to foreman, project manager, or specialise in automotive painting
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-related-worker/IT)**

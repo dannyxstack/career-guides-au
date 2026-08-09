@@ -51,8 +51,6 @@ Supervises staff such as attendants, receptionists, and cleaners to ensure servi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Other services manager roles involve staff supervision and customer service; AI can optimize scheduling and monitoring but is unlikely to replace people management and emergency handling, resulting in mixed overall impact.
-
 Can progress from entry-level staff to supervisor, then to department manager or regional manager.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from entry-level staff to supervisor, then to department manager or
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Yes, but must meet federal or provincial nomination program requirements, usu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-services-supervisors/CA)**

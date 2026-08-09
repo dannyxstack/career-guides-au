@@ -4,8 +4,6 @@
 
 Italian motorcycle couriers are primarily responsible for transporting parcels, food deliveries, and small goods within cities, serving as a flexible and efficient component of urban logistics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Italian motorcycle couriers are primarily responsible for transporting parcels, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation (e.g., unmanned delivery vehicles, drones) will severely reduce demand for motorcycle couriers, particularly in Italian city logistics, where route planning and delivery tasks are taken over by AI, leading to fewer jobs.
-
 Career advancement paths are limited, typically leading to distribution team supervisor, self-operated delivery business, or logistics coordinator.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Career advancement paths are limited, typically leading to distribution team sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply through annual quotas, require employer sponsorship, and are suitable for non-skilled work. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers; motorcycle drivers generally do not meet the salary threshold. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Mainly through Decreto Flussi annual quota application, requires employer spo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-driver/IT)**

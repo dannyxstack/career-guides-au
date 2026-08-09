@@ -53,8 +53,6 @@ A Panel Beater repairs collision damage to vehicles, including straightening bod
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
-
 The trend toward aluminium vehicle bodies places new skill demands on panel beaters (different from traditional steel repair). Independent small collision repair shops through to large chains (e.g. Repco Authorised) are all actively hiring.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ The trend toward aluminium vehicle bodies places new skill demands on panel beat
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: TRA skills assessment required (12–18 months); submit panel beating work re
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/panel-beater/AU)**

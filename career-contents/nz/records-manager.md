@@ -52,8 +52,6 @@ Archivists organize, store, and retrieve records for institutions or organizatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-A day-to-day tasks like document processing, classification, and retrieval for archivists are highly automatable; AI is rapidly shrinking traditional entry-level roles, but advanced functions like strategy development, compliance review, and digital transformation consulting still require human wisdom.
-
 Junior records managers can advance to senior records manager or archive supervisor, further developing into information governance manager or chief archivist. Digital skills (e.g., electronic records management systems) will increase advancement opportunities.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior records managers can advance to senior records manager or archive supervi
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work-to-residence visa, requiring 2 years of relevant work |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, applicable for applicants with employer sponsorship |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a bachelor's degree or diploma in a related field such as 
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-manager/NZ)**

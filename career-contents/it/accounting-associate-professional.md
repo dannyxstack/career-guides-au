@@ -4,8 +4,6 @@
 
 Accounting assistant professionals are responsible for recording, reconciling, and analyzing financial transactions, preparing reports, and assisting with tax compliance, providing key support to Italian SMEs and accounting firms.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Accounting assistant professionals are responsible for recording, reconciling, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Accountants and bookkeepers will see repetitive tasks like bookkeeping and reconciliation automated by AI, but financial analysis and client advisory roles that rely on human judgment and communication will be strengthened. Overall, risk and opportunity coexist.
-
 Typically start as a junior accounting clerk, with progression to senior accounting assistant, accounting supervisor, or becoming an independent accountant or financial manager by obtaining a CPA (Dottore Commercialista).
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Typically start as a junior accounting clerk, with progression to senior account
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For non-EU high-skilled talent, requiring an annual salary of no less than approximately €25,000, a university degree, or at least 5 years of relevant experience. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU ordinary workers, requires employer sponsorship, limited quota, highly competitive |
-| Subclass Nulla Osta Work Permit (Nulla Osta (Work Authorization)) | The employer applies to the immigration department, demonstrating that no suitable EU candidate is available, and after approval, applies for the visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: With digital transformation, basic bookkeeping may be automated, but demand f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-associate-professional/IT)**

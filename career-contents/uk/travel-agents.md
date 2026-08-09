@@ -51,8 +51,6 @@ Travel advisors provide itinerary suggestions, book flights and hotels, and arra
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 Junior travel consultant can advance to senior consultant, team leader, or travel operations manager. Also possible to become a destination specialist, corporate travel manager, or start own travel agency.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior travel consultant can advance to senior consultant, team leader, or trave
 | Subclass Skilled Worker (Skilled Worker visa) | Applicable to travel consultants with employer sponsorship, must meet salary threshold (usually at least £25,600/year). |
 | Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing them to work in the UK for 2 years (3 years for PhD holders) to gain experience before switching. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. Can advance to senior consultant, team lead, or operations manager, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-agents/UK)**

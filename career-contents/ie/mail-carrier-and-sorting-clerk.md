@@ -53,8 +53,6 @@ Responsible for sorting, delivering, and collecting mail and parcels; a key role
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Mail delivery and sorting tasks are highly repetitive; AI and automation will significantly replace manual sorting and route planning, leading to a sharp reduction in positions, leaving only a few complex handling and supervisory roles.
-
 Can advance from mail sorter to senior delivery officer or supervisor; some transition to logistics and warehouse management. Requires route familiarity and customer service skills, with long-term potential to develop into operations management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from mail sorter to senior delivery officer or supervisor; some tran
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-corporate transfer for large postal logistics companies. |
 | Subclass Stamp 1G (Stamp 1G (Third Level Graduate Scheme)) | Graduates can work for 2 years, but need to find an employer to support a work permit |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to supervisor or transition to logistics management, but trad
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mail-carrier-and-sorting-clerk/IE)**

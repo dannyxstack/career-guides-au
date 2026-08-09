@@ -52,8 +52,6 @@ Shipbuilder and repairer build, install, and repair wooden hull structures and f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce shipbuilding and repair jobs through machine vision, welding robots, and simulation software, with repetitive assembly, cutting, and welding tasks being the first to be affected, but on-site emergency repairs and complex structural judgments still require humans.
-
 Career progression can start from an apprentice, and gradually advance to senior technician, team leader, or shipbuilding manager. Holding advanced welding or composite material certificates can lead to yacht construction or naval projects, with some moving into design or quality inspection roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression can start from an apprentice, and gradually advance to senior
 | Subclass Scale-up (Scale-up Worker Visa) | Applies to skilled workers in high-growth enterprises; no sponsorship needed after 6 months. |
 | Subclass Graduate (Graduate Visa) | UK university graduates can stay and work in the UK for 2 years (3 years for PhD) after graduation, with no work restrictions during this period. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can progress from apprentice to tradesperson, then to senior tradesperson, su
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boat-and-ship-builders-and-repairers/UK)**

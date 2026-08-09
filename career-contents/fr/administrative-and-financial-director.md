@@ -4,8 +4,6 @@
 
 Responsible for corporate administration and financial management, setting budgets, overseeing cash flow, optimizing costs, and providing strategic decision support.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for corporate administration and financial management, setting budge
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Many of the analysis and report generation tasks for executive and financial directors can be automated by AI, but core responsibilities such as strategic decision-making, cross-departmental coordination, and risk management are hard to replace. Instead, AI can enhance their decision-making support capabilities.
-
 You can be promoted from financial manager or accounting supervisor to executive financial director, and further to CFO or CEO. Continuous study of tax regulations and financial software is required.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted from financial manager or accounting supervisor to executive
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | For high-skilled technical talent, requiring annual salary over €53,936.50 (2024 standard), simplified residence application. |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, master's degree or 3 years of work experience is required to quickly obtain multi-year residency |
-| Subclass Salarié (Employee Work Permit) | Standard work permit, requiring an employer motivation letter and review by the French Labor Authority |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: You can be promoted to CFO or CEO, or you can switch to consulting or start y
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-and-financial-director/FR)**

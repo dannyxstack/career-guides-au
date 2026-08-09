@@ -55,8 +55,6 @@ Social workers and social educators in Germany provide social support, counselin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core interpersonal interactions and complex assessments of social workers and social educators are difficult to replace by AI, but administrative paperwork, data analysis, and basic consultation tasks are being taken over by automation tools. Overall job demand is stable, but the requirement for technical adaptability has significantly increased.
-
 Career advancement paths include becoming a team leader, department manager, or professional supervisor; also, through further study (e.g., Master of Social Work), one can enter university teaching or research roles. Experienced individuals may open their own consulting practice.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Career advancement paths include becoming a team leader, department manager, or 
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa that allows you to look for work in Germany. Requirements include German B1 and relevant experience, valid for one year. |
 | Subclass Job Seeker (Job Seeker Visa) | For university graduates, allows a 6-month stay in Germany to seek employment. Requires proof of financial means and a degree recognized in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: May advance from front-line roles to team leader, department manager, or prof
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-worker-and-social-pedagogue/DE)**

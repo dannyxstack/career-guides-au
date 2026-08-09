@@ -4,8 +4,6 @@
 
 Inventory managers are responsible for recording, maintaining, and monitoring item inventory to ensure accuracy. In Italy, they are key roles in logistics and retail, commonly found in warehouses, supermarkets, and distribution centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Inventory managers are responsible for recording, maintaining, and monitoring it
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
-
-Core tasks of inventory managers such as data entry and stocktaking will be automated by AI, but on-site anomaly handling and customer communication tasks that require physical presence and judgment will increase in value due to AI augmentation, overall a mixed outlook.
 
 Starting as a junior inventory assistant, can advance to senior inventory specialist or warehouse supervisor; with ERP system (e.g., SAP) skills, can move into supply chain management roles.
 
@@ -100,17 +96,9 @@ Starting as a junior inventory assistant, can advance to senior inventory specia
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to highly skilled non-EU citizens, but inventory managers typically do not meet high salary requirements. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Unskilled workers can apply through annual quotas, but require employer sponsorship and are limited to specific industries. |
-| Subclass Free Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Eligible to apply for Decreto Flussi quota work visa, but requires employer s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-clerk/IT)**

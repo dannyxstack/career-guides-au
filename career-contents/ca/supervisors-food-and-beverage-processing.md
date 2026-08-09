@@ -52,8 +52,6 @@ Supervise workers and production lines in food and beverage processing plants, e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The food and beverage processing supervisor role has mixed prospects: AI and automation will handle repetitive tasks like production scheduling and quality data recording, but manual supervision, anomaly handling, and team management still rely on human judgment, making full replacement unlikely in the short term.
-
 Typically promoted from production line worker to supervisor, and with experience can advance to production manager or factory manager, with some moving into quality control or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically promoted from production line worker to supervisor, and with experienc
 | Subclass PNP (Provincial Nominee Program) | Provinces such as Ontario, Alberta, and Manitoba have provincial nomination programs for food processing supervisors. |
 | Subclass LMIA (Labour Market Impact Assessment) | If the employer obtains LMIA, a work visa can be applied for, followed by experience-based immigration. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Demand is higher in Ontario, Quebec, Alberta, and British Columbia due to con
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-food-and-beverage-processing/CA)**

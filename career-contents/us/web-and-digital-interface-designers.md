@@ -53,8 +53,6 @@ Design digital user interfaces or websites, developing and testing layouts, func
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
-
 From junior designer can advance to senior designer, lead designer, or creative director. With experience, can move to product design, UX research, or entrepreneurship, or become a freelancer. Learning emerging technologies (e.g., AR/VR) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From junior designer can advance to senior designer, lead designer, or creative 
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Employment-based third preference, applicable to bachelor's degree or other skilled workers, PERM labor certification, long wait times. |
 | Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to individuals with outstanding achievements in web design, must provide evidence such as awards, media coverage, no quota limits. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Core skills include HTML/CSS, JavaScript, responsive design, UI design tools 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-and-digital-interface-designers/US)**

@@ -52,8 +52,6 @@ Operate machines, mix raw materials, vulcanize, and inspect products in a rubber
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Rubber factory workers face moderate automation risk: repetitive tasks like feeding, vulcanization monitoring, and inspection will be taken over by AI, but tasks relying on manual work and judgment, such as equipment maintenance, anomaly handling, and changeover debugging, are hard for AI to replace; the role is being compressed and enhanced simultaneously.
-
 Starting as an operator, can advance to production line supervisor, quality controller, or maintenance technician. If studying polymer materials or mechanical engineering, may transition to higher-skilled roles, but management paths are limited.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Starting as an operator, can advance to production line supervisor, quality cont
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: The job market is stable but has low growth potential; automation may reduce 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-factory-worker/NZ)**

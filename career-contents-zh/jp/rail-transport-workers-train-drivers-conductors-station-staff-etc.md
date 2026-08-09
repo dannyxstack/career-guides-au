@@ -1,10 +1,8 @@
-# Rail transport workers: train drivers, conductors, station staff, etc. 职业分析 · 日本
+# 铁路运输工人：火车司机、乘务员、车站工作人员等（Rail transport workers: train drivers, conductors, station staff, etc.）职业分析 · 日本
 
-**职业代码: 632 (JSCO)**
+**职业代码：632 (JSCO)**
 
-Occupations handling train operation, onboard services, and station duties, supporting safe passenger transport. They bear responsibility on the front line of schedule operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责列车操作、车上服务和车站职责，支持安全乘客运输的职业。在时刻表运行的前线承担责任。
 
 
 ---
@@ -13,8 +11,8 @@ Occupations handling train operation, onboard services, and station duties, supp
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Cost of public high school tuition） |
-| Vocational school (railway department) | 2 年 | $1,500,000~$3,000,000（Private vocational school tuition） |
+| 高中文凭 | 3年 | $0~$300,000（公立高中学费） |
+| 职业学校（铁路专业） | 2 年 | $1,500,000~$3,000,000（私立职业学校学费） |
 
 ---
 
@@ -22,17 +20,17 @@ Occupations handling train operation, onboard services, and station duties, supp
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Vehicle operator's license (Class A/B) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Mandatory for drivers. Some railway companies provide training. |
-| Railway vehicle electrical/engine qualifications | Each railway company | 可选 | In-house certification. For vehicle inspection, etc. |
+| 机动车驾驶证（A/B类） | 国土交通省 | 必备 | 司机必考。部分铁路公司提供培训。 |
+| 铁路车辆电气/发动机资格 | 各铁路公司 | 可选 | 内部认证。用于车辆检查等。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 160,000. Passenger decline is expected due to population decrease, but demand remains high in urban areas. Securing skilled workers for safe and punctual operation is a challenge. Even with automated driving, human labor will be needed for the time being.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 160,000。由于人口减少，乘客量预计下降，但城市地区需求仍然高企。确保安全准时运营的熟练工人是一大挑战。即使自动驾驶，短期内仍需要人力。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ Occupations handling train operation, onboard services, and station duties, supp
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$4,500,000 | Base salary and allowances included |
-| Mid-level (4-9 years) | $4,800,000~$6,200,000 | Standard for drivers and conductors |
-| Veteran (10+ years) | $6,500,000~$8,500,000 | Including instructor driver and management allowances |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 包含基本工资和津贴 |
+| 中级（4-9年） | $4,800,000~$6,200,000 | 司机和售票员标准 |
+| 资深（10年以上） | $6,500,000~$8,500,000 | 包括教练司机和管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are introducing autonomous driving and operation management systems, but many tasks requiring human judgment, such as safety checks and emergency response, remain, making complete replacement difficult. While conductor duties are increasingly automated, drivers will be needed for now.
+AI和自动化正在引入自动驾驶和运营管理系统，但许多需要人类判断的任务，如安全检查应急响应，仍然存在，使得完全取代变得困难。虽然列车员的职责日益自动化，但短期内仍需要司机。
 
-Advance from driver/conductor to instructor driver or management. Station staff can progress to station manager. Salary increases through in-house qualifications and promotion exams.
+从司机/乘务员晋升为教练司机或管理层。车站工作人员可晋升为车站经理。通过内部资格和晋升考试提高薪资。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Station attendant tasks via automatic ticket gates and vending machines
-- In-train announcements via automated broadcasts and displays
-- Partial driving operations via autonomous driving
+- 通过自动检票机和售票机执行车站服务员任务
+- 通过自动广播和显示屏进行车内广播
+- 通过自动驾驶实现部分驾驶操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based operation optimization support
-- Vehicle abnormality prediction system
-- Customer service chatbot
+- 基于AI的操作优化支持
+- 车辆异常预测系统
+- 客户服务聊天机器人
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency judgment and response
-- Passenger communication
-- Flexible driving during adverse weather, etc.
+- 紧急判断与应对
+- 乘客沟通
+- 恶劣天气等条件下的灵活驾驶
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation and monitoring of management systems
-- Data analysis for operational efficiency
-- Multilingual skills
+- 管理系统的运行与监控
+- 运营效率数据分析
+- 多语言技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Railway DX
-- Autonomous driving technology
-- Safe operation system
-- Handling inbound tourists
+- 铁路数字化
+- 自动驾驶技术
+- 安全运行系统
+- 接待入境游客
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to technical positions requiring specialized knowledge in railway engineering etc. Not permitted for drivers in principle. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Railways not eligible)) | Rail transport is excluded from Specified Skilled Worker status. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong sense of responsibility
-- People who can follow rules accurately
-- People who can tolerate irregular work schedules
+- 责任感强的人
+- 能准确遵守规则的人
+- 能适应不规律工作时间的人
 
 **谁不适合**
-- People who are not good at adapting to changing situations
-- People who lack physical confidence
+- 不擅长适应变化的人
+- 缺乏体能自信的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a train driver?**
-答：For major private railways, the starting salary is about ¥200,000–250,000 per month, with an annual income of approximately ¥3.5–4.5 million (including allowances).
+**问：火车司机的起薪是多少？**
+答：主要私营铁路公司起薪约每月20万-25万日元，年收入约350万-450万日元（含津贴）。
 
-**问：How can a foreigner work as a train driver in Japan?**
-答：In principle, native-level Japanese ability is required, and it takes time to obtain a driver's license, so hiring under the Highly Skilled Professional visa (Engineer/Specialist in Humanities/International Services) is rare. A realistic path is to obtain a master's degree in railway engineering in Japan and join as an engineer, but you cannot become a driver.
+**问：外国人如何在日本担任火车司机？**
+答：原则上需要母语级别的日语能力，且取得驾照需要时间，因此以高度专业职签证（工程师/人文知识/国际业务）招聘的情况很少。现实途径是在日本获得铁路工程硕士学位后作为工程师入职，但不能成为司机。
 
-**问：What skills are required for a train driver?**
-答：Attention to safety, accuracy in following rules, judgment in emergencies, and customer service skills. Physical stamina for shift work is also necessary.
+**问：火车司机需要哪些技能？**
+答：注重安全，精确遵守规定，紧急情况下的判断力以及客户服务技能。还需具备轮班工作的体能耐力。
 
 
 ---
@@ -143,12 +134,12 @@ Advance from driver/conductor to instructor driver or management. Station staff 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rail-transport-workers-train-drivers-conductors-station-staff-etc/JP)**

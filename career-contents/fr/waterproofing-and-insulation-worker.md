@@ -52,8 +52,6 @@ We engage in building waterproofing and thermal insulation treatment, including 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Waterproofing and insulation positions are affected by AI: outdoor, unstructured environments, and physical operations limit the depth of automation, but tasks like material estimation and quality inspection will be enhanced or replaced by AI.
-
 You can be promoted to team leader (chef d'équipe) or become a technical consultant at an architectural firm. Experienced individuals can start their own enterprises (artisan) and undertake small-scale projects. You can also develop into a Green Building (HQE) specialist.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted to team leader (chef d'équipe) or become a technical consul
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence sponsored by French employers must match professional qualifications |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled talent or innovative projects, it can simplify administrative procedures |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for a 12-month job search visa, which is suitable for foreign students graduating from France |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: A mandatory CAP professional certificate is required; for working at altitude
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waterproofing-and-insulation-worker/FR)**

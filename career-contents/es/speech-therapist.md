@@ -4,8 +4,6 @@
 
 Speech therapists assess, diagnose, and treat speech, language, communication, and swallowing disorders, serving people of all ages, including developmental delays in children and post-stroke rehabilitation in adults.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Speech therapists assess, diagnose, and treat speech, language, communication, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
-
 Junior speech therapists can work in clinical positions in general hospitals, rehabilitation centers, or schools; After gaining experience, you can specialize in a specific field (such as neurorehabilitation, children's language), or be promoted to department supervisor or open a private clinic; It can also be turned into academic research or teaching.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior speech therapists can work in clinical positions in general hospitals, re
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals requiring a university degree and work contract, with salary typically above €34,000 per year (2023 threshold). |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship required, labor market testing, and applicable to foreigners with Spanish work contracts. |
-| Subclass Homologación (Qualification Recognition) | Third-country diplomas must be certified by the Spanish Ministry of Education (homologación) before practicing. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You must hold a Spanish recognized bachelor's degree in speech therapy (Grado
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-therapist/ES)**

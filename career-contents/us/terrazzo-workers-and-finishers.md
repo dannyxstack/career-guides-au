@@ -54,8 +54,6 @@ Terrazzo workers mix cement, sand, pigment, or marble chips and apply to floors,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Terrazzo Workers and Finishers face medium automation risk; AI/robots will gradually replace repetitive tasks like material mixing and surface polishing, but on-site installation, complex pattern customization, and client communication still rely on human skills.
-
 Usually starts as an apprentice, gradually becoming a skilled worker. With experience, can advance to foreman, contractor, or transition to related fields such as tiling or stone installation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually starts as an apprentice, gradually becoming a skilled worker. With exper
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically requires a high school diploma, followed by 3-4 years of apprentice
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/terrazzo-workers-and-finishers/US)**

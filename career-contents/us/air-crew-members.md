@@ -53,8 +53,6 @@ Execute in-flight missions to ensure successful completion of combat, reconnaiss
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircrew tasks are highly mixed: automation can handle data monitoring and some equipment checks, but AI is only auxiliary in dynamic flight decisions and emergency response. Human judgment and operation remain core; overall, mixed prospects.
-
 Typically start as entry-level aircrew, gain experience, and advance to crew leader or instructor. Some transition to aviation management or become pilots. Military background helps in transitioning to civilian aviation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as entry-level aircrew, gain experience, and advance to crew lea
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance through military rank promotion, or become a flight instructor or
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-crew-members/US)**

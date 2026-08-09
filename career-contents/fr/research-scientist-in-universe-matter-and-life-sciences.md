@@ -53,8 +53,6 @@ Conduct basic and applied research at French public research institutions (such 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly amplify researchers' capabilities, automate data collection, analysis, and literature review, but creative hypothesis formulation, experimental design, and interdisciplinary intuition remain core barriers, and overall job prospects are bright.
-
 Typical pathways: PhD (3-5 years) → Postdoctoral Fellow (2-5 years) → Researcher (CR) or Lecturer (MCF) → Research Director (DR) or Professor (PR). It can shift to R&D management, patents, and science communication.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Typical pathways: PhD (3-5 years) → Postdoctoral Fellow (2-5 years) → Resear
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent - C (Talent Passport - Researcher) | For researchers invited by French research institutions; valid for 4 years, includes family members, simplified renewal |
-| Subclass Salarié (Employee Visas) | Must obtain a French employer work contract, pass job placement and labor office review, and be suitable for university or corporate research positions |
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for highly educated research talents, with an annual salary above approximately €53,800 (2024 standard), eligible to apply for permanent residency |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typical path: PhD → postdoctoral → become CNRS Researcher (CR) or Univers
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-scientist-in-universe-matter-and-life-sciences/FR)**

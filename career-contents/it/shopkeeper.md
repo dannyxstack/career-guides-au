@@ -4,8 +4,6 @@
 
 A shopkeeper is the operator of a retail store, responsible for daily management, inventory control, and customer service, common in small independent stores.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A shopkeeper is the operator of a retail store, responsible for daily management
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The shopkeeper role has mixed prospects: automated checkout and inventory management replace basic tasks, but AI amplifies human effort in customer analysis and marketing; core functions relying on physical stores and interpersonal trust are hard to replace in the short term.
-
 Career progression can expand from individual shop owner to chain store manager or opening multiple branches, with some owners shifting to online sales or transitioning to wholesalers.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Career progression can expand from individual shop owner to chain store manager 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Applicable to non-EU employees, requiring employer sponsorship and a work permit, with a limited annual quota. |
-| Subclass EU Blue Card (EU Blue Card Italy) | Applicable to high-skilled workers, but the shopkeeper occupation usually does not meet requirements unless managing a large retail enterprise. |
-| Subclass Self-employed Work Visa (Lavoro Autonomo Visa) | Suitable for non-EU citizens planning to open a self-employed business, subject to investment amount and business plan review. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Requires basic accounting, inventory management, customer service, marketing,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shopkeeper/IT)**

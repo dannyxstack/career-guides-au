@@ -4,8 +4,6 @@
 
 Responsible for repairing, servicing, and calibrating clocks and precision measuring instruments (such as barometers and laboratory instruments), usually operating independently in small studios or specialized repair centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for repairing, servicing, and calibrating clocks and precision measu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can automate data recording and preliminary diagnosis, but precise manual repair and creative calibration still require human experience; Entry-level positions have narrowed, but the value of senior technicians has increased.
-
 The apprenticeship period is relatively long (usually 4-6 years), and after gaining experience, you can open your own shop or be promoted to technical supervisor. Some technicians switch careers to jewelry repair or precision manufacturing, while a few obtain official certification and enter museums or auction houses to work in high-value antique watch restoration.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ The apprenticeship period is relatively long (usually 4-6 years), and after gain
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed professionals) | A Spanish employer sponsorship is required, the contract term is usually at least 1 year, and the salary must meet industry standards. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | It is suitable for highly skilled professionals, but this occupation usually does not meet the high salary threshold (annual salary ≥ 34,000 euros). |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Common pathways include completing 2 years of FP Grado Medio en Relojería (i
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clock-and-watch-repairers-and-precision-instrument-makers/ES)**

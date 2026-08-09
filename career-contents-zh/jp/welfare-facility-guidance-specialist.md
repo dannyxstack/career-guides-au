@@ -1,10 +1,8 @@
-# Welfare Facility Guidance Specialist 职业分析 · 日本
+# 福利设施指导专家（Welfare Facility Guidance Specialist）职业分析 · 日本
 
-**职业代码: 162 (JSCO)**
+**职业代码：162 (JSCO)**
 
-A professional in social welfare facilities who develops care plans for users, instructs staff, and manages operations. Responsible for improving service quality and human resource development.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+社会福利设施中的专业人士，为用户制定护理计划，指导员工并管理运营。负责提高服务质量和人力资源开发。
 
 
 ---
@@ -13,9 +11,9 @@ A professional in social welfare facilities who develops care plans for users, i
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Social Worker Training Program) | 4年 | $2,400,000~$4,000,000（Varies between national/public/private universities） |
-| Vocational School (Care Worker Training Program) | 2 年 | $1,500,000~$2,500,000（Correspondence courses available） |
-| Practical Experience Route (Eligibility for National Social Worker Exam) | 5年 | $100,000~$300,000（Exam preparation costs after practical experience） |
+| 大学（社会工作者培训项目） | 4年 | $2,400,000~$4,000,000（因国立/公立/私立大学而异） |
+| 职业学校（护理员培训项目） | 2 年 | $1,500,000~$2,500,000（提供函授课程） |
+| 实践经验路径（国家社会工作者考试资格） | 5年 | $100,000~$300,000（实践经验后的考试准备费用） |
 
 ---
 
@@ -23,19 +21,19 @@ A professional in social welfare facilities who develops care plans for users, i
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Social Worker | Ministry of Health, Labour and Welfare | 可选 | Not required but advantageous |
-| Certified Care Worker | Ministry of Health, Labour and Welfare | 可选 | Requires practical experience |
-| Social Welfare Officer Appointment Qualification | Ministry of Health, Labour and Welfare | 可选 | Available with junior college degree, etc. |
-| Long-Term Care Support Specialist (Care Manager) | Prefectural Government | 可选 | Requires 5+ years of practical experience |
+| 持证社会工作者 | 厚生劳动省 | 可选 | 非必需但有利 |
+| 认证护理员 | 厚生劳动省 | 可选 | 需要实践经验 |
+| 社会福利师任命资格 | 厚生劳动省 | 可选 | 大专学历可用等 |
+| 长期护理支援专员（护理经理） | 县政府 | 可选 | 需要5年以上实际工作经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand for welfare facilities continues to rise due to aging population. However, from 2025 onward, the shortage of care workers will intensify, making the specialist role even more critical. Working conditions are also improving.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。由于人口老龄化，福利设施需求持续上升。但自2025年起，护理人员短缺加剧，专家角色变得更加关键。工作条件也在改善。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -43,92 +41,84 @@ A professional in social welfare facilities who develops care plans for users, i
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,800,000~$3,600,000 | Includes Benefits |
-| Mid-Level (4-9 years) | $3,600,000~$4,800,000 | Chief Class |
-| 资深（10年以上） | $4,800,000~$6,500,000 | Managerial/Director Level |
+| 入门级（0-3年） | $2,800,000~$3,600,000 | 含福利 |
+| 中级（4-9年） | $3,600,000~$4,800,000 | 首席班 |
+| 资深（10年以上） | $4,800,000~$6,500,000 | 管理/总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and RPA support data analysis and record-keeping for care plan creation, but human interaction and team guidance remain central. AI improves efficiency, making the specialist's role even more important.
+AI和RPA支持数据分析与记录，用于护理计划制定，但人际互动和团队指导仍是核心。AI提高效率，使专家角色更加重要。
 
-Career starts as a care worker or life counselor. After gaining practical experience, advance to chief or manager, then to welfare facility guidance specialist. Further goals include facility director or community-based integrated care leader.
+职业生涯从护理员或生活咨询师开始。积累实践经验后晋升为主任或经理，再成为福利设施指导专家。进一步目标包括设施主任或社区综合护理负责人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Creating record documents
-- Scheduling adjustments
-- Drafting simple care plans
+- 创建记录文档
+- 日程调整
+- 起草简单的护理计划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- User assessment
-- Team management
-- Individual care plan adjustments
+- 用户评估
+- 团队管理
+- 个性化护理计划调整
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Interpersonal negotiation skills
-- Ethical judgment
+- 同理心
+- 人际谈判技巧
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- ICT Utilization
-- Management Skills
+- 数据分析
+- ICT利用
+- 管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Shortage of care workers
-- Community-based integrated care
-- Quality improvement of services
+- 人口老龄化
+- 护理人员短缺
+- 社区综合照护
+- 服务质量改进
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to foreigners with Certified Social Worker qualification and relevant work experience; however, work experience requirements are strict. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Long-Term Care)) | Long-term care field. However, the position of instruction specialist is close to being excluded from Specified Skilled Worker. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Applicable if educational background, work experience, and annual income requirements are met. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in working with the elderly or disabled
-- People with leadership skills to manage a team
-- People with a strong interest in improving welfare services
+- 在与老年人或残疾人工作中找到成就感的人
+- 具备领导能力、可管理团队的人
+- 对改善福利服务有强烈兴趣的人
 
 **谁不适合**
-- People who prefer routine work
+- 偏好例行工作的人
 - 抗压能力弱的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a welfare facility guidance specialist?**
-答：The average annual income is about 4.2 million yen, but ranges from 2.8 million to 6.5 million yen depending on experience and position.
+**问：福利设施指导专家的平均年收入是多少？**
+答：平均年收入约420万日元，但根据经验和职位，范围在280万至650万日元之间。
 
-**问：What visa is needed for foreigners to work as welfare facility guidance specialists in Japan?**
-答：Generally, an 'Engineer/Specialist in Humanities/International Services' visa is required. However, a national social worker certification and practical experience are needed, making the bar high.
+**问：外国人在日本从事福利设施指导专家工作需要什么签证？**
+答：通常需要“人文/国际服务领域的工程师/专家”签证。但需国家级社工证和实践经验，门槛高。
 
-**问：Can I become one without experience?**
+**问：没有经验可以成为吗？**
 答：A social worker certification and practical experience are required. It's common to first gain experience as a care worker or life counselor.
 
 
@@ -147,12 +137,12 @@ Career starts as a care worker or life counselor. After gaining practical experi
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/welfare-facility-guidance-specialist/JP)**

@@ -4,8 +4,6 @@
 
 Responsible for the construction, renovation, and repair of building exterior walls, involving materials such as masonry, concrete, and plastering, making it a key technical position in the French construction industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for the construction, renovation, and repair of building exterior wa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on building facade construction and restoration specialists is mainly compressive: BIM/CAD automatically generates construction plans and material lists, drone inspections replace manual inspections, 3D scanning and printing reduce traditional manual repairs, but complex on-site operations and responsibility remain difficult to replace.
-
 You can start as an apprentice or a beginner construction worker and gradually advance to team leader or project supervisor. After accumulating experience, companies can operate their own companies or focus on high value-added fields such as ancient building restoration.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can start as an apprentice or a beginner construction worker and gradually a
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employed Work Residence) (Salarié Work Permit) | A French employer contract must be obtained, passing the labor market test (Opposabilité), applicable to long-term employees. |
-| Subclass Talent Passport (Passeport Talent) | For highly skilled talent, if the salary reaches a certain threshold (about twice the SMIC), approval can be quickly obtained without labor market testing. |
-| Subclass Carte bleue européen (EU Blue Card) | Applicable to high-skilled positions with an annual salary of ≥ 53,000 euros (2024), but salaries in this occupation usually fall below the standard. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: They need to master skills such as masonry, plastering, coating, and waterpro
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/facade-technician-and-restorer/FR)**

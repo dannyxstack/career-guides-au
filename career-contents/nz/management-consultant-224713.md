@@ -52,8 +52,6 @@ Management consultants provide strategic, operational, financial, and HR advice 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Junior consultants can advance to senior consultant, project manager, or partner. They may also transition to in-house strategy departments or start their own business. Typically 5-10 years of experience is needed to reach management level.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior consultants can advance to senior consultant, project manager, or partner
 | Subclass SMC (Skilled Migrant Category) | Six-point skilled migration, can gain points through qualifications + work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, eligible for residency after working for the employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's or master's degree in business, management, e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultant-224713/NZ)**

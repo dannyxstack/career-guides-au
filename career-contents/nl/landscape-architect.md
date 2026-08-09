@@ -51,8 +51,6 @@ Landscape architects design, plan, and oversee outdoor spaces, including parks, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will significantly improve efficiency, but core design decisions and creativity still require human leadership, making it a mixed blessing.
-
 Career progression can range from junior design assistant to project manager, lead designer, or partner. Specialization in areas such as ecological restoration, urban design, or landscape planning is also possible. Some senior practitioners move into academic or research roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career progression can range from junior design assistant to project manager, le
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled workers, an employment contract is required and the salary must meet the threshold (2023: €5,008/month for those over 30). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled professionals, requires at least a one-year contract and a salary of €5,008/month (2023) |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Non-EU graduates from universities ranked in the top 200 in the Netherlands or worldwide can seek employment within one year without a salary threshold. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance to project manager, chief designer, partner, or specialize in eco
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-architect/NL)**

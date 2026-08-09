@@ -52,8 +52,6 @@ Dry cleaners operate dry cleaning and washing machines in dry cleaning shops or 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The repetitive cleaning and ironing processes of dry cleaners will gradually be replaced by automated equipment, reducing entry-level jobs, but complex stain removal and fine ironing still require human judgment.
-
 Common path: from cleaner/ironer to dry-cleaning technician, then to store manager; some gain experience and start their own dry-cleaning business. May also move into laundry factory management, textile care technical consultant, etc.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Common path: from cleaner/ironer to dry-cleaning technician, then to store manag
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: There are more job opportunities in dry cleaners and hotels in major cities l
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drycleaner/NZ)**

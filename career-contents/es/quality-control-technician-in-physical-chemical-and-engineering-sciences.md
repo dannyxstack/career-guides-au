@@ -53,8 +53,6 @@ Responsible for quality inspection, testing, and certification of products and p
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Physical chemistry and engineering science quality control technicians are affected by AI: routine inspection tasks are being compressed automatically, but data analysis and complex decision-making capabilities are amplified by AI, raising concerns about intensifying competition for entry-level positions.
-
 Junior inspectors can be promoted to senior technicians, laboratory supervisors, or quality managers. Further studies in engineering or chemistry can lead to research and development or certification consulting.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior inspectors can be promoted to senior technicians, laboratory supervisors,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to university degree + high salary (minimum annual salary in 2024 about €33,908), employed by Spanish companies. |
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | For high-tech talents, employer application is required, approval is expedited, and family members may be brought along. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Standard employed work residence requires the employer to provide a work contract and prove that suitable employees cannot be found in the EU. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically, advanced vocational training (FP Grado Superior) or a bachelor's d
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-control-technician-in-physical-chemical-and-engineering-sciences/ES)**

@@ -52,8 +52,6 @@ Pharmacists dispense prescription medications, provide medication consultation, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 Junior pharmacists can advance to pharmacy manager or specialist pharmacist (e.g., oncology, geriatric pharmacy). Experienced pharmacists can move into pharmaceutical R&D, drug safety, or regulatory affairs.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior pharmacists can advance to pharmacy manager or specialist pharmacist (e.g
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For high-skilled migrants, employer sponsorship requires meeting the salary threshold (approximately €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and meeting salary threshold (approximately €5,900/month in 2024). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates in the Netherlands or holders of a master's/PhD from a world top university can apply for one year of job-seeking time. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must undergo a Nuffic assessment of qualifications, then apply for registrati
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/NL)**

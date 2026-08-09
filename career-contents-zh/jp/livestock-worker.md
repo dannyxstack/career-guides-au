@@ -1,8 +1,8 @@
-# Livestock Worker 职业分析 · 日本
+# 畜牧业工人（Livestock Worker）职业分析 · 日本
 
-**职业代码: 462 (JSCO)**
+**职业代码：462 (JSCO)**
 
-A profession responsible for raising cattle, pigs, and chickens, including feeding, cleaning, health management, and breeding, ensuring a stable supply of livestock products.
+负责饲养牛、猪和鸡的职业，包括喂食、清洁、健康管理和繁殖，确保畜产品的稳定供应。
 
 
 ---
@@ -11,8 +11,8 @@ A profession responsible for raising cattle, pigs, and chickens, including feedi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Agricultural High School (Livestock Department) | 3年 | $300,000~$500,000（Varies by public/private school） |
-| Agricultural College (Livestock Course) | 2 年 | $1,000,000~$2,000,000（Prefectural, etc.） |
+| 农业高中（畜牧专业） | 3年 | $300,000~$500,000（因公立/私立学校而异） |
+| 农业学院（畜牧课程） | 2 年 | $1,000,000~$2,000,000（县级等。） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession responsible for raising cattle, pigs, and chickens, including feedi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Livestock Artificial Insemination Technician | Prefectural Government | 必备 | Required for breeding work |
-| Pet Caretaker Specialist | Japan Pet Industry Association | 可选 | Also applicable to livestock farming |
-| Feed Manufacturing Manager | Ministry of Agriculture, Forestry and Fisheries | 可选 | Required for feed manufacturing facilities |
+| 家畜人工授精技术员 | 县政府 | 必备 | 育种工作需要 |
+| 宠物照护专家 | 日本宠物产业协会 | 可选 | 也适用于畜牧业 |
+| 饲料生产经理 | 农林水产省 | 可选 | 饲料生产设施所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Japan's livestock industry faces serious aging and lack of successors, especially in dairy and pig farming. It is a target field for Specified Skilled Worker status, and acceptance of foreign workers is expected to continue.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。日本畜牧业面临严重老龄化和后继无人问题，尤其是奶牛和养猪业。是特定技能签证的目标领域，预计将继续接收外国工人。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,96 +39,89 @@ A profession responsible for raising cattle, pigs, and chickens, including feedi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,500,000 | Excluding bonuses and allowances |
-| Mid-level (4-10 years) | $3,500,000~$4,500,000 | Varies by farm scale |
-| 资深（10年以上） | $4,500,000~$6,000,000 | Farm manager class |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 不含奖金和津贴 |
+| 中级（4-10年） | $3,500,000~$4,500,000 | 因农场规模而异 |
+| 资深（10年以上） | $4,500,000~$6,000,000 | 农场经理类别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are advancing in some livestock tasks like milking robots and feeding systems, but many tasks require human experience such as animal health monitoring and breeding decisions, making full replacement difficult. Technology is being introduced to supplement labor shortages.
+AI和自动化在部分畜牧任务中有所推进，如挤奶机器人和喂料系统，但动物健康监测和繁殖决策等许多任务需要人类经验，完全替代困难。技术正被引入以补充劳动力短缺。
 
-Typical career path: after gaining field experience as a worker, can advance to livestock management leader or farm manager. Independent farming is possible but requires large initial investment.
+典型职业路径：作为工人获得现场经验后，可晋升为畜牧业管理负责人或农场经理。独立经营农场可能但需要大量初始投资。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Fixed-time feeding
-- Milking (partially automated)
-- Manure treatment (automated)
-- Feed formulation (AI optimization)
+- 定时喂养
+- 挤奶（半自动化）
+- 粪肥处理（自动化）
+- 饲料配方（AI优化）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Health monitoring (sensor-assisted)
-- Breeding management (data analysis)
-- Individual identification (IC tags)
-- Environmental control (auto-adjustment)
+- 健康监测（传感器辅助）
+- 育种管理（数据分析）
+- 个体识别（IC标签）
+- 环境控制（自动调节）
 
-**人类护城河:**
+**人类护城河：**
 
-- Detecting abnormal animal behavior
-- Experienced judgment in calving assistance
-- Building trust with livestock
-- Early disease detection (heuristics)
+- 检测动物异常行为
+- 在助产方面有经验判断
+- 与牲畜建立信任
+- 早期疾病检测（启发式）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Machine operation skills
-- Basic IT skills
-- Knowledge of Livestock Animal Behavior
+- 数据素养
+- 机器操作技能
+- 基本IT技能
+- 畜牧动物行为知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- IoT in livestock machinery
-- Smart livestock farming
-- Livestock cluster
-- Foreign technical intern training
+- 畜牧机械中的物联网
+- 智慧畜牧业
+- 牲畜群
+- 外国技术实习生培训
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Agriculture)) | Requires certain skills and Japanese ability. Max 5-year stay. No family accompaniment. |
-| Subclass 技能実習 (Technical Intern Training (Livestock Farming)) | 3-year training program. No job change allowed. Prior experience in home country needed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Agriculture & Livestock)) | Requires university degree or higher and specialized knowledge. For livestock technicians. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love animals
-- People confident in physical strength
-- People good at waking up early
+- 热爱动物的人
+- 体力充沛的人
+- 擅长早起的人
 
 **谁不适合**
-- People who cannot bear animal death
-- People who dislike manual labor
+- 无法忍受动物死亡的人
+- 不喜欢体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of livestock workers?**
-答：Entry-level approx. ¥2.8-3.5 million, intermediate ¥3.5-4.5 million, advanced ¥4.5-6 million. Varies by farm size and livestock type.
+**问：畜牧业工人的年收入是多少？**
+答：入门级约2.8-3.5百万日元，中级3.5-4.5百万日元，高级4.5-6百万日元。因农场规模和牲畜类型而异。
 
-**问：How can foreigners work as livestock workers in Japan?**
-答：The main routes are Specified Skilled Worker (i) (Agriculture) or Technical Intern Training (Livestock). JLPT N4 or higher may be required.
+**问：外国人如何在日本从事畜牧工作？**
+答：主要途径是特定技能工人 (i)（农业）或技能实习（畜牧业）。可能需要 JLPT N4 或以上。
 
-**问：How to become a livestock worker with no experience?**
-答：It is common to study at an agricultural high school or college, or use a training system at the employer. No qualifications needed to start, but certifications like Livestock Artificial Inseminator are advantageous.
+**问：如何成为零经验的畜牧工人？**
+答：通常就读农业高中或大学，或利用雇主的培训系统。入门无需资格，但持有家畜人工授精员等证书更有优势。
 
 
 ---
@@ -146,12 +139,12 @@ Typical career path: after gaining field experience as a worker, can advance to 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/livestock-worker/JP)**

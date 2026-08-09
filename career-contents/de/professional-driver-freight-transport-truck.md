@@ -54,8 +54,6 @@ Vocational drivers primarily operate trucks for freight transport, including lon
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Professional drivers can advance from ordinary driver to fleet supervisor, dispatcher, or logistics manager. Through continuing education and obtaining special cargo transport qualifications (e.g., dangerous goods), they can increase salary and position.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Professional drivers can advance from ordinary driver to fleet supervisor, dispa
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated talent, but truck drivers usually do not meet education requirements, rarely applicable. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows residence in Germany for 6 months to seek employment; requires proof of financial means and academic or vocational qualifications. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Requires theoretical and practical exams; some countries offer exemptions. Co
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-driver-freight-transport-truck/DE)**

@@ -4,8 +4,6 @@
 
 Municipal ombudsmen patrol within municipal areas to ensure public order and safety, monitor violations (such as littering and noise disturbances), and report to law enforcement. This position belongs to local government employees and usually requires French citizenship or long-term residence.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Municipal ombudsmen patrol within municipal areas to ensure public order and saf
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-Patrols and evidence collection for municipal inspectors are easily automated by AI, but law enforcement discretion, conflict mediation, and complex environment assessment still rely on humans, resulting in mixed outcomes for the position.
 
 Usually starting from patrol positions, you can be promoted to team leader or coordinator. Some inspectors enter the national police or gendarmerie through internal exams. In the long term, they can transition to positions in municipal safety management or policy formulation.
 
@@ -100,15 +96,9 @@ Usually starting from patrol positions, you can be promoted to team leader or co
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | This applies to foreigners seeking work in France, but the position usually prefers EU citizens; non-EU applicants must prove that there are no suitable EU candidates. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Yes, you can be promoted to team leader or coordinator. Some people transfer 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/municipal-surveillance-officer/FR)**

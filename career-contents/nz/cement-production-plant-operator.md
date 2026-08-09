@@ -54,8 +54,6 @@ Operate crushing, grinding, calcining and other equipment in a cement plant, mon
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Cement plant operators face dual effects of AI automation: routine monitoring and recording tasks will be taken over by AI, but complex equipment maintenance and emergency response still rely on human judgment.
-
 Operators can be promoted to team leader or production supervisor, or move into quality control or equipment maintenance roles. This requires accumulating experience and obtaining relevant certificates; senior staff can enter management or technical training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Operators can be promoted to team leader or production supervisor, or move into 
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point criteria (qualifications + work experience), requires an employer offer |
 | Subclass Work to Residence (Work to Residence (Talent)) | Hold AEWV for 2 years, salary at median wage, eligible to apply |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually does not require a university degree; employers provide on-the-job tr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cement-production-plant-operator/NZ)**

@@ -52,8 +52,6 @@ Engage in technical work in energy and power plants, including operation, monito
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
-
 Can advance from operator to senior technician, team leader, or plant supervisor. Through further education, can transition to energy management or renewable energy fields, such as wind or solar farm operations.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from operator to senior technician, team leader, or plant supervisor
 | Subclass Skilled Worker (Skilled Worker Visa) | Under Germany's Skilled Immigration Act, vocational training qualifications can be applied for after certification |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, you can first go to Germany to look for a job |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to senior technician, team leader, plant supervisor, or transitio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/energy-and-power-plant-technician/DE)**

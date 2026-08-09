@@ -55,8 +55,6 @@ Set up, operate, or tend machines that saw, shear, punch, bend, or straighten me
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation faces a high risk of automation: CNC machines and AI vision inspection will replace many repetitive tasks, reducing entry-level positions, but equipment maintenance and anomaly handling will still retain human roles.
-
 Can advance from operator to senior operator, team leader, or CNC programmer; some experienced workers transition to mold maker or maintenance technician.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from operator to senior operator, team leader, or CNC programmer; so
 | Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable as education requirements typically do not meet specialty occupation definitions |
 | Subclass EB-3 (Employment-Based Green Card (EB-3 Skilled Workers)) | Theoretically possible, but employer sponsorship is difficult because this role usually does not require a university degree |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Starting as an operator, can advance to senior operator, team leader, or tran
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cutting-punching-and-press-machine-setters-operators-and-tenders-metal-and-plastic/US)**

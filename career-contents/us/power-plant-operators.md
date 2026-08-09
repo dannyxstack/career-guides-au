@@ -53,8 +53,6 @@ Control, operate, or maintain power generation equipment to ensure stable electr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
-
 Typically start as apprentice or assistant, advance to senior operator, shift supervisor, or power plant manager. Certifications can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as apprentice or assistant, advance to senior operator, shift su
 | Subclass H-1B (H-1B Specialty Occupations) | Generally not applicable as the occupation does not require a bachelor's degree or higher. |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to skilled workers, but requires a PERM labor certification, and employer sponsorship is difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Very difficult. This occupation typically does not meet H-1B specialty occupa
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-plant-operators/US)**

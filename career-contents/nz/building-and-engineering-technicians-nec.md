@@ -52,8 +52,6 @@ Technical support roles in New Zealand construction and engineering, responsible
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Routine drafting, materials testing, and documentation management for architectural and engineering technicians will be highly automated, but tasks requiring physical presence and decision-making, such as on-site supervision, construction coordination, and approval sign-offs, remain resilient. The role structure presents a mixed outlook of 'task diversion and role upgrade.'
-
 Advance from junior technician to senior technician or project manager by gaining experience and obtaining registration. Can transition into construction management, engineering supervision, or consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Advance from junior technician to senior technician or project manager by gainin
 | Subclass SMC (Skilled Migrant Category) | Eligible under the 6-point system: qualification + work experience + job offer |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, requires matching occupation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a New Zealand engineering diploma (2 years) or a bachelor'
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-and-engineering-technicians-nec/NZ)**

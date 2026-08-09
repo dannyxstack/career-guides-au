@@ -50,8 +50,6 @@ Operate and maintain machinery on food production lines, including mixing, formi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Food ingredient technicians primarily handle standardized ingredient weighing, mixing, and simple equipment operation, which are highly repetitive and rule-based, easily replaced by automation. AI and robots will significantly reduce positions, drastically cutting entry-level job opportunities.
-
 You can be promoted from junior operator to production line leader or technical supervisor, or transition to food process technician or quality control positions through continuing education. Some companies offer internal promotion paths.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted from junior operator to production line leader or technical 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Must have a French employer sponsor, meet work permit requirements, and be eligible for long-term contract CDI. |
-| Subclass Passeport Talent (Passeport Talent) | Suitable for highly skilled talents or in shortage occupations, with simplified procedures for employers, valid for 4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary 1.5 times French average wage (approx €53k); technical operators usually not eligible, but senior managers may be. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Yes, can advance to production line management or quality control, but promot
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-production-equipment-operator/FR)**

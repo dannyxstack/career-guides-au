@@ -1,10 +1,8 @@
 # 宠物美容师（Pet Groomer）职业分析 · 韩国
 
-**职业代码: 51151 (KECO)**
+**职业代码：51151 (KECO)**
 
-A professional responsible for hygiene and grooming of pets, including fur care, bathing, nail care, and providing customized styling through communication with pet owners.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责宠物卫生和美容的专业人员，包括毛发护理、洗澡、指甲护理，并通过与宠物主人沟通提供定制造型。
 
 
 ---
@@ -13,7 +11,7 @@ A professional responsible for hygiene and grooming of pets, including fur care,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| National certification training | 6个月-1年 | $3,000,000~$8,000,000（Including academy registration and practice fees） |
+| 国家认证培训 | 6个月-1年 | $3,000,000~$8,000,000（包括学院注册和练习费用） |
 
 ---
 
@@ -21,16 +19,16 @@ A professional responsible for hygiene and grooming of pets, including fur care,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Pet Grooming Certificate | Korea Pet Grooming Association | 可选 | Not mandatory but advantageous for employment |
+| 国家宠物美容证书 | 韩国宠物美容协会 | 可选 | 非强制但有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. Demand is steadily increasing due to the growing pet ownership population and the spread of pet-family trends, with employment expected to rise over the next five years.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。由于宠物饲养人口增长和宠物家庭化趋势的普及，需求稳步增长，预计未来五年就业将增加。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -38,63 +36,57 @@ A professional responsible for hygiene and grooming of pets, including fur care,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $25,000,000~$32,000,000 | Approximately 2.1-2.7 million KRW/month |
-| 中级(3-7年) | $32,000,000~$42,000,000 | 2.7-3.5 million KRW/month |
-| 高级（7年以上） | $42,000,000~$55,000,000 | Varies for store manager or franchise owner |
+| 初级 (0-3年) | $25,000,000~$32,000,000 | 约210-270万韩元/月 |
+| 中级(3-7年) | $32,000,000~$42,000,000 | 270-350万韩元/月 |
+| 高级（7年以上） | $42,000,000~$55,000,000 | 因店铺经理或加盟店主而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is unlikely to replace grooming tasks themselves, but it may be used for appointment management and customer data analysis, potentially reducing some tasks.
+AI不太可能替代美容护理本身，但可能用于预约管理和客户数据分析，从而减少部分工作。
 
-Starting as a junior groomer, one can advance to store manager, franchise owner, or total pet care specialist after gaining experience.
+从初级美容师开始，积累经验后可晋升为店长、加盟商或宠物综合护理专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Appointment reception and management
-- Basic customer consultation data organization
+- 预约接待与管理
+- 基础客户咨询数据整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Custom styling suggestions
-- Service recommendations through customer history analysis
+- 定制造型建议
+- 基于客户历史分析的服务推荐
 
-**人类护城河:**
+**人类护城河：**
 
-- Aesthetic sense and creativity
-- Animal Interaction and Stabilization Skills
-- Real-time Feedback-based Communication
+- 审美意识与创造力
+- 动物互动与镇定技能
+- 基于实时反馈的沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced Grooming Techniques
-- Understanding Animal Behavior
-- Small Business Management Mindset
+- 高级美容技术
+- 了解动物行为
+- 小企业管理思维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in pet ownership population
-- Spread of the 'pet family' trend
-- Demand for premium grooming services
-- Growth of the pet-related industry
+- 宠物主人数量增加
+- “宠物家庭”趋势的普及
+- 高端美容服务需求
+- 宠物相关产业的增长
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if an experienced pet groomer is hired by a specific company, but very limited |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -102,22 +94,22 @@ Starting as a junior groomer, one can advance to store manager, franchise owner,
 
 **谁适合**
 - 喜爱动物且有耐心的人
-- People with good manual dexterity and attention to detail
-- People skilled in customer service
+- 手巧且注重细节的人
+- 擅长客户服务的人
 
 **谁不适合**
-- People with animal allergies
-- People who dislike fast, repetitive tasks
+- 对动物过敏者
+- 不喜欢快速重复任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a pet groomer?**
-答：For entry-level, the annual salary is about 25 million to 32 million KRW.
+**问：宠物美容师的起薪是多少？**
+答：入门级年薪约2500万至3200万韩元。
 
-**问：Can foreigners work as pet groomers?**
-答：It is possible with an E-7 visa, but requires employer recommendation and proof of experience, and is very limited.
+**问：外国人可以当宠物美容师吗？**
+答：持E-7签证可行，但需雇主推荐和经验证明，且非常有限。
 
 
 ---
@@ -135,12 +127,12 @@ Starting as a junior groomer, one can advance to store manager, franchise owner,
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pet-groomer/KR)**

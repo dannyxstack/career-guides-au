@@ -54,8 +54,6 @@ Glass apparatus maker designs, creates, and repairs laboratory, chemical, and in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass apparatus makers face mixed AI impact: automated CNC glass processing equipment can take over standardized cutting and grinding tasks, but high-precision glass blowing, custom design and repair still rely on manual skills; AI-assisted design tools can improve efficiency, but core craftsmanship is hard to fully replace.
-
 Career development paths include from junior technician to senior technician, and can also move into quality control, technical management, or self-employment. Through continuing education, one can become a Master Glass Craftsman (Meister) or enter R&D to design new glass instruments.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career development paths include from junior technician to senior technician, an
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled technical workers; 2024 salary threshold around €43,800. May not apply to this occupation due to lower average salary. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers to stay in Germany for one year to find a job, requiring basic language and skills. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires completion of a 3-year dual vocational training combined w
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-apparatus-builder/DE)**

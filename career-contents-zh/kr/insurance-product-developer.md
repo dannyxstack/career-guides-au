@@ -1,10 +1,8 @@
-# Insurance Product Developer 职业分析 · 韩国
+# 保险产品开发员（Insurance Product Developer）职业分析 · 韩国
 
-**职业代码: 03131 (KECO)**
+**职业代码：03131 (KECO)**
 
-A professional who plans and designs insurance products, developing profitable and competitive offerings through market research, risk analysis, and actuarial modeling.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责规划与设计保险产品的专业人员，通过市场调研、风险分析和精算建模，开发盈利且有竞争力的产品。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans and designs insurance products, developing profitable a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Business, Economics, Statistics, Mathematics) | 4年 | $18,000,000~$40,000,000（Average tuition for 4-year university） |
-| Graduate school (Financial Engineering, Actuarial Science) | 2 年 | $10,000,000~$25,000,000（Graduate school tuition (Master's)） |
+| 大学（商业、经济、统计、数学） | 4年 | $18,000,000~$40,000,000（四年制大学平均学费） |
+| 研究生院（金融工程、精算科学） | 2 年 | $10,000,000~$25,000,000（研究生学费（硕士）） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who plans and designs insurance products, developing profitable a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 精算师 | Financial Supervisory Service | 可选 | Core license for insurance product development |
-| CFA（特许金融分析师） | CFA协会 | 可选 | International investment qualification, preferred by large firms |
-| FRM (Financial Risk Manager) | GARP | 可选 | Financial and risk management qualification |
+| 精算师 | 金融监督院 | 可选 | 保险产品开发的核心许可证 |
+| CFA（特许金融分析师） | CFA协会 | 可选 | 国际投资资格，大型企业优先 |
+| FRM（金融风险管理师） | GARP | 可选 | 金融与风险管理资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 4,500. Aging population and changing financial environment increase demand for customized and healthcare-linked products. Automation and AI replace some analysis, but human planning and insight remain crucial.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 4,500。人口老龄化和金融环境变化增加了对定制化和健康相关产品的需求。自动化和AI取代部分分析，但人类规划和洞察力仍然至关重要。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A professional who plans and designs insurance products, developing profitable a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $35,000,000~$45,000,000 | Average starting salary for college graduates in the industry |
-| Mid (4-10 years) | $50,000,000~$80,000,000 | Team leader level, increases with certifications |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Department head/executive level, based on large firms |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 行业应届大学毕业生平均起薪 |
+| 中级（4-10年） | $50,000,000~$80,000,000 | 团队领导级别，随认证增加 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 部门负责人/高管级别，基于大型企业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists and accelerates quantitative tasks like data analysis, risk modeling, and market forecasting, but creativity in product planning, regulatory/legal interpretation, and stakeholder consultation remain strongly human domains, making full replacement difficult.
+AI辅助并加速量化任务，如数据分析、风险建模和市场预测，但产品规划中的创造性、法规/法律解释以及利益相关者咨询仍强烈依赖人类，难以完全替代。
 
-After obtaining certifications like Actuary or CFA, advance to Product Planning Team Leader → Department Head. With digital and data analysis skills, may move to insurance big data or fintech fields.
+获得精算师或CFA等资格后，可晋升至产品规划团队负责人→部门主管。具备数字化和数据分析技能后，可能转向保险大数据或金融科技领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized Risk Analysis
-- Automated Report Generation
-- Basic Statistical Processing
+- 标准化风险分析
+- 自动报告生成
+- 基础统计处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market Trend Analysis
-- Customer Segmentation and Personalized Product Recommendations
-- Price Optimization
+- 市场趋势分析
+- 客户细分与个性化产品推荐
+- 价格优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Regulatory Interpretation and Compliance
-- Creativity in Product Planning
-- Organizational Decision-Making and Negotiation
-- Avoiding Misselling and Ethical Judgment
+- 监管解读与合规
+- 产品规划中的创造力
+- 组织决策与谈判
+- 避免销售误导与道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis (Python, R)
-- Machine Learning
-- Understanding Insurance and Financial Regulations
-- Healthcare and Fintech Knowledge
+- 数据分析（Python、R）
+- 机器学习
+- 了解保险和金融法规
+- 医疗保健与金融科技知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Insurance Product Developer
-- Retirement Pension
-- Long-term Care Insurance
-- Digital Insurance
+- 保险产品开发员
+- 退休养老金
+- 长期护理保险
+- 数字保险
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professional fields, but insurance product developers are recognized as highly skilled professionals with issuance cases. |
-| Subclass F-2 (Residence) | Can switch to points system; long-term stay possible with high education, experience, and income. |
-| Subclass F-5 (Permanent Residence) | Applicable after long-term residence; must meet income and integration conditions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong logical thinking and mathematical/statistical skills
-- Creative people who plan new ideas into products
-- Those who enjoy long-term data analysis
+- 具有较强逻辑思维和数学/统计能力的人
+- 将新想法策划成产品的创意人才
+- 喜欢长期数据分析的人
 
 **谁不适合**
-- Those who prefer repetitive simple tasks
-- Those who prefer working alone over working with others
+- 喜欢重复性简单任务的人
+- 偏好独立工作而非团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an insurance product developer?**
-答：Starting salary for new graduates is 35-45 million KRW (annual pre-tax), with additional allowances for qualifications like actuary.
+**问：保险产品开发人员的起薪是多少？**
+答：应届毕业生起薪3500-4500万韩元（税前年薪），精算师等资格另有补贴。
 
-**问：Can foreigners work as insurance product developers in Korea?**
-答：Possible, but requires E-7 visa issuance; Korean language skills and professional certifications (e.g., actuary) are advantageous. Large firms may prefer those with global department experience using English or backgrounds from overseas insurance companies.
+**问：外国人可以在韩国担任保险产品开发人员吗？**
+答：可能，但需要发放E-7签证；韩语能力和专业认证（如精算师）有优势。大公司可能偏好有英语使用经验的全球部门背景或海外保险公司背景。
 
-**问：Is an actuary certification essential to become an insurance product developer?**
-答：Not mandatory, but it benefits promotions and salary, and recognizes expertise in product development. CFA, FRM, etc., can be alternatives.
+**问：成为保险产品开发者是否必须拥有精算师认证？**
+答：非强制，但有利于晋升和薪资，并认可产品开发专长。CFA、FRM等可作为替代。
 
 
 ---
@@ -147,12 +137,12 @@ After obtaining certifications like Actuary or CFA, advance to Product Planning 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/insurance-product-developer/KR)**

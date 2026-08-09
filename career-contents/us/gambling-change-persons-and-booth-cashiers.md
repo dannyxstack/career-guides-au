@@ -54,8 +54,6 @@ Exchanges coins, tokens, and chips for customers, provides change services in th
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The repetitive transactions and cash handling tasks of casino cashiers and counter tellers are highly automated, significantly reducing job demand, but opportunities remain in human-machine collaboration and supervisory roles.
-
 Typically start as a money changer, can advance to senior cashier, casino cashier supervisor, or auditor. Some move into casino management or finance. Those with finance or accounting backgrounds advance faster.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Typically start as a money changer, can advance to senior cashier, casino cashie
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Most states require casino workers to hold a gaming license, which requires a
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-change-persons-and-booth-cashiers/US)**

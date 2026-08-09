@@ -4,8 +4,6 @@
 
 Responsible for cutting, deboning, trimming, and preparing meat products, including beef, pork, lamb, etc., working in butcher shops, supermarkets, or food processing plants to ensure product quality and hygiene standards.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for cutting, deboning, trimming, and preparing meat products, includ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
-
 Starting as an apprentice (CAP Boucherie), you can be promoted to senior butcher, butcher manager, or department manager. Experienced individuals can open their own stores or serve as slaughter trainers. It can also be shifted to food quality inspection or meat procurement.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Starting as an apprentice (CAP Boucherie), you can be promoted to senior butcher
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, a work contract must be provided, and proof that the position is difficult to recruit locally. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or specialized talents, but butchers usually do not meet the requirements. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Students transferring to work visas must first find an employer. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: A minimum CAP Boucherie diploma is required, and you must also hold HACCP foo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/butcher/FR)**

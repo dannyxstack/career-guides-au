@@ -55,8 +55,6 @@ Classical philologists study ancient Greek and Latin languages, literature, and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Classical linguists' work in text proofreading and translation is easily automated by AI, but cultural interpretation, teaching, and critical thinking in academic research are hard for AI to replace; overall mixed outlook.
-
 Career paths include postdoctoral, lecturer, professor; also transition to publishing, museums, or cultural management. Promotion requires high-quality research.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career paths include postdoctoral, lecturer, professor; also transition to publi
 | Subclass Skilled Worker (Skilled Worker Visa) | For those employed by universities or research institutions, requiring qualification assessment |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month visa, seeking academic positions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typical pathway is PhD -> postdoc -> lecturer -> professor, with possible tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/classical-philologist/DE)**

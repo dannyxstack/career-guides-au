@@ -53,8 +53,6 @@ Set up, operate, or monitor extrusion and drawing machines for metal or plastic 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Extrusion and drawing machine operators face high automation risk; AI and robots will take over parameter monitoring, quality inspection, and basic troubleshooting, sharply reducing entry-level positions, requiring upgrade to maintenance and multi-machine management.
-
 Can start as a junior operator, advance to senior operator, team leader, or QC technician; some companies offer in-house training to develop into process engineers.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can start as a junior operator, advance to senior operator, team leader, or QC t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. Usually does not meet H-1B specialty occupation requirem
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/extruding-and-drawing-machine-setters-operators-and-tenders-metal-and-plastic/US)**

@@ -52,8 +52,6 @@ Engaged in social education interventions, providing educational support and soc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some document and assessment tasks for social education intervention workers can be automated by AI, but core interpersonal interaction and emotional support are difficult to replace, resulting in mixed overall impacts.
-
 Students can be promoted from social education interveners to team leaders or project coordinators, or become social workers or education consultants through continuing education, with some transferring to management or policy positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Students can be promoted from social education interveners to team leaders or pr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents or in urgently needed occupations, valid for 4 years, renewable visa, spouse can accompany to work. |
-| Subclass Salarié (Employee Work Permit) | For employer-sponsored work residence, you must obtain a French work contract, which is generally valid for one year and can be renewed. |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, an annual salary of at least about 53,000 euros is required, but social education usually does not meet this threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Requires French academic credential recognition through ENIC-NARIC, and may r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/socioeducational-intervention-worker/FR)**

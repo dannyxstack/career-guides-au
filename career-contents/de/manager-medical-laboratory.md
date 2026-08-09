@@ -52,8 +52,6 @@ Responsible for leading and managing the daily operations of a medical laborator
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical laboratory managers face dual impacts from automation and AI: routine data entry and report generation will be replaced, but strategic decision-making, personnel management, and compliance oversight capabilities will be amplified.
-
 Usually starts as a medical technology specialist or laboratory analyst, progresses to department head through experience and management skills, then to lab manager. Can further develop to regional lab director or medical group management positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as a medical technology specialist or laboratory analyst, progres
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to applicants with professional qualifications (such as medical technology expert training) who need to obtain a work contract. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allowing those without a job offer to seek work in Germany for one year, suitable for those with relevant qualifications and language skills. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The most common path is to complete 3 years of dual medical technology specia
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-medical-laboratory/DE)**

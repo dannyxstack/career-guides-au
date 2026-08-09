@@ -54,8 +54,6 @@ Clinical psychologists in Germany diagnose and treat mental disorders, provide p
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
-
 Career path: assistant → licensed psychotherapist → senior specialist/department head → private practice or research management. Requires advanced training and national licensure.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: assistant → licensed psychotherapist → senior specialist/depart
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Must obtain professional certification, sponsored by employer |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows coming to Germany for job seeking and qualification recognition |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires academic qualification recognition (Anerkennung), German C1, complet
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-psychologist/DE)**

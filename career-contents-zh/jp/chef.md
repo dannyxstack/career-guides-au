@@ -1,8 +1,8 @@
 # 厨师（Chef）职业分析 · 日本
 
-**职业代码: 391 (JSCO)**
+**职业代码：391 (JSCO)**
 
-A profession that involves cooking ingredients and providing dishes in restaurants, hotels, etc. It is divided into specialties such as Japanese, Western, and Chinese cuisine.
+涉及在餐厅、酒店等场所烹饪食材并提供菜肴的职业。分为日式、西式、中式等专业方向。
 
 
 ---
@@ -11,8 +11,8 @@ A profession that involves cooking ingredients and providing dishes in restauran
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Culinary School | 2 年 | $2,000,000~$3,500,000（Day and evening courses available） |
-| 学徒制 | 3~5年 | $0~$500,000（Low cost when learning on the job） |
+| 烹饪学校 | 2 年 | $2,000,000~$3,500,000（提供白天和晚间课程） |
+| 学徒制 | 3~5年 | $0~$500,000（在职学习成本低） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession that involves cooking ingredients and providing dishes in restauran
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chef License | Prefectural Governor | 可选 | National qualification. Eligible after graduating from a culinary school or with 2 years of work experience. |
-| Fugu Chef License | Prefectural Governor | 可选 | Required for preparing blowfish |
-| Registered Dietitian | Prefectural Governor | 可选 | Advantageous in cafeteria management, etc. |
+| 厨师执照 | 县长 | 可选 | 国家资格。烹饪学校毕业或有2年工作经验后符合条件。 |
+| 河豚厨师执照 | 县长 | 可选 | 处理河豚所需 |
+| 注册营养师 | 县长 | 可选 | 在餐厅管理等方面有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 850,000. Labor shortages are severe, with particularly high demand in rural areas and specialty restaurants. It is a target occupation for Specified Skilled Worker (i), promoting the acceptance of foreign workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 850,000。劳动力短缺严重，农村地区和特色餐厅尤其高需求。属于特定技能(i)签证目标职业，促进接纳外国工人。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,94 +39,87 @@ A profession that involves cooking ingredients and providing dishes in restauran
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,800,000~$3,500,000 | Apprentice/support tasks |
-| Intermediate (4–9 years) | $3,500,000~$4,800,000 | Full-fledged chef |
-| Advanced (10+ years) | $4,800,000~$6,000,000 | Head chef/manager class |
+| Beginner (0–3 years) | $2,800,000~$3,500,000 | 学徒/辅助任务 |
+| 中级（4-9年） | $3,500,000~$4,800,000 | 全能厨师 |
+| 高级（10年以上） | $4,800,000~$6,000,000 | 主厨/经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation streamline auxiliary tasks like ingredient order management and recipe optimization, but human roles remain for creative and delicate cooking processes.
+AI和自动化简化了辅助任务，如配料订单管理和配方优化，但创意和精细烹饪过程仍需人类角色。
 
-Starting as an apprentice, one trains to become a head chef or owner. Career progression focuses on independent business or specializing in a field.
+从学徒开始，培训成为主厨或店主。职业发展侧重于独立经营或专攻某一领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Vegetable cutting
-- Part of plating
-- Measuring seasonings
+- 蔬菜切割
+- 电镀部件
+- 量取调味料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted menu planning
-- Inventory management system
-- Temperature control for cooking ovens
+- AI辅助菜单规划
+- 库存管理系统
+- 烹饪烤箱的温度控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Taste adjustment
-- Creativity
-- Customer service
-- Traditional techniques
+- 口味调整
+- 创造力
+- 客户服务
+- 传统技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Taste training
-- Creative dish development
-- Business sense
-- Multilingual support
+- 味觉训练
+- 创意菜品开发
+- 商业意识
+- 多语言支持
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Inbound demand
-- Health-oriented menus
-- Delivery and takeout
-- Use of local ingredients
+- 入境需求
+- 健康导向菜单
+- 外卖和自取
+- 使用本地食材
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i, Cooking)) | Stay for cooking skills. Max 5 years. No family accompaniment. Japanese N4+. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services (Cooking)) | For foreigners with advanced cooking skills. 10+ years of experience, etc. |
-| Subclass 技能 (Skilled Labor Visa (Cooking)) | For specialist chefs of foreign cuisine. Targets native chefs of the cuisine. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and good at detailed tasks
-- People interested in food who want to be creative
-- People who value teamwork
+- 手巧且擅长精细工作的人
+- 对食物感兴趣且有创造力的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who are lax about hygiene or time
-- People who are weak under pressure
+- 对卫生或时间要求松懈的人
+- 不抗压的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a chef?**
-答：Depending on experience and the establishment, the average is about ¥3.5–4.5 million. Head chefs can earn ¥5 million+, and at high-end restaurants, ¥8 million+.
+**问：厨师的平均年收入是多少？**
+答：根据经验和机构不同，平均约350万-450万日元。主厨可达500万日元以上，高端餐厅可达800万日元以上。
 
-**问：How can a foreigner work as a chef in Japan?**
-答：Specified Skilled Worker (i) (Cooking) is most common. Requires N4 Japanese or above and passing a skills test. Experienced workers may also qualify for a Specialist in Humanities/International Services visa.
+**问：外国人如何在日本担任厨师？**
+答：特定技能（i）（烹饪）最常见。要求日语N4及以上并通过技能考试。有经验的工人还可申请人文知识/国际服务签证。
 
-**问：Is a cooking license required?**
-答：Not mandatory, but advantageous for employment or independence. Eligibility for the exam requires graduation from a vocational school or 2 years of practical experience.
+**问：需要厨师执照吗？**
+答：非强制，但对就业或独立执业有利。考试资格需毕业于职业学校或2年实践经验。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as an apprentice, one trains to become a head chef or owner. Career pro
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chef/JP)**

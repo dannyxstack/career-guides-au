@@ -53,8 +53,6 @@ Respiratory therapists in Canada diagnose and treat respiratory diseases, manage
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Respiratory therapists and cardiopulmonary technologists' work is partly enhanced by AI assistance (e.g., data analysis, report generation), but core clinical operations and patient communication are hard to replace; overall risk moderately low.
-
 Junior respiratory therapists can advance to senior clinical specialists, team leaders, or education coordinators. With experience, they can specialize in intensive care, sleep medicine, or pulmonary rehabilitation, or pursue a master's degree to enter research or management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior respiratory therapists can advance to senior clinical specialists, team l
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: First complete ECA credential assessment, then pass the Canadian Society of R
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-therapists-and-cardiorespiratory-technologists/CA)**

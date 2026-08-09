@@ -51,8 +51,6 @@ Personal Client Relationship Specialists are responsible for sales, consulting, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of personal relationship specialists is mixed: AI can automate large volumes of phone calls, emails, and document processing, but complex interpersonal relationships and trust-building remain human strengths. Entry-level positions are narrowed by AI resume screening and chatbots, while tasks like sales analytics and CRM optimization are being enhanced.
-
 Career paths can range from client consultants to team leaders or branch managers, or to professional roles such as wealth management or credit analysis. Ongoing training and learning about financial products are key.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career paths can range from client consultants to team leaders or branch manager
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Employee)) | Applicable to high-skilled positions employed by French companies with an annual salary exceeding 42,052 euros (2024 standard), eligible for 4-year residence. |
-| Subclass Salarié (Employee (Salarié) Work Permit) | Standard work permits require employer sponsorship and review by the French Labour Department, usually requiring proof of inability to recruit EU candidates. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents with annual salary exceeding €53,836 (2024), granting a 4-year residence permit and EU mobility. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Yes, you can be promoted to Client Relationship Manager, Branch Manager, or t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-relations-officer-individuals/FR)**

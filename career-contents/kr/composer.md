@@ -4,8 +4,6 @@
 
 A professional who creates musical works, composing melodies and harmonies using sheet music or digital devices, active in diverse genres such as pop music, film/TV OSTs, advertising music, and classical music.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who creates musical works, composing melodies and harmonies using
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI composition technology (e.g., AIVA, MuseNet) is advancing rapidly, automating simple melody generation and background music production. However, creative expression, genre fusion, and reflection of cultural context remain the domain of human composers. AI is used as an auxiliary tool, and it is unlikely to reduce the role of composers significantly.
-
 Mainly work as freelancers; after gaining experience as music academy instructors or at performance planning companies, they may become independent or grow into music producers. Regular positions at large agencies or broadcasters are rare, and portfolios and networks are important.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Mainly work as freelancers; after gaining experience as music academy instructor
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Culture and Arts)) | Required for foreign composers to work in Korea, proof of expertise essential |
-| Subclass F-2 (Residence (F-2) Status) | Long-term foreign residents, no activity restrictions |
-| Subclass D-10 (Job Seeker (D-10) Status) | Can be used by music majors after graduation for job seeking |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Common paths include majoring in applied music or composition, or building a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/composer/KR)**

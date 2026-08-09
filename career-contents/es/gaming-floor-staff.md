@@ -4,8 +4,6 @@
 
 Providing services to customers in casinos, bingo halls, or game halls, including chip exchange, operating gaming equipment, ensuring compliance with game rules, and maintaining order on the premises.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing services to customers in casinos, bingo halls, or game halls, includin
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This profession faces a situation where automation is replaced by AI enhancement: basic transaction and monitoring tasks can be automated, but human judgment processes such as interpersonal interaction, violation resolution, and emergency response are instead amplified by AI tools.
-
 Employees can be promoted from regular waiters to regional supervisors or managers, with some shifting to casino management or hotel entertainment departments. Accumulate customer service experience and industry knowledge; obtaining relevant certificates can increase promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Employees can be promoted from regular waiters to regional supervisors or manage
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | A work contract from a Spanish employer is required to prove that the position cannot be filled by a local person, usually requiring a non-technical position. |
-| Subclass Busqueda empleo (Job Search Visa (Búsqueda de Empleo)) | You are allowed to stay in Spain and look for work, but you must prove financial capability, and changing jobs is more difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Yes, you can be promoted from regular waiter to regional supervisor, duty man
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gaming-floor-staff/ES)**

@@ -54,8 +54,6 @@ New Zealand dairy farm workers handle daily milking, feeding, herd health checks
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Farm workers' daily physical labor (e.g., harvesting, weeding, milking) will be largely replaced by AI and robots, with job numbers sharply declining; surviving roles will require higher technical skills.
-
 Junior workers can advance to senior milker, herd manager assistant, or farm supervisor. With experience, can rise to farm manager via NZ agricultural qualifications, with annual salary over $70k. Some move to contract milking or dairy consulting.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior workers can advance to senior milker, herd manager assistant, or farm sup
 | Subclass SMC (Skilled Migrant Category) | With work experience and qualifications, you can score 6 points, but usually require a salary above the median. |
 | Subclass Regional skills (Specific purpose work visa) | Some regions have additional support, such as the South Island Contribution Visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: No formal qualification required, but a 1-year agricultural certificate is re
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-cattle-farm-worker/NZ)**

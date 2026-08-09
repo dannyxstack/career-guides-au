@@ -51,8 +51,6 @@ Responsible for image capture, lighting setup, and visual effects in film, telev
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is rapidly penetrating film and video editing, automating repetitive tasks like cutting and color correction, but also enhancing creative tools, pushing editors towards higher-level narrative and decision-making skills.
-
 You can advance from photography assistant to cinematographer or lighting director, and after gaining experience, move on to director or visual effects director.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from photography assistant to cinematographer or lighting direct
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for artists or film industry professionals, requiring a portfolio and a French employer contract. |
-| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required, and the work permit is bound to the employer. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions, requiring an annual salary at least 1.5 times the French average wage, and is rarely used in the film and television industry. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Assistants can be promoted to cinematographers or lighting directors, while s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-and-television-image-technician/FR)**

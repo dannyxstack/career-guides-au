@@ -51,8 +51,6 @@ Responsible for overseeing the daily operations and team management of public ut
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of utility supervisor will be significantly amplified by AI: data-driven system monitoring, predictive maintenance, and customer demand forecasting will greatly improve management efficiency, but responsibilities involving team leadership, complex emergency decision-making, and regulatory compliance still require human oversight.
-
 Career progression paths include promotion from supervisor to department manager, operations manager, or regional director, as well as transitioning to an environmental or energy management specialist through further education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include promotion from supervisor to department manager
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled migrants with vocational qualifications (e.g., Meister) or a university degree |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based visa for skilled workers, suitable for those with certain qualifications. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can apply via EU Blue Card (requires engineering degree), Skilled Migration V
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-utility-services/DE)**

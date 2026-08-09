@@ -52,8 +52,6 @@ Develop mobile apps on iOS and Android platforms. High-demand occupation in New 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mobile app development engineers are mixed by AI: routine UI coding and testing tasks are highly automated, but AI enhances personalized design, cross-platform optimization, and user behavior analysis. Overall demand is steadily rising.
-
 Junior developers can advance to senior engineer, tech lead, or full-stack developer; with experience, they can become mobile architect or move into management; some entrepreneurs launch their own apps.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior developers can advance to senior engineer, tech lead, or full-stack devel
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, qualifications plus work experience are applicable; salary reaching 1.5 times the median can add points |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, usually a temporary work visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: High demand in Auckland and Wellington, with more remote positions. React Nat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-developer/NZ)**

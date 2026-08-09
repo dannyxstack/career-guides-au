@@ -53,8 +53,6 @@ Certified Practicing Accountants in New Zealand prepare financial reports, handl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Junior accountants can advance to senior accountant, financial manager, or audit manager; senior ones become CFO or partner. Obtaining CA ANZ or CPA is key to advancement, many employers sponsor studies and give paid exam leave.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior accountants can advance to senior accountant, financial manager, or audit
 | Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration; occupation is ANZSCO Skill Level 1; qualification (bachelor's 3 points) + work experience (2–5 years 3 points) is sufficient, easy to receive invitation. |
 | Subclass AEWV (Accredited Employer Work Visa) | Those without qualifications can first work on an AEWV, gain experience, then apply for residence. Employer must be accredited, hourly wage must reach the median (approx. 29.66 NZD/hour). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: International qualifications like ACCA and CMA are recognized by some employe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant-general/NZ)**

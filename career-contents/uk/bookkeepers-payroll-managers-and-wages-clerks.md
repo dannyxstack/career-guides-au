@@ -52,8 +52,6 @@ Responsible for maintaining and balancing financial transaction records, oversee
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bookkeeping, payroll, and wage management roles are rapidly shrinking due to automation tools; data processing and calculation tasks will be taken over by AI, but complex compliance and human judgment are still needed.
-
 Can progress from junior bookkeeper to senior bookkeeper, payroll supervisor, or financial manager, or transition to accountant by obtaining professional qualifications such as ACCA.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from junior bookkeeper to senior bookkeeper, payroll supervisor, or
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires AAT bookkeeping certification or CIPP payroll certificatio
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookkeepers-payroll-managers-and-wages-clerks/UK)**

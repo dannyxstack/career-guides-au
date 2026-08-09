@@ -52,8 +52,6 @@ Protection and control engineers are responsible for relay protection setting at
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not replace protection and control engineers; instead, it will amplify its value: automated tuning calculations and configuration verification will free up energy to focus more on complex system design, new energy integration, and cybersecurity protection, with professional demands continuously rising due to the energy transition.
-
 Germany's wind, solar, storage, grid digitalization, and computing power expansion continue to expand, making engineers skilled in grid connection, stability, and compliance the most sought after; AI-assisted analysis: Grid safety responsibility remains the responsibility of certified engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Germany's wind, solar, storage, grid digitalization, and computing power expansi
 | Subclass Skilled Worker (Skilled Worker Visa) | Fachkräfte skilled worker visa: recognized qualification + employment contract. |
 | Subclass Opportunity Card (Opportunity card) | Chancenkarte: Points-based job seeker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, eligible for Germany's 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/protection-control-engineer/DE)**

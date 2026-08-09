@@ -55,8 +55,6 @@ Chemical engineers design and optimise chemical production processes, covering m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
-
 Green hydrogen and renewable energy chemicals represent the largest investment direction in Australia's chemical industry. Lithium refining (lithium hydroxide production) engineers currently command the highest salary premium, with annual salaries reaching $130k–$160k.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Green hydrogen and renewable energy chemicals represent the largest investment d
 | Subclass 190 (Skilled Nominated) | State nomination; WA (lithium processing) / SA (green hydrogen) pathways |
 | Subclass 491 (Skilled Work Regional) | Remote area chemical industry project, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Mechanical engineers have a larger job market (Seek ~2,000 vs chemical engine
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer/AU)**

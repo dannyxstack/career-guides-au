@@ -53,8 +53,6 @@ Electronics Technicians install, test and repair electronic equipment across com
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Diagnostic testing and documentation tasks for electronics technicians will be automated by AI, but complex on-site troubleshooting and system integration gain value from AI-assisted tools, leading to a polarizing job market.
-
 AI-assisted diagnostics are reducing some fault-finding work, but on-site installation, commissioning and high-voltage system handling still require licensed personnel. Technicians with cross-disciplinary (electrical + digital + communications) backgrounds command a clear salary premium.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ AI-assisted diagnostics are reducing some fault-finding work, but on-site instal
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Relatively low risk. AI-assisted diagnostics are increasing, but on-site inst
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-technician/AU)**

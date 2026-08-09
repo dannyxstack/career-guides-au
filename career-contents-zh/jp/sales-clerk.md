@@ -1,10 +1,8 @@
-# Sales Clerk 职业分析 · 日本
+# 售货员（Sales Clerk）职业分析 · 日本
 
-**职业代码: 289 (JSCO)**
+**职业代码：289 (JSCO)**
 
-A role supporting sales operations through document creation, data entry, and customer correspondence. An unsung hero ensuring smooth corporate sales activities.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+通过文档创建、数据录入和客户信函支持销售运营的角色。确保企业销售活动顺利进行的无名英雄。
 
 
 ---
@@ -13,9 +11,9 @@ A role supporting sales operations through document creation, data entry, and cu
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$100,000（Public high school tuition effectively free） |
-| Vocational School (Business) | 2 年 | $1,000,000~$2,500,000（Private vocational school tuition (2 years)） |
-| Junior College (Business/Secretarial) | 2 年 | $800,000~$2,000,000（Junior college tuition (2 years)） |
+| 高中 | 3年 | $0~$100,000（公立高中学费实质免费） |
+| 职业学校（商务） | 2 年 | $1,000,000~$2,500,000（私立职业学校学费（2年）） |
+| 专科（商务/秘书） | 2 年 | $800,000~$2,000,000（大专学费（2年制）） |
 
 ---
 
@@ -23,17 +21,17 @@ A role supporting sales operations through document creation, data entry, and cu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Business Practical Worker | National Association of Commercial High Schools | 可选 | Obtainable at commercial high schools |
-| Sales Specialist (Retail Marketing) | Japan Chamber of Commerce and Industry | 可选 | Useful in retail |
+| 商务实践工作者 | 全国商业高中协会 | 可选 | 可在商业高中获得 |
+| 销售专员（零售营销） | 日本商工会议所 | 可选 | 在零售中有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 650,000. Demand for sales clerks is declining due to digitalization, but tasks leveraging sales expertise remain. Labor shortages vary by industry.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 650,000。由于数字化，销售员需求下降，但利用销售专长的任务仍然存在。各行业劳动力短缺情况不同。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,94 +39,87 @@ A role supporting sales operations through document creation, data entry, and cu
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,800,000~$3,500,000 | Early 20s annual income |
-| Mid Level (4–9 years) | $3,600,000~$4,800,000 | 30s annual income |
-| Senior Level (10+ years) | $4,900,000~$6,500,000 | 40s annual income |
+| 入门级（0–3年） | $2,800,000~$3,500,000 | 20岁出头的年收入 |
+| 中级（4-9年） | $3,600,000~$4,800,000 | 30多岁年收入 |
+| 高级（10年以上） | $4,900,000~$6,500,000 | 40多岁的年收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Sales clerical work is highly likely to be replaced by AI-driven data entry automation and advanced CRM, with routine tasks particularly shrinking.
+销售文书工作极可能被AI驱动的数据录入自动化和高级CRM替代，常规任务尤甚。
 
-Many start in general clerical positions, with opportunities to advance into sales or sales planning roles by deepening sales knowledge.
+许多从一般行政职位开始，有机会通过深化销售知识晋升到销售或销售策划岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Slip processing
-- Data entry
-- Simple customer support (chatbots)
-- Document preparation assistance
+- 滑差处理
+- 数据录入
+- 简单客户支持（聊天机器人）
+- 文件准备协助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Sales data analysis
-- Customer management system operation
-- Complex complaint handling
+- 销售数据分析
+- 客户管理系统运营
+- 复杂投诉处理
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal skills
-- Understanding of sales processes
-- Adaptability
+- 人际交往能力
+- 了解销售流程
+- 适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- CRM operation
-- Sales planning ability
-- Communication skills
+- 数据分析
+- CRM运营
+- 销售规划能力
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sales support system
-- Customer management CRM
-- Data entry efficiency
-- Sales assistant
+- 销售支持系统
+- 客户管理CRM
+- 数据录入效率
+- 销售助理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Sales admin is generally not eligible for this visa, but roles requiring advanced sales analysis or English may be possible. However, scrutiny is strict. |
-| Subclass 特定活動 (Designated Activities (with work restrictions)) | Temporary work such as working holiday is possible. Not suitable for permanent employment. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person who can work steadily and accurately
-- Person good at multitasking
-- Person who finds fulfillment in sales support
+- 能稳定且准确工作的人
+- 善于多任务处理的人
+- 在销售支持中获得成就感的人
 
 **谁不适合**
-- Person who likes creative work
-- Person who likes speaking in public and aims for a sales role
+- 喜欢创意工作的人
+- 喜欢公开演讲并立志从事销售工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a sales assistant?**
-答：Varies by experience; entry-level around ¥3 million, mid-level ¥4 million, senior ¥5-6 million.
+**问：销售助理的平均薪资是多少？**
+答：因经验而异；入门级约300万日元，中级400万，高级500-600万。
 
-**问：Can a foreigner work as a sales assistant?**
-答：Regular sales assistant positions are generally ineligible for the Engineer/Specialist visa, making work visas difficult. However, if combined with interpretation/translation or international business, the visa may be possible.
+**问：外国人可以担任销售助理吗？**
+答：普通销售助理职位通常不符合工程师/专家签证资格，工作签证困难。但如果结合口译/笔译或国际业务，可能获得签证。
 
-**问：What skills are required for a sales assistant?**
-答：Basic operation of office software such as Excel and Word, accurate data entry, communication skills, multitasking required.
+**问：销售助理需要哪些技能？**
+答：基本操作Excel和Word等办公软件，准确数据录入，沟通技巧，需要多任务处理。
 
 
 ---
@@ -146,12 +137,12 @@ Many start in general clerical positions, with opportunities to advance into sal
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sales-clerk/JP)**

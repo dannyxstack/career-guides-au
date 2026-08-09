@@ -1,0 +1,118 @@
+# Secondary Education Teachers — career analysis · Chile
+
+**Occupation code: 2330 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: high (★★★★☆).** National workforce approx. 125,392.
+
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+(no data)
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★★☆).**
+
+**Tasks most exposed to AI:**
+
+- Automated grading of standardized assignments and multiple-choice questions
+- Generate basic lesson plans and course draft materials
+- handling student attendance and grade records
+- Provide standardized FAQ services
+
+**Where AI augments the role:**
+
+- Analyze student learning data with AI to achieve personalized teaching
+- Using AI to generate differentiated practice problems and extension materials
+- Enhance classroom interaction and lab simulation with AI virtual assistants
+- Using natural language processing tools to quickly search teaching materials
+- Use AI to monitor student participation and adjust teaching strategies in a timely manner.
+
+**Human moat:**
+
+- Classroom management and student behavior guidance
+- Emotional support and psychological counseling
+- Complex teaching decisions and curriculum design
+- In-depth communication with parents and the community
+- Cultivate students' critical thinking and creativity
+
+**Skills to build:**
+
+- Data analysis and learning situation diagnosis.
+- AI teaching tool applications (e.g., Knewton, Carnegie Learning)
+- Digital content creation and multimedia teaching
+- Programming and STEM education basics
+- Online teaching and blended learning design
+- AI ethics and data privacy protection
+
+---
+
+## 6. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 7. FAQ
+
+**Q: What is the average salary for secondary education teachers in Chile?**
+A: In Chile, secondary teachers earn between CLP 800,000 and CLP 1,200,000 monthly, depending on experience and public vs private sector. Public school teachers follow a national scale; private schools may offer higher pay. Additional bonuses exist for rural or high-needs areas.
+
+**Q: What is the career outlook for secondary teachers in Chile?**
+A: Demand for secondary teachers is steady, especially in subjects like math, science, and English. Public sector hiring is stable due to education reforms. However, competition in urban areas is stronger. Retirement of older teachers creates openings. Career growth includes becoming a department head or school administrator.
+
+**Q: How is AI affecting the role of secondary teachers in Chile?**
+A: AI is being integrated into classrooms for personalized learning and administrative tasks. Teachers are expected to use digital tools, but AI does not replace the need for human interaction. Professional development programs help teachers adapt. The core teaching role remains, with AI as a support tool.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium (★★½☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+
+---
+
+## Data sources
+
+- Chile's National Statistics Institute (INE), National Employment Survey (ENE) (ISCO-08)
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-education-teacher/CL)**

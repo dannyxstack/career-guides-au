@@ -52,8 +52,6 @@ Insurance risk experts are responsible for assessing and pricing insurance risks
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly enhance insurance risk experts' data analysis and forecasting capabilities, making risk assessment more accurate, but core decision-making and regulatory responsibilities still need human leadership.
-
 Junior analysts can be promoted to senior risk specialists, team leaders, and eventually Chief Risk Officers (CROs). You can also pivot to actuarial, compliance, or reinsurance fields, with a clear path.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior analysts can be promoted to senior risk specialists, team leaders, and ev
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Targeting highly skilled talents, suitable for engineers or experts, requiring a master's degree and a work contract, valid for 4 years, renewable and allowed for spouses to work. |
-| Subclass Carte bleue UE (EU Blue Card) | At least 3 years of experience and high salary (2025 threshold is about 46,000 euros/year), valid for 4 years, and can bring family members. |
-| Subclass Salarié (Employee Residence Permit) | Based on the employment contract, approval from the French Labour Bureau (France Travail) is required, usually tied to the employer, with a 1-year initial installment and renewable options. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: A master's diploma in finance/insurance/actuarial actuaries is usually requir
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-risk-expert/FR)**

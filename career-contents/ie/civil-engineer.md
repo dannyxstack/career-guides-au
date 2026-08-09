@@ -54,8 +54,6 @@ Civil engineers in Ireland are responsible for designing, building, and maintain
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Junior civil engineers can advance to project manager or senior engineer, or specialize in structural or environmental engineering. Achieving chartered engineer status is key for advancement, typically requiring 5-10 years of experience.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior civil engineers can advance to project manager or senior engineer, or spe
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary of €30,000 or more; requires a labor market test; valid for 2 years, renewable. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary of €40,000 or more; can bring family members; free to change employers after 1 year. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, driven by infrastructure investment, this occupation is a critical skill
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineer/IE)**

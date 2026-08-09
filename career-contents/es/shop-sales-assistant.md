@@ -4,8 +4,6 @@
 
 Store clerks greet customers, provide product information, complete sales transactions, and maintain store cleanliness in retail stores. This profession is a core position in Spain's retail industry, offering a wide range of employment opportunities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Store clerks greet customers, provide product information, complete sales transa
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
-
-Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
 
 Junior sales clerks can be promoted to department supervisor, store manager, or move to specialized positions such as purchasing or product display. After gaining experience, you can manage large stores or multiple stores in various regions.
 
@@ -100,15 +96,9 @@ Junior sales clerks can be promoted to department supervisor, store manager, or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | Employers must provide a formal employment contract, and the position cannot be filled by an EU citizen; usually, proof of shortage or irreplaceability is required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Usually, only a junior high school diploma is required, but a business-relate
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-sales-assistant/ES)**

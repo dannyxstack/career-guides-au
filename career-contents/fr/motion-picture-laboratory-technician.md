@@ -4,8 +4,6 @@
 
 Responsible for chemical processing, development, duplication, and restoration of film or digital images to ensure image quality meets screening standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for chemical processing, development, duplication, and restoration o
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Positions for film lab technicians are polarized by AI: digital restoration and color grading will be enhanced by AI, but demand for traditional film chemical processing is shrinking, increasing the pressure to transfer roles.
-
 You can be promoted from laboratory assistant to senior colorist or quality control supervisor, or move into digital restoration or post-production management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from laboratory assistant to senior colorist or quality cont
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer is required, and the Labor Bureau reviews the authenticity of the position and salary conditions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for outstanding achievements or highly skilled talents in the film industry, with relevant proof required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Although digitally impacted, there is still a certain demand in film restorat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motion-picture-laboratory-technician/FR)**

@@ -4,8 +4,6 @@
 
 This job involves selling products, managing inventory, and serving customers in department stores, supermarkets, convenience stores, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This job involves selling products, managing inventory, and serving customers in
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As AI and unmanned technology replace simple sales tasks, recruitment is shrinking, but human roles are still needed for customer consultation and complex services.
-
 After sales experience, promotion to store manager, manager, or MD (Merchandiser) is possible, utilizing training programs within large retail companies.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ After sales experience, promotion to store manager, manager, or MD (Merchandiser
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing, agriculture/livestock, fisheries; retail not allowed |
-| Subclass E-7 (Specific Activities) | Possible for skilled workers, but general sales staff not applicable |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: Generally not possible. E-9 visa excludes retail, and E-7 is limited to speci
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/store-salesperson/KR)**

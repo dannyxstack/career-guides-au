@@ -1,10 +1,8 @@
-# Rail Locomotive and Electric Train Maintenance Technician 职业分析 · 韩国
+# 铁路机车和电力列车维修技术员（Rail Locomotive and Electric Train Maintenance Technician）职业分析 · 韩国
 
-**职业代码: 81231 (KECO)**
+**职业代码：81231 (KECO)**
 
-A skilled technical profession that ensures the safe operation of railway vehicles by performing regular inspections, fault repairs, and part replacements for locomotives and electric trains.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+确保铁路车辆安全运行的技术专业，通过对机车和电动列车进行定期检查、故障维修和零件更换。
 
 
 ---
@@ -14,7 +12,7 @@ A skilled technical profession that ensures the safe operation of railway vehicl
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育） |
-| Junior college (railway-related department) | 2 年 | $4,000,000~$8,000,000（Based on tuition fees, national/public university standards） |
+| 大专（铁路相关专业） | 2 年 | $4,000,000~$8,000,000（基于学费，国立/公立大学标准） |
 
 ---
 
@@ -22,17 +20,17 @@ A skilled technical profession that ensures the safe operation of railway vehicl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Rail Vehicle Maintenance Technician (Korea) | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
-| Locomotive Maintenance Technician (Korea) | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
+| 轨道车辆维修技术员（韩国） | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
+| 机车维修技术员（韩国） | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 12,000. Employment is expected to be sustained due to railway infrastructure expansion and demand for replacing aging vehicles, but new hiring may slow somewhat due to automation.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 12,000。由于铁路基础设施扩建和老化车辆更换需求，就业预计将持续，但由于自动化，新招聘可能略有放缓。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A skilled technical profession that ensures the safe operation of railway vehicl
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$34,000,000 | Based on annual salary before tax |
-| Mid-level (5-10 years) | $35,000,000~$45,000,000 | Based on annual salary before tax |
-| 资深（10年以上） | $45,000,000~$55,000,000 | Based on annual salary before tax |
+| 入门级（0-3年） | $28,000,000~$34,000,000 | 基于税前年薪 |
+| 中级（5-10年） | $35,000,000~$45,000,000 | 基于税前年薪 |
+| 资深（10年以上） | $45,000,000~$55,000,000 | 基于税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are enhancing maintenance efficiency through diagnostic systems, predictive maintenance, and automatic inspection equipment, but human experts remain essential for complex mechanical repairs and on-site judgment. Therefore, AI complements rather than replaces the profession, and its value as a technical role will be maintained.
+人工智能和自动化通过诊断系统、预测性维护和自动检测设备提升维护效率，但复杂机械维修和现场判断仍需人类专家。因此，AI是对该职业的补充而非替代，其技术角色的价值将得以保持。
 
-Career progression is possible from entry-level technician to intermediate/advanced technician, site foreman, and technical team leader, with certifications and experience being important.
+从初级技术员到中级/高级技术员、现场工长和技术团队负责人可逐步晋升，认证和经验很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic inspection and diagnostic tasks
-- Part inventory management
-- Maintenance record writing
+- 基本检查和诊断任务
+- 零件库存管理
+- 维护记录编写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Root cause analysis of failures
-- Maintenance planning
-- Safety inspection
+- 故障根本原因分析
+- 维护规划
+- 安全检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive judgment based on field experience
-- Complex mechanical repair skills
-- Deep understanding of safety procedures
+- 基于现场经验的直觉判断
+- 复杂机械维修技能
+- 对安全程序的深刻理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI diagnostic tools
-- Basic data analysis
-- Advanced electrical/electronic knowledge
-- Communication skills
+- AI诊断工具的使用
+- 基础数据分析
+- 高级电气/电子知识
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Railway safety
-- Modernization of electric trains
-- Expansion of High-Speed Rail
-- Automation Maintenance
+- 铁路安全
+- 电动列车现代化
+- 高铁扩展
+- 自动化维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employable as skilled functional worker, requires experience in railway maintenance |
-| Subclass F-2 (F-2 (Residence)) | Employment possible after long-term stay, can switch from E-7 etc. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machine operation and repair
-- People with good physical strength and attention to detail
-- People with a tendency to strictly follow safety regulations
+- 对机器操作和维修感兴趣的人
+- 体力好且注重细节的人
+- 倾向于严格遵守安全规定的人
 
 **谁不适合**
 - 对重复性工作感到枯燥的人
-- People who avoid night and shift work
+- 避免夜班和轮班工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a railway locomotive repairman?**
-答：Entry-level: about 28-34 million won, mid-level: 35-45 million won, senior: 45-55 million won, increasing with experience and certifications.
+**问：铁路机车修理工的平均工资是多少？**
+答：入门级：约2800-3400万韩元，中级：3500-4500万韩元，高级：4500-5500万韩元，随经验和证书增加。
 
-**问：Can foreigners obtain a work visa for this job?**
-答：Yes, it is possible. Employment is available under the E-7 (Specific Activities) visa, requiring relevant experience and qualifications. However, due to the nature of the railway sector, Korean language proficiency and completion of safety training are important.
+**问：外国人能获得此职位的工作签证吗？**
+答：是的，可以。可在E-7（特定活动）签证下就业，需相关经验和资质。但由于铁路行业性质，韩语水平和安全培训完成情况很重要。
 
-**问：What educational background is required for this job?**
-答：High school graduation or higher is acceptable, but graduation from a railway-related college or holding a Railway Vehicle Maintenance Technician certificate is advantageous for employment.
+**问：这个工作需要什么教育背景？**
+答：高中毕业或以上可接受，但毕业于铁路相关院校或持有铁路车辆维修技师证书更有利于就业。
 
 
 ---
@@ -144,12 +135,12 @@ Career progression is possible from entry-level technician to intermediate/advan
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rail-locomotive-and-electric-train-maintenance-technician/KR)**

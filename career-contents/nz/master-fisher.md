@@ -54,8 +54,6 @@ In New Zealand, a fishing vessel master is responsible for driving and managing 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core responsibilities of a fishing boat captain—navigation, fishing decisions, and safety—are difficult to fully replace with AI, but AI significantly enhances efficiency in tasks such as weather analysis, fish detection, and compliance recording; entry-level positions (e.g., deckhands) face a risk of automation compression.
-
 Career progression: from crew to captain (requires seafarer license and fishing experience), then can become captain of large fishing vessels, fleet manager, or fisheries inspector. Certification and maritime management knowledge are key for advancement; can also transition to marine farming management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: from crew to captain (requires seafarer license and fishing 
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, up to 3 years, renewable, may transition to residence after 24 months of work (subject to Green List requirements) |
 | Subclass SMC (Skilled Migrant Category) | If you meet the points threshold (6 points system), you can apply for permanent residency through skilled migration, requiring relevant work experience and a job offer. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: At least a New Zealand Skipper Restricted Limits license is required for coas
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/master-fisher/NZ)**

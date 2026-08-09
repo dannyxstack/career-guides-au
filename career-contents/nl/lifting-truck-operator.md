@@ -4,8 +4,6 @@
 
 Operate forklifts and other lifting equipment to move and stack goods in warehouses, distribution centers, and factories, ensuring logistics efficiency and operational safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate forklifts and other lifting equipment to move and stack goods in warehou
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Autonomous driving and warehouse automation will significantly replace forklift operator tasks like route planning and repetitive handling; entry-level positions will shrink, but skills such as safety inspection and exception handling remain protected.
-
 Can advance from operator to senior operator, warehouse supervisor or logistics coordinator; some become trainers by obtaining coaching certificates.
 
 **Tasks most exposed to AI:**
@@ -100,18 +96,9 @@ Can advance from operator to senior operator, warehouse supervisor or logistics 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled workers earning above the threshold (approx. €5,008/month in 2024); this occupation generally has lower wages and may not be eligible. |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €58,700 (2024), which forklift operators find difficult to achieve. |
-| Subclass Orientation Year (Zo (Orientation Year) | Applies to international students who have graduated in the Netherlands; they can work freely for one year after graduation, but this does not directly target this occupation. |
-| Subclass EU Freedom of Moveme (EU Free Movement) | EU/EEA citizens do not need a work permit and can work directly in the Netherlands. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +142,12 @@ A: Yes. Dutch law requires a valid license (e.g., issued by CCV/IBKI) to operate
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lifting-truck-operator/NL)**

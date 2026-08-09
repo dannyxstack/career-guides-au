@@ -51,8 +51,6 @@ Responsible for cleaning and maintaining public and private areas such as street
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Repetitive sweeping work for cleaners and related labourers will be highly automated, reducing entry-level jobs, but complex environment cleaning and equipment maintenance will still require humans.
-
 Typically start as entry-level cleaners, gain experience, and can advance to cleaning supervisor or team leader, overseeing and managing cleaning teams. Some may transition to waste recycling or waste management roles.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Typically start as entry-level cleaners, gain experience, and can advance to cle
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: Cleaner is a low-skilled occupation not on the shortage list; applying for a 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sweeper-and-related-labourer/IE)**

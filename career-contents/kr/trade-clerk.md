@@ -50,8 +50,6 @@ A professional who performs overall international trade office tasks including e
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are replacing some tasks like trade document preparation, customs declaration, and data entry, but areas requiring human judgment and communication, such as negotiation, contract review, and customer relationship management, are becoming more important.
-
 Clerk → Assistant Manager → Manager → Deputy General Manager → General Manager. Advantageous to gain trade English and practical experience for promotion to overseas sales/trade management, or acquire professional certifications such as customs broker.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Clerk → Assistant Manager → Manager → Deputy General Manager → General M
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Allows international trade work, issued when eligibility requirements are met |
-| Subclass F-2 (Residence Visa) | Can switch to points-based system, allows long-term stay and free employment |
-| Subclass F-5 (Permanent Residence Visa) | Eligible after long-term residence, no employment restrictions |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +137,12 @@ A: It is advantageous to gain practical trade experience, acquire certifications
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trade-clerk/KR)**

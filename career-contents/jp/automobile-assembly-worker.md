@@ -51,8 +51,6 @@ Specialist in the production process of assembling car parts and units into a fi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Automobile assembly is increasingly automated with robots, but human judgment is still needed for complex assembly, inspection, and troubleshooting. While simple tasks shrink due to AI and robots, human roles may become more advanced and diversified.
-
 Career advancement through skill certification and multi-skilling. Paths to leader, quality control, or production engineering roles, but escaping line work requires additional skills.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Career advancement through skill certification and multi-skilling. Paths to lead
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Available in 3 manufacturing fields (metal, machinery, electrical/electronic, auto assembly, etc.) including auto assembly. Requires skills test and N4+ Japanese. Max stay 5 years. |
-| Subclass 特定技能2号（製造3分野） (Specified Skilled Worker (ii)) | Requires higher skills. Renewable; can bring family. Target fields expanded in 2023. |
-| Subclass 技術・人文知識・国際業務（技人国） (Engineer/Specialist in Humanities/International Services) | Possible with advanced expertise (e.g., production engineering, QC). Requires university degree or 10+ years experience. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: Obtaining a skills certification (automobile assembly skilled worker), QC cer
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automobile-assembly-worker/JP)**

@@ -1,8 +1,8 @@
-# Kimchi & Side Dish Manufacturing Worker 职业分析 · 韩国
+# 泡菜与小菜制造工人（Kimchi & Side Dish Manufacturing Worker）职业分析 · 韩国
 
-**职业代码: 87221 (KECO)**
+**职业代码：87221 (KECO)**
 
-Skilled professionals who produce traditional fermented foods such as kimchi, pickles, and salted seafood, as well as various side dishes, working in environments ranging from small-scale cottage industries to large food factories.
+熟练制作传统发酵食品（如泡菜、腌菜和酱腌海鲜）及各种小菜的专业人员，工作环境涵盖小型家庭作坊到大型食品工厂。
 
 
 ---
@@ -11,8 +11,8 @@ Skilled professionals who produce traditional fermented foods such as kimchi, pi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Free mandatory education） |
-| College (food processing) graduate | 2 年 | $5,000,000~$8,000,000（Tuition: actual cost） |
+| 高中毕业 | 3年 | $0~$0（免费义务教育） |
+| 大学（食品加工）毕业生 | 2 年 | $5,000,000~$8,000,000（学费：实际费用） |
 
 ---
 
@@ -20,18 +20,18 @@ Skilled professionals who produce traditional fermented foods such as kimchi, pi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food Processing Technician | Human Resources Development Service of Korea | 可选 | Optional, additional points |
-| Cooking Technician (Korean Food) | Human Resources Development Service of Korea | 可选 | Optional, additional points |
-| HACCP Internal Auditor | Korea Food Safety Management Certification Agency | 可选 | Optional, preferred by large corporations |
+| 食品加工技术员 | 韩国人力资源开发服务局 | 可选 | 可选，附加分 |
+| 烹饪技师（韩国料理） | 韩国人力资源开发服务局 | 可选 | 可选，附加分 |
+| HACCP内部审核员 | 韩国食品安全管理认证院 | 可选 | 可选，大型企业偏好 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 58,000. With the globalization of Korean cuisine and rising demand for home meal replacements (HMR), demand for skilled workers remains stable, but automation is expected to reduce simple labor. Attrition among older workers and insufficient new entrants persist.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 58,000。随着韩国料理全球化和家庭替代餐（HMR）需求上升，熟练工人需求稳定，但自动化预计减少简单劳动。老年工人流失和新进人员不足持续存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,97 +39,89 @@ Skilled professionals who produce traditional fermented foods such as kimchi, pi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $24,000,000~$30,000,000 | Based on SME standards |
-| Mid (3–7 years) | $30,000,000~$38,000,000 | 熟练工 |
-| 高级（7年以上） | $38,000,000~$50,000,000 | Foreman level and above |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于中小企业标准 |
+| 中级（3-7年） | $30,000,000~$38,000,000 | 熟练工 |
+| 高级（7年以上） | $38,000,000~$50,000,000 | 工长级别及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are replacing repetitive tasks like cutting, washing, and packaging, but judging fermentation ripeness, taste adjustment, and recipe development still rely on human senses and experience, so complete replacement is difficult. Small and medium-sized workplaces still rely heavily on manual labor.
+人工智能和自动化正在取代切割、清洗、包装等重复性任务，但判断发酵成熟度、口味调整和配方开发仍依赖人类感官和经验，因此完全替代较难。中小型工作场所仍大量依赖人工。
 
-During the first 1–2 years after hiring, workers learn ingredient preparation and basic fermentation skills, then can advance to skilled positions developing recipes, managing quality, or overseeing production lines.
+入职后1-2年内，工人学习原料准备和基础发酵技能，之后可以晋升到技术岗位，负责配方开发、质量管理或监督生产线。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Material sorting and simple packaging
-- Label attachment
-- Quantitative input
-- Raw material washing
+- 物料分拣与简单包装
+- 贴标签
+- 定量输入
+- 原料清洗
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fermentation status monitoring data analysis
-- AI quality inspection assistance
-- Recipe optimization simulation
-- Hygiene management automation
+- 发酵状态监测数据分析
+- AI质量检测辅助
+- 配方优化模拟
+- 卫生管理自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Sense of fermentation ripeness judgment
-- Taste adjustment experience
-- Traditional recipe know-how
-- Ability to detect customer preferences
+- 发酵成熟度判断
+- 口味调整经验
+- 传统配方技艺
+- 察觉客户偏好的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of fermentation engineering
-- HACCP Understanding
-- Automation Equipment Operation
-- Data Analysis
+- 发酵工程基础
+- HACCP理解
+- 自动化设备操作
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Globalization of Korean cuisine
-- Home meal replacement (HMR)
-- Fermented foods
-- Vegan side dishes
+- 韩国料理全球化
+- 家庭替代餐（HMR）
+- 发酵食品
+- 素食小菜
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible at some large factories under the Employment Permit System in the manufacturing sector; quotas and industry restrictions apply. |
-| Subclass F-2 (Residence (F-2)) | Issued to marriage immigrants or long-term residents via a points system; allows unrestricted employment. |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans; restrictions on simple labor jobs, but food manufacturing often allowed. |
-| Subclass E-7 (Specific Activities (E-7)) | Can be issued as Skilled Worker (E-7-1); requires experience and certifications. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and meticulous with repetitive tasks
-- People with a strong interest in fermented foods and traditional cuisine
-- People who can work night shifts or weekends
+- 双手灵巧且对重复性工作细致入微的人
+- 对发酵食品和传统烹饪有浓厚兴趣的人
+- 能够上夜班或周末班的人
 
 **谁不适合**
-- People who prefer static office work
-- People sensitive to uneven work environments (humidity, odors)
+- 偏好静态办公室工作的人
+- 对不均匀工作环境（湿度、气味）敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a Kimchi and Side Dish Manufacturing Worker?**
-答：For entry-level, about 24-30 million won; skilled workers 30-38 million won; team leaders 38-50 million won, with large gaps between SMEs and large corporations.
+**问：泡菜及配菜制造工人的平均年薪是多少？**
+答：入门级约2400-3000万韩元，熟练工3000-3800万韩元，团队领导3800-5000万韩元，中小企业与大型企业差距大。
 
-**问：Can foreigners work in this occupation with an E-9 visa?**
-答：Yes, it is possible. You can work at food manufacturing companies under the Employment Permit System (E-9), and can also switch to the Skilled Worker (E-7-1) visa.
+**问：外国人持E-9签证可以从事此职业吗？**
+答：是的，可能。你可以在就业许可制度(E-9)下在食品制造公司工作，也可以转为熟练工人(E-7-1)签证。
 
-**问：What is the career progression like in this occupation?**
-答：After 2-3 years of initial experience, you can become a skilled worker, then advance to quality control or production line manager; obtaining certifications is advantageous.
+**问：这个职业的职业发展路径是怎样的？**
+答：积累2-3年初级经验后，可成为熟练工，进而晋升质检或生产线主管；考取证书有优势。
 
 
 ---
@@ -147,12 +139,12 @@ During the first 1–2 years after hiring, workers learn ingredient preparation 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/kimchi-side-dish-manufacturing-worker/KR)**

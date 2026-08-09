@@ -51,8 +51,6 @@ Debt collectors are responsible for pursuing overdue accounts, contacting client
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The highly structured debt collection process (calls, emails, payment arrangements) of bill collectors is highly susceptible to substitution by AI-driven automated collection systems, with the number of positions expected to decrease significantly over the next 5 years.
-
 Junior collectors can advance to senior collection specialist, collection supervisor, or credit management manager. They can also move into related fields such as credit analysis or accounts receivable management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior collectors can advance to senior collection specialist, collection superv
 | Subclass PNP (Provincial Nominee Program) | Some provinces may list debt collectors as an occupation in demand, allowing permanent residency through provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa application, which can then lead to permanent residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Demand is stable, but automation may reduce some positions. Those with collec
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/collection-clerks/CA)**

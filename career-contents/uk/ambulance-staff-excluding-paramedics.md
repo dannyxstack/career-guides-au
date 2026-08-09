@@ -53,8 +53,6 @@ Responsible for transporting patients and convalescents, providing first aid in 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI scheduling and automation technology will significantly reduce paramedic positions; emergency response dispatch, vehicle self-checks, and basic triage can be replaced by AI, but on-site complex emergency care still requires human judgment.
-
 Can advance from ambulance assistant to senior ambulance officer or team leader; some can further study to become paramedics.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from ambulance assistant to senior ambulance officer or team leader;
 | Subclass Skilled Worker (Skilled Worker visa) | If the employer is not the NHS, but the occupation is on the eligible sponsorship list, general salary requirements must be met. |
 | Subclass Graduate (Graduate visa) | After graduation, can work in the UK for 2 years without sponsorship, gain experience then switch to work visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not required. Usually only needs a first aid certificate and C1 driver's lice
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-staff-excluding-paramedics/UK)**

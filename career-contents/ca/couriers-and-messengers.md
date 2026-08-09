@@ -55,8 +55,6 @@ In Canada, couriers (NOC 74100) deliver packages and documents locally, typicall
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Couriers and messengers face high risk of automation; as autonomous delivery vehicles, drones, and intelligent scheduling systems mature, many routine point-to-point delivery tasks will be replaced by machines, significantly reducing entry-level positions.
-
 Limited career progression: from courier to delivery supervisor, scheduler, or fleet manager. Some experienced workers can transition to logistics coordination or warehouse management, but require additional training.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Limited career progression: from courier to delivery supervisor, scheduler, or f
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Limited promotion opportunities, can advance from courier to dispatcher, deli
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/couriers-and-messengers/CA)**

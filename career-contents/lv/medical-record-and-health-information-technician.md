@@ -1,0 +1,128 @@
+# Medical Records and Health Information Technicians — career analysis · Latvia
+
+**Occupation code: 3252 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 51.
+
+**Competition: medium (★★½☆☆).**
+**Work intensity: low (★½☆☆☆).**
+
+---
+
+## 4. Salary range
+
+| Experience | Annual salary (EUR) | Note |
+|---|---:|---|
+| Average | $17,268 | Eurostat SES 2022 broad occupational baseline (Non manual workers); median €1,162/month ×12. Not a national four-digit estimate. |
+| Median | $13,944 | Eurostat SES 2022 broad occupational baseline (Non manual workers); median €1,162/month ×12. Not a national four-digit estimate. |
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium-high (★★★☆☆).**
+
+**Tasks most exposed to AI:**
+
+- Automatically extract and assign diagnosis and procedure codes from electronic health records.
+- Generate standardized medical reports and statistical summaries
+- Perform data integrity checks and quality audits
+- Process information requests and issue authorizations
+
+**Where AI augments the role:**
+
+- Analyze health data trends using AI to support clinical decisions
+- Improving coding accuracy through NLP and machine learning
+- Build and maintain health information data warehouse
+- Implement and optimize AI-assisted coding systems
+
+**Human moat:**
+
+- Deep knowledge of medical processes and clinical terminology
+- Coding judgments for complex or ambiguous cases
+- Responsibility for ensuring data privacy and regulatory compliance
+- Direct communication and collaboration with clinicians
+
+**Skills to build:**
+
+- Health Informatics and HIPAA Compliance
+- Data analysis tools (SQL, Python, R)
+- AI/ML fundamentals (NLP, predictive modeling)
+- Medical coding systems (ICD-10, CPT, HCPCS)
+- Data visualization (Tableau, Power BI).
+- Project management and change management
+
+---
+
+## 6. Migration pathways / PR
+
+As an EU member state, Latvia admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
+
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
+
+---
+
+## 7. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary for a Medical Records and Health Information Technician in Latvia?**
+A: Salaries for Medical Records and Health Information Technicians in Latvia vary based on experience and employer. Entry-level positions start around €900–€1,200 per month gross, while experienced technicians can earn €1,400–€1,800. Public hospitals may offer slightly lower pay but include benefits. Private clinics and health IT companies often provide higher compensation.
+
+**Q: Can foreign nationals work as Medical Records and Health Information Technicians in Latvia via the EU Blue Card?**
+A: Yes, the EU Blue Card is available for highly qualified non-EU workers in Latvia, provided the job requires higher professional education (typically a bachelor’s or equivalent) and meets the salary threshold (at least 1.5 times the average gross annual salary in Latvia). For this occupation, the card is applicable if the role is classified as a specialist position. Alternatively, a standard work permit may be used for lower-skilled roles.
+
+**Q: What are the typical educational requirements and career prospects for this role in Latvia?**
+A: Most employers in Latvia require a secondary vocational education in health information management or a related field, often supplemented by a professional qualification from an accredited institution. On-the-job training in specific health IT systems is common. Career progression includes senior technician, health data analyst, or department supervisor. Continuing education is valued, and proficiency in Latvian and English is often required.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-high (★★★☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium (★★½☆☆) |
+| Income level | medium-high (★★★★☆) |
+| Work intensity | low (★½☆☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium-high (★★★☆☆) |
+
+---
+
+## Data sources
+
+- The Central Statistical Bureau of Latvia (CSB) & Eurostat SES (ISCO-08)
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-record-and-health-information-technician/LV)**

@@ -4,8 +4,6 @@
 
 A doctor who diagnoses mental health disorders and provides medication treatment and psychotherapy.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A doctor who diagnoses mental health disorders and provides medication treatment
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists psychiatrists in diagnosis, counseling record analysis, etc., but it is difficult to replace human empathy and therapeutic relationships. AI is expected to improve work efficiency.
-
 General doctor → Resident (intern/resident 4 years) → Mental health specialist → Private practice/professor/researcher. Career built at university hospitals or private clinics.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ General doctor → Resident (intern/resident 4 years) → Mental health speciali
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | As a specialized medical professional, can work at domestic hospitals. Requires Korean medical license and employer. |
-| Subclass F-2 (Residence Visa) | Long-term stay possible. No work permit required. |
-| Subclass F-5 (Permanent Residence Visa) | Permanent resident. No employment restrictions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: Possible, but obtaining a Korean medical license is mandatory, and an E-7 vis
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychiatrist/KR)**

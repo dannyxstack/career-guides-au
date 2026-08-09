@@ -53,8 +53,6 @@ Food preparation workers handle various food preparation tasks besides cooking, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Food preparation workers face a high risk of automation replacement; pre-made foods, automatic vegetable cutters, and smart meal preparation systems will significantly reduce demand for simple repetitive ingredient handling positions.
-
 Career progression is limited, typically from food preparation worker to chef or kitchen supervisor, can also transition to restaurant management or specialty culinary fields.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career progression is limited, typically from food preparation worker to chef or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can advance through experience to chef, kitchen supervisor, or restaurant man
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-preparation-workers/US)**

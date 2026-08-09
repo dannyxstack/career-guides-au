@@ -52,8 +52,6 @@ Surgical technicians assist surgeons and nurses in the operating room, preparing
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
-
 Junior surgical technologists can gain experience and advance to lead surgical technologist or operating room manager, or further study to become a registered nurse or surgical assistant.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior surgical technologists can gain experience and advance to lead surgical t
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card category requiring PERM labor certification, suitable for experienced surgical technologists |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residency pathway, requiring proof of labor shortage |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Most employers require passing the NBSTSA certified surgical technologist exa
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgical-technologists/US)**

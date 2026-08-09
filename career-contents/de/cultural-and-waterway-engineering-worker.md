@@ -53,8 +53,6 @@ Engaged in planning, construction and maintenance of engineering projects such a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on culture and waterway engineering occupations is mixed: routine surveying and documentation are easily automated, but on-site construction, cultural heritage restoration, and complex hydrological decisions rely on human experience, making AI more of an enhancement tool than a replacement.
-
 Progress from technician (Facharbeiter) to foreman (Meister) or technical engineer (Techniker), or move into project management or planning roles through further education.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Progress from technician (Facharbeiter) to foreman (Meister) or technical engine
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German-recognized qualification or vocational credential, and the employer provides an employment contract. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, suitable for professional talents still in the job-seeking stage |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires completing a 3-year dual vocational training or 2-year tec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cultural-and-waterway-engineering-worker/DE)**

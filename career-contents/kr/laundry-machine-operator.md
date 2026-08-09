@@ -4,8 +4,6 @@
 
 Operate industrial washing machines in a laundry factory to wash, dry, and iron clothing, bedding, work uniforms, etc., and manage the machines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Operate industrial washing machines in a laundry factory to wash, dry, and iron 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation optimize parts of the laundry process (sorting, drying temperature control), but most tasks involve machine operation and physical handling, making rapid substitution difficult. However, the introduction of automated laundry lines is expected to gradually reduce labor demand and shrink employment scale.
-
 Start as a machine operation assistant, then advance to main operator or shift leader after gaining skills, and may transition to regular positions in large-scale laundry factories or industrial sites.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Start as a machine operation assistant, then advance to main operator or shift l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Targeting foreign workers in manufacturing, service industries, etc., may include laundry work. Quotas are limited. |
-| Subclass E-7 (Specific Activities (E-7)) | Possible if skilled as an experienced laundry machine operator, but rare. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans (China, CIS, etc.) can work in laundry industry with no activity restrictions. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: A laundry technician certificate is advantageous but not legally mandatory; i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-machine-operator/KR)**

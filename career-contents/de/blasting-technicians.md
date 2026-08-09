@@ -52,8 +52,6 @@ Responsible for safely conducting blasting operations in construction, mining, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 Starting as a junior assistant, you can progress to blasting supervisor or project manager with experience, or become a blasting engineer through further education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior assistant, you can progress to blasting supervisor or proje
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain German-recognized blaster vocational qualification |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, requiring proof of skills or work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must pass credential recognition (Anerkennung) to prove that qualifications a
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/blasting-technicians/DE)**

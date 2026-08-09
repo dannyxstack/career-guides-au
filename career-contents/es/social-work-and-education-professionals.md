@@ -54,8 +54,6 @@ Social workers and educators provide social assistance, educational support, and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate administrative paperwork and data analysis tasks, but core social work and educational interactions rely on interpersonal trust and emotional support, resulting in a mixed overall situation for positions.
-
 Frontline social workers can be promoted to team leader, project coordinator, or social services director; Continuous training is needed to enhance professional capabilities.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Frontline social workers can be promoted to team leader, project coordinator, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Must obtain a Spanish employer employment contract and pass a labor market test (if applicable). |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly educated or highly skilled talents, with an annual salary meeting the threshold (approximately €33,908). |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled non-EU citizens, a university degree or 5 years of experience is required, with a contract annual salary of no less than €33,908 (2023 standard). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: A bachelor's degree in social work or social education (Grado) is usually req
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-and-education-professionals/ES)**

@@ -51,8 +51,6 @@ Mining and metallurgical technicians in Italy's mining and metal processing indu
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
-
 Initially can work as a field technician or laboratory analyst, and with experience can advance to senior technician or production supervisor; some can transition to engineering management or safety supervision roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Initially can work as a field technician or laboratory analyst, and with experie
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires bachelor's degree or above and meets salary threshold (approx. annual salary ≥ 24,000 euros), can bring family, fast track to permanent residence. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa for non-EU citizens, requires employer sponsorship, applies to shortage occupations, quota is limited and needs to be registered quickly. |
-| Subclass Nulla Osta (Nulla Osta) | Work permit certification, as a prerequisite for Decreto Flussi or EU Blue Card applications, reviewed by the Italian labor authority. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Employment prospects are stable, especially in the northern industrial area; 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-metallurgical-technician/IT)**

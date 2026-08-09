@@ -53,8 +53,6 @@ Midwives provide care during pregnancy, childbirth, and postpartum, including pr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
-
 Career development path: can advance from clinical midwife to senior midwife, department head, or teaching midwife. Can also open an independent midwifery clinic or transition to academic research/lecturer roles. Some enter health management or policy fields.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career development path: can advance from clinical midwife to senior midwife, de
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to midwives who have completed German vocational training or obtained qualification recognition, and need an employment contract. |
 | Subclass Recognition (Recognition of Foreign Qualifications) | Must first apply for midwifery qualification certification before engaging in the profession. During the certification period, you can enter the country with a job-seeking visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Need to first obtain qualification recognition (Anerkennung), then get a job 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwife/DE)**

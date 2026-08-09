@@ -51,8 +51,6 @@ An automotive assembly supervisor oversees and manages the assembly line operati
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The supervisory, scheduling, and quality control responsibilities of an automotive assembly supervisor are difficult to fully replace with AI, but AI will significantly enhance their data analysis and process optimization capabilities; at the same time, some standardized supervisory tasks may be taken over by automation systems, accelerating the upgrade of job skill requirements.
-
 Promotion from assembly line worker to supervisor typically requires several years of experience and relevant certifications. Further advancement to production manager or plant operations is possible. Participating in electric vehicle training will enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promotion from assembly line worker to supervisor typically requires several yea
 | Subclass PNP (Provincial Nominee Program) | Provinces such as Ontario may prioritize nominations for manufacturing supervisors. Must meet provincial nomination requirements. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, especially where skill shortages exist. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. This occupation is NOC TEER 0 and meets Express Entry requirements. Requ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-motor-vehicle-assembling/CA)**

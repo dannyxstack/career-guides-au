@@ -52,8 +52,6 @@ Metal engineering process workers operate and monitor metal processing equipment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Metal engineering process workers will face the dual impact of automation and AI: repetitive operational tasks (e.g., monitoring, simple cutting) are easily replaced, but anomaly handling, quality judgment, and multi-machine coordination still rely on human experience. It is recommended to transition to automation system debugger or multi-skilled technician roles.
-
 Can advance from operator to senior operator, supervisor, or quality controller. Accumulating over 5 years of experience and obtaining a New Zealand qualification or industry certificate (e.g., New Zealand Certificate in Engineering Fabrication) can broaden career paths. Some may transition to engineering technicians.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from operator to senior operator, supervisor, or quality controller.
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, requiring a 6-point system (qualifications + work experience), occupations at ANZSCO skill levels 4-5 need high salary. |
 | Subclass Green List T2 (Green List Tier 2) | Green List Second Tier, eligible for residence after 2 years of work, requires employer sponsorship |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Medium difficulty. This occupation is ANZSCO level 4 and needs to meet high s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-engineering-process-worker/NZ)**

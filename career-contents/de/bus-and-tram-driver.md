@@ -54,8 +54,6 @@ Bus and tram drivers operate city buses or trams, safely transport passengers, f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Starting as a driver, with opportunities to advance to fleet dispatcher, instructor, or operations supervisor. Can also transition into logistics or passenger transport management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a driver, with opportunities to advance to fleet dispatcher, instruc
 | Subclass Chancenkarte (Opportunity Card) | A points-based system allowing job-seeking in Germany, subject to language, age and other conditions |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay for job seeking; must prove financial capability |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to dispatcher, trainer, or operations manager, or become an inter
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-and-tram-driver/DE)**

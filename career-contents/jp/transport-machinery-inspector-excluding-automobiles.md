@@ -4,8 +4,6 @@
 
 A specialist who inspects the quality and safety of transport machinery such as railway vehicles, ships, and aircraft. Inspects dimensions, functions, and appearance of finished products and parts to ensure compliance with standards.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A specialist who inspects the quality and safety of transport machinery such as 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and automation improve inspection efficiency and accuracy, but full replacement is difficult. Many areas require human judgment, with AI used as a tool.
-
 At major manufacturers and railway companies, advancement is based on skill certification and in-house qualifications. Career paths include lead inspector or quality control manager, requiring extensive experience and credentials. At SMEs, the focus is on specialist roles.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ At major manufacturers and railway companies, advancement is based on skill cert
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of work experience. Knowledge of mechanical engineering is required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | As of 2026, not included in target fields, acquisition unlikely. |
-| Subclass 技能 (Skilled Labor Visa) | Requires advanced skills and 10+ years of work experience. Application is limited. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: Possible even with just a high school diploma, but vocational school training
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-machinery-inspector-excluding-automobiles/JP)**

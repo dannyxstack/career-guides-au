@@ -54,8 +54,6 @@ Religious professionals are responsible for religious ceremonies, spiritual guid
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's overall impact on religious professionals is mixed: ritual preparation and administrative tasks can be automated, but core functions like spiritual comfort and moral guidance are hard to replace, and entry-level positions have slightly narrowed due to increased digital demands.
-
 Career progression includes advancing from assistant pastor to senior pastor or religious leader, or transitioning to religious education or charity management.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression includes advancing from assistant pastor to senior pastor or 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Mainly through General Employment Permit or Critical Skills Employment Permit
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-professional/IE)**

@@ -52,8 +52,6 @@ Protect and promote health and safety in workplaces and communities, assess and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has mixed effects on environmental and occupational health professionals: tasks like data monitoring and report generation will be automated, but on-site assessments, regulation interpretation, and risk management decisions still require human expertise.
-
 Can progress from junior technician to senior specialist, team leader, or consultant. With experience, can take on management roles in multinational companies or public institutions, or transition to specialized fields like environmental monitoring or industrial hygiene.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from junior technician to senior specialist, team leader, or consul
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For skilled non-EU citizens, requiring a university degree and a job contract with salary at least 1.5 times the average wage. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, applicable to all occupations, requires employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit issued by the Italian labor office, requires employer application, usually tied to the employment contract. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Immigration is possible via the EU Blue Card (requires a high-salary job cont
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-and-occupational-health-and-hygiene-professional/IT)**

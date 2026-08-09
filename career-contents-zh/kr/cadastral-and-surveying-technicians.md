@@ -1,10 +1,8 @@
-# Cadastral and Surveying Technicians 职业分析 · 韩国
+# 地籍与测量技术员（Cadastral and Surveying Technicians）职业分析 · 韩国
 
-**职业代码: 14061 (KECO)**
+**职业代码：14061 (KECO)**
 
-Specialists who collect and analyze cadastral (land) survey and spatial information to create drawings, measure land boundaries and areas, and manage various cadastral records.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+收集和分析地籍（土地）测量与空间信息，制作图纸、测量土地边界和面积，管理各种地籍记录的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ Specialists who collect and analyze cadastral (land) survey and spatial informat
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (Surveying/Cadastral-related departments) | 2 年 | $6,000,000~$8,000,000（Annual tuition standard） |
-| University (Cadastral Studies, Civil Engineering, etc.) | 4年 | $8,000,000~$12,000,000（Annual tuition standard） |
+| 专科学校（测量/地籍相关专业） | 2 年 | $6,000,000~$8,000,000（年度学费标准） |
+| 大学（地籍研究、土木工程等） | 4年 | $8,000,000~$12,000,000（年度学费标准） |
 
 ---
 
@@ -22,18 +20,18 @@ Specialists who collect and analyze cadastral (land) survey and spatial informat
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cadastral Engineer (Gisaneungsa) | Human Resources Development Service of Korea | 必备 | National technical qualification, required |
-| Surveying and Geospatial Information Engineer (Cheukryang mit Jihyeong Gonggan Jeongbogisa) | Human Resources Development Service of Korea | 必备 | National technical qualification, required |
-| Cadastral Technician (Gisaneungneungsa) | Human Resources Development Service of Korea | 可选 | 入行基础资质 |
+| 地籍工程师（Gisaneungsa） | 韩国人力资源开发服务局 | 必备 | 国家技术资格，必需 |
+| 测量与地理空间信息工程师（측량 및 지형공간정보기사） | 韩国人力资源开发服务局 | 必备 | 国家技术资格，必需 |
+| 地籍技术员（Gisaneungneungsa） | 韩国人力资源开发服务局 | 可选 | 入行基础资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. Demand is expected to continue due to increased needs for spatial information in national land development, smart cities, and digital twins, but entry barriers exist due to technological changes from the 4th Industrial Revolution and competition for certification.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。由于国土开发、智慧城市和数字孪生对空间信息需求的增加，需求预计将持续，但由于第四次工业革命带来的技术变化和认证竞争，存在进入门槛。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,96 +39,88 @@ Specialists who collect and analyze cadastral (land) survey and spatial informat
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on small surveying firms |
-| Mid-level (4-9 years) | $38,000,000~$50,000,000 | Including Professional Engineer |
-| 资深（10年以上） | $50,000,000~$70,000,000 | Based on public institutions/large companies |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 根据小型测量公司 |
+| 中级（4-9年） | $38,000,000~$50,000,000 | 包括专业工程师 |
+| 资深（10年以上） | $50,000,000~$70,000,000 | 基于公共机构/大型企业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-With the introduction of drones, 3D scanners, and automated surveying software, repetitive surveying tasks become automated, but human roles remain essential for interpreting spatial information, legal judgment, and on-site decision-making. AI serves as a tool to enhance work efficiency, adding greater value to advanced technicians.
+随着无人机、3D扫描仪和自动化测量软件的引入，重复性的测量任务实现自动化，但人类角色在解读空间信息、法律判断和现场决策中仍然不可或缺。人工智能作为工具提升工作效率，为高级技术人员增加更大价值。
 
-Typical career progression: Technician/Engineer → Industrial Engineer → Professional Engineer; after gaining experience in public institutions, surveying firms, or engineering companies, self-employment is possible.
+典型职业发展路径：技术员/工程师 → 工业工程师 → 专业工程师；在公共机构、测量公司或工程公司获得经验后，可自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Repetitive Surveying
-- Manual Cadastral Drawing
-- Field Data Recording
+- 简单重复测量
+- 手工地籍绘图
+- 现场数据记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone-based Surveying
-- 3D Modeling
-- GIS Analysis
-- Real-time GNSS Surveying
+- 无人机测绘
+- 3D建模
+- GIS分析
+- 实时GNSS测量
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal Boundary Determination
-- On-site Contingency Handling
-- Regulatory Interpretation
-- Client Consultation
+- 法律边界确定
+- 现场应急处理
+- 法规解读
+- 客户咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Drone Pilot License
-- 3D Scan/Modeling
-- GIS Software
-- Python/Automation Scripts
+- 无人机驾驶员执照
+- 三维扫描/建模
+- GIS软件
+- Python/自动化脚本
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Drone Surveying
-- Smart City
-- 3D Scanning
-- Digital Twin
+- 无人机测绘
+- 智慧城市
+- 3D扫描
+- 数字孪生
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Must be invited by employer as skilled worker in surveying/cadastral field, required certification and experience proof |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for surveyors due to non-professional nature, limited application |
-| Subclass F-2 (Residence) | Possible for long-term stay, point-based visa beneficial for skilled workers |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer outdoor activities
-- People with precision work and spatial perception skills
-- People adept at understanding regulations and document work
+- 喜欢户外活动的人
+- 具备精密工作和空间感知能力的人
+- 擅长理解法规和文件工作的人
 
 **谁不适合**
-- People preferring only indoor office work
-- People who find repetitive precision work tedious
+- 只喜欢室内办公室工作的人
+- 觉得重复性精细工作枯燥的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a cadastral/survey technician?**
-答：Entry-level (0-3 years experience) approximately KRW 28-35 million, senior (10+ years) around KRW 50-70 million, with additional allowances for professional engineer certification.
+**问：地籍/测量技术员的平均工资是多少？**
+答：初级（0-3年经验）约2800-3500万韩元，高级（10年以上）约5000-7000万韩元，持专业工程师证另有津贴。
 
-**问：What visa does a foreigner need to work as a surveyor in Korea?**
-答：E-7 (Specific Activities) visa is common, and relevant certification such as Land Surveyor and proof of experience are essential. It is also possible to convert to an F-2 (Points System) visa.
+**问：外国人在韩国做测量师需要什么签证？**
+答：E-7（特定活动）签证常见，相关认证如土地测量师和经验证明至关重要。也可转换为F-2（积分制）签证。
 
-**问：What education is required to obtain a Land Surveyor certification?**
-答：You need to graduate from a junior college or 4-year university in a field such as cadastral studies or surveying, or complete relevant credits through a credit bank system, and then pass the written and practical exams.
+**问：获得土地测量师认证需要什么教育背景？**
+答：需在地籍研究或测量等领域的专科学校或4年制大学毕业，或通过学分银行完成相关学分，并通过笔试和实践考试。
 
 
 ---
@@ -148,12 +138,12 @@ Typical career progression: Technician/Engineer → Industrial Engineer → Prof
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cadastral-and-surveying-technicians/KR)**

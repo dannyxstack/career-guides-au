@@ -1,8 +1,8 @@
-# Construction and Mining Machinery Installer/Repairer 职业分析 · 韩国
+# 建筑和采矿机械安装工/修理工（Construction and Mining Machinery Installer/Repairer）职业分析 · 韩国
 
-**职业代码: 81161 (KECO)**
+**职业代码：81161 (KECO)**
 
-A specialized technical profession responsible for installing, maintaining, and repairing heavy construction and mining equipment such as excavators, loaders, and cranes.
+负责安装、维护和修理重型建筑与采矿设备（如挖掘机、装载机和起重机）的专业技术职业。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized technical profession responsible for installing, maintaining, and 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School (Specialized/Meister High School) Mechanical Department | 3年 | $0~$0（公立免费教育） |
-| Junior College Mechanical Field (2-3 year programs) | 2-3年 | $2,000,000~$6,000,000（Annual tuition fee basis） |
-| Polytechnic College Construction Machinery Maintenance Department | 2 年 | $0~$500,000（Government funding available） |
+| 高中（专科/Meister高中）机械科 | 3年 | $0~$0（公立免费教育） |
+| 专科机械领域（2-3年制课程） | 2-3年 | $2,000,000~$6,000,000（按年学费计算） |
+| 理工学院工程机械维修系 | 2 年 | $0~$500,000（可申请政府资助） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialized technical profession responsible for installing, maintaining, and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Machinery Maintenance Technician | Human Resources Development Service of Korea | 可选 | Basic certification |
-| Construction Machinery Maintenance Industrial Engineer | Human Resources Development Service of Korea | 可选 | Required for intermediate technicians |
-| Excavator Operation Technician | Human Resources Development Service of Korea | 可选 | Extra points for excavator maintenance |
+| 建筑机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 基础认证 |
+| 建筑机械维修工业工程师 | 韩国人力资源开发服务局 | 可选 | 中级技术员所需 |
+| 挖掘机操作技术员 | 韩国人力资源开发服务局 | 可选 | 挖掘机保养额外加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 32,000. Employment is sustained due to domestic SOC investment and redevelopment demand, but the need for skilled workers is expected to change gradually due to the decline of internal combustion equipment and the shift to electrification.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 32,000。由于国内SOC投资和再开发需求，就业得以维持，但随着内燃设备减少和电气化转型，对技术工人的需求预计将逐渐变化。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,85 @@ A specialized technical profession responsible for installing, maintaining, and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$35,000,000 | Based on SMEs |
-| 中级（4-9年） | $38,000,000~$50,000,000 | Including large corporations and repair plants |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Technician/Site manager level |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4-9年） | $38,000,000~$50,000,000 | 包括大型企业和修理厂 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 技术员/现场经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation play a supporting role in some diagnostic and parts management areas of construction equipment maintenance, but on-site repair and maintenance work requires physical manipulation and empirical judgment, making complete replacement difficult.
+AI和自动化在建筑设备维护的某些诊断和零件管理领域起到辅助作用，但现场维修保养工作需要物理操作和经验判断，完全替代困难。
 
-With field experience and certification, one can advance to a technician (master craftsman) or be promoted to a maintenance team leader or site manager at a large company.
+拥有现场经验和认证后，可晋升为技师（工匠）或在大公司晋升为维护团队领导或现场经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing regular inspection reports
-- Parts inventory management
-- Basic oil change tasks
+- 编写定期检查报告
+- 零件库存管理
+- 基础换油任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault prediction via AI-based diagnostic systems
-- Remote maintenance support using AR glasses
-- Analysis of maintenance history data
+- 基于人工智能诊断系统的故障预测
+- 使用AR眼镜的远程维护支持
+- 维护历史数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical repair manipulation skills
-- Solving unstructured problems based on field experience
-- Safety management and risk response
+- 物理修复操作技能
+- 基于现场经验解决非结构化问题
+- 安全管理与风险应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric equipment maintenance skills
-- Using IoT Sensors and Diagnostic Equipment
-- Managing Digital Maintenance Records
+- 电气设备维护技能
+- 使用物联网传感器和诊断设备
+- 管理数字化维护记录
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction equipment maintenance
-- Excavator maintenance
-- Crane maintenance
-- Heavy equipment maintenance
+- 建筑设备维护
+- 挖掘机维护
+- 起重机维护
+- 重型设备维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when expertise is recognized in construction and mining sectors as a skilled functional worker |
-| Subclass E-9 (Non-professional Employment) | Limited to unskilled labor at construction sites as a non-professional worker |
-| Subclass F-2 (Residence) | Eligible for employment after long-term stay under a points system |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work in the construction machinery repair industry |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who enjoys mechanical disassembly and assembly
-- Someone who has no objection to outdoor site work
-- Someone with a tendency to strictly follow safety rules
+- 喜欢机械拆卸和组装的人
+- 不反对户外现场工作的人
+- 倾向于严格遵守安全规则的人
 
 **谁不适合**
-- Person who prefers indoor office work
-- Person who dislikes repetitive and simple tasks
+- 偏好室内办公室工作的人
+- 不喜欢重复简单工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a construction equipment mechanic?**
-答：Entry-level annual salary is 28-35 million KRW, and with a technician certificate, it can be over 30 million KRW.
+**问：建筑设备机械师的起薪是多少？**
+答：入门级年薪为2800-3500万韩元，拥有技术员证书可超过3000万韩元。
 
-**问：Can foreigners get a work visa for this job?**
-答：Yes, it is possible under the E-7 (Skilled Worker) visa or E-9 (Non-professional Employment) visa. However, E-7 requires certain experience and qualifications.
+**问：外国人能获得这份工作的工作签证吗？**
+答：是的，在E-7（熟练工人）签证或E-9（非专业就业）签证下是可能的。然而，E-7要求一定的经验和资质。
 
-**问：Are there required certificates?**
-答：Not legally required, but having at least a Construction Equipment Mechanic Technician certificate is advantageous for employment and required by most companies.
+**问：是否需要证书？**
+答：法律未强制要求，但拥有至少建筑设备机械技师证书对就业有利，且大多数公司要求。
 
 
 ---
@@ -144,12 +136,12 @@ With field experience and certification, one can advance to a technician (master
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-and-mining-machinery-installer-repairer/KR)**

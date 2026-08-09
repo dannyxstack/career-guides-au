@@ -51,8 +51,6 @@ Supervise cleaning and housekeeping services in hotels, resorts, or other accomm
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of an executive housekeeper has mixed prospects: AI can take over scheduling, inventory forecasting, and report generation, but on-site cleanliness inspections, guest complaint handling, and team coordination still require humans, and competition for entry-level positions is intensifying.
-
 Typically advance from room attendant to supervisor or manager, with potential to move to regional manager or hotel operations director.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Typically advance from room attendant to supervisor or manager, with potential t
 | Subclass PNP (Provincial Nominee Program) | Provinces have nomination programs for the hospitality industry, requiring employer support |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, then apply for permanent residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Eligible for Fast Track or Provincial Nominee Program, but usually requires e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/executive-housekeepers/CA)**

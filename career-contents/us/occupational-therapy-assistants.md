@@ -52,8 +52,6 @@ Assist occupational therapists in providing treatment services, including develo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI as a powerful assistive tool will greatly enhance the efficiency of occupational therapy assistants, but will not replace core interpersonal interaction and clinical judgment; overall risk is low.
-
 Can advance from junior assistant to senior assistant or supervisor; some become occupational therapists through continuing education (requires master's degree). Also can transition to rehabilitation management or teaching roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior assistant to senior assistant or supervisor; some become
 | Subclass EB-3 (EB-3 Skilled Workers) | Apply for a green card through PERM labor certification, requires employer sponsorship |
 | Subclass TN (TN NAFTA Professional) | Applies only to Canadian and Mexican citizens; occupational therapy assistants are not on the TN list but may try |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Usually requires an associate's degree, but H-1B requires at least a bachelor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapy-assistants/US)**

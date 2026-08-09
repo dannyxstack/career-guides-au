@@ -53,8 +53,6 @@ Event and stage technology experts plan, install, and operate audio-visual, ligh
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate basic tasks like lighting/sound programming, but on-site project management and creative coordination skills are amplified; the role will not disappear but entry paths will narrow.
-
 Practitioners can advance from technician to technical supervisor, technical director, or project manager. Through further education, they can move towards system integration, event planning, or professional training, and some start their own technical service companies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Practitioners can advance from technician to technical supervisor, technical dir
 | Subclass Skilled Worker (Skilled Worker Visa) | German skilled immigration law pathway, requires recognised vocational qualification (e.g., dual system certificate) and a job offer. |
 | Subclass Chancenkarte (Opportunity Card) | The Opportunity Card allows applicants who have not yet found a job to seek employment in Germany; points criteria (language, professional qualifications, age, etc.) must be met. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to technical supervisor, technical director, or project manag
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-and-stage-technology-specialist/DE)**

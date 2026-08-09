@@ -1,8 +1,8 @@
-# Construction Machinery Engineer and Researcher 职业分析 · 韩国
+# 建筑机械工程师和研究员（Construction Machinery Engineer and Researcher）职业分析 · 韩国
 
-**职业代码: 15111 (KECO)**
+**职业代码：15111 (KECO)**
 
-A professional who designs, develops, tests, and researches construction machinery such as excavators and cranes used at construction sites. Based on mechanical engineering knowledge, they are responsible for performance improvement and new technology development.
+设计、开发、测试和研究建筑工地使用的挖掘机、起重机等工程机械的专业人士。基于机械工程知识，负责性能改进和新技术开发。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who designs, develops, tests, and researches construction machine
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduation from a 4-year university mechanical engineering department | 4年 | $20,000,000~$40,000,000（含学费和生活费） |
-| Mechanical Design Department at a Junior College | 2 年 | $10,000,000~$20,000,000（National scholarship possible） |
-| Master's (Mechanical Engineering) | 2 年 | $15,000,000~$30,000,000（Research funding support possible） |
+| 4年制大学机械工程专业毕业 | 4年 | $20,000,000~$40,000,000（含学费和生活费） |
+| 专科学校机械设计系 | 2 年 | $10,000,000~$20,000,000（可申请国家级奖学金） |
+| 硕士（机械工程） | 2 年 | $15,000,000~$30,000,000（可能提供研究经费支持） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who designs, develops, tests, and researches construction machine
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| General Mechanical Engineer | Human Resources Development Service of Korea | 必备 | Basic mechanical engineering qualification, required by many companies |
-| Professional Mechanical Engineer | Korean Professional Engineers Association | 可选 | Top qualification in construction machinery, advantageous for employment and promotion |
-| Construction Machinery Maintenance Technician | Human Resources Development Service of Korea | 可选 | Useful for maintenance and repair fields, for entry-level technicians |
+| 通用机械工程师 | 韩国人力资源开发服务局 | 必备 | 许多公司要求具备基础机械工程资格 |
+| 专业机械工程师 | 韩国专业工程师协会 | 可选 | 建筑机械最高资质，有利于就业和晋升 |
+| 建筑机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 对维护和维修领域有用，适用于初级技术人员 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 12,000. Due to the slowdown in the domestic construction market and the introduction of automation, job growth is limited, but the demand for core personnel remains steady due to the replacement of aging infrastructure and the need for smart construction machinery.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 12,000。由于国内建筑市场放缓及自动化引入，就业增长有限，但因基础设施老化和智能工程机械需求，核心人员需求保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,85 @@ A professional who designs, develops, tests, and researches construction machine
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $30,000,000~$45,000,000 | For new/entry level |
-| Mid Level (4-7 years) | $45,000,000~$65,000,000 | Can take project leadership |
-| Advanced (8+ years) | $65,000,000~$99,999,999 | Senior researcher · Team leader level |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 适合新手/入门级 |
+| 中级（4-7年经验） | $45,000,000~$65,000,000 | 能担任项目领导 |
+| 高级（8年以上） | $65,000,000~$99,999,999 | 高级研究员·团队领导级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation can replace repetitive, computational tasks like construction machinery design, simulation, and data analysis, but complete replacement is difficult as areas requiring human experience and judgment—such as field adaptation, creative design, and safety certification/regulatory response—remain important.
+AI和自动化可以替代重复性、计算性任务，如工程机械设计、仿真和数据分析，但完全替代困难，因为需要人类经验和判断的领域——如现场适应、创意设计、安全认证/法规应对——仍然重要。
 
-After joining the R&D center of a large corporation or mid-sized company, one can advance to senior or principal researcher, or after obtaining a professional engineer license, move into independent consulting, patents, or standardization fields.
+加入大型企业或中型公司的研发中心后，可晋升为高级或首席研究员，或在获得专业工程师执照后转向独立咨询、专利或标准化领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive calculations and document writing
-- Basic 3D modeling and drawing review
-- Data collection and analysis of existing component performance
+- 简单的重复性计算和文档撰写
+- 基础3D建模和图纸审查
+- 现有组件性能的数据收集与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Utilizing generative AI for optimal design
-- Real-time remote monitoring and predictive maintenance
-- Virtual reality (VR)-based simulation and safety verification
+- 利用生成式AI进行优化设计
+- 实时远程监控与预测性维护
+- 基于虚拟现实的模拟与安全验证
 
-**人类护城河:**
+**人类护城河：**
 
-- Comprehensive judgment considering field safety and regulations
-- Ability to identify customer requirements and reflect them in design
-- Mechanical-electrical-software integrated system design
+- 综合考虑现场安全与法规的全面判断
+- 识别客户需求并体现在设计中的能力
+- 机电软一体化系统设计
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of AI and machine learning
-- Autonomous driving and sensor fusion technology
-- Data analysis (Python, R)
-- Collaboration and communication skills
+- 人工智能与机器学习基础
+- 自动驾驶与传感器融合技术
+- 数据分析（Python, R）
+- 协作与沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction machinery
-- Autonomous heavy equipment
-- Electrified excavator
-- Remote control system
+- 智能工程机械
+- 自主重型设备
+- 电动挖掘机
+- 远程控制系统
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities visa) | For skilled foreign experts in construction machinery R&D, issued when degree and experience requirements are met |
-| Subclass F-2 (Residence visa) | Long-term stay and employment possible, transitioning from E-7 or pre-permanent residence step |
-| Subclass D-10 (Job-seeking visa) | For job-seeking after graduating from a domestic university, with potential employment in related fields |
-| Subclass E-9 (Non-professional Employment visa) | Not applicable (Construction machinery technicians are high-skilled, not E-9 eligible) |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with high understanding of mechanical engineering and problem-solving skills
-- A practical engineer who enjoys design and improvement based on field experience
+- 具备高度机械工程理解和解决问题能力的人
+- 一位喜欢基于现场经验进行设计和改进的实践工程师
 
 **谁不适合**
-- Someone who extremely dislikes practical work over theory
-- Person who prefers only repetitive, static office work
+- 极度厌恶理论偏向实践的人
+- 只喜欢重复性、静态办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level of a construction machinery engineer?**
-答：For entry-level, it's 30-45 million KRW; for senior-level with over 8 years of experience, it's 65 million to 100 million KRW. There are variations between large corporations' R&D centers and mid-sized companies.
+**问：工程机械工程师的薪资水平如何？**
+答：入门级为3000-4500万韩元；高级（8年以上经验）为6500万至1亿韩元。大企业研发中心与中型企业之间存在差异。
 
-**问：What visa do foreigners need to work in this field?**
-答：E-7 (Specific Activities) visa is most common, requiring a bachelor's degree or higher and related experience (typically 3 years). Some smart construction machinery research institutes may allow conversion to F-2 (Residence) visa.
+**问：外国人从事该领域工作需要什么签证？**
+答：E-7（特定活动）签证最常见，要求本科及以上学历及相关经验（通常3年）。部分智能建筑机械研究机构可能允许转为F-2（居住）签证。
 
-**问：What is the outlook for this occupation?**
-答：The traditional construction machinery market is stagnant, but demand for R&D personnel remains due to the adoption of smart technologies like electrification, autonomous driving, and remote control. However, hiring scale is smaller than general office jobs, leading to competition.
+**问：该职业的前景如何？**
+答：传统工程机械市场低迷，但由于电动化、自动驾驶和远程控制等智能技术的采用，研发人员需求依然存在。不过，招聘规模小于一般办公室工作，导致竞争激烈。
 
 
 ---
@@ -144,12 +136,12 @@ After joining the R&D center of a large corporation or mid-sized company, one ca
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-machinery-engineer-and-researcher/KR)**

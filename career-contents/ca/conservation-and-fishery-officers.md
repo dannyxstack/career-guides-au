@@ -53,8 +53,6 @@ Enforce fisheries, wildlife, and environmental protection laws; patrol waters an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on natural resource protection officers is mixed: automation tools can handle reports and data analysis, enhancing patrol decisions; but on-site enforcement, discretion, and human judgment are hard to replace, overall risk medium-high.
-
 Starting as a junior inspector, gain experience to advance to senior officer, regional supervisor, or policy-making roles. Some transition into resource management or consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as a junior inspector, gain experience to advance to senior officer, re
 | Subclass PNP (Provincial Nominee Program) | Provinces (e.g., BC, Ontario) have natural resource-focused provincial nomination programs that can expedite immigration. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work visa, but this role is usually held by citizens or PRs. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires good physical fitness, ability to walk, swim, and operate boats for 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conservation-and-fishery-officers/CA)**

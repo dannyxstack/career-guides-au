@@ -1,10 +1,8 @@
-# Film Scenario Writer 职业分析 · 韩国
+# 电影剧本作家（Film Scenario Writer）职业分析 · 韩国
 
-**职业代码: 41113 (KECO)**
+**职业代码：41113 (KECO)**
 
-A professional writer who creates and adapts movie scenarios and structures stories, performing the role of a key planner in film production.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专业编剧，创作并改编电影剧本，构建故事结构，担任电影制作关键策划角色。
 
 
 ---
@@ -13,8 +11,8 @@ A professional writer who creates and adapts movie scenarios and structures stor
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Film/Creative Writing major at a junior college or university | 4年 | $20,000,000~$60,000,000（Including tuition and material fees） |
-| Completion of a specialized scenario academy program | 1年 | $3,000,000~$10,000,000（Short-term course） |
+| 专科或大学电影/创意写作专业 | 4年 | $20,000,000~$60,000,000（包括学费和材料费） |
+| 完成专业情景学院项目 | 1年 | $3,000,000~$10,000,000（短期课程） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional writer who creates and adapts movie scenarios and structures stor
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| No license required | 无 | 可选 | Ability recognized through work output without official certifications |
-| Award in a scenario contest | Ministry of Culture, Sports and Tourism, etc. | 可选 | Awarding advantageous for newcomer entry |
+| 无需执照 | 无 | 可选 | 通过工作成果体现能力，无需正式认证 |
+| 情景竞赛获奖 | 文化体育观光部等 | 可选 | 对新人入职有加分优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Content demand is rising due to OTT platform growth, but low entry barriers lead to fierce competition and stagnant employment.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于OTT平台增长，内容需求上升，但低进入门槛导致竞争激烈，就业停滞。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,89 +38,82 @@ A professional writer who creates and adapts movie scenarios and structures stor
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $12,000,000~$30,000,000 | Per-project contract based on freelance rates |
-| Mid-level (4-8 years) | $30,000,000~$70,000,000 | With stable contracts |
-| 高级（9年以上） | $70,000,000~$99,999,999 | High earnings with hit works |
+| 入门级（0-3年） | $12,000,000~$30,000,000 | 按项目合同，基于自由职业费率 |
+| 中级（4-8年） | $30,000,000~$70,000,000 | 拥有稳定合同 |
+| 高级（9年以上） | $70,000,000~$99,999,999 | 热门作品带来的高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can assist with writing synopses and character settings, but creative plots and dialogue infused with human emotion remain the domain of human writers. AI improves efficiency but cannot fully replace them.
+AI可以帮助撰写大纲和角色设定，但富有情感的创意情节和对话仍属于人类作家的领域。AI提高效率但无法完全取代他们。
 
-Primarily works as a freelancer, initially entering through short films and then building a career via feature-length scenario contests or film company contracts. Career advancement typically involves increased recognition based on project success rather than promotions.
+主要作为自由职业者工作，最初通过短片进入行业，然后通过长片剧本竞赛或电影公司合约建立职业生涯。职业发展通常基于项目成功获得认可，而非晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Drafting synopsis
-- Checking script length
-- Reviewing genre-specific clichés
+- 起草概要
+- 检查脚本长度
+- 审查特定类型的陈词滥调
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Editing character dialogue
-- Optimizing plot structure
-- Quick research
+- 编辑角色对话
+- 优化地块结构
+- 快速研究
 
-**人类护城河:**
+**人类护城河：**
 
-- Original story
-- Emotional depth
-- Cultural insight
+- 原创故事
+- 情感深度
+- 文化洞察
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI prompt engineering
-- Data-driven story analysis
-- Utilizing collaboration tools
+- AI提示工程
+- 数据驱动故事分析
+- 利用协作工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT Content
-- Webtoon Adaptation
-- Global Co-production
-- Short-form Scenarios
+- OTT内容
+- 网漫改编
+- 全球联合制作
+- 短视频脚本
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible if invited by a film production company, but difficult to obtain due to freelancer nature |
-| Subclass F-2 (Residence (F-2)) | General Path for Long-term Stay |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative Storytelling Ability
-- Original Ideas
-- Long Hours of Concentration
+- 创意叙事能力
+- 原创想法
+- 长时间专注
 
 **谁不适合**
-- Rigid Thinking
-- Avoiding Collaboration
+- 思维僵化
+- 避免合作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a screenwriter?**
-答：Entry-level salary is around 12 to 30 million KRW, and depending on experience and hit works, it can go up to 200 million KRW or more. Most are freelancers on contract.
+**问：编剧的平均薪资是多少？**
+答：入门级年薪约为1200万至3000万韩元，根据经验和作品，最高可达2亿韩元以上。多数为合同制的自由职业者。
 
-**问：Can foreigners get a work visa as a screenwriter?**
-答：E-7 visa is possible, but since many are freelancers, you need an employer, and short-term projects are difficult. F-2 (Residence) or F-5 (Permanent Residence) are more realistic.
+**问：外国人能否以编剧身份获得工作签证？**
+答：E-7签证可能，但由于多为自由职业者，需要雇主，短期项目困难。F-2（居住）或F-5（永久居留）更现实。
 
 
 ---
@@ -140,12 +131,12 @@ Primarily works as a freelancer, initially entering through short films and then
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/film-scenario-writer/KR)**

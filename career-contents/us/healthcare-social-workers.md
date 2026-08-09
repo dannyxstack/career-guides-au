@@ -51,8 +51,6 @@ Provide psychosocial support to patients and their families, helping them cope w
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on social workers is mainly augmentation rather than replacement, but entry-level positions face compression from automated administrative tasks; core human skills (empathy, crisis judgment) remain irreplaceable, and demand continues to grow with policy support.
-
 Can advance from junior medical social worker to clinical social worker, supervisor, or program director; with advanced clinical license, can practice independently or open private practice.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior medical social worker to clinical social worker, supervi
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to social workers with a master's degree, requires PERM labor certification, ample visa numbers. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Applying for an employment-based green card through the PERM process; the employer must demonstrate inability to recruit qualified US workers. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Clinical roles require state licensure (e.g., LCSW), typically needing an MSW
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/healthcare-social-workers/US)**

@@ -54,8 +54,6 @@ During food and beverage processing, responsible for testing raw materials, semi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly replace visual inspection and manual grading tasks for agricultural product graders and sorters, but will also create new demands for quality traceability, supply chain coordination, etc. Entry-level positions face compression, but technical upgrade paths are clear
-
 Starting as an entry-level tester or grader, you can progress to quality supervisor, quality control manager, or food safety coordinator. Some roles require HACCP or food safety certification, with future moves into R&D or production management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Starting as an entry-level tester or grader, you can progress to quality supervi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually only a high school diploma is required. Employers may require a food 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/testers-and-graders-food-and-beverage-processing/CA)**

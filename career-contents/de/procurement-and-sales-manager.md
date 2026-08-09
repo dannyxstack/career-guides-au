@@ -53,8 +53,6 @@ Responsible for managing the company's procurement and sales strategies, leading
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
-
 Can progress from procurement specialist or sales representative to department manager, regional director, then to chief procurement officer or vice president of sales.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from procurement specialist or sales representative to department m
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a German-recognized degree or professional qualification. A work contract is sufficient for application, with no annual salary requirement. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allows staying in Germany for one year to find work; requires German B1 or English B2 and sufficient funds. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically progresses from procurement specialist/sales representative to mana
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/procurement-and-sales-manager/DE)**

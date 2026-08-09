@@ -51,8 +51,6 @@ Construction professional specializing in assembling/disassembling scaffolding a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Complete replacement by AI/robots is difficult, but partial introduction of automatic scaffolding assembly systems and drone inspections is advancing. Currently, human skills are indispensable, but remote control technology will likely be used for assistance.
-
 Start as an apprentice, acquire full skills in 2-5 years. Career paths include site supervisor, foreman, or self-employed master. Skill succession is a challenge across the industry.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Start as an apprentice, acquire full skills in 2-5 years. Career paths include s
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i)) | Falls under construction sector. Requires skill test and JLPT N4 or above. Max stay 5 years. |
-| Subclass 技能実習（建設） (Technical Intern Training) | 3-5 years of technical internship. Assumes return to home country, but future transition to Specified Skilled Worker expected. |
-| Subclass 技術・人文知識・国際業務（建設技術者） (Engineer/Specialist in Humanities/International Services) | For engaging in advanced construction techniques or management. Few applicable cases. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: By obtaining qualifications like Scaffolding Work Chief or Grade 1 Skill Test
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/scaffold-worker/JP)**

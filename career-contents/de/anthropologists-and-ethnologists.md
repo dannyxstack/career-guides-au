@@ -55,8 +55,6 @@ Study human culture, social evolution, and biological characteristics, revealing
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Anthropology and ethnology are mixed with AI impact: data sorting and preliminary analysis may be automated, but core fieldwork, cultural understanding, and ethical judgment remain human strengths, with job structure becoming polarized.
-
 Career path: Junior Research Assistant → Researcher/Lecturer → Professor or Museum Curator. Typically requires a PhD and postdoctoral experience, with promotion relying on research output.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Junior Research Assistant → Researcher/Lecturer → Professor or 
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a recognized degree and a job offer, suitable for non-occupations in demand. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month job search in Germany, requiring qualification recognition and proof of funds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: After a PhD, graduates mainly enter universities (postdoc/professor) or museu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anthropologists-and-ethnologists/DE)**

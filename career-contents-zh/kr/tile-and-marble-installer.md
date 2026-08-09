@@ -1,8 +1,8 @@
-# Tile and Marble Installer 职业分析 · 韩国
+# 瓷砖和大理石安装工（Tile and Marble Installer）职业分析 · 韩国
 
-**职业代码: 70241 (KECO)**
+**职业代码：70241 (KECO)**
 
-A skilled worker who cuts, processes, and installs architectural finishing materials such as tile, marble, and mosaic on floors and walls.
+对地面和墙壁铺设瓷砖、大理石、马赛克等建筑装饰材料进行切割、加工和安装的技术工人。
 
 
 ---
@@ -11,9 +11,9 @@ A skilled worker who cuts, processes, and installs architectural finishing mater
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate or higher | 0年 | $0~$0（No educational restrictions） |
-| College (architecture, interior design) | 2 年 | $5,000,000~$10,000,000（Based on tuition） |
-| Obtain craftsman certificate | 1年 | $500,000~$2,000,000（Includes institute and textbook fees） |
+| 高中毕业或以上学历 | 0年 | $0~$0（无学历限制） |
+| 大学（建筑、室内设计） | 2 年 | $5,000,000~$10,000,000（按学费计费） |
+| 获得工匠证书 | 1年 | $500,000~$2,000,000（包含学院和教材费用） |
 
 ---
 
@@ -21,18 +21,18 @@ A skilled worker who cuts, processes, and installs architectural finishing mater
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tile Craftsman (Tile Technician) | Human Resources Development Service of Korea | 可选 | Not required but advantageous for employment |
-| Stone Mason Craftsman (Stone Technician) | Human Resources Development Service of Korea | 可选 | Advantageous for marble installation |
-| Construction Engineering Technician (Construction Technical Engineer) | Human Resources Development Service of Korea | 可选 | Advanced certification, site supervisor level |
+| 瓷砖工匠（瓷砖技术员） | 韩国人力资源开发服务局 | 可选 | 不必须，但对就业有利 |
+| 石匠技师（石材技术人员） | 韩国人力资源开发服务局 | 可选 | 大理石安装有优势 |
+| 建筑工程技术员（建筑施工技术工程师） | 韩国人力资源开发服务局 | 可选 | 高级认证，现场主管级别 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 72,000. Closely tied to construction activity, and aging has led to a shortage of skilled labor, but employment is expected to stagnate due to a decline in new construction.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 72,000。与建筑活动密切相关，老龄化导致熟练技工短缺，但因新建工程减少，就业预计将停滞。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,90 +40,83 @@ A skilled worker who cuts, processes, and installs architectural finishing mater
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $28,000,000~$35,000,000 | KRW 2-2.5 million per month |
-| 中级（4-9年） | $36,000,000~$48,000,000 | KRW 3-4 million/month |
-| Advanced (10+ years) | $48,000,000~$60,000,000 | KRW 4-5 million/month, Site supervisor level |
+| 初级(0-3年) | $28,000,000~$35,000,000 | 每月200-250万韩元 |
+| 中级（4-9年） | $36,000,000~$48,000,000 | 300-400万韩元/月 |
+| 高级（10年以上） | $48,000,000~$60,000,000 | 月薪400-500万韩元，现场主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is low. Robots may be introduced for material transport and cutting tasks, but precise installation, on-site adaptability, and creative design require human touch. However, new hiring may decrease and shift toward high-skilled roles.
+AI和自动化的影响较低。机器人可能用于物料运输和切割任务，但精确安装、现场适应性和创意设计仍需人工。然而，新招聘可能会减少，并转向高技能岗位。
 
-Career advancement from entry-level worker to intermediate skilled worker to senior installer to site manager is possible; certification and experience are important.
+从初级工人到中级技工到高级安装员再到现场经理的职业晋升是可能的；认证和经验很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive cutting
-- Material transport
+- 简单重复性切割
+- 物料运输
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision installation
-- Material selection and design
+- 精密安装
+- 材料选择与设计
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site intuition
-- Manual finishing quality
-- Custom installation per client needs
+- 现场直觉
+- 手工精加工质量
+- 根据客户需求定制安装
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D scanning and simulation
-- Eco-friendly material installation
-- Automated cutter operation
+- 3D扫描与模拟
+- 环保材料安装
+- 自动切割机操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Aging workforce
-- Construction industry trends
-- Need for skilled workers
+- 劳动力短缺
+- 劳动力老龄化
+- 建筑行业趋势
+- 对熟练工人的需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Eligible for Non-professional Foreign Worker Employment Permit System, can work as tile installer |
-| Subclass E-7 (Specific Activities) | Eligible for Skilled Worker (E-7-1), possible if meeting certain career requirements |
-| Subclass F-2 (Residence) | Convertible from E-7, long-term stay qualification |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity and attention to detail
-- People who enjoy physical activities
-- People who want to work on construction sites
+- 手巧且注重细节的人
+- 喜欢体育活动的人
+- 想在建筑工地工作的人
 
 **谁不适合**
-- People who dislike precision work
-- People uncomfortable with indoor or high-altitude work
+- 不喜欢精细工作的人
+- 不适应室内或高空作业者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for tile and marble installers?**
-答：Depending on experience, entry-level is 28-35 million won, mid-level 36-48 million won, and senior 48-60 million won.
+**问：瓷砖和大理石安装工的平均薪资是多少？**
+答：根据经验，入门级2800-3500万韩元，中级3600-4800万韩元，高级4800-6000万韩元。
 
 **问：外国人能否从事此职业？**
-答：Yes, it is possible with an E-9 (Non-professional Employment) visa or an E-7 (Skilled Worker) visa. It is covered by the Employment Permit System, and long-term stay is possible with skills.
+答：可以，持E-9（非专业就业）签证或E-7（技术工人）签证可行。属于就业许可制度，有技能可长期居留。
 
-**问：Are there any required certifications?**
-答：Having a tile or stone technician certification is advantageous but not mandatory. Experience is more important.
+**问：是否有任何必需的认证？**
+答：拥有瓷砖或石材技师认证有优势但非强制，经验更重要。
 
 
 ---
@@ -141,12 +134,12 @@ Career advancement from entry-level worker to intermediate skilled worker to sen
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tile-and-marble-installer/KR)**

@@ -50,8 +50,6 @@ A professional who facilitates communication by translating spoken language or s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the advancement of AI translation technology (e.g., real-time interpretation apps), everyday conversation interpretation may be partially replaced, but human interpreters remain crucial in specialized fields (legal, medical, international conferences) where context understanding and emotional conveyance are needed.
-
 Most start as freelancers, and can specialize in fields (medical, legal, international conferences) based on experience and language pairs. Some find full-time employment at companies, government agencies, or international organizations.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Most start as freelancers, and can specialize in fields (medical, legal, interna
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment possible in professional interpretation field, employer sponsorship required |
-| Subclass D-10 (Job-seeking) | Job-seeking as holder of interpretation-related degree |
-| Subclass F-2 (Residence) | Possible to work as interpreter after long-term residence |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: It is not mandatory, but for specialized fields like conference interpretatio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interpreter/KR)**

@@ -52,8 +52,6 @@ Engaging in non-technical sales work such as sales, customer service, and order 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Impact of AI on other sales-related occupations is mixed: many standardized tasks (e.g., order entry, preliminary phone screening) will be automated, but skills in complex negotiation and relationship maintenance that rely on interpersonal savvy are amplified.
-
 Entry-level positions can progress to sales supervisor, regional manager through building client relationships and sales performance; or transition to specialist sales, marketing, and related fields.
 
 **Tasks most exposed to AI:**
@@ -102,8 +100,6 @@ Entry-level positions can progress to sales supervisor, regional manager through
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -144,11 +140,12 @@ A: Not suitable. This occupation typically does not meet skilled migration requi
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-sales-related-occupations/CA)**

@@ -54,8 +54,6 @@ Court clerks handle case filing, scheduling, document management, and trial supp
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Court clerk/registry officer document processing and scheduling face high replacement risk, but court attendance support and legal procedure compliance still require human judgment, with total positions expected to shrink.
-
 Junior clerks can advance to senior clerk, team supervisor, or court operations manager. They can also move to other administrative roles in the judicial system or legal support roles such as court services officer. Need to accumulate court work experience and complete internal training.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior clerks can advance to senior clerk, team supervisor, or court operations 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically only high school diploma plus short-term training, or a bachelor's 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-clerk-registry-officer/NZ)**

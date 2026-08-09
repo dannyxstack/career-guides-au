@@ -54,8 +54,6 @@ Court enforcement officers execute court judgments, such as debt recovery, prope
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Daily tasks of bailiffs such as paperwork, monitoring review, and process recording are easily replaced by AI; job demand will shrink, but core law enforcement duties still require humans.
-
 Usually promoted from judicial assistant (Rechtspfleger) or administrative roles, requiring passage of state judicial exams. Can advance to senior executive or transition to court management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually promoted from judicial assistant (Rechtspfleger) or administrative roles
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderung)) | Requires professional certification, but civil service positions are usually only open to EU citizens |
 | Subclass Job Seeker (Job Seeker Visa (Chancenkarte)) | Can enter to seek employment, but must first pass qualification recognition |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must complete a dual vocational training or preparatory civil service program
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bailiff/DE)**

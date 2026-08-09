@@ -54,8 +54,6 @@ Teach communication courses at universities or colleges, including organizationa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Typical path: Assistant Professor (non-tenure) → Associate Professor (tenure) → Full Professor. Usually requires 6-year probation before tenure evaluation. Some move into administration or research. Adjunct faculty proportion rising, full-time positions decreasing.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Typical path: Assistant Professor (non-tenure) → Associate Professor (tenure) 
 | Subclass EB-2 (Employment-Based Second Preference) | Apply for a green card through PERM or National Interest Waiver (NIW), requiring a PhD and outstanding research |
 | Subclass O-1 (Extraordinary Ability) | A few distinguished professors may apply; requires internationally recognized achievements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typical path: from assistant professor to tenured associate professor to full
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/communications-teachers-postsecondary/US)**

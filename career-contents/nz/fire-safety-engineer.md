@@ -52,8 +52,6 @@ Fire safety engineers design fire protection systems, assess fire risks, and dev
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-enhanced profession: AI tools will significantly improve the efficiency of fire simulation, code review, and report generation, but core design decisions and compliance responsibilities still rely on human engineers.
-
 Entry-level: can do design assistance and evaluation; mid-level: can independently handle project design and compliance review; senior: can serve as technical lead, consultant, or partner manager, and participate in regulatory development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level: can do design assistance and evaluation; mid-level: can independent
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, eligible if qualifications and experience meet requirements. Usually requires a job offer from a New Zealand employer. |
 | Subclass AEWV (Accredited Employer Work Visa) | If residence conditions are not immediately met, you can first work on an AEWV, accumulate experience, and then apply for residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: CPEng requires international qualification assessment, experience report, and
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-safety-engineer/NZ)**

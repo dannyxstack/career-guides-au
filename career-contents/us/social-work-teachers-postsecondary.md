@@ -52,8 +52,6 @@ Teach social work courses at higher education institutions, including teaching a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Can be promoted from assistant professor to associate professor, full professor, and then to department chair or college leadership roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can be promoted from assistant professor to associate professor, full professor,
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, via PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to distinguished research or teaching personnel |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a doctoral degree in social work; some community colleges ma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-teachers-postsecondary/US)**

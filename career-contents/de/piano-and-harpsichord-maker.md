@@ -53,8 +53,6 @@ Piano and Harpsichord Makers handcraft, tune, restore, and maintain keyboard ins
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core handcraft skills (e.g., tuning, timbre adjustment) are hard to replace by AI, but drafting, parts list generation, and other desk work will be automated; entry-level positions are narrowing due to increased competition among apprentices.
-
 Career progression starts from apprenticeship or technician, can advance to master craftsman (Meister) or start own business, or move into instrument repair, sales, or teaching.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression starts from apprenticeship or technician, can advance to mast
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must complete 3-year dual vocational training and obtain IHK certification, c
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/piano-and-harpsichord-maker/DE)**

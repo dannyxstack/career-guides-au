@@ -51,8 +51,6 @@ Plastic processing operators operate and monitor plastic molding, extrusion, the
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The job of plastic processing operators will change profoundly due to AI and automation: repetitive monitoring and quality inspection tasks will be compressed, but complex mold debugging, process optimization, and human-machine collaboration skills will be amplified, presenting both risks and opportunities.
-
 Career development paths include promotion to production supervisor, senior operator, or transitioning to quality control, equipment maintenance roles, and increasing salary through experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career development paths include promotion to production supervisor, senior oper
 | Subclass Graduate (Graduate Visa) | UK graduates can apply and gain work experience in this occupation, but need to switch to a work visa later |
 | Subclass Scale-up (Scale-up Visa) | Eligible for application by working at qualifying high-growth companies |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Need to obtain UK employer sponsorship, meet general salary threshold (typica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-process-operatives/UK)**

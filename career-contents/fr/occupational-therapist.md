@@ -4,8 +4,6 @@
 
 Helping people with physical, psychological, or social dysfunction caused by illness, disability, or accidents regain independent living ability by providing personalized rehabilitation programs through daily activity training, environmental modification, and assistive devices.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Helping people with physical, psychological, or social dysfunction caused by ill
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance occupational therapists' capabilities, improving efficiency through intelligent assessments, virtual training, and personalized program design, but core human empathy and adaptive interventions are difficult to replace, making career prospects optimistic.
-
 Therapists can be promoted from junior therapists to team leaders, specialist therapists (such as hand therapy, pediatrics), or transition to teaching, research, or management roles. Private clinics can also be opened.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Therapists can be promoted from junior therapists to team leaders, specialist th
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled occupational therapists, who must be employed by a French employer and earn an annual salary exceeding €30,000, eligible for 4 years of residency |
-| Subclass Salarié (Salaried Employee) | Traditional employed work residence requires a work permit and employer sponsorship, as well as a long-term contract |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to management or high-skilled positions with annual salary at least €40,000; occupational therapists generally find it hard to meet this |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Yes, France strictly regulates occupational therapists; they must hold a nati
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/FR)**

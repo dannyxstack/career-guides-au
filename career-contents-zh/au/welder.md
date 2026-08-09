@@ -1,6 +1,6 @@
 # 焊工（Welder）职业分析 · 澳大利亚
 
-**职业代码: 322313 (ANZSCO)**
+**职业代码：322313 (ANZSCO)**
 
 焊工（Welder / Boilermaker）负责切割、成型、连接和修复金属构件，广泛应用于建筑结构钢、矿业、船舶制造、国防工业和管道工程。在澳大利亚，焊工同时列入 MLTSSL 和 CSOL，是技术移民的热门路径之一。
 
@@ -21,9 +21,9 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certificate III in Engineering – Fabrication Trade (MEM30319) | TAFE / RTO | 必备 | 全国统一课程，含焊接/钣金/锅炉/结构钢多个专攻方向，执业基础资质 |
-| Coded Welding Certificate (AS/NZS 2980 / ASME IX) | 认可第三方检测机构（如 NATA 实验室） | 可选 | 压力容器、管道和船舶焊接的行业标准资质，大型项目通常强制要求 |
-| Working at Heights / Confined Space Certificates | 各州 SafeWork / WorkSafe 认可 RTO | 可选 | 施工现场高空或密闭空间焊接作业的强制安全资质 |
+| 三级工程证书——制造行业（MEM30319） | TAFE / RTO | 必备 | 全国统一课程，含焊接/钣金/锅炉/结构钢多个专攻方向，执业基础资质 |
+| 编码焊接证书（AS/NZS 2980 / ASME IX） | 认可第三方检测机构（如 NATA 实验室） | 可选 | 压力容器、管道和船舶焊接的行业标准资质，大型项目通常强制要求 |
+| 高空作业/受限空间证书 | 各州 SafeWork / WorkSafe 认可 RTO | 可选 | 施工现场高空或密闭空间焊接作业的强制安全资质 |
 | Certificate IV in Engineering – Fabrication Trade（可选） | TAFE / RTO | 可选 | 晋升工程设计、质检或工地管理岗位的进阶资质 |
 | TRA技能评估 | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，国内学历豁免 |
 
@@ -31,10 +31,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 70,000. Jobs and Skills Australia 预测至2035年技工类新增就业约195,800人（+9.8%）。国防造船计划（AUKUS潜艇、护卫舰）和可再生能源基础设施建设将持续拉动焊工需求。
+**职位需求量：很高（★★★★★）** 全国从业人数约 70,000。Jobs and Skills Australia 预测至2035年技工类新增就业约195,800人（+9.8%）。国防造船计划（AUKUS潜艇、护卫舰）和可再生能源基础设施建设将持续拉动焊工需求。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -55,21 +55,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：中低（★★☆☆☆）**
 
 焊工（初级）岗位因AI驱动的自动化焊接系统在制造业、建筑业中逐步普及，入门级手工焊接任务被显著压缩，但对复杂结构焊接与现场作业的需求仍存。
 
 澳大利亚国防工业扩张（AUKUS协议）、矿业自动化改造和可再生能源结构件制造是三大需求驱动力。高级焊工（特种焊接、压力容器）稀缺性持续上升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 批量标准化金属件的自动焊接（如车身焊接、管道接头）
 - 基于CAD模型的机器人编程与路径规划替代人工示教
 - 焊接质量在线检测（视觉检测+AI缺陷识别）
 - 焊接参数自动调节与焊接过程监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助焊接参数优化（根据材料厚度、环境温度实时推荐电流电压）
 - 增强现实（AR）焊接引导系统提升新手培训效率
@@ -77,14 +77,14 @@
 - 数字孪生焊接模拟减少试件浪费
 - AI驱动的多机器人协同焊接群控
 
-**人类护城河:**
+**人类护城河：**
 
 - 非标工件、空间受限部位的现场手工焊接（如船上、管道内部）
 - 高应力、高疲劳寿命要求的压力容器与承重结构焊接
 - 异种金属、特殊合金（钛、铝镁合金）的焊接工艺开发
 - 焊接质量责任认定与返修决策
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 焊接机器人的编程与调试（如FANUC、KUKA、ABB）
 - 焊接工艺模拟软件（如Simufact Welding、SYSWELD）
@@ -93,17 +93,17 @@
 - 国际焊接工程师（IWE）等进阶认证
 - AR/VR焊接模拟培训系统操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mining & Resources Infrastructure
-- Defence & Shipbuilding (BAE Systems, ASC)
-- Renewable Energy Structures (Wind Towers, Solar Frames)
-- Construction & Structural Steel
-- Oil & Gas Pipelines
+- 矿业与资源基础设施
+- 国防与造船（BAE Systems, ASC）
+- 可再生能源结构（风力塔架、太阳能支架）
+- 建筑与结构钢
+- 石油与天然气管道
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@
 | Subclass 190 (Skilled Nominated) | 州政府提名，加5分，永居，SA/WA/QLD对焊工需求旺盛，提名机会较多 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区提名加15分，临居5年转PR，矿业重点州（WA/QLD）机会较多 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -179,12 +177,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/welder/AU)**

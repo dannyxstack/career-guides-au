@@ -1,10 +1,8 @@
-# Transport Machinery Inspector (excluding automobiles) 职业分析 · 日本
+# 运输机械检查员（不含汽车）（Transport Machinery Inspector (excluding automobiles)）职业分析 · 日本
 
-**职业代码: 584 (JSCO)**
+**职业代码：584 (JSCO)**
 
-A specialist who inspects the quality and safety of transport machinery such as railway vehicles, ships, and aircraft. Inspects dimensions, functions, and appearance of finished products and parts to ensure compliance with standards.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+检查铁路车辆、船舶、飞机等运输机械质量和安全的专家。检查成品和零部件的尺寸、功能和外观，确保符合标准。
 
 
 ---
@@ -13,9 +11,9 @@ A specialist who inspects the quality and safety of transport machinery such as 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Public high schools are tuition-free, private around ¥3 million） |
-| Vocational School (Industrial) | 2 年 | $2,000,000~$4,000,000（Including entrance fees and tuition） |
-| University (Engineering) | 4年 | $2,000,000~$6,000,000（National approx. ¥2.5 million, private approx. ¥6 million） |
+| 高中 | 3年 | $0~$3,000,000（公立高中学费全免，私立约300万日元） |
+| 职业学校（工业） | 2 年 | $2,000,000~$4,000,000（包括入场费和学费） |
+| 大学（工程） | 4年 | $2,000,000~$6,000,000（公立约250万日元，私立约600万日元） |
 
 ---
 
@@ -23,18 +21,18 @@ A specialist who inspects the quality and safety of transport machinery such as 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Non-Destructive Testing Technician (UT/RT, etc.) | Japanese Society for Non-Destructive Inspection | 可选 | Level 1–3, may be mandatory in rail and aviation |
-| Quality Control Certification (QC Certification) | Japanese Society for Quality Control | 可选 | Level 2 or higher preferred |
-| Mechanical Inspection Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Level 2 or higher valued |
+| 无损检测技术员（UT/RT等） | 日本无损检测协会 | 可选 | 1-3级，在铁路和航空领域可能为强制性 |
+| 质量控制认证（QC认证） | 日本质量控制学会 | 可选 | 优先2级或以上 |
+| 机械检验技术工人 | 厚生劳动省 | 可选 | 二级或以上有价值 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Due to the shrinking domestic manufacturing industry, demand is flat, but in the railway and aviation sectors, stricter safety regulations are expected to sustain demand. Main recruitment drivers are replacement hires due to aging workforce.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。由于国内制造业萎缩，需求平稳，但在铁路和航空领域，更严格的安全法规预计将维持需求。主要招聘驱动力是老龄化劳动力带来的替代性招聘。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A specialist who inspects the quality and safety of transport machinery such as 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,000,000~$3,800,000 | Average starting salary for manufacturing regular employee |
-| Mid (3–10 years) | $3,800,000~$5,200,000 | Increases with qualifications and experience |
-| 资深（10年以上） | $5,200,000~$7,000,000 | Manager/supervisor level, over 8 million JPY at large companies |
+| 初级（0-3年） | $3,000,000~$3,800,000 | 制造业正式员工的平均起薪 |
+| 中级（3-10年） | $3,800,000~$5,200,000 | 随资历和经验增加 |
+| 资深（10年以上） | $5,200,000~$7,000,000 | 经理/主管级别，大型企业超过800万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation improve inspection efficiency and accuracy, but full replacement is difficult. Many areas require human judgment, with AI used as a tool.
+AI和自动化提高了检测效率和准确性，但完全替代困难。许多领域仍需人工判断，AI作为工具使用
 
-At major manufacturers and railway companies, advancement is based on skill certification and in-house qualifications. Career paths include lead inspector or quality control manager, requiring extensive experience and credentials. At SMEs, the focus is on specialist roles.
+在大型制造商和铁路公司，晋升基于技能认证和内部资格。职业路径包括首席检验员或质量控制经理，需要丰富的经验和资质。在中小企业，重点在专业岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual appearance inspection
-- Simple dimensional measurement
-- Comparison and judgment against standard values
+- 视觉外观检查
+- 简单尺寸测量
+- 与标准值的比较和判断
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Image analysis for non-destructive testing (ultrasonic, X-ray)
-- Statistical analysis of inspection data
-- Optimization of inspection processes
+- 无损检测（超声波、X光）图像分析
+- 检验数据的统计分析
+- 检验流程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Final product overall judgment
-- Root cause investigation and judgment in case of abnormalities
-- Coordination with customer requirements
+- 最终产品整体判断
+- 异常情况下的根本原因调查与判断
+- 与客户需求协调
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Advanced non-destructive testing certifications
-- Quality control methods (e.g., QC 7 tools)
-- Statistical analysis and data science
+- 质量控制方法（如QC 7工具）
+- 统计分析及数据科学
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Railway vehicle inspection
-- Aircraft maintenance inspection
-- Non-destructive testing
-- Quality control DX
+- 铁路车辆检查
+- 飞机维修检查
+- 无损检测
+- 质量控制DX
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of work experience. Knowledge of mechanical engineering is required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | As of 2026, not included in target fields, acquisition unlikely. |
-| Subclass 技能 (Skilled Labor Visa) | Requires advanced skills and 10+ years of work experience. Application is limited. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are good at detailed work
-- People interested in machinery and manufacturing
-- People with a strong sense of responsibility and safety awareness
+- 适合从事细致工作的人
+- 对机械和制造业感兴趣的人
+- 责任心强且具有安全意识的人员
 
 **谁不适合**
 - 厌恶单调任务者
-- People who resist following rules
+- 不愿遵守规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for transport machinery inspection workers?**
-答：The average annual income in Japan's manufacturing industry is about 4.3 million yen, but for transport machinery inspection workers, it ranges from 3 to 7 million yen depending on experience and qualifications. At major railway and airline companies, it can exceed 5 million yen.
+**问：运输机械检验工人年均收入是多少？**
+答：日本制造业的年平均收入约为430万日元，但运输机械检验员的收入根据经验和资格在300万至700万日元之间。在大型铁路和航空公司，可能超过500万日元。
 
-**问：Are there visas for foreigners to work in this occupation?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is available, but requires a university degree or at least 10 years of relevant work experience. It is not covered by the Specified Skilled Worker system, and the Technical Skills visa requires advanced proficiency, making the immigration route restrictive.
+**问：外国人在此职业工作需要签证吗？**
+答：‘工程师/人文/国际服务专家’签证可用，但要求大学学历或至少10年相关工作经验。不属于特定技能工人制度，技术技能签证要求高级水平，移民途径受限。
 
-**问：Can I enter this field without experience?**
-答：Possible even with just a high school diploma, but vocational school training or practical experience in mechanical fields is advantageous. At large companies, having relevant certifications at the time of hiring may be required.
+**问：没有经验能进入这个领域吗？**
+答：仅高中学历也可，但机械领域的职业培训或实践经验有利。大型公司可能要求入职时持有相关证书。
 
 
 ---
@@ -146,12 +136,12 @@ At major manufacturers and railway companies, advancement is based on skill cert
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transport-machinery-inspector-excluding-automobiles/JP)**

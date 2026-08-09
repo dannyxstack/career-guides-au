@@ -1,8 +1,8 @@
 # 玻璃安装工（Glazier）职业分析 · 韩国
 
-**职业代码: 70252 (KECO)**
+**职业代码：70252 (KECO)**
 
-A specialist technician who installs, attaches, or replaces glass on the exterior or interior of buildings, typically handling curtain walls, windows, and partition glass.
+在建筑物外部或内部安装、固定或更换玻璃的专业技术人员，通常处理幕墙、窗户和隔断玻璃。
 
 
 ---
@@ -11,8 +11,8 @@ A specialist technician who installs, attaches, or replaces glass on the exterio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Employment after general/vocational high school） |
-| 2-year college in architecture/civil engineering | 2 年 | $6,000,000~$12,000,000（Practice-oriented courses, low tuition） |
+| 高中毕业 | 0年 | $0~$0（普通/职业高中毕业后就业） |
+| 建筑/土木工程2年制大专 | 2 年 | $6,000,000~$12,000,000（实践导向课程，低学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialist technician who installs, attaches, or replaces glass on the exterio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Painting Technician (including glass installation) | Human Resources Development Service of Korea | 必备 | Basic glass attachment skills assessment |
-| Glass Installation Technician | Human Resources Development Service of Korea | 可选 | Dedicated glass installation certification |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Required for high-altitude work safety management on large sites |
+| 建筑涂装技术员（含玻璃安装） | 韩国人力资源开发服务局 | 必备 | 基础玻璃安装技能评估 |
+| 玻璃安装技术员 | 韩国人力资源开发服务局 | 可选 | 专业玻璃安装认证 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 大型工地高空作业安全管理要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 12,000. Linked to construction cycles and new/renovation demand, with many skilled workers aged 40+, requiring new workforce entry.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 12,000。与建筑周期和新建/翻新需求相关，40岁以上熟练工居多，需新劳动力进入。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A specialist technician who installs, attaches, or replaces glass on the exterio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$32,000,000 | Includes apprenticeship/assistant roles |
-| Mid-level (4–9 years) | $34,000,000~$45,000,000 | Capable of independent installation |
-| 资深（10年以上） | $45,000,000~$60,000,000 | Includes team leaders and self-employed workers |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 包括学徒/助理职位 |
+| 中级（4-9年） | $34,000,000~$45,000,000 | 能够独立安装 |
+| 资深（10年以上） | $45,000,000~$60,000,000 | 包括团队负责人和自雇人士 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation contribute to the introduction of glass cutting and transport assist devices, but on-site customized attachment and sealing work still heavily relies on human skill. Automation replaces some repetitive processes, but full replacement is difficult.
+人工智能和自动化促进了玻璃切割和运输辅助设备的引入，但现场定制附件和密封工作仍然严重依赖人类技能。自动化取代了一些重复性过程，但完全替代很困难。
 
-Entry-level installation assistant → Mid-level Glazier → Senior skilled worker/site supervisor → Self-employed/team leader. Certifications in master craftsman and safety management aid promotion.
+入门级安装助理 → 中级玻璃工 → 高级技工/现场主管 → 自雇/团队负责人。大师级工匠和安全管理认证有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple glass cutting and processing tasks
-- Material transport and handling
+- 简单玻璃切割加工任务
+- 物料运输与搬运
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision high-rise glass attachment work
-- Safety diagnosis and inspection
-- Complex glass system installation
+- 精密高层玻璃安装作业
+- 安全诊断与检查
+- 复杂玻璃系统安装
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability
-- Handwork adapting to irregular frames
-- Safety management know-how
+- 现场适应能力
+- 适应不规则框架的手工活
+- 安全管理知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated equipment operation
-- BIM leadership
-- High-performance glass installation technology
+- 自动化设备操作
+- BIM领导力
+- 高性能玻璃安装技术
 - 安全管理认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Glass curtain wall
-- High-rise construction
-- Remodeling
-- Enhanced safety
+- 玻璃幕墙
+- 高层建筑施工
+- 翻新
+- 增强安全性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Unskilled foreign workers, can work with glass attachment under Employment Permit System, limited to manufacturing/construction assistance |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Skilled workers, can be employed as glass attachment specialists, if meeting career/qualification requirements |
-| Subclass F-2-99 (Residence (F-2) Points-based) | Long-term stay/free employment, obtainable when meeting certain points/income requirements |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and have good balance without fear of outdoor/height work
-- People with manual dexterity and concentration for precise work
-- People who value collaboration and safety rules
+- 身体健康、平衡感好、不惧户外/高空作业的人
+- 具有手工灵巧性和专注力进行精细工作的人
+- 重视协作与安全规则的人
 
 **谁不适合**
-- People with acrophobia or difficulty enduring physical strain
-- People who prefer change over repetitive/simple tasks
+- 有恐高症或难以承受体力消耗的人
+- 喜欢变化胜过重复/简单任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a glass installer?**
-答：Entry-level with 0-3 years experience is about 24-32 million KRW, intermediate 4-9 years is 34-45 million KRW, advanced 10+ years is 45-60 million KRW.
+**问：玻璃安装工的平均年薪是多少？**
+答：初级0-3年经验约2400-3200万韩元，中级4-9年3400-4500万韩元，高级10年以上4500-6000万韩元。
 
-**问：Can foreigners work as glass installers?**
-答：Limited auxiliary work is possible with an E-9 (Non-professional Employment) visa, and those with skills can switch to an E-7-1 (Specific Activities) visa. Long-term residence is also possible through the F-2 points system.
+**问：外国人可以从事玻璃安装工吗？**
+答：持有E-9（非专业就业）签证可以进行有限的辅助工作，有技能者可转为E-7-1（特定活动）签证。通过F-2积分系统也可长期居留。
 
-**问：Which certifications are helpful for employment as a glass installer?**
-答：A certificate in architectural painting or glass construction is essential, while having a construction safety engineer certificate is advantageous on large sites.
+**问：哪些证书有助于就业为玻璃安装工？**
+答：建筑涂装或玻璃建造证书必不可少，拥有建筑安全工程师证书在大规模工地上具有优势。
 
 
 ---
@@ -142,12 +135,12 @@ Entry-level installation assistant → Mid-level Glazier → Senior skilled work
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/glazier/KR)**

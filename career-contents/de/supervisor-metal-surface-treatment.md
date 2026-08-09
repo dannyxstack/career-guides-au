@@ -53,8 +53,6 @@ Responsible for supervising operators on metal surface treatment (such as galvan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job of a metal surface finishing supervisor has mixed prospects: management tasks like production scheduling and quality inspection are enhanced by AI, but tasks like process parameter monitoring and logging face high automation risk.
-
 Can advance from skilled worker to section supervisor, then to production manager or process optimization specialist; can also obtain Industrial Master (Meister) qualification through further training.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from skilled worker to section supervisor, then to production manage
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfte)) | Requires a German-recognized degree or professional qualification, employer sponsorship, priority for shortage occupations |
 | Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek employment, requires relevant training and language skills |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can progress from technician to supervisor, then through Meister training to 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-metal-surface-treatment/DE)**

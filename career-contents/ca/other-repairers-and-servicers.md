@@ -51,8 +51,6 @@ Includes various repair workers for home appliances, electronic devices, small m
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Maintenance workers face risks of task replacement from automated diagnostics and scheduling, while being amplified in efficiency by AI-enhanced remote assistance, predictive maintenance, and smart work order systems. Entry-level positions are narrowing due to devaluation of basic diagnostic skills, but deep repair and customer communication value is increasing.
-
 Start as an apprentice or assistant, gain experience to become a senior technician or technical supervisor. Some may start their own repair shop. Continuous learning of new technologies (e.g., smart appliances, power tools) is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Start as an apprentice or assistant, gain experience to become a senior technici
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: This occupation is not on the Express Entry core list but can immigrate throu
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-repairers-and-servicers/CA)**

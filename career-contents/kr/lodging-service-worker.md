@@ -4,8 +4,6 @@
 
 This is a service job supporting guest convenience in lodging facilities such as hotels, condos, and motels, including room cleaning, bed making, and restocking amenities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This is a service job supporting guest convenience in lodging facilities such as
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-With the introduction of automated cleaning robots, simple repetitive tasks are decreasing, but delicate cleaning of hotel rooms and customer service still require humans, so some tasks may be replaced but the job itself is expected to remain.
-
 After joining as a new hire, one can gain experience and be promoted to room team leader or housekeeping manager, with training opportunities provided at large hotel chains.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After joining as a new hire, one can gain experience and be promoted to room tea
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign workers may be employed in some lodging businesses, but visa issuance is limited for pure room cleaning |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work in accommodation service jobs with no activity restrictions |
-| Subclass H-2 (Working Visit (H-2)) | For overseas Koreans, can work in simple labor such as accommodation |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Depending on experience, one can be promoted to room team leader or housekeep
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lodging-service-worker/KR)**

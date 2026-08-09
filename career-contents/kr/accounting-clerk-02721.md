@@ -53,8 +53,6 @@ A job that handles financial affairs such as corporate fund income/expenditure, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation software (e.g., e-tax invoices, auto-journaling programs) are replacing simple clerical tasks, reducing hiring scale, and shifting remaining work toward more complex analysis and decision-making.
-
 Starting as an entry-level office assistant, one can grow into an accounting/finance expert after gaining experience. Obtaining a CPA or tax accountant license enables promotion to financial team manager or professional accountant.
 
 **Tasks most exposed to AI:**
@@ -94,17 +92,9 @@ Starting as an entry-level office assistant, one can grow into an accounting/fin
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as a professional in accounting/finance; must meet degree and experience requirements |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Accounting clerks are classified as professional, not eligible for E-9 |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work in accounting; no separate visa restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can also work as accounting clerks; few activity restrictions |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +138,12 @@ A: Obtaining Class 1 computerized accounting and computerized tax certifications
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-clerk-02721/KR)**

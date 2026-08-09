@@ -52,8 +52,6 @@ In the Netherlands, allied health practitioners include physiotherapists, occupa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on allied health practitioners is mixed: some diagnostic and clerical work is automated, but core tasks such as rehabilitation assessment, treatment planning, and patient communication are enhanced by AI assistance, making human-machine collaboration a trend.
-
 Junior practitioners can gain experience to become specialist therapists or team leaders, or pursue further training to gain prescribing rights or open private clinics, advancing to clinical expert or management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior practitioners can gain experience to become specialist therapists or team
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable for salaries above €5,008 monthly (2024 standard), sponsored by an approved employer, and allows family accompaniment. |
-| Subclass Orientation Year (Zo (Orientation Year for Graduates) | Applicable to master's/PhD graduates from Dutch or top 200 global universities, providing a one-year job search period. |
-| Subclass EU Blue Card (EU Blue Card Netherlands) | Annual salary threshold around €5,668/month (2024), requires higher education degree, fast-track to permanent residency. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Yes, must be registered in the relevant professional register under the BIG A
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paramedical-practitioner/NL)**

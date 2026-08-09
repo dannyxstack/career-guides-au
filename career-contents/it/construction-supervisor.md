@@ -52,8 +52,6 @@ Construction supervisors oversee daily activities on construction sites, ensurin
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction supervision work can be partially automated by AI (e.g., document processing, progress monitoring), but key decisions, on-site coordination, and safety responsibilities still require humans. Overall risk is moderate; actively embracing digital tools can improve efficiency.
-
 Career path: from construction worker or technician to supervisor, then to project manager or construction manager. Certifications (e.g., geometrician) can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Career path: from construction worker or technician to supervisor, then to proje
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring at least 3 years of relevant experience or a bachelor's degree, with a salary threshold of approximately €32,000 per year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-high-skilled workers, requires employer sponsorship, limited quota. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply to the immigration department, proving no local candidates are available, applicable to specific occupations. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: If engaged in design or supervision, registration as a surveyor or engineer i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-supervisor/IT)**

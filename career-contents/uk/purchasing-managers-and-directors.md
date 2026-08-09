@@ -52,8 +52,6 @@ Responsible for planning, organizing, and coordinating procurement functions in 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on procurement manager roles is mixed: automation will handle data entry, order tracking, etc., but strategic negotiation, supplier relationship management, and complex decisions still rely on human judgment, overall risk is manageable.
-
 Usually start as a purchasing officer or purchasing analyst, advance to purchasing manager, senior manager, and eventually become purchasing director. Can transition to supply chain management, operations management, and other fields.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a purchasing officer or purchasing analyst, advance to purchasi
 | Subclass Scale-up (Scale-up Worker Visa) | Suitable for recruitment in fast-growing enterprises, must meet salary requirements. |
 | Subclass Graduate (Graduate Visa) | UK university graduates can apply and work in the UK for 2 years (3 years for PhD holders). |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: CIPS Diploma in Procurement and Supply (MCIPS certified) is highly recommende
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-managers-and-directors/UK)**

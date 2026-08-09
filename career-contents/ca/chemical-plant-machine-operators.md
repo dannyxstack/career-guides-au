@@ -53,8 +53,6 @@ Operate and monitor chemical production equipment to ensure safe and efficient p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Chemical plant workers face mixed impacts: AI and automation optimize process control and monitoring, but physical operations and safety responsibilities still require human input; entry-level competition increases slightly.
-
 Entry-level operators typically need 2-3 years of experience to advance to senior operator or team leader, then can move to process technician, production supervisor, or plant management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level operators typically need 2-3 years of experience to advance to senio
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs with manufacturing or petrochemical categories, such as in Alberta and Ontario. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable to applicants with a job offer from a Canadian employer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually no mandatory certification, but some provinces may require safety cer
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-plant-machine-operators/CA)**

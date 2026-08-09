@@ -1,8 +1,8 @@
-# roofing worker 职业分析 · 日本
+# 屋面工人（roofing worker）职业分析 · 日本
 
-**职业代码: 663 (JSCO)**
+**职业代码：663 (JSCO)**
 
-A specialized professional who installs waterproof sheets, tiles, slates, etc. on roofs of houses and buildings to prevent leaks. Often involves high-altitude work and requires skilled expertise.
+专门在房屋和建筑物屋顶安装防水板、瓦片、石板等以防漏水的专业人员。通常涉及高空作业，需要熟练技能。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized professional who installs waterproof sheets, tiles, slates, etc. o
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| After high school, join a construction company and learn through OJT | 0年 | $0~$0（No tuition） |
-| Vocational training school (construction department) | 1-2年 | $200,000~$600,000（Public school tuition approx. 200,000 yen per year） |
-| Construction skilled worker training course (private) | 3个月至1年 | $300,000~$1,000,000（Varies by private school） |
+| 高中毕业后加入建筑公司并通过在职培训学习 | 0年 | $0~$0（免学费） |
+| 职业培训学校（建筑系） | 1-2年 | $200,000~$600,000（公立学校学费约每年 20 万日元） |
+| 建筑技工培训课程（私立） | 3个月至1年 | $300,000~$1,000,000（因私立学校而异） |
 
 ---
 
@@ -21,19 +21,19 @@ A specialized professional who installs waterproof sheets, tiles, slates, etc. o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Scaffolding Work Supervisor | Ministry of Health, Labour and Welfare | 必备 | Required for high-altitude work in some cases |
-| Specified Skilled Worker Visa (Construction Sector) | Immigration Services Agency of Japan | 必备 | Residence status for foreign workers |
-| Roof Work Technician (Grades 1-3) | Ministry of Health, Labour and Welfare | 可选 | Skill test; certifies skill level by grade |
-| Construction Accounting Clerk | Construction Industry Accounting Examination Center | 可选 | Useful for accounting knowledge when going independent |
+| 脚手架工作主管 | 厚生劳动省 | 必备 | 部分高空作业需持有。 |
+| 特定技能工人签证（建筑行业） | 出入国在留管理厅 | 必备 | 外国工人居留身份 |
+| 屋顶工程技师（1-3级） | 厚生劳动省 | 可选 | 技能测试；按等级认证技能水平 |
+| 建筑会计文员 | 建筑行业会计考试中心 | 可选 | 独立创业时会计知识有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. While affected by fluctuations in construction demand, repair and renovation demand for existing homes remains stable, and labor shortages persist. Few young people enter the field, making skill inheritance a challenge.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。受建筑需求波动影响，但现有房屋的维修和翻新需求稳定，劳动力短缺持续存在。年轻人进入该领域较少，技能传承面临挑战。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +41,86 @@ A specialized professional who installs waterproof sheets, tiles, slates, etc. o
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,600,000 | Low during apprenticeship |
-| Mid-level (3–10 years) | $4,000,000~$5,000,000 | Rises with skill acquisition |
-| Advanced (10+ years / site supervisor) | $5,000,000~$7,000,000 | Varies greatly if independent |
+| 初级（0-3年） | $2,800,000~$3,600,000 | 学徒期间较低 |
+| 中级（3-10年） | $4,000,000~$5,000,000 | 随技能提升而增长 |
+| 高级（10年以上/现场主管） | $5,000,000~$7,000,000 | 如果独立则差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Complete replacement by AI or robots is difficult, but introduction of automatic roofing machines and drone inspections is advancing. Skilled techniques remain for now, but AI will be used as a support tool.
+完全被AI或机器人替代困难，但自动屋顶机和无人机检查的引进正在推进。目前仍需熟练技术，但AI将作为辅助工具。
 
-Start as an apprentice, become a full-fledged craftsman after acquiring skills. With more experience, one can become a site supervisor or self-employed. Career advancement is also possible through the construction skill evaluation system.
+从学徒开始，掌握技能后成为正式工匠。经验丰富后可成为现场主管或自雇。通过建筑技能评估体系也可晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple tile placement
-- Routine waterproof sheet laying
+- 简易瓷砖铺设
+- 常规防水卷材铺设
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Roof diagnosis (drone inspection)
-- Construction plan optimization (AI)
-- Quality inspection (image recognition)
+- 屋顶诊断（无人机检查）
+- 施工方案优化（AI）
+- 质量检验（图像识别）
 
-**人类护城河:**
+**人类护城河：**
 
-- Handling complex shapes
-- Decision-making in rain/bad conditions
-- Passing on traditional techniques
-- After-service and customer support
+- 处理复杂形状
+- 在雨天/恶劣条件下的决策
+- 传承传统技艺
+- 售后与客户支持
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot operation skills
-- Drone piloting
-- Architectural CAD
-- Knowledge of waterproofing materials
+- 机器人操作技能
+- 无人机驾驶
+- 建筑CAD
+- 防水材料知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renovation demand
-- Skill succession
-- High-place work
-- Waterproofing work
+- 翻新需求
+- 技能传承
+- 高空作业
+- 防水工程
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i)) | Can work in construction. Max 5 years, exam required. |
-| Subclass 技能ビザ (Skills) | For skilled foreigners. Requires 10+ years experience. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Work as construction engineer requiring specialized knowledge. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People comfortable with heights
-- Dexterous and meticulous people
-- People confident in their physical strength
+- 适应高处工作的人
+- 心灵手巧、一丝不苟的人
+- 对自己体力有信心的人
 
 **谁不适合**
-- People afraid of heights
-- People sensitive to heat and cold
+- 恐高的人
+- 对冷热敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of roofers?**
-答：With 5-10 years of experience, about 4-5 million yen. If independent, 7 million yen or more possible.
+**问：屋顶工的平均年收入是多少？**
+答：有5-10年经验，约400-500万日元。如果独立，可能达到700万日元以上。
 
-**问：What visa do foreigners need to work as roofers in Japan?**
-答：Specified Skilled Worker (i) (Construction) or Engineer/Specialist in Humanities/International Services is common. Passing exams and practical experience required.
+**问：外国人在日本做屋顶工需要什么签证？**
+答：特定技能工人（i）（建筑）或人文知识/国际业务专家是常见途径。需通过考试并有实践经验。
 
-**问：What is the career path?**
-答：Apprentice → Skilled worker → Site supervisor → Independent. Having a construction skills certification helps.
+**问：职业发展路径是什么？**
+答：学徒 → 熟练工 → 现场主管 → 独立。持有建筑技能证书有帮助。
 
 
 ---
@@ -145,12 +138,12 @@ Start as an apprentice, become a full-fledged craftsman after acquiring skills. 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/roofing-worker/JP)**

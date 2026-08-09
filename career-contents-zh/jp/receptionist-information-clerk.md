@@ -1,10 +1,8 @@
-# Receptionist/Information Clerk 职业分析 · 日本
+# 前台/信息文员（Receptionist/Information Clerk）职业分析 · 日本
 
-**职业代码: 254 (JSCO)**
+**职业代码：254 (JSCO)**
 
-An administrative role at the entrance of companies or public facilities, welcoming visitors, handling phone calls, and providing guidance. As the front line of customer service, politeness and multitasking are required.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+公司或公共设施入口处的行政角色，欢迎访客、接听电话并提供指引。作为客户服务的第一线，需要礼貌和 multitasking 能力。
 
 
 ---
@@ -13,9 +11,9 @@ An administrative role at the entrance of companies or public facilities, welcom
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public schools: tuition-free） |
-| Vocational school graduate (Business/Secretarial) | 2 年 | $1,000,000~$2,000,000（Tuition and materials included） |
-| Junior college graduate | 2 年 | $500,000~$1,500,000（Varies between public and private） |
+| 高中文凭 | 3年 | $0~$0（公立学校：免学费） |
+| 职业学校毕业（商务/秘书） | 2 年 | $1,000,000~$2,000,000（学费及材料费已含） |
+| 大专毕业生 | 2 年 | $500,000~$1,500,000（公私因机构而异） |
 
 ---
 
@@ -23,19 +21,19 @@ An administrative role at the entrance of companies or public facilities, welcom
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Business Practical Manners Test | Practical Skills Proficiency Testing Association | 可选 | Demonstrates basic hospitality skills |
-| Secretary Test | Public Interest Incorporated Foundation Practical Skills Proficiency Testing Association | 可选 | Level Semi-1 or higher advantageous |
-| Customer Service Sales Specialist | National Customer Service Sales Association | 可选 | Valued in service industries |
-| TOEIC L&R | International Business Communication Association | 可选 | Valued in foreign-affiliated companies and hotels |
+| 商务实用礼仪测试 | 实用技能熟练度考试协会 | 可选 | 展示基本接待技能 |
+| 秘书考试 | 公益财团法人实践技能检定协会 | 可选 | 半1级或以上有利 |
+| 客户服务销售专员 | 全国客户服务销售协会 | 可选 | 在服务行业中受到重视 |
+| 托业口语与写作考试 | 国际商务沟通协会 | 可选 | 在外资企业和酒店中受重视 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 452,000. Though susceptible to economic fluctuations, demand remains stable due to ongoing labor shortages. Recruitment is particularly high in hotels and medical institutions.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 452,000。虽然易受经济波动影响，但由于持续的劳动力短缺，需求保持稳定。酒店和医疗机构招聘尤为旺盛。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,68 +41,60 @@ An administrative role at the entrance of companies or public facilities, welcom
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0-3 yrs) | $2,500,000~$3,500,000 | Annual income, pre-tax |
-| Mid-Level (4-7 yrs) | $3,500,000~$4,500,000 | Annual income, pre-tax |
-| 高级（8年以上） | $4,500,000~$5,500,000 | Manager or above |
+| 初级（0-3年经验） | $2,500,000~$3,500,000 | 年收入，税前 |
+| 中级（4-7年） | $3,500,000~$4,500,000 | 年收入，税前 |
+| 高级（8年以上） | $4,500,000~$5,500,000 | 经理及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-The introduction of AI chatbots and automated reception systems is progressing, and simple response tasks are being replaced. Meanwhile, complex complaint handling and high-level hospitality are still required from humans, leading to collaboration between AI and humans.
+AI聊天机器人和自动接待系统的引入正在推进，简单的应答任务正在被取代。同时，复杂的投诉处理和高水平接待仍需要人类完成，导致AI与人类协作。
 
-After joining, acquire customer service skills and business etiquette. With experience, can advance to chief or front manager.
+入职后掌握客服技能和商务礼仪，积累经验后可晋升为主管或前厅经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- First-level phone response
-- Reservation reception
-- Simple guidance
+- 一线电话响应
+- 预约接待
+- 简单指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Multilingual interpretation support
-- Visitor data management
-- Reservation system management
+- 多语言口译支持
+- 访客数据管理
+- 预订系统管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced communication skills
-- Complaint handling
-- Attentiveness through facial expressions and voice tone
+- 高级沟通技能
+- 投诉处理
+- 通过面部表情和语音语调关注他人
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Customer service etiquette
-- Complaint handling
-- OA skills (Excel, Word)
-- English conversation
+- 客户服务礼仪
+- 投诉处理
+- 办公软件技能（Excel、Word）
+- 英语会话
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Customer service
-- Multitasking
-- OA skills
-- Hospitality
+- 客户服务
+- 多任务处理
+- OA技能
+- 酒店管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. Reception work can be filed under Humanities. |
-| Subclass 特定技能1号(宿泊) (Specified Skilled Worker (i) (Accommodation)) | Reception work possible in hotels under this status. Japanese N4 or above. |
-| Subclass 特定技能1号(飲食料品製造業) (Specified Skilled Worker (i) (Food & Beverage Manufacturing)) | May apply to reception work at restaurant establishments. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -112,25 +102,25 @@ After joining, acquire customer service skills and business etiquette. With expe
 
 **谁适合**
 - 喜欢与人打交道者
-- People who can handle multitasking
-- Person who can respond calmly
+- 能处理多项任务的人
+- 能冷静应对的人
 
 **谁不适合**
-- Person who is not good at speaking in public
-- Person who dislikes monotonous work
+- 不擅长公开演讲的人
+- 不喜欢单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for reception and guidance clerks?**
-答：The average annual salary is around 3 to 4 million yen, varying by experience and workplace. Bonuses depend on performance.
+**问：接待和引导文员的平均年薪是多少？**
+答：平均年薪约为300万至400万日元，视经验和工作场所而定。奖金取决于绩效。
 
-**问：Is there a visa for foreigners to work in reception?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. A university degree or work experience is required. For hotel work, Specified Skilled Worker (i) (Accommodation) is also an option.
+**问：外国人从事前台工作有签证吗？**
+答：人文/国际服务领域的工程师/专家签证常见。需要大学学位或工作经验。酒店工作也可选择特定技能工人（i）（住宿）。
 
-**问：Are there any required qualifications?**
-答：No mandatory qualifications, but having a Business Manner Certification or Secretary Certification is advantageous.
+**问：是否需要任何资格证书？**
+答：无强制资格要求，但持有商务礼仪证书或秘书证书者优先。
 
 
 ---
@@ -148,12 +138,12 @@ After joining, acquire customer service skills and business etiquette. With expe
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/receptionist-information-clerk/JP)**

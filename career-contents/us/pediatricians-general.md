@@ -53,8 +53,6 @@ Pediatricians specialize in diagnosing, treating, and preventing diseases and in
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
-
 Career path: Medical school (4 years) → Pediatric residency (3 years) → Fellowship (e.g., pediatric cardiology, 3 years) → Attending physician. Can advance to department head, hospital administrative role, or academic researcher.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Medical school (4 years) → Pediatric residency (3 years) → Fell
 | Subclass J-1 Waiver (J-1 Visa Waiver) | Foreign medical graduates need a waiver for the home residency requirement, usually serving in rural areas |
 | Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Obtain a green card through PERM labor certification, requires employer support |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Common subspecialties include pediatric cardiology, pediatric oncology, neona
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pediatricians-general/US)**

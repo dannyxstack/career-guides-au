@@ -4,8 +4,6 @@
 
 Provide personal care, companionship, and daily assistance such as bathing, dressing, eating, and medication reminders in clients' homes, helping elderly or disabled individuals live independently.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Provide personal care, companionship, and daily assistance such as bathing, dres
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Far from replacing in-home personal care workers, AI will significantly enhance their capabilities, though entry-level positions may narrow slightly due to greater technical collaboration.
-
 Can advance from junior care worker to senior care worker, team leader, or care coordinator; some pursue further study to become registered nurses or social workers, or transition to management roles in home care agencies.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Can advance from junior care worker to senior care worker, team leader, or care 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Requires employer sponsorship, with a high annual salary threshold; general care workers can hardly meet it unless in senior positions. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates can stay in the Netherlands for one year to find work; nursing positions are eligible but must meet Dutch language requirements. |
-| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU/EEA citizens can work directly in the Netherlands without an additional visa. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Yes, can advance to care supervisor, care coordinator, or home care managemen
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/homebased-personal-care-worker/NL)**

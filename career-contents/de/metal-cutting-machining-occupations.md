@@ -51,8 +51,6 @@ Professionals engaged in metal cutting, operating lathes, milling machines, grin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Career progression path is clear: starting as a skilled worker (Fachkraft), you can advance to foreman (Vorarbeiter) or master (Meister), or become a technician (Techniker) or engineer through further education.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression path is clear: starting as a skilled worker (Fachkraft), you 
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can advance from tradesperson to section leader, master, or further study to 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-cutting-machining-occupations/DE)**

@@ -4,8 +4,6 @@
 
 A professional who collects, organizes, preserves materials in libraries and provides information services to users.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who collects, organizes, preserves materials in libraries and pro
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists in some librarian tasks (e.g., material classification, search), but human-specific areas like user consultation and program planning are strengthened. Complete replacement is difficult.
-
 Entry-level librarian → Full-time librarian (public/school/special library) → Senior librarian or director; master's degree and experience advantageous.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Entry-level librarian → Full-time librarian (public/school/special library) �
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible with employer invitation in specialized fields (e.g., university libraries), but very rare |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage: librarians can work, but not a direct path |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as librarians, but must meet certification requirements |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A bachelor's degree or higher in Library and Information Science and a Level 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/librarian/KR)**

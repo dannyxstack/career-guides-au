@@ -50,8 +50,6 @@ A traffic engineering expert who evaluates traffic impacts of transportation fac
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates traffic data analysis and simulation, but human expert judgment is essential for final evaluation and policy proposals. AI is used as a tool to enhance work efficiency and enable more sophisticated analysis.
-
 Start as a junior assessor and advance to mid-level (manager) and senior-level (team lead), gaining experience at large corporations, public enterprises, and engineering firms.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Start as a junior assessor and advance to mid-level (manager) and senior-level (
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Targets transportation engineering professionals, requires degree + experience |
-| Subclass F-2 (Residence (F-2-7)) | Convertible from E-7 via points system, path for long-term stay |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for this occupation, requires professional work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A bachelor's degree or higher in transportation engineering, civil engineerin
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traffic-impact-assessor/KR)**

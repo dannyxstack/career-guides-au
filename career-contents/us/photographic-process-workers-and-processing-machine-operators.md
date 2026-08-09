@@ -53,8 +53,6 @@ Performing developing and processing of photographic images from film or digital
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Photo processing workers and machine operators face high automation risk; AI-driven editing software and automatic printing systems will significantly replace routine tasks, leading to notable job decline.
-
 Promotion paths are limited; may advance from operator to senior technician or lab supervisor, but industry contraction reduces opportunities. Some move to digital image editing or photography-related fields.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Promotion paths are limited; may advance from operator to senior technician or l
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible. The occupation usually does not require a bachelor's degre
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographic-process-workers-and-processing-machine-operators/US)**

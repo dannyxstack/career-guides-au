@@ -51,8 +51,6 @@ Non-clinical psychologists focus on research, consulting, and organizational dev
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks for non-clinical psychologists—data analysis, literature review, standardized report generation—will be greatly enhanced or replaced by AI, but advanced counseling, research design, organizational intervention, and other tasks relying on human judgment and trust will still be needed. Future job structures will shift towards human-machine collaboration and strategic roles.
-
 Career path: Start as a research assistant or junior consultant, progress to senior psychologist, project manager, or department head. Academic route can lead to a PhD and professorship.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Start as a research assistant or junior consultant, progress to sen
 | Subclass Skilled Worker (Skilled Employment Visa) | Applicable to non-EU applicants holding a German-recognized degree and a job offer. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must pass qualification recognition (Anerkennung) to confirm degree equivalen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonclinical-psychologist/DE)**

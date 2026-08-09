@@ -52,8 +52,6 @@ In New Zealand, a nursery worker (nursery) is involved in plant cultivation, car
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on nursery gardeners is mixed: automation can handle heavy record-keeping, monitoring, and irrigation tasks, but plant care and customer communication require human judgment and manual skills. Entry-level positions have slightly decreased, but opportunities increase with skill upgrading.
-
 Junior horticultural workers can progress to senior horticulturalists or team supervisors through experience, and with a horticulture diploma, become horticulturists eligible for skilled migration. They can also move into nursery management or farm management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior horticultural workers can progress to senior horticulturalists or team su
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Directly working as a gardener (ANZSCO Skill Level 4) does not meet skill mig
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurseryperson/NZ)**

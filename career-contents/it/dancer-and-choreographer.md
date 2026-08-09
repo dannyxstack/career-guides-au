@@ -4,8 +4,6 @@
 
 In Italy, dancers and choreographers work in performing arts, including classical, modern, street dance and other styles, employed by theaters, television, film and independent groups.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ In Italy, dancers and choreographers work in performing arts, including classica
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on dancers and choreographers: choreography assistants and virtual rehearsals can improve efficiency, but AI poses replacement risks in basic dance instruction, ensemble choreography, and some creative work.
-
 Career progression path from group dancer to soloist or choreographer's assistant, then to choreographer or artistic director. Some dancers transition to teaching or opening dance studios.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career progression path from group dancer to soloist or choreographer's assistan
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Carta Blu UE)) | Applies to high-skilled non-EU workers requiring a university degree and high-wage contract; this occupation usually does not qualify |
-| Subclass Work Visa (Lavoro Su (Work Visa (Visto per Lavoro Subordinato)) | Requires employer sponsorship and labor market testing, applicable to long-term employment contracts |
-| Subclass Freelance Visa (Lavo (Freelance Visa (Visto per Lavoro Autonomo)) | Applies to self-employed dancers or choreographers; must demonstrate financial capacity and professional qualifications |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Can advance from ensemble dancer to soloist, then to choreographer or artisti
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dancer-and-choreographer/IT)**

@@ -4,8 +4,6 @@
 
 Primary school teachers teach multiple subjects to children aged 6 to 12, promoting their cognitive, social, and emotional development, covering language, mathematics, science, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Primary school teachers teach multiple subjects to children aged 6 to 12, promot
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on primary school teachers is mixed: automated tools can take over tasks like grading homework and basic Q&A, but teachers' core role in education and interpersonal interaction is hard to replace; the future requires integrating AI tools to improve teaching efficiency while strengthening emotional guidance and personalized coaching.
-
 Can progress from teacher to senior teacher, subject coordinator, deputy principal or principal, or move into education policy or teacher training.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can progress from teacher to senior teacher, subject coordinator, deputy princip
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU teachers, requiring a work contract and meeting the annual salary threshold (approx. €4,500/month in 2024). |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For non-EU teachers with employer sponsorship, income threshold approx. €3,672/month (under 30). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates who complete their degree in the Netherlands can apply for a 1-year job-seeking visa, and can switch after finding a teaching job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Must complete the PABO course and obtain a bachelor's degree, as well as pass
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/NL)**

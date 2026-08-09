@@ -4,8 +4,6 @@
 
 A profession that involves driving city buses, intercity buses, tour buses, etc., to safely transport passengers. Duties include route operation, vehicle inspection, and fare collection.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession that involves driving city buses, intercity buses, tour buses, etc.
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Driving, the core task of bus drivers, could be threatened long-term by full autonomous AI driving, but currently limited to partial assistance (e.g., sudden braking alerts). Humans are essential for traffic congestion and unexpected situations. For now, job reduction due to automation is not significant.
-
 Can advance from general bus driver to route manager or driver team leader; with large license and certifications, transition to premium buses (tour/express) is possible.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Can advance from general bus driver to route manager or driver team leader; with
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Some bus companies may hire foreign drivers on E-9 visa, but limited |
-| Subclass F-2 (Residence (F-2)) | Long-term residents before permanent residency can work |
-| Subclass F-4 (Overseas Korean (F-4)) | No work restrictions for overseas Koreans; bus driving allowed |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A Class 1 large vehicle license and bus driver certificate are mandatory; rou
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-driver/KR)**

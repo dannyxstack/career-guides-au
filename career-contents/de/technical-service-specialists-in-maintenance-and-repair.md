@@ -54,8 +54,6 @@ Responsible for the daily maintenance, inspection, and repair of industrial equi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Maintenance and repair technical services face moderate impact from AI automation; low-complexity preventive maintenance and fault diagnosis will be taken over by AI, but demand for comprehensive skills such as on-site repair and system integration commissioning will increase, leading to a 'polarization' trend in the role.
-
 Can progress from ordinary repair technician to senior technician or team leader, or further study to become a technical expert or Industrial Master (Industriemeister). Some shift to equipment sales or technical consulting.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from ordinary repair technician to senior technician or team leader
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows entry to find a job before securing one, requiring basic qualifications and language ability. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find work, need to prove financial means and relevant qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can further study to become an Industriemeister or technical expert, or trans
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-service-specialists-in-maintenance-and-repair/DE)**

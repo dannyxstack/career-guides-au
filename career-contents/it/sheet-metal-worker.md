@@ -51,8 +51,6 @@ Sheet metal workers are responsible for manufacturing, installing, and maintaini
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheet metal workers face mixed impacts from AI/automation: repetitive cutting and bending tasks are easily automated, but on-site installation, complex repairs, and customer communication still require human judgment; overall employment is stable but entry requirements increase.
-
 Start as an apprentice or tradesperson, advance to foreman, project manager, or specialize in precision manufacturing, building information modeling (BIM), or related technologies. Experienced professionals can start their own business.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Start as an apprentice or tradesperson, advance to foreman, project manager, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, requiring a university degree or equivalent experience, with an annual salary threshold of approximately €28,000 (2025). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa (Quota-based)) | Annual quota, applicable to non-EU workers, requires employer sponsorship. Sheet metal workers are sometimes on the quota list. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the Ministry of Labor, which assesses whether there are no suitable local candidates in the labor market. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Main pathways: Employer applies for work permit via Decreto Flussi quota, or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-worker/IT)**

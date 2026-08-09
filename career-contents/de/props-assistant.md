@@ -53,8 +53,6 @@ A props assistant is responsible for the preparation, maintenance, and managemen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on props assistants is mixed: digital tools can simplify inventory management, but the selection, aging, and on-site adjustment of physical props heavily rely on manual skills and aesthetic judgment, which is difficult to replace in the short term.
-
 Can advance from assistant to prop master or set designer; with experience, can transition to art direction or production management. Requires familiarity with digital tools and material techniques.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from assistant to prop master or set designer; with experience, can 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can be promoted to props master, set designer, or art director.
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/props-assistant/DE)**

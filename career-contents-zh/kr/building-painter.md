@@ -1,10 +1,8 @@
-# Building Painter 职业分析 · 韩国
+# 建筑油漆工（Building Painter）职业分析 · 韩国
 
-**职业代码: 70261 (KECO)**
+**职业代码：70261 (KECO)**
 
-A skilled professional who applies paint and coatings to interior and exterior surfaces of buildings to finish them, performing painting work at new construction and renovation sites.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+熟练的专业人员，将油漆和涂料涂覆到建筑内外表面以完成装修，在新建筑和翻新工地从事油漆工作。
 
 
 ---
@@ -13,8 +11,8 @@ A skilled professional who applies paint and coatings to interior and exterior s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No formal education required, on-site learning） |
-| Painting Technician certificate | 6 months | $300,000~$1,000,000（Tuition and exam fees） |
+| 高中毕业 | 0年 | $0~$0（无需正规教育，在岗学习） |
+| 涂装技术员证书 | 6个月 | $300,000~$1,000,000（学费和考试费） |
 
 ---
 
@@ -22,17 +20,17 @@ A skilled professional who applies paint and coatings to interior and exterior s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Painting Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, bonus points for employment |
-| Architectural Painting Technician | Human Resources Development Service of Korea | 可选 | Scheduled to be abolished, existing holders remain valid |
+| 油漆技术员 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，就业加分 |
+| 建筑涂装技师 | 韩国人力资源开发服务局 | 可选 | 计划废除，现有持有者保持有效 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 120,000. Due to a slowdown in the construction industry and automation, new jobs are expected to stagnate, but demand for experienced workers will remain steady due to the aging of skilled personnel.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 120,000。由于建筑行业放缓及自动化，新岗位预计停滞，但经验丰富的工人因技术人才老龄化需求将保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A skilled professional who applies paint and coatings to interior and exterior s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Daily worker basis, low experience |
-| Mid-level (4–10 years) | $32,000,000~$40,000,000 | Skilled worker, site foreman level |
-| 资深（10年以上） | $40,000,000~$55,000,000 | Expert technician, site manager level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 按日工计算，经验要求低 |
+| 中级（4-10年） | $32,000,000~$40,000,000 | 熟练工人，现场工长级别 |
+| 资深（10年以上） | $40,000,000~$55,000,000 | 专家技师、现场经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-With the introduction of automated painting robots and AI color matching systems, simple repetitive tasks are decreasing, but complex curved surface work and on-site custom adjustments still rely on human technicians, making complete replacement by AI difficult.
+随着自动喷涂机器人和AI配色系统的引入，简单重复性工作正在减少，但复杂曲面加工和现场定制调整仍依赖人类技师，AI难以完全取代。
 
-Typically start as the newest member or assistant on site, after 3–5 years become a foreman, then can advance to owner of a painting company or site manager; obtaining certifications is advantageous.
+通常从现场最年轻成员或助手做起，3-5年后成为工头，之后可晋升为油漆公司老板或现场经理；获得证书更有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Large flat surface painting
-- Simple roller work
-- Paint mixing
+- 大平面喷涂
+- 简单压路机作业
+- 调漆
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision color matching
-- Surface condition diagnosis
-- Robot painting path optimization
+- 精密配色
+- 表面状况诊断
+- 机器人喷涂路径优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex curved/decorative painting
-- Immediate judgment based on site conditions
-- Custom color combinations for clients
+- 复杂曲面/装饰性涂装
+- 根据现场条件即时判断
+- 为客户定制颜色组合
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated painting equipment operation
-- Paint chemistry understanding
-- Process management skills
+- 自动化涂装设备操作
+- 涂料化学知识
+- 流程管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction
-- Remodeling
-- Painting
-- Finishing
+- 建筑业
+- 翻新
+- 喷漆
+- 精加工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Simple functional worker in construction, eligible through Employment Permit System, convertible to E-7-1 based on skill level |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Requires over 5 years of experience and certification as a skilled worker, eligible for long-term stay |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage after long-term stay such as E-7-1, no activity restrictions |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone dexterous and meticulous
-- Someone comfortable with outdoor and high-altitude work
-- Someone who tolerates repetitive work and pursues precision
+- 心灵手巧、细致入微的人
+- 适应户外和高空工作的人
+- 适应重复性工作并追求精准的人
 
 **谁不适合**
-- Someone sensitive to chemical smells
-- Someone with a fear of heights
+- 对化学气味敏感的人
+- 恐高的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a building painter?**
-答：Entry-level: 24 to 30 million won, mid-level: 32 to 40 million won, senior: 40 to 55 million won, with significant fluctuations depending on workload due to daily wage nature.
+**问：建筑油漆工的平均年薪是多少？**
+答：入门级：2400万至3000万韩元，中级：3200万至4000万韩元，高级：4000万至5500万韩元，因日薪性质，工作量波动较大。
 
-**问：Can foreigners work as building painters?**
-答：Available with an E-9 visa, but must be assigned to a construction company through the Employment Permit System. After gaining skills, can switch to E-7-1 for long-term stay.
+**问：外国人可以做建筑油漆工吗？**
+答：可持E-9签证，但必须通过雇佣许可制度分配到建筑公司。获得技能后，可转为E-7-1长期居留。
 
-**问：Is it possible to work without a painting technician certification?**
-答：Possible, but having certification is advantageous for employment and wage negotiation, and some sites require it.
+**问：没有涂装技术员认证可以工作吗？**
+答：可能，但持证对就业和薪资谈判有利，有些岗位要求持证。
 
 
 ---
@@ -144,12 +134,12 @@ Typically start as the newest member or assistant on site, after 3–5 years bec
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-painter/KR)**

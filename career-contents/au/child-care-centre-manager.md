@@ -53,8 +53,6 @@ Responsible for managing the daily operations of a childcare centre, including s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Childcare center manager roles will not be fully replaced by AI, but administrative and compliance tasks will be highly automated, while the value of interpersonal management and educational guidance will increase. Future roles will focus more on strategic planning, team leadership, and high-risk decision-making, with higher entry barriers.
-
 Can progress from early childhood teacher or team leader to centre manager; experienced individuals can become regional manager or early childhood consultant. Some managers further obtain a business degree and enter education policy or training fields.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from early childhood teacher or team leader to centre manager; expe
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer-sponsored temporary visa, can transfer to 191 permanent residence after 3 years |
 | Subclass 189 (Skilled Independent Visa) | Permanent skilled independent visa, must meet occupation list and EOI points requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Common pathways include employer-sponsored visas (482, 186, 494) and Skilled 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-care-centre-manager/AU)**

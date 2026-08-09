@@ -54,8 +54,6 @@ In Germany, pilots are responsible for flying commercial airliners, cargo planes
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Career path typically starts as a co-pilot, accumulating flight hours to become a captain, then can progress to training captain, flight inspector, or management roles (e.g., flight operations director); some pilots transition to business aviation or flight schools.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path typically starts as a co-pilot, accumulating flight hours to become 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must hold a recognized pilot license and have an employer contract |
 | Subclass Chancenkarte (Opportunity Card) | May come to Germany on a job-seeking visa to find pilot positions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Some difficulty; need to obtain EASA license and employer contract first. Ger
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pilot-airline-pilot/DE)**

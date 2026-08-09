@@ -52,8 +52,6 @@ Responsible for the operational management of catering enterprises, including st
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Restaurant managers face dual impact of automation: scheduling, inventory, ordering and other procedural tasks are compressed by AI, but strategic decision-making and customer relationship management still rely on humans; entry-level management roles narrow due to higher digitalisation requirements, but senior managers gain amplification through data tools.
-
 Career paths typically start from entry-level roles (e.g., chef, waiter), progress through training to department head, then to restaurant manager or regional manager. Further development can lead to operations director or starting your own business.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career paths typically start from entry-level roles (e.g., chef, waiter), progre
 | Subclass Skilled Worker (Skilled Employment Visa) | Need to obtain a degree or professional qualification recognized in Germany, employer sponsorship, and lower annual salary threshold. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job search in Germany, suitable for those with relevant experience and language skills. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, you can advance to regional manager, operations manager, or even start y
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-and-system-gastronomy-manager/DE)**

@@ -54,8 +54,6 @@ Retail salespersons in New Zealand retail stores, supermarkets, and specialty st
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
-
 Junior sales staff can advance to senior salesperson, team leader, or department manager, then to store manager. Some transition to purchasing, marketing, or entrepreneurship by opening retail stores. Accumulating customer service and sales experience is needed, and New Zealand local retail certifications aid advancement.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior sales staff can advance to senior salesperson, team leader, or department
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes, can advance to senior salesperson, department head, or store manager. La
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-assistant-general/NZ)**

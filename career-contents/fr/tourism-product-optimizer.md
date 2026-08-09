@@ -53,8 +53,6 @@ Responsible for analyzing and optimizing the travel product portfolio, including
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 You can be promoted from travel product specialist to product manager or business development manager, and after gaining experience, you can transition to consulting or entrepreneurship. Mastering data analysis skills helps enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from travel product specialist to product manager or busines
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for finding eligible jobs or starting businesses in France, with relaxed conditions |
-| Subclass Salarié (Employee) | Employer-sponsored work residence requires obtaining a work visa or company job transfer |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, with an annual salary at least 1.5 times the average salary |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You can obtain a French employer contract through the Passeport Talent or Sal
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourism-product-optimizer/FR)**

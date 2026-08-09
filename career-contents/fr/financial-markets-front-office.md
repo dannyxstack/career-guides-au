@@ -53,8 +53,6 @@ Work on the trading floors of banks or financial institutions, responsible for b
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly amplify traders' profitability but will reduce entry-level execution positions; High-complexity decision-making and risk management still depend on humans.
-
 Typically, they start as trading assistants or analysts, and after gaining experience, can be promoted to trader, senior trader, and may eventually become trading department heads or managing directors. Some have turned to hedge funds or asset management companies.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Typically, they start as trading assistants or analysts, and after gaining exper
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires work contract with annual salary approx. €50,000+, valid for 4 years. |
-| Subclass Salarié (Employee Work Permit) | Standard employment work visa, requires company sponsorship, mainly for non-urgent positions. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary starting at €53,495 (2023), valid for 4 years, and allows family members. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Starting as a trading assistant or analyst, gradually becoming a trader or se
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-markets-front-office/FR)**

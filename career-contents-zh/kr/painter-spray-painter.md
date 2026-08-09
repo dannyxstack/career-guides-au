@@ -1,10 +1,8 @@
-# Painter (Spray Painter) 职业分析 · 韩国
+# 油漆工（喷漆工）（Painter (Spray Painter)）职业分析 · 韩国
 
-**职业代码: 82511 (KECO)**
+**职业代码：82511 (KECO)**
 
-Performs work of applying paint to surfaces of various materials such as metal, wood, and plastic using spray equipment.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用喷涂设备对金属、木材和塑料等各种材料的表面进行涂漆作业。
 
 
 ---
@@ -13,8 +11,8 @@ Performs work of applying paint to surfaces of various materials such as metal, 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Job center vocational training | 6 months | $0~$500,000（Government funding available） |
-| Related department at college | 2 年 | $6,000,000~$12,000,000（Painting engineering, etc.） |
+| 职业中心职业培训 | 6个月 | $0~$500,000（可申请政府资助） |
+| 大学相关院系 | 2 年 | $6,000,000~$12,000,000（涂装工程等） |
 
 ---
 
@@ -22,18 +20,18 @@ Performs work of applying paint to surfaces of various materials such as metal, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metal Coating Technician | Human Resources Development Service of Korea | 可选 | National Technical Qualification |
-| Master Painter | Human Resources Development Service of Korea | 可选 | Advanced skilled certification |
-| Specialized Painter | Human Resources Development Service of Korea | 可选 | Optional qualification |
+| 金属涂层技术员 | 韩国人力资源开发服务局 | 可选 | 国家技术资格 |
+| 高级油漆工 | 韩国人力资源开发服务局 | 可选 | 高级技能认证 |
+| 专业油漆工 | 韩国人力资源开发服务局 | 可选 | 可选资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 28,000. Demand for labor is gradually decreasing due to manufacturing automation, but demand for skilled workers is expected to remain in precision painting and specialty painting fields.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 28,000。由于制造业自动化，劳动力需求逐渐减少，但预计精密涂装和特殊涂装领域对技术工人的需求将保持。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,68 +39,60 @@ Performs work of applying paint to surfaces of various materials such as metal, 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Pre-tax annual salary basis |
-| Mid-level (4–9 years) | $30,000,000~$40,000,000 | Varies by skill level |
-| 资深（10年以上） | $40,000,000~$55,000,000 | Foreman level or above |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 年度税前工资基数 |
+| 中级（4-9年） | $30,000,000~$40,000,000 | 因技能水平而异 |
+| 资深（10年以上） | $40,000,000~$55,000,000 | 工头级或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Due to AI and automation, simple painting tasks are gradually decreasing, but in high-precision and specialty painting fields, human skill is still required, so some roles are expected to persist.
+由于AI和自动化，简单涂装任务逐渐减少，但在高精度和专业涂装领域，仍需要人类技能，因此部分岗位预计将持续存在。
 
-Can advance from entry-level painter to skilled worker, foreman, and process manager; obtaining certifications and experience is important.
+可以从初级油漆工晋升为熟练工、工头和工艺经理；获得认证和经验很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic car body painting
-- Simple spray painting of mass-produced products
-- General metal part painting
+- 基本车身喷漆
+- 批量生产产品的简单喷涂
+- 一般金属零件涂装
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precise color matching and tinting
-- Specialty painting (anti-corrosion, heat-resistant, etc.)
-- Paint quality inspection and repair
+- 精确配色和调色
+- 特种涂装（防腐、耐热等）
+- 油漆质量检查与修补
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex painting tasks requiring fine adjustments
-- Flexible response to on-site conditions
-- Custom manual painting
+- 需要精细调整的复杂涂装任务
+- 灵活应对现场条件
+- 定制手工喷漆
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of robot painting systems
-- Knowledge of surface treatment processes
-- Quality control and measurement techniques
-- Understanding of eco-friendly paint characteristics
+- 机器人喷涂系统操作
+- 表面处理工艺知识
+- 质量控制与测量技术
+- 了解环保涂料特性
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation
-- Precision painting
-- Eco-friendly paints
-- Robot painting
+- 自动化
+- 精密喷涂
+- 环保涂料
+- 机器人喷涂
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Unskilled painting work is possible but limited |
-| Subclass E-7 (Specific Activities) | Employment is limited to skilled technicians |
-| Subclass F-2 (Residence) | Long-term residence status, free employment possible |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -110,25 +100,25 @@ Can advance from entry-level painter to skilled worker, foreman, and process man
 
 **谁适合**
 - 细心且注重细节的人
-- Patient and tolerant of repetitive tasks
-- Teamwork-oriented person
+- 有耐心且能容忍重复性任务
+- 注重团队合作的人
 
 **谁不适合**
-- Someone with severe allergies or sensitivity to hazardous environments
-- Someone bored by simple repetitive tasks
+- 对危险环境严重过敏或敏感的人
+- 厌倦简单重复任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a painter?**
-答：For entry-level, about 24-30 million KRW, skilled workers 30-40 million KRW, and advanced technicians 40-55 million KRW.
+**问：画家的平均工资是多少？**
+答：对于入门级，约2400-3000万韩元，熟练工人3000-4000万韩元，高级技术人员4000-5500万韩元。
 
-**问：What visa does a foreigner need to work as a painter?**
-答：Unskilled work is possible with the E-9 visa, skilled technicians with the E-7 visa, and for long-term residence, one can switch to the F-2 visa.
+**问：外国人做画家工作需要什么签证？**
+答：E-9签证可从事非技术工作，E-7签证适用于技术工人，长期居住可转为F-2签证。
 
-**问：What is the career progression as a painter?**
-答：Promotion is possible from beginner → intermediate → advanced (foreman) → process manager, and certification and experience are important.
+**问：画家的职业发展路径是什么？**
+答：晋升路径为：初级 → 中级 → 高级（工长）→ 流程经理，证书和经验至关重要。
 
 
 ---
@@ -146,12 +136,12 @@ Can advance from entry-level painter to skilled worker, foreman, and process man
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/painter-spray-painter/KR)**

@@ -54,8 +54,6 @@ In Germany, paediatric nurses care for sick, premature, or disabled children and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Junior pediatric nurses can advance to specialist areas (e.g., neonatal intensive care) or, through further training, into nursing management (e.g., department head) or education roles. They can also pursue a Bachelor of Nursing Science for research or teaching.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior pediatric nurses can advance to specialist areas (e.g., neonatal intensiv
 | Subclass Skilled Worker (Skilled Immigration Act) | Main pathway: after obtaining qualification certification, secure a German employer contract and apply for a skilled migration visa. No salary threshold, but qualification recognition is required. |
 | Subclass Chancenkarte (Opportunity Card) | A job seeker visa based on points system, allowing one year to find work in Germany, suitable for applicants with professional qualifications and German B1 or above. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can become a specialized nurse in neonatal ICU, pediatric oncology, etc., or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pediatric-nurse-specialist/DE)**

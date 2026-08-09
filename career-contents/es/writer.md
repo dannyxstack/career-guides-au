@@ -4,8 +4,6 @@
 
 Writers are responsible for creating literary works such as novels, poetry, scripts, or nonfiction content (such as biographies, histories, reviews), which may involve publishers, media, the film industry, or freelancing, playing a central role in Spain's cultural and creative industries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Writers are responsible for creating literary works such as novels, poetry, scri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The writer profession faces huge opportunities in AI-assisted creation, but the entry barrier has been lowered due to the widespread adoption of AI tools, intensifying competition, and overall risks and opportunities coexist.
-
 Promotion path: Freelance writer→ contracted publisher→ well-known author; Or start as assistant editor or content planner. Large publishing groups or film companies offer limited full-time positions. Some writers also teach creative writing courses or engage in translation. Success depends on market recognition of works and personal branding.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Promotion path: Freelance writer→ contracted publisher→ well-known author; O
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | A full-time contract is required from a Spanish publisher or media outlet, but the industry is scarce and employers find it difficult to guarantee it |
-| Subclass Cuenta propia (Self-employed work permit) | Freelance writers can apply, but must prove stable income and clients, with high entry requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Traditional publishing has slowed growth, but demand for digital content, sel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/writer/ES)**

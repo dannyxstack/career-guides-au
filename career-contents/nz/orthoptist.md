@@ -51,8 +51,6 @@ Orthoptists diagnose and treat visual disorders such as strabismus and amblyopia
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The diagnostic and training parts of orthoptists can be enhanced by AI, but direct clinical operations, patient communication, and personalized plans rely on human judgment. Overall, AI impact is moderate.
-
 Junior orthoptists can start in hospital eye departments or clinics, and with experience can progress to senior specialist, department head, or enter academic research, or open their own clinic.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior orthoptists can start in hospital eye departments or clinics, and with ex
 | Subclass SMC (Skilled Migrant Category) | Can use the 6-point skilled migration system, with 6 points after registration, need to meet age, English, health and other requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a transition pathway to a work visa, requires accredited employer sponsorship, can later convert to residency. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: The only pathway is to complete the 4-year Bachelor of Orthoptics at the Univ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthoptist/NZ)**

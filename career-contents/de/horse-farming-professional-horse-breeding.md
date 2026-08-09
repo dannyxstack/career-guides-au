@@ -53,8 +53,6 @@ Responsible for the feeding, breeding, health management, and training of horses
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI improves efficiency in data analysis and health monitoring, but core breeding decisions, manual operations, and animal emotional interaction are hard to replace, resulting in mixed job task impacts.
-
 May advance from horse worker to breeding supervisor or stable manager, or study animal science for broader agricultural management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ May advance from horse worker to breeding supervisor or stable manager, or study
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Non-EU citizens need recognized occupational qualifications (e.g. German dual
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horse-farming-professional-horse-breeding/DE)**

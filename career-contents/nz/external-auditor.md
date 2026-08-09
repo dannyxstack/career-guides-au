@@ -52,8 +52,6 @@ Independently review corporate financial statements and internal controls to ens
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate data collection and some verification tasks, but audit judgment, fraud detection, and emerging areas like ESG still require human leadership, transitioning auditors toward data analysis and consulting roles.
-
 Junior auditors can progress to senior auditor/audit manager, then to partner, or transition to internal audit or risk management. CPA/CA certification is key.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior auditors can progress to senior auditor/audit manager, then to partner, o
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, a master's degree plus skilled work can achieve 6 points, eligible for direct application. |
 | Subclass AEWV (Accredited Employer Work Visa) | If green list requirements not met, can be sponsored by accredited employer for work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but having CA or CPA qualifications significantly enhances emp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/external-auditor/NZ)**

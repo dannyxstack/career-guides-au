@@ -54,8 +54,6 @@ Operate locomotives or small rail locomotives in railway yards, factories, quarr
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Railway yard locomotive drivers face a mix of automation and augmentation: autonomous driving technology can replace some line driving, but complex decisions, multi-device coordination, and emergency handling in the yard still require humans, with overall risk being medium.
-
 Can progress from yard worker to locomotive engineer or dispatcher, and some enter rail transport management. Requires experience and internal certification.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from yard worker to locomotive engineer or dispatcher, and some ent
 | Subclass H-1B (Specialist work visa) | Generally does not meet H-1B educational requirements, rarely used. |
 | Subclass EB-3 (Employment-based immigration: third preference) | Can apply through PERM labor certification, but employer-sponsored immigration for this occupation is very limited with long wait times. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a high school diploma, passing background check and drug tes
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-yard-engineers-dinkey-operators-and-hostlers/US)**

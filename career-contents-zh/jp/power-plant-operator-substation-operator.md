@@ -1,10 +1,8 @@
-# Power Plant Operator, Substation Operator 职业分析 · 日本
+# 电厂操作员、变电站操作员（Power Plant Operator, Substation Operator）职业分析 · 日本
 
-**职业代码: 641 (JSCO)**
+**职业代码：641 (JSCO)**
 
-Specialist responsible for operating, monitoring, and maintaining equipment to ensure stable power supply at power plants and substations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责操作、监控和维护设备以确保发电厂和变电站稳定供电的专家
 
 
 ---
@@ -13,8 +11,8 @@ Specialist responsible for operating, monitoring, and maintaining equipment to e
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Public schools free; private approx. 1 million JPY/year） |
-| Technical College, Vocational School | 2-3年 | $2,000,000~$5,000,000（Electrical Engineering, etc.） |
+| 高中 | 3年 | $0~$3,000,000（公立学校免费；私立约100万日元/年） |
+| 技术学院、职业学校 | 2-3年 | $2,000,000~$5,000,000（电气工程等） |
 
 ---
 
@@ -22,19 +20,19 @@ Specialist responsible for operating, monitoring, and maintaining equipment to e
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrical Chief Engineer (Class 3 or higher) | Ministry of Economy, Trade and Industry | 必备 | Required for maintenance management of power plants/substations |
-| Electrician (Class 1 or 2) | Ministry of Economy, Trade and Industry | 可选 | Not required for practice but advantageous |
-| High Pressure Gas Manufacturing Safety Officer | Ministry of Economy, Trade and Industry | 可选 | Required at gas-handling power plants |
-| Hazardous Materials Handler (Class A, etc.) | Fire and Disaster Management Agency | 可选 | Useful for fuel handling |
+| 电气总工程师（3级或以上） | 经济产业省 | 必备 | 发电厂/变电站维护管理所需 |
+| 电工（1级或2级） | 经济产业省 | 可选 | 非执业必需但有利 |
+| 高压燃气制造安全官员 | 经济产业省 | 可选 | 燃气发电厂所需 |
+| 危险品处理员（A级等） | 消防与灾害管理局 | 可选 | 可用于燃料处理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 68,000. Due to the expansion of renewable energy and the need to replace aging thermal and nuclear power plants, stable employment is expected to be maintained in the mid to long term.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 68,000。由于可再生能源扩张和老化火电/核电站的替换需求，中长期就业预计将保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,97 +40,89 @@ Specialist responsible for operating, monitoring, and maintaining equipment to e
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $3,500,000~$4,500,000 | Base salary + various allowances |
-| Mid-career (4-9 years) | $5,000,000~$6,500,000 | Including qualification and night shift allowances |
-| Veteran (10+ years) | $7,000,000~$9,000,000 | Including chief and management allowances |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 基本工资 + 各项津贴 |
+| 中期职业（4-9年） | $5,000,000~$6,500,000 | 包括资格津贴和夜班津贴 |
+| 资深（10年以上） | $7,000,000~$9,000,000 | 包括主管和管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Due to advances in automation and AI for remote monitoring/operation support, some monitoring tasks will decrease, but maintenance, inspection, and emergency response requiring human judgment will remain. Overall, job content will change, and staffing is expected to be slightly reduced.
+由于自动化及人工智能在远程监控/操作支持方面的进步，部分监控任务将减少，但需要人为判断的维护、检查和应急响应仍将保留。总体而言，工作内容将发生变化，人员编制预计会略有减少。
 
-Career path from power plant operator to substation manager or central load dispatching center operator. Obtain national certifications or electrical chief engineer licenses for promotion and specialization.
+从发电厂操作员到变电站经理或中央负荷调度中心操作员的职业路径。获得国家证书或电气总工程师执照以晋升和专业化。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine parameter monitoring
-- Daily report creation and recording
-- Simple anomaly detection (pattern-based)
-- Part of remote operation support
+- 常规参数监控
+- 每日报告创建与记录
+- 简单异常检测（基于模式）
+- 远程操作支持的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Early detection of anomalies (AI analysis)
-- Equipment diagnosis and life prediction
-- Optimal operation planning
-- Remote-assisted maintenance work
+- 异常早期检测（AI分析）
+- 设备诊断与寿命预测
+- 优化运行规划
+- 远程辅助维护工作
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency judgment and response
-- Troubleshooting for complex failures
-- Legal compliance and safety management
-- On-site interpersonal communication
+- 紧急判断与应对
+- 复杂故障的排查
+- 法律合规与安全管理
+- 现场人际沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis/IoT knowledge
-- AI tool operation
-- Chief Electric Engineer (higher qualification)
-- Renewable energy technology
+- 数据分析/物联网知识
+- 人工智能工具操作
+- 首席电气工程师（高级资质）
+- 可再生能源技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Smart grid
-- Certified Electrical Engineer
-- Growing demand
+- 可再生能源
+- 智能电网
+- 认证电气工程师
+- 需求增长
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for jobs requiring electrical engineering knowledge. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not currently applicable as the field is not covered. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Obtainable via points system with qualifications like chief electrical engineer and high income. |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Prefers physically active work
-- Can do night shifts and rotating shifts
-- High sense of responsibility and concentration
+- 偏好体力活动型工作
+- 能上夜班和轮班
+- 高度责任感和专注力
 
 **谁不适合**
-- Prefers desk work
-- Cannot adapt to irregular lifestyle
+- 偏好案头工作
+- 无法适应不规律生活方式
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for power plant/substation operators?**
-答：Depending on experience and qualifications, roughly 3.5–4.5 million yen for entry-level, 5–6.5 million for mid-career, and 7–9 million for veterans.
+**问：发电厂/变电站操作员的平均年收入是多少？**
+答：根据经验和资质，入门级约350-450万日元，中级500-650万日元，高级700-900万日元。
 
-**问：What visa is required for foreigners to work in this occupation?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. A university degree in electrical engineering or equivalent work experience is required.
+**问：外国人在此职业工作需要什么签证？**
+答：人文科学/国际服务工程师/专家签证常见，需电气工程大学学位或同等工作经验。
 
-**问：Are there required qualifications?**
-答：A Certified Electrical Engineer (Class 3 or higher) is legally required. Electrician or High-Pressure Gas Safety Officer certifications are advantageous.
+**问：是否需要必备资格？**
+答：法律要求持有注册电气工程师（3级或以上）证书。电工或高压气体安全官员证书是有利的。
 
 
 ---
@@ -150,12 +140,12 @@ Career path from power plant operator to substation manager or central load disp
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/power-plant-operator-substation-operator/JP)**

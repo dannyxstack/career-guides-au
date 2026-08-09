@@ -4,8 +4,6 @@
 
 Professional responsible for collection, preservation, exhibition, and educational activities in museums and art galleries. Plays a role in academic knowledge and cultural property protection.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Professional responsible for collection, preservation, exhibition, and education
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used for digital archiving of materials and advanced search systems, but human judgment is indispensable for many tasks such as exhibition planning creativity, interpersonal education, and physical handling of cultural properties, so replacement is limited.
-
 Career advancement: Assistant Curator → Curator → Senior Curator → Director. Performance and expertise are valued; master's or doctoral degree holders have an advantage.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Career advancement: Assistant Curator → Curator → Senior Curator → Directo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Curator work is eligible. Requires university graduation and work experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Possible if you achieve high scores under the point system for education, experience, etc. |
-| Subclass 特定技能 (Specified Skilled Worker) | Not eligible. Curator is not included in the specified skilled worker fields. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: The typical path is to take the necessary courses for a curator qualification
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/curator/JP)**

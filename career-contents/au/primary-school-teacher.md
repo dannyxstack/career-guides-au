@@ -51,8 +51,6 @@ Primary school teachers are responsible for K–6 teaching, classroom management
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
-
 Must complete 4 years of higher education (including teacher education qualification) + teacher registration in each state; career progression to head of department or deputy principal is possible.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Must complete 4 years of higher education (including teacher education qualifica
 | Subclass 491 (Skilled Work Regional) | Regional area bonus points |
 | Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a 4-year bachelor's degree or 2-year master's degree in teacher educ
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/AU)**

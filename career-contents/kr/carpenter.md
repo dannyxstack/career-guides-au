@@ -49,8 +49,6 @@ A specialized technical profession that processes wood and installs/constructs s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation is limited. Carpentry relies on manual work and on-site adaptability, making it difficult to replace with AI. However, repetitive tasks are being reduced by design and automatic cutting machines.
-
 Career advancement is possible from skilled worker to foreman to site manager, and acquiring the Ministry of Land, Infrastructure and Transport's functional certification or Master Carpenter certification is advantageous for career development.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Career advancement is possible from skilled worker to foreman to site manager, a
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible to hire foreign workers in construction, entry via Employment Permit System |
-| Subclass E-7 (Specific Activities (E-7)) | For skilled workers, carpentry possible |
-| Subclass F-2 (Residence (F-2)) | Possible to convert to permanent residence after a certain period, no employment restrictions |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: Entry-level → Intermediate → Lead → Site supervisor. Obtaining a Carpen
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter/KR)**

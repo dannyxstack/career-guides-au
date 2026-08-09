@@ -4,8 +4,6 @@
 
 A professional research position that explores fundamental issues such as human existence, values, and knowledge by studying philosophical theories and ideas.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional research position that explores fundamental issues such as human 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although it is difficult for AI to completely replace philosophical research, AI tools improve research efficiency in areas such as paper search, text analysis, and machine translation, so researchers will change to actively utilize AI.
-
 After obtaining a master's or doctoral degree, one advances to become a university professor, a researcher at a research institute, or a researcher at a government or corporate research center. Research achievements and publication of papers in English are important for promotion.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ After obtaining a master's or doctoral degree, one advances to become a universi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a researcher at a research institute or university |
-| Subclass E-1 (Professor) | Possible when invited as a university professor |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: After obtaining a master's or doctoral degree, one advances to a university p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/philosophy-researcher/KR)**

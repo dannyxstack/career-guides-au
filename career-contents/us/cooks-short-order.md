@@ -53,8 +53,6 @@ Short-order cooks quickly prepare and cook various foods requiring short prepara
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
-
 Career advancement paths are limited; common developments include becoming a line cook, kitchen supervisor, or restaurant manager. Some short-order cooks may transition to high-end dining or specialized cooking through experience. Training is mostly on-the-job, with a few attending culinary school.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career advancement paths are limited; common developments include becoming a lin
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Available for seasonal hospitality positions, but non-immigrant intent restrictions apply; employer must demonstrate labor shortage. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Theoretically possible via PERM, but short-order cooks rarely meet special skill requirements, extremely difficult to approve. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: common career progression includes becoming a line cook, kitchen supervisor, 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooks-short-order/US)**

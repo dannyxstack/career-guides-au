@@ -52,8 +52,6 @@ A production process specialist responsible for operating, monitoring, and adjus
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The role of operators in printing and bookbinding processes is shrinking due to AI and automation. Especially offset printing plate management and color adjustment are being replaced by AI-equipped systems. However, human judgment remains important in label and packaging printing requiring high quality, as well as small-lot, high-mix production sites.
-
 Career path starts from operator to machine specialist or production manager. Acquiring digital printing and automation skills broadens career opportunities.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Career path starts from operator to machine specialist or production manager. Ac
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Metal Molding, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Covers 3 manufacturing fields, including printing. 5-year residency, requires skill exam and N4+ Japanese. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For printing engineers and digital printing technicians. Requires specialized knowledge (e.g., university degree). |
-| Subclass 技能 (Skilled Worker Visa) | For experienced skilled workers like certified printing technicians. Requires 10+ years of work experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: It is common to learn the basics at Hello Work vocational training (printing 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-binding-equipment-control-monitoring-staff/JP)**

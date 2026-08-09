@@ -53,8 +53,6 @@ Operate and maintain bridges, locks, and lighthouses to ensure safe vessel passa
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry-level positions for transport/station officials (e.g., ticketing, patrol) are susceptible to replacement by self-service ticket machines and AI surveillance, but core tasks like emergency handling, law enforcement discretion, and public service still rely on humans—a mixed blessing.
-
 Usually starts as junior operator, advances to senior operator or supervisor through training and experience. Some may move into water traffic management or port authority roles, but advancement is limited.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually starts as junior operator, advances to senior operator or supervisor thr
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Applies to temporary non-agricultural workers, but this occupation is not typically sponsored under H-1B; H-2B may apply for seasonal needs |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Theoretically possible via EB-3 green card, but requires employer sponsorship and proof of labor shortage; very rare in practice. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually only requires a high school diploma, employers provide on-the-job tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bridge-and-lock-tenders/US)**

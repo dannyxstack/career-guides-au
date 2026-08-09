@@ -53,8 +53,6 @@ Responsible for planning, planting, cultivating, and harvesting vegetable crops,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vegetable growers face the dual impact of automation and AI: greenhouse automation reduces some manual roles, but AI amplifies efficiency in planting decisions, pest/disease warnings, and supply chain optimization; entry barriers lower but skill requirements upgrade, requiring proficiency in data and equipment operation.
-
 Can advance from general planter to senior grower or farm manager. With experience, can start a business or become a consultant. Some move into agricultural technology, organic farming, or export management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from general planter to senior grower or farm manager. With experien
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored employer work visa, requires employer sponsorship |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point scoring system |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires an agricultural certificate or diploma, but relevant work 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-grower-aus-market-gardener-nz/NZ)**

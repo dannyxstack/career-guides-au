@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing telecommunications cables
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line installers and repairers face a high risk of automation, especially as automatic fiber fusion splicing, drone inspection, and AI-assisted fault diagnosis will significantly reduce manual demand, but on-site work and emergency response still provide some protection.
-
 Can advance from junior installer to senior technician, team supervisor, or transition to roles like network planning, project management, etc.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior installer to senior technician, team supervisor, or tran
 | Subclass EB-3 (Employment-Based Third Preference) | Skilled worker category, requires PERM labor certification, with a priority date wait of about 2-4 years. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card, proving shortage of US workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, can advance to senior technician, team leader, project manager, or trans
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-line-installers-and-repairers/US)**

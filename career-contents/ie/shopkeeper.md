@@ -55,8 +55,6 @@ Shopkeepers manage the daily operations of retail stores, including sales, inven
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI's impact on store owners is mixed: automated inventory management and customer analytics will compress traditional functions, but AI-enhanced personalized services and marketing capabilities can amplify the value of store owners, requiring proactive transformation.
-
 Store owners typically start as shop assistants and can advance to regional manager or open multiple stores with experience; career path depends on business acumen and capital.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Store owners typically start as shop assistants and can advance to regional mana
 | Subclass EU Blue Card (EU Blue Card) | Not usually applicable to shopkeeper occupations as they do not require higher education. |
 | Subclass Start-up Entrepreneu (Start-up Entrepreneur Programme) | If planning to open a new store, you can apply for this visa, requiring an investment of 50,000 euros. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Highly competitive, especially against large chains and e-commerce, but small
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shopkeeper/IE)**

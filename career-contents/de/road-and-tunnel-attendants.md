@@ -52,8 +52,6 @@ Responsible for daily inspection, maintenance, and cleaning of roads and tunnels
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Highway maintenance workers will face the dual impact of automation and AI enhancement: repetitive manual tasks (e.g., road patching, weeding) may be replaced by automated equipment, but on-site judgment, emergency response, and complex repairs still rely on human experience. The role is undergoing structural adjustment rather than wholesale elimination.
-
 Can progress from entry-level worker to senior maintenance technician or team leader, or move into traffic management or municipal engineering fields.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from entry-level worker to senior maintenance technician or team le
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Requires completing a recognized vocational training (dual system) in Germany
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-and-tunnel-attendants/DE)**

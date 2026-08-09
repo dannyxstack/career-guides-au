@@ -4,8 +4,6 @@
 
 Topographic surveyors are responsible for using GPS, total stations, and other equipment for ground measurement, mapping, or providing data needed for building and engineering projects. The work includes data collection, processing, and report preparation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Topographic surveyors are responsible for using GPS, total stations, and other e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Topographic surveyors' work faces moderate to high automation risks. AI and automation tools will take over massive data collection and processing tasks, but human advantages such as judging complex field environments, regulatory compliance, and client coordination remain irreplaceable, and roles will shift toward technical consulting and data management.
-
 Starting as a junior surveyor, you can be promoted to project leader or expert surveyor. Through experience accumulation and qualification certification, you have the opportunity to enter management or practice independently.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Starting as a junior surveyor, you can be promoted to project leader or expert s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | You must obtain a French employer employment contract, and the position must pass a labor market test (e.g., Pôle emploi confirms there are no suitable candidates). |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-skilled positions, the annual salary must reach 1.5 times the French average (about 53,800 euros), which usually does not meet the salary standard. |
-| Subclass Passeport Talent (Talent Passport (Qualified Employee)) | An annual salary of at least about 37,000 euros is required, and the contract matches a high-skilled position. The likelihood is low, unless you hold a senior management position. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: You must hold a BTS Métiers du géomètre-topographe or an equivalent diplom
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/topographic-surveyor/FR)**

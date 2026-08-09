@@ -4,8 +4,6 @@
 
 Licensed maritime professional responsible for voyage planning, ship handling, and safety monitoring. Works on the bridge of merchant or passenger vessels.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Licensed maritime professional responsible for voyage planning, ship handling, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Autonomous ships and AI route optimization are developing, but complex decisions and emergency responses rely on humans. AI complements navigators' duties, enhancing safety; no full replacement anytime soon.
-
 Career progression: Junior Navigator → 3rd Officer → 2nd Officer → Chief Officer. Further to Captain or shore-based roles (operations management, inspection).
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Career progression: Junior Navigator → 3rd Officer → 2nd Officer → Chief O
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible if foreign maritime license holders are employed by Japanese shipping companies, but compatibility with national qualifications must be confirmed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as outside target fields. |
-| Subclass 技能実習 (Technical Intern Training) | Navigators are not eligible for Technical Intern Training. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Requires Japanese maritime certificate; limited compatibility with foreign li
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/navigator-watchkeeping-officer/JP)**

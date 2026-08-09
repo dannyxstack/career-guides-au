@@ -1,8 +1,8 @@
-# Electricity, Gas, and Water Supply Manager 职业分析 · 韩国
+# 电、气和水供应经理（Electricity, Gas, and Water Supply Manager）职业分析 · 韩国
 
-**职业代码: 01621 (KECO)**
+**职业代码：01621 (KECO)**
 
-This occupation oversees the operation and maintenance of energy and water supply facilities such as electricity, gas, and water, managing stable supply.
+该职业负责监督电力、燃气和水等能源及供水设施的运营与维护，管理稳定供应。
 
 
 ---
@@ -11,9 +11,9 @@ This occupation oversees the operation and maintenance of energy and water suppl
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Possible through field experience after high school） |
-| 副学士学位 | 2 年 | $6,000,000~$12,000,000（Electricity/energy related majors） |
-| 学士学位 | 4年 | $12,000,000~$24,000,000（Related degree such as electrical engineering） |
+| 高中毕业 | 0年 | $0~$0（高中毕业后通过现场经验可行） |
+| 副学士学位 | 2 年 | $6,000,000~$12,000,000（电力/能源相关专业） |
+| 学士学位 | 4年 | $12,000,000~$24,000,000（相关学位如电气工程） |
 
 ---
 
@@ -21,18 +21,18 @@ This occupation oversees the operation and maintenance of energy and water suppl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician Engineer | Human Resources Development Service of Korea | 必备 | Essential for promotion to manager |
-| Electrical Construction Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for managing large-scale facilities |
-| Gas Technician | Human Resources Development Service of Korea | 可选 | Necessary for managing gas fields |
+| 电工工程师 | 韩国人力资源开发服务局 | 必备 | 对晋升为经理至关重要 |
+| 电气施工工程师 | 韩国人力资源开发服务局 | 可选 | 有利于管理大型设施 |
+| 燃气技师 | 韩国人力资源开发服务局 | 可选 | 管理气田所必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. Due to aging infrastructure and the expansion of smart grids and renewable energy, demand for utility management remains steady, but employment may fluctuate depending on government budgets and regulations.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。由于基础设施老化以及智能电网和可再生能源的扩展，公用事业管理的需求保持稳定，但就业可能因政府预算和法规而波动。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,87 @@ This occupation oversees the operation and maintenance of energy and water suppl
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $35,000,000~$45,000,000 | Based on entry-level manager |
-| 中级（4-9年） | $50,000,000~$70,000,000 | Middle Manager |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Department Head Level |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于初级经理级别 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 中层经理 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 部门主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI contributes to operational efficiency such as power demand forecasting and pipe leak detection, but complete replacement is difficult because human judgment and field experience are essential for on-site inspections, emergency response, and safety management.
+AI有助于电力需求预测和管道泄漏检测等运营效率，但完全替代困难，因为现场检查、应急响应和安全管理部门仍需人工判断和现场经验。
 
-After building experience as a technician in the electricity, gas, and water fields, one can be promoted to field manager and rise to department head in public corporations or large private companies.
+在电力、燃气、水务领域积累技术员经验后，可晋升为现场经理，并在公共企业或大型私企升至部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple meter reading
-- Schedule optimization
-- Basic report writing
+- 简单抄表
+- 排程优化
+- 基本报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based leak and short detection
-- Smart grid demand forecasting
-- Remote facility diagnosis
+- 基于AI的泄漏与短路检测
+- 智能电网需求预测
+- 远程设施诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site safety judgment
-- Emergency response experience
-- Regulatory compliance
-- Team management leadership
+- 现场安全判断
+- 应急响应经验
+- 法规合规
+- 团队管理领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric, gas, and water facility management
-- Safety management
-- Smart infrastructure operation
-- Data analysis
+- 电气、燃气及水设施管理
+- 安全管理
+- 智能基础设施运营
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart grid
-- Renewable energy
-- Aging infrastructure replacement
-- Energy efficiency
+- 智能电网
+- 可再生能源
+- 老化的基础设施更换
+- 能源效率
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to specialists in electricity, gas, and water supply |
-| Subclass E-9 (Non-professional Employment) | Limited but allowed for some facility maintenance |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with on-site management leadership
-- People interested in electricity, gas, and water supply technology
-- People meticulous about safety regulation compliance
+- 具有现场管理领导力的人
+- 对电力、燃气和供水技术感兴趣的人
+- 注重安全法规合规的人
 
 **谁不适合**
-- People who prefer only office work
-- People who avoid outdoor/field work
+- 仅偏好办公室工作的人员
+- 避免户外/现场工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an electricity, gas, and water supply manager?**
-答：Depending on experience, starting level 35-45 million KRW, mid-level 50-70 million KRW, senior 70-100 million KRW.
+**问：电力、燃气和供水管理经理的平均薪资是多少？**
+答：根据经验，初级3500-4500万韩元，中级5000-7000万韩元，高级7000-10000万韩元。
 
-**问：Can foreigners get an E-7 visa for this occupation?**
-答：Yes, with relevant degrees and experience, you can apply for an E-7 visa.
+**问：外国人能否为此职业申请E-7签证？**
+答：是，拥有相关学历和经验可申请E-7签证
 
-**问：What certifications are needed for promotion in this occupation?**
-答：An electrician certificate is essential, and field-specific ones like gas technician are advantageous.
+**问：该职业晋升需要哪些认证？**
+答：电工证书必不可少，现场特定证书如燃气技术员具有优势。
 
 
 ---
@@ -144,12 +138,12 @@ After building experience as a technician in the electricity, gas, and water fie
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electricity-gas-and-water-supply-manager/KR)**

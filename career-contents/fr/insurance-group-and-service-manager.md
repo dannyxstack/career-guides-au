@@ -51,8 +51,6 @@ Responsible for managing the insurance business team, coordinating customer serv
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Employees can advance from insurance advisors to team leaders, department managers, and then regional directors; Needs to accumulate management experience and obtain a master's diploma in CQP or insurance.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Employees can advance from insurance advisors to team leaders, department manage
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled management, requires employer sponsorship, annual salary not less than 1.5 times the French average (about €42k) |
-| Subclass Salarié (Employee Visa) | For regular work residency, the employer provides a CDI contract and applies for a work permit |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, annual salary at least €53k (2024 standard), suitable for senior management roles. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Selling insurance investment products requires AMF certification; Although th
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-group-and-service-manager/FR)**

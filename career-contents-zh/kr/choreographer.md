@@ -1,8 +1,8 @@
-# Choreographer 职业分析 · 韩国
+# 编舞师（Choreographer）职业分析 · 韩国
 
-**职业代码: 41472 (KECO)**
+**职业代码：41472 (KECO)**
 
-A professional who creates dance or performance movements and directs rehearsals, working in various fields such as music videos, performances, and films.
+创作舞蹈或表演动作并指导排练的专业人员，工作领域包括音乐视频、表演和电影等。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who creates dance or performance movements and directs rehearsals
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Dance Department at Junior College | 2 年 | $5,000,000~$10,000,000（Based on tuition fees） |
-| Department of Dance at University | 4年 | $12,000,000~$25,000,000（Based on tuition fees） |
+| 短期大学舞蹈系 | 2 年 | $5,000,000~$10,000,000（按学费计算） |
+| 大学舞蹈系 | 4年 | $12,000,000~$25,000,000（按学费计算） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who creates dance or performance movements and directs rehearsals
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean Dance Instructor | Korea Research Institute for Vocational Education and Training | 可选 | 可选 |
-| Dance Practical Instructor | Korea Arts & Culture Commission | 可选 | 可选 |
+| 韩国舞蹈教练 | 韩国职业教育和培训研究院 | 可选 | 可选 |
+| 舞蹈实践讲师 | 韩国艺术文化委员会 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,500. Employment of choreographers is expected to increase moderately due to the spread of K-culture and growing demand for performances, but competition will intensify as the number of individual creators rises.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,500。由于韩流文化传播和演出需求增长，编舞师就业预计温和增长，但随着个人创作者增多，竞争将加剧。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,91 +38,84 @@ A professional who creates dance or performance movements and directs rehearsals
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$36,000,000 | Freelance basis, irregular |
-| Intermediate (4–7 years) | $36,000,000~$54,000,000 | Agency or large-scale projects |
-| Advanced (8+ years) | $54,000,000~$90,000,000 | Famous choreographer, overseas projects |
+| Beginner (0–3 years) | $24,000,000~$36,000,000 | 自由职业，时间不固定 |
+| 中级（4-7年） | $36,000,000~$54,000,000 | 机构或大型项目 |
+| 高级（8年以上） | $54,000,000~$90,000,000 | 著名编舞师，海外项目 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist in choreography creation or generate simple movements, but it is difficult to completely replace human creativity and emotional expression. Rather, it is a field that will evolve toward improving work efficiency using AI tools.
+AI可以辅助编舞创作或生成简单动作，但很难完全取代人类的创造力和情感表达。相反，这是一个将朝着使用AI工具提高工作效率方向发展的领域。
 
-After majoring in dance, build experience choreographing small-scale works, work for broadcasting or performance agencies or as a freelancer, and possibly expand overseas.
+主修舞蹈后，积累编排小型作品的经验，为广播或表演机构工作或作为自由职业者，并可能向海外拓展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated generation of simple repetitive movements
-- Suggestion of basic choreography patterns
+- 简单重复动作的自动生成
+- 基本编舞模式建议
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based movement analysis and feedback
-- Choreography visualization through stage simulation
-- Music-movement matching optimization
+- 基于AI的动作分析和反馈
+- 通过舞台模拟实现编舞可视化
+- 音乐与动作匹配优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative expression and emotional delivery
-- Improvisation in live performances
-- Collaboration and leadership with humans
+- 创意表达与情感传递
+- 现场表演中的即兴创作
+- 与人类协作和领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI choreography assistance software
-- Digital content production skills
-- Video editing and projection mapping
+- AI编舞辅助软件的应用
+- 数字内容制作技能
+- 视频编辑和投影映射
 
-**主要增长方向:**
+**主要增长方向：**
 
-- K-pop Choreography
-- Performance Production
-- Musical Choreography
-- Global Expansion
+- K-pop编舞
+- 绩效制作
+- 音乐编舞
+- 全球扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Can be issued when invited as a professional in arts and performance |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible, few activity restrictions when conditions met |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans, allows free activities |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative and expressive people
-- People with good stamina and leadership
-- People sensitive to pop culture trends
+- 创意与表达型人才
+- 体力好且具有领导力的人
+- 对流行文化趋势敏感的人
 
 **谁不适合**
-- People who prefer regular work hours
-- People sensitive to others' feedback
+- 偏好规律工作时间的人
+- 对他人反馈敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a choreographer?**
-答：About 24 to 36 million KRW for beginners, over 100 million KRW for famous choreographers.
+**问：编舞师的平均年薪是多少？**
+答：初学者约2400-3600万韩元，著名编舞师超1亿韩元。
 
-**问：What visa do foreigners need to work as a choreographer in Korea?**
-答：E-7 (Specific Activities) visa is common; overseas Koreans can use F-4 visa.
+**问：外国人在韩国担任编舞师需要什么签证？**
+答：常见E-7（特定活动）签证；海外韩裔可使用F-4签证。
 
-**问：Do I need a university degree to become a choreographer?**
-答：Not required, but professional training is beneficial. Skills and experience matter.
+**问：成为编舞师需要大学学位吗？**
+答：不必须，但专业培训有益。技能和经验更重要。
 
 
 ---
@@ -140,12 +133,12 @@ After majoring in dance, build experience choreographing small-scale works, work
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/choreographer/KR)**

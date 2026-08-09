@@ -4,8 +4,6 @@
 
 Providing training and counseling on physical and mental balance, personal growth, and stress management for individuals or groups, promoting overall quality of life.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing training and counseling on physical and mental balance, personal growt
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core of personal development and physical and mental health consultants relies on human trust and empathy, which AI cannot replace; However, tasks like content preparation, scheduling, and basic Q&A can be automated, resulting in mixed overall effects.
-
 You can start as a junior coach, gain experience, then specialize in a specific field (such as mindfulness or career transition), or start a training center; It can also develop into corporate training and human resources consulting.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can start as a junior coach, gain experience, then specialize in a specific 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employed Worker)) | You need to find a French employer and have a job contract that meets the requirements; this is usually reserved for large companies or institutions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to economic contributions or well-known professionals, requiring proof of higher income or influence. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: This occupation is not in short supply and has a relatively high immigration 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-development-and-wellbeing-consultant/FR)**

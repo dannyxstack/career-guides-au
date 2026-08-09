@@ -53,8 +53,6 @@ Power system engineers are responsible for planning, analyzing, and operating po
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-driven simulation and automation tools will take over a large number of routine analytical tasks, but critical steps such as system planning, reliability decision-making, and grid connection approvals still rely on human experience and regulatory responsibility, resulting in a 'polarization' of positions: entry-level entry is squeezed, while high-end value is highlighted.
-
 In 2026, wind, solar, and storage projects will queue for grid connection and grid scheduling complexity will surge, making grid connection research engineers skilled in PSS/E, DIgSILENT PowerFactory, and PSCAD the most sought-after. AI assists in power flow and fault analysis, but the responsibility for grid safety and stability still falls on certified engineers, so AI replacement risks are low.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ In 2026, wind, solar, and storage projects will queue for grid connection and gr
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Electrical engineering (233311 family) in CSOL/MLTSSL can be achieved th
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-systems-engineer/AU)**

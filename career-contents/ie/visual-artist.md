@@ -53,8 +53,6 @@ Visual artists create original artworks through media such as painting, sculptur
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on visual artists is mixed: generative AI significantly boosts productivity in concept sketching, asset generation, and efficiency tools, but the emotional depth, unique perspective, and on-site experience of artistic creation are hard to replace.
-
 Career paths include moving from assistant or resident artist to independent artist, gallery representative, art project planner, or art educator. Some artists transition to commercial design, decoration, or digital art.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career paths include moving from assistant or resident artist to independent art
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Starting from independent creation, gradually obtaining gallery representatio
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-artist/IE)**

@@ -54,8 +54,6 @@ Security personnel protect merchandise, individuals, hotels, offices, factories,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI monitoring and access control technology will significantly enhance security efficiency but won't fully replace human staff; the career focus shifts to technical supervision and emergency response.
-
 Can advance from unarmed security guard to senior guard, team leader, or security manager. Obtaining an SIA license is key; further training can lead to control room operator or risk assessor roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance from unarmed security guard to senior guard, team leader, or securit
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Legally required to hold an SIA security license, which requires completing t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guards-and-related-occupations/UK)**

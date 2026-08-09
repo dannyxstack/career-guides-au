@@ -50,8 +50,6 @@ Responsible for repairing and maintaining small engine equipment such as lawn mo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Motorcycle mechanics face moderate automation risk: diagnosis and documentation can be simplified by AI, but core skills like physical repairs and custom modifications are hard to replace. Entry-level positions may narrow slightly due to AI-assisted learning tools, but demand for experienced mechanics remains stable.
-
 After gaining experience, can advance to senior technician or open own repair shop. Can also learn large engine repair to broaden career path.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ After gaining experience, can advance to senior technician or open own repair sh
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa |
 | Subclass Express Entry (Express Entry) | Must meet federal skilled migration or Canadian experience class requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Eligible for immigration via Provincial Nominee Program (PNP) or LMIA work vi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-small-engine-and-small-equipment-repairers/CA)**

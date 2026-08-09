@@ -51,8 +51,6 @@ Assists patrons at entertainment venues, responsible for ticket checking, seat g
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will replace ticket verification and some guidance tasks, but on-site interpersonal service demand remains; meanwhile, AI can assist in personalized recommendations and venue management, but overall positions face reduction risk.
-
 Most workers are part-time or casual; advancement opportunities limited. Can move to ticket supervisor or customer service management, but needs experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Most workers are part-time or casual; advancement opportunities limited. Can mov
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Limited promotion opportunities; can advance to ticket supervisor or customer
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ushers-lobby-attendants-and-ticket-takers/US)**

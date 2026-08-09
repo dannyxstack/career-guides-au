@@ -52,8 +52,6 @@ Responsible for website maintenance, server configuration, troubleshooting, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Network technicians face moderate risk from AI automation, but tasks like operations monitoring, configuration management, and troubleshooting can be augmented by AI, while still requiring high-complexity fault decision-making and security responsibilities, so the moat remains.
-
 Can progress from junior technician to senior web administrator or systems architect, or transition to DevOps or cybersecurity roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from junior technician to senior web administrator or systems archi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to Web technicians earning a salary threshold (approx. €5,008/month in 2024) with employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Applicable to highly skilled foreign nationals with an annual salary above the EU Blue Card threshold (about €5,331/month in 2024), requiring a work contract. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Applies to graduates from universities ranked in the top 200 in the Netherlands or worldwide, allowing free job seeking within one year. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Yes, there is a general shortage in the Dutch IT industry, and web technician
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-technician/NL)**

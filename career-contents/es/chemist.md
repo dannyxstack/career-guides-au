@@ -53,8 +53,6 @@ Chemists engage in the research, analysis, development, and application of chemi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of chemists will undergo complex changes: AI automation will take over routine experiments and data analysis, but experimental design, anomaly diagnosis, and cross-department collaboration will be enhanced by AI, making the overall outlook mixed.
-
 Starting as a junior chemical analyst or laboratory technician, you can advance to senior chemist, R&D supervisor, or quality manager. You can also turn to environmental consulting, technology sales, or academic research. Continuous learning and professional certification help with promotion.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Starting as a junior chemical analyst or laboratory technician, you can advance 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Targeted at high-skilled non-EU citizens, requires higher education and at least a 1-year contract, annual salary threshold around €34,000 (2023). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For specific high-skilled occupations, education and contracts are required, and approval is relatively quick |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires company sponsorship and matches with labor market testing |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: At least a university bachelor's degree (Grado) in chemistry or related field
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/ES)**

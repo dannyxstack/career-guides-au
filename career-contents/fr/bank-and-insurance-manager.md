@@ -4,8 +4,6 @@
 
 Responsible for customer relationship management, product sales, and team coordination for banks or insurance institutions to ensure business objectives are achieved.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for customer relationship management, product sales, and team coordi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Banking and insurance manager roles are being impacted by AI: massive data analysis and standardized reporting can be automated, but customer relationships, team management, and complex decision-making still require humans. Entry-level positions shrink while professional skills are required.
-
 Career paths start as client consultants and can be promoted to branch manager, regional manager, or product specialist, with some shifting to risk management or compliance.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Career paths start as client consultants and can be promoted to branch manager, 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | For employment-based residence, you must obtain a work contract with a French company, which applies to regular positions. |
-| Subclass Passeport Talent (Passeport Talent) | Talent passport, for high-skilled or high-paid positions, annual salary must be at least €40,000. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires annual salary of at least about €56,000 (2024), suitable for high-paying management roles. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Usually requires a Licence or Master's degree, business school background is 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-and-insurance-manager/FR)**

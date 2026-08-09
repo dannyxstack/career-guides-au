@@ -51,8 +51,6 @@ In the Netherlands, real estate agents handle sales and rentals of properties, w
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Entry-level workers can start as sales assistants or property management assistants, gain experience, then obtain certification to become independent agents or property managers; experienced individuals can advance to regional managers or open their own agencies.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Entry-level workers can start as sales assistants or property management assista
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-income professionals, requires employer sponsorship, annual salary threshold approximately €5,008 (2024, for those aged 30 and over) |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated, high-income non-EU citizens; annual salary threshold approx. €5,800/month, requires an employment contract |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International students who graduated or obtained a degree in the Netherlands can apply for a 1-year job search residence permit, and can switch to a work visa after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Usually requires Vastgoedcert certification and passing exams through associa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-and-property-manager/NL)**

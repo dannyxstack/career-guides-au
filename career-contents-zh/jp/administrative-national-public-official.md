@@ -1,10 +1,8 @@
-# Administrative National Public Official 职业分析 · 日本
+# 行政国家公务员（Administrative National Public Official）职业分析 · 日本
 
-**职业代码: 012 (JSCO)**
+**职业代码：012 (JSCO)**
 
-A career position as a section chief or higher in national government agencies, overseeing policy planning, law enforcement, and organizational operations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+国家政府机构中科长或以上的职业职位，负责政策规划、法律执行和组织运营。
 
 
 ---
@@ -13,8 +11,8 @@ A career position as a section chief or higher in national government agencies, 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Bachelor's) | 4年 | $2,500,000~$5,000,000（Varies by national/private institution） |
-| Graduate School (Master's) | 2 年 | $1,000,000~$3,000,000（Varies by research field） |
+| 大学（学士学位） | 4年 | $2,500,000~$5,000,000（因国立/私立机构而异） |
+| 研究生院（硕士） | 2 年 | $1,000,000~$3,000,000（因研究领域而异） |
 
 ---
 
@@ -22,17 +20,17 @@ A career position as a section chief or higher in national government agencies, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Civil Service Comprehensive Exam | National Personnel Authority | 必备 | Required exam for career bureaucrats |
-| Administrative Scrivener | Ministry of Internal Affairs and Communications | 可选 | Proof of knowledge in administrative procedures |
+| 国家公务员综合考试 | 国家人事院 | 必备 | 职业官僚所需考试 |
+| 行政书士 | 总务省 | 可选 | 行政流程知识证明 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 284,000. While affected by retirement age extensions and ministry reorganizations, the number of civil servants is trending downward. Recruitment continues with a focus on long-term careers.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 284,000。受退休年龄延长和部委重组影响，公务员数量呈下降趋势。招聘仍以长期职业为重点。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,93 +38,87 @@ A career position as a section chief or higher in national government agencies, 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (1–5 years) | $4,000,000~$6,000,000 | Working at central ministries including various allowances |
-| Mid Level (6–15 years) | $7,000,000~$10,000,000 | Deputy section chief to section chief |
-| Senior Level (16+ years) | $11,000,000~$20,000,000 | Bureau director or higher |
+| 初级（1-5年） | $4,000,000~$6,000,000 | 在中央部委工作，含各类津贴 |
+| 中级（6–15年） | $7,000,000~$10,000,000 | 副科长至科长 |
+| 高级（16年以上） | $11,000,000~$20,000,000 | 局长或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists in document creation and data analysis, but humans handle policy decisions and political coordination. Complete replacement is difficult, but some tasks will be streamlined.
+AI辅助文档创作和数据分析，但政策决策和政治协调仍由人类处理。完全替代较难，但部分任务将被简化。
 
-After passing the National Civil Service Comprehensive Exam and gaining experience, one progresses from deputy section chief to section chief to bureau director. Personnel transfers between ministries are key to promotion.
+通过国家公务员综合考试并获得经验后，从副科长晋升到科长再到局长。部门间人事调动是晋升关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine document creation
-- Data aggregation and report creation
-- Initial screening of legal compliance
+- 常规文档创建
+- 数据汇总与报告创建
+- 法律合规初步筛查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Simulation of policy effects
-- Summarizing and analyzing large volumes of materials
-- Preparations for international negotiations
+- 政策效果模拟
+- 总结分析大量材料
+- 国际谈判准备
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex stakeholder coordination
-- Political judgment
-- Organizational management
-- Emergency decision-making
+- 复杂利益相关方协调
+- 政治判断
+- 组织管理
+- 应急决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
+- 数据分析
 - EBPM
-- Policy legal affairs
-- English negotiation skills
+- 政策法律事务
+- 英语谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Administrative reform
-- Digital government
-- Policy planning
-- International negotiations
+- 行政改革
+- 数字政府
+- 政策规划
+- 国际谈判
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status for administrative specialists. Civil service positions rarely hire foreigners, but exceptional cases are possible as highly skilled professionals. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in policy planning and coordination
-- People with a strong sense of responsibility and patience
-- Those who want to contribute to the nation as civil servants
+- 对政策规划和协调感兴趣的人
+- 责任心强且耐心的人
+- 希望作为公务员为国家做贡献的人
 
 **谁不适合**
-- Those who struggle with long hours and pressure
-- Those who prefer routine work with little change
+- 难以承受长时间工作和高压的人
+- 喜欢变化不大的常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of administrative national civil servants?**
-答：Entry-level: 4-6 million yen, Section chief: 7-10 million yen, Bureau director: 11-20 million yen.
+**问：行政国家公务员的年收入是多少？**
+答：入门级：400-600万日元，科长：700-1000万日元，局长：1100-2000万日元。
 
-**问：Can foreigners become administrative national civil servants?**
-答：Japanese nationality is required, so in principle, it is not possible via immigration routes. Exceptionally, highly skilled professionals may work in research institutions.
+**问：外国人能否成为行政类国家公务员？**
+答：需要日本国籍，原则上通过移民途径不可行。特别情况下，高技能专业人士可在研究机构工作。
 
-**问：How fast is the promotion pace?**
-答：After passing the comprehensive exam, some become section chiefs in their late 30s and bureau directors in their late 40s.
+**问：晋升速度如何？**
+答：通过综合考试后，部分人在30多岁成为科长，40多岁成为局长。
 
 
 ---
@@ -144,12 +136,12 @@ After passing the National Civil Service Comprehensive Exam and gaining experien
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/administrative-national-public-official/JP)**

@@ -51,8 +51,6 @@ Vehicle paint technicians apply paint, cellulose, vinyl decals, and wraps to mot
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle paint technicians face a landscape interwoven with automation and AI enhancement: painting robots can replace basic spraying, but AI color matching, defect detection, and fine customization work enhance the value of human technicians, with entry-level positions slightly narrowed due to higher automation thresholds.
-
 Junior technicians can advance through apprenticeships to senior technician, workshop supervisor, or technical trainer. Some technicians may move into vehicle damage assessment or body repair management.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior technicians can advance through apprenticeships to senior technician, wor
 | Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible skilled occupation list and can apply for a skilled worker visa |
 | Subclass Graduate (Graduate Visa) | After completing an apprenticeship or relevant degree, can apply for a graduate visa to work in the UK |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually require completing an apprenticeship and obtaining a City & Guilds or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-paint-technicians/UK)**

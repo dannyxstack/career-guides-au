@@ -4,8 +4,6 @@
 
 A public official responsible for maintaining maritime order, conducting search and rescue, preventing marine pollution, and ensuring maritime safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A public official responsible for maintaining maritime order, conducting search 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies are utilized to enhance the efficiency of maritime police officers. For example, drone-based maritime surveillance, AI-powered vessel identification systems, and automated situation reporting are introduced to reduce personnel burden and improve accuracy. However, field responses such as rescue and enforcement still rely heavily on human judgment and action.
-
 After training at the Coast Guard Academy, appointed as a Patrol Officer, promoted to Inspector and Superintendent, with specialized career paths to the Ministry of Oceans and Fisheries or overseas postings.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After training at the Coast Guard Academy, appointed as a Patrol Officer, promot
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For non-professional foreign workers, not applicable to Coast Guard Officers. |
-| Subclass E-7 (E-7 (Specific Activities)) | Not issued for professionals; maritime police officers are civil servants and thus ineligible |
-| Subclass F-5 (Permanent Residence) | Only permanent residents may apply for maritime police, but very limited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Applicants must pass a written exam (Korean history, English, Constitution, e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coast-guard-officer/KR)**

@@ -51,8 +51,6 @@ Responsible for constructing, assembling, or rebuilding engines, turbines, and s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Engine and other machine assemblers face high replacement risk; AI and automation will significantly reduce repetitive assembly, inspection, and debugging tasks, but on-site repair and custom assembly still rely on human experience.
-
 Starting as a junior assembler, can advance to senior assembler, team leader, or quality inspector through experience, or switch to related maintenance or technical sales roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as a junior assembler, can advance to senior assembler, team leader, or
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card pathway: requires PERM labor certification and at least 2 years of training or experience; assemblers may qualify, but employer sponsorship is needed. |
 | Subclass TN (TN Status (USMCA)) | Only for Canadian and Mexican citizens, must be on the list; assemblers are usually not included. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Difficult. This role typically does not require a bachelor's degree, limiting
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engine-and-other-machine-assemblers/US)**

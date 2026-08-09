@@ -52,8 +52,6 @@ Install, maintain and repair pipes and fittings for water supply, drainage, heat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Can progress from apprentice to skilled worker, then to foreman or self-employed contractor, or specialise in fields such as HVAC or gas system installation.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Can progress from apprentice to skilled worker, then to foreman or self-employed
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For senior skilled technical workers, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 27,000 euros |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU skilled workers, requires employer sponsorship, limited quota with fierce competition |
-| Subclass Nulla Osta (Work Per (Nulla Osta (Work Permit)) | Employer applies for work permit through labor office, applicable to occupations on the shortage occupation list |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can progress from apprentice to journeyman, then to foreman or self-employed 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-and-pipe-fitter/IT)**

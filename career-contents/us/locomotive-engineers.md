@@ -54,8 +54,6 @@ Drive electric, diesel-electric, steam, or gas turbine electric locomotives to t
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Locomotive engineers face mixed impacts from AI/automation: some driving and monitoring tasks can be automated, but complex track judgment, safety responsibilities, and interpersonal communication still rely on humans; overall positions will not disappear but skills need upgrading.
-
 Starting as an assistant engineer, gain experience to become a locomotive engineer, then can become a trainer or dispatch supervisor, some move into management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as an assistant engineer, gain experience to become a locomotive engine
 | Subclass EB-3 (Employment-Based Third Preference) | Very rare; requires employer sponsorship and difficult labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Due to abundant domestic labor, immigration pathways are extremely narrow |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Very difficult. This occupation typically does not meet H-1B specialty occupa
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locomotive-engineers/US)**

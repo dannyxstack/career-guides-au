@@ -53,8 +53,6 @@ Engravers use manual or CNC equipment to carve text or patterns on materials suc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The carver occupation will undergo differentiation: low-end manual carving and simple CNC operations are replaced by AI, but high-end custom, artistic creation, and complex design gain value due to AI assistance.
-
 After completing the apprenticeship, one can advance to senior engraver, workshop supervisor, or further study to become a mold-making technician. Some engravers start their own studios.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ After completing the apprenticeship, one can advance to senior engraver, worksho
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must first complete German-recognized qualification certification or particip
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engraver/DE)**

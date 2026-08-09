@@ -4,8 +4,6 @@
 
 Visual artists create original artworks using media such as painting, sculpture, and photography, independently or on commission. They typically work in studios, galleries, or public spaces, participating in exhibitions and art projects.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Visual artists create original artworks using media such as painting, sculpture,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI simultaneously replaces and empowers: generative tools can sketch and enhance artwork, but artistic concepts, emotional expression, and originality remain human core competencies; entry barriers rise due to templated design tools, and curation and multimedia skills become key differentiators.
-
 Visual artist career paths are not fixed; they typically start as an assistant, build a portfolio, then work independently, or move into management roles in galleries or art institutions. Well-known artists can gain reputation through exhibitions and auctions, with widely varying incomes.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Visual artist career paths are not fixed; they typically start as an assistant, 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For skilled non-EU citizens, requires a university degree and work contract with an annual salary threshold of about €24,000; artists may find it difficult to meet. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, applicable to non-high-skilled jobs, artists need employer sponsorship, quotas limited. |
-| Subclass Self-Employed Visa (Self-Employment Visa) | Self-employed artists can apply, but need to demonstrate stable income and financial strength; approval is strict. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Not required, but a university art degree helps with networking and exhibitio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-artist/IT)**

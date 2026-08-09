@@ -52,8 +52,6 @@ Driving instructors teach students driving skills and traffic rules to help them
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
-
 You can start as a part-time instructor, gain experience, and advance to senior instructor or open your own driving school. Some instructors also transition to driver safety education or assessment roles.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can start as a part-time instructor, gain experience, and advance to senior 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | For highly skilled migrants, requires an annual salary of at least €5,331 per month (2025 standard); driving instructors typically do not meet this threshold. |
-| Subclass Self-Employment Visa (Self-Employed Person Permit) | Applicable to self-employed driving instructors, who need to pass the review of the Netherlands Enterprise Agency (RVO) and meet the points-based system requirements. |
-| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of at least €5,331 per month (2025 standard). Driving instructors typically do not qualify. |
-| Subclass Orientation Year (Orientation Year Permit) | For foreign students who have graduated in the Netherlands, allows free work for one year to seek employment opportunities. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Must pass the theoretical and instructional exams from the CBR (Netherlands C
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driving-instructor/NL)**

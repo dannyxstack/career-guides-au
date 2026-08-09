@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing business operations of transp
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
-
 Can advance from operations manager to regional or head office director; accelerated promotion through MBA or logistics master's degree; some transition to consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from operations manager to regional or head office director; acceler
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually promoted from operations manager to regional director or head office 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-transport-and-logistics-commercial/DE)**

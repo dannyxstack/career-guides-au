@@ -55,8 +55,6 @@ Registered Migration Agents (RMAs) represent clients in submitting visa applicat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Immigration agent work is mixed under AI influence: substantial document processing and compliance checks can be automated, but strategic consulting, interpersonal communication, and legal responsibility form a solid moat; competition for entry-level roles intensifies, while senior consultants' value increases.
-
 Skilled migration (the Skills in Demand visa under the 482/186 framework, significantly reformed in 2024) is the highest-volume visa category in 2025. RMAs can greatly improve efficiency using AI-assisted document preparation, but strategic visa advice and handling complex cases remain irreplaceable.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Skilled migration (the Skills in Demand visa under the 482/186 framework, signif
 | Subclass 189 (SkillSelect Independent) | Invitation-based, VETASSESS assessment |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Immigration agents have a much lower entry barrier than lawyers (Graduate Cer
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-migration-agent-rma/AU)**

@@ -4,8 +4,6 @@
 
 Fisheries workers engage in fishing operations in marine or inland waters, including operating nets and gear, sorting and preliminary handling of catch, and maintaining fishing boat equipment. This profession is physically demanding, usually sailing with fishing boats, with harsh working conditions and significant weather conditions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Fisheries workers engage in fishing operations in marine or inland waters, inclu
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Fishery workers face the dual impact of automated fishing and AI analysis technologies: traditional manual tasks carry high risk of being replaced, but AI can enhance catch forecasting, equipment maintenance, and compliance management, creating technology-driven jobs. The entry barrier is lowered, but the demand for advanced skills is rising.
-
 Usually, they start as deck assistants and can be promoted to fisherman or tackle supervisor after gaining experience; a few can become boat captains. However, the path to advancement is limited, and many people spend their entire lives doing basic manual labor. Some have shifted to related fields such as aquaculture or fisheries regulation.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Usually, they start as deck assistants and can be promoted to fisherman or tackl
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Contracted Employment)) | Third-country nationals employed by Spanish fishing boat companies must apply for employment-based residence, but this occupation usually does not meet the requirements for skilled migration and is difficult to obtain. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: No formal degree is required, but you must complete Maritime Safety Training 
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishing-laborer/ES)**

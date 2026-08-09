@@ -52,8 +52,6 @@ Given the continuing growth in the construction industry, this occupation is eli
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Career progression includes regional sales manager, national sales manager, or transitioning to product management or marketing.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression includes regional sales manager, national sales manager, or t
 | Subclass SMC (Skilled Migrant Category) | Meet the 6-point system (qualifications + experience), occupation at ANZSCO Skill Level 3-4 |
 | Subclass Green List T2 (Green List Tier 2) | Not in the Green List direct residence category, but can transition to residence through work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires sales skills, product knowledge, communication skills, and a driver'
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representative-building-and-plumbing-supplies/NZ)**

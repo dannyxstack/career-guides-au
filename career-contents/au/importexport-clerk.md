@@ -53,8 +53,6 @@ Responsible for document processing of import/export goods, including customs de
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Highly standardized tasks like document processing and data entry for import/export clerks will be significantly reduced by AI automation tools, but complex compliance consulting, exception handling, and customer relations will be enhanced by AI, making the overall outlook mixed.
-
 Can start as a junior clerk, gain experience, and advance to senior import/export clerk, logistics coordinator, or supply chain specialist. Some transition to customs brokerage, international procurement, or logistics management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can start as a junior clerk, gain experience, and advance to senior import/expor
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: This occupation is not on CSOL/MLTSSL, so generally cannot apply for skilled 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/importexport-clerk/AU)**

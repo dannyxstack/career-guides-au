@@ -53,8 +53,6 @@ Electrical engineering technicians assist engineers in electrical system design,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electrical and electronics engineering technician roles will not be replaced by AI; instead, they will be greatly enhanced by AI tools. However, entry-level administrative and testing tasks will be automated, requiring mastery of new technologies.
-
 Career path: progress from junior technician to senior technician, project manager, or electrical engineering specialist. With experience, obtain Professional Engineer (P.Eng) license, enter management, or start a business.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: progress from junior technician to senior technician, project manag
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, if the employer is in one of the four Atlantic provinces |
 | Subclass RNIP (Rural and Northern Immigration Pilot) | Regional pilot program, suitable for applicants with an employer offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Not mandatory, but obtaining provincial technical certification (e.g., OACETT
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-engineering-technologists-and-technicians/CA)**

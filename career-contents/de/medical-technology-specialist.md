@@ -54,8 +54,6 @@ Medical technology specialists develop, install, maintain, and operate medical e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical technology specialist roles face mixed AI impact: automated analysis, monitoring, and fault diagnosis tasks are replaced, but complex equipment debugging, cross-department collaboration, and compliance auditing enhance deep technical and interpersonal work.
-
 Junior technicians can advance to senior engineers or team leaders; through continuing education, they can move into quality management, product management, or R&D management. Some choose to start a business or become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior technicians can advance to senior engineers or team leaders; through cont
 | Subclass Skilled Worker (Skilled Employment Visa) | Requires employer sponsorship and occupational qualification certification; applicable for non-shortage professions |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, job search opportunity, transition period of 1 year |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Common pathways include the EU Blue Card (requires a bachelor's degree and jo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-technology-specialist/DE)**

@@ -50,8 +50,6 @@ A production process specialist who melts, casts, and forges metals to manufactu
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation by AI and robots is progressing in some processes (melting, transport, simple pressing), but skilled techniques such as complex casting design, forging die design, and quality judgment are difficult to replace with AI for the time being. Since labor shortages continue, honing technical skills ensures stable demand.
-
 Start as an apprentice and advance to mid-level and skilled worker by obtaining skill certifications. Mastering casting and forging techniques can lead to roles like site leader or quality control manager.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Start as an apprentice and advance to mid-level and skilled worker by obtaining 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Falls under Manufacturing category 3. Max stay 5 years, requires skills test. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher + experience. Eligible for casting/forging engineering roles. |
-| Subclass 技能 (Skilled Labor (Highly Skilled)) | Eligible with 10+ years experience. Certifications like casting/forging skilled worker advantageous. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Yes, it's possible. You can acquire skills through vocational training school
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/casting-and-forging-worker/JP)**

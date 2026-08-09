@@ -54,8 +54,6 @@ Anaesthesiologists administer anaesthesia and monitor patients' vital signs duri
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI mainly plays a supporting role in monitoring and data analysis for anesthesiologists, but core operations and complex decisions still require human control, overall risk is moderate to low.
-
 Career path: Senior anesthesiologists can become department heads; they may also advance to professor through research and teaching, or become partners in private clinics.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: Senior anesthesiologists can become department heads; they may also
 | Subclass Skilled Worker (Skilled Immigration Act) | Need to obtain a medical license; can apply for a work visa through the qualification certification process. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows entry for 6 months to seek work, requires pre-approval of qualification recognition |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Rural areas in eastern Germany such as Saxony-Anhalt and Mecklenburg-Vorpomme
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anesthesiologist/DE)**

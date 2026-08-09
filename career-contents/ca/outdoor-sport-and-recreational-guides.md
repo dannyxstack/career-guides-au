@@ -54,8 +54,6 @@ Outdoor sports and recreation guides lead individuals or groups on outdoor adven
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
-
 Junior guides can advance to senior guides or tour supervisors after gaining experience, or transition to outdoor educators, adventure tourism planners, or start their own guide companies. Relevant certifications (e.g., wilderness first aid) aid career development.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior guides can advance to senior guides or tour supervisors after gaining exp
 | Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to hire locally; work visa can be applied for |
 | Subclass International Experi (Working Holiday Visa) | Young people can obtain an open work permit through IEC |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires wilderness first aid and CPR certification. For specific a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/outdoor-sport-and-recreational-guides/CA)**

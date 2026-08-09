@@ -51,8 +51,6 @@ Directors oversee artistic direction and production supervision, ensuring the cr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
-
 Career progression can start from assistant director or production coordinator, gradually advancing to independent director or creative director. After building a portfolio and network, one can move to high-budget productions or become a producer.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression can start from assistant director or production coordinator, 
 | Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system points (experience + education + income), ANZSCO level 1, income at or above median. |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer; the position must be genuinely in shortage or high-skilled, and you can subsequently apply for a residency visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Job opportunities are affected by film production cycles; Auckland and Wellin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-film-television-radio-or-stage/NZ)**

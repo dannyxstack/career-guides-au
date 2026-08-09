@@ -53,8 +53,6 @@ The core duties of a Canadian nature reserve ranger are protecting natural resou
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
-
 Junior rangers can advance to senior ranger or supervisor through field experience, or move to environmental consulting, park management, or policy. Need Firearms Safety certification; long-term can enter federal or provincial natural resource management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior rangers can advance to senior ranger or supervisor through field experien
 | Subclass PNP (Provincial Nominee Program) | For example, BC PNP Tech or Ontario PNP, prioritize natural resource occupations, require employer offer or local experience. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot: if you find an employer in an Atlantic province, you can immigrate quickly. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from junior ranger to senior ranger, supervisor, or regional mana
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-technologists-and-technicians/CA)**

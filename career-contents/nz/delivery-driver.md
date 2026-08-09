@@ -52,8 +52,6 @@ Demand for delivery drivers in New Zealand is stable, driving motorcycles or sma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Entry-level drivers can advance to dispatcher, fleet supervisor, or independent contractor with their own delivery vehicle by gaining experience. They can also upgrade to a heavy vehicle license and become truck drivers.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level drivers can advance to dispatcher, fleet supervisor, or independent 
 | Subclass SMC (Skilled Migrant Category) | Rarely applicable, requires employer sponsorship and salary at least 1.5 times the median ($44.50/hour), usually does not meet skill requirements. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Delivery driver is not on the Green List, but if the position is classified as a relevant skill shortage (specific conditions apply) |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can upgrade to higher-class licenses (e.g., Class 2/4/5) to become a truck dr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-driver/NZ)**

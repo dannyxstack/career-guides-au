@@ -4,8 +4,6 @@
 
 This is a specialized job that involves operating and managing water and wastewater treatment facilities to supply safe water and purify wastewater.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ This is a specialized job that involves operating and managing water and wastewa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some monitoring and data analysis tasks, but on-site operation and maintenance require human judgment, making full replacement difficult.
-
 Promotion path: junior operator → senior operator → team leader → facility manager; obtaining relevant certifications and experience are important.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Promotion path: junior operator → senior operator → team leader → facility
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment as skilled technical personnel is possible, but experience requirements are strict |
-| Subclass E-9 (Non-professional Employment) | Possible in some wastewater treatment fields but limited |
-| Subclass F-2 (Residence) | Possible for compatriots or long-term residents |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: High school graduates or above are eligible, but an associate degree or highe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-treatment-plant-operator/KR)**

@@ -52,8 +52,6 @@ A juice technologist is responsible for technical management in the juice produc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for food scientists and technicians is being reshaped by AI: automated tools take over repetitive testing and recipe optimization, while AI enhances product innovation and supply chain analysis. Entry-level roles are narrowing due to automation, but demand for advanced R&D and regulatory compliance positions is rising.
-
 Can advance from junior technician to production supervisor, quality manager, or R&D engineer. By pursuing further education to obtain a master's degree in food technology or engineer qualification, can move into management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior technician to production supervisor, quality manager, or
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkraft)) | Suitable for dual-system training graduates or those with professional qualifications, employer sponsorship required |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows a one-year job search in Germany, requiring language, age, and other conditions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The main pathway is to complete a 3-year dual system training (food technolog
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-juice-technologist/DE)**

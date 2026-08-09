@@ -4,8 +4,6 @@
 
 Personnel exercising national, autonomous region, or local administrative and legislative powers, including government ministers, deputies, mayors, and other senior political officials.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Personnel exercising national, autonomous region, or local administrative and le
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance the analytical, decision-support, and communication abilities of executive and legislative members, but legal and ethical responsibilities will still be borne by humans, and overall positions will be enhanced rather than replaced by AI.
-
 Usually, they start in grassroots positions in political parties or public administration, and after accumulating political experience and connections, they can run for higher positions. Some members return to private sector or senior civil service positions after their terms end.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Usually, they start in grassroots positions in political parties or public admin
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Generally not applicable to political positions, where it is extremely difficult for foreigners to obtain work permits for such positions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: Almost impossible. Political positions are usually reserved for Spanish citiz
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/members-of-executive-and-legislative-bodies/ES)**

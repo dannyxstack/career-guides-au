@@ -53,8 +53,6 @@ Receive and process orders for materials, goods, classified ads, or services (su
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of order clerks (order entry, query response, exception handling) will be largely replaced by AI and automation systems, significantly reducing positions, but some duties requiring interpersonal communication and complex judgment may remain.
-
 Can advance to procurement manager, logistics coordinator, or customer service supervisor, requiring skills in order management systems and data analysis.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to procurement manager, logistics coordinator, or customer service s
 | Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable as order clerks usually do not meet professional occupation requirements |
 | Subclass EB-3 (Employment-Based Third Preference) | Only if employer can prove labor shortage, but extremely rare |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Employment expected to decline due to automation and online ordering systems 
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/order-clerks/US)**

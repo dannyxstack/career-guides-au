@@ -4,8 +4,6 @@
 
 Intermediaries that match job seekers with employers, covering temporary work, fixed-position recruitment, and labor dispatch, active in agriculture, construction, services, and other industries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Intermediaries that match job seekers with employers, covering temporary work, f
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core matching and transactional tasks of employment agencies and labor brokers are gradually being replaced by AI recruitment platforms and automated systems, with job demands shifting toward high-value consultant roles and significantly higher entry barriers.
-
 You can advance from junior recruitment consultant to team leader, regional manager, or transition to the corporate HR department. After accumulating client resources, you can start your own venture and establish a headhunting company.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ You can advance from junior recruitment consultant to team leader, regional mana
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employment through a Spanish intermediary agency requires employer-sponsored work permit. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | This applies to high-paying positions (annual salary ≥ 33,908 euros), but agency positions usually do not reach this level |
-| Subclass Busqueda empleo (Job Search Visa) | Allowing 6 months of residency in Spain to look for work, but the intermediary industry is highly competitive |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, you can be promoted to team leader, regional manager, or transfer to HR 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/employment-agents-or-brokers-except-entertainment/ES)**

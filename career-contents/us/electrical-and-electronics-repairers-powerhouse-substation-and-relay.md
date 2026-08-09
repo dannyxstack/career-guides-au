@@ -52,8 +52,6 @@ Responsible for inspecting, testing, repairing, or maintaining electrical equipm
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electrical and electronics engineers face mixed impacts from AI: repetitive tasks like design verification and wiring optimization can be automated, but complex system integration, innovative design, and safety compliance still require human judgment; using AI properly can improve efficiency.
-
 Starting as a junior maintenance technician, can advance to senior technician, team supervisor, or move into power system design, engineering management. Continuous learning of new technologies (e.g., smart grids) aids career development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a junior maintenance technician, can advance to senior technician, t
 | Subclass H-1B (H-1B Specialty Occupations) | Applies to professional positions requiring at least a bachelor's degree (but this occupation typically does not, case-by-case assessment needed) |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Green card path for skilled workers, requires PERM labor certification, suitable for experienced individuals. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Common path is EB-3 skilled worker green card, requiring employer sponsorship
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-repairers-powerhouse-substation-and-relay/US)**

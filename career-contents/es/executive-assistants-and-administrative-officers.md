@@ -51,8 +51,6 @@ Administrative assistants and administrative supervisors are responsible for pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Administrative tasks such as administrative schedules and paperwork for administrative assistants and supervisors are easily automated by AI, but areas involving interpersonal coordination, senior trust, and decision support are amplified by AI tools, resulting in mixed outcomes.
-
 Career development usually starts as an administrative assistant and can be promoted to administrative supervisor, office manager, or administrative manager after gaining experience. Further advancement can be achieved by obtaining a master's degree or professional certification, moving into positions such as human resources management, project management, or corporate general manager.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career development usually starts as an administrative assistant and can be prom
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | This applies to highly educated applicants with a salary threshold (approximately €33,908 in 2023), and must have a Spanish work contract. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suited for management or technical roles, salary threshold similar to Blue Card, with fast-track residence. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | To obtain work residency through employer sponsorship, it is necessary to prove that the position cannot be filled by a local resident. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Promotions can be made to Office Manager, Administrative Manager, Human Resou
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/executive-assistants-and-administrative-officers/ES)**

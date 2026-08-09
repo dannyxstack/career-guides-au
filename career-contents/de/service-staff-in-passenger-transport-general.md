@@ -51,8 +51,6 @@ Passenger service staff provide services to passengers on trains, buses, planes 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The role of air travel assistant carries relatively high risk; AI self-service check-in and automated document checks will significantly reduce traditional tasks, entry-level positions are shrinking, but interpersonal service and safety responsibilities still retain some moat.
-
 Can advance to passenger service supervisor or station manager through continuous training; some move into customer service management. Large companies (e.g., Deutsche Bahn) offer internal promotion opportunities, but vertical advancement is limited.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance to passenger service supervisor or station manager through continuou
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to those who have completed recognized vocational training (Ausbildung) in Germany; can apply after finding an employer |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeker visa based on a points system, allowing job searching in Germany, suitable for applicants with matching skills. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from passenger service attendant to supervisor or station manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-staff-in-passenger-transport-general/DE)**

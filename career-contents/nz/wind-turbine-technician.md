@@ -54,8 +54,6 @@ Wind turbine technicians install, maintain, and repair wind turbines. New Zealan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Wind turbine technician roles are mixed regarding AI/automation impact: predictive maintenance and remote monitoring enhance efficiency, but physical operations still rely on humans; automation compresses basic diagnostic roles but adds advanced data analysis and system optimization roles.
-
 Junior technicians can advance to senior technician, team leader, or site manager, or transition to offshore wind or project management. Salaries increase significantly after certification.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior technicians can advance to senior technician, team leader, or site manage
 | Subclass SMC (Skilled Migrant Category) | 6-point system; bachelor's degree plus work can earn sufficient points |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, up to 3 years, transferable to other immigration pathways |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. This occupation is on the Green List Tier 2; after 2 years of work, you 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wind-turbine-technician/NZ)**

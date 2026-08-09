@@ -52,8 +52,6 @@ Contract administrators draft, negotiate, execute, and monitor commercial contra
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of contract administrators (drafting, reviewing, compliance monitoring) are gradually being replaced by AI text generation and review tools, but complex negotiations, legal judgment, and project management responsibilities still rely on humans, leading to increased competition for entry-level roles while senior roles gain value.
-
 Career progression can advance from contract administrator to senior contract administrator, contract manager, even project manager. With experience, may transition to legal counsel or procurement management, with salary increasing significantly.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can advance from contract administrator to senior contract ad
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system (qualifications + experience), occupation is at the ANZSCO skill level, and a job offer is available to apply. |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship for a contract administrator position, renewable |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: New Zealand's construction industry continues to develop, especially in Auckl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contract-administrator/NZ)**

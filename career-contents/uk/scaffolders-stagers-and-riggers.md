@@ -52,8 +52,6 @@ Assemble and dismantle scaffolding and work platforms, install lifting equipment
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Scaffolders are relatively less affected by AI overall, but design planning may be optimized; on-site physical work and safety judgment remain core, with stable demand.
-
 Typically start as an apprentice or laborer, and with experience can advance to senior scaffolder, supervisor, or project coordinator. Some can move into training or safety management roles, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as an apprentice or laborer, and with experience can advance to 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually start as apprentice or labourer, obtain NVQ2/3 to become qualified sc
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/scaffolders-stagers-and-riggers/UK)**

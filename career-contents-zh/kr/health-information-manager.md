@@ -1,10 +1,8 @@
 # 健康信息管理师（Health Information Manager）职业分析 · 韩国
 
-**职业代码: 30741 (KECO)**
+**职业代码：30741 (KECO)**
 
-A professional who systematically manages patient medical records, operates medical information systems, and analyzes data to contribute to improving healthcare quality at medical institutions.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+系统管理患者病历、操作医疗信息系统并分析数据以帮助提高医疗机构医疗质量的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who systematically manages patient medical records, operates medi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $20,000,000~$30,000,000（Tuition based on national technical college） |
-| 学士学位 | 4年 | $40,000,000~$60,000,000（Tuition based on national university） |
+| 副学士学位 | 2 年 | $20,000,000~$30,000,000（国立技术学院学费） |
+| 学士学位 | 4年 | $40,000,000~$60,000,000（按国立大学标准收费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who systematically manages patient medical records, operates medi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Health Information Manager Certificate | Korea Health Information Management Education Institute | 必备 | Required certification |
-| Medical Information Manager | Korean Health Information Management Association | 可选 | Private certification but advantageous for employment |
+| 健康信息管理员证书 | Korea Health Information Management Education Institute | 必备 | 所需认证 |
+| 医疗信息经理 | 韩国健康信息管理协会 | 可选 | 私人认证但对就业有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. With the expansion of healthcare informatization and increased adoption of electronic medical records (EMR), demand is expected to grow steadily. The need for specialized personnel will increase due to aging population and strengthened health insurance review and evaluation.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。随着医疗信息化扩大和电子病历（EMR）采用增加，需求预计稳步增长。由于人口老龄化和健康保险审查评估加强，专业人才需求将增加。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,91 +38,84 @@ A professional who systematically manages patient medical records, operates medi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | 年薪税前 |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 年薪税前 |
 | 中级（4-7年） | $35,000,000~$45,000,000 | 年薪税前 |
-| Senior-level (8+ years) | $45,000,000~$55,000,000 | 年薪税前 |
+| 高级（8年以上） | $45,000,000~$55,000,000 | 年薪税前 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI can automate medical record classification or simple coding tasks, comprehensive judgment and communication skills to ensure the accuracy of medical information and patient safety still require humans. Therefore, rather than being fully replaced by AI, it is likely to be used as a tool to improve work efficiency.
+虽然AI可自动化病历分类或简单编码任务，但确保医疗信息准确性和患者安全的综合判断及沟通能力仍需人类。因此更可能作为提升工作效率的工具，而非完全取代。
 
-Typically, after 2-3 years of practical experience, promotion to team leader or manager level is possible. Career paths include moving to public institutions such as the Health Insurance Review and Assessment Service or public health centers, or becoming a medical information system consultant.
+通常2-3年实践经验后可晋升为团队主管或经理。职业路径包括转至健康保险审查评估服务处或公共卫生中心等公共机构，或成为医疗信息系统顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic medical record entry and classification
-- Generate simple statistical reports
+- 基本病历录入与分类
+- 生成简单统计报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Utilizing AI for Medical Data Analysis
-- Writing Medical Quality Assessment Reports
+- 利用AI进行医疗数据分析
+- 撰写医疗质量评估报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Decision-making related to patient safety
-- Communication with medical staff
-- Legal and Ethical Judgment
+- 与患者安全相关的决策
+- 与医务人员沟通
+- 法律与道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Medical Information System Operation
-- Statistics and Coding
-- Understanding Medical Laws and Regulations
+- 数据分析
+- 医疗信息系统操作
+- 统计与编码
+- 了解医疗法律法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Medical Information System
-- Electronic Medical Records
-- Data Analysis
-- Medical Quality Management
+- 医疗信息系统
+- 电子病历
+- 数据分析
+- 医疗质量管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Obtainable if employed as a medical information professional at a domestic medical institution or information system company. Requires degree and experience. |
-| Subclass F-2 (F-2 (Residence)) | After long-term residence, conversion to F-5 (Permanent Residence) is possible, but it is not easy to obtain with this occupation alone. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in medical records and information management
-- Meticulous and detail-oriented, with a tendency to comply with regulations
-- Those interested in the convergence of healthcare and IT
+- 对病历和信息管理感兴趣的人
+- 一丝不苟、注重细节，倾向于遵守规定
+- 对医疗与IT融合感兴趣的人
 
 **谁不适合**
 - 厌恶重复性文档工作的人
-- Those not interested in medical studies
+- 对医学学习不感兴趣的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a Health Information Manager?**
-答：The starting salary is around 28 million to 35 million KRW, and with experience, it can increase to 45 million to 55 million KRW.
+**问：健康信息管理员的平均薪资是多少？**
+答：起薪约2800万至3500万韩元，有经验后可增至4500万至5500万韩元。
 
-**问：Can foreigners work as Health Information Managers?**
-答：It is possible but limited. To be recognized as a professional under the E-7 visa, relevant degrees and experience are needed, and obtaining the certification is also essential.
+**问：外国人能否担任健康信息管理人员？**
+答：可能但有限。要获得E-7签证的专业人士认可，需要相关学历和经验，并且获得认证也至关重要。
 
-**问：What about promotions or job changes?**
-答：Many cases involve building experience at large hospitals and then moving to smaller hospitals as an information management director or to public institutions (e.g., HIRA, health centers).
+**问：晋升或跳槽呢？**
+答：许多案例涉及在大医院积累经验，然后转到较小的医院担任信息管理总监，或者转到公共机构（例如HIRA、健康中心）。
 
 
 ---
@@ -142,12 +133,12 @@ Typically, after 2-3 years of practical experience, promotion to team leader or 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/health-information-manager/KR)**

@@ -52,8 +52,6 @@ In Canada, web developers design, build, and maintain websites and web applicati
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI has compressed coding and debugging tasks in web development, but complex architecture design and client communication skills are amplified, with mixed overall results.
-
 Junior developers can advance to senior developer, tech lead, or full-stack architect with experience. They can also move into cloud services, DevOps, or product management, with flexible paths and significant salary growth.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior developers can advance to senior developer, tech lead, or full-stack arch
 | Subclass PNP (Provincial Nominee Program (Tech)) | Provincial nomination programs for tech occupations, such as BC PNP Tech, Ontario Tech Draw, etc., usually require employer offer |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Strong demand, especially for full-stack development, front-end frameworks (e
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-developers-and-programmers/CA)**

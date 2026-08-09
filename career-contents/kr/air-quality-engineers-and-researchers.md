@@ -4,8 +4,6 @@
 
 Professionals who measure and analyze air pollutant emissions, and research and develop reduction technologies to improve air quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professionals who measure and analyze air pollutant emissions, and research and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some tasks such as air pollution data analysis, monitoring, and predictive modeling, but tasks requiring professional judgment like field measurement, regulatory interpretation, and technology development will continue to be led by humans. Overall, efficiency improvement is expected rather than job reduction due to AI.
-
 Beginners learn measurement and analysis tasks; with experience, they can advance to R&D, environmental consulting, or management. A master's or doctoral degree and research experience are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Beginners learn measurement and analysis tasks; with experience, they can advanc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreigners with professional qualifications and experience can work as air quality engineers |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This occupation requires expertise and is not eligible for E-9 visa |
-| Subclass F-2 (F-2 (Residence)) | Can switch to points system, free to work with long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Air Quality Engineer is essential, while Senior Air Quality Engineer is benef
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-quality-engineers-and-researchers/KR)**

@@ -53,8 +53,6 @@ Provides social services to incarcerated, probation, or parole offenders, assist
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
-
 Typically start as assistant or entry-level officers, progress to senior probation officers or supervisors, and some transition to federal systems or correctional management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as assistant or entry-level officers, progress to senior probati
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: At least a bachelor's degree, commonly in criminal justice, social work, psyc
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/probation-officers-and-correctional-treatment-specialists/US)**

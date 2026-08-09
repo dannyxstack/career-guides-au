@@ -54,8 +54,6 @@ Process the body by embalming, makeup, and dressing to ensure legal compliance a
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Procedural tasks like embalming and cosmetology are easily automated by AI, but core aspects like ritual, emotional support, and family communication require human empathy and judgment; overall risk is medium to low.
-
 Typically start as an apprentice or assistant, gain experience, obtain a state license, and can advance to funeral home director or independent funeral home owner. Continual learning of new embalming techniques.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Typically start as an apprentice or assistant, gain experience, obtain a state l
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must complete an ABFSE-accredited mortuary science programme (usually 2 years
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embalmers/US)**

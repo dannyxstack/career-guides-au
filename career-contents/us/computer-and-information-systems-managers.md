@@ -52,8 +52,6 @@ Computer and Information Systems Managers plan, direct, or coordinate electronic
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Common career path: from IT project manager or systems analyst to this role, then to Chief Technology Officer (CTO) or VP of IT. Requires accumulating management experience and continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Common career path: from IT project manager or systems analyst to this role, the
 | Subclass L-1A (Intracompany Transferee Executive or Manager) | Applicable to executives or managers of multinational companies; can convert to green card. |
 | Subclass O-1 (Extraordinary Ability) | Applies to individuals with extraordinary ability in sciences, arts, etc., requiring demonstration of achievements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's in computer science or information systems; m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-and-information-systems-managers/US)**

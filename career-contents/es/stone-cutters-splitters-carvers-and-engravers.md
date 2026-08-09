@@ -4,8 +4,6 @@
 
 Responsible for cutting, splitting, carving, and carving natural stone for construction, monuments, and decorative craftsmanship.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cutting, splitting, carving, and carving natural stone for const
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will make design automation and finishing more efficient, but manual engraving and on-site work still depend on people; Entry-level positions have been squeezed down due to the spread of CAD, but highly skilled craftsmen are even scarcer.
-
 Start as an apprentice or assistant, and after gaining experience, you can be promoted to master stonemason or foreman. Some individuals become stone restoration experts or start their own businesses through further education.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Start as an apprentice or assistant, and after gaining experience, you can be pr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A Spanish employer sponsorship is required, usually requiring proof that the position cannot be filled by an EU citizen. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, but you must prove your financial capability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: It's very difficult. This occupation is not considered a shortage in Spain; e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stone-cutters-splitters-carvers-and-engravers/ES)**

@@ -1,8 +1,8 @@
-# Drafter (CAD Operator) 职业分析 · 韩国
+# 绘图员（CAD操作员）（Drafter (CAD Operator)）职业分析 · 韩国
 
-**职业代码: 15914 (KECO)**
+**职业代码：15914 (KECO)**
 
-A drafter (CAD operator) creates and revises product design drawings using CAD software, providing engineering support in manufacturing and construction industries.
+绘图员（CAD操作员）使用CAD软件创建和修改产品设计图纸，为制造业和建筑业提供工程支持。
 
 
 ---
@@ -11,8 +11,8 @@ A drafter (CAD operator) creates and revises product design drawings using CAD s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate's Degree (2-year) | 2 年 | $4,000,000~$8,000,000（Public university standard; private universities may be more expensive） |
-| Associate's Degree (3-year) | 3年 | $6,000,000~$12,000,000（Evening and online programs available） |
+| 副学士学位（2年制） | 2 年 | $4,000,000~$8,000,000（公立大学标准；私立大学可能更贵） |
+| 副学士学位（3年制） | 3年 | $6,000,000~$12,000,000（提供晚间和在线课程） |
 
 ---
 
@@ -20,18 +20,18 @@ A drafter (CAD operator) creates and revises product design drawings using CAD s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computer Application Machining Craftsman | Human Resources Development Service of Korea | 可选 | Basic CAD for mechanical fields |
-| Computer Application Architectural Drafting Craftsman | Human Resources Development Service of Korea | 可选 | CAD for architectural fields |
-| ATC (AutoCAD Certified) Certification | Autodesk | 可选 | Internationally recognized, highly preferred by employers |
+| 计算机应用机加工工匠 | 韩国人力资源开发服务局 | 可选 | 机械领域基础CAD |
+| 计算机应用建筑制图工匠 | 韩国人力资源开发服务局 | 可选 | 建筑领域CAD |
+| ATC（AutoCAD认证）认证 | Autodesk | 可选 | 国际认可，雇主高度青睐 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 65,000. Due to digital transformation in Korea's manufacturing and construction sectors, demand for advanced CAD personnel persists, but simple drafting tasks are declining due to automation. Proficiency in 3D modeling and BIM is becoming essential.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 65,000。由于韩国制造业和建筑业的数字化转型，对高级CAD人员的需求持续存在，但简单的绘图任务因自动化而减少。精通3D建模和BIM变得至关重要。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,96 +39,89 @@ A drafter (CAD operator) creates and revises product design drawings using CAD s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$32,000,000 | Based on small and medium-sized enterprises |
-| Mid-level (4–7 years) | $33,000,000~$45,000,000 | Large corporations and specialized design firms |
-| Senior-level (8+ years) | $46,000,000~$60,000,000 | Design lead and project manager |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 基于中小企业 |
+| 中级（4–7年） | $33,000,000~$45,000,000 | 大型企业和专业设计公司 |
+| 高级（8年以上） | $46,000,000~$60,000,000 | 设计主管和项目经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-As AI and automation software rapidly replace simple drafting tasks, the traditional role of drafters is shrinking. However, advanced CAD tasks such as 3D modeling, BIM, and simulation are increasing productivity through collaboration with AI. While demand for simple CAD operators is decreasing, demand for experts who can utilize AI tools is expected to grow.
+随着AI和自动化软件迅速取代简单的绘图任务，绘图员的传统角色正在缩减。然而，高级CAD任务如3D建模、BIM和仿真通过AI协作正在提高生产力。虽然对简单CAD操作员的需求正在减少，但对能利用AI工具的专家的需求预计将增长。
 
-Starting as a CAD operator, one can advance to design engineer or project manager with experience. Specialization in specific industries (mechanical, electrical, architectural) and certifications (e.g., ATC) are advantageous.
+从CAD操作员开始，随着经验积累可晋升为设计工程师或项目经理。在特定行业（机械、电气、建筑）的专长和认证（如ATC）具有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic 2D drawing creation
-- Repetitive drawing revisions
-- Standard parts library placement
+- 基础2D图纸绘制
+- 重复性图纸修改
+- 标准件库布库
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D modeling optimization
-- Structural analysis/simulation integration
-- Automatic dimensioning/clash detection
-- BIM data integration
+- 3D建模优化
+- 结构分析/仿真集成
+- 自动尺寸标注/碰撞检测
+- BIM数据集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Design decision-making
-- Drawing interpretation reflecting site conditions
-- Client requirement consultation
-- Creative design alternative proposals
+- 设计决策
+- 反映现场条件的图纸解读
+- 客户需求咨询
+- 创意设计方案替代提案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM software (Revit, ArchiCAD)
-- 3D CAD (SolidWorks, CATIA, Inventor)
+- BIM软件（Revit, ArchiCAD）
+- 3D CAD（SolidWorks、CATIA、Inventor）
 - 参数化设计（Grasshopper、Dynamo）
-- Generative design
-- Programming (Python, Dynamo scripting)
+- 生成式设计
+- 编程（Python、Dynamo脚本）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 3D modeling
+- 3D建模
 - BIM
-- Automated design
-- Smart manufacturing
+- 自动化设计
+- 智能制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for CAD design as a skilled professional, must meet degree and experience requirements |
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing production roles, not suitable for CAD jobs |
-| Subclass F-2 (Residence) | For long-term residents, free to work in CAD jobs |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer meticulous and accurate work
-- People interested in mechanical or architectural drawings
-- People comfortable learning computer programs (especially CAD)
+- 偏好细致准确工作的人
+- 对机械或建筑图纸感兴趣的人
+- 乐于学习计算机程序（尤其是CAD）的人
 
 **谁不适合**
-- People who dislike repetitive monitor work
-- People uncomfortable with environments requiring only technical implementation rather than creative design
+- 不喜欢重复监视工作的人
+- 不适应只要求技术实施而非创意设计环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a drafter?**
-答：For small businesses, annual salary is 24–32 million KRW; larger companies or specialized design firms may offer more.
+**问：绘图员的起薪是多少？**
+答：小企业年薪为2400–3200万韩元；大型公司或专业设计事务所可能更高。
 
-**问：Can foreigners work as drafters in Korea?**
-答：Possible with an E-7 visa, but degree and experience requirements must be met, and Korean language skills are advantageous.
+**问：外国人能在韩国担任绘图员吗？**
+答：可能持有E-7签证，但需满足学历和经验要求，韩语能力有优势。
 
-**问：Is there a high risk of AI replacing drafter jobs?**
-答：Yes, simple 2D drafting is at high risk of automation, but advanced tasks like 3D modeling and BIM are enhanced by AI assistance.
+**问：AI替代绘图员工作的风险高吗？**
+答：是的，简单的2D制图面临自动化的高风险，但3D建模和BIM等高级任务则通过AI辅助得到增强。
 
 
 ---
@@ -146,12 +139,12 @@ Starting as a CAD operator, one can advance to design engineer or project manage
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/drafter-cad-operator/KR)**

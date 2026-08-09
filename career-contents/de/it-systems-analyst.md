@@ -51,8 +51,6 @@ IT systems analysts analyze enterprise IT needs, design and optimize information
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Career path: Junior analyst → Senior analyst → IT project manager/architect. Lateral moves to data science, information security, or management consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Junior analyst → Senior analyst → IT project manager/architect.
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, 2024 new regulations. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring recognised qualifications and language proficiency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Germany's digitalization is accelerating, with strong job demand. Clear caree
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-systems-analyst/DE)**

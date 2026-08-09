@@ -1,8 +1,8 @@
-# Other Engineers 职业分析 · 日本
+# 其他工程师（Other Engineers）职业分析 · 日本
 
-**职业代码: 119 (JSCO)**
+**职业代码：119 (JSCO)**
 
-Engineers and technicians not classified elsewhere, working in a wide range of fields.
+未另分类的工程师和技术人员，工作领域广泛。
 
 
 ---
@@ -11,9 +11,9 @@ Engineers and technicians not classified elsewhere, working in a wide range of f
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical College | 5年 | $200,000~$600,000（Varies by national, public, and private institutions） |
-| University (Science and Engineering) | 4年 | $400,000~$900,000（Includes entrance fees, tuition, etc.） |
-| Vocational School (Technical) | 2 年 | $1,500,000~$2,000,000（Varies by field） |
+| 技术学院 | 5年 | $200,000~$600,000（因国立、公立和私立机构而异） |
+| 大学（理工科） | 4年 | $400,000~$900,000（包括注册费、学费等。） |
+| 职业学校（技术类） | 2 年 | $1,500,000~$2,000,000（因领域而异） |
 
 ---
 
@@ -21,18 +21,18 @@ Engineers and technicians not classified elsewhere, working in a wide range of f
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer | Ministry of Education, Culture, Sports, Science and Technology | 可选 | National qualification; proof of advanced technical skills |
-| Certified Electrical Engineer | Ministry of Economy, Trade and Industry | 可选 | Required for maintenance and management of electrical facilities |
-| Energy Manager | Ministry of Economy, Trade and Industry | 可选 | Expert in energy conservation and management |
+| 专业工程师 | 文部科学省 | 可选 | 国家资格；高级技术技能证明 |
+| 认证电气工程师 | 经济产业省 | 可选 | 电气设施维护管理所需 |
+| 能源经理 | 经济产业省 | 可选 | 节能与管理专家 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 450,000. Demand across industries such as manufacturing and construction. DX and technological innovation continue to create shortages of highly specialized talent.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 450,000。制造业和建筑业等行业都有需求。数字化转型和技术创新持续导致高度专业人才短缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Engineers and technicians not classified elsewhere, working in a wide range of f
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,500,000~$4,500,000 | Varies by industry and company size |
-| Mid-level (4–10 years) | $5,000,000~$7,000,000 | Varies by expertise and performance |
-| Veteran (11+ years) | $7,000,000~$10,000,000 | Further up for managers and specialists |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 因行业和公司规模而异 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 视专业程度和表现而异 |
+| 资深（11年以上） | $7,000,000~$10,000,000 | 管理层和专业人士更上一层 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-While routine design and analysis tasks shrink due to AI and automation, advanced AI-driven technical development and project management will grow.
+虽然常规设计和分析任务因AI和自动化而减少，但高级AI驱动的技术开发和项目管理将会增长。
 
-Gain experience as an engineer, advance to project leader or management. Career advancement possible through professional certifications.
+积累工程师经验，晋升为项目负责人或管理层。通过专业认证可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic checking of CAD drawings
-- Standard structural calculations
-- Anomaly detection for equipment (AI-driven)
+- CAD图纸自动检查
+- 标准结构计算
+- 设备异常检测（AI驱动）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal design via simulation
-- AI-assisted failure prediction
-- Drone inspection data analysis
+- 通过模拟优化设计
+- AI辅助故障预测
+- 无人机检测数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving ability
-- Practical on-site know-how
-- Multi-field integrated judgment
+- 创造性解决问题的能力
+- 实用现场技能
+- 多领域综合判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and machine learning
-- Data analysis
+- AI和机器学习
+- 数据分析
 - 项目管理
-- English and Technical Documentation
+- 英语与技术文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- DX human resources
-- Environmental technology
-- Robot implementation
-- Energy management
+- DX人力资源
+- 环境技术
+- 机器人实施
+- 能源管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable with university degree or 10+ years experience; qualifies as engineer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing, etc.)) | Obtain by passing skills and Japanese exams; work in manufacturing, etc. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based preferential treatment; easier permanent residency. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who want to use STEM knowledge
-- Those interested in manufacturing and R&D
-- Those who enjoy problem-solving
+- 希望运用STEM知识的人
+- 对制造和研发感兴趣者
+- 喜欢解决问题的人
 
 **谁不适合**
-- Those who like routine work
-- Those who prefer direct interaction with people
+- 喜欢按部就班工作的人
+- 偏好与人直接互动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical income in this occupation?**
-答：First year: around 3.5 to 4.5 million yen; 10 years experience: 5 to 7 million yen; veterans can earn 7 to 10 million yen or more.
+**问：该职业的典型收入是多少？**
+答：第一年：约350万至450万日元；10年经验：500万至700万日元；资深者可达700万至1000万日元以上。
 
-**问：Can foreign nationals work in this field?**
-答：Yes, you may apply for an Engineer/Specialist in Humanities/International Services visa or Specified Skilled Worker (i) visa.
+**问：外国人可以从事这个领域的工作吗？**
+答：是的，您可以申请人文/国际服务的工程师/专家签证或特定技能工人(i)签证。
 
-**问：Are there any required qualifications?**
-答：Not mandatory, but having a national certification like Professional Engineer can boost your career.
+**问：是否需要任何资格证书？**
+答：非强制，但持有国家认证如专业工程师可促进职业发展。
 
 
 ---
@@ -144,12 +137,12 @@ Gain experience as an engineer, advance to project leader or management. Career 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-engineers/JP)**

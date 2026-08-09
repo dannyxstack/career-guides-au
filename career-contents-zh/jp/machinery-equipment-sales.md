@@ -1,8 +1,8 @@
-# Machinery/Equipment Sales 职业分析 · 日本
+# 机械/设备销售（Machinery/Equipment Sales）职业分析 · 日本
 
-**职业代码: 344 (JSCO)**
+**职业代码：344 (JSCO)**
 
-A profession responsible for sales of industrial machinery and machine tools, proposing and selling to corporate clients. A specialized sales role that bridges manufacturers and users.
+负责工业机械和机床销售的专业人员，向企业客户进行提案和销售。这是一个连接制造商和用户的专业化销售角色。
 
 
 ---
@@ -11,8 +11,8 @@ A profession responsible for sales of industrial machinery and machine tools, pr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $3,000,000~$4,000,000（For public high schools） |
-| Vocational School (Machinery/Sales) | 2 年 | $2,000,000~$3,000,000（For private vocational schools） |
+| 高中 | 3年 | $3,000,000~$4,000,000（面向公立高中） |
+| 职业学校（机械/销售） | 2 年 | $2,000,000~$3,000,000（针对私立职业学校） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession responsible for sales of industrial machinery and machine tools, pr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mechanical Design Engineer Examination | Japan Mechanical Design Engineers Association | 可选 | Useful as proof of basic machinery knowledge |
-| Business Practical Law Examination | Tokyo Chamber of Commerce and Industry | 可选 | Proof of contract and legal knowledge |
-| Sales Expert Certification | Japan Chamber of Commerce and Industry | 可选 | Proof of sales skills |
+| 机械设计工程师考试 | 日本机械设计工程师协会 | 可选 | 可作为基本机械知识的证明 |
+| 商业实务法律考试 | 东京商工会议所 | 可选 | 合同证明与法律知识 |
+| 销售专家认证 | 日本商工会议所 | 可选 | 销售技能证明 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 320,000. While influenced by automation demand and capital investment trends in manufacturing, tech-savvy sales roles maintain stable demand.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 320,000。虽然受制造业自动化需求和资本投资趋势影响，但技术型销售角色需求保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,88 +39,82 @@ A profession responsible for sales of industrial machinery and machine tools, pr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,500,000~$4,500,000 | Base salary without commission |
-| Mid-level (4–10 years) | $5,000,000~$7,000,000 | With incentives sometimes |
-| Senior (11+ years) | $7,000,000~$10,000,000 | Department head level as manager |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 不含佣金的基本工资 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 有时含激励措施 |
+| 高级（11年以上） | $7,000,000~$10,000,000 | 部门主管级别作为经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI streamlines customer data analysis and proposal creation, but advanced understanding of mechanical products and relationship building remain human roles. The likelihood of AI completely replacing sales is low.
+AI简化客户数据分析和方案创建，但机械产品的高级理解和关系建立仍是人类角色。AI完全取代销售的可能性较低。
 
-After gaining sales experience, career advancement to managerial positions such as chief or section manager, or as a specialized salesperson. Deepening technical knowledge opens paths to consulting sales.
+积累销售经验后，可晋升至主管或部门经理等管理职位，或成为专业销售人员。深化技术知识可开辟咨询销售途径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine quotation creation
-- Customer list management
-- Simple inquiry handling
+- 常规报价创建
+- 客户名单管理
+- 简单咨询处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer need analysis
-- Proposal creation
-- Sales strategy formulation
+- 客户需求分析
+- 提案创建
+- 制定销售策略
 
-**人类护城河:**
+**人类护城河：**
 
-- Proposal skills based on technical understanding
-- Building long-term trust relationships
-- On-site coordination skills
+- 基于技术理解的提案能力
+- 建立长期信任关系
+- 现场协调技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic knowledge of mechanical engineering
+- 机械工程基础知识
 - 数据分析技能
-- Presentation skills
+- 演示技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Manufacturing industry
-- Capital Investment
-- Automation
-- Labor Saving
+- 制造业
+- 资本投资
+- 自动化
+- 节省劳动力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Combine mechanical knowledge and sales experience to work in sales positions related to manufacturing. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | May qualify as sales support in three manufacturing fields (machinery, metals, etc.). |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in machinery and understanding mechanisms
-- Those skilled in interpersonal negotiation and confident in proposal ability
-- Those who want to excel in a merit-based environment
+- 对机械和了解机制感兴趣的人
+- 擅长人际谈判且对提案能力有信心者
+- 那些希望在基于绩效的环境中脱颖而出的人
 
 **谁不适合**
-- Those who prefer routine work
-- Those who easily feel pressure from numerical targets
+- 喜欢常规工作的人
+- 那些容易对数字目标感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for machinery equipment sales?**
-答：Beginner: 3.5-4.5 million yen, Mid-level: 5-7 million yen, Veteran: 7-10 million yen. Higher income possible with commission-based companies.
+**问：机械设备销售的年收入是多少？**
+答：初级：350-450万日元，中级：500-700万日元，高级：700-1000万日元。佣金制公司可能获得更高收入。
 
-**问：What visa is required for foreigners to work in machinery equipment sales?**
-答：Mainly the 'Engineer/Specialist in Humanities/International Services' visa. Mechanical knowledge and sales experience required, with company sponsorship. Specified Skilled Worker (i) is limited to support tasks in manufacturing.
+**问：外国人从事机械设备销售需要什么签证？**
+答：主要是“工程师/人文/国际服务”签证。需要机械知识和销售经验，公司担保。特定技能工人(i)仅限于制造领域的支持工作。
 
 
 ---
@@ -138,12 +132,12 @@ After gaining sales experience, career advancement to managerial positions such 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/machinery-equipment-sales/JP)**

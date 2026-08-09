@@ -51,8 +51,6 @@ Owner of a small-scale retail and wholesale store, responsible for daily operati
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI both compresses traditional tasks for retail/wholesale business owners and amplifies their management and operational capabilities. Basic sales and inventory management can be automated, but customer relations, strategic decisions, and on-site experiences still require human leadership.
-
 Usually starts as a clerk or manager, accumulates experience, then starts own business. Can expand to chain operations or transition to e-commerce; some shop owners switch to wholesale or brand agency.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts as a clerk or manager, accumulates experience, then starts own bu
 | Subclass Skilled Worker (Skilled Worker visa) | Employer sponsorship is required, but shop owners are usually self-employed, making it difficult to meet sponsorship requirements. |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2 years (3 years for PhD), but they need to find an employer or start a business on their own. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Applying directly as a shop owner for a skilled worker visa is difficult, as 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shopkeepers-and-owners-retail-and-wholesale/UK)**

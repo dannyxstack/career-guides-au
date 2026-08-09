@@ -54,8 +54,6 @@ Weighbridge Operators operate weighing equipment to measure the weight of goods 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The core weighing and data recording tasks of weighbridge operators are easily replaced by automated systems, entry-level positions are significantly reduced, and future demand will shrink markedly.
-
 Usually start as a junior operator, gain experience to advance to senior operator or logistics coordinator. Can also move into warehouse management or transport scheduling with additional training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as a junior operator, gain experience to advance to senior operato
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requires employer sponsorship, can work at minimum skill level |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: weighbridge operators usually do not meet requirements due to ANZSCO mismatch |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Automation may reduce demand for this role; transitioning to logistics coordi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weighbridge-operator/NZ)**

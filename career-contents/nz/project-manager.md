@@ -52,8 +52,6 @@ Project managers are in steady demand in New Zealand's commercial, IT, and const
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
-
 Junior project managers (0-3 years) can advance to senior project manager or project director, some move to PMO or consulting. Those with PMP or PRINCE2 certification advance faster, with annual salary increases of around 5-10%.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior project managers (0-3 years) can advance to senior project manager or pro
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled Migrant Category; under the 6-point system, qualifications + experience + salary can earn sufficient points |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those not yet meeting residence conditions, allows subsequent visa transfer |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: PMP and PRINCE2 are most recognized, not mandatory but preferred by employers
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-manager/NZ)**

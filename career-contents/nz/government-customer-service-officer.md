@@ -51,8 +51,6 @@ In New Zealand government agencies (e.g., Department of Internal Affairs, Minist
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Government customer service officer roles will be significantly compressed by AI and digital government tools; routine inquiries and form processing are highly automatable, with entry-level hiring expected to drop by 30-50%; remaining roles require complex communication and administrative judgment.
-
 Practitioners typically start as customer service representatives, and after gaining experience and internal training, can advance to senior customer service officer, team leader, or policy compliance roles. Some can move to other government functions such as immigration officer or benefits reviewer.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Practitioners typically start as customer service representatives, and after gai
 | Subclass AEWV (Accredited Employer Work Visa) | Need a job offer from an accredited employer, salary not below the median wage (approx. NZ$29.66/hour in 2024) |
 | Subclass SMC (Skilled Migrant Category) | If the occupation is at ANZSCO Skill Level 4-5, the salary must reach 1.5 times the median (approx $44.49 NZD/hour) to apply; or gain experience to advance to Skill Level 1-3 roles. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Government customer service roles are stable but have limited advancement opp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-customer-service-officer/NZ)**

@@ -4,8 +4,6 @@
 
 A small business owner who operates small retail stores such as neighborhood supermarkets, convenience stores, and small marts, overseeing product ordering, inventory management, sales analysis, staff management, and customer service.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A small business owner who operates small retail stores such as neighborhood sup
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists store managers with inventory management, sales forecasting, and self-checkout, but customer service and on-site decision-making still require humans for the time being. Jobs are declining due to competition from large marts and online retailers.
-
 Career path: small store employee → store manager → district manager or headquarters supervisor, or franchise start-up/multi-store operation, but the path is narrowing due to industry downturn.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career path: small store employee → store manager → district manager or head
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible for skilled workers to manage small stores, but requirements are strict |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can use this for starting their own business |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can run small retail stores |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Inventory management skills, customer service mindset, basic accounting knowl
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/small-retail-store-manager/KR)**

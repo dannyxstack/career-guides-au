@@ -54,8 +54,6 @@ Museum directors are responsible for the overall management of museums, includin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on museum curator roles is mixed: administrative and data analysis tasks can be automated, but curatorial creativity, community relations, and fiduciary responsibility remain human advantages.
-
 Career progression typically moves from department head (e.g., curatorial, education) to deputy director, then to director. Large museum directors need a PhD and management experience, while small museums value versatility.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression typically moves from department head (e.g., curatorial, educa
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires recognized qualifications + employer sponsorship |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring qualification verification + financial proof |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically start as curator or head of education, progress to deputy director,
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/museum-manager/DE)**

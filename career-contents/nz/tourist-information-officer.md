@@ -52,8 +52,6 @@ At visitor centres or information desks, provide tourists with travel informatio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 Progress from junior information officer to senior consultant or team leader, requiring accumulated customer service and local knowledge. Can transition to tourism product development, destination marketing, or tourism management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from junior information officer to senior consultant or team leader, re
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (education, work experience, etc.), must have a job offer |
 | Subclass Partnership (Partner of a New Zealander Work Visa) | If the spouse is a New Zealand resident or citizen, they can apply for a partner work visa and work freely |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a New Zealand National Certificate in Tourism (Level 4) or r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourist-information-officer/NZ)**

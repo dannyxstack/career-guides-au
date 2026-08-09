@@ -56,8 +56,6 @@ Arborists are responsible for pruning, removing, assessing and maintaining trees
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
-
 Major Australian cities (Sydney/Melbourne) have enacted strict tree preservation regulations, requiring a licensed arborist for any work involving trees. Climbing Arborists with AQF Level 5+ qualifications are among the most in-demand trade professionals nationwide, earning significantly more than general forestry workers. Following the 2019–2020 Black Summer bushfires, Australia launched large-scale forest restoration programs, driving additional employment demand.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Major Australian cities (Sydney/Melbourne) have enacted strict tree preservation
 | Subclass 190 (Skilled Nominated) | State nomination (NSW/VIC/QLD and other states with strong greening priorities) |
 | Subclass 491 (Skilled Work Regional) | Arborists are in critical shortage in regional areas; adds 15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: The agricultural technician job market is larger with higher salaries ($78k�
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arborist-forestry-worker/AU)**

@@ -50,8 +50,6 @@ A professional who plans, designs, and supervises the construction of interiors 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI plays a supporting role in tasks like automated space layout, 3D rendering, and material recommendation, but human-specific areas like design sense and client communication remain protected. About 20% of total tasks are expected to be replaceable by AI.
-
 Starting as a junior intern or designer, advancement to mid-level designer in 3-5 years, senior designer or team lead in 7-10 years. Certifications and portfolio boost promotion prospects.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as a junior intern or designer, advancement to mid-level designer in 3-
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available when employed by a Korean company; requires skilled worker qualifications |
-| Subclass F-2 (Residence) | Applicable after long-term stay; no activity restrictions |
-| Subclass F-4 (Overseas Koreans) | Allows employment activities for overseas Koreans |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Not mandatory, but the indoor construction engineer certification is highly a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer/KR)**

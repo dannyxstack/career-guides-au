@@ -4,8 +4,6 @@
 
 Private detectives are employed by individuals, companies, or law firms to conduct background checks, locate missing persons, investigate insurance fraud, and monitor surveillance, with work involving legal and privacy regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Private detectives are employed by individuals, companies, or law firms to condu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of private detectives is mixed; routine investigations, information retrieval, and report generation are easily automated by AI, but tasks involving legal boundaries, interpersonal insights, and field evidence collection still rely on humans, with overall risks being moderate.
-
 You can grow from a detective assistant to a senior detective or open your own detective agency. Some transferred to enterprise security, risk management, or enforcement departments. Continuously building connections and professional skills is key.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ You can grow from a detective assistant to a senior detective or open your own d
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Employed by a Spanish detective agency, requiring corporate sponsorship, moderate difficulty |
-| Subclass Cuenta propia (Self-Employment) | To open your own detective agency, you need to prove your investment and business plan |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: It is not listed among Spain's Shortage Occupations (ocupación de difícil c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/private-detective/ES)**

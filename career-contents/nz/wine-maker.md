@@ -54,8 +54,6 @@ Winemakers in New Zealand manage the entire wine-making process, from grape grow
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Winemaker role has mixed prospects: AI can greatly optimize fermentation monitoring and quality control data, but sensory experience, regional flavor decisions, and problem-solving remain core, so jobs are stable but entry tasks may decrease.
-
 Junior brewers can advance to brewing supervisor, winery manager, or transition to viticulture, winery operations management. Experienced individuals can become head brewer or independent winery consultant; larger wineries have more management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior brewers can advance to brewing supervisor, winery manager, or transition 
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can progress from assistant winemaker to winemaker, senior winemaker, winery 
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wine-maker/NZ)**

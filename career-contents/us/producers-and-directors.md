@@ -52,8 +52,6 @@ Responsible for creative decisions in stage, television, radio, video, or film p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
-
 Entry-level roles like production assistant or assistant director, then gain experience to become producer or director. Senior roles may include executive producer or creative director, or starting own production company.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level roles like production assistant or assistant director, then gain exp
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to film and TV talents with outstanding ability or achievement. |
 | Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Typically requires PERM labor certification, suitable for highly educated or exceptional talent |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's degree in film, media, or related field, but 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/producers-and-directors/US)**

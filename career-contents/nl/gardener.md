@@ -4,8 +4,6 @@
 
 Gardeners are responsible for planting, pruning, and maintaining plants, including flowers, shrubs, and lawns, commonly found in public green spaces, private gardens, and nurseries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Gardeners are responsible for planting, pruning, and maintaining plants, includi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is compressing some administrative roles through automated documentation and remote inspections, but on-site manual work, creative design, and complex terrain handling still rely heavily on humans. This occupation has mixed prospects.
-
 Can progress from junior gardener to senior horticulturist or supervisor, or specialize in landscape design, organic cultivation, or nursery management.
 
 **Tasks most exposed to AI:**
@@ -99,18 +95,9 @@ Can progress from junior gardener to senior horticulturist or supervisor, or spe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and higher salary; horticulturists usually do not meet the salary threshold. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship, salary threshold around €5,000/month, typically not met by gardeners |
-| Subclass Orientation Year (Orientation Year) | Graduates studying in the Netherlands have a one-year job search buffer period and can engage in basic work such as horticulture |
-| Subclass EU free movement (EU Free Movement) | EU citizens can work freely in the Netherlands without an additional visa. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +141,12 @@ A: Typically requires an MBO secondary vocational education diploma in horticult
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardener/NL)**

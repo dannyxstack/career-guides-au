@@ -53,8 +53,6 @@ Personal care supervisors oversee beauty, hairdressing, nail care, and other per
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The supervisory and interpersonal communication duties of a personal care supervisor are difficult to replace, but administrative tasks like scheduling and reporting are easily automated, making overall risk moderate. Entry-level positions may narrow due to automated booking and client management.
-
 After promotion from technician to supervisor, one can further develop into regional manager or trainer, or obtain a degree in business economics through further study and shift to business management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ After promotion from technician to supervisor, one can further develop into regi
 | Subclass Skilled Worker (EU Blue Card) | If annual salary meets the threshold (approximately €43,000 in 2024), can apply for a Blue Card; relevant qualification recognition required. |
 | Subclass Chancenkarte (Opportunity Card) | Applicable to qualified individuals without a job offer, allowing them to apply for entry to Germany to seek work using a points-based system. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: To work in this occupation, you must complete German dual vocational training
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-personal-care/DE)**

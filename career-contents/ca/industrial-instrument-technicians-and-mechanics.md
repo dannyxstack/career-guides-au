@@ -53,8 +53,6 @@ Industrial instrumentation technicians install, calibrate, maintain, and repair 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on industrial instrument technician roles is mixed: routine calibration and data recording will be automated, but complex fault diagnosis, system integration, and compliance verification still heavily rely on human experience, requiring continuous skill upgrades in data analysis and cross-domain expertise.
-
 From junior technician to senior technician or supervisor, can advance to instrumentation engineer or project manager. Red Seal certification enables interprovincial mobility, or transition to process control system integration, industrial automation consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ From junior technician to senior technician or supervisor, can advance to instru
 | Subclass PNP (Provincial Nominee Program) | Alberta, Saskatchewan, Newfoundland and Labrador, etc., have regular occupation priority invitations; must meet provincial work requirements. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship for quick immigration if a matching employer is found. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, but usually requires assessment by provincial certification bodies, may 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-instrument-technicians-and-mechanics/CA)**

@@ -54,8 +54,6 @@ Drive and control agricultural equipment such as tractors and harvesters to perf
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Can advance from junior operator to senior operator, supervisor, or farm manager. Some transition to equipment maintenance or agricultural technical services through experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior operator to senior operator, supervisor, or farm manager
 | Subclass H-2A (Temporary Agricultural Workers) | Seasonal agricultural worker visa requiring employer proof of local labour shortage. |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Rare cases, requires employer sponsorship and labor certification application, but agricultural operators typically do not meet high-skilled requirements |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from operator to supervisor, farm manager, or equipment maintenan
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-equipment-operators/US)**

@@ -51,8 +51,6 @@ Responsible for planting, cultivating, and harvesting tree and shrub crops (such
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on tree and shrub crop growers is mixed: automated equipment will reduce some repetitive physical tasks, but AI-enhanced precision agriculture tools can boost yields and decision-making efficiency, while seasonal and outdoor work characteristics preserve a human advantage.
-
 Can advance from farm worker to plantation supervisor or farm manager, then to agricultural consultant or own farm operator. With experience, can also move into agritech or sustainable agriculture.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Can advance from farm worker to plantation supervisor or farm manager, then to a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to seasonal agricultural workers, requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled agricultural specialists requiring a university degree and high-salary contract. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes. Can progress from general grower to supervisor or farm manager, also bec
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-and-shrub-crop-grower/IT)**

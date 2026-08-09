@@ -53,8 +53,6 @@ Interior decorators are responsible for the decorative design and implementation
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Junior decorators can advance to senior decorator or project manager, and may also move into interior design, display design, and other fields. Experienced decorators can run their own studio or serve as design director.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior decorators can advance to senior decorator or project manager, and may al
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can progress from junior decorator to senior decorator, project manager, or o
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-decorator/DE)**

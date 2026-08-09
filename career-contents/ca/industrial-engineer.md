@@ -51,8 +51,6 @@ Industrial engineers in Canada can work in manufacturing, logistics, consulting,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial engineering jobs show polarization: AI will significantly enhance tasks like data analysis and process simulation, but decision-making, interpersonal coordination, and system integration still require human experience; entry-level roles are slightly reduced due to automation tools.
-
 Junior industrial engineers can start in data analysis or production support roles, and with experience advance to senior engineer, project manager, or operations director. Some transition to supply chain, quality, or lean management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior industrial engineers can start in data analysis or production support rol
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario Human Capital and BC Tech Pilot, require a local employer offer or relevant qualifications. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with a local job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but a P.Eng. license helps with promotion and salary growth, e
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-engineer/CA)**

@@ -54,8 +54,6 @@ Operate plastic cable manufacturing machines, responsible for extrusion, cooling
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-plastic cable making machine operators face a mix of automation and AI enhancement: repetitive tasks are easily replaced, but AI can optimize process parameters, predict maintenance, and improve production efficiency and quality.
-
 Junior operators can advance to senior operators or shift leaders, then to production supervisors or process technicians. Some transfer to equipment maintenance or quality control.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior operators can advance to senior operators or shift leaders, then to produ
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance from operator to team leader, production supervisor, or transfer 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-cablemaking-machine-operator/AU)**

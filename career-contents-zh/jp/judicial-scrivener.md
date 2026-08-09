@@ -1,10 +1,8 @@
-# Judicial Scrivener 职业分析 · 日本
+# 司法代书人（Judicial Scrivener）职业分析 · 日本
 
-**职业代码: 175 (JSCO)**
+**职业代码：175 (JSCO)**
 
-Judicial scriveners are legal professionals specializing in procedures related to registration and deposits, as well as document preparation for courts, and they also handle representation in summary courts.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+司法代书人是在登记和存款程序以及法院文件准备方面专业的法律工作者，也处理简易法院的代理。
 
 
 ---
@@ -13,8 +11,8 @@ Judicial scriveners are legal professionals specializing in procedures related t
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (e.g., Faculty of Law) | 4年 | $4,000,000~$6,000,000（Average tuition at private universities (4 years)） |
-| Preparation for the judicial scrivener exam (e.g., preparatory school) | 2 年 | $500,000~$1,500,000（Preparatory school tuition fees） |
+| 大学（例如法学院） | 4年 | $4,000,000~$6,000,000（私立大学平均学费（4年制）） |
+| 司法书士考试备考（如预备校） | 2 年 | $500,000~$1,500,000（预科学校学费） |
 
 ---
 
@@ -22,17 +20,17 @@ Judicial scriveners are legal professionals specializing in procedures related t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Judicial Scrivener License | Ministry of Justice | 必备 | Must pass the judicial scrivener exam and register with the Japan Federation of Judicial Scrivener Associations |
-| Summary Court Representation Qualification | Japan Federation of Judicial Scrivener Associations | 可选 | Required for representation in summary courts; requires practical experience, etc. |
+| 司法代书人执照 | 法务部 | 必备 | 必须通过司法书士考试并在日本司法书士联合会注册 |
+| 简易法庭代理资格 | 日本司法书士联合会 | 可选 | 在简易法院出庭代理所需条件；需具备实践经验等。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 22,000. Due to an increase in inheritance registrations and demand for real estate transactions associated with an aging population, employment for judicial scriveners is expected to remain stable.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 22,000。由于老龄化人口导致的遗产登记和房地产交易需求增加，司法代书人的就业预计将保持稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,91 +38,85 @@ Judicial scriveners are legal professionals specializing in procedures related t
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $4,000,000~$6,000,000 | When working at a judicial scrivener corporation |
-| 中级（3-10年） | $6,000,000~$10,000,000 | Gain experience and consider independence |
-| Advanced (10+ years) | $10,000,000~$15,000,000 | If self-employed, income can vary greatly |
+| 初级（0-3年） | $4,000,000~$6,000,000 | 在司法书士法人机构工作时 |
+| 中级（3-10年） | $6,000,000~$10,000,000 | 积累经验并考虑独立 |
+| 高级（10年以上） | $10,000,000~$15,000,000 | 如果自雇，收入可能差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI streamlines document creation and property registration searches, but legal judgment and interpersonal tasks rely heavily on humans. The work of judicial scriveners can be enhanced by AI.
+AI简化了文件生成和产权登记搜索，但法律判断和人际交往任务高度依赖人类。司法代书人的工作可借助AI提升。
 
-After passing the judicial scrivener exam, it is common to work at a judicial scrivener corporation or office, gain experience, and then start an independent practice.
+通过司法书士考试后，通常会在司法书士法人或事务所工作，积累经验，然后独立开业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Property registration searches
-- Document format checks
-- Routine registration applications
+- 产权登记查询
+- 文件格式检查
+- 常规注册申请
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex registration procedure analysis
-- Legal consultation
-- Adult guardianship
+- 复杂注册程序分析
+- 法律咨询
+- 成年监护
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal interpretation and application skills
-- Trust-building with clients
-- Experience negotiating with courts
+- 法律解释和适用技能
+- 与客户建立信任
+- 与法院谈判的经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool skills
-- Compliance knowledge
-- Communication skills
+- AI工具技能
+- 合规知识
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Inheritance registration
-- Real estate transactions
-- Adult guardianship
-- IT adaptation
+- 继承登记
+- 房地产交易
+- 成年监护
+- IT适应
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Since the work of a judicial scrivener requires legal knowledge, it may qualify for the Engineer/Specialist in Humanities/International Services visa, but foreign judicial scriveners are rare |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those good at detailed document creation
-- Those interested in law and who value accuracy
-- Those who can steadily and persistently work
+- 擅长创建详细文档的人
+- 对法律感兴趣且注重准确性的人
+- 能稳定持续工作的人
 
 **谁不适合**
-- Those not good at speaking in public
-- Those who get bored with routine work easily
+- 不善于公开演讲的人
+- 容易对常规工作感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a judicial scrivener?**
-答：It varies by experience; roughly 4-6 million yen for junior, 6-10 million for mid-level, and 10-15 million for senior levels. Independent practice can yield higher but variable income.
+**问：司法代书人的年收入是多少？**
+答：薪资因经验而异：初级约400-600万日元，中级600-1000万，高级1000-1500万。独立执业收入更高但不稳定。
 
-**问：Can a foreigner work as a judicial scrivener in Japan?**
-答：Obtaining judicial scrivener qualification requires Japanese language ability and passing the exam. It may qualify for Engineer/Specialist in Humanities/International Services visa, but foreign judicial scriveners are extremely rare.
+**问：外国人能在日本担任司法代书人吗？**
+答：获得司法书士资格需要日语能力并通过考试。可能符合工程师/人文专家/国际服务签证，但外国司法书士极为罕见。
 
-**问：How do I become a judicial scrivener?**
-答：After acquiring basic academic skills at university etc., you must pass the judicial scrivener exam. Then register with the Japan Federation of Judicial Scrivener Associations to start practice. The exam is difficult; preparatory schools are common.
+**问：如何成为司法书士？**
+答：在大学等获得基础学术能力后，必须通过司法书士考试。然后向日本司法书士联合会注册方可执业。考试难度大；辅导班很常见。
 
 
 ---
@@ -142,12 +134,12 @@ After passing the judicial scrivener exam, it is common to work at a judicial sc
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/judicial-scrivener/JP)**

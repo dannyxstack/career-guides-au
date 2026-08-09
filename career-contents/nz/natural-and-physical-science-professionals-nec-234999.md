@@ -53,8 +53,6 @@ New Zealand needs these scientists for research, environmental monitoring, and c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of food technologists (product development, recipe design) require human creativity and sensory judgment, with medium risk of AI replacement; but data-driven testing, documentation, and compliance monitoring can be largely automated by AI, bringing efficiency gains. Overall demand is supported by industry growth, and entry barriers may be optimized.
-
 Junior scientists often work in lab or field settings, can advance to senior scientists, research group leaders, or management. Both government and private sectors offer development opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior scientists often work in lab or field settings, can advance to senior sci
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work in a related occupation for 2 consecutive years, then apply for residency; hourly wage must meet the median (approx. $29.66 in 2023) |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a certified employer offer, hourly wage at median, maximum 3 years, can later transition to residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, it appears on the Green List as a long-term shortage, but note that spec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-and-physical-science-professionals-nec-234999/NZ)**

@@ -57,8 +57,6 @@ Cybersecurity engineers protect government, businesses and critical infrastructu
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
-
 The AUKUS defence agreement (AU$36.8 billion nuclear submarine programme) has sharply increased demand for security-cleared professionals. AI security (defending against LLM attacks/prompt injection) is the highest-premium emerging specialisation for 2025–2030.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ The AUKUS defence agreement (AU$36.8 billion nuclear submarine programme) has sh
 | Subclass 190 (Skilled Nominated) | State nomination, with priority given to ACT (Canberra government positions are concentrated there) |
 | Subclass 491 (Skilled Work Regional) | Remote area IT, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Cybersecurity offers higher salaries ($127k–$148k vs $105k–$125k) and a l
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cybersecurity-engineer-ict-security-specialist/AU)**

@@ -1,10 +1,8 @@
 # 裁缝（Tailor）职业分析 · 韩国
 
-**职业代码: 86221 (KECO)**
+**职业代码：86221 (KECO)**
 
-A tailor is a specialized professional who cuts fabric according to patterns and performs preparatory work before sewing for garment production.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+裁缝是根据纸样裁剪面料并在缝制前进行准备工作的专业人才。
 
 
 ---
@@ -13,9 +11,9 @@ A tailor is a specialized professional who cuts fabric according to patterns and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 12年 | $0~$0（Public education cost） |
-| Vocational training institution (clothing manufacturing) | 1年 | $500,000~$3,000,000（National key strategic industry training, etc.） |
-| College of fashion/textile | 2 年 | $4,000,000~$8,000,000（Tuition fee basis） |
+| 高中毕业 | 12年 | $0~$0（公共教育成本） |
+| 职业培训机构（服装制造） | 1年 | $500,000~$3,000,000（国家关键战略性产业培训等） |
+| 时装/纺织学院 | 2 年 | $4,000,000~$8,000,000（学费基准） |
 
 ---
 
@@ -23,18 +21,18 @@ A tailor is a specialized professional who cuts fabric according to patterns and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tailoring Technician | Human Resources Development Service of Korea (HRDK) | 可选 | National technical qualification, practical-focused |
-| Garment Technician | Human Resources Development Service of Korea (HRDK) | 可选 | National technical qualification |
-| Fashion Design Industrial Engineer | Human Resources Development Service of Korea (HRDK) | 可选 | Engineer-level qualification |
+| 裁剪技师 | 韩国人力资源开发服务局（HRDK） | 可选 | 国家技术资格，注重实践 |
+| 服装技师 | 韩国人力资源开发服务局（HRDK） | 可选 | 国家技术资格 |
+| 时装设计工业工程师 | 韩国人力资源开发服务局（HRDK） | 可选 | 工程师级资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Despite automation in the Korean clothing industry, demand for custom-made and high-end clothing remains, keeping demand for skilled tailors stable but overall employment stagnant.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。尽管韩国服装业自动化，但定制和高档服装需求仍在，使熟练裁缝需求稳定，但整体就业停滞。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,91 +40,83 @@ A tailor is a specialized professional who cuts fabric according to patterns and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $22,000,000~$28,000,000 | Small factory basis |
-| Intermediate (4–7 years) | $28,000,000~$35,000,000 | General apparel companies |
-| High-end (8+ years) | $35,000,000~$50,000,000 | Custom tailoring shops or luxury brands |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 小型工厂基础 |
+| 中级（4-7年） | $28,000,000~$35,000,000 | 一般服装公司 |
+| 高端（8年以上） | $35,000,000~$50,000,000 | 定制裁缝店或奢侈品牌 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some pattern generation and cutting processes, but delicate manual tasks like custom suits and high-end repairs still require human skill, resulting in mixed impacts.
+人工智能和自动化可以取代一些图案生成和裁剪过程，但定制西装和高档维修等精细手工任务仍需人类技能，因此影响是混合的。
 
-Starting as a skilled worker, one can advance to patter maker or tailor, with self-employment or employment at luxury brands being common career paths.
+从技术工人起步，可晋升为打版师或裁缝，常见职业路径包括自主创业或受雇于奢侈品牌。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard pattern generation
-- Mass production fabric cutting
+- 标准纸样生成
+- 批量生产面料裁剪
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Custom pattern design using 3D scanning
-- Automated cutting machine operation
+- 使用3D扫描进行定制图案设计
+- 自动切割机操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Fitting sense based on manual dexterity and experience
-- Know-how in high-end repairs and custom suit making
+- 基于手工灵巧度和经验的装配感
+- 高端维修和定制西装制作的专业技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Pattern CAD
-- 3D virtual fitting
-- Advanced sewing techniques
-- Customer consultation skills
+- 纸样CAD
+- 3D虚拟试衣
+- 高级缝纫技术
+- 客户咨询技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Custom suits
-- Luxury repairs
-- Pattern automation
-- Hanbok tailoring
+- 定制西装
+- 奢侈品维修
+- 模式自动化
+- 韩服定制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible to work as unskilled worker in sewing factories, but tailors are limited to skilled positions. |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled tailors with professional qualifications can obtain work visas through employment recommendation letters. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible under points system, but tailor occupation has low priority. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and have good dexterity
-- People with a strong interest in textiles and clothing
-- People who are patient and can tolerate repetitive work
+- 细心且动手能力强的人
+- 对纺织品和服装有浓厚兴趣的人
+- 有耐心且能忍受重复工作的人
 
 **谁不适合**
-- People who find it difficult to adapt to new technological changes
-- People who value interpersonal relationships
+- 难以适应新技术变革的人
+- 重视人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a tailor?**
-答：The annual salary for entry-level (0-3 years) is about KRW 22-28 million, increasing with skill level.
+**问：裁缝的起薪是多少？**
+答：入门级（0-3年）年薪约2200-2800万韩元，随技能水平提高而增加。
 
-**问：Can foreign nationals work as a tailor in South Korea?**
-答：It is possible to work as a skilled tailor on an E-7 visa, but it requires an employment recommendation letter and meeting qualification requirements, and is limited.
+**问：外国人在韩国能否从事裁缝工作？**
+答：持E-7签证作为熟练裁缝工作是可能的，但需要就业推荐信并满足资格要求，且有限制。
 
-**问：What certifications are needed to become a tailor?**
-答：Certifications such as Suit Craftsman or Garment Craftsman are helpful, not mandatory, but advantageous for employment.
+**问：成为裁缝需要哪些证书？**
+答：西装工匠或服装工匠等证书有帮助，非强制，但有利于就业。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a skilled worker, one can advance to patter maker or tailor, with se
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tailor/KR)**

@@ -55,8 +55,6 @@ Aged care workers in New Zealand provide daily care, personal care, and social s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
-
 Entry-level care workers can advance to senior care workers or team leaders through experience, some can study nursing to become registered nurses. Industry training paths are clear, but salary growth is slow, and management opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level care workers can advance to senior care workers or team leaders thro
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: High demand due to an aging population. However, due to low wages and immigra
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aged-care-worker/NZ)**

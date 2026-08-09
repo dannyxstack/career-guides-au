@@ -1,10 +1,8 @@
-# Store Salesperson 职业分析 · 韩国
+# 商店销售员（Store Salesperson）职业分析 · 韩国
 
-**职业代码: 61511 (KECO)**
+**职业代码：61511 (KECO)**
 
-This job involves selling products, managing inventory, and serving customers in department stores, supermarkets, convenience stores, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该工作涉及在百货商店、超市、便利店等场所销售产品、管理库存和服务客户。
 
 
 ---
@@ -13,8 +11,8 @@ This job involves selling products, managing inventory, and serving customers in
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Free education） |
-| Department of distribution/sales at a community college | 2 年 | $2,000,000~$6,000,000（Based on tuition per semester） |
+| 高中文凭 | 3年 | $0~$0（免费教育） |
+| 社区学院分销/销售系 | 2 年 | $2,000,000~$6,000,000（基于每学期学费） |
 
 ---
 
@@ -22,17 +20,17 @@ This job involves selling products, managing inventory, and serving customers in
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Sales Service Professional (Salesperson) | Korea Chamber of Commerce and Industry | 可选 | Not mandatory, bonus points |
-| Distribution Manager | Korea Chamber of Commerce and Industry | 可选 | Advantageous for promotion |
+| 销售服务专业人员（销售员） | 大韩商工会议所 | 可选 | 非强制，加分项 |
+| 分销经理 | 大韩商工会议所 | 可选 | 有利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 1,500,000. Due to the spread of online shopping, hiring is on a declining trend, but fields with demand for face-to-face services are expected to remain.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 1,500,000。由于网购的普及，招聘呈下降趋势，但对面对面服务需求的领域预计将保持。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,66 +38,59 @@ This job involves selling products, managing inventory, and serving customers in
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$28,000,000 | Hourly wage, including weekly holiday allowance |
-| Intermediate (4~7 years) | $28,000,000~$34,000,000 | Increase with performance bonus |
-| Advanced (8+ years) | $34,000,000~$45,000,000 | Store manager level, separate incentives |
+| 初级（0~3 年） | $24,000,000~$28,000,000 | 时薪，含每周假期津贴 |
+| 中级（4-7年） | $28,000,000~$34,000,000 | 随绩效奖金增加 |
+| 高级（8年以上） | $34,000,000~$45,000,000 | 店长级别，单独激励 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As AI and unmanned technology replace simple sales tasks, recruitment is shrinking, but human roles are still needed for customer consultation and complex services.
+随着人工智能和无人技术取代简单的销售任务，招聘正在缩减，但客户咨询和复杂服务仍需人力。
 
-After sales experience, promotion to store manager, manager, or MD (Merchandiser) is possible, utilizing training programs within large retail companies.
+积累销售经验后，可通过大型零售公司的培训项目晋升为店长、经理或MD（商品企划）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple calculations and POS operation
-- Inventory checking and display
-- Basic product guidance
+- 简单计算和POS操作
+- 库存检查与陈列
+- 基础产品指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized product recommendations
-- Complex claim handling
-- In-store experience services
+- 个性化产品推荐
+- 复杂索赔处理
+- 店内体验服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional labor and empathy
-- Non-verbal communication
-- Immediate response to situations
+- 情感劳动与共情
+- 非语言沟通
+- 对情况立即响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- Customer experience management
-- Basics of data analysis
+- 数字素养
+- 客户体验管理
+- 数据分析基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Unmanned store
-- Omnichannel
-- Smart store
-- Experience-based store
+- 无人商店
+- 全渠道
+- 智慧门店
+- 体验式商店
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing, agriculture/livestock, fisheries; retail not allowed |
-| Subclass E-7 (Specific Activities) | Possible for skilled workers, but general sales staff not applicable |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -107,22 +98,22 @@ After sales experience, promotion to store manager, manager, or MD (Merchandiser
 
 **谁适合**
 - 喜欢与人交流的人
-- People with patience in customer service
-- People who quickly learn various product information
+- 有耐心从事客户服务的人
+- 能快速学习各种产品信息的人
 
 **谁不适合**
-- People who dislike simple repetitive tasks
-- People who find it difficult to stand for long periods
+- 不喜欢简单重复任务的人
+- 难以长时间站立的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a store salesperson?**
-答：Around 24-28 million KRW for entry-level, up to 45 million KRW depending on experience and performance.
+**问：门店销售人员的平均薪资是多少？**
+答：入门级约2400-2800万韩元，根据经验和绩效最高可达4500万韩元。
 
-**问：Can foreigners work as store salespersons in Korea?**
-答：Generally not possible. E-9 visa excludes retail, and E-7 is limited to specialized fields.
+**问：外国人可以在韩国担任门店销售员吗？**
+答：通常不可能。E-9签证排除零售业，E-7仅限于专业领域。
 
 
 ---
@@ -140,12 +131,12 @@ After sales experience, promotion to store manager, manager, or MD (Merchandiser
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/store-salesperson/KR)**

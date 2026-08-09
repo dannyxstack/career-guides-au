@@ -51,8 +51,6 @@ Inquiry clerks handle customer inquiries, provide information, and resolve simpl
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Inquiry clerks are at high risk of automation; AI chatbots and self-service platforms can replace a large number of information queries and simple question answering, significantly reducing entry-level positions, but deep customer interaction retains human value.
-
 Junior inquiry clerks can progress to senior customer service representatives or team leaders through experience, and some can transfer to sales or administrative roles through on-the-job learning.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Junior inquiry clerks can progress to senior customer service representatives or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talents, requiring a university degree and a salary contract above average (usually not less than 30,000 EUR). Inquiry clerk salaries are low and typically do not meet the criteria. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU low-skilled or medium-skilled workers, with annual quota limits. Can be applied through employer sponsorship, but inquiry clerk positions may not be on the priority list. |
-| Subclass Free Movement (EU Free Movement) | EU citizens can work freely in Italy without a visa. This does not apply to non-EU citizens. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: By accumulating experience, you can get promoted to customer service supervis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inquiry-clerk/IT)**

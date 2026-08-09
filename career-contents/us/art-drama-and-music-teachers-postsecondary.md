@@ -51,8 +51,6 @@ Teaches art, drama, music, and other courses such as painting, sculpture, design
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually starts as assistant professor, advances to associate professor, full professor; some move to department chair or administrative roles, or focus on creative work or research. Requires continuous publication of works or exhibitions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starts as assistant professor, advances to associate professor, full pro
 | Subclass EB-2 (Employment-Based Second Preference) | A master's degree or higher required; application via PERM or NIW. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Outstanding artists or scholars may apply, with proven achievements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically move to the US on an H-1B (university exemption from cap) and then 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-drama-and-music-teachers-postsecondary/US)**

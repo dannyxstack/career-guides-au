@@ -1,6 +1,6 @@
-# Shoe and Leather Workers and Repairers 职业分析 · 美国
+# 鞋类和皮革工人及修理工（Shoe and Leather Workers and Repairers）职业分析 · 美国
 
-**职业代码: 51-6041 (SOC)**
+**职业代码：51-6041 (SOC)**
 
 使用手工具制造、装饰或修理皮革及类似产品，如行李箱、鞋子和马鞍。该职业属于传统手工艺行业。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 6,700. 美国劳工统计局预测该职业就业人数在2023-2033年间将下降约11%，主要由于自动化生产和进口替代。但高端定制及修复市场仍有稳定需求。
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 6,700。美国劳工统计局预测该职业就业人数在2023-2033年间将下降约11%，主要由于自动化生产和进口替代。但高端定制及修复市场仍有稳定需求。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准化生产环节，但高端定制和复杂修理仍保留机会。
 
 从业者通常从学徒做起，积累经验后可晋升为高级技工或工头，也可自主创业开设修理店。部分人转向奢侈品维护或影视道具制作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用数控机床进行皮革裁剪与雕刻
 - 自动化缝合与粘合工序
@@ -65,7 +65,7 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 - 库存管理与订单处理
 - 质量检测中的视觉检查（通过机器视觉）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用CAD软件进行个性化鞋履设计
 - 通过AI分析客户足部数据定制鞋型
@@ -73,7 +73,7 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 - 借助数字库存系统优化材料管理
 - 利用机器学习预测流行趋势
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂手工修复技术（如老式皮鞋翻新）
 - 艺术性定制设计能力
@@ -81,7 +81,7 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 - 一对一客户沟通与信任建立
 - 处理非标、损坏严重物品的临场判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - CAD/CAM软件（如Rhino, AutoCAD）
 - 3D扫描与打印技术
@@ -90,16 +90,16 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 - 可持续材料与工艺知识
 - 基础编程（用于自动化设备调试）
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 下降
-- Automation
-- Import competition
-- Niche luxury market
+- 自动化
+- 进口竞争
+- 小众奢侈品市场
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
 
@@ -108,9 +108,7 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 | Subclass H-1B (H-1B Specialty Occupation) | 该职业通常不符合H-1B专业职业要求，一般不适合 |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | 雇主担保绿卡可能性低，因工作性质非专业职业且规模小 |
 
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**PR友好度：很低（½☆☆☆☆）**
 
 ---
 
@@ -133,10 +131,10 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 答：根据美国劳工统计局数据，2023年中位年薪约33,000美元，初级岗位可能低于25,000美元，高级技工可达45,000美元以上。收入受地区和经验影响。
 
 **问：外籍人士能否通过该职业申请美国工作签证？**
-答：Very difficult. This occupation generally does not qualify for H-1B specialty occupation. Employer-sponsored green cards are nearly impossible. O-1 visa may be possible for exceptionally talented individuals but with high bar.
+答：非常困难。该职业通常不符合H-1B专业职业资格。雇主担保绿卡几乎不可能。O-1签证可能适用于特别杰出人才，但门槛很高。
 
 **问：该职业未来前景如何？**
-答：BLS projects an 11% decline due to automation and imports. However, niche luxury repair and custom work maintain steady demand. Suitable for entrepreneurship.
+答：BLS预测因自动化和进口下降11%，但高端奢侈品维修和定制工作需求稳定，适合创业。
 
 
 ---
@@ -155,11 +153,12 @@ AI和自动化将显著压缩制鞋与皮革工人岗位需求，尤其是标准
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
 | PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/shoe-and-leather-workers-and-repairers/US)**

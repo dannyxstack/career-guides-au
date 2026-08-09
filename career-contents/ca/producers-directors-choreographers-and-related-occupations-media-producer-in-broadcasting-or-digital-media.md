@@ -52,8 +52,6 @@ Plan, coordinate, and supervise production of audio, digital media, etc., includ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Media producers face the double-edged sword of AI: content generation and editing tasks are automated, but creative planning and multi-party coordination skills are amplified, creating both risks and opportunities.
-
 Junior media producers can advance to senior producer or editor, then to production manager or content director. They can also move toward independent production or cross-platform content development, gain experience, and start a business or become a freelancer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior media producers can advance to senior producer or editor, then to product
 | Subclass PNP (Provincial Nominee Program) | Provinces may have specific categories for media producers, such as Ontario's OINP and BC's PNP; provincial nomination required |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, employer-sponsored, suitable for applicants willing to work in Atlantic Canada |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Toronto, Vancouver, Montreal have the most opportunities but are also competi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/producers-directors-choreographers-and-related-occupations-media-producer-in-broadcasting-or-digital-media/CA)**

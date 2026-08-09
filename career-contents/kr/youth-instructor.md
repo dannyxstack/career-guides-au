@@ -4,8 +4,6 @@
 
 A professional who plans and operates youth activities, education, and counseling programs to support the holistic growth of youth.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who plans and operates youth activities, education, and counselin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can replace some auxiliary tasks such as counseling and statistical analysis, but it is difficult for AI to replace human interaction with youth and creative program planning, so the impact is limited.
-
 Start as a junior youth instructor, then advance to team leader or center director at youth centers. Some pursue graduate studies and transition to professors or researchers.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Start as a junior youth instructor, then advance to team leader or center direct
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible but very limited. Requires invitation from youth-related institutions. |
-| Subclass F-2 (F-2 (Residence)) | Only possible after obtaining permanent residency; not a typical employment route. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Level 3 is relatively easy, but Levels 2 and 1 require experience and exams, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/youth-instructor/KR)**

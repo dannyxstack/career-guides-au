@@ -52,8 +52,6 @@ Heavy equipment operators in Canada primarily operate machinery such as bulldoze
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Heavy equipment operator roles face mixed impacts from AI/automation: automated transport, loading, and basic digging tasks are at high risk of replacement, but AI-enhanced remote operation, predictive maintenance, and precision work significantly improve efficiency and safety.
-
 Junior operators can advance to senior operators or supervisors, or obtain explosive licenses or transition to specialized fields like crane operation. With experience, they can start their own business or join unions for higher pay.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior operators can advance to senior operators or supervisors, or obtain explo
 | Subclass PNP (Provincial Nominee Program) | Multiple provinces (e.g., Alberta, BC) list heavy equipment operators as in-demand occupations, eligible for direct provincial nomination. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program is friendly to skilled trades, employer sponsorship enables fast immigration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes. This occupation falls under NOC 73400 and meets skilled immigration requ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-equipment-operators/CA)**

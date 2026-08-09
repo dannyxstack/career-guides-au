@@ -52,8 +52,6 @@ The mining engineering supervisor is responsible for supervising mining operatio
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mining engineers are affected by both AI automation and augmentation: repetitive design and monitoring are easily replaced, but strategic decisions and compliance responsibilities still require humans. The overall impact tends to task reorganization rather than job elimination.
-
 You can be promoted from mining technician or operator to supervisor, and then to mining area manager or regional operations director. Candidates with a degree in mining engineering or many years of experience are more likely to be promoted. Continuous learning of safety regulations and new technologies is necessary.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted from mining technician or operator to supervisor, and then t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Must hold a university degree and employment contract with an annual salary at least 1.5 times the Spanish average wage (approx. €37,000). Mining engineering supervisors usually meet this. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | For employer-sponsored work residence, applicants must prove that the position cannot be filled by local residents and apply through the Shortage Job List |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly skilled technical talent, annual salary must exceed €40,000, suitable for supervisor level |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Rise from technician or operator to supervisor, then to mining area manager o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-engineering-supervisors/ES)**

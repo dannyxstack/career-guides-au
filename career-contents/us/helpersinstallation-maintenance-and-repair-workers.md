@@ -53,8 +53,6 @@ Assist installation, maintenance, and repair workers by providing tools and mate
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The jobs of installation, maintenance, and repair workers' assistants are mixed in AI impact: simple tool preparation and cleaning tasks are easily automated, but complex fault diagnosis and on-site adjustments rely on human experience and are hard to replace in the short term.
-
 Usually starts as an assistant, then progresses to repair worker, mechanic, or technician in a specialized field. Some become certified through apprenticeships or vocational training and transition to formal repair roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually starts as an assistant, then progresses to repair worker, mechanic, or t
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually no specific certificate required, but a high school diploma is basic.
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helpersinstallation-maintenance-and-repair-workers/US)**

@@ -4,8 +4,6 @@
 
 Responsible for student supervision, discipline management, and organizing extracurricular activities within French primary and secondary schools or educational institutions, ensuring campus safety and order, while also participating in educational support work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for student supervision, discipline management, and organizing extra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on supervisory and counselor roles in educational institutions is mixed: administrative and communication tasks will be enhanced, but repetitive tasks such as monitoring and reporting face automation risks; Interpersonal interaction and on-site emergency response capabilities remain irreplaceable cores.
-
 Assistant Supervisors can be promoted to Senior Supervisors or Educational Consultants, and some become formal teachers or school administrators through internal examinations. You can also transition to youth social workers or community education coordinators.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Assistant Supervisors can be promoted to Senior Supervisors or Educational Consu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | A work contract must be provided by a French employer and proof that the position cannot be filled by an EU citizen. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with advanced skills or a master's degree or above can apply for this visa, valid for 4 years. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | French graduates can apply for a one-year job-seeking visa, which can be converted to a work residence permit after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: At minimum, a BAFA certificate or CAP diploma is required; some positions req
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-and-surveillance-officer-in-educational-establishments/FR)**

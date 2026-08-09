@@ -52,8 +52,6 @@ Management consultants help organizations improve efficiency and competitiveness
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Career progression typically starts as analyst, gradually advancing to senior consultant, project manager, or partner. Can also shift to internal strategy, operations, or digital transformation roles. Accumulating industry experience and client relationships is key; MBA or professional certifications (e.g., PMP) help advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression typically starts as analyst, gradually advancing to senior co
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requires job offer from accredited employer, can apply for residence after 2 years of work. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Management Consultant is not directly on the Green List, but if engaged in ICT-related business analysis, may meet ICT T2 requirements (requiring ANZSCO 2611 series). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Steady demand, mainly in large consulting firms (e.g., Deloitte, PwC) and cor
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultant/NZ)**

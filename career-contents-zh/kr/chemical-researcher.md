@@ -1,8 +1,8 @@
-# Chemical Researcher 职业分析 · 韩国
+# 化学研究员（Chemical Researcher）职业分析 · 韩国
 
-**职业代码: 12112 (KECO)**
+**职业代码：12112 (KECO)**
 
-This is a professional research position that studies the properties and reactions of chemical substances to develop new materials, pharmaceuticals, environmental technologies, etc.
+这是一个专业研究职位，研究化学物质的性质和反应，以开发新材料、药物、环境技术等。
 
 
 ---
@@ -11,8 +11,8 @@ This is a professional research position that studies the properties and reactio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Chemistry/Chemical Engineering | 4年 | $2,000,000~$8,000,000（Tuition varies widely between national/public and private universities） |
-| 硕士学位 | 2 年 | $3,000,000~$12,000,000（Graduate school tuition, scholarships available） |
+| 化学/化学工程学士 | 4年 | $2,000,000~$8,000,000（国立/公立大学与私立大学学费差异较大） |
+| 硕士学位 | 2 年 | $3,000,000~$12,000,000（研究生学费，提供奖学金） |
 
 ---
 
@@ -20,17 +20,17 @@ This is a professional research position that studies the properties and reactio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Analyst | Human Resources Development Service of Korea | 可选 | Preferred but not required |
-| Hazardous Materials Technician | Human Resources Development Service of Korea | 可选 | Beneficial for lab safety management |
+| 化学分析师 | 韩国人力资源开发服务局 | 可选 | 优先考虑但非必需 |
+| 危险材料技术员 | 韩国人力资源开发服务局 | 可选 | 有利于实验室安全管理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 35,000. Demand is steady due to the growth of advanced industries such as semiconductors and batteries, but job growth is expected to be moderate due to the nature of research positions.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 35,000。由于半导体和电池等先进产业的增长，需求稳定，但受研究岗位性质影响，就业增长预计温和。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -38,93 +38,86 @@ This is a professional research position that studies the properties and reactio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Based on master's degree |
-| Mid-level (4–9 years) | $50,000,000~$70,000,000 | Principal researcher level |
-| Senior-level (10+ years) | $70,000,000~$99,999,999 | Team leader or senior researcher |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于硕士学位 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 首席研究员级别 |
+| 高级（10年以上经验） | $70,000,000~$99,999,999 | 团队领导或高级研究员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances some tasks such as drug candidate discovery and optimization of reaction conditions, but human creativity remains crucial for new molecular design and experimental interpretation, so the role of researchers is expected to expand.
+AI增强了部分任务，如候选药物发现和反应条件优化，但新分子设计和实验解释仍需人类创造力，因此研究人员角色预计将扩大。
 
-After obtaining a master's or doctoral degree, join a research lab; promotions from assistant to senior to principal researcher; possible transition to management roles such as team leader or CTO based on research performance.
+获得硕士或博士学位后加入研究实验室；从助理晋升到高级再到首席研究员；根据研究绩效可能过渡到团队负责人或CTO等管理角色。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Repetitive Synthesis Experiments
-- Standard Property Measurement
-- Literature Search
+- 简单重复合成实验
+- 标准房产测量
+- 文献检索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drug Candidate Screening
-- Reaction Pathway Prediction
-- Large-Scale Experimental Data Analysis
+- 药物候选筛选
+- 反应路径预测
+- 大规模实验数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Experimental Design and Intuition
-- Generating New Hypotheses
-- Safety and Ethical Judgment
+- 实验设计与直觉
+- 生成新假设
+- 安全与伦理判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python/R Programming
-- Machine Learning
-- Data Visualization
-- Collaboration Tools
+- Python/R编程
+- 机器学习
+- 数据可视化
+- 协作工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Secondary Batteries
-- Semiconductor Materials
-- Biopharmaceuticals
-- Environment·Carbon Neutrality
+- 二次电池
+- 半导体材料
+- 生物制药
+- 环境·碳中和
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled foreign nationals in R&D fields; bachelor's degree plus experience required |
-| Subclass F-2 (F-2 (Residence)) | E-7 can be converted after long-term stay, free to work |
-| Subclass D-10 (Job seeking) | Job-seeking visa for master's/PhD graduates, 6 months to 2 years |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Curious and analytical disposition
-- Patience to consistently conduct long-term research projects
-- Teamwork and documentation skills
+- 好奇和分析性强的性格
+- 持续进行长期研究项目的耐心
+- 团队合作和文档编写技能
 
 **谁不适合**
-- People who want immediate results
-- Those who dislike repetitive experiments and safety rules
+- 追求立竿见影效果的人
+- 不喜欢重复实验和安全规定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a chemistry researcher?**
-答：For a master's degree, the annual salary is around 35-45 million KRW, and it can be higher at large corporate labs.
+**问：化学研究员的起薪是多少？**
+答：硕士学位的年薪约为3500-4500万韩元，在大型企业实验室可能更高。
 
-**问：What visa does a foreigner need to work as a chemistry researcher?**
-答：The E-7 (Specific Activities) visa is common, and a master's or higher degree in chemistry and experience are required.
+**问：外国人担任化学研究员需要什么签证？**
+答：E-7（特定活动）签证常见，需化学硕士或更高学历及经验。
 
-**问：What is important for promotion as a chemistry researcher?**
-答：Research achievements (papers, patents) and project management skills are key to promotion.
+**问：化学研究员晋升的重要因素是什么？**
+答：研究成果（论文、专利）和项目管理技能是晋升关键。
 
 
 ---
@@ -142,12 +135,12 @@ After obtaining a master's or doctoral degree, join a research lab; promotions f
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chemical-researcher/KR)**

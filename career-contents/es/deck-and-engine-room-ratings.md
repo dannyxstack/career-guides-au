@@ -4,8 +4,6 @@
 
 Perform daily maintenance, operation, and auxiliary work for deck and engine room on merchant or fishing vessels, including mooring, lookout, cleaning, and engine assistance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Perform daily maintenance, operation, and auxiliary work for deck and engine roo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Deck and cabin positions such as seafarers and cabin workers face high risks of automated replacement, especially repetitive lookout, cleaning, and record-keeping tasks, but complex sea operations and emergency response still require human judgment.
-
 Candidates can be promoted from ordinary seamen to senior seamen or engineers, requiring the STCW certificate and the accumulation of maritime experience. A few could be promoted to captain or chief engineer.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Candidates can be promoted from ordinary seamen to senior seamen or engineers, r
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employee)) | Requires employer-sponsored work contract and proof that the position cannot be filled within the EU, which is quite difficult. |
-| Subclass Busqueda empleo (Job Search Visa) | Entry is allowed to seek work, but it must meet high-skill requirements, which this occupation usually does not fulfill. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Must hold STCW Basic Safety Training certificate and the Marino certificate i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deck-and-engine-room-ratings/ES)**

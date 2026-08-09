@@ -51,8 +51,6 @@ Responsible for planning, scheduling, and optimizing production processes to ens
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Routine scheduling and data integration tasks in technical production planning and control will be automated by AI, but the roles of system optimization, anomaly management, and cross-department coordination will be amplified. Overall, job responsibilities are upgraded rather than eliminated.
-
 Can progress from technician to production manager or logistics supervisor, or enter senior management through further education (e.g., Master's in Technical Management).
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from technician to production manager or logistics supervisor, or e
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable for skilled migration with vocational training or degree accreditation, requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa allowing entry to Germany for job hunting. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply via EU Blue Card (requires degree and meeting salary threshold) or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-production-planner/DE)**

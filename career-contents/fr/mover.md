@@ -4,8 +4,6 @@
 
 Responsible for packaging, loading, unloading, transporting, and dismantling furniture and items, providing moving services for customers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for packaging, loading, unloading, transporting, and dismantling fur
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Movers are significantly affected by automation, with repetitive manual lifting tasks easily replaced by robots and autonomous forklifts. However, complex furniture assembly and customer communication still require manual labor, and the overall number of positions is declining.
-
 You can be promoted from mover to team leader or dispatcher, or start your own moving and transportation company. Experienced professionals can transition to logistics management or warehouse operations.
 
 **Tasks most exposed to AI:**
@@ -102,15 +98,9 @@ You can be promoted from mover to team leader or dispatcher, or start your own m
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain a French employer employment contract, and the job must pass a labor market test (unless there is a shortage occupation); movers are generally not considered in high demand and are more difficult to approve. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: It's not easy. Movers are not considered a scarce occupation in France; emplo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mover/FR)**

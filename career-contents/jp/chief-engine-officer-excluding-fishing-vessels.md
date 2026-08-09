@@ -4,8 +4,6 @@
 
 Specialists operating, maintaining, and managing engines on merchant and passenger ships. Essential for safe navigation as marine engineers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Specialists operating, maintaining, and managing engines on merchant and passeng
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-With advances in autonomous ship technology, some monitoring tasks will be automated by AI, but maintenance and emergency response depend on human skill. AI is used as a supplementary tool.
-
 Promotion from assistant engineer to third, second, and first engineer, then to chief engineer. Large or specialized vessels require further expertise.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Promotion from assistant engineer to third, second, and first engineer, then to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible as a marine engineer, but qualification requirements are strict |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not eligible, but expected to expand in the future |
-| Subclass 技能 (Skilled Labor) | Harder to qualify compared to cooking, construction, etc. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Knowledge of marine engines can also be utilized in land-based plants and shi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-engine-officer-excluding-fishing-vessels/JP)**

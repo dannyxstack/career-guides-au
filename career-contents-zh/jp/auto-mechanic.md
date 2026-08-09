@@ -1,8 +1,8 @@
-# Auto Mechanic 职业分析 · 日本
+# 汽车修理工（Auto Mechanic）职业分析 · 日本
 
-**职业代码: 553 (JSCO)**
+**职业代码：553 (JSCO)**
 
-Auto mechanics inspect, maintain, and repair passenger cars and trucks. Advances in technology also require knowledge of electronic control systems.
+汽车机械师检查、维护和修理乘用车和卡车。技术进步也需要了解电子控制系统。
 
 
 ---
@@ -11,8 +11,8 @@ Auto mechanics inspect, maintain, and repair passenger cars and trucks. Advances
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (2-year program) | 2 年 | $2,000,000~$3,000,000（Public vocational schools may be inexpensive） |
-| Advanced Vocational Training School (1-year program) | 1年 | $1,000,000~$1,500,000（Public vocational training may be free） |
+| 职业学校（2年制课程） | 2 年 | $2,000,000~$3,000,000（公立职业学校可能费用低廉） |
+| 高级职业训练学校（1年课程） | 1年 | $1,000,000~$1,500,000（公共职业培训可能免费） |
 
 ---
 
@@ -20,18 +20,18 @@ Auto mechanics inspect, maintain, and repair passenger cars and trucks. Advances
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 2 Automobile Mechanic | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Basic mechanic qualification. National exam. |
-| Designated Maintenance Certification | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Facility certification for conducting vehicle inspection maintenance. |
-| Class 1 Automobile Mechanic | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Allows advanced maintenance and diagnostics. |
+| 二级汽车修理工 | 国土交通省 | 必备 | 基本机械师资格。国家考试。 |
+| 指定维护认证 | 国土交通省 | 必备 | 进行车辆检查维护的设施认证。 |
+| 一级汽车修理工 | 国土交通省 | 可选 | 允许高级维护和诊断。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 650,000. While the number of registered vehicles remains flat, there is a persistent shortage of mechanics, especially those skilled in EV maintenance. Stable demand is expected in the medium to long term.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 650,000。虽然注册车辆数量持平，但机械师持续短缺，尤其是电动车维修方面。中长期需求稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,91 +39,84 @@ Auto mechanics inspect, maintain, and repair passenger cars and trucks. Advances
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,000,000~$4,000,000 | Apprenticeship period has lower pay |
-| Mid Level (3-10 years) | $4,000,000~$5,500,000 | After obtaining Class 2 Mechanic license |
-| Senior Level (10+ years) | $5,500,000~$8,000,000 | Class 1 Mechanic / Managerial positions |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 学徒期薪资较低 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 获得二级机械师执照后 |
+| 高级（10年以上） | $5,500,000~$8,000,000 | 一级技师/管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are used in diagnostic tools and operational efficiency, enhancing mechanics' work. Simple inspection tasks will decrease, but complex fault diagnosis and repairs requiring human judgment remain; skills to use AI as a tool become important.
+人工智能和自动化用于诊断工具和运营效率，提升机械师工作。简单检查任务将减少，但需要人类判断的复杂故障诊断和维修仍存在；将AI作为工具的技能变得重要。
 
-Starting as an apprentice, you can advance to Class 2 and Class 1 mechanic. Career paths include dealership or shop management, or starting your own business. JTEX and manufacturer training offer career growth.
+从学徒开始，可晋升为二级和一级技工。职业路径包括经销商或车间管理，或自主创业。JTEX和制造商培训提供职业发展机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of periodic inspections (AI diagnostics)
-- Simple part replacement (robots)
+- 定期检查自动化（AI诊断）
+- 简单部件更换（机器人）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis (AI suggests candidates)
-- Work procedure optimization (AI assistance)
+- 故障诊断（AI提供候选方案）
+- 工作流程优化（AI辅助）
 
-**人类护城河:**
+**人类护城河：**
 
-- Identifying causes of complex faults
-- Communication with customers
-- Final on-vehicle checks/adjustments
+- 找出复杂故障的原因
+- 与客户沟通
+- 最终车辆检查和调整
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating AI diagnostic equipment
-- EV/hybrid vehicle maintenance
-- Understanding electronic control systems
-- Data analysis
+- 操作AI诊断设备
+- 电动车/混合动力车辆维护
+- 理解电子控制系统
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- EV maintenance
-- Autonomous driving
-- On-board diagnostics
-- Environmentally friendly vehicles
+- 电动汽车维修
+- 自动驾驶
+- 车载诊断系统
+- 环保车辆
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（自動車整備） (Specified Skilled Worker (i)) | Automobile repair field added in 2023. Requires skill test and Japanese N4 level. Residence period: 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school degree or higher and work experience. Eligible for long-term stay and permanent residence. |
-| Subclass 技能（自動車整備） (Skilled Worker Visa) | Requires 10+ years of work experience. High level of skill demanded. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy tinkering with machines
-- People with skilled hands
-- People good at steady, persistent work
+- 喜欢摆弄机器的人
+- 手巧的人
+- 适合稳定、持之以恒工作的人
 
 **谁不适合**
-- People lacking physical strength
-- People who dislike dirty work
+- 体力不足的人
+- 不喜欢脏活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an automobile mechanic?**
-答：Starting salary around ¥3–4 million; with experience, a first-class mechanic earns ¥6–8 million. Can increase further if self-employed.
+**问：汽车机修工的年收入是多少？**
+答：起薪约300-400万日元；有经验后，一级技工年薪600-800万日元。自雇可进一步提高。
 
-**问：Can foreigners work as automobile mechanics?**
-答：Yes. Specified Skilled Worker (i) (Automobile Maintenance) was newly established, allowing work with a skills exam and N4 Japanese. The Engineer/Specialist in Humanities/International Services visa requires at least a vocational school diploma.
+**问：外国人可以当汽车修理工吗？**
+答：可以。新设立了特定技能工人（i）（汽车维修）签证，通过技能考试和N4日语即可工作。工程师/人文知识/国际服务签证至少需要专科文凭。
 
-**问：How can mechanics advance their careers?**
-答：Common paths: obtaining a Class 1 mechanic certification, becoming a service advisor at manufacturers/dealers, or starting an independent shop. Adding EV and autonomous driving knowledge is advantageous.
+**问：机械师如何提升职业？**
+答：常见路径：获得1级机械师认证，成为制造商/经销商的服务顾问，或开设独立维修店。增加电动汽车和自动驾驶知识有利。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as an apprentice, you can advance to Class 2 and Class 1 mechanic. Care
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/auto-mechanic/JP)**

@@ -1,6 +1,6 @@
-# Environmental Scientists and Specialists, Including Health 职业分析 · 美国
+# 环境科学家与专家（含健康）（Environmental Scientists and Specialists, Including Health）职业分析 · 美国
 
-**职业代码: 19-2041 (SOC)**
+**职业代码：19-2041 (SOC)**
 
 研究并调查环境污染物来源，运用科学知识收集、分析空气、水、土壤等数据，提出减少污染和保护公众健康的建议。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 80,000. 美国劳工统计局预测2023-2033年就业增长约5%，低于平均水平，但气候变化和法规需求将持续驱动岗位。
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 80,000。美国劳工统计局预测2023-2033年就业增长约5%，低于平均水平，但气候变化和法规需求将持续驱动岗位。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 环境科学家与专家的任务被AI喜忧参半地重塑：数据分析和报告生成被自动化削弱，但AI增强了环境建模与遥感监测能力；人类在法规解释、现场评估和利益相关者沟通方面仍有护城河。
 
 从初级研究员或技术员起步，积累经验后可晋升为项目经理、部门主管或首席科学家，也可转向政策咨询或学术研究。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成常规环境影响评估报告初稿
 - 基于模板的数据整理与统计分析
@@ -64,7 +64,7 @@
 - 基础环境监测数据记录与异常预警
 - 文献综述与数据库检索初步筛选
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 高精度环境建模与污染扩散模拟
 - 遥感影像自动解译与变化检测
@@ -72,7 +72,7 @@
 - AI辅助法规跟踪与合规建议生成
 - 客户报告智能摘要与可视化
 
-**人类护城河:**
+**人类护城河：**
 
 - 在复杂政策法规中做出判断与解释
 - 现场实地取样与设备操作
@@ -80,7 +80,7 @@
 - 制定创新性环境管理策略
 - 承担专业责任与法律背书
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 地理信息系统与遥感分析（QGIS, Google Earth Engine）
 - Python/R编程与数据科学（pandas, scikit-learn）
@@ -89,16 +89,16 @@
 - 环境政策解读与战略咨询
 - 项目管理与跨部门协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Climate change
-- Environmental regulation
-- Sustainability consulting
-- Remediation technology
+- 气候变化
+- 环境法规
+- 可持续发展咨询
+- 修复技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -108,9 +108,7 @@
 | Subclass EB-3 (Employment-Based Third Preference) | 适用于学士学位或技术工人，需PERM |
 | Subclass TN (TN NAFTA Professional) | 仅限加拿大和墨西哥公民，环境科学家符合资格 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -154,12 +152,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/environmental-scientists-and-specialists-including-health/US)**

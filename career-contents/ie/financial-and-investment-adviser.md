@@ -54,8 +54,6 @@ Financial and investment advisors provide clients with investment strategies, fi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior consultants can advance to senior consultant, investment manager, or financial controller. After building a client base, they can practice independently or join a boutique consulting firm.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior consultants can advance to senior consultant, investment manager, or fina
 | Subclass General Employment P (General Employment Permit) | Annual salary must exceed 30,000 Euros, and a labor market test is required. |
 | Subclass EU Blue Card (EU Blue Card) | Requires an annual salary of at least €33,585 (2024 standard); after 2 years, can transfer to other EU countries. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Eligible for a Critical Skills Employment Permit (annual salary over €60,00
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-adviser/IE)**

@@ -51,8 +51,6 @@ Art appraisers evaluate the value and authenticity of artworks, antiques, and cu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will boost efficiency in image comparison, literature search, and market data analysis, but core tasks like authenticity verification and value assessment rely on expert experience and legal accountability; short-term replacement risk is moderate.
-
 Usually starts with art history study or museum internship, gaining experience to become an independent appraiser, or advance to auction house department head, gallery director.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually starts with art history study or museum internship, gaining experience t
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled migrants with German-recognized qualifications, requiring a job contract |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa allowing job seeking in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can start as an assistant appraiser, gain experience to become an independent
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-expert/DE)**

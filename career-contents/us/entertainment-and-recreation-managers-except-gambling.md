@@ -51,8 +51,6 @@ Plan, direct, or coordinate the operations of recreational and leisure activitie
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
-
 Entry-level roles can start as event coordinator or supervisor, then progress to manager or regional manager. Large entertainment venues (e.g., theme parks, cruise lines) offer clearer advancement paths, some up to director level.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level roles can start as event coordinator or supervisor, then progress to
 | Subclass O-1 (O-1 Extraordinary Ability) | Suitable for those with outstanding achievements in entertainment management, such as managing famous events or facilities. |
 | Subclass Green Card (PERM) (Green Card via PERM Labor Certification) | Employer-sponsored permanent residency pathway, requiring proof that no qualified US workers can be found. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: BLS forecasts 2023-2033 employment growth of about 5%, on par with average. H
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/entertainment-and-recreation-managers-except-gambling/US)**

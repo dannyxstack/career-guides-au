@@ -55,8 +55,6 @@ Electrical engineers design and oversee power systems, electricity distribution 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI mainly enhances design simulation and documentation generation rather than replacing core engineering judgement; electrical engineers see strong demand due to energy transition, with their role amplified by AI rather than compressed.
-
 Renewable energy (solar/wind) grid connection engineering is the fastest-growing salary direction for 2025–2030. AUKUS defence electronics (radar/communications systems) is the highest-paying specialisation, with salaries potentially exceeding $160k per year.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Renewable energy (solar/wind) grid connection engineering is the fastest-growing
 | Subclass 190 (Skilled Nominated) | State nomination; SA/VIC have strong renewable energy projects and QLD has significant grid projects |
 | Subclass 491 (Skilled Work Regional) | Remote area energy projects, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Electrical engineers earn higher salaries (mid-level $105k–$130k vs civil $
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/AU)**

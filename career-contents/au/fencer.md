@@ -53,8 +53,6 @@ Fencers install, repair, and replace metal, wood, or wire fences, widely used in
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fencing tasks are highly repetitive and physically demanding; design software and automated machinery will reduce low-skilled jobs, but on-site installation and repair still require human flexibility.
-
 Apprentice → Skilled Fencer → Foreman → Contractor or self-employed. With experience, can transition to fence installation, fencing design, or project management. Some move into construction or landscaping.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Apprentice → Skilled Fencer → Foreman → Contractor or self-employed. With 
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional Sponsored Migration Scheme (temporary) visa, can transition to 191 permanent residence after meeting conditions |
 | Subclass 190 (Skilled Nominated Visa) | Permanent residency visa requiring state nomination; some states have additional requirements |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to foreman, project manager or self-employed contractor. You can 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fencer/AU)**

@@ -54,8 +54,6 @@ Asbestos removal workers in New Zealand are responsible for safely removing and 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Asbestos removal is a profession highly dependent on physical operations and strict regulation; AI automation can hardly replace core removal and monitoring tasks, but AI-assisted monitoring tools can improve safety and efficiency, presenting both risks and opportunities overall.
-
 Career path limited: workers can advance to team leader, supervisor, or safety advisor, or start their own business. However, as a physically demanding occupation, ongoing training to update safety knowledge is needed, with long-term health risks.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path limited: workers can advance to team leader, supervisor, or safety a
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Must hold a Worksafe asbestos removal license (Class A or B) and complete bas
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asbestos-removalist/NZ)**

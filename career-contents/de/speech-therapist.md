@@ -54,8 +54,6 @@ Speech language therapists assess and treat speech, language, swallowing, and co
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
-
 Career paths include from clinical therapist to discipline leader, clinic management or private practice, as well as transitioning to research or teaching.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths include from clinical therapist to discipline leader, clinic manage
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires job position matching qualifications and passing accreditation |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system; eligible candidates can come to Germany to find work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must complete 3-4 years of nationally recognised training (dual system or und
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-therapist/DE)**

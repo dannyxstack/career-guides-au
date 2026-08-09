@@ -4,8 +4,6 @@
 
 The Secretary is responsible for overseeing the administrative support team to ensure efficient office operations, including task allocation, process optimization, and personnel management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ The Secretary is responsible for overseeing the administrative support team to e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of secretarial supervisors is being impacted and enhanced by AI: routine administrative tasks can be automated, but core responsibilities like team management and strategic coordination require human judgment. Competition for entry-level positions is intensifying, but demand for senior managers remains stable.
-
 You can advance from senior secretary to administrative manager or office manager, or move into human resources or project management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can advance from senior secretary to administrative manager or office manage
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Spanish employer sponsorship required, employment contract of at least one year, and meeting minimum wage requirements. |
-| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can apply for a 12-month job-seeking visa, but must prove financial capacity. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: It is quite challenging; this position is not a high-skilled shortage occupat
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretarial-supervisors/ES)**

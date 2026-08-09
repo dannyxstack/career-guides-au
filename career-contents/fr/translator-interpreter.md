@@ -51,8 +51,6 @@ Translators and interpreters are responsible for converting written or spoken in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
-
 Career development can start as a freelance translator, gradually build a reputation in professional fields (law, medicine, technology), or advance to project manager or proofreader at translation companies. You can also enter courts and other institutions through certification exams (such as the French Judicial Interpreter List).
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career development can start as a freelance translator, gradually build a reputa
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Profession Artistique et Culturelle)) | Suitable for talents in cultural fields such as translation and interpretation, requiring proof of having a project or employer in France, valid for 4 years. |
-| Subclass Salarié (Salarié (Employee)) | If a French employer offers a work contract, you can apply for employed work residence and obtain a work permit (Autorisation de travail). |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to high-skilled positions; annual salary must meet approximately €54,000 (2023 threshold). Translation roles typically struggle to reach this salary. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: AI has had a significant impact on standardized translation, but high-precisi
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/translator-interpreter/FR)**

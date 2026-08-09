@@ -52,8 +52,6 @@ Biologists study organisms and their relationship with the environment, includin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Biologists' work is mixed with AI: tasks like data analysis and literature reviews will be automated, but jobs that rely on physical effort and creativity, such as experimental design and ecological observation, remain safe.
-
 Career path: Research Assistant→ PhD Researcher→ Project Leader→ Chief Scientist. They can also transition to biotechnology industries, science communication, or management positions. Academic promotion requires publishing papers and securing project funding.
 
 **Tasks most exposed to AI:**
@@ -100,15 +98,9 @@ Career path: Research Assistant→ PhD Researcher→ Project Leader→ Chief Sci
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a bachelor's degree or above and a labor contract, with an annual salary threshold of about 40,000 euros. |
-| Subclass Cuenta ajena (Work Permit (employed)) | Employed work residence requires company sponsorship, suitable for research or corporate positions with Spanish employers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: You can obtain an EU Blue Card or employment-based residence, which requires 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologist/ES)**

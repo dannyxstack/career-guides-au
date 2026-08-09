@@ -53,8 +53,6 @@ Use hands or hand tools to perform routine cutting and trimming of meat, poultry
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Industrial butchers and meat cutters face high automation risk; large plants already use robots for repetitive cutting, deboning, and packaging. Cold storage accelerates machine deployment; positions may shrink by over 30% in the next decade.
-
 Usually starts as a cutter, can advance to skilled cutter, production line supervisor, or quality control inspector. A few transition to slaughtering or processing equipment operation.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually starts as a cutter, can advance to skilled cutter, production line super
 | Subclass H-2B (Temporary Non-Agricultural Worker) | Seasonal meatpacking work may qualify for H-2B visa, but requires employer sponsorship and has quota limits. |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Employers can apply for EB-3 green cards for skilled workers, but this occupation usually cannot meet special skill requirements, making approval difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Works mainly in cold, humid environments in meat processing plants, requiring
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-poultry-and-fish-cutters-and-trimmers/US)**

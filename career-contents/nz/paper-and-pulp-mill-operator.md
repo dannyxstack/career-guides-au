@@ -52,8 +52,6 @@ Operate mechanical equipment in pulp and paper mills, monitor production process
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pulp and paper mill operators face automation reducing repetitive monitoring tasks, but AI enhances efficiency and quality inspection; human experience remains crucial for anomaly handling and maintenance.
-
 Junior operators can advance to senior operators or shift supervisors through internal training; some may move into equipment maintenance or quality control roles. Requires years of experience, with limited management opportunities.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior operators can advance to senior operators or shift supervisors through in
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Limited job opportunities, industry in slow decline. Main employers are a few
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-and-pulp-mill-operator/NZ)**

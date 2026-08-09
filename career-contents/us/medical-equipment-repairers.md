@@ -52,8 +52,6 @@ Test, adjust, or repair biomedical or electromedical equipment to ensure hospita
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some diagnostic and preventive maintenance tasks, but on-site repairs, complex troubleshooting, and regulatory compliance still rely on humans. Overall job demand is stable, but entry-level positions may decline due to remote monitoring technology.
-
 Junior repair workers can start as assistants, gain experience to become senior technicians or team leads, with some transitioning to equipment sales or management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior repair workers can start as assistants, gain experience to become senior 
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires two years of training or experience, and a green card application via PERM labor certification. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens; relevant degree required |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires an associate degree or related certificate; some employers p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-equipment-repairers/US)**

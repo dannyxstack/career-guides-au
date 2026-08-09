@@ -51,8 +51,6 @@ ASIC design engineers are responsible for the digital front-end (RTL design/inte
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
-
 French AI accelerators and low-power/simulation design are the main focus, with engineers skilled in RTL/timing/layout in short supply; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ French AI accelerators and low-power/simulation design are the main focus, with 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent passport) | Passeport Talent (salarié qualifié): multi-year residence for qualified engineers |
-| Subclass Salarié (Employment and residence) | Carte de séjour salarié: employer contract work residence |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +150,12 @@ A: Yes. It is classified as a skilled engineering occupation and can use France'
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asic-design-engineer/FR)**

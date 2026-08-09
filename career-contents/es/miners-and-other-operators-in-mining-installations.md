@@ -52,8 +52,6 @@ Responsible for underground or open-pit mining operations, including drilling, b
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Common promotion paths: from ordinary miner (Minero) to drilling operator (Operador de perforación) or demolition specialist (Artillero), then to mining supervisor (Jefe de turno) or safety coordinator (Coordinador de seguridad). Some have shifted to mining machinery maintenance or geological technicians through training.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Common promotion paths: from ordinary miner (Minero) to drilling operator (Opera
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Work residence sponsored by a Spanish employer, requires proof that the position cannot be filled by a local, and meets minimum wage requirements. |
-| Subclass Altamente cualificad (Highly qualified professional visa) | Applicable to high-skilled professionals, requires annual salary exceeding 1.5 times the Spanish average wage (around €40,000+), but miners typically do not meet this salary threshold. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled non-EU citizens, requiring higher education and a higher salary (Spanish threshold around €34,000); miners generally do not meet educational requirements. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Typically, it is necessary to complete mining-related courses from FP Grado M
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/miners-and-other-operators-in-mining-installations/ES)**

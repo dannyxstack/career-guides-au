@@ -1,10 +1,8 @@
-# Other Accounting Clerks 职业分析 · 日本
+# 其他会计文员（Other Accounting Clerks）职业分析 · 日本
 
-**职业代码: 269 (JSCO)**
+**职业代码：269 (JSCO)**
 
-Clerical role using accounting software for slip organization, bookkeeping, and invoice processing, also assisting tax accountants and CPAs.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+文职工作，使用会计软件进行凭证整理、记账和发票处理，同时协助税务会计师和注册会计师。
 
 
 ---
@@ -13,9 +11,9 @@ Clerical role using accounting software for slip organization, bookkeeping, and 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Essentially free at public high schools） |
-| Vocational school (Accounting/Bookkeeping) | 2 年 | $1,000,000~$2,500,000（Tuition only. Additional materials cost.） |
-| University (Economics, Management, Commerce) | 4年 | $2,500,000~$4,000,000（For national/public universities. Private universities cost more.） |
+| 高中文凭 | 3年 | $0~$0（公立高中基本免费） |
+| 职业学校（会计/簿记） | 2 年 | $1,000,000~$2,500,000（仅学费。额外材料费另计。） |
+| 大学（经济学、管理学、商学） | 4年 | $2,500,000~$4,000,000（针对国立/公立大学。私立大学费用更高。） |
 
 ---
 
@@ -23,18 +21,18 @@ Clerical role using accounting software for slip organization, bookkeeping, and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nissho Bookkeeping Level 2 | Japan Chamber of Commerce and Industry | 可选 | Basic qualification for accounting roles, recommended by many companies. |
-| Nissho Bookkeeping Level 1 | Japan Chamber of Commerce and Industry | 可选 | Partial qualification for CPA exam; highly regarded. |
-| CPA exam subject pass | National Tax Agency Examination Commission | 可选 | Path to becoming a CPA; can pass subjects individually. |
+| 日商簿记2级 | 日本商工会议所 | 可选 | 会计职位的基本资格，多家公司推荐。 |
+| 日商簿记1级 | 日本商工会议所 | 可选 | 通过CPA考试的部分资格要求；备受推崇。 |
+| 注册会计师考试科目通过 | 国税厅考试委员会 | 可选 | 成为注册会计师的途径；可逐科通过。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 320,000. Demand is stable due to many companies, but AI and cloud accounting are reducing routine tasks.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 320,000。由于公司众多，需求稳定，但AI和云会计正在减少常规任务。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -42,90 +40,84 @@ Clerical role using accounting software for slip organization, bookkeeping, and 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,800,000 | Lower at SMEs, higher at large firms. |
-| Mid-level (4-9 years) | $3,800,000~$5,200,000 | Manager-level role. Responsibilities expand. |
-| Advanced (10+ years) | $5,000,000~$7,000,000 | Managerial or specialized position. Further advancement with certified tax accountant qualification. |
+| 入门级（0-3年） | $2,800,000~$3,800,000 | 中小企业较低，大型企业较高。 |
+| 中级（4-9年） | $3,800,000~$5,200,000 | 管理层角色。职责扩大。 |
+| 高级（10年以上） | $5,000,000~$7,000,000 | 管理或专业职位。通过注册会计师资格进一步提升。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the progress of automation via AI and RPA, simple tasks like slip entry and journalizing are decreasing. In the future, work will shift to analysis and advice.
+随着AI和RPA自动化的发展，像凭证录入和日记账这样的简单任务正在减少。未来，工作将转向分析和咨询。
 
-Gain experience at accounting firms or corporate accounting departments; career advancement via CPA exam or Level 1 Bookkeeping.
+在会计事务所或企业会计部门积累经验；通过CPA考试或一级簿记员实现职业晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Slip entry
-- Bookkeeping
-- Invoice processing
-- Automatic classification of journal entries
+- 滑移进入
+- 簿记
+- 发票处理
+- 日记账自动分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data analysis
-- Management advice
-- Tax filing strategy planning
+- 数据分析
+- 管理建议
+- 税务申报策略规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal skills
-- Complex tax judgment
+- 人际交往能力
+- 复杂税务判断
 - Advice tailored to client situations
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析技能
-- Tax knowledge
-- Consulting ability
-- English proficiency (for foreign-affiliated companies)
+- 税务知识
+- 咨询能力
+- 英语能力（针对外资企业）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud accounting
-- RPA implementation
-- Accounting DX (digital transformation)
-- Tax accountant assistant
+- 云会计
+- RPA实施
+- 会计数字化转型
+- 税务会计助理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術人文知識国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree equivalent or 10+ years of practical experience. Accounting work may qualify, but simple tasks are unsuitable. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous person
-- Strong with numbers
-- Person who likes steady work
+- 细致的人
+- 擅长数字
+- 喜欢稳定工作的人
 
 **谁不适合**
-- Person who prefers creative work
-- Person who values interpersonal communication
+- 喜欢创意工作的人
+- 重视人际沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for accounting work?**
-答：Starting annual income around 3 million yen, mid-career 4-5 million yen, managerial 6 million yen or more. Significant increase possible with tax accountant certification.
+**问：会计工作的年收入是多少？**
+答：起薪约300万日元，中期400-500万日元，管理岗600万日元以上。取得税务师资格后可大幅提升。
 
-**问：Can foreigners obtain a work visa for accounting jobs?**
-答：May qualify for the Engineer/Specialist in Humanities/International Services visa, but accounting knowledge and Japanese language ability are required. Simple data entry is not approved, so expertise is essential.
+**问：外国人能否获得会计工作的工作签证？**
+答：可能符合人文/国际服务领域的工程师/专家签证，但需要会计知识和日语能力；简单的数据录入不被批准，因此需要专业技能。
 
 
 ---
@@ -143,12 +135,12 @@ Gain experience at accounting firms or corporate accounting departments; career 
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-accounting-clerks/JP)**

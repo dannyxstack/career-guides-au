@@ -52,8 +52,6 @@ Radiation therapists in Canada fall under the medical radiation technologist cat
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on medical radiation technologists is mixed: automation will take over repetitive tasks like image segmentation and dose calculation, but AI enhances tumor target delineation and adaptive radiotherapy, while emphasizing human irreplaceability in equipment operation, patient communication, and clinical judgment.
-
 Junior radiation therapists can start in hospital oncology or cancer centers, gaining experience to advance to senior therapist, team leader, or education coordinator. Some move into management or specialize in pediatrics, stereotactic radiosurgery, etc., or engage in medical device R&D or academic research.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior radiation therapists can start in hospital oncology or cancer centers, ga
 | Subclass PNP (Provincial Nominee Program) | Several provinces list radiation therapists as priority occupations, such as Ontario, BC, and Alberta; after provincial nomination, you can get 600 extra points to guarantee an invitation. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer; faster processing. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: First, get an ECA through WES or IQAS. Then, apply for a credential assessmen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-radiation-technologists-32122/CA)**

@@ -49,8 +49,6 @@ A craftsman who repairs and manufactures shoes using leather or synthetic materi
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Shoemaking is a field with low direct risk of replacement by AI and automation, though some mass production processes are being automated. In high-end custom and repair areas, human craftsmanship and experience remain crucial, limiting AI's impact.
-
 Skilled workers can grow to run workshops, but small self-employment is common; entry into large corporations is rare.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Skilled workers can grow to run workshops, but small self-employment is common; 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers in manufacturing, possible in shoe factories. |
-| Subclass E-7 (E-7 (Specific Activities)) | Requires employer recommendation; target: skilled shoemakers. |
-| Subclass F-2 (Residence) | Convertible to points system; for long-term residents. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Automation risk is low, but jobs are declining due to reduced demand; special
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaker/KR)**

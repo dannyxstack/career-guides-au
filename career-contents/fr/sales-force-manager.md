@@ -52,8 +52,6 @@ Responsible for managing the sales team, formulating sales strategies, monitorin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 You can advance from sales representative to regional sales manager, national sales director, or even commercial vice president. Cross-industry experience and mastery of CRM tools are required.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from sales representative to regional sales manager, national sa
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Ca (EU Blue Card / Talent Passport) | Applicable to executives/experts with annual incomes over 53,900 euros, fast track, and family members allowed |
-| Subclass Salarié (Autorisatio (Employee Work Permit) | Employer must provide work permit; salary must meet industry standards; eligible for permanent residence. |
-| Subclass Recherche d'emploi ( (Job Seeker (APS)) | After master's degree holders, they can apply for a one-year job-seeking visa and transfer to a work visa after finding a job |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can use the EU Blue Card (salary ≥€53,900) or a talent passport. Empl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-force-manager/FR)**

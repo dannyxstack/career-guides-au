@@ -53,8 +53,6 @@ Delivery drivers and couriers use bicycles, motorcycles, or motor vehicles with 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Delivery drivers and couriers will face mixed fortunes: autonomous driving and robots may replace some long-haul and standardized deliveries, but AI can enhance human capabilities in route optimization, dynamic scheduling, and last-mile flexibility, while regulatory responsibility and complex interpersonal interactions remain a moat.
-
 Career progression paths are limited, from courier to dispatcher, fleet supervisor, or logistics manager. Some drivers transition to owner-operators through experience.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression paths are limited, from courier to dispatcher, fleet supervis
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation typically does not meet skilled visa requirements due to its lower skill level. |
 | Subclass Graduate (Graduate visa) | Graduate visa holders can work in any occupation, including this one, but must note the visa's duration. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Limited advancement opportunities, but can develop into dispatcher, fleet man
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-drivers-and-couriers/UK)**

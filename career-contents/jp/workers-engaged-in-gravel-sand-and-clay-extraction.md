@@ -4,8 +4,6 @@
 
 An occupation involving the extraction of construction materials such as gravel, sand, and clay from mines or riverbeds. Requires heavy machinery operation and skilled techniques.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ An occupation involving the extraction of construction materials such as gravel,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are mechanizing and remote-controlling parts of mining operations, but on-site judgment and heavy machinery expertise still depend on humans for the time being. Work volume itself depends on construction demand, so no drastic reduction is expected.
-
 Beginners can obtain heavy machinery licenses and gain field experience, with potential promotion to team leader or site supervisor. Large-scale operations may lead to management positions.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Beginners can obtain heavy machinery licenses and gain field experience, with po
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技能 (Skilled Worker Visa) | Granted to foreign workers with advanced skills. Experience in mines/quarries may qualify, but the route is limited. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Covers the 'Construction' sector. However, gravel, sand, and clay extraction is rarely the primary role, with few current examples. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: A Skilled Worker Visa or Specified Skilled Worker (i) (Construction) may appl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/workers-engaged-in-gravel-sand-and-clay-extraction/JP)**

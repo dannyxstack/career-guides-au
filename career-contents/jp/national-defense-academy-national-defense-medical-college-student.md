@@ -4,8 +4,6 @@
 
 Students studying at the National Defense Academy or the National Defense Medical College, which are officer training institutions of the Ministry of Defense. Upon graduation, they are commissioned as officers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Students studying at the National Defense Academy or the National Defense Medica
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation impact is limited. Humans handle command decisions, leadership, physical combat and training, with AI playing a supporting role.
-
 After completing four years of study, students are commissioned as officer candidates for the Ground, Maritime, and Air Self-Defense Forces. A career path is established, progressing through platoon leader, staff officer, and commander ranks.
 
 **Tasks most exposed to AI:**
@@ -92,15 +88,9 @@ After completing four years of study, students are commissioned as officer candi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 該当なし (Foreign enrollment is generally not allowed) | Japanese nationality is a requirement for enrollment; foreigners are ineligible. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +134,12 @@ A: Upon graduation, they are commissioned as officers in the Self-Defense Forces
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/national-defense-academy-national-defense-medical-college-student/JP)**

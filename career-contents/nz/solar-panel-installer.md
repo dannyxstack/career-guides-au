@@ -52,8 +52,6 @@ Solar installers in New Zealand are responsible for installing, wiring, and comm
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Solar installers face mixed AI impact: design optimization and customer communication are enhanced by AI, but core tasks like on-site installation, wiring, and commissioning are hard to automate due to physical and regulatory requirements.
-
 Solar installers can start as apprentices, gain electrical registration, and advance to foreman or project supervisor. With experience, they can start their own installation company or transition to solar system designer or training instructor. Certification from the Electrical Workers Registration Board (EWRB) in New Zealand can further enhance career competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Solar installers can start as apprentices, gain electrical registration, and adv
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must hold EWRB electrical registration (pass theory and practical exams). Rec
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solar-panel-installer/NZ)**

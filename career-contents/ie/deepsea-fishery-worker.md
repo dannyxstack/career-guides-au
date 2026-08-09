@@ -51,8 +51,6 @@ Deep-sea fishery workers engage in commercial fishing operations along the Irish
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
-
 Workers can progress from deckhand to fishing vessel master or catch processing supervisor, accumulating extensive experience and passing relevant maritime certification exams. Some transition to aquaculture or fisheries management.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Workers can progress from deckhand to fishing vessel master or catch processing 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Available through general employment permit or seasonal employment permit, re
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deepsea-fishery-worker/IE)**

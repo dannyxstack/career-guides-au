@@ -4,8 +4,6 @@
 
 Responsible for managing the daily operations of retail or wholesale stores, including sales, inventory, staff, and customer service, ensuring profitability and efficient operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for managing the daily operations of retail or wholesale stores, inc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail and Wholesale Trade Managers face medium job risk: routine data analysis and inventory forecasting tasks will be partially replaced by AI, but tasks requiring interpersonal judgment, such as on-site store management and customer relationship maintenance, will gain efficiency from AI tools. Overall, human input remains irreplaceable.
-
 From store manager, can advance to regional manager, operations director, or start own brand. Experienced managers can move into e-commerce management or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ From store manager, can advance to regional manager, operations director, or sta
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a contract with above-average salary, with an annual salary threshold of approximately 24,000 euros. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, requires employer sponsorship, typically for low-skilled or non-occupation-in-demand roles. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit requires employer to apply to immigration authorities, proving no suitable candidate can be found within the EU. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Can be promoted to regional manager, operations director, or transition to e-
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-and-wholesale-trade-manager/IT)**

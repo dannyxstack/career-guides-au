@@ -51,8 +51,6 @@ Computer programmers write, modify, and test code to enable computer application
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI greatly improves programming efficiency, but low-level coding tasks are acceleratedly replaced; programmers need to shift to architecture design, complex system maintenance, and AI tool development, otherwise face compression risk.
-
 Junior programmers can advance to senior programmers, software engineers, or architects, or transition to project management or technical management roles. With experience, they can become team leads or technical directors. Some programmers move into data science or AI fields.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior programmers can advance to senior programmers, software engineers, or arc
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professionals with advanced degrees or exceptional skills, requires a PERM labor certification. |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | For skilled workers and professionals, requires PERM labor certification. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Common pathways include the H-1B work visa (requires bachelor's degree, lotte
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-programmers/US)**

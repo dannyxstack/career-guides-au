@@ -51,8 +51,6 @@ Dentists diagnose and treat oral and dental diseases, including cavities and per
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentist roles are less affected by AI automation; AI is more of an assistive diagnostic tool (e.g., image analysis) enhancing efficiency, but core clinical procedures and patient communication still rely on humans. Overall demand is stable, with shortages in remote areas.
-
 Junior dentists can advance to senior dentists or specialist dentists (e.g., orthodontics, oral surgery), or move into clinic management or academic research. Experienced dentists can also open private practices.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior dentists can advance to senior dentists or specialist dentists (e.g., ort
 | Subclass Skilled Worker (Skilled Worker visa) | Applies to sponsored dentist positions with annual salary ≥ £26,200 (or industry standard); requirements may be reduced if on the Immigration Salary List. |
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or leadership potential in the dental field, no employer sponsorship required, but application standards are high. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Overseas dental degrees require GDC qualification assessment (e.g., ORE or LD
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-practitioners/UK)**

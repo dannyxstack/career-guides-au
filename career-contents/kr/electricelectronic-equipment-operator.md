@@ -49,8 +49,6 @@ A job that operates, monitors, and controls electrical and electronic equipment 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists in monitoring and control tasks, but human judgment is essential for on-site safety and complex diagnostics. Full automation is difficult, so collaboration with AI will occur.
-
 Promotes from beginner to skilled worker/section chief, and can grow to foreman/factory manager after obtaining technical certifications (e.g., Master Electrician), but mainly in small and medium-sized enterprises rather than large corporations.
 
 **Tasks most exposed to AI:**
@@ -87,15 +85,9 @@ Promotes from beginner to skilled worker/section chief, and can grow to foreman/
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires employment permit as skilled worker, 5+ years of experience in electrical/electronic field |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited availability for non-professional workers in factories under the Employment Permit System |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -136,12 +128,12 @@ A: Yes. Skilled workers (E-7 visa) with over 5 years of experience and technical
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electricelectronic-equipment-operator/KR)**

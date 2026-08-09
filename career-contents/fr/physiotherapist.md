@@ -4,8 +4,6 @@
 
 Physical therapists (Kinésithérapeute) help patients restore motor function, relieve pain, and improve quality of life through manual therapy, exercise therapy, and physical factors. In France, this profession is strictly regulated and requires a national diploma.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Physical therapists (Kinésithérapeute) help patients restore motor function, r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The clinical reasoning and manual skills of physical therapists are difficult to replace by AI, but AI will greatly improve diagnostic assistance, treatment planning optimization, and remote monitoring efficiency, enabling therapists to focus on personalized rehabilitation and patient care.
-
 Career advancement can be from a salaried employee to a private practice, specializing in a specific field (such as sports physical therapy or neurorehabilitation), or entering teaching or research positions.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Career advancement can be from a salaried employee to a private practice, specia
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents; those holding a master's degree and having a work contract can obtain a 4-year residence permit |
-| Subclass Salarié (Salaried Employee) | Must obtain a work contract from a French employer and pass qualification certification |
-| Subclass Carte bleue UE (EU Blue Card) | Must have an annual salary 1.5 times higher than the French average (about 53,000 euros) and hold a recognized diploma |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, you can apply for a 12-month work visa, and after finding a job, you can switch to a work visa |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Must hold a French National Diploma in Physiotherapy and be registered with t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/FR)**

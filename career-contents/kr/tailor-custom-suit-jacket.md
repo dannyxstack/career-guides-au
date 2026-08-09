@@ -4,8 +4,6 @@
 
 Tailors (custom suit & jacket) are skilled workers who produce custom suits and jackets, performing client-specific pattern making, cutting, sewing, and finishing tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Tailors (custom suit & jacket) are skilled workers who produce custom suits and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are introduced for mass production pattern generation and cutting, but human skills remain essential for delicate manual tasks such as custom suit making, fitting adjustments, and alterations. While automation enhances productivity, full replacement is difficult, preserving the value of skilled workers.
-
 Typically start in small custom tailoring shops or garment factories, with potential to establish personal brand or become technician at large companies after skill development.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Typically start in small custom tailoring shops or garment factories, with poten
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | E-7-1 possible as skilled technician (garment manufacturing) but rare |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Sewing companies are eligible for the Employment Permit System, but tailoring and dressmaking are unsuitable due to professional requirements |
-| Subclass F-2 (Residence (F-2-3)) | Permanent residence candidates can engage in the same work after passing the skilled points system |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Automated cutting is being introduced, but custom patterns, alterations, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tailor-custom-suit-jacket/KR)**

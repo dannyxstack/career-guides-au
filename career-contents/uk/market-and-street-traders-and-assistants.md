@@ -52,8 +52,6 @@ People who sell goods (not food) from stalls, carts, etc. on streets or in marke
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Market and street vendor and assistant roles face significant automation risk; digital payments, self-checkout, and mobile commerce are replacing traditional transaction steps, entry-level jobs are reducing, and workers need to shift to service differentiation or online channels.
-
 Can advance from assistant to independent stall owner, or shift to online sales combined with physical stall operations. Some stall owners may expand to multiple market stalls.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from assistant to independent stall owner, or shift to online sales 
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the list of eligible occupations, so cannot apply for a skilled worker visa |
 | Subclass Graduate (Graduate visa) | Graduates can take any job, but this occupation is difficult to convert into a long-term visa through this pathway. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually need to gain experience, understand supply chain and customer prefere
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/market-and-street-traders-and-assistants/UK)**

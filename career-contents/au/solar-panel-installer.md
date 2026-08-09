@@ -56,8 +56,6 @@ A solar PV installer installs, wires, and commissions residential and commercial
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Solar installers face mixed AI impact: design optimization and customer communication are enhanced by AI, but core tasks like on-site installation, wiring, and commissioning are hard to automate due to physical and regulatory requirements.
-
 Solar-plus-battery combination installations are becoming mainstream, requiring dual-certified (solar + battery storage) technicians. Commercial and industrial large-scale projects (C&I Solar) are growing rapidly, with salaries higher than the residential sector.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Solar-plus-battery combination installations are becoming mainstream, requiring 
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -163,12 +159,13 @@ A: Not recommended. Australian regulations require solar system electrical conne
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solar-panel-installer/AU)**

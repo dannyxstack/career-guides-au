@@ -54,8 +54,6 @@ Physical education teachers organize and teach sports courses in schools or spor
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical education teacher roles have mixed prospects: AI can handle administrative tasks like curriculum design and assessment, but core teaching, demonstration, and emotional interaction rely heavily on humans. Jobs won't disappear, but responsibilities will shift towards nurturing, innovation, and holistic student development.
-
 Can progress from regular PE teacher to senior teacher or head of PE department, or move into sports management, coaching, or sports science, requiring further education.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from regular PE teacher to senior teacher or head of PE department,
 | Subclass Job Seeker (Job Seeker Visa) | Allowed 6 months to find a job, requires education credential assessment. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, can take any job but requires qualification recognition |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can be promoted to senior teacher or head of sports department, or transition
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-teacher-without-specialization/DE)**

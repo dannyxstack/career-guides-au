@@ -53,8 +53,6 @@ Perform diagnostic tests of the cardiovascular system, assist in cardiac cathete
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance diagnostic image analysis and data integration capabilities, but invasive procedures and clinical decisions still rely on human technicians; entry-level positions may shrink due to automated standardized reports.
-
 From junior technician, can advance to senior technician, department supervisor, or further study to become a cardiovascular sonographer, interventional technician, etc.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ From junior technician, can advance to senior technician, department supervisor,
 | Subclass EB-3 (EB-3 Skilled Workers) | Employment-based green card, requires PERM labor certification, long waiting period. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens, requires relevant professional degree |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Most employers prefer CCI certification (e.g., RCIS), some states require lic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cardiovascular-technologists-and-technicians/US)**

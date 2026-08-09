@@ -52,8 +52,6 @@ Merchandiser exhibitors are responsible for designing and implementing product d
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on visual merchandisers is mixed: automated design tools and virtual fitting rooms will compress basic layout and material processing, but the pursuit of 3D space, material lighting, and dreamlike experiences in physical stores makes human creativity and cross-sensory coordination irreplaceable.
-
 Junior exhibitors can be promoted to regional display manager, visual merchandising manager, or move into roles such as brand marketing or procurement. After gaining experience, you can become an independent consultant.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior exhibitors can be promoted to regional display manager, visual merchandis
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with a master's degree or annual salary ≥ 40,000 euros |
-| Subclass Salarié (Salaried Employee) | Employer sponsorship required, work contract, annual salary not lower than French minimum wage |
-| Subclass Recherche emploi (Job Search Permit) | Graduates can apply, valid for one year, and are used to find a job |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: No mandatory certification. Preference given to those with a BTS or Licence i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/merchandiser/FR)**

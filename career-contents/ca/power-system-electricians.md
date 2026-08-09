@@ -51,8 +51,6 @@ Power system electricians install, maintain, and repair power transmission and d
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electricians are in demand in Canada; automation risk is moderate: AI struggles to replace on-site operations and diagnostics, but simplifies design, documentation, and compliance, enhancing safety monitoring and efficiency tools. Entry-level roles may narrow due to remote diagnostic tools, but licensed electricians remain stable.
-
 Career progression paths include becoming a supervisor, project manager, or power system designer; with experience, you can also transition to electrical engineering or consulting.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression paths include becoming a supervisor, project manager, or powe
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Good prospects: grid updates and renewable energy projects increase demand, w
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-system-electricians/CA)**

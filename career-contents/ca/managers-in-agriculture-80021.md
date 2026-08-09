@@ -52,8 +52,6 @@ Vineyard supervisors in Canada correspond to agricultural managers (NOC 80021), 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural managers (vineyard supervisors) face dual impacts from automation and AI: data monitoring and report generation can be automated, but on-site decision-making and personnel management remain core advantages.
-
 Junior vineyard supervisors can advance to farm manager or regional operations director. With experience, they can move into agricultural consulting, supply chain management, or own a winery, with clear career paths.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior vineyard supervisors can advance to farm manager or regional operations d
 | Subclass EE (Express Entry (FSW)) | If conditions are met, can apply for federal skilled migration, requires management experience |
 | Subclass AFIP (Agri-Food Immigration Pilot) | Agri-Food Pilot, for specific agricultural roles, leading to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: BC (Okanagan Valley), Ontario (Niagara region), and Quebec (Eastern Townships
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-agriculture-80021/CA)**

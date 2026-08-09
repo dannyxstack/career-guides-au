@@ -52,8 +52,6 @@ Studies organisms and their relationship with the environment, working in biotec
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Biologists and related scientists are impacted by AI in mixed ways: automation reduces routine data analysis and literature review positions, but AI amplifies the ability to parse complex biological data, accelerate drug discovery, and personalize medicine.
-
 Junior researchers can advance to senior scientist or project manager roles, or transition to specialized fields like bioinformatics and regulatory affairs. A PhD helps in moving into management or academic positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior researchers can advance to senior scientist or project manager roles, or 
 | Subclass PNP (Provincial Nominee Program) | Priority occupations in biosciences exist in Ontario, BC, etc.; gaining a provincial nomination can add 600 points |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove inability to recruit locally |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Private sector usually does not require it, but government or consulting posi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologists-and-related-scientists-21110/CA)**

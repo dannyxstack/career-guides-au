@@ -52,8 +52,6 @@ Responsible for collecting, evaluating, and preserving historically valuable rec
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
-
 Usually start as an assistant or technician, and can advance to senior curator or department head with experience. Obtaining professional certifications (e.g., ARA certification) can enhance career competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as an assistant or technician, and can advance to senior curator o
 | Subclass Global Talent (Global Talent visa) | Applicable to those with outstanding achievements or potential in the cultural heritage field, no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | UK graduates can stay and work for 2 years (3 years for PhD) without employer sponsorship. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can apply via the Skilled Worker visa (requires employer sponsorship, salary 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivists-conservators-and-curators/UK)**

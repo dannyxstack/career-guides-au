@@ -52,8 +52,6 @@ Project support officers assist in organizing, planning, monitoring and directin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The risk for Project Support Officers is mixed: AI can automate administrative tasks like data tracking and report generation, but decision-making collaboration and stakeholder communication still heavily rely on human judgment.
-
 Starting as a project assistant, you can advance to project manager, project director, or PMO manager after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a project assistant, you can advance to project manager, project dir
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years, then switch to a work visa after gaining experience |
 | Subclass Scale-up (Scale-up visa) | High-skilled positions suitable for fast-growing companies |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Mainly through Skilled Worker visa (requires employer sponsorship) or Graduat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-support-officers/UK)**

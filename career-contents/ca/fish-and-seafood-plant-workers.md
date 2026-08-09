@@ -54,8 +54,6 @@ In Canada, seafood processing workers are classified as fish and seafood plant w
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Predictable physical and sorting tasks in seafood processing will be significantly compressed by automation; entry-level positions will continue to decline, but on-site flexible operations and quality judgment will still require human input.
-
 Entry-level workers can advance to production line leader or quality inspector, or transition to seafood processing technician. Some companies offer on-the-job training, but management positions usually require local experience or relevant diploma.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level workers can advance to production line leader or quality inspector, 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can be promoted to production line supervisor or quality inspector, or obtain
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fish-and-seafood-plant-workers/CA)**

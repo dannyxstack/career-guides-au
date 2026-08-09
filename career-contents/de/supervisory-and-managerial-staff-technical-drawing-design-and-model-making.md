@@ -55,8 +55,6 @@ Responsible for overseeing and managing technical drawing, design, and model-mak
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance design review and document automation, but team supervision, cross-departmental coordination, and creative decision-making still rely on humans. Overall, risks and opportunities coexist.
-
 Can advance from technical drafter to team supervisor, then to department manager or technical director; requires project management experience, and some companies require a dual-system degree or technician qualification.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can advance from technical drafter to team supervisor, then to department manage
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognised qualification (e.g. dual system certificate), suitable for those with relevant vocational training. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based system, no employer sponsorship required, can seek employment in Germany; suitable for qualified individuals. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Starting as a technical drafter, advancing to team leader or department super
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisory-and-managerial-staff-technical-drawing-design-and-model-making/DE)**

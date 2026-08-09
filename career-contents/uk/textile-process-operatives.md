@@ -53,8 +53,6 @@ Operate machines to pre-treat natural and synthetic fibers, spin, and twist to p
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Many repetitive tasks of textile processing operators will be replaced by AI and automation, but machine maintenance and quality judgment still require human experience and manual skills; the employment outlook is mixed.
-
 Can progress from entry-level operator to senior operator, team leader, or quality controller. Some may transition to textile machinery maintenance or technical sales.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from entry-level operator to senior operator, team leader, or quali
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Not suitable, this occupation is not on the skilled migration shortage list, 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-process-operatives/UK)**

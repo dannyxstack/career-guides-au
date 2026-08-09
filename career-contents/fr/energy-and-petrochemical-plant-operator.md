@@ -4,8 +4,6 @@
 
 Responsible for monitoring and operating energy production (such as power plants and refineries) and petrochemical installations to ensure safe and efficient operation, including start-up, shutdown, fault handling, and daily maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for monitoring and operating energy production (such as power plants
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will reshape the work of energy and petrochemical plant operators: routine monitoring and basic control are gradually being taken over, but complex fault diagnosis, emergency intervention, and multi-unit coordination remain irreplaceable, profoundly changing the nature of the job.
-
 Operators can be promoted from operator to team leader or control room supervisor, and then to production manager. You can also develop into a safety engineer or process engineer, which requires supplementary engineering diplomas or internal promotion training.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Operators can be promoted from operator to team leader or control room superviso
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, proof of no EU candidates; Suitable for existing job offers. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, such as engineers; At least a master's degree or three years of experience is required. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires a contract of at least one year with a salary above the threshold (approx. €53k), suitable for senior operators or supervisors. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, a BTS (Energy/Chemical Engineering) or Licence Pro vocational bach
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/energy-and-petrochemical-plant-operator/FR)**

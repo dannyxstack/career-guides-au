@@ -53,8 +53,6 @@ Environmental health officers primarily enforce public health regulations in loc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Standardized reporting and inspection tasks for environmental health officers will be automated by AI, but on-site enforcement, complex investigations, and public trust responsibilities remain human moats; overall outlook is mixed.
-
 Pathway: EHO (graduate) → Senior/Coordinator → Manager; professional registration and enforcement experience determine income.
 
 **Tasks most exposed to AI:**
@@ -99,9 +97,7 @@ Pathway: EHO (graduate) → Senior/Coordinator → Manager; professional registr
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -141,12 +137,13 @@ A: Environmental Health Officer is on some skilled migration lists and has an as
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-health-officer/AU)**

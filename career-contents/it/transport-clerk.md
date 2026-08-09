@@ -51,8 +51,6 @@ In the Italian transport and logistics industry, responsible for coordinating fr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly improve efficiency for transport clerks, but also replace some data entry and document processing tasks, leading to role changes rather than elimination.
-
 Progression from junior clerk to senior transport coordinator or logistics supervisor; with experience, can move into specialised roles such as supply chain management or freight forwarding.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Progression from junior clerk to senior transport coordinator or logistics super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU citizens, requires employer sponsorship and is subject to annual quota limits, suitable for transport industry workers. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens, requiring higher education and higher salary; transport clerks usually do not meet the salary threshold |
-| Subclass Free Movement (EU Freedom of Movement) | EU citizens can freely work in Italy without additional permits. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance from entry-level clerk to transport coordinator, logistics superv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-clerk/IT)**

@@ -50,8 +50,6 @@ Professionals who provide image design, social etiquette, and personal branding 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Image, social and personal consultants face efficiency gains from AI-assisted tools, but core human emotional connection, customised services and trust relationships are hard to replace, making this a 'mixed-blessing' occupation.
-
 Practitioners can gain experience and transition to independent consultants or start consulting firms, or move into public relations and marketing management. Senior consultants can advance to creative director or brand strategist.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Practitioners can gain experience and transition to independent consultants or s
 | Subclass PNP (Provincial Nominee Program) | Some provinces may list this occupation as in demand |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer sponsorship allows obtaining a work visa, but it must be proven that no local workers can be recruited |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Not mandatory; many enter through short certification courses, but a universi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/image-social-and-other-personal-consultants/CA)**

@@ -52,8 +52,6 @@ Accountants and auditors examine, analyze, and interpret accounting records; pre
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Junior accountants can advance to senior accountant, audit manager, finance director or partner. Obtaining CPA, CMA can accelerate career development; large accounting firms and multinationals provide clearer promotion paths.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior accountants can advance to senior accountant, audit manager, finance dire
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Accountants with a bachelor's degree or equivalent experience can apply for a green card through EB-3, requiring PERM, with a wait time of about 3-4 years. |
 | Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens can obtain a TN visa as an accountant (meeting NAFTA requirements) without needing a lottery. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's degree in accounting or a related field, CPA 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountants-and-auditors/US)**

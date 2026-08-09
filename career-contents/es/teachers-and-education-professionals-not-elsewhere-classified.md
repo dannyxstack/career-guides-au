@@ -53,8 +53,6 @@ This profession includes educators not classified under other categories, such a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 You can start as a part-time teacher or teaching assistant, and after gaining experience, be promoted to course leader or training supervisor. Obtaining a master's degree in educational management allows entry into school management or positions in education policy-making. Some people have shifted to corporate training or online education.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can start as a part-time teacher or teaching assistant, and after gaining ex
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (employed)) | Work residency sponsored by Spanish employers, applicable to education professionals with employment contracts. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, university degrees and salaries above the average (about 33,908 euros/year) are required. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for senior education administrators or research-oriented teachers, with specific conditions required. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Common pathways include Employed Work Residence (Cuenta ajena), EU Blue Card 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teachers-and-education-professionals-not-elsewhere-classified/ES)**

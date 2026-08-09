@@ -51,8 +51,6 @@ An occupation involving the inspection and analysis of the quality and component
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation tools can replace routine analysis and data checks, but human judgment is needed for anomaly detection and non-standard analysis. Complete replacement is difficult.
-
 By acquiring skill certifications and analytical techniques, career advancement to chief inspector or quality assurance department is possible. Advanced analytical work requires specialized expertise.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ By acquiring skill certifications and analytical techniques, career advancement 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号(製造3分野) (Specified Skilled Worker (i)) | SSW target in manufacturing; inspection tasks incidental to chemical product manufacturing allowed. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher; expertise in chemical analysis and quality control needed. |
-| Subclass 技能実習2号 (Technical Intern Training) | Possible under manufacturing-related training, but not inspection-specific. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: By obtaining qualifications such as Analysis Technician or ISO auditor, you c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-product-inspector/JP)**

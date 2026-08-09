@@ -51,8 +51,6 @@ Opticians prepare and fit glasses and contact lenses according to prescriptions,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job of an optician is mixed: AI automation handles prescription interpretation and inventory management, but physical adjustments, customer communication, and personalized service in the fitting process still rely on human skills. Entry-level positions are facing compression.
-
 You can progress from a junior optician to a senior optician or store manager, or specialise in contact lenses or low-vision aids, or move into optical product management.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ You can progress from a junior optician to a senior optician or store manager, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled talent with employer sponsorship, requires meeting the salary threshold (approx. €5,000/month in 2025). Opticians typically qualify. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU workers, requiring an annual salary above the average (approximately €5,500/month). Opticians may qualify. |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities can search for jobs freely within one year, applicable to students who completed an optician degree in the Netherlands. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Can advance to senior optician, store manager, or regional manager, or specia
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dispensing-optician/NL)**

@@ -50,8 +50,6 @@ Assess the fair value of tangible personal or commercial property such as jewelr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Land and property valuers' tasks heavily rely on site inspections and comprehensive data judgement; automation can handle data collection and simple model analysis, but core valuation, market insight, and legal compliance still require human professional judgement. Entry-level positions are slightly compressed due to basic automation, but AI-enhanced senior roles become more efficient.
-
 Can progress from assistant valuer to senior valuer or department head; with experience, can become an independent appraiser or start a firm.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from assistant valuer to senior valuer or department head; with exp
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or below, PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate outstanding achievements in the assessment field |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Common pathway is H-1B work visa, followed by employer-sponsored EB-2 or EB-3
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/appraisers-of-personal-and-business-property/US)**

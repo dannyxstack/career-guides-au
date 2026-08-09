@@ -53,8 +53,6 @@ A non-clinical caregiver who provides health monitoring, wound care, medication 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
-
 Can advance to licensed practical nurse (LPN) or registered nurse (RN) through experience and additional training, or move to management roles such as care coordination or case management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to licensed practical nurse (LPN) or registered nurse (RN) through e
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to Licensed Practical Nurse (LPN), Registered Nurse (RN), or care
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-health-aides/US)**

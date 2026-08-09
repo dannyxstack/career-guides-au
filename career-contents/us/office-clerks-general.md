@@ -53,8 +53,6 @@ Office clerks perform diverse clerical tasks including answering phones, bookkee
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
-
 Junior clerks can advance to administrative assistants, office supervisors, or specialized clerks (e.g., legal or medical) through experience, with some transitioning to customer service or data entry.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior clerks can advance to administrative assistants, office supervisors, or s
 | Subclass Green Card (PERM) (EB-3 Green Card (PERM)) | Very rare; requires proof that no qualified US workers are available, and salary is usually below labor certification standards. |
 | Subclass L-1 (L-1 Intracompany Transferee) | Multinational companies transfer foreign employees to US office administrative roles, requiring the employee to hold a management or professional knowledge position overseas. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: The US Bureau of Labor Statistics predicts a decline of about 5% in employmen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-clerks-general/US)**

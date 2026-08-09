@@ -53,8 +53,6 @@ In immigration-friendly New Zealand, procurement specialists can settle via skil
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Procurement specialist roles are mixed under AI influence: routine procurement process automation compresses entry-level positions, but strategic sourcing, supplier relationship management, and data analysis skills are amplified by AI, increasing demand for hybrid talents.
-
 Junior procurement can start as an assistant, progress to senior procurement manager or supply chain director, or develop into strategic procurement, contract management, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior procurement can start as an assistant, progress to senior procurement man
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, then transition to residence. |
 | Subclass Green List T2 (Green List Tier 2) | Work to residence, usually outside the list, but may apply to certain specific industries |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires an NZQA-recognized bachelor's degree in commerce. CIPS certi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/procurement-officer/NZ)**

@@ -52,8 +52,6 @@ Responsible for operating and monitoring equipment in incineration and wastewate
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Task automation risk for incineration and wastewater treatment operators is moderately high; mainly repetitive monitoring and operations are easily taken over by AI, but on-site emergency response and compliance decisions are required, making it a human-machine hybrid role.
-
 Can advance from operator to senior operator or supervisor, transition to process optimization or environmental compliance roles through training, and some move into management or consulting.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can advance from operator to senior operator or supervisor, transition to proces
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to technicians earning above the threshold (approx. €4,500/month in 2025), employer-sponsored, 30% tax benefit. |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary above €5,500/month (2025), suitable for senior roles, can bring family. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or top 200 global universities can apply for one-year job search residence, and switch to a work visa after finding a job. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Can advance to senior operator, supervisor, or transition to specialized role
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/incinerator-and-water-treatment-plant-operator/NL)**

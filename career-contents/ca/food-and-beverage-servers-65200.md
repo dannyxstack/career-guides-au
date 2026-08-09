@@ -51,8 +51,6 @@ Food and beverage servers take orders, serve meals and drinks, and ensure a plea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Career progression paths include: from junior server to senior server, head waiter, restaurant supervisor, or moving into restaurant management roles (e.g., restaurant manager). Some servers gain experience and start their own catering businesses.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include: from junior server to senior server, head wait
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario) have food service provincial nominee programs, but require employer sponsorship and relevant work experience |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Must meet work experience and language requirements; occupation NOC 65200 is TEER 5, typically not directly eligible, but can qualify through cumulative other work experience or spouse application. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from junior server to head waiter, supervisor, or even restauran
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-servers-65200/CA)**

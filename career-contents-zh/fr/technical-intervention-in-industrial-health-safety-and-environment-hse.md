@@ -1,6 +1,6 @@
-# Technical Intervention in Industrial Health, Safety and Environment (HSE) 职业分析 · 法国
+# 工业健康、安全与环境（HSE）技术干预（Technical Intervention in Industrial Health, Safety and Environment (HSE)）职业分析 · 法国
 
-**职业代码: H1303 (ROME)**
+**职业代码：H1303 (ROME)**
 
 负责工业场所的健康、安全与环境（HSE）技术干预，识别风险、制定预防措施并监督合规，确保工作环境安全。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 32,000. 法国工业HSE岗位需求稳定，受益于严格法规和企业ESG趋势。预计就业机会年增2-3%，尤其制造业和能源领域。
+**职位需求量：中高（★★★★☆）** 全国从业人数约 32,000。法国工业HSE岗位需求稳定，受益于严格法规和企业ESG趋势。预计就业机会年增2-3%，尤其制造业和能源领域。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,35 +50,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 环境健康官员的标准化报告和检查工作将被AI自动化，但现场执法、复杂调查和公众信任责任仍为人类护城河，总体喜忧参半。
 
 可从HSE技术员晋升为HSE工程师或经理，也可向风险管理或可持续发展方向发展。经验丰富者可成为独立顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成食品安全检查报告和模板化投诉响应
 - 基于历史数据自动识别食品安全高风险企业进行优先检查
 - 自动处理公共卫生法规咨询中的标准问答
 - AI分析水质监测数据并标记异常值
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助现场检查，通过移动设备实时调取历史合规记录和违规预测
 - 利用自然语言处理快速筛选传染病报告中的关键信息
 - AI预测模型识别爆发风险，指导资源分配
 - 自动生成可视化公共卫生趋势报告，辅助政策制定
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场检查和执法裁量权，包括复杂情境判断
 - 与食品企业、社区居民的面对面沟通与信任建立
 - 公共卫生事件应急处置中的动态决策
 - 法律和伦理责任归属，不能完全交由AI承担
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与AI工具使用（Python/R，数据可视化）
 - 公共卫生信息系统（如SPI）操作
@@ -86,27 +86,20 @@
 - 基础统计和数据解读能力
 - AI伦理与合规知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- ESG compliance
-- Industrial risk prevention
-- Occupational health
-- Environmental regulations
+- ESG合规
+- 工业风险预防
+- 职业健康
+- 环境法规
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent) | 适用于高技能人才，法国雇主担保，有效期4年 |
-| Subclass Salarié (Salarié) | 工作居留，需雇主担保，有效期1年可续 |
-| Subclass Carte bleue UE (EU Blue Card) | 欧盟蓝卡，高薪要求（年薪≥53,836.50欧），快速居留 |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +143,12 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/technical-intervention-in-industrial-health-safety-and-environment-hse/FR)**

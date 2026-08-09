@@ -52,8 +52,6 @@ Responsible for planning, organizing, and coordinating the measurement, monitori
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Inspection, testing, and sorting roles will significantly decrease due to automation, but tasks such as complex defect judgment and sampling plan design will be enhanced by AI. Overall roles shrink, but survivors need to learn new technologies.
-
 Can start as a junior quality auditor, progress to quality manager or regulatory affairs manager, and eventually become quality director or regulatory affairs director. Some move into consulting or compliance management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can start as a junior quality auditor, progress to quality manager or regulatory
 | Subclass Global Talent (Global Talent Visa) | Applicable to professionals with outstanding achievements or potential in quality assurance and regulatory fields, subject to recognition |
 | Subclass Scale-up (Scale-up Visa) | Quality assurance specialist suitable for fast-growing companies, must meet salary requirement of £33,000/year |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a bachelor's degree in quality, engineering, life sciences, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-assurance-and-regulatory-professionals/UK)**

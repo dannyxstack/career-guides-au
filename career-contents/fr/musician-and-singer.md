@@ -4,8 +4,6 @@
 
 Musicians and singers engage in music creation, performance, and recording, covering a variety of styles including classical, pop, and jazz, and can work in concert halls, recording studios, theaters, and other venues.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Musicians and singers engage in music creation, performance, and recording, cove
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
-
 Career development paths include becoming a band's concertmaster, music director, or independent musician; It can also be turned into music education, production, or recording engineering.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development paths include becoming a band's concertmaster, music director
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists or musicians, requiring a portfolio and a contract for the French project |
-| Subclass Salarié (Employee Permit) | Employed by a French music institution, employer sponsorship required |
-| Subclass Carte bleue UE (EU Blue Card) | It requires high education and high salary, and is not commonly used for musicians |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can apply through the Talent Passport (Passeport Talent), requiring portfolio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musician-and-singer/FR)**

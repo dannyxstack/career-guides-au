@@ -52,8 +52,6 @@ Recreational therapists plan, direct, or coordinate medically approved recreatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate administrative tasks like event arrangement and documentation, but also enhance personalized event design and evaluation abilities; the career outlook is mixed.
-
 Junior therapists can advance to senior therapist, program coordinator, or department head. Experienced professionals can move into clinical management, consulting, or education. Some enter research or university teaching with a master's degree.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior therapists can advance to senior therapist, program coordinator, or depar
 | Subclass EB-2 (EB-2 Advanced Degree) | Master's or bachelor's plus 5 years of experience can apply; requires PERM labor certification. |
 | Subclass EB-3 (EB-3 Skilled Worker) | Bachelor's degree and 2 years of experience; requires PERM labor certification with a long waiting period. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: BLS projects 8% employment growth from 2022 to 2032, faster than the average 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreational-therapists/US)**

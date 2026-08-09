@@ -48,8 +48,6 @@ A professional who oversees the artistic direction of stage or film productions,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can be used as a tool for script analysis and video editing, but human creativity and team leadership are difficult to replace. Directors who leverage AI for efficiency will survive.
-
 Starting as an assistant, gaining experience, and becoming independent. Some belong to major production companies or theater troupes, while others freelance.
 
 **Tasks most exposed to AI:**
@@ -84,15 +82,9 @@ Starting as an assistant, gaining experience, and becoming independent. Some bel
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable for roles requiring specialized knowledge in arts and direction. Experience required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Directors are ineligible. Rarely applicable for related technical roles. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -133,12 +125,12 @@ A: Yes, it is possible. You can apply with an Engineer/Specialist in Humanities/
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director/JP)**

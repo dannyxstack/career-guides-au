@@ -1,10 +1,8 @@
-# Environmental Tester 职业分析 · 韩国
+# 环境测试员（Environmental Tester）职业分析 · 韩国
 
-**职业代码: 15541 (KECO)**
+**职业代码：15541 (KECO)**
 
-A professional who collects and analyzes environmental samples to measure pollution levels in water, air, soil, etc., and assesses environmental impact.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+收集和分析环境样品以测量水、空气、土壤等中污染水平，并评估环境影响的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who collects and analyzes environmental samples to measure pollut
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree in Environmental Studies | 2 年 | $5,000,000~$15,000,000（Public/national standards） |
-| Bachelor's degree in Environmental Engineering | 4年 | $20,000,000~$40,000,000（Public/national standards） |
+| 环境研究副学士学位 | 2 年 | $5,000,000~$15,000,000（公共/国家标准） |
+| 环境工程本科学位 | 4年 | $20,000,000~$40,000,000（公共/国家标准） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who collects and analyzes environmental samples to measure pollut
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Water Quality Environmental Engineer | Human Resources Development Service of Korea | 可选 | Essential for practical work |
-| Air Quality Environmental Engineer | Human Resources Development Service of Korea | 可选 | Advantageous in the air sector |
-| Soil Environmental Engineer | Human Resources Development Service of Korea | 可选 | Advantageous in the soil sector |
+| 水质环境工程师 | 韩国人力资源开发服务局 | 可选 | 对实际工作至关重要 |
+| 空气质量环境工程师 | 韩国人力资源开发服务局 | 可选 | 在航空领域具有优势 |
+| 土壤环境工程师 | 韩国人力资源开发服务局 | 可选 | 在土壤领域有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 8,000. Demand is steady due to stricter environmental regulations and growing ESG requirements, with an expected average annual growth of 2% over five years.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 8,000。由于更严格的环境法规和日益增长的ESG要求，需求稳定，预计五年内年均增长2%。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional who collects and analyzes environmental samples to measure pollut
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$36,000,000 | Small and medium enterprise standards |
-| Mid-level (4–9 years) | $38,000,000~$48,000,000 | Includes large corporations and public institutions |
-| 资深（10年以上） | $50,000,000~$65,000,000 | Expert/managerial level |
+| 初级（0-3年） | $30,000,000~$36,000,000 | 中小企业标准 |
+| 中级（4-9年） | $38,000,000~$48,000,000 | 包括大型企业和公共机构 |
+| 资深（10年以上） | $50,000,000~$65,000,000 | 专家/管理层 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI enhances data analysis and pattern recognition for environmental testers, but field sample collection and equipment operation still rely heavily on humans. As AI replaces simple repetitive analysis, advanced interpretation skills will become more important.
+AI增强了环境测试人员的数据分析和模式识别能力，但现场样品采集和设备操作仍然高度依赖人类。随着AI取代简单的重复分析，高级解读技能将变得更加重要。
 
-Initially responsible for field sampling and basic analysis, with potential career advancement to analysis specialist, researcher, or environmental consultant.
+最初负责现场采样和基础分析，职业发展可晋升至分析专家、研究员或环境顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording repetitive sample analysis results
-- Writing basic statistical reports
+- 记录重复样本分析结果
+- 撰写基础统计报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex pollutant analysis and pattern recognition
-- Real-time monitoring data interpretation
-- Environmental impact prediction simulation
+- 复杂污染物分析与模式识别
+- 实时监测数据解读
+- 环境影响预测模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment in field sample collection
-- Ability to handle non-routine situations
-- Regulatory interpretation and report writing
+- 现场样本采集中的判断
+- 处理非常规情况的能力
+- 法规解读与报告撰写
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Python/R programming
-- Environmental modeling
-- IoT sensor operation
+- 数据分析
+- Python/R编程
+- 环境建模
+- 物联网传感器操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Strengthening environmental regulations
-- Spread of ESG management
-- Smart environmental monitoring
-- Carbon neutrality policy
+- 加强环保法规
+- ESG管理的普及
+- 智能环境监测
+- 碳中和政策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires professional certifications and experience, possible in environmental fields |
-| Subclass E-9 (Non-professional Employment) | Limited visa issuance, simple tasks possible |
-| Subclass F-2 (Residence) | Long-term residents, unrestricted employment |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with keen observation and analytical skills
-- People with high interest in environmental issues and a meticulous personality
-- People who can combine outdoor activities with lab work
+- 具有敏锐观察力和分析能力的人
+- 对环境问题有高度兴趣且个性细致的人
+- 能将户外活动与实验室工作相结合的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who cannot adhere to strict regulations and procedures
+- 无法遵守严格规定和程序的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an environmental testing officer?**
-答：Entry-level: 30-36 million KRW, 10+ years experience: 50-65 million KRW.
+**问：环境检测官员的平均薪资是多少？**
+答：入门级：3000-3600万韩元，10年以上经验：5000-6500万韩元。
 
-**问：Can foreigners get a job in Korea in this occupation?**
-答：Possible, but E-7 visa required, along with relevant degree, experience, and certifications.
+**问：外国人能在这个职业找到韩国的工作吗？**
+答：可能，但需要E-7签证，以及相关学位、经验和认证。
 
-**问：Are there required certifications?**
-答：Not legally required, but water/air/soil environment engineer licenses greatly help in practice.
+**问：是否需要必需的认证？**
+答：法律上没有强制要求，但水/空气/土壤环境工程师执照在实践中非常有帮助。
 
 
 ---
@@ -145,12 +135,12 @@ Initially responsible for field sampling and basic analysis, with potential care
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/environmental-tester/KR)**

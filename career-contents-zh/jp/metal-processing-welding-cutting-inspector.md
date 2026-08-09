@@ -1,8 +1,8 @@
-# Metal Processing/Welding/Cutting Inspector 职业分析 · 日本
+# 金属加工/焊接/切割检验员（Metal Processing/Welding/Cutting Inspector）职业分析 · 日本
 
-**职业代码: 562 (JSCO)**
+**职业代码：562 (JSCO)**
 
-A profession that inspects welding, cutting, and processing quality of metal parts using visual checks or measuring instruments to ensure compliance with standards.
+使用目视检查或测量仪器检验金属部件焊接、切割和加工质量，确保符合标准的职业。
 
 
 ---
@@ -11,8 +11,8 @@ A profession that inspects welding, cutting, and processing quality of metal par
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Welding/Machinery department) | 2 年 | $1,500,000~$2,500,000（Tuition varies by public/private institutions.） |
-| Public vocational training (General Welding course) | 1年 | $200,000~$500,000（Public training may be free of charge.） |
+| 职业学校（焊接/机械部门） | 2 年 | $1,500,000~$2,500,000（学费因公立/私立机构而异。） |
+| 公共职业培训（通用焊接课程） | 1年 | $200,000~$500,000（公共培训可能免费。） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession that inspects welding, cutting, and processing quality of metal par
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Welding Skill Evaluation Test (JIS certification) | Japan Welding Engineering Society | 必备 | Types include covered arc, semi-auto, TIG, etc. Required certification. |
-| Non-Destructive Testing Technician (UT, RT, MT, etc.) | Japanese Society for Non-Destructive Inspection | 可选 | Levels 1-3. Preferred for inspection work. |
-| Skill Certification (Welding) | Ministry of Health, Labour and Welfare (Prefectural Vocational Development Association) | 可选 | Class 1 & 2. Useful for career advancement. |
+| 焊接技能评定考试（JIS认证） | 日本焊接工程学会 | 必备 | 类型包括有电弧焊、半自动焊、TIG焊等。需要认证。 |
+| 无损检测技术员（UT、RT、MT等） | 日本无损检测协会 | 可选 | 1-3级。优先用于检验工作。 |
+| 技能认证（焊接） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 1级和2级。对职业晋升有用。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Despite automation in manufacturing, demand for advanced welding and non-destructive testing remains steady. Long-term shortage of skilled workers is a concern.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。尽管制造业自动化，但对高级焊接和无损检测的需求仍然稳定。熟练工人的长期短缺令人担忧。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,95 +39,88 @@ A profession that inspects welding, cutting, and processing quality of metal par
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $2,800,000~$3,800,000 | Varies with overtime pay. |
-| Mid (4-7 years) | $3,800,000~$5,000,000 | Skilled certification holders may earn higher. |
-| 高级（8年+） | $5,000,000~$7,000,000 | Site supervisor or inspection lead level. |
+| 入门级（0-3年） | $2,800,000~$3,800,000 | 视加班费而定。 |
+| 中级（4-7年） | $3,800,000~$5,000,000 | 持有技能认证者或可获更高收入。 |
+| 高级（8年+） | $5,000,000~$7,000,000 | 现场主管或检查负责人级别。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Automation using AI and robots is advancing, but human judgment is necessary for complex welding and inspections; complete replacement is difficult. Especially in non-destructive testing and advanced welding, AI assists while leveraging skilled expertise.
+自动化和机器人在推进，但复杂焊接和检查需人工判断；完全替代困难。尤其在无损检测和高级焊接中，AI辅助同时依赖熟练专家。
 
-From entry-level, one can obtain skill certifications and advance to site supervisor or inspection leader. Certifications like Welding Skill Test or NDT technician benefit career growth.
+从入门级开始，可以获得技能认证并晋升为现场主管或检验组长。焊接技能测试或无损检测技术员等认证有利于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple manual welding (standardized products)
-- Visual inspection (partially image recognition AI)
-- Standardized cutting operations
+- 简单手工焊接（标准化产品）
+- 目视检查（部分图像识别AI）
+- 标准化切割操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Non-destructive inspection data analysis
-- Welding robot teaching and maintenance
-- Optimization of advanced welding conditions
-- Integration with quality management systems
+- 无损检测数据分析
+- 焊接机器人示教与维护
+- 高级焊接条件优化
+- 与质量管理体系整合
 
-**人类护城河:**
+**人类护城河：**
 
-- Non-standard/complex shape welding
-- Advanced non-destructive inspection judgment (defect type/depth evaluation)
-- Troubleshooting based on field experience
-- New material response and prototyping processes
+- 非标准/复杂形状焊接
+- 高级无损检测判定（缺陷类型/深度评估）
+- 基于现场经验的故障排除
+- 新材料响应与原型制作流程
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Welding robot programming
-- Non-destructive inspection data analysis
-- 3D scanning and measurement technology
-- Operation and verification of AI inspection systems
+- 焊接机器人编程
+- 无损检测数据分析
+- 3D扫描与测量技术
+- AI检测系统的操作与验证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automotive parts
-- Construction steel frames
-- Non-destructive testing
-- Factory automation
+- 汽车零部件
+- 建筑钢框架
+- 无损检测
+- 工厂自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Fields: Casting/forging, industrial machinery, electrical/electronic/information manufacturing)) | Engage in welding and inspection work in manufacturing. Must pass exam. Max stay 5 years. |
-| Subclass 技能 (Skilled Worker (Welding)) | For experienced workers. Requires 10+ years of experience. Renewable stay. |
-| Subclass 技術・人文知識・国際業務 (Engineer (Mechanical Engineering, etc.)) | Requires specialized knowledge from university. E.g., inspection process management. |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at detailed work
-- People interested in manufacturing
-- People confident in physical strength
+- 擅长细致工作的人
+- 对制造业感兴趣的人
+- 体力充沛的人
 
 **谁不适合**
-- People not good at dangerous work
+- 不适合危险工作的人员
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this job?**
-答：It varies by experience and qualifications: entry-level 2.8~3.8M JPY, mid-level 3.8~5M JPY, senior-level 5~7M JPY. Overtime and skill allowances cause variation.
+**问：这个职位的平均年收入是多少？**
+答：因经验和资历而异：入门级280~380万日元，中级380~500万日元，高级500~700万日元。加班和技能津贴造成差异。
 
-**问：Is there a visa for foreigners to do this job?**
-答：Typical examples include Specified Skilled Worker (i) (Manufacturing). Skill Visa (Welding) and Engineer/Specialist in Humanities/International Services (Technology) are also applicable.
+**问：外国人有从事这份工作的签证吗？**
+答：典型例子包括特定技能工人(i)（制造业）。技能签证（焊接）和工程师/人文知识/国际服务（技术）也适用。
 
 **问：需要哪些资格？**
-答：Not mandatory, but passing the JIS Welding Skill Evaluation Test is strongly recommended. Holding Non-Destructive Testing Engineer or Skill Test (Welding) qualifications is advantageous.
+答：非强制，但强烈推荐通过JIS焊接技能评估考试。持有无损检测工程师或技能测试（焊接）资格者优先。
 
 
 ---
@@ -145,12 +138,12 @@ From entry-level, one can obtain skill certifications and advance to site superv
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-processing-welding-cutting-inspector/JP)**

@@ -53,8 +53,6 @@ Power line workers in New Zealand are responsible for building, maintaining, and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
-
 Start as an apprentice (3-4 years), obtain the New Zealand Electrical Workers Registration Board (EWRB) Linesman certificate, and advance to senior linesman or team supervisor; or transition to distribution planning, training, or project management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an apprentice (3-4 years), obtain the New Zealand Electrical Workers Re
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, power line workers can get extra points through occupational registration (EWRB), usually requiring employer sponsorship. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you don't directly meet residency requirements, you can work via an accredited employer work visa first, then apply for residency. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can apply via overseas qualification assessment, but usually need to complete
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-linesperson/NZ)**

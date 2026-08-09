@@ -51,8 +51,6 @@ Responsible for planning, organizing, and coordinating production activities in 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will significantly change the work of mining and energy production managers but will not completely replace them. Some data analysis, monitoring, and reporting tasks will be taken over, however human core duties such as on-site decision-making, safety management, and team leadership remain stable.
-
 Usually promoted from engineer or operations supervisor, can advance to regional manager or company executive. Requires industry experience, management skills, and professional qualifications (e.g., IoM3).
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Usually promoted from engineer or operations supervisor, can advance to regional
 | Subclass Global Talent (Global Talent Visa) | For outstanding or potential leaders, requires endorsement |
 | Subclass Scale-up (Scale-up Visa) | For high-skilled positions in rapidly growing companies |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, can advance from Production Manager to Regional Operations Director, Vic
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-managers-and-directors-in-mining-and-energy/UK)**

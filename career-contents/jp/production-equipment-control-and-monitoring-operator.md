@@ -51,8 +51,6 @@ Responsible for operating control panels and monitoring production equipment (ex
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation will replace some monitoring tasks, but human judgment remains for anomaly response and equipment adjustment. Job scope will change but demand persists.
-
 Career advancement from operational roles to control engineers or equipment maintenance is possible. Paths to production technology and quality control also open.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career advancement from operational roles to control engineers or equipment main
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Industrial Machinery Manufacturing, etc.)) | Manufacturing field specified skilled target. Requires passing exam and Japanese N4 or above. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable with university degree or 10+ years of practical experience. Suitable for control engineer work. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Chemical Manufacturing, etc.)) | Maximum 3 years. Can transfer to Specified Skilled Worker after training. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Not mandatory, but forklift or hazardous materials handler certifications are
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-equipment-control-and-monitoring-operator/JP)**

@@ -54,8 +54,6 @@ Equestrian riders train, ride, and care for horses, participating in equestrian 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Equestrian riders' tasks combine physical, emotional, and skill aspects; AI automation can handle data analysis, itinerary planning, and other logistical tasks, but core work like riding training and horse care still relies on humans. Job compression and expansion coexist.
-
 Junior riders can advance to senior riders or coaches through experience; some pursue further qualifications to become "equestrian master (Pferdewirtschaftsmeister)" and manage stables or training teams.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior riders can advance to senior riders or coaches through experience; some p
 | Subclass Chancenkarte | Job-seeking visa based on a points system, allowing job search and short-term trial work |
 | Subclass Job Seeker Visa | 6-month long-stay visa for job seeking in Germany |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, becoming a full-fledged rider usually requires completing 3 years of dua
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horse-rider/DE)**

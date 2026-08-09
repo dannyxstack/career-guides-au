@@ -4,8 +4,6 @@
 
 A professional who collects, preserves, researches, and exhibits artifacts and artworks in exhibition halls, museums, and art galleries, also referred to as a curator.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who collects, preserves, researches, and exhibits artifacts and a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI can replace parts of exhibition commentary, docent services, and collection management, but unique expertise and creativity in exhibition planning, storytelling, and conservation science remain human domains. AI can enhance work efficiency when used as a tool.
-
 Promotion to a regular curator usually occurs after graduate school followed by internships and contract positions; advancement to senior curator or director is possible with experience, but competition is fierce.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Promotion to a regular curator usually occurs after graduate school followed by 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | For professionals in culture/arts fields, requires curator certificate and experience |
-| Subclass F-2 (F-2 (Residence) Visa) | Possible for long-term stay with few employment restrictions |
-| Subclass D-10 (Job-seeking visa) | Arts majors staying for job-seeking activities |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Yes, a curator certificate (Level 1/2/3) issued by the Ministry of Culture, S
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/curator/KR)**

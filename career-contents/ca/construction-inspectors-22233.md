@@ -52,8 +52,6 @@ Canadian building inspectors fall under NOC 22233, primarily responsible for ins
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of building inspector is a mixed bag: AI can assist in reviewing drawings, generating reports, and analyzing defect images, replacing much desk work; but site inspections, compliance judgments, and interpersonal communication still rely on human experience and discretion.
-
 Junior inspectors can gain experience and advance to senior inspector, chief inspector, or project manager, or transition to building code consultant or government regulatory roles. Provincial certification offers greater career development opportunities.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior inspectors can gain experience and advance to senior inspector, chief ins
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario and BC have priority occupation nominations for construction, offering 600 additional points for provincial nominations |
 | Subclass AIP (Atlantic Immigration Program) | Designated employer sponsorship program in Atlantic Canada, suitable for applicants with job arrangements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Conduct ECA assessment through designated bodies such as WES or IQAS, and may
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-inspectors-22233/CA)**

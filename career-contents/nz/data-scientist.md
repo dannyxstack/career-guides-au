@@ -52,8 +52,6 @@ Data scientists analyse complex datasets using statistics, machine learning, and
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Junior data scientists can advance to senior or chief data scientist, then transition to data science manager or chief data officer (CDO), or specialize in machine learning engineering or data engineering.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior data scientists can advance to senior or chief data scientist, then trans
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category; under the 6-point system, PhD + NZ work experience can earn 9 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional or experience-gaining pathway |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most employers require at least a bachelor's degree in computer science, stat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-scientist/NZ)**

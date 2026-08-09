@@ -1,8 +1,8 @@
 # 测量技术员（Surveying Technician）职业分析 · 日本
 
-**职业代码: 093 (JSCO)**
+**职业代码：093 (JSCO)**
 
-A surveying technician is a professional who measures the shape and location of land, providing basic data for map creation and construction work.
+测量技术员是测量土地形状和位置的专业人员，为地图绘制和施工提供基础数据。
 
 
 ---
@@ -11,9 +11,9 @@ A surveying technician is a professional who measures the shape and location of 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Assistant Surveyor Training Course | 6 months | $150,000~$300,000（Correspondence, etc.） |
-| Surveyor Training Program (Vocational School) | 2 年 | $1,000,000~$3,000,000（Private vocational schools） |
-| Surveyor Training Program (University) | 4年 | $4,000,000~$8,000,000（National/public universities） |
+| 助理测量员培训课程 | 6个月 | $150,000~$300,000（函授等） |
+| 测量员培训项目（职业学校） | 2 年 | $1,000,000~$3,000,000（私立职业院校） |
+| 测量员培训项目（大学） | 4年 | $4,000,000~$8,000,000（国立/公立大学） |
 
 ---
 
@@ -21,18 +21,18 @@ A surveying technician is a professional who measures the shape and location of 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Assistant Surveyor | Geospatial Information Authority of Japan | 必备 | Required for assisting in surveying work |
-| Surveyor | Geospatial Information Authority of Japan | 必备 | Required as a manager of surveying work |
-| Surveyor Business Registration | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Registration required to operate a surveying business |
+| 助理测量员 | 日本地理空间信息局 | 必备 | 协助测量工作需要 |
+| 测量员 | 日本地理空间信息局 | 必备 | 测量工作管理所需 |
+| 测量师业务注册 | 国土交通省 | 可选 | 运营测量业务需注册 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Supported by construction demand and infrastructure development, stable employment is expected. Demand is particularly high in updating aging infrastructure and disaster prevention.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。受建筑需求和基础设施发展支持，就业稳定。更新老化基础设施和防灾方面的需求尤其高。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,92 +40,86 @@ A surveying technician is a professional who measures the shape and location of 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,000,000 | As an assistant surveyor |
-| Mid-level (4-10 years) | $4,000,000~$6,000,000 | As a surveyor |
-| Veteran (10+ years) | $6,000,000~$8,000,000 | Chief or manager |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 作为助理测量员 |
+| 中级（4-10年） | $4,000,000~$6,000,000 | 作为测量员 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 主任或经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will not replace surveyors' work but will enhance tools like drones and 3D scanners, improving efficiency. Full replacement is difficult, with advanced interpretation and judgment remaining with humans.
+人工智能和自动化不会取代测量员的工作，但会增强无人机和3D扫描仪等工具，提高效率。完全替代困难，高级解读和判断仍由人类完成。
 
-Advancement from assistant surveyor to surveyor is common. Career progression is possible through gaining experience, mastering skills, or shifting to management.
+从助理测量员晋升为测量员很常见。通过积累经验、掌握技能或转向管理岗位可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- GNSS Survey Data Collection
-- Simple Surveying with Total Station
+- GNSS测量数据采集
+- 全站仪简单测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Aerial Photogrammetry with Drones
-- Point Cloud Data Processing with 3D Laser Scanners
-- AI-based Feature Recognition
+- 无人机航空摄影测量
+- 使用3D激光扫描仪的点云数据处理
+- 基于AI的特征识别
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site Judgment
-- Survey Planning Based on Laws
-- Quality Control
-- Client Negotiation
+- 现场判断
+- 基于法律的调查规划
+- 质量控制
+- 客户谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Drone Piloting Skills
-- 3D Data Analysis
-- Automation Script Creation (Python, etc.)
+- 无人机驾驶技能
+- 3D数据分析
+- 自动化脚本编写（Python等）
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
 - i-Construction
-- Drone Surveying
-- 3D Laser Scanner
-- Disaster Prevention and Mitigation
+- 无人机测绘
+- 3D激光扫描仪
+- 灾害预防与减灾
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable to work as a surveying technician. Often requires assistant surveyor qualification or higher. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Applicable to surveying assistance in construction. Requires Japanese language ability and skills test. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like precise work
-- People confident in physical strength
-- People who can collaborate in a team
+- 喜欢精确工作的人
+- 体力充沛的人
+- 能够团队协作的人
 
 **谁不适合**
-- People who prefer desk work
-- People who dislike heights or outdoor work
+- 偏好案头工作的人
+- 不喜欢高空作业或户外工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a surveying technician?**
-答：Entry-level: 3-4 million yen; veteran: 6-8 million yen. Varies by qualifications and experience.
+**问：测量技术员的年收入是多少？**
+答：入门级：300-400万日元；资深：600-800万日元。视资格和经验而异。
 
-**问：How can foreigners work as surveyors in Japan?**
-答：You need a status of residence for Engineer/Specialist in Humanities/International Services. Often, qualifications like Assistant Surveyor or higher and Japanese language ability are required. Specified Skilled Worker (i) (Construction) is also an option.
+**问：外国人如何在日本从事测量员工作？**
+答：你需要工程师/人文知识/国际服务的在留资格。通常需要助理测量员或更高级别的资格以及日语能力。特定技能工人（i）（建筑）也是一个选项。
 
-**问：Is it possible to change careers from surveyor to other occupations?**
-答：You can leverage related skills in construction consulting, GIS-related fields, drone piloting, etc.
+**问：从测量员转行到其他职业可能吗？**
+答：您可以在建筑咨询、GIS相关领域、无人机驾驶等方面利用相关技能。
 
 
 ---
@@ -143,12 +137,12 @@ Advancement from assistant surveyor to surveyor is common. Career progression is
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/surveying-technician/JP)**

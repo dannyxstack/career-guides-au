@@ -53,8 +53,6 @@ Providing administrative support related to social services in public administra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially automate document processing and data verification, but policy judgment and case management require high complexity, and human professional judgment remains central.
-
 You can be promoted from administrative support to social services supervisor or policy analysis position, with experience and a degree in public administration or social work.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from administrative support to social services supervisor or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | You must obtain a job offer from a Spanish public institution or private social service company, and the employer must apply for a work permit. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, usually requiring a bachelor's degree or above and a relatively high salary (1.5 times the average salary). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | It is aimed at senior managers or technical experts, but this profession is less applicable. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: At minimum, a mid-to-senior vocational training diploma or university degree 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-services-administration-support-professionals/ES)**

@@ -4,8 +4,6 @@
 
 A specialist who performs quality inspections in the printing and binding process, checking for color unevenness, stains, typos, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialist who performs quality inspections in the printing and binding proces
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-The adoption of automated inspection using AI and image recognition technology is advancing, reducing the workload of skilled inspectors. However, areas requiring human senses, such as judging subtle color tones and paper quality, will likely remain.
-
 Inspection automation is advancing, but visual fine quality checks remain important. Career advancement from skilled worker to inspection line leader or quality control manager is possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Inspection automation is advancing, but visual fine quality checks remain import
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable when specialized knowledge or skills in printing technology are required. However, regular inspection workers are unlikely to qualify. |
-| Subclass 特定活動（技能実習） (Technical Intern Training) | The printing and bookbinding field may be included in technical intern training occupations, but internships limited to inspection jobs are rare. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: Currently, it is not covered by Specified Skilled Worker, but there are cases
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-and-binding-inspection-worker/JP)**

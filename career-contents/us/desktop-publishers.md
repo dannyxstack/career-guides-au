@@ -53,8 +53,6 @@ Use computer software to format typography and graphic elements to produce publi
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Desktop publisher roles are being reduced by AI automation tools, but AI also improves layout and graphic design efficiency. Entry-level positions are narrowing, but senior staff can move into creative direction and complex projects.
-
 Can advance to senior desktop publisher, graphic designer, or publishing manager; proficiency in multilingual layout or digital publishing can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to senior desktop publisher, graphic designer, or publishing manager
 | Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree; this occupation typically does not meet specialty occupation requirements, employer sponsorship difficult |
 | Subclass EB-3 (Employment-Based Third Preference) | Requires a labor certification, but this occupation is not in shortage, so PERM approval rates are low |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Very difficult, as this occupation usually does not meet H-1B professional po
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/desktop-publishers/US)**

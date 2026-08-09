@@ -51,8 +51,6 @@ Responsible for designing, manufacturing, maintaining, and inspecting mechanical
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-While AI and robot automation advance, complex machinery maintenance and troubleshooting still require human judgment. AI is used as a diagnostic aid.
-
 After joining, gain experience in field work and maintenance tasks; progress to chief/section chief within a few years. Further career advancement to equipment management or maintenance planning leader is possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ After joining, gain experience in field work and maintenance tasks; progress to 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable with university degree or 10+ years practical experience. Suitable for mechanical design/maintenance work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Max 5-year employment possible by passing skills and Japanese tests. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For jobs requiring advanced skills; allows family accompaniment and permanent residence. |
-| Subclass 介護 (Care Worker Visa) | Not a mechanical engineer, but may be involved in machinery management at care facilities. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: Vocational high school, technical college, or university engineering departme
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer-excluding-rd/JP)**

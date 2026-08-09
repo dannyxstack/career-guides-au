@@ -1,8 +1,8 @@
-# Railway / Train Driver 职业分析 · 韩国
+# 铁路/火车司机（Railway / Train Driver）职业分析 · 韩国
 
-**职业代码: 62131 (KECO)**
+**职业代码：62131 (KECO)**
 
-A professional who operates railway vehicles to safely transport passengers or freight.
+操作铁路车辆安全运送乘客或货物的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who operates railway vehicles to safely transport passengers or f
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（No need to major in railway-related studies after high school） |
-| 副学士学位 | 2 年 | $6,000,000~$10,000,000（Tuition for railway operation-related departments） |
-| Train driver training course | 1年 | $10,000,000~$15,000,000（Private educational institutions or in-house training by the Korea Railroad Corporation (KORAIL)） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后无需主修铁路相关专业） |
+| 副学士学位 | 2 年 | $6,000,000~$10,000,000（铁路运营相关专业学费） |
+| 火车司机培训课程 | 1年 | $10,000,000~$15,000,000（私立教育机构或韩国铁路公社(KORAIL)内部培训） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional who operates railway vehicles to safely transport passengers or f
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Railway Vehicle Driving License (Class 1) | Ministry of Land, Infrastructure and Transport | 必备 | Required license |
-| Railway Vehicle Maintenance Technician | Human Resources Development Service of Korea | 可选 | Optional certification, preferred |
+| 铁路车辆驾驶执照（一级） | 国土交通省 | 必备 | 所需执照 |
+| 铁路车辆维修技术员 | 韩国人力资源开发服务局 | 可选 | 可选认证，优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. Expansion of railway networks and retirement due to aging population are expected to maintain mid- to long-term demand.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。铁路网络扩张和人口老龄化导致的退休预计将维持中长期需求。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional who operates railway vehicles to safely transport passengers or f
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Starting salary based on KORAIL standards |
-| Mid-level (4–10 years) | $50,000,000~$65,000,000 | 随经验增加 |
-| 资深（10年以上） | $70,000,000~$90,000,000 | Includes high-speed train drivers |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 起薪按KORAIL标准执行 |
+| 中级（4-10年） | $50,000,000~$65,000,000 | 随经验增加 |
+| 资深（10年以上） | $70,000,000~$90,000,000 | 包括高速列车司机 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some driving tasks, but safety judgment and emergency response require humans, so full replacement is difficult.
+AI和自动化可替代部分驾驶任务，但安全判断和应急响应仍需人类，完全替代困难。
 
-Career progression from junior driver to high-speed train driver or management position possible.
+从初级司机到高铁司机或管理职位的职业晋升是可能的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple driving on fixed sections
-- Automatic announcement of stopping stations
-- Automatic speed control
+- 固定路段简单驾驶
+- 自动报站
+- 自动速度控制
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Emergency response judgment
-- Train status monitoring
-- Passenger safety management
+- 应急响应判断
+- 列车状态监控
+- 乘客安全管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency judgment ability
-- Handling complex situations
-- Assuming legal responsibility
+- 应急判断能力
+- 处理复杂情况
+- 承担法律责任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI systems
-- Emergency response training
-- Data analysis
+- 理解AI系统
+- 应急响应培训
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-speed rail
-- Safe operation
-- Railroad network expansion
-- Digital signal
+- 高速铁路
+- 安全操作
+- 铁路网络扩建
+- 数字信号
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled train drivers, requires employer request |
-| Subclass F-2 (Residence) | Convertible after long-term residence, pre-permanent residency stage |
-| Subclass F-5 (Permanent Residence) | Acquirable for permanent residency, long-term stay status |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who values rules and safety
-- Someone with excellent long-term concentration
-- Someone with strong responsibility
+- 重视规则和安全的人
+- 具有出色长期专注力的人
+- 责任心强的人
 
 **谁不适合**
-- Someone who dislikes change
-- Someone with a hasty personality
+- 不喜欢变化的人
+- 性格急躁的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the starting salary for a train driver?**
-答：About 35-45 million KRW based on Korail standards, can exceed 70 million KRW with experience.
+**问：火车司机的起薪是多少？**
+答：基于韩国铁道公社标准约3500-4500万韩元，有经验者可超过7000万韩元。
 
-**问：Can foreigners work as train drivers?**
-答：Possible with an E-7 visa, but Korean language skills and a railroad driving license are required, along with an employer recommendation.
+**问：外国人可以担任火车司机吗？**
+答：可能持有E-7签证，但需要韩语技能、铁路驾驶执照以及雇主推荐。
 
-**问：What educational background is needed to become a train driver?**
-答：A high school diploma or higher is acceptable, and completing railroad-related courses or training programs is advantageous.
+**问：成为火车司机需要什么学历？**
+答：接受高中及以上学历，完成铁路相关课程或培训项目者优先。
 
 
 ---
@@ -142,12 +135,12 @@ Career progression from junior driver to high-speed train driver or management p
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/railway-train-driver/KR)**

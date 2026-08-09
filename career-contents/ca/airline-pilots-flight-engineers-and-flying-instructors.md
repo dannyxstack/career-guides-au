@@ -53,8 +53,6 @@ Canadian pilot profession, involved in commercial aviation, cargo, and charter f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The pilot profession faces mixed impacts from AI: automation can take over routine tasks like cruise monitoring, but takeoff/landing decisions, emergency handling, and complex weather operations still require human judgment, with licenses and safety responsibilities forming a moat.
-
 Pilot career path: First Officer → Captain → Training Captain/Checker. Major airlines (e.g., Air Canada) typically recruit experienced First Officers from regional airlines. After retirement, can transition to flight instructor or aviation management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Pilot career path: First Officer → Captain → Training Captain/Checker. Major
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for pilots with job offers |
 | Subclass Closed WP (Employer-specific Work Permit) | Start with an LMIA work permit, then transition to immigration, common with direct airline sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Australia and Canada have a mutual recognition agreement, but you need to pas
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-pilots-flight-engineers-and-flying-instructors/CA)**

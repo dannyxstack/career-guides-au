@@ -4,8 +4,6 @@
 
 A professional research position that scientifically studies the structure, evolution, acquisition, and social functions of human language. It covers various subfields such as phonetics, syntax, and semantics, and analyzes language data in academia and industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional research position that scientifically studies the structure, evol
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates data collection, preprocessing, and statistical analysis in linguistic research to improve efficiency, but understanding the sociocultural context of language and building theories remain human tasks. The field of natural language processing has actually expanded the role of linguists.
-
 After obtaining a master's or doctoral degree, one typically advances into positions at universities, national research institutes, or corporate labs. Career progression includes roles such as research lead, professor, or data scientist, and ties to the AI field are advantageous for promotion and career expansion.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After obtaining a master's or doctoral degree, one typically advances into posit
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professionals in research or technical fields, possible when meeting degree and experience requirements |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, research activities allowed |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: With AI development increasing demand for language data, the outlook is posit
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/linguistics-researcher/KR)**

@@ -53,8 +53,6 @@ Responsible for the daily operational management of a stud farm or equestrian fa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can be promoted from stable foreman or equestrian instructor to supervisor, then to operations manager or regional manager. Further study in agricultural economics or business management can lead to broader management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted from stable foreman or equestrian instructor to supervisor, then
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a job offer from a German employer and have qualifications recognized |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allows entering the country first to find a job |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to operations manager, regional manager, or through continuing ed
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-horse-industry/DE)**

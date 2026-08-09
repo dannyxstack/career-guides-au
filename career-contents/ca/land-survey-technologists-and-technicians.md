@@ -52,8 +52,6 @@ The corresponding occupation for cartographer in Canada is land survey technicia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation on land surveying technicians and technologists is mixed: physical tasks like field data collection are less replaceable, but indoor drafting and data processing are being accelerated by AI; competition for entry-level jobs intensifies, but demand for high-skilled roles grows.
-
 Can progress from junior technician to senior technician or team leader; with experience, can obtain a licensed surveyor certification (CLS) and move to higher-level surveying projects or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior technician to senior technician or team leader; with ex
 | Subclass PNP (Provincial Nominee Program) | Extra points through provincial nominations (e.g., Ontario, BC); provinces have demand for surveying technicians |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for employer sponsorship in the Atlantic provinces |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a 2-year college diploma or 4-year bachelor's degree in su
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/land-survey-technologists-and-technicians/CA)**

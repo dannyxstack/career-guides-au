@@ -54,8 +54,6 @@ In Germany, aged care workers care for the elderly, including daily living assis
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
-
 Can start as a general aged care worker, progress through continuing education to become a professional care specialist (Fachkraft), then advance to care manager (Pflegedienstleitung) or nursing home administration. Can also specialize in areas like geriatric psychiatry nursing.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can start as a general aged care worker, progress through continuing education t
 | Subclass Skilled Worker (Skilled Worker Visa) | For those who have completed a recognised vocational training or degree in Germany, employer sponsorship required |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa allowing job search in Germany; nursing sector bonus points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can further study to become nursing supervisor, nursing home manager, or spec
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geriatric-nurse-without-specialization/DE)**

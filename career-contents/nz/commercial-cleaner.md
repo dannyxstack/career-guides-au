@@ -52,8 +52,6 @@ Commercial cleaning in New Zealand involves cleaning and hygiene maintenance in 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-High risk of automation in commercial cleaning; AI and robots will replace most repetitive cleaning tasks, significantly compressing entry-level positions, but on-site management and specialty cleaning still require humans.
-
 Career development path is limited: can advance from junior cleaner to supervisor or manager, or specialize in specific cleaning (e.g., carpet cleaning, medical cleaning). A few start their own cleaning companies, but require management skills and capital.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career development path is limited: can advance from junior cleaner to superviso
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Limited advancement opportunities; can progress to team leader, supervisor, o
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-cleaner/NZ)**

@@ -53,8 +53,6 @@ Directly supervise and coordinate the activities of production and operations wo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI will automate data recording and scheduling tasks, but on-site decision-making and interpersonal coordination remain a moat; the role is a mixed bag overall.
-
 Promotion from production line worker to supervisor is a common path; with experience, can advance to production manager or plant manager. Skill training or a management degree is advantageous.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Promotion from production line worker to supervisor is a common path; with exper
 | Subclass L-1 (L-1 Intracompany Transferee) | Intracompany transfer, applicable to management or specialized knowledge employees with overseas branch experience. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card process, proving no qualified US workers available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Career progression to Production Manager, Plant Manager, or Operations Direct
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-production-and-operating-workers/US)**

@@ -53,8 +53,6 @@ Responsible for monitoring and regulating road traffic flow, managing traffic si
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will take over routine monitoring and data collection tasks, but human decision-making in emergency response and complex traffic coordination remains solid, shifting job focus to higher-level system optimization and anomaly management.
-
 Can progress from traffic monitor to team supervisor or traffic management center manager, or move to higher technical roles such as intelligent transportation system planning or traffic data analysis.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from traffic monitor to team supervisor or traffic management cente
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Yes. Can progress from surveillance operator to team supervisor, traffic mana
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traffic-control-and-surveillance-officer/DE)**

@@ -1,10 +1,8 @@
-# Transmission Line Stringing/Laying Worker 职业分析 · 日本
+# 输电线路架设/铺设工人（Transmission Line Stringing/Laying Worker）职业分析 · 日本
 
-**职业代码: 671 (JSCO)**
+**职业代码：671 (JSCO)**
 
-An electrical specialist who performs stringing, cable laying, and maintenance inspections on high-voltage transmission line towers. Involves extensive work at heights, making safety management critically important.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在高压输电线路塔上进行架线、电缆铺设和维护检查的电气专家。涉及大量高空作业，安全管理至关重要。
 
 
 ---
@@ -13,8 +11,8 @@ An electrical specialist who performs stringing, cable laying, and maintenance i
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school or training college after high school graduation | 1 to 2 years | $1,000,000~$2,000,000（Tuition for electrical engineering or facility engineering courses） |
-| On-the-job training through practical experience | 3 to 5 years | $0~$500,000（Training fees for obtaining certifications, etc.） |
+| 高中毕业后上职业学校或培训学院 | 1至2年 | $1,000,000~$2,000,000（电气工程或设施工程课程学费） |
+| 通过实践经验在职培训 | 3至5年 | $0~$500,000（获取认证等的培训费用） |
 
 ---
 
@@ -22,18 +20,18 @@ An electrical specialist who performs stringing, cable laying, and maintenance i
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Aerial Work Vehicle Operation Skills Training | Prefectural Labor Bureau | 必备 | Required to operate aerial work platforms. |
-| Electrician (Class 1 and Class 2) | Ministry of Economy, Trade and Industry | 可选 | Not mandatory but advantageous. Class 1 allows work on high-voltage systems. |
-| Slinging Skills Training for Transmission Line Work | Prefectural Labor Bureau | 可选 | Required for crane operation. |
+| 高空作业车操作技能培训 | 县级劳动局 | 必备 | 操作高空作业平台所需。 |
+| 电工（一级和二级） | 经济产业省 | 可选 | 非强制但有利。一级证书可从事高压系统工作。 |
+| 输电线路工作吊装技能培训 | 县级劳动局 | 可选 | 操作起重机所需。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 45,000. Demand is steady due to renewable energy expansion and aging infrastructure upgrades. However, high turnover rates and chronic labor shortages make recruiting younger workers a challenge.
+**职位需求量：很高（★★★★½）** 全国从业人数约 45,000。由于可再生能源扩张和基础设施老化升级，需求稳定。但高流动率和长期劳动力短缺使招聘年轻员工成为挑战。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,85 @@ An electrical specialist who performs stringing, cable laying, and maintenance i
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,000,000~$4,000,000 | Approx. JPY 4 million annually including overtime |
-| Mid-Level (3–10 years) | $4,500,000~$6,000,000 | Increases with certifications and experience |
-| Senior Level (10+ years) | $6,000,000~$8,000,000 | Around JPY 7 million for crew leader class |
+| 入门级（0–3年） | $3,000,000~$4,000,000 | 含加班费约每年400万日元 |
+| 中级（3-10年） | $4,500,000~$6,000,000 | 随着认证和经验增加而提高 |
+| 高级（10年以上） | $6,000,000~$8,000,000 | 领班级别约700万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation have limited impact. Many tasks require human judgment and dexterity (e.g., high-altitude work, cable connections), but inspection drones and IoT remote monitoring are being introduced.
+AI和自动化影响有限。许多任务需要人工判断和灵巧性（如高空作业、电缆连接），但巡检无人机和物联网远程监控正在引入。
 
-Starting as an apprentice, progress to crew leader/supervisor through hands-on experience and certifications. Typical career path within construction or power companies.
+从学徒做起，通过实践经验和认证晋升为组长/主管。典型的职业路径在建筑或电力公司内。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine inspection work
-- Simple cable laying
+- 例行检查工作
+- 简单电缆敷设
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone-based tower inspection
-- AI-driven failure prediction
-- Use of wearable cameras
+- 基于无人机的塔架检查
+- AI驱动的故障预测
+- 使用可穿戴摄像头
 
-**人类护城河:**
+**人类护城河：**
 
-- Skilled high-altitude work techniques
+- 熟练的高空作业技术
 - On-site situational judgment
-- Safety management expertise
+- 安全管理专业知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Drone operation skills
-- Handling digital measuring instruments
-- Electrical theory and practical knowledge
-- Health and safety management
+- 无人机操作技能
+- 处理数字测量仪器
+- 电气理论与实务知识
+- 健康与安全管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Aging infrastructure replacement
-- Smart grid
-- High-altitude work
+- 可再生能源
+- 老化的基础设施更换
+- 智能电网
+- 高空作业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and practical experience. Applicable to jobs requiring specialized knowledge of electrical work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Requires passing skill and Japanese language exams in the construction field. Residency period up to 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | Transfers from (i). For skilled workers, allows family accompaniment and permanent residency. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People comfortable with heights and physical labor
-- Team-oriented with high safety awareness
-- Interested in electricity/machinery and seeking trade skills
+- 不惧高且适应体力劳动的人
+- 注重团队合作，安全意识强
+- 对电力/机械感兴趣并寻求职业技能
 
 **谁不适合**
-- People with acrophobia
-- Those preferring desk work
+- 恐高症患者
+- 偏好案头工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of transmission line stringing and laying workers?**
-答：Depends on experience: entry-level 3-4M JPY, mid-level 4.5-6M JPY, skilled 6-8M JPY. Often includes overtime pay and various allowances.
+**问：输电线架线工人的年收入是多少？**
+答：视经验而定：入门级300-400万日元，中级450-600万日元，熟练级600-800万日元。通常包含加班费和各种津贴。
 
-**问：What visa is required for foreigners to work in this occupation in Japan?**
-答：This mainly applies to 'Engineer/Specialist in Humanities/International Services' or 'Specified Skilled Worker (Construction).' Specified Skilled Worker (i) requires passing skills and Japanese language exams, with a maximum stay of 5 years. Moving to category (ii) allows family accompaniment and permanent residency.
+**问：外国人在日本从事该职业需要什么签证？**
+答：这主要适用于'人文/国际服务领域的工程师/专家'或'特定技能工人（建筑）'。特定技能工人（i）需通过技能和日语考试，最长停留5年。转为（ii）类可携带家属并申请永久居留。
 
-**问：Please tell me the career advancement path in this occupation.**
-答：Starting as an apprentice, you gain experience and certifications (e.g., electrician, crane operation) to advance to team leader or site supervisor. Opportunities also exist in management at major power companies/general contractors, or as an independent business owner.
+**问：请告诉我这个职业的职业发展路径。**
+答：从学徒做起，积累经验并获得认证（如电工、起重机操作），进而晋升为组长或现场主管。也有机会在大型电力公司/总承包商的管理岗位或自主创业。
 
 
 ---
@@ -145,12 +135,12 @@ Starting as an apprentice, progress to crew leader/supervisor through hands-on e
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transmission-line-stringing-laying-worker/JP)**

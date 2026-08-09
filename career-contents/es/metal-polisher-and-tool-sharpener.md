@@ -51,8 +51,6 @@ Responsible for metal surface polishing, grinding, and tool sharpening, operatin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Metal polishers and tool sharpeners face moderate risks from AI automation; some tasks can be replaced by robots or AI, but skill demand is rising rather than decreasing, requiring the integration of CNC and intelligent tools to enhance competitiveness.
-
 You can start as an apprentice or operator, and after accumulating experience, be promoted to senior polishing technician, quality inspector, or section leader. Some personnel can transition through continuing education to become CNC machine operator or mold engineer.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can start as an apprentice or operator, and after accumulating experience, b
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled locally and is suitable for experienced skilled workers. |
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but this profession usually pays below the threshold and is rarely used. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Mainly through employer-sponsored work residency (Cuenta ajena). A contract w
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-polisher-and-tool-sharpener/ES)**

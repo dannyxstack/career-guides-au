@@ -4,8 +4,6 @@
 
 Paramedics provide emergency medical care and transport patients to medical facilities, forming a key part of the pre-hospital emergency system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Paramedics provide emergency medical care and transport patients to medical faci
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some non-clinical tasks of ambulance officers (e.g., record keeping, dispatch communication) are easily assisted or replaced by AI, but core emergency assessment and care operations rely on human judgment and tactile skills; AI enhances rather than replaces. Overall risk is manageable, but entry-level positions may decrease due to AI streamlining processes.
-
 Practitioners can advance to senior paramedic, team leader, or emergency dispatcher, and can also become nurses or emergency medicine specialists through further study.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Practitioners can advance to senior paramedic, team leader, or emergency dispatc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talents, must meet the salary threshold (approximately €4,500/month in 2024). |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to non-EU skilled migrants with employer sponsorship, salary threshold approximately €3,672/month (under 30 years old) |
-| Subclass Orientation Year (Orientation Year) | Open to graduates of Dutch universities or global top 200 universities; valid for one year for job seeking. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Usually requires completing MBO-level ambulance attendant training (3 years),
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-worker/NL)**

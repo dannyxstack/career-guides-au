@@ -53,8 +53,6 @@ Teach sociology courses at higher education institutions, including teaching and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI both compresses some teaching and research tasks and amplifies output capacity through data analysis and automation tools; sociology professors need to proactively transform to balance risks and opportunities.
-
 Career progression: Assistant Professor → Associate Professor → Full Professor, or transition to research institutions/government. Tenure requires high-quality research publications.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression: Assistant Professor → Associate Professor → Full Profess
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to scholars with outstanding research achievements |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for a green card through labor certification; employer must prove inability to find qualified US workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually enter via H-1B visa (university cap-exempt), then apply for green car
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sociology-teachers-postsecondary/US)**

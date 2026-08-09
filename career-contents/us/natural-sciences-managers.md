@@ -53,8 +53,6 @@ Natural sciences managers plan and direct activities in life sciences, physical 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For natural sciences managers, AI will not replace core management duties but will significantly enhance research coordination, data analysis, and resource allocation efficiency; barriers to entry increase rather than decrease.
-
 Typically starts as a researcher or scientist, accumulates 5-10 years of experience, then advances to project manager or department head, and further to senior director or vice president. A PhD and interdisciplinary background aid advancement.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically starts as a researcher or scientist, accumulates 5-10 years of experie
 | Subclass EB-3 (Employment-Based Third Preference) | Green card pathway, applicable to bachelor's degree or experience. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to managers with outstanding achievements |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires at least a bachelor's degree in natural sciences, but a mast
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-sciences-managers/US)**

@@ -1,8 +1,8 @@
-# Electric·Electronic Equipment Operator 职业分析 · 韩国
+# 电气·电子设备操作员（Electric·Electronic Equipment Operator）职业分析 · 韩国
 
-**职业代码: 83401 (KECO)**
+**职业代码：83401 (KECO)**
 
-A job that operates, monitors, and controls electrical and electronic equipment in power plants, substations, factories, etc., to maintain stable power supply and equipment efficiency.
+操作、监控和控制发电厂、变电站、工厂等场所的电气和电子设备，以维持稳定供电和设备效率的工作。
 
 
 ---
@@ -11,8 +11,8 @@ A job that operates, monitors, and controls electrical and electronic equipment 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Completion of high school industrial track） |
-| Junior college electrical engineering department | 2 年 | $1,000,000~$1,500,000（Including practice fees） |
+| 高中毕业 | 3年 | $0~$0（完成高中工业课程） |
+| 大专电气工程系 | 2 年 | $1,000,000~$1,500,000（包括执业费用） |
 
 ---
 
@@ -20,17 +20,17 @@ A job that operates, monitors, and controls electrical and electronic equipment 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician Technician | Human Resources Development Service of Korea | 必备 | Basic required certification |
-| Industrial Engineer Electricity | Human Resources Development Service of Korea | 可选 | Advantageous for promotion and employment |
+| 电工技师 | 韩国人力资源开发服务局 | 必备 | 基础认证要求 |
+| 工业电气工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升和就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 62,000. Demand for equipment modernization is increasing due to the expansion of renewable energy and the introduction of smart grids, but new hiring is expected to stagnate due to automation and remote control.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 62,000。由于可再生能源扩张和智能电网引入，设备现代化需求增加，但因自动化和远程控制，新招聘预计停滞。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -38,87 +38,81 @@ A job that operates, monitors, and controls electrical and electronic equipment 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$34,000,000 | Before tax |
-| 中级（4-9年） | $35,000,000~$45,000,000 | Before tax |
-| Advanced (10+ years) | $46,000,000~$58,000,000 | Before tax, higher with certification |
+| 初级（0-3年） | $28,000,000~$34,000,000 | 税前 |
+| 中级（4-9年） | $35,000,000~$45,000,000 | 税前 |
+| 高级（10年以上） | $46,000,000~$58,000,000 | 税前，有认证更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists in monitoring and control tasks, but human judgment is essential for on-site safety and complex diagnostics. Full automation is difficult, so collaboration with AI will occur.
+AI协助监控和控制任务，但现场安全和复杂诊断需要人类判断。完全自动化困难，因此将与AI协作。
 
-Promotes from beginner to skilled worker/section chief, and can grow to foreman/factory manager after obtaining technical certifications (e.g., Master Electrician), but mainly in small and medium-sized enterprises rather than large corporations.
+从初学者晋升为熟练工/部门主管，获得技术认证（如高级电工）后可成长为工头/工厂经理，但主要在中小企业而非大公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple power monitoring
-- Regular inspection record writing
-- Repetitive operation of fixed specifications
+- 简单电力监控
+- 常规检查记录编写
+- 固定规格的重复操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Accident prediction diagnosis
-- Smart grid optimal control
-- Energy efficiency analysis
+- 事故预测诊断
+- 智能电网优化控制
+- 能源效率分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency on-site judgment ability
-- Problem solving based on equipment maintenance experience
+- 紧急现场判断能力
+- 基于设备维护经验的问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based predictive maintenance
-- Big data analysis
-- Certification (Electrical Engineer or higher)
+- 基于AI的预测性维护
+- 大数据分析
+- 认证（电气工程师或以上）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart grid
-- Renewable energy operation
-- Remote control
-- Electric vehicle charging infrastructure
+- 智能电网
+- 可再生能源运营
+- 远程控制
+- 电动汽车充电基础设施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires employment permit as skilled worker, 5+ years of experience in electrical/electronic field |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited availability for non-professional workers in factories under the Employment Permit System |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong interest in machinery and electrical fields
-- Those who can tolerate night shifts and shift work
-- People with a meticulous safety awareness
+- 对机械和电气领域有浓厚兴趣的人
+- 能适应夜班和轮班工作的人
+- 具有细致安全意识的人
 
 **谁不适合**
-- Those who get bored with simple repetitive tasks
-- Those who do not prioritize practice over theory
+- 对简单重复任务感到厌倦的人
+- 不重视实践胜过理论的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Starting salary for entry-level (0~3 years) is 28-34 million KRW annually before tax, with possible night shift and certification allowances.
+**问：起薪是多少？**
+答：初级（0~3年）起薪为税前2800-3400万韩元/年，可能有夜班和认证津贴。
 
-**问：Can foreigners work here?**
-答：Yes. Skilled workers (E-7 visa) with over 5 years of experience and technical certifications can apply; E-9 (Non-professional Employment) is also partially available.
+**问：外国人能在这里工作吗？**
+答：可以。拥有5年以上经验和技术认证的技能工人（E-7签证）可以申请；E-9（非专业就业）也部分可用。
 
 
 ---
@@ -136,12 +130,12 @@ Promotes from beginner to skilled worker/section chief, and can grow to foreman/
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electricelectronic-equipment-operator/KR)**

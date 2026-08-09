@@ -55,8 +55,6 @@ Physiotherapists treat musculoskeletal, neurological and cardiopulmonary conditi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
-
 Sports physiotherapy (NRL/AFL/NBL and other professional leagues) and aged care physiotherapy are the fastest-growing areas. Telehealth physiotherapy expanded rapidly after COVID, creating new employment models.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Sports physiotherapy (NRL/AFL/NBL and other professional leagues) and aged care 
 | Subclass 190 (Skilled Nominated) | State nomination, with priority for rural healthcare facilities |
 | Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Nursing has higher job volume (Seek ~10,000+ vs physiotherapy ~2,500), and PR
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/AU)**

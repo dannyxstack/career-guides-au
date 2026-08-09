@@ -53,8 +53,6 @@ Responsible for the daily feeding, grazing, health management, and breeding of s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 You can be promoted from ordinary livestock farmer to ranch supervisor, or run a small ranch independently. After gaining experience, you can obtain veterinary technical certification or transition to agricultural enterprise management.
 
 **Tasks most exposed to AI:**
@@ -100,15 +98,9 @@ You can be promoted from ordinary livestock farmer to ranch supervisor, or run a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by a local resident. Suitable for long-term employment. |
-| Subclass Altamente cualificad (High-skilled professional (Ley 14/2013)) | If you have a bachelor's degree or above, you can apply for a highly skilled worker visa, which is a faster process. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +144,12 @@ A: If you hold an overseas relevant degree, you need to obtain degree recognitio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-sheep-and-goat-herder/ES)**

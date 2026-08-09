@@ -52,8 +52,6 @@ Italian lawyers provide legal advice, represent clients in litigation, and draft
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 Start as a trainee lawyer (praticante), after a 2-year internship pass the qualification exam to become a licensed lawyer, with opportunities to advance to partner or specialize in fields such as corporate or criminal law.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Start as a trainee lawyer (praticante), after a 2-year internship pass the quali
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires university degree and work contract, annual salary threshold approx. 40,000 euros. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU citizens, requires employer sponsorship through annual quota application. |
-| Subclass Autonomous Work Visa (Autonomous Work Visa) | Applicable to freelancers (e.g., independent lawyers), requiring a business plan and proof of income. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: High difficulty, requires completing internship and passing national exam; pa
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyer/IT)**

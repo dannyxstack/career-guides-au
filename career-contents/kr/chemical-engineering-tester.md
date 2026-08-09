@@ -50,8 +50,6 @@ A professional who tests and analyzes the quality of chemical products and suppo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation can replace standardized testing and analysis tasks, but data interpretation and unstructured problem-solving will remain human roles.
-
 Starting as a junior tester, one can advance to analysis team leader, lab manager, or quality control manager with experience; transitioning to R&D roles is possible with a master's or doctoral degree.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a junior tester, one can advance to analysis team leader, lab manage
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed at a Korean company as a skilled chemical engineering tester; requires a bachelor's degree and relevant experience |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay, based on a points system |
-| Subclass D-10 (Job Seeking) | Used by international students after graduation for job hunting; switch to E-7 upon employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A Chemical Analysis Technician or Chemical Engineering Technician certificati
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineering-tester/KR)**

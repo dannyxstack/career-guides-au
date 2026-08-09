@@ -52,8 +52,6 @@ Early childhood education teachers care for and teach preschool and kindergarten
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Early childhood education teacher role affected by AI: mixed outlook - administrative tasks automated, but teaching care nature enhanced; industry demand stable, requiring AI tool usage and emotional education skills.
-
 Can advance from junior teacher to senior teacher, curriculum coordinator, or nursery manager, and can also transition to special education or early childhood education consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from junior teacher to senior teacher, curriculum coordinator, or nu
 | Subclass Graduate (Graduate visa) | UK graduates can apply for a 2-year Graduate Visa, then switch to a Skilled Worker Visa after gaining work experience |
 | Subclass Youth Mobility Schem (Youth Mobility Scheme visa) | Eligible national youth can apply for this visa to work in the UK for 2 years, suitable for early career exploration |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior teacher, early childhood education consultant, childcar
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursery-education-teaching-professionals/UK)**

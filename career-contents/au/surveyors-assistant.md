@@ -54,8 +54,6 @@ Surveyor assistants assist surveyors in land surveying and measurement work, inc
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Survey assistant work involves outdoor physical work and data recording; AI cannot fully replace on-site operations, but data collation and report generation will be significantly automated, shifting the role towards technical support and client communication.
-
 Usually start as an assistant, gain experience to advance to senior surveyor assistant or surveying technician. To further progress, can pursue a university degree to become a Licensed Surveyor, with higher salary and career autonomy.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as an assistant, gain experience to advance to senior surveyor ass
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Employers in remote areas may sponsor, but must prove inability to recruit locally. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements may cover this occupation with flexible conditions. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a 4-year university-accredited bachelor's degree in surveyin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surveyors-assistant/AU)**

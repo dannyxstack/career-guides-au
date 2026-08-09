@@ -1,10 +1,8 @@
-# Stenographer 职业分析 · 韩国
+# 速记员（Stenographer）职业分析 · 韩国
 
-**职业代码: 02992 (KECO)**
+**职业代码：02992 (KECO)**
 
-A professional who records and transcribes speech in real time at meetings, courtrooms, broadcasts, etc., where accuracy and speed are key.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在会议、法庭、广播等场合实时记录和转录语音的专业人士，准确性和速度是关键。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who records and transcribes speech in real time at meetings, cour
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of stenography at a vocational college | 2 年 | $8,000,000~$12,000,000（Based on national/public universities; private universities are more expensive） |
-| Attending an academy to obtain a stenographer certificate | 1年 | $5,000,000~$8,000,000（Including academy and practicum fees） |
+| 职业技术学院速记系 | 2 年 | $8,000,000~$12,000,000（基于国立/公立大学；私立大学更贵） |
+| 参加培训获得速记员证书 | 1年 | $5,000,000~$8,000,000（包括学院和实习费用） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who records and transcribes speech in real time at meetings, cour
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Stenographer Certificate Level 1 from the Korea Stenographers Association | Korea Stenographers Association | 必备 | Essential for stenographer employment |
-| Word Processor Level 1 | Korea Chamber of Commerce and Industry | 可选 | Demonstrates document creation skills |
-| Computer Literacy Level 1 | Korea Chamber of Commerce and Industry | 可选 | Improves work efficiency |
+| 韩国速记协会一级速记员证书 | 韩国速记协会 | 必备 | 速记员就业必需 |
+| 文字处理一级 | 大韩商工会议所 | 可选 | 展示文档创建技能 |
+| 计算机素养一级 | 大韩商工会议所 | 可选 | 提高工作效率 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 4,300. With the advancement of AI voice recognition technology, automated transcription is expanding, leading to a slight decrease in employment, but demand is expected to remain in fields requiring high accuracy, such as courts and the National Assembly.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 4,300。随着AI语音识别技术的进步，自动转录正在扩展，导致就业略有下降，但在需要高准确性的领域（如法院和国会）需求预计仍将存在。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional who records and transcribes speech in real time at meetings, cour
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Based on office stenographer |
-| 中级（4-7年） | $32,000,000~$40,000,000 | Freelance income increases with experience |
-| 高级（8年+） | $40,000,000~$55,000,000 | Court and National Assembly stenographers may earn more |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于办公室速记员 |
+| 中级（4-7年） | $32,000,000~$40,000,000 | 自由职业收入随经验增长 |
+| 高级（8年+） | $40,000,000~$55,000,000 | 法院和国民议会速记员可能收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-As AI voice recognition and automatic stenography technology rapidly develop, simple minutes writing tasks are being replaced, and employment size is shrinking. However, in court and National Assembly stenography where accuracy and legal responsibility are crucial, human stenographers are still needed, making full replacement difficult.
+随着人工智能语音识别和自动速记技术的快速发展，简单的会议记录任务被取代，就业规模缩小。但在法庭和国会速记等对准确性和法律责任要求高的领域，人类速记员仍然需要，完全替代困难。
 
-After building a career in office work or broadcasting/legal fields, one can transition to a professional stenographer; freelancing or starting a transcription company is also possible with experience.
+在办公室工作或广播/法律领域建立职业生涯后，可以转型为专业速记员；有经验后也可自由职业或创办转录公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple minutes writing
-- Speech recording in general offices
-- Stenography in low-level settings
+- 简单的会议记录
+- 在普通办公室进行语音记录
+- 低级环境中的速记术
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI stenography correction and supplementation
-- High-precision court stenography records
-- Real-time broadcast subtitle generation supervision
+- AI速记修正与补充
+- 高精度法庭速记记录
+- 实时广播字幕生成监督
 
-**人类护城河:**
+**人类护城河：**
 
-- Accuracy entailing legal responsibility
-- Ability to interpret non-verbal information
-- Ability to handle emergency situations
+- 准确性涉及法律责任
+- 解读非语言信息的能力
+- 处理紧急情况的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI stenography tool operation skills
-- Data analysis and verification skills
-- Specialized field knowledge (law, medicine, etc.)
+- AI速记工具操作技能
+- 数据分析与验证技能
+- 专业领域知识（法律、医学等）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Court stenography
-- Broadcast subtitles
-- Minutes writing
-- AI stenography
+- 法庭记录
+- 广播字幕
+- 会议纪要撰写
+- AI速记
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed at a foreign company or institution as a professional stenographer, but not common |
-| Subclass F-2 (Residence) | Possible after obtaining permanent residence |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work as stenographers, but rare on work visas |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with fast and accurate typing speed
-- People with high concentration and attention to detail
-- People interested in real-time transcription
+- 打字速度快且准确的人
+- 高专注力和注重细节的人
+- 对实时转录感兴趣的人
 
 **谁不适合**
-- People who make frequent typos and are not meticulous
-- People who dislike static office environments
+- 频繁打错字且不细心的人
+- 不喜欢静态办公室环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary range for a stenographer?**
-答：Approximately 24-30 million KRW before tax for entry-level, 40-55 million KRW for experienced professionals. Court stenography and other specialized fields may be higher.
+**问：速记员的年薪范围是多少？**
+答：初级岗位约2400-3000万韩元（税前），有经验者4000-5500万韩元。法庭速记等专业领域可能更高。
 
-**问：Can foreigners work as stenographers in Korea?**
-答：Generally, E-7 visa employment is possible, but Korean language skills and stenography certification are essential, and hiring cases are very rare. It is mainly limited to F-2 and F-4 visa holders.
+**问：外国人能在韩国担任速记员吗？**
+答：通常可通过E-7签证就业，但韩语能力和速记认证必不可少，且雇佣案例极少。主要限于F-2和F-4签证持有者。
 
-**问：Could AI replace stenographers?**
-答：With the development of AI voice recognition technology, replacement is underway in general meeting stenography, but human stenographers will still be needed in fields where errors are not tolerated, such as courts and the National Assembly.
+**问：AI能取代速记员吗？**
+答：随着AI语音识别技术的发展，一般会议速记正在被取代，但在法院和国会等不允许出错的领域，仍需要人工速记员。
 
 
 ---
@@ -145,12 +135,12 @@ After building a career in office work or broadcasting/legal fields, one can tra
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/stenographer/KR)**

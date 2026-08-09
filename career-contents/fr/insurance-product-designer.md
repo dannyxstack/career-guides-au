@@ -52,8 +52,6 @@ Insurance product designers are responsible for researching, designing, and deve
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Promotion paths range from junior product designer to senior product manager, then to product director or chief insurance officer. You can pivot laterally to actuarial, risk management, or insurtech consulting. Major French insurers (AXA, Allianz) and mutual insurance organizations offer excellent development opportunities.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Promotion paths range from junior product designer to senior product manager, th
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled employees, suitable for jobs with an annual salary ≥ 40,000 euros, allowing quick access to 4-year residency |
-| Subclass Salarié (Salarié (Employee Work Permit)) | A standard work visa, requiring employer sponsorship, applicable to long-term contracts, usually earns no less than 1.5 times the French minimum wage |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, annual salary ≥ 53,500 euros (2024 standard), and family members are allowed |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Actuarial or statistical modeling skills, market analysis, product pricing, c
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-product-designer/FR)**

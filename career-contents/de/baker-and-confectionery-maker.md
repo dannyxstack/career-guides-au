@@ -54,8 +54,6 @@ Bakers and pastry chefs produce bread, cakes, cookies, desserts and other baked 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
-
 Junior bakers can become skilled workers (Geselle) through dual-system training, then pursue Master Baker (Meister) certification to open independent bakeries or become production supervisors. Some transition to food R&D, training schools, or management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior bakers can become skilled workers (Geselle) through dual-system training,
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing entry to seek work without a job offer, valid for 1 year, requires basic German language skills. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to find work, requires proof of financial means and German A1 level. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Main pathway: complete 3-year dual vocational training (Ausbildung), studying
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker-and-confectionery-maker/DE)**

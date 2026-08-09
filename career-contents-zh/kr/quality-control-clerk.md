@@ -1,10 +1,8 @@
-# Quality Control Clerk 职业分析 · 韩国
+# 质量控制员（Quality Control Clerk）职业分析 · 韩国
 
-**职业代码: 02842 (KECO)**
+**职业代码：02842 (KECO)**
 
-A professional who manages quality standards in the manufacturing process, analyzes inspection data, and maintains/improves product quality.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责管理制造过程中的质量标准、分析检测数据并维护/改进产品质量的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who manages quality standards in the manufacturing process, analy
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (Engineering) | 2 年 | $8,000,000~$12,000,000（National/public university standard） |
-| University (Engineering) | 4年 | $18,000,000~$28,000,000（Private university standard, excluding scholarships） |
+| 专科（工程） | 2 年 | $8,000,000~$12,000,000（国立/公立大学标准） |
+| 大学（工程） | 4年 | $18,000,000~$28,000,000（私立大学标准，不含奖学金） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who manages quality standards in the manufacturing process, analy
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Quality Management Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but preferred by large corporations |
-| 六西格玛绿带 | Private certification | 可选 | Additional points for large corporations and public enterprises |
-| ISO 9001 Internal Auditor | International certification body | 可选 | Directly used in work |
+| 质量管理工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但大企业优先考虑 |
+| 六西格玛绿带 | 私人认证 | 可选 | 大型企业和公共企业加分 |
+| ISO 9001内部审核员 | 国际认证机构 | 可选 | 直接用于工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 110,000. Demand is stable due to quality management reinforcement in manufacturing and smart factory expansion driven by the Fourth Industrial Revolution, but some simple inspection tasks are expected to decrease due to automation.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 110,000。由于制造业质量管理强化和第四次工业革命推动的智能工厂扩张，需求稳定，但部分简单检查任务因自动化而预计减少。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ A professional who manages quality standards in the manufacturing process, analy
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$38,000,000 | SME standard, including bonuses |
-| Mid-level (4-9 years) | $40,000,000~$55,000,000 | Manager level, varies by large corporation |
-| 资深（10年以上） | $55,000,000~$75,000,000 | Team leader level, up to 90 million KRW at large corporations |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 中小企业标准，含奖金 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 经理级别，因大型企业而异 |
+| 资深（10年以上） | $55,000,000~$75,000,000 | 团队负责人级别，大公司最高9000万韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation assist with data analysis and inspection tasks, but human roles remain essential for setting quality standards, customer response, and in-depth judgment. While routine recording tasks are replaced, decision-making capabilities become more important.
+人工智能和自动化协助数据分析和检查任务，但人类角色在设定质量标准、客户响应和深入判断方面仍然不可或缺。例行记录任务被取代，但决策能力变得更加重要。
 
-Career path: New employee → Quality Control Assistant Manager → Deputy Manager → Manager → Quality Control Team Leader/Executive; ISO 9001 and Six Sigma certifications are advantageous.
+职业路径：新员工→质量控制助理经理→副经理→经理→质量控制团队负责人/高管；ISO 9001和六西格玛认证具有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual inspection records
-- Simple statistical processing
-- Repetitive pass/fail decisions
+- 手动检查记录
+- 简单统计处理
+- 重复性的通过/不通过决策
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Defect analysis and cause tracing
-- Real-time quality monitoring
-- Process optimization suggestions
+- 缺陷分析与原因追溯
+- 实时质量监控
+- 流程优化建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Consultations with clients
-- Solving unstructured problems
-- Establishing and improving quality systems
+- 客户咨询
+- 解决非结构化问题
+- 建立和改进质量体系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Statistical analysis
-- Data visualization
-- SAP and MES utilization
-- English communication
+- 统计分析
+- 数据可视化
+- SAP与MES应用
+- 英语沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart factory
-- Six Sigma
-- ISO certification
-- Data analysis
+- 智能工厂
+- 六西格玛
+- ISO认证
+- 数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued only to skilled workers in the manufacturing quality control field; Korean language ability and experience required. |
-| Subclass F-2 (Residence (F-2-99)) | Long-term stay possible when converting to point system; advantageous for skilled professionals. |
-| Subclass D-10 (Job Seeking (D-10)) | Stay permitted for job-seeking activities for those with relevant degrees; switch to E-7 after employment. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and analytical individuals
-- Those who continuously update technical knowledge
-- People who value teamwork
+- 注重细节和分析能力的人
+- 持续更新技术知识者
+- 重视团队合作的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who adapt slowly to change
+- 适应变化慢的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a quality control clerk?**
-答：Based on SMEs, pre-tax annual salary ranges from 30 to 38 million KRW; large companies offer 40 million KRW or more.
+**问：质量控制文员的起薪是多少？**
+答：基于中小企业，税前年薪范围为3000万至3800万韩元；大企业提供4000万韩元或以上。
 
-**问：Can foreigners work as quality control clerks?**
-答：It is possible, but E-7 visa issuance requires a related degree and more than one year of experience, and Korean language proficiency is required.
+**问：外国人能否担任质检员？**
+答：有可能，但E-7签证发放需要相关学位和一年以上经验，并要求韩语能力。
 
-**问：What is the required educational background?**
-答：An associate degree or higher in engineering is common, and a quality management engineer certification is advantageous.
+**问：需要什么教育背景？**
+答：通常持有工程副学士或更高学位，拥有质量管理工程师认证更有利。
 
 
 ---
@@ -146,12 +136,12 @@ Career path: New employee → Quality Control Assistant Manager → Deputy Manag
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/quality-control-clerk/KR)**

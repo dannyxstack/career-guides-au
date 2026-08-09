@@ -53,8 +53,6 @@ Responsible for data encoding, text proofreading, information entry, and other a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Administrative clerical tasks such as coding and proofreading are being significantly replaced by AI (e.g., auto-coding, proofreading software), but data quality control and complex contextual judgment still require humans. Overall, the number of positions decreases but quality improves.
-
 Can advance to senior coder, data management supervisor, or transition to data analysis and quality control.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to senior coder, data management supervisor, or transition to data a
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is not on the shortage list and generally cannot apply for Bl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coders-proofreaders-and-related-office-workers/DE)**

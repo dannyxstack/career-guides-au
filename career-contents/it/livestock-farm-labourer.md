@@ -51,8 +51,6 @@ Daily tasks on Italian livestock farms including feeding, cleaning, milking, gra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 Can advance from general worker to team leader or technician; with experience, may start a family farm. Formal training can lead to roles as livestock technical advisor or agricultural manager.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Can advance from general worker to team leader or technician; with experience, m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applies to non-EU seasonal agricultural workers; has annual quota limits; requires employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | Usually requires higher education, less applicable for farm workers |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +142,12 @@ A: Yes, due to an aging workforce and a shortage of young workers, especially in
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-farm-labourer/IT)**

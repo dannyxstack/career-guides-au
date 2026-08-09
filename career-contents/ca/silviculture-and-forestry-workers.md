@@ -53,8 +53,6 @@ Tree planters and forestry workers are responsible for planting, forest maintena
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce demand for foresters and forestry workers, especially in data processing, monitoring, and some physical decision-making tasks. Entry-level positions will become narrower, but complex ecological management and emergency duties will still rely on humans.
-
 Junior workers can progress to team supervisor or forestry technician through experience, with some transitioning to forest resource management or environmental monitoring roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior workers can progress to team supervisor or forestry technician through ex
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as British Columbia and Ontario have forestry-related provincial nominee programs |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | NOC 84111 is TEER 4, usually not eligible for FSW, but may qualify through CEC or PNP with additional points. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from worker to team leader, forestry technician, or forest resou
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/silviculture-and-forestry-workers/CA)**

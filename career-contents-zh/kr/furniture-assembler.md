@@ -1,8 +1,8 @@
-# Furniture Assembler 职业分析 · 韩国
+# 家具装配工（Furniture Assembler）职业分析 · 韩国
 
-**职业代码: 88321 (KECO)**
+**职业代码：88321 (KECO)**
 
-Furniture assemblers are responsible for assembling finished furniture or assembling and installing semi-finished furniture parts on-site.
+家具装配工负责组装成品家具，或在现场组装和安装半成品家具部件。
 
 
 ---
@@ -11,8 +11,8 @@ Furniture assemblers are responsible for assembling finished furniture or assemb
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school graduate or above, no specific major required, OJT-focused） |
-| Skilled Technical Workforce Training | 1年 | $5,000,000~$10,000,000（Government subsidy available） |
+| 高中毕业 | 0年 | $0~$0（高中毕业或以上，无特定专业要求，以在职培训为主） |
+| 熟练技术劳动力培训 | 1年 | $5,000,000~$10,000,000（可申请政府补贴） |
 
 ---
 
@@ -20,17 +20,17 @@ Furniture assemblers are responsible for assembling finished furniture or assemb
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Furniture Manufacturing Technician | Human Resources Development Service of Korea | 可选 | Not required but adds points |
-| Wood Processing Technician | Human Resources Development Service of Korea | 可选 | 可选 |
+| 家具制造技师 | 韩国人力资源开发服务局 | 可选 | 非必需但可加分 |
+| 木材加工技术员 | 韩国人力资源开发服务局 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 25,000. It is linked to residential and commercial interior demand, but employment is expected to stagnate due to automation and increased DIY furniture.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 25,000。与住宅和商业室内需求相关，但由于自动化和DIY家具的增加，就业预计停滞。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ Furniture assemblers are responsible for assembling finished furniture or assemb
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | 最低工资水平 |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 最低工资水平 |
 | 中级 (4-7年) | $30,000,000~$38,000,000 | 经验丰富后增长 |
-| Advanced (8 years or more) | $38,000,000~$50,000,000 | Skilled worker standard |
+| 高级（8年及以上） | $38,000,000~$50,000,000 | 技术工人标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-Among furniture assemblers' tasks, simple repetitive assembly is at risk of automation, but on-site custom installation and quality checks require human judgment, making complete replacement difficult.
+在家具装配工的任务中，简单重复的装配有被自动化的风险，但现场定制安装和质量检查需要人为判断，因此完全替代困难。
 
-Starting as a skilled worker, advancement to foreman or factory manager is possible, but most are employed as functional workers based on experience.
+从技术工人起步，可晋升为领班或工厂经理，但多数人基于经验担任职能工人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive assembly
-- Package furniture assembly
-- Basic parts inspection
+- 简单重复装配
+- 组装家具包装
+- 基本零件检验
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Robot-assisted assembly
-- CNC equipment operation
-- Use of digital measuring tools
+- 机器人辅助装配
+- CNC设备操作
+- 数字测量工具的使用
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site custom installation skills
-- Understanding of wood properties
-- Advanced finishing techniques
+- 现场定制安装技能
+- 了解木材特性
+- 高级精加工技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated equipment operation
-- Customer service and on-site communication
-- Basic knowledge of furniture design
+- 自动化设备操作
+- 客户服务与现场沟通
+- 家具设计基础知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Interior
-- Custom furniture
-- Assembly service
-- Remodeling
+- 室内
+- 定制家具
+- 组装服务
+- 翻新
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Available for employment in the manufacturing sector through the Employment Permit System |
-| Subclass E-7 (Specific Activities) | Possible if recognized as skilled worker |
-| Subclass F-2 (Residence) | Path to permanent residence after long-term stay possible |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity
-- Patient people
-- Physically fit people
+- 具有手工灵巧度的人
+- 有耐心的人
+- 身体健康的人
 
 **谁不适合**
-- People who prefer sedentary work
+- 喜欢久坐工作的人
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a furniture assembler?**
-答：Approximately 24 million to 30 million KRW for entry-level, up to 50 million KRW for highly skilled workers.
+**问：家具组装工的年平均工资是多少？**
+答：入门级约2400万至3000万韩元，高技能工人可达5000万韩元。
 
-**问：Can foreigners work as furniture assemblers?**
-答：Employment in manufacturing is possible with an E-9 (Non-professional Employment) visa, and can be converted to E-7 after certain experience.
+**问：外国人能否担任家具装配工？**
+答：持有E-9（非专业就业）签证可在制造业工作，达到一定经验后可转为E-7签证。
 
-**问：Are there any required certifications?**
-答：Having a furniture manufacturing technician certification is advantageous but not mandatory.
+**问：是否有任何必需的认证？**
+答：持有家具制造技师证书者优先，但非强制。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as a skilled worker, advancement to foreman or factory manager is possi
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/furniture-assembler/KR)**

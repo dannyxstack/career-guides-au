@@ -53,8 +53,6 @@ Diagnose and surgically treat diseases, injuries, or defects of the hard and sof
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on oral and maxillofacial surgeons is mixed: automated imaging diagnosis and surgical planning may compress some tasks, but AI-enhanced virtual surgery simulation and personalized treatment design are benefits, while high-precision surgery, patient communication, and ethical decisions remain core human strengths.
-
 Usually starts with residency training, progressing to independent practitioner, can become academic professor, department head, or open private practice.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually starts with residency training, progressing to independent practitioner,
 | Subclass O-1 (O-1 Extraordinary Ability) | For doctors with outstanding achievements |
 | Subclass Green Card (PERM) (EB-3 Professional) | If no advanced degree, can apply via EB-3 professional occupation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Somewhat difficult; must first obtain a US dental license and complete reside
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oral-and-maxillofacial-surgeons/US)**

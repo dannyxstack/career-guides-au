@@ -53,8 +53,6 @@ Responsible for daily administrative tasks, answering phone calls, scheduling me
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact of AI on secretarial work is mixed: large volumes of document processing and scheduling tasks will be automated, but the value of interpersonal coordination, complex communication, and judgment will increase.
-
 Junior secretaries can advance to senior secretary, executive assistant, or office manager, or move into specialized fields like HR or finance. With experience, opportunities arise as executive assistant or department coordinator.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior secretaries can advance to senior secretary, executive assistant, or offi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Yes. Can advance to senior secretary, executive assistant, office manager, or
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretary-general/IE)**

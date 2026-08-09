@@ -54,8 +54,6 @@ Sterilization technicians clean, disinfect, and sterilize medical instruments an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
-
 can progress from junior sterilization assistant to senior technician or supervisor, or move into infection control or operating room support with additional training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ can progress from junior sterilization assistant to senior technician or supervi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress from entry-level sterilisation assistant to senior technician or
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sterilisation-technician/AU)**

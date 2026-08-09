@@ -53,8 +53,6 @@ Professionals performing underwater tasks including inspection, repair, construc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on divers is mixed: underwater inspection and data analysis are likely to be automated, but complex operations, safety monitoring, and emergency judgment still rely on human experience.
-
 Entry-level divers can progress to supervisor or project manager roles, or specialize in high-skill areas like underwater welding or NDT inspection. Experienced individuals may transition to training or consulting positions.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Entry-level divers can progress to supervisor or project manager roles, or speci
 | Subclass General Employment P (General Employment Permit) | Applicable to general commercial divers, requires labor market testing, annual salary not less than 30,000 euros |
 | Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled professionals, such as underwater engineering experts, with annual salary over €33,000 |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Required HSE commercial diver certification and IMCA certification. Professio
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underwater-diver/IE)**

@@ -4,8 +4,6 @@
 
 Profession overseeing overall ryokan/hotel operations, providing guests with comfortable stays through heartfelt hospitality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Profession overseeing overall ryokan/hotel operations, providing guests with com
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation streamline tasks like room booking, inventory management, and billing, allowing managers to focus on hospitality, complaint handling, and other human-centric tasks. AI complements, not replaces.
-
 Advance from front desk or room attendant to manager. Innkeepers often inherit family businesses or start independently after management experience at major hotel chains.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Advance from front desk or room attendant to manager. Innkeepers often inherit f
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable to management roles at foreign-affiliated hotels or international tourism ryokan. Requires a bachelor's degree or higher. |
-| Subclass 特定技能1号（宿泊） (Specified Skilled Worker (i)) | Specified Skilled Worker visa in the accommodation sector. Requires skills test and Japanese N4 or higher. Promotion to ryokan manager is difficult. |
-| Subclass 経営・管理 (Business Manager Visa) | Obtained when running one's own ryokan. Requires investment of 5 million yen or more or hiring Japanese staff. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: Gaining practical experience at a ryokan, becoming a manager, and then starti
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/innkeeper-manager/JP)**

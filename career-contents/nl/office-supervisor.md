@@ -4,8 +4,6 @@
 
 Oversee daily office operations, coordinate admin teams, ensure efficient processes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Oversee daily office operations, coordinate admin teams, ensure efficient proces
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Structured tasks such as daily administrative coordination, scheduling, and reporting for office supervisors face AI automation pressure, but soft skills like interpersonal communication, emergency decision-making, and team motivation remain human advantages; overall, both risks and opportunities coexist.
-
 Can advance to administrative manager or operations manager, or transition to project management roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can advance to administrative manager or operations manager, or transition to pr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled migrants earning above the threshold; requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for Highly Skilled Professionals; Annual Salary Threshold Above Average. |
-| Subclass Orientation Year (zo (Orientation Year) | Overseas students who graduated in the Netherlands or within the last 3 years can apply for a 1-year job-seeking visa. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can apply through high-skilled migration or EU Blue Card, requires employer s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-supervisor/NL)**

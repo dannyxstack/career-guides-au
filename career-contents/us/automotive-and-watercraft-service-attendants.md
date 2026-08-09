@@ -54,8 +54,6 @@ Refueling and lubricating vehicles such as cars, buses, trucks, and boats; repla
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly replace routine tasks for vehicle and watercraft service attendants within 5-10 years, such as self-service fuel pumps and automatic payment systems, leading to a sharp decline in job demand.
-
 Can advance to service supervisor, repair technician, or store manager, or move to more specialized automotive repair via ASE certification. However, advancement opportunities are limited, mostly internal promotion.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance to service supervisor, repair technician, or store manager, or move 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can advance to service supervisor, maintenance technician, or store manager, 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-and-watercraft-service-attendants/US)**

@@ -1,10 +1,8 @@
-# Other Healthcare Service Workers 职业分析 · 日本
+# 其他医疗保健服务人员（Other Healthcare Service Workers）职业分析 · 日本
 
-**职业代码: 379 (JSCO)**
+**职业代码：379 (JSCO)**
 
-Healthcare service workers other than doctors and nurses, including physical therapists, occupational therapists, speech-language pathologists, clinical laboratory technicians, and radiologic technologists.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+医生和护士以外的医疗保健服务工作者，包括物理治疗师、职业治疗师、言语病理学家、临床实验室技师和放射技师。
 
 
 ---
@@ -13,9 +11,9 @@ Healthcare service workers other than doctors and nurses, including physical the
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (3 years) | 3年 | $3,000,000~$5,000,000（Tuition varies by vocational school） |
-| University (4 years) | 4年 | $4,000,000~$8,000,000（Significant difference between public and private） |
-| Graduate School (Master's) | 2 年 | $2,000,000~$4,000,000（For research or specialized roles） |
+| 职业学校（3年） | 3年 | $3,000,000~$5,000,000（学费因职业学校而异） |
+| 大学（4年） | 4年 | $4,000,000~$8,000,000（公私差异显著） |
+| 研究生院（硕士） | 2 年 | $2,000,000~$4,000,000（用于研究或专业角色） |
 
 ---
 
@@ -23,18 +21,18 @@ Healthcare service workers other than doctors and nurses, including physical the
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Physical Therapist | Ministry of Health, Labour and Welfare | 必备 | National certification. Required after graduating from an accredited training institution and passing the exam. |
-| 职业治疗师 | Ministry of Health, Labour and Welfare | 必备 | National certification. Required after graduating from an accredited training institution and passing the exam. |
-| Speech-Language Pathologist | Ministry of Health, Labour and Welfare | 必备 | National certification. Required after graduating from an accredited training institution and passing the exam. |
+| 物理治疗师 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可的培训机构并通过考试。 |
+| 职业治疗师 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可的培训机构并通过考试。 |
+| 言语语言病理学家 | 厚生劳动省 | 必备 | 国家认证。需毕业于认可的培训机构并通过考试。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 450,000. Demand for medical and rehabilitation services is increasing with aging, especially in home care and preventive care. However, competition between facilities and regional disparities remain issues.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 450,000。随着老龄化，医疗和康复服务需求增加，尤其是在居家护理和预防性护理领域。然而，设施间的竞争和地区差距仍是问题。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,91 +40,83 @@ Healthcare service workers other than doctors and nurses, including physical the
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,500,000~$4,500,000 | Hospital work, etc. |
-| Mid-Level (4-9 years) | $4,500,000~$6,000,000 | Increases with experience and expertise |
-| Veteran (10+ years) | $6,000,000~$8,000,000 | Higher in management or independent practice |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 医院工作等 |
+| 中级（4-9年） | $4,500,000~$6,000,000 | 随经验和专业知识增长 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 管理层级或独立执业更高级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robotics may automate some tasks like rehab planning support and data analysis, but direct patient care and interpersonal communication remain human-driven, so complete replacement is unlikely.
+AI与机器人可自动化部分任务如康复规划支持和数据分析，但直接患者护理和人际沟通仍需人工，因此完全替代可能性低。
 
-After obtaining national certification, common workplaces include hospitals, clinics, and long-term care facilities. With experience, paths include management, specialization, or private practice (e.g., physical therapists).
+获得国家认证后，常见工作场所包括医院、诊所和长期护理机构。有经验后可晋升管理、专业化或私人执业（如物理治疗师）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Creating rehab records
-- Automating simple assessments
+- 创建康复记录
+- 自动化简单评估
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimizing rehab plans
-- Proactive intervention via patient data analysis
+- 优化康复计划
+- 通过患者数据分析进行主动干预
 
-**人类护城河:**
+**人类护城河：**
 
-- Building empathy and trust with patients
-- Detailed in-person movement guidance
-- Emergency decision-making
+- 与患者建立同理心和信任
+- 详细的面授动作指导
+- 应急决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating AI tools
-- Data analysis
-- Patient communication
+- 操作AI工具
+- 数据分析
+- 患者沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home medical care
-- Rehabilitation
-- Preventive medicine
-- Home-visit nursing
+- 居家医疗
+- 康复
+- 预防医学
+- 上门护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available when recognized as specialized work. Usually requires qualification based on agreement. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Eligible in nursing care. However, physical therapists often excluded. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Specified Skilled Worker (ii) in nursing care is limited. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong desire to help others
-- Those confident in physical strength and value teamwork
-- Those skilled in detailed work and interpersonal skills
+- 乐于助人者
+- 体力自信且重视团队合作的人
+- 擅长细致工作和人际交往能力的人
 
 **谁不适合**
-- Those weak to stress
-- Those not suited for physical labor
+- 抗压能力弱的人
+- 不适合体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：Entry-level: ¥3.5–4.5M, mid-career: ¥4.5–6M, veteran: ¥6–8M roughly.
+**问：该职业的平均年收入是多少？**
+答：入门级：¥3.5-4.5M，中级：¥4.5-6M，资深：¥6-8M左右。
 
-**问：Can foreigners obtain a visa for this occupation?**
-答：It may qualify for the Engineer/Specialist in Humanities/International Services visa, but many roles require national certifications, making it challenging.
+**问：外国人能否获得此职业的签证？**
+答：可能符合人文/国际服务领域的工程师/专家签证要求，但许多职位需要国家认证，具有挑战性。
 
-**问：How can I advance my career?**
-答：By deepening expertise to move into management or education, or by opening your own practice (e.g., physical therapist).
+**问：如何提升我的职业生涯？**
+答：通过深化专业知识转向管理或教育，或开设自己的诊所（例如物理治疗师）。
 
 
 ---
@@ -144,12 +134,12 @@ After obtaining national certification, common workplaces include hospitals, cli
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-healthcare-service-workers/JP)**

@@ -1,8 +1,8 @@
-# Korean Cuisine Chef 职业分析 · 韩国
+# 韩国料理厨师（Korean Cuisine Chef）职业分析 · 韩国
 
-**职业代码: 53121 (KECO)**
+**职业代码：53121 (KECO)**
 
-A professional who cooks traditional Korean food, developing and preparing Korean menu items at restaurants or hotels.
+一位专业烹饪传统韩国菜的厨师，在餐厅或酒店开发和准备韩国菜单。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who cooks traditional Korean food, developing and preparing Korea
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | 3年 | $0~$0（Not required, but costs incurred if attending a culinary high school） |
-| Culinary arts department at a junior college | 2 年 | $4,000,000~$8,000,000（Annual tuition standard） |
+| 高中毕业 | 3年 | $0~$0（不要求，但如果就读烹饪高中则需费用） |
+| 短期大学烹饪艺术系 | 2 年 | $4,000,000~$8,000,000（年度学费标准） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who cooks traditional Korean food, developing and preparing Korea
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean Cuisine Cook (National Technical Qualification) | Human Resources Development Service of Korea | 可选 | National technical qualification; not required but advantageous for employment |
-| Culinary Engineer (National Technical Qualification) | Human Resources Development Service of Korea | 可选 | Advanced certification; requires degree |
+| 韩餐厨师（国家技术资格） | 韩国人力资源开发服务局 | 可选 | 国家技术资格；非必需但对就业有利 |
+| 烹饪工程师（国家技术资格） | 韩国人力资源开发服务局 | 可选 | 高级认证；需学位 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Employment is stable due to the globalization of Korean cuisine and growth of the food service industry, but there is a persistent labor shortage.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于韩餐全球化和餐饮业增长，就业稳定，但存在持续劳动力短缺。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,88 +38,82 @@ A professional who cooks traditional Korean food, developing and preparing Korea
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $26,000,000~$32,000,000 | Annual pre-tax salary standard |
-| 中级 (4-7年) | $33,000,000~$42,000,000 | Annual pre-tax salary standard |
-| Advanced (8+ years) | $43,000,000~$55,000,000 | Head chef level; annual pre-tax salary |
+| 初级（0-3年） | $26,000,000~$32,000,000 | 年度税前工资标准 |
+| 中级 (4-7年) | $33,000,000~$42,000,000 | 年度税前工资标准 |
+| 高级（8年以上） | $43,000,000~$55,000,000 | 主厨级别；税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are unlikely to fully replace the core tasks of a Korean cuisine chef, such as flavor adjustment or creation, but repetitive tasks like order processing or inventory management can be automated.
+人工智能和自动化不太可能完全取代韩国菜厨师的核心任务，如调味或创新，但订单处理或库存管理等重复性任务可以自动化。
 
-After obtaining a cook certification, one can work in general Korean restaurants, hotels, or corporate cafeterias; with experience, can become a head chef or restaurant owner.
+取得厨师资格后，可在普通韩餐厅、酒店或公司食堂工作；经验丰富后可成为主厨或餐厅老板。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order taking
-- Inventory management
-- Simple repetitive cooking
+- 订单接收
+- 库存管理
+- 简单重复的烹饪工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Recipe development
-- Flavor analysis
-- Ingredient optimization
+- 食谱开发
+- 风味分析
+- 成分优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Taste and creativity
-- Dexterity and experience
-- Customer communication skills
+- 品味与创造力
+- 灵巧性和经验
+- 客户沟通技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Food tech utilization
-- Understanding of multicultural cuisines
+- 数据分析
+- 食品科技利用
+- 对多元文化美食的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Globalization of Korean cuisine
-- Dining trends
-- Healthy food demand
-- K-food craze
+- 韩国料理全球化
+- 餐饮趋势
+- 健康食品需求
+- 韩流饮食热潮
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for skilled foreign cooks working in Korean restaurants |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Unskilled foreign workers may be hired but limited for cooks |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those passionate about cooking and enjoy creating new flavors
-- Those with good physical strength and can manage kitchen stress
-- Those with deep interest in Korean food culture
+- 对烹饪充满热情并喜欢创造新口味的人
+- 体力好且能应对厨房压力者
+- 对韩国饮食文化有浓厚兴趣者
 
 **谁不适合**
-- Those who dislike repetitive tasks and struggle with fast pace
-- Those who find it difficult to strictly follow hygiene and safety rules
+- 不喜欢重复任务且难以适应快节奏的人
+- 难以严格遵守卫生和安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a Korean cuisine cook?**
-答：0-3 years: 26-32 million KRW, 4-7 years: 33-42 million KRW, 8+ years: 43-55 million KRW; head chefs may earn more.
+**问：韩国料理厨师的平均工资是多少？**
+答：0-3年：2600万-3200万韩元，4-7年：3300万-4200万韩元，8年以上：4300万-5500万韩元；主厨可能更高。
 
-**问：Can foreigners work as Korean cuisine cooks?**
-答：Yes, skilled cooks can work in Korean restaurants with an E-7 visa. A Korean cuisine cooking certificate and experience are required.
+**问：外国人可以成为韩国料理厨师吗？**
+答：是的，熟练厨师可凭E-7签证在韩国餐厅工作。需持有韩国料理烹饪证书和经验。
 
 
 ---
@@ -137,12 +131,12 @@ After obtaining a cook certification, one can work in general Korean restaurants
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/korean-cuisine-chef/KR)**

@@ -52,8 +52,6 @@ Conduct plant biology research, including plant taxonomy, physiology, ecology an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on botanists is mixed: automation reduces labor intensity for data collection and basic analysis, but core research still requires human expertise and experimental design; job numbers remain stable but skill requirements increase.
-
 Career progression can start from laboratory researcher or project assistant, advancing to senior researcher, project manager, or department head. Interdisciplinary backgrounds (e.g., bioinformatics) can broaden opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can start from laboratory researcher or project assistant, ad
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires a German-recognized qualification in a related field; salary threshold is lower than the Blue Card. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany for job searching, requires sufficient funds and German or English proficiency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can work in universities, research institutes, botanical gardens, agricultura
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologist-botany/DE)**

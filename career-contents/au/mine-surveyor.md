@@ -52,8 +52,6 @@ A Mine Surveyor provides precise surface and underground survey services within 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Mine surveyors' core tasks of surveying, modeling, and blast marking will be deeply enhanced by AI and automation tools, but the hard constraint of legal liability and the unpredictability of underground on-site work mean the role will not disappear. Entry-level positions may narrow slightly due to lower technical barriers, but skilled surveyors will become more competitive.
-
 UAV aerial surveying and 3D laser scanning are rapidly replacing traditional total stations, but specialised judgement in mine surveying still requires licensed personnel. Mine surveyors are among the hardest-to-recruit professionals in the mining industry.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ UAV aerial surveying and 3D laser scanning are rapidly replacing traditional tot
 | Subclass 189 (Skilled Independent) | Independent skilled migration, points-tested |
 | Subclass 190 (Skilled Nominated) | WA/QLD priority |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires qualification assessment through Engineers Australia or AIES, then a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mine-surveyor/AU)**

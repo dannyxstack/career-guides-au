@@ -54,8 +54,6 @@ In Canada, emergency dispatchers answer emergency calls, dispatch resources, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Emergency dispatcher roles are being compressed by AI (automatic speech transcription, dispatch algorithms), but humans cannot be replaced in complex judgment and emotional reassurance, leading to polarization of career value.
-
 Junior dispatchers can advance to senior dispatcher or team leader through experience. Some move to emergency management centers or public safety communication technology roles. Requires continuous improvement of multitasking and language skills.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Junior dispatchers can advance to senior dispatcher or team leader through exper
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove they cannot hire locally; once approved, applicants can apply for a closed work permit, then transition to permanent residency. |
 | Subclass AIP (Atlantic Immigration Program) | Employer sponsorship program in Atlantic provinces, suitable for emergency dispatchers with a job offer |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Yes, most provinces require completing a provincial certification course, suc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-dispatchers/CA)**

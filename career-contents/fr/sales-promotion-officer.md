@@ -53,8 +53,6 @@ Responsible for planning and executing promotional activities to improve product
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of sales promotion specialists is mixed: AI can automate data analysis, initial customer engagement, and promotional effectiveness evaluation, but creative planning, deep customer relationship maintenance, and on-site event execution still rely on human intuition and emotional intelligence.
-
 You can advance from junior promotion assistant to regional promotion manager or marketing director. After gaining experience, you can move into brand management or digital marketing, or accelerate your promotion through an MBA or professional certification.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior promotion assistant to regional promotion manager or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as those with a master's degree or above or high salary (annual salary ≥ about 53k euros), valid for up to 4 years, and can bring family members. |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, a work contract of at least one year, salary must reach the statutory minimum wage, and labor market testing is usually required. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents, requiring at least 3 years of relevant experience or a higher education diploma, with a salary threshold of about 42,000 euros (2024 standard). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Usually promoted to Regional Promotion Manager, Brand Manager, or Marketing D
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-promotion-officer/FR)**

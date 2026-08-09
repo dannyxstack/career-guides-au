@@ -53,8 +53,6 @@ Responsible for underground exploration, mine design, and safety monitoring, ens
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation will have mixed impacts on mining and geological engineers: data analysis and monitoring tasks are replaced, but on-site decision-making, safety management, and compliance responsibilities increase, jobs won't disappear but require continuous learning.
-
 Junior engineers can advance to project supervisor, senior geotechnical engineer, or mine manager, and may also move into environmental consulting or new energy mineral development.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior engineers can advance to project supervisor, senior geotechnical engineer
 | Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, suitable for bachelor's degree or skilled workers. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian/Mexican citizens, requires employer offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Not mandatory, but holding a PE license offers advantages in promotion and sa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-geological-engineers-including-mining-safety-engineers/US)**

@@ -1,8 +1,8 @@
-# Truck and Special Vehicle Driver 职业分析 · 韩国
+# 卡车和特种车辆驾驶员（Truck and Special Vehicle Driver）职业分析 · 韩国
 
-**职业代码: 62234 (KECO)**
+**职业代码：62234 (KECO)**
 
-This occupation involves driving large trucks or special vehicles to transport cargo, and is a core workforce in the logistics and transportation industry.
+该职业涉及驾驶大型卡车或特种车辆运输货物，是物流运输行业的核心劳动力。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves driving large trucks or special vehicles to transport c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Obtain a driver's license | 1年 | $500,000~$1,500,000（Cost of obtaining a Class 1 Large license） |
-| Truck qualification | 3个月 | $300,000~$800,000（Preparation cost for the cargo transport worker certificate） |
+| 获取驾照 | 1年 | $500,000~$1,500,000（获得一级大型驾照的费用） |
+| 卡车资格 | 3个月 | $300,000~$800,000（货运运输工人证书准备费用） |
 
 ---
 
@@ -20,17 +20,17 @@ This occupation involves driving large trucks or special vehicles to transport c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Large driver's license | National Police Agency | 必备 | Required for large truck driving |
-| Cargo transport worker certificate | Korea Transportation Safety Authority | 必备 | Legally required for cargo transport |
+| Class 1大型驾照 | 国家警察厅 | 必备 | 大型卡车驾驶所需 |
+| 货物运输从业资格证 | 韩国交通安全局 | 必备 | 货物运输的法律要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 370,000. Demand remains steady due to growth in e-commerce and logistics, but long-term job reduction is possible with the advancement of autonomous driving technology.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 370,000。由于电子商务和物流的增长，需求保持稳定，但随着自动驾驶技术的进步，长期可能出现岗位减少。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,90 +38,83 @@ This occupation involves driving large trucks or special vehicles to transport c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $30,000,000~$36,000,000 | KRW 2.5–3 million/month |
-| Intermediate (4–9 years) | $36,000,000~$50,000,000 | KRW 3–4.2 million/month |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | KRW 4.2–5.8 million/month, higher for special vehicles |
+| Beginner (0–3 years) | $30,000,000~$36,000,000 | 每月250-300万韩元 |
+| 中级（4-9年） | $36,000,000~$50,000,000 | KRW 3–420万/月 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 420万至580万韩元/月，特种车辆更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As autonomous truck technology advances, the demand for drivers may decrease in the long term. However, since full autonomy requires time, labor demand will persist for now.
+随着自动驾驶卡车技术的发展，长期内对司机的需求可能会减少。但由于完全自动驾驶需要时间，劳动力需求目前仍将持续。
 
-Starting with general cargo truck driving, one can obtain special licenses (e.g., hazardous materials, oversized loads) to become a professional driver, or transition to self-employment by owning a vehicle.
+从普通货物卡车驾驶开始，可获取特殊执照（如危险品、超限货物）成为专业司机，或通过拥有车辆转为自雇。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Long-distance highway driving
-- Simple repetitive transport tasks
+- 长途高速公路驾驶
+- 简单的重复运输任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Utilization of AI route optimization
-- Real-time vehicle status monitoring
+- AI路线优化利用
+- 实时车辆状态监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment of non-standard road conditions
-- Cargo loading and safety inspection
-- Communication with customers
+- 非标准路况判断
+- 货物装载和安全检查
+- 与客户沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Special vehicle license
-- Hazardous materials transport qualification
-- Understanding of logistics IT systems
+- 特种车辆驾照
+- 危险品运输资格
+- 了解物流IT系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics increase
-- Aging population
-- Labor shortage
-- Simplification of driver qualifications
+- 物流增长
+- 人口老龄化
+- 劳动力短缺
+- 简化驾驶员资格要求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Truck driving is an E-9 eligible occupation, allowing foreign worker employment |
-| Subclass E-7-1 (E-7 (Specific Activities)) | Possible when professional skills like special vehicle driving are required |
-| Subclass F-2-99 (Residence (F-2) Point System) | A preliminary visa to permanent residence when certain points are met |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient people for long-distance driving
-- People confident in operating large vehicles
-- Punctual and responsible individuals
+- 耐心的人适合长途驾驶
+- 有信心操作大型车辆的人
+- 守时且负责任的人
 
 **谁不适合**
-- People with health issues from long driving hours
-- People who avoid night and holiday work
+- 因长时间驾驶而有健康问题的人
+- 避免夜间和假日工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a novice truck driver?**
-答：Pre-tax annual salary for entry-level (0-3 years) is approximately 30-36 million KRW.
+**问：新手卡车司机的年薪是多少？**
+答：入门级（0-3年）税前年薪约为3000-3600万韩元。
 
-**问：Can foreigners work as truck drivers?**
-答：Possible with E-9 visa; also possible with E-7-1 but with some restrictions.
+**问：外国人能否担任卡车司机？**
+答：可通过E-9签证；E-7-1签证也可但有限制。
 
 **问：职业晋升路径如何？**
-答：You can move from general driving to special vehicle (hazardous materials, extra-long) driving or advance to a managerial position within a logistics company.
+答：可从普通驾驶转向特种车辆（危险品、超长）驾驶，或在物流公司内晋升至管理职位。
 
 
 ---
@@ -139,12 +132,12 @@ Starting with general cargo truck driving, one can obtain special licenses (e.g.
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/truck-and-special-vehicle-driver/KR)**

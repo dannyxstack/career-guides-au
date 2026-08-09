@@ -52,8 +52,6 @@ Journalists gather, investigate, and report news events, conveying information t
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The journalist profession is facing a mixed impact from AI: automated batch writing and data analysis will reduce entry-level positions, but capabilities like in-depth investigation, on-site reporting, and multimedia storytelling are enhanced by AI, maintaining a moat.
-
 Career path can progress from junior journalist to senior journalist, editor, or feature editor. It can also shift to digital media management, communications, or public relations, requiring continuous learning of multimedia skills.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career path can progress from junior journalist to senior journalist, editor, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled journalists employed by approved sponsors, meeting salary thresholds (approx. €5,688/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated journalists, with a lower salary threshold (approx. €5,331/month, 2024) but requires a university degree |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch or world's top 200 universities can obtain a 1-year job search visa; once they find a journalist job, they can switch to a work visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: The vast majority of journalist positions require fluent Dutch, as the audien
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/NL)**

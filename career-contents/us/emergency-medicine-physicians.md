@@ -53,8 +53,6 @@ Emergency medicine physicians rapidly assess, diagnose, and treat critically ill
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace emergency physicians but will significantly change work patterns: automation takes over documentation and diagnostic support, with doctors focusing more on complex decision-making, team coordination, and human care—risks and opportunities coexist.
-
 Typical path: become an emergency physician after residency, can advance to emergency department director, medical director, or academic professor, or specialize in pediatric emergency medicine or toxicology.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typical path: become an emergency physician after residency, can advance to emer
 | Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires PERM labor certification or National Interest Waiver, available to physicians with advanced degrees or exceptional ability |
 | Subclass J-1 Waiver (J-1 Visa Waiver for Physicians) | International medical graduates can exchange service in underserved areas for a waiver of the return residency requirement, then transition to permanent residency. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Required: Doctor of Medicine (MD/DO), USMLE, state medical license. Optional:
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-medicine-physicians/US)**

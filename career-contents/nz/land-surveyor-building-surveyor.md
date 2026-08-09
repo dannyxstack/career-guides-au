@@ -54,8 +54,6 @@ New Zealand surveyors are responsible for land surveying, building compliance in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Junior surveyors can start as technicians or assistants, accumulate 2-5 years of experience, then obtain a registered surveyor license to advance to project surveyor or team supervisor. Senior roles include engineering manager, company partner, or starting an independent surveying firm. Emerging fields include 3D laser scanning, Geographic Information Systems (GIS), and sustainable building assessment.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior surveyors can start as technicians or assistants, accumulate 2-5 years of
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, after working on this visa for 2 years, can apply for residency (subject to specific conditions). |
 | Subclass Green List T2 (Work to Residence Visa) | Green List Tier 2 occupation, can apply for residence after 2 years of work. This occupation is usually Tier 1, but depends on the specific role. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Assessment by the New Zealand Institute of Surveyors (NZIS) required; oversea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/land-surveyor-building-surveyor/NZ)**

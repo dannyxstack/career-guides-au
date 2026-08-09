@@ -53,8 +53,6 @@ Working in casinos in customer service, game operations, security, and supervisi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core roles such as gambling regulation and licensing are protected by regulations, with low short-term replacement risk; however, auxiliary tasks like cashiering, surveillance, and customer service are easily optimized by AI/automation, intensifying competition for entry-level positions.
-
 Starting as a dealer or cashier, can advance to casino supervisor, manager, or even regional director. Requires accumulated customer service and management experience.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starting as a dealer or cashier, can advance to casino supervisor, manager, or e
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Difficult. This occupation is not high-skilled; usually requires LMIA employe
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/casino-workers/CA)**

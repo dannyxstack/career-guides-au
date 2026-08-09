@@ -56,8 +56,6 @@ Building experts and inspectors evaluate the structural safety, compliance, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on building experts and inspectors is mixed: automation will take over extensive data verification and documentation, but on-site physical judgment, legal compliance responsibilities, and human-machine coordination demands increase; jobs won't disappear but skill requirements will significantly upgrade.
-
 Career paths can start as a technician or project supervisor in construction companies, advancing to senior inspector, department head, or establishing an independent evaluation firm. Continuing education in energy efficiency and BIM can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths can start as a technician or project supervisor in construction com
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany for one year, requiring a degree or vocational qualification. Suitable for those without a job offer but with good qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to seek employment, requires financial proof. Can later switch to work visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: With green building and digital trends, inspectors skilled in energy efficien
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-expert-and-building-inspector/DE)**

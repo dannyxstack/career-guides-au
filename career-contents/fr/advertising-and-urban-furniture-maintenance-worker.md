@@ -4,8 +4,6 @@
 
 Responsible for the installation, cleaning, maintenance, and upkeep of facilities such as billboards, bus shelters, and information posts in urban public spaces, ensuring their appearance is tidy and functioning properly.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for the installation, cleaning, maintenance, and upkeep of facilitie
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Billboard and urban facility maintenance workers face high automation risks. AI-driven drone detection and robotic cleaning will replace a large number of routine inspections and cleaning tasks, but complex repairs and on-site decision-making still require manual labor.
-
 You can be promoted from junior maintenance worker to team leader or regional manager, or move to advertising facility installation or urban maintenance management positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted from junior maintenance worker to team leader or regional ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship required, compliance with French labor market testing, annual salary must reach SMIC of approximately 21,000 euros or more. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This applies to high-skilled or high-paying positions, with an annual salary of about 42,000 euros, which is generally difficult to attain. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Yes, you can be promoted to team leader, regional manager, or move into adver
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-urban-furniture-maintenance-worker/FR)**

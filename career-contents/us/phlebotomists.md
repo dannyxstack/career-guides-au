@@ -52,8 +52,6 @@ Responsible for drawing blood from patients for testing, transfusions, donations
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of phlebotomists (blood collection operations) are highly standardized, and automated equipment (such as robotic blood collection systems) is gradually replacing human labor; entry-level positions will shrink significantly, but patient communication and emergency handling still require humans.
-
 Can advance from phlebotomist to senior technician, supervisor, or lab tech; further education leads to medical laboratory scientist or nurse.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from phlebotomist to senior technician, supervisor, or lab tech; fur
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires at least 2 years experience or training, PERM labor certification, can be used as green card pathway. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Employer-sponsored permanent migration, must demonstrate labor shortage |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires certification from organizations like ASCP, AMT, or NHA; s
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/phlebotomists/US)**

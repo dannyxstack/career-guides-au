@@ -53,8 +53,6 @@ Involved in the manufacturing, processing, and quality control of building mater
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate some quality inspection and data analysis tasks, but physical operations and on-site judgment remain core; the role has a medium-high risk overall and requires proactive skill upgrading.
-
 Can be promoted from operator to team leader or production supervisor, or transition to quality control or technical management through further study.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can be promoted from operator to team leader or production supervisor, or transi
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on points system, allows job search or vocational training |
 | Subclass Job Seeker (Job Seeker Visa) | Up to 6 months to look for work or training in Germany |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires completing a 3-year dual vocational training (building mater
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-materials-production-worker/DE)**

@@ -51,8 +51,6 @@ Responsible for overseeing manufacturing production processes, managing teams, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Manufacturing executives face the dual impact of AI and automation: routine tasks like production scheduling and quality inspection will be compressed, while the value of personnel management, cross-departmental coordination, and technical decision-making will be amplified; Entry-level positions have narrowed due to the widespread adoption of data tools, and senior executives must possess Industry 4.0 skills to remain competitive.
-
 You can be promoted from production line leader to production manager or factory manager. If you supplement your knowledge of lean production or industrial engineering, you can move to operations management positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from production line leader to production manager or factory
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | An employer must provide a work contract and pass a labor market test |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, annual salary must meet the threshold (approximately €33,908, 2024) |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for management or technical experts, with a faster process and no need for labor market testing |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Typically, an Advanced Vocational Training (FP) or Bachelor of Engineering de
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-of-other-manufacturing-industries/ES)**

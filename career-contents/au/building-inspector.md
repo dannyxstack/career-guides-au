@@ -56,8 +56,6 @@ A Building Inspector conducts compliance inspections at various stages of constr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Building inspectors face substitution pressure from AI automated checklists and report writing, but on-site physical inspections and legal liability decisions form a moat.
-
 The Private Building Certifier market is growing rapidly in NSW/QLD/VIC, with licensed inspectors earning strong self-employed incomes. Drone and digital platform-assisted remote inspections are becoming increasingly common.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ The Private Building Certifier market is growing rapidly in NSW/QLD/VIC, with li
 | Subclass 189 (Skilled Independent) | Points-tested independent migration |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Not required. A Certificate IV is sufficient to enter the field, and those wi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-inspector/AU)**

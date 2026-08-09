@@ -53,8 +53,6 @@ Supervise daily operations of postal services, courier companies, and message de
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Many core tasks of mail and message delivery supervisors are highly automatable by AI, leading to significantly reduced demand. Smart route planning, automated sorting, and tracking systems will replace much manual scheduling and monitoring.
-
 Can be promoted from courier/sorter to supervisor, then to regional operations manager or logistics director. With experience, can move to higher positions like supply chain management, warehouse operations.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted from courier/sorter to supervisor, then to regional operations m
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Short-term demand is stable, but automation and drone delivery may reduce sup
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-mail-and-message-distribution-occupations/CA)**

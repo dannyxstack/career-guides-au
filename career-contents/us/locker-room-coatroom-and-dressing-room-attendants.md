@@ -52,8 +52,6 @@ Provide storage services for customers' personal items in changing rooms, cloakr
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Locker room/attendant roles face high risk of automation compression; core storage processes can be replaced by self-service lockers, RFID, and mobile payments, but high-end venues still require a touch of personalized service.
-
 Career progression is limited, can advance to foreman or supervisor, or transfer to hotel front desk or customer service roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression is limited, can advance to foreman or supervisor, or transfer
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Limited prospects, little room for advancement; can move to hotel front desk 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locker-room-coatroom-and-dressing-room-attendants/US)**

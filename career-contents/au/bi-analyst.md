@@ -53,8 +53,6 @@ Business Intelligence Analysts use data visualisation, report design and insight
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-BI analysts' report generation and basic data cleaning tasks will be accelerated by AI, but business interpretation, data storytelling, and strategic alignment skills become more scarce; entry-level competition intensifies, senior analysts' value rises.
-
 Power BI and Tableau are the most widely used BI tools in Australia, with Looker and Qlik holding a share of the enterprise market. Data warehouse modelling (dbt) and Python analytics skills have become standard for senior BI engineers, with career paths extending towards data engineering and data analysis.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Power BI and Tableau are the most widely used BI tools in Australia, with Looker
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; must also match the relevant ANZSCO code and pass an ACS skills assessment |
 | Subclass 190 (Skilled Nominated) | State nomination; match ICT-related occupations to each state's list and actual duties. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Demand continues to grow; Seek consistently lists 200–380 active positions,
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bi-analyst/AU)**

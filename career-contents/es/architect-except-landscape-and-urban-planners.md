@@ -4,8 +4,6 @@
 
 Architects are responsible for the design, planning, and supervision of architectural projects, ensuring structural safety, functional rationality, and compliance with aesthetic requirements. In Spain, this profession is regulated and requires a university degree and official certification.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Architects are responsible for the design, planning, and supervision of architec
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Junior architects can be promoted to project leader or design director, or specialize in sustainable design or heritage conservation. After gaining experience, you can establish your own firm or serve as the chief architect for large projects.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Junior architects can be promoted to project leader or design director, or speci
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled jobs, requires a university degree and work contract, salary threshold approx. €33,908 (2024) |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, the process is simplified, requiring a work contract and certified academic qualifications |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship and can be applied for after academic verification is required |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: You must hold a 5-year Bachelor's degree in Architecture (Grado) and a 1-year
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architect-except-landscape-and-urban-planners/ES)**

@@ -1,8 +1,8 @@
 # 保安（Security Guard）职业分析 · 日本
 
-**职业代码: 453 (JSCO)**
+**职业代码：453 (JSCO)**
 
-Occupation involving patrolling, monitoring, access control at facilities, events, and traffic to ensure safety; contributes to crime prevention and accident reduction.
+涉及在设施、活动和交通中进行巡逻、监控和出入控制以确保安全的职业；有助于预防犯罪和减少事故。
 
 
 ---
@@ -11,8 +11,8 @@ Occupation involving patrolling, monitoring, access control at facilities, event
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory education (junior high school graduation) | 9年 | $0~$0（Free at public schools） |
-| Security Guard Supervisor Training | 2~5天 | $15,000~$30,000（Statutory training under Private Security Business Act） |
+| 义务教育（初中毕业） | 9年 | $0~$0（公立学校免费） |
+| 保安主管培训 | 2~5天 | $15,000~$30,000（《私人保安业务法》规定的法定培训） |
 
 ---
 
@@ -20,19 +20,19 @@ Occupation involving patrolling, monitoring, access control at facilities, event
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Basic Security Guard Training | Individual security companies | 必备 | Mandatory statutory training for security work |
-| Security Guard Certification (Level 1) | Security Guard Certification Body (General Foundation) | 可选 | Advanced qualification for site supervisors |
-| Security Guard Certification (Level 2) | Security Guard Certification Body | 可选 | Recommended at many sites |
-| Traffic Control Security Certification | Traffic Control Security Certification Body | 可选 | Useful for traffic control duties |
+| 基础保安培训 | 私人安保公司 | 必备 | 保安工作法定强制培训 |
+| 保安员证（一级） | 保安资格认证机构（通用基础） | 可选 | 现场主管的高级资格 |
+| 保安人员认证（2级） | 保安员认证机构 | 可选 | 多个站点推荐 |
+| 交通控制安全认证 | 交通控制安全认证机构 | 可选 | 适用于交通管制职责 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 500,000. Demand remains high due to labor shortages from aging population, especially for on-site facility security and traffic control. Also covered by Specified Skilled Worker visa.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 500,000。由于人口老龄化导致劳动力短缺，对现场设施安全和交通控制的需求仍然很高。也适用于特定技能工人签证。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,91 +40,85 @@ Occupation involving patrolling, monitoring, access control at facilities, event
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,500,000 | Base salary + allowances; increases for night shifts |
-| Mid-level (3–10 years) | $3,500,000~$4,500,000 | Up with on-site supervisory qualification |
-| Advanced (10+ years) | $4,500,000~$6,000,000 | Manager / General Supervisor class |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 基本工资+津贴；夜班加薪 |
+| 中级（3-10年） | $3,500,000~$4,500,000 | 具备现场监督资格 |
+| 高级（10年以上） | $4,500,000~$6,000,000 | 经理/总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-With the introduction of AI and robots (image recognition in surveillance cameras, patrol robots), simple monitoring tasks are decreasing, while security work requiring advanced judgment and interpersonal skills remains in high demand. This is not a complete replacement but a shift in the role of security guards.
+随着AI和机器人（监控摄像头图像识别、巡逻机器人）的引入，简单的监控任务正在减少，而需要高级判断力和人际交往能力的安全工作仍然需求旺盛。这不是完全替代，而是安保人员角色的转变。
 
-Career advancement possible through Security Guard Certification (Levels 1–4) and Facility Security Certification; experience leads to site supervisor or management roles.
+通过保安员认证（1-4级）和设施安全认证可实现职业晋升；经验可带往现场主管或管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Monitor surveillance with fixed cameras
-- Simple patrol routes
-- Automated gate control for entry/exit
+- 用固定摄像头监控监视
+- 简单巡逻路线
+- 自动门禁出入控制
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Final judgment on AI-detected anomalies
-- Advanced interpersonal response (complaint handling, emergency guidance)
-- Operation and management of security systems
+- 对AI检测异常进行最终判断
+- 高级人际回应（投诉处理、紧急指导）
+- 安防系统运营与管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to make flexible judgments
-- Human-to-human communication and persuasion
-- Quick response and leadership in emergencies
+- 灵活判断能力
+- 人际沟通与说服力
+- 紧急情况下的快速响应和领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- IT and security system operation skills
-- Foreign languages (for inbound tourism)
-- Risk management skills
+- IT及安防系统操作技能
+- 外语（入境旅游方向）
+- 风险管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Security at elderly care facilities and medical institutions
-- Event security (demand continues post-Olympics)
-- Airport and transportation security
-- AI and robot-integrated security
+- 养老机构和医疗机构的安保
+- 活动安保（奥运会后需求持续）
+- 机场及交通安保
+- AI与机器人集成安防
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Accommodation / Security)) | Eligible for security work. Requires exam pass and Japanese ability. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May be eligible for security management or instruction duties, but general security guards are not eligible. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are responsible and follow rules
-- People who can handle standing work and night shifts
-- People with communication skills and polite attitude
+- 负责任且遵守规则的人
+- 能胜任站立工作和夜班的人
+- 具备沟通技巧和礼貌态度的人
 
 **谁不适合**
-- People who cannot tolerate monotonous tasks
-- People who find physical labor or night shifts difficult
+- 不能忍受单调任务的人
+- 不适合体力劳动或夜班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a security guard?**
-答：Starting salary is around ¥3 million; with experience and qualifications, it can rise to ¥4–6 million. Varies with night shift allowances and overtime.
+**问：保安的平均年收入是多少？**
+答：起薪约300万日元；随经验和资格可升至400-600万日元。视夜班津贴和加班情况而异。
 
-**问：Can foreigners work as security guards?**
-答：It falls under the Specified Skilled Worker (i) categories (Accommodation/Security), requiring JLPT N4 level and passing an exam. However, security work demands detailed instructions and dialogue in Japanese, so advanced Japanese skills are advantageous.
+**问：外国人可以当保安吗？**
+答：属于特定技能工人（i）类别（住宿/安保），需JLPT N4水平并通过考试。但安保工作要求详细的日语指令和对话，因此高级日语能力更有利。
 
-**问：What qualifications are needed for career advancement?**
-答：Obtaining the Security Guard Certification (Level 2 → Level 1) opens paths to site supervisor and management positions. The Traffic Control Security Certification and Facility Security Certification are also useful.
+**问：职业晋升需要哪些资质？**
+答：获得保安员资格证（2级→1级）可通往现场主管和管理职位。交通控制安保资格证和设施安保资格证也很有用。
 
 
 ---
@@ -142,12 +136,12 @@ Career advancement possible through Security Guard Certification (Levels 1–4) 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/security-guard/JP)**

@@ -53,8 +53,6 @@ Use hand tools or handheld power tools to cut and trim various finished products
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Manual cutters face high risk of automation replacement; AI-driven cutting robots and smart vision systems can already perform most cutting and trimming tasks, with entry-level jobs rapidly declining and demand expected to continue shrinking in the short term.
-
 Usually start as apprentices or entry-level workers, gain experience and advance to senior cutter, foreman, or quality inspector; some move into related manufacturing fields.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as apprentices or entry-level workers, gain experience and advance
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Poor employment prospects. Automation and imports are reducing job demand; em
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cutters-and-trimmers-hand/US)**

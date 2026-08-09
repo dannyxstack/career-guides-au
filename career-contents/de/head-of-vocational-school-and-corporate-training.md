@@ -54,8 +54,6 @@ Responsible for management of vocational education and training at vocational sc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate processes like course document management and basic training consultation, but core responsibilities such as strategic planning, industry-school relationships, and faculty development will be enhanced by data analysis tools, upgrading the role rather than eliminating it.
-
 Can advance from teacher or training officer to department head, principal or corporate training director, some move into education policy or consulting.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance from teacher or training officer to department head, principal or co
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes, can progress from middle management to principal or regional education s
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-vocational-school-and-corporate-training/DE)**

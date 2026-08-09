@@ -54,8 +54,6 @@ Government licensing officers review and issue various permits and licenses to e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
-
 Usually start from junior administrative roles, accumulate regulatory knowledge and auditing experience to advance to senior officer or supervisor, with some transitioning to policy development or specialised areas (e.g., environmental permits).
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Usually start from junior administrative roles, accumulate regulatory knowledge 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not easy. This occupation is not on the Critical Skills list; requires a Gene
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-licensing-official/IE)**

@@ -54,8 +54,6 @@ The principal is responsible for overall management of primary and secondary sch
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on principals and education managers is mixed: administrative tasks can be automated, but strategic decision-making and interpersonal leadership skills are more in demand. The role will not be completely replaced, but rather transformed.
-
 Typically start as teachers, progress to deputy principal, then principal; some may enter district education bureaus or ministries of education. Ongoing leadership training required.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as teachers, progress to deputy principal, then principal; some 
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Meet CRS score, require 1 year Canadian experience or overseas experience + LMIA |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for applicants with a job offer |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Overseas qualifications need to be assessed by ECA, then apply for evaluation
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-principals-and-administrators-of-elementary-and-secondary-education/CA)**

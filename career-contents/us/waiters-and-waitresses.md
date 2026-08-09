@@ -54,8 +54,6 @@ Taking orders, serving food, and providing beverage service to customers in rest
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Career progression includes host, supervisor, restaurant manager, or moving into bartending, hospitality management, etc. Some large hotel chains offer management trainee programs.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression includes host, supervisor, restaurant manager, or moving into
 | Subclass H-1B (Specialty Occupations) | Generally not applicable, as server positions usually do not meet professional occupation requirements |
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal hiring may apply, but with annual quota limits |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes. Common path: Server → Head Server/Supervisor → Assistant Manager →
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waiters-and-waitresses/US)**

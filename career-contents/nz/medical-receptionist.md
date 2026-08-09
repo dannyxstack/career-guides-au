@@ -54,8 +54,6 @@ Medical receptionists in New Zealand clinics, hospitals, and specialist centres 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical front desk administration is highly structured; AI voice booking and self-check-in systems will replace much manual work, but face-to-face patient service and complex insurance claims still require human handling. Overall positions decrease but remaining roles require higher skills.
-
 Medical receptionists can advance to reception supervisor, medical office manager, or health information manager. By completing a medical administration diploma or health management degree, they can move into higher-level medical management roles or laterally enter specialist clinics or hospital administration.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Medical receptionists can advance to reception supervisor, medical office manage
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to front desk supervisor, medical office manager, or move into he
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-receptionist/NZ)**

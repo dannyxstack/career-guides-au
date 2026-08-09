@@ -52,8 +52,6 @@ Computer network professionals are responsible for designing, deploying, maintai
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Entry-level network engineers can advance to senior network engineer, network architect, or IT manager; also can transition to network security, cloud computing, or project management. Continuous certifications (such as CCNP, CCIE) aid career development.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level network engineers can advance to senior network engineer, network ar
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to network architect, cybersecurity specialist, or IT manager. Ce
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-professional/IE)**

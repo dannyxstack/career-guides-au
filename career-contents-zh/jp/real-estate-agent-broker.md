@@ -1,8 +1,8 @@
-# Real Estate Agent/Broker 职业分析 · 日本
+# 房地产经纪人/代理人（Real Estate Agent/Broker）职业分析 · 日本
 
-**职业代码: 331 (JSCO)**
+**职业代码：331 (JSCO)**
 
-Specialist who mediates the buying, selling, and leasing of real estate properties. Responsible for property research, client negotiations, and contract procedures.
+专门从事房地产买卖、租赁中介的专业人士，负责房产调研、客户谈判和合同流程。
 
 
 ---
@@ -11,9 +11,9 @@ Specialist who mediates the buying, selling, and leasing of real estate properti
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Public） |
-| Vocational School (Real Estate Dept.) | 2 年 | $1,000,000~$2,000,000（Private） |
-| Real Estate Transaction Specialist License Course | 6 months | $50,000~$300,000（Correspondence course, etc.） |
+| 高中 | 3年 | $0~$0（公共） |
+| 职业学校（房地产系） | 2 年 | $1,000,000~$2,000,000（私人） |
+| 房地产交易专家执照课程 | 6个月 | $50,000~$300,000（函授课程等） |
 
 ---
 
@@ -21,18 +21,18 @@ Specialist who mediates the buying, selling, and leasing of real estate properti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Real Estate Transaction Specialist | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Essential national qualification for work |
-| Condominium Manager | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Advantageous for management work |
-| Real Estate Appraiser | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Advanced specialization |
+| 房地产交易专员 | 国土交通省 | 必备 | 工作必备的国家资格 |
+| 公寓经理 | 国土交通省 | 可选 | 有利于管理工作 |
+| 房地产估价师 | 国土交通省 | 可选 | 高级专业化 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 350,000. Demand is stable due to population decline and increasing vacant houses. Some growth is expected from urban renovation demand and inbound investment, but competition is intense.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 350,000。由于人口减少和空置房屋增加，需求稳定。城市翻新需求和外来投资预计带来一定增长，但竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,91 +40,84 @@ Specialist who mediates the buying, selling, and leasing of real estate properti
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$5,000,000 | Annual Income |
-| Mid-career (3–10 years) | $5,000,000~$8,000,000 | Annual income |
-| Veteran (Over 10 years) | $8,000,000~$15,000,000 | Annual income |
+| 初级（0-3年） | $3,000,000~$5,000,000 | 年收入 |
+| 中期职业（3-10年） | $5,000,000~$8,000,000 | 年收入 |
+| 资深（10年以上） | $8,000,000~$15,000,000 | 年收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI streamlines property search and matching, but human negotiation and trust-building are essential. The value of personnel who can utilize AI tools increases.
+AI 简化了房产搜索和匹配，但人际谈判和信任建立仍然必不可少。能利用 AI 工具的人员价值提升。
 
-After obtaining the Real Estate Transaction Specialist license, you can gain experience at a major real estate company and then become independent or advance to management. High income is possible if you enhance your specialization.
+获得房地产交易专家执照后，可以在大型房地产公司积累经验，然后独立或晋升到管理层。如果增强专业化，高收入是可能的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Organizing property data
-- Handling simple inquiries
+- 整理房产数据
+- 处理简单咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improving property proposal accuracy
-- Streamlining price appraisals
-- Creating market analysis reports
+- 提高房产提案准确性
+- 简化价格评估
+- 创建市场分析报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal negotiation
-- Trust building
-- Local network
+- 人际谈判
+- 建立信任
+- 本地网络
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital marketing
+- 数据分析
+- 数字营销
 - 跨文化沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Revitalizing vacant houses
-- Inbound investment
-- Renovation
-- Technology utilization
+- 振兴空置房屋
+- 入境投资
+- 翻新
+- 技术应用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for foreigners engaged in sales and management at real estate companies. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable (real estate brokerage not included in Specified Skilled Worker fields) |
-| Subclass 経営・管理 (Business Manager) | Available when running your own real estate company. Requires investment of 5 million yen or more. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking with others
-- People with negotiation skills
-- People who don't mind diligent research
+- 喜欢与他人交谈的人
+- 有谈判技巧的人
+- 不介意勤奋研究者
 
 **谁不适合**
-- People who are not good at communication
-- People who find performance-based systems stressful
+- 不擅长沟通的人
+- 觉得绩效体系压力大的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income for real estate agents?**
-答：Entry-level: 3-5 million yen, mid-level: 5-8 million yen, senior: 8-15 million yen. Varies by performance due to commission-based pay.
+**问：房地产经纪人的年收入是多少？**
+答：入门级：3-5百万日元，中级：5-8百万日元，高级：8-15百万日元。因佣金制薪酬，视业绩而异。
 
-**问：What visa do foreigners need to work as real estate agents?**
-答：An Engineer/Specialist in Humanities/International Services visa is required. A university degree or work experience (usually 10+ years) is needed. Not possible with Specified Skilled Worker.
+**问：外国人从事房地产经纪人需要什么签证？**
+答：需要人文知识/国际服务领域的工程师/专家签证。需大学学历或工作经验（通常10年以上）。特定技能签证不可行。
 
-**问：How can one go independent?**
-答：Obtain a Real Estate Transaction Specialist license, gain several years of experience at a real estate company, then start your own business.
+**问：如何独立执业？**
+答：取得房地产交易专家资格，在房地产公司积累数年经验，然后自己创业。
 
 
 ---
@@ -142,12 +135,12 @@ After obtaining the Real Estate Transaction Specialist license, you can gain exp
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/real-estate-agent-broker/JP)**

@@ -54,8 +54,6 @@ Responsible for diagnosing, repairing, adjusting, or installing various electric
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance diagnosis and scheduling efficiency, but physical repair and portability requirements make full automation difficult; entry-level roles become easier due to the proliferation of self-study resources, but competition intensifies.
-
 Common career progression: from junior repair technician to senior technician, then to service manager or starting own repair shop; also can specialize in specific brands or smart appliance repair.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Common career progression: from junior repair technician to senior technician, t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Very difficult. Home appliance repair technicians typically do not meet H-1B 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-appliance-repairers/US)**

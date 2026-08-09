@@ -52,8 +52,6 @@ A professional who controls and monitors production line machinery in food facto
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation can replace some monitoring tasks, but judgment during abnormalities and maintenance remain human roles. Complete replacement is difficult.
-
 With experience, advancement to line manager or production manager is possible. Career growth through multi-skilling and maintenance skills acquisition.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ With experience, advancement to line manager or production manager is possible. 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing)) | Exam pass required. Max stay 5 years. No family accompaniment. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational college degree or higher. Eligible for facility management. Family accompaniment possible. |
-| Subclass 技能実習 (Technical Intern Training (Food Manufacturing)) | System under review. Max 3 years. Mainly simple tasks. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Food and Beverage Manufacturing)) | Acceptance starts 2024. For skilled workers. Family accompaniment possible. No max stay limit. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: Yes, you can advance to line leader or production manager with experience. Ob
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-production-equipment-control-monitoring-specialist/JP)**

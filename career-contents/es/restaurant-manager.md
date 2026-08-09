@@ -53,8 +53,6 @@ The restaurant manager oversees the restaurant's daily operations, including sta
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Common promotion paths: Restaurant Manager→ Regional Manager→ Operations Director; or start their own restaurants. Further studies for an MBA or Master's in Hotel Management can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Common promotion paths: Restaurant Manager→ Regional Manager→ Operations Dir
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Visa) | Work residence for a Spanish company requires employer sponsorship and a labor contract |
-| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for high-paying (annual salary ≥€45,000) or special professionals, with fast track entry |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card requires annual salary ≥ 1.5x Spanish average wage (approx. €45,000), with degree or work experience |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Promotion usually requires a degree in hotel management or related (universit
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-manager/ES)**

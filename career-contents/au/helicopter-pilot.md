@@ -54,8 +54,6 @@ Helicopter pilots operate helicopters for passenger transport, cargo, rescue, pa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Junior pilots can start as flight instructors or scenic flight pilots, accumulate hours, and advance to commercial charter, mining support, or emergency service pilots. Senior pilots can become captains, training instructors, or operations managers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior pilots can start as flight instructors or scenic flight pilots, accumulat
 | Subclass 186 (Employer Nomination Scheme (ENS) Visa (Subclass 186)) | Employer-sponsored permanent residence visa applies to subclass 482 holders meeting requirements; direct application requires the occupation to be on the MLTSSL (helicopter pilots are usually not). |
 | Subclass DAMA (Designated Area Migration Agreement (DAMA)) | Certain remote areas (e.g., Northern Territory, South Australia) have agreements with the Australian government that may cover helicopter pilots, offering easier visa pathways with potential for permanent residency. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Starting from zero to obtaining a commercial license (CPL(H)) usually takes 1
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helicopter-pilot/AU)**

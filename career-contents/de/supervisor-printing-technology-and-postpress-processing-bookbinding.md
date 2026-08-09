@@ -51,8 +51,6 @@ Oversees and manages the printing production line, coordinates pre-press, printi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core of a printing technology supervisor role—process oversight, quality control, and team coordination—is difficult to fully replace in the short term. AI will take over tasks such as scheduling, quality data analysis, and predictive maintenance of equipment, but will simultaneously amplify skills in production optimization, cross-departmental communication, and complex fault troubleshooting. Entry-level positions are narrowing due to reduced standardized operations, but the value of senior supervisory roles increases as they need to integrate digital skills.
-
 Can advance from printer to supervisor, then to production manager or technical director. Through further training, can become a printing technology engineer (Bachelor Professional) or earn a business economics degree, moving into industry management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from printer to supervisor, then to production manager or technical 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Those with a German-recognized vocational qualification (e.g., dual system training + master craftsman certificate) can apply with no salary threshold requirement. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | New pathway in 2024, points-based, allows up to 1 year to seek employment in Germany, requiring proof of language skills and financial resources. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can be promoted to production manager, technical director, or through further
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-printing-technology-and-postpress-processing-bookbinding/DE)**

@@ -55,8 +55,6 @@ In the German judicial system, prosecutors represent the state by filing charges
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core reasoning and discretionary power of prosecutors are hard to replace, but AI will significantly enhance the efficiency of evidence review, document processing, and legal research. Entry-level positions are less affected by automation, and promotion pathways may be slightly adjusted due to the proliferation of auxiliary tools.
-
 Career progression usually starts from junior prosecutor (Staatsanwalt), can advance to senior prosecutor (Oberstaatsanwalt) or department head (Abteilungsleiter), eventually possibly becoming attorney general (Generalstaatsanwalt) or transferring to a judge role.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career progression usually starts from junior prosecutor (Staatsanwalt), can adv
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to professionals with recognized qualifications, but prosecutor positions are almost impossible due to nationality restrictions. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, but the prosecutor position requires passing the second state exam and citizenship, making it basically not feasible. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Must complete university legal education and pass the first state examination
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-prosecutor/DE)**

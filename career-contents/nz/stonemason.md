@@ -51,8 +51,6 @@ Stonemasons cut, shape, and install natural or artificial stone for buildings, m
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
-
 Junior stonemasons can advance to skilled workers, supervisors, or specialize in high-skill areas like carving and restoration. With experience, they can start their own business and take on subcontracting projects.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior stonemasons can advance to skilled workers, supervisors, or specialize in
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, meeting 6-point system requirements (e.g., education + work experience + salary) |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, can apply for residence after working for an accredited employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, typically requires a New Zealand stonemason certificate (Level 4) or equ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stonemason/NZ)**

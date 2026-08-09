@@ -52,8 +52,6 @@ Tour guides are responsible for leading tourists to visit attractions, explainin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Guide work has mixed prospects: AI can handle voice narration, translation and route planning, but interpersonal interaction, emotional connection and on-site adaptability remain irreplaceable.
-
 Tour guides can transition from part-time to full-time, or be promoted to team leader or travel agency product manager. Some guides become travel consultants or trainers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Tour guides can transition from part-time to full-time, or be promoted to team l
 | Subclass Skilled Worker (Skilled Residence Permit for Qualified Professionals) | Requires German-recognised qualifications (e.g., IHK certificate) and employer sponsorship, suitable for dual system graduates |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany to find work, suitable for those with tour guide experience or language skills |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: German tour guides do not require a mandatory national certificate, but the I
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-guide/DE)**

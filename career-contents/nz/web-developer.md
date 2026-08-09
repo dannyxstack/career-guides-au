@@ -51,8 +51,6 @@ Web development covers designing, building, and maintaining websites and web app
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
-
 Career path can progress from junior developer to senior, tech lead, or architect, or switch to full-stack development or management. Continuous learning of cutting-edge technologies like React and Node.js enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path can progress from junior developer to senior, tech lead, or architec
 | Subclass Green List T2 (Green List Tier 2 - Work to Residence) | Green list Level 2 occupation, eligible for residence after 2 years of work, requires salary at 1.5 times the median wage (approx. $44.49/hour) |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires job offer from accredited employer, salary at median wage, maximum 3 years visa |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not required, but relevant qualifications help. New Zealand employers value p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-developer/NZ)**

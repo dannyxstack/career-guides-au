@@ -1,10 +1,8 @@
-# Performing Artist 职业分析 · 日本
+# 表演艺术家（Performing Artist）职业分析 · 日本
 
-**职业代码: 235 (JSCO)**
+**职业代码：235 (JSCO)**
 
-A professional who performs stage arts such as rakugo, manzai, storytelling, and magic to entertain audiences. Activity ranges from preserving classical pieces to creating new works.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+表演落语、漫才、讲故事和魔术等舞台艺术以娱乐观众的专业人士。活动范围从保留经典作品到创作新作。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who performs stage arts such as rakugo, manzai, storytelling, and
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Apprenticeship (training under a master) | 5–10 years | $0~$0（Usually unpaid or low-paid training） |
-| Vocational school/training institute | 2 年 | $1,000,000~$2,000,000（Entrance fee, tuition, etc.） |
+| 学徒制 (师从师傅培训) | 5-10年 | $0~$0（通常为无薪或低薪培训） |
+| 职业学校/培训机构 | 2 年 | $1,000,000~$2,000,000（入场费、学费等） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who performs stage arts such as rakugo, manzai, storytelling, and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| None (merit-based) | – | 可选 | No official qualifications required; promotion is decided by masters or associations |
-| Affiliation with rakugo/ manzai associations, etc. | Each association | 可选 | Foundation for activity but not mandatory |
+| 无（基于绩效） | – | 可选 | 无需官方资格；晋升由师傅或协会决定。 |
+| 落语/漫才协会等的会员资格 | 每个协会 | 可选 | 活动基础但非强制 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 15,000. The market is shrinking due to aging and declining interest among youth, but new opportunities exist via streaming and event demand. Competition is extremely intense.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 15,000。由于老龄化和年轻人兴趣下降，市场正在萎缩，但通过流媒体和活动需求存在新机会。竞争极其激烈。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,91 +38,83 @@ A professional who performs stage arts such as rakugo, manzai, storytelling, and
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $1,000,000~$3,000,000 | Income is extremely low during apprenticeship as a junior performer |
-| Intermediate (3–10 years) | $3,000,000~$7,000,000 | Second-rank to headliner class; stable income from theaters and events |
-| Advanced (10+ years) | $7,000,000~$30,000,000 | Popular performers and top stars earn high income, with no upper limit |
+| Beginner (0–3 years) | $1,000,000~$3,000,000 | 作为初级表演者学徒期间收入极低 |
+| 中级（3-10年） | $3,000,000~$7,000,000 | 从配角到主角级别；剧院和活动收入稳定 |
+| 高级（10年以上） | $7,000,000~$30,000,000 | 受欢迎的表演者和顶级明星收入高，无上限 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI is unlikely to completely replace rakugo or manzai, it may be partially utilized for automatic script generation or performance assistance. AI is sometimes used to analyze audience laughter, but the value of human artistry remains high.
+虽然AI不太可能完全取代落语或漫才，但可能部分用于自动脚本生成或表演辅助。AI有时用于分析观众笑声，但人类艺术的价值仍然很高。
 
-Progress from apprenticeship (lowest rank) to second rank, then to headliner. Entering a master's tutelage is common; skill and popularity are keys to career advancement. After independence, self-promotion skills are also important.
+从学徒（最低等级）晋升到二级，再到头牌。通常需拜师学艺；技能和人气是职业发展的关键。独立后，自我推广能力也很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording and distribution of classic performances
-- Simple script generation
+- 经典表演的录制和发行
+- 简单脚本生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Audience reaction analysis
-- Performance marketing
-- Idea generation for new works
+- 观众反应分析
+- 效果营销
+- 新作品创意构思
 
-**人类护城河:**
+**人类护城河：**
 
-- Impromptu comedic timing
-- Sense of unity with the audience
-- Master-apprentice techniques inheritance
-- Heartwarming human stories
+- 即兴喜剧节奏
+- 与观众的团结感
+- 师徒技艺传承
+- 温馨的人文故事
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Deep understanding of classics
-- Ad-libbing skills
-- Marketing and SNS management
-- Directing skills
+- 对经典著作的深刻理解
+- 即兴发挥能力
+- 营销与社交媒体管理
+- 导演技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Rakugo (comic storytelling)
-- Manzai (comedy duo performance)
-- Storytelling (kodan)
-- Magic (kijutsu)
+- 落语（单口相声）
+- 漫才（喜剧双人表演）
+- 讲故事（讲谈）
+- 魔术（kijutsu）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply if a foreigner learns and performs Japanese performing arts, but typically requires work such as interpretation/translation |
-| Subclass 興行 (Entertainer Visa) | Available for short-term performances and event appearances, but with restrictions on work purposes |
-| Subclass 特定技能 (Specified Skilled Worker) | Not applicable (Entertainers/Performers are not a designated field for Specified Skilled Worker) |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People passionate about spoken arts and physical expression
-- People who find joy in making others laugh
-- People who can endure rigorous training
+- 热爱语言艺术和肢体表达的人
+- 以让他人发笑为乐的人
+- 能经受严格训练的人
 
 **谁不适合**
-- People who prioritize stable income
-- People who are weak to criticism or failure
+- 优先考虑稳定收入的人
+- 对批评或失败敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Is the income of entertainers stable?**
-答：In many cases, there is almost no income during the apprenticeship period, and many people work part-time jobs simultaneously. Even after becoming a top-ranking performer, income remains unstable and fluctuates greatly depending on TV appearances and popularity.
+**问：演艺人员的收入稳定吗？**
+答：多数情况下，学徒期几乎没有收入，许多人同时做兼职工作。即使成为顶尖选手，收入仍不稳定，且因电视出镜和人气而波动很大。
 
-**问：Can foreigners work as entertainers in Japan?**
-答：It is possible, but language ability and mastery of the art are essential. If you have achievements or a recommendation from a master, you may be able to obtain an Engineer/Specialist in Humanities/International Services visa, but it is not a common route.
+**问：外国人可以在日本做艺人吗？**
+答：有可能，但语言能力和艺术造诣是关键。如有成就或大师推荐，可能获得“工程师/人文知识/国际服务”签证，但并非常见途径。
 
 
 ---
@@ -142,12 +132,12 @@ Progress from apprenticeship (lowest rank) to second rank, then to headliner. En
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/performing-artist/JP)**

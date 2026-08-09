@@ -51,8 +51,6 @@ Mechanical machine assemblers assemble mechanical parts, equipment, and machines
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mechanical machine assemblers face high automation risk, especially repetitive assembly tasks will be replaced by intelligent robots, but debugging and anomaly handling still require human experience.
-
 Start as a junior assembler, can advance to senior assembler, team leader, or quality control officer. Additional certifications (e.g., welding or electrical skills) can lead to maintenance or technician roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior assembler, can advance to senior assembler, team leader, or qu
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Not applicable, as this occupation is not on the skills shortage list. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Applicable for intra-company transfers within multinational corporations, subject to salary and position requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: General Employment Permit available, requires employer-provided contract with
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-machinery-assembler/IE)**

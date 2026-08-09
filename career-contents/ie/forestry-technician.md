@@ -52,8 +52,6 @@ Forestry technicians are responsible for forest management, tree cultivation, ti
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The risk of automation for forestry technician tasks is moderate; field data collection and routine monitoring are easily replaced by AI, but complex ecological decisions and field management still require human judgment. AI will enhance data analysis and planning capabilities.
-
 Can advance to senior forestry technician, forest manager, or forestry consultant, or move into environmental consulting or sustainability.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior forestry technician, forest manager, or forestry consultan
 | Subclass General Employment P (General Employment Permit) | For general employment, requires labor market testing. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions; annual salary must exceed €34,000 (2023 standard). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Government afforestation targets and carbon sink demand drive industry growth
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-technician/IE)**

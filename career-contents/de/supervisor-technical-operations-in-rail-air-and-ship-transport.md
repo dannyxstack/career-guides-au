@@ -52,8 +52,6 @@ Oversees technical operations in rail, air, or maritime transport, ensuring safe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of railway, aviation, and ship transport technical operations manager is mixed regarding AI: AI automation risk is moderately high, but management, emergency decision-making, and cross-system coordination skills form a moat; it is recommended to proactively master AI predictive diagnostic tools.
-
 Can progress from technician to supervisor, then to operations manager or department head. Requires management experience and advanced qualifications (e.g., Railway Operations Supervisor certification).
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from technician to supervisor, then to operations manager or depart
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a professional qualification (e.g., IHK certification) or a university degree to apply for skilled migration. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allowing job seekers to enter the country for one year to find work, requiring relevant qualifications. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply via EU Blue Card or skilled migration visa, requires recognized pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-technical-operations-in-rail-air-and-ship-transport/DE)**

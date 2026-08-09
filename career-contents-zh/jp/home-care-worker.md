@@ -1,8 +1,8 @@
-# Home Care Worker 职业分析 · 日本
+# 家庭护理员（Home Care Worker）职业分析 · 日本
 
-**职业代码: 362 (JSCO)**
+**职业代码：362 (JSCO)**
 
-A home care specialist who visits the homes of the elderly and disabled to provide physical care (bathing, toileting, meals) and daily living support.
+家访护理专员，上门为老年人和残疾人提供身体护理（洗澡、如厕、用餐）和日常生活支持。
 
 
 ---
@@ -11,8 +11,8 @@ A home care specialist who visits the homes of the elderly and disabled to provi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Initial Training for Care Workers | 2~6个月 | $30,000~$100,000（Some municipalities offer grants） |
-| Certified Care Worker (National Qualification) | 2–3 years | $100,000~$1,500,000（Practical training + 3 years of experience or vocational school route） |
+| 护理人员入职培训 | 2~6个月 | $30,000~$100,000（部分市政府提供补助） |
+| 认证护理员（国家资格） | 2–3年 | $100,000~$1,500,000（实践培训 + 3年经验或职业学校途径） |
 
 ---
 
@@ -20,18 +20,18 @@ A home care specialist who visits the homes of the elderly and disabled to provi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Initial Training for Care Workers | Designated by Prefectural Governor | 可选 | Not mandatory but effectively an entry-level qualifier |
-| Practical Training | Designated by Prefectural Governor | 可选 | Required for Certified Care Worker exam |
-| Certified Care Worker | Ministry of Health, Labour and Welfare | 可选 | National qualification, beneficial for career advancement |
+| 护理人员入职培训 | 由县知事指定 | 可选 | 非强制但实际为入门资格 |
+| 实践培训 | 由县知事指定 | 可选 | 通过认证护理员考试所需 |
+| 认证护理员 | 厚生劳动省 | 可选 | 国家资格，有利于职业晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 410,000. Demand is steadily increasing due to the aging population. It is estimated that Japan will face a shortage of approximately 340,000 care workers by 2025, and job openings for home care workers are expected to remain high.
+**职位需求量：很高（★★★★★）** 全国从业人数约 410,000。由于人口老龄化，需求稳步增长。预计到2025年，日本将面临约34万名护理人员的短缺，家庭护理人员的职位空缺预计将持续高位。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,86 @@ A home care specialist who visits the homes of the elderly and disabled to provi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $2,800,000~$3,400,000 | Base salary + allowance for care quality improvement |
-| Mid (3–7 years) | $3,400,000~$4,000,000 | Service provider manager, etc. |
-| 高级（7年以上） | $4,000,000~$5,000,000 | Manager or concurrent care manager |
+| 初级（0-3年） | $2,800,000~$3,400,000 | 基本工资+护理质量改善津贴 |
+| 中级（3-7年） | $3,400,000~$4,000,000 | 服务提供商经理等 |
+| 高级（7年以上） | $4,000,000~$5,000,000 | 经理或兼职护理经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robots play a supplementary role through monitoring sensors, bathing assistance, and automated recording, but humans continue to handle the core of interpersonal care. Home-visit care is one of the occupations difficult to replace by AI.
+人工智能和机器人通过监控传感器、洗浴辅助和自动记录发挥辅助作用，但人类继续处理人际关怀的核心。上门护理是人工智能难以替代的职业之一。
 
-Start as a home helper. With experience, you can advance to service provider manager, care manager, or administrator. Qualifications can be obtained stepwise: initial training, practical training, and certified care worker.
+从家庭助手开始。随着经验积累，可以晋升为服务提供商经理、护理经理或管理员。资格可以逐步获得：初步培训、实践培训和认证护理员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording tasks
-- Schedule management
-- Handling simple inquiries
+- 记录任务
+- 时间表管理
+- 处理简单咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Abnormality detection via monitoring sensors
-- Care recording through voice input
-- Transfer assistance using care robots
+- 通过监控传感器检测异常
+- 通过语音输入进行护理记录
+- 利用护理机器人进行转移辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Flexible response
-- Physical care techniques
-- Building trust with the elderly
+- 同理心
+- 灵活应对
+- 身体护理技巧
+- 与老年人建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of AI care record systems
-- ICT literacy
-- Multidisciplinary collaboration skills
+- AI护理记录系统操作
+- ICT素养
+- 多学科协作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expanding demand for home care
-- Utilization of care robots
-- Acceptance of foreign care workers
-- Strengthened collaboration with home-visit nursing
+- 家庭护理需求扩大
+- 护理机器人的利用
+- 接受外国护理人员
+- 加强上门护理合作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号(介護) (Specified Skilled Worker (i)) | Residence status for nursing care. Requires passing exam and Japanese ability (N4 or higher). Max stay 5 years. |
-| Subclass EPA(介護福祉士候補者) (Economic Partnership Agreement (EPA)) | Acceptance from Indonesia, Philippines, Vietnam. After training in home country, aim for national certification while working at Japanese facilities. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who want to help others
-- People good at communication
-- People confident in physical strength
+- 愿意帮助他人者
+- 善于沟通的人
+- 体力充沛的人
 
 **谁不适合**
-- People not good with interpersonal interaction
-- People with concerns about physical strength
+- 不擅长人际交往的人
+- 担心体力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of home care workers?**
-答：Average annual income is about 3.5 million yen. Varies by experience, qualifications, and employment type (full-time/part-time). Night/early morning visits can increase income.
+**问：家庭护理人员的平均年收入是多少？**
+答：平均年收入约350万日元，因经验、资格和就业类型（全职/兼职）而异。夜间/清晨出勤可增加收入。
 
-**问：What visa do foreigners need to work in home care in Japan?**
-答：Mainly 'Specified Skilled Worker (i) (Nursing Care)' or 'EPA Certified Care Worker Candidate'. Specified Skilled Worker (i) requires passing Japanese exam (N4 level) and nursing care skills evaluation exam.
+**问：外国人在日本从事家庭护理工作需要什么签证？**
+答：主要为“特定技能工人(i)（护理）”或“EPA认证护理人员候选人”。特定技能工人(i)需要通过日语考试（N4级）和护理技能评估考试。
 
-**问：How to advance your career?**
-答：Career paths include service provider manager, care manager, and administrator. Obtaining a certified care worker qualification leads to salary increases and better job opportunities.
+**问：如何晋升你的职业？**
+答：职业路径包括服务提供商经理、护理经理和管理员。获得认证护理员资格可带来加薪和更好的就业机会。
 
 
 ---
@@ -142,12 +136,12 @@ Start as a home helper. With experience, you can advance to service provider man
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/home-care-worker/JP)**

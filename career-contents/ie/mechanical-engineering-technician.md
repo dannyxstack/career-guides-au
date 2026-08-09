@@ -51,8 +51,6 @@ Under the guidance of a mechanical engineer, provide technical support for mecha
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Entry-level positions for mechanical engineering technicians are being significantly reduced by AI automation. Repetitive design verification and document generation tasks face replacement risks, but on-site debugging and cross-physical system collaboration still preserve opportunities for humans.
-
 Can progress from junior technician to senior technician, team supervisor, or become a mechanical engineer through further study. Also possible to move into project management or specialized fields such as HVAC or automation.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from junior technician to senior technician, team supervisor, or be
 | Subclass General Employment P (General Employment Permit) | Applicable to non-shortage skilled occupations, requires labour market test, annual salary generally not less than 30,000 euros. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, annual salary must exceed about €36,000, can bring family members. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply for Critical Skills Employment Permit (shortage occupation list), G
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-technician/IE)**

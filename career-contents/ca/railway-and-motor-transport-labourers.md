@@ -51,8 +51,6 @@ Responsible for loading, unloading, lashing, and cleaning goods in rail and road
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Physical loading tasks for railway and truck transport laborers face high risk of automation, but on-site adaptability and complex environment assessment still rely on humans, compressing short-term employment space.
-
 Can advance from general worker to supervisor or scheduler, or transition to technical roles like truck driver or forklift operator through training.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Can advance from general worker to supervisor or scheduler, or transition to tec
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -145,11 +141,12 @@ A: Usually not eligible for skilled migration; primarily via LMIA employer-spons
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-and-motor-transport-labourers/CA)**

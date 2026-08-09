@@ -4,8 +4,6 @@
 
 In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handles ticket sales, attraction guidance, and customer service.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handle
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-This occupation is susceptible to AI and automation. Simple customer service tasks are decreasing due to automated ticket machines and guide robots.
-
 To aim for full-time employment, acquire skills in store management and event planning, with potential promotion to area manager or store manager.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ To aim for full-time employment, acquire skills in store management and event pl
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and specialized knowledge in customer service and operations. Obtainable for theme park management roles. |
-| Subclass 特定技能1号（飲食料品製造業／外食業） (Specified Skilled Worker (i)) | Not applicable for entertainment venue customer service, but obtainable for cooking and customer service at attached restaurants. |
-| Subclass 留学 (Student) | Enrolled in Japanese language school or vocational school; eligible for part-time work under permitted extra-curricular activities (up to 28 hours/week). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: Gain experience in the service industry and advance to store manager or area 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/amusement-facility-attendant/JP)**

@@ -4,8 +4,6 @@
 
 Assist with daily operations management of hotels or restaurants, including front desk reception, customer relations, budget control, and team coordination to ensure service quality and customer satisfaction.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Assist with daily operations management of hotels or restaurants, including fron
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The administrative and reservation tasks of hotel-restaurant management assistants will be optimized by AI, but interpersonal coordination and on-site service will still rely on humans; Entry-level positions have narrowed due to automation, but demand for composite management positions is increasing.
-
 Junior Management Assistants can be promoted to department heads (such as housekeeping managers), and then to hotel restaurant managers. After accumulating experience, they can transition to chain brand regional management or start their own businesses to establish small hotel and catering enterprises.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior Management Assistants can be promoted to department heads (such as housek
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least 1 year, salary not lower than SMIC (approximately 21,000 EUR/year), position matching academic qualifications. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, with a salary threshold of about 47,000 euros per year, requiring an employer contract to quickly obtain residency. |
-| Subclass Recherche emploi (Job Search Visa) | Within one year after graduation, you can find a job and stay temporarily; once you find a suitable job, you can switch to a work visa. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Yes, you can be promoted to department head, restaurant manager, or hotel man
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotelrestaurant-management-assistant/FR)**

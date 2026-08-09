@@ -1,10 +1,8 @@
-# Mathematics and Statistics Research Scientist 职业分析 · 韩国
+# 数学与统计研究科学家（Mathematics and Statistics Research Scientist）职业分析 · 韩国
 
-**职业代码: 12113 (KECO)**
+**职业代码：12113 (KECO)**
 
-A professional research role that applies mathematical and statistical principles to perform data analysis, modeling, and forecasting, supporting decision-making in industry and academia.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+运用数学和统计原理进行数据分析、建模和预测，支持行业和学术界决策的专业研究岗位。
 
 
 ---
@@ -13,8 +11,8 @@ A professional research role that applies mathematical and statistical principle
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Mathematics/Statistics | 4年 | $20,000,000~$50,000,000（Based on national/public university） |
-| Master's in Mathematics/Statistics | 2 年 | $10,000,000~$30,000,000（General graduate school tuition） |
+| 数学/统计学学士 | 4年 | $20,000,000~$50,000,000（基于国立/公立大学） |
+| 数学/统计学硕士 | 2 年 | $10,000,000~$30,000,000（普通研究生学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional research role that applies mathematical and statistical principle
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| ADsP (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 可选 | Basic statistical analysis certification |
-| National Certified Statistical Analyst | Statistics Korea | 可选 | Professional statistical analysis certification |
+| ADsP（高级数据分析半专业） | 韩国数据局 | 可选 | 基础统计分析认证 |
+| 国家认证统计分析员 | 韩国统计厅 | 可选 | 专业统计分析认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,000. Employment is expected to grow steadily due to increasing demand for data-driven decision-making and AI advancements, with particularly high demand in big data, finance, and pharmaceuticals.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,000。由于数据驱动决策和人工智能发展的需求增加，就业预计将稳步增长，尤其是在大数据、金融和制药领域需求特别高。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional research role that applies mathematical and statistical principle
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Based on master's degree |
-| Mid-level (4–9 years) | $50,000,000~$70,000,000 | Varies by experience and expertise |
-| Senior-level (10+ years) | $75,000,000~$99,999,999 | Principal researcher or above |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于硕士学位 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 因经验和专长而异 |
+| 高级（10年以上经验） | $75,000,000~$99,999,999 | 主任研究员及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While automation is underway in AI model development and statistical analysis, the advanced reasoning and domain knowledge of researchers remain important. Simple statistical tasks are being replaced, but complex interpretation and decision-making still require human roles.
+虽然AI模型开发和统计分析正在自动化，但研究员的高级推理和领域知识仍然重要。简单的统计任务正在被取代，但复杂的解释和决策仍需人类角色。
 
-After a master's/doctoral degree, join a research institute or corporate R&D department; career progression from senior researcher to principal researcher to lab director, or become a university professor or data analysis expert.
+硕士/博士毕业后，可加入研究机构或企业研发部门；职业发展从高级研究员到首席研究员再到实验室主任，或成为大学教授或数据分析专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Statistical Analysis
-- Simple Data Cleaning and Visualization
-- Standard Model Parameter Tuning
+- 基础统计分析
+- 简单数据清洗与可视化
+- 标准模型参数调优
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Advanced Predictive Model Development
-- Data-Driven Decision Support
-- Experimental Design and Interpretation
+- 高级预测模型开发
+- 数据驱动决策支持
+- 实验设计与解读
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Problem Definition
-- Domain Knowledge and Insight
-- Ethical Judgment and Interpretation
+- 创造性问题定义
+- 领域知识与洞察
+- 道德判断与解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning
+- 机器学习
 - Python/R
-- Big Data Platforms
-- Communication Skills
+- 大数据平台
+- 沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Big Data
-- AI Modeling
-- Financial Engineering
-- Medical Statistics
+- 大数据
+- AI建模
+- 金融工程
+- 医学统计学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Master's degree or higher and related experience required; eligible for employment at research institutions |
-| Subclass D-10 (Job-seeking) | Job-Seeking Visa for Master's or Higher Degree Holders |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong mathematical thinking and logic
-- People interested in data-driven problem solving
-- People patient with long-term research
+- 具有较强数学思维和逻辑能力的人
+- 对数据驱动的问题解决感兴趣的人
+- 对长期研究有耐心的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who prefer independent work over teamwork
+- 喜欢独立工作而非团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a Mathematics/Statistics Researcher?**
-答：Entry-level approximately 35-45 million KRW, mid-level 50-70 million KRW, senior 75-120 million KRW.
+**问：数学/统计学研究员的平均薪资是多少？**
+答：入门级约3500-4500万韩元，中级5000-7000万韩元，高级7500-12000万韩元。
 
-**问：What visa do foreigners need for this job in Korea?**
-答：E-7 visa for those with a master's degree and experience; D-10 visa for job seekers.
+**问：外国人在韩国工作需要哪种签证？**
+答：硕士学历及经验者适用E-7签证；求职者适用D-10签证。
 
-**问：What is the required degree level?**
-答：Usually a master's degree or higher; a bachelor's degree may allow some entry but competition is fierce.
+**问：所需学历水平是什么？**
+答：通常需硕士或以上学历；本科学历可能有机会进入但竞争激烈。
 
 
 ---
@@ -144,12 +135,12 @@ After a master's/doctoral degree, join a research institute or corporate R&D dep
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mathematics-and-statistics-research-scientist/KR)**

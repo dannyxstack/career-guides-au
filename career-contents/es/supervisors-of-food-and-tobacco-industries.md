@@ -51,8 +51,6 @@ Supervise food and tobacco production lines to ensure processes meet safety and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The food and beverage processing supervisor role has mixed prospects: AI and automation will handle repetitive tasks like production scheduling and quality data recording, but manual supervision, anomaly handling, and team management still rely on human judgment, making full replacement unlikely in the short term.
-
 You can be promoted from production line worker to supervisor, then shift to quality control or production management. You need to master new technologies and management skills.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted from production line worker to supervisor, then shift to qua
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring higher education and at least a minimum salary threshold |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly skilled professionals with fast approval |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Employer-sponsored work residency requires proof that the position is difficult to fill locally |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: You can obtain an EU Blue Card or a Highly Skilled Professional visa (Ley 14/
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-of-food-and-tobacco-industries/ES)**

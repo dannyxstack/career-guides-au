@@ -52,8 +52,6 @@ Responsible for overseeing railway transport operations, coordinating train sche
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on rail transport operations supervisors is mixed: automation will take over many scheduling, data monitoring, and compliance checks, but human judgment in crisis management, multi-department coordination, and safety remains irreplaceable.
-
 Promoted from dispatcher or train attendant to supervisor, then to operations manager or regional director, requiring experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promoted from dispatcher or train attendant to supervisor, then to operations ma
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations in some provinces like Ontario, Alberta can accelerate immigration |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work permit to accumulate Canadian work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually high school graduation plus vocational training or diploma, and railw
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-railway-transport-operations/CA)**

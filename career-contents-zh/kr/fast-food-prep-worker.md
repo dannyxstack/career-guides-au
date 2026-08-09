@@ -1,10 +1,8 @@
-# Fast Food Prep Worker 职业分析 · 韩国
+# 快餐准备工（Fast Food Prep Worker）职业分析 · 韩国
 
-**职业代码: 53211 (KECO)**
+**职业代码：53211 (KECO)**
 
-Prepares and packages menu items (burgers, fries, drinks) and serves customers at fast food restaurants
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在快餐店准备和包装菜单项目（汉堡、薯条、饮料）并为顾客服务
 
 
 ---
@@ -13,8 +11,8 @@ Prepares and packages menu items (burgers, fries, drinks) and serves customers a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school or less | 0年 | $0~$0（No qualifications or training） |
-| 短期上岗培训 | 1个月 | $0~$500,000（No training costs; no license required） |
+| 高中及以下学历 | 0年 | $0~$0（无资格或培训要求） |
+| 短期上岗培训 | 1个月 | $0~$500,000（无培训费用；无需执照） |
 
 ---
 
@@ -22,17 +20,17 @@ Prepares and packages menu items (burgers, fries, drinks) and serves customers a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cooking Technician (optional) | Human Resources Development Service of Korea | 可选 | Not mandatory for fast food; bonus points |
-| Food Sanitation Education Certificate | Korea Food Safety Management Institute | 可选 | Required by some local governments; short course |
+| 烹饪技术员（可选） | 韩国人力资源开发服务局 | 可选 | 快餐行业非必需，加分项 |
+| 食品卫生教育证书 | 韩国食品安全管理院 | 可选 | 一些地方政府要求；短期课程 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Employment is stable due to franchise expansion and delivery demand, but minimum wage hikes and automation may limit job growth
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。由于连锁扩张和配送需求，就业稳定，但最低工资上调自动化和可能限制就业增长
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,90 +38,83 @@ Prepares and packages menu items (burgers, fries, drinks) and serves customers a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $23,000,000~$26,000,000 | Hourly wage; based on 40-hour week |
-| Mid (3–7 years) | $26,000,000~$29,000,000 | Upon promotion to manager |
-| 高级（7年以上） | $29,000,000~$35,000,000 | Branch manager level; includes bonuses |
+| 初级（0-3年） | $23,000,000~$26,000,000 | 时薪；按每周40小时计算 |
+| 中级（3-7年） | $26,000,000~$29,000,000 | 晋升为经理后 |
+| 高级（7年以上） | $29,000,000~$35,000,000 | 分行经理级别；含奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-While AI and automation are replacing simple cooking and serving tasks through order/payment kiosks and frying robots, human interaction and unstructured work are still needed, so full replacement will take time
+虽然AI和自动化正通过自助点餐机、支付系统和炒菜机器人取代简单的烹饪和服务任务，但人际互动和非结构化工作仍有需求，因此完全替代还需时日。
 
-Can advance to store manager with experience; high turnover as most work is simple labor; often starts as part-time job
+有经验者可晋升为店长；因多为简单劳动，人员流动率高；常从兼职开始
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order entry
-- Simple beverage preparation
-- Frying potatoes
+- 订单录入
+- 简单饮品制备
+- 油炸土豆
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized customer recommendations
-- Inventory management
-- Hygiene inspection
+- 个性化客户推荐
+- 库存管理
+- 卫生检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Customer service
-- Emergency response
-- Cleanliness assessment
+- 客户服务
+- 应急响应
+- 清洁度评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic cooking
-- Food hygiene
-- Customer service
-- Kiosk operation
+- 基本烹饪
+- 食品卫生
+- 客户服务
+- 售货亭操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Franchise expansion
-- Increase in delivery and takeout
-- Minimum wage increase
-- Introduction of automation and kiosks
+- 特许经营扩张
+- 配送和外卖增加
+- 最低工资上涨
+- 自动化和自助服务终端引入
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Eligible for low-skilled foreign workers under Employment Permit System |
-| Subclass H-2 (H-2 (Working Visit)) | Allowed for overseas Koreans, can work at fast-food restaurants |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Quick hand movements
-- No aversion to customer service
-- Patience for simple repetitive tasks
+- 手速快
+- 不排斥客户服务
+- 对简单重复性工作的耐心
 
 **谁不适合**
-- Stress from high-speed work
-- Lack of service mindset
+- 高速工作带来的压力
+- 缺乏服务意识
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a fast-food preparer?**
-答：Entry-level: 23-26 million KRW, minimum wage applies
+**问：快餐制备员的平均薪资是多少？**
+答：入门级：2300-2600万韩元，适用最低工资
 
-**问：Can foreigners work at fast-food restaurants?**
-答：Possible with E-9 (Non-professional Employment) or H-2 (Working Visit) visas, requires Employment Permit System
+**问：外国人能在快餐店工作吗？**
+答：可通过E-9（非专业就业）或H-2（工作访问）签证，需经就业许可制度
 
 
 ---
@@ -141,12 +132,12 @@ Can advance to store manager with experience; high turnover as most work is simp
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fast-food-prep-worker/KR)**

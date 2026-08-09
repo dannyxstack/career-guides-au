@@ -1,8 +1,8 @@
-# Online Sales Representative 职业分析 · 韩国
+# 在线销售代表（Online Sales Representative）职业分析 · 韩国
 
-**职业代码: 61531 (KECO)**
+**职业代码：61531 (KECO)**
 
-A job that involves planning and selling products through online channels such as internet shopping malls, social media, and live commerce, as well as handling customer service and marketing.
+涉及通过互联网商城、社交媒体和直播电商等在线渠道规划和销售产品，以及处理客户服务和营销的工作。
 
 
 ---
@@ -11,9 +11,9 @@ A job that involves planning and selling products through online channels such a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 3年 | $0~$0（Employment possible immediately after high school graduation） |
-| College (2~3 years) | 2 年 | $5,000,000~$10,000,000（Departments related to distribution/business, annual tuition fee standard） |
-| University (4 years) | 4年 | $8,000,000~$20,000,000（Majors in business, economics, communication, annual tuition fee standard） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后即可就业） |
+| 大学（2-3年） | 2 年 | $5,000,000~$10,000,000（与分销/商务相关的院系，年学费标准） |
+| 大学（4年） | 4年 | $8,000,000~$20,000,000（商业、经济学、通信专业，年学费标准） |
 
 ---
 
@@ -21,18 +21,18 @@ A job that involves planning and selling products through online channels such a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computer Literacy Level 2 or higher | Korea Chamber of Commerce and Industry | 可选 | Demonstrates proficiency in office software |
-| E-commerce Manager | Korea International Trade Association | 可选 | Certification in online sales expertise |
-| Distribution Manager Level 2 | Korea International Trade Association | 可选 | Certification in distribution/logistics knowledge |
+| 计算机水平二级或以上 | 大韩商工会议所 | 可选 | 证明熟练使用办公软件 |
+| 电子商务经理 | 韩国国际贸易协会 | 可选 | 在线销售专业认证 |
+| 二级配送经理 | 韩国国际贸易协会 | 可选 | 物流分销知识认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 450,000. Steady demand is expected alongside the growth of the e-commerce market, but the introduction of AI-based automation tools may reduce some simple tasks.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 450,000。随着电商市场增长，需求稳定，但AI自动化工具的引入可能减少一些简单任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A job that involves planning and selling products through online channels such a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$30,000,000 | Based on SME standards, excluding incentives |
-| Intermediate (4~7 years) | $32,000,000~$42,000,000 | Varies by career and company size |
-| 高级（8年+） | $45,000,000~$60,000,000 | MD/Marketing Manager level |
+| 初级（0~3 年） | $24,000,000~$30,000,000 | 基于中小企业标准，不含激励 |
+| 中级（4-7年） | $32,000,000~$42,000,000 | 因职业和公司规模而异 |
+| 高级（8年+） | $45,000,000~$60,000,000 | MD/营销经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As AI chatbots, automated product recommendations, and price optimization tools are introduced, simple customer service and data entry tasks are decreasing, but human creative marketing and customer relationship management remain important.
+随着AI聊天机器人、自动化产品推荐和价格优化工具的引入，简单的客户服务和数据录入任务正在减少，但人类创意营销和客户关系管理仍然重要。
 
-Starting as a junior sales representative, one can grow into a product planning/marketing specialist or develop into a shopping mall founder/manager. With experience, advancement to MD or online marketing manager is possible.
+从初级销售代表起步，可成长为产品规划/营销专家，或发展为购物中心创始人/经理。随着经验积累，可晋升为MD或在线营销经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated customer inquiry responses
-- Inventory management data entry
-- Simple product image editing
+- 自动客户咨询回复
+- 库存管理数据录入
+- 简单产品图像编辑
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized product recommendations
-- Advertising efficiency analysis
-- Real-time price fluctuation response
+- 个性化产品推荐
+- 广告效率分析
+- 实时价格波动应对
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with customers
-- Trend sensitivity
-- Negotiation and communication skills
+- 建立客户信任
+- 趋势敏感度
+- 谈判与沟通能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- SNS marketing
-- Using AI tools
-- Live Commerce Hosting
+- 数据分析
+- 社交媒体营销
+- 使用人工智能工具
+- 直播带货主持
 
-**主要增长方向:**
+**主要增长方向：**
 
-- E-commerce
-- Live commerce
-- Social media marketing
-- Online MD
+- 电子商务
+- 直播电商
+- 社交媒体营销
+- 在线医学博士
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires online sales experience and degree for foreign professionals in specialized/semi-specialized fields |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited but possible in online sales for non-professional foreign workers |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, no work restrictions; eligible for all industries including online sales |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent communication skills
-- People sensitive to trends and active online
-- People who can multitask
+- 沟通能力强的人
+- 对趋势敏感且活跃在线的人
+- 能同时处理多项任务的人
 
 **谁不适合**
-- People who prefer working quietly alone
-- People who want regular working hours
+- 喜欢安静独自工作的人
+- 希望有固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an online salesperson?**
-答：For entry-level, it's about 24-30 million KRW, and depending on experience and company size, it can go up to 60 million KRW.
+**问：在线销售人员的平均薪资是多少？**
+答：入门级约2400-3000万韩元，根据经验和公司规模可达6000万韩元。
 
-**问：What visa do foreigners need to work as an online salesperson in Korea?**
-答：E-7 (Specific Activities) visa is common, and you need to prove relevant degree or experience. Some simple tasks may allow E-9, but it's limited.
+**问：外国人在韩国做在线销售人员需要什么签证？**
+答：E-7（特定活动）签证常见，需证明相关学历或经验。一些简单任务可能允许E-9，但有限制。
 
-**问：What skills should I develop to get promoted from an online salesperson?**
-答：Product planning, data analysis, and marketing strategy skills are important, and relevant certifications (e.g., E-commerce Manager) help.
+**问：从在线销售人员晋升需要培养哪些技能？**
+答：产品策划、数据分析和营销策略技能很重要，相关认证（如电子商务经理）有帮助。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as a junior sales representative, one can grow into a product planning/
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/online-sales-representative/KR)**

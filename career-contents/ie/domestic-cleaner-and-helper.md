@@ -51,8 +51,6 @@ Responsible for cleaning homes or commercial premises, including sweeping, vacuu
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cleaners and domestic workers face high risk of automation replacement in frontline cleaning tasks, but demand for complex household management is rising. Overall positions are expected to shrink, with entry requirements slightly increasing.
-
 Limited promotion path; can advance to cleaning supervisor or start own business. Some transition to hotel or commercial cleaning, but overall career growth is limited.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Limited promotion path; can advance to cleaning supervisor or start own business
 | Subclass General Employment P (General Employment Permit) | Applicable for non-critical occupations requiring employer sponsorship, with annual salary typically exceeding 30,000 euros. This occupation has low salary, making it difficult to meet the threshold. |
 | Subclass EU Blue Card (EU Blue Card) | Aimed at highly skilled talents, requires high annual salary, not suitable for this occupation. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: No mandatory certification required, but first aid training or professional c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-cleaner-and-helper/IE)**

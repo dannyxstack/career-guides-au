@@ -1,8 +1,8 @@
-# Display R&D Engineer 职业分析 · 韩国
+# 显示研发工程师（Display R&D Engineer）职业分析 · 韩国
 
-**职业代码: 15324 (KECO)**
+**职业代码：15324 (KECO)**
 
-A professional engineer responsible for researching new technologies and developing products for displays (OLED, LCD, MicroLED, etc.).
+负责显示器（OLED、LCD、MicroLED等）新技术研究和产品开发的专业工程师
 
 
 ---
@@ -11,9 +11,9 @@ A professional engineer responsible for researching new technologies and develop
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Electronics, Materials, Physics, etc.) | 4年 | $40,000,000~$80,000,000（Tuition at 4-year national/public or private universities） |
-| Master's (Display Engineering, etc.) | 2 年 | $25,000,000~$50,000,000（Graduate school tuition (national/public standard)） |
-| Ph.D. (optional) | 3年 | $20,000,000~$40,000,000（Ph.D. program scholarship available） |
+| 大学（电子、材料、物理等） | 4年 | $40,000,000~$80,000,000（4年制国立/公立或私立大学学费） |
+| 硕士（显示工程等） | 2 年 | $25,000,000~$50,000,000（研究生学费（国立/公立标准）） |
+| 博士（可选） | 3年 | $20,000,000~$40,000,000（提供博士项目奖学金） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional engineer responsible for researching new technologies and develop
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Information and Communication (Electronic Application) | Human Resources Development Service of Korea | 可选 | Pass the exam and obtain the certification |
-| 电子工程师 | Human Resources Development Service of Korea | 可选 | Not required but gives extra points |
+| 信息与通信专业工程师（电子应用） | 韩国人力资源开发服务局 | 可选 | 通过考试并获得认证 |
+| 电子工程师 | 韩国人力资源开发服务局 | 可选 | 非必需但可获得额外加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. Korea's display industry is becoming high value-added centered on OLED, and demand for R&D personnel remains steady, but overall employment is stagnant due to a decrease in production jobs.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。韩国的显示器行业正以OLED为中心向高附加值发展，研发人员的需求保持稳定，但由于生产岗位减少，整体就业停滞。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,85 @@ A professional engineer responsible for researching new technologies and develop
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $45,000,000~$60,000,000 | Based on large corporations, bachelor's degree |
-| Mid-level (4-9 years) | $70,000,000~$95,000,000 | Master's or higher gives extra points |
-| Senior (10 years or more) | $99,999,999 | Senior Researcher level |
+| 入门级（0-3年） | $45,000,000~$60,000,000 | 基于大型企业，本科学历 |
+| 中级（4-9年） | $70,000,000~$95,000,000 | 硕士及以上加分 |
+| 高级（10年及以上） | $99,999,999 | 高级研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI advances simulation, process optimization, and defect analysis in display R&D, but creative design and new process invention remain human. AI boosts productivity, maintaining overall employment while making researcher roles more critical.
+人工智能在显示研发中优化模拟、工艺和缺陷分析，但创意设计和新工艺发明仍需人工。AI提升生产力，保持整体就业，同时使研发角色更关键。
 
-Junior Researcher → Associate Researcher → Senior Researcher/Team Leader → Principal Researcher/CTO. Possible mobility between large and mid-sized companies.
+初级研究员→副研究员→高级研究员/团队负责人→首席研究员/CTO。可在大型和中型公司间流动。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic physical property analysis tasks
-- Simple process monitoring
-- Existing pattern design optimization
+- 基础物理性能分析任务
+- 简单过程监控
+- 现有图案设计优化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- New material exploration
-- Process parameter optimization
-- Defect prediction and analysis
+- 新材料探索
+- 工艺参数优化
+- 缺陷预测与分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem definition
-- System integration design
-- New technology development direction setting
+- 创造性的问题定义
+- 系统集成设计
+- 新技术发展方向设定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/machine learning basics
-- Data analysis (Python)
-- OLED/MicroLED expertise
+- 人工智能/机器学习基础
+- 数据分析（Python）
+- OLED/MicroLED专长
 
-**主要增长方向:**
+**主要增长方向：**
 
 - OLED
 - MicroLED
-- Flexible displays
-- Next-generation displays
+- 柔性显示器
+- 下一代显示器
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment visa for professional R&D personnel. Requires bachelor's +5 years' experience or master's degree or higher. |
-| Subclass E-9 (Non-professional Employment) | Not suitable for this occupation. |
-| Subclass D-10 (Job Seeking) | Master's degree or higher international students can engage in job-seeking activities after graduation. |
-| Subclass F-2 (Residence) | Can be applied for after long-term stay such as E-7. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Electronics/Materials/Physics Majors
-- Those with OLED/Semiconductor Knowledge
-- Those Interested in Problem Solving and Research
+- 电子/材料/物理专业
+- 具备OLED/半导体知识者
+- 对解决问题和研究感兴趣的人
 
 **谁不适合**
-- Those Who Prefer Repetitive Tasks
-- Those Seeking Job Change
+- 偏好重复性任务者
+- 正在求职的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a display R&D researcher?**
-答：Entry-level 45-60M KRW, mid-level 70-95M KRW, senior 100-150M KRW.
+**问：显示研发研究员的平均年薪是多少？**
+答：入门级4500-6000万韩元，中级7000-9500万韩元，高级1-1.5亿韩元。
 
-**问：What visa does a foreigner need to work as a display R&D engineer in Korea?**
-答：The E-7 (Specific Activities) visa is suitable, requiring a bachelor's + 5 years of experience or a master's degree or higher.
+**问：外国人在韩国担任显示研发工程师需要什么签证？**
+答：E-7（特定活动）签证适用，要求学士学位加5年工作经验或硕士学位及以上。
 
-**问：What are the prospects for this job?**
-答：The outlook is good due to sustained demand for next-generation display technologies like OLED, but competition is fierce.
+**问：这份工作的前景如何？**
+答：由于对OLED等新一代显示技术的持续需求，前景良好，但竞争激烈。
 
 
 ---
@@ -143,12 +135,12 @@ Junior Researcher → Associate Researcher → Senior Researcher/Team Leader →
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/display-rd-engineer/KR)**

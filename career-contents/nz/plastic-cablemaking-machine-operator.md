@@ -54,8 +54,6 @@ Operate extrusion, cooling, and winding equipment in a plastic cable manufacturi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Plastic cable manufacturing machine operators have repetitive tasks and controlled environments, with high risk of automation replacement, and entry-level positions are notably shrinking. AI and robots will take over most operations, monitoring, and quality inspection tasks, leaving only a few equipment maintenance and anomaly handling positions.
-
 Can progress from operator to senior operator, team leader, or production supervisor, or move to equipment maintenance or quality control through training. Requires experience and relevant certifications to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can progress from operator to senior operator, team leader, or production superv
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: This occupation is not on the Green List and generally cannot directly apply 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-cablemaking-machine-operator/NZ)**

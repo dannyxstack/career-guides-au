@@ -52,8 +52,6 @@ Responsible for assessing the credit risk of loan applicants, analyzing financia
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Credit and banking risk analysts face mixed feelings from AI: automation will take over data collection, credit scoring calculations, and report generation, but strategic risk control decisions, regulatory compliance, and complex loan reviews still require human professional judgment, while AI can enhance scenario simulation and stress testing efficiency.
-
 You can advance from junior analyst to senior risk manager or risk director, or transition to fintech, consulting, or internal audit.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ You can advance from junior analyst to senior risk manager or risk director, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree + annual salary of about 46,000 euros, valid for 4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents, with an annual salary threshold of about €53,000 in 2024, valid for four years. |
-| Subclass Salarié (Salaried Employee) | Traditional work visas require employer sponsorship, with no strict annual salary minimum, but usually require no less than 1.5 times the minimum wage. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: With the application of fintech and big data, the demand for risk analysis is
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-and-banking-risk-analyst/FR)**

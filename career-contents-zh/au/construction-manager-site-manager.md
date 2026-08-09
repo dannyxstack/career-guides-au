@@ -1,6 +1,6 @@
-# Construction Manager / Site Manager 职业分析 · 澳大利亚
+# 施工经理/现场经理（Construction Manager / Site Manager）职业分析 · 澳大利亚
 
-**职业代码: 133111 (ANZSCO)**
+**职业代码：133111 (ANZSCO)**
 
 建筑工程师和工地经理负责建设项目全周期管理——从预算制定、进度控制、分包协调到安全合规和竣工交付。澳洲建设行业规模庞大（每年约 $2,800亿产值），基础设施超级项目（地铁/公路/公共住房）和住房供应计划驱动对有经验建设管理人才的强劲需求。建设项目经理是澳洲薪资最高的管理类职业之一（机长级别薪资）。
 
@@ -12,7 +12,7 @@
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
 | Bachelor of Construction Management / Civil Engineering（4年） | 4年 | $30,000~$150,000（主要澳洲大学提供（UNSW/Deakin/QUT/Curtin）；国际生约 $35,000~$45,000/年） |
-| Diploma of Building and Construction（Management） | 2 年 | $8,000~$30,000（TAFE或私立建筑学院；实践型建设管理文凭路径） |
+| 建筑与施工管理文凭 | 2 年 | $8,000~$30,000（TAFE或私立建筑学院；实践型建设管理文凭路径） |
 | PMP / Prince2 项目管理认证（加分） | 1~3个月 | $1,000~$5,000（建设项目管理能力的国际认可证书，提升竞争力） |
 | White Card（建设工地安全证） | 半天~1天 | $50~$200（进入建设工地的法定安全培训证书（所有工地人员必须）） |
 
@@ -25,16 +25,16 @@
 | White Card（建设工地安全证） | TAFE / 认可RTO | 必备 | 所有建设工地工作人员的法定要求 |
 | Builder's Licence（建筑师执照） | 各州建筑监管部门 | 可选 | 独立承包建设项目（合同额超过 $20k）的法定要求 |
 | Vetassess / AIPM 技能评估 | Vetassess / 澳洲项目管理研究院 | 可选 | 技术移民的学历和经验评估 |
-| PMP（Project Management Professional） | 项目管理协会 | 可选 | 大型基础设施项目经理的国际认可资质 |
+| PMP（项目管理专业人士） | 项目管理协会 | 可选 | 大型基础设施项目经理的国际认可资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 45,000. JSA预测建筑工程师/项目经理就业至2030年增长约10%。各州政府基础设施投资（NSW铁路/VIC西关隧道/QLD奥运基础设施/WA METRONET）持续推动需求。住房危机使各州政府加大住宅建设计划，推动额外需求。
+**职位需求量：很高（★★★★★）** 全国从业人数约 45,000。JSA预测建筑工程师/项目经理就业至2030年增长约10%。各州政府基础设施投资（NSW铁路/VIC西关隧道/QLD奥运基础设施/WA METRONET）持续推动需求。住房危机使各州政府加大住宅建设计划，推动额外需求。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -53,14 +53,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：中低（★★☆☆☆）**
 
 建筑项目经理岗位整体受益于AI增强，但入门级协调任务面临自动化压力，需主动掌握数字化工具以保持竞争力。
 
 澳洲建设行业面临历史性劳动力短缺——每年需要数万名建设管理和工程人才。BIM数字建造和绿色建筑（NABERS/Green Star认证）成为大型项目的标配要求，掌握这些技能的项目经理竞争优势显著。FIFO（飞进飞出）矿业建设和偏远基础设施项目提供额外高薪机会（日薪 $800~$1,500）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成进度报告和会议纪要
 - 标准化投标文件初步审查与比价
@@ -68,7 +68,7 @@
 - 现场安全违规自动识别与警报
 - 自动化合规文件归档与检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI支持的多方案施工模拟与优化
 - 深度学习驱动的施工缺陷识别与预测
@@ -76,7 +76,7 @@
 - 实时供应链风险预警与替代方案推荐
 - AI辅助分包商绩效分析与择优
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂利益相关方（业主、设计师、分包商）协调与谈判
 - 现场不可预见问题（如地质条件变化）的快速决策
@@ -84,7 +84,7 @@
 - 创新施工方法的设计与实施领导
 - 对项目整体战略目标的理解与平衡
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM（如Revit）高级建模与数据管理
 - Python/VBA脚本自动化报告与数据清洗
@@ -93,17 +93,17 @@
 - 数据分析（SQL/Tableau）用于KPI监控
 - AI工具（如ChatGPT）快速生成文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mega Infrastructure Projects (railway/highway/tunnel)
-- Housing Supply Acceleration (State Gov't Programs)
-- Sustainable building and green certification projects
-- BIM Digital Construction & Smart Site Management
-- Commercial Real Estate Renovation and Redevelopment (Urban Renewal)
+- 大型基础设施项目（铁路/公路/隧道）
+- 住房供应加速（州政府项目）
+- 可持续建筑和绿色认证项目
+- BIM 数字化施工与智慧工地管理
+- 商业地产翻新与再开发（城市更新）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@
 | Subclass 190 (Skilled Nominated) | 各州基础设施重点项目积极提名（NSW/QLD/WA/VIC） |
 | Subclass 491 (Skilled Work Regional) | 偏远基础设施和矿业建设项目管理极度短缺 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**PR友好度：很高（★★★★★）**
 
 ---
 
@@ -179,11 +177,12 @@
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 中低（★★☆☆☆） |
 | PR友好度 | 很高（★★★★★） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-manager-site-manager/AU)**

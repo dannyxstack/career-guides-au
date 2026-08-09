@@ -55,8 +55,6 @@ Plastic manufacturing workers or welders use hot air guns, extruders, and other 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plastics worker or welder faces mixed AI impact: AI-driven automation will take over high-precision repetitive welding and cutting, but custom and complex structural assembly and repair still require human flexible judgment; entry-level roles may shrink due to digital design tools.
-
 Career path: start as an apprentice or junior welder, progress to senior technician, supervisor or quality inspector. With experience, move into engineering or project management, or start your own plastics processing business.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path: start as an apprentice or junior welder, progress to senior technic
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can apply for work visa to permanent residence transition |
 | Subclass SMC (Skilled Migrant Category) | Meet the six-point requirements (e.g., qualifications plus work experience plus New Zealand work) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Site Safe card is a standard requirement; engineering plastics certification 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-fabricator-or-welder/NZ)**

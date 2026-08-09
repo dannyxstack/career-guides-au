@@ -53,8 +53,6 @@ This profession includes technicians in physics, chemistry, environment, and eng
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI/automation on physical, chemical, environmental, and engineering technicians is mixed: routine experimental operations and data analysis are easily automated, but tasks such as on-site sampling, equipment maintenance, and cross-departmental communication that rely on physical contact and comprehensive judgment are difficult to replace in the short term.
-
 Career development paths can be from junior technician to senior technician or laboratory supervisor. Some people pursue engineering degrees (Grado en Ingeniería) through further study, transitioning to engineers, or move to project management or technical sales roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development paths can be from junior technician to senior technician or l
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to technical positions with high academic qualifications (equivalent to a bachelor's degree or above) and annual salaries at the lowest multiple in Spain, requiring a work contract, generally with an annual salary above approximately 33,908 euros (2023 standard). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled talent, the annual salary threshold is usually above €40,000, suitable for technician positions in large companies or research institutions, with faster approvals. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires employer sponsorship, no strict salary threshold, but proof that the position cannot be filled by local residents. Suitable for small and medium-sized enterprises or entry-level positions. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: The minimum entry requirement is FP Grado Superior (2 years), such as in anal
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-physical-chemical-environmental-and-engineering-science-technicians/ES)**

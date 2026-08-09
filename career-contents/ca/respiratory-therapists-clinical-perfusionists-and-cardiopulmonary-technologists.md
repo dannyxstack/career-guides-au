@@ -53,8 +53,6 @@ Respiratory therapists in Canada diagnose and treat respiratory diseases, assess
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Respiratory therapists' work can be partially AI-enhanced (e.g., data analysis, documentation), but core clinical operations and direct patient care are hard to replace, with overall risks and opportunities coexisting.
-
 Career progression: from junior respiratory therapist to senior clinical specialist, can advance to team leader, educator, or research roles. In large hospitals, opportunities to specialize in neonatal or intensive care, or move into sleep medicine or pulmonary rehabilitation.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: from junior respiratory therapist to senior clinical special
 | Subclass PNP (Provincial Nominee Program) | Priority processing for medical occupations in various provinces, such as BC's healthcare immigration, Ontario's Human Capital Priorities, etc., can receive additional points |
 | Subclass Health (Healthcare-specific streams) | Provinces such as Alberta and Manitoba have dedicated healthcare migration streams with simplified processes |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must pass the Canadian Society of Respiratory Therapists (CSRT) national cert
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-therapists-clinical-perfusionists-and-cardiopulmonary-technologists/CA)**

@@ -1,10 +1,8 @@
 # 导游（Tour Guide）职业分析 · 韩国
 
-**职业代码: 52134 (KECO)**
+**职业代码：52134 (KECO)**
 
-This profession involves explaining the history, culture, and nature of domestic tourist attractions to tourists, guiding travel itineraries, and providing various conveniences such as transportation, accommodation, and meals.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业负责向游客讲解国内景点的历史、文化和自然景观，引导旅游行程，并提供交通、住宿、餐饮等各种便利服务。
 
 
 ---
@@ -13,9 +11,9 @@ This profession involves explaining the history, culture, and nature of domestic
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school graduate or higher） |
-| Associate's degree (Tourism) | 2 年 | $4,000,000~$12,000,000（Tuition range） |
-| Bachelor's degree (Tourism) | 4年 | $8,000,000~$30,000,000（Tuition range） |
+| 高中毕业 | 0年 | $0~$0（高中毕业或以上学历） |
+| 副学士学位（旅游） | 2 年 | $4,000,000~$12,000,000（学费范围） |
+| 学士学位（旅游） | 4年 | $8,000,000~$30,000,000（学费范围） |
 
 ---
 
@@ -23,17 +21,17 @@ This profession involves explaining the history, culture, and nature of domestic
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tour Interpreter-Guide | Ministry of Culture, Sports and Tourism | 必备 | General/foreign language written exam and interview |
-| Travel Agency Manager | Korea Tourism Association | 可选 | Optional, bonus points |
+| 旅游翻译导游 | 文化体育观光部 | 必备 | 普通/外语笔试及面试 |
+| 旅行社经理 | 韩国旅游协会 | 可选 | 可选，加分项 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 18,000. Although recovering after COVID-19, employment growth is limited due to concerns of replacement by automation and AI voice guidance.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 18,000。尽管在新冠疫情后有所复苏，但由于自动化及人工智能语音引导带来的替代担忧，就业增长有限。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -41,68 +39,60 @@ This profession involves explaining the history, culture, and nature of domestic
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $25,000,000~$35,000,000 | Freelance excluded, pre-tax annual salary |
-| 中级(3-7年) | $35,000,000~$45,000,000 | Including top bracket |
-| 高级（7年以上） | $45,000,000~$60,000,000 | Senior guide or agency-employed |
+| 初级 (0-3年) | $25,000,000~$35,000,000 | 自由职业除外，税前年薪 |
+| 中级(3-7年) | $35,000,000~$45,000,000 | 包括最高税级 |
+| 高级（7年以上） | $45,000,000~$60,000,000 | 高级导游或机构聘用 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI voice guides, augmented reality (AR) guides, and chatbots replace some tasks, but human emotional communication and emergency response remain highly valuable, making full replacement difficult.
+AI语音导览、增强现实导览和聊天机器人取代部分任务，但人类的情感沟通和应急响应仍极具价值，因此完全取代较为困难。
 
-Starting as a junior guide, can advance to senior guide, work at a travel agency, or become a freelance; certification as a tour interpreter-guide is advantageous.
+从初级导游开始，可晋升为高级导游、在旅行社工作或成为自由职业者；持证翻译导游有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized tourist site voice guides
-- Basic information provision
-- Repetitive schedule confirmation tasks
+- 标准化旅游景点语音导览
+- 基本信息提供
+- 重复性日程确认任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized storytelling
-- Real-time translation and information search
-- Personalized recommendations
+- 定制化故事讲述
+- 实时翻译与信息检索
+- 个性化推荐
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional empathy skills
-- Emergency response
-- Forming human bonds
+- 情感共情能力
+- 应急响应
+- 建立人际纽带
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Foreign language skills
-- Storytelling
-- Digital literacy
-- First aid
+- 外语能力
+- 讲故事
+- 数字素养
+- 急救
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Tourism recovery
-- Domestic travel demand
-- Aging guides
-- Region-specific tourism
+- 旅游业复苏
+- 国内旅游需求
+- 老龄化指南
+- 区域特色旅游
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | If you have professional foreign language skills and certifications, you can work in interpretation for tourism |
-| Subclass F-2 (Residence) | Long-term residents can generally work |
-| Subclass F-4 (Overseas Koreans) | Free domestic activities, guide work possible |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -110,25 +100,25 @@ Starting as a junior guide, can advance to senior guide, work at a travel agency
 
 **谁适合**
 - 喜欢与人交流的人
-- People interested in history and culture
-- People with excellent foreign language skills
+- 对历史文化感兴趣的人
+- 具备出色外语能力的人
 
 **谁不适合**
-- People who dislike simple repetitive tasks
-- People who dislike outdoor activities
+- 不喜欢简单重复任务的人
+- 不喜欢户外活动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a tour guide?**
-答：Entry-level: approximately ₩25-35 million before tax; up to ₩60 million depending on experience and certifications.
+**问：导游的年平均工资是多少？**
+答：入门级：约2500-3500万韩元税前；根据经验和资质，最高可达6000万韩元。
 
-**问：Can foreigners work as tour guides?**
-答：Possible with E-7 visa, but requires tour guide interpreter certification and a certain level of Korean proficiency, and is limited.
+**问：外国人可以当导游吗？**
+答：持E-7签证可能，但需导游翻译证及一定韩语水平，且有限制。
 
-**问：Will AI replace travel guides?**
-答：Voice guides and chatbots partially replace, but flexible on-site response and moving service favor humans.
+**问：AI会取代导游吗？**
+答：语音引导和聊天机器人部分替代，但灵活的现场响应和移动服务仍青睐人类。
 
 
 ---
@@ -146,12 +136,12 @@ Starting as a junior guide, can advance to senior guide, work at a travel agency
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tour-guide/KR)**

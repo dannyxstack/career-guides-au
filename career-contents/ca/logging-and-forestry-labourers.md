@@ -54,8 +54,6 @@ Performing physical labor in logging, afforestation and forest maintenance, incl
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Logging and forestry workers rely heavily on physical labor and fieldwork; direct AI replacement is limited, but automated equipment (e.g., unmanned harvesters, AI planning systems) will significantly reduce demand for low-skilled positions, with entry-level jobs notably compressed.
-
 Entry-level laborers can advance to skilled loggers or equipment operators; with experience, may become foremen or forest resource management assistants; some transition into forestry technicians or sustainability-related roles through training.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level laborers can advance to skilled loggers or equipment operators; with
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance to skilled loggers, equipment operators (e.g., skidders), foremen
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-and-forestry-labourers/CA)**

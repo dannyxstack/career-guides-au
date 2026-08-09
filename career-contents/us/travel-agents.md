@@ -54,8 +54,6 @@ Plan and sell transportation and accommodation for clients, determine destinatio
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 Entry-level travel advisors can advance to senior advisors, then team leaders or regional managers; some transition to tourism product development or supplier relationship management, or start their own travel agencies.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level travel advisors can advance to senior advisors, then team leaders or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance from junior consultant to senior consultant, then to team leader,
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-agents/US)**

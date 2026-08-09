@@ -54,8 +54,6 @@ Operate computer-controlled tools, machines, or robots to process metal, plastic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation will profoundly impact CNC operators: programming and monitoring tasks are enhanced, but simple operation and inspection roles are reduced. Workers must shift to higher-value programming and anomaly handling to survive.
-
 Operators can advance to CNC programmers, process engineers, or production supervisors; with experience, they can move into quality control and equipment maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Operators can advance to CNC programmers, process engineers, or production super
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Medium. Simple operations may be automated, but complex part programming and 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-numerically-controlled-tool-operators/US)**

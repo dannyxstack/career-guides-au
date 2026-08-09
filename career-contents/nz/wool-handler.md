@@ -53,8 +53,6 @@ This occupation falls under agriculture and animal husbandry. Main duties includ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Wool handlers face dual impacts of automation and augmentation: repetitive tasks like grading and recording can be replaced by AI and machines, but export standard assessment and anomaly handling still require human experience. Job numbers may modestly decline, but skill requirements will increase.
-
 Junior wool handlers can gain experience to become senior graders or shearing shed supervisors, some move into wool testing or farm management. However, promotion paths are narrow and require relevant certificates.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior wool handlers can gain experience to become senior graders or shearing sh
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: This occupation is currently not on the Green List or skill shortage list. Yo
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wool-handler/NZ)**

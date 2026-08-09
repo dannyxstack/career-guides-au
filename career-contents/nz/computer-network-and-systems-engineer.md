@@ -53,8 +53,6 @@ Cloud engineers in New Zealand design, deploy, and manage cloud infrastructure, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Career progression: Junior Engineer → Cloud Architect → Chief Technology Officer (CTO). Gaining skills in containerization (Kubernetes) and automation (Terraform) can lead to rapid promotion with salary increases of over 50%.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression: Junior Engineer → Cloud Architect → Chief Technology Off
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, a master's degree (5 points) + work or high salary can meet the requirement |
 | Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa as a transitional path; eligible for residency after working for 2 years |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Obtain AWS/Azure certifications, connect with recruiters on LinkedIn, attend 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-and-systems-engineer/NZ)**

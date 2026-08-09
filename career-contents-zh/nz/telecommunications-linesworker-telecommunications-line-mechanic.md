@@ -1,6 +1,6 @@
-# Telecommunications Linesworker / Telecommunications Line Mechanic 职业分析 · 新西兰
+# 电信线路工/电信线路机械师（Telecommunications Linesworker / Telecommunications Line Mechanic）职业分析 · 新西兰
 
-**职业代码: 342413 (ANZSCO)**
+**职业代码：342413 (ANZSCO)**
 
 负责安装、维护和修理新西兰电信网络的光纤和铜缆线路，包括架空和地下敷设。该职业在移民局绿色名单第二梯队（Tier 2），可通过工作转居留路径获得新西兰技术移民资格。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 2,500. 随着新西兰光纤网络（如Ultra-Fast Broadband）持续扩展和5G建设，电信线路工人需求保持强劲。土木基础设施投资增加也带动岗位增长，但地区性差异较大，奥克兰和惠灵顿机会更多。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 2,500。随着新西兰光纤网络（如Ultra-Fast Broadband）持续扩展和5G建设，电信线路工人需求保持强劲。土木基础设施投资增加也带动岗位增长，但地区性差异较大，奥克兰和惠灵顿机会更多。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -50,35 +50,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 电信线路安装与维修工面临较高的自动化替代风险，尤其是光纤自动熔接、无人机巡检和AI辅助故障诊断将大幅减少人工需求，但现场作业和应急处置仍保留一定护城河。
 
 初级工人可积累经验成为高级线路技工或团队主管；持有电工注册后可转向电信网络规划或项目管理岗位，或成立分包公司承接商业合同。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 光纤线缆的自动熔接与测试
 - 使用无人机进行线路巡检
 - AI辅助故障诊断与定位
 - 远程自动配置与调试
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 结合AR眼镜进行线路检修指导
 - 利用AI分析历史故障数据优化维护方案
 - 使用数字孪生模拟施工影响
 - 通过智能穿戴设备提升高空作业安全
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场应急处置（如抢修台风后的断线）
 - 与客户沟通协调施工时间
 - 复杂地形下的手工布线决策
 - 安全合规监管责任
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 光纤自动熔接机操作与维护
 - 无人机巡检与数据分析
@@ -87,16 +87,16 @@
 - 数字孪生与BIM基础
 - 通信安全与法规认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Green List Tier 2
-- Skilled Migrant Category
-- Infrastructure Boom
-- 5G Deployment
+- 绿名单第二等级
+- 技术移民类别
+- 基础设施繁荣
+- 5G部署
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -105,9 +105,7 @@
 | Subclass AEWV (Accredited Employer Work Visa) | 受认证雇主提供工作担保，有效期3年，可更新，是获得居留的常见前期签证 |
 | Subclass SMC (Skilled Migrant Category) | 满足6分制（学历+经验），且工作为技能职位，可申请居留 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -152,11 +150,12 @@
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
 | PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/telecommunications-linesworker-telecommunications-line-mechanic/NZ)**

@@ -51,8 +51,6 @@ Engaged in cutting, carving, polishing, and decorating natural stone, used in ar
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Stone cutting and decoration workers face both job contraction and value enhancement: AI-driven automation will replace most standardized cutting and sanding, but high-end customization, artistic carving, and on-site installation still require human skill, and those with multi-skilled skills will gain greater bargaining power.
-
 You can start as an apprentice or CAP, and gradually advance to senior craftsman or team leader. Once experienced, you can run your own studio or turn to stone restoration specialists. A few have entered the field of art carving.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ You can start as an apprentice or CAP, and gradually advance to senior craftsman
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by a French company, requiring a work permit, applicable to regular technical positions |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as artists or craftsmen with special skills, who must demonstrate professional competence |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -145,12 +137,12 @@ A: You can use the Salarié or Passeport Talent Passport pathways. A French empl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stone-cutter-and-decorator/FR)**

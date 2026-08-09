@@ -53,8 +53,6 @@ Farm workers perform manual and mechanical tasks to plant, cultivate, and harves
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Farm workers' daily physical labor (e.g., harvesting, weeding, milking) will be largely replaced by AI and robots, with job numbers sharply declining; surviving roles will require higher technical skills.
-
 Junior farm workers can advance to senior workers, supervisors, or even farm managers. Some workers transition to agricultural machinery operation or livestock technology roles through training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior farm workers can advance to senior workers, supervisors, or even farm man
 | Subclass Seasonal Worker (Seasonal Worker visa) | Short-term seasonal farm work, up to 6 months |
 | Subclass Graduate (Graduate visa) | Graduates can work in the UK for 2 years, in any industry. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, there is a persistent shortage of agricultural labor, especially seasona
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farm-workers/UK)**

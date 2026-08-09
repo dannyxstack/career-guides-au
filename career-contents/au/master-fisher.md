@@ -52,8 +52,6 @@ Master (fishing) responsible for driving and managing fishing vessels, commandin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on skippers (fishing) is mixed: navigation and catch monitoring parts will be automated, but deck operations, compliance judgment, and emergency decisions remain highly dependent on human experience.
-
 Typically start as a deckhand or fisheries worker, with experience advancing to captain. Some captains may transition to fisheries management, maritime safety, or fishing vessel operations management. Holding a higher-level maritime certificate (e.g., Master <24m Near Coastal) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as a deckhand or fisheries worker, with experience advancing to 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically requires 3-5 years of seagoing experience, starting as a deck hand 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/master-fisher/AU)**

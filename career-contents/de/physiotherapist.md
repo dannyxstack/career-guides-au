@@ -54,8 +54,6 @@ Physiotherapists in Germany assess and treat patients with movement dysfunction 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
-
 Career path: Starting as a clinical physiotherapist, can progress to senior therapist, department head, or specialist therapist (e.g., neurological, orthopedic). Also possible to move into teaching, research, or opening a private practice.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Starting as a clinical physiotherapist, can progress to senior ther
 | Subclass Skilled Worker (Fach (Skilled Worker Visa) | No income threshold for physiotherapists in shortage occupation, but must hold German-recognized professional qualifications. |
 | Subclass Recognition Partners (Recognition Partnership) | Allows working in Germany first during qualification certification, with employer supporting the certification process. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Mainly dual-system training (3 years, tuition-free) and bachelor's degree (3-
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/DE)**

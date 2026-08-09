@@ -53,8 +53,6 @@ Operate or monitor bonding machines, using adhesives to bond materials (e.g., pl
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automation technology is significantly compressing demand for this role; bonding operations are highly programmable; future robots and AI will replace most manual monitoring and operation tasks.
-
 Most practitioners start as operators, advance to senior operators or team leads with experience. Some transition to quality control or equipment maintenance. Low skill requirements limit advancement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Most practitioners start as operators, advance to senior operators or team leads
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Due to automation and manufacturing moving offshore, employment is expected t
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/adhesive-bonding-machine-operators-and-tenders/US)**

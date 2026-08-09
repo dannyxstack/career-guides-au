@@ -52,8 +52,6 @@ Reinforcing steel workers are responsible for placing, tying, and fixing rebar i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Progress from apprentice to senior rebar worker or foreman, with potential to move into rebar estimator or construction supervisor. With experience, can become self-employed contractor or migrate to other developed countries.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Progress from apprentice to senior rebar worker or foreman, with potential to mo
 | Subclass SMC (Skilled Migrant Category) | Six-point skilled migration; points awarded based on qualifications, experience or registration; must meet hourly wage median. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those without immediate immigration plans who want to first gain work experience |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Auckland, Christchurch, and Wellington have highest demand due to housing and
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steel-fixer/NZ)**

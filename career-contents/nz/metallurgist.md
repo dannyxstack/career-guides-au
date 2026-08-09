@@ -52,8 +52,6 @@ Metallurgists study the properties and processing of metals and alloys, and deve
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of metallurgists presents mixed prospects: AI can efficiently handle data analysis and simulation, but laboratory and field operations are difficult to replace in the short term.
-
 Junior metallurgists can progress to senior engineer or project manager, or move into research and development or quality control. With experience, can become a registered engineering professional, advancing to chief metallurgist or technical director.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior metallurgists can progress to senior engineer or project manager, or move
 | Subclass Green List T1 (Green List Straight to Residence) | Metallurgist is on the Green List T1 and can apply for residence directly |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residence is not met, can first work on a sponsored employer work visa and later transition to residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Metallurgists are on the Green List T1 and can apply for Straight to Residenc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallurgist/NZ)**

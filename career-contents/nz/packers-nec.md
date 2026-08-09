@@ -54,8 +54,6 @@ Packers manually or mechanically package, label, and inspect goods, commonly fou
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Packers (not elsewhere classified) face significant automation pressure as AI-driven machine vision and robotic arms efficiently handle repetitive tasks like packing, labeling, and inspection; however, complex packaging and anomaly handling still require human labor.
-
 Packers can advance from entry-level to senior packer, team leader, or warehouse supervisor. By gaining experience and learning forklift operation or quality inspection skills, they can move into logistics coordination roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Packers can advance from entry-level to senior packer, team leader, or warehouse
 | Subclass SMC (Skilled Migrant Category) | Skill Migration category, Packer ANZSCO is typically Skill Level 4-5, does not meet SMC requirements. |
 | Subclass Green List Tier 1 (Green List Tier 1 Direct Residence) | Green List Tier 1 Direct Residence; packers are not on the list. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can be promoted to team leader, warehouse supervisor, or transition to logist
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packers-nec/NZ)**

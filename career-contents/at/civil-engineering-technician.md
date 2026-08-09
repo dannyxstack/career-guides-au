@@ -1,0 +1,125 @@
+# Civil Engineering Technicians — career analysis · Austria
+
+**Occupation code: 3112 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: high (★★★★☆).** National workforce approx. 7,618.
+
+**Competition: medium (★★½☆☆).**
+**Work intensity: medium (★★½☆☆).**
+
+---
+
+## 4. Salary range
+
+(no data)
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: medium-high (★★★½☆).**
+**AI replacement risk: medium (★★½☆☆).**
+
+**Tasks most exposed to AI:**
+
+- Generates standard construction drawings and 2D/3D models
+- Automatically calculate material quantities and cost estimates.
+- Monitor on-site construction progress and generate reports
+- Inspect structural integrity and mark issues
+
+**Where AI augments the role:**
+
+- Structural analysis and simulation testing using AI
+- Automated inspection via drones and sensors
+- Optimize construction scheduling and resource allocation
+- Quickly generate design options for multi-scenario comparison
+- Real-time monitoring of construction quality and early warning of anomalies.
+
+**Human moat:**
+
+- Site safety supervision and emergency decision-making
+- Coordination with engineers, clients, and construction crews
+- Handling complex working conditions and non-standard designs
+- Responsible for legal compliance and professional ethics
+
+**Skills to build:**
+
+- In-depth application of BIM software (e.g., Revit, Navisworks)
+- Basic data analysis with Python or R
+- GIS Geographic Information System Operation
+- AI-assisted design tools (such as Autodesk Forma)
+- IoT and sensor integration knowledge
+- Project management and communication skills
+
+---
+
+## 6. Migration pathways / PR
+
+As an EU member state, Austria admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
+
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
+
+---
+
+## 7. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 8. FAQ
+
+**Q: What is the typical salary for a Civil Engineering Technician in Austria?**
+A: Salaries for civil engineering technicians in Austria vary by experience and region. Entry-level positions start around €2,500–€3,000 gross per month, while experienced technicians can earn €3,500–€4,500. In Vienna, salaries tend to be higher. Collective bargaining agreements often set minimums.
+
+**Q: What are the work visa routes for non-EU Civil Engineering Technicians to work in Austria?**
+A: Non-EU nationals can apply for the Red-White-Red Card for skilled workers with a job offer in a qualified profession. Alternatively, the EU Blue Card requires a university degree or comparable qualification and a job offer meeting the minimum salary threshold (€45,000+ gross annually in 2024). Both require employer sponsorship.
+
+**Q: What career advancement opportunities exist for Civil Engineering Technicians in Austria?**
+A: Civil engineering technicians can advance to senior technician roles, project management, or specialized areas like structural or environmental engineering. Further education (e.g., HTL diploma or FH bachelor's) can lead to engineering positions. Certification as a civil engineer (Ziviltechniker) is possible after additional exams.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium (★★½☆☆) |
+| Work intensity | medium (★★½☆☆) |
+| Future prospect | medium-high (★★★½☆) |
+| AI replacement risk | medium (★★½☆☆) |
+
+---
+
+## Data sources
+
+- Statistics Austria (Statistik Austria) (ISCO-08)
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-technician/AT)**

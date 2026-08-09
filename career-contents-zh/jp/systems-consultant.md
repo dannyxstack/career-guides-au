@@ -1,8 +1,8 @@
-# Systems Consultant 职业分析 · 日本
+# 系统顾问（Systems Consultant）职业分析 · 日本
 
-**职业代码: 101 (JSCO)**
+**职业代码：101 (JSCO)**
 
-An IT specialist who supports corporate information system strategy planning, implementation, and operation. Acts as a bridge to solve management issues with technology.
+支持企业信息系统战略规划、实施和运营的IT专家。作为桥梁用技术解决管理问题。
 
 
 ---
@@ -11,8 +11,8 @@ An IT specialist who supports corporate information system strategy planning, im
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Information Systems) | 4年 | $4,000,000~$6,000,000（National/public university assumed） |
-| Vocational School (IT) | 2 年 | $2,000,000~$3,000,000（私立职业学校） |
+| 大学（信息系统） | 4年 | $4,000,000~$6,000,000（假定为国公立大学） |
+| 职业学校（IT） | 2 年 | $2,000,000~$3,000,000（私立职业学校） |
 
 ---
 
@@ -20,18 +20,18 @@ An IT specialist who supports corporate information system strategy planning, im
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| IT Strategist Exam | IPA | 可选 | One of the advanced information processing engineer exams. Directly related to systems consultant. |
-| Project Manager Exam | IPA | 可选 | Proof of project management skills. Useful in practice. |
-| Applied Information Technology Engineer Exam | IPA | 可选 | Proof of basic IT knowledge. Introductory level. |
+| IT策略师考试 | IPA | 可选 | 高级信息处理工程师考试之一。与系统顾问直接相关。 |
+| 项目经理考试 | IPA | 可选 | 项目管理技能证明。实践中很有用。 |
+| 应用信息处理技术者考试 | IPA | 可选 | 基本IT知识证明。入门级别。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 150,000. Steady employment is expected due to growing demand for DX promotion and cloud migration. Shortage of experienced personnel is particularly severe.
+**职位需求量：很高（★★★★½）** 全国从业人数约 150,000。数字化转型推广和云迁移需求增长，就业稳定。有经验人员尤其短缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,86 @@ An IT specialist who supports corporate information system strategy planning, im
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $4,500,000~$6,000,000 | Assumed at IT company/SIer |
-| 中级（4-7年） | $7,000,000~$10,000,000 | Project leader level |
-| 高级（8年+） | $12,000,000~$18,000,000 | Manager/Principal |
+| 初级 (0-3年) | $4,500,000~$6,000,000 | 假设在IT公司/SIer工作 |
+| 中级（4-7年） | $7,000,000~$10,000,000 | 项目负责人级别 |
+| 高级（8年+） | $12,000,000~$18,000,000 | 经理/负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI strongly supports tasks like data analysis and simulation rather than replacing the work of systems consultants. Strategic planning and client negotiations requiring human judgment remain.
+AI强烈支持数据分析与模拟等任务，而非取代系统顾问的工作。需要人类判断的战略规划和客户谈判仍然存在。
 
-With project experience in the IT industry, career advancement to IT strategist or project manager is possible. Independent practice is also an option.
+具备IT行业项目经验后，可晋升为IT策略师或项目经理。也可独立执业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine data collection
-- Simple report creation
-- Part of system testing
+- 常规数据收集
+- 简单报告创建
+- 系统测试的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Requirements definition support
-- Solution evaluation
-- Risk analysis
+- 需求定义支持
+- 解决方案评估
+- 风险分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust relationships with clients
-- Business domain knowledge
-- Creative problem-solving skills
+- 与客户建立信任关系
+- 业务领域知识
+- 创造性解决问题的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/data analysis skills
-- Cloud architecture
+- AI/数据分析技能
+- 云架构
 - 项目管理
-- English communication
+- 英语沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- DX promotion
-- Cloud migration
-- AI utilization
-- Security measures
+- 数字化转型
+- 云迁移
+- AI利用
+- 安全措施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Classified as IT consulting work. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable, as the role requires advanced expertise. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Point-based system; advantages based on income and education. Favorable for permanent residency. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People strong in logical thinking
-- People interested in both management and IT
-- People with high communication skills
+- 逻辑思维能力强的人
+- 对管理和IT都感兴趣的人
+- 沟通能力强的人
 
 **谁不适合**
-- People who prefer routine tasks
-- People who struggle to adapt to change
+- 喜欢常规任务的人
+- 难以适应变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for a systems consultant?**
-答：Entry-level: 4.5-6 million yen, mid-level: 7-10 million yen, senior: 12-18 million yen.
+**问：系统顾问的年收入是多少？**
+答：初级：450-600万日元，中级：700-1000万日元，高级：1200-1800万日元。
 
-**问：What visa does a foreigner need to work as a systems consultant in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' residence status is common. A university degree or equivalent work experience is required.
+**问：外国人在日本担任系统顾问需要什么签证？**
+答：常见的居留身份是“人文知识/国际业务工程师/专家”。需要大学学位或同等工作经验。
 
-**问：Can I become a systems consultant without experience?**
-答：Direct transition without experience is difficult as IT industry experience or an information-related degree is required. Usually, you first gain experience as an SE or programmer.
+**问：没有经验能成为系统顾问吗？**
+答：由于需要IT行业经验或信息相关学位，无经验直接转行困难。通常先积累SE或程序员经验。
 
 
 ---
@@ -143,12 +136,12 @@ With project experience in the IT industry, career advancement to IT strategist 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/systems-consultant/JP)**

@@ -51,8 +51,6 @@ Area studies experts analyse the political, economic, cultural, and social syste
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Regional studies experts have dual prospects of being automated and augmented; data collection and analysis can be AI-driven, but deep fieldwork and cultural insight remain human strengths.
-
 Career development typically starts as a research assistant or junior analyst, progressing to senior researcher, project lead, or department head. In academia, one can aim for a professorship; in non-academia, one can move into policy consulting, international organizations, or corporate strategy departments.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career development typically starts as a research assistant or junior analyst, p
 | Subclass Skilled Worker (Skilled Immigration Act) | For skilled migrants who have a German-recognized qualification or professional qualification and a job contract. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without an employment contract to enter Germany for up to one year to find work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Career development can be in universities, think tanks, government department
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/area-studies-expert/DE)**

@@ -53,8 +53,6 @@ Responsible for handling internal and external mail, including stamping, sorting
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Mail clerk and mailing machine operator positions are being rapidly compressed by AI and automation; routine sorting, labeling, recording tasks can be replaced, entry-level positions greatly reduced, but some supervision and exception handling still require humans.
-
 Usually start as mail assistants, and with experience may advance to mail center supervisor or administrative support manager. Some companies offer internal training, can transition to office administration or logistics management.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as mail assistants, and with experience may advance to mail center
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Career progression includes mail center supervisor, administrative assistant,
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mail-clerks-and-mail-machine-operators-except-postal-service/US)**

@@ -52,8 +52,6 @@ A financial investment manager is responsible for managing investment portfolios
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Career path can start as an analyst or advisor, progressing to investment manager, senior manager, and eventually investment director or chief investment officer. May also specialize in private equity or hedge funds.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path can start as an analyst or advisor, progressing to investment manage
 | Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored, short-term or medium-term, can transition to 186 permanent residence. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requires 482 transition or direct application. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's degree in finance, with CFA highly recommende
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-investment-manager/AU)**

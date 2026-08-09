@@ -53,8 +53,6 @@ Directly supervise and coordinate activities of gaming area staff, ensure game c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Can advance from dealer or table games staff to supervisor, then to casino manager or operations director, requiring management experience and customer service skills.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from dealer or table games staff to supervisor, then to casino manag
 | Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, but large casinos may apply for management positions |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Uncommon; requires employer to prove inability to find qualified U.S. workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually difficult because the occupation does not meet professional position 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-gambling-services-workers/US)**

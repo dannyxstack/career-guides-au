@@ -55,8 +55,6 @@ Sorts and delivers USPS mail (by vehicle or on foot) along assigned routes, incl
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Manual sorting and route sequencing tasks for postal mail carriers are highly susceptible to AI and automation replacement; parcel volume growth is limited, leading to significant job reduction and severely constrained entry opportunities.
-
 Limited career development path; typically starts as a mail carrier and can advance to senior carrier or supervisor, but the job structure is flat with few promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Limited career development path; typically starts as a mail carrier and can adva
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Minimum requirement: high school diploma or equivalent, and pass the USPS mai
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-service-mail-carriers/US)**

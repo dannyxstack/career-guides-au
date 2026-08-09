@@ -51,8 +51,6 @@ Responsible for planning, organising, directing, and coordinating the delivery a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI and automation on IT director roles is mixed: routine operations and report writing will be replaced, but abilities in strategic decision-making and cross-departmental coordination are amplified. Overall risk is manageable, requiring proactive adoption of AI tools.
-
 Usually promoted from IT manager, system architect, or senior project manager, with progression to Chief Information Officer (CIO) or Chief Technology Officer (CTO), or transitioning to consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually promoted from IT manager, system architect, or senior project manager, w
 | Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in digital technology, no employer sponsorship required, but endorsement is needed. |
 | Subclass Scale-up (Scale-up Visa) | For highly skilled IT directors recruited by fast-growing enterprises (annual growth rate of 20% or more), requiring employer sponsorship. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: You can submit applications via platforms like LinkedIn, or attend industry c
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-technology-directors/UK)**

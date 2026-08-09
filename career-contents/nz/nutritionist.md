@@ -51,8 +51,6 @@ Dietitians use nutrition science to improve diets and health of individuals and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry-level positions for nutritionists (AU) face compression risk from AI and digital tools, but core tasks like nutrition counselling and programme design are hard to replace by AI; overall career prospects are mixed.
-
 Career path: junior nutritionist → nutrition consultant/community nutritionist → senior nutritionist/research specialist → nutrition program manager or independent practice. Some nutritionists become registered dietitians through further study to broaden clinical areas. Nutritionists in food companies can advance to product R&D manager.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: junior nutritionist → nutrition consultant/community nutritionist
 | Subclass AEWV (Accredited Employer Work Visa) | Apply after obtaining a certified employer offer; salary must meet median; eligible for residency after 3 years of work. Suitable for accumulating local experience. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Dietitians are not currently on the Green List, but if engaged in public health or community nutrition roles with employer support, individual positions may qualify. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No mandatory registration, but membership in the New Zealand Nutrition Societ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nutritionist/NZ)**

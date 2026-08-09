@@ -54,8 +54,6 @@ Judges in German courts exercise judicial power independently, responsible for h
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 The career path for judges is clear: typically starting as a probationary judge (Richter auf Probe), then becoming a tenured judge after assessment. Promotions can lead to higher courts, federal courts, or shift to judicial administration.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ The career path for judges is clear: typically starting as a probationary judge 
 | Subclass Qualified Profession (Skilled Worker Visa (EU/EEA)) | EU/EEA citizens can move freely; third-country nationals must first obtain a German professional qualification recognition (Anerkennung) and secure a judge position. |
 | Subclass EU Blue Card (EU Blue Card) | In theory, if the salary meets the threshold (approx. EUR 43,800 in 2024), one can apply, but judge positions usually require the German state exam, making it difficult for external candidates to directly qualify. |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Extremely difficult. Judges are a regulated profession requiring passing two 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/DE)**

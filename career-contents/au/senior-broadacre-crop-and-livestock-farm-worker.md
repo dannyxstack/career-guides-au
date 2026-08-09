@@ -53,8 +53,6 @@ Senior broadacre crop and livestock farm workers are responsible for supervising
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will take over large amounts of data monitoring and clerical work, but on-site operations, equipment maintenance, and emergency decision-making still require humans; overall, risks and opportunities coexist.
-
 After progressing from general farm worker to senior worker, one can further become a farm supervisor or farm manager. With experience, one can transition to agricultural consulting or self-operated farming.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After progressing from general farm worker to senior worker, one can further bec
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | State-nominated regional visa requires occupation on state nomination list |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires agricultural vocational certificates (e.g., Certificate IV
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-broadacre-crop-and-livestock-farm-worker/AU)**

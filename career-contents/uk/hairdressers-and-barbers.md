@@ -54,8 +54,6 @@ Hairdressers and barbers are responsible for shampooing, cutting, colouring, sty
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
-
 Junior hairstylists can advance to senior hairstylist, creative director, or salon manager, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior hairstylists can advance to senior hairstylist, creative director, or sal
 | Subclass Graduate (Graduate Visa) | Suitable for graduates who completed their degree in the UK; allows working in the UK for 2 years (3 years for PhD), but this occupation typically does not offer sponsorship |
 | Subclass Skilled Worker (Skilled Worker Visa) | Theoretically can sponsor, but the salary threshold is usually higher than industry levels; very few employers use it. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: From apprentice to junior hairdresser, then senior hairdresser, creative dire
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdressers-and-barbers/UK)**

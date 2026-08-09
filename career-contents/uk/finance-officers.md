@@ -53,8 +53,6 @@ The financial supervisor is responsible for overseeing bookkeeping, general ledg
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Finance managers are significantly affected by AI automation, especially in routine tasks like transaction processing and reconciliation, but strategic oversight and compliance responsibilities still rely on human judgment, making it a mixed-impact role.
-
 can progress from financial assistant to finance supervisor, senior finance supervisor, and then to finance manager or financial controller, or move into public sector financial management or auditing.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ can progress from financial assistant to finance supervisor, senior finance supe
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can be promoted to senior financial supervisor, financial manager, or financi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/finance-officers/UK)**

@@ -53,8 +53,6 @@ Cut, trim, or prepare meat to consumer specifications in retail settings, ensuri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
-
 From entry-level meat cutter to senior meat cutter, department supervisor, or supermarket meat manager; some may move into meat wholesale or inspection.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ From entry-level meat cutter to senior meat cutter, department supervisor, or su
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | For non-agricultural temporary workers, but slaughterers are usually in retail; employers must prove labor shortage, with limited quotas and tight annual caps. |
 | Subclass EB-3 (EB-3 Skilled Worker / Unskilled Worker) | Skilled or non-skilled migration, but this occupation is often considered low-skilled; requires PERM labor certification, long queue, path is uncommon. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior butcher, meat department supervisor, or store manager, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/butchers-and-meat-cutters/US)**

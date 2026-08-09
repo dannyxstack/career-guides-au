@@ -51,8 +51,6 @@ Technicians operating and maintaining broadcast, television, and audiovisual equ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of Broadcast and Audiovisual Technicians is being reshaped with mixed impacts by AI: automation will handle much of the content transmission and signal monitoring, but creativity and on-site control skills remain core moats.
-
 Can progress from junior technician to senior technician or technical supervisor, with some transitioning to producer or director roles, requiring continuous learning of digital technologies.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from junior technician to senior technician or technical supervisor
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU citizens, requires a work contract and an annual salary of at least 1.5 times the Italian average wage (approximately €35,000+). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, applied through annual quotas, requires employer sponsorship; broadcast technicians are within the quota. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the labor bureau; once approved, the visa can be processed. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, can advance to senior technician, technical supervisor, or move to produ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcasting-and-audiovisual-technician/IT)**

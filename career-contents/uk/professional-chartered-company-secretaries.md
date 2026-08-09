@@ -50,8 +50,6 @@ Ensure the company complies with legal, regulatory, and financial requirements, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate tasks such as governance monitoring and compliance document generation, but human accountability and strategic decision-making remain essential; roles transition to AI-augmented governance analysts, with increased competition for entry-level positions.
-
 Can progress from assistant company secretary to company secretary, then to governance director or chief governance officer, or transition to legal or compliance fields.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress from assistant company secretary to company secretary, then to gove
 | Subclass Skilled Worker (Skilled Worker Visa) | Eligible for Skilled Worker visa, requires employer sponsorship and salary meeting general threshold (usually £26,200/year) |
 | Subclass Global Talent (Global Talent Visa) | If the applicant proves to be an outstanding talent in the field of governance, they may apply |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Not eligible, thus cannot access the preferential salary threshold for in-dem
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-chartered-company-secretaries/UK)**

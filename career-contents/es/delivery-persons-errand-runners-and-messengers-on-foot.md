@@ -4,8 +4,6 @@
 
 Walking delivery workers, couriers, and couriers mainly deliver small items, documents, or letters within cities on foot, commonly in food delivery, local express delivery, and local errands.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Walking delivery workers, couriers, and couriers mainly deliver small items, doc
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Delivery drivers and couriers will face mixed fortunes: autonomous driving and robots may replace some long-haul and standardized deliveries, but AI can enhance human capabilities in route optimization, dynamic scheduling, and last-mile flexibility, while regulatory responsibility and complex interpersonal interactions remain a moat.
-
 Career advancement paths are limited; you can develop into a distribution supervisor, dispatcher, or logistics coordinator, or gain experience by shifting to motorcycle or car delivery for higher income.
 
 **Tasks most exposed to AI:**
@@ -99,15 +95,9 @@ Career advancement paths are limited; you can develop into a distribution superv
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence: Employer sponsorship is required, proving that suitable candidates cannot be found in the EU, Switzerland, Iceland, Liechtenstein, or Norway. Because the skill requirements for this profession are low, it is usually difficult to get approved. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +138,12 @@ A: The feasibility is extremely low. This occupation is considered a low-skilled
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-persons-errand-runners-and-messengers-on-foot/ES)**

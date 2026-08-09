@@ -54,8 +54,6 @@ Responsible for classifying, organizing, and archiving publications, documents, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Library staff and assistants' daily tasks like sorting, cataloguing, and retrieval will be highly automated, but interpersonal services and asset management still require human judgment. Entry-level positions will decrease, but assistants skilled in AI tools and special collections management will increase in value, creating a polarisation.
-
 Can advance from assistant to senior library assistant or librarian, requiring accumulated experience and obtaining a library science qualification.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance from assistant to senior library assistant or librarian, requiring a
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must obtain a CILIP-accredited library science degree or professional qualifi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-clerks-and-assistants/UK)**

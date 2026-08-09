@@ -4,8 +4,6 @@
 
 A professional worker who assists in the execution of weddings and banquets, handling protocols, food service, decorations, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional worker who assists in the execution of weddings and banquets, han
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI cannot fully replace wedding preparation and protocol, auxiliary tasks such as schedule management and budget calculation may be automated, potentially reducing workforce size.
-
 Career progression: junior assistant → wedding coordinator → wedding planner or wedding hall manager; experience and networking are important.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Career progression: junior assistant → wedding coordinator → wedding planner
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible with senior wedding planner qualification, but not common |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents |
-| Subclass F-4 (Overseas Korean) | Possible for overseas Koreans but outlook is low |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: High school diploma or higher is acceptable, and completing a 6-month course 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wedding-ceremony-assistant/KR)**

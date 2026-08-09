@@ -4,8 +4,6 @@
 
 Workers involved in inspecting the quality and safety of beverages and tobacco, ensuring compliance with product standards. They eliminate defective products through sensory testing and instrumental analysis.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Workers involved in inspecting the quality and safety of beverages and tobacco, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Automation via AI and inspection equipment (image recognition, sensors) is progressing. Simple tasks like visual inspection and weight checks are easily automated, while sensory tests (taste, smell) and abnormal judgment remain human domains.
-
 With experience in manufacturing settings, career advancement to quality control leader or quality assurance department is possible. Obtaining certifications expands the scope of inspection work.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ With experience in manufacturing settings, career advancement to quality control
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Eligible with university degree or 10+ years of work experience. Applicable as a quality control role at a food manufacturer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing)) | It is limited whether 'beverage and tobacco inspection' is included in the target work; skill test needs confirmation. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: The Engineer/Specialist in Humanities/International Services visa requires a 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beverage-and-tobacco-inspection-workers/JP)**

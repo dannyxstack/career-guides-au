@@ -1,10 +1,8 @@
-# Health Teacher 职业分析 · 韩国
+# 健康教师（Health Teacher）职业分析 · 韩国
 
-**职业代码: 30403 (KECO)**
+**职业代码：30403 (KECO)**
 
-A professional teacher responsible for health management, first aid, health education, and infectious disease prevention for students and staff in elementary, middle, and high schools.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责中小学和高中学生及教职工的健康管理、急救、健康教育和传染病预防的专业教师。
 
 
 ---
@@ -13,8 +11,8 @@ A professional teacher responsible for health management, first aid, health educ
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree in Nursing | 4年 | $20,000,000~$40,000,000（Tuition based on national/public universities） |
-| Teaching certificate or master's degree in education from a graduate school | 1-2年 | $5,000,000~$20,000,000（Additional cost for teaching certificate） |
+| 护理学学士学位 | 4年 | $20,000,000~$40,000,000（按国立/公立大学标准收费） |
+| 教师资格证或教育学硕士学位 | 1-2年 | $5,000,000~$20,000,000（教师资格证书的额外费用） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional teacher responsible for health management, first aid, health educ
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Registered Nurse License | Korean Health Personnel Licensing Examination Institute | 必备 | Required for health teacher qualification |
-| Health Teacher Certificate (Level 2) | 教育部 | 必备 | Obtained after completing teaching certificate or graduating from a graduate school of education |
-| Health Teacher Certificate (Level 1) | 教育部 | 可选 | Upgraded after completing training with 3+ years of experience |
+| 注册护士执照 | 韩国健康人员资格考试院 | 必备 | 健康教师资格所需 |
+| 健康教师证书（二级） | 教育部 | 必备 | 完成教师资格证书或从教育学院毕业后获得 |
+| 健康教师证书（一级） | 教育部 | 可选 | 完成3年以上经验培训后升级 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Although student numbers are decreasing due to low birth rates, demand for health teachers is expected to remain stable due to the importance of school health and the need for infectious disease prevention.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。尽管由于低出生率学生人数减少，但由于学校健康的重要性和传染病预防需求，健康教师需求预计保持稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A professional teacher responsible for health management, first aid, health educ
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-5 years) | $35,000,000~$45,000,000 | Based on public school salary step system |
-| 中级（5-15年） | $45,000,000~$60,000,000 | Salary step increases with experience |
-| Advanced (15+ years) | $60,000,000~$80,000,000 | Additional increase upon promotion to vice principal or principal |
+| 初级（0-5年） | $35,000,000~$45,000,000 | 基于公立学校工资阶梯制度 |
+| 中级（5-15年） | $45,000,000~$60,000,000 | 薪资随经验逐年递增 |
+| 高级（15年以上） | $60,000,000~$80,000,000 | 晋升为副校长或校长时额外增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can automate part of a school health teacher's work (e.g., health record analysis, educational material creation), but core tasks requiring human judgment and empathy—such as face-to-face counseling, emergency treatment, and infectious disease response—are difficult to replace.
+AI 可自动化学校健康教师的部分工作（如健康记录分析、教材制作），但需要人工判断和同理心的核心任务——如面对面咨询、急救处理和传染病应对——难以替代。
 
-The promotion system after appointment is the same as that of regular teachers; advancement to vice principal or principal, or to an education office supervisor, is possible.
+任命后的晋升制度与正式教师相同；可晋升为副校长或校长，或教育办公室主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Analyzing health questionnaires and compiling statistics
-- Creating regular health education materials
+- 分析健康问卷并整理统计数据
+- 制作定期健康教育材料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Managing health records
-- Analyzing infectious disease patterns
-- Providing customized health counseling
+- 管理健康记录
+- 分析传染病模式
+- 提供定制化健康咨询
 
-**人类护城河:**
+**人类护城河：**
 
-- Performing emergency treatment
-- Offering psychological support and empathy
-- Conducting individual student health assessments
+- 实施紧急治疗
+- 提供心理支持和同理心
+- 进行个别学生健康评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Utilizing digital health devices
-- Understanding infectious disease epidemiology
+- 数据素养
+- 利用数字健康设备
+- 了解传染病流行病学
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Enhancing school health
-- Infectious disease prevention
-- Mental health management
-- Digital healthcare
+- 加强学校健康
+- 传染病预防
+- 心理健康管理
+- 数字医疗
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay as a step before permanent residence |
-| Subclass F-5 (Permanent Residence (F-5)) | Allows unrestricted work upon obtaining permanent residence |
-| Subclass E-7 (Specific Activities (E-7)) | Possible but very limited, e.g., hiring foreign nurses as school nurses |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in student health and education
-- Those who can stay calm in emergencies
-- Those who enjoy preventive health activities
+- 对学生健康与教育感兴趣者
+- 能在紧急情况下保持冷静的人
+- 喜欢预防保健活动的人
 
 **谁不适合**
-- Those who find it hard to make quick decisions in emergencies
-- Those who prefer administrative tasks over medical work
+- 紧急情况下难以下决策的人
+- 偏好行政工作而非医疗工作者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a school nurse?**
-答：Starting around 35-45 million KRW, 5-15 years experience 45-60 million KRW, over 15 years 60-80 million KRW (public school, step-based).
+**问：学校护士的平均工资是多少？**
+答：起薪约3500-450万韩元，5-15年经验4500-600万韩元，15年以上6000-8000万韩元（公立学校，按级别递增）。
 
-**问：What visa does a foreigner need to work as a school nurse in Korea?**
-答：Generally, an E-7 visa is required, but the process is stringent, including Korean language proficiency and recognition of nursing licenses. Many work with permanent residence (F-5) or marriage immigration (F-6).
+**问：外国人在韩国担任校医需要哪种签证？**
+答：通常需要E-7签证，但流程严格，包括韩语能力和护理执照认可。许多人持有永住权（F-5）或婚姻移民（F-6）工作。
 
-**问：What education is needed to become a school health teacher?**
-答：After obtaining a Bachelor of Science in Nursing (4 years), you must complete a teaching course or obtain a school health teacher certificate from a graduate school of education. This takes at least 5–6 years in total.
+**问：成为学校健康教师需要什么教育背景？**
+答：获得护理学理学学士（4年）后，需完成教学课程或从教育研究生院获得学校卫生教师证书。总共至少需要5-6年。
 
 
 ---
@@ -144,12 +134,12 @@ The promotion system after appointment is the same as that of regular teachers; 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/health-teacher/KR)**

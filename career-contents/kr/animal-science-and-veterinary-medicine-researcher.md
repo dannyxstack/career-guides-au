@@ -4,8 +4,6 @@
 
 A professional specializing in livestock disease prevention, productivity improvement, and food safety, conducting laboratory and field research.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional specializing in livestock disease prevention, productivity improv
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI improves research efficiency in data analysis, disease prediction modeling, and image diagnosis, but tasks requiring creativity and ethical judgment—such as field experiments, animal behavior observation, and new vaccine development—still rely on human roles.
-
 With a master's or doctoral degree, researchers work in institutes, universities, or government agencies, advancing to senior researcher or lab director based on experience.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ With a master's or doctoral degree, researchers work in institutes, universities
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled research personnel, requires proof of expertise |
-| Subclass D-2 (D-2 (Study Abroad)) | For master's/doctoral students, allows research participation |
-| Subclass F-2 (F-2 (Residence)) | Favorable for long-term researchers, step before permanent residency |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Generally a master's degree or higher is required; veterinary research requir
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-science-and-veterinary-medicine-researcher/KR)**

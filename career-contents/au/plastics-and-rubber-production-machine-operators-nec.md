@@ -53,8 +53,6 @@ Operate plastic or rubber production machines to perform mixing, pressing, moldi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive tasks of plastic and rubber production machine operators are highly automatable; AI and robotics will significantly reduce job demand, compressing employment prospects over the next 5 years.
-
 Can progress from entry-level operator to senior operator or team leader; some may transition to quality control or production management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from entry-level operator to senior operator or team leader; some m
 |---|---|
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination, usually applicable to specific occupations, but this occupation is not on the occupation list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is not on the skilled migration occupation list, generally ca
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-and-rubber-production-machine-operators-nec/AU)**

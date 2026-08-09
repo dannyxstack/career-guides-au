@@ -56,8 +56,6 @@ Abattoir workers and meat processing workers are employed in abattoirs and meat 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Slaughterers/meat processing workers face both automation threats and AI enhancement: machine vision and robotic arms are replacing repetitive tasks like cutting and packaging, but AI-assisted quality inspection, equipment maintenance, and production scheduling optimization greatly improve efficiency and reduce rework. Entry-level roles are declining due to replacement of basic cutting workers, but demand for advanced boners and quality control technicians remains stable.
-
 Australia's meat processing industry has long relied on skilled migration to fill labor gaps (especially for high-skill boners and slicers). Skilled workers (boner/slicer) earn salaries between $80k and $100k, with some companies offering direct visa sponsorship and accommodation arrangements to attract skilled migrants. Meat quality inspectors and trade liaison personnel hold unique value.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Australia's meat processing industry has long relied on skilled migration to fil
 | Subclass 190 (Skilled Nominated) | QLD, WA, NT and other major meat-exporting states actively nominate |
 | Subclass 491 (Skilled Work Regional) | Remote abattoirs (QLD/WA outback) offer the most accessible PR pathway; accommodation is typically provided by the employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Advantages: smooth PR pathway (MLTSSL + employer sponsorship), low entry barr
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/abattoir-meat-process-worker/AU)**

@@ -4,8 +4,6 @@
 
 A technical job that installs and maintains broadcasting, communication, and internet cables, building and checking network infrastructure for homes and businesses.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A technical job that installs and maintains broadcasting, communication, and int
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation enhance remote diagnostics and self-installation guides for some cable installation/repair tasks, but actual field work and troubleshooting still require human technicians. Repetitive simple tasks may decrease, but complex problem-solving will become more important.
-
 Starting as a junior installer, one can advance to senior installer or team leader with experience, and further to deputy manager or manager by obtaining technical certifications at telecom or maintenance companies.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a junior installer, one can advance to senior installer or team lead
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Employment possible as non-professional workforce, but limited to manufacturing and construction; telecommunication installation is restricted. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable for employment in specialized fields as skilled technicians, including telecommunications installation and repair. |
-| Subclass F-2 (Residence (F-2)) | No restrictions when switching to a long-term resident |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Safety training under the Occupational Safety and Health Act is mandatory. Co
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcasting-communication-and-internet-cable-installer-and-repairer/KR)**

@@ -52,8 +52,6 @@ Surveyors accurately measure land and determine property boundaries, providing t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Career path: beginners start as measurement technician or assistant, gain experience, then advance to project surveyor or chief surveyor, and eventually become surveying manager or start own surveying company. Obtaining professional license (PLS) is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: beginners start as measurement technician or assistant, gain experi
 | Subclass EB-3 (EB-3 Skilled Workers) | Suitable for bachelor's degree holders or surveyors with over two years' experience; green card wait is long. |
 | Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens; surveyors are eligible but require employer support. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must obtain a state-issued Professional Land Surveyor (PLS) license, usually 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surveyors/US)**

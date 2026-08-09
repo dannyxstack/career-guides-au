@@ -54,8 +54,6 @@ Elevator mechanics install, maintain, and repair elevators, escalators, and lift
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
-
 Junior elevator mechanics can advance to senior technician or supervisor through experience, or move into elevator system design, project management, or entrepreneurship. Continuous learning of new technologies (e.g., smart elevators) is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior elevator mechanics can advance to senior technician or supervisor through
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Through an apprenticeship, it usually takes 4 years to complete a Certificate
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lift-mechanic/AU)**

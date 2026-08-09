@@ -52,8 +52,6 @@ Carpenters and joiners construct, install, and repair wooden structures and furn
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on carpenters and joiners is mixed: tasks like standard measurement and cutting are easily automated, but core skills such as on-site custom installation and creative design remain protected; overall results are a mixed blessing.
-
 Can progress from apprentice to team leader, project manager, or self-employed. Experienced individuals can become technical experts or trainers.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from apprentice to team leader, project manager, or self-employed. 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled immigrants under an employer contract, must meet the minimum salary threshold (approx. €3,909/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | For higher education qualifications and high-paying jobs, requires an annual salary of at least €5,800/month (2024) |
-| Subclass Orientation Year (Orientation Year) | Available to Dutch graduate international students, allows 1 year of free work, then can switch to other residency |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Yes, there is a labour shortage in the construction industry, with high deman
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter-and-joiner/NL)**

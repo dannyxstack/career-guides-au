@@ -53,8 +53,6 @@ Underwriters are responsible for assessing the risks of insurance applications, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of underwriters will be significantly reshaped by AI: automation will take over risk scoring and data organization, but underwriting decisions based on experience, regulations, and complex narratives remain human advantages. Practitioners must transition into high-value analytics, product design, and AI collaboration roles.
-
 Upgrading from junior underwriter to senior underwriter can lead to underwriting managers, reinsurance specialists, or risk management executives, requiring continuous learning of data analysis skills.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Upgrading from junior underwriter to senior underwriter can lead to underwriting
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with an annual salary of ≥53,836.80 euros (2025 standard) and a contract ≥ 3 months |
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship and proof that the position cannot be filled by an EU citizen |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary ≥ 53,836.80 EUR (reduced for shortage occupations), contract ≥ 1 year |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Data analysis, risk assessment, regulatory knowledge, communication skills. P
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-underwriter/FR)**

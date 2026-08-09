@@ -4,8 +4,6 @@
 
 A profession that proposes optimal insurance products and mediates contracts as an agent or broker for life and non-life insurance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ A profession that proposes optimal insurance products and mediates contracts as 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI-powered insurance comparison sites and automatic quotes are becoming widespread, replacing standard product proposals. However, human roles remain significant in consulting for complex needs and selling high-value insurance that emphasizes human relationships. Overall, some tasks are replaced by AI, but specialized areas remain.
-
 After passing the agent registration exam, it is common to start an independent business or join an agency. With experience, one can become a manager at a large agency or obtain FP certification for high-value proposals.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ After passing the agent registration exam, it is common to start an independent 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for insurance agency sales or consulting. Requires university degree and work experience. |
-| Subclass 経営・管理 (Business Manager) | Applicable when managing an insurance agency. Must meet business plan and capital requirements. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as insurance agency work is not included in eligible fields. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: After registering as an agent, acquire FP qualifications while building a tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-agent-broker/JP)**

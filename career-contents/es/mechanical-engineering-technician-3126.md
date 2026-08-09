@@ -53,8 +53,6 @@ Mechanical technicians are responsible for designing, testing, and manufacturing
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Entry-level positions for mechanical engineering technicians are being significantly reduced by AI automation. Repetitive design verification and document generation tasks face replacement risks, but on-site debugging and cross-physical system collaboration still preserve opportunities for humans.
-
 Typically, they start as junior technicians and are promoted to senior technician, supervisor, or project leader after gaining experience. You can pursue engineering degrees to transition into engineer positions, or specialize in specialized fields such as automation or robotics.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Typically, they start as junior technicians and are promoted to senior technicia
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled workers, requiring a university degree or 5 years of experience, with a contract annual salary meeting a certain threshold (about 33,000 euros). |
-| Subclass Cuenta ajena (Work Contract (Employed)) | For employed work residence, a contract must be provided by a Spanish company, usually proving that the position is difficult to fill locally. |
-| Subclass Busqueda empleo (Job Search Visa) | Graduates or highly skilled talents can apply for a 6-12 month job search visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Common pathways include 2 years of Advanced Vocational Training (FP Grado Sup
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-technician-3126/ES)**

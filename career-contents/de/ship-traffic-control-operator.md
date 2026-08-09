@@ -55,8 +55,6 @@ Vessel Traffic Control Operators monitor ports, waterways, and maritime traffic,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vessel traffic monitors and dispatchers face a high risk of automation; AI and machine learning will gradually take over core tasks such as traffic monitoring and collision warning, leading to a significant reduction in demand for these roles.
-
 Career path starts as assistant monitor, progressing to senior monitor, VTS shift supervisor, and further to port traffic management center manager or regional shipping safety coordinator. Requires continuous updating of electronic navigation and emergency response skills.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path starts as assistant monitor, progressing to senior monitor, VTS shif
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa allowing entry to Germany for job hunting, suitable for those with relevant qualifications. |
 | Subclass Recognition (Professional Qualification Assessment) | Overseas qualifications require ZAB recognition, dual system training must align with German standards. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Moderate. can progress from monitor to shift supervisor, port traffic control
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-traffic-control-operator/DE)**

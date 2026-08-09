@@ -1,10 +1,8 @@
 # 银行出纳员（Bank Teller）职业分析 · 韩国
 
-**职业代码: 03211 (KECO)**
+**职业代码：03211 (KECO)**
 
-A job that provides financial services such as counter work, deposit/loan consultation, computer data entry, and customer service at a bank; a representative clerical job in the financial sector.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在银行提供柜台工作、存款/贷款咨询、计算机数据录入和客户服务等金融服务的职位；金融领域的代表性文职工作。
 
 
 ---
@@ -13,8 +11,8 @@ A job that provides financial services such as counter work, deposit/loan consul
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 大学 | 4年 | $15,000,000~$30,000,000（Based on average tuition at 4-year universities） |
-| Junior College | 2 年 | $8,000,000~$15,000,000（Based on average tuition at junior colleges） |
+| 大学 | 4年 | $15,000,000~$30,000,000（基于四年制大学平均学费） |
+| 大专 | 2 年 | $8,000,000~$15,000,000（基于专科院校平均学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A job that provides financial services such as counter work, deposit/loan consul
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Financial Certification | Korea Financial Training Institute | 可选 | Holding certifications such as AFPK or CFP is advantageous. |
-| Bank FP | Korea Financial Training Institute | 可选 | Preferred certification in the banking sector. |
+| 金融认证 | 韩国金融研修院 | 可选 | 持有AFPK或CFP等证书有优势。 |
+| 银行理财师 | 韩国金融研修院 | 可选 | 银行业优先认证。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 140,000. Although demand for personnel is decreasing due to the spread of digital banking, there is a steady need for high-value-added tasks such as selling complex financial products and replacing retirees due to aging.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 140,000。尽管数字银行的普及导致人员需求下降，但在销售复杂金融产品、替换因老龄化退休人员等高附加值任务上仍有稳定需求。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,95 +38,87 @@ A job that provides financial services such as counter work, deposit/loan consul
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $34,000,000~$42,000,000 | Based on standard commercial bank new hires |
-| 中级（4-9年） | $45,000,000~$60,000,000 | Including contract positions, assistant manager to manager level |
-| Advanced (10+ years) | $60,000,000~$90,000,000 | Deputy general manager to branch manager level |
+| 初级（0-3年） | $34,000,000~$42,000,000 | 基于标准商业银行新员工 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 包括合同职位，从副经理到经理级别 |
+| 高级（10年以上） | $60,000,000~$90,000,000 | 副总经理至分行经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-With AI and digitalization, simple counter and computational tasks are significantly decreasing. However, jobs requiring complex judgment such as customer consultation, financial planning, and risk management are expected to maintain or increase demand.
+随着AI和数字化，简单的柜台和计算任务显著减少。然而，需要复杂判断的工作如客户咨询、财务规划和风险管理预计将维持或增加需求。
 
-Typically, after joining through new employee recruitment, one accumulates experience by rotating through various tasks within a branch. Based on performance, one can be promoted to branch manager or department head, or switch to a specialized position such as a PB (private banker).
+通常通过新员工招聘入职，在分行内轮岗积累经验。根据表现，可晋升为分行经理或部门主管，或转为专业岗位如PB（私人银行家）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Deposit and Withdrawal Processing
-- Guidance on Savings and Time Deposit Products
-- Internal Data Entry
+- 简单存取款处理
+- 储蓄和定期存款产品指南
+- 内部数据录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer Consultation and Product Recommendation
-- Financial Planning Consulting
-- Loan Review Assistance
-- Fraud Detection and Risk Assessment
+- 客户咨询与产品推荐
+- 财务规划咨询
+- 贷款审查协助
+- 欺诈检测与风险评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Trust-Building Skills
-- Complex Financial Diagnosis and Solution Presentation
-- Ethical Judgment
+- 人际信任建立技能
+- 复杂财务诊断与解决方案呈现
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Fintech Platform Utilization
-- Digital Marketing
-- Risk Management
+- 数据分析
+- 金融科技平台应用
+- 数字营销
+- 风险管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Finance
-- Aging Population Preparedness
-- Complex Financial Products
-- Customer Relationship Management
+- 数字金融
+- 人口老龄化应对准备
+- 复杂金融产品
+- 客户关系管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment as a foreign bank teller is possible, but Korean language skills and financial experience are required. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible through points system, no restrictions on bank office job employment. |
-| Subclass F-4 (Overseas Korean) | Employment in bank office jobs limited to overseas Koreans. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Attentive and detail-oriented personality
-- Person interested in financial products
-- Person with good interpersonal skills
+- 细心且注重细节的性格
+- 对金融产品感兴趣的人
+- 人际关系良好的人
 
 **谁不适合**
-- Person who finds repetitive work boring
-- Person who finds it hard to adapt to digital changes
+- 觉得重复工作无聊的人
+- 难以适应数字变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of a bank teller?**
-答：The annual salary for new employees at commercial banks is around 34-42 million KRW, and may include performance bonuses and allowances.
+**问：银行柜员的起薪是多少？**
+答：商业银行新员工年薪约为3400-4200万韩元，可能包括绩效奖金和津贴。
 
-**问：Can foreigners work as bank tellers in Korea?**
-答：Yes, it is possible. You can work as a professional through an E-7 visa, and Korean language proficiency (C1 or higher) and financial experience are required.
+**问：外国人能在韩国做银行出纳员吗？**
+答：是的，有可能。可以通过E-7签证作为专业人士工作，需要韩语能力（C1或以上）和财务经验。
 
-**问：How can a bank teller get promoted?**
-答：You can be promoted to deputy manager or branch manager through internal promotion exams and performance evaluations, and obtaining certifications is advantageous.
+**问：银行柜员如何获得晋升？**
+答：可通过内部晋升考试和绩效评估晋升为副经理或分行经理，获得认证将更有利。
 
 
 ---
@@ -146,12 +136,12 @@ Typically, after joining through new employee recruitment, one accumulates exper
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bank-teller/KR)**

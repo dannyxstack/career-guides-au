@@ -54,8 +54,6 @@ Responsible for planning, organising and directing financial information of the 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 From financial analyst/accountant to financial manager, then to finance director/CFO, requiring management experience and professional qualifications (e.g., ACCA, CIMA).
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ From financial analyst/accountant to financial manager, then to finance director
 | Subclass Global Talent (Global Talent visa) | Applicable to applicants with outstanding achievements or potential in the finance field, requiring no employer sponsorship. |
 | Subclass Scale-up (Scale-up visa) | For recruiting high-skilled financial talent in fast-growing enterprises, no ongoing sponsorship required for the first two years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Qualifications such as ACCA, CIMA, CFA, or ICAEW ACA are favored by employers
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-managers-and-directors/UK)**

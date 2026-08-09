@@ -52,8 +52,6 @@ Metallurgists study the properties, processing, and extraction of metals and all
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Metallurgists' core analysis, experimental design, and cross-departmental collaboration are difficult to fully replace by AI, but materials databases and simulation tools will greatly improve efficiency and reduce repetitive data screening roles.
-
 Junior metallurgists can start as lab technicians or assistants, gain experience, and advance to senior metallurgist or team supervisor. They can also develop in research science, project management, or technical management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior metallurgists can start as lab technicians or assistants, gain experience
 | Subclass 482 (Skills in Demand Visa) | Temporary Skill Shortage visa, suitable for employer sponsorship, can transition to 186 permanent residency |
 | Subclass 186 (Employer Nomination Scheme) | Employer-nominated permanent visa, directly grants permanent residency |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Metallurgists may work in laboratories, offices, or factories. Mining positio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallurgist/AU)**

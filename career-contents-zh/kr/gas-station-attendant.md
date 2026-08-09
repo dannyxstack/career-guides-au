@@ -1,10 +1,8 @@
 # 加油站服务员（Gas Station Attendant）职业分析 · 韩国
 
-**职业代码: 61571 (KECO)**
+**职业代码：61571 (KECO)**
 
-A job of refueling customer vehicles at gas stations, providing car wash and light maintenance services, and selling store items.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在加油站为顾客车辆加油、提供洗车和轻度维护服务、销售店内商品的工作。
 
 
 ---
@@ -13,7 +11,7 @@ A job of refueling customer vehicles at gas stations, providing car wash and lig
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No educational requirements; on-the-job training sufficient） |
+| 高中毕业 | 0年 | $0~$0（无学历要求，在职培训即可） |
 
 ---
 
@@ -21,17 +19,17 @@ A job of refueling customer vehicles at gas stations, providing car wash and lig
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hazardous Materials Technician | Human Resources Development Service of Korea | 可选 | Required for gas station operation; optional |
-| Driver's license (Type 2 or higher) | National Police Agency | 可选 | Beneficial for vehicle movement and other tasks |
+| 危险材料技术员 | 韩国人力资源开发服务局 | 可选 | 加油站运营所需；可选 |
+| 驾驶执照（2类或以上） | 国家警察厅 | 可选 | 有利于车辆移动及其他任务 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 80,000. Job outlook is negative due to the shift to electric vehicles and the spread of self-service stations, with employment steadily declining from about 80,000 in 2023.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 80,000。由于向电动汽车转型和自助加油站普及，就业前景为负，就业人数从2023年的约8万人稳步下降。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,94 +37,86 @@ A job of refueling customer vehicles at gas stations, providing car wash and lig
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $20,000,000~$25,000,000 | Minimum wage level, based on 40 hours/week |
-| 中级(3-7年) | $25,000,000~$30,000,000 | Slight increase with experience |
-| 高级（7年以上） | $28,000,000~$35,000,000 | Includes managerial positions, but limited |
+| 初级 (0-3年) | $20,000,000~$25,000,000 | 最低工资标准，按每周40小时计算 |
+| 中级(3-7年) | $25,000,000~$30,000,000 | 随经验略有增加 |
+| 高级（7年以上） | $28,000,000~$35,000,000 | 包含管理职位，但有限制 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很低（★☆☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：很低（★☆☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI and automation are significantly replacing gas attendant jobs. The spread of self-service stations, automated EV charging, and contactless payment systems are gradually eliminating simple fueling tasks. AI can assist with customer service or inventory management, but the core role of gas attendants is expected to shrink.
+AI和自动化正在大幅取代加油站服务员的工作。自助加油站、自动充电桩和无接触支付系统的普及逐渐消除了简单的加油任务。AI可协助客服或库存管理，但加油站服务员的核心角色预计将萎缩。
 
-Growth to gas station manager or mechanic is possible, but the proportion of non-regular workers is high and promotion opportunities are limited.
+可以晋升为加油站经理或机械师，但非正规工人比例高，晋升机会有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Self-service payment and fueling
-- Inventory management via POS systems
-- Basic customer service (guidance)
+- 自助支付和加油
+- 通过POS系统进行库存管理
+- 基础客户服务（指导）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- EV charger fault diagnosis
-- Customized services through customer data analysis
-- Additional services linked to maintenance
+- 电动汽车充电桩故障诊断
+- 通过客户数据分析提供定制服务
+- 与维护相关的附加服务
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person customer service skills
-- Experience-based judgment of vehicle conditions
-- Emergency response skills
+- 面对面客户服务技能
+- 基于经验的车辆状况判断
+- 应急响应技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- EV charging technology
-- Basic maintenance knowledge
+- 电动车充电技术
+- 基础维护知识
 - 客户服务与沟通能力
 - Digital device proficiency
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of self-service gas stations
-- Electric vehicle charging stations
-- Increase in non-regular workers
-- Aging Population
+- 自助加油站扩张
+- 电动汽车充电站
+- 非正规工人增加
+- 人口老龄化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Gas station attendant is an E-9 permitted occupation, allowing employment of non-professional foreign workers. |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans; gas station attendant work possible |
-| Subclass F-4 (F-4 (Overseas Korean)) | No employment restrictions; gas station attendant possible |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient and tolerant of repetitive tasks
-- Comfortable with customer service
-- Able to work nights and weekends
+- 有耐心且能容忍重复性任务
+- 适应客户服务
+- 能上夜班和周末
 
 **谁不适合**
-- Seeking rapid growth and promotion
-- Prefers acquiring technical skills
+- 寻求快速成长和晋升
+- 偏好掌握技术技能
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a gas station attendant?**
-答：As of 2023, starting annual salary is about 20-25 million KRW, and it rarely exceeds 35 million KRW even with experience.
+**问：加油站员工平均工资是多少？**
+答：截至2023年，起薪约2000-2500万韩元，即使有经验也很少超过3500万韩元。
 
-**问：Can foreigners work as gas station attendants?**
-答：Yes, possible with an E-9 (Non-professional Employment) visa, but quotas are limited and demand is decreasing due to the shift to electric vehicles.
+**问：外国人可以担任加油员吗？**
+答：可以，可通过E-9（非专业就业）签证，但配额有限，且因转向电动汽车需求下降。
 
-**问：Can gas station attendants transition to other occupations?**
-答：Possible to become mechanics or gas station managers, but relevant certifications or additional training are required.
+**问：加油站服务员能否转行到其他职业？**
+答：有可能成为机械师或加油站经理，但需要相关认证或额外培训。
 
 
 ---
@@ -144,12 +134,12 @@ Growth to gas station manager or mechanic is possible, but the proportion of non
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 很低（★☆☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/gas-station-attendant/KR)**

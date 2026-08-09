@@ -4,8 +4,6 @@
 
 A healthcare professional who assists doctors in medical treatments and performs patient nursing and health care. Works in various medical institutions such as hospitals, clinics, and nursing facilities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A healthcare professional who assists doctors in medical treatments and performs
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace or assist some nursing tasks (medication records, patient monitoring, administrative work), but direct care and clinical judgment remain the domain of human nurses. Some tasks will decrease, but the profession itself will persist.
-
 Promotion possible from new nurse → charge nurse → head nurse → nursing department director. Acquiring specialized nurse (oncology, critical care, etc.) certification enhances expertise and expands career paths.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Promotion possible from new nurse → charge nurse → head nurse → nursing de
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (E-7)) | Nurses are classified as professionals, eligible for the E-7-1 (Professional) employment visa. A letter of recommendation from the employer is required. |
-| Subclass F-2 (Residence (F-2)) | Under the points-based permanent residency system, nurse qualifications earn extra points. Allows long-term stay. |
-| Subclass F-5 (Permanent Residence (F-5)) | Long-term work as a nurse may qualify you to apply for permanent residency. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: After graduating from a nursing program (3 or 4 years), you must pass the Nat
 | Work intensity | very high (★★★★½) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurse/KR)**

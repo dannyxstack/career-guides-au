@@ -4,8 +4,6 @@
 
 Orthoptists and speech-language pathologists are medical technologists specializing in rehabilitation for visual impairments and speech/hearing disorders, respectively.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Orthoptists and speech-language pathologists are medical technologists specializ
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is increasingly used for rehabilitation planning and training assistance, but patient communication and individual care still rely on humans. AI is expected to improve efficiency and treatment quality.
-
 Orthoptists gain expertise through clinical experience and certifications. Speech-language pathologists expand careers from hospitals to home-visit rehab. Both can pursue research via graduate school.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Orthoptists gain expertise through clinical experience and certifications. Speec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Even foreigners can work in medical institutions after obtaining both national certifications. However, individual审查 determines if the job scope applies. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving Field)) | Not covered under Specified Skilled Worker in caregiving. Orthoptists and speech-language therapists are excluded. |
-| Subclass 高度専門職 (Highly Skilled Professional (i) (a)) | Graduates of graduate schools in research/education etc. may qualify. Rare in practice. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Possible, but each requires a 3–4 year training program, costing time and m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthoptist-speechlanguage-pathologist/JP)**

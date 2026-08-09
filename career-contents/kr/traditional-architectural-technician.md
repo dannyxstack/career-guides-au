@@ -4,8 +4,6 @@
 
 Technician responsible for new construction, repair, and restoration of traditional buildings such as hanok, using traditional techniques including woodworking, plastering, roofing, and decorative painting.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Technician responsible for new construction, repair, and restoration of traditio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can replace some tasks in traditional architecture such as design, drafting, and material calculation, but on-site skills and handicraft techniques are difficult to replace with AI, maintaining demand for manpower.
-
 Promotion to master craftsman (carpenter, joiner) or independent contracting after obtaining cultural property repair technician certification is common.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ Promotion to master craftsman (carpenter, joiner) or independent contracting aft
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible only when invited as a traditional architecture expert, but very limited |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Not possible in traditional architecture; simple construction labor possible |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents, but freedom to work |
-| Subclass F-4 (F-4 (Overseas Korean)) | No employment restrictions for overseas Koreans |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +132,12 @@ A: It is possible to invite professional workers with an E-7 visa, but it is rea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-architectural-technician/KR)**

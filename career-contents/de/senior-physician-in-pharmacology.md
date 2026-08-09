@@ -53,8 +53,6 @@ Pharmacology specialists research and evaluate drug effects, develop personalise
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's overall impact on pharmacology specialists is mixed: automation will take over drug data analysis and documentation tasks, but core duties like individualised treatment decisions and interdisciplinary coordination are hard to replace, so demand remains stable.
-
 Typically requires completion of medical studies, specialist training, and pharmacology study. Progressing from resident to attending physician, one can advance to department head or pharmaceutical company medical advisor.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically requires completion of medical studies, specialist training, and pharm
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires qualification assessment and employer sponsorship |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month job-seeking entry, requires language and qualification pre-assessment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must pass German medical license exam (Kenntnisprüfung) or qualification rec
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-physician-in-pharmacology/DE)**

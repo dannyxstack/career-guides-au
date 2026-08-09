@@ -53,8 +53,6 @@ Responsible for managing industrial analysis laboratories, supervising chemical,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of the Industrial Analysis Laboratory Director will be more efficient thanks to AI's automation of quality monitoring and report generation, but maintaining ISO compliance, team management, and handling complex anomalies will still require human decision-making—these two aspects will shape the future form of the role.
-
 You can start as a laboratory technician, advance to analytical engineer, laboratory supervisor, and finally become a laboratory director. Further shifts can be made to quality control managers, R&D directors, or independent consultants. Continuous learning of new technologies and regulations is necessary.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can start as a laboratory technician, advance to analytical engineer, labora
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Suitable for highly skilled professionals holding a master's degree or equivalent and earning an annual salary twice the French average (about 53,000 euros), valid for 4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for non-EU talent holding higher education diplomas with annual salaries exceeding 53,000 euros (2024), valid for 1-4 years. |
-| Subclass Salarié (Employee Residence Permit) | You must obtain a French work contract and a work permit, valid for one year, and can be renewed. |
-| Subclass Recherche emploi (Job Search Permit) | You can apply after graduation or after your work residence permit expires. The validity period is one year, during which you can look for a job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: You can be promoted to R&D Manager, Quality Director, or move to management c
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-of-industrial-analysis-laboratory/FR)**

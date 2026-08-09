@@ -53,8 +53,6 @@ Includes audiologists, speech-language pathologists, chiropractors, etc., respon
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on this profession is mixed: automation can handle documentation and data analysis, but clinical diagnosis, treatment planning, and patient interaction still highly depend on human judgment, and legal regulations limit automation substitution.
-
 Practitioners usually need a master's or doctoral degree, and with experience can move into management or private practice, or engage in research and teaching.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Practitioners usually need a master's or doctoral degree, and with experience ca
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, especially with priority pathways for medical occupations. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable to applicants with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires a master's or doctoral degree in a relevant field, plus comp
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-professional-occupations-in-health-diagnosing-and-treating/CA)**

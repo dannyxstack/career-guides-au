@@ -4,8 +4,6 @@
 
 Podiatrists are medical professionals specializing in the diagnosis, treatment, and prevention of foot diseases, providing surgeries, physical therapy, and prescription medications.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Podiatrists are medical professionals specializing in the diagnosis, treatment, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
-
 Initially, you can work under the guidance of experienced podiatrists, and after gaining experience, open a private clinic or be promoted to head of the hospital's podiatry department. Continuing education (such as a master's degree in foot surgery) can broaden the scope of practice.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Initially, you can work under the guidance of experienced podiatrists, and after
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Podiatrists employed by Spanish medical institutions must obtain a work contract and pass a labor market test (if applicable) |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for high-paying positions (annual salary usually over €40,000), can obtain residence quickly, but requires qualification authentication. |
-| Subclass Cuenta propia (Self-Employment Visa) | To open a private clinic, you need to submit a business plan, prove investment and professional qualifications, and verify academic qualifications |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Yes, podiatrists are a regulated profession; must hold a Spanish-recognized d
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/podiatrist/ES)**

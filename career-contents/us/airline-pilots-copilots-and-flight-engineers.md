@@ -56,8 +56,6 @@ Operate fixed-wing aircraft to transport passengers or cargo, requiring a federa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Career path usually starts as co-pilot, accumulates flight hours, then progresses to captain, then to training captain or management roles (e.g., flight operations manager). Some pilots move to corporate aviation or flight training
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career path usually starts as co-pilot, accumulates flight hours, then progresse
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Commercial pilot license requires at least 250 hours, airline transport pilot
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-pilots-copilots-and-flight-engineers/US)**

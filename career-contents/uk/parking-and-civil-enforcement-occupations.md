@@ -53,8 +53,6 @@ Parking and civil enforcement officers patrol designated areas to detect and pre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Parking and civil enforcement roles rely heavily on on-site patrols and physical enforcement; AI/automation (e.g., automatic number plate recognition, online payments) will significantly reduce manpower needs, narrowing entry-level positions, though complex violations still require human intervention.
-
 Start as a junior enforcement officer and advance to senior enforcement officer, team supervisor, or regional coordinator. Some transition to transport planning or municipal management roles. Internal promotion relies on experience and training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as a junior enforcement officer and advance to senior enforcement officer,
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress from entry-level enforcement officer to senior officer, team sup
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-and-civil-enforcement-occupations/UK)**

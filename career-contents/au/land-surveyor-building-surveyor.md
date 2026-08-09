@@ -56,8 +56,6 @@ Land Surveyors determine land boundaries, coordinates and topographic features �
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Large-scale government infrastructure investment across Australian states (NSW Suburban Rail Loop / QLD Olympics infrastructure / WA METRONET) is creating a high volume of surveying roles. Drone surveying (UAV) and BIM digital modelling are transforming the industry, with strong demand and notable salary premiums for surveyors skilled in these technologies. WA's mining boom is pushing Mine Surveyor salaries above $160k.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Large-scale government infrastructure investment across Australian states (NSW S
 | Subclass 491 (Skilled Work Regional) | Surveyors are in extreme shortage in remote mining regions (WA inland / QLD mining areas) |
 
 **PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
@@ -176,11 +172,12 @@ A: Land surveyors do more fieldwork and earn more (mining sites $150k–$200k), 
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/land-surveyor-building-surveyor/AU)**

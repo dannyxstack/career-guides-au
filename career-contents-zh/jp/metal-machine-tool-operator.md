@@ -1,8 +1,8 @@
-# Metal Machine Tool Operator 职业分析 · 日本
+# 金属机床操作员（Metal Machine Tool Operator）职业分析 · 日本
 
-**职业代码: 523 (JSCO)**
+**职业代码：523 (JSCO)**
 
-A specialist who operates machine tools such as lathes, milling machines, and grinders to cut and process metal parts. Skilled craftsmanship supporting the manufacturing industry base.
+操作车床、铣床和磨床等机床以切割和加工金属零件的专家。熟练工艺支撑制造业基础。
 
 
 ---
@@ -11,9 +11,9 @@ A specialist who operates machine tools such as lathes, milling machines, and gr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中毕业 | 3年 | $0~$3,000,000（Public high school: tuition-free eligibility） |
-| Vocational school (Mechanical Engineering) | 2 年 | $1,000,000~$3,000,000（Private: including tuition and material costs） |
-| Vocational training school (standard vocational training) | 1-2年 | $0~$500,000（Hello Training; tuition may be free） |
+| 高中毕业 | 3年 | $0~$3,000,000（公立高中：免学费资格） |
+| 职业学校（机械工程） | 2 年 | $1,000,000~$3,000,000（自费：包括学费和材料费） |
+| 职业培训学校（标准职业培训） | 1-2年 | $0~$500,000（Hello Training; tuition may be free） |
 
 ---
 
@@ -21,19 +21,19 @@ A specialist who operates machine tools such as lathes, milling machines, and gr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Skills Certification (Metal Machine Tool) Grade 1 | Ministry of Health, Labour and Welfare | 可选 | Proof of advanced skills; advantageous for promotion |
-| Skills Certification (Metal Machine Tool) Grade 2 | Ministry of Health, Labour and Welfare | 可选 | Proof of basic skills; recommended by many companies |
-| NC Machine Tool Operator Skills Certification | Japan Machine Tool Builders' Association | 可选 | Operation capability for NC lathes and machining centers |
-| Gas Welding Skills Training | Prefectural Labour Bureau | 可选 | May be required |
+| 技能证书（金属机床）一级 | 厚生劳动省 | 可选 | 高级技能证明；有利于晋升 |
+| 技能认证（金属机床）2级 | 厚生劳动省 | 可选 | 基本技能证明；多家公司推荐 |
+| 数控机床操作员技能认证 | 日本机床制造商协会 | 可选 | 数控车床和加工中心的操作能力 |
+| 气焊技能培训 | 县劳动局 | 可选 | 可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 320,000. Demand persists due to domestic manufacturing resurgence and automotive/semiconductor needs, but employment is declining due to youth shortage and automation.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 320,000。由于国内制造业复兴和汽车/半导体需求，需求持续存在，但因青年短缺和自动化，就业率正在下降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +41,86 @@ A specialist who operates machine tools such as lathes, milling machines, and gr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,000,000~$4,000,000 | Annual salary ¥3–4 million, if skills are basic |
-| Intermediate (4–10 years) | $4,000,000~$5,500,000 | Annual salary ¥4–5.5 million, approx. skill test level 2 |
-| Expert (11+ years) | $5,000,000~$7,000,000 | Annual salary ¥5–7 million, plus extra for skill test level 1 & multi-skilling |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 年薪3-4百万日元，如果技能基础。 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 年薪400-550万日元，约技能测试2级 |
+| 专家（11年以上） | $5,000,000~$7,000,000 | 年薪500-700万日元，技能考试一级及多技能另有补贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-Impact of AI and automation is ongoing. Automation of work instructions via CAD/CAM and robot loading/unloading are advancing, but complete substitution is difficult for complex one-off items and changeover decisions that require human judgment.
+AI和自动化的影响持续存在。通过CAD/CAM自动生成作业指导书以及机器人上下料正在推进，但对于复杂单件产品和需要人工判断的切换决策，完全替代很困难。
 
-Career advancement possible through skills certification and multi-skilling. Path from NC/MC operator to programming and production management.
+通过技能认证和多技能培训可实现职业晋升。从NC/MC操作员到编程和生产管理的路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple manual lathe work
-- Repetitive mass production processes
-- Automation-compatible tool change processes
+- 简单手动车床操作
+- 重复性大规模生产过程
+- 自动化兼容的换刀流程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Creating machining programs via CAM
-- On-machine measurement data analysis
-- AI-based tool wear prediction
+- 通过CAM创建加工程序
+- 机上测量数据分析
+- 基于AI的刀具磨损预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Processing complex one-off shapes
-- Changeover decision-making
-- Troubleshooting skills
+- 加工复杂的一次性形状
+- 切换决策
+- 故障排查技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- NC Programming
-- CAD/CAM Operations
-- Robot Teaching
-- Multi-process Mastery
+- 数控编程
+- CAD/CAM操作
+- 机器人示教
+- 多工序掌握
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automotive parts processing
-- Aircraft parts processing
-- Semiconductor manufacturing equipment parts
-- Die and mold manufacturing
+- 汽车零部件加工
+- 飞机零部件加工
+- 半导体制造设备零部件
+- 模具制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, industrial machinery, electrical/electronic/information manufacturing)) | Foreigners can work in metal processing. Requires skills test & Japanese test. Max. residency 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Casting, industrial machinery, electrical/electronic/information manufacturing)) | For skilled experts. No residency renewal limit; family accompaniment & PR application possible. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Engineering)) | Covers advanced knowledge work like NC programming & production technology. Requires university degree or work experience. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in manufacturing with dexterous hands
-- People who like meticulous and precise work
-- People who are physically confident and can tolerate repetitive tasks
+- 对制造业感兴趣且双手灵巧的人
+- 喜欢细致精确工作的人
+- 体力自信且能忍受重复性工作的人
 
 **谁不适合**
-- People who prefer desk work
-- People who find routine work boring
+- 偏好案头工作的人
+- 觉得常规工作无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of metal machine tool operators?**
-答：For beginners, annual income is about 3-4 million yen, for intermediate 4-5.5 million yen, and for skilled workers 5-7 million yen. It can increase further with skill certification and multi-skilling.
+**问：金属机床操作员的年收入是多少？**
+答：初学者年收入约300-400万日元，中级400-550万日元，熟练工500-700万日元。通过技能认证和多技能化可进一步提高。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：Specified Skilled Worker (i)/(ii) (molding/industrial machinery, etc.) or Engineer/Specialist in Humanities/International Services (Engineering) applies. Japanese language ability and skill tests are required.
+**问：外国人从事这一职业需要什么签证？**
+答：适用于特定技能工人（i）/（ii）（成型/工业机械等）或工程师/人文知识/国际服务（工程）签证。需日语能力和技能考试。
 
 **问：晋升路径有哪些？**
-答：After obtaining grade 1 or 2 of the skill test, there are paths to become an NC programmer or production manager. Acquiring multi-skills like welding and assembly is advantageous.
+答：取得技能测试1级或2级后，可成为NC程序员或生产经理。掌握焊接和组装等多技能更有利。
 
 
 ---
@@ -145,12 +138,12 @@ Career advancement possible through skills certification and multi-skilling. Pat
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-machine-tool-operator/JP)**

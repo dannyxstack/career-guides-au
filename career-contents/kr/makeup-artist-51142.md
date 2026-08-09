@@ -50,8 +50,6 @@ A professional who handles makeup, hair, and special effects makeup for actors o
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation can replace repetitive tasks (e.g., basic makeup templates, data-based color recommendations) in makeup artistry, but creative design, special effects makeup, and on-site adaptability are hard to replace, limiting its impact.
-
 Starting as a makeup assistant and building experience, one typically grows into a head makeup artist or special effects makeup specialist. Some also transition to independent freelancing or academy instructors.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Starting as a makeup assistant and building experience, one typically grows into
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | For foreign makeup artists employed by Korean film/TV production companies; degree and experience required |
-| Subclass E-7-2 (Specific Activities (Semi-Professional)) | Makeup artists in performance/event fields; certain experience required |
-| Subclass F-2-1 (Residence (Points System)) | Possible to switch after long-term stay and recognition of skills |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans; can work as makeup artists |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: You need E-7-1 (Professional) or E-7-2 (Semi-professional) visa, with proof o
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/makeup-artist-51142/KR)**

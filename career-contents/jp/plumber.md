@@ -52,8 +52,6 @@ Skilled professional who installs and maintains piping for water, gas, and air c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation of simple piping is advancing with AI and robots, but tasks requiring human judgment, such as complex on-site responses and renovation of existing facilities, will remain.
-
 Start as an apprentice, improve skills through various certifications, and advance to lead or site supervisor.
 
 **Tasks most exposed to AI:**
@@ -91,15 +89,9 @@ Start as an apprentice, improve skills through various certifications, and advan
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) - Construction) | Residence permitted as construction-related specified skilled worker. Renewable up to 5 years. |
-| Subclass 技能 (Skilled Labor (Plumbing)) | Residence permitted for work requiring advanced skills. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +132,12 @@ A: A Specified Skilled Worker (i) (Construction) or Engineer/Specialist in Human
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber/JP)**

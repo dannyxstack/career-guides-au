@@ -51,8 +51,6 @@ Technical drafters use CAD software to create detailed technical drawings and pl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Career path: from junior drafter to senior technical drafter, can move into CAD management, design engineering, or technical sales. Further education to obtain Meister or Techniker qualification can lead to supervisor or project manager roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: from junior drafter to senior technical drafter, can move into CAD 
 | Subclass Skilled Worker (Skilled Worker Visa (Qualified Employment)) | Applicable to certified technical drafters with German-recognized qualifications or vocational credentials |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job-seeking in Germany without a prior job offer, suitable for qualified technical drafters. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Advance to senior draftsperson, CAD manager, technical supervisor, or become 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-drafter/DE)**

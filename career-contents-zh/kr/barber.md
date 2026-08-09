@@ -1,10 +1,8 @@
-# Barber 职业分析 · 韩国
+# 理发师（Barber）职业分析 · 韩国
 
-**职业代码: 51111 (KECO)**
+**职业代码：51111 (KECO)**
 
-A professional who trims customers' hair and provides beauty services such as shaving, dyeing, and perming, working at barbershops or hair salons.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+修剪顾客头发并提供剃须、染发、烫发等美容服务的专业人士，在理发店或美发沙龙工作。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who trims customers' hair and provides beauty services such as sh
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Beauty Academy | 1年 | $3,000,000~$8,000,000（Government funding available; out-of-pocket 3-8 million KRW） |
-| College Department of Beauty | 2 年 | $6,000,000~$12,000,000（Tuition 3-6 million KRW per year） |
+| 美容学院 | 1年 | $3,000,000~$8,000,000（有政府资助；自付300-800万韩元） |
+| 大学美容系 | 2 年 | $6,000,000~$12,000,000（学费每年300-600万韩元） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who trims customers' hair and provides beauty services such as sh
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Barber License | Human Resources Development Service of Korea | 必备 | Required; written and practical exams |
-| National General Hairdresser License | Human Resources Development Service of Korea | 可选 | Optional; similar to barber license |
+| 国家理发师执照 | 韩国人力资源开发服务局 | 必备 | 必需；笔试和实践考试 |
+| 国家通用美发师执照 | 韩国人力资源开发服务局 | 可选 | 可选；类似于理发师执照 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 110,000. In Korea, demand from the elderly remains due to an aging population, but employment growth is limited due to increased competition in the beauty industry and changing consumer trends.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 110,000。在韩国，由于人口老龄化，老年人需求仍然存在，但因美容行业竞争加剧和消费趋势变化，就业增长有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +38,84 @@ A professional who trims customers' hair and provides beauty services such as sh
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $20,000,000~$30,000,000 | 1.7-2.5 million KRW per month |
-| 中级（4-7年） | $30,000,000~$40,000,000 | 2.5-3.3 million KRW per month |
-| 高级（8年+） | $40,000,000~$60,000,000 | Higher if self-employed |
+| 初级 (0-3年) | $20,000,000~$30,000,000 | 每月170-250万韩元 |
+| 中级（4-7年） | $30,000,000~$40,000,000 | 月薪250-330万韩元 |
+| 高级（8年+） | $40,000,000~$60,000,000 | 自雇者收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While it is difficult for AI and automation to completely replace the work of a beauty service provider, the use of AI will increase in some auxiliary tasks such as reservation management and dye recipe recommendations. Skilled manual techniques remain important.
+虽然AI和自动化难以完全替代美容服务人员的工作，但在预约管理和染膏推荐等辅助任务中AI应用将增加。熟练的手工技术仍然重要。
 
-Common path: complete a beauty academy, obtain a barber license, get a job at a barbershop, gain experience, then open a shop or operate a franchise.
+常见路径：完成美容学院课程，获得理发师执照，在理发店找到工作，积累经验，然后开店或经营加盟店。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting guide
-- Reservation management
-- Dye recipe calculation
+- 简单切割指南
+- 预订管理
+- 染料配方计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Scalp diagnosis
-- Style recommendation
-- Customer management CRM
+- 头皮诊断
+- 风格推荐
+- 客户管理CRM
 
-**人类护城河:**
+**人类护城河：**
 
-- Hand dexterity and aesthetic sense
-- Trust-based relationships with customers
-- Customized design ability
+- 手部灵巧度与审美感
+- 基于信任的客户关系
+- 定制设计能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Hair design
-- Scalp and hair care
-- Customer consultation and marketing
+- 发型设计
+- 头皮和头发护理
+- 客户咨询与营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging
-- Single-person households
-- Premium services
-- K-beauty
+- 老龄化
+- 单人家庭
+- 优质服务
+- 韩式美妆
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign barbers working in Korea, but under strict conditions |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term foreign residents to start self-employed business |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work in beauty services |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good manual dexterity and attention to detail
-- People who enjoy customer service and are interested in creative styling
+- 手巧且注重细节的人
+- 喜欢客户服务并对创意造型感兴趣的人
 
 **谁不适合**
-- People who dislike conversation and find repetitive work difficult
-- People who cannot adapt to irregular working hours
+- 不喜欢交谈且觉得重复性工作困难的人
+- 无法适应不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a barber?**
-答：Beginner level: 20–30 million KRW; with experience: 30–40 million KRW; self-employed: 40 million KRW or more.
+**问：理发师平均年薪是多少？**
+答：初级水平：2000-3000万韩元；有经验：3000-4000万韩元；自雇：4000万韩元及以上。
 
-**问：Can foreigners work as barbers in Korea?**
-答：Possible, but an E-7 visa is required, and Korean language skills and license acquisition are mandatory. Conditions are strict, so it is limited as an immigration route.
+**问：外国人在韩国能做理发师吗？**
+答：可能，但需要E-7签证，且韩语能力和执照获取是强制性的。条件严格，因此作为移民途径有限。
 
-**问：Is there a risk of barbers being replaced by AI?**
-答：AI is unlikely to fully replace shaving or cutting, so the risk is low. Rather, automated devices can improve work efficiency.
+**问：理发师有被AI取代的风险吗？**
+答：AI不太可能完全取代剃须或切割，因此风险低。相反，自动化设备可提高工作效率。
 
 
 ---
@@ -143,12 +133,12 @@ Common path: complete a beauty academy, obtain a barber license, get a job at a 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/barber/KR)**

@@ -1,8 +1,8 @@
-# Plant Mechanical Engineer 职业分析 · 韩国
+# 工厂机械工程师（Plant Mechanical Engineer）职业分析 · 韩国
 
-**职业代码: 15112 (KECO)**
+**职业代码：15112 (KECO)**
 
-A professional engineer who designs, installs, and maintains mechanical systems for large-scale industrial facilities such as power plants and chemical plants, with key focus on safety optimization considering high-temperature and high-pressure environments.
+一名专业工程师，设计、安装和维护大型工业设施（如发电厂和化工厂）的机械系统，重点关注高温高压环境下的安全优化。
 
 
 ---
@@ -11,8 +11,8 @@ A professional engineer who designs, installs, and maintains mechanical systems 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Mechanical Engineering) | 3年 | $20,000,000~$40,000,000（根据公立/私立差异较大） |
-| Bachelor's Degree (Mechanical Engineering) | 4年 | $30,000,000~$60,000,000（Based on major 4-year universities） |
+| 副学士学位（机械工程） | 3年 | $20,000,000~$40,000,000（根据公立/私立差异较大） |
+| 学士学位（机械工程） | 4年 | $30,000,000~$60,000,000（基于重点四年制大学） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional engineer who designs, installs, and maintains mechanical systems 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Mechanical Engineering) | Human Resources Development Service of Korea | 可选 | Highest level, requires 4+ years experience + written exam and interview |
-| Mechanical Design Engineer | Human Resources Development Service of Korea | 可选 | Intermediate level, written and practical exams |
-| General Mechanical Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for compensation and promotion |
+| 专业工程师（机械工程） | 韩国人力资源开发服务局 | 可选 | 最高级别，需4年以上经验+笔试和面试 |
+| 机械设计工程师 | 韩国人力资源开发服务局 | 可选 | 中级水平，包括笔试和实践考试 |
+| 通用机械工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但持证有利于薪资与晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 15,000. Due to the replacement of aging coal-fired power plants and new investments in SMR/hydrogen plants, some demand remains, but as of 2024, the plant construction downturn and stagnant new hiring are expected to lead to medium- to long-term employment stagnation or slight decline.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 15,000。由于老化燃煤电厂的替换以及SMR/氢能电厂的新投资，仍有一些需求，但截至2024年，电厂建设低迷和新招聘停滞，预计中长期就业将停滞或略有下降。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional engineer who designs, installs, and maintains mechanical systems 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$48,000,000 | Based on large EPC firms |
-| Mid-level (4-9 years) | $48,000,000~$70,000,000 | Manager level, site allowances separate |
-| Senior-level (10+ years) | $70,000,000~$99,999,999 | Team lead or technical advisor and above |
+| 入门级（0-3年） | $35,000,000~$48,000,000 | 基于大型EPC公司 |
+| 中级（4-9年） | $48,000,000~$70,000,000 | 经理级别，现场津贴另计 |
+| 高级（10年以上经验） | $70,000,000~$99,999,999 | 团队负责人或技术顾问及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI (design optimization, predictive maintenance) automates some repetitive piping/structure calculations, but human experts are essential for safety judgment and accident response in high-temperature/high-pressure plants; full replacement is difficult.
+AI（设计优化、预测性维护）自动化了一些重复性的管道/结构计算，但在高温/高压工厂中，安全判断和事故处理仍需人类专家；完全替代困难。
 
-After building a career at a large EPC firm or design office, one can advance to a mid-sized plant company or overseas project PM, or specialize in mechanics, piping, rotating equipment, etc., and become a technical advisor.
+在大型EPC公司或设计院积累经验后，可晋升至中型工厂企业或海外项目经理，或专攻机械、管道、旋转设备等领域，成为技术顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive piping stress calculations
-- Standard drawing review and error detection
-- Automatic regular equipment inspection schedule
+- 重复的管道应力计算
+- 标准图纸审查与错误检测
+- 自动定期设备检查日程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D modeling automatic optimization
-- AI fault prediction (predictive maintenance) data analysis
-- Safety regulation review and scenario simulation
+- 3D建模自动优化
+- AI故障预测（预测性维护）数据分析
+- 安全法规审查与情景模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency response and on-site safety judgment
-- Coordination and communication with clients/partners
-- Legal/standard interpretation and design change approval
+- 应急响应和现场安全判断
+- 与客户/合作伙伴协调沟通
+- 法律/标准解读与设计变更审批
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI-based CAE (ANSYS, AVEVA)
-- Data analysis (Python, R)
-- Understanding digital twin and smart plant
+- 利用基于AI的CAE（ANSYS, AVEVA）
+- 数据分析（Python, R）
+- 理解数字孪生和智能工厂
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hydrogen plant
-- SMR (Small Modular Reactor)
-- Battery factory equipment
-- Carbon capture
+- 氢能工厂
+- SMR（小型模块化反应堆）
+- 电池工厂设备
+- 碳捕集
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Available through mechanical engineering degree + 5 years experience + contract employment; preferred for skilled worker fields |
-| Subclass F-2-99 (Residence (Points-based)) | Convertible after meeting certain points during E-7 stay; pre-permanent residence stage |
-| Subclass D-10-2 (Job Seeking (Professional)) | For master's/doctorate-level job seekers, allows 6-month stay |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in large-scale equipment and blueprints
-- People who can endure on-site work and long-term projects
-- People with excellent teamwork and documentation skills
+- 对大型设备和蓝图感兴趣的人
+- 能忍受现场工作和长期项目的人
+- 具备优秀团队合作和文档处理能力的人
 
 **谁不适合**
 - 不喜欢重复性办公室工作的人
-- People who avoid overtime and weekend work
+- 避免加班和周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a plant mechanical engineer?**
-答：Entry-level approx. KRW 35–48 million, mid-level 48–70 million, senior 70–100 million (excluding field allowances). Additional allowances for large companies and overseas projects.
+**问：工厂机械工程师的平均薪资是多少？**
+答：入门级约3500-4800万韩元，中级4800-7000万，高级7000万-1亿（不包括现场津贴）。大公司和海外项目有额外补贴。
 
-**问：What visa does a foreigner need to work in this occupation in Korea?**
-答：Professional E-7-1 visa is common; requires mechanical engineering degree and 5+ years of experience. Can convert to F-2 (points-based); not for skilled workers (E-9).
+**问：外国人在韩国从事此职业需要什么签证？**
+答：E-7-1专业签证常见；需要机械工程学位和5年以上经验。可转换为F-2（积分制）；不适用于技能工人（E-9）。
 
-**问：Are there required certifications?**
-答：Not legally required, but Professional Mechanical Engineer or Mechanical Design Engineer helps with promotion/salary. General Mechanical Engineer also benefits treatment.
+**问：是否需要必需的认证？**
+答：法律未强制要求，但专业机械工程师或机械设计工程师有助于晋升/加薪。普通机械工程师也能改善待遇。
 
 
 ---
@@ -142,12 +135,12 @@ After building a career at a large EPC firm or design office, one can advance to
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plant-mechanical-engineer/KR)**

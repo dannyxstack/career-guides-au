@@ -54,8 +54,6 @@ Light-duty cleaners perform daily cleaning and maintenance in commercial premise
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly reduce employment opportunities for light-duty cleaners, as standardized cleaning tasks are increasingly automated, entry-level positions shrink sharply, and low-skilled gaps will be filled by robots.
-
 Career progression paths are limited; you can advance from junior cleaner to cleaning supervisor or team leader, or move into specialized cleaning (e.g., carpet cleaning, pressure washing). Some people contract cleaning businesses after gaining experience, becoming self-employed. Long-term development requires learning management or specialized skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression paths are limited; you can advance from junior cleaner to cle
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship requires full-time job offer and CLB 4 language, suitable for cleaners. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can support work permits after obtaining LMIA, which can serve as a pathway to immigration, but the process is lengthy. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most employers do not require specific certificates, but basic English commun
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/light-duty-cleaners-65310/CA)**

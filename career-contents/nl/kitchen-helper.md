@@ -4,8 +4,6 @@
 
 Kitchen assistants help chefs prepare ingredients, clean utensils, and maintain kitchen hygiene; they are basic positions in the catering industry. In the Netherlands, this job is typically entry-level, often in restaurants, hotels, and canteens.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Kitchen assistants help chefs prepare ingredients, clean utensils, and maintain 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce kitchen hand positions, especially repetitive tasks like food preparation and cleaning, but hotels and high-end dining still retain some opportunities due to on-site flexibility needs.
-
 Career progression is limited; typically, one can advance to a chef's assistant or a specialized role (e.g., salad preparation). Some become full-fledged chefs through vocational training, but most positions lack long-term advancement opportunities.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career progression is limited; typically, one can advance to a chef's assistant 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
-| Subclass Work Permit (GVVA) (Regular Work Permit (GVVA)) | Non-EU citizens require employer sponsorship and must prove the position cannot be filled by local or EU citizens. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Usually can advance to chef assistant or specialist roles, some becoming full
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-helper/NL)**

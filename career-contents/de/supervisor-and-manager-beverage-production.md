@@ -55,8 +55,6 @@ Responsible for overseeing and managing the beverage production process, includi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
-
 Career paths typically start as production team leader or technician, progressing to department head, production manager, and operations director. Further study in food technology or business management can lead to regional management, with salary and responsibility growing accordingly.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career paths typically start as production team leader or technician, progressin
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a recognized vocational qualification or bachelor's degree, can apply for skilled migration, spouse can accompany and work |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to enter Germany to look for work, requiring relevant qualifications or experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: With trends in automation and sustainable production, the beverage industry h
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-beverage-production/DE)**

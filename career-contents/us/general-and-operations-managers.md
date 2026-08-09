@@ -52,8 +52,6 @@ Plan, direct or coordinate operations of public or private sector organizations,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI/automation has mixed effects on general managers and operations managers: data analysis, report generation, and process monitoring tasks are taken over, but strategic decision-making, interpersonal coordination, and crisis handling skills become more valued.
-
 Typically promoted from department manager or project manager, gradually accumulating cross-functional experience. Can advance to regional vice president, COO, or CEO, or transition into consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically promoted from department manager or project manager, gradually accumul
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires higher degree or exceptional ability, PERM labour certification, for green card pathway. |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree or skilled workers, also requires PERM, with long waits. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor degree in business administration or related fi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-and-operations-managers/US)**

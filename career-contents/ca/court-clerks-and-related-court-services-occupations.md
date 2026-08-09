@@ -51,8 +51,6 @@ Court clerks record court proceedings, manage case files, schedule hearings, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The court clerk's task structure faces the dual impact of automation and AI enhancement: repetitive document management, scheduling, and similar tasks are easily replaced, but legal procedure understanding, multi-party coordination, and courtroom adaptability remain core human strengths.
-
 Usually start as junior clerks, gain experience to advance to senior clerk or court administration supervisor, or transition to legal services or court management roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Usually start as junior clerks, gain experience to advance to senior clerk or co
 | Subclass PNP (Provincial Nominee Program) | Some provinces may list court clerks as in-demand occupations, eligible for provincial nomination |
 | Subclass LMIA (Labour Market Impact Assessment) | Obtaining employer sponsorship can apply for a work visa, but it is a non-typical immigration pathway |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can progress from junior clerk to senior clerk, court management, or legal ad
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-clerks-and-related-court-services-occupations/CA)**

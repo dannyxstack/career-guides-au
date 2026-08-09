@@ -54,8 +54,6 @@ Parole or probation officers supervise and counsel offenders sentenced by the co
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
-
 Junior probation officers typically start with case management; with experience, they can advance to senior probation officer, team supervisor, or regional manager. They may also move into policy development, training, or specialized areas (e.g., sex offender management).
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior probation officers typically start with case management; with experience,
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can progress from entry-level officer to senior officer, team leader, regiona
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parole-or-probation-officer/AU)**

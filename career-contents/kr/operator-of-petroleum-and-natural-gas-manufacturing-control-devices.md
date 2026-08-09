@@ -4,8 +4,6 @@
 
 This occupation involves operating and controlling process control devices that perform fractional distillation of crude oil or refine natural gas in oil refineries and petrochemical plants.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ This occupation involves operating and controlling process control devices that 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are introduced for process monitoring and anomaly detection, but on-site response and maintenance decisions are advantageous for humans, making full replacement difficult.
-
 Career advancement: field operator → main control room operator → process manager (team leader) → process engineer; experienced workers may move to large corporations and large plants.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Career advancement: field operator → main control room operator → process ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeted at skilled workers, requires professional experience in petrochemical field |
-| Subclass E-9 (Non-professional Employment) | Limited, some simple operational positions available but few visa quotas |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: It's possible. After graduating from an industrial high school and gaining fi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operator-of-petroleum-and-natural-gas-manufacturing-control-devices/KR)**

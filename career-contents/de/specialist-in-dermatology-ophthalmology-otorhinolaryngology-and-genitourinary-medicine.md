@@ -54,8 +54,6 @@ Specialist physicians diagnose and treat diseases of specific organ systems, suc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnostic processes in specialties like dermatology and ophthalmology (e.g., image reading, pathology analysis) will be significantly enhanced by AI, but high-precision surgery and doctor-patient communication responsibilities still rely on humans; entry-level roles expand due to AI-assisted tools, but specialist training barriers remain high.
-
 Career progression includes becoming a Senior Physician (Oberarzt), Department Head (Chefarzt), or opening a private practice. You can also pursue academic research and become a university professor.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes becoming a Senior Physician (Oberarzt), Department H
 | Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to non-EU citizens with a recognized German vocational qualification (or equivalent foreign qualification). Requires a work contract, no salary threshold, but qualification recognition is needed. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows non-EU citizens to seek employment in Germany for 6 months, requiring proof of financial means. Suitable for medical professionals with qualifications who have not yet found a job. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typical pathway: Resident physician (Assistenzarzt) → Specialist physician 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-in-dermatology-ophthalmology-otorhinolaryngology-and-genitourinary-medicine/DE)**

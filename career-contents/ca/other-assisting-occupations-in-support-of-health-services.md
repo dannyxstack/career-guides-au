@@ -53,8 +53,6 @@ This occupation includes support workers in health services, such as medical equ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed impacts on this occupation: simple patient transport and equipment cleaning tasks face replacement risks, but complex work such as coordination assistance, equipment maintenance, and emotional support is enhanced, leading to a diverging job structure overall.
-
 Auxiliary staff can advance to senior auxiliary roles or clinical support positions; some become medical technicians or nurses through further study.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Auxiliary staff can advance to senior auxiliary roles or clinical support positi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Difficult. This occupation usually does not meet Express Entry requirements; 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-assisting-occupations-in-support-of-health-services/CA)**

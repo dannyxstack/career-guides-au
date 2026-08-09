@@ -51,8 +51,6 @@ Housekeeping staff are responsible for cleaning, organizing, and daily maintenan
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Housekeepers' cleaning and organizing tasks are easily replaced by automation, but highly customized services and emotional care remain a human moat; overall job structure faces compression.
-
 Junior housekeepers can gain experience and advance to senior butlers or housekeeping supervisors, or transition to hotel cleaning management or start their own business.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Junior housekeepers can gain experience and advance to senior butlers or houseke
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Freedom of Movement) | EU citizens can work freely in the Netherlands without additional permits. |
-| Subclass Self-employed Visa (Self-Employment Visa) | Non-EU citizens can apply as self-employed domestic service workers, subject to certain income and qualification requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Advance to butler or housekeeping supervisor through experience, or expand in
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-housekeeper/NL)**

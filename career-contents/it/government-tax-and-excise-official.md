@@ -4,8 +4,6 @@
 
 Responsible for executing tax laws, conducting tax inspections, audits, and collections to ensure taxpayer compliance with tax regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for executing tax laws, conducting tax inspections, audits, and coll
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate data verification and paperwork, but core responsibilities like tax auditing, regulation interpretation, and dispute handling still rely on human judgment; overall impact is mixed.
-
 Typically start as tax assistants or junior inspectors, advance to senior tax officers or team leaders through internal exams; some may transition to policy analysis or cross-border tax coordination roles.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Typically start as tax assistants or junior inspectors, advance to senior tax of
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled professionals, but this position is typically limited to Italian or EU citizens |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, but this position is rarely open to non-EU applicants |
-| Subclass Carta di Soggiorno p (Highly Qualified Worker Residence Card) | Employer sponsorship required, but most positions are internally recruited by public sector, with low demand for foreign workers |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Can progress from basic inspector to senior tax officer, team leader, or even
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-tax-and-excise-official/IT)**

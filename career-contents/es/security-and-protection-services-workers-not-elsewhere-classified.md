@@ -4,8 +4,6 @@
 
 This profession covers security protection service personnel not listed in other categories, such as private security personnel, monitoring room operators, and others. They are responsible for maintaining order, monitoring security equipment, and responding to emergencies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This profession covers security protection service personnel not listed in other
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Routine tasks in this profession, such as monitoring, recording, and reporting, are easily automated by AI, but tasks like personal security, emergency decision-making, and interpersonal negotiations rely on human judgment and are difficult to replace in the short term. The overall number of positions may decrease, but quality will improve.
-
 Junior security officers can be promoted to monitoring supervisor or security coordinator, but management positions are limited. Some people transition by obtaining higher qualifications (such as private investigator licenses) or enter public safety departments.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior security officers can be promoted to monitoring supervisor or security co
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | Employer-sponsored work residence requires proving the position cannot be filled by EU citizens. Very few positions in the security industry. |
-| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can apply for job-seeking visas, but the security industry is not in short supply and has a low success rate. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The average annual salary is about 22,000-26,000 euros (before tax), with sup
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-and-protection-services-workers-not-elsewhere-classified/ES)**

@@ -50,8 +50,6 @@ A specialized technical professional who installs and maintains electrical equip
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI does not directly replace industrial electricians' work but enhances their role as an auxiliary tool in safety diagnosis, design optimization, and maintenance prediction. Skilled on-site expertise remains uniquely human.
-
 Promotion follows the path of Craftsman → Industrial Engineer → Engineer, with field experience and certifications being key. Can also transition to management or self-employment.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Promotion follows the path of Craftsman → Industrial Engineer → Engineer, wi
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for skilled worker visa, employer recommendation required |
-| Subclass E-9 (Non-professional Employment) | Limited electrical work possible |
-| Subclass F-2 (Residence) | Advantageous for long-term residents, step before permanent residency |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: The basic is Electrician Technician, and having Industrial Electrician or hig
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-electrician/KR)**

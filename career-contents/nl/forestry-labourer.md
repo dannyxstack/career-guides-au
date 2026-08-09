@@ -52,8 +52,6 @@ Forestry workers perform physical tasks such as planting, maintaining, harvestin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Forestry worker jobs will be significantly reduced due to automation and AI technology, with traditional physical tasks such as planting, harvesting, and clearing facing machine replacement, leading to fewer entry-level positions, though some supervisory and planning roles will remain.
-
 Can advance to forestry machine operator, forestry supervisor, or forestry technician through experience and additional training.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ Can advance to forestry machine operator, forestry supervisor, or forestry techn
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Can apply if employer identifies as high-skilled talent, but forestry workers usually do not meet the salary threshold. |
-| Subclass Orientation Year (Orientation Year) | Dutch graduates or graduates from the world's top 200 universities can apply, allowing them to find any job in the Netherlands. |
-| Subclass EU Blue Card (EU Blue Card) | Must exceed the median salary, which forestry workers often struggle to achieve. |
-| Subclass EU free movement (Free Movement) | EU/EEA citizens can freely work in the Netherlands. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Can advance to forestry equipment operator, forestry supervisor, or further s
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-labourer/NL)**

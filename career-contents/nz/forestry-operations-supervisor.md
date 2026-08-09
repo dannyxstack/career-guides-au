@@ -52,8 +52,6 @@ Forestry operations supervisors oversee forest harvesting, reforestation, fire p
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on forestry operations supervisors is twofold: automation will take over routine tasks such as data recording and equipment scheduling, but field decision-making, team safety management, and ecological compliance are enhanced by AI tools (e.g. drone monitoring, predictive models), keeping overall demand stable while slightly raising the entry threshold.
-
 Can progress from entry-level forestry worker or assistant, accumulate safety certificates and team management experience to become a supervisor; later can advance to regional manager or forest farm manager, or specialise in forest certification or carbon sink management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from entry-level forestry worker or assistant, accumulate safety ce
 | Subclass SMC (Skilled Migrant Category (6-point system)) | You can qualify for a 6-point migration application through qualifications (e.g., bachelor's/master's), work experience (3-6 years), or a New Zealand job offer. |
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants who do not yet meet direct residence requirements. Holders of a certified employer offer can obtain a 3-year work visa and apply for residence after working for 2 years (equivalent to Green List T2). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires forestry safety knowledge, team leadership skills, equipment mainten
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-operations-supervisor/NZ)**

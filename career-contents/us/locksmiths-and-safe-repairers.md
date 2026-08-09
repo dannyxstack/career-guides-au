@@ -53,8 +53,6 @@ A technical occupation involving repairing and opening locks, making keys, repla
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry demand for locksmiths and safe repairers has been compressed by automation: with the prevalence of smart locks and electronic security systems, traditional mechanical lock repair has declined, simple key cutting and lock opening tasks are replaced by automated machines, reducing positions but maintaining demand for advanced skills.
-
 Career path: Start as an apprentice or junior locksmith, gain experience to become a senior locksmith, security consultant, or open your own locksmith shop. Can also transition to electronic security systems
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career path: Start as an apprentice or junior locksmith, gain experience to beco
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Very difficult. This occupation typically does not meet H-1B requirements, an
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locksmiths-and-safe-repairers/US)**

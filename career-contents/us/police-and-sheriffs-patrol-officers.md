@@ -53,8 +53,6 @@ Enforce local, tribal, state, or federal laws, maintain order, and protect life 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
-
 Promotion path: Police Officer → Detective/Investigator → Sergeant → Lieutenant → Deputy Sheriff/Sheriff. Requires passing promotion exams and accumulating experience, some positions require a bachelor's degree. Senior roles often involve management or specialized tasks.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Promotion path: Police Officer → Detective/Investigator → Sergeant → Lieut
 | Subclass H-1B (H-1B Specialty Occupations) | Not applicable; this occupation typically does not meet professional occupation requirements, and employers rarely sponsor |
 | Subclass EB-3 (Employment-Based Third Preference) | Rare cases requiring sponsorship, but government agencies seldom provide green card sponsorship for police officers. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually start as a patrol officer, then through promotion exams and performan
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-and-sheriffs-patrol-officers/US)**

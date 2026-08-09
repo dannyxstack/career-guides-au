@@ -54,8 +54,6 @@ Vineyard workers are responsible for planting, pruning, irrigation, pest control
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
-
 Vineyard workers can advance to team leader or farm manager, or specialize in wine grape cultivation techniques. Through experience and training (such as TAFE courses), they can also transition to winemaking or winery operations.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Vineyard workers can advance to team leader or farm manager, or specialize in wi
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Employer-sponsored regional visa, occupation must be on specific list |
 | Subclass DAMA (Designated Area Migration Agreement) | Regional agreements may open up agricultural worker positions; employer sponsorship required |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, can advance to team leader, farm manager, or wine grape cultivation spec
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vineyard-worker/AU)**

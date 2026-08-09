@@ -54,8 +54,6 @@ In New Zealand, armoured vehicle escorts are responsible for armed transport of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core armed escort and cash handover duties of armoured vehicle officers remain difficult to fully replace by AI due to high risk and responsibility, but automation will increase for supporting tasks like route planning and monitoring.
-
 Promotion from junior security escort to senior escort or team leader requires experience and higher security certifications. Some may transition to security management or security company operations.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Promotion from junior security escort to senior escort or team leader requires e
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must hold a firearms license (issued by New Zealand Police), a security offic
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armoured-car-escort/NZ)**

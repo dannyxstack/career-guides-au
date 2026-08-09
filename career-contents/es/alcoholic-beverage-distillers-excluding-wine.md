@@ -4,8 +4,6 @@
 
 Engaged in the production and brewing of beer, spirits, and other non-wine alcoholic beverages, including raw material handling, fermentation, distillation, aging, and bottling.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in the production and brewing of beer, spirits, and other non-wine alcoh
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Alcoholic beverage brewers face the dual impact of automation and AI: standardized processes are easily replaced, but complex sensory evaluation and process innovation still require humans; Entry-level positions have decreased due to automation, but demand for high-end positions is increasing.
-
 Starting as a junior brewer, you can be promoted to brewing supervisor or brewer; Some started their own small breweries.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Starting as a junior brewer, you can be promoted to brewing supervisor or brewer
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, and you must have relevant academic qualifications or experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The difficulty is quite high. This occupation is not considered in short supp
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/alcoholic-beverage-distillers-excluding-wine/ES)**

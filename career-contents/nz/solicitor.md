@@ -53,8 +53,6 @@ Solicitors provide legal advice, draft contracts, and represent clients in court
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
-
 Junior solicitors typically become senior solicitors after 2-3 years, then partners or practice independently. They can also move to corporate legal departments or government, with salary increasing significantly with experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior solicitors typically become senior solicitors after 2-3 years, then partn
 | Subclass SMC (Skilled Migrant Category) | Skilled Migration category requires a 6-point system (qualifications + work experience + salary). Legal professionals often receive additional points for higher qualifications. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for transition or when Green List requirements are not met; can lead to residence after work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically start as junior lawyer, advance to senior lawyer after 2-3 years, t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solicitor/NZ)**

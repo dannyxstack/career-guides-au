@@ -53,8 +53,6 @@ Control or tend conveyors or conveyor systems to move materials or products to a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Conveyor operators and attendants face high risk of automation replacement. AI and robots will take over monitoring and adjusting conveyor systems, and the number of positions is expected to shrink.
-
 Junior operators can advance to team leader or supervisor, or move to maintenance technician roles. Some experienced operators can obtain industrial equipment certification and transition to logistics coordinator or warehouse manager.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior operators can advance to team leader or supervisor, or move to maintenanc
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal or temporary non-agricultural worker visa; employers must demonstrate labour shortage, but rarely used for conveyor operators. |
 | Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Other Workers category requires PERM labor certification but is difficult with few quotas; usually not applicable for this occupation. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: BLS projects a 4% decline in employment from 2023 to 2033, mainly due to auto
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conveyor-operators-and-tenders/US)**

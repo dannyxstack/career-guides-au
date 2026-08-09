@@ -54,8 +54,6 @@ Floor layers install various flooring materials such as tiles, wood flooring, ca
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Floor layers face mixed prospects with AI and automation: repetitive tasks like measuring and cutting are easily automated, but on-site adjustments, aesthetic judgment, and complex installations still require human skills; AI is more of an auxiliary tool.
-
 Practitioners can advance from skilled worker to foreman (Vorarbeiter) or self-employed master craftsman (Meister), or further study to become building technician or project manager.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Practitioners can advance from skilled worker to foreman (Vorarbeiter) or self-e
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must demonstrate financial self-sufficiency and relevant professional qualifications. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based visa for job seekers to find employment or apprenticeship opportunities, requiring language and qualification points. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Good prospects: high demand for home renovations and new builds, occupation i
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-layer/DE)**

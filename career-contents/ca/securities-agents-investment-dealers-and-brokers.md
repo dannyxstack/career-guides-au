@@ -53,8 +53,6 @@ In Canada, commodity traders are typically classified under this occupation, dea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on securities agents, investment dealers, and brokers is mixed: high-frequency algorithmic trading has reduced some manual trading positions, but emotional intelligence, complex negotiation, and compliance responsibilities remain human barriers.
-
 Junior traders can start as analysts or assistants and gradually progress to independent trading. Advancement to senior trader, portfolio manager or department head, some move to risk management or research. Usually requires obtaining Canadian Securities Course (CSC) or Chartered Financial Analyst (CFA) certification.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior traders can start as analysts or assistants and gradually progress to ind
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Canadian Securities Course (CSC) required, CFA recommended for senior roles. 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/securities-agents-investment-dealers-and-brokers/CA)**

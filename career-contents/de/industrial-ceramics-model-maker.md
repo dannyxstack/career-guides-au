@@ -51,8 +51,6 @@ Responsible for creating ceramic product models and moulds based on design drawi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial ceramic model makers face a mixed outlook with AI: 3D modelling and CNC programming will be enhanced by AI, but core skills like hand forming and turning are hard to automate; entry-level roles are slightly compressed due to higher digital requirements.
-
 Junior model makers can advance to technician or foreman through continuing education. They can also transition to industrial design or technical management roles, or become self-employed artisans.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior model makers can advance to technician or foreman through continuing educ
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification recognition (Anerkennung) and finding a German employer. Suitable for experienced skilled workers. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job-seeking in Germany, requiring qualification assessment or language skills. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Need to pass a qualification recognition (Anerkennung) to prove skills are eq
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-ceramics-model-maker/DE)**

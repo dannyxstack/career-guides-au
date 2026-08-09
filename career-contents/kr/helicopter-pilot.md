@@ -4,8 +4,6 @@
 
 A professional pilot who flies helicopters to transport passengers, cargo, emergency patients, and perform various missions such as agriculture, construction, and tourism.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A professional pilot who flies helicopters to transport passengers, cargo, emerg
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are unlikely to directly replace helicopter piloting, but they enhance auxiliary tasks like flight planning and maintenance prediction, improving safety and efficiency for pilots.
-
 Starting as a junior pilot, you can accumulate flight hours and advance to captain, instructor, or special mission pilot; career moves to airlines or public institutions (fire, police) are possible.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ Starting as a junior pilot, you can accumulate flight hours and advance to capta
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires specialized license (pilot certificate) and contract; employed by airlines/operators |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible under certain conditions; pre-Permanent Residence step |
-| Subclass F-5 (F-5 (Permanent Residence)) | Obtained after F-2 stay via immigration review; no employment restrictions |
-| Subclass D-10 (Job Seeker) | Short-term stay for job seeking while holding a pilot certificate |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +135,12 @@ A: A university degree is not mandatory, but you must complete a flight training
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helicopter-pilot/KR)**

@@ -49,8 +49,6 @@ A professional technical role that tests and analyzes the physical properties, c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation act as reinforcement factors in test data analysis, quality prediction, etc., but complex tissue analysis and process problem-solving require human experts, making full replacement difficult.
-
 Starting as a junior tester, one can advance to supervisor, quality control team leader, or R&D expert; a master's or doctoral degree is advantageous.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Starting as a junior tester, one can advance to supervisor, quality control team
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available in metals/materials field as a skilled technician |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage after long-term stay |
-| Subclass D-10 (Job Seeking) | For degree holders seeking employment |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Obtaining an engineer certification and work experience are important; a mast
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-and-materials-engineering-tester/KR)**

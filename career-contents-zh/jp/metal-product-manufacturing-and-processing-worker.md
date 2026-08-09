@@ -1,8 +1,8 @@
-# Metal product manufacturing and processing worker 职业分析 · 日本
+# 金属制品制造和加工工人（Metal product manufacturing and processing worker）职业分析 · 日本
 
-**职业代码: 529 (JSCO)**
+**职业代码：529 (JSCO)**
 
-A profession that manufactures and processes various metal products by cutting, welding, bending, and finishing metal materials. Experience in factories or work sites is valued.
+通过切割、焊接、弯曲和精加工金属材料来制造和加工各种金属制品的职业。重视工厂或工作现场经验。
 
 
 ---
@@ -11,9 +11,9 @@ A profession that manufactures and processes various metal products by cutting, 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 中学 | 3年 | $0~$3,000,000（Many public high schools are eligible for free tuition.） |
-| 职业培训学校 | 1-2年 | $0~$500,000（Some public vocational training courses are free.） |
-| Specialized training college | 2 年 | $1,500,000~$3,000,000（For private specialized training colleges） |
+| 中学 | 3年 | $0~$3,000,000（许多公立高中符合免费学费条件。） |
+| 职业培训学校 | 1-2年 | $0~$500,000（一些公共职业培训课程是免费的。） |
+| 专业培训学院 | 2 年 | $1,500,000~$3,000,000（针对私立专门培训学校） |
 
 ---
 
@@ -21,18 +21,18 @@ A profession that manufactures and processes various metal products by cutting, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Skill Certification (Metal Processing) | Ministry of Health, Labour and Welfare | 可选 | Grade 1 and 2; advantageous for promotion and salary increase |
-| Welding Skill Qualification | Japan Welding Engineering Society | 可选 | Qualifications for various welding methods; may be required for employment |
-| Forklift Operation Skills Training | Prefectural Labor Bureau | 可选 | Necessary for cargo handling work in factories |
+| 技能认证（金属加工） | 厚生劳动省 | 可选 | 1级和2级；对晋升和加薪有利 |
+| 焊接技能资格 | 日本焊接工程学会 | 可选 | 各种焊接方法的资格认证；可能受雇所需 |
+| 叉车操作技能培训 | 县级劳动局 | 可选 | 工厂货物搬运工作必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 650,000. While automation is progressing throughout the manufacturing industry, demand for skilled metalworking remains high, especially in small and medium-sized enterprises facing labor shortages. This field also sees many technical intern and specified skilled worker acceptances.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 650,000。虽然整个制造业自动化在推进，但对熟练金属加工的需求仍然很高，尤其是在面临劳动力短缺的中小企业中。该领域也接收许多技术实习生和特定技能工人。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A profession that manufactures and processes various metal products by cutting, 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,200,000~$4,000,000 | Including overtime pay; varies by region for factory work |
-| 中级(3-7年) | $4,000,000~$5,200,000 | Increases with skill improvement and qualification acquisition |
-| Skilled (7+ years) | $5,000,000~$6,500,000 | Higher pay for team leaders and those with special skills |
+| 入门级（0-3年） | $3,200,000~$4,000,000 | 含加班费；工厂工作因地区而异 |
+| 中级(3-7年) | $4,000,000~$5,200,000 | 随着技能提升和资格获取而增加 |
+| 熟练（7年以上） | $5,000,000~$6,500,000 | 团队负责人和拥有特殊技能的人薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and robotics are automating simple tasks, but humans are needed for judgment and skill in high-mix low-volume production and advanced processes. Full replacement is not expected.
+AI和机器人正自动化简单任务，但在多品种小批量生产和先进工艺中，仍需要人类进行判断和技能。预计不会完全取代。
 
-Starting as an apprentice, one can advance to a mid-level worker after acquiring skills in a few years. Career paths include becoming a site leader through skill certification or multi-skilling, and further to foreman or production management positions.
+从学徒开始，几年内掌握技能后可晋升为中技工。职业发展路径包括通过技能认证或多技能成为现场主管，再进一步晋升为领班或生产管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple deburring
-- Routine cutting/drilling
-- Inspection of mass-produced items
+- 简单去毛刺
+- 常规切割/钻孔
+- 批量产品检验
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Creating machining programs with CAD/CAM
-- Teaching welding robots
-- Quality data analysis and process improvement
+- 使用CAD/CAM创建加工编程
+- 教授焊接机器人
+- 质量数据分析和过程改进
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced hand finishing and welding skills
-- Judgment during abnormalities
-- Custom one-off machining per customer requirements
+- 高级手工精加工和焊接技能
+- 异常情况判断
+- 根据客户要求定制单件加工
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating digital machine tools
-- Quality control methods
-- Maintenance techniques
-- Process Design
+- 操作数控机床
+- 质量控制方法
+- 维护技术
+- 工艺设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Metalworking
-- Automotive parts
-- Precision machinery
-- Welding technology
+- 金属加工
+- 汽车零部件
+- 精密机械
+- 焊接技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing, 3 fields)) | Eligible to work in manufacturing including metalworking; requires JLPT N4 or higher |
-| Subclass 技能実習2号 (Technical Intern Training (Machinery/Metal)) | 3-year residency for on-the-job training; aims for skill transfer, requires return home |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates in engineering roles; emphasizes expertise over experience |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and meticulous
-- People who enjoy physical work
-- People interested in manufacturing
+- 手巧且细心的人
+- 喜欢体力工作的人
+- 对制造业感兴趣的人
 
 **谁不适合**
-- People who prefer desk work
+- 偏好案头工作的人
 - 厌恶单调任务者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for metalworking positions?**
-答：Entry-level about ¥3.2-4M, mid-level ¥4-5.2M, expert ¥5-6.5M, varies with overtime and certifications.
+**问：金属加工职位的平均年收入是多少？**
+答：入门级约320-400万日元，中级400-520万日元，专家500-650万日元，视加班和认证情况浮动。
 
-**问：What visa is needed for foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) (manufacturing) is common. Requires N4+ Japanese and skills exam pass. Technical Intern Training (ii) also possible.
+**问：外国人在从事该职业需要什么签证？**
+答：特定技能工人1号（制造业）常见。需N4以上日语及技能考试合格。技能实习生2号也可。
 
-**问：How can one advance their career?**
-答：Obtain skill certifications and become multi-skilled to become a team leader. Further paths include production management or quality control.
+**问：如何提升职业发展？**
+答：获取技能认证并成为多面手，进而成为团队领导。进一步的发展路径包括生产管理或质量控制。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as an apprentice, one can advance to a mid-level worker after acquiring
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-product-manufacturing-and-processing-worker/JP)**

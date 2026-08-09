@@ -50,8 +50,6 @@ Tests and analyzes the quality of construction materials to verify safety and st
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists automated testing equipment and result analysis, but on-site judgment and standard interpretation remain essential human roles.
-
 Primarily hires experienced workers; can advance to supervisor or engineer level by building experience at large corporations or public testing labs. Having certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Primarily hires experienced workers; can advance to supervisor or engineer level
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as construction-related professional personnel; requires an employment contract |
-| Subclass E-9 (Non-professional Employment) | Possible for simple labor at construction sites but unsuitable for testing personnel positions |
-| Subclass F-2 (Residence) | As a points-based permanent residence status, no employment restrictions for long-term stay |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Yes, it may be included as skilled labor in construction, but testers are clo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-materials-tester/KR)**

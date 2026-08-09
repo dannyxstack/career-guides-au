@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing entertainment, sports, and fi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
-
 Usually starting as a project coordinator or assistant, progressing to director or deputy general manager with experience. Through certification (e.g., CPRP) and continuing education, can expand to managing larger multi-facility operations.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually starting as a project coordinator or assistant, progressing to director 
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree or college diploma in recreation manag
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-sports-and-fitness-program-and-service-directors/CA)**

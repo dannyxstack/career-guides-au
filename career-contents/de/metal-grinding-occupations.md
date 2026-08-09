@@ -52,8 +52,6 @@ Grinding, polishing, and finishing metal workpieces using grinders, sanding whee
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Manual grinding and polishing face high automation risk, especially for repetitive tasks, but complex surfaces and fine craftsmanship still require human judgment; entry-level positions will decrease significantly.
-
 Can progress from junior grinder to senior technician or production supervisor, or further study to become CNC grinding specialist or master craftsman (Meister), or move into quality control and technical sales.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior grinder to senior technician or production supervisor, 
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to recognized occupational qualifications without a degree; can work after obtaining certification |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job searching, suitable for those with professional experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes. Through skilled migration laws, if your professional qualifications are 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-grinding-occupations/DE)**

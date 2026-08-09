@@ -52,8 +52,6 @@ Fitness and health coaches provide training in various fitness activities includ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on fitness trainers is mixed: some administrative and content creation tasks may be replaced, but core personalized guidance and emotional motivation are hard to automate; AI is more of an aid than a replacement.
-
 Junior coaches can accumulate experience and advance to senior coaches, department heads, or fitness managers, or specialize in specific areas (e.g., rehabilitation training, sports nutrition) to become independent personal trainers or open their own studios.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior coaches can accumulate experience and advance to senior coaches, departme
 | Subclass Global Talent (Global Talent visa) | Applicable to applicants with outstanding achievements or potential in the fitness field, no employer sponsorship required |
 | Subclass Graduate (Graduate visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhDs), using this visa to gain experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Steady demand growth, especially in personal training and online fitness, but
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitness-and-wellbeing-instructors/UK)**

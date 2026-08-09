@@ -54,8 +54,6 @@ Surveyor assistants work under registered surveyors on land surveying and measur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The outlook for surveyor assistant roles is mixed: AI automation can handle data processing and basic calculations, reducing entry-level tasks; but field surveying, equipment operation, and collaboration with registered surveyors still require human input, while AI-assisted surveying improves efficiency and accuracy.
-
 Surveyor assistants can progress to registered surveyors by completing a NZ Diploma in Surveying (2 years) and accumulating experience, then passing the Cadastral Surveyors Licensing Board exam. They can also transition to geographic information systems (GIS) or geotechnical engineering, with salary and position significantly improving with experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Surveyor assistants can progress to registered surveyors by completing a NZ Dipl
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Surveyor Assistant is not on the Green List itself, but Surveying Technician (ANZSCO 312212) is on T2, requiring 2 years of work before transitioning to residency. |
 | Subclass CSLB Registered (Cadastral Surveyor Licensing) | After obtaining registration, can directly apply for skilled migration with priority processing |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a New Zealand Diploma in Surveying (2 years) or a related 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surveyors-assistant/NZ)**

@@ -53,8 +53,6 @@ Religious assistant professionals assist religious leaders in worship, education
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-For religious assistant professionals, administrative and content production tasks are easily automated by AI, but core faith transmission, emotional support, and human care are hard to replace, creating a 'mixed blessing' situation.
-
 Career progression can move from assistant to supervisor of religious education or community service coordinator, with some becoming full-time clergy or religious leaders
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career progression can move from assistant to supervisor of religious education 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: A degree in theology or religious studies, either a bachelor's or certificate
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-associate-professional/IE)**

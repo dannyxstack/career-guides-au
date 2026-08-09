@@ -51,8 +51,6 @@ A professional involved in designing, developing, testing, and maintaining compu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI-based code generation (e.g., GitHub Copilot) is advancing, but human design, requirements definition, debugging, and security judgment remain crucial. Simple coding tasks will decrease, but overall demand expands due to AI-driven efficiency.
-
 Career path progresses from junior to senior, tech lead, architect, and manager. A specialist track also exists, with higher earnings possible by deepening expertise in fields like AI or security.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Career path progresses from junior to senior, tech lead, architect, and manager.
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Main work visa for IT engineers. Requires university degree or work experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | For high-skilled talent via points system; preferential path to permanent residency. |
-| Subclass 特定活動（未来創造人材） (Designated Activities (Future Creation Talent)) | System for accepting overseas IT talent, with conditions. |
-| Subclass 特定技能1号（情報処理） (Specified Skilled Worker (i) (Information Processing)) | Limited fields, but IT expected to be added from 2024. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: AI, cloud, security, data science. These skills are in high demand.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-engineer/JP)**

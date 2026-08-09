@@ -4,8 +4,6 @@
 
 A profession that plans and performs various humor content such as comedy, satire, and parody to entertain audiences on TV, performance venues, and online platforms.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that plans and performs various humor content such as comedy, satir
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist comedy writers in generating material, video editing, and subtitle creation, but the improvisation, facial expressions, voice tonality, and rapport with the audience by human actors are difficult to replace with AI, so the overall replacement risk is relatively low.
-
 Begins by building a repertoire of personal acts and starting a career through broadcast auditions, stand-up club performances, or SNS content. Success can lead to fixed roles on variety shows, hosting talk shows, and performance tours.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Begins by building a repertoire of personal acts and starting a career through b
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Cultural/artistic professional talent, requires inviting organization, possible to work as comedian but rare |
-| Subclass F-2 (Residence) | Long-term stay possible, few activity restrictions, must meet income requirements |
-| Subclass F-4 (Overseas Korean) | For ethnic Koreans, free activities, limited visa |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: It is not mandatory. There are various entry routes such as open auditions by
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/comedian/KR)**

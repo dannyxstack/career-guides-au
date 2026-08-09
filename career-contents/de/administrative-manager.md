@@ -51,8 +51,6 @@ Administration Managers plan, organize, and supervise administrative tasks in pu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Office manager roles face significant automation compression risk; AI and software directly replace core tasks like admin scheduling, document processing, and budget monitoring, but complex interpersonal coordination and strategic decisions still require humans.
-
 Can progress from administrative officer to department head, then to senior administrative management, usually requiring management experience and further education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from administrative officer to department head, then to senior admi
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled migrants with recognized qualifications or professional licenses, no occupation shortage restrictions. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker opportunity card, allowing entry to Germany for job hunting. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Demand for public administration is stable, digitalization brings new opportu
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-manager/DE)**

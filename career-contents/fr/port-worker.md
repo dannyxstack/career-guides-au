@@ -4,8 +4,6 @@
 
 At ports, they engage in manual operations such as cargo loading, handling, and storage, using forklifts, cranes, and other equipment to ensure efficient cargo flow between ships and land.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ At ports, they engage in manual operations such as cargo loading, handling, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Port handlers face deep impacts from AI and automation, but they are not entirely irreplaceable; Manual loading and unloading and complex coordination still rely on human judgment, and entry-level positions have been greatly reduced as automation becomes widespread.
-
 You can be promoted from a regular handler to an equipment operator (such as a forklift or crane driver), or move to logistics coordination roles; Experienced candidates may serve as team leaders or safety supervisors.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from a regular handler to an equipment operator (such as a f
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a French employer sponsor, and the position must pass a labour market test (priority to EU citizens); non-shortage occupations are difficult to obtain approval. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Open only to high-skilled or high-wage positions; basic warehouse workers do not qualify. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: It is difficult because the profession is not in short supply and France prio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/port-worker/FR)**

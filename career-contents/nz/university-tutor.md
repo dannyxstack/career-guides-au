@@ -53,8 +53,6 @@ Tutoring students, leading group discussions, and marking assignments in higher 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University tutor work is a mixed blessing: AI can automate assignment grading, basic Q&A, and course content generation, compressing traditional tasks; but core needs like personalized tutoring, academic writing guidance, and group interaction are amplified by AI, placing higher demands on tutors.
-
 Can be promoted to senior tutor, lecturer, or researcher. Need to accumulate teaching experience and publications, some move to higher education management. Immigration pathway requires employer sponsorship or a PhD.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted to senior tutor, lecturer, or researcher. Need to accumulate tea
 | Subclass AEWV (Accredited Employer Work Visa) | Temporary work visa, suitable for academic contracts as a university tutor, up to 3 years. |
 | Subclass Post-study Work Visa (Post-study Work Visa) | After PhD, you can get a 3-year open work permit and work as a supervisor/mentor |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, but it's difficult. Tutor positions are usually not on the Green List, b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-tutor/NZ)**

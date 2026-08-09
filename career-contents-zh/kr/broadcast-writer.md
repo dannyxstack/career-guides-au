@@ -1,10 +1,8 @@
-# Broadcast Writer 职业分析 · 韩国
+# 广播撰稿人（Broadcast Writer）职业分析 · 韩国
 
-**职业代码: 41114 (KECO)**
+**职业代码：41114 (KECO)**
 
-A broadcast professional responsible for planning, organizing, and writing scripts for TV programs, specializing in genres such as entertainment, educational, and drama.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责策划、组织和编写电视节目脚本的广播专业人员，专注于娱乐、教育和戏剧等类型。
 
 
 ---
@@ -13,8 +11,8 @@ A broadcast professional responsible for planning, organizing, and writing scrip
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Broadcasting and Video at a Junior College | 2 年 | $6,000,000~$12,000,000（Tuition-based, scholarships and national support available） |
-| Department of Broadcasting and Video at a University | 4年 | $16,000,000~$40,000,000（Tuition-based, varies by public/private） |
+| 大专广播与视频系 | 2 年 | $6,000,000~$12,000,000（收费制，有奖学金和国家资助） |
+| 大学广播与视频系 | 4年 | $16,000,000~$40,000,000（按学费制，因公立/私立而异） |
 
 ---
 
@@ -22,17 +20,17 @@ A broadcast professional responsible for planning, organizing, and writing scrip
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast Writer Certificate | Korea Broadcast Writers Association | 可选 | Optional, advantageous for employment |
-| Broadcast Communication Engineer | Korea Radio Promotion Association | 可选 | Related to broadcast technology, low direct relevance to writers |
+| 广播编剧证书 | 韩国广播作家协会 | 可选 | 可选，对就业有利 |
+| 广播通信工程师 | 韩国广播振兴协会 | 可选 | 与广播技术相关，对编剧直接相关性低 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 15,000. With the growth of new media like YouTube and OTT, content demand is increasing, but competition is fierce due to the reduction of regular broadcast station hires and a high proportion of freelancers.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 15,000。随着YouTube和OTT等新媒体增长，内容需求增加，但由于常规广播公司招聘减少及自由职业者比例高，竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,96 +38,89 @@ A broadcast professional responsible for planning, organizing, and writing scrip
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $18,000,000~$30,000,000 | Freelance basis, project rates vary |
-| 中级 (4-7年) | $30,000,000~$50,000,000 | Contract positions at broadcast stations or experienced freelancers |
-| Advanced (8 years or more) | $50,000,000~$99,999,999 | Head writers, hit program writers |
+| 初级（0-3年） | $18,000,000~$30,000,000 | 自由职业，项目费用各异 |
+| 中级 (4-7年) | $30,000,000~$50,000,000 | 广播电台或电视台的合同职位或有经验的自由职业者 |
+| 高级（8年及以上） | $50,000,000~$99,999,999 | 主笔编剧、热门节目编剧 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of AI technology, especially GPT-based script generation and entertainment planning assistance tools, some tasks of broadcast writers are being automated. However, creative ideas and sensibility remain human domains, so the job will not completely disappear.
+随着AI技术的引入，特别是基于GPT的脚本生成和娱乐规划辅助工具，广播编剧的部分任务正在自动化。然而，创意想法和感性仍是人类领域，因此工作不会完全消失。
 
-Typically start as freelancers, build experience and portfolios, and advance to main writers or head writers, or transition to broadcast PDs or content planners.
+通常从自由职业者开始，积累经验和作品集，晋升为主笔或总编，或转型为广播节目导演或内容策划。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- News Breaking Scripts
-- Pattern-based Entertainment Subtitles
-- Simple Segment Proposals
-- Drafts for Broadcast Scripts
+- 新闻突发稿件
+- 基于模式的字幕娱乐
+- 简易分段提案
+- 广播剧本草稿
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea Generation
-- Script Editing and Polishing
-- Trend Analysis-based Planning
-- Viewership Data Interpretation
+- 创意生成
+- 脚本编辑与润色
+- 基于趋势分析的计划
+- 收视率数据解读
 
-**人类护城河:**
+**人类护城河：**
 
-- Original Creativity
-- Improvising at Entertainment Sites
-- Personal Networks with Celebrities and PDs
-- Understanding Cultural Context
+- 原创创意
+- 娱乐场所即兴表演
+- 与名人和PD的人脉关系
+- 理解文化背景
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI-based Script Tools
-- Data Analysis (Viewership, Trends)
-- Advanced Storytelling
-- Collaboration and Communication
+- 利用基于AI的脚本工具
+- 数据分析（收视率、趋势）
+- 高级叙事
+- 协作与沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content
-- Web entertainment
-- Short-form Content
-- One-person Media
+- OTT内容
+- 网络娱乐
+- 短内容
+- 个人媒体
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible with employment contract as broadcast professional, requires company sponsorship |
-| Subclass E-1 (Professor) | Direct path is limited as college broadcasting professor or writer |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent writing skills
-- People with abundant ideas
-- People who are strong under stress
+- 写作能力出色的人
+- 想法丰富者
+- 抗压能力强的人
 
 **谁不适合**
-- People who prefer regular work hours
-- People who prefer fixed frameworks over creative thinking
+- 偏好规律工作时间的人
+- 偏好固定框架而非创造性思维的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a broadcast writer?**
-答：Early career: 20-30 million KRW; 10+ years: 50 million to 100 million KRW; income varies greatly as many are freelancers.
+**问：广播编剧的平均薪资是多少？**
+答：早期职业：2000万至3000万韩元；10年以上：5000万至1亿韩元；收入差异大，因多为自由职业者。
 
-**问：Can foreigners work as broadcast writers?**
-答：E-7 visa allows professional work, but Korean proficiency and broadcasting experience are required, and competition is fierce.
+**问：外国人可以担任广播编剧吗？**
+答：E-7签证允许专业工作，但需要韩语能力和广播经验，竞争激烈。
 
-**问：Is a degree necessary to become a broadcast writer?**
-答：Not mandatory, but graduating from a broadcasting-related department or completing a broadcast writing institute is advantageous; portfolio and specs are important.
+**问：成为广播撰稿人是否需要学位？**
+答：非强制性，但毕业于广播相关专业或完成广播写作学院有利；作品集和规格很重要。
 
 
 ---
@@ -147,12 +138,12 @@ Typically start as freelancers, build experience and portfolios, and advance to 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/broadcast-writer/KR)**

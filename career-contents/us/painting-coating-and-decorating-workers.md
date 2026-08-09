@@ -53,8 +53,6 @@ Spray, coat, or decorate furniture, glass, pottery, jewelry, and other items, no
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This occupation heavily relies on manual operation and visual inspection; AI cannot autonomously perform physical spraying, but automated spray equipment is gradually replacing skilled workers, entry-level positions are shrinking, and job opportunities will decrease over the next 5 years.
-
 Junior workers can gain experience through apprenticeships, advance to senior technicians or supervisors; some move to quality control or color matching, few enter art restoration.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior workers can gain experience through apprenticeships, advance to senior te
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Generally difficult, as this occupation typically does not require a bachelor
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painting-coating-and-decorating-workers/US)**

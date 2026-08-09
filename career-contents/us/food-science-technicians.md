@@ -51,8 +51,6 @@ Assist food scientists in physical and chemical testing of food or beverages to 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are significantly enhancing food technologists' capabilities, enabling faster and more accurate quality testing, data analysis, and report generation, but physical sampling and on-site operations still rely on humans.
-
 Junior technicians can advance to senior technician, lab supervisor, or quality control manager, with some moving into R&D or food safety management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior technicians can advance to senior technician, lab supervisor, or quality 
 | Subclass EB-3 (Employment-Based Third Preference) | For skilled workers, requires PERM labor certification, long backlog. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens; food technologist is on the NAFTA professional list. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, but you need a bachelor's degree and the position must be classified as 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-science-technicians/US)**

@@ -4,8 +4,6 @@
 
 Elected public officials who conduct policy decisions and deliberations in local assemblies or the National Diet. They act as representatives of residents or citizens through enactment of ordinances and laws, budget deliberations, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Elected public officials who conduct policy decisions and deliberations in local
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used to assist in policy analysis and document creation, but human roles such as political judgment and dialogue with citizens remain central, making full replacement difficult.
-
 Typical career paths go from independent to party-affiliated, or from local to national politics. Election victory is essential, and political experience and connections are important.
 
 **Tasks most exposed to AI:**
@@ -92,15 +88,9 @@ Typical career paths go from independent to party-affiliated, or from local to n
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 該当なし (Not applicable) | Under Japan's Public Offices Election Act, only Japanese citizens are eligible to run for office; therefore, there are no foreign nationals qualified. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +134,12 @@ A: You need to run for election and win. Typically, you join a political party o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/member-of-the-diet-local-assembly/JP)**

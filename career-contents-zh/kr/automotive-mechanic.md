@@ -1,8 +1,8 @@
-# Automotive Mechanic 职业分析 · 韩国
+# 汽车修理工（Automotive Mechanic）职业分析 · 韩国
 
-**职业代码: 81241 (KECO)**
+**职业代码：81241 (KECO)**
 
-A specialized technical professional who inspects, disassembles, assembles, repairs, and maintains various mechanical devices such as engines and transmissions of automobiles.
+检查、拆卸、组装、修理和维护各种机械设备（如汽车发动机和变速箱）的专业技术专家。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized technical professional who inspects, disassembles, assembles, repa
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School (Specialized High School Automotive Department) | 3年 | $0~$0（Free education） |
-| College (Automotive Department, 2-3 years) | 2 年 | $4,000,000~$8,000,000（Annual tuition fee basis） |
-| Vocational Training (e.g., Polytech) | 1年 | $0~$1,000,000（Government funding available） |
+| 高中（专业高中汽车系） | 3年 | $0~$0（免费教育） |
+| 学院（汽车系，2-3年） | 2 年 | $4,000,000~$8,000,000（按年学费计算） |
+| 职业培训（例如理工学院） | 1年 | $0~$1,000,000（可申请政府资助） |
 
 ---
 
@@ -21,19 +21,19 @@ A specialized technical professional who inspects, disassembles, assembles, repa
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automotive Mechanic Technician | Human Resources Development Service of Korea | 必备 | Required license, includes practical exam |
-| Industrial Engineer Auto Maintenance | Human Resources Development Service of Korea | 可选 | Advantageous for advanced maintenance and management positions |
-| Electric Vehicle Maintenance Certification (Private) | Korea Automobile Maintenance Association, etc. | 可选 | Required for electric vehicle maintenance |
-| Vehicle Inspector License | Korea Transportation Safety Authority | 可选 | Needed for employment at inspection stations |
+| 汽车机械技师 | 韩国人力资源开发服务局 | 必备 | 要求执照，包括实践考试 |
+| 工业工程师汽车维修 | 韩国人力资源开发服务局 | 可选 | 有利于高级维护和管理职位 |
+| 电动汽车维修认证（私人） | 韩国汽车维修协会等 | 可选 | 电动汽车维修必备 |
+| 车辆检验员执照 | 韩国交通安全局 | 可选 | 在检查站就业所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 180,000. Employment is expected to gradually decrease due to reduced demand for internal combustion engine vehicles and the shift to electric vehicles, but the decline will be moderate as demand for maintenance and repair of older vehicles persists.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 180,000。由于内燃机汽车需求下降和向电动汽车转型，就业预计将逐渐减少，但老旧车辆维护和修理需求将延缓下降速度。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +41,86 @@ A specialized technical professional who inspects, disassembles, assembles, repa
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Including base salary + allowances |
-| 中级（4-9年） | $32,000,000~$42,000,000 | Increases with experience and qualifications |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Team leader or advanced car specialist |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 包含基本工资+津贴 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 随经验和资历增长 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 团队负责人或高级汽车专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation assist some tasks such as vehicle diagnosis, maintenance record management, and parts inventory management, but physical disassembly, assembly, and repair require human skill, making complete replacement difficult. However, the shift to EVs will reduce maintenance frequency, shrinking overall job numbers.
+AI和自动化辅助部分任务，如车辆诊断、维修记录管理和零件库存管理，但物理拆卸、组装和维修需要人工技能，因此完全替代困难。不过，向电动汽车的转型将减少维修频率，从而缩减整体岗位数量。
 
-Promotion path: Automotive Mechanic → Industrial Engineer Auto Maintenance → Maintenance Team Leader/Plant Manager. Acquiring electric/hybrid vehicle maintenance certifications is advantageous for career expansion.
+晋升路径：汽车修理工→工业工程师汽车维修→维修组长/厂长。获得电动/混合动力汽车维修认证有利于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reading OBD diagnostic codes
-- Recording and managing maintenance history
-- Checking and ordering parts inventory
+- 读取OBD诊断代码
+- 记录和管理维护历史
+- 检查并订购零件库存
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault analysis using diagnostic equipment
-- Searching and referencing maintenance manuals
-- Customer consultation and cost estimation
+- 使用诊断设备进行故障分析
+- 查阅和参考维修手册
+- 客户咨询与成本估算
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical disassembly, assembly, welding, etc., manual work
-- Experience-based judgment according to vehicle characteristics
-- Direct communication and trust-building with customers
+- 物理拆卸、组装、焊接等手工工作
+- 根据车辆特性的经验判断
+- 与客户直接沟通和建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric Vehicle High-Voltage System Safety Work
-- Autonomous Driving Sensor and Control Unit Maintenance
-- Diagnostic Scanner and Software Utilization
+- 电动汽车高压系统安全工作
+- 自动驾驶传感器与控制单元维护
+- 诊断扫描仪和软件的使用
 - 客户服务与沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicle maintenance
-- Autonomous vehicle maintenance
-- Luxury vehicle maintenance
-- Diagnostic equipment operation
+- 电动汽车维护
+- 自动驾驶车辆维护
+- 豪华车维修
+- 诊断设备操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon employment contract as a skilled auto mechanic. Requires experience and qualifications. |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to unskilled simple repair assistance. Partially possible through the Employment Permit System. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay and free employment possible when converting from E-7 to F-2. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy disassembling and assembling cars and have manual dexterity
-- People who are interested in electrical, electronic, and mechanical principles
-- People who enjoy customer service and meticulous work
+- 喜欢拆卸和组装汽车且动手能力强的人
+- 对电气、电子和机械原理感兴趣的人
+- 喜欢客户服务和细致工作的人
 
 **谁不适合**
-- People who dislike repetitive tasks and prefer not to do active work
-- People who find it difficult to adapt to continuous technological changes
+- 不喜欢重复性任务且不愿从事主动工作的人
+- 难以适应持续技术变革的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an automotive mechanic?**
-答：The average salary is about 35-40 million KRW (pre-tax), ranging from 24 million to over 60 million KRW depending on experience and qualifications.
+**问：汽车机械师的平均薪资是多少？**
+答：平均工资约为3500-4000万韩元（税前），根据经验和资格从2400万到超过6000万韩元不等。
 
-**问：What visa do foreigners need to work as an automotive mechanic?**
-答：For skilled workers, the E-7 (Specific Activities) visa (experience/qualification requirements) is possible; for unskilled simple assistance, the E-9 (Non-professional Employment) visa (Employment Permit System) is limitedly allowed.
+**问：外国人从事汽车机械师工作需要什么签证？**
+答：对于技术工人，E-7（特定活动）签证（经验/资格要求）是可能的；对于非技术简单辅助工作，E-9（非专业就业）签证（就业许可制度）有限制地允许。
 
-**问：Is electric vehicle maintenance certification mandatory?**
-答：It is not mandatory, but with the expansion of EVs, it is advantageous for employment and salary, so obtaining it is recommended.
+**问：电动汽车维修认证是否强制？**
+答：虽然不是强制要求，但随着电动汽车的普及，这对就业和薪资有利，因此建议获取。
 
 
 ---
@@ -145,12 +138,12 @@ Promotion path: Automotive Mechanic → Industrial Engineer Auto Maintenance →
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-mechanic/KR)**

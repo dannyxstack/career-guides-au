@@ -4,8 +4,6 @@
 
 A professional educator who teaches subjects, provides life guidance, and career counseling to students in middle and high schools.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional educator who teaches subjects, provides life guidance, and career
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI streamlines some tasks like lesson preparation, grading, and data analysis, but human-specific roles such as student relationship building and guidance are difficult to replace with AI, actually strengthening the value of teachers.
-
 After obtaining a regular teacher certificate, one is appointed to public schools through the appointment exam. Promotion follows the order of teacher → head teacher → vice principal → principal. Private schools follow their own regulations.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After obtaining a regular teacher certificate, one is appointed to public school
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to some international or foreign school teachers but not regular middle/high schools |
-| Subclass F-2 (Residence) | Pre-permanent residence stage, fewer work restrictions |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can obtain teacher qualifications but have hiring restrictions |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: One must complete a college of education or a teaching course at a general un
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/middle-and-high-school-teacher/KR)**

@@ -54,8 +54,6 @@ Electrical technicians install, maintain, and repair electric motors, generators
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
-
 Can progress from technician to senior technician or engineering supervisor, or become an electrical engineer or project management specialist through further study.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from technician to senior technician or engineering supervisor, or 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with vocational training qualifications, need a German employer contract |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing job seekers to search for work in Germany, suitable for those with matching skills |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically completed through 3.5-year dual training, certified by IHK, or a ba
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-machine-technician/DE)**

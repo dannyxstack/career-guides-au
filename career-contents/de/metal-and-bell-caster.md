@@ -52,8 +52,6 @@ In the field of metal and bell casting, hand casters are responsible for mold ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hand metal and clock casters face mixed impacts from AI: automated casting equipment may replace some repetitive tasks, but AI-assisted design and real-time monitoring will improve precision and efficiency in complex casting.
-
 Start as an apprentice, gradually advance to skilled worker, foreman. Can specialize in artistic or industrial casting, a few become independent artisans or studio heads. Continuing education can lead to cultural relic restoration or mold design.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an apprentice, gradually advance to skilled worker, foreman. Can specia
 | Subclass Skilled Worker Visa (Skilled Worker (Fachkräfteeinwanderungsgesetz)) | For those who have completed recognized vocational training in Germany or hold equivalent qualifications, with no salary threshold requirement. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing a one-year job search in Germany; requires proof of language proficiency and relevant qualifications. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Workers can advance to master craftsman or even establish their own work
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-and-bell-caster/DE)**

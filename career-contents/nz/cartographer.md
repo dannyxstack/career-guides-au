@@ -51,8 +51,6 @@ Cartographers in New Zealand collect and analyze geographic data to create digit
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
-
 Junior cartographers can advance to senior map cartographers, GIS analysts, or project managers. Obtaining certification from the New Zealand Geographic Information Society (NZGIS) can enhance career prospects, with some moving into remote sensing or spatial data science fields.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior cartographers can advance to senior map cartographers, GIS analysts, or p
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, can apply for residency after 2 years, requires accredited employer and hourly wage of at least $29.66. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa requires a job offer from an accredited employer, hourly wage at least $29.66. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a bachelor's degree in geography, cartography, or GIS-relate
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographer/NZ)**

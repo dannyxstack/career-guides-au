@@ -56,8 +56,6 @@ Responsible for identifying, removing, packaging, transporting, or disposing of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will have a mixed impact on hazardous materials removal workers: remote sensing and robots can replace some high-risk identification and cleanup tasks, but strict regulations, on-site judgment, and physical operation requirements remain core human advantages.
-
 Entry-level workers can advance to supervisors or trainers by gaining experience and obtaining higher-level certifications (e.g., asbestos supervisor, project manager). Some transition to environmental consulting or safety supervision roles. Continuing education and professional certification are crucial for advancement.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level workers can advance to supervisors or trainers by gaining experience
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Generally require OSHA 40-hour hazardous waste operations training certificat
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hazardous-materials-removal-workers/US)**

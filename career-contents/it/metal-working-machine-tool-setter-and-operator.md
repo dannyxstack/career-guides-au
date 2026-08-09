@@ -53,8 +53,6 @@ Set up, operate, and maintain metalworking machine tools (e.g., lathes, milling 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI has mixed effects on metalworking machine tool setters and operators: programming and monitoring tasks will be automated, but equipment setup, multi-task processing, and quality anomaly handling still require human skills.
-
 Usually start as an operator, then progress to senior operator, programming technician, or production supervisor. Through CNC programming and maintenance training, you can move to more specialized roles such as CNC machine setter.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Usually start as an operator, then progress to senior operator, programming tech
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through annual quotas and require employer sponsorship. Metal processing operators are not on the priority list but can attempt to apply. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to high-skilled positions requiring at least 3 years of work experience or higher education, with an annual salary threshold of approximately €30,000 (2025). Usually not for this position. |
-| Subclass Work Residence Permit (Work Residence Permit) | Apply after holding a work visa, validity usually 2 years, renewable. Must continue employment. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: usually need to complete 3 years of vocational training (IeFP) or 2 years of 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-working-machine-tool-setter-and-operator/IT)**

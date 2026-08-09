@@ -54,8 +54,6 @@ Tile layers install tiles on floors and walls in residential and commercial buil
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
-
 Progress from apprentice to skilled tradesperson; can enhance qualifications by obtaining the Red Seal endorsement. With experience, can advance to foreman, project manager, or self-employed contractor, significantly increasing income.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Progress from apprentice to skilled tradesperson; can enhance qualifications by 
 | Subclass PNP (Provincial Nominee Program) | Most provinces list bricklaying as a priority occupation, e.g., Ontario, BC; requires provincial nomination. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces target trades with employer offer required for application |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Some provinces mandate provincial licenses; Red Seal certification is not man
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tilers/CA)**

@@ -1,8 +1,8 @@
-# Electronic Product and Component Development Engineer 职业分析 · 韩国
+# 电子产品及部件开发工程师（Electronic Product and Component Development Engineer）职业分析 · 韩国
 
-**职业代码: 15321 (KECO)**
+**职业代码：15321 (KECO)**
 
-R&D engineers responsible for designing, developing, and testing electronic products and components, playing a key role in advanced electronics sectors such as semiconductors, displays, and home appliances.
+负责设计、开发和测试电子产品及组件的研发工程师，在半导体、显示器和家用电器等先进电子领域发挥关键作用。
 
 
 ---
@@ -11,9 +11,9 @@ R&D engineers responsible for designing, developing, and testing electronic prod
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2–3 years | $5,000,000~$12,000,000（Tuition based on national/public university rates） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（4-year university standard, excluding scholarships） |
-| 硕士 | 2 年 | $15,000,000~$30,000,000（Graduate school tuition, research funding may be available） |
+| 副学士学位 | 2–3年 | $5,000,000~$12,000,000（按国立/公立大学标准收费） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（4年制大学标准，不含奖学金） |
+| 硕士 | 2 年 | $15,000,000~$30,000,000（研究生学费、研究经费可能提供） |
 
 ---
 
@@ -21,17 +21,17 @@ R&D engineers responsible for designing, developing, and testing electronic prod
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electronic Engineer | Human Resources Development Service of Korea | 可选 | Professional engineer certification, not mandatory but provides extra points |
-| Master's in Electronic Engineering or higher | 大学 | 可选 | Preferred for R&D recruitment |
+| 电子工程师 | 韩国人力资源开发服务局 | 可选 | 专业工程师认证，非强制性但可加分 |
+| 电子工程硕士或以上 | 大学 | 可选 | 研发招聘优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 85,000. Demand is expected to continue growing due to the expansion of advanced electronics industries like semiconductors, AI semiconductors, and electric vehicle components, with a deepening shortage of skilled personnel.
+**职位需求量：很高（★★★★½）** 全国从业人数约 85,000。由于半导体、人工智能半导体和电动车零部件等先进电子行业的扩张，需求预计将持续增长，熟练人员短缺加剧。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,91 +39,83 @@ R&D engineers responsible for designing, developing, and testing electronic prod
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $35,000,000~$50,000,000 | Based on large corporations; SMEs may have lower rates |
-| Mid-level (4–7 years) | $50,000,000~$70,000,000 | Varies with experience |
-| 高级（8年+） | $70,000,000~$99,999,999 | Principal researcher or above |
+| 初级（0-3年） | $35,000,000~$50,000,000 | 基于大型企业；中小企业费率可能较低 |
+| 中级（4–7年） | $50,000,000~$70,000,000 | 视经验而定 |
+| 高级（8年+） | $70,000,000~$99,999,999 | 主任研究员及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI significantly boosts productivity in electronics product development by optimizing design, simulation, and test automation, but human roles are essential for creative conceptual design and complex system integration. Thus, AI will augment rather than replace jobs.
+人工智能通过优化设计、仿真和测试自动化显著提高电子产品开发效率，但人类角色对于创意概念设计和复杂系统集成至关重要。因此，AI将增强而非取代工作岗位。
 
-Starting at large corporate labs or SME R&D centers, advancement to senior/principal researcher, team leader, or lab director is possible, with specialization in specific fields (e.g., semiconductor design) based on expertise.
+从大型企业实验室或中小企业研发中心开始，可晋升至高级/首席研究员、团队负责人或实验室主任，并根据专业知识专攻特定领域（如半导体设计）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple circuit simulation
-- Basic test automation
-- Standardized document writing
+- 简单电路仿真
+- 基础测试自动化
+- 标准化文档编写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex circuit design optimization
-- New material characterization
-- System-level integration verification
+- 复杂电路设计优化
+- 新材料表征
+- 系统级集成验证
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative innovation
-- System architecture design
-- Multidisciplinary collaboration
+- 创意创新
+- 系统架构设计
+- 多学科协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/Machine Learning
-- Data Analysis
-- Programming (Python, C++)
-- EDA Tool Utilization
+- 人工智能/机器学习
+- 数据分析
+- 编程（Python, C++）
+- EDA工具使用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductors
-- AI Semiconductors
-- Electric Vehicle Components
-- 5G/6G Communications
+- 半导体
+- AI半导体
+- 电动汽车零部件
+- 5G/6G通信
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to skilled foreign engineers, R&D possible in electronics |
-| Subclass D-10 (Job-seeking) | For degree holders, 6-month job-seeking allowed |
-| Subclass F-2 (Residence) | Point-based, long-term stay possible |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans, few employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with deep interest in electronics
-- Person who solves problems persistently
-- Person who values teamwork
+- 对电子有浓厚兴趣的人
+- 坚持不懈解决问题的人
+- 重视团队合作的人
 
 **谁不适合**
-- Person who prefers simple repetitive tasks
-- Person who dislikes rapid changes
+- 偏好简单重复性任务的人
+- 不喜欢快速变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an electronics product development engineer?**
-答：Starting at 35-50 million KRW for entry-level; over 100 million KRW possible with 10+ years of experience.
+**问：电子产品开发工程师的平均工资是多少？**
+答：入门级3500-5000万韩元起；10年以上经验可超1亿韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes, skilled R&D personnel can be hired with an E-7 visa (Specific Activities), and a master's degree or higher is advantageous.
+**问：外国人能获得此职业的工作签证吗？**
+答：是的，熟练的研发人员可以持E-7签证（特定活动）被雇佣，硕士或更高学历更有利。
 
 
 ---
@@ -141,12 +133,12 @@ Starting at large corporate labs or SME R&D centers, advancement to senior/princ
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electronic-product-and-component-development-engineer/KR)**

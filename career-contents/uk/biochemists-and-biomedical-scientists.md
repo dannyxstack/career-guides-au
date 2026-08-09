@@ -52,8 +52,6 @@ Study chemical processes in living organisms, including their relationships, env
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
-
 Junior biomedical scientists can advance to senior scientist or lab director through professional certification, or move into research and development, quality management, or teaching, with some taking R&D roles in pharmaceutical companies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior biomedical scientists can advance to senior scientist or lab director thr
 | Subclass Global Talent (Global Talent Visa) | For researchers with outstanding achievements or potential in scientific fields, no employer sponsorship required. |
 | Subclass Graduate (Graduate Visa) | Graduates in the UK can stay and work for at least 2 years (3 years for PhD holders). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: An IBMS-accredited Biomedical Science bachelor's degree is usually required, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biochemists-and-biomedical-scientists/UK)**

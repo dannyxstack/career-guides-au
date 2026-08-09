@@ -1,8 +1,8 @@
-# Mechanical Engineer (excluding R&D) 职业分析 · 日本
+# 机械工程师（不含研发）（Mechanical Engineer (excluding R&D)）职业分析 · 日本
 
-**职业代码: 083 (JSCO)**
+**职业代码：083 (JSCO)**
 
-Responsible for designing, manufacturing, maintaining, and inspecting mechanical equipment to support stable machine operation in factories and plants.
+负责设计、制造、维护和检查机械设备，以支持工厂和车间的稳定机器运行。
 
 
 ---
@@ -11,9 +11,9 @@ Responsible for designing, manufacturing, maintaining, and inspecting mechanical
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical High School | 3年 | $0~$3,000,000（Public: tuition-free; Private: approx. 3 million yen） |
-| College of Technology | 5年 | $0~$5,000,000（National: approx. 500,000 yen/year; Private: approx. 2 million yen/year） |
-| University (Faculty of Engineering) | 4年 | $2,000,000~$8,000,000（National: approx. 2 million yen; Private: approx. 8 million yen） |
+| 技术高中 | 3年 | $0~$3,000,000（公立：免学费；私立：约300万日元） |
+| 技术学院 | 5年 | $0~$5,000,000（全国：约50万日元/年；私立：约200万日元/年） |
+| 大学（工程学院） | 4年 | $2,000,000~$8,000,000（国立：约200万日元；私立：约800万日元） |
 
 ---
 
@@ -21,18 +21,18 @@ Responsible for designing, manufacturing, maintaining, and inspecting mechanical
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mechanical Maintenance Technician | Ministry of Health, Labour and Welfare | 必备 | Levels 1, 2, and 3 available |
-| Professional Engineer (Mechanical Engineering) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Certifies advanced expertise |
-| CAD Utilization Engineer Examination | Computer Education Promotion Association | 可选 | Advantageous for design work |
+| 机械维修技术员 | 厚生劳动省 | 必备 | 提供1、2、3级 |
+| 专业工程师（机械工程） | 文部科学省 | 可选 | 认证高级专业知识 |
+| CAD应用工程师考试 | 计算机教育促进协会 | 可选 | 有利于设计工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 320,000. Due to digitalization and automation demand in manufacturing, demand for maintenance engineers remains steady. Labor shortages are expected to continue due to declining birthrates.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 320,000。由于制造业数字化和自动化需求，维护工程师需求稳定。少子化导致劳动力短缺将持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,94 +40,86 @@ Responsible for designing, manufacturing, maintaining, and inspecting mechanical
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,000,000~$4,000,000 | Base salary + overtime included |
-| Mid-level (4–10 years) | $4,000,000~$6,000,000 | Add position allowance, etc. |
-| Advanced (11+ years) | $6,000,000~$9,000,000 | Managerial class |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 底薪+加班费已包含 |
+| 中级（4-10年） | $4,000,000~$6,000,000 | 加发岗位津贴等 |
+| 高级（11年以上） | $6,000,000~$9,000,000 | 管理层 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-While AI and robot automation advance, complex machinery maintenance and troubleshooting still require human judgment. AI is used as a diagnostic aid.
+随着AI和机器人自动化的发展，复杂机械维护和故障排除仍需要人类判断。AI作为诊断辅助工具。
 
-After joining, gain experience in field work and maintenance tasks; progress to chief/section chief within a few years. Further career advancement to equipment management or maintenance planning leader is possible.
+入职后积累现场工作和维护任务经验；几年内晋升为主管/科长。可进一步晋升至设备管理或维护规划领导岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of periodic inspections
-- Sensor data collection
-- Simple parts replacement work
+- 定期检查自动化
+- 传感器数据采集
+- 简单零件更换工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis
-- Optimization of maintenance plans
-- Design reviews using 3D models
+- 故障诊断
+- 维护计划优化
+- 使用3D模型进行设计评审
 
-**人类护城河:**
+**人类护城河：**
 
-- Practical on-site troubleshooting
-- Skilled manual work skills
-- Team collaboration and communication skills
+- 实际的现场故障排除
+- 熟练的体力劳动技能
+- 团队协作与沟通技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis and statistics
-- Programming (Python, etc.)
-- IoT/Sensor Technology
-- Predictive Maintenance/Machine Learning
+- 数据分析与统计
+- 编程（Python等）
+- 物联网/传感器技术
+- 预测性维护/机器学习
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Equipment maintenance
-- Automation
-- Labor saving
-- Maintenance DX
+- 设备维护
+- 自动化
+- 节省人力
+- 维护DX
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable with university degree or 10+ years practical experience. Suitable for mechanical design/maintenance work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Max 5-year employment possible by passing skills and Japanese tests. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For jobs requiring advanced skills; allows family accompaniment and permanent residence. |
-| Subclass 介護 (Care Worker Visa) | Not a mechanical engineer, but may be involved in machinery management at care facilities. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like tinkering with machines
-- People who can persistently perform maintenance tasks
-- People who are dexterous and meticulous
+- 喜欢摆弄机器的人
+- 能够持续执行维护任务的人员
+- 手巧且细心的人
 
 **谁不适合**
-- Those who prefer desk work
-- Those who want creative development work
+- 偏好办公室工作的人
+- 希望从事创意开发工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of mechanical engineers?**
-答：Around 3-4 million yen for less than 3 years experience, 6-9 million yen for 10+ years. Varies by company size and region.
+**问：机械工程师的年收入是多少？**
+答：经验不足3年约300-400万日元，10年以上600-900万日元。因公司规模和地区而异。
 
-**问：What visa do foreigners need to work as mechanical engineers?**
-答：Typically the Engineer/Specialist in Humanities/International Services visa. Requires a mechanical engineering degree or 10+ years experience. Specified Skilled Worker (i) may also be possible.
+**问：外国人从事机械工程师工作需要什么签证？**
+答：通常为技术·人文知识·国际业务签证，需机械工程学位或10年以上经验。特定技能（i类）也可能适用。
 
-**问：What educational background is needed to become a mechanical engineer?**
-答：Vocational high school, technical college, or university engineering department. A degree isn't always required but helps for the Engineer visa.
+**问：成为机械工程师需要什么教育背景？**
+答：职业高中、技术学院或大学工程系。学位并不总是必需，但有助于申请工程师签证。
 
 
 ---
@@ -145,12 +137,12 @@ After joining, gain experience in field work and maintenance tasks; progress to 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mechanical-engineer-excluding-rd/JP)**

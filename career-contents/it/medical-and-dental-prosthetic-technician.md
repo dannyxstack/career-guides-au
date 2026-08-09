@@ -51,8 +51,6 @@ Medical and dental prosthetic technicians make, repair, and customize dentures, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will have a mixed impact on medical and dental prosthesis technicians: routine drafting and design work will be automated, but customized, high-precision manual crafting and patient communication skills remain a moat. Overall job numbers are stable, skill requirements upgrade.
-
 Initially, you can intern in a technician's workshop or hospital, gain experience, and then advance to senior technician or supervisor; some may open their own dental laboratory. Transitioning to digital dentistry (CAD/CAM) can broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Initially, you can intern in a technician's workshop or hospital, gain experienc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Requires a high salary threshold, suitable for intermediate or senior technicians. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through annual quotas, requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta) | Work permit, applied by employer, must demonstrate no suitable EU candidate. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Available through the Decreto Flussi quota work visa or EU Blue Card, requiri
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-dental-prosthetic-technician/IT)**

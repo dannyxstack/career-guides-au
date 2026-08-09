@@ -4,8 +4,6 @@
 
 Self-operated truck drivers own and operate trucks as individuals or small businesses, undertaking cargo transport orders mainly covering road freight within Spain and the EU. Income from this profession is directly related to operating costs, mileage, and sources.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Self-operated truck drivers own and operate trucks as individuals or small busin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Self-operated truck drivers face medium- and long-term risks of autonomous driving technology being replaced by autonomous driving, but in the short term, AI-assisted dispatch, route optimization, and compliance management can improve efficiency. The career moat lies in flexibly handling non-standard tasks and client relationships, with entry-level positions narrowed.
-
 Most self-operated drivers maintain single-vehicle operations, while some can grow into small transport business owners by accumulating customers and expanding their fleets. You can also transition to logistics dispatch or freight brokerage.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Most self-operated drivers maintain single-vehicle operations, while some can gr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employees) | If employed by a transport company, employer-sponsored work permit and meeting the Labour Market Testing requirement are needed. |
-| Subclass Cuenta propia (autón (Self-employed work permit) | Self-employed residence requires submitting a business plan and demonstrating investment and income capability, with a relatively high threshold |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: extremely difficult. Self-employment visas require high investment and detail
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/selfemployed-truck-driver/ES)**

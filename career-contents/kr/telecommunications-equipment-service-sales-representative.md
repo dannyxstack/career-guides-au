@@ -4,8 +4,6 @@
 
 A job that involves selling and consulting on telecommunications equipment and services such as mobile phones, internet, and bundled products at carrier stores or agencies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A job that involves selling and consulting on telecommunications equipment and s
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the development of AI and online channels, the role of telecommunications equipment and service salespeople is shrinking. Simple consultation tasks such as product comparison and rate plan recommendations are being replaced by AI chatbots and automation systems, and new hiring is decreasing due to a drop in offline store visitors. However, areas requiring human persuasion, such as complex consultations or high-end device sales, still remain.
-
 Starting mainly at carrier agencies or electronics stores, one can advance to store manager or sales positions at carrier headquarters with experience, and transition to distribution and sales fields.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting mainly at carrier agencies or electronics stores, one can advance to st
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if employed as a skilled telemarketer, but uncommon and not recommended. |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence step with no employment restrictions, but difficult to obtain through this occupation alone. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans have few employment restrictions and can work in this occupation. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Starting as a general salesperson, you can advance to assistant store manager
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-service-sales-representative/KR)**

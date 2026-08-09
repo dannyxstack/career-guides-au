@@ -4,8 +4,6 @@
 
 An electrical specialist who performs stringing, cable laying, and maintenance inspections on high-voltage transmission line towers. Involves extensive work at heights, making safety management critically important.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ An electrical specialist who performs stringing, cable laying, and maintenance i
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have limited impact. Many tasks require human judgment and dexterity (e.g., high-altitude work, cable connections), but inspection drones and IoT remote monitoring are being introduced.
-
 Starting as an apprentice, progress to crew leader/supervisor through hands-on experience and certifications. Typical career path within construction or power companies.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as an apprentice, progress to crew leader/supervisor through hands-on e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and practical experience. Applicable to jobs requiring specialized knowledge of electrical work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Requires passing skill and Japanese language exams in the construction field. Residency period up to 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | Transfers from (i). For skilled workers, allows family accompaniment and permanent residency. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Starting as an apprentice, you gain experience and certifications (e.g., elec
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transmission-line-stringing-laying-worker/JP)**

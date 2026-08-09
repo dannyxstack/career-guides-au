@@ -51,8 +51,6 @@ A professional who designs, develops, tests, and researches construction machine
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and automation can replace repetitive, computational tasks like construction machinery design, simulation, and data analysis, but complete replacement is difficult as areas requiring human experience and judgment—such as field adaptation, creative design, and safety certification/regulatory response—remain important.
-
 After joining the R&D center of a large corporation or mid-sized company, one can advance to senior or principal researcher, or after obtaining a professional engineer license, move into independent consulting, patents, or standardization fields.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ After joining the R&D center of a large corporation or mid-sized company, one ca
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities visa) | For skilled foreign experts in construction machinery R&D, issued when degree and experience requirements are met |
-| Subclass F-2 (Residence visa) | Long-term stay and employment possible, transitioning from E-7 or pre-permanent residence step |
-| Subclass D-10 (Job-seeking visa) | For job-seeking after graduating from a domestic university, with potential employment in related fields |
-| Subclass E-9 (Non-professional Employment visa) | Not applicable (Construction machinery technicians are high-skilled, not E-9 eligible) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: The traditional construction machinery market is stagnant, but demand for R&D
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-machinery-engineer-and-researcher/KR)**

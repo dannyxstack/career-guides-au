@@ -53,8 +53,6 @@ Bank tellers in Canada correspond to NOC 64100, typically working in customer se
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Bank teller/customer service jobs are heavily impacted by AI and self-service technology; routine transactions and inquiries are quickly replaced, reducing job opportunities significantly, but complex customer service still requires humans.
-
 Career progression includes: senior teller, customer service manager, branch operations supervisor. Some move into personal banking advisors or loan officers through internal training, requiring certification such as the Canadian Securities Course (CSC).
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression includes: senior teller, customer service manager, branch ope
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to customer service manager, branch operations supervisor, or tra
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-sales-and-service-supervisors-and-specialized-sales-occupations/CA)**

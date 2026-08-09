@@ -53,8 +53,6 @@ Saddlery and leather goods makers design, handcraft, and restore leather items s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core craftsmanship and customization needs of saddlery and leather goods makers are difficult for AI to fully replace in the short term. AI may improve efficiency in design assistance, material optimization, and customer communication, but will put pressure on standardized production roles.
-
 Initially become a skilled craftsman through dual vocational training, then advance to master craftsman (Meister) and run your own workshop, or move into leather goods design or quality management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Initially become a skilled craftsman through dual vocational training, then adva
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Main pathway is a 3-year dual training program, combining practical learning 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/saddler-and-leather-goods-maker/DE)**

@@ -54,8 +54,6 @@ Locksmiths install, repair, and replace various locks and security systems, incl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry demand for locksmiths and safe repairers has been compressed by automation: with the prevalence of smart locks and electronic security systems, traditional mechanical lock repair has declined, simple key cutting and lock opening tasks are replaced by automated machines, reducing positions but maintaining demand for advanced skills.
-
 Start as apprentice, gain experience to advance to senior locksmith or team leader. Some locksmiths open independent shops or specialize in high-profit areas like automotive/safes, or transition to security system consultant.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Start as apprentice, gain experience to advance to senior locksmith or team lead
 | Subclass 491 (Skilled Work Regional visa) | Regional provisional visa with state nomination, can transition to 191 permanent residency |
 | Subclass 494 (Skilled Employer Sponsored Regional visa) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can advance to senior locksmith, security system specialist, or open your own
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locksmith/AU)**

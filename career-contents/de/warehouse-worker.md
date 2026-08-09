@@ -54,8 +54,6 @@ Warehouse logistics workers are responsible for receiving, storing, picking, and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Warehouse logistics workers face automation systems (e.g., AGVs, auto-sorting) replacing repetitive tasks, but e-commerce growth and supply chain complexity create new demand. Skill requirements upgrade under human-machine collaboration; total positions may remain stable but structure changes.
-
 You can advance from warehouse logistics clerk to warehouse supervisor, logistics manager, or supply chain specialist. Accelerate development by pursuing a logistics management diploma or obtaining a forklift/dangerous goods certificate.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ You can advance from warehouse logistics clerk to warehouse supervisor, logistic
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, no pre-contract required, can job hunt in Germany for one year. Suitable for those with certified qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months stay in Germany to look for a job, requiring proof of sufficient funds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress to warehouse supervisor, logistics manager, or supply chain spec
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/warehouse-worker/DE)**

@@ -50,8 +50,6 @@ A professional who establishes advertising and PR strategies for a company's pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI can replace some tasks like repetitive data analysis, ad targeting optimization, and content creation, but creative strategy and human-based PR still rely heavily on human roles.
-
 Typically builds a career at marketing agencies, corporate marketing departments, or advertising firms; can advance to team leader or department head based on digital and data skills.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Typically builds a career at marketing agencies, corporate marketing departments
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when working in specialized fields; must meet marketing expert qualifications |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible with points system; higher education and experience advantageous |
-| Subclass D-10 (D-10 (Job Seeker)) | Available for job-seeking activities for holders of associate degree or higher |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Digital marketing, data analysis, and project management skills are important
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-public-relations-and-marketing-specialist/KR)**

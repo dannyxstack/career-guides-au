@@ -52,8 +52,6 @@ Industrial relations specialists in New Zealand handle labor relations between e
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The tasks of labor relations specialists can be partially automated by AI, such as data analysis and document generation, but core negotiation, mediation, and compliance judgment still require human expertise, making it a human-machine collaboration occupation
-
 Junior specialists can advance to senior consultants or labor relations managers, some shift to HR or legal consulting. With experience, can become arbitrators or corporate labor relations directors.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior specialists can advance to senior consultants or labor relations managers
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Must work in a relevant occupation for 2 years, meet median salary, and can apply for residency. |
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain certified employer sponsorship and apply for residence after 3 years of work. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's or graduate degree in labor relations, HR man
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-relations-officer/NZ)**

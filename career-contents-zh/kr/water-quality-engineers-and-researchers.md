@@ -1,10 +1,8 @@
-# Water Quality Engineers and Researchers 职业分析 · 韩国
+# 水质工程师和研究人员（Water Quality Engineers and Researchers）职业分析 · 韩国
 
-**职业代码: 15532 (KECO)**
+**职业代码：15532 (KECO)**
 
-Environmental professionals who measure/analyze water pollution, design/operate treatment facilities, and conduct research on aquatic ecosystem conservation and restoration technology.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+测量/分析水污染、设计/运营处理设施及开展水生生态系统保护与恢复技术研究的环境专业人员。
 
 
 ---
@@ -13,9 +11,9 @@ Environmental professionals who measure/analyze water pollution, design/operate 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Environmental Engineering, etc.) | 2 年 | $12,000,000~$20,000,000（National/private, scholarship differences） |
-| Bachelor's (Environmental Engineering, Chemical Engineering, etc.) | 4年 | $20,000,000~$40,000,000（Tuition + living expenses） |
-| Master's (Environmental Engineering, Water Quality) | 2 年 | $30,000,000~$50,000,000（Graduate tuition + research funding） |
+| 副学士学位 (环境工程等) | 2 年 | $12,000,000~$20,000,000（公立/私立，奖学金差异） |
+| 学士（环境工程、化学工程等） | 4年 | $20,000,000~$40,000,000（学费+生活费） |
+| 硕士（环境工程，水质） | 2 年 | $30,000,000~$50,000,000（研究生学费+研究经费） |
 
 ---
 
@@ -23,18 +21,18 @@ Environmental professionals who measure/analyze water pollution, design/operate 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Engineer Water Quality Engineering | Human Resources Development Service of Korea | 必备 | Mandatory certification, 1st written + 2nd practical exam |
-| Industrial Engineer Water Quality Engineering | Human Resources Development Service of Korea | 可选 | Can substitute for associate degree level |
-| Craftsman Water Quality | Human Resources Development Service of Korea | 可选 | Skilled position, required in some field sites |
+| 水质工程工程师 | 韩国人力资源开发服务局 | 必备 | 强制性认证，第一轮笔试+第二轮实操考试 |
+| 工业工程师（水质工程方向） | 韩国人力资源开发服务局 | 可选 | 可替代副学士学位水平 |
+| 水质工匠 | 韩国人力资源开发服务局 | 可选 | 技术岗位，部分现场需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,500. Demand is steady due to strengthened water management policies and ongoing water quality improvement projects for the four major rivers and tributaries, but is affected by budget fluctuations and technological substitution. As of 2023, average annual growth of 2%.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,500。由于加强水管理政策以及四大江及其支流持续的水质改善项目，需求稳定，但受预算波动和技术替代影响。截至2023年，年均增长2%。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ Environmental professionals who measure/analyze water pollution, design/operate 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$38,000,000 | Based on SMEs |
-| Mid-level (5-10 years) | $40,000,000~$55,000,000 | Professional Engineer·Large Corp +10% |
-| 资深（10年以上） | $55,000,000~$75,000,000 | Principal Researcher·Team Leader |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 基于中小企业 |
+| 中级（5-10年） | $40,000,000~$55,000,000 | 专业工程师·大企业 +10% |
+| 资深（10年以上） | $55,000,000~$75,000,000 | 首席研究员·团队负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI and IoT-based water quality monitoring and automatic analysis equipment automate simple measurement and analysis tasks, but complex pollution diagnosis, treatment process design, and regulatory response still require human experts. AI is used as a tool, increasing job value.
+基于AI和IoT的水质监测及自动分析设备能自动完成简单的测量和分析任务，但复杂的污染诊断、处理工艺设计和法规响应仍需人类专家。AI作为工具使用，提升了工作价值。
 
-Entry → Mid-level (5-10 years) → Senior engineer/researcher (10-15 years) → Team leader/principal researcher. Promotion based on experience after recruitment of master's/doctoral degree holders and engineers at engineering firms with no experience.
+入门→中级（5-10年）→高级工程师/研究员（10-15年）→团队负责人/首席研究员。硕士/博士学历持有者及无经验工程公司工程师招聘后按经验晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular water sample collection and simple analysis
-- Basic data recording and report writing
-- Routine facility inspection
+- 定期采集水样并进行简单分析
+- 基础数据记录与报告撰写
+- 常规设施检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Advanced water quality prediction and diagnosis
-- Treatment process optimization
-- AI-assisted environmental impact assessment
+- 先进水质预测与诊断
+- 治疗流程优化
+- AI辅助环境影响评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Regulatory interpretation and response
-- Intuitive judgment based on field experience
-- Stakeholder consultation and coordination
+- 法规解读与应对
+- 基于现场经验的直觉判断
+- 利益相关者咨询与协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis (R, Python)
-- AI and machine learning basics
-- Environmental modeling (GIS, MIKE)
-- IoT sensor operation
+- 数据分析（R、Python）
+- 人工智能与机器学习基础
+- 环境建模（GIS、MIKE）
+- 物联网传感器操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Total Water Pollution Load Management
-- Advanced Sewage Treatment
-- Aquatic Ecosystem Restoration
-- Smart Water Management
+- 总水污染负荷管理
+- 高级污水处理
+- 水生生态修复
+- 智能水务管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Specialized Technician·Researcher, Degree+Experience Required |
-| Subclass D-10 (Job-seeking) | Job-seeking, Bachelor's or higher, up to 6 months |
-| Subclass F-2 (F-2 (Residence)) | Points-based, long-term stay for highly educated/experienced |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person with strong scientific/engineering curiosity and analytical thinking
-- A person interested in environmental protection, enjoying field/lab work
+- 具有强烈科学/工程好奇心和分析能力的人
+- 对环保感兴趣、喜欢实地/实验室工作的人
 
 **谁不适合**
-- A person who prefers regular 9-6 work
-- A person who avoids outdoor/field work
+- 偏好朝九晚六规律工作的人
+- 不喜欢户外/现场工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of a water quality engineer?**
-答：As of 2023, the pre-tax annual salary for entry-level (0-3 years) is about 30-38 million KRW; large corporations and public enterprises may offer over 40 million KRW.
+**问：水质工程师的起薪是多少？**
+答：截至2023年，入门级（0-3年）税前年薪约3000-3800万韩元；大企业和公共企业可能超过4000万韩元。
 
-**问：What visa does a foreigner need to work as a water environment engineer?**
-答：The E-7 (Specific Activities) visa is common, requiring a bachelor's degree in environmental engineering or higher and work experience. With only a degree, you can switch from D-10 (Job Seeking) to E-7.
+**问：外国人担任水环境工程师需要什么签证？**
+答：E-7（特定活动）签证常见，需要环境工程学士或更高学位及工作经验。仅有学位时，可从D-10（求职）转为E-7。
 
 **问：职业晋升路径如何？**
-答：Junior engineer → Mid-level (5 years) → Senior/Principal researcher (10 years) → Team lead/Manager. Obtaining a professional engineer license helps with promotion.
+答：初级工程师→中级（5年）→高级/首席研究员（10年）→团队负责人/经理。获得专业工程师执照有助于晋升。
 
 
 ---
@@ -146,12 +136,12 @@ Entry → Mid-level (5-10 years) → Senior engineer/researcher (10-15 years) �
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/water-quality-engineers-and-researchers/KR)**

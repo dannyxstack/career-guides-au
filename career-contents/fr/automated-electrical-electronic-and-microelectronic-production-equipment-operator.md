@@ -4,8 +4,6 @@
 
 Operate and maintain automated production lines for the manufacturing of electronic components and microelectronic devices, ensuring efficient and high-quality production processes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate and maintain automated production lines for the manufacturing of electro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-This profession faces the dual impact of automation and AI: equipment operation and simple quality inspection tasks are taken over by AI, but capabilities such as exception handling, process optimization, and cross-system collaboration are amplified, forcing humans to shift to higher-value roles in monitoring, diagnosis, and improvement.
-
 Career development path: Advance from junior operator to production line leader or technical supervisor, and then transition to equipment maintenance engineer or production manager. Promotion is achieved through gaining experience or further training (such as BTS or licence professionnelle).
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Career development path: Advance from junior operator to production line leader 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Regular work residency requires employer sponsorship, matching the position and salary conditions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled or urgently needed talent, employer sponsorship is required, and wages are above average. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires a high salary (about 1.5 times SMIC), suitable for engineer or management positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Typically, a CACES certificate (equipment operation) and electrical safety au
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automated-electrical-electronic-and-microelectronic-production-equipment-operator/FR)**

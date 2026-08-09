@@ -4,8 +4,6 @@
 
 A labor attorney provides expert consultation and representation on corporate HR/labor management, employment contracts, wage systems, and labor dispute resolution.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A labor attorney provides expert consultation and representation on corporate HR
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace some tasks like legal document retrieval, contract review, and payroll calculation, but the core of labor attorney work—labor relations mediation, dispute resolution, and strategic consulting—will remain a uniquely human domain.
-
 After working at a labor attorney firm for 3-5 years, one may open an independent practice or move to a law firm or corporate HR team. There are also paths to large law firms or public sector labor attorney positions.
 
 **Tasks most exposed to AI:**
@@ -91,18 +87,9 @@ After working at a labor attorney firm for 3-5 years, one may open an independen
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Foreigners with a labor attorney qualification may engage in professional work, but market accessibility is low. |
-| Subclass F-2 (Residence) | Long-term residence under a points system, no restrictions on labor attorney activities. |
-| Subclass F-5 (Permanent Residence) | Permanent residents can freely engage in labor attorney activities. |
-| Subclass D-10 (Job Seeking) | Possible after obtaining qualification while job seeking, then transition to E-7 after gaining practical experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +130,12 @@ A: After obtaining a certified labor attorney license, you can work with an E-7 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labor-attorney/KR)**

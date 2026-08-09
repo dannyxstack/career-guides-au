@@ -1,8 +1,8 @@
-# Rubber/Plastic Product Manufacturing Worker 职业分析 · 日本
+# 橡胶/塑料制品制造工人（Rubber/Plastic Product Manufacturing Worker）职业分析 · 日本
 
-**职业代码: 538 (JSCO)**
+**职业代码：538 (JSCO)**
 
-Molds and processes rubber or plastic materials to manufacture products such as auto parts and daily necessities. Responsible from mold preparation to machine operation and finishing.
+模制并加工橡胶或塑料材料以生产汽车零件和日常用品等产品。负责从模具准备到机器操作和精加工。
 
 
 ---
@@ -11,8 +11,8 @@ Molds and processes rubber or plastic materials to manufacture products such as 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 中学 | 3年 | $0~$0（Public high schools effectively free） |
-| Vocational school (industrial) | 2 年 | $1,000,000~$2,500,000（Includes enrollment and tuition fees） |
+| 中学 | 3年 | $0~$0（公立高中实际上免费） |
+| 职业学校(工业) | 2 年 | $1,000,000~$2,500,000（包含报名费和学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Molds and processes rubber or plastic materials to manufacture products such as 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Plastic Molding Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Class 1 and 2; work experience required |
-| 叉车操作员 | Ministry of Health, Labour and Welfare | 可选 | Useful for transporting materials/products |
-| Hazardous Materials Handler (Class B) | Fire and Disaster Management Agency | 可选 | May be required for resin material storage |
+| 塑料成型熟练工 | 厚生劳动省 | 可选 | 1级和2级；需要工作经验 |
+| 叉车操作员 | 厚生劳动省 | 可选 | 用于运输材料/产品 |
+| 危险品处理员（B级） | 消防与灾害管理局 | 可选 | 可能需要进行树脂材料储存 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 380,000. Due to auto industry recovery and stable resin demand, outlook is flat to slight decrease in medium term. A Specified Skilled Worker field; labor shortage continues but overseas transfer risk exists.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 380,000。受汽车行业复苏和树脂需求稳定影响，中期前景持平至略有下降。属于特定技能工种；劳动力短缺持续但存在海外转移风险。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ Molds and processes rubber or plastic materials to manufacture products such as 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 yrs) | $3,000,000~$3,500,000 | Annual salary, including overtime |
-| Mid (3–10 yrs) | $4,000,000~$5,000,000 | Annual salary, team leader class |
-| 高级（10年以上） | $5,000,000~$6,500,000 | Annual salary, foreman/chief class |
+| 入门级（0-3年） | $3,000,000~$3,500,000 | 年薪，包括加班费 |
+| 中级（3-10年） | $4,000,000~$5,000,000 | 年薪，团队领导级 |
+| 高级（10年以上） | $5,000,000~$6,500,000 | 年薪，领班/组长级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Automation via AI and robots is advancing; particularly simple molding and inspection processes are easily replaceable. However, skilled tasks like mold adjustment and troubleshooting will remain for the time being.
+AI和机器人的自动化正在推进；特别是简单成型和检查过程容易被取代。然而，模具调整和故障排除等技能任务暂时仍将保留。
 
-Start from entry-level, advance to work leader or quality control. Career up by learning mold design and injection molding tech. Path to factory manager or production manager.
+从入门级开始，晋升至工作组长或质量控制。通过学习模具设计和注塑技术实现职业提升。可晋升至工厂经理或生产经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Removing molded parts through repetitive manual work
-- Visual inspection (replaced by AI image inspection)
-- Automated material supply
+- 通过重复的手工操作去除模塑件
+- 目视检查（已被AI图像检查替代）
+- 自动化物料供应
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Setting and monitoring AI-optimized molding conditions
-- Programming and adjusting collaborative robot operations
+- 设置和监测AI优化的成型条件
+- 编程和调试协作机器人操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Experiential knowledge for mold modification and troubleshooting
-- Flexible changeover skills for high-mix, low-volume production
-- Comprehensive judgment for on-site safety and quality control
+- 模具修改和故障排除的经验知识
+- 适应多品种小批量生产的灵活切换技能
+- 现场安全与质量控制的综合判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Programming injection molding machines
-- Quality control (QC methods)
-- Equipment maintenance technology
-- Production management and improvement (IE)
+- 注塑机编程
+- 质量控制（QC方法）
+- 设备维护技术
+- 生产管理与改进（IE）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Injection Molding
-- Plastic Recycling
-- Automotive Parts
-- Bioplastics
+- 注塑成型
+- 塑料回收
+- 汽车零部件
+- 生物塑料
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Residence status for production (plastic molding). Requires passing exam and N4 Japanese. |
-| Subclass 技能 (Technical Intern Training) | For skilled workers. Generally requires 10+ years of practical experience. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For engineering roles. Requires vocational school or higher education. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterous hands
+- 手巧的人
 - 不介意重复性任务的人
-- People who can cooperate in teams
+- 能够团队合作的人
 
 **谁不适合**
-- People who enjoy creative work
-- People who prefer a sedentary workplace
+- 喜欢创意工作的人
+- 偏好久坐工作场所的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of rubber and plastic product manufacturing workers?**
-答：Depending on experience, junior: 300-350万円, mid: 400-500万円, senior: 500-650万円.
+**问：橡胶和塑料制品制造工人的年收入是多少？**
+答：根据经验，初级：300-350万日元，中级：400-500万日元，高级：500-650万日元。
 
-**问：What visa does a foreigner need to work in this occupation?**
-答：Primarily 'Specified Skilled Worker (i) (Production Field)' is available. Requires JLPT N4 or higher and passing an exam. The skilled visa requires 10+ years of experience.
+**问：外国人从事此职业需要什么签证？**
+答：主要适用“特定技能1号（生产领域）”。需要JLPT N4以上并通过考试。技术签证需10年以上经验。
 
-**问：Can I start with no experience?**
-答：Yes. Many factories hire beginners, and you can learn skills through OJT. Future career advancement through skill certification is also possible.
+**问：没有经验可以开始吗？**
+答：是的。许多工厂招聘初学者，通过在职培训学习技能，未来可通过技能认证实现职业发展。
 
 
 ---
@@ -142,12 +135,12 @@ Start from entry-level, advance to work leader or quality control. Career up by 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rubber-plastic-product-manufacturing-worker/JP)**

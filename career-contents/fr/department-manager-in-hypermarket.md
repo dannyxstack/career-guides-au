@@ -4,8 +4,6 @@
 
 Responsible for the operation of one or more merchandise departments within large supermarkets, including inventory management, team leadership, achieving sales targets, and customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for the operation of one or more merchandise departments within larg
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The risks for large supermarket department managers are mixed: structured tasks like inventory replenishment and sales reporting are easily automated by AI, but the demand for soft skills like team management and customer service is increasing, shifting job responsibilities toward higher-value activities.
-
 You can be promoted from department manager to regional manager or store manager, or move into procurement, product planning, or supply chain management roles.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted from department manager to regional manager or store manager
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | An employer sponsorship is required, proving that the position cannot be held by an EU citizen. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or high-paying positions, but department managers usually do not meet the salary threshold (annual income > €53,000). |
-| Subclass Recherche emploi (Job Search Visa) | Graduates may apply, but must complete their degree in France. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: It's very difficult. This position is not considered a shortage occupation an
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/department-manager-in-hypermarket/FR)**

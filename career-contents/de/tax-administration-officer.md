@@ -53,8 +53,6 @@ Tax administration specialists work in the German federal or state tax offices, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will amplify the efficiency of tax compliance officers, especially in data auditing, compliance checks, and taxpayer self-service, but legal judgments and complex consultations still rely on human decisions.
-
 Typically start as junior civil servants (A6-A9), advance to senior management (A13+) through internal exams and training, or move into tax consulting, auditing, etc., requiring continuous learning of tax law changes.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Typically start as junior civil servants (A6-A9), advance to senior management (
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job-seeking visa, suitable for skilled professionals, used for entry to find work, no employer sponsorship required |
 | Subclass Recognition of Quali (Recognition of Professional Qualifications) | For foreign tax practitioners, qualification recognition (Anerkennung) is required to match the German system |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Starting from civil service A6-A9 levels, can advance to A13 and above manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-administration-officer/DE)**

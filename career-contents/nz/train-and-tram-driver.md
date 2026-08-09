@@ -52,8 +52,6 @@ In New Zealand, train drivers operate intercity passenger, freight, and tourist 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Train drivers face mixed impacts from AI/automation: train control systems and autonomous driving technologies will replace some operational tasks, but safety responsibilities, complex route handling, and industry regulatory requirements still provide a moat for humans; mining and freight routes have strong demand, and entry-level positions may temporarily shrink then stabilize.
-
 Junior drivers start as assistants or shunters, obtain full license to drive trunk trains. Can advance to senior driver, trainer, or dispatch management, some transition to railway safety or operations management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior drivers start as assistants or shunters, obtain full license to drive tru
 | Subclass AEWV (Accredited Employer Work Visa) | If sponsored by an accredited employer like KiwiRail, can apply for a work visa up to 3 years; salary must meet market rate (approx. $30/hour) |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Train drivers are not currently on the Green List, but if added to Tier 2 in the future, they can apply for residence after 2 years of work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, via SMC 6-point system. This occupation is typically ANZSCO Skill Level 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-and-tram-driver/NZ)**

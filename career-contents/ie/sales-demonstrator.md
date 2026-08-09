@@ -50,8 +50,6 @@ Demonstrate products at retail or trade shows to attract customers and boost sal
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Sales demonstrators' routine presentation and information delivery tasks are easily replaced by AI, but interpersonal interaction and on-site adaptability provide a moat; AI tools can enhance presentation effectiveness and customer analysis capabilities, resulting in a mixed assessment.
-
 Can advance from sales demonstrator to brand representative, regional sales manager, or move into retail management. With product knowledge, can enter marketing or training fields.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from sales demonstrator to brand representative, regional sales mana
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can progress to brand ambassador, regional sales manager, or transition to th
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-demonstrator/IE)**

@@ -53,8 +53,6 @@ Physicists study fundamental laws of matter, energy, time, and space, conducting
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physicist's work will undergo profound changes: AI can automate data analysis and simulation, but theoretical innovation, experimental design, and complex physical intuition still rely on humans; it is a mixed blessing.
-
 Junior physicists typically start as research assistants or postdocs, gain experience, and advance to researcher or senior physicist roles; some transition to industrial R&D or education management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior physicists typically start as research assistants or postdocs, gain exper
 | Subclass 482 (Temporary Skills Shortage Visa) | Employer-sponsored temporary work visa, can later transfer to 186 |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Main employment areas include universities and research institutions (teachin
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physicist/AU)**

@@ -52,8 +52,6 @@ Speech-language pathologists diagnose and treat speech, language, communication,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
-
 Entry-level speech pathologists can gain experience in public hospitals, schools, or private clinics. Mid-level can specialize in areas such as swallowing disorders or autism. Senior can become clinical supervisors, consultants, or open private practices, with significantly higher salaries.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level speech pathologists can gain experience in public hospitals, schools
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, master's degree plus registration can achieve high points |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional pathway, but the Green List is better. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Universities such as the University of Auckland, University of Canterbury, an
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-pathologist-speech-language-therapist/NZ)**

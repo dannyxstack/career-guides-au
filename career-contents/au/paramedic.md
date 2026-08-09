@@ -56,8 +56,6 @@ Paramedics provide advanced life support, medication administration and patient 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
-
 Community Paramedicine is the latest growth area, reducing pressure on emergency departments. Mining FIFO paramedic work (industrial paramedic) offers the highest salary levels.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Community Paramedicine is the latest growth area, reducing pressure on emergency
 | Subclass 190 (Skilled Nominated) | State nomination; rural emergency services applicants given priority |
 | Subclass 491 (Skilled Work Regional) | Remote area emergency services, nomination adds 15 points. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Nursing has far greater job volume (Seek ~10,000+ vs paramedic ~700) with sim
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paramedic/AU)**

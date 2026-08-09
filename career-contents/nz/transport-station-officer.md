@@ -53,8 +53,6 @@ Responsible for station operations, passenger services, security patrols, and ti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Entry-level positions for transport/station officials (e.g., ticketing, patrol) are susceptible to replacement by self-service ticket machines and AI surveillance, but core tasks like emergency handling, law enforcement discretion, and public service still rely on humans—a mixed blessing.
-
 Career progression can advance from station officer to senior station officer, team leader, regional operations manager, or training instructor. Some move into safety, compliance, or customer service management roles. Typically requires 2-5 years to gain experience; holding relevant certifications (e.g., first aid, security license) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can advance from station officer to senior station officer, t
 | Subclass SMC (Skilled Migrant Category) | As a non-Green List occupation, must pass a 6-point system—combining qualifications, work experience, and income. Typically requires a bachelor's degree or higher plus work experience; this occupation usually scores low, making immigration moderately difficult. |
 | Subclass SWV (Specific Purpose Work Visa) | Short-term, project-specific jobs such as emergency positions when no one else is available. Rarely used for this occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Starting as a station officer, can progress to senior officer, duty manager, 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-station-officer/NZ)**

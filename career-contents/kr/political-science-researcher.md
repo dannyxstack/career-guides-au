@@ -4,8 +4,6 @@
 
 A professional research position that systematically studies political phenomena and systems, contributing to policy development and the advancement of political theory.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional research position that systematically studies political phenomena
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automates data processing and statistical analysis, but political theory building and context interpretation remain uniquely human domains, so overall employment is expected to be strengthened.
-
 After obtaining a master's or doctoral degree from graduate school, one can enter research institutes, political parties, or national policy research organizations, with potential promotion to senior researcher or professor based on experience.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After obtaining a master's or doctoral degree from graduate school, one can ente
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Targeted at invited researchers at research institutions, rare |
-| Subclass D-2 (Study abroad) | Postgraduate study abroad with job linkage |
-| Subclass F-2 (Residence) | Eligible for research positions after long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: Possible with E-7 visa, but requires invitation from research institution and
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/political-science-researcher/KR)**

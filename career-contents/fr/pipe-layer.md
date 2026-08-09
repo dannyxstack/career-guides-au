@@ -4,8 +4,6 @@
 
 Pipeline layers are responsible for installing, maintaining, and repairing underground pipeline systems used for water supply, drainage, gas, and industrial fluid transportation. These include earth excavation, pipeline connections, and backfilling, making them a key occupation in construction and municipal engineering.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Pipeline layers are responsible for installing, maintaining, and repairing under
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pipeline layers face high automation risks; automated machinery and AI planning will gradually replace some physical and basic tasks, but the complex on-site environment and flexible adaptability still maintain a certain moat.
-
 Junior pipelayers can be promoted to Chef d'équipe or Site Supervisor (Conducteur de Travaux). By obtaining a CAP or BTS diploma, you can transition to technical positions such as pipeline design or quality inspection. Experienced individuals can self-employ or start small construction companies to undertake municipal subcontracting projects.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Junior pipelayers can be promoted to Chef d'équipe or Site Supervisor (Conducte
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work permit (Salarié)) | A long-term employment contract (CDI) must be provided by a French employer and proof that recruitment gives priority to EU citizens. Suitable for non-urgently needed occupations with longer processing cycles. |
-| Subclass Passeport Talent (Talent Passport) | If applicants have advanced skills or project experience, they can obtain multi-year residency through a talent passport, but pipeline layers usually do not meet the typical talent criteria. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: A CAP diploma (2 years) is usually required, such as CAP Installateur en cana
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipe-layer/FR)**

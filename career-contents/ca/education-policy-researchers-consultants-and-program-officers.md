@@ -51,8 +51,6 @@ Education policy researchers, advisors, and program officers analyze education p
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Educational policy researchers, advisors, and project officers face mixed impacts from AI: routine data compilation and report generation will be automated, but human skills like policy analysis and stakeholder coordination remain irreplaceable.
-
 Career progression typically starts with policy analysis or project coordination, and with experience, one can advance to senior consultant, policy manager, or department head. Some may transition to academic research or international education organizations.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression typically starts with policy analysis or project coordination
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Through federal skilled migration or Canadian Experience Class, must meet education and work experience requirements |
 | Subclass PNP (Provincial Nominee Program) | Some provinces have provincial nominee programs for education policy-related occupations |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: This occupation meets Express Entry requirements but is not in shortage, with
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-policy-researchers-consultants-and-program-officers/CA)**

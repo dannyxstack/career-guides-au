@@ -4,8 +4,6 @@
 
 A waterproofer is a skilled technician who applies waterproofing to roofs, walls, basements, etc. of buildings to prevent leaks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A waterproofer is a skilled technician who applies waterproofing to roofs, walls
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI cannot completely replace the waterproofing process, some auxiliary tasks such as material management and quality inspection can be automated. Demand for skilled workers will remain, but new hiring may decrease slightly.
-
 From entry-level, one can advance to skilled worker, foreman, or site manager. Having construction technician career management or a waterproofing technician certificate is advantageous.
 
 **Tasks most exposed to AI:**
@@ -89,18 +85,9 @@ From entry-level, one can advance to skilled worker, foreman, or site manager. H
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers; waterproofing possible with E-9 visa but requires skill |
-| Subclass E-7 (Specific Activities) | For skilled workers; possible for waterproofing experts |
-| Subclass F-2 (Residence) | Residence qualification after long stay; convertible from E-7 |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans; can work as waterproofing worker |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +131,12 @@ A: A waterproofing technician certificate is not mandatory but advantageous for 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waterproofer/KR)**

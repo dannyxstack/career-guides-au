@@ -52,8 +52,6 @@ Responsible for supervising and managing the daily operations of eco-industrial 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 You can be promoted from technician to supervisor, then to regional manager or environmental project manager. Experience in operations management and obtaining environmental management certification are required.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from technician to supervisor, then to regional manager or e
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent; requires a job contract and annual salary ≥ €53,000 (2025 standard) or a master's degree or higher. |
-| Subclass Salarié (Employee) | Employed work residency requires employer sponsorship and labor market testing |
-| Subclass Carte bleue européen (EU Blue Card) | Requires annual salary ≥53,000 EUR (can be reduced to 43,000 EUR for shortage occupations), suitable for engineer level |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Green transformation drives demand growth, and you can be promoted to Regiona
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ecoindustrial-operations-supervisor/FR)**

@@ -54,8 +54,6 @@ Driving buses or long-distance coaches, including fixed-route operations, charte
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Can advance from entry-level driver to route scheduler, trainer, or fleet supervisor; some states require passing CDL exam and onboarding training.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance from entry-level driver to route scheduler, trainer, or fleet superv
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually high school diploma plus commercial driver's license (CDL) training, 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-drivers-transit-and-intercity/US)**

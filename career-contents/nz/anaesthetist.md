@@ -52,8 +52,6 @@ Anaesthetists are specialist doctors responsible for anaesthesia and life suppor
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI mainly plays a supporting role in monitoring and data analysis for anesthesiologists, but core operations and complex decisions still require human control, overall risk is moderate to low.
-
 Junior anaesthetists typically undergo specialist training before working in hospitals. Later, they can advance to senior consultant roles or transition to private hospitals, pain management, intensive care, etc., and also engage in teaching and research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior anaesthetists typically undergo specialist training before working in hos
 | Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system, can apply for skilled migration. Usually requires employer sponsorship. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not yet meet immigration conditions, you can first work on an AEWV, then transition to residency after gaining experience. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires provisional registration with the Medical Council of New Zealand, co
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anaesthetist/NZ)**

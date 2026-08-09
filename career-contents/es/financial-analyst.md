@@ -51,8 +51,6 @@ Financial analysts are responsible for analyzing market trends, investment oppor
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts (0-3 years) can be promoted to senior analysts (3-7 years), then to investment managers or research supervisors. Some have turned to private equity, venture capital, or fintech. CFA qualification is crucial for promotion.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior analysts (0-3 years) can be promoted to senior analysts (3-7 years), then
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU professionals who require a university degree and a work contract at least 1.5 times the Spanish average salary (usually met by financial analysts). |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship. Companies must prove that the position cannot be filled by local or EU citizens, but financial analysts are not in short supply and are of moderate difficulty. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | Applies to highly skilled professionals (Ley 14/2013), requiring a university degree or 3 years of work experience, and an annual salary above a certain threshold (around 40,000 EUR). Faster process. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Immigration is possible through the EU Blue Card (requiring a high-salary con
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/ES)**

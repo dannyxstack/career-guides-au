@@ -4,8 +4,6 @@
 
 A professional who creates 2D/3D animation, participating in the entire animation production process including storyboarding, character design, keyframes, and compositing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who creates 2D/3D animation, participating in the entire animatio
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI boosts productivity in animation by generating in-between frames, auto-rigging, and background creation, but creative direction and emotional expression remain the domain of human animators. Overall, AI introduction reduces repetitive tasks but maintains demand for high-skilled talent.
-
 Typically start as a junior animator in a studio, then progress to senior animator, director, or VFX supervisor after 5–10 years, or become an independent freelancer.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically start as a junior animator in a studio, then progress to senior animat
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if a highly skilled foreign animator is hired by a specific studio; not subject to the Employment Permit System |
-| Subclass D-10 (Job-seeking) | Staying for job-seeking after graduating from a domestic university; can stay as an animator for 6 months |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A portfolio containing various samples such as character animation, action sc
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartoon-animator-animator/KR)**

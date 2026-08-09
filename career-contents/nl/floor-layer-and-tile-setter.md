@@ -53,8 +53,6 @@ Responsible for laying tiles, marble, wood flooring and other floor materials, w
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation poses low direct replacement threat to floor installers, but entry-level positions are compressed by smart measurement, automated cutting, and online design tools, reducing apprenticeship opportunities.
-
 Start as an apprentice, gain experience to become a foreman or self-employed contractor, or specialize in special materials or techniques.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ Start as an apprentice, gain experience to become a foreman or self-employed con
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migrants, requires employer sponsorship, income threshold approx. €50,678 (2024, aged 30+). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled talent, requiring certain education and a relatively high salary (approximately €58,000 or above) |
-| Subclass Orientation Year (Or (Orientation Year) | Graduates or researchers in the Netherlands can apply for a one-year job-seeking visa, which can be converted into a work residence permit upon finding employment. |
-| Subclass Working Holiday (Working Holiday Scheme) | Young people from some countries can travel and work in the Netherlands for up to one year, but with restrictions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Mandatory VCA safety certificate and MBO-related diploma (e.g., Level 2 or 3)
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-layer-and-tile-setter/NL)**

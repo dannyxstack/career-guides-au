@@ -51,8 +51,6 @@ Hotel managers are responsible for the overall operations of the hotel, includin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 You can be promoted from department supervisor (such as housekeeping manager, food and beverage manager) to hotel manager, and then to regional manager or group executive. After accumulating experience, you can start your own business and open boutique hotels.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can be promoted from department supervisor (such as housekeeping manager, fo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Work residency sponsored by a Spanish employer, applicable to long-term employment. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly educated, high-paying third-country professionals, the entry threshold is higher but family reunification is favorable. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Requires employer sponsorship to apply for work residence (Cuenta ajena) or E
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-manager/ES)**

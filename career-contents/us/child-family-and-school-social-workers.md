@@ -52,8 +52,6 @@ Provides social services and assistance to children and their families to improv
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Typically start as social workers in schools or child welfare agencies, then advance to senior social worker, supervisor, or program manager. With a master's or doctoral degree, you can work in clinical social work, policy development, or university teaching.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as social workers in schools or child welfare agencies, then adv
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to social workers with a bachelor's degree; requires PERM, long waiting period |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Obtain permanent residency through labor certification process; employer must demonstrate recruitment efforts |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Professional occupation eligible for H-1B and employment-based green cards (E
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-family-and-school-social-workers/US)**

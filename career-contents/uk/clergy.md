@@ -53,8 +53,6 @@ Clergy provide spiritual guidance and religious services, lead worship, sermons,
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on clergy is primarily replacement, especially in text generation, ritual assistance, and information retrieval tasks, but core spiritual care, interpersonal interaction, and sacred rituals remain difficult to automate, with significant compression risks.
-
 Typically start as assistant or associate pastors, and after several years of practice advance to senior pastor or rector; some may move into diocesan administration or theological education.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as assistant or associate pastors, and after several years of pr
 | Subclass Skilled Worker (Skilled Worker visa) | Suitable for clergy roles, requires employer sponsorship, salary must meet general threshold (£26,200) or occupation-specific salary |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2-3 years, but clergy positions usually require ordination, making it difficult for graduates to directly take on such roles |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, clergy are on the UK occupation list but must meet salary thresholds and
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clergy/UK)**

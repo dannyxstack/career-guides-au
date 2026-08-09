@@ -52,8 +52,6 @@ In Italy, this occupation involves research and teaching in philosophy, history,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on philosophers, historians, and political scientists is mixed: automation will compress repetitive tasks like literature retrieval and basic teaching, but core abilities like critical thinking, theory construction, and ethical judgment are hard to replace; instead, AI can enhance data analysis and cross-cultural communication.
-
 Career paths typically start from postdoctoral researcher, progressing to assistant professor, associate professor, and full professor. Non-academic paths include policy analysis, public administration, and journalism, but require additional skills.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career paths typically start from postdoctoral researcher, progressing to assist
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires university degree and work contract, annual salary threshold approx. €24,000. |
-| Subclass Lavoro Subordinato ( (Work Visa (Subordinate Employment)) | To obtain a work permit through employer sponsorship, you must prove the position cannot be filled by an EU citizen. |
-| Subclass Ricerca (Research Vi (Research Visa) | For researchers, requires invitation from a research institution, valid for 1-2 years, renewable. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Can switch to policy analysis, public administration, journalism, etc., but r
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/philosopher-historian-and-political-scientist/IT)**

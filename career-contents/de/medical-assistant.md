@@ -54,8 +54,6 @@ Medical assistants are professionals in German clinics and medical facilities re
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical assistant work has pros and cons: administrative tasks (scheduling, coding, records) will be significantly reduced by AI, but clinical tasks (blood draws, medication administration) still need humans; AI can enhance decision support, but patient communication and hands-on skills remain a moat.
-
 Medical assistants can advance to clinic managers, specialist medical assistants, or through further study become medical coders or quality management specialists. Some move into medical sales or health management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Medical assistants can advance to clinic managers, specialist medical assistants
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa for seeking training or employment in Germany |
 | Subclass Recognition Partners (Recognition Partnership) | Allows working during the assessment process for applicants whose qualifications do not fully match |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to clinic supervisor, specialist assistant, or transition to medi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-assistant/DE)**

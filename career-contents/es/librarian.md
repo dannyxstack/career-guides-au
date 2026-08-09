@@ -4,8 +4,6 @@
 
 Responsible for document management, information services, and knowledge organization for libraries, archives, and other institutions, including classified cataloging, reference consulting, digital resource management, and cultural activity planning.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for document management, information services, and knowledge organiz
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
-
 Assistant librarians can be promoted to department head, librarian, or archivist. Obtaining the public librarian qualification (oposiciones) can lead to stable civil service positions. It can also be turned into data management, information consulting, or cultural heritage fields.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Assistant librarians can be promoted to department head, librarian, or archivist
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for highly educated and highly skilled professionals who require a work contract and meet a certain salary threshold |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires employer sponsorship and proof that the position cannot be filled by a local resident |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Typically requires a bachelor's degree in library and information science (Gr
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/librarian/ES)**

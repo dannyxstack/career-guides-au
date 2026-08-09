@@ -51,8 +51,6 @@ Radiographers operate X-ray, CT, MRI, and other medical imaging equipment, assis
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially take over tasks such as image post-processing, report generation, and dose optimization, but operating equipment, patient positioning, and radiation safety supervision still rely on humans, leading to a mixed impact on the role.
-
 Junior radiographers can advance to become senior or specialist radiographers (e.g., CT/MRI specialists), or move into management (e.g., department head) or medical education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior radiographers can advance to become senior or specialist radiographers (e
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain recognized training or degree, and obtain a practicing license, eligible for long-term residence |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to stay in Germany for one year to find work, requiring qualification recognition |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Must pass qualification recognition (Anerkennung) to confirm degree equivalen
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiologic-technologist/DE)**

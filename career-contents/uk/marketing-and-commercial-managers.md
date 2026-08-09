@@ -52,8 +52,6 @@ Marketing and business managers plan and oversee the promotion of services, prod
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Many data analysis and contract review tasks of marketing and business managers are being rapidly automated by AI, but strategic decision-making and customer relationship management remain human domains; entry-level roles face increased competition due to AI tools.
-
 Career progression typically starts from marketing specialist or business analyst, advancing to manager, senior manager, director, and eventually to chief marketing officer or vice president of business.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression typically starts from marketing specialist or business analys
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work in the UK for 2 years (3 years for PhD), gaining experience |
 | Subclass Scale-up (Scale-up visa) | For senior marketing talent in fast-growing companies, requires sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: From specialist to manager to director, typically takes 5-10 years; after acc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marketing-and-commercial-managers/UK)**

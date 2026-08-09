@@ -52,8 +52,6 @@ University lecturers engage in teaching and research at New Zealand higher educa
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career progression path: Lecturer → Senior Lecturer → Associate Professor → Professor. Requires continuous publication of high-level papers and pursuit of research funding.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression path: Lecturer → Senior Lecturer → Associate Professor �
 | Subclass AEWV (Accredited Employer Work Visa) | If the university is an accredited employer, it can sponsor temporary work visas, suitable for lecturers who do not directly meet immigration conditions. |
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, PhD can earn 5 points, plus work/experience points can apply |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Very competitive. Few permanent positions, many temporary contracts. PhD plus
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-lecturer/NZ)**

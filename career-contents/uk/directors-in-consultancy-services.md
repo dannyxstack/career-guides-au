@@ -54,8 +54,6 @@ A consulting services director is responsible for planning, organising, directin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Typically progresses from consultant to manager to director, then can become partner or start own consulting firm.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Typically progresses from consultant to manager to director, then can become par
 | Subclass Global Talent (Global Talent visa) | Suitable for those with outstanding achievements in consulting, no employer sponsorship required |
 | Subclass Scale-up (Scale-up visa) | Suitable for working in a fast-growing consulting firm, salary at least £36,000/year |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires 5-10 years of experience, building client resources and pr
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-in-consultancy-services/UK)**

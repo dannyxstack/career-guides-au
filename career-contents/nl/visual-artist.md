@@ -51,8 +51,6 @@ Visual artists create original artworks through media such as painting, sculptur
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creative ability of visual artists is hard to replace, but AI can already generate high-quality images, competing in commercial tasks (e.g., sketches, color schemes). Artists need to proactively integrate AI tools as creative partners and strengthen conceptual depth and personal style.
-
 Career progression typically starts from assistant or small exhibitions, gradually building a personal brand and client network. Success can lead to commercial commissions, public art projects, or gallery representation, with some artists moving into teaching or arts management.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Career progression typically starts from assistant or small exhibitions, gradual
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Orientation Year (Orientation Year for Graduates) | Applicable to master's or PhD graduates from universities ranked in the top 200 in the Netherlands or worldwide, valid for 1 year, allows free work |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Must sign a contract with employer, annual salary at least €5,008 (2025 standard), applicable for employment by art institutions or companies |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +142,12 @@ A: Start as an assistant or with small exhibitions, gradually build a personal b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-artist/NL)**

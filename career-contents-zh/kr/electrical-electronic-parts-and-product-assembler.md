@@ -1,10 +1,8 @@
-# Electrical/Electronic Parts and Product Assembler 职业分析 · 韩国
+# 电气/电子零件及产品装配工（Electrical/Electronic Parts and Product Assembler）职业分析 · 韩国
 
-**职业代码: 83601 (KECO)**
+**职业代码：83601 (KECO)**
 
-This occupation involves assembling and inspecting electrical/electronic parts and finished products on production lines, primarily working in manufacturing sites. Quality and productivity depend on skill level.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+此职业涉及在生产线上组装和检查电气/电子零件及成品，主要在制造场所工作。质量和生产力取决于技能水平。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves assembling and inspecting electrical/electronic parts a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Free (compulsory education)） |
-| Vocational training (e.g., Polytech) | 6 months | $1,000,000~$3,000,000（Government-supported, low personal cost） |
+| 高中文凭 | 3年 | $0~$0（免费（义务教育）） |
+| 职业培训（例如理工学院） | 6个月 | $1,000,000~$3,000,000（政府支持，个人成本低） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation involves assembling and inspecting electrical/electronic parts a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 电子技术员 | Human Resources Development Service of Korea | 可选 | Basic certification in electronics assembly and repair |
-| Electronic Component Mounting Technician | Human Resources Development Service of Korea | 可选 | Advantageous for operating automated equipment like SMT |
+| 电子技术员 | 韩国人力资源开发服务局 | 可选 | 电子组装与维修基础认证 |
+| 电子元件安装技术员 | 韩国人力资源开发服务局 | 可选 | 操作SMT等自动化设备有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 185,000. Automation in the electronics industry reduces simple assembly tasks, but demand for precision assembly and quality inspection remains, requiring transition to advanced technicians.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 185,000。电子行业自动化减少了简单装配任务，但对精密装配和质量检查的需求仍然存在，需要向高级技术员转型。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,85 @@ This occupation involves assembling and inspecting electrical/electronic parts a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $25,000,000~$32,000,000 | Minimum wage level, including night shift allowance |
-| 中级 (3-7年) | $32,000,000~$40,000,000 | Increases with skill level |
-| Advanced (7+ years) | $40,000,000~$50,000,000 | Line leader level, additional compensation for technical certifications |
+| 初级（0-3年） | $25,000,000~$32,000,000 | 最低工资水平，包括夜班津贴 |
+| 中级 (3-7年) | $32,000,000~$40,000,000 | 随着技能水平提高而增加 |
+| 高级（7年以上） | $40,000,000~$50,000,000 | 线长级别，技术证书额外补偿 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation replace simple assembly and inspection tasks, reducing headcount, but precision assembly and anomaly response remain human roles. Hiring opportunities for low-skilled entry-level workers are expected to decrease.
+AI和自动化取代简单组装与检查任务，减少人员需求，但精密组装与异常应对仍由人工负责。低技能入门级岗位的招聘机会预计将减少。
 
-Career progression: Junior Assembler → Skilled Assembler → Line Leader → Process Engineer. Job training and certifications are advantageous.
+职业发展路径：初级装配工→熟练装配工→生产线主管→工艺工程师。在职培训和认证有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Parts Assembly
-- Repeat Inspection
-- Packing and Labeling
+- 简单零件组装
+- 重复检查
+- 打包和贴标
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision Parts Assembly
-- Quality Anomaly Detection
-- Equipment setup and tuning
+- 精密零件组装
+- 质量异常检测
+- 设备安装和调试
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle abnormal situations
-- Precision Handwork Skill
-- Equipment Maintenance Sense
+- 处理异常情况的能力
+- 精密手工技能
+- 设备维护意识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robotics Programming
-- Process data analysis
-- Basic knowledge of electronic circuits
+- 机器人编程
+- 流程数据分析
+- 电子电路基础知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electronic Components
-- Precision Assembly
-- Automation Equipment
-- Quality Inspection
+- 电子元器件
+- 精密装配
+- 自动化设备
+- 质量检验
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled manufacturing workers, eligible for assembly line work, under Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Targets skilled labor, requires certification and experience |
-| Subclass F-2 (Residence) | Can work after residing for a certain period, precursor to permanent residency |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who are meticulous and have high concentration
-- Those with patience for repetitive tasks
-- Those who value teamwork
+- 细致且高度专注者
+- 能耐心处理重复性工作的人
+- 重视团队合作的人
 
 **谁不适合**
-- Those who dislike simple repetitive tasks
-- Those who want flexible working hours
+- 不喜欢简单重复任务的人
+- 想要灵活工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary like?**
-答：For entry-level, pre-tax annual salary is about 25-32 million KRW, with potential increases through night shift and overtime allowances.
+**问：起薪如何？**
+答：入门级税前年薪约2500-3200万韩元，夜班和加班补贴可能增加收入。
 
-**问：Can foreigners also get employed?**
-答：Possible with E-9 visa (Non-professional Employment), but skilled labor targets E-7 visa; in some industries, F-2 or F-4 visas are also possible.
+**问：外国人也能就业吗？**
+答：E-9签证（非专业就业）有可能，但技术工人目标为E-7签证；某些行业也可使用F-2或F-4签证。
 
 **问：有没有晋升机会？**
-答：You can advance to line leader or process engineer by building skills, and obtaining certifications and additional training is helpful.
+答：通过提升技能可以晋升为线长或工艺工程师，获得认证和额外培训也有帮助。
 
 
 ---
@@ -144,12 +134,12 @@ Career progression: Junior Assembler → Skilled Assembler → Line Leader → P
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-electronic-parts-and-product-assembler/KR)**

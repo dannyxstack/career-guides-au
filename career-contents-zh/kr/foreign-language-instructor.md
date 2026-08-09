@@ -1,10 +1,8 @@
-# Foreign Language Instructor 职业分析 · 韩国
+# 外语讲师（Foreign Language Instructor）职业分析 · 韩国
 
-**职业代码: 21412 (KECO)**
+**职业代码：21412 (KECO)**
 
-A professional who teaches foreign languages at academies, schools, corporate training centers, etc., mainly instructing major languages such as English, Chinese, and Japanese.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在学院、学校、企业培训中心等机构教授外语的专业人士，主要教授英语、中文和日语等主要语言。
 
 
 ---
@@ -14,7 +12,7 @@ A professional who teaches foreign languages at academies, schools, corporate tr
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 本科（学士学位） | 4年 | $8,000,000~$20,000,000（公立大学年学费） |
-| Master's Degree (preferred) | 2 年 | $12,000,000~$30,000,000（Annual graduate school tuition） |
+| 硕士学位（优先） | 2 年 | $12,000,000~$30,000,000（研究生院年学费） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who teaches foreign languages at academies, schools, corporate tr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| TESOL/TEFL | International institutions (USA, UK, etc.) | 可选 | Advantageous for English instructor employment, not legally required |
-| TOPIK Level 5 or higher | National Institute for International Education | 可选 | Advantageous for foreign instructors to prove Korean proficiency |
-| Teaching Certificate (Second Foreign Language) | 教育部 | 可选 | Required for regular school teacher appointments |
+| TESOL/TEFL | 国际机构（美国、英国等） | 可选 | 对英语教师就业有利，非法律强制要求 |
+| TOPIK 5级或以上 | 国立国际教育研究院 | 可选 | 外籍教师证明韩语能力有优势 |
+| 教学证书（第二外语） | 教育部 | 可选 | 正式学校教师任命所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 95,000. Due to low birth rates, the school-age population is decreasing, but demand for early English education and adult foreign language learning remains, so employment is expected to decrease slightly or stagnate.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 95,000。由于出生率低，学龄人口减少，但早期英语教育和成人外语学习需求仍在，因此就业预计将略有下降或停滞。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,95 +39,86 @@ A professional who teaches foreign languages at academies, schools, corporate tr
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$36,000,000 | Part-time instructor: 20,000-30,000 KRW per hour; annual salary varies by teaching hours |
-| 中级（4-7年） | $36,000,000~$48,000,000 | Full-time academy instructor or university-affiliated language institute instructor |
-| 高级（8年+） | $48,000,000~$65,000,000 | Freelancers and instructors at prestigious academies, including corporate lectures, can earn 60 million KRW or more |
+| 入门级（0-3年） | $24,000,000~$36,000,000 | 兼职讲师：每小时2-3万韩元；年薪按教学时数计算 |
+| 中级（4-7年） | $36,000,000~$48,000,000 | 全职学院讲师或大学附属语言学院讲师 |
+| 高级（8年+） | $48,000,000~$65,000,000 | 自由职业者和知名学院讲师（含企业讲座）可赚取6000万韩元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As AI translators and voice recognition technology advance, some basic conversation learning is expected to be replaced, but human instructors remain important for high-level education requiring cultural context and emotional communication. Instructors who use AI as a supplementary tool can stay competitive.
+随着AI翻译和语音识别技术的进步，一些基础会话学习预计将被取代，但人类教师在需要文化背景和情感交流的高水平教育中仍然重要。将AI作为辅助工具的教师可以保持竞争力。
 
-After 3-5 years of instructor experience, one can transition to freelancing, become an academy director, work as an educational consultant, or teach at a university-affiliated language institute.
+经过3-5年讲师经验后，可转向自由职业、成为学院院长、担任教育顾问或大学附属语言学院任教。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repeating basic grammar explanations
-- Guiding simple conversation practice
+- 重复基础语法讲解
+- 引导简单对话练习
 - 标准化口语发音纠正
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Accurate feedback using AI pronunciation analysis tools
-- Creating personalized learning content
-- Operating multilingual classes with real-time translation assistance
+- 使用AI发音分析工具提供准确反馈
+- 创建个性化学习内容
+- 利用实时翻译辅助运营多语言班级
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding and conveying cultural context
-- Learner motivation and emotional support
-- Teaching advanced conversation and discussion
+- 理解并传达文化背景
+- 学习者动机与情感支持
+- 教授高级对话与讨论
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to use AI educational tools
-- Operating online education platforms
+- 使用AI教育工具的能力
+- 运营在线教育平台
 - 跨文化沟通
-- Designing personalized learning plans
+- 设计个性化学习计划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- English Education
-- Chinese Education
-- Adult Foreign Languages
-- Online Education
+- 英语教育
+- 中文教育
+- 成人外语
+- 在线教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-2 (Conversation Instruction) | Work visa for foreigners to teach foreign language conversation in Korea, primarily for English instructors |
-| Subclass F-2 (Residence) | Can be converted to permanent residence upon meeting conditions, no restrictions on instructor activities |
-| Subclass F-4 (Overseas Korean) | Granted to overseas Koreans, can work as a foreign language instructor without employment restrictions |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking activities before changing status, used before formal employment as an instructor |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those proficient in a foreign language who find teaching rewarding
-- Those who communicate well with learners and motivate effectively
-- Those who prefer flexible working hours and are proactive in self-development
+- 外语熟练且觉得教学有意义的人
+- 善于与学习者沟通并有效激励的人
+- 喜欢灵活工作时间并积极自我提升的人
 
 **谁不适合**
-- Those who find repetitive classes and interpersonal relationships tedious
-- Those who find it hard to manage irregular hours and low starting pay
+- 觉得重复课程和人际关系枯燥的人
+- 难以适应不规律工时和低起薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a foreign language instructor?**
-答：For entry-level with less than 3 years of experience, the salary is about 24-36 million KRW; intermediate with 4-7 years, 36-48 million KRW; senior with 8+ years, 48-65 million KRW. Freelancers or famous academy instructors may earn more.
+**问：外语教师的平均年薪是多少？**
+答：对于经验不足3年的入门级，薪资约为2400-3600万韩元；中级（4-7年）为3600-4800万韩元；高级（8年以上）为4800-6500万韩元。自由职业者或知名学院讲师可能赚得更多。
 
-**问：What visa does a foreigner need to work as a foreign language instructor in Korea?**
-答：You mainly need an E-2 (Conversation Instruction) visa. Requirements are relatively simple for native English speakers, but stricter for other languages like Chinese. Holders of F-4 (Overseas Korean) or F-2 (Residence) visas can also work.
+**问：外国人在韩国担任外语讲师需要什么签证？**
+答：主要需要E-2（会话指导）签证。母语为英语者要求相对简单，但中文等其他语言更严格。持有F-4（在外同胞）或F-2（居住）签证者也可工作。
 
-**问：Will AI reduce foreign language instructor jobs?**
-答：AI translators and chatbots may replace some basic conversation learning, but high-level conversation instruction, cultural education, and personalized feedback still require human instructors. Therefore, AI is likely to be used as a supplementary tool.
+**问：AI会减少外语教师的工作吗？**
+答：AI翻译和聊天机器人可能会取代部分基础对话学习，但高级对话教学、文化教育以及个性化反馈仍需人类教师。因此，AI更可能作为辅助工具使用。
 
 
 ---
@@ -147,12 +136,12 @@ After 3-5 years of instructor experience, one can transition to freelancing, bec
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/foreign-language-instructor/KR)**

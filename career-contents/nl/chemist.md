@@ -53,8 +53,6 @@ Chemists conduct chemical research, analysis, development, and production, appli
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of chemists will undergo complex changes: AI automation will take over routine experiments and data analysis, but experimental design, anomaly diagnosis, and cross-department collaboration will be enhanced by AI, making the overall outlook mixed.
-
 Junior chemists usually start as lab technicians or research assistants; with experience, they can advance to senior researcher or project manager; a PhD can lead to R&D director or chief scientist roles; lateral moves into regulatory, patent, or sales are also possible.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior chemists usually start as lab technicians or research assistants; with ex
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Applicable to highly skilled migrants sponsored by a Dutch employer, with an annual salary meeting the threshold (as of 2024, approximately €5,331/month for ages 30+ and €3,909/month for under 30). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled professionals, annual salary must be at least twice the Dutch average wage (approx. €6,000/month), valid for 4 years, family reunification possible. |
-| Subclass Orientation Year (Zo (Orientation Year (Search Year)) | Master's/PhD graduates of Dutch or world top 200 universities can apply for a one-year job-seeking visa, then switch to a work residence permit upon finding employment. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can work in chemical companies (e.g., Shell, DSM), pharmaceutical companies (
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/NL)**

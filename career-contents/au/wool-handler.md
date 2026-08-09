@@ -53,8 +53,6 @@ Responsible for handling wool in the shearing shed, including grading, baling, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI improves efficiency and consistency of wool handlers through automated grading, recording, and IoT monitoring, but retains core needs for manual handling and on-site judgment.
-
 Can advance from junior wool handler to senior grader or shearing shed supervisor; experienced workers can move into agricultural management or export inspection areas.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance from junior wool handler to senior grader or shearing shed superviso
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Currently this occupation is not on the CSOL/MLTSSL, skilled migration pathwa
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wool-handler/AU)**

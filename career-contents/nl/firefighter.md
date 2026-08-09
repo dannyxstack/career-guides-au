@@ -4,8 +4,6 @@
 
 Firefighters are responsible for extinguishing fires, performing emergency rescue missions, handling hazardous materials incidents, and conducting fire prevention publicity and inspections. In the Netherlands, most firefighters are part-time (Dutch: vrijwilliger), with full-time positions mainly in urban areas.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Firefighters are responsible for extinguishing fires, performing emergency rescu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI has a relatively small impact on firefighter roles but will significantly enhance their emergency response, risk prediction, and decision support capabilities, making it a profession 'amplified by AI'. AI-assisted dispatch, drone reconnaissance, and smart monitoring will improve efficiency, but on-site firefighting and rescue still require human judgment and physical strength.
-
 Career path: from junior firefighter to fire brigade commander (Brandmeester), senior commander (Hoofdcommandant), or technical specialist (e.g., hazardous materials handling). Requires ongoing training and exams.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career path: from junior firefighter to fire brigade commander (Brandmeester), s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to firefighters, but requires employer sponsorship and meeting salary threshold (approx. €5,008/month in 2025) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for non-EU high-skilled workers, but firefighters typically do not meet the high-skilled definition |
-| Subclass Orientation Year (Orientation Year (Oriëntatiejaar)) | Dutch graduate students can apply, looking for firefighter jobs. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Must complete basic firefighter training at the Netherlands Institute for Pub
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter/NL)**

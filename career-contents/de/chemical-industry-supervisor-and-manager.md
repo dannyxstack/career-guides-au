@@ -53,8 +53,6 @@ Responsible for production supervision, process optimization, quality and safety
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
-
 Usually start as chemical technician or engineer, gain management qualifications through continuing education, and can advance to factory manager or regional director.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as chemical technician or engineer, gain management qualifications
 | Subclass Skilled Worker (Skilled Immigration Act) | Suitable for qualified skilled migrants, requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows job seeking without an employer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Management positions usually require fluent German (B2-C1), some foreign comp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-industry-supervisor-and-manager/DE)**

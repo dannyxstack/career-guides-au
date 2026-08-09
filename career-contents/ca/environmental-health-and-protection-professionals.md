@@ -54,8 +54,6 @@ Environmental health regulation in Canadian government (federal, provincial, mun
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some data collection and reporting tasks, but core on-site inspections, enforcement discretion, and public health decision-making responsibilities still require humans; the role presents both risks and opportunities.
-
 Career path: Junior environmental health officer → Senior inspector → Regional supervisor → Department manager; or transition to policy development, consulting, or non-profit. Those with a master's degree or many years of experience can serve as provincial or federal experts.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: Junior environmental health officer → Senior inspector → Region
 | Subclass EE (Express Entry (FSW/CEC)) | Occupation code 21112 has limited points test matching in Express Entry; usually requires PNP with 600 points or high CRS score. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Provincial Nominee Program, suitable for applicants who have found job opportunities in the region |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must complete a recognized public health or environmental health degree, then
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-health-and-protection-professionals/CA)**

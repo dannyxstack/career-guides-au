@@ -51,8 +51,6 @@ Responsible for operating pulp and paper equipment, monitoring the production pr
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pulp and paper mill operators face significant automation reduction, with AI and robots taking over most monitoring and adjustment tasks, leading to decreased job demand and lower entry barriers; skills upgrading is needed to transition.
-
 Junior operators can advance to senior operators or production supervisors, and further shift to process optimization or quality management roles. With industry automation trends, operators skilled in PLC and automation systems are more competitive.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Junior operators can advance to senior operators or production supervisors, and 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Apply through annual quota, requires employer sponsorship, applicable to non-EU skilled workers. Quota limited, competition fierce. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, minimum annual salary threshold approx. €30,000 (2025). Requires university degree or 5 years relevant experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Can be promoted to production supervisor, process engineer, or quality manage
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-and-papermaking-plant-operator/IT)**

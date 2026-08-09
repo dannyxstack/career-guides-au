@@ -1,10 +1,8 @@
-# Chassis Assembly and Installation Worker 职业分析 · 韩国
+# 底盘装配与安装工（Chassis Assembly and Installation Worker）职业分析 · 韩国
 
-**职业代码: 70271 (KECO)**
+**职业代码：70271 (KECO)**
 
-A specialized technical role that assembles and installs various chassis (frames of machinery and equipment) at construction and industrial sites.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在建筑和工业现场组装安装各种底盘（机械和设备框架）的专业技术岗位。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized technical role that assembles and installs various chassis (frames
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate or higher | 3年 | $5,000,000~$10,000,000（Cost of specialized high school or vocational training center） |
-| Mechanical engineering at a junior college (2-year) | 2 年 | $8,000,000~$12,000,000（Including tuition and practical training fees） |
+| 高中毕业或以上学历 | 3年 | $5,000,000~$10,000,000（专业高中或职业培训中心的费用） |
+| 机械工程专科（2年制） | 2 年 | $8,000,000~$12,000,000（包括学费和实践培训费） |
 
 ---
 
@@ -22,18 +20,18 @@ A specialized technical role that assembles and installs various chassis (frames
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Machinery Maintenance Technician | Human Resources Development Service of Korea | 可选 | Optional but advantageous for employment |
-| Mechanical Maintenance Technician | Human Resources Development Service of Korea | 可选 | 可选 |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Advantageous when combined with welding tasks |
+| 建筑机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 可选但有利于就业 |
+| 机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 可选 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 与焊接任务结合时具有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,500. Employment is expected to decrease slightly due to stagnant SOC investment and machinery demand, but jobs are maintained as skilled workers leave.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,500。由于SOC投资和机械需求停滞，就业预计略有下降，但由于熟练工人离职，岗位得以维持。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,90 +39,83 @@ A specialized technical role that assembles and installs various chassis (frames
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $28,000,000~$35,000,000 | Performance bonus separate |
-| Intermediate (4–9 years) | $36,000,000~$48,000,000 | Including field allowance |
-| Advanced (10 years or more) | $50,000,000~$70,000,000 | Foreman level or higher |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 绩效奖金另计 |
+| 中级（4-9年） | $36,000,000~$48,000,000 | 含现场津贴 |
+| 高级（10年及以上） | $50,000,000~$70,000,000 | 领班级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are replacing some processes (repetitive welding, cutting) in chassis assembly and installation, but complex on-site custom assembly and installation require human judgment and skill, making full replacement difficult.
+AI和自动化正在取代底盘组装和安装中的部分流程（重复焊接、切割），但复杂的现场定制组装和安装需要人工判断和技能，完全替代困难。
 
-Can advance from entry-level technician to intermediate technician, field foreman, and quality manager; after gaining experience, can start own business or move to a large construction company.
+可从入门级技术员晋升为中级技术员、现场领班和质量经理；积累经验后可创业或跳槽至大型建筑公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive Welding & Cutting
-- Simple Assembly Line Work
+- 重复焊接与切割
+- 简单流水线工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision Measurement & Inspection
-- Material Management & Design Collaboration
+- 精密测量与检测
+- 物料管理与设计协作
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site Adaptability
-- Ability to Perform Non-standard Tasks
-- Teamwork & Communication
+- 现场适应能力
+- 执行非标准任务的能力
+- 团队合作与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot Programming
-- Reading 3D CAD
-- Welding Automation Equipment Operation
+- 机器人编程
+- 阅读3D CAD
+- 焊接自动化设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shipbuilding & Plant
-- Construction Machinery Installation
-- Automation Equipment
-- On-site Custom Manufacturing
+- 造船与工厂
+- 工程机械安装
+- 自动化设备
+- 现场定制制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Targets low-skilled foreign workers but chassis assembly/installation is limitedly permitted |
-| Subclass E-7 (Specific Activities) | Possible with employment recommendation as skilled technical worker, but cases are rare |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with good physical strength who enjoys fieldwork
-- Someone with manual dexterity and interest in mechanical assembly
-- Someone comfortable with outdoor and high-altitude work
+- 体力好、喜欢实地工作的人
+- 具有手工灵巧性且对机械装配感兴趣的人
+- 适应户外和高空工作的人
 
 **谁不适合**
-- Someone who prefers precision and office tasks
-- Someone who wants regular working hours
+- 喜欢精确和办公室工作的人
+- 想要固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary like?**
-答：Starting annual salary is around 28-35 million KRW, and can reach up to 40 million KRW with field work and overtime allowances.
+**问：起薪如何？**
+答：起薪约为2800-3500万韩元，加上现场工作和加班津贴可达4000万韩元。
 
-**问：Can a foreigner get a work visa for this occupation?**
-答：Partially possible with an E-9 visa, but permission is difficult if skill level is low; E-7 requires an employment recommendation and is practically limited.
+**问：外国人能为这个职业获得工作签证吗？**
+答：E-9签证部分可行，但技能水平低则难以获批；E-7需就业推荐，实际受限。
 
-**问：What is the future outlook like?**
-答：While automation is progressing, on-site tailored work remains abundant so labor demand will persist for now, but it is on a long-term decline.
+**问：未来前景如何？**
+答：虽然自动化在推进，但现场定制工作仍然充足，因此劳动力需求短期内将持续，但长期呈下降趋势。
 
 
 ---
@@ -142,12 +133,12 @@ Can advance from entry-level technician to intermediate technician, field forema
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chassis-assembly-and-installation-worker/KR)**

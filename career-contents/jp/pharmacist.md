@@ -4,8 +4,6 @@
 
 Healthcare professionals who dispense medications and provide medication guidance based on physicians' prescriptions, supporting patients' drug therapy as pharmaceutical experts.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Healthcare professionals who dispense medications and provide medication guidanc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI complements and streamlines pharmacy work through automation of dispensing (robotic dispensing), medication guidance support, and drug information provision, but tasks requiring human judgment, such as face-to-face medication guidance and prescription review, remain. AI augmentation may expand the scope of work.
-
 After working in hospitals or pharmacies, advancement to pharmacy manager or supervisory pharmacist is possible. Career upgrades through specialized or certified pharmacist qualifications, or career changes to pharmaceutical companies or government agencies are also common.
 
 **Tasks most exposed to AI:**
@@ -93,15 +89,9 @@ After working in hospitals or pharmacies, advancement to pharmacy manager or sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | A pharmacist license and graduation from a Japanese pharmacy school are required. Since foreign pharmacists must pass the national exam to work in Japan, obtaining a work visa is often difficult. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: There are options such as obtaining certification as a specialist pharmacist 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/JP)**

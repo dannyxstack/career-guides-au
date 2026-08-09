@@ -54,8 +54,6 @@ Advertising specialists plan, coordinate, and execute advertising campaigns, for
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will automate ad placement and data reporting, but strategic creativity and client relationships remain core; overall job demand stable, skill requirements upgraded.
-
 Junior advertising specialists can advance to senior specialist, advertising manager, creative director, or account director. They can also move into digital marketing, brand management, or media planning.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior advertising specialists can advance to senior specialist, advertising man
 | Subclass 189 (Skilled Independent Visa) | Independent skilled migration requires high scores, occupation must be on MLTSSL (Advertising Specialist is not on MLTSSL, usually goes through 190) |
 | Subclass 491 (Skilled Work Regional Visa) | Remote area state sponsorship, temporary visa to permanent residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from junior specialist to senior specialist, advertising manager
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-specialist/AU)**

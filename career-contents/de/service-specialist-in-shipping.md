@@ -52,8 +52,6 @@ Provide comprehensive services such as catering, ticketing, and information to p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
-
 Can progress from entry-level steward to head waiter, service supervisor, and then to onboard service manager or shore-based operations management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from entry-level steward to head waiter, service supervisor, and th
 | Subclass Chancenkarte | A points-based opportunity card allowing one year to find work in Germany |
 | Subclass EU Blue Card (EU Blue Card) | Salaries usually not sufficient, generally not applicable |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can progress from service staff to head waiter, service supervisor, then to o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-specialist-in-shipping/DE)**

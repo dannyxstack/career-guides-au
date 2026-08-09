@@ -51,8 +51,6 @@ Announcers and broadcasters present news, host programs, conduct interviews, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will automate the broadcasting and generation of basic news releases, but tasks relying on human intuition and spontaneity, such as live broadcasts, in-depth interviews, and emotional expression, remain difficult to replace. The profession faces both task compression and tool empowerment.
-
 Junior broadcasters can start at local radio or TV stations, gain experience, and move to national media or specialized fields (e.g., sports, music). Senior professionals can advance to program director, content producer, or media consultant.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior broadcasters can start at local radio or TV stations, gain experience, an
 | Subclass PNP (Provincial Nominee Program) | Some provinces may include broadcasting occupations on their provincial nomination lists, especially Alberta and British Columbia, requiring employer support or specific work experience. |
 | Subclass LMIA (Labour Market Impact Assessment) | If a Canadian employer provides a job offer and can prove that no local candidates are available, you can apply for an LMIA work permit and later transition to permanent residency. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Immigration via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP) r
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/announcers-and-other-broadcasters/CA)**

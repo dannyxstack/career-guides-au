@@ -1,10 +1,8 @@
-# Higher Vocational School Teacher 职业分析 · 日本
+# 高等职业学校教师（Higher Vocational School Teacher）职业分析 · 日本
 
-**职业代码: 197 (JSCO)**
+**职业代码：197 (JSCO)**
 
-A teacher who specializes in technical subjects at a higher vocational school (KOSEN). Responsible for practical education in engineering and technology, as well as research and student guidance.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+高等职业院校（KOSEN）技术科目的专业教师。负责工程和技术方面的实践教育，以及研究和学生指导。
 
 
 ---
@@ -13,8 +11,8 @@ A teacher who specializes in technical subjects at a higher vocational school (K
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 硕士学位 | 2 年 | $1,000,000~$2,500,000（At national universities） |
-| Doctoral degree | 3年 | $1,500,000~$3,000,000（At national universities） |
+| 硕士学位 | 2 年 | $1,000,000~$2,500,000（在国立大学） |
+| 博士学位 | 3年 | $1,500,000~$3,000,000（在国立大学） |
 
 ---
 
@@ -22,17 +20,17 @@ A teacher who specializes in technical subjects at a higher vocational school (K
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctorate (e.g., in Engineering) | 大学 | 可选 | Often required for associate professor and above |
-| Upper Secondary School Teacher License (Industry) | Prefectural Board of Education | 可选 | Not necessarily required at KOSEN, but an advantage if obtained |
+| 博士学位（如工程类） | 大学 | 可选 | 通常要求副教授及以上职称 |
+| 高中教师执照（工业） | 县教育委员会 | 可选 | 在高专非必需，但获得为优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 8,000. While the number of students is declining due to the falling birthrate, KOSEN remains relatively popular, and demand for specialized teachers in engineering and IT fields is stable. A certain number of replacement hires due to retirement are expected.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 8,000。虽然因出生率下降学生人数在减少，但KOSEN仍相对受欢迎，工程和IT领域的专业教师需求稳定。预计会有一定数量的退休补聘。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A teacher who specializes in technical subjects at a higher vocational school (K
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years / assistant, lecturer) | $4,000,000~$5,500,000 | KOSEN salaries are based on national university standards |
-| Mid-level (4–9 years / associate professor) | $6,000,000~$8,000,000 | Varies with achievements |
-| Senior (10+ years / professor) | $8,500,000~$11,000,000 | Includes management allowances, etc. |
+| 初级（0-3年 / 助理、讲师） | $4,000,000~$5,500,000 | KOSEN薪资按国立大学标准 |
+| 中级（4–9年/副教授） | $6,000,000~$8,000,000 | 因成就而异 |
+| 高级（10年以上/教授） | $8,500,000~$11,000,000 | 包括管理津贴等。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used to streamline educational content and assist in personalized instruction, but it does not completely replace the role of teachers. Rather, human value increases in areas such as experiment/practical guidance and student career support.
+AI用于简化教育内容和辅助个性化教学，但不会完全取代教师角色。在实验/实践指导和职业支持等方面，人的价值反而增加。
 
-Career progression from assistant, lecturer, associate professor to professor. A doctoral degree, research achievements, and teaching performance are important. Opportunities also exist for administrative roles (e.g., principal, vice principal).
+职业发展路径：助理教授、讲师、副教授到教授。博士学位、研究业绩和教学表现很重要。也有行政管理职位（如校长、副校长）的机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing on blackboards and creating handouts
-- Answering basic questions (via chatbots)
-- Automated exam scoring
+- 书写黑板和制作讲义
+- 回答基本问题（通过聊天机器人）
+- 自动阅卷
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individual guidance and tutoring
-- Research data analysis
-- Curriculum design
+- 个人指导和辅导
+- 研究数据分析
+- 课程设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Practical skills and experiment guidance
-- Student mental health care
-- Research ideas and supervision
+- 实践技能与实验指导
+- 学生心理健康护理
+- 研究思路与指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Skills in utilizing AI educational tools
-- Data science
-- Facilitation of project-based learning
+- 利用AI教育工具的技能
+- 数据科学
+- 促进项目式学习
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Engineering Education
-- KOSEN Reform
-- Engineer development
-- Practical education
+- 工程教育
+- KOSEN改革
+- 工程师开发
+- 实践教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 教授 (Professor) | Applicable when engaged in education/research at educational institutions such as universities. This status of residence is appropriate for KOSEN teachers. |
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional 1(i)) | Applicable when conducting advanced research, with point-based preferential treatment. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For research enthusiasts passionate about teaching.
-- For those interested in practical technical education.
-- For those who find joy in watching students grow.
+- 适合热爱教学的研究爱好者。
+- 适合对实践技术教育感兴趣的人。
+- 适合那些乐于见证学生成长的人。
 
 **谁不适合**
-- For those prioritizing salary over research.
-- For those avoiding intense promotion competition.
+- 适用于优先考虑薪资而非研究的人。
+- 适合避免激烈晋升竞争的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for KOSEN faculty?**
-答：For national KOSEN, salaries follow national university corporation rules: professors typically earn 8–11 million JPY/year, associate professors 6–8 million JPY/year.
+**问：KOSEN教职人员的薪资水平如何？**
+答：国立KOSEN，薪资遵循国立大学法人规则：教授通常800-1100万日元/年，副教授600-800万日元/年。
 
-**问：What visa is needed for foreign KOSEN faculty?**
-答：A Professor visa (Status of Residence 'Professor') is required. The Highly Skilled Professional visa is also an option, but permanent residency requires track record and years.
+**问：外国KOSEN教职员工需要什么签证？**
+答：需要教授签证（在留资格'教授'）。高度专门职签证也是选项，但永久居留需要业绩和年限。
 
-**问：What is the career path to become KOSEN faculty?**
-答：After completing a master's program, the typical route is to be hired as an assistant or lecturer, then accumulate a doctorate and research achievements to advance to associate professor and professor.
+**问：成为KOSEN教员的职业路径是什么？**
+答：完成硕士课程后，通常的路径是受聘为助教或讲师，然后积累博士学历和研究成果，晋升为副教授和教授。
 
 
 ---
@@ -143,12 +134,12 @@ Career progression from assistant, lecturer, associate professor to professor. A
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/higher-vocational-school-teacher/JP)**

@@ -53,8 +53,6 @@ Directly supervise and coordinate the activities of security personnel and guard
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Can advance from security guard to supervisor, then to security manager or director. Requires management experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from security guard to supervisor, then to security manager or direc
 | Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree, but this occupation is atypical |
 | Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational corporations, applicable to management. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Difficult, as the occupation typically does not require a bachelor's degree, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-security-workers/US)**

@@ -53,8 +53,6 @@ Responsible for designing, developing, testing and maintaining software systems,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Junior programmers can advance to senior developer, architect, or technical manager; can also specialize in AI, cybersecurity, or mobile development. Experienced ones often transition to project manager or technical consultant.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior programmers can advance to senior developer, architect, or technical mana
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points or directly apply for permanent residence |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with a job offer from an employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Technical path: senior developer, architect, technical expert. Management pat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-developers-and-programmers/CA)**

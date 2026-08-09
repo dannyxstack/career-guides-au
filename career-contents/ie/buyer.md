@@ -51,8 +51,6 @@ Procurement officers purchase goods and services from suppliers, negotiate contr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
-
 Junior buyers typically start as assistants and can advance to senior buyers or purchasing managers after gaining experience. Professional certifications (e.g., CIPS) and international procurement experience enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior buyers typically start as assistants and can advance to senior buyers or 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Suitable for positions with salary above €60,000 or shortage occupations (procurement not included), but senior roles may qualify. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to annual salary exceeding 1.5 times EU average wage (approx. €60,000), requires university degree |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Start as a procurement assistant, then progress to buyer, senior buyer, procu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buyer/IE)**

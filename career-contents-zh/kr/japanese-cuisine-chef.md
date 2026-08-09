@@ -1,8 +1,8 @@
-# Japanese Cuisine Chef 职业分析 · 韩国
+# 日本料理厨师（Japanese Cuisine Chef）职业分析 · 韩国
 
-**职业代码: 53151 (KECO)**
+**职业代码：53151 (KECO)**
 
-A Japanese cuisine chef is a professional who prepares Japanese dishes such as sashimi, sushi, and tempura in Japanese restaurants or hotel kitchens, requiring precise knife skills and ingredient knowledge.
+日本料理厨师是在日本餐厅或酒店厨房中制作生鱼片、寿司、天妇罗等日本料理的专业人士，需要精确的刀工和食材知识。
 
 
 ---
@@ -11,9 +11,9 @@ A Japanese cuisine chef is a professional who prepares Japanese dishes such as s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 3年 | $0~$0（Free Public Education） |
-| Culinary College Degree | 2 年 | $6,000,000~$12,000,000（Private College Standard） |
-| Culinary Skills Academy | 1年 | $8,000,000~$15,000,000（Includes Private Academy and Practice Costs） |
+| 高中毕业 | 3年 | $0~$0（免费公立教育） |
+| 烹饪学院学位 | 2 年 | $6,000,000~$12,000,000（私立学院标准） |
+| 烹饪技能学院 | 1年 | $8,000,000~$15,000,000（包括私立学院和实践费用） |
 
 ---
 
@@ -21,18 +21,18 @@ A Japanese cuisine chef is a professional who prepares Japanese dishes such as s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| HACCP Manager | Ministry of Food and Drug Safety | 必备 | Mandatory Sanitation Management Training |
-| Japanese Cuisine Technician | Human Resources Development Service of Korea | 可选 | National Technical Qualification, Written and Practical Exams |
-| Master Craftsman (Japanese Cuisine) | Human Resources Development Service of Korea | 可选 | Advanced Qualification, Advantageous for Head Chef Promotion |
+| HACCP经理 | 食品药品安全部 | 必备 | 强制卫生管理培训 |
+| 日本料理技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，笔试与实践考试 |
+| 大师级工匠（日本料理） | 韩国人力资源开发服务局 | 可选 | 高级资格，有利于主厨晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 54,000. The steady demand for Japanese food in Korea ensures stable employment prospects, but the risk of dining industry contraction due to economic fluctuations and a shortage of skilled workers persist.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 54,000。韩国对日本料理的稳定需求确保了就业前景稳定，但经济波动导致的餐饮业萎缩风险和熟练工人短缺依然存在。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,94 +40,86 @@ A Japanese cuisine chef is a professional who prepares Japanese dishes such as s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $24,000,000~$30,000,000 | Primarily Kitchen Assistant Role |
-| Mid (4-7 years) | $32,000,000~$42,000,000 | Independent Work as a Japanese Cuisine Chef |
-| Advanced (8+ years) | $45,000,000~$60,000,000 | Head Chef or Owner Chef |
+| 初级 (0-3年) | $24,000,000~$30,000,000 | 主要为厨房助理角色 |
+| 中级（4-7年） | $32,000,000~$42,000,000 | 日本料理厨师的独立工作 |
+| 高级（8年以上） | $45,000,000~$60,000,000 | 主厨或老板厨师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-The job of a Japanese cuisine chef has a low risk of replacement by AI. This is because delicate knife skills, freshness assessment, and customized plating rely on human taste and hand techniques. However, AI can be introduced for auxiliary tasks such as order management or inventory optimization.
+日本料理厨师的工作被AI替代的风险较低。这是因为精细的刀工、新鲜度评估和定制摆盘依赖人类的味觉和手工技艺。不过，AI可以用于订单管理或库存优化等辅助任务。
 
-Starting as a junior chef, one can advance to head chef, executive chef, or become an owner-chef; training in Japan or obtaining certifications aids career growth.
+从初级厨师开始，可晋升为主厨、行政总厨或成为老板厨师；在日本培训或获得认证有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order taking and billing
-- Inventory management and ordering
-- Menu design
+- 接单和计费
+- 库存管理与订购
+- 菜单设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized menu recommendations
-- Nutritional analysis and allergy information provision
-- Cooking process monitoring and temperature control
+- 定制菜单推荐
+- 营养分析与过敏信息提供
+- 烹饪过程监控与温度控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Delicate knife skills and sashimi slicing
-- Ability to assess ingredient freshness
-- Understanding customer preferences and creative plating
+- 精细刀工与生鱼片切片
+- 评估食材新鲜度的能力
+- 了解客户偏好和创意摆盘
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Traditional Japanese cooking techniques
-- Food Hygiene Management
-- Foreign Languages (Japanese, English)
-- Digital Kitchen System Proficiency
+- 日本传统烹饪技巧
+- 食品卫生管理
+- 外语（日语、英语）
+- 数字厨房系统熟练度
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of Japanese cuisine franchises
-- Increase in high-end Japanese restaurants
-- Demand for delivery and meal kits
-- Popularity of Japanese cooking classes
+- 日本料理连锁店扩张
+- 高端日本餐厅的增加
+- 外卖和即食餐包需求
+- 日本烹饪课程的受欢迎程度
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when hiring skilled chefs specialized in Japanese cuisine |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to general cooking assistant roles, difficult to recognize Japanese cuisine expertise |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence status, no employment restrictions, possible to work as Japanese cuisine chef |
-| Subclass F-4 (F-4 (Overseas Korean)) | Issued to overseas Koreans, eligible to work as Japanese cuisine chef |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity and aesthetic sense
-- People with good physical strength and thorough hygiene awareness
-- People with a deep interest in Japanese cuisine
+- 动手能力和审美能力出色的人
+- 体力好且卫生意识强的人
+- 对日本料理有浓厚兴趣的人
 
 **谁不适合**
-- People with low patience for repetitive tasks
-- People who find it difficult to adapt to a fast-paced kitchen environment
+- 对重复性任务耐心低的人
+- 难以适应快节奏厨房环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a Japanese cuisine chef?**
-答：The annual salary for a junior Japanese cuisine chef (0-3 years) is about 24-30 million KRW, and a senior chef can earn up to 60 million KRW.
+**问：日本料理厨师的起薪是多少？**
+答：初级日餐厨师（0-3年）年薪约2400万至3000万韩元，高级厨师可达6000万韩元。
 
-**问：Can foreigners work as Japanese cuisine chefs?**
-答：Yes. Skilled Japanese cuisine chefs can be hired through the E-7 (Specific Activities) visa, and proficiency in Japanese or Korean is advantageous.
+**问：外国人可以担任日本料理厨师吗？**
+答：可以。熟练的日本料理厨师可以通过E-7（特定活动）签证聘用，精通日语或韩语有利。
 
-**问：Is the Japanese Cuisine Cook License mandatory?**
-答：It is not legally required, but it is highly advantageous for employment and promotion, so most obtain it.
+**问：日本料理厨师执照是否强制要求？**
+答：法律未强制要求，但对就业和晋升非常有利，故多数人取得。
 
 
 ---
@@ -145,12 +137,12 @@ Starting as a junior chef, one can advance to head chef, executive chef, or beco
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/japanese-cuisine-chef/KR)**

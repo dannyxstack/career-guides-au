@@ -55,8 +55,6 @@ Sales Representative (Other) covers unclassified sales positions, responsible fo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce the number of ordinary sales representatives, as tasks like cold calling, customer data entry, and basic follow-ups are automated, but relationship maintenance and complex negotiations still require humans.
-
 Junior sales can advance to senior sales representative, sales supervisor, or regional manager, and then to sales director. Accumulating industry experience and customer resources is key.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Junior sales can advance to senior sales representative, sales supervisor, or re
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: ANZSCO 611399 is not on the CSOL or MLTSSL list, so it cannot qualify for mai
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representatives-nec/AU)**

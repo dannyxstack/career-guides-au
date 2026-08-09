@@ -4,8 +4,6 @@
 
 Technical Sales Representatives sell specialized technology products (IT, semiconductors, machinery, etc.) to businesses, analyzing customer technical needs and proposing customized solutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Technical Sales Representatives sell specialized technology products (IT, semico
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances data analysis, automated quoting, and CRM management for technical sales representatives, but building customer trust and complex negotiations remain human roles. Overall, AI supplementation is expected to improve efficiency.
-
 Entry-level Sales Associate → Technical Sales Representative → Senior Sales Representative/Team Lead → Branch Manager/Sales Director; building technical expertise and customer relationships is key to promotion.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Entry-level Sales Associate → Technical Sales Representative → Senior Sales 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Available with employer recommendation in specialized technical sales, subject to salary requirements |
-| Subclass F-2 (F-2 (Residence) visa) | Convertible for long-term stay, skilled professional point system applies |
-| Subclass F-4 (Overseas Korean Visa (F-4)) | Business types allowed for overseas Koreans, no separate work permit needed |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Demand is increasing in high-value-added industries, but some job changes due
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-sales-representative/KR)**

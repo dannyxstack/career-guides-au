@@ -53,8 +53,6 @@ Operates tanks, light armor, and amphibious assault vehicles in land or water co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Armored assault vehicle crew task structure is mixed: AI/automation will take over sensor fusion and communications/navigation, but combat decisions, equipment emergency repair, and close tactical judgment are deep human moats, making core duties hard to fully replace.
-
 Advance from crew member to vehicle commander, platoon leader, or transition to military instructor, equipment maintenance management roles; some skills transferable to civilian heavy equipment operation.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Advance from crew member to vehicle commander, platoon leader, or transition to 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Progress from junior crew (E-1 to E-3) to gunner, vehicle commander (E-4 to E
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armored-assault-vehicle-crew-members/US)**

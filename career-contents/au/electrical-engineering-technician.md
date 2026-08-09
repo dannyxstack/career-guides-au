@@ -52,8 +52,6 @@ Electrical engineering technicians assist electrical engineers in designing, tes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of electrical engineering technician has mixed prospects: AI and automation will take over some design calculations, test data analysis, etc., but demand for on-site installation and commissioning, fault diagnosis, and interpersonal coordination increases, shifting responsibilities to higher value.
-
 Typically start as assistant technician, progress to senior technician or team lead with experience; can also transition to electrical engineering design or project management, or further study to become an electrical engineer.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as assistant technician, progress to senior technician or team l
 | Subclass 189 (Skilled Independent (Subclass 189)) | Skilled independent migration, occupation must be on MLTSSL, points tested via SkillSelect |
 | Subclass 190 (Skilled Nominated (Subclass 190)) | State-sponsored skilled migration; get 5 extra points after state nomination; occupation must be on state sponsorship list |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires first obtaining a Bachelor's degree in Electrical Engineer
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/AU)**

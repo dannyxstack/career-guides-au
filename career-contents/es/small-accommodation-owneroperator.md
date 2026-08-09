@@ -4,8 +4,6 @@
 
 Owners and operators responsible for managing small accommodation facilities (such as homestays, hotels, and family inns), covering the entire operation process from room reservations, customer reception, cleaning and maintenance, financial management, to marketing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Owners and operators responsible for managing small accommodation facilities (su
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Small lodging owners face a mix of automation and AI: some tasks (such as booking, customer service, bookkeeping) will be replaced, but emotional hospitality, personalized experiences, and on-site crisis management form a moat. Overall risk is moderate, but entry-level positions have narrowed due to platformization and tool popularization.
-
 It can expand from single property operations to managing multiple small accommodations, or develop towards franchising hotel chain brands or establishing property management companies. It can also deepen services such as providing value-added services such as tourism experiences and dining to increase revenue.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ It can expand from single property operations to managing multiple small accommo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employees of accommodation management companies can apply for work-based residence, but self-employed owners must apply for an entrepreneur visa |
-| Subclass Cuenta propia (Self-Employment Visa) | To reside as a self-employed operator (autónomo), you must submit a business plan and proof of investment |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: No tourism or hotel degree is required, but a municipal business license and 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/small-accommodation-owneroperator/ES)**

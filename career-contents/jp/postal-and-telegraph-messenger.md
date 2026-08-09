@@ -4,8 +4,6 @@
 
 Occupation involving collecting and delivering mail, parcels, and telegrams. Plays a vital role in supporting the communication infrastructure of local communities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Occupation involving collecting and delivering mail, parcels, and telegrams. Pla
 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
-
-If autonomous driving and drone delivery technology advances, there is a high possibility that some collection and delivery tasks will be replaced by AI and robots. Particularly affected by the decline in mail volume in rural areas, long-term staff reductions are expected.
 
 With experience, one can advance to managerial positions or delivery planning roles. Promotions within post offices and job changes to transport companies are common.
 
@@ -120,17 +116,9 @@ With experience, one can advance to managerial positions or delivery planning ro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Transportation)) | Added in 2024, involves tasks equivalent to Skilled Worker (iii). Requires JLPT N4 level. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For specialized roles like logistics management; not for simple delivery tasks. |
-| Subclass 特定活動（EPA） (Designated Activities Based on Economic Partnership Agreement) | Accepting foreign workers from Indonesia, etc., mainly in caregiving but also transportation. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -174,12 +162,12 @@ A: You can aim to become a section chief or branch manager within the post offic
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-and-telegraph-messenger/JP)**

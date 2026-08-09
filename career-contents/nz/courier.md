@@ -54,8 +54,6 @@ Couriers are responsible for collecting, transporting, and delivering parcels, d
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Couriers can progress from entry-level delivery roles to regional dispatch or management positions. With experience, they can start their own franchise network (e.g. NZ Post, CourierPost) or transition to higher-skilled roles such as logistics planning.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Couriers can progress from entry-level delivery roles to regional dispatch or ma
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to dispatcher, regional manager, or run a franchise network (e.g.
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/courier/NZ)**

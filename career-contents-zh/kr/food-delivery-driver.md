@@ -1,10 +1,8 @@
-# Food Delivery Driver 职业分析 · 韩国
+# 外卖配送司机（Food Delivery Driver）职业分析 · 韩国
 
-**职业代码: 53241 (KECO)**
+**职业代码：53241 (KECO)**
 
-A job that involves picking up customer-ordered food from restaurants and delivering it quickly to the delivery location, using motorcycles, bicycles, etc., with demand increasing due to the recent growth of the delivery app market.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+从餐厅取顾客订购的食物，并用摩托车、自行车等快速送达至指定地点的工作。由于近期配送应用市场增长，需求上升。
 
 
 ---
@@ -13,7 +11,7 @@ A job that involves picking up customer-ordered food from restaurants and delive
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（No education restrictions, no license required） |
+| 高中毕业 | 0年 | $0~$0（无学历限制，无需执照） |
 
 ---
 
@@ -21,17 +19,17 @@ A job that involves picking up customer-ordered food from restaurants and delive
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Motorcycle License | National Police Agency (Road Traffic Authority) | 必备 | Required if using a motorcycle for delivery |
-| Class 2 Small License | National Police Agency (Road Traffic Authority) | 可选 | Required when using a delivery motorcycle (over 125cc) |
+| 摩托车驾照 | 国家警察厅（道路交通管理局） | 必备 | 如果使用摩托车送货则需持有 |
+| 二级小型执照 | 国家警察厅（道路交通管理局） | 可选 | 使用送货摩托车（超过125cc）时需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 498,000. Demand remains steady due to the expansion of the delivery app market and the increase in single-person households, but the growth in employment is expected to slow due to the introduction of autonomous delivery robots/drones and the minimum wage hike, with a high likelihood of continued labor shortages.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 498,000。由于外卖应用市场扩张和单人家庭增加，需求保持稳定，但由于自主配送机器人/无人机的引入和最低工资上涨，就业增长预计放缓，劳动力短缺可能持续。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,94 +37,86 @@ A job that involves picking up customer-ordered food from restaurants and delive
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$36,000,000 | Per-delivery fee structure, hourly minimum wage basis |
-| Intermediate (3-5 years) | $36,000,000~$48,000,000 | Utilizing multiple platforms, efficient route selection |
-| Advanced (5+ years) | $48,000,000~$60,000,000 | Premium delivery, night/rain surcharge |
+| 初级（0-3年） | $24,000,000~$36,000,000 | 按次收费结构，以小时最低工资为基础 |
+| 中级（3-5年） | $36,000,000~$48,000,000 | 利用多平台，高效路线选择 |
+| 高级（5年以上） | $48,000,000~$60,000,000 | 加急配送、夜间/雨天附加费 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As autonomous delivery robot and drone technology advances, simple delivery tasks are likely to shrink, but human labor is still needed in complex urban environments and situations requiring human judgment, making complete AI replacement difficult.
+随着自主配送机器人和无人机技术进步，简单配送任务可能减少，但复杂城市环境和需要人工判断的场景仍需人力，完全AI替代困难。
 
-Initially, one performs simple delivery tasks and builds experience, then can advance to a rider manager or delivery platform logistics coordinator, or transition to logistics/distribution fields or start a business.
+最初从事简单配送任务积累经验，后可晋升为骑手经理或配送平台物流协调员，或转向物流/配送领域或创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple delivery on fixed routes
-- Order information confirmation
-- Basic item delivery
+- 固定路线简单配送
+- 订单信息确认
+- 基础物品配送
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Using optimal route search apps
-- Real-time delivery status monitoring system
-- Customer communication automation tools
+- 使用最优路径搜索应用
+- 实时配送状态监控系统
+- 客户沟通自动化工具
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal service and communication skills
-- Ability to handle complex road situations
-- Emergency situation judgment
+- 人际服务与沟通技巧
+- 处理复杂道路情况的能力
+- 紧急情况判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Delivery platform utilization skills
-- Customer service mindset
-- Safe driving skills
-- Basic motorcycle maintenance skills
+- 配送平台应用技能
+- 客户服务心态
+- 安全驾驶技能
+- 基本摩托车维修技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Growth of delivery app market
-- Increase in single-person households
-- Aging population
-- Labor shortage
+- 外卖应用市场增长
+- 单人家庭增加
+- 人口老龄化
+- 劳动力短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-Professional Employment (E-9)) | As non-professional foreign workers, food delivery drivers are eligible under E-9 target industries (restaurant, wholesale/retail, etc.), but with pilot permission in 2025. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans (F-4) can also work in delivery, but delivery agency work may be restricted. |
-| Subclass F-2 (Residence (F-2)) | Permanent residents or long-term residents can freely engage. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and enjoy outdoor activities
+- 身体健康且喜欢户外活动的人
 - 喜欢独立工作的人
-- People with excellent time management skills
+- 时间管理能力出色的人
 
 **谁不适合**
-- People who want to work stably indoors
-- People sensitive to traffic accident risks
+- 希望稳定在室内工作的人
+- 对交通事故风险敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a food delivery driver?**
-答：As of 2025, entry-level is about 24 to 36 million KRW, and with experience, it can reach over 48 million KRW, but it varies greatly depending on per-delivery fees and working hours.
+**问：外卖配送司机的平均年薪是多少？**
+答：截至2025年，入门级约2400万至3600万韩元，有经验者可超过4800万韩元，但根据每次配送费和工时差异很大。
 
-**问：Can foreigners work as food delivery drivers?**
-答：E-9 (Non-professional Employment) visas are being piloted for some, and F-2 (Residence) or F-4 (Overseas Korean) visa holders may work on a limited basis, but it is generally not suitable as an immigration path.
+**问：外国人能否担任送餐司机？**
+答：E-9（非专业就业）签证正在部分试点，F-2（居住）或F-4（海外韩裔）签证持有人可有限工作，但通常不适合作为移民途径。
 
-**问：Is it easy to switch from food delivery to other occupations?**
-答：It is possible to transition to logistics, distribution, or starting a business, but there is no formal promotion system, so it depends on individual capabilities.
+**问：从送餐转行到其他职业容易吗？**
+答：可以转向物流、配送或创业，但没有正式的晋升体系，因此取决于个人能力。
 
 
 ---
@@ -144,12 +134,12 @@ Initially, one performs simple delivery tasks and builds experience, then can ad
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/food-delivery-driver/KR)**

@@ -49,8 +49,6 @@ Oversees overall service operations at restaurants or catering facilities, respo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation replace repetitive tasks like order taking and inventory management, but roles that require human interaction, such as customer service and personnel management, are enhanced, elevating the manager's role.
-
 After kitchen assistant or serving experience, promote to manager, or enter as manager via internship after majoring in food service management. Moves possible to large franchise headquarters or hotel F&B divisions.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After kitchen assistant or serving experience, promote to manager, or enter as m
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled food service management professionals; employer must sign an employment contract. |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Under the Employment Permit System for foreign workers, entry as a kitchen assistant is possible, but managers are not eligible. |
-| Subclass F-2 (Residence) | After long-term residence, conversion to permanent residency is possible; can start a restaurant business or work as a manager. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Generally, promotion goes from floor manager to branch manager to regional ma
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-service-manager/KR)**

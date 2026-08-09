@@ -49,8 +49,6 @@ Occupations involving serving customers with food, drink, and entertainment at r
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation cannot replace the essence of customer service; instead, they are expected to be used in support tasks such as customer data analysis and reservation management, increasing the value of human service.
-
 With experience, promotion to floor manager or manager is possible. Self-employment by opening a bar or club is also an option.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ With experience, promotion to floor manager or manager is possible. Self-employm
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing / Food Service)) | Eligible for work in the food service industry. Maximum stay of 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to advanced customer service roles such as interpretation and overseas sales. |
-| Subclass 興行 (Entertainment) | Available for roles involving entertainment-related customer service. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: Yes, many establishments welcome newcomers. Most provide on-the-job training 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospitality-and-customer-service-staff/JP)**

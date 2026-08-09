@@ -51,8 +51,6 @@ University lecturers and professors teach, supervise graduate students, conduct 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers and professors face the risk of AI automation compression. Although core teaching and research are difficult to fully replace, a large amount of administrative tasks and basic grading work will be taken over by AI, intensifying competition for entry-level positions.
-
 Career progression: typically starts as assistant professor (tenure-track), advances to associate professor, full professor, and eventually may become department head or dean. Achieving tenure requires about 6 years of excellent teaching and research performance. Some move to research management or industry consulting.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression: typically starts as assistant professor (tenure-track), adva
 | Subclass EE (Express Entry - Federal Skilled Worker) | Suitable for PhD or master's degree holders, IELTS CLB 7+, invited through CRS scoring |
 | Subclass PNP (Provincial Nominee Program) | E.g., Ontario's Human Capital Priorities, no employer sponsorship required, but must match provincial needs |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a PhD; some college or part-time lecturer positions accept a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-professors-and-lecturers/CA)**

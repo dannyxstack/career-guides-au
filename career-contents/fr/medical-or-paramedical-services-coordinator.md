@@ -4,8 +4,6 @@
 
 Responsible for coordinating medical or auxiliary medical services, managing teams, optimizing processes, ensuring smooth patient paths, often working in public or private medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for coordinating medical or auxiliary medical services, managing tea
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical coordinator positions will experience significant AI enhancements, but core coordination and responsibilities will be hard to replace; Entry-level positions have narrowed due to automation of junior tasks, but demand for advanced coordination skills has increased.
-
 You can be promoted from coordinator to department manager, medical affairs director, or hospital deputy director. Experienced individuals can turn to medical consultation or health program management.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ You can be promoted from coordinator to department manager, medical affairs dire
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or management positions, requires a work contract valid for 4 years, and may bring family members |
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, employment contract, labor market test, valid for 1 year renewable |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary ≥€53,000), fast track, allowing mobility within the EU |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Demand is stable and growing alongside an aging population. Promotion to seni
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-or-paramedical-services-coordinator/FR)**

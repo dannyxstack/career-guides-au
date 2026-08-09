@@ -51,8 +51,6 @@ Agricultural machinery mechanics are responsible for installation, maintenance, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural machinery technicians face pressure from automated diagnostics and predictive maintenance systems; routine fault-finding and maintenance tasks are gradually taken over by AI, but on-site complex repairs and customer communication still have a moat.
-
 Career progression paths include: senior technician, workshop supervisor, technical trainer, agricultural machinery sales or service manager. Further study can lead to becoming an agricultural engineering technician or starting your own repair shop.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression paths include: senior technician, workshop supervisor, techni
 | Subclass EU Blue Card (EU Blue Card) | If annual salary meets the Blue Card threshold (approx. €43,800 in 2024), you may apply, but this occupation typically has lower salaries and rarely reaches the threshold. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows stay in Germany for 6 months to look for work; proof of sufficient financial means required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: The main pathway is a 3.5-year dual vocational training alternating between s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-machinery-technician/DE)**

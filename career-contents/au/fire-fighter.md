@@ -52,8 +52,6 @@ Firefighters are responsible for extinguishing fires, performing emergency rescu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Typically start as a firefighter trainee, progressing through training and experience to become a firefighter, senior firefighter, captain, or regional commander. Some move into fire investigation, training, or fire management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as a firefighter trainee, progressing through training and exper
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary work visa, firefighters can be sponsored by state fire agencies. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requires meeting occupation assessment and work experience requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: High work intensity, including shift work, prolonged standing, and physical e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-fighter/AU)**

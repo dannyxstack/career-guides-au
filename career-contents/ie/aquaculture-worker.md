@@ -53,8 +53,6 @@ Aquaculture workers are responsible for the rearing, harvesting, and maintenance
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will partially replace routine tasks like monitoring and recording, but enhance capabilities in farming optimization and disease prediction, while physical operations and decision-making responsibilities are hard to replace, resulting in a mixed overall impact.
-
 Junior workers can advance to farm supervisor or technician, managing operations after gaining experience. They may also move into aquaculture research or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior workers can advance to farm supervisor or technician, managing operations
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list (aquaculture workers are usually not), the annual salary must exceed €32,000. |
 | Subclass EU Freedom of Moveme (EU Freedom of Movement) | EU/EEA citizens can work freely without a visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually not eligible; the occupation is not on the Critical Skills Occupation
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-worker/IE)**

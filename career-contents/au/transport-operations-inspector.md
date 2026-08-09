@@ -53,8 +53,6 @@ Transport Operations Inspectors oversee and inspect the operations of public tra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI automation on transport inspector jobs is mixed: standardized document review and record checking may be taken over by AI, but tasks involving physical safety inspections and on-site judgment still rely on human experience; AI enhancement tools can improve efficiency, but legal liability transfer is limited.
-
 Typically promoted from transport operations roles (e.g., drivers, dispatchers). Can progress to senior inspector, safety manager, or regulatory agency official. Some transition to logistics management or consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically promoted from transport operations roles (e.g., drivers, dispatchers).
 | Subclass 491 (Skilled Work Regional visa) | Regional visa sponsorship, suitable for applicants willing to work in regional areas. |
 | Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored temporary visa, requires finding an Australian employer supporter |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires transport industry experience, completion of relevant cert
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-operations-inspector/AU)**

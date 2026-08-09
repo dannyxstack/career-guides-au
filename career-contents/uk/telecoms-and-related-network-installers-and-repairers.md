@@ -54,8 +54,6 @@ Responsible for installing, maintaining, and repairing public and private teleph
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications network installers and repairers face dual impacts from automation and AI: routine troubleshooting and system monitoring will be replaced, but on-site repairs in complex environments and customer communication needs increase, maintaining some job security.
-
 Can progress from junior installer to senior technician or team supervisor, then to network planning or project management roles. Obtaining professional certifications (e.g., fiber optic certification) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior installer to senior technician or team supervisor, then
 | Subclass Scale-up (Scale-up visa) | Prior to application, you must obtain a sponsorship from a fast-growing company, with an annual salary of at least £33,000. Suitable for experienced applicants. |
 | Subclass Graduate (Graduate visa) | Graduates in the UK can apply for a 2-year stay to gain work experience, then can switch to a Skilled Worker visa. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, can advance to Senior Technician, Supervisor, or move into network plann
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecoms-and-related-network-installers-and-repairers/UK)**

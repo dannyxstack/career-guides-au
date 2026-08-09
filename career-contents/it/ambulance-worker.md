@@ -52,8 +52,6 @@ Ambulance workers are responsible for emergency medical rescue, including on-sit
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of ambulance staff (on-site emergency care, patient assessment) are unlikely to be replaced by AI in the short term, but auxiliary tasks (medical records, navigation and dispatch, supply management) will see significant automation. Overall workforce numbers remain stable, but skill requirements will increase.
-
 From entry-level paramedic can advance to senior paramedic, team leader, or further study to become nurse, doctor, or move to medical dispatch or training roles.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ From entry-level paramedic can advance to senior paramedic, team leader, or furt
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled ambulance personnel, requiring a university degree and contract, with a salary threshold of approximately €25,000 per year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply through an annual quota, require employer sponsorship, suitable for lower-level positions. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for work permits, which involves a lengthy process, mainly for occupations in shortage. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work directly in Italy without a visa. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: At least a high school diploma and 1-2 years of professional training, or pur
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-worker/IT)**

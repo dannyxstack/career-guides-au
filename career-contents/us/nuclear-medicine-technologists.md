@@ -52,8 +52,6 @@ Nuclear medicine technologists prepare, administer, and measure radioisotopes fo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate image reconstruction and dose calculation but enhance diagnostic recommendations and patient communication; nuclear medicine technologists' composite skills (equipment operation + patient care) offer partial protection, but entry-level positions may shrink as AI reduces demand for low-skill assistants.
-
 Career path: Junior Technician → Senior Technician → Supervisor/Chief Technician, or transition to nuclear medicine physics, radiation safety, etc. Usually requires continuing education to maintain certification.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior Technician → Senior Technician → Supervisor/Chief Techni
 | Subclass EB-3 (EB-3 Employment-Based Green Card) | Applicable to skilled workers, requires PERM labor certification, with long waiting periods. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Before applying for a green card, PERM labor certification is required. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires an associate or bachelor's degree and passing the NMTCB ce
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nuclear-medicine-technologists/US)**

@@ -53,8 +53,6 @@ Working at the German Federal or State Office for the Protection of the Constitu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI mainly acts as an analytical assistant enhancing intelligence processing capabilities, not replacing core work; automation risks are concentrated in document processing, while legal responsibility and judgment remain human-led.
-
 generally starts as an analyst or investigator, can advance to team leader or department head. Requires long-term service, slow but stable promotion
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ generally starts as an analyst or investigator, can advance to team leader or de
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Generally not. This role requires German or EU citizenship and strict securit
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-for-protection-of-the-constitution-officer/DE)**

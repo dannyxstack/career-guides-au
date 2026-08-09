@@ -4,8 +4,6 @@
 
 Athletes pursue sports as their profession, participate in domestic and international competitions, and earn income through prize money, sponsorships, and salaries. This profession demands extremely high talent and training, with a limited career lifespan.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Athletes pursue sports as their profession, participate in domestic and internat
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
-
 Most athletes start in youth clubs and gradually move up to the professional youth league, with a few becoming national team or top-tier league players. After retirement, you can transition to coaching, sports management, or media commentators, but successful transition requires additional qualifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Most athletes start in youth clubs and gradually move up to the professional you
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled athletes, requiring a work contract and meeting annual salary standards, which is usually uncommon |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residence employed by a Spanish club requires a club sponsorship and proof of the special nature of the position |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Yes, but the Spanish club must guarantee and prove that the position cannot b
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/athletes-and-sportspeople/ES)**

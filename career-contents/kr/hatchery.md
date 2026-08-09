@@ -49,8 +49,6 @@ A hatchery specialist is an expert who artificially breeds and raises aquatic or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Although AI and automation are unlikely to directly replace aquaculture tasks, repetitive work such as feed supply and water quality management can be replaced by automated equipment, so the demand for labor is expected to decrease somewhat.
-
 Initially, you gain hands-on experience in the field; after 5–10 years, you can advance to farm manager or technical advisor.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Initially, you gain hands-on experience in the field; after 5–10 years, you ca
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled aquaculture technicians may qualify |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to simple farm work only |
-| Subclass F-2 (Residence) | Long-term stay possible through points system |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +129,12 @@ A: Yes, the E-7 visa (Specific Activities) allows hiring skilled technicians, wh
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hatchery/KR)**

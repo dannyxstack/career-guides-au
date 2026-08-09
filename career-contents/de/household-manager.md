@@ -53,8 +53,6 @@ Responsible for daily operations and management of households or institutions, i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive coordination and monitoring tasks of housekeeping management specialists are easily automated by AI; entry-level roles will decrease significantly, but complex interpersonal communication and emergency decision-making still rely on humans.
-
 Starting as a junior housekeeping assistant, can advance to senior butler, household manager, or start own housekeeping service. Further education can lead to hotel management or aged care management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior housekeeping assistant, can advance to senior butler, house
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows those without a job offer to come to Germany to search for work for up to 1 year |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months to seek employment in Germany, must prove financial means |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can progress from assistant to housekeeper, housekeeping manager, or start ow
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/household-manager/DE)**

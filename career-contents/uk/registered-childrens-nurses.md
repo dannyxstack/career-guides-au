@@ -51,8 +51,6 @@ Provides acute and chronic disease care for children and adolescents, assists do
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Registered nurses can progress to senior clinical nurses, pediatric nurse specialists, nursing management roles, or teaching and research positions.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Registered nurses can progress to senior clinical nurses, pediatric nurse specia
 | Subclass Health & Care Worker (Health and Care Worker Visa) | Applicable to medical professionals, including nurses, with lower salary threshold and fast-track option |
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to nurses with employer sponsorship, must meet salary requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Primarily can use the Health and Care Worker Visa or Skilled Worker Visa, bot
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-childrens-nurses/UK)**

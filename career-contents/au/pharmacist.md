@@ -56,8 +56,6 @@ Pharmacists dispense medications, provide medication counselling, and conduct me
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 The expansion of pharmacist prescribing rights (e.g. oral contraceptives, certain antibiotics) is the industry's most significant development, enhancing the employment value of pharmacists. Remote pharmacy services and medication reviews in aged care are growing areas.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ The expansion of pharmacist prescribing rights (e.g. oral contraceptives, certai
 | Subclass 190 (Skilled Nominated) | State nomination; rural pharmacists given priority |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Nursing has a much larger job volume (Seek ~10,000+ vs pharmacy ~2,500) and b
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/AU)**

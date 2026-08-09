@@ -1,8 +1,8 @@
-# Transport Equipment Engineers (excluding automobiles) 职业分析 · 日本
+# 运输设备工程师（不含汽车）（Transport Equipment Engineers (excluding automobiles)）职业分析 · 日本
 
-**职业代码: 085 (JSCO)**
+**职业代码：085 (JSCO)**
 
-Engineers involved in the design, development, manufacturing, inspection, and maintenance of transport equipment such as aircraft, railway vehicles, and ships. Excludes automobiles.
+从事飞机、铁路车辆、船舶等运输设备的设计、开发、制造、检验和维修的工程师。不包括汽车。
 
 
 ---
@@ -11,8 +11,8 @@ Engineers involved in the design, development, manufacturing, inspection, and ma
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical College (Mechanical Engineering) | 5年 | $2,000,000~$3,000,000（At national technical colleges: approx. ¥400,000/year × 5 years） |
-| University (Engineering: Mechanical/Aerospace/Naval Architecture) | 4年 | $4,000,000~$8,000,000（National/public: approx. ¥800,000/year; private: approx. ¥1.5 million/year） |
+| 技术学院（机械工程） | 5年 | $2,000,000~$3,000,000（国立技术学院：约40万日元/年 × 5年） |
+| 大学（工程：机械/航空航天/船舶） | 4年 | $4,000,000~$8,000,000（国家/公立：约80万日元/年；私立：约150万日元/年） |
 
 ---
 
@@ -20,18 +20,18 @@ Engineers involved in the design, development, manufacturing, inspection, and ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Aircraft Maintenance Engineer (First/Second Class) | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for aircraft maintenance; involves practical experience and exams. |
-| Railway Vehicle Inspector | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Necessary for conducting inspections of railway vehicles. |
-| Professional Engineer (Mechanical Engineering) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Demonstrates advanced technical skills; advantageous for career growth. |
+| 飞机维修工程师（一级/二级） | 国土交通省 | 可选 | 飞机维修所需；涉及实践经验和考试。 |
+| 铁路车辆检查员 | 国土交通省 | 可选 | 进行铁路车辆检查所必需的。 |
+| 专业工程师（机械工程） | 文部科学省 | 可选 | 具备高级技术技能，有利于职业发展。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 120,000. Japan's domestic aircraft, railway, and shipbuilding industries face an aging workforce of skilled engineers, creating high demand for younger talent. Shortages are especially notable in aircraft maintenance and railway vehicle upkeep.
+**职位需求量：很高（★★★★½）** 全国从业人数约 120,000。日本国内飞机、铁路和造船行业面临熟练工程师老龄化，对年轻人才需求大。飞机维修和铁路车辆保养领域尤其短缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,86 @@ Engineers involved in the design, development, manufacturing, inspection, and ma
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | At major manufacturers: starting salary around ¥200,000–250,000/month |
-| Mid-level (3–10 years) | $4,500,000~$6,000,000 | Increases with experience and qualifications; annual income often exceeds ¥5 million. |
-| 资深（10年以上） | $6,000,000~$9,000,000 | Management or specialist roles can earn ¥8 million or more annually. |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 在大型制造商：起薪约20-25万日元/月 |
+| 中级（3-10年） | $4,500,000~$6,000,000 | 随经验和资历增长，年收入常超过500万日元。 |
+| 资深（10年以上） | $6,000,000~$9,000,000 | 管理或专家职位年收入可达800万日元以上。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation support design simulation and inspection data analysis, but human experience-based judgment and manual adjustments are essential. Skilled craftsmanship is hard to replace by AI.
+人工智能和自动化支持设计仿真和检测数据分析，但基于人类经验的判断和手动调整至关重要。熟练工艺难以被AI替代。
 
-Career advancement from manufacturing to design and development is possible. Obtaining qualifications (e.g., aircraft mechanic, railway vehicle inspector) and CAD skills boosts career growth. Pathways to management or specialist roles exist.
+从制造到设计和开发的职业晋升是可能的。获得资格（例如飞机机械师、铁路车辆检验员）和CAD技能可促进职业发展。存在晋升管理层或专家角色的途径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drawing checks
-- Standard calculation tasks
-- Periodic inspection data entry
+- 简单图纸检查
+- 标准计算任务
+- 定期检查数据录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Design simulation
-- Non-destructive testing data analysis
-- Optimization of repair plans
+- 设计模拟
+- 无损检测数据分析
+- 优化维修计划
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced manual adjustment and assembly
-- Troubleshooting based on field experience
-- Deep understanding of safety standards
+- 高级手动调整和装配
+- 基于现场经验的故障排除
+- 深入了解安全标准
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of AI/machine learning
-- Advanced CAD/CAE skills
-- Data analysis
-- Reading English technical documents
+- AI/机器学习基础
+- 高级CAD/CAE技能
+- 数据分析
+- 阅读英文技术文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aircraft maintenance
-- Railway vehicle maintenance
-- Marine engineer
-- Hydrogen fuel compatibility
+- 飞机维修
+- 铁路车辆维修
+- 海洋工程师
+- 氢燃料兼容性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (SS)) | Requires university degree or equivalent work experience. Covers technical roles like aircraft design and railway vehicle development. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Castings, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Targets skilled work in manufacturing. Advanced design work is excluded. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at mechanical engineering or physics
-- People passionate about manufacturing
-- People who can work steadily and accurately
+- 擅长机械工程或物理学的人
+- 对制造业充满热情的人
+- 能够稳定准确工作的人
 
 **谁不适合**
-- People who prefer routine work over creativity
-- People who want to avoid frequent transfers or overtime
+- 偏爱常规工作而非创意的人
+- 希望避免频繁调动或加班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income range for transportation equipment engineers?**
-答：Entry-level: 3-4 million JPY, mid-career: 4.5-6 million JPY, senior: 6-9 million JPY.
+**问：运输设备工程师的年收入范围是多少？**
+答：初级：300-400万日元，中级：450-600万日元，高级：600-900万日元。
 
-**问：What visa is needed to work in Japan for this occupation?**
-答：The SS visa is typical. Requires a university degree or equivalent experience. Specified Skilled Worker (i) is also possible for some tasks.
+**问：在日本从事该职业需要什么签证？**
+答：SS签证是典型的。需要大学学位或同等经验。特定技能工人(i)也可用于某些任务。
 
-**问：How can I advance my career?**
-答：Obtaining licenses such as aircraft mechanic or professional engineer, and acquiring CAD/CAE skills are effective. You can step up from design to management.
+**问：如何提升我的职业生涯？**
+答：获得飞机机械师或专业工程师等执照，以及掌握CAD/CAE技能非常有效。可以从设计晋升到管理层。
 
 
 ---
@@ -142,12 +136,12 @@ Career advancement from manufacturing to design and development is possible. Obt
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transport-equipment-engineers-excluding-automobiles/JP)**

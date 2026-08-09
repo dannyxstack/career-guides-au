@@ -4,8 +4,6 @@
 
 Journalists and media information officers are responsible for collecting, verifying, and disseminating news information, reporting current events to the public through various media platforms (newspapers, television, radio, internet). Strong writing, investigating, and communication skills are required.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Journalists and media information officers are responsible for collecting, verif
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Career paths can start as junior reporters or assistant editors, and progress to senior journalists, columnists, editors, or department heads. You can also shift to media management, public relations, or content strategy.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Career paths can start as junior reporters or assistant editors, and progress to
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as renowned journalists or media experts, who need to provide a work contract or project certification. |
-| Subclass Salarié (Employee Work Permit) | Employer-sponsored work visas require obtaining a work contract with a French company and passing a labor market test. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (annual salary ≥ 53,000 euros), requiring a university degree and a work contract. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Typically, they start as assistants or junior reporters, gain experience, and
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist-and-media-information-officer/FR)**

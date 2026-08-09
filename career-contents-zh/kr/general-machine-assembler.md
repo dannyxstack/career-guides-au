@@ -1,8 +1,8 @@
-# General Machine Assembler 职业分析 · 韩国
+# 通用机器装配工（General Machine Assembler）职业分析 · 韩国
 
-**职业代码: 81613 (KECO)**
+**职业代码：81613 (KECO)**
 
-Production workers who assemble and inspect parts of various machinery like automobiles and electronics, playing a key role in manufacturing.
+组装和检查汽车、电子等各类机械零件的生产工人，在制造业中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ Production workers who assemble and inspect parts of various machinery like auto
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| On-site employment after high school graduation | 0年 | $0~$0（No separate education costs, learned through OJT on site） |
-| Graduation from a mechanical engineering department at a vocational college | 2 年 | $3,000,000~$6,000,000（Varies by public/private institution） |
+| 高中毕业后即可上岗就业 | 0年 | $0~$0（无需单独教育费用，通过在职培训学习） |
+| 毕业于职业院校机械工程专业 | 2 年 | $3,000,000~$6,000,000（因公立/私立机构而异） |
 
 ---
 
@@ -20,17 +20,17 @@ Production workers who assemble and inspect parts of various machinery like auto
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Machine Assembly Technician | Human Resources Development Service of Korea | 可选 | Helps demonstrate skill level |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Beneficial when welding is required in assembly |
+| 机器装配技术员 | 韩国人力资源开发服务局 | 可选 | 有助于展示技能水平 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 在装配中需要焊接时有益 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Due to manufacturing automation expansion and population decline, employment of general machine assemblers is expected to gradually decrease, but demand for skilled workers is likely to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于制造自动化扩展和人口减少，普通机器装配工的就业预计将逐渐减少，但对熟练工人的需求可能会持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ Production workers who assemble and inspect parts of various machinery like auto
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Increases with night shift allowance and overtime |
-| Intermediate (4–7 years) | $30,000,000~$36,000,000 | Varies by skill level |
-| Advanced (8+ years) | $36,000,000~$45,000,000 | Can be higher when transitioning to technical roles |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 随夜班津贴和加班费增加 |
+| 中级（4-7年） | $30,000,000~$36,000,000 | 因技能水平而异 |
+| 高级（8年以上） | $36,000,000~$45,000,000 | 转为技术岗位时可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Simple assembly tasks are rapidly being replaced by AI and automation. In particular, as robot adoption expands in mass production lines, jobs for general machine assemblers are expected to decline.
+简单的装配任务正迅速被AI和自动化取代。尤其在量产线中，机器人应用扩大，通用机器装配工岗位预计减少。
 
-Starting as a novice, one can manage production lines as a skilled worker, or advance to quality control or production management roles through technical training.
+从新手开始，可成为熟练工管理生产线，或通过技术培训晋升为质量控制或生产管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Parts Assembly
-- Inspection and Sorting Tasks
-- Material Handling and Replenishment
+- 简单零件组装
+- 检验和分拣任务
+- 物料搬运和补货
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automation Equipment Monitoring
-- Quality Anomaly Detection and Correction
-- Production Data Analysis
+- 自动化设备监控
+- 质量异常检测与校正
+- 生产数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex Assembly Process Judgment
-- Non-Standard Task Response
-- Flexibility in High-Mix Low-Volume Production
+- 复杂装配工艺判断
+- 非常规任务响应
+- 高混合低批量生产的灵活性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automation Equipment Operation
-- Basic Programming (PLC, etc.)
-- Quality Control and Statistical Process Control
+- 自动化设备操作
+- 基础编程（PLC等）
+- 质量控制与统计过程控制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation Response
-- Skilled Technical Personnel
-- In-Service Training
-- Manufacturing Competitiveness
+- 自动化响应
+- 熟练技术人才
+- 在职培训
+- 制造业竞争力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-Professional Employment (E-9)) | For unskilled foreign workers, eligible for general machine assembler positions in manufacturing |
-| Subclass E-7 (Specific Activities (E-7)) | Recognized as skilled labor, capable of performing assembly tasks requiring expertise |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible when converting to points system, benefits for skilled workers |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone meticulous and patient with repetitive tasks
-- Someone dexterous and interested in machine operation
-- Someone who values teamwork and follows instructions well
+- 细心且耐心处理重复性工作的人
+- 灵巧且对机器操作感兴趣的人
+- 重视团队合作且服从指令的人
 
 **谁不适合**
-- Someone who dislikes simple repetitive tasks
-- Someone who prefers creative work
+- 不喜欢简单重复任务的人
+- 偏好创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a general machine assembler?**
-答：Approximately 24–30 million KRW pretax for entry-level, up to 45 million KRW depending on experience and overtime.
+**问：普通机械装配工的平均年薪是多少？**
+答：入门级税前约2400-3000万韩元，视经验和加班情况最高可达4500万韩元。
 
-**问：What visa does a foreigner need to work as a general machine assembler?**
-答：Employment is possible with an E-9 (Non-professional Employment) visa; if skilled, it can be converted to an E-7 (Specific Activities) visa.
+**问：外国人担任普通机器装配工需要什么签证？**
+答：持E-9（非专业就业）签证可就业；技能熟练后可转为E-7（特定活动）签证。
 
-**问：Are there any required education or certifications for this job?**
-答：No specific certification is mandatory, but having a Machine Assembly Technician or Welding Technician certificate is advantageous. High school graduates can learn sufficiently through on-site training.
+**问：该职位是否需要特定的教育或认证？**
+答：无强制证书要求，但持有机器装配技师或焊接技师证书有利，高中生可通过在岗培训充分学习。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as a novice, one can manage production lines as a skilled worker, or ad
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-machine-assembler/KR)**

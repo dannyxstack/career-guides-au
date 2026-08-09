@@ -53,8 +53,6 @@ Retail loss prevention officers monitor retail environments for theft, fraud, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance the monitoring capabilities of loss prevention officers, but physical patrols and human interaction are difficult to replace in the short term, making the outlook 'mixed'.
-
 Usually start as retail assistants or security guards, can advance to loss prevention supervisor, regional loss prevention manager, or transition to corporate security and risk management.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Usually start as retail assistants or security guards, can advance to loss preve
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Stable employment with slow growth; can transition to loss prevention managem
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-loss-prevention-officer/AU)**

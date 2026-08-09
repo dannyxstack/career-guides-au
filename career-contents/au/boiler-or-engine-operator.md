@@ -54,8 +54,6 @@ Operate and maintain power equipment such as boilers, steam engines, and interna
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Boiler or engine operator jobs will be significantly affected by AI and automation, but physical operations and emergency response responsibilities are hard to replace. Entry-level positions may shrink, but maintenance and monitoring tasks will be enhanced by AI.
-
 Can advance from entry-level operator to senior operator or supervisor, or to marine engineer or factory management roles, requiring experience and higher-level certifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from entry-level operator to senior operator or supervisor, or to ma
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa requiring skills assessment and three years of work experience |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is not on the Core Skills Occupation List, usually requiring 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boiler-or-engine-operator/AU)**

@@ -52,8 +52,6 @@ Study chemical composition or physical principles of living cells and organisms,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on biochemists and biophysicists is mixed: routine data processing and literature analysis tasks will be automated, but experimental design, innovative discovery, and high-level hypothesis derivation still rely heavily on human intelligence.
-
 Career progression from postdoctoral research to independent researcher or chief scientist, with possible moves into management, patent law, or entrepreneurship. Senior positions include department director or chief scientific officer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression from postdoctoral research to independent researcher or chief
 | Subclass EB-2 (Employment-Based Green Card (Advanced Degree)) | Applicable to PhD holders, requiring a PERM labor certification or national interest waiver |
 | Subclass O-1 (Extraordinary Ability Visa) | Applicable to researchers with outstanding achievements in biochemistry |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Research positions usually require a PhD; bachelor's and master's can work as
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biochemists-and-biophysicists/US)**

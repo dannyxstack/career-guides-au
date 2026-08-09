@@ -53,8 +53,6 @@ Marketing managers in New Zealand are responsible for developing and executing m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI significantly enhances marketing managers' data analysis and content production efficiency, but core competencies like strategic decision-making, team leadership, and client relationships remain hard to replace; overall opportunities outweigh threats.
-
 Junior marketing specialists can advance to marketing manager (3-5 years), then to senior marketing manager or marketing director (8-10 years). Those with data analysis, digital marketing, and brand strategy skills advance faster; can move to CMO or entrepreneurial consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior marketing specialists can advance to marketing manager (3-5 years), then 
 | Subclass AEWV (Accredited Employer Work Visa) | Requires approved employer sponsorship; salary must meet median level ($31.61/hour) |
 | Subclass Partnership (Partner of a New Zealander) | If the spouse is a New Zealand resident, may apply for a partner work visa or residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Many opportunities, especially in Auckland and Wellington. But competition is
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marketing-manager/NZ)**

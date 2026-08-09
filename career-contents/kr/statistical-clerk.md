@@ -4,8 +4,6 @@
 
 A statistical clerk collects and analyzes various survey and administrative data to compile statistics and organize reports.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A statistical clerk collects and analyzes various survey and administrative data
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation are expected to replace simple data collection and processing tasks for statistical clerks, reducing job opportunities. However, higher-level interpretation and decision-support roles remain a human domain.
-
 Newcomers typically handle data entry and basic statistical support tasks. With experience, they can advance to data analysis, statistical system operation, or management roles. Career development is possible in public institutions and private research organizations.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Newcomers typically handle data entry and basic statistical support tasks. With 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon performing statistical work; employer applies |
-| Subclass D-10 (Job seeking) | Stay after graduation for job seeking in statistics |
-| Subclass F-2 (Residence) | Long-term resident eligible for employment; statistical work possible |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -151,12 +139,12 @@ A: Not mandatory, but having a Social Survey Analyst Level 2 or Information Proc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistical-clerk/KR)**

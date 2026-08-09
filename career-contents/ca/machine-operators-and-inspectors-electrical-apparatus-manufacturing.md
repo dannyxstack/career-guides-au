@@ -53,8 +53,6 @@ Operate and monitor machines in an electrical equipment manufacturing plant, ass
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Electrical and electronics engineering technician roles will not be replaced by AI; instead, they will be greatly enhanced by AI tools. However, entry-level administrative and testing tasks will be automated, requiring mastery of new technologies.
-
 Start as an entry-level operator, can advance to senior operator, production line supervisor, or quality control technician. Through certifications (e.g., CET), can move to technical or management positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Start as an entry-level operator, can advance to senior operator, production lin
 | Subclass PNP (Provincial Nominee Program) | In major manufacturing provinces such as Ontario and Quebec, there may be provincial nomination programs that allow applications without employer sponsorship, but they must align with provincial labor market needs. |
 | Subclass LMIA (Labour Market Impact Assessment) | If you receive a job offer from a Canadian employer, the employer can apply for an LMIA to support a work permit application and add points for subsequent Express Entry. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a high school diploma, but a vocational certificate or ass
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-operators-and-inspectors-electrical-apparatus-manufacturing/CA)**

@@ -52,8 +52,6 @@ Operate open-cut or underground mining equipment such as excavators, bulldozers,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Career progression: from junior operator to senior operator or supervisor, can move into mining supervision, blasting engineering, mine planning, etc., requiring experience + relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression: from junior operator to senior operator or supervisor, can m
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Eligible for Skilled Migration, based on salary and skills assessment |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employers can sponsor, suitable for those wanting to work in New Zealand first. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Requires New Zealand mining certificate (Level 3/4) and heavy vehicle license
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-machine-operator/NZ)**

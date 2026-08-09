@@ -1,10 +1,8 @@
-# Funeral Director, Crematory Operator 职业分析 · 日本
+# 殡葬总监，火化操作员（Funeral Director, Crematory Operator）职业分析 · 日本
 
-**职业代码: 425 (JSCO)**
+**职业代码：425 (JSCO)**
 
-Professionals who plan and conduct funerals and operate/manage cremation furnaces. They empathize with bereaved families and ensure smooth ceremonies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+规划和举办葬礼、操作/管理火化炉的专业人员。他们同情丧亲家庭并确保仪式顺利进行。
 
 
 ---
@@ -13,9 +11,9 @@ Professionals who plan and conduct funerals and operate/manage cremation furnace
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（After completing compulsory education） |
-| Funeral Vocational School | 2 年 | $1,000,000~$2,000,000（Estimated Tuition） |
-| Funeral Industry Training | 6 months | $500,000~$1,000,000（Private Qualification Training） |
+| 高中文凭 | 3年 | $0~$0（完成义务教育后） |
+| 殡葬职业学校 | 2 年 | $1,000,000~$2,000,000（预估学费） |
+| 殡葬行业培训 | 6个月 | $500,000~$1,000,000（私立资格培训） |
 
 ---
 
@@ -23,18 +21,18 @@ Professionals who plan and conduct funerals and operate/manage cremation furnace
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Funeral Director Skills Examination | Japan Funeral Academy | 可选 | Professional funeral directing qualification |
-| Cremation Technology Manager | Japan Cremation Technology Association | 可选 | Professional qualification for cremation furnace operation |
-| Health Manager | Ministry of Health, Labour and Welfare | 可选 | Useful for crematory sanitation management |
+| 殡葬师技能考试 | Japan Funeral Academy | 可选 | 专业殡葬指导资格 |
+| 火化技术经理 | 日本火葬技术协会 | 可选 | 火化炉操作专业资格 |
+| 健康经理 | 厚生劳动省 | 可选 | 用于火葬场卫生管理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 45,000. With the declining birthrate and aging population, the number of deaths is increasing, but funerals are becoming smaller and simpler, so demand is flat. Ongoing labor shortage.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 45,000。With the declining birthrate and aging population, the number of deaths is increasing, but funerals are becoming smaller and simpler, so demand is flat. Ongoing labor shortage.
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,92 +40,84 @@ Professionals who plan and conduct funerals and operate/manage cremation furnace
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,800,000~$3,800,000 | Annual Salary Example |
-| Intermediate (4–10 years) | $3,800,000~$5,200,000 | Section Manager |
-| Senior (11+ years) | $5,000,000~$7,000,000 | Manager/Director |
+| Beginner (0–3 years) | $2,800,000~$3,800,000 | 年薪示例 |
+| 中级（4-10年） | $3,800,000~$5,200,000 | 部门经理 |
+| 高级（11年以上） | $5,000,000~$7,000,000 | 经理/总监 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot replace human empathy required in tasks such as dealing with bereaved families or conducting ceremonies, so demand for funeral directors will remain. However, AI and automation are advancing in areas like automated crematory operation and office work efficiency.
+人工智能无法取代处理丧亲或举行仪式等任务所需的人类同理心，因此对殡葬师的需求仍将存在。然而，在自动化火化操作和办公室工作效率等方面，人工智能和自动化正在推进。
 
-After joining a funeral company, start as an apprentice, gain experience, and advance to chief or funeral director. Crematory operators need furnace management expertise.
+加入殡葬公司后，从学徒开始，积累经验，晋升为主管或殡仪总监。火葬场操作员需要炉管理专业知识。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Crematory monitoring/operation (automated)
-- Office/accounting processing (AI automation)
+- 火化监控/操作（自动化）
+- 办公室/会计处理（AI自动化）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analysis of bereaved family needs (AI trend prediction)
-- Funeral planning (AI optimization support)
+- 丧亲家属需求分析（AI趋势预测）
+- 葬礼策划（AI优化支持）
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy and emotional support
-- Knowledge of religious/cultural ceremonies
-- Adaptability and problem-solving skills
+- 同理心和情感支持
+- 了解宗教/文化仪式
+- 适应能力与解决问题的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Counseling skills
-- Knowledge of religions and denominations
-- Etiquette and customer service
-- Crisis management skills
+- 咨询技巧
+- 宗教与教派知识
+- 礼仪与客户服务
+- 危机管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 殡葬师
-- Crematory Operator
-- Family Funeral
-- End-of-Life Consultant
+- 火化场操作员
+- 家庭葬礼
+- 临终咨询师
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Funeral-related work may qualify under Engineer/Specialist in Humanities/International Services but requires advanced expertise. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not currently included in the Specified Skilled Worker fields. |
-| Subclass 技能 (Skilled Labor) | Possible for skilled tasks like cremator operation, but not common. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who can sincerely face death
-- Someone who can control emotions
-- Someone interested in conducting ceremonies
+- 能够真诚面对死亡的人
+- 能控制情绪的人
+- 对举办仪式感兴趣的人
 
 **谁不适合**
-- Someone overly sensitive to hygiene
-- Someone who empathizes too much
+- 对卫生过度敏感的人
+- 共情过强的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a funeral director?**
-答：About ¥3 million for entry-level, ¥4-5 million for mid-level, and ¥5-7 million for advanced level. Varies depending on qualifications and experience.
+**问：殡葬总监平均年收入是多少？**
+答：初级约300万日元，中级约400-500万日元，高级约500-700万日元。依资格和经验而异。
 
-**问：Can foreigners work as funeral directors in Japan?**
-答：Possible with an Engineer/Specialist in Humanities/International Services visa, but advanced Japanese language skills and deep understanding of funeral culture are required. Not eligible for Specified Skilled Worker.
+**问：外国人能在日本当葬礼司仪吗？**
+答：可能通过人文/国际服务领域的工程师/专家签证，但需要高级日语技能和对殡葬文化的深入了解。不符合特定技能工人的条件。
 
-**问：Are there necessary qualifications?**
-答：No mandatory qualifications, but having the Funeral Director Skills Examination or Cremation Technology Management Specialist certification is advantageous.
+**问：有必要资格吗？**
+答：无强制资格要求，但持有殡仪指导技能考试或火化技术管理专家证书者优先。
 
 
 ---
@@ -145,12 +135,12 @@ After joining a funeral company, start as an apprentice, gain experience, and ad
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/funeral-director-crematory-operator/JP)**

@@ -53,8 +53,6 @@ Responsible for installation, commissioning, maintenance, and repair of refriger
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 You can start as an apprentice or CAP, and advance to team leader, technical manager, or start your own company. It can also develop into sub-sectors such as industrial refrigeration and renewable energy systems.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can start as an apprentice or CAP, and advance to team leader, technical man
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents such as engineers or experts, who can obtain a 4-year residence permit |
-| Subclass Salarié (Salaried Employee Visa) | A work contract with a French employer must be obtained, and the French Labor Office will review the shortage status |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of approximately 53,000 euros or more (2025) is required for high-paying positions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted to team leader, technical manager, or start your own inst
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-and-air-conditioning-installation-and-maintenance-technician/FR)**

@@ -4,8 +4,6 @@
 
 Engaged in fashion displays, advertising shoots, artistic styling, and other work, conveying product images or artistic concepts through body language and expressiveness.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in fashion displays, advertising shoots, artistic styling, and other wor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on fashion and art models is mixed: automation will compress low-end fitting and basic shooting tasks, but AI enhances creative expression and virtual fitting experiences, while the unique temperament and spontaneous expression of real models remain a moat.
-
 Starting as a junior model, you can develop into an exclusive model for well-known brands, a fashion blogger, or a model agent, with some shifting into performing arts or fashion management.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Starting as a junior model, you can develop into an exclusive model for well-kno
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Must be employed by a French modeling agency or brand, obtain a work permit, and be eligible for long-term contract models. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for models with international reputation or high earning potential, requiring portfolio and contract proof. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Temporary graduate residence, allows seeking modeling work in France. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: You can use the Salarié work visa (employer sponsorship) or the Passeport Ta
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-model-and-artistic-pose-model/FR)**

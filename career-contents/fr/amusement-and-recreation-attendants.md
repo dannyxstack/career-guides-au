@@ -4,8 +4,6 @@
 
 In theme parks, amusement parks, water parks, and similar venues, they are responsible for operating amusement facilities, guiding visitors, ensuring safety, and maintaining order.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In theme parks, amusement parks, water parks, and similar venues, they are respo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Entertainment and recreation service jobs will significantly decrease due to automation like self-service ticketing, virtual queuing, and AI customer service; entry-level tasks are compressed, but operation and maintenance tasks still rely on labor.
-
 Promotion from junior operator to team leader, safety coordinator, or facility manager; It can also be expanded into tourism reception or event planning.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Promotion from junior operator to team leader, safety coordinator, or facility m
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (sponsored work permit)) | Requires employer sponsorship, proof that suitable candidates cannot be recruited within the EU, generally not applicable to low-skilled positions. |
-| Subclass Recherche emploi (Job search (post-study)) | After graduating in France, international students can apply for a one-year job-seeking visa, and if they find a job, they can convert to working residence. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted from operator to team leader, safety coordinator, or faci
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/amusement-and-recreation-attendants/FR)**

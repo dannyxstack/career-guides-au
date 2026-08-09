@@ -1,8 +1,8 @@
-# Physical Therapist/Occupational Therapist 职业分析 · 日本
+# 物理治疗师/职业治疗师（Physical Therapist/Occupational Therapist）职业分析 · 日本
 
-**职业代码: 144 (JSCO)**
+**职业代码：144 (JSCO)**
 
-A national qualification for providing specialized rehabilitation to patients with reduced physical function due to illness or injury at medical and long-term care facilities.
+一项国家资格，为因疾病或损伤导致身体机能下降的患者在医疗和长期护理机构提供专业康复服务。
 
 
 ---
@@ -11,9 +11,9 @@ A national qualification for providing specialized rehabilitation to patients wi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (daytime) | 3年 | $5,000,000~$7,000,000（Total tuition including facility fees） |
-| University (e.g., Physical Therapy Department) | 4年 | $4,000,000~$6,000,000（Annual tuition; total for 4 years approx. 4x above） |
-| Graduate school (Master's) | 2 年 | $2,000,000~$3,000,000（Annual tuition, research fees separate） |
+| 职业学校（全日制） | 3年 | $5,000,000~$7,000,000（含设施费的总学费） |
+| 大学（例如物理治疗系） | 4年 | $4,000,000~$6,000,000（年学费；4年总费用约为上述的4倍） |
+| 研究生院（硕士） | 2 年 | $2,000,000~$3,000,000（年学费，研究费用另计） |
 
 ---
 
@@ -21,19 +21,19 @@ A national qualification for providing specialized rehabilitation to patients wi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Physical Therapist License | Ministry of Health, Labour and Welfare | 必备 | Obtained after passing national exam |
-| Occupational Therapist License | Ministry of Health, Labour and Welfare | 必备 | Obtained after passing national exam |
-| Certified Physical Therapist | Japanese Physical Therapy Association | 可选 | Eligible with 5+ years clinical experience |
-| Certified Occupational Therapist | Japanese Occupational Therapy Association | 可选 | Eligible with 5+ years clinical experience |
+| 物理治疗师执照 | 厚生劳动省 | 必备 | 通过国家考试后获得 |
+| 职业治疗师执照 | 厚生劳动省 | 必备 | 通过国家考试后获得 |
+| 认证物理治疗师 | 日本物理治疗协会 | 可选 | 需要5年以上临床经验 |
+| 认证职业治疗师 | 日本作业疗法士协会 | 可选 | 需要5年以上临床经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 250,000. Demand is expected to increase with aging population, especially in home-visit rehabilitation; stable employment with many new job openings.
+**职位需求量：很高（★★★★½）** 全国从业人数约 250,000。随着人口老龄化，需求预计增加，尤其是在上门康复方面；就业稳定，新职位较多。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,94 +41,86 @@ A national qualification for providing specialized rehabilitation to patients wi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$4,200,000 | Hospital employment, including bonuses |
-| Mid-level (4-9 years) | $4,200,000~$5,400,000 | Increases with experience, includes home-visit rehabilitation bonuses |
-| 资深（10年以上） | $5,400,000~$7,000,000 | High pay for managerial/specialist outpatient roles |
+| 入门级（0-3年） | $3,500,000~$4,200,000 | 医院就业，含奖金 |
+| 中级（4-9年） | $4,200,000~$5,400,000 | 随经验增长，包括上门康复补贴 |
+| 资深（10年以上） | $5,400,000~$7,000,000 | 管理/专科门诊岗位高薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI aids in planning rehabilitation plans and motion analysis, but interpersonal care and on-the-spot decisions remain human-dependent. AI complements rather than replaces.
+AI辅助规划康复计划和运动分析，但人际关怀和现场决策仍依赖人类。AI是补充而非替代。
 
-Gaining clinical experience and obtaining certifications (e.g., certified physical therapist) or master's degree beneficial for career advancement; paths to managerial and educational roles open.
+积累临床经验并获得认证（如认证物理治疗师）或硕士学位有利于职业发展；可晋升管理和教育岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording and aggregating patient data
-- Partial automation of motion analysis
-- Generating initial templates for rehabilitation plans
+- 记录和汇总患者数据
+- 运动分析的部分自动化
+- 生成康复计划的初始模板
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Motion analysis and feedback
-- Visualizing rehabilitation progress
-- Remote rehabilitation support
+- 运动分析与反馈
+- 康复进展可视化
+- 远程康复支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Psychological care for patients
-- Clinical reasoning and application
-- Coordination in team-based healthcare
+- 人际沟通
+- 患者心理护理
+- 临床推理与应用
+- 团队医疗协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation skills for AI rehabilitation tools
-- Data analysis and statistical literacy
-- English proficiency (papers, international conferences)
+- AI康复工具的操作技能
+- 数据分析与统计素养
+- 英语能力（论文、国际会议）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home-visit rehabilitation
-- Preventive care
-- Sports rehabilitation
-- Robot-assisted rehabilitation
+- 上门康复
+- 预防性护理
+- 运动康复
+- 机器人辅助康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable after university graduation and PT license; N2 Japanese required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Long-term Care)) | Possible only in long-term care. PT work not allowed. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Long-term Care)) | Only long-term care. PT excluded. |
-| Subclass 特定活動（難民等） (Designated Activities (Refugee application pending)) | Work restrictions; PT work difficult. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who want to contribute to people's recovery
-- Those interested in the workings of the body
-- Those proactive in team-based medical care
+- 想要帮助他人康复的人
+- 对身体运作感兴趣的人
+- 积极主动的团队医疗参与者
 
 **谁不适合**
-- Those who prefer a lot of desk work
-- Those with a risk-averse, stability-oriented mindset
+- 喜欢大量案头工作的人
+- 风险规避、注重稳定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a physical therapist?**
-答：Approximately 3.5–4.2 million yen in the first year, and around 5.4–7 million yen after 10+ years. Varies by workplace, region, and specialization.
+**问：物理治疗师的年收入是多少？**
+答：第一年约350-420万日元，10年以上约540-700万日元。视工作场所、地区和专业领域而异。
 
-**问：Can foreigners work as physical therapists in Japan?**
-答：Yes. Passing the national exam and obtaining the 'Engineer/Specialist in Humanities/International Services' residence status is required. Japanese proficiency (around N2) is necessary.
+**问：外国人能在日本当物理治疗师吗？**
+答：是。需要通过国家考试并获得“工程师/人文/国际服务专家”居留身份。需要日语能力（约N2水平）。
 
-**问：What are the career advancement options?**
-答：Options include acquiring certified or specialist physical therapist qualifications, pursuing graduate studies, or moving into management or education. Specialization in fields like sports is also possible.
+**问：有哪些职业晋升选择？**
+答：可选择获取认证或专科物理治疗师资格、攻读研究生课程或转向管理或教育领域。也可专门从事运动等领域。
 
 
 ---
@@ -146,12 +138,12 @@ Gaining clinical experience and obtaining certifications (e.g., certified physic
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/physical-therapist-occupational-therapist/JP)**

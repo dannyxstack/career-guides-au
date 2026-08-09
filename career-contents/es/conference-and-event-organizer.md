@@ -51,8 +51,6 @@ Responsible for planning, organizing, and managing various meetings, exhibitions
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some repetitive and procedural tasks for meeting and event planners will be automated by AI (such as schedule generation and supplier price comparison), but core capabilities like creative planning, customer relationship management, and on-site response are enhanced by AI tools (such as virtual event platforms and data analysis), resulting in mixed outcomes for the overall position.
-
 You can start as an event assistant and, after gaining experience, be promoted to event manager, senior planner, or join a large convention and exhibition company as a project manager. Some have turned to corporate event planning or started their own businesses.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can start as an event assistant and, after gaining experience, be promoted t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence requires employer sponsorship and proof that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Qualified Professional Visa) | High-skilled professional visa, applicable for university degree and meeting salary threshold (about 34,000 euros+). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: You can apply for a Employed Work Residence (Cuenta ajena) or a Highly Skille
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conference-and-event-organizer/ES)**

@@ -1,10 +1,8 @@
-# Reporter 职业分析 · 韩国
+# 记者（Reporter）职业分析 · 韩国
 
-**职业代码: 41632 (KECO)**
+**职业代码：41632 (KECO)**
 
-A broadcast specialist who collects and reports information through on-site coverage and interviews in fields such as news, sports, and entertainment.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过新闻、体育、娱乐等领域的现场报道和采访收集并报道信息的广播专家。
 
 
 ---
@@ -13,8 +11,8 @@ A broadcast specialist who collects and reports information through on-site cove
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $40,000,000~$80,000,000（Based on a 4-year university's Department of Journalism and Mass Communication/Media Studies, KRW 10-20 million per year） |
-| 副学士学位 | 2년 | $15,000,000~$30,000,000（Broadcasting and video-related college: 7 to 15 million KRW per year） |
+| 本科（学士学位） | 4年 | $40,000,000~$80,000,000（基于四年制大学的新闻与大众传播/媒体研究系，每年1000-2000万韩元） |
+| 副学士学位 | 2年 | $15,000,000~$30,000,000（广播与视频相关学院：每年700万至1500万韩元） |
 
 ---
 
@@ -22,17 +20,17 @@ A broadcast specialist who collects and reports information through on-site cove
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean language ability (required for locals) | 不适用 | 必备 | Native-level fluency and standard language proficiency required |
-| Broadcast Communication Engineer or Projectionist | Korea Broadcasting and Telecommunications Promotion Agency | 可选 | Employment bonus points, not mandatory |
+| 韩语能力（本地要求） | 不适用 | 必备 | 需要母语级流利度和标准语言能力 |
+| 广播通信工程师或放映员 | 韩国广播通信振兴院 | 可选 | 就业加分项，非必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Content demand rises due to digital media expansion, but hiring at traditional broadcasters is stagnant. Competition from freelancers, YouTube, and other alternative channels intensifies, so the employment outlook is flat.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。数字媒体扩张带来内容需求上升，但传统广播公司招聘停滞。来自自由职业者、YouTube和其他替代渠道的竞争加剧，就业前景持平。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,91 +38,84 @@ A broadcast specialist who collects and reports information through on-site cove
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 yrs) | $28,000,000~$35,000,000 | Based on terrestrial/general channels, freelancers show high fluctuation. |
-| 中级（4-7年） | $40,000,000~$60,000,000 | Salary increase when experience is recognized, freelancer negotiable |
-| 高级（8年+） | $60,000,000~$99,999,999 | Professional Anchor/Main Reporter, Freelance High-Paying Contract Available |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于陆地/普通渠道，自由职业者波动较大。 |
+| 中级（4-7年） | $40,000,000~$60,000,000 | 经验被认可时加薪，自由职业者可协商 |
+| 高级（8年+） | $60,000,000~$99,999,999 | 专业主播/首席记者，自由职业高薪合同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI is used as an assistive tool rather than fully replacing reporters' work. AI automatic captioning, data analysis assistance, and video editing automation increase productivity, but core tasks requiring human judgment, such as on-site reporting and interviews, are difficult to replace.
+AI作为辅助工具而非完全取代记者工作。AI自动字幕、数据分析辅助和视频编辑自动化提高了生产力，但需要人类判断的核心任务（如现场报道和采访）难以替代。
 
-Typically, after joining terrestrial/general/cable broadcasters, progress from reporter to special correspondent to professional anchor. Career changes and freelance transitions are common, digital content production skills are important.
+通常，加入地面/综合/有线广播公司后，从记者晋升到特派记者再到专业主播。转行和自由职业转变很常见，数字内容制作技能很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- AI Voice Reading
-- Automatic Captioning
-- Basic Article Writing
+- AI语音朗读
+- 自动字幕生成
+- 基本文章写作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Video Editing Automation
-- Data Analysis
-- AI Reporting Assistance
+- 视频编辑自动化
+- 数据分析
+- AI报告辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- On-Site Reporting
-- Conducting Interviews
-- Original Content Planning
+- 现场报道
+- 进行面试
+- 原创内容策划
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Media Production
-- Data Journalism
-- Using AI Tools
+- 数字媒体制作
+- 数据新闻学
+- 使用AI工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Reporter
-- Broadcast journalist
-- Video journalist
-- Digital Media
+- 记者
+- 广播记者
+- 视频记者
+- 数字媒体
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | E-7 (Professional) visa available for hiring foreign reporters, Korean language ability required |
-| Subclass F-2 (Residence) | Long-term resident, freedom for broadcasting activities |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person who is curious and enjoys meeting people
-- Person with quick wit and excellent stress management
+- 好奇且喜欢与人交往的人
+- 思维敏捷、压力管理能力出色的人
 
 **谁不适合**
-- Person who gets nervous in front of the camera
-- Person who dislikes irregular schedules
+- 在镜头前紧张的人
+- 不喜欢不规律作息的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a reporter's salary?**
-答：Entry-level: 28-35 million KRW; 8+ years experience: 60 million to 100 million KRW. Freelancers vary greatly by negotiation.
+**问：记者的薪资是多少？**
+答：入门级：2800-3500万韩元；8年以上经验：6000万至1亿韩元。自由职业者因谈判差异大。
 
-**问：Can foreigners work as reporters in Korea?**
-答：Possible with an E-7 visa (Specific Activities), but Korean language ability and relevant experience are mandatory, and opportunities are very limited.
+**问：外国人能在韩国当记者吗？**
+答：持E-7签证（特定活动）可能，但需要韩语能力和相关经验，且机会非常有限。
 
-**问：Do I need to graduate from a broadcasting university to become a reporter?**
-答：Not mandatory, but a related major is advantageous. Practical skills and portfolio are more important than credentials.
+**问：成为记者需要毕业于广播大学吗？**
+答：非强制，但相关专业有优势。实践技能和作品集比学历更重要。
 
 
 ---
@@ -142,12 +133,12 @@ Typically, after joining terrestrial/general/cable broadcasters, progress from r
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/reporter/KR)**

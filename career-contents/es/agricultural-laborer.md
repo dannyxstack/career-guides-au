@@ -4,8 +4,6 @@
 
 Agricultural workers perform daily manual labor on the farm, including planting, harvesting, irrigation, fertilizing, and caring for livestock. The work is highly seasonal and often takes place outdoors.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Agricultural workers perform daily manual labor on the farm, including planting,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Farm workers (crops, nurseries, greenhouses) face very high automation replacement risk: repetitive physical tasks (e.g., weeding, picking, sorting) are rapidly covered by agricultural robots and AI vision systems; entry-level positions are shrinking significantly, leaving only irregular or high-precision manual operations
-
 Agricultural workers usually lack formal promotion paths but can become agricultural technicians or farm supervisors. Some have transitioned through vocational training to become agricultural machinery operators or consultants.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Agricultural workers usually lack formal promotion paths but can become agricult
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Spanish employer-sponsored work residency. It must be proven that the position cannot be filled by a local person or EU citizen, and the employer must provide a contract. |
-| Subclass Temporada (Seasonal Work Permit) | The seasonal agricultural work visa is generally valid for 4-9 months and requires the employer to apply for a collective quota (gestión colectiva). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Limited. You can be promoted to agricultural supervisor or farm manager, or t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-laborer/ES)**

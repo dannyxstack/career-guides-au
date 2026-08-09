@@ -52,8 +52,6 @@ Responsible for designing clothing and accessory collections, keeping up with tr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
-
 Junior designers can advance to senior designer or creative director, or move into related fields such as buying and styling. Starting an independent brand is also a common path, requiring industry connections.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior designers can advance to senior designer or creative director, or move in
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green list Tier 2 occupation, eligible for residence after 2 years of work, with an accredited employer. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, as a transitional or experience-gaining pathway, can later switch to other migration routes. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Diploma: approx. NZ $20,000-30,000; bachelor's: approx. $50,000-70,000; maste
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-designer/NZ)**

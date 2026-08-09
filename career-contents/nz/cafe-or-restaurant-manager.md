@@ -53,8 +53,6 @@ A cafe or restaurant manager oversees the daily operations of a food and beverag
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Entry-level roles can advance to regional manager or operations director, or start their own food business. Multicultural background helps in high-end dining or tourist hotspots.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level roles can advance to regional manager or operations director, or sta
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | Residency can be applied for after 2 years in the occupation, requiring salary at median |
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain work visa through accredited employer, up to 3 years, can lead to residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Mandatory food safety certificate, hotel management diploma recommended. Over
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cafe-or-restaurant-manager/NZ)**

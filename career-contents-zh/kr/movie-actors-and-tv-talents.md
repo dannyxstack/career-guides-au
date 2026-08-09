@@ -1,10 +1,8 @@
-# Movie actors and TV talents 职业分析 · 韩国
+# 电影演员和电视人才（Movie actors and TV talents）职业分析 · 韩国
 
-**职业代码: 41621 (KECO)**
+**职业代码：41621 (KECO)**
 
-A professional artist who creates characters by taking on roles in films, dramas, and plays based on acting skills, conveying emotion to the audience.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专业演员，基于演技在电影、电视剧和戏剧中扮演角色，向观众传达情感。
 
 
 ---
@@ -13,9 +11,9 @@ A professional artist who creates characters by taking on roles in films, dramas
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduation or higher | 0年 | $0~$0（无学历要求） |
-| Two-year College Department of Acting | 2 年 | $10,000,000~$20,000,000（Tuition Fee Basis） |
-| University Department of Theater and Film | 4年 | $20,000,000~$40,000,000（Tuition fee standard） |
+| 高中毕业及以上 | 0年 | $0~$0（无学历要求） |
+| 两年制大学表演系 | 2 年 | $10,000,000~$20,000,000（学费基准） |
+| 大学戏剧与电影系 | 4年 | $20,000,000~$40,000,000（学费标准） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional artist who creates characters by taking on roles in films, dramas
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Acting License | Korea Broadcasting Actors Association | 可选 | Required for broadcast actor registration |
-| Performing Arts Manager Certification | Korea Arts & Culture Committee | 可选 | 可选 |
+| 认证表演执照 | 韩国广播演员协会 | 可选 | 需要广播演员注册 |
+| 表演艺术经理认证 | 韩国文化艺术委员会 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 30,000. Opportunities exist due to the global popularity of Korean films and dramas, but audition competition is fierce and jobs are unstable, so the employment outlook is average.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 30,000。由于韩国电影和电视剧的全球流行存在机会，但试镜竞争激烈且工作不稳定，就业前景一般。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A professional artist who creates characters by taking on roles in films, dramas
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $12,000,000~$35,000,000 | Very high volatility based on supporting roles and newcomers. |
-| Mid-level (4-10 years) | $35,000,000~$99,999,999 | Supporting role, varies by frequency of appearance |
-| 资深（10年以上） | $99,999,999 | Lead stars, with top fees exceeding hundreds of millions of won per project |
+| 入门级（0-3年） | $12,000,000~$35,000,000 | 因支持角色和新人而异，波动性很大。 |
+| 中级（4-10年） | $35,000,000~$99,999,999 | 配角，因出场频率而异 |
+| 资深（10年以上） | $99,999,999 | 领衔主演，单个项目片酬高达数亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can generate virtual actors or backgrounds, but human actors' emotional acting and improvisation are not easily replaced, and AI is likely to expand content production opportunities instead.
+AI可以生成虚拟演员或背景，但人类演员的情感表演和即兴发挥不易被取代，AI反而可能扩大内容制作机会。
 
-After debut, actors grow from bit parts and supporting roles to leading roles, with pay rising significantly based on experience, but long-term stability is low.
+出道后，演员从跑龙套和配角逐步晋升为主角，薪酬随经验显著提升，但长期稳定性较低。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Background extras
-- Simple facial expression and dialogue generation
-- Body doubles through digital cloning
+- 背景演员
+- 简单的面部表情和对话生成
+- 通过数字克隆制作替身
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Motion capture acting assistance
-- AI-assisted editing and post-production
-- Personalized acting training systems
+- 动作捕捉表演辅助
+- AI辅助剪辑与后期制作
+- 个性化表演培训系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique emotional and empathy abilities
-- On-stage improvisation
-- Real-time interaction with audience
+- 独特的情感与共情能力
+- 舞台即兴表演
+- 与观众实时互动
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital human acting skills
-- Motion capture proficiency
-- Understanding of AI editing tools
+- 数字人表演技能
+- 动作捕捉技能
+- 了解AI编辑工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of OTT content
-- Global expansion of Hallyu
-- Diversity casting
-- Increase in short-form and web dramas
+- OTT内容扩张
+- 韩流全球扩张
+- 多元化选角
+- 短剧和网络剧增加
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-6 (Arts and Entertainment Visa) | Foreign actors need to work domestically; requires a sponsoring organization and proof of expertise |
-| Subclass F-2 (Residence Visa) | Allows long-term stay and free activity; can convert to points-based system |
-| Subclass F-5 (Permanent Residence Visa) | Obtainable after long-term stay; no activity restrictions |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with rich emotional expression and keen observation
-- Someone who constantly hones their acting skills and is not afraid of failure
+- 情感表达丰富、观察敏锐的人
+- 不断磨练演技且不畏失败的人
 
 **谁不适合**
-- Someone extremely reluctant to stand in front of the public
-- Someone who wants stable income and fixed working hours
+- 极不愿面对公众的人
+- 寻求稳定收入和固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a film actor?**
-答：Beginners earn around 12-35 million KRW, but except for a few stars, income is low and irregular. According to Statistics Korea, the median income for entertainers is about 30 million KRW.
+**问：电影演员的平均年薪是多少？**
+答：新手收入约1200-3500万韩元，但除少数明星外，收入低且不稳定。根据韩国统计厅，艺人收入中位数约3000万韩元。
 
-**问：What visa does a foreigner need to work as an actor in Korea?**
-答：An E-6 (Arts and Entertainment) visa is required, along with a contract from a domestic sponsoring organization (production company) and proof of expertise.
+**问：外国人在韩国做演员需要什么签证？**
+答：需E-6（艺术娱乐）签证，国内赞助组织（制作公司）合同及专业证明。
 
-**问：Do you need to go to college to become an actor?**
-答：It's not mandatory, and many debut with just a high school diploma. However, it's common to major in theater and film for systematic acting training.
+**问：成为演员需要上大学吗？**
+答：非强制，许多人仅凭高中文凭出道。但通常主修戏剧和电影以获得系统表演训练。
 
 
 ---
@@ -144,12 +134,12 @@ After debut, actors grow from bit parts and supporting roles to leading roles, w
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/movie-actors-and-tv-talents/KR)**

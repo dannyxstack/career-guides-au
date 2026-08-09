@@ -55,8 +55,6 @@ Correctional service officers in Canada are responsible for supervising inmates 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
-
 Junior correctional officers can advance to senior officer, supervisor, or instructor through experience, or move to roles like parole officer, case manager. Some provinces offer internal promotion paths requiring additional training or education.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior correctional officers can advance to senior officer, supervisor, or instr
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Must be a Canadian citizen or PR, pass background check, psychological assess
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correctional-service-officers/CA)**

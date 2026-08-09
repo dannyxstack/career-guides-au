@@ -52,8 +52,6 @@ Draftspersons and surveyors measure and map earth surface features, create maps 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mapping and surveying work is being profoundly reshaped by AI and automation: field data collection is highly automated, but office mapping and data analysis are enhanced by AI; entry-level positions are decreasing due to automation tools, but demand for advanced analysis and decision-making roles is increasing.
-
 Junior surveyors/cartographers can advance to project leaders, team supervisors, or move into roles such as GIS analyst, remote sensing specialist, or geographic information manager by gaining experience and obtaining professional qualifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior surveyors/cartographers can advance to project leaders, team supervisors,
 | Subclass General Employment P (General Employment Permit) | Annual salary must exceed €30,000, labor market test required, eligible for permanent residency after 5 years |
 | Subclass EU Blue Card (EU Blue Card) | Annual salary must be over €38,000 applicable to high-skilled technical roles; may bring family |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Includes site measurement, data processing, mapping, boundary determination, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographer-and-surveyor/IE)**

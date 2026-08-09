@@ -52,8 +52,6 @@ Responsible for the creative, financial, and organizational management of televi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of arts officers, producers, and directors will undergo profound AI-driven changes: low-level coordination and simple editing are automated, but core skills like creative decision-making, resource integration, and actor direction become more valuable due to AI tools. Entry pathways narrow; existing professionals need to transition into AI curators.
-
 Usually start as an assistant or production coordinator, then progress to producer or director with experience. Senior practitioners can move into senior management positions or set up their own production companies.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as an assistant or production coordinator, then progress to produc
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: The most common pathway is the Skilled Worker visa, requiring employer sponso
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arts-officers-producers-and-directors/UK)**

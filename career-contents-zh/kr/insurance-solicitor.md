@@ -1,10 +1,8 @@
-# Insurance Solicitor 职业分析 · 韩国
+# 保险销售员（Insurance Solicitor）职业分析 · 韩国
 
-**职业代码: 03322 (KECO)**
+**职业代码：03322 (KECO)**
 
-A profession that introduces insurance products, encourages contract signing, and supports customers in purchasing and maintaining insurance.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+介绍保险产品、推动签订合同并支持客户购买和维护保险的职业。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that introduces insurance products, encourages contract signing, an
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma (required) or associate degree or higher | 0 | $0~$500,000（No educational restrictions; exam fee for insurance agent qualification test is about 20,000 KRW, with almost no other training costs.） |
-| Insurance Agent Qualification Test | 0.2 | $20,000~$50,000（Administered by the Korea Insurance Research Institute; online testing available.） |
+| 高中文凭（必需）或副学士学位或更高 | 0 | $0~$500,000（无学历限制；保险代理人资格考试费用约2万韩元，几乎没有其他培训费用。） |
+| 保险代理人资格考试 | 0.2 | $20,000~$50,000（由韩国保险研究院管理；可在线考试。） |
 
 ---
 
@@ -22,18 +20,18 @@ A profession that introduces insurance products, encourages contract signing, an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Insurance Agent License | Life Insurance Association / Korea Non-Life Insurance Association | 必备 | Legally required qualification; divided into life and non-life insurance. |
-| Insurance Broker License | Financial Supervisory Service | 可选 | Optional but advantageous for securing large contracts. |
-| CFP/ AFPK | FPSB Korea | 可选 | Recognizes financial planning expertise, enhances customer trust. |
+| 保险代理人执照 | 寿险协会 / 韩国非寿险协会 | 必备 | 法律要求的资格；分为人寿保险和非人寿保险。 |
+| 保险经纪人执照 | 金融监督院 | 可选 | 非强制但有利于获取大额合同 |
+| CFP/ AFPK | FPSB Korea | 可选 | 认可财务规划专业知识，增强客户信任。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 280,000. Due to market maturity and digital transformation, demand for new solicitors is stagnant, but an aging population and complex products require skilled solicitors steadily.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 280,000。由于市场成熟和数字化转型，对新律师的需求停滞，但人口老龄化和复杂产品需要熟练律师的稳步增长。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,93 +39,86 @@ A profession that introduces insurance products, encourages contract signing, an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $20,000,000~$40,000,000 | Mostly commission-based; low fixed salary, making it hard to make a living. |
-| Intermediate (4–10 years) | $40,000,000~$80,000,000 | Securing high-quality clients generates stable income. |
-| Advanced (10+ years/team leader) | $80,000,000~$99,999,999 | Includes team management allowances and strong sales performance. |
+| 初级（0-3年） | $20,000,000~$40,000,000 | 主要靠佣金；固定工资低，难以维持生计。 |
+| 中级（4-10年） | $40,000,000~$80,000,000 | 获得高质量客户可带来稳定收入。 |
+| 高级（10年以上/团队领导） | $80,000,000~$99,999,999 | 包括团队管理津贴和强劲的销售业绩。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As AI and digital platforms automate insurance product comparison, recommendation, and contract execution, the role of traditional insurance agents is shrinking. Simple product guidance or quantitative comparisons are replaced by AI, but humans still have the upper hand in complex coverage design and relationship sales based on customer trust.
+随着人工智能和数字平台自动化保险产品比较、推荐和合同执行，传统保险代理人的角色正在缩小。简单的产品指导或定量比较被人工智能取代，但在复杂保险设计和基于客户信任的关系销售方面，人类仍占优势。
 
-Beginners start with referral sales; with experience, they can advance to team leader or branch manager, or move to major non-life or life insurers. Many also switch from agents to GA (General Agency) affiliations.
+初学者从推荐销售开始；有经验后可晋升为团队负责人或分公司经理，或转至主要非寿险或寿险公司。许多人还从代理人转为GA（总代理）附属。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple product comparison and explanation
-- Contract document preparation and processing
-- Basic customer inquiry response
+- 简单的产品对比和说明
+- 合同文件准备与处理
+- 基本客户咨询回复
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer needs analysis
-- Customized coverage design
-- Long-term customer relationship management
+- 客户需求分析
+- 定制化保障设计
+- 长期客户关系管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust-based relationships with customers
-- Complex risk counseling ability
-- Human empathy and persuasion
+- 基于信任的客户关系
+- 复杂风险咨询能力
+- 人类同理心和说服力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital marketing ability
-- Financial planning knowledge
-- Data analysis-based customer acquisition
-- Personal branding
+- 数字营销能力
+- 财务规划知识
+- 基于数据分析的客户获取
+- 个人品牌
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital insurance
-- Expansion of GA channels
-- Demand for aging coverage
-- Preference for professional planners
+- 数字保险
+- GA渠道扩展
+- 老龄化报道需求
+- 偏好专业规划师
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can be issued to professional insurance personnel (e.g., actuaries), but rare for general insurance solicitors |
-| Subclass F-2 (Residence) | Pre-permanent residence stage, no restrictions on insurance solicitor activities |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with an active sales mindset and excellent interpersonal skills
-- Someone goal-oriented and resilient to stress
-- Someone who values customer relationship maintenance and long-term trust
+- 具备积极销售心态和优秀人际交往能力的人
+- 目标导向且抗压能力强的人
+- 重视客户关系维护和长期信任的人
 
 **谁不适合**
-- Someone who prefers fixed salary and stable work
-- Someone sensitive to interpersonal stress
+- 喜欢固定工资和稳定工作的人
+- 对人际压力敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of an insurance solicitor?**
-答：The starting salary is typically 20~40 million KRW, but as it is commission-based, fixed income is low, and making a living may be difficult in the first 1-2 years.
+**问：保险销售员的起薪是多少？**
+答：起薪通常为2000~4000万韩元，但由于是佣金制，固定收入低，最初1-2年谋生可能困难。
 
-**问：Can foreigners work as insurance solicitors in Korea?**
-答：General insurance solicitors are not eligible for E-7 visas, and mostly only Korean nationals can work. However, professional insurance personnel (actuaries, etc.) can work on an E-7 visa, though cases are rare.
+**问：外国人可以在韩国担任保险推销员吗？**
+答：普通保险推销员不符合E-7签证资格，大多只有韩国国民才能从事。但专业保险人员（精算师等）可在E-7签证下工作，不过案例很少。
 
-**问：Can I transition from an insurance solicitor to another occupation?**
-答：Transitioning to the finance sector is difficult, but some cases include moving to an internal insurance underwriter or customer center counselor, or starting a small business leveraging one's customer base.
+**问：我能从保险推销员转行到其他职业吗？**
+答：转行到金融领域困难，但有些案例包括转向内部保险核保人或客服中心顾问，或利用客户群创业。
 
 
 ---
@@ -145,12 +136,12 @@ Beginners start with referral sales; with experience, they can advance to team l
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/insurance-solicitor/KR)**

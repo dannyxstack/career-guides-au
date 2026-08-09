@@ -53,8 +53,6 @@ Government Customer Service Officer at Services Australia (Centrelink/Medicare),
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Government customer service officer roles will be significantly compressed by AI and digital government tools; routine inquiries and form processing are highly automatable, with entry-level hiring expected to drop by 30-50%; remaining roles require complex communication and administrative judgment.
-
 Pathway: Customer Service Officer → Team Leader/Specialist → Other public service roles; familiarity with systems and compliance processes aids internal development.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Pathway: Customer Service Officer → Team Leader/Specialist → Other public se
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: No, and usually requires Australian citizenship.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-customer-service-officer/AU)**

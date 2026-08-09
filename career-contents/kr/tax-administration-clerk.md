@@ -4,8 +4,6 @@
 
 A public official who performs tax administration tasks such as national tax collection, tax audits, and delinquent account management at tax offices. They are selected through exams and classified as a stable occupation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A public official who performs tax administration tasks such as national tax col
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will replace repetitive tasks like document processing and data entry, but humans will still handle complex tax judgments and investigations, strengthening some roles. Demand for specialized personnel will persist.
-
 Appointed mainly through grade 7-9 civil service exams, with promotion to grade 5 or above possible through promotion exams. Some are favored from tax universities.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ Appointed mainly through grade 7-9 civil service exams, with promotion to grade 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for overseas professionals in tax administration-related work, but typically a domestic-only occupation. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: Must pass performance evaluations and promotion exams; having tax accountant 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-administration-clerk/KR)**

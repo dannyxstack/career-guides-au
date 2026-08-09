@@ -54,8 +54,6 @@ Responsible for the assembly, soldering, and cable connection of electronic comp
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Electrical and electronic equipment assemblers face automation replacement risks; repetitive tasks are easily replaced by robots and AI. However, AI will also enhance their fault diagnosis and process optimization capabilities, raising job requirements and reducing low-end entry-level positions.
-
 Junior assemblers can be promoted to senior technicians, team leaders, or quality inspectors. Through vocational training, you can transition to electronic design or test engineering.
 
 **Tasks most exposed to AI:**
@@ -102,16 +100,9 @@ Junior assemblers can be promoted to senior technicians, team leaders, or qualit
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | A work contract with a French employer is required; if the occupation meets the criteria for shortage occupations, the process can be simplified, and the salary must be about 1.5 times the minimum wage. |
-| Subclass Passeport Talent (Passeport Talent (EU Blue Card equivalent)) | For high-skilled talent, annual salary must reach twice the French average salary (about EUR 53,000+), which this occupation typically does not meet. |
-| Subclass Carte bleue UE (EU Blue Card) | University degree or equivalent experience required, annual salary of 53,000+ euros, with few applications for this occupation. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +146,12 @@ A: Promotion can be made to Senior Technician, Team Leader, Quality Controller, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-assembly-and-wiring-technician/FR)**

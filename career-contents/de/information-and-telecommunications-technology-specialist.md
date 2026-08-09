@@ -51,8 +51,6 @@ Engages in planning, installing, maintaining, and optimising information technol
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Can advance from technician to system architect or project manager, or pivot to specialized fields like cybersecurity or cloud computing.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from technician to system architect or project manager, or pivot to 
 | Subclass Skilled Worker (Skilled Worker Visa) | No salary cap requirement; must hold accredited professional qualification or university degree. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows coming to Germany to find a job and try working. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, it is a shortage occupation, with a lower Blue Card threshold and a smoo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-and-telecommunications-technology-specialist/DE)**

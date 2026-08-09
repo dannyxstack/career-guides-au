@@ -51,8 +51,6 @@ Responsible for washing, dry cleaning, ironing, and pressing clothing, household
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In laundry worker roles, routine washing and ironing tasks are easily replaced by automation, but AI-driven intelligent sorting, quality inspection, and personalized services will enhance efficiency, while human skills like customer communication and complex stain treatment remain defensible.
-
 Can advance from laundry assistant to laundry supervisor or manager, but with limited growth potential. Some may transition to textile cleaning or related service industries.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can advance from laundry assistant to laundry supervisor or manager, but with li
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can advance to laundry supervisor or manager, or move to roles in textile cle
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/launderers-dry-cleaners-and-pressers/UK)**

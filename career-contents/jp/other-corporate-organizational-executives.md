@@ -4,8 +4,6 @@
 
 Executives responsible for management and governance of entities other than stock companies (e.g., general incorporated associations, medical corporations, school corporations, NPOs) and various organizations, such as directors, auditors, and councilors.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Executives responsible for management and governance of entities other than stoc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines management data analysis and compliance checks, supporting executives' decision-making. However, since final judgment and external responsibility remain with humans, complete substitution is difficult.
-
 The typical route is from general staff to management and then to executive. Expertise (accounting, law, management) and industry experience are required, and external recruitment is increasing.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ The typical route is from general staff to management and then to executive. Exp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to management or specialized work. Generally, executive roles are not permitted. |
-| Subclass 経営・管理 (Business Manager Visa) | Required for business operations as a corporate representative director, etc. Residency eligibility is strict. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable. Executive duties are not eligible. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: Difficult. A Business Manager visa is required, but the actual business opera
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-corporate-organizational-executives/JP)**

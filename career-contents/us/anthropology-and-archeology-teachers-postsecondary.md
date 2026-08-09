@@ -49,8 +49,6 @@ Teaching anthropology or archaeology courses at universities or colleges, balanc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Anthropology and archaeology professors' teaching and admin tasks will be largely automated by AI, but original research and fieldwork rely on human insight; job numbers may decrease with increased competition.
-
 Progress from assistant professor to associate professor and full professor, requiring high-quality publications and tenure. Alternatively, transition to museums, cultural heritage institutions, or government research roles.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Progress from assistant professor to associate professor and full professor, req
 | Subclass EB-2 (Employment-Based Second Preference) | Apply for a green card through PERM or National Interest Waiver (NIW) |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to outstanding scholars, requires proof of international reputation |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -143,12 +139,13 @@ A: University H-1B applications are not subject to the cap, making it easier. Ho
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anthropology-and-archeology-teachers-postsecondary/US)**

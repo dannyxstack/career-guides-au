@@ -52,8 +52,6 @@ Under the direction of physicians or other health practitioners, care for indivi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Psychiatric technicians' work will be significantly enhanced by AI rather than replaced, as core tasks rely on human emotional insight, unstructured interactions and real-time risk assessment, but AI can greatly improve data recording, pattern recognition and medication monitoring efficiency.
-
 Can advance from entry-level psychiatric technician to senior technician, team leader, or become a registered nurse, mental health counselor, etc. through further education; some institutions offer internal training promotion paths.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from entry-level psychiatric technician to senior technician, team l
 | Subclass EB-3 (Employment-Based Green Card (skilled workers)) | Requires PERM labor certification, proving no qualified US worker available; may be approved due to shortages but with long waiting periods |
 | Subclass TN (TN NAFTA Professional) | Limited to Mexican and Canadian citizens; positions must be listed on the NAFTA occupational list. Psychiatric technician is not explicitly included, but related medical professions may apply. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Most positions require an associate degree (2 years) or vocational certificat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychiatric-technicians/US)**

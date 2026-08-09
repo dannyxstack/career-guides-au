@@ -51,8 +51,6 @@ Operate and monitor food, beverage, and tobacco processing equipment, including 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Food, beverage, and tobacco processing operators face automation risks as AI and robots take over repetitive monitoring and operational tasks, significantly reducing entry-level positions.
-
 Can progress from junior operator to senior operator, production line supervisor, or move into quality control, equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Can progress from junior operator to senior operator, production line supervisor
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Most cases do not require formal education; employers provide on-the-job trai
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-drink-and-tobacco-process-operatives/UK)**

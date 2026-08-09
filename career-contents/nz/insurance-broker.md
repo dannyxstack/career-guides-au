@@ -52,8 +52,6 @@ Insurance brokers have a stable outlook in New Zealand's financial industry. The
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Insurance brokers face dual impact from AI automation and augmentation: tasks like policy search and data comparison are automated, but complex client consultations and risk solution design rely on human insight and emotional connection, making career value more polarized.
-
 Career development typically starts in sales or customer service, with experience leading to promotion to senior broker, team supervisor, or starting an independent brokerage. Certification and continuing education help improve competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career development typically starts in sales or customer service, with experienc
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Must be registered with the Financial Markets Authority (FMA) and complete th
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-broker/NZ)**

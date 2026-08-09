@@ -51,8 +51,6 @@ Financial analysts conduct quantitative analysis for investment institutions or 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior analyst, portfolio manager, or chief investment officer. Some move to private equity, hedge funds, or risk management, or obtain certifications like CFA to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior analysts can advance to senior analyst, portfolio manager, or chief inves
 | Subclass EB-2 (Employment-Based Second Preference) | Applicable for advanced degrees or exceptional ability, requires PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or skilled workers, with long waiting times |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Common path is EB-2 or EB-3, requires employer sponsorship; PERM process is c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-analysts/US)**

@@ -52,8 +52,6 @@ Responsible for analyzing user needs, designing software and multimedia solution
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 You can advance from junior developer to senior analyst/architect, move into project management (IT manager), technical director, or focus on data science or AI experts.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from junior developer to senior analyst/architect, move into pro
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled non-EU citizens, requiring a university degree and a work contract, with a salary threshold of approximately €33,908 (2023) |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled professionals, residency can be obtained quickly, requiring contracts and academic qualifications |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary employed work residence requires company sponsorship and meets labor market test requirements |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Non-mandatory, but if professional certification requires a university degree
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-and-multimedia-analysts-and-designers/ES)**

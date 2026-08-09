@@ -55,8 +55,6 @@ Sports coaches in Canada typically guide athletes or teams to improve skills, co
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed impacts on coaches, athletes, and sports officials: data analysis tools amplify training planning and tactical insights, but physical execution, on-field refereeing, and other core human skills are hard to replace in the short term.
-
 Career path progresses from assistant coach to head coach or sports director, and can also shift to fitness management, sports rehabilitation, or sports management. Holding a national coaching certification enhances professional status.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path progresses from assistant coach to head coach or sports director, an
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs (e.g., BC Tech, Ontario Human Capital) require an employer offer or high skills; some provinces are open to sports and cultural occupations |
 | Subclass EE (Express Entry (FSW)) | Federal Skilled Worker program, must meet NOC TEER 1 requirements (mostly sports management roles); coach itself is TEER 3, usually needs to be paired with management position |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Main pathway: Federal Self-Employed Program (requires self-employment in spor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coaches-athletes-and-sports-officials/CA)**

@@ -1,10 +1,8 @@
-# Tatami Maker 职业分析 · 日本
+# 榻榻米制作师（Tatami Maker）职业分析 · 日本
 
-**职业代码: 665 (JSCO)**
+**职业代码：665 (JSCO)**
 
-Artisan who produces, installs, and repairs traditional Japanese tatami mats. Main tasks include replacing tatami surfaces, making new mats, and laying tatami on flooring.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+制作、安装和维修传统日本榻榻米垫的工匠。主要任务包括更换榻榻米表面、制作新垫以及在木地板上铺设榻榻米。
 
 
 ---
@@ -13,9 +11,9 @@ Artisan who produces, installs, and repairs traditional Japanese tatami mats. Ma
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational Training School | 1~2年 | $0~$500,000（Public training may be free） |
-| Vocational School | 2 年 | $1,000,000~$2,000,000（Relevant departments: Architecture, etc.） |
-| 学徒制 | 3~5年 | $0~$0（Learn while earning a salary） |
+| 职业培训学校 | 1~2年 | $0~$500,000（公共培训可能免费） |
+| 职业学校 | 2 年 | $1,000,000~$2,000,000（相关领域：建筑等） |
+| 学徒制 | 3~5年 | $0~$0（边学习边赚钱） |
 
 ---
 
@@ -23,17 +21,17 @@ Artisan who produces, installs, and repairs traditional Japanese tatami mats. Ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tatami Manufacturing Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Grades 1, 2, 3 available; not mandatory but advantageous |
-| Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Beneficial for large-scale projects |
+| 榻榻米制造技工 | 厚生劳动省 | 可选 | 有1、2、3级可选；非强制但有利 |
+| 建筑工程管理工程师 | 国土交通省 | 可选 | 对大型项目有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 14,000. The number of artisans is declining due to reduced demand for Japanese-style rooms, but steady demand remains for high-end Japanese architecture and cultural property restoration. Aging workforce and lack of successors are notable.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 14,000。由于日式房间需求减少，工匠数量下降，但高端日式建筑和文化财产修复的需求稳定。劳动力老龄化和缺乏接班人的问题显著。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,69 +39,61 @@ Artisan who produces, installs, and repairs traditional Japanese tatami mats. Ma
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $2,500,000~$3,500,000 | Low during apprenticeship |
-| Mid (3–10 years) | $3,500,000~$5,000,000 | Rises with skill certification |
-| 资深（10年以上） | $5,000,000~$7,000,000 | Independent business can exceed ¥8 million annual income |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 学徒期间较低 |
+| 中级（3-10年） | $3,500,000~$5,000,000 | 随技能认证上升 |
+| 资深（10年以上） | $5,000,000~$7,000,000 | 独立经营年收入可超过800万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Tatami making relies on manual work and craftsmanship, with low risk of AI or automation replacement. However, the profession is shrinking due to declining tatami room demand. While mechanized tatami weaving and material processing are automated, installation and repair require human experience and intuition.
+榻榻米制作依赖手工和工艺，被AI或自动化替代的风险较低。然而，由于榻榻米房间需求下降，该职业正在萎缩。虽然机械化榻榻米编织和材料加工已自动化，但安装和维修需要人的经验和直觉。
 
-Start as an apprentice; become independent after passing the Grade 1 skill test. Career paths include independent business, workshop management, or wholesale/retail of tatami materials.
+从学徒开始；通过一级技能考试后成为独立从业者。职业路径包括独立经营、工坊管理或榻榻米材料批发/零售。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Mechanical tatami weaving
-- Automated material cutting
-- Inventory management system
+- 机械榻榻米编织
+- 自动化材料切割
+- 库存管理系统
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- CAD-based tatami room design
-- 3D scanning for measurement
-- E-commerce order handling
+- 基于CAD的榻榻米房间设计
+- 3D扫描测量
+- 电商订单处理
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual fine-tuning
-- Experience-based material selection
-- Direct customer consultation for needs
-- Preservation of traditional techniques
+- 手动微调
+- 基于经验的材料选择
+- 直接客户咨询了解需求
+- 传统技艺保护
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Tatami making and installation skills
-- Knowledge of architecture and tatami rooms
-- Customer service and sales skills
-- Ability to use digital tools
+- 榻榻米制作与安装技能
+- 建筑和榻榻米房间知识
+- 客户服务与销售技能
+- 数字化工具使用能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional architecture
-- Cultural property restoration
-- Renovation
-- High-end tatami rooms
+- 传统建筑
+- 文化财产修复
+- 翻新
+- 高档榻榻米房间
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Target of specified skilled work in construction. Requires skill test and Japanese N4 or higher. Max stay 5 years. No family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Tatami work is generally excluded, but possible with construction management knowledge. Requires university degree or higher. |
-| Subclass 技能 (Skilled Labor Visa) | Applicable if outstanding skills are recognized. Requires 10+ years of practical experience. Expertise in Japanese-style room construction needed. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -111,25 +101,25 @@ Start as an apprentice; become independent after passing the Grade 1 skill test.
 
 **谁适合**
 - 对传统手工艺有兴趣者
-- Dexterous and meticulous
-- Strong entrepreneurial spirit
+- 手巧且细致
+- 强烈的创业精神
 
 **谁不适合**
-- Wants to stay updated with latest technology
-- Seeks high income quickly
+- 希望紧跟最新技术
+- 追求高收入快回报
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a tatami mat maker?**
-答：During apprenticeship, annual income is typically 2.5–3.5 million yen. After skill acquisition, 3.5–5 million; after independence, 5–7 million or more.
+**问：榻榻米制作师的起薪是多少？**
+答：学徒期间，年收入通常为250–350万日元。掌握技能后为350–500万；独立后为500–700万或更多。
 
-**问：What visa does a foreigner need to become a tatami mat maker?**
-答：The most realistic route is Specified Skilled Worker (i) (Construction). You need a skills test and Japanese N4 or above, with a maximum stay of 5 years. Those with exceptional skills may qualify for a Specialist in Humanities/International Services visa, but require 10+ years of experience.
+**问：外国人成为榻榻米工匠需要什么签证？**
+答：最现实的途径是特定技能（i）（建筑）。需要通过技能考试和日语N4以上，最长停留5年。技能卓越者可能有资格申请人文/国际服务签证，但需要10年以上经验。
 
-**问：What is the future of tatami making?**
-答：Demand for tatami rooms is declining, but there is steady demand in high-end Japanese-style architecture, cultural property restoration, and renovation. With a shortage of young successors, skilled craftsmen can become independent and earn stable income.
+**问：榻榻米制作的未来是什么？**
+答：榻榻米房间的需求正在减少，但在高端日式建筑、文物修复和改造方面仍有稳定需求。由于年轻接班人短缺，熟练工匠可以独立创业并获得稳定收入。
 
 
 ---
@@ -147,12 +137,12 @@ Start as an apprentice; become independent after passing the Grade 1 skill test.
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tatami-maker/JP)**

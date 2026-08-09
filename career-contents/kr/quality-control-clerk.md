@@ -4,8 +4,6 @@
 
 A professional who manages quality standards in the manufacturing process, analyzes inspection data, and maintains/improves product quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who manages quality standards in the manufacturing process, analy
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation assist with data analysis and inspection tasks, but human roles remain essential for setting quality standards, customer response, and in-depth judgment. While routine recording tasks are replaced, decision-making capabilities become more important.
-
 Career path: New employee → Quality Control Assistant Manager → Deputy Manager → Manager → Quality Control Team Leader/Executive; ISO 9001 and Six Sigma certifications are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Career path: New employee → Quality Control Assistant Manager → Deputy Manag
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued only to skilled workers in the manufacturing quality control field; Korean language ability and experience required. |
-| Subclass F-2 (Residence (F-2-99)) | Long-term stay possible when converting to point system; advantageous for skilled professionals. |
-| Subclass D-10 (Job Seeking (D-10)) | Stay permitted for job-seeking activities for those with relevant degrees; switch to E-7 after employment. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: An associate degree or higher in engineering is common, and a quality managem
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-control-clerk/KR)**

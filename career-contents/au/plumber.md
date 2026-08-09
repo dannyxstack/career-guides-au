@@ -57,8 +57,6 @@ Plumbers install, maintain and repair water supply, drainage, gas and fire prote
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 The residential construction boom, ageing infrastructure upgrades, and green energy initiatives (heat pump hot water systems, hydrogen pipelines) continue to drive demand, with very low risk of AI replacement.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ The residential construction boom, ageing infrastructure upgrades, and green ene
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency — preferred pathway |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both are on the MLTSSL with similar pathways. Electricians earn slightly more
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber/AU)**

@@ -54,8 +54,6 @@ Responsible for preliminary preparations for construction sites and public works
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Manual labor and on-site operations for civil engineering and public works preparation workers are not easily replaced by AI, but intelligent tools such as design optimization and document automation will significantly improve efficiency. Entry-level positions (such as formwork and rebar workers) may be reduced due to automation, but demand for technical composite positions is increasing.
-
 You can be promoted from a regular worker to a team leader (Chef d'équipe), and then to a site supervisor (Conducteur de travaux). You can also switch to more specialized positions such as formwork or rebar workers through vocational training.
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ You can be promoted from a regular worker to a team leader (Chef d'équipe), and
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | For employed work residence, the employer must provide a labor contract, which applies to long-term employment |
-| Subclass Passeport Talent (Talent Passport) | Talent passport, applicable to high-skilled or in-demand occupations, valid for 4 years |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card for high-skilled positions earning over EUR 53,836.50/year; this occupation typically does not meet the salary threshold. |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, a job-seeking visa allows you to stay in France for one year to look for work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: Qualification certification (Reconnaissance des qualifications) must be compl
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-construction-and-civil-engineering-preparatory-work/FR)**

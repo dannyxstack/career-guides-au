@@ -53,8 +53,6 @@ Government administrative officers are general roles in the Australian Public Se
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Government administrative officers' office work is largely automatable, but complex tasks like decision-making, negotiation, and policy formulation are hard to replace; overall risks and opportunities coexist. Entry-level positions are compressed, but demand for new skills increases.
-
 Path: APS3/4 → APS5/6 → EL1/EL2; citizenship (required for most roles) and security clearance are key barriers.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Path: APS3/4 → APS5/6 → EL1/EL2; citizenship (required for most roles) and s
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: No, and most roles require Australian citizenship and are not on the skilled 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-servant-government-administration-officer/AU)**

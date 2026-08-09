@@ -4,8 +4,6 @@
 
 Insurance agents and brokers are financial professionals who connect insurance companies with customers, sell insurance products, and assist with customer risk management and claims.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Insurance agents and brokers are financial professionals who connect insurance c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is replacing insurance counseling automation and underwriting, but complex risk analysis and building trust relationships with clients remain a human domain. Face-to-face sales jobs are decreasing, but the scope of work will expand to high-value consulting such as comprehensive financial planning.
-
 Starting as an insurance solicitor, one can open an agency or transition to a broker, obtain FP (Financial Planner) certification, and grow to serve high-net-worth clients.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Starting as an insurance solicitor, one can open an agency or transition to a br
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a finance/insurance expert but not common |
-| Subclass F-2 (Residence) | Self-employment (insurance agency) possible only for long-term residents |
-| Subclass F-4 (Overseas Koreans) | Insurance sales allowed for overseas Koreans |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Required is a licensed insurance solicitor qualification (entrusted exam by t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-agents-and-brokers/KR)**

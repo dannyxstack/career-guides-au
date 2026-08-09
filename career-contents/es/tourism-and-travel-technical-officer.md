@@ -51,8 +51,6 @@ Responsible for tourism product design, itinerary planning, customer reception a
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 Advance from junior travel consultant to team leader, product manager, or destination manager; Some have shifted to digital tourism marketing or started travel agencies themselves.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Advance from junior travel consultant to team leader, product manager, or destin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | For work residence sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local or EU citizen. |
-| Subclass Altamente cualificad (Highly Qualified Professional Visa) | It is suitable for highly skilled professionals (with an annual salary usually exceeding about 34,000 euros), and the process is relatively fast. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires a higher education degree + work contract, with an annual salary threshold of about 33,908 euros (2023). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can advance from travel consultant to team leader, product manager, desti
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourism-and-travel-technical-officer/ES)**

@@ -51,8 +51,6 @@ Radiation therapists are a vital profession in Australia's healthcare sector, wi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Radiation therapists' work may be partially compressed by AI in treatment planning, but core tasks such as patient positioning, equipment operation, and human care still rely heavily on human skills. The profession is in a state where AI both amplifies and compresses roles.
-
 Digitalisation and professional certification requirements continue to rise; radiation therapists must continuously update their skills to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Digitalisation and professional certification requirements continue to rise; rad
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiation-therapist/AU)**

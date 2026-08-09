@@ -51,8 +51,6 @@ Responsible for designing, planning, and optimizing corporate supply chain proce
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will profoundly change the work of logisticians: routine planning and scheduling tasks are automated, but strategic supply chain optimization and anomaly handling abilities are amplified by AI, upgrading rather than eliminating the role.
-
 You can advance from logistics specialist to supply chain manager, director, or transition to consulting and project management. Upon gaining experience, he is expected to become Chief Supply Chain Officer.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ You can advance from logistics specialist to supply chain manager, director, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Professionals in Innovation or Business)) | Suitable for highly skilled talent, requiring a master's degree or more than 3 years of experience, with a contract annual salary of at least about 40,000 euros |
-| Subclass Salarié (Employee Visa (Salarié)) | Employed by a French company requires a work permit, and the employer handles administrative procedures |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +139,12 @@ A: You can obtain an offer from a French company and meet the salary requirement
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supply-chain-designer-and-organizer/FR)**

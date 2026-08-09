@@ -4,8 +4,6 @@
 
 Diagnostic imaging technicians are responsible for operating medical imaging equipment such as X-rays, CT, and MRI, assisting doctors in disease diagnosis. Knowledge of radiation protection is required to ensure image quality and patient safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Diagnostic imaging technicians are responsible for operating medical imaging equ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
-
 Junior technicians can develop into specialized imaging (such as MRI, nuclear medicine) or be promoted to department head. Through continuing education, you can transition to become a medical physicist or radiation therapist.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior technicians can develop into specialized imaging (such as MRI, nuclear me
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for university degrees and work contracts, processed quickly |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residence requires employer sponsorship |
-| Subclass Busqueda empleo (Job Search Visa) | Graduates can job hunt in Spain for one year |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Academic credentials (Homologación) must be completed, along with training o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diagnostic-imaging-technician/ES)**

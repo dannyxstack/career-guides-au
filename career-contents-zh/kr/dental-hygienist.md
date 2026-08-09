@@ -1,8 +1,8 @@
-# Dental Hygienist 职业分析 · 韩国
+# 牙科保健师（Dental Hygienist）职业分析 · 韩国
 
-**职业代码: 30641 (KECO)**
+**职业代码：30641 (KECO)**
 
-Dental hygienists are professional medical personnel who assist in dental treatment, provide oral hygiene education, and perform preventive procedures.
+牙科保健员是协助牙科治疗、提供口腔卫生教育和执行预防性操作的医疗专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ Dental hygienists are professional medical personnel who assist in dental treatm
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Dental Hygiene at a College | 3年 | $12,000,000~$24,000,000（Difference between national/public and private） |
-| Department of Dental Hygiene at a University | 4年 | $18,000,000~$36,000,000（Obtaining a 4-year degree） |
+| 某大学牙科卫生系 | 3年 | $12,000,000~$24,000,000（国立/公立与私立的区别） |
+| 大学口腔卫生系 | 4年 | $18,000,000~$36,000,000（获得四年制学位） |
 
 ---
 
@@ -20,17 +20,17 @@ Dental hygienists are professional medical personnel who assist in dental treatm
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Dental Hygienist License | Ministry of Health and Welfare | 必备 | Administered by the Korean Health Personnel Licensing Examination Institute |
-| Dental Hygienist Certificate (if applicable) | Korean Dental Hygienists Association | 可选 | Optional additional certifications |
+| 国家牙科卫生师执照 | 保健福祉部 | 必备 | 由韩国保健医疗人员国家考试院管理 |
+| 牙科卫生师证书（如适用） | 韩国牙科卫生师协会 | 可选 | 可选附加认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 55,000. Demand is steady due to aging population and increased interest in oral health, but employment growth is limited by the slowing increase in dental clinics.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 55,000。由于人口老龄化和对口腔健康关注增加，需求稳定，但牙科诊所增长放缓限制了就业增长。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,91 +38,84 @@ Dental hygienists are professional medical personnel who assist in dental treatm
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $26,000,000~$34,000,000 | 根据医院规模和地区差异 |
-| Mid-level (4–9 years) | $35,000,000~$45,000,000 | 经验丰富后增长 |
-| Advanced (10+ years) | $46,000,000~$60,000,000 | Department head level or above |
+| 初级（0-3年） | $26,000,000~$34,000,000 | 根据医院规模和地区差异 |
+| 中级（4-9年） | $35,000,000~$45,000,000 | 经验丰富后增长 |
+| 高级（10年以上） | $46,000,000~$60,000,000 | 部门主管级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot fully replace dental hygienists' work. Digital oral scanners and CAD/CAM enhance clinical assistance, but patient counseling and skilled clinical techniques remain uniquely human.
+AI无法完全取代牙科保健员的工作。数字口腔扫描仪和CAD/CAM增强了临床辅助，但患者咨询和熟练的临床技术仍属人类专属。
 
-Entry-level → Experienced hygienist → Senior/Lead → Department head/Owner (can open a clinic). Paths also include public health centers, university hospitals, and overseas opportunities.
+入门级 → 经验丰富的卫生师 → 高级/主管 → 部门负责人/所有者（可开设诊所）。路径还包括公共卫生中心、大学医院和海外机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Organizing digital oral scan data
-- Simple radiology reading assistance
+- 整理数字口腔扫描数据
+- 简单放射科阅读辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Oral disease diagnosis support
-- Treatment plan assistance
-- Patient data analysis
+- 口腔疾病诊断支持
+- 治疗方案协助
+- 患者数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Patient empathy and communication
-- Precision manual therapy
-- Oral health education
+- 患者同理心与沟通
+- 精密手法治疗
+- 口腔健康教育
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Proficiency in digital dental equipment
-- Data analysis
-- Patient counseling skills
+- 熟练操作数字牙科设备
+- 数据分析
+- 患者咨询技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Oral Health Care
-- Preventive Dentistry
-- Geriatric Dentistry
-- Digital Dentistry
+- 口腔保健
+- 预防牙科
+- 老年牙科学
+- 数字化牙科
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for hiring dental hygienists as skilled professionals |
-| Subclass F-2 (F-2 (Residence)) | Convertible after long-term stay and qualification acquisition |
-| Subclass H-1 (Region-specific visa) | Piloted in some regions |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person skilled in patient interaction
-- Person with good manual dexterity and attention to detail
-- Person who values teamwork
+- 擅长与患者互动的人
+- 手工灵巧且注重细节的人
+- 重视团队合作的人
 
 **谁不适合**
-- Person averse to blood or intraoral procedures
-- Person who finds standing work difficult
+- 对血液或口腔内操作反感的人
+- 难以从事站立工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for a dental hygienist?**
-答：Entry-level 26–34 million KRW, mid-level 35–45 million KRW, senior 46–60 million KRW.
+**问：牙科卫生员的薪资范围是多少？**
+答：入门级2600–3400万韩元，中级3500–4500万韩元，高级4600–6000万韩元。
 
-**问：Can foreigners work as dental hygienists in Korea?**
-答：Yes, possible with an E-7 visa, but a Korean license and certain level of Korean proficiency are required.
+**问：外国人可以在韩国做牙科卫生师吗？**
+答：是的，持有E-7签证可能可行，但需要韩国驾照和一定水平的韩语能力。
 
-**问：What is the career progression path for a dental hygienist?**
-答：From entry-level, one can advance to senior, head, or director (opening own clinic), and also move into education or public institutions.
+**问：牙科卫生师的职业发展路径是什么？**
+答：从初级可晋升至高级、主管或总监（开设自己的诊所），也可转向教育或公共机构。
 
 
 ---
@@ -140,12 +133,12 @@ Entry-level → Experienced hygienist → Senior/Lead → Department head/Owner 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dental-hygienist/KR)**

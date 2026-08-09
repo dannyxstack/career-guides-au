@@ -53,8 +53,6 @@ Vision impairment teachers provide teaching support to students who are visually
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Low AI threat but high opportunity: the core work of a teacher for the visually impaired is highly personalized teaching and emotional support, which is hard for AI to replace. However, AI can significantly enhance assistive technology teaching and generation of personalized learning materials, improving efficiency and reach.
-
 Career progression paths include becoming a special education coordinator, department head, or education consultant. Further study to a master's or doctoral degree can lead to university research or teaching in special education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression paths include becoming a special education coordinator, depar
 | Subclass 190 (Skilled Nominated visa) | Sponsored by state governments, with most states listing special education teachers as a priority occupation |
 | Subclass 482 (Skills in Demand visa) | Employer-sponsored work visa, suitable for those who find an employer in a public or private school |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a Bachelor of Education and postgraduate qualifications in
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-of-the-sight-impaired/AU)**

@@ -1,10 +1,8 @@
-# Fisheries Research Scientist 职业分析 · 韩国
+# 渔业研究科学家（Fisheries Research Scientist）职业分析 · 韩国
 
-**职业代码: 12214 (KECO)**
+**职业代码：12214 (KECO)**
 
-A professional who studies the management of aquatic resources, development of aquaculture technologies, and conservation of marine ecosystems, contributing to improved fishery productivity and sustainable fisheries development.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+研究水产资源管理、水产养殖技术开发以及海洋生态系统保护的专业人士，致力于提高渔业生产力和实现渔业可持续发展。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who studies the management of aquatic resources, development of a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's | 4年 | $8,000,000~$12,000,000（公立大学年学费） |
-| Master's | 2 年 | $10,000,000~$15,000,000（Annual graduate school tuition） |
-| 博士 | 3年 | $10,000,000~$15,000,000（Annual graduate school tuition, tuition waiver possible） |
+| 本科学位 | 4年 | $8,000,000~$12,000,000（公立大学年学费） |
+| 硕士 | 2 年 | $10,000,000~$15,000,000（研究生院年学费） |
+| 博士 | 3年 | $10,000,000~$15,000,000（研究生院年度学费，可申请学费减免） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who studies the management of aquatic resources, development of a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Fisheries Engineer | Human Resources Development Service of Korea | 可选 | Highest technical certification in fisheries |
-| Environmental Impact Assessor | Korea Environment Corporation | 可选 | Useful for fishery environment-related work |
-| Doctorate in marine and fisheries | 大学 | 可选 | Preferred for research positions |
+| 专业渔业工程师 | 韩国人力资源开发服务局 | 可选 | 渔业最高技术认证 |
+| 环境影响评估师 | 韩国环境公团 | 可选 | 对渔业环境相关工作有用 |
+| 海洋与渔业博士学位 | 大学 | 可选 | 研究职位优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 6,500. Due to climate change and depletion of fishery resources, the importance of fisheries research is increasing, and employment prospects are stable with expanded government R&D investment and the introduction of smart aquaculture technologies.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 6,500。由于气候变化和渔业资源枯竭，渔业研究的重要性日益增加，随着政府研发投入扩大和智能水产养殖技术的引入，就业前景稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,95 +40,87 @@ A professional who studies the management of aquatic resources, development of a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $35,000,000~$45,000,000 | Based on public research institutes |
-| Mid (4–7 years) | $50,000,000~$65,000,000 | Varies by career and research performance |
-| 高级（8年+） | $70,000,000~$99,999,999 | Principal researcher or professor level |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于公共研究机构 |
+| 中级（4-7年） | $50,000,000~$65,000,000 | 因职业和研究成果而异 |
+| 高级（8年+） | $70,000,000~$99,999,999 | 首席研究员或教授级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI improves research efficiency in data analysis and modeling, but areas where human intuition and experience are important, such as field experiments, ecological observation, and ethical judgment, are still necessary. Therefore, some tasks will be automated, but overall it will develop in a form complemented by AI.
+人工智能提高了数据分析和建模的研究效率，但现场实验、生态观察和伦理判断等需要人类直觉和经验的领域仍不可或缺。因此，部分任务将自动化，但整体将以AI辅助的形式发展。
 
-Starting as a researcher at research institutes or universities, one can advance to senior researcher or team leader with experience, and after obtaining a doctorate, move into a professorship or government agency expert role.
+从研究机构或大学的研究员开始，可凭借经验晋升为高级研究员或团队负责人，获得博士学位后可转向教授职位或政府机构专家角色。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Structured data collection and organization
-- Simple statistical analysis
-- Literature review summarization
+- 结构化数据收集与整理
+- 简单统计分析
+- 文献综述总结
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fisheries resource distribution prediction modeling
-- Environmental change scenario analysis
-- Large-scale genetic data analysis
+- 渔业资源分布预测建模
+- 环境变化情景分析
+- 大规模基因数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to design and conduct field experiments
-- Intuitive understanding of ecosystems
-- Comprehensive judgment for policy decision-making
+- 设计和开展实地实验的能力
+- 对生态系统的直观理解
+- 政策决策的综合判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and machine learning utilization
-- Big data analysis
-- Remote sensing technology
-- Environmental Modeling
-- Programming (Python, R)
+- 人工智能和机器学习利用
+- 大数据分析
+- 遥感技术
+- 环境建模
+- 编程（Python、R）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart aquaculture
-- Climate change response
-- Fisheries resource management
-- Marine ecosystem conservation
+- 智慧水产养殖
+- 气候变化应对
+- 渔业资源管理
+- 海洋生态系统保护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued for invitation of specialized research personnel |
-| Subclass D-2 (D-2 (Study Abroad)) | Issued to international students in master's/doctoral programs |
-| Subclass F-2 (F-2 (Residence)) | Convertible for long-term stay, research activities allowed |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person with deep interest and curiosity in marine life
-- A person who enjoys long-term research and fieldwork
-- A person who values environmental conservation and sustainability
+- 对海洋生物有深厚兴趣和好奇心的人
+- 喜欢长期研究和实地工作的人
+- 重视环境保护和可持续发展的人
 
 **谁不适合**
-- A person who prioritizes short-term results and wants fast outcomes
-- A person who dislikes outdoor activities or fieldwork
+- 注重短期结果、希望快速见效的人
+- 不喜欢户外活动或实地工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a fisheries research scientist?**
-答：For entry-level (0-3 years), the annual salary is about 35-45 million KRW, and it may be slightly lower but stable at national/public research institutes.
+**问：渔业研究科学家的起薪是多少？**
+答：入门级（0-3年）年薪约3500-4500万韩元，在国立/公立研究机构可能略低但稳定。
 
-**问：What visa does a foreigner need to work as a fisheries research scientist?**
-答：As a specialized research field, the E-7 (Specific Activities) visa is common; if you have a master's or doctoral degree from a domestic university, you can switch from D-2 to F-2.
+**问：外国人作为渔业研究科学家需要什么签证？**
+答：作为专业研究领域，E-7（特定活动）签证常见；若在国内大学获得硕士或博士学位，可从D-2转为F-2。
 
-**问：What is the career progression for this job?**
-答：Promotion follows the path of Researcher → Senior Researcher → Principal Researcher, and advancement to government agencies or university professorships is possible.
+**问：这个工作的职业发展路径是什么？**
+答：晋升路径为研究员→高级研究员→首席研究员，可转向政府机构或大学教职。
 
 
 ---
@@ -148,12 +138,12 @@ Starting as a researcher at research institutes or universities, one can advance
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fisheries-research-scientist/KR)**

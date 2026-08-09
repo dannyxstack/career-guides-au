@@ -53,8 +53,6 @@ Responsible for daily port operations, cargo loading and unloading, vessel sched
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Port operations manager positions are mixed: AI can automate scheduling and document processing, but physical operations, safety supervision, and multi-party coordination still require humans. The overall automation exposure is 6.5, and entry-level positions are moderately reduced due to the widespread adoption of AI tools.
-
 Operators can be promoted from operator to duty supervisor, terminal manager, and eventually to port operations director. After gaining experience, you can move on to logistics consulting or international shipping management.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Operators can be promoted from operator to duty supervisor, terminal manager, an
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, annual salary must meet the French threshold (approximately 53,000 euros) |
-| Subclass Passeport Talent (Talent Passport) | For highly educated or high-potential talents, there are no fixed salary requirements; proof of project or employer must be provided |
-| Subclass Salarié (Employee Work Permit) | The most common work visa requires employer sponsorship and pays according to industry standards |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Yes, you can be promoted from operator to supervisor, manager, or even region
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/port-operations-and-maritime-transport-manager/FR)**

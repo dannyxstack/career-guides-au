@@ -56,8 +56,6 @@ Tourist guides provide guided commentary and itinerary management for visitors; 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 Junior tour guides can gain experience and advance to senior guides or team leaders, or move into management roles such as tourism product design and destination marketing. Some guides obtain an official New Zealand tour guide license for higher pay and professional recognition.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Junior tour guides can gain experience and advance to senior guides or team lead
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Can advance from junior tour guide to senior tour guide, team leader, or tran
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-guide/NZ)**

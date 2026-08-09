@@ -53,8 +53,6 @@ Professional occupation in naturopathy and homeopathy in Germany, including diag
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Naturopaths face moderate replacement risk from AI-assisted diagnostic tools, but core personalised treatment, palpation, and trust relationships are hard to automate, with a mixed overall impact.
-
 Practitioners typically complete an Ausbildung or relevant degree, pass state exams, then practice independently. Experienced individuals may open clinics, teach, or serve as consultants, with some entering research institutions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Practitioners typically complete an Ausbildung or relevant degree, pass state ex
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allows coming to Germany for job search or qualification recognition |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month visa to search for work and complete qualification certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: The exam is rigorous, with a pass rate of about 50%, covering medical, legal,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/practitioner-of-natural-medicine-and-homeopathy/DE)**

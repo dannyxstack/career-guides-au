@@ -52,8 +52,6 @@ Welder-Fitter responsible for manufacturing and repairing metal parts and struct
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 May progress from apprentice to qualified tradesperson, then to foreman, supervisor, or specialize in high-skill welding (e.g. pipe welding). Some move into inspection, training, or self-employment.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ May progress from apprentice to qualified tradesperson, then to foreman, supervi
 | Subclass 189 (Skilled Independent Visa) | Skilled independent migration, must be on MLTSSL, scoring through EOI. |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requiring state government nomination. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to foreman, supervisor, inspector, or specialize in high-skil
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitterwelder/AU)**

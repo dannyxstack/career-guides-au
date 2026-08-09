@@ -54,8 +54,6 @@ Engage in underground construction projects, including tunnels, pipelines, found
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Underground civil engineering work has some resilience to automation, but AI will replace certain tasks (e.g., monitoring, data logging) while enhancing design coordination and construction optimization. Entry-level positions are slightly narrowing due to digital tools.
-
 Can be promoted from general worker to foreman, construction supervisor, or technician, and can become a construction engineer or project manager through further study.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted from general worker to foreman, construction supervisor, or tech
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Must complete dual vocational training and obtain a professional qualificatio
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-worker-underground-construction/DE)**

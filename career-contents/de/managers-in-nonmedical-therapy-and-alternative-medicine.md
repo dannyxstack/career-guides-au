@@ -54,8 +54,6 @@ Responsible for managing and leading teams and operations in non-physician thera
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Non-physician therapy and naturopathy managers face mixed AI impacts: routine administrative and data tasks are easily automated, but core management decisions, patient trust, and multidisciplinary coordination remain human moats.
-
 Typically progresses from therapist to department head, then to regional manager. Requires accumulation of clinical experience and obtaining management qualifications through further education. Some pathways lead into health management or policy areas.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Typically progresses from therapist to department head, then to regional manager
 | Subclass Skilled Worker (Skilled Worker Visa) | For professionals with recognized German qualifications, employer sponsorship required. |
 | Subclass Chancenkarte (Opportunity Card) | Job seeker visa based on points system, allows coming to Germany to find a job. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must first obtain recognized therapist qualification in Germany, accumulate c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-nonmedical-therapy-and-alternative-medicine/DE)**

@@ -52,8 +52,6 @@ Stone masons construct and restore stone structures, cutting, shaping, and polis
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
-
 Starting as an apprentice, can advance to senior stonemason, foreman, or specialize in stone carving restoration, monument manufacturing, etc., or start your own business.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting as an apprentice, can advance to senior stonemason, foreman, or special
 | Subclass Scale-up (Scale-up visa) | Suitable for high-growth companies hiring, but less applicable to the stonemasonry industry—employers must meet conditions. |
 | Subclass Graduate (Graduate visa) | The graduate visa allows working in the UK for 2 years after completing a degree, but a sponsoring employer is needed to switch to a skilled worker visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires NVQ Level 3 stonemasonry qualification and CSCS card; rest
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stonemasons-and-related-trades/UK)**

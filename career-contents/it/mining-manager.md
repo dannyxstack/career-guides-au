@@ -4,8 +4,6 @@
 
 Mine managers plan, direct, and coordinate mining operations, including safety management, production targets, and resource optimization.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Mine managers plan, direct, and coordinate mining operations, including safety m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-A mining manager's decision-making, safety and compliance responsibilities are not easily automated, but AI can optimise data analysis and monitoring, with both risks and opportunities.
-
 Typically promoted from mining engineer or geologist, can advance to regional operations director or corporate executive, or transition to consulting or international projects.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Typically promoted from mining engineer or geologist, can advance to regional op
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary threshold of approximately 40,000 euros, requires university degree and employment contract |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, employers must prove they cannot recruit within the EU |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer-sponsored work permit requiring submission of contract and qualification proof |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Can be promoted from engineer to manager, then to regional director or corpor
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-manager/IT)**

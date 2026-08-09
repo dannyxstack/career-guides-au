@@ -50,8 +50,6 @@ Credit counselors provide debt management and credit advice to individuals or or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Some tasks of credit counselors like data sorting and report generation are easily automated by AI, but core tasks like client communication, behavioral guidance, and ethical judgment still require humans, overall risk moderately high.
-
 Junior credit advisors can advance to senior advisor, department head, or financial education specialist. Experienced ones can transition to financial advisor, financial planner, or start their own consulting firm. Certifications like CFP or AFCPE can accelerate career growth.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior credit advisors can advance to senior advisor, department head, or financ
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's plus 5 years of experience, through PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | For bachelor's degree holders, applying via PERM |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually at least a bachelor's degree required; any major accepted but finance
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-counselors/US)**

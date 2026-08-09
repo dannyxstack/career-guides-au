@@ -1,10 +1,8 @@
-# Police, Fire, and Prison Administrators 职业分析 · 韩国
+# 警察、消防和监狱管理人员（Police, Fire, and Prison Administrators）职业分析 · 韩国
 
-**职业代码: 01335 (KECO)**
+**职业代码：01335 (KECO)**
 
-Public safety administrators who command police officers, firefighters, and prison guards, overseeing regional security, fire suppression, and correctional administration.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+指挥警察、消防员和狱警的公共安全管理员，负责区域安全、消防和矫正管理。
 
 
 ---
@@ -13,7 +11,7 @@ Public safety administrators who command police officers, firefighters, and pris
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Korean National Police University (Bachelor's)/Police Officer Candidate/Fire Officer Candidate/Correctional Officer Candidate | 4年 | $0~$0（Full national funding for education） |
+| 韩国警察大学（学士）/警察官候选人/消防官候选人/矫正官候选人 | 4年 | $0~$0（教育全额国家资助） |
 
 ---
 
@@ -21,17 +19,17 @@ Public safety administrators who command police officers, firefighters, and pris
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Passing the police officer candidate exam | National Police Agency | 必备 | Graduation from the National Police University or a general university, followed by the exam |
-| Passing the fire officer candidate exam | National Fire Agency | 必备 | Firefighter experience or graduation from a general university, followed by the exam |
+| 通过警官候选人考试 | 国家警察厅 | 必备 | 毕业于国立警察大学或普通大学，后通过考试 |
+| 通过消防员候选人考试 | 国家消防署 | 必备 | 消防员经验或普通大学毕业，然后参加考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,500. Employment is stable due to sustained government demand for security and disaster response, but limited quotas mean only slight increases are expected. Steady demand exists for replacing retiring personnel.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,500。由于政府对安全和灾害应对的持续需求，就业稳定，但配额有限，仅略有增长。替代退休人员的需求稳定。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,88 +37,82 @@ Public safety administrators who command police officers, firefighters, and pris
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–5 years, Inspector/Fire Captain/Correctional Senior Assistant) | $50,000,000~$60,000,000 | Starting salary by step (including allowances) |
-| Mid-level (5–15 years, Superintendent/Fire Chief/Correctional Senior Officer) | $65,000,000~$85,000,000 | Reflecting step and rank promotion |
-| Senior-level (15+ years, Senior Superintendent/Fire Deputy Chief/Correctional Deputy Director and above) | $90,000,000~$99,999,999 | Senior manager (including allowances) |
+| 初级（0–5年，检查员/消防队长/矫正高级助理） | $50,000,000~$60,000,000 | 按等级的起薪（含津贴） |
+| 中级（5-15年，主管/消防局长/矫正高级官员） | $65,000,000~$85,000,000 | 反映职级晋升 |
+| 高级（15年以上，高级警司/消防副局长/矫正副总监及以上） | $90,000,000~$99,999,999 | 高级经理（含津贴） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists in crime/disaster data analysis, fire prediction, and correctional facility security systems, but human command and interpersonal response remain essential. Some administrative tasks may be automated, but the core duties will be maintained.
+人工智能协助犯罪/灾害数据分析、火灾预测和矫正设施安全系统，但人类指挥和人际响应仍然必不可少。一些行政任务可能自动化，但核心职责将得以保留。
 
-After being commissioned as a police officer, firefighter, or prison guard, 10–15 years of field service leads to promotion to superintendent, fire chief, or correctional senior officer and above, with leadership training at police universities or fire schools.
+成为警官、消防员或狱警后，服务10-15年可晋升至警监、消防队长或高级矫正官及以上，需在警察大学或消防学校接受领导力培训。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Daily report writing
-- Automatic patrol schedule assignment
-- Basic Situation Reporting
+- 每日报告撰写
+- 自动巡逻排班
+- 基本情况报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crime Pattern Analysis
-- Fire Spread Simulation
-- Detection of Irregularities in Correctional Facilities
+- 犯罪模式分析
+- 火灾蔓延模拟
+- 惩教设施异常检测
 
-**人类护城河:**
+**人类护城河：**
 
-- On-Site Situation Assessment
-- Risk Response Leadership
-- Interpersonal Empathy and Negotiation
+- 现场情况评估
+- 风险应对领导力
+- 人际共情与谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- AI-Based Decision Making
+- 数据分析
+- 基于AI的决策
 - 网络安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Policing demand
-- Disaster response
-- Correctional administration
-- Public safety
+- 警务需求
+- 灾害应对
+- 矫正管理
+- 公共安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 해당 없음 (Civil service hiring restrictions) | Police, fire, and prison officers are limited to Korean nationals; not eligible for foreigner visas. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong leadership and responsibility
-- People who stay calm in crisis situations
-- People with a strong sense of service to the nation
+- 领导力强且责任心强的人
+- 在危机情况下保持冷静的人
+- 有强烈服务国家意识的人
 
 **谁不适合**
-- People who prefer a free working environment
-- People who prefer creative work over following instructions
+- 喜欢自由工作环境的人
+- 喜欢创造性工作而非遵循指令的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a rookie police officer?**
-答：The starting salary for a police inspector including allowances is around 50–60 million KRW.
+**问：新手警察的起薪是多少？**
+答：警长起薪含津贴约为5000-6000万韩元。
 
-**问：Can foreigners become police, fire, or correctional officers?**
-答：These positions are only open to Korean nationals and are not eligible for foreign visas.
+**问：外国人可以成为警察、消防员或狱警吗？**
+答：这些职位仅向韩国国民开放，不符合外国签证条件。
 
 
 ---
@@ -138,12 +130,12 @@ After being commissioned as a police officer, firefighter, or prison guard, 10�
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/police-fire-and-prison-administrators/KR)**

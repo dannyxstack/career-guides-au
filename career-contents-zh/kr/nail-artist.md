@@ -1,8 +1,8 @@
-# Nail Artist 职业分析 · 韩国
+# 美甲师（Nail Artist）职业分析 · 韩国
 
-**职业代码: 51132 (KECO)**
+**职业代码：51132 (KECO)**
 
-Profession specializing in nail and toenail beauty care, offering services like nail care, artificial nails, and art designs.
+专注于指甲和脚趾甲美容护理的职业，提供指甲护理、人工指甲和艺术设计等服务。
 
 
 ---
@@ -11,8 +11,8 @@ Profession specializing in nail and toenail beauty care, offering services like 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 1-2年 | $3,000,000~$8,000,000（Based on private academy tuition fees） |
-| Related department at a junior college | 2 年 | $5,000,000~$10,000,000（Including tuition） |
+| 高中文凭或更高学历 | 1-2年 | $3,000,000~$8,000,000（基于私立学院学费） |
+| 专科学校相关专业 | 2 年 | $5,000,000~$10,000,000（含学费） |
 
 ---
 
@@ -20,17 +20,17 @@ Profession specializing in nail and toenail beauty care, offering services like 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nail Technician (Nail) License | Human Resources Development Service of Korea | 必备 | National Technical Qualification |
-| Private nail art certifications | Korea Nail Association, etc. | 可选 | Optional but beneficial for competitiveness |
+| 美甲技师（美甲）执照 | 韩国人力资源开发服务局 | 必备 | 国家技术资格 |
+| 私人美甲认证 | 韩国美甲协会等 | 可选 | 非强制但有助于提升竞争力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Employment is stable due to Korea's growing beauty industry and increased demand for personal grooming, but competition is fierce and high self-employment rates lead to income volatility.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于韩国美容行业增长和个人护理需求增加，就业稳定，但竞争激烈且自雇率高导致收入波动。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,91 +38,84 @@ Profession specializing in nail and toenail beauty care, offering services like 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $18,000,000~$24,000,000 | Based on intern/new hire |
-| 中级（4-7年） | $24,000,000~$36,000,000 | Average for experienced workers |
-| Advanced (8+ years) | $36,000,000~$50,000,000 | Manager or owner level |
+| 入门级（0-3年） | $18,000,000~$24,000,000 | 基于实习生/新员工 |
+| 中级（4-7年） | $24,000,000~$36,000,000 | 有经验工人的平均工资 |
+| 高级（8年以上） | $36,000,000~$50,000,000 | 经理或业主级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Nail art is a profession that AI is difficult to completely replace, where creativity and hand skills are important. However, AI can assist in some tasks such as design recommendations or customer management systems.
+美甲是AI难以完全替代的职业，创造力和手工技能很重要。然而，AI可以协助一些任务，如设计推荐或客户管理系统。
 
-Career path: from junior nail artist to manager or owner. Becoming a nail instructor or starting a beauty franchise is also common.
+职业路径：从初级美甲师到经理或店主。成为美甲讲师或创办美容特许经营店也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Nail Care
-- Customer Appointment Management
-- Generate Basic Design Templates
+- 基础美甲护理
+- 客户预约管理
+- 生成基本设计模板
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Suggest Custom Designs
-- Recommend Color Combinations
-- Analyze Nail Health
+- 建议定制设计
+- 推荐配色
+- 分析指甲健康
 
-**人类护城河:**
+**人类护城河：**
 
-- Creativity
-- Hand Skills
-- Customer Communication
-- Meticulous Work
+- 创造力
+- 手工技能
+- 客户沟通
+- 细致工作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Trend Analysis
-- Portfolio Management
-- Online Marketing
-- Customer Relationship Management
+- 趋势分析
+- 投资组合管理
+- 在线营销
+- 客户关系管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Nail Art
-- Beauty Services
-- Nail Care
-- Beauty
+- 美甲艺术
+- 美容服务
+- 指甲护理
+- 美容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can work in nail art as skilled functional personnel. Requires employer recommendation. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible under certain conditions, free job activity allowed. |
-| Subclass F-4 (Overseas Korean) | Granted to overseas Koreans, service industry employment possible but nail art is limited. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with manual dexterity and excellent design sense
-- Person skilled in customer service and interpersonal relations
-- Person who is meticulous and patient
+- 具有手工灵巧性和出色设计感的人
+- 擅长客户服务和人际关系的人
+- 细致耐心的人
 
 **谁不适合**
-- Person who finds it difficult to sit and work for long periods
-- Person who reacts sensitively to customer complaints
+- 难以长时间坐着工作的人
+- 对客户投诉反应敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a nail artist?**
-答：The annual salary for a beginner nail artist is approximately 18 million to 24 million KRW, increasing with experience and skill.
+**问：美甲师的起薪是多少？**
+答：初级美甲师的年薪约为1800万至2400万韩元，随着经验和技能增加而提高。
 
-**问：What visa does a foreigner need to work as a nail artist in Korea?**
-答：An E-7 (Specific Activities) visa is mainly required, and recognition as a skilled technical worker is necessary. Certain experience and certifications are also required.
+**问：外国人想在韩国做美甲师需要什么签证？**
+答：主要需要E-7（特定活动）签证，并需被认定为熟练技术工人。还需具备一定经验和认证。
 
 
 ---
@@ -140,12 +133,12 @@ Career path: from junior nail artist to manager or owner. Becoming a nail instru
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nail-artist/KR)**

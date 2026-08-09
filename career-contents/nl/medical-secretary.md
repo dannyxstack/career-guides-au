@@ -4,8 +4,6 @@
 
 Medical secretaries handle administrative tasks in healthcare facilities, including patient registration, medical records management, appointment scheduling, and medical billing. They ensure smooth medical operations and act as a key liaison between doctors and patients.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Medical secretaries handle administrative tasks in healthcare facilities, includ
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The medical secretary role is mixed in terms of impact from AI automation: tasks such as appointment management and medical transcription can be replaced by AI, but interpersonal coordination, complex communication, and authority responsibilities have deeper moats; entry barriers may rise, but AI tools can also enhance efficiency.
-
 Junior medical secretaries can advance to senior secretary or office manager, or further study to become medical coders or practice managers. With experience, they can move into health information management or hospital administration.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior medical secretaries can advance to senior secretary or office manager, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applies to highly skilled migrants, requiring employer sponsorship and meeting the salary threshold (about €5,331/month in 2024). Medical secretaries typically need a HBO degree or equivalent experience. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to those with a university degree or 5 years of experience, with a high salary threshold (approximately €5,331/month in 2024). Experienced medical secretaries may apply. |
-| Subclass Orientation Year (Zo (Orientation Year Visa) | Graduates from Dutch universities or global top 200 universities can work freely for 1 year, then switch to a work visa upon finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Usually requires a medical secretary diploma at MBO level 4 (secondary vocati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-secretary/NL)**

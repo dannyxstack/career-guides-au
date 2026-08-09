@@ -52,8 +52,6 @@ Press or shape textile materials by hand or machine, responsible for ironing clo
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile, clothing and related material ironers face high automation risk as ironing tasks are highly repetitive and can be optimized by machines and AI vision systems; entry-level demand will shrink significantly.
-
 Start as apprentice or junior presser, advance to senior pressing technician or workshop supervisor, some move to dry-cleaning management or quality control.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as apprentice or junior presser, advance to senior pressing technician or 
 | Subclass H-1B (Specialty Occupations) | Typically does not meet H-1B requirements as the occupation usually does not require a bachelor's degree. |
 | Subclass EB-3 (Employment-Based Immigrant Visa (Skilled Workers/Professionals)) | Green card sponsorship only in very rare cases, and must prove inability to recruit US workers. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually not. This occupation does not meet H-1B specialty occupation requirem
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pressers-textile-garment-and-related-materials/US)**

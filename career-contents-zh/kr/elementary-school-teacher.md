@@ -1,10 +1,8 @@
-# Elementary School Teacher 职业分析 · 韩国
+# 小学教师（Elementary School Teacher）职业分析 · 韩国
 
-**职业代码: 21221 (KECO)**
+**职业代码：21221 (KECO)**
 
-An education professional responsible for teaching basic subjects and character education to elementary school students.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责小学基础科目和品德教育的教育专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ An education professional responsible for teaching basic subjects and character 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduation from Department of Elementary Education | 4年 | $20,000,000~$45,000,000（Tuition based on national/public universities） |
-| Completion of teacher training course | 0年 | $0~$0（Including teacher training course within university） |
+| 初等教育系毕业 | 4年 | $20,000,000~$45,000,000（按国立/公立大学标准收费） |
+| 完成教师培训课程 | 0年 | $0~$0（包含大学内的师范课程） |
 
 ---
 
@@ -22,17 +20,17 @@ An education professional responsible for teaching basic subjects and character 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Elementary School Regular Teacher (Level 2) Certificate | Ministry of Education / Korea National University of Education | 必备 | Obtained after completing teacher training course |
-| Elementary School Regular Teacher (Level 1) Certificate | 教育部 | 可选 | Obtained after 3+ years of experience and completing training |
+| 小学正式教师（二级）证书 | 教育部/韩国国立教育大学 | 必备 | 完成教师培训课程后获得 |
+| 小学正式教师（一级）证书 | 教育部 | 可选 | 获得条件：3年以上经验并完成培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 183,000. With a continued decline in school-age population due to low birth rates, the scale of elementary teacher recruitment is shrinking. Reduction in quotas is expected after 2026, with gaps between the capital and non-capital regions.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 183,000。由于低出生率导致学龄人口持续下降，小学教师招聘规模正在缩小。预计2026年后配额减少，首都与非首都地区存在差距。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,91 +38,84 @@ An education professional responsible for teaching basic subjects and character 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0-5年） | $32,000,000~$38,000,000 | Basic salary based on pay scale + allowances |
-| Mid-level (10-15 years) | $48,000,000~$55,000,000 | Includes pay scale increase and homeroom teacher allowance |
-| Advanced (20+ years) | $60,000,000~$70,000,000 | Separate allowances for vice principal and principal |
+| 初级（0-5年） | $32,000,000~$38,000,000 | 基本工资按薪酬表计算 + 津贴 |
+| 中级（10-15年） | $48,000,000~$55,000,000 | 包括薪资提升和班主任津贴 |
+| 高级（20年以上） | $60,000,000~$70,000,000 | 副校长和校长分别有单独津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is unlikely to replace core elementary teacher duties like care and character education, but administrative tasks, grading, and learning material production may be automated, compressing the teacher's role into a 'relationship-centered' one.
+AI不太可能取代小学教师的核心职责，如关怀和品格教育，但行政任务、评分和学习材料制作可能自动化，将教师角色压缩为“以关系为中心”。
 
-After obtaining a teacher certificate and passing the teacher employment exam, one is appointed as a new teacher. Promotion to vice principal or principal is typically possible after 15+ years of service. Recent trends include extended retirement age and expanded career paths such as innovation schools.
+获得教师证书并通过教师录用考试后，被任命为新教师。晋升至副校长或校长通常需要15年以上服务年限。近期趋势包括延长退休年龄和拓展创新学校等职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Test grading
-- Attendance management
-- Simple learning material creation
-- Lesson recording and analysis
+- 测试评分
+- 考勤管理
+- 简单学习材料创建
+- 课程录制与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individualized feedback
-- AI-based customized lesson design
-- Data-driven learning diagnostics
+- 个性化反馈
+- 基于AI的定制化课程设计
+- 数据驱动的学习诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional rapport and care
-- Character and values education
-- Classroom management and conflict resolution
-- Creative arts and physical education instruction
+- 情感共鸣与关怀
+- 品格与价值观教育
+- 课堂管理和冲突解决
+- 创意艺术与体育教学
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI educational tool usage
-- Data literacy
-- Digital textbook operation
-- Social-emotional intelligence
+- AI教育工具使用
+- 数据素养
+- 数字教科书操作
+- 社交情感智力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Reduction in teacher training
-- Decrease in elementary teacher recruitment
-- Expansion of innovative education
-- Digital education competency
+- 教师培训减少
+- 小学教师招聘减少
+- 创新教育的扩展
+- 数字教育能力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to some international school or English-only teachers; not applicable to general public elementary school teachers |
-| Subclass F-2 (Residence) | Employment possible for permanent residents or marriage immigrants who hold a teaching certificate |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find teaching children rewarding
-- People with excellent patience and empathy
+- 喜欢教孩子并从中获得成就感的人
+- 极具耐心和同理心的人
 
 **谁不适合**
 - 厌恶重复性行政任务的人
-- People who struggle with high competition and narrow employment opportunities
+- 难以应对激烈竞争和狭窄就业机会的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for elementary school teachers?**
-答：As of 2024, new teachers (Level 1) earn about 32 million KRW before tax, and around 35 million KRW including allowances.
+**问：小学教师的起薪是多少？**
+答：截至2024年，新教师（1级）税前约3200万韩元，含津贴约3500万韩元。
 
-**问：Can foreigners become elementary school teachers in Korea?**
-答：General public school teachers require Korean nationality; foreigners are limited to international schools or English teachers (E-7).
+**问：外国人能在韩国成为小学教师吗？**
+答：普通公立学校教师要求韩国国籍；外国人仅限于国际学校或英语教师（E-7）。
 
 
 ---
@@ -142,12 +133,12 @@ After obtaining a teacher certificate and passing the teacher employment exam, o
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/elementary-school-teacher/KR)**

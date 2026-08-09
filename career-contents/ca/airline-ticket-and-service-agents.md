@@ -52,8 +52,6 @@ Working at airports, airlines, or travel agencies to provide ticketing, check-in
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of air travel assistant carries relatively high risk; AI self-service check-in and automated document checks will significantly reduce traditional tasks, entry-level positions are shrinking, but interpersonal service and safety responsibilities still retain some moat.
-
 Can progress from entry-level customer service to senior representative, supervisor, or dispatcher. Some move into airline management roles, such as operations or customer relationship management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from entry-level customer service to senior representative, supervi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually only a high school diploma is required; customer service experience i
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-ticket-and-service-agents/CA)**

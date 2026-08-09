@@ -52,8 +52,6 @@ Chartered Certified Accountants provide accounting and auditing services, offer 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Can progress from assistant accountant to senior accountant, audit manager, financial controller, or partner. After obtaining CPA/CA certification, can move into financial consulting or corporate management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from assistant accountant to senior accountant, audit manager, fina
 | Subclass Graduate (Graduate visa) | Applicable to UK university graduates, can work in the UK for 2 years, then apply for a skilled work visa after gaining experience. |
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or potential in accounting, no employer sponsorship required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically takes 3-5 years, including passing professional exams and accumulat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chartered-and-certified-accountants/UK)**

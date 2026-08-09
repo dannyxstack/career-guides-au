@@ -54,8 +54,6 @@ Responsible for designing, manufacturing, and installing various signs, illumina
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation will take over repetitive tasks in mass sign production and electrical installation, but AI plays a limited role in custom design and on-site installation coordination. This occupation's task structure is being reshaped, presenting both risks and new opportunities.
-
 Can progress from apprentice to skilled tradesperson, then to project manager or studio owner. With experience, can move into large-scale advertising project management or specialized lighting design.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from apprentice to skilled tradesperson, then to project manager or
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a work contract to enter Germany to seek opportunities, provided they have relevant qualifications. |
 | Subclass Job Seeker (Job Search Visa) | Allows stay in Germany for 6 months to seek employment, requiring proof of financial means and qualifications. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Dual-system training certificate is mandatory. Additional electrical qualific
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sign-and-light-advertising-producer/DE)**

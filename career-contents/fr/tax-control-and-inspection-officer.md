@@ -4,8 +4,6 @@
 
 Responsible for inspecting tax declarations, auditing corporate tax compliance, and investigating tax fraud to ensure strict enforcement of tax regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for inspecting tax declarations, auditing corporate tax compliance, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Tax inspectors face moderate automation risks; AI will replace data verification and preliminary audits, but complex tasks such as fraud investigations and judicial procedures still require human judgment.
-
 Candidates can be promoted from junior auditors to team leaders, regional audit leaders, or transition to tax consulting, compliance management, and related fields.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Candidates can be promoted from junior auditors to team leaders, regional audit 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Applicable to work residence sponsored by a French employer, which requires passing a labor market test. |
-| Subclass Passeport Talent (Sa (Passeport Talent - Salarié qualifié) | Suitable for highly skilled employees, with annual salaries exceeding 1.5 times SMIC's salary, allowing quick residency eligibility. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents with an annual salary exceeding €53,000 (2024). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Yes, you can be promoted to audit supervisor, regional head, or shift to tax 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-control-and-inspection-officer/FR)**

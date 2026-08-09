@@ -53,8 +53,6 @@ Responsible for collecting, sorting, and delivering mail, documents, and package
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Can advance from entry-level mail sorter to postal delivery worker or supervisor; some transition to logistics companies in distribution management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from entry-level mail sorter to postal delivery worker or supervisor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance from mail sorter to delivery officer, team leader, or move to a l
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-workers-mail-sorters-and-messengers/UK)**

@@ -53,8 +53,6 @@ Agricultural technicians/agronomists provide technical support for agriculture i
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Career path: junior technician → senior agronomist → agricultural consultant or farm manager. Can also pivot to R&D, policy, or agritech. New Zealand Institute of Agricultural Technology provides professional development support; advancement requires continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: junior technician → senior agronomist → agricultural consultant
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration system, points based on education, experience, etc., requires employer sponsorship |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa; work for a qualifying employer, can lead to residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Demand is stable as agriculture is a pillar industry and it is on the Green L
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technician/NZ)**

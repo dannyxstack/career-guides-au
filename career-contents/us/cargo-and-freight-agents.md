@@ -53,8 +53,6 @@ Freight forwarders coordinate cargo transportation, handle bills of lading, arra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Freight forwarding is undergoing profound change due to AI automation: some tasks are compressed, but the overall role is amplified—low-value paperwork and tracking are replaced, while strategic coordination and client advisory become core moats.
-
 Junior freight forwarders can advance to senior forwarder, team supervisor, or operations manager. With experience, they can move into supply chain management, logistics coordination, or customer management roles. Obtaining certifications (e.g., CSCP) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior freight forwarders can advance to senior forwarder, team supervisor, or o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can start as a junior agent, gain experience to become a senior agent, team l
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cargo-and-freight-agents/US)**

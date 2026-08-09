@@ -53,8 +53,6 @@ Responsible for consulting, planning, and implementation management of enterpris
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
-
 Promotion to Senior Project Manager, IT Director, or Consulting Partner. After gaining experience, you can move to independent consulting or entrepreneurship, with salaries increasing significantly with project complexity.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Promotion to Senior Project Manager, IT Director, or Consulting Partner. After g
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (EU Directive)) | Suitable for highly skilled talent, offering a contract with an annual salary of €≥41,701, valid for 4 years, renewable with the option to renew |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for higher professional positions, with an annual salary ≥of €53,835 and fast-track residency applications |
-| Subclass Salarié (Employee Work Permit) | Employed by a French company, labor permit required, no strict annual salary requirement but must meet industry standards |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: The minimum requirement is Bac+3 (vocational bachelor's degree), but Bac+5 (m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/consulting-and-project-management-in-information-systems/FR)**

@@ -55,8 +55,6 @@ Zoologists study animal behavior, physiology, genetics, and ecology through fiel
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
-
 Junior zoologist (research assistant) can advance to senior scientist or project manager, or specialize in areas like marine biology or wildlife management. A PhD and extensive field experience are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Junior zoologist (research assistant) can advance to senior scientist or project
 | Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, applicable to research institutions or environmental consulting firms |
 | Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, suitable for working in regional government or research institutions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Federal and state environmental agencies (e.g., CSIRO, National Parks), unive
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/zoologist/AU)**

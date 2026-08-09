@@ -4,8 +4,6 @@
 
 Fishing boat crew members engage in fishing operations at sea, including operating fishing nets, handling catch, and maintaining onboard equipment. This profession requires physical strength, adaptability to offshore operations, and basic navigation skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Fishing boat crew members engage in fishing operations at sea, including operati
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall impact of AI on fishing boat crew is relatively low. Automation intrudes into navigation and catch handling processes, but core physical tasks and adaptability to harsh environments still rely on humans, resulting in a 'hybrid' state.
-
 Fishing vessel crew members can be promoted to senior crew members (such as chief mate or captain), requiring qualification through navigation training. Some crew members have shifted to land-based positions such as aquaculture, fisheries supervision, or seafood processing. Experienced individuals can also become fishing boat owners.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Fishing vessel crew members can be promoted to senior crew members (such as chie
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Temporary Worker)) | Employees of French fishing companies must obtain a work permit (Autorisation de Travail), usually requiring employer certification of recruitment difficulties. |
-| Subclass Passeport Talent (Passeport Talent - Salarié qualifié) | If you have CAP/Bac Pro or above qualifications, you can apply as a shortage technician to simplify procedures. |
-| Subclass Recherche emploi (Recherche d'emploi / Création d'entreprise) | Graduate residence permits allow you to find work or start a business in France, suitable for use after completing maritime training. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Basic safety training in STCW is required; Senior positions such as captains 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishing-crew/FR)**

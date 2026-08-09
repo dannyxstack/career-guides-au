@@ -52,8 +52,6 @@ Responsible for inspecting, grading, and marking the quality of timber and wood 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly replace visual inspection and manual grading tasks for agricultural product graders and sorters, but will also create new demands for quality traceability, supply chain coordination, etc. Entry-level positions face compression, but technical upgrade paths are clear
-
 Usually start as a wood processing worker, gain experience and advance to grader. Can progress to quality control supervisor, production manager, or technical expert, or become a senior inspector through certification.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Usually start as a wood processing worker, gain experience and advance to grader
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Not mandatory, but certification from the Canadian Lumber Standards Accredita
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lumber-graders-and-other-wood-processing-inspectors-and-graders/CA)**

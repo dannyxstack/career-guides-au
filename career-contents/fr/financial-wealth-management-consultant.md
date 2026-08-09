@@ -4,8 +4,6 @@
 
 Clients are provided with comprehensive financial planning and investment advice, covering asset allocation, tax optimization, retirement planning, and estate planning, helping clients achieve wealth preservation and growth.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Clients are provided with comprehensive financial planning and investment advice
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of financial wealth management advisors is mixed with AI: tasks such as data collection, standard report generation, and compliance checks will be automated, but aspects that rely on human judgment—such as client relationships, complex financial planning, and behavioral guidance—will be enhanced by AI tools.
-
 Promotion paths: junior consultant→ senior consultant→ team leader→ department director, or independently opening a consulting firm. You can also turn to private banks, family offices, or asset management companies. Continuous learning for certifications like CFA and CIF can help with promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Promotion paths: junior consultant→ senior consultant→ team leader→ depart
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applies to highly skilled talent, requires a contract with annual salary of at least approx. €45,000, valid for 4 years, renewable. |
-| Subclass Salarié (Work Permit (Salarié)) | Ordinary work permit requires employer sponsorship, salary meets industry standards, valid for 1 year, renewable with the right to apply. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to senior consultant, team leader, or department director
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-wealth-management-consultant/FR)**

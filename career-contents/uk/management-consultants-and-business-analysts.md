@@ -52,8 +52,6 @@ Management consultants and business analysts provide strategic, operational, and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Management consultants and business analysts face a mixed impact from AI: tasks like data analysis and report generation will be automated, but core value such as strategic advice and client communication still rely on human judgment.
-
 Common career progression: Junior Analyst → Consultant → Senior Consultant → Manager → Director → Partner. Also possible to transition into internal strategy, operations, or project management roles. Holding an MBA or professional certifications (e.g., CIMC) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Common career progression: Junior Analyst → Consultant → Senior Consultant �
 | Subclass Graduate (Graduate visa) | UK graduates can apply, allowing work for 2 years (3 years for PhD), then switch to work visa after gaining experience. |
 | Subclass Scale-up (Scale-up visa) | For high-skilled talent in rapidly growing companies, requires sponsorship. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually via Skilled Worker visa, requiring employer sponsorship with annual s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-consultants-and-business-analysts/UK)**

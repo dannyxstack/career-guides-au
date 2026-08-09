@@ -54,8 +54,6 @@ Hotel managers are responsible for the daily operations of a hotel, including ro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI brings mixed impacts for hotel managers: automation optimises operations but reduces entry-level positions, enhances data analysis and customer service, while interpersonal coordination and emergency decision-making remain a moat.
-
 Can advance from department head (e.g., housekeeping manager) to hotel manager, then to regional manager or group operations director; requires cross-departmental experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from department head (e.g., housekeeping manager) to hotel manager, 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires recognized professional qualifications or university degree; employer sponsorship is sufficient. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job searching in Germany; applicable to applicants with qualifications or experience. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completion of German dual vocational training (IHK certifi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-manager-6329/DE)**

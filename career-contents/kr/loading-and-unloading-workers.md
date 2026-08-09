@@ -4,8 +4,6 @@
 
 This occupation involves loading, unloading, and moving cargo at ports, airports, logistics centers, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ This occupation involves loading, unloading, and moving cargo at ports, airports
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of AI and automation technology, simple loading and unloading tasks will gradually be replaced by robots or automated systems. In particular, as conveyor belts, autonomous forklifts, and drone inventory management become more widespread, the demand for human labor is decreasing, and remaining tasks are expected to shift to inspection and maintenance.
-
 Even inexperienced workers can be hired, but with skill, obtaining forklift and crane certifications can lead to higher-paying specialized handling jobs.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Even inexperienced workers can be hired, but with skill, obtaining forklift and 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issued limitedly to logistics industry outside manufacturing, construction, and agriculture |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for some port handling as skilled worker |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans, eligible for logistics jobs |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Obtaining relevant licenses such as forklift or crane and gaining experience 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loading-and-unloading-workers/KR)**

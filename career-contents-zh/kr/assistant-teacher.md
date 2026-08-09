@@ -1,10 +1,8 @@
-# Assistant Teacher 职业分析 · 韩国
+# 助理教师（Assistant Teacher）职业分析 · 韩国
 
-**职业代码: 21291 (KECO)**
+**职业代码：21291 (KECO)**
 
-A professional who assists homeroom teachers in kindergartens, elementary, middle, high schools, and special education institutions, supporting learning guidance, life guidance, and administrative tasks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在幼儿园、小学、初中、高中及特殊教育机构中协助班主任，提供学习指导、生活指导和行政事务支持的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who assists homeroom teachers in kindergartens, elementary, middl
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-year) | 2 年 | $4,000,000~$8,000,000（Tuition based on national/public universities; private universities may be higher） |
-| Bachelor's Degree (4-year) | 4年 | $8,000,000~$20,000,000（Tuition at national/public universities; private universities may cost over KRW 10 million per year） |
+| 副学士学位（2年） | 2 年 | $4,000,000~$8,000,000（学费按国立/公立大学标准计算；私立大学可能更高） |
+| 学士学位（4年） | 4年 | $8,000,000~$20,000,000（国立/公立大学学费；私立大学每年可能超过1000万韩元） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who assists homeroom teachers in kindergartens, elementary, middl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Childcare Teacher Level 2 Certificate | Korea Childcare Promotion Agency | 必备 | Required for kindergarten/daycare assistant roles |
-| Special Education Assistant Training Certificate | Each City/Province Office of Education | 可选 | Preferred when applying as a special class assistant teacher |
-| Teacher's Certificate (Level 1 or 2 Regular Teacher) | 教育部 | 可选 | Required for transition to regular teacher |
+| 育儿教师二级证书 | 韩国育儿振兴院 (Korea Childcare Promotion Agency) | 必备 | 幼儿园/托儿所助理职位所需 |
+| 特殊教育助理培训证书 | 各市/道教育厅 | 可选 | 申请特殊班级助教时优先考虑 |
+| 教师资格证书（一级或二级正式教师） | 教育部 | 可选 | 转为正式教师所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 85,000. As the school-age population declines due to low birth rates, the hiring of assistant teachers is decreasing, but demand is expected to remain in specialized fields such as special education, multicultural education, and after-school programs.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 85,000。由于低出生率导致学龄人口下降，助教招聘减少，但特殊教育、多元文化教育和课后项目等专业领域的需求预计将保持。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional who assists homeroom teachers in kindergartens, elementary, middl
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$28,000,000 | Includes part-time and contract positions; increases upon conversion to full-time |
-| 中级 (4-7年) | $28,000,000~$35,000,000 | Salary increase based on experience |
-| Advanced (8+ years) | $35,000,000~$45,000,000 | When serving as a full-time assistant teacher or concurrently as a regular teacher |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 包括兼职和合同职位；转为全职后薪资提高 |
+| 中级 (4-7年) | $28,000,000~$35,000,000 | 基于经验的加薪 |
+| 高级（8年以上） | $35,000,000~$45,000,000 | 担任全职助教或兼任正式教师时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are unlikely to fully replace the work of teaching assistants. Personalized instruction, emotional support, and life guidance require human empathy and judgment. However, administrative tasks (e.g., attendance management, schedule creation) can be streamlined by AI.
+AI和自动化不太可能完全取代教学助理的工作。个性化指导、情感支持和人生指导需要人类的同理心和判断力。然而，行政任务（如考勤管理、日程安排）可由AI简化。
 
-Depending on experience, one can transition to a fixed-term teacher or regular teacher, and can advance to a regular teacher by pursuing a graduate school of education or obtaining a teacher's certificate. Some also change careers to become professional counselors or educational administrative staff within schools.
+根据经验，可以转为固定期限教师或正式教师，并通过就读教育研究生院或获得教师资格证书晋升为正式教师。有些人还转行成为专业顾问或学校内的教育行政人员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Checking and recording student attendance
-- Creating simple learning materials
-- Guiding basic repetitive learning
+- 检查并记录学生出勤
+- 制作简单学习材料
+- 指导基础重复学习
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based personalized learning assistance
-- Understanding students through learning data analysis
-- Managing online education platforms
+- 基于AI的个性化学习辅助
+- 通过学习数据分析了解学生
+- 在线教育平台管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional support and empathy skills
-- Face-to-face interaction and conflict resolution
-- Ability to handle unstructured situations
+- 情感支持与共情能力
+- 面对面互动与冲突解决
+- 处理非结构化情况的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Proficiency in AI educational tools
-- Data literacy
-- Expertise in special and multicultural education
+- 精通AI教育工具
+- 数据素养
+- 特殊和多元文化教育专业知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Special education assistant
-- Multicultural education
-- After-school programs
-- Neulbom School (extended care program)
+- 特殊教育助理
+- 多元文化教育
+- 课后项目
+- 纽尔博姆学校（课后托管项目）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Some foreign teacher hiring possible, but assistant teacher cases are rare |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents akin to permanent residents, no employment restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as assistant teachers but limited |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy interacting with children and have patience
-- People who are interested in education and find rewarding to support students in need
-- People who can flexibly handle various administrative and support tasks in school settings
+- 喜欢与孩子互动且有耐心的人
+- 对教育感兴趣并乐于支持有需要的学生的人
+- 能够灵活处理学校环境中各种行政和支持任务的人
 
 **谁不适合**
-- People who want high salary and quick promotion
-- People who dislike independent work direction rather than being instructed
+- 希望高薪和快速晋升的人
+- 不喜欢独立工作方向而非被指导的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an assistant teacher?**
-答：Entry-level pre-tax about 22 million to 28 million KRW, varies greatly by experience and employment type
+**问：助教的平均薪资是多少？**
+答：入门级税前约2200万至2800万韩元，因经验和就业类型差异很大
 
-**问：Are there visas for foreigners to work as assistant teachers?**
-答：Some possible with E-7 visa, but actual cases are very rare, mainly limited to F-2 and F-4 visa holders.
+**问：外国人担任助理教师有什么签证？**
+答：部分可通过E-7签证实现，但实际案例很少，主要限于F-2和F-4签证持有者。
 
-**问：Are there any certifications required to become a teaching assistant?**
-答：For kindergartens and daycare centers, a Level 2 childcare teacher certificate is mandatory; for school teaching assistants, there is no separate certification, but a related degree or training is advantageous.
+**问：成为助教需要任何认证吗？**
+答：幼儿园和日托中心必须持有二级保育员教师证书；学校助教无需单独认证，但相关学位或培训有优势。
 
 
 ---
@@ -145,12 +135,12 @@ Depending on experience, one can transition to a fixed-term teacher or regular t
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/assistant-teacher/KR)**

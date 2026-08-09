@@ -1,10 +1,8 @@
-# Announcer 职业分析 · 韩国
+# 播音员（Announcer）职业分析 · 韩国
 
-**职业代码: 41631 (KECO)**
+**职业代码：41631 (KECO)**
 
-A professional who delivers information and hosts broadcasts such as news, sports commentary, and entertainment programs, requiring excellent language skills and quick wit.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责新闻、体育解说和娱乐节目等信息的传播和主持的专业人士，需具备出色的语言能力和机智的反应。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who delivers information and hosts broadcasts such as news, sport
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 Years | $8,000,000~$15,000,000（Tuition for broadcasting/media-related departments） |
-| 本科（学士学位） | 4 Years | $20,000,000~$40,000,000（Tuition for national/private universities (e.g., Journalism and Broadcasting Department)） |
+| 副学士学位 | 2年 | $8,000,000~$15,000,000（广播/媒体相关专业学费） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（国立/私立大学学费（例如新闻广播系）） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who delivers information and hosts broadcasts such as news, sport
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean Language Proficiency Test (KBS Korean Language Test) | KBS Korean Language Institute | 可选 | Additional points given by some broadcasters |
-| Broadcast and Communication Engineer | Korea Broadcast and Communication Promotion Agency | 可选 | Not required for announcers in non-technical roles |
+| 韩国语能力考试（KBS韩国语考试） | KBS韩国语言学院 | 可选 | 部分广播公司提供的额外加分 |
+| 广播和通信工程师 | 韩国广播通信振兴院 | 可选 | 非技术岗位的播音员无需此项要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,000. With the expansion of digital media and the growth of personal broadcasting like YouTube, demand for announcers at traditional broadcasters is stagnating, but freelance opportunities are expected to increase.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,000。随着数字媒体扩张和个人广播如YouTube的增长，传统广播公司的主播需求停滞，但自由职业机会预计增加。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A professional who delivers information and hosts broadcasts such as news, sport
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $30,000,000~$45,000,000 | Based on starting salary at local broadcasters; metropolitan areas are slightly higher |
-| Intermediate (4–7 years) | $45,000,000~$70,000,000 | Varies by experience and broadcaster size |
-| Advanced (8+ years) | $70,000,000~$99,999,999 | Freelancers and main anchors may earn more |
+| Beginner (0–3 years) | $30,000,000~$45,000,000 | 基于当地广播公司起薪；大都市地区略高 |
+| 中级（4-7年） | $45,000,000~$70,000,000 | 因经验和广播公司规模而异 |
+| 高级（8年以上） | $70,000,000~$99,999,999 | 自由职业者和主播收入可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 Although AI can replace some technical tasks such as voice synthesis and automatic subtitle generation in broadcasting, the unique delivery and emotional expression of an announcer are difficult to replace by AI, so the ability to produce content using AI tools is expected to become more important.
 
-A common path is to gain experience at a local broadcaster, then move to a metropolitan broadcaster, or go freelance to work on various platforms.
+常见路径是在本地广播公司积累经验，然后转向都市广播公司，或成为自由职业者在多个平台工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple News Reading
-- Automated Voice Commentary
-- Mechanical Hosting
+- 简单新闻阅读
+- 自动语音解说
+- 机械托管
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time Captioning
-- Voice Analysis for Speech Correction
-- Personalized Content Recommendations
+- 实时字幕
+- 语音分析用于言语矫正
+- 个性化内容推荐
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional Delivery Skills
-- Improvisational Crisis Management
-- Building Rapport with Audience
+- 情感传递技能
+- 即兴危机管理
+- 与观众建立融洽关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI Editing Tools
-- Data-driven Storytelling
-- SNS Marketing
+- 利用人工智能编辑工具
+- 数据驱动叙事
+- SNS营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital broadcasting
-- Freelancer
-- YouTube Hosting
-- OTT Content
+- 数字广播
+- 自由职业者
+- YouTube主持
+- OTT内容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for hiring foreign announcers, but Korean proficiency must be proven |
-| Subclass F-2 (F-2 (Residence)) | Possible as a long-term foreign resident to work as a freelancer |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with excellent language skills and seamless hosting ability
-- Someone with quick wit and crisis management skills
-- Someone who stays calm under pressure
+- 具备出色语言能力和无缝主持能力的人
+- 思维敏捷且具备危机管理能力的人
+- 能在压力下保持冷静的人
 
 **谁不适合**
-- Someone extremely reluctant to speak in front of people
-- Someone who cannot adapt flexibly in improvisational situations
+- 极度不愿意在人群前发言的人
+- 无法在即兴情况下灵活适应的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an announcer?**
-答：Approximately 30-45 million KRW for entry-level, over 100 million KRW for freelancers with 10+ years of experience.
+**问：播音员的平均薪资是多少？**
+答：入门级约3000-4500万韩元，自由职业者10年以上经验超过1亿韩元。
 
-**问：Can foreigners work as announcers in Korea?**
-答：Possible, but requires an E-7 visa, Korean language proficiency is essential, and competition is very fierce.
+**问：外国人可以在韩国担任播音员吗？**
+答：可能，但需要E-7签证，韩语能力至关重要，竞争非常激烈。
 
-**问：Do I need to attend university to become an announcer?**
-答：It varies by broadcaster, but a bachelor's degree is preferred, especially in journalism and broadcasting.
+**问：成为播音员需要上大学吗？**
+答：因广播公司而异，但学士学位优先，尤其是新闻与广播专业。
 
 
 ---
@@ -143,12 +134,12 @@ A common path is to gain experience at a local broadcaster, then move to a metro
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/announcer/KR)**

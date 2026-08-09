@@ -51,8 +51,6 @@ Procurement agents are responsible for purchasing goods and services for the com
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly optimize procurement processes, but core negotiation and supplier relationship management still rely on humans; low-value procurement tasks are easily replaced, while strategic procurement roles gain value, overall mixed outlook.
-
 Promotion from junior purchaser to senior purchasing manager or supply chain director. Obtaining certifications like CIPS helps with career development and can also lead to strategic procurement or category management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Promotion from junior purchaser to senior purchasing manager or supply chain dir
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of experience, with a salary threshold of approximately 33,908 euros (2023). |
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employed work residency requires employer sponsorship and meets the national shortage occupation list to simplify the process. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | The Ley 14/2013 framework is suitable for executives, R&D personnel, and others with fast approvals. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Promotion from junior purchaser to procurement manager or supply chain direct
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-agents/ES)**

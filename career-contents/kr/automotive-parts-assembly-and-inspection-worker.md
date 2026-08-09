@@ -49,8 +49,6 @@ A production worker who assembles automotive parts and inspects their quality, w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Although AI and robots are replacing simple assembly and inspection tasks, complex adjustments and quality judgments still require human roles. Automation reduces some jobs but creates new ones like maintenance and repair.
-
 Starting as an entry-level assembler, you can advance to skilled worker, line leader, quality inspector, etc.; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -85,16 +83,9 @@ Starting as an entry-level assembler, you can advance to skilled worker, line le
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issuable for unskilled production jobs; employed by automotive parts manufacturers |
-| Subclass E-7 (E-7 (Specific Activities)) | Required for skilled foreign workers, such as automotive parts inspection |
-| Subclass F-2 (Residence (F-2)) | Long-term residence possible via points system, conversion for skilled workers |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -134,12 +125,12 @@ A: E-9 (Non-professional Employment) visa allows employment in manufacturing, ca
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-parts-assembly-and-inspection-worker/KR)**

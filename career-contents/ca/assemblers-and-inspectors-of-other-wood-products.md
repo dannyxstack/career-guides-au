@@ -51,8 +51,6 @@ Responsible for assembling, inspecting, and repairing various wooden products (s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation will partially replace repetitive assembly and inspection tasks, but complex customization, on-site adjustments, and quality judgment still require humans, with demand shifting toward high-tech roles.
-
 Can progress from junior assembler to senior assembler, inspector, or supervisor, or become a carpenter or joiner through apprenticeship.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior assembler to senior assembler, inspector, or supervisor
 | Subclass PNP (Provincial Nominee Program) | Many provinces have nomination programs for manufacturing or skilled trades, suitable for applicants with employer job offers. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, then apply for permanent residency |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can immigrate through Express Entry (FSW/CEC), Provincial Nominee Program (PN
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-and-inspectors-of-other-wood-products/CA)**

@@ -52,8 +52,6 @@ Responsible for map production, geospatial data collection and analysis, and sur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly enhance the work of cartographers and surveyors rather than replace it. Automating routine surveying tasks allows professionals to focus on high-value analysis, complex problem-solving, and decision-making, leading to a positive career outlook.
-
 Can advance from junior surveyor or cartographic technician to senior surveyor, project manager, or transition to specialist roles such as GIS expert or remote sensing analyst.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can advance from junior surveyor or cartographic technician to senior surveyor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For highly skilled non-EU individuals, a work contract is required with a salary meeting the threshold (approximately €5,331/month in 2024). |
-| Subclass Orientation Year (Orientation Year for Graduates) | Open to Master's or PhD graduates in the Netherlands; allows free job search within one year. |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Highly educated professionals with a salary threshold slightly higher than the Highly Skilled Migrant (about €6,245/month in 2024), can bring family. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically requires a bachelor's degree in geoinformatics, surveying, or a rel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographer-and-surveyor/NL)**

@@ -51,8 +51,6 @@ Under the supervision of engineers, surveyors, or cartographers, perform surveyi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Surveying and mapping technicians are at the core of AI reshaping—automation will take over much data collection and initial processing, but skills like field verification, anomaly decision-making, and cross-domain collaboration will increase in demand. Practitioners must shift to data validation, technical consulting, and AI tool management, or face job contraction risks.
-
 Can advance from junior technician to senior technician, project supervisor, or become a licensed surveyor or engineer through further education.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from junior technician to senior technician, project supervisor, or 
 | Subclass EB-3 (EB-3 Skilled Workers) | Permanent immigration pathway, requires PERM labor certification, long waiting period |
 | Subclass TN (TN NAFTA Professional) | Limited to Canadian and Mexican citizens, must meet specific occupation list. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires an associate degree or one-year certificate, with courses 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surveying-and-mapping-technicians/US)**

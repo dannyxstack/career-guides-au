@@ -51,8 +51,6 @@ Responsible for installing, maintaining, and repairing electronic systems in air
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Can advance from technician to senior technician or team supervisor, or further study to become an engineer or enter R&D departments.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from technician to senior technician or team supervisor, or further 
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for graduates of dual system programs or technicians with certified qualifications |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for job seekers with relevant experience but no employer sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can immigrate via EU Blue Card (bachelor's degree + high salary), skilled wor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aviation-maritime-and-vehicle-electronics-technician/DE)**

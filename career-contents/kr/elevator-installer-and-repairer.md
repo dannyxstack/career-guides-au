@@ -50,8 +50,6 @@ A technical professional who installs, regularly inspects, and repairs elevators
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace installation and maintenance work, so automation impact is low; rather, it is used as an auxiliary tool for tasks like inspection data analysis.
-
 Starting as a junior technician, you can grow into a mid-level or senior technician through field experience and certifications (e.g., Elevator Technician License), and also advance to a manager or self-employed.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as a junior technician, you can grow into a mid-level or senior technic
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled workers, but elevator installation is a professional field so E-7 is more suitable than E-9. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when employed as skilled workers; Korean language ability and experience required. |
-| Subclass F-2 (F-2 (Residence)) | Can convert to residence status after long-term stay; must pass points system. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Elevator mechanic certification is advantageous but not required; can be obta
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elevator-installer-and-repairer/KR)**

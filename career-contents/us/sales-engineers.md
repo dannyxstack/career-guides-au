@@ -52,8 +52,6 @@ A sales engineer is a salesperson with a technical background responsible for se
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Sales engineer role is mixed regarding AI impact: core tasks like technical consultation and solution design are enhanced by AI, but some information gathering and documentation can be automated. Overall risk is manageable, and proactive adoption of AI tools is needed to improve efficiency.
-
 Junior sales engineers can advance to senior sales engineer, sales manager, or regional director; some transition to product management or technical consulting. Those with an engineering degree and sales experience progress faster.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior sales engineers can advance to senior sales engineer, sales manager, or r
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers apply for green cards through the PERM process to certify no qualified U.S. workers are available. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with exceptional sales performance, must demonstrate top-tier expertise in the field |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, technical background and customer insight are advantages, but product ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-engineers/US)**

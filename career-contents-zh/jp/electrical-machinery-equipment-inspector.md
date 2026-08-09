@@ -1,10 +1,8 @@
-# Electrical Machinery Equipment Inspector 职业分析 · 日本
+# 电气机械设备检验员（Electrical Machinery Equipment Inspector）职业分析 · 日本
 
-**职业代码: 582 (JSCO)**
+**职业代码：582 (JSCO)**
 
-Workers in the production process who inspect finished products and parts of electrical machinery such as motors, generators, and transformers to ensure compliance with standards and quality criteria.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+生产过程中的工人，检查电机、发电机、变压器等电气机械的成品和部件，以确保符合标准和质量要求。
 
 
 ---
@@ -13,8 +11,8 @@ Workers in the production process who inspect finished products and parts of ele
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Some municipalities offer free public high school; private school tuition subsidies available） |
-| Vocational School (Electrical/Electronics) | 2 年 | $1,000,000~$3,000,000（Scholarships and education training benefits available） |
+| 高中 | 3年 | $0~$3,000,000（部分城市提供免费公立高中；私立学校学费补贴可用） |
+| 职业学校（电气/电子） | 2 年 | $1,000,000~$3,000,000（可申请奖学金和教育培训福利） |
 
 ---
 
@@ -22,18 +20,18 @@ Workers in the production process who inspect finished products and parts of ele
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Electrical Engineer | Ministry of Economy, Trade and Industry | 可选 | Class 3 or higher; required for electrical equipment safety and supervision |
-| Non-Destructive Testing Technician | Japanese Society for Non-Destructive Inspection | 可选 | Level 1 or higher; ultrasonic, magnetic, etc. |
-| QC (Quality Control) Certification | Japanese Society for Quality Control | 可选 | Basic knowledge of quality control |
+| 认证电气工程师 | 经济产业省 | 可选 | 3级或以上；电气设备安全与监督所需 |
+| 无损检测技术员 | 日本无损检测协会 | 可选 | 1 级或以上；超声波、磁粉等 |
+| 质量控制（QC）认证 | 日本质量控制学会 | 可选 | 质量控制基础知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. As manufacturing automation advances, demand for electrical machinery inspection remains stable. Expansion of electric vehicles and renewable energy sectors increases need for highly specialized inspectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。随着制造业自动化的发展，电气机械检查需求保持稳定。电动汽车和可再生能源领域的扩张增加了对高度专业化检查员的需求。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ Workers in the production process who inspect finished products and parts of ele
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,000,000 | Includes overtime pay; varies by region |
-| 中级(3-7年) | $4,000,000~$5,500,000 | Includes qualification allowance and position allowance |
-| 高级（7年以上） | $5,000,000~$7,000,000 | As manager or specialist |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 含加班费；因地区而异 |
+| 中级(3-7年) | $4,000,000~$5,500,000 | 包含资格津贴和岗位津贴 |
+| 高级（7年以上） | $5,000,000~$7,000,000 | 作为经理或专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI and automation will replace routine tasks like visual inspection and measurement data analysis, but areas requiring human experience—such as complex judgment and identifying root causes of anomalies—will be strengthened. As a result, job content will change, but positions will not completely disappear.
+人工智能和自动化将取代视觉检查、测量数据分析等常规任务，但需要人类经验的领域——如复杂判断和识别异常根本原因——将得到加强。因此，工作内容会改变，但职位不会完全消失。
 
-Entry level begins with line inspection. Career advancement to non-destructive testing or quality assurance is possible through years of experience and certification. ISO internal auditor certification is advantageous.
+入门级从线路检查开始。通过多年经验和认证可晋升至无损检测或质量保证。ISO内审员认证有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual inspection
-- Automatic recording of dimensional measurements
-- Simple pass/fail judgment
+- 目视检查
+- 自动记录尺寸测量
+- 简单合格/不合格判定
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analysis of anomaly detection by AI
-- Statistical analysis of inspection data
-- Identification and traceability of defect causes
+- AI异常检测分析
+- 检验数据的统计分析
+- 缺陷原因识别与追溯
 
-**人类护城河:**
+**人类护城河：**
 
-- Identification of anomaly causes and improvement proposals
-- Complex quality judgment
-- Technical discussions with customers
+- 异常原因识别与改进建议
+- 复杂质量判断
+- 与客户进行技术讨论
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Quality engineering
-- Data analysis
-- Non-destructive testing technology
-- AI tool operation
+- 质量工程
+- 数据分析
+- 无损检测技术
+- 人工智能工具操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicles
-- Renewable energy
-- Smart grid
-- Quality control DX
+- 电动汽车
+- 可再生能源
+- 智能电网
+- 质量控制DX
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available with university degree or 10+ years work experience. Covers inspection work. Renewed every 3 or 5 years. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Requires skills test and JLPT N4 or higher. Maximum 5 years. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing 3 fields)) | For skilled workers. No renewal limit; family accompaniment and permanent residency possible. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are good at working steadily and accurately
-- People interested in machinery/electricity with keen observation skills
-- People with a strong commitment to quality
+- 工作稳定且准确的人
+- 对机械/电气感兴趣且观察力敏锐的人
+- 对质量有强烈承诺的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People not good at following rules and procedures
+- 不擅长遵循规则和程序的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical starting salary for electrical machinery equipment inspection?**
-答：Entry-level (0-3 years) annual income is generally 3-4 million JPY. Varies with overtime and night shifts.
+**问：电机设备检验的典型起薪是多少？**
+答：入门级（0-3年）年收入一般为300-400万日元，视加班和夜班情况而定。
 
-**问：How can a foreigner get this job?**
-答：Engineer/Specialist in Humanities/International Services visa requires a university degree or 10+ years of experience. Specified Skilled Worker (i) is possible with passing the exam and N4 or above.
+**问：外国人如何获得这份工作？**
+答：人文知识/国际业务工程师签证要求大学学历或10年以上经验。特定技能工人(i)可通过考试和N4以上日语水平申请。
 
-**问：How can you advance your career?**
-答：By obtaining certifications such as Non-Destructive Testing Engineer or Chief Electrical Engineer, you can step up to quality assurance or production management.
+**问：如何推进职业生涯？**
+答：通过获得无损检测工程师或总电气工程师等认证，可以晋升到质量保证或生产管理岗位。
 
 
 ---
@@ -146,12 +136,12 @@ Entry level begins with line inspection. Career advancement to non-destructive t
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-machinery-equipment-inspector/JP)**

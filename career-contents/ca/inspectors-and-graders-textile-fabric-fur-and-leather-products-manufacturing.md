@@ -54,8 +54,6 @@ Responsible for inspecting the quality of textiles, fabrics, fur, and leather pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation faces a high risk of automation; AI and computer vision will replace many repetitive visual inspections and grading tasks, but some complex judgments and physical operations still require human input.
-
 Junior inspectors can advance to senior inspectors or quality supervisors through experience. Further career moves into quality management or production management. Need continuous learning of new inspection techniques.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior inspectors can advance to senior inspectors or quality supervisors throug
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Outlook stable but with limited growth. Automated inspection may reduce deman
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inspectors-and-graders-textile-fabric-fur-and-leather-products-manufacturing/CA)**

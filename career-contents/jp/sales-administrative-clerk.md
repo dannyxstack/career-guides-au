@@ -52,8 +52,6 @@ This role supports sales operations from an administrative perspective, includin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine tasks like order/inventory/data entry are automated via RPA/AI, but areas requiring human judgment (customer handling, sales support coordination) remain. Overall employment declines, but value of advanced skills rises.
-
 Start as a general office clerk, then progress to sales assistant, sales administrative chief, and sales administrative manager. Gaining experience in related areas like accounting or purchasing broadens career prospects.
 
 **Tasks most exposed to AI:**
@@ -93,15 +91,9 @@ Start as a general office clerk, then progress to sales assistant, sales adminis
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | General office work. Requires vocational school degree or work experience. |
-| Subclass 特定活動（外国人材の活躍推進） (Designated Activities (covered by guidelines)) | May qualify under the Highly Skilled Professional point system, etc. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +137,12 @@ A: Gain experience in adjacent roles like accounting or purchasing, aim for mana
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-administrative-clerk/JP)**

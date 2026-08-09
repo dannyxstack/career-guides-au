@@ -49,8 +49,6 @@ A professional who cooks Western dishes in a Western restaurant, responsible for
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Western cuisine chefs have a low risk of complete replacement by AI. While cooking automation technology is introduced as an aid, human value is maintained in creative menu development and customized customer service.
-
 Promotion: kitchen assistant → cook → senior cook → head chef; or build career in hotel/restaurant chains to franchise entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Promotion: kitchen assistant → cook → senior cook → head chef; or build ca
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | Minimum 1 year experience + certification required for skilled chef employment |
-| Subclass F-2 (F-2 (Residence) Visa) | Convertible after long-term stay, points system |
-| Subclass F-4 (Overseas Korean visa) | Employment permitted only for overseas Koreans |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Usually, more than 8-10 years of experience are needed, along with intermedia
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/western-cuisine-chef/KR)**

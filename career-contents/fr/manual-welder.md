@@ -4,8 +4,6 @@
 
 Manual welders use techniques such as arc welding and gas welding to weld, cut, and repair metal parts, and are widely used in manufacturing, construction, and ship repair.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Manual welders use techniques such as arc welding and gas welding to weld, cut, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Junior welders can be promoted to welding technician after obtaining CQPM or CAP certificates, or transition to automated welding programming or welding inspectors. Experienced candidates can serve as welding supervisors or start welding companies.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior welders can be promoted to welding technician after obtaining CQPM or CAP
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | Employer sponsorship is required, employment contracts are provided, and the French Ministry of Labor reviews the labor market situation |
-| Subclass Passeport Talent (Talent Passport) | Applicable to high-skilled or shortage occupations, must meet annual salary ≥36,985 euros (2025 standard). |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled professionals, annual salary must be ≥€41,845 (2025 standard), employed by a French company. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You can be promoted to welding technician, welding inspector, production supe
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manual-welder/FR)**

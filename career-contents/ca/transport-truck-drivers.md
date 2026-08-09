@@ -53,8 +53,6 @@ Drive heavy trucks (usually semi-trailers) in Canada to transport goods, coverin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Transport truck drivers face opportunities from AI-assisted optimization, but core driving tasks are not easily automated in the short term; entry-level positions have narrowed due to regulations and costs, but overall demand is stable, and upskilling is key.
-
 Junior drivers can obtain higher-class licenses (e.g., AZ) to expand cargo types, or gain experience to move into fleet management, dispatching, or owner-operator. Some drivers transition to specialized areas like hazardous materials or refrigerated transport for higher pay.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior drivers can obtain higher-class licenses (e.g., AZ) to expand cargo types
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored category, suitable for drivers working in the region. |
 | Subclass RNIP (Rural and Northern Immigration Pilot) | Remote northern pilot, some communities have demand for transport companies |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires obtaining a Class 1 (or AZ) license in the province, costing approxi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-truck-drivers/CA)**

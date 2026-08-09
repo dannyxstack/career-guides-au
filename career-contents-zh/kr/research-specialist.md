@@ -1,10 +1,8 @@
-# Research Specialist 职业分析 · 韩国
+# 研究专员（Research Specialist）职业分析 · 韩国
 
-**职业代码: 02423 (KECO)**
+**职业代码：02423 (KECO)**
 
-A professional who plans, designs, and analyzes opinion polls, market research, social surveys, etc., and writes reports.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+规划、设计和分析民意调查、市场研究、社会调查等并撰写报告的专业人士。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who plans, designs, and analyzes opinion polls, market research, 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 2-3 Year College | 2 年 | $6,000,000~$12,000,000（Based on national/public universities; private universities are 2 times） |
-| 4-Year University | 4年 | $8,000,000~$20,000,000（Based on national/public universities; private universities are 3 times） |
-| Graduate School (Master's) | 2 年 | $20,000,000~$40,000,000（Consider national/public universities and scholarships） |
+| 2-3年制大学 | 2 年 | $6,000,000~$12,000,000（基于国立/公立大学；私立大学费用为其2倍） |
+| 四年制大学 | 4年 | $8,000,000~$20,000,000（基于国立/公立大学；私立大学为3倍） |
+| 研究生院（硕士） | 2 年 | $20,000,000~$40,000,000（考虑国立/公立大学和奖学金） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional who plans, designs, and analyzes opinion polls, market research, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Survey Analyst Level 2 | Korea Data Agency | 可选 | National certification, not mandatory but preferred |
-| Social Survey Analyst Level 1 | Korea Data Agency | 可选 | Advanced certification, required for managerial positions |
+| 社会调查分析师二级 | 韩国数据局 | 可选 | 国家认证，非强制但优先 |
+| 社会调查分析师一级 | 韩国数据局 | 可选 | 高级认证，管理职位必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. Employment is stable due to increasing demand for data-driven decision-making, but simple statistical tasks are expected to decrease with the advancement of AI analysis tools.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。由于对数据驱动决策的需求增加，就业稳定，但简单统计任务预计会随着AI分析工具的进步而减少。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A professional who plans, designs, and analyzes opinion polls, market research, 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $26,000,000~$35,000,000 | Varies by company size |
-| 中级 (3-7年) | $35,000,000~$50,000,000 | Varies by task complexity |
-| Advanced (7+ years) | $50,000,000~$80,000,000 | Managerial level, possible to become a consultant |
+| 初级（0-3年） | $26,000,000~$35,000,000 | 因公司规模而异 |
+| 中级 (3-7年) | $35,000,000~$50,000,000 | 视任务复杂度而定 |
+| 高级（7年以上） | $50,000,000~$80,000,000 | 管理层级，可能成为顾问 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI automates data collection and basic statistical analysis, but higher-level judgments like research design, questionnaire development, and context interpretation remain crucial human roles, resulting in mixed impacts.
+AI自动化数据收集和基本统计分析，但研究设计、问卷开发和情境解读等高层次判断仍是人类的关键作用，因此影响喜忧参半。
 
-Typically employed by research institutes, polling agencies, and corporate planning departments; after gaining experience, can advance to lead researcher or independent consultant.
+通常受雇于研究机构、民调机构和企业规划部门；积累经验后可晋升为首席研究员或独立顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple data cleaning
-- Basic descriptive statistics calculation
-- Formatted report writing
+- 简单数据清洗
+- 基本描述性统计计算
+- 格式化报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Big data pattern discovery
-- Sentiment analysis result interpretation
-- Visualization dashboard creation
+- 大数据模式发现
+- 情感分析结果解读
+- 可视化仪表板创建
 
-**人类护城河:**
+**人类护城河：**
 
-- Research design know-how
-- Domain knowledge
-- Client needs identification
-- Ethical judgment
+- 研究设计知识
+- 领域知识
+- 识别客户需求
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning basics
-- Statistical programming (R/Python)
-- Data visualization
-- Critical thinking
+- 机器学习基础
+- 统计编程（R/Python）
+- 数据可视化
+- 批判性思维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Big data analysis
-- Consumer insights
-- Social survey methodology
-- AI-powered research
+- 大数据分析
+- 消费者洞察
+- 社会调查方法
+- AI驱动研究
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Applicable with professional experience/degree, can apply as research specialist |
-| Subclass F-2 (Residence) | Points-based system, long-term residents, career in research field recognized |
-| Subclass D-10 (Job-seeking) | Associate degree or higher, possible when engaging in research-related job-seeking |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in statistics and social phenomena
-- People with analytical thinking and meticulousness
-- People with excellent communication skills
+- 对统计和社会现象有浓厚兴趣的人
+- 具有分析思维和细致特点的人
+- 沟通能力强的人
 
 **谁不适合**
-- People who find repetitive tasks tedious
-- People who have difficulty with face-to-face interaction
+- 不喜欢重复性工作的人
+- 面对面交流困难者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a research specialist?**
-答：Entry-level pre-tax 26-35 million KRW; with 7+ years of experience, 50-80 million KRW.
+**问：研究专家的平均工资是多少？**
+答：入门级税前2600-3500万韩元；7年以上经验，5000-8000万韩元。
 
-**问：What visa is required for foreigners to work as research specialists?**
-答：If you have professional experience or a degree in a specialized field, you can apply for an E-7 (Specific Activities) visa.
+**问：外国人从事研究专员工作需要什么签证？**
+答：如果你有专业经验或专业领域的学位，可以申请E-7（特定活动）签证。
 
-**问：Is a social survey analyst certification absolutely necessary to become a survey expert?**
-答：It's not mandatory, but it provides bonus points in hiring and helps improve job competency.
+**问：社会调查分析师认证对于成为调查专家是否绝对必要？**
+答：非强制性，但在招聘中提供加分，有助于提高工作能力。
 
 
 ---
@@ -147,12 +137,12 @@ Typically employed by research institutes, polling agencies, and corporate plann
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/research-specialist/KR)**

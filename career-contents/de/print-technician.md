@@ -53,8 +53,6 @@ Print technicians operate and maintain printing equipment such as offset and dig
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly enhance printers' color management, quality inspection, and process optimization capabilities, but tasks like graphic design, basic layout, and simple fault diagnosis face automation risks; job roles shift toward technical operations and AI tool management.
-
 Career starts as a printing assistant or operator, with advancement to printing technician through dual-system training. With experience, can progress to printing technician or production supervisor, or transition to emerging fields like digital media or packaging printing.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career starts as a printing assistant or operator, with advancement to printing 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress to become a printing technician, or move into production managem
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-technician/DE)**

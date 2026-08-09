@@ -52,8 +52,6 @@ Geologists and geophysicists study the Earth's physical properties, structure, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Junior Geologists/Geophysicists can be promoted to project leaders or technical experts; Later, they can transition to management roles or start consulting firms. Those with a doctoral degree can work at universities or research centers.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior Geologists/Geophysicists can be promoted to project leaders or technical 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with a salary threshold of about €33,900 per year. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For graduate students or those with more than three years of work experience, companies can apply and approve quickly. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employment-based residence requires employer sponsorship and applies to general positions. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Complutense University of Madrid (UCM), University of Barcelona (UB), Univers
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geologist-and-geophysicist/ES)**

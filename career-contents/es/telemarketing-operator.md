@@ -4,8 +4,6 @@
 
 Promote products or services to potential customers by phone, record customer information and feedback, and achieve sales targets. Usually employed by call centers or outsourcing companies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Promote products or services to potential customers by phone, record customer in
 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-Telemarketing operators face a high risk of AI replacement, with a large number of repetitive tasks automated, entry-level positions sharply shrinking, and survivors turning to high-value customer relationship management.
 
 You can be promoted from a junior telemarketing representative to team leader, call center supervisor, or trainer. They may also shift to online customer service or sales support roles, requiring improved communication and data analysis skills.
 
@@ -100,15 +96,9 @@ You can be promoted from a junior telemarketing representative to team leader, c
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | A job contract must be provided by a Spanish company, and suitable candidates cannot be recruited within the EU, making it difficult to get approval for telemarketing positions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: The outlook is limited, and it is heavily influenced by automation and AI. Yo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telemarketing-operator/ES)**

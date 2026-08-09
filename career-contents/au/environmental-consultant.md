@@ -51,8 +51,6 @@ Environmental consultants are an important profession in Australia's environment
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core tasks of environmental consultants (report writing, data analysis, regulatory compliance) will be significantly enhanced by AI, but human abilities like field investigation, client communication, and strategic decision-making remain irreplaceable. Entry-level roles are slightly compressed due to automation of basic tasks, but demand for compound talents rises. Overall, it's a mixed risk.
-
 Digitalisation and professional certification requirements continue to rise; environmental consultants must continuously update their skills to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Digitalisation and professional certification requirements continue to rise; env
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-consultant/AU)**

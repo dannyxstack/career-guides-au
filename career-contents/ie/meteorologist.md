@@ -51,8 +51,6 @@ Meteorologists study atmospheric phenomena, conduct weather forecasting and clim
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Meteorologists' core tasks are being rapidly replaced by AI and automation tools, especially in numerical weather prediction, data analysis, and pattern recognition, with entry-level roles shrinking markedly.
-
 Typically start as a meteorological analyst, with potential to advance to senior forecaster, chief meteorologist, or research director. May also transition to meteorological technology development or environmental consulting.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Typically start as a meteorological analyst, with potential to advance to senior
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance from analyst to senior forecaster, chief meteorologist, or resear
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/IE)**

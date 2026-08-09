@@ -53,8 +53,6 @@ Set up, operate, or tend metal or plastic molding, coremaking, or casting machin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
-
 Typically start as machine operators, gain experience to advance to senior operator, team leader, or mold technician. Can also obtain higher skills through vocational training and move into mold design or quality control.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as machine operators, gain experience to advance to senior opera
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Negative employment outlook; jobs are expected to decline. Automation replace
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/molding-coremaking-and-casting-machine-setters-operators-and-tenders-metal-and-plastic/US)**

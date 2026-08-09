@@ -4,8 +4,6 @@
 
 A medical specialist who diagnoses and treats diseases from infancy through adolescence, and manages growth, development, and vaccinations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A medical specialist who diagnoses and treats diseases from infancy through adol
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI supports pediatric care by aiding in image interpretation, diagnostic assistance, and drug dosage calculation, enhancing physicians' capabilities, but patient-guardian interviews, empathy, and comprehensive clinical judgment remain uniquely human domains.
-
 After graduating from medical school, complete a 4-year internship and residency to become a pediatric specialist; then typically open a clinic, work at a hospital, or pursue a teaching/research path at a university.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ After graduating from medical school, complete a 4-year internship and residency
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if a foreign doctor is invited to a domestic medical institution for treatment/research, but very limited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: Medical school 6 years, internship 1 year, residency 3 years; at least 10 yea
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pediatrician/KR)**

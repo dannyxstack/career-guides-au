@@ -51,8 +51,6 @@ Physical laboratory technicians assist physicists and engineers in scientific ex
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will take over repetitive tasks like data recording and instrument calibration, but physical experiment design, anomaly diagnosis, and complex equipment maintenance still require human judgment. Overall, jobs won't disappear, but work content will change significantly, with skill requirements upgrading.
-
 Can progress from junior technician to senior lab expert or team leader, or become an application engineer or R&D engineer through further study. Some move to quality management or product development.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from junior technician to senior lab expert or team leader, or beco
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to Senior Technician, Laboratory Supervisor, or further study to 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physics-laboratory-technician/DE)**

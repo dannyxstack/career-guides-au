@@ -4,8 +4,6 @@
 
 Operate and maintain packaging machinery (such as filling machines, sealing machines, labeling machines) to ensure the quality and efficiency of product packaging. It is commonly found in industries such as food, pharmaceuticals, and chemicals.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate and maintain packaging machinery (such as filling machines, sealing mach
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Packaging and filling machine operators have repetitive tasks and fixed environments; AI and automation will significantly reduce positions, requiring low cognitive skills, with very high substitution risk.
-
 Promotion from junior operator to production line team leader, equipment commissioner, or production supervisor; You can also become an automation engineer through training.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Promotion from junior operator to production line team leader, equipment commiss
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship; company must prove inability to hire locally (shortage occupations relaxed). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: You can be promoted from operator to team leader, production supervisor, equi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packaging-equipment-operator/FR)**

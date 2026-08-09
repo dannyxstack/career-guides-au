@@ -51,8 +51,6 @@ Operates cranes, hoists, and other equipment to move heavy objects, widely used 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Crane operators face mixed impacts from AI/automation: high-precision tasks (e.g., lift path planning) will be enhanced, but routine monitoring operations may be automated, requiring a shift to remote control and smart construction sites.
-
 Starting as an assistant operator, you can progress through experience to senior operator, team leader, or trainer. Some move into equipment management or safety supervision.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Starting as an assistant operator, you can progress through experience to senior
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled workers requiring employer sponsorship, meeting income threshold (~€5,112/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talents, requires higher education or 5 years of experience, income threshold approx. €5,900/month. |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 global universities can search for jobs in the Netherlands for one year and switch to a work visa upon finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Must hold a crane operator certificate issued by the Dutch Labour Foundation.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-hoist-and-related-plant-operator/NL)**

@@ -51,8 +51,6 @@ Supervise and coordinate the activities of other product manufacturing and assem
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core of other products manufacturing and assembly supervisors—supervision, scheduling, and quality control—is gradually being infiltrated by AI and automation; however, on-site interpersonal coordination and troubleshooting of unexpected issues still heavily rely on human experience, a mixed blessing.
-
 Can advance from production line worker to supervisor, then to production manager or plant manager. With experience, can also move into quality management or supply chain management roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance from production line worker to supervisor, then to production manage
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario, BC, and Manitoba have manufacturing-related provincial nomination programs. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa and subsequent immigration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Typically requires high school graduation, but a diploma or vocational certif
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-other-products-manufacturing-and-assembly/CA)**

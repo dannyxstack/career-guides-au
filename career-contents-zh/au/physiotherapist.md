@@ -1,6 +1,6 @@
 # 物理治疗师（Physiotherapist）职业分析 · 澳大利亚
 
-**职业代码: 252511 (ANZSCO)**
+**职业代码：252511 (ANZSCO)**
 
 物理治疗师通过运动、手法和康复训练治疗肌肉骨骼、神经和心肺疾病，服务于医院、诊所、老年护理、体育俱乐部和社区健康机构。MLTSSL在列，需求稳定且持续增长。
 
@@ -20,19 +20,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor/Master of Physiotherapy | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Physiotherapy Registration | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
-| APC（Australian Physiotherapy Council）评估 | Australian Physiotherapy Council | 可选 | 海外物理治疗师学历评估 |
-| Sports Physiotherapy 专科资质 | Sports Medicine Australia / APA | 可选 | 晋升运动物理治疗师的进阶资质 |
+| 物理治疗学士/硕士 | 认可大学 | 必备 | AHPRA注册基础学历 |
+| AHPRA物理治疗注册 | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
+| APC（Australian Physiotherapy Council）评估 | 澳大利亚物理治疗委员会 | 可选 | 海外物理治疗师学历评估 |
+| Sports Physiotherapy 专科资质 | 澳大利亚运动医学/APA | 可选 | 晋升运动物理治疗师的进阶资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 36,000. JSA 预测物理治疗师至2035年就业增长约15%。老龄化人口（骨关节疾病增加）、运动健康意识提升和老年护理改革是主要驱动力。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 36,000。JSA 预测物理治疗师至2035年就业增长约15%。老龄化人口（骨关节疾病增加）、运动健康意识提升和老年护理改革是主要驱动力。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 物理治疗师因需要高度人际互动和临床判断，整体自动化风险较低，但AI将在诊断影像分析、患者数据管理、远程监控、自动化康复设备和文书工作方面显著增强其效率，并可能压缩初级岗位，需警惕AI辅助下的知识基础要求提高。
 
 运动物理治疗（NRL/AFL/NBL等职业联赛）和老年护理物理治疗是增长最快的方向。Telehealth物理治疗在COVID后迅速普及，创造新就业模式。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成患者评估报告和进度记录
 - 基于AI的影像（如X光、MRI）初步筛查和异常标记
@@ -67,7 +67,7 @@
 - 通过可穿戴设备自动收集并分析患者活动数据
 - 处理保险和预约等行政事务的AI前台系统
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析患者运动模式数据以优化个性化治疗计划
 - 通过远程康复平台和AI实时反馈扩大服务覆盖面
@@ -75,7 +75,7 @@
 - 使用自然语言处理快速检索最新研究和治疗方案
 - 借助VR/AR设备创建沉浸式康复训练环境
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂病例的临床综合判断和多系统交互评估
 - 建立信任关系的面对面沟通和共情能力
@@ -83,7 +83,7 @@
 - 跨学科协作中的专业建议和团队领导
 - 处理患者恐惧、动机等心理因素的激励技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI辅助诊断工具（如肌肉骨骼超声AI）的使用
 - 远程康复平台操作与数据分析
@@ -92,17 +92,17 @@
 - Python或R基础编程用于康复数据分析
 - 人机交互与VR康复内容设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aged Care Physiotherapy
-- Sports & Exercise Rehabilitation
-- Telehealth Physiotherapy
-- Rural & Remote Primary Health
-- Workplace Injury Rehabilitation
+- 老年护理物理治疗
+- 运动与康复
+- 远程医疗物理治疗
+- 农村与偏远地区初级卫生
+- 工伤康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -113,9 +113,7 @@
 | Subclass 190 (Skilled Nominated) | 州提名，农村医疗机构享优先 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区医疗，提名加15分 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -177,12 +175,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/physiotherapist/AU)**

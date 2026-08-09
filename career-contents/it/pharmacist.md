@@ -51,8 +51,6 @@ Responsible for dispensing medications, reviewing prescriptions, providing medic
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 Can progress from community pharmacist to pharmacy manager or regional director; or transition to hospital clinical pharmacy, pharmaceutical R&D, or regulatory affairs.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from community pharmacist to pharmacy manager or regional director;
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and a work contract with an annual salary of at least approximately €35,000 |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, employer-sponsored, applicable to non-EU citizens |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | Opening an independent pharmacy requires meeting capital and qualification requirements |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Must obtain an Italian-accredited pharmacy degree, pass national exams and re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/IT)**

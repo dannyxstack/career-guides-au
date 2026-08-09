@@ -54,8 +54,6 @@ Plumbing inspectors are responsible for inspecting plumbing installation, mainte
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-For pipe inspectors, AI is both a threat and a helper—it can automatically handle document comparison and photo recording, but core tasks like on-site judgment, compliance discretion, and communication remain stable, so it's a mixed blessing.
-
 Career progression can go from inspector to senior inspector, supervisor, or into government regulatory agencies. Experienced individuals can also transition to construction project management or compliance consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can go from inspector to senior inspector, supervisor, or int
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, only some states include inspectors on the list. |
 | Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, suitable for positions in regional areas. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically need to first obtain a plumber’s license (through an apprenticesh
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumbing-inspector/AU)**

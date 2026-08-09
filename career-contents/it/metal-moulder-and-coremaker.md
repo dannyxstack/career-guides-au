@@ -4,8 +4,6 @@
 
 Operate casting equipment to produce sand molds, cores, and metal castings for industries such as automotive and machinery.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate casting equipment to produce sand molds, cores, and metal castings for i
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As traditional manufacturing roles, metal moulders and coremakers face high automation risk in core tasks like moulding, sand mixing, and pouring, with AI-driven simulation and robots accelerating replacement, but complex mould adjustments still rely on human experience.
-
 Can progress from apprentice to skilled molder, then to foreman or foundry technician, or move into mold design or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can progress from apprentice to skilled molder, then to foreman or foundry techn
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, annual salary must be approximately €27,000 (2024 standard) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship |
-| Subclass Nulla Osta (Nulla Osta Work Visa) | Work permit, subject to labour market test |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can progress from apprentice to skilled worker, foreman, and then to foundry 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-moulder-and-coremaker/IT)**

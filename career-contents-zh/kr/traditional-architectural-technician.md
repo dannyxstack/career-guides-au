@@ -1,10 +1,8 @@
-# Traditional Architectural Technician 职业分析 · 韩国
+# 传统建筑技术员（Traditional Architectural Technician）职业分析 · 韩国
 
-**职业代码: 70162 (KECO)**
+**职业代码：70162 (KECO)**
 
-Technician responsible for new construction, repair, and restoration of traditional buildings such as hanok, using traditional techniques including woodworking, plastering, roofing, and decorative painting.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责传统建筑（如韩屋）的新建、维修和修复的技术人员，使用包括木工、泥瓦、屋顶和装饰彩绘在内的传统技术。
 
 
 ---
@@ -13,10 +11,10 @@ Technician responsible for new construction, repair, and restoration of traditio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$5,000,000（Free general high school education; some vocational schools require partial tuition） |
-| Traditional Architecture Department at a Junior College | 2 年 | $12,000,000~$20,000,000（Tuition and practice fees） |
-| Department of Traditional Architecture at Korea National University of Cultural Heritage | 4年 | $24,000,000~$40,000,000（Tuition and practice fees） |
-| 学徒制培训 | 3-5年 | $0~$5,000,000（Low or no pay during apprenticeship period） |
+| 高中毕业 | 3年 | $0~$5,000,000（普通高中免学费；部分职业学校需部分学费） |
+| 专科学校传统建筑系 | 2 年 | $12,000,000~$20,000,000（学费和实习费） |
+| 韩国国家文化遗产大学传统建筑系 | 4年 | $24,000,000~$40,000,000（学费和实习费） |
+| 学徒制培训 | 3-5年 | $0~$5,000,000（学徒期间报酬低或无报酬） |
 
 ---
 
@@ -24,18 +22,18 @@ Technician responsible for new construction, repair, and restoration of traditio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cultural Property Repair Technician (carpenter, joiner, etc.) | Korea Cultural Heritage Foundation | 必备 | Required for cultural property repair sites |
-| Traditional Architecture Technician | Human Resources Development Service of Korea | 可选 | National technical qualification |
-| Architectural Carpentry Technician | Human Resources Development Service of Korea | 可选 | General architectural carpentry qualification |
+| 文化财产修复技师（木匠、细木工等） | Korea Cultural Heritage Foundation | 必备 | 文化财产修复现场所需 |
+| 传统建筑技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格 |
+| 建筑木工技师 | 韩国人力资源开发服务局 | 可选 | 一般建筑木工资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 5,000. Demand for cultural heritage preservation and traditional architecture is steady, but a shortage of new entrants makes the employment outlook stable.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 5,000。文化遗产保护和传统建筑需求稳定，但新入行者短缺，因此就业前景稳定。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -43,91 +41,82 @@ Technician responsible for new construction, repair, and restoration of traditio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Trainee and Assistant Craftsperson |
-| Intermediate (4-10 years) | $35,000,000~$45,000,000 | Can Work Independently |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Master Builder or Cultural Heritage Repair Technician |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 实习生和助理技工 |
+| 中级（4-10年） | $35,000,000~$45,000,000 | 能独立工作 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 建造大师或文化遗产修复技师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can replace some tasks in traditional architecture such as design, drafting, and material calculation, but on-site skills and handicraft techniques are difficult to replace with AI, maintaining demand for manpower.
+AI可以取代传统建筑中的一些任务，如设计、绘图和材料计算，但现场技能和手工技艺很难被AI取代，因此对人力需求仍然存在。
 
-Promotion to master craftsman (carpenter, joiner) or independent contracting after obtaining cultural property repair technician certification is common.
+获得文化财产修复技师认证后，晋升为高级工匠（木工、细木工）或独立承包是常见的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drafting
-- Material quantity estimation
-- Basic structural calculations
+- 简单绘图
+- 材料数量估算
+- 基本结构计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision restoration design
-- Structural safety simulation
-- Cultural property documentation
+- 精准修复设计
+- 结构安全模拟
+- 文化财产记录
 
-**人类护城河:**
+**人类护城河：**
 
-- Handicraft skills
-- On-site experience and know-how
-- Understanding of traditional techniques
+- 手工艺技能
+- 现场经验和诀窍
+- 对传统工艺的理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced Traditional Building Techniques
-- Utilizing AI Design Tools
-- Obtaining Cultural Heritage Repair Certification
+- 高级传统建筑技术
+- 利用AI设计工具
+- 获取文化遗产修复认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- New construction of Hanok
-- Cultural property restoration
-- Traditional architecture experience
-- Eco-friendly construction
+- 韩屋新建
+- 文化财产修复
+- 传统建筑经验
+- 环保建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible only when invited as a traditional architecture expert, but very limited |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Not possible in traditional architecture; simple construction labor possible |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents, but freedom to work |
-| Subclass F-4 (F-4 (Overseas Korean)) | No employment restrictions for overseas Koreans |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity
-- People interested in traditional culture
-- People who are physically fit and can endure outdoor work
+- 手巧的人
+- 对传统文化感兴趣的人
+- 身体健康、能胜任户外工作的人
 
 **谁不适合**
-- Digital technology enthusiasts
-- People seeking high income in a short period
+- 数字技术爱好者
+- 追求短期高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level (0-3 years), the annual pre-tax salary is approximately 24-30 million won, and may be lower during the probation period.
+**问：起薪是多少？**
+答：对于入门级（0-3年），年税前工资约2400-3000万韩元，试用期可能更低。
 
-**问：Can foreigners work as traditional construction craftsmen?**
-答：It is possible to invite professional workers with an E-7 visa, but it is realistically difficult due to the need for cultural property repair qualifications and Korean language skills.
+**问：外国人能否从事传统建筑工匠工作？**
+答：E-7签证可以邀请专业工作者，但由于需要文化财产修复资格和韩语技能，实际操作起来很困难。
 
 
 ---
@@ -145,12 +134,12 @@ Promotion to master craftsman (carpenter, joiner) or independent contracting aft
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/traditional-architectural-technician/KR)**

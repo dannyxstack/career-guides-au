@@ -53,8 +53,6 @@ Material handlers load, unload, move, and store goods, including container stuff
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Material handlers face risk of automation displacement: robots, automated guided vehicles, and AI scheduling systems can take over many repetitive handling tasks, reducing the number of positions, but human physical adaptability and judgment in complex environments remain necessary.
-
 Usually starts as a general worker, can advance to team leader or warehouse supervisor, or move to roles like forklift operator or logistics coordinator. Certification can increase promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Usually starts as a general worker, can advance to team leader or warehouse supe
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to warehouse supervisor, logistics coordinator, or transport mana
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/material-handlers-74102/CA)**

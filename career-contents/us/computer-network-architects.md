@@ -53,8 +53,6 @@ Design and implement computer networks, including LAN, WAN, intranet, extranet, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Starting as a network engineer or administrator, can advance to senior architect, IT manager, or CTO with experience. Can also pivot to cybersecurity, cloud computing, etc.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a network engineer or administrator, can advance to senior architect
 | Subclass EB-3 (Employment-Based Third Preference) | Requires bachelor's or equivalent experience, usually needs PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applies to outstanding talent; requires proof of achievements |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires a bachelor's degree; Cisco CCNP/CCIE certifications can im
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-architects/US)**

@@ -51,8 +51,6 @@ IC verification engineers use SystemVerilog/UVM to set up verification environme
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over repetitive tasks such as test case generation and coverage analysis, but verification engineers will still be responsible for architecture design, debugging complex errors, and formulating verification strategies, shifting from manual execution to tool supervision and intellectual arbitration.
-
 UK SoC-level verification, low power consumption, and security verification are key focuses; AI improves test generation and debugging efficiency, while methodology and coverage convergence remain dominated by engineers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ UK SoC-level verification, low power consumption, and security verification are 
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ic-verification-engineer/UK)**

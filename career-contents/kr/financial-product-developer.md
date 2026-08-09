@@ -4,8 +4,6 @@
 
 A professional who plans, designs, and launches new financial products (deposits, funds, insurance) at financial firms, requiring market analysis and risk management skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who plans, designs, and launches new financial products (deposits
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI replaces repetitive numerical tasks like data analysis, risk assessment, and portfolio optimization, but creative product planning and regulatory response remain human domains, showing mixed impacts.
-
 Start in R&D departments at securities firms, banks, or insurance companies, advancing to team leader or department head, or moving to fintech or asset management firms.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Start in R&D departments at securities firms, banks, or insurance companies, adv
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professional financial personnel, requires bachelor's degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Possible to work after long-term stay with point system |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +127,12 @@ A: Possible, but E-7 visa requires expertise (bachelor's+experience), and langua
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-product-developer/KR)**

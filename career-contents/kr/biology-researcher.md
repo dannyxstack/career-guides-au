@@ -4,8 +4,6 @@
 
 A biology researcher is a professional who studies and experiments on life phenomena and organisms, playing a key role in pharmaceuticals, biotechnology, and environmental fields.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A biology researcher is a professional who studies and experiments on life pheno
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI greatly enhances data analysis, gene sequencing, and drug candidate discovery in biology research, but human expertise is essential for experiment design and interpretation.
-
 After obtaining a master's or doctoral degree, one advances to a full-time researcher at a research institute or a university professor, with potential promotion to team leader or principal researcher based on experience. Moving to a bio/pharmaceutical corporate research lab is also common.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After obtaining a master's or doctoral degree, one advances to a full-time resea
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific activities (E-7)) | Available for employment as a researcher at biotech/pharmaceutical companies; degree/experience required |
-| Subclass D-10 (Job seeking (D-10)) | For master's/doctoral degree holders seeking jobs; up to 2 years |
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay and free research activities; E-7 → F-2 conversion |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Mainly apply for E-7 (Specific Activities) visa, requiring relevant degree an
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biology-researcher/KR)**

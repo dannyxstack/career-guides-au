@@ -51,8 +51,6 @@ A store supervisor oversees daily retail store operations, manages the sales tea
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The risk of shop supervisor jobs being automated by AI is medium to high. High-frequency administrative tasks may be replaced, but interpersonal management and handling emergencies remain difficult to replace. Proactively embrace AI tools like sales data analysis and smart scheduling to amplify efficiency.
-
 Can progress from sales assistant to supervisor, then to store manager or regional manager. With accumulated management experience, may also transition to procurement, operations, and other roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from sales assistant to supervisor, then to store manager or region
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For highly skilled talent meeting the annual income threshold, requiring Dutch employer sponsorship. The 2024 threshold is approximately EUR 5,331/month (for over 30 years old). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for higher education background with an annual salary meeting the EU Blue Card threshold (approx. EUR 58,000) for professionals, but shop supervisors typically do not meet this standard. |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed a degree at a top university in the Netherlands or worldwide, allowing them to seek employment in the Netherlands within one year after graduation without an employer sponsor. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance to store manager, regional manager, retail operations manager, or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-supervisor/NL)**

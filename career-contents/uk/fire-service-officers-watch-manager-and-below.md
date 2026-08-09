@@ -52,8 +52,6 @@ Fire service officers coordinate and participate in firefighting activities, pro
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Promotion path usually starts as a firefighter, progresses to fire captain, shift manager, then to senior management roles such as regional commander. Requires passing internal exams and assessments.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promotion path usually starts as a firefighter, progresses to fire captain, shif
 | Subclass Youth Mobility (Youth Mobility Scheme) | Applicable to citizens of specific countries aged 18-30, allowing temporary work. |
 | Subclass Global Talent (Global Talent Visa) | Not applicable to this occupation. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, this occupation is on the skilled worker visa sponsorship list, but you 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-service-officers-watch-manager-and-below/UK)**

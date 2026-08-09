@@ -52,8 +52,6 @@ Respiratory scientists are key technical experts in medical teams, responsible f
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
-
 Entry-level respiratory scientists can start as lung function technicians, and advance to senior scientist or specialist director after gaining experience. They can also transition to subspecialties like sleep medicine or intensive care. Some move into research or teaching roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level respiratory scientists can start as lung function technicians, and a
 | Subclass SMC (Skilled Migrant Category) | Eligible to apply under the 6-point skilled migrant scheme; those meeting requirements can obtain residency |
 | Subclass AEWV (Accredited Employer Work Visa) | If starting with a work visa, the employer must be an accredited employer to transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a Bachelor of Health Sciences (3 years) plus a one-year Grad
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-scientist/NZ)**

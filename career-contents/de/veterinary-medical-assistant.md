@@ -53,8 +53,6 @@ Veterinary assistants assist veterinarians with animal treatment, nursing, labor
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
-
 Practitioners can become veterinary technical experts (Tiermedizinische Fachassistentin) or specialist assistants through continuing education, or transition to veterinary pharmaceutical sales, animal care management, etc. Advancement opportunities are limited but specialization paths are clear.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Practitioners can become veterinary technical experts (Tiermedizinische Fachassi
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers without a work contract to look for work in Germany. |
 | Subclass Recognition Partners (Recognition Partnership (Anerkennungspartnerschaft)) | Employers can hire first and certify later, applicable to some shortage occupations. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: German veterinary assistant is a 3-year dual vocational training program comb
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-medical-assistant/DE)**

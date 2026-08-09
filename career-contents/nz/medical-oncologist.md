@@ -54,8 +54,6 @@ Oncologists are in high demand in New Zealand, diagnosing and treating cancer th
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on oncologists is overall positive: it won't replace doctors but will significantly enhance diagnosis, treatment planning, and research efficiency. Low-risk tasks are taken over, allowing doctors to focus on patient care and complex decisions.
-
 Start as a registered doctor and gradually rise to senior oncologist, department head, or clinical professor. Some doctors move into research or private practice. Continuing professional development and subspecialty certification (e.g., haematology oncology) can enhance career progression.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a registered doctor and gradually rise to senior oncologist, department
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, 6-point system. Points from qualifications + work experience/employer sponsorship. Often used as alternative pathway. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, temporary work visa, often used as a pathway to residency. Employer must be accredited. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must pass NZREX clinical exam or equivalent assessment, meet English requirem
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-oncologist/NZ)**

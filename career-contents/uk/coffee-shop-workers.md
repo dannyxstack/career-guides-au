@@ -52,8 +52,6 @@ Coffee shop staff are responsible for preparing and serving coffee, food, and ot
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Junior baristas can advance to senior barista or store manager, with a few moving into regional management or training roles. Some employees transition to food and beverage management or start their own independent coffee shops.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior baristas can advance to senior barista or store manager, with a few movin
 | Subclass Skilled Worker (Skilled Worker visa) | Usually does not meet skill level requirements, but senior supervisors or trainers at chain coffee shops may qualify. |
 | Subclass Graduate (Graduate visa) | Graduates can work in any job in the UK for 2 years, including coffee shops. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior barista, store manager, regional manager, or move into 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coffee-shop-workers/UK)**

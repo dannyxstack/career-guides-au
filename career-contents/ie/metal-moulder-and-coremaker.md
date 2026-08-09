@@ -53,8 +53,6 @@ Metal casting moulders and coremakers manufacture moulds and cores for metal cas
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Metal moulders and coremakers face automation risk, especially in sand core production and repetitive mould processes; AI-driven 3D printing and CNC machining are gradually replacing manual work, but mould repair and on-site adjustment still require human judgment.
-
 Entry-level workers can advance to skilled mold makers through apprenticeships, and further to supervisors or casting technicians. Some workers may transition to related manufacturing roles, such as machine operation or quality control.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level workers can advance to skilled mold makers through apprenticeships, 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Career advancement paths include becoming a supervisor, casting technician, o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-moulder-and-coremaker/IE)**

@@ -51,8 +51,6 @@ Market and social research professionals design and conduct market research and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Career progression path: Junior Researcher → Mid-level Researcher → Research Manager → Research Director. Also can transition to marketing, data analysis, or consulting. Further study (e.g., MBA) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression path: Junior Researcher → Mid-level Researcher → Research
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with professional qualifications who have obtained a job contract. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | A points-based job-seeking visa that can be used to find work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to research manager, director, or move into marketing, data analy
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/market-and-opinion-researcher/DE)**

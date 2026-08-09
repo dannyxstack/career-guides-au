@@ -52,8 +52,6 @@ Operate and maintain glass processing equipment, such as cutting, edge grinding,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
-
 Junior operators can be promoted to senior operators, team leaders, or production supervisors through on-the-job training and skill enhancement. Further studies can be directed to equipment maintenance technicians or quality control positions. Some experienced individuals can start small glass processing workshops.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior operators can be promoted to senior operators, team leaders, or productio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | A work contract must be provided by a French employer and approved by the French Labor Bureau. Suitable for technical workers with relevant diplomas or experience. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals or scarce positions, requiring academic qualifications or salary requirements (annual salary not less than approximately 37,000 euros). |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU employees who need a university degree or 5 years of experience, with an annual salary of no less than approximately 43,000 euros (2024). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: The basic requirement is a CAP Verrier or a similar vocational diploma. Opera
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-processing-equipment-operator/FR)**

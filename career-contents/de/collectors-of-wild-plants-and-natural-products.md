@@ -52,8 +52,6 @@ Engages in the work of collecting wild plants, mushrooms, berries, herbs, and ot
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI and automation on wild plant and natural product collectors is mixed: simple identification and recording tasks are replaced, but AI tools can assist in precise location and prediction of picking timing, improving efficiency; core field judgment and manual work are hard to replace.
-
 Most collectors are casual or self-employed with limited advancement opportunities; a few can transition to more skilled roles such as agricultural technician, conservationist, or ecotourism guide.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Most collectors are casual or self-employed with limited advancement opportuniti
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Almost impossible. This occupation is not in shortage and usually only offers
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/collectors-of-wild-plants-and-natural-products/DE)**

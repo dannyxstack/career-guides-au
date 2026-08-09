@@ -54,8 +54,6 @@ Plumbers install, maintain, and repair building and industrial pipeline systems,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace plumbers' core practical skills, but will significantly boost efficiency through smart diagnostics, AR assistance, and scheduling optimization; it is a skill-enhancing occupation with stable employment prospects.
-
 Plumbers can progress from skilled workers to foremen or project managers, or become specialists in heating, air conditioning, or solar technology through further education. Some choose to start their own plumbing installation companies.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Plumbers can progress from skilled workers to foremen or project managers, or be
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Plumbers can obtain a Meister certificate to operate independently or become 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-without-specialization/DE)**

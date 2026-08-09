@@ -52,8 +52,6 @@ Neurologists are medical specialists who diagnose and treat diseases of the nerv
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
-
 Usually starts as a resident, after completing specialist training becomes a consultant neurologist. Can advance to department head, clinical professor, or sub-specialize (e.g., epilepsy, stroke, neuromuscular diseases).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starts as a resident, after completing specialist training becomes a con
 | Subclass SMC (Skilled Migrant Category) | Can apply through skilled migration category, requiring meeting a points system (qualifications + work experience). |
 | Subclass AEWV (Accredited Employer Work Visa) | If residence conditions are not directly met, you can first work on an accredited employer work visa and then transition to residence. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must apply to MCNZ, pass NZREX or AMC exams, complete a 2-year internship, an
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/neurologist/NZ)**

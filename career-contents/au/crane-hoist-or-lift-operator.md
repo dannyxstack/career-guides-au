@@ -54,8 +54,6 @@ Operate cranes, hoisting equipment, or lifts to move heavy loads in construction
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane operators face partial risk of automation by AI, but human judgment remains indispensable in complex environment control, safety decisions, and non-standardized tasks; AI mainly augments rather than fully replaces.
-
 Starting from entry-level operation of small cranes, can progress to operating large tower cranes or mobile cranes, then become team supervisor, trainer, or safety supervisor.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting from entry-level operation of small cranes, can progress to operating l
 | Subclass 186 (Employer Nomination Scheme (ENS)) | Employer-sponsored permanent residence visa, requires skills assessment and nominated occupation |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Temporary visa for regional state sponsorship, requiring specific state requirements and occupation lists |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold a high-risk work license (depending on crane type) and a white card
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-hoist-or-lift-operator/AU)**

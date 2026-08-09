@@ -49,8 +49,6 @@ Emergency medical technicians (EMTs) are healthcare professionals who provide on
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace paramedics' core tasks of on-site judgment and treatment, but AI-based decision support tools are being introduced to increase efficiency. Some paperwork and basic information collection can be automated, but human empathy and physical ability remain essential.
-
 Level 1 EMTs can work in hospital emergency rooms, fire station ambulance crews, maritime police, etc., and can advance to professors at EMT training institutions or managers after experience.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Level 1 EMTs can work in hospital emergency rooms, fire station ambulance crews,
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for nursing assistants and EMTs working at medical institutions, targeting returning or senior personnel |
-| Subclass F-2 (Residence) | Eligible for long-term residence after E-7 stay, convertible to a points system |
-| Subclass F-5 (Permanent Residence) | Can apply after residing on F-2 visa for a certain period |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Graduation from a college or higher in emergency medical technology, pass the
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-medical-technician/KR)**

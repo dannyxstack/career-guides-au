@@ -52,8 +52,6 @@ Responsible for sorting, transporting and delivering letters and parcels, includ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Postal and delivery services are facing a wave of automation: parcel sorting and route optimization are taken over by AI, but last-mile delivery and customer service still require humans, resulting in a mixed impact on overall job structure.
-
 Can progress from delivery worker to team leader or distribution center dispatcher. Further study in logistics management or obtaining forklift and other certifications can lead to higher positions such as warehouse management or transport coordination.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from delivery worker to team leader or distribution center dispatch
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, can advance to team leader, distribution center dispatcher, or logistics
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-and-delivery-services-worker/DE)**

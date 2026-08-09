@@ -4,8 +4,6 @@
 
 A production process specialist who monitors beverage and tobacco manufacturing lines with automatic control systems to maintain quality and safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A production process specialist who monitors beverage and tobacco manufacturing 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Automation via AI and robots is progressing, with remote and unmanned monitoring advancing. However, human judgment is still needed for troubleshooting and anomaly detection, making complete replacement difficult.
-
 Few new graduate hires, mainly mid-career recruitment. Career changes to equipment manufacturers or maintenance companies, or promotion to production management positions possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Few new graduate hires, mainly mid-career recruitment. Career changes to equipme
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Unlikely to qualify due to need for advanced knowledge/skills |
-| Subclass 技能 (Skilled Worker Visa) | Not applicable. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: Not really. Beverage/tobacco production equipment control and monitoring role
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beverage-tobacco-production-equipment-control-monitor/JP)**

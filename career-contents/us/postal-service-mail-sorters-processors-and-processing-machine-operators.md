@@ -54,8 +54,6 @@ Responsible for sorting, processing, and distributing incoming and outgoing mail
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce positions like postal mail sorters; most repetitive physical sorting and handling tasks can be replaced by machines, leading to a sharp decline in entry-level jobs
-
 Entry-level positions; can advance internally to mail processing supervisor, postmaster assistant, or postmaster. Requires USPS internal exams and training; promotion path is clear but depends on vacancies.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level positions; can advance internally to mail processing supervisor, pos
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Almost impossible. USPS only hires US citizens or permanent residents and doe
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-service-mail-sorters-processors-and-processing-machine-operators/US)**

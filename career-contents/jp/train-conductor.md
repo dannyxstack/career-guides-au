@@ -4,8 +4,6 @@
 
 Boards trains to perform door operations, announcements, ticket checks, safety checks, and passenger guidance. Responsible for operational safety and service quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Boards trains to perform door operations, announcements, ticket checks, safety c
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Due to AI and automation, one-person operation is expanding, and demand for conductors is declining. However, on tourist trains and service-oriented routes, the human role remains. Safety checks receive AI support, but final decisions are often made by humans, making full substitution difficult.
-
 It is possible to aim for a career as a train driver. Career paths also include station staff or crew management positions.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ It is possible to aim for a career as a train driver. Career paths also include 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技能 (Specified Skilled Worker Visa) | Limited to specific skills such as cooking and construction. Train conductor is not eligible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Addition of railway sector is under consideration but currently excluded. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible for roles like corporate planning, but difficult as a crew member. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Paths include aiming to become a train driver, or switching to station staff,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-conductor/JP)**

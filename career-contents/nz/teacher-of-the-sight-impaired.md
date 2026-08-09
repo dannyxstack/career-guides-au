@@ -53,8 +53,6 @@ Vision Impairment Teachers provide specialized instruction to students with visi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The job of a vision impairment teacher has pros and cons: AI voice synthesis and readers can partially replace assistive technology teaching, but core tasks like braille teaching and personalized emotional support rely on interpersonal trust and are less easily automated.
-
 Primary vision impairment teachers can start as resource teachers or teaching assistants, then progress to senior teacher, special education coordinator (SENCO), or education consultant. They may also move into policy development or training roles. Continuous professional development is required to maintain registration.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Primary vision impairment teachers can start as resource teachers or teaching as
 | Subclass SMC (Skilled Migrant Category) | If salary reaches twice the median (approx. NZD 59.32/hour) or has other plus points, skilled migration is possible. Teacher salaries typically do not meet this level. |
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is accredited, they can apply for an AEWV work visa, valid for up to 3 years, after which they can apply for residence. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Must hold New Zealand teacher registration (accredited by Teaching Council), 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-of-the-sight-impaired/NZ)**

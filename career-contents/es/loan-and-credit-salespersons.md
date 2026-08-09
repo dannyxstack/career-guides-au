@@ -4,8 +4,6 @@
 
 Responsible for promoting loans, credit cards, mortgages, and other financial products to individuals or enterprises, assessing customer credit risk and facilitating transactions. They are typically employed by banks, credit institutions, and financial intermediaries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for promoting loans, credit cards, mortgages, and other financial pr
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is reshaping the core tasks of credit officers: risk assessment and compliance checks will be largely automated, but customer communication and complex decisions still require humans; entry-level roles are narrowing, but senior roles are growing due to AI amplifying capabilities.
-
 Junior salespeople can be promoted to senior account managers or team leaders, and may later transition to roles in business analysis, risk control, or credit management. Some have advanced to investment advisory or private banker status by obtaining financial certification.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior salespeople can be promoted to senior account managers or team leaders, a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Third-country)) | You must obtain a work contract with a Spanish company, and the employer can prove that suitable candidates cannot be recruited within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, but sales positions typically require an annual salary exceeding 33,908 euros (2023 standards) and a university degree or 5 years of relevant experience. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Not mandatory, but employers tend to hire candidates with business or economi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loan-and-credit-salespersons/ES)**

@@ -51,8 +51,6 @@ A specialist who performs quality inspections and tests on machinery such as mac
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The introduction of automatic inspection using AI and image recognition is advancing, but human experience is necessary for judging complex abnormal sounds, minute scratches, and inspections involving machine adjustment. AI and human collaboration will continue.
-
 Career advancement is possible by acquiring skills certification or QC certification. Paths include promotion to inspection team leader or quality control management.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Career advancement is possible by acquiring skills certification or QC certifica
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of work experience. Eligible for inspection work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Obtainable through skills test and Japanese N4 or higher. Total residence period of 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (subject to field expansion)) | For skilled workers. Family accompaniment and unlimited renewals. However, manufacturing fields not yet open as of 2024. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: There are no mandatory qualifications, but having a Mechanical Inspection Tec
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inspectors-of-generalpurpose-production-and-industrial-machinery-equipment/JP)**

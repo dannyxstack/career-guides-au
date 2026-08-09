@@ -53,8 +53,6 @@ Security officers protect property, people, and premises, including patrolling, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Security guards can advance to senior security guard, security supervisor, or security manager. Further training can lead to private investigation or corporate security management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Security guards can advance to senior security guard, security supervisor, or se
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Security guard occupations typically do not meet the high-skilled requirement
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guard/IE)**

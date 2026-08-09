@@ -52,8 +52,6 @@ Acupuncturists diagnose, treat, and prevent diseases by stimulating specific bod
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
-
 Junior acupuncturists can work in clinics or rehabilitation centers, gain experience, and then advance to chief physician or open a private practice. Some acupuncturists specialize in pain management or traditional Chinese medicine.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior acupuncturists can work in clinics or rehabilitation centers, gain experi
 | Subclass O-1 (O-1 Extraordinary Ability) | Acupuncturists with exceptional ability (e.g., research achievements or international recognition) may try O-1 visa. |
 | Subclass EB-2 (EB-2 Advanced Degree) | Acupuncturists with a master's degree can apply for an EB-2 green card through PERM |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must pass NCCAOM certification exam and apply for acupuncture license in the 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/acupuncturists/US)**

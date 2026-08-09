@@ -4,8 +4,6 @@
 
 A professional research position that analyzes educational field and policy data, and researches and develops curricula and teaching methods.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional research position that analyzes educational field and policy data
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI partially replaces data analysis and literature review, but human expertise remains crucial for educational policy establishment and on-site context interpretation.
-
 After completing a master's or doctoral degree, one typically builds experience in academia, national research institutes, or offices of education, and is promoted to positions such as principal researcher or research lab director.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After completing a master's or doctoral degree, one typically builds experience 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | May stay as a professional research worker at a research institution |
-| Subclass F-2 (F-2 (Residence)) | Points-based permanent residence, research career bonus |
-| Subclass D-2 (Study (D-2 Visa)) | Employment linkage after graduate program |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: Yes, but an E-7 visa is required, along with a relevant master's degree and r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/educational-researcher/KR)**

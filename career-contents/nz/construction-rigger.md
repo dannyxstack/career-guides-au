@@ -53,8 +53,6 @@ Dogman directs crane operators to move and position heavy equipment; rigger conn
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane signalers/riggers are hard to fully replace by AI in physical operations and on-site judgment, but with AI-assisted remote crane operation and automatic rigging planning systems, some tasks will be automated, reducing entry opportunities for newcomers; experienced workers can enhance competitiveness by learning digital tools, showing mixed prospects.
-
 Start as an assistant/junior Rigger, gain experience to advance to senior Rigger/team supervisor, or specialize in offshore/heavy lifting. Holding advanced certificates can lead to project management or safety consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Start as an assistant/junior Rigger, gain experience to advance to senior Rigger
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: meeting occupation requirements and points qualifies for residence |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, suitable for applicants who do not directly meet residency conditions, gain experience and then transition to residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. This occupation is on the Green List Tier 1; meeting the requirements al
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-rigger/NZ)**

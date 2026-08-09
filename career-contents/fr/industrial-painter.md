@@ -52,8 +52,6 @@ Engaged in surface treatment and painting of industrial equipment, metal structu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 Junior painters can be promoted to senior technician, team leader, or quality inspector. They can also shift to professional directions such as shot peening and surface treatment, or enter the fields of coating sales and technical support.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior painters can be promoted to senior technician, team leader, or quality in
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, a work contract (annual salary ≥ 1.5 times the statutory minimum wage) must be provided, valid for 4 years, and can be renewed |
-| Subclass Salarié (Employee Visa) | Employment work visa requires work permit and employer sponsorship, valid for 1 year and renewable |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary 1.5 times above the French average (about 53,000 euros), applicable to high-skilled positions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: A CAP (2 years) or Bac Pro (3 years) industrial coating diploma is usually re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-painter/FR)**

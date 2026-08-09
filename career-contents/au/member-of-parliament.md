@@ -54,8 +54,6 @@ Members of parliament are elected government representatives responsible for mak
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core representative function and political judgment of legislators are difficult to replace, but AI will significantly compress auxiliary tasks such as policy research and data analysis, and enhance voter communication and bill drafting efficiency. Overall risk is moderate, requiring proactive use of AI tools to improve governance capabilities.
-
 Career development typically starts at local council or party grassroots, progressing to state or federal politician. Senior members may become ministers, opposition leaders, or speakers.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career development typically starts at local council or party grassroots, progre
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Backgrounds in law, political science, public administration, or business are
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/member-of-parliament/AU)**

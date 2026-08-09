@@ -50,8 +50,6 @@ A profession involving washing and finishing clothes and textile products. It re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will make washing machine control and inventory management more efficient, but tasks requiring high-level judgment like stain removal and finishing will continue to be handled by humans. As a result, simple tasks decrease, and the value of skilled positions increases.
-
 Can be started without experience; with skill development, one can become a factory manager or open an independent business. Dry cleaning skills and customer service abilities are valued.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ Can be started without experience; with skill development, one can become a fact
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning Field)) | One of the target fields. Obtainable with JLPT N4 or above. Max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires expertise. Applicable for cleaning plant management or technical guidance. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +134,12 @@ A: There is a path to becoming a factory manager or starting your own business b
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaning-occupation/JP)**

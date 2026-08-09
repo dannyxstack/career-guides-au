@@ -53,8 +53,6 @@ Responsible for evaluating and handling insurance claims, investigating losses, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Claims officers, examiners, and investigators face significant AI impact; document processing and preliminary assessments can be automated, but complex negotiations and fraud investigations still require human judgment. Entry-level competition intensifies, but senior experts can leverage AI tools to enhance efficiency and decision quality.
-
 Claims assistants can be promoted to claims adjusters, then to senior claims adjusters or team leaders. Some have shifted to risk management, underwriting, or insurance legal services. It is necessary to continuously keep up with regulatory changes and new industry technologies.
 
 **Tasks most exposed to AI:**
@@ -101,15 +99,9 @@ Claims assistants can be promoted to claims adjusters, then to senior claims adj
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by a French company, with a work contract residency and employer sponsorship required |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talents, the annual salary threshold is about 53,000 euros, and you must meet educational and experience requirements |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +145,12 @@ A: BTS or Licence insurance majors are preferred, but not mandatory. Foreign dip
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-claims-adjuster/FR)**

@@ -54,8 +54,6 @@ Emergency medical service personnel provide on-site first aid, patient transport
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on emergency service workers is mixed: some paperwork and scheduling tasks will be automated, but core emergency operations and human care are hard to replace, and overall occupational demand is stable.
-
 Career progression paths include: First Aider → Paramedic → Ambulance Station Manager or part-time fire department leader; can also become a paramedic or nursing manager through further study.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression paths include: First Aider → Paramedic → Ambulance Statio
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to dual-system training or equivalent qualifications, requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers to enter the country to look for work, applicable to all occupations. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Advancement opportunities include emergency supervisor, trainer, or transitio
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-medical-service-worker/DE)**

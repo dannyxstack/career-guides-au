@@ -51,8 +51,6 @@ Journalists in New Zealand write reports and produce multimedia content for medi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI tools are significantly changing how journalists work, with automated writing and data analysis boosting efficiency, but deep investigations, exclusive reporting, and ethical judgment remain human strengths.
-
 Career path progresses from junior reporter to senior reporter, then to editor, producer, or news director. Journalists with data analysis, video production, and social media management skills advance faster. Can also transition to PR, corporate communications, or content marketing.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career path progresses from junior reporter to senior reporter, then to editor, 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Digital and multimedia skills become essential; traditional print media roles
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalist/NZ)**

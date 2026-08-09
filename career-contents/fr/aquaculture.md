@@ -4,8 +4,6 @@
 
 Engaged in the breeding, breeding, and harvesting of aquatic plants and animals such as fish, shellfish, and crustaceans, managing water quality, feed, and health in farms to ensure sustainable production.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaged in the breeding, breeding, and harvesting of aquatic plants and animals 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
-
 Junior breeders can be promoted to farm supervisors or technical managers, or move into quality inspection, R&D, or consulting roles. Continuous learning in biotechnology and water quality management is required.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior breeders can be promoted to farm supervisors or technical managers, or mo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Temporary Worker - Salarié) | Employers must provide a work contract that has passed review by the French Ministry of Labor to prove that no EU candidates are qualified |
-| Subclass Passeport Talent (Talent Passport - Qualified Employee) | Suitable for master's degree holders or above or high-skilled positions, contract salary ≥ twice SMIC's, simplifying administrative procedures |
-| Subclass Recherche emploi (Job Search - Researcher or Graduate) | French graduates can apply for a 12-month temporary residence to find work or start a business |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: They can be promoted from aquaculture worker to farm manager, technical manag
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture/FR)**

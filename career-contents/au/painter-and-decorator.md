@@ -56,8 +56,6 @@ Painters apply coatings and decorative finishes to interior and exterior walls, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
-
 Residential construction growth, commercial renovation, and government infrastructure maintenance are the three main sources of demand. Industrial protective coatings (mining/bridges/pipelines) represent a high-paying growth segment.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Residential construction growth, commercial renovation, and government infrastru
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Carpentry has a higher volume of job openings (Seek ~3,000 vs painting ~1,200
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-decorator/AU)**

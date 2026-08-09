@@ -53,8 +53,6 @@ Court reporters are an important profession in Australia's professional services
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
-
 Requirements for digital technology and professional certification continue to rise, and court reporters must continually update their skills to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Requirements for digital technology and professional certification continue to r
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-reporter/AU)**

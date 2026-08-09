@@ -53,8 +53,6 @@ Clinical and counseling psychologists assess, diagnose, and treat individuals' p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
-
 Entry-level psychologists typically start with postdoctoral internships or supervised practice, accumulating hours to obtain independent practice licensure. They can then advance to senior clinician, private practitioner, or management roles, such as mental health program director or chief psychologist. A doctoral degree supports academic and research paths.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level psychologists typically start with postdoctoral internships or super
 | Subclass EB-2 (Employment-Based Second Preference) | Advanced degree professionals, need PERM or National Interest Waiver |
 | Subclass O-1 (O-1 Extraordinary Ability) | For outstanding psychologists, requires proven international reputation |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Possible, but with limited pathways. Doctoral-level psychologists can apply f
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-and-counseling-psychologists/US)**

@@ -1,10 +1,8 @@
-# Other Teachers 职业分析 · 日本
+# 其他教师（Other Teachers）职业分析 · 日本
 
-**职业代码: 199 (JSCO)**
+**职业代码：199 (JSCO)**
 
-Professions that provide instruction in diverse educational settings such as various schools, cram schools, and corporate education, excluding teachers defined under the School Education Law.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在各种教育环境（如各类学校、补习班和企业教育）中提供指导的职业，不包括《学校教育法》定义的教师。
 
 
 ---
@@ -13,8 +11,8 @@ Professions that provide instruction in diverse educational settings such as var
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $2,500,000~$5,000,000（Approx. 2.5 million yen at national universities, over 5 million yen annually at private universities） |
-| Vocational School | 2 年 | $1,000,000~$2,500,000（Varies by field） |
+| 本科（学士学位） | 4年 | $2,500,000~$5,000,000（国立大学约250万日元，私立大学每年超过500万日元） |
+| 职业学校 | 2 年 | $1,000,000~$2,500,000（因领域而异） |
 
 ---
 
@@ -22,18 +20,18 @@ Professions that provide instruction in diverse educational settings such as var
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Teaching License | Each Prefectural Board of Education | 可选 | Not required in all workplaces, but advantageous in many educational institutions |
-| TOEIC Score | IIBC | 可选 | Emphasized in language education, etc. |
-| Career Consultant | Ministry of Health, Labour and Welfare | 可选 | Useful in adult education and career support fields |
+| 教师资格证 | 各都道府县教育委员会 | 可选 | 并非所有工作场所都要求，但在许多教育机构中有优势 |
+| 托业分数 | IIBC | 可选 | 在语言教育等领域受到重视 |
+| 职业顾问 | 厚生劳动省 | 可选 | 在成人教育和职业支持领域有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 320,000. Demand is declining due to the falling birthrate, but needs are rising in some fields due to the expansion of adult education and online education.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 320,000。由于出生率下降，需求正在减少，但由于成人教育和在线教育的扩展，某些领域的需求正在上升。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,96 +39,87 @@ Professions that provide instruction in diverse educational settings such as var
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | Part-time instructor at cram schools or prep schools, etc. |
-| Mid Level (4-10 years) | $3,500,000~$5,000,000 | For regular employees |
-| Senior Level (11+ years) | $5,000,000~$7,000,000 | For managerial or highly specialized positions |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 补习班或备考班等兼职讲师 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 适用于正式员工 |
+| 高级（11年以上） | $5,000,000~$7,000,000 | 适用于管理或高度专业化职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-With the advancement of AI, automated generation of online materials and learning management systems are becoming widespread, potentially automating some classes and evaluation tasks. However, human interaction, individual guidance, and motivation management are areas where AI is difficult to replace, leading to new educational methods utilizing AI.
+随着AI的发展，在线教材和学习管理系统的自动生成变得普遍，可能自动化部分课堂和评估任务。然而，人际互动、个别指导和动机管理是AI难以替代的领域，催生利用AI的新教育方法。
 
-Career paths are diverse; with experience, one can advance to positions such as school director, curriculum developer, or independent business owner.
+职业路径多样；有经验者可晋升为学校主任、课程开发人员或独立企业主。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized teaching material creation
-- Automated scoring and test creation
-- Basic repetitive exercise instruction
+- 标准化教材制作
+- 自动评分与试题创建
+- 基础重复性运动指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assisting in individual learning plan development
-- Teaching improvement through learning data analysis
-- Online class operation support
+- 协助制定个人学习计划
+- 通过学习数据分析改进教学
+- 在线课堂运营支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Empathy
-- Student motivation management
-- Flexible instruction based on situation
+- 人际沟通
+- 同理心
+- 学生动机管理
+- 根据情况灵活指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Educational technology application
-- Data literacy
-- Coaching skills
-- Cross-cultural Understanding
+- 教育技术应用
+- 数据素养
+- 辅导技能
+- 跨文化理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online education
-- Adult education
-- Career support
-- Language education
+- 在线教育
+- 成人教育
+- 职业支持
+- 语言教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | May include activities as teachers or instructors; employment at universities or vocational schools is eligible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (e.g., Nursing Care)) | May be eligible for some educational roles in nursing care, but generally not applicable. |
-| Subclass 教育 (Professor) | Applies to educational/research activities at universities and higher education institutions; requires advanced expertise. |
-| Subclass 文化活動 (Cultural Activities) | Applies to unpaid cultural activities like education, but employment is not allowed. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Passionate about teaching children or adults
-- Strong communication skills and ability to explain clearly
-- Flexible and able to adapt to diverse learners
+- 热爱教授儿童或成人
+- 良好的沟通能力和清晰解释的能力
+- 灵活且能适应不同学习者
 
 **谁不适合**
-- Prefers routine
-- Dislikes public speaking
+- 偏好常规工作
+- 不喜欢公开演讲
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of other teachers?**
-答：Salary varies greatly by experience and employment type, but for regular employees it is typically around 3.5 to 5 million yen annually; for part-time, around 2.5 to 3.5 million yen.
+**问：其他教师的平均年收入是多少？**
+答：薪资因经验和雇佣类型差异很大，但正式员工通常约为 350 万至 500 万日元；兼职约为 250 万至 350 万日元。
 
-**问：Can foreigners work as other teachers in Japan?**
-答：Yes, but a residence status such as 'Engineer/Specialist in Humanities/International Services' or 'Professor' is required. It is relatively easier for language teachers, but expertise and Japanese proficiency are needed.
+**问：外国人在日本能否担任其他教师？**
+答：可以，但需要“工程师/人文知识/国际业务”或“教授”等在留资格。语言教师相对容易，但需要专业知识和日语能力。
 
-**问：How can I advance my career?**
-答：It is effective to obtain certifications to enhance expertise (e.g., career consultant) or develop management skills to aim for positions like school director or curriculum developer.
+**问：如何提升我的职业生涯？**
+答：考取证书提升专业能力（如职业顾问）或培养管理技能，以争取学校主任或课程开发等职位是有效的。
 
 
 ---
@@ -148,12 +137,12 @@ Career paths are diverse; with experience, one can advance to positions such as 
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-teachers/JP)**

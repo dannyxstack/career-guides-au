@@ -52,8 +52,6 @@ A team assembler completes all or most tasks in product assembly, including part
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Team assemblers rely heavily on repetitive manual assembly; AI-driven robots and automation systems can efficiently replace core tasks, significantly reducing demand.
-
 Junior assemblers can advance to team leader, production supervisor, or quality inspector. With experience, transition to maintenance technician or industrial mechanic, or through training become a technician.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior assemblers can advance to team leader, production supervisor, or quality 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Difficult. This occupation typically does not meet H-1B specialty occupation 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/team-assemblers/US)**

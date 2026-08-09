@@ -4,8 +4,6 @@
 
 Responsible for planning, directing, and managing the operations, curriculum, and personnel of educational institutions (such as schools, universities, and training centers), ensuring educational quality and goal achievement.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for planning, directing, and managing the operations, curriculum, an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Start as a teacher or administrative officer, advance to department head, and eventually become principal or regional education director. Requires accumulated teaching and management experience.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Start as a teacher or administrative officer, advance to department head, and ev
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU citizens, requiring a university degree and a contract salary at least 1.5 times the national average |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-management positions but transferable |
-| Subclass Job Search Visa (Job Search Visa) | Graduates can apply, valid for 6-12 months, then switch to a work visa upon finding a job |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Start as a teacher or administrative assistant, progress to academic director
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-manager/IT)**

@@ -52,8 +52,6 @@ Ambulance officers provide pre-hospital medical care in emergencies, including f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
-
 Career progression includes advancing from ambulance technician to senior first responder (e.g., paramedic), transitioning into management or education/training roles, or further studying to become a nurse or doctor.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes advancing from ambulance technician to senior first 
 | Subclass General Employment P (General Employment Permit) | Applicable to general employment, requires labor market testing, limited quota |
 | Subclass EU Blue Card (EU Blue Card) | Requires higher education background and higher salary; paramedics generally not applicable |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires obtaining a PHECC-recognized Advanced Paramedic Care diplo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-worker/IE)**

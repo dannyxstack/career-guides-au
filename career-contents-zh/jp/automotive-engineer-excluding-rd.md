@@ -1,10 +1,8 @@
-# Automotive Engineer (excluding R&D) 职业分析 · 日本
+# 汽车工程师（不含研发）（Automotive Engineer (excluding R&D)）职业分析 · 日本
 
-**职业代码: 084 (JSCO)**
+**职业代码：084 (JSCO)**
 
-Engineer responsible for design, manufacturing, and quality control in automotive production processes, specializing in vehicle assembly, parts processing, and inspection.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责汽车生产工艺设计、制造和质量控制的工程师，专攻车辆组装、零部件加工和检验。
 
 
 ---
@@ -13,9 +11,9 @@ Engineer responsible for design, manufacturing, and quality control in automotiv
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School (Industrial) | 3年 | $0~$100,000（Public schools are eligible for tuition-free programs offered by the government.） |
-| Vocational School (Automotive Engineering) | 2 年 | $1,000,000~$2,500,000（500,000 to 1,250,000 yen per year） |
-| University (Faculty of Engineering, Mechanical Engineering) | 4年 | $2,400,000~$4,500,000（National/public universities: 800,000 yen/year; private universities: 1,000,000–1,500,000 yen/year） |
+| 高中（工业） | 3年 | $0~$100,000（公立学校有资格享受政府提供的免学费项目。） |
+| 职业学校（汽车工程） | 2 年 | $1,000,000~$2,500,000（50万至125万日元/年） |
+| 大学（工学院，机械工程） | 4年 | $2,400,000~$4,500,000（国立/公立大学：80万日元/年；私立大学：100万-150万日元/年） |
 
 ---
 
@@ -23,16 +21,16 @@ Engineer responsible for design, manufacturing, and quality control in automotiv
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automotive Mechanic (Grade 2 or Grade 1) | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for maintenance work; also useful for engineers excluding R&D |
+| 汽车修理工（二级或一级） | 国土交通省 | 可选 | 维护工作必需；对研发以外的工程师也有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 215,000. Due to the advancement of electric vehicles and autonomous driving technology, the automotive industry is undergoing structural transformation. Demand for existing internal combustion engine engineers is declining, but demand for electrification and software-related personnel is increasing, with overall employment expected to remain flat or slightly decrease.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 215,000。随着电动车和自动驾驶技术发展，汽车行业正在结构性转型。现有内燃机工程师需求下降，但电气化和软件相关职位需求增加，整体就业预计持平或略降。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +38,84 @@ Engineer responsible for design, manufacturing, and quality control in automotiv
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$4,500,000 | Includes starting salary for university/vocational school graduates |
-| Mid-level (4–10 years) | $4,500,000~$6,500,000 | Varies depending on assigned duties |
-| Experienced (10+ years) | $6,500,000~$9,000,000 | Includes managerial positions |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 包括大学/职业学校毕业生的起薪 |
+| 中级（4-10年） | $4,500,000~$6,500,000 | 视分配职责而定 |
+| 有经验（10年以上） | $6,500,000~$9,000,000 | 含管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Automation in automotive production technology is rapidly advancing with AI and robots, making simple assembly and inspection tasks more replaceable. Conversely, tasks like AI-driven production line optimization and quality prediction are likely to expand.
+汽车生产技术的自动化正借助人工智能和机器人飞速发展，简单的装配和检测岗位更易被替代；而人工智能驱动的生产线优化和质量预测等岗位则可能扩展。
 
-New hires are assigned to production lines or quality control departments. With experience, they can advance to production technology leaders or process management positions. Career advancement can also be expected by acquiring specialized knowledge in electric vehicles and autonomous driving.
+新员工被分配到生产线或质量控制部门。随着经验积累，可晋升为生产技术主管或流程管理职位。通过掌握电动汽车和自动驾驶领域的专业知识，也能实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual inspection of parts quality
-- Simple assembly work
+- 零件质量目视检查
+- 简单装配工作
 - Reworking defective items
-- Manual inventory management
+- 手动库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI monitoring and anomaly detection on production lines
+- 生产线上的AI监控与异常检测
 - 设备预防性维护预测
-- Automation of process simulation
+- 过程模拟自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-the-spot flexible troubleshooting
-- Skilled craftsmanship (fine-tuning/adjustments)
-- Flexible response to high-mix, variable-volume production
+- 现场灵活排除故障
+- 熟练工艺（微调/调整）
+- 灵活应对多品种小批量生产
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis with Python/R
-- Machine learning/AI fundamentals
-- PLC/robot programming
-- Factory IoT network
+- 使用Python/R进行数据分析
+- 机器学习/人工智能基础
+- PLC/机器人编程
+- 工厂物联网网络
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicles
-- Autonomous driving
-- Production Engineering
-- Quality Control
+- 电动汽车
+- 自动驾驶
+- 生产工程
+- 质量控制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of relevant work experience. For automotive engineers, design and development work qualifies. On-site production skills are not covered. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Automotive Maintenance)) | Limited to vehicle maintenance. Production engineering technicians excluded. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Vehicle Maintenance)) | For advanced maintenance technicians. Not suitable for production engineers. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy tinkering with machines
-- People interested in manufacturing
-- People good at teamwork
+- 喜欢摆弄机器的人
+- 对制造业感兴趣的人
+- 擅长团队合作的人
 
 **谁不适合**
-- Those seeking creative design work
-- Those wishing to avoid physical labor
+- 寻求创意设计工作者
+- 希望避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of automotive engineers (excluding R&D)?**
-答：Entry-level: ¥3.5–4.5M, mid-career: ¥4.5–6.5M, senior: ¥6.5–9M. Higher at major companies like Toyota.
+**问：汽车工程师（不包括研发）的年收入是多少？**
+答：入门级：350-450万日元，中级：450-650万日元，高级：650-900万日元。丰田等大公司更高。
 
-**问：What visa do foreigners need to work in this occupation in Japan?**
-答：For R&D, 'Engineer/Specialist in Humanities/International Services' visa applies, but production site skill work is excluded. Requires 10+ years of experience or a university degree.
+**问：外国人在日本从事该职业需要什么签证？**
+答：研发类适用“人文/国际服务领域工程师/专家”签证，但生产现场技能工作除外。需10年以上经验或大学学位。
 
 
 ---
@@ -143,12 +133,12 @@ New hires are assigned to production lines or quality control departments. With 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-engineer-excluding-rd/JP)**

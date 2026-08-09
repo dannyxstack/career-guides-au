@@ -51,8 +51,6 @@ Specialist who mediates the buying, selling, and leasing of real estate properti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines property search and matching, but human negotiation and trust-building are essential. The value of personnel who can utilize AI tools increases.
-
 After obtaining the Real Estate Transaction Specialist license, you can gain experience at a major real estate company and then become independent or advance to management. High income is possible if you enhance your specialization.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After obtaining the Real Estate Transaction Specialist license, you can gain exp
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for foreigners engaged in sales and management at real estate companies. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable (real estate brokerage not included in Specified Skilled Worker fields) |
-| Subclass 経営・管理 (Business Manager) | Available when running your own real estate company. Requires investment of 5 million yen or more. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: Obtain a Real Estate Transaction Specialist license, gain several years of ex
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-broker/JP)**

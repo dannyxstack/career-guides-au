@@ -1,10 +1,8 @@
-# Lodging Service Worker 职业分析 · 韩国
+# 住宿服务工（Lodging Service Worker）职业分析 · 韩国
 
-**职业代码: 52301 (KECO)**
+**职业代码：52301 (KECO)**
 
-This is a service job supporting guest convenience in lodging facilities such as hotels, condos, and motels, including room cleaning, bed making, and restocking amenities.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一项支持客人在酒店、公寓和汽车旅馆等住宿设施便利的服务工作，包括房间清洁、铺床和补充用品。
 
 
 ---
@@ -13,8 +11,8 @@ This is a service job supporting guest convenience in lodging facilities such as
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（No separate training required） |
-| Hotel/tourism-related certification courses | 6 months | $500,000~$2,000,000（Private academies or online courses） |
+| 高中文凭 | 0年 | $0~$0（无需单独培训） |
+| 酒店/旅游相关认证课程 | 6个月 | $500,000~$2,000,000（私立学院或在线课程） |
 
 ---
 
@@ -22,17 +20,17 @@ This is a service job supporting guest convenience in lodging facilities such as
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cook license (not mandatory) | Human Resources Development Service of Korea | 可选 | Advantageous when combined with food and beverage work |
-| Hotel Service Associate Certification | Korea Research Institute for Vocational Education and Training | 可选 | Optional, preferred at large hotels |
+| 厨师证（非强制） | 韩国人力资源开发服务局 | 可选 | 与餐饮工作结合时有利 |
+| 酒店服务助理认证 | 韩国职业教育和培训研究院 | 可选 | 可选，大型酒店优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Employment has been gradually increasing with the recovery of tourism and travel demand after COVID-19, but low skill levels and job instability are expected to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。随着新冠疫情后旅游和旅行需求的复苏，就业逐渐增加，但低技能水平和就业不稳定的预期将持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ This is a service job supporting guest convenience in lodging facilities such as
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Minimum wage compliance, including weekly holiday allowance |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 最低工资合规，包括每周假期津贴 |
 | 中级 (4-7年) | $30,000,000~$36,000,000 | 含团队主管津贴 |
-| Advanced (8+ years) | $36,000,000~$45,000,000 | Housekeeping manager, including bonuses |
+| 高级（8年以上） | $36,000,000~$45,000,000 | 家政经理，含奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-With the introduction of automated cleaning robots, simple repetitive tasks are decreasing, but delicate cleaning of hotel rooms and customer service still require humans, so some tasks may be replaced but the job itself is expected to remain.
+随着自动清洁机器人的引入，简单的重复性任务正在减少，但酒店房间的精细清洁和客户服务仍需要人力，因此部分任务可能被取代，但该职业本身预计仍将存在。
 
-After joining as a new hire, one can gain experience and be promoted to room team leader or housekeeping manager, with training opportunities provided at large hotel chains.
+入职后可积累经验，晋升为客房领班或客房部经理，大型连锁酒店提供培训机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Cleaning in Guest Rooms
-- Assisting with Bedding Changes
-- Floor Cleaning in Designated Areas
+- 客房简单清洁
+- 协助更换床单
+- 指定区域的地面清洁
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring and Managing Cleaning Robots
-- Handling Customer Requests
-- Special Stain Treatment
+- 监控和管理清洁机器人
+- 处理客户请求
+- 特殊污渍处理
 
-**人类护城河:**
+**人类护城河：**
 
-- Human Delicacy and Situational Judgment
-- Emotional Interaction with Customers
-- Handling Exceptional Situations
+- 人类精细判断与情境判断
+- 与客户的情感互动
+- 处理异常情况
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cleaning Equipment Maintenance
-- Basic Foreign Language Conversation
-- Customer Service Mindset
+- 清洁设备维护
+- 基础外语会话
+- 客户服务心态
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hotel Room Management
-- Recovery of Tourism Demand
-- Cleaning Outsourcing
-- Workforce Supply-Demand Imbalance
+- 酒店客房管理
+- 旅游需求复苏
+- 清洁外包
+- 劳动力供需失衡
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign workers may be employed in some lodging businesses, but visa issuance is limited for pure room cleaning |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work in accommodation service jobs with no activity restrictions |
-| Subclass H-2 (Working Visit (H-2)) | For overseas Koreans, can work in simple labor such as accommodation |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Good physical strength and meticulous personality
-- People who are interested in cleanliness and organization
-- People who prefer to work quietly alone
+- 良好的体力和细心的性格
+- 对清洁和条理化感兴趣的人
+- 喜欢安静独立工作的人
 
 **谁不适合**
-- People who dislike repetitive and physical labor
-- People tired of interpersonal services
+- 不喜欢重复性和体力劳动的人
+- 厌倦人际服务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for accommodation service workers?**
-答：The starting salary is usually based on the minimum wage, and including holiday pay, it is around 24 million KRW. For large hotels, it may be slightly higher.
+**问：住宿服务工人的起薪是多少？**
+答：起薪通常基于最低工资，包括假日工资在内约2400万韩元。大型酒店可能略高。
 
-**问：Can foreigners work as accommodation service workers?**
-答：It is possible with an E-9 (Non-professional Employment) visa in some cases, but simple room cleaning is restricted, and F-4 or H-2 overseas Korean visas are more advantageous.
+**问：外国人能否从事住宿服务工作？**
+答：部分情况可用E-9（非专业就业）签证，但简单房间清洁受限，F-4或H-2海外韩侨签证更有利。
 
 **问：有晋升机会吗？**
-答：Depending on experience, one can be promoted to room team leader or housekeeping manager, and large chains operate training programs.
+答：根据经验，可晋升为房间领班或客房部经理，大型连锁酒店设有培训项目。
 
 
 ---
@@ -144,12 +134,12 @@ After joining as a new hire, one can gain experience and be promoted to room tea
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/lodging-service-worker/KR)**

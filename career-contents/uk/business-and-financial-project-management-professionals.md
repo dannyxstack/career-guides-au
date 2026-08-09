@@ -53,8 +53,6 @@ Manage and supervise major projects in modern industry, commerce, and the public
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Usually start as a junior project coordinator or assistant, then progress to project manager, senior project manager, project director, and even portfolio management or PMO head. Professional certifications (e.g., PMP, PRINCE2) help with promotion.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a junior project coordinator or assistant, then progress to pro
 | Subclass Graduate (Graduate Visa) | UK graduates eligible to apply; work in the UK for 2-3 years without employer sponsorship requirement |
 | Subclass Scale-up (Scale-up Visa) | Suitable for fast-growing companies; must meet salary £33,000; first visa is 2 years, can transition to permanent residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires skills in project management methodologies (e.g., PRINCE2, PMP), bus
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-and-financial-project-management-professionals/UK)**

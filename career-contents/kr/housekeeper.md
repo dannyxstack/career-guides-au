@@ -4,8 +4,6 @@
 
 A personal service worker who visits homes to perform general housekeeping tasks such as cleaning, laundry, and organizing. Demand is high among housewives and dual-income families.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A personal service worker who visits homes to perform general housekeeping tasks
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Although AI cannot directly replace housekeeping tasks, platform algorithms automate demand matching and schedule management, reducing some intermediary functions. Simple cleaning tasks are supplemented by robot cleaners, but services requiring human touch persist.
-
 Beginners focus on simple cleaning; with experience, they can combine dedicated housekeeping and childcare, start small housekeeping businesses, or enhance professionalism through house manager certification.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Beginners focus on simple cleaning; with experience, they can combine dedicated 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Housekeeping is not an E-9 eligible occupation; most positions are for local workers |
-| Subclass F-2 (Residence) | Available for migrants or marriage immigrants already residing in Korea |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work as housekeepers, but limited |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Not mandatory, but a housekeeping certificate is advantageous for employment
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housekeeper/KR)**

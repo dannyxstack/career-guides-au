@@ -56,8 +56,6 @@ Cloud engineers design, deploy and manage cloud infrastructure on AWS, Azure and
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Platform Engineering and FinOps (cloud cost optimisation) are the fastest-growing sub-fields in 2025–2026. Engineers managing multi-cloud architectures (AWS + Azure + GCP simultaneously) command a salary premium of $15k–$30k.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Platform Engineering and FinOps (cloud cost optimisation) are the fastest-growin
 | Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
 | Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Cloud engineers attract slightly higher salaries ($125k–$145k vs $120k–$1
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cloud-engineer/AU)**

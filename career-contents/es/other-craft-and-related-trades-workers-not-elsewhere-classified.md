@@ -4,8 +4,6 @@
 
 This profession includes craftsmen, operators, and craftsmen not explicitly classified in other categories, including various manual or semi-mechanized tasks such as small-scale manufacturing, repair, and assembly.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This profession includes craftsmen, operators, and craftsmen not explicitly clas
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This profession encompasses a large number of manual and semi-mechanized tasks; structural and repetitive jobs are more easily replaced by automation, but customized and restorative jobs still rely on human skills in the short term.
-
 Career development paths are limited, usually starting as apprentices or junior workers, and can be promoted to senior technicians or team leaders; some can start their own businesses or transition to related industries.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Career development paths are limited, usually starting as apprentices or junior 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | Employed work residence requires employer sponsorship to prove that suitable candidates cannot be recruited in the EU. |
-| Subclass Busqueda empleo (Job search visa) | Job seeker visa, allowing you to stay in Spain for 6 months to look for work, requiring academic or training background. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to senior technician, team leader, or start your own busi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-craft-and-related-trades-workers-not-elsewhere-classified/ES)**

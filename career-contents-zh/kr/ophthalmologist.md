@@ -1,10 +1,8 @@
-# Ophthalmologist 职业分析 · 韩国
+# 眼科医生（Ophthalmologist）职业分析 · 韩国
 
-**职业代码: 30116 (KECO)**
+**职业代码：30116 (KECO)**
 
-A doctor who diagnoses and treats diseases of the eye and visual system, including cataracts, glaucoma, myopia correction, and various eye surgeries and medications.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+诊断和治疗眼睛及视觉系统疾病（如白内障、青光眼、近视矫正）的医生，并执行各种眼科手术和用药。
 
 
 ---
@@ -13,9 +11,9 @@ A doctor who diagnoses and treats diseases of the eye and visual system, includi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School | 6年 | $80,000,000~$99,999,999（Higher at private universities vs. national universities） |
-| Internship + Residency (Ophthalmology) | 5年 | $0~$0（Salary during training, no tuition） |
-| Specialist Certification | 1年 | $500,000~$1,000,000（Exam and training fees） |
+| 医学院 | 6年 | $80,000,000~$99,999,999（私立大学高于国立大学） |
+| 实习+住院医师（眼科） | 5年 | $0~$0（培训期间有薪水，无学费） |
+| 专家认证 | 1年 | $500,000~$1,000,000（考试和培训费用） |
 
 ---
 
@@ -23,18 +21,18 @@ A doctor who diagnoses and treats diseases of the eye and visual system, includi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Must pass national exam after medical school graduation |
-| Ophthalmology Specialist | Korean Academy of Medical Sciences | 必备 | Pass specialty exam after residency |
-| Korean Ophthalmological Society Certification | Korean Ophthalmological Society | 可选 | Additional subspecialty certification available |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后必须通过国家考试 |
+| 眼科专家 | 大韩医学科学院 | 必备 | 住院医师后通过专业考试 |
+| 韩国眼科学会认证 | 韩国眼科学会 | 可选 | 可额外获得亚专科认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 12,000. Very bright employment outlook due to aging population increasing cataract/glaucoma patients and rising smartphone use causing dry eye/myopia.
+**职位需求量：很高（★★★★½）** 全国从业人数约 12,000。因人口老龄化导致白内障/青光眼患者增加，以及智能手机使用增加引发干眼症/近视，就业前景非常光明。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A doctor who diagnoses and treats diseases of the eye and visual system, includi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (1–3 years after residency) | $70,000,000~$99,999,999 | Based on university hospital employed doctor |
-| Mid-Level (5–10 years as specialist, private practitioner) | $99,999,999 | Significant income increase upon opening own practice |
-| High-level (Famous private practitioner, university hospital professor) | $99,999,999 | Salary cap varies by hospital size |
+| 入门级（居留后1-3年） | $70,000,000~$99,999,999 | 基于大学医院雇佣医生 |
+| 中级（5–10年专家或私人执业经验） | $99,999,999 | 开设个人诊所后收入显著增加 |
+| 高级（著名私人执业者，大学医院教授） | $99,999,999 | 薪资上限因医院规模而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 很低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：很低（★☆☆☆☆）**
 
-AI can replace some tasks such as diagnostic assistance (retinal scan analysis, automated refraction tests), but surgery, complex clinical judgment, and patient consultation require human doctors. Overall, tasks are reduced by AI, but expertise remains.
+AI可以替代部分任务，如诊断辅助（视网膜扫描分析、自动屈光测试），但手术、复杂临床判断和患者咨询仍需人类医生。总体而言，AI减少了任务，但专业知识仍然重要。
 
-Internship → Residency (4 years) → Specialist → University Hospital Professor/Private Practice. Salary surges upon opening practice; professors combine research and treatment.
+实习→住院医师（4年）→专科医师→大学医院教授/私人执业。开业后收入激增；教授兼顾科研与治疗。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic fundus photo interpretation
-- Automated refraction testing
-- Simple glaucoma diagnosis assistance
+- 基本眼底照片解读
+- 自动屈光检查
+- 简单青光眼诊断辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Early diagnosis of retinal diseases
-- Preoperative planning
-- Patient monitoring and data analysis
+- 视网膜疾病早期诊断
+- 术前规划
+- 患者监测与数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Fine surgical hand skills
-- Building trust with patients
-- Complex clinical judgment and ethical decisions
+- 精细手术手法
+- 建立患者信任
+- 复杂的临床判断和伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI diagnostic tools
-- Robot-assisted surgical techniques
-- Genome analysis-based personalized treatment
-- Operation of Telemedicine Platform
+- 使用AI诊断工具
+- 机器人辅助手术技术
+- 基于基因组分析的个性化治疗
+- 远程医疗平台运营
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Widespread use of smart devices
-- Demand for LASIK/LASEK
-- Early diagnosis of eye diseases
+- 人口老龄化
+- 智能设备的广泛使用
+- LASIK/LASEK需求
+- 眼病早期诊断
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Foreign ophthalmologists with specialist qualifications can work at domestic medical institutions, but require a license recognition process |
-| Subclass F-2 (Residence) | Fewer employment restrictions as an intermediate stage before permanent residency when certain conditions are met |
-| Subclass F-5 (Permanent Residence) | Stable long-term residency and possible to open own practice |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent fine hand skills and concentration
-- Person with physical stamina and patience to endure long surgeries and consultations
-- Person proficient in patient communication with high empathy
+- 手部精细技能和专注力出色的人
+- 具备体力与耐心以承受长时间手术和咨询的人
+- 精通患者沟通且具有高度同理心的人
 
 **谁不适合**
-- Person who feels aversion to blood or surgical scenes
-- Person who finds it difficult to handle high stress and long working hours
+- 对血液或手术场景感到厌恶的人
+- 难以承受高压和长时间工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for an ophthalmologist?**
-答：For employees, entry-level annual salary is 70 million to 100 million KRW; for opening a clinic, 150 million to 250 million KRW; well-known practitioners or professors can earn 300 million to 500 million KRW or more.
+**问：眼科医生的薪资范围是多少？**
+答：员工入门级年薪7000万至1亿韩元；开设诊所1.5亿至2.5亿韩元；知名从业者或教授可达3亿至5亿韩元或更多。
 
-**问：What visa do foreigners need to work as an ophthalmologist in Korea?**
-答：Through the E-7 (Specific Activities) visa, you can be recognized as a specialist and work at university hospitals, but you must first obtain a Korean medical license and go through the certification process.
+**问：外国人在韩国担任眼科医生需要什么签证？**
+答：通过E-7（特定活动）签证，可以以专家身份在大学医院工作，但须先取得韩国医师执照并完成认证流程。
 
-**问：What is the required education period to become an ophthalmologist?**
-答：It takes a total of 11 years or more: 6 years of medical school, 1 year of internship, and 4 years of ophthalmology residency.
+**问：成为眼科医生需要多少年的教育？**
+答：总共需要11年或以上：6年医学院、1年实习、4年眼科住院医师。
 
 
 ---
@@ -147,12 +137,12 @@ Internship → Residency (4 years) → Specialist → University Hospital Profes
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ophthalmologist/KR)**

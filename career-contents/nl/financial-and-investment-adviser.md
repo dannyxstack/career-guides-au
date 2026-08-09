@@ -52,8 +52,6 @@ Financial and investment advisers provide portfolio management, financial planni
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior consultants, team leaders, or department managers; they can also specialize in areas such as ESG investing or cross-border taxation, or pursue certifications like CFA to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior analysts can advance to senior consultants, team leaders, or department m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled immigration, requires signing with an accredited employer, annual salary threshold approx. €5,008/month (for ages 30+ in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | EU Blue Card, requires higher education degree and salary 1.5 times above average (approx. €6,245/month) |
-| Subclass Orientation Year (Orientation Year) | For non-EU students graduating in the Netherlands, a 1-year job search period is granted, and can switch to a work visa upon finding employment |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must register with AFM and pass the Wft exam. Certifications such as CFA are 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-adviser/NL)**

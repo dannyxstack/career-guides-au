@@ -1,8 +1,8 @@
-# Industrial Waste Disposal Worker 职业分析 · 日本
+# 工业废物处理工（Industrial Waste Disposal Worker）职业分析 · 日本
 
-**职业代码: 715 (JSCO)**
+**职业代码：715 (JSCO)**
 
-Handles collection, transport, treatment, and recycling of waste from factories and offices. Plays a key role in environmental protection.
+处理工厂和办公室的收集、运输、处理和回收废物。在环境保护中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ Handles collection, transport, treatment, and recycling of waste from factories 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| No specific education required | 无 | $0~$0（On-the-job training mainly） |
-| Specialized school (environment/waste disposal) | 2 年 | $1,000,000~$2,500,000（Optional but useful for learning） |
+| No specific education required | 无 | $0~$0（主要在职培训） |
+| 专门学校（环境/废物处理） | 2 年 | $1,000,000~$2,500,000（非必需但有助于学习） |
 
 ---
 
@@ -20,18 +20,18 @@ Handles collection, transport, treatment, and recycling of waste from factories 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Waste Disposal Facility Technical Manager | Prefectural government | 可选 | Required for managing intermediate treatment facilities |
-| Hazardous Materials Handler | Fire and Disaster Management Agency | 可选 | Helpful for handling hazardous waste |
-| Forklift Operation Training | Ministry of Health, Labour and Welfare | 可选 | Useful for waste transport |
+| 废物处理设施技术经理 | 县/省级政府 | 可选 | 管理中转设施所需 |
+| 危险品处理员 | 消防与灾害管理局 | 可选 | 有助于处理危险废物 |
+| 叉车操作培训 | 厚生劳动省 | 可选 | 用于废物运输 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 230,000. The waste disposal industry is aging, with severe labor shortages. Demand for intermediate treatment and recycling tech is rising, so employment is expected to remain stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 230,000。废物处理行业老龄化严重，劳动力严重短缺。中间处理和回收技术需求上升，因此就业有望保持稳定。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,91 +39,84 @@ Handles collection, transport, treatment, and recycling of waste from factories 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,000,000 | No experience OK, overtime included |
-| Mid-level (4-10 years) | $4,000,000~$5,000,000 | Pay raise with certification |
-| Veteran (10+ years) | $5,000,000~$7,000,000 | Management/technical manager level |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 无经验可，含加班 |
+| 中级（4-10年） | $4,000,000~$5,000,000 | 持证加薪 |
+| 资深（10年以上） | $5,000,000~$7,000,000 | 管理/技术经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation contribute to waste sorting and transport efficiency, but tasks requiring human flexibility, such as on-site judgment and foreign object removal, remain. Overall, automation reduces some work but full replacement is difficult.
+AI和自动化有助于废物分类和运输效率提升，但需要人力灵活性的任务，如现场判断和异物清除，仍然存在。总体而言，自动化减少部分工作，但完全取代较为困难。
 
-Start as a field worker, gain experience, and advance to disposal manager or sales. Certifications lead to promotion; management or self-employment possible.
+从现场工人开始，积累经验，晋升为处置经理或销售。证书可获晋升；可能管理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple waste sorting work
-- Routine transport route planning
+- 简单垃圾分类工作
+- 常规运输路线规划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automatic waste identification and sorting using AI cameras
-- Optimization of treatment processes using sensors
+- 利用AI摄像头自动识别和分类垃圾
+- 利用传感器优化处理工艺
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex waste judgment
-- Emergency response
-- Customer negotiations
+- 复杂废物判断
+- 应急响应
+- 客户谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Knowledge of recycling technology
-- Understanding of environmental regulations
-- Operation of AI/IoT devices
-- Communication skills
+- 了解回收技术知识
+- 了解环境法规
+- AI/IoT设备操作
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recycling technology
-- Tightening environmental regulations
-- Intermediate treatment
-- Smart waste management
+- 回收技术
+- 环境法规收紧
+- 中级处理
+- 智能废物管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Industrial Waste Treatment)) | 5-year work permit in industrial waste treatment. Requires Japanese and skills exam. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable with expertise in recycling tech or environmental engineering. |
-| Subclass 技能 (Skills (Waste Treatment)) | For skilled workers with many years of experience. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident people
-- Those interested in environmental issues
-- Those who don't mind routine work
+- 身体自信的人
+- 对环境问题感兴趣的人
+- 不介意重复性工作的人
 
 **谁不适合**
-- People who dislike physical labor
-- Those wanting to avoid dangerous tasks
+- 不喜欢体力劳动的人
+- 希望避免危险任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of industrial waste treatment workers?**
-答：Entry-level: 3-4 million JPY, mid-level: 4-5 million JPY, veteran: 5-7 million JPY. Varies with overtime and allowances.
+**问：工业废物处理工人的年收入是多少？**
+答：入门级：300-400万日元，中级：400-500万日元，资深：500-700万日元。因加班和津贴而异。
 
-**问：What visa does a foreigner need to work in this occupation?**
-答：The main route is Specified Skilled Worker (i) (Industrial Waste Treatment). Japanese N4 level and passing a skills test are required. The Engineer/Specialist in Humanities/International Services visa is possible with expertise in environmental engineering, etc.
+**问：外国人从事此职业需要什么签证？**
+答：主要途径是特定技能工人(i)（工业废弃物处理）。需要日语N4水平并通过技能测试。若具备环境工程等专业知识，可申请人文知识/国际业务签证。
 
-**问：How can I advance my career?**
-答：By obtaining qualifications such as forklift or hazardous materials handler, and aiming to become a waste treatment facility technical manager, you can pursue managerial positions or even start your own business.
+**问：如何提升我的职业生涯？**
+答：通过获得叉车或危险品处理员等资格，并立志成为废物处理设施技术经理，可以追求管理职位甚至创业。
 
 
 ---
@@ -141,12 +134,12 @@ Start as a field worker, gain experience, and advance to disposal manager or sal
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-waste-disposal-worker/JP)**

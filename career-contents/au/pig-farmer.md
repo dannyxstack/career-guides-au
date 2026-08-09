@@ -51,8 +51,6 @@ Responsible for pig farming, breeding, health management, and farm operations to
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can advance from farm worker to management, or specialize in breeding technology, animal nutrition, biosecurity, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from farm worker to management, or specialize in breeding technology
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, can transition to 186 |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, can advance from farm worker to team leader, farm manager, or specialize
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pig-farmer/AU)**

@@ -51,8 +51,6 @@ Procurement officers are responsible for purchasing goods and services for enter
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
-
 Entry-level buyers can advance to senior buyers, procurement managers, and even supply chain directors. Mastering data analysis or international procurement skills aids career development.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Entry-level buyers can advance to senior buyers, procurement managers, and even 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to highly skilled immigrants employed by a recognised sponsor in the Netherlands, meeting the minimum salary threshold (approx. €5,331/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | For higher education backgrounds and high-paying jobs (2025 salary threshold approx. €5,331/month), allows mobility within the EU. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from the Netherlands or master's graduates from top 200 world universities can apply for a one-year job-seeking visa, which can be converted to a work permit upon finding employment. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Junior procurement officers can advance to senior procurement officer, procur
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buyer/NL)**

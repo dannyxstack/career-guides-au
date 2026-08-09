@@ -54,8 +54,6 @@ Agricultural and agricultural technicians assist in agricultural science researc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agriculture and agricultural technician roles are positively amplified by AI; automation improves precision farming efficiency, but on-site operations and complex decisions still require humans, resulting in overall increased opportunities.
-
 Can progress from junior technician to senior technician, laboratory supervisor, or farm manager; can also transition into agricultural consulting, agronomy extension, or R&D roles in agricultural technology companies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior technician to senior technician, laboratory supervisor,
 | Subclass 190 (Skilled Nominated Visa (Permanent)) | State-sponsored permanent residence visa, requires occupation on the CSOL and state government nomination. |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional Skilled Work Visa (subclass 491), transitioning to 191 permanent residency requires meeting residence and income requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Agricultural regions in New South Wales, Victoria, Queensland and Western Aus
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-agritech-technician/AU)**

@@ -1,8 +1,8 @@
-# Building Construction Technician and Estimator 职业分析 · 韩国
+# 建筑技术员和估算员（Building Construction Technician and Estimator）职业分析 · 韩国
 
-**职业代码: 14027 (KECO)**
+**职业代码：14027 (KECO)**
 
-A professional technical personnel who oversees construction at the site and performs construction cost estimation and cost management.
+在施工现场监督施工并进行施工成本估算和成本管理的专业技术人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional technical personnel who oversees construction at the site and per
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate (experience after employment) | 0年 | $0~$0（High school graduates with over 5 years of experience can qualify as construction technicians.） |
-| Junior college (architecture-related) | 2 年 | $15,000,000~$25,000,000（2/3-year associate degree） |
-| University (architecture-related) | 4年 | $25,000,000~$45,000,000（4-year bachelor's degree） |
+| 高中毕业生（就业后经验） | 0年 | $0~$0（高中毕业且拥有5年以上经验者可担任建筑技术员。） |
+| 大专（建筑相关） | 2 年 | $15,000,000~$25,000,000（2/3年制专科学位） |
+| 大学（建筑相关） | 4年 | $25,000,000~$45,000,000（4年制学士学位） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional technical personnel who oversees construction at the site and per
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Building Construction | Human Resources Development Service of Korea | 可选 | Top-level certification, eligible for exam with 7+ years of experience |
-| Architectural Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory, but advantageous for treatment and promotion |
-| Interior Architecture Engineer | Human Resources Development Service of Korea | 可选 | Relevant to interior construction field |
+| 建筑结构专业工程师 | 韩国人力资源开发服务局 | 可选 | 顶级认证，需7年以上经验方可参加考试 |
+| 建筑工程师 | 韩国人力资源开发服务局 | 可选 | 非强制，但对待遇和晋升有利 |
+| 室内建筑工程师 | 韩国人力资源开发服务局 | 可选 | 与室内装修领域相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 120,000. New hiring is somewhat sluggish due to the construction industry recession and aging workforce, but demand for experienced skilled workers remains steady.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 120,000。由于建筑行业衰退和劳动力老龄化，新招聘略显低迷，但对有经验的技术工人需求稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A professional technical personnel who oversees construction at the site and per
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$36,000,000 | Based on high school graduate with 0 years of experience, including bonuses |
-| Intermediate (4-10 years) | $40,000,000~$60,000,000 | Engineer license & on-site manager, etc. |
-| Advanced (11+ years) | $65,000,000~$90,000,000 | Professional engineer & PM level |
+| 初级 (0-3年) | $28,000,000~$36,000,000 | 基于高中毕业生0年经验，含奖金 |
+| 中级（4-10年） | $40,000,000~$60,000,000 | 工程师执照及现场负责人等 |
+| 高级（11年以上） | $65,000,000~$90,000,000 | 专业工程师与项目经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI replaces auxiliary tasks like estimation and design automation, but on-site construction, coordination, and safety judgment remain human domains, less affected by AI.
+AI替代估算和设计自动化等辅助任务，但现场施工、协调和安全判断仍属于人类领域，受AI影响较小。
 
-Career progression: Junior construction assistant → Construction technician (intermediate) → Responsible technician (site manager) → Construction manager (PM).
+职业发展路径：初级施工助理→施工技术员（中级）→责任技术员（现场经理）→施工经理（项目经理）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive quantity calculation tasks
-- Drafting preliminary estimates
-- Scheduling data organization
+- 简单的重复性数量计算任务
+- 起草初步估算
+- 排程数据组织
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D model-based interference checking
-- AI-based estimation comparison and analysis
-- Drone-based site monitoring
+- 基于3D模型的干涉检查
+- 基于人工智能的估算比较与分析
+- 基于无人机的现场监控
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site situation judgment and decision-making
-- Solving non-standard problems
-- Safety management and risk response
+- 现场情况判断与决策
+- 解决非标准问题
+- 安全管理与风险应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM operation
-- Smart safety management
-- Data-based cost analysis
-- Project Management (PM)
+- BIM操作
+- 智能安全管理
+- 基于数据的成本分析
+- 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction
+- 智慧建造
 - BIM
-- Safety management
-- Green remodeling
+- 安全管理
+- 绿色改造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled construction workers (5+ years experience + certification) |
-| Subclass E-9 (Non-professional Employment) | Construction Employment Permit System (within quota, simple labor possible) |
-| Subclass F-2 (Residence) | Long-term stay possible through points system (education, experience, income) |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong physical strength and on-site adaptability
-- People with blueprint interpretation and numerical sense
-- People interested in organizational and safety management
+- 体力和现场适应能力强的人
+- 具有图纸解读和数字感的人
+- 对组织管理和安全管理感兴趣的人
 
 **谁不适合**
-- People who avoid outdoor and high-altitude work
-- People vulnerable to fluctuating schedules and pressure
+- 避免户外和高空工作的人
+- 不适应波动时间表和压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a construction engineer?**
-答：Entry-level: approximately 28-36 million KRW, mid-level: 40-60 million KRW, senior: 65-90 million KRW. Varies greatly by qualification and experience.
+**问：建筑工程师的年薪是多少？**
+答：入门级：约28-3600万韩元，中级：40-6000万韩元，高级：65-9000万韩元。因资历和经验差异较大。
 
-**问：Can foreigners get a job with an E-7 visa?**
-答：Yes. The E-7 visa for construction engineering requires at least 5 years of experience and relevant certifications, along with an employment contract.
+**问：外国人可以通过E-7签证就业吗？**
+答：是的。建筑工程领域的E-7签证需要至少5年经验和相关证书，以及雇佣合同。
 
-**问：Is there a severe labor shortage in this occupation?**
-答：Yes, especially for skilled workers, leading to active foreign hiring under E-9 and E-7 visas.
+**问：该职业是否存在严重劳动力短缺？**
+答：是的，特别是对于熟练工人，导致在E-9和E-7签证下积极招聘外国人。
 
 
 ---
@@ -144,12 +137,12 @@ Career progression: Junior construction assistant → Construction technician (i
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-construction-technician-and-estimator/KR)**

@@ -4,8 +4,6 @@
 
 A professional who plans and develops travel products that meet customer demand at travel agencies, and organizes package and customized products by collaborating with airlines, accommodations, and tourist destinations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who plans and develops travel products that meet customer demand 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation tools are streamlining travel product planning, price comparison, and reservation systems, reducing simple product development tasks, but creative product planning and local network utilization remain human domains.
-
 Typically, one enters a travel agency as a new employee, becomes a product development assistant, then is promoted to a staff member or assistant manager, and can grow into a team leader or specialized product developer after 5-10 years.
 
 **Tasks most exposed to AI:**
@@ -92,18 +88,9 @@ Typically, one enters a travel agency as a new employee, becomes a product devel
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can be issued for professional travel product development experience, but not common |
-| Subclass F-2 (F-2 (Residence)) | Employment possible with long-term stay status |
-| Subclass F-4 (F-4 (Overseas Korean)) | Employment possible for overseas Koreans, but not common |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents can work without restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +134,12 @@ A: Knowledge of travel destinations, product planning skills, negotiation skills
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-product-developer/KR)**

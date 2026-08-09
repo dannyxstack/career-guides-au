@@ -53,8 +53,6 @@ Woodwind instrument makers are artisans who specialize in designing, producing, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will take over some diagnostic and standard tuning tasks, but manual repair, custom tuning, and complex repairs still require human hearing and touch; replacement risk is currently moderate.
-
 Career progression: Apprentice (3 years) → Skilled artisan → Workshop supervisor or start your own musical instrument repair shop. A few may enter musical instrument manufacturing as technical advisors, or shift to instrument restoration and authentication.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Apprentice (3 years) → Skilled artisan → Workshop superv
 | Subclass Chancenkarte (Opportunity Card) | Points-based opportunity card for skilled talent who are not yet credentialed but have qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Can stay in Germany for 6 months to seek an employer, but must prove qualifications |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires 3 years of dual-system vocational training, conducted join
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodwind-instrument-maker/DE)**

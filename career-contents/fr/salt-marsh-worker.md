@@ -4,8 +4,6 @@
 
 An agricultural environment occupation involving manual or mechanical salt extraction, salt pond maintenance, and water quality regulation in the French coastal salt fields, combining tradition with ecological protection.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ An agricultural environment occupation involving manual or mechanical salt extra
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on salt field workers is mixed: traditional manual salt extraction and water quality monitoring tasks can be replaced by automation, but areas that rely on human judgment, such as ecological protection and fine regulation, are instead enhanced by AI, resulting in polarized job demands.
-
 Usually, starting as a salt miner, one can be promoted to salt field supervisor or manager, or move to salt product quality inspection or ecotourism guide. Requires years of experience.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Usually, starting as a salt miner, one can be promoted to salt field supervisor 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employers must provide employment contracts and prove that EU residents cannot be recruited. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled talent, but salt pan workers usually do not qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can advance to salt pan foreman or manager, or transition to salt product qua
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salt-marsh-worker/FR)**

@@ -1,10 +1,8 @@
-# Passenger Car Driver 职业分析 · 日本
+# 乘用车驾驶员（Passenger Car Driver）职业分析 · 日本
 
-**职业代码: 612 (JSCO)**
+**职业代码：612 (JSCO)**
 
-Drives passenger cars such as taxis and hired cars to safely transport passengers to their destinations. Requires geographical knowledge and customer service skills.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+驾驶出租车和包车等乘用车，安全运送乘客至目的地。需要具备地理知识和客户服务技能。
 
 
 ---
@@ -13,8 +11,8 @@ Drives passenger cars such as taxis and hired cars to safely transport passenger
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Ordinary Class 1 Driver's License | Approx. 3 months | $300,000~$500,000（Driving school fees） |
-| Ordinary Class 2 Driver's License | Approx. 1-3 months | $100,000~$300,000（Driving school fees (after obtaining Class 1 license)） |
+| 普通一级驾照 | 约3个月 | $300,000~$500,000（驾校费用） |
+| 普通二级驾驶证 | 约1-3个月 | $100,000~$300,000（驾校费用（取得第一类驾照后）） |
 
 ---
 
@@ -22,18 +20,18 @@ Drives passenger cars such as taxis and hired cars to safely transport passenger
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Ordinary Class 2 Driver's License | Prefectural Public Safety Commission | 必备 | Required for commercial taxi driving |
-| Geographical Exam (Taxi) | Each prefecture's taxi association | 可选 | Tests regional geography knowledge; recommended |
-| Care Transport Worker Training | Each local government | 可选 | For welfare taxis; optional but advantageous |
+| 普通二级驾驶证 | 县公安委员会 | 必备 | 商业出租车驾驶所需 |
+| 地理考试（出租车） | 各县出租车协会 | 可选 | 测试区域地理知识；推荐 |
+| 护理运输工人培训 | 各地方政府 | 可选 | 用于福利出租车；非必需但有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. The taxi industry is facing serious aging and labor shortages; while not covered by Specified Skilled Worker status, securing domestic labor remains a challenge. Long-term impact from autonomous driving.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。出租车行业面临严重的老龄化和劳动力短缺；虽未被纳入特定技能工人范畴，但确保国内劳动力仍具挑战。自动驾驶技术将带来长期影响。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,87 @@ Drives passenger cars such as taxis and hired cars to safely transport passenger
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Base salary + commission; annual salary example |
-| 中级（3-10年） | $4,000,000~$5,500,000 | Commission increases with experience |
-| Advanced (10+ years) | $5,000,000~$7,000,000 | May include management allowance |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 底薪+提成；年薪示例 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 佣金随经验增加 |
+| 高级（10年以上） | $5,000,000~$7,000,000 | 可能包含管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-There is a long-term risk of replacement due to advances in autonomous driving technology, but currently, labor shortages persist, and AI is at a stage where it complements work through driving assistance and dispatch optimization. Full autonomous driving is still a ways off.
+由于自动驾驶技术的进步，存在长期被替代的风险，但目前劳动力短缺持续存在，人工智能通过驾驶辅助和调度优化补充工作。完全自动驾驶仍有一段距离。
 
-After joining a taxi company, gain experience and advance to lead driver or management. Independent operation is difficult, but career advancement within corporate taxi companies is possible.
+加入出租车公司后，积累经验并晋升为首席司机或管理层。独立经营困难，但在企业出租车公司内职业发展可能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Route Driving
-- Part of Dispatch Operations
-- Manual Entry of Driving Records
+- 简单路线驾驶
+- 调度运营的一部分
+- 手动录入驾驶记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal Route Guidance via Car Navigation AI
-- Efficient Business Area Instructions through Demand Forecasting
-- Driving Support Systems (e.g., Collision Prevention)
+- 通过汽车导航AI进行最优路线引导
+- 通过需求预测实现高效业务领域指导
+- 驾驶辅助系统（如防碰撞）
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced Customer Service Skills
-- Local Geographic Knowledge
-- Hazard Detection and Flexible Responses
-- Passenger Safety Considerations
+- 高级客户服务技能
+- 当地地理知识
+- 危险检测与灵活应对
+- 乘客安全考量
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Foreign Language Communication Skills
-- Sightseeing Knowledge
-- Assistance for Elderly and Disabled Individuals
-- Transportation Management Skills
+- 外语沟通能力
+- 观光知识
+- 老年人与残疾人援助
+- 运输管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Taxi Driver
-- Chauffeur
-- Shuttle Driver
-- Ride-Sharing Related
+- 出租车司机
+- 私人司机
+- 班车司机
+- 拼车相关
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Generally not applicable for driving jobs, but possible for management roles, etc. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not eligible for automobile transportation industry; cannot obtain |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy driving and are familiar with geography
-- People good at customer service and confident in physical stamina
-- People who prefer stability over independence
+- 喜欢驾驶且熟悉地理的人
+- 擅长客户服务且体力充沛的人
+- 偏好稳定胜过独立的人
 
 **谁不适合**
-- People who dislike long periods of sitting work
-- People who dislike irregular work schedules
+- 不喜欢长时间坐着工作的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income like?**
-答：First year around 3-4 million yen, with experience 5-7 million yen possible, but varies greatly due to commission-based system.
+**问：年收入如何？**
+答：第一年约300-400万日元，有经验后可达500-700万日元，但因佣金制度差异很大。
 
-**问：How can foreigners become taxi drivers in Japan?**
-答：Currently not covered by Specified Skilled Worker visa, and Engineer/Specialist in Humanities/International Services visa is difficult to obtain for driving jobs. Requires existing status like permanent resident or spouse of Japanese national.
+**问：外国人如何在日本成为出租车司机？**
+答：目前特定技能签证不涵盖，且驾驶类工作难以获得技术/人文知识/国际业务签证。需已持有永住者或日本人配偶等身份。
 
-**问：Are there career advancement opportunities?**
-答：By obtaining a transportation management qualification, you can aim for management positions at branch offices or executive roles at taxi companies.
+**问：有职业发展机会吗？**
+答：通过获取交通管理资格，可争取分公司管理层或出租车公司高管职位。
 
 
 ---
@@ -146,12 +137,12 @@ After joining a taxi company, gain experience and advance to lead driver or mana
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/passenger-car-driver/JP)**

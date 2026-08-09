@@ -51,8 +51,6 @@ Responsible for organizational structure design, strategic planning, process opt
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Can advance from junior specialist to department head, senior manager, or shift to strategic consulting, operations director, etc. Requires continuous learning of digital transformation skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior specialist to department head, senior manager, or shift 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | After degree recognition, you can get a 4-year work residence permit; German B1 allows permanent residence |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month job search in Germany, requiring basic German language skills and credential recognition |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: From specialist roles to department manager, senior manager, or moving into s
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-organization-and-planning-professional/DE)**

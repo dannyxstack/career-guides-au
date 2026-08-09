@@ -51,8 +51,6 @@ It assists physicists and chemists in conducting experiments, testing, and analy
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-The roles of physical and chemical science technicians will be significantly reshaped by AI: routine experimental operations and data processing tasks face automation, but AI's enhanced data analysis and instrument management capabilities will require a shift toward higher-level experimental design and interpretation.
-
 Junior technicians can be promoted to senior technicians or laboratory supervisors; By pursuing a master's degree (Máster), you can transition to R&D engineering or quality control manager; Some have shifted to technology sales or product management.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior technicians can be promoted to senior technicians or laboratory superviso
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Targets highly skilled professionals; requires a university degree and at least one-year contract; salary threshold approx. €33,908 (2023). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly skilled professionals, meeting educational and salary requirements, allowing quick residency acquisition. |
-| Subclass Cuenta ajena (Employed Work Permit) | Employers must apply and prove that the position cannot be filled within the EU. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Requires laboratory instrument operation skills, data recording and analysis 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-and-chemical-science-technicians/ES)**

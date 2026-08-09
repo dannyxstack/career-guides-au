@@ -50,8 +50,6 @@ A professional in the production process who controls and monitors metalworking 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and IoT are advancing automation and optimization of machine tools; simple monitoring tasks decrease, while advanced skills like programming and anomaly response strengthen. It's a field where experience increases value.
-
 Common career paths include acquiring skills in NC program creation and multi-axis control, and advancing to production management. Obtaining skills certification (NC lathe/milling machine) is advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Common career paths include acquiring skills in NC program creation and multi-ax
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry/Industrial Machinery/Electrical & Electronic Information Manufacturing)) | Obtainable by passing exam and having N4+ Japanese. Covers 3 manufacturing fields, max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school degree+ and work experience. Permanent residency possible. |
-| Subclass 技能 (Skilled Labor) | For experienced skilled workers. Requires 10+ years of practical experience. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +131,12 @@ A: Specified Skilled Worker (i) (Manufacturing 3 fields) is the easiest to obtai
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-equipment-control-monitoring-operator/JP)**

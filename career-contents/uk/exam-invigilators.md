@@ -50,8 +50,6 @@ Exam invigilators are responsible for setting up, running, and invigilating exam
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of exam invigilators (such as identity verification, exam room patrols, and violation recording) are highly standardized. AI and automation technologies will significantly reduce job demand, expected to decrease by more than 30% over the next 5-10 years.
-
 Typically start as part-time or temporary invigilators, gain experience to advance to senior invigilator or exam supervisor, responsible for training and managing invigilation teams; a few may move into educational management roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Typically start as part-time or temporary invigilators, gain experience to advan
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation typically does not meet skilled worker visa sponsorship requirements due to its lower skill level (below RQF 3). |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for two years, but this occupation is not a typical high-skilled role. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: This occupation generally does not meet skilled worker visa requirements due 
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/exam-invigilators/UK)**

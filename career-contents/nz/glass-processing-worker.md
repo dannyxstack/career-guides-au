@@ -53,8 +53,6 @@ In New Zealand, glass processors operate machines to cut, grind, drill, and poli
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass processor cutting and grinding processes are easily replaced by CNC and AI vision, but on-site measurement, custom processing, and installation still require manual judgment, with both risks and opportunities.
-
 Entry-level operators can advance to senior technicians or team supervisors, or transition to quality inspection or production management. Experienced individuals can run their own small glass processing factories.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level operators can advance to senior technicians or team supervisors, or 
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, must meet the 6-point system requirements (qualifications + work experience + New Zealand job offer). |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, requires 2 years of work before transitioning to residency (this occupation is not currently on the Green List, but may be considered if it falls under certain construction subcategories). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Not mandatory, but holding a New Zealand National Certificate (Glass Processi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-processing-worker/NZ)**

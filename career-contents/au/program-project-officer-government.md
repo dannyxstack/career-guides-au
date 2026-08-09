@@ -53,8 +53,6 @@ Government Project/Program Officers coordinate projects, stakeholder communicati
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
-
 Pathway: Project officer → Senior project officer → Project manager/EL1; project management qualifications (e.g. PRINCE2) are an advantage.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Pathway: Project officer → Senior project officer → Project manager/EL1; pro
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -143,12 +139,13 @@ A: No, mostly require citizenship, not on skilled migration list.
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-project-officer-government/AU)**

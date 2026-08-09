@@ -52,8 +52,6 @@ Build or repair industrial furnaces, boilers, and other high-temperature equipme
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has moderate impact on refractory repair workers: some inspection and monitoring tasks can be automated, but manual patching and structural judgment in high-temperature environments still require humans; jobs won't disappear but tasks will adjust.
-
 Typically start as apprentices or assistants, and can progress to senior repairer or foreman with experience; a few may transition into quality control or production management roles.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Typically start as apprentices or assistants, and can progress to senior repaire
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Typically involves a 4-year apprenticeship combining on-the-job training and 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refractory-materials-repairers-except-brickmasons/US)**

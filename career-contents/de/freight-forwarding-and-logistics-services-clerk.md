@@ -52,8 +52,6 @@ Freight forwarding and logistics service specialists organize and manage the tra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Traditional tasks of freight forwarding and logistics service specialists (such as document processing and route comparison) will be significantly compressed by AI automation, but core tasks like supply chain coordination, exception handling, and client negotiation will be enhanced by AI insights. Entry-level competition increases, while senior roles gain value.
-
 Career development path: after completing dual vocational training, one can advance to logistics specialist, team leader, and then department manager or logistics manager. Further training can lead to becoming a logistics engineer or supply chain management expert.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career development path: after completing dual vocational training, one can adva
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paying positions (2023 salary threshold approx. €43,800, lower for shortage occupations); requires a university degree. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based jobseeker visa allowing job search in Germany, with points awarded for qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from specialist to team leader, department manager, and then to l
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-forwarding-and-logistics-services-clerk/DE)**

@@ -49,8 +49,6 @@ Operates woodworking machines such as saws, planers, and sanders to process logs
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation can replace some simple processes like sawing and planing, but fine adjustments and quality inspections based on wood characteristics require human experience, making complete replacement difficult. With the introduction of CNC, the value of skill may actually increase.
-
 Starting as an entry-level operator, you can advance to team leader or site manager after acquiring skills; additional training in high-end equipment like CNC can improve pay and career prospects.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as an entry-level operator, you can advance to team leader or site mana
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers; can work in woodworking companies under the Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued for skilled workers with advanced skills such as CNC |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based long-term residence after a certain period |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: High school graduation or above is sufficient, and a woodworking technician c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodworking-machine-operator/KR)**

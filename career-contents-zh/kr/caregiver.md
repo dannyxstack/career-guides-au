@@ -1,8 +1,8 @@
-# Caregiver 职业分析 · 韩国
+# 护理员（Caregiver）职业分析 · 韩国
 
-**职业代码: 55011 (KECO)**
+**职业代码：55011 (KECO)**
 
-Caregivers are professionals who provide daily living assistance and nursing care services to the elderly or disabled, working in facilities and community welfare settings.
+护理人员是为老年人或残疾人提供日常生活协助和护理服务的专业人员，在设施和社区福利环境中工作。
 
 
 ---
@@ -11,8 +11,8 @@ Caregivers are professionals who provide daily living assistance and nursing car
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $1,000,000~$3,000,000（Free education implemented for public high schools） |
-| Caregiver Training Institution (Vocational Training) | 6 months | $0~$500,000（Many government-subsidized free courses available） |
+| 高中文凭 | 3年 | $1,000,000~$3,000,000（公立高中实行免费教育） |
+| 护理员培训机构（职业培训） | 6个月 | $0~$500,000（许多政府补贴的免费课程可用） |
 
 ---
 
@@ -20,17 +20,17 @@ Caregivers are professionals who provide daily living assistance and nursing car
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Caregiver Certificate | Korean Health Personnel Licensing Examination Institute | 必备 | National certification, mandatory |
-| Social Worker Level 2 | Korean Association of Social Workers | 可选 | Optional, advantageous for promotion |
+| 护理员证书 | 韩国健康人员资格考试院 | 必备 | 国家认证，强制要求 |
+| 社工二级 | 韩国社会工作者协会 | 可选 | 可选，对晋升有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 700,000. Due to the deepening aging population, demand for caregivers continues to rise, and with government policies expanding care workforce, employment prospects remain very bright.
+**职位需求量：很高（★★★★★）** 全国从业人数约 700,000。由于人口老龄化加深，护理人员需求持续上升，且政府政策扩大护理队伍，就业前景非常光明。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,91 +38,84 @@ Caregivers are professionals who provide daily living assistance and nursing car
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $24,000,000~$28,000,000 | Based on facility work, night shift allowance separate |
-| Mid Level (4-7 years) | $28,000,000~$32,000,000 | Increases with experience and qualifications |
-| Senior Level (8+ years) | $32,000,000~$38,000,000 | Managerial or including home visit services |
+| 入门级（0-3年） | $24,000,000~$28,000,000 | 根据工厂工作，夜班津贴另计 |
+| 中级（4-7年经验） | $28,000,000~$32,000,000 | 随经验和资历增长 |
+| 高级（8年以上经验） | $32,000,000~$38,000,000 | 管理岗位或包括上门服务 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are evolving to assist the work of care workers. For example, smart monitoring systems support fall detection, but physical care and emotional connection remain uniquely human domains. Thus, AI will act as a tool to reduce workload and increase efficiency.
+人工智能和自动化正在发展以辅助护理人员的工作。例如，智能监控系统支持跌倒检测，但身体护理和情感连接仍是人类特有的领域。因此，AI将作为工具减轻工作负担并提高效率。
 
-Entry-level caregiver → With experience, can advance to facility manager, instructor, or complete training to become a nurse assistant for hospital employment. Promotion structure is horizontal, but career development is possible after obtaining certification.
+初级护理员→有经验后可晋升为设施管理者、指导员，或完成培训成为护士助理在医院就业。晋升结构横向，但获得认证后可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- scheduling and record-keeping
-- basic patient status monitoring
+- 排程与记录管理
+- 基本患者状态监测
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- detecting changes in patient condition
-- fall prevention alerts
-- medication time management
+- 检测患者状况变化
+- 防跌倒警报
+- 用药时间管理
 
-**人类护城河:**
+**人类护城河：**
 
-- interpersonal care and empathy
-- physical care (mobility, bathing, feeding assistance)
-- emergency judgment and response
+- 人际关怀与同理心
+- 身体护理（移动、洗澡、喂食协助）
+- 紧急判断与应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ability to use AI care platforms
-- basic data recording and analysis
-- communication and psychological support
+- 使用AI护理平台的能力
+- 基础数据记录和分析
+- 沟通与心理支持
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aging population
-- increasing demand for care
-- expansion of home-based welfare
-- government support policies
+- 人口老龄化
+- 护理需求增长
+- 家庭福利扩展
+- 政府支持政策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Used for some caregiver personnel, but limited. Primarily viable for employment as nursing assistants |
-| Subclass F-2 (F-2 (Residence)) | Permanent residents or long-term visa holders can work as care workers |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can also work as care workers after obtaining certification |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dedicated to caring for others and have patience
-- People who are okay with high physical activity and can handle emotional labor
-- People who value the reward of work over a certain income
+- 致力于关爱他人且有耐心的人
+- 能适应高强度体力活动并能处理情感劳动的人
+- 重视工作回报而非固定收入的人
 
 **谁不适合**
-- People who want high salary and fast promotion
-- People who are weak to physical and mental stress
+- 希望高薪和快速晋升的人
+- 身心压力承受能力较弱的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a care worker?**
-答：Entry-level is about 24 to 28 million KRW, and can rise to 38 million KRW with experience and additional qualifications.
+**问：护理员的平均工资是多少？**
+答：入门级约2400-2800万韩元，随着经验和附加资质可升至3800万韩元。
 
-**问：Can I get a work visa in Korea as a care worker?**
-答：Yes. It's possible with an E-9 (Non-professional Employment) visa to some extent, and overseas Koreans (F-4) or residents (F-2) visa holders can also work.
+**问：作为护理人员，我能获得韩国工作签证吗？**
+答：是的。以E-9（非专业就业）签证在一定程度上可行，海外韩国人（F-4）或居民（F-2）签证持有者也可以工作。
 
-**问：How do I get a care worker certification?**
-答：You need to complete 240 hours of theory and practice at a training institution (vocational training center) and pass the national exam. Tuition may be covered by government support.
+**问：如何获得护理员认证？**
+答：您需要在培训机构（职业培训中心）完成240小时的理论和实践，并通过国家考试。学费可能由政府的支持承担。
 
 
 ---
@@ -140,12 +133,12 @@ Entry-level caregiver → With experience, can advance to facility manager, inst
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/caregiver/KR)**

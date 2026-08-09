@@ -52,8 +52,6 @@ Secondary school teachers plan, organize, and teach one or more subjects accordi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Secondary school teaching positions show mixed impact: administrative and assessment tasks are significantly reduced by AI, but teaching core (classroom interaction, personalized tutoring) is enhanced by AI; entry-level competition slightly increases, while experienced teachers retain strong advantages.
-
 Junior teachers can advance to subject head, grade head, or deputy principal, or move into education policy, teacher training, or school management. With accumulated teaching experience, they can become senior leaders or education consultants.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior teachers can advance to subject head, grade head, or deputy principal, or
 | Subclass Graduate (Graduate visa) | International students who have completed a degree in the UK can apply, with 2 years (bachelor/master) or 3 years (PhD) of work rights, and can switch to a skilled worker visa. |
 | Subclass Youth Mobility (Youth Mobility Scheme) | Applies to citizens of specific countries aged 18-30; allows work in the UK for 2 years but cannot lead to permanent residency. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from classroom teacher to subject head, grade coordinator, deputy
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-education-teaching-professionals/UK)**

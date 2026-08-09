@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing production processes, optimiz
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Junior engineers can be promoted to production manager, plant manager, or shift to supply chain management, industrial performance optimization, and other directions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior engineers can be promoted to production manager, plant manager, or shift 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for highly skilled talent, with an annual salary at least 1.5 times the French average (about 53,000 euros), valid for 1-4 years, and eligible for permanent residency. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to master's degree or above, holding a work contract (annual salary not less than 36,000 euros), valid for 4 years, allowing family members. |
-| Subclass Salarié (Employee) | Standard work residence requires employer sponsorship, annual salary not lower than the French minimum wage (about 20,000 euros), valid for one year, and can be renewed. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually, they start as production engineers and can be promoted to production
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-management-and-engineering/FR)**

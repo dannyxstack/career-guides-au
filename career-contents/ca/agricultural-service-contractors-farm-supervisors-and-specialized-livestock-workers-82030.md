@@ -54,8 +54,6 @@ Grape growers are responsible for planting, pruning, irrigating, and harvesting 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance planning and monitoring tasks, but fine field operations such as pruning and harvesting still require humans; overall the role is a mixed bag, with entry barriers slightly raised due to automation tools.
-
 Can progress from grape grower to farm supervisor, winery manager, or self-employed agricultural contractor. After gaining experience, can move into vineyard management or wine tourism roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from grape grower to farm supervisor, winery manager, or self-emplo
 | Subclass TFWP (Temporary Foreign Worker Program) | First obtain a work permit, then gain experience and transition to permanent residence |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot for agriculture, requires employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Demand is stable but not in shortage, with noticeable seasonality. Major prod
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-service-contractors-farm-supervisors-and-specialized-livestock-workers-82030/CA)**

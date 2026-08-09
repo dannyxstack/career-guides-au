@@ -52,8 +52,6 @@ Senior managers responsible for planning, organizing, directing, and controlling
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This profession carries both risks and opportunities: routine scheduling, document review, and other tasks are easily automated by AI, but strategic decision-making, multi-party coordination, and emergency management are hard to replace. AI can enhance data analysis and forecasting capabilities.
-
 Usually, they are promoted from logistics manager or operations manager, and after gaining industry experience, can be promoted to CEO or senior executive of the group. You can also turn to consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Usually, they are promoted from logistics manager or operations manager, and aft
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, the annual salary must meet the threshold (approximately €34,000). |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or senior executives, simplify residency procedures |
-| Subclass Cuenta ajena (Work Permit (employed)) | Employer sponsorship required, suitable for existing job offers |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Eligible for EU Blue Card (approx. annual salary threshold €34,000) or High
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supply-transport-distribution-and-related-company-directors/ES)**

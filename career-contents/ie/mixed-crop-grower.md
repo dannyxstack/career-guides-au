@@ -54,8 +54,6 @@ Mixed crop farmers are responsible for managing the planting, care, and harvesti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mixed crop growers face mixed impacts from AI automation: repetitive field tasks are easily replaced, but decision-making and planning work is enhanced. Overall job numbers may slowly decline, with significantly higher skill requirements.
-
 Junior growers can advance to farm supervisor or farm manager, or specialize in organic farming, precision agriculture, etc. Some pursue further study to become agricultural consultants or extension officers. Starting a family farm is also a common path.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior growers can advance to farm supervisor or farm manager, or specialize in 
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | For intra-company transfers within the Irish branch of multinational companies, requires at least 1 year of work experience with the company. |
 | Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizens) | EU citizens do not need a work permit and can work freely in Ireland |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically no formal degree required, but Teagasc agricultural courses or rela
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-grower/IE)**

@@ -4,8 +4,6 @@
 
 A profession that formulates management policies and oversees departments in companies and organizations. Includes directors, executive officers, and division heads responsible for overall organizational performance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that formulates management policies and oversees departments in com
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI supports managerial decision-making with data, but tasks requiring human judgment, such as strategy formulation and interpersonal negotiations, remain. Productivity improvement through AI utilization is expected.
-
 Typically, after joining as a general employee, one gains field experience, takes on subordinates, and is promoted to section chief or department head. An MBA or advanced professional qualifications aid career advancement.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Typically, after joining as a general employee, one gains field experience, take
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | This visa is usually required for managerial work. A university degree or equivalent practical experience is necessary. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Favored under a points system; eligible for permanent residency after 5 years. High points for managerial experience and salary assessment. |
-| Subclass 経営・管理 (Business Manager Visa) | Applies when running your own company. Requires at least 5 million yen in capital, among other conditions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: Typically, 10-20 years of practical experience and experience managing subord
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/corporate-manager/JP)**

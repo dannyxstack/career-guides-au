@@ -51,8 +51,6 @@ Responsible for strategic planning, operational management, and financial contro
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will profoundly reshape the roles of advertising account managers and creative directors, blending task automation with capability enhancement. Data analysis and report generation are being replaced, but strategic insight and creative leadership are rising in value; humans need to leverage AI tools to stay competitive.
-
 Practitioners can progress from department manager to publishing director or media company general manager. Pursuing an MBA or Master's in Digital Media Management can enhance competitiveness; some transition to media consultants or entrepreneurs.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Practitioners can progress from department manager to publishing director or med
 | Subclass Skilled Worker (Skilled Immigration Act) | Must obtain German-recognized qualifications or professional credentials |
 | Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek work, economic proof required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Starting from department manager, can progress to publishing director or gene
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-publishing-and-media-economics/DE)**

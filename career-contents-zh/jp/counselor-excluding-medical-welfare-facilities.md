@@ -1,10 +1,8 @@
-# Counselor (excluding medical/welfare facilities) 职业分析 · 日本
+# 咨询师（不包括医疗/福利机构）（Counselor (excluding medical/welfare facilities)）职业分析 · 日本
 
-**职业代码: 243 (JSCO)**
+**职业代码：243 (JSCO)**
 
-A professional who uses specialized counseling techniques to support individuals and groups with psychological and social issues. Active in educational institutions, companies, and private counseling organizations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用专业咨询技术支持有心理和社会问题的个人和群体的专业人士。活跃于教育机构、公司和私人咨询组织。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who uses specialized counseling techniques to support individuals
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Department of Psychology) | 4年 | $4,000,000~$6,000,000（Large gap between national and private universities） |
-| Graduate School (Master's Program) | 2 年 | $2,000,000~$5,000,000（Clinical psychologist designated graduate schools, etc.） |
+| 大学（心理学系） | 4年 | $4,000,000~$6,000,000（国立大学与私立大学差距大） |
+| 研究生院（硕士课程） | 2 年 | $2,000,000~$5,000,000（临床心理学家指定研究生院等） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who uses specialized counseling techniques to support individuals
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Public Psychologist | Ministry of Health, Labour and Welfare | 可选 | National qualification. Scheduled to become mandatory from 2028 |
-| 临床心理学家 | Foundation of the Japanese Certification Board for Clinical Psychologists | 可选 | Private qualification but widely recognized |
-| Industrial Counselor | Japan Industrial Counselor Association | 可选 | Useful for corporate settings |
+| 认证公共心理学家 | 厚生劳动省 | 可选 | 国家资格。计划从2028年起强制要求。 |
+| 临床心理学家 | 日本临床心理师认证委员会基础 | 可选 | 私人资格但广泛认可 |
+| 工业顾问 | 日本产业咨询协会 | 可选 | 适用于企业环境 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 42,000. Demand is steady due to growing mental health awareness, but competition is somewhat fierce as qualifications are not mandatory. Private institutions tend to value practical experience.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 42,000。由于心理健康意识提高，需求稳定，但竞争有些激烈，因为资格不是强制性的。私立机构更看重实践经验。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A professional who uses specialized counseling techniques to support individuals
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,000,000~$4,000,000 | Counseling organizations, educational settings, etc. |
-| 中级(3-7年) | $4,000,000~$5,500,000 | After obtaining certified public psychologist, etc. |
-| 高级（7年以上） | $5,500,000~$8,000,000 | Increases with independent practice or managerial positions |
+| 初级 (0-3年) | $3,000,000~$4,000,000 | 咨询机构、教育机构等 |
+| 中级(3-7年) | $4,000,000~$5,500,000 | 获得认证公共心理学家等之后。 |
+| 高级（7年以上） | $5,500,000~$8,000,000 | 独立执业或管理职位后薪资增长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is expected not to completely replace counselors but rather complement and enhance their work. While emotional understanding and empathy in interpersonal support remain human strengths, AI can assist with data analysis and scheduling.
+人工智能预计不会完全取代咨询师，而是会补充和增强他们的工作。虽然人际支持中的情感理解和同理心仍是人类优势，但人工智能可以协助数据分析和日程安排。
 
-After obtaining certifications such as clinical psychologist or certified public psychologist, gain experience under supervision. Career paths include independent practice or corporate counselor.
+取得临床心理学家或认证公共心理学家等资格后，在督导下积累经验。职业路径包括独立执业或企业顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Initial screening
-- Survey analysis
-- Simple information provision
+- 初步筛选
+- 调查分析
+- 简单信息提供
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Emotion analysis assistance
-- Treatment progress visualization
-- Data provision for supervision
+- 情感分析辅助
+- 治疗进度可视化
+- 监管数据提供
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy and rapport building
-- Non-verbal communication
-- Ethical judgment
+- 同理心与建立融洽关系
+- 非语言沟通
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Interpersonal communication
-- Multicultural counseling
-- Psychological assessment
-- AI tool utilization
+- 人际沟通
+- 多元文化咨询
+- 心理评估
+- 人工智能工具运用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mental health
-- EAP (Employee Assistance Program)
-- School counseling
-- Online counseling
+- 心理健康
+- 员工援助计划（EAP）
+- 学校咨询
+- 在线咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires a psychology degree and work experience. May qualify as counseling work. |
-| Subclass 特定活動 (Designated Activities (Foreign Counselor)) | For some international organizations and specialized institutions. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong listening and empathy skills
-- People who can continuously learn psychological knowledge
-- People who can accept diverse values
+- 善于倾听和富有同理心的人
+- 能持续学习心理学知识的人
+- 能接受多元价值观的人
 
 **谁不适合**
-- People who tend to impose their own views
-- People vulnerable to emotional burden
+- 倾向于强加自己观点的人
+- 容易受情绪负担影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a counselor's annual income?**
-答：Entry-level is 3-4 million yen, mid-level 4-5.5 million yen, senior 5.5-8 million yen. Independent practice can earn more, but income tends to be unstable.
+**问：辅导员的年收入是多少？**
+答：入门级300-400万日元，中级400-550万日元，高级550-800万日元。独立执业收入更高，但收入往往不稳定。
 
-**问：How can foreigners work as counselors in Japan?**
-答：An Engineer/Specialist in Humanities/International Services visa is required. A psychology degree and relevant work experience are needed, and Japanese proficiency (around N1) is important. Also, obtaining a Certified Psychologist license is advantageous.
+**问：外国人如何在日本担任顾问？**
+答：需要人文/国际服务领域的工程师/专家签证。需要心理学学位和相关工作经验，日语能力（约N1）很重要。此外，获得认证心理学家执照有优势。
 
-**问：What qualifications are required to become a counselor?**
-答：Currently, no national license is required, but after 2028, a Certified Public Psychologist license will become effectively mandatory. Private certifications like Clinical Psychologist are also useful.
+**问：成为心理咨询师需要什么资格？**
+答：目前无需国家级执照，但2028年后，认证公共心理学家执照将实际上成为强制要求。临床心理学家等私人认证也有用。
 
 
 ---
@@ -145,12 +136,12 @@ After obtaining certifications such as clinical psychologist or certified public
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/counselor-excluding-medical-welfare-facilities/JP)**

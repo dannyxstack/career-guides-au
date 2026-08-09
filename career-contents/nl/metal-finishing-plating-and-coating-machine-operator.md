@@ -4,8 +4,6 @@
 
 Operate and maintain metal surface treatment equipment, such as electroplating, spraying, and coating machines, ensuring metal parts meet quality and specification requirements.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate and maintain metal surface treatment equipment, such as electroplating, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Metal finishing, electroplating and coating machine operators face a mixed outlook: AI and automation will take over routine machine monitoring and parameter adjustment tasks, but complex process optimization, fault handling and quality inspection still require human experience, and the role will shift towards technical support and process optimization.
-
 Can advance from operator to senior technician or production supervisor, or transition to quality inspection or process engineering through training.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can advance from operator to senior technician or production supervisor, or tran
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, with annual salary meeting a threshold (approximately €5,000/month in 2025); this occupation usually does not meet it. |
-| Subclass EU Blue Card (EU Blue Card) | This occupation generally does not meet high-salary positions (approx. €5,600/month in 2025). |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates who completed their studies in the Netherlands; can seek employment within one year without salary threshold restrictions. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Affected by automation and sustainable technologies, low-skilled positions ar
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-finishing-plating-and-coating-machine-operator/NL)**

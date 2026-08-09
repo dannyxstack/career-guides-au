@@ -56,8 +56,6 @@ Baristas are central to New Zealand's coffee culture, responsible for making hig
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
-
 Progress from barista to senior barista or supervisor, then to café manager, gaining operational and management experience. Some choose to start their own independent café or move into hospitality management, food and beverage training, etc.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Progress from barista to senior barista or supervisor, then to café manager, ga
 | Subclass AEWV (Accredited Employer Work Visa) | — |
 | Subclass SMC (Skilled Migrant Category) | — |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Can progress from junior barista to senior barista, supervisor, then café ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cafe-worker/NZ)**

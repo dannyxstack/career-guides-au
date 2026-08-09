@@ -54,8 +54,6 @@ Operate rotary drilling rigs for oil and gas extraction or core sampling, respon
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
-
 Advance from roughneck to drill operator, then to drilling supervisor or field manager. Requires experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Advance from roughneck to drill operator, then to drilling supervisor or field m
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Requires years of experience, a commercial driver's license, drilling safety 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rotary-drill-operators-oil-and-gas/US)**

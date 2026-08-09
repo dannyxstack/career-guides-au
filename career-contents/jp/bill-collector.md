@@ -4,8 +4,6 @@
 
 A job that involves visiting customers' homes or businesses to collect payments for utilities such as gas, electricity, and water, as well as various other charges. Also responsible for issuing invoices and managing collected funds.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A job that involves visiting customers' homes or businesses to collect payments 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Growth of AI and cashless payments is expected to significantly reduce bill collector jobs. Automated billing and direct debits will decrease door-to-door collection demand.
-
 With experience, one can advance to managing collection routes or overseeing collection operations. Some companies offer career paths to sales or accounting positions.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ With experience, one can advance to managing collection routes or overseeing col
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Bill collection does not require specialized technical or academic knowledge, making it difficult to qualify for this visa. However, if combined with accounting duties, it may be possible. |
-| Subclass 特定活動 (Designated Activities (e.g., Working Holiday)) | Limited employment is possible, but collection duties are often restricted. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: very low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: With experience, you can move into route management, accounting, or sales. Ac
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bill-collector/JP)**

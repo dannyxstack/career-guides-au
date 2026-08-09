@@ -54,8 +54,6 @@ In Canada, motorcycle mechanics repair, maintain, and modify motorcycles and sim
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Motorcycle mechanics face moderate automation risk: diagnosis and documentation can be simplified by AI, but core skills like physical repairs and custom modifications are hard to replace. Entry-level positions may narrow slightly due to AI-assisted learning tools, but demand for experienced mechanics remains stable.
-
 A career can start with an apprenticeship; after obtaining a Red Seal certification, one can advance to technician or supervisor. Experienced individuals can open their own repair shop or move into fields like heavy equipment repair.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ A career can start with an apprenticeship; after obtaining a Red Seal certificat
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, employer-sponsored skilled worker |
 | Subclass RNIP (Rural and Northern Immigration Pilot) | Regional migration pilot, suitable for trade occupations |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Red Seal certification is not mandatory but recommended; some provinces requi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-and-other-small-engine-mechanics/CA)**

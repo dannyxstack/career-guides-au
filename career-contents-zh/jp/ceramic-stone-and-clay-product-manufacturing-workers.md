@@ -1,8 +1,8 @@
-# Ceramic, stone and clay product manufacturing workers 职业分析 · 日本
+# 陶瓷、石材和粘土产品制造工人（Ceramic, stone and clay product manufacturing workers）职业分析 · 日本
 
-**职业代码: 532 (JSCO)**
+**职业代码：532 (JSCO)**
 
-This occupation involves manufacturing ceramic, stone and clay products such as pottery, glass, cement, and bricks. Tasks include molding, firing, and finishing.
+该职业涉及制造陶瓷、石材和粘土产品，如陶器、玻璃、水泥和砖块。任务包括成型、烧制和精加工。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves manufacturing ceramic, stone and clay products such as 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 中学 | 3年 | $0~$300,000（Public high school tuition is effectively free） |
-| Specialized training college (Ceramics/ Ceramic department) | 2 年 | $1,000,000~$2,000,000（Average tuition for private specialized training colleges） |
+| 中学 | 3年 | $0~$300,000（公立高中学费实质上免费） |
+| 专科培训学校（陶瓷/陶瓷系） | 2 年 | $1,000,000~$2,000,000（私立专业培训学院的平均学费） |
 
 ---
 
@@ -20,17 +20,17 @@ This occupation involves manufacturing ceramic, stone and clay products such as 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Ceramic Engineer | The Ceramic Society of Japan | 可选 | Certifies knowledge of ceramic product manufacturing technology |
-| Glass Manufacturing Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Passing the skill test for glass manufacturing |
+| 持证陶瓷工程师 | 日本陶瓷学会 | 可选 | 认证陶瓷产品制造技术知识 |
+| 玻璃制造熟练工 | 厚生劳动省 | 可选 | 通过玻璃制造技能测试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Employment is flat due to construction demand fluctuations and competition from foreign products. Some demand exists for energy-saving and eco-friendly products, but overall trend is declining.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。就业平稳，因施工需求波动和外国产品竞争。节能环保产品有一定需求，但总体趋势下降。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,131 +38,124 @@ This occupation involves manufacturing ceramic, stone and clay products such as 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,800,000~$3,500,000 | Entry-level salary including inexperienced workers |
-| Intermediate (4–10 years) | $3,500,000~$4,500,000 | General skill worker salary level |
-| Advanced (10 years or more) | $4,500,000~$6,000,000 | Skilled workers and management class |
+| Beginner (0–3 years) | $2,800,000~$3,500,000 | 包括无经验人员在内的起薪 |
+| 中级（4-10年） | $3,500,000~$4,500,000 | 普通技能工人薪资水平 |
+| 高级（10年及以上） | $4,500,000~$6,000,000 | 技能工人与管理人员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of automation and AI, simple molding and inspection processes are being replaced. However, quality control based on the experience of skilled workers and new product development remain human roles.
+随着自动化和AI的引入，简单的成型和检查流程正在被取代。然而，基于熟练工人经验的质量控制和新产品开发仍然是人类角色。
 
-With the aging of skilled workers, securing young talent is a challenge. Career advancement is possible from craftsman to line manager, or by acquiring environmental technology skills.
+随着熟练工人老龄化，吸引年轻人才成为挑战。职业发展可从工匠晋升为生产线经理，或通过掌握环境技术技能实现。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of Molding Process
-- AI Image Recognition for Quality Inspection
-- AI optimization of firing temperature control
+- 成型过程自动化
+- AI图像识别用于质量检测
+- AI优化烧成温度控制
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI Quality Prediction Analysis
-- Collaborative Work with Robots
-- Production Planning Optimization Support
+- 人工智能质量预测分析
+- 与机器人协作
+- 生产计划优化支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Job
-- People
-- of
-- Survey/Research
-- and
-- Admin/Management
-- Experience
-- to
-- Base
+- 工作
+- 人员
+- /
+- 调查/研究
+- 和
+- 行政/管理
+- 经验
+- 至
+- 基础
 - zu
 - ku
-- Minute
-- Search
-- Administration
-- Skills
-- Technique
+- 分钟
+- 搜索
+- 行政管理
+- 技能
+- 技术
 - , 
-- New
-- Basic
-- Material
-- of
-- Open
-- Departure
-- Skill
-- Strength
+- 新
+- 基本
+- 材料
+- /
+- 开放
+- 出发
+- 技能
+- 力量
 - ,
-- Customer
-- Customer
-- No
-- Summary
-- Hope
-- in
-- Manufacturing
-- Item
-- to
-- Anti-
-- Screen
-- Do
-- ing
+- 客户
+- 客户
+- 否
+- 摘要
+- 希望
+- 中
+- 制造业
+- 项目
+- 至
+- 反
+- 屏幕
+- 做
+- 进行中
 - Crea
 - tiv
 - ity
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Skills for operating and maintaining automated equipment
-- Data analysis and AI utilization skills
-- Manufacturing technology compliant with environmental regulations
+- 操作和维护自动化设备的技能
+- 数据分析和AI利用技能
+- 符合环保法规的制造技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 省エネ窯業製品
-- Environmentally Friendly Cement
-- Recycled materials
-- High-performance glass
+- 节能窑业制品
+- 环保水泥
+- 回收材料
+- 高性能玻璃
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Ceramic, stone and clay product manufacturing is included in Manufacturing 3 fields, eligible for Specified Skilled Worker (i) |
-| Subclass 技能 (Engineer/Specialist in Humanities/International Services) | Visa for skilled workers. Requires over 10 years of practical experience. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For engineers and managers. Requires university degree or higher and experience. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and focused individuals
-- Individuals with manual dexterity and skilled in detailed work
-- Individuals interested in manufacturing
+- 注重细节且专注的人
+- 手巧且擅长精细工作的人
+- 对制造业感兴趣的个人
 
 **谁不适合**
-- Individuals who dislike repetitive tasks
-- Individuals lacking physical strength
+- 不喜欢重复性工作的人
+- 体力不足者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of ceramics and stone product manufacturing workers?**
-答：The average annual income is around 4 million yen, varying by experience and region.
+**问：陶瓷和石材制品制造工人的平均年收入是多少？**
+答：平均年收入约400万日元，因经验和地区而异。
 
-**问：How can foreigners work in this occupation?**
-答：Specified Skilled Worker (i) (Manufacturing 3 fields) is available. Requires JLPT N4 or higher and passing the skills test (manufacturing field).
+**问：外国人如何从事这一职业？**
+答：特定技能工人(i)（制造业3个领域）可用。要求JLPT N4或以上并通过技能测试（制造业领域）。
 
-**问：How to advance your career?**
-答：By obtaining qualifications through skills certification or acquiring eco-friendly product manufacturing techniques, you can open a path to management or specialized technical roles.
+**问：如何晋升你的职业？**
+答：通过技能认证或获取环保产品制造技术获得资格后，可以开辟管理或专业技术岗位的路径。
 
 
 ---
@@ -180,12 +173,12 @@ With the aging of skilled workers, securing young talent is a challenge. Career 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ceramic-stone-and-clay-product-manufacturing-workers/JP)**

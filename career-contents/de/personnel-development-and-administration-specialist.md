@@ -53,8 +53,6 @@ Responsible for employee training and development, personnel records management,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate routine tasks in HR administration (e.g., payroll, data entry), but tasks requiring interpersonal insight like employee development and strategic planning still rely on humans. Entry-level roles face compression risk if skills are not proactively upgraded.
-
 Can advance from personnel specialist to HR manager or HR business partner, also deepen into specialized areas like training and development, compensation and benefits, or transition to HR consulting.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from personnel specialist to HR manager or HR business partner, also
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Common pathway is to complete a 3-year dual training program (Ausbildung), or
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-development-and-administration-specialist/DE)**

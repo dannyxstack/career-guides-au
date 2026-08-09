@@ -1,10 +1,8 @@
 # 工业管道安装工（Industrial Pipefitter）职业分析 · 韩国
 
-**职业代码: 70321 (KECO)**
+**职业代码：70321 (KECO)**
 
-A skilled technical professional who installs, maintains, and repairs various piping systems in industrial facilities and factories.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在工业设施和工厂中安装、维护和修理各种管道系统的技术专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A skilled technical professional who installs, maintains, and repairs various pi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Vocational high school or Meister high school, mechanical/facility department | 3年 | $0~$5,000,000（Free tuition at national/public high schools, partial burden for private schools） |
-| Industrial Pipefitter Technician certification + vocational training | 1年 | $1,000,000~$3,000,000（Government subsidy possible, small personal contribution） |
+| 职业高中或迈斯特高中，机械/设备系 | 3年 | $0~$5,000,000（公立高中免费，私立高中部分负担） |
+| 工业管道工技师证书+职业培训 | 1年 | $1,000,000~$3,000,000（政府补贴可能，个人贡献小） |
 
 ---
 
@@ -22,18 +20,18 @@ A skilled technical professional who installs, maintains, and repairs various pi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Piping Technician | Human Resources Development Service of Korea | 必备 | Basic national technical qualification, essential for practice |
-| Piping Equipment Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for promotion and management positions |
-| Welding Technician (TIG/MIG) | Human Resources Development Service of Korea | 可选 | Directly used for pipe welding, high wages |
+| 管道技术员 | 韩国人力资源开发服务局 | 必备 | 基本国家技术资格，执业必备 |
+| 管道设备工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升和管理职位 |
+| 焊接技术员（TIG/MIG） | 韩国人力资源开发服务局 | 可选 | 直接用于管道焊接，高薪 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Employment is stable due to the renovation of aging industrial complexes and new plant demand, and recruitment is steady due to a shortage of skilled workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于老旧工业区改造和新建工厂需求，就业稳定，且因熟练工人短缺，招聘稳定。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,94 +39,86 @@ A skilled technical professional who installs, maintains, and repairs various pi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $25,000,000~$35,000,000 | Daily wage of 150,000-200,000 KRW for daily construction work, contract worker annual salary basis |
-| Intermediate (4-10 years) | $38,000,000~$55,000,000 | Increases with certification holder status and field experience |
-| Advanced (10 years+) | $55,000,000~$80,000,000 | Includes management/supervisory functions and plant project allowances |
+| 初级（0-3年） | $25,000,000~$35,000,000 | 日薪15万-20万韩元（建筑日工），合同工年薪制 |
+| 中级（4-10年） | $38,000,000~$55,000,000 | 随持证状态和领域经验而增加 |
+| 高级（10年以上） | $55,000,000~$80,000,000 | 包括管理/监督职能和工厂项目津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI and automation technology are unlikely to fully replace plumber jobs, simple repetitive tasks are being reduced through design automation and the introduction of BIM (Building Information Modeling).
+虽然AI和自动化技术不太可能完全取代管道工工作，但通过设计自动化和BIM（建筑信息模型）的引入，简单的重复性任务正在减少。
 
-With 5-10 years of field experience, promotion to piping supervisor or site manager is possible, and obtaining welding/machinery certifications enables growth as a technical expert.
+拥有5-10年现场经验后，可晋升至管道主管或现场经理，获得焊接/机械认证可发展为技术专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drawing reading and manual drafting
-- General pipe cutting and cutting (replaced by automatic cutters)
-- Simple pipe connection work (replaced by modular methods)
+- 简单图纸阅读与手工制图
+- 一般管道切割（已由自动切割机取代）
+- 简单管道连接工作（已被模块化方法取代）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex piping system design review (AI suggests optimal routes)
-- Safety checks and anomaly detection (sensors + AI analysis for early warnings)
-- Project schedule and material management (using AI prediction tools)
+- 复杂管道系统设计审查（AI建议最优路径）
+- 安全检查与异常检测（传感器+AI分析进行早期预警）
+- 项目进度和材料管理（使用AI预测工具）
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible pipe installation and repair according to site conditions
-- High-difficulty welding and non-standard pipe work
-- Diagnosis and customized renovation of aged pipes in existing buildings
+- 根据现场条件进行柔性管道安装与维修
+- 高难度焊接和非标管道作业
+- 现有建筑老化管道的诊断和定制翻新
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM (Revit, etc.) piping modeling
-- Welding automation equipment operation
-- Safety management and industrial safety and health certification
-- Smart piping diagnostic technology
+- BIM（Revit等）管道建模
+- 焊接自动化设备操作
+- 安全管理与工业安全卫生认证
+- 智能管道诊断技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Plant
-- Semiconductor/battery factory
-- Aged-pipe replacement
-- Smart piping
+- 工厂
+- 半导体/电池工厂
+- 老管道更换
+- 智能管道安装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Can be employed as a pipefitter in manufacturing/construction, but with restrictions on workplace changes |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled pipefitters can work as professionals, employer recommendation required |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage, with freedom to stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and comfortable with outdoor/height work
-- People with excellent manual skills and problem-solving abilities
-- People who can accept long-term on-site work and travel
+- 身体健康、适应户外/高空工作的人
+- 手工技能和解决问题能力出色的人
+- 能接受长期现场出差及外出工作的人员
 
 **谁不适合**
-- People who prefer office work over precise manual tasks
-- People who are passive about safety regulations
+- 偏好办公室工作而非精密手工任务的人
+- 对安全规定漠不关心的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for an industrial pipefitter?**
-答：Entry-level: approximately 25–35 million KRW pre-tax; with over 10 years of experience, up to 55–80 million KRW.
+**问：工业管道工的年度工资是多少？**
+答：入门级：税前约2500-3500万韩元；有10年以上经验，可达5500-8000万韩元。
 
-**问：Can foreigners work as industrial pipefitters in Korea?**
-答：Yes, you can work on either an E-9 visa (Non-professional Employment) or an E-7 visa (Specific Activities), and depending on skill level, permanent residency may also be considered.
+**问：外国人可以在韩国担任工业管道工吗？**
+答：可以持E-9签证（非专业就业）或E-7签证（特定活动）工作，根据技能水平，也可能考虑永久居留。
 
-**问：What are the promotion paths?**
-答：After obtaining a skilled worker certificate and accumulating 5 to 10 years of field experience, you can be promoted to foreman or site manager, or become a high-wage technician by acquiring additional welding certifications.
+**问：晋升路径有哪些？**
+答：获得熟练工人证书并积累5至10年现场经验后，可晋升为工头或现场经理，或通过获得额外焊接认证成为高薪技术员。
 
 
 ---
@@ -146,12 +136,12 @@ With 5-10 years of field experience, promotion to piping supervisor or site mana
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-pipefitter/KR)**

@@ -52,8 +52,6 @@ In Canada, project managers typically correspond to NOC 10030 (Telecommunication
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of telecommunications operations manager is a mixed bag: AI can automate network monitoring and reporting, but strategic decisions and customer relationships still require human judgment. Entry-level positions are narrowing due to AI tools lowering the barrier, but demand for senior roles is increasing.
-
 Junior project managers can advance to senior project manager or department director through experience. Obtaining project management certification (e.g., PMP) can accelerate career progression. Moving into cloud services or 5G can boost salary and opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior project managers can advance to senior project manager or department dire
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario and BC have categories specifically for management occupations |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for applicants with employer sponsorship in maritime provinces |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as an assistant project manager, then advance to project manager, senio
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunication-carriers-managers/CA)**

@@ -4,8 +4,6 @@
 
 Technical surveying engineers are responsible for land surveying, mapping, and the collection and analysis of geographic data, providing foundational mapping support for civil engineering, architecture, and urban planning.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Technical surveying engineers are responsible for land surveying, mapping, and t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 From entry-level surveyors to senior technical survey engineers, you can be promoted to project manager or head of the surveying department. Obtaining official qualifications can be expanded into real estate valuation or Geographic Information Systems (GIS) fields.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ From entry-level surveyors to senior technical survey engineers, you can be prom
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled in the local market |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, annual salary generally not less than EUR 40,000, faster process |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires at least three years of higher education and above-average salaries, allowing for mobility within the EU |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: The outlook is stable and positive, benefiting from infrastructure investment
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-surveying-engineer/ES)**

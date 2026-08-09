@@ -53,8 +53,6 @@ Typists and related keyboard operators type, write letters, memos, reports, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI-driven speech-to-text, automatic document generation and intelligent proofreading systems will significantly reduce demand for pure keyboard typing, greatly compressing typist positions.
-
 Progression to senior typist, document supervisor, or administrative assistant is possible through experience; it can also lead to more specialised transcription areas or office management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Progression to senior typist, document supervisor, or administrative assistant i
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation typically does not meet Skilled Worker visa requirements unle
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/typists-and-related-keyboard-occupations/UK)**

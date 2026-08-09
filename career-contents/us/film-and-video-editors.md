@@ -51,8 +51,6 @@ Film and video editors edit moving images on film, video, or other media; collab
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is rapidly penetrating film and video editing, automating repetitive tasks like cutting and color correction, but also enhancing creative tools, pushing editors towards higher-level narrative and decision-making skills.
-
 Junior editors can advance to senior editor, editor-in-chief, or post-production supervisor; may also move into directing, producing, or visual effects, requiring continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior editors can advance to senior editor, editor-in-chief, or post-production
 | Subclass EB-2 (EB-2 Advanced Degree) | Requires master's or bachelor's plus 5 years experience, through PERM labor certification |
 | Subclass EB-3 (EB-3 Skilled Workers) | Applicable to editors with 2 years of training or experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: AI tools may assist editing, but creative decisions and narrative structure s
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-and-video-editors/US)**

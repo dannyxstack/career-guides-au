@@ -52,8 +52,6 @@ Manager who establishes IT/telecommunications strategies for companies and organ
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances data analysis, security monitoring, and resource optimization in an ICT manager's work, but strategic decision-making and organizational management remain uniquely human roles.
-
 Typically starts at the team leader level in IT departments and advances to CIO/CTO, or moves into consulting or entrepreneurship. An MBA or master's in technology management is advantageous, and certifications like PMP or CISSP help with promotions.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Typically starts at the team leader level in IT departments and advances to CIO/
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For ICT specialists; employment contract required |
-| Subclass F-2 (F-2 (Residence)) | Points-based permanent residence; eligible after maintaining E-7 |
-| Subclass D-10 (D-10 (Job Seeking)) | For ICT graduates (bachelor's or higher); 6-month stay |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: Usually starting as an IT engineer or system administrator, then team leader,
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-manager/KR)**

@@ -52,8 +52,6 @@ Interior designers and decorators plan, design, and arrange indoor spaces to cre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Junior designers can advance to senior designer or design manager, some specialise in areas (e.g. green design, hospitality design) or start their own business. Experienced ones may become design directors or open personal studios.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior designers can advance to senior designer or design manager, some speciali
 | Subclass General Employment P (General Employment Permit) | Employer sponsorship required, annual salary must exceed €30,000, applicable to non-occupations in demand. |
 | Subclass EU Blue Card (EU Blue Card) | Annual salary must be around €42,000, applicable to high-skilled positions; requires relevant degree and job contract. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree or advanced diploma in interior design
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer-and-decorator/IE)**

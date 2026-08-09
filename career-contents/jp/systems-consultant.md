@@ -50,8 +50,6 @@ An IT specialist who supports corporate information system strategy planning, im
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI strongly supports tasks like data analysis and simulation rather than replacing the work of systems consultants. Strategic planning and client negotiations requiring human judgment remain.
-
 With project experience in the IT industry, career advancement to IT strategist or project manager is possible. Independent practice is also an option.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ With project experience in the IT industry, career advancement to IT strategist 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Classified as IT consulting work. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable, as the role requires advanced expertise. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Point-based system; advantages based on income and education. Favorable for permanent residency. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Direct transition without experience is difficult as IT industry experience o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/systems-consultant/JP)**

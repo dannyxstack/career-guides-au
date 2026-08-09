@@ -52,8 +52,6 @@ Special education teachers support students with additional learning needs in th
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Junior teachers can be promoted to senior teachers or department heads through experience, or move into specialized roles such as education consultant or assessment specialist, or enter university for teaching and research.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior teachers can be promoted to senior teachers or department heads through e
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must pass New Zealand Teaching Council assessment and complete a short traini
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teacher/NZ)**

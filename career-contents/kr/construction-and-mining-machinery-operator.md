@@ -4,8 +4,6 @@
 
 An occupation involving the operation of heavy construction equipment such as excavators, bulldozers, and cranes for earthmoving, excavation, and transport tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ An occupation involving the operation of heavy construction equipment such as ex
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation (e.g., unmanned excavators) is partially underway in construction machinery operation, but it is difficult to apply to all sites, and human operators are still needed in complex terrain. Thus, AI will likely play a supportive role rather than replace humans for the time being.
-
 Career progression from small to large equipment operation, and from simple to skilled tasks; after obtaining certification, advancement to team leader or site manager is possible.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Career progression from small to large equipment operation, and from simple to s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | May assist with simple machine operation at construction sites; subject to Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when hiring skilled construction machinery operators as professional personnel |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage, open to long-term stayers |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: After gaining experience and obtaining large equipment licenses (e.g., crane 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-mining-machinery-operator/KR)**

@@ -4,8 +4,6 @@
 
 A doctor who diagnoses and treats skin diseases and also performs cosmetic skin procedures. Due to the limited number of specialists, they receive high salaries, and the demand for cosmetic dermatology is increasing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A doctor who diagnoses and treats skin diseases and also performs cosmetic skin 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists in dermatological diagnosis (including skin cancer reading), but procedures and patient consultations still require human doctors. The introduction of AI will improve diagnostic accuracy and work efficiency, but it is expected to enhance roles rather than replace jobs.
-
 Pass the Korean Medical Licensing Examination → Complete 4 years of dermatology residency → Obtain a specialist certificate, then open a private practice or work at a university hospital/clinic. Income increases significantly upon successful practice opening, but requires initial capital and competition.
 
 **Tasks most exposed to AI:**
@@ -88,15 +84,9 @@ Pass the Korean Medical Licensing Examination → Complete 4 years of dermatolog
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible when holding a foreign medical license and working in a domestic dermatology clinic; requires Korean language proficiency and credential verification |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +130,12 @@ A: 6 years of medical school + 4 years of residency, taking at least 10 years.
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dermatologist/KR)**

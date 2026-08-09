@@ -53,8 +53,6 @@ Install insulation materials on surfaces such as pipes, boilers, and refrigerati
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of insulation workers is between high repetition and low control: AI-assisted design software and automated cutting equipment are replacing traditional manual layout and cutting, but on-site installation, bonding, sealing, and other fine operations still rely on human labor. Overall, entry-level positions may shrink due to digital tools, but senior workers gain higher added value by mastering smart tools.
-
 Can progress from junior insulator to senior technician or foreman, or transition to specialized roles such as energy auditor or insulation system designer. With experience, can become self-employed.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior insulator to senior technician or foreman, or transitio
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsored job with an approved employer; after 3 years of work, can apply for residency. |
 | Subclass SMC (Skilled Migrant Category) | Eligible for the 6-point system (e.g., qualification + New Zealand work experience) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually complete a 3-4 year apprenticeship through BCITO, obtaining a Nationa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lagger/NZ)**

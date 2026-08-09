@@ -52,8 +52,6 @@ Policy and Planning Managers develop, implement, and evaluate policies and strat
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Policy and Planning Managers face a mixed impact from AI: data analysis and report generation will be automated, but strategic decision-making, stakeholder management, and political sensitivity remain human strengths, overall risk moderate.
-
 Career development paths include advancing from policy analyst or consultant to manager, then to senior director or executive leadership. Obtaining professional qualifications (e.g., MPA) and project management certifications can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career development paths include advancing from policy analyst or consultant to 
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Policy and planning managers are not on the Green List direct residence pathway, but may be eligible for Tier 2, requiring 2 years of work before applying. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those who find an accredited employer to work first and then immigrate |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a bachelor's degree in public policy, political science, o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-and-planning-manager/NZ)**

@@ -53,8 +53,6 @@ Includes freelance writers, columnists, content creators, etc., producing articl
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Entry-level can work as freelance writers or content editors, building a portfolio to become columnists or editors; experienced can advance to content director or transition into public relations/marketing communications.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Entry-level can work as freelance writers or content editors, building a portfol
 | Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; this occupation is not on the Core Skills Occupation List (CSOL), only possible via labour agreement or specific DAMA, extremely high threshold. |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, requiring work in a designated area, and the occupation must be on the regional occupation list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can start as a freelance writer or junior journalist, build a portfolio to be
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalists-and-other-writers-nec/AU)**

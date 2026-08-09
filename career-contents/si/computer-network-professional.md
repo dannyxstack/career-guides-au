@@ -1,0 +1,127 @@
+# Computer Network Professionals — career analysis · Slovenia
+
+**Occupation code: 2523 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: high (★★★★☆).** National workforce approx. 838.
+
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★☆☆).**
+
+---
+
+## 4. Salary range
+
+(no data)
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: high (★★★★☆).**
+**AI replacement risk: medium-high (★★★★☆).**
+
+**Tasks most exposed to AI:**
+
+- Routine Ops such as Auto-scaling and Load Balancing, automated by AI scripts or cloud-native tools
+- Infrastructure as Code (IaC) template generation and conflict resolution; AI can automatically optimize templates
+- Basic log analysis, alert response, and fault report generation; AI can handle anomalies in real-time
+- Standardized cloud resource cost reports and expense forecasts; AI generates more accurate budget recommendations
+- Simple cybersecurity configuration checks and compliance scans, AI can auto-fix common vulnerabilities
+
+**Where AI augments the role:**
+
+- Cloud Architecture Design: AI provides reference architectures, cost comparisons, and best practice recommendations to accelerate decisions
+- Root cause analysis: AI correlates massive logs and metrics to intelligently locate anomaly sources
+- Performance optimization: AI analyzes usage patterns to recommend instance types, storage strategies, and network configurations
+- Security incident response: AI assists with threat identification and remediation recommendations, engineers focus on decision-making
+- Multi-cloud management: AI uniformly monitors multiple cloud platforms and provides resource efficiency optimization recommendations
+
+**Human moat:**
+
+- Complex system integration and migration planning, requiring understanding of business needs and legacy systems
+- Creative diagnosis of non-standard faults, requiring cross-domain knowledge
+- Cost governance and business negotiation, understanding contract terms and risks
+- Long-term evolution design for high-availability architecture, balancing performance, security and cost
+- Team collaboration and client communication, translating technical solutions into business value
+
+**Skills to build:**
+
+- Proficient in scripting languages like Python/Bash, able to write AI calling tools
+- Master AI/ML basics, understand model deployment (MLOps) and inference optimisation
+- In-depth professional certification in at least one cloud platform (AWS/Azure/GCP)
+- Proficiency in container orchestration (Kubernetes) and serverless architecture
+- Learning AI-assisted DevOps toolchains (e.g., GitHub Copilot, CloudFormation AI)
+- Strengthening network, security, and compliance knowledge to design zero-trust architectures
+
+---
+
+## 6. Migration pathways / PR
+
+As an EU member state, Slovenia admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
+
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
+
+---
+
+## 7. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for Computer Network Professionals in Slovenia?**
+A: The average gross monthly salary for Computer Network Professionals in Slovenia ranges from €2,500 to €4,000, depending on experience and company size. Entry-level positions start around €1,800, while senior roles can exceed €5,000. Salaries in Ljubljana tend to be higher due to concentration of tech firms.
+
+**Q: What are the official work visa or EU Blue Card routes for Computer Network Professionals to work in Slovenia?**
+A: Non-EU professionals can apply for the EU Blue Card if they have a valid employment contract, higher education degree (or 5+ years experience), and a salary at least 1.5 times the Slovenian average. Alternatively, a Single Work Permit is issued for specific job offers. Both require employer sponsorship and approval from the Employment Service of Slovenia.
+
+**Q: What career progression opportunities exist for Computer Network Professionals in Slovenia?**
+A: Professionals can advance to roles like Network Architect, IT Security Specialist, or IT Manager. Certifications such as CCNA, CCNP, or CompTIA Network+ enhance prospects. Slovenia's growing tech sector offers paths to team leadership or specialized consulting, with options to move into cloud infrastructure or cybersecurity as demand increases.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium-high (★★★☆☆) |
+| Certification difficulty | medium (★★★☆☆) |
+| Job demand | high (★★★★☆) |
+| Competition | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★☆☆) |
+| Future prospect | high (★★★★☆) |
+| AI replacement risk | medium-high (★★★★☆) |
+
+---
+
+## Data sources
+
+- The Statistical Office of the Republic of Slovenia (SURS) (ISCO-08 (SKP-08))
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-professional/SI)**

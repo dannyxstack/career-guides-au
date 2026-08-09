@@ -4,8 +4,6 @@
 
 Animal podiatrists specialize in diagnosing and treating foot diseases of animals (especially horses, dogs, and cattle), including hoof care, orthopedics, and rehabilitation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Animal podiatrists specialize in diagnosing and treating foot diseases of animal
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal podiatrist faces the risk of AI being moderately substituted: diagnostic image analysis is easily automated, but fine hand operations and personalized rehabilitation services are hard to replace, resulting in mixed outcomes.
-
 Practitioners can advance from assistant to independent practice, or specialize in horseshoe therapy and canine rehabilitation. After gaining experience, you can open a clinic or serve as a consultant for large farms.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Practitioners can advance from assistant to independent practice, or specialize 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated talent; requires employer sponsorship; annual salary threshold around €53,000 |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals who require employer sponsorship or project support |
-| Subclass Salarié (Employee Residence Permit) | For employment-based residence, employers must prove they cannot recruit EU citizens |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Typically requires CAP Animal Care or BTS Animal Health and Technology, with 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-podology-practitioner/FR)**

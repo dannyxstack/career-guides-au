@@ -52,8 +52,6 @@ Vehicle Interior Trimmer installs and repairs interiors of cars, trucks, ships, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle interior trimmers will face mixed AI impact: automated cutting/sewing equipment compresses entry-level positions, but AI-aided design, 3D scanning, and custom quoting tools amplify craft value; human aesthetics and handcraft detail remain core moats.
-
 Entry-level can work as sewing or installation assistants, accumulate experience to become technicians, then advance to senior decorators or supervisors. Can also start a business by opening an interior modification shop, or pivot to niche markets such as marine or aviation interiors.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level can work as sewing or installation assistants, accumulate experience
 | Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent residency visa, requires skills assessment and 3 years experience |
 | Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa with state nomination, can transition to 191 permanent residency |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, can advance from tradesperson to senior finisher, supervisor, or self-em
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-trimmer/AU)**

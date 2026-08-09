@@ -1,8 +1,8 @@
 # 普通水手（Deckhand）职业分析 · 韩国
 
-**职业代码: 62431 (KECO)**
+**职业代码：62431 (KECO)**
 
-This occupation involves performing various deck duties necessary for ship operations, such as mooring, anchoring, cargo securing, and navigational watch assistance on the ship's deck.
+该职业涉及在船舶甲板上执行各种必要的甲板职责，如系泊、抛锚、货物固定和航行值班协助。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves performing various deck duties necessary for ship opera
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | 3年 | $0~$0（Compulsory education, free of charge） |
-| Korea Institute of Maritime and Fisheries Technology Seafarer Training Course | 6 months | $1,000,000~$3,000,000（Partial self-payment of training costs, with possible government support） |
+| 高中毕业 | 3年 | $0~$0（义务教育，免费） |
+| 韩国海洋水产研究院海员培训课程 | 6个月 | $1,000,000~$3,000,000（培训费用部分自付，可能有政府支持） |
 
 ---
 
@@ -20,17 +20,17 @@ This occupation involves performing various deck duties necessary for ship opera
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Basic Safety Training Certificate | Korea Institute of Maritime and Fisheries Technology | 必备 | Essential basic training for becoming a seafarer |
-| Seafarer's Book (Seafarer's License) | Ministry of Oceans and Fisheries | 必备 | Legal certificate required for boarding as a deckhand |
+| 基本安全培训证书 | 韩国海洋水产研究院 | 必备 | 成为海员的基本必修培训 |
+| 海员证（海员执照） | 海洋水产部 | 必备 | 作为甲板水手上船所需的法律证书 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to restructuring and automation in the Korean shipping industry, employment of deckhands is expected to stagnate, but demand to replace natural attrition caused by an aging workforce is likely to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于韩国航运业的重组和自动化，甲板水手的就业预计停滞，但老龄化劳动力造成的自然减员替换需求可能持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,89 +38,82 @@ This occupation involves performing various deck duties necessary for ship opera
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $28,000,000~$35,000,000 | Annual salary basis, with separate allowances when onboard room and board are provided |
-| Mid-level (4–7 years) | $36,000,000~$45,000,000 | Wage increases based on years of sea service |
-| Senior-level (8 years or more) | $46,000,000~$60,000,000 | When holding a boatswain or navigation officer license |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 年薪制，提供食宿时另发津贴 |
+| 中级（4–7年） | $36,000,000~$45,000,000 | 根据海上服务年限增加工资 |
+| 高级（8年及以上） | $46,000,000~$60,000,000 | 持有水手长或航行官员执照时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-The impact of AI and automation is limited. While autonomous navigation technology and remote control systems may replace some deck duties, complete replacement is difficult because humans are needed for emergency response and complex tasks.
+AI和自动化的影响有限。虽然自主导航技术和远程控制系统可能取代部分甲板职责，但由于需要人类应对紧急情况和复杂任务，完全取代很困难。
 
-After boarding as an entry-level seafarer, one can accumulate experience and advance to boatswain, navigation officer, or captain, and obtaining a seafarer's license is essential.
+作为初级海员上船后，可积累经验晋升为水手长、航海员或船长，取得海员证至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular inspection of cargo lashing conditions
-- Electronic navigation logs
-- Basic mooring work automation
+- 定期检查货物绑扎情况
+- 电子航行日志
+- 基础系泊工作自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automatic Identification System (AIS) data analysis
-- Remote monitoring and diagnostics
-- Shipboard IoT sensor management
+- 自动识别系统（AIS）数据分析
+- 远程监控与诊断
+- 船载IoT传感器管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency situation assessment and response
-- Experience in complex maritime environments
-- Interpersonal networking and collaboration skills
+- 紧急情况评估与响应
+- 复杂海洋环境经验
+- 人际网络和协作能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- IT and digital literacy
+- IT与数字素养
 - 英语能力
-- Safety management and risk assessment
+- 安全管理与风险评估
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation, Remote Operation
-- Eco-friendly Ships
-- Maritime Officer Training
-- Replacement of Foreign Seafarers
+- 自动化、远程操作
+- 环保船舶
+- 海事官员培训
+- 外国海员替代
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign seafarers can work as deckhands. Issued under the Employment Permit System. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when expertise is required, such as skilled seamen or special vessel operators. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as crew on Korean-flagged vessels, with some activity restrictions eased. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent adaptability to the sea and ships.
-- People who can endure physical labor and long-term onboard life.
-- People who value discipline and teamwork.
+- 对海洋和船舶有极强适应能力的人
+- 能够忍受体力劳动和长期船上生活的人。
+- 重视纪律和团队合作的人
 
 **谁不适合**
-- People who get severe seasickness or feel anxious in confined spaces.
-- People who find it difficult to be away from family for long periods.
+- 严重晕船或在狭小空间感到焦虑的人。
+- 难以长期远离家人的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a deckhand?**
-答：Entry-level salary is about 28–35 million KRW, up to 60 million KRW based on experience and sea days. Onboard meals and accommodation are often provided, so real income may be higher.
+**问：甲板水手的平均年薪是多少？**
+答：起薪约2800-3500万韩元，根据经验和出海天数可达6000万韩元。船上通常提供食宿，实际收入可能更高。
 
-**问：What visa do foreigners need to work as deckhands?**
-答：Non-professional Employment (E-9) visa is common, allowing employment with Korean shipping companies through the Employment Permit System. Skilled workers may switch to Specific Activities (E-7) visa.
+**问：外国人担任水手需要什么签证？**
+答：非专业就业（E-9）签证常见，允许通过就业许可制度在韩国航运公司工作。熟练工人可转换为特定活动（E-7）签证。
 
 
 ---
@@ -138,12 +131,12 @@ After boarding as an entry-level seafarer, one can accumulate experience and adv
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/deckhand/KR)**

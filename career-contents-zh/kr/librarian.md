@@ -1,10 +1,8 @@
 # 图书管理员（Librarian）职业分析 · 韩国
 
-**职业代码: 41321 (KECO)**
+**职业代码：41321 (KECO)**
 
-A professional who collects, organizes, preserves materials in libraries and provides information services to users.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责收集、整理、保存图书馆资料并向用户提供信息服务的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who collects, organizes, preserves materials in libraries and pro
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Library and Information Science | 4年 | $18,000,000~$38,000,000（Inexpensive at national/public universities, expensive at private ones） |
-| Master's in Library and Information Science | 2 年 | $12,000,000~$30,000,000（Average graduate tuition） |
+| 图书馆与信息科学学士 | 4年 | $18,000,000~$38,000,000（国立/公立大学便宜，私立大学昂贵） |
+| 图书馆与信息科学硕士 | 2 年 | $12,000,000~$30,000,000（研究生平均学费） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who collects, organizes, preserves materials in libraries and pro
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Level 2 Librarian Certificate | Korean Library Association | 必备 | Acquired upon completing bachelor's degree and designated courses |
-| Professional Librarian | Ministry of Culture, Sports and Tourism | 必备 | Nationally recognized qualification, mandatory for public libraries |
-| Level 1 Librarian Certificate | Korean Library Association | 可选 | Master's degree or 3 years of experience after Level 2 certification |
+| 二级图书馆员证书 | 韩国图书馆协会 | 必备 | 完成学士学位和指定课程后获得 |
+| 专业图书馆员 | 文化体育观光部 | 必备 | 国家认可资格，公共图书馆必备 |
+| 一级图书管理员证书 | 韩国图书馆协会 | 可选 | 硕士或Level 2认证后3年经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 32,000. Due to digital transformation and expansion of public libraries, hiring is slightly increasing, but full-time positions are limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 32,000。由于数字化转型和公共图书馆的扩展，招聘略有增加，但全职岗位有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A professional who collects, organizes, preserves materials in libraries and pro
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $25,000,000~$32,000,000 | Based on public libraries; private may be lower |
-| Mid-level (4–9 years) | $32,000,000~$45,000,000 | Varies by experience and institution size |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Senior librarian or director level |
+| 初级（0-3年） | $25,000,000~$32,000,000 | 基于公共图书馆；私人可能更低 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 因经验和机构规模而异 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 高级图书管理员或主任级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists in some librarian tasks (e.g., material classification, search), but human-specific areas like user consultation and program planning are strengthened. Complete replacement is difficult.
+人工智能可辅助部分图书馆员任务（如资料分类、检索），但用户咨询和项目策划等人类专属领域得到强化。完全替代难度较大。
 
-Entry-level librarian → Full-time librarian (public/school/special library) → Senior librarian or director; master's degree and experience advantageous.
+入门级图书管理员→全职图书管理员（公共/学校/专业图书馆）→高级图书管理员或馆长；硕士学位和经验有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Bibliographic data entry
-- Material classification and shelving
-- Simple reference inquiries
+- 书目数据录入
+- 物料分类与上架
+- 简单参考查询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized information recommendations
-- Digital collection development
-- Collection development through data analysis
+- 个性化信息推荐
+- 数字馆藏开发
+- 通过数据分析进行馆藏开发
 
-**人类护城河:**
+**人类护城河：**
 
-- In-depth user consultation
-- Reading culture program planning and operation
-- Community networking
-- Ethical and emotional judgment
+- 深度用户咨询
+- 阅读文化项目规划与运营
+- 社区网络建设
+- 道德与情感判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital curation
-- Information literacy education
+- 数据分析
+- 数字策展
+- 信息素养教育
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Public library
-- Digital materials
-- Information services
-- Records management
+- 公共图书馆
+- 数字材料
+- 信息服务
+- 档案管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible with employer invitation in specialized fields (e.g., university libraries), but very rare |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage: librarians can work, but not a direct path |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as librarians, but must meet certification requirements |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy reading and organizing information
-- Meticulous and systematic personality
-- People proactive in public service
+- 喜欢阅读和整理信息的人
+- 细致且有条理的性格
+- 积极主动从事公共服务的人
 
 **谁不适合**
-- People who prefer fast-changing environments
-- People expecting high salary
+- 喜欢快速变化环境的人
+- 期望高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a librarian?**
-答：Starting salary at public libraries is around 25-32 million KRW, with 10+ years of experience at 45-60 million KRW. Private libraries may be lower.
+**问：图书管理员平均薪资是多少？**
+答：公共图书馆起薪约2500-3200万韩元，10年以上经验为4500-6000万韩元。私立图书馆可能较低。
 
-**问：Can foreigners work as librarians in Korea?**
-答：Inviting E-7 visa holders for professional positions like university libraries is possible but rare, with Korean proficiency and certifications essential. F-2 or F-4 visa holders find it easier.
+**问：外国人可以在韩国担任图书管理员吗？**
+答：邀请E-7签证持有者从事专业职位（如大学图书馆）可能但罕见，韩语能力和认证至关重要。F-2或F-4签证持有者更容易。
 
-**问：What qualifications are needed to become a librarian?**
-答：A bachelor's degree or higher in Library and Information Science and a Level 2 Librarian Certificate are required; public libraries require a full librarian qualification.
+**问：成为图书馆馆长需要什么资格？**
+答：需图书馆与信息科学学士及以上学位和二级图书馆员证书；公共图书馆需完全图书馆员资格。
 
 
 ---
@@ -147,12 +137,12 @@ Entry-level librarian → Full-time librarian (public/school/special library) �
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/librarian/KR)**

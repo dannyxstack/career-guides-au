@@ -51,8 +51,6 @@ Assess damage to cars or other vehicles to determine repair costs, prepare repor
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Can progress from junior assessor to senior assessor, team leader, or claims manager, or move into insurance underwriting or risk management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior assessor to senior assessor, team leader, or claims man
 | Subclass EB-3 (EB-3 Skilled Workers) | Through PERM labor certification, requiring employer sponsorship, suitable for experienced professionals |
 | Subclass TN (TN NAFTA Professional) | Applies to Canadian or Mexican citizens; must meet specific occupation lists; appraisers are typically not directly included. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Most states require insurance adjuster licenses, which require passing state 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-appraisers-auto-damage/US)**

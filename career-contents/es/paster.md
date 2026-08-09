@@ -4,8 +4,6 @@
 
 Sticker workers are responsible for applying waterproof layers, insulation materials, wallpaper, etc. at construction sites or factories. Adhesives are usually used to fix the material to the surface, ensuring sealing and aesthetics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Sticker workers are responsible for applying waterproof layers, insulation mater
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sticker work is mainly manual and cannot be fully replaced by AI, but automation tools reduce repetitive tasks and enhance accuracy and efficiency, so caution is needed regarding entry-level positions.
-
 Career path: Apprentice→ skilled sticker worker→foreman. You can deepen your specialization in waterproofing or insulation, or switch to building supervision. However, promotion opportunities are limited and additional training is required.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ Career path: Apprentice→ skilled sticker worker→foreman. You can deepen your
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Requires a sponsorship from a Spanish company, the employment contract requires full-time employment and meets salary standards, and labor market testing is relatively difficult to pass. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: Construction sites must hold a TPC security card. FP-related academic qualifi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paster/ES)**

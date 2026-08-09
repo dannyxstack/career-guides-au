@@ -53,8 +53,6 @@ Study the composition, structure, and history of Earth materials and ocean proce
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For geologists and oceanographers, AI brings automation threats in data analysis and pattern recognition, but also greatly enhances remote sensing, modeling, and simulation. Repetitive tasks face reduction, but creative interpretation and field validation remain human strengths.
-
 Junior geologists can progress to senior geologist, project manager, or expert consultant; oceanographers can enter research institutions or government marine departments.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior geologists can progress to senior geologist, project manager, or expert c
 | Subclass PNP (Provincial Nominee Program) | Provinces like Alberta and British Columbia have priority invitations for the resources industry. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can lead to PR |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, most provinces require registration as a professional geologist (P.Geo.)
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geoscientists-and-oceanographers-21102/CA)**

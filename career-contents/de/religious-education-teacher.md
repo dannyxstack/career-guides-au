@@ -54,8 +54,6 @@ Religious education teachers impart religious knowledge, values, and ethics in s
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on religious education teachers is mixed: knowledge delivery can be automated, but core duties like spiritual guidance and ethical discussions are hard to replace, and job demand may adjust due to changes in educational models.
-
 Career progression can include senior teacher, subject leader, or educational management positions. Some teachers may move to university research or educational management roles in church institutions. Pursuing a doctoral degree can open academic paths.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression can include senior teacher, subject leader, or educational ma
 | Subclass Skilled Worker (Skilled Immigration Act) | Skilled migration law, requires obtaining a work contract and qualification assessment. |
 | Subclass Chancenkarte (Opportunity Card) | Opportunity card, points-based, allows job seeking in Germany, but costs are self-funded. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not an official shortage occupation (Engpassberuf), but some regions face rec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-education-teacher/DE)**

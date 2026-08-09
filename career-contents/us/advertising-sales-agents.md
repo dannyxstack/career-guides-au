@@ -52,8 +52,6 @@ Sells advertising space or time in media such as publications, billboards, telev
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will automate large amounts of data analysis and routine communication, but customer relationships and negotiation remain a human moat; entry-level positions face increased competition due to AI tools, but high-value strategic sales roles are amplified instead.
-
 Junior sales representatives can advance to senior sales representative, sales manager, or regional director. They can also move into digital marketing, advertising operations, or media planning.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sales representatives can advance to senior sales representative, sales m
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers, requires PERM labor certification; suitable for experienced sales professionals. |
 | Subclass TN (TN Status (USMCA)) | Applicable only to Canadian or Mexican citizens; advertising sales may not be a typical occupation on the TN list. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, but requires employer sponsorship and the position usually requires a ba
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-sales-agents/US)**

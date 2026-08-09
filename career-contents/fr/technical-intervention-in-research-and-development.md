@@ -53,8 +53,6 @@ Within the R&D team, responsible for experimental design, prototype testing, tec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of R&D technical intervention specialists is mixed: AI can automate repetitive tasks such as data recording and basic analysis, but tasks requiring human judgment, such as experimental design and anomaly diagnosis, are actually being enhanced. Entry-level positions are more demanding due to the widespread adoption of automation tools, but the value of experienced experts stands out.
-
 You can be promoted from technician to R&D project manager or laboratory supervisor, or transition to engineer roles through continuing education, gaining experience before moving into management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from technician to R&D project manager or laboratory supervi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Aimed at highly skilled non-EU citizens, annual salary ≥ €53,836.50 (2024 standard), suitable for mid-level and above positions |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, there is no strict minimum salary; employment contracts and project proofs in France are required |
-| Subclass Salarié (Employee Work Permit) | Regular work residency requires a French company sponsorship, and salary must meet industry standards |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Minimum BTS/DUT (2 years), but Licence Pro or Engineering Diploma is more adv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-intervention-in-research-and-development/FR)**

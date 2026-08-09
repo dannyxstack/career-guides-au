@@ -4,8 +4,6 @@
 
 Professional who controls and monitors equipment for firing, crushing, mixing, etc., in the manufacturing process of ceramics and stone products. Quality control and process optimization are important.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professional who controls and monitors equipment for firing, crushing, mixing, e
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation are expected to centralize equipment monitoring and control operations in central control rooms and advance autonomous operation, leading to staff reductions. However, human judgment is needed for anomaly response and process improvement.
-
 Career path starts from production floor operator, leading to roles in equipment management, quality control leader, plant manager, etc. Obtaining skill certifications aids promotion.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Career path starts from production floor operator, leading to roles in equipment
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (3 Manufacturing Fields)) | Ceramic, stone, and clay product manufacturing is excluded. However, it can be obtained in related fields such as casting and metal processing, but is not common in this occupation. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or at least 10 years of professional experience. Expected to be hired as a facility engineer. |
-| Subclass 技能 (Skilled Labor Visa (i)) | Requires at least 10 years of professional experience. Demand in Japan is limited. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -150,12 +138,12 @@ A: Due to declining domestic demand and automation advances, the number of worke
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ceramics-stone-production-equipment-control-monitor-staff/JP)**

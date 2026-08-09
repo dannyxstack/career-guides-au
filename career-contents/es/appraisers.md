@@ -52,8 +52,6 @@ Appraisers are responsible for assessing the value of real estate, movable prope
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core professional judgment and legal responsibilities of appraisers are hard to replace, but routine tasks such as data collection, preliminary analysis, and report writing will be significantly automated. The overall job will show a "task reconstruction" rather than disappear, requiring proactive adoption of AI tools to improve efficiency and value.
-
 Career development can be from junior appraiser to senior appraiser or team leader, or to become a partner in independent practice. Senior appraisers can serve as arbitration experts or open valuation firms.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career development can be from junior appraiser to senior appraiser or team lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with an annual salary threshold of about 34,000 euros. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Designed for highly educated professionals, approval is fast, and family members can be brought along. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residency requires employer sponsorship and labor market testing. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can apply through EU Blue Card (requires work contract and degree) or high-sk
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/appraisers/ES)**

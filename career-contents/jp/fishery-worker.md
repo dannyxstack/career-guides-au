@@ -4,8 +4,6 @@
 
 Occupation involving boarding fishing vessels to catch, farm, and harvest fish and shellfish. It spans from coastal to pelagic fishing, supporting Japan's fishing industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Occupation involving boarding fishing vessels to catch, farm, and harvest fish a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation boosts efficiency in catch prediction, fish detection, and aquaculture management, but manual tasks like actual fishing and fish sorting remain labor-dependent, limiting full substitution.
-
 Starting as a fishing apprentice, one gains experience to become a captain or fishery manager. Independence with one's own boat is possible, but requires funds and licenses.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a fishing apprentice, one gains experience to become a captain or fi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fisheries)) | Requires certain skills and Japanese ability. Max 5 years. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Fisheries)) | Requires higher skills. Unlimited renewals, family accompaniment allowed. Added as target from 2023. |
-| Subclass 技能実習 (Technical Intern Training (Fisheries)) | Max 3 years. Assumes return to home country. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: Study at fisheries high schools or vocational schools, or be hired as an appr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishery-worker/JP)**

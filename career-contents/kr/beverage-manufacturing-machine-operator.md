@@ -4,8 +4,6 @@
 
 This occupation involves operating and monitoring various machines on beverage production lines to produce carbonated drinks, fruit juices, and other beverages.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves operating and monitoring various machines on beverage p
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Beverage manufacturing machine operators face a high risk of simple operation tasks being replaced by AI and automation. The introduction of automated lines is reducing manpower demand, and the role will shift toward maintenance and process optimization in the future.
-
 Initially assigned to machine assistance and simple operations; with experience, promotion to line supervisor, quality control, or process management is possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Initially assigned to machine assistance and simple operations; with experience,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Non-professional foreign workforce can be introduced, includes beverage manufacturing, subject to Employment Permit System |
-| Subclass E-7 (Specific Activities (E-7)) | Targeting skilled workers, some experience in beverage manufacturing equipment operation acceptable |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: High school diploma or higher is sufficient; an associate degree in food proc
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beverage-manufacturing-machine-operator/KR)**

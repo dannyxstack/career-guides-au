@@ -53,8 +53,6 @@ Plasterers apply plaster, gypsum, and other materials to interior and exterior w
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plasterer jobs face automation compression risks; AI and robots will take over plastering, smoothing, and material preparation, but complex repairs and fine decorative work still require manual labor.
-
 Plasterers can progress from apprentice to tradesperson, and with experience become foremen or project managers. Some choose to start their own plastering companies. Continuous learning and mastering new techniques (e.g., decorative plastering) can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Plasterers can progress from apprentice to tradesperson, and with experience bec
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can progress from apprentice to skilled worker, then to foreman or project ma
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/IE)**

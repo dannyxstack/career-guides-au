@@ -52,8 +52,6 @@ Health and Safety Managers and Officers provide advice, ensure and promote healt
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Health and safety managers and officers are mixed in terms of AI impact: automation will take over repetitive compliance checks and report generation, but accident prevention, culture building, and complex risk assessments still require human judgment. Jobs overall won't be replaced, but entry-level roles may shrink due to the spread of automation tools.
-
 Can progress from health and safety officer to manager, senior manager, or director, or transition to consulting or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from health and safety officer to manager, senior manager, or direc
 | Subclass Global Talent (Global Talent visa) | Applicable to leaders with outstanding achievements in health and safety, no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years, then transition to a skilled worker visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The NEBOSH National General Certificate is an industry standard that signific
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-and-safety-managers-and-officers/UK)**

@@ -1,10 +1,8 @@
-# Sales and Sales Manager 职业分析 · 韩国
+# 销售及销售经理（Sales and Sales Manager）职业分析 · 韩国
 
-**职业代码: 01511 (KECO)**
+**职业代码：01511 (KECO)**
 
-A managerial position responsible for establishing a company's sales and sales strategies, managing the sales team, and overseeing the achievement of sales targets.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责制定公司销售策略、管理销售团队并监督实现销售目标的经理职位。
 
 
 ---
@@ -13,8 +11,8 @@ A managerial position responsible for establishing a company's sales and sales s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year) | 4年 | $20,000,000~$40,000,000（Varies by national/private status, excluding scholarships） |
-| Junior College (2-3 year) | 2 年 | $8,000,000~$18,000,000（Based on general track） |
+| 大学（4年制） | 4年 | $20,000,000~$40,000,000（因公立/私立而异，不包括奖学金。） |
+| 专科（2-3年） | 2 年 | $8,000,000~$18,000,000（基于通用轨道） |
 
 ---
 
@@ -22,16 +20,16 @@ A managerial position responsible for establishing a company's sales and sales s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 无 | 不适用 | 可选 | No mandatory certifications, but an MBA is advantageous |
+| 无 | 不适用 | 可选 | 无强制认证，但MBA有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 80,000. Due to the slowdown in the domestic market and digital transformation, traditional sales methods are changing, but the demand for strategic managers is expected to continue.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 80,000。由于国内市场放缓和数字化转型，传统销售方式正在变化，但战略管理人员需求预计持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,93 +37,86 @@ A managerial position responsible for establishing a company's sales and sales s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $45,000,000~$60,000,000 | Based on small and medium-sized enterprises |
-| Intermediate (4-10 years) | $60,000,000~$90,000,000 | Manager to Deputy General Manager level |
-| Advanced (10+ years) | $90,000,000~$99,999,999 | General Manager level or above, higher with performance bonuses included |
+| 初级（0-3年） | $45,000,000~$60,000,000 | 基于中小企业 |
+| 中级（4-10年） | $60,000,000~$90,000,000 | 经理至副总经理级别 |
+| 高级（10年以上） | $90,000,000~$99,999,999 | 总经理级别及以上，更高职位含绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances work in sales data analysis, customer insight generation, CRM automation, etc., but human leadership and relationship building remain core. The importance of strategic decision-making and team management will grow.
+AI在销售数据分析、客户洞察生成、CRM自动化等方面提升工作，但人类的领导力和关系建立仍是核心。战略决策和团队管理的重要性将增长。
 
-Typically promoted after experience as a sales representative, with potential growth to executive positions such as managing director or senior managing director, or transition to marketing or business development.
+通常从销售代表晋升，有可能成长为董事总经理或高级董事总经理等高管职位，或转向营销或业务发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple sales report writing
-- Basic customer classification tasks
+- 简单销售报告撰写
+- 基本客户分类任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Establishing sales strategies
-- Predicting customer needs
-- Performance analysis and feedback
-- Target marketing
+- 制定销售策略
+- 预测客户需求
+- 绩效分析与反馈
+- 目标营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal relationships and trust building
-- Team motivation and coaching
-- Complex negotiation and persuasion
+- 人际关系与信任建立
+- 团队激励与辅导
+- 复杂谈判与说服
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Using digital sales tools
-- Strategic thinking
+- 数据素养
+- 使用数字销售工具
+- 战略思维
 - 英语能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- B2B Sales
-- Digital Sales
-- Customer Relationship Management
-- Sales Performance Management
+- B2B销售
+- 数字销售
+- 客户关系管理
+- 销售绩效管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when dispatched to overseas branches or hired as a specialized sales manager |
-| Subclass F-2 (F-2 (Residence)) | Free employment available for long-term residents |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with excellent leadership and communication skills
-- Someone who is goal-oriented and has stress management skills
-- Someone with strategic thinking and problem-solving skills
+- 具备卓越领导力和沟通能力的人
+- 有目标导向并具备压力管理技能的人
+- 具有战略思维和解决问题能力的人
 
 **谁不适合**
-- Someone who prefers working alone over interpersonal relationships
-- Someone who finds it difficult to withstand short-term performance pressure
+- 喜欢独自工作胜过人际关系的人
+- 难以承受短期业绩压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a sales/sales manager?**
-答：It ranges from 45 million to 150 million won depending on experience, with a large proportion of performance bonuses.
+**问：销售/销售经理的平均薪资是多少？**
+答：根据经验，范围在4500万至1.5亿韩元之间，绩效奖金占很大比例。
 
-**问：Can foreigners work as sales/sales managers?**
-答：Korean language skills and expertise are required, and it is possible at some large corporations or foreign companies with an E-7 visa.
+**问：外国人可以从事销售/销售经理工作吗？**
+答：需要韩语技能和专业知识，部分大企业或外资公司持E-7签证可行。
 
-**问：What is important for promotion in this occupation?**
-答：Performance achievement ability, leadership, and networking within the organization are important, and additional education (e.g., MBA) is helpful.
+**问：该职业晋升的重要因素是什么？**
+答：绩效达成能力、领导力和组织内人脉网络很重要，额外教育（如MBA）也有帮助。
 
 
 ---
@@ -143,12 +134,12 @@ Typically promoted after experience as a sales representative, with potential gr
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sales-and-sales-manager/KR)**

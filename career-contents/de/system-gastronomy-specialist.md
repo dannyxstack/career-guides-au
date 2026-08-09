@@ -53,8 +53,6 @@ System catering specialists work in chain fast food, coffee shops, or brand rest
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on system catering specialists is mixed: standardized processes are easily automated, but tasks such as on-site coordination and customer interaction still require human judgment. Entry-level positions are slightly reduced due to the prevalence of AI tools.
-
 Career development path: from entry-level roles (e.g., waiter, chef) to team supervisor, branch manager, then regional manager or trainer. Can also transition to food quality control, supply chain management, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career development path: from entry-level roles (e.g., waiter, chef) to team sup
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance from entry-level staff to team supervisor, store manager, regiona
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/system-gastronomy-specialist/DE)**

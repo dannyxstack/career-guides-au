@@ -4,8 +4,6 @@
 
 Operate packaging, bottling, and labeling machines to complete product packaging and label application in industries such as food, beverage, and chemicals.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate packaging, bottling, and labeling machines to complete product packaging
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This occupation faces high automation risk; AI and robots will take over repetitive operations and monitoring tasks, leading to job reduction. Practitioners need to transition to equipment maintenance and process optimization.
-
 Can progress from junior operator to senior operator or team leader, or develop into equipment maintenance or quality control.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can progress from junior operator to senior operator or team leader, or develop 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled workers with employer sponsorship, annual salary of approximately €5,000/month (2025 standard). |
-| Subclass EU Blue Card (EU Blue Card) | Targeted at highly educated professionals, with an annual salary requirement of approximately €6,000/month. This occupation usually does not meet that standard. |
-| Subclass Orientation Year (Orientation Year) | Open to graduates from Dutch universities or top 200 global universities, valid for 1 year, allows unrestricted work. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can be promoted to senior operator, team leader, or move into equipment maint
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packing-bottling-and-labelling-machine-operator/NL)**

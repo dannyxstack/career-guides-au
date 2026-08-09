@@ -53,8 +53,6 @@ Building waterproofers apply waterproof sealing to basements, roofs, balconies, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction waterproofers face moderate automation risk; robotic spraying and AI quality inspection may take over some construction and inspection tasks, but digital tools enhance surveying and design efficiency, making it a mixed prospect.
-
 Can advance to waterproofing master (Meister) or foreman through continuing education, or move into construction supervision or self-employment. Some senior workers can further study to become construction engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to waterproofing master (Meister) or foreman through continuing educ
 | Subclass Skilled Worker (Fachkräfteeinwanderungsgesetz) | For skilled workers with recognized German professional qualifications, employer sponsorship required. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, allows coming to Germany to look for work, subject to language, age, and other conditions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress to master craftsman (Meister), technician, or self-employment, o
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-sealing-worker/DE)**

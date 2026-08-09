@@ -53,8 +53,6 @@ Responsible for supervising the cleaning team, ensuring hygiene standards are me
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Can advance from cleaner to supervisor, then to regional manager or facilities management, requiring accumulated management experience and relevant training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from cleaner to supervisor, then to regional manager or facilities m
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job searching and trial employment, requires German B1 |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires German B1 and sufficient funds |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to regional cleaning manager, facilities management supervisor, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaning-supervisor/DE)**

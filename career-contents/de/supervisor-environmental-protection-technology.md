@@ -51,8 +51,6 @@ German environmental technology supervisor oversees the daily operation of envir
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 Career progression: Technician (Fachkraft) → Supervisor (Aufsichtskraft) → Department Manager (Abteilungsleiter). Further training to obtain a technician certificate (Techniker) or engineering degree allows advancement to management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Technician (Fachkraft) → Supervisor (Aufsichtskraft) → D
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with a German-recognized vocational qualification (e.g., dual training certificate), no university degree required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job seeker visa allowing job search in Germany, launched in 2024. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance from technical role to supervisor, then to department manager or 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-environmental-protection-technology/DE)**

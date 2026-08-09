@@ -53,8 +53,6 @@ Orthoptic vision therapist is a specialised profession in the ophthalmology fiel
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Orthoptic strabismus correctionists face efficiency gains from AI-assisted diagnostics, but core diagnosis and treatment decisions rely on human experience; the occupation overall carries medium risk, requiring proactive learning of AI tools to remain competitive.
-
 Career development paths include from assistant therapist to senior orthoptist, can specialize in pediatric ophthalmology or neuro-ophthalmology, or advance to department supervisor. Continuing education can lead to a master's degree, enhancing research or teaching capabilities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development paths include from assistant therapist to senior orthoptist, 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Hold a recognized degree or qualification, can obtain a residence permit, no minimum annual salary requirement |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows one year to find work, suitable for those in the process of qualification certification |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from clinical therapist to specialization in pediatric or neuro-
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthoptist/DE)**

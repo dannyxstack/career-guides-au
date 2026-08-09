@@ -51,8 +51,6 @@ Cartographers and photogrammetrists research, compile, and produce maps and othe
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
-
 Entry-level positions such as GIS technician or cartographer assistant; with experience, can advance to senior cartographer or project manager. Some move to research or development roles, such as GIS developer or geospatial data scientist. Management positions like GIS director or surveying department head require extensive professional experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level positions such as GIS technician or cartographer assistant; with exp
 | Subclass EB-3 (Employment-Based Third Preference) | For skilled workers and professionals; some employers apply through PERM labor certification. |
 | Subclass TN (TN Status under USMCA) | Applies to Canadian or Mexican citizens; professional occupations include cartographers, but must meet specific requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common paths include H-1B work visa requiring bachelor's or higher degree; an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographers-and-photogrammetrists/US)**

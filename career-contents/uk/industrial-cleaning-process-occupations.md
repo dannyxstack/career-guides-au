@@ -53,8 +53,6 @@ Industrial cleaning process operators are responsible for cleaning manufactured 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Industrial cleaning process operators face job changes due to AI and automation: repetitive cleaning tasks will be taken over by robots, but AI enhances process optimization, predictive maintenance, and remote monitoring, driving the role toward technical upgrading.
-
 Junior operators can advance to senior cleaning technician or team supervisor through experience, or move into specific industrial cleaning areas (e.g., food-grade cleaning, hazardous waste disposal) to increase salary and position.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior operators can advance to senior cleaning technician or team supervisor th
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation is not on the regular Skilled Worker sponsorship occupation list, and employers generally cannot sponsor it. |
 | Subclass Graduate (Graduate visa) | Graduate visa holders can work in any occupation, including industrial cleaning. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation is usually outside the skilled work visa list, making employe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-cleaning-process-occupations/UK)**

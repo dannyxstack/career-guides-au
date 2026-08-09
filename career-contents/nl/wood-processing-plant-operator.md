@@ -4,8 +4,6 @@
 
 Operate woodworking machinery such as sawmills, planers and sanders to process logs into timber or boards, ensuring efficient and safe production processes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate woodworking machinery such as sawmills, planers and sanders to process l
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine tasks of timber mill operators (e.g., sawing, planing, sanding) can be gradually replaced by automated equipment and AI vision systems, but complex wood handling and troubleshooting still require human judgment, resulting in overall high risk.
-
 Can advance from operator to production supervisor or quality controller, or move to higher-level technical roles by learning automated system operations, or enter the maintenance field.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can advance from operator to production supervisor or quality controller, or mov
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled workers with annual income above threshold (approx. €4,684/month in 2024), requires employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for higher vocational education and above; salary threshold approximately €5,331/month (2024); employer sponsorship required |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch or top 200 world universities can apply within one year after graduation for free job seeking. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, you can advance to production supervisor, quality controller, or equipme
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-processing-plant-operator/NL)**

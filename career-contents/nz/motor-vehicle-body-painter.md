@@ -52,8 +52,6 @@ Automotive painters are responsible for vehicle paint repair, color matching, an
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Auto painters are affected by AI both positively and negatively: automatic spraying and color matching technology will replace some repetitive tasks, but fine manual work like color blending and defect repair is hard to replace; short-term job demand remains stable.
-
 Junior painter → Skilled painter → Paint mixing specialist → Workshop supervisor/own shop. Also possible to transition to automotive paint line technician or vehicle inspector.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior painter → Skilled painter → Paint mixing specialist → Workshop supe
 | Subclass SMC (Skilled Migrant Category) | Immigration via 6-point system; 3 points for occupational registration + New Zealand job offer |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship, can apply for residence after 2 years (if meeting Green List requirements) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: MITO or NZQA can assess overseas qualifications and experience to shorten app
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-body-painter/NZ)**

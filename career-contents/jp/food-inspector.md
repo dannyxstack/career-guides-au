@@ -49,8 +49,6 @@ In food factories and production sites, inspect product quality, foreign objects
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-With the introduction of AI image diagnosis and automated inspection machines, simple visual inspections are decreasing. However, as dealing with abnormalities and final decisions remain with humans, complete replacement is difficult.
-
 With experience, can advance to quality control leader or QC specialist. Knowledge of HACCP or ISO22000 boosts career growth.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ With experience, can advance to quality control leader or QC specialist. Knowled
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Food and Beverage Manufacturing)) | Inspection work at food factories qualifies. Requires passing exam and N4 Japanese. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires expertise in quality control. University degree or 10+ years of practical experience. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -138,12 +130,12 @@ A: Specified Skilled Worker (i) (Food and Beverage Manufacturing sector) or Engi
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-inspector/JP)**

@@ -53,8 +53,6 @@ Behavior support practitioners develop and implement positive behavior support p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
-
 Junior behavior support practitioners can advance to senior practitioners or team leaders, or transition to management, training, or independent practice. The Board Certified Behavior Analyst (BCBA) credential can enhance professional status.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior behavior support practitioners can advance to senior practitioners or tea
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Board Certified Behavior Analyst (BCBA) recommended but not mandatory. Employ
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/behaviour-support-practitioner/NZ)**

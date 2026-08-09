@@ -1,10 +1,8 @@
-# Housekeeper / Domestic Helper 职业分析 · 日本
+# 管家/家政服务员（Housekeeper / Domestic Helper）职业分析 · 日本
 
-**职业代码: 351 (JSCO)**
+**职业代码：351 (JSCO)**
 
-A profession that performs general household tasks such as cleaning, laundry, cooking, and shopping in homes or facilities. Demand is stable among dual-income families and elderly households.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在家庭或设施中执行清洁、洗衣、烹饪和购物等一般家务的职业。双职工家庭和老年家庭需求稳定。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that performs general household tasks such as cleaning, laundry, co
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory education (junior high school graduate) | 0年 | $0~$0（Education not required） |
-| Domestic help skill training (private) | 3个月 | $50,000~$200,000（Optional training） |
+| 义务教育（初中毕业） | 0年 | $0~$0（不要求教育） |
+| 家政技能培训（私人） | 3个月 | $50,000~$200,000（可选培训） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession that performs general household tasks such as cleaning, laundry, co
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Home Cooking Skills Certification | Japan Food Education Association | 可选 | Useful for proving cooking skills |
-| House Cleaning Skilled Worker | House Cleaning Association | 可选 | Helpful for enhancing expertise |
+| 家常烹饪技能认证 | 日本食育协会 | 可选 | 有助于证明烹饪技能 |
+| 家庭清洁技术工人 | 房屋清洁协会 | 可选 | 有助于增强专业性 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Demand for domestic help services is steady due to an aging population and increase in dual-income households. However, low wages and difficulty securing staff are challenges. Not eligible for Specified Skilled Worker status.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。受人口老龄化和双收入家庭增加的影响，家政服务需求稳定。然而，低工资和招聘困难是挑战。不符合特定技能工人资格。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A profession that performs general household tasks such as cleaning, laundry, co
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,000,000~$2,800,000 | Hourly wage approx. 900–1200 yen |
-| Intermediate (3–5 years) | $2,800,000~$3,500,000 | Increases with experience and skills |
-| Advanced (5+ years) | $3,500,000~$4,500,000 | Management or independent work can yield higher income |
+| Beginner (0–3 years) | $2,000,000~$2,800,000 | 时薪约900-1200日元 |
+| 中级（3-5年） | $2,800,000~$3,500,000 | 随经验和技能增长 |
+| 高级（5年以上） | $3,500,000~$4,500,000 | 管理或独立工作可带来更高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-With the spread of AI and robot vacuums, simple tasks are partly automated, but chores requiring human judgment and communication remain. AI supports workers as an efficiency tool.
+随着AI和扫地机器人的普及，简单任务部分自动化，但需要人工判断和沟通的家务仍然存在。AI作为效率工具支持工人。
 
-With experience, advancement to management roles at domestic service companies or independent business ownership is possible. No mandatory qualifications, but cleaning and cooking skills are valued.
+有经验后可晋升为国内服务公司的管理职位或自主创业。无强制资格要求，但看重清洁和烹饪技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Vacuuming
-- Washing Dishes
-- Simple Cooking (Following Recipes)
+- 吸尘
+- 洗碗
+- 简单烹饪（按照食谱）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Household Schedule Management
-- Inventory Management and Shopping Errands
-- Customer Communication
+- 家庭日程管理
+- 库存管理和购物跑腿
+- 客户沟通
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Trust
-- Flexible Response
-- Attentive Care
+- 人际信任
+- 灵活应对
+- 细心护理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cleaning Techniques
-- Cooking Skills
-- Customer Service
-- Smart Appliance Operation
+- 清洁技术
+- 烹饪技能
+- 客户服务
+- 智能家电操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increase in dual-income households
-- Housekeeping Service
-- Time-Saving Needs
+- 人口老龄化
+- 双收入家庭增加
+- 家政服务
+- 节省时间需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Rarely applicable. Requires advanced specialized knowledge; not permitted for general domestic work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not eligible. Housekeeping is not included in the specified skilled worker categories. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and good at organizing
-- People confident in general housework
-- People who enjoy interacting with others and can build trust
+- 细致入微且善于组织的人
+- 对日常家务有信心的人
+- 喜欢与他人互动并能建立信任的人
 
 **谁不适合**
-- People who are not good at physical labor
-- People not interested in detailed work
+- 不擅长体力劳动的人
+- 对细节工作不感兴趣的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the salary for a housekeeper?**
-答：It's relatively low at entry level, around 2-2.8 million JPY annually, but increases with experience, skills, or independence. Hourly wage is common, slightly higher in urban areas.
+**问：管家薪资是多少？**
+答：入门级相对较低，约200-280万日元/年，但随着经验、技能或独立执业增加。常见时薪制，城市地区略高。
 
-**问：Can foreigners work as housekeepers?**
-答：General housekeeping is not eligible for a residence status and cannot be worked. However, it is possible in limited cases such as diplomat households. It is not covered by technical intern training or specified skilled worker.
+**问：外国人可以做家政服务员吗？**
+答：一般家政工作不符合居留资格，不能从事。但在外交官家庭等有限情况下可能。技术实习培训或特定技能工人不包括在内。
 
-**问：How can I advance my career?**
-答：Common paths are to aim for a managerial position at a housekeeping company or start your own business. Obtaining qualifications in cleaning or cooking can enhance your skills.
+**问：如何提升我的职业生涯？**
+答：常见路径是瞄准家政公司的管理职位或自己创业。获得清洁或烹饪资格可以提升技能。
 
 
 ---
@@ -144,12 +135,12 @@ With experience, advancement to management roles at domestic service companies o
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/housekeeper-domestic-helper/JP)**

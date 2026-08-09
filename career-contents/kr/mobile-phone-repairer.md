@@ -51,8 +51,6 @@ A professional who diagnoses hardware failures in mobile communication devices s
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation aids diagnostic tools (software-based fault analysis) and parts ordering automation, but precision soldering and mechanical repairs still require humans, so full replacement is unlikely.
-
 One can start by opening a small repair shop or working as a technician at a dealership; obtaining certifications allows for a move to an authorized service center, and with experience, promotion to team leader or center manager is possible.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ One can start by opening a small repair shop or working as a technician at a dea
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for work requiring skilled repair techniques; education and experience requirements must be met |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited use as non-professional repair assistants; subject to employment permit system |
-| Subclass F-2 (F-2 (Residence)) | Possible to open a business after long-term stay under point system |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: Demand for smartphone repairs is steady, but growth may stall due to large se
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-phone-repairer/KR)**

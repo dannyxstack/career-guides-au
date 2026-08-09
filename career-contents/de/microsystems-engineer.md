@@ -51,8 +51,6 @@ Microsystems technology engineers design, develop and test micron-scale systems 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Microsystems technology engineers face a mixed situation: AI enhances capabilities in simulation, layout optimization, and data analysis, but standardized design tools may also compress entry-level tasks, requiring continuous learning.
-
 Career progression typically starts from microsystems engineer, advancing to chief engineer or technical project manager. With interdisciplinary knowledge and project management experience, one can move into R&D management or entrepreneurship. Further study of a master's or PhD in microsystems technology helps enter advanced R&D or academia.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression typically starts from microsystems engineer, advancing to chi
 | Subclass EU Blue Card (EU Blue Card) | Applies to non-EU skilled professionals earning over €43,800 (2024). Microsystems engineers usually meet the shortage occupation criteria with a lower salary threshold (about €39,682). |
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to non-EU professionals with recognized German or equivalent qualifications. Requires a work contract and a position related to the qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Main pathways: 1) EU Blue Card: need to find a job with annual income at leas
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/microsystems-engineer/DE)**

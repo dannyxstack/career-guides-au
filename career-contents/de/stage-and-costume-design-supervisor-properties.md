@@ -54,8 +54,6 @@ Responsible for supervising stage and costume design, and prop management, coord
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Stage and costume design directors and prop managers face mixed impacts from AI: AI can speed up design processes and resource management, but core creative decisions, handmade prop production, and cross-team coordination still rely on humans, with overall moderate risk.
-
 Can advance from designer to design director, then to art director or production manager. Can also specialize in high-tech stage technology or sustainable design.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from designer to design director, then to art director or production
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires university degree or vocational training qualification recognized, apply after obtaining a work contract |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year for job seeking in Germany, suitable for experienced designers |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires qualification recognition (Anerkennung); after obtaining a w
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stage-and-costume-design-supervisor-properties/DE)**

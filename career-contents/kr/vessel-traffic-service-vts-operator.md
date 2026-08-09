@@ -4,8 +4,6 @@
 
 A professional who uses VTS equipment to monitor traffic and provide information for safe vessel navigation in ports or major sea areas. Works under the Ministry of Oceans and Fisheries, utilizing radio communication and radar.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who uses VTS equipment to monitor traffic and provide information
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies can assist and enhance certain tasks in VTS operations such as radar analysis, vessel identification, and risk prediction, but human operators remain essential for final decision-making and handling unexpected situations. Complete replacement in the short term is difficult, and AI will likely be used as a tool.
-
 New hiring is conducted by the Ministry of Oceans and Fisheries (VTS civil servants) or the Korea Maritime Safety Authority (KOMSA). After serving as an operator, one can advance to VTS supervisor or related fields (maritime safety, port operations). Promotions depend on service years and evaluations.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ New hiring is conducted by the Ministry of Oceans and Fisheries (VTS civil serva
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to qualified foreigners working in maritime safety, but acquisition is limited due to Korean language proficiency and certification requirements. |
-| Subclass F-2 (Residence) | Long-term foreign residents can switch to this occupation, but domestic worker preference applies. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A Vessel Traffic Service Operator certificate from the Ministry of Oceans and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vessel-traffic-service-vts-operator/KR)**

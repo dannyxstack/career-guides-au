@@ -51,8 +51,6 @@ A payroll officer handles payroll calculation, timekeeping, Single Touch Payroll
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
-
 Can progress into compensation management and HR operations roles.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Can progress into compensation management and HR operations roles.
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -142,12 +138,13 @@ A: No, this is a non-skilled migration occupation.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-clerk/AU)**

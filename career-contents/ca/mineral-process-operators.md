@@ -54,8 +54,6 @@ In Canada, mill operators monitor mineral processing like crushing, grinding, fl
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mineral processing operators will not be replaced by AI in the short term, but AI/automation will greatly enhance their monitoring, optimization, and predictive capabilities, making operations more efficient and safer. They need to upgrade digital skills.
-
 Mineral processing operators can advance from junior operator to senior operator, shift supervisor, or plant supervisor, or become metallurgical or process engineers through further study. Some transition to mining consulting or technical sales.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Mineral processing operators can advance from junior operator to senior operator
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario, BC, and Saskatchewan have mining-related nomination streams, prioritizing applicants with a job offer |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces (e.g., Nova Scotia, Newfoundland) have mining projects that can be immigrated through employer sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Most provinces do not require certification, but holding a provincial operato
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mineral-process-operators/CA)**

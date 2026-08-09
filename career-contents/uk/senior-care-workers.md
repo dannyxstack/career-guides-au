@@ -52,8 +52,6 @@ Senior care workers supervise care teams in nursing facilities or clients' homes
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall, aged care workers are augmented by AI rather than replaced: automation mainly takes over documentation work, allowing care workers to focus more on direct care and emotional support, but areas lacking human contact will highlight human value more.
-
 Can advance from caregiver to senior caregiver, then to care supervisor or care manager; can also obtain professional qualifications like registered nurse to raise career ceiling.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from caregiver to senior caregiver, then to care supervisor or care 
 | Subclass Health & Care Worker (Health and Care Worker visa) | For healthcare workers, lower salary threshold, priority processing, can bring family |
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, occupation on eligible list, salary meets general threshold (approx £26,200) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Mainly can immigrate via the Health and Care Worker visa, which has lower sal
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-care-workers/UK)**

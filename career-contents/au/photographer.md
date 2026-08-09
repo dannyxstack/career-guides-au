@@ -55,8 +55,6 @@ Photographers provide commercial, editorial, wedding, and fine art photography s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
-
 Australia's e-commerce market (projected to exceed $65 billion by 2026) continues to drive demand for e-commerce product photography. Smartphone camera improvements have raised consumer-level photography quality, compressing the low-end market; however, professional commercial photography (brand campaigns, event photography, architectural/property aerial shoots) still requires professional photographers. AI image generation tools are disrupting parts of the stock image market.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Australia's e-commerce market (projected to exceed $65 billion by 2026) continue
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: The two markets are similar in scale; demand for video production is growing 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/AU)**

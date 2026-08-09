@@ -1,8 +1,8 @@
-# Telecommunications Equipment Technician 职业分析 · 韩国
+# 电信设备技术员（Telecommunications Equipment Technician）职业分析 · 韩国
 
-**职业代码: 13601 (KECO)**
+**职业代码：13601 (KECO)**
 
-A specialized technical occupation responsible for installing and maintaining communication equipment such as mobile communication base stations and exchanges, ensuring stable operation of communication networks.
+负责安装和维护移动通信基站、交换机等通信设备的专业技术职业，确保通信网络稳定运行。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized technical occupation responsible for installing and maintaining co
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $6,000,000~$12,000,000（Difference between national/public and private, based on tuition） |
-| University (4-year) | 4年 | $16,000,000~$40,000,000（Related to communication engineering, excluding scholarships） |
+| 大专（2年制） | 2 年 | $6,000,000~$12,000,000（国立/公立与私立之间的差异，基于学费） |
+| 大学（4年制） | 4年 | $16,000,000~$40,000,000（与通信工程相关，不含奖学金） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialized technical occupation responsible for installing and maintaining co
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information and Communication Engineer | Korea Radio Promotion Association | 必备 | National technical qualification, essential for installation and maintenance of communication equipment |
-| Telecommunication Line Technician | Korea Radio Promotion Association | 可选 | Useful for line work |
-| Radio and Electronic Communication Engineer | Korea Radio Promotion Association | 可选 | Advanced qualification related to radio waves |
+| 信息与通信工程师 | 韩国广播振兴协会 | 必备 | 国家技术资格，通信设备安装和维护必备 |
+| 电信线路技术员 | 韩国广播振兴协会 | 可选 | 适用于生产线工作 |
+| 无线电与电子通信工程师 | 韩国广播振兴协会 | 可选 | 无线电波相关高级资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. With the introduction of 5G and 6G and the spread of IoT, demand for communication infrastructure continues, but simple maintenance jobs are expected to decrease due to equipment automation.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。随着5G和6G的引入及物联网的普及，通信基础设施需求持续，但设备自动化将减少简单维护岗位。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A specialized technical occupation responsible for installing and maintaining co
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$36,000,000 | Based on SME, including bonuses |
-| 中级 (4-7年) | $36,000,000~$48,000,000 | Average at large company partners |
-| Advanced (8 years or more) | $48,000,000~$65,000,000 | Senior technician and engineer level |
+| 初级（0-3年） | $28,000,000~$36,000,000 | 基于中小企业，含奖金 |
+| 中级 (4-7年) | $36,000,000~$48,000,000 | 大型企业合作伙伴平均 |
+| 高级（8年及以上） | $48,000,000~$65,000,000 | 高级技术员和工程师级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation are replacing equipment monitoring and diagnostic tasks, but on-site installation and complex fault responses still require human judgment, making full replacement difficult.
+人工智能和自动化正在取代设备监控和诊断任务，但现场安装和复杂故障响应仍需人工判断，难以完全替代。
 
-Starting as a junior technician, one can advance to senior technician, site manager, or communication engineer after gaining experience. Career development typically occurs at large company partners or telecom subsidiaries.
+从初级技术员起步，积累经验后可晋升为高级技术员、现场经理或通信工程师。职业发展通常在大公司合作伙伴或电信子公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular equipment inspection data records
-- Simple alarm checks and reporting
+- 定期设备检查数据记录
+- 简单警报检查和报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Interpretation of AI diagnostic results and precision inspections
-- Remote maintenance support
+- AI诊断结果解读与精准检查
+- 远程维护支持
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site experience and know-how
-- Emergency response capabilities
-- Physical equipment installation skills
+- 现场经验和诀窍
+- 应急响应能力
+- 物理设备安装技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic understanding of AI/ML
-- Cloud network knowledge
-- Telecommunications security technology
-- Understanding of 5G NR standards
+- 对AI/ML有基本了解
+- 云网络知识
+- 电信安全技术
+- 理解5G NR标准
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 5G/6G infrastructure
-- IoT networks
-- Cloud communications
-- Telecommunications security
+- 5G/6G基础设施
+- 物联网网络
+- 云通信
+- 电信安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to professionals in telecommunications equipment installation and maintenance; requires degree and experience |
-| Subclass E-9 (Non-professional Employment) | Possible for some simple installation tasks but limited due to required skill level |
-| Subclass F-2 (Residence) | Long-term stay and free employment; can switch after E-7 experience |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who don't mind outdoor or high-altitude work
-- People interested in machinery and electronic circuits
-- People with problem-solving skills on-site
+- 不介意户外或高空作业的人
+- 对机械和电子电路感兴趣的人
+- 具备现场解决问题能力的人
 
 **谁不适合**
-- Those who prefer office jobs
-- Those who avoid extreme environments (rooftops, night shifts)
+- 偏好办公室工作的人
+- 避开极端环境者（屋顶、夜班）
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a telecommunications equipment technician?**
-答：Entry-level approximately 28,000,000 to 36,000,000 KRW; with 8+ years of experience, up to 48,000,000 to 65,000,000 KRW.
+**问：电信设备技术员的年薪是多少？**
+答：入门级约2800万至3600万韩元；8年以上经验者可达4800万至6500万韩元。
 
-**问：What visa is needed for foreigners to work as telecommunications equipment technicians?**
-答：The E-7 (Specific Activities) visa is the main route, requiring a degree or experience in telecommunications.
+**问：外国人在电信设备技术员岗位工作需要什么签证？**
+答：E-7（特定活动）签证是主要途径，需要电信领域的学位或经验。
 
-**问：What is the typical career progression for this occupation?**
-答：Entry-level technician → Senior technician → Site manager or communications engineer, with common career paths at partner companies of large corporations or subsidiaries of telecom operators.
+**问：这个职业的典型职业发展路径是什么？**
+答：初级技术员 → 高级技术员 → 现场经理或通信工程师，常见职业路径在大企业合作公司或电信运营商子公司。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as a junior technician, one can advance to senior technician, site mana
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/telecommunications-equipment-technician-13601/KR)**

@@ -4,8 +4,6 @@
 
 This sales position involves visiting manufacturers and wholesalers to propose product purchases and take orders from retail stores, playing a crucial role in the retail industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This sales position involves visiting manufacturers and wholesalers to propose p
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Routine tasks like order processing and inventory management are easily automated by AI, but human negotiation and new client acquisition will remain human roles for now.
-
 Starting from scratch, you can advance your career by increasing your assigned area and clients. Opportunities to become a buyer or sales manager are also available.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting from scratch, you can advance your career by increasing your assigned a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Obtainable through work utilizing specialized skills or foreign language abilities. |
-| Subclass 特定活動 (Designated Activities) | Limited to spouse employment of highly skilled, etc. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: Currently not included in the specified skilled fields. However, future expan
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/merchandise-procurement-sales-representative/JP)**

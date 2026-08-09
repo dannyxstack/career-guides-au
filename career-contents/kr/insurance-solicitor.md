@@ -4,8 +4,6 @@
 
 A profession that introduces insurance products, encourages contract signing, and supports customers in purchasing and maintaining insurance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that introduces insurance products, encourages contract signing, an
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As AI and digital platforms automate insurance product comparison, recommendation, and contract execution, the role of traditional insurance agents is shrinking. Simple product guidance or quantitative comparisons are replaced by AI, but humans still have the upper hand in complex coverage design and relationship sales based on customer trust.
-
 Beginners start with referral sales; with experience, they can advance to team leader or branch manager, or move to major non-life or life insurers. Many also switch from agents to GA (General Agency) affiliations.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Beginners start with referral sales; with experience, they can advance to team l
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can be issued to professional insurance personnel (e.g., actuaries), but rare for general insurance solicitors |
-| Subclass F-2 (Residence) | Pre-permanent residence stage, no restrictions on insurance solicitor activities |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: Transitioning to the finance sector is difficult, but some cases include movi
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-solicitor/KR)**

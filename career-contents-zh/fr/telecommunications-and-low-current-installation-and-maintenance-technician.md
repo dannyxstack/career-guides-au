@@ -1,6 +1,6 @@
-# Telecommunications and Low Current Installation and Maintenance Technician 职业分析 · 法国
+# 电信及弱电安装维护技术员（Telecommunications and Low Current Installation and Maintenance Technician）职业分析 · 法国
 
-**职业代码: I1307 (ROME)**
+**职业代码：I1307 (ROME)**
 
 负责电信网络、光纤、弱电系统的安装、调试与维护，包括电话、数据、安防等低电流系统。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. 随着光纤到户和5G部署的推进，电信基础设施维护需求持续增长。法国政府大力投资数字基建，该职业就业前景稳定，尤其在偏远地区和技术升级项目中。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。随着光纤到户和5G部署的推进，电信基础设施维护需求持续增长。法国政府大力投资数字基建，该职业就业前景稳定，尤其在偏远地区和技术升级项目中。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 通信工程师岗位被AI/自动化喜忧参半：例行配置和监控任务将被替代，但复杂网络设计和创新优化能力反而被AI放大，岗位需求总体稳定，技能重心向AI工具偏移。
 
 从初级安装技术员可晋升为团队负责人或项目经理，也可通过认证专攻光纤、安全系统或网络集成，或转向电信工程顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用AI工具自动生成网络配置脚本和参数优化方案
 - 利用AI监控系统自动检测并定位网络故障根因
@@ -63,7 +63,7 @@
 - 通过AI算法自动完成频谱规划和干扰分析
 - 使用聊天机器人处理常见用户咨询和工单分配
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI模拟器快速验证5G/光纤网络设计方案
 - 借助AI预测性分析主动优化网络容量和覆盖
@@ -71,7 +71,7 @@
 - 使用AI驱动的数字孪生平台进行网络规划迭代
 - 利用AI工具自动生成项目文档和测试报告
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨供应商异构网络集成架构设计决策
 - 客户需求分析与定制化解决方案构思
@@ -79,7 +79,7 @@
 - 创新性网络优化策略（非标准场景）
 - 与客户及团队成员的高层技术沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI/机器学习基础（用于网络优化预测）
 - Python或MATLAB脚本自动化
@@ -88,27 +88,20 @@
 - 数据分析（Pandas, TensorFlow）
 - 项目管理与需求分析（Agile）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fiber optics
-- 5G deployment
-- Smart buildings
-- IoT installation
+- 光纤
+- 5G部署
+- 智能建筑
+- 物联网安装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | 受雇工作居留，需获得法国雇主工作合同，并满足薪资要求。 |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | 适用于高技能人才，如硕士以上学历或年薪≥36,500欧元的岗位，可获4年居留。 |
-| Subclass Carte bleue UE (EU Blue Card) | 欧盟蓝卡，需至少年薪53,494欧元（2023标准），适用于高级技术职位。 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +144,12 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/telecommunications-and-low-current-installation-and-maintenance-technician/FR)**

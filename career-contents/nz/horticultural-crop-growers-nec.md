@@ -52,8 +52,6 @@ Responsible for planning, managing, and harvesting horticultural crops such as f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation brings mixed prospects for horticultural crop growers: data monitoring and documentation tasks are reduced, but decision-making, manual operations, and on-site management are still hard to replace; entry-level positions face increased competition due to automation tools, but experienced growers remain scarce.
-
 Entry-level workers can advance to planting supervisor or farm manager; with experience, they can collaborate with large horticultural companies or work as independent contractors. Some practitioners transition into agricultural consulting or organic certification.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level workers can advance to planting supervisor or farm manager; with exp
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category: Based on a 6-point system, scoring on qualifications, experience, and salary; eligible with 180 points (old) or 6 points (new). |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: suitable for those without direct residence eligibility; after working for 24 months, you can apply for residence (if meeting Green List T2). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a diploma or bachelor's degree in horticulture, but experi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticultural-crop-growers-nec/NZ)**

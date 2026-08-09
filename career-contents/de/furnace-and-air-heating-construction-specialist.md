@@ -53,8 +53,6 @@ Engaged in the design, installation, and maintenance of industrial furnaces, air
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial furnace and air heating builders will experience task restructuring: repetitive calculations and documentation are taken over by AI, but on-site manual skills and compliance responsibilities make them less easily replaced, requiring active adoption of digital tools to stay competitive.
-
 Can advance to foreman or technical supervisor, or further study to become heating system planner or energy consultant. Starting a own installation company is a common career path.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to foreman or technical supervisor, or further study to become heati
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to look for work in Germany for 6 months, requires proof of language ability (B1) and financial means |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa, launched in 2024, for those with vocational training background. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can obtain a master craftsman certificate (Meister) to advance to foreman or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furnace-and-air-heating-construction-specialist/DE)**

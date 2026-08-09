@@ -4,8 +4,6 @@
 
 Physical labor jobs that do not require special skills, such as cleaners, movers, construction laborers, and factory laborers, are widespread across various industries in Spain, with low entry barriers but limited income.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Physical labor jobs that do not require special skills, such as cleaners, movers
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Many repetitive physical tasks in other basic occupations will be replaced by automated tools (such as cleaning robots and automated handling systems), intensifying competition for entry-level positions, but demand remains.
-
 Promotion paths are limited, often shifting from temporary workers to fixed contracts, or becoming foremen or supervisors. A small number of people transition to technical roles (such as forklift drivers and electricians) through vocational training, but this requires additional learning.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Promotion paths are limited, often shifting from temporary workers to fixed cont
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | A Spanish employer sponsor is required, proving that the position cannot be filled by a local resident. For basic professions with high difficulty, approval is usually not granted. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but it is difficult to obtain work visas for basic positions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Limited. Most remain in basic positions, while a few can be promoted to forem
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-elementary-occupations/ES)**

@@ -53,8 +53,6 @@ Study the distribution and determinants of disease, disability, or health outcom
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance epidemiologists' capabilities, especially in data analysis and predictive modeling, but will not replace their core judgment and public health decision-making responsibilities.
-
 Junior researchers can advance to senior epidemiologist, project supervisor, or public health department director; can also transition to university teaching or private medical research institutions.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior researchers can advance to senior epidemiologist, project supervisor, or 
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian or Mexican citizens; epidemiologist is on the list. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Suitable for outstanding researchers, no labor certification required. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Relatively easy, as it is in the STEM field and high demand. Common EB-2 path
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/epidemiologists/US)**

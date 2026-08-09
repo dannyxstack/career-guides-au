@@ -1,10 +1,8 @@
-# Public Administration Clerk 职业分析 · 韩国
+# 公共管理文员（Public Administration Clerk）职业分析 · 韩国
 
-**职业代码: 02541 (KECO)**
+**职业代码：02541 (KECO)**
 
-This occupation involves planning, coordinating, and executing administrative tasks in public institutions, handling civil complaints, document management, budget and personnel support.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该职业涉及在公共机构规划、协调和执行行政任务，处理民事投诉、文件管理、预算和人事支持。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves planning, coordinating, and executing administrative ta
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduation | 0年 | $0~$0（High school graduates eligible but recruitment limited） |
-| Associate (2-year) or Bachelor's (4-year) | 4年 | $10,000,000~$40,000,000（Low tuition at public universities） |
+| 高中毕业 | 0年 | $0~$0（高中毕业生符合资格，但招聘名额有限） |
+| 副学士（2年）或学士（4年） | 4年 | $10,000,000~$40,000,000（公立大学学费低） |
 
 ---
 
@@ -22,18 +20,18 @@ This occupation involves planning, coordinating, and executing administrative ta
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Labor Attorney | Human Resources Development Service of Korea | 可选 | Optional, advantageous in labor-related tasks |
-| Word Processor Level 1 | Korea Productivity Center | 可选 | Demonstrates document processing skills |
-| Computer Proficiency Level 1 | Korea Chamber of Commerce and Industry | 可选 | Excel and Access proficiency |
+| 认证劳动律师 | 韩国人力资源开发服务局 | 可选 | 可选，对劳动相关工作有利 |
+| 文字处理一级 | 韩国生产力中心 | 可选 | 具备文档处理技能 |
+| 计算机应用一级 | 大韩商工会议所 | 可选 | 熟练使用Excel和Access |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 250,000. While digital transformation automates some tasks, employment is expected to remain stable due to the complexity of government work and demand for public services. Recruitment volume is maintained, but competition is high.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 250,000。数字化转型虽自动化部分任务，但因政府工作复杂性和公共服务需求，就业预计保持稳定。招聘量维持，但竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,67 +39,60 @@ This occupation involves planning, coordinating, and executing administrative ta
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $24,000,000~$30,000,000 | Based on Grade 9 starting salary |
-| Mid Level (4-10 years) | $35,000,000~$45,000,000 | Based on Grade 7-6 |
-| Senior Level (10+ years) | $50,000,000~$70,000,000 | Grade 5 or above, varies by seniority |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于9级起薪 |
+| 中级（4-10年） | $35,000,000~$45,000,000 | 基于7-6级 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 5级及以上，根据年资不同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation are expected to replace repetitive office tasks such as complaint reception, document classification, and data entry, but human roles remain crucial in policy-making, public services, and coordination. Therefore, the tasks of administrative staff will evolve toward higher sophistication and increased demand for expertise.
+AI和自动化预计将取代重复性办公室任务，如投诉接待、文件分类和数据录入，但人类在政策制定、公共服务和协调中仍至关重要。因此，行政人员的任务将向更高层次和更多专业知识需求演变。
 
-Entry is mainly through the Grade 9 open competitive exam, and advancement to Grade 5 officer is possible via the Higher Civil Service Exam. Promotion is based on performance evaluations and exams, leading to management roles such as team leader or department head.
+主要通过9级公开竞争考试进入，通过高级公务员考试可晋升至5级官员。晋升基于绩效评估和考试，可担任团队领导或部门主管等管理职务。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document Classification and Simple Data Entry
-- Basic Complaint Handling
-- Data Compilation and Statistics
+- 文档分类与简单数据录入
+- 基本投诉处理
+- 数据整理与统计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data-Driven Policy Analysis
-- Electronic Document Management
-- Complaint Data Analysis
+- 数据驱动的政策分析
+- 电子文档管理
+- 投诉数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- In-Person Civil Complaint Counseling
-- Negotiation and Coordination
-- Judgment on Complex Exceptional Cases
-- Inter-Organizational Collaboration
+- 当面民事投诉咨询
+- 谈判与协调
+- 复杂特殊案件判断
+- 跨组织协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Digital Administration System Operation
+- 数据分析
+- 数字管理系统运行
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Administration
-- Advanced Civil Services
-- Data-Driven Administration
-- Expanded Flexible Work
+- 数字管理
+- 高级公务员
+- 数据驱动管理
+- 扩展灵活工作制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residency stage, no restrictions on employment activities. Employment in public administration is possible, but civil service appointments are limited. |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans, no employment restrictions, but civil service hiring is not allowed. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -109,25 +100,25 @@ Entry is mainly through the Grade 9 open competitive exam, and advancement to Gr
 
 **谁适合**
 - 细心、有责任心的人
-- Person with excellent interpersonal and collaboration skills
-- Person with high interest in public service
+- 人际交往和协作能力出色的人
+- 对公共服务有高度兴趣的人
 
 **谁不适合**
-- Person who finds repetitive work boring
-- Person who feels frustrated with bureaucratic procedures
+- 觉得重复工作无聊的人
+- 对官僚程序感到沮丧的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a public administration clerk?**
-答：For the 9th-level public recruitment, the annual pre-tax salary is about 24–30 million KRW, varying by class and allowances.
+**问：公共管理文员的起薪是多少？**
+答：第9级公开招聘，税前年薪约2400-3000万韩元，因等级和津贴而异。
 
-**问：Can foreigners work as public administration clerks?**
-答：Generally, civil service recruitment is limited to Korean nationals, making it difficult for foreigners. However, research or professional positions may be possible with F-2 or F-4 visas, but limited.
+**问：外国人能否担任公共行政文员？**
+答：通常，公务员招聘仅限于韩国国民，对外国人来说较为困难。不过，使用F-2或F-4签证可能担任研究或专业职位，但机会有限。
 
-**问：How do I get promoted?**
-答：Promotions are based on work performance, promotion exams, and completion of training. Passing the Higher Civil Service Exam allows for rapid advancement to a Grade 5 officer.
+**问：我如何获得晋升？**
+答：晋升基于工作表现、晋升考试和培训完成。通过高级公务员考试可快速晋升至5级官员。
 
 
 ---
@@ -145,12 +136,12 @@ Entry is mainly through the Grade 9 open competitive exam, and advancement to Gr
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/public-administration-clerk/KR)**

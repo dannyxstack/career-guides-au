@@ -4,8 +4,6 @@
 
 A skilled technical professional who welds, cuts, and assembles blocks that make up a ship's hull to construct large vessels.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A skilled technical professional who welds, cuts, and assembles blocks that make
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation assist and enhance welding and cutting processes in ship block assembly, but complex curved welding and quality judgment still rely on humans, so jobs will not be fully replaced.
-
 Entry-level welders can advance to intermediate assemblers, foremen, and process managers; those with over 10 years of experience at large shipyards can become technical supervisors.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Entry-level welders can advance to intermediate assemblers, foremen, and process
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Used for hiring unskilled shipbuilding workers; skilled workers can switch to E-7. |
-| Subclass E-7 (Specific Activities (E-7)) | For skilled ship assemblers, employer recommendation required. |
-| Subclass F-2 (Residence (F-2)) | After a certain period on E-7, can apply for permanent residency. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: You can advance from skilled worker to foreman or process manager, or obtain 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-assembler/KR)**

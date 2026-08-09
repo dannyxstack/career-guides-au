@@ -51,8 +51,6 @@ Responsible for planning, organizing, directing, and coordinating activities and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of a hairdressing and beauty salon manager is mixed: routine tasks like admin, scheduling, and bookings can be automated by AI, reducing costs; but creative services, client emotional connection, and team management remain human core strengths.
-
 Start as a hairdresser or beautician, progress to supervisor, store manager, then manager or business owner. Some move into training, product distribution, or chain management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Start as a hairdresser or beautician, progress to supervisor, store manager, the
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Typically requires several years of experience and management training. Can o
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdressing-and-beauty-salon-managers-and-proprietors/UK)**

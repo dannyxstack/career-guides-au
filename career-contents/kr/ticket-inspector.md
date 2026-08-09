@@ -4,8 +4,6 @@
 
 An employee who checks tickets or boarding passes and provides guidance at performance venues, stadiums, public transportation facilities, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -49,8 +47,6 @@ An employee who checks tickets or boarding passes and provides guidance at perfo
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Ticket examiners are rapidly losing jobs due to AI and automation technology (electronic gates, QR codes, mobile tickets). Simple repetitive tasks are being replaced, leading to a significant reduction in employment scale.
-
 Primarily employed as part-time or contract workers; can advance to site supervisor or facility management team with experience. Promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -88,15 +84,9 @@ Primarily employed as part-time or contract workers; can advance to site supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible to work as a ticket inspector with a non-professional employment visa, but limited through the Employment Permit System |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +130,12 @@ A: Possible to move to similar occupations such as facility management or inform
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ticket-inspector/KR)**

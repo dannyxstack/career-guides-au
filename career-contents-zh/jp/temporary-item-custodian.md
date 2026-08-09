@@ -1,10 +1,8 @@
-# Temporary Item Custodian 职业分析 · 日本
+# 临时物品保管员（Temporary Item Custodian）职业分析 · 日本
 
-**职业代码: 422 (JSCO)**
+**职业代码：422 (JSCO)**
 
-Workers who temporarily store and manage customer luggage at coin lockers or baggage storage in stations and commercial facilities.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在车站或商业设施的投币式储物柜或行李寄存处临时保管和管理客户行李的工作人员。
 
 
 ---
@@ -13,8 +11,8 @@ Workers who temporarily store and manage customer luggage at coin lockers or bag
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 不需要 | 不需要 | $0~$0（No educational background required; no special education needed.） |
-| 短期培训 | 1周 | $10,000~$50,000（Optional customer service or English training.） |
+| 不需要 | 不需要 | $0~$0（无需教育背景；无需特殊教育。） |
+| 短期培训 | 1周 | $10,000~$50,000（可选客户服务或英语培训。） |
 
 ---
 
@@ -22,18 +20,18 @@ Workers who temporarily store and manage customer luggage at coin lockers or bag
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| No special qualifications required. | — | 必备 | On-the-job training is sufficient. |
-| Customer Service Manners Certification | Japan Service Association | 可选 | Optional but advantageous in hiring |
-| EIKEN Grade 3 or higher | Eiken Foundation of Japan | 可选 | Useful for handling foreign customers. |
+| 无需特殊资格。 | — | 必备 | 在职培训就足够了。 |
+| 客户服务礼仪认证 | 日本服务协会 | 可选 | 非必需但招聘时具有优势 |
+| 英检三级或以上 | 日本英检基金会 | 可选 | 适用于处理外国客户。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 48,000. Demand is stable due to recovery in tourism, but employment is expected to remain flat or slightly decline due to trends toward labor saving and automation.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 48,000。由于旅游业复苏，需求稳定，但由于节省劳动力和自动化的趋势，就业预计将持平或略有下降。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ Workers who temporarily store and manage customer luggage at coin lockers or bag
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$3,200,000 | Mostly hourly wage; annual income is converted value. Part-time centered. |
-| Intermediate (3–7 years) | $3,000,000~$3,800,000 | Slight increase at leader level. |
-| Veteran (7+ years) | $3,500,000~$4,500,000 | Even managerial positions have limited salary increases. |
+| Beginner (0–3 years) | $2,500,000~$3,200,000 | 多为时薪；年收入为换算值。以兼职为主。 |
+| 中级（3-7年） | $3,000,000~$3,800,000 | 领导层略有增加。 |
+| 资深（7年以上） | $3,500,000~$4,500,000 | 即使是管理职位，薪资增长也有限。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the introduction of coin lockers and automatic check-in machines, human tasks are declining. Many tasks are being replaced by AI and automation.
+随着投币储物柜和自动值机设备的引入，人工任务正在减少。许多工作正被人工智能和自动化取代。
 
-In large facilities, mainly part-time or temporary workers. Accumulating experience can lead to managerial or leadership roles, but career scope is narrow.
+在大型设施中，主要是兼职或临时工。积累经验后可担任管理或领导职务，但职业范围狭窄。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Baggage storage and handover
-- Simple inquiries
-- Fee calculation and payment processing
+- 行李寄存与交接
+- 简单查询
+- 费用计算和支付处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Multilingual customer service
-- Customer complaint handling
-- Security management
+- 多语言客户服务
+- 客户投诉处理
+- 安全管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal service
-- Flexible response
-- Complaint handling
+- 人际服务
+- 灵活应对
+- 投诉处理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Foreign languages
-- IT literacy
-- Problem-solving skills
+- 外语
+- IT素养
+- 解决问题的能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Tourism
-- Cashless
-- Multilingual support
-- Automation
+- 旅游业
+- 无现金化
+- 多语言支持
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Accommodation & Food Service)) | Applicable in accommodation/food service, but not directly for temporary storage of items. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Difficult to obtain due to insufficient expertise. |
-| Subclass 技能実習 (Technical Intern Training (not applicable)) | Not applicable. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like interacting with others
-- People who are meticulous and good at organizing
-- People who are confident in their physical strength
+- 喜欢与人互动的人
+- 细致入微且善于组织的人
+- 对自己的体力有信心的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who are not good at standing work
+- 不擅长站立工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a temporary storage worker?**
-答：Hourly wage conversion yields annual income around 2.5 to 3.5 million JPY. Many are part-time, few are full-time.
+**问：临时仓储工人的平均年收入是多少？**
+答：按小时工资换算，年收入约为250万至350万日元。多为兼职，少数为全职。
 
-**问：How can foreigners do this job?**
-答：Currently not covered by Specified Skills. May be possible as a student part-time or under other statuses.
+**问：外国人如何从事这份工作？**
+答：目前不在特定技能范围内。可能以学生兼职或其他身份从事。
 
-**问：How to advance your career?**
-答：You can also polish your customer service skills and transition to the travel or hospitality industry.
+**问：如何晋升你的职业？**
+答：你还可以提升客户服务技能，转型到旅游或酒店行业。
 
 
 ---
@@ -145,12 +135,12 @@ In large facilities, mainly part-time or temporary workers. Accumulating experie
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/temporary-item-custodian/JP)**

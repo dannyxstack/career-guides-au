@@ -53,8 +53,6 @@ Prison officers supervise detainees, maintain prison safety and order, enforce r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of correctional officers and prison guards is primarily physical supervision and security monitoring. While AI and automation can take over some monitoring and paperwork, core human interaction and crisis management are hard to replace—a mixed outlook.
-
 Prison officers can be promoted to senior prison officers, department heads, or prison directors. They can also transition to social services, security management, or judicial administration roles through further education.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Prison officers can be promoted to senior prison officers, department heads, or 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult, as prison officers are usually civil service positions requir
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correctional-officer/DE)**

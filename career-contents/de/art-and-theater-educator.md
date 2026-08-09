@@ -53,8 +53,6 @@ Deliver art and drama education programs in museums, theatres, or schools to spa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tasks of arts and drama educators rely heavily on interpersonal interaction and creative improvisation, making them less likely to be fully replaced by AI; however, AI tools significantly enhance teaching efficiency in content generation, data analysis, and personalized learning paths, while reducing some clerical and data collection positions.
-
 Can be promoted from assistant educator to project lead, or transition to cultural management, art therapy, etc.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can be promoted from assistant educator to project lead, or transition to cultur
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: If teaching at a school, you need to pass the state teacher certification exa
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-and-theater-educator/DE)**

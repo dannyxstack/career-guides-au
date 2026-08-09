@@ -1,10 +1,8 @@
-# Secretary 职业分析 · 韩国
+# 秘书（Secretary）职业分析 · 韩国
 
-**职业代码: 02941 (KECO)**
+**职业代码：02941 (KECO)**
 
-A profession that manages the boss's work schedule, documents, calls, and performs office support tasks, responsible for efficient communication and administrative processing within the organization.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+管理老板的工作日程、文件、电话，执行办公室支持任务，负责组织内高效沟通和行政处理。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that manages the boss's work schedule, documents, calls, and perfor
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | 0年 | $0~$0（General high school diploma） |
-| Junior college (Office/Business Administration) | 2 年 | $7,000,000~$12,000,000（Public university standards） |
-| University (Business/Humanities) | 4年 | $16,000,000~$30,000,000（Public university standards） |
+| 高中毕业 | 0年 | $0~$0（普通高中文凭） |
+| 专科（办公/工商管理） | 2 年 | $7,000,000~$12,000,000（公立大学标准） |
+| 大学（商科/人文学科） | 4年 | $16,000,000~$30,000,000（公立大学标准） |
 
 ---
 
@@ -23,18 +21,18 @@ A profession that manages the boss's work schedule, documents, calls, and perfor
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Secretary Certification | Korea Secretarial Association | 可选 | Nationally recognized private certification, advantageous for employment |
-| Computer Proficiency (Level 1/2) | Korea Chamber of Commerce and Industry | 可选 | Proves document creation and spreadsheet skills |
-| English Proficiency (TOEIC 700+) | ETS | 可选 | Preferred by foreign companies |
+| 秘书认证 | Korea Secretarial Association | 可选 | 国家认可的私人认证，有利于就业 |
+| 计算机能力（1/2级） | 大韩商工会议所 | 可选 | 证明文档创建和电子表格技能 |
+| 英语能力（TOEIC 700+） | ETS | 可选 | 外企首选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. While some simple tasks may decrease due to digitalization and AI assistant technology, demand for high-level secretarial roles and trust-based interpersonal tasks is expected to remain.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。尽管数字化和AI辅助技术可能减少一些简单任务，但对高级秘书角色和基于信任的人际任务的需求预计将保持。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,97 +40,89 @@ A profession that manages the boss's work schedule, documents, calls, and perfor
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Small and medium-sized enterprise standards |
-| Mid-level (4–9 years) | $32,000,000~$42,000,000 | Including large corporations/executive secretaries |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Senior executive secretary/career |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 中小企业标准 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 包括大公司/行政秘书 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 高级执行秘书/职业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the development of AI secretary technology and automation tools, some tasks like scheduling and document creation are being replaced, putting pressure on the secretary role. However, high-level functions like strategic decision support and interpersonal coordination remain human domains.
+随着AI秘书技术和自动化工具的发展，日程安排和文档创建等部分任务正在被取代，给秘书岗位带来压力。然而，战略决策支持和人际协调等高层次功能仍是人类领域。
 
-Starting as a junior secretary, one can be promoted to middle manager secretary or executive secretary with experience, and some may transition to office managers or administrative specialists.
+从初级秘书开始，随着经验积累可晋升为中层经理秘书或执行秘书，部分人可转任办公室经理或行政专员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Scheduling
-- Phone handling
-- Document sorting and organizing
-- Basic data search
+- 日程安排
+- 电话处理
+- 文档分类与整理
+- 基本数据搜索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Meeting minutes and analysis
-- Data organization and report writing
-- Communication coordination
-- Providing business insights
+- 会议记录和分析
+- 数据整理与报告撰写
+- 沟通协调
+- 提供业务洞察
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust relationship with superiors
-- Situational judgment
-- Organizational political understanding
-- Emotional intelligence
+- 与上级的信任关系
+- 情境判断
+- 组织政治理解
+- 情商
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool proficiency
-- Data analysis
+- AI工具熟练度
+- 数据分析
 - 项目管理
-- Foreign language skills
+- 外语能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Office automation
-- Executive secretary
-- Secretary at foreign companies
-- Digital collaboration tools
+- 办公自动化
+- 执行秘书
+- 外企秘书
+- 数字协作工具
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can be issued at foreign companies as a professional secretary, educational and career conditions required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work as secretaries, no employment restrictions |
-| Subclass D-10 (Job-seeking) | Visa for secretary job-seeking, convertible to E-7 |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Organized and meticulous personality
-- Excellent communication skills
-- Proficient in multitasking
+- 有条理且细致入微的性格
+- 出色的沟通能力
+- 精通多任务处理
 
 **谁不适合**
-- Dislikes simple repetitive tasks
-- Stressed by interpersonal relationships
+- 不喜欢简单重复任务
+- 人际关系压力大
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a secretary?**
-答：For entry-level, it ranges from 24 to 30 million KRW, and can rise to 60 million KRW with experience. Executive secretaries at large corporations earn more.
+**问：秘书的平均工资是多少？**
+答：入门级为2400万至3000万韩元，有经验者可升至6000万韩元。大公司的高管秘书收入更高。
 
-**问：Can foreigners work as secretaries in Korea?**
-答：Yes, it's possible. Through an E-7 visa, they can work at foreign companies or in specialized fields, and Korean language proficiency is essential.
+**问：外国人能在韩国担任秘书吗？**
+答：是的，可能。通过E-7签证，他们可以在外国公司或专业领域工作，韩语熟练至关重要。
 
-**问：Can secretaries transition to other roles?**
-答：Yes, they can move to office management, HR, marketing, etc., and experience and certifications help.
+**问：秘书能否转岗到其他职位？**
+答：可以，他们可以转向办公室管理、人力资源、市场营销等职位，经验和认证有帮助。
 
 
 ---
@@ -150,12 +140,12 @@ Starting as a junior secretary, one can be promoted to middle manager secretary 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/secretary/KR)**

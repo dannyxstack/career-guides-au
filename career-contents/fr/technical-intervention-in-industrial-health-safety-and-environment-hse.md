@@ -53,8 +53,6 @@ Responsible for technical interventions for health, safety, and environment (HSE
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Standardized reporting and inspection tasks for environmental health officers will be automated by AI, but on-site enforcement, complex investigations, and public trust responsibilities remain human moats; overall outlook is mixed.
-
 You can be promoted from HSE Technician to HSE Engineer or Manager, or develop in risk management or sustainability directions. Experienced individuals can become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from HSE Technician to HSE Engineer or Manager, or develop i
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent) | Applicable to highly skilled talents, French employer sponsorship, valid for 4 years |
-| Subclass Salarié (Salarié) | Work residence permit requires employer sponsorship; valid for 1 year, renewable. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, high salary requirement (annual salary ≥ €53,836.50), fast-track residence |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Minimum BTS (high school + 2 years), Licence Pro, or Master of Engineering ar
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-intervention-in-industrial-health-safety-and-environment-hse/FR)**

@@ -50,8 +50,6 @@ A professional engineer who designs, installs, and maintains mechanical systems 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI (design optimization, predictive maintenance) automates some repetitive piping/structure calculations, but human experts are essential for safety judgment and accident response in high-temperature/high-pressure plants; full replacement is difficult.
-
 After building a career at a large EPC firm or design office, one can advance to a mid-sized plant company or overseas project PM, or specialize in mechanics, piping, rotating equipment, etc., and become a technical advisor.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After building a career at a large EPC firm or design office, one can advance to
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Available through mechanical engineering degree + 5 years experience + contract employment; preferred for skilled worker fields |
-| Subclass F-2-99 (Residence (Points-based)) | Convertible after meeting certain points during E-7 stay; pre-permanent residence stage |
-| Subclass D-10-2 (Job Seeking (Professional)) | For master's/doctorate-level job seekers, allows 6-month stay |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Not legally required, but Professional Mechanical Engineer or Mechanical Desi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plant-mechanical-engineer/KR)**

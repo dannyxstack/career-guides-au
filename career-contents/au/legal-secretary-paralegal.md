@@ -58,8 +58,6 @@ Paralegals and legal secretaries assist lawyers with legal documents, case manag
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
-
 Legal Operations is the fastest-growing emerging field in the legal industry in 2025; legal assistants with expertise in contract management technology and e-Discovery software command significantly higher salaries than traditional legal clerks. Legal assistant roles within in-house legal teams typically offer higher salaries than those at law firms.
 
 **Tasks most exposed to AI:**
@@ -116,9 +114,7 @@ Legal Operations is the fastest-growing emerging field in the legal industry in 
 | Subclass 189 (SkillSelect Independent) | Invitation-based, VETASSESS assessment |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -180,12 +176,13 @@ A: Both are mid-level migration difficulty; Conveyancers have slightly higher sa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretary-paralegal/AU)**

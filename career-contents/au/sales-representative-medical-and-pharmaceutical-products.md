@@ -53,8 +53,6 @@ Pharmaceutical sales representatives promote and sell pharmaceutical and medical
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Can advance from junior sales representative to senior representative, regional manager, or national sales manager; some move to marketing or product management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior sales representative to senior representative, regional 
 | Subclass 190 (Skilled Nominated Visa) | This occupation is on the CSOL and is eligible for state-nominated skilled migration applications. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Sponsored Provisional Visa, then transition to 191 permanent residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Progress to senior representative or regional manager through consistent perf
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representative-medical-and-pharmaceutical-products/AU)**

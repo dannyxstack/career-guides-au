@@ -1,8 +1,8 @@
-# Block Mason and Tiler 职业分析 · 日本
+# 砌块工和瓦工（Block Mason and Tiler）职业分析 · 日本
 
-**职业代码: 662 (JSCO)**
+**职业代码：662 (JSCO)**
 
-A construction skilled worker who finishes walls and floors using blocks and tiles. A specialized profession requiring precise dimensional control and beautiful finishes.
+使用砖块和瓷砖完成墙面和地面的建筑技工。需要精确尺寸控制和精美工艺的专业职业。
 
 
 ---
@@ -11,9 +11,9 @@ A construction skilled worker who finishes walls and floors using blocks and til
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational Training School (Construction Dept.) | 1~2年 | $200,000~$600,000（Public vocational training may be free） |
-| Specialized School (Architecture Dept.) | 2 年 | $1,500,000~$2,500,000（Tuition estimate） |
-| High School (Industrial Dept.) | 3年 | $300,000~$500,000（Public high school case） |
+| 职业培训学校（建筑系） | 1~2年 | $200,000~$600,000（公共职业培训可能免费） |
+| 专门学校（建筑系） | 2 年 | $1,500,000~$2,500,000（学费估算） |
+| 高中（工业科） | 3年 | $300,000~$500,000（公立高中案例） |
 
 ---
 
@@ -21,18 +21,18 @@ A construction skilled worker who finishes walls and floors using blocks and til
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Block Building Skill Certification (Grades 1–3) | Central Vocational Ability Development Association (JAVADA) | 可选 | National qualification under the skill testing system |
-| Tile Laying Skill Certification (Grades 1–3) | Central Vocational Ability Development Association (JAVADA) | 可选 | National qualification under the skill testing system |
-| Construction Worker Safety and Health Education | Construction Industry Labor Accident Prevention Association | 可选 | May be required for site entry |
+| 积木搭建技能认证（1-3级） | 中央职业能力发展协会（JAVADA） | 可选 | 技能测试体系下的国家资格 |
+| 瓷砖铺设技能认证（1-3级） | 中央职业能力发展协会（JAVADA） | 可选 | 技能测试体系下的国家资格 |
+| 建筑工人安全与健康教育 | 建筑业劳动事故预防协会 | 可选 | 可能需用于入场 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 130,000. Labor shortages persist throughout the construction industry, with particularly high demand for skilled workers. Stable work is expected in both new construction and renovations.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 130,000。整个建筑行业持续劳动力短缺，熟练工人需求尤其高。新建和翻新工程都预期有稳定工作。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,96 +40,89 @@ A construction skilled worker who finishes walls and floors using blocks and til
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,800,000~$3,800,000 | Annual salary example, including overtime |
-| Intermediate (3–10 years) | $4,000,000~$5,500,000 | Stable income as a skilled worker |
-| Advanced (10+ years) | $5,500,000~$8,000,000 | Further increase as foreman or independent business owner |
+| Beginner (0–3 years) | $2,800,000~$3,800,000 | 年薪示例，包括加班费 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 作为技术工人的稳定收入 |
+| 高级（10年以上） | $5,500,000~$8,000,000 | 进一步晋升为工头或独立创业者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and robotics automation is difficult in this field; instead, AI is used for construction management and quality inspection efficiency. Skilled craftsmanship remains important, with AI supplementing to improve productivity.
+该领域难以实现AI和机器人自动化；相反，AI用于施工管理和质量检查以提高效率。熟练工艺仍然重要，AI辅助提升生产力。
 
-Start as an apprentice, obtain skill certification to become a mid-level worker. Advancement to foreman, site supervisor, or independent business ownership is possible.
+从学徒开始，获取技能认证成为中级工人。可晋升为工头、现场主管或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple block laying (e.g., monotonous straight-line work)
-- Automatic tile cutting (increasingly mechanized)
-- Marking (replaced by laser marking devices)
-- Transport and preparation of materials
+- 简单的砌块（例如单调的直线工作）
+- 自动瓷砖切割（日益机械化）
+- 标记（已由激光标记设备取代）
+- 材料运输与准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based quality inspection for tile setting (crack detection)
-- Safety confirmation of high-altitude work using drones
-- Construction simulation using VR
-- Accurate layout through BIM integration
+- 基于AI的瓷砖铺贴质量检测（裂缝检测）
+- 使用无人机进行高空作业的安全确认
+- VR建筑模拟
+- 通过BIM集成实现精准布局
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex curved or highly decorative tile setting
-- Interfacing and fine adjustments with existing buildings
-- Judgment in coordination among workers
-- Direct communication with clients
+- 复杂弯曲或高装饰性瓷砖铺设
+- 与现有建筑的接口和微调
+- 工作人员之间的协调判断
+- 直接与客户沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced tiling skills (Japanese and Western styles)
-- Basic knowledge of BIM and CAD
-- Safety management and on-site leadership
-- Communication skills (customer relations)
+- 高级贴砖技能(日式和西式)
+- BIM和CAD基础知识
+- 安全管理与现场领导
+- 沟通技巧（客户关系）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renovation demand
-- Exterior tile work
-- Concrete block walls
-- Seismic reinforcement
+- 翻新需求
+- 外墙瓷砖作业
+- 混凝土砌块墙
+- 抗震加固
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Specified Skilled Worker (i) in construction. Requires skills and Japanese language exams. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when engaging in technical or knowledge-based work as a professional at a construction company. |
-| Subclass 技能実習（建設関係） (Technical Intern Training (i), (ii), (iii)) | Program to transfer skills in block laying and tile setting to home country. Max 5 years. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength and good at detailed work
-- People who like manufacturing and can pursue accuracy
-- People comfortable with outdoor and high-place work
+- 体力充沛、擅长细致工作的人
+- 喜欢制造并追求精度的人
+- 适应户外和高空作业的人
 
 **谁不适合**
-- People not confident in physical strength
-- People not good at repetitive simple tasks
+- 对体力不自信的人
+- 不擅长重复性简单任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income for block laying and tile setting workers?**
-答：Depending on experience and region, typical ranges are: entry-level 2.8-3.8 million yen, mid-level 4-5.5 million yen, senior-level 5.5-8 million yen. Self-employment can yield higher income.
+**问：砌砖和瓷砖铺设工人的年收入是多少？**
+答：根据经验和地区，典型范围：入门级280-380万日元，中级400-550万日元，高级550-800万日元。自雇可获更高收入。
 
-**问：What visa is needed for foreigners to work in this occupation in Japan?**
-答：Specified Skilled Worker (i) (Construction field) or Technical Intern Training is common. Engineer/Specialist in Humanities/International Services visa is possible, but Specified Skilled Worker is suitable for onsite construction work.
+**问：外国人在日本从事该职业需要什么签证？**
+答：特定技能工人（i）（建筑领域）或技能实习通常适用。人文/国际服务领域的工程师/专家签证也可能，但对于现场施工工作，特定技能工人更合适。
 
-**问：What qualifications are needed for career advancement?**
-答：National certifications such as Block Construction Technician or Tile Setting Technician are useful. Also, safety and health education in the construction industry is mandatory.
+**问：职业晋升需要哪些资质？**
+答：国家资格如砌块施工技师或瓷砖铺设技师很有用。另外，建筑行业安全健康教育是强制性的。
 
 
 ---
@@ -147,12 +140,12 @@ Start as an apprentice, obtain skill certification to become a mid-level worker.
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/block-mason-and-tiler/JP)**

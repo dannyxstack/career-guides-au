@@ -1,8 +1,8 @@
-# Other Transport, Cleaning, Packaging Workers 职业分析 · 日本
+# 其他运输、清洁、包装工人（Other Transport, Cleaning, Packaging Workers）职业分析 · 日本
 
-**职业代码: 739 (JSCO)**
+**职业代码：739 (JSCO)**
 
-A broad support role in logistics and manufacturing, including product transport, packing, and cleaning in factories and warehouses.
+在物流和制造业中的广泛支持角色，包括工厂和仓库中的产品运输、包装和清洁。
 
 
 ---
@@ -11,8 +11,8 @@ A broad support role in logistics and manufacturing, including product transport
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education (Junior High School) | 6年 | $0~$0（For public schools） |
-| Vocational Training School (Warehouse/Logistics Course) | 1年 | $300,000~$600,000（Public vocational training may be free） |
+| 义务教育（初中） | 6年 | $0~$0（公立学校用） |
+| 职业培训学校（仓库/物流课程） | 1年 | $300,000~$600,000（公共职业培训可能免费） |
 
 ---
 
@@ -20,18 +20,18 @@ A broad support role in logistics and manufacturing, including product transport
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training | Ministry of Health, Labour and Welfare designated training center | 可选 | Essential for warehouse work |
-| Hazardous Materials Handler (Class B) | Fire and Disaster Management Agency | 可选 | Advantageous for handling chemical substances |
-| Slinging Skills Training | Ministry of Health, Labour and Welfare designated training center | 可选 | Required for crane operations |
+| 叉车操作技能培训 | 厚生劳动省指定培训中心 | 可选 | 仓库工作必备 |
+| 危险品处理员（B级） | 消防与灾害管理局 | 可选 | 处理化学物质时有利 |
+| 吊装技能培训 | 厚生劳动省指定培训中心 | 可选 | 操作起重机所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 2,100,000. Labor shortages persist due to increased logistics demand from e-commerce expansion, but AI and automation are progressing. A designated field under Specified Skilled Worker.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 2,100,000。由于电子商务扩张导致物流需求增加，劳动力短缺持续存在，但人工智能和自动化正在推进。特定技能下的指定领域。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,90 +39,83 @@ A broad support role in logistics and manufacturing, including product transport
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,800,000~$3,500,000 | Approx. ¥1,200 per hour |
-| Intermediate (4–7 years) | $3,500,000~$4,500,000 | Increases with skills and qualifications |
-| Advanced (8+ years) | $4,500,000~$6,000,000 | Higher for management or special skills |
+| Beginner (0–3 years) | $2,800,000~$3,500,000 | 约每小时1,200日元 |
+| 中级（4-7年） | $3,500,000~$4,500,000 | 随技能和资质增加 |
+| 高级（8年以上） | $4,500,000~$6,000,000 | 管理层或特殊技能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Due to AI and automation, simple tasks like sorting and packaging are decreasing. However, flexibility and adaptive decision-making for diverse situations still depend on humans, making complete replacement difficult.
+由于AI和自动化，分拣、包装等简单任务正在减少。但针对多样化情况的灵活性和适应性决策仍依赖人类，因此完全替代较难。
 
-Easy to enter without experience, but obtaining forklift and hazardous materials licenses helps career advancement.
+无经验者容易入门，但获得叉车和危险品许可证有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Picking and sorting products
-- Routine packaging
-- Cleaning in warehouses
+- 分拣产品
+- 常规包装
+- 仓库清洁
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring and troubleshooting automation systems
-- Operating inventory management systems
+- 监控和故障排除自动化系统
+- 操作库存管理系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Adaptive decision-making ability
-- Experiential knowledge to detect abnormalities on site
+- 适应决策能力
+- 现场检测异常的经验性知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of machinery such as forklifts
-- Basic knowledge of inventory management systems
-- Communication skills
+- 操作叉车等机械
+- 库存管理系统基础知识
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics/warehousing
-- E-commerce logistics
-- Automation/robotics
-- Cold/refrigerated storage
+- 物流/仓储
+- 电商物流
+- 自动化/机器人技术
+- 冷库/冷藏存储
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (includes building cleaning, food service, manufacturing, etc., but since main job is 'other', may be ineligible)) | Available if covered by a specified industrial field. However, 'other transport, cleaning, packaging, etc.' is not eligible, so 'building cleaning' or 'molding/machinery/electrical/electronic information-related manufacturing' are closer. |
-| Subclass 技能実習2号 (Technical Intern Training (manufacturing, etc.)) | Engage in work requiring certain skilled techniques. Possible up to 3 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge. Unsuitable for simple tasks. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People who don't mind simple tasks
-- People who value teamwork
+- 体力充沛的人
+- 不介意简单任务的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who dislike physical labor
-- People who get bored easily with monotonous work
+- 不喜欢体力劳动的人
+- 容易对单调工作感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income?**
-答：Starting at around ¥2.8 million in the first year, ¥3.5-4.5 million for intermediate level, and over ¥6 million for management or special skills.
+**问：平均年收入是多少？**
+答：第一年起薪约280万日元，中级350-450万日元，管理或特殊技能超过600万日元。
 
 **问：外国人能否从事此职业？**
-答：You can work if the job falls under a field covered by Specified Skilled Worker (i) (e.g., building cleaning, manufacturing). However, 'other transportation, cleaning, packaging, etc.' is not covered, so you need to confirm if the actual job type qualifies.
+答：如果工作属于特定技能工人(i)涵盖的领域（例如建筑清洁、制造），则可以工作。但'其他运输、清洁、包装等'不在覆盖范围内，因此需确认实际工作类型是否符合条件。
 
-**问：How can I advance my career?**
-答：Common paths include obtaining qualifications like forklift licenses or hazardous materials handler certificates, and promotion to team leader or management positions.
+**问：如何提升我的职业生涯？**
+答：常见路径是获得叉车执照或危险品处理员证书等资格，并晋升为团队负责人或管理职位。
 
 
 ---
@@ -140,12 +133,12 @@ Easy to enter without experience, but obtaining forklift and hazardous materials
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-transport-cleaning-packaging-workers/JP)**

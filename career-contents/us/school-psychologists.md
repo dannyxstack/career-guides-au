@@ -51,8 +51,6 @@ School psychologists diagnose and intervene in educational, behavioral, or devel
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on school psychologists is mixed: automated assessment and report generation will compress some tasks, but interpersonal counseling, crisis intervention, and personalized intervention design are enhanced by AI assistance.
-
 Usually start as school psychologists, can advance to senior psychologist, program coordinator, or district supervisor, or move into private practice or university research positions.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually start as school psychologists, can advance to senior psychologist, progr
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or a bachelor's degree plus 5 years of experience; can apply through PERM |
 | Subclass Green Card (PERM) (PERM Labor Certification) | School sponsors green card; must prove unable to find qualified US workers |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a specialist degree or master's plus additional coursework
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-psychologists/US)**

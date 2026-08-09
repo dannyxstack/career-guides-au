@@ -52,8 +52,6 @@ Human resources and industrial relations officers research and analyze data, adv
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-HR Managers face mixed impacts from AI: tasks like recruitment screening and payroll calculations are automated away, but strategic decision-making, employee relations, and compliance responsibilities are amplified, requiring a shift to tech-savvy HR leadership.
-
 Career progression: Junior HR Specialist → HR Manager → HR Director. Can further develop into specialized areas such as labour relations, organizational development, or compensation and benefits.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression: Junior HR Specialist → HR Manager → HR Director. Can fur
 | Subclass Graduate (Graduate visa) | Available to UK university graduates, allows working in the UK for 2 years (3 years for PhDs) to gain experience before switching to a work visa. |
 | Subclass Global Talent (Global Talent visa) | Not applicable; HR is not a leadership or technical field. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes, requires employer sponsorship with annual salary no less than £26,200. 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-and-industrial-relations-officers/UK)**

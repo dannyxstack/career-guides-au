@@ -53,8 +53,6 @@ Procurement and Inventory Control Officers manage supply chain activities, inclu
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly optimize procurement processes, but core negotiation and supplier relationship management still rely on humans; low-value procurement tasks are easily replaced, while strategic procurement roles gain value, overall mixed outlook.
-
 Career progression: start as junior procurement or inventory clerk, advance to buyer, inventory supervisor, then procurement manager or supply chain manager. Some professionals accelerate promotion through certifications (e.g., SCMP).
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression: start as junior procurement or inventory clerk, advance to b
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: medium-low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Some positions require visiting suppliers or attending industry exhibitions, 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-and-inventory-control-workers/CA)**

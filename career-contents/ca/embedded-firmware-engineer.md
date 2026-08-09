@@ -51,8 +51,6 @@ Embedded/firmware engineers develop underlying software on microcontrollers and 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI greatly empowers embedded/firmware engineers to automate low-level coding and debugging, freeing up focus on system architecture, hardware interface innovation, and security, but caution is needed regarding AI's ability to automatically generate conventional firmware.
-
 Edge AI, functional security, and device security have become hot topics in Canada, with firmware engineers skilled in low-level debugging and real-time constraints scarce; AI-generated prototypes, but the hardware still relies on people at its core.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Edge AI, functional security, and device security have become hot topics in Cana
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Provincial nomination bonus points channel |
 | Subclass GTS (Global Talent Pass) | Global Talent Stream: Two-week expedited work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow Canada's
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embedded-firmware-engineer/CA)**

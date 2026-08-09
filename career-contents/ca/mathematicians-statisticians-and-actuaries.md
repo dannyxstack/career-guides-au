@@ -52,8 +52,6 @@ Mathematicians, statisticians, and actuaries in Canada use mathematical and stat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
-
 Junior analysts can advance to senior statisticians or actuarial managers, with some transitioning to data science or risk management. Actuaries must pass a series of exams for certification and can become chief actuaries or partners.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior analysts can advance to senior statisticians or actuarial managers, with 
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Meet the conditions for Federal Skilled Worker or Canadian Experience Class, obtain permanent residence through Express Entry |
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and BC, give priority invitations to math and statistics talent |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's degree in actuarial science or a related fiel
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematicians-statisticians-and-actuaries/CA)**

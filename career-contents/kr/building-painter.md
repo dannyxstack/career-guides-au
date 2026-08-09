@@ -4,8 +4,6 @@
 
 A skilled professional who applies paint and coatings to interior and exterior surfaces of buildings to finish them, performing painting work at new construction and renovation sites.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A skilled professional who applies paint and coatings to interior and exterior s
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-With the introduction of automated painting robots and AI color matching systems, simple repetitive tasks are decreasing, but complex curved surface work and on-site custom adjustments still rely on human technicians, making complete replacement by AI difficult.
-
 Typically start as the newest member or assistant on site, after 3–5 years become a foreman, then can advance to owner of a painting company or site manager; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Typically start as the newest member or assistant on site, after 3–5 years bec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Simple functional worker in construction, eligible through Employment Permit System, convertible to E-7-1 based on skill level |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Requires over 5 years of experience and certification as a skilled worker, eligible for long-term stay |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage after long-term stay such as E-7-1, no activity restrictions |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Possible, but having certification is advantageous for employment and wage ne
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-painter/KR)**

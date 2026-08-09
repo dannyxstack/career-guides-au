@@ -51,8 +51,6 @@ Cooks prepare and cook food in restaurants, hotels and cafés. Australia has a l
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
-
 Requires Certificate III/IV in Commercial Cookery and a TRA assessment; career can progress to Chef and Head Chef roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Requires Certificate III/IV in Commercial Cookery and a TRA assessment; career c
 | Subclass 491 (Skilled Work Regional) | Regional area bonus points, more opportunities |
 | Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Yes. Cook (351411) is on the STSOL; Cert III/IV plus a TRA assessment is requ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook/AU)**

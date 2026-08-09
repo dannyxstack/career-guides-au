@@ -49,8 +49,6 @@ A rehabilitation engineering technician is a professional who designs, develops,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI helps optimize assistive device design and data analysis, but patient-specific fabrication and adaptive evaluation remain the domain of human experts. Overall, the risk of AI replacement is low, and its role will be more of a work aid.
-
 Initially, technicians perform tasks such as manufacturing and evaluating assistive devices, and with experience, they can advance to positions like rehabilitation engineering center director, research lab team leader, or university professor.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Initially, technicians perform tasks such as manufacturing and evaluating assist
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employment visa for professional rehabilitation engineering personnel. Eligible if degree and experience requirements are met. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, advantageous for long-term stay. |
-| Subclass F-5 (Permanent Residence) | Long-term residence then eligible for permanent residence application. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: A national license as an orthotist/prosthetist is mandatory, and having a pri
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rehabilitation-engineering-technician/KR)**

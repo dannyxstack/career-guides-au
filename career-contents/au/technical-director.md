@@ -53,8 +53,6 @@ Responsible for overseeing technical production in film, stage, or broadcast pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of arts officers, producers, and directors will undergo profound AI-driven changes: low-level coordination and simple editing are automated, but core skills like creative decision-making, resource integration, and actor direction become more valuable due to AI tools. Entry pathways narrow; existing professionals need to transition into AI curators.
-
 Typically start from technical positions like lighting and sound, accumulate experience, then advance to technical director, and further to production manager or creative director.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start from technical positions like lighting and sound, accumulate exp
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Temporary visa with regional state sponsorship, transfer to 191 permanent visa. |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence, needs to be on the state occupation list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires 5-7 years of experience in relevant technical roles, such 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-director/AU)**

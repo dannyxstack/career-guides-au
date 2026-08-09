@@ -51,8 +51,6 @@ Supports daily life of elderly and disabled persons, assisting with meals, bathi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Care work is centered on interpersonal support, making full AI replacement difficult, but administrative tasks like record-keeping and shift scheduling are being streamlined by AI/robots. In the future, physical assistance from care robots is expected to expand.
-
 Even beginners can obtain qualifications. Career advancement via Certified Care Worker license. Path to facility director or care manager also open.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Even beginners can obtain qualifications. Career advancement via Certified Care 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Care)) | Status of residence for care work. Requires N4 Japanese proficiency and completion of initial care worker training. Valid for 5 years. |
-| Subclass 介護 (Care Worker Visa) | Status of residence equivalent to Engineer/Specialist in Humanities/International Services. Requires Certified Care Worker qualification. Renewable. |
-| Subclass 技能実習 (Technical Intern Training (Care)) | Acquire care skills under the Technical Intern Training Program. Max 5 years. Aim to contribute in home country after return. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtaining the Certified Care Worker qualification is common. Accumulate exper
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-care-worker/JP)**

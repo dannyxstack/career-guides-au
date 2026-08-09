@@ -52,8 +52,6 @@ Floor layers and tile layers install and repair various types of flooring materi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on floorers and tilers is more about enhancement than replacement: AI-driven measurement, cutting optimization, and project management tools can significantly improve efficiency and accuracy, but core skills like manual laying, leveling, and pattern design still rely on human experience and judgment.
-
 Entry-level workers can gain experience through apprenticeships and progress to skilled tradespeople or foremen. Experienced workers can start their own business or move into project management roles, overseeing floor installation on large construction sites.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level workers can gain experience through apprenticeships and progress to 
 | Subclass General Employment P (General Employment Permit) | Applies to non-EEA workers; requires a job offer with annual salary ≥ €30,000 (2023 standard). |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer within multinational enterprises; must work at the parent company for at least 6 months. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can progress from apprentice to advanced technician, then to foreman or proje
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-layer-and-tile-setter/IE)**

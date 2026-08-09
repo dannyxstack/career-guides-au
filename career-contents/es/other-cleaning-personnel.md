@@ -4,8 +4,6 @@
 
 Responsible for cleaning and maintaining the sanitary environment of buildings, public places, or facilities, including window cleaning, sweeping, garbage collection, etc., which belong to basic service industry positions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for cleaning and maintaining the sanitary environment of buildings, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The cleaning industry is significantly affected by AI automation. Due to the widespread adoption of robotic cleaning and IoT scheduling systems, many simple repetitive tasks will be replaced, and low-skilled positions face the risk of shrinkage.
-
 You can be promoted to cleaning supervisor or property manager, or through training, transition to professional cleaning (such as industrial cleaning) or start a business.
 
 **Tasks most exposed to AI:**
@@ -96,15 +92,9 @@ You can be promoted to cleaning supervisor or property manager, or through train
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Requires employer sponsorship; job vacancy verified by national employment office; lower threshold but limited quotas. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +138,12 @@ A: You can be promoted to cleaning supervisor, property manager, or transition t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-cleaning-personnel/ES)**

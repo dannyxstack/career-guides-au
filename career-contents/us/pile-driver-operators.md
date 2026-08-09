@@ -54,8 +54,6 @@ Operate pile drivers mounted on skids, barges, crawlers, or truck cranes to driv
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pile driver operator roles face AI automation compression risk; although physical operations are hard to replace in the short term, task planning, monitoring, and adjustment can be optimized by AI, reducing job demand.
-
 Entry-level operators typically gain experience through apprenticeships, advancing to senior operator or foreman, or obtaining a crane operator certificate to expand career paths; some eventually become construction supervisors.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level operators typically gain experience through apprenticeships, advanci
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | For temporary non-agricultural workers, but with strict quotas and need to prove labor shortage. |
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals/Other Workers) | Skilled migration green card requires PERM labor certification, but employer sponsorship is difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually only need high school diploma, then complete 3-4 year apprenticeship 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pile-driver-operators/US)**

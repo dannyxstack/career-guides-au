@@ -51,8 +51,6 @@ Landscape architects design outdoor spaces such as parks, gardens, and urban pla
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Starting from entry-level, can advance to project manager, team leader, or partner. Senior professionals can specialize in ecological restoration or urban design, or start their own business. Continuous professional development is the norm.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting from entry-level, can advance to project manager, team leader, or partn
 | Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, requires a job offer, usually with an annual salary of at least €30,000, and must pass a labor market test |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU individuals, with an annual salary of at least 1.5 times the general level (approx. €40,000) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must be registered as a Chartered Landscape Architect with the Irish Landscap
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-architect/IE)**

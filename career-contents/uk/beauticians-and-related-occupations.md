@@ -54,8 +54,6 @@ Beauticians and related workers provide facial and body beauty treatments, makeu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on beauticians is mixed: some repetitive tasks (e.g., skin analysis, inventory management) will be automated, but core tactile services, personalized creativity, and interpersonal trust cannot be replaced; instead, AI assists in improving efficiency and outcomes.
-
 Career progression: from junior beautician to senior beautician, beauty consultant, or transition into salon management, trainer, product representative, etc. Some choose to open their own salon.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression: from junior beautician to senior beautician, beauty consulta
 | Subclass Graduate (Graduate visa) | Graduates with relevant degrees can stay and work in the UK for 2 years after graduation, but beauticians typically do not require a university degree. |
 | Subclass Global Talent (Global Talent visa) | Applicable to those with outstanding achievements in the beauty field, but opportunities are very limited. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress from junior beautician to senior beautician, salon manager, trai
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beauticians-and-related-occupations/UK)**

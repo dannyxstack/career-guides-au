@@ -55,8 +55,6 @@ Guard prisoners in prisons or correctional institutions according to regulations
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of correctional officers and prison guards is primarily physical supervision and security monitoring. While AI and automation can take over some monitoring and paperwork, core human interaction and crisis management are hard to replace—a mixed outlook.
-
 the career path typically starts from entry-level correctional officer, gaining experience to advance to sergeant, deputy captain, or patrol supervisor; some transition to federal systems or become investigators or probation officers.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ the career path typically starts from entry-level correctional officer, gaining 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Minimum requirement: high school diploma; some states require an associate de
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correctional-officers-and-jailers/US)**

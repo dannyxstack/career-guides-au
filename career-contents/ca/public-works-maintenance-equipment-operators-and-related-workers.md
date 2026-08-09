@@ -53,8 +53,6 @@ Operate and maintain public works equipment, such as street sweepers, snowplows,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Municipal maintenance equipment operators primarily perform repetitive, routine tasks such as sweeping, snow removal, and garbage compaction. With autonomous driving and robotics technology maturing, job demand in this role is significantly reduced. Entry-level positions are decreasing, but new roles involving operation and maintenance of smart equipment may emerge, requiring enhanced technical skills.
-
 Can advance from operator to senior operator, supervisor, or equipment trainer; with experience, can transition to heavy equipment operation or municipal management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from operator to senior operator, supervisor, or equipment trainer; 
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, but the position usually requires proof of local labour shortage |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Qualifies under NOC Category B, but requires a high comprehensive score to meet the mark |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Classified as NOC TEER 2 (Type B), eligible for Express Entry or PNP, but req
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-works-maintenance-equipment-operators-and-related-workers/CA)**

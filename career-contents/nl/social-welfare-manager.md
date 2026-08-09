@@ -4,8 +4,6 @@
 
 Social Welfare Managers plan, organize, direct, and control the operations of social welfare programs, typically working in public or private agencies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Social Welfare Managers plan, organize, direct, and control the operations of so
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will reshape the role of social welfare managers, automating administrative and data processing tasks while enhancing core responsibilities like strategic decision-making, stakeholder coordination, and personalized service delivery.
-
 Can progress from frontline social worker to team leader, program director, and eventually senior management; requires accumulated management experience and continuing education.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can progress from frontline social worker to team leader, program director, and 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers, must be with an approved employer; annual salary threshold approx. €5,314/month (over 30 years old) |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requiring higher education and work contract; annual salary threshold approx. €5,331/month. |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates from Dutch or world top 200 universities, allowing a free one-year work period in the Netherlands |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Typically requires a bachelor's degree in social work or a related field (HBO
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-welfare-manager/NL)**

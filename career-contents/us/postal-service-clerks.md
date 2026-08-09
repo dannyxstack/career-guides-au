@@ -54,8 +54,6 @@ Performs various tasks at U.S. Post Office, such as accepting letters and parcel
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Postal service clerk jobs are severely threatened by AI automation; many routine tasks can be replaced by machines, significantly reducing positions.
-
 Limited promotion path, can advance from clerk to supervisor or postmaster. Mostly requires many years of experience or internal exams.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Limited promotion path, can advance from clerk to supervisor or postmaster. Most
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Limited. Can advance to supervisor or postmaster, but requires internal exams
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-service-clerks/US)**

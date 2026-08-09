@@ -52,8 +52,6 @@ Responsible for developing production plans, work sequences, and manufacturing p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will massively automate tasks such as quality monitoring, production scheduling, and document generation, but engineers still have advantages in complex decision-making, cross-department coordination, and compliance responsibilities. Job roles are shifting toward higher-value analysis.
-
 Can progress from junior quality engineer to senior planning engineer, quality manager, or production manager. With experience, can transition to supply chain management or operations management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior quality engineer to senior planning engineer, quality m
 | Subclass Global Talent (Global Talent visa) | For top talents with outstanding achievements in engineering. No salary requirement, eligible for direct permanent residency. |
 | Subclass Graduate (Graduate visa) | Allows graduates who have completed a bachelor's degree or higher in the UK to work in the UK for 2 years (3 years for PhDs), and can use this to gain experience and switch to a Skilled Worker visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: AI can automate data analysis and optimization tasks, but complex decisions, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-control-and-planning-engineers/UK)**

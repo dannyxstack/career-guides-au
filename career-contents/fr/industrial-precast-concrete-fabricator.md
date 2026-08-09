@@ -4,8 +4,6 @@
 
 Precast concrete components such as beams, columns, and slabs are manufactured in a factory environment, using molds, rebar, and concrete pouring equipment to ensure product quality meets standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Precast concrete components such as beams, columns, and slabs are manufactured i
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial precast concrete workers face risks of AI automation compression. Repetitive tasks such as mold assembly, pouring, and inspection within factories can be replaced by robotic systems and computer vision, but on-site anomaly handling and customization still require manual labor.
-
 Junior workers can be promoted to senior operators or team leaders through experience, and may further develop into quality control technicians or production managers. Continuously learning new technologies can enhance your professional competitiveness.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Junior workers can be promoted to senior operators or team leaders through exper
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | Employees employed by French companies must obtain a work permit. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to high-skilled or in-demand occupations, with lenient conditions. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: This occupation is not considered a priority immigration occupation; third-co
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-precast-concrete-fabricator/FR)**

@@ -1,10 +1,8 @@
-# President of University and Dean of College 职业分析 · 韩国
+# 大学校长和学院院长（President of University and Dean of College）职业分析 · 韩国
 
-**职业代码: 01324 (KECO)**
+**职业代码：01324 (KECO)**
 
-As the highest decision-maker of a university, oversees overall education, research, and administration, leading the development of university plans and external relations. It is a senior management position.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+作为大学的最高决策者，负责监督整体教育、研究和行政管理，领导大学发展规划和对外关系。属于高级管理职位。
 
 
 ---
@@ -13,8 +11,8 @@ As the highest decision-maker of a university, oversees overall education, resea
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Doctoral degree | 5年 | $50,000,000~$99,999,999（Based on national/public university tuition; private universities may be higher） |
-| Professor experience | 15 years | $0~$0（Requires professor career after appointment; no additional education costs） |
+| 博士学位 | 5年 | $50,000,000~$99,999,999（基于国立/公立大学学费；私立大学可能更高） |
+| 教授经验 | 15年 | $0~$0（任命后需具有教授职业生涯；无额外教育费用） |
 
 ---
 
@@ -22,17 +20,17 @@ As the highest decision-maker of a university, oversees overall education, resea
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professor appointment qualifications | Individual university | 必备 | Doctoral degree and research achievements required |
-| University president election qualifications | Individual university charter | 必备 | Professor career and administrative career required |
+| 教授任命资格 | 个别大学 | 必备 | 需博士学位及研究成果 |
+| 大学校长选举资格 | 大学章程 | 必备 | 教授职业和行政职业要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 700. Due to the decline in the school-age population, university restructuring is underway, and the number of president/dean positions is expected to decrease. Some national flagship universities and private universities will maintain them, but new demand is limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 700。因学龄人口减少，大学重组进行中，校长/院长职位预计减少。部分国立旗舰大学和私立大学将保留，但新需求有限。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,93 +38,86 @@ As the highest decision-maker of a university, oversees overall education, resea
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $80,000,000~$99,999,999 | Based on entry-level professor; president is much higher |
-| Mid (4-10 years) | $99,999,999 | Includes administrative professors |
-| 资深（10年以上） | $99,999,999 | President/dean have separate compensation, varying by university size |
+| 入门级（0-3年） | $80,000,000~$99,999,999 | 基于入门级教授；校长更高 |
+| 中级（4-10年） | $99,999,999 | 包括行政教授 |
+| 资深（10年以上） | $99,999,999 | 校长/院长有单独薪酬，因大学规模而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI supports administrative efficiency and data-driven decision-making, but the president's leadership and external negotiation/vision establishment are difficult to replace. The ability to utilize AI as a tool will become important.
+AI支持行政效率和数据驱动决策，但总裁的领导力、外部谈判与愿景构建难以替代。将AI作为工具使用的能力将变得重要。
 
-Typically, professors go through positions such as department head, dean, and vice president before being elected or appointed. The term is generally 4 years for a single term. Political and financial capabilities are becoming important.
+通常，教授需经过系主任、院长、副校长等职位，再经选举或任命产生。任期一般为4年一届。政治和财务能力日益重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing standardized administrative reports
-- Basic data analysis tasks
+- 撰写标准化行政报告
+- 基础数据分析任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Financial forecasting and simulation
-- Establishing educational policies through student performance analysis
-- Preparing materials for external negotiations
+- 财务预测与模拟
+- 通过学生表现分析制定教育政策
+- 准备外部谈判材料
 
-**人类护城河:**
+**人类护城河：**
 
-- Building internal and external trust
-- Fostering organizational culture
-- Leadership in crisis situations
-- Human relationship networking
+- 建立内部和外部信任
+- 培育组织文化
+- 危机情况下的领导力
+- 人际关系网络
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Utilizing AI-based decision-making support
-- Change management capabilities
-- Understanding digital transformation
+- 数据素养
+- 利用基于AI的决策支持
+- 变革管理能力
+- 理解数字化转型
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Declining school-age population
-- University Restructuring
-- Maintaining a National University Status
-- Financial Soundness
+- 学龄人口下降
+- 大学重组
+- 维持国立大学地位
+- 财务稳健性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign professors/researchers may be eligible, but president-level is practically impossible |
-| Subclass F-2 (F-2 (Residence)) | Possible only for permanent residents, but realistically difficult |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with Outstanding Leadership and Vision
-- Person with extensive education and administrative experience
-- Politically and financially savvy person
+- 具有卓越领导力和远见的人
+- 具有丰富教育和行政经验的人员
+- 政治和财务精明的人
 
 **谁不适合**
-- Those who want to focus on personal research
-- People not interested in organizational management
+- 希望专注于个人研究的人
+- 对组织管理不感兴趣的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual salary of a university president?**
-答：Public university presidents typically earn 200-300 million KRW, while private universities may pay over 500 million KRW, but this varies greatly depending on the university's size and financial status.
+**问：大学校长的年薪是多少？**
+答：公立大学校长通常年薪2-3亿韩元，私立大学可能超过5亿韩元，但根据大学规模和财务状况差异很大。
 
-**问：Can a foreigner become a university president in Korea?**
-答：Theoretically possible, but most universities only select Korean nationals, making it virtually impossible. You can obtain an E-7 visa as a research professor, etc.
+**问：外国人能在韩国成为大学校长吗？**
+答：理论上可能，但大多数大学只选拔韩国国民，因此实际上几乎不可能。你可以以研究教授等身份获得E-7签证。
 
-**问：What is the typical path to becoming a university president?**
-答：After being appointed as a professor, it is common to hold positions such as department head, dean, or vice president before running for president of the university.
+**问：成为大学校长的典型路径是什么？**
+答：被任命为教授后，通常先担任系主任、院长或副校长等职务，然后竞选大学校长。
 
 
 ---
@@ -144,12 +135,12 @@ Typically, professors go through positions such as department head, dean, and vi
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/president-of-university-and-dean-of-college/KR)**

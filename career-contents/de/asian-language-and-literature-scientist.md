@@ -51,8 +51,6 @@ Professionals engaged in Asian language and literature research, teaching, and t
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on Asian language literature scholars is mixed: machine translation and text analysis tools can automate some translation and basic literature review, but deep cultural interpretation, critical research, and cross-cultural communication still require human experts, leading to structural changes in job demand.
-
 Career progression typically starts as a research assistant or lecturer, advancing to professor or senior researcher. It can also lead to applied fields such as cross-cultural training, translation, or international business.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression typically starts as a research assistant or lecturer, advanci
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a job offer from an employer and a position related to your qualification, suitable for university or research institution roles. |
 | Subclass Job Seeker (Job Seeker Visa) | Permits stay in Germany for 6 months to seek employment; requires degree and proof of financial means. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: Eligible via EU Blue Card (requires meeting annual salary threshold) or skill
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asian-language-and-literature-scientist/DE)**

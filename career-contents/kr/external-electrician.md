@@ -51,8 +51,6 @@ An external electrician is a specialized technical professional who installs and
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI cannot fully replace the field work of outside electricians, some tasks such as design automation, remote inspection, and material management may be reduced by AI tools. Overall, AI impact is limited, and safety and on-site judgment are critical for this occupation.
-
 Promotion path: entry-level starts as field assistant → intermediate (technician) → advanced (site manager/technical engineer) → manager (safety management/design). Obtaining certificates like Electrical Engineer or Industrial Engineer is advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Promotion path: entry-level starts as field assistant → intermediate (technici
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be brought under the Employment Permit System; quotas exist for the electrical work sector |
-| Subclass E-7 (Specific Activities (E-7)) | Targeted at skilled workers; available for those holding electrical construction technical certifications |
-| Subclass F-2 (Residence (F-2)) | Points-based permanent residence; no employment restrictions for long-term stays |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Steady demand is expected due to aging power infrastructure and expansion of 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/external-electrician/KR)**

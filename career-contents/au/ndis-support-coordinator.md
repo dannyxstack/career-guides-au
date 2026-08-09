@@ -53,8 +53,6 @@ NDIS Support Coordinators help participants understand and implement their NDIS 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-NDIS support coordinators will not be replaced by AI; instead, AI tools (e.g. automated document processing, data analysis, service matching) will amplify their capabilities and efficiency. However, continuous learning of digital tools is needed to stay competitive.
-
 Pathway: Support Coordinator → Specialist Support Coordination → Team Leader. Those familiar with the NDIS Price Guide and plan implementation processes are more competitive.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Pathway: Support Coordinator → Specialist Support Coordination → Team Leader
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Generally not; it is not on the skilled migration list and is a locally emplo
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ndis-support-coordinator/AU)**

@@ -1,8 +1,8 @@
-# Fruit Tree Cultivator 职业分析 · 韩国
+# 果树栽培者（Fruit Tree Cultivator）职业分析 · 韩国
 
-**职业代码: 90131 (KECO)**
+**职业代码：90131 (KECO)**
 
-Professionals who cultivate and manage fruit trees such as apples, pears, and grapes for harvest. They perform tasks including fertilization, pesticide spraying, pruning, harvesting, and sorting.
+种植和管理苹果、梨、葡萄等果树以获得收获的专业人员。他们执行施肥、喷洒农药、修剪、采摘和分拣等工作。
 
 
 ---
@@ -11,8 +11,8 @@ Professionals who cultivate and manage fruit trees such as apples, pears, and gr
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Return-to-Farming·Basic Farming Training | 6 months | $500,000~$2,000,000（Korea National University of Agriculture and Fisheries·Local Government Farming School Programs） |
-| Specialized Technical Course | 2 年 | $1,000,000~$5,000,000（Agricultural Specialized High School·College Programs） |
+| 返乡务农·基础农业培训 | 6个月 | $500,000~$2,000,000（韩国国立农业大学·地方政府农业学校项目） |
+| 专业技术课程 | 2 年 | $1,000,000~$5,000,000（农业专科高中·大学课程） |
 
 ---
 
@@ -20,18 +20,18 @@ Professionals who cultivate and manage fruit trees such as apples, pears, and gr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Agricultural Machinery Operator | Human Resources Development Service of Korea | 可选 | Preferred for tractor and cultivator operation |
-| Organic Agriculture Technician | Human Resources Development Service of Korea | 可选 | Advantageous for eco-friendly cultivation |
-| GAP (Good Agricultural Practices) Certification | Agricultural Products Quality Management Service | 可选 | Mandatory for export farms |
+| 农业机械操作员 | 韩国人力资源开发服务局 | 可选 | 优先考虑拖拉机和耕耘机操作 |
+| 有机农业技术员 | 韩国人力资源开发服务局 | 可选 | 有利于生态友好型种植 |
+| GAP（良好农业规范）认证 | 农产品质量管控服务 | 可选 | 出口农场强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Recruitment difficulties persist due to aging population and labor shortages, but productivity is expected to improve through mechanization and smart farm adoption. This field relies heavily on foreign seasonal workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于人口老龄化和劳动力短缺，招聘困难持续存在，但通过机械化和智能农业的采用，生产力有望提高。该领域严重依赖外籍季节工。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,85 @@ Professionals who cultivate and manage fruit trees such as apples, pears, and gr
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $22,000,000~$28,000,000 | Includes seasonal/temporary work, early career |
-| Intermediate (4–7 years) | $28,000,000~$35,000,000 | Skilled in pruning and harvesting, regular employment |
-| Advanced (8+ years) | $35,000,000~$45,000,000 | Proficient in orchard management and mechanization |
+| Beginner (0–3 years) | $22,000,000~$28,000,000 | 包括季节性/临时工作、早期职业 |
+| 中级（4-7年） | $28,000,000~$35,000,000 | 精通修剪和采摘，长期雇佣 |
+| 高级（8年以上） | $35,000,000~$45,000,000 | 精通果园管理和机械化 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 很低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：很低（★☆☆☆☆）**
 
-AI and automation replace some tasks such as harvesting robots, drone pest control, and smart irrigation, but tasks requiring precise judgment like pruning and sorting still rely heavily on human skill. AI plays a supporting role in labor-intensive tasks, and full automation is limited.
+AI和自动化替代了一些任务，如收割机器人、无人机病虫害防治和智能灌溉，但修剪和分拣等需要精确判断的任务仍高度依赖人类技能。AI在劳动密集型任务中起辅助作用，全自动化有限。
 
-After 5–10 years of farming experience, one may become an independent farm owner or advance to smart farm manager after completing training. Entry via return-to-farming programs is also common.
+经过5-10年农业经验后，可成为独立农场主或完成培训后晋升为智慧农场经理。通过归农计划入行也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple weeding
-- Irrigation and fertigation automation
-- Drone pesticide spraying
+- 简单除草
+- 灌溉与施肥自动化
+- 无人机农药喷洒
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Harvest timing decisions (AI analysis)
-- Pest and disease diagnosis (image recognition)
-- Smart farm remote control
+- 收获时机决策（AI分析）
+- 病虫害诊断（图像识别）
+- 智慧农场远程控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Tree pruning sense
-- Harvest sorting know-how
-- On-site judgment in response to climate
+- 树木修剪感觉
+- 收获分拣知识
+- 应对气候的现场判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart farm operation
-- Use of drones and ICT
-- Export quarantine and GAP certification
+- 智慧农场运营
+- 无人机和ICT的使用
+- 出口检疫与GAP认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fruit cultivation
-- Smart farm
-- Export expansion
-- Eco-friendly certification
+- 水果种植
+- 智能农业
+- 出口扩张
+- 生态友好认证
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (Agriculture)) | Foreign workers in agriculture under EPS, stay of 4.8-9.8 months |
-| Subclass E-7 (Specific Activities (Smart Farm Experts)) | Highly skilled fruit tree cultivators, stay of over 1 year |
-| Subclass F-2 (Residence/Permanent Residence) | Long-term stay possible through points-based immigration |
-| Subclass 계절근로 (Seasonal Worker (C-4-E)) | Short-term employment of 3-5 months, concentrated during harvest |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy outdoor physical activity
-- People who are nature-friendly and patient
-- People interested in small self-employment
+- 喜欢户外体力活动的人
+- 热爱自然且有耐心的人
+- 对个体经营感兴趣的人
 
 **谁不适合**
-- People who prefer regular office work
-- People sensitive to pesticide/fertilizer odors
+- 喜欢常规办公室工作的人
+- 对农药/化肥气味敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting annual salary for a fruit tree cultivator?**
-答：Approximately 22-28 million KRW for beginners, and for seasonal work, around 100,000-150,000 KRW per day.
+**问：果树种植者的平均起薪是多少？**
+答：初学者约2200-2800万韩元，季节性工作每天约10-15万韩元。
 
-**问：Can foreigners work as fruit crop growers?**
-答：Yes, it is possible with E-9 (Non-professional Employment) and Seasonal Worker visas, and smart farm technicians are eligible for E-7.
+**问：外国人可以当水果种植者吗？**
+答：可以，通过E-9（非专业就业）和季节工签证，智能农场技术员符合E-7资格。
 
-**问：Is there a promotion path for fruit crop growers?**
-答：After 5-10 years of experience, one can grow into an independent farm owner or smart farm manager, and completing a return-to-farming training is advantageous.
+**问：水果种植者有晋升路径吗？**
+答：经过5-10年经验，可以成长为独立农场主或智能农场经理，完成返乡务农培训有利。
 
 
 ---
@@ -143,12 +135,12 @@ After 5–10 years of farming experience, one may become an independent farm own
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fruit-tree-cultivator/KR)**

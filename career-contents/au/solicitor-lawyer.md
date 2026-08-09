@@ -56,8 +56,6 @@ A Solicitor provides clients with legal advice, contract drafting, dispute resol
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
-
 Technology Law and AI regulatory advisory are the fastest-growing specialisations in the Australian legal industry in 2025, with major tech companies and government agencies urgently seeking technology lawyers. The Privacy Act 2025 reforms are driving strong demand for data privacy lawyers.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Technology Law and AI regulatory advisory are the fastest-growing specialisation
 | Subclass 189 (SkillSelect Independent) | Invitation-based; VETASSESS assessment applies (note that Australian legal qualification recognition is relatively complex) |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: The migration pathway for accountants is more established (MLTSSL + CPA/CAANZ
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solicitor-lawyer/AU)**

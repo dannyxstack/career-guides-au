@@ -52,8 +52,6 @@ Embedded/firmware engineers develop underlying software on microcontrollers and 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI greatly empowers embedded/firmware engineers to automate low-level coding and debugging, freeing up focus on system architecture, hardware interface innovation, and security, but caution is needed regarding AI's ability to automatically generate conventional firmware.
-
 Edge AI, functional safety, and device security have become hot topics in New Zealand, with firmware engineers skilled in low-level debugging and real-time constraints in short supply; AI-generated prototypes, but the hardware still relies on people at its core.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Edge AI, functional safety, and device security have become hot topics in New Ze
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer-sponsored work visa |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category: Points-based skilled migration residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow New Zeal
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embedded-firmware-engineer/NZ)**

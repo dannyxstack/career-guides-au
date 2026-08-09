@@ -56,8 +56,6 @@ Responsible for planning, organizing, and managing the daily operations of a goa
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can progress from farm worker or assistant to farm owner, or expand to multi-farm groups, or move into agricultural consulting or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Can progress from farm worker or assistant to farm owner, or expand to multi-far
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 | Subclass 491 (Skilled Work Regional (Provisional) visa) | State/territory nomination, requires working in a regional area, eligible for 191 visa |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Can progress from farm worker to supervisor, then to farm owner, or expand to
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/goat-farmer/AU)**

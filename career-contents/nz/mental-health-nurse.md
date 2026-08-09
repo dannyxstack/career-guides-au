@@ -52,8 +52,6 @@ Mental health nurses in New Zealand assess, treat and support patients with ment
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the efficiency of mental health nurses' assessments and record-keeping, but core therapeutic relationships, clinical judgment, and crisis intervention are hard to replace; entry-level roles see slightly lower barriers due to AI tools simplifying processes, but demand for advanced roles is growing.
-
 Enrolled nurses can advance to clinical nurse specialists, nurse managers, or mental health practitioners. Further education (e.g., graduate diploma) can broaden career paths into education, research, or advanced practice roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Enrolled nurses can advance to clinical nurse specialists, nurse managers, or me
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Under the 6-point system, registered nurses accumulate points based on qualifications, experience, etc., and apply for residency upon reaching 6 points |
 | Subclass AEWV (Accredited Employer Work Visa) | If residency conditions are not met, can obtain a temporary work visa through an accredited employer, then transfer to residency after 2 years of work (Green List T2 pathway) |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must complete a recognized nursing degree (or equivalent), English test (IELT
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mental-health-nurse/NZ)**

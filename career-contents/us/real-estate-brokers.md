@@ -54,8 +54,6 @@ Real estate agents represent clients in buying, selling, or leasing properties, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Career can start from sales assistant, then obtain a broker license and accumulate client resources, advancing to team supervisor, office manager, and eventually opening an independent brokerage firm.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career can start from sales assistant, then obtain a broker license and accumula
 | Subclass EB-2 (Employment-Based Second Preference) | Need to prove position requires advanced degree or exceptional ability, usually not applicable. |
 | Subclass EB-3 (Employment-Based Third Preference) | Very few employer sponsorship cases, but require PERM labor certification and difficult market testing. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Typically obtain a salesperson license first, work for a few years, then pass
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-brokers/US)**

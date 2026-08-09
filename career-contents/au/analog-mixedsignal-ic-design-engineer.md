@@ -53,8 +53,6 @@ Analog/mixed-signal IC design engineers design analog and digital-analog hybrid 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
-
 By 2026, demand for power management, sensor signal chains, and RF front-end is strong, and analog engineers with transistor-level design, layout, and process understanding are the most scarce. AI provides minimal help in simulation design; experience, intuition, and manual optimization are irreplaceable.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ By 2026, demand for power management, sensor signal chains, and RF front-end is 
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Electronic Engineering (233411) is on the immigration list and can be ta
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/analog-mixedsignal-ic-design-engineer/AU)**

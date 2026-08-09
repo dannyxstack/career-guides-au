@@ -54,8 +54,6 @@ Out-of-school care workers care for school-age children before and after school 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The daily care and routine homework supervision tasks of after-school caregivers are nearly fully automatable, but emotional companionship and safety supervision responsibilities are difficult to replace by AI. Overall, the occupation risk is moderate, leaning more towards being enhanced by AI tools rather than replaced.
-
 Career progression paths are limited; may advance from assistant to supervisor or coordinator, or move into early childhood education or community services management. Holding relevant childcare qualifications can improve competitiveness, but senior roles are scarce.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career progression paths are limited; may advance from assistant to supervisor o
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Formal qualifications are not mandatory, but holding a children's services ce
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/out-of-school-hours-care-worker/NZ)**

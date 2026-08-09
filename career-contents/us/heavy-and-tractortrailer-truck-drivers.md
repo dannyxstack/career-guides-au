@@ -53,8 +53,6 @@ Drives tractor-trailer combinations or trucks with a gross vehicle weight of at 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Typically starts as a light truck driver, gains experience, obtains a CDL Class A license, can advance to fleet supervisor, safety trainer, or independent contractor; some move into logistics management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically starts as a light truck driver, gains experience, obtains a CDL Class 
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Used for temporary non-agricultural work, but H-2B visa for truck drivers is difficult to obtain; must prove labor shortage and impact on US workers. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Very few employer sponsorships as the occupation's low requirements make PERM labor certification difficult |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Very difficult. This occupation typically does not meet H-1B specialty occupa
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-and-tractortrailer-truck-drivers/US)**

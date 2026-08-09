@@ -4,8 +4,6 @@
 
 Legal secretaries provide administrative support in law firms or legal departments, including document management, client communication, scheduling, and drafting legal documents.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Legal secretaries provide administrative support in law firms or legal departmen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
-
 Career progression can advance from junior secretary to senior secretary or office manager; some may further train to become a legal assistant or lawyer.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Career progression can advance from junior secretary to senior secretary or offi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Requires university degree and high salary; legal secretaries typically do not meet the income threshold. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Requires employer sponsorship, annual quotas, typically for non-EU workers; legal secretary occupation is uncommon on the quota lists. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit required, employer to apply, proving no suitable EU candidate available. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Can progress from junior to senior secretary or office manager, or become a l
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretary/IT)**

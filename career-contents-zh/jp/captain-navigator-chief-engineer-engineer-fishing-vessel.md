@@ -1,10 +1,8 @@
-# Captain, Navigator, Chief Engineer, Engineer (Fishing Vessel) 职业分析 · 日本
+# 船长、领航员、轮机长、轮机员（渔船）（Captain, Navigator, Chief Engineer, Engineer (Fishing Vessel)）职业分析 · 日本
 
-**职业代码: 482 (JSCO)**
+**职业代码：482 (JSCO)**
 
-Marine engineer responsible for commanding fishing operations, navigation planning, and engine management as captain, navigator, chief engineer, or engineer on a fishing vessel.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+轮机员，负责在渔船上担任船长、航海员、轮机长或工程师，指挥捕捞作业、规划航行并管理发动机。
 
 
 ---
@@ -13,8 +11,8 @@ Marine engineer responsible for commanding fishing operations, navigation planni
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Fisheries high school / Marine high school | 3年 | $0~$3,000,000（Free tuition at public high schools; approximately 1 million JPY per year at private schools.） |
-| Obtain mariner's license (navigation/engineering) | 1 to 3 years | $500,000~$2,000,000（Available through training institutions or correspondence courses.） |
+| 渔业高中/海事高中 | 3年 | $0~$3,000,000（公立高中免学费；私立高中每年约100万日元。） |
+| 取得船员执照（航海/轮机） | 1至3年 | $500,000~$2,000,000（可通过培训机构或函授课程获得。） |
 
 ---
 
@@ -22,18 +20,18 @@ Marine engineer responsible for commanding fishing operations, navigation planni
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| First-Class Mariner (Navigation) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | National qualification required for captain |
-| First-Class Mariner (Engineering) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | National qualification required for chief engineer |
-| Second-Class Mariner (Navigation) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | National qualification required for navigator |
+| 一等航海员（航海） | 国土交通省 | 必备 | 船长所需国家资质 |
+| 一等轮机员（工程） | 国土交通省 | 必备 | 轮机长所需国家资格 |
+| 二级航海员（航行） | 国土交通省 | 必备 | 国家资格，需导航员持有 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. The fishery industry faces a serious labor shortage, especially with the ongoing decline in young fishers. While automation and labor-saving technologies are advancing, demand remains strong for experienced captains and engineers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。渔业面临严重的劳动力短缺，尤其是年轻渔民持续减少。虽然自动化和省力化技术不断进步，但对经验丰富的船长和工程师的需求依然强劲。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,142 +39,134 @@ Marine engineer responsible for commanding fishing operations, navigation planni
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,500,000 | Starting salary for navigator/engineer, varies with catch |
-| Mid-level (4-10 years) | $4,500,000~$7,000,000 | First mate / First engineer class |
-| Senior (11 years or more) | $7,000,000~$12,000,000 | Captain/Chief engineer, with additional bonuses based on catch |
+| 入门级（0-3年） | $3,000,000~$4,500,000 | 领航员/工程师起薪，随渔获量变化 |
+| 中级（4-10年） | $4,500,000~$7,000,000 | 大副/一等轮机员 |
+| 高级（11年及以上） | $7,000,000~$12,000,000 | 船长/轮机长，根据渔获量获得额外奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is limited. While automated navigation and advanced fish finders are progressing, fishing operations require judgment based on weather and sea conditions, making human experience indispensable. However, efficiency is improving through catch data analysis and automated navigation assistance.
+AI和自动化影响有限。虽然自动导航和高级鱼探仪在进步，但渔业作业需根据天气和海况判断，人类经验不可或缺。不过，通过渔获数据分析和自动导航辅助，效率正在提高。
 
-Career advancement from navigator to captain, and from engineer to chief engineer. There is also a path to fishing master or fleet leader, with potential promotion to management positions in fisheries cooperatives or fishery companies.
+从导航员到船长，从工程师到总工程师的职业晋升。还有成为渔船长或船队领导人的路径，有可能晋升为渔业合作社或渔业公司的管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic steering during regular voyage
-- AI analysis for fish detection
-- Automation of institutional monitoring
+- 常规航行中的自动转向
+- 鱼类检测的AI分析
+- 机构监控自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-Assisted Catch Forecasting
-- Collision avoidance alert for safe navigation
-- Fuel Efficiency Optimization System
+- AI辅助渔获预测
+- 安全导航的碰撞避免警报
+- 燃油效率优化系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Li
-- Ah
+- 李
+- 啊
 - Ru
-- Ta
+- 塔
 - i
-- mu
-- of
-- Sea
-- Condition
-- judgment
-- No
+- μ
+- /
+- 海洋
+- 条件
+- 判断力
+- 否
 - , 
-- Fishery
-- Venue
-- Selected
-- Select
-- of
+- 渔业
+- 场地
+- 已选
+- 选择
+- /
 - 经理
-- test
-- Rule
+- 测试
+- 规则
 - ,
-- Ride
-- Group
-- 員
-- of
-- Control
-- Rate
-- Power
+- 骑乘
+- 群体
+- 员
+- /
+- 控制
+- 比率
+- 电力
 - ,
-- Urgent
-- Urgent
-- h
-- の
+- 紧急
+- 紧急
+- 小时
+- 的
 - 即时
-- Apply
-- Skill
-- Power
-- na
-- Do
+- 申请
+- 技能
+- 电力
+- 不适用
+- 做
 - ,
-- Person
-- apartment
-- of
+- 人员
+- 公寓
+- /
 - 一般
-- Total
-- Judgment
-- Break
-- Power
+- 总计
+- 判断力
+- 休息
+- 电力
 - が
 - Hori
-- .
+- 。
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Mastering Smart Fishing Technology
+- 掌握智能捕鱼技术
 - 数据分析技能
-- Leadership and Crisis Management Skills
-- Knowledge of electronic control systems for engines
+- 领导力与危机管理技能
+- 发动机电子控制系统知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fishing Industry Labor Shortage
-- Smart Fisheries
-- Securing Fishing Vessel Crew
-- Foreign Technical Intern Trainee
+- 渔业劳动力短缺
+- 智慧渔业
+- 确保渔船船员
+- 外国技术实习生
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技能 (Skilled Worker Visa) | Applies to foreign cooks etc., but since fishery workers are excluded, this is not a common route. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fishery)) | Target occupation of Specified Skilled Worker (i) in fishery field, but since captains and navigators require advanced qualifications, entry is mainly assumed as fishery crew. |
-| Subclass 技能実習 (Technical Intern Training (Fishery)) | Possible to do 3-5 years of internship in fishery. However, cannot become captain or chief engineer. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with physical strength and mental fortitude to endure sea duty
-- People interested in operating machinery and electronic equipment
-- People who can adapt to long-term life aboard
+- 需要体力和毅力承受海上勤务的人
+- 对操作机械和电子设备感兴趣的人
+- 能适应长期海外生活的人
 
 **谁不适合**
-- People who easily get bored
-- People who cannot endure long periods of solitude
+- 容易厌倦的人
+- 无法忍受长时间独处的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a fishing vessel captain?**
-答：Depending on experience and catch, a mid-size fishing vessel captain earns about 7-12 million yen annually. Years with good catches yield even more.
+**问：渔船船长的年收入是多少？**
+答：视经验和渔获量而定，中型渔船船长年收入约700-1200万日元。收成好的年份收入更高。
 
-**问：What visa does a foreigner need to become a captain of a Japanese fishing vessel?**
-答：Currently, captains and chief engineers are not eligible for technical intern training or Specified Skilled Worker visas. They also have low applicability for highly skilled professional or Engineer/Specialist in Humanities/International Services visas, making it extremely difficult for foreigners to work in these roles. Training as fishery crew or Specified Skilled Worker (i) (Fisheries) is possible, but they cannot hold senior positions.
+**问：外国人要成为日本渔船船长需要什么签证？**
+答：目前，船长和轮机长不符合技术实习或特定技能工人签证资格。高技能专业人员或工程师/人文/国际服务签证的适用性也较低，外国人从事这些职位极其困难。可作为渔业船员或特定技能工人（i）（渔业）培训，但不能担任高级职位。
 
-**问：Please tell me the path to career advancement.**
-答：Navigator (3rd Class → 2nd Class → 1st Class) → Captain, or Engineer (3rd Class → 2nd Class → 1st Class) → Chief Engineer. There is also a path to Fishing Master, Fleet Commander, or management positions in fishing companies on land.
+**问：请告诉我职业晋升的路径。**
+答：驾驶员（三级→二级→一级）→船长，或轮机员（三级→二级→一级）→轮机长。还有通往渔业船长、船队指挥官或渔业公司陆地管理职位的路径。
 
 
 ---
@@ -194,12 +184,12 @@ Career advancement from navigator to captain, and from engineer to chief enginee
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/captain-navigator-chief-engineer-engineer-fishing-vessel/JP)**

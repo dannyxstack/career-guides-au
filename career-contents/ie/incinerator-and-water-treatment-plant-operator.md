@@ -51,8 +51,6 @@ Responsible for monitoring and operating incinerators and water treatment equipm
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
-
 Can progress from junior operator to senior operator or supervisor, and through certification move into environmental compliance or operations management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior operator to senior operator or supervisor, and through 
 | Subclass General Employment P (General Employment Permit) | Applicable for this occupation, must meet labor market test and salary threshold (annual salary ≥ 30,000 euros). |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list, applicants are eligible with an annual salary of at least €32,000 and no labor market test required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, can advance to senior operator, supervisor, or move into environmental c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/incinerator-and-water-treatment-plant-operator/IE)**

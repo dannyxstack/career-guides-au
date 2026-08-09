@@ -53,8 +53,6 @@ In Ireland, traditional and complementary medicine associate professionals assis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some tasks of traditional and complementary medicine assistant professionals are easily automated by AI (such as case records and information retrieval), but core diagnosis and treatment rely on patient trust and personalized palpation. AI serves more as a supplementary tool to enhance non-invasive assessment and knowledge management.
-
 Career advancement paths are limited; usually, higher-level certifications are obtained through accumulated experience and further study, with a few transitioning to independent practice or teaching/training.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career advancement paths are limited; usually, higher-level certifications are o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Although not mandatory, registration with the Irish Association of Complement
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-associate-professional/IE)**

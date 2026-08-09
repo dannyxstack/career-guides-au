@@ -4,8 +4,6 @@
 
 Top administrators who oversee or assist curriculum, staff management, and school operations in middle/high schools. Also handle student guidance and external relations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Top administrators who oversee or assist curriculum, staff management, and schoo
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace the unique leadership, interpersonal, and decision-making tasks of principals and vice-principals. However, administrative tasks (scheduling, document analysis, data-driven decision-making) can be streamlined with AI.
-
 Teacher (certified) → Head Teacher → Vice Principal (qualification training + promotion) → Principal (principal qualification training + appointment). Requires at least 20 years of teaching experience, and selection is based on career evaluation separate from the teacher recruitment exam.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Teacher (certified) → Head Teacher → Vice Principal (qualification training 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-1 (Visiting Professor) | May be used for inviting foreign education experts, but virtually impossible for principal/vice principal positions (reserved for locals) |
-| Subclass F-2 (Residence (F-2)) | Long-term residents before permanent residency; no hiring restrictions for principal/vice principal positions, but actual cases are extremely rare. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Teacher (10+ years) → Head teacher → Vice principal qualification trainin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/principal-and-vice-principal-of-middle-high-schools/KR)**

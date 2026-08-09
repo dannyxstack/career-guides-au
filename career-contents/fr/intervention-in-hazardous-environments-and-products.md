@@ -4,8 +4,6 @@
 
 Conducts inspection, cleaning, and maintenance in toxic, radioactive, and biohazardous environments to ensure safety and compliance. Fields involving nuclear industry, chemical engineering, asbestos removal, and other sectors require wearing protective equipment and using specialized equipment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Conducts inspection, cleaning, and maintenance in toxic, radioactive, and biohaz
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will have a mixed impact on hazardous materials removal workers: remote sensing and robots can replace some high-risk identification and cleanup tasks, but strict regulations, on-site judgment, and physical operation requirements remain core human advantages.
-
 You can be promoted from technician to team leader or safety expert, or through continuing education to move into radiation protection or industrial health and safety. Some experienced candidates may transition to trainers or inspectors.
 
 **Tasks most exposed to AI:**
@@ -101,18 +97,9 @@ You can be promoted from technician to team leader or safety expert, or through 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | For high-skilled positions with higher education (Bac+3 or above), an annual salary of at least 53,000 euros is required. |
-| Subclass Passeport Talent (Talent Passport) | For professionals such as engineers or experts, the contract period is at least one year, and no labor permit is required. |
-| Subclass Salarié (Salarié Work Permit) | Must be sponsored by a French employer and approved by the Labor Bureau (shortage occupations can be simplified). |
-| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, valid for one year, to find targeted jobs. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +140,12 @@ A: Academic credentials must be accredited through the ENIC-NARIC center, and su
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/intervention-in-hazardous-environments-and-products/FR)**

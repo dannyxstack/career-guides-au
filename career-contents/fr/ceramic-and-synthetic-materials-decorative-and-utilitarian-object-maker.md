@@ -4,8 +4,6 @@
 
 This profession involves designing and handcrafting ceramic and synthetic decorative items (such as vases and sculptures) and practical items (such as tableware and lighting). The work includes modeling, firing, glazing, and processing synthetic resins, commonly found in studios, small workshops, or the art and design field.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ This profession involves designing and handcrafting ceramic and synthetic decora
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist with design generation and automate processes, but handcrafted creativity and unique tactile sensations are hard to replace; The entry barrier has been lowered due to the widespread adoption of AI tools, but the value of high-end customization has actually increased.
-
 Career development usually starts as an apprentice or assistant, and after accumulating skills, one can independently create and establish a personal brand; Experienced individuals can be promoted to studio supervisor, craft mentor, or move into roles such as art director or design consultant.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career development usually starts as an apprentice or assistant, and after accum
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for foreigners with outstanding talent or international recognition in the fields of arts and crafts, who must provide portfolios and project plans. |
-| Subclass Salarié (Employee) | If employed by a French workshop or company, you can apply for employment-based residence, which requires the employer to provide a CDI contract and meet the salary requirements. |
-| Subclass Recherche emploi (Job Search) | Graduates can apply for a one-year job search visa to find handicraft-related positions. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You can grow from an apprentice to an independent craftsman, or transition to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ceramic-and-synthetic-materials-decorative-and-utilitarian-object-maker/FR)**

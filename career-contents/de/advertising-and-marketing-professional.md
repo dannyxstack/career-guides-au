@@ -51,8 +51,6 @@ Advertising and marketing specialists plan, execute and monitor marketing activi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will reshape the task structure for advertising and marketing assistant professionals: routine tasks such as basic data analysis, report generation, and client communication face automation, but creative strategy, client insight, and AI tool application skills will be enhanced.
-
 Entry-level positions like marketing assistant or advertising copywriter can advance to marketing manager or brand manager, then to marketing director or chief marketing officer. Professional certifications and cross-industry experience aid career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level positions like marketing assistant or advertising copywriter can adv
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for marketing professionals with recognized German qualifications or professional certifications |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job search visa, suitable for candidates with stronger profiles. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically start as marketing assistants or specialists, advance to manager or
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-marketing-professional/DE)**

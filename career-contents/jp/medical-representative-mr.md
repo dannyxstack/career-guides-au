@@ -4,8 +4,6 @@
 
 A professional who bridges medical institutions and pharmaceutical companies through drug information provision and sales activities. Requires medical knowledge and communication skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who bridges medical institutions and pharmaceutical companies thr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not replace MR tasks but enhance them through data analysis and efficiency in customer information management. Face-to-face information provision and trust-building remain human roles.
-
 After joining a pharmaceutical company, deepen knowledge through OJT and external training, with career paths to senior/manager positions or headquarters roles leveraging expertise.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ After joining a pharmaceutical company, deepen knowledge through OJT and externa
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and work experience. Applicable for MR roles at pharmaceutical companies. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (No applicable field)) | MR is not eligible for Specified Skilled Worker, so normal route is impossible. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: Obtaining certified MR status, moving to marketing, or getting an MBA can bro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-representative-mr/JP)**

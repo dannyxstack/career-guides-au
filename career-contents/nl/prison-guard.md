@@ -4,8 +4,6 @@
 
 Prison guards are responsible for supervising inmates, maintaining prison security and order, conducting searches and patrols, and ensuring prison facilities operate normally.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Prison guards are responsible for supervising inmates, maintaining prison securi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Patrol, monitoring, and other tasks of prison guards can be optimized by AI, but critical safety decisions, physical force control, and humanized communication are difficult to automate, presenting a 'mixed' situation overall.
-
 Prison guards can progress from junior officer to senior officer, supervisor, or specialist roles (e.g., Special Intervention Team). Through internal training and certification, they can move into prison management or other positions in the justice system.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Prison guards can progress from junior officer to senior officer, supervisor, or
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled talents from non-EU countries, but prison guards usually do not meet the salary threshold (approx. €5,008/month in 2024), requiring employer sponsorship and meeting salary requirements. |
-| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely in the Netherlands without a visa. Prison guard positions are open to EU citizens but require passing a Dutch language proficiency test. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Must complete the training course approved by the Ministry of Justice and obt
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-guard/NL)**

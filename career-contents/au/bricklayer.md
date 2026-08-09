@@ -55,8 +55,6 @@ Bricklayers are responsible for laying bricks, concrete blocks, stone, and tiles
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks are highly dependent on physical labor and site conditions, making them difficult for AI/automation to directly replace. However, prefabrication and robotic bricklaying technology are gradually reducing demand for entry-level positions, and future automation in construction will decrease low-skilled bricklaying jobs.
-
 Australia's ongoing housing shortage is keeping construction activity at elevated levels, widening the supply–demand gap for bricklayers. The risk of AI substitution is extremely low, as bricklaying and stonemasonry are both highly dependent on manual skill.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australia's ongoing housing shortage is keeping construction activity at elevate
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Both are on the MLTSSL. Carpentry has higher employment volume and slightly h
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bricklayer/AU)**

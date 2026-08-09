@@ -51,8 +51,6 @@ A camera technician operates, maintains, and repairs professional camera equipme
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted tools will take over parts of equipment calibration and color correction, but on-site complex debugging and creative decisions still rely on human experience. Entry-level competition intensifies, but demand for senior technical roles rises.
-
 Advance from assistant to intermediate technician, then to senior technician or technical supervisor. Some shift to cinematography or equipment sales/rental management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Advance from assistant to intermediate technician, then to senior technician or 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to non-EU professionals with a recognised German vocational qualification |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa launched in 2024, allowing entry to Germany to look for work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Typically requires completing a recognized vocational training or academic cr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/camera-technicians/DE)**

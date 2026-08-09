@@ -54,8 +54,6 @@ Patrol designated areas to prevent violations of fish and wildlife laws; investi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Game warden jobs will undergo mixed changes due to AI and automation: data collection and patrol monitoring automation reduce some traditional tasks, but core duties like law enforcement discretion and community relations remain stable, even enhanced by new tools.
-
 Career path: Usually starts as patrol officer, can advance to senior officer, area supervisor, or investigator. Some move into law enforcement management, policy-making, or wildlife biology research. Requires ongoing training to update regulatory knowledge.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career path: Usually starts as patrol officer, can advance to senior officer, ar
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Extremely difficult. Most states require US citizenship, and government posit
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fish-and-game-wardens/US)**

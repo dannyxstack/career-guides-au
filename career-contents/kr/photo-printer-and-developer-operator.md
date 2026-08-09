@@ -49,8 +49,6 @@ A specialist who operates equipment to print and develop film or digital images 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI and automation technologies are replacing photo retouching and printing processes, narrowing the scope of the job. In particular, basic development and color correction tasks are expected to be replaced by AI software, leading to a reduction in employment.
-
 With few skilled technicians, after building experience in small studios, one can move to printing specialty companies or archive fields.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ With few skilled technicians, after building experience in small studios, one ca
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled photo technicians, can be recognized as a specialized field |
-| Subclass F-2 (F-2 (Residence)) | Application after long-term stay, recognized photo industry experience |
-| Subclass F-4 (Overseas Korean (Dongpo)) | Targeting overseas Koreans, can work at photo developing labs |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Demand for printing has decreased due to digital transformation, so the outlo
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photo-printer-and-developer-operator/KR)**

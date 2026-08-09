@@ -51,8 +51,6 @@ Engineer responsible for design, development, performance testing, and productio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation enhance vehicle design, simulation, and autonomous driving development, but humans still play a major role in creative design, real vehicle testing, and integrated engineering.
-
 Entry (Researcher) → Associate/Senior → Principal/Chief → Team Lead/CTO. Mainly in large and mid-sized companies; master's/doctoral degrees are advantageous. Career paths also include automotive parts suppliers, startups, and research institutes.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Entry (Researcher) → Associate/Senior → Principal/Chief → Team Lead/CTO. M
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) (Professional)) | Bachelor's or higher, experience in automotive field required, employer recommendation |
-| Subclass F-2 (F-2 (Residence) (Points-based)) | Pre-stage for long-term stay/permanent residence, requires meeting points for degree, income, experience |
-| Subclass D-10 (Job Seeking) | Bachelor's or higher, allows job-seeking activities before E-7 conversion |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Mechanical engineering, automotive engineering, electrical/electronic enginee
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-engineer/KR)**

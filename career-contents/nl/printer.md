@@ -51,8 +51,6 @@ Printers operate printing equipment to produce newspapers, books, packaging mate
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Print workers face dual pressures from AI and automation: digital printing and quality inspection are increasingly automated, but creative color mixing, equipment maintenance, and client communication still rely on human experience, making career prospects mixed.
-
 Career progression paths include becoming a senior printing technician, printing workshop supervisor, or production manager. It can also shift to digital printing or pre-press design roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career progression paths include becoming a senior printing technician, printing
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For highly skilled professionals with an annual income over €38,261 (under 30) or €52,221 (over 30), requiring employer sponsorship. |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 global universities can get a 1-year job-seeking visa without employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU highly skilled talent, annual salary must be at least €58,233 (2024), contract at least 1 year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Minimum requirement of an MBO diploma in printing technology (3 years of inte
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printer/NL)**

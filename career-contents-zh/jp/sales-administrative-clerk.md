@@ -1,8 +1,8 @@
-# Sales & Administrative Clerk 职业分析 · 日本
+# 销售与行政文员（Sales & Administrative Clerk）职业分析 · 日本
 
-**职业代码: 281 (JSCO)**
+**职业代码：281 (JSCO)**
 
-This role supports sales operations from an administrative perspective, including order processing, inventory management, customer data entry, and document preparation in sales departments or retail stores.
+该职位从行政角度支持销售运营，包括订单处理、库存管理、客户数据录入和销售部门或零售店的文档准备。
 
 
 ---
@@ -11,9 +11,9 @@ This role supports sales operations from an administrative perspective, includin
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Public tuition-free） |
-| Vocational School (Business/Administrative) | 2 年 | $1,000,000~$2,500,000（Total fees (including materials)） |
-| Junior College/University (Economics/Business) | 4年 | $2,500,000~$5,000,000（National: low cost, Private: high cost） |
+| 高中 | 3年 | $0~$0（公立免学费） |
+| 职业学校（商业/行政） | 2 年 | $1,000,000~$2,500,000（总费用（含材料）） |
+| 短期大学/大学（经济学/商学） | 4年 | $2,500,000~$5,000,000（国立：成本低，私立：成本高） |
 
 ---
 
@@ -21,19 +21,19 @@ This role supports sales operations from an administrative perspective, includin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Business Practical Law Test Level 3 | Tokyo Chamber of Commerce and Industry | 可选 | Useful for understanding sales contracts |
-| Certified Sales Associate (Retail Marketing) Level 3 | Japan Chamber of Commerce and Industry | 可选 | Valued in retail |
-| MOS (Microsoft Office Specialist) | Microsoft | 可选 | Proof of Excel/Word skills |
-| Bookkeeping Test Level 3 | Japan Chamber of Commerce and Industry | 可选 | Strengthens coordination with accounting |
+| 商业实践法律测试三级 | 东京商工会议所 | 可选 | 有助于理解销售合同 |
+| 认证销售助理（零售营销）三级 | 日本商工会议所 | 可选 | 在零售业受到重视 |
+| MOS（微软办公软件国际认证） | Microsoft | 可选 | Excel/Word技能证明 |
+| 簿记测试三级 | 日本商工会议所 | 可选 | 加强与会计部门的协调 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 850,000. With the DX promotion in retail and wholesale industries, routine tasks are decreasing, but customer service and data analysis require interpersonal and thinking skills, and demand for these is expected to persist.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 850,000。在零售和批发行业的DX推广中，常规任务减少，但客户服务和数据分析需要人际和思考能力，预计需求将持续。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,93 +41,87 @@ This role supports sales operations from an administrative perspective, includin
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0-3 years) | $2,800,000~$3,800,000 | Monthly salary ¥200,000-250,000 + bonus |
-| Mid-Level (4-8 years) | $3,800,000~$5,000,000 | Monthly salary ¥250,000-320,000 + bonus |
-| 高级（9年以上） | $5,000,000~$6,500,000 | Monthly salary ¥300,000-400,000 + bonus, managerial allowance |
+| 入门级（0-3年） | $2,800,000~$3,800,000 | 月薪20-25万日元+奖金 |
+| 中级（4-8年） | $3,800,000~$5,000,000 | 月薪25万-32万日元 + 奖金 |
+| 高级（9年以上） | $5,000,000~$6,500,000 | 月薪¥300,000-400,000 + 奖金，管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-Routine tasks like order/inventory/data entry are automated via RPA/AI, but areas requiring human judgment (customer handling, sales support coordination) remain. Overall employment declines, but value of advanced skills rises.
+常规任务如订单/库存/数据录入通过RPA/AI自动化，但需要人工判断的领域（客户处理、销售支持协调）依然存在。整体就业减少，但高级技能价值上升。
 
-Start as a general office clerk, then progress to sales assistant, sales administrative chief, and sales administrative manager. Gaining experience in related areas like accounting or purchasing broadens career prospects.
+从普通办公室文员开始，逐步晋升为销售助理、销售行政主管和销售行政经理。在会计或采购等相关领域积累经验可拓宽职业前景。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual entry of order data
-- Phone calls for inventory verification
-- Sorting and filing slips
-- Creating standard quotations
+- 手动录入订单数据
+- 电话盘点库存
+- 整理和归档单据
+- 制定标准报价
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Support for customer data analysis and sales report creation
-- Optimizing sales visit schedules
-- Utilizing and customizing CRM systems
+- 支持客户数据分析及销售报告生成
+- 优化销售拜访日程
+- 利用和定制CRM系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with customers
-- Flexible coordination and complaint handling
-- Inventory planning with managerial decisions
+- 建立客户信任
+- 灵活协调和投诉处理
+- 基于管理决策的库存规划
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced Excel functions and VBA
-- CRM/SFA tool operation
-- Business Japanese (honorifics, written language)
-- Problem identification and business improvement skills
+- 高级Excel函数和VBA
+- CRM/SFA工具操作
+- 商务日语（敬语、书面语）
+- 问题识别和业务改进技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics/inventory management with EC growth
-- Customer data management via CRM implementation
-- Sales digital transformation support
-- Workflow efficiency through paperless processes
+- 电子商务增长下的物流/库存管理
+- 通过CRM实施进行客户数据管理
+- 销售数字化转型支持
+- 通过无纸化流程提高工作效率
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | General office work. Requires vocational school degree or work experience. |
-| Subclass 特定活動（外国人材の活躍推進） (Designated Activities (covered by guidelines)) | May qualify under the Highly Skilled Professional point system, etc. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who can process documents diligently and accurately
-- Someone good at coordinating between sales and field operations
-- Someone comfortable with PC operations and numbers
+- 能认真准确地处理文件的人
+- 善于协调销售和现场运营的人
+- 熟悉电脑操作和数字的人
 
 **谁不适合**
-- Someone prone to boredom with repetitive data entry
-- People who prefer solitary work over direct conversation
+- 容易对重复数据录入感到厌倦的人
+- 喜欢独自工作而非直接交谈的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for sales and sales administration?**
-答：Starting salary is about ¥2.5-3 million. Mid-career: ¥4 million, managerial: ¥5-6 million. Higher at major/foreign firms.
+**问：销售及销售管理岗位的年收入是多少？**
+答：起薪约250-300万日元。中期：400万日元，管理层：500-600万日元。大型/外资企业更高。
 
-**问：Which visa do foreigners need for sales/sales admin roles?**
-答：The 'Engineer/Specialist in Humanities/International Services' status is common. Requires university degree or ~10 years experience.
+**问：外国人从事销售/销售行政工作需要哪种签证？**
+答："人文/国际服务领域工程师/专家"身份常见。要求大学学位或约10年经验。
 
-**问：How to advance from sales admin?**
-答：Gain experience in adjacent roles like accounting or purchasing, aim for manager overseeing admin. Also possible to switch to sales.
+**问：如何从销售行政晋升？**
+答：在会计或采购等相关职位积累经验，目标是成为管理行政的经理。也可以转行做销售。
 
 
 ---
@@ -145,12 +139,12 @@ Start as a general office clerk, then progress to sales assistant, sales adminis
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sales-administrative-clerk/JP)**

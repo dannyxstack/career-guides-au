@@ -1,10 +1,8 @@
-# Hairdresser 职业分析 · 韩国
+# 理发师（Hairdresser）职业分析 · 韩国
 
-**职业代码: 51121 (KECO)**
+**职业代码：51121 (KECO)**
 
-A professional who manages customers' hair and skin, providing beauty services such as cutting, dyeing, perming, and styling.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+管理客户头发和皮肤的专业人士，提供剪发、染发、烫发和造型等美容服务。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who manages customers' hair and skin, providing beauty services s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 中学 | 3年 | $0~$0（Specialized high school beauty department, free education） |
-| 社区大学 | 2 年 | $6,000,000~$12,000,000（Public/private differences, scholarships available） |
-| Private academy | 6 months | $3,000,000~$8,000,000（Short-term course, preparation for national certification） |
+| 中学 | 3年 | $0~$0（专业高中美容系，免费教育） |
+| 社区大学 | 2 年 | $6,000,000~$12,000,000（公立/私立差异，可申请奖学金） |
+| 私立学院 | 6个月 | $3,000,000~$8,000,000（短期课程，为国家级认证做准备） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who manages customers' hair and skin, providing beauty services s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Hairdresser License | Human Resources Development Service of Korea | 必备 | Required, written and practical exams |
-| National Esthetician License | Human Resources Development Service of Korea | 可选 | Optional, skincare field |
-| National Nail Technician License | Human Resources Development Service of Korea | 可选 | 可选 |
+| 国家美发师执照 | 韩国人力资源开发服务局 | 必备 | 必需，笔试和实操考试 |
+| 国家美容师执照 | 韩国人力资源开发服务局 | 可选 | 可选，护肤领域 |
+| 国家美甲技师执照 | 韩国人力资源开发服务局 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 320,000. The Korean beauty service market is steadily growing, but employment growth is expected to be limited due to population decline and economic fluctuations. Instead, advanced skills and customer service capabilities are becoming important.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 320,000。韩国美容服务市场稳步增长，但由于人口减少和经济波动，就业增长预计有限。相反，高级技能和客户服务能力变得重要。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,69 +40,61 @@ A professional who manages customers' hair and skin, providing beauty services s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $22,000,000~$30,000,000 | Monthly salary, intern/assistant level |
-| 中级（3-7年） | $30,000,000~$45,000,000 | Designer, varies based on customer acquisition |
-| 高级（7年以上） | $45,000,000~$70,000,000 | Manager/Store Manager, includes incentives |
+| 初级（0-3年） | $22,000,000~$30,000,000 | 月薪，实习生/助理级别 |
+| 中级（3-7年） | $30,000,000~$45,000,000 | 设计师，根据客户获取情况而异 |
+| 高级（7年以上） | $45,000,000~$70,000,000 | 经理/店铺经理，含激励措施 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-This is an occupation with limited impact from AI and automation. Tasks requiring creativity and hand skills, such as hair design, consultation, and cutting, are difficult to replace. However, AI can assist with some tasks like appointment management and product recommendations.
+这是一个受AI和自动化影响有限的职业。需要创造力和手工技能的任务，如发型设计、咨询和剪发，难以被替代。然而，AI可以协助处理一些任务，如预约管理和产品推荐。
 
-Junior hairdresser → Mid-level hairdresser → Salon manager → Franchise owner or independent business. Income varies significantly based on experience and skills, and entry barriers for starting a business are relatively low.
+初级发型师→中级发型师→沙龙经理→加盟店老板或独立创业。收入根据经验和技能差异较大，创业门槛相对较低。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Appointment management
-- Simple consultation chatbots
-- Product inventory management
+- 预约管理
+- 简单咨询聊天机器人
+- 产品库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Client consultation
-- Style suggestions
-- Scalp diagnosis
+- 客户咨询
+- 风格建议
+- 头皮诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual dexterity
-- Creativity
-- Interpersonal skills
-- Fashion sense
+- 手部灵巧度
+- 创造力
+- 人际交往能力
+- 时尚感
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced cutting techniques
-- Scalp care knowledge
-- Understanding Customer Psychology
-- Digital Marketing
+- 高级切割技术
+- 头皮护理知识
+- 理解客户心理
+- 数字营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Premium services
-- Hair care
-- Customized services
-- K-beauty
+- 优质服务
+- 头发护理
+- 定制服务
+- 韩式美妆
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible with professional license, but beauticians are generally excluded from work visas. |
-| Subclass F-2 (Residence) | Issued to long-term residents under a points system; can work as a beautician. |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans; can work in beauty services but limited. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -112,25 +102,25 @@ Junior hairdresser → Mid-level hairdresser → Salon manager → Franchise own
 
 **谁适合**
 - 喜欢与人打交道者
-- People with dexterity and attention to detail
-- People interested in trends
+- 灵巧且注重细节的人
+- 对趋势感兴趣的人
 
 **谁不适合**
-- People who prefer routine and static tasks
-- People stressed by customer service
+- 偏好常规和静态任务的人
+- 因客户服务而压力大的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a beautician?**
-答：Entry-level is about 22-30 million won, while experienced can reach 45-70 million won, but it varies greatly depending on individual skills and clientele.
+**问：美容师的平均薪资是多少？**
+答：入门级约2200-3000万韩元，经验丰富者可达4500-7000万韩元，但视个人技能和客户群而定。
 
-**问：Can foreigners work as beauticians in Korea?**
-答：General employment visa (E-7) issuance is difficult, making it a limited immigration route. However, holders of F-2 and F-4 visas are eligible.
+**问：外国人能在韩国做美容师吗？**
+答：一般就业签证（E-7）签发困难，限制了移民途径。但持有F-2和F-4签证者符合条件。
 
-**问：How long does it take to get a beautician license?**
-答：National certification can be obtained through a 2-year college program or a 6-month academy course, with passing the practical exam being crucial.
+**问：获得美容师执照需要多长时间？**
+答：国家认证可通过2年大专课程或6个月学院课程获得，通过实操考试至关重要。
 
 
 ---
@@ -148,12 +138,12 @@ Junior hairdresser → Mid-level hairdresser → Salon manager → Franchise own
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hairdresser/KR)**

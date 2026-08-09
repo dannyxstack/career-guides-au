@@ -52,8 +52,6 @@ Canadian vocational trainers teach at community colleges, vocational schools, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Career trainers can advance from instructor to course supervisor, training manager, or education consultant. With experience, they can move into higher education or corporate training management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career trainers can advance from instructor to course supervisor, training manag
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario Human Capital Priorities, BC Skilled Worker |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program (employer-driven), suitable for those with a job offer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree, a teaching certificate (e.g., in adul
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/college-and-other-vocational-instructors/CA)**

@@ -51,8 +51,6 @@ Provide food and beverage services in restaurants, bars, hotels, etc., including
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Can start as a junior service staff (Anlernberuf) and progress to shift supervisor (Schichtführer) or restaurant manager (Restaurantleiter) through experience. Further training (e.g., IHK certification) can lead to hotel management or event planning.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can start as a junior service staff (Anlernberuf) and progress to shift supervis
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Yes. Through experience, can advance to team leader, supervisor, or restauran
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gastronomy-service-worker/DE)**

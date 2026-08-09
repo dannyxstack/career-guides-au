@@ -54,8 +54,6 @@ Auctioneers preside over auctions, evaluate item values, guide bidding processes
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on auctioneers is mixed: automation tools can handle valuations and bidding optimization, but creating on-site atmosphere, interpersonal negotiation, and legal judgment still rely on humans.
-
 Can progress from junior auction assistant to senior auctioneer, or move into real estate management, valuation, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior auction assistant to senior auctioneer, or move into re
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires the occupation to be on MLTSSL or ROL, auctioneer not included |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship may apply to certain DAMA regions |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Very difficult. Auctioneer is not on the skilled migration occupation list, a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auctioneer/AU)**

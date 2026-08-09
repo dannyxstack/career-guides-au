@@ -4,8 +4,6 @@
 
 Operate polishing machines, galvanizing lines, and coating equipment to surface metal workpieces, improving corrosion resistance and appearance quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate polishing machines, galvanizing lines, and coating equipment to surface 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-This profession involves highly repetitive, rule-based tasks, and AI and robotic automation will replace most polishing, galvanizing, and coating operations, rapidly reducing entry-level positions.
-
 Junior operators can be promoted to production line leader or quality inspector; After accumulating experience, shift to process optimization or equipment maintenance; A few became surface treatment engineers through further education.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Junior operators can be promoted to production line leader or quality inspector;
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employee)) | For work residence employed by Spanish companies, an employment contract and social insurance registration must be provided. |
-| Subclass Busqueda empleo (Job Search Visa) | Allows you to stay in Spain for up to 6 months looking for work, applicable to highly educated individuals. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: It's very difficult. This occupation is not classified as a high-skilled shor
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-polishing-galvanizing-and-coating-machine-operators/ES)**

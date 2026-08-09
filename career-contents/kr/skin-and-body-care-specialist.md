@@ -4,8 +4,6 @@
 
 A beauty professional who diagnoses clients' skin conditions and performs treatments for improvement, body contouring, and lymphatic massage.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A beauty professional who diagnoses clients' skin conditions and performs treatm
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-While AI and automation devices are being introduced for diagnosis and simple massage, skilled hand techniques and customer consultation are expected to remain a human advantage for the time being.
-
 Beginners gain experience at skin care clinics, spas, or medical offices. After obtaining a license, they can start their own business or work as freelancers.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Beginners gain experience at skin care clinics, spas, or medical offices. After 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Professional beauty personnel may be invited; qualifications and experience required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, pre-permanent residence stage |
-| Subclass H-2 (Visit and employment) | Limited, some beauty services possible |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: After long-term work on an E-7 visa, applying for F-2 or F-5 permanent reside
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skin-and-body-care-specialist/KR)**

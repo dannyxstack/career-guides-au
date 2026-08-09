@@ -53,8 +53,6 @@ Responsible for drafting letters or emails, replying to inquiries about merchand
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
-
 Limited career development, can advance to senior clerk, administrative assistant, or customer service supervisor. Need to improve computer skills or transition to data analysis, office management to increase competitiveness.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Limited career development, can advance to senior clerk, administrative assistan
 | Subclass H-1B (H-1B Specialty Occupation) | Generally not suitable, as the occupation typically does not require a bachelor's degree and does not meet the professional occupation requirement. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Extremely difficult to obtain as the Department of Labor may deem the occupation non-professional; PERM certification success rate is low. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Poor outlook. Employment is projected to decline by 7% from 2022-2032, mainly
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correspondence-clerks/US)**

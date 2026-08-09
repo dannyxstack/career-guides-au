@@ -49,8 +49,6 @@ A professional who records, analyzes, and reports on a company's financial statu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-In accounting work, simple tasks such as bookkeeping and journal entries are replaced by AI and RPA, but higher-level tasks like tax strategy, audit judgment, and advisory are actually strengthened.
-
 Careers are primarily built at accounting firms, corporate finance teams, or public institutions, with promotion to partner or CFO after obtaining CPA.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Careers are primarily built at accounting firms, corporate finance teams, or pub
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Available for employment as accounting/tax professionals. Requires employment contract and proof of experience. |
-| Subclass F-2 (F-2-7 (Residence)) | Convertible with a points-based permanent residence visa when meeting certain income and stay period requirements. |
-| Subclass F-5 (Permanent (F-5)) | Permanent residence possible after long-term stay. Visa quotas have little effect on accountant demand. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: A Certified Public Accountant (KICPA) license is essential, requiring passing
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/KR)**

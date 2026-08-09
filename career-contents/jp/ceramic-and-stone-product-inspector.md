@@ -50,8 +50,6 @@ A quality control professional responsible for inspecting the appearance, dimens
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of AI and automated optical inspection (AOI), simple visual inspections are being replaced. However, inspections requiring complex judgment and skill still need humans.
-
 Promotion from general inspector to senior inspector or quality control leader is possible. Acquiring certifications can enhance career advancement.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Promotion from general inspector to senior inspector or quality control leader i
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience; eligible for quality control work. |
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Possible in ceramics, stone, and clay product manufacturing; requires exam and Japanese ability. |
-| Subclass 技能実習2号 (Technical Intern Training) | Acceptable under the Technical Intern Training Program; residence period of 3-5 years. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: Yes. After graduating high school, you can acquire skills through vocational 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ceramic-and-stone-product-inspector/JP)**

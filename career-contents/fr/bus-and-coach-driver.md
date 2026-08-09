@@ -4,8 +4,6 @@
 
 Responsible for driving buses or long-distance coaches, transporting passengers according to fixed routes and schedules. You need to hold a large passenger vehicle license (Class D) and pass a Professional Competency Certificate (CAP) or professional training. The work includes passenger boarding and alighting management, ticket inspection, and daily vehicle inspections.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Responsible for driving buses or long-distance coaches, transporting passengers 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Drivers can be promoted to dispatchers, fleet managers, or training coaches. Through internal training, you can obtain higher-level driving licenses (such as heavy trucks) and transition into the freight sector. Some experienced candidates may enter transportation management positions, but a management diploma is required.
 
 **Tasks most exposed to AI:**
@@ -104,18 +100,9 @@ Drivers can be promoted to dispatchers, fleet managers, or training coaches. Thr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Applicable to long-term employment contracts sponsored by French employers, requiring meeting minimum wage requirements and proving recruitment difficulties |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, but driver positions are usually not applicable; may be eligible if in a management role. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary must exceed approximately 53,000 euros (2024), and drivers usually do not meet the standard |
-| Subclass Recherche emploi (Job Search Visa) | After completing studies, can seek a job in France; if a driver position is found, can convert to a work residence permit |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -159,12 +146,12 @@ A: Must hold a Class D driver's license and FIMO certificate (140 hours of train
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-and-coach-driver/FR)**

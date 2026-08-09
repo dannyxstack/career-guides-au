@@ -52,8 +52,6 @@ Geotechnical engineers analyze the mechanical properties of soil and rock, provi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
-
 Career path: Junior Geotechnical Engineer → Project Lead → Department Manager. Can transition to geotechnical specialist, consultant, or start an engineering firm. Continuing education can lead to registered engineer status.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Junior Geotechnical Engineer → Project Lead → Department Manage
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain a German employer contract and academic credential recognition; no income cap. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing job seekers without a work contract to enter and search for work for up to one year. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Progress from engineer to project manager, department head, or technical expe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geotechnical-engineer/DE)**

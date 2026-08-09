@@ -52,8 +52,6 @@ Occupational therapists help New Zealanders with disabilities, the elderly, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
-
 Entry-level therapists can advance to senior clinical experts, team leaders, or move into management roles (e.g., service manager). They can also specialize in neurorehabilitation, psychosocial, or pediatric areas, or move into academia.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level therapists can advance to senior clinical experts, team leaders, or 
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, you can get 5 points directly after registration, then meet other conditions for fast immigration. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not immediately meet residence requirements, you can first work on an AEWV for 2 years and then apply for residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Mainly concentrated in public hospitals (DHBs), ACC rehabilitation, community
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/NZ)**

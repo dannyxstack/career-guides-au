@@ -52,8 +52,6 @@ Embedded/firmware engineers develop underlying software on microcontrollers and 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI greatly empowers embedded/firmware engineers to automate low-level coding and debugging, freeing up focus on system architecture, hardware interface innovation, and security, but caution is needed regarding AI's ability to automatically generate conventional firmware.
-
 Edge AI, functional safety, and device security have become hot topics in Germany, with firmware engineers skilled in low-level debugging and real-time constraints scarce; AI-generated prototypes, but the hardware still relies on people at its core.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Edge AI, functional safety, and device security have become hot topics in German
 | Subclass Skilled Worker (Skilled Worker Visa) | Fachkräfte skilled worker visa: recognized qualification + employment contract. |
 | Subclass Opportunity Card (Opportunity card) | Chancenkarte: Points-based job seeker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, eligible for Germany's 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embedded-firmware-engineer/DE)**

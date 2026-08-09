@@ -4,8 +4,6 @@
 
 Responsible for managing the domestic service team for high-end homes or hotel-style residences, including cleaning, catering, and etiquette reception, ensuring efficient and orderly family operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for managing the domestic service team for high-end homes or hotel-s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on domestic service managers is mixed: scheduling and report generation can be automated, but high-end interpersonal services and emergency decision-making are hard to replace. Entry-level positions have been reduced due to the widespread adoption of AI tools, but the value of senior butlers has actually been amplified.
-
 Usually, they start as ordinary domestic staff, gain experience, and can be promoted to butler, then to senior butler or home manager, with a few entering high-end hotel management.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Usually, they start as ordinary domestic staff, gain experience, and can be prom
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, proving the position cannot be filled locally, which is quite difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: They can be promoted to senior butlers or home managers, or move to high-end 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-service-butlers/ES)**

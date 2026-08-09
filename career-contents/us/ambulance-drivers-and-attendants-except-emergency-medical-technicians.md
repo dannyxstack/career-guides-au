@@ -53,8 +53,6 @@ Driving ambulances or assisting drivers to transport sick or injured persons, re
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
-
 Can progress from ambulance driver to Emergency Medical Technician (EMT) or dispatcher; some move to advanced care roles after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from ambulance driver to Emergency Medical Technician (EMT) or disp
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable; this occupation does not meet special occupation requirements. |
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Very rare; requires employer to prove labor shortage. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Almost impossible. This occupation usually does not meet H-1B or employment g
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-drivers-and-attendants-except-emergency-medical-technicians/US)**

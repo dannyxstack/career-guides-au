@@ -1,8 +1,8 @@
-# Tree Feller and Logging Worker 职业分析 · 日本
+# 伐木工和伐木作业员（Tree Feller and Logging Worker）职业分析 · 日本
 
-**职业代码: 472 (JSCO)**
+**职业代码：472 (JSCO)**
 
-Fell standing trees using chainsaws and heavy machinery in forests, cut them to appropriate lengths, and collect/transport them. Performs on-site logging operations.
+在森林中使用链锯和重型机械砍伐树木，将其切割成适当长度，并收集/运输。执行现场伐木作业。
 
 
 ---
@@ -11,8 +11,8 @@ Fell standing trees using chainsaws and heavy machinery in forests, cut them to 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| No special educational background required (on-the-job training) | 1年 | $0~$100,000（Some national and prefectural training programs are free） |
-| Forestry Engineer Training Course | 6 months | $200,000~$500,000（Private training also available） |
+| 无需特殊教育背景（在职培训） | 1年 | $0~$100,000（部分国家和县级培训项目免费） |
+| 林业工程师培训课程 | 6个月 | $200,000~$500,000（也可私人培训） |
 
 ---
 
@@ -20,19 +20,19 @@ Fell standing trees using chainsaws and heavy machinery in forests, cut them to 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chainsaw Special Education | Prefectural Labor Bureau | 必备 | Mandatory for chainsaw work |
-| Special Education for Felling Operations | Prefectural Labor Bureau | 必备 | Mandatory for felling work |
-| Forestry Cableway Work Chief | Ministry of Health, Labour and Welfare | 可选 | Required when using cableways for logging |
-| Vehicle-Type Construction Machinery Operation Skills Training | Prefectural Labor Bureau | 可选 | For forestry machinery operators |
+| 电锯特殊教育 | 县级劳动局 | 必备 | 链锯作业强制要求 |
+| 伐木作业特殊教育 | 县级劳动局 | 必备 | 伐木工作必备 |
+| 林业索道工程主管 | 厚生劳动省 | 可选 | 使用索道进行伐木时必需 |
+| 车辆型建设机械操作技能培训 | 县级劳动局 | 可选 | 适用于林业机械操作员 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Aging workforce and labor shortages in forestry are severe, with young entrants expected. Mechanization is advancing, but fieldwork remains labor-intensive.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。林业劳动力老龄化和短缺严重，预计将有年轻人进入。机械化正在推进，但实地工作仍属劳动密集型。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,92 +40,85 @@ Fell standing trees using chainsaws and heavy machinery in forests, cut them to 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,000,000~$4,000,000 | Annual salary estimate, varies by region |
-| Intermediate (4–9 years) | $4,000,000~$5,000,000 | Rising with experience and qualifications |
-| Advanced (10+ years) | $5,000,000~$6,500,000 | 团队主管级别 |
+| Beginner (0–3 years) | $3,000,000~$4,000,000 | 年薪估算，因地区而异 |
+| 中级（4-9年） | $4,000,000~$5,000,000 | 随经验和资历提升 |
+| 高级（10年以上） | $5,000,000~$6,500,000 | 团队主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation impact is limited. Chainsaw and forestry machinery automation is progressing, but human judgment and safety are needed in complex terrain. AI is used for work planning and safety management.
+AI和自动化影响有限。链锯和林业机械自动化正在推进，但复杂地形需要人工判断和安全保障。AI用于工作计划和安全管理。
 
-Career progression from worker to team leader and site supervisor. Can aim for skills as high-performance forestry machinery operators or managerial roles in forest cooperatives.
+职业发展路径：工人→团队负责人→现场主管。可瞄准高性能林业机械操作员或森林合作社管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple felling work
-- Part of mechanical log skidding
+- 简单伐木工作
+- 机械原木拖运的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone measurement of terrain and trees
-- AI work plan optimization
-- Sensor utilization for safety management
+- 无人机测量地形和树木
+- AI 工作计划优化
+- 利用传感器进行安全管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment in dangerous sites
-- Machine operation in complex terrain
-- Teamwork and safety culture
+- 危险场所判断
+- 复杂地形中的机器操作
+- 团队合作与安全文化
 
-**需构建的技能:**
+**需构建的技能：**
 
-- High-performance forestry machinery operation
-- GIS and drone utilization
-- Safety management
-- Basics of forest ecology
+- 高性能林业机械操作
+- GIS与无人机应用
+- 安全管理
+- 森林生态学基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Forestry
-- Chainsaw
-- High-performance forestry machinery
-- Forest maintenance
+- 林业
+- 链锯
+- 高性能林业机械
+- 森林维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Forestry)) | Achievable by passing skills and Japanese language tests. Maximum total stay: 5 years. |
-| Subclass 技能 (Skilled Worker Visa (Forestry)) | 10+ years of practical experience (varies by country). |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires knowledge equivalent to university/vocational school graduate as a forestry technician. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength and enjoy outdoor work
-- People interested in machinery operation
-- People who find fulfillment in natural environments
+- 体能自信且喜欢户外工作的人
+- 对机械操作感兴趣的人
+- 在自然环境中找到成就感的人
 
 **谁不适合**
-- People with concerns about physical strength
-- People who dislike dangerous work
+- 担心体力的人
+- 不喜欢危险工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for logging, timber processing, and skidding workers?**
-答：Entry-level: 3–4 million JPY, intermediate: 4–5 million JPY, advanced: 5–6.5 million JPY. Varies by region and forest cooperative.
+**问：伐木、木材加工和集材工人的年收入是多少？**
+答：入行：300–400万日元，中级：400–500万日元，高级：500–650万日元。因地区和森林合作社而异。
 
 **问：外国人能否从事此职业？**
-答：It is eligible under Specified Skilled Worker (i) (Forestry) or engineering/skilled visa. Requires Japanese language and skill tests, but possible.
+答：符合特定技能工人(i)(林业)或工程/技能签证的要求。需要日语和技能考试，但有可能。
 
-**问：What is the future outlook for this job?**
-答：Forestry workers are decreasing, but demand remains stable due to labor shortages. Mechanization is advancing, requiring adaptation as machine operators.
+**问：这份工作的未来前景如何？**
+答：林业工作者减少，但因劳动力短缺需求保持稳定。机械化推进中，需适应作为机器操作员。
 
 
 ---
@@ -143,12 +136,12 @@ Career progression from worker to team leader and site supervisor. Can aim for s
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tree-feller-and-logging-worker/JP)**

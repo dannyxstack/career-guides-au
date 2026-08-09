@@ -51,8 +51,6 @@ Provide counseling and prevention services for addictions such as alcohol, tobac
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
-
 Progress from junior consultant to clinical supervisor or project coordinator; some pursue a master's to become licensed independent consultants or open private practices.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from junior consultant to clinical supervisor or project coordinator; s
 | Subclass EB-2 (Employment-Based Second Preference) | Suitable for those with a master's degree or above, requires PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or equivalent experience, requires PERM labor certification |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Feasible but competitive. Requires bachelor's degree or higher, employer spon
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/substance-abuse-and-behavioral-disorder-counselors/US)**

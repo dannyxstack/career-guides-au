@@ -50,8 +50,6 @@ A professional who designs user experience (UX) and user interface (UI) to enhan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI accelerates UI generation and prototyping, but strategic UX research and user understanding remain human domains. Designers who leverage AI as a tool gain a competitive edge.
-
 Junior (2-5 years) → Senior (5-10 years) → Lead/Manager (10+ years). Portfolio and user research skills are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -88,15 +86,9 @@ Junior (2-5 years) → Senior (5-10 years) → Lead/Manager (10+ years). Portfol
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Possible when employed as a UX designer at a high-tech company or research institute |
-| Subclass F-2 (Residence (F-2-99)) | Long-term stay possible via points system, transition after maintaining E-7 |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -137,12 +129,12 @@ A: E-7-1 visa is common; requires bachelor's degree and proof of experience. F-2
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ux-ui-designer/KR)**

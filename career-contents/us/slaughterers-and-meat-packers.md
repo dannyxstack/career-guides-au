@@ -53,8 +53,6 @@ Perform non-routine or precise meat cutting tasks, including special slaughter, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly replace routine cutting, weighing, and packaging tasks for slaughterhouse and meat packing workers, compressing job demand, but fine cutting and quality inspection still require human labor.
-
 Usually start as a junior cutter, can advance to senior cutter, team leader, or quality inspector; some experienced workers can move to equipment operation or maintenance roles, but management positions are limited.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as a junior cutter, can advance to senior cutter, team leader, or 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Most states require food safety training (e.g., HACCP certification); some em
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/slaughterers-and-meat-packers/US)**

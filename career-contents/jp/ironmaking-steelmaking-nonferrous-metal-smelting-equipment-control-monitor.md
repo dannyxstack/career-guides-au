@@ -51,8 +51,6 @@ Operate, monitor, and control melting furnaces and casting equipment at steelwor
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will advance remote monitoring and anomaly prediction of equipment, but human judgment is needed for furnace adjustments and emergency responses. The operator's role will shift to monitoring and maintenance.
-
 Start as a field operator, gain experience in equipment control, and advance to chief or plant manager. Multiskilling across different processes is increasingly required within steelworks.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Start as a field operator, gain experience in equipment control, and advance to 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10 years of practical experience. Eligible to work as a steelmaking engineer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting/Industrial Machinery/Electrical/Electronic Information Manufacturing)) | Obtainable by passing exam in relevant field. Also covers iron/steel and non-ferrous metal manufacturing. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Casting/Industrial Machinery/Electrical/Electronic Information Manufacturing)) | Requires advanced skills. Allows family accompaniment and permanent residency application. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Start as an operator, gain proficiency in equipment control, and advance to t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ironmaking-steelmaking-nonferrous-metal-smelting-equipment-control-monitor/JP)**

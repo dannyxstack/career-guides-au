@@ -51,8 +51,6 @@ Engaged in the handling, cleaning, and auxiliary operations of ore, rock, sand a
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Promotion paths for this profession are limited; it usually starts as a general worker and can develop to mechanical operators (such as excavators and loaders) or team leaders, requiring experience accumulation and obtaining relevant operational certificates. A very small number can be promoted to mining technician or site supervisor.
 
 **Tasks most exposed to AI:**
@@ -94,15 +92,9 @@ Promotion paths for this profession are limited; it usually starts as a general 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish employer must be obtained, and it must prove that the position cannot be filled by local or EU labor. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find work, but you must prove sufficient financial means. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -143,12 +135,12 @@ A: Yes, but usually an employer-sponsored application for employed work residenc
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-quarrying-and-other-extractive-industry-laborer/ES)**

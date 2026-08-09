@@ -4,8 +4,6 @@
 
 This job involves operating machines to process grains such as wheat and rice flour, including milling, mixing, and packaging.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This job involves operating machines to process grains such as wheat and rice fl
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-With the introduction of automated packaging and milling lines, simple tasks are decreasing, but machine maintenance and quality control still require humans, so employment scale is reduced.
-
 Initially responsible for simple machine operation, can advance to line management, machine maintenance, or production team leader with experience.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Initially responsible for simple machine operation, can advance to line manageme
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign workers can be employed, limited in the manufacturing sector |
-| Subclass F-2 (F-2 (Residence)) | Convertible to a points-based system, for long-term stay purposes |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Obtaining a machine maintenance certificate or completing production manageme
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-processing-machine-operator/KR)**

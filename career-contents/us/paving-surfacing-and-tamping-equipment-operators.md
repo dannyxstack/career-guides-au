@@ -52,8 +52,6 @@ Operate concrete, asphalt, or other material spreading equipment for road, parki
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Paving equipment operators have highly structured, repetitive tasks; AI automation is rapidly replacing key duties. Demand is expected to shrink significantly in 5–10 years, intensifying competition for entry-level positions.
-
 Career progression: from junior operator to senior operator, can advance to foreman or construction supervisor, further to project management, requiring on-site experience and mastery of multiple equipment types.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Career progression: from junior operator to senior operator, can advance to fore
 | Subclass EB-3 (Employment-Based Third Preference) | Green card pathway for skilled workers, requiring PERM labor certification, with long wait times |
 | Subclass TN (Trade NAFTA (USMCA) Professional) | Open only to Canadian or Mexican citizens, must meet specific occupational categories (usually not applicable for this occupation) |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can advance to foreman, construction supervisor, or further study to become a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paving-surfacing-and-tamping-equipment-operators/US)**

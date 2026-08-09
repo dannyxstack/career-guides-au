@@ -53,8 +53,6 @@ Operate or monitor cooling and freezing equipment, such as refrigeration units, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Cooling and freezing equipment operators will experience mixed impacts from AI and automation: operational monitoring and temperature control can be automated, but equipment maintenance, troubleshooting, and on-site emergency response still require human judgment, making overall risk moderate.
-
 Typically start as an operator, progressing to senior operator, team leader, or supervisor, or moving into equipment maintenance or quality control.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as an operator, progressing to senior operator, team leader, or 
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Applicable to temporary non-agricultural workers, but employers must prove labor shortage, and slots are limited. |
 | Subclass Green Card (EB-3) (Employment-Based Third Preference) | Suitable for skilled workers and professionals, requiring PERM labor certification, but this occupation may have difficulty passing the labor market test. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Employment is stable but promotion opportunities are limited. Training can le
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooling-and-freezing-equipment-operators-and-tenders/US)**

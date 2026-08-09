@@ -1,10 +1,8 @@
-# Architectural Engineer 职业分析 · 日本
+# 建筑工程师（Architectural Engineer）职业分析 · 日本
 
-**职业代码: 091 (JSCO)**
+**职业代码：091 (JSCO)**
 
-Professional handling building design, construction management, and regulatory compliance. The architect license is central, supporting safety and quality in the construction industry.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专业处理建筑设计、施工管理和法规合规。建筑师执照是核心，支撑建筑行业的安全与质量。
 
 
 ---
@@ -13,8 +11,8 @@ Professional handling building design, construction management, and regulatory c
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Department of Architecture) | 4年 | $2,500,000~$5,000,000（Approx. 540,000 JPY/year at national universities, 1.5 million JPY at private. Total for 4 years.） |
-| Vocational School (Department of Architecture) | 2 年 | $1,200,000~$2,500,000（Total including entrance fee.） |
+| 大学（建筑系） | 4年 | $2,500,000~$5,000,000（国立大学约54万日元/年，私立大学约150万日元/年。4年总计。） |
+| 职业学校（建筑系） | 2 年 | $1,200,000~$2,500,000（包含入场费的总价。） |
 
 ---
 
@@ -22,18 +20,18 @@ Professional handling building design, construction management, and regulatory c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| First-Class Architect | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Can design and supervise construction of high-rise buildings and large-scale structures. Requires 4+ years of practical experience. |
-| Second-Class Architect | Prefectural Governor | 可选 | Can design and supervise construction of small to medium-sized buildings. Requires 2+ years of practical experience. |
-| Construction Management Engineer | Construction Industry Promotion Fund | 可选 | National qualification for construction management. Has Grade 1 and Grade 2. |
+| 一级建筑师 | 国土交通省 | 可选 | 能够设计并监督高层建筑和大型结构的施工。需要4年以上实际经验。 |
+| 二级建筑师 | 县长 | 可选 | 能够设计并监督中小型建筑的施工。需要 2 年以上实践经验。 |
+| 建筑工程管理工程师 | 建筑行业促进基金 | 可选 | 建筑管理国家资格。分一级和二级。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 340,000. Demand declined slightly after the Tokyo Olympics, but stable long-term demand continues due to aging infrastructure, disaster prevention renovations, and urban redevelopment. Chronic labor shortage.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 340,000。东京奥运会后需求略有下降，但由于老化的基础设施、防灾改造和城市再开发，长期需求持续稳定。长期劳动力短缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,87 @@ Professional handling building design, construction management, and regulatory c
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,200,000~$4,000,000 | Average salary including overtime for those under 35. |
-| Mid-level (5-10 years) | $4,500,000~$6,000,000 | Typically holds Second-Class Architect license. |
-| 高级（15年以上） | $7,000,000~$10,000,000 | First-Class Architect in management. Over 10 million JPY at major general contractors. |
+| 初级 (0-3年) | $3,200,000~$4,000,000 | 35岁以下含加班平均薪资。 |
+| 中级（5-10年） | $4,500,000~$6,000,000 | 通常持有二级建筑师执照。 |
+| 高级（15年以上） | $7,000,000~$10,000,000 | 一级建筑经理，在大型总承包商处拥有超过1000万日元的经验。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI advances design automation (BIM integration, structural calculations, code checks), but human roles like on-site judgment, coordination, and client negotiation remain. Rather than jobs being taken by AI, it is used as a tool.
+AI推进设计自动化（BIM集成、结构计算、规范检查），但现场判断、协调和客户谈判等人为角色仍然存在。与其说工作被AI取代，不如说AI被用作工具。
 
-After gaining practical experience, obtaining a First-Class Architect license allows promotion to design office manager or general contractor construction manager. Women's participation is increasing.
+积累实践经验后，获得一级建筑师执照可晋升为设计办公室经理或总承包商施工经理。女性参与度正在增加。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Partial automation of structural calculations
-- Simple code compliance checks
-- Standard drawing creation
+- 结构计算的部分自动化
+- 简单的法规合规检查
+- 标准图纸创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D design and simulation with BIM
-- AI-based energy performance prediction
-- Construction management linked with construction robots
+- 基于BIM的3D设计与模拟
+- 基于AI的能源性能预测
+- 与建筑机器人结合的施工管理
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site flexible judgment
-- Client negotiation and consensus building
-- Design creativity and aesthetics
-- Code interpretation and permitting procedures
+- 现场灵活判断
+- 客户谈判与共识建立
+- 设计创意与美学
+- 代码解读与许可流程
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM/CIM operation skills
-- Programming (Python, Dynamo, etc.)
-- Knowledge of energy-efficient building design
+- BIM/CIM操作技能
+- 编程（Python, Dynamo等）
+- 节能建筑设计知识
 - 具备项目管理能力
 
-**主要增长方向:**
+**主要增长方向：**
 
 - BIM/CIM
-- Energy-efficient buildings
-- Wooden architecture
-- Renovation
+- 节能建筑
+- 木结构建筑
+- 翻新
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Architectural engineers fall under the 'Engineering' category. Requires a university degree or 10+ years of experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Targets the construction sector under the Specified Skilled Worker system. Requires passing a skills test. Max stay of 5 years. |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who enjoy drawings and calculations
-- Those who can take responsibility for on-site coordination and safety checks
-- Those who can understand and comply with laws and rules
+- 喜欢绘图和计算的人
+- 能负责现场协调与安全检查的人员
+- 能够理解和遵守法律法规的人
 
 **谁不适合**
-- Those who want to avoid physical labor
-- Those who are not good at interpersonal coordination and negotiation
+- 希望避免体力劳动的人
+- 不擅长人际协调与谈判的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an architectural engineer?**
-答：Entry-level: approx. 3.2–4 million JPY, mid-level: 4.5–6 million JPY, senior (first-class architect): 7–10+ million JPY. These figures include overtime pay.
+**问：建筑工程师的年收入是多少？**
+答：入门级：约320-400万日元，中级：450-600万日元，高级（一级建筑师）：700-1000+万日元。这些数字包括加班费。
 
-**问：Is it easy for foreigners to obtain a work visa as an architectural engineer?**
-答：Possible with a 'Engineer/Specialist in Humanities/International Services' visa, but requires a university degree or 10+ years of experience. The Specified Skilled Worker (i) (Construction) visa is also an option, but requires passing a skills test. The path to permanent residency is somewhat long.
+**问：外国人在建筑工程师岗位获得工作签证容易吗？**
+答：可持“工程师/人文/国际服务专家”签证，但需大学学历或10年以上经验。特定技能1号（建设）签证也可行，但需通过技能测试。获得永久居留权的路径较长。
 
-**问：How many years does it take to obtain a first-class architect license?**
-答：After graduating from a university architecture department, at least 4 years of practical experience required. Eligible to take the exam at the earliest 4 years after graduation. Difficulty is high, pass rate about 15%.
+**问：获得一级建筑师执照需要多少年？**
+答：大学建筑系毕业后，需要至少4年实践经验。最早可在毕业后4年参加考试。难度高，通过率约15%。
 
 
 ---
@@ -146,12 +137,12 @@ After gaining practical experience, obtaining a First-Class Architect license al
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/architectural-engineer/JP)**

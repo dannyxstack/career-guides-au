@@ -1,10 +1,8 @@
-# Herbal Pharmacist 职业分析 · 韩国
+# 草药药剂师（Herbal Pharmacist）职业分析 · 韩国
 
-**职业代码: 30302 (KECO)**
+**职业代码：30302 (KECO)**
 
-A herbal pharmacist is a professional who prepares herbal medicines based on Korean traditional medicine theory and provides drug therapy to patients in oriental medical institutions.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+草药药剂师是根据韩国传统医学理论制备草药，并在韩医机构中为患者提供药物治疗的专业人员。
 
 
 ---
@@ -13,9 +11,9 @@ A herbal pharmacist is a professional who prepares herbal medicines based on Kor
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (College of Oriental Pharmacy) | 4年 | $30,000,000~$50,000,000（Tuition based on national/public universities; private universities are more expensive.） |
-| National Herbal Pharmacist Exam | 0年 | $500,000~$1,000,000（Exam fee and preparation costs） |
-| Graduate School (optional) | 2 年 | $15,000,000~$30,000,000（Master's program tuition） |
+| 大学（东方药学院） | 4年 | $30,000,000~$50,000,000（学费按国立/公立大学标准；私立大学更贵。） |
+| 国家韩药师考试 | 0年 | $500,000~$1,000,000（考试费和准备费用） |
+| 研究生院（可选） | 2 年 | $15,000,000~$30,000,000（硕士课程学费） |
 
 ---
 
@@ -23,17 +21,17 @@ A herbal pharmacist is a professional who prepares herbal medicines based on Kor
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Herbal Pharmacist License | Ministry of Health and Welfare | 必备 | Obtained after passing the National Herbal Pharmacist Exam |
-| Oriental Pharmacy Technician | National Health Personnel Licensing Examination Board | 必备 | National professional qualification, mandatory |
+| 草药药师执照 | 保健福祉部 | 必备 | 通过国家中药师考试后获得 |
+| 东方药学技师 | 国家卫生人员资格考试委员会 | 必备 | 国家专业资格，强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. Due to steady demand for traditional Korean medicine and an aging population, employment for herbal pharmacists is expected to remain stable, with recruitment difficulties persisting in some regions.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。由于对传统韩医药的需求稳定以及人口老龄化，草药药剂师的就业预计将保持稳定，部分地区招聘困难将持续。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A herbal pharmacist is a professional who prepares herbal medicines based on Kor
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $35,000,000~$45,000,000 | Varies by hospital/pharmacy size |
-| Mid (4-7 years) | $45,000,000~$60,000,000 | Increases with experience and expertise |
-| 高级（8年+） | $60,000,000~$90,000,000 | Chief pharmacist, management positions, etc. |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 因医院/药房规模而异 |
+| 中级（4-7年） | $45,000,000~$60,000,000 | 随经验和专业知识增长 |
+| 高级（8年+） | $60,000,000~$90,000,000 | 首席药剂师、管理职位等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI will play a supporting role in herbal prescription assistance and drug interaction analysis, but tasks requiring human judgment and empathy, such as patient consultation and medication guidance, are difficult to replace. Therefore, some tasks may be automated, but the job itself will not disappear.
+AI将在草药处方辅助和药物相互作用分析中发挥支持作用，但需要人类判断和同理心的任务如患者咨询和用药指导难以被取代。因此，部分任务可能自动化，但该职业本身不会消失。
 
-Graduation from a university (College of Oriental Pharmacy) and passing the national herbal pharmacist exam are required. Afterward, work at oriental hospitals, pharmacies, or clinics is possible, with promotion to chief pharmacist or manager based on experience.
+需要从大学（东方药学院）毕业并通过国家草药药剂师考试。之后可在韩医院、药店或诊所工作，根据经验晋升为主任药剂师或经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drug interaction review
-- Drug data entry and organization
-- Basic prescription review
+- 简单药物相互作用审查
+- 药品数据录入与组织
+- 基本处方审核
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Patient-customized drug recommendation
-- Drug side effect monitoring
-- Provision of drug information
+- 针对患者的个性化药物推荐
+- 药品副作用监测
+- 药物信息提供
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust relationship with patients
-- Complex clinical judgment
-- Communication with doctors and patients
-- Ethical responsibility
+- 与患者的信任关系
+- 复杂的临床判断
+- 与医生和患者沟通
+- 道德责任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI tool utilization
-- Patient consultation and education
-- Polypharmacy management
+- 数据分析
+- 人工智能工具运用
+- 患者咨询与教育
+- 多药管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increasing demand for Korean medicine
-- Aging population
-- Wellness trend
-- Expansion of Korean medical institutions
+- 韩医药需求增长
+- 人口老龄化
+- 健康趋势
+- 韩国医疗机构的扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (Professional)) | As a professional, herbal pharmacists can obtain an E-7 visa, requiring a license from Korea's Ministry of Health and Welfare |
-| Subclass D-10 (Job-seeking Visa) | Available for job hunting after graduating in herbal pharmacy, stay of 6 months to 1 year |
-| Subclass F-2 (Residence Visa) | Obtainable as a step before permanent residence for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and Detail-oriented Person
-- Person with Scientific Thinking
-- Person Who Finds Reward in Helping Others
+- 细致且注重细节的人
+- 具有科学思维的人
+- 以帮助他人为乐的人
 
 **谁不适合**
-- Person Vulnerable to High Pressure
-- Person Clinging to Stereotypes Rather Than Open-mindedness
+- 易受高压影响的人
+- 固守成见而非开放包容的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an herbal pharmacist?**
-答：Starting salary is around 35-45 million won, and with over 8 years of experience, it can rise to 60-90 million won. It varies by workplace (oriental hospital, pharmacy, etc.) and region.
+**问：草药药剂师的平均工资是多少？**
+答：起薪约3500-4500万韩元，8年以上经验可升至6000-9000万韩元。因工作场所（韩医院、药房等）和地区而异。
 
-**问：Can foreigners work as herbal pharmacists in Korea?**
-答：It is possible, but requires obtaining a Korean herbal pharmacist license issued by the Ministry of Health and Welfare, and employment is possible through an E-7 visa. Korean language ability and academic requirements are stringent.
+**问：外国人能在韩国担任草药药剂师吗？**
+答：有可能，但需获得韩国保健福祉部颁发的韩药药剂师执照，并通过E-7签证就业。韩语能力和学历要求严格。
 
-**问：What is the promotion path for a herbal pharmacist?**
-答：Initially, one works as a pharmacist at a Korean medicine hospital or pharmacy, and can be promoted to responsible pharmacist, pharmacy manager, or administrator with experience. It is also possible to advance through graduate school or research positions.
+**问：中草药药剂师的晋升路径是什么？**
+答：最初在韩医院或药房担任药剂师，随着经验积累可晋升为责任药剂师、药房经理或管理人员。也可通过研究生院或研究职位晋升。
 
 
 ---
@@ -147,12 +137,12 @@ Graduation from a university (College of Oriental Pharmacy) and passing the nati
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/herbal-pharmacist/KR)**

@@ -51,8 +51,6 @@ Winemakers are responsible for the entire process of grape harvesting, fermentat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on winemakers is mixed: analysis and monitoring tasks can be automated, but winemaking decisions rely on senses and experience, and human moats are deep. Entry-level positions are slightly narrower due to the widespread use of data tools, while senior positions are more valuable.
-
 Starting as a winery assistant or harvest season temporary, with experience leading to promotion to winemaker, technical director, or winery partner/independent consultant. Some have turned to wine education or international trade.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Starting as a winery assistant or harvest season temporary, with experience lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed persons) | Employed work residency sponsored by Spanish employers must meet labor market tests and minimum wage requirements. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled talent requiring a university degree or 5 years of experience, annual salary at least 1.5 times the Spanish average wage (about €40,000+). |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for management or technical experts, no labor market testing required, and approval is fast. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: A bachelor's degree (such as Oenology) is a common requirement, and Advanced 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/winemaker/ES)**

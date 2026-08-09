@@ -51,8 +51,6 @@ Human Resources Manager is responsible for developing and implementing HR strate
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Typically start as an HR specialist or consultant, and with experience, advance to HR manager, senior manager, HR director, and ultimately Chief Human Resources Officer (CHRO).
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Typically start as an HR specialist or consultant, and with experience, advance 
 | Subclass General Employment P (General Employment Permit) | Applicable to general HR positions with an annual salary above €30,000, but subject to labor market testing |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled HR managers earning over 1.5 times the average Irish salary (approx. 43,000 euros). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Not mandatory, but having CIPD certification significantly boosts competitive
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resource-manager/IE)**

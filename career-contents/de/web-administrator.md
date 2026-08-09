@@ -52,8 +52,6 @@ Responsible for daily maintenance, content management, security monitoring, and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Network administrator role faces moderate replacement risk due to AI tools (e.g., automated monitoring, configuration management), but AI also improves efficiency, allowing focus on high-value tasks like security policy optimization.
-
 Can be promoted to network operations manager, IT project manager, or specialize in areas like cybersecurity, cloud computing to increase salary and position.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted to network operations manager, IT project manager, or specialize
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualifications or degree, employer sponsorship, no strict salary threshold. |
 | Subclass Chancenkarte (Chancenkarte) | Points-based opportunity card allowing entry for job seeking without employer sponsorship. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to IT Manager, Network Operations Manager, or specialize in field
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-administrator/DE)**

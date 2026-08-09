@@ -51,8 +51,6 @@ A production worker who operates auto assembly lines and monitors industrial rob
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will replace some simple operation tasks in this job, but advanced tasks like robot maintenance and programming will be strengthened, increasing demand.
-
 Depending on experience, promotion to line management, robot programming, or production team leader is possible; faster growth is achievable with technical training.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Depending on experience, promotion to line management, robot programming, or pro
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Non-professional foreign workforce, limited to manufacturing (Employment Permit System applicable) |
-| Subclass E-7 (Specific Activities) | Visa for skilled workers, requires certification and experience |
-| Subclass F-2 (Residence) | E-7 → F-2 convertible, long-term stay |
-| Subclass F-4 (Overseas Korean) | Available for Overseas Koreans, Employment in Manufacturing |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Possible to advance to line manager, robot programmer, production team leader
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auto-assembly-line-and-industrial-robot-operator/KR)**

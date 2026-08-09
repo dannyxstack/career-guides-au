@@ -49,8 +49,6 @@ A production worker responsible for packaging products, attaching labels, inspec
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Packaging work is being rapidly replaced by automated packaging machines, robotic arms, and AI vision inspection systems. Simple repetitive tasks are decreasing, but human roles are expected to persist for the time being in precision packaging or high-mix, low-volume production.
-
 Starting as a packaging worker, one can advance to production line manager, quality control (QC), or logistics team. Career transition to skilled worker (E-7-1) is possible but has entry barriers.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Starting as a packaging worker, one can advance to production line manager, qual
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Eligible to enter as a manufacturing packaging worker under the Employment Permit System. Employer applies. |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Possible when switching to skilled worker. Requires certain experience and Korean language requirements. |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible when switching to the points system. Via E-7-1 Skilled Worker. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: Can be promoted to line manager, quality control, or logistics team depending
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packaging-worker/KR)**

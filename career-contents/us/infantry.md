@@ -54,8 +54,6 @@ Infantry are the core of US ground combat forces, responsible for operating weap
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on infantry roles is mixed: autonomous weapons and reconnaissance drones will replace some combat tasks, but AI enhances situational awareness and decision-making, while core combat responsibilities remain with humans.
-
 Infantry can be promoted to squad leader, platoon leader, etc., or transfer to special forces, military training, and other specialized areas.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Infantry can be promoted to squad leader, platoon leader, etc., or transfer to s
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: After military service, can work in security, law enforcement, logistics, or 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/infantry/US)**

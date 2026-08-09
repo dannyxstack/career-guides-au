@@ -51,8 +51,6 @@ Analog/mixed-signal IC design engineers design analog and digital-analog hybrid 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
-
 The UK focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ The UK focuses on AI accelerators and low-power/simulation design, with engineer
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/analog-mixedsignal-ic-design-engineer/UK)**

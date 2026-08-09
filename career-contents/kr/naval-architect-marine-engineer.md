@@ -50,8 +50,6 @@ A professional engineer responsible for the design, research, development, and p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation compress and improve some tasks such as ship design simulation, process optimization, and quality inspection, but creative design and on-site decision-making are led by humans. Overall, the impact is toward strengthening expertise rather than replacement by automation.
-
 Starting as a junior engineer, one can advance to senior engineer, team leader, or principal researcher by accumulating experience in ship design and production technology, typically within major shipyards.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as a junior engineer, one can advance to senior engineer, team leader, 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for skilled professionals in shipbuilding/marine fields. Technical qualifications and experience required. |
-| Subclass F-2 (Residence) | Possible to transition to permanent residence after long-term stay. Common transition from E-7. |
-| Subclass D-10 (Job Seeking) | Allows engineering graduates to seek jobs after graduation. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Generally, a bachelor's degree in ship and ocean engineering or a related eng
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/naval-architect-marine-engineer/KR)**

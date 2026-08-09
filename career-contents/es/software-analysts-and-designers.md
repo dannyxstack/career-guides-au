@@ -53,8 +53,6 @@ Software analysts and designers are responsible for analyzing user needs, design
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Junior level can be promoted to senior analyst, architect, or project manager; They can also shift to areas such as data science, artificial intelligence, or cybersecurity, where those with multilingual abilities are more competitive.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior level can be promoted to senior analyst, architect, or project manager; T
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Highly skilled talents requiring a work contract and salary meeting the threshold (approximately €33,908/year) |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated professionals, with a relatively fast process |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary work residence requires employer sponsorship |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to software architect, technical manager, or move into fi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-analysts-and-designers/ES)**

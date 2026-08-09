@@ -4,8 +4,6 @@
 
 A professional engineer who supervises and reviews whether the design and construction of civil engineering works comply with design documents and relevant laws, and manages quality and safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional engineer who supervises and reviews whether the design and constr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates simple tasks like reviewing supervision documents and analyzing safety inspection data, reducing routine work. However, on-site judgment and legal responsibility must be performed by humans, so the job is not fully replaced.
-
 Promotion from junior supervisor → intermediate supervisor → senior supervisor → head of supervision office, with experience and certifications (e.g., Construction Safety Engineer) being important.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Promotion from junior supervisor → intermediate supervisor → senior supervis
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to foreigners with specialized knowledge/skills, construction companies can invite |
-| Subclass D-10 (Job Seeking) | Holders of relevant degrees can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Long-term stay possible with points-based permanent residency |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Although new SOC orders are decreasing, steady jobs are expected due to maint
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-supervisor/KR)**

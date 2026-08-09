@@ -53,8 +53,6 @@ Responsible for installation, commissioning, diagnosis, and maintenance of elect
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Troubleshooting and testing tasks for electronic engineering technicians face threats from AI automation, but AI will also enhance their design verification and data analysis capabilities. Meanwhile, on-site repairs, compliance responsibilities, and creative design still rely on human judgment, requiring career development towards high-value skills.
-
 You can be promoted from junior technician to senior technician, team leader, or project manager. Through further study, you can turn to system design or technical support. French professional certifications (such as CQP) help with promotion.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from junior technician to senior technician, team leader, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for those with a master's degree or higher, or highly skilled talents; requires an employer contract, valid for 4 years, renewable, spouse can accompany and work. |
-| Subclass Salarié (Employee Work Permit) | Long-term work visas require employer sponsorship, valid for 1-4 years, and are affected by labor market conditions. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable for higher education and salary at 1.5 times the average wage (approx €53,000/year), valid for 4 years, fast track to EU permanent residency. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Mainly through CAP (2 years) or BTS (2 years) electronic technology diplomas,
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-installation-and-maintenance-technician/FR)**

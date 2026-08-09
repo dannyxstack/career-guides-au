@@ -4,8 +4,6 @@
 
 Senior nutrition technicians work in Spanish hospitals, clinics, nursing homes, and the food industry to conduct dietary assessments, develop nutrition plans, and promote health, serving as important supporting members of the medical team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Senior nutrition technicians work in Spanish hospitals, clinics, nursing homes, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Senior nutrition technicians' dietary assessment and data organization tasks are easily automated by AI, but personalized interventions, health education, and teamwork rely on human professional judgment and empathy, presenting both risks and opportunities.
-
 Candidates can be promoted from junior technician to department head or specialist nutritionist; Through continuing education, students can obtain nutritionist qualifications or shift to food research and development, public health management, and other fields.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Candidates can be promoted from junior technician to department head or speciali
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled talents who require a university degree and above-average salary contracts. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For senior professionals, streamlined process requires annual salary above approximately EUR 35,000. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Yes, by completing a Bachelor's (4 years) or Master's in Nutrition, and regis
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-dietetic-technician/ES)**

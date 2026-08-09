@@ -4,8 +4,6 @@
 
 Agricultural technology engineers are responsible for designing, supervising, and optimizing agricultural production systems, including crop cultivation, livestock breeding, agricultural mechanization, and rural water resource management, ensuring sustainable development and production efficiency.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Agricultural technology engineers are responsible for designing, supervising, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural technical engineers will greatly benefit from AI's capabilities in data analysis, predictive modeling, and automated monitoring, but field decision-making, multivariate integration, and cross-system coordination still depend on human judgment, with job responsibilities evolving toward technical consultants and system optimizers.
-
 Career paths: junior engineer→ project manager→ technical director, or independent consultant. You can specialize in agricultural environmental management, biotechnology, or agricultural digitalization, or enter research and teaching fields.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career paths: junior engineer→ project manager→ technical director, or indep
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires a sponsorship from a Spanish company and passes the labor market test. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled professionals, requiring a university degree and more than 3 years of experience, with a salary threshold of about 33,000 euros. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | The High-Skilled Professional Visa (Ley 14/2013), a fast-track entry for management or technical experts. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: With growing demand for precision agriculture and sustainable development, th
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technical-engineer/ES)**

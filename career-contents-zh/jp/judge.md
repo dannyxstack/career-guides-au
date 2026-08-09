@@ -1,10 +1,8 @@
 # 法官（Judge）职业分析 · 日本
 
-**职业代码: 171 (JSCO)**
+**职业代码：171 (JSCO)**
 
-An independent judicial profession that adjudicates civil and criminal cases in courts. As a core member of the legal triad, duties are performed based on the Court Act.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+独立司法职业，在法院审判民事和刑事案件。作为法律三支柱的核心成员，根据《法院法》履行职责。
 
 
 ---
@@ -13,8 +11,8 @@ An independent judicial profession that adjudicates civil and criminal cases in 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Law School (Advanced Course) | 2 年 | $3,000,000~$5,000,000（Private: approx. ¥1 million/year (National: approx. ¥1.5 million)） |
-| Legal Apprenticeship (Shihō Shūshū) | 1年 | $0~$0（Stipend provided (approx. ¥200,000/month)） |
+| 法学院（高级课程） | 2 年 | $3,000,000~$5,000,000（私营：约100万日元/年（全国：约150万日元）） |
+| 司法研修（司法修習） | 1年 | $0~$0（提供津贴（约20万日元/月）） |
 
 ---
 
@@ -22,17 +20,17 @@ An independent judicial profession that adjudicates civil and criminal cases in 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Passing the National Bar Exam | Ministry of Justice | 必备 | Those who have passed the Bar Exam and completed legal apprenticeship |
-| Appointment as Judge | Supreme Court | 必备 | Appointed by the Supreme Court; after appointment, status as a judge is guaranteed. |
+| 通过国家律师资格考试 | 法务部 | 必备 | 已通过律师资格考试并完成法律实习者 |
+| 法官任命 | 最高法院 | 必备 | 由最高法院任命；任命后，法官身份得到保障。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 4,000. The quota for judges is set by law, with only about 20-30 hired annually, making it a highly competitive field. Although the number of lawsuits is declining due to the falling birthrate, no major fluctuations are expected due to judicial stability.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 4,000。法官名额由法律规定，每年仅录用约20-30人，竞争极为激烈。尽管因少子化诉讼数量减少，但出于司法稳定性，预计不会有大幅波动。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,90 +38,84 @@ An independent judicial profession that adjudicates civil and criminal cases in 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (3rd year Assistant Judge) | $6,000,000~$8,000,000 | Base salary plus various allowances |
-| Mid-level (15th year Judge) | $12,000,000~$15,000,000 | Salary increases based on years of court service |
-| Senior (Supreme Court Justice) | $20,000,000~$25,000,000 | Chief Justice: approx. ¥25 million |
+| 初级（第三年助理法官） | $6,000,000~$8,000,000 | 基本工资加各类津贴 |
+| 中级（第15年法官） | $12,000,000~$15,000,000 | 薪资根据法院服务年限增长 |
+| 高级（最高法院大法官） | $20,000,000~$25,000,000 | 首席法官：约2500万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot completely replace judges' decisions, but it will be used in auxiliary tasks such as searching past precedents and document drafting. It will expand judges' expertise and allow them to focus on more complex cases.
+AI无法完全取代法官的判决，但将用于搜索先例和起草文书等辅助工作，扩大法官的专业领域，使其专注于更复杂的案件。
 
-After completing legal apprenticeship, one is hired as an assistant judge and promoted to judge after 10+ years of experience. Further career paths include High Court judge and Supreme Court judge.
+完成法律见习后，被任命为助理法官，10年以上经验后晋升为法官。进一步职业路径包括高等法院法官和最高法院法官。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Case law research
-- Format creation
-- Data entry
+- 案例法研究
+- 格式创建
+- 数据录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fact-finding assistance
-- Providing reference information for sentencing
-- Proposing settlement plans between parties
+- 事实调查协助
+- 提供量刑参考信息
+- 在各方之间提出和解方案
 
-**人类护城河:**
+**人类护城河：**
 
-- Human ethical judgment
-- Legal interpretation
-- Consideration of social norms
-- Trust and authority
+- 人类伦理判断
+- 法律口译
+- 考虑社会规范
+- 信任与权威
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Legal tech
-- Data analysis
-- Psychology
-- Communication skills
+- 法律科技
+- 数据分析
+- 心理学
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Judicial system reform
-- IT adoption in court procedures
-- Increase in family cases
-- International adjudication
+- 司法体系改革
+- 法庭程序中的信息技术应用
+- 家庭案件增加
+- 国际裁判
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible with certain qualifications (e.g., foreign attorney), but appointment as a judge requires Japanese citizenship, making it impractical. |
-
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with meticulous analytical skills
-- People who are fair and independent
-- People who can maintain focus for long periods
+- 具有细致分析能力的人
+- 公平独立的人
+- 能长时间保持专注的人
 
 **谁不适合**
-- People who are weak under pressure
-- People who lack flexibility
+- 不抗压的人
+- 缺乏灵活性的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a judge?**
-答：About 6-8 million yen for assistant judges, 12-15 million for judges, and over 20 million for the Supreme Court.
+**问：法官的年收入是多少？**
+答：助理法官约600-800万日元，法官1200-1500万日元，最高法院法官超过2000万日元。
 
-**问：Can a foreigner become a judge in Japan?**
-答：It is generally impossible as Japanese nationality is required. However, it is possible to work at a Japanese law firm with qualifications such as a foreign lawyer.
+**问：外国人能在日本成为法官吗？**
+答：一般不可能，因为需要日本国籍。但持有外国律师等资格可在日本律所工作。
 
 
 ---
@@ -141,12 +133,12 @@ After completing legal apprenticeship, one is hired as an assistant judge and pr
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/judge/JP)**

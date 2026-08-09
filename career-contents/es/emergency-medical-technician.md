@@ -52,8 +52,6 @@ In Spain, emergency medical technicians are responsible for on-site emergency ca
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
-
 Technicians can be promoted from junior technicians to senior technicians or team leaders, or through continuing education to become nursing staff or emergency medical technicians, with some entering medical dispatch or training positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Technicians can be promoted from junior technicians to senior technicians or tea
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish employer to apply for employment-based residence requires meeting the labor market test |
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but emergency medical technicians usually do not meet the high skill requirements and are rarely used |
-| Subclass Busqueda empleo (Job Search Visa) | Allows you to stay in Spain for 6 months looking for work, after which you can convert to work residence |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Completion of 2 years of intermediate vocational training (FP Grado Medio) an
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-medical-technician/ES)**

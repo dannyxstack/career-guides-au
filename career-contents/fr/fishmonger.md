@@ -4,8 +4,6 @@
 
 Fishmongers are responsible for selling fish and seafood at fish shops, supermarkets, or markets, including sourcing, weighing, cleaning products needed by customers, and providing cooking advice. This profession requires knowledge of seafood and a good service attitude.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Fishmongers are responsible for selling fish and seafood at fish shops, supermar
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core manual tasks for fish vendors (cleaning, scaling, chopping) are difficult to replace in the short term, but inventory management, sales recommendations, and weighing settlement will gradually be enhanced or automated by AI tools. Competition for entry-level positions is intensifying, but the upgrade path is clear, and embracing digital tools is necessary.
-
 Fishmongers can be promoted from junior salesperson to senior fishmonger or store manager, or move into seafood wholesale, supply chain management, or food hygiene. Some practitioners gain experience through CAP or apprenticeship programs and can open their own fish shops.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Fishmongers can be promoted from junior salesperson to senior fishmonger or stor
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | For employment-based residence, a French employer must provide a work contract and prove that the position cannot be filled by an EU citizen |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: You can be promoted from assistant fishmonger to independent fishmonger, stor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishmonger/FR)**

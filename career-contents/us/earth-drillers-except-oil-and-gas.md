@@ -54,8 +54,6 @@ Operate rotary drills, percussion drills, pneumatic drills, etc., to drill groun
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
-
 Start as a drilling assistant (driller), gain experience, and advance to senior driller or drilling supervisor. Some transition to equipment sales, training, or project management. Field experience is key capital.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Start as a drilling assistant (driller), gain experience, and advance to senior 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Typically requires a commercial driver's license (CDL) and OSHA safety traini
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earth-drillers-except-oil-and-gas/US)**

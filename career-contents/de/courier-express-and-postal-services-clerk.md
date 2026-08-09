@@ -51,8 +51,6 @@ Responsible for processing incoming and outgoing courier, parcel, and mail items
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automation will significantly reduce demand for this role; tasks like sorting, querying, and checking are easily automated, entry-level jobs will decrease sharply, but complex logistics coordination still requires humans.
-
 Can advance from junior sorter/customer service to team supervisor, operations manager, or regional coordinator, or move into logistics management, supply chain planning, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from junior sorter/customer service to team supervisor, operations m
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to team supervisor, operations manager, or logistics coordinator,
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/courier-express-and-postal-services-clerk/DE)**

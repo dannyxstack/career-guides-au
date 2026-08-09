@@ -51,8 +51,6 @@ Responsible for processing metal into desired shapes and sizes through non-cutti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Non-cutting metal forming workers face moderate automation risk; AI can optimize processes and simulations, but hands-on operation, die adjustment, and quality judgment still rely on human experience.
-
 Can progress from junior operator to team leader, section supervisor, or further training to become a Meister or Techniker, then transition to production management or quality control.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior operator to team leader, section supervisor, or further
 | Subclass EU Blue Card (EU Blue Card) | If the annual salary meets the minimum requirement (approx. €43,800 in 2025), you can apply for a Blue Card |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Obtained through a points-based system, allows entry to Germany for job-seeking and credential assessment. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, you can become a master craftsman (Meister) or technician (Techniker) th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncutting-metal-forming-worker/DE)**

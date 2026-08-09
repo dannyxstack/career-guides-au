@@ -53,8 +53,6 @@ Architectural draftspersons in New Zealand use CAD/BIM software to create archit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Architectural drafters face mixed impacts from AI: simple drafting tasks are replaced by automation tools, but BIM, parametric design, and sustainability needs actually increase demand for creative, collaborative senior drafters.
-
 Junior drafters can advance to senior drafters, BIM coordinators, or project managers. With experience, it's easy to transition to architectural design management or specialized areas like sustainable design.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior drafters can advance to senior drafters, BIM coordinators, or project man
 | Subclass SMC (Skilled Migrant Category) | Apply under the 6-point system with qualifications and work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: No mandatory registration required, but NZAD certification can enhance job co
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architectural-draftsperson/NZ)**

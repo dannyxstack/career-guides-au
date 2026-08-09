@@ -52,8 +52,6 @@ Assist in developing and implementing marketing and advertising projects, collec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will reshape the task structure for advertising and marketing assistant professionals: routine tasks such as basic data analysis, report generation, and client communication face automation, but creative strategy, client insight, and AI tool application skills will be enhanced.
-
 Can advance from assistant to marketing manager, account manager, or digital marketing director. After gaining experience in project management, data analysis, and creative planning, can move towards brand management or strategic consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from assistant to marketing manager, account manager, or digital mar
 | Subclass Graduate (Graduate Visa) | After graduation, you can work in the UK for 2 years (3 years for PhD), then transition to Skilled Worker after gaining experience. |
 | Subclass Scale-up (Scale-up Visa) | Applicable to positions offered by rapidly growing companies, typically with higher salary requirements but streamlined processes. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Obtain professional certifications like CIM or IDM, accumulate digital market
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-marketing-associate-professionals/UK)**

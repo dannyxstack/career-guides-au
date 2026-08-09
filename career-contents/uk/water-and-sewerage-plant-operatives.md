@@ -54,8 +54,6 @@ Operate valves to control the water supply network, monitor filtration, purifica
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Water and wastewater plant operators face automation compression risk; AI and remote monitoring will replace most routine inspections and manual operations, significantly reducing entry-level positions, but equipment maintenance and emergency response retain human value.
-
 Can progress from operator to senior operator, shift supervisor or water plant manager; can also move into water technology or management through NVQ or apprenticeship.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from operator to senior operator, shift supervisor or water plant m
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to senior operator, shift supervisor, water plant manager, or tra
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-and-sewerage-plant-operatives/UK)**

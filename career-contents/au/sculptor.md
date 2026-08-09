@@ -54,8 +54,6 @@ Sculptors create three-dimensional artworks using various materials such as ston
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-A sculptor's core creativity and manual skills are hard to replace by AI, but AI brings efficiency gains in concept generation, client communication, and repetitive tasks, while entry-level positions face competition from AI tools.
-
 Career progression can start as an assistant sculptor, gain experience to take on independent projects, or teach at art schools. A few top artists establish studios and undertake large public projects, or transition to art director or curator roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression can start as an assistant sculptor, gain experience to take o
 | Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; sculptors are usually not on the occupation list, applicable in rare cases |
 | Subclass 189 (Skilled Independent Visa) | Sculptor is not on the MLTSSL, cannot apply |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Sculptors are usually not on the skilled migration occupation list; skilled m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sculptor/AU)**

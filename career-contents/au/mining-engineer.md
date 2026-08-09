@@ -55,8 +55,6 @@ Mining engineers plan, design and oversee mining operations, including open-cut 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
-
 Demand for engineers combining mining and IT expertise has increased sharply due to autonomous mining equipment (Rio Tinto/BHP automation systems). Critical Minerals is the fastest-growing salary segment within mining from 2025 to 2035.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Demand for engineers combining mining and IT expertise has increased sharply due
 | Subclass 190 (Skilled Nominated) | State nomination; WA (national mining hub) is prioritised |
 | Subclass 491 (Skilled Work Regional) | Regional mining position, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Mining engineers earn much higher salaries ($145k~$175k vs $95k~$115k), have 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-engineer/AU)**

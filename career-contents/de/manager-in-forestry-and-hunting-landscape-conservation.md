@@ -51,8 +51,6 @@ Responsible for forest and game management, landscape conservation and ecologica
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Practitioners typically start as forestry technicians or rangers, and with experience can advance to regional forestry manager or department head. Some transition to ecological consulting or sustainable resource management through further education.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Practitioners typically start as forestry technicians or rangers, and with exper
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to forestry workers with a degree or dual system training; no minimum salary, but requires employer sponsorship and qualification certification. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa allowing entry to Germany to find work, requiring a degree or vocational qualification and German language proficiency at A2 level. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must have qualifications recognised through the German official agency Anabin
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-in-forestry-and-hunting-landscape-conservation/DE)**

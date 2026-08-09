@@ -51,8 +51,6 @@ Responsible for menu planning, ingredient procurement, kitchen management and di
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
-
 Progress from chef to head chef, then with management experience can become executive chef or food and beverage director, or start own restaurant.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Progress from chef to head chef, then with management experience can become exec
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | Applicable to skilled workers, requires PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | Outstanding chefs (e.g., award-winning or media-covered) can apply |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Common H-1B visa (requires bachelor's or equivalent experience) and EB-3 gree
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chefs-and-head-cooks/US)**

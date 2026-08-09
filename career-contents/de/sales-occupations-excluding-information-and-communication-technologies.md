@@ -51,8 +51,6 @@ Responsible for product sales, customer relationship maintenance, and market dev
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
-
 Can advance from junior sales representative to sales manager, regional director, or even VP of Sales. Requires continuous improvement of communication and negotiation skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior sales representative to sales manager, regional director
 | Subclass Skilled Worker (Skilled Worker Visa (§18a AufenthG)) | Suitable for sales talent with vocational training or a university degree |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing one year to seek employment in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: From sales representative to sales manager, regional sales director, then to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-occupations-excluding-information-and-communication-technologies/DE)**

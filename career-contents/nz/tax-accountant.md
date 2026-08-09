@@ -52,8 +52,6 @@ Tax consultants provide tax planning, filing, and compliance services for indivi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve the efficiency of tax advisors, reducing demand for basic compliance tasks, but complex tax planning, dispute resolution, and client relationship management still require humans, resulting in a 'mixed blessings' scenario.
-
 Career path: Junior Tax Assistant → Tax Consultant → Senior Tax Consultant/Tax Manager → Tax Director or Partner. Can progress to specialized fields (e.g., international tax, transfer pricing) or consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: Junior Tax Assistant → Tax Consultant → Senior Tax Consultant/T
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: apply through the 6-point system (qualifications + work experience, etc.), this occupation can earn points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa: As a temporary work visa, it can be applied for after obtaining a job offer, allowing you to accumulate experience and then transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but holding an NZICA CA or CPA/ACCA certification significantl
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-accountant/NZ)**

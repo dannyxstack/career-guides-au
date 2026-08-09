@@ -52,8 +52,6 @@ Transport and distribution managers plan, organize, and coordinate passenger and
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Transport and distribution manager roles will undergo significant transformation: AI optimizes planning and documentation processing to improve efficiency, but tasks such as fleet scheduling and route optimization are gradually automated, while interpersonal coordination and emergency decision-making skills become more valuable.
-
 Can advance to operations director or supply chain VP; also possible to move into consulting or entrepreneurship, requiring management experience and logistics/transport management certifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to operations director or supply chain VP; also possible to move int
 | Subclass Global Talent (Global Talent visa) | For applicants with outstanding achievements or leadership in the logistics field. |
 | Subclass Graduate (Graduate visa) | UK graduates can work for 2 years after graduation, then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Demand is stable and growing, driven by e-commerce and green logistics, but i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-transport-and-distribution/UK)**

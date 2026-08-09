@@ -1,10 +1,8 @@
-# Other Security Workers 职业分析 · 日本
+# 其他安保人员（Other Security Workers）职业分析 · 日本
 
-**职业代码: 459 (JSCO)**
+**职业代码：459 (JSCO)**
 
-This occupation includes a variety of security duties such as museum/gallery monitors and parking lot attendants, excluding guards, police officers, and Self-Defense Forces personnel.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业包括博物馆/画廊警卫和停车场管理员等各类保安职责，不包括警卫、警察和自卫队人员。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation includes a variety of security duties such as museum/gallery mon
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 9年 | $0~$0（No educational background required. No special education needed.） |
-| Security Guard Training | 1-2周 | $0~$50,000（Basic training is a statutory 20-hour course upon hiring. Paid courses are also available.） |
+| 义务教育 | 9年 | $0~$0（无学历要求。无需特殊教育。） |
+| 保安培训 | 1-2周 | $0~$50,000（基础培训为入职时法定的20小时课程。也提供付费课程。） |
 
 ---
 
@@ -22,18 +20,18 @@ This occupation includes a variety of security duties such as museum/gallery mon
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Security Guard Certification (Class 1 & 2) | Prefectural Public Safety Commission | 可选 | Not mandatory for security work but advantageous for promotion and salary increase. |
-| Traffic Control Security (Class 2) | Prefectural Public Safety Commission | 可选 | Specialized certification for traffic control. High demand at construction sites. |
-| Disaster Prevention Manager | Fire and Disaster Management Agency | 可选 | Required for large facilities. Acquiring it opens paths to management positions. |
+| 保安证（一级和二级） | 县公安委员会 | 可选 | 对保安工作非强制但利于晋升和加薪。 |
+| 交通管制安全（2级） | 县公安委员会 | 可选 | 交通控制的专业认证。施工现场需求高。 |
+| 防灾管理员 | 消防与灾害管理局 | 可选 | 大型设施所需。获得后可通向管理职位。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 450,000. Demand is stable due to aging and labor shortages, but the security industry is advancing AI and sensor technology for labor-saving, leading to a gradual decline in hiring.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 450,000。因老龄化和劳动力短缺需求稳定，但安防行业正推进AI和传感器技术节省人力，招聘逐渐减少。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,92 +39,85 @@ This occupation includes a variety of security duties such as museum/gallery mon
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,800,000~$3,800,000 | Annual income. Base salary + various allowances. |
-| Mid Level (4-10 years) | $3,500,000~$5,000,000 | Annual income. Varies by experience and certifications. |
-| Senior Level (10+ years) | $4,500,000~$6,500,000 | Annual income. Management or site supervisor level. |
+| 入门级（0-3年） | $2,800,000~$3,800,000 | 年收入。基本工资+各类津贴。 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 年收入，因经验和证书而异。 |
+| 高级（10年以上） | $4,500,000~$6,500,000 | 年收入。管理层或现场主管级别。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of AI and camera surveillance systems, demand for human security guards is expected to gradually decrease, but complete replacement is difficult due to reliance on humans for complex judgments and emergency response.
+随着AI和摄像监控系统的引入，对人力保安的需求预计将逐渐减少，但由于复杂判断和应急响应依赖人类，完全替代困难。
 
-You can start with no experience and aim for team leader or management roles through on-site experience. Career paths include specializing in facility security or traffic control.
+可以无经验开始，通过现场经验争取团队领导或管理职位。职业路径包括专注于设施安保或交通管制。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant monitoring duties
-- Parking gate management
-- Patrol checkpoint confirmation
+- 持续监控职责
+- 停车场门禁管理
+- 巡逻检查点确认
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- On-site confirmation after anomaly detection
-- Emergency response
-- Security consulting
+- 异常检测后现场确认
+- 应急响应
+- 安全咨询
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible decision-making
-- Interpersonal communication
-- Coordination and guidance during emergencies
+- 灵活决策
+- 人际沟通
+- 紧急情况下的协调与指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Abnormal situation response training
-- Basic data analysis
-- Security risk management
+- 异常情况应对培训
+- 基础数据分析
+- 安全风险管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging facility security
-- Traffic guidance
-- Surveillance camera systems
-- Security consulting
+- 老龄化设施安保
+- 交通引导
+- 监控摄像头系统
+- 安全咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | May apply to security management or security system design roles requiring advanced knowledge and skills. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not covered for security work. May be obtainable in related fields such as construction. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically confident and willing to work night shifts
-- People who follow rules and can handle tasks patiently
-- People with a sense of mission to protect others' safety
+- 体格自信且愿意上夜班的人
+- 遵守规则并能耐心处理任务的人
+- 有保护他人安全使命感的人
 
 **谁不适合**
-- People who dislike physical labor or cannot tolerate monotonous tasks
-- People who are extremely poor at communication
+- 不喜欢体力劳动或无法忍受单调工作的人
+- 极度不擅沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the median annual income?**
-答：Median annual income is around 4 million yen after about 5 years of experience. Varies by qualifications and employer.
+**问：年收入中位数是多少？**
+答：约5年经验后年收入中位数约为400万日元。因资格和雇主而异。
 
-**问：Can foreigners work in this occupation in Japan?**
-答：Japanese language skills are essential for security work, and currently it is practically difficult to work as a security guard under existing residence statuses (e.g., Engineer/Specialist in Humanities/International Services). It is not covered by Specified Skilled Worker.
+**问：外国人可以在日本从事这个职业吗？**
+答：日语能力对保安工作至关重要，目前现有在留资格（如技术·人文知识·国际业务）下从事保安工作实际上很困难。特定技能签证不涵盖此职业。
 
 **问：有哪些晋升机会？**
-答：It is common to obtain the Security Guard Class 1 certification and aim to become a field leader or manager. Additionally, acquiring a Disaster Prevention Manager qualification can lead to promotion to security supervisor at large facilities.
+答：通常需要获得一级保安员认证，并争取成为现场领导或经理。此外，获得防灾管理员资格可晋升为大型设施的安保主管。
 
 
 ---
@@ -144,12 +135,12 @@ You can start with no experience and aim for team leader or management roles thr
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-security-workers/JP)**

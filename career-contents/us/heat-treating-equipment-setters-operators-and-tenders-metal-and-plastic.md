@@ -53,8 +53,6 @@ Operate or maintain heat treatment equipment such as quenching furnaces, inducti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Metal and plastic heat treatment equipment operators face automation compression risk—AI and robots can precisely control temperature curves and replace manual loading, but equipment maintenance and anomaly handling still require human judgment. Entry-level jobs are declining due to digital control systems, but demand for senior technicians is stable.
-
 Career path: Start as a junior operator; gain experience to advance to senior operator or team leader; some may transition to quality control or process engineer roles.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Career path: Start as a junior operator; gain experience to advance to senior op
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Not easy. Usually no bachelor's degree required, but H-1B applications diffic
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heat-treating-equipment-setters-operators-and-tenders-metal-and-plastic/US)**

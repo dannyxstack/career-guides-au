@@ -4,8 +4,6 @@
 
 A professional who makes rice cakes by kneading rice flour and steaming or baking them in various ways, producing both traditional and modern rice cakes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who makes rice cakes by kneading rice flour and steaming or bakin
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in dough mixing or baking temperature control, but handmade rice cakes using hand techniques and traditional methods are difficult to fully replace with AI, so the impact is minimal.
-
 Typically, they start at small bakeries or rice cake shops, gain experience, then start their own business or get promoted to a production line manager at a large food company.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Typically, they start at small bakeries or rice cake shops, gain experience, the
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Employment contract possible but limited outside manufacturing |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans (including Chinese-Korean) can work in rice cake manufacturing |
-| Subclass H-2 (Working Visit (H-2)) | Working Visit Koreans can engage in unskilled labor |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +128,12 @@ A: Partially possible with E-9 visa, but limited to manufacturing; overseas Kore
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rice-cake-maker/KR)**

@@ -53,8 +53,6 @@ Responsible for managing loans, investments, and fund operations of banks, credi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core decision-making and client relationships for bank, credit, and other investment managers are hard to replace, but data analysis and report generation will be highly automated by AI, reducing total positions but requiring higher composite skills.
-
 Typically promoted from roles such as financial analyst or credit officer, gaining experience to become department head or regional manager. Senior positions can lead to executive roles such as vice president or chief risk officer.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically promoted from roles such as financial analyst or credit officer, gaini
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario, British Columbia, and Alberta have finance nomination programs |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa for obtaining a closed work permit or accumulating Canadian experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Difficult; suggest gaining Canadian experience via LMIA work permit or study,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/banking-credit-and-other-investment-managers/CA)**

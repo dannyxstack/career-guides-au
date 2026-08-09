@@ -52,8 +52,6 @@ ERP consultants are responsible for implementing, configuring, training, and opt
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on ERP consultants is mixed: configuration and testing tasks may be automated, but business analysis, change management, and system integration requiring deep industry knowledge and client communication are enhanced by AI.
-
 Career progression from junior consultant (configuration/support) to project manager/module lead, then to senior solutions architect or IT director. PMI-PMP or ITIL certification can enhance advancement opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression from junior consultant (configuration/support) to project man
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Apply based on a 6-point system meeting qualifications, experience, etc. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer-sponsored work visa, the most direct work visa pathway |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Mainly from government agencies, manufacturing, logistics, and financial serv
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/erp-consultant/NZ)**

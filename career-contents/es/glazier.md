@@ -4,8 +4,6 @@
 
 Glassworkers are responsible for installing, replaceing, and repairing glass windows, mirrors, glass curtain walls, and other glass products in construction, decoration, and maintenance projects. They are an important technical occupation in building construction and maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Glassworkers are responsible for installing, replaceing, and repairing glass win
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 Glassworkers usually start as apprentices and can be promoted to foremen or project supervisors after gaining experience, or choose to specialize in high value-added fields such as safety glass, artistic glass, or facade systems.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Glassworkers usually start as apprentices and can be promoted to foremen or proj
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | For work residence sponsored by a Spanish employer, it must be proven that the position cannot be filled by a local or EU citizen. |
-| Subclass Busqueda empleo (Job Search Visa) | Allow 6 months of stay to look for work, but you must prove sufficient financial capability. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Glassworkers are not considered high-skilled professions; third-country immig
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/ES)**

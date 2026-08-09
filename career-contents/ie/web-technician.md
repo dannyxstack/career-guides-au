@@ -52,8 +52,6 @@ In Ireland, network technicians are responsible for website maintenance, server 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Network technicians face mixed effects of AI: automation will compress basic operations roles, but AI tools also enhance monitoring, troubleshooting, and documentation generation, improving efficiency and value.
-
 Can advance from junior technical support to senior network administrator or IT project manager, or move into specialized fields like cybersecurity or cloud computing through certification.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior technical support to senior network administrator or IT 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Typically requires a job offer and application for a General Employment Permi
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-technician/IE)**

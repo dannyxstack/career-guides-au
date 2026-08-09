@@ -53,8 +53,6 @@ Assemble automotive parts on the assembly line, perform final inspections and te
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Vehicle assemblers, inspectors and testers face high automation risk; AI and robots will significantly replace repetitive assembly and inspection tasks, but complex fault diagnosis and final inspection still require human judgment.
-
 Can progress from assembler to team leader, quality inspection supervisor, or become a mechanical/electrical technician through apprenticeship. Some experienced individuals may transition to the automotive repair industry.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from assembler to team leader, quality inspection supervisor, or be
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario) may have manufacturing-oriented provincial nominations, but LMIA support is required |
 | Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Generally does not meet 0/A/B occupation requirements, so not feasible. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Affected by automation and electric vehicles, demand is slowly declining, but
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-assemblers-inspectors-and-testers/CA)**

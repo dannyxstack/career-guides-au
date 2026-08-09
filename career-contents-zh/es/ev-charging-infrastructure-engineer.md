@@ -1,6 +1,6 @@
-# EV Charging Infrastructure Engineer 职业分析 · 西班牙
+# 电动汽车充电基础设施工程师（EV Charging Infrastructure Engineer）职业分析 · 西班牙
 
-**职业代码: 2441-EVCI (CNO)**
+**职业代码：2441-EVCI (CNO)**
 
 电动车充电基础设施工程师负责公共/商用充电站的电气设计、配电接入、并网与合规，涵盖直流快充(DCFC)、负荷管理、OCPP 通信与场站储能集成，随 EV 保有量上升而快速分化。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 1,500. 在西班牙，电动车渗透与充电网络铺设推动需求上行，电动车充电基础设施工程师绑定电气工程紧缺趋势，前景良好。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 1,500。在西班牙，电动车渗透与充电网络铺设推动需求上行，电动车充电基础设施工程师绑定电气工程紧缺趋势，前景良好。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装与物理调试等任务仍需人工主导，整体前景积极。
 
 西班牙超快充与车队充电成为热点，站点常需配电升级与储能削峰；AI 辅助选址与负荷预测，核心电气设计与合规由工程师完成。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 初步电气负荷计算与电缆选型报告生成
 - OCPP 通信报文调试与日志分析
@@ -64,7 +64,7 @@ AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装�
 - 充电站性能数据的自动汇总与异常检测
 - 基于历史数据的充电站选址初步分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用 AI 仿真工具优化直流快充站（DCFC）的负荷分配与储能策略
 - 通过 AI 辅助设计工具快速生成多种配电方案并比较成本与效率
@@ -72,7 +72,7 @@ AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装�
 - 借助 AI 视觉检测自动识别安装现场的安全隐患
 - 利用 LLM 自动解析新的法规（如澳洲 EV 充电标准更新）并提炼关键要求
 
-**人类护城河:**
+**人类护城河：**
 
 - 与电网运营商、电气承包商及政府部门的协调与谈判
 - 现场安装督导、调试与故障排除的动手能力
@@ -80,7 +80,7 @@ AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装�
 - 高压电气安全（HV Safety）的实操经验与认证
 - 与客户及利益相关方沟通并定制非标解决方案的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 熟练使用 AI 辅助电气设计工具（如 ETAP AI 插件或类似平台）
 - 掌握 OCPP 与 ISO 15118 协议及 AI 日志分析工具
@@ -89,28 +89,21 @@ AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装�
 - 熟悉澳洲国家电力市场（NEM）与 AI 预测工具
 - 学习现场增强现实（AR）检修辅助系统的操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Public Fast/Ultra-Fast Charging Electrical Design & Grid Integration
-- Charging Network Load Management & Distribution Upgrades
-- Charging Standards & Compliance (OCPP)
-- Vehicle-to-Grid (V2G) & Site Storage Integration
-- Fleet & Commercial Charging Infrastructure Planning
+- 公共快充/超快充电气设计与电网集成
+- 充电网络负荷管理与配电升级
+- 充电标准与合规（OCPP）
+- 车辆到电网（V2G）与站点储能集成
+- 车队及商业充电基础设施规划
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，西班牙主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Profesional Altamente Cualificado（Ley 14/2013）高技能专业人才居留 |
-| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card：高薪+学历工程师通道 |
-| Subclass Cuenta ajena (Employed work) | 受雇工作居留许可 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -162,12 +155,12 @@ AI 将放大 EV 充电工程师的设计优化与合规能力，但现场安装�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ev-charging-infrastructure-engineer/ES)**

@@ -4,8 +4,6 @@
 
 A herbal pharmacist is a professional who prepares herbal medicines based on Korean traditional medicine theory and provides drug therapy to patients in oriental medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A herbal pharmacist is a professional who prepares herbal medicines based on Kor
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will play a supporting role in herbal prescription assistance and drug interaction analysis, but tasks requiring human judgment and empathy, such as patient consultation and medication guidance, are difficult to replace. Therefore, some tasks may be automated, but the job itself will not disappear.
-
 Graduation from a university (College of Oriental Pharmacy) and passing the national herbal pharmacist exam are required. Afterward, work at oriental hospitals, pharmacies, or clinics is possible, with promotion to chief pharmacist or manager based on experience.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Graduation from a university (College of Oriental Pharmacy) and passing the nati
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (Professional)) | As a professional, herbal pharmacists can obtain an E-7 visa, requiring a license from Korea's Ministry of Health and Welfare |
-| Subclass D-10 (Job-seeking Visa) | Available for job hunting after graduating in herbal pharmacy, stay of 6 months to 1 year |
-| Subclass F-2 (Residence Visa) | Obtainable as a step before permanent residence for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Initially, one works as a pharmacist at a Korean medicine hospital or pharmac
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/herbal-pharmacist/KR)**

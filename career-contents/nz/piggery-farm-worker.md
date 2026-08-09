@@ -53,8 +53,6 @@ Pig farm workers are responsible for daily pig care, including feeding, cleaning
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pig farm workers: moderate-risk occupation; manual tasks hard to replace, but monitoring and recording jobs prone to AI takeover, balancing opportunities and threats.
-
 Junior workers can gain experience and be promoted to senior keeper or farm supervisor, and some may move to veterinary assistant or farm manager. However, career progression is limited; additional undergraduate studies in animal science or agricultural management are needed to enter management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior workers can gain experience and be promoted to senior keeper or farm supe
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: New Zealand's pig farming industry is small; becoming a farm supervisor or ma
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/piggery-farm-worker/NZ)**

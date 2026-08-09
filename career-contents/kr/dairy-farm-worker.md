@@ -4,8 +4,6 @@
 
 This is an agricultural occupation that involves raising dairy cows, producing milk, managing barns, and performing milking tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This is an agricultural occupation that involves raising dairy cows, producing m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation can replace some tasks through milking robots, automatic feeders, etc., but human judgment is still needed for barn management and animal health monitoring, making full replacement difficult.
-
 Beginners can start with barn management and milking assistance, gain experience, and then advance to running a dairy farm or becoming a livestock consultant.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Beginners can start with barn management and milking assistance, gain experience
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers; dairy farming is an industry covered by the Employment Permit System |
-| Subclass F-2 (Residence) | Eligible for permanent residence after a period of stay |
-| Subclass E-7 (Specific Activities) | Issuable to skilled workers, but limited applicability in dairy farming |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Livestock engineer certification is helpful but not mandatory; field experien
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-farm-worker/KR)**

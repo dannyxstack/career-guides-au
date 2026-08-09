@@ -4,8 +4,6 @@
 
 A cartoonist is an artistic profession that combines story and drawing to create various cartoon content such as webtoons, published comics, and cartoons. Recently, it has gained attention due to the rapid growth of webtoon platforms.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A cartoonist is an artistic profession that combines story and drawing to create
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines some parts of comic production (background coloring, translation, pattern generation, etc.), but creative core areas such as story creation and character design will remain uniquely human. Overall automation impact is limited, and work speed improvements using AI are expected.
-
 Initially, artists build recognition by serializing works on webtoon platforms. Upon success, they diversify income through IP expansion such as publishing and media adaptation, deepening their expertise.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Initially, artists build recognition by serializing works on webtoon platforms. 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to professional cartoonists with contracts from domestic publishers or platforms, but must meet special requirements in the culture and arts field |
-| Subclass F-2 (F-2 (Residence)) | Freelance creative work possible for long-term residents |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: The common success path is to win a rookie contest on a webtoon platform or s
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartoonist/KR)**

@@ -55,8 +55,6 @@ Responsible for processing fibers into yarn, cable, or rope; operating spinning,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Yarn and rope manufacturing workers face moderate automation risk, but AI is more of an assistive tool than complete replacement. Repetitive tasks are easily automated, but process adjustments and quality control still require human judgment.
-
 Career path: progress from operator to technician, team leader, or through further study become textile quality engineer or production supervisor.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path: progress from operator to technician, team leader, or through furth
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking in Germany for up to one year, requiring language level A2 and vocational qualifications |
 | Subclass EU Blue Card (EU Blue Card) | Usually not applicable as it is a non-academic occupation, but may be attempted if salary threshold is met |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Not required; typically entry is through 3-year dual vocational training.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/yarn-and-rope-production-specialist/DE)**

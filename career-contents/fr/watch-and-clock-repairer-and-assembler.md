@@ -53,8 +53,6 @@ Repairing, assembling, debugging, and calibrating clocks (watches, clocks) requi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall risk for watch repairers is moderate to optimistic: AI/automation will replace some diagnostic and documentation work, but precision manual work and customer trust remain core moats. Entry-level roles narrow due to automation of low-end repairs, but high-end custom and complex restoration demand grows.
-
 Starting as an apprentice or CAP, gradually gaining experience to become a skilled technician, you can be promoted to watchmaker or open an independent repair studio. A few can enter high-end brands (such as Swatch and Richemont) as specialists in complex function repairs.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as an apprentice or CAP, gradually gaining experience to become a skill
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those employed by well-known watch companies or possessing special skills, valid for 4 years |
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, applicable to watch technicians with employment contracts |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to positions with annual salaries above 53,000 euros, and the watch industry rarely meets this threshold |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Starting as an apprentice or CAP, you can gradually advance to senior watchma
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/watch-and-clock-repairer-and-assembler/FR)**

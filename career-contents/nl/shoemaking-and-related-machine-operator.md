@@ -52,8 +52,6 @@ Workers operate shoemaking machinery for shoe production, assembly, and finishin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly reduce demand for shoemaking and leather worker positions, especially in mass production, but high-end customisation and complex repairs still retain opportunities.
-
 Junior operators can be promoted to production line team leaders or quality inspectors. With experience, they can move into shoe repair or custom shoemaking, and a few can become workshop supervisors.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior operators can be promoted to production line team leaders or quality insp
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled workers, requiring an annual salary threshold (about €5,008/month in 2024). This occupation usually does not meet requirements unless promoted to management. |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary (~€5,008/month in 2024), rarely applicable for this occupation. |
-| Subclass Orientation Year (Zo (Orientation Year) | Available to graduates of Dutch higher education to search for work in the Netherlands for one year, applicable for related technical education backgrounds. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Automation will reduce low-end jobs, but demand remains for custom shoes and 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaking-and-related-machine-operator/NL)**

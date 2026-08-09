@@ -53,8 +53,6 @@ Teaches economics courses in higher education institutions, typically combining 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Economics professor's research and teaching partly enhanced by AI, but basic teaching and data analysis tasks face automation risk; overall outlook is mixed.
-
 Promoted from assistant professor to associate professor and professor, requiring published research and positive teaching evaluations. Some move to administrative roles or research institutions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Promoted from assistant professor to associate professor and professor, requirin
 | Subclass EB-2 (Employment-Based Second Preference) | Apply for a green card through PERM or NIW; suitable for professors with outstanding research capabilities. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding achievements in economics, such as publications in top-tier journals. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Through EB-2 NIW or PERM pathways, university-sponsored H-1Bs are cap-exempt,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economics-teachers-postsecondary/US)**

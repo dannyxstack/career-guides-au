@@ -52,8 +52,6 @@ Water resources engineers plan, design, and manage water supply, drainage, flood
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will amplify the value of water resources engineers, not replace them. With machine learning for precise hydrological forecasting, optimized water allocation, and automated design, demand for this occupation grows with climate change.
-
 Initial positions as assistant engineer or technician; with experience, can advance to senior engineer, project manager, technical supervisor, or even management (e.g., water authority technical director). Can also transition to consulting or research fields.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Initial positions as assistant engineer or technician; with experience, can adva
 | Subclass SMC (Skilled Migrant Category) | Skilled migration 6-point system; points can be earned through qualifications, experience, or registration; salary must be above the median. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not meet the Green List requirements, you can first work on this visa and then transition to residence. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree in engineering (preferably Washington 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-resources-engineer/NZ)**

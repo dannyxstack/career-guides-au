@@ -50,8 +50,6 @@ Plan, organize, direct, and coordinate the daily operations of garages and speci
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially replace administrative and diagnostic tasks but enhance repair decision-making and customer service capabilities, expanding the overall scope of responsibilities, requiring mastery of AI tools.
-
 Can progress from senior technician or service advisor to branch manager or regional manager, or start their own garage through accumulated experience and capital.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from senior technician or service advisor to branch manager or regi
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, and the position must be on the list of eligible occupations. Typically requires an annual salary of at least £26,200 (or the Going Rate). |
 | Subclass Graduate (Graduate visa) | Suitable for UK graduates, allows working in the UK for 2 years (3 years for PhD) to gain experience before switching to a work visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from technical role to management; future options include managin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/garage-managers-and-proprietors/UK)**

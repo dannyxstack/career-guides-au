@@ -52,8 +52,6 @@ Operate X-ray, CT, MRI, ultrasound, and nuclear medicine equipment to provide im
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
-
 Advancing from entry-level technician to senior technician or specialized imager (e.g., MRI, nuclear medicine), can become department supervisor or management. Continuing education can lead to teaching or research, with salary increasing with experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Advancing from entry-level technician to senior technician or specialized imager
 | Subclass SMC (Skilled Migrant Category) | Skilled migration requires 6 points (education + work experience, etc.). |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, can transition to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires assessment by the New Zealand Medical Radiation Technologists Board,
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-diagnostic-radiographer/NZ)**

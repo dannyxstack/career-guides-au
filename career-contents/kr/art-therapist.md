@@ -4,8 +4,6 @@
 
 A professional who treats clients with psychological and emotional issues using art media such as music, art, and dance, primarily working in hospitals, welfare facilities, and educational institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A professional who treats clients with psychological and emotional issues using 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI can be used as a supplementary tool in art therapy, but the therapist's empathy and relationship building are hard to replace. AI-based analysis can assist in diagnosis, but the role of human therapists is key.
-
 After majoring in art therapy in graduate school and obtaining certification, one can open a private center or advance to universities and research institutes after accumulating clinical experience. Public sector recruitment is rare, requiring self-directed career development.
 
 **Tasks most exposed to AI:**
@@ -87,16 +83,9 @@ After majoring in art therapy in graduate school and obtaining certification, on
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in art therapy, but rare |
-| Subclass F-2 (F-2 (Residence)) | Possible after obtaining points-based permanent residence, not a common route |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +128,12 @@ A: It is possible to practice with only private certifications, but a master's d
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-therapist/KR)**

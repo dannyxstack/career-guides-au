@@ -1,6 +1,6 @@
 # 舞台灯光技术员（Stage Lighting Technician）职业分析 · 法国
 
-**职业代码: L1504 (ROME)**
+**职业代码：L1504 (ROME)**
 
 负责舞台演出的灯光设计与操作，包括安装、调试、编程及现场控制，确保灯光效果符合艺术要求。
 
@@ -12,7 +12,7 @@
 | 阶段 | 周期 | 费用 (EUR) |
 |---|---|---:|
 | CAP或Bac pro | 2-3年 | $0~$5,000（公立学校免费或低学费，可通过学徒制获得收入） |
-| BTS métiers de l'audiovisuel (option métiers du son et de l'image) | 2 年 | $0~$8,000（公立BTS通常免费，私立学校费用较高） |
+| BTS métiers de l'audiovisuel（声音与图像方向） | 2 年 | $0~$8,000（公立BTS通常免费，私立学校费用较高） |
 | Licence Professionnelle（职业学士） | 3年 | $0~$10,000（公立大学低学费，私立院校费用更高） |
 
 ---
@@ -22,17 +22,17 @@
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
 | BTS métiers de l'audiovisuel | Ministère de l'Éducation nationale | 必备 | 常见入门文凭 |
-| Habilitation électrique (BS/BE) | INRS / organisme agréé | 必备 | 法定安全认证，从事电气操作必须 |
-| CQP Éclairagiste | AFDAS / Branche du spectacle vivant | 可选 | 行业认证，非强制但有助于就业 |
+| 电气授权（BS/BE） | INRS / 认可机构 | 必备 | 法定安全认证，从事电气操作必须 |
+| CQP Éclairagiste | AFDAS / 表演艺术行业 | 可选 | 行业认证，非强制但有助于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 8,500. 法国表演艺术产业稳定，灯光技术员需求随演出和活动增多而增长。就业机会集中在巴黎等大城市，但竞争激烈，需不断更新技能。
+**职位需求量：中（★★★☆☆）** 全国从业人数约 8,500。法国表演艺术产业稳定，灯光技术员需求随演出和活动增多而增长。就业机会集中在巴黎等大城市，但竞争激烈，需不断更新技能。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -50,35 +50,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 AI将自动化部分灯光编程与预设任务，但现场艺术判断、创意协作与设备物理操作仍依赖人类，岗位喜忧参半。
 
 可从助理灯光师晋升为灯光设计师或技术总监，也可转向影视或活动灯光领域。长期可创办灯光租赁公司或成为自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 灯光场景的自动编程与回放
 - 基于演出时间码的自动化同步
 - 灯具参数自动计算与调试
 - 灯光效果仿真与预可视化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助灯具定位与角度优化
 - 自动化灯光预设生成与场景推荐
 - 实时灯光效果即时调整与建议
 - 故障预测与远程诊断支持
 
-**人类护城河:**
+**人类护城河：**
 
 - 艺术创意与导演意图理解
 - 现场应急决策与手动干预
 - 与演出团队的非标准化沟通
 - 对物理设备触感与环境直觉把握
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI灯光编程软件（如Vectorworks Spotlight、grandMA3）
 - 数据驱动灯光设计工具
@@ -86,27 +86,20 @@ AI将自动化部分灯光编程与预设任务，但现场艺术判断、创意
 - AR/VR预可视化平台
 - 多媒体整合与实时交互技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Live events
-- LED technology
-- Virtual production
-- Sustainability
+- 现场活动
+- LED技术
+- 虚拟制作
+- 可持续性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | 适用于高技能人才，如艺术家或技术专家，需提供工作合同或项目证明，有效期4年。 |
-| Subclass Salarié (Salarié (Employee)) | 受雇于法国公司的工作签证，需雇主担保，有效期与合同一致。 |
-| Subclass Carte bleue UE (Carte bleue européenne (EU Blue Card)) | 适合高学历高薪职位（年薪至少53k€），但灯光技术员通常达不到薪资门槛。 |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +143,12 @@ AI将自动化部分灯光编程与预设任务，但现场艺术判断、创意
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/stage-lighting-technician/FR)**

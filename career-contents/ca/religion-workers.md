@@ -52,8 +52,6 @@ Religious workers provide spiritual guidance, education, and community services 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace the core mission of religious workers, but it will profoundly change preaching, counseling, and administration methods. Religious workers skilled in using AI tools (e.g., multilingual translation, content generation) will reach a wider audience and offer personalized services.
-
 Usually start as an assistant or volunteer, gain experience and advance to senior clergy, religious education supervisor, or religious organisation manager. Some may transition to interfaith dialogue or community service management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as an assistant or volunteer, gain experience and advance to senio
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Most require a bachelor's degree in theology or religion; senior positions ma
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religion-workers/CA)**

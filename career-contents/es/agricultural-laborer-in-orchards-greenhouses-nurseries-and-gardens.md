@@ -4,8 +4,6 @@
 
 It is engaged in basic agricultural operations such as planting, harvesting, irrigating, weeding, and fertilizing in orchards, greenhouses, nurseries, or gardens, and is also responsible for packaging and loading harvested goods. Mostly operates in seasonal, high-intensity environments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ It is engaged in basic agricultural operations such as planting, harvesting, irr
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-This profession relies heavily on manual labor and on-site judgment. AI automation will compress low-skill, repetitive jobs, but technological tools (such as automatic irrigation and robotic picking) will mainly replace tasks rather than management positions.
-
 Seasonal workers can be promoted to fixed-contract laborers, and after gaining experience, may be promoted to foreman or shift to agricultural technical service positions. Some people gain higher positions through further studies in horticulture or agricultural technology.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Seasonal workers can be promoted to fixed-contract laborers, and after gaining e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract) | A work contract from a Spanish employer is required, and labor market tests are required, making it difficult to obtain for non-EU workers. This profession does not fall under the high-skill category. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: It's very difficult. This occupation does not belong to the high-skilled cate
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-laborer-in-orchards-greenhouses-nurseries-and-gardens/ES)**

@@ -1,10 +1,8 @@
-# Arts, Design, and Broadcasting Manager 职业分析 · 韩国
+# 艺术、设计和广播经理（Arts, Design, and Broadcasting Manager）职业分析 · 韩国
 
-**职业代码: 01361 (KECO)**
+**职业代码：01361 (KECO)**
 
-A management position overseeing planning, production, personnel, and budget in art, design, and broadcasting fields, serving as a key link between creativity and management.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+管理职位，负责艺术、设计和广播领域的规划、生产、人事和预算，是创意与管理之间的关键纽带。
 
 
 ---
@@ -13,8 +11,8 @@ A management position overseeing planning, production, personnel, and budget in 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 学士学位 | 4年 | $10,000,000~$50,000,000（Varies by national/public/private institutions and scholarships） |
-| Master's (Arts Management/Business Administration) | 2 年 | $15,000,000~$60,000,000（Varies by graduate tuition and scholarships） |
+| 学士学位 | 4年 | $10,000,000~$50,000,000（因国立/公立/私立机构和奖学金而异） |
+| 硕士（艺术管理/工商管理） | 2 年 | $15,000,000~$60,000,000（因研究生学费和奖学金而异） |
 
 ---
 
@@ -22,17 +20,17 @@ A management position overseeing planning, production, personnel, and budget in 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cultural Arts Manager | Korea Arts & Culture Education Service | 可选 | Optional but beneficial for career |
-| Office Automation Engineer | Human Resources Development Service of Korea | 可选 | Helpful for proving administrative skills |
+| 文化艺术经理 | 韩国文化艺术教育服务 | 可选 | 可选但对职业有益 |
+| 办公自动化工程师 | 韩国人力资源开发服务局 | 可选 | 有助于证明行政技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 6,500. Demand for related managers is steady due to growth in the cultural content industry, but sensitive to economic fluctuations and limited hiring due to its niche nature.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 6,500。由于文化内容产业的增长，对相关管理人员的需求稳定，但受经济波动影响敏感，且因其小众性质招聘有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A management position overseeing planning, production, personnel, and budget in 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (3–5 years) | $40,000,000~$55,000,000 | Based on SMEs; higher for large corporations |
-| Mid-level (6–10 years) | $55,000,000~$75,000,000 | Average for team lead |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Varies by department head/executive level and institution size |
+| 初级（3-5年） | $40,000,000~$55,000,000 | 基于中小企业；大型企业更高 |
+| 中级（6-10年） | $55,000,000~$75,000,000 | 团队负责人的平均水平 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 因部门主管/高管级别和机构规模而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI automates administrative tasks (scheduling, budget analysis, report writing) to boost productivity, but it is complementary to areas like creative planning, human networks, and artistic judgment, which are hard to replace.
+AI自动化行政管理任务（日程安排、预算分析、报告撰写）以提高生产力，但在创意策划、人脉网络和艺术判断等难以替代的领域起补充作用。
 
-Promoted after 5–10 years of practical experience in the field, or via project leader/team lead roles; an MBA or Master's in Arts Management is advantageous.
+在领域内拥有5-10年实践经验后晋升，或通过项目负责人/团队领导角色晋升；MBA或艺术管理硕士学位具有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Schedule Management and Coordination
-- Budget Execution Report Writing
-- Basic Promotional Material Production
+- 日程管理与协调
+- 预算执行报告撰写
+- 基础宣传物料制作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market Research and Trend Analysis
-- Project Risk Prediction
-- Targeted Marketing Strategy Development
+- 市场研究与趋势分析
+- 项目风险预测
+- 定向营销策略制定
 
-**人类护城河:**
+**人类护城河：**
 
-- Human Emotion and Artistic Intuition
-- Networking and Negotiation Skills
-- Organizational Leadership and Vision Setting
+- 人类情感与艺术直觉
+- 人际关系与谈判技巧
+- 组织领导和愿景设定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-Based Data Analysis
-- Digital Marketing
-- Cross-Media Planning
-- Global Collaboration Skills
+- 基于人工智能的数据分析
+- 数字营销
+- 跨媒体策划
+- 全球协作能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content production
-- Digital art
-- Cultural Marketing
-- K-Content Globalization
+- OTT内容制作
+- 数字艺术
+- 文化营销
+- 韩流内容全球化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in culture/arts/broadcasting, but management roles are difficult |
-| Subclass F-2 (F-2 (Residence)) | Applicable after long-term stay, relevant experience recognized |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with creative planning and leadership
-- Someone who can communicate and coordinate with diverse artists
-- A systematic person skilled in budget and schedule management
+- 具备创意规划和领导力的人
+- 能够与不同艺术家沟通协作的人
+- 擅长预算和日程管理的系统型人才
 
 **谁不适合**
-- Someone who focuses only on administrative work rather than artistic sense
-- Someone who prefers autocratic decisions over flexible communication
+- 只关注行政工作而非艺术感的人
+- 偏好专制决策而非灵活沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for art, design, and broadcast managers?**
-答：Approximately 80-150 million KRW for 10+ years of experience, with a median around 60 million KRW. Varies greatly by organization size.
+**问：艺术、设计和广播经理的平均薪资是多少？**
+答：约8000万-1.5亿韩元（10年以上经验），中位数约6000万韩元。因组织规模差异很大。
 
-**问：Can foreigners get an employment visa for this occupation?**
-答：Possible with E-7 visa (Specific Activities), but management roles require high expertise and experience, making issuance strict. F-2 visa is more flexible.
+**问：外国人能否获得此职业的就业签证？**
+答：E-7签证（特定活动）可能，但管理职位要求高专业知识和经验，签发严格。F-2签证更灵活。
 
-**问：Is there a required certification?**
-答：No legally required certification, but a cultural arts manager certification or related master's degree helps with career advancement.
+**问：是否需要强制认证？**
+答：法律上没有强制性认证，但文化艺术管理师认证或相关硕士学位有助于职业发展。
 
 
 ---
@@ -144,12 +135,12 @@ Promoted after 5–10 years of practical experience in the field, or via project
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/arts-design-and-broadcasting-manager/KR)**

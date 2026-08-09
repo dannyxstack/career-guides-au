@@ -1,6 +1,6 @@
-# Supervisor - Painting, Varnishing, Plastering, Building Sealing, Wood and Building Protection 职业分析 · 德国
+# 主管 - 涂装、上漆、抹灰、建筑密封、木材及建筑保护（Supervisor - Painting, Varnishing, Plastering, Building Sealing, Wood and Building Protection）职业分析 · 德国
 
-**职业代码: 3329 (KldB)**
+**职业代码：3329 (KldB)**
 
 负责监督和管理油漆、涂装、抹灰、建筑防水及木材防护等施工项目的现场工作，确保质量、安全和进度。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 25,000. 德国建筑业持续发展，老旧建筑翻新和节能改造需求旺盛，该职业就业前景稳定，但受经济周期影响。
+**职位需求量：中高（★★★★☆）** 全国从业人数约 25,000。德国建筑业持续发展，老旧建筑翻新和节能改造需求旺盛，该职业就业前景稳定，但受经济周期影响。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -50,21 +50,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 油漆、涂装、抹灰、防水及木材防护主管属于混合型职业，现场监督和检查可被AI增强，但手工技能、现场协调和责任承担难以被替代，整体风险中等。
 
 可从熟练技工晋升为工长（Vorarbeiter）或施工经理（Baustellenleiter），也可通过进修成为技术员（Techniker）或工匠大师（Meister）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动喷涂机器人和抹灰机器人执行大面积涂装和抹灰工作，减少人工操作
 - AI视觉系统自动检测涂层厚度、平整度等质量指标，替代人工检查
 - 基于BIM的自动排程系统优化施工计划，减少主管手动调度
 - AI驱动的库存管理系统自动追踪材料使用和补货，替代人工盘点
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AR辅助放样和测量，提高施工精度和效率
 - AI质量监控系统实时分析涂装质量，辅助主管快速决策
@@ -72,7 +72,7 @@
 - 数字孪生技术模拟施工方案，优化工艺流程和资源分配
 - AI培训模拟器用于技能训练和事故演练，提高团队能力
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场协调与沟通：管理多工种团队，解决突发问题
 - 手工精细作业：高端装饰和复杂细节无法完全自动化
@@ -80,7 +80,7 @@
 - 客户关系管理：理解客户需求，处理投诉和变更
 - 材料与工艺经验：非标基材和特殊环境下的施工知识
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数字工具操作：平板电脑、BIM软件、项目管理平台
 - 数据分析基础：理解质量检测数据，用AI工具辅助决策
@@ -89,16 +89,16 @@
 - 沟通与领导力：有效管理跨代际、多文化团队
 - 可持续材料知识：掌握环保涂料和防水材料特性
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Energy-efficient renovation
-- Building refurbishment
-- Waterproofing technology
-- Historic preservation
+- 节能改造
+- 建筑翻新
+- 防水技术
+- 历史保护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -108,9 +108,7 @@
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制寻找工作，需学历或职业资格认证。 |
 | Subclass Job Seeker (Job Seeker Visa) | 允许在德居留6个月寻找工作，需提供经济证明。 |
 
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -151,12 +149,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-painting-varnishing-plastering-building-sealing-wood-and-building-protection/DE)**

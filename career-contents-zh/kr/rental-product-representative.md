@@ -1,10 +1,8 @@
-# Rental Product Representative 职业分析 · 韩国
+# 租赁产品代表（Rental Product Representative）职业分析 · 韩国
 
-**职业代码: 61541 (KECO)**
+**职业代码：61541 (KECO)**
 
-This sales position involves signing lease contracts for various products such as home appliances, construction equipment, and automobiles at rental/leasing companies, along with customer management and collection tasks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该销售职位涉及在租赁公司为家电、建筑设备、汽车等各类产品签署租赁合同，以及客户管理和收款任务。
 
 
 ---
@@ -13,8 +11,8 @@ This sales position involves signing lease contracts for various products such a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No separate training required） |
-| Associate degree (2-year college) | 2 年 | $2,000,000~$3,000,000（Majors in distribution/business helpful） |
+| 高中毕业 | 0年 | $0~$0（无需单独培训） |
+| 副学士学位（两年制学院） | 2 年 | $2,000,000~$3,000,000（分销/商业专业背景有帮助） |
 
 ---
 
@@ -22,17 +20,17 @@ This sales position involves signing lease contracts for various products such a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Driver's license (Type 1 ordinary) | National Police Agency | 必备 | Essential for field travel |
-| Consumer counselor certification | Korea Vocational Competency Research Institute | 可选 | Advantageous for customer service |
+| 驾照（普通第一类） | 国家警察厅 | 必备 | 实地出差必需 |
+| 消费者顾问认证 | 韩国职业能力研究院 | 可选 | 客户服务优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 18,000. The Korean rental market is steadily growing, but simple rental tasks are expected to decrease due to the rise of online platforms and automation. Relationship-based sales and management skills are becoming important.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 18,000。韩国租赁市场稳步增长，但简单的租赁任务由于在线平台和自动化的兴起预计会减少。关系型销售和管理技能变得重要。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,91 +38,83 @@ This sales position involves signing lease contracts for various products such a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Base salary + allowances |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基本工资+津贴 |
 | 中级 (4-7年) | $32,000,000~$40,000,000 | 含业绩奖金 |
-| Advanced (8+ years) | $40,000,000~$55,000,000 | 团队主管级别 |
+| 高级（8年以上） | $40,000,000~$55,000,000 | 团队主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-As AI and online platforms replace simple rental contracts and some customer consultations, roles are shrinking and shifting. Specialized skills in face-to-face sales and relationship management are essential for survival.
+随着AI和在线平台取代简单的租赁合同和一些客户咨询，角色正在萎缩和转变。面对面销售和关系管理的专业技能对于生存至关重要。
 
-Initially, you will handle field sales and contract signing. With experience, you can be promoted to team leader or branch manager, or specialize as a large equipment/B2B expert consultant.
+初期负责实地销售和合同签订。有经验后可晋升为团队领导或分支经理，或成为大型设备/B2B专家顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Contract Writing
-- Basic Customer Inquiry Response
-- Inventory Check
+- 简单合同编写
+- 基本客户咨询回复
+- 库存盘点
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized Product Recommendation
-- Contract Negotiation
-- Long-term Customer Relationship Maintenance
+- 个性化产品推荐
+- 合同谈判
+- 长期客户关系维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Building Face-to-face Trust
-- Understanding Complex Needs
-- Handling Urgent Situations
+- 建立面对面信任
+- 理解复杂需求
+- 处理紧急情况
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CRM Utilization
-- Negotiation Skills
-- Customer Management
-- B2B Sales
+- CRM利用
+- 谈判技巧
+- 客户管理
+- B2B销售
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Rental market growth
-- Digital transformation
-- Enhanced Customer Management
-- B2B Expansion
+- 租赁市场增长
+- 数字化转型
+- 增强型客户管理
+- B2B扩展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for professional sales/management positions; Korean language proficiency required. |
-| Subclass F-2 (F-2 (Residence)) | Allowed for long-term residents, free to work. |
-| Subclass F-4 (Overseas Koreans) | Allowed for overseas Koreans, can work in sales positions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Outgoing and active personality
-- Person who enjoys customer service
-- Person who is free to move around
+- 外向活跃的性格
+- 喜欢客户服务的人
+- 可自由流动的人员
 
 **谁不适合**
-- Person who prefers static office work
-- Person who gets stressed by interpersonal relationships
+- 偏好静态办公工作的人
+- 因人际关系而压力大的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a product rental clerk?**
-答：For beginners, 24-30 million won, with experience up to 40-55 million won.
+**问：产品租赁文员的平均年薪是多少？**
+答：初学者2400-3000万韩元，有经验者可达4000-5500万韩元。
 
-**问：Can foreigners work as product rental clerks?**
-答：E-7 visa allows professional sales recruitment, but Korean proficiency is essential, and field experience and customer management skills are important.
+**问：外国人可以做产品租赁店员吗？**
+答：E-7签证允许专业销售招聘，但韩语能力至关重要，现场经验和客户管理技能也很重要。
 
 
 ---
@@ -142,12 +132,12 @@ Initially, you will handle field sales and contract signing. With experience, yo
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rental-product-representative/KR)**

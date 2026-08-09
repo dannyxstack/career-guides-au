@@ -52,8 +52,6 @@ Engineering patternmakers have stable demand in the Auckland and Canterbury manu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for engineering patternmakers is mixed: repetitive manual patternmaking (e.g., wood patterns, foam patterns) is easily replaced by CNC and AI optimization, but high-end roles involving complex casting processes, customer communication, and on-site commissioning are enhanced by AI. Overall demand is shifting towards digitalization and comprehensive skills.
-
 Junior mold makers need about 5 years to refine their skills to work independently, then can progress to CNC programming, mold design, or production supervisor. Some senior technicians move into quality inspection or technical training, or start their own small batch mold workshops.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior mold makers need about 5 years to refine their skills to work independent
 | Subclass AEWV (Accredited Employer Work Visa) | Employers must be accredited, offer a contract with at least median salary, and a maximum duration of 3 years |
 | Subclass Green List T2 (Work to Residence (Green List Tier 2)) | Die maker is not on the T1 direct residence list, but if working in certain manufacturing roles and earning 1.5 times the median salary, may qualify for residence after 2 years on a T2 visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 4-year apprenticeship and obtaining a Level 4
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-patternmaker/NZ)**

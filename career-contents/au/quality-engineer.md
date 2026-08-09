@@ -53,8 +53,6 @@ Quality engineers establish and maintain quality management systems to ensure en
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Quality engineers face medium automation risk in Australia, but AI enhancement potential is high. Routine document review and basic statistical analysis are easily replaceable, but system decisions and client communication still rely on human judgment—the career outlook is mixed.
-
 ISO 9001 quality management systems and Six Sigma methodologies are widely applied in Australian manufacturing and engineering; digital quality platforms improve inspection efficiency. Quality engineers holding industry-specific certifications (AS9100 aerospace / ISO 13485 medical) command a notable salary premium.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ ISO 9001 quality management systems and Six Sigma methodologies are widely appli
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Demand is stable; there is demand across all industries. Defense manufacturin
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-engineer/AU)**

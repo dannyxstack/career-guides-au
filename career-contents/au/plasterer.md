@@ -54,8 +54,6 @@ A plasterer applies plaster, mortar, and rendering materials to interior and ext
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plasterer is a physically demanding, on-site dependent occupation with medium AI substitution risk, but new smart construction equipment and BIM deepening are changing traditional work. Entry-level plastering roles are squeezed by standardized plasterboard fast-installation technology, yet high-value areas like finished quality control, irregular finishes, and old building restoration are amplified by tool enablement.
-
 Acrylic render and EIFS external insulation finishing systems are rapidly gaining popularity, broadening demand for exterior plasterers. Interior plasterboard installation volumes are directly tied to residential construction activity.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Acrylic render and EIFS external insulation finishing systems are rapidly gainin
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -169,12 +165,13 @@ A: Both have similar PR pathways and comparable salaries. The plasterer market i
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/AU)**

@@ -52,8 +52,6 @@ Electrical engineering technicians assist electrical engineers in designing, tes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 Can progress from junior technician to senior technician or electrical engineering manager; some pursue further education to become chartered electrical engineers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior technician to senior technician or electrical engineeri
 | Subclass General Employment P (General Employment Permit) | Labour market test required, annual salary threshold €30,000 |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, with an annual salary requirement of approximately 64,000 euros (2024 standard) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires higher vocational education (2 years) or a related bachelor'
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/IE)**

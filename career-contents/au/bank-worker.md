@@ -51,8 +51,6 @@ Bank tellers/customer service officers handle deposits, withdrawals, transfers, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
-
 Can progress towards lending, client relationship management, or compliance roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress towards lending, client relationship management, or compliance role
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -143,12 +139,13 @@ A: No, this is a non-skilled migration occupation.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-worker/AU)**

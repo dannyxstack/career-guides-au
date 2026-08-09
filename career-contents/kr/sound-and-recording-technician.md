@@ -50,8 +50,6 @@ A professional who operates sound equipment and records, edits, and mixes audio 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI replaces repetitive tasks like noise removal and auto-mixing, but artistic decision-making and on-site audio design still require human roles. Leveraging AI tools for efficiency will be key to competitiveness.
-
 Typically starts at broadcasting stations, recording studios, or as a freelancer, with potential to advance to chief engineer or sound director based on experience.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Typically starts at broadcasting stations, recording studios, or as a freelancer
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Need 5+ years of experience and a related degree as a professional sound engineer |
-| Subclass F-2 (Residence) | Long-term stay possible with points system, sound-related experience gives extra points |
-| Subclass D-10 (Job Seeking) | Job seeking after graduating in sound-related major, stay 6 months to 2 years |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Demand is expected to persist due to growth in OTT and the live performance m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sound-and-recording-technician/KR)**

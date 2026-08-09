@@ -4,8 +4,6 @@
 
 A specialized technical professional who uses equipment such as ultrasound and radiography to detect defects in materials or structures, ensuring safety in manufacturing, construction, and energy industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A specialized technical professional who uses equipment such as ultrasound and r
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Although AI introduces inspection automation, interpretation, judgment, and exception handling still require humans, so complete replacement is difficult. However, low-skill tasks may be reduced.
-
 Entry-level: field assistant followed by certification acquisition; Mid-level: staff to assistant manager performing independent inspections; Senior-level: promoted to manager/director, or advantageous to obtain professional engineer certification.
 
 **Tasks most exposed to AI:**
@@ -94,18 +90,9 @@ Entry-level: field assistant followed by certification acquisition; Mid-level: s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issuable upon employment contract as skilled NDT inspector; degree + experience required |
-| Subclass E-9 (Non-professional Employment (E-9)) | Simple inspection assistance possible, but switch to E-7 recommended if professional certification required |
-| Subclass D-10 (Job Seeker (D-10)) | Usable for job-seeking after domestic university graduation; switch to E-7 after obtaining certification |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system for long-term stay; skilled workers preferred |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +136,12 @@ A: You can progress from junior inspector → intermediate (staff/assistant mana
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nondestructive-testing-ndt-technician/KR)**

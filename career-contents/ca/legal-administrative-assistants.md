@@ -52,8 +52,6 @@ Legal administrative assistants provide administrative and clerical support in l
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
-
 Junior legal administrative assistants can gain experience and advance to senior assistant, legal secretary, or office manager. Some become paralegals or legal advisors through further study. Career path is clear; promotion requires improved professional skills and management abilities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior legal administrative assistants can gain experience and advance to senior
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, British Columbia) list legal administrative assistants as in-demand occupations, offering extra points through provincial nominations. |
 | Subclass LMIA (Labour Market Impact Assessment) | If you obtain an employer-sponsored LMIA, you can apply for a work permit and accumulate Canadian work experience, then apply for permanent residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some routine administrative tasks may be automated, but the legal industry st
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-administrative-assistants/CA)**

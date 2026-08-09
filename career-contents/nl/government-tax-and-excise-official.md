@@ -51,8 +51,6 @@ Responsible for executing tax laws, auditing taxpayers, collecting taxes and exc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Tax officer work combines rule-based and judgmental tasks; AI will largely take over data verification, document processing, etc., but tax planning, dispute resolution, and decision-making still require human leadership—overall mixed impact.
-
 Can advance from junior tax officer to senior auditor, team leader, or policy advisor, or transfer to the Ministry of Finance or EU institutions.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Can advance from junior tax officer to senior auditor, team leader, or policy ad
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | For highly skilled individuals with an annual income meeting the threshold (approx. €5,008/month in 2024); the employer must be the sponsor. |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Applicable to highly educated professionals; salary threshold higher than Highly Skilled Migrant; can lead to permanent residency. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to master's/PhD graduates from renowned universities in the Netherlands or abroad, allowing free job search within one year. |
-| Subclass EU free movement (EU/EEA Freedom of Movement) | EU/EEA citizens do not need a work permit and can work directly in the Netherlands. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Can advance from junior auditor to senior auditor, team manager, or policy ad
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-tax-and-excise-official/NL)**

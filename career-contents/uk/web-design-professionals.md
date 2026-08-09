@@ -52,8 +52,6 @@ Responsible for the design, development, and maintenance of websites and mobile 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
-
 Can progress from junior designer to senior designer, creative director, or technical architect, or transition to UX design or full-stack development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior designer to senior designer, creative director, or tech
 | Subclass Global Talent (Global Talent Visa) | Suitable for digital talent with outstanding achievements or potential, no sponsorship required |
 | Subclass Graduate (Graduate Visa) | UK graduates can apply, stay for 2 years (PhD 3 years) to find work |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Some design tasks may be automated, but human input is still needed at the cr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-design-professionals/UK)**

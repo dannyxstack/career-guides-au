@@ -51,8 +51,6 @@ Responsible for managing sheep farms, including feeding, breeding, health manage
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can advance from farm worker to farm supervisor or manager, or operate an independent farm. Experienced workers can move to livestock consulting or agricultural technology extension.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from farm worker to farm supervisor or manager, or operate an indepe
 | Subclass 491 (Skilled Work Regional (Provisional)) | Remote area state-sponsored skilled migration, requiring living and working in a designated regional area for 3 years |
 | Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, requires employer sponsor, may convert to 186. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Supported by global demand for wool and lamb, but drought and market fluctuat
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheep-farmer/AU)**

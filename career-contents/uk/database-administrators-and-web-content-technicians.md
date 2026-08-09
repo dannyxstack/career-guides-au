@@ -52,8 +52,6 @@ Responsible for daily management, maintenance, and user support of databases and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
-
 Junior technicians can advance to database administrator, web administrator, or social media manager. With experience, they can move into more senior roles such as data analysis, cybersecurity, or cloud architecture, or become team leaders.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to database administrator, web administrator, or 
 | Subclass Scale-up (Scale-up visa) | Advanced technical roles for high-growth companies, must meet salary requirements |
 | Subclass Graduate (Graduate visa) | Open to UK fresh graduates, allowing 2 years (PhD 3 years) of unrestricted work |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a degree in computer science or related field. Professiona
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-administrators-and-web-content-technicians/UK)**

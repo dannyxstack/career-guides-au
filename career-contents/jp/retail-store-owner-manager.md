@@ -4,8 +4,6 @@
 
 A profession that oversees the management and operations of retail stores, driving sales, inventory control, and staff training. Ranges from local shops to chain stores.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that oversees the management and operations of retail stores, drivi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation will streamline inventory management, ordering, and checkout, but human roles remain in customer service, staff management, and community-based business decisions. Overall, while job tasks will change, full replacement is difficult.
-
 Start as a sales associate, then become chief or assistant manager before becoming a store manager. Career paths also include chain headquarters or independent store ownership.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Start as a sales associate, then become chief or assistant manager before becomi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible when engaging in managerial roles in retail requiring specialized knowledge (marketing, business management, etc.). Requires university degree or 10+ years of relevant experience. |
-| Subclass 特定技能1号（外食／流通） (Specified Skilled Worker (i) (Retail/Distribution)) | Added in 2023. Allows work in store operations (sales, inventory management, customer service, etc.). Requires passing exam and Japanese N4 or above. Max stay 5 years. |
-| Subclass 経営・管理 (Business Manager) | For running your own retail store. Requires investment of ¥5M+ and securing a business premises. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: It is common to start as a sales associate in full-time retail, build a track
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-store-owner-manager/JP)**

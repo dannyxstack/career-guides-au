@@ -49,8 +49,6 @@ A professional specializing in the health management and care of pregnant women,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI substitution for tasks is limited; rather, AI-assisted fetal monitoring and data analysis support midwives' judgment and enhance work.
-
 After gaining experience, career paths include midwifery manager, perinatal care specialist, or independent midwife (midwifery clinic). Advanced practice is possible through graduate studies.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ After gaining experience, career paths include midwifery manager, perinatal care
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Common work status for midwives in Japanese medical institutions; requires a university degree or 10+ years of professional experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Nursing Care Field)) | Midwives are not in the nursing care field, but as nurses they are excluded from Specified Skilled Worker. However, midwifery is not allowed under Specified Skilled Worker (i) in nursing care. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +134,12 @@ A: Paths include becoming a midwifery manager in hospitals, perinatal center dir
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwife/JP)**

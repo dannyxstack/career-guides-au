@@ -54,8 +54,6 @@ Manage the owners' corporation of apartments and complexes, including holding me
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance document processing and compliance monitoring, but statutory decisions, interpersonal coordination, and legal responsibilities cannot be automated; total positions may remain stable, but low-level administrative roles could be compressed.
-
 Junior managers can start in administrative or assistant roles, then advance to senior manager or regional manager after gaining experience, or transition into property management or real estate development. Relevant certifications (e.g., New Zealand Property Institute certificate) can aid career development.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior managers can start in administrative or assistant roles, then advance to 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires relevant qualifications (e.g., business) or a property manag
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/strata-manager/NZ)**

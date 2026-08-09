@@ -53,8 +53,6 @@ Engaging in high-rise building construction, including bricklaying, concrete pou
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-High-rise construction workers will face significant job reduction due to AI and automation (e.g., construction robots, prefabricated construction, digital twins). Repetitive manual tasks are replaced, but on-site coordination and complex problem-solving still require humans.
-
 Can advance from construction worker (Facharbeiter) to foreman (Vorarbeiter) or site manager (Baustellenleiter). Through Weiterbildung can become building technician (Bautechniker) or master craftsman (Meister).
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from construction worker (Facharbeiter) to foreman (Vorarbeiter) or 
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year in Germany for job search; requires German A2 or English B2. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stays in Germany for up to 6 months to seek employment; language ability and financial proof required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must complete qualification recognition (Anerkennung) or participate in dual 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-worker/DE)**

@@ -54,8 +54,6 @@ Public health inspectors monitor and enforce public health standards, including 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-On-site inspection and sampling by public health inspectors are easily replaced by automation, but regulatory judgment and community interaction are enhanced; overall mixed results.
-
 Career progression path includes from junior supervisor to senior supervisor, department head. Further education can lead to specialization in areas like food safety or water quality management. Some may advance to local health authority management or federal agencies.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression path includes from junior supervisor to senior supervisor, de
 | Subclass Skilled Worker (with (Skilled Worker Visa (Vocational Training)) | Applicable to those who have completed recognized German dual vocational training or equivalent foreign qualifications with credential recognition. A job contract with a German employer is required. |
 | Subclass Chancenkarte (Opport (Opportunity Card) | A points-based job-seeking visa allowing up to one year to find a job in Germany. Suitable for those with certain qualifications and language skills. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires completing a dual system training as a public health super
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-health-inspector/DE)**

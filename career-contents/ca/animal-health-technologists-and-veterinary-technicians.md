@@ -52,8 +52,6 @@ Assist veterinarians in animal diagnosis, lab tests, surgery preparation and X-r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation will partially replace veterinary technicians' recording, image analysis, and routine check tasks, but enhance their diagnostic support and client communication; entry-level roles may require higher technical literacy due to AI tools.
-
 Junior technicians can gain experience then obtain registration (RVT) to advance to senior technician or specialized areas (e.g., anesthesia, imaging). Some move into veterinary equipment sales, animal welfare management, or start pet care services.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can gain experience then obtain registration (RVT) to advance
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for medical professions, such as those in Ontario and British Columbia. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can accumulate experience and then apply for immigration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must complete a Canadian-recognised Animal Health Technology diploma or bache
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-health-technologists-and-veterinary-technicians/CA)**

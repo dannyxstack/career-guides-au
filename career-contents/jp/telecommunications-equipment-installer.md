@@ -50,8 +50,6 @@ A construction engineer who lays and connects communication cables and optical f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation improve work efficiency in design and route optimization, but physical cable laying and connection work on-site require human hands, making full replacement difficult.
-
 After joining, start with on-site work, gain experience to become team leader or site supervisor. Possible to advance to management or start your own business.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After joining, start with on-site work, gain experience to become team leader or
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Telecommunications Equipment Construction)) | Scheduled to be added to target fields from 2025. Maximum 5-year stay, requires skills test and Japanese N4 level. |
-| Subclass 技能実習2号 (Technical Intern Training (Electrical/Electronic Equipment Assembly)) | After 3 years of training, possible to transfer to Specified Skilled Worker (i) in some cases. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Communications Engineer)) | Applicable with vocational school graduation or 10+ years of experience. For design and management work. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: It is advisable to obtain qualifications such as electrician or telecommunica
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-installer/JP)**

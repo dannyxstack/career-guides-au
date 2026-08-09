@@ -53,8 +53,6 @@ Operate commercial, cargo, or private aircraft to perform tasks; it is a high-te
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Start as First Officer, progress to Captain after accumulating hours, then become Check Pilot or management. Also possible to transition to aviation training or regulation roles—career path is clear.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as First Officer, progress to Captain after accumulating hours, then becom
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation adds 3 points, work experience accumulated; meeting 6 points allows application |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, up to 3 years, can transition to residence if conditions met |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Partial recognition. Licenses from ICAO member states (e.g., China) require c
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-pilot/NZ)**

@@ -53,8 +53,6 @@ Aboriginal Health Workers provide culturally safe primary healthcare, health edu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 Pathway: health worker → registered health practitioner → team/project lead; cultural identity and community connections are core strengths.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Pathway: health worker → registered health practitioner → team/project lead;
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: No, it is a local government-funded role serving Indigenous communities, not 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aboriginal-torres-strait-islander-health-worker/AU)**

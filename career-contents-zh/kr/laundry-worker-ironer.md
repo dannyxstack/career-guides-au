@@ -1,10 +1,8 @@
-# Laundry Worker (Ironer) 职业分析 · 韩国
+# 洗衣工（熨烫工）（Laundry Worker (Ironer)）职业分析 · 韩国
 
-**职业代码: 56151 (KECO)**
+**职业代码：56151 (KECO)**
 
-A job that washes, dries, and irons customers' clothes and fabrics neatly, working in hotels, laundries, hospitals, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在酒店、洗衣店、医院等处，负责清洗、烘干和熨烫顾客衣物并使其整洁的工作
 
 
 ---
@@ -13,8 +11,8 @@ A job that washes, dries, and irons customers' clothes and fabrics neatly, worki
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| None (on-site training) | 3个月 | $0~$100,000（No separate training costs; skills learned on site） |
-| Korea Laundry Technology Association certificate | 6 months | $500,000~$1,000,000（Optional, includes practical training fees） |
+| 无（在职培训） | 3个月 | $0~$100,000（无单独培训费用，技能现场学习） |
+| 韩国洗衣技术协会证书 | 6个月 | $500,000~$1,000,000（可选，包含实践培训费） |
 
 ---
 
@@ -22,17 +20,17 @@ A job that washes, dries, and irons customers' clothes and fabrics neatly, worki
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Laundry Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, official certification of laundry skills |
-| Health checkup | Hospital | 可选 | Recommended but not mandatory for clothing handling jobs |
+| 洗衣技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，洗衣技能官方认证 |
+| 健康检查 | 医院 | 可选 | 推荐但非必须，适用于服装处理工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 92,000. Demand for laundry workers in Korea is stable, but low wages and an aging workforce cause persistent recruitment difficulties, with automation gradually increasing.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 92,000。韩国洗衣工的需求稳定，但低工资和老龄化劳动力导致招聘持续困难，自动化逐渐增加。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,94 +38,85 @@ A job that washes, dries, and irons customers' clothes and fabrics neatly, worki
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$26,000,000 | Based on minimum wage, annual salary before tax |
-| 中级 (4-7年) | $26,000,000~$30,000,000 | Varies by experience and workplace size |
-| Advanced (8+ years) | $30,000,000~$36,000,000 | Manager level, e.g., large hotel laundry department |
+| 初级（0-3年） | $22,000,000~$26,000,000 | 基于最低工资，税前年薪 |
+| 中级 (4-7年) | $26,000,000~$30,000,000 | 因经验和工作场所规模而异 |
+| 高级（8年以上） | $30,000,000~$36,000,000 | 管理层，例如大型酒店洗衣部门 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Automation and AI are increasingly influential. Simple repetitive tasks like sorting, bleaching, and ironing are being replaced by automated systems and robots, but manual handling of high-end garments or delicate materials still requires human touch, so full replacement is expected to take time.
+自动化和人工智能的影响日益增强。像分拣、漂白、熨烫这类简单重复的任务正被自动化系统和机器人取代，但对于高端服装或精致面料的手工处理仍需人工，因此完全替代预计需要时间。
 
-Mainly simple repetitive tasks with limited promotion paths; possible to move up to laundry manager or self-employment after gaining experience.
+主要是简单重复性任务，晋升路径有限；积累经验后可能晋升为洗衣主管或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic garment sorting
-- Standard ironing
-- Laundry loading/unloading
+- 自动服装分拣
+- 标准熨烫
+- 洗衣装卸
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- High-end material handling
-- Stain analysis decision-making
-- Equipment monitoring
+- 高端物料搬运
+- 污渍分析决策
+- 设备监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Fabric texture assessment
-- Custom stain treatment
+- 织物纹理评估
+- 定制污渍处理
 - Customer-tailored services
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Textile material knowledge
-- Laundry equipment operation
-- Customer service
+- 纺织材料知识
+- 洗衣设备操作
+- 客户服务
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Laundry automation
-- Hotel laundry demand
-- Aging workforce
-- Custom laundry services
+- 洗衣自动化
+- 酒店洗衣需求
+- 劳动力老龄化
+- 定制洗衣服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible to work as laundry worker in manufacturing, but limited application in laundries/hotels |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible but rare upon recognition as skilled laundry worker |
-| Subclass F-2 (Residence (F-2)) | No employment restrictions as long-term resident, laundry work possible |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as laundry worker, diverse job opportunities |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and patient with repetitive tasks
-- People with good physical strength and thorough hygiene habits
-- People who value teamwork and prefer a quiet environment
+- 注重细节且对重复性工作有耐心的人
+- 体力好且有彻底卫生习惯的人
+- 重视团队合作并喜欢安静环境的人
 
 **谁不适合**
-- People who want varied work changes
-- People who expect high wages
+- 喜欢工作多样化的人
+- 期望高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a laundry worker?**
-答：Based on 2024 minimum wage, annual salary is about 22 million KRW, up to 36 million KRW with experience.
+**问：洗衣工的起薪是多少？**
+答：根据2024年最低工资，年薪约2200万韩元，有经验者可达3600万韩元。
 
-**问：Can foreigners get a visa as a laundry worker?**
-答：Possible with E-9 (Non-professional Employment) visa but industry restrictions apply; E-7 is rarely issued for skilled recognition. F-4 (Overseas Korean) visa holders can work freely.
+**问：外国人能否以洗衣工身份获得签证？**
+答：可能持有E-9（非专业就业）签证，但有行业限制；E-7签证很少用于技能认可。F-4（海外韩国人）签证持有者可自由工作。
 
-**问：Is a laundry technician certificate required?**
-答：It's not mandatory but advantageous for employment, and preferred by large hotels or professional laundries.
+**问：是否需要洗衣技师证书？**
+答：非强制但对就业有利，大型酒店或专业洗衣店更青睐。
 
 
 ---
@@ -145,12 +134,12 @@ Mainly simple repetitive tasks with limited promotion paths; possible to move up
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/laundry-worker-ironer/KR)**

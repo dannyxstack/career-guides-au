@@ -4,8 +4,6 @@
 
 It is responsible for technical support, crime analysis, evidence handling, and information management within police departments. Although it does not have law enforcement authority, it plays a key role in public safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ It is responsible for technical support, crime analysis, evidence handling, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The tasks of police technicians are mixed: routine evidence processing and information management face threats from AI automation, but complex tasks such as crime analysis and forensic collection are amplified by AI tools, while security responsibility and discretion remain humanity's moat.
-
 You can be promoted from junior technician to senior technician, department head, or transition to police management roles, which requires gaining experience and passing internal promotion exams.
 
 **Tasks most exposed to AI:**
@@ -102,15 +98,9 @@ You can be promoted from junior technician to senior technician, department head
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | Sponsorship must be provided by a Spanish employer (police department), but the public sector usually does not sponsor foreigners, making the process extremely difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: You must pass the civil service exam (Oposición), and some positions require
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/national-regional-and-local-police-technicians/ES)**

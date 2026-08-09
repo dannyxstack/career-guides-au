@@ -4,8 +4,6 @@
 
 Responsible for greeting visitors, answering phone calls, handling emails, and basic administrative tasks; serves as the face of the organization.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for greeting visitors, answering phone calls, handling emails, and b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI will take over core reception and administrative tasks at the front desk, but humans still have advantages in complex social interactions and emotional support. Entry-level positions will decrease, while upgraded roles such as virtual receptionist or customer experience specialist will see increased demand.
-
 Entry-level front desk staff can progress to administrative supervisor, office manager, or customer service manager, or transition to HR or marketing departments.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Entry-level front desk staff can progress to administrative supervisor, office m
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to high-skilled migrants meeting the salary threshold; front-of-house positions typically do not meet the salary requirement. |
-| Subclass EU Blue Card (EU Blue Card) | Requires an annual salary above the Dutch average (about EUR 56,000); front-office salaries do not meet this threshold. |
-| Subclass Orientation Year (Orientation Year Permit) | International students graduating in the Netherlands can apply for a one-year job search period and may work in front desk positions. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can be promoted to administrative supervisor, office manager, customer servic
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist-general/NL)**

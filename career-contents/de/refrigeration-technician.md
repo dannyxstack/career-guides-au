@@ -53,8 +53,6 @@ Refrigeration technicians install, maintain and repair refrigeration and air con
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 Junior refrigeration technicians (Geselle) can become master craftsmen (Meister) through continuing education, progressing to technical supervisor or self-employed business owner. Further study can lead to becoming a refrigeration technology engineer (Staatlich geprüfter Techniker), working in design and project management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior refrigeration technicians (Geselle) can become master craftsmen (Meister)
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires German-recognized degree or professional qualification, employer sponsorship, German usually B1 or above |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa for applicants with professional qualifications or degrees and German B1 or above. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Dual system training is free, and companies provide training allowances (appr
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-technician/DE)**

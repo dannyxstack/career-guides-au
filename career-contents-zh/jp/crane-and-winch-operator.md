@@ -1,10 +1,8 @@
-# Crane and Winch Operator 职业分析 · 日本
+# 起重机与绞车操作员（Crane and Winch Operator）职业分析 · 日本
 
-**职业代码: 643 (JSCO)**
+**职业代码：643 (JSCO)**
 
-Specialist who operates cranes and winches at construction sites and ports to lift and move heavy loads. Requires safety confirmation and precise operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在建筑工地和港口操作起重机及绞车以吊运重型货物的专家。需要安全确认和精确操作。
 
 
 ---
@@ -13,8 +11,8 @@ Specialist who operates cranes and winches at construction sites and ports to li
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Crane Operation Skill Training | 1周 | $80,000~$150,000（Includes classroom and practical training） |
-| Work experience (apprenticeship) | 1~2年 | $0~$0（On-site practical experience） |
+| 起重机操作技能培训 | 1周 | $80,000~$150,000（包括课堂和实践培训） |
+| 工作经验（学徒） | 1~2年 | $0~$0（现场实践经验） |
 
 ---
 
@@ -22,18 +20,18 @@ Specialist who operates cranes and winches at construction sites and ports to li
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Crane Operation Skill Training Completion Certificate | Prefectural Labor Bureau | 必备 | Types: floor-operated, cabin-operated, etc. |
-| Mobile Crane Operator License | Ministry of Health, Labour and Welfare | 必备 | Required for large crane operation |
-| Slinging Skill Training Completion Certificate | Prefectural Labor Bureau | 可选 | Useful for auxiliary tasks |
+| 起重机操作技能培训结业证书 | 县级劳动局 | 必备 | 类型：地面操作、驾驶室操作等 |
+| 移动式起重机操作员执照 | 厚生劳动省 | 必备 | 大型起重机操作所需 |
+| 吊索技能培训结业证书 | 县级劳动局 | 可选 | 对辅助任务有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 80,000. Due to stable construction demand and logistics efficiency needs, labor shortages persist, and job openings remain steady. More companies are offering qualification support.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 80,000。由于稳定的建筑需求和物流效率需求，劳动力持续短缺，职位空缺保持稳定。更多公司提供资格支持。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,89 +39,82 @@ Specialist who operates cranes and winches at construction sites and ports to li
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,500,000~$4,500,000 | 含加班收入 |
-| Mid (3–10 years) | $4,500,000~$6,000,000 | Increases with additional licenses |
-| 资深（10年以上） | $6,000,000~$8,000,000 | Management or special crane roles |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 含加班收入 |
+| 中级（3-10年） | $4,500,000~$6,000,000 | 随额外许可证增加而增加 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 管理或特种起重机岗位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI and automation advance certain operations (remote control, automatic control), complete replacement is difficult due to the necessity of human judgment for on-site situation assessment and safety confirmation.
+尽管AI和自动化推进了某些操作（远程控制、自动控制），但由于现场情况评估和安全确认需要人工判断，完全替代困难。
 
-Crane operator license (skill training completion) is mandatory. Advancement to large or mobile cranes is possible with experience. Paths to management or instructor roles exist.
+必须持有起重机操作员执照（技能培训完成）。有经验后可晋升至大型或移动式起重机。存在管理或培训师职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Steady-state automatic crane operation
+- 稳态自动起重机操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based optimal route calculation for suspended loads
-- Real-time analysis support from sensor data
+- 基于AI的悬吊载荷最优路线计算
+- 基于传感器数据的实时分析支持
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site safety judgment
-- Response to abnormalities
-- Fine sensory operation
+- 现场安全判断
+- 异常情况应对
+- 精细感官操作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Remote operation technology
-- Basic understanding of AI and IoT devices
-- Knowledge of data analysis and safety management
+- 远程操作技术
+- 对AI和物联网设备的基本了解
+- 数据分析与安全管理知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Construction demand
-- Port cargo handling
-- Safety measures
+- 劳动力短缺
+- 建筑需求
+- 港口货物装卸
+- 安全措施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Target of Specified Skilled Worker (i) in construction. Requires skills test and Japanese test N4 or higher. Can be employed by construction companies. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status for technical positions. May apply to technical roles like crane operation instruction at construction companies. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who is meticulous and thorough in safety checks
-- Someone comfortable with working at heights
-- Someone skilled in machine operation
+- 在安全检查中细致入微的人
+- 适合高处作业的人
+- 精通机器操作的人
 
 **谁不适合**
-- People with back pain or fear of heights
-- People who are easily distracted
+- 有背痛或恐高症的人
+- 容易分心的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a crane operator?**
-答：Entry-level: 3.5–4.5 million yen; with experience: 6–8 million yen. Varies with overtime and skill allowances.
+**问：起重机操作员的年收入是多少？**
+答：入门级：350-450万日元；有经验者：600-800万日元。视加班和技能津贴而异。
 
-**问：How can foreigners work as crane operators in Japan?**
-答：It falls under Specified Skilled Worker (i) (Construction). Requires skills test and Japanese test (approx. N4). Construction companies can sponsor.
+**问：外国人如何在日本操作起重机？**
+答：属于特定技能（i）（建筑）。需技能测试和日语测试（约N4）。建筑公司可担保。
 
-**问：How to advance your career?**
-答：With certification for large mobile or tower cranes and accumulating experience, you can advance to site supervisor or instructor roles.
+**问：如何晋升你的职业？**
+答：持有大型移动式或塔式起重机证书并积累经验，可晋升为现场主管或培训师。
 
 
 ---
@@ -141,12 +132,12 @@ Crane operator license (skill training completion) is mandatory. Advancement to 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/crane-and-winch-operator/JP)**

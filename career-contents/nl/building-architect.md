@@ -51,8 +51,6 @@ An architectural designer is responsible for designing building plans, coordinat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Junior architects can advance to project director or design director, or start their own practice. With experience, they can take senior roles in large international architecture firms or specialize in fields like sustainable design.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Junior architects can advance to project director or design director, or start t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to professionals with a Dutch employer sponsor, with a salary threshold (€4,500+/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled talents, requiring higher education and a job offer, with a salary threshold of approx. €5,300/month. |
-| Subclass Orientation Year (Orientation Year (Search Year)) | Graduates in the Netherlands can apply for a one-year job search residence permit, then switch to a work visa once employed. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Yes, must be registered with Bureau Architectenregister. Holding registration
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-architect/NL)**

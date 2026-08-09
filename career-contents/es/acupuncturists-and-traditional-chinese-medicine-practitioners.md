@@ -4,8 +4,6 @@
 
 Professionals practicing acupuncture, naturopathy, homeopathy, traditional Chinese medicine, and Ayurveda in Spain usually provide services through private clinics or health centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Professionals practicing acupuncture, naturopathy, homeopathy, traditional Chine
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on acupuncturists and traditional Chinese medicine practitioners is mixed: some tasks such as diagnostic assistance and paperwork may be automated, but core links like personalized treatment, manual therapy, and doctor-patient trust are hard to replace.
-
 Career paths can be advanced from basic clinic positions to senior therapists or open their own clinics, or further education can expand into teaching or research.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Career paths can be advanced from basic clinic positions to senior therapists or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employed by a clinic or health center in Spain, with employer-sponsored work residency. |
-| Subclass Cuenta propia (Self-Employed Work Permit) | To run a clinic as a self-employed person, you must prove your financial capability and professional qualifications. |
-| Subclass Alta cualificación (Highly Qualified Professional) | If the education meets the high-skill standard (EU Blue Card), but TCM practitioners are usually not in short supply. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Usually, a Grado or FP Superior-related degree is required, as well as profes
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/acupuncturists-and-traditional-chinese-medicine-practitioners/ES)**

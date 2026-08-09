@@ -54,8 +54,6 @@ Clinical psychologists in Canada conduct psychological assessments, diagnosis, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on clinical psychologists is mixed: automation can handle paperwork and initial assessments, but diagnosis and treatment still require human empathy and clinical judgment. The profession is regulated, and entry barriers increase.
-
 From registered psychologist to supervisor or private practitioner. May specialize in subfields like neuropsychology, child psychology, or move into research and teaching. Senior roles require a PhD and many years of experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From registered psychologist to supervisor or private practitioner. May speciali
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario Human Capital or BC Healthcare stream |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces designated employer sponsorship |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Overseas qualifications need ECA (e.g., from WES), but provincial regulators 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-psychologist/CA)**

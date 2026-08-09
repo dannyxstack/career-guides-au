@@ -53,8 +53,6 @@ Media Producer (excluding video) in New Zealand plans, coordinates, and supervis
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Junior producers usually start as coordinators or assistants, gaining experience before advancing to senior producer or project manager. Experienced producers can move into strategic management or entrepreneurship, starting their own production companies. Continuous learning of new technologies and platforms is key.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Junior producers usually start as coordinators or assistants, gaining experience
 | Subclass AEWV (Accredited Employer Work Visa) | Must obtain a certified employer offer with salary not below the median (currently $29.66/hour). |
 | Subclass WTR (Work to Residence) | If the employer is in a green list industry (such as media), working for 2 years can lead to residency, but this occupation is not on the core list |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can advance to senior producer, content director, or project manager, or star
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/media-producer-excluding-video/NZ)**

@@ -51,8 +51,6 @@ Perform routine medical laboratory tests for disease diagnosis, treatment, and p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 Usually start as entry-level technicians, accumulate experience, then become senior technicians or supervisors through certification; some pursue further education to become medical technology specialists or lab managers
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually start as entry-level technicians, accumulate experience, then become sen
 | Subclass EB-3 (EB-3 Skilled Workers) | Employment-based green card third preference, requires PERM labor certification; long waiting period |
 | Subclass TN (TN NAFTA Professional) | Only for Canadian and Mexican citizens, requiring a specific occupation list; no quota but employer support needed |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires an associate degree (2 years), but some employers prefer a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-clinical-laboratory-technicians/US)**

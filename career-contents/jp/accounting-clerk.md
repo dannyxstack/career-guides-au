@@ -52,8 +52,6 @@ A clerical position responsible for cash and deposit management, voucher process
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Automation by AI and RPA is progressing in accounting work, reducing routine tasks like data entry and journalizing. However, complex tax processing and management analysis that require high-level judgment remain human tasks.
-
 Start as an accounting clerk, then advance to accounting supervisor, and section manager. Career advancement is possible by acquiring qualifications as a tax accountant or certified public accountant.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Start as an accounting clerk, then advance to accounting supervisor, and section
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Accounting falls under 'Humanities'. University degree or work experience required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Accounting not covered)) | Accounting is not in the specified skills fields, so this visa cannot be used. |
-| Subclass 経営・管理 (Business Manager Visa) | Applicable when overseeing accounting as a corporate executive or manager. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +139,12 @@ A: The Nissho Bookkeeping Level 2 (essential), plus Level 1, tax accountant, and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-clerk/JP)**

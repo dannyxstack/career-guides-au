@@ -54,8 +54,6 @@ Engages in the installation, maintenance, and repair of piping, heating systems,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on piping, heating, and air conditioning technicians is mixed: routine diagnostics and scheduling will be automated, but complex installations and on-site repairs still require human skills, upgrading rather than eliminating jobs.
-
 Can progress from apprentice to technician, foreman, and further through training to become a heating/air conditioning engineer or independent business owner.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from apprentice to technician, foreman, and further through trainin
 | Subclass Skilled Worker Visa (Skilled Immigration Act Visa) | For qualified skilled workers, requires a German-recognized vocational qualification or through credential assessment. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to search for work in Germany for one year, suitable for qualified foreign skilled workers. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 3.5-year dual training program, working in a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-and-hvac-technician/DE)**

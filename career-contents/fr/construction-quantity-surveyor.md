@@ -53,8 +53,6 @@ Responsible for quantity calculation, cost estimation, and budget control for co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
-
 Career development path: Junior Surveyor → Senior Surveyor → Project Cost Manager → Corporate Partner. You can switch to project management or cost consulting, and qualification certifications (such as Chartered Surveyor) can enhance your professional status.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career development path: Junior Surveyor → Senior Surveyor → Project Cost Ma
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employment-based residence requiring employer sponsorship, suitable for those who have a job offer from a French company. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport, suitable for highly skilled professionals such as engineers or master's degree holders or above, simplifying procedures. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary of 1.5 times the French average (about 53,000 euros), suitable for senior positions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: At least a BTS or Licence diploma, OPQIBI certification recommendation, and R
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-quantity-surveyor/FR)**

@@ -1,6 +1,6 @@
 # 精算师（Actuary）职业分析 · 澳大利亚
 
-**职业代码: 224111 (ANZSCO)**
+**职业代码：224111 (ANZSCO)**
 
 精算师运用数学、统计和金融方法评估保险、退休金、医疗和气候风险，是金融业薪资最高的职业之一。澳洲精算师市场规模虽小（约6,500人），但供需缺口显著，资深精算师薪资可超 $200,000，且是189/190技术移民的优先考量职业。
 
@@ -21,19 +21,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| FIAA（Fellow of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 可选 | 澳洲精算师最高级别资格，需要通过全部Part I~III考试+实践经验 |
-| AIAA（Associate of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 可选 | 精算师助理级别资格，是晋升FIAA的阶段性认证 |
-| FSA（Fellow of the Society of Actuaries）/ FIA | SOA（美国）/ IFoA（英国） | 可选 | 国际精算师资格，在澳洲通过互认协议部分认可 |
+| FIAA（澳大利亚精算师协会会士） | 澳大利亚精算师协会 | 可选 | 澳洲精算师最高级别资格，需要通过全部Part I~III考试+实践经验 |
+| AIAA（澳大利亚精算师协会准会员） | 澳大利亚精算师协会 | 可选 | 精算师助理级别资格，是晋升FIAA的阶段性认证 |
+| FSA（精算师协会会员）/ FIA | SOA（美国）/ IFoA（英国） | 可选 | 国际精算师资格，在澳洲通过互认协议部分认可 |
 | Vetassess 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 6,500. JSA 预测精算师至2035年就业增长约10%。气候风险量化（保险公司应对极端天气索赔激增）和网络安全风险精算是2025-2030年增长最快的新兴方向。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 6,500。JSA 预测精算师至2035年就业增长约10%。气候风险量化（保险公司应对极端天气索赔激增）和网络安全风险精算是2025-2030年增长最快的新兴方向。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,21 +52,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 精算师的核心数学建模、风险评估任务将被 AI 大幅增强，而非替代，但重复性数据整理和标准报告任务会自动化，需要掌握 AI 工具以保持竞争力。
 
 气候精算（Catastrophe Modelling/CAT modelling）是2025年保险行业最紧缺的精算方向，澳洲极端天气事件频发推动对相关专家的需求急剧增加。AI模型验证精算师也是新兴高薪方向。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手动数据清洗和预处理，如从旧系统提取并标准化保险数据
 - 生成标准精算报告和监管报表的初稿任务
 - 重复性费率计算和简单准备金评估
 - 维护和运行传统精算模型的参数化工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用 AI 模拟和机器学习模型进行更精准的风险建模和预测
 - 自动化敏感性分析和情景测试，快速评估多变量影响
@@ -74,7 +74,7 @@
 - 动态定价模型：AI 实时更新定价策略，精算师则设定规则和边界
 - 客户和监管沟通：AI 生成可视化仪表盘，精算师解读并提供建议
 
-**人类护城河:**
+**人类护城河：**
 
 - 对保险、退休金等金融产品的深刻行业知识和监管合规理解
 - 在复杂、非线性风险情境下的专业判断和道德决策
@@ -82,7 +82,7 @@
 - 设计创新保险产品时所需的创造力和商业洞察
 - 跨学科整合（如气候风险、长寿风险）的全局思维
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python 或 R 编程，用于构建和部署 AI 模型
 - 机器学习与统计建模（如梯度提升、神经网络）
@@ -91,17 +91,17 @@
 - 沟通与可视化（Tableau/Power BI）及商业报告撰写
 - 精算软件（如 Prophet、AXIS）与 AI 集成知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Climate Risk & Catastrophe Modelling
-- Health Insurance & Government NDIS Modelling
-- Cyber Risk Quantification
-- AI Risk & Model Validation
-- Superannuation & Retirement Modelling
+- 气候风险与灾害建模
+- 健康保险与政府NDIS建模
+- 网络风险量化
+- AI风险与模型验证
+- 养老金与退休建模
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -111,9 +111,7 @@
 | Subclass 189 (SkillSelect Independent) | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190 (Skilled Nominated) | 州提名，NSW/VIC保险业集中 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -175,12 +173,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/actuary/AU)**

@@ -53,8 +53,6 @@ Production and process engineers optimize production flows, improve efficiency, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks for process engineers—process modeling, data analysis, and documentation—are rapidly being replaced by AI automation tools, but on-site optimization, safety compliance, and cross-team coordination remain human-led. Entry-level roles are significantly narrowing, while experience value increases.
-
 Junior engineers can advance to senior engineer or process manager by accumulating project experience, and further move into operations management or technical director roles. Some choose to become independent consultants or enter R&D.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior engineers can advance to senior engineer or process manager by accumulati
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: The most common is the Skilled Worker Visa, requiring employer sponsorship; y
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-and-process-engineers/UK)**

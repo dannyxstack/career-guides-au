@@ -53,8 +53,6 @@ This occupation is an entry-level service role in Canada, mainly responsible for
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is both an opportunity and a challenge for waitstaff: routine tasks like ordering and payment can be automated, but human skills such as emotional interaction, recommending dishes, and handling complaints are amplified; the role won't disappear but skill requirements will increase.
-
 Junior waitstaff can advance to head waiter, supervisor, or even restaurant manager. Some gain experience and move into specialized roles like bartender or barista, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior waitstaff can advance to head waiter, supervisor, or even restaurant mana
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to hire locally, typically used for work visas or immigration |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Canada Employer Sponsorship, suitable for restaurant servers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to team leader, supervisor, restaurant manager, or transition
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-servers/CA)**

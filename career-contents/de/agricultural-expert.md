@@ -51,8 +51,6 @@ Agricultural experts advise agribusinesses, assess soil, crops, livestock, and f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance agricultural experts' capabilities in data analysis, precision agriculture, and predictive modeling, while on-the-ground decision-making and interpersonal trust roles remain secure, with low risk.
-
 Can start as an agricultural technician or farm manager, gain experience, and advance to senior consultant or department head, or transition to research or policy-making roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as an agricultural technician or farm manager, gain experience, and ad
 | Subclass Skilled Worker (Skilled Worker Visa) | A degree is required with no hard minimum salary; employer sponsorship is needed |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to come to Germany; suitable for any occupation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Digitalisation and organic farming bring new opportunities, but traditional r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-expert/DE)**

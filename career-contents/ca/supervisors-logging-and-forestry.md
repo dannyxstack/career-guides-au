@@ -52,8 +52,6 @@ Supervise logging and forestry operations, coordinate worker activities, ensure 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on logging and forestry supervisors is mixed: automated equipment can optimize harvesting scheduling and environmental monitoring, but on-site supervision, safety coordination, and emergency decisions still require human authority and adaptability.
-
 Can be promoted from senior logger or forestry technician to supervisor, then to regional manager or forestry consultant.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can be promoted from senior logger or forestry technician to supervisor, then to
 | Subclass PNP (Provincial Nominee Program) | e.g., BC forestry nomination, remote area points |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requires proof of labour shortage |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Eligible via Express Entry (requires employer offer) or provincial nomination
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-logging-and-forestry/CA)**

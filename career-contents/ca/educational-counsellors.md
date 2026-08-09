@@ -51,8 +51,6 @@ Education advisors provide academic, career, and personal development guidance a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
-
 Education consultants can progress from junior to senior consultant, department head, or independent practice, and may also move into education policy or management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Education consultants can progress from junior to senior consultant, department 
 | Subclass PNP (Provincial Nominee Program) | Some provinces list education consultant as a priority occupation, eligible for provincial nomination |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, adding points for subsequent immigration |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires a master's degree in education counselling or a related fiel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/educational-counsellors/CA)**

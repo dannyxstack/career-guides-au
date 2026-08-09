@@ -54,8 +54,6 @@ Teacher Trainer is responsible for training future teachers in higher or continu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The position of teacher trainer will not be completely replaced, but AI will significantly reduce entry-level, standardized training design work while amplifying the demand for high-interaction teaching supervision and personalized guidance; the career core will upgrade to 'AI instructional designer' and 'human-machine collaboration mentor'.
-
 Usually starts with teaching experience, with progression including: university lecturer, education department head, education research director, or into education administration. Further PhD study can lead to professor.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually starts with teaching experience, with progression including: university 
 | Subclass Skilled Worker (Skilled Immigration Act) | If you obtain a university teaching position or training role, you can apply with a work contract without a labor market test |
 | Subclass Job Seeker Visa (Opportunity Card (Chancenkarte)) | Opportunity card based on a points system, suitable for those seeking work in Germany, including in teacher training |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to professor, education department head, education researcher, or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-trainers/DE)**

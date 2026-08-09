@@ -53,8 +53,6 @@ Government program officers plan, implement, and monitor projects within central
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
-
 Typically start as a project assistant or administrative role, gain experience to advance to Senior Project Officer, Project Manager, or Policy Advisor. Some transition to the private sector or consulting.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Typically start as a project assistant or administrative role, gain experience t
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: No, government project officers are not on the Green List; skilled migration 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-project-officer-government/NZ)**

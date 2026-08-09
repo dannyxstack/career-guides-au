@@ -52,8 +52,6 @@ A goat farmer plans, organises and manages the daily operations of a goat farm, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Career progression can start from assistant manager or breeder, gradually taking on ranch management and business development. Medium-sized farm owners can move into agricultural consulting or own farm management. New Zealand qualifications combined with farm practical experience can accelerate promotion, but competition for senior positions is low.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can start from assistant manager or breeder, gradually taking
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | After working in the occupation for 2 years with an accredited employer, can apply for residency. |
 | Subclass AEWV (Accredited Employer Work Visa) | Apply after receiving a job offer from an accredited employer; valid for 3 years, renewable, and serves as a transition visa to permanent residency. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the Green List Tier 2; requires a job offer from an acc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/goat-farmer/NZ)**

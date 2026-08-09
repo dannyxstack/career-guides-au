@@ -1,10 +1,8 @@
-# Foundry Mold and Core Makers 职业分析 · 韩国
+# 铸模和制芯工（Foundry Mold and Core Makers）职业分析 · 韩国
 
-**职业代码: 82331 (KECO)**
+**职业代码：82331 (KECO)**
 
-This occupation involves performing casting operations by melting metal and pouring it into molds to create products of desired shapes, typically in factories combining automated machinery and manual work.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及熔化金属并浇入模具以制造所需形状产品，通常在结合自动机械和手工的工厂进行。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves performing casting operations by melting metal and pour
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Free (compulsory education)） |
-| Associate Degree in Metal Engineering | 2 年 | $6,000,000~$12,000,000（每年学费） |
+| 高中文凭 | 3年 | $0~$0（免费（义务教育）） |
+| 金属工程副学士学位 | 2 年 | $6,000,000~$12,000,000（每年学费） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation involves performing casting operations by melting metal and pour
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metal Materials Technician (Industrial Engineer) | Human Resources Development Service of Korea | 可选 | Recommended for general casting work |
-| Casting Master Craftsman | Human Resources Development Service of Korea | 可选 | Required for high-level skilled positions |
+| 金属材料技术员（工业工程师） | 韩国人力资源开发服务局 | 可选 | 推荐用于普通铸造工作 |
+| 铸造工艺大师 | 韩国人力资源开发服务局 | 可选 | 高技能职位所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 25,000. Due to automation trends and aging demographics in South Korea's manufacturing sector, employment is expected to gradually decline, but demand for skilled workers in precision casting is likely to persist.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 25,000。由于韩国制造业的自动化趋势和人口老龄化，就业预计将逐渐下降，但对精密铸造技术工人的需求可能会持续存在。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,89 +38,82 @@ This occupation involves performing casting operations by melting metal and pour
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $28,000,000~$35,000,000 | Pre-tax annual salary |
-| Mid-level (4–10 years) | $35,000,000~$45,000,000 | Pre-tax, varies with experience |
-| 资深（10年以上） | $45,000,000~$60,000,000 | Pre-tax, depends on certifications and job performance |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 税前年薪 |
+| 中级（4-10年） | $35,000,000~$45,000,000 | 税前，因经验而异 |
+| 资深（10年以上） | $45,000,000~$60,000,000 | 税前，取决于认证和工作表现 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation technology are expected to significantly replace casting processes, with automation progressing rapidly especially in repetitive mold making and basic casting operations.
+AI和自动化技术预计将显著取代铸造工艺，特别是在重复模具制造和基本铸造操作中，自动化进展迅速。
 
-Starting as entry-level workers, one can advance to skilled worker, team leader, or process manager positions, with further advancement possible through certifications and experience.
+从入门级工人开始，可晋升为熟练工人、团队领导或流程经理，通过认证和经验可进一步晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple mold making
-- Molten metal pouring process
-- Basic quality inspection
+- 简单模具制造
+- 熔融金属浇注工艺
+- 基础质量检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision casting design
-- Automation equipment management
-- Data-driven process optimization
+- 精密铸造设计
+- 自动化设备管理
+- 数据驱动流程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision mold repair and fabrication know-how
-- Manual finishing of non-standard castings
-- Field experience-based problem-solving skills
+- 精密模具维修与制造技术
+- 非标铸件手工精加工
+- 基于现场经验的问题解决能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC and robot operation
-- Use of casting simulation software
-- Understanding of metal material properties
+- CNC与机器人操作
+- 使用铸造仿真软件
+- 金属材料特性理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Precision casting
-- Automation replacement
-- Aging workforce
-- Overseas expansion
+- 精密铸造
+- 自动化替代
+- 劳动力老龄化
+- 海外扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | May be partially allowed in the manufacturing sector during domestic labor shortages, but typically for unskilled positions |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable only to advanced casting technicians, but very limited |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and can endure repetitive tasks
-- People interested in machine operation and detail-oriented
-- People who value teamwork
+- 身体健康且能承受重复性工作的人
+- 对机器操作感兴趣且注重细节的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who find it difficult to endure high temperatures and dusty work environments
-- People who find simple repetitive tasks boring
+- 难以忍受高温和粉尘工作环境的人
+- 觉得简单重复任务枯燥的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a foundry worker?**
-答：It varies by experience; entry-level about 28–35 million KRW, senior about 45–60 million KRW (pre-tax).
+**问：铸造厂工人的平均薪资是多少？**
+答：因经验而异：入门级约28-3500万韩元，高级约45-6000万韩元（税前）。
 
-**问：Can foreigners work as foundry workers?**
-答：E-7 visa is issued restrictively only to advanced technicians, while E-9 is possible in some manufacturing industries but mainly for simple tasks.
+**问：外国人可以做铸造工吗？**
+答：E-7签证仅限高级技术人员，而E-9在某些制造业中可能，但主要用于简单任务。
 
 
 ---
@@ -140,12 +131,12 @@ Starting as entry-level workers, one can advance to skilled worker, team leader,
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/foundry-mold-and-core-makers/KR)**

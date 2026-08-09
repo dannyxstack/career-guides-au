@@ -53,8 +53,6 @@ Assist farmers or farmers with daily livestock care, feed preparation, shed clea
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The daily physical tasks and simple monitoring of agricultural and aquaculture livestock assistants are easily replaced by automation, but human experience is still needed for animal health assessment, environmental adaptation decisions, and interpersonal farmer communication. AI can instead improve data recording and analysis efficiency, leading to a mixed transformation trend.
-
 You can be promoted from livestock assistant to technician (such as breeding and health management), or move to farm management or self-operated farms. Experience must be accumulated and a BP REA or BTSA diploma must be obtained.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from livestock assistant to technician (such as breeding and
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | Employers must provide long-term contracts (CDI) and prove they cannot recruit EU candidates; Wages must reach 1.5 times the SMIC (about €27k/year) to be exempt from the labor market test. |
-| Subclass Passeport Talent (Talent Passport (Qualified Employee)) | If you have a BTSA or higher education and earn twice the annual salary of SMIC (about €36k), you can apply for a talent passport with a simplified process. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires at least Bac+3 qualification and 1.5x average salary (approx. €45k/year); this role's salary usually doesn't meet that, only senior technicians might qualify. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Yes. Through experience accumulation and further training in BTSA or BP REA, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-aquaculture-livestock-assistant/FR)**

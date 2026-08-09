@@ -53,8 +53,6 @@ Operate shoe-making machines to produce footwear products, including cutting, st
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of shoemaking machine operators and tenders is highly repetitive and rule-based; AI and automation will significantly replace core tasks, further shrinking job demand.
-
 Can be promoted to production line supervisor or quality controller, or transition through training to equipment maintenance or mold design.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can be promoted to production line supervisor or quality controller, or transiti
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Outlook is not optimistic, with employment steadily declining due to imports 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/footwear-production-machine-operator/AU)**

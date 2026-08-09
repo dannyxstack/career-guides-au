@@ -4,8 +4,6 @@
 
 A professional who wears and showcases clothing or products in fashion, advertising, pictorials, etc., completing the work based on appearance and expressiveness.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -49,8 +47,6 @@ A professional who wears and showcases clothing or products in fashion, advertis
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI virtual models and deepfake technology are likely to reduce simple pose photography work. However, premium areas such as high-end pictorials or fashion shows that require emotional expression are expected to remain, as AI cannot fully replace them.
-
 Many are freelancers and portfolios are important. After joining an agency, engage in advertisements, fashion shows, pictorials; with experience, can advance overseas or transition to broadcasting/acting.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ Many are freelancers and portfolios are important. After joining an agency, enga
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Applicable when hiring foreign models, requires employer invitation |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: Yes, it's common to transition to broadcasting, acting, or entertainment, whe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/model/KR)**

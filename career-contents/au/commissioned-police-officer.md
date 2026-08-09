@@ -53,8 +53,6 @@ Commissioned Police Officer (ANZSCO 139113) is a senior police officer in the Au
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Typically starts as a Constable, progresses through years of service and internal exams to Senior Constable, Sergeant, and then competes for Commissioned Officer positions (e.g., Inspector, Superintendent). Further advancement can be achieved by serving as area commander, specialized department head, or senior federal police roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically starts as a Constable, progresses through years of service and interna
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: typically join a state police force as a regular constable, after several yea
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commissioned-police-officer/AU)**

@@ -53,8 +53,6 @@ Procurement managers develop procurement strategies, evaluate suppliers, negotia
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
-
 Career path from procurement officer, senior procurement officer to procurement manager, then rising to supply chain director or chief procurement officer. Accumulating industry certifications (such as CIPS) and experience can accelerate development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path from procurement officer, senior procurement officer to procurement 
 | Subclass SMC (Skilled Migrant Category) | Six-point technical immigration system, requiring points based on qualifications and experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for those who do not meet immigration requirements but have employer sponsorship. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Although not mandatory, CIPS certification is highly recommended. Additionall
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/procurement-manager/NZ)**

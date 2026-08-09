@@ -4,8 +4,6 @@
 
 Responsible for coordinating and operating passenger and cargo transportation processes, including scheduling, tracking, loading and unloading, and document processing, ensuring efficient logistics chain operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for coordinating and operating passenger and cargo transportation pr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Logistics and transportation staff face task compression due to AI scheduling, autonomous driving, and automated handling technologies, with standardized operations being replaced, but interpersonal communication and emergency decision-making processes will remain.
-
 You can be promoted from operator to team leader, logistics coordinator, or to advanced roles such as supply chain management or transportation planning through further study in FP or university courses.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ You can be promoted from operator to team leader, logistics coordinator, or to a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish company requires proof that the position cannot be filled by a local resident. |
-| Subclass Busqueda empleo (Job Search Visa) | Allow a 6-month stay in Spain to look for work, requiring a high degree of education or relevant experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: Starting as an operator, you can be promoted to team leader, logistics coordi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logistics-and-transport-employee-for-passengers-and-goods/ES)**

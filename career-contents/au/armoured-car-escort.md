@@ -54,8 +54,6 @@ Responsible for armed escort of cash and valuables, ensuring transport safety, o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Armored escorts face automation compression, but physical security and legal liability requirements make them difficult to be fully replaced; AI will enhance monitoring and dispatching.
-
 Can be promoted from regular escort to fleet supervisor or safety operations manager, requiring experience and additional safety training.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can be promoted from regular escort to fleet supervisor or safety operations man
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Almost impossible. This occupation is not on the skilled migration list, and 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armoured-car-escort/AU)**

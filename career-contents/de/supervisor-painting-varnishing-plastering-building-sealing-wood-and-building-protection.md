@@ -53,8 +53,6 @@ Responsible for supervising and managing on-site work for painting, coating, pla
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters, coaters, plasterers, waterproofers, and wood protection supervisors are hybrid occupations; on-site supervision and inspection can be enhanced by AI, but manual skills, site coordination, and responsibility are difficult to replace, with overall risk moderate.
-
 Can advance from skilled tradesperson to foreman (Vorarbeiter) or construction manager (Baustellenleiter), or through further training become a technician (Techniker) or master craftsman (Meister).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from skilled tradesperson to foreman (Vorarbeiter) or construction m
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search based on a points system, requiring academic qualifications or occupational certification. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to search for employment; proof of financial means required. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must hold a vocational qualification recognized in Germany, and can apply via
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-painting-varnishing-plastering-building-sealing-wood-and-building-protection/DE)**

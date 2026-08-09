@@ -52,8 +52,6 @@ Insulators install and repair thermal, sound, and moisture insulation materials 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on insulation workers is mixed: automated tools and AI design software optimize material estimation and installation plans, but on-site construction and custom work remain difficult to replace.
-
 Insulation workers can progress from apprentice to skilled tradesperson, then to supervisor or project manager. By obtaining a Red Seal certification, they can work nationwide. Some experienced workers choose to start their own business.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Insulation workers can progress from apprentice to skilled tradesperson, then to
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, for skilled trade occupations. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa requires proof of inability to recruit local workers. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but holding a Red Seal certification allows inter-provincial w
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulators/CA)**

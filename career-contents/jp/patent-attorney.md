@@ -51,8 +51,6 @@ A specialist who assists in acquiring and managing intellectual property rights 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates part of patent searches and document preparation, but high-level judgment such as rights strategy and examination responses still relies on humans. The scope of patent attorney work is not shrinking overall; rather, efficiency changes the range of tasks.
-
 After passing the exam, you find employment at a patent firm or corporate IP department. Promotion to manager in 5–10 years, then to partner or IP department head is possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ After passing the exam, you find employment at a patent firm or corporate IP dep
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Corresponds to patent attorney duties. Can work at Japanese patent firms or companies. |
-| Subclass 高度専門職1号（イ） (Highly Skilled Professional) | Point system based on education, income, and experience. Patent attorney qualification gives preference and early permanent residency. |
-| Subclass 経営・管理 (Business Manager) | Applies when opening own patent firm. Requires business plan, etc. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: First, you must pass the patent attorney examination. The exam subjects inclu
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patent-attorney/JP)**

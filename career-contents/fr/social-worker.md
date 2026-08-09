@@ -4,8 +4,6 @@
 
 Social workers in France mainly serve vulnerable groups (such as the elderly, children, people with disabilities, and the poor), providing social assistance, psychological support, administrative coordination, and resource linkage services, and are key implementers of the social security system.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Social workers in France mainly serve vulnerable groups (such as the elderly, ch
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Career Promotion Path: Employees can advance from grassroots social workers to team leaders, project managers, or department heads. They can also transition to specialized fields through continuing education (such as child protection, addiction treatment, aged care), or enter management roles (such as agency directors).
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Career Promotion Path: Employees can advance from grassroots social workers to t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, proving the position cannot be filled by an EU resident; social worker not on shortage list, harder to obtain approval. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, but social workers often do not meet salary or qualification requirements |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: It's a big challenge. Social work is not a shortage occupation in France; emp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-worker/FR)**

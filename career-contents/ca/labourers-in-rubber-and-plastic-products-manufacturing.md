@@ -53,8 +53,6 @@ Engages in material handling, machine feeding, product packaging, and cleaning i
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Labourers in the rubber and plastics manufacturing industry face significant automation replacement risk, especially repetitive material handling, machine feeding, and packing tasks, but machine maintenance and anomaly handling still require human experience, requiring proactive learning of new skills to adapt to change.
-
 Typically start as entry-level laborers, then advance to machine operator or production line leader with experience; some companies offer in-house training, long-term can shift to quality control or maintenance.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as entry-level laborers, then advance to machine operator or pro
 | Subclass LMIA (Labour Market Impact Assessment) | Employers prove via LMIA that they cannot hire locally, supporting work visa applications, but this occupation typically does not meet high-skilled requirements |
 | Subclass PNP (Provincial Nominee Program) | Some provinces have low-skilled pathways, but places are limited and require employer sponsorship. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to machine operator, production line team leader or quality contr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-rubber-and-plastic-products-manufacturing/CA)**

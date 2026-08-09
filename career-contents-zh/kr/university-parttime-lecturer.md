@@ -1,10 +1,8 @@
-# University Part-time Lecturer 职业分析 · 韩国
+# 大学兼职讲师（University Part-time Lecturer）职业分析 · 韩国
 
-**职业代码: 21121 (KECO)**
+**职业代码：21121 (KECO)**
 
-A non-tenure-track faculty member who takes charge of lectures instead of full-time professors at universities, receiving hourly lecture fees and contracting on a semester basis.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+非终身制教员，在大学代替全职教授授课，按课时收费，按学期签约。
 
 
 ---
@@ -13,8 +11,8 @@ A non-tenure-track faculty member who takes charge of lectures instead of full-t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 硕士 | 2 年 | $20,000,000~$50,000,000（Based on domestic graduate school tuition） |
-| Doctoral Degree | 4年 | $40,000,000~$99,999,999（Based on domestic graduate school tuition） |
+| 硕士 | 2 年 | $20,000,000~$50,000,000（依据国内研究生院学费） |
+| 博士学位 | 4年 | $40,000,000~$99,999,999（依据国内研究生院学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A non-tenure-track faculty member who takes charge of lectures instead of full-t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 硕士 | 大学 | 必备 | A master's degree in the relevant field is a basic requirement |
-| Teaching Experience | 大学 | 可选 | Preference for teaching experience in the relevant subject |
+| 硕士 | 大学 | 必备 | 相关领域的硕士学位是基本要求 |
+| 教学经验 | 大学 | 可选 | 优先考虑相关学科的教学经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 80,000. Due to the decline in the school-age population and worsening university finances, hiring of part-time lecturers is decreasing. The government's enforcement of the Lecturer Act is improving treatment, but job instability persists.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 80,000。由于学龄人口下降和大学财务状况恶化，兼职讲师的招聘正在减少。政府实施的讲师法改善了待遇，但工作不稳定仍然存在。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,94 +38,87 @@ A non-tenure-track faculty member who takes charge of lectures instead of full-t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $15,000,000~$25,000,000 | Hourly 40,000–60,000 KRW, annual salary based on 6–9 hours per week |
-| Mid-level (4–9 years) | $25,000,000~$40,000,000 | Hourly 60,000–80,000 KRW, based on 9–12 hours per week |
-| Advanced (10+ years) | $40,000,000~$60,000,000 | Hourly 80,000–100,000 KRW, possible but rare for 12+ hours per week |
+| Beginner (0–3 years) | $15,000,000~$25,000,000 | 时薪40,000–60,000韩元，年薪按每周6–9小时计算 |
+| 中级（4-9年） | $25,000,000~$40,000,000 | 时薪60,000-80,000韩元，基于每周9-12小时 |
+| 高级（10年以上） | $40,000,000~$60,000,000 | 时薪80,000–100,000韩元，每周12小时以上可能但罕见 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist with tasks such as generating lecture materials and automating assessments, but face-to-face lectures and human interaction are difficult to replace. Therefore, the overall impact is limited, and innovation in teaching methods using AI can actually be a competitive advantage.
+人工智能可以协助生成讲义材料和自动化评估等任务，但面对面授课和人际互动难以替代。因此，总体影响有限，而利用AI创新教学方法实际上可以成为竞争优势。
 
-Starting with a master's degree, one accumulates teaching experience, but opportunities to transition to full-time professor are extremely rare. Even after obtaining a doctoral degree, many remain as part-time lecturers, making it difficult to see as a lifelong career.
+从硕士学位开始积累教学经验，但转为正式教授的机会极为罕见。即使获得博士学位，许多人仍担任兼职讲师，难以视为终身职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple knowledge-delivery lectures
-- Objective test creation and grading
-- Standardized lecture note writing
+- 简单的知识传授讲座
+- 客观题制作与评分
+- 标准化讲稿编写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized learning material production
-- Individual student feedback
-- Lecture quality analysis
+- 定制学习材料制作
+- 个性化学生反馈
+- 讲座质量分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face interaction
-- Discussion guidance
-- Mentoring
-- Educational intuition
+- 面对面互动
+- 讨论引导
+- 导师指导
+- 教育直觉
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI educational tools
-- Data-driven lesson design
-- Online lecture operation
-- Learning analytics
+- 利用AI教育工具
+- 数据驱动的课程设计
+- 在线课程运营
+- 学习分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Job insecurity
-- Lecturer Act
-- Declining school-age population
-- Specialization of lectures
+- 工作不稳定性
+- 讲师法
+- 学龄人口下降
+- 讲座专业化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-1 (Professor (E-1)) | Not applicable for part-time lecturers; target full-time professors. Mostly for Korean nationals only |
-| Subclass F-2 (Residence (F-2)) | Permanent residents or marriage immigrants can work as part-time lecturers |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People passionate about conveying knowledge in their major
-- People who do not spare time for lecture preparation
-- People who can tolerate job insecurity
+- 热衷于在专业领域传授知识的人
+- 不惜时间备课的人
+- 能承受工作不稳定的人
 
 **谁不适合**
-- People who want a stable job
-- People who need to conduct research simultaneously
+- 希望稳定工作的人
+- 需要同时进行研究的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a university part-time lecturer?**
-答：Hourly lecture fees range from KRW 40,000 to 100,000, and with 6-12 hours per week, annual salary ranges from KRW 15 million to 60 million, significantly lower than full-time faculty.
+**问：大学兼职讲师平均年薪是多少？**
+答：每小时讲座费从4万韩元到10万韩元不等，每周6-12小时，年薪在1500万到6000万韩元之间，远低于全职教师。
 
-**问：Can foreigners work as part-time lecturers in Korea?**
-答：Generally, the E-1 professor visa is for full-time faculty, so it is difficult to obtain for part-time lecturers. Only those with F-2 residence visas are eligible.
+**问：外国人可以在韩国做兼职讲师吗？**
+答：通常E-1教授签证针对全职教师，兼职讲师难以获得。只有持有F-2居住签证者才符合条件。
 
-**问：Can a part-time lecturer become a full-time professor?**
-答：Realistically, it is very difficult. Most full-time faculty recruitment is through open competition, and part-time lecturer experience does not significantly help.
+**问：兼职讲师能否成为全职教授？**
+答：现实中非常困难。大多数全职教师招聘通过公开竞争，兼职讲师经验帮助不大。
 
 
 ---
@@ -145,12 +136,12 @@ Starting with a master's degree, one accumulates teaching experience, but opport
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/university-parttime-lecturer/KR)**

@@ -1,8 +1,8 @@
 # 土木工程师（Civil Engineer）职业分析 · 日本
 
-**职业代码: 092 (JSCO)**
+**职业代码：092 (JSCO)**
 
-Specialist in planning, design, and construction management of social infrastructure such as roads, bridges, tunnels, and dams. High demand due to national resilience and disaster prevention measures.
+负责道路、桥梁、隧道、大坝等社会基础设施的规划、设计、施工管理专家。因国家韧性和防灾措施需求高。
 
 
 ---
@@ -11,9 +11,9 @@ Specialist in planning, design, and construction management of social infrastruc
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical College (Civil Engineering) | 5年 | $2,000,000~$2,500,000（National university tuition） |
-| University (Civil Engineering) | 4年 | $4,000,000~$6,000,000（Varies by private institution） |
-| Vocational School (Civil Engineering) | 2 年 | $2,000,000~$3,000,000（Evening courses available） |
+| 技术学院（土木工程） | 5年 | $2,000,000~$2,500,000（国立大学学费） |
+| 大学（土木工程） | 4年 | $4,000,000~$6,000,000（因私立机构而异） |
+| 职业学校（土木工程） | 2 年 | $2,000,000~$3,000,000（提供晚间课程） |
 
 ---
 
@@ -21,18 +21,18 @@ Specialist in planning, design, and construction management of social infrastruc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Civil Engineering) | 教育部 | 可选 | National qualification for advanced expertise, not mandatory but advantageous |
-| Class 1 Civil Engineering Construction Manager | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for large-scale projects, beneficial for promotion |
-| Class 2 Civil Engineering Construction Manager | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required for medium-scale projects, suitable for beginners |
+| 专业工程师（土木工程） | 教育部 | 可选 | 高级专业知识的国家资格，非强制但具有优势 |
+| 一级土木工程施工经理 | 国土交通省 | 可选 | 大型项目所需，有利于晋升 |
+| 二级土木工程施工经理 | 国土交通省 | 可选 | 中规模项目必备，适合初学者 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 300,000. Long-term stable demand expected due to infrastructure aging, disaster countermeasures, and continuous construction investment beyond the Tokyo Olympics.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 300,000。由于基础设施老化、防灾对策以及东京奥运会后的持续建设投资，预计长期稳定需求。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,95 +40,88 @@ Specialist in planning, design, and construction management of social infrastruc
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,500,000~$4,500,000 | Excluding overtime pay, varies between large and small companies |
-| Mid level (5–10 years) | $5,000,000~$7,000,000 | Increase with qualifications/site manager |
-| Advanced (15+ years) | $7,000,000~$10,000,000 | Higher pay for managerial/professional engineer positions |
+| 初级（0–3年） | $3,500,000~$4,500,000 | 不含加班费，大公司与小公司之间存在差异 |
+| 中级（5-10年） | $5,000,000~$7,000,000 | 随资质/现场经理增加 |
+| 高级（15年以上） | $7,000,000~$10,000,000 | 管理/专业工程师职位薪酬更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates design and streamlines construction management, but human roles like on-site judgment and safety management remain essential. AI expands tasks and boosts productivity.
+AI自动化设计并简化施工管理，但现场判断和安全等人类角色仍然必不可少。AI扩展任务并提高生产力。
 
-Career advancement from construction management to design and project management. Obtaining national qualifications (Professional Engineer, Civil Engineering Construction Manager) enables independence and management positions.
+从施工管理到设计和项目管理的职业晋升。获取国家资格（专业工程师、土木工程施工管理技师）可实现独立和管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple quantity calculations
-- Manual drawing checks
-- Standard design calculations
+- 简单数量计算
+- 人工绘图检查
+- 标准设计计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Structural analysis
-- Construction plan optimization
-- Risk assessment
-- BIM/CIM modeling
+- 结构分析
+- 施工方案优化
+- 风险评估
+- BIM/CIM建模
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment
-- Safety management
-- Interpersonal coordination
-- Emergency response
+- 现场判断
+- 安全管理
+- 人际协调
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/machine usage methods
+- AI/机器使用方法
 - BIM/CIM
-- Data Analysis
-- Management
+- 数据分析
+- 管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Infrastructure aging countermeasures
-- Disaster prevention/reduction
-- National resilience
-- Construction DX
+- 基础设施老化对策
+- 防灾/减灾
+- 国家韧性
+- 建筑数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree and civil engineering experience. Used by many foreigners. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | As of 2024, construction is a target field. Requires skills and Japanese language tests. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | Scope expanded from 2025 onward. Family accompaniment and permanent residency possible. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Confident in physical strength
-- Good at drawings and calculations
-- Enjoy working in a team
+- 体力自信
+- 擅长图纸和计算
+- 乐于团队合作
 
 **谁不适合**
-- Prefers desk work
-- Dislikes weather-dependent work
+- 偏好案头工作
+- 不喜欢受天气影响的工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a civil engineer?**
-答：Entry-level: ¥3.5-4.5M, mid-level: ¥5-7M, senior: ¥7-10M. Varies by certifications and employer.
+**问：土木工程师的年收入是多少？**
+答：入门级：35-45万元，中级：50-70万元，高级：70-100万元。根据认证和雇主不同而变化。
 
-**问：How can foreigners work as civil engineers in Japan?**
-答：A university degree and civil engineering experience qualify for the 'Engineer/Specialist in Humanities/International Services' visa. 'Specified Skilled Worker (i) and (ii)' are also available in construction.
+**问：外国人在日本如何成为土木工程师？**
+答：拥有大学学位和土木工程经验符合“工程师/人文/国际服务专家”签证条件。建筑行业也适用“特定技能工人（i）和（ii）”。
 
-**问：Key points for career advancement?**
-答：Obtaining certifications like 'Grade 1 Civil Engineering Construction Management Engineer' or 'Professional Engineer' is key. You can advance from construction management to design/project management.
+**问：职业晋升的关键点？**
+答：获得“一级土木工程施工管理工程师”或“专业工程师”等认证是关键。您可以从施工管理晋升到设计/项目管理。
 
 
 ---
@@ -146,12 +139,12 @@ Career advancement from construction management to design and project management
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-engineer/JP)**

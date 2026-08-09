@@ -52,8 +52,6 @@ Traditional Chinese Medicine practitioners diagnose and treat diseases using acu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on Chinese medicine practitioners is mixed: automation will handle literature searches, case records, and other clerical tasks, but core tasks requiring human care and fine motor skills, such as diagnosis, acupuncture, and massage, are hard to replace.
-
 Junior Chinese medicine practitioners can advance to senior practitioner, clinic manager, or open their own clinic; with experience, they can also engage in teaching or research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior Chinese medicine practitioners can advance to senior practitioner, clinic
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state nomination |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, requiring skills assessment and employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must hold a CMBA-accredited degree, pass an English exam (e.g. IELTS 7.0), an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-chinese-medicine-practitioner/AU)**

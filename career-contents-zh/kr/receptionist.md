@@ -1,10 +1,8 @@
 # 前台（Receptionist）职业分析 · 韩国
 
-**职业代码: 02911 (KECO)**
+**职业代码：02911 (KECO)**
 
-A clerical position that greets customers or visitors, handles phone calls, and performs guidance and reception tasks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+接待客户或访客、处理电话、进行引导和接待的文职岗位。
 
 
 ---
@@ -14,7 +12,7 @@ A clerical position that greets customers or visitors, handles phone calls, and 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育免费） |
-| Associate's degree (2-year) | 2 年 | $4,000,000~$8,000,000（Based on tuition） |
+| 副学士学位（2年） | 2 年 | $4,000,000~$8,000,000（按学费计费） |
 
 ---
 
@@ -22,17 +20,17 @@ A clerical position that greets customers or visitors, handles phone calls, and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Engineer Office Automation | Human Resources Development Service of Korea | 可选 | Optional, improves work efficiency |
-| Computer Proficiency Level 2 | Korea Chamber of Commerce and Industry | 可选 | Preferred, for document writing and spreadsheet use |
+| 工业工程师办公自动化 | 韩国人力资源开发服务局 | 可选 | 可选，提高工作效率 |
+| 计算机二级 | 大韩商工会议所 | 可选 | 优先考虑，用于文档编写和电子表格使用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 150,000. Due to digital transformation, the introduction of kiosks and online reservation systems is expected to lead to a slight decrease in employment.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 150,000。由于数字化转型，自助点餐机和在线预订系统的引入预计会导致就业轻微下降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A clerical position that greets customers or visitors, handles phone calls, and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$28,000,000 | Relatively high at large corporations and public institutions |
-| 中级 (4-7年) | $28,000,000~$35,000,000 | Varies by experience |
-| Advanced (8 years or more) | $35,000,000~$45,000,000 | Possible when transitioning to management |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 大型企业和公共机构相对较高 |
+| 中级 (4-7年) | $28,000,000~$35,000,000 | 因经验而异 |
+| 高级（8年及以上） | $35,000,000~$45,000,000 | 转为管理层时可能 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Reception and guidance jobs are highly likely to be replaced by AI and automation technology. With the introduction of kiosks, chatbots, and online reservation systems, simple reception and guidance tasks are decreasing, and the number of jobs is expected to decline within the next 5 to 10 years.
+接待和引导岗位极有可能被人工智能和自动化技术取代。随着自助终端、聊天机器人和在线预订系统的引入，简单的接待和引导任务正在减少，预计未来5到10年内就业数量将下降。
 
-At the beginning of the career, reception and guidance tasks are learned; with experience, promotion to front desk management or administrative support is possible.
+职业生涯初期学习接待和引导任务；积累经验后可晋升为前台管理或行政支持。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of Phone Response
-- Replacement by Visitor Guidance Kiosks
-- Automation of Reservation and Reception Systems
+- 电话响应自动化
+- 被访客引导自助服务终端取代
+- 预订和接待系统自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Support for Complex Complaint Handling
-- Utilization of Customer Data Analysis
-- Operation of Remote Counseling Systems
+- 复杂投诉处理支持
+- 客户数据分析利用
+- 远程咨询系统操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Ability to Handle Complex Situations
-- Non-verbal Communication
+- 同理心
+- 处理复杂情况的能力
+- 非语言沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Literacy
-- Conflict Resolution Skills
-- Data Management Skills
+- 数字素养
+- 冲突解决技能
+- 数据管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Transformation
-- Expansion of Kiosks
-- Service Automation
-- Customer Experience Management
+- 数字化转型
+- 自助服务终端扩展
+- 服务自动化
+- 客户体验管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Long-term residents are possible, but generally difficult to obtain as receptionists are not professionals |
-| Subclass E-7 (Specific Activities (E-7)) | Possible only for certain administrative jobs requiring expertise; general receptionists/information desk workers are not eligible |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This occupation is not eligible for the E-9 visa |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who is sociable and friendly
-- Someone with strong multitasking skills
-- Someone who prefers routine tasks
+- 善于交际、友善的人
+- 具备多任务处理能力强的人
+- 偏好常规任务的人
 
 **谁不适合**
-- Someone who dislikes simple repetitive tasks
-- Someone who is not comfortable using computers
+- 不喜欢简单重复任务的人
+- 不习惯使用计算机的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a receptionist/information desk worker?**
-答：For entry-level, approximately 22 to 28 million KRW; with experience, over 35 million KRW is possible.
+**问：接待员/信息台工作人员的平均年薪是多少？**
+答：初级水平约2200万至2800万韩元；有经验者可超过3500万韩元。
 
-**问：Can a foreigner work as a receptionist/information desk worker?**
-答：Generally difficult to obtain an employment visa due to low specialization; possible for those with F-2, F-4, or F-5 status.
+**问：外国人能否担任接待员/信息台工作人员？**
+答：由于专业化程度低，通常难以获得工作签证；持有F-2、F-4或F-5身份者可能可行。
 
-**问：What level of education is required for this job?**
-答：High school graduation or higher is sufficient; associate degree may be advantageous.
+**问：这份工作需要什么教育水平？**
+答：高中毕业或以上即可，大专学历可能更有优势。
 
 
 ---
@@ -144,12 +134,12 @@ At the beginning of the career, reception and guidance tasks are learned; with e
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/receptionist/KR)**

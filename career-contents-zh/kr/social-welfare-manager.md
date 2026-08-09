@@ -1,10 +1,8 @@
 # 社会福利经理（Social Welfare Manager）职业分析 · 韩国
 
-**职业代码: 01351 (KECO)**
+**职业代码：01351 (KECO)**
 
-A managerial role responsible for overseeing social welfare facilities and institutions, including planning welfare projects, managing personnel and finances, and handling external relations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责监督社会福利设施和机构的管理职位，包括规划福利项目、管理人事和财务以及处理外部关系。
 
 
 ---
@@ -13,9 +11,9 @@ A managerial role responsible for overseeing social welfare facilities and insti
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $12,000,000~$18,000,000（Based on national universities; private universities are more expensive） |
-| 本科（学士学位） | 4年 | $24,000,000~$40,000,000（Average of national/private universities） |
-| 硕士 | 2 年 | $20,000,000~$35,000,000（Graduate school tuition） |
+| 副学士学位 | 2 年 | $12,000,000~$18,000,000（基于国立大学；私立大学费用更高） |
+| 本科（学士学位） | 4年 | $24,000,000~$40,000,000（国立/私立大学平均值） |
+| 硕士 | 2 年 | $20,000,000~$35,000,000（研究生学费） |
 
 ---
 
@@ -23,18 +21,18 @@ A managerial role responsible for overseeing social welfare facilities and insti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Worker Level 2 | Korea Association of Social Workers | 必备 | Mandatory qualification, obtained with a degree |
-| Social Worker Level 1 | Korea Association of Social Workers | 可选 | Requires passing a national exam, advantageous for promotion to manager |
-| Caregiver | Korean Health Personnel Licensing Examination Institute | 可选 | Preferred in elderly welfare facilities |
+| 社工二级 | 韩国社会工作者协会 | 必备 | 必备资格，通过学位获得 |
+| 社会工作者一级 | 韩国社会工作者协会 | 可选 | 需通过国家考试，有利于晋升经理 |
+| 护理员 | 韩国健康人员资格考试院 | 可选 | 在老年福利机构中优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Continuous job creation is expected due to aging population and increasing welfare demand, but high reliance on government budgets may be affected by budget fluctuations.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。由于人口老龄化和福利需求增加，预计将持续创造就业机会，但高度依赖政府预算，可能受预算波动影响。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,96 +40,88 @@ A managerial role responsible for overseeing social welfare facilities and insti
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $35,000,000~$45,000,000 | Based on small facilities |
-| Intermediate (4-8 years) | $45,000,000~$55,000,000 | General facility manager level |
-| Advanced (9+ years) | $55,000,000~$75,000,000 | Large-scale facility director |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于小型设施 |
+| 中级（4-8年） | $45,000,000~$55,000,000 | 一般设施经理级别 |
+| 高级（9年以上） | $55,000,000~$75,000,000 | 大型设施主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in administrative tasks (documentation, data analysis, budget management) for social welfare managers, but it is difficult to replace human relationships and the decision-making/interpersonal services that determine welfare service quality. Instead, it improves efficiency and contributes to enhanced professionalism.
+AI可协助社会福利管理员的行政工作（文档、数据分析、预算管理），但难以替代人际关系及决定福利服务质量的人际服务。相反，它提高了效率并有助于提升专业性。
 
-After obtaining a social worker license (Level 2 or higher), gain field experience and complete facility director promotion training to be selected as a manager. Career hires are common.
+取得社会工作者执照（2级以上）后，积累现场经验并完成设施主任晋升培训，方可被选为管理者。职业招聘较为常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document organization and report writing
-- Budget data entry and aggregation
-- Computerization of counseling records
+- 文件整理与报告撰写
+- 预算数据录入与汇总
+- 咨询记录计算机化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Welfare demand forecasting analysis
-- Budget simulation
-- Program effectiveness evaluation
-- Case management support
+- 福利需求预测分析
+- 预算模拟
+- 项目效果评估
+- 案件管理支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Human empathy and trust-building
-- Organizational culture development and staff coaching
-- Ethical conflict judgment
-- Community network building
+- 人类同理心与信任建立
+- 组织文化发展与员工辅导
+- 伦理冲突判断
+- 社区网络建设
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- AI-Based Social Welfare Technology Utilization
-- Change Management Capability
-- Digital Leadership
+- 数据素养
+- 基于AI的社会福利技术应用
+- 变革管理能力
+- 数字领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Elderly Welfare
-- Welfare for Persons with Disabilities
-- Community Welfare
-- Private consignment
+- 老年福利
+- 残疾人福利
+- 社区福利
+- 私人托运
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (F-2 (Residence)) | Issued to long-term residents, few employment restrictions |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents, free to work |
-| Subclass E-7 (E-7 (Specific Activities)) | Available only for professionals, but limited in social welfare field |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in helping others
-- People interested in organizational management and administrative tasks
-- People with high understanding of welfare systems and policies
+- 以帮助他人为乐的人
+- 对组织管理和行政工作感兴趣的人
+- 对福利体系和政策有高度理解的人
 
 **谁不适合**
-- People seeking income higher than salary level
-- People sensitive to various work-related stress
+- 寻求高于薪资水平收入的人群
+- 对各种工作相关压力敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a social welfare manager?**
-答：It varies greatly by experience and facility size, ranging from 35-45 million KRW for entry-level to 55-75 million KRW for senior positions.
+**问：社会福利管理者的平均薪资是多少？**
+答：根据经验和机构规模差异很大，初级职位3500-4500万韩元，高级职位5500-7500万韩元。
 
-**问：Can foreigners work as social welfare managers?**
-答：Korean language skills and a social worker certificate are essential. E-7 visa issuance is difficult, so long-term visa holders (F-2 or F-5) have an advantage.
+**问：外国人可以从事社会福利管理工作吗？**
+答：韩语能力和社工证是必备的。E-7签证发放困难，因此长期签证持有者（F-2或F-5）具有优势。
 
-**问：What career experience is needed to become a social welfare manager?**
-答：Typically, after obtaining a Level 2 or higher social worker certificate, one gains at least 5 years of practical experience in social welfare facilities and undergoes a manager promotion process.
+**问：成为社会福利经理需要哪些职业经验？**
+答：通常，在获得二级或以上社会工作者证书后，在社会福利设施积累至少5年实践经验，并经历经理晋升流程。
 
 
 ---
@@ -149,12 +139,12 @@ After obtaining a social worker license (Level 2 or higher), gain field experien
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/social-welfare-manager/KR)**

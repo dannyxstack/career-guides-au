@@ -4,8 +4,6 @@
 
 A skilled technical profession that ensures the safe operation of railway vehicles by performing regular inspections, fault repairs, and part replacements for locomotives and electric trains.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A skilled technical profession that ensures the safe operation of railway vehicl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are enhancing maintenance efficiency through diagnostic systems, predictive maintenance, and automatic inspection equipment, but human experts remain essential for complex mechanical repairs and on-site judgment. Therefore, AI complements rather than replaces the profession, and its value as a technical role will be maintained.
-
 Career progression is possible from entry-level technician to intermediate/advanced technician, site foreman, and technical team leader, with certifications and experience being important.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Career progression is possible from entry-level technician to intermediate/advan
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employable as skilled functional worker, requires experience in railway maintenance |
-| Subclass F-2 (F-2 (Residence)) | Employment possible after long-term stay, can switch from E-7 etc. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: High school graduation or higher is acceptable, but graduation from a railway
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-locomotive-and-electric-train-maintenance-technician/KR)**

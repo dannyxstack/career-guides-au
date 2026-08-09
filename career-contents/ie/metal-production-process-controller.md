@@ -53,8 +53,6 @@ In Ireland, metal production process controllers monitor and optimize metal prod
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly change the work of metal production process controllers; core monitoring tasks are compressed, but data analysis and optimization capabilities are amplified, with mixed overall impact
-
 Career progression can go from operator to senior controller or production supervisor, or move into quality management or process engineering roles. Obtaining certifications (e.g., NEBOSH or a metallurgical engineering degree) helps advancement.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression can go from operator to senior controller or production super
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: This occupation is usually not on the critical skills list; requires applicat
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-production-process-controller/IE)**

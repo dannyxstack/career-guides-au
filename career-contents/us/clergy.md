@@ -54,8 +54,6 @@ Clergy conduct religious ceremonies, provide spiritual guidance and moral suppor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
-
 Career paths typically start as assistant clergy or religious educators, progressing to senior clergy or religious leaders. Some clergy can serve as parish heads, seminary teachers, or administrative roles in religious organizations.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career paths typically start as assistant clergy or religious educators, progres
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Most denominations require at least a Bachelor of Theology, many require a ma
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clergy/US)**

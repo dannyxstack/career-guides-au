@@ -51,8 +51,6 @@ Under the supervision of a registered dietitian, assist in providing food servic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Usually start as a dietary technician, gain experience to qualify as a registered dietitian, then advance to clinical dietitian or nutrition services manager. Some move into food service management or public health nutrition.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as a dietary technician, gain experience to qualify as a registere
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes. Complete a bachelor's degree and an AND-accredited internship program, t
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietetic-technicians/US)**

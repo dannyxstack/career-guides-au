@@ -1,10 +1,8 @@
-# Financial Product Developer 职业分析 · 韩国
+# 金融产品开发者（Financial Product Developer）职业分析 · 韩国
 
-**职业代码: 03132 (KECO)**
+**职业代码：03132 (KECO)**
 
-A professional who plans, designs, and launches new financial products (deposits, funds, insurance) at financial firms, requiring market analysis and risk management skills.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在金融公司策划、设计和推出新金融产品（存款、基金、保险）的专业人士，需要市场分析和风险管理技能。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans, designs, and launches new financial products (deposits
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree in finance after high school | 2 年 | $20,000,000~$30,000,000（含学费和生活费） |
-| Bachelor's degree in business, economics, or finance | 4年 | $40,000,000~$60,000,000（Varies by public/private institution） |
+| 高中后金融副学士学位 | 2 年 | $20,000,000~$30,000,000（含学费和生活费） |
+| 商业、经济或金融本科学位 | 4年 | $40,000,000~$60,000,000（因公立/私立机构而异） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who plans, designs, and launches new financial products (deposits
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Financial Planner (CFP) and Investment Advisor License | Korea FPSB (CFP) | 可选 | Favorable for financial product development |
-| Securities Investment Advisor | Korea Financial Investment Association | 可选 | Required and preferred by securities firms |
+| 注册金融理财师（CFP）和投资顾问执照 | 韩国FPSB（CFP） | 可选 | 对金融产品开发有利 |
+| 证券投资顾问 | 韩国金融投资协会 | 可选 | 证券公司要求且优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 8,500. Due to aging population and digital transformation, demand for customized financial products is rising, making employment stable, but new job growth is limited due to fintech competition.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 8,500。由于人口老龄化和数字化转型，对定制金融产品的需求上升，就业稳定，但金融科技竞争限制了新增岗位增长。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,87 +38,80 @@ A professional who plans, designs, and launches new financial products (deposits
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on large securities firms |
-| Mid-level (4-9 years) | $50,000,000~$75,000,000 | 含业绩奖金 |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Excluding executive level |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于大型证券公司 |
+| 中级（4-9年） | $50,000,000~$75,000,000 | 含业绩奖金 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 不包括高管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI replaces repetitive numerical tasks like data analysis, risk assessment, and portfolio optimization, but creative product planning and regulatory response remain human domains, showing mixed impacts.
+人工智能取代了重复性的数字任务，如数据分析、风险评估和投资组合优化，但创意产品规划和监管应对仍属于人类领域，显示出混合影响。
 
-Start in R&D departments at securities firms, banks, or insurance companies, advancing to team leader or department head, or moving to fintech or asset management firms.
+从证券公司、银行或保险公司的研发部门开始，晋升为团队负责人或部门主管，或转向金融科技或资产管理公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple data collection and processing
-- Basic risk modeling report writing
+- 简单数据收集与处理
+- 基本风险建模报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market trend analysis
-- Customer needs prediction
+- 市场趋势分析
+- 客户需求预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Product structure design and innovation ideas
-- Regulatory and compliance response
-- Collaboration with clients and sales departments
+- 产品结构设计与创新理念
+- 法规与合规应对
+- 与客户及销售部门合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python and R data analysis
-- Machine learning basics
-- Financial engineering knowledge
+- Python与R数据分析
+- 机器学习基础
+- 金融工程知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Finance
-- ESG Investing
-- Retirement Pension
-- Fintech Collaboration
+- 数字金融
+- ESG投资
+- 退休养老金
+- 金融科技合作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professional financial personnel, requires bachelor's degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Possible to work after long-term stay with point system |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People strong in numbers and data analysis
-- People logical and interested in financial market trends
-- Risk-takers who also seek stability
+- 擅长数字和数据分析的人
+- 逻辑性强且对金融市场趋势感兴趣的人
+- 愿意冒险但也寻求稳定的人
 
 **谁不适合**
 - 不喜欢重复性办公室工作的人
-- People who prefer working alone over interpersonal relations
+- 喜欢独自工作而非人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For large financial firms, annual pre-tax salary is around 35–45 million KRW, with possible performance bonuses.
+**问：起薪是多少？**
+答：大型金融公司年薪约3500-4500万韩元，另加绩效奖金。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Possible, but E-7 visa requires expertise (bachelor's+experience), and language barriers make it practically challenging.
+**问：外国人能获得此职业的工作签证吗？**
+答：有可能，但E-7签证需要专业技能（本科+经验），且语言障碍使其在实践中具有挑战性。
 
 
 ---
@@ -138,12 +129,12 @@ Start in R&D departments at securities firms, banks, or insurance companies, adv
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/financial-product-developer/KR)**

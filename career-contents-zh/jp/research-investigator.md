@@ -1,10 +1,8 @@
-# Research Investigator 职业分析 · 日本
+# 研究调查员（Research Investigator）职业分析 · 日本
 
-**职业代码: 292 (JSCO)**
+**职业代码：292 (JSCO)**
 
-A professional who collects and organizes data through questionnaire and statistical surveys to understand social and economic conditions.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过问卷调查和统计调查收集整理数据以了解社会经济状况的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who collects and organizes data through questionnaire and statist
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$1,000,000（In case of public high school） |
-| University (Sociology/Economics) | 4年 | $2,000,000~$5,000,000（In case of private university） |
+| 高中 | 3年 | $0~$1,000,000（公立高中的情况） |
+| 大学（社会学/经济学） | 4年 | $2,000,000~$5,000,000（私立大学情况） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who collects and organizes data through questionnaire and statist
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Social Researcher | Japan Association for Social Research | 可选 | Private certification but valued in the industry |
-| Statistical Test | Statistical Quality Assurance Promotion Association | 可选 | 数据分析能力证明 |
+| 认证社会研究员 | 日本社会研究协会 | 可选 | 民间认证但在业内受重视 |
+| 统计检验 | 统计质量保证推广协会 | 可选 | 数据分析能力证明 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 250,000. Employment remains stable due to ongoing government statistics and market research demand, but face-to-face surveys are declining with the spread of web surveys.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 250,000。由于持续的政府统计和市场研究需求，就业保持稳定，但随着网络调查的普及，面对面调查正在减少。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A professional who collects and organizes data through questionnaire and statist
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,000,000~$4,000,000 | In case of research company |
-| 中级 (4-7年) | $4,000,000~$5,500,000 | Chief class |
-| 高级（8年+） | $5,500,000~$7,000,000 | Managerial/Expert |
+| 初级 (0-3年) | $3,000,000~$4,000,000 | 如为研究公司 |
+| 中级 (4-7年) | $4,000,000~$5,500,000 | 首席类别 |
+| 高级（8年+） | $5,500,000~$7,000,000 | 管理/专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-With the spread of AI and online surveys, demand for in-person surveys has declined. Data collection is increasingly automated, but human judgment is still needed for survey design and analysis.
+随着AI和在线调查的普及，面对面调查的需求下降。数据收集日益自动化，但仍需人工判断进行设计和分析。
 
-Career advancement to survey design, analysis, or management is possible with experience; obtaining qualifications and skills can lead to a consultant role.
+凭借经验可晋升至测量设计、分析或管理岗位；获得资质和技能后可担任顾问角色。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Questionnaire distribution and collection
-- Basic tabulation
-- Part of field surveys
+- 问卷分发与收集
+- 基础制表
+- 部分实地调查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Survey design
-- Data analysis
-- Report writing
+- 调查设计
+- 数据分析
+- 报告写作
 
-**人类护城河:**
+**人类护城河：**
 
-- Survey design know-how
-- Interpersonal skills
-- Specialized knowledge
+- 调查设计专业知识
+- 人际交往能力
+- 专业知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Statistical analysis
-- Data visualization
-- Questionnaire design
-- Presentations
+- 统计分析
+- 数据可视化
+- 问卷设计
+- 演示汇报
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Statistical survey
-- Market research
-- Social research
-- Data analysis
+- 统计调查
+- 市场调研
+- 社会研究
+- 数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status obtainable for specialized research work |
-| Subclass 特定活動（調査） (Designated Activities: Research) | May be limitedly permitted under government statistical surveys, etc. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at detailed work
-- People with communication skills
-- People interested in statistical data
+- 擅长细致工作的人
+- 具备沟通能力的人
+- 对统计数据感兴趣的人
 
 **谁不适合**
-- People who are not sociable
-- People who dislike being pressed for deadlines
+- 不善社交的人
+- 不喜欢迫于截止日期压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a investigator?**
-答：As a guide, entry-level: 3-4 million yen, mid-level: 4-5.5 million yen, advanced: 5.5-7 million yen.
+**问：调查员年收入是多少？**
+答：作为向导，入门级：3-4百万日元，中级：4-5.5百万日元，高级：5.5-7百万日元。
 
-**问：Can foreigners work as investigators?**
-答：It is possible if you have high Japanese proficiency and specialized knowledge, but obtaining a visa is not easy.
+**问：外国人可以担任调查员吗？**
+答：日语水平高且有专业知识是可能的，但获得签证并不容易。
 
 
 ---
@@ -141,12 +132,12 @@ Career advancement to survey design, analysis, or management is possible with ex
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/research-investigator/JP)**

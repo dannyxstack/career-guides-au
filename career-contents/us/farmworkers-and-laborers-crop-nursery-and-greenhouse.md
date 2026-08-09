@@ -51,8 +51,6 @@ Engage in manual planting, cultivating, and harvesting of vegetables, fruits, nu
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Farm workers (crops, nurseries, greenhouses) face very high automation replacement risk: repetitive physical tasks (e.g., weeding, picking, sorting) are rapidly covered by agricultural robots and AI vision systems; entry-level positions are shrinking significantly, leaving only irregular or high-precision manual operations
-
 Usually start as seasonal or temporary workers, gain experience to advance to farm supervisor or manager, some move to equipment operation or agricultural technology roles. A few become independent farm operators through experience.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually start as seasonal or temporary workers, gain experience to advance to fa
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually no formal education or license required. If applying pesticides, must
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farmworkers-and-laborers-crop-nursery-and-greenhouse/US)**

@@ -51,8 +51,6 @@ Responsible for positioning and fixing rebar or wire mesh in concrete forms to r
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Start as an apprentice, gain experience to advance to foreman or supervisor, or transition to construction project manager or inspector through further training.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Start as an apprentice, gain experience to advance to foreman or supervisor, or 
 | Subclass EB-3 (EB-3 Skilled Workers) | For skilled workers, requires 2 years of training or experience, via PERM labor certification. |
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary work visa for seasonal or peak demand, but no green card path. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Primary pathways are the EB-3 skilled worker green card (requires employer sp
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reinforcing-iron-and-rebar-workers/US)**

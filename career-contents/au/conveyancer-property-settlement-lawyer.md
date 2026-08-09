@@ -56,8 +56,6 @@ A Conveyancer handles property purchases and sales, title transfers, land regist
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of a property transfer specialist involves both routine processes and legal responsibilities; AI will automate document processing, searches, compliance checks, etc., but core legal judgment, client communication, and signing authority still require humans. Overall, it's a mixed bag, but entry-level positions will be significantly reduced.
-
 PEXA's digital property settlement (e-Conveyancing) is a mandatory industry trend, with NSW/VIC already requiring its use. Foreign buyer (FIRB) and off-the-plan property transfers are high-value specializations for professional conveyancers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ PEXA's digital property settlement (e-Conveyancing) is a mandatory industry tren
 | Subclass 189 (SkillSelect Independent) | Invitation-based, VETASSESS assessment |
 | Subclass 190 (Skilled Nominated) | NSW/VIC/QLD state nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Both have market opportunities in their respective industries; conveyancers h
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conveyancer-property-settlement-lawyer/AU)**

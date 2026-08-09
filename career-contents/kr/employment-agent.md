@@ -4,8 +4,6 @@
 
 A job that connects employers and job seekers, facilitates employment, and performs job counseling and follow-up management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A job that connects employers and job seekers, facilitates employment, and perfo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of AI-based recruitment platforms and automated matching systems, simple job placement and resume screening tasks are decreasing. However, areas requiring human judgment, such as counseling and job prospecting, remain important.
-
 Typically starts at public employment service agencies or private employment agencies, with potential promotion to team leader, branch manager, etc., based on experience.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Typically starts at public employment service agencies or private employment age
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Some job placement tasks possible but not common |
-| Subclass F-2 (Residence) | Can work after obtaining permanent residence |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: A level 2 vocational counselor certification is required, and a level 2 socia
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/employment-agent/KR)**

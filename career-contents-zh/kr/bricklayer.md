@@ -1,8 +1,8 @@
 # 瓦工（Bricklayer）职业分析 · 韩国
 
-**职业代码: 70171 (KECO)**
+**职业代码：70171 (KECO)**
 
-A construction skilled worker who builds walls or structures by stacking bricks, blocks, stones, etc.
+通过堆砌砖块、砌块、石材等建造墙体或结构的建筑技工。
 
 
 ---
@@ -11,8 +11,8 @@ A construction skilled worker who builds walls or structures by stacking bricks,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 0年 | $0~$0（无特定学历要求） |
-| Vocational training (Bricklaying Technician) | 6 months | $500,000~$2,000,000（Training institutions like Polytects） |
+| 高中文凭或更高学历 | 0年 | $0~$0（无特定学历要求） |
+| 职业培训（砌砖技师） | 6个月 | $500,000~$2,000,000（像Polytects这样的培训机构） |
 
 ---
 
@@ -20,18 +20,18 @@ A construction skilled worker who builds walls or structures by stacking bricks,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Visa Employment Training Completion Certificate | Ministry of Employment and Labor | 必备 | Required when applying for E-9 visa |
-| Bricklaying Technician | Human Resources Development Service of Korea | 可选 | National technical qualification; not mandatory but advantageous for employment |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Preferred at large-scale sites |
+| Visa Employment Training Completion Certificate | 雇佣劳动部 | 必备 | 申请E-9签证时需要 |
+| 砌砖技术员 | 韩国人力资源开发服务局 | 可选 | 国家技术资格；非强制但利于就业 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 大型现场优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 85,000. Demand is affected by construction industry fluctuations. Due to aging skilled workforce, demand for new workers is steady but outlook is stable.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 85,000。需求受建筑行业波动影响。由于技术工人老龄化，对新工人的需求稳定，但前景平稳。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A construction skilled worker who builds walls or structures by stacking bricks,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $24,000,000~$30,000,000 | Pre-tax annual salary basis |
-| 中级（4-9年） | $30,000,000~$40,000,000 | Varies by skill level |
-| 资深（10年以上） | $40,000,000~$55,000,000 | Master level |
+| 初级 (0-3年) | $24,000,000~$30,000,000 | 年度税前工资基数 |
+| 中级（4-9年） | $30,000,000~$40,000,000 | 因技能水平而异 |
+| 资深（10年以上） | $40,000,000~$55,000,000 | 硕士水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI and automation may not fully replace bricklaying work, BIM and robotic technologies are being used as auxiliary tools, which may reduce some repetitive tasks. However, precision bricklaying and on-site adaptability will still rely heavily on human roles.
+虽然AI和自动化可能无法完全取代砌砖工作，但BIM和机器人技术正被用作辅助工具，可能会减少一些重复性任务。然而，精准砌砖和现场适应性仍将严重依赖人工角色。
 
-After field experience, can be promoted to bricklaying master; possible to become a construction site manager or start a specialized construction company.
+现场经验后，可晋升为砌砖大师；可能成为建筑工地经理或开办专业建筑公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple brick stacking
-- Material transportation and organization
-- Basic joint work
+- 简单砖块堆砌
+- 物料运输与整理
+- 基本联合工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- BIM-based construction design review
-- Supervision of robotic bricklaying
-- Quality control through precise measurement
+- 基于BIM的施工设计审查
+- 监督机器人砌砖
+- 通过精确测量进行质量控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle complex on-site situations
-- Proficiency in manual finishing
-- Safety management and teamwork
+- 处理复杂现场情况的能力
+- 手工精加工熟练度
+- 安全管理和团队合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of BIM and 3D modeling
+- 了解BIM和3D建模
 - 机器人操作与维护
-- Knowledge of eco-friendly and seismic construction methods
+- 环保与抗震施工方法知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Seismic reinforcement
-- Remodeling
-- Eco-friendly materials
-- Modular construction
+- 抗震加固
+- 翻新
+- 环保材料
+- 模块化建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers, applies to construction industry including bricklayers under Employment Permit System |
-| Subclass E-7 (Specific Activities) | Can switch to skilled worker (E-7-1), requires proving expertise |
-| Subclass F-2 (Residence) | Apply after certain period of stay, few restrictions on employment |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and prefer outdoor work
-- People who enjoy precise manual work and being meticulous
-- People with patience for simple repetitive tasks
+- 身体健壮且偏好户外工作的人
+- 喜欢精确手工工作且一丝不苟的人
+- 对简单重复性任务有耐心的人
 
 **谁不适合**
-- People who fear high-altitude work or dangerous environments
-- People who prefer static office work
+- 害怕高空作业或危险环境的人
+- 偏好静态办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a bricklayer?**
-答：Entry-level pre-tax annual salary is about 24-30 million KRW, with over 10 years of experience up to 40-55 million KRW.
+**问：砌砖工的年平均工资是多少？**
+答：初级税前年薪约2400-3000万韩元，10年以上经验可达4000-5500万韩元。
 
-**问：Can foreigners work as bricklayers in Korea?**
-答：Yes, it is possible to work with an E-9 (Non-professional Employment) visa, and after gaining skills, you can switch to an E-7 (Specific Activities) visa.
+**问：外国人可以在韩国当砌砖工吗？**
+答：可以持E-9（非专业就业）签证工作，掌握技能后可转为E-7（特定活动）签证。
 
-**问：Are there any specific education or certifications needed to become a bricklayer?**
-答：No special academic background is required, but receiving vocational training at institutions like Korea Polytechnics and obtaining a Bricklaying Technician certificate will be advantageous for employment.
+**问：成为砌砖工需要特定的教育或证书吗？**
+答：无需特定学历背景，但在韩国理工大学等机构接受职业培训并获得砌砖技师证书将有利于就业。
 
 
 ---
@@ -142,12 +135,12 @@ After field experience, can be promoted to bricklaying master; possible to becom
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bricklayer/KR)**

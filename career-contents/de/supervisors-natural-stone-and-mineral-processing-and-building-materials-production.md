@@ -53,8 +53,6 @@ Oversees daily operations of natural stone, mineral processing, and building mat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will optimize quality monitoring and process scheduling, but this occupation relies on physical supervision and complex fault handling; short-term replacement risk is moderate, requiring proactive transition.
-
 Typically start as skilled workers, gain experience to become team leaders or supervisors, then advance to production managers or plant managers. Continuing education (e.g., technician, foreman) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as skilled workers, gain experience to become team leaders or su
 | Subclass Skilled Worker (Skilled Worker Visa) | For skilled professionals with recognized German vocational qualifications, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Job seeker visa based on a points system, allows coming to Germany to find work without employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from tradesperson to supervisor, then to production manager or p
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-natural-stone-and-mineral-processing-and-building-materials-production/DE)**

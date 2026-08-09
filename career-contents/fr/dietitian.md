@@ -4,8 +4,6 @@
 
 Nutritionists are responsible for assessing individual nutritional status, developing personalized dietary plans, preventing and treating diseases, and promoting health. They can be practiced in hospitals, clinics, nursing homes, schools, or private practice.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Nutritionists are responsible for assessing individual nutritional status, devel
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Typically, you start as a clinical dietitian and can be promoted to department head, nutrition department head, or transition to public health, food service management, or research and education. It can also operate independently.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Typically, you start as a clinical dietitian and can be promoted to department h
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport) – Profession Artistique et Culturelle) | If you hold a high-skilled work contract or are sponsored by an employer, you can apply for a talent passport. Nutritionists do not qualify for the Shortage Occupation List, but can apply if the salary in the work contract meets the requirements. |
-| Subclass Salarié (Salarié (Employee Work Permit)) | After the employer provides a work contract, they must apply and prove that they cannot recruit local workers. It is usually more difficult, but public hospitals have special quotas. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | 12 months to find a job after graduation, then switch to Salarié. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Must pass French national dietitian diploma certification (DETC), can apply f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian/FR)**

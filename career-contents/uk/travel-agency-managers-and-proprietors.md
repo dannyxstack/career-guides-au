@@ -51,8 +51,6 @@ Travel agency managers and owners plan, organise, direct, and coordinate resourc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Usually progress from travel consultant or booking agent to team leader, store manager, and eventually regional manager or franchise owner. Accumulating client resources and industry knowledge can lead to starting your own travel agency.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually progress from travel consultant or booking agent to team leader, store m
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Although a degree is not required, a diploma in travel and tourism management
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-agency-managers-and-proprietors/UK)**

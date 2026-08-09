@@ -53,8 +53,6 @@ Canadian mining machinery operators mainly work in metal and non-metal mines in 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will assist mining machinery operation but not fully replace; remote monitoring and autonomous driving technologies are emerging, but complex underground environments still require human judgment and emergency response.
-
 Entry-level operators can advance to senior operators, team leaders, or equipment supervisors; with experience, they can move into mining supervision or mine planning roles. Some transition to heavy equipment technicians or safety trainers through certification.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level operators can advance to senior operators, team leaders, or equipmen
 | Subclass PNP (Provincial Nominee Program) | Ontario, Saskatchewan, BC have mining-related nomination programs; require employer offer |
 | Subclass TFWP (Temporary Foreign Worker Program) | Employers can apply for a Labour Market Impact Assessment (LMIA), then transition to permanent residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually only high school diploma plus provincial miner safety training (e.g.,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underground-mine-service-and-support-workers-83100/CA)**

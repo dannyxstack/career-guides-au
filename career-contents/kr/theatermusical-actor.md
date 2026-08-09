@@ -4,8 +4,6 @@
 
 A professional artist who performs roles on theater or musical stages, delivering emotions through real-time communication with the audience.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional artist who performs roles on theater or musical stages, deliverin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI technology may impact some areas such as role selection auditions, voice synthesis, and virtual actors, but real-time emotional acting and audience interaction in stage performances are difficult for AI to replace, so the overall impact will be limited. However, some roles in small-scale performances may be replaced by AI avatars.
-
 Usually join a theater company through auditions or work as a freelancer, starting from minor roles and growing into supporting and leading roles. With experience, they can expand into directing, education, musical production, etc.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Usually join a theater company through auditions or work as a freelancer, starti
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-6-1 (Arts and Entertainment (E-6-1)) | Required for foreign actors in theater or musical performances. An invitation from an employer (performance agency) is needed. |
-| Subclass F-2 (Residence (F-2)) | Available for long-term foreign actors. Can be converted under a points system. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Not required, but studying theater/film at university or private academies he
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/theatermusical-actor/KR)**

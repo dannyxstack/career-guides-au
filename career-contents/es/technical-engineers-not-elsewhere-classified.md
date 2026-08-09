@@ -53,8 +53,6 @@ Covers technical engineers not listed in other categories, usually focusing on s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on 'other unclassified technical engineers' is mixed: routine design, testing, and documentation tasks face pressure to automate, but the demand for cross-disciplinary problem-solving, on-site decision-making, and complex system integration is rising, requiring proactive skill upgrades.
-
 Career paths can be promoted from junior engineers to senior engineers or project managers, with some turning to technical consultants or starting their own businesses. Continuous learning of new technologies (such as Industry 4.0) helps development.
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ Career paths can be promoted from junior engineers to senior engineers or projec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled technical engineers, requires a work contract and meets the salary threshold (about three times the minimum wage) |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior professionals, the process is simplified and family members can be brought along |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment work permit, requires company sponsorship and meeting National Employment Agency requirements. |
-| Subclass Busqueda empleo (Job Search Visa) | Residence permit allowing graduates to seek work in Spain (valid for 12 months) |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: It is not mandatory, but some companies or public programs require registrati
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-engineers-not-elsewhere-classified/ES)**

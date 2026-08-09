@@ -50,8 +50,6 @@ Responsible for the daily operations of retail stores, including achieving sales
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 You can be promoted to Regional Manager, Operations Director, or start your own store business. After gaining experience, they can shift to retail consulting or procurement management, or transition to e-commerce operations.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted to Regional Manager, Operations Director, or start your own 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish company, and the employer must prove that suitable candidates cannot be found within the EU. Annual salaries usually meet the minimum threshold (around 25,000 euros or more) to meet high-skilled standards. |
-| Subclass Altamente cualificad (Highly Skilled Professional (EU Blue Card equivalent)) | An annual salary of about 34,000 euros (2025 standard) is required, making it suitable for manager positions in large chain enterprises. Bachelor's degree or above, or at least 3 years of relevant experience. |
-| Subclass Busqueda empleo (Job Search Visa) | For graduates or professionals, they can stay in Spain for 6-12 months to find a job, and after finding a suitable employer, they can switch to work residence. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: The most common route is through a work contract (Cuenta ajena), which requir
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-store-manager/ES)**

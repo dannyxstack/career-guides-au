@@ -1,8 +1,8 @@
-# Travel and Tourism Guide 职业分析 · 日本
+# 旅游与观光导游（Travel and Tourism Guide）职业分析 · 日本
 
-**职业代码: 421 (JSCO)**
+**职业代码：421 (JSCO)**
 
-A profession that provides tourism information to domestic and international travelers, plans and arranges itineraries, and offers on-site guidance.
+为国内外游客提供旅游信息、规划安排行程并提供现场导游的职业。
 
 
 ---
@@ -11,8 +11,8 @@ A profession that provides tourism information to domestic and international tra
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior College / Vocational School | 2 年 | $1,500,000~$3,000,000（Tourism Business Department, etc. Tuition varies by school.） |
-| 大学 | 4年 | $2,500,000~$5,000,000（Faculty of Tourism or International Studies, etc.） |
+| 专科/职业学校 | 2 年 | $1,500,000~$3,000,000（旅游业务部门等，学费因学校而异。） |
+| 大学 | 4年 | $2,500,000~$5,000,000（旅游或国际研究学院等） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession that provides tourism information to domestic and international tra
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Domestic Travel Service Manager | Japan Association of Travel Agents | 必备 | A mandatory national qualification in the travel industry, needed for planning and selling travel products. |
-| General Travel Service Manager | Japan Association of Travel Agents | 可选 | A higher qualification for handling all travel products including overseas travel. |
-| Completed Itinerary Management Training | Japan Association of Travel Agents | 可选 | A qualification required for tour escort duties. |
+| 国内旅游服务经理 | 日本旅行代理协会 | 必备 | 旅游行业必须的国家资格证书，用于规划和销售旅游产品。 |
+| 一般旅行社经理 | 日本旅行代理协会 | 可选 | 处理包括海外旅游在内的所有旅游产品的更高级资格。 |
+| 已完成行程管理培训 | 日本旅行代理协会 | 可选 | 导游陪同职责所需的资格。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand is steady due to the recovery of inbound demand, but employment is stagnant due to AI and online information.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。受入境需求恢复影响，需求稳定，但因人工智能和在线信息导致就业停滞。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A profession that provides tourism information to domestic and international tra
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$3,500,000 | Low starting point for those with no experience. |
-| Intermediate (3–5 years) | $3,500,000~$4,500,000 | Increases with experience and qualifications. |
-| Advanced (5+ years) | $4,500,000~$6,500,000 | Corresponds to management or high-specialty projects. |
+| Beginner (0–3 years) | $2,500,000~$3,500,000 | 无经验者起点低。 |
+| 中级（3-5年） | $3,500,000~$4,500,000 | 随经验和资质提高而增长。 |
+| 高级（5年以上） | $4,500,000~$6,500,000 | 对应于管理或高专业性项目。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-With the spread of AI and online booking systems, information provision tasks are easily automated, but visa/data/phone and face-to-face services remain human roles.
+随着AI和在线预订系统的普及，信息提供任务容易自动化，但签证/数据/电话和面对面服务仍是人类角色。
 
-With experience and language skills, advancement to supervisor, management, or specialized tour planner is possible.
+凭借经验和语言能力，可晋升为主管、管理层或专业旅游策划师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard tourist information provision
-- Automatic itinerary arrangement
-- FAQ response chatbots
+- 标准旅游信息提供
+- 自动行程安排
+- 常见问题解答聊天机器人
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Use of multilingual translation tools
-- VR tourism preview creation
-- Demand forecasting through data analysis
+- 多语言翻译工具的使用
+- VR旅游预览制作
+- 通过数据分析进行需求预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication skills
-- Flexible problem-solving
-- Deep local knowledge and networks
+- 人际沟通技巧
+- 灵活解决问题
+- 深厚的本地知识和人脉
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Multilingual skills
-- Digital marketing
-- Crisis management skills
-- Cross-cultural understanding
+- 多语言技能
+- 数字营销
+- 危机管理技能
+- 跨文化理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Inbound tourism
-- Sustainable tourism
-- Multilingual support
-- Digital transformation (DX)
+- 入境旅游
+- 可持续旅游
+- 多语言支持
+- 数字化转型（DX）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Accommodation)) | Work in accommodation/travel sector permitted. Japanese level N4 or above. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when engaging in interpretation/translation or tourism guidance. University degree or work experience required. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Accommodation) (ii)) | For skilled workers. Family accompaniment & permanent residency possible. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like interacting with others
-- People confident in language skills
-- People who can adapt flexibly
+- 喜欢与人互动的人
+- 对语言能力自信的人
+- 能够灵活适应的人
 
 **谁不适合**
-- People who prefer routine work
-- People who dislike irregular working hours
+- 偏好例行工作的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a travel/tour guide?**
-答：Typically JPY 2.5-3.5 million in the first year. With experience and management roles, can exceed JPY 5 million.
+**问：导游的年收入是多少？**
+答：通常第一年250-350万日元。有经验和管理职位可超过500万日元。
 
-**问：What visa does a foreigner need to work as a travel/tour guide in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is typical. Specified Skilled Worker (Accommodation) is also possible, but job duties are limited.
+**问：外国人在日本从事导游工作需要什么签证？**
+答：“工程师/人文/国际服务专家”签证是典型。特定技能工人（住宿）也有可能，但工作职责有限。
 
-**问：How can I advance my career?**
-答：Obtaining a Travel Service Manager license and strengthening language skills are effective. Being able to plan specialized tours (e.g., ecotours) is highly valued.
+**问：如何提升我的职业生涯？**
+答：获得旅行社服务经理执照和加强语言能力有效。能够策划专业旅游（如生态旅游）很受重视。
 
 
 ---
@@ -143,12 +136,12 @@ With experience and language skills, advancement to supervisor, management, or s
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/travel-and-tourism-guide/JP)**

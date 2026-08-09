@@ -1,8 +1,8 @@
-# Garbage collection and human waste treatment worker 职业分析 · 日本
+# 垃圾收集及人粪处理工人（Garbage collection and human waste treatment worker）职业分析 · 日本
 
-**职业代码: 714 (JSCO)**
+**职业代码：714 (JSCO)**
 
-Collects, transports, and disposes of general waste and human waste from homes and businesses. Essential for maintaining local hygiene.
+收集、运输和处理家庭和企业的普通垃圾及人类废物。对维持当地卫生至关重要。
 
 
 ---
@@ -11,8 +11,8 @@ Collects, transports, and disposes of general waste and human waste from homes a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 义务教育 | 9年 | $0~$0（No educational requirement） |
-| Special education (on-the-job training) | 1个月 | $0~$50,000（Mostly company-paid） |
+| 义务教育 | 9年 | $0~$0（无学历要求） |
+| 特殊教育（在职培训） | 1个月 | $0~$50,000（多由公司承担） |
 
 ---
 
@@ -20,18 +20,18 @@ Collects, transports, and disposes of general waste and human waste from homes a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Large vehicle license | National Police Agency | 可选 | Advantageous for driving collection vehicles |
-| Hazardous materials handler (Class B) | Fire and Disaster Management Agency | 可选 | Useful for waste treatment |
-| Waste treatment facility technical manager | Ministry of the Environment | 可选 | Required for final disposal sites, etc. |
+| 大型车辆驾驶证 | 国家警察厅 | 可选 | 有利于驾驶收集车辆 |
+| 危险品处理员（B类） | 消防与灾害管理局 | 可选 | 对废物处理有用 |
+| 废物处理设施技术经理 | 环境省 | 可选 | 最终处置场等所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 180,000. Labor shortages persist due to retirements from aging workforce and lack of young workers. Stable as municipal contract work, but improving working conditions remains a challenge.
+**职位需求量：很高（★★★★½）** 全国从业人数约 180,000。因老员工退休及年轻员工短缺，劳动力缺口持续存在。市政合同工作较为稳定，但改善工作条件仍是一大挑战。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,86 @@ Collects, transports, and disposes of general waste and human waste from homes a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $2,800,000~$3,500,000 | Average annual income |
-| 中级（3-10年） | $3,500,000~$4,500,000 | Team leader class |
-| Advanced (10+ years) | $4,500,000~$5,500,000 | Management position |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 平均年收入 |
+| 中级（3-10年） | $3,500,000~$4,500,000 | 组长级 |
+| 高级（10年以上） | $4,500,000~$5,500,000 | 管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Automation through AI and robots is advancing, with optimized collection routes and driving assistance being introduced, but completely replacing manual collection work is difficult. In the medium to long term, labor-intensive tasks may decrease.
+AI和机器人自动化正在推进，优化收集路线和驾驶辅助正在引入，但完全取代人工收集工作仍困难。中长期来看，劳动密集型任务可能减少。
 
-With experience, promotion to team leader or manager is possible. There are also civil service recruitment routes. Acquiring licenses like driver's license or hazardous materials handler certification boosts career growth.
+有经验后可晋升为团队领导或经理。也有公务员招聘途径。获得驾照或危险品处理员证书等执照有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Route optimization (AI automation)
-- Autonomous driving of collection vehicles
-- Weight measurement and data recording
+- 路线优化（AI自动化）
+- 收集车辆自动驾驶
+- 重量测量和数据记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Efficient collection route proposals via AI
-- Work support through wearable devices
-- Monitoring and managing autonomous vehicles
+- 通过AI优化收集路线
+- 通过可穿戴设备提供工作支持
+- 监控和管理自动驾驶车辆
 
-**人类护城河:**
+**人类护城河：**
 
-- Handling irregularly shaped waste
-- Tolerance for odors and dirt
-- Flexible response (e.g., road obstacles)
+- 处理不规则形状废物
+- 耐受异味和污垢
+- 灵活应对（例如道路障碍）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/IT literacy
-- Driving skills (large vehicle license)
-- Environmental and recycling knowledge
-- Health and safety management
+- AI/IT素养
+- 驾驶技能（大型车辆驾照）
+- 环境与回收知识
+- 健康与安全管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Waste treatment
-- Recycling
-- Environmental sanitation
-- Collection and transport
+- 废物处理
+- 回收
+- 环境卫生
+- 收集与运输
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Limited to building cleaning field, not waste treatment, but similar tasks may apply. |
-| Subclass 技能実習 (Technical Intern Training (Waste treatment not eligible)) | Under current system, waste treatment is not eligible for technical intern training. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to waste treatment plant management requiring specialized knowledge. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People good at routine work
-- People available for early morning shifts
+- 体力充沛的人
+- 擅长常规工作的人
+- 可上早班的人
 
 **谁不适合**
-- People not confident in physical strength
-- People sensitive to odors
+- 对体力不自信的人
+- 对气味敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for this job?**
-答：Approx. 2.8-3.5M JPY for entry, 3.5-4.5M for mid, 4.5-5.5M for senior level.
+**问：这份工作的年收入是多少？**
+答：入门级约280-350万日元，中级350-450万，高级450-550万。
 
-**问：Can foreigners work in this job?**
-答：Under the current Specified Skilled Worker system, building cleaning is covered, but regular garbage collection is not. However, it may be possible to obtain an Engineer/Specialist in Humanities/International Services visa for management of waste treatment plants.
+**问：外国人可以做这份工作吗？**
+答：在当前特定技能工人制度下，建筑清洁涵盖在内，但普通垃圾收集不包括。不过，可能可以获得人文/国际服务领域的工程师/专家签证以管理废物处理厂。
 
-**问：How can I advance my career?**
-答：By obtaining qualifications such as a large vehicle license or hazardous materials handler certification, you can aim for team leader or management positions. There is also the option of becoming a municipal sanitation worker as a civil servant.
+**问：如何提升我的职业生涯？**
+答：通过获得大型车辆驾照或危险品处理员证书等资格，可以争取团队领导或管理职位。还有成为市政环卫工人（公务员）的选择。
 
 
 ---
@@ -143,12 +136,12 @@ With experience, promotion to team leader or manager is possible. There are also
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/garbage-collection-and-human-waste-treatment-worker/JP)**

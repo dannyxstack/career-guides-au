@@ -4,8 +4,6 @@
 
 Engaging in the breeding, breeding, care, and daily management of wild animals or pets to ensure animal health and welfare, may involve zoos, breeding centers, or pet farms.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaging in the breeding, breeding, care, and daily management of wild animals o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will partially take over keepers' recording, monitoring, and routine cleaning tasks, but direct animal care, behavioral observation, and emotional interaction remain human strengths, with the profession presenting a mixed landscape.
-
 Junior breeders can be promoted to senior breeders or breeding supervisors, and after gaining experience, can transition to animal health management, zoo management, or start their own pet farms.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ Junior breeders can be promoted to senior breeders or breeding supervisors, and 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | A French employer sponsor is required, proving the position cannot be filled by an EU citizen, and this applies to long-term employment contracts |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +136,12 @@ A: The difficulty is quite high. This occupation is not considered a shortage in
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wild-or-pet-animal-breeder/FR)**

@@ -4,8 +4,6 @@
 
 In Spanish public or private primary schools, basic subjects (language, mathematics, science, etc.) for children aged 6 to 12 are taught, with an emphasis on students' holistic development and classroom management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ In Spanish public or private primary schools, basic subjects (language, mathemat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work content of primary school teachers will be moderately enhanced by AI, but core teaching and emotional education responsibilities are hard to replace, making it a 'mixed bag' profession.
-
 Career path: Start as a temporary teacher (interino) and become a full-time teacher (funcionario) through oposiciones. They can be promoted to teaching coordinator, vice principal, principal, or transfer to education supervisors or trainers.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career path: Start as a temporary teacher (interino) and become a full-time teac
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employee Work Permit) | A work contract must be provided by the Spanish school and proof that suitable candidates cannot be found in the EU. |
-| Subclass Homologación (Degree Equivalence) | Non-EU qualifications must pass qualification verification, which takes 6 months to 2 years, which is a prerequisite for applying for teacher qualifications. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You must first complete academic certification (homologación), then obtain a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/ES)**

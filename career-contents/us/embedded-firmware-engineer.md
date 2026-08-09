@@ -51,8 +51,6 @@ Embedded/firmware engineers develop underlying software on microcontrollers and 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI greatly empowers embedded/firmware engineers to automate low-level coding and debugging, freeing up focus on system architecture, hardware interface innovation, and security, but caution is needed regarding AI's ability to automatically generate conventional firmware.
-
 Edge AI, functional safety, and device security have become hot topics in the US, with firmware engineers who understand low-level debugging and real-time constraints in short supply; AI-generated prototypes, but the hardware still relies on people at its core.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Edge AI, functional safety, and device security have become hot topics in the US
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3: Employer-Sponsored Employment-Based Immigration (including PERM Labor Certification) |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW: National Interest Waiver for Self-Applied Green Cards |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes, it's classed as a shortage engineering occupation, eligible for US skill
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/embedded-firmware-engineer/US)**

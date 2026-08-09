@@ -53,8 +53,6 @@ Handles daily administrative tasks in government departments, including document
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Tasks of public administration officers such as document processing, data management, and citizen inquiries will be greatly enhanced by AI, but decision-making responsibility and interpersonal communication still rely on humans, overall risk is low.
-
 Career path typically starts as an administrative assistant or clerk, and can advance to department head or senior administrative officer. Internal training and continuing education enable movement into specialized fields or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path typically starts as an administrative assistant or clerk, and can ad
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled talent with recognized German qualifications or degrees. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based system allowing job seekers without a job offer to enter the country to look for work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires German-recognized degree or vocational training, German at C1 level.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-administration-officer-general/DE)**

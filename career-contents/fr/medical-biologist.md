@@ -4,8 +4,6 @@
 
 Medical biologists are responsible for analyzing biological samples (blood, urine, tissue, etc.) to provide key laboratory data for disease diagnosis, treatment monitoring, and prevention. They typically work in public or private medical laboratories to ensure accurate and reliable results.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Medical biologists are responsible for analyzing biological samples (blood, urin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core laboratory analysis tasks for medical biologists (such as sample processing and data reporting) are easily automated by AI, but diagnostic interpretation, method development, and quality control still require human professional judgment, resulting in mixed job roles.
-
 Junior medical biologists can obtain specialist qualifications (such as microbiology and hematology) through further study, and can be promoted to laboratory director or department head. Some people turn to pharmaceutical research and development or academic research.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior medical biologists can obtain specialist qualifications (such as microbio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for senior professionals, such as those with a master's degree or above and an annual salary exceeding approximately 53,000 euros. Valid for 4 years, renewable with the right to renew. |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least 12 months. Suitable for medical biologists with French qualifications. |
-| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, valid for 12 months, to find work in France. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Yes, but you must pass the reconnaissance des qualifications and obtain the F
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-biologist/FR)**

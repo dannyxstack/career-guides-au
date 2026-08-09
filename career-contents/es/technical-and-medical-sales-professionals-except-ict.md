@@ -52,8 +52,6 @@ Responsible for promoting and selling technical equipment, medical products, and
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Common promotion paths: Regional Sales Manager→ National Sales Manager→ Sales Director. It can also be shifted to product management or marketing. Ongoing training and industry certifications (such as an MBA) help with promotion.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Common promotion paths: Regional Sales Manager→ National Sales Manager→ Sale
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, with an annual salary threshold of about €33,908 (2024), requires a bachelor's degree + work contract, and allows for quick family reunification. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly educated/high-salary professionals, the process is simplified, with annual salaries usually ≥ €40,000, allowing for permanent residency conversion. |
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Regular employment residency requires employer sponsorship, and labor market tests exempt from shortage occupations. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically, a bachelor's degree in a related field (pharmacy, engineering, etc
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-and-medical-sales-professionals-except-ict/ES)**

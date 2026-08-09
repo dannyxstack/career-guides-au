@@ -1,10 +1,8 @@
-# Wood and Paper Product Manufacturing Workers 职业分析 · 日本
+# 木材和纸制品制造工人（Wood and Paper Product Manufacturing Workers）职业分析 · 日本
 
-**职业代码: 536 (JSCO)**
+**职业代码：536 (JSCO)**
 
-Skilled workers who manufacture furniture, building materials, and paper products from wood and paper. They handle a wide range of processes, from machine operation to manual finishing.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+用木材和纸张制造家具、建材和纸制品的技工。处理从机器操作到手工精加工的各种工序。
 
 
 ---
@@ -13,8 +11,8 @@ Skilled workers who manufacture furniture, building materials, and paper product
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical high school (Woodworking department, etc.) | 3年 | $0~$3,000,000（Tuition-free at public schools） |
-| Vocational training school (Woodworking course) | 1年 | $100,000~$500,000（Enrollment available via Hello Work） |
+| 技术高中（木工专业等） | 3年 | $0~$3,000,000（公立学校免学费） |
+| 职业培训学校（木工课程） | 1年 | $100,000~$500,000（可通过Hello Work报名） |
 
 ---
 
@@ -22,18 +20,18 @@ Skilled workers who manufacture furniture, building materials, and paper product
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Furniture Production Skilled Worker Certification | Ministry of Health, Labour and Welfare | 可选 | Levels 1, 2, and 3 available |
-| Building Carpenter Skilled Worker Certification | Ministry of Health, Labour and Welfare | 可选 | Advantageous in woodworking fields |
-| Forklift Operator Certification | Prefectural Labor Bureau | 可选 | Required in factories |
+| 家具生产技术工人认证 | 厚生劳动省 | 可选 | 提供1、2、3级 |
+| 建筑木工技能工人认证 | 厚生劳动省 | 可选 | 在木工领域有优势 |
+| 叉车操作员证书 | 县级劳动局 | 可选 | 工厂必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 380,000. The market is shrinking due to sluggish housing demand and digitalization, but there is a chronic labor shortage in high-value-added products requiring craftsmanship. This is a field covered by the Specified Skilled Worker status.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 380,000。由于住房需求低迷和数字化，市场正在萎缩，但需要手工技艺的高附加值产品领域长期存在劳动力短缺。这是特定技能工人身份涵盖的领域。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,88 +39,80 @@ Skilled workers who manufacture furniture, building materials, and paper product
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,500,000~$3,500,000 | Monthly salary ¥200,000–250,000 + bonuses |
-| Mid-level (4–10 years) | $3,500,000~$4,800,000 | Increases with skill |
-| Advanced (11+ years) | $4,500,000~$6,000,000 | High income as manager or craftsman |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 月薪¥200,000–250,000 + 奖金 |
+| 中级（4-10年） | $3,500,000~$4,800,000 | 随技能提升而增加 |
+| 高级（11年以上） | $4,500,000~$6,000,000 | 经理或工匠的高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although automation via AI and robots is advancing, human judgment is essential for high-end furniture making and finishing processes requiring craftsmanship. Simple cutting and polishing are mechanized.
+虽然AI和机器人自动化在推进，但高端家具制造和需工艺的精加工过程中，人工判断必不可少。简单切割和打磨已机械化了。
 
-Entry-level workers start as machine operators; with skill development, they can advance to pattern making, quality control, or production management. Independent work as a craftsman is also an option.
+入门级工人从机器操作员开始；随着技能发展，可晋升至打版、质量控制或生产管理。也可选择独立匠人工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic plate cutting
-- Polishing process
-- Simple assembly
+- 自动钢板切割
+- 抛光工艺
+- 简单组装
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted design and styling
-- Sensor inspection for wood sorting
+- AI辅助设计与造型
+- 木材分拣的传感器检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Skilled hand-finishing techniques
-- Wood grain reading and processing adjustment
+- 熟练的手工精加工技术
+- 木纹识别与加工调整
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI design tool operation
-- NC machine tool programming
-- Quality control
+- AI设计工具操作
+- 数控机床编程
+- 质量控制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Wooden building demand
-- Paper packaging
-- Furniture craftsman
-- Eco-material processing
+- 木结构建筑需求
+- 纸包装
+- 家具工匠
+- 生态材料加工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Metal Molding, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Covers 3 sectors in manufacturing. Requires skills test and Japanese N4 or above. Up to 5 years. |
-| Subclass 技能 (Skills (Landing Permit for Foreign Nationals)) | For skilled workers. Requires 10+ years of practical experience. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible for design/development roles. Requires university degree or higher. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like manual work
-- People who can focus on detailed tasks
-- People interested in manufacturing
+- 喜欢手工劳动的人群
+- 能专注于细节任务的人
+- 对制造业感兴趣的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People not confident in physical strength
+- 对体力不自信的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of wood/paper product manufacturing workers?**
-答：Average annual income is about 3.8 million yen. Ranges from 2.5 million yen for entry-level to 6 million yen for senior-level.
+**问：木材/纸制品制造工人的平均年收入是多少？**
+答：平均年收入约为380万日元。初级约250万日元，高级可达600万日元。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：Specified Skilled Worker (i) (Manufacturing 3 fields) is the most realistic. Experienced workers can also qualify for the 'Engineer' visa, but at least 10 years of experience is required.
+**问：外国人从事这一职业需要什么签证？**
+答：特定技能工人(i)（制造3个领域）最为现实。有经验的工人也可申请'工程师'签证，但需至少10年经验。
 
 
 ---
@@ -140,12 +130,12 @@ Entry-level workers start as machine operators; with skill development, they can
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/wood-and-paper-product-manufacturing-workers/JP)**

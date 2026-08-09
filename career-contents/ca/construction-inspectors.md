@@ -52,8 +52,6 @@ Building inspectors in Canada oversee construction or renovation projects to ens
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 Career path: Junior inspector (0-3 years) → Intermediate inspector (3-8 years) → Senior/Supervisor (8+ years) → Project manager or self-employed consultant. Obtaining Red Seal or provincial civil engineering technician certification enhances salary and mobility; some transition to municipal regulatory enforcement roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior inspector (0-3 years) → Intermediate inspector (3-8 years)
 | Subclass PNP (Provincial Nominee Program (e.g., Ontario Skills Priority, Saskatchewan Trades)) | Suitable for applicants with provincial certification or a job offer; Ontario, Saskatchewan, etc., have provincial nomination fast tracks. |
 | Subclass AIP (Atlantic Immigration Program) | Applicable to inspectors with employer sponsorship in the Atlantic provinces, requiring 1 year of work experience and language CLB 4 |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must undergo education credential assessment (ECA) through designated organiz
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-inspectors/CA)**

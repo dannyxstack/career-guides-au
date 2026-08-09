@@ -53,8 +53,6 @@ Teach political science, international affairs, and international relations cour
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on political science professors is mixed: tasks like literature reviews and data analysis can be automated, but deep critical thinking, ethical judgment, and teaching interactions remain human strengths.
-
 Usually start as assistant professors, gain tenure after 6-7 years, then advance to associate and full professors. Some transition to academic administration or think tank research.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as assistant professors, gain tenure after 6-7 years, then advance
 | Subclass O-1 (O-1 Extraordinary Ability) | If research achievements are outstanding, can apply for O-1 visa |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for EB-2 or EB-3 green card through PERM labor certification |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Very competitive. Each year, many political science PhD graduates compete for
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/political-science-teachers-postsecondary/US)**

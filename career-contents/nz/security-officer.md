@@ -52,8 +52,6 @@ New Zealand security personnel are responsible for protecting people and propert
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Starting as a junior security officer, can advance to senior security officer, security supervisor, or monitoring center manager. Some move into corporate security management or private investigation, requiring experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting as a junior security officer, can advance to senior security officer, s
 | Subclass SMC (Skilled Migrant Category) | If hourly wage reaches 1.5x median ($44.49/hour) or have extensive experience, can apply |
 | Subclass Green List T2 (Green List Tier 2) | Limited to specific security management roles; requires 2 years of work before residence |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must hold a New Zealand Department of Internal Affairs issued security office
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-officer/NZ)**

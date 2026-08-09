@@ -52,8 +52,6 @@ Secondary school teachers in Ireland teach students aged 12 to 18, covering juni
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 New teachers usually start on temporary contracts and can obtain permanent positions after gaining experience. Career progression paths include subject lead, grade coordinator, deputy principal, principal, or moving into education policy and training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ New teachers usually start on temporary contracts and can obtain permanent posit
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | targeting teachers in shortage subjects (e.g., math, science), requiring salary of €32,000, fast track to permanent residency |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled teachers, salary must reach €43,000 (2024 standard). |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must be assessed by Teaching Council, may require supplementary courses or ex
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-education-teacher/IE)**

@@ -54,8 +54,6 @@ Singers in New Zealand primarily work freelance in live performances, recording,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's Impact on Singers is Mixed: AI-generated music and virtual singers compress the low-end market, but digital tools amplify individual production and performance capabilities. Top-tier human voices and emotional expression remain irreplaceable core assets.
-
 Career path: start from street performances or small shows, build a portfolio and reputation, gradually move to recording singles, bands, or musical theater roles; a few become famous and sign with international labels or obtain long-term residency contracts. Most maintain multiple income sources.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: start from street performances or small shows, build a portfolio an
 | Subclass SMC (Skilled Migrant Category) | Usually not applicable, as singer is not an ANZSCO skill level 1-3 occupation; if high salary and employer support, possible but extremely difficult. |
 | Subclass Talent Work Visa (Talent (Accredited Employer) Work Visa) | Requires base annual salary of at least $55,000, and employer must be accredited; suitable for well-known singers with long-term contracts |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Common pathway: gain experience through small performances → record/release
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/singer/NZ)**

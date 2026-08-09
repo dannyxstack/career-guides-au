@@ -1,10 +1,8 @@
-# Technical/Vocational Instructor 职业分析 · 韩国
+# 技术/职业讲师（Technical/Vocational Instructor）职业分析 · 韩国
 
-**职业代码: 21431 (KECO)**
+**职业代码：21431 (KECO)**
 
-A professional instructor who teaches technical and vocational fields such as welding, electricity, and automobile maintenance at vocational training institutions or schools. Through practice-oriented education, they train the workforce needed in industrial settings.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在职业培训机构或学校教授焊接、电工、汽车维修等技术和职业领域的专业教师。通过实践导向的教育，培训产业所需劳动力。
 
 
 ---
@@ -13,8 +11,8 @@ A professional instructor who teaches technical and vocational fields such as we
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $8,000,000~$12,000,000（National standard; private may be higher） |
-| University (4-year) | 4年 | $16,000,000~$24,000,000（National standard; private may be higher） |
+| 大专（2年制） | 2 年 | $8,000,000~$12,000,000（国家标准；私立可能更高） |
+| 大学（4年制） | 4年 | $16,000,000~$24,000,000（国家标准；私立可能更高） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional instructor who teaches technical and vocational fields such as we
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Practical Teacher (Technical/Vocational) Certificate | Human Resources Development Service of Korea | 必备 | Certification designated by the Ministry of Education |
-| National Technical Qualification (Engineer level or higher) in the relevant field | Human Resources Development Service of Korea | 必备 | Welding Engineer, Electrical Engineer, etc. |
+| 实践教师（技术/职业）证书 | 韩国人力资源开发服务局 | 必备 | 教育部指定的认证 |
+| 相关领域的国家技术资格（工程师级别或以上） | 韩国人力资源开发服务局 | 必备 | 焊接工程师、电气工程师等 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 28,000. The employment outlook is stable. Due to the government's policy of expanding vocational training and the demand for skilled workers in the industrial sector, steady jobs are expected to be maintained. However, the decline in the school-age population due to low birth rates may have an impact.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 28,000。就业前景稳定。由于政府扩大职业培训的政策以及工业领域对技能工人的需求，预计将保持稳定就业。然而，低出生率导致的学龄人口下降可能产生影响。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A professional instructor who teaches technical and vocational fields such as we
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$36,000,000 | Based on private vocational training institutions |
-| Intermediate (4–9 years) | $36,000,000~$45,000,000 | Includes national Polytech standards |
-| Advanced (10+ years) | $45,000,000~$55,000,000 | Includes professorship |
+| 初级（0-3年） | $30,000,000~$36,000,000 | 基于私立职业培训机构 |
+| 中级（4-9年） | $36,000,000~$45,000,000 | 包含国家理工学院标准 |
+| 高级（10年以上） | $45,000,000~$55,000,000 | 包括教授职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can be used as an educational aid, but hands-on technical training requires in-person instruction, making full replacement difficult. However, some tasks such as online educational content production may be automated.
+AI可用作教育辅助，但动手技术培训需要现场指导，难以完全替代。然而，在线教育内容制作等部分任务可能实现自动化。
 
-Most instructors transition from industry experience, and some are hired as regular faculty. Depending on their career, they can advance to teaching positions or management roles in educational institutions. Obtaining relevant certifications is advantageous.
+大多数讲师从行业经验转型，部分被聘为正式教员。根据职业发展，他们可以晋升至教育机构的教学职位或管理岗位。获得相关资格证书是有利的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple theory classes
-- Educational material production
-- Basic practice evaluation
+- 简单的理论课程
+- 教学材料制作
+- 基础实践评估
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized feedback
-- Practice simulation
-- Progress analysis and reporting
+- 个性化反馈
+- 实践模拟
+- 进度分析与报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Real-time in-person instruction
-- Transfer of field experience
-- Safety management and crisis response
+- 实时面对面教学
+- 现场经验转移
+- 安全管理与危机应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI educational tools
-- Digital content production
-- Data analysis
-- Remote education operation
+- 人工智能教育工具的使用
+- 数字内容制作
+- 数据分析
+- 远程教育运营
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 职业培训
-- National technical qualification
-- Lifelong education
-- Practice-centered education
+- 国家技术资格
+- 终身教育
+- 以实践为中心的教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if a qualified foreign instructor is hired by a domestic educational institution, but not common. |
-| Subclass F-2 (F-2 (Residence)) | As a preliminary step to permanent residence, long-term foreign instructors can work. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in practical training
-- Expert in the relevant technical field
-- Those who enjoy communicating with learners
+- 对实践培训感兴趣的人
+- 相关技术领域专家
+- 喜欢与学习者交流的人
 
 **谁不适合**
-- Those who prefer theory-centered education
-- Those who have difficulty adapting to change
+- 偏好以理论为中心的教育者
+- 难以适应变化者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a technical skills instructor?**
-答：Approximately 30 to 36 million KRW at entry level, and up to 55 million KRW depending on experience and institution.
+**问：技术技能讲师的平均年薪是多少？**
+答：入门级约3000至3600万韩元，根据经验和机构可达5500万韩元。
 
-**问：Can foreigners work as technical skills instructors in Korea?**
-答：It is possible but requires a professional qualification through the E-7 visa, Korean language proficiency, and relevant certifications are essential. It is not a common route.
+**问：外国人能在韩国担任技术技能讲师吗？**
+答：有可能，但需要通过E-7签证获得专业资格，韩语能力和相关认证至关重要。这不是常见途径。
 
 
 ---
@@ -141,12 +132,12 @@ Most instructors transition from industry experience, and some are hired as regu
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/technical-vocational-instructor/KR)**

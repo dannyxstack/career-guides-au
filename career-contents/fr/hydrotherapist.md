@@ -53,8 +53,6 @@ Spa therapists use spa techniques (such as hot springs, underwater massage, and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on spa therapists is mainly positive, enhancing treatment outcomes through intelligent motion-sensing feedback, automated spa devices, virtual coaching, and other means, reducing repetitive physical labor, but professional judgment and interpersonal care remain central.
-
 Spa therapists usually start as assistants or junior positions, and can be promoted to senior spa therapists or rehabilitation team leaders after gaining experience. You can also obtain a diploma as a physical therapist through further study, broadening your career path. Some spa therapists may open personal spa studios or move to spa management positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Spa therapists usually start as assistants or junior positions, and can be promo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | A French employer sponsor is required, and the contract meets the criteria for a shortage occupation or passes a labor market test |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with an annual salary threshold (about 38,000 euros) |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, requires a long-term contract and salary at least 1.5 times the average. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Can start as a spa assistant, then advance to senior spa therapist or rehabil
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hydrotherapist/FR)**

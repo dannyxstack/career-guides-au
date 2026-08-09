@@ -1,8 +1,8 @@
-# Light Steel Framing Worker 职业分析 · 韩国
+# 轻钢框架工人（Light Steel Framing Worker）职业分析 · 韩国
 
-**职业代码: 70121 (KECO)**
+**职业代码：70121 (KECO)**
 
-A specialized construction worker responsible for installing, assembling, and dismantling light steel frames, primarily for building frameworks and roof structures.
+负责安装、组装和拆卸轻钢框架的专业建筑工人，主要用于建筑框架和屋顶结构。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized construction worker responsible for installing, assembling, and di
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 3年 | $0~$500,000（Training costs may apply） |
-| Craftsman certificate | 1-2年 | $1,000,000~$3,000,000（Including tuition fees） |
+| 高中及以上学历 | 3年 | $0~$500,000（可能产生培训费用） |
+| 工匠证书 | 1-2年 | $1,000,000~$3,000,000（含学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialized construction worker responsible for installing, assembling, and di
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction/Welding Certification | Human Resources Development Service of Korea | 必备 | Required for welding tasks |
-| Safety and health training completion | Ministry of Employment and Labor | 必备 | Mandatory for construction sites |
-| Steel Structure & Reinforcement Craftsman | Human Resources Development Service of Korea | 可选 | Related certifications for light steel framing, bonus points |
+| 建筑/焊接认证 | 韩国人力资源开发服务局 | 必备 | 焊接任务所需 |
+| 安全与健康培训完成 | 雇佣劳动部 | 必备 | 建筑工地强制要求 |
+| 钢结构与钢筋技工 | 韩国人力资源开发服务局 | 可选 | 轻钢框架相关认证，加分项 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. Closely tied to the construction industry; demand remains steady due to the trend toward lightweight buildings, but labor shortages are expected to persist due to aging workforce and lack of new entrants.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。与建筑行业紧密相关；由于轻型建筑趋势，需求保持稳定，但因劳动力老龄化和缺乏新进入者，劳动力短缺预计将持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,93 +39,86 @@ A specialized construction worker responsible for installing, assembling, and di
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Excluding night shift/hazard pay |
-| 中级 (4-7年) | $32,000,000~$40,000,000 | Additional pay for certifications |
-| Advanced (8+ years) | $40,000,000~$55,000,000 | Site manager level |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 不含夜班/危险津贴 |
+| 中级 (4-7年) | $32,000,000~$40,000,000 | 证书额外津贴 |
+| 高级（8年以上） | $40,000,000~$55,000,000 | 现场经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Due to AI and automation, simple repetitive tasks (material handling, cutting, etc.) are reduced, but on-site assembly, welding, and safety management require human judgment and skill, making full replacement difficult.
+由于AI和自动化，简单重复任务（如物料搬运、切割等）减少，但现场组装、焊接和安全管控需要人的判断和技能，完全替代较难。
 
-Career progression: entry-level → intermediate → advanced → site manager or master craftsman; relevant certifications and experience are crucial.
+职业发展：入门级→中级→高级→现场经理或工匠大师；相关认证和经验至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Material handling and cutting
-- Simple assembly and bolt fastening
-- Basic surveying and marking
+- 物料搬运与切割
+- 简单装配和螺栓紧固
+- 基本测量和标记
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Design optimization through pre-simulation
-- Monitoring of robot welding and automatic cutting equipment
-- Site management through drones and 3D scanning
+- 通过预仿真优化设计
+- 机器人焊接与自动切割设备监控
+- 通过无人机和3D扫描进行现场管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Site adaptability and immediate problem-solving skills
-- Precision welding and assembly skills for complex structures
-- Safety management and team communication
+- 现场适应性与即时问题解决能力
+- 复杂结构的精密焊接和装配技能
+- 安全管理与团队沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot welding operation
-- Use of BIM tools
-- Operation of smart construction equipment
-- Basic programming (automation equipment)
+- 机器人焊接操作
+- 使用BIM工具
+- 智能施工设备操作
+- 基础编程（自动化设备）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in demand for light steel frames
-- Lightweight building construction
-- Utilization of E-9 visa
-- Shortage of skilled workers
+- 轻钢框架需求增加
+- 轻型建筑建造
+- E-9签证的使用
+- 熟练工人短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Target: Low-skilled labor, Construction Employment Permit System applies |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled labor, may require certifications |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, no work restrictions |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and prefer outdoor work
-- People with dexterous hands who enjoy working with tools
-- People who strictly follow safety rules
+- 身体健壮且偏好户外工作的人
+- 双手灵巧且喜欢使用工具的人
+- 严格遵守安全规则的人
 
 **谁不适合**
-- People with a fear of heights
-- People who prefer precise paperwork
+- 恐高的人
+- 喜欢精确文书工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a light gauge steel framer?**
-答：Entry-level pre-tax annual salary is around 24-30 million KRW, increasing with experience and certifications.
+**问：轻型钢框架工的起薪是多少？**
+答：入门级税前年薪约2400-3000万韩元，随经验和认证增加。
 
-**问：What visa does a foreigner need to work as a light gauge steel framer?**
-答：Requires E-9 (Non-professional Employment) visa (Employment Permit System) or E-7 (Specific Activities) visa, and skilled workers can switch to F-2 (Residence).
+**问：外国人需要什么签证才能从事轻钢框架工？**
+答：需要E-9（非专业就业）签证（就业许可制度）或E-7（特定活动）签证，熟练工人可转为F-2（居住）。
 
-**问：Can a light steel frame worker switch to other jobs?**
-答：By utilizing welding skills, one can switch to general steel frame worker, structure installer, etc., and also advance to site management positions.
+**问：轻钢框架工人能否转行？**
+答：利用焊接技能，可转为一般钢框架工人、结构安装工等，并可晋升至现场管理职位。
 
 
 ---
@@ -143,12 +136,12 @@ Career progression: entry-level → intermediate → advanced → site manager o
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/light-steel-framing-worker/KR)**

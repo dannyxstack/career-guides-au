@@ -51,8 +51,6 @@ Engineers engaged in R&D of electrical/electronic circuits, semiconductors, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Advances in AI-driven design automation and simulation will replace some routine tasks, but human judgment is needed for new technology development and creative design. Skills in leveraging AI will become crucial.
-
 Accumulate experience as an engineer, then advance to project leader, chief engineer, or management. Specialization enables career growth.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Accumulate experience as an engineer, then advance to project leader, chief engi
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years experience; falls under electrical/electronic engineer work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not eligible for electrical/electronic engineers, but may expand in future. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based system favoring high income, education, research achievements; advantageous for PR. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: Professional Engineer (Electrical/Electronic), Electrical Chief Engineer, and
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-electronic-engineer-rd/JP)**

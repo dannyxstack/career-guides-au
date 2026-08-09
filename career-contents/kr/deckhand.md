@@ -49,8 +49,6 @@ This occupation involves performing various deck duties necessary for ship opera
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation is limited. While autonomous navigation technology and remote control systems may replace some deck duties, complete replacement is difficult because humans are needed for emergency response and complex tasks.
-
 After boarding as an entry-level seafarer, one can accumulate experience and advance to boatswain, navigation officer, or captain, and obtaining a seafarer's license is essential.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ After boarding as an entry-level seafarer, one can accumulate experience and adv
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign seafarers can work as deckhands. Issued under the Employment Permit System. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when expertise is required, such as skilled seamen or special vessel operators. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as crew on Korean-flagged vessels, with some activity restrictions eased. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +129,12 @@ A: Non-professional Employment (E-9) visa is common, allowing employment with Ko
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deckhand/KR)**

@@ -53,8 +53,6 @@ Fisheries and aquaculture laborers are responsible for catching, farming, harves
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fishing and aquaculture laborers face dual impact from automation and AI: repetitive tasks (e.g., feeding, monitoring) will be replaced by automated systems, but decision-making in complex environments, equipment maintenance, and emergency handling still require human judgment, resulting in a mixed impact on job structure.
-
 Career progression paths are limited, typically starting as laborers, then gaining experience to advance to fishing vessel master, farm supervisor, or quality inspector. A few enter fisheries management or marine science through training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression paths are limited, typically starting as laborers, then gaini
 | Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires employer sponsorship, annual salary must exceed €30,000, but this occupation usually does not meet the threshold |
 | Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU citizens can work freely in Ireland without additional permits |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance through experience to become captain, farm supervisor, or quality
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishery-and-aquaculture-labourer/IE)**

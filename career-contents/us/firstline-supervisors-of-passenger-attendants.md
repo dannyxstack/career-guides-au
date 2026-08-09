@@ -52,8 +52,6 @@ Supervise and coordinate passenger service staff activities, including flight at
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
-
 Typically promoted from passenger service staff (e.g., flight attendant) to supervisor, then to service manager or operations manager. With experience, can also move into training or management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically promoted from passenger service staff (e.g., flight attendant) to supe
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Aviation recovery drives demand with projected 10% growth, but the industry i
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-passenger-attendants/US)**

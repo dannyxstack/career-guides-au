@@ -52,8 +52,6 @@ Train drivers are responsible for operating railway locomotives, hauling passeng
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Locomotive engineers face mixed impacts from AI/automation: some driving and monitoring tasks can be automated, but complex track judgment, safety responsibilities, and interpersonal communication still rely on humans; overall positions will not disappear but skills need upgrading.
-
 Junior drivers can start as assistant drivers or trainees, and are promoted to full-time drivers through internal training and assessment. With rich experience, you can take on roles such as driver instructor, dispatcher, or manager. Some have shifted to railway safety or training positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior drivers can start as assistant drivers or trainees, and are promoted to f
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to university degree or equivalent skills, requiring a work contract and salary meeting the threshold (about €35k). Train drivers generally do not require a degree, but you can attempt with an FP certification. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship. For non-urgently needed occupations, proof must be provided that the position cannot be filled within the EU. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | A university degree or more than 3 years of experience is required, with an annual salary threshold of about €34k. If you have an FP degree and several years of experience, you may give it a try. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Passing theoretical and practical exams at ADIF or authorized centers, includ
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locomotive-driver/ES)**

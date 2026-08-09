@@ -53,8 +53,6 @@ Optometrists are on New Zealand's Green List, eligible for Straight to Residence
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
-
 Entry-level optometrists can gain experience, then open private practice or advance to senior optometrist, eye clinic manager, or pursue vision research/education, with annual income up to NZD $150,000.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level optometrists can gain experience, then open private practice or adva
 | Subclass SMC (Skilled Migrant Category) | 6-point system scoring: can apply if 6 points are met (bachelor's degree + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer sponsorship, up to 3 years, can lead to Green List |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Complete a New Zealand-approved Bachelor of Optometry (e.g., University of Au
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/optometrist/NZ)**

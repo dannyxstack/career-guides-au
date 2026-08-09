@@ -53,8 +53,6 @@ Pharmaceutical technical assistants prepare medications, ensure quality control,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on pharmaceutical technical assistants is mixed: automation will take over tasks like drug information queries, inventory management, and document standardization, but in areas requiring human judgment and flexibility, such as prescription review, personalized consultation, and compounding operations, AI is difficult to replace in the short term.
-
 Can advance to pharmacy management assistant or transition to quality control and production management roles in pharmaceutical companies, or become a pharmacist through further study (requires a university degree).
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance to pharmacy management assistant or transition to quality control an
 | Subclass Skilled Worker (Skilled Worker Visa) | For professionals with vocational training qualifications, requires an employer contract and qualification recognition |
 | Subclass Chancenkarte (Opportunity Card) | Job search visa based on a points system, allows finding work in Germany, requiring German language and qualification requirements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to pharmacy management assistant, enter pharmaceutical companies 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmaceutical-technical-assistant/DE)**

@@ -4,8 +4,6 @@
 
 An administrative agent is a professional who prepares documents and handles administrative procedures for individuals or companies to submit to government offices. They perform tasks such as business incorporation, permanent residency applications, and various licensing procedures.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ An administrative agent is a professional who prepares documents and handles adm
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI may automate document writing and data retrieval, replacing simple tasks, but human administrative agents are still needed for client consultations and complex administrative judgments. AI could also expand the scope of work by increasing efficiency.
-
 Starting as a general administrative agent, after 5-10 years of experience, one typically specializes in a field (immigration, construction, legal) or opens their own office. Advancement to association executive positions is also possible.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ Starting as a general administrative agent, after 5-10 years of experience, one 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Visa required for foreigners to work as administrative agents. Korean language proficiency and qualification requirements must be met. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +128,12 @@ A: Yes. It is possible to work with an E-7 visa; Korean language proficiency and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-agent/KR)**

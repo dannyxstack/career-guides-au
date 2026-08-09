@@ -51,8 +51,6 @@ Involved in production and processing of wood-based panels and engineered wood m
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
-
 Starting as a production operator, you can advance to production line supervisor or technical specialist, or transition to quality management or production technology planning roles through further study.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting as a production operator, you can advance to production line supervisor
 | Subclass EU Blue Card (EU Blue Card) | If you have a higher education degree and a salary meeting the threshold (approx. €43,800 in 2025), you can apply. This occupation typically has lower salaries, making it more difficult. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, can be used for job seeking and qualification certification transitions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must complete recognized wood technology vocational training (IHK/HWK certifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodbased-material-and-component-production-worker/DE)**

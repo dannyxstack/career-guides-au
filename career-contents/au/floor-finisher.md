@@ -54,8 +54,6 @@ A Floor Finisher installs, sands, and repairs timber floors, carpet, vinyl, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
-
 Installation volumes for engineered timber and luxury vinyl plank (LVP) flooring are growing, replacing traditional solid timber. The independent contractor market is active with strong demand for skilled tradespeople.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Installation volumes for engineered timber and luxury vinyl plank (LVP) flooring
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: No. A Certificate III is sufficient; TAFE entry is available to high school g
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-finisher/AU)**

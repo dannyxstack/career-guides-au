@@ -51,8 +51,6 @@ Evaluate material properties, develop manufacturing processes and equipment, pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Materials engineer work involves both repetitive experiments and creative design. AI will automate material screening and document generation, but cannot replace deep material science and failure analysis judgment. Overall manageable risk, opportunity lies in using AI to accelerate R&D.
-
 Entry-level materials engineers can advance to senior engineer, technical supervisor, or project manager. Some move into R&D management or consulting, or enter academia. Continuing education is often needed to maintain competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level materials engineers can advance to senior engineer, technical superv
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or a bachelor's with 5 years of experience, and PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree holders or skilled workers, requiring PERM labor certification |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to senior engineer, project manager, or transition to R&D, qualit
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/materials-engineers/US)**

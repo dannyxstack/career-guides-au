@@ -55,8 +55,6 @@ Kitchen hands assist with food preparation, cleaning, and kitchen duties in rest
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Kitchen hand is a high-risk automation role; AI and robots will significantly replace repetitive tasks like food prep and washing, reducing entry-level positions, but humans still have advantages in complex kitchen coordination and quality control.
-
 Kitchen hands typically gain experience first, then advance to chef or kitchen supervisor. They can also obtain the New Zealand Certificate in Cookery through training to transition to more senior cooking roles, then apply for skilled migration.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Kitchen hands typically gain experience first, then advance to chef or kitchen s
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Kitchen hands are not classified as skilled migration or Green List occupatio
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchenhand/NZ)**

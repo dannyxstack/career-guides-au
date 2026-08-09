@@ -51,8 +51,6 @@ Demographers analyze population data, studying population structure, distributio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of demographers will be greatly enhanced by AI: core tasks such as data analysis and predictive modelling will see efficiency leaps, but humans remain irreplaceable in policy interpretation, ethical judgement and strategic advisory roles.
-
 Start as a junior data analyst or research assistant, then progress to senior researcher or project manager. May transition to policy consulting, market research, or higher education; interdisciplinary backgrounds (e.g., sociology, economics) are advantageous.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as a junior data analyst or research assistant, then progress to senior re
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to those with a professional qualification or degree and a job offer from a German employer; no salary threshold, but must match qualifications. |
 | Subclass Job Seeker (Job Seeker Visa (Chancenkarte)) | Allows 6 months to find a job in Germany; requires sufficient funds and qualifications, but no language requirement; must achieve at least 6 points in the Opportunity Card points system. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can start as a research assistant and advance to senior researcher or project
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/demographer/DE)**

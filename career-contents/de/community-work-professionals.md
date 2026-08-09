@@ -53,8 +53,6 @@ Community workers in German local governments or non-profits handle community de
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Community work specialists are mixed on AI influence: administrative reports, event planning and other document tasks are easy to automate, but core human work like interpersonal communication, emotional support and community trust building gains value from time freed by AI.
-
 Clear career path: starting as a community assistant, can advance to community work specialist (requires a relevant bachelor's degree), then to project supervisor or community center manager, and some may enter public management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Clear career path: starting as a community assistant, can advance to community w
 | Subclass EU Blue Card (EU Blue Card) | Generally not applicable, as community work salaries may not meet the Blue Card threshold (€45,300/2024). |
 | Subclass Chancenkarte (Opportunity Card) | Opportunity card for those with enough points to look for a job in Germany, allows short-term stay. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to project supervisor, community centre director, or public admin
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/community-work-professionals/DE)**

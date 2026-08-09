@@ -1,10 +1,8 @@
-# barber 职业分析 · 日本
+# 理发师（barber）职业分析 · 日本
 
-**职业代码: 381 (JSCO)**
+**职业代码：381 (JSCO)**
 
-A barber is a professional who grooms customers' appearance through haircuts, shaving, and hair care. A national license is required, and technical and customer service skills are needed.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+理发师是通过理发、剃须和护发打理顾客形象的专业人士。需国家执照，并具备技术和客户服务技能。
 
 
 ---
@@ -13,8 +11,8 @@ A barber is a professional who grooms customers' appearance through haircuts, sh
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Barber vocational school | 2 年 | $1,000,000~$3,000,000（Varies by public/private） |
-| Distance learning course | 2 年 | $500,000~$1,500,000（Evening/distance learning possible） |
+| 理发职业学校 | 2 年 | $1,000,000~$3,000,000（因公立/私立而异） |
+| 远程学习课程 | 2 年 | $500,000~$1,500,000（允许夜间/远程学习） |
 
 ---
 
@@ -22,18 +20,18 @@ A barber is a professional who grooms customers' appearance through haircuts, sh
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Barber License | Ministry of Health, Labour and Welfare | 必备 | Mandatory. Written and practical exams |
-| Barber Practical Exam | Each prefecture | 必备 | Cutting, shaving, etc. |
-| Managing Barber License | Each prefecture | 可选 | Required for shop management |
+| 国家理发师执照 | 厚生劳动省 | 必备 | 必须参加。笔试和实操考试 |
+| 理发师实操考试 | 各都道府县 | 必备 | 切割、剃毛等 |
+| 理发师执照管理 | 各都道府县 | 可选 | 店铺管理必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 210,000. The barber industry is expected to see stable demand due to an aging population, but competition is somewhat intense due to an increase in new openings. It is not covered by Specified Skilled Worker visas, so labor shortages are moderate.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 210,000。理发行业因人口老龄化需求稳定，但由于新开店增加，竞争较为激烈。不属于特定技能工人签证，因此劳动力短缺适中。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A barber is a professional who grooms customers' appearance through haircuts, sh
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,600,000 | Assistant level |
-| Mid-level (4-9 years) | $3,800,000~$5,000,000 | Full-fledged stylist |
-| Veteran (10+ years) | $4,500,000~$6,500,000 | Shop manager/independent potential |
+| 入门级（0-3年） | $2,800,000~$3,600,000 | 助理级别 |
+| 中级（4-9年） | $3,800,000~$5,000,000 | 全能造型师 |
+| 资深（10年以上） | $4,500,000~$6,500,000 | 店铺经理/独立经营潜力 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are unlikely to directly replace barbers' work, but efficiency will improve through AI style suggestions, appointment management, inventory management, etc. The essence of the craft is human manual skill and customer service; AI remains complementary.
+人工智能和自动化不太可能直接取代理发师的工作，但通过AI风格推荐、预约管理、库存管理等将提高效率。其工作本质是人的手工技能和客户服务；AI仍是辅助性的。
 
-Starting as an apprentice, after obtaining a license, independent practice or managing a chain store is common. Advanced technical skills and business knowledge are advantageous for career advancement.
+从学徒开始，获得执照后，独立执业或管理连锁店很常见。高级技术技能和商业知识对职业发展有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting tasks
-- Appointment reception
-- Inventory management
+- 简单切割任务
+- 预约接待
+- 库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Style suggestions (AI image analysis)
-- Customer management and analysis
-- Appointment optimization
+- 风格建议（AI图像分析）
+- 客户管理与分析
+- 预约优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Manual techniques (shaving, etc.)
-- Creative styling
+- 人际沟通
+- 手工技术（如剃须等）
+- 创意造型
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced cutting techniques
+- 高级切割技术
 - 客户服务技巧
-- Hair care knowledge
-- Digital marketing
+- 护发知识
+- 数字营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hair care demand
-- Men's grooming
-- Elderly barbering
-- Smart barbering
+- 美发护理需求
+- 男士美容
+- 老年人理发
+- 智能理发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Foreign barbers usually cannot work in Japan. Exceptionally, advanced skills or management are required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Barber is excluded. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and meticulous
-- People who enjoy talking with others
-- People interested in beauty
+- 手巧且细心的人
+- 喜欢与他人交谈的人
+- 对美容感兴趣的人
 
 **谁不适合**
-- People who dislike irregular hours
-- People who cannot tolerate standing work
+- 不喜欢不规律工时的人
+- 无法忍受站立工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a barber?**
-答：According to a Ministry of Health, Labour and Welfare survey, the average is about 3.8 million yen. Varies by experience and work style.
+**问：理发师的平均年收入是多少？**
+答：据厚生劳动省调查，平均约380万日元。因经验和工作方式而异。
 
-**问：Can foreigners work as barbers?**
-答：In principle, it is not permitted under the Engineer/Specialist in Humanities/International Services visa. Possible only in exceptional cases such as special skills or Business Manager visa.
+**问：外国人可以做理发师吗？**
+答：原则上，工程师/人文专家/国际服务签证不允许。仅在特殊技能或商务经理签证等例外情况下可能。
 
-**问：How to become independent?**
-答：After obtaining a national license, gain practical experience, learn management knowledge, and start a business. Capital about 5 million yen ~.
+**问：如何独立？**
+答：获得国家执照后，积累实践经验，学习管理知识，并创业。资本约500万日元。
 
 
 ---
@@ -145,12 +136,12 @@ Starting as an apprentice, after obtaining a license, independent practice or ma
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/barber/JP)**

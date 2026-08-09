@@ -53,8 +53,6 @@ Responsible for monitoring, maintaining, and optimizing computer systems and net
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on computer system operations technicians is mixed: daily monitoring, backup, and troubleshooting tasks are easily automated, but complex system optimization and security strategy formulation, tasks requiring human judgment, are instead enhanced by AI. Entry-level positions may shrink, but demand for senior operations roles is increasing.
-
 You can advance from junior operations technician to system administrator, IT infrastructure manager, or develop into cloud architect, DevOps engineer, and other directions. Holding certifications such as CCNA and RHCE can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior operations technician to system administrator, IT in
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled talents, university degree or 5 years of experience required, annual salary meeting the target (approximately €33,908, 2024) |
-| Subclass Altamente cualificad (Highly Qualified Professional) | Ley 14/2013, suitable for highly educated or in-demand occupations, with a faster process |
-| Subclass Cuenta ajena (Work Contract Visa) | Regular employment residency requires employer sponsorship and academic credential verification |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can complete a 2-year higher vocational training (FP Grado Superior) or a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-systems-operations-technician/ES)**

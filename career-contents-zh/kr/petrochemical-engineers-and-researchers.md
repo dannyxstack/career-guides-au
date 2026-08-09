@@ -1,8 +1,8 @@
-# Petrochemical Engineers and Researchers 职业分析 · 韩国
+# 石化和能源工程师及研究人员（Petrochemical Engineers and Researchers）职业分析 · 韩国
 
-**职业代码: 15411 (KECO)**
+**职业代码：15411 (KECO)**
 
-Professional technical personnel responsible for designing, developing, and operating processes that produce chemical products from petroleum and natural gas, handling core R&D and engineering in the refining and petrochemical industries.
+负责设计、开发和操作从石油和天然气生产化学产品的工艺的专业技术人员，处理炼油和石化行业的核心研发和工程。
 
 
 ---
@@ -11,8 +11,8 @@ Professional technical personnel responsible for designing, developing, and oper
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (Chemical Engineering/Industrial Chemistry) | 4年 | $18,000,000~$60,000,000（Annual tuition: approx. KRW 4.5 million at national universities, KRW 8–15 million at private universities; scholarships and national scholarships available.） |
-| Master's degree (Chemical Engineering/Process Systems) | 2 年 | $10,000,000~$35,000,000（Graduate school tuition combined with research assistant/scholarship funding.） |
+| 学士学位（化学工程/工业化学） | 4年 | $18,000,000~$60,000,000（年学费：国立大学约450万韩元，私立大学800-1500万韩元；提供奖学金和国家奖学金。） |
+| 硕士（化学工程/流程系统） | 2 年 | $10,000,000~$35,000,000（研究生学费与研究助理/奖学金资助相结合。） |
 
 ---
 
@@ -20,18 +20,18 @@ Professional technical personnel responsible for designing, developing, and oper
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Engineer (Professional Engineer) | Human Resources Development Service of Korea | 可选 | Basic qualification for petrochemical process engineering; written and practical exams. |
-| Water Quality Environmental Engineer (Professional Engineer) | Human Resources Development Service of Korea | 可选 | Advantageous in petrochemical environmental and safety fields. |
-| ENG (Petrochemical Plant) Experience | Ministry of Employment and Labor / Relevant company | 可选 | Practical experience and history of participation in overseas plant projects. |
+| 化学工程师（专业工程师） | 韩国人力资源开发服务局 | 可选 | 石化工艺工程基本资格；笔试和实操考试。 |
+| 水质环境工程师（专业工程师） | 韩国人力资源开发服务局 | 可选 | 在石化环境和安全领域有优势。 |
+| ENG（石化工厂）经验 | 雇佣劳动部/相关公司 | 可选 | 海外工厂项目的实践经验与参与历史。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 8,500. The Korean petrochemical industry is undergoing restructuring due to intensified global competition and the eco-friendly transition, but demand for R&D personnel is steady due to high-value specialty and bio-based conversion needs. Employment growth is limited, but demand based on expertise is expected to persist.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 8,500。韩国石化行业因全球竞争加剧和环保转型正在进行重组，但由于高价值特种产品和生物基转化需求，研发人员需求稳定。就业增长有限，但基于专业知识的需求将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,86 @@ Professional technical personnel responsible for designing, developing, and oper
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $40,000,000~$55,000,000 | Based on large corporation regular employees; small-medium enterprises: KRW 35–45 million |
-| Intermediate level (4–10 years) | $60,000,000~$90,000,000 | Additional credit for master's degree and license holders. |
-| Senior level (11+ years/senior researcher) | $99,999,999 | Based on large corporation senior researcher/team leader; executive level separate. |
+| 初级（0–3年） | $40,000,000~$55,000,000 | 基于大企业正式员工；中小企业：3500-4500万韩元 |
+| 中级（4-10年） | $60,000,000~$90,000,000 | 硕士和执照持有者额外加分。 |
+| 高级（11年+/高级研究员） | $99,999,999 | 基于大企业高级研究员/团队负责人；高管级别另计。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI and automation are expanding but full replacement is difficult. Data-driven tasks like process optimization, predictive maintenance, and quality prediction are enhanced by AI, but creative R&D such as new catalyst development, reaction mechanism design, and pilot scale-up, as well as on-site decision-making, still rely on human expertise. AI is evolving as a tool that enhances job value.
+AI和自动化在扩展，但完全替代困难。数据驱动任务如流程优化、预测性维护和质量预测由AI增强，但创造性研发如新催化剂开发、反应机理设计和中试放大，以及现场决策仍依赖人的专业知识。AI正演变为提升工作价值的工具。
 
-After graduating from university, joining production technology/R&D centers of petrochemical/refining companies → process/design engineer → senior researcher/team leader → lab director/executive. A master's degree or higher and overseas plant experience are advantageous for promotion; competency in eco-friendly/carbon-neutral R&D is important.
+大学毕业后，进入石化/炼油公司的生产技术/研发中心 → 工艺/设计工程师 → 高级研究员/团队负责人 → 实验室主任/高管。硕士或以上学历及海外工厂经验有利于晋升；具备环保/碳中和研发能力很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual monitoring and simple reporting of process data
-- Regular experimental data organization and statistical processing
-- Basic material and energy balance calculations
+- 手动监控和简单报告过程数据
+- 常规实验数据整理与统计处理
+- 基本的物料和能量平衡计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based process optimization and predictive maintenance
-- Machine learning-based prediction of catalyst and material properties
-- Digital twin-based pilot scale-up simulation
+- 基于AI的流程优化和预测性维护
+- 基于机器学习的催化剂和材料属性预测
+- 基于数字孪生的中试规模放大模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Design and mechanism elucidation of new chemical reactions and catalysts
-- Pilot plant operation experience and scale-up know-how
-- Comprehensive judgment of safety and environmental risks and decision-making
+- 新化学反应和催化剂的设计与机理阐明
+- 中试工厂操作经验及放大技术
+- 安全与环境风险的综合判断与决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python, R, machine learning
-- Process simulation (Aspen Plus, gPROMS)
-- Eco-friendly and bio-based process technologies
-- Understanding of digital twin and IoT platforms
+- Python、R、机器学习
+- 过程模拟（Aspen Plus, gPROMS）
+- 环保及生物基工艺技术
+- 对数字孪生和物联网平台的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Petrochemical
-- Process Engineering
-- Eco-friendly Chemistry
-- High-value Specialties
+- 石油化工
+- 工艺工程
+- 环保化学
+- 高价值专业领域
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Targeting professionals in petrochemical engineering (engineering technicians), stay up to 5 years, employer application required |
-| Subclass D-10 (Job Seeking (D-10-1)) | Foreign job seekers with a domestic master's degree or higher, can stay up to 2 years for employment activities |
-| Subclass F-2 (Residence (F-2-99)) | Convertible from long-term E-7 stay via points system, pre-permanent residence stage |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in chemical/process principles and excellent math/physics skills
-- Engineer-type talent who systematically approach large-scale plant design and problem-solving
-- Those interested in eco-friendly/carbon-neutral technologies and wishing to research sustainable chemical processes
+- 对化工/工艺原理有浓厚兴趣且数理优秀者
+- 以系统化方式处理大型工厂设计和问题解决的工程师型人才
+- 对生态友好/碳中和技术感兴趣，并希望研究可持续化学过程的人
 
 **谁不适合**
-- Those who prefer fixed office work over outdoor/field work
-- Those who desire rapid change and diverse job transitions
+- 偏好固定办公室工作而非户外/现场工作的人
+- 渴望快速变化和多样化职业转型的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level of a petrochemical engineering technician?**
-答：Entry (0–3 years) 40–55 million KRW, Mid (4–10 years) 60–90 million KRW, Senior (11+ years) 100–150 million KRW, with large gaps between conglomerates and SMEs; additional pay for master's degree or higher and certifications.
+**问：石化工程技术员的薪资水平是多少？**
+答：初级（0-3年）4000-5500万韩元，中级（4-10年）6000-9000万韩元，高级（11年以上）1亿-1.5亿韩元，大企业和中小企业之间差距大；硕士及以上学历和认证有额外津贴。
 
-**问：What visa does a foreigner need to work as a petrochemical engineering technician in Korea?**
-答：E-7 (Specific Activities) visas are common, requiring employer sponsorship. Holders of a master's or higher degree from a domestic university can switch from a D-10 job-seeking visa after stay, and after long-term residence, can convert to an F-2 (Residence) visa.
+**问：外国人在韩国担任石油化工工程技术员需要什么签证？**
+答：E-7（特定活动）签证常见，需雇主担保。持有国内大学硕士以上学位者可在停留后从D-10求职签证转换，长期居留后可转为F-2（居住）签证。
 
 **问：该职业未来前景如何？**
-答：As the petrochemical industry shifts toward eco-friendly and bio-based processes, knowledge of existing processes combined with carbon-neutral and renewable material technology capabilities becomes important. Demand for R&D personnel in high-value specialties remains, but overall employment is stagnant.
+答：随着石化行业向环保和生物基工艺转型，结合现有流程知识与碳中和及可再生材料技术能力变得重要。高价值专业领域的研发人员需求仍然存在，但整体就业停滞不前。
 
 
 ---
@@ -143,12 +136,12 @@ After graduating from university, joining production technology/R&D centers of p
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/petrochemical-engineers-and-researchers/KR)**

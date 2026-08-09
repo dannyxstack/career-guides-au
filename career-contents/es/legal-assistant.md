@@ -52,8 +52,6 @@ Legal assistants support lawyers in law firms, corporate legal departments, or p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
-
 Junior Legal Assistants can be promoted to Senior Assistant, Case Manager, or become lawyers through Shenzhen Studies (requires completion of a law degree and master's degree).
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior Legal Assistants can be promoted to Senior Assistant, Case Manager, or be
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (employed)) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or high-income legal assistants, allowing quick residency access. |
-| Subclass Tarjeta azul UE (EU Blue Card) | University degree and above-average salary contract required, suitable for mid-level or higher positions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Applicants must complete a 4-year Bachelor's degree in Law (Grado) and a 1-ye
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-assistant/ES)**

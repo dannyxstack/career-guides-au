@@ -52,8 +52,6 @@ Policy and Planning Managers are responsible for developing, implementing, and e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances core analytical, advisory, and communication tasks for policy and planning managers, but routine work like data collection and report generation will be automated. Overall risk is moderate, requiring proactive skill upgrading.
-
 Career development path: start as a policy analyst or project manager, accumulate industry experience to advance to policy and planning manager, then progress to executive director, chief operating officer, or senior public sector executive. Can pivot to strategic consulting or cross-departmental management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career development path: start as a policy analyst or project manager, accumulat
 | Subclass 190 (Skilled Nominated Visa (Subclass 190)) | State-sponsored permanent residency visa, requires the occupation to be on the state sponsorship list, and can apply after receiving a state invitation. |
 | Subclass 189 (Skilled Independent Visa (Subclass 189)) | Independent skilled migration permanent visa, requires occupation on MLTSSL, and an invitation via EOI points test. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation is on the CSOL list and can apply for the 482 employer-sponso
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-and-planning-manager/AU)**

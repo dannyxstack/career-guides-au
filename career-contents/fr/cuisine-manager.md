@@ -53,8 +53,6 @@ The kitchen supervisor manages the kitchen teams in restaurants, hotels, or grou
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Usually, they start as chefs, advance to sous chef, head chef, and finally head kitchen supervisor. Later, they can develop into executive chefs or food and beverage directors, or start their own restaurants.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Usually, they start as chefs, advance to sous chef, head chef, and finally head 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | This applies to high-paying positions (annual salary ≥ 53,955€), but kitchen supervisor salaries usually fall short of the standard, only accessible in high-end kitchens. |
-| Subclass Passeport Talent (Talent Passport) | Must demonstrate experience working in well-known restaurants or star-rated kitchens, suitable for top chefs, with streamlined procedures. |
-| Subclass Salarié (Salaried Employee) | Standard work permit, requiring employer certification that the position cannot be recruited from the EU market, and must pass DIRECCTE review. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: HACCP health accreditation is mandatory and must be completed and assessed at
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cuisine-manager/FR)**

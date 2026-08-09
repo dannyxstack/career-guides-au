@@ -4,8 +4,6 @@
 
 Pawnbrokers and moneylenders operate small loan businesses, using personal items as collateral or offering unsecured loans, typically working in pawnshops or microfinance institutions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Pawnbrokers and moneylenders operate small loan businesses, using personal items
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of pawnbrokers and lenders (small loan assessment, collateral valuation, debt collection) will be significantly reduced by AI-driven automated scoring systems, online valuations, and smart collection tools, with job numbers expected to decrease by 30%-50%.
-
 Entry-level staff can start as counter assistants and, after gaining experience, become independent pawnbrokers or loan managers. A few may start their own pawnshops or move into broader financial services.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Entry-level staff can start as counter assistants and, after gaining experience,
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with salaries above the threshold, but pawnbrokers usually do not meet the requirements. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-education, high-salary positions; pawnbrokers usually do not qualify |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Limited advancement: can move from assistant to store manager or independent 
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pawnbroker-and-moneylender/NL)**

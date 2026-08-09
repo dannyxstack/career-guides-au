@@ -54,8 +54,6 @@ Plumbers are in high demand in New Zealand, on the Green List, and can achieve s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace plumbers' core practical skills, but will significantly boost efficiency through smart diagnostics, AR assistance, and scheduling optimization; it is a skill-enhancing occupation with stable employment prospects.
-
 Usually starts as an apprentice, obtains a national certificate, and becomes a licensed plumber. Can advance to senior technician, project supervisor, or self-employed contractor. Experienced individuals can enter construction management or specialized technical fields.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as an apprentice, obtains a national certificate, and becomes a l
 | Subclass SMC (Skilled Migrant Category) | Six-point skilled migration system, scoring based on occupation, education, income, etc. Plumber is a licensed occupation and can get extra points. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not meet the Green List criteria, you can get a work visa through an accredited employer and apply for residence after working for 3 years. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires completion of a 4-year apprenticeship, obtaining the New Zealand Cer
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-general-334116/NZ)**

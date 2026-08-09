@@ -4,8 +4,6 @@
 
 Providing sales consulting for decoration and equipment products to clients in home furnishing and building materials stores or specialty retail stores, covering categories such as kitchen, bathroom, lighting, and furniture.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing sales consulting for decoration and equipment products to clients in h
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of home decor and equipment salespeople will be reshaped by AI, with mixed benefits: standardized product knowledge queries and inventory management can be automated, but personalized design advice and customer trust building remain human strengths, requiring proactive transformation to retain their positions.
-
 They can be promoted from junior sales consultant to category specialist or store supervisor, or move to positions such as procurement or product display. After accumulating industry experience, you can develop into a regional manager.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ They can be promoted from junior sales consultant to category specialist or stor
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract that meets the salary threshold and apply for a labor permit. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to high-skilled or high-paying positions, typically requiring an annual salary of ≥ 53,655 euros. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually requires a BTS or Licence in sales or business, but experience can su
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-decoration-and-equipment-salesperson/FR)**

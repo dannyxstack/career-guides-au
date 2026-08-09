@@ -53,8 +53,6 @@ Child Protection Officer/Case Worker in state government child safety department
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core functions of child protection officers (risk assessment, interviews, court statements) are hard to replace by AI, but tasks like documentation, data entry, and initial screening will be largely automated, freeing time for high-value interventions—a typical AI-enhanced occupation.
-
 Path: Caseworker → Senior/Lead Caseworker → Supervisor; social work qualifications and statutory casework experience determine progression.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Path: Caseworker → Senior/Lead Caseworker → Supervisor; social work qualific
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: This role does not qualify for skilled migration on its own; if you hold regi
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-protection-officer-caseworker/AU)**

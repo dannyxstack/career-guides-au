@@ -52,8 +52,6 @@ Use knives in red meat processing plants to bone, debone, and slice cattle, shee
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
-
 Career progression: from junior boner (learning basic knife skills) to senior slicer (specializing in specific cuts), with potential to advance to production line supervisor or quality inspector. Those with experience may obtain a New Zealand work visa directly after assessment, enabling migration.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression: from junior boner (learning basic knife skills) to senior sl
 | Subclass Green List T2 (Green List Work to Residence) | Apply for residence after working 2 years in a Green List occupation and meeting the salary requirement (at least NZD 29.66 per hour) |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by accredited employer, can sign up to 3 years, can transfer to Green List Tier 2. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Not difficult. This occupation is on the Green List Tier 2; find an accredite
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-boner-and-slicer/NZ)**

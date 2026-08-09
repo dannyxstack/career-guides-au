@@ -53,8 +53,6 @@ Jewellery and precious metal workers design, manufacture, and repair jewellery a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 Career development can start from an apprenticeship or trade, progress to senior craftsman or studio manager after gaining experience, or start your own business by opening a jewellery store or studio.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career development can start from an apprenticeship or trade, progress to senior
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can start as an apprentice, then progress to senior craftsman, studio manager
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewellery-and-precious-metal-worker/IE)**

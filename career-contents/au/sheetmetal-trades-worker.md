@@ -55,8 +55,6 @@ Sheet metal workers cut, form, join and install sheet metal products used in ven
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 Defence shipbuilding (AUKUS), HVAC ductwork fabrication and renewable energy steel structures are the three main growth areas. AI and automation have made some inroads into repetitive sheetmetal processing, but complex custom work still relies on skilled tradespeople.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Defence shipbuilding (AUKUS), HVAC ductwork fabrication and renewable energy ste
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Both are on the MLTSSL, with similar salaries and pathways. Welders have high
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheetmetal-trades-worker/AU)**

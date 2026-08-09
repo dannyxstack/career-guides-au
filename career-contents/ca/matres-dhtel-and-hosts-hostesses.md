@@ -52,8 +52,6 @@ Greeting guests, arranging seating, managing reservations in restaurants, hotels
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI/automation on head receptionist and supervisor positions is mixed: processes like booking and greeting can be partially automated, but soft skills such as interpersonal interaction and handling unexpected situations remain core human strengths.
-
 Can advance from junior receptionist to senior shift leader or restaurant manager, and gain experience to move into hotel management or event planning.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior receptionist to senior shift leader or restaurant manage
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Very difficult, as it is a low-skilled occupation, usually requiring an LMIA 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/matres-dhtel-and-hosts-hostesses/CA)**

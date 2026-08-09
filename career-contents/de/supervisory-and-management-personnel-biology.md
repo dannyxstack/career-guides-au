@@ -53,8 +53,6 @@ A Biology Supervisor leads teams in biotechnology or life sciences, managing R&D
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
-
 A career typically starts as a researcher or lab supervisor, progressing to department manager, research director, and eventually Chief Scientific Officer (CSO) or VP of R&D.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ A career typically starts as a researcher or lab supervisor, progressing to depa
 | Subclass Skilled Worker (Skilled Employment Visa) | Need a German employer contract; occupation must match |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for job seekers who have not yet found employment. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically starts from a research position, progressively advancing to team le
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisory-and-management-personnel-biology/DE)**

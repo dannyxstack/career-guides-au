@@ -53,8 +53,6 @@ Responsible for daily building maintenance, minor repairs, cleaning, and facilit
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tasks of building maintenance workers and property managers involve both physical and skilled work. AI/automation can take over some scheduling, monitoring, and simple diagnostics, but on-site manual work, multi-skill integration, and interpersonal communication form a moat, making the overall risk moderate.
-
 Can progress from junior maintenance worker to senior maintenance worker, property supervisor, or facilities manager. With experience, obtain industry-specific certifications (e.g., refrigeration, electrical) and move into specialized technical roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior maintenance worker to senior maintenance worker, proper
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Yes, the labor market rating is in shortage, especially in Ontario, Quebec, a
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-building-maintenance-workers-and-building-superintendents/CA)**

@@ -54,8 +54,6 @@ Responsible for collecting and dumping waste from garbage or recycling container
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Garbage collectors face high automation risk; AI and robotics will gradually take over route planning and physical handling, significantly reducing entry-level positions, but safety supervision and anomaly handling still rely on humans.
-
 Usually starts as a collection assistant, gaining experience to become an independent driver or supervisor. A few can move into management roles in waste management, dispatch, or environmental compliance.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually starts as a collection assistant, gaining experience to become an indepe
 | Subclass H-2B (Temporary non-agricultural worker visa) | Some seasonal garbage collection may apply, but quota is tight and positions are not long-term |
 | Subclass EB-3 (Employment-based immigration: third preference) | Theoretically feasible, but very few employers sponsor due to low technical requirements and sufficient local labor |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to driver, supervisor, or transition into dispatch, waste treatme
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refuse-and-recyclable-material-collectors/US)**

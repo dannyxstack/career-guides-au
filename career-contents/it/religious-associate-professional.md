@@ -4,8 +4,6 @@
 
 Religious assistant professionals assist religious leaders in religious ceremonies, educational activities, and community services, working in Italy's multi-religious context, typically serving in churches, mosques, synagogues, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Religious assistant professionals assist religious leaders in religious ceremoni
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The tasks of religious assistant professionals are both procedural and human-centric; AI will take over some documentation and course design work, but core spiritual care and community connections are irreplaceable, so overall risks and opportunities coexist.
-
 Can advance from assistant to senior religious assistant or community coordinator; a few become formal religious leaders (e.g., pastor, priest) through theological study. However, the career path is unclear and depends on the religious organization's internal structure.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Can advance from assistant to senior religious assistant or community coordinato
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | For non-EU citizens working in religious organizations, requires employer sponsorship and quota application |
-| Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as the salary threshold is far higher than this occupation level |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Primarily through Decreto Flussi quota work visa, requiring religious organiz
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-associate-professional/IT)**

@@ -4,8 +4,6 @@
 
 Responsible for the daily maintenance, repair, and upkeep of buildings and premises, including systems such as water, electricity, heating, and ventilation, ensuring the safe operation of facilities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for the daily maintenance, repair, and upkeep of buildings and premi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although the work of building and site maintenance workers involves physical operations, AI and automation will take over some diagnostic, scheduling, and documentation tasks, while enhancing preventive maintenance capabilities. Positions will not disappear, but skill demands will shift toward technology and management.
-
 You can be promoted from junior maintenance worker to senior technician or team leader, or through training, transition to specialized fields such as energy-saving retrofits or smart building systems.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted from junior maintenance worker to senior technician or team 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship and matches ROME occupations |
-| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for high-skilled or in-demand occupations, requires meeting salary and other conditions |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, you can find work and stay for a year, and look for a job |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: You can apply for a Salarié work residence or Passeport Talent passport, but
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-and-premises-maintenance-worker/FR)**

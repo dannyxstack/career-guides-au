@@ -52,8 +52,6 @@ Chemists in New Zealand work in analysis, R&D, and quality control, widely emplo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has an overall amplifying effect on chemists: automation accelerates data processing, literature screening, and routine synthesis, but core hypothesis generation, experimental design, cross-departmental collaboration, and dealing with complex system uncertainties still highly depend on humans, with job demand not decreasing but increasing.
-
 Junior chemists can advance to senior analyst, lab manager, or R&D manager. With experience, they can move into project management, regulatory affairs, or academic research. New Zealand has a professional certification mechanism (NZIC) that aids career development.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior chemists can advance to senior analyst, lab manager, or R&D manager. With
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not mandatory, but joining NZIC (New Zealand Institute of Chemistry) helps ca
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/NZ)**

@@ -53,8 +53,6 @@ Conduct research, teaching, and academic writing in philosophy, history, or poli
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Philosophy, history, and political science researchers face a lower risk of AI replacement, but entry-level positions are decreasing; AI can assist with literature analysis, but critical thinking and original theory remain core human strengths.
-
 Typical path: PhD → Postdoctoral researcher → Assistant professor → Associate professor → Full professor. Also possible to transition to policy analyst, consultant, or journalist. Non-academic roles include government think tanks, non-profits, etc.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Typical path: PhD → Postdoctoral researcher → Assistant professor → Associ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly educated individuals employed by recognized Dutch employers, requiring an annual salary of at least €5,008 (under 30) or €6,724 (30 and over) (2024 standards). |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, requires at least 3 years of work experience and annual salary of no less than €6,245 (2024). |
-| Subclass Orientation Year (Orientation Year) | Master's/PhD graduates in the Netherlands can apply for a 1-year job-seeking visa, during which they can work freely, and then switch to other work visas. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can enter policy research, government think tanks, news media, cultural insti
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/philosopher-historian-and-political-scientist/NL)**

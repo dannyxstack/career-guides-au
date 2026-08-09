@@ -4,8 +4,6 @@
 
 Responsible for supervising and inspecting compliance in areas such as social welfare, labor laws, and social insurance, ensuring the implementation of public policies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for supervising and inspecting compliance in areas such as social we
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some paperwork and data verification tasks, but in on-site investigations, complex compliance judgments, and human-machine collaborative supervision, it is amplified, resulting in mixed outcomes for the overall position.
-
 Candidates can be promoted from junior inspectors to senior inspectors or regional supervisors, with some shifting to policy-making or training positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Candidates can be promoted from junior inspectors to senior inspectors or region
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, annual salary ≥ €53,836 (2024 standard) |
-| Subclass Salarié (Salarié) | Regular employment residency requires employer sponsorship |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: It's very difficult. This position typically requires passing the French civi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-affairs-control-and-inspection-officer/FR)**

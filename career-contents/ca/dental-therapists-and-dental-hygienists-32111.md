@@ -52,8 +52,6 @@ Dental therapists in Canada are primarily employed in public clinics, school ora
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administrative and repetitive tasks of dental therapists will be largely automated by AI, but clinical operations, patient communication, and diagnosis remain human advantages. The occupation outlook is mixed; AI is more of an auxiliary tool than a replacement.
-
 Typically start as a dental therapist, can progress to senior therapist, clinical supervisor, or public health program coordinator. Further education can expand scope of practice (e.g., adult dental therapy). Some provinces allow remote prescribing and independent practice, broadening career opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as a dental therapist, can progress to senior therapist, clinica
 | Subclass EE (Express Entry (FSW/CEC)) | Direct invitation with CRS score above 470; overseas experience requires ECA, domestic experience requires LMIA or provincial endorsement |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for those with a job offer; lower language requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not fully directly recognized. Must apply through provincial regulatory bodie
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-therapists-and-dental-hygienists-32111/CA)**

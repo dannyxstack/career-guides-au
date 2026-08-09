@@ -1,10 +1,8 @@
-# Social Insurance and Labor Consultant (Shakai Hoken Rōmushi) 职业分析 · 日本
+# 社会保险劳务士（社会保険労務士）（Social Insurance and Labor Consultant (Shakai Hoken Rōmushi)）职业分析 · 日本
 
-**职业代码: 183 (JSCO)**
+**职业代码：183 (JSCO)**
 
-As an expert in social insurance and labor-related laws, this certified professional handles corporate labor management, procedural representation, and consultation. A specialist in HR and labor affairs.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+作为社保和劳动法专家，持证专业人士负责企业劳动管理、程序代理和咨询。人力资源和劳动事务专家。
 
 
 ---
@@ -13,8 +11,8 @@ As an expert in social insurance and labor-related laws, this certified professi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Faculty of Law, Economics, etc.) | 4年 | $2,500,000~$4,000,000（In the case of national/public universities） |
-| Specialized school to pass the Social Insurance and Labor Consultant exam | 1~2年 | $300,000~$800,000（Prep school fees） |
+| 大学（法学院、经济学院等） | 4年 | $2,500,000~$4,000,000（针对国立/公立大学） |
+| 通过社会保险和劳动顾问考试的专科学校 | 1~2年 | $300,000~$800,000（预科学校费用） |
 
 ---
 
@@ -22,17 +20,17 @@ As an expert in social insurance and labor-related laws, this certified professi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass the Social Insurance and Labor Consultant Exam | Ministry of Health, Labour and Welfare | 必备 | Required. Held once a year, pass rate approx. 6–7% |
-| Administrative Scrivener (Gyosei Shoshi) license | Ministry of Internal Affairs and Communications | 可选 | Useful for business expansion, optional |
+| 通过社会保险劳务士考试 | 厚生劳动省 | 必备 | 必需。每年举行一次，通过率约6-7%。 |
+| 行政书士资格 | 总务省 | 可选 | 对业务拓展有用，可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 44,000. Due to the declining birthrate, aging population, and work style reforms, demand for social insurance and labor management remains steady. Consultation needs are increasing, especially among small and medium-sized enterprises.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 44,000。由于少子老龄化及工作方式改革，社会保险和劳动管理需求保持稳定。中小企业咨询需求增加。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,87 +38,80 @@ As an expert in social insurance and labor-related laws, this certified professi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,500,000~$4,500,000 | Office employment |
-| Mid-level (4–10 years) | $5,000,000~$7,000,000 | Chief level |
-| Senior (11+ years) | $8,000,000~$12,000,000 | Independent practice or partner |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 办公室就业 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 主管级 |
+| 高级（11年以上） | $8,000,000~$12,000,000 | 独立执业或合伙 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI will streamline routine tasks (document creation, data entry), but expert advice and legal interpretation remain hard to replace; rather, AI tools will enable higher-level services.
+人工智能将简化常规任务（文档创建、数据录入），但专家建议和法律解释仍难以替代；相反，AI工具将实现更高级的服务。
 
-A common career path involves working at an office before starting an independent practice. Career advancement includes becoming an HR/labor consultant or a partner at a Social Insurance and Labor Consultant firm.
+常见的职业路径包括在办公室工作后开始独立执业。职业晋升包括成为人力资源/劳动顾问或社会保险与劳动咨询公司的合伙人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Part of document creation and application procedures
-- Data entry and verification
+- 部分文档创建和申请流程
+- 数据录入与验证
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Labor risk analysis
-- Organizing and utilizing legal revisions
-- Creating client materials
+- 劳动力风险分析
+- 组织并运用法律修订
+- 制作客户资料
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal consulting skills
-- Complex legal interpretation
-- Handling individual cases
+- 人际咨询技巧
+- 复杂法律解释
+- 处理个案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced legal knowledge
-- Communication skills
-- Proficiency in using AI tools
+- 高级法律知识
+- 沟通能力
+- 熟练使用AI工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Work style reform
-- Social insurance procedures
-- HR and labor consulting
-- Electronic applications
+- 工作方式改革
+- 社会保险手续
+- 人力资源与劳动咨询
+- 电子应用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Since the job requires specialized knowledge, a residence status may be obtained under certain conditions. However, acquiring the qualification may be a prerequisite. |
-| Subclass 高度専門職 (Highly Skilled Professional (i) and (ii)) | Applicable if you meet points criteria for education, experience, income, etc. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like working with laws and numbers
-- People good at interacting with others
+- 喜欢与法律和数字打交道的人
+- 善于与人交往的人
 
 **谁不适合**
-- People who dislike routine work
-- People who hate detailed paperwork
+- 不喜欢例行工作的人
+- 讨厌繁琐文书工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a Labor and Social Security Attorney?**
-答：For employed attorneys, about 5–7 million yen; independent practitioners can earn over 10 million yen, but income varies.
+**问：劳动和社会保障律师的年均收入是多少？**
+答：受雇律师约500-700万日元；独立执业者可超1000万日元，但收入波动。
 
-**问：Can a foreigner become a Labor and Social Security Attorney?**
-答：No nationality restrictions for exam eligibility, but Japanese language ability and knowledge of Japanese law are essential. After qualification, work is typically under the 'Engineer/Specialist in Humanities/International Services' visa.
+**问：外国人可以成为劳动和社会保障律师吗？**
+答：考试资格不限国籍，但需具备日语能力和日本法律知识。获得资格后，通常持有“工程师/人文知识/国际业务”签证工作。
 
 
 ---
@@ -138,12 +129,12 @@ A common career path involves working at an office before starting an independen
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/social-insurance-and-labor-consultant-shakai-hoken-rmushi/JP)**

@@ -51,8 +51,6 @@ Engaged in the breeding, breeding, harvesting, and water quality management of f
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aquaculture work faces moderate risks of automation: routine feeding and water quality monitoring will decrease, but AI enhances disease diagnosis and environmental regulation, while physical strength and on-site decision-making remain the moat.
-
 Junior workers can be promoted to farm supervisors or technicians, and after accumulating experience, move on to management positions or run small farms independently; Continuous learning of modern aquaculture technologies (such as circulating water systems and biosafety) is required.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior workers can be promoted to farm supervisors or technicians, and after acc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit as Employee) | Employed work residence sponsored by Spanish employers is suitable for applicants with FP qualifications, who must prove the occupation is in high demand or the company provides training. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Requires a bachelor's degree or equivalent and a high-paying contract, but aquaculture workers find it harder to meet the salary threshold and are only available for senior management positions. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove sufficient funds and academic background. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: A common path is to obtain a Spanish employer contract (Cuenta ajena) and hav
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-aquaculture-worker/ES)**

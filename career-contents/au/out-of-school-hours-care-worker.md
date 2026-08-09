@@ -56,8 +56,6 @@ Out-of-school care workers care for school-aged children before and after school
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall impact of AI on after-school care workers is moderate: daily administrative tasks and homework supervision can be automated, but core duties such as emotional care, safety supervision, and creative activities are hard to replace. It is a 'mixed' occupation.
-
 Can progress from assistant to team leader or coordinator, then to out-of-school care center manager. Some practitioners pursue further study and move into early childhood education or community service management.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Can progress from assistant to team leader or coordinator, then to out-of-school
 | Subclass 190 (Skilled Nominated visa) | Not on the skilled occupation list, cannot apply for this visa. |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) visa) | Regional employers may sponsor, but the occupation must be on the relevant regional occupation list; opportunities are limited. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Usually requires completion of a Certificate III in Children's Services or eq
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/out-of-school-hours-care-worker/AU)**

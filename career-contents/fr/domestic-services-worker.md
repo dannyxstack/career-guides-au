@@ -4,8 +4,6 @@
 
 They provide household cleaning, laundry, cooking, and other daily household services, sometimes including child or elderly care. They are usually employed by private families or domestic companies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ They provide household cleaning, laundry, cooking, and other daily household ser
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of domestic workers will become fragmented by AI: standardized cleaning and cooking processes are easily automated, but soft services such as personalized communication, emotional care, and safety monitoring will be amplified by AI tools. Entry-level positions face competition due to low entry barriers, but demand for high-end comprehensive butler roles has surged.
-
 Junior domestic workers can be promoted to team leader or to run their own domestic service company. Some practitioners have shifted to specialized fields such as professional caregivers or child care through training.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Junior domestic workers can be promoted to team leader or to run their own domes
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | The employer must provide a work contract proving that suitable personnel cannot be recruited from the EU. The threshold is low, but you must meet minimum wage and other conditions. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After holding a student visa or other residence permit, you can apply and look for domestic work, but switching to a work visa is still challenging. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: No strict requirements. However, CAP or Bac Pro-related diplomas can enhance 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-services-worker/FR)**

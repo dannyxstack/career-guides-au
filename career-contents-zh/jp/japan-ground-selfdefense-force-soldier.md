@@ -1,10 +1,8 @@
-# Japan Ground Self-Defense Force Soldier 职业分析 · 日本
+# 日本陆上自卫队士兵（Japan Ground Self-Defense Force Soldier）职业分析 · 日本
 
-**职业代码: 431 (JSCO)**
+**职业代码：431 (JSCO)**
 
-As a professional soldier of the JGSDF, engages in national defense and disaster relief duties.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+作为日本陆上自卫队职业军人，从事国防和救灾任务。
 
 
 ---
@@ -13,9 +11,9 @@ As a professional soldier of the JGSDF, engages in national defense and disaster
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Defense Academy (Officer after graduation) | 4年 | $0~$0（Full government funding） |
-| University graduate (recruited as officer candidate) | 4年 | $4,000,000~$6,000,000（Self-funded tuition） |
-| Advanced Technical School (Youth technician training) | 3年 | $0~$0（Full government funding） |
+| 国防学院（毕业后成为军官） | 4年 | $0~$0（政府全额资助） |
+| 大学毕业生（作为军官候选人招聘） | 4年 | $4,000,000~$6,000,000（自费学费） |
+| 高级技术学校（青年技术员培训） | 3年 | $0~$0（政府全额资助） |
 
 ---
 
@@ -23,18 +21,18 @@ As a professional soldier of the JGSDF, engages in national defense and disaster
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Self-Defense Force Recruitment Exam Pass | Ministry of Defense | 必备 | Mandatory exam to become a Self-Defense Force member |
-| Basic specialty (e.g., vehicle maintenance, communications) | JGSDF | 可选 | Skills certification acquired within the unit |
-| English proficiency (TOEIC, etc.) | Civilian | 可选 | Advantageous for international missions |
+| 自卫队录用考试合格 | 国防部 | 必备 | 成为自卫队成员的强制性考试 |
+| 基础专业（例如车辆维护、通信） | JGSDF | 可选 | 单位内部获得的技能认证 |
+| 英语能力（托业等） | 文职 | 可选 | 对国际任务有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Stable recruitment expected due to defense buildup and disaster response needs. Competition rates may remain steady amid low birthrate.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于国防建设和灾害应对需求，预计招聘稳定。在低出生率背景下，竞争率可能保持稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,92 +40,86 @@ As a professional soldier of the JGSDF, engages in national defense and disaster
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (Candidate to Sergeant) | $3,000,000~$4,500,000 | Including allowances, housing & meal subsidies |
-| Mid-level (Master Sergeant to Sergeant Major) | $4,500,000~$6,000,000 | Based on rank and years of service |
-| Senior (Company-grade to Field-grade Officers) | $6,000,000~$9,000,000 | Including various allowances for Self-Defense Force Officers |
+| 初级（候选至中士） | $3,000,000~$4,500,000 | 包含津贴、住房和餐补 |
+| 中级（军士长到一级军士长） | $4,500,000~$6,000,000 | 根据军衔和服役年限 |
+| 高级（尉级到校级军官） | $6,000,000~$9,000,000 | 包括自卫队军官的各种津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI will complement Self-Defense Force personnel's duties. It will be used in unmanned reconnaissance aircraft, cyber defense, and logistics efficiency, while human judgment in combat and disaster sites remains crucial.
+AI将辅助自卫队人员的职责。它将用于无人侦察机、网络防御和后勤效率，而在战斗和灾害现场，人类判断仍然至关重要。
 
-Promoted from officer candidate to sergeant and lieutenant. Veterans engage in education, logistics support, and international contributions.
+从军官候选晋升至中士和中尉。退伍军人从事教育、后勤支持和国际贡献。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Partial monitoring tasks
+- 部分监控任务
 - 数据分析与报表生成
-- Routine equipment inspections
+- 常规设备检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Tactical decision support
-- Disaster rescue efficiency
-- Communication and command optimization
+- 战术决策支持
+- 灾难救援效率
+- 通信与指挥优化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site flexible judgment
-- Building relationships and commanding
-- Physically and mentally demanding tasks
+- 现场灵活判断
+- 建立关系与指挥
+- 体力和脑力密集型任务
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI operation skills
-- Data analysis
+- AI操作技能
+- 数据分析
 - 英语能力
 - 网络安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Defense capability enhancement
-- Disaster relief
-- International peace cooperation
-- Cyber defense
+- 国防能力提升
+- 灾难救援
+- 国际和平合作
+- 网络防御
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | SDF membership generally requires Japanese nationality. Limited roles for foreigners, such as English teachers. Specified Skilled Worker is not allowed. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who value discipline
-- Those confident in physical strength
-- Those who emphasize teamwork
+- 重视纪律的人
+- 体力充沛者
+- 注重团队合作的人
 
 **谁不适合**
-- Those seeking flexible work styles
-- Those with strong anti-war beliefs
+- 寻求灵活工作方式的人
+- 强烈反战信念者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a Self-Defense Force member?**
-答：Starting salary is about 3 million yen, up to 9 million yen for officers. Includes allowances (location, hazard pay, etc.).
+**问：自卫队队员的年收入是多少？**
+答：起薪约300万日元，官员最高可达900万日元。包括津贴（地区津贴、危险津贴等）。
 
-**问：Can foreigners become Self-Defense Force members?**
-答：SDF membership requires Japanese nationality, so foreigners generally cannot join. However, it is possible to work in SDF-related technical positions under an Engineer/Specialist in Humanities/International Services visa, but combat roles are not allowed.
+**问：外国人可以成为自卫队成员吗？**
+答：SDF会员要求日本国籍，因此外国人通常无法加入。但可以在工程师/人文知识/国际服务签证下从事SDF相关的技术职位，但战斗角色不允许。
 
-**问：Career paths for Self-Defense Force personnel?**
-答：After enlisting as a general non-commissioned officer candidate, you advance to non-commissioned officer through promotion exams. Officers are mainly recruited from the National Defense Academy or general universities as officer candidates.
+**问：自卫队人员的职业路径？**
+答：作为普通士官候补生入伍后，通过晋升考试晋升为士官。军官主要从防卫大学或普通大学作为军官候选人招募。
 
 
 ---
@@ -145,12 +137,12 @@ Promoted from officer candidate to sergeant and lieutenant. Veterans engage in e
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/japan-ground-selfdefense-force-soldier/JP)**

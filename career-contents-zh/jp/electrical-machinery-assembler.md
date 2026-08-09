@@ -1,8 +1,8 @@
-# Electrical Machinery Assembler 职业分析 · 日本
+# 电气机械装配工（Electrical Machinery Assembler）职业分析 · 日本
 
-**职业代码: 542 (JSCO)**
+**职业代码：542 (JSCO)**
 
-Assembles motors, transformers, switchboards, and other electrical machinery by hand or machine based on drawings and work instructions. Also performs quality checks and adjustments.
+根据图纸和工作指令，手动或使用机器组装电机、变压器、配电盘及其他电气设备，并进行质量检查和调整。
 
 
 ---
@@ -11,8 +11,8 @@ Assembles motors, transformers, switchboards, and other electrical machinery by 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Public high schools: tuition-free post-compulsory education option.） |
-| Vocational school (Electrical/Electronics) | 2 年 | $800,000~$1,500,000（Estimated annual tuition） |
+| 高中毕业 | 3年 | $0~$0（公立高中：义务教育后免学费的教育选择。） |
+| 职业学校（电气/电子） | 2 年 | $800,000~$1,500,000（预估年学费） |
 
 ---
 
@@ -20,17 +20,17 @@ Assembles motors, transformers, switchboards, and other electrical machinery by 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electric Machinery Assembler Skill Certification | Ministry of Health, Labour and Welfare (Central Vocational Ability Development Association) | 可选 | Skill test: Levels 1, 2, and 3. Requires work experience. |
-| Factory Sheet Metal Skill Certification | Ministry of Health, Labour and Welfare | 可选 | Proof of sheet metal/welding skills; advantageous in related work. |
+| 电机装配工技能认证 | 厚生劳动省（中央职业能力开发协会） | 可选 | 技能测试：1级、2级和3级。需要工作经验。 |
+| 工厂钣金技能认证 | 厚生劳动省 | 可选 | 具备钣金/焊接技能证明；相关工作经验有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 620,000. Employment numbers are declining due to overseas relocation of domestic manufacturing and automation, but demand for skilled workers continues in high-quality/custom product fields.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 620,000。由于国内制造业向海外转移和自动化，就业人数下降，但在高质量/定制产品领域对熟练工人的需求仍在继续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,95 +38,88 @@ Assembles motors, transformers, switchboards, and other electrical machinery by 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,000,000~$3,800,000 | Annual salary including base pay + overtime |
-| Intermediate (4–9 years) | $3,800,000~$5,000,000 | Salary increase with skill improvement. Includes bonus. |
-| Advanced (10+ years) | $5,000,000~$6,200,000 | Team leader/supervisor level. Includes management allowance. |
+| Beginner (0–3 years) | $3,000,000~$3,800,000 | 年薪包括基本工资+加班费 |
+| 中级（4-9年） | $3,800,000~$5,000,000 | 随着技能提升加薪。包含奖金。 |
+| 高级（10年以上） | $5,000,000~$6,200,000 | 团队负责人/主管级别。包含管理津贴。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Automation using AI and robots is advancing rapidly, reducing simple assembly tasks. While large-scale production lines are being replaced, high-precision and high-mix low-volume production still requires human judgment and fine-tuning, so full replacement has not been achieved.
+利用AI和机器人的自动化正在快速推进，减少了简单装配任务。大规模生产线正在被替代，但高精度和多品种小批量生产仍需要人类判断和微调，因此尚未实现完全替代。
 
-Learns assembly work under the guidance of senior workers. Promoted to team leader/supervisor with experience. Valued as multi-skilled worker with advanced skills.
+在资深工人指导下学习装配工作。凭经验晋升为组长/主管。作为拥有高级技能的多技能工人受到重视。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive component insertion
-- Simple soldering
-- Screw tightening
-- Part of visual inspection
+- 重复性元件插入
+- 简单焊接
+- 螺丝拧紧
+- 目视检查的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI camera appearance inspection
-- Collaboration with cobots
-- Data analysis for quality control
+- AI摄像头外观检测
+- 与协作机器人合作
+- 质量控制数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment and response to abnormalities
-- Fine sensory adjustment
-- Custom assembly per customer requests
-- Team communication
+- 异常判断与响应
+- 精细感官调整
+- 根据客户要求定制组装
+- 团队沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot programming
-- PLC control
-- Quality control methods
-- Basic electrical circuit knowledge
+- 机器人编程
+- PLC控制
+- 质量控制方法
+- 基础电路知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Robot Installation
-- Automated Line
-- EV Parts
-- Labor-saving Needs
+- 机器人安装
+- 自动化生产线
+- 电动汽车零部件
+- 省力化需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years work experience. Assembly work often not eligible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing Sector)) | Obtained by completing technical intern training or passing an exam. Applicable to electrical machinery assembly. Residence period 5 years. |
-| Subclass 技能実習 (Technical Intern Training (Manufacturing)) | Purpose is to transfer skills to developing countries. Max 5 years. Training within the same company. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with nimble fingers
-- People who can accurately repeat simple tasks
-- People interested in manufacturing
+- 手指灵巧的人
+- 能准确重复简单任务的人
+- 对制造业感兴趣的人
 
 **谁不适合**
-- People who prefer creative work
-- People who want to avoid physical labor
+- 喜欢创造性工作的人
+- 想避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for electrical machinery assembly?**
-答：Around 3.8-5 million yen for experienced workers, starting around 3 million yen for beginners. Overtime pay varies.
+**问：电机装配的平均年收入是多少？**
+答：有经验者约380-500万日元，初学者约300万日元起。加班费另计。
 
-**问：What visa does a foreigner need to work in this occupation in Japan?**
-答：Specified Skilled Worker (i) (Manufacturing sector) applies. Transition from Technical Intern Training is possible. Engineer/Specialist in Humanities/International Services is unlikely, so caution is needed.
+**问：该职业的外国人在日本工作需要什么签证？**
+答：特定技能工人(i)（制造业）适用。可从技术实习培训转移。工程师/人文专家/国际服务签证不太可能，需谨慎。
 
-**问：How can I advance my career in this job?**
-答：Pass the skill test (electrical equipment assembly) and aim to become multi-skilled. Demonstrating leadership can lead to promotion to team leader or supervisor.
+**问：如何在这份工作中促进我的职业发展？**
+答：通过技能测试（电气设备组装），并力求成为多技能人才。展现领导能力可晋升为团队领导或主管。
 
 
 ---
@@ -144,12 +137,12 @@ Learns assembly work under the guidance of senior workers. Promoted to team lead
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-machinery-assembler/JP)**

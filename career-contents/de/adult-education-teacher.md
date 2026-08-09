@@ -53,8 +53,6 @@ Adult education teachers in Germany design and implement courses for adults, inc
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of adult education teachers will have mixed prospects: AI can automate curriculum material generation and basic Q&A, but personalized coaching, experience sharing, and emotional support for adult learners remain irreplaceable core values.
-
 Adult education teachers can progress from general lecturer to course director or education project manager. By obtaining higher qualifications (e.g. master's degree) or trainer certification (AEVO), they can take on management or specialist training roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Adult education teachers can progress from general lecturer to course director o
 | Subclass Chancenkarte (Opportunity Card) | Job-seeker residence permit based on points system, allowing job search in Germany, suitable for applicants without employer sponsorship. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; requires proof of language skills and financial means. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but must pass foreign qualification recognition. Many institut
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/adult-education-teacher/DE)**

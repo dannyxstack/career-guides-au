@@ -52,8 +52,6 @@ Financial account managers manage client accounts or departments within financia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Usually start as an accountant or financial analyst, progress to senior financial manager, finance director, or CFO. Some transition to consulting or independent financial advisory.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as an accountant or financial analyst, progress to senior financia
 | Subclass Global Talent (Global Talent visa) | Suitable for professionals with outstanding achievements or potential in finance, no sponsorship required. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years after graduation, gaining experience before switching to a work visa. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can start as a junior accountant or financial analyst, progressing to senior 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-accounts-managers/UK)**

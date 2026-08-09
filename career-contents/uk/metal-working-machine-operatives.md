@@ -53,8 +53,6 @@ Metal processing machine operators operate machines to cut, form, grind, etc., m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The job of metalworking machine operators is unlikely to be fully replaced in the short term, but AI automation will gradually take over CNC programming, quality inspection, and simple repetitive tasks, while enhancing parameter optimization and predictive maintenance; career prospects are mixed.
-
 Typically starting as an apprentice or junior operator, progressing to senior operator or team leader through experience, with potential to move into CNC programming or quality control, and a few advancing to workshop supervisor.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically starting as an apprentice or junior operator, progressing to senior op
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to senior operator, team leader, or transition to roles such as C
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-working-machine-operatives/UK)**

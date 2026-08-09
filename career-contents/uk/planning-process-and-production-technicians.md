@@ -53,8 +53,6 @@ Planning, process and production technicians assist production engineers in deve
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation will be significantly enhanced by AI, while some tasks face automation replacement. Overall risk is moderate, but entry-level positions may narrow.
-
 Progress from junior technician to senior technician, production supervisor, or process engineer. Further develop into production manager or operations manager, requiring project management and cross-departmental coordination experience.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Progress from junior technician to senior technician, production supervisor, or 
 | Subclass Scale-up (Scale-up visa) | Applies to skilled talent hired by rapidly growing companies, requires an annual salary of at least £33,000. |
 | Subclass Graduate (Graduate visa) | UK graduates can apply for a 2-year work visa, then switch to a Skilled Worker visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from junior technician to senior technician, production supervis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/planning-process-and-production-technicians/UK)**

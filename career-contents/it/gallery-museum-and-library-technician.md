@@ -52,8 +52,6 @@ Responsible for collection management, archival maintenance, and technical suppo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive, data-entry tasks in this occupation face automation risks, but AI also enhances digital management, curation creativity, and collection interpretation. Technician roles will shift towards digital curation and interactive experience design.
-
 Junior technicians can advance to senior technicians or department supervisors through accumulated experience and professional training; further can move to curator or cultural heritage conservation specialist roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians can advance to senior technicians or department supervisors t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a university degree and 3+ years of work experience, with an annual salary threshold of around €40,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota for non-EU workers, employer-sponsored, applicable in the cultural and artistic fields. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit issued by the Italian Labour Office, requiring employer application, usually tied to the work contract. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually requires a bachelor's degree in humanities or arts; a master's (e.g.,
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gallery-museum-and-library-technician/IT)**

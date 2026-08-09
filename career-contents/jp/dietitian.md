@@ -4,8 +4,6 @@
 
 A dietitian is a professional who manages nutrition and provides dietary guidance at cafeterias, hospitals, and schools to support healthy eating habits.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A dietitian is a professional who manages nutrition and provides dietary guidanc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-With the spread of AI-based nutrition calculation and diet management apps, routine tasks may be automated, but human guidance and personalized support will remain human-led.
-
 Career paths are diverse: advancement to registered dietitian with experience, management roles in hospitals and welfare facilities, or independent practice as a freelance dietitian.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Career paths are diverse: advancement to registered dietitian with experience, m
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Common residence status for foreigners working as dietitians. Requires a university degree or equivalent work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not applicable)) | Nutritionists are not covered by the Specified Skilled Worker category, so this visa cannot be used. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +129,12 @@ A: A residence status of 'Engineer/Specialist in Humanities/International Servic
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian/JP)**

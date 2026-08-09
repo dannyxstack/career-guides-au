@@ -4,8 +4,6 @@
 
 Auxiliary professionals in the Spanish public administration who perform inspection, control, and similar tasks, including regulatory support in areas such as taxation, customs, environment, and labor.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Auxiliary professionals in the Spanish public administration who perform inspect
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Most of the documentation and on-site inspection tasks of standards and regulations inspectors can be automated by AI, leading to a significant reduction in job demand, but legal authorization and on-site judgment still require human roles.
-
 Career development paths typically start in auxiliary positions, transitioning through internal promotion or public examinations (oposición) to become formal inspectors or technicians. You can also gain experience and move into more specialized regulatory fields.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Career development paths typically start in auxiliary positions, transitioning t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employed work residence requires employer sponsorship, applicable to public administration positions, but competition is fierce and an exam is required. |
-| Subclass Búsqueda de empleo (Job Search Visa) | Job seeker visas allow you to stay in Spain and look for work, but public administration positions usually require Spanish nationality or EU citizenship. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Most positions require Spanish nationality or EU citizenship; non-EU citizens
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-public-administration-support-professionals-for-inspection-and-control-tasks/ES)**

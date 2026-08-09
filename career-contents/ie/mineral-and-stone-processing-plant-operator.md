@@ -53,8 +53,6 @@ Operate mineral and stone processing equipment such as crushers, mills, and scre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mineral and stone processing plant operators face high automation risk; AI and robots will replace most repetitive, high-intensity crushing, screening, and grinding tasks, but equipment maintenance and anomaly handling still require humans.
-
 Can progress from operator to senior operator, team leader, or move into roles like quality control, equipment maintenance, etc.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from operator to senior operator, team leader, or move into roles l
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can be promoted to team leader or supervisor, or shift to quality control, eq
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mineral-and-stone-processing-plant-operator/IE)**

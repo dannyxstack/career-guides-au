@@ -52,8 +52,6 @@ Responsible for passenger check-in procedures, baggage handling, flight informat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Airport ground staff (aircraft loaders) face significant automation risk; manual labor and simple repetitive tasks are easily replaced by machines, entry barriers are further lowered, and job numbers may shrink.
-
 You can be promoted from junior ground staff positions to supervisor or trainer, or move into areas such as air logistics or passenger service management.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from junior ground staff positions to supervisor or trainer,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employer sponsorship required, applicable to ground staff with work contracts |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled talent, such as management positions, requiring annual salary ≥36,500 EUR |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated, high-paying positions (annual salary ≥ €53,836), while entry-level ground staff positions usually do not meet the requirements |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can be promoted to team leader, trainer, or move into air logistics, cust
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airport-ground-staff/FR)**

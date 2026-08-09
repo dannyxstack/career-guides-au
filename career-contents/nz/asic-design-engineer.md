@@ -52,8 +52,6 @@ ASIC design engineers are responsible for the digital front-end (RTL design/inte
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
-
 New Zealand's AI accelerators focus on low-power/simulation design, with engineers skilled in RTL/timing/layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ New Zealand's AI accelerators focus on low-power/simulation design, with enginee
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer-sponsored work visa |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category: Points-based skilled migration residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -160,12 +156,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow New Zeal
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asic-design-engineer/NZ)**

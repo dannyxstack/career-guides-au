@@ -52,8 +52,6 @@ Fruit growers plan, plant, cultivate and harvest various fruit crops, manage orc
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Fruit growers are impacted by AI/automation in two ways: automation will take over repetitive manual labor and basic monitoring, while AI enhances decision-making, precision agriculture, and risk management. Overall, the outlook is mixed.
-
 Practitioners can progress from farm worker to cultivation supervisor or farm manager, or transition to agricultural consultant or self-employment through specialized training. Demand for management roles in large commercial orchards is increasing.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can progress from farm worker to cultivation supervisor or farm ma
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence visa, requires meeting state sponsorship requirements |
 | Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa, transitioning to 191 permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. This occupation is on the CSOL and can apply for visas 482, 190, 491 etc
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-grower/AU)**

@@ -53,8 +53,6 @@ Responsible for the design, testing, and debugging of electronic systems, assist
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronic R&D technician positions are mixed: routine testing and document generation tasks are easily automated by AI, but complex system design, fault diagnosis, and innovative experiments still require human judgment and creativity; AI has become an efficient tool, but core R&D value still depends on humans.
-
 Typically, they start as technicians and can be promoted to senior technicians, project managers, or R&D engineers after gaining experience. You can choose to pursue further studies to obtain an engineering diploma and move on to more advanced design positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Typically, they start as technicians and can be promoted to senior technicians, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Applicable to high-skilled positions, with an annual salary threshold of about 53,000 euros (2025), and contracts requiring more than one year |
-| Subclass Passeport Talent (Talent Passport) | For innovation or R&D roles; requires master's degree or equivalent, with project evidence. |
-| Subclass Salarié (Employee Work Permit) | Must have a French employer sponsorship, a work contract, and salary must meet industry standards |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: The electronics industry continues to grow in France, especially in automotiv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-research-and-development-technician/FR)**

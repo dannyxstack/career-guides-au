@@ -54,8 +54,6 @@ Drilling operators run rigs for mineral exploration, geothermal and water well p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Drilling operators face both automation compression and AI enhancement: remote control and automated rigs will take over some repetitive tasks, but on-site fault handling, lithology judgment, and team safety coordination remain human strengths.
-
 Entry-level via apprenticeship or 2 years of experience. Promotion to senior driller or drilling supervisor requires NZ Certificate in Drilling; some move to geothermal project management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level via apprenticeship or 2 years of experience. Promotion to senior dri
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Not mandatory but NZ Certificate in Drilling (Level 4) recommended; employers
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driller/NZ)**

@@ -4,8 +4,6 @@
 
 A professional artist who expresses artistic ideas through body movements, working in genres such as ballet, modern dance, and Korean traditional dance, performing, teaching, and creating.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional artist who expresses artistic ideas through body movements, worki
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI technology is used for dance creation and choreography assistance tools, but it is difficult to replace human physical expression and emotional conveyance, so the risk of the profession disappearing is low. However, AI can replace some auxiliary tasks like performance planning or marketing.
-
 It is common to join a professional dance company after majoring in dance, with promotion to soloist, choreographer, or artistic director possible based on experience. Many also transition to independent creators or instructors.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ It is common to join a professional dance company after majoring in dance, with 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for inviting excellent personnel, but dance field cases are rare |
-| Subclass F-2 (Residence) | Possible to work after long-term stay, but difficult initial entry |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, dance activities possible but requiring professionalism |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Typically, after joining a dance company, one advances to soloist, choreograp
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dancer/KR)**

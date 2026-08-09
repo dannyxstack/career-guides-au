@@ -52,8 +52,6 @@ Chemical engineers design chemical production processes in New Zealand, involvin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
-
 Junior chemical engineers often start in process support or production optimization; after 3-5 years of experience, they can advance to senior engineer or technical supervisor, some move into project management and consulting, with salary increasing significantly with experience.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior chemical engineers often start in process support or production optimizat
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Registration is not legally mandatory, but the CPEng title can enhance employ
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer/NZ)**

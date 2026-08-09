@@ -50,8 +50,6 @@ This occupation involves operating and managing machines that produce constructi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are replacing some processes (firing temperature control, quality inspection), but areas requiring manual work such as raw material input and machine maintenance still need humans. Consequently, some tasks are reduced, but complete replacement is difficult.
-
 Beginners start as operators and can advance to line managers or quality control after gaining experience; larger factories offer more promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Beginners start as operators and can advance to line managers or quality control
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Allowed for unskilled foreign workers in the manufacturing sector, but clay product manufacturing is possible. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable if eligible as skilled technical personnel; must meet experience and qualification requirements. |
-| Subclass F-2 (Residence (F-2)) | No employment restrictions upon conversion to long-term resident; possible conversion under skilled worker points system. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Acquiring a ceramic technician or ceramic engineer certification along with e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clay-product-production-machine-operator/KR)**

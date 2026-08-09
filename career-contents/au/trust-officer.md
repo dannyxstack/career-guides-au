@@ -54,8 +54,6 @@ Trust officers manage trust accounts, handle estate planning, trust fund operati
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The duties of trust specialists heavily rely on legal compliance and client trust, making it difficult for AI to fully replace them; however, tasks such as data processing and document generation can be automated, leading to a restructuring of the role.
-
 Start as a junior trust assistant, with experience can advance to senior trust officer, trust manager, or transition to wealth management and private banking.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Start as a junior trust assistant, with experience can advance to senior trust o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: A bachelor's degree in business, finance, or law is usually required. Some em
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trust-officer/AU)**

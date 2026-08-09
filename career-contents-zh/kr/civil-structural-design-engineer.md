@@ -1,8 +1,8 @@
-# Civil Structural Design Engineer 职业分析 · 韩国
+# 土木结构设计工程师（Civil Structural Design Engineer）职业分析 · 韩国
 
-**职业代码: 14031 (KECO)**
+**职业代码：14031 (KECO)**
 
-A professional engineer who reviews the structural safety of infrastructure such as bridges, tunnels, and dams, and creates design drawings.
+审查桥梁、隧道、水坝等基础设施结构安全性并创建设计图纸的专业工程师。
 
 
 ---
@@ -11,8 +11,8 @@ A professional engineer who reviews the structural safety of infrastructure such
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $12,000,000~$20,000,000（Based on national/private colleges） |
-| 本科（学士学位） | 4年 | $20,000,000~$50,000,000（Civil Engineering major, average at national/private universities） |
+| 副学士学位 | 2 年 | $12,000,000~$20,000,000（基于国立/私立院校） |
+| 本科（学士学位） | 4年 | $20,000,000~$50,000,000（土木工程专业，国公立/私立大学平均水平） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional engineer who reviews the structural safety of infrastructure such
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 土木工程师 | Human Resources Development Service of Korea | 必备 | Required qualification, advantageous for employment |
-| Professional Civil Structural Engineer | Human Resources Development Service of Korea | 可选 | Highest-level license, not mandatory |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Optional, useful for on-site safety management |
+| 土木工程师 | 韩国人力资源开发服务局 | 必备 | 必备资格，有助就业 |
+| 专业土木结构工程师 | 韩国人力资源开发服务局 | 可选 | 最高级别执照，非强制 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 可选，对现场安全管理有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 28,000. Demand is maintained due to aging infrastructure improvement and new SOC projects in preparation for the 4th Industrial Revolution, but may shrink somewhat during construction downturns.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 28,000。由于应对第四次工业革命的老化基础设施改善和新SOC项目，需求得以维持，但在建设低迷期可能略有萎缩。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional engineer who reviews the structural safety of infrastructure such
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $30,000,000~$40,000,000 | Based on small/medium engineering firms |
-| Mid-level (3–10 years) | $45,000,000~$65,000,000 | Lead designer level |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Professional Engineer/PM level, based on large firms |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于中小型工程公司 |
+| 中级（3-10年） | $45,000,000~$65,000,000 | 首席设计师级别 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 专业工程师/项目经理级别，基于大型企业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI (generative design, optimization) automates parts of structural analysis, but final judgment and legal liability remain with human engineers, so full replacement is difficult.
+AI（生成设计、优化）可自动化部分结构分析，但最终判断和法律责任仍由人类工程师承担，因此完全替代较为困难。
 
-Junior Engineer → Mid-level (Lead Designer) → Senior (PM/Reviewer) → Professional Engineer/Executive. Moves to large engineering firms or public corporations.
+初级工程师 → 中级（首席设计师） → 高级（PM/审核人） → 专业工程师/主管。可转至大型工程公司或公共企业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive simple analysis
-- Standard blueprint drafting
-- Manual calculations
+- 重复性简单分析
+- 标准蓝图绘制
+- 手动计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal cross-section proposals
-- Material property analysis
-- Construction simulation
+- 最优截面方案
+- 材料性能分析
+- 施工模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Safety judgment and liability
-- Site response
-- Stakeholder consultation
+- 安全判断与责任
+- 现场响应
+- 利益相关方咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM software
-- AI analysis tools
-- Seismic and wind-resistant design
+- BIM软件
+- AI分析工具
+- 抗震与抗风设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- SOC investment
-- Eco-friendly structures
-- BIM adoption
-- Seismic design
+- SOC投资
+- 生态友好型建筑
+- BIM应用
+- 抗震设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment as an engineering technician, requiring expertise |
-| Subclass D-10 (Job Seeking) | Job seeking after degree, gaining experience for E-7 conversion |
-| Subclass F-2 (Residence) | A step before permanent residence for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who need accurate calculations and meticulousness
-- People with patience for long-term projects
-- People interested in mathematics, physics, and mechanics of materials
+- 需要精确计算和细致的人
+- 有耐心处理长期项目的人
+- 对数学、物理学和材料力学感兴趣的人
 
 **谁不适合**
-- People who find repetitive report writing tedious
-- People who extremely dislike overtime work
+- 觉得重复报告撰写枯燥的人
+- 极度厌恶加班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for civil structural design engineers?**
-答：Entry-level: 30–40 million KRW, Mid-level: 45–65 million KRW, Senior: 70 million KRW to 100 million KRW or more.
+**问：土木结构设计工程师的薪资水平如何？**
+答：入门级：3000-4000万韩元，中级：4500-6500万韩元，高级：7000万韩元至1亿韩元以上。
 
-**问：Can foreigners also get employed with an E-7 visa?**
-答：Possible. Requires civil engineer certification or relevant degree and experience, plus sponsorship from an engineering firm.
+**问：外国人持E-7签证也能就业吗？**
+答：可能。需要土木工程师认证或相关学历和经验，以及工程公司的担保。
 
-**问：Is the professional engineer (PE) certification mandatory?**
-答：Not mandatory, but obtaining a PE greatly helps salary and promotion. Civil engineer certification is virtually essential.
+**问：专业工程师（PE）认证是否强制？**
+答：非强制，但取得PE对薪资和晋升大有帮助。土木工程师认证几乎必不可少。
 
 
 ---
@@ -142,12 +135,12 @@ Junior Engineer → Mid-level (Lead Designer) → Senior (PM/Reviewer) → Profe
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/civil-structural-design-engineer/KR)**

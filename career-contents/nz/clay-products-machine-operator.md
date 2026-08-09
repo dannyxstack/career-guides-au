@@ -51,8 +51,6 @@ Clay products machine operators in New Zealand operate and monitor machines that
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Clay product machine operators face high automation risk; standardised operational steps are easily replaced by AI and robots, and job demand may gradually shrink.
-
 Starting as a junior operator, you can advance to senior operator or production supervisor with experience, or move into equipment maintenance or quality control. Some become production managers through training, but additional management skills are required.
 
 **Tasks most exposed to AI:**
@@ -101,8 +99,6 @@ Starting as a junior operator, you can advance to senior operator or production 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -143,11 +139,12 @@ A: This occupation is not on the Green List or shortage list, but you can work f
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clay-products-machine-operator/NZ)**

@@ -52,8 +52,6 @@ Registered nurses provide clinical care, medication management, and patient educ
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses are not a profession that will be replaced by AI, but one that will be reorganized by AI tools. AI will reduce the time spent on documentation, reminders, searches, and initial risk prompts, but final nursing judgment, bedside care, medication checks, patient communication, family coordination, and legal responsibility remain with registered nurses. Nurses who can use digital health tools and AI-assisted systems will be more competitive than those who only follow traditional processes.
-
 Registered nurses can advance to clinical nurse specialist, nurse manager, or advanced practice nurse. They can also specialize in areas like intensive care, emergency, oncology, etc.; some obtain a master's to become nurse practitioners with independent prescribing rights.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Registered nurses can advance to clinical nurse specialist, nurse manager, or ad
 | Subclass SMC (Skilled Migrant Category) | Can apply under the 6-point system; registered nurses typically get maximum points for degree plus work experience years. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, it allows for employer-sponsored work first, then transition to permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Annual tuition for international students is approximately $28,000-$40,000, t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse-medical-practice/NZ)**

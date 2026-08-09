@@ -55,8 +55,6 @@ The mine deputy in Australian underground coal mines supervises mining operation
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Many supervisory and reporting tasks of the mine deputy will be automated by AI, but underground safety responsibilities, emergency decisions, and interpersonal coordination skills remain defensible. The overall role will evolve into an AI-enhanced management role.
-
 Usually progresses from mining operator or worker, obtaining supervisor certification to become assistant supervisor, then can advance to mine manager or safety supervisor.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually progresses from mining operator or worker, obtaining supervisor certific
 | Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, must meet occupation list and labour market testing |
 | Subclass 186 (Employer Nomination Scheme) | Direct permanent residency, requires employer sponsorship and skills assessment |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: A university degree is not usually required, but specific training courses an
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mine-deputy/AU)**

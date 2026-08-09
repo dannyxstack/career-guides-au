@@ -52,8 +52,6 @@ Vehicle driving instructors teach driving skills, traffic regulations, and safet
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle driving coaches face opportunities for AI-assisted teaching, but core driving decision-making responsibilities and real-vehicle supervision requirements limit automation replacement, resulting in mixed outcomes.
-
 Career development can progress from independent instructors to driving school partners or management roles, or expand into driving safety training or specialized vehicle instruction.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career development can progress from independent instructors to driving school p
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by a driving school, employer-sponsored work permit |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For senior coaches or entrepreneurs, may apply for a Talent Passport. |
-| Subclass Carte bleue UE (EU Blue Card) | Salary must meet the threshold; management positions are usually suitable, coaching positions are rare |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You must have held a Class B driver's license for at least 3 years and passed
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-driving-instructor/FR)**

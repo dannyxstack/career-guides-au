@@ -50,8 +50,6 @@ Responsible for HR and administrative support, including recruitment coordinatio
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-HR clerk positions face significant risk of automation; core tasks such as data entry, form processing, and report generation can be efficiently completed by AI. Demand for entry-level roles is shrinking, and future roles need to transition to HR consultant.
-
 Can progress from clerk to senior HR assistant, HR specialist or HR manager. With experience, can also move into specialized areas such as compensation and benefits or employee relations.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from clerk to senior HR assistant, HR specialist or HR manager. Wit
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | For high-skilled migrants earning above a salary threshold, sponsored by an employer. |
-| Subclass Orientation Year (Orientation Year Permit) | Available for graduates who have completed their studies in the Netherlands, allowing job search within one year. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-salary positions, requiring an annual salary meeting a high threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Yes, but through employer-sponsored work residence permit such as the highly 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-clerk/NL)**

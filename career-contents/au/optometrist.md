@@ -53,8 +53,6 @@ Optometrists examine and assess the visual system, prescribe glasses/contact len
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Optometrists face mixed AI impact: automated image reading and remote diagnostics reduce some tasks, but AI enhances diagnostic accuracy and patient management, while core tasks like prescribing and surgery are protected by regulations. Overall positions are stable or slightly increasing.
-
 Therapeutic optometry (including authority to prescribe eye drops) is now available across all states, significantly increasing optometrists' clinical value. There is a severe shortage of eye care services in rural areas, and optometrists benefit from an expedited PR pathway.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Therapeutic optometry (including authority to prescribe eye drops) is now availa
 | Subclass 190 (Skilled Nominated) | State nomination, rural eye care services prioritised |
 | Subclass 491 (Skilled Work Regional) | Remote area ophthalmology services, nomination points bonus of 15 |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Optometrists have a smaller workforce (~8,000 vs ~18,000) with a similar supp
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/optometrist/AU)**

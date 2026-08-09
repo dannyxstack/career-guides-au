@@ -54,8 +54,6 @@ Court reporters work in Canada's court system and legal services, recording tria
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of court stenographers are highly threatened by AI, but legal processes still require human verification and real-time adaptation, making the outlook mixed.
-
 Can advance from junior stenographer to senior court reporter or manager, or transition to legal transcription or freelancing. Continuous learning of new technologies and obtaining national certification (e.g., NCRA) helps career development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior stenographer to senior court reporter or manager, or tra
 | Subclass PNP (Provincial Nominee Program) | Several provinces have legal-related nomination programs, such as Ontario and British Columbia. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic province employer sponsorship, suitable for applicants with a job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Some provinces require a provincial license; you can also obtain national cer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-reporters-and-medical-transcriptionists/CA)**

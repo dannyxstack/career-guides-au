@@ -52,8 +52,6 @@ Supervise daily operations of New Zealand aquaculture farms, including breeding,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of aquaculture workers is less affected by AI automation, but some tasks like monitoring and data recording can be enhanced; entry-level positions are stable, and future development requires mastering smart aquaculture technologies.
-
 Junior aquaculture supervisor can progress to senior supervisor or farm manager, and with experience can move into roles such as aquaculture technical consultant, quality control manager, or business operations management. Some individuals pursue degrees in aquaculture science or management to enter R&D or government regulatory positions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior aquaculture supervisor can progress to senior supervisor or farm manager,
 | Subclass SMC (Skilled Migrant Category) | Applies the 6-point system: Bachelor's degree (3 points) + Skilled employment in New Zealand (3 points) may lead to residency. Salary must be at least the median wage. |
 | Subclass AEWV (Accredited Employer Work Visa) | Temporary work visa for those not meeting immigration criteria. Requires employer accreditation, salary at median, can gain experience and later apply for residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from supervisor to senior farm manager, regional operations mana
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-supervisor/NZ)**

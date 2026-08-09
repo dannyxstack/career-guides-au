@@ -52,8 +52,6 @@ Responsible for overseeing the daily operations of chemical and pharmaceutical p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI impact on Oil, Gas, Chemical Processing & Utilities Supervisor roles is mixed: some routine monitoring and reporting tasks will be automated, but complex decision-making, emergency response, and people management still require humans. Job prospects depend on upskilling.
-
 Operators can be promoted from Operations Technician to Supervisor, and then to Production Manager or Factory Manager. Some have shifted toward quality, safety, or environmental management, or entered R&D pilot workshops.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Operators can be promoted from Operations Technician to Supervisor, and then to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, with an annual salary of approximately 33,908 euros (2023 standard) and a minimum contract of one year. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Annual salary threshold around €40,000 for university graduates or senior technical staff, with faster approval. |
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employer-sponsored work residency requires proof that the position cannot be filled in the local market, and is suitable for experienced technical personnel. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promotion can be to Production Manager, Factory Director, or shift to Quality
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-of-chemical-and-pharmaceutical-industries/ES)**

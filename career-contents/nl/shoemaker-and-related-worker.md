@@ -4,8 +4,6 @@
 
 Shoemaking and related workers make, repair, and modify footwear by hand or machine, including leather shoes, sports shoes, etc. This occupation is dominated by small to medium workshops in the Netherlands, with some involvement in industrial production lines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Shoemaking and related workers make, repair, and modify footwear by hand or mach
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Shoe manufacturing jobs are declining due to automated production lines and AI design software, but custom repair and design roles may see slight growth.
-
 Starting as an apprentice shoemaker, can advance to senior craftsman, workshop supervisor, or start your own shoe repair shop. Some workers move into shoe design or quality control.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Starting as an apprentice shoemaker, can advance to senior craftsman, workshop s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants with a Dutch employer sponsor, must meet the salary threshold (approx. €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, requires higher education and salary meeting the threshold (approx. €5,667/month). |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands, providing one year for job seeking; can switch to other residence permits upon finding a job. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can advance to senior artisan, workshop supervisor, or start own shoe repair/
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaker-and-related-worker/NL)**

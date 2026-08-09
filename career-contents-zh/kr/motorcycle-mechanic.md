@@ -1,10 +1,8 @@
 # 摩托车修理工（Motorcycle Mechanic）职业分析 · 韩国
 
-**职业代码: 81291 (KECO)**
+**职业代码：81291 (KECO)**
 
-A professional technician who inspects, repairs, and adjusts various parts of motorcycles—such as engines, transmissions, and brakes—to maintain safe and smooth operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+检查、修理和调整摩托车各部件（如发动机、变速箱、刹车）的专业技师，以保持安全顺畅运行。
 
 
 ---
@@ -13,8 +11,8 @@ A professional technician who inspects, repairs, and adjusts various parts of mo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | — | $0~$0（Not required, but graduates of automotive high schools or specialized vocational schools have an advantage） |
-| Automotive Maintenance Technician (Motorcycle) or Automotive Maintenance Industrial Engineer | 1 to 3 years | $500,000~$2,000,000（Including tuition and exam fees） |
+| 高中文凭 | — | $0~$0（非必需，但汽车高中或专业职业学校毕业生有优势） |
+| 汽车维修技师（摩托车）或汽车维修工业工程师 | 1至3年 | $500,000~$2,000,000（包括学费和考试费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional technician who inspects, repairs, and adjusts various parts of mo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automotive Maintenance Technician (Motorcycle) | Human Resources Development Service of Korea | 必备 | Basic certification for motorcycle maintenance; requires written and practical exams |
-| Automotive Maintenance Industrial Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for advanced technicians; provides extra points for promotion |
+| 汽车维修技师（摩托车） | 韩国人力资源开发服务局 | 必备 | 摩托车维修基本认证；需参加笔试和实践考试 |
+| 汽车维修工业工程师 | 韩国人力资源开发服务局 | 可选 | 对高级技师有利；为晋升提供额外加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 28,000. With an increase in domestic motorcycle registrations and aging vehicles, demand for maintenance remains stable; however, the spread of electric motorcycles and automation of repairs are expected to limit employment growth.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 28,000。随着国内摩托车注册量增加和车辆老化，维修需求保持稳定；但电动摩托车的普及和维修自动化预计将限制就业增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,94 +38,86 @@ A professional technician who inspects, repairs, and adjusts various parts of mo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Based on small repair shops |
-| Mid-level (4–7 years) | $32,000,000~$40,000,000 | Increases with certification |
-| Senior-level (8+ years) | $40,000,000~$55,000,000 | Varies when serving as shop manager or self-employed |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于小型修理店 |
+| 中级（4–7年） | $32,000,000~$40,000,000 | 随着认证增加 |
+| 高级（8年以上） | $40,000,000~$55,000,000 | 担任店长或自雇时有所不同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation will be limited to the introduction of some diagnostic tools; actual repair, disassembly, and assembly work require human hands, making complete replacement difficult. However, adaptation to technological changes in electric motorcycles is necessary.
+AI和自动化的影响将限于引入一些诊断工具；实际修理、拆卸和组装工作需要人工，完全替代困难。但必须适应电动摩托车的技术变化。
 
-Apprentice at small repair shop → Obtain technician certification → Skilled mechanic → Shop manager/owner or independent startup. Can advance to dealership or manufacturer A/S centers, or transition into quality control, technical training, etc.
+在小型修理店当学徒 → 获得技师认证 → 熟练技工 → 店长/店主或独立创业。可晋升到经销商或制造商售后服务中心，或转向质量控制、技术培训等。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reading OBD (diagnostic) codes
-- Simple parts inventory management
-- Recording maintenance history
+- 读取OBD（诊断）代码
+- 简单零件库存管理
+- 记录维护历史
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Utilizing precision diagnostic equipment
-- Inspecting electric motorcycle battery management systems
-- Customer communication via smartphone apps
+- 使用精密诊断设备
+- 检查电动摩托车电池管理系统
+- 通过智能手机应用与客户沟通
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex mechanical repairs and panel beating/welding
-- Atypical fault diagnosis and creative problem-solving
-- Building trust relationships with customers
+- 复杂机械维修及钣金/焊接
+- 非典型故障诊断与创造性问题解决
+- 与客户建立信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric motorcycle maintenance
-- High-voltage safety training
-- Operation of diagnostic equipment
-- Customer service and consultation
+- 电动摩托车维修
+- 高压安全培训
+- 诊断设备操作
+- 客户服务和咨询
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric motorcycle repair
-- Increase in large motorcycles
-- Demand for safety inspections
-- Expansion of DIY culture
+- 电动摩托车维修
+- 大型摩托车增长
+- 安全检查需求
+- DIY文化的扩展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some repair shops may hire non-professional workers, but limited due to skill requirements |
-| Subclass E-7 (E-7 (Specific Activities)) | Available for professionals with certification and experience |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work in repair industry |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity who enjoy disassembling and assembling machinery
-- People active in improving expertise through certification
-- People with meticulousness and persistence
+- 手巧且喜欢拆装机械的人
+- 通过认证积极提升专业技能的人员
+- 具有细致和毅力的人
 
 **谁不适合**
-- People who dislike tedious repetitive tasks
-- People who want to focus on technical work rather than customer service or sales
+- 不喜欢繁琐重复任务的人
+- 希望专注于技术工作而非客户服务或销售的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for motorcycle repair technicians?**
-答：For entry-level, annual salary ranges from 24 to 30 million KRW, and can rise to 40-55 million KRW with experience and certifications.
+**问：摩托车维修技术人员的薪资水平是多少？**
+答：入门级年薪2400-3000万韩元，有经验和证书后可升至4000-5500万韩元。
 
-**问：What visa is needed for foreigners to work as motorcycle repair technicians?**
-答：E-7 (Specific Activities) visa is suitable, requiring automotive repair technician certification and experience. E-9 or F-4 are also possible but limited.
+**问：外国人从事摩托车维修技师工作需要什么签证？**
+答：E-7（特定活动）签证适合，需持有汽车维修技师认证和经验。E-9或F-4也可但有限制。
 
-**问：Does the adoption of electric motorcycles affect mechanic jobs?**
-答：Electric motorcycles reduce engine repair and require battery/motor-related training, but overall repair demand is expected to remain.
+**问：电动摩托车的采用会影响机械师工作吗？**
+答：电动摩托车减少发动机维修，需电池/电机相关培训，但整体维修需求预计保持。
 
 
 ---
@@ -145,12 +135,12 @@ Apprentice at small repair shop → Obtain technician certification → Skilled 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/motorcycle-mechanic/KR)**

@@ -4,8 +4,6 @@
 
 Responsible for operating concrete batching plant equipment, producing ready-mixed concrete, cement, asphalt, and aggregates according to proportions to ensure quality and supply efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -56,8 +54,6 @@ Responsible for operating concrete batching plant equipment, producing ready-mix
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core work of concrete batching plant operators has been significantly impacted by automation, but on-site supervision, equipment maintenance, and exception handling still rely on humans. AI will assist rather than completely replace them, resulting in a mixed overall situation.
-
 Operators can be promoted to production supervisor or quality control manager, or through training, they can transition to equipment maintenance or technical sales.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Operators can be promoted to production supervisor or quality control manager, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee work permit) | Employer sponsorship required, work permit application, suitable for those with a French diploma or experience |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with annual salary requirements (about €≥40k), but this position usually does not meet the requirements |
-| Subclass Recherche emploi (Job search visa) | After graduation, you can apply for a one-year job period, and after finding a job, switch to Salarié |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Minimum CAP (2 years), recommended BTS Civil Engineering (2 years), also poss
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-batching-plant-operator/FR)**

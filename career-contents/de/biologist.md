@@ -53,8 +53,6 @@ Engage in biological research, experimentation, and analysis, working in researc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some data analysis, literature review, and standardized experimental tasks of biologists are being automated by AI, but core competencies such as experimental design, interpretation of complex phenomena, and interdisciplinary collaboration are becoming more valuable due to AI enhancement; the overall situation is mixed.
-
 Junior researchers can advance to project leader, laboratory supervisor, then research group leader, or transition to corporate R&D management; also can pursue a PhD for senior academic positions.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior researchers can advance to project leader, laboratory supervisor, then re
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can work in research institutes, universities, pharmaceutical companies, biot
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologist/DE)**

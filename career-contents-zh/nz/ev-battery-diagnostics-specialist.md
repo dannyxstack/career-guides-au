@@ -1,6 +1,6 @@
-# EV Battery Diagnostics Specialist 职业分析 · 新西兰
+# 电动汽车电池诊断专家（EV Battery Diagnostics Specialist）职业分析 · 新西兰
 
-**职业代码: 312412-EVBD (ANZSCO)**
+**职业代码：312412-EVBD (ANZSCO)**
 
 电动车电池诊断专家负责高压电池组的故障诊断、健康状态(SoH)评估、模组维修与更换，横跨 EV 售后、保修与储能运维，需要高压安全资质与诊断工具经验，是随 EV 保有量上升快速兴起的技术专才岗。
 
@@ -31,10 +31,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 2,000. 在新西兰，电动车保有量上升带来电池售后与诊断需求，电动车电池诊断专家熟手短缺；作为技术员岗，技术移民路径较受限。
+**职位需求量：中高（★★★½☆）** 全国从业人数约 2,000。在新西兰，电动车保有量上升带来电池售后与诊断需求，电动车电池诊断专家熟手短缺；作为技术员岗，技术移民路径较受限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,34 +52,34 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
 AI将显著增强诊断效率，但不会取代专家，核心安全责任与现场判别仍依赖人类。
 
 新西兰高压电池诊断与健康评估成为热点，掌握 OEM 诊断与高压安全者抢手；诊断读数可自动化，高压拆装与判断仍需人工。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 电池数据自动采集与异常初筛
 - 基于标准流程的故障码自动解析与报告生成
 - 更换模组时的扭矩与连接检查等标准化操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI模型预测电池健康衰退趋势，优化维修计划
 - 通过历史数据与AI辅助，快速定位复杂故障根源
 - AI生成诊断建议后，专家进行验证并调整方案
 - 使用AR/VR与AI结合，远程指导现场维修操作
 
-**人类护城河:**
+**人类护城河：**
 
 - 高压安全操作与应急处置责任
 - 对电池电化学行为的深度机理理解
 - 处理非标、罕见故障的创造性诊断
 - 客户信任与保修决策的最终判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 电池管理系统（BMS）与诊断软件使用
 - 机器学习基础与数据标注技能
@@ -87,17 +87,17 @@ AI将显著增强诊断效率，但不会取代专家，核心安全责任与现
 - 电动车型与电池化学多样性认知
 - 电气测量与维修实操能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-Voltage Battery Pack Diagnostics & Fault Localization
-- Battery Health (SoH) Assessment & Cascade Utilization
-- EV After-Sales & Warranty Diagnostics (OEM Systems)
-- Battery Repair & Module Replacement (High Voltage Safety)
-- Energy Storage Battery Field Diagnostics & Maintenance
+- 高压电池组诊断与故障定位
+- 电池健康（SoH）评估与梯次利用
+- 电动汽车售后与保修诊断（OEM系统）
+- 电池维修与模块更换（高压安全）
+- 储能电池现场诊断与维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -106,9 +106,7 @@ AI将显著增强诊断效率，但不会取代专家，核心安全责任与现
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa：技术员岗主要走雇主担保 |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category：积分制，技术员岗积分较低 |
 
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中低（★★½☆☆）**
 
 ---
 
@@ -160,12 +158,13 @@ AI将显著增强诊断效率，但不会取代专家，核心安全责任与现
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中低（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ev-battery-diagnostics-specialist/NZ)**

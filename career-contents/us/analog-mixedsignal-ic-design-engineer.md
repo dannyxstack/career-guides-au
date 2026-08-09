@@ -51,8 +51,6 @@ Analog/mixed-signal IC design engineers design analog and digital-analog hybrid 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
-
 The US focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce position; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ The US focuses on AI accelerators and low-power/simulation design, with engineer
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3: Employer-Sponsored Employment-Based Immigration (including PERM Labor Certification) |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW: National Interest Waiver for Self-Applied Green Cards |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes, it's classed as a shortage engineering occupation, eligible for US skill
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/analog-mixedsignal-ic-design-engineer/US)**

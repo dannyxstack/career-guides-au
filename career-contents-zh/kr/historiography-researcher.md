@@ -1,10 +1,8 @@
-# Historiography Researcher 职业分析 · 韩国
+# 史学研究员（Historiography Researcher）职业分析 · 韩国
 
-**职业代码: 11012 (KECO)**
+**职业代码：11012 (KECO)**
 
-A specialized research professional who studies historical documents and artifacts to identify and interpret historical facts. Mainly active in universities, national research institutes, and museums.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专门研究历史文献和文物以识别和解释历史事实的专业研究人员。主要在大学、国立研究机构和博物馆工作。
 
 
 ---
@@ -13,9 +11,9 @@ A specialized research professional who studies historical documents and artifac
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (History, etc.) | 4年 | $4,000,000~$8,000,000（Annual tuition, based on national/public university rates） |
-| Master's (History) | 2 年 | $6,000,000~$12,000,000（Annual tuition, graduate school） |
-| Doctorate (History) | 4年 | $6,000,000~$12,000,000（Annual tuition, average 4 years required） |
+| 学士学位（历史等） | 4年 | $4,000,000~$8,000,000（年学费，按国立/公立大学标准） |
+| 硕士（历史） | 2 年 | $6,000,000~$12,000,000（年度学费，研究生院） |
+| 博士学位（历史学） | 4年 | $6,000,000~$12,000,000（年学费，通常需4年） |
 
 ---
 
@@ -23,17 +21,17 @@ A specialized research professional who studies historical documents and artifac
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctoral degree | 大学 | 必备 | Doctorate in history or related field required |
-| Academic paper publications | Academic societies | 可选 | Multiple papers in registered journals required |
+| 博士学位 | 大学 | 必备 | 需要历史学或相关领域博士学位 |
+| 学术论文发表 | 学术社团 | 可选 | 需在注册期刊上发表多篇论文 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 4,000. Employment for history researchers in Korea is expected to stagnate due to reduced government research funding and university restructuring, with very limited new hiring.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 4,000。由于政府研究资金减少和大学重组，韩国历史研究人员的就业预计将停滞，新增招聘非常有限。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,96 +39,88 @@ A specialized research professional who studies historical documents and artifac
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on research institute or university researcher, pre-tax annual salary |
-| Mid-level (4-9 years) | $35,000,000~$50,000,000 | Full-time researcher level |
-| 资深（10年以上） | $50,000,000~$70,000,000 | Senior researcher or professor, pre-tax annual salary |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于研究所或大学研究员，税前年薪 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 全职研究员级别 |
+| 资深（10年以上） | $50,000,000~$70,000,000 | 高级研究员或教授，税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can automate some tasks like data analysis and digital archiving in historical research, but interpretation and context understanding will remain uniquely human. Thus, the historian researcher profession is unlikely to be fully replaced by AI.
+AI可以自动化历史研究中的一些任务，如数据分析和数字归档，但解读和背景理解仍将保持人类独特性。因此，历史研究人员职业不太可能被AI完全替代。
 
-After obtaining a master's/doctoral degree, one advances from researcher (postdoc) to full-time researcher and then to senior researcher, with tenure-track professor positions being extremely rare.
+获得硕士/博士学位后，从研究员（博士后）晋升为全职研究员，再到高级研究员，终身教职教授职位极为罕见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document digitization
-- Statistical processing
-- Basic data classification
+- 文件数字化
+- 统计处理
+- 基本数据分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Big data analysis
-- 3D restoration of artifacts
-- OCR for ancient documents
-- Network analysis
+- 大数据分析
+- 文物三维修复
+- 古代文献的OCR识别
+- 网络分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Historical context interpretation
-- Value judgment
-- Source material critique
-- Education and communication
+- 历史背景解读
+- 价值判断
+- 源材料批评
+- 教育与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python
-- Data visualization
-- Digital archive construction
-- Foreign language proficiency
+- 数据可视化
+- 数字档案建设
+- 外语能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Crisis in the humanities
-- Reduced research funding
-- Digital humanities
-- Museum curator competition
+- 人文学科危机
+- 研究经费减少
+- 数字人文学科
+- 博物馆策展人竞争
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible in specialized research fields with employer invitation, but very limited |
-| Subclass F-2 (Residence (F-2)) | Research activities possible for long-term residents |
-| Subclass D-2 (Student (D-2)) | Research possible during master's/doctorate, requires status change after graduation |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Deep passion for history and academic curiosity
-- Patience to focus on long-term reading and analysis
-- Excellent English and ancient text interpretation skills
+- 对历史的深厚热情和学术好奇心
+- 耐心专注于长期阅读和分析
+- 优秀的英语和古文解读能力
 
 **谁不适合**
-- Those seeking quick financial success
-- Those who value results over collaboration
+- 追求快速财务成功的人
+- 重视结果而非合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a history researcher?**
-答：Entry-level researchers earn about 28–35 million KRW, mid-level 35–50 million, senior 50–70 million. Income is not high unless a tenured professor.
+**问：历史研究员的平均薪资是多少？**
+答：入门级研究员约2800-3500万韩元，中级3500-5000万，高级5000-7000万。除非是终身教授，否则收入不高。
 
-**问：Can a foreigner get a job as a history researcher in Korea?**
-答：Possible, but very difficult. Most must be invited to a research institution via an E-7 visa, with Korean language proficiency and a Korean history major being essential.
+**问：外国人能在韩国找到历史研究员的工作吗？**
+答：可能，但非常困难。大多数必须通过E-7签证被邀请到研究机构，韩国语能力和韩国历史专业是必需的。
 
-**问：What degree is needed to work as a historian researcher?**
-答：Typically, a PhD is required; with only a master's degree, landing a research position is nearly impossible. Publication records and research project experience are also important.
+**问：从事历史研究员工作需要什么学位？**
+答：通常需要博士学位；仅硕士学位几乎无法获得研究职位。发表记录和研究项目经验也很重要。
 
 
 ---
@@ -148,12 +138,12 @@ After obtaining a master's/doctoral degree, one advances from researcher (postdo
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/historiography-researcher/KR)**

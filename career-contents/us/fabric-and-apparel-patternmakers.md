@@ -53,8 +53,6 @@ Drafts and constructs accurate complex fabric master patterns or layouts, and ma
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Pattern makers' tasks rely heavily on precise drafting and manual adjustment; AI can automate pattern generation and layout, but human judgment on fabric properties, fit, and complex styles is needed, a mixed blessing.
-
 Start as junior pattern maker, advance to chief pattern maker or pattern designer, some shift to technical design or production management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as junior pattern maker, advance to chief pattern maker or pattern designe
 | Subclass O-1 (O-1 Extraordinary Ability) | Only applicable to very few plate makers with outstanding achievements, such as involvement with well-known brands or awards. |
 | Subclass EB-3 (EB-3 Skilled Worker) | Employers must demonstrate inability to find qualified US workers, but the positions are small-scale, making PERM difficult to pass. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The garment manufacturing industry continues to decline, leading to a reducti
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fabric-and-apparel-patternmakers/US)**

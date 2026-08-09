@@ -4,8 +4,6 @@
 
 Specialists who conduct product inspections of measuring instruments and optical devices to verify compliance with quality standards, handling final and in-process inspections at manufacturing sites.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Specialists who conduct product inspections of measuring instruments and optical
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The introduction of AI and automated inspection machines will replace simple dimension and visual inspections, but tasks requiring human judgment, such as complex optical adjustments and anomaly detection, will remain. Automation may elevate the role of inspectors.
-
 Career advancement possible through skill certification and measurement technician qualifications. Progression to inspection chief or quality control manager, or specialization as a consultant.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Career advancement possible through skill certification and measurement technici
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates in science/engineering or experienced workers. Applicable to inspection in manufacturing. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Transfer from technical intern training possible. Inspection work may be included, but mainly production processes. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: Measurement certifiers and技能検定 (measurement equipment) are advantageo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/measurement-and-optical-equipment-inspectors/JP)**

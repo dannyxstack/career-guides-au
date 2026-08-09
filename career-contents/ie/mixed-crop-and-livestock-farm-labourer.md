@@ -54,8 +54,6 @@ Performing physical labour on mixed farms in Ireland, such as planting, harvesti
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The manual labor tasks of mixed crop and livestock farm workers are highly susceptible to automation, especially repetitive crop management and animal feeding. Competition for entry-level jobs will intensify unless transitioning to technical operations or general management.
-
 This role has limited promotion opportunities; you can gain experience and move up to farm supervisor or shift to animal/crop technician, but additional training is needed.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ This role has limited promotion opportunities; you can gain experience and move 
 | Subclass Seasonal Employment  (Seasonal Employment Permit) | For temporary seasonal agricultural work, valid for up to 9 months, requires employer sponsorship, no annual salary threshold. |
 | Subclass EU/EEA Freedom of Mo (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely without a visa and are a major source of labor. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Limited prospects. Mechanization reduces demand for unskilled labor, but orga
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-livestock-farm-labourer/IE)**

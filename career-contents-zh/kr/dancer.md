@@ -1,10 +1,8 @@
 # 舞蹈演员（Dancer）职业分析 · 韩国
 
-**职业代码: 41471 (KECO)**
+**职业代码：41471 (KECO)**
 
-A professional artist who expresses artistic ideas through body movements, working in genres such as ballet, modern dance, and Korean traditional dance, performing, teaching, and creating.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过身体动作表达艺术思想的专业艺术家，从事芭蕾、现代舞、韩国传统舞蹈等类型，表演、教学和创作。
 
 
 ---
@@ -13,9 +11,9 @@ A professional artist who expresses artistic ideas through body movements, worki
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Bachelor's) | 4年 | $40,000,000~$60,000,000（Annual tuition at private universities: 10-15 million KRW） |
-| Junior College (Associate's) | 2-3年 | $20,000,000~$30,000,000（Annual tuition: 7-10 million KRW） |
-| Graduate School (Master's) | 2 年 | $30,000,000~$50,000,000（Annual tuition at arts graduate schools: 15-25 million KRW） |
+| 大学（学士学位） | 4年 | $40,000,000~$60,000,000（私立大学年学费：1000-1500万韩元） |
+| 大专（副学士） | 2-3年 | $20,000,000~$30,000,000（年学费：700-1000万韩元） |
+| 研究生院（硕士） | 2 年 | $30,000,000~$50,000,000（艺术研究生院年学费：1500-2500万韩元） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional artist who expresses artistic ideas through body movements, worki
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dance Instructor | Korean Dance Association | 可选 | Dance teaching certificate |
-| Culture and Arts Education Specialist | Ministry of Culture, Sports and Tourism | 可选 | Preferred for dance education in schools |
+| 舞蹈指导员 | 韩国舞蹈协会 | 可选 | 舞蹈教学证书 |
+| 文化艺术教育专家 | 文化体育观光部 | 可选 | 学校舞蹈教育优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 18,000. The performance market is expanding due to growing interest in culture and arts, but employment for dancers remains limited to a small elite, leading to intense competition. Job volatility is high depending on government support and private investment.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 18,000。由于对文化和艺术的兴趣日益增长，演出市场正在扩大，但舞者的就业仍限于少数精英，导致竞争激烈。就业稳定性取决于政府支持和私人投资。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional artist who expresses artistic ideas through body movements, worki
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$36,000,000 | Based on ensemble member; varies greatly for freelancers |
-| 中级（4-9年） | $36,000,000~$50,000,000 | Soloist or assistant choreographer |
-| Advanced (10+ years) | $50,000,000~$80,000,000 | Principal dancer, choreographer, artistic director |
+| 初级（0-3年） | $24,000,000~$36,000,000 | 因团队成员而异；自由职业者差异很大 |
+| 中级（4-9年） | $36,000,000~$50,000,000 | 独舞者或助理编舞 |
+| 高级（10年以上） | $50,000,000~$80,000,000 | 首席舞者、编舞、艺术总监 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI technology is used for dance creation and choreography assistance tools, but it is difficult to replace human physical expression and emotional conveyance, so the risk of the profession disappearing is low. However, AI can replace some auxiliary tasks like performance planning or marketing.
+AI技术用于舞蹈创作和编舞辅助工具，但难以替代人类肢体表达和情感传递，因此该职业消失风险较低。不过，AI可替代部分辅助任务如表演策划或营销。
 
-It is common to join a professional dance company after majoring in dance, with promotion to soloist, choreographer, or artistic director possible based on experience. Many also transition to independent creators or instructors.
+通常在舞蹈专业毕业后加入专业舞蹈团，根据经验可晋升为独舞者、编舞或艺术总监。许多人也会转型为独立创作者或教练。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Performance ticket booking and promotion
-- Basic movement practice video analysis
+- 演出票务预订与推广
+- 基本动作练习视频分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Choreography idea generation
-- Movement analysis and feedback
-- Performance lighting and sound design
+- 编舞创意构思
+- 运动分析与反馈
+- 表演灯光与音响设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical expressiveness
-- Emotional conveyance ability
-- Improvisational creation
-- Real-time interaction with the audience
+- 身体表现力
+- 情感传达能力
+- 即兴创作
+- 与观众实时互动
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital choreography software use
-- Media art collaboration
-- Online performance production
+- 数字编舞软件使用
+- 媒体艺术合作
+- 在线演出制作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Performing Arts
-- Cultural Content
-- Dance Education
-- Choreographic Creation
+- 表演艺术
+- 文化内容
+- 舞蹈教育
+- 编舞创作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for inviting excellent personnel, but dance field cases are rare |
-| Subclass F-2 (Residence) | Possible to work after long-term stay, but difficult initial entry |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, dance activities possible but requiring professionalism |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Passionate about physical expression and creative
-- Able to endure long practice and stage competition
-- Able to improvise and collaborate
+- 对身体表达和创意充满热情
+- 能够忍受长时间练习和舞台竞争
+- 能够即兴发挥和协作
 
 **谁不适合**
-- Wanting regular income and stability
-- Disliking physical pain or repetitive training
+- 希望获得稳定收入和保障
+- 不喜欢身体疼痛或重复训练
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：舞者的平均薪资是多少？**
-答：Junior company members earn about 24-36 million won, and with experience can earn over 50 million won, but freelancers have highly variable income.
+答：初级员工年收入约2400-3600万韩元，有经验者可超过5000万韩元，但自由职业者收入波动较大。
 
-**问：What visa does a foreign dancer need to work in Korea?**
-答：E-7 visa is possible but issuance in the dance field is tricky; F-4 (Overseas Korean) or F-2 (Long-term Residence) visas are more realistic.
+**问：外国舞者在韩国工作需要什么签证？**
+答：E-7签证可能，但舞蹈领域发放困难；F-4（在外同胞）或F-2（长期居留）签证更现实。
 
-**问：What does the career path for a dancer look like?**
-答：Typically, after joining a dance company, one advances to soloist, choreographer, or artistic director, or transitions to independent creator or dance educator.
+**问：舞者的职业发展路径是怎样的？**
+答：通常，加入舞蹈团后，可晋升为独舞演员、编舞或艺术总监，或转为独立创作者或舞蹈教育者。
 
 
 ---
@@ -145,12 +135,12 @@ It is common to join a professional dance company after majoring in dance, with 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dancer/KR)**

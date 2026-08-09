@@ -52,8 +52,6 @@ A national qualification for providing specialized rehabilitation to patients wi
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI aids in planning rehabilitation plans and motion analysis, but interpersonal care and on-the-spot decisions remain human-dependent. AI complements rather than replaces.
-
 Gaining clinical experience and obtaining certifications (e.g., certified physical therapist) or master's degree beneficial for career advancement; paths to managerial and educational roles open.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Gaining clinical experience and obtaining certifications (e.g., certified physic
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable after university graduation and PT license; N2 Japanese required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Long-term Care)) | Possible only in long-term care. PT work not allowed. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Long-term Care)) | Only long-term care. PT excluded. |
-| Subclass 特定活動（難民等） (Designated Activities (Refugee application pending)) | Work restrictions; PT work difficult. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: Options include acquiring certified or specialist physical therapist qualific
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-therapist-occupational-therapist/JP)**

@@ -52,8 +52,6 @@ Engage in the design, manufacture, and installation of industrial equipment, con
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Equipment, container, and device manufacturing engineers face mixed prospects: AI can assist design optimization and simulation to improve efficiency, but core tasks like physical manufacturing, on-site installation and commissioning, and safety compliance responsibilities are hard to automate; the job will not be replaced but the task structure will be deeply reshaped.
-
 Junior engineers can advance to project manager or technical supervisor, or through continuing education become senior design experts or technical managers. Some senior engineers may move into consulting or quality management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior engineers can advance to project manager or technical supervisor, or thro
 | Subclass Skilled Worker (Fach (Skilled Worker Visa) | Suitable for engineers with relevant qualifications and employer sponsorship; annual salary requirement lower than Blue Card; need professional accreditation. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for engineers who do not have an employer but meet the requirements, allowing them to stay in Germany for one year to look for work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not necessarily, but at least a bachelor's degree in engineering or technolog
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plant-container-and-apparatus-engineer/DE)**

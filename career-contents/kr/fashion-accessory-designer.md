@@ -4,8 +4,6 @@
 
 A fashion accessory designer is a professional who designs and develops fashion accessories such as bags, shoes, hats, and jewelry, handling the entire process from trend analysis to sample production.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A fashion accessory designer is a professional who designs and develops fashion 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-While AI increases efficiency in fashion trend analysis, pattern generation, and sampling, creative design and aesthetic judgment remain human domains. Full replacement is difficult, but some repetitive tasks can be automated.
-
 Careers typically start at small design studios or fashion companies, with advancement to senior designer after 3-5 years, then to design team leader or brand creative director. Freelance entrepreneurship is also common.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Careers typically start at small design studios or fashion companies, with advan
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to work as professional in fashion design, but must meet degree and experience requirements |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work in design fields |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A fashion-related degree from a vocational college or higher is advantageous 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-accessory-designer/KR)**

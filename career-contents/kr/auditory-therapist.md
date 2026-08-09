@@ -49,8 +49,6 @@ A healthcare professional specializing in auditory assessment, rehabilitation af
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in analyzing auditory evaluation results or hearing aid adjustment algorithms, but patient-customized counseling and rehabilitation decisions require the essential role of human therapists. AI will act as a tool to complement therapists' work and enhance efficiency.
-
 Typically start in rehabilitation medicine or otolaryngology hospitals, auditory rehabilitation centers; with experience, can advance to chief therapist at university hospitals, open private auditory rehabilitation centers, or pursue education and research roles.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Typically start in rehabilitation medicine or otolaryngology hospitals, auditory
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible issuance of E-7 employment visa for professionals in auditory therapy; requires employer recommendation from auditory rehabilitation centers, etc. |
-| Subclass F-2 (Residence) | After meeting certain conditions following E-7 stay, you can apply for F-2 permanent residence visa |
-| Subclass F-5 (Permanent residence) | Eligible for permanent residence after long-term stay, limited |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: The private audiologist certification is helpful but not mandatory; a relevan
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/auditory-therapist/KR)**

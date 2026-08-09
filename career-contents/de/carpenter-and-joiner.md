@@ -54,8 +54,6 @@ Carpenters and interior fitters handle woodworking, furniture making, and interi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Can advance to foreman or project supervisor, or become a master carpenter (Meister) through further study, and run their own business or work as a trainer. Further study can lead to building engineer or interior designer.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance to foreman or project supervisor, or become a master carpenter (Meis
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allowing one year of job hunting in Germany. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, proof of sufficient funds required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Low likelihood. Carpentry work involves fine craftsmanship, customization, an
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter-and-joiner/DE)**

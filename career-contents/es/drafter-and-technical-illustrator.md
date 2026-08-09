@@ -51,8 +51,6 @@ Responsible for using CAD software to draw technical drawings, supporting constr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of draftsmen and drafters is being reshaped by AI-assisted design tools. While conventional drawing tasks are highly automated, creative coordination and on-site collaboration in complex projects remain the moat.
-
 Promotion can be to senior draftsman, CAD manager, or transition to design engineer. After gaining experience, you can also self-employ or establish a studio.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Promotion can be to senior draftsman, CAD manager, or transition to design engin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | For employed work residence, the employer must provide a work contract and prove that suitable personnel cannot be recruited within the EU |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card applies to technical positions with an annual salary of no less than 33,908 euros (2023 standard), requiring a university degree or 5 years of relevant experience |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Highly skilled professionals residing for in-demand positions with annual salaries over 40,000 euros, with simplified procedures |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can be promoted to senior draftsman, CAD manager, BIM coordinator, or mov
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drafter-and-technical-illustrator/ES)**

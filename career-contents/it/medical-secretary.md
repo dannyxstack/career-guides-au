@@ -4,8 +4,6 @@
 
 A medical secretary handles administrative tasks in medical facilities, including receiving patients, scheduling appointments, managing medical records and billing, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A medical secretary handles administrative tasks in medical facilities, includin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Administrative tasks of medical secretaries such as appointment scheduling, medical record management, and billing are highly automatable; AI will significantly reduce demand for these roles, with traditional entry-level positions decreasing notably, but complex coordination and legal compliance tasks still require humans.
-
 From junior secretary, can advance to department administrative supervisor or medical office manager. With experience, can transition to higher-skilled roles such as medical coding or health information management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ From junior secretary, can advance to department administrative supervisor or me
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled talent, salary must meet threshold (approx. €24,789); medical secretaries typically do not satisfy salary requirements unless in senior administrative roles. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-management roles; employer must prove inability to recruit within the EU. Medical secretary is a non-shortage occupation, quota is competitive. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Potential to advance to department administrative director or medical office 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-secretary/IT)**

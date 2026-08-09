@@ -4,8 +4,6 @@
 
 Shelf stockers are responsible for placing goods on shelves in retail environments such as supermarkets and stores, ensuring adequate inventory and tidy displays. This position is typically entry-level and requires physical labor and basic organizational skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Shelf stockers are responsible for placing goods on shelves in retail environmen
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
-
-For shelf fillers, AI and automation will compress entry-level positions but enhance core tasks; workers must shift to complex inventory management and customer service or risk replacement.
 
 Shelf filler can advance to department supervisor, warehouse supervisor or purchasing assistant. Typically need retail experience and basic management skills; some employers provide internal training.
 
@@ -98,16 +94,9 @@ Shelf filler can advance to department supervisor, warehouse supervisor or purch
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Dutch graduates or graduates from the world's top 200 universities can search for jobs for up to one year after graduation without a work permit, and can work in any job, including shelf stocking. |
-| Subclass EU Free Movement (EU/EEA Citizen Free Movement) | EU/EEA citizens can work and live in the Netherlands freely without a visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Yes. Internal promotion to department supervisor, warehouse manager, or purch
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shelf-filler/NL)**

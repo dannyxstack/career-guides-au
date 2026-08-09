@@ -4,8 +4,6 @@
 
 Operate textile machinery to produce various textile products, such as weaving, knitting, embroidery, etc.; responsible for machine debugging, operation monitoring, and basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Operate textile machinery to produce various textile products, such as weaving, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Conventional monitoring, debugging, and quality inspection tasks for textile machinery operators face the risk of automated substitution, but AI enhances predictive maintenance, process optimization, and automated programming capabilities, while retaining reliance on human advantages such as handling abnormal tactile sensations and flexible switching in small batches.
-
 You can be promoted from operator to team leader or production supervisor, or through learning to become a textile technician or quality inspector. It is necessary to accumulate mechanical operation experience, and transitioning to machine operation in other industries is also feasible.
 
 **Tasks most exposed to AI:**
@@ -99,15 +95,9 @@ You can be promoted from operator to team leader or production supervisor, or th
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a work contract with a Spanish company and an employer sponsorship. This occupation is not in urgent need and is difficult to approve. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: You can be promoted to production team leader or supervisor, or transition to
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-products-machine-operator-not-elsewhere-classified/ES)**

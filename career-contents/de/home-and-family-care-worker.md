@@ -53,8 +53,6 @@ Family caregivers provide daily care, household assistance, and emotional suppor
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
-
 Career progression: start as an entry-level caregiver, become a specialised caregiver (e.g., Altenpfleger/in) through continuing education, or advance to nursing team supervisor. Some transition to care management or training roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression: start as an entry-level caregiver, become a specialised care
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires Germany-recognized professional qualifications; home care workers need certification. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking in Germany, suitable for those with nursing experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance through continuing education to become a professional caregiver (
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-and-family-care-worker/DE)**

@@ -4,8 +4,6 @@
 
 Healthcare service workers other than doctors and nurses, including physical therapists, occupational therapists, speech-language pathologists, clinical laboratory technicians, and radiologic technologists.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Healthcare service workers other than doctors and nurses, including physical the
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and robotics may automate some tasks like rehab planning support and data analysis, but direct patient care and interpersonal communication remain human-driven, so complete replacement is unlikely.
-
 After obtaining national certification, common workplaces include hospitals, clinics, and long-term care facilities. With experience, paths include management, specialization, or private practice (e.g., physical therapists).
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After obtaining national certification, common workplaces include hospitals, cli
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available when recognized as specialized work. Usually requires qualification based on agreement. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Eligible in nursing care. However, physical therapists often excluded. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Specified Skilled Worker (ii) in nursing care is limited. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: By deepening expertise to move into management or education, or by opening yo
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-healthcare-service-workers/JP)**

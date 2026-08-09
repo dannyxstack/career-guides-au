@@ -4,8 +4,6 @@
 
 A specialized professional responsible for the cultivation and management of fish and shellfish. Engages in a wide range of tasks from on-site operations contributing to the stable supply of marine resources to managerial roles.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A specialized professional responsible for the cultivation and management of fis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation assist feeding, water quality management, and monitoring, easing labor shortages, but much on-site work still relies on human experience and judgment. Full replacement is unlikely; rather it boosts productivity.
-
 Start with on-site work, then gain experience to move into aquaculture management or business operations. At large-scale farms, advancement to team leader or manager is possible. There is also the option of starting an independent aquaculture business, with support systems available for new entrants.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Start with on-site work, then gain experience to move into aquaculture managemen
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fisheries)) | For immediate foreign workers. Max 5 years stay, no family accompaniment. JLPT N4 or higher required. |
-| Subclass 技能実習 (Technical Intern Training (Fisheries)) | Aims at skill transfer. Max 5 years. Switching to Specified Skilled Worker is recommended. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Fisheries Technology)) | For highly skilled personnel in specialized aquaculture tech/R&D. Requires university degree or higher. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Look for jobs at Hello Work or industry associations, study at fisheries scho
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-worker/JP)**

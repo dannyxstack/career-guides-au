@@ -53,8 +53,6 @@ Design, manufacture, adjust, repair, or evaluate jewelry, precious metals, and g
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 Career path: apprentice → journeyman → master craftsman → jewelry store manager or self-employment. Some may transition to jewelry design, appraisal, or repair, or enter jewelry manufacturing as supervisors.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path: apprentice → journeyman → master craftsman → jewelry store ma
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Number of positions is stable, but competition is fierce, especially in the h
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewelers-and-precious-stone-and-metal-workers/US)**

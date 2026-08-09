@@ -48,8 +48,6 @@ An occupation operating machinery to produce mineral materials such as cement, l
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-While simple operational tasks may decrease due to AI and automation technologies, areas such as equipment maintenance and process optimization can be enhanced by AI. Overall, the number of jobs is expected to decline.
-
 Starting as a machine operator, one can advance to production supervisor, quality control, or process manager; often via experience at large conglomerates or specialized construction companies.
 
 **Tasks most exposed to AI:**
@@ -85,16 +83,9 @@ Starting as a machine operator, one can advance to production supervisor, qualit
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers; can work in cement and mineral product production under the Employment Permit System. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled workers; convertible after 5+ years of experience. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay from E-7, preliminary step to permanent residency. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -137,12 +128,12 @@ A: Simple repetitive tasks will be automated, but skilled jobs like maintenance 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cement-and-mineral-product-production-machine-operator/KR)**

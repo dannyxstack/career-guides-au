@@ -53,8 +53,6 @@ Responsible for security monitoring, patrol, access management, and emergency re
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation and AI will significantly transform private security and surveillance over the next 5-10 years: fixed monitoring and reporting tasks will be taken over, but job demands relying on human judgment, communication, and on-site emergency response will persist. Embracing technology can enhance efficiency and competitiveness.
-
 You can be promoted from junior security officer to team leader, supervisor of the monitoring center, or shift to specialized roles such as risk management or internal investigations.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from junior security officer to team leader, supervisor of t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employer sponsorship required, CDI contract and CNAPS permit provided, and salary must meet minimum standards |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled or management positions, such as safety managers, with an annual salary of ≥36,500€ |
-| Subclass Recherche d'emploi (Job Search / Entrepreneur) | After graduation, you can apply for residence and look for work, provided it is related to your major |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted from junior security to team supervisor, monitoring cente
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/private-security-and-surveillance-officer/FR)**

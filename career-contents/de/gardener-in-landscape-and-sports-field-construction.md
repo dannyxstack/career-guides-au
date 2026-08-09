@@ -53,8 +53,6 @@ Specializes in the planning, construction, and maintenance of gardens, parks, la
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Can advance from assistant to foreman (Vorarbeiter), then to site manager (Baustellenleiter) or self-employment (Gartenbau-Unternehmer). Further education can lead to specialized planning or green infrastructure consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from assistant to foreman (Vorarbeiter), then to site manager (Baust
 | Subclass Skilled Worker (Skilled Employment Visa (Fachkräfteeinwanderung)) | After obtaining qualification certification, you can apply for a work visa without the Blue Card salary threshold. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing holders to search for a job or trial work in Germany for one year |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must first complete a Germany-recognized horticulturist vocational qualificat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardener-in-landscape-and-sports-field-construction/DE)**

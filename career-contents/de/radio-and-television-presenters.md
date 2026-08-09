@@ -51,8 +51,6 @@ Radio and television hosts present programs, interview guests, broadcast news or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The core of broadcast hosts—improvisation, emotional resonance, and in-depth interviews—is hard to replace by AI; but standardized tasks like news reading, information retrieval, and program editing are being eroded by AI tools, leading to shrinking entry-level roles and increased competition in the middle tier.
-
 Career progression can start as an assistant/reporter, advancing to independent host, program head, or producer. Some hosts transition to new media content creation or media management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career progression can start as an assistant/reporter, advancing to independent 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Hosts can start as assistants or reporters and gradually advance to independe
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radio-and-television-presenters/DE)**

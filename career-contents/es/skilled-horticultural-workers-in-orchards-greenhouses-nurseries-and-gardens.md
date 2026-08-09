@@ -52,8 +52,6 @@ Responsible for planting, maintaining, and harvesting fruit trees, vegetables, f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace skilled gardening workers, but it will significantly enhance its efficiency, especially in monitoring, data analysis, and automated control; Future jobs will rely more on technological tools and judgment rather than pure physical labor.
-
 You can be promoted from an ordinary worker to a team leader or technician, responsible for production planning and quality control. After gaining experience, you may become a farm manager or independently contract horticultural services. Some workers turned to agricultural technology promotion or green certification consulting.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted from an ordinary worker to a team leader or technician, resp
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Visa) | A job contract with an employer and the employer applying for a work permit are required. Suitable for those who have already found a Spanish employer. |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Suitable for those with a university degree or at least 3 years of relevant experience, with an annual salary above the minimum standard. Horticultural technical positions may qualify. |
-| Subclass Busqueda empleo (Job Search Visa) | Allows a 6-month stay in Spain to search for work, requiring proof of financial means. Suitable for those planning to find a job in Spain. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically, a horticulture-related certificate from FP Secondary Vocational Ed
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-horticultural-workers-in-orchards-greenhouses-nurseries-and-gardens/ES)**

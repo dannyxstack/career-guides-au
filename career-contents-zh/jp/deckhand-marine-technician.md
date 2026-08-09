@@ -1,8 +1,8 @@
-# Deckhand / Marine Technician 职业分析 · 日本
+# 甲板水手/海事技术员（Deckhand / Marine Technician）职业分析 · 日本
 
-**职业代码: 633 (JSCO)**
+**职业代码：633 (JSCO)**
 
-Responsible for assisting operations, cargo handling, and engine operation on the ship's deck. A specialized role supporting maritime transport, requiring a seafarer's license.
+负责协助甲板操作、货物搬运和引擎运行。支持海上运输的专业角色，需持有海员证。
 
 
 ---
@@ -11,8 +11,8 @@ Responsible for assisting operations, cargo handling, and engine operation on th
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Institute of Maritime Technology (Advanced Course) | 2 年 | $1,500,000~$3,000,000（Relatively low cost due to national public institution） |
-| Merchant Marine College | 5年 | $2,000,000~$4,000,000（Practice-oriented curriculum） |
+| 国立海事技术研究所（高级课程） | 2 年 | $1,500,000~$3,000,000（由于国家公立机构，成本相对较低） |
+| 商船学院 | 5年 | $2,000,000~$4,000,000（实践导向课程） |
 
 ---
 
@@ -20,18 +20,18 @@ Responsible for assisting operations, cargo handling, and engine operation on th
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fourth-Class Navigator (Deck) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Basic license for deck department |
-| Hazardous Materials Handler | Fire and Disaster Management Agency | 可选 | Required for tankers, etc. |
-| Small Vessel Registration Procedure | Japan Small Ship Inspection Organization | 可选 | Required for operating small vessels |
+| 四级航海员（甲板） | 国土交通省 | 必备 | 甲板部基本执照 |
+| 危险品处理员 | 消防与灾害管理局 | 可选 | 油轮等要求 |
+| 小型船舶注册程序 | 日本小型船舶检验组织 | 可选 | 操作小型船舶所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. The shipping industry faces chronic labor shortages, especially in securing young workers. Both domestic and international shipping have stable job opportunities.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。航运业面临长期劳动力短缺，特别是在吸引年轻工人方面。国内和国际航运都有稳定的就业机会。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,94 +39,87 @@ Responsible for assisting operations, cargo handling, and engine operation on th
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$5,000,000 | Domestic ship deckhand, annual salary example |
-| Mid-level (4-10 years) | $5,000,000~$7,000,000 | Navigator class |
-| 资深（10年以上） | $7,000,000~$12,000,000 | Captain / Chief Engineer |
+| 入门级（0-3年） | $3,500,000~$5,000,000 | 国内船舶甲板水手，年薪示例 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 领航员级 |
+| 资深（10年以上） | $7,000,000~$12,000,000 | 船长/总工程师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While automated navigation technology and AI-based route optimization advance, tasks requiring human experience, such as decision-making at sea and maintenance inspections, remain. Complete replacement is difficult, but introduction as support technology is progressing.
+尽管自动导航技术和基于AI的路线优化不断进步，但需要人类经验的海上决策和维护检查等任务仍然存在。完全替代困难，但作为支持技术的引入正在推进中。
 
-Career progression from deckhand to navigation officer is standard. Accumulating sea service and obtaining a seafarer's license opens paths to captain or chief engineer.
+从水手晋升到航海员的职业路径是标准的。积累海上服务时间和获得海员执照可通往船长或轮机长之路。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- routine voyage data recording
-- simple engine monitoring
-- lookout assistance under automated navigation
+- 常规航行数据记录
+- 简单发动机监控
+- 自动导航下的瞭望辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- route planning optimization
-- engine failure prediction
-- cargo handling efficiency
+- 路线规划优化
+- 发动机故障预测
+- 货物装卸效率
 
-**人类护城河:**
+**人类护城河：**
 
-- emergency decision-making
-- vessel maintenance craftsmanship
-- team leadership
-- response to uncertain sea conditions
+- 紧急决策
+- 船舶维修工艺
+- 团队领导
+- 应对不确定海况
 
-**需构建的技能:**
+**需构建的技能：**
 
-- data analysis
-- automated system management
-- advanced maritime knowledge
-- English (international navigation)
+- 数据分析
+- 自动化系统管理
+- 高级海事知识
+- 英语（国际航行）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- coastal shipping
-- ocean-going seafarer
-- automated vessels
-- marine renewable energy
+- 沿海航运
+- 远洋海员
+- 自动化船舶
+- 海洋可再生能源
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foreign Crew)) | Residence status for foreign crew. Added to target fields in 2023. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when advanced knowledge/skills are required, e.g., navigator or chief engineer. |
-| Subclass 技能 (Technical Intern Training) | When utilizing ship operation skills acquired abroad. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically Confident
-- Interested in Sea and Ships
-- Values Teamwork
+- 身体自信
+- 对海洋和船舶感兴趣
+- 重视团队合作
 
 **谁不适合**
-- Prone to Seasickness
-- Prefers Long-term Shore Work
+- 易晕船
+- 偏好长期岸上工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for deckhands?**
-答：For domestic ships, first-year annual income is about 3.5–5 million yen, but higher for foreign ships. Sea duty and qualification allowances may be paid separately.
+**问：甲板水手的起薪是多少？**
+答：国内船舶第一年年收入约350-500万日元，但外国船舶更高。可能另外支付海上值班和资格津贴。
 
-**问：Can foreigners work as deckhands in Japan?**
-答：Yes. A 'Specified Skilled Worker (i) (Ocean-going Seafarer)' status has been introduced, allowing transition from technical intern training. Japanese language ability and maritime certificates may be required.
+**问：外国人能在日本担任甲板水手吗？**
+答：是的。已引入“特定技能工人（i）（远洋船员）”身份，允许从技能实习过渡。可能需要日语能力和海事证书。
 
-**问：What qualifications are necessary for career advancement?**
-答：Start with a Fourth-Class Maritime Officer (Navigation), gain experience, then obtain Second- and First-Class Officer certifications to aim for captain. To pursue the engine department, engineering officer qualifications are needed.
+**问：职业发展需要哪些资格？**
+答：从四级海事官员（航海）开始，积累经验，再取得二级和一级官员证书，以船长为目标。若从事轮机部门，需获得轮机员资格。
 
 
 ---
@@ -144,12 +137,12 @@ Career progression from deckhand to navigation officer is standard. Accumulating
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/deckhand-marine-technician/JP)**

@@ -53,8 +53,6 @@ Sells various insurance products like life, property, accident, health, and auto
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Junior agents can advance to senior agent, team supervisor, or regional manager through performance, some moving into insurance brokerage or financial planning. Continuous learning and client accumulation are key.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior agents can advance to senior agent, team supervisor, or regional manager 
 | Subclass H-1B (H-1B Specialty Occupation) | Need to prove the position is specialized; insurance sales are generally not considered professional positions, approval is difficult. |
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires employer sponsorship and PERM, but the position usually does not meet skilled worker criteria |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from entry-level agent to senior agent, team supervisor, regional
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-sales-agents/US)**

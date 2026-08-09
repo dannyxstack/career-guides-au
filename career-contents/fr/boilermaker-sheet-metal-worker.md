@@ -53,8 +53,6 @@ Boiler manufacturing and sheet metal workers are responsible for designing, manu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
-
 Junior technicians can be promoted to senior technician or team leader through apprenticeship or vocational training, or move to positions such as quality control or technical sales. Those with rich experience can start their own metal processing enterprises.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians can be promoted to senior technician or team leader through a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Temporary or Permanent)) | Employees employed by French companies who obtain a work visa require employer sponsorship and must earn at least 1.5 times the minimum wage. |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talents holding BTS or equivalent qualifications, salaries must meet the average salary level to quickly obtain visas. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens who must hold a higher education diploma (at least Bac+3), with a salary threshold of about 53,000 euros per year. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Applicants must hold CAP or BTS relevant diplomas, as well as welding certifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boilermaker-sheet-metal-worker/FR)**

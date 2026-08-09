@@ -53,8 +53,6 @@ Patent examiners review patent applications and assess whether inventions meet p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Patent examiner job is mixed: AI can greatly improve efficiency in patent search, classification, and preliminary novelty assessment, but legal judgment, inventive step evaluation, and report writing still require human expertise. Overall risk is moderate.
-
 Junior examiners can advance to senior examiner, team leader, or policy expert by accumulating experience. Some move to law firms or corporate IP departments.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior examiners can advance to senior examiner, team leader, or policy expert b
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: At least a bachelor's degree in science, engineering, or law; then must pass 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patents-examiner/NZ)**

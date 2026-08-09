@@ -1,10 +1,8 @@
-# Other Fishery Workers 职业分析 · 日本
+# 其他渔业工人（Other Fishery Workers）职业分析 · 日本
 
-**职业代码: 489 (JSCO)**
+**职业代码：489 (JSCO)**
 
-Engaged in fishing but performing tasks not classified under specific subcategories such as fishing, aquaculture, or net making.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事渔业但执行未归入特定子类（如捕捞、水产养殖或织网）的任务。
 
 
 ---
@@ -13,8 +11,8 @@ Engaged in fishing but performing tasks not classified under specific subcategor
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Fisheries High School | 3年 | $0~$500,000（Public high schools are almost free） |
-| Vocational School (Fisheries/Marine Sciences) | 2 年 | $1,000,000~$2,000,000（Tuition fees, etc.） |
+| 渔业高中 | 3年 | $0~$500,000（公立高中几乎免费） |
+| 职业学校（渔业/海洋科学） | 2 年 | $1,000,000~$2,000,000（学费等） |
 
 ---
 
@@ -22,18 +20,18 @@ Engaged in fishing but performing tasks not classified under specific subcategor
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Small Vessel Operator License | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for operating fishing boats |
-| Fisheries Radio Operator Qualification | Ministry of Internal Affairs and Communications | 必备 | Needed for radio communication duties |
-| Marine Engineer License (Fishing) | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Mandatory for large fishing vessels |
+| 小型船舶操作员执照 | 国土交通省 | 必备 | 操作渔船所需 |
+| 渔业无线电操作员资格 | 总务省 | 必备 | 无线电通信职责所需 |
+| 渔船轮机员执照 | 国土交通省 | 可选 | 大型渔船强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 12,000. The number of fishery workers is declining, but there is steady demand due to aging. Shortage of workers in coastal fisheries is a challenge.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 12,000。渔业工人数量在减少，但由于老龄化，需求稳定。沿海渔业劳动力短缺是一个挑战。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,83 @@ Engaged in fishing but performing tasks not classified under specific subcategor
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,500,000~$3,500,000 | Annual income example, commission based on catch |
-| Mid-level (4-9 years) | $3,500,000~$5,000,000 | Varies by experience and position |
-| Senior-level (10+ years) | $4,500,000~$7,000,000 | Captain/manager level |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 年收入示例，按渔获量计提佣金 |
+| 中级（4-9年） | $3,500,000~$5,000,000 | 因经验和职位而异 |
+| 高级（10年以上经验） | $4,500,000~$7,000,000 | 船长/经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI/automation (fish finders, auto-steering, etc.) improve some tasks, but many tasks like gear handling and fish processing remain labor-dependent, making full substitution difficult.
+AI/自动化（鱼探仪、自动驾驶等）改善了一些任务，但许多任务如渔具处理和鱼类加工仍依赖人力，完全替代困难。
 
-The path to becoming a skilled fisherman is long, taking over 10 years to independence. Experience at fisheries cooperatives or companies, plus boat licenses and fishing rights, are needed.
+成为熟练渔夫的路径漫长，需10年以上才能独立。需有渔业合作社或公司经验，以及船舶执照和捕捞权。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Fish finding
-- Voyage planning optimization
+- 鱼类探测
+- 航行计划优化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Catch data analysis
-- Determining net placement locations
+- 捕获数据分析
+- 确定净布放位置
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual adjustment and repair of fishing gear
-- Experiential judgment of weather and sea conditions
-- Fish species identification and quality assessment
+- 渔具的手动调整和修理
+- 凭经验判断天气和海况
+- 鱼类物种识别与质量评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Marine data analysis
-- Fisheries ICT equipment operation
-- Aquaculture technology
+- 海洋数据分析
+- 渔业ICT设备操作
+- 水产养殖技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fisheries resource management
-- Aquaculture technology
-- Fisheries successors
-- Smart fisheries
+- 渔业资源管理
+- 水产养殖技术
+- 渔业继承人
+- 智慧渔业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fishery)) | Eligible to work in fishery sector; max stay 5 years |
-| Subclass 技能実習 (Technical Intern Training (Fishery)) | Skills transfer; max 5 years |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Fishery engineers, etc., advanced knowledge required |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those confident in physical strength
-- Those who love nature and are patient
-- Those who don't mind early morning/night shifts
+- 体力充沛者
+- 热爱自然且有耐心的人
+- 不介意早班/夜班者
 
 **谁不适合**
-- Those who desire a regular lifestyle
-- Those who prefer land-based work
+- 追求规律生活的人
+- 偏好陆上工作者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of fishery workers?**
-答：2.5-3.5M JPY in first year, over 5M possible with experience. Varies greatly with catch.
+**问：渔业从业者平均年收入是多少？**
+答：第一年250-350万日元，有经验可达500万日元以上，视捕捞情况波动很大。
 
-**问：How can foreigners work in fishery?**
-答：The main routes are Specified Skilled Worker (i) (Fisheries) or Technical Intern Training. JLPT N4 level required.
+**问：外国人如何在渔业工作？**
+答：主要途径是特定技能工人(i)（渔业）或技能实习培训。需要JLPT N4水平。
 
-**问：How to become independent in fisheries?**
-答：A boat license, fishing rights acquisition, and fishing boat purchase funds are needed. Joining a fisheries cooperative is often required.
+**问：如何在渔业中实现独立？**
+答：需要船舶执照、捕鱼权获取和渔船购买资金。通常需要加入渔业合作社。
 
 
 ---
@@ -143,12 +133,12 @@ The path to becoming a skilled fisherman is long, taking over 10 years to indepe
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-fishery-workers/JP)**

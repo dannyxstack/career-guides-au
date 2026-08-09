@@ -52,8 +52,6 @@ This occupation involves operating and managing machines that produce electrical
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation are replacing some simple repetitive tasks, but areas requiring human judgment, such as equipment maintenance and quality control, remain. Consequently, the workforce may shrink but is not expected to be completely replaced.
-
 Starting as an entry-level operator, one can advance to skilled worker, team leader, or production manager; obtaining certifications and job training are important career paths.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Starting as an entry-level operator, one can advance to skilled worker, team lea
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Eligible via Employment Permit System for manufacturing production jobs; can extend stay after 3 years |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued for skilled workers; eligible for permanent residence after 5 years |
-| Subclass F-2 (F-2 (Residence)) | Obtainable after long-term stay on E-7 etc.; no employment restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans aged 25+; eligible for manufacturing production jobs |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +136,12 @@ A: Obtaining certifications (e.g., electrician), improving productivity, and com
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-component-and-product-production-machine-operator/KR)**

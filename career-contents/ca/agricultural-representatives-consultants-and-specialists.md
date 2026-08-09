@@ -52,8 +52,6 @@ Agronomists in Canada, as agricultural experts, advise farms and agribusinesses 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will systematically enhance agronomists' abilities in data analysis, precision agriculture, and report generation, but interpersonal consulting, field judgment, and accountability remain hard to replace, showing a dual impact of 'amplifying key skills and compressing routine tasks'.
-
 Initial role as agricultural advisor or crop specialist; can advance to senior advisor, project manager, or farm operations supervisor. Also possible to transition to agritech, R&D, or policy consulting.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Initial role as agricultural advisor or crop specialist; can advance to senior a
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually requires a bachelor's degree in agriculture, crop science, or a relat
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-representatives-consultants-and-specialists/CA)**

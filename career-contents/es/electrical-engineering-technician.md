@@ -52,8 +52,6 @@ Electrical engineering technicians are responsible for designing, installing, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electrical and electronics engineering technician roles will not be replaced by AI; instead, they will be greatly enhanced by AI tools. However, entry-level administrative and testing tasks will be automated, requiring mastery of new technologies.
-
 Initially, you can start as a junior technician or FP-related specialty, and after gaining experience, you can be promoted to senior technician, project supervisor, or engineering manager. Alternatively, students can transition to electrical engineering by supplementing their academic qualifications, or specialize in high value-added fields such as renewable energy and smart building systems.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Initially, you can start as a junior technician or FP-related specialty, and aft
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for positions with a bachelor's degree and an annual salary of 33,908 euros (2024 standard), eligible for EU Blue Card and quick conversion to long-term residence. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals; salary requirement around €35,000+; process convenient; spouse can accompany and work. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish company requires proof that the position is difficult to fill in the local market, commonly in shortage occupations. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: The Spanish official FP degree is recognized by the European Union, but in Ch
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/ES)**

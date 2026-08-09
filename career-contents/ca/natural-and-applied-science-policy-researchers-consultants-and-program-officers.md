@@ -51,8 +51,6 @@ Provide policy research, evaluation, and strategic advice in natural sciences an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance data analysis and report writing efficiency, but policy judgment, stakeholder coordination, and decision-making under uncertainty remain core human areas; overall, it's a mixed blessing.
-
 Starting as a junior researcher or project assistant, you can progress to senior policy analyst, project manager, or department head after gaining experience. Some transition to academia or international organizations.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Starting as a junior researcher or project assistant, you can progress to senior
 | Subclass PNP (Provincial Nominee Program) | Provinces have Provincial Nominee Programs targeting tech or innovation sectors |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can serve as a pathway to immigration |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually requires a bachelor's degree in science, engineering, or public polic
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-and-applied-science-policy-researchers-consultants-and-program-officers/CA)**

@@ -54,8 +54,6 @@ Supervise production manufacturing and assembly processes, coordinate operator w
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Production supervisors' oversight duties are hard to fully automate, but AI in data monitoring, quality inspection and scheduling optimization significantly reduces junior operational roles; existing management tasks are enhanced rather than replaced.
-
 Can advance from production line operator to supervisor, then to production manager or plant operations director, requiring accumulation of management experience.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from production line operator to supervisor, then to production mana
 | Subclass Scale-up (Scale-up visa) | Suitable for rapidly growing companies; high skills must be demonstrated |
 | Subclass Graduate (Graduate visa) | Can stay and work in the UK for 2 years after graduation |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires management experience, production process knowledge, quality control
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-factory-and-assembly-supervisors/UK)**

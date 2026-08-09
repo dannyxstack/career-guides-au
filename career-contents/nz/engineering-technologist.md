@@ -53,8 +53,6 @@ Engineering technicians in New Zealand apply engineering principles to assist en
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Engineering technicians face mixed AI impact: routine testing and documentation tasks are automated, but tasks relying on experience like on-site troubleshooting and design verification require human intervention. Industry demand is stable, but competition for entry-level positions intensifies.
-
 Can progress from junior technician to senior technician or project manager; with experience, can obtain Chartered Professional Engineer (CPEng) qualification or specialize in structural, mechanical, or electrical engineering.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from junior technician to senior technician or project manager; wit
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Registration (ENZ) is not mandatory but beneficial for career development and
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-technologist/NZ)**

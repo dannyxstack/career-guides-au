@@ -1,10 +1,8 @@
-# Loss Adjuster 职业分析 · 韩国
+# 损失理算师（Loss Adjuster）职业分析 · 韩国
 
-**职业代码: 03151 (KECO)**
+**职业代码：03151 (KECO)**
 
-A professional who investigates and assesses the amount of damage in insurance incidents and determines insurance payments, responsible for fair compensation and the soundness of the insurance company.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+调查评估保险事故损失金额并确定赔付的专业人员，负责公平理赔和保险公司稳健运营。
 
 
 ---
@@ -13,7 +11,7 @@ A professional who investigates and assesses the amount of damage in insurance i
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Professional Certification (Nationally Recognized) | 2 Years | $5,000,000~$8,000,000（Includes tuition and textbook costs） |
+| 专业认证（国家认可） | 2年 | $5,000,000~$8,000,000（包括学费和教材费用） |
 
 ---
 
@@ -21,17 +19,17 @@ A professional who investigates and assesses the amount of damage in insurance i
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Loss Adjuster (Type 1, 2, 3) | Financial Supervisory Service | 必备 | Type 3 (General) required first, then upgrade to Types 2 and 1 sequentially |
-| 精算师 | Financial Supervisory Service | 可选 | Synergy effect when pursued alongside loss adjustment |
+| 损失理算师（类型1、2、3） | 金融监督院 | 必备 | 先需获得3类（通用），然后依次升级至2类和1类 |
+| 精算师 | 金融监督院 | 可选 | 与损失评估协同效应 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 12,000. Demand is steady due to the growth of the insurance industry and increases in natural disasters and traffic accidents; the aging population is also expected to increase demand for long-term loss adjustment, but new entry is limited due to the quota system.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 12,000。由于保险业增长、自然灾害和交通事故增加，需求稳定；老龄化人口预计将增加长期理赔需求，但配额制度限制了新进入者。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +37,86 @@ A professional who investigates and assesses the amount of damage in insurance i
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0-3 Years) | $35,000,000~$45,000,000 | Based on loss adjustment firms |
-| Mid-level (4-9 Years) | $50,000,000~$70,000,000 | Based on in-house at general insurance companies |
-| Senior (10+ Years) | $80,000,000~$99,999,999 | Based on Type 1 Loss Adjuster, Independent Adjuster |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于损失理算公司 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 基于一般保险公司内设 |
+| 高级（10年以上） | $80,000,000~$99,999,999 | 基于第一类损失理算师、独立理算师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI boosts productivity by assisting in simple damage calculations and document review, but the role of human adjusters will become more critical in areas requiring professional judgment such as field investigations, legal interpretation, and negotiation
+AI通过协助简单的损失计算和文件审查提高生产力，但在现场调查、法律解释和谈判等需要专业判断的领域，人类理赔员的作用将更加关键。
 
-After joining a large loss adjustment firm or an insurance company's loss adjustment department, one can advance through experience levels (junior → mid-level → senior), upgrade qualifications, or develop a specialty to work as an independent adjuster.
+加入大型理赔公司或保险公司的理赔部门后，可通过经验级别（初级→中级→高级）、升级资格或发展专长成为独立理算员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple loss calculation
-- Standard document review
-- Initial document receipt and classification
+- 简单损失计算
+- 标准文件审查
+- 初始文件接收与分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precise loss estimation for complex accidents
-- Insurance fraud detection
-- Role division with medical and legal experts
+- 复杂事故的精确损失估算
+- 保险欺诈检测
+- 与医疗和法律专家的角色分工
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site investigation and evidence collection
-- Insurance claim dispute negotiation and arbitration
-- Cross-validation with legal and medical experts
+- 现场调查与证据收集
+- 保险理赔争议谈判与仲裁
+- 与法律和医学专家进行交叉验证
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis tools
-- Use of AI-assisted systems
-- Specialized legal and medical knowledge
+- 数据分析工具
+- 使用人工智能辅助系统
+- 专业法律和医学知识
 - 沟通与谈判技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in natural disasters
-- Long-term damages due to aging population
-- Digital claims adjustment platforms
-- Specialization of professional fields
+- 自然灾害增加
+- 人口老龄化导致的长期损害
+- 数字理赔调整平台
+- 专业领域专门化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to insurance/finance professionals, but a Korean license is required, making employment opportunities limited. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and logical person
-- Person interested in acquiring diverse knowledge such as law, medicine, engineering
-- Person who is not averse to visiting insurance accident scenes
+- 注重细节、逻辑性强的人
+- 对获取法律、医学、工程等多领域知识感兴趣的人
+- 不排斥前往保险事故现场的人
 
 **谁不适合**
-- Person who dislikes repetitive document work
-- Person who cannot tolerate conflict with customers
+- 不喜欢重复性文件工作的人
+- 无法容忍与客户冲突的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a claims adjuster?**
-答：Entry-level: 35-45 million KRW, mid-level: 50-70 million KRW, senior: 80-120 million KRW
+**问：理赔员的平均工资是多少？**
+答：入门级：3500-4500万韩元，中级：5000-7000万韩元，高级：8000-1.2亿韩元
 
-**问：Can a foreigner work as a claims adjuster in Korea?**
-答：Possible with an E-7 visa, but requires Korean language proficiency and obtaining a Korean license, making it very challenging in practice
+**问：外国人可以在韩国担任理赔员吗？**
+答：可能通过E-7签证，但要求韩语能力并获取韩国驾照，实际非常困难
 
-**问：What steps are needed to become a claims adjuster?**
-答：Must pass the national licensed claims adjuster exam by the Financial Supervisory Service, then get hired by an insurance company or claims adjustment firm
+**问：成为理赔员需要哪些步骤？**
+答：必须通过金融监督院的国家损失理赔师考试，然后被保险公司或理赔公司聘用。
 
 
 ---
@@ -142,12 +134,12 @@ After joining a large loss adjustment firm or an insurance company's loss adjust
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/loss-adjuster/KR)**

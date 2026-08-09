@@ -4,8 +4,6 @@
 
 High school teachers are education professionals who provide subject instruction, career guidance, and life guidance to high school students. Based on the Courses of Study, they support student growth through classes, homeroom, and club activities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ High school teachers are education professionals who provide subject instruction
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used to support lessons (material creation, grading assistance) and optimize individualized learning, but the importance of dialogue and guidance by human educators remains unchanged, making full replacement difficult.
-
 After obtaining a teaching license, public school teachers must pass recruitment exams, while private schools require applications. Career paths include promotion to head teacher, vice principal, principal, or positions on the board of education.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ After obtaining a teaching license, public school teachers must pass recruitment
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when a foreigner teaches at a Japanese high school. However, a teaching license is required, and work experience or academic background is needed. |
-| Subclass 教育 (Professor) | For university-level institutions, but rare in high schools. Applied in special cases. |
-| Subclass 特定活動（外国人教師） (Designated Activities (Foreign Teacher)) | Limited to employment at international schools or specific programs. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: It's not easy. With little work experience outside of education, switching to
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/high-school-teacher/JP)**

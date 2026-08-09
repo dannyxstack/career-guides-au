@@ -52,8 +52,6 @@ Responsible for supervising construction sites and transport equipment operation
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Supervisory and coordination tasks are harder to automate, but AI will take over scheduling, reporting, and safety monitoring; the role will be affected but not fully replaced.
-
 Can advance from equipment operator to supervisor, then to construction manager or project leader; further education can broaden to safety management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from equipment operator to supervisor, then to construction manager 
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paying positions, with an annual salary threshold of approximately €58,400 (2024). |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, allows job-seeking in Germany for one year, subject to basic conditions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires a German-recognized qualification, achievable through a skilled work
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-construction-and-transport-equipment-operation/DE)**

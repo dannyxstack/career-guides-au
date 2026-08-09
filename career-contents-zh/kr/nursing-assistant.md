@@ -1,10 +1,8 @@
-# Nursing Assistant 职业分析 · 韩国
+# 护理助理（Nursing Assistant）职业分析 · 韩国
 
-**职业代码: 30751 (KECO)**
+**职业代码：30751 (KECO)**
 
-A specialized medical professional who performs patient care, medical assistance, specimen collection, and other medical tasks under the guidance of a doctor or nurse.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在医生或护士指导下，执行患者护理、医疗辅助、标本采集及其他医疗任务的专业医疗人员。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized medical professional who performs patient care, medical assistance
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Nursing Assistant Training Course | 1年 | $3,000,000~$6,000,000（National specialized qualification course, academy or vocational training） |
-| 高中毕业 | 3年 | $0~$0（Mandatory education, not required） |
+| 护理助理培训课程 | 1年 | $3,000,000~$6,000,000（国家专业资格课程，学院或职业培训） |
+| 高中毕业 | 3年 | $0~$0（义务教育，非必需） |
 
 ---
 
@@ -22,16 +20,16 @@ A specialized medical professional who performs patient care, medical assistance
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nursing Assistant National Certificate | Korea Health Personnel Licensing Examination Institute | 必备 | Required certificate, written and practical exam |
+| 护理助理国家证书 | 韩国保健医疗人国家考试院 | 必备 | 所需证书、笔试和实践考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Due to aging population and increasing medical demand, employment of nursing assistants is expected to steadily grow. Demand in nursing homes and home care outside hospitals is rising.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。由于人口老龄化和医疗需求增加，护理助理的就业预计将稳步增长。养老院和院外家庭护理的需求正在上升
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,90 +37,83 @@ A specialized medical professional who performs patient care, medical assistance
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $24,000,000~$30,000,000 | Pre-tax annual salary, varies by hospital size |
-| Mid Level (3–7 years) | $30,000,000~$36,000,000 | Includes annual leave allowance |
-| Senior Level (7+ years) | $36,000,000~$45,000,000 | Lead nursing assistant, etc. |
+| 入门级（0–3年） | $24,000,000~$30,000,000 | 税前年薪，因医院规模而异 |
+| 中级（3–7年） | $30,000,000~$36,000,000 | 包含年假津贴 |
+| 高级（7年以上） | $36,000,000~$45,000,000 | 首席护理助理等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Despite AI advancement, nursing assistant duties such as face-to-face care, clinical judgment, and emotional exchange are difficult for AI to replace. Some administrative tasks may be automated, but the core role remains.
+尽管人工智能发展，护理助理的面对面护理、临床判断和情感交流等职责难以被AI替代。部分行政工作可能自动化，但核心角色不变。
 
-After obtaining a nursing assistant certificate, employment is possible in long-term care hospitals, general hospitals, clinics, etc. With experience, promotion to lead nursing assistant, training supervisor, etc., is possible. Transition to registered nurse is also possible.
+获得护理助理证书后，可在长期护理医院、综合医院、诊所等就业。有经验后可晋升为主管护理助理、培训主管等。也可转为注册护士。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Sorting medical records
-- Labeling specimens
+- 整理病历
+- 标注标本
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Patient monitoring
-- Medication assistance
+- 患者监护
+- 药物协助
 
-**人类护城河:**
+**人类护城河：**
 
-- Personal care
-- Emotional empathy
-- Physical interventions
+- 个人护理
+- 情感共情
+- 物理干预
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Infection control
-- Geriatric nursing
-- Communication
-- End-of-life care
+- 感染控制
+- 老年护理
+- 通信
+- 临终关怀
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Long-term care hospitals
-- Home nursing
-- Aging population
-- Nursing workforce
+- 长期护理医院
+- 居家护理
+- 人口老龄化
+- 护理劳动力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled workers; nursing assistants may fall under E-7-1 but limited |
-| Subclass F-2 (F-2 (Residence)) | Possible as a path to permanent residence but requires employment link |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are patient and interested in patient care
-- People who value teamwork and have good physical strength
+- 有耐心并对患者护理感兴趣的人
+- 重视团队合作且体力好的人
 
 **谁不适合**
-- People who are uncomfortable handling blood or wounds
-- People who dislike night shifts or shift work
+- 不擅长处理血液或伤口的人
+- 不喜欢夜班或轮班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a nursing assistant?**
-答：Entry-level about 24–30 million won; with experience, up to 45 million won.
+**问：护理助理的平均年薪是多少？**
+答：入门级约2400-3000万韩元；有经验可达4500万韩元。
 
-**问：Can foreigners work as nursing assistants?**
-答：Possible with an E-7 visa, but Korean language proficiency and certification are required, and visa issuance is limited.
+**问：外国人可以做护理助理吗？**
+答：可持E-7签证，但需韩语能力和认证，且签证发放有限。
 
-**问：How do you obtain a nursing assistant certificate?**
-答：Must complete a 1-year course at a designated educational institution and pass the exam of the Korean Health Personnel Licensing Examination Institute.
+**问：如何获得护理助理证书？**
+答：必须在指定教育机构完成1年课程并通过韩国保健医疗人员国家考试院考试。
 
 
 ---
@@ -140,12 +131,12 @@ After obtaining a nursing assistant certificate, employment is possible in long-
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nursing-assistant/KR)**

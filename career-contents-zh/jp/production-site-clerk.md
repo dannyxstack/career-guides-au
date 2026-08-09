@@ -1,10 +1,8 @@
-# Production Site Clerk 职业分析 · 日本
+# 生产现场文员（Production Site Clerk）职业分析 · 日本
 
-**职业代码: 271 (JSCO)**
+**职业代码：271 (JSCO)**
 
-A role responsible for clerical tasks at factory production sites, such as material procurement, inventory management, process control, and attendance management.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责工厂生产现场文职工作，如物料采购、库存管理、工序控制和考勤管理。
 
 
 ---
@@ -13,8 +11,8 @@ A role responsible for clerical tasks at factory production sites, such as mater
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（After compulsory education, public high school tuition is effectively free.） |
-| Vocational School (Business) | 2 年 | $1,000,000~$2,000,000（When studying production management or bookkeeping.） |
+| 高中 | 3年 | $0~$0（义务教育后，公立高中学费基本免费。） |
+| 职业学校（商务） | 2 年 | $1,000,000~$2,000,000（学习生产管理或簿记时。） |
 
 ---
 
@@ -22,18 +20,18 @@ A role responsible for clerical tasks at factory production sites, such as mater
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nissho Bookkeeping Level 2 | The Japan Chamber of Commerce and Industry | 可选 | Useful for cost management and inventory valuation. |
-| Production Management Operations Certification | Japan Production Management Association | 可选 | Proof of knowledge in production planning and process control. |
-| MOS (Microsoft Office Specialist) | Microsoft | 可选 | Proof of skills in Excel and Access. |
+| 日商簿记2级 | 日本商工会议所 | 可选 | 有助于成本管理和库存估价。 |
+| 生产管理运营认证 | 日本生产管理协会 | 可选 | 生产计划与过程控制知识证明 |
+| MOS（微软办公软件国际认证） | Microsoft | 可选 | Excel和Access技能证明。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 200,000. As manufacturing digitization progresses, clerical work is becoming systemized, but there is persistent demand for tasks requiring on-site coordination and interpersonal skills.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 200,000。随着制造业数字化推进，文书工作逐渐系统化，但需要现场协调和人际交往能力的岗位需求持续存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,90 +39,83 @@ A role responsible for clerical tasks at factory production sites, such as mater
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,800,000~$3,500,000 | Annual salary, small to medium-sized manufacturing companies. |
-| 中级 (3-7年) | $3,500,000~$4,500,000 | Production management system operation skills are factored in. |
-| Advanced (7+ years) | $4,500,000~$5,500,000 | Chief level, on-site coordination skills are important. |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 年薪，中小型制造企业。 |
+| 中级 (3-7年) | $3,500,000~$4,500,000 | 生产管理系统操作技能纳入考量。 |
+| 高级（7年以上） | $4,500,000~$5,500,000 | 首席级别，现场协调技能很重要。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-The work of production site clerical staff is susceptible to automation by production management systems, RPA, and AI. Routine tasks such as inventory management and data entry are increasingly automated, but on-site coordination and handling abnormalities remain human roles.
+生产现场文员的工作容易受到生产管理系统、RPA和AI的自动化影响。库存管理和数据录入等常规任务日益自动化，但现场协调和处理异常情况仍需要人力。
 
-Career advancement is possible with production management system operation skills and site understanding. Future promotion to production management or quality management positions is possible.
+掌握生产管理系统操作技能并了解现场情况，可实现职业发展。未来可晋升至生产管理或质量管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual entry of inventory data
-- Creating and sending purchase orders
-- Aggregating attendance data
-- Organizing and compiling daily reports
+- 手动录入库存数据
+- 创建和发送采购订单
+- 汇总考勤数据
+- 整理和汇编日常报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Simulating production plans
-- Automatic detection and notification of anomalies
-- Data analysis for operational efficiency
+- 模拟生产计划
+- 自动检测和通知异常
+- 运营效率数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Coordination skills with understanding of on-site issues
-- Interpersonal communication
-- Flexible response
+- 理解现场问题的协调能力
+- 人际沟通
+- 灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operational skills for production management systems
-- Data analysis (e.g., BI tools)
-- Ability to propose improvements to business processes
+- 生产管理系统的操作技能
+- 数据分析（如BI工具）
+- 业务流程改进建议能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Manufacturing work efficiency improvement
-- Production Management System
-- Inventory Optimization
-- On-site Communication
+- 制造工作效率提升
+- 生产管理系统
+- 库存优化
+- 现场沟通
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For clerical roles, a university degree or 10+ years of practical experience is required. Production site clerical work may qualify by job type, but actual application is limited. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | In the three manufacturing fields (metal materials, industrial machinery, electrical/electronic information), clerical work alone is excluded. It may qualify when combined with site work. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and good at clerical work
-- Able to understand site situations and has coordination skills
-- Likes PC operations such as Excel
+- 细致且擅长文书工作
+- 能理解现场情况并具备协调能力
+- 喜欢Excel等PC操作的人
 
 **谁不适合**
-- Easily bored with monotonous tasks
-- Not good at talking with people
+- 容易对单调任务感到厌倦
+- 不擅长与人交谈
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for production site clerks?**
-答：Annual income varies by experience and company size; entry-level is about 2.8–3.5 million JPY, mid-level 3.5–4.5 million JPY. It is average for clerical jobs in manufacturing.
+**问：生产现场文员的薪资水平是多少？**
+答：年收入因经验和公司规模而异；入门级约280-350万日元，中级350-450万日元。在制造业的文书工作中属于平均水平。
 
-**问：Is it possible for foreigners to work in this occupation?**
-答：For the Engineer/Specialist in Humanities/International Services visa, a university degree or work experience is required, and purely clerical roles may be difficult. Combining with manufacturing sites may allow Specified Skilled Worker (i), but it is limited.
+**问：外国人可以从事这个职业吗？**
+答：对于技术·人文知识·国际业务签证，需要大学学历或工作经验，纯粹的事务性工作可能困难。与制造现场结合可能适用特定技能(i)，但有限制。
 
 
 ---
@@ -142,12 +133,12 @@ Career advancement is possible with production management system operation skill
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/production-site-clerk/JP)**

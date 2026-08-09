@@ -51,8 +51,6 @@ Employment agents and contractors are responsible for recruiting staff for emplo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance tasks like resume screening and contract management, improving efficiency, but core activities such as networking, trust-building, and complex negotiations are hard to replace; overall risk is manageable, but entry barriers are raised by AI.
-
 Can progress from Junior Recruitment Consultant to Senior Consultant, Team Manager, or transition into HR and Business Development.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can progress from Junior Recruitment Consultant to Senior Consultant, Team Manag
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-education or high-skill positions requiring employer sponsorship, with an annual salary threshold of approximately 50,000 euros. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talents, requires employment contract, annual salary threshold approx. €56,000. |
-| Subclass Orientation Year (Orientation Year) | For international graduates in the Netherlands, allowing one year to find a job with no salary requirement. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Generally requires secondary vocational education or above, with a background
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/employment-agent-and-contractor/NL)**

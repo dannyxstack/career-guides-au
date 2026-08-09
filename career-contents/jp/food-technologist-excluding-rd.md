@@ -4,8 +4,6 @@
 
 A professional responsible for quality control and sanitation management in food manufacturing processes to ensure stable supply of safe, high-quality products.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional responsible for quality control and sanitation management in food
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used for analyzing and predicting quality control data, but on-site judgment and sanitation management remain human roles. AI improves operational efficiency, enhancing the value of food technologists.
-
 Opportunities range from small factories to major manufacturers. Career advancement possible through HACCP certification. Path to management or specialized consulting.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Opportunities range from small factories to major manufacturers. Career advancem
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires knowledge equivalent to a university degree. Applicable to work as a food engineer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food Service Industry)) | Not applicable, but possible in related fields. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: It would be good to aim for acquiring qualifications such as HACCP manager an
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-technologist-excluding-rd/JP)**

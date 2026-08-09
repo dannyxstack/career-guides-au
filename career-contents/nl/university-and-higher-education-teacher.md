@@ -4,8 +4,6 @@
 
 University lecturers teach undergraduate and postgraduate courses at higher education institutions such as universities and colleges, while conducting academic research and publishing results. Responsibilities include preparing lessons, teaching, supervising theses, assessing student performance, serving on academic committees, and applying for research grants.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ University lecturers teach undergraduate and postgraduate courses at higher educ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Typical path: Postdoctoral Researcher → Assistant Professor (Universitair Docent, UD) → Associate Professor (Universitair Hoofddocent, UHD) → Full Professor. Promotion depends mainly on research output, teaching evaluations, and ability to secure third-party funding. Most entry-level positions are temporary contracts.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Typical path: Postdoctoral Researcher → Assistant Professor (Universitair Doce
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to PhD students or researchers with a job offer, with a lower salary threshold (approx. €3,000/month). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-salary positions (2024 threshold approx. €5,331/month), can bring family members and apply for permanent residence quickly. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Criteria mainly based on research publications, teaching evaluations, social 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-and-higher-education-teacher/NL)**

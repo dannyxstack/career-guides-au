@@ -52,8 +52,6 @@ Sheet metal workers in New Zealand mainly cut, shape, and install sheet metal pr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 Junior sheet metal workers usually start as apprentices and become skilled after 4 years. With experience, they can advance to foreman or project supervisor, or choose self-employment or start a small sheet metal company. After certification, they may also transition to design or evaluation roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sheet metal workers usually start as apprentices and become skilled after
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: through a 6-point system (qualifications + work experience), requiring hourly wage at the median. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: suitable for working first on a work visa, then transitioning to residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 4-year apprenticeship and obtaining a New Zea
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheetmetal-trades-worker/NZ)**

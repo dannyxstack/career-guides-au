@@ -55,8 +55,6 @@ Pharmacy managers oversee pharmacy operations, including drug procurement, inven
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance pharmacy managers' supply chain management, prescription review, and compliance monitoring capabilities, but the core legal and liability aspects are hard to replace; be alert to entry-level tech roles being compressed by automation.
-
 Progress from pharmacist to pharmacy manager, and further to regional manager, pharmacy chain executive, or open your own pharmacy. Continuing education (e.g., Master of Pharmacy Management) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Progress from pharmacist to pharmacy manager, and further to regional manager, p
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows 6 months in Germany to search for a job, requiring a degree and German language skills |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, new policy in 2024, suitable for job seekers without a specific offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, German pharmacists have a continuing education obligation (Fortbildungsp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-manager/DE)**

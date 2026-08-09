@@ -54,8 +54,6 @@ Electorate officers provide administrative and policy support to MPs or politica
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can significantly enhance administrative paperwork, voter data analysis, and communication coordination for constituency officials, but core politically sensitive decisions and voter trust building still require humans; career prospects are optimistic.
-
 Career path starts as administrative assistant, can advance to senior electoral officer, office manager, or policy advisor. Some move to party positions or run for parliament; requires strong political sensitivity and communication skills.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path starts as administrative assistant, can advance to senior electoral 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree in political science, public administr
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electorate-officer/AU)**

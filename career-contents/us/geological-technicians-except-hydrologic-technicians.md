@@ -52,8 +52,6 @@ Assist scientists or engineers using electronic, acoustic, or nuclear measuremen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 From junior technician can advance to senior technician or project supervisor; some transition to geological engineer. Requires on-site experience and professional certification; holding a license or degree boosts competitiveness for management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ From junior technician can advance to senior technician or project supervisor; s
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, suitable for technicians with 2+ years experience or a degree. |
 | Subclass TN (TN NAFTA Professionals) | Mexican or Canadian citizens working as geological technicians must meet NAFTA occupational list requirements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to senior technician, project supervisor, or geological engineer.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geological-technicians-except-hydrologic-technicians/US)**

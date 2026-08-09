@@ -4,8 +4,6 @@
 
 Engage in mixed subsistence farming, growing crops and raising livestock, mainly for own consumption with a small amount sold.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engage in mixed subsistence farming, growing crops and raising livestock, mainly
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Subsistence mixed farmers face job displacement risks due to AI automation, but the impact is relatively mild due to their self-sufficient nature.
-
 Limited career progression paths, with most practitioners maintaining the status quo or transitioning to commercial farms, agricultural cooperatives, or related service industries. Some may move into organic farming or community-supported agriculture.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Limited career progression paths, with most practitioners maintaining the status
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Freedom of Movement) | EU citizens can work and live in the Netherlands freely without additional visas. |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +136,12 @@ A: Very difficult. Non-EU citizens need a self-employment visa and must prove a 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-mixed-crop-and-livestock-farmer/NL)**

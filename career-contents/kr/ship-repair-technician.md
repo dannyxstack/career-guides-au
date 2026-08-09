@@ -50,8 +50,6 @@ This occupation involves inspecting, maintaining, and repairing various equipmen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation cannot completely replace ship maintenance work, but they are improving work efficiency through diagnostic equipment and predictive maintenance systems. Repair workers become more valuable with precise diagnostic skills using AI tools.
-
 Starting as a junior technician, one can advance to foreman, process manager, or ship inspector with experience, and overseas field experience is advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a junior technician, one can advance to foreman, process manager, or
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Available for skilled workers with relevant experience and certification |
-| Subclass E-9 (Non-professional Employment Visa) | Limited to non-professional workers; ship repair is a specialized field, preferring E-7 |
-| Subclass F-2 (Residence Visa) | Long-term residents can work; skilled workers receive extra points |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: High school graduation or higher is sufficient, and majors in specialized hig
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-repair-technician/KR)**

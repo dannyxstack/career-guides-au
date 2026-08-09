@@ -54,8 +54,6 @@ Preside over hearings, make recommendations or decisions on claims regarding gov
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on administrative law judges is mixed: routine paperwork and evidence organization can be automated, but legal reasoning, discretion, and public hearings in rulings still require human input; jobs will not disappear, but entry barriers may rise.
-
 Usually start as a lawyer or legal advisor, gain experience to become an administrative law judge or hearing officer. Some positions can be promoted through federal or state government; senior roles require years of judicial or administrative experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as a lawyer or legal advisor, gain experience to become an adminis
 | Subclass O-1 (O-1 Extraordinary Ability) | For very few outstanding legal talents |
 | Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based) | PERM labor certification is difficult because this occupation typically requires a U.S. legal background |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a Juris Doctor (JD) degree and passing the state bar exam.
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-law-judges-adjudicators-and-hearing-officers/US)**

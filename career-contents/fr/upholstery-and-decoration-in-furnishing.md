@@ -4,8 +4,6 @@
 
 Furniture decorators are responsible for restoring, making, and decorating furniture, including refurbishing and customizing upholstered furniture such as sofas and chairs, as well as creating interior decorations such as curtains and cushions. The work involves handicraftsmanship and creative design, commonly found in high-end custom workshops or furniture repair shops.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Furniture decorators are responsible for restoring, making, and decorating furni
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Furniture decorators face AI-driven task breakdown and software enhancements; design drafting and material estimation are digitized, but delicate operations like manual sewing and frame shaping are hard to replace, resulting in mixed outcomes.
-
 Career development usually begins after CAP apprenticeship or BTS graduation, with promotion paths including becoming a workshop supervisor, starting a studio, or moving into high-end custom furniture design. Continuous learning about new fabrics and eco-friendly craftsmanship helps with promotion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Career development usually begins after CAP apprenticeship or BTS graduation, wi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Must obtain a work contract with a French employer, with wages not lower than the minimum standard. This occupation is not preferred and requires proof of labor market testing. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you are a highly skilled craftsman, artist, or entrepreneur, you can apply for a talent passport, which requires higher achievements or income. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The most common pathway is to complete CAP (2 years of apprenticeship) or Bac
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/upholstery-and-decoration-in-furnishing/FR)**

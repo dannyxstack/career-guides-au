@@ -50,8 +50,6 @@ This occupation involves operating and maintaining heating, cooling, and air con
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have been introduced, but actual on-site operation and maintenance require human judgment and skill. While smart building systems automate some monitoring, human intervention remains crucial for diagnosing and repairing mechanical failures.
-
 Starting as an entry-level operator, one can advance to HVAC manager or site supervisor after 5–10 years of experience. It is also possible to transfer to facility management affiliates of large corporations or grow as a technician by obtaining certifications.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Starting as an entry-level operator, one can advance to HVAC manager or site sup
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Issued to unskilled foreign workers, but HVAC operation requires skill so mainly E-7 |
-| Subclass E-7 (Specific Activities (E-7)) | Can be issued as Skilled Worker (E-7-1), requires technician-level certification or higher |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible when converting to points system, skilled trade recognized |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Obtaining a Refrigeration and Air Conditioning Machinery Engineer or Building
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heating-and-cooling-equipment-operator/KR)**

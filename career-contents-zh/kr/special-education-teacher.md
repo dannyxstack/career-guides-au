@@ -1,10 +1,8 @@
 # 特殊教育教师（Special Education Teacher）职业分析 · 韩国
 
-**职业代码: 21231 (KECO)**
+**职业代码：21231 (KECO)**
 
-A professional educator who designs and operates individualized curricula for students with disabilities, providing guidance in learning, daily living, and vocational skills.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专业教育工作者，为残疾学生设计和实施个性化课程，提供学习、日常生活和职业技能指导。
 
 
 ---
@@ -13,8 +11,8 @@ A professional educator who designs and operates individualized curricula for st
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor’s degree in Special Education (teacher training program) | 4年 | $20,000,000~$50,000,000（Varies significantly between national and private universities; scholarships possible.） |
-| Completion of special education teaching certification (non-teacher training program) | 2 年 | $10,000,000~$30,000,000（Graduate School of Education (special education major) or double major） |
+| 特殊教育学士学位（教师培训课程） | 4年 | $20,000,000~$50,000,000（公立和私立大学之间差异显著；可以申请奖学金。） |
+| 完成特殊教育教师资格认证（非师范课程） | 2 年 | $10,000,000~$30,000,000（教育学院（特殊教育专业）或双专业） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional educator who designs and operates individualized curricula for st
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Level 2 Special School (Kindergarten, Elementary, Secondary) Teacher Certificate | Ministry of Education/Provincial Office of Education | 必备 | Pass the certification exam after completing teacher training program |
-| Level 1 Special School Teacher Certificate | Ministry of Education/Provincial Office of Education | 可选 | 3+ years of experience + completion of training |
+| 二级特殊学校（幼儿园、小学、中学）教师证书 | 教育部/道教育厅 | 必备 | 完成教师培训计划后通过认证考试 |
+| 一级特别支援学校教员免许状 | 教育部/道教育厅 | 可选 | 3年以上经验+完成培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 21,500. Continuous hiring is expected due to increased demand for special education (expansion of the Special Education Act for Persons with Disabilities and inclusive education), but may vary depending on financial conditions.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 21,500。由于特殊教育需求增加（《残疾人特殊教育法》扩大及融合教育），预计持续招聘，但可能受财政状况影响。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A professional educator who designs and operates individualized curricula for st
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–5 years) | $35,000,000~$45,000,000 | Salary step system, base pay + allowances |
-| Intermediate (5–15 years) | $45,000,000~$60,000,000 | Increased salary steps, homeroom and special duty allowances |
-| Advanced (15+ years) | $60,000,000~$80,000,000 | Master teacher, vice principal, and position allowances |
+| 初级（0-5年） | $35,000,000~$45,000,000 | 薪资阶梯制，基本工资加津贴 |
+| 中级（5-15年） | $45,000,000~$60,000,000 | 加薪级、班主任津贴及特殊任务津贴 |
+| 高级（15年以上） | $60,000,000~$80,000,000 | 首席教师、副校长及职务津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI plays only a supporting role in special education (generating learning materials, data analysis) and cannot replace human teachers' emotional connection and individualized guidance. Automation risk is very low.
+AI在特殊教育中仅起辅助作用（生成学习材料、数据分析），无法替代人类教师的情感联系和个性化指导。自动化风险极低。
 
-Career paths include private/national/public special schools, special classes in general schools, and special education support centers under district offices of education. Promotion follows: Teacher → Master Teacher → Vice Principal/Principal.
+职业路径包括私立/国立/公立特殊学校、普通学校特教班以及地区教育厅下的特殊教育支援中心。晋升路线：教师→资深教师→副校长/校长。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Grading simple repetitive worksheets
-- Basic data recording (attendance, performance assessment)
+- 批改简单重复的作业
+- 基本数据记录（考勤、绩效评估）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Supporting IEP development
-- Diagnosis and assessment through learning analytics
-- Use of augmentative and alternative communication (AAC) tools
+- 支持个别化教育计划制定
+- 通过学习分析进行诊断与评估
+- 使用辅助与替代沟通（AAC）工具
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional bonding with students with disabilities
-- Behavior intervention and crisis management
-- Family counseling and collaboration
+- 与残障学生的情感纽带
+- 行为干预与危机管理
+- 家庭咨询与合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of special education technology
-- Behavior analysis
-- Interpretation of learning data
-- Augmentative and alternative communication
+- 特殊教育技术应用
+- 行为分析
+- 学习数据解读
+- 辅助与替代沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Integrated Education for Students with Disabilities
-- Individualized Education Plan (IEP)
-- Transition Education (Career/Vocational)
-- Expansion of Special Education Support Personnel
+- 残疾学生综合教育
+- 个别化教育计划（IEP）
+- 过渡教育（职业/职业导向）
+- 特殊教育支持人员扩充
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign teachers may be invited but are highly restricted; rarely issued in special education |
-| Subclass F-2 (F-2 (Residence)) | Long-term visa holders may work and enter the field |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans may also work at some educational institutions (if qualified) |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with understanding and patience for people with disabilities
-- Someone who wants to design personalized education
-- Someone interested in treatment-education collaboration (e.g., speech therapy)
+- 对残障人士有理解和耐心的人
+- 想要设计个性化教育的人
+- 对治疗-教育协作感兴趣的人（例如言语治疗）
 
 **谁不适合**
-- Someone who wants immediate academic achievement
-- Someone who dislikes discrimination against existing teachers
+- 希望立即获得学术成就的人
+- 不认同对现有教师歧视的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting annual salary for a special education teacher?**
-答：For public schools, starting salary (level 1) is about 35-40 million KRW; private schools vary.
+**问：特殊教育教师的起薪年薪是多少？**
+答：公立学校起薪（1级）约3500-4000万韩元；私立学校有所差异。
 
-**问：Can foreigners work as special education teachers in Korea?**
-答：Very difficult. Korean language skills and a special education teaching license are required, and E-7 visas are rarely approved.
+**问：外国人可以在韩国担任特殊教育教师吗？**
+答：非常困难。需要韩语能力和特殊教育教学执照，且E-7签证极少获批。
 
-**问：Do I have to attend a college of education to become a special education teacher?**
-答：College of Education's special education department is most common, but you can also double major in teaching (special education) at a general university or obtain certification through a graduate school of education.
+**问：要成为特殊教育教师，我必须上师范学院吗？**
+答：最常见的是就读教育学院的特殊教育系，但也可以在普通大学辅修教学（特殊教育），或通过教育研究生院获得认证。
 
 
 ---
@@ -144,12 +134,12 @@ Career paths include private/national/public special schools, special classes in
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/special-education-teacher/KR)**

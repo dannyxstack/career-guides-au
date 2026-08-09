@@ -54,8 +54,6 @@ Construction workers are entry-level laborers on building sites, assisting trade
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation is reducing construction worker jobs, but AI also creates new opportunities. Physical labor is hard to replace, but repetitive tasks like material handling, measuring, and basic quality control will gradually be taken over by automation tools, increasing competition for entry-level positions.
-
 Typically start as a construction laborer, gain experience, then advance to an apprenticeship in a specific trade (e.g., bricklayer, carpenter), or become a site supervisor. A few start their own subcontracting companies.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as a construction laborer, gain experience, then advance to an a
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible. This occupation is not on any skilled occupation list and 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/builders-labourer/AU)**

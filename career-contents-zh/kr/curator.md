@@ -1,10 +1,8 @@
-# Curator 职业分析 · 韩国
+# 策展人（Curator）职业分析 · 韩国
 
-**职业代码: 41311 (KECO)**
+**职业代码：41311 (KECO)**
 
-A professional who collects, preserves, researches, and exhibits artifacts and artworks in exhibition halls, museums, and art galleries, also referred to as a curator.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一位在展览厅、博物馆和美术馆收集、保存、研究和展示文物和艺术品的专业人士，也称为策展人。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who collects, preserves, researches, and exhibits artifacts and a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (Humanities/Arts) | 4年 | $8,000,000~$12,000,000（Excluding national universities and scholarships） |
-| Master's (Museology, Art History, etc.) | 2 年 | $10,000,000~$18,000,000（Based on private universities） |
+| 学士（人文/艺术） | 4年 | $8,000,000~$12,000,000（不包括国立大学和奖学金） |
+| 硕士（博物馆学、艺术史等） | 2 年 | $10,000,000~$18,000,000（基于私立大学） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who collects, preserves, researches, and exhibits artifacts and a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Curator Certificate (Ministry of Culture, Sports and Tourism) | Korean Museums Association | 必备 | Levels 1, 2, 3 required |
-| Proof of career for conversion to regular position | 用人单位 | 可选 | Preference for 2-3+ years of contract experience |
+| 策展人证书（文化体育观光部颁发） | 韩国博物馆协会 | 必备 | 需要1、2、3级 |
+| 转为正式职位的职业经历证明 | 用人单位 | 可选 | 偏好2-3年以上合同经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 12,000. Although the number of museums and galleries is increasing, public sector jobs remain stagnant, and demand is expected to arise mainly in private and small-scale facilities. Doctoral-level employment is very limited.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 12,000。虽然博物馆和画廊数量增加，但公共部门职位仍然停滞不前，需求预计主要来自私人和小型设施。博士学位就业非常有限。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,95 +38,87 @@ A professional who collects, preserves, researches, and exhibits artifacts and a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (Contract/Intern) | $24,000,000~$30,000,000 | Before tax, before conversion to regular |
-| Mid-level (3-7 years of experience) | $34,000,000~$45,000,000 | Before tax |
-| Senior (Senior Curator/Director-level) | $50,000,000~$70,000,000 | Before tax, based on national/public institutions |
+| 入门级（合同/实习） | $24,000,000~$30,000,000 | 税前、转为正式员工前 |
+| 中级（3-7年经验） | $34,000,000~$45,000,000 | 税前 |
+| 高级（高级馆长/总监级） | $50,000,000~$70,000,000 | 税前，基于国家/公共机构 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI can replace parts of exhibition commentary, docent services, and collection management, but unique expertise and creativity in exhibition planning, storytelling, and conservation science remain human domains. AI can enhance work efficiency when used as a tool.
+AI可以替代部分展览解说、讲解服务和藏品管理，但在展览策划、叙事和修复科学方面的独特专业知识和创造力仍是人类领域。AI作为工具可以提高工作效率。
 
-Promotion to a regular curator usually occurs after graduate school followed by internships and contract positions; advancement to senior curator or director is possible with experience, but competition is fierce.
+晋升为正式馆长通常需要研究生学历，之后经历实习和合同职位；凭借经验可晋升为高级馆长或主任，但竞争激烈。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing Docent and Exhibition Guide Scripts
-- Exhibit Labeling and Basic Commentary
-- Organizing and Inputting Collection Data
+- 撰写解说员和展览指南脚本
+- 展品标签制作与基础解说
+- 馆藏数据整理与录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized Exhibition Recommendations for Visitors
-- Collection Preservation Condition Analysis and Prediction
-- Creating Exhibition-Related Educational Content
+- 面向访客的个性化展览推荐
+- 馆藏保存状况分析与预测
+- 创作展览相关教育内容
 
-**人类护城河:**
+**人类护城河：**
 
-- Exhibition Storytelling and Planning
-- Cultural Heritage Preservation and Restoration Techniques
-- Public and Private Networking and Negotiation Skills
-- Deep Humanistic Insight
+- 展览故事讲述与策划
+- 文化遗产保护与修复技术
+- 公共与私人网络及谈判技巧
+- 深厚的人文洞察力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Curation
-- Data Analysis
-- English and Foreign Language Proficiency
+- 数字策展
+- 数据分析
+- 英语及外语水平
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Exhibition Planning
-- Museum·Gallery Expansion
-- Cultural Heritage Digitization
-- Local Culture Specialization
+- 展览策划
+- 博物馆·画廊扩建
+- 文化遗产数字化
+- 本土文化专精
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | For professionals in culture/arts fields, requires curator certificate and experience |
-| Subclass F-2 (F-2 (Residence) Visa) | Possible for long-term stay with few employment restrictions |
-| Subclass D-10 (Job-seeking visa) | Arts majors staying for job-seeking activities |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with deep interest in humanities and arts
-- People with strong organizational and communication skills
-- People with a patient and detail-oriented personality
+- 对人文学科和艺术有深厚兴趣的人
+- 组织能力和沟通能力强的人
+- 耐心细致的人
 
 **谁不适合**
 - 追求高收入的人
-- People who value rapid promotion and performance
+- 重视快速晋升和绩效的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a curator?**
-答：Contract-based: 24–30 million KRW annually (pre-tax); regular positions are higher but competitive.
+**问：策展人的起薪是多少？**
+答：合同制：年薪2400~3000万韩元（税前）；正式职位更高但竞争激烈。
 
-**问：What visa does a foreigner need to work as a curator?**
-答：E-7 (Specific Activities) visa is common; a curator certificate and experience in culture/arts are required; Korean language proficiency is also important.
+**问：外国人担任策展人需要什么签证？**
+答：E-7（特定活动）签证常见；需要策展人证书和文化/艺术经验；韩语能力也很重要。
 
-**问：Is a curator certificate mandatory?**
-答：Yes, a curator certificate (Level 1/2/3) issued by the Ministry of Culture, Sports and Tourism is mandatory; it is usually obtained during a master's program.
+**问：策展人证书是强制性的吗？**
+答：是，必须持有文化体育观光部颁发的策展人证书（1/2/3级），通常在硕士课程期间获得。
 
 
 ---
@@ -146,12 +136,12 @@ Promotion to a regular curator usually occurs after graduate school followed by 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/curator/KR)**

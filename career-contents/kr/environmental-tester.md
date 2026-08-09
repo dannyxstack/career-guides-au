@@ -4,8 +4,6 @@
 
 A professional who collects and analyzes environmental samples to measure pollution levels in water, air, soil, etc., and assesses environmental impact.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who collects and analyzes environmental samples to measure pollut
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI enhances data analysis and pattern recognition for environmental testers, but field sample collection and equipment operation still rely heavily on humans. As AI replaces simple repetitive analysis, advanced interpretation skills will become more important.
-
 Initially responsible for field sampling and basic analysis, with potential career advancement to analysis specialist, researcher, or environmental consultant.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Initially responsible for field sampling and basic analysis, with potential care
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires professional certifications and experience, possible in environmental fields |
-| Subclass E-9 (Non-professional Employment) | Limited visa issuance, simple tasks possible |
-| Subclass F-2 (Residence) | Long-term residents, unrestricted employment |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Not legally required, but water/air/soil environment engineer licenses greatl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-tester/KR)**

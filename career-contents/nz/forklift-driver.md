@@ -51,8 +51,6 @@ Forklift operators move goods using forklifts in warehouses, distribution center
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Forklift operator roles face automation risk; warehouse automation (e.g., AGVs) will replace some repetitive handling tasks, but safety supervision and complex environment operations still rely on humans.
-
 Entry-level forklift operators can advance to senior operator or warehouse supervisor through experience; some may obtain heavy vehicle licenses to shift to truck driving; also opportunities to transition to logistics coordinator or trainer
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level forklift operators can advance to senior operator or warehouse super
 | Subclass AEWV (Accredited Employer Work Visa) | Most common path: obtain a job offer from an accredited employer, hourly wage no less than median ($29.66/hour), can accumulate work experience |
 | Subclass SMC (Skilled Migrant Category) | After working 3 years on AEWV, meeting 6-point system requirements (e.g., earning 1.5x median wage or accumulating industry experience) can apply for residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Logistics hubs like Auckland, Waikato, and Canterbury have high demand; large
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forklift-driver/NZ)**

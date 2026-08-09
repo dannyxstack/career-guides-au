@@ -51,8 +51,6 @@ A job that involves planning and selling products through online channels such a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As AI chatbots, automated product recommendations, and price optimization tools are introduced, simple customer service and data entry tasks are decreasing, but human creative marketing and customer relationship management remain important.
-
 Starting as a junior sales representative, one can grow into a product planning/marketing specialist or develop into a shopping mall founder/manager. With experience, advancement to MD or online marketing manager is possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as a junior sales representative, one can grow into a product planning/
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires online sales experience and degree for foreign professionals in specialized/semi-specialized fields |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited but possible in online sales for non-professional foreign workers |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, no work restrictions; eligible for all industries including online sales |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Product planning, data analysis, and marketing strategy skills are important,
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/online-sales-representative/KR)**

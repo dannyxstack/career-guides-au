@@ -53,8 +53,6 @@ Senior officials responsible for commanding, managing, and strategically plannin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an amplifying effect on command decision roles for senior defense force officers—smart systems optimize situational awareness, staff analysis, and logistics coordination, enabling faster decisions; but core responsibilities like strategic judgment, moral accountability, and on-site command remain human, so roles are augmented rather than replaced by AI.
-
 Clear career progression path: from junior officer step by step to colonel, brigadier, major general, etc.; requires military academy training, practical experience, and advanced command courses.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Clear career progression path: from junior officer step by step to colonel, brig
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: No. Defence Force positions are only open to Australian citizens or permanent
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/defence-force-senior-officer/AU)**

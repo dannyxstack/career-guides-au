@@ -1,8 +1,8 @@
-# Assembler of Measuring Instruments and Optical Machinery 职业分析 · 日本
+# 测量仪器与光学机械装配工（Assembler of Measuring Instruments and Optical Machinery）职业分析 · 日本
 
-**职业代码: 545 (JSCO)**
+**职业代码：545 (JSCO)**
 
-Skilled worker who assembles precision parts of measuring instruments and optical devices according to drawings. Requires quality control and fine adjustments.
+根据图纸组装测量仪器和光学设备精密零件的熟练工。需要质量控制和精细调整。
 
 
 ---
@@ -11,9 +11,9 @@ Skilled worker who assembles precision parts of measuring instruments and optica
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Technical High School (Mechanical Course) | 3年 | $500,000~$1,000,000（Public high school tuition） |
-| Vocational School (Precision Mechanics) | 2 年 | $2,000,000~$3,000,000（Including tuition and materials） |
-| University (Faculty of Engineering) | 4年 | $4,000,000~$6,000,000（National university standard） |
+| 技术高中（机械课程） | 3年 | $500,000~$1,000,000（公立高中学费） |
+| 职业学校（精密机械） | 2 年 | $2,000,000~$3,000,000（包括学费和材料费） |
+| 大学（工程学院） | 4年 | $4,000,000~$6,000,000（国立大学标准） |
 
 ---
 
@@ -21,19 +21,19 @@ Skilled worker who assembles precision parts of measuring instruments and optica
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Assembly Technician (Mechanical Assembly) | Ministry of Health, Labour and Welfare | 可选 | National qualification, Grade 1 & 2 |
-| Optical Equipment Assembly Skills Test | Ministry of Health, Labour and Welfare | 可选 | Optional but advantageous |
-| Metrologist | Ministry of Economy, Trade and Industry | 可选 | National qualification, useful for calibration work |
-| QC Test | Japanese Society for Quality Control | 可选 | Quality control skills |
+| 装配技术员（机械装配） | 厚生劳动省 | 可选 | 国家资格，1级和2级 |
+| 光学设备组装技能测试 | 厚生劳动省 | 可选 | 非必需但有利 |
+| 计量学家 | 经济产业省 | 可选 | 国家资格证书，对校准工作有用 |
+| 质检测试 | 日本质量控制学会 | 可选 | 质量控制技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Manufacturing industry faces challenges in skill transfer; high-precision assembly is difficult to automate. Not covered by Specified Skilled Worker but supplemented by Technical Intern Training. Long-term demand is stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。制造业面临技能传承挑战；高精度装配难以自动化。不属于特定技能工种，但可通过技能实习补充。长期需求稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +41,85 @@ Skilled worker who assembles precision parts of measuring instruments and optica
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $2,800,000~$3,500,000 | Monthly ¥230,000-290,000 |
-| 中级（4-10年） | $3,800,000~$5,000,000 | Monthly ¥320,000-420,000 |
-| 高级（10年以上） | $5,000,000~$6,500,000 | Monthly ¥420,000-540,000 |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 月薪23万-29万日元 |
+| 中级（4-10年） | $3,800,000~$5,000,000 | 月薪32万-42万日元 |
+| 高级（10年以上） | $5,000,000~$6,500,000 | 月薪42万-54万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Full replacement by AI or robots is difficult, but automation of assembly assistance and quality inspection is advancing. The fusion of skilled craftsmanship and digital technology enhances value.
+AI或机器人完全替代较难，但装配辅助和质量检查的自动化正在推进。熟练工艺与数字技术的融合可提升价值。
 
-Start as apprentice, become multi-skilled and acquire inspection/adjustment skills to become expert. Career path to leader or process management exists.
+从学徒开始，成为多技能人才并掌握检验/调整技能，成为专家。有晋升为领导或流程管理的职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive simple assembly
-- Simple inspection tasks
+- 重复性简单装配
+- 简单检查任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fine-tuning and correction work
-- Quality data analysis
-- Assembly sequence optimization
+- 微调与修正工作
+- 质量数据分析
+- 装配顺序优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Subtle tactile sensitivity
-- Adjustment know-how for optical components
-- Abnormal Sound/Vibration Discrimination
+- 精细触觉敏感度
+- 光学组件调试技术
+- 异常声音/振动辨别
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Precision Measurement Techniques
-- Digital Tool Operation
-- QC Methods
-- Robot Programming Basics
+- 精密测量技术
+- 数字工具操作
+- QC方法
+- 机器人编程基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-precision assembly
-- Optical equipment
-- Inspection process
-- Skill transfer
+- 高精度装配
+- 光学设备
+- 检验流程
+- 技能转移
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates and above. Assembly roles can be applied combined with design/development. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Target field in 2024. Limited to metal/machinery assembly. |
-| Subclass 技能実習 (Technical Intern Training (Machinery/Metal)) | Max 5 years, no job change. Transfer of assembly skills. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | Target in 2024. For skilled workers, family accompaniment allowed. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterous fingers and concentration
-- People who prefer meticulous and accurate work
-- People interested in manufacturing
+- 手指灵巧且专注的人
+- 偏好细致准确工作的人
+- 对制造业感兴趣的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People who find detailed work stressful
+- 对细致工作感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for beginners?**
-答：Around 2.8–3.5 million yen annually (monthly salary 230,000–290,000 yen). Graduates from technical high schools may also receive skill allowances.
+**问：初学者的起薪是多少？**
+答：年薪约280-350万日元（月薪23-29万日元）。技术高中毕业生也可能获得技能津贴。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：The Engineer/Specialist in Humanities/International Services visa is typical. However, work involving only assembly is difficult; applications are combined with design/development duties. Specified Skilled Worker (i) (Manufacturing) also covers this.
+**问：外国人从事这一职业需要什么签证？**
+答：人文/国际服务类工程师/专家签证是典型路径。但仅涉及组装的工作难以获批；需结合设计与开发职责。特定技能（i）（制造业）也涵盖此领域。
 
-**问：Will AI or robots take over this job?**
-答：High-precision adjustments and inspections require human senses, making full automation difficult. Instead, the trend is toward collaboration with AI, such as analyzing inspection data.
+**问：AI或机器人会取代这个工作吗？**
+答：高精度调整和检查需要人类感官，因此完全自动化困难。相反，趋势是与AI协作，例如分析检查数据。
 
 
 ---
@@ -145,12 +137,12 @@ Start as apprentice, become multi-skilled and acquire inspection/adjustment skil
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/assembler-of-measuring-instruments-and-optical-machinery/JP)**

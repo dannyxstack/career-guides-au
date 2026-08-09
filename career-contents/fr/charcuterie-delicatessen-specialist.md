@@ -4,8 +4,6 @@
 
 Cooked food processors are responsible for preparing and selling cooked meat products, cold cuts, and cooked platters. They usually work in food stores, supermarkets, or catering businesses, and must master skills in meat processing, seasoning, preservation, and presentation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Cooked food processors are responsible for preparing and selling cooked meat pro
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The risks for deli processors are mixed: AI automation will take over formula and inventory management, but manual cutting, plattering aesthetics, and customer interaction are hard to replace, requiring a shift toward high value-added deli innovation and experiential services.
-
 Initially, work as an operator in deli stores or supermarket deli cabinets; After gaining experience, you can be promoted to head or head chef of the cooked food department; You can also open your own deli store; Further qualification can be obtained for CAP or BM certification, and you can work in training or quality management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Initially, work as an operator in deli stores or supermarket deli cabinets; Afte
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Requires employer sponsorship, employment contract of at least one year, salary not less than SMIC. This occupation is not in shortage, must prove no suitable local candidate. |
-| Subclass Recherche emploi (Job Search Visa (for graduates)) | French graduates can apply for a 12-month job-seeking residence permit, and after finding a relevant job, they can convert to work-based residence. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted from operator to head of the deli department or chef, or 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/charcuterie-delicatessen-specialist/FR)**

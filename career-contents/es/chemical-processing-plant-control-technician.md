@@ -52,8 +52,6 @@ Monitor and operate control systems during chemical production processes to ensu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 You can be promoted from technician to production supervisor or process engineer, with the need to gain experience and further study.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from technician to production supervisor or process engineer
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and a work contract, with a salary threshold of approximately €33,908 (2024) |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated technical talent, contracts must be signed with companies, and the salary threshold is relatively high |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship, no special skill requirements |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: A chemical technician degree and an occupational risk prevention certificate 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-processing-plant-control-technician/ES)**

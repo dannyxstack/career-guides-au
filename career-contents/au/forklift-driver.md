@@ -53,8 +53,6 @@ Forklift operators use forklifts to move goods in warehouses, distribution centr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Forklift operator roles face automation risk; warehouse automation (e.g., AGVs) will replace some repetitive handling tasks, but safety supervision and complex environment operations still rely on humans.
-
 The boom in e-commerce logistics is the biggest demand driver. Some large warehouses have introduced automated guided vehicles (AGVs), and forklift operators will need to transition towards maintenance and monitoring roles to adapt to automation.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ The boom in e-commerce logistics is the biggest demand driver. Some large wareho
 | Subclass 190 (Skilled Nominated) | Some states nominate forklift operators (check the latest state nomination lists) |
 | Subclass 491 (Skilled Work Regional) | Regional nomination, suitable for remote logistics and warehousing roles |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Truck drivers earn higher salaries ($78k–$120k+ vs forklift operators $68k�
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forklift-driver/AU)**

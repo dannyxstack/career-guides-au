@@ -52,8 +52,6 @@ Skilled workers in New Zealand's wood processing industry operating sanders, mou
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
-
 Can advance from junior operator to senior operator or production supervisor, and some transition to timber machinery maintenance or quality management, requiring experience accumulation.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior operator to senior operator or production supervisor, an
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Generally no formal education required, but New Zealand National Certificate 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-wood-processing-machine-operator/NZ)**

@@ -4,8 +4,6 @@
 
 Supports the correction, reformation, and social reintegration of inmates in prisons and detention centers, and maintains order and safety within the facility.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Supports the correction, reformation, and social reintegration of inmates in pri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in inmate risk assessment and monitoring, but the core human-facing correctional work is hard to replace. Simple paperwork and CCTV analysis may decrease.
-
 After appointment as a correctional public official, promotion is based on work performance and experience; transfer to the Correctional Headquarters or regional correctional agencies is possible; some specialize as professional correctional officers.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After appointment as a correctional public official, promotion is based on work 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Not applicable; prison officers are public officials and foreigners cannot be employed |
-| Subclass F-2 (F-2 (Residence)) | Career special recruitment as a public official is extremely limited to permanent residents |
-| Subclass F-5 (Permanent residence) | Permanent residents are not eligible for regular prison officer recruitment; professional contract positions may be possible |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Yes, you can apply for the Grade 7 open competitive exam with a high school d
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-officer/KR)**

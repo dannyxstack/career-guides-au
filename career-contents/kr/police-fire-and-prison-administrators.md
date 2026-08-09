@@ -4,8 +4,6 @@
 
 Public safety administrators who command police officers, firefighters, and prison guards, overseeing regional security, fire suppression, and correctional administration.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Public safety administrators who command police officers, firefighters, and pris
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists in crime/disaster data analysis, fire prediction, and correctional facility security systems, but human command and interpersonal response remain essential. Some administrative tasks may be automated, but the core duties will be maintained.
-
 After being commissioned as a police officer, firefighter, or prison guard, 10–15 years of field service leads to promotion to superintendent, fire chief, or correctional senior officer and above, with leadership training at police universities or fire schools.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ After being commissioned as a police officer, firefighter, or prison guard, 10�
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass 해당 없음 (Civil service hiring restrictions) | Police, fire, and prison officers are limited to Korean nationals; not eligible for foreigner visas. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +128,12 @@ A: These positions are only open to Korean nationals and are not eligible for fo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-fire-and-prison-administrators/KR)**

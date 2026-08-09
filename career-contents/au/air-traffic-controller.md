@@ -55,8 +55,6 @@ Air traffic controllers monitor and guide aircraft takeoffs, landings, and fligh
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Junior air traffic controllers must undergo strict training to obtain a license, and can advance to roles such as tower supervisor, area control supervisor, or trainer. With experience, they can move into management positions like air traffic services manager or work in aviation safety management.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior air traffic controllers must undergo strict training to obtain a license,
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must complete Airservices Australia's training course, which is competitive; 
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/AU)**

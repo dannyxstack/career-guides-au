@@ -4,8 +4,6 @@
 
 Legal secretaries provide administrative support to lawyers, including document management, scheduling, and client communication, acting as a key coordination role in the legal team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Legal secretaries provide administrative support to lawyers, including document 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
-
 Can progress from junior secretary to senior secretary or legal assistant, or specialise in areas like corporate law, intellectual property, or move into legal project management.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can progress from junior secretary to senior secretary or legal assistant, or sp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU immigrants, requires employer sponsorship, annual salary threshold approximately €5,008/month (for age 30+ in 2024). |
-| Subclass Orientation Year (zo (Orientation Year) | Graduates from Dutch and some overseas universities can apply within 1 year of graduation, allowing free work with no salary threshold. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU talent, requires employer sponsorship and annual salary of at least €5,331/month (2024). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Dutch fluency is mandatory, English proficiency is a plus; some international
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretary/NL)**

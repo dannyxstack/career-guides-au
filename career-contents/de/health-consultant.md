@@ -55,8 +55,6 @@ Health advisors provide preventive care, health promotion, and disease managemen
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on health advisor careers is mixed: structured tasks like information gathering, initial assessment, and health education will be automated, but capabilities in personalized behavior change guidance, multi-factor health risk assessment, and interpersonal trust building remain moats.
-
 Junior health advisors can develop into senior advisors or health management executives; through continuing education, they can transition to public health management, corporate health management, or health information technology.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Junior health advisors can develop into senior advisors or health management exe
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allows job search in Germany before finding a job, suitable for high-potential talent. |
 | Subclass Recognition (Recognition Partnership) | Apply for credential recognition in Germany; can work during the recognition period |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Common pathways include 3-year dual-system training (IBK certified) or a 3-4 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-consultant/DE)**

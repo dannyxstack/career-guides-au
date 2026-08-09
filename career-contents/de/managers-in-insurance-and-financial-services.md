@@ -52,8 +52,6 @@ Responsible for managing sales and service teams for insurance, banking, investm
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Insurance and financial services managers face automation replacement risk, but AI also enhances data analysis and decision-making capabilities; entry-level positions are reduced due to AI tool adoption, but demand for senior strategic and client trust roles remains stable.
-
 Can progress from sales consultant to regional manager, department head, and then to senior management (e.g., director).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from sales consultant to regional manager, department head, and the
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires qualification verification, position aligned with major |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows entry for job seeking |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but IHK certification helps career development.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-insurance-and-financial-services/DE)**

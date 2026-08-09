@@ -52,8 +52,6 @@ Responsible for researching, developing, and evaluating policies, programs, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist with data analysis and project evaluation, but policy-making and community coordination rely on human judgment and communication. Overall, risks and opportunities coexist.
-
 Can progress from project officer to senior policy advisor, project manager, or department head; also transition into sports management, public health, or community development. With experience, may enter senior management or specialized research roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from project officer to senior policy advisor, project manager, or 
 | Subclass PNP (Provincial Nominee Program) | Provinces have demand for this occupation, such as Ontario, British Columbia, etc. Receiving a provincial nomination can add 600 CRS points, greatly increasing the chance of invitation. |
 | Subclass LMIA (Labour Market Impact Assessment) | If you already have a job offer, you can apply for LMIA-supported work visa or immigration, but it is not mandatory. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Start as project officer, progress to project manager, policy advisor, depart
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-sports-and-fitness-policy-researchers-consultants-and-program-officers/CA)**

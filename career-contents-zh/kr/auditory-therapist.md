@@ -1,8 +1,8 @@
-# Auditory Therapist 职业分析 · 韩国
+# 听觉治疗师（Auditory Therapist）职业分析 · 韩国
 
-**职业代码: 30692 (KECO)**
+**职业代码：30692 (KECO)**
 
-A healthcare professional specializing in auditory assessment, rehabilitation after hearing aid or cochlear implant fitting for patients with hearing impairment or deafness, helping improve listening and communication skills.
+专门从事听力评估、为听力受损或失聪患者进行助听器或人工耳蜗植入后康复的医疗专业人员，帮助改善听力和沟通技能。
 
 
 ---
@@ -11,8 +11,8 @@ A healthcare professional specializing in auditory assessment, rehabilitation af
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Audiology related) | 2 年 | $60,000,000~$80,000,000（Based on college tuition） |
-| Bachelor's Degree (Audiology related) | 4年 | $99,999,999~$99,999,999（Based on university tuition） |
+| 副学士学位（听力学相关） | 2 年 | $60,000,000~$80,000,000（基于大学学费） |
+| 听力学相关学士学位 | 4年 | $99,999,999~$99,999,999（基于大学学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A healthcare professional specializing in auditory assessment, rehabilitation af
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Auditory Therapist Certificate | Korean Auditory Therapist Association | 可选 | Private certificate, not mandatory but advantageous for employment |
-| Hearing Aid Fitter Certificate | Korean Hearing Aid Fitter Association | 可选 | Advantageous for hearing aid related work |
+| 听觉治疗师证书 | 韩国听觉治疗师协会 | 可选 | 私人证书，非强制但对就业有利 |
+| 助听器验配师证书 | 韩国助听器验配师协会 | 可选 | 有助于助听器相关工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 4,500. Due to aging and increasing hearing-impaired population, demand for auditory therapy is steadily rising, but limited workforce supply and high expertise requirements are expected to maintain labor shortages.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 4,500。由于老龄化和听力受损人口增加，听觉治疗需求稳步增长，但劳动力供应有限且专业要求高，预计劳动力短缺将持续。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,91 +38,84 @@ A healthcare professional specializing in auditory assessment, rehabilitation af
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $30,000,000~$36,000,000 | Based on small/medium hospitals |
-| Mid (4-9 years) | $36,000,000~$45,000,000 | Average at university hospitals |
-| 资深（10年以上） | $45,000,000~$60,000,000 | Chief therapist or private practice |
+| 入门级（0-3年） | $30,000,000~$36,000,000 | 基于中小型医院 |
+| 中（4-9年） | $36,000,000~$45,000,000 | 大学医院平均 |
+| 资深（10年以上） | $45,000,000~$60,000,000 | 首席治疗师或私人执业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist in analyzing auditory evaluation results or hearing aid adjustment algorithms, but patient-customized counseling and rehabilitation decisions require the essential role of human therapists. AI will act as a tool to complement therapists' work and enhance efficiency.
+AI可协助分析听觉评估结果或助听器调试算法，但针对患者的个性化咨询和康复决策仍需人类治疗师发挥关键作用。AI将作为工具辅助治疗师工作并提高效率。
 
-Typically start in rehabilitation medicine or otolaryngology hospitals, auditory rehabilitation centers; with experience, can advance to chief therapist at university hospitals, open private auditory rehabilitation centers, or pursue education and research roles.
+通常从康复医学或耳鼻喉科医院、听觉康复中心开始；有经验后可晋升为大学医院首席治疗师、开设私人听觉康复中心或从事教育和研究。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated Analysis of Hearing Test Data
-- Standardized Report Writing
+- 听力测试数据自动分析
+- 标准化报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improved Accuracy of Auditory Evaluation
-- Hearing Aid Fitting Recommendations
-- Rehabilitation Progress Monitoring
+- 听觉评估准确性提高
+- 助听器验配建议
+- 康复进展监测
 
-**人类护城河:**
+**人类护城河：**
 
-- Individual Patient Counseling and Psychological Support
-- Complex Hearing Disorder Diagnosis
-- Rehabilitation Plan Development and Adjustment
+- 个体患者咨询与心理支持
+- 复杂听力障碍诊断
+- 康复计划制定与调整
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI Analysis Tools
-- Understanding of Latest Auditory Rehabilitation Research
-- Patient Education and Counseling Skills
+- AI分析工具的利用
+- 了解最新听觉康复研究
+- 患者教育与咨询技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Auditory Training Therapy
-- Presbycusis (Age-Related Hearing Loss)
-- Increased Hearing Aid Usage
-- Cochlear Implant Rehabilitation
+- 听觉训练疗法
+- 老年性听力损失（年龄相关性听力损失）
+- 助听器使用增加
+- 人工耳蜗康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible issuance of E-7 employment visa for professionals in auditory therapy; requires employer recommendation from auditory rehabilitation centers, etc. |
-| Subclass F-2 (Residence) | After meeting certain conditions following E-7 stay, you can apply for F-2 permanent residence visa |
-| Subclass F-5 (Permanent residence) | Eligible for permanent residence after long-term stay, limited |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with patience and close communication with patients
-- Someone deeply interested in auditory anatomy and rehabilitation
-- Someone with meticulous and thorough assessment skills
+- 有耐心且与患者密切沟通的人
+- 对听觉解剖与康复有深厚兴趣的人
+- 具备细致全面评估能力的人
 
 **谁不适合**
-- Someone who wants to work anonymously in a large team
-- Someone who finds it hard to empathize with the difficulties of hearing loss patients
+- 希望在大团队中匿名工作的人
+- 难以共情听力损失患者困难的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an audiologist?**
-答：Entry-level is about 30-36 million won, and with over 10 years of experience, it can reach 45-60 million won, but it is low compared to other medical professions.
+**问：听力学家平均工资是多少？**
+答：入门级约3000-3600万韩元，10年以上经验可达4500-6000万韩元，但相比其他医疗职业仍较低。
 
-**问：What visa does a foreigner need to work as an audiologist in Korea?**
-答：An E-7 (Specific Activities) visa is possible, and a degree in audiology and experience are required. Korean language proficiency and employer recommendation are essential.
+**问：外国人在韩国担任听力学家需要什么签证？**
+答：E-7（特定活动）签证可行，需具备听力学学位和相关经验。韩语水平和雇主推荐至关重要。
 
-**问：What certifications are needed to become an audiologist?**
-答：The private audiologist certification is helpful but not mandatory; a relevant academic degree is more important.
+**问：成为听力学家需要哪些认证？**
+答：私人听力学家认证有帮助但非必需；相关学科学位更重要。
 
 
 ---
@@ -140,12 +133,12 @@ Typically start in rehabilitation medicine or otolaryngology hospitals, auditory
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/auditory-therapist/KR)**

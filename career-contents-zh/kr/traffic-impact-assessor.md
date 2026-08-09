@@ -1,8 +1,8 @@
-# Traffic Impact Assessor 职业分析 · 韩国
+# 交通影响评估员（Traffic Impact Assessor）职业分析 · 韩国
 
-**职业代码: 14053 (KECO)**
+**职业代码：14053 (KECO)**
 
-A traffic engineering expert who evaluates traffic impacts of transportation facilities like roads and railways and establishes improvement measures.
+评估道路和铁路等交通设施交通影响并制定改进措施的交通工程专家。
 
 
 ---
@@ -11,8 +11,8 @@ A traffic engineering expert who evaluates traffic impacts of transportation fac
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (Traffic Engineering/Civil Engineering) | 4年 | $40,000,000~$60,000,000（Based on 4-year university tuition） |
-| Master's (Traffic Engineering) | 2 年 | $20,000,000~$40,000,000（Graduate school tuition） |
+| 学士学位（交通工程/土木工程） | 4年 | $40,000,000~$60,000,000（基于4年制大学学费） |
+| 硕士（交通工程） | 2 年 | $20,000,000~$40,000,000（研究生学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A traffic engineering expert who evaluates traffic impacts of transportation fac
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Traffic Impact Assessor | Korea Transportation Safety Authority | 必备 | Mandatory certification for conducting traffic impact assessments |
-| Professional Engineer in Transportation | Human Resources Development Service of Korea | 可选 | Highest professional certification, not mandatory |
-| Urban Planning Engineer | Human Resources Development Service of Korea | 可选 | Related certification, bonus points |
+| 交通影响评估员 | 韩国交通安全局 | 必备 | 进行交通影响评估的强制性认证 |
+| 专业交通工程师 | 韩国人力资源开发服务局 | 可选 | 最高专业认证，非强制性 |
+| 城市规划工程师 | 韩国人力资源开发服务局 | 可选 | 相关证书，加分项 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 2,500. Demand is sustained by infrastructure improvements and smart city expansion, but employment growth is limited due to slowdown in new construction.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 2,500。基础设施改善和智慧城市扩张维持需求，但因新建筑放缓，就业增长有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A traffic engineering expert who evaluates traffic impacts of transportation fac
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $33,000,000~$42,000,000 | Based on small and medium-sized enterprises |
-| Mid-level (4–7 years) | $45,000,000~$60,000,000 | 经理级别 |
-| 高级（8年+） | $65,000,000~$90,000,000 | Team leader/Professional Engineer level |
+| 初级（0-3年） | $33,000,000~$42,000,000 | 基于中小企业 |
+| 中级（4–7年） | $45,000,000~$60,000,000 | 经理级别 |
+| 高级（8年+） | $65,000,000~$90,000,000 | 团队负责人/专业工程师级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates traffic data analysis and simulation, but human expert judgment is essential for final evaluation and policy proposals. AI is used as a tool to enhance work efficiency and enable more sophisticated analysis.
+AI自动化交通数据分析和模拟，但最终评估和政策建议仍需人类专家判断。AI作为提高工作效率和实现更精细化分析的工具。
 
-Start as a junior assessor and advance to mid-level (manager) and senior-level (team lead), gaining experience at large corporations, public enterprises, and engineering firms.
+从初级评估员开始，晋升到中级（经理）和高级（团队负责人），在大公司、公共企业和工程公司积累经验。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Traffic Volume Survey and Analysis
-- Standard Report Drafting
-- Simple Simulation Execution
+- 基础交通量调查与分析
+- 标准报告撰写
+- 简单模拟执行
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Traffic Flow Prediction Modeling
-- Alternative Evaluation and Optimization
-- Report Visualization and Interpretation
+- 交通流预测建模
+- 替代评估与优化
+- 报告可视化与解读
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal Interpretation and Application
-- Stakeholder Coordination
-- Field Investigation and Judgment
+- 法律解释与应用
+- 利益攸关方协调
+- 现场调查与判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis and Statistics
-- Understanding of AI/Machine Learning
-- Advanced GIS (Geographic Information System) Proficiency
-- Communication and Negotiation
+- 数据分析与统计
+- 人工智能/机器学习理解
+- 高级GIS（地理信息系统）能力
+- 沟通与谈判
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Transportation
-- Urban Regeneration
-- Environmental Impact Assessment
-- Traffic Safety Diagnosis
+- 智能交通
+- 城市更新
+- 环境影响评估
+- 交通安全诊断
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Targets transportation engineering professionals, requires degree + experience |
-| Subclass F-2 (Residence (F-2-7)) | Convertible from E-7 via points system, path for long-term stay |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for this occupation, requires professional work |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical analysis skills
-- People interested in solving urban/transportation problems
-- People diligent in legal compliance and report writing
+- 逻辑分析能力强的人
+- 对解决城市/交通问题感兴趣的人
+- 勤于法律合规和报告撰写的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who dislike outdoor field work
+- 偏好简单重复任务的人
+- 不喜欢户外实地工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary level at the Traffic Impact Assessment Agency?**
-答：Entry-level salary 33M~42M won, mid-level 45M~60M won, senior-level 65M~90M won.
+**问：交通影响评估机构的年薪水平如何？**
+答：入门级薪资3300万~4200万韩元，中级4500万~6000万韩元，高级6500万~9000万韩元
 
-**问：Can foreigners obtain a Korean work visa for this occupation?**
-答：Possible. You can apply with an E-7-1 visa (Specific Activities), which requires a degree in transportation engineering and certain experience.
+**问：外国人能否获得韩国的这个职业的工作签证？**
+答：可能。你可以申请E-7-1签证（特定活动），需要交通工程学位和相关经验。
 
-**问：What major should I study?**
-答：A bachelor's degree or higher in transportation engineering, civil engineering, urban engineering, or related fields is required; a master's or higher is advantageous.
+**问：我应该学什么专业？**
+答：要求交通工程、土木工程、城市工程或相关领域的学士或以上学位；硕士或以上优先。
 
 
 ---
@@ -143,12 +136,12 @@ Start as a junior assessor and advance to mid-level (manager) and senior-level (
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/traffic-impact-assessor/KR)**

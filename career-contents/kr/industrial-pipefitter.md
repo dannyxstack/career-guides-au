@@ -4,8 +4,6 @@
 
 A skilled technical professional who installs, maintains, and repairs various piping systems in industrial facilities and factories.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A skilled technical professional who installs, maintains, and repairs various pi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI and automation technology are unlikely to fully replace plumber jobs, simple repetitive tasks are being reduced through design automation and the introduction of BIM (Building Information Modeling).
-
 With 5-10 years of field experience, promotion to piping supervisor or site manager is possible, and obtaining welding/machinery certifications enables growth as a technical expert.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ With 5-10 years of field experience, promotion to piping supervisor or site mana
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Can be employed as a pipefitter in manufacturing/construction, but with restrictions on workplace changes |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled pipefitters can work as professionals, employer recommendation required |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage, with freedom to stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: After obtaining a skilled worker certificate and accumulating 5 to 10 years o
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-pipefitter/KR)**

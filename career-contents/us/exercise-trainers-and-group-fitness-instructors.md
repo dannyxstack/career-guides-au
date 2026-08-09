@@ -54,8 +54,6 @@ Instruct individuals or groups in exercise to improve personal health. Demonstra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Sports coaches and fitness instructors will be partially replaced by AI tools, such as motion analysis and personalized plan generation, but core emotional motivation, interpersonal interaction, and safety handling abilities are hard to automate, presenting a mixed outlook.
-
 Can advance from assistant coach to senior coach, department head, or open a personal studio. Certifications such as ACE or NSCA aid promotion.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance from assistant coach to senior coach, department head, or open a per
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Obtain advanced certifications (e.g., NSCA's CSCS), build client reputation, 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/exercise-trainers-and-group-fitness-instructors/US)**

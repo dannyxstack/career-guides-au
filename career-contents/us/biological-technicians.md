@@ -52,8 +52,6 @@ Biotechnicians assist biological and medical scientists in experiments, operate 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will largely take over data recording and standard experimental procedures, but experimental design, anomaly diagnosis, and interdisciplinary collaboration still rely on humans, job numbers stable but competition increases at entry level.
-
 Junior technicians can advance to senior technicians or lab supervisors, with some transitioning to quality control, R&D, or sales roles. Those with a bachelor's degree can pursue a master's or doctorate to become scientists or project managers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior technicians can advance to senior technicians or lab supervisors, with so
 | Subclass EB-3 (Employment-Based Third Preference) | Requires PERM, applicable for bachelor's degree or equivalent experience. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens; biotechnicians may qualify. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a bachelor's degree in biology or a related field, but an 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-technicians/US)**

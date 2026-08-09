@@ -53,8 +53,6 @@ Responsible for overseeing and managing the production process of ceramic and gl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on artists is mixed: generative AI can quickly produce visual content, reducing entry-level jobs in commercial illustration and design; but it also amplifies creative exploration and digital art capabilities, spawning new tools and expressions.
-
 Can progress from skilled craftsman to supervisor, then workshop manager or start a handicraft business.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from skilled craftsman to supervisor, then workshop manager or star
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, suitable for those with relevant experience seeking employment in Germany |
 | Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as the salary for this occupation may be below the Blue Card threshold. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires dual vocational training or a master craftsman certificate, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-in-artistic-ceramic-and-glass-design/DE)**

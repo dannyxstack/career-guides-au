@@ -51,8 +51,6 @@ Responsible for supervising and managing teams on processing industrial producti
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of processing industry team leaders will undergo a moderate degree of automation reshaping: AI optimizes production scheduling and monitoring, but interpersonal coordination, on-site decision-making, and safety management remain central, with mixed benefits.
-
 You can be promoted from production line operator to team supervisor, and then to production manager or plant manager. Accelerated promotion can be achieved by attending management training (such as CQP) or obtaining an engineering diploma. You can also switch to parallel roles such as quality, logistics, or project management.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ You can be promoted from production line operator to team supervisor, and then t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Visa) | Work residence sponsored by a French company requires proof that the position cannot be held by an EU citizen, and is subject to long-term employment contracts (CDI). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled workers or shortage occupations, requires annual salary at least 2 times the SMIC (approx. EUR 42,000+), fast-track. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: You can be promoted to Production Manager, Plant Manager, or transition to qu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/team-leader-in-processing-industry/FR)**

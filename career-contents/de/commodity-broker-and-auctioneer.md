@@ -54,8 +54,6 @@ Commodity brokers and auctioneers in Germany primarily operate in commodity exch
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI has mixed implications for broker careers: high-frequency data analysis and standardized transaction processes will be automated, but complex negotiation, client relationship management, and risk management skills are enhanced by AI. Overall job numbers may decline, but value increases.
-
 Career path: start as an auction assistant or broker assistant, build client resources and product knowledge to advance to independent broker/auctioneer. Senior individuals can become auction house partners or start their own brokerage. Continuous learning (e.g., international commodity market trends) is crucial for advancement.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: start as an auction assistant or broker assistant, build client res
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to recognized qualifications (e.g., completed German dual-system training or equivalent overseas qualifications), requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows entry before finding a job, requiring meeting language, age, qualification conditions. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Junior assistant → independent broker/auctioneer → senior specialist or t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commodity-broker-and-auctioneer/DE)**

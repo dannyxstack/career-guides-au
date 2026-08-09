@@ -53,8 +53,6 @@ Butlers and related workers perform housekeeping and other butler duties in priv
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Entry-level roles are mostly cleaning or room attendants; with experience, can advance to head housekeeper, housekeeping supervisor, or hotel housekeeping manager. Some transition to private household services or start their own cleaning business. Multi-skills (e.g., cooking, nursing) help improve career ceiling.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level roles are mostly cleaning or room attendants; with experience, can a
 |---|---|
 | Subclass Skilled Worker (Skilled Worker visa) | If the employer offers at least £25,600 annual salary (or a lower industry-specific wage) and the occupation is on the list of eligible occupations, you can apply. Butlers are generally eligible, but require employer sponsorship. Note: some positions may have salaries below the threshold. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: By gaining experience and learning additional skills (e.g., personal assistan
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/housekeepers-and-related-occupations/UK)**

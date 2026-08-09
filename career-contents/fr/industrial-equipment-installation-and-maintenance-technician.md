@@ -54,8 +54,6 @@ Responsible for installation, commissioning, preventive maintenance, and fault d
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 Technicians can be promoted to maintenance team leaders, industrial maintenance engineers, or equipment project managers. Through further education (such as CQPM), you can transition to automation or robotics specialist positions, or obtain electrician or welding qualifications to broaden your skills.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Technicians can be promoted to maintenance team leaders, industrial maintenance 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for engineers or technical experts, requires high-skilled contracts, no labor market testing, and allows family members |
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires a French employer sponsor and approval by the Labor Bureau (exemption from the shortage position test). |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary must be above 1.5 times the average salary (about 53k euros), suitable for senior positions; freedom to work in other EU countries |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Habilitation qualification is mandatory, and the high-altitude work certifica
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-equipment-installation-and-maintenance-technician/FR)**

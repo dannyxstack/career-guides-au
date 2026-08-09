@@ -1,8 +1,8 @@
-# Big Data Analyst 职业分析 · 韩国
+# 大数据分析师（Big Data Analyst）职业分析 · 韩国
 
-**职业代码: 13412 (KECO)**
+**职业代码：13412 (KECO)**
 
-As a professional who collects and analyzes large-scale data to draw business insights and support decision-making, demand is high in various industries including IT, finance, and marketing.
+作为收集和分析大规模数据以获取商业洞察并支持决策的专业人士，在IT、金融和营销等多个行业需求旺盛。
 
 
 ---
@@ -11,9 +11,9 @@ As a professional who collects and analyzes large-scale data to draw business in
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree (Computer Science/Statistics) | 4年 | $8,000,000~$12,000,000（National university tuition fees） |
-| Master's Degree (Data Science/Statistics) | 2 年 | $5,000,000~$8,000,000（Graduate school tuition (national university)） |
-| Bootcamp/Training Course | 6 months | $3,000,000~$7,000,000（Government funding available） |
+| 学士学位（计算机科学/统计学） | 4年 | $8,000,000~$12,000,000（国立大学学费） |
+| 硕士学位（数据科学/统计） | 2 年 | $5,000,000~$8,000,000（研究生学费（国立大学）） |
+| 训练营/培训课程 | 6个月 | $3,000,000~$7,000,000（可申请政府资助） |
 
 ---
 
@@ -21,18 +21,18 @@ As a professional who collects and analyzes large-scale data to draw business in
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| ADsP (Advanced Data Analytics Semi-Professional) | Korea Data Agency | 可选 | 起步阶段 |
-| ADP (Advanced Data Analytics Professional) | Korea Data Agency | 可选 | Advanced qualification |
-| Big Data Analyst | Korea Data Agency | 可选 | National technical qualification |
+| ADsP（高级数据分析半专业） | 韩国数据局 | 可选 | 起步阶段 |
+| ADP（高级数据分析专业人士） | 韩国数据局 | 可选 | 高级学历 |
+| 大数据分析师 | 韩国数据局 | 可选 | 国家技术资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. With the acceleration of AI and digital transformation, demand is continuously increasing, and annual employment growth of 8-10% is expected until 2025.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。随着AI和数字化转型加速，需求持续增长，预计到2025年每年就业增长8-10%。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,92 +40,85 @@ As a professional who collects and analyzes large-scale data to draw business in
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $35,000,000~$45,000,000 | Small and medium-sized enterprise baseline |
-| 中级（4-7年） | $50,000,000~$70,000,000 | Large corporations & IT industry |
-| 高级（8年+） | $80,000,000~$99,999,999 | Senior/Manager |
+| 初级 (0-3年) | $35,000,000~$45,000,000 | 中小企业基线 |
+| 中级（4-7年） | $50,000,000~$70,000,000 | 大型企业与IT行业 |
+| 高级（8年+） | $80,000,000~$99,999,999 | 高级/经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI/automation doesn't replace big data analysts but greatly improves work efficiency. Data preprocessing and basic statistical analysis are automated, but insight extraction and business context interpretation remain human domains.
+AI/自动化不会取代大数据分析师，但能大幅提高工作效率。数据预处理和基本统计分析实现自动化，但洞察提取和业务语境解读仍由人类完成。
 
-Career progression: Junior Analyst → Senior Analyst → Data Scientist or Manager (Team Lead/CTO). After 5+ years of experience, expansion into data engineering or AI is possible.
+职业发展：初级分析师 → 高级分析师 → 数据科学家或经理（团队负责人/CTO）。5年以上经验后，可拓展至数据工程或AI。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple data preprocessing
-- Basic statistical analysis
-- Reporting automation
+- 简单数据预处理
+- 基础统计分析
+- 报告自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex pattern discovery
-- Decision support
-- Data storytelling
+- 复杂模式发现
+- 决策支持
+- 数据叙事
 
-**人类护城河:**
+**人类护城河：**
 
-- Business understanding
-- Creative problem solving
-- Communication skills
+- 商业理解
+- 创造性解决问题
+- 沟通能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning
-- Deep Learning
-- Cloud Platforms
+- 机器学习
+- 深度学习
+- 云平台
 - MLOps
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 人工智能
-- Cloud
-- Financial Data
-- Healthcare
+- 云
+- 财务数据
+- 医疗保健
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Issuable when employed by a Korean company as a professional big data analyst. Bachelor's degree or higher and work experience requirements must be met. |
-| Subclass D-10 (Job Seeking (D-10-1)) | Permits a stay of 6 months to 1 year for job-seeking activities, for holders of a bachelor's degree or higher. |
-| Subclass F-2 (Residence (F-2-99)) | Allows long-term stay and employment as a points-based permanent residency. Transition after E-7 experience. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent logical thinking
-- People with strong interest in data and persistence
+- 逻辑思维优秀的人
+- 对数据有强烈兴趣且坚持不懈的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who avoid communication
+- 避免沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a big data analyst?**
-答：Entry-level (0~3 years) ₩35-45M, Mid-level (4~7 years) ₩50-70M, Senior (8+ years) ₩80M-₩120M. Higher in large corporations/IT industry.
+**问：大数据分析师的平均薪资是多少？**
+答：初级（0~3年）₩35-45M，中级（4~7年）₩50-70M，高级（8年以上）₩80M-₩120M。大企业/IT行业更高。
 
-**问：Is it easy for foreigners to get a work visa?**
-答：It's possible through E-7 visa, but you need a bachelor's degree and work experience; Korean language skills are advantageous. You can switch from D-10 after job hunting.
+**问：外国人获得工作签证容易吗？**
+答：通过E-7签证可能实现，但需要学士学位和工作经验；韩语技能有优势。求职后可从D-10转换。
 
-**问：What preparation is needed to transition to a big data analyst role?**
-答：A data-related degree or bootcamp completion, certifications like ADsP, and a portfolio (project experience) are important. Python, SQL, and statistics knowledge are essential.
+**问：要过渡到大数据分析师角色需要做哪些准备？**
+答：数据相关学位或训练营结业、ADsP等认证以及项目经验很重要。需要掌握Python、SQL和统计学知识。
 
 
 ---
@@ -143,12 +136,12 @@ Career progression: Junior Analyst → Senior Analyst → Data Scientist or Mana
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/big-data-analyst/KR)**

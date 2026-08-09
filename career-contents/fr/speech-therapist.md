@@ -4,8 +4,6 @@
 
 Speech therapists (Orthophonie) are a regulated medical support profession in France, responsible for assessing and treating communication, speech, swallowing, and voice disorders, serving children and the elderly. Practitioners must hold a nationally recognized diploma in speech therapy (Certificat de Capacité d'Orthophoniste) and be registered with ARS.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Speech therapists (Orthophonie) are a regulated medical support profession in Fr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
-
 Career paths usually start at hospitals or rehabilitation centers, and after gaining experience, they can open private clinics or specialize in specific fields (such as neurorehabilitation or childhood speech disorders). Some senior therapists turn to teaching or research, requiring additional master's or doctoral studies.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career paths usually start at hospitals or rehabilitation centers, and after gai
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Pr (Talent Passport (Medical Profession)) | Applicable to highly skilled medical talents, requiring a diploma recognized in France and an employer contract, valid for 4 years, renewable with the option to renew. |
-| Subclass Salarié (with work a (Employee Residence Permit) | If hired by a French medical institution or clinic, you may apply for work residence. Qualification certification is required. |
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for positions with annual salaries exceeding 53k euros, speech therapists usually do not meet this threshold. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: A total of 5 years: after a 2-year preparatory course (Licence en sciences du
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-therapist/FR)**

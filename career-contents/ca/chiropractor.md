@@ -53,8 +53,6 @@ Chiropractors are regulated healthcare professionals in Canada, requiring provin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core skills of chiropractors (manual palpation, clinical reasoning, patient communication) are hard to replace by AI, but AI will significantly enhance diagnostic imaging analysis, treatment tracking, and administrative efficiency. Overall demand for this role continues to grow with population aging.
-
 Career path: employed in clinic → partner → independent practice. You can specialize in sports injuries, pediatrics, or neurology. Further study for specialty certification (e.g., CANFIT) can increase salary. Some therapists move into teaching or research.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career path: employed in clinic → partner → independent practice. You can sp
 | Subclass PNP (Provincial Nominee Program) | Programs like Ontario Human Capital Priorities and BC PNP Health category often issue targeted invitations, requiring Expression of Interest. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer from an employer. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Overseas applicants must first complete a Canadian-recognized DC program (4 y
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chiropractor/CA)**

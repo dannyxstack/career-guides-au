@@ -53,8 +53,6 @@ Sell meat products in butcher shops, supermarkets, or wholesale markets, includi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Meat product salespeople face dual impacts from AI and automation: self-checkout and online ordering replace some transactional tasks, but AI can optimize inventory and personalized recommendations, while physical skills like cutting and customer trust remain irreplaceable.
-
 Can advance to store manager or meat department supervisor, or move into wholesale purchasing, quality control, etc. Further study can lead to meat technician or trainer roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to store manager or meat department supervisor, or move into wholesa
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Requires completing a recognized German vocational training (dual system), th
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-salesperson/DE)**

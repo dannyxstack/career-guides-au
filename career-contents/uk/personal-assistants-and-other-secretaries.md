@@ -53,8 +53,6 @@ Provide administrative and secretarial support to individuals, departments, or m
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Administrative secretarial roles face high automation risk; AI can take over core tasks like scheduling and document processing. Entry-level positions will significantly shrink, but interpersonal coordination and privacy management remain human advantages.
-
 Can advance from junior secretary to senior personal assistant, executive assistant, or office manager. By obtaining international qualifications (such as IAS) or mastering specific industry knowledge (e.g., legal, medical), one can transition to specialized assistant roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior secretary to senior personal assistant, executive assist
 | Subclass Graduate (Graduate Visa) | UK graduates can apply, allows 2 years of work (3 years for PhD) to gain experience |
 | Subclass Global Talent (Global Talent Visa) | Only applies to those with outstanding achievements in the administrative field, generally not applicable |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior personal assistant, office manager, or transition to HR
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-assistants-and-other-secretaries/UK)**

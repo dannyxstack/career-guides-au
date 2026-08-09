@@ -1,10 +1,8 @@
-# Insurance Agents and Brokers 职业分析 · 韩国
+# 保险代理人和经纪人（Insurance Agents and Brokers）职业分析 · 韩国
 
-**职业代码: 03321 (KECO)**
+**职业代码：03321 (KECO)**
 
-Insurance agents and brokers are financial professionals who connect insurance companies with customers, sell insurance products, and assist with customer risk management and claims.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+保险代理人和经纪人是连接保险公司与客户的金融专业人士，销售保险产品，协助客户风险管理和理赔。
 
 
 ---
@@ -13,9 +11,9 @@ Insurance agents and brokers are financial professionals who connect insurance c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No educational restrictions） |
-| Associate degree or higher | 2 年 | $10,000,000~$30,000,000（Insurance/finance-related majors advantageous） |
-| Certification acquisition | 1年 | $500,000~$2,000,000（Insurance solicitor qualification exam, etc.） |
+| 高中毕业 | 0年 | $0~$0（无学历限制） |
+| 大专或以上学历 | 2 年 | $10,000,000~$30,000,000（保险/金融相关专业优先） |
+| 认证获取 | 1年 | $500,000~$2,000,000（保险招揽人资格考试等） |
 
 ---
 
@@ -23,18 +21,18 @@ Insurance agents and brokers are financial professionals who connect insurance c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Insurance Solicitor License | Korea Insurance Development Institute (entrusted by Financial Supervisory Service) | 必备 | Required for selling insurance products |
-| FP (Financial Planner) Certification | Korean FP Association | 可选 | Advantageous for advanced counseling |
-| Insurance Broker License | Financial Supervisory Service | 可选 | Required for brokerage work |
+| 保险招揽员执照 | 韩国保险开发院（受金融监督院委托） | 必备 | 销售保险产品所需 |
+| FP（理财规划师）认证 | 韩国FP协会 | 可选 | 高级咨询的优势 |
+| 保险经纪人执照 | 金融监督院 | 可选 | 经纪业务所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 350,000. Due to low birth rates and an aging population, insurance demand remains stable, but the expansion of online sales and AI adoption is expected to stagnate employment for face-to-face sales agents.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 350,000。由于低出生率和人口老龄化，保险需求保持稳定，但线上销售和人工智能的普及预计将导致面对面销售代理的就业停滞。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ Insurance agents and brokers are financial professionals who connect insurance c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$40,000,000 | Commission-based variable, bottom 25% |
-| 中级（4-7年） | $40,000,000~$60,000,000 | Median Including Performance Pay |
-| Senior (8+ Years) | $60,000,000~$99,999,999 | High Performers Top 25% |
+| 入门级（0-3年） | $25,000,000~$40,000,000 | 佣金制，底端25% |
+| 中级（4-7年） | $40,000,000~$60,000,000 | 含绩效工资中位数 |
+| 资深（8年以上） | $60,000,000~$99,999,999 | 高绩效者前25% |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI is replacing insurance counseling automation and underwriting, but complex risk analysis and building trust relationships with clients remain a human domain. Face-to-face sales jobs are decreasing, but the scope of work will expand to high-value consulting such as comprehensive financial planning.
+AI正在取代保险咨询自动化和承保，但复杂风险分析和与客户建立信任关系仍是人类领域。面对面销售岗位在减少，但工作范围将扩展至综合财务规划等高价值咨询。
 
-Starting as an insurance solicitor, one can open an agency or transition to a broker, obtain FP (Financial Planner) certification, and grow to serve high-net-worth clients.
+从保险推销员起步，可开设代理机构或转型为经纪人，获得FP（理财规划师）认证，并发展为服务高净值客户。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple insurance comparison/recommendation
-- Contract document processing
-- Basic call center counseling
+- 简单的保险比较/推荐
+- 合同文件处理
+- 基本呼叫中心咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Custom design through customer data analysis
-- Risk diagnosis using AI simulation
-- Automated underwriting review
+- 通过客户数据分析进行定制设计
+- 使用AI模拟进行风险诊断
+- 自动化核保审查
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust relationships
-- Judging complex risk scenarios
-- Understanding customers' non-financial needs
+- 建立信任关系
+- 判断复杂风险场景
+- 理解客户的非财务需求
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Financial planning capability
-- Data literacy
-- Digital marketing
-- Estate Planning
+- 财务规划能力
+- 数据素养
+- 数字营销
+- 遗产规划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online insurance
-- Digital marketing
-- Financial planning
-- Retirement preparation
+- 在线保险
+- 数字营销
+- 财务规划
+- 退休准备
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a finance/insurance expert but not common |
-| Subclass F-2 (Residence) | Self-employment (insurance agency) possible only for long-term residents |
-| Subclass F-4 (Overseas Koreans) | Insurance sales allowed for overseas Koreans |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are social and enjoy meeting others
-- Goal-oriented and focused on performance
-- People interested in financial counseling
+- 善于社交、喜欢结识他人的人
+- 目标导向、注重绩效
+- 对财务咨询感兴趣的人
 
 **谁不适合**
-- People who prefer passive work
-- People vulnerable to goal achievement stress
+- 适合喜欢被动工作的人
+- 容易受到目标成就压力影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an insurance agent?**
-答：Entry-level about 25-40 million won, mid-level 40-60 million won, senior 60 million to 100 million won or more. Since it is commission-based, there is a big difference depending on individual ability.
+**问：保险代理人的平均工资是多少？**
+答：入门级约2500-4000万韩元，中级4000-6000万韩元，高级6000万至1亿韩元以上。由于按佣金制，个人能力差异很大。
 
-**问：Can foreigners work as insurance agents in Korea?**
-答：Limited. It is possible for professionals to work with an E-7 visa, but it is not common, and F-4 overseas Koreans can legally engage in the activity.
+**问：外国人在韩国能担任保险代理人吗？**
+答：有限。专业人员持E-7签证可能就业，但不常见；F-4海外韩国人可合法从事该活动。
 
-**问：What qualifications are needed to become an insurance agent?**
-答：Required is a licensed insurance solicitor qualification (entrusted exam by the Financial Supervisory Service), and additionally, having FP or insurance broker qualifications is advantageous.
+**问：成为保险代理人需要什么资格？**
+答：必需持有保险招揽人资格（金融监督院委托考试），此外持有FP或保险经纪人资格者优先。
 
 
 ---
@@ -147,12 +137,12 @@ Starting as an insurance solicitor, one can open an agency or transition to a br
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/insurance-agents-and-brokers/KR)**

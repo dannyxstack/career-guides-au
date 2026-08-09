@@ -54,8 +54,6 @@ Chimney sweep cleans, inspects and maintains chimneys, fireplaces and heating sy
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Chimney sweeps' core inspection and cleaning tasks are not easily replaced by AI, but administrative tasks like report generation and compliance records will be automated; AI-assisted drones and sensors will optimise fault diagnosis efficiency.
-
 Career path: Complete 3-year dual training to become a skilled worker, then obtain master craftsman (Meister) qualification to start own cleaning company or become senior inspector. Also possible to switch to heating system consultant or energy advisor.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career path: Complete 3-year dual training to become a skilled worker, then obta
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes, this occupation is regulated and requires a vocational qualification. Du
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chimney-sweep/DE)**

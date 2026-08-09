@@ -4,8 +4,6 @@
 
 Responsible for laying floor materials such as tiles, marble, and wooden flooring, including preparation, cutting, and installation, commonly in residential and commercial building projects.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for laying floor materials such as tiles, marble, and wooden floorin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Floor layers and tile setters' work will be partially replaced by AI tools (e.g., cutting and layout optimization), but physical installation, leveling, and finishing still require human skills; the job remains stable overall, with little change in entry requirements.
-
 Can progress from apprentice to skilled worker, foreman, or self-employment; some transition to tile design or project management, but promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can progress from apprentice to skilled worker, foreman, or self-employment; som
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, but floor layers are in the construction industry, subject to annual quotas and priority for Italian citizens. |
-| Subclass EU Blue Card (EU Blue Card) | Only applies to high-skilled occupations; floor layers do not qualify. |
-| Subclass Freelance Visa (Freelance Visa (Lavoro Autonomo)) | Requires proof of high income and industry experience; threshold is relatively high. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: More difficult, requires quota work visa through Decreto Flussi, with limited
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-layer-and-tile-setter/IT)**

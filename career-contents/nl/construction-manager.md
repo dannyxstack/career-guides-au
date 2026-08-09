@@ -51,8 +51,6 @@ Responsible for overseeing the entire construction project from planning to comp
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Promote from site supervisor or foreman, gain experience to become a senior project manager or project director, or pivot to consulting or starting your own business.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Promote from site supervisor or foreman, gain experience to become a senior proj
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migration with a monthly salary above the threshold, sponsored by an employer, with 30% ruling tax benefit |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated professionals, requires annual salary around €56,000 or more, can bring family |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from top 200 universities in the Netherlands or worldwide can apply, valid for 1 year for job seeking |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Typically starts as site supervisor or foreman, advances to project manager, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-manager/NL)**

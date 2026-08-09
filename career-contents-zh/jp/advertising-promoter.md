@@ -1,10 +1,8 @@
-# Advertising Promoter 职业分析 · 日本
+# 广告推广员（Advertising Promoter）职业分析 · 日本
 
-**职业代码: 424 (JSCO)**
+**职业代码：424 (JSCO)**
 
-A broad role responsible for promoting a company's products or services, from planning ad campaigns and media negotiations to organizing sales promotion events.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责推广公司产品或服务的广泛角色，从策划广告活动和媒体谈判到组织促销活动。
 
 
 ---
@@ -13,8 +11,8 @@ A broad role responsible for promoting a company's products or services, from pl
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Advertising/Marketing major) | 4年 | $4,000,000~$6,000,000（In case of private university） |
-| Vocational school (Advertising/Design) | 2 年 | $2,000,000~$3,000,000（Materials fee separate） |
+| 大学（广告/市场营销专业） | 4年 | $4,000,000~$6,000,000（私立大学情况） |
+| 职业学校（广告/设计） | 2 年 | $2,000,000~$3,000,000（材料费另计） |
 
 ---
 
@@ -22,18 +20,18 @@ A broad role responsible for promoting a company's products or services, from pl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Advertising Business Specialist | Japan Advertising Agencies Association | 可选 | Certifies basic knowledge of advertising operations |
-| Web Analyst | Japan Management Association | 可选 | Useful for digital ad effectiveness measurement |
-| Promotional Marketer | Japan Promotional Marketing Association | 可选 | Professional qualification for sales promotion planning |
+| 广告业务专员 | 日本广告业协会 | 可选 | 认证具备广告运营基础知识 |
+| 网络分析师 | 日本管理协会 | 可选 | 有助于数字广告效果衡量 |
+| 促销营销员 | 日本促销营销协会 | 可选 | 销售推广策划的专业资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 230,000. With the expansion of digital advertising, demand is growing for talent skilled in data analysis and social media. Meanwhile, traditional ads like print and TV commercials are declining.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 230,000。随着数字广告扩展，对数据分析和社交媒体人才需求增长。而平面广告和电视广告等传统广告在减少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A broad role responsible for promoting a company's products or services, from pl
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,200,000~$4,200,000 | At major ad agencies |
-| 中级(3-7年) | $4,500,000~$6,000,000 | Mid-level at agencies/companies |
-| 高级（7年以上） | $6,500,000~$9,000,000 | Manager class |
+| 初级 (0-3年) | $3,200,000~$4,200,000 | 在大型广告公司 |
+| 中级(3-7年) | $4,500,000~$6,000,000 | 中介/公司中的中级职位 |
+| 高级（7年以上） | $6,500,000~$9,000,000 | 管理层级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI automates ad delivery optimization and performance measurement, but strategy planning and creative planning remain human roles.
+AI自动化广告投放优化和效果衡量，但战略规划和创意策划仍是人类角色。
 
-With experience, one can advance to project leader or manager at ad agencies or corporate marketing departments. Specializing may lead to independent roles as creative director or planner.
+有经验者可晋升为广告公司或企业市场部门的项目主管或经理。专精者可独立担任创意总监或策划人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated Ad Bidding & Delivery Optimization
-- Automated Generation of Performance Measurement Reports
-- Routine Copywriting
+- 自动化广告竞价与投放优化
+- 绩效测量报告自动生成
+- 日常文案撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Predictive Analysis of Ad Effectiveness
-- Improved Targeting Accuracy
-- Creation of Personalized Ads
+- 广告效果预测分析
+- 改进的目标定位精度
+- 个性化广告创建
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Planning Ability
-- Building Client Trust
-- Intuitive Insight into Market Trends
+- 创意策划能力
+- 建立客户信任
+- 市场趋势直觉洞察
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Digital Marketing
-- Social Media Management
-- Storytelling
+- 数据分析
+- 数字营销
+- 社交媒体管理
+- 讲故事
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Marketing
-- Social Media Promotion
-- Data Analysis
-- Influencer Marketing
+- 数字营销
+- 社交媒体推广
+- 数据分析
+- 网红营销
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and practical experience in advertising. Obtainable if job duties fall under 'Humanities' category. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Obtainable with 70+ points under point system. Marketing specialists in advertising industry may qualify. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with high creativity and communication skills
-- Those sensitive to data analysis and digital trends
-- Those who handle pressure well and multitask
+- 高创造力和沟通能力者
+- 对数据分析和数字趋势敏感的人
+- 善于处理压力和多任务的人
 
 **谁不适合**
-- Those who prefer routine work
-- Those not good at public speaking
+- 喜欢常规工作的人
+- 不擅长公开发言的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an advertising promoter?**
-答：Entry level: 3.2-4.2 million yen, mid-level: 4.5-6 million yen, senior: 6.5-9 million yen. May be higher at major agencies or based on performance.
+**问：广告推广员的年收入是多少？**
+答：入门级：320-420万日元，中级：450-600万日元，高级：650-900万日元。大型机构或基于业绩可能更高。
 
-**问：What visa does a foreigner need to work as an advertising promoter in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' status is common. Requires university degree and advertising-related work experience, with duties falling under humanities.
+**问：外国人在日本担任广告推广人员需要什么签证？**
+答：“工程师/人文学科/国际服务专家”身份较为常见。要求拥有大学学位及广告相关工作经验，且职责属于人文学科范畴。
 
-**问：How to become an advertising promoter with no experience?**
-答：The common path is to study advertising/marketing at vocational school or university, then join an agency through internships or new graduate hiring.
+**问：如何在没有经验的情况下成为广告推广员？**
+答：常见路径是在职业学校或大学学习广告/市场营销，然后通过实习或应届毕业生招聘进入广告公司。
 
 
 ---
@@ -145,12 +136,12 @@ With experience, one can advance to project leader or manager at ad agencies or 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/advertising-promoter/JP)**

@@ -1,10 +1,8 @@
-# Air Self-Defense Force Officer 职业分析 · 日本
+# 航空自卫队军官（Air Self-Defense Force Officer）职业分析 · 日本
 
-**职业代码: 433 (JSCO)**
+**职业代码：433 (JSCO)**
 
-A Self-Defense Force member engaged in aircraft piloting, maintenance, and air defense operations for the Air Self-Defense Force. A public servant of the Ministry of Defense, requiring high discipline and skills.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在航空自卫队从事飞机驾驶、维护和防空作业的自卫队成员。防卫省公务员，要求高度纪律和技能。
 
 
 ---
@@ -13,9 +11,9 @@ A Self-Defense Force member engaged in aircraft piloting, maintenance, and air d
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Defense Academy (Undergraduate) | 4年 | $0~$0（Full government funding, salary provided） |
-| General Officer Candidate | Approx. 6 months | $0~$0（Training within the SDF after recruitment） |
-| Aviation Student (Pilot Training) | Approx. 2 years | $0~$0（Government-funded training） |
+| 国防大学（本科） | 4年 | $0~$0（全额政府资助，提供薪水） |
+| 预备军官候选人 | 约6个月 | $0~$0（招聘后在自卫队内培训） |
+| 航空学员（飞行员培训） | 约2年 | $0~$0（政府资助培训） |
 
 ---
 
@@ -23,18 +21,18 @@ A Self-Defense Force member engaged in aircraft piloting, maintenance, and air d
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Crew Resource Management Certification | Air Self-Defense Force | 必备 | Essential for team operations |
-| Aviation Special Radio Operator | Ministry of Internal Affairs and Communications | 可选 | Required for radio communication |
-| Type 1 Health Supervisor | Ministry of Health, Labour and Welfare | 可选 | For unit management positions |
+| 机组资源管理认证 | 航空自卫队 | 必备 | 团队运营必不可少 |
+| 航空特殊无线电操作员 | 总务省 | 可选 | 无线电通信所需 |
+| 1类健康主管 | 厚生劳动省 | 可选 | 针对单位管理职位 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 47,000. Personnel demand is stable due to defense enhancement policies, but recruitment competition intensifies due to the declining birthrate. With technological innovation, the importance of cyber and unmanned aircraft fields is increasing.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 47,000。因国防强化政策，人员需求稳定，但因少子化招聘竞争加剧。随着技术创新，网络和无人机领域的重要性增加。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,96 +40,88 @@ A Self-Defense Force member engaged in aircraft piloting, maintenance, and air d
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 yrs: Airman Basic to Airman 1st Class) | $3,000,000~$3,800,000 | Salary + allowances included |
-| Mid-level (4–10 yrs: Sergeant to Captain) | $4,000,000~$6,000,000 | Varies by rank |
-| Senior (11+ years: 1st Lt. to Lt. Gen.) | $6,500,000~$10,000,000 | Includes officer and position allowances |
+| 初级（0–3年：空军列兵至一等兵） | $3,000,000~$3,800,000 | 薪资+津贴包含在内 |
+| 中级（4-10年：中士到上尉） | $4,000,000~$6,000,000 | 因级别而异 |
+| 高级（11年以上：少尉至少将） | $6,500,000~$10,000,000 | 包括官员和职位津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation enhance ASDF operations. AI plays a role in drone piloting and data analysis, but combat decisions and situational awareness remain human tasks. Overall, AI is a complementary tool.
+AI和自动化增强ASDF操作。AI在无人机驾驶和数据分析中发挥作用，但战斗决策和态势感知仍是人类任务。总体而言，AI是补充工具。
 
-Start from the National Defense Academy or general officer candidate program, proceed through pilot training courses and officer promotion exams to management positions. Possible career change to civilian pilot, etc.
+从国防学院或普通军官候选人项目开始，通过飞行员培训课程和军官晋升考试晋升至管理职位。可能转为民用飞行员等。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data collection and analysis
-- Routine flight plan creation
-- Surveillance video analysis
+- 数据收集与分析
+- 常规飞行计划制定
+- 监控视频分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Decision support
-- Risk assessment
-- Simulation training
-- Predictive maintenance
+- 决策支持
+- 风险评估
+- 模拟训练
+- 预测性维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Tactical judgment
-- Leadership
-- Ethical judgment
-- Interpersonal negotiation
+- 战术判断
+- 领导层
+- 道德判断
+- 人际谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and data analysis
-- Drone Operations
+- AI与数据分析
+- 无人机操作
 - 网络安全
 - 跨文化沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Defense capability enhancement
-- Unmanned aerial vehicles
-- Cyber defense
-- Aircraft maintenance
+- 国防能力提升
+- 无人机
+- 网络防御
+- 飞机维修
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Foreign JASDF members currently not allowed; MoD recruitment requires Japanese nationality |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | SDF members ineligible due to nationality; technical roles at research institutions possible |
-| Subclass 外交・公用 (Diplomat/Official) | Temporary stays for exchanges with foreign militaries; nationality requirements unchanged |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Disciplined personality
-- Teamwork-oriented person
-- Confident in physical and mental strength
+- 自律的性格
+- 注重团队合作的人
+- 对体力与脑力充满信心
 
 **谁不适合**
-- Person seeking flexible work hours
-- Safety-conscious risk-averse person
+- 寻求灵活工作时间的人
+- 安全谨慎的规避风险者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an Air Self-Defense Force officer?**
-答：For officer candidates from the National Defense Academy, monthly salary is about ¥240,000, including allowances annual income is about ¥4 million. Those from aviation cadet programs start at around ¥200,000.
+**问：航空自卫官起薪是多少？**
+答：国防学院军官候补生月薪约24万日元，含津贴年收入约400万日元；航空学员项目起薪约20万日元。
 
-**问：Can foreigners become Air Self-Defense Force officers?**
-答：Basically, Japanese nationality is required. Even permanent residents cannot serve without citizenship. Some defense-related positions outside the SDF, such as research roles, may be possible.
+**问：外国人能否成为航空自卫队军官？**
+答：基本要求日本国籍。无国籍者不能任职。自卫队以外的国防相关职位（如研究）可能可行。
 
-**问：Can former ASDF officers become civilian pilots?**
-答：Yes. Pilot qualifications obtained in the ASDF can be used in the civilian sector, but retiring and then joining an airline is common. Their pilot experience is highly valued.
+**问：前航空自卫队军官能否成为民航飞行员？**
+答：是的。在ASDF获得的飞行员资格可在民用领域使用，但退役后加入航空公司是常见的。他们的飞行员经验受到高度重视。
 
 
 ---
@@ -149,12 +139,12 @@ Start from the National Defense Academy or general officer candidate program, pr
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/air-selfdefense-force-officer/JP)**

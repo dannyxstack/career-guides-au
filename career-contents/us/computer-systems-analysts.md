@@ -54,8 +54,6 @@ Analyze business and technical problems, design and implement computer system so
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Can advance to IT project manager, architect, or CIO, or transition to cybersecurity or data science.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance to IT project manager, architect, or CIO, or transition to cybersecu
 | Subclass EB-3 (EB-3 Employment-Based Green Card) | For bachelor's degree holders or skilled workers, requires PERM, with long wait times. |
 | Subclass O-1 (O-1 Extraordinary Ability Visa) | For outstanding talents, requires proof of significant achievements, no lottery |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Due to rapid technological updates, it is recommended to continuously learn t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-systems-analysts/US)**

@@ -52,8 +52,6 @@ Vehicle interior trimmers install and repair interior components of cars, trucks
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will lower entry barriers, but advanced customization and restoration still require human skills; the outlook for vehicle interior trimmers is mixed, with some tasks automated and others enhanced by AI tools.
-
 Career development can start as an apprentice or assistant, advancing to senior technician or supervisor after gaining experience. Alternatively, specialize in luxury cars, vintage cars, or marine interiors, or start your own interior modification shop. Some technicians can transition to automotive manufacturing or maintenance management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career development can start as an apprentice or assistant, advancing to senior 
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Primarily need to obtain New Zealand National Certificate in Automotive Inter
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-trimmer/NZ)**

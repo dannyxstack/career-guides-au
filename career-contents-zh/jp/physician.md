@@ -1,10 +1,8 @@
-# Physician 职业分析 · 日本
+# 医生（Physician）职业分析 · 日本
 
-**职业代码: 121 (JSCO)**
+**职业代码：121 (JSCO)**
 
-Medical professional who examines, treats, and performs surgery on patients, contributing to health recovery and maintenance. Requires advanced knowledge and skills.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+检查、治疗并对患者进行手术的医疗专业人员，有助于健康恢复和维护。需要高级知识和技能。
 
 
 ---
@@ -13,8 +11,8 @@ Medical professional who examines, treats, and performs surgery on patients, con
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Medical school (6-year program) | 6年 | $3,500,000~$6,000,000（National university annual tuition approx. 530,000 yen; private averages over 3 million yen.） |
-| Initial clinical training | 2 年 | $0~$0（Trained as a resident while receiving a salary.） |
+| 医学院（6年制课程） | 6年 | $3,500,000~$6,000,000（国立大学年学费约53万日元；私立平均超过300万日元。） |
+| 初始临床培训 | 2 年 | $0~$0（在领取薪水的同时接受驻地培训。） |
 
 ---
 
@@ -22,18 +20,18 @@ Medical professional who examines, treats, and performs surgery on patients, con
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical license | Ministry of Health, Labour and Welfare | 必备 | Obtained upon passing the National Medical Licensing Examination; required for all physicians. |
-| Primary board certification | Each board (e.g., Japanese Society of Internal Medicine) | 可选 | Certifies specialty based on board system; de facto mandatory. |
-| Subspecialty board certification | Each related society | 可选 | Recommended for physicians seeking advanced expertise. |
+| 医疗执照 | 厚生劳动省 | 必备 | 通过国家医学执照考试后获得；所有医师必备。 |
+| 初级委员会认证 | 各委员会（例如日本内科学会） | 可选 | 基于认证委员会的专业认证；事实上为强制性。 |
+| 专科再认证 | 每个相关学会 | 可选 | 推荐给寻求高级专业知识的医生。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 330,000. With the aging population and declining birthrate, medical demand is increasing. Particularly in rural areas and specific fields like emergency, obstetrics, and pediatrics, severe staff shortages are expected to continue.
+**职位需求量：很高（★★★★½）** 全国从业人数约 330,000。随着人口老龄化和出生率下降，医疗需求增加。尤其在偏远地区和急诊、产科、儿科等特定领域，严重人员短缺预计将持续。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,94 +39,87 @@ Medical professional who examines, treats, and performs surgery on patients, con
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (resident–3 years) | $5,000,000~$7,000,000 | Resident annual salary around 5 million yen; early full-time physician approx. 7 million yen. |
-| Mid-level (4–9 years) | $8,000,000~$12,000,000 | After board certification, hospital employment typically yields 8–12 million yen annually. |
-| Senior (10+ years, board-certified) | $14,000,000~$25,000,000 | Varies by specialty and work setting; private practitioners and professors earn significantly more. |
+| 初级（住院医师-3年） | $5,000,000~$7,000,000 | 住院医师年薪约500万日元；早期全职医生约700万日元。 |
+| 中级（4-9年） | $8,000,000~$12,000,000 | 获得专科医师认证后，在医院就业通常年薪800-1200万日元。 |
+| 高级（10年以上，董事会认证） | $14,000,000~$25,000,000 | 因专业和工作环境不同而异；私人执业者和教授的收入明显更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI expands doctors' abilities in image diagnosis, pathological diagnosis, and surgical support, but human doctors will continue to handle patient communication and complex judgments. AI is increasingly used as a diagnostic support tool but will not replace doctors.
+AI扩展了医生在影像诊断、病理诊断和手术辅助方面的能力，但人类医生将继续处理患者沟通和复杂判断。AI越来越多地被用作诊断辅助工具，但不会取代医生。
 
-After obtaining a medical license, complete initial clinical training (2 years) followed by specialized training (3–5 years). After obtaining board certification, common career paths include hospital employment, private practice, or a university hospital position.
+获得医疗执照后，完成初步临床培训（2年），然后进行专科培训（3-5年）。获得委员会认证后，常见职业路径包括医院就业、私人执业或大学医院职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image diagnosis (e.g., detecting abnormalities in chest X-rays)
-- Primary screening of pathology slides
-- Automation of routine medical interviews
+- 简单图像诊断（例如，检测胸部X光片中的异常）
+- 病理切片初筛
+- 常规医疗问诊自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improved accuracy in image diagnosis
-- Navigation support during surgery
-- Extraction and summarization of information from electronic medical records
+- 提高图像诊断准确性
+- 手术导航支持
+- 从电子病历中提取和总结信息
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with patients
-- Integrated judgment of complex pathologies
-- Ethical judgment and empathy
-- Proficiency in procedures
+- 建立患者信任
+- 复杂病理综合判断
+- 道德判断与同理心
+- 程序熟练
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Ability to utilize AI tools
-- Interpersonal communication
-- Leadership in team-based medical care
+- 数据素养
+- 运用AI工具的能力
+- 人际沟通
+- 以团队为基础的医疗领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home medical care
-- Emergency medicine
-- Rural medicine
-- Palliative care
+- 居家医疗
+- 急诊医学
+- 农村医学
+- 姑息治疗
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when a foreign doctor obtains a Japanese medical license and works at a medical institution. However, passing the national exam is required for the license. |
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional (i)) | Targets doctors with advanced knowledge and achievements. Points-based system offers preferential treatment for permanent residency. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong sense of responsibility and stress tolerance
-- Those who can endure long-term study
-- Those who value teamwork
+- 具有强烈责任感和抗压能力的人
+- 能坚持长期学习的人
+- 重视团队合作的人
 
 **谁不适合**
-- Those who dislike irregular work hours
-- Those who prefer environments with little discretion
+- 不喜欢不规律工作时间者
+- 喜欢自主权较少环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a doctor?**
-答：The average annual income of employed doctors is about 12-15 million yen, but varies greatly by specialty, region, and age. Private practitioners tend to have higher incomes.
+**问：医生的平均年收入是多少？**
+答：在职医生平均年收入约1200-1500万日元，但按专科、地区和年龄差异大。私人执业者收入更高。
 
-**问：How can a foreigner work as a doctor in Japan?**
-答：You must pass the Japanese national medical exam and obtain a medical license. Then acquire a residence status such as 'Engineer/Specialist in Humanities/International Services' and work at a medical institution. Japanese language ability (N1 level) is virtually mandatory.
+**问：外国人如何在日本当医生？**
+答：您必须通过日本国家医师考试并取得医师执照。然后取得技术/人文知识/国际业务等在留资格，在医疗机构工作。日语能力（N1水平）几乎是必须的。
 
-**问：What is the shortest route to becoming a doctor?**
-答：After graduating from high school, entered a six-year medical school and passed the national medical exam. After two years of initial clinical training, we can practice medicine independently as a doctor.
+**问：成为医生最快的途径是什么？**
+答：高中毕业后，进入六年制医学院并通过国家医学考试。经过两年的初始临床培训，即可作为医生独立行医。
 
 
 ---
@@ -146,12 +137,12 @@ After obtaining a medical license, complete initial clinical training (2 years) 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/physician/JP)**

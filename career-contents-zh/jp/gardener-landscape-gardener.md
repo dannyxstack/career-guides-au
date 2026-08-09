@@ -1,10 +1,8 @@
-# Gardener / Landscape Gardener 职业分析 · 日本
+# 园艺师 / 景观园艺师（Gardener / Landscape Gardener）职业分析 · 日本
 
-**职业代码: 463 (JSCO)**
+**职业代码：463 (JSCO)**
 
-A professional who creates and maintains beautiful landscapes by managing planting, pruning, weeding, lawn care, stonework, and paving in gardens, parks, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过管理花园、公园等地的种植、修剪、除草、草坪护理、石工和铺装，创造和维护美丽景观的专业人士。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who creates and maintains beautiful landscapes by managing planti
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School (Horticulture Course) | 3年 | $0~$300,000（Public schools nearly free; private schools vary） |
-| Vocational Training School (Landscaping) | 1~2年 | $200,000~$500,000（Some programs free via Hello Training etc.） |
-| Specialized School (Landscaping / Greening) | 2 年 | $1,500,000~$3,000,000（Annual tuition approx.） |
+| 高中（园艺课程） | 3年 | $0~$300,000（公立学校几乎免费；私立学校费用各异） |
+| 职业培训学校（园林绿化） | 1~2年 | $200,000~$500,000（部分项目通过Hello Training等免费提供） |
+| 专业学校（园林/绿化） | 2 年 | $1,500,000~$3,000,000（年学费约） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who creates and maintains beautiful landscapes by managing planti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Landscape Gardener Certification (Grade 1–3) | Ministry of Health, Labour and Welfare | 可选 | Obtained through skills exam, work experience, or training |
-| Civil Engineering Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Advantageous for site management; enables career advancement |
-| Landscape Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Required as lead engineer for landscaping projects |
+| 园林园艺师认证（1-3级） | 厚生劳动省 | 可选 | 通过技能考试、工作经验或培训获得 |
+| 土木工程施工管理工程师 | 国土交通省 | 可选 | 有利于现场管理；促进职业发展 |
+| 景观施工管理工程师 | 国土交通省 | 可选 | 景观项目需要首席工程师 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Demand is stable due to urban greening and environmental awareness. Employment opportunities are good due to ongoing labor shortages from aging workforce. New entrants are welcome.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于城市绿化和环保意识，需求稳定。因劳动力老龄化导致持续短缺，就业机会良好，欢迎新入行者。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A professional who creates and maintains beautiful landscapes by managing planti
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$3,500,000 | Low during apprenticeship |
-| Mid-level (4–10 years) | $3,500,000~$5,000,000 | Rise after acquiring skilled worker certification |
-| Veteran and managerial positions | $5,000,000~$7,000,000 | Further advancement as site supervisor or independent |
+| Beginner (0–3 years) | $2,500,000~$3,500,000 | 学徒期间较低 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 获得技工认证后薪资提升 |
+| 退伍军人及管理职位 | $5,000,000~$7,000,000 | 进一步晋升为现场主管或独立执业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Tree planters and landscape gardeners primarily work manually outdoors, and are unlikely to be fully replaced by AI or robots in the near future. However, some tasks such as drone-based aerial diagnostics and AI-generated pruning plans are being streamlined. Craftsman skills remain essential, with AI used as a supplement.
+植树人和景观园艺师主要户外手工操作，短期内不太可能被AI或机器人完全取代。但一些任务如无人机航测和AI生成修剪计划正在简化。工匠技能仍然必不可少，AI作为辅助。
 
-Start as an apprentice, gain skills through practical experience and obtain certification (Landscape Gardener Certification) to become a team leader or site supervisor. Self-employment is possible, offering diverse career paths.
+从学徒开始，通过实践积累技能并取得认证（景观园艺师认证），成为团队领导或现场主管。可自主创业，职业路径多样。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple grass cutting and cleaning (partially automated)
-- Manual tree list management
+- 简单的割草和清洁（部分自动化）
+- 手动树列表管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone-based tree diagnostics
-- AI proposals for pruning and felling locations
-- Garden design with 3D CAD
+- 基于无人机的树木诊断
+- 修剪和砍伐地点的AI方案
+- 3D CAD花园设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment based on tree species knowledge and experience
-- Delicate pruning techniques
-- Client interaction and design skills
-- On-site adaptability
+- 基于树种知识和经验的判断
+- 精细修剪技术
+- 客户互动和设计技能
+- 现场适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Arborist and tree diagnostic skills
-- Drone operation skills
-- Landscape CAD and 3D modeling
-- Management and Sales Skills
+- 树艺师与树木诊断技能
+- 无人机操作技能
+- 景观CAD与3D建模
+- 管理与销售技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban greening
-- Environmental conservation
-- Satoyama restoration
-- Public green space management
+- 城市绿化
+- 环境保护
+- 里山修复
+- 公共绿地管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (fields: agriculture or construction)) | Possible after passing skills and Japanese tests; total stay up to 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires academic background + work experience; mainly design and management. |
-| Subclass 特定技能2号 (Specified Skilled Worker No. 2 (construction field)) | Requires advanced skills; allows family accompaniment and permanent residency; landscaping included. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like outdoor work
-- People confident in physical strength
-- People who like plants/nature and don't mind manual work
+- 喜欢户外工作的人
+- 体力充沛的人
+- 喜欢植物/自然且不介意体力劳动的人
 
 **谁不适合**
-- People who prefer desk work
-- People who want to work fixed hours/location
+- 偏好案头工作的人
+- 希望固定工时/地点工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for someone starting from scratch?**
-答：Around 2.5 to 3.5 million yen in the first year. With experience and a skilled worker certification, it's possible to earn over 5 million yen.
+**问：零基础起步的年收入是多少？**
+答：第一年约250万至350万日元。有经验和熟练工认证后，可超过500万日元。
 
-**问：What residence status does a foreigner need for this job?**
-答：Generally, Specified Skilled Worker (i) (Agriculture/Construction) or Engineer/Specialist in Humanities/International Services. The Specified Skilled Worker status requires passing an exam.
+**问：外国人从事此工作需要什么居留身份？**
+答：通常为特定技能工人（i）（农业/建筑）或工程师/人文/国际服务专家。特定技能身份需通过考试。
 
-**问：Is it possible to start an independent business?**
-答：Yes. After gaining practical experience and obtaining certifications like Skilled Worker or Construction Management Engineer, many people start their own garden management company as sole proprietors.
+**问：是否可以自主创业？**
+答：是的。在获得实践经验并取得熟练工或施工管理工程师等认证后，许多人以个体经营者身份创办自己的花园管理公司。
 
 
 ---
@@ -147,12 +137,12 @@ Start as an apprentice, gain skills through practical experience and obtain cert
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/gardener-landscape-gardener/JP)**

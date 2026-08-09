@@ -4,8 +4,6 @@
 
 Responsible for installing, operating, and maintaining wood processing machinery such as saws, planers, milling machines, and producing furniture, boards, and other wood products. There is stable demand in Spain's wood processing industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing, operating, and maintaining wood processing machinery
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Woodworking machine operators face task replacement from AI automation, but AI tools also enhance programming and optimization capabilities; entry-level roles slightly compressed due to AI assistance, but overall demand stable, requiring technical skill upgrades to stay competitive.
-
 Operators can be promoted from operator to team leader or CNC programmer. After gaining experience, you can shift to quality control, production management, or start your own wood processing workshop. Continuous learning of new machine technologies is key.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Operators can be promoted from operator to team leader or CNC programmer. After 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer proving that the position cannot be filled by a local employee. Usually, minimum wage requirements must be met. |
-| Subclass Busqueda empleo (Job Search Visa) | Allowed to stay in Spain for 6 months to seek employment, but must prove financial capacity, and approval rates are low. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Difficult. This occupation is not in short supply and requires employer spons
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodworking-machine-setters-and-operators/ES)**

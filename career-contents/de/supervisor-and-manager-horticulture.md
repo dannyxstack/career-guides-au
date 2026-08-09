@@ -54,8 +54,6 @@ Horticulture management supervisors oversee and coordinate horticultural product
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The decision-making and personnel management tasks of a horticultural manager are relatively safe, but structured work such as budget analysis, progress tracking, and report generation is easily automated by AI, resulting in a mixed overall impact.
-
 Career progression can go from department supervisor to horticulture farm manager, or shift to agricultural management consulting, agricultural technology extension. Further study can lead to a master's degree in agricultural engineering or horticulture.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career progression can go from department supervisor to horticulture farm manage
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Demand is concentrated in organic farms, landscaping companies, urban agricul
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-horticulture/DE)**

@@ -51,8 +51,6 @@ Bartenders prepare and serve alcoholic and non-alcoholic drinks in bars, hotels,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core creative and social tasks of bartenders are difficult to replace by AI, but routine work such as ordering, inventory, and cash handling will gradually be automated, entry-level positions will face compression, requiring a shift to experience designers.
-
 Bartenders can advance to senior bartender or bar supervisor through experience, and further to bar manager or hospitality business owner. Some bartenders choose to become freelance bartenders or participate in bartending competitions to increase their visibility.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Bartenders can advance to senior bartender or bar supervisor through experience,
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfers within multinationals, applicable for bartender positions within large hotel groups. |
 | Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizens) | EU/EEA/Swiss citizens can freely work and reside without additional permits. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Bartenders can advance to bar supervisor, bar manager, or shift to food and b
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bartender/IE)**

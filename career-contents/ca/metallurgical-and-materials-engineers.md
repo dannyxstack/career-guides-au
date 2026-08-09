@@ -52,8 +52,6 @@ Metallurgical and materials engineers study the properties, processing, and extr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of metallurgical and materials engineers is mixed in terms of automation: some tasks like data analysis and material screening are enhanced by AI, but experiments, field operations, and high-risk decisions still require human experience, with an overall manageable impact.
-
 Career progression from junior engineer to senior engineer, project manager, or technical expert. Can advance to chief metallurgist, materials science director, or move into R&D and consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression from junior engineer to senior engineer, project manager, or 
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs in mining provinces like Alberta and Ontario have targeted invitations for STEM occupations. |
 | Subclass AIP (Atlantic Immigration Program) | Employer-driven immigration program for Atlantic provinces (e.g., Nova Scotia). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Although not mandatory, many employers prefer or require a P.Eng license, esp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallurgical-and-materials-engineers/CA)**

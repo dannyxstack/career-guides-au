@@ -52,8 +52,6 @@ Environmental protection professionals are responsible for environmental monitor
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly reduce traditional roles for environmental protection professionals, especially data analysis and report writing tasks, but on-site monitoring and regulatory compliance responsibilities remain core human roles.
-
 Starting as a junior environmental technician, you can progress to project manager, department head, or consulting expert; obtaining professional certifications (e.g., EMAS auditor) can accelerate development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as a junior environmental technician, you can progress to project manag
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU talent, minimum annual salary ≥ EU threshold (around €30k), contract at least 1 year |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota; employers must prove inability to recruit from the EU; applies to general skilled workers. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer sponsorship requires approval from the labour bureau and is suitable for long-term employment |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Start as a technician, gain experience, and advance to project manager or con
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-protection-professional/IT)**

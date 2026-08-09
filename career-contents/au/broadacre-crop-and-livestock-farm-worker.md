@@ -52,8 +52,6 @@ Engage in manual labor on farms such as planting, breeding, irrigation, harvesti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive physical labor for field crop and livestock farm workers faces automation risks, but outdoor, unstructured environments and fine manual operations create short-term barriers. Entry-level positions are expected to shrink, with limited AI enhancement; vigilance is needed against income and job opportunities being squeezed by machines.
-
 Can progress from general laborer to senior farm worker, team supervisor, or through accumulated experience to farm manager, but requires additional training or qualifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from general laborer to senior farm worker, team supervisor, or thr
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 | Subclass 403 (Temporary Work (International Relations) Visa) | Seasonal worker visas such as the Pacific Labour Scheme |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most positions do not require formal qualifications, but a Certificate III in
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadacre-crop-and-livestock-farm-worker/AU)**

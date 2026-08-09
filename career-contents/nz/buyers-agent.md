@@ -55,8 +55,6 @@ A buyer's agent represents homebuyers in searching, evaluating, and negotiating 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
-
 Initially can work for a real estate company, after accumulating clients and transaction records, can practice independently or open a small brokerage. Senior buyer's agents can transition to investment advisors or trainers. Potential to develop into property managers or developers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Initially can work for a real estate company, after accumulating clients and tra
 | Subclass SMC (Skilled Migrant Category) | Occupation not on the skilled migration list, but if salary reaches twice the median (approx. NZD 118,640) and work for 24 months, may attempt to apply; high difficulty |
 | Subclass Visitor Visa (Visitor Visa) | Cannot work in New Zealand, only short-term visits allowed |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must hold a New Zealand real estate agent license, complete a REINZ-approved 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buyers-agent/NZ)**

@@ -1,10 +1,8 @@
-# Computer Instructor 职业分析 · 韩国
+# 计算机教师（Computer Instructor）职业分析 · 韩国
 
-**职业代码: 21421 (KECO)**
+**职业代码：21421 (KECO)**
 
-A profession that teaches computer literacy (OA, programming, etc.) at academies, lifelong education centers, and corporate settings, with steady educational demand.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在学院、终身教育中心和企业环境中教授计算机应用（办公自动化、编程等）的职业，教育需求稳定。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that teaches computer literacy (OA, programming, etc.) at academies
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $10,000,000~$15,000,000（National university tuition fees） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（Private university tuition fees） |
+| 副学士学位 | 2 年 | $10,000,000~$15,000,000（国立大学学费） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（私立大学学费） |
 
 ---
 
@@ -22,19 +20,19 @@ A profession that teaches computer literacy (OA, programming, etc.) at academies
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Teaching Certificate (Information & Computer) | 教育部 | 必备 | Mandatory for regular school instructors |
-| Information Technology Qualification (ITQ) | Korea Productivity Center | 可选 | Advantageous for OA lectures |
-| Computer Literacy Level 1 | Korea Chamber of Commerce and Industry | 可选 | Preferred for public institution lectures |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for programming lectures |
+| 教师资格证书（信息与计算机） | 教育部 | 必备 | 常规学校教师必修 |
+| 信息技术资格 | 韩国生产力中心 | 可选 | 有利于 OA 讲座 |
+| 计算机素养一级 | 大韩商工会议所 | 可选 | 事业单位讲座优先 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 对编程讲座有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 25,000. Teaching opportunities persist due to digital transformation and AI training demand, but employment growth is limited due to online lecture replacement and a declining school-age population.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 25,000。数字化变革和AI培训需求带来教学机会，但网络授课替代和学龄人口下降限制了就业增长
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -42,96 +40,87 @@ A profession that teaches computer literacy (OA, programming, etc.) at academies
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $22,000,000~$30,000,000 | Hourly wage 20,000–30,000 KRW for part-time instructors, annualized |
-| Mid-level (4–7 years) | $30,000,000~$42,000,000 | Full-time Lecturer Standard |
-| Advanced (8+ years) | $42,000,000~$55,000,000 | Lead Instructor/Education Team Leader Standard |
+| 初级（0-3年） | $22,000,000~$30,000,000 | 兼职讲师时薪20,000–30,000韩元，年化 |
+| 中级（4–7年） | $30,000,000~$42,000,000 | 全职讲师标准 |
+| 高级（8年以上） | $42,000,000~$55,000,000 | 首席讲师/教育团队负责人标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI-based learning platforms (e.g., tutoring) are replacing basic OA training, but hands-on practice, coaching, and advanced courses still require human instructors, so the occupation is not expected to disappear. Instructors who use AI as an auxiliary tool can maintain competitiveness.
+基于人工智能的学习平台（例如辅导）正在取代基本的OA培训，但实践操作、指导和高级课程仍然需要人类讲师，因此该职业不会消失。将人工智能作为辅助工具的讲师能够保持竞争力。
 
-Starting as a junior instructor, one can advance to full-time and lead instructor roles through experience; obtaining IT certifications (e.g., Information Processing Engineer) enables advancement to managerial or educational consultant positions in training institutions.
+从初级讲师起步，通过经验晋升为全职和首席讲师；获得IT认证（如信息处理工程师）可晋升为培训机构的管理或教育顾问职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic OA (Word, Excel) lectures
-- Repetitive practice guidance
-- Standardized ITQ exam preparation
+- 基础OA（Word, Excel）讲座
+- 重复练习指导
+- 标准化ITQ考试准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time Q&A and feedback
-- Team project coaching
-- Customized learning path design
+- 实时问答和反馈
+- 团队项目辅导
+- 定制化学习路径设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face communication skills
-- Learner-customized teaching methods
-- Case sharing based on practical experience
-- Emotional support and mentoring
+- 面对面沟通能力
+- 学习者定制化教学方法
+- 基于实际经验的案例分享
+- 情感支持和指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Educational Tool Proficiency
-- Basic Data Analysis
-- Educational Content Planning
-- Online-Offline Blended Class Design
+- AI教育工具熟练度
+- 基础数据分析
+- 教育内容规划
+- 线上线下融合课堂设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital literacy
-- Coding education
-- Lifelong education
+- 数字素养
+- 编程教育
+- 终身教育
 - 职业培训
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited by academies/educational institutions as a specialized instructor (e.g., programming) |
-| Subclass F-2 (Residence) | General instructor activities possible at the pre-permanent residence stage |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work as instructors, with few employment restrictions |
-| Subclass D-10 (Job Seeking) | Can stay while seeking instructor position; switch to E-7 after employment |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in teaching others
-- People who enjoy imparting computer skills to others
-- People who continuously strive to learn educational trends
+- 在教导他人中获得满足感的人
+- 喜欢向他人传授计算机技能的人
+- 不断努力学习教育趋势的人
 
 **谁不适合**
-- People who want high salary
-- People who find repetitive lectures boring
+- 想要高薪的人
+- 觉得重复性讲座无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a computer instructor?**
-答：It varies widely within the profession: beginner 2,200~3,000, intermediate 3,000~4,200, advanced 4,200~5,500 (in KRW 10,000).
+**问：计算机教师的平均工资是多少？**
+答：行业内部差异很大：初级2,200~3,000，中级3,000~4,200，高级4,200~5,500（单位：万韩元）。
 
-**问：What visa do foreigners need to work as computer instructors?**
-答：Specialized instructors can apply for an E-7 visa, while overseas Koreans can work with an F-4 visa.
+**问：外国人担任计算机讲师需要什么签证？**
+答：专业讲师可以申请E-7签证，而海外韩裔可以使用F-4签证工作。
 
-**问：Is there a possibility that AI will replace computer instructors?**
-答：Basic OA training may be replaced by AI tutors, but advanced programming and problem-solving courses still require human instructors, leading to a mixed landscape.
+**问：AI是否可能取代计算机教师？**
+答：基础OA培训可能由AI导师取代，但高级编程和问题解决课程仍需人类讲师，导致格局混合。
 
 
 ---
@@ -149,12 +138,12 @@ Starting as a junior instructor, one can advance to full-time and lead instructo
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/computer-instructor/KR)**

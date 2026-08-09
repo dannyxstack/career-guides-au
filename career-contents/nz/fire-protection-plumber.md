@@ -53,8 +53,6 @@ Fire protection plumbers have steady demand in installing, maintaining, and test
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on fire sprinkler fitters is mixed. Design optimization and compliance documentation can be enhanced by AI, but on-site installation, testing, and emergency repairs rely on human experience and are not easily replaced.
-
 Entry-level apprentices can progress to certified tradespersons, then to project supervisors or self-employed contractors; further advancement to fire engineering design or specialist inspector roles leads to significantly higher income brackets.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level apprentices can progress to certified tradespersons, then to project
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point skilled migration criteria (e.g., qualification + work or income points), salary not below the median, eligible for residency |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, you can apply for residency after 2 years of work, subject to salary and skill requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: If holding a New Zealand-recognised relevant qualification and PGDB registrat
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-protection-plumber/NZ)**

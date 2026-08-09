@@ -53,8 +53,6 @@ Canadian Armed Forces professional members are responsible for executing militar
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Canadian Armed Forces specialist members face limited automation risk; AI enhances efficiency in intelligence analysis and logistics coordination, but core combat, leadership, and decision-making rely on human judgment, making the overall impact mixed.
-
 Promotion pathways include advancing from soldier to officer through various ranks, progressing to senior command positions via specialized training and practical experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Promotion pathways include advancing from soldier to officer through various ran
 | Subclass LMIA (Labour Market Impact Assessment) | Work permits via LMIA for foreigners only, but non-citizens cannot usually join |
 | Subclass PNP (Provincial Nominee Program) | Extremely rare cases through PNP, but military positions are usually not open to foreigners |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Highly unlikely. The position is limited to Canadian citizens; foreign nation
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-members-of-the-canadian-armed-forces/CA)**

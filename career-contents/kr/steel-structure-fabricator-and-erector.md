@@ -50,8 +50,6 @@ A specialized technical professional who cuts, welds, and assembles steel materi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are being introduced in some design and cutting processes, but human skill and judgment remain crucial for on-site welding, assembly, and installation, making full replacement difficult.
-
 Starting as a skilled worker, one can grow into a welding and assembly specialist, and with field experience, advance to site manager or construction manager. Obtaining certifications is advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Starting as a skilled worker, one can grow into a welding and assembly specialis
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employment and stay possible as skilled worker. Employer recommendation required. |
-| Subclass E-9 (Non-professional Employment (E-9)) | For non-professional foreign workers, issued only for construction sector. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system, allows long-term stay and free employment. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Obtaining a steel structure fabrication and assembly technician or welding te
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steel-structure-fabricator-and-erector/KR)**

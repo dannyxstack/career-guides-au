@@ -4,8 +4,6 @@
 
 An independent judicial profession that adjudicates civil and criminal cases in courts. As a core member of the legal triad, duties are performed based on the Court Act.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ An independent judicial profession that adjudicates civil and criminal cases in 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot completely replace judges' decisions, but it will be used in auxiliary tasks such as searching past precedents and document drafting. It will expand judges' expertise and allow them to focus on more complex cases.
-
 After completing legal apprenticeship, one is hired as an assistant judge and promoted to judge after 10+ years of experience. Further career paths include High Court judge and Supreme Court judge.
 
 **Tasks most exposed to AI:**
@@ -92,15 +88,9 @@ After completing legal apprenticeship, one is hired as an assistant judge and pr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible with certain qualifications (e.g., foreign attorney), but appointment as a judge requires Japanese citizenship, making it impractical. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +131,12 @@ A: It is generally impossible as Japanese nationality is required. However, it i
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/JP)**

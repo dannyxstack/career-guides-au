@@ -53,8 +53,6 @@ Food inspectors oversee food production, processing, and sales to ensure complia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Food inspectors' routine document review, data entry, and basic visual inspection tasks will be significantly replaced by AI automation, but core duties such as regulation interpretation, complex sensory evaluation, and on-site enforcement decisions remain secure due to the need for human judgment, resulting in a 'mixed' overall impact.
-
 Can progress from junior inspector to senior inspector or team supervisor; also possible to become a food safety specialist or quality management manager through further study.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from junior inspector to senior inspector or team supervisor; also 
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to find a suitable job, requiring proof of language skills and financial resources. |
 | Subclass Chancenkarte (Chancenkarte) | Opportunity card, based on a points system, for applicants with potential employment opportunities. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, can be promoted to senior inspector, team supervisor, or move into food 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-inspector/DE)**

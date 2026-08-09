@@ -1,8 +1,8 @@
-# Wholesale Store Owner/Manager 职业分析 · 日本
+# 批发店老板/经理（Wholesale Store Owner/Manager）职业分析 · 日本
 
-**职业代码: 322 (JSCO)**
+**职业代码：322 (JSCO)**
 
-Oversees overall store operations at wholesale markets or wholesalers, including product procurement, sales, inventory management, and staff training.
+负责批发市场或批发商的整体门店运营，包括产品采购、销售、库存管理和员工培训。
 
 
 ---
@@ -11,8 +11,8 @@ Oversees overall store operations at wholesale markets or wholesalers, including
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$300,000（Public: tuition-free; Private: subsidized for low-income households） |
-| Vocational School (Business) | 2 年 | $1,000,000~$2,000,000（Commerce/Logistics） |
+| 高中 | 3年 | $0~$300,000（公立：免学费；私立：低收入家庭有补贴） |
+| 职业学校（商务） | 2 年 | $1,000,000~$2,000,000（商务/物流） |
 
 ---
 
@@ -20,17 +20,17 @@ Oversees overall store operations at wholesale markets or wholesalers, including
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Retail Marketing Specialist (Salesperson) | Japan Chamber of Commerce and Industry | 可选 | Widely recognized in wholesale/retail |
-| Health Supervisor | Ministry of Health, Labour and Welfare | 可选 | Recommended in food wholesale |
+| 零售营销专员（销售人员） | 日本商工会议所 | 可选 | 在批发/零售行业广泛认可 |
+| 健康监督员 | 厚生劳动省 | 可选 | 食品批发行业推荐 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 450,000. The wholesale industry faces ongoing labor shortages, but mid-sized stores are declining due to shifts in retail and e-commerce demand. Hiring is mainly experienced workers, with limited new entry.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 450,000。批发行业面临持续的劳动力短缺，但由于零售和电子商务需求的变化，中型商店正在减少。主要招聘有经验的工人，新进入者有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,92 +38,85 @@ Oversees overall store operations at wholesale markets or wholesalers, including
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,500,000~$4,500,000 | Chief class, annual income approx. JPY 3.5–4.5 million |
-| Intermediate (3–7 years) | $4,500,000~$6,000,000 | Assistant store manager to store manager, annual income approx. JPY 4.5–6 million |
-| Advanced (7+ years) | $6,000,000~$9,000,000 | Large store manager/supervisor, annual income approx. JPY 6–9 million |
+| Beginner (0–3 years) | $3,500,000~$4,500,000 | 主管级，年收入约350万-450万日元 |
+| 中级（3-7年） | $4,500,000~$6,000,000 | 副店长至店长，年收入约450-600万日元 |
+| 高级（7年以上） | $6,000,000~$9,000,000 | 大型门店经理/主管，年收入约600–900万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and systems are advancing inventory management and ordering, but human judgment—such as negotiation, reading market trends, and staff management—remains essential, making full replacement difficult.
+AI和系统正在推进库存管理和订单处理，但人类判断力——如谈判、阅读市场趋势和员工管理——仍然至关重要，完全替代较难。
 
-Can advance from buyer or store manager to large store manager, area manager, or management participation. Independence is challenging due to consolidation in wholesale markets.
+可以从采购员或门店经理晋升为大型门店经理、区域经理或参与管理层。由于批发市场整合，保持独立性具有挑战性。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- routine inventory ordering
-- manual aggregation of sales data
-- simple inventory checks
+- 常规库存订购
+- 手动汇总销售数据
+- 简单库存检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- demand forecasting and inventory optimization
-- sales strategy formulation through customer data analysis
-- handling inquiries with AI chatbots
+- 需求预测与库存优化
+- 通过客户数据分析制定销售策略
+- 使用AI聊天机器人处理咨询
 
-**人类护城河:**
+**人类护城河：**
 
-- relationship-building and negotiation skills
-- intuitive judgment of market trends
-- staff motivation management
+- 关系建立与谈判技巧
+- 对市场趋势的直觉判断
+- 员工激励管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- data analysis and AI literacy
-- digital marketing
-- supply chain management
+- 数据分析与人工智能素养
+- 数字营销
+- 供应链管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- wholesale market
-- food wholesaling
-- building materials wholesaling
-- pharmaceutical wholesaling
+- 批发市场
+- 食品批发
+- 建筑材料批发
+- 药品批发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires managerial or sales experience in wholesale. Generally, a university degree or about 10 years of experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not applicable)) | Wholesale store owners/managers are not eligible for Specified Skilled Worker (i). |
-| Subclass 経営・管理 (Management) | Applies when starting and operating a wholesale store independently. Requires capital of at least 5 million yen, etc. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with leadership
-- People strong in inventory management and numbers
-- People who enjoy customer service and negotiation
+- 具有领导力的人
+- 擅长库存管理和数字的人
+- 喜欢客户服务和谈判的人
 
 **谁不适合**
-- People who prefer desk work
-- People who like routine work
+- 偏好案头工作的人
+- 喜欢常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a wholesale store owner/manager?**
-答：It depends on experience and store size, but generally: beginner 3.5 million yen, intermediate 4.5-6 million yen, advanced 6-9 million yen.
+**问：批发店店主/经理的平均年收入是多少？**
+答：视经验和门店大小而定，一般：初级350万日元，中级450-600万日元，高级600-900万日元。
 
-**问：What visa is needed for foreigners to work as a wholesale store owner/manager?**
-答：The Engineer/Specialist in Humanities/International Services visa is standard. Requires a university degree or 10+ years of work experience. For independent business, a Business Manager visa is also possible.
+**问：外国人作为批发店店主/经理需要什么签证？**
+答：工程师/人文科学/国际服务签证是标准的。需要大学学位或10年以上工作经验。独立经营业务也可申请商业经理签证。
 
-**问：What is the career path?**
-答：Start as a buyer or store supervisor, gain experience to become a store manager, area manager, and even aim for management of the entire wholesale market or start your own business.
+**问：职业发展路径是什么？**
+答：从采购员或店铺主管做起，积累经验成为店长、区域经理，甚至瞄准整个批发市场的管理或自主创业。
 
 
 ---
@@ -141,12 +134,12 @@ Can advance from buyer or store manager to large store manager, area manager, or
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/wholesale-store-owner-manager/JP)**

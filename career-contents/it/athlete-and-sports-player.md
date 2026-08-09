@@ -4,8 +4,6 @@
 
 Athletes and sports players in Italy engage in professional sports competitions or performances, primarily active in popular sports such as football, basketball, and volleyball, as well as traditional strength areas like cycling, skiing, and athletics. Income heavily depends on the sport, personal achievements, and commercial sponsorships.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Athletes and sports players in Italy engage in professional sports competitions 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on athletes and sports players: tasks like training analysis and tactical simulation are enhanced by AI, but core physical competition and on-the-spot performance are hard to replace. Entry-level roles may narrow due to data-driven selection.
-
 Typically start at youth clubs, progress to professional academies, and advance to professional clubs or national teams. After retirement, can transition to coaching, sports management, sports marketing, or media commentary.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Typically start at youth clubs, progress to professional academies, and advance 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU athletes; requires a work contract with an annual salary of no less than approximately 25,000 euros. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU sports workers; requires employer application, subject to annual quota limits. |
-| Subclass Sporting Visa (Visto (Visto per Attività Sportiva) | Temporary residence permit designed for professional athletes, requires sponsorship by an Italian sports club or federation. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Common transition paths include coaching, sports management, sports marketing
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/athlete-and-sports-player/IT)**

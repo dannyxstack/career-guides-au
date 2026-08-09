@@ -51,8 +51,6 @@ Responsible for monitoring and operating production equipment at refineries and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of oil and gas refining technicians is mixed due to AI automation: routine monitoring and operations will be taken over by AI systems, but complex fault handling and process optimization still require human judgment, while AI enhances predictive maintenance and efficiency analysis capabilities.
-
 Operators can be promoted from operator to senior technician, duty supervisor, or process engineer, with some entering project management or technical consultant roles.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Operators can be promoted from operator to senior technician, duty supervisor, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, the annual salary must reach approximately 33,908 euros (2024 threshold). |
-| Subclass Cuenta ajena (Work Contract (Employed)) | To apply for work residency through a Spanish company employment contract, proof of a shortage occupation is required |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes, if annual salary meets Blue Card threshold (approx. €33,908 in 2024) a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-and-natural-gas-refinery-technicians/ES)**

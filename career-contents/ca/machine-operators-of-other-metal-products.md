@@ -51,8 +51,6 @@ Operate metal product processing machines such as stamping, bending, and forming
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Glass processing workers face high automation risk; automated glass cutting and polishing equipment can replace most repetitive tasks. Demand for entry-level positions is decreasing, but opportunities emerge in maintenance and programming roles.
-
 Starting as a junior operator, can advance to senior operator, team leader, or through training become a mould technician, quality controller.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Starting as a junior operator, can advance to senior operator, team leader, or t
 | Subclass PNP (Provincial Nominee Program) | Some provincial nominee programs target manufacturing workers, such as Ontario and BC |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work permit to accumulate Canadian work experience |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually only requires a high school diploma; short-term vocational certificat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-operators-of-other-metal-products/CA)**

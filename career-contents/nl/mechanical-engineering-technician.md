@@ -52,8 +52,6 @@ Assist mechanical engineers in designing and testing mechanical equipment, perfo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Entry-level positions for mechanical engineering technicians are being significantly reduced by AI automation. Repetitive design verification and document generation tasks face replacement risks, but on-site debugging and cross-physical system collaboration still preserve opportunities for humans.
-
 Can progress from junior technician to senior technician or project supervisor, or become a registered mechanical engineer through further education, or transition to R&D or management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Can progress from junior technician to senior technician or project supervisor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | For high-skilled individuals, the employer must be an approved sponsor and meet the income threshold (about €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated professionals, requires work contract and higher salary (approx. €5,331/month in 2024). Can bring family, eligible for permanent residency later. |
-| Subclass Orientation Year (Orientation Year (Search Year)) | Graduates from top 200 global universities can get a one-year job-seeking visa, which can be converted upon finding a job that meets skilled migration requirements. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: With the increasing intelligence, energy transition, and automation demands i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-technician/NL)**

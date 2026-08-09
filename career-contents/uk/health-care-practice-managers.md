@@ -52,8 +52,6 @@ Medical practice managers plan, organize, direct, and coordinate the resources a
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Administrative tasks of medical practice managers (scheduling, compliance reporting, data analysis) are easily automated by AI, but interpersonal coordination, strategic decision-making, and crisis management remain core human strengths; overall jobs will not be replaced, but job content will be reshaped.
-
 Typically start in medical administration or clinical roles; with management experience, can advance to regional operations manager or medical group director; some may move into healthcare consulting or health IT management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start in medical administration or clinical roles; with management exp
 | Subclass Health & Care (Health and Care Worker visa) | Medical profession-specific visa with fast processing and lower fees; applicable for NHS and independent healthcare providers. |
 | Subclass Global Talent (Global Talent visa) | Applicable to outstanding talents in medical management, requires recognition by UK Research and Innovation (UKRI) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually start as clinic administrative assistants or junior managers, gradual
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-care-practice-managers/UK)**

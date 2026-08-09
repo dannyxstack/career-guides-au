@@ -53,8 +53,6 @@ Operate machinery and manual tools to shape concrete, clay, and stone materials 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The physical labor and on-site nature of concrete work make it less likely to be directly replaced by AI, but areas such as project management and quality control can be improved with AI tools.
-
 Start as a junior operator, can advance to senior operator, team leader, or production supervisor. Some workers move into more specialized roles such as mold making or quality inspection through apprenticeships or training.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior operator, can advance to senior operator, team leader, or prod
 | Subclass PNP (Provincial Nominee Program) | Some provinces, such as Ontario and British Columbia, nominate this occupation |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | If you have management or advanced skills, you may qualify for skilled migration |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually cannot directly use the Express Entry system as a skilled worker, but
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-clay-and-stone-forming-operators/CA)**

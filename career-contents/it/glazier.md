@@ -51,8 +51,6 @@ In Italy, glaziers install, replace, and repair glass doors, windows, and curtai
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 Skilled workers can advance to team leader or start their own business. Some transition to specialised areas such as energy-efficient glass installation or curtain wall engineering.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Skilled workers can advance to team leader or start their own business. Some tra
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately €24,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU workers, requires employer sponsorship, usually requires professional qualifications. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply for labor permits, need to prove local recruitment is not possible, applicable to long-term work. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: With growing demand for energy-efficient buildings and renovations, skilled g
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/IT)**

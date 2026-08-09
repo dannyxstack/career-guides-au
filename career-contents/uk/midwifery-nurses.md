@@ -53,8 +53,6 @@ Midwives attend childbirth, provide antenatal and postnatal care, guide infant c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI's impact on midwives is mixed: documentation and monitoring tasks can be automated, but core clinical judgment and emotional support are hard to replace; overall demand for the profession is stable.
-
 Progress from a registered midwife to senior midwifery consultant, clinical educator, nursing manager, or research/education roles requires gaining experience and completing a master's degree.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from a registered midwife to senior midwifery consultant, clinical educ
 | Subclass Skilled Worker (Skilled Worker visa) | Midwives are eligible as skilled workers, requiring employer sponsorship, with an annual salary of no less than £26,200 |
 | Subclass Graduate (Graduate visa) | UK graduates can stay in the UK for 2 years to gain experience before switching to a skilled visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, the UK has a long-term shortage of midwives, listed on the migration sho
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwifery-nurses/UK)**

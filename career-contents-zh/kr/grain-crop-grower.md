@@ -1,10 +1,8 @@
-# Grain Crop Grower 职业分析 · 韩国
+# 谷物种植者（Grain Crop Grower）职业分析 · 韩国
 
-**职业代码: 90111 (KECO)**
+**职业代码：90111 (KECO)**
 
-An agricultural professional who cultivates and harvests grain crops such as rice, barley, soybeans, and corn, primarily working in rural areas with high seasonal labor demand.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事水稻、大麦、大豆和玉米等谷类作物种植和收获的农业专业人员，主要在季节性劳动力需求高的农村地区工作。
 
 
 ---
@@ -13,8 +11,8 @@ An agricultural professional who cultivates and harvests grain crops such as ric
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No specific educational requirements, on-the-job training focused） |
-| Agriculture-related certifications | 1-2年 | $500,000~$2,000,000（Education and certification costs from institutions such as the Agricultural Research and Extension Services） |
+| 高中毕业 | 0年 | $0~$0（无特定教育要求，以在职培训为主） |
+| 农业相关认证 | 1-2年 | $500,000~$2,000,000（来自农业研究与推广服务等机构的教育和认证费用） |
 
 ---
 
@@ -22,18 +20,18 @@ An agricultural professional who cultivates and harvests grain crops such as ric
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Agricultural Machinery Operator | Human Resources Development Service of Korea | 可选 | Advantageous for operating tractors and other farm machinery |
-| Organic Agriculture Technician | Human Resources Development Service of Korea | 可选 | Additional points for eco-friendly cultivation |
-| Seed Technician | Human Resources Development Service of Korea | 可选 | Related to variety management |
+| 农业机械操作员 | 韩国人力资源开发服务局 | 可选 | 对操作拖拉机及其他农用机械有利 |
+| 有机农业技术员 | 韩国人力资源开发服务局 | 可选 | 生态友好种植加分 |
+| 种子技术员 | 韩国人力资源开发服务局 | 可选 | 与品种管理相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Labor shortages are worsening due to aging and population decline, but government support and the introduction of smart agriculture are boosting productivity. Short-term prospects are stable, but long-term decline is expected.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。由于老龄化和人口减少，劳动力短缺加剧，但政府支持和智慧农业的引入正在提高生产力。短期前景稳定，但预期长期衰退。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ An agricultural professional who cultivates and harvests grain crops such as ric
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $24,000,000~$30,000,000 | Mainly daily or contract jobs, minimum wage basis |
-| Mid-level (4-10 years) | $30,000,000~$40,000,000 | Farm manager salary based on experience |
-| 资深（10年以上） | $40,000,000~$60,000,000 | Self-employed farmer or large-scale farm manager, including agricultural product sales revenue |
+| 初级 (0-3年) | $24,000,000~$30,000,000 | 主要为每日或合同工作，最低工资标准 |
+| 中级（4-10年） | $30,000,000~$40,000,000 | 农场经理薪资视经验而定 |
+| 资深（10年以上） | $40,000,000~$60,000,000 | 自营农民或大型农场经理，包括农产品销售收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation technologies will replace repetitive agricultural tasks such as planting, irrigation, and harvesting, reducing the demand for simple labor for grain crop growers. However, new roles such as smart farm operation, data analysis, and agricultural machinery maintenance will emerge, leading to a shift that addresses labor shortages caused by aging.
+人工智能和自动化技术将取代重复性农业任务，如种植、灌溉和收割，减少对谷物种植者简单劳动力的需求。然而，智能农场运营、数据分析和农业机械维护等新角色将出现，从而应对老龄化带来的劳动力短缺。
 
-Starting as a farm assistant, one can advance to farm manager or self-employed farmer with experience, and with smart farming skills, may transition to high-value crop cultivation.
+从农场助手开始，有经验后可晋升为农场经理或自雇农民，具备智能农业技能后可转向高价值作物种植。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual weeding
-- Simple harvesting tasks
-- Manual pesticide spraying
+- 手动除草
+- 简单收割任务
+- 手动喷洒农药
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crop monitoring using drones
-- Smart irrigation system control
-- Harvest yield data analysis
+- 利用无人机进行作物监测
+- 智能灌溉系统控制
+- 收获产量数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Agricultural machinery maintenance and repair
-- Soil management know-how
-- Climate change response experience
+- 农业机械维护与修理
+- 土壤管理技术
+- 气候变化应对经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart farm operation
-- Drone piloting
-- Data analysis
-- Understanding of agricultural machinery automation systems
+- 智慧农场运营
+- 无人机驾驶
+- 数据分析
+- 对农业机械自动化系统的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart farming
-- Automated agricultural machinery
-- Eco-friendly cultivation
-- Workforce replacement due to aging
+- 智慧农业
+- 自动化农业机械
+- 环保栽培
+- 因老龄化导致劳动力更替
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be employed in the agriculture and livestock sector, subject to the Employment Permit System, with a 3-year stay that can be extended |
-| Subclass F-4 (Overseas Koreans (F-4)) | Targeted at overseas Koreans, allows employment in agriculture, free economic activities |
-| Subclass H-2 (Working Visit (H-2)) | Some agricultural jobs available, short-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength who prefer outdoor work
-- People interested in agricultural technology and machinery operation
-- People who can adapt to rural life better than city life
+- 体力好且喜欢户外工作的人
+- 对农业技术和机械操作感兴趣的人
+- 比起城市生活更能适应农村生活的人
 
 **谁不适合**
-- People who prefer the stability of regular employment
-- People who want high income
+- 偏好稳定正式就业的人群
+- 追求高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a grain crop farmer?**
-答：For beginners, 24 to 30 million KRW before tax; with over 10 years of experience, it rises to 40 to 60 million KRW; for self-employed farmers, it varies greatly depending on income.
+**问：粮食作物农民的平均年薪是多少？**
+答：初学者税前2400万至3000万韩元；10年以上经验者升至4000万至6000万韩元；自雇农民则因收入差异很大。
 
-**问：What visa is needed for a foreigner to work as a grain crop farmer?**
-答：E-9 (Non-professional Employment) visas are common, and workers are assigned to farms through the Employment Permit System. Overseas Koreans can work with an F-4 visa.
+**问：外国人作为谷物农场工作需要什么签证？**
+答：E-9（非专业就业）签证常见，工人通过就业许可制度分配到农场。海外韩国人可持F-4签证工作。
 
-**问：How are AI and automation affecting this occupation?**
-答：With the introduction of autonomous tractors, drones, and smart irrigation systems, simple labor is being replaced, but demand for management and technical maintenance personnel is increasing.
+**问：人工智能和自动化如何影响这个职业？**
+答：随着自动驾驶拖拉机、无人机和智能灌溉系统的引入，简单劳动力正在被取代，但对管理和技术维护人员的需求正在增加。
 
 
 ---
@@ -146,12 +136,12 @@ Starting as a farm assistant, one can advance to farm manager or self-employed f
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/grain-crop-grower/KR)**

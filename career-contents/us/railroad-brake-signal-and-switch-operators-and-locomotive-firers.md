@@ -54,8 +54,6 @@ Operate or monitor railway track switches or locomotive instruments, responsible
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Railroad brake, signal, and switch operators and locomotive firers are highly affected by automation; AI and remote monitoring systems will gradually replace manual inspections, switch operations, and dispatch communications, significantly reducing entry-level positions and increasing retraining pressure.
-
 Can advance from operator to train conductor or dispatcher, requiring experience and passing internal exams. Some switch to railway maintenance or management roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance from operator to train conductor or dispatcher, requiring experience
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance to train conductor or yardmaster, some move into railway manageme
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railroad-brake-signal-and-switch-operators-and-locomotive-firers/US)**

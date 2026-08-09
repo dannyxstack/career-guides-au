@@ -52,8 +52,6 @@ Biological scientists study the morphology, structure, physiology, interrelation
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
-
 Junior researchers typically work as research assistants or postdocs, and with experience can advance to senior researcher or project leader. Some transition to industry (e.g., pharmaceuticals, biotechnology) as scientists or management roles, or enter academia as lecturers or professors.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior researchers typically work as research assistants or postdocs, and with e
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding talent or potential in science, no employer sponsorship required |
 | Subclass Graduate (Graduate visa) | Applicable to international students who complete a degree in the UK, allowing them to work for 2 years (3 years for PhD) after graduation |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: A specific practicing license is generally not required, but a PhD is a commo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-scientists/UK)**

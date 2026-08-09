@@ -52,8 +52,6 @@ Visual artists create original art using media such as painting and drawing, sel
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI tools can generate images, optimise colour and composition, but the artist's core creative intent, artistic expression, and emotional resonance are difficult to replace; entry-level competition intensifies, freelance survival pressure increases, but AI assistance can improve efficiency and experimental range.
-
 Art Market Polarisation: A Few Renowned Artists Command High Premiums, While Most Rely on Teaching/Commissions/Online Sales. Online Platforms Lower Sales Barriers; AI Drawing Tools Are Both Competition and Creative Aids.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Art Market Polarisation: A Few Renowned Artists Command High Premiums, While Mos
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Commercial illustration/stock images are heavily impacted by AI-generated ima
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-visual-arts/AU)**

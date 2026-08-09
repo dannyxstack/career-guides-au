@@ -53,8 +53,6 @@ Set up, operate, or monitor textile cutting machines to cut fabric and other mat
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile cutting machine setters, operators, and tenders face high automation risk; AI and robots will take over most cutting tasks, significantly reducing job demand.
-
 Can advance from operator to senior operator or supervisor, or move into equipment maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from operator to senior operator or supervisor, or move into equipme
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Outlook bleak. US textile industry continues to move overseas and automation 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-cutting-machine-setters-operators-and-tenders/US)**

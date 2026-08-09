@@ -50,8 +50,6 @@ Operate industrial washing machines, dryers, and other equipment to clean and pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of a washing machine operator is highly repetitive and routine; AI and automation technology can quickly replace equipment operation, monitoring, and simple quality inspection tasks. Although human-machine collaboration is still necessary in the short term, the long-term risk is significant, and the number of positions will be reduced.
-
 Can advance from operator to supervisor or equipment maintenance technician; some move into laundry management or start their own laundromats.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can advance from operator to supervisor or equipment maintenance technician; som
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship, with an annual salary threshold of around €5,000 or more, not applicable for this low-paid occupation. |
-| Subclass Orientation Year (Orientation Year) | For international students who graduated in the Netherlands, allows free work for 1 year while seeking a job |
-| Subclass EU Blue Card (EU Blue Card) | Annual salary requirement too high, not applicable for this occupation |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: This occupation is not in shortage, with salary below the high-skilled immigr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-machine-operator/NL)**

@@ -52,8 +52,6 @@ Chief executives and senior officials lead large organizations or enterprises, s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
-
 Career path typically starts from department manager or director, progressing to VP, CEO or board member. Cross-industry experience and MBA common.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path typically starts from department manager or director, progressing to
 | Subclass Global Talent (Global Talent visa) | For leaders with outstanding achievements in the business field, no employer sponsorship required |
 | Subclass Scale-up (Scale-up visa) | For executives in fast-growing companies, must meet salary requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Strategic thinking, leadership, financial analysis, communication and negotia
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-executives-and-senior-officials/UK)**

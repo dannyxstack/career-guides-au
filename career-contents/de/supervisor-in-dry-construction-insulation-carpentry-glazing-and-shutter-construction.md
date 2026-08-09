@@ -54,8 +54,6 @@ Responsible for overseeing construction sites involving drywall, insulation, car
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Can progress from skilled technician to supervisor (Vorarbeiter), then to site manager (Baustellenleiter) or own construction company, requiring management experience and technical certifications.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from skilled technician to supervisor (Vorarbeiter), then to site m
 | Subclass Chancenkarte (Opportunity Card) | A job-seeking visa based on a points system, allowing entry to Germany to find work. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can be promoted to site manager, project manager, or start own construction c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-in-dry-construction-insulation-carpentry-glazing-and-shutter-construction/DE)**

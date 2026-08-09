@@ -1,10 +1,8 @@
-# Food Engineer and Researcher 职业分析 · 韩国
+# 食品工程师与研究员（Food Engineer and Researcher）职业分析 · 韩国
 
-**职业代码: 15711 (KECO)**
+**职业代码：15711 (KECO)**
 
-A professional who researches and develops food processing, preservation, quality control, and new product development, serving as core technical personnel in the food industry.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+研究和开发食品加工、保鲜、质量控制及新产品开发的专业人员，是食品行业的核心技术人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who researches and develops food processing, preservation, qualit
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Engineering, Food Engineering) | 4年 | $24,000,000~$48,000,000（Differences based on national/public vs. private and scholarships） |
-| Master's (Food Engineering) | 2 年 | $12,000,000~$24,000,000（Consider tuition and research support costs） |
+| 大学（工程学、食品工程） | 4年 | $24,000,000~$48,000,000（根据国立/公立与私立以及奖学金而异） |
+| 硕士（食品工程） | 2 年 | $12,000,000~$24,000,000（考虑学费和研究支持成本） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who researches and develops food processing, preservation, qualit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food Engineer (Professional Engineer) | Human Resources Development Service of Korea | 可选 | Essential qualification in food manufacturing/processing |
-| Sanitarian | Korean Health Personnel Licensing Examination Institute | 可选 | Advantageous in food hygiene management |
+| 食品工程师（专业工程师） | 韩国人力资源开发服务局 | 可选 | 食品制造/加工必备资质 |
+| 卫生检查员 | 韩国健康人员资格考试院 | 可选 | 在食品卫生管理方面有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 20,000. Due to the K-Food craze and rising demand for health functional foods, employment is expected to steadily increase, but is affected by R&D investment scale and economic fluctuations.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 20,000。由于K-Food热潮和健康功能食品需求上升，预计就业将稳步增长，但受研发投资规模和经济波动影响。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,96 +38,88 @@ A professional who researches and develops food processing, preservation, qualit
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$40,000,000 | Based on large corporations |
-| 中级（4-9年） | $45,000,000~$60,000,000 | Reflects experience and research achievements |
-| Advanced (10+ years) | $65,000,000~$90,000,000 | Lab director level or above |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于大企业 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 反映经验和研究成果 |
+| 高级（10年以上） | $65,000,000~$90,000,000 | 实验室主任级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI enhances humans in food engineering research for new product development, quality prediction, and process optimization. It excels at vast data analysis and pattern recognition, boosting research efficiency. However, creative combinations and sensory evaluation remain human domains.
+AI在食品工程研究中增强人类，用于新产品开发、质量预测和工艺优化。它擅长海量数据分析和模式识别，提高研究效率。然而，创意组合和感官评估仍是人类领域。
 
-A master's degree or higher and research experience are advantageous, with career paths in corporate labs, government research institutes, and university labs. Advancement to lab director, senior researcher, etc.
+硕士及以上学历和研究经验有优势，职业路径包括企业实验室、政府研究机构和大学实验室。可晋升至实验室主任、高级研究员等。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive experiments
-- Basic data collection and organization
-- Routine quality inspection report writing
+- 重复实验
+- 基础数据收集与整理
+- 常规质量检验报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- New product formulation optimization
-- Consumer preference prediction
-- Process anomaly detection and quality prediction
-- Alternative protein structure design
+- 新产品配方优化
+- 消费者偏好预测
+- 过程异常检测与质量预测
+- 替代蛋白结构设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensory evaluation and creative combinations
-- Ethical judgment (e.g., food safety standards)
-- Regulatory change response and negotiation
-- Intuitive discovery through failure
+- 感官评估与创意组合
+- 道德判断（如食品安全标准）
+- 监管变更应对与谈判
+- 通过失败直觉发现
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning/Deep Learning
-- Python/R Data Analysis
-- Food Process Modeling
-- Bioinformatics-based Alternative Protein Development
+- 机器学习/深度学习
+- Python/R数据分析
+- 食品过程建模
+- 基于生物信息学的替代蛋白开发
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Globalization of K-Food
-- Health Functional Foods
-- Food Safety
-- Alternative Proteins
+- 韩国食品全球化
+- 健康功能食品
+- 食品安全
+- 替代蛋白质
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when employed as food R&D professional. Requires bachelor's degree or higher. |
-| Subclass D-10 (Job Seeking) | Stay for job search. E-7 conversion possible. |
-| Subclass F-2 (Residence) | Points-based system conversion possible. Advantageous for long-term stay. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong scientific curiosity and a love for experiments
-- Meticulous and detail-oriented personality
-- People with excellent teamwork and documentation skills
+- 具有强烈科学好奇心且热爱实验的人
+- 细致且注重细节的性格
+- 具备优秀团队合作和文档处理能力的人
 
 **谁不适合**
-- People who get bored with repetitive tasks
-- People who are not sensitive to experimental errors
+- 对重复性任务感到厌倦的人
+- 对实验误差不敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary range for a food engineer?**
-答：Entry-level: 30-40 million KRW, mid-level: 45-60 million KRW, senior: 65-90 million KRW. Varies by large companies and research institutes.
+**问：食品工程师的年薪范围是多少？**
+答：初级：3000-4000万韩元，中级：4500-6000万韩元，高级：6500-9000万韩元。大型企业和研究机构有所不同。
 
-**问：What type of visa does a foreigner need to work as a food engineer?**
-答：E-7 (Specific Activities) visa is typical; requires a bachelor's degree and related experience. If job-seeking, possible to convert after entering on a D-10 visa.
+**问：外国人担任食品工程师需要什么类型的签证？**
+答：E-7（特定活动）签证是典型的；需要学士学位和相关经验。如果求职，可在持D-10签证入境后转换。
 
-**问：What degree is required for this occupation?**
-答：A bachelor's degree in food engineering is minimum; a master's or higher is advantageous. Certifications like Food Engineer are also helpful.
+**问：该职业需要什么学历？**
+答：食品工程学士学位是最低要求；硕士或更高学历更有利。食品工程师等认证也有帮助。
 
 
 ---
@@ -147,12 +137,12 @@ A master's degree or higher and research experience are advantageous, with caree
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/food-engineer-and-researcher/KR)**

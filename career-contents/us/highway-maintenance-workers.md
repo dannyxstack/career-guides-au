@@ -53,8 +53,6 @@ Responsible for maintenance of highways, municipal roads, rural roads, airport r
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Highway maintenance workers will face the dual impact of automation and AI enhancement: repetitive manual tasks (e.g., road patching, weeding) may be replaced by automated equipment, but on-site judgment, emergency response, and complex repairs still rely on human experience. The role is undergoing structural adjustment rather than wholesale elimination.
-
 Typically start with basic maintenance work, gain experience, and advance to foreman or supervisor roles. Some workers can move to heavy equipment operation, road construction management, or traffic safety inspection. Long-term experience can lead to management positions in public works departments.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start with basic maintenance work, gain experience, and advance to for
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation typically does not meet skilled migration criteria. Rarely en
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/highway-maintenance-workers/US)**

@@ -51,8 +51,6 @@ Perform chemical, physical, and microbiological analyses in industrial laborator
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemical technicians will see divergence: routine analysis and clerical tasks face automation threats, but experimental design, anomaly analysis, and cross-disciplinary collaboration skills are enhanced by AI; overall occupational risk is moderate.
-
 Promotion can be made from junior technician to senior analyst, laboratory supervisor, or quality manager. Continuing education (such as a vocational master's) can lead to R&D or compliance positions.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Promotion can be made from junior technician to senior analyst, laboratory super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Suitable for technicians holding a master's degree or above, or with 5 years of experience, requiring an employer contract valid for 4 years with renewable terms. |
-| Subclass Salarié (Salarié (Work Permit)) | For employer-sponsored work residency, the French Labor Bureau must review the work, and the annual salary must be no less than 1.5 times the French minimum wage. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Work-residence is available through Passeport Talent (requires employer contr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-analysis-laboratory-technician/FR)**

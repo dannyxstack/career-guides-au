@@ -53,8 +53,6 @@ Photographers provide commercial, news, wedding, and artistic photography servic
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
-
 Photographers can start as assistants, build a portfolio, then move into specialized areas (e.g., e-commerce products, weddings, travel). Senior photographers can open studios or become photography directors; some transition to video directors or digital content creators. Holding a New Zealand-recognized qualification or work experience can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Photographers can start as assistants, build a portfolio, then move into special
 | Subclass SMC (Skilled Migrant Category) | Photographers can apply, but require work experience and the position must be skilled. Under the current 6-point system, at least 3 years of experience plus matching qualifications are needed. |
 | Subclass Green List T2 (Green List Tier 2) | Currently, photographers are not on the Green List, but may be eligible through specific employer sponsorship |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Commercial photography demand is higher in Auckland and Wellington, while tou
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/NZ)**

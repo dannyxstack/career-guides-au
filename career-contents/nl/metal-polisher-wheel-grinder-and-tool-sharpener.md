@@ -51,8 +51,6 @@ Operate grinding machines, polishing machines, and other equipment to treat, gri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on metal polishers, grinding wheel workers, and tool sharpeners is twofold: some repetitive tasks will be automated, but complex manual craftsmanship and precision grinding still rely on human experience.
-
 Can be promoted from junior operator to senior technician or foreman, or progress into CNC grinding programming and precision engineering. With experience, opportunities for self-employment arise.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can be promoted from junior operator to senior technician or foreman, or progres
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship; annual salary threshold approx. €5,008/month (over 30) or €3,672/month (under 30); this occupation usually does not meet the threshold and only applies to management positions. |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary at least €5,694/month (2025); this occupation usually does not meet that threshold. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from Dutch universities or top 200 global universities with a master's degree or higher can apply and work freely for one year. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Usually requires MBO (secondary vocational education) or apprenticeship in me
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-polisher-wheel-grinder-and-tool-sharpener/NL)**

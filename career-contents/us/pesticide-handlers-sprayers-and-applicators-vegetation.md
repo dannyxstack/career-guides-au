@@ -54,8 +54,6 @@ Responsible for mixing or spraying chemicals such as pesticides, herbicides, fun
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Can advance from entry-level worker to senior technician, supervisor, or certified pesticide applicator advisor. Experienced workers can transition to agricultural consulting or pest management specialist.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from entry-level worker to senior technician, supervisor, or certifi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Must obtain state pesticide applicator certification, typically through train
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pesticide-handlers-sprayers-and-applicators-vegetation/US)**

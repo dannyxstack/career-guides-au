@@ -4,8 +4,6 @@
 
 Operate heavy earthmoving equipment such as bulldozers, excavators, and loaders for construction, mining, and infrastructure projects.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate heavy earthmoving equipment such as bulldozers, excavators, and loaders 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Earthmoving and related equipment operators face high automation compression risk. Driverless and remote control technologies will gradually replace traditional operations, but complex site conditions and maintenance still rely on manual work, with entry-level positions significantly narrowing.
-
 Can advance to senior operator or foreman through experience, or transition to equipment maintenance and training positions.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Can advance to senior operator or foreman through experience, or transition to e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, requires employer sponsorship, limited annual quota. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled workers, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately €24,000. |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Suitable for short-term construction projects, valid for up to 9 months. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Progressing from junior operator to senior operator, foreman, then to equipme
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-and-related-plant-operator/IT)**

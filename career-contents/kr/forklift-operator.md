@@ -49,8 +49,6 @@ Skilled workers who drive forklifts at factories, logistics centers, constructio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While the introduction of unmanned forklifts and AGVs will replace some simple repetitive transport tasks, roles requiring complex on-site judgment and safety management will actually expand human involvement, so overall employment is expected to be maintained.
-
 Entry-level operators can advance to senior operators (5-10 years) and then to logistics team leader/warehouse manager; obtaining certifications aids promotion.
 
 **Tasks most exposed to AI:**
@@ -88,17 +86,9 @@ Entry-level operators can advance to senior operators (5-10 years) and then to l
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Forklift operation possible in manufacturing, agriculture, fisheries, construction, etc.; subject to Employment Permit System |
-| Subclass E-7 (Specific Activities (E-7)) | If recognized as skilled worker, employment possible in logistics/transportation, etc. |
-| Subclass F-2 (Residence (F-2)) | Residence visa before obtaining permanent residency; unlimited employment including forklift operation |
-| Subclass F-4 (Overseas Korean (F-4)) | Permitted for overseas Koreans; can engage in driving jobs including forklift operation |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +132,12 @@ A: Due to the growth of logistics and e-commerce, demand remains steady, but the
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forklift-operator/KR)**

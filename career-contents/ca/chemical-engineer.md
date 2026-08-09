@@ -52,8 +52,6 @@ Chemical engineers design chemical production processes in Canada, covering petr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance chemical engineers' core competencies, not replace them. Repetitive tasks like process simulation and data analysis can be automated, but design decisions, innovation, and cross-department coordination remain human-led. Overall risk is low, and it is worthwhile to improve efficiency with AI tools.
-
 Junior engineers (EIT) can advance to registered engineers (P.Eng.), then to senior engineers, project managers, or process technology directors. Some transition to emerging fields like carbon emission auditing or green hydrogen.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior engineers (EIT) can advance to registered engineers (P.Eng.), then to sen
 | Subclass PNP (Provincial Nominee Program (Alberta/ONT/BC)) | Provincial nominations, such as Alberta Opportunity Stream and Ontario Human Capital Priorities Stream, no Canadian experience required |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program (AIP), suitable for applicants with a job offer from an employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Requires a CEAB-accredited engineering degree (or overseas degree assessed vi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer/CA)**

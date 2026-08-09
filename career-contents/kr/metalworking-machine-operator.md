@@ -52,8 +52,6 @@ A professional technician who operates metalworking machines such as CNC lathes,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI and automation replace many aspects of CNC machine operation, demand for simple operators is decreasing, shifting toward skilled programmers and maintenance personnel.
-
 Career progression possible from junior operator to intermediate technician, CNC programmer/site foreman, and process manager; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Career progression possible from junior operator to intermediate technician, CNC
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible to work as a skilled processing technician, employer recommendation needed |
-| Subclass E-9 (Non-professional Employment) | Partially possible as an unskilled operator, but limited |
-| Subclass D-10 (Job Seeking) | Possible to seek employment after skill acquisition, conversion needed |
-| Subclass F-2 (Residence) | Can convert via skilled worker points system, advantageous for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +136,12 @@ A: Certifications like Computer-Aided Processing Technician or Master of Machine
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-machine-operator/KR)**

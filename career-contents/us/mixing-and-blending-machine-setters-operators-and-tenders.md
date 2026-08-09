@@ -51,8 +51,6 @@ Set up, operate, or tend machines that mix or blend materials, including chemica
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The task structure of mixing and blending machine operators will be significantly affected by AI/automation: routine monitoring, recipe adjustments, and record keeping can be automated, but humans are still needed to handle equipment anomalies, quality deviations, and safety risks—a mixed outcome.
-
 Usually start as assistant, gain experience and advance to senior operator or supervisor. Some may transition to quality control or production management.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as assistant, gain experience and advance to senior operator or su
 | Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Applicable to skilled workers and professionals; requires PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate inability to hire US workers, applicable for EB-2/EB-3. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually only need high school diploma, but vocational training helps.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixing-and-blending-machine-setters-operators-and-tenders/US)**

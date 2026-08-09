@@ -49,8 +49,6 @@ This is a production worker who operates and monitors automated machinery to pro
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Simple operation tasks will shrink due to AI and automation, but smart factory operation and maintenance will strengthen, reducing overall workforce while increasing high-level roles.
-
 Entry-level production workers can advance to team leader, process management, or maintenance specialist based on experience. Movement between large companies and partners is active.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Entry-level production workers can advance to team leader, process management, o
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For non-professional skilled workers, manufacturing companies eligible |
-| Subclass E-7 (E-7 (Specific Activities)) | Convertible to skilled worker, some production jobs |
-| Subclass F-2 (Residence) | Employment possible after long-term residence, skilled points system |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Not mandatory, but having a certification in electronic devices or production
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-component-product-production-machine-operator/KR)**

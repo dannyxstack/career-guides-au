@@ -4,8 +4,6 @@
 
 Teach art courses such as fine arts, music, drama, and dance in public or private institutions to cultivate students' aesthetic sense and creativity.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Teach art courses such as fine arts, music, drama, and dance in public or privat
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will amplify the teaching capabilities of art teachers, enhancing classroom effectiveness through personalized tools and creative platforms, but it will not replace core aesthetic guidance and emotional interaction.
-
 Assistant teachers can be promoted to senior teachers, subject leaders, or research directors. Some teachers have turned to private studios, cultural institution management, or independent artists.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Assistant teachers can be promoted to senior teachers, subject leaders, or resea
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled artists or teachers, requiring long-term employment contracts or project proof |
-| Subclass Salarié (Employee Visa) | Applicable to those who have obtained a contract with a French school or institution, requiring a labor permit |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply, valid for one year, to find jobs related to art education |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Teaching in public schools requires holding CAPES or Agrégation. Private or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-teacher/FR)**

@@ -54,8 +54,6 @@ Ground workers prepare the ground before construction, including excavation, sit
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical labor and complex on-site judgment of foundation workers are hard to replace, but AI-driven measurement and planning tools are compressing entry-level positions while amplifying efficiency of skilled workers.
-
 Groundworkers can progress from laborers to advanced technicians, foremen, or project managers, and may specialize in areas like concrete or drainage. With experience, they can obtain higher qualifications such as NVQ Level 4 or start their own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Groundworkers can progress from laborers to advanced technicians, foremen, or pr
 | Subclass Graduate (Graduate visa) | Applies to international students who have obtained a bachelor's degree or higher in the UK; can work in any job (including groundworker) during the visa validity period without sponsorship. |
 | Subclass Scale-up (Scale-up visa) | Applies to groundwork workers who obtain a job offer from a qualifying high-growth enterprise; first 6 months require sponsorship, then can work flexibly. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to senior tradesperson, foreman, project manager, or specialize i
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/groundworkers/UK)**

@@ -4,8 +4,6 @@
 
 Professionals responsible for forest fire prevention, environmental enforcement, wildlife protection, and natural resource regulation are key forces in Spain's natural resource conservation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professionals responsible for forest fire prevention, environmental enforcement,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Forestry and environmental inspectors will face mixed challenges: AI can automate some monitoring and paperwork, but on-site law enforcement, emergency decision-making, and multi-species interaction protect core positions.
-
 Candidates can be promoted from grassroots inspectors to regional supervisors or technical experts. You must pass internal exams (oposiciones) to enter the civil service system and maintain long-term career stability.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Candidates can be promoted from grassroots inspectors to regional supervisors or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Work residence permit: requires a job contract from the regional forestry authority, labor market test (if occupation is not in shortage) |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | High-Skilled Professional Visa: Suitable for those with a higher education background and contract salary threshold, but public sector recruitment usually prioritizes EU citizens |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Typically, undergraduate (Grado) or advanced vocational training (FP Grado Su
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forest-and-environmental-agents/ES)**

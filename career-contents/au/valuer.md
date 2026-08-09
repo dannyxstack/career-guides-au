@@ -52,8 +52,6 @@ Valuers assess the market value of real estate, business assets, and equipment f
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
-
 Junior valuers can advance to senior valuer, team leader, or obtain API certification to become a registered practicing valuer, or transition to asset manager or real estate development consultant.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior valuers can advance to senior valuer, team leader, or obtain API certific
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, eligible for 186 permanent residency after 3 years of work. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, then transition to the 191 permanent residence visa after meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires an API-recognized bachelor's degree, followed by 2 years o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/valuer/AU)**

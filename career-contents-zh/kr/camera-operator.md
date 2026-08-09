@@ -1,10 +1,8 @@
-# Camera Operator 职业分析 · 韩国
+# 摄像师（Camera Operator）职业分析 · 韩国
 
-**职业代码: 41641 (KECO)**
+**职业代码：41641 (KECO)**
 
-A professional who operates cameras and handles filming for the production of video content such as films, dramas, advertisements, and news.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为电影、电视剧、广告、新闻等视频内容制作操作摄像机并负责拍摄的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who operates cameras and handles filming for the production of vi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (2-3 years) | 2-3年 | $8,000,000~$12,000,000（Public/National Standards） |
-| University (4-year) | 4年 | $16,000,000~$24,000,000（Private Standards） |
+| 社区学院（2-3年） | 2-3年 | $8,000,000~$12,000,000（公共/国家标准） |
+| 大学（4年制） | 4年 | $16,000,000~$24,000,000（私人标准） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who operates cameras and handles filming for the production of vi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast and Communication Technician | Korea Communications Agency | 可选 | Certification in broadcast equipment operation |
-| 电影放映员 | Korea Communications Agency | 可选 | Professional film and video shooting qualification |
+| 广播与通信技术员 | 韩国通信处 | 可选 | 广播设备操作认证 |
+| 电影放映员 | 韩国通信处 | 可选 | 专业影视拍摄资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. With the growth of OTT platforms and increasing demand for video content, employment is expected to increase slightly, but competition is fierce due to new technology adaptation and a narrow industry structure.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。随着OTT平台的发展和视频内容需求增加，就业预计略有增长，但由于新技术适应和行业结构狭窄，竞争激烈。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,94 +38,87 @@ A professional who operates cameras and handles filming for the production of vi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$35,000,000 | Freelancer and Staff Standards |
-| 中级（4-7年） | $40,000,000~$60,000,000 | Includes regular positions at broadcasters/production companies |
-| 高级（8年+） | $60,000,000~$99,999,999 | Chief Camera Operator or Major Film |
+| 入门级（0-3年） | $25,000,000~$35,000,000 | 自由职业者和职员标准 |
+| 中级（4-7年） | $40,000,000~$60,000,000 | 包括广播公司/制作公司的正式职位 |
+| 高级（8年+） | $60,000,000~$99,999,999 | 首席摄影指导或大型电影 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation can replace some tasks like auto-focus, color correction, and editing, but creative composition and on-site judgment remain human domain. Thus, they are used as tools rather than full replacements.
+AI和自动化可以替代自动对焦、色彩校正和编辑等任务，但创意构图和现场判断仍属于人类领域。因此，它们被用作工具而非完全替代。
 
-After field experience as an assistant camera operator or in lighting, one can advance to a chief camera operator, specialize in fields (drone, 3D, etc.), or work as an independent freelancer.
+在担任助理摄像师或灯光师获得现场经验后，可晋升为主摄像师，专攻某一领域（无人机、3D等），或成为独立自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Auto-focus and exposure adjustment
-- Basic color correction
-- Simple repetitive shooting (crop/resize)
+- 自动对焦和曝光调整
+- 基础色彩校正
+- 简单重复拍摄（裁剪/调整大小）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time AI-assisted shooting guide
-- AI-based scene analysis and optimization
-- Advanced color correction and post-production
+- 实时AI辅助射击指南
+- 基于AI的场景分析与优化
+- 高级色彩校正和后期制作
 
-**人类护城河:**
+**人类护城河：**
 
-- Artistic sense and directing skills
-- On-site situational response
-- Communication with actors and staff
-- Creative composition and lighting design
+- 艺术感和导演技能
+- 现场情景应对能力
+- 与演员及工作人员沟通
+- 创意构图与灯光设计
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Drone cinematography
-- Virtual production
-- AI video editing tools
-- Basics of 3D and VFX
-- Data-driven video optimization
+- 无人机航拍
+- 虚拟制作
+- AI视频编辑工具
+- 3D和视觉特效基础
+- 数据驱动视频优化
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content
-- Drone cinematography
-- Virtual production
-- 1-person media
+- OTT内容
+- 无人机航拍
+- 虚拟制作
+- 单人媒体
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued for inviting professionals in video production |
-| Subclass D-10 (Job-seeking) | Stay for job-seeking activities if holding a related degree |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with artistic sense and technical skills
-- Those with physical stamina and passion for outdoor shooting and long hours
+- 兼具艺术感和技术能力的人
+- 具备体力、热爱户外拍摄和长时间工作的人
 
 **谁不适合**
-- Those who value routine and stability
-- Those who prefer working alone
+- 重视规律和稳定性的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a cinematographer?**
-答：It varies greatly by career; entry-level is about 25-35 million won, mid-level 40-60 million won, and senior-level 60 million won to over 100 million won.
+**问：电影摄影师的平均工资是多少？**
+答：因职业而异；入门级约2500-3500万韩元，中级4000-6000万韩元，高级6000万至超过1亿韩元。
 
-**问：Can foreigners work as cinematographers in Korea?**
-答：E-7 visa allows invitation of skilled professionals, but Korean language skills and industry network are important, and competition is fierce.
+**问：外国人在韩国能担任电影摄影师吗？**
+答：E-7签证允许邀请熟练专业人士，但韩语能力和行业人脉很重要，且竞争激烈。
 
-**问：Are there any required certifications to become a cinematographer?**
-答：No required certifications, but broadcasting communication engineer or cinematographer qualifications help with employment, and practical experience is most important.
+**问：成为电影摄影师是否需要任何必需的证书？**
+答：无必需证书，但广播通信工程师或电影摄影师资格有助于就业，实践经验最为重要。
 
 
 ---
@@ -145,12 +136,12 @@ After field experience as an assistant camera operator or in lighting, one can a
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/camera-operator/KR)**

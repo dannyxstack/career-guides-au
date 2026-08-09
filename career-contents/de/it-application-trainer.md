@@ -51,8 +51,6 @@ IT application trainers are responsible for designing and implementing IT softwa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will greatly enhance curriculum design, personalized tutoring, and assessment feedback, but automation may replace basic operation demonstrations and FAQs; trainers need to shift to high-value coaching and content innovation.
-
 Typical career start is as an IT application trainer or technical support, progressing to senior trainer, training supervisor, or training manager, or transitioning to IT consulting or project management. Some practitioners become independent trainers through certification.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typical career start is as an IT application trainer or technical support, progr
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to IT talents with dual-system training qualifications or university degrees, no queuing required, direct application. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system for qualified IT professionals to seek work in Germany for one year. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior trainer, training supervisor, or training manager, or t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-application-trainer/DE)**

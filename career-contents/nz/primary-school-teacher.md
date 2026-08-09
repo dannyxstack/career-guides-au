@@ -54,8 +54,6 @@ Primary school teachers teach and manage classes for students aged 5 to 12, cove
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
-
 New teachers typically start with a permanent contract and can progress to senior teacher, year-level coordinator, or deputy principal with experience. Completing a master's degree or obtaining professional certification can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ New teachers typically start with a permanent contract and can progress to senio
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, a master's degree plus work experience can apply, subject to salary requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Prerequisite: obtain employer offer, need accredited employer, suitable for temporary work visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Need to submit overseas qualifications to the New Zealand Teaching Council fo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/NZ)**

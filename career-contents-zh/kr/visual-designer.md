@@ -1,10 +1,8 @@
-# Visual Designer 职业分析 · 韩国
+# 视觉设计师（Visual Designer）职业分析 · 韩国
 
-**职业代码: 41544 (KECO)**
+**职业代码：41544 (KECO)**
 
-A professional who designs the image of brands, products, and services through visual communication, working in diverse fields such as graphics, editorial, and UI/UX.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过视觉传达设计品牌、产品和服务形象的专业人士，涉及图形、编辑和UI/UX等多个领域。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who designs the image of brands, products, and services through v
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate's Degree (2-year) | 2 年 | $10,000,000~$20,000,000（Public vs. Private Difference） |
-| Bachelor's Degree (4-year) | 4年 | $20,000,000~$40,000,000（Based on design-related departments） |
+| 副学士学位（2年制） | 2 年 | $10,000,000~$20,000,000（公共与私营部门的差异） |
+| 学士学位（4年） | 4年 | $20,000,000~$40,000,000（基于设计相关院系） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who designs the image of brands, products, and services through v
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Engineer Visual Design | Human Resources Development Service of Korea | 可选 | Entry-level qualification lower than engineer level |
-| Computer Graphics Operation | Human Resources Development Service of Korea | 可选 | Proof of basic software skills |
-| GTQ (Graphic Technology Qualification) | Korea Productivity Center | 可选 | Assessment of Photoshop and other software skills |
+| 工业工程师视觉设计 | 韩国人力资源开发服务局 | 可选 | 低于工程师级别的入门资质 |
+| 计算机图形操作 | 韩国人力资源开发服务局 | 可选 | 基本软件技能证明 |
+| GTQ（图形技术资格） | 韩国生产力中心 | 可选 | Photoshop及其他软件技能评估 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 55,000. With increasing demand for digital content, employment of visual designers is expected to grow steadily, but AI development may replace some simple tasks, requiring advanced skills.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 55,000。随着数字内容需求增长，视觉设计师就业预计稳步增长，但人工智能发展可能替代部分简单工作，需具备高级技能。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,98 +39,90 @@ A professional who designs the image of brands, products, and services through v
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $24,000,000~$32,000,000 | Based on SMEs |
-| Mid-level (4–7 years) | $32,000,000~$45,000,000 | Agency/Corporate |
-| 高级（8年+） | $45,000,000~$65,000,000 | Art Director Level |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 基于中小企业 |
+| 中级（4–7年） | $32,000,000~$45,000,000 | 代理/企业 |
+| 高级（8年+） | $45,000,000~$65,000,000 | 艺术总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI is replacing some tasks like logo generation and image retouching, but creative concepts and strategic design remain human domains. Productivity gains from AI tools are expected, and advanced designers will need to use AI as a collaboration tool.
+AI正在取代一些任务如标志生成和图像润色，但创意概念和战略设计仍是人类领域。预计AI工具会提高生产力，高级设计师需要将AI作为协作工具使用。
 
-Career is typically built on a portfolio; freelancers, agencies, or in-house design teams are options. Mid-level can advance to art director or design team leader, or specialize in areas like UX/UI or motion graphics.
+职业生涯通常建立在作品集上；可选择自由职业者、代理机构或内部设计团队。中级可晋升为艺术总监或设计团队负责人，或专攻UX/UI、动态图形等领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple logo variations
-- Image correction and retouching
-- Template-based design
-- General banner creation
+- 简单标志变体
+- 图像校正和润饰
+- 基于模板的设计
+- 通用横幅制作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea sketching and prototyping
-- Color and font selection recommendations
-- User testing simulation
-- Design automation workflows
+- 创意构思与原型制作
+- 色彩和字体选择建议
+- 用户测试模拟
+- 设计自动化工作流程
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving skills
-- Brand strategy development
-- Emotional storytelling
-- Client collaboration and communication
+- 创造性解决问题的能力
+- 品牌策略制定
+- 情感叙事
+- 客户协作与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI design tools (e.g., DALL-E, Midjourney)
-- UX/UI Design
-- Data visualization
-- Programming Basics (HTML/CSS)
+- AI设计工具（如DALL-E、Midjourney）
+- UX/UI设计
+- 数据可视化
+- 编程基础（HTML/CSS）
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- UX/UI Design
-- Motion Graphics
-- Brand Design
-- Digital Publishing
+- UX/UI设计
+- 动态图形设计
+- 品牌设计
+- 数字出版
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled workers in professional design fields, requires employer sponsorship |
-| Subclass F-2 (Residence) | Granted to long-term residents, allows free employment, points-based |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking after design graduation, requires conversion upon employment |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative and aesthetically sensitive people
-- Proficient in digital tools and continuous learners
-- People who value teamwork and communication
+- 有创意和审美敏感的人
+- 精通数字工具且持续学习者
+- 重视团队合作与沟通的人
 
 **谁不适合**
-- Those who prefer repetitive simple tasks
-- Those stressed by rapid changes and feedback
+- 喜欢重复性简单任务的人
+- 因快速变化和反馈感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a visual designer?**
-答：Starting annual salary before tax is 24~32 million KRW, varies greatly by experience and portfolio.
+**问：视觉设计师的起薪是多少？**
+答：起薪税前年薪2400万~3200万韩元，因经验和作品集差异很大。
 
-**问：What visa does a foreigner need to work as a visual designer in Korea?**
-答：An E-7 visa is common, requiring professional design experience and employer sponsorship. Alternatively, you can enter on a D-10 job seeker visa and switch upon employment.
+**问：外国人在韩国担任视觉设计师需要什么签证？**
+答：E-7签证常见，需专业设计经验和雇主担保。也可持D-10求职签证入境，就业后转换。
 
-**问：What is the main career path for a visual designer?**
-答：Junior designers can advance to senior, art director, design team lead, or specialize in fields like UX/UI.
+**问：视觉设计师的主要职业路径是什么？**
+答：初级设计师可晋升为高级、艺术总监、设计团队负责人，或专攻UX/UI等领域。
 
 
 ---
@@ -150,12 +140,12 @@ Career is typically built on a portfolio; freelancers, agencies, or in-house des
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/visual-designer/KR)**

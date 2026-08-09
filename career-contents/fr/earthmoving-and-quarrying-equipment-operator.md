@@ -4,8 +4,6 @@
 
 Operate heavy equipment such as bulldozers, excavators, and loaders to carry out earth excavation, backfilling, leveling, and quarrying operations to ensure safe and efficient engineering operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate heavy equipment such as bulldozers, excavators, and loaders to carry out
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This profession faces high automation risks, with core tasks like bulldozing and excavation easily replaced by AI-optimized unmanned equipment. Entry-level positions continue to shrink, but there is still room for on-site judgment and maintenance of complex working conditions.
-
 Advance from junior operator to senior operator or team leader, learn multi-model operation, or transition to engineering management. Holding a CACES certificate is key to promotion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Advance from junior operator to senior operator or team leader, learn multi-mode
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié Passport Talent) | Suitable for skilled operators with French employer sponsorship, who must provide a work contract and prove a certain salary level. |
-| Subclass Carte bleue UE (EU Blue Card) | If salary meets threshold (approx. EUR 53,000 in 2024), can apply, but this occupation is usually lower and does not qualify. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Yes, CACES R383 is a mandatory legal requirement. Theoretical and practical e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-and-quarrying-equipment-operator/FR)**

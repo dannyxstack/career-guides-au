@@ -4,8 +4,6 @@
 
 French primary school teachers are responsible for teaching basic subjects to students aged 6-11, cultivating students' fundamental abilities and social skills. It belongs to the French public education system and is managed uniformly by the national education department.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ French primary school teachers are responsible for teaching basic subjects to st
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
 
 French primary school teachers can be promoted through seniority and evaluation to become members of school management teams or teaching advisors. Passing the rigorous Teacher Qualification Examination (CRPE) is required, with salary and responsibilities increasing after promotion.
 
@@ -100,17 +96,9 @@ French primary school teachers can be promoted through seniority and evaluation 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - EU Blue Card) | Applicable to senior teachers or education experts, requiring a French school work contract with an annual salary of no less than 42,052 euros |
-| Subclass Salarié (Salarié (Work permit)) | A regular work visa requires a French employer sponsorship to prove that the position cannot be held by an EU citizen |
-| Subclass Recherche emploi (Recherche d'emploi / Création d'entreprise) | Temporary graduate residence permit, allowing you to look for work in France, valid for 1 year |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Yes, you can be promoted to the school management team (such as Vice Principa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-school-teacher/FR)**

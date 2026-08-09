@@ -52,8 +52,6 @@ Child care workers (NOC 42201) in Canada are responsible for caring for and guid
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Early childhood educators face mixed impacts from AI: administrative and paperwork tasks can be automated, but direct care and emotional interaction are hard to replace; overall demand remains stable.
-
 Start as assistant teacher, advance to supervisor or director with experience, or transition to special education or family childcare. Continuous professional development (e.g., higher qualifications or certifications) aids career advancement and salary growth.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as assistant teacher, advance to supervisor or director with experience, o
 | Subclass PNP (Provincial Nominee Program) | Several provinces (e.g., Ontario, BC, Alberta) list childcare workers as priority occupations in their PNPs, with no employer sponsorship required. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer-sponsored immigration, suitable for applicants with job offers. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, most provinces require early childhood educator certification or registr
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-educator-and-assistant/CA)**

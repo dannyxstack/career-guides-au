@@ -52,8 +52,6 @@ Responsible for textual proofreading, formatting adjustments, and quality contro
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will greatly improve text proofreading efficiency, but complex contextual judgment, style consistency, and multimodal review still require human oversight. Purely basic proofreading positions are being squeezed, while demand for senior editor review roles is increasing.
-
 Junior proofreaders can be promoted to senior proofreaders, editorial assistants, or project managers. Some have turned to digital content management, SEO optimization, or freelancing, requiring continuous learning of new technologies and industry standards.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Junior proofreaders can be promoted to senior proofreaders, editorial assistants
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Suitable for those with CDI contracts offered by French employers and positions that meet local labor market conditions. A work permit (Autorisation de travail) is required. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with a master's degree or above or annual salaries over €40,000. You can obtain a 4-year residence permit, and your spouse may accompany you. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to positions with higher education qualifications + annual salary over €54,000. However, salaries in the publishing industry are usually low, making it difficult to meet the threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Proficient in French grammar and spelling, familiar with typography standards
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/copy-preparer-and-proofreader-in-publishing-and-press/FR)**

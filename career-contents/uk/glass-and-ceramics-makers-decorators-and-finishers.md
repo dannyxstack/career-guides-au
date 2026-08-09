@@ -53,8 +53,6 @@ This occupation involves forming, decorating, grinding, and polishing glass and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Glass and ceramics manufacturing, decorating, and finishing workers face medium automation risk; manual finishing and artistic design tasks still rely on humans, but standardized product forming, defect detection, etc., will be gradually replaced by AI machine vision and robots.
-
 Junior workers typically start as apprentices or on production lines, and with experience can advance to senior technicians, team supervisors, or quality controllers. A few may become independent craftsmen or studio owners.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior workers typically start as apprentices or on production lines, and with e
 | Subclass Scale-up (Scale-up Visa) | Applies to job opportunities with high-growth potential companies; salary must reach £33,000/year |
 | Subclass Graduate (Graduate Visa) | UK university graduates can apply, allowing them to work for 2 years (3 years for PhDs) in any industry |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common path is completing a 2-4 year apprenticeship to obtain NVQ Level 2/3. 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-and-ceramics-makers-decorators-and-finishers/UK)**

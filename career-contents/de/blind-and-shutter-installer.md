@@ -51,8 +51,6 @@ Blind and shutter installers measure, install, and repair various blinds, shutte
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Career path: start as a skilled worker (Geselle), can advance to foreman (Vorarbeiter) or master (Meister), or become self-employed. Master title also allows training apprentices.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: start as a skilled worker (Geselle), can advance to foreman (Vorarb
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Completion of a recognized vocational training program in Germany (or equivalent qualification) qualifies for a work visa. Credential recognition (Anerkennung) is required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking residence permit allowing entry to Germany for job search, requiring basic German (A2) and vocational qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires completing a 3-year dual vocational training program (Ausbil
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/blind-and-shutter-installer/DE)**

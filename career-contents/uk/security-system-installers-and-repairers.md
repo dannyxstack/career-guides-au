@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing electronic security syste
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Security System Installer/Repairer faces task restructuring: routine monitoring configuration and fault diagnosis are easily automated by AI, but on-site installation, physical security system maintenance, and client communication still rely on humans; overall outlook is mixed.
-
 Junior installers can advance to senior technicians, team leaders, or project managers. They can also move towards system design or cybersecurity integration. Obtaining electrical qualifications can expand into integrated building systems.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior installers can advance to senior technicians, team leaders, or project ma
 | Subclass Scale-up (Scale-up visa) | Suitable for employment by high-growth companies, must meet salary requirements |
 | Subclass Graduate (Graduate visa) | Graduate visa allows working in this occupation |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Common path: complete an apprenticeship or relevant electrical course, obtain
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-system-installers-and-repairers/UK)**

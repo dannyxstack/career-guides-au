@@ -51,8 +51,6 @@ Kitchen staff are responsible for preparing ingredients, cooking dishes, washing
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Kitchen staff face high automation risks, with AI and robots gradually replacing repetitive tasks. Competition for entry-level positions is intensifying, but supervisory and creative roles are less affected.
-
 Chefs can be promoted from kitchen staff to assistant chefs, department head chefs, or even head chefs, and can also transition to hotel or collective catering management positions.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Chefs can be promoted from kitchen staff to assistant chefs, department head che
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | For employed work residence, the employer must provide a CDI contract and meet the salary threshold |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passports are suitable for high-skilled or high-paying positions, but kitchen staff often struggle to meet the salary threshold |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: You can be promoted to assistant chef, department head chef, or even head che
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-staff/FR)**

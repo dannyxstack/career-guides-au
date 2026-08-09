@@ -52,8 +52,6 @@ Medical laboratory scientists perform diagnostic tests in pathology, hematology,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 Junior technicians can advance to senior technicians or lab supervisors through experience; they can also pursue further studies to become medical scientists or lab managers. Some transition to sales or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to senior technicians or lab supervisors through 
 | Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored temporary visa, requires employer support, can transfer to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme visa) | Employer-sponsored permanent residence visa, through direct application or 482 to 186 transfer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from junior technician to senior technician, lab supervisor, or 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-laboratory-technician/AU)**

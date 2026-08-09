@@ -4,8 +4,6 @@
 
 Responsible for managing the overall operations of hospitals, clinics, or medical centers, including strategic planning, finance, human resources, quality control, and ensuring compliance. It is a senior management position within the healthcare system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for managing the overall operations of hospitals, clinics, or medica
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
-
 Typically, they start in medical professions (doctors, nurses) or management positions, gradually rising to department head, deputy director, and finally to director. You can also accelerate your advancement through an MBA or a Master of Health Management. Cross-institutional transfers within private groups are common.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Typically, they start in medical professions (doctors, nurses) or management pos
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by a local resident. Applicable to non-EU citizens employed by medical institutions. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, university education and a high salary are required (annual salary of about 33,908 euros or more). Suitable for applicants with management experience. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Targeted at executives or senior technical talent, faster approval, and family members can be brought along. Requires high academic qualifications and a contract for a senior management position. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Local degrees are not mandatory, but foreign degrees must be accredited by Ho
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospital-and-healthcare-service-directors/ES)**

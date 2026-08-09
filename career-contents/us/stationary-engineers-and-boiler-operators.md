@@ -54,8 +54,6 @@ Operate or maintain stationary engines, boilers, or other mechanical equipment t
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will take over some monitoring and optimization tasks, but due to the need to operate physical equipment, handle emergencies, and comply with regulations, the role will not be fully replaced, but must adapt to digital tools to enhance efficiency.
-
 Starting as an apprentice or assistant, you can advance to senior operator or supervisor through experience. You can also obtain higher-level licenses and move into maintenance management or energy management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starting as an apprentice or assistant, you can advance to senior operator or su
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually requires a high school diploma, completion of on-the-job training or 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stationary-engineers-and-boiler-operators/US)**

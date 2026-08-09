@@ -52,8 +52,6 @@ Design special exhibits and sets for film, video, television, and theater produc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate some research and drawing tasks in set and exhibition design, but core abilities like creative ideation, spatial narrative, and on-site coordination still rely on humans. Designers need to leverage AI tools to improve efficiency and focus on high-value aspects.
-
 Start as a designer assistant or scene draftsman, then gradually advance to lead set designer or art director, or transition into exhibition design or interior design.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Start as a designer assistant or scene draftsman, then gradually advance to lead
 | Subclass O-1 (Extraordinary Ability) | Applicable to designers with significant achievements in their field, such as award-winning experience. |
 | Subclass Green Card (PERM) (Employment-Based) | Through employer-sponsored EB-2/EB-3 green card pathway, must demonstrate labor shortage. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Accumulate industry experience, build a strong portfolio, and gradually take 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/set-and-exhibit-designers/US)**

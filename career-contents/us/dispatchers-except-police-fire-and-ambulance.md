@@ -53,8 +53,6 @@ Responsible for dispatching workers, vehicles, equipment, or service vehicles vi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Delivery drivers face high risk of automation, especially last-mile delivery. Autonomous driving and drones will reduce job numbers, but niche areas like instant delivery and cold chain still have demand.
-
 Junior dispatchers can advance to senior dispatcher or dispatch supervisor through experience, and some can transition to logistics management, transportation coordination, or operations management. Long-term development can lead to logistics manager or supply chain director.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior dispatchers can advance to senior dispatcher or dispatch supervisor throu
 | Subclass EB-3 (EB-3 Skilled Workers) | Applicable to dispatchers with more than 2 years of training or experience, requiring a PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate they cannot find qualified US workers; apply for a green card through the labor certification process. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to dispatch supervisor, logistics manager, or operations manager;
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dispatchers-except-police-fire-and-ambulance/US)**

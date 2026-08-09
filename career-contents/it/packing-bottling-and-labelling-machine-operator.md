@@ -4,8 +4,6 @@
 
 Operate automated packaging, filling, and labeling machines to package and identify products, mainly in food, beverage, pharmaceutical, and chemical industries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate automated packaging, filling, and labeling machines to package and ident
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This occupation heavily relies on repetitive tasks; AI and automation will quickly replace most tasks. Entry-level positions will see significant reduction in demand, requiring a shift towards equipment maintenance and process optimization.
-
 Can advance from entry-level operator to production line leader, quality control officer, or equipment maintenance technician; can also transition to higher-level automated equipment management through training.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can advance from entry-level operator to production line leader, quality control
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU low-skilled workers, annual quota is limited, requires employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, but this occupation typically does not meet salary requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Some repetitive tasks may be replaced by machines, but maintenance, debugging
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packing-bottling-and-labelling-machine-operator/IT)**

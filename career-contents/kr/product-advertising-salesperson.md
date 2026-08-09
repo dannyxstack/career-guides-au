@@ -4,8 +4,6 @@
 
 This job involves planning and executing product advertising and promotions, and generating sales through sales activities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This job involves planning and executing product advertising and promotions, and
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI can replace ad performance analysis, targeting optimization, auto-response, etc., but customer relationship management and creative strategy remain human domains.
-
 Usually starts as a salesperson or marketing assistant, can be promoted to advertising planning and sales team leader, and can also transition to a digital marketing specialist.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Usually starts as a salesperson or marketing assistant, can be promoted to adver
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible as a professional worker, but sales positions are difficult to approve |
-| Subclass F-2 (F-2 (Residence)) | Permanent residency possible via points system, but sales roles disadvantageous for points |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +128,12 @@ A: E-7 visa possible, but sales roles make it hard to prove expertise, so approv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-advertising-salesperson/KR)**

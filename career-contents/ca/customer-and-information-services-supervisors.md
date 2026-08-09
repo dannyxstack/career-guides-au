@@ -51,8 +51,6 @@ Supervise customer service or information center teams, ensuring efficient handl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of Customer and Information Services Supervisor is partially compressed by AI (e.g., auto-replies, ticket sorting), but core tasks like interpersonal coordination, complex complaint handling, and training are enhanced — a mixed outlook overall.
-
 Can be promoted to customer service manager or operations manager, or transition to call center management or training roles. With experience, can take on larger teams.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can be promoted to customer service manager or operations manager, or transition
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: You can apply for federal skilled migration or provincial nomination, but mus
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-and-information-services-supervisors/CA)**

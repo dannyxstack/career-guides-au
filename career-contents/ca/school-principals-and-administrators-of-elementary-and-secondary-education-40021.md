@@ -52,8 +52,6 @@ A regional education manager in Canada is typically classified as a primary/seco
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administrative analysis tasks for a Regional Education Manager are partially automated, but interpersonal leadership, policy decision-making, and community coordination are harder to replace; overall position shows a 'mixed' trend.
-
 Career path: Regional Education Manager can advance to Provincial Education Superintendent or Education Policy Director. Some choose to move into higher education management (e.g., university department head) or education consulting firms, requiring accumulated management experience and education practice certificates.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Regional Education Manager can advance to Provincial Education Supe
 | Subclass PNP (Provincial Nominee Program) | Most provinces offer education management roles through PNP, such as Ontario Human Capital Priorities or Saskatchewan EE. |
 | Subclass AIP (Atlantic Immigration Program) | Applicable in Atlantic provinces, requires employer offer, suitable for those with education management experience |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most provinces (e.g., Ontario, BC) mandate a teaching license or educational 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-principals-and-administrators-of-elementary-and-secondary-education-40021/CA)**

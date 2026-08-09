@@ -52,8 +52,6 @@ Assist chemists, physicists, and engineers in experiments, sample analysis, inst
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemical and physical science technicians is mixed: automation will take over many repetitive experimental operations and data processing, but experimental design, anomaly analysis, and instrument maintenance—relying on human judgment and experience—will actually be amplified in value with AI assistance.
-
 From junior technician, one can advance to senior technician or lab supervisor, or become a chemist or physicist through further study. With experience, one can move into R&D, quality control, or management roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ From junior technician, one can advance to senior technician or lab supervisor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens; requires an employment contract with annual salary over €33,500 (2025 standard); can bring family; eligible for permanent residence after 2 years. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota, applies to non-EU workers, requires Italian employer sponsorship, limited spots, highly competitive. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the Italian Immigration Office. Upon approval, a work visa is issued, applicable to various occupations. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can progress from junior technician to senior technician, lab supervisor, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-and-physical-science-technician/IT)**

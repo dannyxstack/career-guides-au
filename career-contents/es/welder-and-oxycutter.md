@@ -52,8 +52,6 @@ Welders and gas cutters are responsible for connecting or cutting metal parts us
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Candidates can be promoted to welding technician, welding inspector, production supervisor, or become a welding engineer through continuing education. After gaining experience, you can start your own business or engage in high-precision welding (such as pressure vessels).
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Candidates can be promoted to welding technician, welding inspector, production 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Work residency sponsored by Spanish employers, applicable to non-EU skilled workers. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Targeting high-skilled talent, requires an annual salary of at least approximately €33,908 (2024 standard), suitable for intermediate-level welders and above. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, and you must prove your financial means. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can be promoted to welding inspector, workshop supervisor, or learn robot
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welder-and-oxycutter/ES)**

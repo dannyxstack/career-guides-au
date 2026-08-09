@@ -53,8 +53,6 @@ Responsible for installing, maintaining, and repairing refrigeration and air con
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 Installers can be promoted to technical supervisors, project supervisors, or specialize in large commercial/industrial systems and energy efficiency consulting. Starting one's own business and offering repair services is also a common path.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Installers can be promoted to technical supervisors, project supervisors, or spe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or equivalent experience, meeting annual salary requirements (approximately €33,908 in 2024) |
-| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residence requires employer sponsorship to prove that the position is difficult to recruit within the EU |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Under the Ley 14/2013 framework, applicable to high-skilled occupations in shortage, with streamlined procedures. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Typically, completing 2 years of FP Grado Medio (secondary vocational educati
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-and-air-conditioning-mechanics-and-installers/ES)**

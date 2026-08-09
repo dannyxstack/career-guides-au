@@ -52,8 +52,6 @@ New Zealand Customs Officers enforce customs, immigration, and biosecurity laws 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
-
 Career path: Start as a Customs Officer, then advance to Senior Customs Officer, team leader, or move into specialized roles like investigation or intelligence. Internal competition and additional training are usually required.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Start as a Customs Officer, then advance to Senior Customs Officer,
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is not a direct residence pathway, you can first work on an AEWV, then meet conditions to switch to residence |
 | Subclass SMC (Skilled Migrant Category) | Meet the six-point requirements; can apply for residence after obtaining a New Zealand job offer. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as a customs officer, can advance to senior officer, team leader, or mo
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-officer/NZ)**

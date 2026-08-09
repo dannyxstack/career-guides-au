@@ -52,8 +52,6 @@ Bungee masters operate bungee equipment, ensure participant safety, and guide ju
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core safety responsibilities and on-site interactions of a bungee master are difficult to replace by AI, but administrative and record-keeping tasks will be automated. AI enhances monitoring and marketing capabilities, resulting in low overall risk, though entry-level positions may decrease due to automation.
-
 Junior assistants can accumulate experience and advance to lead operator or safety supervisor. A few start small bungee companies, but require high investment and permits.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Junior assistants can accumulate experience and advance to lead operator or safe
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Can advance from assistant to main operator or safety supervisor; a few start
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bungy-jump-master/NZ)**

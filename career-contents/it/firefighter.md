@@ -4,8 +4,6 @@
 
 Firefighters are responsible for firefighting, rescue, emergency medical aid, and hazardous materials handling, and are a key component of Italy's civil protection and public safety system.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Firefighters are responsible for firefighting, rescue, emergency medical aid, an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation have mixed impacts on firefighter roles: administrative tasks like dispatch and documentation are reduced, but core tasks such as on-site firefighting and rescue remain hard to replace due to complex physical environments. AI instead enhances situational awareness and decision support.
-
 Career path: Recruit → Firefighter → Squad Leader → Company Commander → Incident Commander. Promotion through internal exams; some transition to civil defense or safety management.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career path: Recruit → Firefighter → Squad Leader → Company Commander → 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU high-skilled workers, but firefighters generally do not meet requirements due to the need for Italian citizenship or EU citizenship. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa, not applicable to public sector firefighters as the positions are usually only open to Italian or EU citizens. |
-| Subclass Nationality requirement (Italian Citizenship) | Firefighter positions usually require Italian nationality or EU citizenship, extremely difficult for non-EU citizens to obtain. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Starting as a firefighter, can be promoted to crew leader, station officer, c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter/IT)**

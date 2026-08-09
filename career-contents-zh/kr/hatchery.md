@@ -1,8 +1,8 @@
-# Hatchery 职业分析 · 韩国
+# 孵化场（Hatchery）职业分析 · 韩国
 
-**职业代码: 90411 (KECO)**
+**职业代码：90411 (KECO)**
 
-A hatchery specialist is an expert who artificially breeds and raises aquatic organisms to sell to fishermen or release directly into farms.
+孵化场专家是人工繁殖和养殖水生生物的专业人员，销售给渔民或直接放养到养殖场。
 
 
 ---
@@ -11,8 +11,8 @@ A hatchery specialist is an expert who artificially breeds and raises aquatic or
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Free (compulsory education)） |
-| College (Department of Aquaculture) | 2 年 | $3,000,000~$5,000,000（年度学费） |
+| 高中文凭 | 3年 | $0~$0（免费（义务教育）） |
+| 大学（水产养殖系） | 2 年 | $3,000,000~$5,000,000（年度学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A hatchery specialist is an expert who artificially breeds and raises aquatic or
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Aquaculture Business License | 地方当局 | 必备 | Mandatory for operating a farm |
-| Aquaculture Engineer | Human Resources Development Service of Korea | 可选 | Not required but advantageous for employment |
+| 水产养殖营业执照 | 地方当局 | 必备 | 经营农场必备 |
+| 水产养殖工程师 | 韩国人力资源开发服务局 | 可选 | 不必须，但对就业有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 22,000. Inland aquaculture has stable demand but faces a chronic labor shortage due to aging and lack of young workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 22,000。内陆水产养殖需求稳定，但因老龄化和缺乏年轻劳动力面临长期劳动力短缺。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,89 +38,82 @@ A hatchery specialist is an expert who artificially breeds and raises aquatic or
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $25,000,000~$30,000,000 | Annual salary before tax, average for fisheries |
-| Intermediate (4–7 years) | $32,000,000~$40,000,000 | 年薪税前 |
-| 高级（8年+） | $40,000,000~$60,000,000 | Annual salary before tax, managerial |
+| 初级（0-3年） | $25,000,000~$30,000,000 | 渔业平均税前年薪 |
+| 中级（4-7年） | $32,000,000~$40,000,000 | 年薪税前 |
+| 高级（8年+） | $40,000,000~$60,000,000 | 税前年薪，管理级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 很低（½☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：很低（½☆☆☆☆）**
 
-Although AI and automation are unlikely to directly replace aquaculture tasks, repetitive work such as feed supply and water quality management can be replaced by automated equipment, so the demand for labor is expected to decrease somewhat.
+尽管人工智能和自动化不太可能直接取代水产养殖任务，但喂料和水质管理等重复性工作可由自动化设备替代，因此劳动力需求预计会有所下降。
 
-Initially, you gain hands-on experience in the field; after 5–10 years, you can advance to farm manager or technical advisor.
+起初在现场获得实践经验；5-10年后，可晋升为农场经理或技术顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual Feed Supply
-- Simple Water Quality Measurement
-- Manual Sorting
+- 手动进料
+- 简单水质测量
+- 手动分拣
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automatic Feed Dispenser Monitoring
-- Water Quality Sensor Data Analysis
-- Remote Aquaculture Farm Control
+- 自动投料器监控
+- 水质传感器数据分析
+- 远程水产养殖场控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Disease Diagnosis and Response
-- Aquaculture Environment Control Know-How
-- Seafood Quality Evaluation
+- 疾病诊断与应对
+- 水产养殖环境控制技术
+- 海鲜质量评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated Equipment Operation
-- Water Quality Data Analysis
-- Aquaculture Biology Knowledge
+- 自动化设备操作
+- 水质数据分析
+- 水产养殖生物学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly aquaculture
-- Smart aquaculture
-- Increase in Seafood Exports
-- Expansion of Inland Aquaculture
+- 环保水产养殖
+- 智慧水产养殖
+- 海产品出口增加
+- 内陆水产养殖扩展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled aquaculture technicians may qualify |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to simple farm work only |
-| Subclass F-2 (Residence) | Long-term stay possible through points system |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit individuals
-- Those who enjoy outdoor activities
-- Those who like animals and plants
+- 身体健康者
+- 喜欢户外活动的人
+- 喜欢动植物的人
 
 **谁不适合**
-- Those with a weak stomach
-- Those who prefer regular working hours
+- 肠胃不好的人
+- 偏好固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a fish farmer?**
-答：Approximately 25-30 million KRW pre-tax for entry-level, up to 60 million KRW depending on experience.
+**问：养鱼人的年薪是多少？**
+答：入门级税前约2500-3000万韩元，根据经验最高可达6000万韩元。
 
-**问：Are there visas for foreigners to work as fish farmers?**
-答：Yes, the E-7 visa (Specific Activities) allows hiring skilled technicians, while the E-9 visa is limited to simple work.
+**问：外国人有成为渔民的工作签证吗？**
+答：是的，E-7签证（特定活动）允许雇佣熟练技术人员，而E-9签证仅限于简单工作。
 
 
 ---
@@ -138,12 +131,12 @@ Initially, you gain hands-on experience in the field; after 5–10 years, you ca
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 很低（½☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hatchery/KR)**

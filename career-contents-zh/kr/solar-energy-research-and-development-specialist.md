@@ -1,8 +1,8 @@
-# Solar Energy Research and Development Specialist 职业分析 · 韩国
+# 太阳能研发专家（Solar Energy Research and Development Specialist）职业分析 · 韩国
 
-**职业代码: 15512 (KECO)**
+**职业代码：15512 (KECO)**
 
-A professional who researches and develops materials, cells, modules, and system technologies to improve solar energy conversion efficiency.
+研究开发材料、电池、组件和系统技术以提高太阳能转换效率的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who researches and develops materials, cells, modules, and system
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（工程学士） | 4年 | $40,000,000~$80,000,000（National vs. private university） |
-| 硕士学位 | 2 年 | $20,000,000~$40,000,000（Graduate school scholarship available） |
-| Doctoral degree | 3年 | $0~$10,000,000（Free with research funding support） |
+| 本科（工程学士） | 4年 | $40,000,000~$80,000,000（国立与私立大学对比） |
+| 硕士学位 | 2 年 | $20,000,000~$40,000,000（提供研究生院奖学金） |
+| 博士学位 | 3年 | $0~$10,000,000（研究经费支持免费） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who researches and develops materials, cells, modules, and system
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master's degree or higher | 大学 | 必备 | Mandatory for most R&D positions |
-| Renewable Energy Generation Facility (Solar) Engineer | Human Resources Development Service of Korea | 可选 | Optional, bonus points |
-| 电气工程师 | Human Resources Development Service of Korea | 可选 | Not required, advantageous |
+| 硕士及以上学历 | 大学 | 必备 | 大多数研发岗位的强制性要求 |
+| 可再生能源发电设施（太阳能）工程师 | 韩国人力资源开发服务局 | 可选 | 可选，加分项 |
+| 电气工程师 | 韩国人力资源开发服务局 | 可选 | 非必需，具有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 2,500. Due to carbon neutrality policies and RE100 expansion, solar energy demand continues to grow, leading to a favorable employment outlook, but there are some risks due to the technology gap with China and intensified market competition.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 2,500。由于碳中和政策和RE100的扩展，太阳能需求持续增长，就业前景良好，但由于与中国的技术差距和市场竞争加剧，存在一定风险。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,94 +40,87 @@ A professional who researches and develops materials, cells, modules, and system
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on large corporate research institutes |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Principal Researcher Level |
-| 资深（10年以上） | $75,000,000~$99,999,999 | Chief Researcher or Higher |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于大型企业研究机构 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 首席研究员级别 |
+| 资深（10年以上） | $75,000,000~$99,999,999 | 首席研究员或更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation improve research efficiency in photovoltaic cell design optimization, property simulation, and data analysis, but creative experiment design and understanding physical mechanisms remain human domains, so some tasks may be reduced.
+人工智能和自动化提高了光伏电池设计优化、性能模拟和数据分析的研究效率，但创造性实验设计和理解物理机制仍是人类领域，因此某些任务可能会减少。
 
-After obtaining a master's or doctoral degree, join a research institute and advance from junior to senior to principal researcher. Possible career paths include CTO, university professor, or entrepreneurship.
+获得硕士或博士学位后，加入研究所，从初级研究员晋升到高级再到首席研究员。可能的职业路径包括CTO、大学教授或创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic material property data collection and organization
-- Standard module performance simulation
-- Simple experimental data preprocessing
+- 基本材料物性数据收集与整理
+- 标准模块性能模拟
+- 简单的实验数据预处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Material property prediction simulation
-- Large-scale experiment result analysis and pattern discovery
-- Automated experiment design assistance
+- 材料性能预测模拟
+- 大规模实验结果分析和模式发现
+- 自动化实验设计辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative hypothesis formulation
-- Laboratory physical problem solving
-- Industry-academia networking
-- Intuitive understanding of new technologies
+- 创造性假设提出
+- 实验室物理问题解决
+- 产业-学术界合作
+- 对新技术的直觉理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning-based material design
+- 基于机器学习的材料设计
 - Python/R数据分析
-- Understanding of next-generation solar cells such as perovskite
-- Collaboration and project management
+- 了解下一代太阳能电池如钙钛矿
+- 协作与项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-efficiency cells
-- Perovskite
+- 高效电池
+- 钙钛矿
 - BIPV
-- Energy storage
+- 储能
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to R&D personnel in high-tech fields; employment contract required |
-| Subclass D-10 (Job Seeking) | For master's degree holders; E-7 conversion possible after up to 2 years of stay |
-| Subclass F-2 (F-2 (Residence)) | Pre-stage to points-based permanent residence; advantageous for long-term stay |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in physics, chemistry, and materials science
-- Detail-oriented personality who enjoys experiments and data analysis
-- People interested in energy and environmental issues
+- 对物理、化学和材料科学感兴趣的人
+- 注重细节、喜欢实验与数据分析的性格
+- 对能源和环境问题感兴趣的人
 
 **谁不适合**
-- Those who find repetitive experiments tedious
-- Those resistant to learning new technologies
+- 觉得重复实验枯燥的人
+- 抗拒学习新技术的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for solar power R&D researchers?**
-答：Based on large corporation labs, annual salary is around 35-45 million KRW; small and medium enterprises may be somewhat lower.
+**问：太阳能研发研究员的起薪是多少？**
+答：基于大企业实验室，年薪约3500-4500万韩元；中小企业可能略低。
 
-**问：Is it difficult for foreigners to get a work visa for this occupation?**
-答：It's possible with an E-7 visa, but education (master's or higher) and experience are important, and employer recommendation is required. It's classified as advanced technology, so it's relatively favorable.
+**问：外国人获得该职业的工作签证困难吗？**
+答：可通过E-7签证实现，但学历（硕士及以上）和经验很重要，且需要雇主推荐。属于先进技术类别，因此相对有利。
 
 **问：这个职业的职业发展路径是什么？**
-答：Typically, one builds experience in research labs, some move into startups, become university professors, or go to overseas research institutions.
+答：通常在研究实验室积累经验，有些人转向初创公司，成为大学教授，或前往海外研究机构。
 
 
 ---
@@ -145,12 +138,12 @@ After obtaining a master's or doctoral degree, join a research institute and adv
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/solar-energy-research-and-development-specialist/KR)**

@@ -1,6 +1,6 @@
-# Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations 职业分析 · 加拿大
+# 承包商和主管，机械加工、金属成型、塑造和架设行业及相关职业（Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations）职业分析 · 加拿大
 
-**职业代码: 72010 (NOC)**
+**职业代码：72010 (NOC)**
 
 该职业负责监督和协调机械加工、金属成型、金属结构制造和安装行业工人的活动，并可能亲自参与工作。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 13,500. 加拿大制造业和建筑业对金属制品需求稳定，该职业前景良好。由于技术工人短缺，有经验的承包商和主管尤其受欢迎。预计未来几年就业机会稳定增长。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 13,500。加拿大制造业和建筑业对金属制品需求稳定，该职业前景良好。由于技术工人短缺，有经验的承包商和主管尤其受欢迎。预计未来几年就业机会稳定增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 该职业监督与执行并重，AI将接管编程、质量检测等重复性任务，压缩低端岗位；但增强排程、工艺优化和远程诊断等能力，要求从业者提升技术管理技能，整体风险与机遇并存。
 
 通常从熟练技工（如焊工、机械师）晋升而来。积累经验后可成为承包商或公司主管，也可转向项目管理或自主创业。持续学习新技术（如CNC、机器人焊接）有利于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手动G代码编程与编辑（AI自动生成优化代码）
 - 常规质量检测与尺寸测量（视觉AI自动检测）
@@ -64,7 +64,7 @@
 - 简单排程与物料跟踪（AI调度系统接管）
 - 故障排查中重复性诊断（AI读取传感器数据定位问题）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助进行数控机床加工路径优化，提升效率与精度
 - 利用数字孪生模拟制造流程，预测风险并优化参数
@@ -72,7 +72,7 @@
 - 增强远程监督能力，通过AR/AI进行多工位协调
 - AI生成培训材料，辅助新员工快速掌握操作规范
 
-**人类护城河:**
+**人类护城河：**
 
 - 对复杂非标件的工艺设计与工装决策
 - 跨工种协调与现场应急指挥能力
@@ -80,7 +80,7 @@
 - 与客户、设计师沟通，理解隐性需求
 - 对学徒和低技能工人的实战培训与指导
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数控编程与CAM软件（如Mastercam, NX）
 - 工业物联网与数据分析基础
@@ -89,16 +89,16 @@
 - AI/机器学习在制造业应用概念
 - 增强现实（AR）用于远程维护与培训
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Manufacturing
-- Construction
-- Skilled Trades
-- Metal Fabrication
+- 制造业
+- 建筑业
+- 技能行业
+- 金属制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass PNP (Provincial Nominee Program) | 各省针对技工类职业的提名项目，如安大略省技工类别 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主可申请LMIA支持工签，尤其适用于紧缺职业 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★☆☆）**
 
 ---
 
@@ -153,12 +151,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/contractors-and-supervisors-machining-metal-forming-shaping-and-erecting-trades-and-related-occupations/CA)**

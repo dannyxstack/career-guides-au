@@ -54,8 +54,6 @@ Steel fixers are responsible for installing, assembling, and reinforcing steel b
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Ironworkers can progress from apprentice to skilled worker, then to foreman, supervisor, or project manager. They can also expand skills through additional certifications (e.g., welding).
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Ironworkers can progress from apprentice to skilled worker, then to foreman, sup
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario) list ironworkers as priority occupations, eligible for immigration through provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas; after one year of work, may qualify for Express Entry experience category. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Generally, you need to complete a provincial apprenticeship program and obtai
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ironworkers/CA)**

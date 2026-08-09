@@ -53,8 +53,6 @@ Prepare and cook food in fast-food restaurants with a limited menu. Duties are l
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fast food cook jobs are highly structured and easily automated, leading to a significant reduction in future positions and fewer entry-level opportunities.
-
 Fast-food cooks can advance to sous chef or restaurant manager, or transition to other cooking roles. Some employers offer on-the-job training and management development courses.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Fast-food cooks can advance to sous chef or restaurant manager, or transition to
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance from chef to sous chef, restaurant manager, or transfer to other 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooks-fast-food/US)**

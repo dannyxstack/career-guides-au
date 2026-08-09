@@ -1,10 +1,8 @@
-# Social Activist 职业分析 · 韩国
+# 社会活动家（Social Activist）职业分析 · 韩国
 
-**职业代码: 23151 (KECO)**
+**职业代码：23151 (KECO)**
 
-A profession that plans and executes activities to solve social problems within civil society organizations, and is responsible for member management and external cooperation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在民间社会组织中策划和执行活动以解决社会问题的职业，负责会员管理和外部合作。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that plans and executes activities to solve social problems within 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（Eligible for applicants with high school diploma or higher） |
-| Department of Social Welfare at a community college | 2 年 | $6,000,000~$12,000,000（Including tuition and textbook fees） |
-| Department of Social Welfare at a university | 4年 | $20,000,000~$40,000,000（Based on public institutions） |
+| 高中文凭 | 0年 | $0~$0（高中或以上学历者均可申请） |
+| 社区大学社会福利系 | 2 年 | $6,000,000~$12,000,000（包括学费和教材费） |
+| 大学社会福祉系 | 4年 | $20,000,000~$40,000,000（基于公共机构） |
 
 ---
 
@@ -23,17 +21,17 @@ A profession that plans and executes activities to solve social problems within 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Worker Level 2 | Korea Association of Social Workers | 可选 | 非强制但有利 |
-| Youth Counselor | Ministry of Gender Equality and Family | 可选 | Helpful when working in the relevant field |
+| 社工二级 | 韩国社会工作者协会 | 可选 | 非强制但有利 |
+| 青少年辅导员 | 性别平等与家庭部 | 可选 | 在相关领域工作时有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 45,000. Demand is stable due to increased interest in social issues and expanded citizen participation, but employment growth is expected to be modest due to high financial dependency.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 45,000。由于社会问题关注度提高和公民参与扩大，需求稳定，但因财务依赖度高，就业增长预计有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,86 +39,79 @@ A profession that plans and executes activities to solve social problems within 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Based on small organizations |
-| 中级 (4-7年) | $30,000,000~$40,000,000 | Including large organizations |
-| Advanced (8 years or more) | $40,000,000~$55,000,000 | Executive director level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于小型组织 |
+| 中级 (4-7年) | $30,000,000~$40,000,000 | 包括大型组织 |
+| 高级（8年及以上） | $40,000,000~$55,000,000 | 执行董事级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI can replace clerical tasks like member management and data analysis, core roles such as field activities and interpersonal relations remain uniquely human, making full replacement difficult.
+尽管人工智能可以取代会员管理和数据分析等文书工作，但实地活动与人际关系等核心角色仍然独特地属于人类，因此完全替代较为困难。
 
-Starting as a social activist, one can advance to managerial positions such as team leader or executive director, or grow into a specialized activist in fields like environment or human rights.
+从社会活动家起步，可晋升至团队领导或执行董事等管理职位，或发展为环境、人权等领域的专业活动家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Sending regular text messages to members
-- Organizing basic statistical data
+- 向会员定期发送短信
+- 组织基础统计数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Matching volunteers
-- Analyzing campaign effectiveness
+- 匹配志愿者
+- 分析活动效果
 
-**人类护城河:**
+**人类护城河：**
 
-- Field activities
-- Interpersonal persuasion
-- Building trust relationships
+- 实地活动
+- 人际说服
+- 建立信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI-powered communication
+- 数据分析
+- 人工智能驱动的沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- civic group
-- Social Economy
-- Volunteering
-- NGO
+- 市民团体
+- 社会经济
+- 志愿服务
+- 非政府组织
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if expertise recognized, but very limited |
-| Subclass D-10 (Job Seeking) | Permitted to engage in activities during employment stay, but paid work limited |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person with a strong interest in social issues and a clear sense of problem awareness
-- Person skilled in collaboration and interpersonal relationships
-- A proactive person who drives work independently
+- 对社会问题有强烈兴趣和清晰问题意识的人
+- 擅长协作和人际关系的人
+- 积极主动、独立推动工作的人
 
 **谁不适合**
 - 期望稳定高收入的人
-- People who prefer regular and structured tasks
+- 喜欢规律和结构化任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a social organization activist?**
-答：Entry-level salary around 24~30 million KRW, which is low compared to other occupations, but increases with experience.
+**问：社会组织活动家的平均年薪是多少？**
+答：入门薪资约2400~3000万韩元，相比其他职业较低，但随经验增长而提高。
 
-**问：Can a foreigner get a Korean work visa for this job?**
-答：E-7 visa eligibility exists but requires proof of expertise and is highly restrictive.
+**问：外国人能否获得这份工作的韩国工作签证？**
+答：E-7签证资格存在，但需要专业证明且限制严格。
 
 
 ---
@@ -138,12 +129,12 @@ Starting as a social activist, one can advance to managerial positions such as t
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/social-activist/KR)**

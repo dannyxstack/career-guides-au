@@ -4,8 +4,6 @@
 
 Work at pawnshops or lending institutions, assess collateral values and issue microloans, while also handling customer consultations and transaction records.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Work at pawnshops or lending institutions, assess collateral values and issue mi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Pawnshops and loan officers face the dual impact of AI replacement and augmentation: assessment and paperwork can be automated, but customer relationships and risk assessment still require humans, with overall risk being moderate.
-
 You can be promoted from junior staff to store manager or regional manager, or move to bank or financial customer service roles, but you need to accumulate collateral appraisal experience and client resources.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from junior staff to store manager or regional manager, or m
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | Need a job offer from a Spanish employer, and the position must be proven unresolvable from within the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for up to 6 months looking for work, but pawnshop positions usually do not meet the high-skill requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted from junior staff to store manager or regional manager, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pawnbroker-and-loan-officer/ES)**

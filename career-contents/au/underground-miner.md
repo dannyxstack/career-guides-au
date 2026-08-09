@@ -55,8 +55,6 @@ Underground Miners operate drilling rigs, loading machinery and transport equipm
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Underground miners face dual impacts from AI and automation: repetitive operations like drilling and loading will be replaced by automated machinery, but human judgment is still needed for geological change handling, equipment repair, and emergency decisions. Job numbers may shrink but value increase.
-
 Autonomous underground equipment is rapidly becoming widespread, but large numbers of frontline mining workers are still needed for operation and supervision. Earnings during annual shutdowns are exceptionally high.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Autonomous underground equipment is rapidly becoming widespread, but large numbe
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Certificate II (3–6 months) is the fastest entry pathway; some mining 
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underground-miner/AU)**

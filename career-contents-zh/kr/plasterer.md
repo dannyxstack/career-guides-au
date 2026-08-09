@@ -1,8 +1,8 @@
 # 抹灰工（Plasterer）职业分析 · 韩国
 
-**职业代码: 70211 (KECO)**
+**职业代码：70211 (KECO)**
 
-A construction worker who finishes walls or floors by applying mortar, cement, etc., and is key to the interior and exterior aesthetics and durability of buildings.
+通过涂抹砂浆、水泥等完成墙面或地板的建筑工人，对建筑物内外美观和耐用性至关重要。
 
 
 ---
@@ -12,8 +12,8 @@ A construction worker who finishes walls or floors by applying mortar, cement, e
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中及以上学历 | 0年 | $0~$0（无特定学历要求） |
-| Vocational training (e.g., Polytech) | 1年 | $300,000~$2,000,000（Government support available, costs vary） |
-| On-site apprenticeship | 2 年 | $0~$0（Learn while receiving wages） |
+| 职业培训（例如理工学院） | 1年 | $300,000~$2,000,000（政府支持可用，费用各异） |
+| 现场学徒制 | 2 年 | $0~$0（边领工资边学习） |
 
 ---
 
@@ -21,18 +21,18 @@ A construction worker who finishes walls or floors by applying mortar, cement, e
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Plasterer (Craftsman) | Human Resources Development Service of Korea | 必备 | National technical qualification, essential for beginners |
-| Plasterer (Industrial Engineer) | Human Resources Development Service of Korea | 可选 | For intermediate level or above, advantageous for promotion |
-| General Construction (Craftsman) | Human Resources Development Service of Korea | 可选 | Related qualification, can substitute |
+| 抹灰工（手工艺人） | 韩国人力资源开发服务局 | 必备 | 国家技术资格，适合初学者 |
+| 抹灰工（工业工程师） | 韩国人力资源开发服务局 | 可选 | 对于中级及以上，有利于晋升 |
+| 普通建筑（工匠） | 韩国人力资源开发服务局 | 可选 | 相关资质，可替代 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 68,000. Sensitive to construction cycle fluctuations, but steady demand due to housing and infrastructure needs. High need for new entrants due to aging workforce.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 68,000。受建筑周期波动影响，但由于住房和基础设施需求，需求稳定。由于劳动力老龄化，对新进入者需求旺盛。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,64 +40,57 @@ A construction worker who finishes walls or floors by applying mortar, cement, e
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | High proportion of daily workers, large fluctuations |
-| 中级 (4-7年) | $35,000,000~$45,000,000 | Stable upon conversion to full-time |
-| Advanced (8+ years) | $50,000,000~$65,000,000 | Master level, field manager level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 临时工比例高，波动大 |
+| 中级 (4-7年) | $35,000,000~$45,000,000 | 转为全职后稳定 |
+| 高级（8年以上） | $50,000,000~$65,000,000 | 硕士级别，领域经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation have limited impact, but the introduction of automatic plastering machines may reduce simple repetitive tasks. The know-how of skilled workers remains crucial.
+人工智能和自动化影响有限，但自动抹灰机的引入可能减少简单重复任务。技术工人的专有技术仍然至关重要。
 
-Can advance from beginner plasterer → intermediate plasterer → senior plastering master → site manager. Experience and certifications are crucial for promotion.
+可从初级抹灰工→中级抹灰工→高级抹灰大师→现场经理晋升。经验和认证对晋升至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple mortar application
-- Leveling work
+- 简单砂浆涂抹
+- 整平工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision finishing
-- Complex curved surface work
+- 精密加工
+- 复杂曲面加工
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability
-- Fingertip feel
-- Understanding material properties
+- 现场适应能力
+- 指尖触感
+- 理解材料特性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating automatic plastering machines
-- 3D scanning assistance
-- Eco-friendly material application methods
+- 操作自动抹灰机
+- 3D扫描辅助
+- 环保材料应用方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in remodeling
-- Repair of old buildings
-- Shortage of skilled workers
-- Mechanization and automation
+- 翻新需求增加
+- 旧建筑维修
+- 熟练工人短缺
+- 机械化与自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Targets foreign workers in construction, issued under Employment Permit System, can include plasterers |
-| Subclass E-7 (Specific Activities (E-7)) | Targets skilled workers, experienced plasterers eligible |
-| Subclass F-2 (Residence (F-2)) | Long-term residence status, can convert under skilled worker points system |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -105,25 +98,25 @@ Can advance from beginner plasterer → intermediate plasterer → senior plaste
 
 **谁适合**
 - 身体健康、喜欢户外工作的人
-- People with dexterity and attention to detail
-- People who value teamwork on construction sites
+- 灵巧且注重细节的人
+- 重视建筑工地团队合作的人
 
 **谁不适合**
-- People who lack patience for precision work
-- People who do not follow safety rules
+- 缺乏精密工作耐心的人
+- 不遵守安全规定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a plasterer?**
-答：For entry-level, about 24-30 million KRW; with experience, up to 50 million KRW or more. Income varies due to high proportion of daily work.
+**问：抹灰工的的年平均工资是多少？**
+答：入门级约2400-3000万韩元；有经验者可达5000万韩元或以上。由于日常工作比例高，收入波动较大。
 
-**问：What visa does a foreigner need to work as a plasterer?**
-答：E-9 (Non-professional Employment) visa (Employment Permit System) or E-7 (Specific Activities) visa are possible. Skilled workers may switch to F-2 (Residence) visa.
+**问：外国人做抹灰工需要什么签证？**
+答：E-9（非专业就业）签证（就业许可制度）或E-7（特定活动）签证均可。熟练工人可转为F-2（居住）签证。
 
-**问：What is the career development path as a plasterer?**
-答：After obtaining a technician certificate and gaining experience, you can advance to a site manager or professional master craftsman. Further training can lead to a career shift as a construction technician.
+**问：作为泥水匠的职业发展路径是什么？**
+答：获得技术员证书并积累经验后，可晋升为现场经理或专业大师傅。进一步培训可转向建筑技术员职业。
 
 
 ---
@@ -141,12 +134,12 @@ Can advance from beginner plasterer → intermediate plasterer → senior plaste
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plasterer/KR)**

@@ -52,8 +52,6 @@ Supervise and coordinate the work of office administrative support workers to en
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The daily administrative coordination tasks of office managers are easily automated by AI, reducing entry-level positions, but strategic and HR decisions still require humans.
-
 Can advance from administrative assistant or clerk to supervisor, then to administrative manager or operations manager. After gaining management experience and industry knowledge, can move to senior management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from administrative assistant or clerk to supervisor, then to admini
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations for applicants with relevant work experience or employer sponsorship |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove inability to recruit locally |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some clerical work may be automated, but supervisory, coordination, and inter
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-general-office-and-administrative-support-workers/CA)**

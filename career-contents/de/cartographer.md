@@ -51,8 +51,6 @@ Cartographers create and update various maps, including paper and digital maps, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
-
 Can advance from technician to project management or senior specialist, or transition to GIS analyst or research positions in geographic information science.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from technician to project management or senior specialist, or trans
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for dual-system training graduates; vocational qualifications must be recognized |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for potential skilled migrant job seekers |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: If you have a bachelor's degree (e.g., Geographic Information Science) and me
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographer/DE)**

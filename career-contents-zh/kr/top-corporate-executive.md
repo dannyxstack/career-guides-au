@@ -1,10 +1,8 @@
-# Top Corporate Executive 职业分析 · 韩国
+# 企业高管（Top Corporate Executive）职业分析 · 韩国
 
-**职业代码: 01121 (KECO)**
+**职业代码：01121 (KECO)**
 
-Top executive who oversees strategic decision-making and organizational operations, setting and executing management goals with board or shareholder approval.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责监督战略决策和组织运营的高层管理者，经董事会或股东批准后制定并执行管理目标。
 
 
 ---
@@ -13,8 +11,8 @@ Top executive who oversees strategic decision-making and organizational operatio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000,000~$60,000,000（Based on public universities; private may be higher） |
-| Master's degree (including MBA) | 2 年 | $30,000,000~$80,000,000（MBA programs add KRW 10-30 million） |
+| 学士学位 | 4年 | $40,000,000~$60,000,000（基于公立大学；私立可能更高） |
+| 硕士（包括MBA） | 2 年 | $30,000,000~$80,000,000（MBA项目增加1000-3000万韩元） |
 
 ---
 
@@ -22,18 +20,18 @@ Top executive who oversees strategic decision-making and organizational operatio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 管理顾问 | Human Resources Development Service of Korea | 可选 | National qualification, advantageous for SME management consulting |
-| 注册会计师(CPA) | Financial Supervisory Service | 可选 | Certifies financial and accounting expertise |
-| Law License | Korean Bar Association | 可选 | Beneficial when legal expertise is needed |
+| 管理顾问 | 韩国人力资源开发服务局 | 可选 | 国家资格，对中小企业管理咨询有利。 |
+| 注册会计师(CPA) | 金融监督院 | 可选 | 认证财务和会计专业知识 |
+| 法律执业许可证 | 韩国律师协会 | 可选 | 当需要法律专业知识时很有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 45,000. Aging population and technological changes sustain demand for corporate innovation and leadership, but it is sensitive to economic fluctuations, with employment expected to stagnate or grow slightly.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 45,000。人口老龄化和技术变革维持企业创新和领导力需求，但对经济波动敏感，就业预计停滞或略有增长。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,93 +39,87 @@ Top executive who oversees strategic decision-making and organizational operatio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $80,000,000~$99,999,999 | Executive at SME, team leader at large company |
-| Mid-level (4-10 years) | $99,999,999 | Vice president at mid-sized company, director at large company |
-| 资深（10年以上） | $99,999,999 | CEO at large company, no upper limit if including owner family |
+| 入门级（0-3年） | $80,000,000~$99,999,999 | 中小企业高管，大公司团队负责人 |
+| 中级（4-10年） | $99,999,999 | 中型公司副总裁，大型公司总监 |
+| 资深（10年以上） | $99,999,999 | 大型公司CEO，若含业主家族则无上限 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can enhance data-driven strategic decision-making for C-suite executives, but it cannot replace human judgment and leadership. It will evolve to boost productivity by leveraging AI tools.
+AI可以增强高管层的数据驱动战略决策，但不能取代人类判断和领导力。它将通过利用AI工具提升生产力而发展。
 
-Typically promoted internally at large or mid-sized companies, advancing to CEO after completing an MBA or professional management program and serving as a division head.
+通常在大型或中型公司内部晋升，在完成MBA或专业管理课程并担任部门负责人后晋升为CEO。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Structured report writing
-- Data aggregation and analysis
-- Schedule management
+- 结构化报告撰写
+- 数据汇总与分析
+- 时间表管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Strategy simulation
-- Risk prediction
-- Decision-support data analysis
+- 战略模拟
+- 风险预测
+- 决策支持数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Vision presentation
-- Organizational culture building
-- Human relations and negotiation
-- Crisis judgment
+- 愿景展示
+- 组织文化建设
+- 人际关系与谈判
+- 危机判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Digital transformation
-- ESG management
-- Global networking
+- 数据素养
+- 数字化转型
+- ESG管理
+- 全球网络建设
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Strategic decision-making
-- Digital Transformation
-- ESG Management
-- Global Leadership
+- 战略决策
+- 数字化转型
+- ESG管理
+- 全球领导力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign high-level talent to serve as corporate executives, but realistically very limited |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with exceptional leadership and decision-making skills
-- Someone who can lead an organization with long-term vision and strategic thinking
-- Someone ready to handle high stress and responsibility
+- 具有卓越领导力和决策能力的人
+- 能够以长期愿景和战略思维领导组织的人
+- 准备好承受高压和责任的人
 
 **谁不适合**
-- Someone who prefers individual contributions over organizational management
-- Someone with strong risk aversion and fear of change
+- 偏好个人贡献而非组织管理的人
+- 强烈风险规避和害怕变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for senior corporate executives?**
-答：Depending on career and company size: entry-level 80 million to 150 million KRW, mid-level 150 million to 300 million KRW, senior 300 million KRW or more; CEOs of large corporations can reach tens of billions KRW.
+**问：高级企业高管的平均工资是多少？**
+答：根据职业和公司规模：初级 8000 万至 1.5 亿韩元，中级 1.5 亿至 3 亿韩元，高级 3 亿韩元或以上；大型企业首席执行官可达数百亿韩元。
 
-**问：Can foreigners work as senior corporate executives in Korea?**
-答：Possible with an E-7 visa, but very difficult due to strict review of the principle of replacing local workers and employment reasons. Mostly filled by domestic personnel.
+**问：外国人能在韩国担任高级企业高管吗？**
+答：持E-7签证可能，但由于严格审查本地劳工替代原则和雇佣理由，非常困难。大多由国内人员担任。
 
-**问：What are the paths to becoming an executive?**
-答：Typically, after earning a bachelor's degree/MBA from a prestigious university, joining a large company, gaining recognition for performance and leadership, and being promoted from department head to executive. Another path is becoming CEO after starting a business.
+**问：成为高管的途径有哪些？**
+答：通常，从名校获得学士/MBA后，加入大公司，因业绩和领导力获得认可，从部门主管晋升为高管。另一条路是创业后成为CEO。
 
 
 ---
@@ -145,12 +137,12 @@ Typically promoted internally at large or mid-sized companies, advancing to CEO 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/top-corporate-executive/KR)**

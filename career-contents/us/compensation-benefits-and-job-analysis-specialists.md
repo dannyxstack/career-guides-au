@@ -52,8 +52,6 @@ Compensation, Benefits and Job Analysis Specialists design and manage employee c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of compensation and benefits specialists combines tasks that can be automated and those requiring human judgment: AI can efficiently handle data analysis and report generation, but compensation strategy, negotiation, and compliance decisions still require human leadership, presenting both risks and opportunities.
-
 Can advance from assistant to analyst, senior analyst, compensation and benefits manager, or HR director. Earning certifications (CCP, CBP) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from assistant to analyst, senior analyst, compensation and benefits
 | Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree or equivalent experience |
 | Subclass TN (TN Status for Canadians and Mexicans) | Applies only to Canadian or Mexican citizens, requires relevant occupation |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some data analysis tasks may be automated, but strategy, communication, and r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/compensation-benefits-and-job-analysis-specialists/US)**

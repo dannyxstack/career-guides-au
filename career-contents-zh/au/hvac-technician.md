@@ -1,6 +1,6 @@
-# HVAC Technician 职业分析 · 澳大利亚
+# 暖通空调技师（HVAC Technician）职业分析 · 澳大利亚
 
-**职业代码: 342111 (ANZSCO)**
+**职业代码：342111 (ANZSCO)**
 
 空调技术员（HVAC/制冷技术员）负责安装、调试、维护和维修工业、商业及住宅空调和制冷系统。在澳大利亚，该职业需持有 ARCtick 制冷剂处理许可证，长期位居技术短缺清单，是气候变暖背景下需求持续增长的热门技工职业之一。
 
@@ -21,8 +21,8 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certificate III in Air Conditioning and Refrigeration (UEE32220) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质，学徒期间完成 |
-| ARCtick Refrigerant Handling Licence（RHL） | Australian Refrigeration Council (ARC) | 必备 | 法定强制持牌，无证操作制冷剂违法，适用所有 RAC 工作 |
+| 空调与制冷三级证书 (UEE32220) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质，学徒期间完成 |
+| ARCtick制冷剂处理许可证（RHL） | 澳大利亚制冷委员会（ARC） | 必备 | 法定强制持牌，无证操作制冷剂违法，适用所有 RAC 工作 |
 | 各州电气许可证（部分州要求） | 各州 Fair Trading / Energy Safety 部门 | 可选 | 从事电气接线（含 HVAC 电气部分）须持有州级 Electrical Licence |
 | Certificate IV in Air Conditioning and Refrigeration（可选） | TAFE / RTO | 可选 | 晋升工程设计或管理岗位的进阶资质 |
 | TRA / VETASSESS Skills Assessment | Trades Recognition Australia / VETASSESS | 可选 | 海外学历移民必须，国内学历豁免 |
@@ -31,10 +31,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 55,000. Jobs and Skills Australia 预测技工类（含HVAC）至2035年新增就业约195,800人（+9.8%）。气候变化导致夏季高温天数增加，澳洲HVAC技术员长期供不应求，各州均有短缺。
+**职位需求量：很高（★★★★★）** 全国从业人数约 55,000。Jobs and Skills Australia 预测技工类（含HVAC）至2035年新增就业约195,800人（+9.8%）。气候变化导致夏季高温天数增加，澳洲HVAC技术员长期供不应求，各州均有短缺。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -55,21 +55,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 空调技术员受AI/自动化影响喜忧参半：常规诊断与文档任务被替代，但现场操作、合规判断与复杂维修仍依赖人类，技能升级可适应。
 
 绿色制冷剂转型（HFO替代HFC）、数据中心冷却爆发、新建住宅和商业项目持续推高需求。AI与自动化对现场施工和制冷剂处理替代率极低，职业稳定性强。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 设备故障的远程自动诊断与初步排查
 - 日常维护提醒与智能排程
 - 制冷剂泄漏的自动检测与报警
 - 系统性能数据的自动记录与报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助系统设计优化与能效分析
 - 增强现实(AR)支持现场维修指导
@@ -77,14 +77,14 @@
 - 客户需求智能匹配与方案推荐
 - 合规文档的自动生成与审查
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场物理操作与复杂设备维修
 - 制冷剂安全处理与法规合规责任
 - 跨系统集成与复杂故障诊断
 - 客户沟通与定制化方案
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 精通智能楼宇管理系统与物联网设备
 - 学习AI诊断工具与数据分析平台
@@ -93,17 +93,17 @@
 - 深入了解能效优化与绿色制冷技术
 - 获取ARCtick及更高阶安全认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Commercial & Industrial Refrigeration
+- 商用和工业制冷
 - 数据中心冷却系统
-- Heat Pump & Green Refrigerants Transition
-- Mining & Resources HVAC
-- Residential & Commercial Construction Boom
+- 热泵与绿色制冷剂转型
+- 矿业与资源暖通空调
+- 住宅与商业建筑热潮
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@
 | Subclass 190 (Skilled Nominated) | 州政府提名，加5分，永居，建议首选路线 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区提名加15分，临居5年转PR，适合189分数不够者 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -179,12 +177,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hvac-technician/AU)**

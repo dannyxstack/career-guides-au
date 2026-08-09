@@ -4,8 +4,6 @@
 
 Operate and maintain metal surface treatment equipment, such as electroplating tanks and sprayers, to perform finishing, electroplating, or coating on metal workpieces, ensuring compliance with quality standards.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate and maintain metal surface treatment equipment, such as electroplating t
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Metal finishing, electroplating, and coating machine operators face high automation risk; AI and robots will largely replace repetitive operations, reducing job numbers but increasing demand for maintenance and programming.
-
 Can progress from junior operator to senior technician or production supervisor, or transition into quality management or process engineering; certifications and specialized skills (e.g. environmental compliance) enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can progress from junior operator to senior technician or production supervisor,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for high-skilled workers, requiring an annual salary of at least €33,000 (2024 standard). This occupation is typically below this threshold and uncommon, but may be eligible if the contract salary meets the requirement. |
-| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Main pathway for non-EU workers, applying through the annual quota (Decreto Flussi) for manufacturing positions, requires employer sponsorship, limited places. |
-| Subclass Nulla Osta (Nulla Osta Work Authorization) | Work permit applied for by employer in Italy, must prove inability to find suitable candidate locally or within EU, subject to provincial government review. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Mainly through Decreto Flussi quota work visa, requiring employer sponsorship
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-finishing-plating-and-coating-machine-operator/IT)**

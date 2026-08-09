@@ -1,10 +1,8 @@
-# Government Administrative Manager 职业分析 · 韩国
+# 政府行政经理（Government Administrative Manager）职业分析 · 韩国
 
-**职业代码: 01211 (KECO)**
+**职业代码：01211 (KECO)**
 
-Senior public official responsible for overall administration including policy formulation, budget planning, and personnel management in central and local governments.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责中央和地方政府整体行政的高级公职人员，包括政策制定、预算规划和人事管理。
 
 
 ---
@@ -13,8 +11,8 @@ Senior public official responsible for overall administration including policy f
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Passing the Higher Civil Service Exam (Grade 5) | 3年 | $0~$30,000,000（Exam preparation costs, academy fees, etc.） |
-| Passing the Grade 7 Open Recruitment | 2 年 | $0~$20,000,000（Exam preparation costs） |
+| 通过高级公务员考试（5级） | 3年 | $0~$30,000,000（考试准备费用、学院费用等） |
+| 通过7级公开招聘 | 2 年 | $0~$20,000,000（考试准备费用） |
 
 ---
 
@@ -22,17 +20,17 @@ Senior public official responsible for overall administration including policy f
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Higher Civil Service Exam (Grade 5) Certificate | Ministry of Personnel Management | 必备 | Grade 5 Deputy Director Selection Exam |
-| Grade 7 Open Recruitment Certificate | Ministry of Personnel Management | 可选 | Grade 7 Assistant Director Selection Exam |
+| 高级公务员考试（5级）证书 | Ministry of Personnel Management | 必备 | 5级副处长选拔考试 |
+| 7级公开招聘证书 | Ministry of Personnel Management | 可选 | 7级助理主任选拔考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. With digital government transformation and decentralization, work efficiency is increasing, but recruitment scale is expected to stagnate due to reduction in government workforce.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。随着数字政府转型和权力下放，工作效率提高，但由于政府人员减少，招聘规模预计停滞。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,86 @@ Senior public official responsible for overall administration including policy f
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (Grade 5 Deputy Director, 0-5 years) | $40,000,000~$60,000,000 | Includes salary steps and allowances |
-| Mid-level (Deputy Director-General, 10-20 years) | $70,000,000~$99,999,999 | Varies by position and allowances |
-| Senior (Senior Civil Service, over 20 years) | $99,999,999 | Excluding political appointments, includes allowances |
+| 入门级（5级副主管，0-5年） | $40,000,000~$60,000,000 | 包含薪资阶梯和津贴 |
+| 中层（副司长级，10-20年经验） | $70,000,000~$99,999,999 | 因职位和津贴而异 |
+| 高级（高级公务员，20年以上） | $99,999,999 | 不包括政治任命，包括津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI streamlines administrative tasks, reducing workload for managers, but core roles like policy-making and organizational management remain. The number of civil servants may decrease, but the status of management positions is maintained.
+AI简化行政任务，减少管理者工作量，但政策制定和组织管理等核心角色保持不变。公务员数量可能减少，但管理职位地位得以维持。
 
-Start through 5th-7th grade open recruitment, advance to manager roles via civil service exam and promotion; some move to political appointments or public institution executive positions.
+通过5-7年级公开招录起步，通过公务员考试和晋升升任经理岗位；部分转任政治任命或公共机构高管职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple document review
-- Basic statistical processing
-- Schedule management
-- Civil complaint classification
+- 简单文件审核
+- 基础统计处理
+- 时间表管理
+- 民事投诉分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Policy simulation
-- Predictive analysis
-- Report drafting
-- Legal review
+- 政策模拟
+- 预测分析
+- 报告起草
+- 法律审查
 
-**人类护城河:**
+**人类护城河：**
 
-- Leadership
-- Negotiation skills
-- Ethical judgment
-- Crisis response
+- 领导层
+- 谈判技巧
+- 道德判断
+- 危机应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Understanding of digital government
-- Performance management
-- Change management
+- 数据素养
+- 对数字政府的理解
+- 绩效管理
+- 变更管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital government
-- Local autonomy
-- Policy planning
-- Performance management
+- 数字政府
+- 地方自治
+- 政策规划
+- 绩效管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (F-2 (Residence) Visa) | Pre-permanent residency stage, allows regular employment. Usually available when meeting investment or income requirements. |
-| Subclass F-5 (F-5 (Permanent Residence) Visa) | No work restrictions with permanent residency. Public official appointment requires Korean nationality. |
-
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in national policy and analytical skills
-- People with excellent organizational management and communication skills
-- People willing to work long hours for the public good
+- 对国家政策有浓厚兴趣且具备分析能力的人
+- 具备优秀组织管理和沟通能力的人
+- 愿意为公共利益长时间工作的人
 
 **谁不适合**
-- People who value personal time and work-life balance
-- People who prefer creative and free work environments
+- 重视个人时间和工作生活平衡的人
+- 喜欢创意和自由工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary level of a government administrator?**
-答：The pre-tax annual salary for a Grade 5 administrative officer is about 40-60 million won (including allowances), and increases with experience and pay scale.
+**问：政府管理人员起薪水平是多少？**
+答：5级行政官员的税前年薪约为4000-6000万韩元（含津贴），并随经验和薪资等级增长。
 
-**问：Can foreigners become government administrators in Korea?**
-答：Regular civil service positions require Korean nationality, so it is virtually impossible for foreigners. However, limited contract professional positions may be available for F-2 or F-5 visa holders.
+**问：外国人能成为韩国的政府行政人员吗？**
+答：普通公务员职位要求韩国国籍，外国人几乎不可能。但持有F-2或F-5签证者可能应聘有限的合同制专业职位。
 
 
 ---
@@ -144,12 +135,12 @@ Start through 5th-7th grade open recruitment, advance to manager roles via civil
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/government-administrative-manager/KR)**

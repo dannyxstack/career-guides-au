@@ -50,8 +50,6 @@ Seafood processing workers are responsible for cleaning, shelling, cutting, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on seafood processing workers is mixed: repetitive tasks (e.g., sorting, weighing) are easily automated, but physical handling, hygiene judgment, and handling multiple varieties still rely on humans. Total positions may shrink, but technology-assisted efficiency improves, requiring workers to upgrade digital and mechanical skills.
-
 Entry-level positions can advance to production line supervisor, quality inspector, or equipment operator. With experience, opportunities exist to move to higher-level seafood technology roles (e.g., seafood grader) or enter factory management through management training.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Entry-level positions can advance to production line supervisor, quality inspect
 | Subclass AEWV (Accredited Employer Work Visa) | The Accredited Employer Work Visa is the main work visa pathway for seafood processing workers, requiring employer accreditation. |
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category, requiring an occupation at ANZSCO skill level 3-4 and meeting income requirements; usually requires promotion to a supervisory role. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: High difficulty. Direct skilled migration applications usually do not meet AN
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/seafood-process-worker/NZ)**

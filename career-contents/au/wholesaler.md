@@ -52,8 +52,6 @@ Wholesalers purchase large quantities of goods and distribute them to retailers,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Wholesalers are vulnerable to AI automation in tasks like procurement, inventory management, and market analysis, reducing entry-level roles, but complex negotiations and client relationship management still require humans.
-
 Career path: Sales Representative/Procurement Assistant → Wholesaler/Regional Manager → Senior Wholesaler/Supply Chain Director. Can transition to retail management, import/export trade, or start own business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path: Sales Representative/Procurement Assistant → Wholesaler/Regional 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Start as a sales representative or procurement assistant, advance to regional
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesaler/AU)**

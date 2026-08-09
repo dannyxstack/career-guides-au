@@ -55,8 +55,6 @@ Sociologists study social structures, relationships, and changes, using quantita
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some quantitative analysis tasks of sociologists may be automated by AI, but qualitative research, theory building, and ethical judgment remain solid moats; AI enhances data analysis and literature processing capabilities, but entry-level competition intensifies, requiring data science skills.
-
 Career development path: after PhD, can progress from postdoctoral fellow to assistant professor and then professor; in the private sector, can advance from researcher to senior analyst or management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career development path: after PhD, can progress from postdoctoral fellow to ass
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to those with a recognized German qualification and a job offer, no salary threshold. |
 | Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek work, must demonstrate financial self-sufficiency. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Academic path: PhD -> postdoc -> professor; Industry path: researcher -> seni
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sociologist/DE)**

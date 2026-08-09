@@ -54,8 +54,6 @@ Responsible for the health, safety, and environmental management of industrial s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-HSE engineers are tasked with enforcing rules and making on-site judgments. AI will unleash tremendous efficiency in compliance monitoring and data analysis, but its impact on core tasks such as incident investigation and accountability decisions will be limited, so caution is needed regarding the replacement of junior compliance positions.
-
 Career paths: Junior HSE Technician→ HSE Engineer→ HSE Manager→ Group HSE Director. Turning to consulting or sustainability fields.
 
 **Tasks most exposed to AI:**
@@ -102,17 +100,9 @@ Career paths: Junior HSE Technician→ HSE Engineer→ HSE Manager→ Group HSE 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for positions with a master's degree or above and an annual ≥salary of €53,955 (2024), fast track |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, valid for 4 years, and can bring family members |
-| Subclass Salarié (Salarié (Employee)) | Employer sponsorship required; work permits depend on the position and region |
-| Subclass Recherche d'emploi (Job Search) | After graduation, you can stay in France for one year to find a job |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +146,12 @@ A: From technicians to engineers, and then to managers/directors. You can turn t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-health-safety-and-environment-hse-manager-and-engineer/FR)**

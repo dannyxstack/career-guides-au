@@ -53,8 +53,6 @@ Operate machinery to process raw hides and furs, including cleaning, dehairing, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fur and leather preparation machine operators perform highly repetitive, physically intensive tasks. The entire raw hide processing workflow is being replaced by automated systems, leading to a sharp decline in demand and increasing career changers.
-
 Usually start as an operator, gain experience to advance to senior operator or production supervisor, or transition to leather goods manufacturing or quality inspection roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as an operator, gain experience to advance to senior operator or p
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Limited promotion opportunities, can move from operator to senior operator or
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fur-and-leather-preparing-machine-operator/IE)**

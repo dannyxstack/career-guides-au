@@ -50,8 +50,6 @@ A professional engineer responsible for researching new technologies and develop
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI advances simulation, process optimization, and defect analysis in display R&D, but creative design and new process invention remain human. AI boosts productivity, maintaining overall employment while making researcher roles more critical.
-
 Junior Researcher → Associate Researcher → Senior Researcher/Team Leader → Principal Researcher/CTO. Possible mobility between large and mid-sized companies.
 
 **Tasks most exposed to AI:**
@@ -89,17 +87,9 @@ Junior Researcher → Associate Researcher → Senior Researcher/Team Leader →
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment visa for professional R&D personnel. Requires bachelor's +5 years' experience or master's degree or higher. |
-| Subclass E-9 (Non-professional Employment) | Not suitable for this occupation. |
-| Subclass D-10 (Job Seeking) | Master's degree or higher international students can engage in job-seeking activities after graduation. |
-| Subclass F-2 (Residence) | Can be applied for after long-term stay such as E-7. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: The outlook is good due to sustained demand for next-generation display techn
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/display-rd-engineer/KR)**

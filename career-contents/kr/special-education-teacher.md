@@ -4,8 +4,6 @@
 
 A professional educator who designs and operates individualized curricula for students with disabilities, providing guidance in learning, daily living, and vocational skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional educator who designs and operates individualized curricula for st
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI plays only a supporting role in special education (generating learning materials, data analysis) and cannot replace human teachers' emotional connection and individualized guidance. Automation risk is very low.
-
 Career paths include private/national/public special schools, special classes in general schools, and special education support centers under district offices of education. Promotion follows: Teacher → Master Teacher → Vice Principal/Principal.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career paths include private/national/public special schools, special classes in
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign teachers may be invited but are highly restricted; rarely issued in special education |
-| Subclass F-2 (F-2 (Residence)) | Long-term visa holders may work and enter the field |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans may also work at some educational institutions (if qualified) |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: College of Education's special education department is most common, but you c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teacher/KR)**

@@ -54,8 +54,6 @@ Monitor and control production processes in pulp and paper mills, ensuring effic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Automation risk for pulp, paper, and coating control operators is moderate: AI excels in process optimization and monitoring alerts, but physical operations and emergency response still require humans; roles will shift from doers to supervisors and optimizers.
-
 Starting as a junior operator, can progress to senior control operator, team leader, or production supervisor, then further to process engineer or plant manager. Alternatively, can transition to related industrial control fields by learning new automation technologies.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior operator, can progress to senior control operator, team lea
 | Subclass PNP (Provincial Nominee Program) | Major pulp and paper provinces such as British Columbia, Quebec, and Alberta offer relevant nomination opportunities; some require employer sponsorship. |
 | Subclass LMIA (Labour Market Impact Assessment) | After the employer obtains an LMIA, they can support a work permit application, then accumulate experience to apply through CEC. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: BC, Quebec, Alberta, and Ontario are major pulp and paper provinces. PNP prog
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulping-papermaking-and-coating-control-operators/CA)**

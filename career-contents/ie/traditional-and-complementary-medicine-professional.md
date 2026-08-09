@@ -53,8 +53,6 @@ In Ireland, traditional and complementary medicine practitioners (e.g., Chinese 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
-
 Career progression can start as a junior therapist, building a client base and experience, then opening a private practice or joining an integrated health center. Some practitioners move into teaching or product development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can start as a junior therapist, building a client base and e
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, annual salary must meet threshold (approx. €30,000) |
 | Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | Apply for permanent residency after 5 years of work, allowing free change of employer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Requires employer sponsorship for a General Employment Permit, with a minimum
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-professional/IE)**

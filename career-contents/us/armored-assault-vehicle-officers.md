@@ -53,8 +53,6 @@ Commands tank, light armored vehicle, and amphibious assault vehicle units in la
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on armored assault vehicle officers is mixed: automated targeting and navigation systems will reduce some operational skills, but tactical decision-making, command flexibility, and ethical judgment enhanced by AI will improve overall combat effectiveness; however, reliability of human-machine collaboration and battlefield uncertainty remain core challenges.
-
 Promotion path typically goes from platoon leader to company commander, battalion staff, then battalion commander, and brigade-level positions, requiring completion of military education and command experience at each level.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Promotion path typically goes from platoon leader to company commander, battalio
 | Subclass O-1 (Extraordinary Ability) | Only for military experts with extraordinary abilities, rare |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Foreign nationals need PERM labor certification, usually requiring exemption or special arrangement, extremely difficult |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: A bachelor's degree is typically required; a commission can be obtained throu
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armored-assault-vehicle-officers/US)**

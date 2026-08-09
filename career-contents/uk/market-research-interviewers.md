@@ -50,8 +50,6 @@ Market research interviewers collect opinions, preferences, and market data from
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Can progress from junior interviewer to senior interviewer, project coordinator, or research manager; some transition to data analysis, account management, or market research consultant roles, requiring project experience and industry knowledge.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from junior interviewer to senior interviewer, project coordinator,
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Yes, interviewers can advance to senior interviewer, project coordinator, res
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/market-research-interviewers/UK)**

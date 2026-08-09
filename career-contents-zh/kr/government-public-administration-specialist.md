@@ -1,10 +1,8 @@
-# Government & Public Administration Specialist 职业分析 · 韩国
+# 政府与公共管理专家（Government & Public Administration Specialist）职业分析 · 韩国
 
-**职业代码: 02101 (KECO)**
+**职业代码：02101 (KECO)**
 
-A specialist responsible for overall public sector administration including policy planning, budget formulation, and law enforcement at the national and local government levels, contributing to citizen services and public interest.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责公共部门整体行政管理的专家，包括国家及地方政府的政策规划、预算编制和执法，促进公民服务和公共利益。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist responsible for overall public sector administration including poli
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 学士学位 | 4年 | $40,000,000~$80,000,000（National/public universities approx. ₩40 million, private universities approx. ₩80 million） |
-| 硕士学位 | 2 年 | $20,000,000~$50,000,000（Based on master's program in public administration/policy） |
+| 学士学位 | 4年 | $40,000,000~$80,000,000（国立/公立大学约4000万韩元，私立大学约8000万韩元） |
+| 硕士学位 | 2 年 | $20,000,000~$50,000,000（基于公共管理/政策硕士课程） |
 
 ---
 
@@ -22,18 +20,18 @@ A specialist responsible for overall public sector administration including poli
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Higher Civil Service Examination (Grade 5) | Ministry of Personnel Management | 可选 | Primary path for central government administrative positions. Tests: Korean, English, Korean history, administrative law, public administration, etc. |
-| Grade 7 & 9 Civil Service Exam | Ministry of Personnel Management / Local governments | 可选 | Recruitment for lower-level national and local positions. Grade 7 can be promoted after 5–7 years. |
-| 注册会计师(CPA) | Financial Supervisory Service | 可选 | Advantageous in budget and accounting; enables entry into special positions like the Board of Audit and Inspection. |
+| 高级公务员考试（5级） | Ministry of Personnel Management | 可选 | 中央政府行政职位的主要途径。考试科目：韩语、英语、韩国史、行政法、公共行政等。 |
+| 7级和9级公务员考试 | 人事革新处/地方政府 | 可选 | 招聘中低级国家和地方职位。7级可在5-7年后晋升。 |
+| 注册会计师(CPA) | 金融监督院 | 可选 | 在预算和会计方面有优势；可进入审计监察院等特殊职位。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 180,000. With aging population and digital transformation, public administration tasks expand, but due to fiscal pressures and efficiency drives, hiring is expected to stagnate or slightly decrease.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 180,000。随着人口老龄化和数字化转型，公共行政任务扩大，但由于财政压力和效率驱动，招聘预计将停滞或略有下降。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ A specialist responsible for overall public sector administration including poli
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Grade 9 Step 1: approx. ₩35 million pre-tax; Grade 7 Step 1: approx. ₩40 million |
-| Mid-level (4–9 years) | $45,000,000~$65,000,000 | Equivalent to Grade 6–5, including performance bonuses |
-| 资深（10年以上） | $65,000,000~$99,999,999 | Grade 4 (Senior officer) or above; annual salary ₩80 million–₩100 million |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 9级1步：约税前3500万韩元；7级1步：约税前4000万韩元 |
+| 中级（4-9年） | $45,000,000~$65,000,000 | 相当于6-5级，含绩效奖金 |
+| 资深（10年以上） | $65,000,000~$99,999,999 | 4级（高级职员）以上；年薪8000万-1亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI replaces simple repetitive tasks like document processing, data entry, and complaint classification, but high-level judgment such as policy decisions, legal interpretation, and stakeholder coordination remains a human role. Recruitment scale will decrease slightly, but expertise will be more demanded.
+AI取代简单重复任务如文档处理、数据录入和投诉分类，但政策决策、法律解释和利益相关者协调等高层次判断仍由人类负责。招聘规模将略有减少，但对专业技能的需求增加。
 
-Starting as a general administrative officer, promoted to team leader in 5–7 years, section chief in 10–15 years, and then to director/general director, specializing in policy planning, budget, or audit.
+从一般行政专员起步，5-7年晋升为团队领导，10-15年晋升为科长，然后成为主任/总干事，专注于政策规划、预算或审计。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Complaint Classification and Assignment
-- Basic Data Entry and Statistical Compilation
-- Simple Aggregation of Schedules and Budgets
+- 投诉分类与分配
+- 基本数据录入与统计汇编
+- 日程与预算的简单汇总
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data Analysis for Policy Proposal Writing
-- Financial Estimation Using Predictive Models
-- Management of AI Chatbot-based Complaint Response Systems
+- 数据分析与政策提案写作
+- 使用预测模型进行财务估算
+- 基于AI的聊天机器人投诉响应系统管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex Legal Interpretation and Judgment
-- Stakeholder Coordination and Negotiation
-- Moral Judgment in Unethical Situations
-- Public Services Requiring Emotional Empathy
+- 复杂法律解释与判断
+- 利益相关方协调与谈判
+- 不道德情境下的道德判断
+- 需要情感共鸣的公共服务
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Literacy
-- Policy Analysis and Evaluation
-- Utilization of Digital Administrative Tools
-- Communication and Collaboration Skills
+- 数据素养
+- 政策分析与评估
+- 数字行政工具的使用
+- 沟通与协作能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Government
-- Balanced Regional Development
-- Fiscal Innovation
-- Advanced Civil Complaint Services
+- 数字政府
+- 平衡区域发展
+- 财政创新
+- 高级民事投诉服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeted at professionals in public administration (policy researchers, international organization delegates, etc.); requires Korean associate degree or higher and experience |
-| Subclass F-2 (Residence) | A step before permanent residency; no employment restrictions after 5+ years of stay and meeting income requirements |
-| Subclass F-5 (Permanent Residence) | Permanent residents can work in public administration, but appointment as general civil servants is limited |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with systematic and principled thinking
-- People with a strong sense of responsibility for the public good
-- People who can understand and follow complex laws and procedures
+- 具有系统和原则性思维的人
+- 具有强烈公共责任感的人
+- 能理解并遵守复杂法律和程序的人
 
 **谁不适合**
-- People who value quick decision-making and flexibility
-- People who find it difficult to adapt to authoritarian structures
+- 重视快速决策和灵活性的人
+- 难以适应权威结构的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How does civil servant salary compare to the private sector?**
-答：Starting salary is lower than large private companies, but job security and pension are guaranteed. Senior positions (grade 4+) can reach annual salaries of 80-100 million KRW.
+**问：公务员薪资与私营部门相比如何？**
+答：起薪低于大型民营企业，但工作稳定性和养老金有保障。高级职位（4级以上）年薪可达8000万至1亿韩元。
 
-**问：Can foreigners work in Korea's public administration sector?**
-答：Public official appointments are limited, mainly possible with an E-7 visa in research institutes, international organizations, or state-owned enterprises. Holders of F-2 or F-5 visas have free employment.
+**问：外国人可以在韩国的公共行政领域工作吗？**
+答：公职人员任命有限，主要可通过E-7签证在研究所、国际组织或国企就业；持有F-2或F-5签证者可自由就业。
 
-**问：Can I become a public administration expert without taking the civil service exam?**
+**问：不参加公务员考试也能成为公共行政专家吗？**
 答：Yes, it is possible. You can enter through the 7th or 9th grade open recruitment and be promoted, or transfer as an experienced worker from a public corporation or institution.
 
 
@@ -147,12 +137,12 @@ Starting as a general administrative officer, promoted to team leader in 5–7 y
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/government-public-administration-specialist/KR)**

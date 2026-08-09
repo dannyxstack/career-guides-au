@@ -59,8 +59,6 @@ Real estate agents facilitate the buying and selling of residential and commerci
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 The Australian property market remains active in 2026 (Sydney median price around A$1.5 million). Chinese investors and new migrants dominate in Burwood/Chatswood/Box Hill/Glen Waverley, where Mandarin-speaking agents are highly sought after with lucrative commissions. PropTech (real estate tech platforms Domain/REA Group) is changing the industry but not replacing the core value of agents.
 
 **Tasks most exposed to AI:**
@@ -117,9 +115,7 @@ The Australian property market remains active in 2026 (Sydney median price aroun
 | Subclass 189 (SkillSelect Independent) | Invitation-based; Vetassess skills assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -181,12 +177,13 @@ A: Agent income is elastic (top agents $200k~$500k+) but unstable (commission-ba
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-property-manager/AU)**

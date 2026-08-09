@@ -53,8 +53,6 @@ Environmental engineers are responsible for assessing and addressing environment
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 Career paths can develop into project managers, environmental consultants, or regulatory experts, or pursue master's degrees to enter research or management positions.
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ Career paths can develop into project managers, environmental consultants, or re
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled talent, a work contract and a meeting annual salary requirement (approximately 34,000 euros or more) are required. |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card requires a high salary (threshold about €33,000) and a higher education degree, and can bring family members. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires employer sponsorship and labor market testing. |
-| Subclass Busqueda empleo (Job Search Visa) | Graduates or highly skilled individuals can apply for a one-year job-seeking visa. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: Foreign degrees must be certified by the Spanish Ministry of Education (homol
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-engineer/ES)**

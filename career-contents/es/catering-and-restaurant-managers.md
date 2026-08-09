@@ -53,8 +53,6 @@ Responsible for managing the daily operations of catering enterprises and banque
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Usually, they are promoted from chef or restaurant supervisor, and after gaining experience, can manage large chains or high-end restaurants, or transition to regional operations manager or create their own brand.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Usually, they are promoted from chef or restaurant supervisor, and after gaining
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires a Spanish employer contract, meets the salary standard, and is suitable for long-term employment |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Highly skilled professionals residing in large enterprises or management positions, with relatively high salary requirements (≥30,000€) |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card: requires university degree and higher salary (≥33,908€); restaurant management positions can apply. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Start as a restaurant supervisor or junior manager, and gradually advance to 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/catering-and-restaurant-managers/ES)**

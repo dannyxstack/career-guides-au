@@ -58,8 +58,6 @@ Police officers maintain public order, prevent and investigate crime, manage eme
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Police forces across Australian states face new challenges in cybercrime, domestic violence and organised crime, and are continually expanding their ranks. Officers with multicultural community liaison skills (CALD policing) are in strong demand in diverse cities such as Sydney and Melbourne. For the AFP (Australian Federal Police), proficiency in Mandarin is a significant competitive advantage in international law enforcement cooperation (cross-border crime and money laundering).
 
 **Tasks most exposed to AI:**
@@ -116,8 +114,6 @@ Police forces across Australian states face new challenges in cybercrime, domest
 | Subclass AFP International Recruitment (Special pathway) | Some AFP international cooperation roles may be open to applicants holding certain visa types |
 
 **PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
@@ -180,11 +176,12 @@ A: Similar salaries (both around $80k-$130k including allowances); police have b
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officer/AU)**

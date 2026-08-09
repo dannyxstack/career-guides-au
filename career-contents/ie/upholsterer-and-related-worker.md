@@ -54,8 +54,6 @@ Make, repair, and reupholster soft coverings for furniture, vehicle seats, etc.,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Furniture finishers face a medium-low automation risk, but AI-driven design tools and automated cutting equipment will compress entry-level positions while enhancing high-skilled work.
-
 After completing apprenticeship, graduates can work in furniture factories or auto interior shops. With experience, they can advance to team supervisor or start their own upholstery shop.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After completing apprenticeship, graduates can work in furniture factories or au
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list, but if recognized, you can apply with an annual salary of ≥€38,000. |
 | Subclass EU Blue Card (EU Blue Card) | Requires higher education degree and annual salary ≥ €43,000; decorators usually do not qualify. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Primarily through a 4-year apprenticeship combining on-the-job training and c
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/upholsterer-and-related-worker/IE)**

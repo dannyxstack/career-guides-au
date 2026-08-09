@@ -51,8 +51,6 @@ Earth science technicians assist geologists with field surveys, sample collectio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Junior technicians can advance to senior technicians or project supervisors through on-site experience; some transition to geologists by earning a geology degree through on-the-job study.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior technicians can advance to senior technicians or project supervisors thro
 | Subclass Green List T2 (Green List Tier 2) | Can apply for residency after 2 years of work, requiring salary above median. |
 | Subclass AEWV (Accredited Employer Work Visa) | With a certified employer offer, you can first work on a work visa and later transfer to permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually requires a New Zealand Level 6 diploma or bachelor's degree (e.g., ge
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earth-science-technician/NZ)**

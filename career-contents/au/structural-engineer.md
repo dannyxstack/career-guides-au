@@ -54,8 +54,6 @@ A Structural Engineer designs and analyses load-bearing structures for buildings
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on structural engineers is mixed: routine calculations and drafting tasks will be automated, but design decisions, compliance approvals, and on-site coordination still rely on human experience and responsibility, certified engineers may become even rarer.
-
 BIM (Revit/Tekla) adoption and AI-assisted structural analysis improve efficiency, but engineering judgement and sign-off responsibility still require licensed engineers. RPEQ/CPEng are the most important professional credentials.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ BIM (Revit/Tekla) adoption and AI-assisted structural analysis improve efficienc
 | Subclass 189 (Skilled Independent) | Points-based; Engineers Australia assessment |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Straightforward. $200 billion in infrastructure investment means structural e
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/structural-engineer/AU)**

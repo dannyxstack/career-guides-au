@@ -51,8 +51,6 @@ Mine managers plan, direct and coordinate mining operations, including undergrou
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mining engineers are affected by both AI automation and augmentation: repetitive design and monitoring are easily replaced, but strategic decisions and compliance responsibilities still require humans. The overall impact tends to task reorganization rather than job elimination.
-
 Practitioners typically start as mining engineers or geologists, gain field experience, and then advance to mine manager. Further promotion to regional operations director or mining company executive is possible.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Practitioners typically start as mining engineers or geologists, gain field expe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled non-EU employees, requires employer sponsorship, annual salary threshold approx. €5,500/month. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, with a salary threshold of approx. €5,600/month; work allows family members to accompany. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: Currently not listed as a shortage occupation, but competition for senior man
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-manager/NL)**

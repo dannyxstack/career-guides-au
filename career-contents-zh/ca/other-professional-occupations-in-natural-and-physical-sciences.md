@@ -1,6 +1,6 @@
-# Other Professional Occupations in Natural and Physical Sciences 职业分析 · 加拿大
+# 自然科学与物理科学其他专业人员（Other Professional Occupations in Natural and Physical Sciences）职业分析 · 加拿大
 
-**职业代码: 21299 (NOC)**
+**职业代码：21299 (NOC)**
 
 涵盖生物学家、化学家、环境科学家等，从事研究、实验与咨询。可通过EE（STEM类别）或PNP移民，学历认证后适合在实验室、政府或私营部门就业。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. 加拿大自然与物理科学领域需求稳定，尤其在环境科技、生物技术、制药等行业。政府加大科研投入，岗位预计增长，但需匹配雇主或省提名。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。加拿大自然与物理科学领域需求稳定，尤其在环境科技、生物技术、制药等行业。政府加大科研投入，岗位预计增长，但需匹配雇主或省提名。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -49,21 +49,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
 该职业被AI喜忧参半：基础数据采集、报告生成等任务被自动化威胁，但AI增强了复杂建模和跨学科综合分析能力，实验设计与监管合规仍需人类判断。
 
 职业路径可从助理研究员或技术员起步，晋升至高级科学家、项目主管或实验室经理。部分转向政策分析或销售，需持续进修以保持竞争力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动记录实验数据并生成标准报告
 - 基础化学/生物样本分析与分类
 - 环境监测数据的常规统计与趋势判断
 - 文献检索与摘要整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 借助AI模型加速药物分子设计与筛选
 - 利用机器学习分析复杂环境数据（如气候模型）
@@ -71,7 +71,7 @@
 - 自动化生成初步研究论文草稿与图表
 - 集成多源数据进行生态系统模拟
 
-**人类护城河:**
+**人类护城河：**
 
 - 设计全新实验方案与假设检验
 - 解读非结构化、异质性数据中的异常模式
@@ -79,7 +79,7 @@
 - 伦理审查与公众沟通
 - 监管合规判断（如EPA、CFIA标准）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R与机器学习库（如scikit-learn、TensorFlow）
 - 数据可视化与交互式报告工具（如Tableau、Plotly）
@@ -88,16 +88,16 @@
 - AI伦理与科学可解释性
 - 云计算与大数据处理(AWS/Azure)
 
-**主要增长方向:**
+**主要增长方向：**
 
-- STEM draws
-- Provincial Nominee
-- Environmental Tech
-- Biotech
+- STEM抽签
+- 省提名
+- 环境技术
+- 生物技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@
 | Subclass PNP (Provincial Nominee Program) | 各省提名，如BC PNP Tech Pilot、安省Human Capital，需雇主担保或学历。 |
 | Subclass AIP (Atlantic Immigration Program) | 大西洋四省试点，适合有雇主offer的申请人。 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -152,12 +150,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-professional-occupations-in-natural-and-physical-sciences/CA)**

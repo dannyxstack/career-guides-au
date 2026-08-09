@@ -52,8 +52,6 @@ Glaziers install building glass, a green list occupation for NZ skilled migratio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on glaziers is mixed: automated measurement and cutting software will compress junior roles, but on-site skills like installation and sealing remain in high demand, with certified senior workers still scarce.
-
 Can advance to senior glazier, site supervisor, or self-employed contractor. Employers often provide on-the-job training, with significant pay growth after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance to senior glazier, site supervisor, or self-employed contractor. Emp
 | Subclass SMC (Skilled Migrant Category) | Eligible under the 6-point system (qualifications/experience + salary); Green List occupations have an advantage |
 | Subclass AEWV (Accredited Employer Work Visa) | Common temporary work visa, requires accredited employer sponsorship, valid up to 3 years. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Due to the continued construction boom and shortage of skilled tradesmen, dem
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/NZ)**

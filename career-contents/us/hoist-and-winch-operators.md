@@ -53,8 +53,6 @@ Operate or tend winches or hoists, using electric cable equipment to lift and pu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of a winch operator—lifting and pulling loads—are highly procedural; with the maturity of automated winches and remote monitoring technology, this occupation faces significant replacement risk, and entry-level jobs will decline rapidly.
-
 Entry-level operators can advance to senior operators or supervisors, or shift to crane operation or equipment maintenance roles, requiring experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level operators can advance to senior operators or supervisors, or shift t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically requires completion of OSHA safety training (10 or 30 hours); some 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hoist-and-winch-operators/US)**

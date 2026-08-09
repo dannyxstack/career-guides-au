@@ -51,8 +51,6 @@ This occupation is classified as Plumber (334114) under ANZSCO, responsible for 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial pipe installation work, as an on-site technical role, has core installation, welding, and testing tasks difficult to replace by AI. However, AI can provide strong assistance in pipe design optimization, material specification matching, maintenance prediction, and report generation. Overall impact is mixed; job demand remains stable but skill requirements increase.
-
 Typically starts as an apprentice; after becoming a licensed plumber, can advance to senior technician or supervisor, or transition to project management or self-employment. Specializations in gas or refrigeration certification increase high-wage job prospects.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Typically starts as an apprentice; after becoming a licensed plumber, can advanc
 | Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration: occupation registration earns 3 points, plus qualifications or work experience can accumulate 6 points, suitable for applicants without a direct residency pathway. |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct immigration conditions are not met, you can first get a work visa for up to 3 years through an accredited employer, then transfer to permanent residence after gaining experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Requires completing a 4-year apprenticeship and obtaining a New Zealand regis
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-services-and-air-conditioning-plumber/NZ)**

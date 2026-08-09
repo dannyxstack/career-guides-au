@@ -1,10 +1,8 @@
-# Meter Reader and Gas Inspector 职业分析 · 韩国
+# 抄表员和燃气检查员（Meter Reader and Gas Inspector）职业分析 · 韩国
 
-**职业代码: 56211 (KECO)**
+**职业代码：56211 (KECO)**
 
-The job involves visiting homes or businesses to read electricity, gas, and water meters, and checking safety conditions such as gas leaks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该工作涉及上门或到企业读取电、气、水表，并检查煤气泄漏等安全状况。
 
 
 ---
@@ -13,7 +11,7 @@ The job involves visiting homes or businesses to read electricity, gas, and wate
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No educational restrictions, mostly high school graduates or above） |
+| 高中毕业 | 0年 | $0~$0（无学历限制，多为高中及以上学历） |
 
 ---
 
@@ -21,17 +19,17 @@ The job involves visiting homes or businesses to read electricity, gas, and wate
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Gas Technician (Certificate) | Human Resources Development Service of Korea | 可选 | Advantageous for gas inspection work but not mandatory |
-| Electrician (Certificate) | Human Resources Development Service of Korea | 可选 | Helpful for electric meter-related work |
+| 燃气技术员（证书） | 韩国人力资源开发服务局 | 可选 | 对燃气检查工作有利但非必需 |
+| 电工（证书） | 韩国人力资源开发服务局 | 可选 | 有助于电表相关工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. Due to the expansion of smart remote meter reading and population decline, job demand is expected to gradually decrease, but gas safety inspections remain a legal requirement.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。由于智能远程抄表扩大和人口减少，岗位需求预计逐渐减少，但燃气安全检查仍是法定要求。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,94 +37,86 @@ The job involves visiting homes or businesses to read electricity, gas, and wate
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | May exceed 30 million KRW including performance bonuses |
-| 中级（3~8年） | $30,000,000~$36,000,000 | Varies with night shift and hazard pay |
-| 高级（8年+） | $35,000,000~$42,000,000 | Salary increase upon transition to management |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 含绩效奖金可能超过3000万韩元 |
+| 中级（3~8年） | $30,000,000~$36,000,000 | 因夜班和危险津贴而异 |
+| 高级（8年+） | $35,000,000~$42,000,000 | 晋升管理岗位后薪资增长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the introduction of smart meters and remote meter reading systems, simple meter reading tasks are being replaced by AI and IoT. Gas safety inspections will remain for now, but the scope of work is likely to shrink.
+随着智能电表和远程抄表系统的引入，简单的抄表任务正被AI和物联网取代。燃气安全检查暂时保留，但工作范围可能缩小。
 
-Most start with simple meter reading tasks, and can advance to safety inspection specialists or supervisors with experience. They may also expand into meter replacement and maintenance.
+大多数从简单的抄表任务开始，随着经验积累可晋升为安全检查专家或主管。还可能扩展到仪表更换和维护领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual meter reading
-- Manual data recording
-- Simple repeated meter reading visits
+- 视觉仪表读数
+- 手动数据记录
+- 简单的重复抄表工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote meter reading data analysis
-- Smart meter fault diagnosis
-- Customer consultation and guidance
+- 远程抄表数据分析
+- 智能电表故障诊断
+- 客户咨询与指导
 
-**人类护城河:**
+**人类护城河：**
 
-- Gas leak detection and safety judgment
-- Emergency response
-- Building face-to-face trust with customers
+- 燃气泄漏检测与安全判断
+- 应急响应
+- 与客户建立面对面信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart meter maintenance
-- Data analysis
-- Understanding safety regulations
-- Basic electrical and gas knowledge
+- 智能电表维护
+- 数据分析
+- 理解安全规定
+- 基础电气和燃气知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Remote Meter Reading
-- Smart meter
-- Gas Safety
-- Meter maintenance
+- 远程抄表
+- 智能电表
+- 燃气安全
+- 仪表维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some meter reading agencies may hire non-professional workers, but meter reading requires limited expertise. |
-| Subclass F-2 (F-2 (Residence)) | Long-term foreign residents can work without separate visa restrictions. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Employment allowed for overseas Koreans, no activity restrictions. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who prefer outdoor activities
-- Patient person for routine repetitive tasks
-- People interested in operating machinery and instruments
+- 喜欢户外活动的人
+- 适合从事常规重复性任务的耐心人员
+- 对操作机械和仪器感兴趣的人
 
 **谁不适合**
-- People who are reluctant to engage in face-to-face work
-- People who have difficulty strictly following safety rules
+- 不愿从事面对面工作的人
+- 难以严格遵守安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a meter reader?**
-答：The starting salary is about 24 to 30 million won, varying by company and work location.
+**问：抄表员平均年薪是多少？**
+答：起薪约为2400万至3000万韩元，因公司和工作地点而异。
 
-**问：Can a foreigner work as a meter reader?**
-答：Possible but limited. Some jobs available with E-9 visa, but mainly F-2 or F-4 visa holders are employed.
+**问：外国人可以做抄表员吗？**
+答：可能但有限。E-9签证可提供一些工作，但主要雇用F-2或F-4签证持有者。
 
-**问：Is a certification required?**
-答：No. It's not mandatory, but having a Gas Technician or Electrician certification is advantageous.
+**问：是否需要认证？**
+答：不是必需的，但持有燃气技师或电工证书更有利。
 
 
 ---
@@ -144,12 +134,12 @@ Most start with simple meter reading tasks, and can advance to safety inspection
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/meter-reader-and-gas-inspector/KR)**

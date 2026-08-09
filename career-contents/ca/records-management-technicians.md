@@ -52,8 +52,6 @@ In Canada, archivists organize, maintain, and manage electronic and paper record
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Archivists' jobs will be significantly compressed by AI automation of document classification and retrieval for entry-level positions, but compliance oversight and complex record management still rely on human judgment; overall risks and opportunities coexist.
-
 Junior records managers can advance to senior records manager, records management supervisor, or information governance manager. Certification (e.g., CRM) can accelerate career progression; some professionals transition to data governance or privacy compliance roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior records managers can advance to senior records manager, records managemen
 | Subclass PNP (Provincial Nominee Program) | Most provinces list archivists on skill priority or in-demand occupation lists, such as Ontario, BC, Alberta |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation is NOC B class (TEER 2), eligible for immigration via Express
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-management-technicians/CA)**

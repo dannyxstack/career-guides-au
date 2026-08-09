@@ -52,8 +52,6 @@ Primary education teachers plan, organize, and provide teaching to children in p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
-
 New teachers typically start as classroom teachers, progressing to grade leader, subject head, deputy principal, or principal. They can also move into education policy or teacher training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ New teachers typically start as classroom teachers, progressing to grade leader,
 | Subclass Graduate (Graduate visa) | Allows international students to stay in the UK for 2 years after completing a bachelor's or master's degree to look for teaching jobs, but must switch to a Skilled Worker visa for long-term work |
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding talent or leadership potential in education, uncommon but theoretically possible |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to subject leader, grade coordinator, deputy principal or princip
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-education-teaching-professionals/UK)**

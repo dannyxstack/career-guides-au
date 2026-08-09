@@ -52,8 +52,6 @@ Mechanical engineers in New Zealand design, analyze, and test mechanical systems
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mechanical engineer's job is a mixed bag with AI: design analysis tasks are enhanced, but complex system integration and on-site responsibility still rely on human judgment, intensifying competition for entry-level roles.
-
 Junior engineers typically start in design/testing roles and advance to senior engineer or project manager after 3-5 years. Obtaining CPEng can significantly boost salary and promotion to Technical Director or Chief Engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior engineers typically start in design/testing roles and advance to senior e
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration system: qualifications + work experience + New Zealand work can accumulate 6 points |
 | Subclass AEWV (Accredited Employer Work Visa) | If not eligible for direct immigration, can first obtain a work visa from an accredited employer sponsor, gain experience, then apply for residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good. Renewable energy, infrastructure, and manufacturing continue to need me
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/NZ)**

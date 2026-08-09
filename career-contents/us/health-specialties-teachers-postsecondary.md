@@ -52,8 +52,6 @@ Teach health professional courses at universities or colleges, such as dentistry
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Typically starts as assistant professor, then progresses to associate professor, full professor, and eventually department chair or dean. Requires continuous research and grant funding.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically starts as assistant professor, then progresses to associate professor,
 | Subclass O-1 (O-1 Extraordinary Ability) | Suitable for outstanding researchers; no lottery required; must demonstrate international recognition. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Used for EB-2/EB-3, requires proof that no qualified US workers are available, universities usually support. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Most research universities require a PhD, but community colleges or clinical 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-specialties-teachers-postsecondary/US)**

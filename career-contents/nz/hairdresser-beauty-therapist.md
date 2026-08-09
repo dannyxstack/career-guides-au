@@ -52,8 +52,6 @@ Provide services such as haircuts, coloring, styling, skin care, nail care, eyel
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
-
 Can advance from assistant to senior hairdresser/beautician or open a personal salon. The industry emphasizes skill updates, such as hair extensions, micro-fillers, etc. Immigration pathways usually require 3 years of work experience and an NZQF Level 4 qualification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from assistant to senior hairdresser/beautician or open a personal s
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work in ANZSCO 391111 or 391211 for 2 years, then apply for residence |
 | Subclass SMC (Skilled Migrant Category) | Must meet the six-point system, but hairdressers often lack points for education and salary |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The position must be in ANZSCO 391111 (Hairdresser) or 391211 (Beauty Therapi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser-beauty-therapist/NZ)**

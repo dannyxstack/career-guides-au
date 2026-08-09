@@ -4,8 +4,6 @@
 
 Transportation jobs other than automobile or railway driving, such as operating ships, forklifts, or special vehicles.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Transportation jobs other than automobile or railway driving, such as operating 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Due to advances in AI and autonomous driving technology, some tasks like long-haul truck driving face replacement risk, but on-site work with forklifts and construction machinery is hard to automate, and manual demand will continue for now.
-
 Career advancement to site leader or operations manager is possible by obtaining large vehicle or forklift licenses and gaining experience.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career advancement to site leader or operations manager is possible by obtaining
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food & Beverage Manufacturing/Food Service/Agriculture, etc.)) | Residence permitted only for target occupations. Currently, transport workers are generally excluded from Specified Skilled Worker, but some areas (e.g., agricultural harvest transport) may be possible. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to transport-related engineers (e.g., operations managers). Simple driving is not permitted. |
-| Subclass 技能 (Skilled Labor (Cooking, Manufacturing, etc.)) | Under current system, transport workers are not eligible. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: By acquiring qualifications such as forklift or heavy vehicle licenses, there
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-workers-not-otherwise-classified/JP)**

@@ -4,8 +4,6 @@
 
 Armed Forces soldiers are grassroots members of the Spanish military, responsible for carrying out military missions, maintaining national security, and participating in international peacekeeping operations. This profession demands rigorous physical training and discipline, and is usually joined through military academies or conscription channels.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Armed Forces soldiers are grassroots members of the Spanish military, responsibl
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-Tasks for armed forces soldiers (such as patrols, surveillance, data entry) will gradually be replaced by drones, AI surveillance, and automation systems, leading to reduced job demand, but close combat and complex decision-making still rely on humans.
 
 Promotion paths range from soldier to non-commissioned officer, and then to warrant officer, requiring internal exams and years of service. Senior NCOs can hold technical or managerial positions. Some personnel may transfer to the National Guard or security departments.
 
@@ -100,16 +96,9 @@ Promotion paths range from soldier to non-commissioned officer, and then to warr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | Non-EU citizens must first obtain a work contract, but the military usually only recruits Spanish or EU citizens, with very limited immigration pathways. |
-| Subclass Busqueda empleo | Military-related positions are very limited and rarely open to non-EU citizens. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to non-commissioned officer or officer through internal e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armed-forces-enlisted-personnel/ES)**

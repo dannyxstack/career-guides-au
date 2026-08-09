@@ -4,8 +4,6 @@
 
 카페, 펍, 바 등에서 커피, 차, 칵테일, 주스 등 다양한 음료를 제조·제공하는 전문가로, 최근 수제맥주 및 스페셜티 커피 수요 증가로 주목받는 직종이다.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI와 자동화의 영향은 제한적이다. 자동 커피머신이나 주스 자판기가 일부 단순 작업을 대체할 수 있으나, 고객 맞춤형 음료 제조와 창의적인 레시피 개발은 인간 고유의 영역으로 남을 것이다.
-
 신입으로 입사 후 경력을 쌓아 점장, 매니저로 승진하거나, 자격증을 취득해 스페셜티 커피나 칵테일 전문가로 특화할 수 있다. 창업도 가능하다.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ AI와 자동화의 영향은 제한적이다. 자동 커피머신이나 주스 �
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (비전문취업 (E-9)) | 제조·서비스업에서 단순 음료 조리 가능하나, 한국어 능력 필수, 고용허가제 적용 |
-| Subclass F-4 (재외동포 (F-4)) | 재외동포에 한해 서비스업 취업 허용 |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +127,12 @@ A: E-9 비자로 가능하지만 고용허가제 대상이며, 한국어 능력�
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occ/KR)**

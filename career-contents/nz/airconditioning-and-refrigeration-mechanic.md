@@ -53,8 +53,6 @@ Air conditioning technicians install, maintain, and repair air conditioning and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 From junior technician to senior technician or team leader; can obtain electrician registration to broaden direction, or start own service company.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From junior technician to senior technician or team leader; can obtain electrici
 | Subclass SMC (Skilled Migrant Category) | 6-point system, qualifications/work experience and job offer can accumulate points, but not as direct as the Green List |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, common transition path, may require meeting salary thresholds |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The most common pathway is a 3-4 year apprenticeship, during which you obtain
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airconditioning-and-refrigeration-mechanic/NZ)**

@@ -52,8 +52,6 @@ Responsible for providing personalized consultation on academic direction, caree
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
-
 You can be promoted from consultant to team leader (Responsable d'équipe), department manager (Directeur de centre), or training project manager. It can also deepen into professional fields, such as career integration for people with disabilities and industry transformation consulting. Some practitioners gain higher recognition by obtaining national diplomas (such as CCO).
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can be promoted from consultant to team leader (Responsable d'équipe), depa
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring a work contract or project certificate, valid for 4 years, with renewable options |
-| Subclass Salarié (Employee Work Permit) | Regular work residence requires employer sponsorship, valid for the same period as the contract, usually 1-4 years |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card is for high-income professionals, requiring an annual salary of about 54,000 euros (2024), valid for 4 years |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, the job-seeking visa is valid for one year and allows full-time employment. Once you find a job, you can convert it to a work visa |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: The core certification is the CCO (National Diploma in Career Consulting), is
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-and-career-guidance-counselor/FR)**

@@ -51,8 +51,6 @@ Grow multiple crops and raise livestock, responsible for daily farm management, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly transform agricultural production, but mixed crop and livestock producers' work involves substantial physical labor and on-site decision-making, with medium substitution risk in the short term, requiring adaptation to precision agriculture tools in the long term.
-
 Career progression can start from farm owner or manager, gradually moving to large farm manager or agricultural advisor, or transitioning to agricultural technology or policy roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression can start from farm owner or manager, gradually moving to lar
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Teagasc's agricultural course (2 years) helps improve skills and job opportun
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-animal-producer/IE)**

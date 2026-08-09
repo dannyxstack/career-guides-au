@@ -1,8 +1,8 @@
-# Film Director 职业分析 · 韩国
+# 电影导演（Film Director）职业分析 · 韩国
 
-**职业代码: 41612 (KECO)**
+**职业代码：41612 (KECO)**
 
-An art professional who oversees all processes from planning, directing, filming, and editing to realizing creative vision as a film director.
+一位艺术专业人士，负责从策划、导演、拍摄、剪辑到实现创意愿景的全过程，作为电影导演。
 
 
 ---
@@ -11,8 +11,8 @@ An art professional who oversees all processes from planning, directing, filming
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree (Film, Video, or related fields) | 4年 | $8,000,000~$40,000,000（Based on national/public universities） |
-| Associate Degree (Film Production) | 2~3 年 | $6,000,000~$20,000,000（Based on private universities） |
+| 学士学位（电影、视频或相关领域） | 4年 | $8,000,000~$40,000,000（基于国立/公立大学） |
+| 副学士学位（电影制作） | 2~3 年 | $6,000,000~$20,000,000（基于私立大学） |
 
 ---
 
@@ -20,16 +20,16 @@ An art professional who oversees all processes from planning, directing, filming
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Film Director Certification (Private) | Korean Film Directors Guild (DFGK) | 可选 | Not mandatory but helpful for career proof |
+| 电影导演认证（私人） | 韩国电影导演协会（DFGK） | 可选 | 非必需但对职业证明有帮助 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. With the growth of OTT platforms, content demand is increasing, but due to a structure where only a few succeed, competition is fierce.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。随着OTT平台增长，内容需求增加，但由于只有少数成功，竞争激烈。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -37,92 +37,85 @@ An art professional who oversees all processes from planning, directing, filming
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0~3 years) | $25,000,000~$40,000,000 | Focused on short films and independent films |
-| Intermediate (4~9 years) | $40,000,000~$80,000,000 | Commercial film assistant director and TV drama directing |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Hit director and large-scale projects |
+| 初级（0~3年） | $25,000,000~$40,000,000 | 专注于短片和独立电影 |
+| 中级（4~9年） | $40,000,000~$80,000,000 | 商业广告副导演及电视剧导演 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 知名导演及大型项目 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI enhances technical aspects like script analysis, editing, and visual effects in film production, but the director's creative vision and directing capabilities are hard to replace. Rather, utilizing AI tools can increase production efficiency and diversity.
+AI增强了电影制作中的技术环节，如剧本分析、剪辑和视觉效果，但导演的创意思维和执导能力难以替代。相反，利用AI工具可以提高制作效率和多样性。
 
-Usually starts as a short film director or assistant director, builds experience and portfolio, debuts as a director, then advances to feature films and commercial films.
+通常从短片导演或助理导演起步，积累经验和作品集，首次执导后晋升至故事片和商业片。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic location scouting
-- Simple editing and color correction
-- Partial script analysis
+- 基本地点勘察
+- 简单编辑和色彩校正
+- 部分脚本分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Previsualization (Previs)
-- VFX and CG work
-- Editing and sound design
-- Marketing data analysis
+- 预可视化
+- 视觉特效和CG工作
+- 剪辑和声音设计
+- 市场营销数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative direction and storytelling
-- Acting coaching
-- Overall production leadership
-- Human sensitivity and artistic vision
+- 创意指导与叙事
+- 表演指导
+- 整体生产领导
+- 人文感知与艺术视野
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based editing tools (e.g., Adobe Sensei)
-- VR/AR production technology
-- Data-driven scenario analysis
-- Digital previsualization
+- 基于AI的编辑工具（如Adobe Sensei）
+- VR/AR生产技术
+- 数据驱动情景分析
+- 数字预可视化
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content
-- Globalization of K-films
-- Independent films
-- Short-form content
+- OTT内容
+- 韩国电影的全球化
+- 独立电影
+- 短视频内容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Stay as film/broadcast production professional (director), contract required |
-| Subclass D-10 (Job Seeker Visa (D-10)) | For film-related majors preparing for employment (1 year) |
-| Subclass F-2 (Residence Visa (F-2)) | Long-term stay under point system, film activities allowed |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong creativity and storytelling skills
-- People with excellent team leadership and communication skills
-- People who are resilient to uncertainty and continuously self-improve
+- 具有较强创造力和叙事能力的人
+- 具有出色团队领导力和沟通能力的人
+- 能够适应不确定性并持续自我提升的人
 
 **谁不适合**
-- People who prefer a regular and stable work environment
-- People who are sensitive to others' criticism and easily discouraged
+- 喜欢规律稳定工作环境的人
+- 对他人批评敏感且容易气馁的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a film director?**
-答：Beginner directors earn around 25~40 million KRW, but famous directors can earn over 500 million KRW. This is a profession with high income volatility.
+**问：电影导演的平均薪资是多少？**
+答：初级导演收入约2500~4000万韩元，但知名导演收入可超过5亿韩元。这是一个收入波动大的职业。
 
-**问：What visa does a foreigner need to work as a film director in Korea?**
-答：An E-7 (Specific Activities) visa is usually issued, and a contract with a film production company is essential. Career proof and Korean language skills are important.
+**问：外国人在韩国担任电影导演需要什么签证？**
+答：通常发放E-7（特定活动）签证，与电影制作公司签订合同至关重要。职业经历和韩语能力很重要。
 
 
 ---
@@ -140,12 +133,12 @@ Usually starts as a short film director or assistant director, builds experience
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/film-director/KR)**

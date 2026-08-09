@@ -4,8 +4,6 @@
 
 Bricklayers mainly handle bricklaying, block laying, laying tiles, and stone. They are a fundamental trade in Spain's construction industry, involving new residential buildings, commercial buildings, and renovation projects.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Bricklayers mainly handle bricklaying, block laying, laying tiles, and stone. Th
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklayers face the dual impact of AI and automation tools: BIM and bricklaying robots will reduce some repetitive tasks, but on-site adaptability, meticulous finishing, and quality control still rely on manual labor, making overall employment risks manageable in the short term.
-
 Practitioners can be promoted from ordinary bricklayers to foremen or construction supervisors, or through experience accumulation and training, transition to construction management or entrepreneurship (subcontractors).
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Practitioners can be promoted from ordinary bricklayers to foremen or constructi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish company, approved by the Labor Bureau, and proven that the position cannot be filled by a local resident. |
-| Subclass Busqueda empleo (Job Search Visa) | A visa allowing a 6-month stay in Spain to look for work requires proof of financial capability, but bricklayers are non-high-skilled positions and are difficult to approve. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to foreman (encargado), construction supervisor (capataz)
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bricklayer/ES)**

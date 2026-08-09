@@ -4,8 +4,6 @@
 
 This includes dental hygienists, optometrists, nutritionists, and other auxiliary medical professionals providing technical health services in clinics, hospitals, or communities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ This includes dental hygienists, optometrists, nutritionists, and other auxiliar
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on unclassified health technicians is mixed: some diagnostic and paperwork tasks will be automated, but critical judgment and interpersonal communication skills remain irreplaceable, and AI can enhance existing service capabilities.
-
 Technicians can be promoted from technical staff to department heads or specialist consultants, and after earning higher degrees through continuing education, they can become higher-level medical professionals.
 
 **Tasks most exposed to AI:**
@@ -101,18 +97,9 @@ Technicians can be promoted from technical staff to department heads or speciali
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or 5 years of relevant experience is required; the annual salary under the contract is no less than 1.5 times the Spanish average salary (about 33,000 euros). |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For highly skilled talent, a bachelor's degree or above is required, with a matching job and academic background, and an annual salary of at least 30,000 euros |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residence must prove that suitable candidates cannot be found in the EU for the position |
-| Subclass Homologación (Degree Recognition Process) | Some occupations require completion of academic certification before applying for a work permit |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +142,12 @@ A: Most positions require advanced vocational training (FP Grado Superior, 2 yea
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-technicians-not-elsewhere-classified/ES)**

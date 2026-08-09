@@ -1,10 +1,8 @@
-# Theater director 职业分析 · 韩国
+# 剧院导演（Theater director）职业分析 · 韩国
 
-**职业代码: 41613 (KECO)**
+**职业代码：41613 (KECO)**
 
-A theater director is an art professional who interprets scripts and directs actors and staff to create stage performances.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+剧院导演是解读剧本、指导演员和工作人员创作舞台表演的艺术专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A theater director is an art professional who interprets scripts and directs act
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $10,000,000~$25,000,000（Public/private difference） |
-| 学士学位 | 4年 | $20,000,000~$50,000,000（Theater and film department standard） |
+| 副学士学位 | 2 年 | $10,000,000~$25,000,000（公共/私营差异） |
+| 学士学位 | 4年 | $20,000,000~$50,000,000（戏剧与电影系标准） |
 
 ---
 
@@ -22,16 +20,16 @@ A theater director is an art professional who interprets scripts and directs act
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 无 | N/A | 可选 | No official mandatory certification, but a degree or experience in theater is advantageous. |
+| 无 | 不适用 | 可选 | 没有官方强制认证，但拥有戏剧学位或经验会有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 5,000. The theater market is expanding due to increased demand for culture and arts, but employment competition is fierce as hiring is centered around a few theaters. With a high proportion of freelancers, stable jobs are limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 5,000。由于文化和艺术需求增加，剧院市场正在扩大，但就业竞争激烈，因为招聘集中在少数剧院。自由职业者比例高，稳定工作有限。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,92 +37,84 @@ A theater director is an art professional who interprets scripts and directs act
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $20,000,000~$35,000,000 | Many freelance/short-term contracts |
-| Mid-level (4-9 years) | $35,000,000~$60,000,000 | Resident in theater company or freelance |
-| 资深（10年以上） | $50,000,000~$99,999,999 | Artistic director level, varies by performance |
+| 入门级（0-3年） | $20,000,000~$35,000,000 | 多为自由职业/短期合同 |
+| 中级（4-9年） | $35,000,000~$60,000,000 | 驻场剧团或自由职业者 |
+| 资深（10年以上） | $50,000,000~$99,999,999 | 艺术总监级别，视演出而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can be used as a supplementary tool for theater directing, but creativity and expression of human emotions are difficult to replace with AI. While AI can enhance technical aspects such as lighting and sound automation, the core of directing relies on human artistic judgment.
+AI可作为戏剧导演的辅助工具，但创造力和人类情感的表达难以被AI取代。AI可增强灯光和声音自动化等技术方面，但导演核心依赖人类艺术判断。
 
-Typically promoted from assistant director to director to artistic director, with career and work performance being key. It is also common to work as a freelancer or start a theater company.
+通常从助理总监晋升为总监再到艺术总监，职业和工作表现是关键。也常见以自由职业者身份工作或创办剧团。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive technical tasks (lighting cues, sound automation)
-- Basic stage design simulation
+- 重复性技术任务（灯光提示、声音自动化）
+- 基础舞台设计模拟
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Performance rehearsal analysis and feedback
-- Improving direction through audience response data analysis
-- Virtual performance directing
+- 绩效彩排分析与反馈
+- 通过受众响应数据分析改进方向
+- 虚拟演出导演
 
-**人类护城河:**
+**人类护城河：**
 
-- Play interpretation and directorial vision
-- Emotional interaction and guidance with actors
-- Improvisation and real-time feel of live performances
+- 剧本解读与导演构思
+- 与演员的情感互动与指导
+- 即兴表演与现场实感
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool proficiency (e.g., stage simulation)
-- Data-driven performance planning
-- Digital performance directing
+- AI工具熟练度（如舞台模拟）
+- 数据驱动的绩效规划
+- 数字表演指导
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of culture and arts
-- Growth of the performance market
-- Revitalization of local theater
-- Increase in Convergence Performances
+- 文化艺术推广
+- 演出市场增长
+- 地方剧院振兴
+- 融合表演增加
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires theater directing experience and invitation as specialized professional in culture and arts |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay visa, allows theater activities |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, no restrictions on theater activities |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative and artistically sensitive individuals
-- People with team leadership and communication skills
-- People who enjoy continuous learning and trying new things
+- 富有创造力和艺术敏感性的人
+- 具备团队领导和沟通能力的人
+- 喜欢持续学习和尝试新事物的人
 
 **谁不适合**
-- People who prefer stable income and regular employment
-- People who want a routine lifestyle and clear working hours
+- 偏好稳定收入和正规就业的人
+- 想要规律生活方式和明确工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a theater director?**
-答：It varies from 20 million won to 100 million won depending on experience; beginners average around 25 million won. Income fluctuations are large due to many freelancers.
+**问：剧院导演的平均年薪是多少？**
+答：根据经验不同，从2000万韩元到1亿韩元不等；初学者平均约2500万韩元。自由职业者多，收入波动大。
 
-**问：What visa does a foreigner need to work as a theater director in Korea?**
-答：The E-7 (Specific Activities) visa is common, requiring theater directing experience and an employer's invitation.
+**问：外国人在韩国担任剧院导演需要什么签证？**
+答：E-7（特定活动）签证较为常见，要求具有剧院导演经验并持有雇主的邀请函。
 
-**问：Is a university degree required to become a theater director?**
-答：It's not mandatory, but a degree in theater/film is advantageous for employment and networking. Practical experience and portfolio are also important.
+**问：成为戏剧导演需要大学学历吗？**
+答：非强制，但戏剧/电影学位对就业和人际网络有利。实践经验和作品集也很重要。
 
 
 ---
@@ -142,12 +132,12 @@ Typically promoted from assistant director to director to artistic director, wit
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/theater-director/KR)**

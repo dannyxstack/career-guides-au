@@ -52,8 +52,6 @@ Plumbers and HVAC installers are responsible for assembling, installing, maintai
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace plumbers and heating, ventilation, and air conditioning installation and repair workers, but will amplify their efficiency, introducing tools such as predictive maintenance and intelligent diagnostics, transitioning from labor-intensive to technology-intensive roles.
-
 Career progression paths include becoming a senior tradesperson, site supervisor, self-employed contractor, or starting your own company. Skills can be upgraded through NVQ Level 3 and advanced certificates to enter specialised fields such as HVAC or renewable energy.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression paths include becoming a senior tradesperson, site supervisor
 | Subclass Health & Care (Health and Care Worker visa) | Not applicable, plumbers are not in healthcare occupations |
 | Subclass Scale-up (Scale-up visa) | Applicable to skilled plumbers employed by high-growth enterprises, subject to salary requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Demand for plumbers in the UK is stable, with green energy transition and hou
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumbers-and-heating-and-ventilating-installers-and-repairers/UK)**

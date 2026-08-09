@@ -1,6 +1,6 @@
-# Contractors and supervisors, other construction trades, installers, repairers and servicers 职业分析 · 加拿大
+# 承包商和主管，其他建筑行业、安装工、修理工和服务人员（Contractors and supervisors, other construction trades, installers, repairers and servicers）职业分析 · 加拿大
 
-**职业代码: 72014 (NOC)**
+**职业代码：72014 (NOC)**
 
 监督和协调建筑行业工人，包括木工、电工、管道工等，确保项目按时按预算完成。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. 加拿大建筑业持续增长，尤其在住宅和基础设施领域。退休人员多，新进入者不足，就业前景良好。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。加拿大建筑业持续增长，尤其在住宅和基础设施领域。退休人员多，新进入者不足，就业前景良好。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 该职业作为建筑安装行业主管，自动化压缩风险显著增加，因为AI可以优化调度、监控进度和资源分配，减少对人工协调的依赖。
 
 从熟练技工晋升为主管，可进一步成为项目经理或企业主。需要持续学习新技术和法规。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 安排工人排班和任务分配
 - 监控项目进度并更新报表
@@ -65,7 +65,7 @@
 - 生成常规进度报告和会议纪要
 - 协调分包商工作日程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI分析历史数据预测工期延迟风险
 - 利用BIM和AR进行远程现场检查
@@ -73,7 +73,7 @@
 - 使用计算机视觉自动识别安全隐患
 - AI生成针对性的培训材料和指导
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理突发安全事故和现场纠纷
 - 现场人际沟通与团队激励
@@ -81,7 +81,7 @@
 - 适应非常规施工条件的灵活应变
 - 协调多工种协作中的隐性知识
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数字化项目管理工具（如Procore）
 - 数据分析和报告自动化技能
@@ -90,16 +90,16 @@
 - 冲突解决与沟通领导力
 - 安全合规知识更新
 
-**主要增长方向:**
+**主要增长方向：**
 
-- construction boom
-- infrastructure spending
-- residential development
-- green building
+- 建筑热潮
+- 基础设施支出
+- 住宅开发
+- 绿色建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -109,9 +109,7 @@
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主担保工签，需证明加拿大本地缺乏合适工人 |
 | Subclass AIP (Atlantic Immigration Program) | 大西洋省份雇主担保，适合有意在该地区工作的申请人 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★☆☆）**
 
 ---
 
@@ -155,12 +153,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/contractors-and-supervisors-other-construction-trades-installers-repairers-and-servicers/CA)**

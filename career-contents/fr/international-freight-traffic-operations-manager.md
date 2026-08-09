@@ -53,8 +53,6 @@ Responsible for managing the circulation and operation of international cargo tr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
-
 Employees can be promoted from freight forwarder or operations specialist to operations manager, then to logistics director or vice president of supply chain; Mastering multilingual and compliance knowledge accelerates promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Employees can be promoted from freight forwarder or operations specialist to ope
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | For high-education (BAC+5) and management roles with annual salary above €53,600, fast track, can bring family. |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, the annual salary is no less than twice the average gross salary in France (about 43,700 euros), valid for four years |
-| Subclass Salarié (Salaried Employee Permit) | If the employer sponsors and meets the salary requirements (usually not less than 1.5 times SMIC), you can apply, but approval from the Labor Bureau is required |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Yes, you can be promoted from operations specialist to manager, then to suppl
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/international-freight-traffic-operations-manager/FR)**

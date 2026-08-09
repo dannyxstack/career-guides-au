@@ -54,8 +54,6 @@ Music and art therapists use artistic forms like music, painting, and dance to h
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Music and art therapists will be greatly enhanced by AI tools, especially in creative assistance, data analysis, and remote services, but core therapeutic relationships remain irreplaceable, with positive career prospects.
-
 Junior therapists can gain experience in hospitals, rehab facilities, or schools, then progress to senior therapist or department head through further study. They can also work independently or specialise in areas such as trauma therapy or geriatric art therapy. Some transition to teaching or research roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior therapists can gain experience in hospitals, rehab facilities, or schools
 | Subclass Skilled Worker Visa (Skilled Immigration Act Work Visa) | Must obtain a job offer from a German employer and the occupation must match the qualification. Requires qualification recognition (Anerkennung), applicable for non-shortage occupations. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, allows seeking work in Germany. Requires qualification, language, etc. Open to non-shortage occupations. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Can progress from junior therapist to senior therapist, department head,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-and-art-therapist/DE)**

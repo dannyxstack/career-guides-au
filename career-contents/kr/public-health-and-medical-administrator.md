@@ -4,8 +4,6 @@
 
 Oversees the operation and administration of medical institutions such as hospitals and nursing homes, managing finances, personnel, and service quality as a managerial professional.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Oversees the operation and administration of medical institutions such as hospit
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates data analysis and some administrative tasks, but strategic decision-making and leadership remain human domains. Healthcare managers can leverage AI as a tool to enhance efficiency.
-
 Typically, after graduating from graduate school (MHA/MPH), one starts as a hospital administration intern, advancing to team leader, department head, and finally administrator; experience in medical institution accreditation is advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Typically, after graduating from graduate school (MHA/MPH), one starts as a hosp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Eligible for medical institution administrative management under E-7-1 (Professional) status; requires employment contract proof |
-| Subclass F-2 (F-2 (Residence) visa) | Possible long-term stay through points system, employment in healthcare management possible |
-| Subclass F-5 (Permanent residence visa) | No employment restrictions as permanent resident |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Generally a bachelor's degree in health administration or higher, master's (M
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-health-and-medical-administrator/KR)**

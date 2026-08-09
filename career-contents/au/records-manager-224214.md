@@ -51,8 +51,6 @@ Responsible for designing, implementing, and managing organizational records and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-A day-to-day tasks like document processing, classification, and retrieval for archivists are highly automatable; AI is rapidly shrinking traditional entry-level roles, but advanced functions like strategy development, compliance review, and digital transformation consulting still require human wisdom.
-
 Junior records management officers can advance to senior records management specialists, information governance managers, or transition to higher-level roles such as data privacy and compliance management.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior records management officers can advance to senior records management spec
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa, requires skills assessment |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes. This occupation is on the CSOL list and can immigrate via 482/186 employ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-manager-224214/AU)**

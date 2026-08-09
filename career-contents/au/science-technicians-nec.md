@@ -52,8 +52,6 @@ Other science and technology professionals provide technical support in labs, re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation is mixed under AI influence: many repetitive experimental operations and data analysis will be automated, but complex sample handling, anomaly diagnosis, and equipment maintenance still require human judgment; overall jobs won't disappear but content will deeply transform.
-
 Junior technicians can start as lab assistants, gain experience and advance to senior technician or lab supervisor, or move into quality control, R&D, or technical sales.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can start as lab assistants, gain experience and advance to s
 | Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship, can transition to 186 |
 | Subclass 491 (Skilled Work Regional Visa) | Regional state sponsorship, requiring living and working in a designated area |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically via skilled migration (189/190) or employer sponsorship (482/186), 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/science-technicians-nec/AU)**

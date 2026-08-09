@@ -53,8 +53,6 @@ Use water, detergents, brushes, cloths, and hoses to clean or wash vehicles, mac
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Vehicle and equipment cleaning jobs are at high risk of automation because cleaning tasks can be replaced by standardized solutions like automatic car wash systems and dry-cleaning robots, with low entry barriers and high labor cost sensitivity.
-
 Limited career progression, typically to fleet supervisor or car wash manager. With experience, can move to equipment maintenance or specialty vehicle cleaning.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Limited career progression, typically to fleet supervisor or car wash manager. W
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually only requires on-the-job training, about 1-2 months to become profici
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaners-of-vehicles-and-equipment/US)**

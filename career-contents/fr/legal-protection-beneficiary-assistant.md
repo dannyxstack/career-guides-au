@@ -4,8 +4,6 @@
 
 Assist adults or minors protected by legal measures (such as guardianship or custody), safeguard their daily life, administrative affairs, and social rights, and collaborate with social workers and judicial institutions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Assist adults or minors protected by legal measures (such as guardianship or cus
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on the role of legal protection beneficiary assistants, especially by freeing up manpower through automated document and schedule management, but high emotional demands and complex case decision-making make core tasks difficult to replace.
-
 You can be promoted from assistant to legal protection representative (délégué à la protection judiciaire), or transition to social worker or legal advisor roles through continuing education.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ You can be promoted from assistant to legal protection representative (délégu�
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Visa) | A French employer contract is required, and the position must pass a labor market test (such as Pôle emploi audit). |
-| Subclass Passeport Talent (Talent Passport) | Falls under shortage occupation or high-skilled category, requires at least €30k annual salary, but this occupation typically does not meet that. |
-| Subclass Recherche emploi (Job Search Visa) | Suitable for application after completing studies in France; valid for 1 year; requires finding relevant work. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Must hold a National Diploma for Judicial Protection Interventionists (DEMJPI
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-protection-beneficiary-assistant/FR)**

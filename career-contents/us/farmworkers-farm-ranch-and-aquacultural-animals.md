@@ -53,8 +53,6 @@ Caring for farm animals such as cattle, sheep, pigs, poultry, and fish, performi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 Can progress from general worker to senior breeder, farm supervisor, or veterinary nurse; with experience, can move into livestock management or agricultural technical services.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from general worker to senior breeder, farm supervisor, or veterina
 | Subclass H-2A (H-2A Temporary Agricultural Worker) | Temporary agricultural worker visa, requires employer sponsorship, seasonal work, but usually does not lead directly to a green card |
 | Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Third preference for employment-based immigration, but requires PERM labor certification; agricultural workers typically have low wages and find it difficult to meet requirements |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to farm supervisor, livestock manager, or self-employed farmer, b
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farmworkers-farm-ranch-and-aquacultural-animals/US)**

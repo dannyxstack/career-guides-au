@@ -52,8 +52,6 @@ Responsible for managing the operations and strategy of non-school educational i
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on heads of out-of-school educational institutions is mixed: administrative and operational management tasks are automated, but core responsibilities like strategic decision-making, curriculum innovation, and teacher supervision are amplified by AI tools.
-
 Can progress from education program manager to head of institution, then to regional or national education management roles, or transition to corporate training or education consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from education program manager to head of institution, then to regi
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for skilled workers with qualification recognition and employer sponsorship, requires German B1 or above |
 | Subclass Chancenkarte (Opportunity Card) | New policy in 2024, points-based, allows job seekers to come to Germany to find work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a master's degree in education or management, at least 3 y
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-nonschool-educational-institutions/DE)**

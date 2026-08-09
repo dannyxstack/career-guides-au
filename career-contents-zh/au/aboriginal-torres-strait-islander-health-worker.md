@@ -1,6 +1,6 @@
-# Aboriginal & Torres Strait Islander Health Worker 职业分析 · 澳大利亚
+# 原住民和托雷斯海峡岛民健康工作者（Aboriginal & Torres Strait Islander Health Worker）职业分析 · 澳大利亚
 
-**职业代码: 411511 (ANZSCO)**
+**职业代码：411511 (ANZSCO)**
 
 原住民健康工作者在原住民社区控制的健康服务(ACCHO)及公立医疗系统中提供文化安全的初级医疗、健康教育与个案支持，受 Aboriginal and Torres Strait Islander Health Award 覆盖，是政府资助、澳洲特有的岗位，偏远地区薪资更高，非技术移民职业。
 
@@ -13,7 +13,7 @@
 
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
-| Certificate III/IV in Aboriginal and/or Torres Strait Islander PHC | 1~2年 | $0~$8,000（多有补贴） |
+| 原住民和/或托雷斯海峡岛民初级保健三级/四级证书 | 1~2年 | $0~$8,000（多有补贴） |
 | 注册(Health Practitioner)所需 Cert IV | 1~2年 | $0~$9,000（AHPRA 注册路径） |
 
 ---
@@ -22,17 +22,17 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cert III/IV in ATSI Primary Health Care | TAFE/RTO | 必备 | 入行基础 |
+| 原住民初级卫生保健三级/四级证书 | TAFE/RTO | 必备 | 入行基础 |
 | AHPRA 注册（Health Practitioner 岗位） | AHPRA / 相关委员会 | 可选 | 注册岗位强制 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Closing the Gap 政策与 ACCHO 扩张推动稳定需求，持注册资格(Health Practitioner)及偏远地区从业者收入更高。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。Closing the Gap 政策与 ACCHO 扩张推动稳定需求，持注册资格(Health Practitioner)及偏远地区从业者收入更高。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -50,21 +50,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
 原住民健康工作者的文化安全咨询和社区联络角色很难被AI取代，但AI可作为强大工具，增强其健康数据管理、健康教育资源制作和远程患者跟踪能力，提升服务效率与覆盖面。
 
 路径：健康工作者→注册健康从业者(Practitioner)→团队/项目负责人；文化身份与社区联系是核心优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 基础健康数据录入与病例整理
 - 标准健康教育材料的翻译与本地化
 - 预约管理与随访提醒电话
 - 简单慢性病知识问答（如糖尿病饮食）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析社区健康数据，识别高危人群与趋势
 - 借助生成式AI制作多语言、文化适配的教育视频与图解
@@ -72,7 +72,7 @@
 - 使用AI远程监控工具跟踪慢性病患者状态
 - AI辅助报告撰写与政策建议书生成
 
-**人类护城河:**
+**人类护城河：**
 
 - 文化安全实践：深谙原住民习俗、历史与信任建立
 - 社区关系维护：面对面情感支持与危机干预
@@ -80,7 +80,7 @@
 - 复杂伦理决策：在传统与现代医学间取得平衡
 - 实地探访与居家护理：无法被屏幕取代的身体力行
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握社区健康数据分析工具（如Power BI、Tableau）
 - 学习AI健康教育内容制作（如Canva、Synthesia）
@@ -89,22 +89,20 @@
 - 创伤知情护理与心理健康急救认证
 - 项目管理能力：协调多方合作伙伴
 
-**主要增长方向:**
+**主要增长方向：**
 
 - Closing the Gap
-- ACCHO Sector
-- Cultural Safety
-- Primary Health Care
+- ACCHO部门
+- 文化安全
+- 初级卫生保健
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
 
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**PR友好度：很低（★☆☆☆☆）**
 
 ---
 
@@ -145,12 +143,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
+| PR友好度 | 很低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/aboriginal-torres-strait-islander-health-worker/AU)**

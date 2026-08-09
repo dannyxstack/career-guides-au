@@ -54,8 +54,6 @@ Counsellors provide emotional, mental health, addiction, and other support to in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
-
 From entry-level counselor to senior/supervisor counselor requires 5-8 years of experience, with specialization in addiction, trauma, or child fields, or moving into management or training roles. Some counselors open private practices.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ From entry-level counselor to senior/supervisor counselor requires 5-8 years of 
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is accredited and the position passes the labour market test, can apply for AEWV, but registration is mandatory |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Psychologist is not on the Green List, but may be added in the future; no direct pathway currently |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a relevant bachelor's or master's degree and registration 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/counsellor/NZ)**

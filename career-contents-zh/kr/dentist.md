@@ -1,10 +1,8 @@
 # 牙医（Dentist）职业分析 · 韩国
 
-**职业代码: 30141 (KECO)**
+**职业代码：30141 (KECO)**
 
-A specialist who diagnoses and treats oral diseases, comprehensively managing dental and oral health including cavities, gum disease, orthodontics, and implants.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+诊断和治疗口腔疾病的专家，综合管理牙齿和口腔健康，包括蛀牙、牙龈疾病、正畸和种植牙。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist who diagnoses and treats oral diseases, comprehensively managing de
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Pre-Dentistry Program | 2 年 | $7,000,000~$12,000,000（Tuition at national universities） |
-| School of Dentistry or Graduate School of Dentistry | 4年 | $16,000,000~$25,000,000（Annual tuition varies by private universities） |
+| 牙科预科课程 | 2 年 | $7,000,000~$12,000,000（国立大学学费） |
+| 牙科学院或牙科研究生院 | 4年 | $16,000,000~$25,000,000（私立大学年学费各不相同） |
 
 ---
 
@@ -22,17 +20,17 @@ A specialist who diagnoses and treats oral diseases, comprehensively managing de
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dentist License | Ministry of Health and Welfare | 必备 | Obtained after passing the National Dental Examination |
-| Dental Specialist Certification | Korean Dental Association | 可选 | Obtained after internship/residency and passing the specialist exam |
+| 牙医执照 | 保健福祉部 | 必备 | 通过国家牙科考试后获得 |
+| 牙科专科认证 | 韩国牙科协会 | 可选 | 实习/住院医师培训后通过专科考试获得 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 31,000. Demand remains steady due to aging population and growing cosmetic dentistry needs, but regional disparities are large due to metropolitan concentration and competition among private clinics.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 31,000。因人口老龄化和美容牙科需求增长，需求稳定，但因集中在大城市和私立诊所竞争，地区差异大。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,70 +38,62 @@ A specialist who diagnoses and treats oral diseases, comprehensively managing de
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years as employed dentist) | $60,000,000~$90,000,000 | Based on employed dentist at hospital; private practice varies |
-| Mid-level (4-10 years as employed dentist) | $99,999,999 | Higher if holding specialist certification |
-| Senior (private practitioner or 10+ years) | $99,999,999 | Varies greatly based on practice performance |
+| 入门级（作为受雇牙医0-3年） | $60,000,000~$90,000,000 | 基于受雇于医院的牙医；私人执业情况有所不同 |
+| 中级（担任牙医4-10年） | $99,999,999 | 持有专业认证者薪资更高 |
+| 高级（私人执业或10年以上经验） | $99,999,999 | 根据执业表现差异较大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI enhances some tasks like diagnostic assistance, radiograph interpretation, and surgical planning, but actual procedures and patient consultations still require human doctors. Replacement risk by AI is low, but use of assistive tools is expected to increase.
+AI增强部分任务，如诊断辅助、影像解读和手术规划，但实际操作和患者咨询仍需人类医生。被AI替代的风险低，但辅助工具的使用预计会增加。
 
-Graduate from dental school → pass national dental exam → internship/residency (optional) → open a clinic or work at a hospital. Common path: become a professor at a university hospital, obtain specialist certification, then open a clinic.
+牙科学校毕业→通过国家牙科考试→实习/住院医师（可选）→开设诊所或在医院工作。常见路径：成为大学医院教授，获得专科医师认证，然后开设诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Radiograph Interpretation
-- Basic Diagnosis and Consultation
-- Treatment Record Writing
+- 简单X光片判读
+- 基础诊断与咨询
+- 治疗记录撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Implant Surgery Planning
-- Orthodontic Treatment Simulation
-- Prosthesis Design
-- Patient Data Analysis
+- 种植手术规划
+- 正畸治疗模拟
+- 假肢设计
+- 患者数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex Surgical Judgment
-- Building Patient Trust
-- Intraoral Fine Manipulation
-- Medical Ethical Decision-Making
+- 复杂外科判断
+- 建立患者信任
+- 口内精细操作
+- 医学伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Implant Design
-- Use of AI Diagnostic Tools
-- Big Data-Based Research Skills
-- Advanced Patient Communication
+- 数字种植体设计
+- AI 诊断工具的使用
+- 基于大数据的研究技能
+- 高级患者沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Geriatric Implants
-- Digital Dentistry
-- Cosmetic Dentistry
-- Solo Practice
+- 老年植入物
+- 数字化牙科
+- 美容牙科
+- 个人执业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for foreign dentists invited to work at domestic medical institutions, but license recognition procedures required |
-| Subclass F-2 (F-2 (Residence)) | Possible to open a dental clinic as a long-term resident if points-based qualifications are met |
-| Subclass F-5 (Permanent Residence) | No restrictions on medical activities as a permanent resident |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -111,25 +101,25 @@ Graduate from dental school → pass national dental exam → internship/residen
 
 **谁适合**
 - 有耐心和手巧的人
-- People who enjoy precise work and continuous learning
-- People skilled in patient communication and responsible
+- 喜欢精确工作和持续学习的人
+- 擅长患者沟通且负责任的人
 
 **谁不适合**
-- People uncomfortable with blood or physical contact
-- People who cannot afford long training periods and high tuition
+- 不适应血液或身体接触的人
+- 无法承担长培训期和高学费的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary of a dentist?**
-答：Entry-level salaried dentists earn 60–90 million KRW; experienced clinic owners with 10+ years earn 150–400 million KRW.
+**问：牙医的典型薪资是多少？**
+答：入门级受薪牙医年收入6000万至9000万韩元；经验丰富的诊所业主（10年以上）年收入1.5亿至4亿韩元。
 
-**问：Can foreigners work as dentists in Korea?**
-答：A Korean dental license is mandatory; E-7 visa sponsorship is possible but strict.
+**问：外国人能在韩国当牙医吗？**
+答：韩国牙科执照是强制性的；E-7签证赞助可能但严格。
 
-**问：How long does it take to become a dentist?**
-答：It takes at least 6 years: 2 years of pre-dental and 4 years of dental school, plus 1–4 years of residency training.
+**问：成为牙医需要多长时间？**
+答：至少需要6年：2年牙科预科和4年牙科学校，加上1-4年住院医师培训。
 
 
 ---
@@ -147,12 +137,12 @@ Graduate from dental school → pass national dental exam → internship/residen
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dentist/KR)**

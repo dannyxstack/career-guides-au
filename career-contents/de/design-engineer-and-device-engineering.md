@@ -51,8 +51,6 @@ Responsible for product design and equipment development, covering mechanical, e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on design and equipment engineering is mixed: AI enhances conceptual design, simulation, and parameter optimization, but physical prototyping, system integration, and compliance verification still require human judgment.
-
 Can advance from technician to project manager or R&D supervisor, and progress to senior roles through continuing education (e.g., Master's in Technology Management). The dual university pathway is also common.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from technician to project manager or R&D supervisor, and progress t
 | Subclass Skilled Worker (Skilled Employment Visa) | Tied to employer, requires qualification assessment, applicable for engineering roles |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking in Germany for 1 year, suitable for high-potential applicants without employer sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires recognition of qualifications (Anerkennung) through ZAB assessment. 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/design-engineer-and-device-engineering/DE)**

@@ -4,8 +4,6 @@
 
 In restaurants, hotels, and other dining establishments, responsible for cleaning tableware, kitchenware, and related equipment, keeping kitchens clean and tidy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In restaurants, hotels, and other dining establishments, responsible for cleanin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dishwashers face high automation risks, with AI and robots replacing most cleaning tasks. Entry-level positions are greatly reduced, leaving only a small demand for manual cleaning in complex kitchen environments.
-
 Usually, they start as dishwashers, gain experience, and can be promoted to kitchen assistants or junior chefs. Some people move into food and beverage management roles and can become professional chefs through training.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Usually, they start as dishwashers, gain experience, and can be promoted to kitc
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employer sponsorship is required, proving that suitable personnel cannot be recruited within the EU. Dishwashers are not considered high-skilled professions, and obtaining visas is quite difficult. |
-| Subclass Recherche emploi (Job Search (APS)) | After completing your studies in France, you can apply for a one-year job-seeking residence to find related job opportunities. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The difficulty is quite high. Dishwashers are not considered high-skilled pro
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dishwasher/FR)**

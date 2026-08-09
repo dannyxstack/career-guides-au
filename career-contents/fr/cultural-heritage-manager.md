@@ -4,8 +4,6 @@
 
 Responsible for the safekeeping, promotion, and enhancement of cultural heritage (museums, historical sites, archives), involving collection management, exhibition planning, public education, and implementation of heritage protection policies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the safekeeping, promotion, and enhancement of cultural heritage
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core of cultural heritage management—value judgment, storytelling, and community engagement—is difficult to replace by AI, but tasks such as document organization, data annotation, and basic navigation are being eroded by automated tools, intensifying competition for entry-level positions.
-
 Entry-level positions such as collection assistant or tour guide can be promoted to department head (such as museum director or heritage project director), requiring experience and possibly passing the national civil service exam (concours) or continuing education (e.g., master's in estate management).
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Entry-level positions such as collection assistant or tour guide can be promoted
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Economic Contribution - Artist or Scientist)) | This is suitable for foreign talents with high academic or artistic achievements who need to provide projects or contracts in the field of French cultural heritage |
-| Subclass Salarié (Salaried Employee (Work Permit)) | You must obtain a work contract from a French employer, and the position must prove that it cannot recruit EU citizens (approved by the Labour Department). |
-| Subclass Recherche d'emploi (Job Search / Business Creation (Post-Study)) | After obtaining a master's degree or higher in France, you can apply for a one-year temporary residence permit to seek work in the cultural heritage field. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You can start as a collection assistant or tour guide, then advance to depart
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cultural-heritage-manager/FR)**

@@ -50,8 +50,6 @@ New Zealand bricklayers lay bricks, blocks, and stonework mainly for residential
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks are highly dependent on physical labor and site conditions, making them difficult for AI/automation to directly replace. However, prefabrication and robotic bricklaying technology are gradually reducing demand for entry-level positions, and future automation in construction will decrease low-skilled bricklaying jobs.
-
 Junior bricklayers can advance to senior bricklayer, foreman, or project manager, or become self-employed. Continuous learning of new skills (e.g., stone masonry) can increase salary.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior bricklayers can advance to senior bricklayer, foreman, or project manager
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable for bricklayers with a job offer, can lead to residence |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, can use Green List occupation for bonus points, easy to meet under the 6-point system. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, bricklayers are in long-term shortage, especially in Auckland, Christchu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bricklayer/NZ)**

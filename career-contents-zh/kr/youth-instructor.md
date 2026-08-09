@@ -1,10 +1,8 @@
-# Youth Instructor 职业分析 · 韩国
+# 青少年指导员（Youth Instructor）职业分析 · 韩国
 
-**职业代码: 23131 (KECO)**
+**职业代码：23131 (KECO)**
 
-A professional who plans and operates youth activities, education, and counseling programs to support the holistic growth of youth.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+规划并运营青少年活动、教育和咨询项目，支持青少年全面发展的专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans and operates youth activities, education, and counselin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (Youth Studies) | 2 年 | $8,000,000~$12,000,000（Based on annual tuition for junior colleges） |
-| University (Youth Studies, Social Welfare) | 4年 | $20,000,000~$40,000,000（4-year university tuition (public/private difference)） |
+| 大专（青年研究） | 2 年 | $8,000,000~$12,000,000（基于专科院校年学费） |
+| 大学（青年研究、社会福利） | 4年 | $20,000,000~$40,000,000（4年大学学费（公立/私立差异）） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who plans and operates youth activities, education, and counselin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Youth Instructor (Levels 1, 2, 3) | Ministry of Gender Equality and Family (National Youth Policy Institute) | 必备 | Mandatory qualification. Upgrade from Level 3 → 2 → 1. Requires exam and experience. |
-| Youth Counselor (Levels 1, 2, 3) | Ministry of Gender Equality and Family | 可选 | Optional qualification. Advantageous for counseling roles. |
+| 青少年指导员（1、2、3级） | 性别平等与家庭部（国家青年政策研究所） | 必备 | 强制资格。从3级→2级→1级升级。需要考试和经验。 |
+| 青少年咨询师（1、2、3级） | 性别平等与家庭部 | 可选 | 可选资格，对咨询职位有利。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Despite a declining youth population due to low birth rates, employment is expected to remain stable due to strengthened youth policies and demand for after-school activities.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。尽管低出生率导致青年人口减少，但由于青年政策强化和课外活动需求，就业预计将保持稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A professional who plans and operates youth activities, education, and counselin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$28,000,000 | Based on starting salary at youth centers and institutions |
-| 中级（4-9年） | $32,000,000~$40,000,000 | Increases with experience and qualification level |
-| Advanced (10+ years) | $42,000,000~$55,000,000 | Team leader or above, based on public institutions |
+| 初级（0-3年） | $24,000,000~$28,000,000 | 基于青年中心和机构的起薪 |
+| 中级（4-9年） | $32,000,000~$40,000,000 | 随经验和资格水平提高而增加 |
+| 高级（10年以上） | $42,000,000~$55,000,000 | 团队负责人或以上，基于公共机构 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can replace some auxiliary tasks such as counseling and statistical analysis, but it is difficult for AI to replace human interaction with youth and creative program planning, so the impact is limited.
+AI可替代部分辅助任务如咨询和统计分析，但难以替代与年轻人互动和创意项目规划，因此影响有限。
 
-Start as a junior youth instructor, then advance to team leader or center director at youth centers. Some pursue graduate studies and transition to professors or researchers.
+从初级青年辅导员开始，晋升为青年中心的团队负责人或中心主任。一些人攻读研究生并转为教授或研究员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Administrative document processing
-- Simple statistical analysis
-- Basic counseling chatbot replacement
+- 行政文件处理
+- 简单统计分析
+- 基础咨询聊天机器人替换
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Youth behavior pattern analysis
-- Customized activity recommendation system
+- 青少年行为模式分析
+- 定制活动推荐系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with youth
-- Creative program planning
-- On-site response for at-risk youth
+- 与年轻人建立信任
+- 创意项目策划
+- 针对高风险青少年的现场响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding digital youth culture
+- 理解数字青年文化
 - 数据分析技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Diversification of youth activity programs
-- Expansion of digital youth culture
-- Strengthening School-Community Linkages
-- Expanding Youth Mental Health Support
+- 青年活动项目的多样化
+- 数字青年文化的扩展
+- 加强学校与社区联系
+- 扩大青少年心理健康支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible but very limited. Requires invitation from youth-related institutions. |
-| Subclass F-2 (F-2 (Residence)) | Only possible after obtaining permanent residency; not a typical employment route. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy communicating and engaging with youth
-- People interested in various fields (education, counseling, culture)
-- People with strong patience and a sense of responsibility
+- 喜欢与青少年沟通和交流的人
+- 对各个领域（教育、咨询、文化）感兴趣的人们
+- 具有强烈耐心和责任感的人
 
 **谁不适合**
-- People who prefer structured office work
-- People who prioritize high income
+- 偏好结构化办公室工作的人
+- 重视高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a youth worker?**
-答：About 24 to 28 million KRW at entry level, and 42 to 55 million KRW for senior positions with over 10 years of experience, which is relatively low.
+**问：青年工作者的平均年薪是多少？**
+答：入门级约2400万至2800万韩元，高级职位（10年以上经验）4200万至5500万韩元，相对较低。
 
-**问：Can foreigners work as youth workers?**
-答：Possible but very limited with an E-7 visa, mainly restricted to F-2/F-5 permanent residents or overseas Koreans (F-4).
+**问：外国人可以担任青年工作者吗？**
+答：持E-7签证可能但非常有限，主要限于F-2/F-5永久居民或海外韩裔（F-4）。
 
-**问：Is it difficult to obtain a youth worker certification?**
-答：Level 3 is relatively easy, but Levels 2 and 1 require experience and exams, making it medium difficulty.
+**问：获得青年工作者认证困难吗？**
+答：3级相对容易，但2级和1级需要经验和考试，难度中等。
 
 
 ---
@@ -141,12 +132,12 @@ Start as a junior youth instructor, then advance to team leader or center direct
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/youth-instructor/KR)**

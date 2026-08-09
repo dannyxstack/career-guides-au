@@ -53,8 +53,6 @@ Retail cashiers and checkout operators receive customer payments, handle change,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Retail cashier roles are facing accelerated automation replacement: self-checkout, AI visual recognition, and mobile payments are drastically reducing traditional cashier demand, entry-level positions are shrinking significantly, and those who do not proactively transition risk unemployment.
-
 Usually start as a junior cashier, can advance to senior cashier, head cashier, or transition to retail sales, customer service management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a junior cashier, can advance to senior cashier, head cashier, 
 | Subclass Skilled Worker (Skilled Worker visa) | Cashiers generally do not meet the skill requirements for skilled worker visas as it is a low-skilled occupation. |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for two years, can work as a cashier, but cannot directly transition to skilled migration. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually not, as cashier is a low-skilled occupation not on the eligible Skill
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-cashiers-and-checkout-operators/UK)**

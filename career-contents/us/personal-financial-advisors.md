@@ -53,8 +53,6 @@ Provide comprehensive financial advice on tax, investment, insurance, and retire
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Licensed Financial Advisors Will Not Be Replaced by AI; Instead, AI Enhances Data Processing and Compliance Efficiency, but Entry-Level Roles Have Significantly Narrowed Due to Regulatory and Qualification Requirements.
-
 Can progress from junior analyst to senior consultant, team lead, or obtain certifications like CFP for independent practice; some enter wealth management firm management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior analyst to senior consultant, team lead, or obtain cert
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to those with a master's degree or above or outstanding ability, requires PERM labor certification, long wait times. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card process, requires proving inability to hire suitable US workers. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires Series 65 or 7 license; CFP advanced certification is a pl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-financial-advisors/US)**

@@ -52,8 +52,6 @@ Provides advice on effective IT utilization, designs IT systems to meet business
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Can advance to Chief Architect, IT Director, or transition to management consulting. Obtaining certifications such as TOGAF or CBAP can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to Chief Architect, IT Director, or transition to management consult
 | Subclass Scale-up (Scale-up worker visa) | Applicable for working in a fast-growing company; requires sponsorship for the first 6 months, after which you can freely change jobs |
 | Subclass Graduate (Graduate visa) | UK graduates can get a 2-year (PhD 3-year) post-study work visa, not tied to an employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior analyst, solutions architect, chief architect, or move 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-business-analysts-architects-and-systems-designers/UK)**

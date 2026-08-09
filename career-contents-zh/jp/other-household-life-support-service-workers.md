@@ -1,10 +1,8 @@
-# Other Household Life Support Service Workers 职业分析 · 日本
+# 其他家庭生活支持服务工作者（Other Household Life Support Service Workers）职业分析 · 日本
 
-**职业代码: 359 (JSCO)**
+**职业代码：359 (JSCO)**
 
-Occupations providing household life support services such as housekeeping, babysitting, and personal care for the elderly.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+提供家政、保姆及老年人个人护理等家庭生活支持服务的职业。
 
 
 ---
@@ -13,9 +11,9 @@ Occupations providing household life support services such as housekeeping, baby
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 无 | $0~$0（No educational background requirement） |
-| Vocational School (Certified Care Worker Training Course) | 2 年 | $1,000,000~$2,000,000（Acquire Certified Care Worker qualification） |
-| Private Course (Home Helper Training) | 3个月 | $100,000~$300,000（Home Helper Training） |
+| 义务教育 | 无 | $0~$0（无学历要求） |
+| 职业学校（认证护理员培训课程） | 2 年 | $1,000,000~$2,000,000（获得认证护理员资格） |
+| 私人课程（家政助手培训） | 3个月 | $100,000~$300,000（家庭帮手培训） |
 
 ---
 
@@ -23,19 +21,19 @@ Occupations providing household life support services such as housekeeping, baby
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Home Helper (Level 2) | Prefectural Government | 必备 | Basic qualification for home visit care |
-| Certified Care Worker | Ministry of Health, Labour and Welfare | 可选 | National qualification, essential in caregiving settings |
-| Babysitter Certification (Private) | Japan Babysitter Association | 可选 | Voluntary but effective for enhancing trust |
-| Certified Social Worker | Ministry of Health, Labour and Welfare | 可选 | Handles advanced counseling tasks |
+| 家庭帮手（二级） | 县政府 | 必备 | 上门护理的基本资格 |
+| 认证护理员 | 厚生劳动省 | 可选 | 国家资格，在护理环境中必不可少 |
+| 保姆认证（私人） | 日本保姆协会 | 可选 | 自愿但有效于增强信任 |
+| 持证社会工作者 | 厚生劳动省 | 可选 | 处理高级咨询任务 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 320,000. Demand for household life support services is expanding due to aging population and increase in dual-income households. Also noted as a focus area under Specified Skilled Worker (caregiving, housekeeping support).
+**职位需求量：较高（★★★★☆）** 全国从业人数约 320,000。由于老龄化和双职工家庭增加，家庭生活支持服务需求扩大。也是特定技能工人（护理、家务支持）的重点领域。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -43,93 +41,85 @@ Occupations providing household life support services such as housekeeping, baby
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $2,500,000~$3,500,000 | Many part-time/part-time jobs |
-| Intermediate (3-7 yrs) | $3,000,000~$4,500,000 | Stable full-time employment |
-| Veteran (7+ yrs) | $3,500,000~$5,500,000 | Higher earnings as manager or self-employed |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 许多兼职/零工工作 |
+| 中级（3-7年） | $3,000,000~$4,500,000 | 稳定的全职就业 |
+| 资深（7年以上） | $3,500,000~$5,500,000 | 作为经理或自雇人士收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robots complement tasks via monitoring sensors, cleaning robots, and communication robots, but human empathy and flexible responses are essential, so the occupation itself is unlikely to be replaced by AI; rather, AI tools will increase efficiency and demand.
+AI和机器人通过监控传感器、清洁机器人和通信机器人辅助完成任务，但人类的同理心和灵活反应至关重要，因此该职业本身不太可能被AI取代；相反，AI工具将提高效率和需求。
 
-Entry possible without experience. Acquiring qualifications (e.g., Certified Care Worker) and enhancing expertise can lead to management or self-employment. Practical experience and training are key for career advancement.
+无经验也可入职。获得资格（如认证护理员）并提升专业技能可晋升管理或自主创业。实践经验和培训是职业发展的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine cleaning
-- Checking monitoring cameras
-- Simple cooking
+- 日常清洁
+- 查看监控摄像头
+- 简单烹饪
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimizing visit schedules
-- Care proposals based on health data analysis
-- Operating communication robots
+- 优化探访日程
+- 基于健康数据分析的护理建议
+- 操作通信机器人
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional empathy
-- Delicacy in physical assistance
-- Building trust with families
+- 情感共情
+- 身体辅助的细致操作
+- 与家庭建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/IoT device operation
-- Data analysis basics
-- Foreign language support (multicultural families)
+- AI/IoT设备操作
+- 数据分析基础
+- 外语支持（多元文化家庭）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Housekeeping
-- Babysitting
-- Elderly care
-- Disability support
+- 家政服务
+- 保姆服务
+- 养老护理
+- 残障支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving)) | Eligible to work in caregiving for up to 5 years. Requires JLPT N4 level and skills test. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to holders of national qualifications like Certified Care Worker or those with specialized knowledge. |
-| Subclass 特定活動（家事支援） (Designated Activities (Domestic Care Support Foreigner)) | Engaged in housekeeping services. Must meet host organization requirements. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Compassionate
-- Physically confident
-- People good at communication
+- 富有同情心
+- 身体自信
+- 善于沟通的人
 
 **谁不适合**
-- People who cannot follow detailed rules
-- People lacking a sense of cleanliness
+- 无法遵循详细规则的人
+- 缺乏卫生意识的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the median annual income?**
-答：Depending on experience and employment type, the median annual income for full-time regular employees is around 3.5 million yen.
+**问：年收入中位数是多少？**
+答：根据经验和雇佣类型，全职正式员工的年收入中位数约为350万日元。
 
-**问：What visa do foreigners need to work?**
-答：In the caregiving field, Specified Skilled Worker (i) (Caregiving) or Engineer/Specialist in Humanities/International Services (for certified care workers) is common. Housekeeping support falls under Designated Activities.
+**问：外国人工作需要什么签证？**
+答：在护理领域，常见的是特定技能工人(i)（护理）或人文/国际服务领域的工程师/专家（针对认证护理人员）。家政支持属于指定活动。
 
-**问：How can I advance my career?**
-答：By obtaining qualifications such as Certified Care Worker or Social Worker, you can aim for positions like facility manager or care manager. There is also the option of becoming an independent housekeeping business owner.
+**问：如何提升我的职业生涯？**
+答：通过获得认证护理员或社会工作者等资格，你可以瞄准设施经理或护理经理等职位。也可以选择成为独立家政业务经营者。
 
 
 ---
@@ -147,12 +137,12 @@ Entry possible without experience. Acquiring qualifications (e.g., Certified Car
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-household-life-support-service-workers/JP)**

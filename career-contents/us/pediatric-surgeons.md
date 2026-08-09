@@ -53,8 +53,6 @@ Pediatric surgeons diagnose and perform surgery on fetuses, newborns, children, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core surgical skills of paediatric surgeons are hard to replace by AI in the short term, but auxiliary tasks like preoperative image analysis, postoperative monitoring, and medical record management will become significantly AI-driven. Overall job risk is moderate, requiring proactive adoption of AI-enhanced tools.
-
 Career progression typically starts with residency training, gradually becoming an attending physician, then department head or academic position. Some doctors enter research or hospital management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts with residency training, gradually becoming 
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to skilled trades, technical workers, and other workers |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | To obtain a green card through labor certification, you must prove that no US workers can be recruited. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires a medical degree, USMLE license, completion of general surgery and p
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pediatric-surgeons/US)**

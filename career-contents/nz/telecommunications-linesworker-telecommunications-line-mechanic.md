@@ -53,8 +53,6 @@ Install, maintain, and repair fiber optic and copper cabling lines for New Zeala
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line installers and repairers face a high risk of automation, especially as automatic fiber fusion splicing, drone inspection, and AI-assisted fault diagnosis will significantly reduce manual demand, but on-site work and emergency response still provide some protection.
-
 Junior workers can gain experience to become senior line technicians or team supervisors; with an electrician's license, they can transition to telecom network planning or project management roles, or establish a subcontracting company for commercial contracts.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior workers can gain experience to become senior line technicians or team sup
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically through a 3-4 year apprenticeship, obtaining the New Zealand Nation
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-linesworker-telecommunications-line-mechanic/NZ)**

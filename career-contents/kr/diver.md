@@ -4,8 +4,6 @@
 
 Specialized divers performing underwater rescue, construction, inspection, installation, and other marine tasks, playing a key role in the construction and maritime sectors.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Specialized divers performing underwater rescue, construction, inspection, insta
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation technology can replace some underwater tasks (remote monitoring, ROV), but diving functions requiring high-level judgment and physical work remain human-led.
-
 Career progression: entry-level diver → intermediate technician → senior supervisor; acquiring special diving certifications (saturation diving, ROV operation) opens overseas project opportunities.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Career progression: entry-level diver → intermediate technician → senior sup
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to maritime professionals; strict experience and certification requirements |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Generally unsuitable; typical diving work is recognized as a specialized field. |
-| Subclass F-2 (Residence) | Employment is possible only for long-term residents, but a separate permit is required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: You must pass the written and practical exams administered by the Human Resou
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diver/KR)**

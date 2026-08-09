@@ -52,8 +52,6 @@ Education Advisors and School Inspectors plan, organize, and manage educational 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Education consultants and school inspectors face moderate AI risk: low-value paperwork will be automated, but deep interpersonal mentoring and policy judgment remain human core strengths.
-
 Usually start as a teacher or school administrator, gain experience, and advance to senior education consultant, chief inspector, or education policy officer. Some move to education consulting firms or become independent inspectors.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as a teacher or school administrator, gain experience, and advance
 | Subclass Global Talent (Global Talent visa) | Suitable for applicants with outstanding achievements or potential in the education field; no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay for 2 years (PhD 3 years) to find work, can switch to Skilled Worker after gaining experience. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires teaching experience, policy understanding, analytical and assessment
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-advisers-and-school-inspectors/UK)**

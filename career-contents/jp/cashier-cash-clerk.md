@@ -50,8 +50,6 @@ Administrative role responsible for cash management and bookkeeping in companies
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Cash handling tasks are rapidly being automated by AI and RPA, with automatic journal entries in accounting software and cashless payments reducing simple cash management work.
-
 Many start in general clerical positions, with a path to advance to accounting or finance departments through experience. Obtaining certifications broadens career options.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Many start in general clerical positions, with a path to advance to accounting o
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable with a university degree or 10+ years of work experience. Falls under accounting clerical work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not currently eligible as of 2024, but potential for future expansion. |
-| Subclass 特定活動（エンジニア） (Designated Activities) | May be recognized as a highly skilled professional. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +137,12 @@ A: It's common to obtain a Bookkeeping Level 2+ certification and move to the ac
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier-cash-clerk/JP)**

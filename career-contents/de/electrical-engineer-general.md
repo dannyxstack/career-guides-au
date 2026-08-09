@@ -51,8 +51,6 @@ Electrical engineers design, develop, and maintain electrical systems and equipm
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
-
 Career path: Junior Engineer (Projektingenieur) → Senior Engineer (Senioringenieur) → Project Manager or Technical Expert (Fachingenieur). Can also move into R&D, management, or start a business. Further study (Master's) or qualifications (e.g. VDE certification) can boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: Junior Engineer (Projektingenieur) → Senior Engineer (Senioringen
 | Subclass Skilled Worker (Skilled Immigration Act) | Applies to electrical technicians with German recognized vocational qualifications or dual-system training; must have an employment contract. |
 | Subclass Chancenkarte (Opportunity Card) | Launched in 2024, this points-based job-seeking visa offers electrical engineers a clear advantage due to skills shortage, allowing up to one year in Germany to find work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Strong demand driven by Germany's energy transition and digitalization, with 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer-general/DE)**

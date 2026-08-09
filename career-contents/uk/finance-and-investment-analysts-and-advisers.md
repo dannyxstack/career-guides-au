@@ -54,8 +54,6 @@ Financial investment analysts and advisors provide advice on purchasing financia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior analysts or investment managers, then to department heads or partners. Holding CFA or other certifications accelerates promotion. Some move to private banking or hedge funds.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior analysts can advance to senior analysts or investment managers, then to d
 | Subclass Global Talent (Global Talent Visa) | Applicable to talents with outstanding achievements in the financial sector, requires endorsement |
 | Subclass Graduate (Graduate Visa) | UK graduates can apply, allowing work for 2 years (3 years for PhD) without employer sponsorship requirements. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Accumulate project experience, obtain CFA or CISI certification, expand clien
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/finance-and-investment-analysts-and-advisers/UK)**

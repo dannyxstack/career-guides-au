@@ -4,8 +4,6 @@
 
 Local police are responsible for maintaining public safety in municipalities, managing traffic, preventing crime, and assisting citizens. They are the law enforcement force of Spain's local governments.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Local police are responsible for maintaining public safety in municipalities, ma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on local police is mixed: while paperwork tasks are easily automated, core responsibilities such as frontline law enforcement and community interaction have been enhanced by AI tools (such as predictive analytics and intelligent monitoring), improving law enforcement efficiency and decision-making capabilities.
-
 Promotion paths range from police officer (Policía) to police officer (Oficial), inspector (inspector), and higher ranks, requiring internal examinations and training.
 
 **Tasks most exposed to AI:**
@@ -102,15 +98,9 @@ Promotion paths range from police officer (Policía) to police officer (Oficial)
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Generally, a Spanish company or institution is required to guarantee it, but police positions are usually not open to foreign nationals unless there is a special bilateral agreement. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: Spanish or EU nationality is usually required. Non-EU citizens must first obt
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-police-officer/ES)**

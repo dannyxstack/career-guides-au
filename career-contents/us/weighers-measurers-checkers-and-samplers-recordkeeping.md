@@ -53,8 +53,6 @@ Responsible for weighing, measuring, and inspecting materials, supplies, and equ
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will have mixed impact on weighing, inspecting, testing, and checking roles: large amounts of repetitive data recording and simple inspection tasks will be automated, but tasks involving anomaly judgment, complex sampling, and interpersonal coordination will increase in value due to data enhancement.
-
 Can be promoted to warehouse supervisor, logistics coordinator, or quality control technician; requires experience and certifications (e.g., APICS certification).
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted to warehouse supervisor, logistics coordinator, or quality contr
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult, few employer sponsors, and it's a non-professional occupation
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weighers-measurers-checkers-and-samplers-recordkeeping/US)**

@@ -4,8 +4,6 @@
 
 Mechanical engineers design, develop, and maintain mechanical systems, with strong demand in the Netherlands' manufacturing, energy, and high-tech industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Mechanical engineers design, develop, and maintain mechanical systems, with stro
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
-
 Can progress from junior design roles to senior engineer, project manager, or technical director; with experience, can transition to R&D or consulting.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can progress from junior design roles to senior engineer, project manager, or te
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applies to highly skilled workers requiring employer sponsorship with a salary threshold (approx. €5,331/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals; salary threshold slightly lower than the kennismigrant, requiring employer sponsorship. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or top global universities can apply for a 1-year job-seeking visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Benefiting from high-tech and green transformation, demand is stable, with po
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/NL)**

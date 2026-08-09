@@ -52,8 +52,6 @@ Utility managers plan, organize, direct, and evaluate operations in utilities se
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of utility managers will be profoundly reshaped by AI and automation, but will not be completely replaced; core responsibilities such as supervision, strategic decision-making, and regulatory compliance remain highly dependent on human judgment.
-
 Typically start as an engineer or technical expert, progressing to department head, regional operations director, and vice president. Cross-provincial project experience, professional certifications (e.g., P.Eng), and an MBA facilitate rapid advancement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as an engineer or technical expert, progressing to department he
 | Subclass PNP (Provincial Nominee Program) | Provincial targeted invitations for utility managers, e.g., Ontario, Alberta |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa; suitable for applicants who already have a job offer in Canada |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a bachelor's degree in engineering or business, with over 5 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/utilities-managers/CA)**

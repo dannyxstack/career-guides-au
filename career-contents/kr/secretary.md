@@ -4,8 +4,6 @@
 
 A profession that manages the boss's work schedule, documents, calls, and performs office support tasks, responsible for efficient communication and administrative processing within the organization.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession that manages the boss's work schedule, documents, calls, and perfor
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the development of AI secretary technology and automation tools, some tasks like scheduling and document creation are being replaced, putting pressure on the secretary role. However, high-level functions like strategic decision support and interpersonal coordination remain human domains.
-
 Starting as a junior secretary, one can be promoted to middle manager secretary or executive secretary with experience, and some may transition to office managers or administrative specialists.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Starting as a junior secretary, one can be promoted to middle manager secretary 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can be issued at foreign companies as a professional secretary, educational and career conditions required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work as secretaries, no employment restrictions |
-| Subclass D-10 (Job-seeking) | Visa for secretary job-seeking, convertible to E-7 |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: Yes, they can move to office management, HR, marketing, etc., and experience 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretary/KR)**

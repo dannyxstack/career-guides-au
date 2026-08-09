@@ -4,8 +4,6 @@
 
 Responsible for post-production processes such as binding, folding, cutting, glue binding, and deluxe binding of printed materials such as books, magazines, and brochures.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for post-production processes such as binding, folding, cutting, glu
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Print bindery and finishing workers face significant automation compression risk; AI and robots will gradually take over repetitive binding and inspection tasks, reducing entry-level positions, but machine maintenance and special material handling still require humans.
-
 You can be promoted from a binding operator to a binding team leader, production supervisor, or move to positions such as digital printing operations and quality control.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted from a binding operator to a binding team leader, production
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled within the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | Allows up to 6 months stay in Spain to seek employment, but binding positions have low competitiveness. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: It's tough. This occupation is not in short supply; employer sponsorship must
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookbinding-process-workers/ES)**

@@ -56,8 +56,6 @@ Fire Protection Plumbers design, install, test and maintain fire sprinkler syste
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on fire sprinkler fitters is mixed. Design optimization and compliance documentation can be enhanced by AI, but on-site installation, testing, and emergency repairs rely on human experience and are not easily replaced.
-
 Halogen-free suppression agents (HFC alternatives) and electrical fire detection systems are emerging areas of demand. Licensed fire protection plumbers are scarce, the independent contractor market is active, and earnings are higher than for general plumbers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Halogen-free suppression agents (HFC alternatives) and electrical fire detection
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -164,12 +160,13 @@ A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeship
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-protection-plumber/AU)**

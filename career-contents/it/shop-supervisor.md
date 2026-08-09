@@ -4,8 +4,6 @@
 
 A store supervisor oversees daily retail store operations, manages the sales team, ensures customer service quality, and assists in achieving sales targets. In Italy, this role is a key management position in the retail industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A store supervisor oversees daily retail store operations, manages the sales tea
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI automation is significantly reducing demand for store supervisors; tasks like restocking, sales forecasting, and customer data analysis are being replaced by tools, entry-level supervisory roles are decreasing, but high-value decision-making and interpersonal coordination still require humans.
-
 Career progression typically starts as a sales assistant or cashier, advancing to supervisor through experience, then to store manager or regional manager. Some supervisors may transition to purchasing or marketing functions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career progression typically starts as a sales assistant or cashier, advancing t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU citizens apply through annual quota, require employer sponsorship, suitable for retail positions. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers, requires an annual salary of at least approximately €39,000; supervisory positions usually do not meet this threshold. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Can be promoted to store manager, regional manager, or transfer to retail hea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-supervisor/IT)**

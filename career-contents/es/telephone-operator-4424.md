@@ -4,8 +4,6 @@
 
 Telephone operators are responsible for answering incoming calls, transferring calls, providing information, or processing customer orders, commonly found in call centers, hotels, or corporate customer service departments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Telephone operators are responsible for answering incoming calls, transferring c
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★★).**
 
-AI voice assistants and automated call systems will significantly replace the basic tasks of telephone operators, sharply shrinking entry-level positions, but there is still demand for complex customer service and multilingual coordination functions.
-
 Junior operators can be promoted to customer service team leader, call center supervisor, or trainer. Some have moved into sales or technical support roles, or entered data analytics and customer relationship management through further education.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Junior operators can be promoted to customer service team leader, call center su
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | The employer must provide a work contract, prove that the position does not meet suitable candidates within the EU, and obtain a work residence permit. Since this occupation is not in urgent demand, approval is relatively difficult. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to reside in Spain and look for work, but you must prove sufficient financial means and convert to working residence after finding a job. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You can be promoted to customer service team leader, call center supervisor, 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★★) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-operator-4424/ES)**

@@ -52,8 +52,6 @@ In Italy, nursing professionals are responsible for providing direct patient car
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Nursing professionals face mixed prospects in the AI era: administrative, documentation, and basic data analysis tasks will be automated, but core competencies like direct patient care, clinical judgment, and emotional support are enhanced by AI, with demand growing.
-
 Nursing professionals can advance from registered nurse to head nurse, nursing manager, or specialist nurse (e.g., intensive care, aged care). Further study can lead to becoming a nurse practitioner or transitioning to teaching and research roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Nursing professionals can advance from registered nurse to head nurse, nursing m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled work, requires a work contract and a salary meeting the threshold (approx. annual salary ≥€30,000), can lead to long-term residence. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy sets annual quotas for non-EU workers, with nursing on the priority list and requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers need to apply for a labor permit; after approval, a work visa is processed, applicable to shortage occupations. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must complete a three-year nursing bachelor's (approx. €2,000-5,000/year), 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-professional/IT)**

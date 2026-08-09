@@ -52,8 +52,6 @@ Specialist in planning, organizing, controlling, and optimizing operational proc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-This career has mixed prospects: routine data sorting and process monitoring tasks are easily automated by AI, but AI also enhances decision support and problem-solving capabilities, requiring improved technical and management skills.
-
 Can progress from junior specialist to senior analyst, department head, or project manager. Further education (e.g., MBA or Master of Technology Management) can lead to senior management or consulting roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior specialist to senior analyst, department head, or proje
 | Subclass Skilled Worker (Skilled Worker Visa) | According to the Skilled Immigration Act (Fachkräfteeinwanderungsgesetz), requires recognised qualifications and a German employment contract |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allowing entry to Germany to look for work; you can apply if your score is sufficient. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Relatively friendly, can apply via EU Blue Card or skilled migration visa but
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-and-technical-business-management-specialist/DE)**

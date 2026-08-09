@@ -53,8 +53,6 @@ Responsible for credit limits on authorized customer accounts, investigate credi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Credit officers' routine data entry and preliminary assessment tasks are easily automated by AI, but complex decision-making, client communication, and risk judgment still require humans; the role has a mixed impact overall.
-
 Can advance to credit analyst, credit manager or risk management roles. Some practitioners obtain professional certifications (e.g. CRC) and transition to senior financial analysis positions.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance to credit analyst, credit manager or risk management roles. Some pra
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Usually very difficult. This occupation typically does not require a bachelor
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-authorizers-checkers-and-clerks/US)**

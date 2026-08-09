@@ -53,8 +53,6 @@ Responsible for distilling and brewing alcoholic beverages (e.g., whiskey, gin),
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of distillers/brewers is being reshaped by AI: data analysis tasks like quality inspection and recipe optimization are enhanced, but thresholds for traditional manual monitoring and sensory judgment positions have not significantly decreased. Automation may reduce low-end production jobs, but the value of quality control and innovation roles is rising.
-
 Start as an assistant distiller and progress to head distiller or production supervisor through experience. Alternatively, move into quality control, product development, or start your own craft distillery. Holding relevant certifications (e.g. distiller certificate) helps for management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as an assistant distiller and progress to head distiller or production sup
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Suitable for those with recognized German vocational qualifications (e.g., dual system) and employer sponsorship. Must undergo qualification recognition procedures. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A new points-based job-seeking visa launched in 2024, allowing eligible applicants (language, experience, etc.) to seek employment in Germany for one year without a job offer. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: The core requirement is passing the IHK Distiller vocational qualification (d
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/distiller-brewer/DE)**

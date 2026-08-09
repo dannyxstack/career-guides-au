@@ -52,8 +52,6 @@ Gardeners are responsible for planting, pruning, lawn maintenance, and landscape
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gardening positions are significantly affected by AI automation, with repetitive tasks like pruning and watering easily replaced, but creative landscape design and client communication still require humans; entry-level competition is intensifying.
-
 Gardeners can advance to head gardener or landscape manager by obtaining advanced horticulture certificates, or start their own gardening business.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Gardeners can advance to head gardener or landscape manager by obtaining advance
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥ general threshold (approximately €33,000), rarely used for horticultural positions |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Only for shortage occupations, horticulture is usually not eligible |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: With growth in urban greening and sustainable horticulture demand, employment
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardener/IE)**

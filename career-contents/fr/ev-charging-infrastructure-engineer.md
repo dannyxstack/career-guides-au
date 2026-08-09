@@ -51,8 +51,6 @@ EV charging infrastructure engineers are responsible for electrical design, dist
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
-
 Ultra-fast charging and fleet charging in France have become hotspots, with stations often needing power distribution upgrades and energy storage peak slashing; AI-assisted site selection and load forecasting, core electrical design and compliance are handled by engineers.
 
 **Tasks most exposed to AI:**
@@ -100,15 +98,9 @@ Ultra-fast charging and fleet charging in France have become hotspots, with stat
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent passport) | Passeport Talent (salarié qualifié): multi-year residence for qualified engineers |
-| Subclass Salarié (Employment and residence) | Carte de séjour salarié: employer contract work residence |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -160,12 +152,12 @@ A: Yes. It is classified as a skilled engineering occupation and can use France'
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-charging-infrastructure-engineer/FR)**

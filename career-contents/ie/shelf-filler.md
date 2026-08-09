@@ -51,8 +51,6 @@ Responsible for stocking shelves in retail stores, supermarkets, etc., ensuring 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Shelf stockers face high risk of automation; AI and robots will take over stocking and inventory counting tasks, significantly reducing entry-level positions, but complex scenarios and customer interaction still require humans.
-
 Starting part-time, can advance to department head or inventory manager with experience, or transition to logistics or supply chain.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Starting part-time, can advance to department head or inventory manager with exp
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: Can apply for a General Employment Permit, but requires employer sponsorship 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shelf-filler/IE)**

@@ -54,8 +54,6 @@ Childcare workers provide daily care for children in their own homes, supervisin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Childcare workers face a mixed outlook: AI can automate some administrative and monitoring tasks, but core emotional interaction and safety supervision are hard to replace.
-
 Can gain experience to advance to senior childcare worker or start a daycare, or transition to roles such as early childhood teacher or child social worker.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can gain experience to advance to senior childcare worker or start a daycare, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Must register with Ofsted, complete a training course and pass an inspection;
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childminders/UK)**

@@ -53,8 +53,6 @@ Aircraft maintenance engineers inspect, repair, and maintain aircraft mechanical
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Starting as a junior mechanic, you can gain experience and advance to senior technician or team supervisor; after obtaining a New Zealand Civil Aviation Authority (CAA) license, you can work as an independent certification engineer; some move into management or aviation safety auditing roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as a junior mechanic, you can gain experience and advance to senior tec
 | Subclass SMC (Skilled Migrant Category) | Skilled migration: eligible for a 6-point system, with points for education, work experience, etc.; extra points if occupation on Green List. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: If you do not immediately meet direct residence conditions, you can work on a work visa first and later transition to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires a maintenance engineer license from the New Zealand Civil Aviation A
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-engineer/NZ)**

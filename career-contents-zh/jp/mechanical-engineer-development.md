@@ -1,8 +1,8 @@
-# Mechanical Engineer (Development) 职业分析 · 日本
+# 机械工程师（开发）（Mechanical Engineer (Development)）职业分析 · 日本
 
-**职业代码: 073 (JSCO)**
+**职业代码：073 (JSCO)**
 
-Engineers engaged in the design and development of mechanical products, using CAD and CAE for mechanism design, performance evaluation, prototyping, and mass production support.
+从事机械产品设计和开发的工程师，使用CAD和CAE进行机构设计、性能评估、原型制作和量产支持。
 
 
 ---
@@ -11,9 +11,9 @@ Engineers engaged in the design and development of mechanical products, using CA
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Faculty of Engineering, Mechanical Engineering) | 4年 | $4,000,000~$6,000,000（Large cost difference between national and private universities.） |
-| National College of Technology (Mechanical Engineering) | 5年 | $2,000,000~$3,000,000（Tuition is relatively low at national institutions.） |
-| Vocational School (Mechanical Design) | 2 年 | $2,000,000~$4,000,000（Acquire practical CAD skills.） |
+| 大学（工学院，机械工程） | 4年 | $4,000,000~$6,000,000（国立和私立大学之间的费用差异很大。） |
+| National College of Technology (Mechanical Engineering) | 5年 | $2,000,000~$3,000,000（国立院校学费相对较低。） |
+| 职业学校（机械设计） | 2 年 | $2,000,000~$4,000,000（掌握实用的CAD技能。） |
 
 ---
 
@@ -21,18 +21,18 @@ Engineers engaged in the design and development of mechanical products, using CA
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mechanical Design Engineer Examination (1st, 2nd, 3rd Grade) | Japan Society of Mechanical Design | 可选 | Certifies mechanical design knowledge and practical ability. |
-| Professional Engineer (Mechanical Engineering) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Proof of advanced technical skills. Requires practical experience. |
-| CAD Utilization Engineer Examination (2nd, 1st Grade) | National CAD Education Council | 可选 | Proves CAD operation skills; advantageous for employment. |
+| 机械设计工程师考试（1级、2级、3级） | 日本机械设计学会 | 可选 | 认证机械设计知识和实践能力。 |
+| 专业工程师（机械工程） | 文部科学省 | 可选 | 高级技术技能证明。需要实际经验。 |
+| CAD应用工程师考试（2级、1级） | 国家CAD教育委员会 | 可选 | 证明CAD操作技能；有利于就业。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Demand for highly skilled designers remains strong due to digitalization in manufacturing and growth in eco-friendly vehicles and robots. However, AI and simulation technologies are changing job content.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。由于制造业数字化以及环保车辆和机器人的增长，对高技能设计师的需求依然强劲。然而，人工智能和模拟技术正在改变工作内容。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Engineers engaged in the design and development of mechanical products, using CA
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $3,500,000~$4,500,000 | Salary level for new graduates and early-career. |
-| Mid level (4-10 years) | $5,000,000~$7,000,000 | Manager or Chief level. |
-| Advanced (11+ years) | $7,500,000~$10,000,000 | Department manager, director, or specialized engineer. |
+| 初级(0-3年) | $3,500,000~$4,500,000 | 应届毕业生和初期从业者的薪资水平 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 经理或主管级别 |
+| 高级（11年以上） | $7,500,000~$10,000,000 | 部门经理、总监或专业工程师。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-The impact of AI and automation is progressing in parts of design (topology optimization, simulation automation, etc.), but areas requiring human judgment—such as creative mechanism design, requirements definition, and prototype evaluation—remain. Overall, AI complements work and improves job quality.
+AI和自动化在部分设计领域(拓扑优化、仿真自动化等)进展显著,但需要人类判断的领域——如创意机构设计、需求定义和原型评估——仍保留。总体而言,AI补充工作并提升工作质量。
 
-Typically start as design assistants at large companies or manufacturers, then progress to project leader or specialist (analysis/research). Career advancement through job change is also possible.
+通常从大型公司或制造商的设计助理开始，然后晋升为项目负责人或专家（分析/研究）。通过换工作也可以实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard parts selection and combination design
-- Simple drawing creation
-- Routine strength calculation
+- 标准零件选型与组合设计
+- 简单绘图创作
+- 常规强度计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Shape optimization design
-- CAE simulation
-- Automatic generation and evaluation of design proposals
+- 形状优化设计
+- CAE仿真
+- 设计方案的自动生成与评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving ability
-- Hands-on testing experience and know-how
-- Customer requirements elicitation and translation skills
+- 创造性解决问题的能力
+- 动手测试经验和专有技术
+- 客户需求挖掘和转化能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Generative AI design skills
-- Multiphysics analysis
+- 生成式AI设计技能
+- 多物理场分析
 - 项目管理
-- Communication skills
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicles
-- Energy-saving technology
-- Robots
-- 3D printing
+- 电动汽车
+- 节能技术
+- 机器人
+- 3D打印
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable to design work requiring mechanical engineering knowledge. Requires a university degree or 10+ years of practical experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | 70 points or more under the points system. Available for those with advanced skills as mechanical engineers. |
-| Subclass 特定活動（設計） (Designated Activities (Mechanical Design)) | May be individually permitted for mechanical design work at specific companies. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy manufacturing and are interested in drawing design plans
-- People who can logically think about mechanical and physical principles
-- People who can collaborate as part of a team
+- 喜欢制造业并对绘制设计图纸感兴趣的人
+- 能够逻辑思考机械和物理原理的人
+- 能够团队协作的人
 
 **谁不适合**
-- People who prefer routine work and struggle to adapt to change
-- People who cannot patiently handle detailed calculations and drawings
+- 偏好常规工作且难以适应变化的人
+- 无法耐心处理细节计算和图纸的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a mechanical engineer (development)?**
-答：Entry-level: 3.5–4.5 million yen, mid-level: 5–7 million yen, senior: 7.5–10 million yen. It can be higher at large companies or in specialized fields.
+**问：机械工程师（开发）的年薪是多少？**
+答：初级350-450万日元，中级500-700万日元，高级750-1000万日元。大型企业或专业领域薪资可能更高。
 
-**问：What visa does a foreigner need to work in this occupation in Japan?**
-答：Mainly the 'Engineer/Specialist in Humanities/International Services' residence status. Conditions: university degree or at least 10 years of professional experience. The points-based 'Highly Skilled Professional' visa is also available.
+**问：该职业的外国人在日本工作需要什么签证？**
+答：主要使用“人文/国际服务领域的工程师/专家”居留身份。条件：大学学位或至少10年专业经验。也可申请基于积分的“高度专门职”签证。
 
-**问：How can I become a mechanical engineer with no experience?**
-答：Generally, study mechanical engineering at a vocational school or university. Many start their career as design assistants after obtaining a CAD certification. Job changes emphasize practical experience.
+**问：如何零经验成为机械工程师？**
+答：通常在职业院校或大学学习机械工程。获得CAD认证后，许多人作为设计助理开始职业生涯。跳槽注重实践经验。
 
 
 ---
@@ -144,12 +137,12 @@ Typically start as design assistants at large companies or manufacturers, then p
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mechanical-engineer-development/JP)**

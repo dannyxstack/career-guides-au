@@ -4,8 +4,6 @@
 
 Professional engaged in diagnosis, treatment, and prevention of animal diseases. Handles a wide range from small animals to livestock, and involved in public health and food safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Professional engaged in diagnosis, treatment, and prevention of animal diseases.
 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI streamlines veterinarians' work through diagnostic support and image analysis, but human roles like clinical judgment and surgery remain significant.
 
 Typically runs a clinic or works at an animal hospital. Career paths include specializing (surgery, ophthalmology, etc.), research, or administrative roles.
 
@@ -121,17 +117,9 @@ Typically runs a clinic or works at an animal hospital. Career paths include spe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when a foreigner works as a veterinarian. Requires a university degree or higher. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently, veterinarians are not eligible. Future additions under discussion. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Veterinarians meeting a certain score under the point system may be eligible. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -175,12 +163,12 @@ A: After graduating from a 6-year veterinary program, you must pass the national
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/JP)**

@@ -4,8 +4,6 @@
 
 Models showcasing clothing, accessories, or products in fashion shows, photography, advertising, and art projects require good physique, expressiveness, and camera presence. The work is flexible but highly competitive.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Models showcasing clothing, accessories, or products in fashion shows, photograp
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Modeling faces mixed AI impacts: automation will reduce basic fitting and template-based shooting jobs, but digital avatars and AI creative tools create new high-premium opportunities, making personal brand and expressiveness of top models even scarcer.
-
 Career paths: part-time/emerging model → signed with an agency → senior model/exclusive brand model → transition to fashion consultant, casting director, or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -96,16 +92,9 @@ Career paths: part-time/emerging model → signed with an agency → senior mode
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | A work contract from a Spanish employer is required, but modeling is mostly self-employed or short-term projects, which is quite challenging |
-| Subclass Cuenta propia (Work Permit for Self-Employed) | Self-employment visa requires proof of business plan and financial capability, suitable for freelance models |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Build professional model cards, sign with reputable agencies, expand social m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-art-and-advertising-models/ES)**

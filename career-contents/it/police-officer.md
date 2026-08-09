@@ -52,8 +52,6 @@ Italian police maintain public order, prevent and investigate crimes, enforce la
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some administrative tasks in report writing, data analysis, and routine patrols, but core law enforcement, on-site decision-making, and community trust building require human leadership; overall job numbers remain stable but entry barriers increase.
-
 Career progression: Police Constable → Sergeant → Inspector → Senior Inspector → Commissioner. Requires passing internal exams and meeting years of service requirements.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career progression: Police Constable → Sergeant → Inspector → Senior Inspe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, but the police profession is usually not applicable as it requires Italian nationality or EU citizenship. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens can apply through annual quotas, but police occupations are usually not open to foreigners. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work as police officers in Italy, subject to language and qualification certification. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promotion from police officer to sergeant, inspector, and senior inspector re
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officer/IT)**

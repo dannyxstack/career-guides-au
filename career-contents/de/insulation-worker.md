@@ -52,8 +52,6 @@ Insulation workers install thermal, acoustic, and fireproofing materials on buil
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will significantly change insulation workers' work: repetitive tasks like measuring and cutting may be replaced by automated tools, but on-site installation, complex adaptations, and compliance checks still require humans — a mixed blessing.
-
 Starting as an insulation worker apprentice (Ausbildung), can advance to foreman (Vorarbeiter) or project manager (Bauleiter), or through further training become a building energy efficiency consultant or master craftsman (Meister).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as an insulation worker apprentice (Ausbildung), can advance to foreman
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing a job-seeking visa to come to Germany to look for work. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, relevant professional qualifications required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to foreman (Vorarbeiter), project manager (Bauleiter), or become 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-worker/DE)**

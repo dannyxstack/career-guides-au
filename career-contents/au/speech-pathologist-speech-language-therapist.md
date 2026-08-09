@@ -52,8 +52,6 @@ Speech pathologists diagnose and treat speech, language, communication, and swal
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has an overall amplifying effect on speech-language pathologists' work. While automating documentation and basic assessment tasks, it greatly enhances diagnosis, personalized treatment, and remote service capabilities, making career prospects positive.
-
 Junior clinical therapists can progress to senior therapist, team leader, clinical specialist, or move into management, education, and research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior clinical therapists can progress to senior therapist, team leader, clinic
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional Skilled Migration Provisional Visa, transitioning to 191 Permanent Residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can transition into healthcare management, academic research, early intervent
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/speech-pathologist-speech-language-therapist/AU)**

@@ -56,8 +56,6 @@ Construction engineers and site managers oversee the full lifecycle of building 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Australia's construction industry faces historic labor shortages—needing tens of thousands of construction management and engineering talents annually. BIM digital construction and green building (NABERS/Green Star certification) are becoming standard requirements for large projects, and project managers with these skills have significant competitive advantages. FIFO (fly-in fly-out) mining construction and remote infrastructure projects offer extra high-income opportunities (daily rate AUD $800~$1,500).
 
 **Tasks most exposed to AI:**
@@ -115,8 +113,6 @@ Australia's construction industry faces historic labor shortages—needing tens 
 | Subclass 491 (Skilled Work Regional) | Acute shortage of project managers for remote infrastructure and mining construction projects |
 
 **PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
@@ -179,11 +175,12 @@ A: Construction project manager salary ($120k~$165k) is higher than most civil e
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-manager-site-manager/AU)**

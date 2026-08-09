@@ -4,8 +4,6 @@
 
 Specialist who operates cranes and winches at construction sites and ports to lift and move heavy loads. Requires safety confirmation and precise operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Specialist who operates cranes and winches at construction sites and ports to li
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI and automation advance certain operations (remote control, automatic control), complete replacement is difficult due to the necessity of human judgment for on-site situation assessment and safety confirmation.
-
 Crane operator license (skill training completion) is mandatory. Advancement to large or mobile cranes is possible with experience. Paths to management or instructor roles exist.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Crane operator license (skill training completion) is mandatory. Advancement to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Target of Specified Skilled Worker (i) in construction. Requires skills test and Japanese test N4 or higher. Can be employed by construction companies. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status for technical positions. May apply to technical roles like crane operation instruction at construction companies. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: With certification for large mobile or tower cranes and accumulating experien
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-and-winch-operator/JP)**

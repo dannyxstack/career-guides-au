@@ -4,8 +4,6 @@
 
 A non-tenure-track faculty member who takes charge of lectures instead of full-time professors at universities, receiving hourly lecture fees and contracting on a semester basis.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A non-tenure-track faculty member who takes charge of lectures instead of full-t
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist with tasks such as generating lecture materials and automating assessments, but face-to-face lectures and human interaction are difficult to replace. Therefore, the overall impact is limited, and innovation in teaching methods using AI can actually be a competitive advantage.
-
 Starting with a master's degree, one accumulates teaching experience, but opportunities to transition to full-time professor are extremely rare. Even after obtaining a doctoral degree, many remain as part-time lecturers, making it difficult to see as a lifelong career.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Starting with a master's degree, one accumulates teaching experience, but opport
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-1 (Professor (E-1)) | Not applicable for part-time lecturers; target full-time professors. Mostly for Korean nationals only |
-| Subclass F-2 (Residence (F-2)) | Permanent residents or marriage immigrants can work as part-time lecturers |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: Realistically, it is very difficult. Most full-time faculty recruitment is th
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-parttime-lecturer/KR)**

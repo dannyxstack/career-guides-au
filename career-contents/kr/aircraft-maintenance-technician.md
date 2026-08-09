@@ -4,8 +4,6 @@
 
 Aircraft maintenance technicians are skilled professionals who inspect, maintain, and repair aircraft airframes, engines, and electronic/electrical systems to ensure flight safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Aircraft maintenance technicians are skilled professionals who inspect, maintain
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and automation support maintenance diagnosis, parts management, and predictive maintenance, but humans are essential for actual disassembly, assembly, and repair. Therefore, complete replacement is impossible, and AI is used as a support tool to improve work efficiency.
-
 Career progression: Junior Technician → Intermediate Technician (Type 1/2 License) → Senior Technician (Type 3+) → Team Leader/Manager or Technical Specialist at airlines/MRO companies.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career progression: Junior Technician → Intermediate Technician (Type 1/2 Lice
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled technicians in aircraft maintenance; employer must apply |
-| Subclass F-2 (Residence) | Convertible to points-based system after long-term E-7 stay; precursor to permanent residence |
-| Subclass F-5 (Permanent Residence) | Obtainable upon meeting certain conditions; advantageous for long-term settlement |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: It takes at least 5-6 years: 2-3 years of college program plus practical expe
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-technician/KR)**

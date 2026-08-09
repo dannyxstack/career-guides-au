@@ -50,8 +50,6 @@ Authors, writers, and translators create, edit, and evaluate literary works, inc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on writers, copywriters, and translators is mixed: automated translation and content generation tools have increased efficiency but also reduced demand for low-end translation and template-based writing jobs; high-creativity narrative and literary work requiring deep human insight still have a strong moat.
-
 Usually start as freelance writer, editorial assistant, or translator; with experience, can advance to senior editor, content director, or full-time writer. Some move into publishing management, literary agency, or creative director roles.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Usually start as freelance writer, editorial assistant, or translator; with expe
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Start as freelance writer or editorial assistant, can advance to senior edito
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/authors-writers-and-translators/UK)**

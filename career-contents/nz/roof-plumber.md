@@ -52,8 +52,6 @@ Roof plumbers install and maintain metal roofs, gutters, downpipes and waterproo
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofing work is a skilled physical occupation that AI/automation cannot fully replace, but it will optimize design, measurement, and material ordering to increase efficiency, while non-technical tasks like paperwork may be taken over.
-
 Junior roof plumbers can advance to tradespersons through apprenticeships, then move up to project managers or self-employed contractors. With relevant certificates and experience, there are opportunities for promotion to construction supervisor or technical consultant.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior roof plumbers can advance to tradespersons through apprenticeships, then 
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation adds 6 points; meeting salary and age requirements allows application. |
 | Subclass AEWV (Accredited Employer Work Visa) | If Green List requirements are not met, transition to residence via accredited employer work is possible |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, must complete an apprenticeship and obtain a New Zealand Certificate in 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roof-plumber/NZ)**

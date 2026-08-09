@@ -55,8 +55,6 @@ Financial analysts evaluate investment opportunities, analyse financial data, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on financial analysts is mixed: data collection, basic analysis, and report generation will be automated, but strategic advice, client relationships, and complex judgment still require humans.
-
 ESG investing (Environmental, Social, Governance) is the fastest-growing analytical field from 2025-2030, with global ESG assets expected to exceed US$50 trillion. Quantitative analysts (Quants) and AI-enhanced data-driven investment analysis are the specialisations with the highest salary premiums.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ ESG investing (Environmental, Social, Governance) is the fastest-growing analyti
 | Subclass 189 (SkillSelect Independent) | Invitation-based — VETASSESS skills assessment + EOI |
 | Subclass 190 (Skilled Nominated) | State nomination – NSW (Sydney financial hub) pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Accountants have a larger job market and a more established migration pathway
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/AU)**

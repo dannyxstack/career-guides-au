@@ -50,8 +50,6 @@ A professional who evaluates the environmental impact of development projects in
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates environmental data analysis and modeling to improve efficiency, but comprehensive judgment and legal interpretation rely on human roles, so some tasks are enhanced while others are replaced.
-
 Career path: starting as a junior assessor, progressing to project leader, evaluation team leader, and after obtaining the Certified Environmental Impact Assessor qualification, advancing to a professional consultant or environmental review committee member in public institutions.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Career path: starting as a junior assessor, progressing to project leader, evalu
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professionals, used in environmental consulting |
-| Subclass F-2 (Residence) | Points-based visa for skilled professionals |
-| Subclass F-5 (Permanent Residence) | Obtainable after long-term stay, leading to permanent residency |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: A bachelor's degree in environmental engineering, civil engineering, ecology,
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-impact-assessment-specialist/KR)**

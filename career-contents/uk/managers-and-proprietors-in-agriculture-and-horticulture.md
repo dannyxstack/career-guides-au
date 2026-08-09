@@ -53,8 +53,6 @@ Responsible for planning, organizing, and coordinating activities and resources 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can advance from farm worker or junior manager to farm manager or owner; need to accumulate management experience and agricultural technology certification, or shift to agricultural consulting or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from farm worker or junior manager to farm manager or owner; need to
 | Subclass Global Talent (Global Talent Visa) | Applies to those with outstanding achievements in sustainable agriculture or agritech; no salary requirement. |
 | Subclass Scale-up (Scale-up Worker Visa) | If the employer meets Scale-up criteria and salary exceeds 33,000 GBP, you can apply. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Eligible for Skilled Worker visa, requires employer sponsorship and salary me
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-and-proprietors-in-agriculture-and-horticulture/UK)**

@@ -1,10 +1,8 @@
-# Other Outside Office Workers 职业分析 · 日本
+# 其他户外办公室工作人员（Other Outside Office Workers）职业分析 · 日本
 
-**职业代码: 299 (JSCO)**
+**职业代码：299 (JSCO)**
 
-Clerical work involving external duties such as sales support and delivery management. Requires outdoor tasks like route sales administrative support and coordination of goods delivery.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+涉及外部职责的文书工作，如销售支持和交付管理。需要户外任务，如路线销售行政支持和货物配送协调。
 
 
 ---
@@ -13,8 +11,8 @@ Clerical work involving external duties such as sales support and delivery manag
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Not compulsory, but high school level education is needed） |
-| Junior College / Vocational School | 2 年 | $1,000,000~$2,000,000（Business-related departments advantageous） |
+| 高中文凭 | 3年 | $0~$0（非强制性，但需要高中水平教育） |
+| 专科/职业学校 | 2 年 | $1,000,000~$2,000,000（商业相关院系有优势） |
 
 ---
 
@@ -22,17 +20,17 @@ Clerical work involving external duties such as sales support and delivery manag
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bookkeeping Certification (Nissho) | Japan Chamber of Commerce and Industry | 可选 | Not mandatory but proves clerical ability |
-| Real Estate Transaction Specialist | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Favorable for real estate-related outside clerical work |
+| 簿记认证（Nissho） | 日本商工会议所 | 可选 | 非强制但证明文员能力 |
+| 房地产交易专员 | 国土交通省 | 可选 | 适合房地产相关外勤工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 250,000. Steady demand in logistics and sales support sectors facing labor shortages, but limited growth due to automation and systemization.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 250,000。物流和销售支持领域面临劳动力短缺，需求稳定，但由于自动化和系统化，增长有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,91 +38,84 @@ Clerical work involving external duties such as sales support and delivery manag
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,000,000~$4,000,000 | Annual income approx. 3–4 million JPY |
-| Mid (4–7 years) | $4,000,000~$5,000,000 | Increases with experience and skills |
-| 高级（8年+） | $5,000,000~$6,000,000 | May include management duties |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 年收入约300-400万日元 |
+| 中级（4-7年） | $4,000,000~$5,000,000 | 随经验和技能增长 |
+| 高级（8年+） | $5,000,000~$6,000,000 | 可能包含管理职责 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-Routine tasks such as data entry and schedule coordination are expected to be automated by AI and RPA, reducing workloads especially in SMEs. However, interpersonal negotiation and flexible response will remain.
+数据录入和日程协调等常规任务预计将被AI和RPA自动化，减轻中小企业工作负担。但人际谈判和灵活应对仍需保留。
 
-Career change possible from general clerical work, and step-up from sales assistant to sales role. No specialized qualifications required, but business knowledge is important.
+可从一般文职工作转行，从销售助理晋升至销售职位。无需专业资格，但商业知识重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Customer data entry and organization
-- Automatic optimization of delivery routes
-- Chatbot-based phone response
-- Automation of form creation
+- 客户数据录入和整理
+- 配送路线自动优化
+- 基于聊天机器人的电话响应
+- 表单创建自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Pre-visit analysis of customers
-- Data-driven sales proposals
-- Tablet use during field visits
+- 客户拜访前分析
+- 数据驱动的销售提案
+- 现场巡检时使用平板电脑
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible customer handling
-- Understanding of company-specific rules and practices
-- Building trust through face-to-face interaction
+- 灵活的客户处理
+- 了解公司特定规则和做法
+- 通过面对面互动建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool operation skills
+- AI工具操作技能
 - 数据分析技能
-- Negotiation and communication skills
-- Business improvement proposal skills
+- 谈判与沟通能力
+- 业务改进提案能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sales Support
-- Delivery Management
-- Field Office Clerk
-- Route Sales
+- 销售支持
+- 配送管理
+- 外勤办公室文员
+- 路线销售
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree and clerical work experience |
-| Subclass 特定活動 (Designated Activities) | Limited work for family of highly skilled foreign professionals |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can do meticulous work
-- People good with interpersonal skills
-- People who can multitask
+- 能从事细致工作的人
+- 人际交往能力强的人
+- 能同时处理多项任务的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who dislike field visits
+- 不喜欢实地考察的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for external office work?**
-答：Depending on experience and industry, around 3-4 million JPY for the first year, and around 6 million JPY for veterans.
+**问：外勤工作的年收入是多少？**
+答：根据经验和行业，第一年约300-400万日元，资深者约600万日元。
 
-**问：Can foreigners work in this role?**
-答：A Specialist in Humanities/International Services visa is required, along with a university degree or higher and Japanese language skills.
+**问：外国人能从事这个角色吗？**
+答：需要人文知识/国际业务签证，以及大学本科以上学历和日语能力。
 
 
 ---
@@ -142,12 +133,12 @@ Career change possible from general clerical work, and step-up from sales assist
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-outside-office-workers/JP)**

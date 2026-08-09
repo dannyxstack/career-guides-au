@@ -55,8 +55,6 @@ Watch and clock repairers repair, clean, and adjust mechanical structures of wat
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall risk for watch repairers is moderate to optimistic: AI/automation will replace some diagnostic and documentation work, but precision manual work and customer trust remain core moats. Entry-level roles narrow due to automation of low-end repairs, but high-end custom and complex restoration demand grows.
-
 Start as an apprentice or maintenance assistant, accumulate experience to become a senior technician, some may open their own business. Professional certifications like CW21 aid advancement.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as an apprentice or maintenance assistant, accumulate experience to become
 | Subclass O-1 (Extraordinary Ability) | Only open to a few top watchmakers, requiring proof of extraordinary ability |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Extremely difficult to obtain, as employers must prove inability to find qualified U.S. workers |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires a high school diploma followed by vocational training or a
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/watch-and-clock-repairers/US)**

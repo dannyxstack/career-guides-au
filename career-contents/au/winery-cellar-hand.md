@@ -53,8 +53,6 @@ Perform physical tasks such as cleaning, bottling, and grape processing at a win
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Cellar hands face automation risk: repetitive tasks like cleaning and labeling are easily replaced by robots, but AI can assist in monitoring fermentation and optimizing cleaning schedules to enhance quality control. Demand for pure manual roles will shrink; advancement requires data and equipment management skills.
-
 Can progress from temporary worker to senior cellarman or winemaking assistant, then move into winemaker or production management with experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from temporary worker to senior cellarman or winemaking assistant, 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Extremely difficult; this occupation is usually not on the skilled migration 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/winery-cellar-hand/AU)**

@@ -52,8 +52,6 @@ Floor layers and wall tilers are responsible for laying carpets, linoleum, compo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Many measuring and cutting tasks for floor and tile layers can be replaced by AI-assisted automated tools, but on-site fine work, material adaptation, and client communication still rely on manual labor; overall, it is a mixed state of partial replacement by AI but skill enhancement.
-
 Junior floor layers or tilers can gain experience through apprenticeships and advance to senior technician or foreman. Some become self-employed undertaking small contracts. They can also move into project management or renovation consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior floor layers or tilers can gain experience through apprenticeships and ad
 | Subclass Graduate (Graduate Visa) | UK graduates can work through this route for 2 years (3 years for PhDs) and then switch to a Skilled Worker visa after gaining experience. |
 | Subclass Global Talent (Global Talent Visa) | Not applicable, this pathway is for outstanding talents, not tradespeople |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can start as an apprentice, become a skilled tradesperson, then advance to fo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floorers-and-wall-tilers/UK)**

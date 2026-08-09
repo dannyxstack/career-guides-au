@@ -4,8 +4,6 @@
 
 Senior oral hygiene technicians are responsible for preventive oral care in dental clinics, including cleaning, fluoride application, fissure sealing, and oral health education. They work closely with dentists, supporting periodontal treatment and postoperative care, playing an important role in public health services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Senior oral hygiene technicians are responsible for preventive oral care in dent
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Preventive procedures for senior oral hygiene technicians face automation risks, but complex case handling, patient communication, and personalized care are difficult to replace; AI-assisted diagnostic tools will amplify their clinical decision-making efficiency, with an overall mixed trend.
-
 Junior oral health technicians can be promoted to senior technician, clinic supervisor, or oral health educator through accumulating clinical experience and continuing specialized courses. Some have shifted to dental therapist or oral hygiene management positions through continuing education and further education.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Junior oral health technicians can be promoted to senior technician, clinic supe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree or 5 years experience, salary threshold about 33,908 EUR (2023), needs employment contract. |
-| Subclass Cuenta ajena (Work Contract Visa) | Regular employment residence requires employer sponsorship and proof that the position cannot be filled in the EU, resulting in a longer approval process. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, education or experience is required, with an annual salary threshold of about 40,000 euros, and a faster process. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: The minimum requirement is a 2-year Advanced Vocational Training (FP Grado Su
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-dental-hygiene-technician/ES)**

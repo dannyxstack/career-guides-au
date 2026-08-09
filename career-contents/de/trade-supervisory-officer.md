@@ -53,8 +53,6 @@ Business inspectors check enterprises' compliance with labor protection, environ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-driven compliance document review and data analysis tools will significantly reduce basic desk work for business supervisors; entry-level demand will shrink noticeably, but on-site inspections and discretionary power still offer room for survival.
-
 Career progression can go from junior inspector to senior supervisor, department head, and even state-level regulatory leadership roles, typically requiring civil service promotion exams.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression can go from junior inspector to senior supervisor, department
 | Subclass Skilled Worker (Skilled Employment Visa) | Must obtain a recognized German trade supervisor qualification and employer sponsorship. |
 | Subclass Recognition of Quali (Qualification Recognition) | Foreign qualifications must be assessed, and may require bridging courses or qualification exams. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires prior recognition of vocational qualifications in Germany 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trade-supervisory-officer/DE)**

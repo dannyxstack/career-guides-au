@@ -53,8 +53,6 @@ Coordinate and supervise the activities of workers in the mechanical industry to
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mechanical industry contractors and supervisors face mixed prospects: routine monitoring, scheduling, and document processing are easily automated by AI, but responsibilities involving complex judgment, interpersonal negotiation, and on-site safety remain core human strengths.
-
 Can advance to project manager or company partner, or enter engineering management through further education, or start own repair shop.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance to project manager or company partner, or enter engineering manageme
 | Subclass PNP (Provincial Nominee Program) | Several provinces list trade supervisors as in-demand, enabling fast immigration via provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, but must prove unable to find local workers. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Overseas experience can be assessed through provincial apprenticeship authori
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-mechanic-trades/CA)**

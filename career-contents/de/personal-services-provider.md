@@ -53,8 +53,6 @@ Personal service occupations cover hairdressing, beauty, makeup, styling, etc., 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In personal service occupations, repetitive beauty procedures (e.g., basic haircuts, regular makeup) are easily replaced by AI automation, compressing low-end roles; but high-end custom and creative services are hard to replace by AI.
-
 Career progression includes becoming store supervisor, opening your own studio, or transitioning to trainer/product consultant. Some practitioners pursue further qualifications to expand service scope.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression includes becoming store supervisor, opening your own studio, 
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires education and professional qualification certification, but personal service occupations are not typical high-skilled positions. |
 | Subclass Chancenkarte (Opportunity Card) | May obtain residency through a points system, but requires an employer contract or training certificate |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can further advance to become a master craftsman, open your own salon, or tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-services-provider/DE)**

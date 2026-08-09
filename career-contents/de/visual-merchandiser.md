@@ -52,8 +52,6 @@ Visual merchandisers design retail spaces, window displays, and in-store layouts
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Visual merchandisers will be significantly enhanced by AI, not fully replaced. Creativity and spatial awareness are core moats, but execution tasks like rendering, layout optimization, and data analysis will be heavily automated. Entry-level positions may face increased competition due to AI tools.
-
 Career path: Visual Merchandising Assistant → Visual Merchandiser → Senior Visual Merchandiser/Regional Visual Manager → Visual Merchandising Director. Can also move into retail management, brand management, or creative director roles. Clearer progression in large retail groups or luxury companies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Visual Merchandising Assistant → Visual Merchandiser → Senior V
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable for dual-system training or university degrees; requires a job contract from a German employer. This occupation can immigrate through this path. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, launched in 2024. Suitable for qualified visual merchandisers seeking work in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to regional visual manager or retail display director, or move in
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-merchandiser/DE)**

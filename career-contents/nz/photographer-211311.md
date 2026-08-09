@@ -51,8 +51,6 @@ Photographers use professional cameras and lighting equipment to capture people,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
-
 Junior photographers often start as assistants or freelancers; after building a portfolio, they can advance to senior photographers or open a studio. Some move into film, TV, or digital media, or supplement income with retouching and video shooting.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior photographers often start as assistants or freelancers; after building a 
 
 **PR friendliness: low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Highly competitive, especially in wedding and portrait photography. It is rec
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer-211311/NZ)**

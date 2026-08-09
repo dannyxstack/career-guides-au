@@ -53,8 +53,6 @@ Conduct academic research or systematic investigations for new product/service d
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Other researchers face mixed AI impact: routine literature reviews, data collation, and preliminary analysis are easily replaced by AI, but complex research design, interdisciplinary insights, and ethical judgment remain human-dependent, with roles shifting toward higher value.
-
 Common path: research assistant → researcher (postdoc) → senior researcher → principal investigator (PI) or transitioning to industrial R&D management. Some enter policy consulting or technology transfer fields.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Common path: research assistant → researcher (postdoc) → senior researcher �
 | Subclass Graduate (Graduate visa) | UK graduates can work in the UK for 2 years (3 years for PhD) without employer sponsorship, can gain experience then switch to work visa |
 | Subclass Scale-up (Scale-up visa) | Suitable for researchers in fast-growing companies requiring employer sponsorship, with higher flexibility after the first 6 months |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Some research assistant positions accept a master's degree, but independent r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-researchers-unspecified-discipline/UK)**

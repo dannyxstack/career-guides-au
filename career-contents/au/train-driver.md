@@ -56,8 +56,6 @@ Train drivers operate freight and passenger rail locomotives across heavy-haul m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Train drivers face mixed impacts from AI/automation: train control systems and autonomous driving technologies will replace some operational tasks, but safety responsibilities, complex route handling, and industry regulatory requirements still provide a moat for humans; mining and freight routes have strong demand, and entry-level positions may temporarily shrink then stabilize.
-
 Heavy-haul mining railways (Rio Tinto, BHP, FMG, etc.) offer the highest salaries, with annual packages reaching $150k–$200k+. Urban passenger rail provides a stable government employment pathway.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Heavy-haul mining railways (Rio Tinto, BHP, FMG, etc.) offer the highest salarie
 | Subclass 190 (Skilled Nominated) | Nominated by some states; WA has considerable demand driven by the mining sector |
 | Subclass 491 (Skilled Work Regional) | Remote mining and rail regions; state nomination +15 points. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Mining railway driver salaries are significantly higher than truck driver sal
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-driver/AU)**

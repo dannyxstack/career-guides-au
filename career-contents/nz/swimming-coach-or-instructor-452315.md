@@ -55,8 +55,6 @@ Swim coaches or instructors fall under the Education and Community category in t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
-
 Junior coaches can accumulate teaching hours under guidance, obtain higher coaching qualifications (e.g. Swim Coach 3) to advance to senior coach or supervisor, some move into club management or start their own business. Clear path but requires ongoing study.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior coaches can accumulate teaching hours under guidance, obtain higher coach
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must obtain Swimming NZ swim teacher certification and a children's work safe
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/swimming-coach-or-instructor-452315/NZ)**

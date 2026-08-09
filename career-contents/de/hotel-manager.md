@@ -54,8 +54,6 @@ Hotel business professionals manage hotel operations, including reservations, re
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Many tasks of hotel managers will be optimized by AI, but core management responsibilities like interpersonal coordination and crisis handling remain stable – mixed risk level.
-
 You can start as a front desk supervisor or sales assistant, and advance to department manager, hotel manager, or even regional director. After dual-system training, management positions can be obtained through further education (e.g., B.A.).
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ You can start as a front desk supervisor or sales assistant, and advance to depa
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, suitable for those with hotel management experience or dual-system qualifications, allowing entry for job seeking. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paying positions (2025 threshold around 43,800 euros); hotel managers typically meet this. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Starting as an assistant or department head, can advance to hotel manager, re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-manager/DE)**

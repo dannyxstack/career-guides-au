@@ -4,8 +4,6 @@
 
 In Italy, mechanical assemblers are responsible for assembling, debugging, and maintaining various mechanical equipment, widely used in manufacturing, automated production lines, and heavy machinery sectors. This occupation requires high technical proficiency and typically vocational training or apprenticeship experience.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ In Italy, mechanical assemblers are responsible for assembling, debugging, and m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The task composition of mechanical assemblers is polarized: repetitive assembly and quality inspection steps are easily automated, but complex debugging, on-site fault diagnosis, and non-standard assembly are enhanced by AI due to reliance on physical perception and adaptability.
-
 Can progress from junior assembler to senior technician or team leader, or through further study become an automation systems integration specialist or quality control engineer. Some may move into mechanical design or technical sales roles.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can progress from junior assembler to senior technician or team leader, or throu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quotas, requiring employer sponsorship; mechanical assemblers are among the eligible skilled trades. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to those with higher education and meeting salary requirements; mechanical assemblers usually do not meet education requirements unless they have an engineering degree. |
-| Subclass Autonomous Work Visa (Self-Employment Visa) | If providing assembly services as a freelancer, you need to demonstrate financial capacity and a business plan |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can progress from junior assembler to senior technician, team leader, or prod
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-machinery-assembler/IT)**

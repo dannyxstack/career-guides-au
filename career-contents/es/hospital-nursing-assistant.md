@@ -4,8 +4,6 @@
 
 Hospital nursing assistants, under the guidance of doctors and registered nurses, provide basic care and daily living assistance to inpatients, such as turning over, feeding, cleaning, and monitoring vital signs.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Hospital nursing assistants, under the guidance of doctors and registered nurses
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
-
-The impact of AI automation on hospital nursing assistants is mixed: repetitive tasks are taken over, but emotional support and complex nursing decisions still depend on humans; the overall number of positions may stabilize, but responsibilities will be reshaped.
 
 After gaining experience, you can be promoted to Senior Nursing Assistant or move into the specialist nursing field. Some become registered nurses through further study with FP Grado Superior, or enter nursing management positions.
 
@@ -100,15 +96,9 @@ After gaining experience, you can be promoted to Senior Nursing Assistant or mov
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, occupations are usually not on the high-skilled shortage list, and immigration thresholds are high. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: You must complete a 2-year FP Grado Medio nursing assistant program and obtai
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospital-nursing-assistant/ES)**

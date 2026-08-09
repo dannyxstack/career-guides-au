@@ -4,8 +4,6 @@
 
 A barber is a professional who grooms customers' appearance through haircuts, shaving, and hair care. A national license is required, and technical and customer service skills are needed.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A barber is a professional who grooms customers' appearance through haircuts, sh
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are unlikely to directly replace barbers' work, but efficiency will improve through AI style suggestions, appointment management, inventory management, etc. The essence of the craft is human manual skill and customer service; AI remains complementary.
-
 Starting as an apprentice, after obtaining a license, independent practice or managing a chain store is common. Advanced technical skills and business knowledge are advantageous for career advancement.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Starting as an apprentice, after obtaining a license, independent practice or ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Foreign barbers usually cannot work in Japan. Exceptionally, advanced skills or management are required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Barber is excluded. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: After obtaining a national license, gain practical experience, learn manageme
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/barber/JP)**

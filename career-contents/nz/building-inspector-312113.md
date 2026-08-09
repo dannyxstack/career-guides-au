@@ -51,8 +51,6 @@ Building inspectors examine construction sites, residential and commercial build
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 Junior inspectors can advance to senior or chief inspector by gaining experience and obtaining the Licensed Building Practitioner (LBP) qualification in New Zealand. They can also move into project management, building compliance management, building dispute resolution, or start their own inspection company.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior inspectors can advance to senior or chief inspector by gaining experience
 | Subclass SMC (Skilled Migrant Category) | To apply for residency, meet the 6-point scoring requirement (education + work experience) and achieve the minimum salary threshold. |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residency conditions are not met, work through approved employer sponsorship, then accumulate experience for residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, must hold a New Zealand building practitioner qualification (LBP) as a b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-inspector-312113/NZ)**

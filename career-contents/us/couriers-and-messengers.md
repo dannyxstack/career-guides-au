@@ -54,8 +54,6 @@ Responsible for delivering letters, documents, parcels, and other items by walki
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Typically starts as an entry-level courier, can advance to dispatcher, delivery supervisor, or operations manager, and can also transition to related roles such as logistics coordinator or warehouse manager.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically starts as an entry-level courier, can advance to dispatcher, delivery 
 | Subclass TN (TN Status (USMCA)) | Only for specific occupations in US, Mexico, Canada; delivery drivers are not on the list. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Must prove no US workers are available; courier market has ample labor, making certification difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually only requires a high school diploma or equivalent; employers provide 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/couriers-and-messengers/US)**

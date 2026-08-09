@@ -53,8 +53,6 @@ Responsible for assisting in the operation of chemical product processing equipm
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automation brings mixed prospects for chemical processing workers: repetitive physical tasks are reduced, but AI-enhanced monitoring and optimization skills require a shift to high-value maintenance roles.
-
 Limited career progression; can advance to roles like skilled operator, production supervisor, or quality control through on-the-job training or short courses.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Limited career progression; can advance to roles like skilled operator, producti
 | Subclass PNP (Provincial Nominee Program) | Some provinces may include such workers in provincial nomination programs, requiring employer sponsorship |
 | Subclass Express Entry (Express Entry (Federal Skilled Worker)) | Usually does not meet requirements as it is a low-skilled occupation, unless you have Canadian work experience |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires only a high school diploma; some positions offer short-term 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-chemical-products-processing-and-utilities/CA)**

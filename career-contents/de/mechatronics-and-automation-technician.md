@@ -51,8 +51,6 @@ Responsible for designing, installing, maintaining, and optimizing mechatronic s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation and AI can both replace some routine debugging and troubleshooting tasks and significantly enhance system diagnostics, predictive maintenance, and design optimization. Entry-level positions may be reduced, but high-skilled roles will increase in value.
-
 Can advance from technician to automation engineer, project supervisor, or become a mechatronics master (Meister) through further training (e.g., technician advanced course). With experience, can also move into R&D or self-employment.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from technician to automation engineer, project supervisor, or becom
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires German-recognized professional qualification; may work in related occupations. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows those who have not yet found a job but meet the criteria to enter the country to seek employment. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. Can advance to automation engineer, project supervisor, or through furth
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechatronics-and-automation-technician/DE)**

@@ -52,8 +52,6 @@ Install, set up, rearrange, or remove switching, distribution, routing, and dial
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
-
 Starting from junior positions like installation assistant, progressing to senior technician or team leader. With industry certifications (e.g., fiber optics, wireless), can move to network engineer or system designer. Some move into management roles for project coordination or regional operations.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting from junior positions like installation assistant, progressing to senio
 | Subclass EB-3 (Employment-Based Third Preference) | Green card category requiring PERM labor certification; applies to technician positions; long waiting period. |
 | Subclass TN (NAFTA Professional Worker) | Limited to Canadian and Mexican citizens, requires relevant occupation category; telecommunications technician may be included. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: EB-3 green card requires PERM to prove no qualified U.S. workers are availabl
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-installers-and-repairers-except-line-installers/US)**

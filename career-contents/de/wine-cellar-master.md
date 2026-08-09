@@ -52,8 +52,6 @@ A wine cellar master is responsible for wine production, aging, storage, and bot
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of a winemaker is mixed: AI can take over temperature monitoring and inventory management, but tasks relying on human senses and experience, such as tasting and winemaking decisions, are hard to replace. Proactive learning of data analysis and automation tools is needed to stay competitive.
-
 Career progression: from assistant wine cellar master to senior wine cellar master, further advancement to cellar supervisor or winemaker, or transition to wine marketing, consulting, or education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression: from assistant wine cellar master to senior wine cellar mast
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to applicants with recognized German professional qualifications, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Jobseeker visa based on a points system, allowing job search in Germany |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Employment is stable, with promotion opportunities including cellar superviso
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wine-cellar-master/DE)**

@@ -51,8 +51,6 @@ Responsible for organizing and coordinating cargo transportation, optimizing rou
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core tasks of freight forwarders—route optimization, document processing, and customer communication—will be significantly enhanced by AI, but physical coordination and exception handling will still rely on humans; Entry-level positions (such as operational assistants) are intensifying competition due to the widespread adoption of automation tools, while demand for senior positions is growing.
-
 You can be promoted from entry-level transportation agency positions to team leader or logistics manager, or move to senior roles such as supply chain management or international transportation coordination.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from entry-level transportation agency positions to team lea
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents; those with a master's degree or many years of experience can obtain a 4-year residence permit |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least 1 year, salary not lower than SMIC |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable for higher education + high-salary positions, annual salary must reach about €53,000 (2024 standard). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You can apply for Salarié work residency (employer sponsorship) or Passeport
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-transport-forwarding/FR)**

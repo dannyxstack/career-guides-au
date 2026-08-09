@@ -53,8 +53,6 @@ Responsible for managing the daily operations of a real estate agency, formulati
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Can progress from real estate sales representative to team leader, then to branch manager or regional director, and eventually to company head. Can also advance by obtaining higher-level real estate licenses (e.g., licensed agent).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from real estate sales representative to team leader, then to branc
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, using a 6-point system (qualifications + work experience + income, etc.), eligible for residency. This occupation usually requires ANZSCO Level 1 skill level. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable to applicants with a job offer; can apply for residence after meeting conditions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must hold a New Zealand Real Estate Salesperson Licence and complete relevant
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agency-principal-real-estate-agency-licensee/NZ)**

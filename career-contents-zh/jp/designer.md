@@ -1,10 +1,8 @@
 # 设计师（Designer）职业分析 · 日本
 
-**职业代码: 224 (JSCO)**
+**职业代码：224 (JSCO)**
 
-Visual design professional across advertising, web, graphics, products, etc. Creativity and technical skill to realize client needs are required.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+跨广告、网页、图形、产品等的视觉设计专业人士。需要创造力和技术技能来实现客户需求。
 
 
 ---
@@ -13,8 +11,8 @@ Visual design professional across advertising, web, graphics, products, etc. Cre
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Design Dept.) | 2 年 | $2,000,000~$4,000,000（Varies by public/private） |
-| University (Art/Design) | 4年 | $4,000,000~$8,000,000（Varies by national/private） |
+| 职业学校（设计系） | 2 年 | $2,000,000~$4,000,000（因公立/私立而异） |
+| 大学（艺术/设计） | 4年 | $4,000,000~$8,000,000（因国家/私人而异） |
 
 ---
 
@@ -22,17 +20,17 @@ Visual design professional across advertising, web, graphics, products, etc. Cre
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Color Certification | Color Certification Association | 可选 | Not required but valued |
-| CG Creator Certification | CG-ARTS Association | 可选 | Not required but valued |
+| 色彩认证 | 色彩认证协会 | 可选 | 非必需但受重视 |
+| CG创作者认证 | CG-ARTS协会 | 可选 | 非必需但受重视 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 280,000. Demand remains stable with digital expansion, but AI tools may change job roles. Web/UI design is particularly in high demand.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 280,000。需求随数字化扩展保持稳定，但AI工具可能改变工作角色。Web/UI设计需求尤其旺盛。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ Visual design professional across advertising, web, graphics, products, etc. Cre
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | At small to mid-sized companies |
-| Mid-level (4–9 years) | $4,500,000~$6,000,000 | At large companies or agencies |
-| 资深（10年以上） | $6,000,000~$10,000,000 | As art director or successful freelancer |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 中小型公司 |
+| 中级（4-9年） | $4,500,000~$6,000,000 | 在大型公司或机构 |
+| 资深（10年以上） | $6,000,000~$10,000,000 | 作为艺术总监或成功的自由职业者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI tools (e.g., Adobe Firefly, Midjourney) have streamlined image generation and layout creation. However, human involvement remains essential for strategic thinking and designs that capture client intent, making full replacement difficult.
+AI工具（如Adobe Firefly、Midjourney）简化了图像生成和布局创建。然而，人类在战略思维和捕捉客户意图的设计中仍然必不可少，完全替代很困难。
 
-Start as an assistant with no experience, advance to lead designer or art director. Freelancing is also common.
+从无经验的助理开始，晋升为首席设计师或艺术总监。自由职业也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Mass production of banner ads
-- Creating simple logo proposals
-- Template-based document creation
+- 横幅广告的大规模制作
+- 制作简单标志设计
+- 基于模板的文档创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Visualizing ideas and rapid prototyping
-- Automatic color variation generation
-- Data-driven design proposals
+- 可视化构思与快速原型制作
+- 自动颜色变化生成
+- 数据驱动设计提案
 
-**人类护城河:**
+**人类护城河：**
 
-- Client dialogue and intent understanding
-- Overall brand strategy planning
-- Original concept creation
+- 客户对话与意图理解
+- 整体品牌策略规划
+- 原创概念创作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool operation skills
-- UX research and data analysis
+- AI工具操作技能
+- 用户体验研究与数据分析
 - 项目管理
-- Presentation skills
+- 演示技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Web design
-- UI/UX design
-- Graphic Design
-- Product Design
+- 网页设计
+- UI/UX设计
+- 平面设计
+- 产品设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Covers design work. Requires vocational school or higher. |
-| Subclass 特定活動 (Designated Activities (e.g., Working Holiday)) | Work is possible for a fixed period. Not suitable for long-term employment. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong curiosity and problem-solving skills for design.
-- People who value self-expression while collaborating in a team.
-- People who actively engage with new tools and technologies.
+- 对设计有强烈好奇心且善于解决问题的人。
+- 重视团队合作中的自我表达的人。
+- 积极接触新工具和技术的人。
 
 **谁不适合**
-- People who prefer routine work and dislike change.
-- People who cannot tolerate detailed revisions or client demands.
+- 喜欢例行工作且不喜欢变化的人。
+- 无法忍受细致修改或客户要求的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for someone with no experience?**
-答：Starting salary for graduates of vocational schools with no experience is around 3 million yen per year. It increases with experience and results.
+**问：无经验者年薪多少？**
+答：职业院校无经验毕业生起薪约每年300万日元，随经验和业绩增长。
 
-**问：What visa do foreigners need to work as a designer in Japan?**
-答：The Engineer/Specialist in Humanities/International Services visa applies. Requires a vocational school degree or higher and design-related work experience.
+**问：外国人在日本担任设计师需要什么签证？**
+答：适用人文/国际服务工程师/专家签证，需职业学校以上学历和设计相关工作经验。
 
-**问：How to become a freelancer?**
-答：First, gain experience at a company, build a portfolio and network. Then, it is common to go independent and take on client work.
+**问：如何成为自由职业者？**
+答：首先，在公司积累经验，建立作品集和人际网络。然后，通常独立出来承接客户工作。
 
 
 ---
@@ -144,12 +135,12 @@ Start as an assistant with no experience, advance to lead designer or art direct
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/designer/JP)**

@@ -52,8 +52,6 @@ Forestry technicians in the Netherlands manage forest management, afforestation,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Forestry technician faces medium risk from AI automation: data collection and analysis tasks are replaced, but on-site decisions and complex ecological assessments still rely on humans. Entry-level roles are narrowing due to higher GIS skills requirements, but AI tools can boost efficiency and create new opportunities.
-
 Junior technicians can advance to senior technicians, forest managers, or ecological consultants. With experience, they can transition to policy-making or research roles, requiring continuous learning of GIS and forest certification knowledge.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians can advance to senior technicians, forest managers, or ecolog
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Must sign with an approved employer; salary threshold approx €5,008/month (30+) or €3,672/month (under 30) |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education; annual salary threshold approximately €5,900/month, suitable for senior technicians |
-| Subclass Orientation Year (Orientation Year) | Non-EU students graduating in the Netherlands can apply for one year of free job-seeking without salary threshold |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually requires an MBO (secondary vocational education) or HBO (university o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-technician/NL)**

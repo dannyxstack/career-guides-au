@@ -53,8 +53,6 @@ Contact overdue clients via email, phone, or in-person visits to collect debts, 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Credit officers' routine data entry and preliminary assessment tasks are easily automated by AI, but complex decision-making, client communication, and risk judgment still require humans; the role has a mixed impact overall.
-
 Can advance from junior collector to senior collector, team supervisor, or credit manager; some move into customer service, account management, or financial analysis.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior collector to senior collector, team supervisor, or credi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Yes, can progress from junior collector to senior collector, team supervisor,
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bill-and-account-collectors/US)**

@@ -53,8 +53,6 @@ Apply makeup for stage, film, or television performers to reflect the era, envir
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI’s impact on theatre and performance makeup artists is mixed: automation tools can handle basic tasks, but creativity, communication, and manual skills remain essential.
-
 Start as an apprentice or assistant, gain experience, and advance to lead makeup artist or special effects makeup artist; some may move into Hollywood film production or high-end stage theater.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an apprentice or assistant, gain experience, and advance to lead makeup
 | Subclass O-1 (Extraordinary Ability Visa) | Applies to makeup artists with outstanding achievements in the field, requiring proof of awards or well-known works. |
 | Subclass H-1B (Specialty Occupation Visa) | Usually not applicable, as makeup artists typically do not meet professional occupation requirements, but large production companies may sponsor. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Immigration pathways are limited, typically requiring O-1 extraordinary abili
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/makeup-artists-theatrical-and-performance/US)**

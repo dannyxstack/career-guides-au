@@ -52,8 +52,6 @@ Using film, video, computers, or other electronic tools and media to create spec
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Animators/game designers face mixed prospects: AI can efficiently generate drafts, basic animations, and procedural content, but creative decision-making, artistic style control, and complex narrative design remain human moats; industry entry barriers will slightly rise due to automation.
-
 Junior animators/VFX artists can advance to senior artists, art directors, or VFX supervisors. After accumulating project experience, they can also move into creative management roles in film, TV, gaming, or advertising.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior animators/VFX artists can advance to senior artists, art directors, or VF
 | Subclass EB-2 (EB-2 Employment-Based Immigration) | Master's degree or higher or exceptional ability, requires PERM labor certification and priority date. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Green card pathway based on a job offer, requiring proof that no qualified US workers are available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Junior Animator → Senior Animator → VFX Supervisor or Art Director. Alter
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-effects-artists-and-animators/US)**

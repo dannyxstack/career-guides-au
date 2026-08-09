@@ -53,8 +53,6 @@ Responsible for booking and confirming services for transportation or accommodat
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Booking and transport ticket agents and travel clerks face significant compression from automation (e.g., self-service ticketing machines, online booking platforms), with routine ticket sales and booking confirmation tasks gradually replaced, expected job decline.
-
 Can advance from junior ticket agent to senior agent or supervisor; some move to travel consultant or customer service management, but overall promotion space is limited.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from junior ticket agent to senior agent or supervisor; some move to
 | Subclass H-1B (H-1B Specialty Occupation) | usually does not meet professional occupation requirements, rarely granted |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Employer sponsorship is difficult as the occupation is not professional |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Very difficult. This occupation is not a professional occupation; H-1B visas 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reservation-and-transportation-ticket-agents-and-travel-clerks/US)**

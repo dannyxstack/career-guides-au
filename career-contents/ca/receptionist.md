@@ -54,8 +54,6 @@ Greet visitors, answer phones, schedule appointments, and provide basic administ
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Front desk roles are at high risk due to AI phone systems, self-check-in, and virtual assistants, with core tasks significantly reduced.
-
 Front desk can advance to administrative assistant, office manager, or customer service supervisor. With experience, can move to higher administrative roles or specific industries like medical front desk. Typically requires additional training or certification to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Front desk can advance to administrative assistant, office manager, or customer 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Usually high school graduation is sufficient, but holding an administrative c
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist/CA)**

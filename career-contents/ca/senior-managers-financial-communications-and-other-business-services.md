@@ -52,8 +52,6 @@ This occupation covers CEOs or managing directors responsible for organizational
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Senior management positions face mixed impacts from AI: core duties like strategic decision-making and interpersonal coordination are hard to replace, but data analysis and routine reporting tasks may be automated, and competition for entry-level positions intensifies.
-
 Promotion path typically progresses from department manager to vice president, then to CEO. With accumulated experience, can transition to board advisor or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Promotion path typically progresses from department manager to vice president, t
 | Subclass PNP (Provincial Nominee Program) | Provincial programs for senior management talent, such as Ontario's OINP Human Capital. |
 | Subclass ICT (Intra-Company Transfer) | Intra-company transfers; executives can obtain an LMIA-exempt work visa to transition to permanent residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: can apply via Express Entry's FSW or PNP, requiring proof of management exper
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-managers-financial-communications-and-other-business-services/CA)**

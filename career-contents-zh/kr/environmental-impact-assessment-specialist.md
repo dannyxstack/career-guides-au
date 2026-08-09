@@ -1,8 +1,8 @@
-# Environmental Impact Assessment Specialist 职业分析 · 韩国
+# 环境影响评估专家（Environmental Impact Assessment Specialist）职业分析 · 韩国
 
-**职业代码: 15534 (KECO)**
+**职业代码：15534 (KECO)**
 
-A professional who evaluates the environmental impact of development projects in advance and establishes mitigation measures to promote environmental conservation and sustainable development.
+专业评估开发项目对环境的潜在影响，并制定缓解措施以促进环境保护和可持续发展的专业人士。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who evaluates the environmental impact of development projects in
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree in environmental engineering or a related field | 4年 | $8,000,000~$12,000,000（Based on national universities; private universities are more expensive） |
-| Certified Environmental Impact Assessor qualification | 1年 | $2,000,000~$3,000,000（Including tuition fees and exam fees） |
+| 环境工程或相关领域学士学位 | 4年 | $8,000,000~$12,000,000（基于国立大学；私立大学费用更高） |
+| 认证环境影响评估师资格 | 1年 | $2,000,000~$3,000,000（含学费和考试费） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who evaluates the environmental impact of development projects in
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Environmental Impact Assessor | Korea Environmental Impact Assessment Association | 可选 | Not mandatory, but advantageous for employment and promotion |
-| Civil and Environmental Engineer | Human Resources Development Service of Korea | 可选 | Related field engineer certification |
-| Natural Ecological Restoration Engineer | Human Resources Development Service of Korea | 可选 | Helpful in ecological field assessments |
+| 注册环境影响评价师 | 韩国环境影响评估协会 | 可选 | 非强制，但对就业和晋升有利 |
+| 土木与环境工程师 | 韩国人力资源开发服务局 | 可选 | 相关领域工程师认证 |
+| 自然生态恢复工程师 | 韩国人力资源开发服务局 | 可选 | 有助于生态实地评估 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,500. Demand is expected to steadily increase due to climate change response and stricter environmental regulations, with job opportunities expanding especially in the renewable energy and carbon neutrality sectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,500。由于气候变化应对和更严格的环境法规，需求预计将稳步增长，特别是在可再生能源和碳中和领域就业机会将扩大。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional who evaluates the environmental impact of development projects in
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $35,000,000~$45,000,000 | Based on SMEs; larger companies pay more |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Lead assessor level |
-| 资深（10年以上） | $75,000,000~$99,999,999 | Team manager level or above |
+| 初级 (0-3年) | $35,000,000~$45,000,000 | 基于中小企业；大公司薪资更高 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 首席评估员级别 |
+| 资深（10年以上） | $75,000,000~$99,999,999 | 团队经理及以上级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates environmental data analysis and modeling to improve efficiency, but comprehensive judgment and legal interpretation rely on human roles, so some tasks are enhanced while others are replaced.
+AI自动化环境数据分析和建模以提高效率，但综合判断和法律解释依赖人类角色，因此部分任务得到强化，部分被取代。
 
-Career path: starting as a junior assessor, progressing to project leader, evaluation team leader, and after obtaining the Certified Environmental Impact Assessor qualification, advancing to a professional consultant or environmental review committee member in public institutions.
+职业路径：从初级评估员开始，晋升为项目负责人、评估团队负责人，获得注册环境影响评估师资格后，晋升为专业顾问或公共机构的环境审查委员会成员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic environmental data collection and organization
-- Drafting standard report outlines
-- Simple impact prediction modeling
+- 基础环境数据收集与整理
+- 起草标准报告大纲
+- 简单影响预测建模
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Environmental impact simulation
-- Automatic review of regulatory compliance
-- Proposing impact mitigation measures
+- 环境影响模拟
+- 法规合规自动审查
+- 提出影响缓解措施
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal and institutional interpretation and judgment
-- Stakeholder coordination and negotiation
-- Field surveys and ecological expertise
+- 法律和制度解释与判断
+- 利益相关者协调与谈判
+- 现场调查和生态专业知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/machine learning-based environmental modeling
-- GIS analysis
-- Big data processing
+- 基于AI/机器学习的环境建模
+- GIS分析
+- 大数据处理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Carbon neutrality
-- Renewable energy
-- Environmental impact assessment
-- ESG management
+- 碳中和
+- 可再生能源
+- 环境影响评估
+- ESG管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professionals, used in environmental consulting |
-| Subclass F-2 (Residence) | Points-based visa for skilled professionals |
-| Subclass F-5 (Permanent Residence) | Obtainable after long-term stay, leading to permanent residency |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in environmental conservation and regulatory analysis
-- People with excellent logical thinking and document writing skills
-- People who can systematically manage long-term projects
+- 对环境保护和法规分析有浓厚兴趣的人
+- 逻辑思维和文档写作能力优秀的人
+- 能系统管理长期项目的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who avoid outdoor field surveys or business trips
+- 偏好简单重复任务的人
+- 避免户外实地勘测或出差的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary at the Environmental Impact Assessment Agency?**
-答：Approximately 35-45 million KRW for entry-level, and over 75 million KRW for 10+ years of experience.
+**问：环境影响评估机构的年薪是多少？**
+答：入门级约3500-4500万韩元，10年以上经验超过7500万韩元。
 
-**问：Can a foreigner get a job at the Environmental Impact Assessment Agency?**
-答：Can work with E-7 visa, but Korean language ability and relevant degree and experience are required.
+**问：外国人能在环境影响评估机构找到工作吗？**
+答：可使用E-7签证工作，但需具备韩语能力及相关学位和经验。
 
 **问：从事该工作需要什么教育背景？**
-答：A bachelor's degree in environmental engineering, civil engineering, ecology, or related fields is common; a master's or higher is advantageous.
+答：通常拥有环境工程、土木工程、生态学或相关领域的学士学位；硕士及以上学历更有利。
 
 
 ---
@@ -142,12 +135,12 @@ Career path: starting as a junior assessor, progressing to project leader, evalu
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/environmental-impact-assessment-specialist/KR)**

@@ -53,8 +53,6 @@ Responsible for delivering letters and small parcels on foot or by vehicle, or h
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Messengers, couriers and baggage handlers have stable jobs due to logistics and e-commerce demand, but automated delivery technologies (e.g., drones, autonomous vehicles) are gradually replacing some delivery tasks, while digital tools (route optimization, automated sorting) boost efficiency, lowering entry barriers but upgrading skill requirements—a mixed outlook.
-
 Junior couriers can advance to team supervisor or dispatcher; some transition to professional logistics drivers or warehouse management. With experience, can obtain a truck license for freight transport.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior couriers can advance to team supervisor or dispatcher; some transition to
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted to dispatcher or warehouse supervisor, or become a profession
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/messenger-package-deliverer-and-luggage-porter/IE)**

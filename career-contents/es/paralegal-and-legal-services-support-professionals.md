@@ -51,8 +51,6 @@ Paralegals and judicial support professionals mainly assist lawyers in case rese
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
-
 Starting as a junior assistant, you can gain experience and be promoted to senior legal assistant or legal office manager. Some pursue lawyer qualifications through continuing education or shift to compliance, corporate legal affairs, and other fields. Professional certifications (such as FP Grado Superior) help with career development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as a junior assistant, you can gain experience and be promoted to senio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals employed by Spanish companies, who must meet educational and work experience requirements. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires the employer to provide a work contract and prove that the position cannot be filled by a local resident. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to university graduates or equivalent skill level; annual salary must meet a certain threshold (about €34,000). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, you can. Many paralegal assistants pursue law degrees (Grado en Derecho)
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paralegal-and-legal-services-support-professionals/ES)**

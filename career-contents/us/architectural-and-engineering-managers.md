@@ -51,8 +51,6 @@ Construction and engineering managers plan, direct, and coordinate activities in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
-
 Promotion path typically starts from engineer or architect, then moves to project manager after gaining project management experience. Some can advance to VP of Engineering or CTO.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Promotion path typically starts from engineer or architect, then moves to projec
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degrees, requires PERM labor certification |
 | Subclass O-1 (Extraordinary Ability) | For exceptional talent, requires proven industry achievements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a bachelor's degree in engineering or architecture; many man
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architectural-and-engineering-managers/US)**

@@ -52,8 +52,6 @@ Financial and investment advisors provide clients with advice on portfolio manag
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Career paths typically start as junior analysts or relationship managers, and after gaining experience, can be promoted to senior consultant, team leader, or private banker; Some people pursue higher-end fields such as asset management or hedge funds after obtaining the CFA or CIIA.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career paths typically start as junior analysts or relationship managers, and af
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to positions requiring higher education (bachelor's or above) with annual salary exceeding 1.5 times the Spanish average wage (approx. 34,000 EUR); requires work contract. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled professionals, the annual salary requirement is usually no less than 40,000 euros, approval is quick (20 days), and family members are allowed |
-| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment residency requires employer sponsorship, annual salary must meet industry standards, and there are quota restrictions |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Applicable via EU Blue Card (annual salary ≥ EUR 34,000) or highly skilled 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-adviser/ES)**

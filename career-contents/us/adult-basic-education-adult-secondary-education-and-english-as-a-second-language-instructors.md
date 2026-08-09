@@ -52,8 +52,6 @@ Teach basic literacy, reading and writing skills, or English as a second languag
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
-
 Can transition from part-time to full-time teaching; after gaining experience, can advance to course coordinator, program supervisor, or teaching director; can also pursue further education to enter community college management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can transition from part-time to full-time teaching; after gaining experience, c
 | Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or bachelor's plus 5 years of experience, through PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored immigrant visa green card after proving inability to recruit US workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, teachers can advance to curriculum coordinator, project manager, or prog
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/adult-basic-education-adult-secondary-education-and-english-as-a-second-language-instructors/US)**

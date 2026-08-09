@@ -54,8 +54,6 @@ Responsible for managing quality, safety, environment, and health at constructio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 You can be promoted from technician to QSE manager or regional head, or switch to environmental or occupational health specialties.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from technician to QSE manager or regional head, or switch t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, annual salary must exceed 1.5 times SMIC (about €24,000), requires a job contract. |
-| Subclass Salarié (Employee Visa) | To be employed by a French company, you need to obtain a work permit, and the employer must prove that suitable candidates cannot be found in the EU |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to higher education degrees; annual salary must exceed 1.5 times the French average wage (approx. €53,000). |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: The Safety Coordinator certification (R.4532) is mandatory; BTS or Licence HS
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-safety-environment-and-health-protection-coordinator-in-construction/FR)**

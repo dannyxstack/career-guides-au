@@ -53,8 +53,6 @@ Energy storage system engineers are responsible for the electrical design, syste
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Energy storage system engineers have complex tasks; AI can optimize preliminary electrical design plans and compliance checks, but on-site grid connection commissioning, safety and compliance decision-making, and cross-system integration verification rely heavily on human judgment. In the short term, automation is limited, and talent demand remains tight.
-
 In 2026, large-scale BESS projects will queue for grid connection, with energy storage safety standards (AS/NZS, IEC 62933) and fire protection design becoming hard recruitment thresholds. AI optimizes scheduling and arbitrage strategies, but electrical design, safety compliance, and commissioning still heavily rely on people, with low risk of AI substitution.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ In 2026, large-scale BESS projects will queue for grid connection, with energy s
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: Yes. Falls under Electrical Engineering (233311 family) as an occupation in d
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/battery-energy-storage-bess-engineer/AU)**

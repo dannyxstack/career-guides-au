@@ -51,8 +51,6 @@ Industrial and production engineers are responsible for optimizing manufacturing
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Can advance from junior engineer to senior engineer, production manager, or operations director. Accelerate career development through continuous learning and professional certifications (e.g., Six Sigma).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior engineer to senior engineer, production manager, or oper
 | Subclass General Employment P (General Employment Permit) | With an annual salary above €30,000, application is possible and approval comes after a labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Starting salary at least €33,000 per year, requires higher education degree, pathway to permanent residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from junior engineer to senior engineer, production manager, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-and-production-engineer/IE)**

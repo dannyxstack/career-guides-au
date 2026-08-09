@@ -1,6 +1,6 @@
 # IC 验证工程师（IC Verification Engineer）职业分析 · 新西兰
 
-**职业代码: 233411-ICV (ANZSCO)**
+**职业代码：233411-ICV (ANZSCO)**
 
 IC 验证工程师在芯片流片前用 SystemVerilog/UVM 搭建验证环境、编写测试平台、做覆盖率驱动与形式化验证，确保设计符合规格。验证工作量通常占芯片开发一半以上，岗位比设计更多，是进入半导体行业相对可行的高薪路径。
 
@@ -28,10 +28,10 @@ IC 验证工程师在芯片流片前用 SystemVerilog/UVM 搭建验证环境、�
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 600. 在新西兰，芯片复杂度上升使验证需求增长，IC 验证工程师通常多于设计岗，是进入半导体相对可行的高薪路径。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 600。在新西兰，芯片复杂度上升使验证需求增长，IC 验证工程师通常多于设计岗，是进入半导体相对可行的高薪路径。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,14 +49,14 @@ IC 验证工程师在芯片流片前用 SystemVerilog/UVM 搭建验证环境、�
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工程师仍需负责架构设计、调试复杂错误和验证策略制定，角色从手工执行转向工具监理和智力仲裁。
 
 新西兰 SoC 级验证、低功耗与安全验证成为重点；AI 提升测试生成与调试效率，方法学与覆盖率收敛仍由工程师主导。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成基础功能的测试用例和覆盖率导向的测试向量
 - 运行大量回归测试并自动报告fail/pass结果
@@ -64,7 +64,7 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 - 从规格文档中自动提取验证需求并生成测试计划草案
 - 部分形式化验证的属性自动推导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助快速定位bug的根本原因，通过日志和波形聚类分析
 - 利用AI生成随机约束的智能种子，提高验证效率
@@ -72,7 +72,7 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 - 基于历史数据的AI预测验证瓶颈和风险区域
 - 自动格式化验证报告和覆盖率总结，节省文档时间
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂系统的验证架构设计和测试策略规划
 - 调试难以定位的、涉及多个模块交互的时序/功能bug
@@ -80,7 +80,7 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 - 对验证质量进行终极判断（决定tape-out是否ready）
 - 处理非确定性、协议级或跨时钟域的复杂场景
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握机器学习基础，能用AI辅助验证效率工具
 - 深入学习形式化验证方法（如SVA、property checking）
@@ -89,17 +89,17 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 - 学习脚本自动化（Python、Tcl、Shell）和数据分析
 - 加强跨团队沟通和项目管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- UVM/SystemVerilog Functional Verification
-- Coverage-Driven & Formal Verification
-- SoC-Level Verification & Simulation
-- Low-Power/Safety Verification (UPF, ISO 26262)
-- Verification Methodology & Automation (Incl. AI-Assisted)
+- UVM/SystemVerilog功能验证
+- 覆盖率驱动及形式验证
+- 系统级验证与仿真
+- 低功耗/安全验证（UPF, ISO 26262）
+- 验证方法与自动化（含AI辅助）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -108,9 +108,7 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa：雇主担保工签 |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category：积分制技术移民居留 |
 
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -162,12 +160,13 @@ AI会接管测试用例生成和覆盖率分析等重复性任务，但验证工
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 中低（★★☆☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ic-verification-engineer/NZ)**

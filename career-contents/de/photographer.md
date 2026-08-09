@@ -53,8 +53,6 @@ Photographers take various types of photos, including portraits, commercial, new
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
-
 Career progression paths include becoming a studio supervisor, creative director, or transitioning to video production, and skills can be enhanced through professional training.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression paths include becoming a studio supervisor, creative director
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Photographers generally do not meet the Blue Card salary requirements; more s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/DE)**

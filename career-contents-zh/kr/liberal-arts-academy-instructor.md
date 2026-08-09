@@ -1,10 +1,8 @@
-# Liberal Arts Academy Instructor 职业分析 · 韩国
+# 文理学院讲师（Liberal Arts Academy Instructor）职业分析 · 韩国
 
-**职业代码: 21411 (KECO)**
+**职业代码：21411 (KECO)**
 
-A profession teaching liberal arts subjects such as math and science at private academies, guiding students' learning and helping improve their grades.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在私立补习班教授数学、科学等文科科目的职业，指导学生学习并帮助提高成绩。
 
 
 ---
@@ -13,8 +11,8 @@ A profession teaching liberal arts subjects such as math and science at private 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0 | $0~$0（Not required by most academies） |
-| Bachelor's Degree (STEM preferred) | 4年 | $2,000,000~$10,000,000（Tuition and living expenses separate） |
+| 高中文凭 | 0 | $0~$0（大多数院校不要求） |
+| 学士学位（STEM优先） | 4年 | $2,000,000~$10,000,000（学费和生活费分开） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession teaching liberal arts subjects such as math and science at private 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Teaching Certificate | 教育部 | 可选 | Optional but competitive advantage |
-| TOEIC 800 or above | ETS | 可选 | Required by some academies |
+| 教师资格证 | 教育部 | 可选 | 非必需但具竞争优势 |
+| TOEIC 800分以上 | ETS | 可选 | 部分学院要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 150,000. Although the school-age population is declining due to low birth rates, the demand for private education remains high, so employment is maintained but competition is expected to intensify.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 150,000。虽然因低出生率导致学龄人口下降，但私人教育需求仍然很高，因此就业得以维持，但竞争预计将加剧。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,91 +38,84 @@ A profession teaching liberal arts subjects such as math and science at private 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $20,000,000~$30,000,000 | Includes part-time instructors |
-| Intermediate (4–7 years) | $30,000,000~$45,000,000 | Specialized subject instructor |
-| Advanced (8+ years) | $45,000,000~$70,000,000 | Lead instructor or academy director |
+| Beginner (0–3 years) | $20,000,000~$30,000,000 | 包括兼职讲师 |
+| 中级（4-7年） | $30,000,000~$45,000,000 | 专业学科讲师 |
+| 高级（8年以上） | $45,000,000~$70,000,000 | 首席讲师或学院院长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-With the widespread adoption of AI-based customized learning systems, some tasks such as simple problem-solving guidance may be reduced, but the role of human instructors in helping students understand and motivating them is expected to remain.
+随着基于AI的定制化学习系统的广泛采用，一些任务如简单解题指导可能会减少，但人类讲师在帮助学生理解和激励他们方面的角色预计将保留。
 
-Starting as a junior instructor, with experience you can advance to a subject lead instructor or academy director, or switch to freelancing.
+从初级讲师开始，凭经验可晋升为学科主管讲师或学院院长，或转为自由职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Problem-solving guidance
-- Repeated explanation of basic concepts
+- 问题解决指导
+- 反复解释基本概念
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Student performance analysis
-- Creating customized learning materials
-- Diagnosing underachieving students
+- 学生成绩分析
+- 创建定制学习材料
+- 诊断学业不良学生
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Real-time Q&A
-- Mentoring
+- 同理心
+- 实时问答
+- 导师指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Educational data analysis
-- Utilizing online lecture tools
-- Understanding AI tutoring systems
+- 教育数据分析
+- 利用在线授课工具
+- 理解AI辅导系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Private education
-- Test preparation
-- Science-focused
-- Personalized learning
+- 私立教育
+- 备考
+- 以科学为重点
+- 个性化学习
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | May be issued to outstanding foreign instructors, but cases are rare for academy instructors. |
-| Subclass F-2 (F-2 (Residence)) | Available for permanent residents and long-term stayers |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who are good at explaining and have a talent for making students understand
-- Those with a deep interest and knowledge in math and science
-- Those who find reward in improving students' grades
+- 善于解释并有能力让学生理解的人
+- 对数学和科学有浓厚兴趣和知识的人
+- 从提高学生成绩中获得成就感的人
 
 **谁不适合**
-- Those lacking patience and disliking repetitive tasks
-- Those who have difficulty working fixed hours
+- 缺乏耐心且不喜欢重复性任务的人
+- 难以固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a hagwon instructor?**
-答：Starting salary KRW 20-30 million, with experience can reach over KRW 45 million, but varies greatly by hagwon size
+**问：学院讲师的平均工资是多少？**
+答：起薪2000-3000万韩元，有经验可达4500万韩元以上，但根据补习班规模差异很大
 
-**问：Can a foreigner work as a hagwon instructor?**
-答：Possible with an E-7 visa, but cases are rare; must meet Korean language and degree requirements
+**问：外国人可以在补习班担任讲师吗？**
+答：可以通过E-7签证，但案例很少；必须满足韩语和学位要求
 
-**问：Can a hagwon instructor switch to another job?**
-答：Possible to transition to teaching or go into education-related companies, publishing, etc.
+**问：补习班讲师能转行吗？**
+答：可能转向教学或进入教育相关公司、出版等领域。
 
 
 ---
@@ -142,12 +133,12 @@ Starting as a junior instructor, with experience you can advance to a subject le
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/liberal-arts-academy-instructor/KR)**

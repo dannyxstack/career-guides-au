@@ -52,8 +52,6 @@ Occupations involved in the manufacturing/processing of non-metal products such 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-In non-metallic manufacturing/processing, many tasks are expected to be replaced by AI or robots. Particularly, quantifiable processes like pressing, injection molding, and cutting are experiencing automation waves. Simple processing jobs will decline, but a shift to roles requiring human-specific skills like equipment maintenance and process improvement will be important.
-
 Entry-level workers can start with no experience and advance to team leader or line manager by honing skills. Multi-skilling and quality control knowledge boost career growth. Independent work is possible depending on the job.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Entry-level workers can start with no experience and advance to team leader or l
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Molding, Industrial Machinery, Electrical/Electronics, etc.)) | For those who completed technical training in manufacturing. Max 5-year stay. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction, Shipbuilding/Marine Industry, etc.)) | Only shipbuilding/marine industry in manufacturing. Renewable, family accompaniment allowed. |
-| Subclass 技能実習 (Technical Intern Training (No. 3)) | Aimed at technology transfer to developing countries. Max 5 years. Job change restrictions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +137,12 @@ A: Simple assembly and processing steps are expected to become automated, but ta
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-product-manufacturing-processing-workers-excluding-metal-products/JP)**

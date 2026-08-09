@@ -54,8 +54,6 @@ Elementary school teachers teach academic and social skills to young students ac
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has limited replacement potential for primary teachers' core teaching and care duties, but many administrative, document generation, and homework grading tasks will be automated; entry-level positions shrink due to AI tool prevalence, with moderate compression risk for the profession overall.
-
 Career development paths include advancing from teacher to grade-level leader, instructional coordinator, or school administration. Alternatively, obtaining a master's degree can lead to curriculum specialist or educational consultant roles, or transitioning to special education, bilingual education, etc.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career development paths include advancing from teacher to grade-level leader, i
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Common promotions include becoming a grade coordinator, teaching coordinator,
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-school-teachers-except-special-education/US)**

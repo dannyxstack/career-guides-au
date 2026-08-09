@@ -52,8 +52,6 @@ This occupation is classified as a management role (TEER 0) under Canada's NOC 2
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly change the work of art publishers and performing arts managers; some administrative tasks (e.g., budgeting, scheduling) can be automated, but core duties like creative decision-making, talent management, and public communication are hard to replace. Overall risk is moderate, requiring proactive adoption of AI tools to enhance efficiency.
-
 Typically promoted from arts administrator, coordinator, or project manager. Can progress to executive director, artistic director, or deputy director of operations, or move into cultural policy, arts consultancy, or cultural industry investment.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically promoted from arts administrator, coordinator, or project manager. Can
 | Subclass PNP (Provincial Nominee Program) | e.g., Ontario OINP Human Capital Priorities stream, requires a job offer or in-province work experience |
 | Subclass CEC (Canadian Experience Class) | Suitable for applicants with Canadian local work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Main pathways include Express Entry (FSW/CEC) and Provincial Nominee Programs
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-publishing-motion-pictures-audio-and-video-production-broadcasting-and-performing-arts/CA)**

@@ -4,8 +4,6 @@
 
 A profession that involves playing musical instruments individually or in groups to provide music to audiences. Activities span various genres such as classical, jazz, and popular music, with affiliations ranging from orchestras and bands to solo performers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that involves playing musical instruments individually or in groups
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI expands performers' work as a tool for music creation and performance assistance, but since live performance and human emotional delivery are core, complete replacement is difficult. AI is creating new opportunities in music production, arrangement, and education.
-
 Typically, after graduating from a music college or vocational school, one joins a professional orchestra through auditions or starts as a freelancer. Career progression includes advancing to concertmaster, conductor, composer, or music director, or winning international competitions as key growth paths.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Typically, after graduating from a music college or vocational school, one joins
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a professional in culture/arts; requires employment contract with orchestras in Korea |
-| Subclass D-2 (Study (D-2)) | After studying at a music college, can switch to D-10 Job Seeker visa |
-| Subclass F-2 (Residence (F-2)) | A step before permanent residency for long-term stay, with few restrictions |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Although AI composition and performance technology is advancing, the emotion 
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musician/KR)**

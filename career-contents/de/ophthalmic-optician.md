@@ -54,8 +54,6 @@ A profession specializing in fitting glasses and contact lenses, vision function
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve the accuracy of optometric and corrective solutions, but regulatory and ethical requirements make core diagnostic responsibilities hard to replace. Optometrists should embrace AI tools while strengthening clinical judgment and patient communication.
-
 Career progression from optician to senior optician, or through further training to become a vision correction specialist or clinic manager; some may transition to optical engineering or ophthalmic technician roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression from optician to senior optician, or through further training
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa for overseas optometrists with strong qualifications but no employer yet, allowing entry to Germany for job hunting. |
 | Subclass EU Blue Card (EU Blue Card) | If the annual salary reaches the threshold for a standard Blue Card (approx. €43,800 in 2024), optometrists may qualify, but salaries are typically lower, so caution is needed. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, you must pass the IHK final examination to obtain a professional qualifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ophthalmic-optician/DE)**

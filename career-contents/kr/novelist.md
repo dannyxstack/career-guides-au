@@ -4,8 +4,6 @@
 
 A novelist is an artist who creates and publishes novels based on imagination and literary quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A novelist is an artist who creates and publishes novels based on imagination an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can assist with drafting or plot generation for novels, but genres requiring human creativity and sensitivity are hard to replace. Commercial genres like web novels may see increased AI usage.
-
 Initially, build a career through short stories/web novels, then grow into a stable writer through literary awards or bestsellers. Afterwards, it is possible to sign a contract with a publisher or self-publish.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Initially, build a career through short stories/web novels, then grow into a sta
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible when invited as a professional in culture and arts, but rare as a writer |
-| Subclass F-2 (Residence (F-2)) | Possible for long-term stay but unfavorable under the points system for novelists |
-| Subclass F-4 (Overseas Korean) | Free activities possible only for overseas Koreans |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: It's not mandatory, but graduating in creative writing or winning a literary 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/novelist/KR)**

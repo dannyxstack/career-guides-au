@@ -1,8 +1,8 @@
 # 木匠（Carpenter）职业分析 · 韩国
 
-**职业代码: 70161 (KECO)**
+**职业代码：70161 (KECO)**
 
-A specialized technical profession that processes wood and installs/constructs structures at construction sites, serving as a key workforce in wooden houses and interior carpentry.
+一种专业的技术职业，在建筑工地上加工木材并安装/构建结构，是木屋和室内木工的关键劳动力。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized technical profession that processes wood and installs/constructs s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Vocational training (e.g., Polytech) | 1年 | $500,000~$2,000,000（Free with government support; self-funded: 500,000~2,000,000 KRW） |
-| College Department of Architectural Carpentry | 2 年 | $6,000,000~$8,000,000（Based on tuition, 1,500,000~2,000,000 KRW per semester） |
+| 职业培训（例如理工学院） | 1年 | $500,000~$2,000,000（政府支持免费；自费：50万~200万韩元） |
+| 建筑木工学院系 | 2 年 | $6,000,000~$8,000,000（基于学费，每学期1,500,000~2,000,000韩元） |
 
 ---
 
@@ -20,17 +20,17 @@ A specialized technical profession that processes wood and installs/constructs s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Carpenter (Craftsperson) | Human Resources Development Service of Korea | 可选 | Not mandatory but gives extra points for employment |
-| Carpenter (Industrial Engineer) | Human Resources Development Service of Korea | 可选 | Advantageous for site manager positions |
+| 木匠（工匠） | 韩国人力资源开发服务局 | 可选 | 非强制但可为就业加分 |
+| 木匠（工业工程师） | 韩国人力资源开发服务局 | 可选 | 对现场经理职位有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Despite the slowdown in construction, employment remains stable due to demand for remodeling and wooden architecture, and persistent labor shortages due to aging provide new entry opportunities.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。尽管建筑行业放缓，但由于翻新和木结构建筑的需求，以及老龄化导致的持续劳动力短缺，新进入者仍有就业机会。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,91 +38,84 @@ A specialized technical profession that processes wood and installs/constructs s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$32,000,000 | Daily wage 150,000~200,000 KRW, assuming 22 working days per month |
-| Mid-level (4-8 years) | $33,000,000~$42,000,000 | Skilled worker level, varies with site experience |
-| Advanced (9+ years) | $43,000,000~$55,000,000 | Foreman/site manager level, including possible performance bonuses |
+| 入门级（0-3年） | $25,000,000~$32,000,000 | 日薪15万~20万韩元，按每月22个工作日计算 |
+| 中级（4-8年） | $33,000,000~$42,000,000 | 技能工人级别，因现场经验而异 |
+| 高级（9年以上） | $43,000,000~$55,000,000 | 工头/现场经理级别，含可能绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is limited. Carpentry relies on manual work and on-site adaptability, making it difficult to replace with AI. However, repetitive tasks are being reduced by design and automatic cutting machines.
+AI和自动化的影响有限。木工依赖手工和现场适应能力，难以被AI替代。但重复性任务正通过设计和自动切割机减少。
 
-Career advancement is possible from skilled worker to foreman to site manager, and acquiring the Ministry of Land, Infrastructure and Transport's functional certification or Master Carpenter certification is advantageous for career development.
+从技工到领班再到现场经理可晋升，取得国土交通省职能认证或高级木工认证有利于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting work
-- Material handling and organizing
+- 简单切割工作
+- 物料搬运与整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision measurement and marking
-- Operating automatic cutting machines
-- 3D model-based construction
+- 精密测量与划线
+- 操作自动切割机
+- 基于3D模型的建筑
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site custom carpentry skills
-- Safety management and risk response
-- Natural material processing know-how
+- 现场定制木工技能
+- 安全管理与风险应对
+- 天然材料加工技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC and automatic cutting machine operation
-- Reading architectural drawings
-- Timber construction methods
+- 数控及自动切割机操作
+- 阅读建筑图纸
+- 木结构施工方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Remodeling
-- Timber frame houses
-- Interior design
-- Eco-friendly construction
+- 翻新
+- 木框架房屋
+- 室内设计
+- 环保建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible to hire foreign workers in construction, entry via Employment Permit System |
-| Subclass E-7 (Specific Activities (E-7)) | For skilled workers, carpentry possible |
-| Subclass F-2 (Residence (F-2)) | Possible to convert to permanent residence after a certain period, no employment restrictions |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength and preference for field work
-- People with excellent hand skills and ability to focus on precise tasks
-- People comfortable with outdoor and elevated work
+- 体力好且偏好现场工作的人
+- 手巧且能专注于精确任务的人
+- 适合户外和高处工作的人
 
 **谁不适合**
-- People who prefer indoor office work
-- People who find safety accident risks burdensome
+- 喜欢室内办公室工作的人
+- 觉得安全风险繁琐的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a carpenter?**
-答：Beginners around 25-32 million KRW; skilled workers with over 10 years of experience 43-55 million KRW. Daily workers earn 150,000-250,000 KRW per day; with 22 working days per month, annual salary is similar to the above range.
+**问：木匠的平均工资是多少？**
+答：初学人员约2500-3200万韩元；经验超过10年的熟练技工4300-5500万韩元。日薪工人每天15-25万韩元；按每月22个工作日计算，年薪与上述范围相近。
 
-**问：Can foreigners find employment as carpenters?**
-答：Yes. You can work with an E-9 (Non-professional Employment) or E-7 (Specific Activities) visa, entering through the Employment Permit System. If your skill level is recognized, you can switch to an F-2 (Residence) visa.
+**问：外国人可以找到木匠的工作吗？**
+答：可以。你可以持E-9（非专业就业）或E-7（特定活动）签证，通过就业许可制度入境。如果你的技能水平得到认可，可以转为F-2（居住）签证。
 
-**问：What is the career progression path for a carpenter?**
-答：Entry-level → Intermediate → Lead → Site supervisor. Obtaining a Carpenter Craftsman or Industrial Engineer certification is advantageous. Working with specialized timber housing companies can also lead to independent contracting.
+**问：木匠的职业发展路径是什么？**
+答：入门级 → 中级 → 主管 → 现场监理。获得木工技师或工业工程师认证有优势。与专业木结构房屋公司合作也可独立承包。
 
 
 ---
@@ -140,12 +133,12 @@ Career advancement is possible from skilled worker to foreman to site manager, a
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/carpenter/KR)**

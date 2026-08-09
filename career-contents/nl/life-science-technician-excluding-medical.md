@@ -4,8 +4,6 @@
 
 Assist scientists in biotechnology, agricultural, or environmental laboratories with experiments, sample analysis, and data recording; maintain instruments and ensure compliance with operations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Assist scientists in biotechnology, agricultural, or environmental laboratories 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly automate data collation and basic experimental procedures, but creative experiment design and complex problem-solving still require humans; meanwhile, AI tools will amplify technicians' analysis and reporting abilities, shifting the role from execution to analysis.
-
 Can progress from junior technician to senior technician, lab supervisor, or move into quality control, R&D support. Further study can lead to roles as researcher or project manager.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can progress from junior technician to senior technician, lab supervisor, or mov
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migrants with an annual income of at least approximately €38,000 (2025 standard), requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens with an annual income of at least approximately €53,000 (2025), requiring employer sponsorship |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Master's/PhD graduates from Dutch or world top 200 universities can freely seek employment within one year without employer sponsorship |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Demand is high in the life sciences parks and biotech companies of Utrecht, L
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/life-science-technician-excluding-medical/NL)**

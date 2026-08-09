@@ -53,8 +53,6 @@ Supervise and coordinate contractors and supervisors involved in oil and gas dri
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of oil and gas drilling and service contractors and supervisors is mixed: routine reporting and monitoring are easily automated, but on-site decision-making, safety management, and team leadership still heavily rely on humans, with AI more as an auxiliary tool.
-
 Career progression includes moving from site supervisor to senior project manager or regional operations manager. Advancement to management can be achieved through experience and professional certifications (e.g. Society of Petroleum Engineers certification).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes moving from site supervisor to senior project manage
 | Subclass PNP (Alberta / Saska (Provincial Nominee Program) | Priority nomination pathways available in Alberta and Saskatchewan |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Impact Assessment to support a work visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: H2S safety training is mandatory, engineering registration in Alberta is mand
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-oil-and-gas-drilling-and-services/CA)**

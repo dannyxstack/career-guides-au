@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing computer hardware, includ
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of this occupation (hardware installation, fault diagnosis, repair) are less impacted by AI/automation, but remote monitoring, AI predictive maintenance and other technologies will reduce demand for traditional roles, especially low-end maintenance work.
-
 Starting from entry-level technical support, you can advance to senior engineer, team lead, or IT infrastructure manager. You can also transition to cloud computing or cybersecurity for higher salary and career growth.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting from entry-level technical support, you can advance to senior engineer,
 | Subclass Graduate (Graduate visa) | Available to UK graduates, allowing them to work in the UK for 2 years (3 years for PhD), no sponsorship required |
 | Subclass Scale-up (Scale-up visa) | Applicable to fast-growing enterprises, requires sponsorship but offers greater work flexibility afterwards |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually no university degree required, but CompTIA A+ certification is highly
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-system-and-equipment-installers-and-servicers/UK)**

@@ -4,8 +4,6 @@
 
 A senior management role overseeing fund allocation, risk management, and strategic planning at financial institutions such as banks, securities, and insurance companies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A senior management role overseeing fund allocation, risk management, and strate
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace standardized data analysis tasks, but human judgment remains crucial for strategic decision-making and risk management. Therefore, the role of financial managers will evolve toward greater efficiency through collaboration with AI, rather than being completely replaced.
-
 Typically reached through internal promotions within the financial sector; holding an MBA or CFA is advantageous. Requires 15–20+ years of experience.
 
 **Tasks most exposed to AI:**
@@ -92,15 +88,9 @@ Typically reached through internal promotions within the financial sector; holdi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeted at foreign professionals, possible when invited by a financial company but rare |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Generally, a bachelor's degree in business, economics, or finance is required
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-manager/KR)**

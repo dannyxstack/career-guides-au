@@ -1,8 +1,8 @@
-# Recycling Processing Equipment & Incinerator Operator 职业分析 · 韩国
+# 回收加工设备与焚烧炉操作员（Recycling Processing Equipment & Incinerator Operator）职业分析 · 韩国
 
-**职业代码: 85321 (KECO)**
+**职业代码：85321 (KECO)**
 
-A professional environmental facility expert who operates and controls waste recycling processing equipment and incinerators to recover resources or safely incinerate waste.
+专业环境设施专家，操作和控制废物回收处理设备及焚烧炉，以回收资源或安全焚烧废物。
 
 
 ---
@@ -12,8 +12,8 @@ A professional environmental facility expert who operates and controls waste rec
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭或GED | 0年 | $0~$0（义务教育） |
-| Environmental-related associate degree (2-year) | 2 年 | $6,000,000~$12,000,000（Tuition fee basis） |
-| Acquisition of Waste Treatment Engineer/Industrial Engineer | 1年 | $1,000,000~$2,000,000（Academy·Exam fee） |
+| 环境相关副学士学位（2年制） | 2 年 | $6,000,000~$12,000,000（学费基准） |
+| 废物处理工程师/工业工程师的获取 | 1年 | $1,000,000~$2,000,000（学院·考试费） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional environmental facility expert who operates and controls waste rec
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Waste Treatment Engineer | Human Resources Development Service of Korea | 必备 | Bachelor's degree in chemical/environmental engineering or engineer certification |
-| Incinerator Operator | Korea Environment Corporation | 必备 | Completion of mandatory incinerator operation training |
-| Waste Treatment Industrial Engineer | Human Resources Development Service of Korea | 可选 | Associate degree or pre-engineer certification stage |
+| 废物处理工程师 | 韩国人力资源开发服务局 | 必备 | 化学/环境工程学士学位或工程师认证 |
+| 焚烧炉操作员 | 韩国环境公团 | 必备 | 完成强制性焚烧炉操作培训 |
+| 废弃物处理工业工程师 | 韩国人力资源开发服务局 | 可选 | 副学士学位或预工程师认证阶段 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Employment is stable due to the expansion of the circular economy policy and increased waste treatment demand, but automation is expected to stagnate or slightly increase labor demand.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。由于循环经济政策扩展和废物处理需求增加，就业稳定，但预计自动化将导致劳动力需求停滞或略有上升。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,90 +40,83 @@ A professional environmental facility expert who operates and controls waste rec
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Seniority-based system, including night shift allowance |
-| 中级（4-9年） | $32,000,000~$42,000,000 | Certification & Experience Bonus |
-| Advanced (10+ years) | $40,000,000~$55,000,000 | Including Team Leader & Process Manager |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于资历的体系，包括夜班津贴 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 认证与经验奖励 |
+| 高级（10年以上） | $40,000,000~$55,000,000 | 包括团队领导与流程经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation enhance some monitoring and predictive maintenance, but complete replacement is difficult as human judgment and adaptability are essential for waste sorting and equipment failure response.
+人工智能和自动化增强了一些监控和预测性维护，但由于人类判断力和适应性在垃圾分类和设备故障响应中至关重要，完全替代是困难的。
 
-Mainly hired as production workers, after gaining equipment operation experience, can advance to senior operator, shift leader, or process manager; obtaining environmental-related certifications is advantageous.
+主要受聘为生产工人，获得设备操作经验后可晋升为高级操作员、班组长或工艺经理；获取环境相关证书有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Quantitative input and output recording
-- Basic material input tasks
+- 定量输入和输出记录
+- 基础材料输入任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Equipment anomaly detection and predictive maintenance
-- Data analysis for process optimization
+- 设备异常检测和预测性维护
+- 流程优化的数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle non-standard situations
-- Judgment based on field experience
-- Manual maintenance skills
+- 处理非常规情况的能力
+- 基于现场经验的判断
+- 手动维护技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Environmental process control
-- Data literacy
-- Robot maintenance
+- 环境过程控制
+- 数据素养
+- 机器人维护
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Circular economy
-- Waste treatment
-- Environmental equipment
-- Automation
+- 循环经济
+- 废物处理
+- 环境设备
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Applicable as Skilled Worker (E-7-1), requires environment/recycling field experience |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Allowed in manufacturing/environment sectors under Employment Permit System; skilled workers may switch to E-7 |
-| Subclass F-2 (F-2 (Residence)) | E-7→F-2 Permanent Residency path, long-term stay possible |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machine operation
-- Those who can handle night shifts and rotating shifts
-- People interested in environmental protection
+- 对机器操作感兴趣的人
+- 可接受夜班和轮班者
+- 对环保感兴趣的人
 
 **谁不适合**
-- People who dislike isolated environments
-- People sensitive to hazards
+- 不喜欢孤立环境的人
+- 对 hazards 敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a recycling processing equipment operator?**
-答：Entry-level is approximately 24 to 30 million KRW, including night shift and shift differentials, with a seniority-based pay scale.
+**问：回收加工设备操作员的起薪是多少？**
+答：入门级约2400万至3000万韩元，含夜班和轮班津贴，实行年功序列工资制。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes, it is possible. You can apply with an E-7-1 (Skilled Worker) visa, which requires experience in the environmental industry.
+**问：外国人能获得此职业的工作签证吗？**
+答：可以。您可申请E-7-1（熟练工人）签证，需具备环境行业经验。
 
-**问：What is the working environment like for this job?**
-答：Shift work within incineration and recycling facilities, with potential exposure to noise, odors, and high temperatures.
+**问：这份工作的工作环境如何？**
+答：在焚烧和回收设施内轮班工作，可能接触噪音、异味和高温。
 
 
 ---
@@ -141,12 +134,12 @@ Mainly hired as production workers, after gaining equipment operation experience
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/recycling-processing-equipment-incinerator-operator/KR)**

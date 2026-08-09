@@ -1,10 +1,8 @@
-# Environmental cleaners and recyclable waste collectors 职业分析 · 韩国
+# 环境清洁工和可回收废物收集员（Environmental cleaners and recyclable waste collectors）职业分析 · 韩国
 
-**职业代码: 56121 (KECO)**
+**职业代码：56121 (KECO)**
 
-Responsible for cleaning and waste collection in public places such as streets, parks, and residential areas, and separating recyclables, playing a key role in maintaining urban environmental hygiene.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责街道、公园和住宅区等公共场所的清洁和垃圾收集，并分类可回收物，在维护城市环境卫生中发挥关键作用。
 
 
 ---
@@ -13,7 +11,7 @@ Responsible for cleaning and waste collection in public places such as streets, 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 无需正式学历 | 0年 | $0~$0（No educational restrictions, on-the-job training sufficient） |
+| 无需正式学历 | 0年 | $0~$0（无学历要求，在职培训足够） |
 
 ---
 
@@ -21,17 +19,17 @@ Responsible for cleaning and waste collection in public places such as streets, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Ordinary Driver's License | National Police Agency | 必备 | Required for operating cleaning vehicles |
-| Waste Treatment Engineer | Human Resources Development Service of Korea | 可选 | Optional but advantageous for promotion |
+| 一类普通驾驶执照 | 国家警察厅 | 必备 | 操作清洁车辆所需 |
+| 废物处理工程师 | 韩国人力资源开发服务局 | 可选 | 可选但有利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Labor shortages persist due to aging and workforce attrition, with severe recruitment difficulties especially in the metropolitan area. Demand remains stable due to the government's strengthened recycling policies, but improvements in working conditions are needed.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。由于老龄化和劳动力流失，劳动力短缺持续，大城市地区招聘尤其困难。政府强化回收政策使需求保持稳定，但工作条件需改善。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +37,85 @@ Responsible for cleaning and waste collection in public places such as streets, 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$28,000,000 | Minimum wage level but increases with night shift allowances |
-| Intermediate (4-10 years) | $28,000,000~$34,000,000 | Varies by experience and company size |
-| Advanced (10+ years) | $34,000,000~$40,000,000 | When promoted to head or management position |
+| 初级（0-3年） | $24,000,000~$28,000,000 | 最低工资水平，但夜班津贴会增加收入 |
+| 中级（4-10年） | $28,000,000~$34,000,000 | 视经验和公司规模而异 |
+| 高级（10年以上） | $34,000,000~$40,000,000 | 晋升为负责人或管理职位时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 很低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：很低（★☆☆☆☆）**
 
-AI and automation technologies have been introduced, replacing some simple tasks such as autonomous driving of street sweepers and unmanned cleaning robots, but areas requiring human judgment, such as recycling sorting and illegal waste enforcement, remain handled by people. Overall, AI is at a level of assisting labor, and complete replacement is difficult for the time being due to cost and technical limitations.
+已引入AI和自动化技术，取代了部分简单任务，如街道清扫车自动驾驶和无人清洁机器人，但需要人工判断的领域，如回收分类和非法废物执法，仍由人处理。总体而言，AI处于辅助劳动的水平，由于成本和技术限制，目前完全取代仍有困难。
 
-Starting as a beginner, one can be promoted to head or team leader based on experience, or transition to a manager position at a public institution's cleaning service company. Acquiring professional certifications opens opportunities for advancement to higher-level positions.
+从初级岗位开始，根据经验可晋升为主管或团队领导，或转到公共机构清洁服务公司的管理职位。获得专业认证后，有机会晋升到更高职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive street cleaning
-- Fixed-route waste collection
-- Basic recyclable material sorting
+- 简单的重复性街道清扫
+- 固定路线垃圾收集
+- 基础可回收材料分拣
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote monitoring of AI-equipped cleaning vehicles
-- Efficient collection planning based on smart bin data analysis
-- AI-assisted sorting for improved recycling quality
+- 配备AI的清洁车辆的远程监控
+- 基于智能垃圾箱数据分析的高效收集规划
+- AI辅助分类以提高回收质量
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible response capability in irregular environments
-- Communication with residents and handling complaints
-- Judgment of dangerous situations and ensuring safety
+- 在非常规环境中的灵活响应能力
+- 与居民沟通及处理投诉
+- 危险情况判断及确保安全
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation and maintenance of AI equipment
-- Data-driven work planning
-- Familiarity with environmental regulations and safety standards
+- AI设备的操作与维护
+- 数据驱动的工作规划
+- 熟悉环境法规和安全标准
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recycling sorting
-- Smart cleaning equipment
-- Specialization in night cleaning
-- Public Cleaning Services
+- 回收分类
+- 智能清洁设备
+- 夜间清洁专业化
+- 公共清洁服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Under the Employment Permit System for non-professional foreign workers, employment in cleaning and waste collection is possible. The employer must obtain an employment permit. |
-| Subclass H-2 (Working Visit (H-2)) | Available for overseas Koreans to work in the cleaning industry. Stay period of 5 years with relaxed employment restrictions. |
-| Subclass F-2 (Residence (F-2)) | Can be converted to a points-based permanent residence status, allowing employment in cleaning jobs for long-term stays. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with good stamina who prefers outdoor activities
-- Someone who performs well at repetitive tasks
-- Someone who cares about cleanliness and the environment
+- 体力好且喜欢户外活动的人
+- 擅长重复性任务的人
+- 关心清洁和环境的人
 
 **谁不适合**
-- Someone who finds it hard to tolerate unpleasant environments like odors or dust
-- Someone who wants a high salary
+- 难以忍受异味或灰尘等不愉快环境的人
+- 想要高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a sanitation worker?**
-答：Entry-level is about 24-28 million KRW, up to 40 million KRW depending on experience and night shifts.
+**问：环卫工人的平均年薪是多少？**
+答：入门级约2400-2800万韩元，根据经验和夜班最高可达4000万韩元。
 
-**问：Can foreigners work as sanitation workers?**
-答：Yes, it's possible with an E-9 (Non-professional Employment) visa or H-2 (Working Visit) visa, and employment is through the Employment Permit System.
+**问：外国人可以从事环卫工作吗？**
+答：是的，通过E-9（非专业就业）签证或H-2（访问就业）签证可行，就业通过就业许可制度。
 
 **问：这个职业有晋升机会吗？**
-答：Depending on experience, you can be promoted to team leader or shift manager, or transition to a cleaning service company manager.
+答：根据经验，可晋升为团队领导或轮班经理，或转型为清洁服务公司经理。
 
 
 ---
@@ -143,12 +133,12 @@ Starting as a beginner, one can be promoted to head or team leader based on expe
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/environmental-cleaners-and-recyclable-waste-collectors/KR)**

@@ -51,8 +51,6 @@ Paralegals and legal secretaries assist lawyers with document processing, case m
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
-
 Can progress from junior legal secretary to senior legal assistant, or move into legal operations or compliance. With experience, can take the bar exam or become a legal project manager, but additional qualifications are needed.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior legal secretary to senior legal assistant, or move into
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category requires meeting the 6-point system (qualifications + work experience). Legal assistant occupation ANZSCO code 521212, skill level 4, requires hourly wage of at least NZD 29.66 (2024 standard) for immigration. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, occupation at ANZSCO skill level 4, salary must meet the median wage (approx. NZD 29.66/hour in 2024). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior paralegal or transition to training and compliance role
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretary/NZ)**

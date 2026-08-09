@@ -51,8 +51,6 @@ Compliance officer is an important role in Australian business industries, with 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Compliance officer tasks are polarizing: rule checking and document sorting will be efficiently replaced by AI, but risk judgment and regulatory negotiation skills are amplified by AI. Entry-level competition intensifies, while senior officer value increases
-
 Digitalisation and professional certification requirements continue to rise, requiring compliance officers to continuously update their skills to keep pace with industry change.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Digitalisation and professional certification requirements continue to rise, req
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/compliance-officer/AU)**

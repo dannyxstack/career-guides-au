@@ -54,8 +54,6 @@ Responsible for monitoring and controlling chemical production processes, ensuri
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 Can progress from operator to team leader or process technician, and through further study or continuing education move to process engineer or production management roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from operator to team leader or process technician, and through fur
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must obtain German-recognized training qualifications or academic certification, plus an employer contract. |
 | Subclass Chancenkarte (Chancenkarte) | Applicable for job seekers with professional qualifications or university degrees, allowing 1 year of job searching in Germany |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can be promoted to team leader, process technician, or through further study 
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-plant-controller/DE)**

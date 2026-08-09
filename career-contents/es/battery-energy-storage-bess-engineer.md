@@ -52,8 +52,6 @@ Energy storage system engineers are responsible for the electrical design, syste
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Energy storage system engineers have complex tasks; AI can optimize preliminary electrical design plans and compliance checks, but on-site grid connection commissioning, safety and compliance decision-making, and cross-system integration verification rely heavily on human judgment. In the short term, automation is limited, and talent demand remains tight.
-
 In Spain, wind, solar, storage, grid integration, grid digitalization, and computing power expansion continue, making engineers skilled in grid connection, stability, and compliance the most sought after; AI-assisted analysis: Grid safety responsibility remains the responsibility of certified engineers.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ In Spain, wind, solar, storage, grid integration, grid digitalization, and compu
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Highly Qualified Professional (Ley 14/2013) residence permit |
-| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card: high salary + degree engineer pathway. |
-| Subclass Cuenta ajena (Employed work) | Employed work residence permit |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +149,12 @@ A: Yes. Classified as a shortage engineering profession, you can follow Spain's 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/battery-energy-storage-bess-engineer/ES)**

@@ -52,8 +52,6 @@ Automation technicians are responsible for designing, programming, installing, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will deeply change the work of electromechanical and mechatronic technicians, taking over repetitive testing and document generation while enhancing system design and data analysis capabilities, significantly altering job task structures.
-
 Junior technicians can progress to automation engineer, system architect, or project management. With experience, they can become team leaders or technical experts, or further study to become Industry 4.0 consultants.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can progress to automation engineer, system architect, or pro
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled professionals; requires a German employer contract and qualification recognition |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allowing job search in Germany for one year, requiring proof of language skills or relevant qualifications |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, you can become an automation engineer, project leader, or transition to 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automation-technician/DE)**

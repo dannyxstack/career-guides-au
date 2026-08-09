@@ -52,8 +52,6 @@ Financial analysts evaluate investment opportunities, analyze financial data, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Financial analysts' work will be significantly reshaped by AI: data collection, basic models, and report generation will be highly automated, but strategic advice, client communication, and complex judgment remain core human strengths, with roles upgrading to high-value analysis overall.
-
 Junior analysts can advance to senior analyst, investment manager, or research director. They may also move into fields like private equity, venture capital, or corporate finance. Certifications such as CFA help with promotion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior analysts can advance to senior analyst, investment manager, or research d
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled talents with a job offer, employer must be an approved sponsor. Salary threshold 2024 approx. €5,331/month (over 30). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals; salary threshold in 2024 approx. €5,668/month. Allows mobility within the EU. |
-| Subclass Orientation Year (Zo (Orientation Year) | Applicable to master's/PhD graduates from Dutch or world top 200 universities, allowing 1 year of job search. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Usually requires a bachelor's or master's degree in finance, economics, or a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/NL)**

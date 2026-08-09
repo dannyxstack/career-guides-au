@@ -4,8 +4,6 @@
 
 Responsible for the laying, maintenance, repair, and inspection of railway tracks to ensure the safety of railway transportation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the laying, maintenance, repair, and inspection of railway track
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rail track workers face mixed impacts from AI automation: unmanned inspection vehicles and AI track geometry detection systems are replacing manual inspections and simple measurements, but complex repairs and emergency judgments still require human experience; entry-level positions are narrowing due to automation, but increased technical skill requirements enhance job value.
-
 You can be promoted from a junior worker to a team leader or technical expert, and then advance to an engineer or management position.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ You can be promoted from a junior worker to a team leader or technical expert, a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French employer; requires work permit; non-shortage occupations face high immigration difficulty. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: EU citizens can move freely; Non-EU citizens need employer sponsorship, as it
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-track-worker/FR)**

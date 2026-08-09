@@ -51,8 +51,6 @@ HR administrators provide administrative support for an organization's human res
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Can progress from junior HR assistant to HR specialist (recruitment, compensation & benefits, etc.), then to HR manager or HRBP, requiring accumulation of professional qualifications (e.g., CIPD certification) and management experience.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can progress from junior HR assistant to HR specialist (recruitment, compensatio
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: Can apply for Skilled Worker visa, salary threshold usually £26,200, but not
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-administrative-occupations/UK)**

@@ -52,8 +52,6 @@ Responsible for daily IT system and network operations, including backup system 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce traditional IT technician roles; low-level operations and user support tasks are highly automated, but transitioning to high-value areas like cloud architecture and automation scripts can offset risks.
-
 Can advance from frontline support to senior technician, network administrator, or IT manager, or pivot to cybersecurity, cloud computing, etc., through professional certifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from frontline support to senior technician, network administrator, 
 | Subclass Scale-up (Scale-up visa) | IT Professionals for High-Growth Businesses Meeting Salary Requirements (typically £33,000/year) |
 | Subclass Graduate (Graduate visa) | UK university graduates can work in the UK for 2-3 years, then transition to a skilled worker visa after gaining experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior technician, network administrator, system engineer, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-technicians/UK)**

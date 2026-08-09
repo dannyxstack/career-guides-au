@@ -50,8 +50,6 @@ A social worker is a professional who provides counseling, case management, prog
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists with counseling records, welfare benefit calculations, and resource matching, but human empathy and relationship building cannot be replaced, so work will be enhanced and quality improved.
-
 Advancement from Level 2 to Level 1 is common, and with a master's degree or higher and experience, one can move into managerial roles such as facility director or office manager.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Advancement from Level 2 to Level 1 is common, and with a master's degree or hig
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible with employment visa for foreigners in professional social welfare field, meeting degree and experience requirements |
-| Subclass F-2 (Residence) | Long-term stay possible with points-based permanent residence qualification, social worker experience recognized |
-| Subclass F-5 (Permanent Residence) | Permanent residency, long-term settlement possible as social worker |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: You must complete 14 required courses in social welfare at a university (or g
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-worker/KR)**

@@ -4,8 +4,6 @@
 
 A pharmacist is a healthcare professional responsible for dispensing medications, providing medication guidance, drug counseling, and ensuring medication safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A pharmacist is a healthcare professional responsible for dispensing medications
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rather than completely replacing pharmacists, AI will be used as a supportive tool in areas such as dispensing automation, drug interaction analysis, and prescription review, making the pharmacist's professional judgment and counseling role even more important.
-
 After obtaining a pharmacist license, career paths include opening a pharmacy, hospital pharmacist, pharmaceutical company clinical development, or MFDS officer; with experience, one can advance to pharmacy management or specialist pharmacist.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After obtaining a pharmacist license, career paths include opening a pharmacy, h
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | With a domestic pharmacist license, employment is possible in specialized fields like pharmaceutical R&D; general pharmacy employment is difficult |
-| Subclass F-2 (F-2 (Residence)) | Eligible for employment after long-term residence via points system, may have work restrictions even with pharmacist license |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents can work as pharmacists without restrictions, provided they have obtained a pharmacist license in advance. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Graduation from a 6-year pharmacy college and passing the national pharmacist
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/KR)**

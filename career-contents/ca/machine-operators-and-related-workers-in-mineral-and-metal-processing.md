@@ -52,8 +52,6 @@ Glass processing workers in Canada mainly operate machines in manufacturing plan
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Glass processing workers face high automation risk; automated glass cutting and polishing equipment can replace most repetitive tasks. Demand for entry-level positions is decreasing, but opportunities emerge in maintenance and programming roles.
-
 Progresses from operator to senior technician or production supervisor, or can switch to glass installation or quality control. Obtaining industry certifications (e.g., provincial trade certificates) can enhance salary and immigration competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Progresses from operator to senior technician or production supervisor, or can s
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Demand in construction is stable, but automation may affect entry-level roles
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-operators-and-related-workers-in-mineral-and-metal-processing/CA)**

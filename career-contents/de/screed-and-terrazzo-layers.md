@@ -53,8 +53,6 @@ Responsible for laying indoor floor screed and terrazzo flooring, including subs
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mortar and terrazzo laying is labor-intensive; threat from AI automation is low, but digital design, material optimization, and robotic-assisted construction may partially replace traditional processes while enhancing precision and efficiency—a mixed outcome.
-
 Can advance to foreman (Vorarbeiter) or site manager (Polier), or through further training become a state-certified technician (Staatlich geprüfter Techniker) or self-employed.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to foreman (Vorarbeiter) or site manager (Polier), or through furthe
 | Subclass Chancenkarte (Opportunity Card) | Job search card based on a points system, allowing one year to look for work in Germany |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With ongoing demand for building renovations and energy-efficient retrofits, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/screed-and-terrazzo-layers/DE)**

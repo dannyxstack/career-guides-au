@@ -52,8 +52,6 @@ Social workers in New Zealand provide assessment, intervention, and support for 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on social workers is mainly augmentation rather than replacement, but entry-level positions face compression from automated administrative tasks; core human skills (empathy, crisis judgment) remain irreplaceable, and demand continues to grow with policy support.
-
 Entry-level social workers usually work as caseworkers or community support; with experience, can advance to senior social worker, team leader, or clinical specialist. Some move into policy or management roles, requiring additional education or certification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level social workers usually work as caseworkers or community support; wit
 | Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | Social workers are on Tier 1 list; with recognized qualification + registration + job, can directly apply for residence. |
 | Subclass AEWV (Accredited Employer Work Visa) | After obtaining AEWV employer offer, can work and gain experience, preparing for Green List T1 or SMC |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires NZQA assessment of qualifications, meeting English requirements (IEL
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-worker/NZ)**

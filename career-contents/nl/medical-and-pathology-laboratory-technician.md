@@ -51,8 +51,6 @@ In the Netherlands, medical and pathology laboratory technicians perform diagnos
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 Can advance from junior technician to senior technician, laboratory supervisor, or specialist area expert through continuing education and professional certification.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can advance from junior technician to senior technician, laboratory supervisor, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled non-EU employees, employer-sponsored, requiring a salary threshold (2024: approx. €5,331/month). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, salary threshold approx. €5,900/month (2024), can bring family members |
-| Subclass Orientation Year (zo (Orientation Year) | Graduates in the Netherlands or from globally renowned universities can apply for a 1-year job-seeking visa, then switch to a work visa after finding a job |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Must complete a recognized MBO or HBO education and register with BIG (if wor
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-pathology-laboratory-technician/NL)**

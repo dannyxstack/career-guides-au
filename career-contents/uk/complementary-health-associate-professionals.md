@@ -52,8 +52,6 @@ Complementary health associate professionals use non-mainstream treatment method
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
-
 Career development paths include: from assistant to senior therapist, specializing in specific therapies (e.g., acupuncture, osteopathy), or opening a private practice. Some may advance to health management consultants or trainers.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development paths include: from assistant to senior therapist, specializi
 | Subclass Global Talent (Global Talent visa) | Experts with outstanding achievements or potential in the field of alternative medicine |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2-3 years after graduation to gain experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, this occupation is in shortage, making employer sponsorship relatively e
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/complementary-health-associate-professionals/UK)**

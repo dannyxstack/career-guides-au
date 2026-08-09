@@ -52,8 +52,6 @@ Electrical engineers in New Zealand design and manage power systems, renewable e
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI mainly enhances design simulation and documentation generation rather than replacing core engineering judgement; electrical engineers see strong demand due to energy transition, with their role amplified by AI rather than compressed.
-
 Junior engineers can advance to senior engineer or project manager, or specialize in new energy, smart grids, or industrial automation. Chartered Professional Engineer (CPEng) and Engineering New Zealand membership are beneficial for promotion and salary increase.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior engineers can advance to senior engineer or project manager, or specializ
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, with points for qualifications, income, and registered engineer status, meeting conditions allows residency application. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, applicable to applicants who have found a job with an accredited employer, with a pathway to residence after working. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but obtaining CPEng will significantly enhance job opportuniti
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/NZ)**

@@ -1,10 +1,8 @@
 # 飞机维修技师（Aircraft Maintenance Technician）职业分析 · 韩国
 
-**职业代码: 81211 (KECO)**
+**职业代码：81211 (KECO)**
 
-Aircraft maintenance technicians are skilled professionals who inspect, maintain, and repair aircraft airframes, engines, and electronic/electrical systems to ensure flight safety.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+飞机维修技术员是检查、维护和修理飞机机体、发动机及电子/电气系统以确保飞行安全的熟练专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ Aircraft maintenance technicians are skilled professionals who inspect, maintain
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (2~3 years) in Aircraft Maintenance | 2~3 年 | $8,000,000~$15,000,000（Based on tuition, public/private university） |
-| Aircraft Maintenance Engineer License | 2~3 年 | $5,000,000~$10,000,000（Including academy & exam fees） |
+| 飞机维修副学士学位（2~3年） | 2~3 年 | $8,000,000~$15,000,000（按学费、公立/私立大学区分） |
+| 飞机维修工程师执照 | 2~3 年 | $5,000,000~$10,000,000（含学院及考试费用） |
 
 ---
 
@@ -22,18 +20,18 @@ Aircraft maintenance technicians are skilled professionals who inspect, maintain
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Aircraft Maintenance Engineer License (Type 1/2) | Ministry of Land, Infrastructure and Transport | 必备 | Mandatory. Available in areas: airframe, engine, avionics, electrical, etc. |
-| 飞机发动机机械师 | Human Resources Development Service of Korea | 可选 | Optional, bonus points |
-| FAA A&P License (USA) | Federal Aviation Administration | 可选 | Advantageous for overseas MRO employment |
+| 飞机维修工程师执照（1/2类） | 国土交通省 | 必备 | 必需。领域包括：机身、发动机、航空电子、电气等。 |
+| 飞机发动机机械师 | 韩国人力资源开发服务局 | 可选 | 可选，加分项 |
+| FAA A&P执照（美国） | Federal Aviation Administration | 可选 | 有利于海外MRO就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. Employment is stable due to increasing domestic air demand and replacement of aging aircraft, but new hires are expected to rise slightly, mainly for experienced positions.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。因国内航空需求增长和飞机更新换代，就业稳定，但新聘人数略增，主要为有经验岗位。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,92 +39,84 @@ Aircraft maintenance technicians are skilled professionals who inspect, maintain
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $35,000,000~$45,000,000 | Based on airline regular employee, including bonuses |
-| Mid-level (4~7 years) | $50,000,000~$65,000,000 | Varies by license type |
-| 高级（8年+） | $70,000,000~$95,000,000 | Senior/Manager level |
+| 入门级（0~3年） | $35,000,000~$45,000,000 | 基于航空公司正式员工，含奖金 |
+| 中级（4~7年） | $50,000,000~$65,000,000 | 因执照类型而异 |
+| 高级（8年+） | $70,000,000~$95,000,000 | 高级/经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation support maintenance diagnosis, parts management, and predictive maintenance, but humans are essential for actual disassembly, assembly, and repair. Therefore, complete replacement is impossible, and AI is used as a support tool to improve work efficiency.
+AI和自动化支持维护诊断、零件管理和预测性维护，但实际拆卸、组装和维修仍需人类。因此完全替代不可能，AI作为提高工作效率的支持工具。
 
-Career progression: Junior Technician → Intermediate Technician (Type 1/2 License) → Senior Technician (Type 3+) → Team Leader/Manager or Technical Specialist at airlines/MRO companies.
+职业发展：初级技术员→中级技术员（1/2类执照）→高级技术员（3类以上）→团队主管/经理或航空/MRO公司技术专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple routine inspection records and paperwork
-- Basic calculation of part replacement intervals
+- 简单的例行巡检记录和文书工作
+- 备件更换间隔的基本计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis and cause analysis
-- Maintenance prediction and parts inventory optimization
-- Preventive maintenance through flight data analysis
+- 故障诊断与原因分析
+- 维护预测与备件库存优化
+- 通过飞行数据分析进行预防性维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive hands-on experience with actual aircraft
-- Complex problem-solving ability for unexpected defects
-- Human judgment bearing safety responsibility
+- 对实际飞机的直观动手经验
+- 处理意外缺陷的复杂问题解决能力
+- 人类判断承担安全责任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to operate AI-based maintenance diagnostic systems
-- Data analysis (maintenance history, sensor data)
-- Understanding of complex systems (electronics, electricity, mechanics)
+- 操作基于人工智能的维护诊断系统的能力
+- 数据分析（维护历史、传感器数据）
+- 对复杂系统（电子、电力、机械）的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Promotion of the aviation MRO industry
-- Advent of UAM (Urban Air Mobility)
-- Expansion of LCCs
-- Demand for military aircraft maintenance
+- 航空MRO行业推广
+- UAM（城市空中交通）的到来
+- 低成本航空公司扩张
+- 军用飞机维护需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled technicians in aircraft maintenance; employer must apply |
-| Subclass F-2 (Residence) | Convertible to points-based system after long-term E-7 stay; precursor to permanent residence |
-| Subclass F-5 (Permanent Residence) | Obtainable upon meeting certain conditions; advantageous for long-term settlement |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person who enjoys mechanical disassembly/assembly and is meticulous
-- A person who can tolerate night, weekend, and shift work
-- A personality with strong responsibility and strict adherence to safety regulations
+- 喜欢机械拆卸/组装且细致的人
+- 能够忍受夜班、周末和轮班工作的人
+- 责任心强且严格遵守安全规定的人格特质
 
 **谁不适合**
-- A person who easily gets bored with repetitive tasks
-- A person who is afraid of working at heights or in confined spaces
+- 容易对重复性任务感到厌倦的人
+- 害怕在高处或密闭空间工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an aircraft maintenance technician?**
-答：Approximately 35–45 million KRW for entry-level; 70 million KRW or more for senior technicians with 8+ years of experience.
+**问：飞机维修技术员的平均年薪是多少？**
+答：初级约3500–4500万韩元；资深技术员（8年以上经验）7000万韩元以上。
 
-**问：Can foreigners work as aircraft maintenance technicians on an E-7 visa?**
-答：It is possible. An aircraft maintenance engineer license and certain experience are required, and the employer can apply for an E-7 visa.
+**问：外国人能否持E-7签证担任飞机维修技师？**
+答：有可能。需要飞机维修工程师执照和一定经验，雇主可申请E-7签证。
 
-**问：How long does it usually take to obtain an aircraft maintenance engineer license?**
-答：It takes at least 5-6 years: 2-3 years of college program plus practical experience (usually 3 years) to obtain the license.
+**问：获得飞机维修工程师执照通常需要多长时间？**
+答：至少需要5-6年：2-3年大专课程加实践经验（通常3年）才能获得执照。
 
 
 ---
@@ -144,12 +134,12 @@ Career progression: Junior Technician → Intermediate Technician (Type 1/2 Lice
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/aircraft-maintenance-technician/KR)**

@@ -1,10 +1,8 @@
 # 乐器制造师与调律师（Musical Instrument Maker and Tuner）职业分析 · 韩国
 
-**职业代码: 88511 (KECO)**
+**职业代码：88511 (KECO)**
 
-They repair, tune, manufacture, and assemble various instruments such as pianos, guitars, and violins, requiring traditional craftsmanship and precise pitch perception.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+他们修理、调音、制造和组装各种乐器（如钢琴、吉他、小提琴），需要传统工艺和精准音高感知。
 
 
 ---
@@ -13,9 +11,9 @@ They repair, tune, manufacture, and assemble various instruments such as pianos,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Musical Instrument Manufacturing) | 2 年 | $5,000,000~$10,000,000（Public university rates; private is higher） |
-| Private Vocational Training (Instrument Making/Tuning) | 6 months | $2,000,000~$5,000,000（Short-term course; additional costs vary by skill level） |
-| MOEL Training Program (Government-funded) | 1年 | $0~$500,000（Only actual expenses via the National Tomorrow Learning Card） |
+| 学院（乐器制造） | 2 年 | $5,000,000~$10,000,000（公立大学费用；私立更高） |
+| 职业培训（乐器制造/调音） | 6个月 | $2,000,000~$5,000,000（短期课程；额外费用因技能水平而异） |
+| 雇佣劳动部培训计划（政府资助） | 1年 | $0~$500,000（仅通过国家明日学习卡的实际费用） |
 
 ---
 
@@ -23,19 +21,19 @@ They repair, tune, manufacture, and assemble various instruments such as pianos,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Engineer Piano Tuning | Human Resources Development Service of Korea | 必备 | Essential certification for tuners |
-| Industrial Engineer General Machinery | Human Resources Development Service of Korea | 可选 | Related to instrument manufacturing machinery; optional |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Safety management in manufacturing processes; optional |
-| Craftsman Instrument Making | Human Resources Development Service of Korea | 可选 | Official certification in instrument manufacturing |
+| 工业工程师钢琴调音 | 韩国人力资源开发服务局 | 必备 | 调音师必备证书 |
+| 工业工程师通用机械 | 韩国人力资源开发服务局 | 可选 | 与仪器制造机械相关；可选 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 制造过程中的安全管理；可选 |
+| 工匠乐器制造 | 韩国人力资源开发服务局 | 可选 | 仪器制造官方认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,500. Demand for high-end instruments remains steady, but employment is expected to stagnate or slightly decline due to a shrinking traditional craft workforce and the rise of digital instruments.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,500。高端仪器需求稳定，但因传统工艺人才减少和数字乐器兴起，就业预计停滞或略降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -43,92 +41,84 @@ They repair, tune, manufacture, and assemble various instruments such as pianos,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$28,000,000 | Based on SME standards, including probation |
-| Intermediate (4-10 years) | $30,000,000~$45,000,000 | Varies by skill level |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | May be higher for masters or workshop owners |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 基于中小企业标准，包括试用期 |
+| 中级（4-10年） | $30,000,000~$45,000,000 | 因技能水平而异 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 硕士或作坊主可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Relatively less affected by AI and automation. Precision manual work and musical ear required for tuning/repair are hard to fully replace by AI, but digital instrument adoption and some automated equipment may reduce demand for traditional instrument manufacturing.
+相对较少受人工智能和自动化影响。调音/维修所需的精密手工工作和音乐听觉很难被AI完全取代，但数字乐器的普及和某些自动化设备可能会减少对传统乐器制造的需求。
 
-Skilled workers can advance from craftsman to master craftsman, often start small workshops, and rarely work for large corporations.
+熟练工人可从工匠晋升为大师工匠，通常创办小型作坊，很少受雇于大公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Assembly process for mass-produced instruments
-- Simple pitch adjustment using basic tuning programs
+- 批量生产仪器的组装工艺
+- 使用基本调音程序进行简单的音高调整
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improved precision through collaboration with digital tuning equipment
-- AI-based diagnosis and prediction of instrument condition
+- 通过与数字调音设备合作提高精度
+- 基于AI的仪器状态诊断和预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Fine adjustment based on human hearing and touch
-- Deep understanding of traditional craftsmanship
-- Personalized service and trust relationships
+- 基于人耳和触觉的精细调整
+- 对传统工艺的深刻理解
+- 个性化服务与信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Precision manual skills
-- Musical knowledge and ear
-- Customer Communication and Marketing
-- Utilizing Assistive Tools like Digital Tuners
+- 精密手工技能
+- 音乐知识与听力
+- 客户沟通与营销
+- 使用数字调音器等辅助工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional instruments
-- Handcrafted instruments
-- Tuning services
-- Restoration techniques
+- 传统乐器
+- 手工制作乐器
+- 调谐服务
+- 修复技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for musical instrument manufacturing/tuning professionals; employer recommendation required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents may freely engage |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans may also work in tuning/manufacturing |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity and auditory sense
-- People with patience for handcraft work
-- Someone who can combine traditional skills with creativity
+- 手巧且听觉敏锐的人
+- 有耐心从事手工艺活的人
+- 能将传统技能与创造力结合的人才
 
 **谁不适合**
-- Someone who prefers mass production and repetitive tasks
-- Someone who expects rapid income growth
+- 偏好大规模生产和重复性工作的人
+- 期望收入快速增长的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a musical instrument maker?**
-答：Entry-level annual salary is around 22-28 million KRW, increasing with experience and skill.
+**问：乐器制造师的起薪是多少？**
+答：入门年薪约2200-2800万韩元，随着经验和技能提高。
 
-**问：Can foreigners work in musical instrument manufacturing under a visa?**
-答：Possible with an E-7 visa, but requires relevant professional qualifications and employer recommendation; F-2 or F-4 visa holders have more freedom.
+**问：外国人能否持签证在乐器制造业工作？**
+答：E-7签证可行，但需相关专业资格和雇主推荐；F-2或F-4签证持有者更自由。
 
-**问：What qualifications are needed to become a piano tuner?**
-答：A Piano Tuning Technician certificate is required, administered by the Human Resources Development Service of Korea.
+**问：成为钢琴调音师需要哪些资格？**
+答：需要钢琴调律技师证书，由韩国人力资源开发服务处颁发。
 
 
 ---
@@ -146,12 +136,12 @@ Skilled workers can advance from craftsman to master craftsman, often start smal
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/musical-instrument-maker-and-tuner/KR)**

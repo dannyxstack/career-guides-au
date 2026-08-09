@@ -51,8 +51,6 @@ Operate furnaces, mills and other equipment to process metal ore or scrap into p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The tasks of a metal processing plant operator are highly structured, with a moderately high risk of automation, but equipment maintenance and anomaly handling still require human judgment; while AI/robots enhance efficiency, entry-level positions may be reduced due to automation, requiring skill upgrading to avoid replacement.
-
 Progress from operator to production line supervisor or quality control technician by gaining experience and obtaining relevant certifications. Transition to maintenance or process optimization roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from operator to production line supervisor or quality control technici
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers with an annual salary of at least €33,000, requiring relevant qualifications or 5 years of experience. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Does not match current occupation; metal operator is not on the shortage list. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to production line supervisor, quality control technician, or pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-processing-plant-operator/IE)**

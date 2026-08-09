@@ -52,8 +52,6 @@ Metallurgical and mining technicians are responsible for supervising and optimiz
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of metallurgical and materials engineers is mixed in terms of automation: some tasks like data analysis and material screening are enhanced by AI, but experiments, field operations, and high-risk decisions still require human experience, with an overall manageable impact.
-
 Typically, you start as a field operator or junior technician, and after gaining experience, you can be promoted to senior technician, production supervisor, or quality control manager. Further studies in engineering can lead to engineering positions. Some enter consulting or equipment sales fields.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Typically, you start as a field operator or junior technician, and after gaining
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employee)) | A job contract provided by a Spanish company must prove that the position cannot be filled by a local resident, suitable for experienced technicians. |
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled technicians (bachelor's degree or above), with a relatively high salary threshold (about €33,600 per year), but the process is relatively fast. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly educated or high-income individuals, the procedures are simplified, making it suitable for applicants with engineering backgrounds. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: There is stable demand, but limited by the scale of Spanish mining. Green tra
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallurgy-and-mining-technicians/ES)**

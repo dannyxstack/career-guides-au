@@ -4,8 +4,6 @@
 
 Social mediators promote community harmony, resolve interpersonal conflicts, assist vulnerable groups in integrating into society, and improve residents' quality of life.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Social mediators promote community harmony, resolve interpersonal conflicts, ass
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core human skills (empathy, mediation) of social mediation and life coordinators are less affected by AI, but administrative tasks such as recording, reporting, and information retrieval are easily automated, with overall risk moderate.
-
 Frontline mediators can be promoted to project coordinator, community manager, or move into more specialized fields such as public policy or social work.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Frontline mediators can be promoted to project coordinator, community manager, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain an employer's employment contract, meet salary requirements, and pass the Labor Bureau's review |
-| Subclass Passeport Talent (Talent Passport) | Suitable for applicants with a master's degree or extensive experience, employer commitment is required |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: This occupation is not on the shortage occupation list, making visa sponsorsh
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-mediation-and-community-life-facilitation/FR)**

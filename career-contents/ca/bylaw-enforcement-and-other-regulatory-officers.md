@@ -52,8 +52,6 @@ Enforce local regulations and provincial laws, such as parking, pets, property s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Documentation and monitoring tasks for regulatory enforcement officers will be significantly replaced by AI, but on-site enforcement discretion, interpersonal communication, and legal interpretation skills remain core moats; overall risks and opportunities coexist.
-
 Usually start as enforcement assistant or inspector, can advance to senior enforcement officer, regulatory manager, or policy advisor.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as enforcement assistant or inspector, can advance to senior enfor
 | Subclass PNP (Provincial Nominee Program) | Some provinces list this occupation as in shortage, eligible for immigration through Provincial Nominee |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, but this is not a common pathway for non-permanent residents. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation falls under NOC TEER 2 and can be applied for through Federal
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bylaw-enforcement-and-other-regulatory-officers/CA)**

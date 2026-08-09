@@ -54,8 +54,6 @@ Writers and copywriters create literary works, technical documents, advertising 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI writing tools (e.g., ChatGPT) can efficiently generate press releases, ad copy, technical documents, significantly impacting entry-level writers and low-cost content producers, but pure literary creation remains limited by emotional depth and artistic originality.
-
 Career paths usually start from junior copywriter or assistant editor, progressing to senior writer, editor, or content manager after gaining experience. Some writers move into publishing management, literary agency, or cross-media adaptation. Successful authors can earn high income through royalties.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career paths usually start from junior copywriter or assistant editor, progressi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Writer is not a regulated occupation in Germany; no mandatory license is requ
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/author-and-writer/DE)**

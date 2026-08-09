@@ -53,8 +53,6 @@ Project Engineers handle technical coordination, schedule management and quality
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Core responsibilities of a project engineer (coordination, decision-making, on-site problem diagnosis) are difficult to replace by AI, but AI will deeply optimize document generation, conflict detection, and resource scheduling. The occupation overall shows AI amplification, but entry-level positions may shrink due to automation.
-
 BIM platforms, project management software (Procore/Aconex), and digital site technologies are transforming traditional project delivery. PMP or CPM certification combined with an engineering degree has become the standard pathway to project manager roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ BIM platforms, project management software (Procore/Aconex), and digital site te
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination, open across multiple states |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: It is one of the highest-volume engineering roles in Australia, with Seek con
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-engineer/AU)**

@@ -53,8 +53,6 @@ Proofreaders read manuscripts or layout proofs, check and mark grammar, typesett
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Proofreaders face significant risk of replacement by AI tools (e.g., grammar checkers, auto-proofreading software), entry-level demand shrinks, but advanced proofreading still requires human judgment of context and stylistic consistency.
-
 Junior proofreaders can advance to senior proofreader, editor, or content manager, also can build experience through freelancing.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior proofreaders can advance to senior proofreader, editor, or content manage
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Proofreaders are not considered professional occupations; H-1B visa approval 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/proofreaders-and-copy-markers/US)**

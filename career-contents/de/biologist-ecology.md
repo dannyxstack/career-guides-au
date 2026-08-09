@@ -54,8 +54,6 @@ Ecological biologists study ecosystems, biodiversity, and environmental changes,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
-
 Starting as a research assistant or junior environmental consultant, you can advance to project leader or department head. Further study (PhD) can lead to positions as a university professor or senior researcher.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a research assistant or junior environmental consultant, you can adv
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable for jobs matching your qualifications, requires employer sponsorship |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months of job seeking in Germany; proof of financial means required. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a recognized bachelor's degree in Germany, German B2 or above (some 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologist-ecology/DE)**

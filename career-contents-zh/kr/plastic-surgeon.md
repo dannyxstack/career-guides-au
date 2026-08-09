@@ -1,10 +1,8 @@
-# Plastic Surgeon 职业分析 · 韩国
+# 整形外科医生（Plastic Surgeon）职业分析 · 韩国
 
-**职业代码: 30113 (KECO)**
+**职业代码：30113 (KECO)**
 
-A doctor who performs surgical and non-surgical procedures to improve patients' appearance, specializing in cosmetic and reconstructive surgery.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+进行外科和非外科手术以改善患者外观的医生，专攻美容和重建外科。
 
 
 ---
@@ -13,9 +11,9 @@ A doctor who performs surgical and non-surgical procedures to improve patients' 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School | 6年 | $40,000,000~$60,000,000（Annual tuition at national universities） |
-| 实习 | 1年 | $0~$0（Salary received） |
-| Residency | 4年 | $0~$0（Salary received） |
+| 医学院 | 6年 | $40,000,000~$60,000,000（国立大学年学费） |
+| 实习 | 1年 | $0~$0（实得工资） |
+| 居住权 | 4年 | $0~$0（实得工资） |
 
 ---
 
@@ -23,17 +21,17 @@ A doctor who performs surgical and non-surgical procedures to improve patients' 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Plastic Surgeon Specialist | Korean Medical Association | 必备 | Required Certification |
-| 行医执照 | Ministry of Health and Welfare | 必备 | Pass national exam after medical school graduation |
+| 整形外科专家 | 韩国医学会 | 必备 | 所需认证 |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后通过国家考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,200. Demand is steady due to aging and increased interest in appearance, but employment growth is limited by physician supply policies and intense competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,200。由于人口老龄化和对外貌关注度增加，需求稳定，但就业增长受医师供应政策和激烈竞争限制。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,92 +39,85 @@ A doctor who performs surgical and non-surgical procedures to improve patients' 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $80,000,000~$99,999,999 | Based on salaried doctor, varies by private practice |
-| Mid-level (4-10 years) | $99,999,999 | Varies by experience and pay |
-| 资深（10年以上） | $99,999,999 | Based on private practice owner, including professors at large hospitals |
+| 入门级（0-3年） | $80,000,000~$99,999,999 | 基于受薪医生，因私人执业而异 |
+| 中级（4-10年） | $99,999,999 | 因经验和薪酬而异 |
+| 资深（10年以上） | $99,999,999 | 基于私人诊所所有者，包括大型医院教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in diagnostic image analysis, surgical planning, etc., but actual surgery and patient consultations require the high-level judgment and skill of human doctors, making complete replacement difficult.
+AI可辅助诊断图像分析、手术规划等，但实际手术和患者咨询需要人类医生的高水平判断和技能，因此完全替代困难。
 
-After graduating from medical school, complete internship and residency to obtain plastic surgery specialist certification, then open a clinic or work at a hospital; with experience, can become a department head at a large hospital or open a private practice.
+医学院毕业后，完成实习和住院医师培训，获得整形外科专科认证，然后开设诊所或在医院工作；有经验后可成为大型医院科室主任或开设私人诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- basic diagnostic image reading
-- preoperative planning simulation
-- patient data recording and analysis
+- 基础诊断图像阅读
+- 术前规划模拟
+- 患者数据记录与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- surgical plan optimization
-- patient consultation using 3D simulation
-- real-time intraoperative image guidance
+- 手术方案优化
+- 使用3D模拟进行患者咨询
+- 实时术中图像引导
 
-**人类护城河:**
+**人类护城河：**
 
-- surgical technique and experience
-- building trust with patients
-- aesthetic sense and creative judgment
+- 手术技术和经验
+- 与患者建立信任
+- 审美感和创意判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ability to use AI diagnostic tools
-- data analysis and interpretation
-- patient communication and counseling skills
+- 使用AI诊断工具的能力
+- 数据分析与解读
+- 患者沟通和咨询技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- cosmetic surgery
-- reconstructive surgery
-- non-surgical procedures
-- recovery after COVID-19
+- 整容手术
+- 重建手术
+- 非手术程序
+- COVID-19后的复苏
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (specific activities) | Issuable to specialists in specific fields with foreign medical licenses but practically very limited |
-| Subclass F-2 (residence) | Pre-permanent residency stage; permits physician employment; requires Korean medical license |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with high concentration and delicate hand skills
-- Someone with stamina to stand for long hours and stress management ability
-- Someone with patient communication and aesthetic sense
+- 需要高度专注和精细手部技能的人
+- 能长时间站立并有压力管理能力的人
+- 需要耐心沟通和审美感的人
 
 **谁不适合**
-- Someone averse to blood or surgical scenes
-- Someone who struggles with irregular lifestyle and high work intensity
+- 不适应血迹或手术场景的人
+- 不适应不规律生活方式和高工作强度的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a plastic surgeon?**
-答：For employed physicians, junior (0-3 years) approx. 80 million to 120 million KRW; up to 500 million KRW or more with experience; income varies greatly when opening a private practice.
+**问：整形外科医生的平均年薪是多少？**
+答：受雇医生：初级（0-3年）约8000万至1.2亿韩元；有经验者最高可达5亿韩元或更多；开设私人诊所时收入差异很大。
 
-**问：Can foreigners work as plastic surgeons in Korea?**
-答：Obtaining a Korean medical license is mandatory; foreign medical licenses allow limited issuance via E-7 visa, but practically very difficult.
+**问：外国人可以在韩国当整形外科医生吗？**
+答：必须获得韩国行医执照；外国行医执照可通过E-7签证有限发放，但实际非常困难。
 
-**问：How do I become a plastic surgeon?**
-答：After graduating from medical school, passing the national medical exam, completing one year of internship and four years of residency in plastic surgery, you must pass the board exam to become a specialist.
+**问：如何成为整形外科医生？**
+答：医学院毕业后，通过国家医学考试，完成一年实习和四年整形外科住院医师培训，必须通过专科委员会考试才能成为专科医生。
 
 
 ---
@@ -144,12 +135,12 @@ After graduating from medical school, complete internship and residency to obtai
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plastic-surgeon/KR)**

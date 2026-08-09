@@ -51,8 +51,6 @@ Assist professionals such as social workers and psychologists in welfare applica
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Entry-level assistants can advance to case manager or social services coordinator through on-the-job training and experience. Some pursue a Master of Social Work to become licensed social workers, significantly increasing salary.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level assistants can advance to case manager or social services coordinato
 | Subclass H-1B (H-1B Specialty Occupation) | Commonly required for positions needing a bachelor's degree, but social service assistants usually do not meet professional role requirements, and H-1B approvals are rare. |
 | Subclass EB-3 (EB-3 Skilled Worker/Professional) | PERM labor certification required, suitable for applicants with a bachelor's degree or 2+ years of experience, but employer sponsorship is moderately difficult. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common path: social service assistant → case manager → social service pro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-and-human-service-assistants/US)**

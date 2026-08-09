@@ -4,8 +4,6 @@
 
 A professional who plans the concept of an advertisement, directs the overall filming, and completes the final video. Collaborates with a creative director to oversee ad production.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A professional who plans the concept of an advertisement, directs the overall fi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is replacing some tasks such as storyboard generation and automated editing, but concept planning and creative decisions remain a uniquely human domain. Thus, some job aspects are enhanced while others are reduced, resulting in a mixed impact.
-
 Typically starts as an assistant director or PD, builds experience, and is promoted to advertising video director. May work as a freelancer or become a permanent director at a major production company.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically starts as an assistant director or PD, builds experience, and is promo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in advertising/video, but applies the principle of preferential hiring for Koreans |
-| Subclass D-10 (D-10 (Job Seeking)) | Issued to those majoring in video, convertible to E-7 after job-seeking activities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: While planning and editing tasks will be partially automated, creative direct
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-video-director/KR)**

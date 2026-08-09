@@ -58,8 +58,6 @@ A Scaffolder is responsible for erecting and dismantling various types of tempor
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Scaffolders are relatively less affected by AI overall, but design planning may be optimized; on-site physical work and safety judgment remain core, with stable demand.
-
 Adjustable modular scaffolding systems improve efficiency, but erection and dismantling still rely on manual labour. Demand surges periodically for industrial shutdown and maintenance projects, with steady demand from mining and refining.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Adjustable modular scaffolding systems improve efficiency, but erection and dism
 | Subclass 190 (Skilled Nominated) | State nomination permanent residency, +5 points |
 | Subclass 491 (Skilled Work Regional) | Regional nomination, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Both have similar PR pathways and comparable salaries. Rebar worker positions
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/scaffolder/AU)**

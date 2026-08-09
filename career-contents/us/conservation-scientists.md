@@ -52,8 +52,6 @@ Conservation scientists manage, improve, and protect natural resources to maximi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Entry-level roles (e.g., field technician) can advance to project lead or regional manager, requiring 5-10 years experience. Can transition to policy-making, environmental consulting, or academic research. Federal agencies (e.g., NRCS) and large environmental organizations offer clear career ladders.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level roles (e.g., field technician) can advance to project lead or region
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or bachelor's + 5 years experience, PERM labor certification, long waiting period |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Mandatory step for EB-2/EB-3 green cards, proving no qualified US workers are available |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Outlook stable, driven by climate change and sustainability policies. Federal
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conservation-scientists/US)**

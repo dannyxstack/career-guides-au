@@ -51,8 +51,6 @@ Policy analysts research, develop, and evaluate policies in New Zealand governme
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on policy analyst roles is mixed: data collection and reporting will be automated, but policy interpretation, stakeholder coordination, and strategic advice still require human judgement, with increased competition for entry-level positions.
-
 Junior policy analysts can advance to senior analyst, policy advisor, or team leader. Experienced individuals can move into management roles such as policy manager or policy director. Some pursue master's or doctoral degrees for specialized research roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior policy analysts can advance to senior analyst, policy advisor, or team le
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, scoring based on age, qualifications, work experience, etc. Under the current 6-point system, need 6 points (e.g., master's degree + 3 years work experience). |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires job offer from an accredited employer, and salary at or above median wage |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Typically a bachelor's degree in public policy, political science, economics,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-analyst/NZ)**

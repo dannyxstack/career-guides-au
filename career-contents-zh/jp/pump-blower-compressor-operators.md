@@ -1,10 +1,8 @@
-# Pump, Blower, Compressor Operators 职业分析 · 日本
+# 泵、鼓风机、压缩机操作员（Pump, Blower, Compressor Operators）职业分析 · 日本
 
-**职业代码: 644 (JSCO)**
+**职业代码：644 (JSCO)**
 
-Operate and monitor pumps, blowers, and compressors that transfer liquids and gases in factories and plants.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在工厂和车间操作和监控用于输送液体和气体的泵、鼓风机和压缩机。
 
 
 ---
@@ -13,8 +11,8 @@ Operate and monitor pumps, blowers, and compressors that transfer liquids and ga
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$300,000（At public high schools） |
-| Vocational School (Mechanical) | 2 年 | $1,000,000~$2,000,000（Tuition estimate） |
+| 高中 | 3年 | $0~$300,000（在公立高中） |
+| 职业学校（机械） | 2 年 | $1,000,000~$2,000,000（学费估算） |
 
 ---
 
@@ -22,18 +20,18 @@ Operate and monitor pumps, blowers, and compressors that transfer liquids and ga
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hazardous Materials Handler (Class B) | Fire and Disaster Management Agency | 可选 | Advantageous in chemical plants |
-| Boiler Engineer | Ministry of Health, Labour and Welfare | 可选 | Effective for operating related equipment |
-| Specific Chemical Substance Work Supervisor | Ministry of Health, Labour and Welfare | 可选 | Required in some workplaces |
+| 危险品处理员（B级） | 消防与灾害管理局 | 可选 | 在化工厂具有优势 |
+| 锅炉工程师 | 厚生劳动省 | 可选 | 对操作相关设备有效 |
+| 特定化学物质作业主管 | 厚生劳动省 | 可选 | 部分工作场所要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 18,000. As manufacturing automation advances, there is steady demand for equipment maintenance and monitoring, but new hiring is limited. Stable in energy and chemical sectors.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 18,000。随着制造业自动化推进，设备维护和监控需求稳定，但新招聘有限。能源和化工行业稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,89 +39,82 @@ Operate and monitor pumps, blowers, and compressors that transfer liquids and ga
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | 含加班收入 |
-| Intermediate (4–10 years) | $4,000,000~$5,500,000 | Night shifts may apply |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 含加班收入 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 可能需要夜班 |
 | 资深（10年以上） | $5,000,000~$7,000,000 | 含管理岗位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation will replace some monitoring and operation tasks, but fully unmanned operation is difficult, and human maintenance and anomaly response will remain.
+AI和自动化将取代部分监控和操作任务，但完全无人化运营困难，人工维护和异常响应仍将存在。
 
-After joining, gain experience as a field operator and advance to chief or equipment management roles. Career advancement possible by obtaining relevant certifications.
+入职后，作为现场操作员积累经验，晋升为组长或设备管理岗位。通过获得相关认证可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine monitoring
-- Simple valve operation
-- Recording tasks
+- 常规监控
+- 简单阀门操作
+- 记录任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Anomaly prediction
-- Optimal operation control
-- Maintenance planning
+- 异常预测
+- 最优操作控制
+- 维护规划
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site spatial awareness
-- Emergency judgment
-- Equipment inspection using the five senses
+- 现场空间感知能力
+- 紧急判断
+- 五感设备检查
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Mechanical maintenance
-- Data analysis
-- PLC control basics
+- 机械维修
+- 数据分析
+- PLC控制基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Plant
-- Energy
-- Chemical plant
-- Equipment maintenance
+- 工厂
+- 能源
+- 化工厂
+- 设备维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires expertise in mechanical engineering, etc. Practical experience acceptable. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Fields: molding, industrial machinery, electrical/electronic info-related manufacturing |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who enjoy operating machinery
-- Those available for night shifts / rotating shifts
-- Those with a sense of responsibility
+- 喜欢操作机械的人
+- 可以上夜班/轮班者
+- 有责任心的人
 
 **谁不适合**
-- Those who dislike monotonous tasks
-- Those who prefer desk work
+- 不喜欢单调任务的人
+- 偏好办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary?**
-答：First year: 3-4 million JPY, with experience: 5-7 million JPY.
+**问：年薪是多少？**
+答：第一年：300-400万日元，有经验：500-700万日元。
 
-**问：What visa is needed for foreigners to work?**
-答：Engineer/Specialist in Humanities/International Services visa or Specified Skilled Worker (i) (manufacturing sector).
+**问：外国人工作需要什么签证？**
+答：人文/国际服务领域的工程师/专家签证或特定技能工人(i)（制造业）。
 
 
 ---
@@ -141,12 +132,12 @@ After joining, gain experience as a field operator and advance to chief or equip
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pump-blower-compressor-operators/JP)**

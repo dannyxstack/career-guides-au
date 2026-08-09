@@ -55,8 +55,6 @@ Responsible for overall vineyard management, including planting, pruning, pest c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Grape-growing supervisors and managers face a mixed impact from AI: data-driven decision-making is enhanced, but outdoor physical judgment tasks are hard to replace; entry-level jobs are narrowing due to automation tools, but demand for experienced managers remains stable.
-
 Career progression includes advancing from vineyard supervisor to regional manager or winery operations director. You can also become a viticulture consultant or own a vineyard through further study. Dual-system university studies can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression includes advancing from vineyard supervisor to regional manag
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to professionals with recognized qualifications (Anerkennung), allowing them to work in related occupations. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based jobseeker visa for Germany, allowing job search, requiring language, age, and other conditions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance from vineyard supervisor to regional manager, winery operations d
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-viticulture/DE)**

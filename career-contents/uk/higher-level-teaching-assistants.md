@@ -52,8 +52,6 @@ Senior teaching assistants assist teachers in classroom instruction, independent
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of senior teaching assistants is amplified by AI, especially in personalized learning and administrative efficiency, but emotional care and special education support remain human strongholds.
-
 Can progress from junior teaching assistant to senior teaching assistant, then to teaching coordinator, special education coordinator, or school management. Some pursue teacher certification to become qualified teachers.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from junior teaching assistant to senior teaching assistant, then t
 | Subclass Health & Care (Health and Care Worker visa) | If working in a special education school and related to health care, may be applicable |
 | Subclass Youth Mobility (Youth Mobility Scheme) | Citizens of specific countries aged 18-30 can apply, allowing work in the UK for 2 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can advance to teaching coordinator, special education coordinator, or pursue
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/higher-level-teaching-assistants/UK)**

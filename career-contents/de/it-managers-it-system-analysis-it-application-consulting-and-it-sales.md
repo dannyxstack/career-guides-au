@@ -52,8 +52,6 @@ Responsible for leading IT system analysis, application consulting, and sales te
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of IT project managers (communication, decision-making, stakeholder management) are hard to replace by AI, but AI tools significantly boost efficiency in execution tasks like progress tracking, document generation, and risk prediction, potentially reducing demand for junior PM roles while senior roles require AI tool proficiency.
-
 Can progress from small team supervisor to department manager, IT director, or even Chief Information Officer (CIO). Lateral moves can also lead to product management, business development, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from small team supervisor to department manager, IT director, or e
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to applicants with recognized university degrees who need to obtain a German company work contract. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa for potential applicants to seek employment in Germany, requiring certain conditions (e.g., education, language, work experience). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior IT manager, IT director, or Chief Information Officer (
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-managers-it-system-analysis-it-application-consulting-and-it-sales/DE)**

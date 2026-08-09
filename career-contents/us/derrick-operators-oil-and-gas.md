@@ -52,8 +52,6 @@ Responsible for operating rig equipment and pumping mud or fluids into boreholes
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Oil rig operators are highly dependent on physical site operations and emergency response. Current AI has limited substitution for core drilling tasks, but automated monitoring systems will compress support roles, making overall risk moderately high.
-
 Start as a junior operator, can advance to senior derrick operator or drilling team leader, then to drilling supervisor or oilfield manager. With experience, may also move into equipment maintenance or training roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior operator, can advance to senior derrick operator or drilling t
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Apply for employment-based green card through PERM labor certification, for skilled workers. |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | The first step for an employer to sponsor a foreign worker for a green card, proving no qualified US workers are available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires only a high school diploma or equivalent. Most skills are ac
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/derrick-operators-oil-and-gas/US)**

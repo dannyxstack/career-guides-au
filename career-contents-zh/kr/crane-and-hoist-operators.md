@@ -1,8 +1,8 @@
-# Crane and Hoist Operators 职业分析 · 韩国
+# 起重机与升降机操作员（Crane and Hoist Operators）职业分析 · 韩国
 
-**职业代码: 62301 (KECO)**
+**职业代码：62301 (KECO)**
 
-Equipment operation specialists who control cranes or hoists to lift and move heavy objects at construction sites or factories.
+在建筑工地或工厂操作起重机或卷扬机以提升和移动重物的设备操作专家。
 
 
 ---
@@ -12,8 +12,8 @@ Equipment operation specialists who control cranes or hoists to lift and move he
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育免费） |
-| Junior college (2-year) construction equipment department | 2 年 | $4,000,000~$8,000,000（Tuition and practical training fees） |
-| Polytechnic college heavy equipment operation course | 1年 | $1,000,000~$3,000,000（Government funding available） |
+| 大专（2年）建筑工程设备专业 | 2 年 | $4,000,000~$8,000,000（学费和实践培训费） |
+| 理工学院重型设备操作课程 | 1年 | $1,000,000~$3,000,000（可申请政府资助） |
 
 ---
 
@@ -21,18 +21,18 @@ Equipment operation specialists who control cranes or hoists to lift and move he
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tower Crane Operator | Human Resources Development Service of Korea | 必备 | Required for tower crane operation |
-| Construction Machinery Operator License (Crane) | City/Province Governor | 必备 | License required |
-| Mobile Crane Operator | Human Resources Development Service of Korea | 可选 | Required for large mobile crane operation |
+| 塔式起重机操作员 | 韩国人力资源开发服务局 | 必备 | 塔式起重机操作所需 |
+| 建筑机械操作员执照（起重机） | 市/道知事 | 必备 | 需要执照 |
+| 移动式起重机操作员 | 韩国人力资源开发服务局 | 可选 | 大型移动式起重机操作必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 52,000. Employment remains proportional to Korea's construction and manufacturing demand, but some tasks may be replaced by automation.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 52,000。就业与韩国的建筑和制造业需求保持比例，但部分任务可能被自动化取代。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +40,84 @@ Equipment operation specialists who control cranes or hoists to lift and move he
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Construction site base salary |
-| 中级 (4-7年) | $38,000,000~$48,000,000 | Rises with skill level |
-| Advanced (8+ years) | $50,000,000~$70,000,000 | Includes large crane operation and site management |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 建筑工地基本工资 |
+| 中级 (4-7年) | $38,000,000~$48,000,000 | 随技能水平提高 |
+| 高级（8年以上） | $50,000,000~$70,000,000 | 包括大型起重机操作和现场管理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI assists in some aspects of crane operation (route optimization, monitoring), but human roles such as on-site judgment and safety management are essential. Full automation is still far in the future.
+AI在起重机操作的某些方面（如路线优化、监控）提供辅助，但人工现场判断和安全管理的角色不可或缺。完全自动化仍遥不可及。
 
-Starting at entry level, one can advance to operate large cranes after obtaining certification, or become a site manager.
+从入门级开始，经过认证后可操作大型起重机，或成为现场经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized loading/unloading operations
-- Simple repetitive lifting
+- 标准化装卸作业
+- 简单重复性搬运
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Safety monitoring
-- Route planning
-- Remote control
+- 安全监控
+- 路线规划
+- 远程控制
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site hazard judgment
-- Handling atypical situations
-- Tower crane assembly/disassembly
+- 现场危险判断
+- 处理异常情况
+- 塔式起重机拆装
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Remote control technology
-- Understanding of smart construction systems
-- AI-based Safety Diagnosis
+- 远程控制技术
+- 智能施工系统理解
+- 基于AI的安全诊断
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Tower crane
-- Construction equipment operation
-- Heavy equipment license
-- Manufacturing logistics
+- 塔式起重机
+- 建筑设备操作
+- 重型设备执照
+- 制造物流
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Can assist in crane operations at construction sites as non-professional foreign worker, with restrictions |
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled crane operators, requires certification and experience |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage, allows long-term stay |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, no employment restrictions |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and highly focused individuals
-- Those unafraid of working at heights
-- Those interested in machine operation
+- 细致入微且高度专注的人
+- 不惧高空作业的人
+- 对机器操作感兴趣者
 
 **谁不适合**
-- People with severe acrophobia
-- People who prefer regular working hours
+- 患有严重恐高症的人
+- 偏好固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a crane operator?**
-答：Experienced operators with around 10 years of experience earn 50-70 million KRW annually, while beginners earn 28-35 million KRW.
+**问：起重机操作员的平均工资是多少？**
+答：经验丰富的操作员（约10年经验）年薪5000-7000万韩元，初学者年薪2800-3500万韩元。
 
-**问：What visa does a foreigner need to work as a crane operator?**
-答：Skilled workers can apply for an E-7 visa, while beginners can start with auxiliary tasks on an E-9 visa.
+**问：外国人从事起重机操作需要什么签证？**
+答：熟练工人可申请E-7签证，初学者可从E-9签证的辅助工作开始。
 
-**问：Can women become crane operators?**
-答：Yes, they can. Precision operation is more important than physical strength, and the number of female operators is increasing.
+**问：女性可以成为起重机操作员吗？**
+答：是的，可以。精密操作比体力更重要，女性操作员数量在增加。
 
 
 ---
@@ -143,12 +135,12 @@ Starting at entry level, one can advance to operate large cranes after obtaining
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/crane-and-hoist-operators/KR)**

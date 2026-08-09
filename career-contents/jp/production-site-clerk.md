@@ -4,8 +4,6 @@
 
 A role responsible for clerical tasks at factory production sites, such as material procurement, inventory management, process control, and attendance management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A role responsible for clerical tasks at factory production sites, such as mater
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of production site clerical staff is susceptible to automation by production management systems, RPA, and AI. Routine tasks such as inventory management and data entry are increasingly automated, but on-site coordination and handling abnormalities remain human roles.
-
 Career advancement is possible with production management system operation skills and site understanding. Future promotion to production management or quality management positions is possible.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Career advancement is possible with production management system operation skill
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For clerical roles, a university degree or 10+ years of practical experience is required. Production site clerical work may qualify by job type, but actual application is limited. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | In the three manufacturing fields (metal materials, industrial machinery, electrical/electronic information), clerical work alone is excluded. It may qualify when combined with site work. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: For the Engineer/Specialist in Humanities/International Services visa, a univ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-site-clerk/JP)**

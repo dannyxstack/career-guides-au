@@ -51,8 +51,6 @@ Call centre customer service officers answer and respond to customer calls, prov
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Due to the proliferation of intelligent voice assistants and chatbots, a large number of simple repetitive tasks in call center customer service roles have been automated, significantly reducing demand, but complex complaints and emotional communication still require humans.
-
 Can progress from entry-level customer service to senior customer service, team leader, operations manager, or move into quality assurance, training, and other roles, with a clear career development path.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from entry-level customer service to senior customer service, team 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, this occupation is on the skilled work visa occupation list, but must me
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/call-and-contact-centre-occupations/UK)**

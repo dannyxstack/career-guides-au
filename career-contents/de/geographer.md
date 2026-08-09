@@ -51,8 +51,6 @@ Geographers study the natural features, human phenomena, and spatial relationshi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Geographer's task structure is being reshaped by AI: data analysis and map production are highly automated, but field surveys and policy advice rely on human judgment. Entry-level competition intensifies, requiring GIS and remote sensing skills while strengthening human-machine collaboration.
-
 Career path: Junior Analyst/Assistant → Professional Geographer/Project Manager → Senior Expert/Department Head. Can transition to GIS specialist, remote sensing analyst, or academic research through continuing education. Some enter management consulting or public policy.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path: Junior Analyst/Assistant → Professional Geographer/Project Manage
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to skilled migrants with recognized German qualifications; requires employer sponsorship; no mandatory salary requirement but must be reasonable. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment; must provide proof of financial means; degree must be recognized in Germany. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Eligible through EU Blue Card (annual salary ≥ €43,800) or skilled migrat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geographer/DE)**

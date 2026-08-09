@@ -52,8 +52,6 @@ Hotel managers oversee overall hotel operations. Strong recovery of New Zealand'
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Progress from junior supervisor to department manager to hotel general manager, requiring experience in daily operations, client relations, and financial management; large hotel chains offer cross-brand promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from junior supervisor to department manager to hotel general manager, 
 | Subclass SMC (Skilled Migrant Category (6-point system)) | Score based on qualifications, registered salary, etc., requires job offer with salary not below median |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by accredited employer, up to 3 years; suitable for gaining experience before switching to other pathways |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Tourism recovery drives demand for hotel jobs; annual growth of about 3% in r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-or-motel-manager/NZ)**

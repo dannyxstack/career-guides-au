@@ -51,8 +51,6 @@ Metal moulders and coremakers are responsible for creating sand moulds and cores
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on metal mold makers and core makers is mixed: automation is gradually taking over mold design optimization and process monitoring, but core skills like manual mold making and quality control still rely on human experience; opportunities lie in AI-assisted efficiency and precision, but low-end jobs may decrease.
-
 Can progress from apprentice to skilled worker, then to foundry supervisor or process engineer; some may start small-scale foundries.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from apprentice to skilled worker, then to foundry supervisor or pr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to skilled workers meeting the salary threshold, requiring employer sponsorship. |
-| Subclass Orientation Year (Zo (Orientation Year) | Allows international graduates who studied in the Netherlands to look for work within one year. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens with a minimum salary requirement. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Mold makers can advance from operator positions to supervisors or process eng
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-moulder-and-coremaker/NL)**

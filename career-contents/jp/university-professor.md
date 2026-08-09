@@ -4,8 +4,6 @@
 
 Engage in education and research in specialized fields at a university, including student guidance and academic activities. A doctoral degree is standard, and many positions are fixed-term.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Engage in education and research in specialized fields at a university, includin
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used in research data analysis and paper writing assistance, but it is hard to replace the essence of education and research. Notably, its impact is limited in areas requiring human relationships and creativity.
-
 Promotion from Assistant Professor → Lecturer → Associate Professor → Professor. Research achievements and teaching ability are evaluated. The review process is strict, and obtaining tenure is a key goal.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Promotion from Assistant Professor → Lecturer → Associate Professor → Prof
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 教授 (Professor Visa) | Residence status for university faculty. Allows long-term stay. Also eligible for permanent residence application. |
-| Subclass 高度専門職1号(ハ) (Highly Skilled Professional Visa) | Points-based system based on research achievements and annual income. Preferential treatment for permanent residency available. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | For some assistants and researchers. Obtainable if academic activities are recognized. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Yes. The Highly Skilled Professional visa has a points system that may allow 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-professor/JP)**

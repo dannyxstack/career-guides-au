@@ -51,8 +51,6 @@ This occupation includes laborers who assist skilled workers with basic tasks, s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The jobs of installation, maintenance, and repair workers' assistants are mixed in AI impact: simple tool preparation and cleaning tasks are easily automated, but complex fault diagnosis and on-site adjustments rely on human experience and are hard to replace in the short term.
-
 Entry-level positions, usually no experience required. After gaining experience, can advance to skilled trades in specific industries (e.g., carpentry, electrician assistant), or become a skilled tradesperson through apprenticeship programs. Some may advance to foreman or supervisor roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level positions, usually no experience required. After gaining experience,
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Alberta) list this occupation as in-demand, eligible for provincial nomination |
 | Subclass Express Entry (Federal Skilled Worker / Canadian Experience Class) | Usually not directly applicable, but after accumulating Canadian experience with an LMIA work visa, you can apply through CEC. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: The labor market remains in high demand, especially in construction; however,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-trades-helpers-and-labourers/CA)**

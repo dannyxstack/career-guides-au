@@ -55,8 +55,6 @@ Civil engineers plan, design and supervise the construction of roads, bridges, t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
-
 Green Infrastructure and civil construction supporting renewable energy (solar and wind farm civil works) are the fastest-growing sub-sectors from 2025 to 2030. BIM (Building Information Modelling) skills command a significant salary premium.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Green Infrastructure and civil construction supporting renewable energy (solar a
 | Subclass 190 (Skilled Nominated) | State nomination, with QLD/SA/WA offering numerous infrastructure projects |
 | Subclass 491 (Skilled Work Regional) | Remote area engineering projects, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Civil engineers have a larger job market (Seek ~3,000+ vs. mechanical ~1,500)
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineer/AU)**

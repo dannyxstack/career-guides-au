@@ -4,8 +4,6 @@
 
 Responsible for sorting, processing, and delivering mail, ensuring letters and parcels reach recipients on time. Work is typically carried out in postal sorting centres or outdoor delivery routes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for sorting, processing, and delivering mail, ensuring letters and p
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mail delivery and sorting face high automation risk; intelligent sorting systems, unmanned delivery vehicles, and digital communication will significantly reduce labor demand, with entry-level positions notably decreasing.
-
 Starting as a sorter, you can progress to delivery officer, then to team supervisor or postal operations manager. A few move to logistics company delivery management roles.
 
 **Tasks most exposed to AI:**
@@ -96,16 +92,9 @@ Starting as a sorter, you can progress to delivery officer, then to team supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi (Decreto Flussi Work Visa) | Italy's annual quota work visa, available for non-EU citizens, requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Aimed at highly skilled workers, but this occupation's salary typically does not meet the threshold. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: Typically requires a work visa through the Decreto Flussi quota, sponsored by
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mail-carrier-and-sorting-clerk/IT)**

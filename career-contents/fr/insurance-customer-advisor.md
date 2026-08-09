@@ -53,8 +53,6 @@ Provides clients with insurance product consulting, contract management, claims 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance insurance client advisors' consultation, data processing, and client management capabilities, but may also replace some standardized tasks, such as simple policy queries and renewal reminders. Overall, the content of the position has been upgraded, but entry-level positions may become narrower.
-
 Employees can be promoted from junior consultant to senior consultant, team leader, or branch manager. Some have turned to underwriting, claims experts, or insurance brokers, requiring ongoing learning about products and regulations.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Employees can be promoted from junior consultant to senior consultant, team lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed work residence requires employer sponsorship, and the employment contract complies with French labor law. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent Passport, suitable for high-skilled or management positions, requiring an annual salary of about 40,000 euros or more. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires university degree and high salary (approx. €53,000+ in 2025). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: ORIAS registration is mandatory. It is recommended to have a BTS Assurance or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-customer-advisor/FR)**

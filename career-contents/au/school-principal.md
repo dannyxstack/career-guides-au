@@ -52,8 +52,6 @@ The principal is responsible for overall school management, including curriculum
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Typically starts as a teacher, advances to vice principal to gain management experience, and eventually becomes principal; can also move to education administration or regional director roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically starts as a teacher, advances to vice principal to gain management exp
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transfer to 186 permanent residency after 3-4 years of work. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires employer nomination. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually obtain an education degree and become a registered teacher, accumulat
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-principal/AU)**

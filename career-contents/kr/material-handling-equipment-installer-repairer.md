@@ -4,8 +4,6 @@
 
 A technical role that installs, inspects, and repairs material handling equipment such as forklifts and conveyors; key workforce in logistics and warehouse industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A technical role that installs, inspects, and repairs material handling equipmen
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation enhance diagnosis and predictive maintenance of logistics equipment, but on-site installation and complex repairs still rely on human roles, increasing the value of highly skilled maintenance personnel with advanced technical expertise.
-
 Starting as a junior repairer, you can advance to lead, supervisor, or technical team leader with experience; some move to logistics centers of large corporations or equipment manufacturers.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a junior repairer, you can advance to lead, supervisor, or technical
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when experienced foreign repairers are employed by domestic companies; requires experience and certifications |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Partially allowed in manufacturing/logistics, but mechanical maintenance is limited |
-| Subclass F-2 (Residence) | Convertible to points-based system after residence period, for skilled workers |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: High school diploma or above; completing a 1-year course at Korea Polytechnic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/material-handling-equipment-installer-repairer/KR)**

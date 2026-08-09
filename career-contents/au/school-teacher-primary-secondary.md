@@ -55,8 +55,6 @@ Primary and Secondary School Teachers educate students in public and private sch
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 Australia is experiencing its most severe teacher shortage since the 1970s. State governments have significantly increased teacher salaries (NSW saw an approximately 4% rise in 2024) and are actively recruiting teachers from overseas. Digital teaching tools and AI-assisted instruction are becoming standard in classrooms, but the core role of the teacher remains irreplaceable.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australia is experiencing its most severe teacher shortage since the 1970s. Stat
 | Subclass 190 (Skilled Nominated) | State nomination, pathways available in all states, STEM teachers prioritised |
 | Subclass 491 (Skilled Work Regional) | Extreme shortage in remote-area schools; adds 15 points; actively nominated by multiple states |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both are MLTSSL shortage occupations with well-established migration pathways
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-teacher-primary-secondary/AU)**

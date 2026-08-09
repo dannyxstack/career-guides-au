@@ -4,8 +4,6 @@
 
 Pattern makers for textile and leather goods create samples based on design drawings, which are used for mass production of clothing, bags, footwear, and other products. CAD software or manual cutting techniques are required to ensure precise patterns, standardized sizes, and participate in the stacking and material layout work.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Pattern makers for textile and leather goods create samples based on design draw
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Junior pattern makers can be promoted to senior pattern makers or layout room supervisors through accumulated experience; After mastering CAD/CAM technology, you may have the opportunity to enter design and R&D departments; Experienced personnel can become technical consultants or self-operated pattern making studios.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Junior pattern makers can be promoted to senior pattern makers or layout room su
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employed work residence requiring employer sponsorship, suitable for pattern makers already employed by Spanish companies |
-| Subclass Busqueda empleo (Job Search Visa) | Job seeker visa, allowing you to stay in Spain for 6 months to look for work, but this occupation is not in short supply and has a lower success rate |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Typically, you need to complete an FP Grado Superior (2 years) or a universit
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pattern-maker-for-textile-and-leather-products/ES)**

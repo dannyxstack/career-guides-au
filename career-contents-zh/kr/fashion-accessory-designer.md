@@ -1,10 +1,8 @@
-# Fashion Accessory Designer 职业分析 · 韩国
+# 时尚配饰设计师（Fashion Accessory Designer）职业分析 · 韩国
 
-**职业代码: 41522 (KECO)**
+**职业代码：41522 (KECO)**
 
-A fashion accessory designer is a professional who designs and develops fashion accessories such as bags, shoes, hats, and jewelry, handling the entire process from trend analysis to sample production.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+时尚配饰设计师是设计和开发包、鞋、帽、珠宝等时尚配饰的专业人士，处理从趋势分析到样品制作的整个过程。
 
 
 ---
@@ -13,8 +11,8 @@ A fashion accessory designer is a professional who designs and develops fashion 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Fashion Design) | 2 年 | $12,000,000~$16,000,000（Based on national/public, private up to 2x） |
-| University (Clothing & Textiles) | 4年 | $20,000,000~$40,000,000（Private university tuition cap） |
+| 大学（时装设计） | 2 年 | $12,000,000~$16,000,000（基于国家/公共，私立最高2倍） |
+| 大学（服装与纺织） | 4年 | $20,000,000~$40,000,000（私立大学学费上限） |
 
 ---
 
@@ -22,17 +20,17 @@ A fashion accessory designer is a professional who designs and develops fashion 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Colorist Engineer | Human Resources Development Service of Korea | 可选 | — |
-| Fashion Design Engineer | Human Resources Development Service of Korea | 可选 | — |
+| 调色工程师 | 韩国人力资源开发服务局 | 可选 | — |
+| 时尚设计工程师 | 韩国人力资源开发服务局 | 可选 | — |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. The Korean fashion industry continues to grow, but employment growth is expected to be moderate due to saturation of the domestic market and intensifying competition from foreign brands. Demand for small brands is increasing with the expansion of online distribution.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。韩国时尚产业持续增长，但由于国内市场饱和及外国品牌竞争加剧，就业增长预计将放缓。随着线上分销的扩大，小众品牌需求增加。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A fashion accessory designer is a professional who designs and develops fashion 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$32,000,000 | Based on SMEs |
-| 中级 (4-7年) | $35,000,000~$48,000,000 | Large corporations and famous brands |
-| Advanced (8+ years) | $50,000,000~$70,000,000 | Design team leader level |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 基于中小企业 |
+| 中级 (4-7年) | $35,000,000~$48,000,000 | 大型企业和知名品牌 |
+| 高级（8年以上） | $50,000,000~$70,000,000 | 设计团队负责人级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-While AI increases efficiency in fashion trend analysis, pattern generation, and sampling, creative design and aesthetic judgment remain human domains. Full replacement is difficult, but some repetitive tasks can be automated.
+虽然AI在时尚趋势分析、图案生成和打样方面提高了效率，但创意设计和审美判断仍然是人类领域。完全替代很难，但一些重复性任务可以自动化。
 
-Careers typically start at small design studios or fashion companies, with advancement to senior designer after 3-5 years, then to design team leader or brand creative director. Freelance entrepreneurship is also common.
+职业生涯通常从小型设计工作室或时装公司开始，3-5年后晋升高级设计师，再到设计团队负责人或品牌创意总监。自由职业创业也常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic pattern making
-- Simple sample modification
-- Trend research data collection
+- 基本打版
+- 简单样品修改
+- 趋势研究数据收集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- 3D virtual sampling
-- Custom design generation
-- Consumer preference analysis
+- 3D虚拟打样
+- 自定义设计生成
+- 消费者偏好分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Original design sense
-- Brand storytelling
-- Handcraft skills
+- 原创设计感
+- 品牌故事讲述
+- 手工艺技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D design software
-- Data analysis
-- Sustainable materials knowledge
+- 3D设计软件
+- 数据分析
+- 可持续材料知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fashion accessories
-- Eco-friendly materials
-- Online brands
-- Hallyu (K-fashion)
+- 时尚配饰
+- 环保材料
+- 线上品牌
+- 韩流（K-fashion）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to work as professional in fashion design, but must meet degree and experience requirements |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work in design fields |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative person sensitive to fashion trends
+- 对时尚潮流敏感的创意人士
 - 细心且注重细节的人
-- Person with strong teamwork and communication skills
+- 具备强大团队合作与沟通能力者
 
 **谁不适合**
-- Person who prefers repetitive tasks
-- Person vulnerable to rapid change and stress
+- 喜欢重复性任务的人
+- 对快速变化和压力敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a fashion accessory designer?**
-答：Entry-level 24-32 million KRW, mid-level 35-48 million KRW, senior 50-70 million KRW. Freelance varies widely.
+**问：时尚配饰设计师的平均薪资是多少？**
+答：入门级2400-3200万韩元，中级3500-4800万韩元，高级5000-7000万韩元。自由职业差异很大。
 
-**问：What visa do foreigners need to work as a fashion accessory designer in Korea?**
-答：E-7 visa (Specific Activities) is typical, requiring a related degree or 5+ years experience. F-2 or F-4 holders can work without additional permits.
+**问：外国人在韩国从事时尚配饰设计师工作需要什么签证？**
+答：通常需要E-7签证（特定活动），要求相关学位或5年以上经验。F-2或F-4签证持有者无需额外许可即可工作。
 
-**问：What education or certifications are needed for this job?**
-答：A fashion-related degree from a vocational college or higher is advantageous but not legally required. Certifications like Colorist Engineer or Fashion Design Industrial Engineer can help.
+**问：这份工作需要什么教育或认证？**
+答：职业院校或以上的时尚相关学位有利但非法律要求。色彩工程师或时尚设计工业工程师等认证有帮助。
 
 
 ---
@@ -143,12 +134,12 @@ Careers typically start at small design studios or fashion companies, with advan
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fashion-accessory-designer/KR)**

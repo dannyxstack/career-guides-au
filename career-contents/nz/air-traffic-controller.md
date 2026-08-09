@@ -51,8 +51,6 @@ Air traffic controllers monitor aircraft takeoffs, landings, and routes in tower
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Typically progresses from junior to intermediate/senior controller, can specialise in approach, en-route, or tower control, and move into management or training roles. Requires continuous licence renewal and simulation training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically progresses from junior to intermediate/senior controller, can speciali
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: can apply with work experience and salary, but the Green List direct pathway is more efficient. |
 | Subclass AEWV (Accredited Employer Work Visa) | Certified Employer Work Visa: suitable for entering the country for training or work first, with employers such as Airways being certified companies. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Main employer is Airways New Zealand (national airspace services provider), w
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/NZ)**

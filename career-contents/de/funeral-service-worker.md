@@ -54,8 +54,6 @@ Funeral workers handle deceased bodies, arrange funerals, provide bereavement su
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on the funeral industry is complex: digital scheduling, paperwork, and initial consultations can be automated, but core tasks like body handling and emotional support rely heavily on humans; overall partial substitution and enhancement coexist.
-
 Career progression: Starting as an apprentice (Auszubildender), can advance to funeral technician (Bestatter), then to funeral consultant or manager, or start your own funeral home. Some may transition to grief counseling or funeral management training.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Starting as an apprentice (Auszubildender), can advance to f
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | If you complete a recognized vocational training in Germany (requires Anerkennung), you can get a work visa with no salary threshold requirement. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows highly educated individuals (degree or vocational training) to stay in Germany for 6 months to look for work. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can start as an apprentice to become a funeral technician; with experience, c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-service-worker/DE)**

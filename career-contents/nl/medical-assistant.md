@@ -4,8 +4,6 @@
 
 Medical assistants in the Dutch healthcare system assist doctors and nurses with clinical and administrative tasks, serving as key members of the primary care team.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Medical assistants in the Dutch healthcare system assist doctors and nurses with
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical assistant jobs in the Netherlands have mixed prospects: AI will take over many administrative and simple clinical tasks (e.g., appointment management, data entry), but interpersonal communication and complex clinical judgment remain irreplaceable; in fact, the demand for high-quality human care may increase as AI improves efficiency.
-
 Medical assistants can advance to become nurse practitioners or healthcare management specialists through experience, some transitioning to specialist medical assistants or moving into healthcare management.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Medical assistants can advance to become nurse practitioners or healthcare manag
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled occupations such as medical assistants, requires employer sponsorship, salary meets threshold requirements |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled workers, requiring a higher education degree and meeting annual salary thresholds. |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed their studies in the Netherlands, allowing one year to find a job |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Can further study to become a registered nurse, medical administration specia
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-assistant/NL)**

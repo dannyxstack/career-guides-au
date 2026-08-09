@@ -55,8 +55,6 @@ In Canada, beef cattle farm workers correspond to NOC 84120, responsible for cat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly change the way livestock farm supervisors and specialist livestock workers work, but will not completely replace them; repetitive monitoring tasks will be taken over, while complex decisions and animal care still require human judgment.
-
 Junior workers can advance to farm supervisor or ranch manager, or move into meat processing or agricultural equipment operation. With experience, they can apply for permanent residency and run a small farm.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior workers can advance to farm supervisor or ranch manager, or move into mea
 | Subclass PNP (Provincial Nominee Program) | e.g., Alberta and Saskatchewan provincial nominations, requiring employer sponsorship, some provinces open to low-skilled workers |
 | Subclass TFWP (Temporary Foreign Worker Program) | After the employer obtains LMIA, you can apply for a 2-year closed work permit, with the possibility of transitioning to permanent residence later. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Entry-level positions are competitive due to low barriers and many seasonal w
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-service-contractors-farm-supervisors-and-specialized-livestock-workers-84120/CA)**

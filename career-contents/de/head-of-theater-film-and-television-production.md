@@ -53,8 +53,6 @@ Responsible for overseeing the entire process of theater, film, or TV production
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on theatre, film, and TV production managers is mixed: data analysis, scheduling, and budget optimization in production management will be automated, but core skills like creative decision-making, personnel coordination, and crisis handling are hard to replace. Roles may shift toward technology-enhanced managers.
-
 Career progression path: start as a production assistant or coordinator, gain experience to become a production manager or executive producer, and eventually reach production director or company partner.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression path: start as a production assistant or coordinator, gain ex
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those with recognized professional qualifications or degrees, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows staying in Germany to look for work for one year, suitable for those with potential. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, you can progress from production assistant to production manager, execut
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-theater-film-and-television-production/DE)**

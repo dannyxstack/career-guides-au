@@ -55,8 +55,6 @@ Procurement managers are responsible for developing procurement strategies, eval
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
-
 Government Procurement is the highest-paying specialisation for procurement managers in Australia, with strong demand for professionals skilled in Commonwealth AusTender compliance. ESG procurement (ethical supply chains + carbon footprint tracking) is a newly mandated compliance requirement being rolled out across major ASX-listed companies.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Government Procurement is the highest-paying specialisation for procurement mana
 | Subclass 190 (Skilled Nominated) | State nomination pathway via ACT (Canberra, with a concentration of federal government roles) |
 | Subclass 491 (Skilled Work Regional) | Remote area government procurement role, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Procurement managers earn higher salaries (Glassdoor $147k vs supply chain ma
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/procurement-manager/AU)**

@@ -1,8 +1,8 @@
-# Agricultural, Forestry and Fishery Testing Officer 职业分析 · 韩国
+# 农、林、渔业检测官（Agricultural, Forestry and Fishery Testing Officer）职业分析 · 韩国
 
-**职业代码: 12231 (KECO)**
+**职业代码：12231 (KECO)**
 
-A professional research position that conducts quality inspection and test analysis of crops, forest products, and marine products, responsible for quality management and R&D in the agricultural, forestry, and fishery sectors.
+从事农产品、林产品和海产品质检和测试分析的专业研究职位，负责农林渔业质量管理和研发。
 
 
 ---
@@ -11,8 +11,8 @@ A professional research position that conducts quality inspection and test analy
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Agriculture, Fisheries, or Forestry related) | 2 年 | $4,000,000~$8,000,000（Tuition approximately 4~5 million KRW per year at national/public universities, 6~8 million KRW at private universities） |
-| Bachelor's degree (Agriculture, Fisheries, Forestry, etc.) | 4年 | $4,000,000~$9,000,000（Tuition 4~6 million KRW per year at national/public universities, 6~9 million KRW at private universities） |
+| 副学士学位（农业、渔业或林业相关） | 2 年 | $4,000,000~$8,000,000（公立大学年学费约400~500万韩元，私立大学约600~800万韩元） |
+| 学士学位（农业、渔业、林业等） | 4年 | $4,000,000~$9,000,000（国立/公立大学每年学费400~600万韩元，私立大学600~900万韩元） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional research position that conducts quality inspection and test analy
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food (Agricultural Product) Processing Technician | Human Resources Development Service of Korea | 可选 | May be acquired when senior experts are needed, not mandatory |
-| 农业工程师 | Human Resources Development Service of Korea | 可选 | Advantageous for testing officers in agriculture |
-| Aquaculture Engineer | Human Resources Development Service of Korea | 可选 | Advantageous when inspecting marine products |
+| 食品（农产品）加工技术员 | 韩国人力资源开发服务局 | 可选 | 在需要资深专家时可能获取，非强制 |
+| 农业工程师 | 韩国人力资源开发服务局 | 可选 | 对农业检测员有利 |
+| 水产养殖工程师 | 韩国人力资源开发服务局 | 可选 | 检查海产品时具备优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,500. Due to aging population and the spread of smart agriculture, demand for specialized personnel remains steady; however, reliance on government budgets and public institution hiring limits employment growth.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,500。由于人口老龄化和智慧农业的普及，专业人才需求稳定；但依赖政府预算和公共机构招聘限制了就业增长。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional research position that conducts quality inspection and test analy
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$35,000,000 | Based on civil service level (Grade 7-9) |
-| Mid-level (4-9 years) | $35,000,000~$48,000,000 | Average salary of regular research staff |
-| 资深（10年以上） | $48,000,000~$65,000,000 | Principal researcher or managerial position |
+| 初级 (0-3年) | $28,000,000~$35,000,000 | 基于公务员级别（7-9级） |
+| 中级（4-9年） | $35,000,000~$48,000,000 | 正式研究人员的平均工资 |
+| 资深（10年以上） | $48,000,000~$65,000,000 | 首席研究员或管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can automate some tasks like data analysis and pattern recognition, but physical and judgment-based tasks such as field sampling and sensory testing still require humans.
+AI可以自动化数据分析和模式识别等任务，但现场采样和感官测试等物理和判断性任务仍需人类。
 
-Typically, entry is through civil service or public research institution exams after college graduation, with promotion to management roles such as research lab director or department head based on experience.
+通常，大学毕业后通过公务员或公共研究机构考试进入，根据经验晋升至研究实验室主任或部门主管等管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- writing quantitative analysis result reports
-- recording simple repetitive test data
+- 撰写定量分析结果报告
+- 记录简单重复的测试数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- automating sample preprocessing
-- anomaly detection
-- statistical analysis
+- 样本预处理自动化
+- 异常检测
+- 统计分析
 
-**人类护城河:**
+**人类护城河：**
 
-- field sense
-- sensory evaluation
-- non-standard judgment
-- regulatory interpretation
+- 现场感
+- 感官评价
+- 非标准判断
+- 法规解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- data science
-- AI/machine learning basics
-- operating experimental automation equipment
+- 数据科学
+- 人工智能/机器学习基础
+- 操作实验自动化设备
 
-**主要增长方向:**
+**主要增长方向：**
 
-- smart farm
-- GMO testing
-- functional foods
-- eco-friendly certification
+- 智慧农场
+- 转基因检测
+- 功能性食品
+- 生态友好认证
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | E-7 (Specific Activities) targets foreign researchers in specialized fields and skilled workers; E-7-1 and E-7-2 are for agricultural, forestry, and fishery testers. |
-| Subclass F-2 (Residence) | F-2 (Residence) targets long-term residents; no employment restrictions |
-| Subclass E-9 (Non-professional Employment) | E-9 (Non-professional Employment) for non-professional agricultural workers; not suitable for testers but some simple inspection assistance possible |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A meticulous and patient person
-- A person with strong interest in natural sciences
-- A person who enjoys experiments and analysis work
+- 细心耐心的人
+- 对自然科学有浓厚兴趣的人
+- 喜欢实验和分析工作的人
 
 **谁不适合**
-- A person who dislikes repetitive work
-- A person who avoids outdoor activities
+- 不喜欢重复工作的人
+- 避免户外活动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an agricultural, forestry, and fishery tester?**
-答：Entry level about 28–35 million KRW; with over 10 years of experience, it can rise to 48–65 million KRW.
+**问：农林渔业测试员的平均薪资是多少？**
+答：入门级约2800-3500万韩元；10年以上经验可达4800-6500万韩元。
 
-**问：Can foreigners find employment in this occupation in Korea?**
-答：Yes. You can work as a professional researcher or skilled worker on an E-7 visa (Specific Activities), or with an F-2 residence visa.
+**问：外国人在韩国能否从事此职业？**
+答：可以。您可以通过E-7签证（特定活动）或以F-2居留签证作为专业研究人员或熟练工人工作。
 
-**问：What qualifications are needed for promotion in this job?**
-答：Promotion is mainly based on internal evaluations and research performance, and having a professional engineer certification (e.g., Food Processing Engineer) is helpful.
+**问：该职位晋升需要什么资格？**
+答：晋升主要基于内部评估和研究绩效，持有专业工程师证书（如食品加工工程师）有帮助。
 
 
 ---
@@ -142,12 +135,12 @@ Typically, entry is through civil service or public research institution exams a
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/agricultural-forestry-and-fishery-testing-officer/KR)**

@@ -4,8 +4,6 @@
 
 Responsible for audio recording, mixing, and sound design for film, television, music, radio, and live events.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for audio recording, mixing, and sound design for film, television, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially replace low-level tasks for audio engineering technicians (e.g., automated mixing, noise reduction), but core creativity, complex sound tuning and on-site adaptability remain hard to replace; the outlook for the occupation is mixed.
-
 Starting as an assistant recording engineer or sound operator, you can advance to chief sound engineer, mixing engineer, or audio director. You can also specialize in a specific field, such as movie sound effects or live audio.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Starting as an assistant recording engineer or sound operator, you can advance t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists or professionals in the cultural sector, requiring proof of outstanding talent or project contract. |
-| Subclass Salarié (Salaried Employee) | Must obtain a work contract from a French employer, meet salary requirements, and pass labor market testing. |
-| Subclass Recherche emploi (Job Search Visa) | Graduates or specific cases may apply, allowing job seeking in France. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You can specialize in film, music, or live sound, or advance to become a mixi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sound-engineer-and-sound-designer/FR)**

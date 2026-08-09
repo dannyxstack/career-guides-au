@@ -1,10 +1,8 @@
-# Management Support Manager 职业分析 · 韩国
+# 管理支持经理（Management Support Manager）职业分析 · 韩国
 
-**职业代码: 01221 (KECO)**
+**职业代码：01221 (KECO)**
 
-This is a managerial role that oversees overall business support functions such as HR, general affairs, finance, and accounting, ensuring efficient organizational operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+此管理职位监督整体业务支持职能，如人力资源、总务、财务和会计，确保组织高效运营。
 
 
 ---
@@ -13,8 +11,8 @@ This is a managerial role that oversees overall business support functions such 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year) | 4年 | $40,000,000~$80,000,000（Significant difference between national/public and private universities） |
-| College (2~3-year) | 2 年 | $20,000,000~$40,000,000（Preference for accounting/tax-related majors） |
+| 大学（4年制） | 4年 | $40,000,000~$80,000,000（国立/公立与私立大学之间存在显著差异） |
+| 大学（2~3年制） | 2 年 | $20,000,000~$40,000,000（偏好会计/税务相关专业） |
 
 ---
 
@@ -22,17 +20,17 @@ This is a managerial role that oversees overall business support functions such 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 注册会计师(CPA) | Financial Supervisory Service | 可选 | Required certification in finance/accounting |
-| Human Resources Manager (HRD) | Human Resources Development Service of Korea | 可选 | Preferred certification in HR |
+| 注册会计师(CPA) | 金融监督院 | 可选 | 金融/会计领域所需认证 |
+| 人力资源经理（HRD） | 韩国人力资源开发服务局 | 可选 | 首选人力资源认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Due to aging population and stricter regulations, the importance of management support functions is increasing, but digital transformation may automate some tasks, leading to stagnant employment growth.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于人口老龄化和更严格的法规，管理支持职能的重要性增加，但数字化转型可能自动化部分任务，导致就业增长停滞。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ This is a managerial role that oversees overall business support functions such 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $40,000,000~$55,000,000 | Large gap between large and small/medium enterprises |
-| Mid-level (5~10 years) | $60,000,000~$90,000,000 | Manager to Deputy General Manager level |
-| Senior-level (15+ years) | $99,999,999 | Department head/executive level |
+| 入门级（0~3年） | $40,000,000~$55,000,000 | 大型企业与中小企业间差距大 |
+| 中级别（5~10年） | $60,000,000~$90,000,000 | 经理至副总经理级别 |
+| 高级（15年以上） | $99,999,999 | 部门主管/高管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and RPA replace repetitive office tasks like data entry and report writing, but areas requiring human judgment such as strategic decision-making and HR management remain important.
+AI和RPA取代重复性办公室任务如数据录入和报告撰写，但需要人类判断的战略决策和人力资源管理等领域仍然重要。
 
-Starting from clerical positions, one can advance to department head and executive roles. Obtaining an MBA or professional certifications (CPA, labor attorney) is advantageous. Experience in large corporations and public institutions is common.
+从文书职位起步，可晋升至部门主管和高管职位。获得MBA或专业认证（CPA、劳动律师）有优势。常见于大型企业和公共机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Payroll calculation
-- Expense report review
-- Basic report writing
+- 工资计算
+- 费用报告审核
+- 基本报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- HR data analysis
-- Financial risk assessment
-- Strategic planning
+- 人力资源数据分析
+- 财务风险评估
+- 战略规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust and relationships within the organization
-- Complex negotiation
-- Ethical judgment
+- 组织内的信任与关系
+- 复杂谈判
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Using RPA tools
-- Understanding labor laws
+- 数据素养
+- 使用RPA工具
+- 了解劳动法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital transformation
-- HR data analysis
-- ESG management
-- Financial risk management
+- 数字化转型
+- 人力资源数据分析
+- ESG管理
+- 金融风险管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as management support professional, requires degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Convertible to points system, advantageous for long-term stay |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone systematic and analytical
-- Someone skilled in organizational communication
-- Someone interested in risk management
+- 系统且善于分析的人
+- 擅长组织沟通的人
+- 对风险管理感兴趣的人
 
 **谁不适合**
-- Someone seeking immediate results
-- Someone who dislikes repetitive office work
+- 追求立竿见影效果的人
+- 不喜欢重复性办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a management support manager?**
-答：Entry-level KRW 40-55 million, mid-level KRW 60-90 million, senior KRW 100-150 million.
+**问：管理支持经理的年薪是多少？**
+答：入门级4000-5500万韩元，中级6000-9000万韩元，高级1亿-1.5亿韩元。
 
-**问：Can foreigners get a job in Korea in this field?**
-答：Possible with an E-7 visa, but degree and experience requirements must be met, and it is practically limited.
+**问：外国人能在韩国从事该领域工作吗？**
+答：E-7签证可能可行，但必须满足学历和经验要求，且实际有限。
 
-**问：Is there a required education level?**
-答：At least an associate degree is required, and large companies prefer a bachelor's degree.
+**问：是否有学历要求？**
+答：至少需要副学士学位，大公司偏好学士学位。
 
 
 ---
@@ -143,12 +134,12 @@ Starting from clerical positions, one can advance to department head and executi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/management-support-manager/KR)**

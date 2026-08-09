@@ -54,8 +54,6 @@ Drive subway or elevated trains (non-locomotive) or electric trams, transporting
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Subway and tram driver positions face high automation risk; AI and sensor technology will gradually replace drivers, leading to significant job reduction and narrower entry opportunities.
-
 Progress from junior driver to senior driver, can move into operations management or training roles, some enter dispatch or safety management.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Progress from junior driver to senior driver, can move into operations managemen
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Usually only a high school diploma or equivalent is required, with on-the-job
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subway-and-streetcar-operators/US)**

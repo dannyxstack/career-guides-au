@@ -4,8 +4,6 @@
 
 Operate spinning and winding equipment to process fiber raw materials into yarn, responsible for machine setup, monitoring, and maintenance to ensure production quality and efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate spinning and winding equipment to process fiber raw materials into yarn,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This occupation faces a high risk of automation, with AI and advanced machinery taking over core tasks such as yarn quality monitoring and machine parameter adjustments. Entry-level positions will be significantly reduced, requiring a shift towards equipment maintenance and process optimisation.
-
 Can progress from junior operator to team leader or quality inspector, or transition to textile machinery maintenance or technician roles through training. Some experienced workers may become production supervisors.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can progress from junior operator to team leader or quality inspector, or transi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, there is an annual quota, and employer sponsorship is required. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated or experienced workers, salary expectations are high; this occupation typically does not meet requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can be promoted to team leader, quality inspector, or technician, or transiti
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fibre-preparing-spinning-and-winding-machine-operator/IT)**

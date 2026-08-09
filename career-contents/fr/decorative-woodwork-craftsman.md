@@ -51,8 +51,6 @@ Decorative carpenters are responsible for creating and installing wooden decorat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core traditional skills of decorative woodworking are hard to replace, but auxiliary tasks such as design and client communication will be compressed by AI, requiring enhanced integration of digital tools and art.
-
 Typically, you start as an apprentice at CAP or BTS, and after gaining experience, you can advance to senior craftsman or foreman, specializing in restoration, design, or starting your own studio. Some entry into heritage restoration institutions (such as Monuments Historiques) requires passing a competitive exam.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Typically, you start as an apprentice at CAP or BTS, and after gaining experienc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | Employer-sponsored work residency requires proof that the position cannot be filled by an EU citizen, and applies to decorative carpentry positions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or exceptional talent, such as those with a BTS degree or higher and salary reaching 1.5 times SMIC, can simplify the process. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search) Visa) | After graduation, you can stay in France for one year to find a job, and after finding a job matching your academic qualifications, you can exchange for a work visa. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can be promoted to foreman or project supervisor, specializing in histori
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/decorative-woodwork-craftsman/FR)**

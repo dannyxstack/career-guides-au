@@ -54,8 +54,6 @@ Graphic and multimedia designers in Ireland work in visual design, branding, dig
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Graphic and multimedia designers face a dual impact from AI: repetitive tasks like drafting and simple layouts will be automated, but core skills like creative strategy, brand narrative, and user interaction design are amplified by AI tools, requiring designers to shift to higher-value areas.
-
 Career progression can move from junior designer to senior designer, art director, or creative director. With experience, you can move into UX design or brand strategy.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression can move from junior designer to senior designer, art directo
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions, annual salary must reach €33,594 (2019 standard), requires relevant qualifications. |
 | Subclass Stamp 1G (Third Level Graduate Scheme) | Graduates can stay in Ireland for 12 months after graduation to look for work |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress from designer to senior designer, art director, or move into UX 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-and-multimedia-designer/IE)**

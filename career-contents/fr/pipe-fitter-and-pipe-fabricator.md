@@ -54,8 +54,6 @@ Responsible for cutting, bending, assembling, and welding industrial and constru
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pipeline installers and assemblers face moderate automation risks; digital modeling and automated cutting and welding will replace some tasks, but on-site flexible assembly and compliance responsibilities depend on humans, and enhanced tools can improve efficiency, which is a mixed bag.
-
 You can be promoted from apprentice to skilled worker, then to supervisor or technician. Some enter project engineering management or self-employment. Continuous certification for welding is necessary to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -102,16 +100,9 @@ You can be promoted from apprentice to skilled worker, then to supervisor or tec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | Employed work residence requires employer sponsorship and review by the French Labour Agency (France Travail), applicable to long-term contracts. |
-| Subclass Passeport Talent (Talent Passport (Passeport Talent)) | Applicable to highly skilled talent, requiring an annual salary of about 2 times the SMIC (approximately 37,000 euros), with simplified procedures. |
-| Subclass Carte bleue UE (EU Blue Card (Carte bleue européenne)) | EU Blue Card, requiring an annual salary of about 53,000 euros (2025 standard), suitable for senior welding specialists or project supervisors. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +146,12 @@ A: You must pass the French professional qualification certification (Reconnaiss
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipe-fitter-and-pipe-fabricator/FR)**

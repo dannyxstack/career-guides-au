@@ -50,8 +50,6 @@ A professional office worker responsible for establishing sales strategies, anal
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI can replace some tasks like data analysis and report writing, but human roles remain crucial for customer relationship management and strategic decision-making.
-
 Promotions typically follow the order of Assistant Manager-Manager-Deputy General Manager-General Manager, and transition to sales planning experts or marketing strategists is possible. Job switching is also easier with experience.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Promotions typically follow the order of Assistant Manager-Manager-Deputy Genera
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for employment as professional in sales/management; employer recommendation required |
-| Subclass F-2 (Residence) | Long-term stay possible under points-based permanent residence; no restrictions |
-| Subclass D-10 (Job Seeking) | Allowed for job seeking after graduation; eligible for E-7 conversion later |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: A 4-year university degree or higher is preferred; certifications in computer
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-planning-management-and-support-clerk/KR)**

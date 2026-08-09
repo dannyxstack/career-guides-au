@@ -53,8 +53,6 @@ Plan and execute entertainment activities in hotels, resorts, or cruise ships, w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of entertainment host and guest relations specialist has mixed prospects: AI can automate scheduling and FAQs, but creative performance, emotional interaction, and personalized service remain human strengths.
-
 Can advance to recreation activity supervisor or hotel guest relations manager. With experience, can transition to event planning or tourism management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance to recreation activity supervisor or hotel guest relations manager. 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can advance to entertainment activity supervisor, hotel guest relations manag
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/entertainment-animator-and-guest-relations-officer/DE)**

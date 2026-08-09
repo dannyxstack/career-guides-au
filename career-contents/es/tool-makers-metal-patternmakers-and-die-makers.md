@@ -53,8 +53,6 @@ Responsible for manufacturing, repairing, and adjusting metal molds, tools, fixt
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 You can advance from apprenticeship or intermediate FP to senior technician, production supervisor, or self-operated studio. Some shifted to CAD/CAM programming or technical sales. Continuous learning about CNC machining and 3D printing can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from apprenticeship or intermediate FP to senior technician, pro
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | You must obtain a work contract from a Spanish employer and prove that the position cannot be filled by a local resident. Suitable for long-term employment. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled talents, requiring at least 3 years of relevant experience or higher education, with an annual salary threshold of approximately 33,908 euros (2024). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For senior executives, R&D personnel, or urgently needed technical talent, the process is relatively fast and requires company guarantees. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: With increased demand for manufacturing automation and precision machining, s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-makers-metal-patternmakers-and-die-makers/ES)**

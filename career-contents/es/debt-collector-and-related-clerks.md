@@ -4,8 +4,6 @@
 
 Responsible for collecting overdue accounts, negotiating debts, and arranging repayment plans, commonly found in financial institutions, utility companies, or third-party collection agencies. Job duties include telephone collection, letter notifications, and record updates.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for collecting overdue accounts, negotiating debts, and arranging re
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly enhance collection efficiency and data-driven decision-making, but legal compliance, emotional negotiations, and complex debt restructuring still require human judgment, and practitioners must transform into AI-assisted senior negotiation experts.
-
 You can be promoted from junior collectors to collection supervisor, team manager, or move into credit control or customer service management. Some experienced individuals may enter the fields of financial compliance or risk management.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ You can be promoted from junior collectors to collection supervisor, team manage
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A job contract must be provided by a Spanish company, and the position must pass the national employment agency's labor market test (proving that local workers cannot be recruited). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Transferable roles include credit control, customer service, sales, or financ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/debt-collector-and-related-clerks/ES)**

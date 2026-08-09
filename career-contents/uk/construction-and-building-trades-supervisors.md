@@ -52,8 +52,6 @@ A construction supervisor oversees construction operations, directly manages and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Practitioners can progress from skilled tradesperson to supervisor, then to project manager or construction manager, or through professional qualifications (e.g., NVQ Level 4/6) and degrees to senior management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can progress from skilled tradesperson to supervisor, then to proj
 | Subclass Global Business Mobi (Senior or Specialist Worker visa) | Applicable to senior employees transferred within multinational corporations. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates (bachelor's degree or above) to stay and work in the UK for 2 years (3 years for PhD) after completing their studies, gaining experience but requiring subsequent employer sponsorship to switch to a skilled work visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to construction manager, project manager, contracts manager, or b
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-building-trades-supervisors/UK)**

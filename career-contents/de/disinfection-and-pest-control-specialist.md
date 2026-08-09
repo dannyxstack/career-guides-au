@@ -54,8 +54,6 @@ Responsible for disinfection, pest control and sanitation in buildings, food pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
-
 Start as an assistant or technician, can advance to team leader or regional manager. Further study can lead to pest control master (Schädlingsbekämpfer-Meister) qualification, or start own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an assistant or technician, can advance to team leader or regional mana
 | Subclass Skilled Worker (Skilled Worker (Fachkraft)) | Requires a professionally recognized qualification in Germany (e.g., dual-system certificate) to apply for a work visa; qualification recognition (Anerkennung) is necessary. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based system: new 2024 regulations allow job-seeking in Germany for 1 year without a work contract; basic conditions must be met |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can be promoted to team leader, regional manager, or obtain master (Meister) 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/disinfection-and-pest-control-specialist/DE)**

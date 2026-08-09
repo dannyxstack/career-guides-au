@@ -1,10 +1,8 @@
-# Nuclear Engineering Technologist 职业分析 · 韩国
+# 核工程技术员（Nuclear Engineering Technologist）职业分析 · 韩国
 
-**职业代码: 15516 (KECO)**
+**职业代码：15516 (KECO)**
 
-Senior engineer responsible for designing, operating, and managing safety of nuclear power plants and related facilities, including nuclear fuel cycle and radiation management.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+高级工程师，负责设计、运营和管理核电站及相关设施的安全，包括核燃料循环和辐射管理。
 
 
 ---
@@ -13,9 +11,9 @@ Senior engineer responsible for designing, operating, and managing safety of nuc
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Free Education） |
-| University (Engineering) | 4年 | $20,000,000~$60,000,000（Tuition: Public 20 million KRW, Private 45-60 million KRW/year） |
-| Graduate School (Master's) | 2 年 | $10,000,000~$30,000,000（Tuition: 10-30 million KRW/year） |
+| 高中 | 3年 | $0~$0（免费教育） |
+| 大学（工程） | 4年 | $20,000,000~$60,000,000（学费：公立2000万韩元，私立4500-6000万韩元/年） |
+| 研究生院（硕士） | 2 年 | $10,000,000~$30,000,000（学费：1000-3000万韩元/年） |
 
 ---
 
@@ -23,19 +21,19 @@ Senior engineer responsible for designing, operating, and managing safety of nuc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Radiation Handling Supervisor License | Nuclear Safety and Security Commission | 必备 | Required for nuclear safety work |
-| Nuclear Safety Education Completion | Korea Institute of Nuclear Safety | 必备 | Mandatory training |
-| Professional Engineer (Nuclear, Mechanical, Electrical, etc.) | Human Resources Development Service of Korea | 可选 | Highly scarce in the nuclear field |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for safety management roles |
+| 辐射处理主管执照 | 核安全与安保委员会 | 必备 | 核安全工作所需 |
+| 核安全教育完成 | 韩国核安全研究所 | 必备 | 强制性培训 |
+| 专业工程师（核能、机械、电气等） | 韩国人力资源开发服务局 | 可选 | 核领域非常稀缺 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 对安全管理岗位有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. South Korea has a high proportion of nuclear power generation, with projects like Shin Hanul Units 3 and 4 underway, but employment is expected to stagnate due to phasing-out policies and stricter safety regulations.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。韩国核电发电比例高，有新蔚珍3、4号机组等项目，但受淘汰政策及更严安全法规影响，就业预计停滞。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -43,96 +41,88 @@ Senior engineer responsible for designing, operating, and managing safety of nuc
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $40,000,000~$55,000,000 | Large enterprise standard |
-| Intermediate (4~9 years) | $55,000,000~$80,000,000 | 团队主管级别 |
-| Advanced (10+ years) | $80,000,000~$99,999,999 | Expert/Manager |
+| 初级（0~3 年） | $40,000,000~$55,000,000 | 大型企业标准 |
+| 中级（4~9年） | $55,000,000~$80,000,000 | 团队主管级别 |
+| 高级（10年以上） | $80,000,000~$99,999,999 | 专家/经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can replace some tasks of nuclear engineering technicians such as data analysis, anomaly detection, and simulation, but core safety judgments and regulatory responses remain human domains.
+AI可以替代核工程技术人员的数据分析、异常检测和模拟等部分任务，但核心安全判断和监管响应仍需人类。
 
-Primarily large corporations and public enterprises (KHNP, Doosan Enerbility). With experience, can advance into nuclear decommissioning, radiation management, or regulatory bodies (NSSC). Advanced degrees preferred.
+主要是大型企业和公共企业（KHNP、Doosan Enerbility）。凭借经验，可以进入核退役、辐射管理或监管机构（NSSC）。高级学位优先。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard plant performance data analysis
-- Regular safety inspection reports
-- Simple radiation level tracking
+- 标准工厂性能数据分析
+- 定期安全检查报告
+- 简单辐射水平追踪
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Reactor core simulation
-- Anomaly early warning system
-- Radiation dispersion prediction modeling
-- Automated maintenance planning
+- 反应堆堆芯模拟
+- 异常预警系统
+- 辐射扩散预测建模
+- 自动化维护计划
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding specific nuclear plant designs like VVER/APR1400
-- Safety regulatory compliance (Nuclear Safety Act)
-- Radiation Emergency Response Planning
-- Nuclear Decommissioning Field Experience
+- 了解特定核电站设计如VVER/APR1400
+- 安全法规合规（《核安全法》）
+- 辐射应急响应规划
+- 核退役现场经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Big Data Analysis (Python, R)
-- Machine Learning-Based Predictive Maintenance
-- Digital Twin Simulation
-- AI Tools for Radiation Safety Management
+- 大数据分析（Python, R）
+- 基于机器学习的预测性维护
+- 数字孪生模拟
+- 辐射安全管理的AI工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Nuclear decommissioning
-- Radiation safety
-- SMR (Small Modular Reactor)
-- Nuclear fuel
+- 核退役
+- 辐射安全
+- SMR（小型模块化反应堆）
+- 核燃料
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Skilled personnel in high-tech fields: E-7-1 (Specific Activities) possible for nuclear engineers; bachelor's + experience required |
-| Subclass E-9 (Non-professional Employment) | Not applicable; nuclear field is a professional occupation |
-| Subclass F-2 (Residence) | Point-based system; eligible for long-term stay |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Degree in nuclear/mechanical/electrical engineering; strict with safety regulations
-- Meticulous personality focused on risk management and complex systems
-- Persons who work persistently on long-term projects and comply with legal regulations
+- 核工程/机械工程/电气工程学位；严格遵守安全法规
+- 注重风险管理与复杂系统的细致性格
+- 长期坚持项目并遵守法律法规的人
 
 **谁不适合**
-- Persons who prefer creative and autonomous work
-- Persons who want a stable routine over taking risks
+- 偏好创造性、自主工作的人
+- 希望稳定而非冒险的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a nuclear engineering technician?**
-答：Entry-level 40-55 million KRW, mid-level 55-80 million KRW, senior 80-150 million KRW. Public companies like KHNP boast high pay and stability.
+**问：核工程技术员的平均年薪是多少？**
+答：入门级4000-5500万韩元，中级5500-8000万韩元，高级8000万-1.5亿韩元。像韩国水电与核电公司（KHNP）等国企薪酬高且稳定。
 
-**问：Can foreigners work as nuclear engineering technicians in Korea?**
-答：It is possible with an E-7-1 visa (Specific Activities), but international nuclear safety regulations and Korean language skills are required, and employment is difficult due to preference for locals.
+**问：外国人能在韩国担任核工程技术人员吗？**
+答：持E-7-1签证（特定活动）有可能，但需遵守国际核安全法规并具备韩语能力，且因偏好本地人而就业困难。
 
-**问：What is the outlook for nuclear engineering technicians?**
-答：Domestic nuclear plants are in maintenance and decommissioning stages, limiting new hiring. Instead, the trend is moving into nuclear decommissioning, radioactive waste management, and SMR fields.
+**问：核工程技术人员的展望如何？**
+答：国内核电站处于维护和退役阶段，限制了新招聘。相反，趋势转向核退役、放射性废物管理和SMR领域。
 
 
 ---
@@ -150,12 +140,12 @@ Primarily large corporations and public enterprises (KHNP, Doosan Enerbility). W
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nuclear-engineering-technologist/KR)**

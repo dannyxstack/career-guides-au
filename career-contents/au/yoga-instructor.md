@@ -53,8 +53,6 @@ Yoga instructors lead group or private yoga classes, covering Hatha, Vinyasa, Yi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not replace yoga instructors but will amplify their value: by generating personalized training plans, real-time pose correction, and automated client management, allowing instructors to focus more on emotional connection and safety protection.
-
 Online memberships and recorded courses become important income sources; specialized directions like physiotherapy or maternity enhance professional premium.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Online memberships and recorded courses become important income sources; special
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Industry standard is 200/500-hour RYT (Yoga Alliance) certification; studio t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/yoga-instructor/AU)**

@@ -52,8 +52,6 @@ Roofers, roof tilers, and slaters cover roofs and external walls using materials
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Among the tasks of a roofer, measuring, material cutting, and document processing are easily replaced by AI/automation, but working at heights, complex waterproofing node handling, and on-site safety judgment heavily rely on human experience; overall risks and opportunities coexist.
-
 Typically start as an apprentice, with experience leading to roles as supervisor, project manager, or self-employment as a contractor. Some roof tilers specialise in restoring historic buildings or installing green roofs.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically start as an apprentice, with experience leading to roles as supervisor
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to supervisor, project manager, or specialize in historic buildin
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofers-roof-tilers-and-slaters/UK)**

@@ -54,8 +54,6 @@ Accompany and escort adults and children to and from residences and other locati
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of an escort/attendant involves extensive human emotional interaction and on-site flexibility, making it difficult for AI to fully replace, but automated tools such as autonomous driving and scheduling systems will reduce some escort and record-keeping tasks - a mixed blessing.
-
 Can progress from junior escort to team supervisor or special needs escort coordinator, with a few transitioning to child protection or social work.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior escort to team supervisor or special needs escort coord
 | Subclass Skilled Worker (Skilled Worker visa) | Theoretically possible, but this occupation usually does not meet skill level requirements, making employer sponsorship extremely difficult. |
 | Subclass Graduate (Graduate visa) | Graduates may choose this pathway for temporary work but must first obtain a degree. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must pass DBS background check and have first aid certificate. Additional tra
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/care-escorts/UK)**

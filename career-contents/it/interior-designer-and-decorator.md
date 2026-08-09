@@ -51,8 +51,6 @@ Interior designers and decorators plan, design, and decorate interior spaces to 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Career progression path: Junior Designer → Mid-level Designer/Project Lead → Design Director/Freelancer. Advance through continuous learning of new materials and digital tools.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career progression path: Junior Designer → Mid-level Designer/Project Lead →
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring at least a bachelor's degree and a salary at least 1.5 times the average (approx. €35,000/year). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Annual quota work visa requiring employer sponsorship, applicable to non-EU workers. Limited quota in 2024. |
-| Subclass Nulla Osta (Nulla Osta) | Work permit certificate, applied for by the employer, for non-EU citizens' employment. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Italy does not mandate certification, but holding a degree or association acc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer-and-decorator/IT)**

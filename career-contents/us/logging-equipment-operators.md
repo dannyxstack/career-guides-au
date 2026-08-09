@@ -55,8 +55,6 @@ Drive tractors or wheeled vehicles, use attachments like bulldozer blades, grapp
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly replace perception and decision-making tasks for logging equipment operators, with job numbers expected to drop by over 30%, intensifying competition for entry-level positions.
-
 Can advance from operator to team leader or equipment supervisor, or obtain a commercial license to become a timber truck driver. Experienced workers can become logging contractors or forest managers.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from operator to team leader or equipment supervisor, or obtain a co
 | Subclass H-2A (H-2A Temporary Agricultural Workers) | Available for seasonal forestry workers, but requires employer to apply for labor certification, and is a temporary visa |
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Applicable to non-agricultural seasonal work, such as logging, but subject to caps |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: BLS projects slow employment growth; automation and fluctuating timber demand
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-equipment-operators/US)**

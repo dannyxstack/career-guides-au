@@ -53,8 +53,6 @@ Civil engineering drafters use CAD software to create detailed technical drawing
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Starting as a junior drafter, gaining experience to advance to senior drafter or design team leader; some further study to obtain an engineering degree and transition to civil engineer, or specialize in BIM coordination, project management, etc.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior drafter, gaining experience to advance to senior drafter or
 | Subclass 186 (Employer Nomination Scheme (ENS)) | Employer-sponsored permanent residence visa, apply directly or switch from 482 |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Remote area state/territory nomination or family sponsorship, must be on CSOL, leading to 191 permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Drafters can advance to senior drafter, design team leader, or BIM coordinato
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-draftsperson/AU)**

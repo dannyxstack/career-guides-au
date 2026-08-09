@@ -54,8 +54,6 @@ Prepare meals for employers in private residences, including personal chefs. Tas
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The impact of AI on private family chefs is mixed: AI can assist with menu planning, ingredient sourcing, and cooking execution, but personalized service, taste judgment, and trust relationships are hard to replace.
-
 Career progression can advance from junior home cook to senior private chef, or shift into catering management, private event planning, etc. Skills in nutrition or international cuisine enhance competitiveness, and some chefs may start their own private catering service companies.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression can advance from junior home cook to senior private chef, or 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, but limited. Can advance from junior chef to senior chef or private head
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cooks-private-household/US)**

@@ -51,8 +51,6 @@ Responsible for visual communication and multimedia content design, including gr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Progress from junior designer to senior designer, art director, or creative director. Can also specialize in user interface (UI) or user experience (UX) design.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Progress from junior designer to senior designer, art director, or creative dire
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU workers, requiring a university degree and an annual salary of at least approx. €28,000 (2023 threshold). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers, employer-sponsored. |
-| Subclass Nulla Osta (Nulla Osta) | Work permit certification requires employer to apply for approval from the labor authority, followed by a work visa application. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Options include the EU Blue Card (requires qualifications and high salary) or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-and-multimedia-designer/IT)**

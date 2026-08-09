@@ -52,8 +52,6 @@ Operators in glass and ceramic factories are responsible for operating and maint
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Jobs of glass and ceramic plant operators will be partially automated by AI, mainly affecting quality inspection and process monitoring, but core operations requiring physical effort and adaptability are hard to replace; overall risk is moderate.
-
 Junior operators can advance to senior operators or team leaders through on-the-job training, some may transition to quality inspection or production management roles.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Junior operators can advance to senior operators or team leaders through on-the-
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for skilled workers meeting the income threshold (approximately €41,000 in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Requires at least €58,000 annual income; suitable for senior technical roles |
-| Subclass Orientation Year (Zo (Orientation Year) | Suitable for international students who graduated in the Netherlands, allowing one year of free work to find an employer |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: A Dutch MBO technical diploma in vocational education or equivalent is usuall
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-and-ceramics-plant-operator/NL)**

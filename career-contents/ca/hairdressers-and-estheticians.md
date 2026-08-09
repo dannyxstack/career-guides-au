@@ -52,8 +52,6 @@ In Canada, hairdressers and estheticians provide haircuts, hair care, styling, s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
-
 Junior hairdressers/beauticians can advance to senior technicians by building clientele and obtaining higher licenses; some open their own salons or move into product marketing or training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior hairdressers/beauticians can advance to senior technicians by building cl
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Theoretically possible, but requires meeting annual work experience and language requirements, and CRS scores may be low due to Skill Level B |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program requires a designated employer offer. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requirements vary by province, but typically involve completing a designated 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdressers-and-estheticians/CA)**

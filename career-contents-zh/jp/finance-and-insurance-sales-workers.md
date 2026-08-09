@@ -1,10 +1,8 @@
-# Finance and Insurance Sales Workers 职业分析 · 日本
+# 金融和保险销售工作者（Finance and Insurance Sales Workers）职业分析 · 日本
 
-**职业代码: 346 (JSCO)**
+**职业代码：346 (JSCO)**
 
-Sales professionals who propose and sell financial products and insurance to individual and corporate clients at banks, securities, and insurance companies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在银行、证券和保险公司向个人和企业客户推销金融产品及保险的销售专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ Sales professionals who propose and sell financial products and insurance to ind
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Can work directly after compulsory education） |
-| University degree (liberal arts) | 4年 | $4,000,000~$6,000,000（Even higher for private universities） |
+| 高中文凭 | 3年 | $0~$0（义务教育结束后可直接工作） |
+| 大学学位（文科） | 4年 | $4,000,000~$6,000,000（私立大学甚至更高） |
 
 ---
 
@@ -22,19 +20,19 @@ Sales professionals who propose and sell financial products and insurance to ind
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Securities Sales Representative (Type 1 & 2) | Japan Securities Dealers Association | 必备 | Mandatory for securities sales |
-| Life Insurance Solicitor | Life Insurance Association of Japan | 必备 | Mandatory for life insurance sales |
-| Non-Life Insurance Solicitor | General Insurance Association of Japan | 必备 | Mandatory for non-life insurance sales |
-| FP (Financial Planner) | Japan Association for Financial Planners | 可选 | Optional but advantageous for promotion |
+| 证券销售代表（第一类及第二类） | 日本证券业协会 | 必备 | 证券销售必备 |
+| 人寿保险推销员 | 日本人寿保险协会 | 必备 | 人寿保险销售必备 |
+| 非寿险推销员 | 日本损害保险协会 | 必备 | 非寿险销售所必需 |
+| 金融规划师 | 日本金融规划师协会 | 可选 | 可选但有利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 420,000. Demand will remain stable due to asset inheritance needs from aging population and increased investment demand against inflation, but new hiring is flat due to efficiency gains from FinTech and AI.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 420,000。由于人口老龄化带来的资产继承需求和抗通胀投资需求，需求将保持稳定，但由于金融科技和人工智能提高效率，新招聘人数持平。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,92 +40,85 @@ Sales professionals who propose and sell financial products and insurance to ind
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $3,000,000~$4,500,000 | Base salary + commission, highly variable |
-| Mid-level (4-10 years) | $4,500,000~$7,000,000 | Commission-based income increase according to performance |
-| Advanced (10+ years) | $7,000,000~$12,000,000 | Increases with management allowance or handling major clients |
+| 初级(0-3年) | $3,000,000~$4,500,000 | 底薪+佣金，波动大 |
+| 中级（4-10年） | $4,500,000~$7,000,000 | 按业绩提成收入增长 |
+| 高级（10年以上） | $7,000,000~$12,000,000 | 根据管理津贴或处理大客户情况增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI enhances sales support through customer data analysis and automated recommendations, but high-value products and interpersonal negotiations remain human roles. Simple telemarketing and routine tasks are likely to shrink.
+AI通过客户数据分析和自动推荐增强销售支持，但高价值产品和人际谈判仍由人类负责。简单的电话营销和常规任务可能会减少。
 
-Start from route sales or telemarketing at entry level. Advance to section chief or branch manager through performance. Career advancement possible by gaining FP certification.
+从入门级的路演销售或电话销售开始。通过业绩晋升为科长或分公司经理。通过获得FP认证可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Telemarketing
-- Simple Insurance Quotation
-- Manual Entry of Customer Data
+- 电话营销
+- 简单保险报价
+- 手工录入客户数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer Analysis and Cross-Sell Proposals
-- Automated Risk Assessment
-- AI Sales Coaching
+- 客户分析与交叉销售建议
+- 自动化风险评估
+- AI销售辅导
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust-Building Skills
-- Understanding Complex Needs
-- Emotionally Aware Negotiation
+- 建立信任技能
+- 理解复杂需求
+- 情感感知谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Financial Planning
-- Advanced Financial Knowledge
-- Digital Tool Proficiency
+- 财务规划
+- 高级金融知识
+- 数字工具熟练度
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Asset Management
-- FinTech
+- 资产管理
+- 金融科技
 - 从业保险
-- Inheritance Consulting
+- 继承咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable with experience or knowledge in financial product sales. Japanese proficiency mandatory. |
-| Subclass 経営・管理 (Management) | Applicable in cases of self-employment such as agency management. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking with others
-- People strong with numbers and persistent
-- People with high goal achievement drive
+- 喜欢与他人交谈的人
+- 擅长数字且持之以恒的人
+- 目标达成驱动力强的人
 
 **谁不适合**
-- People uncomfortable speaking in public
-- People weak to stress, burdened by quotas
+- 不擅长公开演讲的人
+- 对压力敏感、受配额负担的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Are financial sales incomes stable?**
-答：In addition to base salary, commission is large, so it fluctuates based on performance. If seeking stability, there are insurance companies with fixed salary.
+**问：金融销售收入稳定吗？**
+答：除基本工资外提成较高，因此根据业绩浮动。若追求稳定，有固定薪资的保险公司可供选择。
 
-**问：What visa is required for foreigners to work in financial sales?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. Advanced Japanese (N1 level) and related experience are needed.
+**问：外国人在金融销售工作需要什么签证？**
+答：人文知识/国际业务工程师/专家签证较为常见。需要高级日语（N1水平）及相关经验。
 
-**问：How can I advance my career?**
-答：You can aim for management by achieving results, or specialize as an independent consultant by obtaining FP qualifications.
+**问：如何提升我的职业生涯？**
+答：通过取得成果可争取管理职位，或通过获得FP资格成为独立顾问。
 
 
 ---
@@ -145,12 +136,12 @@ Start from route sales or telemarketing at entry level. Advance to section chief
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/finance-and-insurance-sales-workers/JP)**

@@ -53,8 +53,6 @@ R&D Manager is responsible for planning, organizing, and coordinating resources 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
-
 Usually promoted from research scientist, engineer, or technical expert. After accumulating project management experience, one can advance to R&D director, chief technology officer, or vice president. Some move into strategic consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually promoted from research scientist, engineer, or technical expert. After a
 | Subclass Scale-up (Scale-up Worker visa) | Applicable to R&D managers in companies meeting growth scale requirements, requiring UKVI-approved employer sponsorship |
 | Subclass Graduate (Graduate visa) | Suitable for UK university graduates; can work in the UK for 2-3 years to gain experience, then switch to a Skilled Worker visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: It is recommended to obtain industry-related certifications (e.g., CEng), acc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-and-development-rd-managers/UK)**

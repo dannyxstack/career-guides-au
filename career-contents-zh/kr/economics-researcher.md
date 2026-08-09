@@ -1,10 +1,8 @@
-# Economics Researcher 职业分析 · 韩国
+# 经济学研究员（Economics Researcher）职业分析 · 韩国
 
-**职业代码: 11022 (KECO)**
+**职业代码：11022 (KECO)**
 
-A professional research position that analyzes economic theories and data to study economic phenomena and contribute to policy and corporate strategy formulation.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+一个专业研究岗位，分析经济理论和数据以研究经济现象，并为政策和公司战略制定做出贡献。
 
 
 ---
@@ -13,9 +11,9 @@ A professional research position that analyzes economic theories and data to stu
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Economics | 4年 | $18,000,000~$50,000,000（Varies between national and private universities, excluding scholarships） |
-| Master's in Economics | 2 年 | $15,000,000~$40,000,000（Including graduate tuition and living expenses） |
-| Doctorate in Economics | 4年 | $30,000,000~$80,000,000（Domestic doctoral program average） |
+| 经济学学士 | 4年 | $18,000,000~$50,000,000（国立和私立大学之间有所不同，不包括奖学金） |
+| 经济学硕士 | 2 年 | $15,000,000~$40,000,000（包括研究生学费和生活费） |
+| 经济学博士学位 | 4年 | $30,000,000~$80,000,000（国内博士项目平均） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional research position that analyzes economic theories and data to stu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master's degree or higher in Economics | 大学 | 必备 | — |
-| Statistical analysis program proficiency | 非正式 | 可选 | STATA, R, Python, etc. |
+| 经济学硕士或更高学历 | 大学 | 必备 | — |
+| 统计分析程序熟练度 | 非正式 | 可选 | STATA、R、Python等 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,200. In Korea, the importance of economic research is growing due to low growth and aging, but government and public institution hiring is stagnant and private demand is limited. Over the next five years, employment is expected to increase modestly.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,200。在韩国，由于低增长和老龄化，经济研究的重要性日益增加，但政府和公共机构招聘停滞，私人需求有限。未来五年，就业预计将适度增长。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional research position that analyzes economic theories and data to stu
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $30,000,000~$45,000,000 | Post-graduation entry standard |
-| Mid-level (5~10 years) | $50,000,000~$70,000,000 | Principal researcher level |
-| Senior-level (10+ years) | $70,000,000~$99,999,999 | Research fellow/professor level |
+| 入门级（0~3年） | $30,000,000~$45,000,000 | 毕业后入职标准 |
+| 中级别（5~10年） | $50,000,000~$70,000,000 | 首席研究员级别 |
+| 高级（10年以上经验） | $70,000,000~$99,999,999 | 研究员/教授级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and machine learning automate some tasks like data analysis and predictive modeling, but humans retain an edge in high-level judgment such as interpreting economic theory and policy proposals. Research productivity increases, but the number of jobs may decrease slightly.
+人工智能和机器学习自动化了数据分析和预测建模等任务，但在经济理论解读和政策建议等高层次判断上，人类仍具优势。研究效率提升，但职位数量可能略有减少。
 
-Entry typically requires a master's degree or higher, with promotion from researcher to senior/principal researcher to research fellow/professor. A doctoral degree or overseas experience is advantageous, and career paths include finance, public sector, and academia.
+入职通常需要硕士及以上学历，从研究员晋升至高级/主任研究员，再到研究院士/教授。博士学位或海外经验有优势，职业路径包括金融、公共部门和学术界。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic statistical analysis and data cleaning
-- Literature review and summarization
-- Standard regression analysis modeling
+- 基础统计分析和数据清理
+- 文献综述与总结
+- 标准回归分析建模
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Big data-based economic forecasting
-- Machine learning model interpretation and validation
-- Scenario simulation
+- 基于大数据的经济预测
+- 机器学习模型解释与验证
+- 情景模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative hypothesis setting based on economic theory
-- Policy proposal and feasibility evaluation
-- Complex causal inference
+- 基于经济理论的创造性假设设定
+- 政策提案与可行性评估
+- 复杂因果推断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning using Python/R
-- Data visualization tools
-- Knowledge of behavioral economics and experimental economics
+- 使用Python/R进行机器学习
+- 数据可视化工具
+- 行为经济学和实验经济学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Data economy
-- Population aging
-- Climate change economy
-- Digital transformation
+- 数据经济
+- 人口老龄化
+- 气候变化经济
+- 数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment as professional research personnel, requiring corporate recommendation |
-| Subclass D-10 (Job-seeking) | Job-seeking allowed for holders of master's degree or higher |
-| Subclass F-2 (Residence) | Possible for immigration via points system, advantageous for long-term stay |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People strong in logical analysis
-- People who enjoy reading and data work
-- People with strong academic curiosity
+- 逻辑分析能力强的人
+- 喜欢阅读和数据工作的人
+- 具有强烈学术好奇心的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People seeking interpersonal-focused work
+- 偏好简单重复任务的人
+- 寻求人际交往为主工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an economics researcher?**
-答：Junior: KRW 30-45 million, Mid-level: KRW 50-70 million, Senior: KRW 70-100 million.
+**问：经济学研究员的平均薪资是多少？**
+答：初级：3000-4500万韩元，中级：5000-7000万韩元，高级：7000万-1亿韩元。
 
-**问：Can foreigners work as economics researchers in Korea?**
-答：Yes. They can be hired at domestic research institutes or corporate labs with an E-7 visa, and a master's degree or higher is required.
+**问：外国人可以在韩国担任经济学研究员吗？**
+答：可以。持E-7签证可在国内研究机构或企业实验室工作，需硕士或以上学历。
 
-**问：Is it possible to get a job without a master's degree?**
-答：Realistically, it is difficult. Most researcher positions require at least a master's degree, and PhDs are preferred.
+**问：没有硕士学位能找到工作吗？**
+答：老实说这很难。大多数研究员职位至少需要硕士学位，博士更受青睐。
 
 
 ---
@@ -145,12 +135,12 @@ Entry typically requires a master's degree or higher, with promotion from resear
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/economics-researcher/KR)**

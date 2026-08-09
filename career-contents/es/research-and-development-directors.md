@@ -51,8 +51,6 @@ Responsible for planning, guiding, and coordinating R&D activities of enterprise
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance R&D efficiency, but the risk lies in the compression of mid-level technical judgment and coordination tasks, forcing directors to shift to higher-level strategy and innovation management.
-
 Typically, they are promoted from researcher or project manager, gaining technical and project management experience to become department managers, and eventually to R&D director or Chief Technology Officer (CTO).
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Typically, they are promoted from researcher or project manager, gaining technic
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree and work contract, salary threshold approx €40,000/year. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Targeting executives, R&D personnel, and others, with simplified procedures and quick residency obtainment. |
-| Subclass Cuenta ajena (Work Permit (employed)) | Work residence sponsored by a Spanish company requires proof of job vacancy and preference given to EU citizens. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Can apply through EU Blue Card (requires work contract and degree), high-skil
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-and-development-directors/ES)**

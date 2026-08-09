@@ -4,8 +4,6 @@
 
 Electric vehicle battery diagnostic experts are responsible for fault diagnosis of high-voltage battery packs, health condition (SoH) assessment, module repair and replacement, spanning EV after-sales, warranty, and energy storage operation and maintenance. They require high-voltage safety qualifications and diagnostic tool experience, making them a rapidly emerging technical specialist position as EV ownership increases.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Electric vehicle battery diagnostic experts are responsible for fault diagnosis 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
-
 France's high-voltage battery diagnostics and health assessments have become a hot topic, with OEM diagnostics and high-voltage safety experts in high demand; Diagnostic readings can be automated, but high-voltage disassembly and assessment still require manual labor.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ France's high-voltage battery diagnostics and health assessments have become a h
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employment and residence) | Carte de séjour salarié: Technician positions are mainly based on employer contracts |
-| Subclass Travailleur (Temporary work) | Travailleur temporaire Temporary work residency, limited pathways. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -159,12 +148,12 @@ A: It is more difficult to immigrate independently. As a technician-level positi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-battery-diagnostics-specialist/FR)**

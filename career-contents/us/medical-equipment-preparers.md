@@ -51,8 +51,6 @@ Prepare, disinfect, install or clean lab or medical equipment. May perform routi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical device preparer positions face mixed AI impact: repetitive tasks like sterilization and inventory management are easily automated, but jobs requiring judgment like device quality inspection and clinical support are enhanced by AI. Overall role shifts more towards technical coordination, with slightly higher entry requirements.
-
 Usually starts as a junior technician, gains experience to advance to senior technician or supervisor, and some may transition into medical device sales or clinical engineering.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually starts as a junior technician, gains experience to advance to senior tec
 | Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent, common in hospitals or medical institutions |
 | Subclass EB-3 (Employment-Based Third Preference) | Requires PERM labor certification, suitable for experienced medical equipment preparers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply via H-1B visa (requires bachelor's degree) or EB-3 green card, but 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-equipment-preparers/US)**

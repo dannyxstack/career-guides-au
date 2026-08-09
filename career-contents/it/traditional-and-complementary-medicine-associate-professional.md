@@ -4,8 +4,6 @@
 
 Practicing non-mainstream medicine in Italy, such as acupuncture, massage, herbal medicine, requires registration and compliance with relevant regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Practicing non-mainstream medicine in Italy, such as acupuncture, massage, herba
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Complementary and alternative medicine associate professionals are undergoing structural transformation due to AI: some tasks like recording, diagnostic assistance, and marketing consultation are automated, but core competencies such as personalized treatment, palpation techniques, communication, and empathy remain a moat; overall employment risk is moderate, and proactive learning of AI tools is needed to improve efficiency.
-
 Start as an apprentice or assistant, gain experience to practice independently or open a private clinic. Some practitioners move into teaching or research.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Start as an apprentice or assistant, gain experience to practice independently o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For non-EU highly skilled migrants, requires university degree and work contract, annual salary ≥24,789 euros |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship, no specific degree needed |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Must complete an accredited training course and pass a national exam to obtai
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-associate-professional/IT)**

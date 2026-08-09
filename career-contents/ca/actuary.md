@@ -52,8 +52,6 @@ Actuaries use mathematical, statistical, and financial models to assess risks in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on actuarial work is mixed: data analysis and risk modeling tasks are being automated, but core duties like regulatory approval, professional judgment, and business communication still rely on humans. Entry-level roles are shrinking due to AI replacing basic work, but demand for senior roles continues to grow.
-
 Typically start as actuarial analyst, obtain Associate of the Society of Actuaries (ASA) to promote to senior analyst, then earn Fellow (FSA/CERA) to become actuarial manager, chief actuary, or transition to risk management, data science, and other hybrid roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically start as actuarial analyst, obtain Associate of the Society of Actuari
 | Subclass PNP (Provincial Nominee Program) | Ontario, BC, etc., have actuary nomination streams requiring employer offer or local education/work experience. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot for permanent residence, suitable for applicants with a local employer offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must obtain SOA/CAS Associate (ASA) or Fellow (FSA/CERA) certification throug
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actuary/CA)**

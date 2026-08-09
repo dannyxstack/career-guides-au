@@ -53,8 +53,6 @@ Involved in the production and processing of tobacco products (e.g., cigarettes,
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Tobacco product manufacturers are severely affected by automation, with repetitive manual tasks replaced by machines, and industry shrinkage further reducing jobs, creating high transition pressure.
-
 Career path is narrow, typically starting as a production line operator, with possible advancement to shift leader, quality controller, or equipment maintenance technician. However, industry contraction leads to few promotion opportunities, and transitioning to the food or pharmaceutical industry may be more feasible.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path is narrow, typically starting as a production line operator, with po
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Affected by smoking bans and health awareness, the German tobacco market cont
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tobacco-products-manufacturer/DE)**

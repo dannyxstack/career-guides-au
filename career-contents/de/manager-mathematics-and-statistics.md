@@ -51,8 +51,6 @@ Responsible for leading mathematics and statistics teams, developing data analys
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
-
 Can be promoted from senior statistician or data analyst, with further progression to chief data scientist or director of analytics. Requires accumulating management experience and continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can be promoted from senior statistician or data analyst, with further progressi
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to mathematics/statistics experts with a recognized German qualification, need to obtain a work contract. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa allowing entry to Germany for one year to find a job. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually promoted from statistician or data analyst, then can develop into chi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-mathematics-and-statistics/DE)**

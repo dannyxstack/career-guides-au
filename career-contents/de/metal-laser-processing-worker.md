@@ -51,8 +51,6 @@ Laser metal processors use laser cutting, welding, marking, and surface treatmen
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 Junior operators can advance to programming technician or production supervisor, further study to become laser process engineer or automation specialist, some move into R&D or sales technical support.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior operators can advance to programming technician or production supervisor,
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicants with a German-recognised vocational education qualification or an accredited foreign qualification can apply with sponsorship from a German employer. Laser processing is a shortage occupation, so approval rates are relatively high. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A new opportunity card introduced in 2024, based on a points system allowing job seekers to enter the country to find work. Suitable for those with vocational education background and German B1 level. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can apply through the German Skilled Immigration Act. Foreign qualifications 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-laser-processing-worker/DE)**

@@ -51,8 +51,6 @@ Money market clerks handle money market transactions, including recording, recon
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The data recording and verification tasks of money market clerks are highly automatable, leading to a significant reduction in entry-level positions, but complex transaction monitoring and compliance judgment still require human experience.
-
 Junior money market clerks can advance to senior clerks or trading assistants, and then to traders or investment analysts. With experience, they can also move into risk management, compliance, and other fields. Holding a CFA or related certification aids advancement.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Junior money market clerks can advance to senior clerks or trading assistants, a
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category, requiring ANZSCO skill level and salary requirements, can apply for the 6-point system |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa requires a job offer from an accredited employer, suitable for entering the New Zealand workforce initially |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Junior clerks can advance to senior clerk, trading assistant, trader, or inve
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/money-market-clerk/NZ)**

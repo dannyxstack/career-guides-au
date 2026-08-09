@@ -54,8 +54,6 @@ Transport managers plan, organize, and supervise the movement of goods and peopl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some transport manager tasks will be automated by AI, but strategic decision-making and interpersonal coordination demand will increase; overall risk is moderate, requiring proactive embrace of technology transformation.
-
 Career advancement typically starts as transport coordinator or dispatcher, then progresses to transport manager, and potentially logistics director or vice president of operations. Obtaining logistics certification (e.g., CITT) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career advancement typically starts as transport coordinator or dispatcher, then
 | Subclass PNP (Provincial Nominee Program) | Some provinces list transport managers as an occupation in demand, eligible for provincial nomination points. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, then apply for permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires leadership, logistics knowledge, budget management, communication co
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-transportation/CA)**

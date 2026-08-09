@@ -53,8 +53,6 @@ Textile cleaning occupations involve dry cleaning, wet cleaning, ironing, and fi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile cleaning occupations face high automation risk; smart laundry systems and robots will gradually replace repetitive cleaning and ironing tasks; entry-level positions will shrink, but maintenance and customer interaction roles still have demand.
-
 Practitioners can progress from entry-level laundry worker to senior ironer or team leader. Further study can lead to textile cleaning technician or quality inspector, or transition to laundry management or self-employment.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Practitioners can progress from entry-level laundry worker to senior ironer or t
 | Subclass Skilled Worker (Skilled Worker Visa) | If you hold the relevant professional qualifications and have employer sponsorship, you may apply for a German skilled migration visa. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, suitable for applicants with professional qualifications but no job contract |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can progress from laundry worker to team leader or quality inspector. Through
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-cleaning-occupations/DE)**

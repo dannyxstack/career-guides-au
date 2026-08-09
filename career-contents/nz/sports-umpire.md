@@ -53,8 +53,6 @@ Sports referees enforce rules and make decisions in various sports events to ens
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on sports referee roles is mixed: automated tools assist in calls (e.g., Hawk-Eye, VAR), but core rule interpretation, on-field authority, and dispute handling still require human judgment, making full replacement unlikely soon.
-
 career progression: starting as a junior referee, gradually qualifying for higher-level competitions, advancing to senior referee or referee supervisor. Some transition into coaching or sports management roles.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ career progression: starting as a junior referee, gradually qualifying for highe
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Must obtain referee certification from relevant sports associations, such as 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-umpire/NZ)**

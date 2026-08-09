@@ -53,8 +53,6 @@ Responsible for maintenance strategic planning, budget management, and team lead
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI and automation on infrastructure and building maintenance engineering directors is mixed: tasks like predictive maintenance and document generation are automated, while senior responsibilities such as strategic decision-making, crisis management, and team leadership are being strengthened.
-
 Typically, you start as a maintenance engineer or project manager, and after gaining experience, you can be promoted to facility director or regional maintenance lead, or move to asset management or sustainability consulting.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Typically, you start as a maintenance engineer or project manager, and after gai
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring an engineer diploma or many years of experience, valid for 4 years, and family members may be brought along. |
-| Subclass Carte bleue UE (EU Blue Card) | Higher education and above 1.5 times the French average wage (about €53k) are required for fast-track permanent residency. |
-| Subclass Salarié (Employee Work Permit) | Work permits require employer sponsorship and approval from the French labour authority; it is recommended to apply for the Passeport Talent instead. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: CTI-accredited engineering schools such as Arts et Métiers (ENSAM), ESTP, an
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-and-engineering-manager-for-infrastructure-and-building-maintenance/FR)**

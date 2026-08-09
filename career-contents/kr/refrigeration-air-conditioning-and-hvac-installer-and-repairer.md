@@ -51,8 +51,6 @@ A technician who installs and maintains refrigeration, air conditioning, and HVA
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation replace some tasks like diagnostics and remote monitoring, but on-site installation and repair require human intervention, making full replacement difficult. However, AI tools may improve work efficiency, potentially reducing labor demand.
-
 Beginners can gain field experience at small firms and, after obtaining certifications (e.g., Refrigeration Machinery Engineer), advance to large companies or public institutions; license renewal is important due to technological advances.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Beginners can gain field experience at small firms and, after obtaining certific
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to foreign technicians with professional qualifications, available in refrigeration/AC field |
-| Subclass E-9 (Non-professional Employment) | Limited to manufacturing, etc., refrigeration/AC field is restricted |
-| Subclass F-2 (Residence) | No employment restrictions for long-term residents |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: A Refrigeration Machinery Technician certification is essential, and electric
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-air-conditioning-and-hvac-installer-and-repairer/KR)**

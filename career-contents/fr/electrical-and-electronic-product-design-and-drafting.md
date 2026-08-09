@@ -52,8 +52,6 @@ Responsible for conceptual design, technical drawing, and specification developm
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will largely take over repetitive drafting tasks for electrical and electronic drafters, but circuit logic design, cross-system coordination, and on-site problem-solving still require human input, making the job outlook mixed.
-
 Junior designers can be promoted to senior engineer, project leader, or design supervisor. By gaining project management experience, you can move on to roles such as R&D Manager or Technical Director. Continuous learning of new technologies is crucial for career development.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior designers can be promoted to senior engineer, project leader, or design s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, such as engineers, requiring a master's degree or more than 3 years of experience, with a contract annual salary of no less than 42,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires at least 3 years of higher education and a long-term contract; salary threshold is about 53,514 EUR (2024). |
-| Subclass Salarié (Employee Work Permit) | A regular work visa requires a long-term contract with a French employer, approved by the labor bureau. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: An engineering diploma or master's degree (electrical/electronic engineering)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-product-design-and-drafting/FR)**

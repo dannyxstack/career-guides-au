@@ -1,8 +1,8 @@
-# Operations Management Clerk 职业分析 · 日本
+# 运营管理文员（Operations Management Clerk）职业分析 · 日本
 
-**职业代码: 302 (JSCO)**
+**职业代码：302 (JSCO)**
 
-Administrative role creating bus/truck operation plans, managing crew, monitoring operations. Vital role supporting safety and efficiency in transport industry.
+行政岗位，负责制定巴士/卡车运营计划、管理乘务员、监控运营。在运输行业中支持安全与效率的关键角色。
 
 
 ---
@@ -11,8 +11,8 @@ Administrative role creating bus/truck operation plans, managing crew, monitorin
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Tuition-free at public schools） |
-| Operations Manager Qualification Seminar | 2 days | $20,000~$40,000（General seminar fee） |
+| 高中文凭 | 3年 | $0~$0（公立学校免学费） |
+| 运营经理资格研讨会 | 2天 | $20,000~$40,000（一般研讨费） |
 
 ---
 
@@ -20,18 +20,18 @@ Administrative role creating bus/truck operation plans, managing crew, monitorin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Operations Manager (Freight) | Ministry of Land, Infrastructure, Transport and Tourism (MLIT) | 必备 | Mandatory national qualification for freight vehicle transport |
-| Operations Manager (Passenger) | Ministry of Land, Infrastructure, Transport and Tourism (MLIT) | 必备 | Mandatory for bus/taxi operations |
-| Operations Management Assistant | 用人单位 | 可选 | Support duties until obtaining qualification |
+| 运营经理（货运） | 国土交通省（MLIT） | 必备 | 货运车辆运输的强制性国家资格 |
+| 运营经理（客运） | 国土交通省（MLIT） | 必备 | 公交车/出租车运营所必需 |
+| 运营管理助理 | 用人单位 | 可选 | 获得资格前的支持工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 110,000. Demand stable amid labor shortages; AI/systemization progressing, but on-site coordination and judgment require humans, keeping employment steady.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 110,000。需求在劳动力短缺中保持稳定；AI/系统化正在推进，但现场协调和判断需要人力，因此就业保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,93 +39,86 @@ Administrative role creating bus/truck operation plans, managing crew, monitorin
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,500,000~$4,200,000 | New hire to 3rd year |
-| Intermediate (3–7 years) | $4,300,000~$5,200,000 | Qualified/experienced personnel |
-| Advanced (7+ years) | $5,300,000~$6,500,000 | Manager/director level |
+| 初级（0-3年） | $3,500,000~$4,200,000 | 入职至第3年 |
+| 中级（3-7年） | $4,300,000~$5,200,000 | 合格/有经验的人员 |
+| 高级（7年以上） | $5,300,000~$6,500,000 | 经理/总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will streamline dispatching and operation recording, but human judgment is still needed for unexpected issues and driver coordination. AI serves as a support tool, expanding job scope.
+AI和自动化将简化调度和运营记录，但突发事件和司机协调仍需人工判断。AI作为辅助工具，拓展了工作范围。
 
-After obtaining Operations Manager qualification (national license), specialize in operations management. Career path to office manager or logistics management.
+获得运营经理资格（国家执照）后，专攻运营管理。职业路径为办公室经理或物流管理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual entry of operation records
-- Scheduling regular inspections
-- Tallying check-in data
+- 手动录入操作记录
+- 安排定期检查
+- 核对入住数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimizing dispatching plans
-- Real-time monitoring of operations
-- Automatic driver shift creation
+- 优化调度计划
+- 实时监控运营
+- 自动驾驶员排班
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site coordination and complaint handling
-- Decision-making based on transportation management qualification
-- Building trust with drivers
+- 现场协调与投诉处理
+- 基于运输管理资格的决策
+- 与司机建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI dispatching system operation
-- Data analysis
-- Communication skills
-- Transportation management qualification
+- AI调度系统操作
+- 数据分析
+- 沟通能力
+- 运输管理资格
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics DX
-- AI dispatching
-- Driver shortage
-- 2024 Problem
+- 物流数字化转型
+- AI调度
+- 司机短缺
+- 2024问题
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Operations management falls under 'Engineer/Specialist in Humanities/International Services'. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Transport)) | Transport industry added from fiscal 2024. Possible for operations management support roles. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Transport)) | For skilled operations managers. Family accompaniment and permanent residency possible. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and follow rules
-- People who can handle multitasking
-- People interested in the transport industry
+- 细心且遵守规则的人
+- 能处理多项任务的人
+- 对运输行业感兴趣的人
 
 **谁不适合**
-- People not good at flexible responses
-- People who dislike coordinating with others
+- 不善于灵活应变的人
+- 不喜欢与他人协调的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an operations management clerk?**
-答：Varies by experience and qualifications, but average is around 4 to 5 million yen. Managerial positions can earn over 6 million yen.
+**问：运营管理文员的年收入是多少？**
+答：视经验和资质而异，平均约400-500万日元。管理职位可达600万日元以上。
 
-**问：Can foreigners work as operations management clerks?**
-答：Yes, it is possible. The Engineer/Specialist in Humanities/International Services visa requires a university degree or relevant work experience. Specified Skilled Worker (i) (Transport) is also eligible from 2024.
+**问：外国人能否担任运营管理文员？**
+答：是的，可行。人文/国际服务领域的工程师/专家签证需要大学学位或相关工作经验。特定技能工人(i)(运输)从2024年起也符合资格。
 
-**问：How can I advance my career?**
-答：Obtain a transportation management qualification and become a specialist in operations management. Then, you can advance to positions such as depot manager or logistics management role.
+**问：如何提升我的职业生涯？**
+答：取得运输管理资格，成为运营管理专家。然后可以晋升至车场经理或物流管理职位。
 
 
 ---
@@ -143,12 +136,12 @@ After obtaining Operations Manager qualification (national license), specialize 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/operations-management-clerk/JP)**

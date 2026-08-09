@@ -52,8 +52,6 @@ Process engineers design and optimize production processes in energy, chemical, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks for process engineers—process modeling, data analysis, and documentation—are rapidly being replaced by AI automation tools, but on-site optimization, safety compliance, and cross-team coordination remain human-led. Entry-level roles are significantly narrowing, while experience value increases.
-
 Junior engineers (0-5 years) can accumulate process design experience and advance to senior engineer or team leader; then move towards management or project management, or shift to consulting or specialized technical roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior engineers (0-5 years) can accumulate process design experience and advanc
 | Subclass SMC (Skilled Migrant Category) | Can use the 6-point skilled migration system, with points for education, registration, income, etc., usually requiring 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residence conditions are not met, one can first work on an Accredited Employer Work Visa and then apply for residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Main pathways: Green List Tier 1 Straight to Residence Visa, or Skilled Migra
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/process-engineer/NZ)**

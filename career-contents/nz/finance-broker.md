@@ -52,8 +52,6 @@ Finance brokers (mortgage brokers) negotiate with multiple banks and lending ins
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mortgage brokers' workflows are highly suited for AI enhancement, not replacement. AI tools can greatly improve efficiency in client matching, document processing, and market analysis, but key trust-building, negotiation, and regulatory compliance still rely on human judgment. Overall, AI amplifies rather than diminishes their professional value.
-
 Junior brokerage assistant → Licensed broker → Senior advisor → Team manager or start own brokerage. Alternatively, move into commercial lending, equipment finance, or become a relationship manager at a bank.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior brokerage assistant → Licensed broker → Senior advisor → Team manag
 | Subclass Green List T2 (Green List Tier 2) | If the role is on Green List Tier 2 (e.g., Finance Manager), you can transition to residence after 2 years of work. |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, requires evidence that no local candidate is available, and salary meets requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must register as a Financial Service Provider (FSPR) and complete the New Zea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/finance-broker/NZ)**

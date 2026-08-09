@@ -55,8 +55,6 @@ General office clerks handle document processing, data entry, filing, email corr
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Document processing, data entry, filing, and email management for general office clerks can be highly automated by AI and RPA, significantly reducing entry-level positions; remaining tasks shift to higher-level coordination and judgment, requiring proactive skill upgrading.
-
 Career progression paths are limited, typically moving from junior clerk to senior clerk, administrative supervisor, or office manager. With experience, one can also transition to specialized areas such as HR or accounting assistant. Continuous learning of office software skills is needed to stay competitive.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career progression paths are limited, typically moving from junior clerk to seni
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Moderate to high risk. Repetitive tasks like data entry and filing can be aut
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-office-clerk/CA)**

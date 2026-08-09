@@ -50,8 +50,6 @@ A professional technical workforce responsible for designing, installing, and ma
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances tasks like automatic control and energy optimization in facility systems, but full replacement is difficult as on-site diagnosis and response still require human experts.
-
 Promotion follows the path: junior technician → intermediate technician → responsible technician → professional engineer/PM, with professional enhancement through obtaining licenses like Professional Engineer or Building Equipment Engineer.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Promotion follows the path: junior technician → intermediate technician → re
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for issuance when employed as a building facility engineer in the technology/professional field. Must meet degree/experience requirements. |
-| Subclass E-9 (Non-professional Employment) | Generally unsuitable for this occupation; since it is skilled technical work rather than simple labor, E-7 is recommended. |
-| Subclass F-2 (Residence) | A points-based permanent residence status allowing long-term stay and employment. Transitioning from E-7 eases work restrictions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Not mandatory, but advantageous for promotion to project manager or senior po
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-equipment-engineer/KR)**

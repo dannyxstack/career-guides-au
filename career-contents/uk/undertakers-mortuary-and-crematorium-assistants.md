@@ -52,8 +52,6 @@ Professionals responsible for arranging funerals, handling remains, and assistin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on funeral director roles is mixed: automation will handle administrative tasks, but core human empathy and ceremonial leadership remain irreplaceable, making the overall risk moderate—requiring proactive adaptation to tech tools.
-
 Can advance from assistant to senior funeral director, funeral home manager, or specialize in embalming, grief counseling, etc.; some enter funeral management or start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from assistant to senior funeral director, funeral home manager, or 
 | Subclass Health & Care (Health and Care Worker visa) | If the employer is in the health and social care sector, visa fee discounts apply |
 | Subclass Graduate (Graduate visa) | Suitable for UK graduates, allowing 2 years of work to gain experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a funeral services diploma; embalmers need additional lice
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/undertakers-mortuary-and-crematorium-assistants/UK)**

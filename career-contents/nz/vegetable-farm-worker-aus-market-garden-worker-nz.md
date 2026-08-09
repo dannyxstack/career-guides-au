@@ -54,8 +54,6 @@ Vegetable farm workers perform physical labor such as planting, irrigation, fert
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Vegetable farm workers face high risk of automation, especially for repetitive tasks like picking and weeding, but in the short term, automation is limited by physical environment and cost constraints.
-
 Career development paths are limited; progression from junior worker to supervisor or team leader is possible, and a few experienced individuals may run their own farms. Typically requires learning New Zealand's agricultural machinery operation, food safety, and health and safety standards.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development paths are limited; progression from junior worker to supervis
 | Subclass AEWV (Accredited Employer Work Visa) | The most common work visa pathway, where the employer must be accredited, the job must be genuine and full-time, and the hourly wage must be at least the median wage (approx. $29.66/hour in 2024). |
 | Subclass RSE (Recognised Seasonal Employer Scheme) | Applicable to seasonal short-term work, mainly for Pacific Island workers. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Main demand is in horticultural regions such as Bay of Plenty, Hawke's Bay, W
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-farm-worker-aus-market-garden-worker-nz/NZ)**

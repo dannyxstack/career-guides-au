@@ -4,8 +4,6 @@
 
 Legislators are elected representatives in the Italian Parliament or local councils, responsible for making, amending, and passing laws, overseeing government administration, and representing the interests of voters.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Legislators are elected representatives in the Italian Parliament or local counc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI has a mixed impact on legislators overall: tasks like report analysis and voting material screening can be automated, but core political negotiation, voter communication, and value judgment are difficult to replace; entry-level thresholds may rise.
-
 Usually start as a local councillor, gradually progress to the national House of Representatives or Senate. Senior members can become committee chairs, party leaders, or ministers.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Usually start as a local councillor, gradually progress to the national House of
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Not applicable for legislators; this role is not employed work but a political position. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Not applicable; legislators are not under general work visa categories. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Generally requires Italian citizenship; non-citizens cannot stand for electio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legislator/IT)**

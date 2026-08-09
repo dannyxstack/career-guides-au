@@ -1,8 +1,8 @@
-# Rail Track Installer and Repairer 职业分析 · 韩国
+# 铁路轨道安装与维修工（Rail Track Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 70521 (KECO)**
+**职业代码：70521 (KECO)**
 
-A specialized technical occupation for installing and maintaining railway tracks, involving track alignment, welding, ballast tamping, and other field tasks.
+一种专门技术职业，负责安装和维护铁路轨道，包括轨道校准、焊接、捣固等现场任务。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized technical occupation for installing and maintaining railway tracks
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school diploma or higher required） |
-| Community college (railway-related) | 2 年 | $4,000,000~$8,000,000（Varies by national/private institution） |
+| 高中毕业 | 0年 | $0~$0（要求高中文凭或以上） |
+| 社区学院（铁路相关） | 2 年 | $4,000,000~$8,000,000（因国立/私立机构而异） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialized technical occupation for installing and maintaining railway tracks
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Railway Track Technician | Human Resources Development Service of Korea | 必备 | Required certification |
-| Railway Track Industrial Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for promotion and management |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Required for track welding tasks |
+| 铁路轨道技术员 | 韩国人力资源开发服务局 | 必备 | 所需认证 |
+| 铁路轨道工业工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升和管理 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 轨道焊接任务所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. With the continuous expansion of Korea's high-speed rail and urban railways and the demand for old track maintenance, mid- to long-term employment is stable. New hiring is steady due to an increase in retirees.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。随着韩国高铁和城市铁路的持续扩张以及老旧轨道维护需求，中长期就业稳定。退休人员增加导致新招聘稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,89 +39,83 @@ A specialized technical occupation for installing and maintaining railway tracks
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $30,000,000~$36,000,000 | Annual pre-tax salary, excluding night and hazard pay |
-| Mid-level (4–9 years) | $38,000,000~$45,000,000 | Team leader level, additional pay with certifications |
-| Senior level (10+ years) | $48,000,000~$56,000,000 | Foreman/engineer level, top earners over 60 million KRW |
+| 初级（0–3年） | $30,000,000~$36,000,000 | 税前年薪，不含夜班和危险津贴 |
+| 中级（4-9年） | $38,000,000~$45,000,000 | 团队负责人级别，凭认证获得额外薪酬 |
+| 高级（10年以上） | $48,000,000~$56,000,000 | 工头/工程师级别，顶尖收入者超过6000万韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in some tasks such as analyzing track inspection data or controlling automatic welding equipment, but core tasks requiring field judgment and precision manual work are difficult to replace with AI. Therefore, the impact of automation is limited and is expected to improve work efficiency.
+人工智能可以辅助分析轨道检测数据或控制自动焊接设备等任务，但需要现场判断和精细手工操作的核心工作难以被AI取代。因此，自动化影响有限，预计将提高工作效率。
 
-Starting as a junior technician, advancement to mid-level (team leader) and senior level (foreman, engineer) is possible. After obtaining certifications, one can move into management or railway safety roles.
+从初级技术员开始，可晋升至中级（组长）和高级（工长、工程师）。获得认证后，可转入管理或铁路安全岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive track ballast tamping
-- Basic track inspection recording and reporting
+- 简单的重复性轨道捣固
+- 基本轨道检查记录和报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Track abnormality diagnosis using AI inspection systems
-- Track inspection using drones and robots
+- 使用AI检测系统进行轨道异常诊断
+- 使用无人机和机器人进行轨道检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced manual welding skills
-- On-site safety management and emergency response capabilities
-- Empirical judgment for aged track restoration
+- 高级手工焊接技能
+- 现场安全管理与应急响应能力
+- 老旧轨道修复的经验判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI inspection data analysis skills
-- Automated equipment operation skills
-- Drone and robot utilization skills
+- AI检测数据分析技能
+- 自动化设备操作技能
+- 无人机与机器人应用技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Railroad expansion
-- Aged track maintenance
-- Strengthened safety regulations
-- Aging skilled workforce
+- 铁路扩建
+- 老化轨道维护
+- 加强安全规定
+- 老龄化技能劳动力
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Can be assigned to railway construction sites under the Foreign Worker Employment Permit, limited to purely manual labor |
-| Subclass E-7 (Specific Activities) | Can be issued if recognized as a skilled technical worker, railway facility maintenance specialist |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are not averse to outdoor or physical work
-- Meticulousness in thoroughly following safety rules
-- People with excellent teamwork and communication skills
+- 不排斥户外或体力工作的人
+- 严格遵守安全规则的细致性
+- 具有出色团队合作和沟通能力的人
 
 **谁不适合**
-- People with acrophobia or claustrophobia
-- People who prefer a free environment over a regular lifestyle
+- 有恐高症或幽闭恐惧症的人
+- 偏好自由环境而非规律生活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a railway installer or repairman?**
-答：Approximately 30-36 million KRW for entry-level, 38-45 million KRW for mid-level, 48-56 million KRW for senior level. Additional income is possible through night shift and hazard pay.
+**问：铁路安装工或修理工的平均年薪是多少？**
+答：入门级约3000-3600万韩元，中级3800-4500万韩元，高级4800-5600万韩元。夜班和危险津贴可增加额外收入。
 
-**问：Can foreigners work as railway installers or repairmen?**
-答：Yes, it is possible. Simple labor is available under the E-9 visa, and skilled technical workers can obtain an employment visa under the E-7 visa if qualified. However, Korean language proficiency and technical qualifications are required.
+**问：外国人能否担任铁路安装工或修理工？**
+答：是的，可能。E-9签证可从事简单劳动，E-7签证合格技术工人可获就业签证。但需韩语能力和技术资格。
 
-**问：Are there any required certifications?**
-答：Yes, a railroad track technician license is required, obtained through the Korea Human Resources Development Service exam. Having an industrial engineer or higher is advantageous for promotion.
+**问：是否有任何必需的认证？**
+答：是的，需要铁路轨道技术员执照，通过韩国人力资源开发服务考试获得。拥有工业工程师或更高级别对晋升有利。
 
 
 ---
@@ -139,12 +133,12 @@ Starting as a junior technician, advancement to mid-level (team leader) and seni
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rail-track-installer-and-repairer/KR)**

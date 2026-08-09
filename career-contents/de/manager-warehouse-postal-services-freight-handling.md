@@ -56,8 +56,6 @@ Responsible for overseeing and managing warehouse operations, postal delivery, a
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
-
 Career development starts as a basic logistics operator, gradually advancing to team supervisor, department manager, and eventually regional logistics manager or supply chain director. Requires accumulating management experience and obtaining logistics management certifications.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Career development starts as a basic logistics operator, gradually advancing to 
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on points system, allows job seekers to enter the country to find work, requires language or skills proof |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay for job seeking, requires university degree and financial proof |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Starting as a logistics clerk or team leader, gain experience and advance to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-warehouse-postal-services-freight-handling/DE)**

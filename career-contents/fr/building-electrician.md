@@ -4,8 +4,6 @@
 
 Responsible for the installation, maintenance, and repair of electrical systems within buildings, including wiring, distribution panel installation, lighting, and grounding systems to ensure compliance with French electrical standards.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for the installation, maintenance, and repair of electrical systems 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
-
 You can be promoted to electrical project supervisor, self-employed electrician, or move into industrial electrical or renewable energy fields.
 
 **Tasks most exposed to AI:**
@@ -100,18 +96,9 @@ You can be promoted to electrical project supervisor, self-employed electrician,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | French employer sponsorship is required, CDI contract is provided, and work permit approval takes about 2-3 months. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-quality talents (such as Bac+3 or above), requires employer sponsorship, valid for 4 years, and allows family members. |
-| Subclass Carte bleue UE (EU Blue Card) | Need annual salary higher than 1.5 times the French average wage (about EUR 53,000). Construction electricians usually do not meet this, but can try management positions. |
-| Subclass Recherche d'emploi (Job Search Visa) | After completing studies in France, you can apply for a one-year job-seeking visa; once you find a job, switch to a work visa. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +142,12 @@ A: You can be promoted to electrical project supervisor, self-employed electrici
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-electrician/FR)**

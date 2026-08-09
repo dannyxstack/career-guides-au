@@ -51,8 +51,6 @@ Responsible for regional economic promotion, investment attraction, and business
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Economic Promotion Officers' work will significantly benefit from AI data analysis and automated reporting, but core tasks such as investment attraction, government-business negotiations, and strategic decision-making still rely on human insight and interpersonal networks, making it a 'mixed blessing' occupation.
-
 Can progress from specialist to department head or director of economic development, or move into regional management or consulting, with some entering state or federal economic departments.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from specialist to department head or director of economic developm
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to skilled migrants with German recognized qualifications or vocational certificates |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on a points system, allowing conditional job search |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: If you hold a German-recognized degree in economics, you can apply for an EU 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economic-development-officer/DE)**

@@ -1,10 +1,8 @@
 # 消防员（Firefighter）职业分析 · 韩国
 
-**职业代码: 24021 (KECO)**
+**职业代码：24021 (KECO)**
 
-A specialized profession that protects lives and property from fires, disasters, and emergencies by performing rescue, suppression, and emergency medical activities.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+通过执行救援、灭火和紧急医疗活动，保护生命财产免受火灾、灾难和紧急情况影响的专业职业。
 
 
 ---
@@ -13,9 +11,9 @@ A specialized profession that protects lives and property from fires, disasters,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 0 | $0~$0（No educational restrictions, meeting eligibility requirements） |
-| Firefighter recruitment exam | 1 to 2 years | $2,000,000~$5,000,000（Including academy and textbook fees, self-funded） |
-| New fire academy training | 6 months | $0~$0（Government-funded, allowances provided） |
+| 高中及以上学历 | 0 | $0~$0（无学历限制，满足资格要求即可） |
+| 消防员招聘考试 | 1至2年 | $2,000,000~$5,000,000（含学费和教材费，自费） |
+| 新消防学院培训 | 6个月 | $0~$0（政府资助，提供津贴） |
 
 ---
 
@@ -23,18 +21,18 @@ A specialized profession that protects lives and property from fires, disasters,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Passing the firefighter recruitment exam | National firefighter appointment exam | 必备 | Includes written, physical, and interview tests |
-| Level 1 Emergency Medical Technician | Korea Health Personnel Licensing Examination Institute | 可选 | Mandatory for ambulance crew, optional certification |
-| Class 1 Large Vehicle Driver's License | National Police Agency | 可选 | Allows driving fire trucks, required by each fire station |
+| 通过消防员招聘考试 | 全国消防员录用考试 | 必备 | 包括笔试、体能测试和面试 |
+| 一级急救医疗技术员 | 韩国保健医疗人国家考试院 | 可选 | 救护车人员强制，可选认证 |
+| 一级大型车辆驾驶证 | 国家警察厅 | 可选 | 允许驾驶消防车，由各消防站要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 72,000. Due to climate change, large wildfires and natural disasters are increasing, and with an aging population, demand for emergency medical services is rising, which is expected to maintain stable employment.
+**职位需求量：很高（★★★★½）** 全国从业人数约 72,000。由于气候变化，大型野火和自然灾害增多，人口老龄化，紧急医疗服务需求上升，预计就业稳定。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -42,91 +40,83 @@ A specialized profession that protects lives and property from fires, disasters,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0 to 3 years) | $32,000,000~$38,000,000 | Based on Firefighter Step 1, including allowances |
-| Intermediate (4 to 9 years) | $40,000,000~$52,000,000 | Firefighter Sergeant-Firefighter Master, including hazard pay and night shift allowance |
-| 资深（10年以上） | $55,000,000~$75,000,000 | Firefighter Chief or higher, including overtime pay and regular service allowance |
+| 初级（0至3年） | $32,000,000~$38,000,000 | 基于消防员第一步，含津贴 |
+| 中级（4至9年） | $40,000,000~$52,000,000 | 消防士-消防长，包括危险津贴和夜班补贴 |
+| 资深（10年以上） | $55,000,000~$75,000,000 | 消防队长或以上，含加班费和定期服务津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI and robots can replace fire monitoring and information analysis tasks, on-site rescue, suppression, and emergency treatment, which require human judgment and physical ability, cannot be replaced, so the impact is limited.
+虽然AI和机器人可以替代消防监测和信息分析任务，但需要人类判断和体能的现场救援、灭火和紧急处理无法被替代，因此影响有限。
 
-After passing the firefighter exam and completing training at a fire academy, recruits are assigned to the field. Through work experience and promotion exams, they can advance to positions such as Fire Sergeant, Fire Lieutenant, and Fire Captain.
+通过消防员考试并在消防学院完成培训后，新兵被分配到现场。通过工作经验和晋升考试，他们可以晋升到消防员、消防中尉和消防队长等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- AI partially replaces fire call receipt and classification in control centers.
-- Drones assist in external building fire suppression.
+- AI部分取代了控制中心的火警接收和分类。
+- 无人机协助建筑外部灭火。
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI fire prediction systems support strategic resource deployment.
-- Wearable AI analyzes rescuer biometric signals.
+- AI火灾预测系统支持战略资源部署。
+- 可穿戴人工智能分析救援人员的生物特征信号。
 
-**人类护城河:**
+**人类护城河：**
 
-- Immediate on-site situation assessment.
-- Heuristic decision-making ability during rescue.
-- Building trust relationships with citizens.
+- 现场即时情况评估。
+- 救援中的启发式决策能力。
+- 与市民建立信任关系。
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based disaster information analysis capability.
-- Operation of drone and robot firefighting equipment.
-- Understanding of data-driven safety management.
+- 基于AI的灾害信息分析能力。
+- 操作无人机和机器人消防设备。
+- 理解数据驱动的安全管理。
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Disaster Response
-- Emergency Medical Services
-- Wildfire Suppression
-- Safety Management
+- 灾害应对
+- 紧急医疗服务
+- 野火扑灭
+- 安全管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable only to firefighting professionals, but practical cases are extremely rare. |
-| Subclass F-2 (F-2 (Residence)) | Can transition to permanent residency, but employment as a firefighter is extremely limited. |
-| Subclass F-5 (F-5 (Permanent Residence)) | Entry on a work visa is virtually impossible; only those already holding permanent residency can apply. |
-
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 很低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with excellent physical and mental strength
-- Those who remain calm in crisis situations and find reward in helping others
-- Those who value teamwork and follow rules well
+- 身心素质优秀的人
+- 在危机情况下保持冷静并从帮助他人中获得成就感的人
+- 重视团队合作且遵守规则的人
 
 **谁不适合**
-- Those with acrophobia or claustrophobia
-- Those who find it difficult to handle irregular shifts and risks
+- 有恐高症或幽闭恐惧症的人
+- 难以适应不规律轮班和风险的人群
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a firefighter?**
-答：The starting salary is around 32-38 million KRW, and after 10+ years, it can rise to 55-75 million KRW. This includes hazard pay and overtime allowances.
+**问：消防员的平均工资是多少？**
+答：起薪约3200-3800万韩元，10年以上可升至5500-7500万韩元。包含危险津贴和加班费。
 
-**问：Can foreigners become firefighters in Korea?**
-答：Realistically, it is very difficult. Most firefighters are Korean nationals, and there are no recruitment exams for foreigners. There are almost no cases of issuing E-7 visas for this.
+**问：外国人在韩国能成为消防员吗？**
+答：实际上非常困难。大多数消防员是韩国国民，且没有针对外国人的录用考试。几乎没有为此签发E-7签证的案例。
 
-**问：What preparations are needed to become a firefighter?**
-答：You must pass the fire service recruitment exam (written, physical fitness, interview). Written subjects include English, Korean history, fire science, and administrative law, with physical and interview tests also important.
+**问：成为消防员需要做什么准备？**
+答：必须通过消防员录用考试（笔试、体能、面试）。笔试科目包括英语、韩国史、消防学、行政法，体能和面试也很重要。
 
 
 ---
@@ -144,12 +134,12 @@ After passing the firefighter exam and completing training at a fire academy, re
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 很低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/firefighter/KR)**

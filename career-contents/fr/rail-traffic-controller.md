@@ -51,8 +51,6 @@ Responsible for coordinating and dispatching train operations on the railway net
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Junior dispatchers generally start as assistants or station staff, and after internal training and assessment, can be promoted to lead dispatcher or control center supervisor, with some moving to railway operations management positions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior dispatchers generally start as assistants or station staff, and after int
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent passport) | Suitable for highly skilled talents; if the position is in short supply, you can apply, with an annual salary of ≥ twice SMIC (approximately €36,300). |
-| Subclass Salarié (Salaried employee) | Requires employer sponsorship, approved by labor bureau, usually need to prove no suitable EU candidate. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary ≥ 1.5 times the average salary (about €53,100), and dispatchers' salaries may not meet the standard |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Yes, you must obtain internal certification and a restricted certificate from
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-traffic-controller/FR)**

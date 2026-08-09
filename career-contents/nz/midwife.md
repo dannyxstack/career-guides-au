@@ -51,8 +51,6 @@ Midwives provide antenatal, childbirth, and postnatal care in public hospitals, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
-
 Registered midwives can advance to clinical specialist, team leader, or midwifery consultant. They can also pursue a master's degree for research or education, or open their own independent midwifery practice.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Registered midwives can advance to clinical specialist, team leader, or midwifer
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration; midwives typically receive high qualification and registration bonus points |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can serve as a transitional work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must complete an approved course in New Zealand or pass an overseas qualifica
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwife/NZ)**

@@ -52,8 +52,6 @@ Health Services and Public Health Managers and Directors plan, organize, direct,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance rather than replace health service managers, but will reduce low-level administrative and data roles; key decisions still require humans.
-
 Typically progresses from clinical or management roles to department head, regional manager, and eventually director or executive level positions. Can be accelerated with an MBA or Master of Health Administration.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically progresses from clinical or management roles to department head, regio
 | Subclass Health & Care (Health and Care Worker visa) | Designed specifically for medical professionals, with priority processing and reduced fees. |
 | Subclass Global Talent (Global Talent visa) | For leaders with outstanding achievements in public health, no employer sponsorship required. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a relevant bachelor's degree; a master's degree (e.g., Mas
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-services-and-public-health-managers-and-directors/UK)**

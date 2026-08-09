@@ -1,10 +1,8 @@
-# Other Railway Operation Workers 职业分析 · 日本
+# 其他铁路运营工人（Other Railway Operation Workers）职业分析 · 日本
 
-**职业代码: 609 (JSCO)**
+**职业代码：609 (JSCO)**
 
-Drivers of streetcars, freight railways, monorails, etc. Primarily transport passengers and cargo safely on non-JR lines and local routes.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+有轨电车、货运铁路、单轨列车等驾驶员。主要在非JR线路和地方路线上安全运输乘客和货物。
 
 
 ---
@@ -13,8 +11,8 @@ Drivers of streetcars, freight railways, monorails, etc. Primarily transport pas
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Public high school tuition is free） |
-| In-house training by railway companies | 1~2年 | $0~$500,000（Training provided at company expense after hiring） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中学费免费） |
+| 铁路公司提供的内部培训 | 1~2年 | $0~$500,000（入职后由公司提供培训） |
 
 ---
 
@@ -22,17 +20,17 @@ Drivers of streetcars, freight railways, monorails, etc. Primarily transport pas
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Locomotive Engineer's License (Class A) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for railway operation |
-| Class 2 Driver's License (Large) | Public Safety Commission | 可选 | May be required for driving large vehicles |
+| 内燃机车司机执照（A类） | 国土交通省 | 必备 | 铁路运营所需 |
+| 二级驾照（大型） | 公共安全委员会 | 可选 | 驾驶大型车辆可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 8,000. Employment is expected to decline gradually due to the abolition of local lines and the introduction of automated driving technology. However, manual operation is still needed on routes where automation is difficult.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 8,000。由于地方线路废止和自动驾驶技术引入，就业预计逐渐下降。但在自动化困难的线路上，仍需人工操作。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ Drivers of streetcars, freight railways, monorails, etc. Primarily transport pas
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,500,000~$4,500,000 | Base salary + various allowances (night shift, holidays, etc.) |
-| Mid-level (4–10 years) | $4,500,000~$6,000,000 | Salary increase based on driving experience |
-| Veteran (10+ years) | $6,000,000~$8,000,000 | Includes instructor or managerial positions |
+| 初级（0–3年） | $3,500,000~$4,500,000 | 基本工资+各类津贴（夜班、节假日等） |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 基于驾驶经验的薪资增长 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 包括讲师或管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With advances in automated driving technology, substitution by AI is progressing, especially in subways and new lines. However, humans are still needed for complex routes and emergency responses, so not all positions will be replaced.
+随着自动驾驶技术的进步，AI替代正在推进，尤其是在地铁和新线路中。然而，复杂路线和应急响应仍需人类，因此并非所有职位都会被取代。
 
-Internal promotion from conductor or station staff to driver is common. With experience, advancement to instructor driver or management is possible. Large companies offer generous qualification allowances.
+从列车员或车站工作人员内部晋升为司机很常见。随着经验增长，可以晋升为教练司机或管理层。大公司提供丰厚的资格津贴。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant Speed Driving
-- Simple Acceleration/Deceleration Operations
-- Schedule-compliant Running
+- 匀速行驶
+- 简易加速/减速操作
+- 按计划运行
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Coordination with Obstacle Detection Systems
-- Operation Management Data Analysis
-- Anomaly Judgment
+- 与障碍检测系统的协调
+- 运营管理数据分析
+- 异常判断
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to Handle Unexpected Events
-- Passenger Safety Assurance and Evacuation Guidance
-- Route-specific Driving Techniques
+- 应对突发事件的能力
+- 乘客安全保障和疏散指导
+- 路线特定驾驶技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Monitoring System Operation
-- Operation Data Analysis
-- Emergency Response Training
+- 人工智能监控系统操作
+- 运营数据分析
+- 应急响应培训
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Local railways
-- Freight transport
-- Safety Technology
-- Automated Driving Compatibility
+- 地方铁路
+- 货运运输
+- 安全技术
+- 自动驾驶兼容性
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技能 (Skilled Labor Visa) | Corresponds to work requiring advanced skills, but railway operations are generally excluded |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not possible due to being outside the field |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can strictly follow rules
-- People with sustained concentration
-- People who can handle irregular work hours
+- 严格遵守规则的人
+- 能持续专注的人
+- 能处理不规律工作时间的人
 
 **谁不适合**
-- People who struggle with irregular schedules
-- People who find night/early morning shifts difficult
+- 不适应不规律作息的人
+- 难以适应夜班或早班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：For beginners: 3.5-4.5 million yen, intermediate: 4.5-6 million yen, veteran: 6-8 million yen.
+**问：该职业的平均年收入是多少？**
+答：初学者：350-450万日元，中级：450-600万日元，资深：600-800万日元。
 
 **问：外国人能否从事此职业？**
-答：Currently, train driving is not covered by Specified Skilled Worker status, and work visa requirements are strict, making it difficult as an immigration route.
+答：目前，火车驾驶不属于特定技能工人签证范畴，工作签证要求严格，因此作为移民途径困难。
 
-**问：Is a career change from this occupation possible?**
-答：Utilizing driving skills and safety knowledge, transitioning to railway maintenance/management or operations manager roles is possible.
+**问：从这个职业转行可能吗？**
+答：利用驾驶技能和安全知识，可以转向铁路维护/管理或运营经理角色。
 
 
 ---
@@ -143,12 +134,12 @@ Internal promotion from conductor or station staff to driver is common. With exp
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-railway-operation-workers/JP)**

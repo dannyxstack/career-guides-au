@@ -53,8 +53,6 @@ Responsible for managing the daily production and operations of fishery fishing 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fisheries and aquaculture production managers face a situation where AI automation and enhancement coexist: tasks like data monitoring and resource planning can be replaced by AI, but on-site decision-making, emergency response, and compliance responsibilities still require humans, resulting in moderate overall risk.
-
 You can advance from aquaculture technician or fishing boat chief mate to production manager, then to regional operations director or independent nutrition farm. It is necessary to accumulate industry experience and master sustainable development technologies.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can advance from aquaculture technician or fishing boat chief mate to produc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | This is for highly skilled professionals holding university degrees whose annual salary under a contract meets the threshold (approximately 33,908 euros). |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency sponsored by a Spanish employer requires proof that the position is difficult to recruit locally. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For highly educated or in-demand occupations, simplify procedures and quickly obtain residency. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: A university degree (Grado) is usually required, but Advanced Vocational Trai
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishery-and-aquaculture-production-managers/ES)**

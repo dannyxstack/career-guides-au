@@ -52,8 +52,6 @@ Responsible for inspecting, diagnosing, adjusting, or repairing wind turbines, i
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Wind turbine technician roles are mixed regarding AI/automation impact: predictive maintenance and remote monitoring enhance efficiency, but physical operations still rely on humans; automation compresses basic diagnostic roles but adds advanced data analysis and system optimization roles.
-
 Junior technicians can advance to senior technician, team leader, or regional manager; may also switch to other wind energy roles such as field engineer or trainer. Experienced individuals may enter project management or consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior technicians can advance to senior technician, team leader, or regional ma
 | Subclass TN (TN Status (USMCA Professionals)) | Canadian or Mexican citizens may apply for TN visa if they qualify for professional occupations such as engineers |
 | Subclass O-1 (O-1 Extraordinary Ability) | Rarely applicable unless there are outstanding achievements or industry reputation |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires high school diploma plus technical training (1-year certif
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wind-turbine-service-technicians/US)**

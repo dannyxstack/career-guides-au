@@ -51,8 +51,6 @@ Teaches forestry and conservation science courses at higher education institutio
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI’s impact on forestry and conservation science professors is mixed: automation will streamline literature reviews, data analysis, and course management, but fieldwork, interdisciplinary teaching, and ethical decision-making still require deep human involvement.
-
 Usually start as assistant professor, after 6-7 years gain tenure (associate professor), then advance to full professor. Some move to research management or administrative roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually start as assistant professor, after 6-7 years gain tenure (associate pro
 | Subclass EB-2 (Employment-Based Second Preference) | Apply for permanent residency via PERM or National Interest Waiver (NIW) |
 | Subclass O-1 (O-1 Extraordinary Ability) | Outstanding professors or researchers may apply. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Community college or part-time instructors may accept a master's degree, but 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-and-conservation-science-teachers-postsecondary/US)**

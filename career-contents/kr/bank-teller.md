@@ -4,8 +4,6 @@
 
 A job that provides financial services such as counter work, deposit/loan consultation, computer data entry, and customer service at a bank; a representative clerical job in the financial sector.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A job that provides financial services such as counter work, deposit/loan consul
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-With AI and digitalization, simple counter and computational tasks are significantly decreasing. However, jobs requiring complex judgment such as customer consultation, financial planning, and risk management are expected to maintain or increase demand.
-
 Typically, after joining through new employee recruitment, one accumulates experience by rotating through various tasks within a branch. Based on performance, one can be promoted to branch manager or department head, or switch to a specialized position such as a PB (private banker).
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Typically, after joining through new employee recruitment, one accumulates exper
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment as a foreign bank teller is possible, but Korean language skills and financial experience are required. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible through points system, no restrictions on bank office job employment. |
-| Subclass F-4 (Overseas Korean) | Employment in bank office jobs limited to overseas Koreans. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: You can be promoted to deputy manager or branch manager through internal prom
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-teller/KR)**

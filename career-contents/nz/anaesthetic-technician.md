@@ -52,8 +52,6 @@ Anaesthesia technicians assist anaesthetists in preparing and maintaining anaest
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on anesthesia technicians is mixed: equipment monitoring and recording tasks will be greatly automated, but core competencies such as clinical judgment, teamwork, and emergency response form a strong moat
-
 Junior anaesthesia technicians can advance to senior technician, team leader or trainer; some may transition to anaesthesia assistant or medical equipment management. With experience, opportunities exist in management or academia.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior anaesthesia technicians can advance to senior technician, team leader or 
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Must apply to MSCNZ for a qualification assessment; may need to take addition
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anaesthetic-technician/NZ)**

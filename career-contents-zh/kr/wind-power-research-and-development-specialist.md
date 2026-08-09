@@ -1,8 +1,8 @@
-# Wind Power Research and Development Specialist 职业分析 · 韩国
+# 风电研发专家（Wind Power Research and Development Specialist）职业分析 · 韩国
 
-**职业代码: 15513 (KECO)**
+**职业代码：15513 (KECO)**
 
-An R&D professional responsible for designing wind power systems, optimizing performance, and developing new technologies. Demand for this occupation is increasing due to Korea's renewable energy transition policy.
+负责设计风电系统、优化性能和开发新技术的研发专业人员。由于韩国的可再生能源转型政策，该职业的需求正在增加。
 
 
 ---
@@ -11,9 +11,9 @@ An R&D professional responsible for designing wind power systems, optimizing per
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（工程学） | 4年 | $40,000,000~$60,000,000（Average tuition for a 4-year university） |
-| Master's (Wind/Mechanical/Electrical) | 2 年 | $20,000,000~$30,000,000（Graduate school tuition (national university standard)） |
-| 博士 | 4年 | $40,000,000~$60,000,000（Total tuition for doctoral program after master's） |
+| 本科（工程学） | 4年 | $40,000,000~$60,000,000（四年制大学平均学费） |
+| 硕士（风能/机械/电气） | 2 年 | $20,000,000~$30,000,000（研究生学费（国立大学标准）） |
+| 博士 | 4年 | $40,000,000~$60,000,000（硕士后博士项目总学费） |
 
 ---
 
@@ -21,18 +21,18 @@ An R&D professional responsible for designing wind power systems, optimizing per
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Mechanical Engineering | Human Resources Development Service of Korea | 可选 | Advantageous for large wind turbine design |
-| Professional Engineer in Electrical Engineering | Human Resources Development Service of Korea | 可选 | Power grid integration and power conversion |
-| Wind Power Equipment Certification (if applicable) | International certification bodies (DNV, GL, etc.) | 可选 | Preferred for international project participation |
+| 机械工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 有利于大型风力发电机设计 |
+| 电气工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 电网集成与电力转换 |
+| 风电设备认证（如适用） | 国际认证机构（DNV、GL等） | 可选 | 优先考虑参与国际项目 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 1,500. Following the Korean government's 2030 target to expand the share of renewable energy and plans to build offshore wind farms, demand for wind power R&D personnel is expected to grow steadily. However, as the industry is in its early stages, the absolute number of jobs remains small.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 1,500。随着韩国政府2030年扩大可再生能源份额的目标以及建设海上风电场的计划，风电研发人员的需求预计将稳步增长。然而，由于该行业处于早期阶段，绝对就业岗位数量仍然较少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,91 +40,84 @@ An R&D professional responsible for designing wind power systems, optimizing per
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Based on large corporate labs; may be lower at SMEs |
-| Mid-level (4–7 years) | $50,000,000~$65,000,000 | For Master's degree holders |
-| Advanced (8+ years) | $70,000,000~$90,000,000 | Varies by position (Principal Researcher, PhD, experience) |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于大型企业实验室；中小企业可能更低 |
+| 中级（4–7年） | $50,000,000~$65,000,000 | 面向硕士学位持有者 |
+| 高级（8年以上） | $70,000,000~$90,000,000 | 因职位而异（首席研究员、博士、经验） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies enhance efficiency in wind turbine design optimization, power generation forecasting, and fault diagnosis, but creative design and system integration remain core human roles, so this field is augmented rather than replaced by AI.
+AI和自动化技术提高了风力涡轮机设计优化、发电预测和故障诊断的效率，但创意设计和系统集成仍是人类核心角色，因此该领域被AI增强而非取代。
 
-After joining a research institute or corporate R&D center, one advances from Assistant Researcher to Senior Researcher to Team Lead/Director. A foreign master's or doctoral degree and experience in large-scale projects are advantageous.
+加入研究所或企业研发中心后，从助理研究员晋升到高级研究员再到团队负责人/主任。拥有海外硕士或博士学位以及大型项目经验有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Simulation Repetition Tasks
-- Weather Data Collection and Basic Analysis
-- Documentation and Report Writing
+- 简单模拟重复任务
+- 天气数据收集与基础分析
+- 文档与报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Turbine Blade Aerodynamic Design Optimization
-- Fault Prediction and Maintenance Planning
-- Energy Production Forecasting Modeling
+- 涡轮叶片气动设计优化
+- 故障预测与维护规划
+- 能源生产预测建模
 
-**人类护城河:**
+**人类护城河：**
 
-- System Integration and Optimization Decision-Making
-- Novel Wind Turbine Structure Design
-- Domain-Based Reasoning with Limited Field Data
+- 系统集成与优化决策
+- 新型风力涡轮机结构设计
+- 基于领域的有限现场数据推理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python/Matlab Programming
-- Machine Learning and Deep Learning
-- CFD and FEA Analysis
-- Big Data Analysis
-- Digital Twins
+- Python/Matlab编程
+- 机器学习和深度学习
+- CFD与FEA分析
+- 大数据分析
+- 数字孪生
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Offshore Wind Power
-- Turbine Upscaling
-- Floating Offshore Wind
-- Energy Storage System (ESS) Integration
+- 海上风电
+- 涡轮升级
+- 浮式海上风电
+- 储能系统（ESS）集成
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment visa issuance available when hired as R&D professional |
-| Subclass D-10 (Job-seeking) | Available for Master's degree holders for job-seeking activities |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay; applicable for stable employment |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Deep interest and curiosity in energy/mechanical engineering
-- Creative problem-solving skills and mathematical thinking
-- Patience for long-term research projects
+- 对能源/机械工程有浓厚兴趣和好奇心
+- 创造性解决问题能力和数学思维
+- 对长期研究项目的耐心
 
 **谁不适合**
-- Preference for repetitive/structured tasks
-- Preference for small organizations or stable environments
+- 偏好重复/结构化任务
+- 偏好小组织或稳定环境
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for a wind power R&D researcher?**
-答：Based on large corporate research labs, the entry-level (0–3 years) annual salary is approximately KRW 35–45 million before tax, varying by bachelor's or master's degree.
+**问：风能研发研究员的平均起薪是多少？**
+答：基于大型企业研究实验室，入门级（0-3年）年薪约为3500-4500万韩元（税前），因学士或硕士学位而异。
 
-**问：What type of visa does a foreigner need to work as a wind power R&D researcher?**
-答：The E-7 (Specific Activities) visa is commonly used, and relevant degree and experience requirements must be met. Highly educated individuals can apply with a D-10 (Job Seeking) visa and then switch after finding a job.
+**问：外国人从事风电研发研究员需要哪种签证？**
+答：E-7（特定活动）签证常见，需满足相关学历和经验要求。高学历者可申请D-10（求职）签证，找到工作后换签。
 
 
 ---
@@ -142,12 +135,12 @@ After joining a research institute or corporate R&D center, one advances from As
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/wind-power-research-and-development-specialist/KR)**

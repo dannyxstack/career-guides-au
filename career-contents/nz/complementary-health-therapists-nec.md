@@ -54,8 +54,6 @@ Provides non-conventional health services in New Zealand such as naturopathy, tr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
-
 Junior therapists can build a client base and start their own clinic, or transition to health consulting or product retail. Senior therapists can seek certification through professional associations (e.g., NZANZ) to enhance professional credibility and open up teaching or management pathways.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior therapists can build a client base and start their own clinic, or transit
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Overseas qualifications need to be assessed for equivalence to local qualific
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/complementary-health-therapists-nec/NZ)**

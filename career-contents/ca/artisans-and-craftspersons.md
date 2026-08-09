@@ -51,8 +51,6 @@ Artisans and craftspeople use traditional or modern techniques to produce functi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
-
 Limited career progression, often starting as apprentices or assistants, then becoming independent artisans or opening studios. Some move into teaching, exhibition curation, or wholesale sales. A few outstanding artisans can become masters, receiving awards or government funding.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Limited career progression, often starting as apprentices or assistants, then be
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Limited promotion opportunities; most remain self-employed. Experienced craft
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artisans-and-craftspersons/CA)**

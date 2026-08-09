@@ -54,8 +54,6 @@ As a combat member of the Canadian Armed Forces, execute military missions, main
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on combat personnel is mixed: automation threat is low, but AI-enhanced situational awareness and logistics efficiency will change mission execution; some administrative and intelligence analysis tasks may be replaced.
-
 Promotion path is clear: from junior soldier to non-commissioned officer or officer, requiring military training and promotion exams; senior positions are highly competitive.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Promotion path is clear: from junior soldier to non-commissioned officer or offi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Clear promotion path, from soldier to non-commissioned officer or officer req
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operations-members-of-the-canadian-armed-forces/CA)**

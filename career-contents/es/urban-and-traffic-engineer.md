@@ -51,8 +51,6 @@ Urban and Transportation Engineers are responsible for designing, planning, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
-
 Junior engineers can be promoted to project supervisors or technical managers, and after gaining experience, can move on to senior positions in transportation planning consulting or government departments. Further studies (such as Máster) can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior engineers can be promoted to project supervisors or technical managers, a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled workers, requiring at least 3 years of work experience or higher education education, with a salary at least 1.5 times the average Spanish salary (about 40,000 euros per year). |
-| Subclass Cuenta ajena (Work Contract (employed)) | Employer-sponsored work residency requires proof that the position cannot be held by a Spanish or EU citizen. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or executives, with a simplified process that allows for quick residency acquisition. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Outlook is good, with increasing urbanization and sustainable transport proje
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-and-traffic-engineer/ES)**

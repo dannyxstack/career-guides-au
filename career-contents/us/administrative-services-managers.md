@@ -52,8 +52,6 @@ An administrative services manager plans, directs, or coordinates an organizatio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Office manager roles face significant automation compression risk; AI and software directly replace core tasks like admin scheduling, document processing, and budget monitoring, but complex interpersonal coordination and strategic decisions still require humans.
-
 Usually promoted from administrative assistant or office manager; with experience can advance to senior administrative manager or operations director. Some may transition to facility management or procurement management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually promoted from administrative assistant or office manager; with experienc
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable for bachelor degree or skilled workers, requires PERM labor certification |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | First step for a green card: prove no qualified US workers are available |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior administrative manager, operations director, facilities
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-services-managers/US)**

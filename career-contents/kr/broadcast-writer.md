@@ -4,8 +4,6 @@
 
 A broadcast professional responsible for planning, organizing, and writing scripts for TV programs, specializing in genres such as entertainment, educational, and drama.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A broadcast professional responsible for planning, organizing, and writing scrip
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of AI technology, especially GPT-based script generation and entertainment planning assistance tools, some tasks of broadcast writers are being automated. However, creative ideas and sensibility remain human domains, so the job will not completely disappear.
-
 Typically start as freelancers, build experience and portfolios, and advance to main writers or head writers, or transition to broadcast PDs or content planners.
 
 **Tasks most exposed to AI:**
@@ -94,16 +90,9 @@ Typically start as freelancers, build experience and portfolios, and advance to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible with employment contract as broadcast professional, requires company sponsorship |
-| Subclass E-1 (Professor) | Direct path is limited as college broadcasting professor or writer |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +136,12 @@ A: Not mandatory, but graduating from a broadcasting-related department or compl
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcast-writer/KR)**

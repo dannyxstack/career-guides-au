@@ -54,8 +54,6 @@ Assist preschool, primary, secondary or senior secondary teachers in providing a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of teaching assistants (document processing, scheduling, record-keeping) are easily replaced by AI, but demand for emotional labor like face-to-face student support and behavior management remains; the role is evolving overall.
-
 Usually start as part-time or temporary positions, can transition to full-time after gaining experience. Advancement paths include becoming lead teaching assistant or pursuing further education to become special education teacher. Some districts offer additional training to enhance qualifications.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually start as part-time or temporary positions, can transition to full-time a
 | Subclass EB-3 (Employment-Based Third Preference) | Very rare, requires PERM labor certification and employer proof of inability to find qualified US workers. Teaching assistant positions usually do not meet skill requirements. |
 | Subclass J-1 (J-1 Exchange Visitor) | Some schools can hire foreign teaching assistants through cultural exchange programs, but with limited duration. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes. Many teaching assistants advance to become special education teachers by
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teaching-assistants-special-education/US)**

@@ -53,8 +53,6 @@ Representing clients in import/export customs clearance, ship brokering, and fre
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Customs, shipping and other brokers face significant automation risk. AI can take over customs clearance documentation, data entry and compliance checks, leading to job reduction, but complex negotiations and exceptions still require humans.
-
 Beginners can start as customs brokers or freight coordinators, then advance to senior broker, team supervisor, or shift to supply chain management or trade compliance.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Beginners can start as customs brokers or freight coordinators, then advance to 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations for logistics/trade occupations, e.g., Ontario, BC |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points for PR application |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, you must pass the CBSA qualifying exam to obtain a customs broker licens
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-ship-and-other-brokers-13200/CA)**

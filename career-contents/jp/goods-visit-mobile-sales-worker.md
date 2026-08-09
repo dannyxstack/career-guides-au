@@ -4,8 +4,6 @@
 
 A job that involves visiting customers or patrolling with a mobile sales vehicle to sell food and daily necessities. Characterized by community-based sales.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A job that involves visiting customers or patrolling with a mobile sales vehicle
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has low direct replacement risk but may enhance work through customer management and route optimization. Interpersonal skills are key.
-
 With experience, promotion to sales office manager or area manager is possible. There is also a path to start an independent mobile sales business.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ With experience, promotion to sales office manager or area manager is possible. 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food Service)) | Permits work in the food service industry. Exam required. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for sales roles requiring specialized knowledge. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: With experience, paths to branch manager or independent business exist. Quali
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/goods-visit-mobile-sales-worker/JP)**

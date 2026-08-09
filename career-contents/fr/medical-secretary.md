@@ -4,8 +4,6 @@
 
 Medical secretaries are responsible for administrative support within medical institutions, including appointment management, patient reception, medical record maintenance, and coordination of insurance processes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Medical secretaries are responsible for administrative support within medical in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical secretaries' administrative paperwork faces high automation risks, with entry-level positions significantly reduced, but the remaining work requires stronger AI tool collaboration capabilities.
-
 You can be promoted from junior medical secretary to senior medical secretary or office manager, or transition to professional roles such as medical coding or health information management.
 
 **Tasks most exposed to AI:**
@@ -98,18 +94,9 @@ You can be promoted from junior medical secretary to senior medical secretary or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | Employer sponsorship required, CDI contract provided, salary not lower than SMIC, approval from the French Labor Authority |
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring an annual salary of no less than 45,000 euros or a CDI contract, without approval from the Labor Office |
-| Subclass Recherche emploi (Job Search Permit) | You can apply after graduation, with a validity period of one year, allowing job hunting |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled non-EU talents, requiring an annual salary of no less than 53,000 euros (2025 standard), CDI contract |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +140,12 @@ A: Usually, a BTS Secretary or Assistant diploma, or specialized medical secreta
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-secretary/FR)**

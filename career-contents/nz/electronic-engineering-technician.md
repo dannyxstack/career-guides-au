@@ -53,8 +53,6 @@ Electronics engineering technicians assist electronics engineers in designing, t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronics Engineering Technician (NZ) faces medium-high automation risk: AI-driven design simulation, automated testing, and fault diagnosis tools will significantly reduce basic debugging and documentation work, but on-site repairs and complex system integration still require human experience.
-
 Career progression includes advancing from junior technician to senior technician or technical expert, or transitioning to project management or electronic engineering. Experience leads to higher certifications and salaries.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression includes advancing from junior technician to senior technicia
 | Subclass SMC (Skilled Migrant Category) | Eligible via 6-point skilled migration; meet education, work experience, and salary requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | First obtain a job offer from an accredited employer, then after 2 years of work, you can apply for residency (if the occupation is on the Green List Tier 2). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a New Zealand Diploma in Electrical Engineering (Level 6) 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-engineering-technician/NZ)**

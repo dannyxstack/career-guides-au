@@ -52,8 +52,6 @@ Zoologists study animal behaviour, ecology and conservation. This occupation is 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
-
 Typically start as research assistants or technicians, and with experience can advance to senior scientist, project supervisor, or department manager. Can also transition to academia or consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as research assistants or technicians, and with experience can a
 | Subclass SMC (Skilled Migrant Category Residence Visa) | Skilled migration category, 6-point system, must meet salary and education requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa can serve as immigration transition |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires at least a bachelor's degree in zoology or a related field
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/zoologist/NZ)**

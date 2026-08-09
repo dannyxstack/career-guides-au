@@ -50,8 +50,6 @@ Responsible for technical control, quality inspection, and diagnostics of agricu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some tasks of agricultural inspectors can be automated by AI, such as data recording and preliminary analysis, but on-site judgment and regulatory decisions still require humans; AI can enhance monitoring efficiency and predictive capabilities, presenting both opportunities and challenges.
-
 Promotion from junior technician to senior diagnostic expert or team leader; You can also shift to agricultural consulting, training, or regulatory roles. Further education can be used to advance to the engineer level.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Promotion from junior technician to senior diagnostic expert or team leader; You
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Profession Qualifiée)) | Applicable to highly skilled talents who must have a French employer contract and meet the salary threshold (usually annual salary ≥ 42,303 euros). |
-| Subclass Salarié (Salaried Employee) | Regular work visa, requires a work permit from a French employer, suitable for mid-level positions |
-| Subclass Carte Bleue UE (EU Blue Card) | Requires annual salary ≥ EUR 53,717 (2024 standard), suitable for senior specialists |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Public school registration fees are very low (approx. €200-300/year). Throu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technical-controller-and-diagnostic-specialist/FR)**

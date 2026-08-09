@@ -4,8 +4,6 @@
 
 Engage in tree felling, pruning, and clearing, using tools like chainsaws to ensure the safety of forests and urban trees.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engage in tree felling, pruning, and clearing, using tools like chainsaws to ens
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Low- to medium-skill logging and pruning tasks in this profession are easily replaced by automated robotic arms and drones, but complex tree assessment and sensitive environment operations still require human judgment, leading to a tendency toward compression of overall job demand.
-
 From ordinary lumberjacks, you can be promoted to team leader or forest manager, and through training, become a tree expert or safety consultant.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ From ordinary lumberjacks, you can be promoted to team leader or forest manager,
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires the employer's intention and approval from the Labor Bureau. Since it is a non-urgent occupation, sponsorship is difficult. |
-| Subclass Travailleur saisonni (Seasonal Worker Permit) | Suitable for seasonal logging work, valid for up to 3 years. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: It's difficult; the profession is not in short supply and requires high emplo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-and-tree-pruning/FR)**

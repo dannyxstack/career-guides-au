@@ -52,8 +52,6 @@ Operate various machine tools to process metal parts, manufacture precision inst
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Starting as an apprentice or operator, can advance to senior machinist, team leader, or CNC programmer, with some transitioning to quality control or production management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Starting as an apprentice or operator, can advance to senior machinist, team lea
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually high school diploma plus vocational training (1-2 years), or completi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machinists/US)**

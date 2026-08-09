@@ -51,8 +51,6 @@ Operating machines to preprocess, tan, dye, and finish raw hides and leather is 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Leather handling machine operators will not be replaced by AI; instead, demand will be amplified by AI-driven intelligent tanning, dyeing, and quality inspection systems, but operators will need to shift to equipment monitoring and process optimization roles.
-
 Promotion possible to production line supervisor or quality control technician; After gaining experience, you can move on to leather product design or technical sales positions.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Promotion possible to production line supervisor or quality control technician; 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | A work contract must be provided by a Spanish employer proving that the position cannot be filled by a local or EU citizen. |
-| Subclass Tarjeta azul UE (EU Blue Card) | It is suitable for highly skilled professionals, but the profession usually does not meet the high skill requirements unless you serve as a technical supervisor. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Secondary vocational education (FP Grado Medio) is usually required, while se
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-and-hide-processing-machine-operators/ES)**

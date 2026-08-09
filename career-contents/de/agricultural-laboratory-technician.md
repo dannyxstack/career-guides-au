@@ -53,8 +53,6 @@ Conduct soil, plant, and water sample testing and analysis in agricultural labor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Can advance to laboratory supervisor or transition to agricultural consulting, quality control, etc., or pursue further study to become an agricultural scientist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to laboratory supervisor or transition to agricultural consulting, q
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to dual system training or bachelor's degree graduates, must obtain a work contract |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job-seeking in Germany before finding employment. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires a degree or dual-system training certificate recognized in Germany, 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-laboratory-technician/DE)**

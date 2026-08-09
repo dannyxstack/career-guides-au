@@ -53,8 +53,6 @@ Responsible for dyeing, printing, finishing, and post-processing textiles (e.g.,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Textile finishers face mixed impacts from AI/automation: repetitive inspection and color matching will be replaced, but tasks relying on experience like process debugging and quality anomaly handling are enhanced by AI, intensifying competition for entry-level roles.
-
 Can be promoted to team leader, production supervisor, or quality control specialist. Through study, can transition to niche areas like technical textiles or eco-friendly finishing. Predominantly SMEs with limited promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can be promoted to team leader, production supervisor, or quality control specia
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes, by obtaining a Textile Finishing Technician (Meister) certificate, you c
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-finisher/DE)**

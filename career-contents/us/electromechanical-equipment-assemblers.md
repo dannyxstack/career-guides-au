@@ -52,8 +52,6 @@ Assemble or modify electromechanical devices such as servos, gyroscopes, drums, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on industrial instrument technician roles is mixed: routine calibration and data recording will be automated, but complex fault diagnosis, system integration, and compliance verification still heavily rely on human experience, requiring continuous skill upgrades in data analysis and cross-domain expertise.
-
 Usually starts as an assembler, with experience can advance to senior assembler, production supervisor, or quality control inspector. Some move into technician or engineer roles through further education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts as an assembler, with experience can advance to senior assembler,
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Green card for skilled workers, professionals, or other workers, applicable to assemblers with at least two years of experience or training. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers prove no US workers are available through the PERM process, then apply for EB-2/EB-3 green cards. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to senior assembler, production supervisor, or quality control in
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electromechanical-equipment-assemblers/US)**

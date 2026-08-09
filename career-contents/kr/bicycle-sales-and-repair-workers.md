@@ -4,8 +4,6 @@
 
 Responsible for bicycle sales, maintenance, and repairs, providing customized assembly and after-sales service to customers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Responsible for bicycle sales, maintenance, and repairs, providing customized as
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI and automation are unlikely to fully replace maintenance and sales tasks, their adoption in inventory management, customer recommendations, and some diagnostic work is expected to increase efficiency.
-
 Can start a small business or join a large retail/repair chain, advancing from skilled worker to manager.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Can start a small business or join a large retail/repair chain, advancing from s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible under skilled worker (E-7-1) or technical specialist (E-7-2) but limited |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residency stage, self-employment possible |
-| Subclass F-5 (F-5 (Permanent Residence)) | No restrictions on stay, self-employment possible |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: By building repair skills, you can grow into a store manager or master mechan
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bicycle-sales-and-repair-workers/KR)**

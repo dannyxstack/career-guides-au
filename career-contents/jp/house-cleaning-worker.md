@@ -49,8 +49,6 @@ A professional who cleans and organizes homes and offices to maintain a hygienic
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-House cleaning is hard to fully replace with AI and robots, as they play a supporting role but humans handle detailed work and customer service.
-
 Starting from scratch, you can advance to chief or manager by honing skills. Self-employment is also an option.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Starting from scratch, you can advance to chief or manager by honing skills. Sel
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Stay up to 5 years in labor-shortage fields. Requires passing exam. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Building Cleaning)) | Residence status for skilled workers. No restrictions on family accompaniment or renewal. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | 3-year skill acquisition program. No job changes allowed. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -139,12 +130,12 @@ A: Get certified, gain experience, and become a chief or manager. Alternatively,
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/house-cleaning-worker/JP)**

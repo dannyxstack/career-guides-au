@@ -57,8 +57,6 @@ Automotive mechanics diagnose, repair, and service cars, trucks, and a wide rang
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Auto mechanics face mixed impact from automation: diagnostics enhanced by AI, but routine maintenance and documentation may be reduced; EV transition creates new demand but requires learning new skills like high-voltage, otherwise risk of replacement.
-
 The transition to electric vehicles (EVs) and hybrid technology is the biggest variable; automotive technicians with high-voltage electrical skills are in critically short supply. Demand for traditional internal combustion engine servicing will not disappear in the short term.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ The transition to electric vehicles (EVs) and hybrid technology is the biggest v
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Diesel mechanics earn higher salaries (median ~$95k vs automotive mechanics ~
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-mechanic/AU)**

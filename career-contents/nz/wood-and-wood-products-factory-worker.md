@@ -54,8 +54,6 @@ Operate woodworking machinery in a timber processing plant, performing sawing, p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Wood processing plant workers perform highly repetitive tasks; AI/automation will significantly reduce positions, but equipment maintenance and complex judgment still require human labor, making overall risk relatively high.
-
 Start as an entry-level operator, can advance to senior machine operator or team leader, then transition to technical maintenance or quality management. Some experienced individuals can obtain relevant certifications (e.g., New Zealand Carpentry Level 4 Certificate), elevating to ANZSCO Skill Level 3, increasing immigration opportunities.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Start as an entry-level operator, can advance to senior machine operator or team
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can be promoted to senior operator, team leader, or quality controller. With 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-and-wood-products-factory-worker/NZ)**

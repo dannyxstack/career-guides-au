@@ -52,8 +52,6 @@ Vehicle painters are responsible for surface preparation, painting, and coating 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle painters’ core skills are less affected by AI, but AI-assisted tools (e.g., auto color matching, defect detection) will significantly improve efficiency and quality; entry-level positions (e.g., basic spray painter assistants) may decline due to automation, but the value of professional painters will rise.
-
 Practitioners can progress from apprentice to painting technician, and with experience advance to Master or foreman. They may also specialize in high-end custom painting, racing livery, or classic car restoration to become industry experts. Some may start their own paint shops or enter training and education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Practitioners can progress from apprentice to painting technician, and with expe
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For certified skilled tradespeople, can apply with a German employer contract. Vehicle painters are in a shortage occupation and can apply directly after completing the recognition procedure. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, implemented in 2024. Suitable for painters with vocational qualifications and adequate language skills, allowing them to seek work in Germany. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires mastery of surface treatment, color mixing, painting, polishing, etc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-painters/DE)**

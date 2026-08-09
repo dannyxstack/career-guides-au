@@ -51,8 +51,6 @@ General office clerks handle daily administrative tasks such as filing, data ent
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Repetitive tasks of general office clerks (data entry, filing, simple correspondence) are highly susceptible to AI automation, but interpersonal coordination and complex administrative judgment remain a competitive advantage, facing significant compression risk.
-
 Promotion path typically from junior clerk to senior clerk, office supervisor, or administrative manager. By gaining experience and learning specialized skills (e.g., finance or HR), can move into professional fields.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Promotion path typically from junior clerk to senior clerk, office supervisor, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but office clerks usually don't meet the salary threshold (needs approx. €30,000+ annual salary). |
-| Subclass Decreto Flussi (Decreto Flussi (Work Quota)) | Annual quota work visa for non-EU workers, but office clerks are usually not on the priority list. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Requires employer sponsorship, proving no suitable candidate can be found within the EU. Office clerk approvals are highly difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Advancement to senior clerk, office supervisor, administrative manager, or tr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-office-clerk/IT)**

@@ -52,8 +52,6 @@ Specialists in installing, maintaining, and inspecting electrical equipment. Act
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will streamline some tasks like blueprint creation and wiring planning, but on-site physical work and judgment will still depend on humans, so the occupation as a whole is shrinking but not completely replaceable.
-
 Career progression from apprentice to skilled worker and site supervisor. Practical experience and certifications can lead to self-employment. Continuous learning to keep up with technical advances is important.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Career progression from apprentice to skilled worker and site supervisor. Practi
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号(建設) (Specified Skilled Worker (i)) | Target of construction SSV. Requires skill test and N4+ Japanese. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services) | Requires university degree or 10+ years experience. Possible for electrical design/management. |
-| Subclass 技能 (Skilled Worker Visa) | For skilled workers. Requires proven experience in electrical work. Residence period limited. |
-| Subclass 特定技能2号(建設) (Specified Skilled Worker (ii)) | Expanded in 2023. High-skilled can bring family and get PR. Requires exam. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: Commonly, by obtaining qualifications such as Class 1 Electrician or Electric
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-electrical-workers/JP)**

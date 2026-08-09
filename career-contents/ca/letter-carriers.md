@@ -54,8 +54,6 @@ Responsible for delivering mail, parcels, and registered items along designated 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Postal workers face dual impacts: automated sorting and route optimization software reduce physical tasks, but package volume growth and last-mile complexity amplify the need for adaptability and customer service skills.
-
 Usually starts as a temporary postal worker, who can gain experience and become permanent. Career progression is limited, with possible moves to mail processing, sorting, or management roles, but requires internal competition or additional training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually starts as a temporary postal worker, who can gain experience and become 
 | Subclass LMIA (Labour Market Impact Assessment) | Employers need to prove they cannot hire locally to apply for work permits. Canada Post positions are usually not open to external recruitment, and LMIA likelihood is low. |
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations may cover relevant occupations, but postman is uncommon and requires employer support. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Limited. Can transition to internal sorting, scheduling, or management roles,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/letter-carriers/CA)**

@@ -53,8 +53,6 @@ Dormitory supervisors oversee boarding facilities at schools or institutions, en
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dormitory supervisor duties rely heavily on interpersonal care and emergency decision-making, AI cannot replace core supervision and emotional support, but administrative and monitoring tasks can be automated; the role will evolve into a student well-being coordinator.
-
 Usually start as assistant dormitory warden, then advance to senior dormitory warden or accommodation services manager, some transition to student welfare or administrative roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as assistant dormitory warden, then advance to senior dormitory wa
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to senior dormitory manager, accommodation services manager, or s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hostel-parent/AU)**

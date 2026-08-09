@@ -1,10 +1,8 @@
 # 公交车司机（Bus Driver）职业分析 · 日本
 
-**职业代码: 611 (JSCO)**
+**职业代码：611 (JSCO)**
 
-A profession that drives route buses and tour buses to safely transport passengers to their destinations. Plays a vital role in supporting regional transportation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶路线巴士和旅游巴士安全运送乘客至目的地的职业。在支持区域交通方面发挥重要作用。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that drives route buses and tour buses to safely transport passenge
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Large Vehicle License Acquisition | 2 months | $300,000~$500,000（Training school fees, with package options） |
-| Class 2 License Acquisition (optional) | 2 months | $300,000~$500,000（Required for passenger transport, cost often covered by employer） |
+| 大型车辆驾照获取 | 2个月 | $300,000~$500,000（培训学校费用，提供套餐选项） |
+| 获得2级驾照（可选） | 2个月 | $300,000~$500,000（客运所需，费用通常由雇主承担） |
 
 ---
 
@@ -22,18 +20,18 @@ A profession that drives route buses and tour buses to safely transport passenge
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Large Vehicle License | Public Safety Commission | 必备 | Mandatory. Class 1 license required for bus driving. |
-| Large Vehicle Class 2 License | Public Safety Commission | 必备 | Mandatory for passenger transport. Many employers support acquisition after hiring. |
-| Operations Manager Qualification | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | For management, optional but beneficial for promotion. |
+| 大型车辆驾照 | 公共安全委员会 | 必备 | 强制性。驾驶公交车需要1级驾照。 |
+| 大型车辆2级驾照 | 公共安全委员会 | 必备 | 客运强制性要求。许多雇主在雇佣后支持获取。 |
+| 运营经理资格 | 国土交通省 | 可选 | 对于管理层，可选但有利于晋升。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 210,000. A serious shortage of drivers due to an aging population, especially in rural areas where job openings are increasing. While it's covered by Specified Skilled Worker status, hiring is limited due to the need for a large vehicle license.
+**职位需求量：很高（★★★★½）** 全国从业人数约 210,000。由于人口老龄化，司机严重短缺，尤其在农村地区职位空缺增加。虽然属于特定技能工人范畴，但因需要大型车辆驾照，招聘受限。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,83 @@ A profession that drives route buses and tour buses to safely transport passenge
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,500,000~$4,000,000 | Route bus driver, including bonuses |
-| Mid Level (3-10 years) | $4,000,000~$5,000,000 | Tour/express bus, salary increase with experience |
-| 资深（10年以上） | $5,000,000~$6,000,000 | Includes management allowance, upper limit at large companies |
+| 入门级（0-3年） | $3,500,000~$4,000,000 | 路线巴士司机，含奖金 |
+| 中级（3-10年） | $4,000,000~$5,000,000 | 旅游/快线巴士，薪资随经验增加 |
+| 资深（10年以上） | $5,000,000~$6,000,000 | 含管理津贴，大型企业有上限 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the advancement of autonomous driving technology, driving operations will likely shrink in the future. However, full automation is still far off, and manual labor is needed for now.
+随着自动驾驶技术的进步，未来驾驶操作可能会减少。然而，完全自动化仍遥远，目前仍需人工。
 
-After obtaining a large vehicle license, start on route buses, gain experience, then move to tour or express buses. Career advancement to management or operations manager is possible.
+获得大型车辆驾照后，从公交线路开始，积累经验，然后转向旅游或快线巴士。可晋升至管理或运营经理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Operational driving of scheduled routes
-- Simple route bus driving
+- 定期路线的运营驾驶
+- 简单路线公交驾驶
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Efficiency of operations management
-- Safe driving support systems
+- 运营管理效率
+- 安全驾驶辅助系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Decision-making in emergencies
+- 紧急情况下的决策
 - 客户服务技巧
-- Local knowledge
+- 本地知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operations management
-- Safety management
-- Understanding of autonomous driving systems
+- 运营管理
+- 安全管理
+- 了解自动驾驶系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Driver shortage
-- Autonomous driving technology
-- Aging countermeasures
-- Wage increase
+- 司机短缺
+- 自动驾驶技术
+- 抗衰老对策
+- 工资上涨
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food & Beverage/Manufacturing)) | Bus driving is excluded from Specified Skilled Worker, but possibility exists in related occupations. |
-| Subclass 技能実習 (Technical Intern Training (Transport Machinery, etc.)) | Driving assistance possible as intern, but driving duties limited. |
-| Subclass 技人国（技術・人文知識・国際業務） (Engineer/Specialist in Humanities/International Services) | Driving not applicable as simple labor; management may be possible. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People eager to obtain large vehicle license
-- People healthy enough to endure long hours of driving
-- People who don't mind customer service
+- 渴望获得大型车辆驾照的人
+- 身体健康能承受长时间驾驶的人
+- 不介意客户服务的人
 
 **谁不适合**
-- People who dislike irregular work hours
-- People not confident in safe driving
+- 不喜欢不规律工作时间的人
+- 对安全驾驶不自信的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a bus driver?**
-答：Around ¥3.5 million in first year, up to ¥6 million with experience. Varies by bonuses and allowances.
+**问：公交车司机的年收入是多少？**
+答：第一年约350万日元，有经验可达600万日元，视奖金和津贴而异。
 
-**问：Can foreigners become bus drivers?**
-答：Not eligible for Specified Skilled Worker, Engineer/Specialist in Humanities/International Services also difficult. Possibilities limited if fluent in Japanese and have large vehicle license.
+**问：外国人能成为公交车司机吗？**
+答：不符合特定技能签证，人文知识/国际业务签证也困难。如果日语流利且持有大型车辆驾照，可能性有限。
 
-**问：How to advance a career as a bus driver?**
-答：Obtain a license as a transportation manager, aiming for a branch office manager or administrative position. Or advance to large tour buses.
+**问：如何提升公交车司机的职业生涯？**
+答：取得运输经理执照，目标是分公司经理或行政职位。或晋升至大型旅游巴士。
 
 
 ---
@@ -143,12 +133,12 @@ After obtaining a large vehicle license, start on route buses, gain experience, 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bus-driver/JP)**

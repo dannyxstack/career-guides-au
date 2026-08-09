@@ -55,8 +55,6 @@ Specialists in neurology, psychiatry, psychotherapy, and psychosomatic medicine 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
-
 Career progression: After completing specialist training, become a Facharzt; can advance to senior physician (Oberarzt) or chief physician (Chefarzt); may also open a private practice or pursue academic research.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career progression: After completing specialist training, become a Facharzt; can
 | Subclass Job Seeker (Job Seeker Visa) | Permitted to stay in Germany for 6 months to seek employment, must prove financial resources. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, new policy in 2024 allows entry to search for work before finding a job. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Neurology/psychiatry specialist training is typically 5 years, including adva
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-in-neurology-psychiatry-psychotherapy-and-psychosomatic-medicine/DE)**

@@ -52,8 +52,6 @@ Facilitate negotiation and conflict resolution through dialogue. Resolve dispute
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Roles of arbitrators, mediators, and conciliators will be significantly augmented by AI rather than replaced. AI tools can accelerate document analysis, pattern recognition, and solution generation, but human judgment, empathy, and credibility remain core.
-
 Typically starting from a background in law, human resources, or social work, and after gaining mediation experience, can advance to senior mediator or open a private mediation practice, or develop into an arbitration specialist.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically starting from a background in law, human resources, or social work, an
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Not mandatory, but most have a background in law, social work, or human resou
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arbitrators-mediators-and-conciliators/US)**

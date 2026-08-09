@@ -53,8 +53,6 @@ Responsible for operating and maintaining machinery and equipment for producing 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Chemical plant workers face mixed impacts: AI and automation optimize process control and monitoring, but physical operations and safety responsibilities still require human input; entry-level competition increases slightly.
-
 Promotion from junior operator to production line supervisor or quality control technician. Through continuing education and vocational training (such as FP Grado Superior), you can enter process optimization or production management positions.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Promotion from junior operator to production line supervisor or quality control 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Requires a job contract from a Spanish employer and proof that no suitable candidate can be found within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | A university degree or at least 5 years of relevant experience is required, with an annual salary 1.5 times higher than the Spanish average (about €33,000). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +142,12 @@ A: Typically, you need to complete FP Grado Medio (2 years) or FP Grado Superior
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmaceutical-cosmetics-and-related-products-machine-operators/ES)**

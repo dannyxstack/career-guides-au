@@ -54,8 +54,6 @@ Full-time member of the UK armed forces, performing military tasks without civil
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has limited replacement of military tasks, but clerical, planning, and intelligence analysis roles are threatened by automation; AI enhances situational awareness and decision support, presenting both opportunities and risks.
-
 Promotion from junior soldier to non-commissioned officer, then to senior non-commissioned officer (e.g., warrant officer) requires passing assessments and gaining experience. Some can become officers, but the path is strict. After retirement, often receive skill transition support.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Promotion from junior soldier to non-commissioned officer, then to senior non-co
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: The UK military provides skill conversion training, with common transition di
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncommissioned-officers-and-other-ranks/UK)**

@@ -1,8 +1,8 @@
 # 管道工（Plumber）职业分析 · 韩国
 
-**职业代码: 70311 (KECO)**
+**职业代码：70311 (KECO)**
 
-This is a specialized technical profession involving the construction, repair, and maintenance of water supply, drainage, heating, and gas piping within buildings.
+这是一项专门的技术职业，涉及建筑物内供水、排水、供暖和燃气管道的建造、修理和维护。
 
 
 ---
@@ -11,8 +11,8 @@ This is a specialized technical profession involving the construction, repair, a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$1,000,000（Vocational high school employment class or general high school career elective） |
-| College plumbing-related major | 2 年 | $6,000,000~$12,000,000（Includes tuition and textbook fees） |
+| 高中毕业 | 3年 | $0~$1,000,000（职业高中就业班或普通高中职业选修） |
+| 大学管道相关专业 | 2 年 | $6,000,000~$12,000,000（包含学费和教材费） |
 
 ---
 
@@ -20,18 +20,18 @@ This is a specialized technical profession involving the construction, repair, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Plumbing Technician (Craftsman) | Human Resources Development Service of Korea | 必备 | National technical qualification, basic requirement |
-| Plumbing Industrial Engineer | Human Resources Development Service of Korea | 可选 | Advanced technical qualification, advantageous for promotion |
-| Gas Plumbing Technician (Craftsman) | Human Resources Development Service of Korea | 可选 | Specialized in gas piping |
+| 管道技术员（技工） | 韩国人力资源开发服务局 | 必备 | 国家技术资格，基本要求 |
+| 管道工业工程师 | 韩国人力资源开发服务局 | 可选 | 高级技术资格，有利于晋升 |
+| 燃气管道技师（工匠） | 韩国人力资源开发服务局 | 可选 | 专门从事燃气管道安装 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Although affected by fluctuations in the construction industry, steady job opportunities are expected due to aging infrastructure improvements and demand for new housing and industrial facilities.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。尽管受建筑业波动影响，但由于老化的基础设施改善以及新住房和工业设施的需求，预计就业机会稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,85 @@ This is a specialized technical profession involving the construction, repair, a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $25,000,000~$35,000,000 | Based on starting salary, excluding overtime and night shift allowances |
-| Intermediate (4~7 years) | $35,000,000~$45,000,000 | Varies with skill proficiency |
-| Skilled (8+ years) | $45,000,000~$60,000,000 | Experienced positions such as site supervisor or technician |
+| 初级（0~3 年） | $25,000,000~$35,000,000 | 基于起薪，不包括加班费和夜班津贴 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 因技能熟练度而异 |
+| 熟练（8年以上） | $45,000,000~$60,000,000 | 有经验的职位，如现场主管或技术员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Design automation and smart construction tools improve work efficiency, but on-site plumbing work requires human touch, so the technician's skill is more decisive than AI.
+设计自动化和智能施工工具提高了工作效率，但现场管道工作需要人工操作，因此技师的技能比AI更具决定性。
 
-Career progression from skilled worker → senior skilled worker → site supervisor/construction company founder. Advancement depends on certifications and experience; it is an essential occupation on construction sites.
+职业发展路径：熟练工→高级熟练工→现场主管/建筑公司创始人。晋升取决于证书和经验；是建筑工地的关键职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple measurement
-- Automatic generation of plumbing design drawings
-- Material quantity calculation
+- 简单测量
+- 管道设计图纸自动生成
+- 材料数量计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based on-site safety diagnosis
-- Plumbing condition analysis using smart equipment
-- Augmented reality (AR)-based plumbing construction guidance
+- 基于人工智能的现场安全诊断
+- 使用智能设备进行管道状况分析
+- 基于增强现实（AR）的管道施工指导
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment
-- Fingertip skills
-- Risk situation response ability
-- Adaptation to unstructured environments
+- 现场判断
+- 指尖技能
+- 风险应对能力
+- 适应非结构化环境
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM design
-- Smart diagnostic equipment operation
-- Drone inspection understanding
+- BIM设计
+- 智能诊断设备操作
+- 无人机巡检理解
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 管道工
-- Construction skilled worker
-- Preference for experienced workers
-- Maintenance
+- 建筑技术工人
+- 优先考虑有经验的工人
+- 维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Available for foreign skilled workers through the Employment Permit System (some industries) |
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible with recommendation as a skilled worker |
-| Subclass F-2 (F-2 (Residence)) | Applicable for points-based permanent residence or long-term stay |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work at construction sites |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and don't mind outdoor work
-- People with good manual dexterity and enjoy handling tools
+- 身体健壮且不介意户外工作的人
+- 手巧且喜欢使用工具的人
 
 **谁不适合**
-- People who prefer indoor office work
-- People who avoid hazardous work environments
+- 喜欢室内办公室工作的人
+- 避免危险工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a plumber?**
-答：The starting salary (0–3 years) is approximately 25–35 million won pre-tax, rising significantly with experience.
+**问：水管工的起薪是多少？**
+答：起薪（0-3年经验）约为税前2500-3500万韩元，随经验增长显著提高。
 
-**问：Can foreigners work as plumbers?**
-答：Yes. They can work through E-9 (Non-professional Employment) and E-7 (Specific Activities) visas, and if recognized as skilled workers, they can switch to F-2 (Residence).
+**问：外国人可以当水管工吗？**
+答：是的。他们可以通过 E-9（非专业就业）和 E-7（特定活动）签证工作，如果被认定为技能工人，可以转为 F-2（居住）签证。
 
-**问：What is the promotion path for plumbers?**
-答：They can be promoted from skilled worker to site foreman to construction manager, or obtain technical certifications to advance into plumbing design and construction fields.
+**问：水管工的晋升路径是什么？**
+答：他们可以从熟练工人晋升为工地领班、施工经理，或通过获得技术认证进入管道设计和施工领域。
 
 
 ---
@@ -143,12 +135,12 @@ Career progression from skilled worker → senior skilled worker → site superv
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plumber/KR)**

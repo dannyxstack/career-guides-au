@@ -52,8 +52,6 @@ Manage farm livestock, including feeding, health monitoring, breeding, and pastu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Impact of AI and automation on livestock farmers is mixed: limited automation of physical labor, but data monitoring and administrative tasks can be enhanced by AI, while facing food safety regulations and animal welfare responsibilities; human judgment remains core.
-
 Can advance from junior assistant to senior livestock farmer or farm manager; with experience, can manage large farms or shift to agricultural consulting, supply chain management, etc.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior assistant to senior livestock farmer or farm manager; wi
 | Subclass AEWV (Accredited Employer Work Visa) | Requires sponsored employer nomination, valid for a maximum of 3 years, can include family members. |
 | Subclass SMC (Skilled Migrant Category) | If salary is twice the median or work experience is outstanding, can try to apply directly. Points-based system, must meet 6 points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Immigration applications typically require an IELTS overall score of 6.5 or e
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-farmers-nec/NZ)**

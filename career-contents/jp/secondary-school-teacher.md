@@ -4,8 +4,6 @@
 
 A professional responsible for subject instruction and student guidance in lower and upper secondary schools, supporting student growth through career counseling and club activities. Requires teaching practicum and teaching license.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional responsible for subject instruction and student guidance in lower
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI greatly streamlines auxiliary tasks like material creation, grade management, and learning analysis for teachers, but human interaction in lessons and student guidance remains. Teachers can focus on higher-quality education by leveraging AI tools.
-
 Career path: beginning teacher → teacher → head teacher → vice principal → principal. Options to specialize, pursue administration, or switch to education boards or university faculty.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Career path: beginning teacher → teacher → head teacher → vice principal �
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Working as a teacher in a secondary school typically requires a Japanese teaching license and native-level Japanese. Employment under this status is limited to language schools or vocational schools. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | May apply if they have advanced knowledge/experience as a teacher, but actual cases are rare. |
-| Subclass 特定技能 (Specified Skilled Worker (not applicable)) | Secondary school teachers are not eligible for Specified Skilled Worker. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: Generally, after accumulating over 10 years of experience as a teacher and se
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-school-teacher/JP)**

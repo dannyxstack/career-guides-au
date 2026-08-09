@@ -51,8 +51,6 @@ In the Irish healthcare system, midwifery associate professionals assist registe
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on midwife assistant professionals is generally positive with low automation risk, but AI tools can significantly improve efficiency and decision support. Caution is needed as entry-level roles may narrow slightly due to rising skill requirements.
-
 Progression from assistant to registered midwife requires completing a degree program and registration; can also advance to nursing management, education, or specialty areas such as neonatal care or community health.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Progression from assistant to registered midwife requires completing a degree pr
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | May apply to registered midwives, but assistant roles typically do not qualify |
 | Subclass EU Blue Card (EU Blue Card) | Requires higher education degree, annual salary not less than 40,000 euros, midwife assistant may qualify |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Must obtain employer sponsorship and apply for a General Employment Permit, w
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwifery-associate-professional/IE)**

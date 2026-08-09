@@ -53,8 +53,6 @@ Responsible for assembling mechanical parts, electrical components, etc., into c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core manual assembly work of fitters is threatened by automation, but AI-enhanced fault diagnosis and process optimization create both risks and opportunities for the role, requiring upskilling.
-
 Start as a junior assembler, gain experience and advance to team leader, commissioning technician, or through further study become a mechanical/electrical technician. Some companies offer internal training for technical sales or quality management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a junior assembler, gain experience and advance to team leader, commiss
 | Subclass Skilled Worker (Work Visa for Qualified Professionals) | Requires German-recognized vocational qualifications, employer sponsorship, no salary threshold |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows entry to seek opportunities before finding a job; requires proof of language ability and funds |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to team leader, commissioning technician, or through further 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-and-equipment-assembler/DE)**

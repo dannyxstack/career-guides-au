@@ -51,8 +51,6 @@ Teaches courses on regional, ethnic, or cultural groups, such as Latin American 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Task differentiation is clear in this occupation: literature reviews and basic teaching materials can be automated by AI, but cutting-edge theory, critical thinking, and emotionally resonant teaching heavily rely on humans; overall mixed outcomes.
-
 Usually start as assistant professor, advance to associate professor, full professor, and eventually may become department chair or research center director. Requires publishing academic works and seeking tenure.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as assistant professor, advance to associate professor, full profe
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires PERM or National Interest Waiver; PhD usually meets requirements |
 | Subclass EB-1 (Employment-Based First Preference (EB-1)) | Distinguished professors or researchers can apply directly, no PERM required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Academic positions are highly competitive, especially tenured ones, but cross
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/area-ethnic-and-cultural-studies-teachers-postsecondary/US)**

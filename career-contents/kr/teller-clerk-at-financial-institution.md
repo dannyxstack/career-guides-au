@@ -4,8 +4,6 @@
 
 Responsible for handling customer financial transactions such as deposits, withdrawals, and remittances at bank or other financial institution counters.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for handling customer financial transactions such as deposits, withd
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Tellers are seeing their roles significantly reduced by AI and digital banking. Automated deposit, withdrawal, and transfer systems are replacing simple counter tasks, leading to a decline in full-time jobs.
-
 After joining as a new hire, can be promoted to counter team leader in 3-5 years, then to PB (Private Banker) or back office/branch manager.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ After joining as a new hire, can be promoted to counter team leader in 3-5 years
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for financial professionals, but rarely applicable to general tellers. |
-| Subclass F-2 (F-2 (Residence)) | Applicable to long-term residents, no employment restrictions. |
-| Subclass F-4 (Overseas Koreans) | Employment allowed for Overseas Koreans, possible upon meeting visa issuance conditions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Usually, you can become a team leader in 3–5 years, and after 10+ years, yo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teller-clerk-at-financial-institution/KR)**

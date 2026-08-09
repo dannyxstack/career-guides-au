@@ -51,8 +51,6 @@ Responsible for aircraft refueling, loading/unloading cargo, guiding aircraft mo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Manual repetitive tasks of aviation transport operators are easily replaced by automation, with high risk of job reduction, but on-site security responsibilities at airports partially retain human judgment.
-
 Career progression paths are limited: can advance from aviation transport operator to ground supervisor or airport operations coordinator. Some transition to aircraft dispatch or aviation safety roles through internal training. Need to accumulate experience and obtain relevant certifications for career development.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression paths are limited: can advance from aviation transport operat
 | Subclass Skilled Worker (Skilled Worker visa) | Air transport operators are on the eligible occupation list and can apply if meeting minimum salary requirements (£26,200/year or industry standard). Employers must hold sponsorship license. |
 | Subclass Graduate (Graduate visa) | If completing a bachelor's or master's degree in the UK, you can apply for a 2-year graduate visa to gain experience in this occupation, then switch to Skilled Worker. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Moderate demand. The recovery of the aviation industry brings stable position
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-transport-operatives/UK)**

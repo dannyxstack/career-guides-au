@@ -4,8 +4,6 @@
 
 Self-employed individuals or employees selling non-food items (e.g., clothing, accessories, electronics) on the streets or at markets in the Netherlands.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Self-employed individuals or employees selling non-food items (e.g., clothing, a
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Street food vendors in the Netherlands face mixed impacts from AI and automation: inventory management and transaction recording are easily replaceable, but product selection, bargaining, customer interaction, and flexible vending strategies are enhanced by AI, while interpersonal trust and on-site judgment remain core moats.
-
 Career path is limited; you can start as a stall owner, then expand to multiple stalls or shift to wholesale after building a client base. Some experienced individuals may transition to retail management or merchandise procurement.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Career path is limited; you can start as a stall owner, then expand to multiple 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Only for high-skilled positions; street vendors do not meet the salary and skill requirements and cannot apply. |
-| Subclass Self-Employed Reside (Self-Employed Residence Permit) | Non-EU citizens can operate as self-employed under this permit, requiring a Dutch business plan assessment, with high threshold. |
-| Subclass EU Blue Card (EU Blue Card) | Not applicable, this occupation does not meet high-skilled requirements |
-| Subclass Orientation Year (Orientation Year) | Non-EU students graduating from the Netherlands can apply, but must find a job meeting the salary threshold; street vendor income usually does not qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Need to apply for a stall permit from the local municipality and register as 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-vendor-excluding-food/NL)**

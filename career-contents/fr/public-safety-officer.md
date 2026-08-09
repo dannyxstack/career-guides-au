@@ -4,8 +4,6 @@
 
 Public safety officers are responsible for maintaining public order, preventing crime, handling emergencies, and enforcing laws within the French National Police or Gendarmerie units.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Public safety officers are responsible for maintaining public order, preventing 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While the paperwork, surveillance, and data analysis tasks of public safety officials are easily automated by AI, on-site law enforcement, interpersonal judgment, and legal responsibility are hard to replace, and job demand may be slightly limited.
-
 Career Promotion Path: From junior police officer to sergeant, commander, or through internal exams to become an Officier, you can ultimately advance to senior management positions.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Career Promotion Path: From junior police officer to sergeant, commander, or thr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | This applies to foreign citizens who obtain employment contracts with French police departments, but usually requires EU nationality. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For senior experts or researchers, but public safety positions are rarely open to non-EU citizens. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Internal promotions require competitive exams or training at the National Pol
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-safety-officer/FR)**

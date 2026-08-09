@@ -53,8 +53,6 @@ Engages in manual labor such as planting, irrigation, fertilization, weeding, ha
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vegetable farm worker positions face significant automation compression, especially in physical tasks like seeding, weeding, and harvesting. Entry barriers lower but positions decrease, requiring skill upgrades to technical operation or management roles.
-
 Can advance from general worker to senior technician or team leader, or move to farm management positions. Requires accumulating experience and may need relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from general worker to senior technician or team leader, or move to 
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, with pathway to 191 permanent residency |
 | Subclass DAMA (Designated Area Migration Agreement) | Farm workers may be sponsored under some regional DAMA agreements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes. Can advance to team leader, farm supervisor, or study agricultural manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-farm-worker-aus-market-garden-worker-nz/AU)**

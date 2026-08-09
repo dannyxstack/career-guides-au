@@ -1,10 +1,8 @@
-# Welfare Consultation and Guidance Specialist 职业分析 · 日本
+# 福利咨询与指导专家（Welfare Consultation and Guidance Specialist）职业分析 · 日本
 
-**职业代码: 161 (JSCO)**
+**职业代码：161 (JSCO)**
 
-A professional who provides life consultations, support plan formulation, and coordination with related organizations for welfare service users such as the elderly and disabled.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+为老年人、残疾人等福利服务用户提供生活咨询、制定支持计划并协调相关机构的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who provides life consultations, support plan formulation, and co
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Social Welfare, etc.) | 4年 | $4,000,000~$5,000,000（Varies between national/public and private） |
-| Vocational School (Certified Social Worker Training) | 2 年 | $2,000,000~$3,000,000（Day and evening courses available） |
+| 大学（社会福利等） | 4年 | $4,000,000~$5,000,000（因国家/公立与私立而异） |
+| 职业学校（认证社会工作者培训） | 2 年 | $2,000,000~$3,000,000（提供白天和晚间课程） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who provides life consultations, support plan formulation, and co
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Consultation Support Specialist | Prefectural Government | 必备 | Obtainable after practical experience. Required for creating plan consultations. |
-| Certified Social Worker | Ministry of Health, Labour and Welfare | 可选 | National qualification. Not mandatory but strongly recommended. |
-| Psychiatric Social Worker | Ministry of Health, Labour and Welfare | 可选 | Advantageous in the mental disability field. |
+| 咨询支持专员 | 县政府 | 必备 | 通过实践经验获得。制定计划咨询所需。 |
+| 持证社会工作者 | 厚生劳动省 | 可选 | 国家资格。非强制但强烈推荐。 |
+| 精神科社会工作者 | 厚生劳动省 | 可选 | 在精神障碍领域具有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Demand is steady due to an aging population and the expansion of the Comprehensive Support for Persons with Disabilities Act. Employment in local governments and social welfare corporations is stable, and labor shortages are expected to continue.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于人口老龄化和《残疾人综合支援法》的扩展，需求稳定。地方政府和社会福利法人的就业稳定，劳动力短缺预计将持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A professional who provides life consultations, support plan formulation, and co
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Varies by local government and facility |
-| 中级（4-9年） | $4,000,000~$5,000,000 | Increases at chief level |
-| Advanced (10 years or more) | $5,000,000~$6,500,000 | As manager or specialist |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 因地方政府和机构而异 |
+| 中级（4-9年） | $4,000,000~$5,000,000 | 在主管级别增加 |
+| 高级（10年及以上） | $5,000,000~$6,500,000 | 作为经理或专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI supports the creation of consultation records and information organization, but cannot replace the core of interpersonal counseling. AI will streamline operations, allowing focus on high-quality consultations.
+AI支持咨询记录的创建和信息整理，但不能取代人际咨询的核心。AI将简化操作，使人们能够专注于高质量的咨询。
 
-At the beginning of a career, gain experience as a consultation support specialist, with promotion possible to chief consultation support specialist or manager. Obtaining qualifications such as Certified Social Worker can enhance career advancement.
+职业初期，作为咨询支持专家积累经验，可晋升为首席咨询支持专家或经理。获得认证社会工作者等资格可促进职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Creation of consultation records
-- Information collection and organization
+- 咨询记录创建
+- 信息收集与整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assessment analysis
-- Support for care plan development
-- Risk prediction
+- 评估分析
+- 护理计划制定支持
+- 风险预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal empathy
-- Complex coordination skills
-- Ethical judgment
+- 人际同理心
+- 复杂协调能力
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and data analysis literacy
-- Interpersonal communication
-- Care management
+- 人工智能与数据分析素养
+- 人际沟通
+- 护理管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Disability support
-- Community-based integrated care
-- Shortage of care workers
+- 人口老龄化
+- 残障支持
+- 社区综合照护
+- 护理人员短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires qualifications such as Certified Social Worker. Counseling may apply but is subject to individual review. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Limited to the long-term care sector. This job is not in long-term care, so it is excluded. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Possible if high skills and income requirements are met, but rare in the welfare field. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong interest in helping others
-- People with good listening and coordination skills
-- People who can persistently tackle welfare issues
+- 有强烈意愿帮助他人的人
+- 具有良好倾听和协调能力的人
+- 能坚持不懈解决福利问题的人
 
 **谁不适合**
-- People who prefer mechanical tasks
-- People vulnerable to interpersonal stress
+- 偏好机械性任务的人
+- 易受人际压力影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a welfare counseling guidance specialist?**
-答：After graduating from university and obtaining a Certified Social Worker license, the monthly salary is about ¥200,000–250,000, with an annual income of around ¥3–4 million.
+**问：福利咨询指导专家的起薪是多少？**
+答：大学毕业后取得社会福利士资格，月薪约20万-25万日元，年收入约300-400万日元。
 
-**问：What visa does a foreigner need to work in this occupation?**
-答：This applies to the Engineer/Specialist in Humanities/International Services visa, but requires qualifications such as social worker and Japanese language ability. Only the caregiving field is excluded under Specified Skilled Worker.
+**问：外国人从事此职业需要什么签证？**
+答：这适用于人文/国际服务领域工程师/专家签证，但要求具备社会工作者资格和日语能力。特定技能签证下仅护理领域除外。
 
-**问：How can I advance my career?**
-答：You can advance by becoming a chief consultation support specialist or manager, or by obtaining higher qualifications such as social worker or psychiatric social worker to enhance your expertise.
+**问：如何提升我的职业生涯？**
+答：通过成为首席咨询支持专家或经理，或获得社工、精神科社工等更高学历，可以提升专业水平并晋升。
 
 
 ---
@@ -144,12 +134,12 @@ At the beginning of a career, gain experience as a consultation support speciali
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/welfare-consultation-and-guidance-specialist/JP)**

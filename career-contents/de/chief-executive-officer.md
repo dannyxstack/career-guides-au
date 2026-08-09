@@ -53,8 +53,6 @@ Responsible for overall strategic decision-making and operational management of 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
-
 Usually promoted from department manager or business head, accumulating years of industry experience and advancing to executive level through performance and leadership. An MBA or other business education can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually promoted from department manager or business head, accumulating years of
 | Subclass Skilled Worker (Skilled Residence Permit) | If annual salary is below the Blue Card threshold but with recognised qualifications, can apply for a skilled migration visa. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa used to come to Germany for executive positions. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a bachelor's/master's degree in business or related field, a
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-executive-officer/DE)**

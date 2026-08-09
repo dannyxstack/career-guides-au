@@ -1,8 +1,8 @@
-# Water Transportation Clerk 职业分析 · 韩国
+# 水上运输文员（Water Transportation Clerk）职业分析 · 韩国
 
-**职业代码: 02824 (KECO)**
+**职业代码：02824 (KECO)**
 
-This occupation involves overall maritime transport office tasks such as managing vessel schedules, planning cargo loading, and processing port entry and exit documents.
+该职业涉及整体海运办公室任务，如管理船舶时刻表、规划货物装载和处理港口进出文件。
 
 
 ---
@@ -11,9 +11,9 @@ This occupation involves overall maritime transport office tasks such as managin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0 | $0~$0（High school graduation is possible but associate/bachelor's degree preferred） |
-| Associate's degree | 2 年 | $10,000,000~$15,000,000（Logistics/Trade related majors） |
-| 学士学位 | 4年 | $20,000,000~$40,000,000（Shipping/Logistics/Trade majors） |
+| 高中毕业 | 0 | $0~$0（高中毕业可行，但大专/本科学历优先） |
+| 副学士学位 | 2 年 | $10,000,000~$15,000,000（物流/贸易相关专业） |
+| 学士学位 | 4年 | $20,000,000~$40,000,000（航运/物流/贸易专业） |
 
 ---
 
@@ -21,18 +21,18 @@ This occupation involves overall maritime transport office tasks such as managin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Trade English Level 1/2 | Korea Chamber of Commerce and Industry | 可选 | Required international trade certification |
-| Logistics Manager | Human Resources Development Service of Korea | 可选 | National technical qualification in logistics |
-| Freight Forwarder License | Korea Shipping Association | 可选 | Advantageous for performing forwarding duties |
+| 贸易英语一级/二级 | 大韩商工会议所 | 可选 | 所需国际贸易认证 |
+| 物流经理 | 韩国人力资源开发服务局 | 可选 | 国家物流技术资格 |
+| 货运代理许可证 | Korea Shipping Association | 可选 | 有利于履行货运职责 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 8,500. Korea's shipping industry is sensitive to the global economy and cargo volumes, but demand for logistics efficiency at major ports like Busan Port is expected to sustain steady recruitment of professionals.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 8,500。韩国的航运业对全球经济和货运量敏感，但釜山港等主要港口对物流效率的需求预计将持续稳定招聘专业人员。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,88 +40,81 @@ This occupation involves overall maritime transport office tasks such as managin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$35,000,000 | For entry-level employees |
-| Mid-level (4-9 years) | $38,000,000~$50,000,000 | Assistant Manager~Manager Level |
-| 资深（10年以上） | $50,000,000~$70,000,000 | Manager~Director Level |
+| 初级 (0-3年) | $28,000,000~$35,000,000 | 适用于入门级员工 |
+| 中级（4-9年） | $38,000,000~$50,000,000 | 助理经理~经理级别 |
+| 资深（10年以上） | $50,000,000~$70,000,000 | 经理~总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist with repetitive document processing and schedule optimization, but on-site coordination and customer response still rely heavily on humans. Automation may reduce some tasks but overall employment is not expected to decline sharply.
+AI可协助重复性文件处理和日程优化，但现场协调和客户响应仍高度依赖人工。自动化可能减少部分任务，但整体就业不会大幅下降。
 
-Employment is mainly in shipping companies, vessel operators, port operators, and forwarding firms, with potential promotion to team leader, logistics manager, or department head based on experience.
+主要受雇于航运公司、船舶运营商、港口运营商和货运代理公司，根据经验可晋升为团队领导、物流经理或部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual ship schedule writing
-- Simple cargo document sorting
+- 手动编制船舶时刻表
+- 简单货物单据分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Port logistics optimization analysis
-- Real-time voyage information monitoring
+- 港口物流优化分析
+- 实时航行信息监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle exceptional situations
-- Negotiation and relationship management with clients
+- 处理特殊情况的能力
+- 与客户的谈判和关系管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Logistics software usage
-- Data analysis
-- Understanding of global trade regulations
+- 物流软件使用
+- 数据分析
+- 了解全球贸易法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shipping and Logistics
-- Port Automation
-- Digital Twin
-- Eco-friendly Ships
+- 航运与物流
+- 港口自动化
+- 数字孪生
+- 环保船舶
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Required for specialized tasks such as shipping companies |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Not suitable for this occupation |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and proficient in document work
-- Highly interested in international logistics and maritime transport
+- 注重细节且精通文件工作
+- 对国际物流和海运非常感兴趣
 
 **谁不适合**
-- People with poor situation handling skills
-- People who dislike overtime or weekend work
+- 应变能力差的人
+- 不喜欢加班或周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a water transportation clerk?**
-答：Entry-level salary is 28-35 million KRW per year; if you have over 10 years of experience, it's around 50-70 million KRW.
+**问：水路运输文员的平均年薪是多少？**
+答：入门级年薪2800-3500万韩元；如果有10年以上经验，约5000-7000万韩元。
 
-**问：Can I get a Korean work visa for this occupation?**
-答：If you perform professional tasks at shipping companies, you can work with an E-7 visa, and for long-term residence, you can switch to an F-2 visa.
+**问：我能为这个职业获得韩国工作签证吗？**
+答：如果您在航运公司执行专业任务，可以使用E-7签证工作，长期居住可转为F-2签证。
 
-**问：Are there required certifications?**
-答：Certifications in trade English, logistics manager, and freight forwarder are advantageous but not mandatory.
+**问：是否需要必需的认证？**
+答：贸易英语、物流经理和货运代理证书有利但不强制。
 
 
 ---
@@ -139,12 +132,12 @@ Employment is mainly in shipping companies, vessel operators, port operators, an
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/water-transportation-clerk/KR)**

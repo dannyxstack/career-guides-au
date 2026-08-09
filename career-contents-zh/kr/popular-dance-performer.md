@@ -1,10 +1,8 @@
-# Popular Dance Performer 职业分析 · 韩国
+# 流行舞表演者（Popular Dance Performer）职业分析 · 韩国
 
-**职业代码: 41473 (KECO)**
+**职业代码：41473 (KECO)**
 
-A professional dancer who performs choreography in Korean popular music, broadcasting, and live shows, active on various stages such as K-pop backup dancer, musicals, and concerts.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专业舞者，在韩国流行音乐、广播和现场表演中表演编排舞蹈，活跃于K-pop伴舞、音乐剧和演唱会等舞台。
 
 
 ---
@@ -13,9 +11,9 @@ A professional dancer who performs choreography in Korean popular music, broadca
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Practical Dance | 4年 | $8,000,000~$12,000,000（Annual tuition (private university average)） |
-| Professional School (Dance & Entertainment) | 2 年 | $7,000,000~$10,000,000（每年学费） |
-| Private Dance Academy | 1年 | $3,000,000~$6,000,000（Annual tuition (varies by number of classes)） |
+| 实用舞蹈系 | 4年 | $8,000,000~$12,000,000（年学费（私立大学平均）） |
+| 专业学校（舞蹈与娱乐） | 2 年 | $7,000,000~$10,000,000（每年学费） |
+| 私立舞蹈学院 | 1年 | $3,000,000~$6,000,000（年学费（因班级数量而异）） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional dancer who performs choreography in Korean popular music, broadca
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korea Dance Council Dance Instructor | Korean Dance Council | 可选 | Optional; advantageous for teaching activities |
-| Private Certification (e.g., Dance Instructor) | Korea Dance Sports Federation, etc. | 可选 | Additional points in education sector |
+| 韩国舞蹈协会舞蹈教练 | 韩国舞蹈协会 | 可选 | 可选；有利于教学活动 |
+| 私人认证（如舞蹈教练） | 韩国舞蹈体育联合会等 | 可选 | 教育领域加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Demand is steady due to the growth of K-pop and the performance industry, but employment can be unstable due to low entry barriers and fierce competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于K-pop和演出行业的发展，需求稳定，但由于准入门槛低和竞争激烈，就业可能不稳定。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,92 +39,84 @@ A professional dancer who performs choreography in Korean popular music, broadca
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $18,000,000~$30,000,000 | Freelance/contract basis; income per performance |
-| Intermediate (4–7 years) | $30,000,000~$50,000,000 | Mix of full-time and contract; includes broadcast appearances |
-| Advanced (8+ years) | $50,000,000~$80,000,000 | Combined with choreography/team leader; varies with overseas performances |
+| Beginner (0–3 years) | $18,000,000~$30,000,000 | 自由职业/合同制；按绩效收入 |
+| 中级（4-7年） | $30,000,000~$50,000,000 | 全职与合同制混合；包括广播出镜 |
+| 高级（8年以上） | $50,000,000~$80,000,000 | 结合编舞/团队领导；随海外演出而变化 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation will serve as creative aids (choreography generation, motion capture, etc.) for dancers, enhancing their inherent creativity and expressiveness.
+AI和自动化将成为舞者的创意辅助工具（编舞生成、动作捕捉等），增强其固有的创造力和表现力。
 
-Usually starts as a trainee or backup dancer after passing an audition; with experience, can advance to choreographer, dance team leader, or broadcast appearances.
+通常通过试镜后从实习生或伴舞开始；有经验后可晋升为编舞、舞蹈队长或参与广播节目。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive group choreography
-- Auto-editing basic choreography patterns
+- 简单重复的集体编舞
+- 自动编辑基本编排模式
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Choreography planning and simulation
-- Motion capture correction
-- Performance video editing and effects
+- 编舞规划与模拟
+- 动作捕捉校正
+- 表演视频编辑与特效
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative expression
-- Emotional delivery on live stages
-- Improv adaptability
+- 创意表达
+- 现场舞台的情感传达
+- 提高适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI choreography tools
-- Digital content production
-- Crossover performance planning
+- 使用AI编舞工具
+- 数字内容制作
+- 交叉性能规划
 
-**主要增长方向:**
+**主要增长方向：**
 
 - K-pop
-- Performance industry
-- Choreography education
-- YouTube dance content
+- 演出行业
+- 编舞教育
+- YouTube舞蹈内容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued to those with professional qualifications in performing/cultural arts; requires employer sponsorship |
-| Subclass F-2 (Residence (F-2)) | Long-term residents with unrestricted activities and no employment limitations |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans; no restrictions on employment activities, and no separate permit needed as a dancer |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with exceptional natural rhythm and expressiveness
-- Person who enjoys constant practice and self-management
-- Person with strong passion for the stage
+- 具有非凡自然节奏感和表现力的人
+- 喜欢持续练习和自我管理的人
+- 对舞台有强烈热情的人
 
 **谁不适合**
-- Person who prefers stable income and full-time employment
-- Person who finds standing in front of an audience burdensome
+- 偏好稳定收入和全职工作的人
+- 觉得站在观众面前很累的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a popular dancer?**
-答：Entry-level: approximately 18–30 million KRW before tax, often freelance. With experience, may exceed 50 million KRW, but income is irregular.
+**问：流行舞者平均年薪是多少？**
+答：入门级：约1800至3000万韩元税前，通常是自由职业。有经验后可能超过5000万韩元，但收入不稳定。
 
-**问：Can a foreigner work as a popular dancer in Korea?**
-答：Requires an E-7 visa, but proof of expertise in culture/arts and an employer sponsor are essential. Competition is fierce, making it realistically difficult.
+**问：外国人可以在韩国担任流行舞者吗？**
+答：需要E-7签证，但需证明文化/艺术专业能力且需雇主担保，竞争激烈，实际操作中难以获得。
 
-**问：Could AI replace popular dancers?**
-答：AI can assist with group choreography or simple pattern generation, but creative expression and the emotional impact of live performances are uniquely human and unlikely to be replaced.
+**问：AI 能取代流行舞者吗？**
+答：AI可辅助团体编舞或简单模式生成，但现场表演的创意表达和情感影响是独特的，难以被替代。
 
 
 ---
@@ -144,12 +134,12 @@ Usually starts as a trainee or backup dancer after passing an audition; with exp
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/popular-dance-performer/KR)**

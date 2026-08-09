@@ -4,8 +4,6 @@
 
 Choreographers and dancers are responsible for creating and performing dance works, participating in theater, television, film, and commercial productions. This profession holds an important position in Spain's cultural and creative industries, especially in flamenco and modern dance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Choreographers and dancers are responsible for creating and performing dance wor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Choreographers and dancers face mixed effects from AI: AI can assist with choreography and teaching, but cannot replace the emotional tension and creativity of human performance; Competition for entry-level positions is intensifying, but the value of high-end creative positions is rising.
-
 Common career paths: Start at a dance school or troupe, gain experience, then become an independent choreographer or dance teacher; A few senior dancers are promoted to artistic director or head of the dance company. They can also cross over into film and television directing or fitness dance teaching.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Common career paths: Start at a dance school or troupe, gain experience, then be
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | Employed by Spanish dance companies or production companies requires employer-sponsored work residency, with annual salary thresholds usually not lower than minimum wage. Because it is a non-urgently needed occupation, the approval difficulty is moderate. |
-| Subclass Autónomo (Self-employed visa) | To apply as a freelancer, you need to prove you have stable clients and a source of income, so the entry threshold is quite high. |
-| Subclass Busqueda empleo (Job search visa) | Limited to graduates; optional to seek work in Spain, but success rate low for non-high-demand and non-top degree fields. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: After gaining stage experience, you can independently create small works and 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/choreographer-and-dancer/ES)**

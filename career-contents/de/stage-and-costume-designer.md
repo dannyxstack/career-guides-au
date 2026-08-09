@@ -53,8 +53,6 @@ Stage and costume designers create visual concepts for theatre, film, television
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Stage and costume designers rely heavily on creativity and manual work; AI cannot fully replace core design decisions, but will greatly simplify time-consuming tasks like material collection, rendering, and fabric simulation, improving efficiency. Entry barriers are lowered by AI tools, but top-notch creativity and on-site coordination remain a moat.
-
 Practitioners typically start as assistants and can progress to lead designer or art director after gaining experience. A few move into film & TV or start their own studios.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Practitioners typically start as assistants and can progress to lead designer or
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually no mandatory certification required, but employers may require degree
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stage-and-costume-designer/DE)**

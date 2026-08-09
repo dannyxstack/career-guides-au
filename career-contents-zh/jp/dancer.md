@@ -1,10 +1,8 @@
 # 舞蹈演员（Dancer）职业分析 · 日本
 
-**职业代码: 232 (JSCO)**
+**职业代码：232 (JSCO)**
 
-Dancers are specialized professionals who express themselves through traditional and contemporary dance performances, moving audiences with their artistry.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+舞者是通过传统和当代舞蹈表演表达自我的专业艺术家，以艺术打动观众。
 
 
 ---
@@ -13,9 +11,9 @@ Dancers are specialized professionals who express themselves through traditional
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Dance Department) | 2 年 | $1,000,000~$2,000,000（Including tuition and practical training fees） |
-| University (Faculty of Arts, Dance Major) | 4年 | $2,500,000~$4,000,000（National: affordable, Private: high） |
-| Private lessons/Apprenticeship | 5年 | $500,000~$3,000,000（Monthly fees and recital costs） |
+| 职业学校（舞蹈系） | 2 年 | $1,000,000~$2,000,000（包括学费和实践培训费） |
+| 大学（文学院，舞蹈专业） | 4年 | $2,500,000~$4,000,000（公立：负担得起，私立：高） |
+| 私人课程/学徒制 | 5年 | $500,000~$3,000,000（月费及演奏会费用） |
 
 ---
 
@@ -23,18 +21,18 @@ Dancers are specialized professionals who express themselves through traditional
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Practical experience (school license) | Each school | 必备 | Required for traditional dance, affects advancement |
-| Stage experience | Affiliated organization | 可选 | Proof of professional achievement |
-| Teaching qualification (Dance) | Each association | 可选 | For instructors, broadens career options |
+| 实践经验（学校执照） | 每个学校 | 必备 | 传统舞蹈所需，影响晋升 |
+| 舞台经验 | 附属机构 | 可选 | 专业成就证明 |
+| 教学资格（舞蹈） | 每个协会 | 可选 | 对于教练而言，扩大职业选择 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 12,000. Employment for dancers is limited, competition is fierce, and stable income is hard to achieve. Passing down traditional arts is a challenge, but tourism demand and international exchange show some growth.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 12,000。舞者就业机会有限，竞争激烈，稳定收入难以实现。传承传统艺术面临挑战，但旅游需求和国际交流有增长。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,85 @@ Dancers are specialized professionals who express themselves through traditional
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $1,500,000~$3,000,000 | Often combined with part-time jobs |
-| Mid-level (4-10 years) | $3,000,000~$5,000,000 | Primarily performance fees |
-| Veteran (10+ years) | $4,000,000~$8,000,000 | Higher if renowned |
+| 入门级（0-3年） | $1,500,000~$3,000,000 | 常与兼职工作结合 |
+| 中级（4-10年） | $3,000,000~$5,000,000 | 主要为绩效费用 |
+| 资深（10年以上） | $4,000,000~$8,000,000 | 若知名度高则更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used to assist choreography creation and movement analysis, but cannot replace the artistry of bodily expression; AI risk is low. However, declining demand and intensifying competition are separate issues.
+AI用于辅助编舞创作和动作分析，但无法替代身体表达的艺术性；AI风险较低。然而，需求下降和竞争加剧是另外的问题。
 
-Career paths mainly involve apprenticeships and auditions. Advancement depends on skill and reputation; some lead independent companies, but success is limited.
+职业路径主要包括学徒和试镜。晋升取决于技能和声誉；有些人领导独立公司，但成功有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple pattern-repetitive dance (e.g., background dance)
-- Simple choreography indistinguishable from AI-generated dance
+- 简单重复性舞蹈（如背景舞蹈）
+- 与AI生成的舞蹈无异的简单编舞
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Choreography simulation and refinement
-- Automated coordination with stage lighting and effects
-- Injury prevention through motion analysis
+- 编舞模拟与完善
+- 与舞台灯光和效果的自动协调
+- 通过运动分析预防伤害
 
-**人类护城河:**
+**人类护城河：**
 
-- Human physicality and emotional expression
-- Improvisation skills and rapport with the audience
-- Cultural background and inheritance of traditional performing arts
+- 人类身体与情感表达
+- 即兴表演技巧和与观众互动能力
+- 传统文化表演的传承与遗产
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced physical expression techniques
-- Choreography creation skills
-- Digital marketing
-- Mastery of diverse dance genres
+- 高级身体表达技巧
+- 编舞创作技能
+- 数字营销
+- 掌握多种舞蹈流派
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional dance
-- Contemporary dance
-- International cultural exchange
-- Tourist performances
+- 传统舞蹈
+- 现代舞
+- 国际文化交流
+- 旅游演出
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For professionals in dance instruction/choreography etc. Requires track record and employment conditions. |
-| Subclass 興行 (Entertainment Visa) | For short-term/guest performances. Support from affiliated organization required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not applicable for dancers. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Expressive people
-- Patient and persistent people
-- People passionate about art
+- 有表现力的人
+- 有耐心且执着的人
+- 热爱艺术的人
 
 **谁不适合**
-- People seeking stable income
-- People wanting quick recognition
+- 寻求稳定收入的人
+- 寻求快速认可的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of dancers?**
-答：It varies greatly depending on experience and reputation; many professionals earn less than 3 million yen a year and work part-time jobs. Even top-tier famous dancers rarely exceed 10 million yen.
+**问：舞者的平均年收入是多少？**
+答：根据经验和声誉差异很大；许多专业人士年收入低于300万日元，并兼职工作。即使是顶级著名舞者也很少超过1000万日元。
 
-**问：What visa do foreigners need to work as dancers in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is mainly applicable, but recognition as artistic activity requires high expertise and an employer. For short-term performances, the 'Entertainer' visa can be used.
+**问：外国人在日本担任舞者需要什么签证？**
+答：主要适用“工程师/人文知识/国际服务”签证，但认定为艺术活动需要高专业水平和雇主。对于短期演出，可使用“演艺”签证。
 
-**问：How to succeed as a dancer?**
-答：Rigorous training from an early age, affiliation with or apprenticeship under renowned schools, and winning domestic and international competitions are important. Also, more people are using social media and video streaming for self-branding.
+**问：如何成为一名成功的舞者？**
+答：从小严格训练，师徒制或加入名校，并在国内外比赛中获奖很重要。越来越多的人利用社媒和视频进行个人品牌建设。
 
 
 ---
@@ -146,12 +136,12 @@ Career paths mainly involve apprenticeships and auditions. Advancement depends o
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dancer/JP)**

@@ -1,8 +1,8 @@
-# Construction Materials Tester 职业分析 · 韩国
+# 建筑材料测试员（Construction Materials Tester）职业分析 · 韩国
 
-**职业代码: 14071 (KECO)**
+**职业代码：14071 (KECO)**
 
-Tests and analyzes the quality of construction materials to verify safety and standard compliance, and reports test results.
+测试和分析建筑材料质量，验证安全性和合规性，并报告测试结果。
 
 
 ---
@@ -11,8 +11,8 @@ Tests and analyzes the quality of construction materials to verify safety and st
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Civil Engineering, Architecture related) | 2 年 | $8,000,000~$12,000,000（Tuition based on national/public college standards） |
-| Bachelor's Degree (Civil Engineering, Architecture, Materials Engineering) | 4年 | $40,000,000~$80,000,000（Total tuition for 4-year university） |
+| 副学士学位（土木工程、建筑相关） | 2 年 | $8,000,000~$12,000,000（按国立/公立大学标准收费） |
+| 学士学位（土木工程、建筑、材料工程） | 4年 | $40,000,000~$80,000,000（四年制大学总学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Tests and analyzes the quality of construction materials to verify safety and st
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Materials Testing Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory but advantageous |
-| 土木工程师 | Human Resources Development Service of Korea | 可选 | Related certification, widely recognized |
-| Concrete Engineer | Human Resources Development Service of Korea | 可选 | Helpful for specialization |
+| 建筑材料检测工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制但有利 |
+| 土木工程师 | 韩国人力资源开发服务局 | 可选 | 相关认证，广受认可 |
+| 混凝土工程师 | 韩国人力资源开发服务局 | 可选 | 有助于专业化 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Affected by construction industry fluctuations, but demand for material quality inspection remains steady due to stricter safety regulations. Employment may slightly decrease with reduced SOC investment.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。受建筑业波动影响，但由于安全法规趋严，材料质量检测需求保持稳定。就业可能因SOC投资减少而略有下降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ Tests and analyzes the quality of construction materials to verify safety and st
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $28,000,000~$35,000,000 | Pre-tax, including bonuses |
-| Mid-level (4~9 years) | $36,000,000~$50,000,000 | Varies with experience and certifications |
-| Senior-level (10+ years) | $50,000,000~$70,000,000 | Higher with supervisor role or engineer certification |
+| 入门级（0~3年） | $28,000,000~$35,000,000 | 税前，包括奖金 |
+| 中级（4~9年） | $36,000,000~$50,000,000 | 根据经验和认证有所不同 |
+| 高级（10年以上经验） | $50,000,000~$70,000,000 | 高级主管或工程师认证 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists automated testing equipment and result analysis, but on-site judgment and standard interpretation remain essential human roles.
+AI辅助自动化测试设备和结果分析，但现场判断和标准解读仍为关键人工角色。
 
-Primarily hires experienced workers; can advance to supervisor or engineer level by building experience at large corporations or public testing labs. Having certifications is advantageous.
+主要招聘有经验的工人；通过在大型企业或公共检测实验室积累经验，可晋升为主管或工程师级别。持有认证更有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Performing repetitive standard tests
-- Simple data recording
-- Basic pass/fail judgment
+- 执行重复性标准测试
+- 简单数据记录
+- 基本通过/不通过判断
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Test data analysis
-- Interpretation of abnormal results
-- Test method improvement
+- 测试数据分析
+- 异常结果解读
+- 测试方法改进
 
-**人类护城河:**
+**人类护城河：**
 
-- Regulation interpretation skills
-- On-site adaptability
-- Non-destructive testing interpretation
+- 法规解读技能
+- 现场适应能力
+- 无损检测解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Automated equipment operation
+- 数据分析
+- 自动化设备操作
 - 无损检测认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Construction
-- Enhanced Quality Safety
-- ESG Construction
-- Non-Destructive Testing
+- 智能建造
+- 强化质量安全
+- ESG建筑
+- 无损检测
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as construction-related professional personnel; requires an employment contract |
-| Subclass E-9 (Non-professional Employment) | Possible for simple labor at construction sites but unsuitable for testing personnel positions |
-| Subclass F-2 (Residence) | As a points-based permanent residence status, no employment restrictions for long-term stay |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and follow rules well
-- People who enjoy scientific analysis and repetitive tasks
-- People who are safety-sensitive
+- 注重细节并遵守规则的人
+- 喜欢科学分析和重复性工作的人
+- 注重安全的人
 
 **谁不适合**
-- People who dislike outdoor/field work
-- People who find simple repetitive tasks boring
+- 不喜欢户外/实地工作的人
+- 觉得简单重复任务枯燥的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a construction materials tester?**
-答：Based on 5 years of experience, approximately 40 million KRW before tax, with the top 25% earning 55 million KRW or more.
+**问：建筑材料测试员的平均年薪是多少？**
+答：基于5年经验，税前约4000万韩元，前25%收入达5500万韩元以上。
 
-**问：Can foreigners obtain an employment visa for this occupation?**
-答：Possible with E-7 visa, but requires relevant degree, experience, and employer recommendation.
+**问：外国人能否为这一职业获得就业签证？**
+答：持E-7签证可行，但需相关学历、经验和雇主推荐。
 
-**问：Is this occupation eligible for Skilled Worker Immigration (E-7-4)?**
-答：Yes, it may be included as skilled labor in construction, but testers are closer to professionals, making review strict.
+**问：该职业是否符合熟练工人移民（E-7-4）？**
+答：是的，可能作为建筑业的熟练工，但测试员更接近专业人员，审查严格。
 
 
 ---
@@ -142,12 +135,12 @@ Primarily hires experienced workers; can advance to supervisor or engineer level
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-materials-tester/KR)**

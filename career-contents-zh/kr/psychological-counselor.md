@@ -1,10 +1,8 @@
-# Psychological Counselor 职业分析 · 韩国
+# 心理咨询师（Psychological Counselor）职业分析 · 韩国
 
-**职业代码: 23121 (KECO)**
+**职业代码：23121 (KECO)**
 
-A professional who counsels, assesses, and treats clients with psychological and emotional difficulties, including clinical psychologists, counseling psychologists, and school counselors.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+为心理和情感困扰的来访者提供咨询、评估和治疗的专业人士，包括临床心理学家、咨询心理学家和学校辅导员。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who counsels, assesses, and treats clients with psychological and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Psychology | 4年 | $40,000,000~$60,000,000（Tuition based on 4-year university） |
-| Master's in Psychology | 2 年 | $20,000,000~$40,000,000（Graduate school tuition, training costs separate） |
-| Training & Certification | 2–3 years | $5,000,000~$15,000,000（Training costs and exam fees） |
+| 心理学学士 | 4年 | $40,000,000~$60,000,000（基于四年制大学的学费） |
+| 心理学硕士 | 2 年 | $20,000,000~$40,000,000（研究生学费、培训费用另计） |
+| 培训与认证 | 2–3年 | $5,000,000~$15,000,000（培训费用和考试费） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who counsels, assesses, and treats clients with psychological and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Clinical Psychologist Level 2 | Human Resources Development Service of Korea | 必备 | National certification, required |
-| Counseling Psychologist Level 2 | Korean Counseling Psychological Association | 可选 | Private certification, preferred in workplaces |
-| Professional Counselor Level 1 | Korean Counseling Association | 可选 | Private certification, advanced competency |
+| 临床心理学家二级 | 韩国人力资源开发服务局 | 必备 | 国家认证，必需 |
+| 心理咨询师二级 | 韩国心理咨询协会 | 可选 | 私人认证，在工作场所优先考虑 |
+| 一级专业咨询师 | 韩国咨询协会 | 可选 | 私人认证，高级能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 38,000. Demand is steadily increasing due to growing social interest in mental health, but public sector hiring is affected by policy changes. Growth is expected in the private sector and areas linked to digital therapeutics.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 38,000。由于社会对心理健康的关注增加，需求稳步上升，但公共部门招聘受政策变化影响。私营领域和与数字治疗相关的领域预计增长。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -42,93 +40,86 @@ A professional who counsels, assesses, and treats clients with psychological and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $28,000,000~$35,000,000 | Counseling centers, welfare centers, etc. |
-| Mid (4–9 years) | $36,000,000~$50,000,000 | Counselor in University, Hospital, or Corporate Settings |
-| Advanced (10+ Years) | $50,000,000~$80,000,000 | Private Practice, Supervisor |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 咨询中心、福利中心等 |
+| 中等（4-9年） | $36,000,000~$50,000,000 | 大学、医院或企业环境中的咨询师 |
+| 高级（10年以上） | $50,000,000~$80,000,000 | 私人诊所、主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists with initial counseling chatbots, psychological assessment tools, and data analysis, but cannot fully replace the empathy and therapeutic relationship of human counselors. Therefore, while some tasks are enhanced, core counseling jobs are not vulnerable to AI.
+AI辅助初始咨询聊天机器人、心理评估工具和数据分析，但无法完全取代人类咨询师的共情和治疗关系。因此，虽然某些任务得到增强，但核心咨询工作不易受AI影响。
 
-A master's degree or higher and a training period are essential. After obtaining clinical psychologist level 1/2 or counseling psychologist level 1/2 certifications, one can work in universities, hospitals, corporations, welfare centers, or open a private practice.
+硕士或以上学历及实习期是必需的。获得临床心理学家1/2级或咨询心理学家1/2级证书后，可在大学、医院、企业、福利中心工作，或开设私人诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized psychological test scoring and interpretation
-- Initial phone counseling and guidance
-- Regular status evaluation report generation
+- 标准化心理测验评分和解释
+- 初始电话咨询与指导
+- 定期状态评估报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Counseling record analysis and pattern discovery
-- Support for customized treatment plan development
-- Client risk prediction
+- 咨询记录分析与模式发现
+- 支持定制治疗计划制定
+- 客户风险预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Therapeutic relationship building and empathy skills
-- Nonverbal cue identification and immediate response
-- Ethical judgment and intervention decisions
+- 治疗关系建立与共情技能
+- 非语言线索识别和即时响应
+- 伦理判断与干预决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- Use of AI counseling tools
-- Specialized field counseling expertise
-- Cultural competence
+- 数字素养
+- 使用AI咨询工具
+- 专业领域咨询专长
+- 文化能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mental health awareness improvement
-- Digital therapeutics
-- Corporate EAP
-- Child and adolescent counseling
+- 心理健康意识提升
+- 数字疗法
+- 企业员工援助计划
+- 儿童与青少年咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Acquirable but rare when a foreign psychological counselor is invited to a domestic institution; Korean language skills and qualification requirements are strict. |
-| Subclass F-2 (F-2 (Residence)) | Possible to work after long-term stay via points system, but activities as a psychological counselor face significant language and cultural barriers. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong empathy and interest in understanding human psychology
-- Those with emotional stability and patience
-- Those who enjoy continuous learning and self-reflection
+- 具有强烈同理心并对理解人类心理感兴趣的人
+- 情绪稳定且有耐心的人
+- 热爱持续学习和自我反思的人
 
 **谁不适合**
-- Those who struggle with emotion regulation or are easily overwhelmed by others' suffering
-- Those who prioritize quick results or economic rewards
+- 难以调节情绪或容易被他人的痛苦所压倒的人
+- 那些优先考虑快速成果或经济回报的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a psychological counselor?**
-答：For entry-level (0-3 years), pre-tax annual salary is approximately 28-35 million KRW; university hospitals or public institutions may be slightly higher, but private counseling centers tend to be low.
+**问：心理咨询师的起薪是多少？**
+答：入职级（0-3年），税前年薪约2800-3500万韩元；大学医院或公立机构可能略高，但私立咨询中心偏低。
 
-**问：Can a foreigner work as a psychologist in Korea?**
-答：It is very limited. An E-7 visa is possible for professional personnel, but Korean language skills and obtaining a Korean license are essential, and cultural differences create high entry barriers.
+**问：外国人可以在韩国从事心理学家工作吗？**
+答：非常有限。专业人员可申请E-7签证，但韩语能力和获得韩国执照必不可少，文化差异造成高入门门槛。
 
-**问：How about promotion or career development?**
-答：After obtaining a master's degree and license, and completing training, you can acquire advanced certifications such as Level 1 Clinical Psychologist or Level 1 Counseling Psychologist, leading to roles like head of university/hospital clinics, private practice, or supervisor.
+**问：晋升或职业发展如何？**
+答：获得硕士学位和执照并完成培训后，可考取一级临床心理学家或一级咨询心理学家等高级认证，进而担任大学/医院诊所主任、私人执业或督导等职务。
 
 
 ---
@@ -146,12 +137,12 @@ A master's degree or higher and a training period are essential. After obtaining
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/psychological-counselor/KR)**

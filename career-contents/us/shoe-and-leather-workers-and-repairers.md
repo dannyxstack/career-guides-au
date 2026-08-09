@@ -53,8 +53,6 @@ Use hand tools to make, decorate, or repair leather and similar products, such a
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce demand for shoemaking and leather worker positions, especially in mass production, but high-end customisation and complex repairs still retain opportunities.
-
 Practitioners typically start as apprentices, then can advance to senior technician or foreman, or start their own repair shop. Some transition to luxury maintenance or film prop making.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Practitioners typically start as apprentices, then can advance to senior technic
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: BLS projects an 11% decline due to automation and imports. However, niche lux
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoe-and-leather-workers-and-repairers/US)**

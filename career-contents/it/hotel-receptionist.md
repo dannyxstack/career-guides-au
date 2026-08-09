@@ -51,8 +51,6 @@ Hotel front desk receptionists greet guests, handle check-ins and check-outs, ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Hotel front desk receptionist jobs will be significantly transformed by AI: routine check-ins, check-outs, and inquiries will be automated, but personalized service and emergency response capabilities become core differentiators. Entry-level competition intensifies, but those with AI experience can transition to smart concierge or customer experience specialist roles.
-
 Can progress from junior receptionist to front desk supervisor, guest relations manager, or front office manager. With experience, can transition to hotel operations management or customer service management.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can progress from junior receptionist to front desk supervisor, guest relations 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens; subject to annual quota limits and requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for high-skilled positions, but hotel front desk roles typically do not meet salary thresholds and are less commonly used. |
-| Subclass Seasonal Work Visa (Seasonal Work Permit) | Suitable for short-term work during peak tourism seasons; requires employer sponsorship |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can progress to Front Desk Supervisor, Guest Relations Manager, Front Office 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-receptionist/IT)**

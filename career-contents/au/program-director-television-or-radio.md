@@ -53,8 +53,6 @@ A program director is responsible for planning, coordinating, and supervising th
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly optimise programming, audience analysis and content production workflows, but creative decision-making, strategic planning and team management remain core human strengths. The role of program director will not disappear but requires deep engagement with data tools.
-
 Usually promoted from producer, editor, or content creator; with sufficient experience can become program director, and then advance to senior management roles such as content director or TV station general manager.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually promoted from producer, editor, or content creator; with sufficient expe
 |---|---|
 | Subclass 482 (Temporary Skill Shortage Visa) | Suitable for employer sponsorship, but the occupation is not on the short-term or medium- to long-term skills list, opportunities are very limited |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Traditional media is shrinking, but digital content creates new opportunities
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-director-television-or-radio/AU)**

@@ -52,8 +52,6 @@ ICT Project Managers play a core role in planning, executing, and delivering IT 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-IT project managers face AI-driven task automation (e.g., report generation, progress tracking), but core cross-team coordination, risk management and client communication still require human judgment, presenting a mixed outlook.
-
 Career path typically starts from junior project manager or business analyst, progressing to senior project manager, program manager, or IT director. With experience in large projects, one can move into consulting or entrepreneurship. Certification bodies like PMI NZ offer certification courses to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path typically starts from junior project manager or business analyst, pr
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | ICT Project Manager is on the T2 list, must be employed by an accredited employer, and can apply for residency after working for 2 years. Salary must reach 1.5 times the median (approximately 93,000 NZD). |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, up to 3 years, renewable, but immigration pathway relies on SMC or Green List. Salary must meet market levels. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Local certification is not necessarily required, but holding international ce
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-project-manager/NZ)**

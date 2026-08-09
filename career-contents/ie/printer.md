@@ -54,8 +54,6 @@ Printers operate printing equipment to produce printed materials such as newspap
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Print workers face dual pressures from AI and automation: digital printing and quality inspection are increasingly automated, but creative color mixing, equipment maintenance, and client communication still rely on human experience, making career prospects mixed.
-
 Can advance from assistant to senior printer or supervisor, move into prepress/post-press management after learning digital printing technology, or enter quality control roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from assistant to senior printer or supervisor, move into prepress/p
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to printing supervisor, production manager, or quality controller
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printer/IE)**

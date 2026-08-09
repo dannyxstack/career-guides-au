@@ -52,8 +52,6 @@ Research and investigate sources of environmental contaminants, apply scientific
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Starting as junior researcher or technician, can advance to project manager, department head, or chief scientist, or transition to policy consulting or academic research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as junior researcher or technician, can advance to project manager, dep
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or skilled workers, requires PERM |
 | Subclass TN (TN NAFTA Professional) | Limited to Canadian and Mexican citizens; environmental scientists qualify |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can start as a field sampler or junior analyst, advance to project manager, s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-scientists-and-specialists-including-health/US)**

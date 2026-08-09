@@ -1,8 +1,8 @@
-# Information Security Specialist 职业分析 · 韩国
+# 信息安全专家（Information Security Specialist）职业分析 · 韩国
 
-**职业代码: 13501 (KECO)**
+**职业代码：13501 (KECO)**
 
-A professional who protects information systems of companies and institutions, responds to cyber attacks, and establishes security policies.
+保护公司和机构信息系统、应对网络攻击、制定安全政策的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who protects information systems of companies and institutions, r
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Bachelor's Degree) | 4年 | $40,000,000~$80,000,000（Varies by national/public/private status and scholarships） |
-| College (2-3 years) | 2-3年 | $20,000,000~$40,000,000（Public affordable, private expensive） |
-| Security Bootcamp/Academy | 6个月-1年 | $5,000,000~$15,000,000（Government funding available） |
+| University (Bachelor's Degree) | 4年 | $40,000,000~$80,000,000（因国家/公立/私立身份和奖学金而异） |
+| 学院（2-3年） | 2-3年 | $20,000,000~$40,000,000（公立便宜，私立昂贵） |
+| 安保训练营/学院 | 6个月-1年 | $5,000,000~$15,000,000（可申请政府资助） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who protects information systems of companies and institutions, r
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Security Engineer | Korea Communications Agency | 可选 | National technical qualification, not mandatory but preferred |
-| CISSP | ISC2 | 可选 | Internationally recognized certification, requires experience |
-| CISA | ISACA | 可选 | Information systems audit certification |
+| 信息安全工程师 | 韩国通信处 | 可选 | 国家技术资格，非强制但优先 |
+| CISSP | ISC2 | 可选 | 国际认可证书，需经验 |
+| CISA | ISACA | 可选 | 信息系统审计认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 50,000. Demand is expected to steadily increase due to growing cyber threats and accelerated digital transformation.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 50,000。由于网络威胁增加和数字化转型加速，需求预计将稳步增长。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,90 +40,83 @@ A professional who protects information systems of companies and institutions, r
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$40,000,000 | Based on small/medium enterprises |
-| Mid-level (4-9 years) | $45,000,000~$65,000,000 | High in large corporations and financial sector |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Senior positions such as CISO |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 基于中小企业 |
+| 中级（4-9年） | $45,000,000~$65,000,000 | 在大企业和金融行业需求高 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 高级职位如CISO |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI will automate some security monitoring and incident response, but strategic planning and complex responses remain the role of human experts, so overall AI will assist rather than replace.
+人工智能将自动化一些安全监控和事件响应，但战略规划和复杂响应仍由人类专家负责，因此人工智能总体上是辅助而非替代。
 
-Primarily employed by information security companies, financial institutions, and public organizations; can advance to security team leader, CISO, etc. based on experience.
+主要受聘于信息安全公司、金融机构和公共组织；根据经验可晋升至安全团队负责人、CISO等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- General Log Analysis
-- Simple Penetration Test Automation
-- Part of True/False Positive Classification
+- 通用日志分析
+- 简单渗透测试自动化
+- 真/假阳性分类的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Threat Detection and Response
-- Vulnerability Analysis
-- Security Automation
+- 威胁检测与响应
+- 漏洞分析
+- 安防自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding Business Context
-- Legal and Regulatory Compliance
-- Creative Attack Response
+- 了解业务背景
+- 法律与合规
+- 创意攻击应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI/ML Models
-- Cloud Security
-- Threat Intelligence
-- Security Automation Tools
+- 理解AI/ML模型
+- 云安全
+- 威胁情报
+- 安全自动化工具
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 网络安全
-- Cloud Security
-- Data Privacy
-- AI Security
+- 云安全
+- 数据隐私
+- 人工智能安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed by a Korean company as an information security professional |
-| Subclass D-10 (Job-seeking) | Stay for job-seeking activities for degree holders |
-| Subclass F-2 (Residence) | Long-term stay possible under points system |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent logical thinking
-- People open to continuous learning
-- People who can focus on details
+- 逻辑思维优秀的人
+- 愿意持续学习的人
+- 注重细节的人
 
 **谁不适合**
-- People who have difficulty adapting to change
+- 难以适应变化的人士
 - 偏好重复性事务工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an information security professional?**
-答：Entry-level: 30-40 million KRW, mid-level: 45-65 million KRW, senior: 70 million KRW or more, with significant variation by experience and company size.
+**问：信息安全专业人士的平均薪资是多少？**
+答：入门级：3000-4000万韩元，中级：4500-6500万韩元，高级：7000万韩元以上，因经验和公司规模差异显著。
 
-**问：What visa does a foreigner need to work as an information security professional in Korea?**
-答：An E-7 (Specific Activities) visa is common, requiring a degree and experience. You may also enter on a D-10 (Job Seeker) visa and find employment.
+**问：外国人在韩国从事信息安全专业人员需要什么签证？**
+答：E-7（特定活动）签证较常见，需要学位和经验。您也可以持D-10（求职者）签证入境并找到工作。
 
 
 ---
@@ -141,12 +134,12 @@ Primarily employed by information security companies, financial institutions, an
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/information-security-specialist/KR)**

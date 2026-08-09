@@ -1,6 +1,6 @@
-# Contractors and supervisors, electrical trades and telecommunications occupations 职业分析 · 加拿大
+# 电工及电信行业承包商和主管（Contractors and supervisors, electrical trades and telecommunications occupations）职业分析 · 加拿大
 
-**职业代码: 72011 (NOC)**
+**职业代码：72011 (NOC)**
 
 负责监督电气和电信行业的承包商、工人及项目，确保施工符合安全标准和规范。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 22,000. 加拿大基建和电信网络升级推动需求，尤其在安大略、魁北克和阿尔伯塔省，未来十年岗位增长稳定。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 22,000。加拿大基建和电信网络升级推动需求，尤其在安大略、魁北克和阿尔伯塔省，未来十年岗位增长稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -49,28 +49,28 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 电气与电信承包及监理职业面临AI喜忧参半的局面：常规文档、调度和合规检查可被自动化，但现场监督、应急判断和人际协调仍依赖人类经验，整体风险可控。
 
 可从技工晋升为工长或项目经理，积累经验后可成立自己的承包公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 项目进度报告和合规文档的自动生成
 - 基于数据的施工排程和资源调度优化
 - 常规安全检查和记录自动录入系统
 - 通过计算机视觉自动识别现场违规行为
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AR/VR进行远程施工现场检查和协作
 - 通过AI分析历史数据预测项目风险和成本超支
 - 使用智能穿戴设备实时监控工人安全与健康
 - 借助无人机和AI进行线路巡检与故障诊断
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂故障的现场诊断与应急处理
 - 跨工种协调和冲突解决能力
@@ -78,7 +78,7 @@
 - 与客户、监管机构的人际沟通和谈判
 - 在多变环境下灵活调整施工方案
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 熟练使用项目管理软件（如Procore、PlanGrid）
 - 学习BIM（建筑信息模型）相关工具
@@ -87,16 +87,16 @@
 - 提升跨文化沟通和团队领导能力
 - 考取或更新安全认证（如CSCS、OSHA）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Smart grid
-- 5G infrastructure
-- Construction boom
+- 可再生能源
+- 智能电网
+- 5G基础设施
+- 建筑热潮
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -105,9 +105,7 @@
 | Subclass PNP (Provincial Nominee Program) | 许多省份针对技工类有优先邀请 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主担保工签，紧缺职业较易获批 |
 
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -148,12 +146,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/contractors-and-supervisors-electrical-trades-and-telecommunications-occupations/CA)**

@@ -49,8 +49,6 @@ This occupation involves manufacturing ceramic, stone and clay products such as 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of automation and AI, simple molding and inspection processes are being replaced. However, quality control based on the experience of skilled workers and new product development remain human roles.
-
 With the aging of skilled workers, securing young talent is a challenge. Career advancement is possible from craftsman to line manager, or by acquiring environmental technology skills.
 
 **Tasks most exposed to AI:**
@@ -127,16 +125,9 @@ With the aging of skilled workers, securing young talent is a challenge. Career 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Ceramic, stone and clay product manufacturing is included in Manufacturing 3 fields, eligible for Specified Skilled Worker (i) |
-| Subclass 技能 (Engineer/Specialist in Humanities/International Services) | Visa for skilled workers. Requires over 10 years of practical experience. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For engineers and managers. Requires university degree or higher and experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -180,12 +171,12 @@ A: By obtaining qualifications through skills certification or acquiring eco-fri
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ceramic-stone-and-clay-product-manufacturing-workers/JP)**

@@ -51,8 +51,6 @@ Social work and counseling professionals provide psychological support and crisi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Social work and counseling professionals face a mixed automation impact in Italy: AI can handle paperwork and basic assessments, but core support relies on human trust; entry-level competition intensifies, but demand for high-value services grows.
-
 Entry-level positions such as social assistant can advance to senior social worker or team supervisor, and further to project manager or policy advisor. Specialized counselors can establish private practices or serve as clinical supervisors.
 
 **Tasks most exposed to AI:**
@@ -95,15 +93,9 @@ Entry-level positions such as social assistant can advance to senior social work
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled occupations, a university degree and employment contract are required, with salary not less than 1.5 times the Italian average wage. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-EU citizens. Social workers are on this list. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -144,12 +136,12 @@ A: Available via EU Blue Card (requires high-salary contract) or Decreto Flussi 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-and-counselling-professional/IT)**

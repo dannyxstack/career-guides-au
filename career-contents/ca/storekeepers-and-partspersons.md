@@ -54,8 +54,6 @@ Responsible for managing inventory, receiving and storing goods, filling orders,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Warehouse managers and parts clerks face moderate automation risk. AI can optimize inventory management and order processing, but physical operations and complex decisions still require humans; overall outlook is mixed.
-
 Can advance from entry-level warehouse assistant to warehouse supervisor, logistics coordinator, or supply chain manager, with opportunities for senior management roles after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from entry-level warehouse assistant to warehouse supervisor, logist
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: After gaining experience, obtaining a supply chain certificate can lead to pr
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/storekeepers-and-partspersons/CA)**

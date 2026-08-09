@@ -56,8 +56,6 @@ Gas fitters install, maintain, and repair natural gas and LPG pipeline systems i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gas plumber employment demand is stable, but AI will automate administrative tasks like documentation, scheduling, and compliance checks; on-site work relies on physical skills and judgment, with low short-term replacement risk, but entry-level roles narrow due to high certification requirements.
-
 The transition from natural gas to renewable gas (biogas/hydrogen blend) is creating upskilling demand. Licensed gas fitters are scarce, and independent contractors command a significant salary premium.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ The transition from natural gas to renewable gas (biogas/hydrogen blend) is crea
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | Strong demand for LPG in regional areas, plus 15 points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeship
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-fitter/AU)**

@@ -52,8 +52,6 @@ Responsible for analyzing, testing, diagnosing, and evaluating network system is
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
-
 Can advance from junior support engineer to senior network specialist, network architect, or IT manager, and accelerate career development by obtaining certifications such as CCNA, CCNP.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior support engineer to senior network specialist, network a
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for skilled workers with a bachelor's degree, requires PERM labor certification. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens; requires relevant professional qualifications |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Good. As network complexity and security demand increase, demand for speciali
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-support-specialists/US)**

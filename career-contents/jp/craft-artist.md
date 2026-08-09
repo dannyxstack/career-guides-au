@@ -4,8 +4,6 @@
 
 Specialist creating traditional crafts or contemporary art works. Works in diverse fields including pottery, lacquer art, metalwork, and dyeing/weaving, contributing to Japanese cultural heritage and innovation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Specialist creating traditional crafts or contemporary art works. Works in diver
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Craft artist work is centered on manual labor and creativity, making it difficult to fully replace with AI, though AI is advancing in some processes like design concept generation and marketing. While AI serves as a new creative tool, the value of complete craftsmanship remains unchanged.
-
 Shift from apprenticeship to vocational schools/universities is progressing. Increasing cases of solo practice, gallery management, or corporate collaboration. Fusion with product design or contemporary art is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Shift from apprenticeship to vocational schools/universities is progressing. Inc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university-level education and work experience in arts and crafts. Employment at a workshop or company is assumed. |
-| Subclass 特定活動（文化芸術） (Designated Activities (Culture/Arts)) | Visa for artist activities. Income and performance record are reviewed. |
-| Subclass 短期滞在 (Short Stay (Entertainment)) | Usable for short-term activities such as exhibitions and workshops. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Holding solo exhibitions, winning prizes in open competitions, obtaining trad
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/craft-artist/JP)**

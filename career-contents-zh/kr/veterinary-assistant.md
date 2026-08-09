@@ -1,10 +1,8 @@
 # 兽医助理（Veterinary Assistant）职业分析 · 韩国
 
-**职业代码: 51152 (KECO)**
+**职业代码：51152 (KECO)**
 
-Veterinary assistants support veterinarians in examinations and surgeries, care for animals, and handle hospital administration. Demand is growing due to the expansion of the pet industry.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+兽医助理协助兽医进行检查和手术，照顾动物，并处理医院行政事务。由于宠物行业的扩张，需求正在增长。
 
 
 ---
@@ -13,8 +11,8 @@ Veterinary assistants support veterinarians in examinations and surgeries, care 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 0年 | $0~$0（No specific educational restrictions） |
-| Veterinary Assistant Certificate (Private) | 3个月 | $500,000~$1,500,000（Online and offline training costs） |
+| 高中文凭或更高学历 | 0年 | $0~$0（无特定教育限制） |
+| 兽医助理证书（私立） | 3个月 | $500,000~$1,500,000（线上和线下培训费用） |
 
 ---
 
@@ -22,17 +20,17 @@ Veterinary assistants support veterinarians in examinations and surgeries, care 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Veterinary Assistant Certificate | Private qualifications such as from the Korea Animal Hospital Association | 可选 | Provides additional points in hiring, not mandatory |
-| National Animal Health Technician Certification (Scheduled for 2025) | National Health Personnel Licensing Examination Board | 可选 | May become mandatory in the future |
+| 兽医助理证书 | 私人资质，如韩国动物医院协会 | 可选 | 在招聘中提供额外加分，非强制性 |
+| 国家动物卫生技术员认证（计划2025年） | 国家卫生人员资格考试委员会 | 可选 | 未来可能变为强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,500. With the increase in pet ownership and demand for animal medical services, employment is expected to grow steadily over the next five years. However, working conditions are poor and turnover is high.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,500。随着宠物拥有量的增加和动物医疗服务的需求，预计未来五年就业将稳步增长。然而，工作条件差且人员流动率高。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,84 @@ Veterinary assistants support veterinarians in examinations and surgeries, care 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$26,000,000 | 最低工资水平 |
+| 初级（0-3年） | $22,000,000~$26,000,000 | 最低工资水平 |
 | 中级 (3-7年) | $27,000,000~$32,000,000 | 经验丰富后增长 |
-| Advanced (7+ years) | $33,000,000~$40,000,000 | Large hospital level |
+| 高级（7年以上） | $33,000,000~$40,000,000 | 大型医院级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI can replace administrative tasks like reception, scheduling, and charting, face-to-face services such as animal nursing and guardian counseling are handled by humans, posing a risk of reduced job scope.
+虽然AI可以替代接待、日程安排和图表绘制等行政任务，但动物护理和监护人咨询等面对面服务仍由人类处理，这带来了工作范围缩小的风险。
 
-Most recruitment is for experienced positions. The common career path is to obtain a veterinary assistant certificate, gain experience at small hospitals, and then move to larger animal hospitals or specialized animal medical institutions.
+大多数招聘针对有经验者。常见职业路径是获得兽医助理证书，在小医院积累经验，然后转到大型动物医院或专业动物医疗机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reception and appointment management
-- Computerized entry of medical records
-- Insurance claim documentation
+- 接待与预约管理
+- 病历计算机录入
+- 保险理赔文档
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Animal condition monitoring (AI-assisted diagnosis)
-- Guardian counseling (AI-provided information)
-- Medical data analysis
+- 动物状况监测（AI辅助诊断）
+- 监护人咨询（AI提供信息）
+- 医疗数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Bonding and care with animals
-- Emergency situation assessment
-- Emotional support for guardians
+- 与动物的情感联系与照料
+- 紧急情况评估
+- 对监护人的情感支持
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Animal nursing skills
-- Guardian communication
-- Rehabilitation assistance
+- 动物护理技能
+- 监护人沟通
+- 康复辅助
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Pet industry
-- Growing number of animal hospitals
-- Advanced animal medical services
-- Growing pet population
+- 宠物行业
+- 动物医院数量增长
+- 高级动物医疗服务
+- 宠物数量增长
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Targets experienced veterinary assistants; requires employer recommendation |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Generally not applicable; able to manage some farm animals |
-| Subclass F-2 (Residence) | Long-term resident, no employment restrictions |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love and find reward in caring for animals
-- People with good stamina and patience for repetitive tasks
+- 热爱并乐于照顾动物的人
+- 对重复性任务有良好耐力和耐心的人
 
 **谁不适合**
-- People with animal allergies or blood phobia
+- 动物过敏或血液恐惧症者
 - 寻求快速晋升和高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary of a veterinary assistant?**
-答：Entry-level: approximately 22-26 million KRW pre-tax; can rise to 40 million KRW with experience
+**问：兽医助理的薪资是多少？**
+答：入门级：约2200-2600万韩元税前；有经验后可升至4000万韩元
 
-**问：Can foreigners work as veterinary assistants?**
-答：Possible, but requires an E-7 visa, employer recommendation, and certain experience
+**问：外国人可以成为兽医助理吗？**
+答：可能，但需要E-7签证、雇主推荐和一定经验
 
-**问：What are the prospects for this job?**
-答：Demand is steadily increasing due to growth in the pet industry, but turnover is high due to low pay relative to work intensity
+**问：这份工作的前景如何？**
+答：由于宠物行业的增长，需求稳步增加，但由于工作强度高且薪酬低，人员流动率高
 
 
 ---
@@ -143,12 +133,12 @@ Most recruitment is for experienced positions. The common career path is to obta
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/veterinary-assistant/KR)**

@@ -52,8 +52,6 @@ This occupation is in high demand in New Zealand. Plan and oversee the entire co
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Can be promoted to senior project manager, construction director, or company partner. With experience, can also transition to project management consulting or entrepreneurship, with clear career paths.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted to senior project manager, construction director, or company par
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for those with a job offer; can transition to residence after 2 years of work |
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | Work-to-residence visa, requires 2 years of work; occupation is on the Green List. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: If signing off on building projects (e.g., design or construction supervision
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-builder/NZ)**

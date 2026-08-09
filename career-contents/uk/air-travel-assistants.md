@@ -54,8 +54,6 @@ An air travel assistant handles airport check-in, issues boarding passes, checks
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The role of air travel assistant carries relatively high risk; AI self-service check-in and automated document checks will significantly reduce traditional tasks, entry-level positions are shrinking, but interpersonal service and safety responsibilities still retain some moat.
-
 Entry-level ground staff or cabin crew can advance to senior assistant, team leader or trainer. Later, they can move into aviation management, customer service manager, or more specialized safety, operations, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level ground staff or cabin crew can advance to senior assistant, team lea
 |---|---|
 | Subclass Skilled Worker (Skilled Worker visa) | Typically not applicable for this position due to skill level requirements, but may be possible if the employer can demonstrate scarcity. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually difficult because the occupation does not meet the general skill leve
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-travel-assistants/UK)**

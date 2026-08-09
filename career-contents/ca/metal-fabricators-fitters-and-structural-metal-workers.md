@@ -54,8 +54,6 @@ Metal fabricators manufacture, assemble, and install steel structures and metal 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive tasks such as cutting, bending, and inspection in metal manufacturing will be affected by AI and automation, but on-site installation, welding adjustments, and complex size adaptation rely on hand-eye coordination and experience, making the profession resilient; skilled workers with 3D modeling and CNC programming will benefit most.
-
 Junior draftspersons or welders can advance to senior fabrication roles or foremen through experience; some may obtain a Red Seal endorsement to become interprovincial Red Seal tradespersons, or transition to project management and structural steel design.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior draftspersons or welders can advance to senior fabrication roles or forem
 | Subclass PNP (Provincial Nominee Program) | Most provinces (e.g., Ontario, BC, Alberta) have skilled trades targeted draws; employer sponsorship provides 600 points bonus |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers with a job offer |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Provincial certification (e.g., Ontario Qualification Certificate) is mandato
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fabricators-fitters-and-structural-metal-workers/CA)**

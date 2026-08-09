@@ -52,8 +52,6 @@ Financial analysts in Italy provide financial analysis, investment evaluation an
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior analysts, fund managers, or investment directors; certifications such as CFA aid in promotion; they can also transition to risk management, private equity, or corporate finance.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior analysts can advance to senior analysts, fund managers, or investment dir
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For high-skilled non-EU citizens, salary threshold approx. €27,000 per year, requires university degree or 5 years relevant experience. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-high-skilled work, but financial analysts typically follow the Blue Card route. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employer-sponsored work permit, requiring proof that no suitable candidate can be found within the EU. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promising prospects, with digital transformation and green finance creating n
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/IT)**

@@ -52,8 +52,6 @@ Apply medical and information systems knowledge to design, develop, maintain, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of Health Information Managers (clinical coding, data management) significantly threatened by AI, but strong human decision-making needed for regulatory compliance and privacy. Entry-level roles narrowing; mid-senior roles require more composite skills due to AI tools.
-
 Entry-level typically starts in medical data entry or technical support, intermediate can advance to systems analyst or project manager, senior can become health information director or chief information officer (CIO).
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level typically starts in medical data entry or technical support, interme
 | Subclass EB-2 (Employment-Based Second Preference) | Master's degree or bachelor's plus 5 years experience, requires PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree or equivalent experience, PERM required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires a bachelor's degree in health informatics, health manageme
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-information-technologists-and-medical-registrars/US)**

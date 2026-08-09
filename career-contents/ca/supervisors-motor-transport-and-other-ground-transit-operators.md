@@ -54,8 +54,6 @@ Responsible for supervising and coordinating ground transport operations such as
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core decision-making and coordination tasks of automobile transport operations supervisors are less affected by AI, but some routine scheduling and paperwork tasks can be automated, while AI significantly enhances route optimization and real-time monitoring capabilities, a mixed outcome.
-
 Can advance from entry-level dispatcher or driver to supervisor, then to operations manager or regional transport director. Experience can also lead to logistics planning or safety management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from entry-level dispatcher or driver to supervisor, then to operati
 | Subclass PNP (Provincial Nominee Program) | Provinces have transportation industry nomination programs, such as Ontario, British Columbia, Alberta, etc. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA-supported work visas, adding points for subsequent immigration. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires several years of ground transportation-related experience,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-motor-transport-and-other-ground-transit-operators/CA)**

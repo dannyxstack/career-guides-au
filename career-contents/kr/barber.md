@@ -4,8 +4,6 @@
 
 A professional who trims customers' hair and provides beauty services such as shaving, dyeing, and perming, working at barbershops or hair salons.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who trims customers' hair and provides beauty services such as sh
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While it is difficult for AI and automation to completely replace the work of a beauty service provider, the use of AI will increase in some auxiliary tasks such as reservation management and dye recipe recommendations. Skilled manual techniques remain important.
-
 Common path: complete a beauty academy, obtain a barber license, get a job at a barbershop, gain experience, then open a shop or operate a franchise.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Common path: complete a beauty academy, obtain a barber license, get a job at a 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign barbers working in Korea, but under strict conditions |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term foreign residents to start self-employed business |
-| Subclass F-4 (Overseas Korean) | Overseas Koreans can work in beauty services |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: AI is unlikely to fully replace shaving or cutting, so the risk is low. Rathe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/barber/KR)**

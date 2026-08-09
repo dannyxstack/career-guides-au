@@ -52,8 +52,6 @@ Instructional coordinators develop teaching materials, coordinate educational co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of teaching coordinator is mixed: AI can automate course material generation and data analysis, but also amplifies the value of personalized instructional design and teacher training guidance; core decision-making and human interaction remain irreplaceable.
-
 Career path typically starts as a teacher or education specialist, progresses to senior coordinator, curriculum supervisor, or education project manager; some move into district management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path typically starts as a teacher or education specialist, progresses to
 | Subclass EB-2 (EB-2 Advanced Degree Professionals) | Master's degree or higher, requires PERM labor certification; suitable for long-term immigration. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Applying for an employment-based green card through PERM requires proving no qualified U.S. workers are available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually starts as a teacher or education specialist, advancing to senior coor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/instructional-coordinators/US)**

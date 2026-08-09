@@ -52,8 +52,6 @@ In the Netherlands, bakers, pastry chefs, and confectionery makers are responsib
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core production tasks for bakers, pastry chefs, and confectioners—mixing, shaping, baking—are being rapidly replaced by automated baking equipment and AI recipe optimization systems, but decoration, customization, and creative design still rely on human craftsmanship. Entry-level roles have significantly decreased, shifting to operating and maintaining automated production lines.
-
 Career path: start as an apprentice or junior baker, can advance to senior baker, pastry chef supervisor, or open your own bakery. Also can move towards food R&D or baking trainer.
 
 **Tasks most exposed to AI:**
@@ -98,17 +96,9 @@ Career path: start as an apprentice or junior baker, can advance to senior baker
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled immigration, but the baker occupation usually does not meet the salary threshold unless in a managerial role. |
-| Subclass Orientation Year (Zo (Orientation Year) | Dutch graduates can apply for a one-year job-seeking visa, which can then be converted to a work visa. |
-| Subclass EU Blue Card (EU Blue Card) | Requires high salary; baker occupation usually does not qualify. |
-| Subclass Self-employed (Zelfs (Self-employed visa) | Opening your own bakery may qualify for a self-employment visa, which requires assessment by the Netherlands Enterprise Agency (RVO). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Demand for artisan bread and specialty pastries is stable, but industrial pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker-pastrycook-and-confectionery-maker/NL)**

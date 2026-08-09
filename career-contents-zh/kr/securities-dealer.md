@@ -1,10 +1,8 @@
-# Securities Dealer 职业分析 · 韩国
+# 证券交易商（Securities Dealer）职业分析 · 韩国
 
-**职业代码: 03141 (KECO)**
+**职业代码：03141 (KECO)**
 
-A financial professional who generates profits by trading stocks, bonds, derivatives, etc. in the securities market. Typically works at securities firms, asset management companies, banks, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过在证券市场交易股票、债券、衍生品等来创造利润的金融专业人士。通常就职于证券公司、资产管理公司、银行等。
 
 
 ---
@@ -13,8 +11,8 @@ A financial professional who generates profits by trading stocks, bonds, derivat
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（Tuition at national universities; over twice that at private universities） |
-| 硕士 | 2 年 | $6,000,000~$12,000,000（Majors such as Financial Engineering, MBA） |
+| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（国立大学学费；私立大学的两倍以上） |
+| 硕士 | 2 年 | $6,000,000~$12,000,000（金融工程、MBA等专业） |
 
 ---
 
@@ -22,17 +20,17 @@ A financial professional who generates profits by trading stocks, bonds, derivat
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Investment Asset Manager | Korea Financial Investment Association | 必备 | Mandatory qualification for financial investment industry |
-| CFA | CFA协会 | 可选 | Internationally recognized financial analyst certification, preferred |
+| 投资资产管理人 | 韩国金融投资协会 | 必备 | 金融投资行业强制资格 |
+| CFA | CFA协会 | 可选 | 国际认可金融分析师证书优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,200. The Korean securities industry is changing the role of dealers due to digital transformation and AI adoption. While high-frequency trading and algorithmic trading are expanding, reducing traditional dealer demand, sophisticated strategic capabilities are still needed for hedge funds and professional investors.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,200。韩国证券行业因数字化转型和AI应用正在改变交易员的角色。高频交易和算法交易扩张，减少了对传统交易员的需求，但对冲基金和专业投资者仍需要复杂的战略能力。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,91 +38,83 @@ A financial professional who generates profits by trading stocks, bonds, derivat
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $45,000,000~$70,000,000 | Performance bonus separate |
+| 入门级（0-3年） | $45,000,000~$70,000,000 | 绩效奖金另计 |
 | 中级（4-7年） | $70,000,000~$99,999,999 | 含业绩奖金 |
-| 高级（8年+） | $99,999,999 | Including performance bonus, high salary cap |
+| 高级（8年+） | $99,999,999 | 含绩效奖金，薪资上限高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-As AI and algorithmic trading proliferate, the role of traditional manual trading dealers is diminishing. While repetitive decision-making like high-frequency trading, risk management, and portfolio optimization is replaced by AI, strategic design and handling exceptional situations remain human tasks.
+随着人工智能和算法交易的普及，传统人工交易员的角色正在缩减。高频交易、风险管理和投资组合优化等重复性决策被AI取代，但战略设计和处理特殊情况仍需人类负责。
 
-Starting as a trader or analyst, one can advance to senior dealer, department head, or head dealer. At large securities firms, overseas IB experience is advantageous, and professional certifications like CFA aid promotion.
+从交易员或分析师起步，可晋升为高级交易员、部门主管或首席交易员。在大型证券公司，海外投行经验有优势，CFA等专业认证有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order execution and trade settlement
-- Basic chart analysis
-- Simple risk calculation
+- 订单执行与交易结算
+- 基本图表分析
+- 简单风险计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market analysis and modeling
-- Algorithmic trading strategy design
-- Risk management scenario analysis
+- 市场分析与建模
+- 算法交易策略设计
+- 风险管理情景分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic insight and intuition
-- Client relationships and trust-building
-- Regulatory and legal understanding
+- 战略洞察力和直觉
+- 客户关系与信任建立
+- 法规与法律理解
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python
-- Machine learning
-- Quantitative modeling
-- Big data analysis
+- 机器学习
+- 定量建模
+- 大数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-frequency trading
-- Algorithmic trading
-- Derivatives
-- ESG Investing
+- 高频交易
+- 算法交易
+- 衍生品
+- ESG投资
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for financial professionals; requires securities firm recommendation |
-| Subclass F-2 (F-2 (Residence)) | Obtainable through points-based immigration, advantageous for long-term stay |
-| Subclass F-5 (Permanent residence) | Can obtain permanent residency upon meeting certain conditions |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with high concentration and stress tolerance
-- Those strong in math/statistics and quick decision-making
-- Those with passion and curiosity for financial markets
+- 高专注力和抗压能力强的人
+- 擅长数学/统计且决策迅速者
+- 对金融市场充满热情和好奇心的人
 
 **谁不适合**
-- Those with a laid-back personality who find it hard to adapt to change
+- 性格懒散、难以适应变化的人
 - 偏好独立工作而非团队协作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a securities dealer?**
-答：Entry-level pre-tax annual salary of 45-70 million KRW, mid-level 70 million-150 million KRW, senior over 150 million KRW, with performance bonuses making up a large portion.
+**问：证券交易员的平均年薪是多少？**
+答：入门级税前年薪4500-7000万韩元，中级7000万-1.5亿韩元，高级1.5亿韩元以上，绩效奖金占比大。
 
-**问：What visa does a foreigner need to work as a securities dealer in Korea?**
-答：E-7 is common, requiring a securities company sponsor. Can be converted to F-2 or F-5.
+**问：外国人在韩国从事证券交易员工作需要什么签证？**
+答：E-7常见，需证券公司担保，可转换为F-2或F-5。
 
 
 ---
@@ -142,12 +132,12 @@ Starting as a trader or analyst, one can advance to senior dealer, department he
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/securities-dealer/KR)**

@@ -4,8 +4,6 @@
 
 Subsistence livestock farmers in the Netherlands mainly operate small-scale pasture farms to make a living, with products mostly used for household consumption or local markets.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Subsistence livestock farmers in the Netherlands mainly operate small-scale past
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Self-sufficient livestock farmers in the Netherlands rely heavily on physical labor and experience; AI and automation cannot fully replace them, but market demand for self-sufficient products is limited, economic feasibility is low, and career prospects continue to shrink.
-
 Career progression is limited for this occupation; some farmers may shift to organic or specialty farming, or transition to agritourism operators, but overall advancement opportunities are low.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career progression is limited for this occupation; some farmers may shift to org
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work in the Netherlands without an additional visa |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | For highly skilled workers, but self-sufficient farmers typically do not meet the salary threshold |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Limited promotion prospects; a few may expand to become commercial farm owner
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-livestock-farmer/NL)**

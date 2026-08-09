@@ -53,8 +53,6 @@ Accountants handle enterprise bookkeeping, financial statement preparation, tax 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 From junior accountant to senior accountant, can advance to finance manager, CFO, or move into tax advisory and auditing roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ From junior accountant to senior accountant, can advance to finance manager, CFO
 | Subclass Skilled Worker (Skilled Worker Visa) | Complies with skilled migration law, requires employer sponsorship and qualification recognition |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, allows entry to find work in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Minimum B2 level typically required due to tax law, reporting, and client com
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/DE)**

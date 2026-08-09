@@ -4,8 +4,6 @@
 
 Operate material handling equipment such as cranes, forklifts, and hoists, and load, unload, and transport goods at warehouses, ports, construction sites, and other locations. Responsible for daily equipment inspection, safe operation, and basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate material handling equipment such as cranes, forklifts, and hoists, and l
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Crane operators face mixed impacts from AI/automation: high-precision tasks (e.g., lift path planning) will be enhanced, but routine monitoring operations may be automated, requiring a shift to remote control and smart construction sites.
-
 Promotion from junior forklift operator to senior crane operator, team supervisor, or equipment dispatcher. After gaining experience, you can obtain higher-level operation certificates or move on to equipment maintenance or logistics management positions.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Promotion from junior forklift operator to senior crane operator, team superviso
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, proving that the position cannot be filled in the local market. Suitable for experienced operators. |
-| Subclass Busqueda empleo (Job-seeking visa) | You are allowed to stay in Spain for 6 months to look for work, and after finding a job, you can convert to working residence. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: The forklift operator license (Carnet de Carretillero) is mandatory and issue
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-hoist-and-lift-operator/ES)**

@@ -52,8 +52,6 @@ Responsible for installing insulation materials (e.g., glass wool, foam boards) 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's overall impact on insulation workers is mixed: task automation is moderate, but AI-enhanced tools improve measurement, material optimization, and inspection efficiency, while the green energy transition creates new demand; core installation skills still require human labor.
-
 Junior insulation workers can gradually advance to senior technician, construction supervisor, or project coordinator. By accumulating experience and obtaining higher-level qualifications (such as FETAC Level 6), they can move into construction management or energy assessment roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior insulation workers can gradually advance to senior technician, constructi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, workers can advance to senior technician, team leader, or even enter pro
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-worker/IE)**

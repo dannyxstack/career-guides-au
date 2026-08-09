@@ -52,8 +52,6 @@ Install, dismantle, or move machinery and heavy equipment according to layout pl
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 Start with apprenticeship, advance to foreman, supervisor, or mechanical installation project manager; can obtain advanced certifications to become a mechanical expert or trainer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start with apprenticeship, advance to foreman, supervisor, or mechanical install
 | Subclass EB-3 (EB-3 Skilled Workers) | Common immigration pathway, requires PERM labor certification and employer sponsorship |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for employment-based green card through the PERM process |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically EB-3 skilled worker green card, requires employer sponsorship and P
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/millwrights/US)**

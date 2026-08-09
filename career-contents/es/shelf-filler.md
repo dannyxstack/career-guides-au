@@ -4,8 +4,6 @@
 
 Responsible for placing products on shelves in retail stores, supermarkets, and other venues, ensuring sufficient inventory and neatly arranged, and assisting customers in finding goods.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for placing products on shelves in retail stores, supermarkets, and 
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
-
-Shelf replenishment workers face a clear risk of being compressed by automation: AI-driven inventory robots and automated replenishment systems are rapidly replacing manual tasks of stocktaking, restocking, and display. The number of entry-level positions will be significantly reduced, but humans still have an advantage in complex display adjustments and customer interactions.
 
 You can be promoted from a regular replenisher to a department head or warehouse manager, or transition to logistics and supply chain fields. After gaining experience, you may have the opportunity to enter retail management or procurement positions.
 
@@ -100,15 +96,9 @@ You can be promoted from a regular replenisher to a department head or warehouse
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | Employers must provide a work contract meeting minimum wage requirements; non-urgently needed occupations are difficult to approve. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: Shelving restocking staff are considered low-skilled professions and do not m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shelf-filler/ES)**

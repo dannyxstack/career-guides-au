@@ -4,8 +4,6 @@
 
 Specialist engaged in R&D of metallic materials, designing and evaluating new alloys and processing technologies. High demand in manufacturing and materials companies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Specialist engaged in R&D of metallic materials, designing and evaluating new al
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI strongly supports simulation and data analysis in materials development, but experimental design and property evaluation judgment remain with humans; full substitution is difficult. Demand for AI-utilizing researchers is growing.
-
 After obtaining a master's or doctoral degree, start as a researcher. Promoted to senior researcher → group leader → technical director. A specialist track leveraging expertise is also possible.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ After obtaining a master's or doctoral degree, start as a researcher. Promoted t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and relevant work experience. Applicable in manufacturing/R&D fields. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | 70+ points under point system. Applicable to metal materials researchers. Preferential treatment for permanent residency. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Not mandatory, but Professional Engineer (Metals) or high TOEIC score is adva
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metallic-materials-engineer-rd/JP)**

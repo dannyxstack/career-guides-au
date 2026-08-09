@@ -4,8 +4,6 @@
 
 Responsible for drilling and extracting metallic and non-metallic minerals in mines and quarries. Includes operating mining machinery, blasting, and loading in both underground and open-pit operations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for drilling and extracting metallic and non-metallic minerals in mi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation improve safety and efficiency in mining. Autonomous haulage vehicles and remote-controlled drills are introduced, shifting humans to monitoring and maintenance. Complete replacement is difficult, so skilled workers remain in demand.
-
 As veteran workers age, fewer young workers enter the field, making skill transfer a challenge. Mechanization and automation are advancing, allowing careers as heavy machinery operators and underground transport technicians.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ As veteran workers age, fewer young workers enter the field, making skill transf
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（採掘） (Specified Skilled Worker (i) (Mining)) | Residency up to 5 years. Requires passing skills and Japanese tests. Mainly simple tasks; no family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree + work experience. For specialists like underground engineers and safety managers. Renewable, with path to permanent residency. |
-| Subclass 特定技能2号（採掘） (Specified Skilled Worker (ii) (Mining)) | Accepted from 2024. Allows family accompaniment and permanent residency application. Requires transition from (i). |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -151,12 +139,12 @@ A: Yes. Many start after high school, receive OJT on-site, and obtain qualificat
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-mining-workers/JP)**

@@ -52,8 +52,6 @@ Diesel mechanic is in high demand in New Zealand, responsible for diagnosing, re
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on diesel mechanics is mixed: diagnostic and documentation tasks will be enhanced, but field operations and physical repairs still rely on humans. Overall, roles won't shrink, but entry barriers may slightly narrow due to increased skill requirements.
-
 Entry-level diesel mechanics can advance to senior technician or supervisor, with experience can open their own repair shop or move into heavy machinery sales/training. They can also obtain specialized certifications such as heavy vehicle technician (electrical or hydraulic).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level diesel mechanics can advance to senior technician or supervisor, wit
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for first working in New Zealand to gain experience then applying for residence; employer must be accredited. |
 | Subclass Green List T2 (Work to Residence Visa) | Work to Residence visa requires working in the occupation and holding a job earning at or above the median wage; can apply for residence after 2 years. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically start as an apprentice or junior mechanic, obtain a national certif
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diesel-motor-mechanic/NZ)**

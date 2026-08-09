@@ -51,8 +51,6 @@ Performs slaughtering, cutting, deboning, freezing, packaging, and other process
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fish processing workers face high automation substitution risk, especially in repetitive physical tasks like processing, deboning, freezing and packaging, but quality inspection and complex manual operations still require human judgment.
-
 Can advance to production line supervisor, quality controller, or technician. Further study can lead to food technology or management roles. Some workers can start small processing businesses.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance to production line supervisor, quality controller, or technician. Fu
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allows job search in Germany, suitable for those with professional qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to search for work; sufficient funds required. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to production supervisor, quality controller, or technician. Furt
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fish-processing-worker/DE)**

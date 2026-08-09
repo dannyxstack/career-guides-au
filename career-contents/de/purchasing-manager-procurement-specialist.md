@@ -54,8 +54,6 @@ Responsible for corporate procurement, supplier management and negotiation, ensu
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
-
 Can progress from procurement assistant to procurement specialist, procurement manager, and then to supply chain director. Industry 4.0 and sustainable procurement offer new opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from procurement assistant to procurement specialist, procurement m
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Requires a job offer from a German company and recognition of qualifications or professional certifications. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing job seekers without a contract to enter the country for one year to find work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: From junior procurement, you can advance to roles such as category manager, p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-manager-procurement-specialist/DE)**

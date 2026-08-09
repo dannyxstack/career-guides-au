@@ -53,8 +53,6 @@ Responsible for washing and conditioning clients' hair, typically working in hai
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
-
 Usually start as a shampoo assistant, gain experience to become a hairstylist or salon assistant, some move to salon management or product representation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as a shampoo assistant, gain experience to become a hairstylist or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually not, because the position does not meet H-1B specialty occupation req
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shampooers/US)**

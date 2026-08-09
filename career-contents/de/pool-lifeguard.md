@@ -54,8 +54,6 @@ Pool lifeguards are responsible for monitoring pool safety, preventing drowning 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core monitoring and warning tasks of pool lifeguards are being partially replaced by AI vision systems, but actual water rescues and complex first aid still require human judgment and physical effort. The role shows a trend of 'compressed monitoring tasks, intensified rescue responsibilities'.
-
 Junior lifeguards can progress to pool supervisor or lifeguard trainer after gaining experience. Some move into swimming coaching, water safety instruction, or emergency services through further study.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior lifeguards can progress to pool supervisor or lifeguard trainer after gai
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must already hold a German-recognized lifeguard qualification (Anerkennung) and have a job offer; German usually required at B1 level. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based residence permit allowing job seeking without a job offer in Germany; points include education, language, age, etc. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Excellent swimming skills (usually 500 meters in 15 minutes), first aid knowl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pool-lifeguard/DE)**

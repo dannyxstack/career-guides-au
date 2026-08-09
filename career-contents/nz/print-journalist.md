@@ -55,8 +55,6 @@ Print journalists write news and features for newspapers, magazines and other pr
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Junior reporters can advance to senior reporters, editors, or feature editors, with a few entering media management. Cross-skills transitions (e.g., digital content, public relations) are common career paths.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior reporters can advance to senior reporters, editors, or feature editors, w
 | Subclass AEWV (Accredited Employer Work Visa) | Must have a job offer from an accredited employer with salary meeting the median (hourly $29.66, 2024) |
 | Subclass SMC (Skilled Migrant Category) | Not on the Green List, but can apply via the Long Term Skill Shortage List; requires a total score of 6 (qualifications + work experience + salary). |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Traditional print media roles continue to decline; transitioning to digital c
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-journalist/NZ)**

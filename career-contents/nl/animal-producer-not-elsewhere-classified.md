@@ -4,8 +4,6 @@
 
 Engaging in livestock production in the Netherlands, including raising livestock, poultry, or other animals, responsible for feeding, breeding, health management, and product collection.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaging in livestock production in the Netherlands, including raising livestock
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Dutch livestock producers face a high risk of automation replacement; routine tasks like feeding, health monitoring, and product collection can be replaced by robots, intelligent systems, and drones, significantly reducing job numbers.
-
 Practitioners can progress from farm worker to farm manager or run their own farm; some transition to specialized roles such as livestock technology consultant, animal nutritionist, or food safety inspector.
 
 **Tasks most exposed to AI:**
@@ -98,18 +94,9 @@ Practitioners can progress from farm worker to farm manager or run their own far
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable for highly skilled migrants, requiring a sponsoring employer and an annual salary above the minimum threshold (approximately €5,100/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers: requires university degree or 5 years experience, higher salary threshold (approx. €5,712/month in 2024) |
-| Subclass Self-Employed Person (Residence Permit as Self-Employed Person) | Suitable for self-employed farm owners, who must pass an assessment by the Netherlands Chamber of Commerce and demonstrate sufficient income. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates in the Netherlands or from top 200 global universities can apply for a 1-year job-seeking visa |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +140,12 @@ A: From Farm Worker to Team Supervisor, to Farm Manager or Self-employment; also
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-producer-not-elsewhere-classified/NL)**

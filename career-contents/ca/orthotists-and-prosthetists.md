@@ -52,8 +52,6 @@ Design, manufacture and fit orthoses and prostheses to help patients regain mobi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some design and documentation tasks for orthotists/prosthetists, but clinical assessment, manual crafting, and patient interaction are hard to automate; overall mixed impact.
-
 Start as a junior technician or assistant, gain experience, and can advance to senior orthotist/prosthetist, department head, or open a private practice. Continuing education can lead to R&D or teaching roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior technician or assistant, gain experience, and can advance to s
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination, e.g., BC PNP prioritizes healthcare occupations |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, employer requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must complete accredited educational program (bachelor's + master's), pass th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthotists-and-prosthetists/CA)**

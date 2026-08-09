@@ -54,8 +54,6 @@ Responsible for laying and installing rolled or block carpet on floors, installi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Carpet installer work heavily relies on manual dexterity and on-site judgment; AI automation will primarily replace support tasks like measuring, layout, and inventory management. Core installation skills remain human-dominated, but entry-level positions may decrease due to AI tools.
-
 Typically starts as an apprentice or assistant, gains experience to become a foreman or contractor, or specializes in advanced carpet installation or transitions to comprehensive floor installer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically starts as an apprentice or assistant, gains experience to become a for
 | Subclass H-2B (Temporary Non-Agricultural Worker) | Seasonal or temporary non-agricultural worker visa, suitable for short-term carpet installation projects, but requires employer sponsorship and limited quotas. |
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | Employment-based third preference (EB-3), for skilled workers (requiring at least 2 years of training or experience), but carpet installers typically struggle to prove they are skilled workers, making the path difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually only requires a high school diploma, then learn through on-the-job tr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpet-installers/US)**

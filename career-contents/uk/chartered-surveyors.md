@@ -51,8 +51,6 @@ Chartered surveyors are responsible for the measurement, management, valuation, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Junior surveyors can advance to senior surveyor, partner, or independent consultant by gaining experience and obtaining Royal Institution of Chartered Surveyors (RICS) certification. They can also specialize in areas such as commercial property, infrastructure, or environmental assessment.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior surveyors can advance to senior surveyor, partner, or independent consult
 | Subclass Global Talent (Global Talent visa) | For professionals with outstanding achievements or potential in surveying and related fields, no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | UK graduates can apply, allowed to work in the UK for 2 years (3 years for PhDs), gaining experience for Skilled Worker visa. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: The common pathway is the Skilled Worker visa, which requires employer sponso
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chartered-surveyors/UK)**

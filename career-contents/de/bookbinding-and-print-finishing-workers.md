@@ -53,8 +53,6 @@ Responsible for bookbinding and finishing of printed materials, such as folding,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For bookbinding and print finishing, AI automation risk is moderately low, but AI enhancement potential is significant. Entry-level positions are relatively stable, but future requires mastering more digital skills.
-
 Can progress from junior operator to binding master or production supervisor, or transition to digital printing or packaging technology through further study.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can progress from junior operator to binding master or production supervisor, or
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Must complete German dual-system training or pass qualification certification
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookbinding-and-print-finishing-workers/DE)**

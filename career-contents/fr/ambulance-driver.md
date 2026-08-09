@@ -4,8 +4,6 @@
 
 Responsible for driving ambulances, safely and quickly transporting patients to medical facilities, and providing basic life support en route.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for driving ambulances, safely and quickly transporting patients to 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of ambulance drivers is polarized: route planning and recording will be automated by AI, but patient monitoring and emergency decision-making, due to complex environments and legal responsibilities, rely more on human experience, shifting the nature of the job from "transport" to "mobile first aid."
-
 You can be promoted from ambulance driver to senior paramedic (Ambulancier Diplômé d'État), or become a firefighter or paramedic through training.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ You can be promoted from ambulance driver to senior paramedic (Ambulancier Dipl�
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires a French employer sponsorship, occupations are subject to quota restrictions, but ambulance driving is a highly sought-after profession |
-| Subclass Passeport Talent (Talent Passport) | If you hold a DEA diploma and are employed by a public hospital, you can apply for a talent passport |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You must first obtain a DEA diploma (training within France) and apply for a 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-driver/FR)**

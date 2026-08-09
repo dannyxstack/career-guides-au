@@ -1,10 +1,8 @@
-# Paint and Agricultural Chemical Engineer and Researcher 职业分析 · 韩国
+# 油漆与农业化学工程师及研究员（Paint and Agricultural Chemical Engineer and Researcher）职业分析 · 韩国
 
-**职业代码: 15413 (KECO)**
+**职业代码：15413 (KECO)**
 
-A professional responsible for R&D, process design, and quality improvement of chemical products such as paints and pesticides, playing a key role in connecting laboratories and production sites.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责研发、工艺改进和涂料、农药等化工产品质量改进的专业人员，在实验室和生产现场之间发挥关键作用。
 
 
 ---
@@ -13,9 +11,9 @@ A professional responsible for R&D, process design, and quality improvement of c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$12,000,000（National university standard, higher for private） |
-| 学士学位 | 4年 | $18,000,000~$28,000,000（Chemical engineering or related major） |
-| 硕士学位 | 2 年 | $30,000,000~$50,000,000（Additional cost for graduate school） |
+| 副学士学位 | 2 年 | $8,000,000~$12,000,000（国立大学标准，私立更高） |
+| 学士学位 | 4年 | $18,000,000~$28,000,000（化学工程或相关专业） |
+| 硕士学位 | 2 年 | $30,000,000~$50,000,000（研究生院额外费用） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional responsible for R&D, process design, and quality improvement of c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Engineer (Hwagong-gisa) | Human Resources Development Service of Korea | 可选 | Preferred (not mandatory) for employment |
-| Hazardous Materials Master Craftsman (Wiheommul Gineungjang) | Human Resources Development Service of Korea | 可选 | Advantageous for handling chemicals |
+| 化学工程师（化工技师） | 韩国人力资源开发服务局 | 可选 | 就业优先（非强制） |
+| 危险品工匠（Wiheommul Gineungjang） | 韩国人力资源开发服务局 | 可选 | 处理化学品有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 12,000. Employment growth is limited due to the slowdown of Korea's petrochemical and fine chemical industries and intensifying global competition, but demand for specialized personnel is expected to persist with the rise of eco-friendly and high-performance products.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 12,000。由于韩国石化及精细化工行业增速放缓及全球竞争加剧，就业增长受限，但随着环保和高性能产品的兴起，对专业人才的需求预计将持续存在。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,90 +39,83 @@ A professional responsible for R&D, process design, and quality improvement of c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $32,000,000~$40,000,000 | Large company standard; smaller firms may pay less |
-| Mid-level (4-9 years) | $45,000,000~$65,000,000 | Principal Researcher level |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Team leader or higher; large companies offer more |
+| 入门级（0-3年） | $32,000,000~$40,000,000 | 大公司标准；小公司可能薪资较低 |
+| 中级（4-9年） | $45,000,000~$65,000,000 | 首席研究员级别 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 团队负责人或以上；大公司提供更多 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances efficiency in certain areas such as experimental design optimization, data analysis, and process monitoring, but human experts' intuition and experience are essential for creative new material development and complex problem solving. Therefore, AI will generally play a supporting role and will not completely replace jobs.
+人工智能在实验设计优化、数据分析、过程监控等领域提升效率，但人类专家的直觉和经验对于创造性新材料开发和复杂问题解决至关重要。因此，AI通常起辅助作用，不会完全取代工作。
 
-Career advancement: Researcher → Senior Researcher → Principal Researcher → Team Leader/Department Head, or lateral moves to production technology or quality control. Graduate degrees and research records are advantageous.
+职业晋升：研究员 → 高级研究员 → 首席研究员 → 团队负责人/部门主管，或横向转岗至生产技术或质量控制。研究生学历和研究记录有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording/Organizing Repeating Experimental Data
-- Simple Property Measurement and Analysis
-- Writing Standard Process Monitoring Reports
+- 记录/整理重复实验数据
+- 简单财产测量与分析
+- 编写标准流程监控报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Experimental Plan Establishment and Optimization
-- Large-Scale Data-Based Pattern Analysis
-- Virtual Experiment Simulation
+- 实验方案建立与优化
+- 基于大规模数据的模式分析
+- 虚拟实验模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative New Material Design
-- Intuitive Judgment on Complex Problems
-- Experience in Responding to Safety/Environmental Regulations
+- 创意新材料设计
+- 复杂问题的直觉判断
+- 应对安全/环境法规的经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis Using Python/R
-- Machine Learning Basics
-- Process Simulation Software
-- Design of Experiments (DOE)
+- 使用Python/R进行数据分析
+- 机器学习基础
+- 流程仿真软件
+- 实验设计（DOE）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly paint
-- Precision Pesticide
-- Nano Coating
-- Bio Chemical
+- 环保涂料
+- 精准农药
+- 纳米涂层
+- 生物化学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires bachelor's degree and experience for chemical engineering professionals |
-| Subclass F-2 (Residence) | Convertible to points system, beneficial for long-term stay |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those interested in chemical principles and experiments
-- For those with meticulous and analytical thinking
-- For those who enjoy long-term research projects
+- 适合对化学原理和实验感兴趣的人
+- 适合思维细致、善于分析的人
+- 适合喜欢长期研究项目的人
 
 **谁不适合**
-- For those expecting fast cash flow or high salary
-- For those who prefer fieldwork over interpersonal relationships
+- 适合期望快速现金流或高薪的人
+- 适合偏好现场工作而非人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for new employees?**
-答：Around 32-40 million KRW for large companies, 28-32 million KRW for SMEs.
+**问：新员工的起薪是多少？**
+答：大企业约3200-4000万韩元，中小企业约2800-3200万韩元。
 
-**问：Can foreigners get an employment visa for this job?**
-答：Eligible for E-7 visa, requires bachelor's in chemical engineering and relevant experience. However, government employment permit screening may be strict.
+**问：外国人可以申请这份工作的就业签证吗？**
+答：符合E-7签证要求，需化学工程本科学位和相关经验。但政府就业许可审查可能严格。
 
 
 ---
@@ -142,12 +133,12 @@ Career advancement: Researcher → Senior Researcher → Principal Researcher �
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/paint-and-agricultural-chemical-engineer-and-researcher/KR)**

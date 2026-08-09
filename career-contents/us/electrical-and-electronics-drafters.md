@@ -51,8 +51,6 @@ Electrical and electronics drafters draw wiring diagrams, circuit board assembly
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will largely take over repetitive drafting tasks for electrical and electronic drafters, but circuit logic design, cross-system coordination, and on-site problem-solving still require human input, making the job outlook mixed.
-
 Starting as a junior drafter, gain experience to advance to senior drafter, design team lead, or transition to electrical engineer role with an engineering degree.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Starting as a junior drafter, gain experience to advance to senior drafter, desi
 | Subclass H-1B (H-1B Specialty Occupations) | Requires bachelor's degree or equivalent, employer sponsorship, lottery system. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires 2 years of training or experience, apply after PERM labor certification |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Yes, usually requires an associate degree and 3 years of experience; employer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-drafters/US)**

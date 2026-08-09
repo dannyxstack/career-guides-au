@@ -51,8 +51,6 @@ Manage and maintain library or information collections, including books, journal
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
-
 Can advance from library assistant or technician to librarian, then to department head or curator. Some librarians transition to digital resource management, archival management, or information science fields.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from library assistant or technician to librarian, then to departmen
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, PERM labor certification application, long wait times |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Suitable for bachelor's degree or below; also requires PERM and priority date |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a Master of Library and Information Science (MLIS) degree 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/librarians-and-media-collections-specialists/US)**

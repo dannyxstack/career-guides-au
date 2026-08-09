@@ -51,8 +51,6 @@ Analyze, formulate, and implement public policies in government or public instit
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Policy management specialists face mixed impacts from AI and automation: data analysis and report generation can be automated, but value judgments, multi-stakeholder coordination, and public accountability in policy-making still require deep human involvement.
-
 Starting as a junior policy assistant, you can advance to policy advisor, senior policy manager, or transition into public affairs and government relations roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting as a junior policy assistant, you can advance to policy advisor, senior
 | Subclass General Employment P (General Employment Permit) | Must pass labor market testing, employer sponsorship, annual salary usually ≥€30,000 |
 | Subclass Stamp 4 (EU Family M (EU Family Member Residence Card) | Family members of EU citizens can work freely |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Typically requires a General Employment Permit, employer sponsorship, and a l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-administration-professional/IE)**

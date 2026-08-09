@@ -1,10 +1,8 @@
-# Measurement and Optical Equipment Inspectors 职业分析 · 日本
+# 测量与光学设备检查员（Measurement and Optical Equipment Inspectors）职业分析 · 日本
 
-**职业代码: 585 (JSCO)**
+**职业代码：585 (JSCO)**
 
-Specialists who conduct product inspections of measuring instruments and optical devices to verify compliance with quality standards, handling final and in-process inspections at manufacturing sites.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+对测量仪器和光学设备进行产品检验以确保符合质量标准的专业人员，负责制造现场的最终检验和过程检验。
 
 
 ---
@@ -13,9 +11,9 @@ Specialists who conduct product inspections of measuring instruments and optical
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school; eligible for tuition-free policy） |
-| Vocational school (industrial) | 2 年 | $1,000,000~$2,000,000（Includes tuition and materials） |
-| University (engineering) | 4年 | $2,400,000~$5,000,000（National university standard; private expensive） |
+| 高中文凭 | 3年 | $0~$0（公立高中；可享受免学费政策） |
+| 职业学校(工业) | 2 年 | $1,000,000~$2,000,000（包括学费和材料费） |
+| 大学（工程类） | 4年 | $2,400,000~$5,000,000（国立大学标准；私立昂贵） |
 
 ---
 
@@ -23,18 +21,18 @@ Specialists who conduct product inspections of measuring instruments and optical
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Skill Certification (Measuring Instruments) | Ministry of Health, Labour and Welfare | 可选 | Eligible after work experience. Multiple grades. |
-| Measurement Technician | Ministry of Economy, Trade and Industry | 可选 | National qualification. Includes general and environmental measurement technicians. |
-| QC Certification | Japanese Society for Quality Control | 可选 | Basic knowledge of quality control. Optional but valued. |
+| 技能认证（测量仪器） | 厚生劳动省 | 可选 | 工作经历后符合条件。多个级别。 |
+| 测量技术员 | 经济产业省 | 可选 | 国家资格。包括一般和环境测量技术员。 |
+| QC认证 | 日本质量控制学会 | 可选 | 质量控制基础知识。非必需但受重视。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 65,300. Despite manufacturing automation, final inspections of precision equipment still require human judgment. Demand remains steady in the semiconductor and medical device sectors.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 65,300。尽管制造自动化，精密设备的最终检验仍需人工判断。半导体和医疗设备领域需求稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,86 @@ Specialists who conduct product inspections of measuring instruments and optical
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,500,000 | General inspector at manufacturing sites |
-| Mid-level (4–10 years) | $3,800,000~$5,000,000 | Chief Inspector, Team Leader |
-| Veteran (10+ years) | $5,000,000~$6,500,000 | Inspection Section Manager, Quality Control Specialist |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 制造现场的一般检查员 |
+| 中级（4-10年） | $3,800,000~$5,000,000 | 首席检查员、团队负责人 |
+| 资深（10年以上） | $5,000,000~$6,500,000 | 检验部门经理、质量控制专员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-The introduction of AI and automated inspection machines will replace simple dimension and visual inspections, but tasks requiring human judgment, such as complex optical adjustments and anomaly detection, will remain. Automation may elevate the role of inspectors.
+引入AI和自动检测机器将取代简单的尺寸和外观检查，但需要人工判断的任务，如复杂光学调整和异常检测，将保留。自动化可能提升检查员的角色。
 
-Career advancement possible through skill certification and measurement technician qualifications. Progression to inspection chief or quality control manager, or specialization as a consultant.
+通过技能认证和测量技术员资格可实现职业晋升。可晋升为检验主管或质量控制经理，或专攻咨询师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Dimension measurement
-- Visual inspection
-- Simple pass/fail judgment
+- 尺寸测量
+- 目视检查
+- 简单合格/不合格判定
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optical system adjustment
-- Anomaly cause analysis
-- Statistical analysis of inspection data
+- 光学系统调整
+- 异常原因分析
+- 检验数据的统计分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex judgment skills
-- Abnormal sound/odor inspection using five senses
-- Flexible inspection design according to customer specifications
+- 复杂判断能力
+- 利用五感检查异常声音/气味
+- 根据客户规格灵活设计检测方案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Quality control methods
-- Programming (inspection automation)
-- Deep knowledge of optics and measurement engineering
+- 数据分析
+- 质量控制方法
+- 编程（检测自动化）
+- 深厚的光学和测量工程知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Precision equipment
-- Quality control
-- Optical technology
-- IoT inspection
+- 精密设备
+- 质量控制
+- 光学技术
+- 物联网检测
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university graduates in science/engineering or experienced workers. Applicable to inspection in manufacturing. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Transfer from technical intern training possible. Inspection work may be included, but mainly production processes. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at detailed work
-- Meticulous and patient people
-- People interested in machinery and measurement
+- 擅长细致工作的人
+- 细心且有耐心的人
+- 对机械和测量感兴趣的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People who cannot follow prescribed procedures
+- 不能遵循规定程序的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Starting salary for high school graduates is about 180,000–200,000 yen/month, annual income around 2.8 million yen. Slightly higher for vocational school graduates.
+**问：起薪是多少？**
+答：高中毕业生的起薪约为18万至20万日元/月，年收入约280万日元。职业学校毕业生略高。
 
-**问：Which visa is required for foreigners to work?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. In some cases, application is possible with over 10 years of practical experience. Specified Skilled Worker (i) may be possible in 3 manufacturing fields, but difficult for inspection-only roles.
+**问：外国人工作需要哪种签证？**
+答：工程师/人文/国际服务签证常见。某些情况下，可凭10年以上实际经验申请。特定技能工人(i)可能在3个制造领域可行，但仅限检验岗位困难。
 
-**问：What qualifications are useful for career advancement?**
-答：Measurement certifiers and技能検定 (measurement equipment) are advantageous. QC certification is also useful for careers in quality control departments.
+**问：哪些资格对职业发展有用？**
+答：具备计量认证和技能检定（测量设备）者优先。QC认证也对质量控制部门的职业发展有用。
 
 
 ---
@@ -146,12 +137,12 @@ Career advancement possible through skill certification and measurement technici
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/measurement-and-optical-equipment-inspectors/JP)**

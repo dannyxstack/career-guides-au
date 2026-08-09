@@ -52,8 +52,6 @@ Canadian welders cut, shape, weld and repair metal components, widely used in co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 Junior welders can advance to senior welders, supervisors, or welding inspectors. Holding Red Seal certification improves interprovincial job opportunities; can also specialize in high-paying areas like pipe welding or structural welding.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior welders can advance to senior welders, supervisors, or welding inspectors
 | Subclass PNP (Provincial Nominee Program) | Most provinces have trade-specific Provincial Nominee Programs, such as Alberta, Saskatchewan, Ontario, etc., usually requiring employer sponsorship. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for welders with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mandatory provincial certification or Red Seal certificate. Red Seal allows i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welders-and-related-machine-operators/CA)**

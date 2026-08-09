@@ -52,8 +52,6 @@ Other instructors include dance teachers, music teachers, sports coaches, etc., 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace standardized teaching and administrative tasks but enhance personalized guidance and creative course design; entry-level competition intensifies, while senior teachers become more valuable through AI tools.
-
 Can develop a private studio by accumulating experience and client base, or advance to training supervisor/project manager.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can develop a private studio by accumulating experience and client base, or adva
 | Subclass PNP (Provincial Nominee Program) | Some provinces offer provincial nominations for sports and arts talents |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa for full-time coaching positions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, by accumulating experience and reputation, one can open a private studio
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-instructors/CA)**

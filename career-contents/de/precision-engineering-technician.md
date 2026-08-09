@@ -51,8 +51,6 @@ Precision mechanical technicians design, manufacture, and repair high-precision 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Career progression can advance from technician to precision machinery master (Meister) or engineer, or transition to R&D or quality management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression can advance from technician to precision machinery master (Me
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to those certified after dual-system training, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year to find a job in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes, this occupation is in demand in Germany; applications can be made via th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precision-engineering-technician/DE)**

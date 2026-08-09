@@ -54,8 +54,6 @@ In New Zealand, network engineers design, deploy and maintain network infrastruc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
-
 Career path: Junior network engineer can advance to senior network engineer, network architect, or IT manager. Obtaining CCIE or AWS/Azure networking certifications can lead to cloud network architecture. Some may enter cybersecurity as security architects
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior network engineer can advance to senior network engineer, net
 | Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point system: scores based on education, income, work experience etc.; must meet salary requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa as a transition, accumulate local experience then switch to residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but CCNA/CCNP, CompTIA Network+, AWS certifications significan
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/network-engineer/NZ)**

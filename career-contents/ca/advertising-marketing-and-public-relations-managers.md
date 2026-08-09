@@ -52,8 +52,6 @@ Marketing managers in Canada are responsible for developing marketing strategies
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 A marketing manager can advance to marketing director, VP, or CMO, or move into specialized areas such as digital marketing, brand strategy, or product marketing. With industry experience, they can start their own business or work as a consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ A marketing manager can advance to marketing director, VP, or CMO, or move into 
 | Subclass PNP (Provincial Nominee Program) | Most provinces like Ontario, BC, Alberta have PNP streams for managerial positions, offering extra points or direct nomination. |
 | Subclass Global Talent Stream (Global Talent Stream (employer sponsorship)) | Applicable to digital marketing roles in tech companies; work permits processed within two weeks after employer approval for quick landing. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good prospects, driven by digital transformation, with steady demand growth. 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-marketing-and-public-relations-managers/CA)**

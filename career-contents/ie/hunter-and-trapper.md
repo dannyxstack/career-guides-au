@@ -53,8 +53,6 @@ Hunters and trappers capture, kill, and trap wild animals for fur, meat, or popu
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The overall impact of AI and automation on hunter-gatherers is compression: drones and sensors reduce the need for manual tracking and patrols, but the unpredictability of field environments limits full replacement.
-
 Practitioners typically start as apprentices or through family tradition, and can progress to hunting guides or wildlife management consultants. Advancement paths are limited, but experienced individuals can start small businesses or participate in conservation projects.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Practitioners typically start as apprentices or through family tradition, and ca
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible. The occupation is not on the shortage list, employer spons
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hunter-and-trapper/IE)**

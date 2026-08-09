@@ -51,8 +51,6 @@ Mechanical assemblers and inspectors assemble, adjust, and inspect mechanical eq
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Mechanical assemblers and inspectors face higher replacement risk: AI and automation robots will take over many repetitive assembly and inspection tasks, entry-level positions will shrink significantly, but complex debugging and quality assessment still require human judgment.
-
 Junior assemblers can advance to senior assemblers, inspectors, or production supervisors through experience and training. Further study can lead to quality control or engineering technician roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior assemblers can advance to senior assemblers, inspectors, or production su
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario and British Columbia have skilled trades categories that can expedite immigration. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requiring proof that no local worker is available, after which permanent residence can be applied for. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Junior assemblers can advance to senior assemblers, inspectors, or production
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-assemblers-and-inspectors/CA)**

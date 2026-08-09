@@ -51,8 +51,6 @@ Social services managers and directors plan, organize, direct, and coordinate we
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Social service managers and directors face mixed AI impact: task automation reduces clerical and scheduling roles, but AI-enhanced assessment analysis and resource coordination still rely on human judgment and ethical responsibility as core moats.
-
 From social worker to team leader, then to service manager, and eventually to director of social services. One can also move into non-profit or private healthcare management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From social worker to team leader, then to service manager, and eventually to di
 | Subclass Health & Care (Health and Care Worker visa) | Applicable to medical and social care positions, with lower fees and family members allowed to work. |
 | Subclass Graduate (Graduate visa) | After completing a UK degree, can work in the UK for 2 years (3 years for PhD) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a social work degree and registration, plus many years of 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-services-managers-and-directors/UK)**

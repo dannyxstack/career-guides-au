@@ -52,8 +52,6 @@ Analyze political systems, policies, and behavior; study government institutions
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of political scientists will undergo profound changes: tasks like administrative data analysis and literature reviews will be accelerated by AI automation, but decision-making advice, policy innovation, and ethical judgment will still rely on humans. Entry-level roles will narrow slightly due to the proliferation of automation tools, but demand for advanced analytical roles will increase.
-
 Junior research assistant → Senior researcher/lecturer → Professor/department head. Also transitionable to policy consulting, public affairs, or international organizations.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior research assistant → Senior researcher/lecturer → Professor/departmen
 | Subclass EU Blue Card (EU Blue Card) | Suitable for those with high education and meeting salary thresholds; political science typically requires an annual salary of approximately €43,800 (2024 standard). |
 | Subclass Skilled Worker (Skilled Worker Visa) | For professionals with a German employer offer, requires qualification recognition |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Bachelor's requires high school diploma (e.g., Abitur), Master's requires und
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/political-scientist/DE)**

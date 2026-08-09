@@ -1,6 +1,6 @@
 # UI/UX设计师（UI/UX Designer）职业分析 · 澳大利亚
 
-**职业代码: 232412 (ANZSCO)**
+**职业代码：232412 (ANZSCO)**
 
 UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS产品和政府数字服务。澳洲科技产业（Atlassian/Canva/WiseTech）对产品设计师的需求持续旺盛，Canva等公司将设计驱动的产品理念推向全球，是最适合创意型技术人才的职业之一。
 
@@ -12,7 +12,7 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
 | Bachelor of Design (Interaction/UX) / Computer Science（3~4年） | 3~4年（全日制） | $25,000~$160,000（或相关学位+自学UX设计课程；作品集（Portfolio）的权重高于学位） |
-| Google UX Design Certificate / Nielsen Norman UX Certification | 3~12个月 | $500~$3,000（Google UX Certificate（Coursera，约 $50/月）是转行路径的入门认证） |
+| Google用户体验设计证书/Nielsen Norman UX认证 | 3~12个月 | $500~$3,000（Google UX Certificate（Coursera，约 $50/月）是转行路径的入门认证） |
 | ACS 技能评估（189/190签证） | 2~6个月 | $500~$1,500（技术移民必须，232412按Web Designer类别评估） |
 
 ---
@@ -21,19 +21,19 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Design (Interaction/Digital) | 认可大学 | 可选 | UX岗位最直接相关的学历，ACS评估认可 |
-| Google UX Design Certificate | Google / Coursera | 可选 | 广泛认可的UX入门认证，适合转行者 |
-| Nielsen Norman Group UX Certification | 尼尔森诺曼集团 | 可选 | 业界最权威的UX研究和设计认证，高级岗位的强烈推荐 |
+| 设计学士（交互/数字） | 认可大学 | 可选 | UX岗位最直接相关的学历，ACS评估认可 |
+| Google UX 设计证书 | Google / Coursera | 可选 | 广泛认可的UX入门认证，适合转行者 |
+| 尼尔森诺曼集团UX认证 | 尼尔森诺曼集团 | 可选 | 业界最权威的UX研究和设计认证，高级岗位的强烈推荐 |
 | ACS技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 48,000. JSA 预测网页和数字设计师至2035年就业增长约15%。AI设计工具（Figma AI/Adobe Firefly）提高生产率，但策略性设计思维和用户研究的价值反而提升。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 48,000。JSA 预测网页和数字设计师至2035年就业增长约15%。AI设计工具（Figma AI/Adobe Firefly）提高生产率，但策略性设计思维和用户研究的价值反而提升。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,28 +52,28 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 UI/UX设计师受AI影响喜忧参半：AI能快速生成界面原型、自动切图，但设计思维、用户研究和品牌创意难以替代，高级设计师反而因AI工具加持效率倍增，岗位核心价值向策略偏移。
 
 Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系统（Design System）管理是2025-2026年薪资溢价最高的细分技能。AI生成式设计加速了产品迭代，但提升了对高级设计师的需求。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 低风险的手绘线框图和高保真UI生成（如AI根据文本自动产出多版本界面）
 - 自动切片和标注输出给开发者（AI工具如Figma插件一键生成代码规范）
 - 基础A/B测试变体设计（AI自动生成并测试多种布局）
 - 简单图标和插图绘制（AI图像生成工具快速提供备选素材）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 快速生成设计原型与设计系统，从概念到可点击原型时间缩短70%
 - 通过AI分析用户行为数据，辅助信息架构和交互流程优化
 - 利用AI工具进行可用性测试的自动记录与模式识别（如录制用户操作并高亮痛点）
 - 生成设计规范文档和组件库，保持全产品设计一致性
 
-**人类护城河:**
+**人类护城河：**
 
 - 用户共情与真实需求洞察（深度访谈、田野研究、同理心地图）
 - 品牌调性与情感化设计决策（色彩、字体、动效背后的含义）
@@ -81,7 +81,7 @@ Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系
 - 复杂逻辑与错误状态设计（如银行转账流程中的异常处理）
 - 创意方向与视觉叙事能力（从0到1定义设计语言）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI设计工具实战（如Figma AI、Uizard、Galileo AI、Midjourney提示词工程）
 - 用户研究方法（深度访谈、可用性测试、统计分析）
@@ -90,17 +90,17 @@ Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系
 - 数据可视化与A/B测试分析（Google Analytics、Amplitude）
 - 跨角色协作（与PM、开发、市场协同工作）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI-Augmented UX Design
-- Product Design for SaaS & Fintech
-- Accessibility & Inclusive Design
-- Design Systems & Tokens
-- UX Research & Behavioural Analytics
+- AI增强用户体验设计
+- SaaS与金融科技产品设计
+- 无障碍与包容性设计
+- 设计系统与令牌
+- 用户体验研究与行为分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -110,9 +110,7 @@ Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系
 | Subclass 189 (SkillSelect Independent) | 邀请制，ACS技能评估+EOI |
 | Subclass 190 (Skilled Nominated) | 州提名，NSW/VIC科技通道 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -174,12 +172,13 @@ Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ui-ux-designer/AU)**

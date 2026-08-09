@@ -54,8 +54,6 @@ Responsible for managing the overall operations of the road freight company, inc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will deeply reshape the work of highway freight operations directors, but core operational decisions, customer relations, and safety compliance responsibilities are difficult to replace. Overall, the value of jobs is amplified by AI, but some traditional skills are facing compression.
-
 Careers can start as dispatchers or fleet supervisors, rise to operations managers, regional directors, and eventually become transportation company CEOs or entrepreneurs. Those with a degree in logistics engineering or an MBA will develop faster.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Careers can start as dispatchers or fleet supervisors, rise to operations manage
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to senior management talents, requiring employer contract and qualification certificates, valid for 4 years, renewable and allowed to bring family members. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (with a 2025 threshold of about 58,000 euros per year), requiring higher education or 5 years of experience, valid for 1-4 years, and allowing family members. |
-| Subclass Salarié (Employee Work Permit) | Standard work residency requires employer sponsorship and approval from the Labor Bureau, salary must meet industry standards, valid for 1 year, and can be renewed. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Enterprises must hold a transportation operation license (Licence de transpor
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-freight-transport-operations-director/FR)**

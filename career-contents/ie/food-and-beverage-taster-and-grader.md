@@ -51,8 +51,6 @@ Responsible for tasting and grading food and beverages, ensuring product quality
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance sensory data analysis and quality prediction, but core tasting relies on human taste and smell, and legal requirements for manual signatures mean it cannot be fully replaced in the short term. Entry-level roles are slightly reduced due to automation tools, but the value of senior reviewers increases.
-
 Usually start in production or quality control roles, and progress to senior taster or quality manager after gaining experience. Some may transition to R&D, procurement, or enter a lab for sensory science.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually start in production or quality control roles, and progress to senior tas
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, requires employer sponsorship, annual salary no less than €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled positions, annual salary must exceed €40,000, relevant qualifications required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply via General Employment Permit or EU Blue Card, requiring employer s
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-taster-and-grader/IE)**

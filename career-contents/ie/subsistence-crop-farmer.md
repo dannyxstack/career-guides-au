@@ -51,8 +51,6 @@ Subsistence crop farmers in Ireland primarily engage in family-scale cultivation
 **Future prospect: very low (½☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Subsistence crop farmers are heavily affected by automation; traditional planting tasks can be replaced by smart farming machinery, reducing entry-level jobs, but there are upgrade opportunities by moving into technical roles.
-
 Self-sufficient farmers typically lack formal promotion paths, mostly family-run. Some may shift to organic farming or join cooperatives, or leave agriculture for other industries.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Self-sufficient farmers typically lack formal promotion paths, mostly family-run
 |---|---|
 | Subclass General Employment P (General Employment Permit) | Not applicable to subsistence farmers, as income does not meet requirements and employment is non-standard |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No. Self-sufficient farmers do not meet work permit requirements, and there i
 | Work intensity | high (★★★★☆) |
 | Future prospect | very low (½☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-crop-farmer/IE)**

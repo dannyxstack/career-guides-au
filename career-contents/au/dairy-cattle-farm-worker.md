@@ -53,8 +53,6 @@ Agricultural labourers performing daily feeding, milking, cleaning, and maintena
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Farm workers' daily physical labor (e.g., harvesting, weeding, milking) will be largely replaced by AI and robots, with job numbers sharply declining; surviving roles will require higher technical skills.
-
 Can progress from general worker to senior milker, herd management assistant, or gain experience to become farm supervisor. Some may transfer to management roles in remote areas.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from general worker to senior milker, herd management assistant, or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Skilled migration pathways are very limited, mainly through DAMA or regional 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-cattle-farm-worker/AU)**

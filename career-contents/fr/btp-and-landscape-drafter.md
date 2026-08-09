@@ -53,8 +53,6 @@ Responsible for drawing design drawings for architectural and landscape engineer
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Junior draftsmen can be promoted to senior draftsmen, BIM coordinators, or project designers. After gaining experience, you can move on to project management or start your own business. Continuous learning about BIM and related software is key.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior draftsmen can be promoted to senior draftsmen, BIM coordinators, or proje
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residency requires employer sponsorship; matching positions usually require Bac+2 academic qualifications. |
-| Subclass Passeport Talent (Talent Passport) | The talent passport, applicable to highly skilled professionals such as engineers or designers, requires an annual salary of about 42,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual salary of over 53,000 euros (2024 standard), applicable to senior draftsmen. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can advance from junior draftsman to senior draftsman, BIM coordinator, o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/btp-and-landscape-drafter/FR)**

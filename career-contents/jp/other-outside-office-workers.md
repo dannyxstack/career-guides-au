@@ -4,8 +4,6 @@
 
 Clerical work involving external duties such as sales support and delivery management. Requires outdoor tasks like route sales administrative support and coordination of goods delivery.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Clerical work involving external duties such as sales support and delivery manag
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine tasks such as data entry and schedule coordination are expected to be automated by AI and RPA, reducing workloads especially in SMEs. However, interpersonal negotiation and flexible response will remain.
-
 Career change possible from general clerical work, and step-up from sales assistant to sales role. No specialized qualifications required, but business knowledge is important.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Career change possible from general clerical work, and step-up from sales assist
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree and clerical work experience |
-| Subclass 特定活動 (Designated Activities) | Limited work for family of highly skilled foreign professionals |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: A Specialist in Humanities/International Services visa is required, along wit
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-outside-office-workers/JP)**

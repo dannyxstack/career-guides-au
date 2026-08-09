@@ -52,8 +52,6 @@ Sales Client and Business Development Managers plan, organize, and conduct marke
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance task efficiency and data analysis capabilities but will not completely replace the core of relationship-based sales; entry-level positions will have lower barriers due to the proliferation of automation tools, but high-value roles still require human judgment and relationship management.
-
 Usually start as a sales representative or account manager, progressing to Senior Business Development Manager, Sales Director, and eventually Chief Commercial Officer. Some transition to strategic consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Usually start as a sales representative or account manager, progressing to Senio
 | Subclass Graduate (Graduate visa) | Suitable for fresh graduates to work in the UK for 2 years to gain experience |
 | Subclass Scale-up (Scale-up visa) | Suitable for high-skilled positions in fast-growing enterprises, must meet salary conditions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Typically requires 2-3 years of sales experience, demonstrating client manage
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-accounts-and-business-development-managers/UK)**

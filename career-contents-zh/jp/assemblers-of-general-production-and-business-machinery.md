@@ -1,8 +1,8 @@
-# Assemblers of General, Production, and Business Machinery 职业分析 · 日本
+# 通用、生产和商业机械装配工（Assemblers of General, Production, and Business Machinery）职业分析 · 日本
 
-**职业代码: 541 (JSCO)**
+**职业代码：541 (JSCO)**
 
-Specialist in the production process who assembles, adjusts, and inspects parts for industrial and business machinery. Supports the core of manufacturing.
+生产过程专家，负责组装、调整和检查工业和商业机械零件，支撑制造业核心。
 
 
 ---
@@ -11,8 +11,8 @@ Specialist in the production process who assembles, adjusts, and inspects parts 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Free at public schools, about 3 million yen at private ones） |
-| Specialized Training College (Industrial Field) | 2 年 | $2,000,000~$4,000,000（Average tuition for vocational schools） |
+| 高中 | 3年 | $0~$3,000,000（公立学校免费，私立学校约300万日元） |
+| 专科培训学院（工业领域） | 2 年 | $2,000,000~$4,000,000（职业学校平均学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Specialist in the production process who assembles, adjusts, and inspects parts 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Machinery Assembly Skill Certification | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Associations) | 可选 | Levels 1, 2, and 3 |
-| Machinery Maintenance Skill Certification | Ministry of Health, Labour and Welfare | 可选 | Also useful for machine maintenance and inspection |
-| Forklift Operation Skills Training | Ministry of Health, Labour and Welfare | 可选 | Useful for transportation work within factories |
+| 机械装配技能认证 | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 1级、2级和3级 |
+| 机械维修技能认证 | 厚生劳动省 | 可选 | 也适用于机器维护和检查 |
+| 叉车操作技能培训 | 厚生劳动省 | 可选 | 适用于工厂内的运输工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 350,000. Employment is maintained to some extent due to domestic manufacturing回流 and demand for industrial machinery, but it is declining in the medium to long term due to automation. Covered under the Specified Skilled Worker status.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 350,000。由于国内制造业回流和工业机械需求，就业保持一定水平，但由于自动化，中长期内下降。属于特定技能工人身份。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,93 +39,86 @@ Specialist in the production process who assembles, adjusts, and inspects parts 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,800,000~$3,700,000 | Annual income including base salary and overtime pay |
-| Intermediate Level (3-7 years) | $3,700,000~$4,800,000 | Higher for those with skill certifications |
-| Advanced Level (7+ years) | $4,800,000~$6,000,000 | Over 6 million yen for team leader positions |
+| 入门级（0-3年） | $2,800,000~$3,700,000 | 年收入包括基本工资和加班费 |
+| 中级（3-7年） | $3,700,000~$4,800,000 | 持有技能证书者薪资更高 |
+| 高级水平（7年以上） | $4,800,000~$6,000,000 | 团队领导职位年薪超过600万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-Automation via AI and robots is progressing; simple assembly work is declining. However, complex assembly, adjustment, and inspection require human judgment, making full replacement difficult.
+AI和机器人自动化正在推进，简单组装工作减少。但复杂组装、调整和检查需要人工判断，难以完全替代。
 
-With skill certification and practical experience, can advance to leader, quality control, or production engineering roles. Multiskilling is required.
+拥有技能认证和实践经验，可晋升为组长、质量控制或生产工程职位。需要多技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive part assembly
-- Simple inspection
-- Transport and handling work
+- 重复性零件装配
+- 简单检查
+- 运输与搬运工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI inspection system operation
-- Robot collaborative work programming
-- Predictive equipment maintenance
+- AI检测系统操作
+- 机器人协作工作编程
+- 预测性设备维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex assembly skills
-- Troubleshooting
-- Quality sense adjustment skills
+- 复杂装配技能
+- 故障排除
+- 质量感官调整技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot programming
-- Machine learning basics
-- Data analysis
-- Production management
+- 机器人编程
+- 机器学习基础
+- 数据分析
+- 生产管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automated line assembly
-- Industrial robot maintenance
-- Quality control skills
-- Multi-skilling
+- 自动化线装配
+- 工业机器人维护
+- 质量控制技能
+- 多技能
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Manufacturing: residence up to 5 years, skill test & N4+ Japanese required. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires bachelor's degree or 10+ years experience. Covers assembly tech guidance & design. |
-| Subclass 技能 (Skilled Labor (Machining/Assembly)) | Residence status for skilled workers; strict experience requirements. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy manufacturing and have dexterous hands
-- People with patience to repeat same tasks accurately
-- People who can work cooperatively in a team
+- 喜欢制造且手巧的人
+- 有耐心准确重复相同任务的人
+- 能团队合作的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People who prefer creative work
+- 喜欢创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for machine assembly?**
-答：Entry-level: ¥2.8-3.7M, mid-level: ¥3.7-4.8M, senior: ¥4.8-6.0M. Varies with overtime and certifications.
+**问：机械装配的年收入是多少？**
+答：入门级：2.8-3.7百万日元，中级：3.7-4.8百万日元，高级：4.8-6.0百万日元。因加班和认证而异。
 
-**问：What visa do foreigners need for this occupation?**
-答：The most common is Specified Skilled Worker (i) (Manufacturing sector). Requires skill test and JLPT N4 or higher. May also qualify for Engineer/Specialist in Humanities/International Services visa.
+**问：外国人从事这个职业需要什么签证？**
+答：最常见的是特定技能工人(i)（制造业）。需要技能测试和JLPT N4或以上。也可能符合工程师/人文知识/国际服务签证资格。
 
 **问：晋升路径有哪些？**
-答：Obtain skill certification (e.g., Mechanical Assembly Skill Test) or become multi-skilled to move into leadership or quality control roles. Career change to production engineering or equipment maintenance is also possible.
+答：获得技能认证（例如机械装配技能测试）或成为多技能人才以晋升至领导或质量控制岗位。也可转行至生产工程或设备维护。
 
 
 ---
@@ -143,12 +136,12 @@ With skill certification and practical experience, can advance to leader, qualit
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/assemblers-of-general-production-and-business-machinery/JP)**

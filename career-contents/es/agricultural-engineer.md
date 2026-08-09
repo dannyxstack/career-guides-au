@@ -52,8 +52,6 @@ Agricultural engineers are responsible for applying engineering principles to so
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on agricultural engineers is mixed: tasks like data analysis and system simulation are being enhanced, while routine mechanical design and irrigation scheduling can be automated. Overall, the job will not disappear, but skill requirements will be upgraded.
-
 Junior agricultural engineers typically start as technicians or project assistants and can be promoted to project managers or technical supervisors after gaining experience. By pursuing a master's or doctoral degree, students can shift to research and development or university teaching. Senior individuals can become independent consultants or executives of agricultural enterprises.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior agricultural engineers typically start as technicians or project assistan
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled workers, education and contracts with above-average wages are required (the 2023 threshold was about 33,908 euros). Agricultural engineers usually meet the criteria. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Applies to highly educated professionals, no labour market test required, faster process. Requires university degree or master's and employment contract. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | The most common employed work residence requires employer sponsorship. Agricultural engineers are professional technical personnel with a relatively high approval rate. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can advance from junior engineer to project manager or technical director
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-engineer/ES)**

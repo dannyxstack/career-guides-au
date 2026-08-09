@@ -54,8 +54,6 @@ Responsible for overseeing daily operations of a furniture and fixture manufactu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Supervisory and coordination duties of furniture manufacturing supervisors are not easily replaced, but tasks like production planning and quality inspection can be automated by AI; overall risk is moderate, a mixed impact.
-
 Career progression includes production manager, factory manager, or operations director. With experience, can transition to broader manufacturing management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression includes production manager, factory manager, or operations d
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa; must prove inability to hire local workers |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for working in the maritime provinces |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Main pathways include Express Entry (FSW/CEC), Provincial Nominee Program (PN
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-furniture-and-fixtures-manufacturing/CA)**

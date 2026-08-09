@@ -53,8 +53,6 @@ Dry cleaners operate dry cleaning equipment to clean, decontaminate, and finish 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Dry cleaners face high automation risk, especially in centralized dry-cleaning plants, but in-store manual services remain partially irreplaceable. Entry-level positions will be significantly reduced by self-service equipment and AI scheduling systems.
-
 Dry cleaners usually start as assistants, gradually master equipment operation and stain removal techniques, and can be promoted to senior dry cleaners or store managers. Some experienced individuals can open their own shops.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Dry cleaners usually start as assistants, gradually master equipment operation a
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Dry cleaners are usually not on the skilled migration occupation list; skille
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drycleaner/AU)**

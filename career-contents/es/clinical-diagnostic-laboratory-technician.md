@@ -51,8 +51,6 @@ Clinical diagnostic laboratory technicians are responsible for performing variou
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 The career promotion path usually starts as a junior technician and can be promoted to senior technician or laboratory supervisor after gaining experience. After earning a master's degree or specialist training through continuing education, you can move on to more specialized fields such as cytogenetics or molecular diagnostics. Some may enter management positions or medical device technology sales.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ The career promotion path usually starts as a junior technician and can be promo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or at least 5 years of relevant experience, with a contract salary meeting the minimum standard (approximately 40,000 euros per year in 2024). |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly educated professionals, you need a master's degree or above, or an equivalent qualification, with a contract salary meeting standards and a relatively fast process. |
-| Subclass Cuenta ajena (Work Contract (Employee)) | To apply for work residence through employer sponsorship, you must prove that the position cannot be filled by a local resident and provide a work contract. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: The best path is to apply for work residency (Cuenta ajena) or EU Blue Card t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-diagnostic-laboratory-technician/ES)**

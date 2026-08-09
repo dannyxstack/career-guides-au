@@ -52,8 +52,6 @@ Operate and maintain water treatment plant equipment to ensure drinking water an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
-
 Usually start as junior operators; advance to senior operator or supervisor by obtaining higher-level certifications. Can transition to environmental consulting, water treatment technology sales, or municipal management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as junior operators; advance to senior operator or supervisor by o
 | Subclass PNP (Provincial Nominee Program) | Many provinces list water treatment operators as a priority occupation, enabling fast-track immigration through provincial nominations. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, accumulating experience for subsequent immigration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually not directly recognized; need to retake provincial exams to obtain ce
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-and-waste-treatment-plant-operators-92101/CA)**

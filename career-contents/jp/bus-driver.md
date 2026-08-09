@@ -4,8 +4,6 @@
 
 A profession that drives route buses and tour buses to safely transport passengers to their destinations. Plays a vital role in supporting regional transportation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that drives route buses and tour buses to safely transport passenge
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the advancement of autonomous driving technology, driving operations will likely shrink in the future. However, full automation is still far off, and manual labor is needed for now.
-
 After obtaining a large vehicle license, start on route buses, gain experience, then move to tour or express buses. Career advancement to management or operations manager is possible.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After obtaining a large vehicle license, start on route buses, gain experience, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food & Beverage/Manufacturing)) | Bus driving is excluded from Specified Skilled Worker, but possibility exists in related occupations. |
-| Subclass 技能実習 (Technical Intern Training (Transport Machinery, etc.)) | Driving assistance possible as intern, but driving duties limited. |
-| Subclass 技人国（技術・人文知識・国際業務） (Engineer/Specialist in Humanities/International Services) | Driving not applicable as simple labor; management may be possible. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Obtain a license as a transportation manager, aiming for a branch office mana
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-driver/JP)**

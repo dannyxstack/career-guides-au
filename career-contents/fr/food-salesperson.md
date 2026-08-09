@@ -4,8 +4,6 @@
 
 Selling food through retail or wholesale channels, including fresh, dry, and cooked foods, providing customers with product information and recommendations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Selling food through retail or wholesale channels, including fresh, dry, and coo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Food sales staff face a mixed situation with AI: tasks like basic information queries, inventory checks, and customer recommendations will be automated, but human advantages such as interpersonal interaction, quality control judgment, and on-site service remain irreplaceable.
-
 You can be promoted from salesperson to department head or store manager, or move to procurement or product management roles. Training in food craftsmanship or nutrition helps with development.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ You can be promoted from salesperson to department head or store manager, or mov
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | Work residency sponsored by a French employer requires a long-term employment contract (CDI). |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Must hold food hygiene and safety certification, and it is recommended to obt
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-salesperson/FR)**

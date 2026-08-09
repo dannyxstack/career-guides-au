@@ -53,8 +53,6 @@ Fitness instructors guide individuals or groups in physical training and health 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Fitness coaches face mixed AI impact: automation reduces basic instruction, but AI enhances personalised training design and client management; the moat lies in interpersonal trust and real-time body feedback processing.
-
 Junior coaches can progress to senior coach, department head, or self-employed studio owner. With experience and clients, they can move into niche areas such as rehabilitation training, sports nutrition, or corporate wellness management, or develop in Australia (but need re-certification).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior coaches can progress to senior coach, department head, or self-employed s
 | Subclass SMC (Skilled Migrant Category) | Requires salary at 1.5 times the median (approx. $44.49/hour) or higher, with sufficient points earned |
 | Subclass Green List T2 (Work to Residence (Green List Tier 2)) | Not applicable; this occupation is not on the Green List. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must register with REP New Zealand, requiring completion of an approved cours
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitness-instructor/NZ)**

@@ -54,8 +54,6 @@ Work in education, care, and rehabilitation for people with disabilities and chi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of therapeutic education nursing and special education experts involves high emotional investment and administrative record-keeping. AI will handle paperwork, data analysis, and some teaching assistance, but core personalized care, emotional support, and behavioral intervention rely heavily on humans. The overall risk for the position is manageable, but competition for entry-level roles has intensified due to the proliferation of AI tools.
-
 Can progress from curative education caregiver to special education teacher, team leader, or institutional management, and through further education become a special education consultant or trainer.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from curative education caregiver to special education teacher, tea
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Point-based system allowing entry to Germany for job seeking |
 | Subclass Recognition Visa (Recognition Visa (Anerkennungsvisum)) | Coming to Germany for the qualification recognition process |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must pass German qualification recognition (Anerkennung); non-EU qualificatio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/curative-education-nurse-and-special-education-specialist/DE)**

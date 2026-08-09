@@ -53,8 +53,6 @@ Physicists in Germany engage in research, development, teaching, and technical a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Massive data analysis and simulation tasks will accelerate automation, but physicists' value in theoretical innovation, experimental design, and interdisciplinary system integration is amplified by AI, requiring proactive transformation into AI+ fields.
-
 Typical path: Bachelor's/Master's in Physics → R&D Engineer or Researcher → Project Lead → Department Head or Chief Scientist. May also transition to data science, financial physics, or technical management. A PhD is a common requirement for advancement to senior research or management positions.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typical path: Bachelor's/Master's in Physics → R&D Engineer or Researcher → 
 | Subclass Job Seeker (Job Seeker Visa) | Allows non-EU job seekers to stay in Germany for 6 months to find work, requiring a master's degree or higher and sufficient funds. Part-time work is permitted during this period. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | New points-based job seeker visa introduced in 2024 allowing holders to look for work or take part-time jobs; for high-potential talent. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: A physics background offers broad employment opportunities in Germany, includ
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physicist-general/DE)**

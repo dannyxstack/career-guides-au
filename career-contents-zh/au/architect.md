@@ -1,6 +1,6 @@
 # 建筑师（Architect）职业分析 · 澳大利亚
 
-**职业代码: 232111 (ANZSCO)**
+**职业代码：232111 (ANZSCO)**
 
 建筑师规划和设计建筑物、城市综合体和基础设施，覆盖住宅、商业、工业和政府设施。澳洲住房危机（各州政府建设目标）和可持续建筑需求推动工作量持续增加，是设计类职业中移民友好度最高的职业之一。
 
@@ -22,7 +22,7 @@
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
 | AACA认证建筑学位（Bachelor+Master of Architecture） | AACA认证大学 | 必备 | 澳洲建筑师注册的基础学历要求 |
-| AACA APE（Architectural Practice Exam） | Architects Accreditation Council of Australia | 可选 | 建筑师注册必须通过的专业实践考试 |
+| AACA APE（建筑实践考试） | 澳大利亚建筑师认证委员会 | 可选 | 建筑师注册必须通过的专业实践考试 |
 | 各州建筑师委员会注册（e.g. Architects Board WA） | 各州建筑师委员会 | 可选 | 州注册是独立执业和使用「建筑师」职称的法律要求 |
 | Green Star AP / LEED AP（可持续建筑认证） | GBCA / USGBC | 可选 | 可持续建筑认证，显著提升政府和商业项目竞争力 |
 
@@ -30,10 +30,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 22,000. JSA 预测建筑师至2035年就业增长约8%。各州政府社会住房计划（NSW/VIC/QLD各州均有10年建设目标）是主要驱动力。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 22,000。JSA 预测建筑师至2035年就业增长约8%。各州政府社会住房计划（NSW/VIC/QLD各州均有10年建设目标）是主要驱动力。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -52,35 +52,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 建筑设计中的重复性绘图和文档任务面临自动化风险，但创意设计、法规合规和客户沟通等核心能力因AI增强而价值提升。
 
 参数化设计（Grasshopper/Rhino）和BIM（建筑信息模型，Revit）是2025-2026年薪资溢价最高的技能方向。可持续设计（绿色建筑/碳中和设计）资质显著提升竞争力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 初步概念草图生成
 - 施工图绘制与标准化文档
 - 规范检查与冲突检测
 - 工程量估算与成本初算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 方案迭代与参数化设计优化
 - 结构/能耗模拟与性能分析
 - 合规性自动审查与报告生成
 - 客户需求分析与设计建议
 
-**人类护城河:**
+**人类护城河：**
 
 - 创意构思与美学判断
 - 跨专业协调与多方沟通
 - 法规解读与责任担任
 - 现场问题解决与设计调整
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM高级建模与协同（Revit, ArchiCAD）
 - 参数化设计（Grasshopper、Dynamo）
@@ -89,17 +89,17 @@
 - 项目管理与合同管理
 - 客户关系与谈判技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sustainable & Green Architecture
-- Social & Affordable Housing
-- Healthcare & Education Facilities
-- Urban Regeneration & Mixed-Use Development
-- Parametric Design & BIM Technology
+- 可持续与绿色建筑
+- 社会和廉价住房
+- 医疗与教育设施
+- 城市更新与混合用途开发
+- 参数化设计与BIM技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -110,9 +110,7 @@
 | Subclass 190 (Skilled Nominated) | 州提名，NSW/VIC/QLD住房项目多 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区建筑岗，加15分 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -174,12 +172,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/architect/AU)**

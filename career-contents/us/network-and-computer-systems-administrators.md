@@ -54,8 +54,6 @@ Responsible for installing, configuring, and maintaining the organization's LAN,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Network engineers' daily configuration and troubleshooting tasks are being automated by AI, but higher-value tasks like cloud network architecture design, security policy deployment, and cross-team technical decisions are amplified by AI, leading to a mixed outlook.
-
 Junior administrators can advance to senior administrator, network architect, or IT manager; certifications like CCNA/CISSP help career progression.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior administrators can advance to senior administrator, network architect, or
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card pathway, requires a bachelor's degree or 2 years of experience, needs PERM, long wait times. |
 | Subclass TN (TN NAFTA Professional) | Applies to Canadian/Mexican citizens; requires relevant occupation list; no lottery needed. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in computer science or related field; 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/network-and-computer-systems-administrators/US)**

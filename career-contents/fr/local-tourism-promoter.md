@@ -53,8 +53,6 @@ Responsible for promoting local tourism resources, developing tourism products, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 You can be promoted from junior promotion assistant to project manager or regional tourism supervisor, or shift to tourism planning, marketing, and other directions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from junior promotion assistant to project manager or region
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, with a work contract of at least one year and a work permit required |
-| Subclass Passeport Talent (Talent Passport) | Applies to high-skilled talent; annual salary must reach 1.5 times the French average wage, around EUR 38k+. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requires annual salary of at least €43k (2023 standard), suitable for mid-to-senior positions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually, you need BTS Tourism or a related license; if you are a guide, you n
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-tourism-promoter/FR)**

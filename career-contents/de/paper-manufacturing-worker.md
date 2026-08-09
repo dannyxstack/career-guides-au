@@ -53,8 +53,6 @@ Responsible for operating machines, monitoring production processes, and maintai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Paper manufacturing roles are severely squeezed by AI and automation: machine vision monitoring, predictive maintenance, and digital twins will replace most inspection and quality checks; entry-level jobs will decrease, and mid-to-low-level operators face job transition pressure.
-
 Career path: start as operator, advance to team leader, process technician, or production supervisor; further study can lead to quality management or technical sales.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path: start as operator, advance to team leader, process technician, or p
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually requires completing a 2-3 year dual training program, combining pract
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-manufacturing-worker/DE)**

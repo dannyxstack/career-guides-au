@@ -54,8 +54,6 @@ Canadian lawyers provide legal advice, draft legal documents, and represent clie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 Junior associates can advance to partner at law firms, or move to in-house counsel roles and rise to general counsel. They may also specialize in fields like immigration or intellectual property, or start their own practice.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior associates can advance to partner at law firms, or move to in-house couns
 | Subclass PNP (Provincial Nominee Program) | E.g., Ontario Human Capital Priorities or BC Skilled Worker, no employer sponsorship required, but must meet provincial conditions. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer sponsorship can provide extra points, but legal positions require proof of local recruitment difficulty. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Need to submit an assessment to NCA, take additional courses or exams, comple
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyers-and-quebec-notaries/CA)**

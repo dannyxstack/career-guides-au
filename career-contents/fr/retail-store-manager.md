@@ -53,8 +53,6 @@ Responsible for daily operations management of retail stores, including sales, i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Career Promotion Path: From store manager, you can develop to regional manager or operations director, or move to roles such as retail purchasing or product planning. After gaining experience, you can start a business and open an independent store.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career Promotion Path: From store manager, you can develop to regional manager o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié Visa) | For employed work residence, the employer must provide a CDI contract and apply for a work permit |
-| Subclass Passeport Talent (Passeport Talent) | Talent Passport, for highly skilled or high-income positions, must meet salary or education threshold |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary meeting the statutory threshold (approx. €54,000). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to Regional Manager, Operations Director, or transfer to 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-store-manager/FR)**

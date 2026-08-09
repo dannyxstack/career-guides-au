@@ -1,6 +1,6 @@
-# Advertising Development and Promotion Officer 职业分析 · 法国
+# 广告开发与推广专员（Advertising Development and Promotion Officer）职业分析 · 法国
 
-**职业代码: E1401 (ROME)**
+**职业代码：E1401 (ROME)**
 
 负责策划、开发并执行广告宣传活动，协调广告创意与媒体投放，提升产品品牌知名度。
 
@@ -26,10 +26,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. 法国广告业持续增长，数字化转型带来新岗位需求。巴黎及大都市区机会多，但竞争激烈。具备数字营销技能者更受欢迎。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。法国广告业持续增长，数字化转型带来新岗位需求。巴黎及大都市区机会多，但竞争激烈。具备数字营销技能者更受欢迎。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -47,21 +47,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★★☆☆）**
 
 AI将自动化广告投放与数据报告，但策略创意与客户关系仍是核心，整体岗位需求稳定，技能要求升级。
 
 可从初级广告策划晋升为项目经理、创意总监或客户群总监。也可转向专业领域如数字营销、品牌战略。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 程序化广告投放与优化
 - 基础广告文案生成与A/B测试
 - 广告投放数据报告与初步分析
 - 媒体资源比价与采购
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI进行受众洞察与精准定向
 - 通过AI工具快速生成创意素材
@@ -69,14 +69,14 @@ AI将自动化广告投放与数据报告，但策略创意与客户关系仍是
 - 自动化多渠道广告投放与预算分配
 - 借助自然语言生成撰写个性化营销文案
 
-**人类护城河:**
+**人类护城河：**
 
 - 品牌战略与创意方向决策
 - 客户关系管理与深层需求洞察
 - 跨媒体整合营销策划能力
 - 合规风险判断与伦理把控
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数字广告平台高级操作（如Google Ads、Facebook Ads Manager）
 - 数据分析和可视化（SQL、Tableau、Python）
@@ -85,27 +85,20 @@ AI将自动化广告投放与数据报告，但策略创意与客户关系仍是
 - 客户关系管理（CRM）与沟通技巧
 - A/B测试与实验设计方法论
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Transformation
-- Programmatic Advertising
-- Social Media Marketing
-- Data-driven Marketing
+- 数字化转型
+- 程序化广告
+- 社交媒体营销
+- 数据驱动营销
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent – Profession Artistique et Culturelle) | 适用于文化、艺术或广告领域的专业人士，需提供项目或雇主合同，有效期最4年。 |
-| Subclass Salarié (Salarié (Employee) Visa) | 由雇主担保的工作签证，需获得法国公司的工作合同，并符合薪资要求。 |
-| Subclass Carte bleue UE (EU Blue Card) | 适用于高技能非欧盟工作者，要求年薪至少53,000欧元（2024年标准），适合高级职位。 |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +142,12 @@ AI将自动化广告投放与数据报告，但策略创意与客户关系仍是
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/advertising-development-and-promotion-officer/FR)**

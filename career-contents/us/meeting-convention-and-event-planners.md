@@ -52,8 +52,6 @@ Coordinate activities of staff, conference attendees, or clients; arrange detail
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
-
 Entry-level positions usually start as event coordinator or assistant, advancing to senior event planner, event manager, director, or even starting own event planning company. Building client resources and industry relationships is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level positions usually start as event coordinator or assistant, advancing
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Obtain certifications like CMP, accumulate large event experience, build a pr
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meeting-convention-and-event-planners/US)**

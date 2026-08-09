@@ -1,6 +1,6 @@
 # 制冷与空调安装维护技术员（Refrigeration and Air Conditioning Installation and Maintenance Technician）职业分析 · 法国
 
-**职业代码: I1306 (ROME)**
+**职业代码：I1306 (ROME)**
 
 负责制冷系统、空调设备及热泵的安装、调试、维护与维修，确保设备高效安全运行。
 
@@ -21,18 +21,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| CAP Installateur en froid et conditionnement d'air | 法国国家教育部 | 必备 | 国家文凭，行业基础资格 |
-| Attestation de capacité pour la manipulation des fluides frigorigènes | 法国生态转型部 | 必备 | 制冷剂操作认证，分为I至IV类，必须持有 |
-| Carte professionnelle (qualification professionnelle) | 法国商会(CMA) | 可选 | 独立从业者需申请工匠资格或工商注册 |
+| CAP制冷和空调安装工 | 法国国家教育部 | 必备 | 国家文凭，行业基础资格 |
+| 制冷剂操作能力证明 | 法国生态转型部 | 必备 | 制冷剂操作认证，分为I至IV类，必须持有 |
+| 职业卡（职业资格） | 法国商会(CMA) | 可选 | 独立从业者需申请工匠资格或工商注册 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 65,000. 法国对能源转型和热泵安装需求激增，该职业持续紧缺，尤其在IDF、奥弗涅-罗讷-阿尔卑斯等大区。学徒制培训受政府资助。
+**职位需求量：很高（★★★★½）** 全国从业人数约 65,000。法国对能源转型和热泵安装需求激增，该职业持续紧缺，尤其在IDF、奥弗涅-罗讷-阿尔卑斯等大区。学徒制培训受政府资助。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -50,21 +50,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 空调技术员受AI/自动化影响喜忧参半：常规诊断与文档任务被替代，但现场操作、合规判断与复杂维修仍依赖人类，技能升级可适应。
 
 可从学徒或CAP起步，晋升为团队主管、技术经理或创业开设自己的公司。也可向工业制冷、可再生能源系统等细分领域发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 设备故障的远程自动诊断与初步排查
 - 日常维护提醒与智能排程
 - 制冷剂泄漏的自动检测与报警
 - 系统性能数据的自动记录与报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助系统设计优化与能效分析
 - 增强现实(AR)支持现场维修指导
@@ -72,14 +72,14 @@
 - 客户需求智能匹配与方案推荐
 - 合规文档的自动生成与审查
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场物理操作与复杂设备维修
 - 制冷剂安全处理与法规合规责任
 - 跨系统集成与复杂故障诊断
 - 客户沟通与定制化方案
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 精通智能楼宇管理系统与物联网设备
 - 学习AI诊断工具与数据分析平台
@@ -88,27 +88,20 @@
 - 深入了解能效优化与绿色制冷技术
 - 获取ARCtick及更高阶安全认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Heat pump
-- Energy transition
-- R744 refrigerant
-- Smart HVAC
+- 热泵
+- 能源转型
+- R744制冷剂
+- 智能暖通空调
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | 适用于高技能人才，如工程师或专家，可获4年居留 |
-| Subclass Salarié (Salaried Employee Visa) | 需获得法国雇主工作合同，由法国劳工局审核紧缺性 |
-| Subclass Carte bleue UE (EU Blue Card) | 年薪需达约53,000欧元以上（2025年），适用于高薪职位 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +145,12 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/refrigeration-and-air-conditioning-installation-and-maintenance-technician/FR)**

@@ -51,8 +51,6 @@ Responsible for planning, implementing, monitoring and evaluating government pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Government program officers' tasks like grant evaluation and data compliance checks are easily automated by AI, but core duties such as policy-making and stakeholder communication rely on human judgment and political sensitivity, overall risks and opportunities coexist.
-
 Junior project officers can progress to senior policy analysts, project managers, or department heads. With experience, they can move to provincial or federal senior roles, or enter consulting. Continuous improvement in policy analysis and project management skills is needed.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior project officers can progress to senior policy analysts, project managers
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for public management professionals, such as Ontario and British Columbia |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must demonstrate inability to hire locally; work visa can be applied for, but government positions open to foreigners are limited |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Skills in policy analysis, project management, report writing, budget managem
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-officers-unique-to-government-41407/CA)**

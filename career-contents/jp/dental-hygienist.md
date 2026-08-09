@@ -4,8 +4,6 @@
 
 A professional who performs preventive treatments such as scaling and fluoride application, assists in dental procedures, and provides oral hygiene instruction under the guidance of a dentist.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who performs preventive treatments such as scaling and fluoride a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace dental hygienists but enhances efficiency and quality via patient data analysis, treatment planning optimization, and educational tools.
-
 In the early career, work primarily involves assisting, but with experience, paths open to becoming a preventive dentistry specialist, manager, or instructor at educational institutions.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ In the early career, work primarily involves assisting, but with experience, pat
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Dental hygienist work falls under specialized skills. Applicable to foreign personnel who have received relevant education at a university, etc. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Similar to the caregiving field, but track record of accepting dental hygienists is limited. May expand scope in the future. |
-| Subclass 技能実習 (Technical Intern Training) | Dental hygienist is not eligible for Technical Intern Training. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: After gaining experience, you can aim to become a preventive dental specialis
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-hygienist/JP)**

@@ -54,8 +54,6 @@ Execute combat missions for the Canadian Armed Forces, including land, sea, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core ground tactical tasks of Canadian Armed Forces combat personnel are unlikely to be replaced by AI in the short term, but cognitive aspects such as data fusion, fire coordination and battlefield situation assessment will gradually be automated, leading to reduced demand for entry-level positions.
-
 Career progression from junior soldier to non-commissioned officer, officer, and senior commander, requiring continuous training, practical experience, and leadership evaluation.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression from junior soldier to non-commissioned officer, officer, and
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: No, this occupation is only open to Canadian citizens. Immigrants need to obt
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-combat-members-of-the-canadian-armed-forces/CA)**

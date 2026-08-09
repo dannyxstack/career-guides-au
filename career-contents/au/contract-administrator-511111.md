@@ -52,8 +52,6 @@ Contract administrators are responsible for drafting, reviewing, managing, and e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core compliance and negotiation duties of a contract administrator are hard to replace, but massive document processing, clause comparison, and compliance checks can be significantly automated by AI, compressing entry-level roles.
-
 Junior contract administrators can advance to senior contract administrator, contract manager, or procurement manager. With experience, they can move into project management or legal advisory roles, with salary and responsibilities increasing.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior contract administrators can advance to senior contract administrator, con
 | Subclass 189 (Skilled Independent Visa) | Contract administrator is on the MLTSSL, eligible for the 189 Skilled Independent visa |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, each state has different requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from junior contract administrator to senior contract administrat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contract-administrator-511111/AU)**

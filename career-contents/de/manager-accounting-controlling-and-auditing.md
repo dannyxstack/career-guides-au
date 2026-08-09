@@ -52,8 +52,6 @@ Department head responsible for corporate accounting, cost control, and internal
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Typically promoted from finance officer or auditor, with 3-5 years of experience can rise to department head, then progress to CFO or finance director. Cross-industry experience and international background are beneficial.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically promoted from finance officer or auditor, with 3-5 years of experience
 | Subclass Skilled Worker (Skilled Worker Visa (Beschäftigungsverordnung)) | Apply with recognized qualification, employer sponsorship, long-term residency |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows one year to find work in Germany; switch to a work visa upon finding a suitable job. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically start as finance specialist or auditor, advance to department manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-accounting-controlling-and-auditing/DE)**

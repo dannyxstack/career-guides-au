@@ -53,8 +53,6 @@ Present news, business information or host programs on radio, television or othe
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly replace routine tasks such as content broadcasting and music programming, while enhancing personalized interaction and data-driven content curation. The professional role will shift from general host to multimedia content creator and community operator.
-
 Junior hosts can advance to program director or producer, some transition to digital media content creation or voice-over work.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior hosts can advance to program director or producer, some transition to dig
 | Subclass H-1B (H-1B Specialty Occupations) | A bachelor's degree is usually required, but radio broadcast hosts need to demonstrate uniqueness |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to individuals with outstanding achievements in broadcasting |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: The likelihood is very low because the occupation typically does not meet H-1
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcast-announcers-and-radio-disc-jockeys/US)**

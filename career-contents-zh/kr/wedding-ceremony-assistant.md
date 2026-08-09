@@ -1,10 +1,8 @@
-# Wedding Ceremony Assistant 职业分析 · 韩国
+# 婚礼仪式助理（Wedding Ceremony Assistant）职业分析 · 韩国
 
-**职业代码: 51221 (KECO)**
+**职业代码：51221 (KECO)**
 
-A professional worker who assists in the execution of weddings and banquets, handling protocols, food service, decorations, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+协助执行婚礼和宴会流程的专业人员，负责礼仪、餐饮服务、装饰等。
 
 
 ---
@@ -13,8 +11,8 @@ A professional worker who assists in the execution of weddings and banquets, han
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 0年 | $0~$0（无特定学历要求） |
-| Wedding Planner Training Course | 6 months | $2,000,000~$5,000,000（Private academy fees） |
+| 高中文凭或更高学历 | 0年 | $0~$0（无特定学历要求） |
+| 婚礼策划师培训课程 | 6个月 | $2,000,000~$5,000,000（私立学院费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional worker who assists in the execution of weddings and banquets, han
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Wedding Planner Certification | Korea Wedding Planner Association | 可选 | Optional, advantageous for employment |
-| Bartender License | Human Resources Development Service of Korea | 可选 | Advantageous if beverage service is needed |
+| 婚礼策划师认证 | 韩国婚礼策划师协会 | 可选 | 可选，对就业有利 |
+| 调酒师执照 | 韩国人力资源开发服务局 | 可选 | 需要饮料服务时优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 9,500. Due to an increase in late marriages and non-marriage, the number of weddings is decreasing, but demand for premium weddings and small customized ceremonies maintains employment, though growth is limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 9,500。由于晚婚和不婚增加，婚礼数量减少，但对高端婚礼和小型定制仪式的需求维持了就业，但增长有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +38,86 @@ A professional worker who assists in the execution of weddings and banquets, han
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $22,000,000~$28,000,000 | Assistant role |
-| 中级（4-7年） | $30,000,000~$38,000,000 | Coordinator |
-| Senior (8 years or more) | $38,000,000~$50,000,000 | Wedding planner or manager |
+| 初级 (0-3年) | $22,000,000~$28,000,000 | 助理职位 |
+| 中级（4-7年） | $30,000,000~$38,000,000 | 协调员 |
+| 高级（8年及以上） | $38,000,000~$50,000,000 | 婚礼策划师或经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although AI cannot fully replace wedding preparation and protocol, auxiliary tasks such as schedule management and budget calculation may be automated, potentially reducing workforce size.
+虽然AI无法完全取代婚礼筹备和礼仪，但日程管理和预算计算等辅助任务可能实现自动化，可能导致劳动力减少。
 
-Career progression: junior assistant → wedding coordinator → wedding planner or wedding hall manager; experience and networking are important.
+职业发展：初级助理 → 婚礼协调员 → 婚礼策划师或婚礼厅经理；经验和人脉很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Wedding Schedule Management
-- Basic Budget Calculation
-- Decoration Layout Automation
+- 婚礼日程管理
+- 基本预算计算
+- 装饰布局自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer-tailored Consulting
-- Real-time Protocol Adjustment
-- Event Design
+- 客户定制咨询
+- 实时协议调整
+- 活动设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Service Sense
-- Unexpected Situation Response Ability
-- Cultural Ritual Knowledge
+- 人际服务意识
+- 意外情况应对能力
+- 文化礼仪知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Customer Consultation
+- 客户咨询
 - 项目管理
-- Trend Analysis
-- Small-scale Event Planning
+- 趋势分析
+- 小型活动策划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Customized Ceremony
-- Small Wedding
-- Premium Service
-- Outdoor Wedding
+- 定制仪式
+- 小型婚礼
+- 优质服务
+- 户外婚礼
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible with senior wedding planner qualification, but not common |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents |
-| Subclass F-4 (Overseas Korean) | Possible for overseas Koreans but outlook is low |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with a strong service spirit
-- Person who is meticulous and detail-oriented
-- Person who enjoys communicating with people
+- 服务精神强的人
+- 细心且注重细节的人
+- 喜欢与人交流的人
 
 **谁不适合**
-- Person who dislikes overtime and weekend work
-- Person who gets stressed from interpersonal relationships
+- 不喜欢加班和周末工作的人
+- 因人际关系感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a wedding staff member?**
-答：Beginners 22-28 million KRW, up to 50 million KRW depending on experience.
+**问：婚礼工作人员的的年平均工资是多少？**
+答：初学者2200-2800万韩元，根据经验可达5000万韩元。
 
-**问：Can foreigners get a job as a wedding staff member?**
-答：Generally, an E-7 visa is required, and a high-level wedding planner qualification is needed, but cases are rare.
+**问：外国人能否找到婚礼工作人员的工作？**
+答：通常需要E-7签证，需要高级婚礼策划师资格，但情况罕见。
 
-**问：What education is needed to become a wedding staff member?**
-答：High school diploma or higher is acceptable, and completing a 6-month course at a wedding planner academy is advantageous.
+**问：成为婚礼工作人员需要什么教育背景？**
+答：高中学历或以上可接受，完成婚礼策划师学院的6个月课程更有利。
 
 
 ---
@@ -145,12 +135,12 @@ Career progression: junior assistant → wedding coordinator → wedding planner
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/wedding-ceremony-assistant/KR)**

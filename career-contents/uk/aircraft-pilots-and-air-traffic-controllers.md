@@ -53,8 +53,6 @@ Responsible for flying aircraft, developing flight plans, authorizing takeoffs a
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Junior pilots can start with small airlines or as flight instructors, accumulating hours to become co-pilot and captain; air traffic controllers begin as trainees, passing assessments to reach controller and chief controller positions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior pilots can start with small airlines or as flight instructors, accumulati
 | Subclass Global Talent (Global Talent visa) | Applicable to individuals with outstanding achievements or potential in the aviation field, requiring endorsement from a recognized body. |
 | Subclass Graduate (Graduate visa) | UK Graduate Visa, allows working in the UK for 2 years (3 years for PhD), can gain experience to transition to a skilled work visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Pilots need a Commercial Pilot License (CPL) and Airline Transport Pilot Lice
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-pilots-and-air-traffic-controllers/UK)**

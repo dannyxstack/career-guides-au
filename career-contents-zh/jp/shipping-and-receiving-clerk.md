@@ -1,10 +1,8 @@
-# Shipping and Receiving Clerk 职业分析 · 日本
+# 发货和收货文员（Shipping and Receiving Clerk）职业分析 · 日本
 
-**职业代码: 272 (JSCO)**
+**职业代码：272 (JSCO)**
 
-A clerical role responsible for shipping/receiving procedures and inventory management at factories or warehouses. As the hub of logistics, it reliably handles paperwork and system entry.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责工厂或仓库的收发流程和库存管理的文职角色。作为物流枢纽，可靠地处理文书和系统录入。
 
 
 ---
@@ -13,9 +11,9 @@ A clerical role responsible for shipping/receiving procedures and inventory mana
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Almost free at public schools; about ¥3 million at private schools） |
-| Vocational School (Logistics/Clerical) | 2 年 | $1,000,000~$3,000,000（Varies by school） |
-| Junior College | 2 年 | $2,000,000~$4,000,000（For private junior colleges） |
+| 高中 | 3年 | $0~$3,000,000（公立学校几乎免费；私立学校约300万日元） |
+| 职业学校（物流/文职） | 2 年 | $1,000,000~$3,000,000（因学校而异） |
+| 大专 | 2 年 | $2,000,000~$4,000,000（适用于私立初级学院） |
 
 ---
 
@@ -23,18 +21,18 @@ A clerical role responsible for shipping/receiving procedures and inventory mana
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Logistics Management Specialist | Japan Logistics Management Association | 可选 | Proves basic logistics knowledge. Optional but recommended. |
-| Inventory Control Specialist | Japan Inventory Control Association | 可选 | A specialized qualification in inventory management. Useful for career advancement. |
-| Forklift Operation Skills Training Completion | Prefectural Labor Bureau | 可选 | Not mandatory for warehouse work, but helpful for understanding on-site operations. |
+| 物流管理专家 | 日本物流管理协会 | 可选 | 证明基本物流知识。可选但推荐。 |
+| 库存控制专家 | 日本库存管理协会 | 可选 | 库存管理方面的专业资格，有助于职业发展。 |
+| 叉车操作技能培训结业 | 县级劳动局 | 可选 | 仓库工作非必需，但有助于理解现场操作。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 340,000. With the expansion of the EC market, logistics demand remains steady, but AI and systemization are driving efficiency, so employment is expected to remain flat or slightly decline. Not a direct target for Specified Skilled Worker.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 340,000。随着EC市场扩张，物流需求稳定，但AI和系统化推动效率提升，就业预计持平或略有下降。不是特定技能工人的直接目标。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,94 +40,87 @@ A clerical role responsible for shipping/receiving procedures and inventory mana
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0-3 years) | $2,800,000~$3,500,000 | Pre-tax annual income. Regional differences exist. |
-| Mid-Level (4-10 years) | $3,500,000~$4,500,000 | Rise with experience and qualifications. |
-| Veteran (11+ years) | $4,200,000~$5,500,000 | Even more at management level. |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 税前年收入。存在地区差异。 |
+| 中级（4-10年） | $3,500,000~$4,500,000 | 随着经验和资格提升。 |
+| 资深（11年以上） | $4,200,000~$5,500,000 | 管理层级别更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Automation of document processing and inventory management using AI and RPA is progressing, reducing simple data entry tasks. However, adjustment and system management tasks requiring judgment will remain.
+利用AI和RPA实现文档处理和库存管理的自动化正在推进，减少了简单数据录入任务。但需要判断的调整和系统管理任务仍将保留。
 
-After gaining clerical experience, career advancement to logistics management, purchasing, or inventory control is possible. Obtaining logistics qualifications can also lead to salary increases.
+获得文员经验后，可晋升至物流管理、采购或库存控制等职位。获得物流资格也可带来加薪。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Invoice Processing
-- Inventory Data Entry
-- Shipping Document Preparation
-- Order Data Entry
+- 发票处理
+- 库存数据录入
+- 出货文件准备
+- 订单数据录入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Inventory Analysis and Reorder Proposals
-- Visualization of Logistics Costs
-- Data Integration Between Systems
+- 库存分析与再订购建议
+- 物流成本可视化
+- 系统间数据整合
 
-**人类护城河:**
+**人类护城河：**
 
-- Anomaly Response
-- Coordination with Business Partners
-- On-site Situation Assessment
+- 异常响应
+- 与业务伙伴协调
+- 现场情况评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Logistics System Operation
-- Data Analysis
-- Communication Skills
-- Problem-solving Skills
+- 物流系统运营
+- 数据分析
+- 沟通技巧
+- 问题解决能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics Clerical Work
-- Inventory Management
-- Shipping Operations
-- Systematization
+- 物流文职工作
+- 库存管理
+- 航运运营
+- 系统化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Clerical jobs are generally ineligible, but may qualify if specialized knowledge is needed, e.g., logistics management, customs clearance. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not eligible)) | Currently, shipping/receiving clerks are not a target field for Specified Skilled Worker. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and accurate
-- People who don't mind routine work
-- People who can work collaboratively in a team
+- 细致准确的人
+- 不介意做常规工作的人
+- 能团队协作的人
 
 **谁不适合**
-- People who seek change and creativity
-- People who value interaction with others
+- 追求变化与创造力的人
+- 重视与他人互动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a shipping/receiving clerk?**
-答：Approximately 2.8–3.5 million yen for entry-level, 3.5–4.5 million for mid-level, and 4.2–5.5 million for veteran.
+**问：收发货员的平均年薪是多少？**
+答：入门级约280-350万日元，中级350-450万，资深420-550万。
 
-**问：Can foreign workers get a work visa for this job?**
-答：General shipping and receiving tasks are not eligible for the 'Engineer/Specialist in Humanities/International Services' visa. It may only be possible if specialized skills like logistics management or customs clearance are required.
+**问：外国工人能否获得此职位的工作签证？**
+答：一般收发货任务不符合“工程师/人文/国际服务专家”签证要求。只有需要物流管理或报关等专业技能时才有可能。
 
-**问：How can I advance my career?**
-答：Common ways include obtaining qualifications such as Logistics Management Specialist or Inventory Management Specialist, and aiming for roles in logistics management or procurement/inventory control.
+**问：如何提升我的职业生涯？**
+答：常见方式包括获得物流管理专家或库存管理专家等资格，并争取物流管理或采购/库存控制等职位。
 
 
 ---
@@ -147,12 +138,12 @@ After gaining clerical experience, career advancement to logistics management, p
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/shipping-and-receiving-clerk/JP)**

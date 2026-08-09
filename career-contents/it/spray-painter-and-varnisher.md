@@ -51,8 +51,6 @@ Spray painters and varnishers apply paint, varnish, or coating to surfaces such 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Spray painters and varnishers face a mixed AI impact: automated spraying equipment will replace most basic painting tasks, but demand for AI-enhanced color matching, quality inspection, and complex surface treatment increases, requiring transition to intelligent spray system operators.
-
 Spray painters can progress from apprentice to skilled worker, then to team leader or self-employment. Continuous learning of new environmentally friendly spray technologies and automated spray systems can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Spray painters can progress from apprentice to skilled worker, then to team lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled workers, requiring a work contract and eligible salary (at least 1.5 times the Italian average wage). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU citizens, application via annual quota, requires employer sponsorship, typically for non-high-skilled occupations. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Can progress from apprentice to skilled worker, team leader, or start own bus
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/spray-painter-and-varnisher/IT)**

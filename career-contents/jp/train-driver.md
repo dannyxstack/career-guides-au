@@ -4,8 +4,6 @@
 
 A professional who operates railway vehicles to transport passengers and freight safely and on schedule. Checks signals and instructions while ensuring passenger safety and comfortable operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who operates railway vehicles to transport passengers and freight
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of automatic train operation (ATO) technology, some driving tasks are being replaced by AI, but many areas requiring human intervention such as emergency response and abnormal situation judgment remain, so complete replacement is difficult for the time being.
-
 After joining a company, one serves as a conductor before obtaining a driver's license. After gaining experience as a driver, career paths include becoming an instructor driver or a manager.
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ After joining a company, one serves as a conductor before obtaining a driver's l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | If hired as a railway company driver, applicable, but practical experience and qualifications are required. Advanced Japanese skills are necessary. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Railway)) | As of 2024, railway drivers are not eligible for Specified Skilled Worker (railway vehicle manufacturing, etc. is eligible). |
-| Subclass 技能実習 (Technical Intern Training) | Drivers are not eligible for Technical Intern Training. |
-| Subclass 特定活動 (Designated Activities (Foreign Driver)) | There are experimental programs accepting foreign drivers in some regions. Limited cases. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +135,12 @@ A: Safety awareness, precision work, and crisis management skills are valued in 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-driver/JP)**

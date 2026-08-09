@@ -52,8 +52,6 @@ Environmental health professionals use specialized technical knowledge to protec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate some data collection and reporting tasks, but core on-site inspections, enforcement discretion, and public health decision-making responsibilities still require humans; the role presents both risks and opportunities.
-
 Career progression can start from a junior environmental health officer, advancing to senior officer, team leader, or management positions. It can also shift into policy development, consulting, or academic research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can start from a junior environmental health officer, advanci
 | Subclass Health and Care Work (Health and Care Worker Visa) | If the position involves a healthcare environment, it may qualify for a health care visa, with faster processing and lower fees |
 | Subclass Graduate (Graduate Visa) | Graduate visa allows students who have completed a degree in the UK to stay and work for 2 years (3 years for PhD) to gain experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must complete a CIEH or REHIS recognized university degree program and pass t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-health-professionals/UK)**

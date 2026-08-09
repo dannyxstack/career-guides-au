@@ -1,10 +1,8 @@
-# Speech-Language Pathologist 职业分析 · 韩国
+# 言语语言病理学家（Speech-Language Pathologist）职业分析 · 韩国
 
-**职业代码: 30691 (KECO)**
+**职业代码：30691 (KECO)**
 
-A healthcare professional who assesses, diagnoses, and treats communication and swallowing disorders, working in hospitals, welfare centers, and private clinics.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+评估、诊断和治疗沟通与吞咽障碍的医疗专业人员，在医院、福利中心和私人诊所工作。
 
 
 ---
@@ -13,8 +11,8 @@ A healthcare professional who assesses, diagnoses, and treats communication and 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree (Speech-Language Pathology or related field) | 4年 | $40,000,000~$80,000,000（Based on 4-year university tuition） |
-| Master's Degree (Speech-Language Pathology recommended) | 2 年 | $25,000,000~$50,000,000（Based on graduate school tuition） |
+| 学士学位（言语病理学或相关领域） | 4年 | $40,000,000~$80,000,000（基于4年制大学学费） |
+| 硕士学位（推荐言语语言病理学） | 2 年 | $25,000,000~$50,000,000（基于研究生院学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A healthcare professional who assesses, diagnoses, and treats communication and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Speech-Language Pathologist (Level 1 or 2) | Ministry of Health and Welfare | 必备 | National certification, mandatory |
-| Clinical Specialist from Korean Speech-Language Pathologists Association | Korean Speech-Language Pathologists Association | 可选 | Private certification, advantageous for employment |
+| 语言病理学家（1级或2级） | 保健福祉部 | 必备 | 国家认证，强制要求 |
+| 韩国语言治疗师协会临床专家 | 韩国语言治疗师协会 | 可选 | 私人认证，有助于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 9,500. Demand is steadily increasing due to aging population and rising number of children with developmental disabilities; jobs are expected to grow with expansion of community-based services and health insurance coverage.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 9,500。由于人口老龄化和发育障碍儿童数量增加，需求稳步增长；随着社区服务和健康保险覆盖范围的扩大，就业预计将增长。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A healthcare professional who assesses, diagnoses, and treats communication and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on hospitals/welfare centers |
-| Mid-level (4-9 years) | $36,000,000~$48,000,000 | 经验丰富后增长 |
-| 资深（10年以上） | $49,000,000~$65,000,000 | As senior, center director, or private practice |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于医院/福利中心 |
+| 中级（4-9年） | $36,000,000~$48,000,000 | 经验丰富后增长 |
+| 资深（10年以上） | $49,000,000~$65,000,000 | 作为高级、中心总监或私人执业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-As AI is used to develop diagnostic aids or treatment programs, it increases the efficiency of speech therapists, but direct interaction with patients and the creation of personalized treatment plans remain uniquely human domains, so the risk of automation replacement is low.
+随着人工智能被用于开发诊断辅助工具或治疗程序，这提高了言语治疗师的效率，但与患者的直接互动以及制定个性化治疗计划仍然是人类独有的领域，因此被自动化取代的风险较低。
 
-After graduate school and certification, clinical experience can lead to senior, center director, or private practice roles; opportunities also exist in research, education, and administration.
+研究生院毕业并取得认证后，临床经验可通向高级、中心主任或私人执业角色；研究、教育和行政领域也有机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Analysis of basic assessment results
-- Report writing
-- Voice analysis
+- 基本评估结果分析
+- 报告写作
+- 语音分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improvement of diagnostic accuracy
-- Support for creating personalized treatment plans
-- Prediction of treatment outcomes
+- 提高诊断准确性
+- 支持个性化治疗计划制定
+- 治疗结果预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with patients
-- Interpretation of non-verbal cues
-- Assessment of complex communication disorders
+- 建立患者信任
+- 非语言暗示解读
+- 复杂沟通障碍评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI-based diagnostic tools
-- Data analysis
-- Operation of tele-therapy platforms
+- 基于AI的诊断工具的使用
+- 数据分析
+- 远程治疗平台操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increase in developmental disabilities
-- Expansion of health insurance coverage
-- Community rehabilitation
+- 人口老龄化
+- 发育障碍增加
+- 扩大医疗保险覆盖范围
+- 社区康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign speech-language pathologists with professional qualifications can work in domestic medical institutions, etc. |
-| Subclass F-2 (F-2 (Residence)) | Convertible to points-based system, allows long-term stay and free job-seeking |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent communication skills
-- People who enjoy interacting with patients
-- People with patience and observational skills
+- 沟通能力强的人
+- 喜欢与患者互动的人
+- 有耐心和观察力的人
 
 **谁不适合**
-- People who dislike interpersonal relationships
+- 不喜欢人际关系的人
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a speech therapist?**
-答：Entry-level is about 28-35 million KRW, and with over 10 years of experience, it rises to 50 million KRW or more. Higher for private practice.
+**问：言语治疗师的平均薪资是多少？**
+答：入门级约2800-3500万韩元，10年以上经验升至5000万韩元或以上。私人执业更高。
 
-**问：What visa does a foreigner need to work as a speech therapist in Korea?**
-答：If professionally qualified, can work via E-7 visa, convertible to F-2 visa for long-term stay.
+**问：外国人在韩国从事言语治疗师工作需要什么签证？**
+答：如果具备专业资格，可通过E-7签证工作，可转换为F-2签证长期居留。
 
-**问：What degree is needed to become a speech therapist?**
-答：Usually a bachelor's degree in speech-language pathology is required; a master's degree is advantageous for employment. Then must obtain the national certification as a speech rehabilitator.
+**问：成为言语治疗师需要什么学位？**
+答：通常需要言语病理学学士学位；硕士学位对就业有利。然后必须获得国家言语康复师认证。
 
 
 ---
@@ -143,12 +134,12 @@ After graduate school and certification, clinical experience can lead to senior,
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/speechlanguage-pathologist/KR)**

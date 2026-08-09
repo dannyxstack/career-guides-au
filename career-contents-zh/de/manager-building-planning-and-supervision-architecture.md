@@ -1,6 +1,6 @@
-# Manager - Building Planning and Supervision, Architecture 职业分析 · 德国
+# 经理 - 建筑规划与监督、建筑（Manager - Building Planning and Supervision, Architecture）职业分析 · 德国
 
-**职业代码: 3119 (KldB)**
+**职业代码：3119 (KldB)**
 
 负责建筑项目的规划、设计审查、施工监理及团队管理，确保工程符合法规、预算和质量标准。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 52,000. 德国建筑业持续增长，尤其可再生能源、老旧建筑改造及数字化管理需求旺盛，该职位长期紧缺，就业稳定。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 52,000。德国建筑业持续增长，尤其可再生能源、老旧建筑改造及数字化管理需求旺盛，该职位长期紧缺，就业稳定。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,35 +49,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 建筑设计中的重复性绘图和文档任务面临自动化风险，但创意设计、法规合规和客户沟通等核心能力因AI增强而价值提升。
 
 可从项目建筑师、施工监理晋升至部门主管或公司合伙人；通过继续教育可转向大型项目管理或建筑法规咨询，发展路径清晰。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 初步概念草图生成
 - 施工图绘制与标准化文档
 - 规范检查与冲突检测
 - 工程量估算与成本初算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 方案迭代与参数化设计优化
 - 结构/能耗模拟与性能分析
 - 合规性自动审查与报告生成
 - 客户需求分析与设计建议
 
-**人类护城河:**
+**人类护城河：**
 
 - 创意构思与美学判断
 - 跨专业协调与多方沟通
 - 法规解读与责任担任
 - 现场问题解决与设计调整
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM高级建模与协同（Revit, ArchiCAD）
 - 参数化设计（Grasshopper、Dynamo）
@@ -86,16 +86,16 @@
 - 项目管理与合同管理
 - 客户关系与谈判技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Green Building
-- Digitalization
+- 绿色建筑
+- 数字化
 - 项目管理
-- Renovation
+- 翻新
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -104,9 +104,7 @@
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | 需学历认证及雇主担保，德语B1或B2要求 |
 | Subclass Chancenkarte (Opportunity Card) | 基于积分系统，允许在德找工作一年，需资格认证 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中高（★★★☆☆）**
 
 ---
 
@@ -151,11 +149,12 @@
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
 | PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/manager-building-planning-and-supervision-architecture/DE)**

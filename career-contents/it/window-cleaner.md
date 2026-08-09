@@ -4,8 +4,6 @@
 
 Window cleaners clean building windows, glass curtain walls and other glass surfaces, using professional tools and safety equipment to ensure cleanliness and safe operation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Window cleaners clean building windows, glass curtain walls and other glass surf
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Window cleaning is a high-risk occupation; high-altitude work and basic cleaning tasks will be largely replaced by automated equipment (e.g., drones, robots), leading to a sharp decline in entry-level positions.
-
 Career development paths are limited; typically starting as an apprentice or assistant, gaining experience to become a senior cleaner or supervisor, and a few may start their own cleaning business.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development paths are limited; typically starting as an apprentice or ass
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work visas through annual quota, requiring employer sponsorship, suitable for non-skilled jobs. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled workers, but window cleaners typically do not meet the salary threshold. |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Short-term work visa for temporary cleaning work, with a maximum validity of 9 months. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Primarily through Decreto Flussi quota work visas, requiring employer sponsor
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/window-cleaner/IT)**

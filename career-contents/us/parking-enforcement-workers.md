@@ -54,8 +54,6 @@ Patrol designated areas such as public parking lots or city streets, issuing tic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Parking enforcement officers rely heavily on manual patrols and on-site judgment; AI and automation (e.g., smart parking meters, automatic license plate recognition, and mobile payments) will significantly reduce violations, leading to a sharp decrease in demand for these roles.
-
 Junior enforcement officers can advance to senior enforcement officer, supervisor, or enforcement coordinator. Some transition to traffic planning or public safety management. Requires experience and passing internal exams for promotion.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior enforcement officers can advance to senior enforcement officer, superviso
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to senior enforcement officer, supervisor, or traffic management 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-enforcement-workers/US)**

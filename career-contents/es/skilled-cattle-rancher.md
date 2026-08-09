@@ -4,8 +4,6 @@
 
 Skilled cattle workers are responsible for the daily care of the herd, including feeding, milking, health management, breeding, as well as maintaining the pasture and facilities. This profession is in stable demand in Spanish animal husbandry, especially on large ranches.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Skilled cattle workers are responsible for the daily care of the herd, including
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core physical labor and on-site decision-making of skilled cattle farmers are difficult to fully replace by AI, but automated milking, precision feeding, and data analysis tools will significantly improve efficiency and reduce the need for routine operations, resulting in a mixed job structure.
-
 You can advance from apprenticeship to ranch supervisor or manager, or move to specialized positions such as livestock technician or veterinary assistant. Experienced individuals can run their own ranches, but capital and land are required.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ You can advance from apprenticeship to ranch supervisor or manager, or move to s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by local or EU workers. Suitable for those with FP degree or more than 3 years of experience. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Applicable to those with university degree or advanced FP degree, but the occupation usually does not require a high degree, and can still apply. Need annual salary higher than minimum standard (about EUR 35,000), usually not applicable. |
-| Subclass Busqueda empleo (Job search visa) | To find a job in Spain, sufficient funds and education are required. Afterwards, you can change your work residency. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +137,12 @@ A: It's a big challenge. This occupation is not classified as high-skilled, and 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-cattle-rancher/ES)**

@@ -4,8 +4,6 @@
 
 Domestic workers work in private households performing household tasks such as cleaning, cooking, laundry, and caring for children or the elderly, usually employed full-time or part-time. This profession has stable demand in Spain but offers low salaries and high work intensity.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Domestic workers work in private households performing household tasks such as c
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-The work of domestic helpers is highly physical and personalized, with moderately low automation risks, but AI can assist in optimizing scheduling, procurement, and basic training, enhancing efficiency. The entry barrier remains basically unchanged, but you need to master smart home and online platform skills.
 
 Most start as full-time domestic helpers, and after gaining experience, you can be promoted to housekeeper or household manager, managing the housekeeping team. A few people can run their own housekeeping companies. However, there is a lack of formal promotion paths, and most people remain in junior positions for a long time.
 
@@ -99,15 +95,9 @@ Most start as full-time domestic helpers, and after gaining experience, you can 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employers applying for work permits for domestic workers must prove that suitable candidates cannot be recruited locally. This usually applies to full-time, long-term contracts. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +138,12 @@ A: extremely difficult. Domestic work is not considered a scarce occupation in S
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-workers/ES)**

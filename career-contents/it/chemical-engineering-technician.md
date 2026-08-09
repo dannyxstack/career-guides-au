@@ -54,8 +54,6 @@ Technical professionals assisting engineers in process design, equipment operati
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Routine tasks for chemical engineering technicians, such as data recording and experiment monitoring, are easily automated by AI, but complex troubleshooting, process optimisation, and safety compliance still rely on human judgement, resulting in moderate overall risk.
-
 Can advance from junior technician to senior technician or process supervisor; through further education and certification, can shift to process engineer or quality control manager.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can advance from junior technician to senior technician or process supervisor; t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For high-skilled non-EU citizens, requires bachelor's degree or higher and a contract above average salary, annual salary threshold approx. €25,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, targeting non-EU workers, requires employer sponsorship, suitable for medium-skilled positions. |
-| Subclass Work Permit (Nulla Osta for Employment) | The employer applies to the immigration department, proving that no local candidate is available. Once approved, a work visa application can be submitted. The process takes about 2-4 months. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance to senior technician or process supervisor; through continuing ed
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineering-technician/IT)**

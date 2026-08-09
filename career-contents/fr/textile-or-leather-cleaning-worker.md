@@ -52,8 +52,6 @@ Responsible for dry cleaning, wet washing, decontamination, and care for textile
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Textile or leather cleaners face a situation where automation and AI enhancement coexist: standardized dry cleaning and decontamination processes are easily replaced by machines, but high-end care, customized services, and quality control still require human experience and judgment, with overall risks and opportunities coexisting.
-
 You can advance from junior cleaner to senior technician or workshop supervisor, develop into specialized fields such as leather care or carpet cleaning, or start your own cleaning shop.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from junior cleaner to senior technician or workshop supervisor,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Work residence requires employer to provide CDI contract and apply for work permit, salary must be above SMIC |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passports are suitable for high-skilled or high-paying positions, which are usually not applicable to this profession |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires a salary 1.5 times higher than the French average; general cleaners do not meet the standards |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Master dry cleaning, water washing, and stain removal techniques; understand 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-or-leather-cleaning-worker/FR)**

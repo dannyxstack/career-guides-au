@@ -4,8 +4,6 @@
 
 Responsible for installing, maintaining, and repairing electronic equipment and systems used in air traffic control, ensuring safe and reliable operation of aviation communication, navigation, and surveillance equipment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing, maintaining, and repairing electronic equipment and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance the efficiency and accuracy of air traffic safety electronic technicians, especially in fault prediction and data analysis, but core on-site maintenance and system safety responsibility still require human control.
-
 Can progress from junior technician to senior technician or team leader, or develop into systems engineer or project manager. After obtaining EASA certification, can participate in international projects or move into R&D roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can progress from junior technician to senior technician or team leader, or deve
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, requiring employer endorsement and a salary threshold of about 50,000 euros (over 30) or about 39,000 euros (under 30); can bring family. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires an above-average annual salary (approx. €58,000), valid for 4 years, and eligible for permanent residence. |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands or research master's/PhD graduates, allowing them to search for work within one year after graduation with no salary threshold. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically requires secondary vocational education (MBO) in electronics or a b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-safety-electronics-technician/NL)**

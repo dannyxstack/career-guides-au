@@ -53,8 +53,6 @@ Workplace relations consultants handle corporate industrial relations, including
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Junior consultants can advance to senior consultant, HR manager, or industrial relations director; some transition to labor law lawyer or independent consultant. Ongoing legal updates required.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior consultants can advance to senior consultant, HR manager, or industrial r
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence requires employer nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Strong prospects, can advance to HR manager or industrial relations director,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/workplace-relations-adviser/AU)**

@@ -53,8 +53,6 @@ Responsible for company record maintenance, file archiving, dictation transcript
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Company Secretaries and Administrative Managers face high automation risk; AI can handle many clerical, compliance, and scheduling tasks, but the governance role of senior company secretaries still requires human judgment.
-
 Junior administrative assistants can progress to senior company secretary or administrative manager by accumulating company secretarial experience, or shift into legal or compliance fields. Obtaining the Chartered Company Secretary qualification (ICSA) can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior administrative assistants can progress to senior company secretary or adm
 | Subclass Graduate (Graduate visa) | UK graduates can stay in the UK for 2 years (3 years for PhD) after graduation to work, and can switch to a Skilled Worker visa after gaining experience. |
 | Subclass Scale-up (Scale-up visa) | If employed by a high-growth enterprise and meeting salary requirements, can apply; initial 2 years, renewable. |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but high school education and ICSA qualification help; busines
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/company-secretaries-and-administrators/UK)**

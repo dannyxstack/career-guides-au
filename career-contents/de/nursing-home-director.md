@@ -54,8 +54,6 @@ Responsible for overall operations management of a nursing home, including care 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The administrative and data management work of a nursing home director is easily automated by AI, but core human care, team leadership, and quality management still require human leadership, presenting both risks and opportunities.
-
 Can advance from nursing supervisor to nursing home director, and further to regional care management director or operations director of a eldercare group.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from nursing supervisor to nursing home director, and further to reg
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to nursing managers with professional qualification certification, requires sponsorship from a German employer. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system applicable to qualified job seekers to find employers in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, can advance to regional care director or operations vice president of ag
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-home-director/DE)**

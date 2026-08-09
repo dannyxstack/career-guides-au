@@ -51,8 +51,6 @@ Interior designers plan interior space layouts, select materials and colours, an
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Career paths range from junior designer to senior designer, project lead, or design director. With experience, one may transition to self-employment or start a studio, or specialize in areas like sustainable design or healthy spaces.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career paths range from junior designer to senior designer, project lead, or des
 | Subclass Skilled Worker (Skilled Immigration Act (Work Visa)) | Requires a job offer from a German employer and recognition of qualifications (a degree makes it easier). |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows coming to Germany to look for a job for one year; requires proof of language and qualifications. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but having a German-recognized degree (e.g., bachelor's from a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer/DE)**

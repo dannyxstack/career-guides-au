@@ -53,8 +53,6 @@ Childcare workers care for young children in daycare centers, kindergartens, or 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Childcare worker roles will not be largely replaced by AI, but AI tools can assist in improving efficiency; high emotional interaction and physical care requirements create natural barriers, though entry-level roles face some risk of compression.
-
 Career progression paths include becoming a senior childcare worker, nursery manager, or early childhood education consultant; or through further study, become a primary school teacher or special education professional.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression paths include becoming a senior childcare worker, nursery man
 | Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in demand, requires employer sponsorship, annual salary threshold above €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled workers with annual salary ≥ €33,000 (2023 standard), requiring tertiary education. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a QQI Level 6 Advanced Certificate (1-2 years) or a Bachel
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-care-worker/IE)**

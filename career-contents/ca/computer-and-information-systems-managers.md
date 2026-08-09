@@ -52,8 +52,6 @@ Lead IT projects from requirements to delivery across full lifecycle, covering s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Promoted from Technical Project Manager or Development Lead; after 5-10 years of experience, can advance to IT Director or CIO. Can also transition to Cloud Architect, CTO, or start a business. PMP certification helps advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Promoted from Technical Project Manager or Development Lead; after 5-10 years of
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs such as Ontario Human Capital Priorities and BC Tech Pilot. Eligible for an additional 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer in those provinces |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: No compulsory license required, but PMP certification (PMI) can significantly
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-and-information-systems-managers/CA)**

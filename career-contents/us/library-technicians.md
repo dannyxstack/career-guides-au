@@ -53,8 +53,6 @@ Assist patrons in using library catalogs, databases, and indexes to find materia
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on librarians is mixed: tasks such as cataloging and reference queries face automation, but high-value human tasks like information literacy education and community services are strengthened by AI. Overall job numbers are stable but skill requirements are rising.
-
 Can advance from junior technician to senior technician or department supervisor; some can become librarians after obtaining a master's degree in library and information science through continuing education.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior technician to senior technician or department supervisor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult. This occupation typically does not meet H-1B specialty occupa
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-technicians/US)**

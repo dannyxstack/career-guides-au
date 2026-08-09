@@ -53,8 +53,6 @@ Care for and supervise infants and preschool children in daycare centers, kinder
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Childcare worker core duties—emotional interaction and safety supervision—are hard to automate, but admin and observation record tasks will be significantly AI-enhanced. Roles won't decrease; demand for high-skilled care may increase due to efficiency gains.
-
 Can progress from entry-level childcare worker to senior childcare worker, team leader, or childcare centre manager, or move towards preschool teaching or special education.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from entry-level childcare worker to senior childcare worker, team 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU citizens apply for work permits through annual quota, suitable for non-high-skilled positions |
-| Subclass EU Blue Card (EU Blue Card) | Requires a bachelor's degree and meeting salary thresholds. The Italian standard is approximately €25,000; childcare workers usually do not qualify |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | If opening a family daycare, you can apply for a self-employment visa, requiring a business plan |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Can advance to childcare center director, trainer, or further study to become
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-care-worker/IT)**

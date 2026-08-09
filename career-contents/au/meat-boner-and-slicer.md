@@ -53,8 +53,6 @@ In red meat processing plants, use knives to bone, debone, cut, and slice meat, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Slaughtering and meat cutting work affected by automation: repetitive cutting replaced by machines, but fine trimming and food safety judgment still rely on humans. Entry barriers lower; skills shift to equipment operation and quality monitoring.
-
 Entry-level boners can advance to senior boner, team leader, or quality inspector. Some workers transition to slaughtering or meat trimming roles and can apply for employer-sponsored migration after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level boners can advance to senior boner, team leader, or quality inspecto
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA agreements offer more relaxed English and age requirements |
 | Subclass 186 (Employer Nomination Scheme Visa) | Direct permanent residence visa, requires employer nomination and skills assessment |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually in refrigerated or freezer workshops (0-10°C), standing work, using 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-boner-and-slicer/AU)**

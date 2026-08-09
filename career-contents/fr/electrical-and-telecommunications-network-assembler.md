@@ -53,8 +53,6 @@ Responsible for installing, connecting, and maintaining power and telecommunicat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 You can advance from junior assembler to team leader or technical expert, or pursue a BTS/DUT diploma through further study and transition to design or project management roles. Some experienced workers can become self-employed contractors.
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ You can advance from junior assembler to team leader or technical expert, or pur
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | If you need a French employer employment contract and the position is in a high-demand occupation (such as electrical assembler), you can apply for employment residence |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to high-skilled or in-demand occupations, with income at least 1.5 times the French average annual salary (about 50,000 euros), and eligible for 4-year residency if conditions are met |
-| Subclass Carte bleue UE (EU Blue Card) | Requires a university degree or 5 years of professional experience, with an income not less than 1.5 times the average salary in France; suitable for those with a BTS degree or above |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, students studying in France can apply for a one-year job-seeking residence permit, and once they find a suitable job, they can transfer to Salarié |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: You must pass the French Academic Accreditation (ENIC-NARIC) assessment and t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-telecommunications-network-assembler/FR)**

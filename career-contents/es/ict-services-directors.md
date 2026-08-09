@@ -52,8 +52,6 @@ Responsible for planning, guiding, and coordinating the information technology a
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Typically, they are promoted from technical positions (system architect, project manager) to department heads, and then to directors. They can develop into Chief Information Officers (CIOs) or Chief Technology Officers (CTO). An MBA or professional certification (such as PMP, ITIL) helps with promotion.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Typically, they are promoted from technical positions (system architect, project
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for technical professionals with higher education (bachelor's degree or above) with an annual salary of no less than approximately €33,908 (2024 standard), allowing quick residency and family support. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior management or technical talent, the salary threshold is about 1.5 times the Spanish average (approximately €45,000/year), with a simplified process allowing for two-year residency. |
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Work permit sponsored by a Spanish company, requiring proof that the position cannot be filled locally. Suitable for corporate executive transfers. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: A bachelor's degree in computer science or a related field (Grado) is usually
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-services-directors/ES)**

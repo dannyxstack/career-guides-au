@@ -1,8 +1,8 @@
-# Industrial Safety Specialist 职业分析 · 韩国
+# 工业安全专家（Industrial Safety Specialist）职业分析 · 韩国
 
-**职业代码: 15841 (KECO)**
+**职业代码：15841 (KECO)**
 
-A professional who performs safety management, identifies and improves risk factors, and conducts accident prevention activities within the workplace, supporting the establishment of a safety and health management system.
+在职场内进行安全管理、识别和改进风险因素、开展事故预防活动，支持建立安全健康管理体系的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who performs safety management, identifies and improves risk fact
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-year) | 2 年 | $8,000,000~$12,000,000（Tuition based on national/public university standards） |
-| Bachelor's Degree (4-year) | 4年 | $16,000,000~$24,000,000（Tuition based on national/public university standards） |
+| 副学士学位（2年） | 2 年 | $8,000,000~$12,000,000（按国立/公立大学标准收取学费） |
+| 学士学位（4年） | 4年 | $16,000,000~$24,000,000（按国立/公立大学标准收取学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who performs safety management, identifies and improves risk fact
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 必备 | Required certification; eligibility: associate degree or higher in a related field |
-| Industrial Safety Industrial Engineer | Human Resources Development Service of Korea | 必备 | Can replace the engineer certification; can be obtained during an associate degree program |
-| Professional Engineer (Safety Management) | Human Resources Development Service of Korea | 可选 | Required for senior experts; advantageous for promotion |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 必备 | 所需认证；资格：相关领域副学士学位或更高 |
+| 工业安全工业工程师 | 韩国人力资源开发服务局 | 必备 | 可替代工程师认证；可在副学士学位课程期间获得 |
+| 专业工程师（安全管理） | 韩国人力资源开发服务局 | 可选 | 高级专家需具备；利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. With the enforcement of the Serious Accidents Punishment Act and increased social demands for safety, recruitment is continuously expanding. Employment is expected to increase over the next five years.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。随着《重大事故处罚法》的实施和社会对安全需求的增加，招聘持续扩大。预计未来五年就业将增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A professional who performs safety management, identifies and improves risk fact
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$40,000,000 | Based on small and medium-sized enterprises |
-| Mid-level (4-9 years) | $45,000,000~$60,000,000 | Considering large corporations and experience |
-| Senior-level (10+ years) | $65,000,000~$90,000,000 | Additional credit for holding a Professional Engineer license |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 基于中小企业 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 考虑大型企业和经验 |
+| 高级（10年以上经验） | $65,000,000~$90,000,000 | 持有专业工程师执照可获得额外加分 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is improving work efficiency in the industrial safety field through data analysis, risk prediction, and monitoring automation. However, human roles such as on-site judgment and training remain important, so AI is developing to complement rather than replace the duties of safety officers.
+AI通过数据分析、风险预测和监控自动化提高了工业安全领域的工作效率。然而，现场判断和培训等人类角色仍然重要，因此AI正在发展以补充而非取代安全官员的职责。
 
-Career path: Safety Manager → Safety and Health Team Leader → Safety and Health Management Officer. Holding a master's degree or higher or acquiring a Professional Engineer license is advantageous for advancing to specialized institutions or large corporations.
+职业路径：安全经理 → 安全与健康团队负责人 → 安全与健康管理官员。拥有硕士及以上学历或取得专业工程师执照有助于晋升到专业机构或大型企业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Collecting simple risk factor data
-- Creating basic safety inspection checklists
-- Drafting quantitative risk analysis reports
+- 收集简单风险因素数据
+- 创建基本安全检查清单
+- 起草定量风险分析报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Risk prediction modeling
-- Developing AI-based safety training content
-- Operating real-time safety monitoring systems
+- 风险预测建模
+- 开发基于AI的安全培训内容
+- 操作实时安全监控系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive judgment of on-site risk situations
-- Building worker trust and establishing safety culture
-- Decision-making involving legal and ethical responsibilities
+- 对现场风险情况的直觉判断
+- 建立员工信任与安全文化
+- 涉及法律和伦理责任的决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Big data analysis
-- Using IoT sensors
-- Operating Safety and Health Management Systems (SMS)
-- Communication and training skills
+- 大数据分析
+- 使用物联网传感器
+- 运行安全与健康管理体系（SMS）
+- 沟通与培训技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Serious Accidents Punishment Act
-- Spreading safety culture
-- Smart safety equipment
-- ESG management
+- 重大灾害处罚法
+- 传播安全文化
+- 智能安全设备
+- ESG管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for E-7 visa as safety-related professional; requires contract and career proof |
-| Subclass E-9 (Non-professional Employment) | Industrial safety field not eligible for E-9; requires expertise |
-| Subclass F-2 (Residence) | Can convert to points-based system; advantageous for long-term stay |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who remains calm in hazardous situations
-- Someone who meticulously follows regulations and can educate others
-- Someone who continuously updates safety knowledge
+- 在危险情况下保持冷静的人
+- 严格遵守法规并能教育他人的人
+- 持续更新安全知识的人。
 
 **谁不适合**
-- Someone who takes safety rules lightly
-- Someone who finds repetitive site inspections and report writing tedious
+- 不重视安全规则的人
+- 觉得重复现场检查和报告撰写繁琐的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for industrial safety officers?**
-答：Entry-level annual salary 30-40 million KRW, mid-level 45-60 million KRW, senior with expert certification 65-90 million KRW
+**问：工业安全员的薪资水平如何？**
+答：入门级年薪3000-4000万韩元，中级4500-6000万韩元，高级专家认证6500-9000万韩元
 
-**问：What visa does a foreigner need to work as an industrial safety officer in Korea?**
-答：E-7 (Specific Activities) visa is suitable, and a safety-related degree or experience is required. It is also possible to switch to an F-2 (Residence) visa.
+**问：外国人担任韩国工业安全官需要什么签证？**
+答：E-7（特定活动）签证适合，需要安全相关学位或经验。也可以转换为F-2（居住）签证。
 
-**问：What certifications are essential for this job?**
-答：Industrial Safety Engineer or Industrial Safety Industrial Engineer is required. A professional engineer (Safety Management) is advantageous for advanced careers.
+**问：这份工作需要哪些必备证书？**
+答：需要工业安全工程师或工业安全工业工程师。高级职业方向中，专业工程师（安全管理）有优势。
 
 
 ---
@@ -143,12 +136,12 @@ Career path: Safety Manager → Safety and Health Team Leader → Safety and Hea
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-safety-specialist/KR)**

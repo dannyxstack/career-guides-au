@@ -50,8 +50,6 @@ A role that establishes test plans to ensure software quality, performs manual a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI enhances test automation and defect prediction, but complete replacement is difficult because human intuition and experience are needed for test scenario design, exploratory testing, and user perspective validation.
-
 Starting as a manual tester, one can advance to automation script writing, test architect, and QA manager. Certifications such as ISTQB help career growth.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Starting as a manual tester, one can advance to automation script writing, test 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | IT/SW professionals can apply; bachelor's and experience required |
-| Subclass D-10 (Job-seeking Visa) | IT graduates can seek jobs for up to 2 years after graduation |
-| Subclass F-2 (Residence Visa) | Points-based; convertible after long-term stay; few work restrictions |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: After gaining testing experience, you can transition to a PM role by developi
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-tester-and-qa-specialist-sw-tester/KR)**

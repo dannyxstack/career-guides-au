@@ -52,8 +52,6 @@ Registered nurses provide care in Canadian hospitals, community and long-term ca
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Pathway: Registered nurse → Specialist/Advanced practice nurse (NP); key steps include NNAS assessment, provincial nursing college registration, and English/French test scores.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Pathway: Registered nurse → Specialist/Advanced practice nurse (NP); key steps
 | Subclass PNP (Provincial Nominee) | Provincial nomination, multiple provinces have priority streams for nursing |
 | Subclass AIP (Atlantic Immigration) | Atlantic Immigration Program employer sponsorship. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. Nursing is a shortage occupation, eligible for Express Entry (including 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse/CA)**

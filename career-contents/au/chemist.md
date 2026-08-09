@@ -52,8 +52,6 @@ Chemists study the composition, structure, properties, and changes of chemical s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-A chemist's work is a mixed bag: routine analysis and literature searches are easily automated by AI, but experimental design, new method development, and regulatory compliance still require human creativity and judgment.
-
 Junior researcher/analytical chemist can advance to senior scientist, lab manager, or R&D director, or transition to technical sales, regulatory affairs, or academic research.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior researcher/analytical chemist can advance to senior scientist, lab manage
 | Subclass 482 (Skills in Demand Visa (Subclass 482)) | Employer-sponsored temporary visa, requires employer nomination |
 | Subclass 186 (Employer Nomination Scheme (Subclass 186)) | Employer-sponsored permanent residency visa requiring employer nomination and skills assessment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a 3-year Bachelor of Chemical Science; some research roles
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/AU)**

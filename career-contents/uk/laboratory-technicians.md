@@ -53,8 +53,6 @@ Laboratory technicians perform routine laboratory tests and examinations using e
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on laboratory technician work is mixed: routine tests are easily automated, but tasks like research participation and equipment maintenance are enhanced by AI, increasing their value.
-
 Junior technicians can advance to senior technicians or lab supervisors through experience, some may move to quality control or R&D roles. Further study can lead to becoming a scientist.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior technicians can advance to senior technicians or lab supervisors through 
 | Subclass Graduate (Graduate visa) | UK degree holders can work for 2-3 years after graduation, then switch to a work visa after gaining experience. |
 | Subclass Scale-up (Scale-up visa) | Must be employed by a fast-growing company, salary no less than £33,000, can quickly transition to permanent residency. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to senior technician, laboratory supervisor, quality control mana
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laboratory-technicians/UK)**

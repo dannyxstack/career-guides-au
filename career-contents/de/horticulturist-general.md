@@ -54,8 +54,6 @@ Horticulturists engage in plant cultivation, maintenance, landscape design, and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on gardeners is mixed: automation will replace basic tasks (e.g., planting, irrigation), but AI enhances creativity and planning ability; the moat lies in on-site judgment, client communication, and biological knowledge.
-
 Practitioners can become master horticulturists (Gärtnermeister) through continuing education, then take on management roles or start their own business. They can also transition into landscape architecture, agricultural technology, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can become master horticulturists (Gärtnermeister) through contin
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, can be used to find horticulture-related positions |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to management or start a business by obtaining a Master Gardener 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticulturist-general/DE)**

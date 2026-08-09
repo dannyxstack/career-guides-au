@@ -4,8 +4,6 @@
 
 Responsible for flying aircraft to carry out passenger, cargo, or special missions, ensuring flight safety and punctuality. Must master skills in meteorology, navigation, communications, and hold a license recognized by the Civil Aviation Administration.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for flying aircraft to carry out passenger, cargo, or special missio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Typically, they start as first officers, gain flight experience, and are promoted to captain, with some transferring to flight instructors or aviation management positions. Major airlines have clear internal promotion paths.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Typically, they start as first officers, gain flight experience, and are promote
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Workers) | A Spanish company sponsorship is required, and the position cannot be filled by an EU citizen; airlines usually prefer pilots from their own country or the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, but pilots must meet the annual salary threshold (approximately €33,908, 2023) and have a contract of at least one year. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for work, but pilot positions often require securing a job offer in advance. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Must pass Class 1 medical, complete an ATPL integrated course (approx. 18-24 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-pilot-and-related-professionals/ES)**

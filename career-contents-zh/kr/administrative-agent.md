@@ -1,10 +1,8 @@
-# Administrative Agent 职业分析 · 韩国
+# 行政代理人（Administrative Agent）职业分析 · 韩国
 
-**职业代码: 02993 (KECO)**
+**职业代码：02993 (KECO)**
 
-An administrative agent is a professional who prepares documents and handles administrative procedures for individuals or companies to submit to government offices. They perform tasks such as business incorporation, permanent residency applications, and various licensing procedures.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+行政书士是为个人或公司准备文件并办理向政府机关提交的行政手续的专业人士。他们负责公司注册、永久居留申请以及各种许可手续等业务。
 
 
 ---
@@ -13,8 +11,8 @@ An administrative agent is a professional who prepares documents and handles adm
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate or above (no academic restrictions) | 0年 | $0~$0（None (no education requirements)） |
-| Acquire Administrative Agent License (take exam) | 1年 | $1,000,000~$3,000,000（Includes academy fees and exam fees） |
+| 高中及以上学历（无学术限制） | 0年 | $0~$0（无（无教育要求）） |
+| 获得行政代理执照（参加考试） | 1年 | $1,000,000~$3,000,000（包含培训费和考试费） |
 
 ---
 
@@ -22,16 +20,16 @@ An administrative agent is a professional who prepares documents and handles adm
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Administrative Agent License | Human Resources Development Service of Korea | 必备 | Required certification |
+| 行政代理执照 | 韩国人力资源开发服务局 | 必备 | 所需认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. The demand for administrative services continues, but competition is expected to intensify as entry barriers lower. Some tasks may be reduced due to government deregulation policies.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。行政服务的需求持续存在，但随着准入门槛降低，竞争预计将加剧。部分任务可能因政府放松管制政策而减少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,88 +37,82 @@ An administrative agent is a professional who prepares documents and handles adm
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $25,000,000~$35,000,000 | Affiliated with office or early stage of practice |
-| 中级（4-9年） | $35,000,000~$50,000,000 | Increased fees after accumulating experience |
-| 资深（10年以上） | $50,000,000~$99,999,999 | High income possible when establishing specialized field |
+| 初级 (0-3年) | $25,000,000~$35,000,000 | 附属办公室或实践初期 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 积累经验后费用增加 |
+| 资深（10年以上） | $50,000,000~$99,999,999 | 建立专业领域时高收入可能 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI may automate document writing and data retrieval, replacing simple tasks, but human administrative agents are still needed for client consultations and complex administrative judgments. AI could also expand the scope of work by increasing efficiency.
+AI可能自动化文档编写和数据检索，取代简单任务，但客户咨询和复杂行政判断仍需人类行政代理。AI也可能通过提高效率来扩大工作范围。
 
-Starting as a general administrative agent, after 5-10 years of experience, one typically specializes in a field (immigration, construction, legal) or opens their own office. Advancement to association executive positions is also possible.
+从一般行政代理开始，经过5-10年经验，通常会在某个领域（移民、建筑、法律）专攻或开设自己的办公室。也可以晋升为协会高管职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard form document writing
-- Information search and data entry
-- Simple Application Form Submission Agency
+- 标准表格文件撰写
+- 信息搜索与数据录入
+- 简易申请表提交机构
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Legal Interpretation and Consultation
-- Complex Administrative Procedure Design
-- Customized Strategy Establishment for Clients
+- 法律解读与咨询
+- 复杂行政程序设计
+- 为客户制定定制化策略
 
-**人类护城河:**
+**人类护城河：**
 
-- Client Trust and Face-to-Face Consultation Skills
-- Complex Administrative Judgment and Experience
-- Legal Responsibility and Ethical Judgment
+- 客户信任与面对面咨询技能
+- 复杂行政判断与经验
+- 法律责任与伦理判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI-Based Administrative Tools
-- Data Analysis and Legal Interpretation
-- English and Multilingual Communication
+- 利用基于AI的行政工具
+- 数据分析与法律解释
+- 英语与多语言沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Demand for inheritance and gift-related services due to aging population
-- Increase in work related to foreigner residence
-- Demand for business start-up support
-- Response to e-government
+- 老龄化人口对继承和赠与相关服务的需求
+- 与外国人居住相关的工作增加
+- 创业扶持需求
+- 电子政务响应
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Visa required for foreigners to work as administrative agents. Korean language proficiency and qualification requirements must be met. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and skilled in document writing
-- Strong in interpersonal relations and customer service
-- Interested in understanding administrative procedures
+- 注重细节且擅长文件撰写
+- 擅长人际关系和客户服务
+- 对了解行政程序感兴趣
 
 **谁不适合**
-- Dislikes repetitive paperwork
-- Dislikes keeping up with changing regulations
+- 不喜欢重复性文书工作
+- 不喜欢跟上不断变化的法规
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an administrative agent?**
-答：It varies greatly by career level and whether one runs their own office; beginners earn about 25–35 million KRW, while experienced professionals can earn 50 million to over 100 million KRW.
+**问：行政代理人的平均工资是多少？**
+答：因职业级别和是否经营自己的办公室而异；初学者约2500-3500万韩元，有经验者可达5000万至1亿韩元以上。
 
-**问：Can a foreigner work as an administrative agent in Korea?**
-答：Yes. It is possible to work with an E-7 visa; Korean language proficiency and a administrative agent license are required.
+**问：外国人在韩国能否担任行政代理？**
+答：是的，可以持E-7签证工作；需具备韩语能力和行政代理人执照。
 
 
 ---
@@ -138,12 +130,12 @@ Starting as a general administrative agent, after 5-10 years of experience, one 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/administrative-agent/KR)**

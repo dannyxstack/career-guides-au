@@ -54,8 +54,6 @@ Members of Parliament are elected government representatives in New Zealand, res
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Legislative and debate work of members of parliament is limitedly affected by AI, but auxiliary tasks like information analysis and document processing may be automated; AI also enhances voter engagement and decision support.
-
 Members of parliament typically start from grassroots party or local councils, enter parliament through elections, and can rise to positions such as minister, whip, or speaker. Promotion depends on party seniority, electoral support, and public recognition, not by direct election.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Members of parliament typically start from grassroots party or local councils, e
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: No strict educational requirements, but most councilors hold at least a bache
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/member-of-parliament/NZ)**

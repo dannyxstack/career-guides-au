@@ -52,8 +52,6 @@ Contractors and supervisors overseeing carpentry projects, managing workers, coo
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Progress from skilled carpenter to supervisor or contractor, further to project manager or self-employed construction company. With experience, can take on larger projects and expand business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from skilled carpenter to supervisor or contractor, further to project 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, prioritize candidates with employer offers or in-demand occupations |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer proves inability to hire locally, supporting work visa applications and paving the way for immigration. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some provinces such as British Columbia and Quebec mandate certification; oth
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-carpentry-trades/CA)**

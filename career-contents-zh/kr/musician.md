@@ -1,10 +1,8 @@
-# Musician 职业分析 · 韩国
+# 音乐家（Musician）职业分析 · 韩国
 
-**职业代码: 41453 (KECO)**
+**职业代码：41453 (KECO)**
 
-A profession that involves playing musical instruments individually or in groups to provide music to audiences. Activities span various genres such as classical, jazz, and popular music, with affiliations ranging from orchestras and bands to solo performers.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+个人或团体演奏乐器为观众提供音乐的职业。活动涵盖古典、爵士、流行等多种风格，可在管弦乐团、乐队或作为独奏者工作。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that involves playing musical instruments individually or in groups
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree (Music College) | 4年 | $24,000,000~$40,000,000（Public university: KRW 6~10 million/year） |
-| Vocational School (Applied Music) | 2 年 | $10,000,000~$20,000,000（KRW 5~10 million/year） |
-| 硕士 | 2 年 | $12,000,000~$24,000,000（Graduate school: KRW 6~12 million/year） |
+| 学士学位（音乐学院） | 4年 | $24,000,000~$40,000,000（公立大学：韩元600~1000万/年） |
+| 职业学校（应用音乐） | 2 年 | $10,000,000~$20,000,000（每年500万-1000万韩元） |
+| 硕士 | 2 年 | $12,000,000~$24,000,000（研究生院：每年600万~1200万韩元） |
 
 ---
 
@@ -23,17 +21,17 @@ A profession that involves playing musical instruments individually or in groups
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Traditional Music Certificate (Gugak) | Korean Traditional Music Association | 可选 | Advantageous for Gugak performers |
-| Culture and Arts Education Level 2 | Ministry of Culture, Sports and Tourism | 可选 | Advantageous when entering education field |
+| 传统音乐证书（国乐） | 韩国传统音乐协会 | 可选 | 对国乐表演者有利 |
+| 文化与艺术教育2级 | 文化体育观光部 | 可选 | 进入教育领域时具有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 18,000. The outlook is positive due to increased interest in culture and arts and growth of the performance industry, but job opportunities are limited and competition is fierce. Besides traditional performance, there is a trend of expanding into areas like recording, broadcasting, and education.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 18,000。由于对文化和艺术的兴趣增加以及表演行业的发展，前景乐观，但工作机会有限且竞争激烈。除传统表演外，有向录音、广播、教育等领域扩展的趋势。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中低（★★☆☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中低（★★☆☆☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A profession that involves playing musical instruments individually or in groups
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$36,000,000 | Orchestra salaried; freelancer irregular |
-| Intermediate (4-10 years) | $36,000,000~$60,000,000 | When established in ensemble; increases with private lessons |
-| Advanced (10+ years, renowned) | $60,000,000~$99,999,999 | National orchestra member or highly distinguished career |
+| 初级（0-3年） | $24,000,000~$36,000,000 | 管弦乐团有固定薪资；自由职业者收入不固定 |
+| 中级（4-10年） | $36,000,000~$60,000,000 | 团体课固定收入；私教课收入增加 |
+| 高级（10年以上，知名） | $60,000,000~$99,999,999 | 国家乐团成员或杰出职业生涯 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI expands performers' work as a tool for music creation and performance assistance, but since live performance and human emotional delivery are core, complete replacement is difficult. AI is creating new opportunities in music production, arrangement, and education.
+AI作为音乐创作和表演辅助工具拓展了表演者的工作，但由于现场表演和人类情感传递是核心，完全取代是困难的。AI在音乐制作、编曲和教育领域创造了新的机会。
 
-Typically, after graduating from a music college or vocational school, one joins a professional orchestra through auditions or starts as a freelancer. Career progression includes advancing to concertmaster, conductor, composer, or music director, or winning international competitions as key growth paths.
+通常，从音乐学院或职业学校毕业后，通过试镜加入专业乐团或开始作为自由职业者。职业发展包括晋升为首席、指挥、作曲家或音乐总监，或赢得国际比赛作为关键成长路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple accompaniment audio production
-- Rule-based composition
+- 简单的配音音频制作
+- 基于规则的作曲
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Music arrangement and mixing
-- Using practice assistant apps
-- Creating educational content
+- 音乐编排与混音
+- 使用练习辅助应用
+- 创建教育内容
 
-**人类护城河:**
+**人类护城河：**
 
-- Improvisation and on-site feel of live stages
-- Interaction and emotional expression with the audience
-- Ability to control the unique timbre of traditional instruments
+- 即兴发挥和现场舞台的现场感
+- 与观众的互动与情感表达
+- 控制传统乐器独特音色的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Using digital audio workstations (DAWs)
-- Online marketing and music distribution
-- Pedagogical and communication skills
+- 使用数字音频工作站（DAW）
+- 在线营销与音乐分发
+- 教学与沟通技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Performing Arts
+- 表演艺术
 - Broadcast Music
-- Music Education
-- Online Content
+- 音乐教育
+- 在线内容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a professional in culture/arts; requires employment contract with orchestras in Korea |
-| Subclass D-2 (Study (D-2)) | After studying at a music college, can switch to D-10 Job Seeker visa |
-| Subclass F-2 (Residence (F-2)) | A step before permanent residency for long-term stay, with few restrictions |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with exceptional musical talent and passion
-- Those with consistent practice and patience
-- Those who can collaborate and overcome stage fright
+- 具有卓越音乐才能和热情的人
+- 坚持练习且有耐心的人
+- 能协作且克服舞台恐惧的人
 
 **谁不适合**
-- Those who prefer stable jobs
-- Those who dislike simple, repetitive tasks
+- 偏好稳定工作的人
+- 不喜欢简单重复任务者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a performer?**
-答：The average salary of a Korean performer is about 35 million KRW; entry-level: 24-36 million KRW, 10+ years experience: over 60 million KRW. Orchestra members are relatively stable, while freelancers have high income volatility.
+**问：表演者的平均薪资是多少？**
+答：韩国表演者平均薪资约3500万韩元；入门级：2400-3600万韩元，10年以上经验：6000万韩元以上。乐团成员相对稳定，自由职业者收入波动大。
 
-**问：What visa does a foreigner need to work as a performer in Korea?**
-答：Primarily through E-7 (Specific Activities) visas, requiring an employment contract with a Korean performance organization and proof of relevant degrees and experience. It is also possible to switch to a D-10 (Job Seeking) visa after studying, but competition is intense, so help from a professional agency is needed.
+**问：外国人在韩国从事表演工作需要什么签证？**
+答：主要通过E-7（特定活动）签证，需要与韩国演出机构签订雇佣合同，并提供相关学历和经验证明。也可以在留学后转为D-10（求职）签证，但竞争激烈，需要专业机构帮助。
 
-**问：Is there a risk of AI replacing performers?**
-答：Although AI composition and performance technology is advancing, the emotion and on-site communication of human performers are difficult to replace. Rather, AI is expected to play a complementary role, such as being used as an accompaniment or arrangement aid.
+**问：AI有取代表演者的风险吗？**
+答：虽然AI作曲和表演技术不断进步，但人类表演者的情感和现场沟通难以取代。AI更可能扮演辅助角色，如用作伴奏或编曲辅助。
 
 
 ---
@@ -144,12 +134,12 @@ Typically, after graduating from a music college or vocational school, one joins
 | 工作强度 | 中低（★★☆☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/musician/KR)**

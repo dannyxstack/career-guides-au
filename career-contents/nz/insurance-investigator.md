@@ -54,8 +54,6 @@ Insurance investigators in New Zealand investigate suspicious claims, gather evi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of insurance investigators (evidence collection, interviews, report writing) can be partially automated by AI, but fraud investigation relies on human judgment and interpersonal interaction; AI is more of an enhancement than a replacement. Entry-level positions may be reduced due to automation, but demand for senior investigators remains stable.
-
 Junior investigators can advance to senior investigator, team leader, or anti-fraud manager. With experience, they can move into forensic accounting or risk management consulting. Some investigators obtain certification from the New Zealand Insurance and Financial Services Association to enhance their value.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior investigators can advance to senior investigator, team leader, or anti-fr
 | Subclass AEWV (Accredited Employer Work Visa) | Employers must be accredited employers; positions need to be advertised. Salary must meet the median, and after 3 years of work, residency can be applied for. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Insurance investigators are not on the Green List and are not eligible. Other pathways are required. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes. Conducting paid investigations requires a private investigator license i
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-investigator/NZ)**

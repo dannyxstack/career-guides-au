@@ -1,8 +1,8 @@
-# Network Administrator 职业分析 · 韩国
+# 网络管理员（Network Administrator）职业分析 · 韩国
 
-**职业代码: 13432 (KECO)**
+**职业代码：13432 (KECO)**
 
-A professional who designs, builds, and operates network systems for companies or institutions, managing troubleshooting and security. Maintaining a stable data communication environment is key.
+为公司或机构设计、构建和运营网络系统，管理故障排除和安全的专业人士。维持稳定的数据通信环境是关键。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who designs, builds, and operates network systems for companies o
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (2-year) Graduation | 2 年 | $5,000,000~$10,000,000（Annual tuition (varies by public/private)） |
-| University (4-year) Graduation | 4年 | $8,000,000~$20,000,000（Annual tuition, private university in Seoul standard） |
+| 社区大学（2年）毕业 | 2 年 | $5,000,000~$10,000,000（年学费（因公私校而异）） |
+| 大学（四年制）毕业 | 4年 | $8,000,000~$20,000,000（年度学费，首尔私立大学标准） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who designs, builds, and operates network systems for companies o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information and Communication Engineer | Korea Communications and Radio Promotion Agency | 可选 | National technical qualification, basic network management |
-| CCNA | Cisco | 可选 | Entry-level network engineering certification |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Bonus points for corporate hiring |
+| 信息与通信工程师 | 韩国通信与广播振兴院 | 可选 | 国家技术资格，基础网络管理 |
+| CCNA | 思科 | 可选 | 入门级网络工程认证 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 企业招聘加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Demand remains steady due to digital transformation and cloud expansion, and the shortage of specialized personnel is expected to persist as security importance grows.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于数字化转型和云扩展，需求保持稳定，且随着安全重要性提升，专业人才短缺预计将持续。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,97 +39,90 @@ A professional who designs, builds, and operates network systems for companies o
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on SME; large corporations KRW 35 million or more |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于中小企业；大企业3500万韩元或以上 |
 | 中级（4-7年） | $40,000,000~$50,000,000 | 含专业认证者更高 |
-| 高级（8年+） | $55,000,000~$70,000,000 | Manager/Senior Engineer, up to KRW 80 million at large corporations |
+| 高级（8年+） | $55,000,000~$70,000,000 | 经理/高级工程师，大型企业可达8000万韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation replace some network monitoring and fault response tasks, but advanced work like design, security, and optimization is enhanced. Network administrators can boost productivity using AI tools.
+AI和自动化取代部分网络监控和故障响应任务，但设计、安全和优化等高级工作得到增强。网络管理员可利用AI工具提高生产力。
 
-Entry-level technical support → Network Engineer → Senior Engineer/Manager. Cloud/security certifications (CISSP, CCNP) advantage for promotion, with experience focused on large corporations and public institutions.
+入门级技术支持 → 网络工程师 → 高级工程师/经理。云/安全认证（CISSP、CCNP）有助于晋升，经验侧重大型企业和公共机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic network equipment configuration
-- Regular performance monitoring
-- Simple fault alert response
-- Traffic analysis report writing
+- 基本网络设备配置
+- 定期绩效监控
+- 简单故障警报响应
+- 流量分析报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Network fault diagnosis and recovery
-- Security threat detection and response
-- Network capacity planning
-- Cloud network architecture design
+- 网络故障诊断与恢复
+- 安全威胁检测与响应
+- 网络容量规划
+- 云网络架构设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex fault root cause analysis
-- Security policy establishment and incident response
-- Customized network design per organization
-- Decision-making in emergency situations
+- 复杂故障根因分析
+- 安全策略制定和事件响应
+- 按组织定制网络设计
+- 紧急情况下的决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud networking (AWS, Azure)
-- Security certifications (CISSP, CCNP Security)
-- Python scripting
-- SDN/NFV Technology
-- AI/ML-based Network Analysis
+- 云网络（AWS、Azure）
+- 安全认证（CISSP、CCNP安全）
+- Python脚本编写
+- SDN/NFV技术
+- 基于AI/ML的网络分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud networking
-- IoT security
-- Software-defined networking
-- Zero trust
+- 云网络
+- 物联网安全
+- 软件定义网络
+- 零信任
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as IT professionals and network administrators; requires degree and experience |
-| Subclass F-2 (Residence) | Convertible after long-term stay, points-based |
-| Subclass D-10 (Job Seeking) | Job seeking after graduation for international students; can switch to E-7 when hired in network field |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy systematic problem-solving
-- People interested in continuous learning
-- People good at teamwork and communication
+- 喜欢系统性解决问题的人
+- 对持续学习感兴趣的人
+- 善于团队合作和沟通的人
 
 **谁不适合**
-- People who struggle to adapt to change
-- People who dislike overtime or weekend work
+- 难以适应变化的人
+- 不喜欢加班或周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a network administrator?**
-答：Entry-level: 28-35 million KRW, mid-level: 40-50 million KRW, senior: 55-70 million KRW. Varies greatly by certification and experience.
+**问：网络管理员的平均工资是多少？**
+答：入门级：2800-3500万韩元，中级：4000-5000万韩元，高级：5500-7000万韩元。根据认证和经验差异很大。
 
-**问：What visa can foreigners use for employment as a network administrator?**
-答：The E-7 (Specific Activities) visa is most common, requiring a bachelor's degree and experience. Long-term stay is also possible with the F-2 (Residence) visa.
+**问：外国人可用什么签证担任网络管理员？**
+答：E-7（特定活动）签证最常见，要求学士学位和经验。F-2（居住）签证也可长期居留。
 
-**问：What educational background is needed to become a network administrator?**
-答：An associate's (2-year) or bachelor's degree in computer engineering-related fields is advantageous, and certifications like CCNA help.
+**问：成为网络管理员需要什么教育背景？**
+答：拥有计算机工程相关领域的副学士（2年）或学士学位有优势，CCNA等证书也有帮助。
 
 
 ---
@@ -147,12 +140,12 @@ Entry-level technical support → Network Engineer → Senior Engineer/Manager. 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/network-administrator/KR)**

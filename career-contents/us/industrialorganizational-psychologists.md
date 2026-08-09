@@ -53,8 +53,6 @@ Applies psychological principles to human resource management, organizational de
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of industrial-organizational psychologists will be significantly enhanced by AI, especially in data analysis and standardized assessment, but core tasks involving human judgment, consulting, and change management remain hard to replace, overall mixed.
-
 Progress from junior consultant to senior consultant, project manager, or organizational development director; can transition to academia or consulting firms.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from junior consultant to senior consultant, project manager, or organi
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable for master's degree or higher; requires PERM labor certification |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Obtains green card via PERM, must prove no qualified US workers available. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: At least a master's degree is required; a doctoral degree is more common in a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrialorganizational-psychologists/US)**

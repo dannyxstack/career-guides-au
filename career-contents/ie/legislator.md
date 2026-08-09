@@ -54,8 +54,6 @@ Legislators are elected representatives in national or local parliaments respons
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will assist in legislative research and draft writing, but core decision-making, voter representation, and political negotiation remain human-led, resulting in a mixed overall impact.
-
 Career path typically starts from local councilor or party staff, then runs for a seat in the House of Representatives, potentially advancing to ministerial or committee chair roles. Party seniority and constituency influence are key.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path typically starts from local councilor or party staff, then runs for 
 | Subclass EU Blue Card (EU Blue Card) | Not applicable for legislator positions, as this role requires Irish citizenship. |
 | Subclass General Employment P (General Employment Permit) | Not applicable to legislators, as political positions are typically not open to non-EU citizens. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically start as local councilors or party staff, build experience and cons
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legislator/IE)**

@@ -1,10 +1,8 @@
 # 监狱狱警（Prison Guard）职业分析 · 日本
 
-**职业代码: 451 (JSCO)**
+**职业代码：451 (JSCO)**
 
-A profession that involves monitoring, guiding, and managing the daily lives of inmates in prisons and detention centers, maintaining facility security.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种涉及监控、指导和管理监狱及拘留中心囚犯日常生活并维护设施安全的职业。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that involves monitoring, guiding, and managing the daily lives of 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Tuition-free for public high schools） |
-| University (Law, Sociology, etc.) | 4年 | $2,500,000~$4,000,000（About ¥540,000 per year at national/public universities） |
+| 高中文凭 | 3年 | $0~$0（公立高中免学费） |
+| 大学（法律、社会学等） | 4年 | $2,500,000~$4,000,000（国立/公立大学约54万日元/年） |
 
 ---
 
@@ -22,18 +20,18 @@ A profession that involves monitoring, guiding, and managing the daily lives of 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Prison Guard Recruitment Exam | Ministry of Justice | 必备 | National government exam; available for high school and university graduates. |
-| Hazardous Materials Handler | Fire and Disaster Management Agency | 可选 | Useful for managing hazardous materials within facilities |
-| 社会工作者 | Social Welfare Promotion and Examination Center | 可选 | Helpful for supporting inmates' social reintegration |
+| 狱警招聘考试 | 法务部 | 必备 | 国家公务员考试；面向高中和大学毕业生。 |
+| 危险品处理员 | 消防与灾害管理局 | 可选 | 用于管理设施内的危险材料 |
+| 社会工作者 | 社会福利推广与审查中心 | 可选 | 有助于支持囚犯重新融入社会 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. The number of inmates is declining due to aging and population decline, but the importance of security duties remains unchanged. Replacement hiring due to retirement is expected to continue.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。由于老龄化和人口减少，囚犯数量在下降，但安保职责的重要性不变。预计因退休而进行的替代招聘将持续。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A profession that involves monitoring, guiding, and managing the daily lives of 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $4,000,000~$5,000,000 | Includes regional allowances, etc. |
-| Intermediate Level (4-10 years) | $5,000,000~$6,500,000 | Chief Level |
-| Advanced Level (10+ years) | $6,500,000~$8,000,000 | Chief Guard, etc. |
+| 入门级（0-3年） | $4,000,000~$5,000,000 | 包括地区津贴等 |
+| 中级水平（4-10年） | $5,000,000~$6,500,000 | 主管级别 |
+| 高级（10年以上） | $6,500,000~$8,000,000 | 首席警卫等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While surveillance cameras and AI anomaly detection systems enhance efficiency, human judgment and response are still needed for interactions and guidance with inmates.
+虽然监控摄像头和AI异常检测系统提高了效率，但与囚犯的互动和指导仍需要人类判断和响应。
 
-After joining as a prison guard at the entry level, promotion comes through years of service and training. Career paths include security chief, chief guard, and eventually prison management or correctional training instructor.
+监狱看守入职后，通过工龄和培训晋升，职业路径包括安全主管、首席看守，最终可进入监狱管理或矫正培训指导。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Patrol surveillance
-- Roll call confirmation
-- Record keeping
+- 巡逻监控
+- 点名确认
+- 记录保存
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Anomaly detection
-- Risk assessment
-- Schedule management
+- 异常检测
+- 风险评估
+- 时间表管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Psychological response
-- Crisis management judgment
-- Interpersonal relationship building
+- 心理反应
+- 危机管理判断
+- 人际关系建立
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Psychology knowledge
-- Communication skills
-- IT literacy
+- 心理学知识
+- 沟通能力
+- IT素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Security operations
-- Correctional administration
-- Recidivism prevention
-- Facility security
+- 安保运营
+- 矫正管理
+- 预防再犯
+- 设施安保
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Foreign nationals are generally not allowed to become prison officers. Prison officers are Japanese civil servants requiring Japanese citizenship, so this is not applicable. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Outside target field. |
-| Subclass 教授 (Professor) | Possible if engaging in educational activities within correctional facilities, but usually not allowed as it is a civil servant position. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who value discipline
-- People with high stress tolerance
-- People interested in guiding others
+- 重视纪律的人
+- 抗压能力强的人
+- 喜欢指导他人的人
 
 **谁不适合**
-- People who prefer a free workplace
-- People who cannot tolerate monotonous tasks
+- 喜欢自由职场的人
+- 不能忍受单调任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a prison guard?**
-答：Approximately 4 to 5 million yen including regional allowance.
+**问：狱警起薪是多少？**
+答：约400万至500万日元（含地区津贴）。
 
-**问：Can a foreign national become a prison guard in Japan?**
-答：Prison officers are national civil servants, requiring Japanese nationality, so foreigners generally cannot hold this position.
+**问：外国人能在日本当狱警吗？**
+答：监狱官员是国家公务员，需要日本国籍，因此外国人通常不能担任此职位。
 
-**问：How to advance from a guard?**
-答：Through internal exams and training, one can become a manager, transfer to the Ministry of Justice, or become a correctional training instructor.
+**问：如何从保安晋升？**
+答：通过内部考试和培训，可成为管理者、调任至法务部或成为矫正培训教官。
 
 
 ---
@@ -145,12 +135,12 @@ After joining as a prison guard at the entry level, promotion comes through year
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/prison-guard/JP)**

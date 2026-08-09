@@ -53,8 +53,6 @@ Responsible for organizing, coordinating, and supervising the construction of bu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 You can be promoted to project manager, project director, or start your own engineering company, or develop into sustainable construction or large-scale infrastructure project management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted to project manager, project director, or start your own engi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talent, requiring a certain salary level (approximately €41,000/year), granting direct 4-year residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires a minimum salary of €53,940.75 per year (2024 standard), can bring family, eligible for permanent residency after 4 years. |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, and the work permit is valid for the same period as the contract, usually 1-4 years. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typically requires BTS or Licence professionnelle, with engineering school gr
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-works-manager-and-landscaping-works-manager/FR)**

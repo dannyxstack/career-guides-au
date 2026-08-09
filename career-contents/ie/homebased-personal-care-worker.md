@@ -54,8 +54,6 @@ In-home personal carers provide daily living care for the elderly, disabled, or 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Core tasks of home personal care workers such as bathing and emotional companionship are hard to replace, but documentation, medication reminders and scheduling will be greatly enhanced by AI tools, shifting the role towards technology-assisted care.
-
 Entry-level care workers can progress to senior care workers or team leaders through experience; some may obtain a healthcare assistant certificate to enter hospitals or nursing homes, or further study to become social care workers.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level care workers can progress to senior care workers or team leaders thr
 | Subclass General Employment P (General Employment Permit (GEP)) | Applicable to non-EEA carers earning less than €64,000 per year, requires employer sponsorship, limited quota. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit (CSEP)) | Applicable only to senior or management positions with an annual salary above €64,000, eligible for fast-track residence. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires QQI Level 5 Care Certificate, First Aid certificate, and m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/homebased-personal-care-worker/IE)**

@@ -1,10 +1,8 @@
-# Chief/Engine Officer (Excluding Fishing Vessels) 职业分析 · 日本
+# 轮机长/轮机员（不包括渔船）（Chief/Engine Officer (Excluding Fishing Vessels)）职业分析 · 日本
 
-**职业代码: 623 (JSCO)**
+**职业代码：623 (JSCO)**
 
-Specialists operating, maintaining, and managing engines on merchant and passenger ships. Essential for safe navigation as marine engineers.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+操作、维护和管理商船及客船发动机的专家。作为轮机工程师对安全航行至关重要。
 
 
 ---
@@ -13,8 +11,8 @@ Specialists operating, maintaining, and managing engines on merchant and passeng
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Marine Technical School (Specialized Training College) | 2 年 | $1,000,000~$2,000,000（Government funding/scholarships available） |
-| National Institute of Maritime Technology (Junior College Level) | 3年 | $1,500,000~$3,000,000（Advanced education in marine technology） |
+| 海洋技术学校（专业培训学院） | 2 年 | $1,000,000~$2,000,000（可申请政府资助/奖学金） |
+| 国立海事技术学院（大专水平） | 3年 | $1,500,000~$3,000,000（高级海洋技术教育） |
 
 ---
 
@@ -22,18 +20,18 @@ Specialists operating, maintaining, and managing engines on merchant and passeng
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| First-Class Engineer (Limited to Navigational Area) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for large vessels |
-| Second-Class Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for medium vessels |
-| Third-Class Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for small vessels |
+| 一级工程师（限于航区） | 国土交通省 | 必备 | 大型船只必需 |
+| 二级工程师 | 国土交通省 | 必备 | 中型船只所需 |
+| 三级工程师 | 国土交通省 | 必备 | 小型船只必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 12,000. Japan faces an aging seafarer population, with challenges in securing young workers. Both domestic and international shipping are expected to experience ongoing labor shortages.
+**职位需求量：很高（★★★★½）** 全国从业人数约 12,000。日本面临海员老龄化问题，在保障年轻劳动力方面存在挑战。国内外航运预计将持续面临劳动力短缺。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,83 @@ Specialists operating, maintaining, and managing engines on merchant and passeng
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (Assistant Engineer / Third Engineer) | $3,500,000~$5,000,000 | Including onboard duty allowance |
-| Mid-Level (Second Engineer) | $5,000,000~$7,000,000 | Varies by experience and vessel size |
-| Senior Level (First Engineer / Chief Engineer) | $7,000,000~$10,000,000 | Higher on international vessels |
+| 入门级（助理工程师/三管轮） | $3,500,000~$5,000,000 | 包括机上执勤津贴 |
+| 中级（二管轮） | $5,000,000~$7,000,000 | 视经验和船舶大小而定 |
+| 高级（大管轮/轮机长） | $7,000,000~$10,000,000 | 国际船舶上薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-With advances in autonomous ship technology, some monitoring tasks will be automated by AI, but maintenance and emergency response depend on human skill. AI is used as a supplementary tool.
+随着自主船舶技术的进步，一些监控任务将由人工智能自动化完成，但维护和应急响应仍依赖人类技能。人工智能被用作辅助工具。
 
-Promotion from assistant engineer to third, second, and first engineer, then to chief engineer. Large or specialized vessels require further expertise.
+从助理工程师晋升为三级、二级和一级工程师，然后晋升为总工程师。大型或专业船舶需要更多专业知识。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine monitoring
-- Anomaly detection (via AI sensors)
+- 常规监控
+- 异常检测（通过AI传感器）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Engine diagnostics (AI-based predictive maintenance)
-- Fuel optimization control
+- 发动机诊断（基于AI的预测性维护）
+- 燃油优化控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical repair of engine parts
-- Emergency judgment and response
-- Crew leadership
+- 发动机零件的物理维修
+- 紧急判断与应对
+- 船员领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/automation system understanding
-- Data analysis
-- Multi-fuel compatible technology
+- AI/自动化系统理解
+- 数据分析
+- 多燃料兼容技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Maritime transport
-- Coastal vessels
-- Autonomous ships
-- Decarbonized fuel
+- 海上运输
+- 沿海船舶
+- 自主船舶
+- 脱碳燃料
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible as a marine engineer, but qualification requirements are strict |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not eligible, but expected to expand in the future |
-| Subclass 技能 (Skilled Labor) | Harder to qualify compared to cooking, construction, etc. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love machinery and are patient
-- People who don't mind working at sea
-- People with a sense of responsibility to support lifelines
+- 喜欢机械且有耐心的人
+- 不介意海上工作的人
+- 有责任感以支持基础设施运行的人
 
 **谁不适合**
-- People prone to seasickness
-- People who can't tolerate long periods away from land
+- 容易晕船的人
+- 无法忍受长期远离陆地的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a chief engineer?**
-答：Chief engineers earn 7-10 million yen; even higher on foreign vessels. Onboard allowances are generous.
+**问：总工程师的年收入是多少？**
+答：总工程师年薪700-1000万日元；在外籍船上更高。船上津贴优厚。
 
-**问：How can foreigners work in this occupation?**
-答：Japanese maritime license required; Engineer/Specialist in Humanities/International Services visa possible but highly difficult. Not eligible for Specified Skilled Worker.
+**问：外国人如何从事这一职业？**
+答：需要日本海事执照；人文知识/国际业务签证可能但难度很大，不符合特定技能签证资格。
 
-**问：Is it possible to change careers to land-based work?**
-答：Knowledge of marine engines can also be utilized in land-based plants and shipyards.
+**问：能否转行从事陆基工作？**
+答：船舶发动机知识也可用于陆基工厂和造船厂。
 
 
 ---
@@ -143,12 +133,12 @@ Promotion from assistant engineer to third, second, and first engineer, then to 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chief-engine-officer-excluding-fishing-vessels/JP)**

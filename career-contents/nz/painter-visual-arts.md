@@ -53,8 +53,6 @@ Visual arts painters focus on original art creation and sales, often self-employ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools can generate images, optimise colour and composition, but the artist's core creative intent, artistic expression, and emotional resonance are difficult to replace; entry-level competition intensifies, freelance survival pressure increases, but AI assistance can improve efficiency and experimental range.
-
 Career development relies on personal reputation and network of works. Junior painters can accumulate portfolio and exhibition experience; mid-level painters can increase income through gallery representation and commissions; senior painters may gain international recognition, while also transitioning to art teaching, curation, or art management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career development relies on personal reputation and network of works. Junior pa
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually requires a bachelor's degree or higher in visual arts, but not mandat
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-visual-arts/NZ)**

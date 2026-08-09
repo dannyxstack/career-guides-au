@@ -1,8 +1,8 @@
-# UX/UI Designer 职业分析 · 韩国
+# UX/UI设计师（UX/UI Designer）职业分析 · 韩国
 
-**职业代码: 41554 (KECO)**
+**职业代码：41554 (KECO)**
 
-A professional who designs user experience (UX) and user interface (UI) to enhance the usability and aesthetic value of digital products.
+通过用户体验（UX）和用户界面（UI）设计提升数字产品可用性和美学价值的专业人士。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who designs user experience (UX) and user interface (UI) to enhan
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community college/University (Design/UX major) | 3-4年 | $2,000,000~$4,000,000（每年学费） |
-| Bootcamp/Academy | 3-6个月 | $3,000,000~$8,000,000（Employment-linked program） |
+| 社区学院/大学（设计/用户体验专业） | 3-4年 | $2,000,000~$4,000,000（每年学费） |
+| 训练营/学院 | 3-6个月 | $3,000,000~$8,000,000（就业联动计划） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who designs user experience (UX) and user interface (UI) to enhan
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| UX/UI design portfolio | Company internal evaluation | 必备 | Virtually mandatory |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Optional, bonus points |
-| GTQ (Graphic Technology Qualification) | Korea Productivity Center | 可选 | Publishing/web field |
+| UX/UI设计作品集 | 公司内部评估 | 必备 | 几乎强制性 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 可选，加分项 |
+| GTQ（图形技术资格） | 韩国生产力中心 | 可选 | 出版/网络领域 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. Demand is steadily increasing due to digital transformation and IT service expansion. Adapting to new technologies is essential, and job prospects for seniors are bright.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。由于数字化转型和IT服务扩展，需求稳步增长。适应新技术至关重要，高级职位前景光明。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,87 +39,81 @@ A professional who designs user experience (UX) and user interface (UI) to enhan
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$40,000,000 | Small/medium-sized enterprise standard |
-| 中级(3-7年) | $42,000,000~$60,000,000 | Large corporation/IT startup |
-| 高级（7年以上） | $60,000,000~$90,000,000 | Lead/Manager level |
+| 入门级（0-3年） | $28,000,000~$40,000,000 | 中小企业标准 |
+| 中级(3-7年) | $42,000,000~$60,000,000 | 大型企业/IT初创公司 |
+| 高级（7年以上） | $60,000,000~$90,000,000 | 主管/经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI accelerates UI generation and prototyping, but strategic UX research and user understanding remain human domains. Designers who leverage AI as a tool gain a competitive edge.
+AI加速了UI生成和原型设计，但战略性的UX研究和用户理解仍然是人类领域。利用AI作为工具的设计师将获得竞争优势。
 
-Junior (2-5 years) → Senior (5-10 years) → Lead/Manager (10+ years). Portfolio and user research skills are key to promotion.
+初级（2-5年）→高级（5-10年）→主管/经理（10年以上）。作品集和用户研究技能是晋升关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic Wireframe Generation
-- Basic UI Template Design
+- 自动线框生成
+- 基础UI模板设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- User Test Analysis
-- Design System Building
-- A/B Test Design
+- 用户测试分析
+- 设计系统构建
+- A/B测试设计
 
-**人类护城河:**
+**人类护城河：**
 
-- User Empathy
-- Strategic Problem Solving
-- Cross-functional Collaboration
+- 用户同理心
+- 战略性问题解决
+- 跨职能协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- User Research
-- Data Visualization
-- AI Design Tools (e.g., Figma AI Plugins)
+- 用户研究
+- 数据可视化
+- AI设计工具（例如Figma AI插件）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- User Experience
-- UI/UX Trends
-- Service Design
-- Prototyping
+- 用户体验
+- UI/UX趋势
+- 服务设计
+- 原型制作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Possible when employed as a UX designer at a high-tech company or research institute |
-| Subclass F-2 (Residence (F-2-99)) | Long-term stay possible via points system, transition after maintaining E-7 |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with strong user empathy
-- Someone with both visual design and logical thinking
-- Someone who enjoys collaboration and communication
+- 具有强烈用户同理心的人
+- 兼具视觉设计和逻辑思维的人
+- 喜欢协作和沟通的人
 
 **谁不适合**
-- Someone who prefers simple repetitive tasks
-- Someone who cannot accept user feedback
+- 喜欢简单重复性工作的人
+- 无法接受用户反馈的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What to consider when negotiating UX/UI designer salary?**
-答：Experience and portfolio quality are most important. Large corporations offer 50 million KRW or more, startups consider stock options.
+**问：谈判UX/UI设计师薪资时需考虑什么？**
+答：经验和作品集质量最重要。大型企业提供5000万韩元或以上，初创公司考虑股票期权。
 
-**问：What visa does a foreigner need to work as a UX designer in Korea?**
-答：E-7-1 visa is common; requires bachelor's degree and proof of experience. F-2 allows long-term stay.
+**问：外国人在韩国担任UX设计师需要什么签证？**
+答：E-7-1签证常见；需学士学位和经验证明。F-2可长期居留。
 
 
 ---
@@ -137,12 +131,12 @@ Junior (2-5 years) → Senior (5-10 years) → Lead/Manager (10+ years). Portfol
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ux-ui-designer/KR)**

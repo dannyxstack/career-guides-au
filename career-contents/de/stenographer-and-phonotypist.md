@@ -53,8 +53,6 @@ Shorthand writers and voice typists quickly and accurately convert spoken or rec
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With rapid advances in AI voice recognition and automatic transcription, core tasks of stenographers will be largely replaced, entry-level positions will shrink dramatically, and demand for jobs relying solely on transcription will plummet.
-
 Can progress from junior stenographer to senior stenographer or team supervisor, or transition to specialized fields such as court reporter or simultaneous interpreter. Continuing education and certification can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from junior stenographer to senior stenographer or team supervisor,
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers with relevant qualifications to stay in Germany for 1 year to find a job. |
 | Subclass Job Seeker Visa (Jobseeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: AI voice recognition is developing rapidly, but high-precision legal and medi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stenographer-and-phonotypist/DE)**

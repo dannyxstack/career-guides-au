@@ -53,8 +53,6 @@ Hair design and makeup services for performing arts such as film, television, th
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace benchmarking and some makeup processes in hairstyle design, but creativity, communication, and on-site adaptability still rely on humans, with overall risks and opportunities coexisting. Competition for entry-level positions may intensify, but those proficient in AI tools will gain more creative space.
-
 You can advance from junior assistant to chief makeup artist or hairstylist, or transition into special effects makeup, beauty consultant, or education. Building portfolios and industry connections is crucial, and some choose to open their own studios.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior assistant to chief makeup artist or hairstylist, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to artists or freelancers, requiring portfolio and project proof, valid for 4 years |
-| Subclass Salarié (Salarié) | Work residence employed by a French company requires employer sponsorship, with a contract of at least 12 months |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of €53,836 (2024 threshold) is required, applicable to highly skilled employees |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Yes, especially in fashion capitals like Paris, entry-level competition is fi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdressing-and-makeup-for-the-performing-arts/FR)**

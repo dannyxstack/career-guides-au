@@ -52,8 +52,6 @@ Hotel managers are responsible for daily hotel operations, including managing st
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Can progress from department manager to hotel manager, then to regional manager or executive. With experience, can start own business.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from department manager to hotel manager, then to regional manager 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Generally not applicable as it does not meet shortage list criteria |
 | Subclass Stamp 4 (Stamp 4 (Long Term Residency)) | After 5 years of work, can apply for long-term residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from department supervisor to hotel manager, then to regional ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-manager/IE)**

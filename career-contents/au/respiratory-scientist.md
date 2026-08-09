@@ -51,8 +51,6 @@ Respiratory scientists diagnose and treat respiratory diseases by assessing pati
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
-
 Career progression includes moving from junior respiratory scientist to senior clinical specialist, department head, or transitioning into research, teaching, equipment management, etc. Further study can lead to higher qualifications (e.g., sleep medicine).
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression includes moving from junior respiratory scientist to senior c
 | Subclass 190 (Skilled Nominated Visa) | Sponsored by state government, must reside in the sponsoring state |
 | Subclass 482 (Temporary Skill Shortage Visa) | Sponsored by employer, can transition to 186 permanent residence after work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's or master's degree in respiratory science; so
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-scientist/AU)**

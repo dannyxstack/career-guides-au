@@ -4,8 +4,6 @@
 
 As a board-certified anesthesiologist, manages pre- and post-operative anesthesia and pain treatment; as a pathologist, performs diagnosis of tissue samples.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ As a board-certified anesthesiologist, manages pre- and post-operative anesthesi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used to assist in monitoring during anesthesia and pathology diagnosis, but it is difficult to completely replace the doctor's judgment and skills, so the risk of job loss due to AI is low; rather, work efficiency improves.
-
 Intern → Residency (choose Anesthesiology & Pain Medicine or Pathology) → Obtain board certification → Hospital employment or private practice. Promotion to professor or department head.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Intern → Residency (choose Anesthesiology & Pain Medicine or Pathology) → Ob
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for foreign doctors to work at domestic medical institutions upon application, limited |
-| Subclass F-2 (Residence) | Can practice as a doctor with long-term residence status, step before permanent residence |
-| Subclass F-5 (Permanent Residence) | No restrictions on practicing as a doctor as a permanent resident |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: A medical license and board certification in anesthesiology and pain medicine
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anesthesiology-and-pathology-doctor/KR)**

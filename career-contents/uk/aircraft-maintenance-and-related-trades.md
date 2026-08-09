@@ -52,8 +52,6 @@ Install, maintain, overhaul and repair aircraft engines and components, includin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Starting as an apprentice, one can advance to a licensed aircraft engineer, then become a senior maintenance technician or team leader, or move into quality control or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as an apprentice, one can advance to a licensed aircraft engineer, then
 | Subclass Graduate (Graduate visa) | Applicable after completing a UK degree, with a 2-year work permit |
 | Subclass Global Talent (Global Talent visa) | Suitable for technicians with outstanding talent or potential, but with high entry thresholds |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, an EASA Part-66 or CAA license is required for release-to-service mainte
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-and-related-trades/UK)**

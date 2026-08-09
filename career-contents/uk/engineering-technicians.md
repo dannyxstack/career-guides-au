@@ -53,8 +53,6 @@ Engineering technicians provide technical support to engineers, participate in t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will take over routine drafting, data recording, and basic troubleshooting for engineering technicians, but complex system integration, on-site issues, and cross-disciplinary coordination still rely on human experience. Job roles will be reshaped rather than eliminated.
-
 Junior engineering technicians can advance to senior technicians or technical specialists, or become engineers through further study. Some transition to project management or quality control positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior engineering technicians can advance to senior technicians or technical sp
 | Subclass Scale-up (Scale-up visa) | For skilled talent in high-growth enterprises, must meet salary requirements. |
 | Subclass Graduate (Graduate visa) | UK Graduate visa, allows staying to work for 2 years (3 years for PhD). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can obtain employer sponsorship through the Skilled Worker visa or work in hi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-technicians/UK)**

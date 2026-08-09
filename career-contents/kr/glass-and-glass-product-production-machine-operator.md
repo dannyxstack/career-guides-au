@@ -4,8 +4,6 @@
 
 This job involves operating and managing machines that produce glass and glass products, covering the entire process from raw material input to molding, heat treatment, and cutting.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ This job involves operating and managing machines that produce glass and glass p
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of AI and automation technology, simple repetitive tasks are being replaced, reducing labor demand. Automation is rapidly advancing particularly in glass cutting, forming, and inspection processes, shrinking the scope of work.
-
 Initially perform auxiliary tasks, then advance to machine operation and line management after gaining skill. With certifications and experience, can progress to production supervisor or quality control manager.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Initially perform auxiliary tasks, then advance to machine operation and line ma
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional (E-9)) | For unskilled foreign workers, manufacturing only |
-| Subclass E-7 (Specific Activities (E-7)) | Possible if recognized as skilled worker, but limited in glass production |
-| Subclass F-2 (Residence (F-2)) | Long-term stay via points system, if skilled criteria met |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: It is not currently included in the Ministry of Employment and Labor's shorta
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-and-glass-product-production-machine-operator/KR)**

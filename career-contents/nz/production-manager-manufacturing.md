@@ -54,8 +54,6 @@ Production managers plan, coordinate, and control manufacturing plant production
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
-
 Typically promoted from production supervisor or process engineer; with experience, can advance to plant manager or operations director. Some transition to supply chain management or consulting. Holding an engineering or management degree and having a Green List employer sponsor can expedite immigration.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically promoted from production supervisor or process engineer; with experien
 | Subclass SMC (Skilled Migrant Category) | Skilled Migrant Category: 6-point system requires points for qualifications, work experience, or salary; current invitation scores are expected to be high (around 180+ points). |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: if direct residence criteria are not met, can work under this visa and then apply for SMC or Green List T2. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Good. Manufacturing is a pillar of New Zealand's economy, especially food and
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-manager-manufacturing/NZ)**

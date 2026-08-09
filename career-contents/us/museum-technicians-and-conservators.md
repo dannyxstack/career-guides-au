@@ -51,8 +51,6 @@ Responsible for restoration, maintenance, and display preparation of museum coll
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will take over some desk work such as document recording and image analysis, but manual restoration and precision operations still rely on human skills, with mixed overall impact.
-
 Can advance from technician to senior restorer, department head, or chief restorer, or transition to academic research or museum management positions.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance from technician to senior restorer, department head, or chief restor
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to experts with outstanding achievements in art conservation. |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for technician positions, but requires PERM labor certification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: From technician to restorer to department head, clear path but requires exper
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/museum-technicians-and-conservators/US)**

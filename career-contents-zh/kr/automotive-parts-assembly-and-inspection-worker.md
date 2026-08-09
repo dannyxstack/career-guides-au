@@ -1,8 +1,8 @@
-# Automotive Parts Assembly and Inspection Worker 职业分析 · 韩国
+# 汽车零部件装配与检验工（Automotive Parts Assembly and Inspection Worker）职业分析 · 韩国
 
-**职业代码: 81721 (KECO)**
+**职业代码：81721 (KECO)**
 
-A production worker who assembles automotive parts and inspects their quality, working at vehicle and parts manufacturing plants.
+组装汽车零部件并检查其质量的生产工人，在车辆及零部件制造工厂工作。
 
 
 ---
@@ -11,8 +11,8 @@ A production worker who assembles automotive parts and inspects their quality, w
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Entry possible after high school graduation） |
-| Associate degree (2-year) in mechanical engineering | 2 年 | $2,000,000~$4,000,000（Based on tuition fees） |
+| 高中毕业 | 0年 | $0~$0（高中毕业后即可入门） |
+| 机械工程副学士学位（2年制） | 2 年 | $2,000,000~$4,000,000（按学费计算） |
 
 ---
 
@@ -20,17 +20,17 @@ A production worker who assembles automotive parts and inspects their quality, w
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automotive Mechanic Technician | Human Resources Development Service of Korea | 可选 | Helpful for assembly and inspection tasks |
-| Mechanical Assembly Technician | Human Resources Development Service of Korea | 可选 | Preferred certification |
+| 汽车机械技师 | 韩国人力资源开发服务局 | 可选 | 有助于装配和检查任务 |
+| 机械装配技术员 | 韩国人力资源开发服务局 | 可选 | 优先认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 150,000. Employment is expected to stagnate or slightly decrease due to structural changes from the shift to electric vehicles and increased automation, but demand for skilled workers remains.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 150,000。由于向电动汽车转型和自动化程度提高带来的结构性变化，就业预计将停滞或略有下降，但对熟练工人的需求仍然存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,85 +38,78 @@ A production worker who assembles automotive parts and inspects their quality, w
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Monthly 2.33-2.92 million KRW |
-| 中级（4-7年） | $35,000,000~$45,000,000 | Monthly 2.92-3.75 million KRW |
-| 高级（8年+） | $45,000,000~$55,000,000 | Monthly 3.75-4.58 million KRW, line leader level |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 每月233万至292万韩元 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 月薪292万至375万韩元 |
+| 高级（8年+） | $45,000,000~$55,000,000 | 月薪375-458万韩元，线长级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Although AI and robots are replacing simple assembly and inspection tasks, complex adjustments and quality judgments still require human roles. Automation reduces some jobs but creates new ones like maintenance and repair.
+虽然AI和机器人正在取代简单的装配和检查任务，但复杂的调整和质量判断仍需人类角色。自动化减少了一些工作，但创造了维护和修理等新岗位。
 
-Starting as an entry-level assembler, you can advance to skilled worker, line leader, quality inspector, etc.; obtaining certifications is advantageous.
+从初级组装工开始，可以晋升为熟练技工、生产线组长、质检员等；获得认证有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive assembly tasks
-- Visual inspection and simple measurements
+- 简单重复的装配任务
+- 目视检查和简单测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based vision inspection system operation
-- Quality prediction through data analysis
+- 基于人工智能的视觉检测系统操作
+- 通过数据分析进行质量预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex part adjustments and fine repairs
-- Emergency response and problem solving
+- 复杂零件调整与精细维修
+- 应急响应和问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot operation
-- Quality data analysis
-- Understanding of smart factory systems
+- 机器人操作
+- 质量数据分析
+- 对智能工厂系统的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicle transition
-- Smart factory automation
-- Advanced quality inspection
-- Skilled labor shortage
+- 电动车转型
+- 智能工厂自动化
+- 高级质量检验
+- 技术工人短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issuable for unskilled production jobs; employed by automotive parts manufacturers |
-| Subclass E-7 (E-7 (Specific Activities)) | Required for skilled foreign workers, such as automotive parts inspection |
-| Subclass F-2 (Residence (F-2)) | Long-term residence possible via points system, conversion for skilled workers |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and dexterous
-- Patient with repetitive tasks
+- 注重细节且手巧
+- 对重复性任务有耐心
 
 **谁不适合**
-- Dislikes simple repetitive work
-- Cannot tolerate static work
+- 不喜欢简单重复工作
+- 无法忍受静态工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Starting annual salary is approx. 28-35 million KRW (pre-tax), plus overtime/night shift allowances.
+**问：起薪是多少？**
+答：起薪约2800-3500万韩元（税前），另加加班/夜班津贴。
 
-**问：Are there visas for foreigners to work?**
-答：E-9 (Non-professional Employment) visa allows employment in manufacturing, can convert to E-7 or F-2 after gaining skills.
+**问：外国人是否有工作签证？**
+答：E-9（非专业就业）签证允许在制造业工作，掌握技能后可转为E-7或F-2签证。
 
 
 ---
@@ -134,12 +127,12 @@ Starting as an entry-level assembler, you can advance to skilled worker, line le
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-parts-assembly-and-inspection-worker/KR)**

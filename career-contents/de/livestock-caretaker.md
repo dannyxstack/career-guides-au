@@ -53,8 +53,6 @@ Livestock caretakers are responsible for daily feeding, health management, and b
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 Career progression includes moving up to herd manager, farm supervisor, or through further training becoming a veterinary technician or agricultural consultant. Self-employment in farming is also possible.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression includes moving up to herd manager, farm supervisor, or throu
 | Subclass Skilled Worker (Skilled Worker (Fachkräfteeinwanderungsgesetz)) | Requires a recognized German vocational qualification or equivalent degree; can apply for a work visa. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job search in Germany for one year without a job contract; language and qualifications required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires completing 3-year dual vocational training (Ausbildung zum T
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-caretaker/DE)**

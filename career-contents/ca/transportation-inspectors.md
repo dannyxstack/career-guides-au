@@ -51,8 +51,6 @@ Transportation inspectors oversee public transit and freight operations, ensurin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Part of transport inspector work is automated by AI (e.g., data auditing), but on-site inspections, accident investigations etc. rely on human judgment and communication, so risks and opportunities coexist.
-
 Career progression includes moving from junior inspector to senior inspector, and then to management roles such as operations supervisor or safety manager. Some may transition to policy development or training positions.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression includes moving from junior inspector to senior inspector, an
 | Subclass PNP (Provincial Nominee Program) | Obtain extra points through provincial nomination programs, such as Ontario, BC, etc. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer-sponsored immigration, suitable for those with employer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, it falls under NOC 22224 and generally meets FSW or CEC requirements. La
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-inspectors/CA)**

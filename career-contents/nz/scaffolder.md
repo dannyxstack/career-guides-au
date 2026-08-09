@@ -54,8 +54,6 @@ Scaffolders erect and dismantle temporary work platforms, providing safe elevate
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Scaffolders are relatively less affected by AI overall, but design planning may be optimized; on-site physical work and safety judgment remain core, with stable demand.
-
 Experienced scaffolders can advance to foreman, supervisor, safety consultant, or self-employed contractor. Some transition to scaffolding inspection or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Experienced scaffolders can advance to foreman, supervisor, safety consultant, o
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled Migrant Category: based on 6-point system, scaffolders are a registered occupation, potentially scoring high after qualification. Requires age, English, health, and character. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa: work for a specific employer for 3 years, can transition to residency. Requires employer sponsorship, meet salary and skill requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must have a Site Safe card; BCITO scaffolding certificate recommended. Immigr
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/scaffolder/NZ)**

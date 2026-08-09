@@ -1,10 +1,8 @@
-# Loading and Unloading Workers 职业分析 · 韩国
+# 装卸工（Loading and Unloading Workers）职业分析 · 韩国
 
-**职业代码: 62441 (KECO)**
+**职业代码：62441 (KECO)**
 
-This occupation involves loading, unloading, and moving cargo at ports, airports, logistics centers, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及在港口、机场、物流中心等地装卸和搬运货物。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves loading, unloading, and moving cargo at ports, airports
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or less | 0年 | $0~$0（No specific education required） |
-| Forklift Operator Certificate | 3个月 | $300,000~$500,000（Including tuition fees） |
+| 高中文凭或以下 | 0年 | $0~$0（No specific education required） |
+| 叉车操作员证书 | 3个月 | $300,000~$500,000（含学费） |
 
 ---
 
@@ -22,16 +20,16 @@ This occupation involves loading, unloading, and moving cargo at ports, airports
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operator Certificate | Human Resources Development Service of Korea | 可选 | Essential on site |
+| 叉车操作员证书 | 韩国人力资源开发服务局 | 可选 | 现场必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Due to increasing freight volume and an aging population, demand for labor persists, but automation is expected to reduce simple manual jobs.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。由于货运量增加和人口老龄化，劳动力需求持续存在，但自动化预计将减少简单体力工作。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +37,85 @@ This occupation involves loading, unloading, and moving cargo at ports, airports
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Starting pay at legal minimum wage level |
-| Intermediate (3–7 years) | $30,000,000~$38,000,000 | Increases with night shift allowances |
-| Advanced (7+ years) | $38,000,000~$48,000,000 | With special certifications like crane |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 起薪为法定最低工资水平 |
+| 中级（3-7年） | $30,000,000~$38,000,000 | 随夜班补贴增加 |
+| 高级（7年以上） | $38,000,000~$48,000,000 | 持有特殊证书如起重机 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the introduction of AI and automation technology, simple loading and unloading tasks will gradually be replaced by robots or automated systems. In particular, as conveyor belts, autonomous forklifts, and drone inventory management become more widespread, the demand for human labor is decreasing, and remaining tasks are expected to shift to inspection and maintenance.
+随着AI和自动化技术的引入，简单的装卸任务将逐渐被机器人或自动化系统取代。特别是随着传送带、自动叉车和无人机库存管理的普及，对人力的需求正在减少，剩余任务预计将转向检查和维护。
 
-Even inexperienced workers can be hired, but with skill, obtaining forklift and crane certifications can lead to higher-paying specialized handling jobs.
+即使无经验也可雇用，但通过技能获得叉车和起重机认证可带来更高薪酬的专业化操作工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Cargo Sorting
-- Repetitive Manual Moves
-- Basic Inventory Checking
+- 简单货物分拣
+- 重复性手动操作
+- 基本库存检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automation Equipment Monitoring
-- AI Logistics Optimization System Operation
-- Safety Inspection and Equipment Maintenance
+- 自动化设备监控
+- AI物流优化系统运营
+- 安全检查与设备维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Hazardous Material Handling Judgment
-- Atypical Cargo Handling Skills
-- Teamwork and Communication
+- 危险物料处理判断
+- 非常规货物处理技能
+- 团队合作与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automation Equipment Operation
-- Data Analysis Skills
-- Safety Management and Risk Response
+- 自动化设备操作
+- 数据分析技能
+- 安全管理与风险应对
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of logistics centers
-- Port automation
-- Increase in night work
-- Replacement of Aging Workforce
+- 物流中心扩张
+- 港口自动化
+- 夜班增加
+- 劳动力老龄化替代
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issued limitedly to logistics industry outside manufacturing, construction, and agriculture |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for some port handling as skilled worker |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans, eligible for logistics jobs |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit individuals
-- People comfortable with night and weekend work
-- People good at repetitive tasks
+- 身体健康者
+- 能适应夜班和周末工作的人
+- 善于重复性工作的人
 
 **谁不适合**
-- People who avoid physical labor
-- People sensitive to safety accidents
+- 避免体力劳动的人
+- 对安全事故敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of loading and unloading workers?**
-答：Starting salary is around 24 million KRW, reaching up to 48 million KRW depending on experience and qualifications. Including night and special work allowances, it can be higher.
+**问：装卸工人的平均工资是多少？**
+答：起薪约2400万韩元，根据经验和资质可达4800万韩元。包含夜间和特殊工作津贴后可能更高。
 
-**问：Can foreigners work as loading and unloading workers?**
-答：Partially possible with an E-9 visa, but mainly requires experience in logistics centers or ports. E-7 visa is issued to skilled workers, and overseas Koreans with H-2 visa can also work.
+**问：外国人可以从事装卸工工作吗？**
+答：持有E-9签证部分可能，但主要需要在物流中心或港口有经验。E-7签证发放给熟练工人，海外韩裔持有H-2签证也可工作。
 
-**问：How can one get promoted in this occupation?**
-答：Obtaining relevant licenses such as forklift or crane and gaining experience can lead to promotion to team leader or logistics manager.
+**问：如何在这个职业中获得晋升？**
+答：取得叉车或起重机等相关执照并积累经验，可晋升为组长或物流经理。
 
 
 ---
@@ -143,12 +133,12 @@ Even inexperienced workers can be hired, but with skill, obtaining forklift and 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/loading-and-unloading-workers/KR)**

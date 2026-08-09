@@ -4,8 +4,6 @@
 
 Dentists are responsible for diagnosing, preventing, and treating oral diseases and dental deformities, performing procedures such as fillings, extractions, root canal treatments, restorations, and orthodontics, and are regulated professions within the French healthcare system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Dentists are responsible for diagnosing, preventing, and treating oral diseases 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Typically, you start as a dental assistant or intern, and later you can practice independently or partner to open a clinic. Experienced dentists can specialize in orthodontics, oral surgery, or enter teaching and research fields.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Typically, you start as a dental assistant or intern, and later you can practice
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents who must obtain a French employer contract or project invitation, valid for 4 years, renewable with the option to apply. |
-| Subclass Salarié (Employee Work Permit) | A work contract must be provided by a French employer, reviewed by the Labor Bureau, usually renewed for one year, and can be converted to long-term contract. |
-| Subclass Carte bleue UE (EU Blue Card) | Must meet annual salary requirements (about €53,485, 2023), suitable for high-paying dentists, and can quickly convert to permanent residency. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Common specialties include orthodontics, oral surgery, periodontology, pediat
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/FR)**

@@ -53,8 +53,6 @@ Responsible for monitoring and operating pulp production equipment, including pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The overall risk for pulp and paper equipment operators is moderately low: automation can take over routine monitoring and parameter adjustments, but handling equipment anomalies, mechanical maintenance, and process optimization still require human experience, with AI serving more as an enhancement rather than a replacement.
-
 Junior operators can be promoted to team leader or production supervisor, and by obtaining professional qualifications (such as CQP), they can transition to quality control or process optimization positions. Some experienced candidates may join the technical team of the equipment supplier.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior operators can be promoted to team leader or production supervisor, and by
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract must be provided by a French employer, approved by the labor bureau for shortage occupations, and applicable to applicants outside the EU. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to high-skilled positions such as engineers or management, with an annual salary of over approximately 35,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for higher education holders, with an annual salary threshold of about 43,000 euros, allowing for fast-track residency. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can be promoted to team leader or production supervisor, or through train
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-and-paper-plant-operator/FR)**

@@ -52,8 +52,6 @@ Other service support occupations cover various service roles such as cleaners, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Other service support roles face significant automation risk; AI/robots replace repetitive tasks such as cleaning and handling, leading to a decline in entry-level positions.
-
 Practitioners typically start in entry-level positions and, with experience, advance to team leader or supervisor roles; some transition to specialized service areas such as household management or facility maintenance
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Practitioners typically start in entry-level positions and, with experience, adv
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Extremely low possibility, as it is a low-skilled occupation and generally do
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-service-support-occupations/CA)**

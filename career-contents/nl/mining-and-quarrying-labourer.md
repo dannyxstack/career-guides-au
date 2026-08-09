@@ -50,8 +50,6 @@ Mining and quarrying laborers assist in extracting, loading, and transporting or
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Physically demanding tasks in mining and quarrying (e.g., loading, transport) will be significantly reduced by automation systems, leading to a sharp decline in demand for these roles, though high-risk tasks like blasting still require human supervision.
-
 Career advancement for such roles is limited; typically, one can progress to operator or team leader but requires additional training and experience. Most workers remain in front-line manual jobs long-term.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career advancement for such roles is limited; typically, one can progress to ope
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Suitable for high-skilled migration, but labor-type positions usually do not meet the salary threshold. |
-| Subclass EU Blue Card (EU Blue Card) | High salary demands, not applicable for manual labor. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Only for international graduates from the Netherlands, allowing one year of free work |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Due to environmental policies and industry contraction, job opportunities are
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-quarrying-labourer/NL)**

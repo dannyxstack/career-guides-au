@@ -53,8 +53,6 @@ Teaches personal interest or leisure skills for non-vocational purposes, such as
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Self-enrichment teachers face a medium risk of AI replacement: standardized content (e.g., basic language, music theory) is easily automated, but personalized interaction, creative inspiration, and emotional support are core moats. Overall, it's a mixed outlook, with entry-level roles shrinking due to AI tools.
-
 Can progress from part-time teacher to curriculum coordinator or program coordinator, some move into adult education management or start their own training studio.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from part-time teacher to curriculum coordinator or program coordin
 | Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, requires a bachelor's degree with a relevant major, usually not meeting professional occupation requirements. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Only a very few outstanding artists or teachers may qualify, with very high thresholds. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Not suitable; employer sponsorship is difficult, usually does not meet H-1B s
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/selfenrichment-teachers/US)**

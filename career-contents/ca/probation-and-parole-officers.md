@@ -50,8 +50,6 @@ Probation and parole officers supervise offenders sentenced to probation or rele
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Correctional service officers face high supervision and complex interpersonal interactions, making core safety duties hard to replace by AI; but administrative paperwork, monitoring data analysis, etc., will be automated, potentially shrinking demand; need to upgrade technical and social work skills.
-
 Typically start as an assistant or junior probation officer, gain experience, then advance to senior probation officer, team leader, or regional manager. Some move into policy development, training, or forensic social work.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Typically start as an assistant or junior probation officer, gain experience, th
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs, especially suitable for applicants with a provincial government job offer |
 | Subclass LMIA (Labour Market Impact Assessment) | If employer-sponsored, immigration via LMIA work visa is possible |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Promotion from junior probation officer to senior probation officer, team lea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/probation-and-parole-officers/CA)**

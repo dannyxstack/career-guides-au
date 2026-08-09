@@ -4,8 +4,6 @@
 
 Responsible for text coding, proofreading, and correction of manuscripts or printed materials to ensure accurate layout. Usually works in publishers, printing plants, or media organizations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for text coding, proofreading, and correction of manuscripts or prin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI-assisted automatic proofreading and code generation tools will significantly reduce the number of traditional coders and proofreaders, but high-end positions proficient in AI proofreading system configuration and multilingual text review will still be in demand.
-
 You can be promoted from junior proofreader to senior proofreader or typesetting supervisor, or move to positions such as digital content editing or quality control. Those with multilingual skills or a technical background have an advantage.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ You can be promoted from junior proofreader to senior proofreader or typesetting
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | For employment-based residence, you must obtain a work contract with a Spanish company, and the position must meet market demand. |
-| Subclass Busqueda empleo (Job Search Visa) | Job seeker visas allow highly educated individuals to stay in Spain for 6 months looking for work. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: It's very difficult. This occupation is not considered a shortage occupation 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coders-and-proofreaders/ES)**

@@ -52,8 +52,6 @@ Water transport marine engineers and marine officers operate, maintain, and mana
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Entry-level positions (such as Third Engineer) typically require sea service and certification accumulation. Through experience and promotion exams, one can advance to Second and Chief Engineer, ultimately serving as Senior Chief Engineer. Some marine engineers transition to shore-based management or maritime education roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level positions (such as Third Engineer) typically require sea service and
 | Subclass LMIA (Labour Market Impact Assessment) | If employers have difficulty recruiting Canadians, they can apply for LMIA to support work visas or immigration |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic province employer-sponsored immigration, suitable for marine engineers with a local job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, must hold a Marine Engineer Certificate issued by Transport Canada; diff
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineer-officers-water-transport/CA)**

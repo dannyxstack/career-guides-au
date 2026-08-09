@@ -4,8 +4,6 @@
 
 Inquiry officers provide information, handle inquiries, and assist customers in retail, tourism, and public service institutions in the Netherlands; they are entry-level customer service roles.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Inquiry officers provide information, handle inquiries, and assist customers in 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Inquiry agents face high automation risk in the Netherlands; AI chatbots and self-service inquiry systems will replace most information provision and basic query handling, leading to a significant reduction in positions, lower entry barriers, but fewer job opportunities.
-
 Inquiry clerks can advance to senior customer service representatives, customer service supervisors, or managers, and may also transition to sales or administrative roles. Requires building communication and problem-solving skills.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Inquiry clerks can advance to senior customer service representatives, customer 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Requires employer sponsorship and meeting the minimum salary threshold (approx. €5,331/month in 2024); inquiry officers usually do not meet salary requirements. |
-| Subclass Orientation Year (Orientation Year) | Applicable to non-EU graduates from Dutch universities or the world's top 200 universities, allowing one year of free work to find a high-skilled position. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can advance from inquiry officer to customer service supervisor, manager, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/inquiry-clerk/NL)**

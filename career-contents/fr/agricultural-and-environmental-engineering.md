@@ -52,8 +52,6 @@ Agricultural and environmental engineers are responsible for designing and manag
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mining engineers will not be replaced by AI; instead, AI improves efficiency in mine design, automated scheduling, and geological modeling, shifting roles from manual planning to strategic oversight, with strong industry demand.
-
 Junior engineers can work as project assistants or technicians, and after gaining experience, can be promoted to project manager or expert. Senior engineers can serve as technical directors or independent consultants, or develop into research and teaching directions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior engineers can work as project assistants or technicians, and after gainin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens who must meet the French annual threshold (approximately 53,685 euros, 2024) and hold an engineering diploma or equivalent qualification. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to talents, including engineers and researchers, holding a master's degree or equivalent without labor permits, valid for 4 years. |
-| Subclass Salarié (Employee Work Permit) | Applicable to ordinary jobs sponsored by French employers, subject to review by the Labor Bureau, with no strict annual salary threshold but must meet minimum wage. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Agricultural and environmental engineers are not strictly regulated in France
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-environmental-engineering/FR)**

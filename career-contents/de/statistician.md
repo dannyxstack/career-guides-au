@@ -52,8 +52,6 @@ Statisticians collect, analyze, and interpret data to support decision-making in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Career development typically starts as a junior data analyst or statistical assistant, progressing to senior statistician or team leader at the mid-level, and advancing to chief data scientist or head of statistics at the senior level; it can also pivot toward data science or machine learning.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development typically starts as a junior data analyst or statistical assi
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to statistical professionals with German-recognized qualifications or credentials, requiring a job contract. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing job seekers without a work contract to find work in Germany (planned for 2023). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Primarily employed in insurance and finance (risk analysis), market research 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistician/DE)**

@@ -52,8 +52,6 @@ University administrative staff work in student services, curriculum and exams, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI impact on university administrative work is mixed: large volumes of documentation and data processing can be automated, but core duties involving student communication, policy judgment, and cross-department coordination still require human judgment; jobs won't be replaced in the short term, but work content and skill requirements will change significantly.
-
 Pathway: Administrative Officer (HEW4-6) → Coordinator/Manager (HEW7-9); income determined by professional direction (research management/student services).
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Pathway: Administrative Officer (HEW4-6) → Coordinator/Manager (HEW7-9); incom
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No, it's a local administrative role, not on the skilled migration list.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-administrator/AU)**

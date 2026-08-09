@@ -53,8 +53,6 @@ Florists design, create, and sell floral and plant decorations, including bouque
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly simplify the execution of floral design but cannot replace creativity and customer interaction; overall risk is manageable, requiring proactive adoption of tools to improve efficiency.
-
 Apprentices can advance to head florist or store manager; with experience, can open their own flower shop; by passing the master exam, become a Floristmeister, able to train apprentices or operate large flower shops.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Apprentices can advance to head florist or store manager; with experience, can o
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: After completing 3 years of dual-system training, attend 1-2 years of full-ti
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/florist/DE)**

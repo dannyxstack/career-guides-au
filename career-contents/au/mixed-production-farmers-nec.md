@@ -52,8 +52,6 @@ Manage mixed crop and livestock farming, including grains, oilseeds, vegetables,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 A common path starts as a farm worker or assistant, gains experience, then advances to farm manager or partner, eventually possibly owning or leasing a farm. Other directions include agricultural consulting, agri-finance, and agri-processing. Management skills can be enhanced through agricultural degrees or short courses, and industry organizations provide resources.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ A common path starts as a farm worker or assistant, gains experience, then advan
 | Subclass 482 (Temporary Skill Shortage Visa) | Temporary Skill Shortage visa, employer-sponsored, requires occupation on MLTSSL or SROL. Eligible for 186 after 3 years of work. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional skilled work visa, requires state sponsorship, live and work in a specified regional area, then can apply for 191 permanent residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the MLTSSL and CSOL, eligible for immigration through S
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-production-farmers-nec/AU)**

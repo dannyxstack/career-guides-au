@@ -4,8 +4,6 @@
 
 This occupation involves protecting facilities such as apartments, buildings, and factories, performing crime prevention and disaster prevention tasks, and operating security systems.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ This occupation involves protecting facilities such as apartments, buildings, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation technologies are replacing simple security tasks like CCTV monitoring and access control, reducing manpower demand, but tasks requiring on-site response and human judgment are still needed.
-
 Starting as a junior security guard, promotion possible to field team leader, control team leader, and site manager; special security benefits from experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -91,18 +87,9 @@ Starting as a junior security guard, promotion possible to field team leader, co
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Limited employment possible only under the Employment Permit System for non-professional foreign workers |
-| Subclass E-7 (Specific Activities) | Possible only when specialized skills like special security are required, but very rare |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work in the security industry |
-| Subclass F-2 (Residence) | No employment restrictions at the stage before obtaining permanent residency |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +133,12 @@ A: After obtaining a security instructor certificate, you can be promoted to man
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/facilityspecial-security-guard/KR)**

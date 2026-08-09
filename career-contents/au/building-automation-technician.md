@@ -54,8 +54,6 @@ A Building Management System (BMS) Technician installs, commissions, programmes,
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Building automation technicians have mixed prospects: AI will take over programming, configuration, and fault diagnosis, but on-site installation, commissioning, and complex system integration still require human decisions. Market demand grows due to green building and data center expansion.
-
 IoT and IP-based BMS (BACnet/Modbus/KNX) are replacing traditional proprietary systems, and BMS technicians with an IT background command significant salary premiums. Data centre BMS specialists are the most sought-after niche in the market.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ IoT and IP-based BMS (BACnet/Modbus/KNX) are replacing traditional proprietary s
 | Subclass 189 (Skilled Independent) | Points-tested independent migration |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Not required. An electrician's licence plus BMS vendor certification is suffi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-automation-technician/AU)**

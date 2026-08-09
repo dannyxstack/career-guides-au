@@ -53,8 +53,6 @@ Beauticians provide facial treatments, makeup, nail services, hair removal, and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Beauticians face a mix of task reduction and enhancement from AI tools; standardized services can be automated, but personalized consultation and manual techniques remain core human strengths.
-
 Practitioners can progress from junior beautician to senior beautician, beauty supervisor, or store manager, or specialize through further training (e.g., medical aesthetics, cosmetics R&D) or start their own beauty salon.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Practitioners can progress from junior beautician to senior beautician, beauty s
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa for finding employment, requires qualification recognition as equivalent to German standards |
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain German-recognized vocational qualifications and employer offer; beautician is a training occupation requiring certification |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to senior beautician, beauty supervisor, store manager, or pursue
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cosmeticians/DE)**

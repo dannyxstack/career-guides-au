@@ -53,8 +53,6 @@ Psychologists study human behavior and mental processes, helping individuals cop
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on psychologists is mixed: automation changes data collection and reporting, but core diagnosis, treatment, and ethical judgments still require humans; AI is more of an enhancement than a replacement.
-
 Psychologists can progress from junior roles to senior psychologist, team leader, or independent practice. Further study can lead to clinical or counseling psychology specialization.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Psychologists can progress from junior roles to senior psychologist, team leader
 | Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations or annual salaries below €32,000, but psychologists can usually apply for Critical Skills |
 | Subclass EU Blue Card (EU Blue Card) | Requires a high-skilled job offer with an annual salary of ≥€32,000 (or €64,000). Favorable for long-term residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: CORU registration required, usually needing qualifications equivalent to Iris
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychologist/IE)**

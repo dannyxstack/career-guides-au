@@ -52,8 +52,6 @@ Select and fit hearing aids for hearing-impaired clients, conduct hearing tests 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on hearing aid dispensers is mixed: automated hearing tests and remote adjustments will replace some routine tasks, but personalized fitting, client relationship management, and complex hearing solution design still rely on humans, and AI enhancement can make diagnostics more precise and services more efficient.
-
 Entry-level starts as an Audiometric Technician, gain experience to become a Senior Hearing Aid Specialist or Audiology Center Supervisor. Continuing education to obtain an Audiologist degree can expand into clinical audiology diagnostics and rehabilitation.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level starts as an Audiometric Technician, gain experience to become a Sen
 | Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or bachelor's + 5 years experience, PERM labor certification process |
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires 2 years of experience or training, PERM labor certification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most states require at least an associate degree and passing a licensing exam
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hearing-aid-specialists/US)**

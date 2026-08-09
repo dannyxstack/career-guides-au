@@ -53,8 +53,6 @@ Process engineers design and optimise industrial production processes, serving t
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks for process engineers—process modeling, data analysis, and documentation—are rapidly being replaced by AI automation tools, but on-site optimization, safety compliance, and cross-team coordination remain human-led. Entry-level roles are significantly narrowing, while experience value increases.
-
 Digital twin technology and process simulation software (Aspen, HYSYS) are widely adopted, with AI-assisted process optimisation emerging as a new trend. Oil and gas experience transfers readily into mining and renewable energy sectors, broadening career pathways.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Digital twin technology and process simulation software (Aspen, HYSYS) are widel
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination; WA/QLD open |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: WA and QLD have the strongest demand from mining and oil & gas sectors. Seek 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/process-engineer/AU)**

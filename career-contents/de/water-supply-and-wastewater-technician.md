@@ -52,8 +52,6 @@ Responsible for the operation, maintenance, and monitoring of drinking water sup
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate monitoring and data recording, but pipeline repairs, on-site emergencies, and compliance responsibilities still rely on humans. The role is generally stable, but entry barriers are narrowing due to increased digital skill requirements.
-
 Technicians can advance to pipeline supervisor, water plant operations manager, or become a water engineer through further education (requires bachelor's degree or equivalent).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Technicians can advance to pipeline supervisor, water plant operations manager, 
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to those who have completed a recognized vocational training in Germany or equivalent qualification, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa that allows entry to look for work before obtaining sponsorship. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Vocational schools are tuition-free, training companies provide allowances, a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-supply-and-wastewater-technician/DE)**

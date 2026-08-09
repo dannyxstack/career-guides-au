@@ -1,8 +1,8 @@
-# Electrical/Electronic Engineer (R&D) 职业分析 · 日本
+# 电气/电子工程师（研发）（Electrical/Electronic Engineer (R&D)）职业分析 · 日本
 
-**职业代码: 072 (JSCO)**
+**职业代码：072 (JSCO)**
 
-Engineers engaged in R&D of electrical/electronic circuits, semiconductors, and communication equipment. Responsible for product design, prototyping, and evaluation.
+从事电气/电子电路、半导体和通信设备研发的工程师。负责产品设计、原型制作和评估。
 
 
 ---
@@ -11,9 +11,9 @@ Engineers engaged in R&D of electrical/electronic circuits, semiconductors, and 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Faculty of Engineering, Electrical and Electronic Engineering) | 4年 | $4,000,000~$6,000,000（Varies between national/public and private universities） |
-| Graduate School (Master's Program) | 2 年 | $2,000,000~$4,000,000（Deepen specialization further） |
-| Technical College (Electrical and Electronic Engineering) | 5年 | $1,000,000~$2,000,000（Early practical education） |
+| 大学（工程学院，电气与电子工程） | 4年 | $4,000,000~$6,000,000（国立/公立和私立大学之间有所不同） |
+| 研究生院（硕士课程） | 2 年 | $2,000,000~$4,000,000（进一步深化专业化） |
+| 技术学院（电气与电子工程） | 5年 | $1,000,000~$2,000,000（早期实践教育） |
 
 ---
 
@@ -21,18 +21,18 @@ Engineers engaged in R&D of electrical/electronic circuits, semiconductors, and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Electrical and Electronic Engineering) | Japan Society of Professional Engineers | 可选 | Advanced expertise and practical experience |
-| Chief Electrical Engineer | Ministry of Economy, Trade and Industry | 可选 | Required for electrical facilities of a certain scale |
-| TOEIC 800 or above | ETS | 可选 | Advantageous at foreign-affiliated or global companies |
+| 专业工程师（电气与电子工程） | Japan Society of Professional Engineers | 可选 | 高级专业知识和实践经验 |
+| 首席电气工程师 | 经济产业省 | 可选 | 一定规模的电气设施需要 |
+| TOEIC 800分以上 | ETS | 可选 | 在外资或全球公司有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Due to rising demand for electronics, semiconductors, and electric vehicles, stable employment is expected. Professionals adaptable to technological innovation are sought.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于电子、半导体和电动汽车需求上升，预计就业稳定。适应技术创新的专业人士备受青睐。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,96 +40,89 @@ Engineers engaged in R&D of electrical/electronic circuits, semiconductors, and 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,500,000~$5,000,000 | Average new graduate university graduate |
-| Mid-Level (3-7 years) | $5,000,000~$7,000,000 | 经验丰富后增长 |
-| Veteran (7+ years) | $7,000,000~$12,000,000 | Higher for management/specialist roles |
+| 初级 (0-3年) | $3,500,000~$5,000,000 | 应届大学毕业生平均薪资 |
+| 中级（3-7年） | $5,000,000~$7,000,000 | 经验丰富后增长 |
+| 资深（7年以上） | $7,000,000~$12,000,000 | 管理层/专业职位更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-Advances in AI-driven design automation and simulation will replace some routine tasks, but human judgment is needed for new technology development and creative design. Skills in leveraging AI will become crucial.
+AI驱动的设计自动化和仿真进步将取代一些常规任务，但新技术开发和创意设计仍需人工判断。利用AI的技能将变得至关重要。
 
-Accumulate experience as an engineer, then advance to project leader, chief engineer, or management. Specialization enables career growth.
+积累工程师经验，然后晋升为项目负责人、总工程师或管理层。专业化有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Executing circuit simulations
-- Data analysis
-- Applying standard design patterns
-- Test automation
+- 执行电路仿真
+- 数据分析
+- 应用标准设计模式
+- 测试自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Generating and evaluating AI-driven design proposals
-- Interpreting simulation results
-- Developing optimization algorithms
-- Fault prediction
+- 生成与评估AI驱动的设计方案
+- 解读模拟结果
+- 开发优化算法
+- 故障预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving
-- Overall system design decisions
-- Gathering and realizing customer requirements
-- Cross-domain knowledge
+- 创造性解决问题
+- 整体系统设计决策
+- 收集并实现客户需求
+- 跨领域知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning/AI Skills
-- Programming (Python, C++)
-- Systems Engineering Mindset
+- 机器学习/AI技能
+- 编程（Python, C++）
+- 系统工程思维
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductor
-- Electric vehicles
-- Renewable energy
-- Robots
+- 半导体
+- 电动汽车
+- 可再生能源
+- 机器人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years experience; falls under electrical/electronic engineer work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently not eligible for electrical/electronic engineers, but may expand in future. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based system favoring high income, education, research achievements; advantageous for PR. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Logical thinkers
-- People interested in manufacturing
-- Those who embrace continuous learning
+- 逻辑思考者
+- 对制造业感兴趣的人
+- 拥抱持续学习的人
 
 **谁不适合**
-- People who dislike change
-- Those not good at teamwork
+- 不喜欢变化的人
+- 不擅长团队合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the median annual income for electrical/electronic engineers (development)?**
-答：Depending on experience, the median is around 6 million JPY for mid-career and 8 million JPY for veterans. Large companies and the semiconductor industry tend to have higher figures.
+**问：电气/电子工程师（开发）的年薪中位数是多少？**
+答：根据经验，中位数约为600万日元（中期职业）和800万日元（资深）。大公司和半导体行业数字通常更高。
 
-**问：Can foreigners work as electrical/electronic engineers in Japan?**
-答：Yes. The 'Engineer/Specialist in Humanities/International Services' visa status is required, with conditions such as graduation from an engineering faculty or over 10 years of practical experience. Japanese language ability is also important.
+**问：外国人在日本能从事电气/电子工程师工作吗？**
+答：是的。需要“工程师/人文/国际服务专家”签证身份，条件包括毕业于工程院系或超过 10 年实践经验。日语能力也很重要。
 
-**问：What certifications are useful for career advancement?**
-答：Professional Engineer (Electrical/Electronic), Electrical Chief Engineer, and PMP are effective. Additionally, English proficiency (TOEIC 800+) is advantageous for promotion in global companies.
+**问：哪些认证对职业发展有用？**
+答：专业工程师（电气/电子）、电气总工程师和PMP有效。此外，英语能力（TOEIC 800+）有助于在全球公司晋升。
 
 
 ---
@@ -147,12 +140,12 @@ Accumulate experience as an engineer, then advance to project leader, chief engi
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-electronic-engineer-rd/JP)**

@@ -53,8 +53,6 @@ In France, this profession mainly involves manufacturing composite parts such as
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Composite material parts manufacturers face high risks of automated substitution, especially repetitive tasks such as laying and finishing; At the same time, AI can enhance productivity in process optimization, quality inspection, and other areas, but skill upgrades are needed.
-
 Career path: Advance from operator to production supervisor, process engineer, or quality manager. You can also transition to composite design or R&D positions through continuing education.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career path: Advance from operator to production supervisor, process engineer, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee) | Employed work residence permits, applicable to those signing long-term contracts with French companies, require obtaining a work permit (Autorisation de travail). |
-| Subclass Passeport Talent (Talent Passport) | Talent Passport, applicable to senior technical professionals or high-paying positions (annual salary not less than about 45,000 euros), valid for 4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to high-skilled positions with an annual salary exceeding 53,000 euros (2023), valid for up to 4 years. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Yes. You can advance from operator to production supervisor, process engineer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/composite-parts-fabricator/FR)**

@@ -4,8 +4,6 @@
 
 A profession overseeing management, staff training, and customer service in restaurants, izakayas, etc. Achieving sales and profit targets is required.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession overseeing management, staff training, and customer service in rest
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will replace some tasks like cooking robots and automated serving, but the manager's judgment and interpersonal service remain. Rather, AI-based demand forecasting and inventory management will streamline operations, shifting the manager's role to strategic decision-making.
-
 Start as part-timer, then assistant manager, then manager. With experience, can become area manager or open own business. Chains have promotion systems.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Start as part-timer, then assistant manager, then manager. With experience, can 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when a foreigner works as a store manager in business management. Requires a university degree or more than 10 years of practical experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food Service)) | Engages in cooking and customer service in the food service industry. Requires passing a skills test and Japanese language test. Residency period is up to 5 years. |
-| Subclass 経営・管理 (Business Management Visa) | Applies when managing your own restaurant. Requires an investment of 5 million yen or more. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: Start as a part-timer or full-timer, gain experience in the front and kitchen
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-owner-manager/JP)**

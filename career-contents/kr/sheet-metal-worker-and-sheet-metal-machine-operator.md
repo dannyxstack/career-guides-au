@@ -49,8 +49,6 @@ A specialized skilled profession that cuts, bends, and shapes metal sheets to ma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies assist sheet metal workers, but complex mold making and on-site custom work still require human skill, making full replacement difficult.
-
 Starting as an entry-level sheet metal worker, one can advance to skilled worker, foreman, or site supervisor based on experience; acquiring CNC equipment operation skills allows transition to technical positions or starting one's own business.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Starting as an entry-level sheet metal worker, one can advance to skilled worker
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Eligible to apply as E-7-2 (Skilled Worker), requiring experience and certification in sheet metal |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Sheet metal work possible in manufacturing under EPS, can switch to E-7 after skill improvement |
-| Subclass F-2 (Residence (F-2-99)) | Eligible for permanent residence via points system after stay, job search allowed |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: High school diploma or higher is sufficient, but majoring in mold or mechanic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-worker-and-sheet-metal-machine-operator/KR)**

@@ -51,8 +51,6 @@ Hotel managers oversee daily hotel operations, including room management, front 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of hotel manager faces automation risks and AI enhancement opportunities: repetitive operational tasks can be replaced, but strategic decision-making, interpersonal service, and crisis management skills remain crucial — a mixed bag.
-
 Progress from department head (housekeeping/restaurant) to assistant manager, then hotel manager, with potential to move to regional manager or corporate management.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Progress from department head (housekeeping/restaurant) to assistant manager, th
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU personnel, requiring a university degree and a high-salary job offer (annual salary ≥ EU member state threshold). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota work visa for non-EU workers; employers must prove they cannot find local candidates. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: From department head to assistant manager, then to general manager, can move 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-manager/IT)**

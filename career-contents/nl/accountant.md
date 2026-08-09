@@ -51,8 +51,6 @@ Accountants are responsible for recording and analyzing financial transactions, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Junior accountants can progress to senior accountant, audit manager, or become a Chief Financial Officer (CFO). They may also choose to obtain Certified Public Accountant (RA/AA) qualifications to enhance professional status.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior accountants can progress to senior accountant, audit manager, or become a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled talent with employer sponsorship, must meet minimum salary threshold (approx. €3,909/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and salary reaching the threshold (approx. €5,331/month or more). |
-| Subclass Orientation Year (Orientation Year) | Applicable to master's/PhD graduates from universities ranked in the top 200 in the Netherlands or worldwide, a residence permit allowing one year to find a job. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Must be registered as an RA or AA to conduct audits or sign financial stateme
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/NL)**

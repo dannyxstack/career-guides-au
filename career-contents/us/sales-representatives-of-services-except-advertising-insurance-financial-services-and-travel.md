@@ -53,8 +53,6 @@ Sell various services (e.g., IT, cleaning, consulting) to individuals or busines
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Junior sales representatives can advance to senior sales rep, sales supervisor, or regional sales manager. Some move to account management or marketing. After building client base, may start own business or move to management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sales representatives can advance to senior sales rep, sales supervisor, 
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification to prove no qualified US workers available; some feasibility for sales roles |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate recruitment efforts; sales roles have moderate success rate |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, but employer must demonstrate no qualified US workers via PERM labour ce
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representatives-of-services-except-advertising-insurance-financial-services-and-travel/US)**

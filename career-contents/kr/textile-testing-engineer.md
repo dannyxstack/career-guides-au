@@ -51,8 +51,6 @@ A specialist who tests and analyzes the physical and chemical properties of text
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI enhances test data analysis, pattern recognition, and quality prediction, but on-site judgments like sample preparation, physical property measurement, and defect analysis still require human expertise.
-
 After joining as a junior testing engineer, promotion to senior or principal researcher is possible based on experience. Those with a master's or higher in textile, chemical, or polymer fields can advance to R&D centers or quality control manager positions.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ After joining as a junior testing engineer, promotion to senior or principal res
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as a textile engineering specialist, must meet Korea Employment Information Service requirements for professionals |
-| Subclass D-10 (Job Seeking) | Domestic university textile engineering master's/doctorate graduates can job-seek for 6 months |
-| Subclass F-2 (F-2 (Residence)) | No employment restrictions upon conversion to long-term resident |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: No mandatory certifications, but related qualifications like Textile Engineer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-testing-engineer/KR)**

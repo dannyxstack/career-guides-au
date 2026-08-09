@@ -52,8 +52,6 @@ Selling goods or services directly to customers door-to-door or on the street; h
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Delivery drivers face high risk of automation, especially last-mile delivery. Autonomous driving and drones will reduce job numbers, but niche areas like instant delivery and cold chain still have demand.
-
 Usually starts as a basic salesperson, can advance to sales supervisor or move into telemarketing, online sales, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually starts as a basic salesperson, can advance to sales supervisor or move i
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost none. This occupation does not meet H-1B specialty occupation requirem
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/doortodoor-sales-workers-news-and-street-vendors-and-related-workers/US)**

@@ -55,8 +55,6 @@ Responsible for overseeing and leading teams in education, social services, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The roles of education, social work, and therapeutic education supervisors heavily rely on interpersonal judgment and compliance management; AI cannot fully replace core supervisory roles, but can automate reports, data analysis, etc., while enhancing service coordination and team communication through smart tools—making it a bittersweet occupation.
-
 Can advance from frontline education or social worker to team leader (Teamleitung), then to department head (Bereichsleitung) or facility director (Einrichtungsleitung), requiring accumulated management experience and further training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from frontline education or social worker to team leader (Teamleitun
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows holders to enter the country to seek work or internships, subject to meeting certain qualification requirements. |
 | Subclass EU Blue Card (EU Blue Card) | Not applicable for this occupation (as it is not a high-tech/high-skill shortage field, generally does not meet the Blue Card criteria). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires at least B2 German proficiency (usually C1) and a Goethe Institute o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-in-education-social-work-and-curative-education/DE)**

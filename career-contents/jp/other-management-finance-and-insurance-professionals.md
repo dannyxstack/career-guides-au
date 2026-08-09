@@ -50,8 +50,6 @@ Professionals engaged in corporate strategy planning, financial analysis, risk m
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will automate part of risk assessment and data analysis, but humans will continue to handle high-level decision-making and interpersonal negotiations. Demand for talent with AI utilization skills will increase.
-
 Career start in finance/insurance, then obtain professional qualifications or MBA to advance to management. Independent consulting is also possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career start in finance/insurance, then obtain professional qualifications or MB
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. Covers roles requiring technical/management knowledge in finance and business fields. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Prefers point-based system. Includes requirements such as annual income of ¥30 million or more. |
-| Subclass 経営・管理 (Business Manager) | Applies when running your own business. Requirements include capital of ¥5 million or more. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Not required, but qualifications such as Certified Public Accountant, Charter
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-management-finance-and-insurance-professionals/JP)**

@@ -53,8 +53,6 @@ Street vendors sell food, drinks, or small goods at markets, events, or temporar
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on street vendors is mixed: sales and payment processes can be automated, but core tasks like interpersonal interaction, on-site adaptability, and food preparation are hard to replace. Entry barriers are lowered by vending machines and e-commerce platforms, but flexibility and low skill requirements still retain opportunities.
-
 Common career path includes building client base to open a fixed stall or small shop, or transitioning into catering management. Some expand through branding, but promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Common career path includes building client base to open a fixed stall or small 
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is an accredited sponsor, this work visa can be applied for, but accreditation for street vendor positions is difficult. |
 | Subclass SMC (Skilled Migrant Category) | If income meets the median wage (~$29.66/hour) and skills are relevant, application is possible, but street vendors are generally not considered skilled occupations. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Food safety training is usually required when selling food but is not mandato
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-vendor/NZ)**

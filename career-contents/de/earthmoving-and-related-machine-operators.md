@@ -54,8 +54,6 @@ Operate earthmoving machinery such as bulldozers, excavators, and loaders for ex
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Earthmoving and related machinery operators face high automation risk; autonomous driving and remote control will gradually replace routine operations, but complex on-site decisions still require humans. Entry-level jobs are significantly reduced.
-
 common career progression: from general operator to senior operator, foreman, or construction supervisor. Further training can lead to mechanical maintenance or project management roles. Some operators become construction technicians or self-employed through additional training.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ common career progression: from general operator to senior operator, foreman, or
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can be promoted to senior operator, construction foreman, or through further 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-and-related-machine-operators/DE)**

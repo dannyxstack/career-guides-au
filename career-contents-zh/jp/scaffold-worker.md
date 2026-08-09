@@ -1,8 +1,8 @@
-# Scaffold Worker 职业分析 · 日本
+# 脚手架工（Scaffold Worker）职业分析 · 日本
 
-**职业代码: 652 (JSCO)**
+**职业代码：652 (JSCO)**
 
-Construction professional specializing in assembling/disassembling scaffolding and working at heights. An essential skilled trade for all construction projects from high-rises to bridges.
+专门从事脚手架搭建/拆除和高空作业的建筑专业人员。从高层建筑到桥梁的所有建筑项目都必需的关键技术行业。
 
 
 ---
@@ -11,8 +11,8 @@ Construction professional specializing in assembling/disassembling scaffolding a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Public high school nearly free; private approx. 3 million yen） |
-| Vocational Training School (Construction) | 1-2年 | $500,000~$1,500,000（Public training may be free） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中几乎免费；私立约300万日元） |
+| 职业培训学校（建筑） | 1-2年 | $500,000~$1,500,000（公共培训可能免费） |
 
 ---
 
@@ -20,19 +20,19 @@ Construction professional specializing in assembling/disassembling scaffolding a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Scaffold Assembly Work Supervisor | Ministry of Health, Labour and Welfare | 必备 | Required for scaffolding work at heights over 5m |
-| Skill Test (Scaffold Worker) | Ministry of Health, Labour and Welfare | 可选 | Class 1 and 2; serves as proof of skill |
-| 起重机操作员 | Ministry of Health, Labour and Welfare | 可选 | Required for operating mobile cranes |
-| Rigger Skill Training | Ministry of Health, Labour and Welfare | 可选 | Required for slinging work with cranes |
+| 脚手架组装工作主管 | 厚生劳动省 | 必备 | 高度超过5米的脚手架作业必备 |
+| 技能考试（脚手架工） | 厚生劳动省 | 可选 | 1级和2级；作为技能证明 |
+| 起重机操作员 | 厚生劳动省 | 可选 | 操作移动式起重机所需 |
+| 索具技能培训 | 厚生劳动省 | 可选 | 吊装作业所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 200,000. Post-Tokyo Olympics construction demand is slightly declining, but infrastructure renewal and large-scale redevelopment continue to sustain steady demand. A persistent shortage of young workers is driving acceptance of foreign technical interns.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 200,000。后东京奥运会建筑需求略有下降，但基础设施更新和大型再开发项目持续维持稳定需求。年轻工人持续短缺，推动了对外国技术实习生的接纳。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Construction professional specializing in assembling/disassembling scaffolding a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | Low during apprenticeship |
-| Intermediate (4-10 years) | $4,000,000~$5,500,000 | Stable after skill acquisition |
-| Advanced (10+ years) | $5,500,000~$8,000,000 | Foreman or master level |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 学徒期间较低 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 技能掌握后稳定 |
+| 高级（10年以上） | $5,500,000~$8,000,000 | 工头或大师级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Complete replacement by AI/robots is difficult, but partial introduction of automatic scaffolding assembly systems and drone inspections is advancing. Currently, human skills are indispensable, but remote control technology will likely be used for assistance.
+完全被人工智能/机器人取代较为困难，但自动脚手架组装系统和无人机检查的部分引入正在推进。目前人类技能不可或缺，但远程控制技术可能用于辅助。
 
-Start as an apprentice, acquire full skills in 2-5 years. Career paths include site supervisor, foreman, or self-employed master. Skill succession is a challenge across the industry.
+从学徒开始，2-5年内掌握全部技能。职业路径包括现场主管、工头或自主创业大师。技能传承是行业挑战。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple scaffold dismantling work (partially automated)
-- Material transport (automated by AGVs)
-- High-altitude work inspections (drone substitution)
+- 简易脚手架拆除工作（部分自动化）
+- 物料运输（由AGV自动化）
+- 高空作业检查（无人机替代）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Scaffolding assembly simulation (VR/AR)
-- Crane remote operation support
-- Sensor AI alerts for safety management
+- 脚手架装配模拟（VR/AR）
+- 起重机远程操作支持
+- 用于安全管理的传感器AI警报
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment skills in complex high-altitude work
-- Team coordination and communication
-- Flexible response to site conditions
+- 复杂高空作业中的判断技能
+- 团队协调与沟通
+- 灵活应对现场条件
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot/ICT construction management
-- Advanced skill qualifications (Grade 1 skilled worker)
-- Safety and health management ability
-- English proficiency (guidance for foreign workers)
+- 机器人/ICT施工管理
+- 高级技能资格（一级技工）
+- 安全与健康管理能力
+- 英语能力（外籍工人指导）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- High-altitude work
-- Scaffolding assembly
-- Steel frame erection
-- Crane operation
+- 高空作业
+- 脚手架组装
+- 钢架搭建
+- 起重机操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i)) | Falls under construction sector. Requires skill test and JLPT N4 or above. Max stay 5 years. |
-| Subclass 技能実習（建設） (Technical Intern Training) | 3-5 years of technical internship. Assumes return to home country, but future transition to Specified Skilled Worker expected. |
-| Subclass 技術・人文知識・国際業務（建設技術者） (Engineer/Specialist in Humanities/International Services) | For engaging in advanced construction techniques or management. Few applicable cases. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those confident in physical strength
-- Those not bothered by heights
-- Those who value teamwork
+- 体力充沛者
+- 不恐高的人
+- 重视团队合作的人
 
 **谁不适合**
-- Those with fear of heights
-- Those who prefer detailed clerical work only
+- 恐高的人
+- 偏好仅做细致文书工作者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a scaffolder?**
-答：It depends on experience and qualifications: intermediate level is 4-5.5 million yen, advanced level is 5.5-8 million yen. Overtime and site allowances cause variations.
+**问：脚手架工的平均年收入是多少？**
+答：取决于经验和资质：中级为400-550万日元，高级为550-800万日元。加班和现场津贴会导致变动。
 
-**问：What visa is needed for a foreigner to become a scaffolder?**
-答：Specified Skilled Worker (i) (Construction) is the most realistic. A skills test and Japanese language proficiency test N4 level are required. A shift from Technical Intern Training to Specified Skilled Worker is also expected to become possible.
+**问：外国人成为脚手架工需要什么签证？**
+答：特定技能工人(i)（建筑）最为现实。需通过技能考试和日语能力测试N4级。从技能实习转特定技能工人预计也将成为可能。
 
-**问：How can a scaffolder advance their career?**
-答：By obtaining qualifications like Scaffolding Work Chief or Grade 1 Skill Test, you can aim for site supervisor or foreman. There is also a path to becoming an independent master carpenter.
+**问：脚手架工如何提升职业？**
+答：通过获得脚手架主管或一级技能考试等资格，可瞄准现场主管或工长。也有成为独立大师傅的路径。
 
 
 ---
@@ -144,12 +137,12 @@ Start as an apprentice, acquire full skills in 2-5 years. Career paths include s
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/scaffold-worker/JP)**

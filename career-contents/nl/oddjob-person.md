@@ -4,8 +4,6 @@
 
 Gig workers perform various temporary, informal jobs such as moving, cleaning, gardening, etc., often in the informal economy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Gig workers perform various temporary, informal jobs such as moving, cleaning, g
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-Gig workers face a very high risk of automation; many physical, standardised temporary jobs (e.g., moving, cleaning) will be replaced by AI robots. Competition for entry-level positions intensifies, and income is unstable.
-
 Typically no fixed promotion path, but skills can be transferred to specialised fields such as household management or small business start-ups.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Typically no fixed promotion path, but skills can be transferred to specialised 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Non-EU: No specific  (No specific visa) | Gig work typically does not meet Dutch work visa requirements; only EU citizens have free movement. |
-| Subclass EU Free Movement (EU/EEA Freedom of Movement) | EU citizens are free to do gig work in the Netherlands without additional permits. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -145,12 +134,12 @@ A: Non-EU citizens usually cannot obtain a work visa for gig jobs, as such work 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oddjob-person/NL)**

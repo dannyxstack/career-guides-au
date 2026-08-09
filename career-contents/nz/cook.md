@@ -52,8 +52,6 @@ Chef demand in New Zealand's hospitality industry is stable, but skilled migrati
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
-
 Junior chefs can advance to senior chef, sous chef, or hotel food and beverage management, requiring continuous learning of new cuisines and food safety knowledge.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior chefs can advance to senior chef, sous chef, or hotel food and beverage m
 | Subclass SMC (Skilled Migrant Category) | Must meet the 6-point system; chefs usually need a combination of qualifications and experience, and meeting salary requirements can add points |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Only for senior chefs (Chef de Partie and above), apply for residency after 2 years of work |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: High demand in tourist areas like Queenstown, Christchurch, and Wellington, b
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook/NZ)**

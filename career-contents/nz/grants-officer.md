@@ -54,8 +54,6 @@ Grant officers design, evaluate, and manage funding projects in New Zealand gove
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Funding officers' evaluation and data verification tasks are easily automated by AI, but parts involving fiscal responsibility, conflict of interest adjudication, and policy interpretation remain highly dependent on human judgment. The overall role will not disappear, but job content will shift to high-risk decisions and stakeholder management.
-
 Junior grants officers handle document organization and review, gain experience to independently manage projects, and advance to senior officer or policy advisor. Lateral moves to project management or fundraising are possible, but cross-field opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior grants officers handle document organization and review, gain experience 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: No. New Zealand does not have mandatory grant officer registration or license
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grants-officer/NZ)**

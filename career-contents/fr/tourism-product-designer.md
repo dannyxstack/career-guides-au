@@ -53,8 +53,6 @@ Responsible for designing, developing, and optimizing travel products (such as t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 Start as a product assistant or sales support, and after gaining market experience, can be promoted to product manager or regional product lead; You can also start a business, open a travel agency, or become an independent travel consultant. Digital skills (such as data analysis and CRM) are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Start as a product assistant or sales support, and after gaining market experien
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, with a salary at 1.5 times the French average annual salary (about €42,000), eligible for 4-year residency |
-| Subclass Salarié (Salarié (Employee)) | Regular work residence requires employer sponsorship, applicable to obtaining a CDI contract with salary meeting industry standards |
-| Subclass Recherche emploi (Job Search Visa) | Allow you to seek employment in France for one year after graduation, and once you find a relevant job, you can convert to work-based residence |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can upgrade from product assistant to product manager or regional head, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourism-product-designer/FR)**

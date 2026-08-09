@@ -53,8 +53,6 @@ Pharmacists dispense medications, provide drug consultations, and manage medicat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate medication dispensing and drug review, enhancing clinical consultation and medication guidance; the core clinical judgment and human care of pharmacists remain irreplaceable, but competition for entry-level positions will intensify.
-
 Pharmacists can advance to pharmacy manager, clinical pharmacist, or specialist pharmacist. Further study can lead to pharmaceutical researcher or independent pharmacy owner.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Pharmacists can advance to pharmacy manager, clinical pharmacist, or specialist 
 | Subclass PNP (Provincial Nominee Program) | Most provinces have health priority, e.g., Ontario, BC, Alberta |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Pass assessment and exams from the Pharmacy Examining Board of Canada (PEBC),
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/CA)**

@@ -53,8 +53,6 @@ Product and fashion designers are responsible for designing clothing, accessorie
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI has mixed impact on product and fashion designers: repetitive drafting and pattern-making tasks are reduced, but creative concepts and trend forecasting are amplified; beware of shrinking entry-level positions.
-
 Junior designers can start as assistants or sample makers, gain experience, and advance to senior designer or creative director. Some may freelance or start their own brand. Digital skills (e.g., 3D modelling) can accelerate career progression.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior designers can start as assistants or sample makers, gain experience, and 
 | Subclass General Employment P (General Employment Permit) | Applicable to non-EU citizens, requires employer sponsorship and annual salary ≥€30,000 (non-shortage occupation) |
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥€33,600 (general occupations) or ≥€47,472 (managerial/professional positions) |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a relevant bachelor's degree in design, such as fashion de
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-and-garment-designer/IE)**

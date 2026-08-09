@@ -4,8 +4,6 @@
 
 Responsible for dispensing medications, providing medication guidance to patients, managing drug inventory, and supervising drug safety. Working in pharmacies, hospitals, or the pharmaceutical industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for dispensing medications, providing medication guidance to patient
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Impact of Pharmacist Work: Automated dispensing improves efficiency, but clinical consultation and complex drug management cannot replace it. Competition for entry-level positions intensifies, yet high-value tasks still rely on human expertise.
-
 Careers can start as assistant pharmacists in community pharmacies, advance to pharmacy managers or regional pharmacist supervisors, or transition to hospital pharmacy or pharmaceutical company regulatory roles, requiring ongoing education.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Careers can start as assistant pharmacists in community pharmacies, advance to p
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to senior technical talents; those holding a master's degree or above and having a work contract can obtain a 4-year residence permit. |
-| Subclass Salarié (Salaried Employee Visa) | For a regular work visa, you must obtain a work contract from a French employer and meet salary and education requirements. |
-| Subclass Carte bleue européen (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring at least a one-year work contract and salary above the average. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, pharmacists must hold a national pharmacy diploma and be registered with
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/FR)**

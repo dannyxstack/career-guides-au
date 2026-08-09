@@ -54,8 +54,6 @@ University tutors mentor students, lead group discussions, grade assignments, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce the administrative and basic teaching tasks of university tutors, but core human values such as one-on-one mentoring, emotional support, and critical thinking development are amplified. The role overall faces a mixed transformation.
-
 Career progression path: from temporary tutor to fixed lecturer or senior tutor, then apply for PhD positions or transition to academic researcher. Some tutors move into educational management or corporate training.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career progression path: from temporary tutor to fixed lecturer or senior tutor,
 | Subclass 189 (Skilled Independent) | University supervisor not on MLTSSL, cannot apply |
 | Subclass 190 (Skilled Nominated) | Only a few states may nominate, but with very few opportunities |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Common paths include promotion to senior tutor, lecturer, or academic researc
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-tutor/AU)**

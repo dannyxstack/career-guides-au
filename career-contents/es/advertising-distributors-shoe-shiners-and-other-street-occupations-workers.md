@@ -4,8 +4,6 @@
 
 This profession includes distributing flyers on the street, shining shoes, and other street service workers. The work is flexible but the income is unstable, usually part-time or temporary, and does not require a high degree of education.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ This profession includes distributing flyers on the street, shining shoes, and o
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Street workers such as advertising distributors and shoe-shiners face high substitution risks; AI and automation will significantly reduce demand for low-skilled positions, but some interpersonal services still have small-scale opportunities.
-
 Promotion paths are limited, and most practitioners remain in their original positions or switch to sales or service industries. A few can be promoted to small promotional team leaders or move to permanent positions through experience accumulation.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Promotion paths are limited, and most practitioners remain in their original pos
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, but this occupation has low salaries and is not in urgent demand, making it difficult to get approved |
-| Subclass Tarjeta azul UE (EU Blue Card) | They do not meet the requirements because the salary is far below the threshold |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: Very limited. Most people remain in their original jobs or shift to retail an
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-distributors-shoe-shiners-and-other-street-occupations-workers/ES)**

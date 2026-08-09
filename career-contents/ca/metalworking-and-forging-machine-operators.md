@@ -54,8 +54,6 @@ In Canada, a metal engineering process worker is equivalent to a metalworking an
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Metal processing and forging machine operators face high automation risk, with AI and robots taking over most repetitive operations and inspection tasks. Equipment maintenance and process debugging still require human experience, and entry-level positions are narrowing significantly.
-
 Starting as an operator, can advance to senior machine operator, production supervisor, or quality control officer, or move into tool and die making through apprenticeships.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Starting as an operator, can advance to senior machine operator, production supe
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Average prospects; automation may replace some tasks. However, obtaining a Re
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-and-forging-machine-operators/CA)**

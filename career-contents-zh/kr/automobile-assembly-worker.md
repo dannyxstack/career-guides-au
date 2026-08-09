@@ -1,8 +1,8 @@
-# Automobile Assembly Worker 职业分析 · 韩国
+# 汽车装配工（Automobile Assembly Worker）职业分析 · 韩国
 
-**职业代码: 81711 (KECO)**
+**职业代码：81711 (KECO)**
 
-A field worker who assembles various parts such as the engine, chassis, and interior of an automobile to produce a completed vehicle.
+组装汽车发动机、底盘、内饰等各种部件以生产完成车辆的现场工人。
 
 
 ---
@@ -11,8 +11,8 @@ A field worker who assembles various parts such as the engine, chassis, and inte
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduation (industrial track) | 3年 | $0~$0（Free education at public high schools） |
-| Junior college (Mechanical/Automotive) | 2 年 | $6,000,000~$12,000,000（Tuition (national standard, scholarships available)） |
+| 高中毕业（工业方向） | 3年 | $0~$0（公立高中免费教育） |
+| 专科学校（机械/汽车） | 2 年 | $6,000,000~$12,000,000（学费（国家标准，可申请奖学金）） |
 
 ---
 
@@ -20,18 +20,18 @@ A field worker who assembles various parts such as the engine, chassis, and inte
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automobile Assembly Technician | Human Resources Development Service of Korea | 可选 | Optional certification, preferred for employment |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Bonus points if welding processes are required |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for safety management tasks |
+| 汽车装配技术员 | 韩国人力资源开发服务局 | 可选 | 可选认证，就业时优先 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 如果涉及焊接工艺则加分 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 对安全管理任务有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 175,000. While some work changes are expected due to the shift to electric vehicles and autonomous driving, large-scale regular employment is expected to remain. Demand for skilled workers is steady.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 175,000。虽然电动化和自动驾驶预计会带来一些工作变化，但大规模的正规就业预计将保持稳定。对熟练工人的需求稳定。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A field worker who assembles various parts such as the engine, chassis, and inte
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0~3 years) | $32,000,000~$38,000,000 | Based on primary suppliers of finished cars, including bonuses |
-| Intermediate (4~10 years) | $38,000,000~$50,000,000 | Varies with skill level and overtime |
-| Senior (10+ years/Team leader level) | $50,000,000~$65,000,000 | Includes management position allowances, higher at conglomerate direct operations |
+| 初级（0~3年） | $32,000,000~$38,000,000 | 基于成品汽车的主要供应商，包括奖金 |
+| 中级（4~10年） | $38,000,000~$50,000,000 | 随技能水平和加班时间变化 |
+| 高级（10年以上/团队领导级别） | $50,000,000~$65,000,000 | 包括管理岗位津贴，集团公司直营更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-Collaborative robots and AI quality inspection are increasingly introduced in auto assembly processes, but precision assembly and inspection still require humans. Complete replacement is difficult, and the shift is toward worker-robot collaboration.
+协作机器人和AI质量检测在汽车装配过程中越来越多地被引入，但精密装配和检测仍需人工。完全替代困难，趋势是工人与机器人协作。
 
-Junior assembler → Line-specific skilled worker → Team leader/Section chief → Production management/Technical positions. Advancement is favorable with certifications and multi-skilling.
+初级装配工→产线技术工→组长/科长→生产管理/技术岗位。通过认证和多技能培训有利于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple bolt fastening
-- Component sorting
-- Basic inspection
+- 简单螺栓紧固
+- 零件分拣
+- 基础检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Collaborative robot task instruction
-- Quality data verification
-- Process anomaly detection
+- 协作机器人任务指令
+- 质量数据验证
+- 过程异常检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible manual work
-- Handling non-standard parts
-- Team communication and problem solving
+- 灵活的手工工作
+- 处理非标零件
+- 团队沟通与问题解决
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot programming
-- Understanding smart factory systems
-- Basic electrical and electronic knowledge
+- 机器人编程
+- 了解智能工厂系统
+- 基础电气和电子知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of electric vehicle production
-- Introduction of smart factories
-- Shortage of skilled workers
-- Increased robot collaboration
+- 电动汽车生产扩张
+- 智能工厂的引入
+- 熟练工人短缺
+- 增强机器人协作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-3)) | Possible if eligible for Skilled Worker (E-7-3) and meeting requirements such as 5+ years in manufacturing. |
-| Subclass E-9 (Non-professional Employment (E-9)) | Allowed under the Employment Permit System for non-professional foreign workers, within manufacturing quotas. |
-| Subclass F-2 (Residence (F-2) Point System) | Long-term stay possible after passing the Skilled Worker point system. |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are patient with repetitive tasks
-- People who value teamwork
-- People interested in machine operation
+- 能耐心处理重复性任务的人
+- 重视团队合作的人
+- 对机器操作感兴趣的人
 
 **谁不适合**
-- People who dislike simple repetitive tasks
-- People who struggle with night or shift work
+- 不喜欢简单重复任务的人
+- 难以适应夜班或倒班工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for new hires?**
-答：For tier-1 automakers, the starting salary for entry-level (0-3 years) is KRW 32-38 million, which can be higher with bonuses and overtime pay.
+**问：新员工的平均起薪是多少？**
+答：对于一线汽车制造商，入门级（0-3年）起薪为3200-3800万韩元，加上奖金和加班费可能更高。
 
-**问：Can foreigners work as car assemblers?**
-答：Possible with E-9 (Non-professional Employment Visa, Manufacturing Quota) or E-7-3 (Skilled Worker) visa; F-2 (Residence) points-based permanent residency route is also available.
+**问：外国人能当汽车装配工吗？**
+答：可通过E-9（非专业就业签证，制造业配额）或E-7-3（熟练工人）签证；也可通过F-2（居住）积分制永久居留途径。
 
-**问：What certifications are needed for promotion?**
-答：Automobile assembly technician is not mandatory but preferred; welding technician and industrial safety engineer help with promotion.
+**问：晋升需要哪些认证？**
+答：汽车装配技术员非强制但优先；焊接技术员和工业安全工程师有助于晋升。
 
 
 ---
@@ -142,12 +135,12 @@ Junior assembler → Line-specific skilled worker → Team leader/Section chief 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automobile-assembly-worker/KR)**

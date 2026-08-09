@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing industrial machinery and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical hands-on tasks of riggers/industrial mechanics are hard to replace by AI, but AI improves efficiency in diagnosis, remote monitoring, and documentation, potentially reducing junior maintenance roles. Overall impact is mixed; proactive learning of digital tools is needed.
-
 Start as an apprentice and progress to skilled worker, supervisor, or foreman. By obtaining a Red Seal endorsement or further study, you can move into equipment management, quality control, or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an apprentice and progress to skilled worker, supervisor, or foreman. B
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Program targets skilled trades, e.g., Ontario's Skilled Trades stream |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, through LMIA demonstrating labour shortage, eligible for work visa application |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but the Red Seal endorsement is a passport for interprovincial
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-millwrights-and-industrial-mechanics-72400/CA)**

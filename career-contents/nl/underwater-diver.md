@@ -4,8 +4,6 @@
 
 Underwater divers perform inspection, maintenance, construction and rescue work, commonly used in offshore energy, ports and bridge engineering.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Underwater divers perform inspection, maintenance, construction and rescue work,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of underwater divers is less affected by AI automation, but remote-operated and autonomous underwater vehicles (AUVs) will take over some inspection tasks, while enhancing detection and data processing capabilities. High-risk operations still require human flexibility and manual skills.
-
 Can progress from commercial diver to dive supervisor or underwater project manager, requiring experience accumulation and advanced certifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Can progress from commercial diver to dive supervisor or underwater project mana
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, requiring employer sponsorship, with an annual income threshold of approximately €5,000/month. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education and high-paid positions, requires employer sponsorship, annual income threshold of approximately €56,000 |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Must hold a commercial diver certificate (e.g., NDC) and a valid health certi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underwater-diver/NL)**

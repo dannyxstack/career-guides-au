@@ -49,8 +49,6 @@ A professional who designs, develops, and maintains system software such as oper
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates some tasks like code generation and debugging, but high-level decisions such as system architecture design and optimization still rely on humans. AI is used as a productivity tool and will not completely replace the core tasks of system software developers.
-
 Typically, new graduates join as junior developers and advance to senior developer, team leader, or architect. After gaining experience at large corporations or research institutes, some may found startups or become freelancers.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ Typically, new graduates join as junior developers and advance to senior develop
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for software development experts with 5+ years of experience or relevant degree |
-| Subclass D-10 (Job-seeking) | Possible after graduating from a domestic university while job-seeking; later convert to E-7 |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +130,12 @@ A: It is possible with an E-7 visa, requiring a related degree or more than 5 ye
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/systems-software-developer/KR)**

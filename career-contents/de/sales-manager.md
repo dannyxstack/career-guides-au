@@ -51,8 +51,6 @@ Sales managers are responsible for developing sales strategies, managing sales t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Promotion from sales specialist to regional sales manager, sales director, and even board member. Requires accumulation of client resources and team management experience; an MBA or further study can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Promotion from sales specialist to regional sales manager, sales director, and e
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | For occupations requiring qualifications, employer sponsorship needed |
 | Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek employment; proof of financial means required. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from regional sales manager to national sales director, or trans
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-manager/DE)**

@@ -51,8 +51,6 @@ This occupation involves operating cameras, platemaking, and other pre-press equ
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Prepress technicians and workers face high risk of automation replacement. AI typesetting, auto-proofreading, and cloud printing platforms are significantly reducing traditional positions, lowering entry barriers but decreasing quality jobs.
-
 Career progression paths are limited, from junior technician to senior prepress specialist or prepress supervisor. Learning digital design and automation tools can improve competitiveness, but transitioning to digital media offers better long-term development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths are limited, from junior technician to senior prepress 
 | Subclass PNP (Provincial Nominee Program) | Some provinces have provincial nomination programs for the printing industry |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove unable to hire local workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Overall demand is stable with a slight decline; automation has reduced some r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/camera-platemaking-and-other-prepress-occupations/CA)**

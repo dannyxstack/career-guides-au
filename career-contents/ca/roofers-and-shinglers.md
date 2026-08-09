@@ -54,8 +54,6 @@ Roofers and roof tilers install, repair, and replace building roofs using materi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
-
 Most start as apprentices, gradually becoming skilled workers or foremen. Experienced individuals can start their own companies, or transition to roles like building inspection, project management. Some become roofing estimators or supervisors through additional training.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Most start as apprentices, gradually becoming skilled workers or foremen. Experi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Main pathways are Provincial Nominee Program (PNP) and LMIA employer sponsors
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofers-and-shinglers/CA)**

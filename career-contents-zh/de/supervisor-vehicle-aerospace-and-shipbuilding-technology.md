@@ -1,6 +1,6 @@
-# Supervisor - Vehicle, Aerospace, and Shipbuilding Technology 职业分析 · 德国
+# 主管 - 车辆、航空航天和造船技术（Supervisor - Vehicle, Aerospace, and Shipbuilding Technology）职业分析 · 德国
 
-**职业代码: 2529 (KldB)**
+**职业代码：2529 (KldB)**
 
 负责监督车辆、航空航天器及船舶制造与维修的技术团队，确保生产流程符合质量与安全标准。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. 德国作为汽车与机械制造强国，对该职业需求稳定。受新能源与数字化转型推动，未来五年就业机会预计增长5-10%。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。德国作为汽车与机械制造强国，对该职业需求稳定。受新能源与数字化转型推动，未来五年就业机会预计增长5-10%。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -49,35 +49,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 作为技术主管，AI 将接管大量生产调度、质量检测和文档生成任务，但复杂设备故障排查、团队协调和安全决策仍需人类经验与判断，因此岗位喜忧参半。
 
 可从技术员晋升至主管，再至生产经理或技术总监。资深人员可转向项目管理或研发部门。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - AI 自动生成生产排程与资源调配计划
 - AI 视觉检测自动识别焊接、装配缺陷
 - AI 分析传感器数据预测设备故障并生成维护通知
 - AI 自动生成技术文档与合规报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI 辅助三维建模与仿真，快速验证设计变更
 - AI 实时监控产线并预警异常，帮助主管快速决策
 - AI 提供维修知识库与 AR 指导，增强排查效率
 - AI 自动汇总多源绩效数据，辅助团队管理
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂系统故障的跨领域诊断与应急决策
 - 跨团队、跨部门的技术协调与冲突解决
 - 符合安全规范的现场监督与责任担当
 - 新工艺、新材料的实验验证与风险判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI 工具应用与数据分析（如 Python、机器学习基础）
 - 数字化孪生与仿真平台操作（如 Siemens NX、Ansys）
@@ -86,16 +86,16 @@
 - 精益生产与 Agile 项目管理认证
 - 跨领域技术整合与沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- electric mobility
-- digital transformation
-- automation
-- sustainable production
+- 电动出行
+- 数字化转型
+- 自动化
+- 可持续生产
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -104,9 +104,7 @@
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | 适用于有资质的技术人员，需获得德国雇主Offer |
 | Subclass Chancenkarte (Opportunity Card) | 基于积分制的求职签证，可在德寻找工作一年 |
 
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -150,12 +148,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-vehicle-aerospace-and-shipbuilding-technology/DE)**

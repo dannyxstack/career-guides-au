@@ -52,8 +52,6 @@ Aircraft Maintenance Engineer (Structures) responsible for inspecting, repairing
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Starting as a junior technician, you can advance to senior engineer, team leader, or quality inspection manager with experience; you can also specialize in fields such as non-destructive testing or composite materials. Some engineers eventually move into aviation management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior technician, you can advance to senior engineer, team leader
 | Subclass SMC (Skilled Migrant Category) | Skilled migration: under the 6-point system, points can be earned through registration qualifications, degree, and years of work experience |
 | Subclass AEWV (Accredited Employer Work Visa) | The accredited employer work visa serves as a transition visa, allowing accumulation of experience before applying for residence. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a New Zealand CAA AME license (B1.1 category), some cases require q
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-engineer-structures/NZ)**

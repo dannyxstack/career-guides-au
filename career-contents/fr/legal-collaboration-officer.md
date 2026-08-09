@@ -53,8 +53,6 @@ Legal collaborators work in law firms or corporate legal departments, participat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will greatly enhance the capabilities of legal collaborators, rather than replace them; Tasks such as contract review and legal research are much more efficient, but caution is needed regarding the shrinkage of junior clerical positions.
-
 Individuals can be promoted to senior legal collaborators or transferred to legal assistants or legal managers, with some becoming practicing lawyers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Individuals can be promoted to senior legal collaborators or transferred to lega
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Work residency sponsored by a French employer requires proof that the position cannot be held by an EU citizen. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree or above and an annual salary exceeding 42,052 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual salary of at least 53,836.50 euros (2024 standard), suitable for senior positions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted to Senior Collaborator, Legal Manager, or become a practi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-collaboration-officer/FR)**

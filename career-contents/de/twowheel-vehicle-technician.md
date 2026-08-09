@@ -53,8 +53,6 @@ Two-Wheel Vehicle Technician is responsible for maintenance, repair, and modific
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on two-wheel vehicle technicians is mixed: diagnosis and administrative tasks are automated, but complex repairs and custom modifications rely on human experience and creativity, unlikely to be replaced in the short term.
-
 Starting as an apprentice, can advance to foreman or technician, then run your own repair shop, or transition to vehicle technical training, quality inspection, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as an apprentice, can advance to foreman or technician, then run your o
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Those with German-recognized qualifications or degrees can obtain a work visa, suitable for tradespeople who have completed qualification certification. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa where skilled workers can apply based on experience points to find work or undergo qualification recognition in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires completing German dual vocational training (3.5 years), comb
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/twowheel-vehicle-technician/DE)**

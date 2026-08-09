@@ -54,8 +54,6 @@ Slaughtering, cutting, deboning, and packaging livestock in meat processing plan
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Industrial butchers and meat cutters face high automation risk; large plants already use robots for repetitive cutting, deboning, and packaging. Cold storage accelerates machine deployment; positions may shrink by over 30% in the next decade.
-
 Entry-level can advance to boner, cutting line supervisor; with experience, opportunities to move to quality inspection, production management. Need to obtain food safety certificate.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level can advance to boner, cutting line supervisor; with experience, oppo
 | Subclass PNP (Skilled Worker) (Provincial Nominee Program (Employer-Driven)) | Most provinces have low-skilled semi-skilled categories, such as Saskatchewan SINP existing occupations (but NOC 94141 requires employer sponsorship) |
 | Subclass TFWP (Temporary Foreign Worker Program) | Obtain a closed work permit through LMIA, accumulate experience, then transfer to provincial nomination |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: No. NOC 94141 is TEER 4, not eligible for Express Entry. Only possible throug
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-butchers-and-meat-cutters-poultry-preparers-and-related-workers/CA)**

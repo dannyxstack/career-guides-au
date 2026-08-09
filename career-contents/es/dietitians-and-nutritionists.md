@@ -4,8 +4,6 @@
 
 Nutritionists and dietary experts are responsible for assessing the nutritional status of individuals and groups, developing personalized meal plans, preventing and treating nutrition-related diseases, and providing professional consultation in clinical, community, sports, and food industry fields.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Nutritionists and dietary experts are responsible for assessing the nutritional 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Junior dietitians can gain experience in hospitals, community health centers, or private clinics; Intermediate level can serve as clinical nutrition supervisor or public health project coordinator; Senior positions include becoming researchers, university lecturers, opening private clinics, or transitioning to R&D consultants in the food industry.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior dietitians can gain experience in hospitals, community health centers, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Must be sponsored by a Spanish employer, and the degree must be certified (Homologación). It is a regulated profession and requires association registration. |
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Applicable to high-skilled positions with an annual salary exceeding approximately 40,000 euros, accelerated processing available, but academic qualification assessment is still required. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months to find a job, but you must prove that the qualification verification process has started. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Demand is concentrated in major cities such as Madrid, Barcelona, and Valenci
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitians-and-nutritionists/ES)**

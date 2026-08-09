@@ -53,8 +53,6 @@ Operate office equipment such as copiers, duplicators, and binding machines to c
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation involves highly repetitive, rule-based tasks, making it highly susceptible to replacement by AI and automation systems. With the spread of smart copiers, automatic binding, and digital document management, the number of positions will continue to shrink, with entry-level roles decreasing rapidly.
-
 Entry-level role, usually starting as assistant operator; after gaining experience can advance to senior operator or team supervisor. Some move to customer service or office management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level role, usually starting as assistant operator; after gaining experien
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: BLS projects a 10% decline in employment from 2023-2033, with digitization an
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-machine-operators-except-computer/US)**

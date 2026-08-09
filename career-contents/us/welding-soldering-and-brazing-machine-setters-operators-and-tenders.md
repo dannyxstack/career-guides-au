@@ -53,8 +53,6 @@ Responsible for setting up, operating, or overseeing automated equipment such as
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Can advance through experience to welding technician, robotics programmer, or production supervisor. AWS certification or an associate degree helps transition to specialized welding robot maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance through experience to welding technician, robotics programmer, or pr
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: After accumulating 2-3 years of experience, obtain AWS welding certification 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welding-soldering-and-brazing-machine-setters-operators-and-tenders/US)**

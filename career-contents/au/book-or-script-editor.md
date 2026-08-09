@@ -54,8 +54,6 @@ Book or script editors review, revise, and polish books, scripts, and other writ
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI greatly improves editors' checking, plagiarism detection, and logic check efficiency, but creative decisions and author relationships remain core. Job numbers may increase slightly, but skill requirements are upgraded.
-
 Junior editors usually start as assistants or copy editors, gain experience, and advance to senior editor, managing editor, or editorial director. Some transition to freelance work or specialize in areas like academic or film script editing, or move into content strategy or publishing management.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior editors usually start as assistants or copy editors, gain experience, and
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: AI tools (such as Grammarly, ChatGPT) can affect basic text proofreading work
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/book-or-script-editor/AU)**

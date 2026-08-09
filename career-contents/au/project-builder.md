@@ -52,8 +52,6 @@ Project manager (construction) responsible for planning, managing and overseeing
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Career development path: Junior project manager or site supervisor → Senior project manager → Project director or construction company partner. May also transition to specialized areas such as green building or large-scale infrastructure project management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development path: Junior project manager or site supervisor → Senior pr
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency requires skills assessment |
 | Subclass 189 (Skilled Independent Visa) | If the occupation is on the MLTSSL, you can apply through the points-based system |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in construction management or related 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-builder/AU)**

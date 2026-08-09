@@ -4,8 +4,6 @@
 
 Responsible for furniture upholstery and mattress manufacturing and maintenance, including spring installation, filling, sewing, and other processes, which belong to traditional handicrafts.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for furniture upholstery and mattress manufacturing and maintenance,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Traditional manual jobs such as uptight furniture and mattress manufacturing are heavily influenced by AI and automation. Many repetitive sewing and filling tasks can be replaced by machines, requiring practitioners to shift toward customization, high-end repair, and smart furniture.
-
 You can start as an apprentice or a secondary vocational education for FP, and be promoted to foreman, quality controller, or to run your own soft packaging workshop.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ You can start as an apprentice or a secondary vocational education for FP, and b
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit as an employee) | A Spanish company must provide a guarantee and a job contract proving that the position cannot be filled by a local resident. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +136,12 @@ A: It's very difficult. This occupation is not considered a high-skilled or in-d
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/upholsterer-mattress-maker-and-related-workers/ES)**

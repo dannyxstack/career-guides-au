@@ -1,8 +1,8 @@
-# Life Science Tester 职业分析 · 韩国
+# 生命科学测试员（Life Science Tester）职业分析 · 韩国
 
-**职业代码: 12221 (KECO)**
+**职业代码：12221 (KECO)**
 
-A professional who experiments and analyzes the structure and function of living organisms to produce research data in various fields such as pharmaceuticals, food, and environment.
+实验和分析生物体结构与功能，为制药、食品、环境等多个领域产生研究数据的专业人士。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who experiments and analyzes the structure and function of living
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (Life Science, Biotechnology, etc.) | 4年 | $8,000,000~$12,000,000（Annual tuition based on national/public university） |
-| Master's | 2 年 | $10,000,000~$15,000,000（Annual graduate school tuition） |
+| 学士学位（生命科学、生物技术等） | 4年 | $8,000,000~$12,000,000（年学费基于国立/公立大学） |
+| 硕士 | 2 年 | $10,000,000~$15,000,000（研究生院年学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who experiments and analyzes the structure and function of living
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Life Science Engineer (National Technical Qualification) | Human Resources Development Service of Korea | 可选 | Certification of experiment/analysis skills,加分 in employment |
-| Medical Technologist (National License) | Ministry of Health and Welfare | 可选 | Required for clinical laboratory work |
+| 生命科学工程师（国家技术资格） | 韩国人力资源开发服务局 | 可选 | 实验/分析技能认证，就业加分 |
+| 医学技师（国家执照） | 保健福祉部 | 可选 | 临床实验室工作所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 15,000. The demand for life science testers is expected to steadily increase due to growth in the bio/pharmaceutical industry and expanded R&D investment. In particular, a shortage of personnel is anticipated in the areas of new drug development and genetic analysis.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 15,000。由于生物/制药行业的增长和研发投资的扩大，生命科学测试人员的需求预计将稳步增加。特别是在新药研发和基因分析领域，预计将出现人员短缺。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,96 +38,89 @@ A professional who experiments and analyzes the structure and function of living
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $30,000,000~$40,000,000 | Based on college graduate starting salary |
-| Mid (4-7 years) | $40,000,000~$55,000,000 | 经验丰富后增长 |
-| Senior (8 years or more) | $55,000,000~$70,000,000 | At the level of senior researcher |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 基于大学毕业生起薪 |
+| 中级（4-7年） | $40,000,000~$55,000,000 | 经验丰富后增长 |
+| 高级（8年及以上） | $55,000,000~$70,000,000 | 高级研究员水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some repetitive experiments and data analysis tasks in life science testers' work, but human roles remain crucial for new research design and interpretation. Thus, the main impact is improved work efficiency rather than job loss due to AI.
+AI和自动化可以替代生命科学测试人员工作中一些重复性的实验和数据分析任务，但人类在新研究设计和解读中仍至关重要。因此，主要影响是提高工作效率，而非因AI导致失业。
 
-Initially, tasks include experiment assistance and data analysis; with experience, promotion to researcher, senior researcher, and laboratory director is possible. Master's/Doctoral degrees and research achievements are advantageous for promotion.
+初期任务包括实验协助和数据分析；随着经验积累，可晋升为研究员、高级研究员和实验室主任。硕士/博士学位及研究成果有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized Sample Preparation
-- Basic Statistical Analysis
-- Quantitative PCR Data Analysis
-- Culture Medium Sampling
+- 标准化样品制备
+- 基础统计分析
+- 定量PCR数据分析
+- 培养基取样
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Gene Sequencing Data Interpretation
-- Drug Screening Result Analysis
-- Optimization of Experimental Conditions
-- Support for Research Paper Writing
+- 基因测序数据解读
+- 药物筛查结果分析
+- 实验条件优化
+- 研究论文写作支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Generation of Research Ideas
-- Experimental Design and Hypothesis Testing
-- Response to Unexpected Results
-- Ethical Judgment
+- 研究思路的产生
+- 实验设计与假设检验
+- 对意外结果的应对
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Bioinformatics Using Python/R
-- Basics of AI/Machine Learning
-- Use of Automated Experiment Equipment
-- Critical Thinking and Problem Solving
+- 使用Python/R进行生物信息学分析
+- 人工智能/机器学习基础
+- 自动化实验设备使用
+- 批判性思维与问题解决
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Biopharmaceuticals
-- Gene Therapy
-- Precision Medicine
-- Environmental Biotechnology
+- 生物制药
+- 基因治疗
+- 精准医学
+- 环境生物技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professional research personnel; can engage in life science research at institutes or companies |
-| Subclass D-2 (D-2 (Student Visa)) | Can participate in research during master's/doctoral programs; eligible for D-10 or E-7 conversion after graduation |
-| Subclass F-2 (Residence (F-2)) | Long-term stay and free employment; eligible to apply after meeting residence period upon obtaining E-7 |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong scientific curiosity and analytical mindset
-- People who are meticulous and patient
-- People with a passion for life sciences
+- 具有强烈科学好奇心和分析思维的人
+- 细致耐心的人
+- 热爱生命科学的人
 
 **谁不适合**
-- People who dislike repetitive experimental work
-- People averse to handling hazardous materials
+- 不喜欢重复性实验工作的人
+- 不愿处理危险材料的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for a life science researcher?**
-答：For university graduates, the starting salary is approximately 30 to 40 million KRW pre-tax annually, varying by research institute size and region.
+**问：生命科学研究员的平均起薪是多少？**
+答：对于大学毕业生，起薪约为每年税前3000万至4000万韩元，视研究机构规模和地区而定。
 
-**问：What visa is required for foreigners to work as life science researchers?**
-答：You need to obtain an E-7 (Specific Activities) visa, requiring a bachelor's degree or higher and related research experience. Master's/doctoral international students can participate in research on a D-2 visa and later convert to E-7.
+**问：外国人在生命科学研究领域工作需要什么签证？**
+答：您需要获得E-7（特定活动）签证，要求本科及以上学历及相关研究经验。硕士/博士国际学生可持D-2签证参与研究，之后转为E-7。
 
-**问：Which certifications are advantageous for a life science researcher position?**
-答：A Life Science Engineer (national technical certification) is beneficial for employment, and a Clinical Pathologist license is essential in clinical fields.
+**问：哪些证书对生命科学研究员职位有利？**
+答：拥有生命科学工程师（国家技术认证）有助于就业，而临床病理学家执照在临床领域至关重要。
 
 
 ---
@@ -145,12 +138,12 @@ Initially, tasks include experiment assistance and data analysis; with experienc
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/life-science-tester/KR)**

@@ -52,8 +52,6 @@ A professional who supervises and inspects whether building construction is carr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates repetitive tasks like document review and code compliance, but on-site judgment and responsibility remain human domains, leading to some task reduction.
-
 Progression from junior supervisor → intermediate (responsible supervisor) → senior (supervisor/PM), advancing to construction companies, supervision service firms, public institutions, etc. Experience and qualifications are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Progression from junior supervisor → intermediate (responsible supervisor) →
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled construction workers, applicable to E-7-1 |
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled construction laborers; not suitable for supervisors |
-| Subclass F-2 (F-2-7 (Residence)) | E-7 can be converted via points system |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: Typically, promotion from inspection assistant → responsible inspector → 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-supervisor/KR)**

@@ -4,8 +4,6 @@
 
 Orthotology and prosthetists are responsible for designing, manufacturing, adapting, and maintaining orthotics, prosthetics, and other assistive devices to help patients regain mobility. In Spain, this profession is a regulated medical auxiliary profession that requires completion of higher vocational training (FP Grado Superior) and an official qualification certificate.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Orthotology and prosthetists are responsible for designing, manufacturing, adapt
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Orthotic prosthetics technology is being impacted by AI and automation in mixed ways: digital design and 3D printing have compressed traditional manual measurement and fabrication steps, but clinical assessment, personalized adjustment, and patient communication rely on human judgment and empathy, so the moat remains.
-
 Junior technicians can work on fabrication and adaptation; Accumulated experience can be promoted to technical supervisor or department head; Some technicians pursue clinical research or teaching positions after obtaining a university degree (Grado) through further study.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior technicians can work on fabrication and adaptation; Accumulated experienc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | For employer-sponsored work residence, it must prove that the position cannot be filled within the EU |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals who must meet the salary threshold (approximately €33,908 per year) |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | For highly skilled professionals, the process is faster and requires academic certification |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, you need to hold the Técnico Superior en Ortoprótesis (Orthoprosthetic
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthopaedic-technicians/ES)**

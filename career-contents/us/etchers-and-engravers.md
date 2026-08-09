@@ -53,8 +53,6 @@ Engrave or etch patterns on metal, wood, rubber, or other materials, including c
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Etchers and engravers face significant automation compression risk. High-precision CNC machines, laser engraving, and 3D printing are gradually replacing traditional manual tasks, sharply reducing entry-level positions, but certain high-skill niches like artistic design customization and fine manual restoration remain sheltered.
-
 Junior workers can gain experience through apprenticeships or vocational training and advance to senior engravers or mold makers. Some practitioners may transition to jewelry design, mold manufacturing, or quality control positions, or start their own engraving studios.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior workers can gain experience through apprenticeships or vocational trainin
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Not suitable. This occupation usually does not meet the specialty occupation 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/etchers-and-engravers/US)**

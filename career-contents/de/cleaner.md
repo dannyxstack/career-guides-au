@@ -53,8 +53,6 @@ Responsible for daily cleaning and maintenance of buildings, offices, and public
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cleaners face automation risk, but complex cleaning, disinfection, and client interaction tasks are AI-enhanced. Entry-level positions may shrink, but overall demand remains stable.
-
 Junior cleaners can advance to team leader or cleaning supervisor, or transition to specialized cleaning (e.g., construction cleaning, industrial cleaning) through training. A few start their own cleaning companies.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior cleaners can advance to team leader or cleaning supervisor, or transition
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: No training required for formal employment; employers provide on-the-job guid
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaner/DE)**

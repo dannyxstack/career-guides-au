@@ -53,8 +53,6 @@ Provide customers with software/hardware technical support via phone, email, or 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
-
 Promotion is possible to senior technical support, IT project manager, or system administrator. Certifications (such as ITIL, CompTIA A+) can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Promotion is possible to senior technical support, IT project manager, or system
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee work permit (Salarié)) | Suitable for foreign employees employed by French companies, requiring employer sponsorship, with wages not less than 1.5 times SMIC's. |
-| Subclass Carte bleue UE | Suitable for highly qualified employees, with an annual salary exceeding €53,672 (2024 standard), and family members allowed. |
-| Subclass Passeport Talent (Talent passport) | Suitable for highly skilled talent, with an annual salary of over 36,000 euros to quickly obtain residency. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: At least BTS/DUT (2-year program) or Licence (3-year program) are required, a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/client-support-technician/FR)**

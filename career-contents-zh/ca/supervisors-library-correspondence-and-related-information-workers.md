@@ -1,6 +1,6 @@
-# Supervisors, library, correspondence and related information workers 职业分析 · 加拿大
+# 图书馆、通信及相关信息工作者主管（Supervisors, library, correspondence and related information workers）职业分析 · 加拿大
 
-**职业代码: 12012 (NOC)**
+**职业代码：12012 (NOC)**
 
 监督图书馆、信件投递及相关信息工作人员，确保高效运营并提供优质公共服务。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 5,400. 加拿大图书馆及信息服务业稳定发展，数字化转型带来新机遇，就业前景良好。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 5,400。加拿大图书馆及信息服务业稳定发展，数字化转型带来新机遇，就业前景良好。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中低（★★☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中低（★★☆☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 图书馆及信息主管岗位受AI影响喜忧参半：日常流程监督易自动化，但人文服务、危机决策和责任边界仍依赖人类判断。
 
 可晋升为图书馆馆长或信息服务中心经理，需积累管理经验并提升数字技术能力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动编排图书上架与库存盘点
 - 标准化信函分类与分拣流程
@@ -63,7 +63,7 @@
 - 借阅逾期通知与罚款计算
 - 基础数据录入与报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析流通数据优化馆藏采购
 - 通过自然语言处理提升在线参考咨询服务深度
@@ -71,7 +71,7 @@
 - 自动监控异常用户行为并预警安全事件
 - 利用预测模型规划人力资源排班
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理复杂读者投诉与特殊需求
 - 跨部门协作与战略决策
@@ -79,7 +79,7 @@
 - 评估AI系统输出并承担最终责任
 - 组织社区文化活动和阅读推广
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI工具应用（如AI编目、ChatGPT辅助咨询）
 - 数据分析与可视化
@@ -88,16 +88,16 @@
 - 用户体验设计
 - 基础编程（Python用于自动化脚本）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Libraries
-- Information Management
-- Digital Services
-- Public Administration
+- 图书馆
+- 信息管理
+- 数字服务
+- 公共管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@
 | Subclass PNP (Provincial Nominee Program) | 部分省份可提名，有额外加分 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主可申请劳工市场影响评估，支持工作许可 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -150,11 +148,12 @@
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
 | PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-library-correspondence-and-related-information-workers/CA)**

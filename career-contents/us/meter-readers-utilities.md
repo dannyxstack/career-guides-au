@@ -53,8 +53,6 @@ Read and record usage data from electricity, gas, and water meters, usually requ
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Utility meter readers face high automation due to smart meters and remote reading technology, leading to sharp job decline and severely limited career prospects.
-
 Junior meter readers can advance to senior meter readers, team supervisors, or dispatchers; some can move to customer service or data center management roles. However, advancement opportunities are limited as automation increases.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior meter readers can advance to senior meter readers, team supervisors, or d
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Significant. More utilities are deploying smart meters and remote reading sys
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meter-readers-utilities/US)**

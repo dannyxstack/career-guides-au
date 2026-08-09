@@ -53,8 +53,6 @@ Individuals engaged in competitive or professional sports, including football, b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Athletes' core competitiveness lies in physical strength and performance, which AI finds hard to replace; but data analytics and virtual training tools will change training and tactical preparation, and entry-level positions may shrink due to automated analysis tools.
-
 Enter the career system at a young age, developing through clubs or national teams. Later transition to coaching, sports management, media commentary, or sports marketing. Career is short-lived, requiring early transition planning.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Enter the career system at a young age, developing through clubs or national tea
 | Subclass Skilled Worker (Skilled Worker Visa) | Only available for special talents (e.g., top athletes), requires club sponsorship |
 | Subclass EU Blue Card (EU Blue Card) | Generally not applicable unless with a high-salary contract and meeting general skilled migration conditions |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Most require club sponsorship for work visas; top athletes can apply for Skil
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/athlete-or-professional-sportsperson/DE)**

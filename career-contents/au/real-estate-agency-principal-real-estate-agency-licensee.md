@@ -52,8 +52,6 @@ Responsible for managing the daily operations of a real estate agency, formulati
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Can progress from sales agent to team leader, and through experience and qualifications become a company director, then expand to franchises or multiple branches.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from sales agent to team leader, and through experience and qualifi
 | Subclass 186 (Employer Nomination Scheme) | Permanent residency directly, requires employer sponsorship and three years of work experience |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, must be on CSOL |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the CSOL and can apply for the 482 employer-sponsored t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agency-principal-real-estate-agency-licensee/AU)**

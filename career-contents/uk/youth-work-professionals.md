@@ -53,8 +53,6 @@ Youth workers focus on the welfare of young people and support their personal de
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Community service worker roles face complex AI impact: administrative documents, scheduling, and initial client needs sorting are easily automated, but core skills like emotional support, crisis intervention, and personalized service planning are hard to replace, overall risk and opportunity coexist.
-
 Junior youth workers can advance to senior youth worker or team leader through experience, and some move into management roles such as youth service manager. They can also transition to adjacent fields like social worker, education consultant, or community development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior youth workers can advance to senior youth worker or team leader through e
 | Subclass Graduate (Graduate visa) | Allows UK university graduates to stay and work in the UK for 2 years (3 years for PhD) after graduation, no employer sponsorship required, can gain experience. |
 | Subclass Global Talent (Global Talent visa) | Suitable for leading talents with outstanding achievements or potential in youth work, no employer sponsorship required, but must be recognized by relevant institutions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, most employers require a recognized degree in youth work or a related fi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/youth-work-professionals/UK)**

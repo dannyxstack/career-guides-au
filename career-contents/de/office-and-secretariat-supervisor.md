@@ -51,8 +51,6 @@ In Germany, office and secretarial supervisors oversee administrative and secret
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The daily administrative coordination tasks of office managers are easily automated by AI, reducing entry-level positions, but strategic and HR decisions still require humans.
-
 Career progression path: Office Supervisor → Administrative Manager → Operations Director. Further education (e.g., IHK Business Administrator) can lead to general management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression path: Office Supervisor → Administrative Manager → Operat
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can apply through EU Blue Card (requires degree and high salary) or skilled m
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-and-secretariat-supervisor/DE)**

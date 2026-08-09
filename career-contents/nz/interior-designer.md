@@ -52,8 +52,6 @@ Plan functional layouts and aesthetic designs in residential, commercial, and ho
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Junior designers usually start as drafters or assistants, gaining 2-3 years before handling small projects independently. Mid-level can advance to senior designer or project supervisor, managing teams and participating in large commercial projects. Later, one can set up a personal design studio or transition into architectural or interior project management, with significant salary increases.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior designers usually start as drafters or assistants, gaining 2-3 years befo
 | Subclass SMC (Skilled Migrant Category) | 6-point system, scoring based on qualifications/registration/income/work experience. Apply with 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer provides job sponsorship, can accumulate skilled migration experience |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Currently, New Zealand law does not mandate interior designer registration, b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer/NZ)**

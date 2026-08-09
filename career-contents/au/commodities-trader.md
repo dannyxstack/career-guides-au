@@ -52,8 +52,6 @@ Commodity traders buy and sell commodities (e.g., grains, metals, energy) on fin
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will greatly improve data analysis and information integration efficiency for commodity traders, but trading core relies on connections, intuition, and risk management; automation cannot fully replace it—mixed outlook.
-
 Junior traders can start as analysts or trading assistants, then advance to independent traders after gaining client and market experience. Senior traders can become department heads, fund managers or proprietary trading partners. Some move into risk management or commodity research.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior traders can start as analysts or trading assistants, then advance to inde
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored migration, requires the occupation to be on the state's skilled shortage list. Common in NSW, WA, QLD. |
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires employer sponsorship. 222111 is on CSOL and can transition to 186 permanent residency. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's degree in finance, economics, or business; en
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commodities-trader/AU)**

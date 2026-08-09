@@ -50,8 +50,6 @@ This managerial position oversees production planning, process control, quality 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will replace some tasks like production plan optimization, quality inspection, and inventory management, but on-site personnel management and emergency response remain uniquely human domains, leading to complex impacts.
-
 Starting as a production team leader or shift supervisor, one can be promoted to production manager, and with business strategy and engineering knowledge, advance to plant manager or production director.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a production team leader or shift supervisor, one can be promoted to
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targets skilled workers in manufacturing production management, including smart factory specialists |
-| Subclass E-9 (Non-professional Employment) | Not directly for production managers, but entry as skilled factory workers allows conversion after gaining experience |
-| Subclass F-2 (Residence) | Granted to long-term skilled workers, supports stable settlement as production managers |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Certifications like Production Management Engineer, Quality Management Engine
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufacturing-production-manager/KR)**

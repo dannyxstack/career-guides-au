@@ -4,8 +4,6 @@
 
 Hearing aid fitters are responsible for assessing hearing loss, selecting, adjusting, and providing hearing aids to patients, as well as offering follow-up maintenance and rehabilitation guidance. This profession is regulated as a medical auxiliary occupation in France and requires a national diploma.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Hearing aid fitters are responsible for assessing hearing loss, selecting, adjus
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some hearing tests and data processing tasks, but the core value of fitters lies in patient communication, personalized tuning, and regulatory compliance—professions that are enhanced, not replaced.
-
 Junior fitters can work at hearing centers or hospitals, and after gaining experience, can be promoted to senior fitter or team leader. They can also open independent clinics or shift to fields such as hearing rehabilitation training and hearing aid technology development.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior fitters can work at hearing centers or hospitals, and after gaining exper
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passport Talent - Pr (Talent Passport - Medical and paramedical profession) | Suitable for medical support professionals holding a French-recognized diploma, valid for 4 years, renewable and allowing family reunification |
-| Subclass Salarié (Salaried employee visa) | If you obtain a French employer work contract, you can apply for an employment work visa, which must meet the salary requirements |
-| Subclass Recherche d'emploi / (Job search / Business creation visa) | Graduates can apply for a 1-year job-seeking visa, which can be converted to a work visa after finding a job |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: You must hold a National Hearing Aid Fitter Diploma (DE), and admission requi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiologist-hearing-aid-dispenser/FR)**

@@ -1,8 +1,8 @@
-# Semiconductor Engineering Technologist and Researcher 职业分析 · 韩国
+# 半导体工程技师与研究员（Semiconductor Engineering Technologist and Researcher）职业分析 · 韩国
 
-**职业代码: 15322 (KECO)**
+**职业代码：15322 (KECO)**
 
-Professionals responsible for semiconductor device, process, circuit design and R&D, playing a key role in system semiconductors and memory semiconductors.
+负责半导体器件、工艺、电路设计与研发的专业人员，在系统半导体和存储半导体领域发挥关键作用。
 
 
 ---
@@ -11,9 +11,9 @@ Professionals responsible for semiconductor device, process, circuit design and 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 4-year Bachelor's degree | 4年 | $50,000,000~$80,000,000（Tuition at national universities） |
-| 硕士学位 | 2 年 | $20,000,000~$40,000,000（Tuition + research funding support） |
-| Doctoral degree | 4年 | $20,000,000~$40,000,000（Research funding support） |
+| 四年制学士学位 | 4年 | $50,000,000~$80,000,000（国立大学学费） |
+| 硕士学位 | 2 年 | $20,000,000~$40,000,000（学费+研究经费支持） |
+| 博士学位 | 4年 | $20,000,000~$40,000,000（科研经费支持） |
 
 ---
 
@@ -21,18 +21,18 @@ Professionals responsible for semiconductor device, process, circuit design and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master's/Doctoral degree | 教育部 | 必备 | 高级职位所需 |
-| Professional Engineer in Electronics | Human Resources Development Service of Korea | 可选 | Engineer certification; not mandatory but gives bonus points |
-| Professional Engineer in Semiconductor Design | Human Resources Development Service of Korea | 可选 | Specialized certification in design field |
+| 硕士/博士学位 | 教育部 | 必备 | 高级职位所需 |
+| 电子专业工程师 | 韩国人力资源开发服务局 | 可选 | 工程师认证；非强制但给予加分 |
+| 半导体设计专业工程师 | 韩国人力资源开发服务局 | 可选 | 设计领域专业认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 45,000. The Korean semiconductor industry is expected to continue growing amid intensifying global competition and technological hegemony, with steady demand for high-level talent.
+**职位需求量：很高（★★★★½）** 全国从业人数约 45,000。预计韩国半导体行业将在全球竞争和技术霸权加剧中继续增长，对高级人才的需求稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ Professionals responsible for semiconductor device, process, circuit design and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $40,000,000~$50,000,000 | Based on large corporations |
-| Mid-level (4–9 years) | $50,000,000~$80,000,000 | Including mid-sized companies |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Core talent, special bonus separate |
+| 初级（0-3年） | $40,000,000~$50,000,000 | 基于大企业 |
+| 中级（4-9年） | $50,000,000~$80,000,000 | 包括中型企业 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 核心人才，特别奖金另计 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is being actively introduced into semiconductor design and process optimization, greatly improving work efficiency, but core architecture design and creative problem-solving remain the domain of human experts.
+AI正积极引入半导体设计和工艺优化，大幅提高工作效率，但核心架构设计和创造性问题解决仍由人类专家完成。
 
-Typically start as researchers in labs/companies after a master's or doctoral degree; after 5–10 years of experience, advance to senior/principal researcher, team leader/lab head, and progress to management (CTO) or expert technical track.
+通常硕士或博士毕业后在实验室/公司担任研究员；5-10年经验后晋升为高级/首席研究员、团队负责人/实验室主任，并逐步进入管理（CTO）或专家技术路线。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Process parameter optimization
-- Defect detection pattern analysis
+- 工艺参数优化
+- 缺陷检测模式分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Circuit design automation
-- Yield prediction modeling
-- Simulation acceleration
+- 电路设计自动化
+- 产量预测建模
+- 仿真加速
 
-**人类护城河:**
+**人类护城河：**
 
-- Novel semiconductor device concept design
-- Process innovation ideation
-- Multidisciplinary problem solving
+- 新型半导体器件概念设计
+- 流程创新构思
+- 多学科问题解决能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI/ML
-- Semiconductor process simulation
-- Data analysis
+- 半导体工艺仿真
+- 数据分析
 - Python/C++
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductor design
-- Process technology
-- Foundry
-- AI semiconductors
+- 半导体设计
+- 工艺技术
+- 铸造厂
+- AI半导体
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled professionals in specialized fields, targeting semiconductor engineers |
-| Subclass D-10 (D-10 (Job Seeking)) | Job-seeking period after graduation for international students |
-| Subclass F-2 (F-2 (Residence)) | Points-based permanent residency, long-term residence for skilled workers |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those deeply interested in physics and electronics
-- Those who persistently immerse themselves in problem-solving
-- Those with both teamwork and documentation skills
+- 对物理和电子学有浓厚兴趣的人
+- 那些持续沉浸于解决问题的人
+- 具备团队合作和文档技能的人
 
 **谁不适合**
-- Those who dislike change and prefer repetitive tasks
-- Those who are weak with overtime and deadlines
+- 不喜欢变化、偏好重复性任务的人
+- 不适应加班和截止日期的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a semiconductor engineer?**
-答：At large companies, it's around 40-50 million KRW, up to 60 million KRW including bonuses.
+**问：半导体工程师的起薪是多少？**
+答：大公司约4000-5000万韩元，包括奖金可达6000万韩元。
 
-**问：Can foreigners find jobs in the semiconductor field?**
-答：Yes, with an E-7 visa for professional talent, and major companies like Samsung and SK Hynix actively recruit.
+**问：外国人能在半导体领域找到工作吗？**
+答：可以，持E-7签证作为专业人才，三星、SK海力士等大公司积极招聘。
 
-**问：What are the promotion requirements for this job?**
-答：A master's or doctoral degree and strong performance are important; R&D achievements, papers, and patents significantly impact promotion.
+**问：此工作的晋升要求是什么？**
+答：硕士或博士学位及出色表现很重要；研发成果、论文和专利对晋升影响显著。
 
 
 ---
@@ -143,12 +136,12 @@ Typically start as researchers in labs/companies after a master's or doctoral de
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/semiconductor-engineering-technologist-and-researcher/KR)**

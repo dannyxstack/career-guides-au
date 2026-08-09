@@ -4,8 +4,6 @@
 
 Japanese lawyers are highly specialized professionals handling a wide range of legal work including court representation, legal consultation, and contract drafting. As the core of the legal profession, they support the judicial system.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Japanese lawyers are highly specialized professionals handling a wide range of l
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Legal work is affected by AI but full replacement is difficult. AI complements routine tasks like contract review and case search, allowing lawyers to focus on strategic judgment and negotiation.
-
 After passing the bar exam, one completes judicial training (1 year) and registers as a lawyer. Subsequently, they gain experience at law firms or corporate legal departments, advancing to partner or independent practice. Establishing a specialized field is key to career growth.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After passing the bar exam, one completes judicial training (1 year) and registe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | This may apply if a foreign lawyer handles foreign law at a Japanese law firm. A separate Japanese lawyer qualification is required. |
-| Subclass 高度専門職 (Highly Skilled Professional Visa) | This may apply to foreign lawyers with high income or experience. Preferential treatment for permanent residency. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: Various environments including corporate legal departments, law firms, and go
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyer/JP)**

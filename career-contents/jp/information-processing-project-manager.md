@@ -50,8 +50,6 @@ Specialist responsible for IT project planning, progress management, quality/del
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists PMs with task management and progress prediction, but human judgment remains essential for stakeholder coordination and team management. Consequently, AI enhances PM work and improves productivity.
-
 Promotion from programmer via project leader. PMI or IPA certifications are effective for career advancement. Agile PM demand rising in recent years.
 
 **Tasks most exposed to AI:**
@@ -91,15 +89,9 @@ Promotion from programmer via project leader. PMI or IPA certifications are effe
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Common as IT engineer. Requires university degree or work experience. |
-| Subclass 高度専門職1号イ (Highly Skilled Professional (i)) | 70+ points in points system. For PMs with advanced skills/knowledge. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +135,12 @@ A: Although not required, obtaining PMP or project management certification is a
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-processing-project-manager/JP)**

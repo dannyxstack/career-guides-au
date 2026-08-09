@@ -53,8 +53,6 @@ Diagnose, adjust, repair, or overhaul railway vehicles, mine carts, or public tr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Daily inspections, recording, and scheduling for rail traffic crew can be automated by AI, but on-site judgment, emergency handling, and physical operations still rely on humans—overall risks and opportunities coexist.
-
 Junior technicians can gain experience through apprenticeships or on-the-job training, advancing to senior repairers, supervisors, or technical experts. Some may transition to railway operations management or equipment manufacturing.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior technicians can gain experience through apprenticeships or on-the-job tra
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually requires high school diploma, then on-the-job training or complete 4-
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-car-repairers/US)**

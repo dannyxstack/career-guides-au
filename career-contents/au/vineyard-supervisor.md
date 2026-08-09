@@ -52,8 +52,6 @@ Vineyard Supervisor oversees the daily operations of viticulture, including plan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
-
 Can progress from vineyard worker to supervisor, then to farm manager or regional operations manager. With experience, can move into winery management, agricultural consulting, or running one's own vineyard.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from vineyard worker to supervisor, then to farm manager or regiona
 | Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, transitioning to 191 permanent residence |
 | Subclass 491 (Skilled Work Regional Visa) | State-nominated regional provisional visa, transitioning to 191 permanent residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires knowledge of viticulture, team management, equipment operation (e.g.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vineyard-supervisor/AU)**

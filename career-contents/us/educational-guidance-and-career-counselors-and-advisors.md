@@ -52,8 +52,6 @@ Provide educational, career, and personal guidance to students and clients, help
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
-
 Junior consultants can advance to senior consultant, department head, or district coordinator. National certification (e.g., NCC) aids career development; some move into higher education or private consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior consultants can advance to senior consultant, department head, or distric
 | Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or above and applying for PERM green card |
 | Subclass TN (TN Status (USMCA)) | Canadian or Mexican citizens can apply within designated occupation lists |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from junior consultant to senior consultant, department head, or 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/educational-guidance-and-career-counselors-and-advisors/US)**

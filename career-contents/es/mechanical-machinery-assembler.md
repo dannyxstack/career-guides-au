@@ -53,8 +53,6 @@ Responsible for assembling mechanical components into complete mechanical equipm
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mechanical assemblers face the dual challenges of automation and AI: repetitive assembly tasks are easily replaced by robots, but complex debugging, fault diagnosis, and on-site installation still rely on human experience, making skill upgrades urgent.
-
 You can advance from junior assembler to senior assembler, team leader, or technical quality inspector. Some experienced candidates may move to equipment maintenance or on-site installation and commissioning positions, or further study to become technical engineers.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can advance from junior assembler to senior assembler, team leader, or techn
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. Suitable for third-country applicants who already have job offers. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled positions, requires higher education or equivalent experience, salary threshold around €33,000/year. Mechanical assemblers meeting education and experience requirements can apply. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 12 months looking for a job, and financial proof is required. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Typically, completion of FP Grado Medio or Superior in mechanical manufacturi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-machinery-assembler/ES)**

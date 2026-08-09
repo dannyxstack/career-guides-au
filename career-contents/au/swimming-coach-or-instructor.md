@@ -53,8 +53,6 @@ Swimming instructors teach swimming skills and water safety, covering children's
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
-
 Learn to Swim children's training is a core demand market; shortage of qualified coaches ensures full scheduling.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Learn to Swim children's training is a core demand market; shortage of qualified
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Cannot directly apply for skilled migration. Swimming Coach or Instructor (45
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/swimming-coach-or-instructor/AU)**

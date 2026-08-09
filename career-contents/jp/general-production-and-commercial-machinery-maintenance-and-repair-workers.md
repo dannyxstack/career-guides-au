@@ -51,8 +51,6 @@ Specialists responsible for inspecting, maintaining, and repairing general machi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation streamline diagnosis and predictive maintenance, but on-site adjustments and disassembly repairs still require humans. It only partially complements the work.
-
 Start as an apprentice, then become a team leader or supervisor through experience and certifications. Can advance to manufacturer or service engineer roles.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Start as an apprentice, then become a team leader or supervisor through experien
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) ( molding, industrial machinery, electrical/electronic information-related manufacturing)) | Covers machine maintenance in 3 manufacturing fields. Requires passing exam. Residence period 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or ~10 years of work experience. Specialized maintenance knowledge needed. |
-| Subclass 技能 (Skilled Worker Visa (machine maintenance)) | Requires skilled expertise (10+ years experience). Residence period renewable. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (manufacturing field)) | Requires advanced skills. Family accompaniment/PR application possible. Target fields expanding. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: There are various paths such as site supervisor, management, manufacturer ser
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-production-and-commercial-machinery-maintenance-and-repair-workers/JP)**

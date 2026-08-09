@@ -4,8 +4,6 @@
 
 A baker and pastry chef is responsible for the entire process of making bread, cakes, and pastries by kneading, shaping, and baking using ingredients such as flour, sugar, and eggs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A baker and pastry chef is responsible for the entire process of making bread, c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are replacing bread dough mixing and simple molding processes, but areas requiring human senses such as creative design, flavor combinations, and quality control remain, leading to job roles being reduced and advanced.
-
 Typically, one can accumulate skills in small businesses and advance to a head pastry chef or bakery manager, or even start their own business or become a franchise branch manager.
 
 **Tasks most exposed to AI:**
@@ -92,18 +88,9 @@ Typically, one can accumulate skills in small businesses and advance to a head p
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible in manufacturing/bakery, but quota limited |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled bakers as skilled worker |
-| Subclass F-2 (F-2 (Residence)) | No work restrictions after long-term stay |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans, service industry allowed |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +134,12 @@ A: No, there is no educational restriction, but vocational college or academy tr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker-and-pastry-chef/KR)**

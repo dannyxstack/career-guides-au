@@ -54,8 +54,6 @@ Home Care Package Coordinator manages government-subsidized home care packages f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly enhance budget analysis, report generation, and schedule optimization for this role, but core interpersonal coordination, emotional support, and budget approval responsibilities still require humans, making the overall risk controllable with significant efficiency gains.
-
 Career progression can advance from coordinator to team leader or regional manager, or move into care management, health service management roles. Requires experience accumulation and possibly completing a health management diploma.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression can advance from coordinator to team leader or regional manag
 | Subclass SMC (Skilled Migrant Category) | This occupation is not on the skill shortage list and generally cannot directly apply for SMC unless high salary or special skills. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is not on the Green List and cannot immigrate through this pathway. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Due to an aging population, demand for community care is growing, providing s
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-care-package-coordinator/NZ)**

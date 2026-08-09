@@ -55,8 +55,6 @@ Dental assistants assist dentists with clinical procedures, patient care, instru
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
-
 Limited career progression: can advance to senior dental assistant, clinic management, or transition to oral health therapist (requires additional training).
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Limited career progression: can advance to senior dental assistant, clinic manag
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Typically complete a certificate or diploma course of 6 months to 1 year, or 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistant/NZ)**

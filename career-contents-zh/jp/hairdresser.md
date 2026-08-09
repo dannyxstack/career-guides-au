@@ -1,10 +1,8 @@
-# Hairdresser 职业分析 · 日本
+# 理发师（Hairdresser）职业分析 · 日本
 
-**职业代码: 382 (JSCO)**
+**职业代码：382 (JSCO)**
 
-A professional dedicated to enhancing customers' appearance through cutting, perming, coloring, etc. Requires skill acquisition and national certification.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过剪发、烫发、染发等提升客户外观的专业人士。需要掌握技能并获得国家认证。
 
 
 ---
@@ -13,9 +11,9 @@ A professional dedicated to enhancing customers' appearance through cutting, per
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Beauty vocational school | 2 年 | $2,000,000~$4,000,000（Varies by day and evening courses） |
-| Beauty correspondence education | 3年 | $800,000~$1,500,000（Requires in-person practical sessions） |
-| National exam eligibility | 2-3年 | $500,000~$1,000,000（Separate from tuition fees） |
+| 美容职业学校 | 2 年 | $2,000,000~$4,000,000（因白班和晚班课程而异） |
+| 美容函授教育 | 3年 | $800,000~$1,500,000（需要现场实践课程） |
+| 国家考试资格 | 2-3年 | $500,000~$1,000,000（与学费分开） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional dedicated to enhancing customers' appearance through cutting, per
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Hairstylist License | Ministry of Health, Labour and Welfare | 必备 | Required to work in a salon |
-| Management Hairstylist License | Ministry of Health, Labour and Welfare | 可选 | Required to manage a salon (after practical experience) |
-| Beauty Skills Certification | Japan Beauty Skills Certification Association | 可选 | Advantageous for employment and promotion |
+| 国家美发师执照 | 厚生劳动省 | 必备 | 需在沙龙工作 |
+| 管理美发师执照 | 厚生劳动省 | 可选 | 需具备管理美容院的能力（实践经验后） |
+| 美容技能认证 | 日本美容技能认证协会 | 可选 | 有利于就业和晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 532,000. The beauty industry has stable demand, but competition is fierce and the rate of opening new salons is high. Labor shortages persist, but there are many job openings for beginners.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 532,000。美容行业需求稳定，但竞争激烈，新开业率高。劳动力持续短缺，但为初学者提供许多工作机会。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,95 +40,87 @@ A professional dedicated to enhancing customers' appearance through cutting, per
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $2,000,000~$3,000,000 | Assistant period is lower with allowances included |
-| Mid-level (3-10 years) | $3,000,000~$5,000,000 | Commission-based pay added as a stylist |
-| 资深（10年以上） | $4,000,000~$8,000,000 | High income possible as store manager or independent owner |
+| 初级 (0-3年) | $2,000,000~$3,000,000 | 助理期间薪资较低，包含补贴 |
+| 中级（3-10年） | $3,000,000~$5,000,000 | 作为造型师增加提成薪酬 |
+| 资深（10年以上） | $4,000,000~$8,000,000 | 作为店长或独立经营者收入可观 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation cannot fully replace cutting and styling, but are increasingly used in support areas like customer management, booking, and personal color analysis. Core skills still rely on human sensibility and communication.
+AI和自动化无法完全替代剪发造型，但在客户管理、预约、个人色彩分析等支持领域应用日益增多。核心技能仍依赖人类感性和沟通。
 
-Start as an apprentice, then move from assistant to stylist. After working at a salon, you can open your own business or specialize in techniques like makeup or kimono dressing.
+从学徒开始，然后从助理晋升为造型师。在沙龙工作后，可以自己创业或专攻化妆、和服穿着等技术。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Appointment and customer information management
-- Simple shampooing
-- Mixing colorants (partial)
+- 预约与客户信息管理
+- 简易洗发
+- 混合着色剂（部分）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Hairstyle suggestions (AI simulation)
-- Scalp diagnosis and AI counseling
-- Inventory management and ordering
+- 发型建议（AI模拟）
+- 头皮诊断与AI咨询
+- 库存管理与订购
 
-**人类护城河:**
+**人类护城河：**
 
-- Cutting techniques
-- Interpersonal communication
-- Creativity
-- Adaptability during treatments
+- 切割技术
+- 人际沟通
+- 创造力
+- 治疗期间的适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Counseling skills
-- Trend analysis
-- Social Media Marketing
-- Advanced Skills (Kimono Dressing, Makeup)
+- 咨询技巧
+- 趋势分析
+- 社交媒体营销
+- 高级技能（和服穿着、化妆）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hair and scalp care
-- Men's grooming
-- Gray hair dye and anti-aging care
-- Bridal and kimono dressing
+- 头发和头皮护理
+- 男士美容
+- 灰发染发与抗衰老护理
+- 新娘和和服穿戴
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Building Cleaning)) | Hairdressers not eligible, but future expansion possible |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Not suitable for hairdressing (even vocational school graduates may be rejected) |
-| Subclass 特定活動（外国人美容師実習） (Designated Activities (Foreign Hairdresser Training)) | Limited training program available, no work permitted |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person who enjoys interacting with people
-- Person skilled with hands and detail-oriented
-- Person with high fashion sense and aesthetics
+- 喜欢与人打交道的人
+- 动手能力强且注重细节的人
+- 时尚感和审美能力强的人
 
 **谁不适合**
-- Person lacking physical stamina
-- Person who dislikes standing work or weekend shifts
+- 体力不支者
+- 不喜欢站立工作或周末轮班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a hairdresser?**
-答：Starting salary is around ¥160,000-200,000 per month, with annual income of ¥2-3 million. In commission-based salons, it varies by performance.
+**问：美发师起薪是多少？**
+答：起薪约每月16万-20万日元，年收入200-300万日元。在提成制沙龙中，视业绩而定。
 
-**问：Can foreigners work as hairdressers in Japan?**
-答：A national hairdressing license is required, and the 'Engineer/Specialist in Humanities/International Services' visa rarely covers hairdressing, making it challenging. It is not covered by Specified Skilled Worker.
+**问：外国人在日本可以做美发师吗？**
+答：需要国家美发执照，且'工程师/人文知识/国际服务'签证很少涵盖美发，因此具有挑战性。不包括在特定技能工人中。
 
-**问：How can hairdressers advance their careers?**
-答：From stylist to top stylist to salon manager. Alternatively, specialize in hair makeup, wigs, or beauty instruction, or open your own salon.
+**问：理发师如何提升职业生涯？**
+答：从发型师到首席发型师再到沙龙经理。也可专攻发妆、假发或美容教学，或开设自己的沙龙。
 
 
 ---
@@ -148,12 +138,12 @@ Start as an apprentice, then move from assistant to stylist. After working at a 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hairdresser/JP)**

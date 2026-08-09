@@ -51,8 +51,6 @@ Sales demonstrators showcase product features, functions, and usage methods to c
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Sales demonstrators have a moderate level of automation in demonstration and communication tasks, but AI-driven virtual assistants and self-service demonstration tools may replace some presentation parts, while the value of customer interaction and personalized experience will continue to grow.
-
 Junior demonstrators can advance to senior demonstrators or regional sales representatives, or transition to marketing, branding, etc. With experience, they can become sales supervisors.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior demonstrators can advance to senior demonstrators or regional sales repre
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migration with annual salary above the threshold, requiring employer sponsorship. The 2025 threshold is approximately €5,688/month (for those aged 30+). |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates in the Netherlands or master's/doctoral graduates from the top 200 global universities, allowing them to freely seek jobs within 1 year. |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires annual salary above threshold (approx. €6,000/month). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Typically requires a Highly Skilled Migrant visa or EU Blue Card, needing emp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-demonstrator/NL)**

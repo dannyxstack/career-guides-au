@@ -51,8 +51,6 @@ A concrete worker is a skilled occupation responsible for concrete placement, cu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace some parts of concrete pouring and finishing, but complete replacement is difficult due to on-site variability and precision requirements. New technologies like 3D printing are being introduced but remain supplementary.
-
 Promotion path: entry-level → intermediate → senior (foreman) → site manager; starting a specialized concrete company is also an option.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Promotion path: entry-level → intermediate → senior (foreman) → site manag
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Non-professional foreign workforce introduction may include concrete workers, but skilled workers consider E-7 conversion |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable if recognized as skilled worker, subject to construction skilled worker quota |
-| Subclass F-2 (F-2 (Residence)) | After certain period of stay, possible through point system, long-term residence path |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work in construction with F-4 but with some restrictions |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Not mandatory, but having a Concrete Technician certificate helps with employ
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-worker/KR)**

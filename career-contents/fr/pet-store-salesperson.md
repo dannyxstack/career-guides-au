@@ -4,8 +4,6 @@
 
 Engaged in pet sales, customer consultation, and animal care for pets and pet supplies in pet stores, responsible for product display, inventory management, and cashiering. Knowledge of animals and service awareness are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in pet sales, customer consultation, and animal care for pets and pet su
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Routine tasks for pet store salespeople (such as cashier and product introduction) are easily replaced by AI, but animal care and personalized customer relationships still rely on humans, and positions will shift toward 'digital assistance + experiential services.'
-
 You can be promoted to store manager, regional manager, or purchasing specialist. You can also shift to specialized fields such as pet care, pet grooming, or animal hygiene.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted to store manager, regional manager, or purchasing specialist
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Visa) | Employer sponsorship is required; the position must meet the demands of the French labor market, not in urgent demand, and is relatively difficult to approve. |
-| Subclass Passeport Talent (Talent Passport) | Retail salespeople find it difficult to meet the requirement to prove high skill or education. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually, CAP pet shop salespeople or BTS pet technicians are required, with a
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pet-store-salesperson/FR)**

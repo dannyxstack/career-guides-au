@@ -4,8 +4,6 @@
 
 Specialists who collect and analyze cadastral (land) survey and spatial information to create drawings, measure land boundaries and areas, and manage various cadastral records.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Specialists who collect and analyze cadastral (land) survey and spatial informat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-With the introduction of drones, 3D scanners, and automated surveying software, repetitive surveying tasks become automated, but human roles remain essential for interpreting spatial information, legal judgment, and on-site decision-making. AI serves as a tool to enhance work efficiency, adding greater value to advanced technicians.
-
 Typical career progression: Technician/Engineer → Industrial Engineer → Professional Engineer; after gaining experience in public institutions, surveying firms, or engineering companies, self-employment is possible.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Typical career progression: Technician/Engineer → Industrial Engineer → Prof
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Must be invited by employer as skilled worker in surveying/cadastral field, required certification and experience proof |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for surveyors due to non-professional nature, limited application |
-| Subclass F-2 (Residence) | Possible for long-term stay, point-based visa beneficial for skilled workers |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: You need to graduate from a junior college or 4-year university in a field su
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cadastral-and-surveying-technicians/KR)**

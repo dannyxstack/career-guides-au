@@ -54,8 +54,6 @@ Ball sports coaches are responsible for teaching and training individuals or tea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Ball sports coaches face mixed AI impact: basic training video analysis, opponent data preparation, and schedule management can be automated, but on-site real-time feedback, team motivation, and personalised adjustments rely on human experience and intuition, which are hard to replace in the short term.
-
 Initially mostly part-time or assistant coach; with experience can advance to head coach or youth team coach. Some coaches move into sports management, rehabilitation, or start their own training camps. Continuing education can enhance professional certification and broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Initially mostly part-time or assistant coach; with experience can advance to he
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | The Opportunity Card allows job seekers without a job offer to enter Germany to look for work, suitable for applicants with sports science degrees or coaching qualifications. |
 | Subclass EU Blue Card (EU Blue Card) | If the annual salary exceeds the Blue Card threshold (approx. €43,800 in 2024) and you hold a university degree, you can apply for a Blue Card. However, coach salaries are usually low, and few meet the conditions. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes. Can progress from C-level coach to A-level, from assistant coach to head
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trainer-ball-sports/DE)**

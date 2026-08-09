@@ -50,8 +50,6 @@ A profession responsible for sales of industrial machinery and machine tools, pr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines customer data analysis and proposal creation, but advanced understanding of mechanical products and relationship building remain human roles. The likelihood of AI completely replacing sales is low.
-
 After gaining sales experience, career advancement to managerial positions such as chief or section manager, or as a specialized salesperson. Deepening technical knowledge opens paths to consulting sales.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ After gaining sales experience, career advancement to managerial positions such 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Combine mechanical knowledge and sales experience to work in sales positions related to manufacturing. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | May qualify as sales support in three manufacturing fields (machinery, metals, etc.). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -138,12 +130,12 @@ A: Mainly the 'Engineer/Specialist in Humanities/International Services' visa. M
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machinery-equipment-sales/JP)**

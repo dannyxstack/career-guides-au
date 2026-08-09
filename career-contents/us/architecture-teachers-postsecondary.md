@@ -51,8 +51,6 @@ Teach architecture and architectural design courses at higher education institut
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career progression typically starts from assistant professor (non-tenure track), advancing to associate and full professor (tenure track), requiring research publications, teaching evaluations, and institutional service. Some transition to administrative roles like department chair.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically starts from assistant professor (non-tenure track),
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For professors with advanced degrees, usually through PERM labor certification or National Interest Waiver (NIW) |
 | Subclass O-1 (O-1 Visa for Individuals with Extraordinary Ability) | Applicable to professors with outstanding achievements in construction field; no labour certificate required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Slow growth (~2%), competitive, fewer tenure-track positions, more part-time 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architecture-teachers-postsecondary/US)**

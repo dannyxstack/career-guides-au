@@ -4,8 +4,6 @@
 
 This is a public sector clerical position handling administrative tasks related to military resource management, military service statistics, enlistment, and discharge.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This is a public sector clerical position handling administrative tasks related 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Due to AI and automation, tasks such as simple data entry, statistical report generation, and document classification are decreasing, which is likely to reduce workforce size. However, tasks requiring human judgment, such as handling civil complaints and supporting policy decisions, will remain.
-
 Mostly appointed as Grade 9 civil servants, with internal promotions possible to Grades 7, 6, etc. Career development takes place within the Military Manpower Administration and its regional offices.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Mostly appointed as Grade 9 civil servants, with internal promotions possible to
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage; civil service appointment is practically impossible, but general administrative jobs are available |
-| Subclass F-5 (F-5 (Permanent Residence)) | Even permanent residents face restrictions in public office appointments, making it difficult for Military Manpower Administration clerks to find employment |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: High school graduates or above can apply for the Grade 9 open competitive exa
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/military-manpower-administration-clerk/KR)**

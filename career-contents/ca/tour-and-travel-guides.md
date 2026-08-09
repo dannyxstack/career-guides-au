@@ -52,8 +52,6 @@ Provides guided tours, itinerary planning, and travel product bookings for touri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tour guide industry will see significant impact from AI tools: audio guides, translation AI, and itinerary planners will replace some narration and booking work, but human emotional connection, flexibility, and deep cultural interpretation remain irreplaceable. Entry-level competition increases, but demand for high-end custom tours rises.
-
 Entry-level guides can advance to senior guides or travel consultants (customizing high-end routes) with experience. Also can move into tour operations management, destination marketing, or start a travel agency, or obtain a guide certificate (e.g., CITC certification) to increase competitiveness.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level guides can advance to senior guides or travel consultants (customizi
 | Subclass EE (Express Entry (FSW/CEC)) | Requires 1 year Canadian experience (CEC) or overseas experience (FSW), CLB 7 or above, and CRS scoring. Guide position NOC B class, eligible for points. |
 | Subclass PNP (Provincial Nominee Program) | BC PNP (tourism stream), Ontario, Alberta have relevant programs. Requires employer offer or provincial labour market requirements, some require French. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Some provinces like BC require a tour guide licence (issued by Tourism BC), a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-and-travel-guides/CA)**

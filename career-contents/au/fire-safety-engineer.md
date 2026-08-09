@@ -53,8 +53,6 @@ Fire safety engineers apply engineering principles to design fire protection sys
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-enhanced profession: AI tools will significantly improve the efficiency of fire simulation, code review, and report generation, but core design decisions and compliance responsibilities still rely on human engineers.
-
 Performance-Based Fire Engineering is replacing traditional prescriptive approaches as the mainstream method, with flame simulation software such as FDS becoming standard tools. SFPE certification and qualifications from the Australasian fire engineering bodies (AFAC/AFSET) are increasingly valued.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Performance-Based Fire Engineering is replacing traditional prescriptive approac
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Extremely few practitioners nationwide, in a state of critical shortage, with
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-safety-engineer/AU)**

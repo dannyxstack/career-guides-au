@@ -54,8 +54,6 @@ Performs physical labor in tree planting, pest control, soil conservation, etc.,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation's impact on forest and conservation workers is generally augmentative rather than substitutive: physical tasks are hard to automate, but AI greatly enhances efficiency and decision-making through drone monitoring, smart tools, and data analysis.
-
 Can advance from general worker to supervisor or technician; some transition to roles such as ranger or natural resource specialist through experience.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from general worker to supervisor or technician; some transition to 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Affected by government budgets, but wildfire management and climate projects 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forest-and-conservation-workers/US)**

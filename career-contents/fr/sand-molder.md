@@ -4,8 +4,6 @@
 
 Sand casters are responsible for using sand molds to cast metal parts, which is the core occupation of the traditional casting industry. This profession in France is mainly concentrated in the automotive, aerospace, and mechanical manufacturing sectors.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Sand casters are responsible for using sand molds to cast metal parts, which is 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Sand casters face significant compression from AI and automation: traditional tasks such as sand mold manufacturing and pouring parameter adjustment are being replaced by 3D printed sand molds and intelligent gating systems, reducing entry-level job demand and requiring workers to upgrade toward maintenance and programming.
-
 Junior workers can be promoted through apprenticeship programs to senior mold workers or foundry technicians, and further become production supervisors or quality control specialists. Some have turned to new technology fields such as precision casting or 3D printing molds.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Junior workers can be promoted through apprenticeship programs to senior mold wo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee work permit) | Applicable to foreign workers who have obtained a work contract with a French foundry company, requiring the company to provide proof of employment and the labour department to review the labour market test. |
-| Subclass Passeport Talent (Talent Passport) | If you have a master's degree or more than 3 years of work experience, and your salary is no less than 1.5 times the French average annual salary, you can apply. The process is simplified |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, higher education diplomas and salaries must be at least 1.5 times the French average annual salary, making it difficult for sand casters to meet the standards |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Workers can be promoted from junior workers to senior mold operators, foundry
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sand-molder/FR)**

@@ -51,8 +51,6 @@ Data center electrical engineers are responsible for the design and operation an
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the design and operational efficiency of data center electrical engineers, but it cannot replace their on-site decision-making, compliance responsibilities, and cross-system collaboration capabilities; Overall job risk is relatively low, and demand continues to expand due to increased AI computing power.
-
 US AI data centers are characterized by high-density power supply and liquid cooling, with 2N redundancy and reliability design as the core; AI-assisted monitoring, with the responsibility for power supply reliability borne by engineers.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ US AI data centers are characterized by high-density power supply and liquid coo
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3: Employer-Sponsored Employment-Based Immigration (including PERM Labor Certification) |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW: National Interest Waiver for Self-Applied Green Cards |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Yes, it's classed as a shortage engineering occupation, eligible for US skill
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-centre-electrical-engineer/US)**

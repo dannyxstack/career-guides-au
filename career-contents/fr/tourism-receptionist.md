@@ -52,8 +52,6 @@ Responsible for receiving visitors at tourist information centers, travel agenci
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of travel advisors like price comparison, booking, and itinerary planning are being replaced by AI travel assistants and aggregation platforms; job numbers will decline significantly. Surviving roles shift from sales to high-end customization and crisis management.
-
 You can advance from junior receptionist to team leader or tourism information center manager, or develop into tourism product planning, digital marketing, and other directions. After gaining experience, you can obtain a tour guide certificate or switch to high-end customized tours.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from junior receptionist to team leader or tourism information c
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, employment contract of at least one year, and salary not less than 1.5 times the statutory minimum wage. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents or internal company transfers, requiring an annual salary of no less than approximately 42,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | Highly skilled positions with higher education (at least three years) and an annual salary of about 53,000 euros (2024 standard). |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Minimum CAP Accueil touristique, recommended BTS Tourisme. Tour guiding requi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourism-receptionist/FR)**

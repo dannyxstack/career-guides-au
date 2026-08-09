@@ -4,8 +4,6 @@
 
 Engaged in the procurement, authentication, appraisal, and sales of artworks, antiques, and second-hand items, possibly operating physical stores or online platforms, requiring knowledge of art history and business acumen.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in the procurement, authentication, appraisal, and sales of artworks, an
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is reshaping art and secondhand transactions, with automated authentication and appraisal tools reducing low-end work, but AI enhances market insights and personalized marketing, creating new opportunities for practitioners with deep knowledge and networks.
-
 You can start as a junior buyer or sales assistant and advance to senior appraiser, gallery manager, or independent shop. After accumulating client resources and industry reputation, we can expand into auction houses or international transactions.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can start as a junior buyer or sales assistant and advance to senior apprais
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for outstanding talents in the fields of culture and arts, requiring proof of financial independence and project planning |
-| Subclass Salarié | If employed by a gallery or auction house, a work permit is required |
-| Subclass Carte bleue UE (EU Blue Card) | This applies to high-paying management positions, but salaries in these industries often fall short of expectations |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Due to the impact of online sales and digitalization, traditional brick-and-m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buying-and-selling-of-art-objects-antiques-or-secondhand-goods/FR)**

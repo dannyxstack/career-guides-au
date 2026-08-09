@@ -52,8 +52,6 @@ Operate industrial washing machines, dryers and other equipment, handle fabric c
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation has a high automation risk; core operational tasks (such as identifying fabrics, setting programs, checking cleanliness) are being gradually replaced by smart laundry systems, with job demand shrinking by 5-8% per year in developed countries.
-
 Can advance from operator to laundry supervisor or factory manager; may also transition to equipment maintenance or logistics management.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Can advance from operator to laundry supervisor or factory manager; may also tra
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Can advance to laundry supervisor or factory manager, or transition to equipm
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-machine-operator/IE)**

@@ -54,8 +54,6 @@ In federal and provincial government agencies in Canada, responsible for grant p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Government program officers' tasks like grant evaluation and data compliance checks are easily automated by AI, but core duties such as policy-making and stakeholder communication rely on human judgment and political sensitivity, overall risks and opportunities coexist.
-
 Can be promoted from grant officer to senior policy analyst, project manager, or even department head. Career transition paths include policy development or auditing. Some move to non-profit or consulting to manage government-funded projects.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can be promoted from grant officer to senior policy analyst, project manager, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance to senior policy analyst, project manager, or department head. Ma
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-officers-unique-to-government/CA)**

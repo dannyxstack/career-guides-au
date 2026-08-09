@@ -1,8 +1,8 @@
-# Web Developer 职业分析 · 韩国
+# Web开发人员（Web Developer）职业分析 · 韩国
 
-**职业代码: 13331 (KECO)**
+**职业代码：13331 (KECO)**
 
-A professional who designs, develops, and maintains websites and web applications, covering frontend and backend to implement user experience and functionality.
+设计、开发和维护网站及网络应用的专业人员，涵盖前端和后端，实现用户体验和功能。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who designs, develops, and maintains websites and web application
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$12,000,000（At national universities） |
-| 本科（学士学位） | 4年 | $16,000,000~$30,000,000（At public universities, higher at private） |
-| Bootcamp | 6 months | $5,000,000~$12,000,000（Private training cost） |
+| 副学士学位 | 2 年 | $8,000,000~$12,000,000（在国立大学） |
+| 本科（学士学位） | 4年 | $16,000,000~$30,000,000（公立大学较高，私立更高） |
+| 训练营 | 6个月 | $5,000,000~$12,000,000（私人培训费用） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional who designs, develops, and maintains websites and web application
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, bonus points |
-| SQLD | Korea Data Agency | 可选 | Proves database understanding |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，加分项 |
+| SQLD | 韩国数据局 | 可选 | 证明数据库理解能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 180,000. Employment is expected to steadily increase due to digital transformation and rising demand for IT services. Skills in cloud and AI-based web development are becoming especially important.
+**职位需求量：很高（★★★★½）** 全国从业人数约 180,000。由于数字化转型和IT服务需求上升，就业预计稳步增长。基于云和AI的网页开发技能变得尤为重要。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional who designs, develops, and maintains websites and web application
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $30,000,000~$40,000,000 | At SMEs |
-| Mid-level (4–7 years) | $45,000,000~$60,000,000 | Large enterprises and specialized IT companies |
-| 高级（8年+） | $65,000,000~$90,000,000 | Senior, tech lead |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 在中小型企业 |
+| 中级（4–7年） | $45,000,000~$60,000,000 | 大型企业和专业IT公司 |
+| 高级（8年+） | $65,000,000~$90,000,000 | 高级、技术主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI automates code generation, testing, and debugging to boost productivity, but it is unlikely to replace entire jobs. Tasks like requirements analysis, architecture design, and UX optimization still require human judgment.
+AI自动化代码生成、测试和调试以提高生产力，但不太可能完全取代工作岗位。需求分析、架构设计和用户体验优化等任务仍需人工判断。
 
-Progress from junior developer to senior, tech lead, or architect. Can specialize as a frontend/backend expert or full-stack developer. Opportunities in startups or corporate IT departments.
+从初级开发人员晋升为高级、技术主管或架构师。可专攻前端/后端或成为全栈开发者。在初创公司或企业IT部门有机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic CRUD code writing
-- Writing unit tests
-- Bug patch generation
+- 基础CRUD代码编写
+- 编写单元测试
+- 漏洞补丁生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Code review
-- Performance optimization
-- Security vulnerability analysis
-- Automated document generation
+- 代码审查
+- 性能优化
+- 安全漏洞分析
+- 自动化文档生成
 
-**人类护城河:**
+**人类护城河：**
 
-- Domain understanding
-- Requirements analysis
-- Creative problem solving
-- User experience design
+- 领域理解
+- 需求分析
+- 创造性解决问题
+- 用户体验设计
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ML tool utilization
-- Cloud architecture
-- Data analysis
+- AI/ML工具运用
+- 云架构
+- 数据分析
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud Native
+- 云原生
 - 人工智能
-- Frontend Innovation
-- Web Accessibility
+- 前沿创新
+- 网页无障碍
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires an employment contract as a skilled technical worker. Web developers may be included. |
-| Subclass D-10 (Job Seeking) | Useful for switching status for international students majoring in IT, allows 6 months of job seeking. |
-| Subclass F-2 (Residence) | Can be converted to a points-based system, stable for long-term stay. |
-
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical thinking
-- People who can consistently invest in learning
-- People who value collaboration
+- 逻辑思维能力强的人
+- 能够持续投资学习的人
+- 重视合作的人
 
 **谁不适合**
-- People who dislike keeping up with rapidly changing technology
-- People who prefer working alone
+- 不喜欢跟上快速变化技术的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for a web developer?**
-答：For small and medium-sized enterprises, it's 30–40 million KRW; for large corporations and specialized IT companies, it's 40 million KRW or more.
+**问：网页开发者的平均起薪是多少？**
+答：中小企业为3000-4000万韩元；大型企业和专业IT公司为4000万韩元以上。
 
-**问：What visa does a foreigner need to work as a web developer?**
-答：E-7 (Specific Activities) visas are common; requires an employment contract and degree or experience. You may also transfer after switching to a D-10 (Job Seeker) visa.
+**问：外国人做网页开发需要什么签证？**
+答：E-7（特定活动）签证常见；需要雇佣合同和学位或经验。也可以在转换为D-10（求职）签证后转移。
 
 
 ---
@@ -142,12 +135,12 @@ Progress from junior developer to senior, tech lead, or architect. Can specializ
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/web-developer/KR)**

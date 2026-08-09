@@ -1,10 +1,8 @@
-# Makeup Artist 职业分析 · 韩国
+# 化妆师（Makeup Artist）职业分析 · 韩国
 
-**职业代码: 51141 (KECO)**
+**职业代码：51141 (KECO)**
 
-A professional who uses cosmetics on clients' faces and bodies to create beauty, working in diverse settings such as weddings, broadcasts, performances, and photo shoots.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用化妆品在客户面部和身体上创造美的专业人士，工作于婚礼、广播、表演和摄影等不同场景。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who uses cosmetics on clients' faces and bodies to create beauty,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Beauty Academy | 6 months | $3,000,000~$8,000,000（Government funding available） |
-| Vocational College | 2 年 | $6,000,000~$12,000,000（Based on tuition） |
+| 美容学院 | 6个月 | $3,000,000~$8,000,000（可申请政府资助） |
+| 职业学院 | 2 年 | $6,000,000~$12,000,000（按学费计费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who uses cosmetics on clients' faces and bodies to create beauty,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Makeup (Cosmetology) National Technical Qualification | Human Resources Development Service of Korea | 可选 | Cosmetologist (Makeup) License |
-| Makeup Artist Level 1 & 2 | Korea Makeup Professionals Association | 可选 | Private certification |
+| 化妆（美容）国家技术资格 | 韩国人力资源开发服务局 | 可选 | 化妆师（化妆）执照 |
+| 化妆师1级和2级 | 韩国化妆师协会 | 可选 | 私人认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Due to K-beauty's popularity and the growth of one-person media, demand for makeup artists remains steady, but employment is unstable with a high proportion of freelancers, leading to fierce competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。由于K-beauty的普及和一人媒体的增长，化妆师需求保持稳定，但就业不稳定，自由职业者比例高，导致竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A professional who uses cosmetics on clients' faces and bodies to create beauty,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $18,000,000~$25,000,000 | Large income fluctuation for freelancers |
-| Intermediate (4–7 years) | $25,000,000~$35,000,000 | Based on agency salary |
-| Advanced (8+ years) | $35,000,000~$50,000,000 | Higher for renowned artists |
+| Beginner (0–3 years) | $18,000,000~$25,000,000 | 自由职业者收入波动大 |
+| 中级（4-7年） | $25,000,000~$35,000,000 | 根据机构薪资 |
+| 高级（8年以上） | $35,000,000~$50,000,000 | 对知名艺术家更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI makeup technology (e.g., augmented reality simulations, automated beauty analysis) improves work efficiency and creates new services, but creativity and personalized service remain the strengths of human artists.
+AI化妆技术（如增强现实模拟、自动美容分析）提高工作效率并创造新服务，但创造力和个性化服务仍是人类艺术家的优势。
 
-Beginners start as assistants, then become independent makeup artists after gaining experience; some advance to head artists or beauty creators.
+初学者从助理做起，积累经验后成为独立化妆师；部分人晋升为首席化妆师或美妆创作者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Makeup Simulation
-- Customer Skin Type Analysis
-- Color Matching Suggestions
+- 基础化妆模拟
+- 客户肤质分析
+- 配色建议
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized Makeup Recommendations
-- Customer Consultation and Communication
-- Trend Forecasting
+- 个性化化妆品推荐
+- 客户咨询与沟通
+- 趋势预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Creativity and Aesthetic Sense
-- Trust-Based Relationship with Customers
-- Know-How from Field Experience
+- 创造力与审美感
+- 基于信任的客户关系
+- 现场经验知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI Makeup Apps
-- Digital Tool Proficiency (e.g., Photoshop)
-- SNS Marketing
+- 利用AI化妆应用
+- 数字工具熟练度（如Photoshop）
+- SNS营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- K-beauty demand
-- One-person media
-- Wedding/Performance
-- Customized Service
+- K-beauty需求
+- 个人媒体
+- 婚礼/演出
+- 定制服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to invite as beauty-related professional, but cases are rare. |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents, but direct employment visa as a makeup artist is limited. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good manual dexterity and aesthetic sense
-- People skilled in interpersonal skills and communication
-- People sensitive to trends and proactive in self-development
+- 具有良好手工灵活性和审美感的人
+- 人际交往和沟通能力强的人
+- 对趋势敏感且主动自我提升的人
 
 **谁不适合**
-- People seeking a regular lifestyle and stable income
-- People easily swayed by others' opinions
+- 追求规律生活和稳定收入的人
+- 易受他人意见影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a makeup artist?**
-答：Entry-level freelancers earn 18-25 million KRW, experienced professionals earn 35-50 million KRW or more, and famous artists earn much higher.
+**问：化妆师年薪多少？**
+答：入门级自由职业者收入1800-2500万韩元，经验丰富者收入3500-5000万韩元或更多，知名艺术家收入更高。
 
-**问：Can foreigners work as makeup artists in Korea?**
-答：An E-7 visa can invite professional talent, but cases are rare, and Korean language skills and experience are essential.
+**问：外国人能在韩国做化妆师吗？**
+答：E-7签证可邀请专业人才，但案例稀少，且韩语能力和经验至关重要。
 
-**问：Will AI replace makeup artists?**
-答：AI makeup technology is advancing, but personalized services and creativity are unique to humans, making full replacement difficult.
+**问：AI会取代化妆师吗？**
+答：AI化妆技术正在进步，但个性化服务和创造力是人类的独特之处，完全替代很难。
 
 
 ---
@@ -143,12 +134,12 @@ Beginners start as assistants, then become independent makeup artists after gain
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/makeup-artist/KR)**

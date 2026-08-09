@@ -54,8 +54,6 @@ Responsible for calculating, classifying, and recording numerical data to mainta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
-
 Start as a junior clerk, then advance to accounting supervisor or financial manager by gaining experience and certifications (e.g., CPA); can also specialize in professional accounting, auditing, or taxation.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start as a junior clerk, then advance to accounting supervisor or financial mana
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically requires an associate degree or relevant course certificate, but no
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookkeeping-accounting-and-auditing-clerks/US)**

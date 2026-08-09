@@ -51,8 +51,6 @@ Responsible for enterprise cost accounting, cost control, and budget analysis, p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Can progress from Junior Cost Accountant to Cost Controller, Finance Manager, or move into financial analysis and strategic planning roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from Junior Cost Accountant to Cost Controller, Finance Manager, or
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to skilled professionals requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing job seekers to enter the country to find work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can enter via EU Blue Card or Skilled Immigration Act, requiring a degree and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cost-accountant/DE)**

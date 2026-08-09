@@ -53,8 +53,6 @@ NDIS Plan Administrators manage participants' NDIS funds: reviewing invoices, cl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: high (★★★★☆).**
 
-NDIS plan administrators are at high risk of automation. Smart invoice review, automatic budget tracking, and report generation will significantly reduce job demand; entry-level work will be replaced by AI, with fewer future positions and greater reliance on technical tools.
-
 Path: Planning Administrator → Senior/Team Leader; experience in bookkeeping (BAS/Xero) and NDIS compliance is highly valued.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Path: Planning Administrator → Senior/Team Leader; experience in bookkeeping (
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: No, it is a local administrative/financial occupation and not on the skilled 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ndis-plan-manager/AU)**

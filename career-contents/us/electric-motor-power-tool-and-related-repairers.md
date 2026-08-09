@@ -51,8 +51,6 @@ Responsible for repairing, maintaining, or installing electric motors, power too
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on motor mechanics is mixed: automated diagnostics and predictive maintenance simplify some testing tasks, but physical repairs, field work, and compliance responsibilities remain a moat; entry-level jobs face increased competition due to AI tools, but demand for senior technicians is rising.
-
 Can start as an apprentice or junior repairer, gain advanced certifications through experience, advance to supervisor or technical expert, or start your own repair shop.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can start as an apprentice or junior repairer, gain advanced certifications thro
 | Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or equivalent experience; employers must demonstrate the position is professional. This occupation is common for repairer roles but competitive. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Applicable to skilled workers, requires PERM labor certification and employer sponsorship, long wait times. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can advance from apprentice to skilled worker, then to supervisor or technica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electric-motor-power-tool-and-related-repairers/US)**

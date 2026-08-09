@@ -53,8 +53,6 @@ Stone masonry technicians process, install, and restore natural stone for buildi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
-
 Starting as a stonemason apprentice, can advance to foreman (Polier) or self-employed master craftsman (Meister). Through further education, can transition to monument conservation specialist or construction technician.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Starting as a stonemason apprentice, can advance to foreman (Polier) or self-emp
 | Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | Need to obtain a work contract with a German company and have qualifications certified through Anerkennung. Stone masons are in shortage, so visa processing is faster. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to Germany to look for work without a job offer. Suitable for stonemasons with vocational training background, but requires B1 German. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: First, you need a German-recognized vocational qualification (Anerkennung), u
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stonemasonry-technician/DE)**

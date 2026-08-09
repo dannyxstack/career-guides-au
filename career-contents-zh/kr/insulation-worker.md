@@ -1,8 +1,8 @@
 # 隔热工（Insulation Worker）职业分析 · 韩国
 
-**职业代码: 70231 (KECO)**
+**职业代码：70231 (KECO)**
 
-A skilled professional who installs insulation materials in building walls, roofs, floors, etc., to improve energy efficiency and maintain a comfortable indoor environment.
+在建筑墙体、屋顶、地板等处安装保温材料的熟练专业人员，以提高能效并保持室内环境舒适。
 
 
 ---
@@ -11,9 +11,9 @@ A skilled professional who installs insulation materials in building walls, roof
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate (non-formal education) | 0年 | $0~$500,000（On-site employment possible without vocational training） |
-| Construction Guarantee Cooperative training institution education | 3个月 | $500,000~$2,000,000（Free of charge during national key strategic industry training） |
-| College Insulation Engineering Department | 2 年 | $4,000,000~$8,000,000（Varies by national/public institution） |
+| 高中毕业（非正规教育） | 0年 | $0~$500,000（无需职业培训即可现场就业） |
+| 建筑担保合作培训机构教育 | 3个月 | $500,000~$2,000,000（国家重点战略行业培训期间免费） |
+| 学院保温工程系 | 2 年 | $4,000,000~$8,000,000（因国家/公共机构而异） |
 
 ---
 
@@ -21,18 +21,18 @@ A skilled professional who installs insulation materials in building walls, roof
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Insulation Worker (Scaffolding/Insulation/Wet) Craftsman | Human Resources Development Service of Korea | 必备 | National technical qualification, mandatory for construction sites |
-| Occupational Safety and Health Training | Korea Occupational Safety and Health Agency | 必备 | Mandatory basic construction safety training |
-| Architectural Construction Craftsman | Human Resources Development Service of Korea | 可选 | Optional qualification, advantageous for employment |
+| 保温工（脚手架/保温/湿作业）工匠 | 韩国人力资源开发服务局 | 必备 | 国家技术资格，施工现场必备 |
+| 职业安全与健康培训 | 韩国职业安全健康局 | 必备 | 强制性基础施工安全培训 |
+| 建筑施工工匠 | 韩国人力资源开发服务局 | 可选 | 可选资格，对就业有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. With the government's green remodeling and zero-energy building policies, demand for insulation is steadily increasing, leading to bright employment prospects. Despite a slowdown in new housing construction, the insulation retrofit market for existing buildings is growing.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。随着政府绿色改造和零能耗建筑政策的实施，保温材料需求稳步增长，就业前景良好。尽管新房建设放缓，但既有建筑的保温改造市场正在增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A skilled professional who installs insulation materials in building walls, roof
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Monthly 2–2.5 million KRW |
-| Intermediate (3–7 years) | $32,000,000~$45,000,000 | Varies greatly by skill level |
-| Advanced (7+ years) | $45,000,000~$60,000,000 | Site manager level, higher with overtime |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 每月200-250万韩元 |
+| 中级（3-7年） | $32,000,000~$45,000,000 | 因技能水平而异 |
+| 高级（7年以上） | $45,000,000~$60,000,000 | 现场经理级别，加班后更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot completely replace insulation installation, but automated equipment (robot installation) and AI-based quality inspection will reduce repetitive tasks, while AI will enhance planning and material optimization.
+AI无法完全取代绝缘安装，但自动化设备（机器人安装）和基于AI的质量检查将减少重复性任务，而AI将增强规划和材料优化。
 
-Starting as a junior insulation worker, one can advance to skilled worker, site manager, or technical supervisor. When construction technician experience is recognized, grades can be upgraded based on education and experience, allowing advancement into management positions.
+从初级绝缘工做起，可晋升为熟练工、现场经理或技术主管。当施工技术员经验得到认可时，可根据学历和经验升级，进入管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple insulation cutting and placement
-- Basic quality inspection (visual inspection)
-- Material inventory management
+- 简单的绝缘切割和放置
+- 基础质量检验（目视检查）
+- 材料库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Site surveying and installation planning
-- Insulation performance diagnosis using thermal cameras
-- Integration with BIM-based insulation design
+- 现场测量和安装规划
+- 使用热像仪进行保温性能诊断
+- 与BIM集成保温设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible installation skills adapted to site conditions
-- Condensation/leakage assessment based on experienced expertise
-- Precision work in high or confined spaces
+- 适应现场条件的灵活安装技能
+- 基于经验的专业知识进行冷凝/渗漏评估
+- 高空或受限空间内的精密作业
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart construction equipment operation
-- Energy diagnostics and performance analysis
-- Understanding of insulation material specifications and performance
-- Eco-friendly Insulation Installation Method
+- 智能施工设备操作
+- 能源诊断与性能分析
+- 了解绝缘材料规格和性能
+- 环保保温安装方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Zero-energy buildings
-- Green remodeling
-- Insulation installation
-- Eco-friendly insulation materials
+- 零能耗建筑
+- 绿色改造
+- 绝缘安装
+- 环保保温材料
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Insulation workers are E-7-1 (Professional Skilled Personnel) target, 3 years experience and certification required |
-| Subclass E-9 (Non-professional Employment) | Insulation workers can be hired under E-9 construction quota, applies to Employment Permit System |
-| Subclass F-2 (Residence) | Skilled workers preferred when switching to points system, pre-permanent residence stage |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who prefers physical work at construction sites
-- Someone who works meticulously and accurately
-- Someone comfortable with outdoor and high-altitude work
+- 喜欢在建筑工地从事体力工作的人
+- 工作细致准确的人
+- 适应户外和高空工作的人
 
 **谁不适合**
-- Someone who prefers indoor office work
-- Someone who dislikes repetitive and physical work
+- 喜欢室内办公室工作的人。
+- 不喜欢重复和体力工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an insulation worker?**
-答：Depending on experience, it ranges from 24 to 60 million won, with entry-level at 24-30 million won and senior at 45-60 million won.
+**问：隔热工人的平均年薪是多少？**
+答：根据经验,范围在2400万至6000万韩元之间,入门级2400-3000万韩元,资深级4500-6000万韩元。
 
-**问：Can foreigners work as insulation workers?**
-答：Yes. With an E-7 (Specific Activities) visa, 3 years of experience and a certificate are required; also possible via E-9 (Non-professional Employment) under the Employment Permit System.
+**问：外国人能否从事保温工职业？**
+答：是的。持有E-7（特定活动）签证，需3年经验和证书；也可通过雇佣许可制度下的E-9（非专业就业）实现。
 
-**问：How can I get promoted as an insulation worker?**
-答：By building experience and certifications (e.g., insulation technician), you can advance to skilled worker or site manager; obtaining construction engineer grade recognition allows progression to management roles.
+**问：作为一名绝缘工人，我该如何获得晋升？**
+答：通过积累经验和证书（如绝缘技术员），可晋升为技术工人或现场经理；获得建筑工程师等级认证后可进入管理岗位。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as a junior insulation worker, one can advance to skilled worker, site 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/insulation-worker/KR)**

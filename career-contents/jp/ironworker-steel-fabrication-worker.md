@@ -50,8 +50,6 @@ Cuts, bends, and welds steel to produce structures and tanks; a skilled trade in
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Full automation with AI and robots is difficult, but NC cutting and automated welding robots are reducing simple cutting and welding processes. Advanced skills and on-site adaptability will remain human tasks.
-
 Starts as apprentice, becomes independent in 3–5 years; further welding certifications lead to leadership roles. Factory management or self-employment options.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ Starts as apprentice, becomes independent in 3–5 years; further welding certif
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | This visa can be obtained for engineering roles utilizing ironworking skills and knowledge, requiring practical experience and expertise. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Currently, ironworking is not covered, but some tasks within the construction field may offer possibilities. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +134,12 @@ A: By acquiring advanced welding certifications (e.g., Welding Management Engine
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ironworker-steel-fabrication-worker/JP)**

@@ -52,8 +52,6 @@ Promoting and selling pharmaceutical products in Canada to hospitals, clinics an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of pharmaceutical sales representatives (client relationships, negotiation, strategic planning) are enhanced by AI, not replaced. Automation mainly reduces administrative tasks, but sales rely on interpersonal trust; AI serves as an auxiliary tool to improve efficiency and insight.
-
 Junior representatives can advance to key account manager, regional sales manager, or transition to product management, market access, etc. With experience, annual salary can exceed CAD 100,000, some enter management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior representatives can advance to key account manager, regional sales manage
 | Subclass PNP (Provincial Nominee Program) | E.g., Ontario and British Columbia provincial nominations; having an employer offer can add points. |
 | Subclass LMIA (Labour Market Impact Assessment) | Obtaining employer sponsorship can strengthen an Express Entry or PNP application. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good. An aging population drives demand for healthcare, but competition is mo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-account-managers-wholesale-trade-nontechnical/CA)**

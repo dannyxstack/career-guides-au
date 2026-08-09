@@ -55,8 +55,6 @@ Purchasing agricultural products for further processing or resale, including tim
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Real estate search and data analysis for buyer's agents can be easily automated by AI, but humanized negotiation and client relationship management remain core moats, resulting in mixed overall impact.
-
 Entry-level roles start as purchasing assistant or contract administrator, progressing to senior procurement officer or procurement manager. Some may transition to supply chain management or agricultural consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level roles start as purchasing assistant or contract administrator, progr
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years training/experience, through PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate inability to find qualified US workers; time-consuming |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a degree in agricultural business or related field, or sta
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buyers-and-purchasing-agents-farm-products/US)**

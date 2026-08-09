@@ -51,8 +51,6 @@ Responsible for operating rides, managing entertainment activities, and providin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on amusement park and sports venue operations staff is mixed: some monitoring and scheduling tasks can be automated, but on-site interaction, safety response, and complex customer service still require humans, leading to increased competition for entry-level positions
-
 Entry-level positions can advance to team leader or operations manager, with some moving into event planning or facility maintenance.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Entry-level positions can advance to team leader or operations manager, with som
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: Usually not, because this occupation is TEER 4, not in demand, skilled migrat
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operators-and-attendants-in-amusement-recreation-and-sport/CA)**

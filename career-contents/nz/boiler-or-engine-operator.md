@@ -54,8 +54,6 @@ In New Zealand, boiler or engine operators operate and maintain power equipment 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Daily monitoring and routine inspections for boiler or engine operators are easily automated, but demand for system integration and fault handling increases; AI becomes an auxiliary tool rather than replacement, making the role mixed.
-
 Career progression includes advancing from junior operator to senior operator, shift supervisor, or equipment maintenance manager. By obtaining New Zealand national certificates (e.g., ENP3011) and gaining experience, you can move into supervisory or technical training roles. Some operators can obtain an engineer license.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression includes advancing from junior operator to senior operator, s
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Operating high-pressure boilers requires a Boiler Operator License from WorkS
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boiler-or-engine-operator/NZ)**

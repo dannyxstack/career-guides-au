@@ -52,8 +52,6 @@ Financial analysts work in banks, investment firms, insurance, and corporate fin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The impact of AI on financial analysts is mixed: data collection, basic analysis, and report generation will be automated, but strategic advice, client relationships, and complex judgment still require humans.
-
 Junior analysts can advance to senior analyst, investment manager, or research director; experienced ones can move to risk management, compliance, or private wealth management. CFA or CA certification significantly raises career ceiling.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior analysts can advance to senior analyst, investment manager, or research d
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Mainstream options include CFA (Chartered Financial Analyst) and CA (Chartere
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-investment-advisers-and-managers-nec/NZ)**

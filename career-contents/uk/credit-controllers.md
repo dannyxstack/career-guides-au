@@ -53,8 +53,6 @@ Credit controllers manage company accounts receivable, monitor customer credit s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Tasks like dispute arbitration and complex negotiation for credit control officers are hard to replace by AI, but routine tasks such as data reconciliation, collection letters, and report generation will be highly automated; the role's core shifts toward customer strategy analysis and legal compliance upgrades.
-
 Junior credit controllers can progress to senior credit controller, credit manager, or credit risk analyst. They can also move into accounts receivable management, financial analysis, or debt collection.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior credit controllers can progress to senior credit controller, credit manag
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can progress from entry-level to senior credit control officer, credit manage
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-controllers/UK)**

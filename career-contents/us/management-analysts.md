@@ -52,8 +52,6 @@ Management analysts help organizations improve efficiency and profitability by a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Junior analysts can advance to senior consultant, project manager, or partner. Some transition to corporate strategy, operations management, or entrepreneurship, or obtain certifications like PMP or CMP to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analysts can advance to senior consultant, project manager, or partner. S
 | Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or a bachelor's degree plus 5 years of experience; apply for a green card through PERM labor certification |
 | Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens; occupation must be on the USMCA list; management consultant is included. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but certifications like PMP, CMC, Six Sigma can boost competit
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-analysts/US)**

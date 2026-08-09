@@ -1,8 +1,8 @@
-# General, Production, and Commercial Machinery Maintenance and Repair Workers 职业分析 · 日本
+# 通用、生产及商用机械维护与修理工人（General, Production, and Commercial Machinery Maintenance and Repair Workers）职业分析 · 日本
 
-**职业代码: 551 (JSCO)**
+**职业代码：551 (JSCO)**
 
-Specialists responsible for inspecting, maintaining, and repairing general machinery, production equipment, and commercial machinery used in factories and workplaces.
+负责检查、维护和修理工厂及工作场所常用通用机械、生产设备和商用机械的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ Specialists responsible for inspecting, maintaining, and repairing general machi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School (Mechanical or Industrial) | 3年 | $0~$500,000（Tuition-free at public high schools） |
-| Vocational School (Mechanical Maintenance) | 2 年 | $1,000,000~$2,500,000（学费因学校而异） |
+| 高中（机械或工业） | 3年 | $0~$500,000（公立高中学费全免） |
+| 职业学校（机械维修） | 2 年 | $1,000,000~$2,500,000（学费因学校而异） |
 
 ---
 
@@ -20,19 +20,19 @@ Specialists responsible for inspecting, maintaining, and repairing general machi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mechanical Maintenance Technician (Levels 1-3) | Ministry of Health, Labour and Welfare (Japan Vocational Ability Development Association) | 可选 | National certification proving maintenance and repair skills. |
-| Electrician's License | Ministry of Economy, Trade and Industry | 可选 | Useful for repairing electrical equipment. |
-| Forklift Operation Skills Training | Ministry of Health, Labour and Welfare | 可选 | Required for operating transport machinery in factories. |
-| Aerial Work Platform Operation Skills Training | Ministry of Health, Labour and Welfare | 可选 | Required for maintenance work at heights. |
+| 机械维修技术员（1-3级） | 厚生劳动省（日本职业能力开发协会） | 可选 | 证明维护和修理技能的国家认证。 |
+| 电工执照 | 经济产业省 | 可选 | 对维修电气设备有用。 |
+| 叉车操作技能培训 | 厚生劳动省 | 可选 | 操作工厂运输机械所需。 |
+| 高空作业平台操作技能培训 | 厚生劳动省 | 可选 | 高处维护作业所需。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand is stable due to aging manufacturing equipment and increased automation. Labor shortages from retirements continue, and recruitment remains strong in the medium to long term.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。由于制造设备老化和自动化程度提高，需求稳定。退休造成的劳动力短缺持续存在，中长期招聘依然强劲。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,95 +40,87 @@ Specialists responsible for inspecting, maintaining, and repairing general machi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Monthly salary ¥200,000–250,000, including bonuses |
-| Mid-level (4–10 years) | $4,200,000~$5,500,000 | Monthly salary ¥250,000–350,000, increases with skill |
-| Advanced (10+ years) | $5,500,000~$7,000,000 | Monthly salary ¥350,000–450,000, supervisor/manager待遇 |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 月薪20万-25万日元，含奖金 |
+| 中级（4-10年） | $4,200,000~$5,500,000 | 月薪25万-35万日元，随技能提升 |
+| 高级（10年以上） | $5,500,000~$7,000,000 | 月薪35万-45万日元，主管/经理待遇 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation streamline diagnosis and predictive maintenance, but on-site adjustments and disassembly repairs still require humans. It only partially complements the work.
+AI和自动化简化了诊断和预测性维护，但现场调整和拆卸维修仍需人力。它仅部分补充了工作。
 
-Start as an apprentice, then become a team leader or supervisor through experience and certifications. Can advance to manufacturer or service engineer roles.
+从学徒开始，通过经验和认证成为团队负责人或主管。可以晋升为制造商或服务工程师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple diagnosis during periodic inspections
-- Consumable replacement schedule management
-- Routine maintenance per manual
+- 定期检查时的简单诊断
+- 消耗品更换计划管理
+- 按手册进行日常维护
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Verification of AI anomaly predictions
-- Remote repair support using AR
-- Planning preventive maintenance through data analysis
+- AI异常预测的验证
+- 使用AR的远程维修支持
+- 通过数据分析规划预防性维护
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site equipment adjustment
-- Response to unexpected failures
-- Anomaly detection using five senses
-- Customer communication
+- 现场设备调试
+- 突发事件应对
+- 利用五种感官进行异常检测
+- 客户沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic knowledge of AI/IoT
-- Data analysis literacy
-- Understanding of electrical/electronic circuits
-- Adaptability to a variety of models
+- AI/IoT基础知识
+- 数据分析素养
+- 了解电气/电子电路
+- 适应多种型号的能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Equipment maintenance
-- Production equipment preservation
-- Robot maintenance
-- Energy-saving equipment handling
+- 设备维护
+- 生产设备维护
+- 机器人维护
+- 节能设备操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) ( molding, industrial machinery, electrical/electronic information-related manufacturing)) | Covers machine maintenance in 3 manufacturing fields. Requires passing exam. Residence period 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or ~10 years of work experience. Specialized maintenance knowledge needed. |
-| Subclass 技能 (Skilled Worker Visa (machine maintenance)) | Requires skilled expertise (10+ years experience). Residence period renewable. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (manufacturing field)) | Requires advanced skills. Family accompaniment/PR application possible. Target fields expanding. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like tinkering with machines
-- People who like hands-on work
-- People good at troubleshooting
+- 喜欢摆弄机器的人
+- 喜欢动手操作的人
+- 善于排除故障的人
 
 **谁不适合**
-- Those who prefer desk work
-- Those who like routine tasks
+- 偏好办公室工作的人
+- 喜欢常规任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Can I earn high income even without experience?**
-答：First year is typically around 3 million yen, but with experience and qualifications, 5 million yen or more is possible.
+**问：没有经验也能获得高收入吗？**
+答：第一年通常约300万日元，但随着经验和资历增长，可达到500万日元或更多。
 
-**问：What visa is needed for foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) or Engineer/Specialist in Humanities/International Services visa is common. Specified Skilled requires passing an exam.
+**问：外国人在从事该职业需要什么签证？**
+答：常见的是特定技能工人(i)或人文知识/国际业务签证。特定技能需要考试通过。
 
-**问：Are there career advancement paths?**
-答：There are various paths such as site supervisor, management, manufacturer service engineer, or starting your own business.
+**问：有职业晋升途径吗？**
+答：职业路径多样，例如现场主管、管理岗、制造商服务工程师或自主创业。
 
 
 ---
@@ -146,12 +138,12 @@ Start as an apprentice, then become a team leader or supervisor through experien
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-production-and-commercial-machinery-maintenance-and-repair-workers/JP)**

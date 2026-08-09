@@ -4,8 +4,6 @@
 
 Dental technicians fabricate dentures, crowns, and other dental prosthetics under dentists' prescriptions, combining precision handwork with cutting-edge digital technology.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Dental technicians fabricate dentures, crowns, and other dental prosthetics unde
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-While AI and CAD/CAM technologies are automating simple prosthesis fabrication, human skill remains crucial for complex cases, individual customization, and final adjustments. Complete replacement is difficult; instead, digital technology is used to improve efficiency and precision.
-
 After training at a lab, you can open your own practice or contract directly with clinics. Specializing in digital or implant technology boosts career prospects.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After training at a lab, you can open your own practice or contract directly wit
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for work requiring dental technician knowledge/skills; requires certain academic background and experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (excluding caregiving)) | Currently, dental technicians are excluded, but may be added in the future. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: A national dental technician license is required. Japanese proficiency (JLPT 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-technician/JP)**

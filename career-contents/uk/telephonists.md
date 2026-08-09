@@ -53,8 +53,6 @@ Telephone operators receive and transfer calls in commercial, industrial, and ot
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Telephone operator roles face high risk of automation; AI voice assistants and automatic switchboard systems will significantly replace manual call transfer and basic inquiry tasks, leading to a marked decline in demand.
-
 Limited promotion paths; can transition to roles such as customer service supervisor, call center manager, or administrative assistant, requiring accumulated communication and customer service experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Limited promotion paths; can transition to roles such as customer service superv
 | Subclass Skilled Worker (Skilled Worker visa) | Telephone operator is not on the immigration department's list of sponsorable occupations, making it difficult for employers to sponsor this position. |
 | Subclass Graduate (Graduate visa) | Graduate visa allows work in the UK, but this position has low salary and does not meet skilled work visa requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Generally not. This occupation is not on the list of eligible occupations for
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephonists/UK)**

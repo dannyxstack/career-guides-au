@@ -52,8 +52,6 @@ German mathematicians primarily work across industries in data analysis, modelin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
-
 Career progression: Junior Analyst → Senior Researcher → Team Leader/Chief Mathematician. Can also move into management roles such as data science or risk management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Junior Analyst → Senior Researcher → Team Leader/Chief M
 | Subclass Skilled Worker (Skilled Worker Visa) | For math talents with recognized qualifications, need a job offer from a German employer and apply for a residence permit. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment; proof of financial means and relevant qualifications required. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Finance, insurance, IT, automotive industry, market research, consulting, etc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematician/DE)**

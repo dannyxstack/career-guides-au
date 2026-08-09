@@ -51,8 +51,6 @@ Medical quality officers are responsible for supervising and optimizing quality 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Medical quality specialists face mixed impacts from AI: routine auditing and data analysis tasks may be automated, but AI can enhance indicator monitoring, risk prediction, and training effectiveness, while complex decision-making, cross-departmental coordination, and the human role in continuous improvement remain irreplaceable.
-
 Career path: Quality Specialist → Senior Quality Officer → Head of Quality Management; can also transition to healthcare management consulting or health policy, requiring industry experience and continuing education (e.g. QM-Fachwirt).
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path: Quality Specialist → Senior Quality Officer → Head of Quality M
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to recognized professional qualifications or university degrees, tied to the employer |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa, allowing job search and short-term trial |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Common path: complete a 3-year dual business training (e.g., Kaufmann im Gesu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-officer-in-healthcare/DE)**

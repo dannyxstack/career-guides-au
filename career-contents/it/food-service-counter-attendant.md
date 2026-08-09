@@ -4,8 +4,6 @@
 
 Food service counter attendants take orders, handle cash, and prepare and serve simple food and beverages in cafes, fast food outlets, canteens, etc. They are fundamental roles in Italian food service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Food service counter attendants take orders, handle cash, and prepare and serve 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fast food and counter service workers perform highly procedural tasks; AI automation and self-service ordering systems are rapidly replacing core tasks, leading to significant job decline, lower entry barriers but worsening career prospects.
-
 Can be promoted from server to head waiter or store manager, or transition through training to professional roles such as chef or bartender; a few accumulate experience and start their own snack businesses.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can be promoted from server to head waiter or store manager, or transition throu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Applies to non-EU citizens obtaining a work permit through annual quotas, usually requiring employer sponsorship, common in the catering industry. |
-| Subclass EU Blue Card (EU Blue Card) | Generally not applicable for this low-skilled position due to its high annual salary threshold |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Applicable for short-term work during peak tourist season; valid for up to 9 months. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Advancement to team leader, store manager, or transitioning to roles such as 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-service-counter-attendant/IT)**

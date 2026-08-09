@@ -52,8 +52,6 @@ Trust officers in Canada correspond to 'Other Financial Officers' and are respon
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on trust officers is mixed: automation will take over repetitive tasks such as document processing and compliance monitoring, but high-value work like complex estate planning and client emotional communication still requires humans; job roles are upgrading towards client advisory functions.
-
 Trust officers can advance to senior trust officer, trust department manager, or private bank wealth advisor. With experience, can move to family offices or high-end wealth management, with annual salary above CAD 100,000.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Trust officers can advance to senior trust officer, trust department manager, or
 | Subclass PNP (Provincial Nominee Program) | Ontario, BC, Alberta, etc. have nomination streams requiring a job offer from an employer. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, relatively flexible conditions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory for immigration, but employers often require certifications suc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-financial-officers/CA)**

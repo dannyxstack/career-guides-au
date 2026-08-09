@@ -53,8 +53,6 @@ Directors are responsible for creative direction and production oversight, ensur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
-
 Usually start as assistant director, production assistant, or related creative roles, gaining experience before advancing to director. Senior directors may move into producer, creative director, or start their own production company.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as assistant director, production assistant, or related creative r
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Skilled migration to regional areas, requiring 3 years of work in a designated area to transition to a 191 visa |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a film/TV-related qualification or years of industry experie
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-film-television-radio-or-stage/AU)**

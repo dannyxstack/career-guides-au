@@ -53,8 +53,6 @@ Meteorologists study atmospheric phenomena, conduct weather forecasting, climate
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI significantly enhances meteorologists' capabilities, especially in data processing and pattern recognition, but critical decisions and legal responsibilities still rely on human professional judgment.
-
 Junior meteorologists can progress to senior forecasters, research team leaders, or department heads. Pursuing a PhD leads to university research or roles in climate consulting and risk management. The private sector, including energy and insurance, offers management positions.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior meteorologists can progress to senior forecasters, research team leaders,
 | Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa, suitable for applicants who do not yet have a job contract but meet the criteria. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires proof of sufficient funds, suitable for those coming to Germany for work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Main areas include weather forecasting, climate research, renewable energy (w
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/DE)**

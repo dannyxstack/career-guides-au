@@ -52,8 +52,6 @@ Uses mathematical and statistical methods to solve complex problems in finance, 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
-
 Can be promoted to Chief Actuary, Head of Data Science, or Risk Control Director; can also transition to AI research or quantitative analysis.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can be promoted to Chief Actuary, Head of Data Science, or Risk Control Director
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU personnel; requires an annual salary of at least approx. €32,000 and a contract of at least 1 year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, applicable to non-high-skilled but in-demand occupations. |
-| Subclass Nulla Osta (Self-Employment) (Nulla Osta for Self-Employment) | For freelancers, requires proof of high skills and business plan. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: If working as an actuary, mandatory membership in the Italian Association of 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematician-actuary-and-statistician/IT)**

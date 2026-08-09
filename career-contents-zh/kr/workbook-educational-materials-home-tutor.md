@@ -1,10 +1,8 @@
-# Workbook & Educational Materials Home Tutor 职业分析 · 韩国
+# 练习册与教材家教（Workbook & Educational Materials Home Tutor）职业分析 · 韩国
 
-**职业代码: 21451 (KECO)**
+**职业代码：21451 (KECO)**
 
-This is a job that involves visiting homes or educational institutions to provide instruction and consultation using workbooks and teaching aids.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一项上门或到教育机构使用教材提供指导和咨询的工作。
 
 
 ---
@@ -13,8 +11,8 @@ This is a job that involves visiting homes or educational institutions to provid
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No education restrictions） |
-| 副学士学位 | 2 年 | $10,000,000~$15,000,000（Preference for education or child studies majors） |
+| 高中毕业 | 0年 | $0~$0（无学历限制） |
+| 副学士学位 | 2 年 | $10,000,000~$15,000,000（偏好教育或儿童研究专业） |
 
 ---
 
@@ -22,17 +20,17 @@ This is a job that involves visiting homes or educational institutions to provid
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Workbook tutor training program | The workbook company | 必备 | Completed after hiring |
-| Teaching aid certification | Private certification | 可选 | Optional but advantageous |
+| 工作簿导师培训项目 | 工作室公司 | 必备 | 录用后完成 |
+| 教具认证 | 私人认证 | 可选 | 非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Although the school-age population is declining due to low birth rates, demand is expected to remain stable due to personalized education needs and preference for visit-based services.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。虽然少子化导致学龄人口减少，但由于个性化教育需求和对上门服务的偏好，需求预计将保持稳定。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,93 +38,85 @@ This is a job that involves visiting homes or educational institutions to provid
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $18,000,000~$24,000,000 | Fixed salary + performance bonus included |
-| 中级 (4-7年) | $24,000,000~$36,000,000 | Performance bonus increases with experience |
-| Advanced (8+ years) | $36,000,000~$48,000,000 | Additional bonus for team management |
+| 初级（0-3年） | $18,000,000~$24,000,000 | 固定工资 + 包含绩效奖金 |
+| 中级 (4-7年) | $24,000,000~$36,000,000 | 绩效奖金随经验增长 |
+| 高级（8年以上） | $36,000,000~$48,000,000 | 团队管理额外奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist in developing learning content and learning analysis, but face-to-face instruction and counseling by visiting teachers are difficult to replace with AI, so impact is limited.
+AI可以协助开发学习内容和学习分析，但家访教师的面对面教学和辅导难以被AI取代，因此影响有限。
 
-Starting as a beginner tutor, you can advance to top tutor, team leader, or branch manager; depending on experience, some transition to freelancers or independent sales.
+从初级导师开始，可晋升为高级导师、团队领导或分店经理；根据经验，有些人转为自由职业者或独立销售。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple grading
-- Learning schedule management
-- Basic counseling script provision
+- 简单等级评定
+- 学习计划管理
+- 基本咨询脚本提供
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individual learning analysis
-- Personalized teaching aid recommendation
-- Parent counseling material generation
+- 个人学习分析
+- 个性化教学辅助推荐
+- 家长咨询材料生成
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person trust building
-- Child psychology understanding
-- Immediate feedback and empathy
+- 面对面建立信任
+- 儿童心理学理解
+- 即时反馈和同理心
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Digital teaching aid utilization
-- Learning design
+- 数据素养
+- 数字化教学工具应用
+- 学习设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Demand for visiting education
-- Customized learning
-- Teaching aid development
-- Digital convergence
+- 访学教育需求
+- 定制化学习
+- 教具开发
+- 数字融合
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if related educational professional activities are recognized, but rare cases |
-| Subclass F-2 (Residence) | No restrictions on stay as a pre-permanent residence stage |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can engage in visiting education activities |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy teaching and interpersonal relationships
-- People who are self-directed and comfortable with mobility
+- 喜欢教学和人际关系的人
+- 自主性强且适应流动的人
 - 喜欢灵活工作时间的人
 
 **谁不适合**
-- People who want fixed regular employment
-- People who avoid interpersonal contact
+- 希望获得固定正式工作的人
+- 回避人际接触的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a learning guide instructor?**
-答：For beginners, the starting annual salary is about 18-24 million won, and can reach up to 48 million won depending on experience and performance.
+**问：学习指导教练的平均年薪是多少？**
+答：对于初学者，起薪年薪约1800-2400万韩元，根据经验和表现可达4800万韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：E-7 visa possibility is low; long-term stay qualifications like F-2 or F-4 are mainly required.
+**问：外国人能获得此职业的工作签证吗？**
+答：E-7签证可能性低；主要需要F-2或F-4等长期居留资格。
 
 **问：这个职业的发展路径是怎样的？**
-答：Promotion goes from instructor to team leader to branch manager, or one can build experience and work as an independent freelancer.
+答：晋升路径为从讲师到团队领导再到分公司经理，或积累经验后成为独立自由职业者。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a beginner tutor, you can advance to top tutor, team leader, or bran
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/workbook-educational-materials-home-tutor/KR)**

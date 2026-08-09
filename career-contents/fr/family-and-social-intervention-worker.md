@@ -4,8 +4,6 @@
 
 Providing social support and educational assistance in family or community settings to assist families in coping with daily challenges, child-rearing, budget management, and promoting social integration and autonomy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing social support and educational assistance in family or community setti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is expected to significantly enhance the service capabilities of family and social intervention workers, but caution is needed regarding data bias and ethical risks.
-
 Career development can be advanced from grassroots intervention workers to team leader or coordinator, or by moving into specialized fields (such as child protection or services for people with disabilities) or further training to become an assistant de service social.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Career development can be advanced from grassroots intervention workers to team 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position cannot be filled by a French/EU citizen. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for high-skilled talent or innovative projects, but the profession often does not meet the salary threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Difficult. This occupation is not in shortage; employers find it hard to spon
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/family-and-social-intervention-worker/FR)**

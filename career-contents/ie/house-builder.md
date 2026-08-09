@@ -54,8 +54,6 @@ Construction workers build, maintain, and repair residential buildings, involvin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core manual tasks for house builders are hard to replace in the short term, but AI will gradually take over cognitive tasks like design planning and quality inspection; entry-level positions may decrease due to prefabrication technology.
-
 Progress from general labourer to senior tradesperson or foreman, then to self-employed contractor or project manager with experience; some transition to construction technician or site manager through further study.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from general labourer to senior tradesperson or foreman, then to self-e
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the occupation is on the shortage list, an annual salary of €64,000 qualifies for application, and family members can accompany. |
 | Subclass EU Blue Card (EU Blue Card) | Annual salary no less than 45,000 euros, applicable under specific conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from apprentice to senior tradesperson, then to foreperson, proje
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/house-builder/IE)**

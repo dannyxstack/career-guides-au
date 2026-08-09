@@ -4,8 +4,6 @@
 
 Responsible for product design, pattern making, and prototyping of flexible materials (such as textiles, leather, synthetic materials), combining process and technical parameters to provide creative solutions for industries such as apparel, accessories, and furniture.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for product design, pattern making, and prototyping of flexible mate
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
-
 Starting as a design technician, you can be promoted to Product Development Manager or Creative Director; Continuing education can also be used to shift to fabric research and development or brand management.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Starting as a design technician, you can be promoted to Product Development Mana
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, matched with non-EU labor market tests, suitable for those with a French diploma or experience. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: A diploma is not mandatory, but a BTS or DMA-related degree is the mainstream
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/soft-materials-industrial-design-technician/FR)**

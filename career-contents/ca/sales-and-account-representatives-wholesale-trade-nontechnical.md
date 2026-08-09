@@ -53,8 +53,6 @@ Responsible for promoting and selling products to corporate clients, maintaining
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will largely automate customer data management and initial communication, but core sales tasks like relationship building and complex negotiations still rely on humans; the career form will be reshaped rather than eliminated.
-
 Junior sales representatives can progress to senior representatives, regional sales managers, or account directors based on performance. Experienced individuals may transition to business development, supply chain management, or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior sales representatives can progress to senior representatives, regional sa
 | Subclass PNP (Provincial Nominee Program) | Obtain additional points or direct nomination through provincial nomination (e.g., Ontario, BC, Alberta, etc.) |
 | Subclass AIP (Atlantic Immigration Program) | Suitable for applicants seeking employer sponsorship in the Atlantic provinces |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Generally no mandatory license required, but certain industries (e.g., real e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-account-representatives-wholesale-trade-nontechnical/CA)**

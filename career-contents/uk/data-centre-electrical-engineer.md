@@ -51,8 +51,6 @@ Data center electrical engineers are responsible for the design and operation an
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the design and operational efficiency of data center electrical engineers, but it cannot replace their on-site decision-making, compliance responsibilities, and cross-system collaboration capabilities; Overall job risk is relatively low, and demand continues to expand due to increased AI computing power.
-
 UK AI data centers are characterized by high-density power delivery and liquid cooling, with 2N redundancy and reliability design at their core; AI-assisted monitoring, with the responsibility for power supply reliability borne by engineers.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ UK AI data centers are characterized by high-density power delivery and liquid c
 | Subclass Global Talent (Global talent visa) | Global Talent: Outstanding or promising talents in technology/engineering |
 | Subclass HPI (High-potential talent) | High Potential Individual: graduate work visa for top university graduates. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Yes. Falls under shortage engineering occupations, can use UK's corresponding
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-centre-electrical-engineer/UK)**

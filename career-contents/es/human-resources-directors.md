@@ -51,8 +51,6 @@ The HR Director is responsible for formulating and executing the company's HR st
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The HR director position is generally mixed: administrative tasks (such as data organization and compliance reporting) are compressed by AI automation, but strategic decision-making, cultural development, and complex interpersonal coordination are amplified by AI-enhanced value.
-
 You can advance from HR Manager to HR Director, and then to Chief Human Resources Officer (CHRO) or VP of HR; Accumulate cross-departmental experience and master strategic planning and digital tools.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from HR Manager to HR Director, and then to Chief Human Resource
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-paying technical talents, with an annual salary of about 33,000 euros or more and an employment contract required. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled talent, the annual salary requirement is around 40,000 euros or more, with a streamlined process. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment residency requires employer sponsorship and meets market labor force testing. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically, the promotion from HR Manager to HR Director, and then to Chief Hu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-directors/ES)**

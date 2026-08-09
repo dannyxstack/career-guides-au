@@ -4,8 +4,6 @@
 
 Responsible for the maintenance, ecological restoration, and biodiversity protection of natural spaces (forests, wilderness, wetlands, etc.), as well as carrying out field work such as vegetation management and trail maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for the maintenance, ecological restoration, and biodiversity protec
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will replace some data recording and monitoring tasks, but field physical labor and ecological assessment work are difficult to replace. Overall risk is moderate, and after skill upgrades, AI can be used to improve efficiency.
-
 You can be promoted from a grassroots maintenance staff to a team leader or technical expert, or transition to ecological engineering or nature conservation management positions through continuing education.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ You can be promoted from a grassroots maintenance staff to a team leader or tech
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, suitable for mid-term contracts |
-| Subclass Passeport Talent (Talent Passport) | Talent passport, suitable for high-skilled or specialized projects, but less applicable for this profession |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Typically, a CAP or BTS-related diploma is required, and apprenticeship is a 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-space-maintenance-worker/FR)**

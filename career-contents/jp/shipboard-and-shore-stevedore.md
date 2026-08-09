@@ -50,8 +50,6 @@ Workers who load/unload cargo onto ships and handle coastal stevedoring at ports
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will affect some port cargo handling tasks (inventory management, container terminal automation), but manual work such as crane operation and load collapse prevention requiring judgment will remain. Overall efficiency will improve, but complete substitution is difficult.
-
 Start from scratch, advance by obtaining forklift and crane licenses. Career path includes passing skill tests and moving into site management positions.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Start from scratch, advance by obtaining forklift and crane licenses. Career pat
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Port Transport)) | Obtainable with skill test and JLPT N4 or higher. Max stay of 5 years. |
-| Subclass 技能 (Skilled Worker Visa (Cooking, Construction, etc.)) | For those who completed advanced technical training. Applicable in some cases. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | If applicable to managerial or specialized roles. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Yes. Many workplaces offer on-the-job training. Support for acquiring forklif
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shipboard-and-shore-stevedore/JP)**

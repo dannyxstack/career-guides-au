@@ -53,8 +53,6 @@ Dentists diagnose and treat oral diseases, including fillings, extractions, root
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Dentists can progress from junior assistant to partner or open a private practice. They may also specialize in orthodontics, oral surgery, or pursue careers in academia and public health.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Dentists can progress from junior assistant to partner or open a private practic
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Salary above €38,000 per year and occupation on the shortage list can lead to quick residency, but dentists are usually not on the list. |
 | Subclass EU Blue Card (EU Blue Card (Ireland)) | Annual salary €42,000+, relevant qualification required, suitable for skilled positions, dentists may be eligible |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a 5-year undergraduate degree in dentistry, followed by 3-
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/IE)**

@@ -52,8 +52,6 @@ Instrumental musicians play one or more instruments, performing live, recording,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI has mixed effects on instrumental musicians: music generation and accompaniment automation replace some commercial recording and background music work, but live emotional expression, improvisation, and teaching interaction remain highly human-dependent.
-
 Highly diversified income: performance + teaching + recording + streaming. Social media lowers access barriers; copyright and streaming royalties are key focus areas.
 
 **Tasks most exposed to AI:**
@@ -99,9 +97,7 @@ Highly diversified income: performance + teaching + recording + streaming. Socia
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: AI-generated music impacts background/stock music and simple arrangements, bu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musician-instrumental/AU)**

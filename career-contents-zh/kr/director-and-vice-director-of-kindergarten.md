@@ -1,10 +1,8 @@
-# Director and Vice Director of Kindergarten 职业分析 · 韩国
+# 幼儿园园长和副园长（Director and Vice Director of Kindergarten）职业分析 · 韩国
 
-**职业代码: 01321 (KECO)**
+**职业代码：01321 (KECO)**
 
-Kindergarten administrators oversee overall operations, including staff management, curriculum planning, parent consultation, and budget execution.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+幼儿园园长负责整体运营，包括员工管理、课程规划、家长咨询和预算执行。
 
 
 ---
@@ -13,9 +11,9 @@ Kindergarten administrators oversee overall operations, including staff manageme
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Acquire Kindergarten Teacher Level 2 certification (graduate from early childhood education department at a college or university). | 2-3年 | $12,000,000~$40,000,000（National/public universities: low tuition; private universities: varying tuition.） |
-| Vice Director Qualification Training (government-designated training institutions, 6 months to 1 year). | 6 months | $3,000,000~$5,000,000（Training fees self-funded.） |
-| Director Qualification Training (Ministry of Education-approved, after over 1 year of experience). | 1年 | $5,000,000~$8,000,000（Some government support available.） |
+| 取得幼儿园二级教师资格（大学毕业且毕业于幼儿教育专业）。 | 2-3年 | $12,000,000~$40,000,000（国立/公立大学：低学费；私立大学：学费各异。） |
+| 副所长资格培训（政府指定培训机构，6个月至1年）。 | 6个月 | $3,000,000~$5,000,000（培训费用自付。） |
+| 园长资格培训（教育部批准，需一年以上经验）。 | 1年 | $5,000,000~$8,000,000（可获得一些政府支持。） |
 
 ---
 
@@ -23,18 +21,18 @@ Kindergarten administrators oversee overall operations, including staff manageme
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Kindergarten Teacher Level 2 Certificate | 教育部 | 必备 | Obtained after graduating from an early childhood education department at a college or higher. |
-| Vice Director Certificate | 教育部 | 必备 | At least 3 years of teaching experience + completion of training. |
-| Director Certificate | 教育部 | 必备 | At least 2 years of vice director experience + completion of training. |
+| 幼儿园教师二级证书 | 教育部 | 必备 | 从大专或以上学历的幼儿教育专业毕业后获得。 |
+| 副主任证书 | 教育部 | 必备 | 至少3年教学经验 + 完成培训。 |
+| 董事证书 | 教育部 | 必备 | 至少2年副主任经验加完成培训。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 21,000. Although the number of kindergartens is declining due to low birth rates, expansion of public kindergartens and after-school programs are expected to maintain stable jobs.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 21,000。尽管由于低出生率幼儿园数量减少，但公立幼儿园和课后项目的扩展预计将维持稳定的就业岗位。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,91 +40,83 @@ Kindergarten administrators oversee overall operations, including staff manageme
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry level (Vice Director, 0-5 years) | $30,000,000~$40,000,000 | Public: step salary system; private: varies by institution size. |
-| Intermediate level (Director, 5-15 years) | $45,000,000~$60,000,000 | Private director greatly affected by number of students |
-| Advanced (Director, 15+ years) | $55,000,000~$80,000,000 | Large academy-type kindergarten directors may be higher |
+| 入门级（副主任，0-5年） | $30,000,000~$40,000,000 | 公共部门：阶梯工资制；私营部门：根据机构规模而异。 |
+| 中级（总监，5-15年） | $45,000,000~$60,000,000 | 私立董事受学生人数影响很大 |
+| 高级（总监，15年以上） | $55,000,000~$80,000,000 | 大型学院式幼儿园园长可能更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can partially replace administrative tasks (document writing, schedule management, etc.), but areas requiring human relationships and judgment such as curriculum planning, teacher coaching, and parent counseling are protected. Overall, AI's impact on this job is not significant.
+AI可部分替代行政任务（文书写作、日程管理等），但需要人际关系和判断的领域如课程规划、教师指导、家长咨询等不受影响。总体而言，AI对该工作影响不大。
 
-Promotion from kindergarten teacher to vice director (assistant principal) to director; requires specific experience and training. Both public and private institutions have promotion structures based on experience.
+从幼儿园教师晋升为副主任（副校长）再到主任；需要特定经验和培训。公立和私立机构都有基于经验的晋升结构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Administrative document writing and management
-- Basic statistics and report generation
+- 行政文件撰写与管理
+- 基本统计与报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Curriculum evaluation and improvement
-- Preparation of educational materials for teachers
+- 课程评估与改进
+- 教师教材准备
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding and counseling child development
-- Organizational leadership and crisis management
-- Building trust relationships with parents
+- 理解和辅导儿童发展
+- 组织领导力与危机管理
+- 与家长建立信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与可视化
-- Use of digital education tools
+- 数字教育工具的使用
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Impact of low birth rate
-- Expansion of after-school programs
-- Increase in public kindergarten construction
-- Reform of director qualifications
+- 低出生率的影响
+- 课后项目扩展
+- 公共幼儿园建设增加
+- 董事资格改革
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Rare as early childhood education professionals; mainly issued to foreign kindergarten founders |
-| Subclass F-2 (F-2 (Residence)) | Long-term resident foreigners can work as kindergarten directors |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents can work without restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong leadership and responsibility
-- People passionate about children's education
-- People who can communicate smoothly with parents
+- 领导力强且责任心强的人
+- 热爱儿童教育的人
+- 能与家长顺畅沟通的人
 
 **谁不适合**
-- People lacking spontaneity and planning
-- People averse to interacting with children
+- 缺乏自发性和规划能力的人
+- 不愿与儿童互动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a kindergarten director?**
-答：Public kindergarten directors earn approximately 50-70 million KRW through a salary step system, while private ones range from 40-80 million KRW depending on the number of children and institution size.
+**问：幼儿园园长的平均工资是多少？**
+答：公立幼儿园园长通过薪资阶梯制度年收入约5000-7000万韩元，私立则根据儿童数量和机构规模在4000-8000万韩元之间。
 
-**问：Can foreigners become kindergarten directors in Korea?**
-答：Korean language ability and early childhood education certification are required, and it is possible with an E-7 visa, but very limited. Possibilities increase for permanent residents.
+**问：外国人能否在韩国担任幼儿园园长？**
+答：需要韩语能力和幼儿教育认证，可通过E-7签证实现，但非常有限。永久居民的可能性更大。
 
-**问：What experience is needed to become a director?**
-答：After working as a kindergarten teacher for at least 3 years, obtain a vice director qualification, then work as a vice director for at least 2 years before qualifying for director training.
+**问：成为导演需要什么经验？**
+答：担任幼儿园教师至少3年后，获得副园长资格，再任副园长至少2年方可参加园长培训。
 
 
 ---
@@ -144,12 +134,12 @@ Promotion from kindergarten teacher to vice director (assistant principal) to di
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/director-and-vice-director-of-kindergarten/KR)**

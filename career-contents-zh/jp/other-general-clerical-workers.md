@@ -1,10 +1,8 @@
-# Other General Clerical Workers 职业分析 · 日本
+# 其他一般事务员（Other General Clerical Workers）职业分析 · 日本
 
-**职业代码: 259 (JSCO)**
+**职业代码：259 (JSCO)**
 
-Occupation engaged in general clerical work not belonging to specific specialized fields such as sales or accounting, among general office positions.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+从事不属于销售或会计等特定专业领域的一般文书工作的职业，属于一般办公室职位。
 
 
 ---
@@ -13,8 +11,8 @@ Occupation engaged in general clerical work not belonging to specific specialize
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $3,000,000~$5,000,000（Total cost for public high school） |
-| Junior College/Vocational School Diploma | 2 年 | $2,000,000~$4,000,000（Annual cost for private vocational school） |
+| 高中文凭 | 3年 | $3,000,000~$5,000,000（公立高中总费用） |
+| 大专/职业学校文凭 | 2 年 | $2,000,000~$4,000,000（私立职业学校的年费用） |
 
 ---
 
@@ -22,18 +20,18 @@ Occupation engaged in general clerical work not belonging to specific specialize
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Nikko Bookkeeping Test, Grade 2 | Japan Chamber of Commerce and Industry | 可选 | Advantageous for accounting clerical work |
-| MOS (Microsoft Office Specialist) | Microsoft | 可选 | Proof of PC skills |
-| Secretarial Skills Test | Practical Skills Test Association | 可选 | Advantageous for secretary/assistant work |
+| 日商簿记考试，2级 | 日本商工会议所 | 可选 | 对会计文员工作有利 |
+| MOS（微软办公软件国际认证） | Microsoft | 可选 | 电脑技能证明 |
+| 秘书技能测试 | 实用技能考试协会 | 可选 | 对秘书/助理工作有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 1,500,000. Routine tasks are declining due to digitization and AI advances, but there is steady demand for corporate clerical work, and labor shortages continue due to aging demographics.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 1,500,000。由于数字化和AI的进步，常规任务正在减少，但企业文书工作的需求稳定，且因人口老龄化劳动力短缺持续存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,89 +39,82 @@ Occupation engaged in general clerical work not belonging to specific specialize
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $2,500,000~$3,500,000 | Annual income (pre-tax), varies by company size and region |
-| 中级 (3-7年) | $3,500,000~$4,500,000 | Annual income (pre-tax), with general clerical experience |
-| Advanced (7+ years) | $4,500,000~$6,000,000 | Annual income (pre-tax), including management duties |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 年收入（税前），因公司规模和地区而异 |
+| 中级 (3-7年) | $3,500,000~$4,500,000 | 年收入（税前），具有一般文员经验 |
+| 高级（7年以上） | $4,500,000~$6,000,000 | 年收入（税前），含管理职责 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Routine general office tasks such as data entry and document sorting are easily replaced by AI/RPA, leading to a decline in hiring numbers.
+数据录入和文件整理等常规办公室任务容易被AI/RPA替代，导致招聘数量下降。
 
-Can start with no experience and advance from general clerical to secretary/assistant, or to sales/accounting clerical. Professional qualifications broaden opportunities for raises and job changes.
+可从无经验开始，从一般文员晋升至秘书/助理，或转至销售/会计文员。专业资格拓宽了加薪和换工作的机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data Entry
-- Document Sorting/Filing
-- Slip Processing
-- Standard Report Creation
+- 数据录入
+- 文件分类/归档
+- 滑差处理
+- 标准报告制作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data Analysis/Visualization
-- AI-Based Efficiency Improvement
-- Report Quality Control
+- 数据分析/可视化
+- 基于AI的效率改进
+- 报告质量控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Coordination/Negotiation
-- Complex Exception Handling
-- Tasks Requiring Judgment
+- 人际协调/谈判
+- 复杂异常处理
+- 需要判断的任务
 
-**需构建的技能:**
+**需构建的技能：**
 
-- RPA Tool Operation
-- Basic Data Analysis
-- Business Negotiation Skills
+- RPA工具操作
+- 基础数据分析
+- 商务谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sales clerical
-- Accounting clerical
-- General Office Work
-- DX Promotion
+- 销售文员
+- 会计文员
+- 一般办公室工作
+- 数字化转型推进
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. General clerical work is often excluded, but may be possible when combined with translation/interpreting. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | General clerical work is excluded. Related work such as sales clerical is also not applicable. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at meticulous and accurate work
-- People who can perform basic computer operations
+- 适合细致准确工作的人
+- 能进行基本电脑操作的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People who value creativity
+- 重视创造力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for general clerical work?**
-答：250-350 JPY for 0-3 years experience, 350-450 JPY for mid-career, 450-600 JPY for management.
+**问：一般文职工作的平均薪资是多少？**
+答：0-3年经验250-350日元，中坚350-450日元，管理层450-600日元。
 
-**问：Can foreigners work in general clerical jobs in Japan?**
-答：General clerical is often excluded from the Engineer/Specialist in Humanities/International Services visa. It may be possible if the role involves specialized knowledge/experience, such as sales clerical.
+**问：外国人可以在日本从事一般文职工作吗？**
+答：一般文职通常被排除在人文知识/国际业务工程师或专家签证之外。如果职位涉及专业的知识/经验，如销售文职，则可能可行。
 
 
 ---
@@ -141,12 +132,12 @@ Can start with no experience and advance from general clerical to secretary/assi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-general-clerical-workers/JP)**

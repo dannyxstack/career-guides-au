@@ -51,8 +51,6 @@ Responsible for cleaning, washing, and disinfecting various vehicles including c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle cleaning is manual task-intensive; AI/automation will gradually replace many cleaning operations, reducing job demand and lowering entry barriers, but income may decline.
-
 Limited career progression; can advance from general cleaner to team leader or supervisor, or move into specialized car care (e.g., coating, interior restoration).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Limited career progression; can advance from general cleaner to team leader or s
 | Subclass Chancenkarte (Opportunity Card) | Suitable for low-skilled positions, requiring proof of German proficiency (A2 or above) and a work contract |
 | Subclass Job Seeker (Job Seeker Visa) | You may enter the country to seek employment, but must demonstrate financial means and basic German language skills |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to team supervisor or transition to specialized automotive care f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-cleaner/DE)**

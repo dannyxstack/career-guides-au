@@ -51,8 +51,6 @@ Responsible for post-processing of printed materials, such as cutting, folding, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of printing binders will have a mixed outlook: simple, repetitive tasks like cutting and folding are easily automated, but tasks such as custom binding, quality control, and client communication become more valuable with AI enhancement, requiring proactive skill upgrades.
-
 Junior workers can advance to senior binding technician or printing workshop supervisor through on-the-job training, or transition to digital printing or pre-press technology roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior workers can advance to senior binding technician or printing workshop sup
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for applicants with a master's degree or higher and a salary meeting the threshold (approximately €2,800/month in 2025) |
-| Subclass Orientation Year (Orientation Year) | Graduates in the Netherlands or from top 200 global universities can apply for a one-year orientation year residence permit, then switch to a work visa after finding a job. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for applicants with high education (bachelor's degree or above) and high salary (approximately €4,500/month in 2025), but typically for high-skilled positions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can be promoted to workshop supervisor or transition to digital printing, pre
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/print-finishing-and-binding-worker/NL)**

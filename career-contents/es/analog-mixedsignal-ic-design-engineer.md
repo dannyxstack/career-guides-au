@@ -52,8 +52,6 @@ Analog/mixed-signal IC design engineers design analog and digital-analog hybrid 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
-
 Spanish AI accelerators and low-power/simulation design are the main focus, with engineers skilled in RTL/timing/layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Spanish AI accelerators and low-power/simulation design are the main focus, with
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Highly Qualified Professional (Ley 14/2013) residence permit |
-| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card: high salary + degree engineer pathway. |
-| Subclass Cuenta ajena (Employed work) | Employed work residence permit |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -162,12 +153,12 @@ A: Yes. Classified as a shortage engineering profession, you can follow Spain's 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/analog-mixedsignal-ic-design-engineer/ES)**

@@ -4,8 +4,6 @@
 
 Operates and monitors steam boilers in power plants and factories, managing fuel supply and adjusting pressure/temperature. Handles coal, heavy oil, biomass, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Operates and monitors steam boilers in power plants and factories, managing fuel
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI-based automatic control and remote monitoring are being introduced, but human experience is needed for judgment during anomalies and maintenance. Full automation is difficult, with AI playing a supplementary role. Data analysis skills will be required in the future.
-
 After obtaining boiler technician license, gain field experience to become lead operator or facility manager. Career path includes group leader or safety manager in large plants.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ After obtaining boiler technician license, gain field experience to become lead 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Available after graduating from university/vocational school with relevant work experience; requires at least 3 years of practical experience after university. |
-| Subclass 特定活動 (Designated Activities (Internship)) | Not covered by Technical Intern Training, but there are cases of intra-company transfers to Japanese companies or work as highly skilled professionals. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Grade 2 can be taken without academic or work experience. Grade 1 requires Gr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boiler-operator/JP)**

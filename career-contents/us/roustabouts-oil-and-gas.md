@@ -54,8 +54,6 @@ Assemble or repair oilfield equipment using manual and power tools, and perform 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive manual tasks of oil and gas wellhead workers (e.g., pipe cleaning, equipment handling) are easily automated, but on-site equipment maintenance and emergency response still require human judgment. Overall job risk is high; entry-level positions are shrinking.
-
 Wellhead workers can advance to senior technicians, foremen, or equipment operators, with some transitioning to drilling rigs or pipeline maintenance.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Wellhead workers can advance to senior technicians, foremen, or equipment operat
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Only requires high school diploma or GED, then on-the-job training provided b
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roustabouts-oil-and-gas/US)**

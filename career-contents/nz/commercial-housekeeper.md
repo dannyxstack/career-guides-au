@@ -51,8 +51,6 @@ Commercial cleaners perform cleaning and tidying in commercial places such as ho
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Commercial cleaners face high automation risk, especially repetitive tasks like floor cleaning and surface wiping, but interpersonal interaction and complex cleaning still require humans.
-
 Junior commercial cleaners can advance to cleaning supervisor or manager, or move into specialized cleaning fields like carpet cleaning. In New Zealand, the career path is clear but requires experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior commercial cleaners can advance to cleaning supervisor or manager, or mov
 | Subclass AEWV (Accredited Employer Work Visa) | Most common work visa, requires accredited employer sponsorship, up to 3 years, can bring family |
 | Subclass SMC (Skilled Migrant Category) | Only considered for highly skilled and salary-eligible candidates, extremely difficult |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Generally not eligible for skilled migration, only via the AEWV work visa; im
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-housekeeper/NZ)**

@@ -54,8 +54,6 @@ Play workers provide and promote play opportunities for children in various form
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Game workers face a mixed impact from AI: automation will handle administrative and security monitoring tasks, but core abilities in creative interaction, emotional support, and free play facilitation are hard to replace and may even be enhanced by AI assistance.
-
 Career advancement paths include becoming a senior playworker, play scheme coordinator, or children's service manager. Some pursue further qualifications to become teachers or social workers, transitioning to broader child or community work roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career advancement paths include becoming a senior playworker, play scheme coord
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Generally no degree required, but holding playwork qualifications (e.g., NQF 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/playworkers/UK)**

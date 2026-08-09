@@ -1,10 +1,8 @@
-# Musician 职业分析 · 日本
+# 音乐家（Musician）职业分析 · 日本
 
-**职业代码: 231 (JSCO)**
+**职业代码：231 (JSCO)**
 
-A professional engaged in musical expression such as composing, performing, or singing. Active in orchestras, bands, solo projects, and various other settings.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事作曲、演奏或演唱等音乐表达的专业人士。活跃于管弦乐队、乐队、个人项目等多种场合。
 
 
 ---
@@ -13,8 +11,8 @@ A professional engaged in musical expression such as composing, performing, or s
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor's Degree in Music | 4年 | $5,000,000~$8,000,000（National universities are affordable; private ones are expensive.） |
-| Vocational School in Music | 2 年 | $2,000,000~$4,000,000（Practical and shorter duration.） |
+| 音乐学士学位 | 4年 | $5,000,000~$8,000,000（国立大学费用较低；私立大学费用昂贵。） |
+| Vocational School in Music | 2 年 | $2,000,000~$4,000,000（实用且学制较短。） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional engaged in musical expression such as composing, performing, or s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Graduation from a music university | Various music universities | 可选 | Advantageous as educational background. |
-| Music Certification (e.g., Yamaha Grade) | Yamaha Music Foundation | 可选 | Useful as a technical indicator. |
+| 音乐大学毕业 | 各种音乐大学 | 可选 | 学历上具有优势。 |
+| 音乐认证（如雅马哈等级） | 雅马哈音乐基金会 | 可选 | 作为技术指标有用。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 65,000. Employment is stable due to changes in digital distribution and live demand. Competition is fierce for major agency positions, but freelance demand is increasing.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 65,000。由于数字发行和现场需求的变化，就业稳定。大型机构职位竞争激烈，但自由职业需求增加。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional engaged in musical expression such as composing, performing, or s
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $2,000,000~$3,500,000 | Freelance work is unstable. |
-| Mid-career (3–10 years) | $3,500,000~$6,000,000 | Depends on affiliation and achievements. |
-| Veteran (10+ years) | $6,000,000~$12,000,000 | Top earners can make tens of millions of yen. |
+| 初级（0-3年） | $2,000,000~$3,500,000 | 自由职业不稳定。 |
+| 中期职业（3-10年） | $3,500,000~$6,000,000 | 取决于隶属机构和个人成就。 |
+| 资深（10年以上） | $6,000,000~$12,000,000 | 高收入者可达数千万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used as a supplementary tool in music production, improving the efficiency of composition and arrangement. However, the depth of performance and expression can only be achieved by humans, and AI cannot fully replace it. The value of live performance may actually increase.
+AI在音乐制作中作为辅助工具，提升作曲和编曲效率。但表演和表达的深度只能由人类完成，AI无法完全替代。现场演出的价值反而可能提升。
 
-After graduating from a music university, join an orchestra or production company. Gain experience to move into solo activities or production. Digital skills are important.
+从音乐学院毕业后，加入乐团或制作公司。积累经验后转向个人演出或制作。数字技能很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Background Music Production
-- Simple Arrangement Tasks
-- Automatic Accompaniment
+- 背景音乐制作
+- 简单安排任务
+- 自动伴奏
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Brainstorming Composition Ideas
-- Mixing and Mastering
-- Score Creation
+- 头脑风暴构思创意
+- 混音与母带处理
+- 得分创建
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique Performance Interpretation
-- Live Atmosphere
-- Collaboration Skills with Composers
+- 独特绩效解读
+- 现场氛围
+- 与作曲家的协作能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Improvisation
-- Music Theory
-- Digital Audio Workstation Operation
-- Network Construction
+- 即兴表演
+- 音乐理论
+- 数字音频工作站操作
+- 网络建设
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Live streaming
-- Film music
-- Video Game Music
-- Streaming
+- 直播
+- 电影音乐
+- 电子游戏音乐
+- 流媒体
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | Obtainable for music instruction or production work. Performance-only is difficult; must combine with cultural activities. |
-| Subclass 興行ビザ (Entertainer Visa) | Used for temporary performance activities by foreign musicians. There are requirements for remuneration and promoters. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can immerse themselves in instruments or singing from childhood
-- People who can manage themselves and do not mind solitary practice
-- People with excellent expressiveness and emotional communication
+- 从小能沉浸于乐器或演唱者
+- 能够自我管理且不介意单独练习的人
+- 具有出色表达能力和情感沟通的人
 
 **谁不适合**
-- People who value stable income
-- People who are reluctant to perform in front of others
+- 重视稳定收入的人
+- 不愿在他人面前表演的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a musician?**
-答：The average including freelancers is about 3 to 4 million yen, but it varies greatly depending on the agency and track record. Top earners exceed tens of millions of yen, but most work part-time alongside a side job.
+**问：音乐家的平均年收入是多少？**
+答：包括自由职业者在内，平均收入约为300万至400万日元，但根据机构和业绩差异很大。顶尖收入者超过数千万日元，但大多数人兼职副业。
 
-**问：What visa is required to work as a musician in Japan?**
-答：It is difficult to obtain an Engineer/Specialist in Humanities/International Services visa for performance activities alone, but it is possible if music instruction or production work is included. For temporary performances, there is an Entertainment visa.
+**问：在日本作为音乐家工作需要什么签证？**
+答：仅凭表演活动难以获得人文/国际服务工程师/专家签证，但如果包含音乐教学或制作工作，则有可能。对于临时表演，有娱乐签证。
 
-**问：How to succeed as a musician?**
-答：In addition to technical practice, it is important to gain fans through SNS and live activities, and to build connections. Having multiple income sources such as digital distribution and audiovisual music leads to stability.
+**问：如何成为一名成功的音乐家？**
+答：除了技术实践，通过SNS和直播活动吸引粉丝、建立人脉也很重要。拥有数字发行和视听音乐等多重收入来源有助于稳定。
 
 
 ---
@@ -144,12 +135,12 @@ After graduating from a music university, join an orchestra or production compan
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/musician/JP)**

@@ -1,10 +1,8 @@
-# Prosecutor 职业分析 · 韩国
+# 检察官（Prosecutor）职业分析 · 韩国
 
-**职业代码: 22112 (KECO)**
+**职业代码：22112 (KECO)**
 
-A prosecutor is a legal professional responsible for directing criminal investigations, initiating and maintaining prosecutions, and conducting trials in court, working to protect the rights of the people and realize social justice.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+检察官是负责指导刑事调查、提起并维持公诉以及出庭审判的法律专业人员，致力于保护人民权利和实现社会正义。
 
 
 ---
@@ -13,8 +11,8 @@ A prosecutor is a legal professional responsible for directing criminal investig
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Law school (Legal Professional Graduate School) | 3年 | $50,000,000~$99,999,999（Varies by national/private and scholarships） |
-| Pass the bar exam | 1年 | $1,000,000~$3,000,000（Exam preparation costs） |
+| 法学院（法律专业研究生院） | 3年 | $50,000,000~$99,999,999（因国立/私立及奖学金而异） |
+| 通过律师资格考试 | 1年 | $1,000,000~$3,000,000（考试准备费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A prosecutor is a legal professional responsible for directing criminal investig
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Lawyer's license | Ministry of Justice / Korean Bar Association | 必备 | Registration after passing the bar exam |
-| Prosecutor appointment exam | Ministry of Justice | 必备 | Eligible after obtaining a lawyer's license |
+| 律师执业证 | 法务部/韩国律师协会 | 必备 | 通过律师资格考试后注册 |
+| 检察官任命考试 | 法务部 | 必备 | 获得律师执照后符合资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,500. The number of prosecutors is managed by the Ministry of Justice, and new recruitment is limited. Over the next five years, the quota is expected to increase slightly or remain stable, with a very high competition rate.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,500。检察官人数由法务部管理，新招聘名额有限。未来五年，名额预计小幅增加或保持稳定，竞争率非常高。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★★）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,91 +38,84 @@ A prosecutor is a legal professional responsible for directing criminal investig
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-5 years) | $60,000,000~$80,000,000 | Based on entry-level prosecutor; allowances separate |
-| Mid-level (5-15 years) | $80,000,000~$99,999,999 | Equivalent to district prosecutor's office department head |
-| 高级（15年以上） | $99,999,999 | High prosecutor or above |
+| 初级（0-5年） | $60,000,000~$80,000,000 | 按初级检察官计算；津贴另计 |
+| 中级别（5-15年） | $80,000,000~$99,999,999 | 相当于地区检察官办公室部门主管 |
+| 高级（15年以上） | $99,999,999 | 高级检察官或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in mechanical document review or case analysis in prosecutors' work, but core tasks requiring high-level judgment and ethical decision-making, such as directing investigations and maintaining prosecution in court, are difficult to replace.
+AI可在检察官工作中辅助机械性文件审查或案件分析，但核心任务如指挥调查和出庭公诉需要高水平判断和伦理决策，难以被取代。
 
-After the abolition of the bar exam, most prosecutors are law school graduates. After obtaining a lawyer's license, they pass the prosecutor appointment exam. Promotion paths include: entry-level prosecutor → district prosecutor's office → high prosecutor's office → deputy chief prosecutor, with possible advancement to Prosecutor General.
+律师资格考试废除后，大多数检察官为法学院毕业生。获得律师执照后，通过检察官任命考试。晋升路径包括：初级检察官 → 地方检察厅 → 高等检察厅 → 副检察长，有可能晋升至检察长。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document review
-- Precedent search
-- Basic fact verification
+- 文件审查
+- 先例检索
+- 基本事实核查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Evidence analysis
-- Legal research
-- Data-driven investigation direction
+- 证据分析
+- 法律研究
+- 数据驱动调查方向
 
-**人类护城河:**
+**人类护城河：**
 
-- Court argument
-- Investigation direction
-- Ethical judgment
-- Human relations and negotiation
+- 法庭辩论
+- 调查方向
+- 道德判断
+- 人际关系与谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital forensics
-- Data analysis
-- AI literacy
-- Cybercrime investigation
+- 数字取证
+- 数据分析
+- AI素养
+- 网络犯罪调查
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Prosecution reform
-- Anti-corruption
-- Digital forensics
-- Criminal justice
+- 检察改革
+- 反腐败
+- 数字取证
+- 刑事司法
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For foreign lawyers, limited |
-| Subclass F-2 (Residence) | Possible long-term stay but prosecutor appointment very limited |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong belief in law and justice
-- People with excellent logic and analytical skills
-- People with high stress tolerance and responsibility
+- 对法律和正义有坚定信念的人
+- 逻辑和分析能力强的人
+- 高压力承受能力和责任感强的人
 
 **谁不适合**
-- People who find it hard to bear heavy responsibility
-- People who value work-life balance
+- 难以承受重大责任的人
+- 注重工作生活平衡的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a prosecutor?**
-答：The pre-tax annual salary for an entry-level prosecutor (0-5 years) is approximately 60-80 million KRW, with additional allowances and bonuses possible.
+**问：检察官的起薪是多少？**
+答：入门级检察官（0-5年）的税前年薪约为6000万至8000万韩元，可能还有额外津贴和奖金。
 
-**问：Can a foreigner become a prosecutor in Korea?**
-答：In principle, only Korean nationals can be appointed as prosecutors, making it unsuitable as an immigration path.
+**问：外国人能在韩国成为检察官吗？**
+答：原则上只有韩国国民可以任命为检察官，不适合作为移民途径。
 
 
 ---
@@ -142,12 +133,12 @@ After the abolition of the bar exam, most prosecutors are law school graduates. 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/prosecutor/KR)**

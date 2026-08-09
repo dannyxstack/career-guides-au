@@ -52,8 +52,6 @@ In France, those engaged in the planting, maintenance, and harvesting of vegetab
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Vegetable Planting Agricultural Workers: Physically demanding, AI automation partially monitors, records, and assists decision-making tasks, but field operations rely on human dexterity, resulting in mixed job performance.
-
 You can be promoted from ordinary agricultural worker to team leader or farm supervisor, or after earning a CAP/BTS agricultural diploma through further study, transition to technician or farm manager.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from ordinary agricultural worker to team leader or farm sup
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | You can apply with a work contract, but you must obtain authorization from the French Labor Bureau. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with advanced skills or high salaries can apply for a talent passport. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After graduation, you can apply for a one-year job residency period. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: France's agriculture faces labor shortages; employers can apply for work perm
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-or-crop-production-agricultural-worker/FR)**

@@ -52,8 +52,6 @@ In Canada, procurement specialists are responsible for purchasing goods and serv
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
-
 Junior buyers can advance to senior purchasing officer, procurement manager, or supply chain director. By accumulating industry experience and obtaining CSCMP or CIPS certification, they can move towards strategic procurement, international procurement, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior buyers can advance to senior purchasing officer, procurement manager, or 
 | Subclass PNP (Provincial Nominee Program) | Apply through Provincial Nominee Programs (e.g., Ontario, BC, Alberta) for additional points; some provinces do not require an employer. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program requires a job offer, suitable for those with job opportunities in coastal provinces. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Common certifications include SCMP (Supply Chain Management Professional) iss
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-agents-and-officers/CA)**

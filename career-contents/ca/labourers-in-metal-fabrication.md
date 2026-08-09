@@ -50,8 +50,6 @@ Perform material handling, machine feeding, cleaning and support tasks in a meta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Repetitive tasks such as cutting, bending, and inspection in metal manufacturing will be affected by AI and automation, but on-site installation, welding adjustments, and complex size adaptation rely on hand-eye coordination and experience, making the profession resilient; skilled workers with 3D modeling and CNC programming will benefit most.
-
 Can progress from general worker to machine operator or production line leader. With experience, can transition through apprenticeships to technical roles such as welder or fitter, with significantly higher pay.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from general worker to machine operator or production line leader. 
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, but must prove inability to recruit local workers |
 | Subclass PNP (Provincial Nominee Program) | Some provincial PNP streams may include lower-skilled workers, but opportunities are limited |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Generally requires only high school graduation, with most skills acquired thr
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-metal-fabrication/CA)**

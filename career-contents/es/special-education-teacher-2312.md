@@ -4,8 +4,6 @@
 
 Responsible for providing personalized instruction and support for students with special educational needs (such as disabilities and learning disabilities), usually working at public or private special education centers in Spain.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for providing personalized instruction and support for students with
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Teachers can be promoted from general special education teachers to coordinators, department heads, or educational psychologists. You can also enter university research or management positions by pursuing a master's or doctoral degree.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Teachers can be promoted from general special education teachers to coordinators
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit hired by a company) | You must first find a Spanish school employer to apply for employment-based residence. Educational background and work experience are required. Passed the labor market test. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | If you are a university faculty member or researcher, you can apply, but special education usually does not meet executive/researcher standards. |
-| Subclass Homologación (Professional qualification recognition) | Overseas qualifications must undergo Spanish Ministry of Education credential evaluation (homologación) to obtain teaching credentials; process is complex. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: You can be promoted to coordinator, department head, specialize in certain di
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teacher-2312/ES)**

@@ -4,8 +4,6 @@
 
 A management position overseeing planning, production, personnel, and budget in art, design, and broadcasting fields, serving as a key link between creativity and management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A management position overseeing planning, production, personnel, and budget in 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automates administrative tasks (scheduling, budget analysis, report writing) to boost productivity, but it is complementary to areas like creative planning, human networks, and artistic judgment, which are hard to replace.
-
 Promoted after 5–10 years of practical experience in the field, or via project leader/team lead roles; an MBA or Master's in Arts Management is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Promoted after 5–10 years of practical experience in the field, or via project
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in culture/arts/broadcasting, but management roles are difficult |
-| Subclass F-2 (F-2 (Residence)) | Applicable after long-term stay, relevant experience recognized |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: No legally required certification, but a cultural arts manager certification 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arts-design-and-broadcasting-manager/KR)**

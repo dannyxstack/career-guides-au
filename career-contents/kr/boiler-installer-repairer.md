@@ -4,8 +4,6 @@
 
 A technical role that installs, inspects, and repairs industrial and residential boilers and related heating systems. Performs regular maintenance and fault diagnosis in accordance with safety regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A technical role that installs, inspects, and repairs industrial and residential
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI plays a supporting role in diagnostics and remote control, but humans are essential for physical installation and repair. Automation reduces some repetitive tasks, but AI cannot replace high-difficulty equipment.
-
 Certification can advance from Craftsman to Industrial Engineer to Professional Engineer; job changes to large construction firms or energy plants increase salary; replacement of aging equipment contributes to career retention.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Certification can advance from Craftsman to Industrial Engineer to Professional 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Limited to boiler manufacturing and simple assistance in manufacturing, etc., with limited skilled functions |
-| Subclass E-7 (Specific Activities) | Possible when skilled functions are recognized, requires experience verification and contract |
-| Subclass F-2 (Residence) | Point system, can apply for long-term stay, no employment restrictions |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Obtaining advanced certifications such as Energy Management Industry Engineer
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boiler-installer-repairer/KR)**

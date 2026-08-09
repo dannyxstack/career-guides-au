@@ -51,8 +51,6 @@ Retail managers oversee store operations, inventory, rostering and team manageme
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Career progression: Supervisor → Store Manager → Area Manager; candidates with P&L and inventory system experience are in higher demand.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Supervisor → Store Manager → Area Manager; candidates wi
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Possible but limited. Retail Manager (142111) appears on some state nominatio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-manager-general/AU)**

@@ -53,8 +53,6 @@ The hotel front desk receptionist is the core of hotel guest service, responsibl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Junior front desk staff can be promoted to front desk supervisor (about 2-3 years), then to front desk manager or housekeeping manager. You can also transfer horizontally to the reservation department, customer service center, or exhibition management. Language proficiency (English/German/French) is key to promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior front desk staff can be promoted to front desk supervisor (about 2-3 year
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | For employment-based work residence, a Spanish company must provide a work contract and prove that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | The Highly Skilled Professional Visa (Ley 14/2013) is suitable for positions with an annual salary of approximately 35,000 euros or more, but the front desk usually does not meet this requirement. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card applies to higher education + high-paying positions (annual salary about 34,000 euros), and receptionists generally do not qualify. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Promotions can be made to Front Desk Supervisor, Front Desk Manager, Housekee
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-receptionist/ES)**

@@ -53,8 +53,6 @@ Responsible for handling daily financial transactions such as cash and checks, o
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Routine transaction processing tasks of bank and post office clerks will be greatly compressed by AI automation, but complex customer inquiries and sales tasks will be enhanced by AI, shifting roles toward advisory positions.
-
 Can be promoted to senior teller, customer service supervisor, or branch manager, or transfer to backend departments such as loans or wealth management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can be promoted to senior teller, customer service supervisor, or branch manager
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: High risk; online banking and self-service terminals have significantly reduc
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-and-post-office-clerks/UK)**

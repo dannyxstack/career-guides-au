@@ -51,8 +51,6 @@ A specialized engineer responsible for the design, control, and maintenance of r
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies complement and expand the work of robotics engineers, but some repetitive design and programming tasks may be automated. Overall, AI increases productivity and creates new roles, so demand for advanced engineers will increase.
-
 With a graduate degree (master's/doctorate) or field experience, one can advance to roles like robot system designer or project manager. Career progression in large corporations, robotics companies, or startups can lead to positions such as lab director or CTO.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ With a graduate degree (master's/doctorate) or field experience, one can advance
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed at a domestic company as a robotics professional; requires bachelor's degree or higher and experience |
-| Subclass D-10 (Job Seeking) | Ph.D. or Master's in Robotics holder can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Convertible to points-based system; long-term stay and free employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: At least an associate degree is required, but a bachelor's is common and a ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/robotics-engineer/KR)**

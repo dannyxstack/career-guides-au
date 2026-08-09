@@ -56,8 +56,6 @@ Crane signalers direct lifting operations at construction and mining sites; veri
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane signalers face mixed AI impact: AI vision can assist with lifting path planning and collision detection, but core responsibilities like on-site safety judgment and team hand signals are hard to replace; need to proactively learn digital tools to enhance value.
-
 Entry-level signallers can progress to senior signallers, hoisting supervisors or crane operators. Obtaining relevant provincial certification (such as BC hoisting certification) significantly improves salary and job stability.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Entry-level signallers can progress to senior signallers, hoisting supervisors o
 | Subclass BC PNP (BC Provincial Nominee Program (Skilled Worker)) | BC PNP Skilled Worker category, requires employer offer; signaller is a priority occupation |
 | Subclass AB PNP (Alberta Opportunity Stream) | Alberta Opportunity Stream, requires an Alberta employer job offer and work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Most provinces such as BC, AB, ON require mandatory certification, usually ob
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-signalers/CA)**

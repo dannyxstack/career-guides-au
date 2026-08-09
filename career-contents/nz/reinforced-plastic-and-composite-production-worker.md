@@ -52,8 +52,6 @@ This occupation in New Zealand involves manual and machine-assisted manufacturin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
-
 Junior workers can advance to senior laminating technician, supervisor, or quality controller. After 5-10 years of experience, they can transition to mold design or production management, and some start their own small workshops. Industry certifications such as NZQA-related certificates aid career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior workers can advance to senior laminating technician, supervisor, or quali
 | Subclass SMC (Skilled Migrant Category) | Skilled migration requires a score of 6 (e.g., qualifications + work experience + salary). Salary not less than 1.5 times the median (approx. $44.49/hour) or 2 times ($59.32/hour) yields higher scores. |
 | Subclass GFWR (Green Family Work Residence) | This occupation is not on the Green List and is not directly applicable. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Industry is stable but small, with limited senior positions. Can transition t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reinforced-plastic-and-composite-production-worker/NZ)**

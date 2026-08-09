@@ -4,8 +4,6 @@
 
 Psychomotor therapists help patients of all ages improve motor coordination, emotional regulation, and body awareness through exercise, relaxation, and sensory stimulation, and typically work in medical, educational, and rehabilitation settings.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Psychomotor therapists help patients of all ages improve motor coordination, emo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of psychomotor therapists relies on physical contact and emotional interaction. AI cannot fully replace core therapy, but it will take over auxiliary tasks such as paperwork and assessment, while enhancing remote follow-up and data analysis capabilities, which is a mixed experience.
-
 At the beginning of their career, they often work as therapists in medical institutions, and after gaining experience, they can be promoted to department heads or practice independently. Some practitioners turn to teaching, research, or management roles, or obtain higher-level qualifications through continuing education.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ At the beginning of their career, they often work as therapists in medical insti
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Must obtain a French employer contract, and the occupation must comply with the labor bureau's review and meet the salary standards. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or scarce talents, requiring a master's degree or higher salary to simplify procedures. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to higher education qualifications and salaries reaching 1.5 times the average wage (about 50,000+ EUR), but entry-level salaries in this occupation may not meet that. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Demand is high, occupation in shortage, especially in early childhood interve
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychomotor-therapist-reducateur-en-psychomotricit/FR)**

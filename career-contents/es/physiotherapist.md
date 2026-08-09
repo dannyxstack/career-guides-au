@@ -4,8 +4,6 @@
 
 Physical therapists help patients restore motor function, relieve pain, and improve quality of life through exercise therapy, manual therapy, and physical factor therapy. In Spain, this profession is regulated by the Ministry of Health and requires a university degree and official certification.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Physical therapists help patients restore motor function, relieve pain, and impr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Physiotherapists face low overall automation risk due to high interpersonal interaction and clinical judgment, but AI will significantly enhance efficiency in diagnostic imaging analysis, patient data management, remote monitoring, automated rehabilitation equipment, and paperwork, potentially compressing entry-level roles; beware of rising knowledge baseline requirements with AI assistance.
-
 Junior physiotherapists can work in clinics or hospitals; After gaining experience, you can be promoted to department head or open your own clinic. They can also develop into specialties such as sports physical therapy or neurorehabilitation, or engage in teaching and research.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior physiotherapists can work in clinics or hospitals; After gaining experien
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals, requiring a work contract and academic credentials, with faster approval. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Traditional work residency requires employer sponsorship and passes labor market testing. |
-| Subclass Tarjeta azul UE (EU Blue Card) | A high salary threshold is required (about 34,000 euros in 2023), suitable for senior physicians. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Must hold a Bachelor's degree in Physiotherapy recognized in Spain (4-year Gr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/ES)**

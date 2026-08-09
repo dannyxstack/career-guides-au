@@ -54,8 +54,6 @@ Early childhood educators and assistants help care for children aged 0 to 7 in d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on early childhood education and care assistants is mixed: administrative and record-keeping tasks can be automated, but core care, emotional interaction, and creative activities are hard to replace. Overall job demand is stable but skill requirements are increasing.
-
 Can progress from assistant to senior assistant, Room Leader, and further to Early Years Teacher or Nursery Manager; some transition to primary school teaching assistant or social work roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from assistant to senior assistant, Room Leader, and further to Ear
 | Subclass Skilled Worker (Skilled Worker visa) | This occupation typically does not meet the salary requirement for skilled work visas (at least £26,200 per year / £10.75 per hour) and is not on the immigration salary list, making employer sponsorship difficult. |
 | Subclass Graduate (Graduate visa) | Bachelor's or master's graduates can obtain a 2-year visa to gain experience in this occupation, but subsequent pathways to long-term work visas are limited. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes. You can progress from assistant to senior assistant, Room Leader, then b
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-education-and-childcare-assistants/UK)**

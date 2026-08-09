@@ -4,8 +4,6 @@
 
 Typists and word processing operators are responsible for quickly and accurately entering text and data into systems using computers or typewriters, generating documents, reports, and tables. In Italy, this occupation is common in administrative outsourcing, legal secretarial, and medical transcription fields, but demand has declined due to automation and the prevalence of office software.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Typists and word processing operators are responsible for quickly and accurately
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-AI and automation are rapidly replacing the core tasks of typists and word processing operators, including document generation, data entry, and proofreading, leading to a sharp decline in job demand. Without skills upgrading, this occupation faces severe contraction.
-
 Career development paths are limited, typically starting as junior typists and advancing to senior word processors or team supervisors. Some practitioners obtain shorthand or legal transcription certifications to move into professional secretarial or court recording roles. A few also enter data entry or document management fields, but overall advancement opportunities are narrow.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development paths are limited, typically starting as junior typists and a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled workers, requiring a university degree and an annual salary of at least approximately 33,000 euros (2025), but typist salaries usually do not meet this threshold; only a very few senior positions may qualify. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal or non-high-skilled workers, annual quota is limited. Typists may be included, but employer sponsorship is required with low approval probability. |
-| Subclass Work Permit (Nulla Osta (Work Authorization)) | Employer applies for work permit with immigration authority; EU citizens need no visa, non-EU citizens must consider quotas. Typist positions have low competitiveness. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Poor prospects. Automation and voice recognition technology are reducing posi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/typist-and-word-processing-operator/IT)**

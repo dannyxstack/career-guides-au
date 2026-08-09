@@ -1,10 +1,8 @@
-# Beauty Service Workers (Excluding Hairdressers) 职业分析 · 日本
+# 美容服务工作者（不包括理发师）（Beauty Service Workers (Excluding Hairdressers)）职业分析 · 日本
 
-**职业代码: 383 (JSCO)**
+**职业代码：383 (JSCO)**
 
-Occupations that provide beauty treatments such as estheticians, nail technicians, and eyelash technicians requiring no cosmetology license.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+提供美容服务的职业，如美容师、美甲师和睫毛技师，无需美容执照。
 
 
 ---
@@ -13,8 +11,8 @@ Occupations that provide beauty treatments such as estheticians, nail technician
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Beauty-Related) | 2 年 | $1,500,000~$3,000,000（Tuition varies significantly by school） |
-| Private School | 6 months | $300,000~$800,000（Short-term Intensive Course） |
+| 职业学校（美容相关） | 2 年 | $1,500,000~$3,000,000（学费因学校而异） |
+| 私立学校 | 6个月 | $300,000~$800,000（短期强化课程） |
 
 ---
 
@@ -22,18 +20,18 @@ Occupations that provide beauty treatments such as estheticians, nail technician
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| JNA Nail Technician Skills Test | NPO Japan Nailist Association | 可选 | Skill certification as a nail technician |
-| AEA Aesthetic Skills Test | Japan Esthetic Association | 可选 | Skill certification as an esthetician |
-| Cosmetology License | Ministry of Health, Labour and Welfare | 可选 | Required for certain treatments (e.g., cutting) |
+| JNA美甲技师技能测试 | NPO日本美甲师协会 | 可选 | 美甲师技能认证 |
+| AEA美学技能测试 | 日本美容协会 | 可选 | 美容师技能认证 |
+| 美容师执照 | 厚生劳动省 | 可选 | 某些治疗（如切割）必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 350,000. Demand is steady due to rising beauty awareness and an aging population, but it is susceptible to economic fluctuations and faces intense competition.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 350,000。由于美容意识提高和人口老龄化，需求稳定，但易受经济波动影响且竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,92 +39,84 @@ Occupations that provide beauty treatments such as estheticians, nail technician
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | May include incentives or commission |
-| 中级 (3-7年) | $3,500,000~$5,000,000 | Varies by skill and number of regular clients |
-| Advanced (7+ years) | $4,500,000~$7,000,000 | High earning potential as salon manager or independent |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 可能包含奖金或佣金 |
+| 中级 (3-7年) | $3,500,000~$5,000,000 | 因技能和固定客户数量而异 |
+| 高级（7年以上） | $4,500,000~$7,000,000 | 作为沙龙经理或独立经营者收入潜力高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is limited, but AI may be used to assist with appointment management and counseling. Since treatments require human hands, complete replacement is difficult.
+AI和自动化的影响有限，但AI可能用于协助预约管理和咨询。由于治疗需要人手，完全替代较难。
 
-After acquiring skills at a school or vocational school, find employment at a salon. With experience, there are paths to independent practice or salon management.
+在学校或职业学校掌握技能后，在沙龙就业。有经验后，可以独立执业或管理沙龙。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Appointment management
-- Automation of simple counseling
-- Inventory management
+- 预约管理
+- 简单咨询自动化
+- 库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Skin analysis AI for treatment proposals
-- AI-powered SNS marketing
+- 用于治疗建议的皮肤分析AI
+- AI驱动的SNS营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Quality of manual techniques
-- Trust relationships with clients
-- Creative proposal skills
+- 手工技术的质量
+- 与客户建立信任关系
+- 创意提案能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced treatment techniques
-- Counseling skills
-- Management and marketing skills
+- 先进治疗技术
+- 咨询技巧
+- 管理和营销技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Anti-aging care
-- Men's grooming
-- Organic
-- Freelance
+- 抗衰老护理
+- 男士美容
+- 有机
+- 自由职业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (fields other than food service & accommodation)) | Not applicable in the beauty industry, so currently unobtainable. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Not applicable to foreign beauty workers; difficult to qualify unless a beautician license is required. |
-| Subclass 経営・管理 (Business Manager) | Possible to reside as a beauty salon owner. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Find joy in making people beautiful
-- Dexterous and creative
-- High communication skills
+- 从让人变美中获得乐趣
+- 灵巧且富有创造力
+- 高沟通能力
 
 **谁不适合**
-- Stress from difficulty quantifying results
-- Physical concerns about standing work and consecutive treatments
+- 结果难以量化的压力
+- 对站立工作和连续治疗的体力担忧
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of beauty service workers?**
-答：Depends on employment type and experience; average around 3.5 million yen. Income increases with commission and repeat clients.
+**问：美容服务人员的平均年收入是多少？**
+答：取决于雇佣类型和经验；平均约350万日元。收入随佣金和回头客增加。
 
-**问：Is it possible for foreigners to work as beauty service workers in Japan?**
-答：Except for work requiring an esthetician license, the status of residence is limited. Currently, opening a business under a Business Manager visa is possible, but Engineer/Specialist in Humanities/International Services is unlikely and difficult.
+**问：外国人能否在日本从事美容服务行业？**
+答：除需要美容师执照的工作外，居留资格受限。目前，持经营管理者签证可以创业，但技术/人文知识/国际业务签证可能性低且困难。
 
-**问：What steps are needed to start an independent business?**
-答：First, gain experience at a salon to acquire skills and clients. Then, secure funding and a location, and submit a business registration. Management knowledge is also important.
+**问：开始独立创业需要哪些步骤？**
+答：首先，在沙龙积累经验以获取技能和客户。然后，确保资金和场地，并提交商业注册。管理知识也很重要。
 
 
 ---
@@ -144,12 +134,12 @@ After acquiring skills at a school or vocational school, find employment at a sa
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/beauty-service-workers-excluding-hairdressers/JP)**

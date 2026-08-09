@@ -53,8 +53,6 @@ Electronic technicians are responsible for installing, maintaining, and repairin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of electronic technicians is mixed: AI will automate diagnostic and documentation tasks and assist with design optimization, but complex repairs and on-site troubleshooting still rely on human experience. The threshold may be lower, but the core skill requirements are higher.
-
 Junior electronic technicians can be promoted to senior technicians or team leaders, and can also become electronic engineers or technical managers through further study. The FP Advanced Degree (Grado Superior) is a common starting point, followed by a Bachelor of Engineering to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -101,17 +99,9 @@ Junior electronic technicians can be promoted to senior technicians or team lead
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a work contract and an annual salary of no less than 33,908 euros (2024 standard). Electronic technicians generally do not qualify, but those with an engineering degree can apply. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated professionals who require a university degree or advanced vocational training, with an annual salary of no less than about 40,000 euros. Electronic technicians must reach senior positions. |
-| Subclass Cuenta ajena (Work Permit for Employees) | Standard work residency, employer sponsorship required, no mandatory annual salary requirement but must meet industry standards, suitable for junior and intermediate technicians. |
-| Subclass Búsqueda de empleo (Job Search Visa) | Allow you to stay in Spain for up to 6 months to look for work, requiring proof of financial means, and is suitable for those with an FP or degree. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: The most common is completing the FP Grado Superior (Advanced Vocational Trai
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-technician/ES)**

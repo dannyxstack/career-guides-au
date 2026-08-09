@@ -1,8 +1,8 @@
 # 调酒师（Bartender）职业分析 · 日本
 
-**职业代码: 392 (JSCO)**
+**职业代码：392 (JSCO)**
 
-Bartenders prepare cocktails and drinks at restaurants and bars, serving customers. The job requires hospitality skills and knowledge of alcoholic beverages.
+调酒师在餐厅和酒吧准备鸡尾酒和饮料，服务顾客。该工作需要 hospitality 技能和酒水知识。
 
 
 ---
@@ -11,8 +11,8 @@ Bartenders prepare cocktails and drinks at restaurants and bars, serving custome
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Cooking, Confectionery, Bartending Dept.) | 2 年 | $2,000,000~$3,000,000（包括学费和材料费） |
-| Vocational training school (Bartending course) | 1年 | $500,000~$1,000,000（May have public subsidies） |
+| 职业学校（烹饪、糕点、调酒系） | 2 年 | $2,000,000~$3,000,000（包括学费和材料费） |
+| 职业培训学校（调酒课程） | 1年 | $500,000~$1,000,000（可能获得公共补贴） |
 
 ---
 
@@ -20,18 +20,18 @@ Bartenders prepare cocktails and drinks at restaurants and bars, serving custome
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food Hygiene Manager | Each prefecture | 必备 | Legal qualification required for business permits |
-| Japan Bartenders Association Certified Qualification | Japan Bartenders Association | 可选 | Widely recognized in the industry although a private qualification |
-| Hotel Bartender Skills Certification | Ministry of Health, Labour and Welfare | 可选 | National qualification, useful for verifying skills |
+| 食品卫生经理 | 各都道府县 | 必备 | 营业执照所需的法律资格 |
+| 日本调酒师协会认证资格 | 日本调酒师协会 | 可选 | 虽为私人资格，但行业广泛认可 |
+| 酒店调酒师技能证书 | 厚生劳动省 | 可选 | 国家资格，有助于验证技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 120,000. Labor shortages due to the declining birthrate and aging population persist, with high demand especially at upscale bars and hotels in urban areas. Not eligible for Specified Skilled Worker but may be possible under Technical Intern Training.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 120,000。由于少子老龄化导致的劳动力短缺持续存在，城市地区的高端酒吧和酒店需求尤其旺盛。不符合特定技能签证，但可能通过技能实习制度申请。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,90 +39,83 @@ Bartenders prepare cocktails and drinks at restaurants and bars, serving custome
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,500,000~$3,500,000 | Includes part-time |
-| 中级（3-7年） | $3,500,000~$5,000,000 | Average full-time employee |
-| Advanced (7+ years) | $5,000,000~$8,000,000 | Head bartender or manager |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 含兼职 |
+| 中级（3-7年） | $3,500,000~$5,000,000 | 普通全职员工 |
+| 高级（7年以上） | $5,000,000~$8,000,000 | 首席调酒师或经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI automation is low; rather, it enhances operations through personalized recommendations and inventory management. Customer interaction and creativity are human strengths.
+AI自动化程度低；反而通过个性化推荐和库存管理优化运营。客户互动和创造力是人类的优势。
 
-Starting as an apprentice, one can advance to head bartender or manager with experience. Self-employment or winning cocktail competitions can boost career growth.
+从学徒开始，随着经验积累可晋升至首席调酒师或经理。自主创业或在鸡尾酒比赛中获胜可促进职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic drink preparation with automatic beverage dispensers
-- Order taking via POS systems
+- 使用自动饮料机进行基本饮品准备
+- 通过POS系统接单
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer preference analysis and recommendations by AI
-- Inventory management and automated ordering
+- 客户偏好分析与AI推荐
+- 库存管理与自动订购
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative cocktail development
-- Interpersonal skills and hospitality
-- Creating the atmosphere
+- 创意鸡尾酒开发
+- 人际交往能力和待客之道
+- 营造氛围
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cocktail knowledge and techniques
-- Communication skills
-- Management skills
+- 鸡尾酒知识与技巧
+- 沟通能力
+- 管理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Craft cocktails
-- Service industry
-- Food and beverage industry
-- Inbound demand
+- 调制鸡尾酒
+- 服务业
+- 餐饮业
+- 入境需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Bartenders are not eligible, but may be possible in hotel management, etc.)) | In principle, bartending alone is not permitted. However, if you have experience as a chef in French cuisine, etc., it may be possible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing)) | Not eligible, but may meet requirements only if it includes cooking or customer service. |
-| Subclass 技能実習 (Technical Intern Training (Food and Beverage Manufacturing)) | May apply if the purpose is to transfer cocktail-making skills. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking with others
-- People who want to creatively make cocktails
-- People who can adapt to a night-oriented lifestyle
+- 喜欢与他人交谈的人
+- 想要创意调制鸡尾酒的人
+- 能适应夜间生活方式的人
 
 **谁不适合**
-- People who are not good at working in front of others
-- People who dislike irregular working hours
+- 不擅长在人前工作的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a bartender?**
-答：Beginner: ¥2.5-3.5 million, Intermediate: ¥3.5-5 million, Advanced: ¥5-8 million. It can be higher at luxury hotels or famous bars.
+**问：调酒师的年收入是多少？**
+答：初级: ¥250-350万, 中级: ¥350-500万, 高级: ¥500-800万。在豪华酒店或知名酒吧可能更高。
 
-**问：How can a foreigner work as a bartender in Japan?**
-答：In principle, it is not easily recognized under the Engineer/Specialist in Humanities/International Services visa, but it may be possible if you have experience in cooking or hotel management, or through the Technical Intern Training Program.
+**问：外国人如何在日本担任调酒师？**
+答：原则上，人文/国际服务工程师/专家签证不易获批，但若有烹饪或酒店管理经验，或通过技能实习计划可能可行。
 
-**问：What qualifications are needed to become a bartender?**
-答：While not mandatory, certifications from the Japan Bartenders Association or the Hotel Bartender Skills Test are useful. A Food Hygiene Manager is required for a business license.
+**问：成为调酒师需要什么资格？**
+答：虽非强制，但日本调酒师协会或酒店调酒师技能测试的证书有用。营业执照需要食品卫生经理。
 
 
 ---
@@ -140,12 +133,12 @@ Starting as an apprentice, one can advance to head bartender or manager with exp
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bartender/JP)**

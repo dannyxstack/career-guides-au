@@ -1,10 +1,8 @@
 # 警察（Police Officer）职业分析 · 韩国
 
-**职业代码: 24011 (KECO)**
+**职业代码：24011 (KECO)**
 
-A police officer is a public official who protects citizens' lives and property, and prevents and investigates crimes to maintain social order.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+警察是保护公民生命财产、预防和调查犯罪以维护社会秩序的公务员。
 
 
 ---
@@ -13,8 +11,8 @@ A police officer is a public official who protects citizens' lives and property,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Police Academy or Department of Police Administration | 4年 | $0~$0（National university with free or low tuition） |
-| Police Officer Candidate | 1年 | $0~$0（Salary paid during training） |
+| 警察学院或警察行政系 | 4年 | $0~$0（低学费或免学费国立大学） |
+| 警官候选人 | 1年 | $0~$0（培训期间带薪） |
 
 ---
 
@@ -22,18 +20,18 @@ A police officer is a public official who protects citizens' lives and property,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Police Officer Appointment Exam | National Police Agency | 必备 | Open competitive recruitment for police officers includes written, physical, and aptitude tests. |
-| Police Officer Candidate Selection Exam | National Police Agency | 可选 | College graduates or above eligible |
-| Class 1 ordinary driver's license | National Police Agency | 可选 | Required for practical work |
+| 警察任命考试 | 国家警察厅 | 必备 | 警察公开竞争招聘包括笔试、体能和 aptitude 测试。 |
+| 警察候选人选拔考试 | 国家警察厅 | 可选 | 大学本科及以上学历符合条件 |
+| 1类普通驾驶执照 | 国家警察厅 | 可选 | 需要实际工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 140,000. Due to the sophistication of crime patterns and increased safety demands, police personnel are steadily needed, but new recruitment is stable due to quotas.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 140,000。由于犯罪模式复杂化和安全需求增加，警察人员需求稳定，但因配额限制新招聘稳定。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,89 +39,83 @@ A police officer is a public official who protects citizens' lives and property,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $36,000,000~$42,000,000 | Based on annual salary before tax |
-| Mid-level (4-10 years) | $45,000,000~$55,000,000 | Sergeant to Inspector |
-| Senior-level (11+ years) | $60,000,000~$85,000,000 | Superintendent or above |
+| 入门级（0-3年） | $36,000,000~$42,000,000 | 基于税前年薪 |
+| 中级（4-10年） | $45,000,000~$55,000,000 | 从警长到督察 |
+| 高级（11年以上） | $60,000,000~$85,000,000 | 主管或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can replace some tasks like CCTV analysis and crime pattern prediction, but human judgment in field response and investigative discretion remains, limiting overall employment impact.
+AI可以替代部分任务，如闭路电视分析和犯罪模式预测，但现场响应和调查判断仍需人工，对整体就业影响有限。
 
-After appointment as a police officer, promotions to sergeant, inspector, superintendent, etc. occur through exams and performance evaluations.
+任命为警官后，通过考试和绩效评估晋升为警长、督察、警司等。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Traffic Enforcement Camera Analysis
-- Civil Complaint Chatbot
+- 交通执法摄像头分析
+- 民事投诉聊天机器人
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crime Prediction Mapping
-- Evidence Analysis Automation
+- 犯罪预测地图绘制
+- 证据分析自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site Judgement
-- Interpersonal Negotiation Skills
-- Legal Discretion
+- 现场判断
+- 人际谈判技巧
+- 法律自由裁量权
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Forensics
-- Data Analysis
-- Cyber Investigation
+- 数字取证
+- 数据分析
+- 网络调查
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increased demand for public safety
-- Digital Crime Response
-- Community Safety
-- Expansion of Female Police Officers
+- 公共安全需求增加
+- 数字犯罪应对
+- 社区安全
+- 女警扩招
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | As a preliminary stage to permanent residency, employment as a police officer is practically impossible |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with a strong sense of public duty
-- Person who remains calm in crisis situations
-- Person who adapts to discipline and organizational life
+- 具有强烈公共责任感的人
+- 在危机情况下保持冷静的人
+- 适应纪律和组织生活的人
 
 **谁不适合**
-- Person who wants flexible working hours
-- Person who values personal time
+- 希望灵活工作时间的人
+- 重视个人时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting annual salary for a police officer?**
-答：For constable level, approximately 36 million to 42 million KRW before tax, plus various allowances.
+**问：警察的起薪年薪是多少？**
+答：警员级别约3600万至4200万韩元税前，外加各项津贴。
 
-**问：Can foreigners become Korean police officers?**
-答：Under the Nationality Act, appointment as a public official in the Republic of Korea is restricted to Korean nationals, so foreigners are ineligible.
+**问：外国人能成为韩国警察吗？**
+答：根据《国籍法》，大韩民国公务员职位仅限韩国国民，因此外籍人士不符合资格。
 
-**问：What is the competition rate for the police officer exam?**
-答：Recently, the average competition rate for the constable recruitment exam is around 10:1.
+**问：警察官考试的竞争率是多少？**
+答：近期警员招聘考试平均竞争比约为10:1。
 
 
 ---
@@ -141,12 +133,12 @@ After appointment as a police officer, promotions to sergeant, inspector, superi
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/police-officer/KR)**

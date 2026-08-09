@@ -1,8 +1,8 @@
-# Forestry and Forest Science Researcher 职业分析 · 韩国
+# 林业与森林科学研究员（Forestry and Forest Science Researcher）职业分析 · 韩国
 
-**职业代码: 12215 (KECO)**
+**职业代码：12215 (KECO)**
 
-A specialized research professional who studies forest ecosystems, tree breeding, forest resource management, and develops technologies for sustainable forest management and forest restoration.
+专门研究森林生态系统、树木育种、森林资源管理的研究专业人士，并开发可持续森林经营和森林恢复的技术。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized research professional who studies forest ecosystems, tree breeding
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Master's | 2 年 | $20,000,000~$40,000,000（Based on national university tuition, living expenses separate） |
-| 博士 | 3年 | $30,000,000~$60,000,000（Based on national university, scholarships available） |
+| 硕士 | 2 年 | $20,000,000~$40,000,000（基于国立大学学费，生活费另计） |
+| 博士 | 3年 | $30,000,000~$60,000,000（基于国立大学，可获得奖学金） |
 
 ---
 
@@ -20,19 +20,19 @@ A specialized research professional who studies forest ecosystems, tree breeding
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master's/Doctorate degree | 大学 | 必备 | Essential for employment in research positions |
-| Forest Engineer | Human Resources Development Service of Korea | 可选 | Basic certification in forestry and forest sector |
-| Professional Engineer Forestry | Human Resources Development Service of Korea | 可选 | Advanced technical certification, advantageous for research positions |
-| Forestry Researcher | National Institute of Forest Science | 可选 | Preferential treatment in civil service appointment |
+| 硕士/博士学位 | 大学 | 必备 | 对研究职位就业至关重要 |
+| 森林工程师 | 韩国人力资源开发服务局 | 可选 | 林业及林业部门基础认证 |
+| 林业专业工程师 | 韩国人力资源开发服务局 | 可选 | 高级技术认证，对研究职位有优势 |
+| 林业研究员 | 国立森林科学研究所 | 可选 | 公务员录用中的优惠待遇 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 3,500. Due to climate change response and carbon neutrality policies, R&D investment in the forestry sector is expanding, leading to a steady increase in employment. However, due to the nature of research positions, job opportunities are limited and centered on highly educated individuals.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 3,500。由于气候变化应对和碳中和政策，林业部门的研发投资不断扩大，就业稳步增长。但由于研究职位的性质，就业机会有限且以高学历者为中心。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +40,86 @@ A specialized research professional who studies forest ecosystems, tree breeding
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$40,000,000 | Based on public research institutes |
-| 中级（4-7年） | $42,000,000~$55,000,000 | Private research institute standard |
-| Senior (8-15 years) | $55,000,000~$75,000,000 | Principal researcher level |
+| 初级 (0-3年) | $30,000,000~$40,000,000 | 基于公共研究机构 |
+| 中级（4-7年） | $42,000,000~$55,000,000 | 私立研究机构标准 |
+| 高级（8-15年） | $55,000,000~$75,000,000 | 首席研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some tasks such as forest data analysis, remote sensing, and growth modeling, but areas requiring human judgment and experience, such as field surveys, comprehensive ecosystem assessment, and policy formulation, remain important. Overall, AI is expected to play a complementary role in enhancing research efficiency.
+AI和自动化可以替代森林数据分析、遥感和生长建模等部分任务，但需要人类判断和经验的领域，如实地调查、综合生态系统评估和政策制定，仍然重要。总体而言，AI有望在提高研究效率方面发挥补充作用。
 
-After obtaining a master's degree or higher, one enters research institutes (public/private) or universities, and advances from assistant researcher to senior researcher to principal researcher to lab director based on experience. Advancement to the public sector such as the Korea Forest Service or National Institute of Forest Science is common.
+获得硕士及以上学历后，进入研究机构（公立/私立）或大学，从助理研究员晋升为高级研究员、首席研究员、实验室主任。常见晋升至韩国森林厅或国立森林科学研究所等公共部门。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic data collection and organization
-- Simple statistical analysis
-- Literature search and summarization
+- 基础数据收集与整理
+- 简单统计分析
+- 文献检索与总结
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Forest carbon estimation modeling
-- Satellite image-based forest change detection
-- Development of pest and disease prediction algorithms
+- 森林碳估算建模
+- 基于卫星图像的森林变化检测
+- 病虫害预测算法开发
 
-**人类护城河:**
+**人类护城河：**
 
-- Field experience and comprehensive understanding of ecosystems
-- Ability to plan research in connection with government policies
-- Communication and negotiation skills with stakeholders
+- 实地经验和对生态系统的全面理解
+- 结合政府政策规划研究的能力
+- 与利益相关者的沟通和谈判技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning and deep learning
-- Remote Sensing (GIS, Drone)
-- R/Python Data Analysis
-- Understanding of Forest Policy
+- 机器学习和深度学习
+- 遥感（GIS，无人机）
+- R/Python数据分析
+- 森林政策理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Climate change research
-- Carbon sink management
-- Forest restoration technology
-- Smart forestry
+- 气候变化研究
+- 碳汇管理
+- 森林恢复技术
+- 智慧林业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon employment at a forestry-related R&D institution as a professional in research and technology |
-| Subclass E-9 (Non-professional Employment) | E-9 visa is not suitable due to the nature of this occupation |
-| Subclass F-2 (Residence) | Long-term residents may engage in research activities |
-| Subclass D-10 (Job Seeking) | Master's degree or higher holders may stay for job seeking |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with deep interest and passion for forest ecosystems
-- People who patiently derive results through long-term research
-- People who want to contribute to solving environmental and climate change issues
+- 对森林生态系统有浓厚兴趣和热情的人
+- 耐心通过长期研究得出结论的人
+- 希望为解决环境和气候变化问题做贡献的人
 
 **谁不适合**
-- People who value quick results and monetary rewards
-- People who prefer office work over outdoor activities or field surveys
+- 看重快速回报和金钱奖励的人
+- 喜欢办公室工作而非户外活动或实地调查的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for forestry and forest science researchers?**
-答：For entry-level researchers, the pre-tax annual salary is about 30-40 million KRW, which can rise to 50-70 million KRW with experience. There are differences between the public and private sectors.
+**问：林业和森林科学研究员的薪资水平如何？**
+答：对于初级研究员，税前年薪约为3000-4000万韩元，有经验后可升至5000-7000万韩元。公共和私营部门之间存在差异。
 
-**问：What visa do foreigners need to work as forestry and forest science researchers?**
-答：The E-7 (Specific Activities) visa is most common, requiring a master's degree or higher and related experience. F-2 (Residence) or D-10 (Job Seeker) visas also allow stay.
+**问：外国人从事林业和森林科学研究需要什么签证？**
+答：E-7（特定活动）签证最常见，要求硕士或以上学历和相关经验。F-2（居住）或D-10（求职）签证也可居留。
 
-**问：What is the minimum education required for this job?**
-答：A master's degree is essential for research positions, and a doctoral degree is more advantageous. It is difficult to get a regular research job with only a bachelor's degree.
+**问：这份工作的最低学历要求是什么？**
+答：研究岗位必须拥有硕士学位，博士学位更有优势。仅凭学士学位很难获得常规研究职位。
 
 
 ---
@@ -145,12 +137,12 @@ After obtaining a master's degree or higher, one enters research institutes (pub
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/forestry-and-forest-science-researcher/KR)**

@@ -52,8 +52,6 @@ Plan, organize, direct, and coordinate the administrative, support systems, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core management tasks of early childhood education and care services managers (e.g., scheduling, budgeting, compliance monitoring) will be greatly enhanced by AI, but daily interpersonal interactions and emotional care will become more valued due to technological liberation, leading to stable or increasing demand.
-
 You can advance from childcare teacher to department head, then to manager; or further your education in education management or child development degrees to enter higher-level management or policy positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ You can advance from childcare teacher to department head, then to manager; or f
 | Subclass Health & Care (Health and Care Worker Visa) | Applicable to medical and nursing occupations, but early childhood education managers usually do not qualify unless in specific child social care roles. |
 | Subclass Global Talent (Global Talent Visa) | Not applicable unless there are outstanding achievements. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The UK government continues to invest in early childhood education, with stab
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-education-and-childcare-services-managers/UK)**

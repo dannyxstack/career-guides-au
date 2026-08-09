@@ -1,8 +1,8 @@
-# Robotics Engineer 职业分析 · 韩国
+# 机器人工程师（Robotics Engineer）职业分析 · 韩国
 
-**职业代码: 15121 (KECO)**
+**职业代码：15121 (KECO)**
 
-A specialized engineer responsible for the design, control, and maintenance of robots, developing and operating robotic systems in various fields such as manufacturing, logistics, and healthcare.
+负责机器人设计、控制和维护的专业工程师，在制造、物流和医疗保健等各个领域开发和操作机器人系统。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized engineer responsible for the design, control, and maintenance of r
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2-3年 | $15,000,000~$30,000,000（Varies by university; private universities may be higher） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（Mechanical Engineering, Electronic Engineering, Robotics Engineering） |
-| 硕士 | 2 年 | $30,000,000~$50,000,000（Robotics-focused master's, research-oriented） |
+| 副学士学位 | 2-3年 | $15,000,000~$30,000,000（因大学而异；私立大学可能更高） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（机械工程、电子工程、机器人工程） |
+| 硕士 | 2 年 | $30,000,000~$50,000,000（以机器人技术为重点的硕士，研究导向） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialized engineer responsible for the design, control, and maintenance of r
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Robot Software Developer | Human Resources Development Service of Korea | 必备 | Certification in robot programming skills |
-| Professional Engineer in Mechanical Engineering | Human Resources Development Service of Korea | 可选 | Advanced qualification in robot design |
-| Professional Engineer in Electrical/Electronic Engineering | Human Resources Development Service of Korea | 可选 | Robot control and electrical system design |
+| 认证机器人软件开发员 | 韩国人力资源开发服务局 | 必备 | 机器人编程技能认证 |
+| 机械工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 机器人设计高级资格 |
+| 电气/电子工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 机器人控制与电气系统设计 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. Due to manufacturing automation and the expansion of the service robot market, demand for robotics engineers in Korea is expected to steadily increase, with persistent labor shortages in smart factories and AI-based robotics.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。由于制造自动化和服务机器人市场扩张，韩国对机器人工程师的需求预计稳步增长，智能工厂和基于AI的机器人领域持续存在劳动力短缺。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,94 +40,87 @@ A specialized engineer responsible for the design, control, and maintenance of r
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on mid-to-large enterprises; startups may offer less |
-| 中级（4-7年） | $50,000,000~$70,000,000 | Project Director Level |
-| 高级（8年+） | $80,000,000~$99,999,999 | Lab Director, CTO |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于中大型企业；初创公司可能较低 |
+| 中级（4-7年） | $50,000,000~$70,000,000 | 项目总监级别 |
+| 高级（8年+） | $80,000,000~$99,999,999 | 实验室主任、首席技术官 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies complement and expand the work of robotics engineers, but some repetitive design and programming tasks may be automated. Overall, AI increases productivity and creates new roles, so demand for advanced engineers will increase.
+AI和自动化技术补充并扩展了机器人工程师的工作，但部分重复性设计和编程任务可能被自动化。总体而言，AI提高了生产力并创造了新角色，因此对高级工程师的需求将增加。
 
-With a graduate degree (master's/doctorate) or field experience, one can advance to roles like robot system designer or project manager. Career progression in large corporations, robotics companies, or startups can lead to positions such as lab director or CTO.
+拥有研究生学位（硕士/博士）或领域经验，可晋升为机器人系统设计师或项目经理等职位。在大公司、机器人公司或初创企业的职业发展可达到实验室主任或首席技术官等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic motion programming
-- Simple repetitive simulation
-- Standardized robot cell design
+- 基本运动编程
+- 简单的重复模拟
+- 标准化机器人单元设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Complex robot path planning
-- Real-time error diagnosis
-- Human-robot collaboration system design
+- 复杂机器人路径规划
+- 实时错误诊断
+- 人机协作系统设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem solving
-- Field-adaptive system integration
-- Robot application in unstructured environments
+- 创造性解决问题
+- 现场自适应系统集成
+- 机器人应用在非结构化环境中
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning/Deep learning
-- ROS (Robot Operating System)
-- Computer vision
-- Collaborative Robot Programming
-- Digital Twin
+- 机器学习/深度学习
+- ROS（机器人操作系统）
+- 计算机视觉
+- 协作机器人编程
+- 数字孪生
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart factory
-- Collaborative robot
-- AI-based robot control
-- Service robot
+- 智能工厂
+- 协作机器人
+- 基于 AI 的机器人控制
+- 服务机器人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed at a domestic company as a robotics professional; requires bachelor's degree or higher and experience |
-| Subclass D-10 (Job Seeking) | Ph.D. or Master's in Robotics holder can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Convertible to points-based system; long-term stay and free employment |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those talented in math, physics, and computer engineering
-- Those who enjoy solving complex problems and system integration
-- Those willing to adapt to technological changes through lifelong learning
+- 数学、物理和计算机工程方面有才华的人
+- 喜欢解决复杂问题和系统集成的人
+- 愿意通过终身学习适应技术变革的人
 
 **谁不适合**
-- Those who prefer repetitive and simple tasks
+- 喜欢重复和简单任务的人
 - 偏好独立工作而非团队协作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a robotics engineer?**
-答：For entry-level, the annual salary is around 35-45 million KRW, with differences between large and small/medium companies. A master's degree or higher can fetch more.
+**问：机器人工程师的起薪是多少？**
+答：入门级年薪约为3500-4500万韩元，大企业和中小企业之间存在差异。硕士及以上学历可获得更高薪资。
 
-**问：Can foreigners work as robotics engineers in Korea?**
-答：Yes, it's possible with an E-7 visa. A relevant bachelor's degree and experience are required, and the employer must sponsor.
+**问：外国人能在韩国担任机器人工程师吗？**
+答：可以，持有E-7签证可行。需要相关学士学位和经验，雇主必须担保。
 
-**问：What is the required degree to become a robotics engineer?**
-答：At least an associate degree is required, but a bachelor's is common and a master's or higher is advantageous. Relevant majors include mechanical engineering, electronic engineering, and robotics.
+**问：成为机器人工程师需要什么学位？**
+答：至少需要副学士学位，但学士学位更常见，硕士或更高学历更有利。相关专业包括机械工程、电子工程和机器人技术。
 
 
 ---
@@ -145,12 +138,12 @@ With a graduate degree (master's/doctorate) or field experience, one can advance
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/robotics-engineer/KR)**

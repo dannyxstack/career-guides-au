@@ -53,8 +53,6 @@ This occupation engages in visual communication design, including graphic design
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Can be promoted to Art Director, Creative Director, or self-employed to establish a design studio. Continuous learning of digital tools and new media trends is required.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can be promoted to Art Director, Creative Director, or self-employed to establis
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on points, allowing up to one year to find work in Germany. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, must prove financial means |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Junior designers can progress to senior designer, art director, creative dire
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-communication-and-photo-designer/DE)**

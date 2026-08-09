@@ -4,8 +4,6 @@
 
 Professional technicians responsible for assessing hearing loss, fitting and adjusting hearing aids, and providing hearing rehabilitation advice to patients.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Professional technicians responsible for assessing hearing loss, fitting and adj
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hearing aid fitting technicians face mixed effects from AI: AI can automate hearing tests and initial adjustments, but patient communication, customized fitting, and problem-solving remain core human barriers. Positions will not be fully replaced but require skill upgrades.
-
 Promotion from junior technician to senior fitter or hearing clinic supervisor; Further studies can lead to becoming an audiologist (audiólogo) or moving into roles in hearing aid research and sales management.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Promotion from junior technician to senior fitter or hearing clinic supervisor; 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract for Hired Employees) | Obtain a work contract from a Spanish employer and meet the salary threshold to apply for work residency. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The high-skilled talent pathway requires meeting educational and salary requirements, allowing for faster access to EU long-term residency. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for specific shortage occupations, streamlined processes, and family members can be brought along. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: The most direct path is to complete the two-year Advanced Vocational Training
 | Work intensity | low (★★☆☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hearing-aid-technician/ES)**

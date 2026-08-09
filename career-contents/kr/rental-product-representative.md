@@ -4,8 +4,6 @@
 
 This sales position involves signing lease contracts for various products such as home appliances, construction equipment, and automobiles at rental/leasing companies, along with customer management and collection tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This sales position involves signing lease contracts for various products such a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-As AI and online platforms replace simple rental contracts and some customer consultations, roles are shrinking and shifting. Specialized skills in face-to-face sales and relationship management are essential for survival.
-
 Initially, you will handle field sales and contract signing. With experience, you can be promoted to team leader or branch manager, or specialize as a large equipment/B2B expert consultant.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Initially, you will handle field sales and contract signing. With experience, yo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for professional sales/management positions; Korean language proficiency required. |
-| Subclass F-2 (F-2 (Residence)) | Allowed for long-term residents, free to work. |
-| Subclass F-4 (Overseas Koreans) | Allowed for overseas Koreans, can work in sales positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: E-7 visa allows professional sales recruitment, but Korean proficiency is ess
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rental-product-representative/KR)**

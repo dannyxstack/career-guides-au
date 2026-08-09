@@ -52,8 +52,6 @@ Responsible for planning, producing, and editing multimedia content, including v
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Multimedia content creators face mixed risks brought by AI: automation tools can take over a large amount of basic editing and transcoding tasks, but core tasks like creative planning, emotional storytelling, and client communication still rely on humans. The overall career risks are moderate, requiring proactive upgrades to AI collaboration capabilities.
-
 You can start as a junior editor or production assistant, and after gaining experience, be promoted to senior producer or project manager. You can also pursue professional paths (such as 3D animation, special effects) or management positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can start as a junior editor or production assistant, and after gaining expe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring contract or project certification |
-| Subclass Salarié (Employee (Salarié)) | Employed by a French company, work permit required |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions, with annual salary meeting a certain threshold |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually requires Bac+3 (bachelor's degree) or higher in related fields such a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/multimedia-content-producer/FR)**

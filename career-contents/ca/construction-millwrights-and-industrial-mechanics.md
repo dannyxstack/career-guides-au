@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing heavy machinery and riggi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical hands-on tasks of riggers/industrial mechanics are hard to replace by AI, but AI improves efficiency in diagnosis, remote monitoring, and documentation, potentially reducing junior maintenance roles. Overall impact is mixed; proactive learning of digital tools is needed.
-
 Career path: junior rigger → advanced technician → site supervisor/safety coordinator. Obtaining Red Seal allows interprovincial recognition and promotion to project manager or trainer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: junior rigger → advanced technician → site supervisor/safety co
 | Subclass EE (Express Entry (Federal Skilled Trades)) | Federal Skilled Trades Program (FSTC), requires a Canadian employer job offer or certificate, minimum CLB 5 language score |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored with lower threshold |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most provinces require completing a 4-year apprenticeship and obtaining a pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-millwrights-and-industrial-mechanics/CA)**

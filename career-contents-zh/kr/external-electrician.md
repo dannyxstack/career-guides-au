@@ -1,8 +1,8 @@
-# External Electrician 职业分析 · 韩国
+# 外部电工（External Electrician）职业分析 · 韩国
 
-**职业代码: 83131 (KECO)**
+**职业代码：83131 (KECO)**
 
-An external electrician is a specialized technical professional who installs and maintains power lines, communication lines, and distribution panels outside buildings, ensuring stable electricity supply in industrial sites and residential areas.
+外线电工是专门从事建筑物外电力线路、通信线路和配电箱安装与维护的技术专业人员，确保工业场所和住宅区的稳定供电。
 
 
 ---
@@ -11,9 +11,9 @@ An external electrician is a specialized technical professional who installs and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No cost due to compulsory education） |
-| Junior college (Electrical Engineering) | 2 年 | $6,000,000~$12,000,000（Includes tuition and lab fees; differs between public and private institutions） |
-| Electrician Technician Training | 6 months | $3,000,000~$5,000,000（Private academy or Polytech course） |
+| 高中毕业 | 0年 | $0~$0（义务教育无费用） |
+| 大专（电气工程） | 2 年 | $6,000,000~$12,000,000（包括学费和实验费；公立和私立机构有所不同） |
+| 电工技术培训 | 6个月 | $3,000,000~$5,000,000（私立学院或理工学院课程） |
 
 ---
 
@@ -21,18 +21,18 @@ An external electrician is a specialized technical professional who installs and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician Technician | Human Resources Development Service of Korea | 必备 | Basic qualification, includes practical exam |
-| Electrical Industry Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for promotion and salary, written + practical |
-| Electrical Construction Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for site management and technical qualification |
+| 电工技师 | 韩国人力资源开发服务局 | 必备 | 基本资格，包括实践考试 |
+| 电气工业工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升和薪资，笔试+实操 |
+| 电气施工工程师 | 韩国人力资源开发服务局 | 可选 | 对现场管理和技术资质有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand for workers remains steady due to expansion of renewable energy and smart grids, as well as replacement of aging power networks. Active introduction of foreign workers under the Employment Permit System means a favorable employment outlook for the time being.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。由于可再生能源和智能电网的扩张以及老化电网的更换，工人需求保持稳定。在就业许可制度下积极引进外国工人，意味着短期内就业前景良好。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ An external electrician is a specialized technical professional who installs and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$34,000,000 | Based on starting salary, excluding allowances |
-| Intermediate (4-10 years) | $35,000,000~$45,000,000 | Higher for those holding technical certifications |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Including site managers and safety officers |
+| 入门级（0-3年） | $28,000,000~$34,000,000 | 基于起薪，不包括津贴 |
+| 中级（4-10年） | $35,000,000~$45,000,000 | 持有技术认证者更高 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 包括现场经理和安全官员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI cannot fully replace the field work of outside electricians, some tasks such as design automation, remote inspection, and material management may be reduced by AI tools. Overall, AI impact is limited, and safety and on-site judgment are critical for this occupation.
+虽然AI无法完全取代外线电工的现场工作，但设计自动化、远程检查和材料管理等任务可能因AI工具而减少。总体而言，AI影响有限，安全性和现场判断对该职业至关重要。
 
-Promotion path: entry-level starts as field assistant → intermediate (technician) → advanced (site manager/technical engineer) → manager (safety management/design). Obtaining certificates like Electrical Engineer or Industrial Engineer is advantageous.
+晋升路径：入门级从现场助理开始→中级（技术员）→高级（现场经理/技术工程师）→经理（安全管理/设计）。获得电气工程师或工业工程师等证书有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of simple wiring work
-- Material receipt and inventory management
-- Preparing regular inspection reports
+- 简单接线工作的自动化
+- 物料接收与库存管理
+- 编制常规检查报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drone-based line inspection
-- AI-based fault prediction system
-- Remote support via augmented reality (AR)
+- 无人机线路巡检
+- 基于AI的故障预测系统
+- 通过增强现实（AR）进行远程支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical ability for outdoor and height work
-- On-site judgment in non-standard situations
-- Experiential know-how in electrical safety
+- 具备户外和高处作业的体力
+- 非标准情况下的现场判断
+- 电气安全经验知识
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 无人机操作与数据分析
-- Knowledge of smart grid operations
-- Use of AI-based maintenance tools
+- 智能电网运营知识
+- 使用基于人工智能的维护工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Power infrastructure
-- Renewable energy
-- Smart grid
-- Employment Permit System
+- 电力基础设施
+- 可再生能源
+- 智能电网
+- 就业许可制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be brought under the Employment Permit System; quotas exist for the electrical work sector |
-| Subclass E-7 (Specific Activities (E-7)) | Targeted at skilled workers; available for those holding electrical construction technical certifications |
-| Subclass F-2 (Residence (F-2)) | Points-based permanent residence; no employment restrictions for long-term stays |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical fitness who prefer outdoor work
-- Hands-on type with strong interest in electrical technology
-- People with thorough safety awareness
+- 身体素质好、偏好户外工作的人
+- 动手型，对电气技术有浓厚兴趣
+- 具有全面安全意识的人
 
 **谁不适合**
-- People who dislike working at heights or in bad weather
-- People who prioritize practice over theory
+- 不喜欢在高处或恶劣天气下工作的人
+- 注重实践而非理论的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an outside electrician?**
-答：The entry-level annual salary is 28-34 million KRW, with potential additional allowances and qualification bonuses.
+**问：外线电工的起薪是多少？**
+答：入门级年薪为2800万至3400万韩元，另有潜在额外津贴和资格奖金。
 
-**问：Can foreigners work as outside electricians?**
-答：Yes. It is possible to work with an E-9 (Non-professional Employment) or E-7 (Specific Activities) visa, and entry can be made through the Employment Permit System.
+**问：外国人能否担任外部电工？**
+答：可以。持有E-9（非专业就业）或E-7（特定活动）签证即可工作，并可通过雇佣许可系统入境。
 
-**问：What is the future outlook for outside electricians?**
-答：Steady demand is expected due to aging power infrastructure and expansion of renewable energy, with low risk of AI replacement, making it stable.
+**问：外部电工的未来前景如何？**
+答：由于电力基础设施老化和可再生能源扩张，需求预计稳定，且被AI替代的风险低，因此较为稳定。
 
 
 ---
@@ -143,12 +136,12 @@ Promotion path: entry-level starts as field assistant → intermediate (technici
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/external-electrician/KR)**

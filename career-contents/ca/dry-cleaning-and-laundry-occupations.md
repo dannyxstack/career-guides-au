@@ -52,8 +52,6 @@ Operating dry cleaning and laundry equipment to clean, decontaminate, and finish
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dry cleaning and laundry occupations face high automation risk, especially repetitive tasks like sorting, washing, and folding which will be replaced by smart devices, but complex tasks like stain treatment and customer service still require human judgment.
-
 Career progression paths include becoming a supervisor, manager, or opening your own dry-cleaning shop. Gaining experience and management skills can lead to promotion.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Career progression paths include becoming a supervisor, manager, or opening your
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can advance to laundry supervisor, manager, or start your own dry-cleaning bu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dry-cleaning-and-laundry-occupations/CA)**

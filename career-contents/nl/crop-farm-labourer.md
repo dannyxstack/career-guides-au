@@ -52,8 +52,6 @@ Engaging in manual labor such as crop planting, weeding, and harvesting in the D
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automation is rapidly replacing manual tasks for crop farm laborers, especially monitoring and repetitive operations, but on-site flexibility and organic matter identification still require human input.
-
 Can transition from seasonal labor to long-term contracts or be promoted to farm supervisor, but need to master skills such as operating agricultural machinery.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can transition from seasonal labor to long-term contracts or be promoted to farm
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigration, but farm laborers usually do not meet the conditions, and the salary threshold is too high. |
-| Subclass Seasonal Work Permit (Seasonal Labour Visa (WVW)) | Allows non-EU citizens to engage in seasonal agricultural work in the Netherlands for up to 24 weeks. |
-| Subclass EU Blue Card (EU Blue Card) | Requires high salary and advanced education; farm laborers almost never meet the conditions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Yes, advancement to farm supervisor or machinery operator is possible through
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crop-farm-labourer/NL)**

@@ -52,8 +52,6 @@ Responsible for operating heavy machinery for tree felling, skidding, and loadin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In the work of logging equipment operators, heavy machinery operation and other physical tasks have low risk of automation, but planning, monitoring, and recording tasks can be enhanced or partially replaced by AI, presenting a 'mixed' outlook.
-
 Can advance from novice operator to senior operator, team leader, or transition to forestry machinery maintenance technician. With accumulated experience, can start a business contracting logging operations.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from novice operator to senior operator, team leader, or transition 
 | Subclass AEWV (Accredited Employer Work Visa) | Work visa sponsored by an accredited employer, with salary reaching the median (hourly rate NZD 29.66), can lead to residency |
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, applicants with a master's degree (5 points) + New Zealand work experience (1 point) can apply, requiring skilled work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Relatively easy. This occupation is on the Green List Tier 2; after working f
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-plant-operator/NZ)**

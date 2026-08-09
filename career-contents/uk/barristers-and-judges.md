@@ -53,8 +53,6 @@ Barristers and judges prepare and conduct court cases on behalf of clients, pres
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Barristers' and judges' core trial and defense duties are protected by law and ethics, making them hard to replace; but document review, legal research, and evidence analysis tasks are being significantly enhanced by AI, while junior roles contract due to automation, forming a pattern of 'core stable, periphery disrupted'.
-
 Typically start as a solicitor or barrister, accumulate experience to become a senior barrister (King's Counsel), then become a judge through the judicial appointment process. Career progression highly depends on performance and reputation.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as a solicitor or barrister, accumulate experience to become a s
 | Subclass Global Talent (Global Talent visa) | A very small number of outstanding legal talents may apply through the Global Talent visa, but the threshold is extremely high. |
 | Subclass Graduate (Graduate visa) | International students who complete a degree in the UK can apply for a graduate visa to work in the UK for two years, but it is difficult to switch to a long-term visa. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires many years of barrister experience and passing the judicia
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/barristers-and-judges/UK)**

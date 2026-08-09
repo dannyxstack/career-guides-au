@@ -54,8 +54,6 @@ Agricultural workers responsible for planting, cultivating, harvesting, and init
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on nut farm workers is mixed: some monitoring, recording and sorting tasks will be automated, but physical labor and complex field decisions still rely on humans, with overall demand remaining stable.
-
 Starting as a general farm worker, one can progress to team supervisor or machine operator with experience, and a few may become farm managers or operate small farms. Requires skills in picking, pruning, irrigation, and basic management abilities
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a general farm worker, one can progress to team supervisor or machin
 | Subclass 403 (Temporary Work (International Relations) Visa) | May be eligible for Seasonal Worker Program |
 | Subclass 417 (Working Holiday Visa) | Common pathway, suitable for backpackers doing farm work |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: With experience, can advance to team supervisor, machinery operator, or learn
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nut-farm-worker/AU)**

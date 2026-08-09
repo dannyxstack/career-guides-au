@@ -53,8 +53,6 @@ Perform physical tasks such as cleaning, bottling, and grape processing in a win
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on cellar hands: highly repetitive tasks like cleaning and data entry are easily automated, but AI also enhances skill requirements in grape quality inspection and inventory optimization, shifting the role toward technical supervision and quality control.
-
 Can advance to senior cellarmaster, winemaker assistant, or winemaker. Requires experience and relevant certifications, such as the New Zealand Certificate in Wine Production and Grape Growing.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior cellarmaster, winemaker assistant, or winemaker. Requires 
 | Subclass AEWV (Accredited Employer Work Visa) | Requires accredited employer sponsorship; low-skilled positions max 3 consecutive years, then must leave for 12 months |
 | Subclass SMC (Skilled Migrant Category) | This occupation usually does not meet skilled migration requirements unless promoted to a higher-skilled role such as winemaker |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Advance from cellar hand to senior cellar hand, winemaking assistant, and win
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/winery-cellar-hand/NZ)**

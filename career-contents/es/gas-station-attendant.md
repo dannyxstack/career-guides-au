@@ -4,8 +4,6 @@
 
 Gas station attendants are responsible for providing refueling services to customers, collecting fees, selling convenience store products, and maintaining the station's cleanliness. This profession belongs to the retail and service industry, often working outdoors or in convenience stores, requiring strong customer service skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Gas station attendants are responsible for providing refueling services to custo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will assist supervisors in optimizing shift scheduling and customer service, but cannot replace their core responsibilities of on-site coordination, staff management, and crisis handling. Entry-level roles will shrink due to automated booking systems, but experienced supervisors remain protected.
-
 Career advancement paths are limited, with opportunities to become gas station supervisors, convenience store managers, or regional operations managers. Some practitioners have transitioned to logistics, transportation, or retail management positions through training. Self-operated gas stations are also an option, but require capital investment.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Career advancement paths are limited, with opportunities to become gas station s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residency, requires proof that the position cannot be filled by a Spanish or EU citizen. Approval is difficult for low-skilled occupations. |
-| Subclass Busqueda empleo (Job Search Visa) | It is allowed to find work in Spain, but sufficient financial support is required. After finding an employer, you can convert to work-based residence. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Promotion opportunities are limited; you can be promoted to gas station super
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-station-attendant/ES)**

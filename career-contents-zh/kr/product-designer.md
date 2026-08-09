@@ -1,10 +1,8 @@
-# Product Designer 职业分析 · 韩国
+# 产品设计师（Product Designer）职业分析 · 韩国
 
-**职业代码: 41511 (KECO)**
+**职业代码：41511 (KECO)**
 
-A professional who designs the appearance, functionality, and usability of various products including consumer electronics, furniture, and household items, using 3D modeling and rendering to develop innovative products.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+设计消费电子、家具、家居用品等多种产品外观、功能及可用性的专业人员，使用3D建模与渲染开发创新产品。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who designs the appearance, functionality, and usability of vario
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate's Degree (2-year) | 2 年 | $8,000,000~$15,000,000（Based on national/public universities; private universities may be higher） |
-| Bachelor's Degree (4-year) | 4年 | $16,000,000~$30,000,000（Based on national/public universities; private universities may be higher） |
+| 副学士学位（2年制） | 2 年 | $8,000,000~$15,000,000（基于国立/公立大学；私立大学可能更高） |
+| 学士学位（4年） | 4年 | $16,000,000~$30,000,000（基于国立/公立大学；私立大学可能更高） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who designs the appearance, functionality, and usability of vario
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Product Designer | Human Resources Development Service of Korea | 可选 | National technical qualification; not mandatory but provides extra points |
-| Computer Aided Machining Technician | Human Resources Development Service of Korea | 可选 | Favorable for proving 3D modeling skills |
+| Certified Product Designer | 韩国人力资源开发服务局 | 可选 | 国家技术资格；非强制但可获额外加分 |
+| 计算机辅助加工技术员 | 韩国人力资源开发服务局 | 可选 | 有利于展示3D建模技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 38,000. The role of product designers is expanding due to the Fourth Industrial Revolution and increased demand for IoT products, but new job opportunities are limited and the job market is expected to remain centered on experienced professionals.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 38,000。由于第四次工业革命和物联网产品需求增加，产品设计师的角色正在扩大，但新的就业机会有限，就业市场预计将保持以经验丰富的专业人士为中心。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,90 +38,82 @@ A professional who designs the appearance, functionality, and usability of vario
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-Level (0–3 years) | $28,000,000~$36,000,000 | Based on SMEs; large companies pay more |
-| Mid-Level (4–7 years) | $38,000,000~$50,000,000 | Varies with experience |
-| Senior-Level (8+ years) | $52,000,000~$70,000,000 | Team lead or above |
+| 入门级（0-3年） | $28,000,000~$36,000,000 | 基于中小企业；大公司薪酬更高 |
+| 中级（4-7年） | $38,000,000~$50,000,000 | 视经验而定 |
+| 高级（8年以上） | $52,000,000~$70,000,000 | 团队负责人或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists product designers with repetitive 3D modeling tasks and rendering optimization, but creative concept design and insights into user experience remain human domains. While design automation tools have increased productivity, planning and emotional design are difficult to replace with AI.
+AI辅助产品设计师完成重复性3D建模任务和渲染优化，但创意概念设计和用户体验洞察仍属人类领域。虽然设计自动化工具提高了生产力，但规划和情感设计难以被AI替代。
 
-Typically gain experience in design teams at small-to-medium enterprises or specialized design studios, and can advance to senior designer, design team lead, or freelancer based on portfolio and project performance.
+通常在中小企业或专业设计工作室的设计团队中积累经验，可根据作品集和项目表现晋升为高级设计师、设计团队负责人或自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple 3D model generation
-- Basic rendering image generation
-- Standard-based component placement
+- 简单3D模型生成
+- 基础渲染图像生成
+- 基于标准的元件放置
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea generation and sketching
-- User research and needs analysis
-- Design research and trend analysis
+- 创意构思与草图绘制
+- 用户研究与需求分析
+- 设计研究与趋势分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensibility-driven aesthetic judgment
-- User empathy skills
-- Brand storytelling
+- 感性驱动的审美判断
+- 用户共情能力
+- 品牌故事讲述
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Generative AI proficiency
-- Data-driven design
-- Prototyping and usability testing
+- 生成式AI熟练
+- 数据驱动设计
+- 原型制作与可用性测试
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Industrial design
-- UX/UI convergence
-- Sustainable Design
-- Smart Products
+- 工业设计
+- UX/UI融合
+- 可持续设计
+- 智能产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For foreign professionals in specialized fields; requires design-related degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Point-based system, long-term residents eligible, design experience recognized |
-| Subclass D-10 (Job seeking) | For design graduates, 6 months to 2 years job-seeking allowed |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative and aesthetically sensitive person
-- Proficient in 3D modeling tools (Rhino, SolidWorks, etc.)
-- Enjoys user-centered problem solving
+- 有创造力且审美敏感的人
+- 熟练使用3D建模工具（Rhino、SolidWorks等）
+- 喜欢以用户为中心解决问题
 
 **谁不适合**
-- Dislikes repetitive revision work
-- Prefers independent work over collaboration
+- 不喜欢重复的修订工作
+- 偏好独立工作而非协作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a product designer?**
-答：Entry-level: about 28–36 million KRW, 8+ years experience: about 52–70 million KRW.
+**问：产品设计师的平均工资是多少？**
+答：入门级：约2800-3600万韩元，8年以上经验：约5200-7000万韩元。
 
-**问：What visa does a foreigner need to work as a product designer in Korea?**
-答：E-7 (Specific Activities) visa is typical, requiring design degree and experience. F-2 (Residence) visa is also possible.
+**问：外国人在韩国担任产品设计师需要什么签证？**
+答：E-7（特定活动）签证是典型，需要设计学位和经验。F-2（居住）签证也可行。
 
 
 ---
@@ -141,12 +131,12 @@ Typically gain experience in design teams at small-to-medium enterprises or spec
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/product-designer/KR)**

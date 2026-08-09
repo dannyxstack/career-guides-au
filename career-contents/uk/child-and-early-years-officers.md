@@ -52,8 +52,6 @@ Child and early education officers provide support, assistance, and counseling t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will reshape clerical and data work, but interpersonal care and multisensory interaction remain irreplaceable. Overall demand may slightly decline, but professionals with strong expertise will benefit.
-
 Can start from an assistant position and advance to senior officer or team leader by gaining experience and relevant qualifications (such as an early childhood education degree). Can also transition to child social care or education policy management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can start from an assistant position and advance to senior officer or team leade
 | Subclass Graduate (Graduate visa) | UK graduates can get a two-year residency, then switch to a skilled worker visa after gaining work experience. |
 | Subclass Temporary Work - Cha (Temporary Work - Charity Worker visa) | If employed by a charitable organization, this visa may be applied for, but usually temporary. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Fueled by government early childhood education policy support and demographic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-and-early-years-officers/UK)**

@@ -51,8 +51,6 @@ Responsible for the operation, maintenance, and technical support of radio broad
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
-
 You can be promoted from junior technician to senior engineer or technical supervisor, or move into production, network management, or equipment sales.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can be promoted from junior technician to senior engineer or technical super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit as an employee) | Work residency sponsored by a Spanish employer, applicable to technicians employed by broadcasting companies |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and meeting salary thresholds |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes, if you have a university degree and salary meets threshold (approx. €3
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcasting-technicians/ES)**

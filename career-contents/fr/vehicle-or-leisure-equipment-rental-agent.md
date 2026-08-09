@@ -53,8 +53,6 @@ Responsible for leisure equipment such as taxis, RVs, yachts, and ski equipment,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Vehicle or leisure equipment rental agents benefit from AI tools for improved efficiency while also facing automated replacement of tasks like document processing and scheduling. However, core interpersonal services and on-site inspections are difficult to fully replace, resulting in a mixed overall situation.
-
 You can be promoted from junior leasing agent to store supervisor or regional manager. It can also be expanded into tourism, logistics, or customer service. After accumulating experience, you can start your own business and establish a leasing company.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can be promoted from junior leasing agent to store supervisor or regional ma
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, contract meets French labor market conditions, suitable for medium to large leasing companies hiring foreign workers. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to higher education or high-paying positions (annual salary ≥ 53,149.50 euros), but this occupation usually does not meet the salary requirements and is rarely applicable. |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply for a one-year visa to find a job, suitable for foreign graduates who have completed the French BTS or apprenticeship programs. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: A Class B driver's license is basically required. A BTS Tourisme diploma is a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-or-leisure-equipment-rental-agent/FR)**

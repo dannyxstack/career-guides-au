@@ -52,8 +52,6 @@ Urban and land use planners develop land use plans, coordinate urban and regiona
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI’s impact on urban planners is mixed: routine analysis tasks may be compressed, but AI enhances integrated decision-making and public participation; the core of the profession still relies on human judgment and oversight.
-
 Junior planner can advance to senior planner, project manager, or department head; can also specialize in transport, environmental, or community planning; or enter private consulting firms.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior planner can advance to senior planner, project manager, or department hea
 | Subclass PNP (Provincial Nominee Program) | Many provinces list planners as a priority occupation, allowing for faster immigration. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work visa, then transition to permanent residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but most employers prefer or require RPP certification. Provin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-and-land-use-planners-21202/CA)**

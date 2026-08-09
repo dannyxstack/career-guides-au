@@ -52,8 +52,6 @@ Automotive panel beaters are on New Zealand's long-term skill shortage list and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
-
 Junior sheet metal workers can progress to senior technicians, team supervisors, or open their own shops. Insurance companies and large repair chains (e.g., AA Auto Centre) offer certification and management training. Some technicians transition to vehicle assessors or training instructors.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sheet metal workers can progress to senior technicians, team supervisors,
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, hourly wage not less than median, eligible for residence after 2 years of work |
 | Subclass SMC (Skilled Migrant Category) | 6-point Skilled Migrant system: points accumulated from education, work experience, and salary |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be done through MITO apprenticeship or polytechnics (e.g., Otago Polytech
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/panel-beater/NZ)**

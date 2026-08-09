@@ -1,10 +1,8 @@
-# Computer Operator (Mainframe) 职业分析 · 日本
+# 计算机操作员（大型机）（Computer Operator (Mainframe)）职业分析 · 日本
 
-**职业代码: 313 (JSCO)**
+**职业代码：313 (JSCO)**
 
-A specialist who operates large computers such as mainframes to execute jobs, monitor systems, and process data. Supports core systems in banks and government offices.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+操作大型计算机（如主机）执行作业、监控系统和处理数据的专家。支持银行和政府机构的核心系统。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist who operates large computers such as mainframes to execute jobs, mo
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Specialized Training College (Information Processing) | 2 年 | $1,500,000~$2,500,000（Tuition at Information Processing Vocational School） |
-| University (Information Science) | 4年 | $4,000,000~$6,000,000（Approximate cost for national/public university） |
+| 专门培训学院（信息处理） | 2 年 | $1,500,000~$2,500,000（信息处理职业学校学费） |
+| 大学（信息科学） | 4年 | $4,000,000~$6,000,000（国立/公立大学的大致费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A specialist who operates large computers such as mainframes to execute jobs, mo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fundamental Information Technology Engineer Examination | IPA | 可选 | Basic qualification for IT engineers. Not mandatory but advantageous. |
-| Applied Information Technology Engineer Examination | IPA | 可选 | Demonstrates higher-level knowledge. Advantageous for promotion. |
+| 基本信息技术工程师考试 | IPA | 可选 | IT工程师的基本资格。非强制但有优势。 |
+| 应用信息技术工程师考试 | IPA | 可选 | 展示更高水平知识。对晋升有利。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 30,000. Demand is declining due to the shift to cloud and distributed processing, but there is still some demand for legacy system maintenance. New young entrants are limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 30,000。由于向云和分布式处理的转变，需求正在下降，但对遗留系统的维护仍有一定需求。新进入的年轻人有限。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A specialist who operates large computers such as mainframes to execute jobs, mo
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,500,000~$4,500,000 | Starting from scratch includes training |
-| Intermediate Level (3–7 years) | $4,500,000~$6,000,000 | Adds business knowledge and operational skills |
-| Advanced Level (7+ years) | $6,000,000~$8,000,000 | Overall system management or team leader |
+| 入门级（0–3年） | $3,500,000~$4,500,000 | 从零开始包括培训 |
+| 中级水平（3-7年） | $4,500,000~$6,000,000 | 增加商业知识和运营技能 |
+| 高级水平（7年以上） | $6,000,000~$8,000,000 | 整体系统管理或团队负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With AI and automation, manual job operations and monitoring tasks are shrinking. Cloud migration reduces mainframe demand, but legacy system maintenance retains some demand.
+随着AI和自动化，手动工作操作和监控任务正在减少。云迁移减少了对大型机的需求，但遗留系统维护仍保留一定需求。
 
-Career advancement to system administrator or database administrator is possible. Skills in legacy languages like COBOL are valued, but many also transition to other fields.
+可晋升至系统管理员或数据库管理员。掌握COBOL等传统语言技能受重视，但许多人也会转行其他领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Job schedule execution
-- Manual error log monitoring
-- Routine backup tasks
+- 工作日程执行
+- 手动错误日志监控
+- 日常备份任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-driven anomaly detection support
-- Efficiency improvement of incident response via automation tools
-- Operations optimization via analysis dashboards
+- AI驱动的异常检测支持
+- 通过自动化工具提高事件响应效率
+- 通过分析仪表板进行运营优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Deep knowledge of legacy systems
-- Experience in troubleshooting during incidents
-- Long-term trust relationships with clients
+- 对遗留系统有深入了解
+- 事故期间的故障排除经验
+- 与客户的长期信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud platforms (AWS/Azure)
-- Scripting languages (Python/Shell)
-- Container technologies (Docker/K8s)
-- Monitoring tools (e.g., Prometheus)
+- 云平台（AWS/Azure）
+- 脚本语言（Python/Shell）
+- 容器技术（Docker/K8s）
+- 监控工具（如Prometheus）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Legacy systems
-- Mainframe
+- 遗留系统
+- 大型机
 - COBOL
-- System migration
+- 系统迁移
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to information processing technology work. Requires degree or practical experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not Applicable)) | Outside target field. System operation tasks are excluded. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who want to focus on computer operations
-- Those interested in legacy technology
-- Those who prefer stable routine tasks
+- 想专注于计算机操作的人
+- 对传统技术感兴趣的人
+- 喜欢稳定常规任务的人
 
 **谁不适合**
-- Those who want to constantly learn new technologies
-- Those seeking high growth
+- 希望不断学习新技术者
+- 寻求高增长的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a computer operator?**
-答：Entry-level: 3.5–4.5 million JPY, mid-level: 4.5–6 million JPY, senior-level: 6–8 million JPY. Higher if skilled in legacy systems.
+**问：计算机操作员的年收入是多少？**
+答：初级：3.5-4.5百万日元，中级：4.5-6百万日元，高级：6-8百万日元。如果掌握遗留系统技能则更高。
 
-**问：Can foreigners obtain a work visa?**
-答：The 'Engineer/Specialist in Humanities/International Services' status applies, but a degree or experience in IT is required. Not covered by Specified Skilled Worker, so requirements are somewhat strict.
+**问：外国人能获得工作签证吗？**
+答：适用‘人文/国际服务领域的工程师/专家’身份，但需要IT相关学历或经验。不包含在特定技能劳工范围内，因此要求较为严格。
 
 
 ---
@@ -141,12 +132,12 @@ Career advancement to system administrator or database administrator is possible
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/computer-operator-mainframe/JP)**

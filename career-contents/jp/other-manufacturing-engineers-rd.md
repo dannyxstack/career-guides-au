@@ -51,8 +51,6 @@ Engineers engaged in R&D of new products and technologies across diverse manufac
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI accelerates design optimization and simulation, boosting developer productivity. Simple design tasks may be replaced by AI, but human judgment is vital for creative development and complex system integration. Demand is rising for talent who can leverage AI.
-
 After joining as a new graduate, progression: Researcher → Chief → Deputy Section Manager → Section Manager. Ph.D. holders can advance to senior research positions. High specialization allows job changes.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ After joining as a new graduate, progression: Researcher → Chief → Deputy Se
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | Requires university degree or 10+ years of experience; applicable for development tasks. |
-| Subclass 高度専門職1号（イ） (Highly Skilled Professional visa) | Point system; points added for income and education; advantageous for permanent residency. |
-| Subclass 特定活動（エンジニア） (Designated Activities visa) | Special measures for highly skilled workers; residence period of 5 years. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: Professional Engineer (P.E.), Quality Management Certification, and doctoral 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-manufacturing-engineers-rd/JP)**

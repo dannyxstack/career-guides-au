@@ -52,8 +52,6 @@ Responsible for operating railway braking systems, signal equipment, and switch 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Railway braking, signaling, and switch operators face dual impact from automation replacement and AI enhancement: routine monitoring and operations will be taken over by AI, but complex fault handling, emergency response, and cross-department coordination remain core human capabilities. The role will not disappear but will require higher skills.
-
 Junior operators can advance to senior operators or dispatchers through training and experience. Some may transition to railway maintenance or management roles, requiring higher-level safety certifications.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior operators can advance to senior operators or dispatchers through training
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to highly skilled immigrants with a Dutch employer sponsor, requiring an annual salary threshold (approx. €5,600/month in 2025). This occupation typically requires additional proof of skill shortage. |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled workers, must meet annual salary threshold (approx. €60,000). However, salaries in this occupation are usually below the standard, making application difficult. |
-| Subclass Orientation Year (Orientation Year) | Graduates in the Netherlands can apply for a one-year job-seeking visa, which can be converted to a work visa once a relevant job is found. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Can advance to senior operator, dispatcher, or railway safety supervisor, req
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-brake-signal-and-switch-operator/NL)**

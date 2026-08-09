@@ -50,8 +50,6 @@ A doctor who diagnoses and treats patients' diseases, providing comprehensive me
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used for image interpretation, diagnosis assistance, etc., but it is difficult to replace the comprehensive judgment of doctors and patient communication, so the core of human-centered care remains.
-
 After completing internship and residency (specialty training), either obtain a specialist license, open a private practice, or work as a salaried doctor.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ After completing internship and residency (specialty training), either obtain a 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible to work at a domestic medical institution as a professional medical practitioner |
-| Subclass F-2 (Residence) | Long-term residence possible via points-based permanent residence path |
-| Subclass F-5 (Permanent Residence) | Permanent residence obtainable upon meeting certain qualifications |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: It is a total of 6 years: 2 years in pre-medical course and 4 years in medica
 | Work intensity | very high (★★★★½) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-practitioner/KR)**

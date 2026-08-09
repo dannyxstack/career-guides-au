@@ -51,8 +51,6 @@ Responsible for supervising and managing production processes in printing, packa
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Production managers and manufacturing supervisors see some duties replaced by AI, but core management, decision-making, and interpersonal coordination remain hard to automate; overall impact is mixed.
-
 Career path: Start as a printing technician or production coordinator, and after gaining experience, you can be promoted to department supervisor or production manager, and further develop into factory manager or supply chain director.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Career path: Start as a printing technician or production coordinator, and after
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for applicants with professional skills or management experience, and must provide a work contract or project certification. Valid for up to 4 years, with renewable options. |
-| Subclass Salarié (Employee Work Permit) | Applicable to those who have obtained a work contract from a French employer and must pass a labor market test. The validity period is tied to the contract. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Due to the impact of digitalization, traditional printing positions have decr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-industries-manager/FR)**

@@ -4,8 +4,6 @@
 
 Medical support staff who assist with treatment, handle patients, and manage instrument preparation and sterilization at dental clinics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Medical support staff who assist with treatment, handle patients, and manage ins
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are being introduced in indirect tasks such as appointment management and questionnaire processing, but patient interaction and manual tasks like instrument preparation and sterilization are difficult to replace with AI; instead, AI complements these tasks, maintaining demand.
-
 Even beginners can work, and with experience, can transition to clinic management or become a dental hygienist.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Even beginners can work, and with experience, can transition to clinic managemen
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Not applicable for dental assistants; general work visa difficult. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Fields like nursing care are covered, but dental assistants are not. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: Common path is obtaining a dental hygienist license. Also possible to move in
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistant/JP)**

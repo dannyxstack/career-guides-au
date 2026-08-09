@@ -4,8 +4,6 @@
 
 Responsible for railway shunting operations, train formation, signal operation, and turnout switching to ensure safe and efficient railway transportation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for railway shunting operations, train formation, signal operation, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of railway shunting officers and signalmen will be mixed with AI: dispatching and signaling operations can be automated, but on-site safety monitoring, emergency response, and cross-departmental coordination still require human judgment. Positions will not disappear, but their numbers will decrease.
-
 Signalmen can be promoted from signalman to shunting conductor or station duty officer, with some transferring to train drivers or transport dispatchers.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Signalmen can be promoted from signalman to shunting conductor or station duty o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, and a labor contract must be provided to prove that the position cannot be filled by a local resident |
-| Subclass Busqueda empleo (Job search visa) | You are allowed to stay in Spain for 6 months seeking work, after which you must switch to work residence |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Yes, internal promotion pathways exist, but they require additional training 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-shunters-and-signallers/ES)**

@@ -52,8 +52,6 @@ Fruit growers plan, plant, cultivate, and harvest fruit crops in orchards, manag
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although fruit growers rely on physical labour and field experience, tasks like data analysis and pest identification are increasingly penetrated by AI tools; entry-level jobs are shrinking due to mechanisation and sensors, but demand for high-precision agronomy management roles is rising.
-
 Junior growers can advance to orchard manager or production supervisor through experience. Some move into agricultural consulting or R&D by studying agricultural technology or management courses. Long-term, they can start their own orchard business.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior growers can advance to orchard manager or production supervisor through e
 | Subclass Green List T2 (Work to Residence Visa) | Work to residence visa, apply after 2 years of work, available for some horticultural occupations. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, salary meets median wage. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires skills in fruit tree cultivation, irrigation system operation, and p
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-grower/NZ)**

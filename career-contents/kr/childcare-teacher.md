@@ -4,8 +4,6 @@
 
 A professional responsible for the care and education of infants and young children, supporting their development and managing safety at daycare centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional responsible for the care and education of infants and young child
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is difficult to directly replace childcare teachers, but it will be used as an auxiliary tool for administrative automation, educational material development, and child development analysis to improve work efficiency. Emotional bonding and immediate care must continue to be handled by humans.
-
 Starting as an entry-level childcare teacher, one can advance to homeroom teacher, age-group head teacher, vice principal, and principal. Holding a Level 1 childcare teacher certificate and experience are advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as an entry-level childcare teacher, one can advance to homeroom teache
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a foreign childcare teacher, but Korean language ability and qualification requirements are strict |
-| Subclass F-2 (Residence) | Pre-permanent residence stage; possible to work as a childcare teacher, but qualification recognition needed |
-| Subclass F-5 (Permanent Residence) | Permanent resident; can work as a childcare teacher if qualification requirements are met |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: After obtaining a Level 1 childcare teacher qualification, you need to accumu
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-teacher/KR)**

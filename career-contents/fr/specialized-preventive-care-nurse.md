@@ -4,8 +4,6 @@
 
 Preventive specialist nurses focus on disease prevention and health promotion, including vaccination, screening, and health education. They usually work at public health institutions, hospitals, or community health centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Preventive specialist nurses focus on disease prevention and health promotion, i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Preventive specialist nurses can be promoted to nursing supervisors, public health project managers, or nursing educators. You can also become a Senior Nurse Practitioner (IPA) or specialist nurse through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Preventive specialist nurses can be promoted to nursing supervisors, public heal
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled professionals, including medical practitioners, valid for 4 years, with family accompaniment |
-| Subclass Salarié (Salaried Employee Visa) | Employer sponsorship required, work permit linked to contract, valid for 1-3 years |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled EU employees who must meet annual salary requirements (about 53k+), and nurses usually meet the requirements |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Can advance to nursing supervisor, public health project manager, educator, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-preventive-care-nurse/FR)**

@@ -53,8 +53,6 @@ Election officials work in the New Zealand Electoral Commission and local counci
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will largely automate election officials' data processing and compliance checks, but core voter interaction, adjudication responsibility, and sensitive data protection still rely on humans, entry-level roles decrease due to AI tools, but professional roles remain stable.
-
 Career progression path: start as a junior election official or constituency assistant, advance to senior election official, election manager, or regional director, and eventually move into policy or management roles. Requires project management and regulatory knowledge.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression path: start as a junior election official or constituency ass
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Includes managing electoral roll, reviewing candidate nominations, operating 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electoral-officer/NZ)**

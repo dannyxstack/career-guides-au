@@ -53,8 +53,6 @@ Building inspectors inspect construction compliance to ensure adherence to the N
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building inspectors face substitution pressure from AI automated checklists and report writing, but on-site physical inspections and legal liability decisions form a moat.
-
 Typically start with construction industry experience, such as carpentry or construction supervision, then obtain certification. Can advance to senior inspector, project manager, or become a partner in a private certification agency. Certified registered inspectors earn more.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start with construction industry experience, such as carpentry or cons
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, points from professional registration + qualifications, need 160 points |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored visa for approved sponsors. Requires accredited employer and salary above median. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Main certification from the Building Officials Institute of New Zealand (BOIN
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-inspector/NZ)**

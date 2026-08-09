@@ -51,8 +51,6 @@ Professional technical role that designs, processes, assembles, and tests molds 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI enhances mold design optimization, CAM automatic programming, and quality inspection (vision systems), but complex mold modification, setup, and testing require skilled workers' know-how, making full replacement difficult.
-
 On-site technician → CNC/EDM machining skilled → Mold design (CAD/CAM) → Mold team leader/technical development. Independence is possible after gaining experience at large companies or specialized firms.
 
 **Tasks most exposed to AI:**
@@ -94,17 +92,9 @@ On-site technician → CNC/EDM machining skilled → Mold design (CAD/CAM) → M
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1, E-7-2)) | Possible as Skilled Worker (E-7-2) or Mold Specialist (E-7-1). Requires employer recommendation and career proof. |
-| Subclass E-9 (Non-professional Employment (E-9)) | Some simple mold tasks allowed; can switch to E-7 after skill development. |
-| Subclass F-2 (Residence (F-2) (Points-based)) | Can obtain residence visa as prelude to permanent residence upon passing skilled worker points system. |
-| Subclass F-4 (Overseas Korean (F-4)) | No employment restrictions for overseas Koreans aged 25+. Easier with field experience. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +138,12 @@ A: Mold Technician (essential), Mold Industrial Engineer (promotion/extra points
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mold-maker/KR)**

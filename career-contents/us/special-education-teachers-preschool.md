@@ -53,8 +53,6 @@ Teaching academic, social, and life skills to preschool children with learning, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Usually starts with a bachelor's degree in general or special education, then progresses to special education coordinator, curriculum specialist, or school administrator. Some teachers pursue master's or doctoral degrees to enter universities or research institutions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts with a bachelor's degree in general or special education, then pr
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for a green card through the PERM process, where the employer must demonstrate that no suitable U.S. workers are available. |
 | Subclass J-1 (Exchange Visitor (J-1) Visa) | Used for temporary teacher exchange programs, may be subject to a two-year home residence requirement. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a state teaching license and pass the Praxis exam; some states requ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teachers-preschool/US)**

@@ -49,8 +49,6 @@ Forestry professionals who create and manage forests and produce timber, perform
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation replace parts of logging work (e.g., automatic harvesters, drone forest monitoring), but afforestation and management requiring field judgment and physical labor are difficult to fully replace with AI. Workforce size decreases, but productivity of remaining workers increases.
-
 Career advancement: entry-level skilled worker → mid-level forest technician → forest management instructor or cooperative manager. Certifications and experience are key.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Career advancement: entry-level skilled worker → mid-level forest technician �
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible for simple reforestation/logging jobs; subject to Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Targeting professionals such as forest engineers |
-| Subclass F-2 (Residence) | Can apply after long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: The Forest Technician certification is essential for practical work, and the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reforestation-and-forest-management-workers-and-loggers/KR)**

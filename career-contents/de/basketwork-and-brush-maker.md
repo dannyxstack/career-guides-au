@@ -53,8 +53,6 @@ This occupation involves designing and handcrafting woven goods, brushes, and br
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Traditional weaving and brush design and production are heavily affected by AI. Standard pattern generation, cost estimation, and other tasks can be automated, but high-end customization and handcraft skills still retain some value.
-
 Career development paths include from apprentice to skilled craftsman, then to workshop supervisor or self-employment. Some practitioners may transition to art or design fields, but promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career development paths include from apprentice to skilled craftsman, then to w
 | Subclass Skilled Worker (Skilled Immigration Act (Employment)) | Requires a German employer contract and recognized qualifications, applicable to non-shortage occupations. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allowing job seekers without a work contract to come to Germany for opportunities. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Although the market is small, demand for handmade custom products is stable. 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/basketwork-and-brush-maker/DE)**

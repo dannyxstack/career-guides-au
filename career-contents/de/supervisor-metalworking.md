@@ -53,8 +53,6 @@ Responsible for overseeing the production process in a metal processing workshop
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Metal fabrication supervisors have mixed feelings about AI: tasks like production scheduling and quality inspection are automated, but core responsibilities such as team coordination, safety management, and complex fault handling are enhanced by AI tools.
-
 Common career progression: metal processing technician → foreman/supervisor → production manager. Further training (e.g., IHK technician) can lead to higher positions.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Common career progression: metal processing technician → foreman/supervisor �
 | Subclass Skilled Worker (Skilled Worker Visa (§18b AufenthG)) | Applicable to foreigners with recognized German vocational training qualifications. Requires approval from the Federal Employment Agency, with the company proving inability to hire local workers. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows one year to find work in Germany. Requires qualification recognition or relevant experience, suitable for those with industry experience. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to production manager or workshop director, or through further st
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-metalworking/DE)**

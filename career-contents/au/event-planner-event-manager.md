@@ -56,8 +56,6 @@ Event planners and event managers are responsible for the end-to-end planning, b
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
-
 Australia's MICE market has fully rebounded post-COVID, with corporate event budgets increasing significantly. Hybrid (in-person + online) events have become the new industry standard, and planners with experience on virtual event platforms (Hopin/Whova/Teams Live) are in high demand. The Brisbane 2032 Olympics will generate a large number of event management roles over the next six years.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australia's MICE market has fully rebounded post-COVID, with corporate event bud
 | Subclass 189 (SkillSelect Independent) | Invitation-based; Vetassess skills assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway (QLD may offer a special pathway for Olympics-related roles) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Marketing managers earn slightly more ($95k–$125k vs events managers $83k�
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-planner-event-manager/AU)**

@@ -53,8 +53,6 @@ Technical cable splicers install, maintain, and repair underground and overhead 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
-
 Can progress from apprentice to senior cable jointer or team supervisor, then move into power system design, project management, or become an independent contractor. High-voltage certification enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from apprentice to senior cable jointer or team supervisor, then mo
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence visa, requires state nomination and meeting points requirements |
 | Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, transitioning to 191 permanent residency, suitable for working in regional areas |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Mainly outdoor work involving trenches, poles, substations, etc. Requires wea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-cable-jointer/AU)**

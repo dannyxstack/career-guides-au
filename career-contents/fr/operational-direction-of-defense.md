@@ -4,8 +4,6 @@
 
 It is responsible for strategic planning and operational command in France's defense sector, coordinating military actions, and ensuring national security.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ It is responsible for strategic planning and operational command in France's def
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI will greatly enhance intelligence analysis and simulation capabilities, but decision-making responsibility and legality review will still be dominated by humans; Entry-level positions have narrowed due to automated data organization, but the value of strategic planning positions has increased.
 
 Typically, they start as officers, advance through staff positions to senior commanders, or transfer to senior civilian officials in the Ministry of National Defense.
 
@@ -100,17 +96,9 @@ Typically, they start as officers, advance through staff positions to senior com
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for senior management or technical talents, requires employer sponsorship, valid for 4 years, and can be renewed |
-| Subclass Salarié (Employee Visa) | Employed by a French defense agency, a work permit is required, usually valid for one year |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying, high-skilled positions, with salaries at least 1.5 times the average French annual salary, allowing family reunification |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Typically, graduates from French military academies (such as Saint-Cyr) and c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operational-direction-of-defense/FR)**

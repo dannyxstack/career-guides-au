@@ -4,8 +4,6 @@
 
 A professional teacher responsible for health management, first aid, health education, and infectious disease prevention for students and staff in elementary, middle, and high schools.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional teacher responsible for health management, first aid, health educ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can automate part of a school health teacher's work (e.g., health record analysis, educational material creation), but core tasks requiring human judgment and empathy—such as face-to-face counseling, emergency treatment, and infectious disease response—are difficult to replace.
-
 The promotion system after appointment is the same as that of regular teachers; advancement to vice principal or principal, or to an education office supervisor, is possible.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ The promotion system after appointment is the same as that of regular teachers; 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay as a step before permanent residence |
-| Subclass F-5 (Permanent Residence (F-5)) | Allows unrestricted work upon obtaining permanent residence |
-| Subclass E-7 (Specific Activities (E-7)) | Possible but very limited, e.g., hiring foreign nurses as school nurses |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: After obtaining a Bachelor of Science in Nursing (4 years), you must complete
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-teacher/KR)**

@@ -54,8 +54,6 @@ Medical and welfare services managers oversee hospital departments, aged care fa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Usually starts from medical or social welfare professionals, such as nurses or social workers. Career progression includes: department manager → regional manager → operations director → CEO. Can obtain Health Informatics New Zealand (HINZ) certification to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually starts from medical or social welfare professionals, such as nurses or s
 | Subclass SMC (Skilled Migrant Category Resident Visa) | 6-point skilled migration, scoring based on education, work experience, and salary. Occupations at ANZSCO skill level 1 are eligible for recognition. |
 | Subclass AEWV (Accredited Employer Work Visa) | If not immediately eligible for residency, you can work in NZ via an Accredited Employer Work Visa, gain experience, then apply for residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a bachelor's degree in health management, public health, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-and-welfare-services-manager/NZ)**

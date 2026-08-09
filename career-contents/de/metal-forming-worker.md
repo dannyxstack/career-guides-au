@@ -51,8 +51,6 @@ Responsible for metal material forming and processing, including forging, stampi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Metal forming workers face high automation risks, especially in repetitive operations and quality inspection, but complex processes and debugging still require human input. Competition for entry-level positions is intensifying, requiring a shift toward digital and programming skills.
-
 Metal forming workers can advance to section leader or production supervisor, or through further education become an Industrial Master (Industriemeister) or Technician (Techniker), moving into management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Metal forming workers can advance to section leader or production supervisor, or
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based jobseeker visa allowing entry to Germany for job hunting, requiring relevant qualifications and German/English proficiency |
 | Subclass Qualification Recogn (Recognition of Professional Qualifications) | Applicable for overseas qualification recognition; after certification, you can work in Germany in a related field, combined with a work visa |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With Industry 4.0 advancement, traditional molding processes are gradually au
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-forming-worker/DE)**

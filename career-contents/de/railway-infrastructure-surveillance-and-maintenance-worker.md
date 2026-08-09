@@ -52,8 +52,6 @@ Responsible for daily inspection, maintenance, and troubleshooting of German rai
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Daily inspections, recording, and scheduling for rail traffic crew can be automated by AI, but on-site judgment, emergency handling, and physical operations still rely on humans—overall risks and opportunities coexist.
-
 Career progression: Junior inspector → Professional maintenance technician → Team leader → Regional maintenance supervisor. Further qualifications can lead to signal technology or track construction management.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression: Junior inspector → Professional maintenance technician →
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must possess German-recognized professional qualification or equivalent degree, German B1 or above |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa allowing job seeking in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from junior inspector to senior technician, team leader, or regio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-infrastructure-surveillance-and-maintenance-worker/DE)**

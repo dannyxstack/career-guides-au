@@ -1,10 +1,8 @@
-# Career Counselor 职业分析 · 韩国
+# 职业顾问（Career Counselor）职业分析 · 韩国
 
-**职业代码: 23141 (KECO)**
+**职业代码：23141 (KECO)**
 
-A professional counselor who connects job seekers with employers, supporting efficient labor market matching through career planning, job placement, and job information provision.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+连接求职者与雇主的专业顾问，通过职业规划、职位匹配和就业信息提供，支持高效的劳动力市场匹配。
 
 
 ---
@@ -13,8 +11,8 @@ A professional counselor who connects job seekers with employers, supporting eff
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Social Welfare or Counseling at a junior college or university | 2-4年 | $4,000,000~$20,000,000（Tuition fees; more affordable at national and public universities） |
-| Career Counselor Certification (National Technical Qualification) | 6个月-1年 | $500,000~$2,000,000（Includes academy tuition and exam fees） |
+| 短期大学或大学的社会福利或咨询系 | 2-4年 | $4,000,000~$20,000,000（学费；国立和公立大学更实惠） |
+| 职业顾问认证（国家技术资格） | 6个月-1年 | $500,000~$2,000,000（包括学院学费和考试费。） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional counselor who connects job seekers with employers, supporting eff
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Career Counselor Level 2 | Human Resources Development Service of Korea | 可选 | National technical qualification; not mandatory but advantageous for employment |
-| Career Counselor Level 1 | Human Resources Development Service of Korea | 可选 | Higher-level certification; advantageous for experienced professionals |
-| Social Worker Level 2 | Ministry of Health and Welfare | 可选 | Helpful in related fields |
+| 职业顾问二级 | 韩国人力资源开发服务局 | 可选 | 国家技术资格；非强制但利于就业 |
+| 一级职业顾问 | 韩国人力资源开发服务局 | 可选 | 更高级别认证；对经验丰富的专业人士有利 |
+| 社工二级 | 保健福祉部 | 可选 | 对相关领域有帮助 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. With an aging population, deepening job scarcity, and rising reemployment demand, the role of career counselors is expanding, and hiring is expected to remain steady at employment centers and private job placement agencies.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。随着人口老龄化、职位稀缺性加深和再就业需求上升，职业顾问的角色正在扩大，就业中心和私人职业介绍所的招聘预计将保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较低（★☆☆☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较低（★☆☆☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A professional counselor who connects job seekers with employers, supporting eff
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$32,000,000 | Based on starting salary at employment centers |
-| 中级 (4-7年) | $32,000,000~$40,000,000 | Varies by experience and certification |
-| Advanced (8 years or more) | $40,000,000~$55,000,000 | Senior counselor or above |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 基于就业中心的起薪 |
+| 中级 (4-7年) | $32,000,000~$40,000,000 | 因经验和认证而异 |
+| 高级（8年及以上） | $40,000,000~$55,000,000 | 高级顾问或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI chatbots and automatic matching systems have been introduced, which may replace simple information-providing tasks, but personalized counseling and complex career guidance still require human counselors.
+人工智能聊天机器人和自动匹配系统已被引入，可能会取代简单的信息提供任务，但个性化咨询和复杂的职业指导仍需要人类顾问。
 
-Careers typically start at employment centers, private job information companies, or university career centers; with counseling experience and relevant certifications, one can advance to senior counselor or team leader.
+职业通常从就业中心、私人求职信息公司或大学职业中心开始；凭借咨询经验和相关认证，可晋升为高级顾问或团队负责人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Frequently asked questions response
-- Initial job information provision
-- Basic job information search
+- 常见问题解答
+- 初始就业信息提供
+- 基本职位信息搜索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Job seeker profile analysis
-- Customized job recommendations
-- Counseling records management and analysis
+- 求职者档案分析
+- 定制化职位推荐
+- 咨询记录管理与分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Communication skills
-- Complex case resolution ability
+- 同理心
+- 沟通能力
+- 复杂案例解决能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- Data analysis
-- Online counseling techniques
+- 数字素养
+- 数据分析
+- 在线咨询技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Youth employment support
-- Middle-aged re-employment
-- Digital transformation counseling
-- Local employment activation
+- 青年就业支持
+- 中年再就业
+- 数字化转型咨询
+- 本地就业激活
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Possible for foreign workers in professional fields, but most job counselor positions are for Koreans and E-7 cases are rare |
-| Subclass F-2 (F-2 (Residence) visa) | Long-term residents can work, but employment as a job counselor has limitations such as language skills |
-| Subclass F-4 (F-4 (Overseas Koreans) visa) | Overseas Koreans can work, but expertise is required, limiting opportunities |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like others and are empathetic
-- People who find reward in connecting job seekers with companies
-- People who enjoy continuously learning and sharing information
+- 喜欢他人且富有同理心
+- 在连接求职者与公司中找到价值的人
+- 喜欢不断学习和分享信息的人
 
 **谁不适合**
-- People who prefer repetitive and structured tasks
-- People who prefer working alone
+- 喜欢重复性和结构化任务的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a job counselor?**
-答：For entry-level, about 24 to 32 million KRW, and with experience and qualifications, it can exceed 40 million KRW.
+**问：职业顾问的平均工资是多少？**
+答：入门级约2400万至3200万韩元，有经验和资质可超过4000万韩元。
 
-**问：Can a foreigner work as a job counselor in Korea?**
-答：It is very difficult. Due to Korean language ability and the principle of prioritizing native workers, they are mainly jobs for locals and not eligible for E-7 visas.
+**问：外国人能在韩国担任职业顾问吗？**
+答：非常困难。由于韩语能力和优先录用本国工人的原则，这些工作主要面向本地人，不符合E-7签证申请条件。
 
-**问：Is a job counselor license mandatory?**
-答：It is not mandatory but highly advantageous for employment, and public institutions like employment centers give preference to it.
+**问：职业顾问执照是强制性的吗？**
+答：并非强制要求但对就业非常有利，公立机构如就业中心会优先考虑。
 
 
 ---
@@ -145,12 +135,12 @@ Careers typically start at employment centers, private job information companies
 | 工作强度 | 较低（★☆☆☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/career-counselor/KR)**

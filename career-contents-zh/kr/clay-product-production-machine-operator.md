@@ -1,8 +1,8 @@
-# Clay Product Production Machine Operator 职业分析 · 韩国
+# 黏土产品生产机器操作员（Clay Product Production Machine Operator）职业分析 · 韩国
 
-**职业代码: 82621 (KECO)**
+**职业代码：82621 (KECO)**
 
-This occupation involves operating and managing machines that produce construction materials such as bricks, roof tiles, and tiles from clay.
+该职业涉及操作和管理用粘土生产砖、屋顶瓦和瓷砖等建筑材料的机器。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves operating and managing machines that produce constructi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（义务教育） |
-| Junior college (engineering) | 2 年 | $4,000,000~$8,000,000（Tuition + textbook fees） |
+| 高中毕业 | 3年 | $0~$0（义务教育） |
+| 专科（工程） | 2 年 | $4,000,000~$8,000,000（学费 + 教材费） |
 
 ---
 
@@ -20,18 +20,18 @@ This occupation involves operating and managing machines that produce constructi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 叉车操作员 | Human Resources Development Service of Korea | 必备 | Required for raw material transport, common employment condition |
-| Craftsman Ceramics | Human Resources Development Service of Korea | 可选 | Essential certification for clay product production |
-| Industrial Engineer Ceramics | Human Resources Development Service of Korea | 可选 | Advanced certification, advantageous for managerial positions |
+| 叉车操作员 | 韩国人力资源开发服务局 | 必备 | 原材料运输所需，常见就业条件 |
+| 手工艺陶瓷 | 韩国人力资源开发服务局 | 可选 | 粘土产品生产必备认证 |
+| 陶瓷工业工程师 | 韩国人力资源开发服务局 | 可选 | 高级认证，对管理职位有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 1,200. Demand fluctuates with the construction industry cycle, and some jobs are expected to decline due to automation, but skilled workers are still needed.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 1,200。需求随建筑业周期波动，部分岗位因自动化预计减少，但仍需熟练工人。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,86 @@ This occupation involves operating and managing machines that produce constructi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$28,000,000 | Based on day shift; increases with night differential |
-| 中级 (4-7年) | $28,000,000~$34,000,000 | Varies by skill level |
-| Advanced (8+ years) | $34,000,000~$42,000,000 | Additional allowances when performing management tasks |
+| 初级（0-3年） | $24,000,000~$28,000,000 | 基于白班；夜班津贴增加 |
+| 中级 (4-7年) | $28,000,000~$34,000,000 | 因技能水平而异 |
+| 高级（8年以上） | $34,000,000~$42,000,000 | 执行管理任务时发放额外津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are replacing some processes (firing temperature control, quality inspection), but areas requiring manual work such as raw material input and machine maintenance still need humans. Consequently, some tasks are reduced, but complete replacement is difficult.
+AI和自动化正在取代部分流程（烧成温度控制、质量检测），但原料投入、机器维护等需要人工的领域仍需人力。因此，部分任务减少，但完全替代困难。
 
-Beginners start as operators and can advance to line managers or quality control after gaining experience; larger factories offer more promotion opportunities.
+初学者从操作员做起，积累经验后可晋升为生产线经理或质量控制；大型工厂提供更多晋升机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Adjusted clay mixing ratio
-- Monitoring of firing furnace temperature
-- Product Surface Inspection
+- 调整后的粘土混合比例
+- 窑炉温度监控
+- 产品表面检验
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Mechanical Failure Diagnosis
-- Production Schedule Optimization
+- 机械故障诊断
+- 生产排程优化
 - 质量数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Machine repair and maintenance
-- Emergency Response
-- Judgment based on on-site experience
+- 机器维修与保养
+- 应急响应
+- 基于现场经验的判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automation System Operation
-- Robot Maintenance
-- Data Analysis Basics
-- PLC Programming
+- 自动化系统操作
+- 机器人维护
+- 数据分析基础
+- PLC编程
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Clay products
-- Construction Materials
-- Automation
-- Manual Work
+- 粘土制品
+- 建筑材料
+- 自动化
+- 体力劳动
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Allowed for unskilled foreign workers in the manufacturing sector, but clay product manufacturing is possible. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable if eligible as skilled technical personnel; must meet experience and qualification requirements. |
-| Subclass F-2 (Residence (F-2)) | No employment restrictions upon conversion to long-term resident; possible conversion under skilled worker points system. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength and patience for repetitive tasks
-- People interested in machine operation and manual dexterity
-- People who can accommodate night shifts or shift work
+- 体力好且能耐心做重复性工作的人
+- 对机器操作和手工灵巧感兴趣的人
+- 能适应夜班或轮班工作的人
 
 **谁不适合**
-- People who prefer static office jobs
-- People who want creative work
+- 偏好静态办公室工作的人
+- 想要创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for beginners?**
-答：For entry-level (0-3 years), pre-tax annual salary is about 24 million to 28 million won, with additional pay for night work.
+**问：初学者平均工资是多少？**
+答：对于入门级（0-3年），税前年薪约2400万至2800万韩元，夜班有额外补贴。
 
 **问：外国人能否从事此职业？**
-答：Yes. You can work in manufacturing with an E-9 (Non-professional Employment) visa, and once skilled, switch to an E-7 (Specific Activities) visa or apply for an F-2 (Residence) visa.
+答：可以。持E-9（非专业就业）签证可在制造业工作，掌握技能后可换E-7（特定活动）签证或申请F-2（居住）签证。
 
-**问：How can I get promoted in this occupation?**
-答：Acquiring a ceramic technician or ceramic engineer certification along with experience increases opportunities for promotion to management or quality control roles.
+**问：如何才能在这个职业中晋升？**
+答：获得陶瓷技师或陶瓷工程师认证及经验，可增加晋升至管理层或质量管控岗位的机会。
 
 
 ---
@@ -143,12 +136,12 @@ Beginners start as operators and can advance to line managers or quality control
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/clay-product-production-machine-operator/KR)**

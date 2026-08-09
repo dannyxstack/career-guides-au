@@ -53,8 +53,6 @@ Pipeline construction workers install, maintain, and repair underground or above
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Career progression: starting as an apprentice or entry-level worker, can advance to foreman or project supervisor, or become a plumbing technician or site manager through continuing education. Some experienced individuals may start their own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: starting as an apprentice or entry-level worker, can advance
 | Subclass Skilled Worker (Fach (Skilled Immigration Act) | For skilled workers with vocational qualifications (Ausbildung), they need to have their degree or vocational qualification certified and obtain an employment contract with a German employer. Suitable for pipeline construction workers. |
 | Subclass Chancenkarte (Opport (Opportunity Card) | Points-based job-seeking visa allowing job search in Germany; open to those with vocational qualifications or relevant experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to foreman (Vorarbeiter), technician (Techniker), or site manager
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipe-construction-worker/DE)**

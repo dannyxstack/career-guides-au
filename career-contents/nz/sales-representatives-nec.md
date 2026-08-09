@@ -54,8 +54,6 @@ Other Sales Representatives in New Zealand promote and sell various products and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate tasks such as customer information collection and report generation, but sales negotiation and customer relationships still rely on humans; meanwhile, AI enhances customer insights and sales forecasts, requiring sales representatives to evolve into trusted advisor roles.
-
 Entry-level roles may involve telemarketing or in-store promotions; after building client resources, progress to regional sales manager or account manager. Some shift to marketing or business development, with income rising based on performance.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Entry-level roles may involve telemarketing or in-store promotions; after buildi
 | Subclass Post-study work visa (Post-study Work Visa) | After completing a bachelor's degree, eligible for a 1-3 year open work permit to gain experience |
 | Subclass Relocation via emplo (Employer-assisted residence) | Some industries, such as technical sales, may have fast-track residence through specific agreements |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to sales manager, marketing manager, or business development mana
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representatives-nec/NZ)**

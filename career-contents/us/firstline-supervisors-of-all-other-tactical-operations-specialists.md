@@ -50,8 +50,6 @@ Supervises and coordinates activities of various tactical operations specialists
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly optimize intelligence analysis and resource allocation, but tactical field decisions, ethical judgment, and team morale maintenance still require human supervisors.
-
 Typically promotes from tactical operations specialist to supervisor, then to senior command roles (e.g., operations commander, security director). Cross-departmental transfer or promotion to management.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Typically promotes from tactical operations specialist to supervisor, then to se
 | Subclass EB-2 (Employment-Based Second Preference) | Requires an advanced degree or exceptional ability, applicable to applicants with a bachelor's plus 5 years' experience. |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for individuals with a bachelor's degree or 2 years of experience, PERM process. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Typically requires 5+ years of tactical operations experience, such as SWAT, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-all-other-tactical-operations-specialists/US)**

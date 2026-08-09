@@ -54,8 +54,6 @@ Professional cleaners use specialized equipment and chemicals to clean buildings
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Professional cleaners face high risk of automation replacement; AI and robots will take over most standard cleaning tasks, entry-level jobs decrease sharply, but demand remains for AI-enhanced cleaning solutions and specialized site cleaning.
-
 Limited career progression; can advance to cleaning supervisor or start their own business. Requires experience and possibly additional certifications, such as hazardous materials handling.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Limited career progression; can advance to cleaning supervisor or start their ow
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: This occupation is generally not classified as high-skilled, making direct im
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-cleaners/CA)**

@@ -4,8 +4,6 @@
 
 A geology researcher is a professional who studies the composition, structure, and history of the Earth, contributing to resource exploration, geological disaster prediction, and environmental conservation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A geology researcher is a professional who studies the composition, structure, a
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used in geological data analysis, earthquake prediction, and resource exploration, but field surveys and complex interpretation still require human expertise, so full replacement is difficult.
-
 After obtaining a master's or doctoral degree, one can gain experience at research institutes, universities, or public corporations (e.g., Korea Institute of Geoscience and Mineral Resources), and advance to a research director or professor, or move to a government agency.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After obtaining a master's or doctoral degree, one can gain experience at resear
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for employment in specialized research fields, geological research |
-| Subclass D-2 (Study Abroad) | Graduate program, majoring in geology |
-| Subclass F-2 (Residence) | Long-term stay, eligible for highly educated individuals |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Research positions require at least a master's degree; a PhD is advantageous.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geology-researcher/KR)**

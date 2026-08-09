@@ -51,8 +51,6 @@ Textile manufacturing workers operate machines to produce fabrics, yarns, and te
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Many repetitive tasks of textile manufacturing workers (e.g., operating textile machines, quality inspection) will be replaced by AI and automation systems, leading to significant reduction in job demand, though roles in machine maintenance and process optimization may see slight growth.
-
 Employees can advance to textile technician or production supervisor roles, or move into technical textile R&D or quality control through further study. Some can become textile machinery engineers.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Employees can advance to textile technician or production supervisor roles, or m
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Requires completing recognized vocational training or overseas qualification 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-manufacturing-worker/DE)**

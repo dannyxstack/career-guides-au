@@ -53,8 +53,6 @@ Operating machinery to cut wood, and producing/processing materials such as pape
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will not completely replace paper and wood machine operators, but will automate repetitive tasks while enhancing some skill requirements; digital skills need to be improved to adapt to changes.
-
 Can advance to senior operator or supervisor through experience, or shift to quality control, equipment maintenance, etc.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance to senior operator or supervisor through experience, or shift to qua
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Technically feasible, but high salary thresholds and employer sponsorship dif
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-and-wood-machine-operatives/UK)**

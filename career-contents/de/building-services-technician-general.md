@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing building systems such as 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building equipment technicians face mixed AI impact: routine inspections and debugging are easily automated, but complex fault diagnosis and multi-system coordination depend on experience and judgment, making them hard to replace in the short term.
-
 Can be promoted to equipment system supervisor or project manager, or become an energy consultant or building automation specialist through further study; some choose to start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted to equipment system supervisor or project manager, or become an 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled migrants who have completed recognized vocational training or equivalent qualifications in Germany. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job search visa for finding job opportunities in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually complete 3.5 years of dual vocational training combining theory and p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-services-technician-general/DE)**

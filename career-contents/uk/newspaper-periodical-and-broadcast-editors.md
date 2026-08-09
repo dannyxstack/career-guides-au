@@ -52,8 +52,6 @@ Responsible for assessing, managing, and supervising the editorial direction of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The roles of newspaper, periodical and broadcast editors in the AI era have mixed prospects: routine copy and layout tasks will be automated and reduced, but strategic decision-making, ethical gatekeeping and creative planning are amplified by AI assistance, leading to a transformation rather than elimination of overall job structure.
-
 Career paths typically start as a journalist or content creator, progressing to senior editor, editorial director, or editor-in-chief. It can also transition to digital media strategy or content management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career paths typically start as a journalist or content creator, progressing to 
 | Subclass Global Talent (Global Talent Visa) | Applicable to editors with outstanding achievements or potential in media; no employer sponsorship required, but must pass endorsement. |
 | Subclass Graduate (Graduate Visa) | Applicable to UK university graduates, allowing them to stay and work in the UK for 2 years (3 years for PhD), with no specific salary requirement |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: No, editing is not on the UK Immigration Salary List, but demand for high-end
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/newspaper-periodical-and-broadcast-editors/UK)**

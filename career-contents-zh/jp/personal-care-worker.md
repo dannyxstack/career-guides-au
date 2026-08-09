@@ -1,8 +1,8 @@
 # 个人护理员（Personal Care Worker）职业分析 · 日本
 
-**职业代码: 404 (JSCO)**
+**职业代码：404 (JSCO)**
 
-Supports daily life of elderly and disabled persons, assisting with meals, bathing, and mobility. Works in home care or facility care settings.
+支持老年人和残障人士的日常生活，协助用餐、洗澡和移动。在居家护理或机构护理环境中工作。
 
 
 ---
@@ -11,9 +11,9 @@ Supports daily life of elderly and disabled persons, assisting with meals, bathi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Initial Training for Care Workers | 2 months | $50,000~$100,000（Correspondence or in-person courses available） |
-| Certified Care Worker Training Institution | 2 年 | $800,000~$1,500,000（Obtained at vocational schools or junior colleges） |
-| Practical Training | 6 months | $100,000~$200,000（Required for Certified Care Worker exam eligibility） |
+| 护理人员入职培训 | 2个月 | $50,000~$100,000（可提供函授或面授课程） |
+| 认证护理人员培训机构 | 2 年 | $800,000~$1,500,000（在职业学校或短期大学获得） |
+| 实践培训 | 6个月 | $100,000~$200,000（获得认证护理员考试资格所必需） |
 
 ---
 
@@ -21,18 +21,18 @@ Supports daily life of elderly and disabled persons, assisting with meals, bathi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Care Worker | Ministry of Health, Labour and Welfare | 可选 | National license. Eligible after 3 years experience or graduating from training institution |
-| Completion of Initial Training for Care Workers | Designated by prefectural governments | 可选 | Acquire basic knowledge. No experience required |
-| Completion of Practical Training | Designated by prefectural governments | 可选 | Required for Certified Care Worker exam eligibility |
+| 认证护理员 | 厚生劳动省 | 可选 | 国家执照。有3年经验或从培训机构毕业后可考取。 |
+| 完成护理工作者初始培训 | 由都道府县指定 | 可选 | 掌握基础知识，无需经验 |
+| 完成实践培训 | 由都道府县指定 | 可选 | 获得认证护理员考试资格所必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 2,150,000. Demand is rising due to aging population. Severe labor shortage, covered by Specified Skilled Worker visa. Care worker treatment improvements underway, but supply shortage expected to persist.
+**职位需求量：很高（★★★★★）** 全国从业人数约 2,150,000。由于人口老龄化，需求正在上升。劳动力严重短缺，由特定技能签证覆盖。护理工作者待遇正在改善，但供应短缺预计将持续。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ Supports daily life of elderly and disabled persons, assisting with meals, bathi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,500,000~$3,200,000 | Monthly salary approx. ¥200,000–250,000 |
-| Mid Level (4–10 years) | $3,300,000~$4,000,000 | Increase after obtaining Certified Care Worker |
-| Advanced (10+ years) | $4,000,000~$5,500,000 | Higher when concurrently serving as facility director or care manager |
+| 入门级（0–3年） | $2,500,000~$3,200,000 | 月薪约20万–25万日元 |
+| 中级（4-10年） | $3,300,000~$4,000,000 | 获得认证护理员后薪资增加 |
+| 高级（10年以上） | $4,000,000~$5,500,000 | 兼任设施主任或护理经理时更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Care work is centered on interpersonal support, making full AI replacement difficult, but administrative tasks like record-keeping and shift scheduling are being streamlined by AI/robots. In the future, physical assistance from care robots is expected to expand.
+护理工作以人际支持为核心，AI完全替代困难，但记录和排班等行政任务正被AI/机器人简化。未来护理机器人的身体辅助预计将扩展。
 
-Even beginners can obtain qualifications. Career advancement via Certified Care Worker license. Path to facility director or care manager also open.
+即使是初学者也能获得资格。通过认证护理员执照实现职业晋升。也有机会成为设施主任或护理经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Administrative tasks
-- Record creation
-- Shift management
+- 行政任务
+- 记录创建
+- 班次管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring support (sensors/AI cameras)
-- Lift/transfer assist robots
-- Communication robots
+- 监控支持（传感器/人工智能摄像头）
+- 升降/转移辅助机器人
+- 通信机器人
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy and interpersonal skills
-- Physical care response
-- Emergency judgment
+- 同理心与人际交往能力
+- 身体护理响应
+- 紧急判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI care record system operation
-- Care robot operation
-- Multidisciplinary collaboration
+- AI护理记录系统操作
+- 护理机器人操作
+- 多学科协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging society
-- Increasing care demand
-- Labor shortage
-- Improved treatment
+- 老龄化社会
+- 护理需求增长
+- 劳动力短缺
+- 待遇改善
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Care)) | Status of residence for care work. Requires N4 Japanese proficiency and completion of initial care worker training. Valid for 5 years. |
-| Subclass 介護 (Care Worker Visa) | Status of residence equivalent to Engineer/Specialist in Humanities/International Services. Requires Certified Care Worker qualification. Renewable. |
-| Subclass 技能実習 (Technical Intern Training (Care)) | Acquire care skills under the Technical Intern Training Program. Max 5 years. Aim to contribute in home country after return. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who want to help others
-- People who are patient and compassionate
-- People confident in physical strength
+- 愿意帮助他人者
+- 耐心且富有同情心的人
+- 体力充沛的人
 
 **谁不适合**
-- People not confident in physical strength
-- People who are not good at interacting with others
+- 对体力不自信的人
+- 不擅长与人交往的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary for caregiving jobs?**
-答：Starting salary is about 200,000-250,000 yen per month, annual income around 2.5-3.2 million yen. Becoming a certified care worker or facility manager can reach 4-5.5 million yen.
+**问：护理工作的薪资是多少？**
+答：起薪约20-25万日元/月，年收入约250-320万日元。成为认证护理员或设施经理可达400-550万日元。
 
-**问：Can foreigners work in caregiving?**
-答：Possible with Specified Skilled Worker (i) (Care) or care visa. Requires Japanese proficiency N4 or higher and completion of initial caregiver training.
+**问：外国人可以从事护理工作吗？**
+答：可能通过特定技能1号（护理）或护理签证实现。需要日语N4以上水平并完成初级护理培训。
 
-**问：How can I advance my career?**
-答：Obtaining the Certified Care Worker qualification is common. Accumulate experience to aim for care manager or facility manager.
+**问：如何提升我的职业生涯？**
+答：获得认证护理员资格是常见的。积累经验以目标成为护理经理或设施经理。
 
 
 ---
@@ -143,12 +136,12 @@ Even beginners can obtain qualifications. Career advancement via Certified Care 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/personal-care-worker/JP)**

@@ -53,8 +53,6 @@ Transport patients within medical facilities using wheelchairs, stretchers, or m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The manual handling and process coordination of delivery workers heavily rely on physical presence, making core tasks hard to replace by AI. However, scheduling optimization and automation equipment may reduce demand for some roles, with overall risk moderately low.
-
 Typically start as orderlies; can advance to patient care technician or nurse assistant; some become registered nurses through further education. A few move into medical transport management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Typically start as orderlies; can advance to patient care technician or nurse as
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can advance to patient care technician, nursing assistant, or become a regist
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orderlies/US)**

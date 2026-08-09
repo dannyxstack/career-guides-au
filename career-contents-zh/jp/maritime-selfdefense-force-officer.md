@@ -1,10 +1,8 @@
-# Maritime Self-Defense Force Officer 职业分析 · 日本
+# 海上自卫队军官（Maritime Self-Defense Force Officer）职业分析 · 日本
 
-**职业代码: 432 (JSCO)**
+**职业代码：432 (JSCO)**
 
-A career involving operating ships and aircraft as a member of the Japan Maritime Self-Defense Force, engaged in defending Japan's territorial waters, disaster relief, and international peace cooperation activities.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+作为日本海上自卫队成员从事船舶和飞机操作，参与保卫日本领海、救灾和国际和平合作活动的职业。
 
 
 ---
@@ -13,8 +11,8 @@ A career involving operating ships and aircraft as a member of the Japan Maritim
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Defense Academy (Officer) | 4年 | $0~$0（Effectively free (salary provided)） |
-| General Enlisted Candidate | 1年 | $0~$0（Post-enlistment training） |
+| 国防大学（军官） | 4年 | $0~$0（实际免费（提供薪水）） |
+| 普通士兵候选人 | 1年 | $0~$0（入伍后培训） |
 
 ---
 
@@ -22,18 +20,18 @@ A career involving operating ships and aircraft as a member of the Japan Maritim
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Maritime Self-Defense Force Officer | Ministry of Defense | 必备 | Employment eligibility: after passing the SDF recruitment exam and completing training. |
-| Oceanographic Survey Specialist | JMSDF | 可选 | Professional qualification in oceanographic survey, applicable on submarines and survey vessels. |
-| Diving Officer | JMSDF | 可选 | Required qualification for submarine crew members. Voluntary. |
+| 海上自卫队军官 | 国防部 | 必备 | 就业资格：通过自卫队招聘考试并完成培训后。 |
+| 海洋测量专家 | 日本海上自卫队 | 可选 | 海洋测量专业资格，适用于潜艇和测量船。 |
+| 潜水官 | 日本海上自卫队 | 可选 | 潜艇船员必备资格，自愿性 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 42,500. Based on the Defense Buildup Plan, securing personnel is a challenge. While the competition rate remains stable due to the declining birthrate, the fill rate is slightly decreasing.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 42,500。基于防卫计划大纲，确保人员配备是一项挑战。尽管由于出生率下降，竞争率保持稳定，但填充率略有下降。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,87 @@ A career involving operating ships and aircraft as a member of the Japan Maritim
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $3,000,000~$4,000,000 | Seaman Recruit to Seaman. Base salary plus allowances (location, navigation, etc.). |
-| Mid (4-10 years) | $4,200,000~$5,500,000 | Petty Officer class. Increased based on position and skills. |
-| Senior (11 years+) | $5,800,000~$8,000,000 | Officer. Higher ranks yield higher pay. Commander class exceeds ¥10 million. |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 从普通水手到高级水手，基本工资加津贴（地点、航行等）。 |
+| 中级（4-10年） | $4,200,000~$5,500,000 | 士官级别。根据职位和技能提高。 |
+| 高级（11年以上） | $5,800,000~$8,000,000 | 军官。军衔越高薪资越高。指挥官级别超过1000万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and unmanned systems are advancing, but on-site judgment and human leadership remain necessary. AI is used for information analysis and search support, enhancing personnel capabilities.
+人工智能和无人系统正在推进，但现场判断和人类领导力仍然必要。AI用于信息分析和搜索支持，增强人员能力。
 
-Promotion is based on a rank system. Education at Officer Candidate School and technical schools opens the path to becoming a commissioned officer. Non-commissioned officers can also be promoted.
+晋升基于军衔制度。在军官候补学校和技术学校接受教育可开启成为委任军官的路径。士官也可晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine surveillance
-- Standardized data analysis
-- Partial auto-pilot for aircraft
+- 常规监控
+- 标准化数据分析
+- 飞机部分自动驾驶
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Tactical data analysis
-- Fire control
-- Vessel operation support
+- 战术数据分析
+- 消防控制
+- 船舶操作支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Command judgment
-- Team cohesion
-- Crisis response
-- Ethical judgment
+- 指挥判断
+- 团队凝聚力
+- 危机应对
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI literacy
-- Data analysis
-- UAV operation
-- Foreign language (English)
+- AI素养
+- 数据分析
+- 无人机操作
+- 外语（英语）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Security
-- Cyber defense
-- UAV operations
-- International joint training
+- 安全
+- 网络防御
+- 无人机操作
+- 国际联合培训
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 外交 (Diplomat visa) | Foreign nationals generally cannot become MSDF officers. Japan only. SDF officers must have Japanese nationality. |
-| Subclass 特定活動 (Designated Activities visa) | Acceptance of foreign nationals as SDF members is extremely limited. Currently practically impossible. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who value discipline
-- People confident in their physical strength
-- People who can value teamwork
+- 重视纪律的人
+- 对自己体力有信心的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who want flexible work styles
-- People not good at competing with others
+- 希望灵活工作方式的人
+- 不善于与他人竞争的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income of MSDF officers?**
-答：Starting salary is about 3-4 million yen, around 5 million yen at 10 years, 6-8 million yen for officers. Varies by rank, duty station, and sea duty allowance.
+**问：MSDF军官的年收入是多少？**
+答：起薪约300-400万日元，10年后约500万日元，官员级600-800万日元。根据军衔、执勤地点和海上执勤津贴有所不同。
 
-**问：Can foreigners become MSDF officers?**
-答：In principle, Japanese nationality is required. Foreign nationals are not allowed to enlist.
+**问：外国人能否成为海上自卫队军官？**
+答：原则上要求日本国籍。外籍人士不得参军。
 
-**问：Is it possible to transfer from MSDF to the private sector?**
-答：Possible. Examples include transitioning to maritime, logistics, and security companies. Retirement benefits available.
+**问：是否可以从MSDF转到私营部门？**
+答：可能。例如转行到海事、物流和安保公司。可享受退休福利。
 
 
 ---
@@ -146,12 +137,12 @@ Promotion is based on a rank system. Education at Officer Candidate School and t
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/maritime-selfdefense-force-officer/JP)**

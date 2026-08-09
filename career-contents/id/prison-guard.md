@@ -1,0 +1,119 @@
+# Prison Guards — career analysis · Indonesia
+
+**Occupation code: 5413 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: medium (★★½☆☆).** National workforce approx. 229,410.
+
+**Competition: medium-high (★★★½☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+(no data)
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
+
+**Tasks most exposed to AI:**
+
+- Surveillance systems automatically analyze abnormal behavior, replacing manual monitoring
+- AI-generated standardized patrol reports and prisoner files, replacing paperwork
+- Smart access control and positioning systems automatically control prisoner movement range, reducing manual opening and closing
+- AI-assisted prohibited item detection (e.g., X-ray image recognition) reduces manual inspection.
+- Voice recognition and natural language processing automatically record summaries of inmate calls, replacing dictation.
+
+**Where AI augments the role:**
+
+- AI risk scoring system assists in identifying prisoners with high violence potential, enhancing early warning capability
+- Smart sensor monitoring devices track inmate health status in real time, enhancing emergency response speed
+- VR simulation training enhances prison officers' ability to handle emergencies such as riots and negotiations.
+- AI schedule optimization tool automatically arranges shifts, reducing administrative burden
+- Multilingual AI translation helps prison officers communicate with non-local inmates, reducing cultural conflicts
+
+**Human moat:**
+
+- Physical intervention and tactical decision-making in crisis situations (e.g., subduing riots)
+- Experience-based human communication and prisoner psychological counseling
+- Discretion and judgment under the legal framework (e.g., granting privileges or penalties)
+- Mediation and emotional management of complex interpersonal conflicts
+- Quick response to unstructured emergencies in a prison environment.
+
+**Skills to build:**
+
+- Operation and interpretation of AI monitoring systems and data analysis tools
+- Digital forensics and electronic evidence collection basics
+- Conflict resolution and negotiation skills enhancement (combined with VR training)
+- Basic data privacy and cybersecurity knowledge
+- Decision-making ability in human-machine collaboration mode
+- AI-assisted decision-making applications in emergency management
+
+---
+
+## 6. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 7. FAQ
+
+**Q: What is the typical salary range for prison guards in Indonesia?**
+A: Entry-level prison guards in Indonesia earn approximately IDR 3-5 million per month, including allowances. With experience, salaries can reach IDR 6-8 million. Senior officers may earn up to IDR 10 million. Pay is regulated by government standards under the Ministry of Law and Human Rights, with additional benefits such as housing and health insurance.
+
+**Q: What skills are required to become a prison guard in Indonesia?**
+A: Key skills include physical fitness, strong communication, crisis management, and basic self-defense. Indonesian prison guards must also understand legal procedures, demonstrate integrity, and remain calm under pressure. Emotional resilience and cultural sensitivity are important due to diverse inmate populations. Formal training at the Correctional Institution Academy is typically required.
+
+**Q: What is the career outlook for prison guards in Indonesia?**
+A: The career outlook is stable, as prison guards are government employees with job security. Demand remains steady due to ongoing need for correctional officers across Indonesia's 500+ prisons. Opportunities for promotion to supervisory roles exist, but advancement may be slow. The role is less affected by AI automation compared to other professions, though administrative tasks may become digitized.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | medium-low (★★☆☆☆) |
+| Job demand | medium (★★½☆☆) |
+| Competition | medium-high (★★★½☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+
+---
+
+## Data sources
+
+- BPS-Statistics Indonesia (Sakernas) (ISCO-08)
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-guard/ID)**

@@ -51,8 +51,6 @@ Responsible for protecting and managing natural landscapes, habitats, and specie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Can progress from assistant ecologist to senior ecologist, conservation project manager, or enter policy and research fields, requiring project experience accumulation.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from assistant ecologist to senior ecologist, conservation project 
 | Subclass Global Talent (Global Talent visa) | Suitable for world-class leaders or potential leaders, such as outstanding contributors in environmental fields |
 | Subclass Graduate (Graduate visa) | Graduates can work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must find employer sponsorship to apply for a Skilled Worker visa, or work un
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conservation-professionals/UK)**

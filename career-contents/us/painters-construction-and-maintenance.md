@@ -54,8 +54,6 @@ Use brushes, rollers, and spray guns to paint walls, equipment, buildings, bridg
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
-
 Start as an apprentice or assistant, gain experience, and advance to foreman, site supervisor, or start your own contracting business. Some painters obtain commercial or industrial coatings certifications to move into high-tech areas like bridge or ship painting.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an apprentice or assistant, gain experience, and advance to foreman, si
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | PERM labour certification pathway, requires proving US worker shortage, slow but feasible, needs employer sponsorship |
 | Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Apply through EB-3 category, highly competitive, with skill and experience requirements |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Very low risk. Painting requires fine manual work, surface preparation, and o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painters-construction-and-maintenance/US)**

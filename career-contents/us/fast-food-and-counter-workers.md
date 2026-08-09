@@ -52,8 +52,6 @@ At fast-food restaurants or counters, they take orders, serve food, and handle c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Fast food and counter service workers perform highly procedural tasks; AI automation and self-service ordering systems are rapidly replacing core tasks, leading to significant job decline, lower entry barriers but worsening career prospects.
-
 Career progression typically starts from junior waiter/server, advancing to team leader, shift supervisor, or assistant restaurant manager. A few can further progress to restaurant manager or area manager.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression typically starts from junior waiter/server, advancing to team
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Usually not. The occupation does not require an advanced degree, so it does n
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-and-counter-workers/US)**

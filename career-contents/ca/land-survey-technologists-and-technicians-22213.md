@@ -52,8 +52,6 @@ Land survey technicians use specialized equipment for land surveying, mapping, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on land surveying technicians and technologists is mixed: physical tasks like field data collection are less replaceable, but indoor drafting and data processing are being accelerated by AI; competition for entry-level jobs intensifies, but demand for high-skilled roles grows.
-
 Junior technicians can advance to senior technicians or project supervisors through experience, or become registered land surveyors through further education, gaining higher qualifications and salaries.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to senior technicians or project supervisors thro
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, have demand for surveying technicians. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, applicable after receiving a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completion of a 2-year diploma or 4-year bachelor's degree
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/land-survey-technologists-and-technicians-22213/CA)**

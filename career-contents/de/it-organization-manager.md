@@ -52,8 +52,6 @@ Responsible for corporate IT strategy planning, team management and system opera
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Career path: IT Project Manager → IT Organization Manager → IT Director/Chief Information Officer (CIO). Can accelerate promotion through MBA or IT management certification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: IT Project Manager → IT Organization Manager → IT Director/Chie
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to non-EU professionals, requires qualification recognition (Anerkennung) |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month visa allowing job search for IT management positions in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Leadership, communication, cross-cultural collaboration, and project manageme
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-organization-manager/DE)**

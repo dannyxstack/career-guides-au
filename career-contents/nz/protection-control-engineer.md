@@ -52,8 +52,6 @@ Protection and control engineers are responsible for relay protection setting at
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not replace protection and control engineers; instead, it will amplify its value: automated tuning calculations and configuration verification will free up energy to focus more on complex system design, new energy integration, and cybersecurity protection, with professional demands continuously rising due to the energy transition.
-
 New Zealand's wind, solar, storage, grid digitalization, and computing power expansion continue to expand, making engineers who master grid connection, stability, and compliance the most sought after; AI-assisted analysis: Grid safety responsibility remains the responsibility of certified engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ New Zealand's wind, solar, storage, grid digitalization, and computing power exp
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer-sponsored work visa |
 | Subclass SMC (Skilled migrant residency) | Skilled Migrant Category: Points-based skilled migration residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow New Zeal
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/protection-control-engineer/NZ)**

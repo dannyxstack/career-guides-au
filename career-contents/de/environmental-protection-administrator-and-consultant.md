@@ -51,8 +51,6 @@ In Germany, this occupation primarily involves implementing environmental polici
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Career progression: Specialist → Senior Consultant → Department Head → Environmental Policy Lead; can transition into ESG management or circular economy fields.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Specialist → Senior Consultant → Department Head → Env
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires a German-recognized degree and a job offer; can apply for a residence permit, and after 4 years can transition to permanent residency. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment; requires sufficient living funds and a recognised German qualification. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can be obtained via EU Blue Card (annual salary threshold approx. €43,800) 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-protection-administrator-and-consultant/DE)**

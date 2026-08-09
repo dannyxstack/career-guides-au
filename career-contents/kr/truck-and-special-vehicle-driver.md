@@ -49,8 +49,6 @@ This occupation involves driving large trucks or special vehicles to transport c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As autonomous truck technology advances, the demand for drivers may decrease in the long term. However, since full autonomy requires time, labor demand will persist for now.
-
 Starting with general cargo truck driving, one can obtain special licenses (e.g., hazardous materials, oversized loads) to become a professional driver, or transition to self-employment by owning a vehicle.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Starting with general cargo truck driving, one can obtain special licenses (e.g.
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Truck driving is an E-9 eligible occupation, allowing foreign worker employment |
-| Subclass E-7-1 (E-7 (Specific Activities)) | Possible when professional skills like special vehicle driving are required |
-| Subclass F-2-99 (Residence (F-2) Point System) | A preliminary visa to permanent residence when certain points are met |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: You can move from general driving to special vehicle (hazardous materials, ex
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/truck-and-special-vehicle-driver/KR)**

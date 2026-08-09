@@ -53,8 +53,6 @@ DevOps engineers are in high demand in New Zealand, responsible for CI/CD pipeli
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-DevOps engineer core skills (CI/CD, container orchestration, infrastructure as code) face AI automation risks, but AI also greatly improves configuration troubleshooting efficiency; low-end ops roles shrink, demand for senior architects surges, requiring evolution toward platform engineering or AI ops.
-
 Junior can advance to senior DevOps engineer, cloud architect, or DevOps manager; can also transition to SRE, platform engineering, etc. Requires continuous learning of tools like Kubernetes and Terraform.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior can advance to senior DevOps engineer, cloud architect, or DevOps manager
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, common bridging visa, requires employer accreditation and meeting salary threshold. |
 | Subclass Green List T2 (Work to Residence) | Work-to-residence: after working as a DevOps Engineer for 2 years and meeting the median salary, you can apply, but T1 is more direct. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Junior annual salary 70,000-95,000 NZD; mid-level 95,000-130,000 NZD; senior 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-developers-and-programmers-nec/NZ)**

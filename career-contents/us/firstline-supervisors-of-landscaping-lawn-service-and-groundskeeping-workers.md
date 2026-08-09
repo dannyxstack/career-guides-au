@@ -52,8 +52,6 @@ Directly supervise and coordinate workers engaged in landscaping or grounds main
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Usually progress from gardener or groundskeeper roles; with experience, can advance to landscaping manager or operations director, or start their own landscaping company.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually progress from gardener or groundskeeper roles; with experience, can adva
 | Subclass EB-3 (Employment-Based Third Preference) | Applies to skilled workers or professionals, requires PERM labor certification. |
 | Subclass TN (TN NAFTA Professional) | Available for certain occupations for Canadian or Mexican citizens, but supervisory roles are less common. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually a high school diploma is sufficient, but an associate degree or relev
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-landscaping-lawn-service-and-groundskeeping-workers/US)**

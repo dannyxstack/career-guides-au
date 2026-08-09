@@ -51,8 +51,6 @@ Plasterers mainly perform internal and external wall plastering, plasterboard in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks heavily rely on on-site physical operations and fine manual work, leaving limited room for direct AI replacement; however, automated bricklaying machines and BIM technology have begun to compress routine wall construction tasks, intensifying competition for entry-level positions.
-
 Start as a general plasterer, advance to senior technician, foreman, or start your own business, or transition to specialized fields like building restoration.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Start as a general plasterer, advance to senior technician, foreman, or start yo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU skilled workers, with annual quota limits, requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled workers; plasterers usually do not meet the salary threshold, but senior technicians may qualify. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Proficiency in plastering, drywall installation, and tool use is required, ty
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/IT)**

@@ -52,8 +52,6 @@ Medical laboratory technicians perform diagnostic tests in New Zealand healthcar
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical and clinical laboratory technicians face pressure from AI automating some tasks (e.g., routine test analysis), but AI also enhances data processing and precision medicine; humans still need complex judgment and QC, making the career outlook mixed.
-
 Junior technicians can advance to senior technician, lab supervisor, or quality manager, or specialize in areas like hematology or microbiology. After obtaining NZIMLS certification, career paths broaden, with some moving into research, education, or pathology lab management.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior technicians can advance to senior technician, lab supervisor, or quality 
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category, 6-point system, eligible based on qualifications, work experience, and salary requirements; green list occupations receive extra points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for those with a job offer but not yet eligible for direct residence; can transition to permanent residency after working. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must pass NZIMLS qualification assessment, may require supplementary courses 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-laboratory-technician/NZ)**

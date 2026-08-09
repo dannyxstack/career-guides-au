@@ -53,8 +53,6 @@ Assist plumbers, pipefitters, steamfitters, or pipe layers with basic tasks like
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Reinforcing ironworkers in Canada face high structural compression risk; AI-driven automation (e.g., robotic tying, BIM optimization) will reduce repetitive manual demand, but on-site flexible operation remains key to safety.
-
 Through on-the-job learning and apprenticeship programs, can advance to skilled trades such as plumber or pipefitter, and with experience, become a foreman or independent contractor.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Through on-the-job learning and apprenticeship programs, can advance to skilled 
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree and is not a professional occupation. |
 | Subclass EB-3 (Employment-Based Immigration: Third Preference (EB-3)) | Theoretically applicable but requires labor certification and employer sponsorship; rarely used for this low-skilled position in practice. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Unsuitable. This role typically does not meet H-1B specialty occupation requi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helperspipelayers-plumbers-pipefitters-and-steamfitters/US)**

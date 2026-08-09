@@ -1,10 +1,8 @@
-# Navigator / Watchkeeping Officer 职业分析 · 日本
+# 驾驶员/值班员（Navigator / Watchkeeping Officer）职业分析 · 日本
 
-**职业代码: 622 (JSCO)**
+**职业代码：622 (JSCO)**
 
-Licensed maritime professional responsible for voyage planning, ship handling, and safety monitoring. Works on the bridge of merchant or passenger vessels.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+持证海事专业人员，负责航次规划、船舶操作和安全监控。在商船或客船驾驶台工作。
 
 
 ---
@@ -13,8 +11,8 @@ Licensed maritime professional responsible for voyage planning, ship handling, a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Maritime College (Undergraduate) | 2 年 | $1,500,000~$2,000,000（Entrance and tuition fees. Public institution, relatively affordable.） |
-| Merchant Marine Polytechnic College | 5年 | $2,500,000~$3,500,000（5-year integrated program. Dormitory fees separate.） |
+| 国家海事学院（本科） | 2 年 | $1,500,000~$2,000,000（入学费和学费，公立机构，相对实惠。） |
+| 商船高等专科学校 | 5年 | $2,500,000~$3,500,000（5年综合课程。宿舍费另计。） |
 
 ---
 
@@ -22,18 +20,18 @@ Licensed maritime professional responsible for voyage planning, ship handling, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 1st Class Navigator (Deck) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for captain/navigator on large vessels. Written, oral, and practical exams. |
-| 2nd Class Navigator (Deck) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Navigator license for medium vessels. Entry-level. |
-| 3rd Class Navigator (Deck) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for small vessels or assistant roles. |
+| 一级驾驶员（甲板） | 国土交通省 | 必备 | 大型船舶船长/领航员所需。包括笔试、口试和实践考试。 |
+| 二级航海员（甲板） | 国土交通省 | 必备 | 中型船舶领航员执照。初级。 |
+| 三级航海员（甲板） | 国土交通省 | 必备 | 小型船只或辅助岗位需要。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 27,000. Shipping industry faces severe labor shortages, especially in coastal shipping where over 50% of crew are aged 50+. Strong demand for younger workers. Automation is progressing but cannot immediately replace due to regulations and safety requirements.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 27,000。航运业面临严重劳动力短缺，尤其是沿海航运，50%以上船员年龄超过50岁，对年轻劳动力需求强烈。自动化虽在推进，但因法规和安全要求无法立即替代。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,83 @@ Licensed maritime professional responsible for voyage planning, ship handling, a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$4,500,000 | Separate sea-duty allowance. Free meals onboard. |
-| Mid-level (4-9 years) | $5,000,000~$7,000,000 | After obtaining 2nd Class Navigator license. Includes shore duties. |
-| 资深（10年以上） | $8,000,000~$12,000,000 | 1st Class Navigator or Captain level. Higher for ocean-going vessels. |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 单独的海上津贴。船上免费餐食。 |
+| 中级（4-9年） | $5,000,000~$7,000,000 | 取得二级驾驶员执照后。包括岸上职责。 |
+| 资深（10年以上） | $8,000,000~$12,000,000 | 一级领航员或船长级别。远洋船舶更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Autonomous ships and AI route optimization are developing, but complex decisions and emergency responses rely on humans. AI complements navigators' duties, enhancing safety; no full replacement anytime soon.
+自主船舶和AI路线优化正在发展，但复杂决策和应急响应依赖人类。AI补充导航员职责，提升安全性；短期内不会完全替代。
 
-Career progression: Junior Navigator → 3rd Officer → 2nd Officer → Chief Officer. Further to Captain or shore-based roles (operations management, inspection).
+职业发展路径：初级领航员→三副→二副→大副，进一步晋升为船长或岸基职位（运营管理、检验）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular watchkeeping (night monitoring)
-- Data entry and report creation
+- 定期值班（夜间监控）
+- 数据录入和报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Weather and sea condition data analysis
-- Decision support for collision avoidance systems
-- Integration with engine monitoring
+- 天气和海况数据分析
+- 碰撞规避系统的决策支持
+- 与发动机监控集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency maneuvering decisions
-- Safety management of crew
-- Knowledge of regulations and port conditions
-- Handling human factors
+- 紧急机动决策
+- 船员安全管理
+- 法规和港口条件知识
+- 处理人为因素
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Autonomous navigation system operation
+- 自主导航系统操作
 - 数据分析和解释
-- Risk assessment
-- English communication
+- 风险评估
+- 英语沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Maritime transport
-- Autonomous ships
-- Remote ship operation
-- Maritime safety
+- 海上运输
+- 自主船舶
+- 远程船舶操作
+- 海上安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible if foreign maritime license holders are employed by Japanese shipping companies, but compatibility with national qualifications must be confirmed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as outside target fields. |
-| Subclass 技能実習 (Technical Intern Training) | Navigators are not eligible for Technical Intern Training. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love the sea and ships
-- People who are disciplined and have a strong sense of responsibility
-- People who can endure isolated environments
+- 热爱海洋和船舶的人
+- 自律且责任心强的人
+- 能够忍受孤立环境的人
 
 **谁不适合**
-- People prone to seasickness
-- People who find it difficult to be away from home for long periods
+- 容易晕船的人
+- 难长期离家的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a navigator?**
-答：Starting salary is about 3.5-4.5 million yen; with 10+ years of experience, it's around 8-12 million yen. Foreign ship captains earn even more.
+**问：航海员的年收入是多少？**
+答：起薪约350-450万日元；10年以上经验者约800-1200万日元。外国船长收入更高。
 
-**问：How can a foreigner become a navigator in Japan?**
-答：Requires Japanese maritime certificate; limited compatibility with foreign licenses. Some employed on Engineer/Specialist in Humanities/International Services visa, but work is very difficult.
+**问：外国人如何成为日本的航海士？**
+答：需要日本海事证书；与外国执照的兼容性有限。部分人持工程师/人文知识/国际服务签证受雇，但工作非常困难。
 
 
 ---
@@ -143,12 +133,12 @@ Career progression: Junior Navigator → 3rd Officer → 2nd Officer → Chief O
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/navigator-watchkeeping-officer/JP)**

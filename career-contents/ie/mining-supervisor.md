@@ -52,8 +52,6 @@ Supervise mining operations to ensure safety, efficiency and regulatory complian
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-About 40% of mining supervisor duties can be optimized by AI but not fully replaced; safety oversight and team management remain core defenses, with mixed implications.
-
 You can progress from mining operator to supervisor, then to mining manager or regional operations manager. Requires experience and relevant qualifications.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ You can progress from mining operator to supervisor, then to mining manager or r
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually start as mining operators, gain experience, and obtain relevant certi
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-supervisor/IE)**

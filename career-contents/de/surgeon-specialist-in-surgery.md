@@ -54,8 +54,6 @@ Surgical specialists diagnose and treat diseases and injuries requiring surgery,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-As a high-risk, high-skill profession, AI mainly enhances but does not replace surgeons' capabilities, assisting in preoperative planning and image analysis, while core surgical operations and responsibilities remain with humans.
-
 After completing medical studies and specialist training, can become an Attending Physician (Oberarzt), then advance to Chief Physician (Chefarzt). Alternatively, can pursue research or medical education, or open a private practice.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ After completing medical studies and specialist training, can become an Attendin
 | Subclass Skilled Worker (Skilled Worker Visa (Beschäftigungsduldung)) | Regulated occupations require accreditation; after certification, a work visa can be applied for |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to seek employment, requiring proof of progress in credential recognition. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Third-country doctors must have their medical degree recognised (Anerkennung)
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgeon-specialist-in-surgery/DE)**

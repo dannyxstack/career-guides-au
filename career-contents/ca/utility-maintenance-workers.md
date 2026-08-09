@@ -53,8 +53,6 @@ Responsible for maintaining and repairing utility systems such as water supply, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
-
 Can advance from general worker to technician or supervisor through apprenticeships or certifications; some may move into municipal engineering management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from general worker to technician or supervisor through apprenticesh
 | Subclass PNP (Provincial Nominee Program) | Many provinces such as Ontario and British Columbia have demand, with nomination leading to fast permanent residence. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support a work visa, then transition to permanent residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to team leader, site supervisor, or become a municipal engineer t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/utility-maintenance-workers/CA)**

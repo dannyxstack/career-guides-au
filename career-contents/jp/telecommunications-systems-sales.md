@@ -50,8 +50,6 @@ Sales role proposing and selling telecommunications services and system solution
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-With the introduction of AI and data analysis tools, prospecting and proposal creation are automated, reducing routine sales tasks. Meanwhile, consulting and closing that require human discretion remain.
-
 Career progression from route sales to consulting sales, with paths to solution architect or sales manager at major firms.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ Career progression from route sales to consulting sales, with paths to solution 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or over 10 years of sales experience |
-| Subclass 特定技能1号（情報） (Specified Skilled Worker (i)) | Not applicable (sales is outside SSW scope) |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +133,12 @@ A: Possible, but IT knowledge or sales experience is advantageous. Hiring is typ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-systems-sales/JP)**

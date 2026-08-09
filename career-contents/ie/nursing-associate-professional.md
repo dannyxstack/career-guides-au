@@ -53,8 +53,6 @@ Enrolled nurses provide daily care and support under the direction of registered
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nursing associate professionals is mixed: some clerical and monitoring tasks will be automated, but core care, patient communication, and clinical judgment remain highly human-dependent, with demand rising due to an aging population.
-
 Can advance from entry-level care assistant to senior care paraprofessional, team supervisor, or become a registered nurse through further study (requiring a bachelor's degree). Some transition to community care, aged care management, or specialist care.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from entry-level care assistant to senior care paraprofessional, tea
 | Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations but requires a labour market test. Annual salary generally needs to be ≥30,000 euros, with possible extension. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to higher education degrees with an annual salary ≥ €39,508 (2024 standard); nursing paraprofessionals often find it difficult to reach this salary. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. You can become a registered nurse, specialist nurse, or nursing manager 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-associate-professional/IE)**

@@ -1,10 +1,8 @@
-# Head Chef 职业分析 · 韩国
+# 行政总厨（Head Chef）职业分析 · 韩国
 
-**职业代码: 53111 (KECO)**
+**职业代码：53111 (KECO)**
 
-A profession responsible for menu planning, cooking supervision, and kitchen management in restaurants or hotels, ensuring food quality and hygiene.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责在餐厅或酒店进行菜单规划、烹饪监督和厨房管理的职业，确保食品质量和卫生。
 
 
 ---
@@ -13,8 +11,8 @@ A profession responsible for menu planning, cooking supervision, and kitchen man
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Culinary Arts (Junior College) | 2 年 | $10,000,000~$20,000,000（Public (National/Public) college tuition） |
-| Culinary Arts (4-Year University) | 4年 | $20,000,000~$40,000,000（Private university tuition） |
+| 烹饪艺术（大专） | 2 年 | $10,000,000~$20,000,000（公立（国立/公立）大学学费） |
+| 烹饪艺术（四年制大学） | 4年 | $20,000,000~$40,000,000（私立大学学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession responsible for menu planning, cooking supervision, and kitchen man
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cook (Korean/Western/Chinese/Japanese) | Human Resources Development Service of Korea | 可选 | Not mandatory but additional points given |
-| Culinary Engineer | Human Resources Development Service of Korea | 可选 | Favorable for high-level head chef positions |
+| 厨师（韩餐/西餐/中餐/日餐） | 韩国人力资源开发服务局 | 可选 | 非强制性但会获得额外加分 |
+| 烹饪工程师 | 韩国人力资源开发服务局 | 可选 | 有利于高级主厨职位 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 180,000. Due to the growth and premiumization of the food service industry, demand for skilled head chefs remains steady, but employment growth is limited by labor cost burdens and automation.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 180,000。由于餐饮业的增长和高端化，对熟练主厨的需求保持稳定，但受劳动力成本和自动化限制，就业增长有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A profession responsible for menu planning, cooking supervision, and kitchen man
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Small/medium restaurant |
-| 中级（4-7年） | $32,000,000~$42,000,000 | Hotel/restaurant |
-| 高级（8年+） | $45,000,000~$70,000,000 | Luxury hotels/famous restaurants |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 中小型餐厅 |
+| 中级（4-7年） | $32,000,000~$42,000,000 | 酒店/餐厅 |
+| 高级（8年+） | $45,000,000~$70,000,000 | 豪华酒店/知名餐厅 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robots can replace simple repetitive tasks through cooking automation (e.g., robot chefs, automatic fryers), but creative menu development and overall kitchen management skills remain human domains. AI will act as a tool that amplifies the capabilities of head chefs.
+AI和机器人可以通过烹饪自动化（如机器人厨师、自动油炸锅）取代简单重复的任务，但创意菜单开发和整体厨房管理技能仍属于人类领域。AI将成为增强主厨能力的工具。
 
-Promotion path: Cook → Kitchen Section Chief → Head Chef → Executive Chef. In large hotels or franchises, experience and qualifications are important.
+晋升路径：厨师→厨房主管→主厨→行政总厨。在大型酒店或连锁店中，经验和资格很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Ingredient Preparation
-- Simple Cooking Processes (Frying, Boiling)
-- Inventory Record Management
+- 原料准备
+- 简单烹饪过程（煎、煮）
+- 库存记录管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Menu Recipe Development
-- Ingredient Order Optimization
-- Kitchen Hygiene Monitoring
+- 菜单配方开发
+- 配料订单优化
+- 厨房卫生监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Culinary Development
-- Team Leadership and Communication
-- Taste Evaluation and Quality Management
+- 创意烹饪开发
+- 团队领导与沟通
+- 品评与质量管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of Food Tech
-- Data Analysis
-- Smart Kitchen Operation
+- 对食品技术的理解
+- 数据分析
+- 智能厨房操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Food service industry
-- Globalization of Korean cuisine
-- Hotel Kitchen
-- Food Tech
+- 餐饮服务行业
+- 韩国料理全球化
+- 酒店厨房
+- 食品技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled cooks can work at specialized restaurants |
-| Subclass F-2 (F-2 (Residence)) | Free job change after long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and hygiene-conscious people
-- People with leadership and team-leading skills
-- People who stay calm under stress
+- 注重细节和卫生的人
+- 具备领导力和团队管理能力的人
+- 在压力下保持冷静的人
 
 **谁不适合**
-- People indifferent to hygiene
-- People who struggle with quick decisions and multitasking
+- 对卫生不在意的人
+- 不擅长快速决策和多任务处理的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a chef?**
-答：Depending on experience and workplace, entry-level: 24-30 million KRW, mid-level: 32-42 million KRW, senior: 45-70 million KRW.
+**问：厨师的平均工资是多少？**
+答：根据经验和工作场所，入门级：2400-3000万韩元，中级：3200-4200万韩元，高级：4500-7000万韩元。
 
-**问：What visa does a foreigner need to work as a chef?**
-答：You can work as a professional chef with an E-7 (Specific Activities) visa, requiring skilled experience.
+**问：外国人需要什么签证才能当厨师？**
+答：持有E-7（特定活动）签证可担任专业厨师，需要熟练经验。
 
-**问：What certifications are needed to become a chef?**
-答：A cooking technician certificate is advantageous; with experience, advanced certifications like cooking industry engineer can help with promotion.
+**问：成为厨师需要哪些认证？**
+答：烹饪技术证书有优势；有经验后，高级认证如烹饪行业工程师有助于晋升。
 
 
 ---
@@ -143,12 +134,12 @@ Promotion path: Cook → Kitchen Section Chief → Head Chef → Executive Chef.
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/head-chef/KR)**

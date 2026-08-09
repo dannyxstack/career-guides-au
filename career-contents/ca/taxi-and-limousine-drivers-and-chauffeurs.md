@@ -52,8 +52,6 @@ Responsible for driving taxis, limousines, or other hired vehicles to transport 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Taxi driving faces fundamental challenges from autonomous driving technology, but regulatory and safety hurdles of fully driverless operations in complex urban environments give human drivers a transition period. Meanwhile, AI dispatch, route optimisation and job-taking tools are boosting efficiency; drivers who actively leverage these tools can stay competitive during the transition.
-
 Most drivers work full-time or part-time; a few can advance to fleet supervisor or purchase their own vehicles to become owner-operators. Long-term, they can transition to transport dispatching or logistics management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Most drivers work full-time or part-time; a few can advance to fleet supervisor 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Requires a provincial driver's license (e.g., Ontario G class) and a municipa
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/taxi-and-limousine-drivers-and-chauffeurs/CA)**

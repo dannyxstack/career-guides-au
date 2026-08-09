@@ -51,8 +51,6 @@ Equipment operation specialists who control cranes or hoists to lift and move he
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI assists in some aspects of crane operation (route optimization, monitoring), but human roles such as on-site judgment and safety management are essential. Full automation is still far in the future.
-
 Starting at entry level, one can advance to operate large cranes after obtaining certification, or become a site manager.
 
 **Tasks most exposed to AI:**
@@ -89,17 +87,9 @@ Starting at entry level, one can advance to operate large cranes after obtaining
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Can assist in crane operations at construction sites as non-professional foreign worker, with restrictions |
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled crane operators, requires certification and experience |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage, allows long-term stay |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, no employment restrictions |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: Yes, they can. Precision operation is more important than physical strength, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-and-hoist-operators/KR)**

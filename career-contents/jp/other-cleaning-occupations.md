@@ -51,8 +51,6 @@ Engaged in cleaning buildings, facilities, roads, and other areas to maintain a 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Although automation through AI and robots progresses, humans will handle complex cleaning and interpersonal services. In particular, toilet cleaning and wiping down detailed areas are difficult to automate.
-
 Career paths include promotion to regular employee, team leader or site manager, managerial roles at cleaning companies, or independent business ownership. Career advancement possible through certification.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Career paths include promotion to regular employee, team leader or site manager,
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Max 5 years work possible by passing Japanese and skills tests |
-| Subclass 技能 (Skills (Building Cleaning)) | Obtainable with 10+ years experience, path to permanent residency |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For managerial/professional roles, requires university degree equivalent |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: Gain qualifications and field experience, then advance to management or start
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-cleaning-occupations/JP)**

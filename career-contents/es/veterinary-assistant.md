@@ -51,8 +51,6 @@ Assisting veterinarians with animal diagnosis, care, laboratory testing, and cli
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Veterinary assistants and laboratory animal caretakers face mixed impacts from AI/automation: repetitive cleaning, disinfection, data recording are easily replaced, but direct animal care, clinical observation, and emotional interaction requiring human empathy are hard to automate.
-
 You can advance from veterinary assistant to chief assistant or animal care technician, or through further training to become a veterinary technician or veterinarian.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can advance from veterinary assistant to chief assistant or animal care tech
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work residence) | A Spanish employer sponsorship is required, and the contract meets minimum wage requirements. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, veterinary assistants usually do not meet the salary threshold, but can apply under special circumstances. |
-| Subclass Busqueda empleo (Job seeking, residence, and residence) | After graduation, you can apply for a 12-month residence permit to look for work. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You need to complete the FP Grado Medio or Grado Superior vocational training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-assistant/ES)**

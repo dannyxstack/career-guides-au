@@ -53,8 +53,6 @@ Farmers and agricultural workers grow crops, fruit trees, and trees, and raise c
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Career progression from agricultural worker to farm manager or farm owner, or specializing in organic farming or agricultural technology. Some farmers move into consulting, agricultural education, or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression from agricultural worker to farm manager or farm owner, or sp
 | Subclass Temporary Worker (Temporary Worker – Seasonal Worker visa) | Temporary seasonal agricultural worker visa for short-term picking and planting |
 | Subclass Global Talent (Global Talent visa) | For individuals demonstrating exceptional talent in agricultural technology or research fields |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Start as an agricultural worker, gain experience and advance to farm supervis
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farmers/UK)**

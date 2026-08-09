@@ -4,8 +4,6 @@
 
 Japan's only audit and assurance exclusive license. Specializes in financial statement audits, tax, and consulting for listed companies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Japan's only audit and assurance exclusive license. Specializes in financial sta
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will enhance rather than replace the work of CPAs. Tools for audit data analysis, fraud detection, and automatic journal entries are introduced, allowing humans to focus on judgment and client communication.
-
 After 3–7 years at an audit firm, career advancement to independent practice, CFO, or M&A advisor. International skills are highly valued.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After 3–7 years at an audit firm, career advancement to independent practice, 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status utilizing accounting/auditing expertise. Allows work at audit firms or corporate accounting departments. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i), (ii), (iii)) | 70+ points under point system; CPAs get bonus for education/experience. Fastest path to permanent residency in 1 year. |
-| Subclass 経営・管理 (Business Manager) | Applies when opening own accounting firm. Requires business management track record. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Diverse options include CFO, accounting manager, M&A advisor, tax accountant,
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/certified-public-accountant-cpa/JP)**

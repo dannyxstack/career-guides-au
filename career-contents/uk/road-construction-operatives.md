@@ -52,8 +52,6 @@ Road construction operators build, repair, and maintain roads, lay paving bricks
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of road construction operators are not easily replaced by AI, but planning, monitoring, and documentation tasks will be enhanced by AI, while standardized construction may compress entry-level positions, requiring improved digital skills to maintain competitiveness.
-
 Usually start as a general laborer, progress to advanced tradesperson, foreman, or even project manager through on-the-job training and obtaining operating licenses (e.g., excavator, roller).
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as a general laborer, progress to advanced tradesperson, foreman, 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Very difficult. This occupation typically does not meet the education and sal
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-construction-operatives/UK)**

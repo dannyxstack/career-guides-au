@@ -53,8 +53,6 @@ Responsible for setting up, operating, or tending forging machines to hammer, sh
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Press and press setter, operator, and tender are at high risk of automation; AI and robots will reduce job numbers, especially for routine operation and monitoring tasks, but complex setup and fault handling still require humans.
-
 Can move up from operator to senior operator or supervisor, or shift to CNC programming or quality control.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can move up from operator to senior operator or supervisor, or shift to CNC prog
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as education requirements do not match |
 | Subclass EB-3 (EB-3 Skilled Workers) | Rarely employer-sponsored; must prove inability to hire local workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Not suitable. Usually does not meet H-1B specialty occupation requirements, a
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forging-machine-setters-operators-and-tenders-metal-and-plastic/US)**

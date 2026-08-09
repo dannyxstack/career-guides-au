@@ -53,8 +53,6 @@ Sheep farmers manage sheep farms, including feeding, breeding, health management
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Junior sheep farmers can start as assistants, gain experience to become farm managers overseeing larger pastures and teams. Some may become partners through land equity or transition to professional fields like agricultural consulting or wool grading.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior sheep farmers can start as assistants, gain experience to become farm man
 | Subclass SMC (Skilled Migrant Category) | Can apply based on relevant work experience and skilled migration, but must meet the 6-point system, with higher salary requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | As a bridging visa, allows work after obtaining a certified employer offer, then apply for residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Includes early morning grazing, checking flock health, assisting with lambing
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheep-farmer/NZ)**

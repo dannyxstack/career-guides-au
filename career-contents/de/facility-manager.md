@@ -55,8 +55,6 @@ Facility management manager is responsible for the operation, maintenance, and o
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Facility management manager role is affected by AI hybrid: automation takes over data monitoring and reporting, but complex fault handling and interpersonal coordination remain a human moat; entry-level roles face increased competition due to remote monitoring tools, but senior roles increase in value.
-
 Career paths include starting as a technician or junior manager, advancing to senior facilities manager, regional facilities director, or transitioning to consulting, energy management, and other specialized fields. Larger companies offer more promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career paths include starting as a technician or junior manager, advancing to se
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to applicants with recognized German vocational qualifications or dual-system training |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, launched after 2024 |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can start as a technician or junior manager, advance to senior manager, regio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/facility-manager/DE)**

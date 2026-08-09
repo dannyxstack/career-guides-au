@@ -52,8 +52,6 @@ Operate machines, monitor production processes, handle raw materials and finishe
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-paper and pulp mill workers face automation compression risks, especially in repetitive tasks like monitoring and quality inspection; however, AI-enhanced skills such as equipment maintenance and process optimization can improve efficiency and create new roles, with mixed overall impact.
-
 Junior workers can advance to senior operator, team leader, or quality inspector roles, with some transitioning to maintenance or management positions. They need to accumulate experience and obtain relevant operation certificates (e.g., forklift license). Industry transformation or moving to other manufacturing sectors.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior workers can advance to senior operator, team leader, or quality inspector
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: The industry is small with limited positions, affected by automation, and few
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-and-pulp-mill-worker/NZ)**

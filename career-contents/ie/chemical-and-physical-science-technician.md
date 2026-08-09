@@ -51,8 +51,6 @@ In Ireland, chemical and physical science technicians support scientific researc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The overall impact of AI on chemical and physical science technician roles is mixed: routine laboratory operations and data processing will be automated, but AI enhances skills in instrument maintenance, complex experimental design, and innovative research, requiring practitioners to upgrade to advanced analysis and technical management.
-
 Can progress from junior technician to senior technician or laboratory supervisor, or become a research scientist or quality assurance specialist through further study, with a clear career path.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior technician to senior technician or laboratory superviso
 | Subclass General Employment P (General Employment Permit) | If not on the shortage list, can apply but requires labor market testing |
 | Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled positions, can apply if income meets requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires advanced certificate or relevant degree, such as a bachelo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-and-physical-science-technician/IE)**

@@ -1,10 +1,8 @@
-# Urban Planner/Designer 职业分析 · 韩国
+# 城市规划师/设计师（Urban Planner/Designer）职业分析 · 韩国
 
-**职业代码: 14051 (KECO)**
+**职业代码：14051 (KECO)**
 
-A professional who establishes long-term development plans for cities and comprehensively designs land use, transportation, environment, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为城市制定长期发展规划，并综合设计土地利用、交通、环境等方面的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who establishes long-term development plans for cities and compre
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's Degree in Urban Engineering | 4年 | $40,000,000~$60,000,000（Tuition based on national universities; private universities are more than double） |
-| Master's Degree in Urban Planning | 2 年 | $20,000,000~$30,000,000（Graduate school tuition, scholarships available） |
+| 城市工程学士学位 | 4年 | $40,000,000~$60,000,000（学费参照国立大学；私立大学费用超过两倍） |
+| 城市规划硕士学位 | 2 年 | $20,000,000~$30,000,000（研究生学费，提供奖学金） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who establishes long-term development plans for cities and compre
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Urban Planning Professional Engineer | Human Resources Development Service of Korea | 必备 | Required for advanced engineering and management positions |
-| National·Urban Planning Expert | Ministry of Land, Infrastructure and Transport | 必备 | Essential qualification for establishing business plans |
-| Urban Planning Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
+| 城市规划专业工程师 | 韩国人力资源开发服务局 | 必备 | 高级工程和管理职位所需 |
+| 国家·城市规划专家 | 国土交通省 | 必备 | 制定商业计划的基本资格 |
+| 城市规划工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. Although new town development is declining due to low birth rates and aging population, demand for urban regeneration, smart cities, and climate change response is increasing, so employment is expected to be maintained.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。尽管由于低出生率和人口老龄化，新城开发正在减少，但对城市更新、智慧城市和气候变化应对的需求增加，因此就业预计将得以维持。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A professional who establishes long-term development plans for cities and compre
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $35,000,000~$45,000,000 | Based on new hires at public enterprises and engineering firms |
-| Mid-level (5–10 years) | $50,000,000~$70,000,000 | Additional increase with professional engineer license |
-| Senior Level (10+ years) | $70,000,000~$99,999,999 | Professional engineer, PM manager level |
+| 入门级（0–3年） | $35,000,000~$45,000,000 | 基于公共企业和工程公司的新员工招聘情况 |
+| 中级（5-10年） | $50,000,000~$70,000,000 | 持有专业工程师执照可额外增加 |
+| 高级（10年以上） | $70,000,000~$99,999,999 | 专业工程师、项目经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used as an auxiliary tool in data analysis and simulation, but urban planning relies on social consensus, policy judgment, and legal grounds, making automation difficult. AI enhances productivity but does not replace human decision-making.
+AI在数据分析和模拟中作为辅助工具，但城市规划依赖社会共识、政策判断和法律依据，难以自动化。AI提升生产力但不替代人工决策。
 
-After graduating from graduate school, they typically join public enterprises, engineering firms, or policy research institutes. After obtaining a professional engineer license, they are promoted to manager positions, or they start a business or become a university professor.
+研究生毕业后，通常进入公共企业、工程公司或政策研究所。获得专业工程师执照后，晋升为经理职位，或创业成为大学教授。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data research and data organization
-- Basic statistical analysis and report writing
+- 数据研究与数据整理
+- 基础统计分析与报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Land use simulation
-- Traffic flow prediction
-- Environmental impact analysis
+- 土地利用模拟
+- 交通流量预测
+- 环境影响分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to interpret laws and regulations
-- Stakeholder coordination and negotiation
-- Comprehensive spatial judgment
+- 解读法律法规的能力
+- 利益相关者协调与谈判
+- 综合空间判断能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Spatial analysis (GIS)
-- Data analysis (Python, R)
-- Policy evaluation methodology
+- 空间分析（GIS）
+- 数据分析（Python, R）
+- 政策评估方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban regeneration
-- Smart city
-- Climate change adaptation
-- Public infrastructure
+- 城市更新
+- 智慧城市
+- 气候变化适应
+- 公共基础设施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for urban planning as a professional, needs employment contract |
-| Subclass F-2 (Residence) | Convertible to points system, advantageous for long-term stay |
-| Subclass F-5 (Permanent Residence) | Can apply after residing for a set period, no employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with insight into urban space
-- Person who understands and follows laws and administrative procedures
-- Person who collaborates well with various experts
+- 对城市空间有洞察力的人
+- 理解并遵守法律和行政程序的人
+- 善于与各类专家协作的人
 
 **谁不适合**
-- Person who wants immediate results
-- Person who prefers working alone
+- 追求即时结果的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an urban planner?**
-答：Entry-level 35~45 million won, mid-level 50~70 million won, over 100 million won with professional certification.
+**问：城市规划师的平均工资是多少？**
+答：入门级3500~4500万韩元，中级5000~7000万韩元，获得专业认证后超过1亿韩元。
 
-**问：Can a foreigner work as an urban planner in Korea?**
-答：Possible. Hiring professional personnel under an E-7 visa is required, and Korean language ability and relevant degree/experience are needed.
+**问：外国人可以在韩国担任城市规划师吗？**
+答：可能。需要以E-7签证聘用专业人员，且需具备韩语能力和相关学位/经验。
 
-**问：What is the minimum education required for this job?**
-答：A bachelor's degree in urban engineering, regional development, or related fields is typical, and a master's degree or higher is advantageous for becoming a professional engineer.
+**问：这份工作的最低学历要求是什么？**
+答：通常需城市工程、区域发展或相关领域学士学位，硕士或以上学历对成为专业工程师有利。
 
 
 ---
@@ -144,12 +134,12 @@ After graduating from graduate school, they typically join public enterprises, e
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/urban-planner-designer/KR)**

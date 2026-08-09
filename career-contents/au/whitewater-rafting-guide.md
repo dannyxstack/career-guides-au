@@ -54,8 +54,6 @@ A whitewater rafting guide leads tourists on rafting activities, ensuring safety
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Whitewater rafting guides face partial AI impact: automation of bookings and documentation, but core safety and on-site judgment are hard to replace. Entry-level jobs tighten slightly due to AI improving operational efficiency, but experience-oriented demand remains.
-
 Entry-level guides can gain experience and advance to senior guide, team leader or trainer, or move into outdoor tourism management, run a rafting company, or expand to other adventure tourism fields.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level guides can gain experience and advance to senior guide, team leader 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: This occupation is not on the skilled migration occupation list, so it cannot
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/whitewater-rafting-guide/AU)**

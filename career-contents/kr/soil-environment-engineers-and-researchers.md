@@ -51,8 +51,6 @@ Professionals who investigate and analyze soil and groundwater contamination, re
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies enhance work efficiency in data analysis, modeling, monitoring, etc., but areas requiring human expertise such as field surveys, sampling, and legal judgment remain important. AI is used as a supplementary tool, and jobs will not be fully replaced.
-
 Typically, those with master's or doctoral degrees find employment at research institutes, environmental consulting firms, and government-funded research organizations. After gaining experience, they can advance to principal researcher, team leader, or technical director.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Typically, those with master's or doctoral degrees find employment at research i
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Able to perform soil environment-related research and technical work as environmental specialist. Must meet degree and experience requirements. |
-| Subclass D-10 (Job Seeking) | Job-seeking visa. Holders of bachelor's degree or higher can stay for employment purposes; later eligible for E-7 conversion. |
-| Subclass F-2 (Residence) | Residence visa. Allows long-term stay and free job-seeking. Prerequisite for permanent residence. |
-| Subclass F-5 (Permanent Residence) | Permanent residence status. No restrictions on stay or employment. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: Environmental consulting firms, pollution cleanup companies, government-affil
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/soil-environment-engineers-and-researchers/KR)**

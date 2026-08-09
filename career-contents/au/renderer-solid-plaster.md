@@ -52,8 +52,6 @@ Solid plasterers apply cement, lime, or gypsum-based materials to interior and e
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Solid plastering is a physically demanding manual occupation; the risk of full AI replacement is low, but automated tools will reshape some auxiliary tasks. Meanwhile, AI enhances design, estimation, and quality inspection, improving efficiency. Overall, it's a mixed outlook.
-
 Practitioners can progress from general plasterer to foreman, project manager, or start their own contracting business. With experience, they can specialize in decorative plastering, restoring historic buildings, or training new staff; some eventually become partners in construction companies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Practitioners can progress from general plasterer to foreman, project manager, o
 | Subclass 189 (Skilled Independent Visa) | Skilled Independent visa (permanent), requires occupation on the MLTSSL and sufficient EOI score. |
 | Subclass 190 (Skilled Nominated Visa) | A state-sponsored permanent residence visa requires nomination by an Australian state or territory government. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Work mainly indoors and outdoors on construction sites, may be exposed to dus
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/renderer-solid-plaster/AU)**

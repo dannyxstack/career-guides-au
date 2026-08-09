@@ -51,8 +51,6 @@ Responsible for loading, unloading, moving, and organizing goods manually or usi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Goods handlers will be significantly impacted by automation and AI, with many physical handling and simple sorting tasks replaced by robots and self-driving forklifts. Entry-level positions are reduced, but demand for skills like equipment operation and scheduling increases.
-
 Can be promoted from basic handler to team leader or warehouse coordinator, some transition through training to forklift driver or logistics planner.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Can be promoted from basic handler to team leader or warehouse coordinator, some
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable for skilled workers earning above the threshold (approx. €5,331/month in 2024), but freight workers typically do not meet this |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and high salary; freight workers rarely meet the conditions. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International students who graduated in the Netherlands get a one-year job search visa, can work any job including freight handler. |
-| Subclass EU Free Movement (EU Free Movement) | EU/EEA citizens can work in the Netherlands freely without additional visas |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Can progress from laborer to forklift driver, warehouse supervisor, or logist
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-handler/NL)**

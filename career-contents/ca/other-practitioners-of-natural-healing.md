@@ -54,8 +54,6 @@ In Canada, complementary health therapists provide non-traditional therapies suc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Complementary health therapists face AI replacement risk; administrative and diagnostic support tasks can be automated, but personalized treatment and patient trust provide a strong moat.
-
 Career development paths include progressing from assistant therapist to independent practitioner or opening your own clinic. By obtaining advanced certifications (e.g., acupuncture specialty) or expanding service scope (e.g., integrating nutrition counseling), you can increase income and client base.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development paths include progressing from assistant therapist to indepen
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer |
 | Subclass Self-employed (Self-Employed Persons Program) | Only applicable to cultural/sports/farming categories; complementary health therapists are usually ineligible, not considered for now |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Overseas qualifications require ECA certification and a provincial practice l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-practitioners-of-natural-healing/CA)**

@@ -52,8 +52,6 @@ Telecommunications network planners design, optimize, and manage New Zealand's t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The tasks of telecommunications network planners are both enhanced by AI (e.g., data optimization) and at risk of partial substitution, but core decision-making and physical network planning still rely on humans; overall impact is mixed.
-
 Can start as a junior network engineer and gradually advance to senior planner or project manager. Accumulating experience allows transition to architect or management roles, and expansion into cloud computing or cybersecurity.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Can start as a junior network engineer and gradually advance to senior planner o
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, can apply based on qualifications + work experience + salary, requires EOI points test |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, requires accredited employer, meets salary threshold, can lead to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: High demand, especially driven by 5G deployment and fiber upgrade projects, w
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-network-planner/NZ)**

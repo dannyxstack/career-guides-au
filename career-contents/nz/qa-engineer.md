@@ -53,8 +53,6 @@ Test engineers in IT handle quality assurance, demand stable; can migrate to New
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on test engineer roles is mixed: Repetitive tasks like automated test script writing and regression testing are easily replaced by AI, but AI also significantly improves test coverage and efficiency, while new directions like AI testing and model evaluation create new opportunities.
-
 Shift from manual testing to automation testing; can advance to senior QA, test manager, or quality architect. Accumulating automation experience significantly boosts salary and immigration opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Shift from manual testing to automation testing; can advance to senior QA, test 
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can progress from manual testing to automated testing, performance testing, t
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/qa-engineer/NZ)**

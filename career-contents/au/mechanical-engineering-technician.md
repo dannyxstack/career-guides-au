@@ -52,8 +52,6 @@ Assist mechanical engineers in designing, testing, and manufacturing mechanical 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Routine design, documentation, and testing tasks for mechanical engineering technicians will be largely automated by AI tools, but on-site problem solving, cross-team coordination, and innovative design still rely on humans—the role is a mixed bag overall.
-
 Can progress from junior technician to senior technician or team supervisor; by accumulating experience and further study in an engineering bachelor's degree, can transition to mechanical engineer or project engineer, with significantly increased salary and responsibilities.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior technician to senior technician or team supervisor; by 
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional provisional visa, transitioning to 191 permanent residence after 5 years, occupation must be on the relevant list |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires TRT or DE pathway; occupation must be on MLTSSL |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes. By pursuing a bachelor's degree in engineering and accumulating experien
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-technician/AU)**

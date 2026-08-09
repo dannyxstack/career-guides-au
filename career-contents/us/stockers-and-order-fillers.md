@@ -54,8 +54,6 @@ Responsible for receiving, storing, and distributing goods, materials, and equip
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Inventory managers and order pickers face high risk of automation; AI and robots will significantly replace repetitive picking, counting, etc., reducing entry-level positions, but technical maintenance and exception handling roles remain in demand.
-
 Typically start as order picker or warehouse assistant, can advance to warehouse supervisor, inventory control specialist, or logistics coordinator. Experience can lead to supply chain or operations management. Large retail or distribution companies offer internal advancement paths.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Typically start as order picker or warehouse assistant, can advance to warehouse
 | Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Theoretically, can apply for a labor certification (PERM), but usually requires the employer to prove inability to hire U.S. workers; difficult. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Can apply via EB-3 Non-skilled category, but with long waiting periods and employer sponsorship challenges. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not suitable. This occupation typically does not meet H-1B professional requi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stockers-and-order-fillers/US)**

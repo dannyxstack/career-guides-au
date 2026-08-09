@@ -52,8 +52,6 @@ Dietitians and nutritionists plan and implement food service or nutrition progra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Career path: Registered Dietitian Nutritionist (RDN) → Clinical Nutrition Specialist/Nutrition Services Supervisor → Regional Nutrition Manager/Public Health Nutrition Director. Can also move toward sports nutrition, research, or entrepreneurship. A master's degree and specialty certification aid advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Registered Dietitian Nutritionist (RDN) → Clinical Nutrition Spec
 | Subclass EB-2 (Employment-Based Second Preference) | Suitable for master's degree or above or exceptional ability, requires PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent green card process, requiring proof that no qualified US worker can be found. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a bachelor's degree in nutrition or related field from an ACEND-accr
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitians-and-nutritionists/US)**

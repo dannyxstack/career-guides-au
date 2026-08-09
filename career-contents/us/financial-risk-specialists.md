@@ -52,8 +52,6 @@ Analyze and measure threats to an organization's assets, profitability, or econo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Career path: Junior Risk Analyst → Senior Risk Specialist → Risk Management Manager → Chief Risk Officer (CRO). Can pivot to quantitative analysis, compliance, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Junior Risk Analyst → Senior Risk Specialist → Risk Management 
 | Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher, or exceptional ability; usually requires PERM |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or below; process is relatively long. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: FRM (Financial Risk Manager) is most directly relevant; CFA and PRM are also 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-risk-specialists/US)**

@@ -4,8 +4,6 @@
 
 Responsible for overseeing the daily operations of wood processing, pulp, and paper production lines to ensure production efficiency, quality control, and worker safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for overseeing the daily operations of wood processing, pulp, and pa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of wood and paper industry executives will be partially automated by AI, especially in quality monitoring and scheduling, but site management, safety oversight, and complex decision-making will still rely on humans. Overall, risks are moderate, with both opportunities and challenges coexisting.
-
 You can be promoted from production line operator to supervisor, and then to plant manager or production director. Continuous learning about automation technologies and lean management benefits career development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from production line operator to supervisor, and then to pla
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | For employed work residence sponsored by a Spanish employer, it is necessary to prove that the position is difficult to fill locally. |
-| Subclass Busqueda empleo (Job Search Visa) | Graduates with higher education or vocational training are allowed to stay in Spain for 12 months to look for work. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Typically, advanced vocational training (FP Grado Superior) or a related majo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-of-wood-and-paper-industries/ES)**

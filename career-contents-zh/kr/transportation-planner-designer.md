@@ -1,10 +1,8 @@
-# Transportation Planner/Designer 职业分析 · 韩国
+# 交通规划师/设计师（Transportation Planner/Designer）职业分析 · 韩国
 
-**职业代码: 14052 (KECO)**
+**职业代码：14052 (KECO)**
 
-A professional responsible for planning and designing transportation infrastructure such as roads, railways, and airports, conducting traffic system analysis and optimal route design.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责规划和设计道路、铁路、机场等交通基础设施的专业人员，进行交通系统分析和最优路线设计。
 
 
 ---
@@ -13,8 +11,8 @@ A professional responsible for planning and designing transportation infrastruct
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $2,000,000~$4,000,000（Based on national university standards） |
-| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（Engineering fields at 4-year universities） |
+| 副学士学位 | 2 年 | $2,000,000~$4,000,000（基于国立大学标准） |
+| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（四年制大学工程领域） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional responsible for planning and designing transportation infrastruct
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Roads and Airports | Human Resources Development Service of Korea | 可选 | Essential certification in transportation planning |
-| Engineer in Transportation | Human Resources Development Service of Korea | 可选 | Recommended as a practical qualification |
+| 道路与机场专业工程师 | 韩国人力资源开发服务局 | 可选 | 交通规划必备认证 |
+| 交通运输工程师 | 韩国人力资源开发服务局 | 可选 | 推荐作为实用资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 8,000. In Korea, continuous investment in transportation infrastructure and the introduction of smart transportation systems ensure stable employment, and demand for skilled personnel is expected to remain steady due to the need for expertise.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 8,000。在韩国，交通基础设施的持续投资和智能交通系统的引入确保了稳定就业，由于对专业人才的需求，熟练人员的需求将保持稳定。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A professional responsible for planning and designing transportation infrastruct
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $32,000,000~$38,000,000 | Based on large corporations/public companies |
-| Mid-level (4-9 years) | $40,000,000~$55,000,000 | Varies with experience |
-| Senior-level (10+ years) | $60,000,000~$80,000,000 | Increases with professional engineer certification |
+| 入门级（0-3年） | $32,000,000~$38,000,000 | 基于大型企业/上市公司 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 视经验而定 |
+| 高级（10年以上经验） | $60,000,000~$80,000,000 | 随专业工程师认证增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation assist with data analysis and simulation in transportation planning design, but creative decision-making and field experience remain with humans, limiting their impact.
+AI和自动化协助交通规划设计中的数据分析与模拟，但创造性的决策和现场经验仍由人类掌握，限制了其影响。
 
-Career progression from junior designer to mid-level designer, responsible engineer, and project manager or consultant. Obtaining professional engineer certification is important.
+从初级设计师到中级设计师、责任工程师、项目经理或顾问的职业发展路径。获得专业工程师认证很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic traffic volume survey analysis
-- Simple repetitive design tasks
-- Data cleaning
+- 基本交通量调查分析
+- 简单的重复性设计任务
+- 数据清洗
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Traffic simulation
-- Optimal route analysis
-- Data-driven prediction
+- 交通模拟
+- 最优路径分析
+- 数据驱动预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment based on field experience
-- Design considering regional characteristics
-- Stakeholder consultation skills
+- 基于现场经验的判断
+- 考虑区域特色的设计
+- 利益相关方咨询技能
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python
 - GIS
-- Traffic simulation software
+- 交通仿真软件
 - AI/机器学习基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- smart transportation
-- transportation safety
-- eco-friendly transportation
-- big data traffic analysis
+- 智慧交通
+- 交通安全
+- 环保交通
+- 大数据流量分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | A visa for professional employment requiring relevant experience and degree in transportation planning |
-| Subclass D-10 (Job-seeking) | usable for job seeking after study, visa extension possible |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- people with excellent logical thinking
-- people with superior spatial perception
-- people interested in infrastructure
+- 逻辑思维能力强的人
+- 空间感知能力强的人
+- 对基础设施感兴趣的人
 
 **谁不适合**
-- people who prefer simple repetitive tasks
-- people who cannot concentrate on long-term projects
+- 喜欢简单重复任务的人
+- 无法专注长期项目的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a transportation planning designer?**
-答：Around 35 million KRW for entry-level, 45 million KRW for mid-level, and 70 million KRW for senior level; higher if in a public company or with a professional engineer license.
+**问：交通规划设计师的平均薪资是多少？**
+答：初级约3500万韩元，中级4500万韩元，高级7000万韩元；若在公营企业或持有专业工程师执照则更高。
 
-**问：Can foreigners get an E-7 visa for this occupation?**
-答：Yes, it is possible. A bachelor's degree in transportation or related field and some experience are required, along with Korean language proficiency. A recommendation from the employer is needed for the E-7 visa application.
+**问：外国人能否为此职业申请E-7签证？**
+答：是，可行的。需要运输或相关领域的学士学位及一定经验，以及韩语能力。申请E-7签证需雇主推荐。
 
 
 ---
@@ -141,12 +132,12 @@ Career progression from junior designer to mid-level designer, responsible engin
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transportation-planner-designer/KR)**

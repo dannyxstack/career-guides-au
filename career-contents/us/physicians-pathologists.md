@@ -53,8 +53,6 @@ Pathologists diagnose diseases through lab tests and autopsies, providing key ev
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on pathologists is mixed: automation will take over some morphological screening and report generation, but complex diagnosis, legal arbitration, and interdisciplinary collaboration still require human doctors; AI tools will significantly enhance workflow efficiency and diagnostic accuracy.
-
 Career development path typically starts with residency training, gradually advancing to attending physician, department head, and can enter academia or research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career development path typically starts with residency training, gradually adva
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to professionals requiring PERM |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | A necessary step for EB-2/EB-3, requires proving no qualified U.S. workers |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must pass USMLE, complete US residency training, obtain license, then employe
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physicians-pathologists/US)**

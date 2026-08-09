@@ -52,8 +52,6 @@ Pharmacy technicians assist with dispensing medications, managing inventory, pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pharmacy technicians face mixed effects from AI: daily dispensing and inventory management are easily automated, but customer consultations and complex prescription reviews still require human judgment; overall job numbers are stable but task structure is changing.
-
 Pharmacy technicians can advance to senior technician, pharmacy supervisor, or move into pharmaceutical procurement/management. Completing PSNZ certification courses can lead to clinical trials or hospital pharmacy management. Some pursue further study to become pharmacists.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Pharmacy technicians can advance to senior technician, pharmacy supervisor, or m
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, must meet qualifications + work experience or NZ job offer; current 180-point threshold (2024) |
 | Subclass Green List T2 (Green List Tier 2) | Pharmacy technician is not on the current Tier 2 list, not applicable |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Need to register with the New Zealand Pharmacy Council, complete an accredite
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-technician/NZ)**

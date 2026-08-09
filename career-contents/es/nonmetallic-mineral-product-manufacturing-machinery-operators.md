@@ -4,8 +4,6 @@
 
 Operate machines for crushing, grinding, mixing, and forming to process non-metallic minerals (such as stone, sand, clay) into bricks, ceramics, cement, and other building or industrial products.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate machines for crushing, grinding, mixing, and forming to process non-meta
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The routine operational tasks of operators in non-metallic mineral product manufacturing machines will gradually be replaced by automation, but AI-enhanced monitoring, optimization, and troubleshooting capabilities will improve efficiency and quality, while the human moat for physical operations and troubleshooting remains.
-
 Promotion from junior operator to production line supervisor or quality control technician; Advanced FP training allows you to transition to machine maintenance or production management roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Promotion from junior operator to production line supervisor or quality control 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Requires employer to provide a work contract proving no suitable candidate can be found in the EU; difficult for non-shortage occupations. |
-| Subclass Oferta de empleo (Job Offer Visa) | In addition to the list of occupational shortages approved by SEPE, additional proof of labor market testing is required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted from operator to production line supervisor, quality cont
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonmetallic-mineral-product-manufacturing-machinery-operators/ES)**

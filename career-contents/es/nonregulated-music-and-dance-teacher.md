@@ -4,8 +4,6 @@
 
 Music or dance is taught in informal educational institutions (such as private music schools, dance studios, community centers), targeting children or adults, with a focus on skill development and artistic expression.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Music or dance is taught in informal educational institutions (such as private m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Self-enrichment teachers face a medium risk of AI replacement: standardized content (e.g., basic language, music theory) is easily automated, but personalized interaction, creative inspiration, and emotional support are core moats. Overall, it's a mixed outlook, with entry-level roles shrinking due to AI tools.
-
 You can start as a part-time teacher, gradually build up your student body and reputation, and be promoted to supervisor or project coordinator at music schools or dance studios, or start your own studio. Some teachers expand their income through performance or grading training.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can start as a part-time teacher, gradually build up your student body and r
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed by a Spanish educational institution, employer sponsorship required, and subject to labor market testing |
-| Subclass Cuenta propia (Self-Employed Work Permit) | Self-employed studio requires business plan and investment proof, with strict approval |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: While academic qualifications are not mandatory, undergraduate programs relat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonregulated-music-and-dance-teacher/ES)**

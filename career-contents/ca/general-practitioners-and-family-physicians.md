@@ -51,8 +51,6 @@ General practitioners provide primary medical care in Canada, including diagnosi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-GP's core diagnostic responsibilities in Canada are protected by regulation, hard for AI to replace; but administrative tasks and some diagnostic support will be automated. Short-term entry barriers due to credential assessment and licensing won't lower; long-term need to adapt to AI tools for efficiency.
-
 Career path: Junior GPs can become family medicine specialists or open private clinics through experience. Some move to hospital emergency or specialist training. Others may pursue academic research or public health management. Promotion depends on experience, additional certifications, and location.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior GPs can become family medicine specialists or open private c
 | Subclass PNP (Provincial Nominee Program) | Provincial medical shortage streams, such as BC Health Authority and Ontario physician category |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Canada attracts healthcare talent, employer-driven |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, overseas doctors must pass the Medical Council of Canada (MCC) qualifyin
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-practitioners-and-family-physicians/CA)**

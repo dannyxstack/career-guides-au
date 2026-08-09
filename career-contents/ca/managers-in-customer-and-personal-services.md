@@ -52,8 +52,6 @@ Supervise and coordinate daily operations in customer service, personal services
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Customer and personal service managers face dual impacts from automation and AI: administrative tasks shrink, but interpersonal coordination and service quality monitoring skills are amplified; overall mixed outlook.
-
 Usually promoted from entry-level service roles such as front desk or customer service supervisor, gradually gaining management experience to advance to regional manager or operations director.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually promoted from entry-level service roles such as front desk or customer s
 | Subclass PNP (Provincial Nominee Program) | Some provinces have specific nomination programs for service industry management talent. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, suitable for applicants with a job offer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires experience as a customer service representative or superviso
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-customer-and-personal-services/CA)**

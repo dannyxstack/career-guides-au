@@ -4,8 +4,6 @@
 
 Responsible for promoting gender equality policies in public and private institutions, conducting awareness training, assessing gender impacts, and designing interventions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for promoting gender equality policies in public and private institu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance policy research and report writing efficiency, but the core value of the Gender Equality Promotion Commissioner lies in driving institutional change and raising awareness—relying on human emotional resonance, cultural sensitivity, and negotiation skills—which are difficult to replace in the short term.
-
 Promotion from Technical Specialist to Department Coordinator or Policy Advisor; You can also enter research or senior management positions through a master's or doctoral degree.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Promotion from Technical Specialist to Department Coordinator or Policy Advisor;
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit) | Requires employer sponsorship and a work contract. Approval may be difficult if not in a shortage occupation. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: The likelihood is low. This occupation is not in short supply, requires emplo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gender-equality-promoter/ES)**

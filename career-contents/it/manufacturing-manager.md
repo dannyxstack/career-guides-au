@@ -51,8 +51,6 @@ Responsible for overseeing and managing daily operations of a manufacturing plan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed effects on manufacturing manager roles: core tasks like production scheduling and quality control are enhanced by AI, but data analysis and report generation parts are reduced, requiring transition to tech+management hybrid talent.
-
 Typically start as engineers or production supervisors, progress to factory manager or operations director with experience. Continuing education (e.g., MBA or Master's in Industrial Engineering) can accelerate promotion, and can also move into supply chain or project management.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Typically start as engineers or production supervisors, progress to factory mana
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires an annual salary above the Italian threshold (approximately €28,000) and a contract of at least 1 year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Apply via annual quota, suitable for non-managerial roles, but management positions usually go through the Blue Card. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: With Industry 4.0 and sustainability trends, demand for managers with technic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufacturing-manager/IT)**

@@ -52,8 +52,6 @@ Seafood processing workers clean, shell, cut, and package seafood in factories o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of seafood processing workers includes both highly repetitive tasks easily replaced by automation and tasks relying on human feel and experience. AI and robots will significantly replace standardized tasks like sorting and cutting, but quality inspection and flexible handling still depend on humans, while AI can assist in production optimization and hygiene monitoring.
-
 Can progress from entry-level processing to production line supervisor or quality inspector; some experienced workers may transition to cold chain logistics or fisheries management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from entry-level processing to production line supervisor or qualit
 | Subclass 482 (Temporary Skill Shortage) | Usually not applicable; this occupation is not on the 482 occupation list |
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA agreements may cover seafood processing occupations, but the threshold remains high. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: High seasonal demand, especially during harvest season when coastal processin
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/seafood-process-worker/AU)**

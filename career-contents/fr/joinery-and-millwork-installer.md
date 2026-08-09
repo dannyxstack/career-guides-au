@@ -4,8 +4,6 @@
 
 Responsible for installing various wooden or metal doors and windows, blinds, rolling blinds, and other closing devices to ensure airtightness, watertightness, and sound insulation. It is a key occupation in building decoration.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for installing various wooden or metal doors and windows, blinds, ro
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Carpenter roles face high automation risk; AI-driven design software and digital manufacturing will compress traditional manual measuring, cutting, and repetitive assembly tasks, but on-site custom installation and structural repair still rely on humans.
-
 You can grow from an apprentice to a skilled worker, and then serve as a project foreman or a small business owner. You can also turn to building energy efficiency consultants or professional installation supervision.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can grow from an apprentice to a skilled worker, and then serve as a project
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer must be provided, and approval from the Labor Bureau (DIRECCTE) is required to prove that the position is difficult to recruit locals. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you possess advanced skills or a high salary (annual salary ≥ €36,500), you can apply for a talent passport, which is relatively simple. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: At least a CAP or Bac Pro relevant diploma is required. RGE certification is 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/joinery-and-millwork-installer/FR)**

@@ -4,8 +4,6 @@
 
 Pediatric specialist nurses are responsible for the care of newborns, infants, and children, including intensive care, vaccination, growth and development monitoring, and parent health education. They usually work in hospital pediatrics, neonatology, or community medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Pediatric specialist nurses are responsible for the care of newborns, infants, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core nursing and emotional support tasks of pediatric specialist nurses are difficult for AI to replace, but tasks such as data recording, monitoring, and health education can be significantly enhanced or partially automated by AI, presenting both risks and opportunities.
-
 Career development paths include starting from junior pediatric nurses to senior practice nurses (IPA), nursing supervisors, or care managers. Continuing education can be obtained through associate degree certification or transition to teaching or research positions.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Career development paths include starting from junior pediatric nurses to senior
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain a work contract from a French hospital or medical institution, and the employer must apply for a work permit. Suitable for nurses with DE diplomas. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents who must reach a certain salary threshold (about 37,000 euros/year) and expedited processing. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to higher education degree + employment contract, salary must meet the French average (about 43,000 euros/year). |
-| Subclass Reconnaissance quali (Qualification Recognition) | Nurses outside the EU must first pass qualification certification before applying for a work visa. The process takes several months. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Must obtain a national nursing diploma (DE Infirmier, 3 years), followed idea
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-pediatric-nurse/FR)**

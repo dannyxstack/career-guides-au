@@ -1,10 +1,8 @@
-# Bodyguard 职业分析 · 韩国
+# 保镖（Bodyguard）职业分析 · 韩国
 
-**职业代码: 54111 (KECO)**
+**职业代码：54111 (KECO)**
 
-A professional security occupation that protects the lives and property of individuals or organizations, operating in places like the Blue House, airports, and corporations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+保护个人或组织生命财产的专业安保职业，工作场所包括青瓦台、机场和企业等。
 
 
 ---
@@ -13,9 +11,9 @@ A professional security occupation that protects the lives and property of indiv
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree in Security Studies + national certification | 2 年 | $5,000,000~$10,000,000（Tuition for 2-year college security department and certification fees） |
-| Personal Protection Officer, Security Instructor certification | 1年 | $2,000,000~$5,000,000（Private certification and enrollment fees for written/practical exam courses） |
-| Military, police, or special forces experience | 4年 | $0~$0（Experience gained during mandatory military service, no additional cost） |
+| 安保学副学士学位+国家认证 | 2 年 | $5,000,000~$10,000,000（两年制大学安保专业学费及认证费用） |
+| 个人保护官、安保教练证书 | 1年 | $2,000,000~$5,000,000（笔试/实操考试课程的私人认证与报名费） |
+| 军事、警察或特种部队经验 | 4年 | $0~$0（义务兵役期间获得的经验，无需额外费用） |
 
 ---
 
@@ -23,19 +21,19 @@ A professional security occupation that protects the lives and property of indiv
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Driver's License Class 1 Ordinary | National Police Agency | 必备 | Required if driving escort vehicles |
-| Security Instructor (General Security / Mechanical Security) | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
-| Personal Protection Officer (Private Certification) | Korea Security Promotion Institute, Korea Security Association | 可选 | Preferred in private security sector |
-| Martial Arts Practitioner (Hapkido, Taekwondo, etc.) | Various martial arts organizations | 可选 | Helpful in practical security work |
+| 普通1级驾照 | 国家警察厅 | 必备 | 如需驾驶护送车辆则必需 |
+| 保安教官（一般保安/机械保安） | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
+| 个人保护官（私人认证） | 韩国保安振兴院，韩国保安协会 | 可选 | 在私营安保领域更受欢迎 |
+| 武术从业者（合气道、跆拳道等） | 各类武术组织 | 可选 | 有助于实际安保工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to aging and increased safety concerns, demand for bodyguards is steady but competition is fierce. The public sector mainly hires to replace retirees, while the private sector sees slight growth due to an increase in VIPs.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于老龄化和安全担忧增加，保镖需求稳定但竞争激烈。公共部门主要招聘替代退休人员，而私营部门因VIP数量增加略有增长。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -43,93 +41,85 @@ A professional security occupation that protects the lives and property of indiv
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $28,000,000~$35,000,000 | Entry-level for small security agencies |
-| Intermediate (4~9 years) | $35,000,000~$50,000,000 | Security team leader / VIP dedicated experienced personnel |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Security manager for large corporations / public institutions |
+| 初级（0~3 年） | $28,000,000~$35,000,000 | 小型保安公司入门岗位 |
+| 中级（4~9年） | $35,000,000~$50,000,000 | 安保团队负责人 / VIP专属经验丰富人员 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 大型企业/公共机构的安全经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are replacing some simple tasks in security work, such as CCTV monitoring and access control, but the crisis response, judgment, and interpersonal monitoring roles of human bodyguards remain crucial. AI is used as a supplementary tool, and the scope of work is expected to shrink and become more specialized.
+AI和自动化正在取代安保工作中的部分简单任务，如监控和门禁，但危机响应、判断和人际监控等人类保镖角色仍然关键。AI作为辅助工具，工作范围预计将缩小并更加专业化。
 
-Promotion path: Junior bodyguard (weapon/self-defense certification) → Security team leader (5+ years) → Security manager (10+ years). Backgrounds in police or military special forces are advantageous.
+晋升路径：初级保镖（武器/自卫认证）→ 安保队长（5年以上）→ 安保经理（10年以上）。有警察或军队特种部队背景者优先。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- CCTV monitoring
-- Access control system operation
-- Some routine patrols
+- CCTV监控
+- 门禁系统操作
+- 部分例行巡逻
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crisis situation judgment
-- VIP emergency response
-- Customized security planning for clients
+- 危机情况判断
+- VIP应急响应
+- 为客户定制安全规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Crisis response skills
-- Interpersonal skills and trust building
-- Judgment in unstructured situations
+- 危机应对能力
+- 人际交往能力和信任建立
+- 非结构化情境下的判断力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Surveillance System Operations
-- Risk Assessment and Situation Analysis
-- Communication and Negotiation
+- 人工智能监控系统操作
+- 风险评估与情况分析
+- 沟通与谈判
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increased safety awareness
-- VIP security demand
-- Expansion of private security market
-- Corporate security
+- 增强安全意识
+- VIP安保需求
+- 私人保安市场扩张
+- 企业安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if employed as professional security personnel (bodyguard, facility security), but rare. |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work with security-related qualifications and experience. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work when employed by private security companies. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent physical strength
-- People who remain calm in crisis situations
-- People who value discipline and teamwork
+- 体力充沛的人
+- 在危机情况下保持冷静的人
+- 重视纪律和团队合作的人
 
 **谁不适合**
-- People who have difficulty following rules or orders
-- People who lack flexibility in interpersonal relationships
+- 难以遵循规则或指令的人
+- 在人际关系中缺乏灵活性的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a bodyguard?**
-答：For beginners, about 28-35 million KRW, and depending on experience and workplace, it can go up to 50-70 million KRW.
+**问：保镖的平均年薪是多少？**
+答：对于初学者，约2800-3500万韩元，根据经验和工作场所，最高可达5000-7000万韩元。
 
-**问：What visa does a foreigner need to work as a bodyguard in Korea?**
-答：Professional security personnel may qualify for an E-7 visa, but cases are rare; overseas Koreans can work with an F-4 visa, and long-term residents with an F-2 visa.
+**问：外国人在韩国担任保镖工作需要什么签证？**
+答：专业安保人员可能符合E-7签证条件，但案例稀少；海外韩裔可持F-4签证工作，长期居民可持F-2签证。
 
-**问：Are there any essential certifications required to become a bodyguard?**
-答：There are no mandatory certifications, but having a Personal Protection Officer or Security Instructor license is advantageous for employment, and a Class 1 driver's license is often required.
+**问：成为保镖需要哪些必要的认证？**
+答：没有强制性认证，但拥有个人保护官或安全教官执照有利于就业，通常需要一级驾照。
 
 
 ---
@@ -147,12 +137,12 @@ Promotion path: Junior bodyguard (weapon/self-defense certification) → Securit
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bodyguard/KR)**

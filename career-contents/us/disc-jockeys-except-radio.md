@@ -51,8 +51,6 @@ Play pre-recorded music at clubs, parties, or weddings, using mixing, cutting, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will reshape DJ work; auto-mixing and music recommendation tools will compress traditional entry-level jobs, but human traits like live interaction, creative programming, and brand building will be amplified, creating new opportunities in high-end experience design.
-
 From entry-level DJ, can advance to well-known DJ or music producer by building popularity and personal brand; some transition to event planning or entertainment management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ From entry-level DJ, can advance to well-known DJ or music producer by building 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Usually requires O-1 visa for extraordinary ability, needing evidence of inte
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/disc-jockeys-except-radio/US)**

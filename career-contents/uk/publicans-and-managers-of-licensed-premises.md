@@ -53,8 +53,6 @@ Organizing, directing, and coordinating the daily operations of bars, licensed c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of bar and licensed venue manager will not only avoid being reduced by AI but will actually be amplified: AI automates administrative, inventory, and compliance processes, allowing managers to focus more on customer experience, team motivation, and community relationships, shifting the core competency from 'managing the venue' to 'building relationships'.
-
 Can progress from bar attendant to assistant manager, then to manager; senior managers may oversee multi-store or regional operations, and a few may start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from bar attendant to assistant manager, then to manager; senior ma
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must hold a Personal Licence, and it is recommended to obtain an alcohol serv
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/publicans-and-managers-of-licensed-premises/UK)**

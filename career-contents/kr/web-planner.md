@@ -48,8 +48,6 @@ A professional who analyzes user needs and business objectives to oversee the pl
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can automate and assist web planners in tasks such as data analysis, A/B testing, and user research, but strategic decision-making and creative planning are likely to remain human domains.
-
 Typically grows from PM (Project Manager) → PO (Product Owner) → Service Planning Team Leader at web agencies and IT companies. Data-driven decision-making skills are key.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Typically grows from PM (Project Manager) → PO (Product Owner) → Service Pla
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Eligible for employment as a professional (software planner), issued upon meeting degree and experience requirements |
-| Subclass D-10 (Job Seeking (D-10)) | IT major international students can seek jobs for up to 2 years after graduation, gaining web planning experience |
-| Subclass F-2 (Residence (F-2)) | Point-based permanent residence qualification, can be converted upon long-term stay |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: It is advisable to develop skills in data analysis, A/B testing, project mana
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-planner/KR)**

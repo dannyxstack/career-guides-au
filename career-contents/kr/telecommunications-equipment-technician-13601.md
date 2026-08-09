@@ -50,8 +50,6 @@ A specialized technical occupation responsible for installing and maintaining co
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and automation are replacing equipment monitoring and diagnostic tasks, but on-site installation and complex fault responses still require human judgment, making full replacement difficult.
-
 Starting as a junior technician, one can advance to senior technician, site manager, or communication engineer after gaining experience. Career development typically occurs at large company partners or telecom subsidiaries.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as a junior technician, one can advance to senior technician, site mana
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to professionals in telecommunications equipment installation and maintenance; requires degree and experience |
-| Subclass E-9 (Non-professional Employment) | Possible for some simple installation tasks but limited due to required skill level |
-| Subclass F-2 (Residence) | Long-term stay and free employment; can switch after E-7 experience |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Entry-level technician → Senior technician → Site manager or communicatio
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-technician-13601/KR)**

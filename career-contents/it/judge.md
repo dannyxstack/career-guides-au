@@ -4,8 +4,6 @@
 
 Judges preside over court hearings in the Italian judicial system, ensuring the correct application of law, and adjudicating criminal and civil cases.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Judges preside over court hearings in the Italian judicial system, ensuring the 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Judges' core adjudicative responsibilities are difficult to automate, but AI will significantly enhance efficiency in legal research, document drafting, and evidence analysis, reducing entry-level legal assistant roles while requiring judges to master AI tool usage and interpretation.
-
 Advance from trainee judge (uditore giudiziario) through seniority and assessments to the Supreme Court or management positions.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Advance from trainee judge (uditore giudiziario) through seniority and assessmen
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU citizens, a high-salary work contract is required, but judge positions usually require Italian nationality. |
-| Subclass Lavoro Autonomo (Self-Employment Visa) | Self-employment visa not applicable for judges as the position is a national civil servant. |
-| Subclass Ricongiungimento Fam (Family Reunification Visa) | If family members already hold a residence permit, they can apply for family reunion, but judge positions are not open to non-EU citizens. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Requires at least 5 years of integrated law bachelor's and master's degrees, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/IT)**

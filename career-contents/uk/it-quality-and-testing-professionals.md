@@ -51,8 +51,6 @@ Responsible for testing the quality of IT software, systems, and computer games,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce traditional manual testing roles for IT quality and testing professionals. Automated testing tools and AI-generated test cases will replace most repetitive testing tasks, but advanced analysis and strategic testing planning roles will remain human-led.
-
 Can progress from junior tester to senior test analyst, test manager, or transition to automation testing, DevOps engineer, etc.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior tester to senior test analyst, test manager, or transit
 | Subclass Scale-up (Scale-up visa) | Suitable for high-growth companies, requires annual salary of at least £33,000 |
 | Subclass Graduate (Graduate visa) | Graduate work visa, allows working in the UK for 2 years (3 years for PhD) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Main route is the Skilled Worker visa, requiring employer sponsorship. Scale-
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-quality-and-testing-professionals/UK)**

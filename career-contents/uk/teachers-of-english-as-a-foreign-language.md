@@ -54,8 +54,6 @@ English as a Foreign Language teachers teach English to non-native speakers, cov
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
-
 Career can progress to senior teacher, curriculum coordinator, academic supervisor, or education administrator. Also possible to transition to teacher training, textbook development, or educational technology.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career can progress to senior teacher, curriculum coordinator, academic supervis
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Usually requires CELTA or TESOL certification. CELTA is more recognized and o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teachers-of-english-as-a-foreign-language/UK)**

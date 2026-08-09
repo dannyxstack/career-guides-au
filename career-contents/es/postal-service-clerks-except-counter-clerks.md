@@ -4,8 +4,6 @@
 
 Responsible for sorting, sorting, preparing for delivery, and mail handling of letters and parcels, excluding counter pickup and delivery services.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for sorting, sorting, preparing for delivery, and mail handling of l
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Postal service clerk jobs are severely threatened by AI automation; many routine tasks can be replaced by machines, significantly reducing positions.
-
 You can be promoted from sorter to mail handling supervisor or postal operations coordinator, or transition to logistics and courier services.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from sorter to mail handling supervisor or postal operations
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship, but such non-technical positions are difficult to obtain permits. |
-| Subclass Busqueda empleo (Job Search Visa) | Job-seeking visa allows staying in Spain to look for work, but requires high education or in-demand occupation. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: limited opportunities to be promoted to supervisor or shift to logistics coor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-service-clerks-except-counter-clerks/ES)**

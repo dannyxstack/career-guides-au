@@ -51,8 +51,6 @@ Gardeners in New Zealand engage in landscape design, construction, and maintenan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Junior gardeners can advance to senior technician, site supervisor, or project manager; with experience, can become independent contractors or start their own company, or develop towards landscape design or urban greening.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior gardeners can advance to senior technician, site supervisor, or project m
 | Subclass SMC (Skilled Migrant Category Resident Visa) | The occupation is at ANZSCO skill level 2-3 in New Zealand, can apply via the 6-point system, but the Green List is faster. |
 | Subclass AEWV (Accredited Employer Work Visa) | If green list requirements are not met, you can work on an AEWV first, then apply for residence after gaining experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually requires National Certificate in Horticulture (Landscape) Level 4, ob
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscaper/NZ)**

@@ -51,8 +51,6 @@ Video producers and editors plan, shoot, and edit video content for corporate br
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Video producer/editor is a typical 'hybrid' occupation in the AI era—AI significantly lowers barriers for video effects, voice transcription, subtitle generation, etc., but also intensifies competition for basic editing roles; high-end creativity, directing, and full-process project management become scarce; practitioners need to embrace AI tools and strengthen unique human value.
-
 Career path: assistant editor/shooter → independent video producer → senior producer/creative director. After building a portfolio, can transition to freelance work or start a studio, or expand to motion design, animation, or directing roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career path: assistant editor/shooter → independent video producer → senior 
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, this occupation is on the Skilled Migrant Category Occupation List. Elig
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/video-producer/NZ)**

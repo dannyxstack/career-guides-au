@@ -4,8 +4,6 @@
 
 Thanatopracteurs are responsible for embalming, cleaning, repairing, and applying makeup to the deceased, presenting them with a serene appearance during the farewell ceremony. This profession requires mastery of anatomy, antiseptic chemistry, and cosmetic techniques, and typically works in funeral homes or morgues.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Thanatopracteurs are responsible for embalming, cleaning, repairing, and applyin
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Procedural tasks like embalming and cosmetology are easily automated by AI, but core aspects like ritual, emotional support, and family communication require human empathy and judgment; overall risk is medium to low.
-
 Initially, you can work as an assistant or intern as a mortuary embalmer, and after accumulating 2-5 years of experience, become an independent operator. Experienced individuals can be promoted to funeral home technical supervisors, establish their own embalming studios, or develop into funeral consultants or trainers.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Initially, you can work as an assistant or intern as a mortuary embalmer, and af
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals, who must demonstrate outstanding abilities in the funeral industry (such as international experience or specialized skills), and be sponsored or self-employed in a project. |
-| Subclass Salarié (Salarié (Employee Work Permit)) | A work contract must be obtained from the French funeral home employer, proving that the position cannot be filled by local laborers; Labor market testing is required. |
-| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | Annual salary must meet the EU Blue Card threshold (about 53,000 euros, 2024), which is not suitable for junior positions, but may be suitable for senior positions. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, 1-2 years of professional training (including theoretical study an
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/thanatopractor/FR)**

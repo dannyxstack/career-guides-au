@@ -51,8 +51,6 @@ Computer programmers are responsible for writing, testing, and maintaining softw
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI greatly improves programming efficiency, but low-level coding tasks are acceleratedly replaced; programmers need to shift to architecture design, complex system maintenance, and AI tool development, otherwise face compression risk.
-
 Junior programmers can be promoted to senior programmers, technical supervisors, or architects; After gaining experience, you can move on to project management or entrepreneurship. Continuous learning of new languages and frameworks (such as Python, React) is key to career development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior programmers can be promoted to senior programmers, technical supervisors,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled non-EU citizens, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 33,908 euros (2024). |
-| Subclass Altamente cualificad (Highly Qualified Professional) | According to Ley 14/2013, for senior technicians, an annual salary of over 40,000 euros is required, with faster approvals |
-| Subclass Cuenta ajena (Employed Work Permit) | Employer-sponsored, requiring proof that the position cannot be filled by a local resident, applicable to ordinary programmers |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can immigrate via EU Blue Card (requires annual salary ≥ EUR 33,908), Highl
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-programmers/ES)**

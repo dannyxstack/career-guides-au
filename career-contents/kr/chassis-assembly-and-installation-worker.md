@@ -4,8 +4,6 @@
 
 A specialized technical role that assembles and installs various chassis (frames of machinery and equipment) at construction and industrial sites.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized technical role that assembles and installs various chassis (frames
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are replacing some processes (repetitive welding, cutting) in chassis assembly and installation, but complex on-site custom assembly and installation require human judgment and skill, making full replacement difficult.
-
 Can advance from entry-level technician to intermediate technician, field foreman, and quality manager; after gaining experience, can start own business or move to a large construction company.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Can advance from entry-level technician to intermediate technician, field forema
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Targets low-skilled foreign workers but chassis assembly/installation is limitedly permitted |
-| Subclass E-7 (Specific Activities) | Possible with employment recommendation as skilled technical worker, but cases are rare |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: While automation is progressing, on-site tailored work remains abundant so la
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chassis-assembly-and-installation-worker/KR)**

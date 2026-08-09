@@ -51,8 +51,6 @@ Engaging in skilled tasks such as planting, harvesting, irrigating, and fertiliz
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 You can be promoted to agricultural supervisor, farm manager, or through training to more specialized positions such as agricultural technician or agricultural machinery operator.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted to agricultural supervisor, farm manager, or through trainin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit as Employee) | Work residency sponsored by a Spanish employer requires proof that the position cannot be filled by an EU citizen. |
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled workers, but agricultural technicians usually do not meet the Blue Card salary requirement (about €33,909 in 2023), and only senior positions may qualify. |
-| Subclass Gestión colectiva de (Collective Hiring in Origin) | Spain's collective recruitment process for seasonal agricultural workers allows third-country citizens to work legally during specific seasons. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Yes, you can be promoted to farm supervisor, agricultural machinery operator,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-agricultural-worker/ES)**

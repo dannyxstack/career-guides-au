@@ -51,8 +51,6 @@ Operate machines to process glass products, including cutting, grinding, drillin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
-
 Practitioners can advance to senior technician, production supervisor, or quality inspector. With experience, they can also start their own glass processing business.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Practitioners can advance to senior technician, production supervisor, or qualit
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires occupation on the state nominated occupation list |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional temporary visa, transitioning to permanent residence requires meeting residence and income requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can advance to senior technician, production supervisor, quality inspector, o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-processing-worker/AU)**

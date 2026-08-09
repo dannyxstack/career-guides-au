@@ -53,8 +53,6 @@ Responsible for daily administrative tasks such as filing, data entry, phone and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of a general office clerk (data entry, filing, phone and email handling) are highly susceptible to AI automation, leading to a significant reduction in job demand and increased competition for entry-level positions.
-
 Starting as a junior clerk, you can advance to senior clerk, office supervisor, or administrative manager by gaining experience and learning management skills.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Starting as a junior clerk, you can advance to senior clerk, office supervisor, 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted to senior clerk, office supervisor, or administrative manager
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-office-clerk/IE)**

@@ -51,8 +51,6 @@ Contract administrators draft, review and manage commercial contracts to ensure 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core compliance and negotiation duties of a contract administrator are hard to replace, but massive document processing, clause comparison, and compliance checks can be significantly automated by AI, compressing entry-level roles.
-
 Can progress from junior contract administrator to senior contract administrator or contract manager, and then into legal or project management. Obtaining New Zealand registration or a law degree can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior contract administrator to senior contract administrator
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration scheme, requiring work experience and meeting salary thresholds. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After 2 years of work, can apply for residency, requiring employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Auckland and Canterbury have developed construction industries with the highe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contract-administrator-511111/NZ)**

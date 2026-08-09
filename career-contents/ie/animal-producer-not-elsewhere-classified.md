@@ -53,8 +53,6 @@ Engage in breeding, raising, and caring for animals not elsewhere classified, su
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly replace basic monitoring, recording, and feeding tasks in specialty animal breeding; entry-level roles are rapidly shrinking, but high-value decisions and veterinary judgment still rely on humans.
-
 Practitioners can progress from farm assistant to supervisor or farm manager, or start their own specialised farm. Continuous learning in animal health, breeding technology, and marketing knowledge is required.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Practitioners can progress from farm assistant to supervisor or farm manager, or
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: A high school diploma is sufficient; a Teagasc agricultural vocational certif
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-producer-not-elsewhere-classified/IE)**

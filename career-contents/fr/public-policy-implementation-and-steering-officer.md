@@ -50,8 +50,6 @@ Responsible for formulating, implementing, and evaluating public policies, coord
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance the efficiency of public policy analysis and evaluation, but decision-making responsibility and ethical judgment still depend on humans, with core job tasks being both compressed and amplified, resulting in mixed outcomes overall.
-
 You can advance from policy analyst to project manager, department head, and then to senior policy advisor or director. Experience in cross-departmental coordination is required.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ You can advance from policy analyst to project manager, department head, and the
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, such as civil servants or policy experts, requiring a master's degree + employment contract |
-| Subclass Salarié (Employee Work Permit) | Policy positions employed by French public sector or private companies, requiring work permit and employer sponsorship. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to non-EU highly educated talent, annual salary requirement approx EUR 55,000+ (2025 standard). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Passing the civil service competitive exam (Concours) is required; senior pos
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-policy-implementation-and-steering-officer/FR)**

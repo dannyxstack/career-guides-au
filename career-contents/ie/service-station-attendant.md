@@ -52,8 +52,6 @@ Responsible for fueling, cashiering, customer service, and basic equipment maint
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Gas station attendants face high automation risk; self-service payment, unmanned fueling, and AI customer service will replace most manual operations, significantly reducing entry-level positions.
-
 Can progress from junior service attendant to gas station supervisor or store manager, or transition to adjacent fields like convenience store retail management. Some employees gain experience through part-time work and then enter logistics or customer service industries.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from junior service attendant to gas station supervisor or store ma
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Not easy. This occupation is not on the Critical Skills Occupations List, so 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-station-attendant/IE)**

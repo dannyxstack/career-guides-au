@@ -52,8 +52,6 @@ Assist food service by cleaning tables, changing tablecloths, restocking utensil
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Restaurant and cafe waiters and bar helpers perform highly repetitive, standardised tasks that are easily replaced by automation. AI-driven robots and self-service systems will take over cleaning, restocking, and other tasks, leading to a significant reduction in job demand, with lower entry barriers but intense competition.
-
 Can advance from this position to server, captain, or restaurant supervisor, but usually requires experience or additional training. Some transition to kitchen roles or hotel management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from this position to server, captain, or restaurant supervisor, but
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Very difficult. This occupation typically doesn't meet H-1B requirements (non
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dining-room-and-cafeteria-attendants-and-bartender-helpers/US)**

@@ -4,8 +4,6 @@
 
 Responsible for tasting and evaluating food and beverage quality, flavor, smell, appearance, etc., grading them against standards to ensure compliance with safety and quality requirements.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for tasting and evaluating food and beverage quality, flavor, smell,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will partially replace standardized sensory inspection tasks but enhance analytical capabilities and efficiency. Food and beverage tasters and graders will need to shift toward more complex flavor development and quality control roles.
-
 From junior taster to senior grader or quality control supervisor, can also transition to R&D or food safety management positions. Requires continuous accumulation of sensory experience.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ From junior taster to senior grader or quality control supervisor, can also tran
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU citizens, must meet the salary threshold (approx. €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated non-EU citizens, salary threshold approx. €5,008/month (2024), eligible for permanent residence after 21 months of work. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Accessible via highly skilled migrant (kennismigrant) or EU Blue Card, requir
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-taster-and-grader/NL)**

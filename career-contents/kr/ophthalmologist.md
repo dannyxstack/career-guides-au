@@ -4,8 +4,6 @@
 
 A doctor who diagnoses and treats diseases of the eye and visual system, including cataracts, glaucoma, myopia correction, and various eye surgeries and medications.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A doctor who diagnoses and treats diseases of the eye and visual system, includi
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI can replace some tasks such as diagnostic assistance (retinal scan analysis, automated refraction tests), but surgery, complex clinical judgment, and patient consultation require human doctors. Overall, tasks are reduced by AI, but expertise remains.
-
 Internship → Residency (4 years) → Specialist → University Hospital Professor/Private Practice. Salary surges upon opening practice; professors combine research and treatment.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Internship → Residency (4 years) → Specialist → University Hospital Profes
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Foreign ophthalmologists with specialist qualifications can work at domestic medical institutions, but require a license recognition process |
-| Subclass F-2 (Residence) | Fewer employment restrictions as an intermediate stage before permanent residency when certain conditions are met |
-| Subclass F-5 (Permanent Residence) | Stable long-term residency and possible to open own practice |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: It takes a total of 11 years or more: 6 years of medical school, 1 year of in
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ophthalmologist/KR)**

@@ -4,8 +4,6 @@
 
 An office worker responsible for accounting and financial tasks such as preparing financial statements, tax reporting, and payroll calculation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ An office worker responsible for accounting and financial tasks such as preparin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Due to AI and automation, simple tasks like voucher entry, matching, and settlement data整理 are being rapidly replaced, reducing the scope of accounting clerks' work. However, high-value tasks like tax consulting and financial analysis still require human judgment.
-
 Accounting Clerk → After 5-10 years of experience, can be promoted to tax accountant/accountant office manager or accounting team head in mid-sized companies. Obtaining certifications is advantageous for career development.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ Accounting Clerk → After 5-10 years of experience, can be promoted to tax acco
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Issuable only to experienced accounting professionals, academic degree requirement must be met |
-| Subclass F-2 (Residence Visa) | Long-term stay possible after switching to a points system, accounting experience points reflected |
-| Subclass F-4 (Overseas Korean Visa) | Overseas Koreans have an advantage in getting hired as accounting clerks; separate permission not required. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: You must pass the tax accountant exam and meet the academic credit conditions
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-clerk/KR)**

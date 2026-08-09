@@ -4,8 +4,6 @@
 
 They repair, tune, manufacture, and assemble various instruments such as pianos, guitars, and violins, requiring traditional craftsmanship and precise pitch perception.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ They repair, tune, manufacture, and assemble various instruments such as pianos,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Relatively less affected by AI and automation. Precision manual work and musical ear required for tuning/repair are hard to fully replace by AI, but digital instrument adoption and some automated equipment may reduce demand for traditional instrument manufacturing.
-
 Skilled workers can advance from craftsman to master craftsman, often start small workshops, and rarely work for large corporations.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Skilled workers can advance from craftsman to master craftsman, often start smal
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for musical instrument manufacturing/tuning professionals; employer recommendation required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents may freely engage |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans may also work in tuning/manufacturing |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: A Piano Tuning Technician certificate is required, administered by the Human 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musical-instrument-maker-and-tuner/KR)**

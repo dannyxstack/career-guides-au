@@ -53,8 +53,6 @@ Responsible for formulating corporate procurement strategies, managing suppliers
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Procurement manager roles are generally amplified by AI, but entry-level procurement specialist tasks will be automated and compressed, leading to narrower promotion paths, with mid-to-high level career value enhanced.
-
 Promotion from Procurement Assistant to Procurement Manager and Supply Chain Director. Acquire category management, negotiation, and strategic planning skills; obtaining certifications such as CIPS can accelerate development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Promotion from Procurement Assistant to Procurement Manager and Supply Chain Dir
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, requiring a master's degree + 3 years experience or annual salary ≥ approx. €42,000. |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, suitable for procurement personnel with work contracts, salary must meet standards |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-income positions, annual salary ≥ about 53k euros (2024 standard) |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Applications can be made through the Passeport Talent Passport or the EU Blue
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/purchasing-manager/FR)**

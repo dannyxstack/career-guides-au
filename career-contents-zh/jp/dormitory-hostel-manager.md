@@ -1,10 +1,8 @@
-# Dormitory/Hostel Manager 职业分析 · 日本
+# 宿舍/旅舍经理（Dormitory/Hostel Manager）职业分析 · 日本
 
-**职业代码: 412 (JSCO)**
+**职业代码：412 (JSCO)**
 
-Provides living support, cleaning, management, and emergency response for residents in student dormitories, company housing, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为学生宿舍、公司住房等居民提供生活支持、清洁、管理和紧急响应服务。
 
 
 ---
@@ -13,8 +11,8 @@ Provides living support, cleaning, management, and emergency response for reside
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 9年 | $0~$0（Education not required, but high school diploma or higher is common） |
-| 职业培训 | 3个月 | $100,000~$300,000（Private courses in building management/cleaning） |
+| 义务教育 | 9年 | $0~$0（不要求教育背景，但通常有高中文凭或更高学历） |
+| 职业培训 | 3个月 | $100,000~$300,000（建筑管理/清洁方面的私人课程） |
 
 ---
 
@@ -22,17 +20,17 @@ Provides living support, cleaning, management, and emergency response for reside
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fire Safety Manager | Fire Department | 必备 | Required for facilities of a certain size |
-| Building Cleaning Technician | Ministry of Health, Labour and Welfare | 可选 | Professional cleaning certification, optional but advantageous |
+| 消防安全经理 | 消防部门 | 必备 | 特定规模设施需要 |
+| 建筑清洁技术员 | 厚生劳动省 | 可选 | 专业清洁证书，非强制但有益 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 52,000. Demand is steady due to increase in foreign workers and student housing needs, but employment is flat due to automation and outsourcing.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 52,000。由于外籍工人和学生住房需求增加，需求稳定，但因自动化和外包，就业持平。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +38,86 @@ Provides living support, cleaning, management, and emergency response for reside
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,800,000~$3,500,000 | Annual pre-tax salary, excluding bonuses |
-| Intermediate Level (3-7 years) | $3,500,000~$4,200,000 | Includes management duties |
-| Advanced Level (7+ years) | $4,200,000~$5,000,000 | Multi-facility management or managerial roles |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 年度税前薪资，不含奖金 |
+| 中级（3-7年） | $3,500,000~$4,200,000 | 包括管理职责 |
+| 高级水平（7年以上） | $4,200,000~$5,000,000 | 多设施管理或管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Some tasks are being replaced by AI and automation. The introduction of cleaning robots and automatic reservation systems reduces workload but may also lead to staff reduction.
+部分任务正被AI和自动化取代。清洁机器人和自动预订系统的引入减少了工作量，但也可能导致人员减少。
 
-Can advance to management supervisor or multi-facility director with experience. Career growth possible through certification and language skills.
+可通过经验晋升为管理主管或多设施总监。通过认证和语言技能可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Cleaning tasks (robots)
-- Reservation management for check-ins/check-outs (AI system)
-- Simple inquiries (chatbots)
+- 清洁任务（机器人）
+- 入住/退房预订管理（AI系统）
+- 简单咨询（聊天机器人）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Emergency troubleshooting
-- Multilingual communication
-- Facility inspection and repair decisions
+- 紧急故障排除
+- 多语言沟通
+- 设施检查与维修决策
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal skills
-- Problem-solving skills
-- Comprehensive knowledge of facility management
+- 人际交往能力
+- 解决问题的能力
+- 设施管理综合知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Fire prevention management
-- Building cleaning skills
-- Customer service
-- Basic IT operations
+- 消防管理
+- 建筑清洁技能
+- 客户服务
+- 基础IT运维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Dealing with Foreign Workers
-- Elderly Care Facilities
-- Student Dormitories
-- Cleaning/Management Outsourcing
+- 与外国工人打交道
+- 养老护理机构
+- 学生宿舍
+- 清洁/管理外包
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for management duties, but simple tasks not allowed |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | May require exam pass if applicable to accommodation field |
-| Subclass 技能実習 (Technical Intern Training) | Possible in building cleaning occupation with time limit |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and good at detailed work
+- 细致且擅长细节工作的人
 - 喜欢与人打交道者
-- People who can work independently
+- 能独立工作的人
 
 **谁不适合**
-- People who dislike physical labor
-- People who find night/holiday work difficult
+- 不喜欢体力劳动的人
+- 难以接受夜间/假日工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a dormitory manager?**
-答：It depends on experience, but generally around 3 to 4.5 million yen.
+**问：宿舍管理员平均年收入是多少？**
+答：视经验而定，但通常约为300万至450万日元。
 
-**问：What visa does a foreigner need to work as a dormitory manager?**
-答：Engineer/Specialist in Humanities/International Services visa or Specified Skilled Worker (i) (Accommodation field) may apply.
+**问：外国人担任宿舍管理员需要什么签证？**
+答：工程师/人文/国际服务签证或特定技能工人（i）（住宿领域）可申请。
 
-**问：Are there night shifts for dormitory managers?**
-答：Facilities requiring 24-hour support may have night shifts or on-call systems.
+**问：宿舍管理员有夜班吗？**
+答：需要24小时支持的设施可能有夜班或待命制度。
 
 
 ---
@@ -145,12 +135,12 @@ Can advance to management supervisor or multi-facility director with experience.
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dormitory-hostel-manager/JP)**

@@ -4,8 +4,6 @@
 
 The job involves visiting homes or businesses to read electricity, gas, and water meters, and checking safety conditions such as gas leaks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ The job involves visiting homes or businesses to read electricity, gas, and wate
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of smart meters and remote meter reading systems, simple meter reading tasks are being replaced by AI and IoT. Gas safety inspections will remain for now, but the scope of work is likely to shrink.
-
 Most start with simple meter reading tasks, and can advance to safety inspection specialists or supervisors with experience. They may also expand into meter replacement and maintenance.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Most start with simple meter reading tasks, and can advance to safety inspection
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some meter reading agencies may hire non-professional workers, but meter reading requires limited expertise. |
-| Subclass F-2 (F-2 (Residence)) | Long-term foreign residents can work without separate visa restrictions. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Employment allowed for overseas Koreans, no activity restrictions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: No. It's not mandatory, but having a Gas Technician or Electrician certificat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meter-reader-and-gas-inspector/KR)**

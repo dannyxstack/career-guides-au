@@ -50,8 +50,6 @@ Responsible for managing daily administrative affairs, including document proces
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is rapidly replacing core tasks of administrative assistants, such as schedule management, document processing, and data entry. Competition for entry-level roles is increasing, and purely clerical jobs face a risk of being reduced.
-
 You can be promoted to administrative supervisor or office manager, or switch to professional paths such as human resources or financial assistant, with a clear path.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted to administrative supervisor or office manager, or switch to
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Residence Permit) | Employed work residence requires employer sponsorship and matches job level |
-| Subclass Passeport Talent (Talent Passport) | If it is an internal transfer or entrepreneurial administrative position, you may apply |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of €≥53,836 (2024) is required, and administrative positions are generally difficult to meet the requirements |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: The most common route is Salarié (employed work residence), which requires t
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-operations-officer/FR)**

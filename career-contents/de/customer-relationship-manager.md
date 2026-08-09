@@ -52,8 +52,6 @@ Responsible for maintaining and expanding client relationships, coordinating int
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance customer data analysis and communication automation, but customer relationship management heavily relies on interpersonal trust and complex negotiation; core roles will not be fully replaced, but tasks such as initial screening and report generation will be reduced.
-
 Career progression typically starts as client management specialist, advancing to account manager, senior account manager, client relationship director, or moving laterally into sales management or marketing management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression typically starts as client management specialist, advancing t
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Applicable to practitioners with vocational training or a bachelor's degree, requiring employer sponsorship with no salary threshold. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa, suitable for applicants with customer management experience or qualifications, valid for 1 year, allowing job search. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Non-EU qualifications and work experience need to be recognised (e.g., by ZAB
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-relationship-manager/DE)**

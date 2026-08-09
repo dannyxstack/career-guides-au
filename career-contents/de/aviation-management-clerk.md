@@ -52,8 +52,6 @@ Aviation business management specialists handle commercial operations for airlin
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Aviation business management specialists face a medium risk of AI replacement: routine ticketing, scheduling, and settlement tasks are easily automated, but customer service, exception handling, and business negotiations still require human judgment, showing a trend of 'partial compression, partial enhancement'.
-
 Promotion pathways include team leader, department manager, or transitioning to senior roles in aviation logistics management, airport operations management, etc. Further study can lead to a bachelor's degree in aviation management and entry into management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Promotion pathways include team leader, department manager, or transitioning to 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a German-recognised degree or vocational qualification, a job offer from an employer, and salary not below local standards. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based system allowing a residence permit to seek work in Germany, valid for one year. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically entered through a 3-year dual vocational training program (Ausbildu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aviation-management-clerk/DE)**

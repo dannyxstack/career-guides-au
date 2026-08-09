@@ -53,8 +53,6 @@ Chemists research, develop, and analyze chemical substances in fields such as ph
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemists will undergo complex changes: AI automation will take over routine experiments and data analysis, but experimental design, anomaly diagnosis, and cross-department collaboration will be enhanced by AI, making the overall outlook mixed.
-
 Career path: start as lab assistant or research assistant, advance to project leader, department head, or chief scientist. Can also move into patents, consulting, or sales. Requires ongoing study to maintain professional competitiveness.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career path: start as lab assistant or research assistant, advance to project le
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applies to skilled workers with German-recognized qualifications or vocational credentials, requires employer offer. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows residence in Germany for 6 months to seek employment, requires credential recognition and proof of financial self-sufficiency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can transition from lab research into project management, technical sales, or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/DE)**

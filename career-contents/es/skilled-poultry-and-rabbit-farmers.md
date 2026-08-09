@@ -54,8 +54,6 @@ Responsible for the breeding, management, health monitoring, and production reco
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Junior breeders can be promoted to breeding supervisors or farm managers; Horizontally, it can shift to other animal husbandry trades (such as pig and cattle farming); After further studies in animal technology or veterinary medicine, students can enter quality inspection or technical service positions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior breeders can be promoted to breeding supervisors or farm managers; Horizo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence, sponsored by the employer, applies to long-term contracts; You must prove that the position cannot be recruited within the EU. |
-| Subclass Altamente cualificad (High-Skilled Professional Visa (EU Blue Card equivalent)) | The highly skilled professional visa requires a university degree or 5 years of experience, with an annual salary meeting the threshold (about €33,908), and is a fast-track entry. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | The job seeker visa allows you to stay in Spain for 6 months to find a job, and you need to prove sufficient funds. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Not necessarily. Spanish FP vocational education (Grado Medio/Superior) is a 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-poultry-and-rabbit-farmers/ES)**

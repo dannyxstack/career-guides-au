@@ -53,8 +53,6 @@ Design, measure, and fit lenses and frames according to prescriptions, assist cl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Optician occupation is significantly augmented rather than replaced by AI; automated tools will handle measurements and order processing, but personalized fitting, client communication, and clinical judgment become more important; demand is stable with moderate growth.
-
 Can advance from junior optician to senior optician, store manager, or regional manager, or move into optical lab management or optometric assistant roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from junior optician to senior optician, store manager, or regional 
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires at least 2 years training or experience, but demand is low |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship is difficult due to sufficient domestic labor supply |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Very difficult. H-1B typically requires a bachelor's degree role, while optic
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/opticians-dispensing/US)**

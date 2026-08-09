@@ -4,8 +4,6 @@
 
 Senior manager responsible for overall company strategic direction, operations management, and performance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Senior manager responsible for overall company strategic direction, operations m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-General Managers and Chief Executives will be significantly augmented rather than replaced by AI, though some tasks like data analysis and report generation will be automated. Core responsibilities such as strategic decision-making and stakeholder management still require humans, resulting in a mixed outlook.
-
 Usually promoted from department manager or director, requiring years of management experience. Some enter through MBA or entrepreneurial background. Can progress to board chair or group CEO, or become a professional director.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Usually promoted from department manager or director, requiring years of managem
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a university degree and high salary (at least 1.5 times the Italian average wage). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU citizens, requires employer sponsorship and annual quota. |
-| Subclass Investor Visa (Investor Visa) | Applicable to entrepreneurs investing at least 500,000 euros in Italy. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: No statutory age limit, but typically requires years of management experience
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managing-director-and-chief-executive/IT)**

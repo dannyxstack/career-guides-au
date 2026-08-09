@@ -51,8 +51,6 @@ Responsible for recording daily financial transactions, maintaining the general 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bookkeeper roles face significant automation pressure: AI can already handle core tasks like invoice entry, reconciliation, and BAS reporting, reducing demand for entry-level positions. Need to transition to financial advisor
-
 Promotion from junior bookkeeper to senior bookkeeper, accounting supervisor, or financial manager; Obtaining the CPA (Contador Público) or certification courses can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Promotion from junior bookkeeper to senior bookkeeper, accounting supervisor, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | A Spanish employer must provide a work contract and apply for work residence, proving that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | For high-skilled positions with annual salaries exceeding 40,000 euros, bookkeepers usually do not meet the salary threshold unless employed by large companies. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for one year to look for work, and you must provide proof of financial capability. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: The most common route is to apply for work residency (Cuenta ajena) through a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookkeeper/ES)**

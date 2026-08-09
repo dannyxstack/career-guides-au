@@ -53,8 +53,6 @@ Work involving protection of objects, valuables, and people, including security 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Junior security guards can progress to team leader, security supervisor, or security consultant through on-the-job training and professional qualifications (e.g., IHK certification). They can also move into specialized areas like security technology or risk management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior security guards can progress to team leader, security supervisor, or secu
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Opportunity cards allow job seekers who do not have a job contract but meet points criteria to enter the country to look for work. |
 | Subclass Recognition Partner (Recognition Partnership) | Through a qualification recognition partner program, you can obtain qualification recognition remotely from outside Germany and then apply for a visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Junior security guards can advance to team leader, security supervisor, or tr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guards-and-related-occupations/DE)**

@@ -53,8 +53,6 @@ A candle maker uses raw materials such as wax, dyes, and fragrances to produce v
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive pouring, color mixing, and packaging tasks for candle makers will be highly automated, but artistic customization and workshop operations still rely on manual labor, leading to overall job reductions.
-
 Practitioners can advance from assistant to skilled candle maker, then to workshop supervisor or start their own candle workshop. Further expansion into creative fields like candle design and fragrance blending is possible.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can advance from assistant to skilled candle maker, then to worksh
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa for coming to Germany to find work; requires proof of language skills and qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to seek work, requiring proof of financial self-sufficiency and relevant degree or training. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must apply for qualification recognition to the German Federal Institute for 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/candle-maker/DE)**

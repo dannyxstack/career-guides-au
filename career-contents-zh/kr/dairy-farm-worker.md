@@ -1,10 +1,8 @@
-# Dairy Farm Worker 职业分析 · 韩国
+# 奶牛场工人（Dairy Farm Worker）职业分析 · 韩国
 
-**职业代码: 90211 (KECO)**
+**职业代码：90211 (KECO)**
 
-This is an agricultural occupation that involves raising dairy cows, producing milk, managing barns, and performing milking tasks.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一种农业职业，涉及饲养奶牛、生产牛奶、管理牛舍和执行挤奶任务。
 
 
 ---
@@ -13,8 +11,8 @@ This is an agricultural occupation that involves raising dairy cows, producing m
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（On-site employment possible after high school graduation） |
-| 副学士学位 | 2 年 | $10,000,000~$15,000,000（Tuition for livestock-related courses） |
+| 高中毕业 | 0年 | $0~$0（高中毕业后可现场就业） |
+| 副学士学位 | 2 年 | $10,000,000~$15,000,000（畜牧相关课程学费） |
 
 ---
 
@@ -22,17 +20,17 @@ This is an agricultural occupation that involves raising dairy cows, producing m
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Livestock Engineer | Human Resources Development Service of Korea | 可选 | Certification in livestock management expertise |
-| Dairy Processing Engineer | Human Resources Development Service of Korea | 可选 | Optional credential for milk processing field |
+| 畜牧工程师 | 韩国人力资源开发服务局 | 可选 | 畜牧业管理专家认证 |
+| 乳制品加工工程师 | 韩国人力资源开发服务局 | 可选 | 乳品加工领域的可选证书 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 15,000. Korea’s dairy industry is facing a worsening labor shortage due to aging and a decline in farm households; automation is being introduced, but labor demand is expected to remain for the time being.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 15,000。由于老龄化和农户减少，韩国乳制品行业正面临日益严重的劳动力短缺；尽管引进了自动化，但短期内劳动力需求预计仍将持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ This is an agricultural occupation that involves raising dairy cows, producing m
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $25,000,000~$32,000,000 | Minimum wage basis |
-| Intermediate (4–10 years) | $32,000,000~$40,000,000 | 经验丰富后增长 |
-| Advanced (10+ years) | $40,000,000~$50,000,000 | Highly variable if including self-employed farm income |
+| Beginner (0–3 years) | $25,000,000~$32,000,000 | 最低工资标准 |
+| 中级（4-10年） | $32,000,000~$40,000,000 | 经验丰富后增长 |
+| 高级（10年以上） | $40,000,000~$50,000,000 | 如果包括自雇农场收入，差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation can replace some tasks through milking robots, automatic feeders, etc., but human judgment is still needed for barn management and animal health monitoring, making full replacement difficult.
+AI和自动化可以通过挤奶机器人、自动喂食器等替代部分任务，但牛舍管理和动物健康监测仍需要人工判断，因此完全替代困难。
 
-Beginners can start with barn management and milking assistance, gain experience, and then advance to running a dairy farm or becoming a livestock consultant.
+初学者可以从牛棚管理和挤奶协助开始，积累经验后晋升为奶牛场经营者或畜牧顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Milking Work
-- Feed Formulation
-- Milk Storage Management
+- 挤奶工作
+- 饲料配方
+- 牛奶储存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Animal Health Monitoring
-- Production Data Analysis
-- Breeding Environment Optimization
+- 动物健康监测
+- 生产数据分析
+- 育种环境优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Animal Behavior Understanding
-- Emergency Response
-- Eco-friendly Management
+- 动物行为理解
+- 应急响应
+- 环保管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart Farm Operation
-- Data Analysis
-- Machine Maintenance
+- 智能农场运营
+- 数据分析
+- 机器维护
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Farm
-- Automatic Milking System
-- Organic Dairy Farming
-- Carbon Neutral
+- 智能农场
+- 自动挤奶系统
+- 有机奶牛养殖
+- 碳中和
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | For unskilled foreign workers; dairy farming is an industry covered by the Employment Permit System |
-| Subclass F-2 (Residence) | Eligible for permanent residence after a period of stay |
-| Subclass E-7 (Specific Activities) | Issuable to skilled workers, but limited applicability in dairy farming |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically fit individuals
-- People who like animals
-- Those who prefer outdoor work
+- 身体健康者
+- 喜欢动物的人
+- 偏好户外工作者
 
 **谁不适合**
-- Those who prefer city life
-- Those who want regular working hours
+- 偏好城市生活的人
+- 希望有固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for dairy workers?**
-答：For entry-level, KRW 25 to 32 million per year, increasing with experience and scale.
+**问：乳制品工人平均年薪是多少？**
+答：入门级年薪2500万至3200万韩元，随经验和规模增加。
 
-**问：Can foreigners work in dairy farming?**
-答：Employment is possible via the E-9 visa under the Employment Permit System, but skilled migration is limited.
+**问：外国人可以在奶牛养殖业工作吗？**
+答：可通过就业许可制度下的E-9签证就业，但技术移民有限。
 
-**问：Are there required certifications?**
-答：Livestock engineer certification is helpful but not mandatory; field experience is more important.
+**问：是否需要必需的认证？**
+答：畜牧工程师证书有帮助但非强制；现场经验更重要。
 
 
 ---
@@ -144,12 +134,12 @@ Beginners can start with barn management and milking assistance, gain experience
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dairy-farm-worker/KR)**

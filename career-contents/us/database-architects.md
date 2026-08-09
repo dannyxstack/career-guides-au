@@ -51,8 +51,6 @@ Responsible for designing enterprise databases, data warehouses, and multidimens
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Can progress from database administrator or data engineer to senior architect or data platform lead; after gaining experience can transition to chief data officer or technical director.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from database administrator or data engineer to senior architect or
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's + 5 years experience, typically needs PERM |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Requires a bachelor's degree; process similar to EB-2 but with longer waiting times |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Rapid job growth, can advance to data platform lead or chief data officer; bi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-architects/US)**

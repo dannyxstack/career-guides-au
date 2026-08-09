@@ -52,8 +52,6 @@ Plasterers apply plaster, mortar and other materials to interior and exterior wa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plasterer is a physically demanding, on-site dependent occupation with medium AI substitution risk, but new smart construction equipment and BIM deepening are changing traditional work. Entry-level plastering roles are squeezed by standardized plasterboard fast-installation technology, yet high-value areas like finished quality control, irregular finishes, and old building restoration are amplified by tool enablement.
-
 Junior plasterers can advance to senior technician, foreman, or project manager. With experience, they can start their own subcontracting company or move into construction supervision. Continuous learning and upskilling (e.g., exterior waterproofing) aids career development.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior plasterers can advance to senior technician, foreman, or project manager.
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Basically need New Zealand construction industry certificate (Level 4) and Si
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/NZ)**

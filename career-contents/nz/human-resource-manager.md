@@ -51,8 +51,6 @@ Human resources managers oversee recruitment, employee relations, performance ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Career progression can go from HR specialist to manager, senior manager, and then HR director or Chief Human Resources Officer. Can also transition to consulting or talent development specialized fields.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression can go from HR specialist to manager, senior manager, and the
 | Subclass AEWV (Accredited Employer Work Visa) | Through accredited employer sponsorship, hourly wage must meet median or above; visa can be renewed and transition to residence. |
 | Subclass Green List T2 (Green List Tier 2) | HR manager is not on the Green List, but some related positions may apply |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: No mandatory registration in New Zealand, but HRNZ membership or CIPD certifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resource-manager/NZ)**

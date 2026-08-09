@@ -4,8 +4,6 @@
 
 A job that washes, dries, and irons customers' clothes and fabrics neatly, working in hotels, laundries, hospitals, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A job that washes, dries, and irons customers' clothes and fabrics neatly, worki
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Automation and AI are increasingly influential. Simple repetitive tasks like sorting, bleaching, and ironing are being replaced by automated systems and robots, but manual handling of high-end garments or delicate materials still requires human touch, so full replacement is expected to take time.
-
 Mainly simple repetitive tasks with limited promotion paths; possible to move up to laundry manager or self-employment after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -90,18 +86,9 @@ Mainly simple repetitive tasks with limited promotion paths; possible to move up
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible to work as laundry worker in manufacturing, but limited application in laundries/hotels |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible but rare upon recognition as skilled laundry worker |
-| Subclass F-2 (Residence (F-2)) | No employment restrictions as long-term resident, laundry work possible |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work as laundry worker, diverse job opportunities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +132,12 @@ A: It's not mandatory but advantageous for employment, and preferred by large ho
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-worker-ironer/KR)**

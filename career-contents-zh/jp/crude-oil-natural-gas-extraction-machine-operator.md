@@ -1,10 +1,8 @@
-# Crude oil & natural gas extraction machine operator 职业分析 · 日本
+# 原油和天然气开采机器操作员（Crude oil & natural gas extraction machine operator）职业分析 · 日本
 
-**职业代码: 646 (JSCO)**
+**职业代码：646 (JSCO)**
 
-Occupation operating drilling and production equipment at oil/gas fields to extract crude oil and natural gas. Mainly employed by oil/gas development companies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在油气田操作钻采设备以提取原油和天然气的职业。主要受雇于油气开发公司。
 
 
 ---
@@ -13,8 +11,8 @@ Occupation operating drilling and production equipment at oil/gas fields to extr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 中学 | 3年 | $0~$300,000（Annual tuition estimate for public high schools.） |
-| Vocational school (Mechanical/Electrical) | 2 年 | $1,000,000~$2,000,000（Annual tuition estimate.） |
+| 中学 | 3年 | $0~$300,000（公立高中年度学费估算。） |
+| 职业学校（机械/电气） | 2 年 | $1,000,000~$2,000,000（年学费估算。） |
 
 ---
 
@@ -22,19 +20,19 @@ Occupation operating drilling and production equipment at oil/gas fields to extr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hazardous Materials Handler (Class B) | Fire and Disaster Management Agency | 必备 | Essential for oil-related facilities. |
-| Boiler Engineer (Class 2) | Ministry of Health, Labour and Welfare | 可选 | Advantageous for steam equipment operation. |
-| High Pressure Gas Manufacturing Safety Officer | Ministry of Economy, Trade and Industry | 可选 | Useful for safety management of natural gas equipment. |
-| Crane/Derrick Operator | Ministry of Health, Labour and Welfare | 可选 | Effective for drilling rig operation. |
+| 危险品处理员（B级） | 消防与灾害管理局 | 必备 | 石油相关设施必备。 |
+| 锅炉工程师（二级） | 厚生劳动省 | 可选 | 对蒸汽设备操作有利。 |
+| 高压燃气制造安全官员 | 经济产业省 | 可选 | 对天然气设备安全管理有用。 |
+| 起重机/井架操作员 | 厚生劳动省 | 可选 | 适用于钻井平台操作。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,000. Domestic oil/gas production is declining, but demand for equipment renewal and maintenance sustains a certain level of employment. New entry is limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,000。国内石油/天然气产量下降，但设备更新和维护需求维持一定就业水平，新进入者有限。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ Occupation operating drilling and production equipment at oil/gas fields to extr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $3,500,000~$4,500,000 | Base salary + field allowance included. |
-| Mid level (4-10 years) | $5,000,000~$7,000,000 | Managerial level. |
-| 资深（10年以上） | $7,500,000~$10,000,000 | Supervisory/Managerial position. |
+| 初级(0-3年) | $3,500,000~$4,500,000 | 基本工资+现场津贴已包含。 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 管理层级。 |
+| 资深（10年以上） | $7,500,000~$10,000,000 | 主管/管理职位。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are advancing data monitoring and remote operations, but physical tasks in oil and gas extraction still require human involvement and are unlikely to be fully replaced. However, headcount may gradually be reduced.
+AI和自动化正在推进数据监测和远程操作，但油气开采中的物理任务仍需人工参与，不太可能完全替代。但人员数量可能逐渐减少。
 
-With field experience, promotion to drilling chief or production supervisor is possible. Skill-up at vocational schools or in-house training. Overseas assignment careers also available.
+有现场经验可晋升为钻井主管或生产主管。可通过职业学校或内部培训提升技能。也有海外派驻职业机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine monitoring tasks
-- Simple valve operations
-- Daily inspection record creation
+- 日常监控任务
+- 简单的阀门操作
+- 日常检查记录创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Anomaly detection (AI-based data analysis)
-- Remote operation systems
-- Production optimization algorithms
+- 异常检测（基于AI的数据分析）
+- 远程操作系统
+- 生产优化算法
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment using five senses
-- Ability to handle sudden issues
-- Task judgment in hazardous environments
+- 利用五官进行现场判断
+- 处理突发事件的能力
+- 危险环境下的任务判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine maintenance skills
-- Data analysis and IoT knowledge
-- Safety management skills
-- English proficiency (for overseas assignments)
+- 机器维护技能
+- 数据分析与物联网知识
+- 安全管理技能
+- 英语能力（适用于海外派遣）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Energy security
-- Aging infrastructure renewal
-- CCS (Carbon Capture and Storage)
-- Offshore resource development
+- 能源安全
+- 老旧基础设施更新
+- CCS（碳捕集与封存）
+- 海上资源开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires expertise in mechanical/electrical engineering. Corresponds to engineer role at an oil company. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not applicable)) | Not applicable because oil/gas extraction is not a target field for Specified Skilled Worker. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | May qualify as high-level human resource in resource development. Points-based system applies. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength and willing to endure long field work.
-- People interested in operating machinery/equipment.
-- People who value teamwork.
+- 体力充沛且愿意长期从事野外工作的人。
+- 对操作机械/设备感兴趣的人。
+- 重视团队合作的人。
 
 **谁不适合**
-- People not suited for manual labor.
-- People unable to tolerate hazardous work environments.
+- 不适合体力劳动的人。
+- 不能容忍危险工作环境的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：What is the typical starting salary?**
-答：Starting salary is approximately ¥250,000-300,000/month, with additional site allowances, and annual income around ¥3.5-4.5 million.
+答：起薪约¥250,000-300,000/月，加现场津贴，年收入约¥3.5-4.5百万。
 
-**问：Can foreigners work in this occupation in Japan?**
-答：Yes, but mainly in engineering roles eligible for the 'Engineer/Specialist in Humanities/International Services' visa. Work visas for field workers are difficult to obtain, and the Highly Skilled Professional visa is also an option but has high requirements.
+**问：外国人可以在日本从事这个职业吗？**
+答：可以，但主要适用于符合“工程师/人文/国际服务专家”签证条件的工程岗位。现场工人的工作签证难以获得，高度专业人才签证也是一种选择，但要求较高。
 
 **问：晋升路径有哪些？**
-答：Gain field experience, obtain various certifications, and advance to chief or supervisor. There are also opportunities to participate in overseas projects.
+答：积累现场经验，获得多种认证，晋升为主任或主管。还有机会参与海外项目。
 
 
 ---
@@ -147,12 +137,12 @@ With field experience, promotion to drilling chief or production supervisor is p
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/crude-oil-natural-gas-extraction-machine-operator/JP)**

@@ -58,8 +58,6 @@ Electricians install, maintain, and repair electrical systems across residential
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The overall impact of AI on electrician roles is complex: repetitive tasks (e.g., scheduling) are automated, but on-site installation, diagnosis, and compliance work are hard to replace. Licensing and physical operations form a moat, and AI can improve design, testing, and management efficiency.
-
 The renewable energy transition (solar, battery storage, EV chargers) continues to drive demand, with the supply–demand gap expected to widen further before 2030. AI and automation substitution risk is extremely low, and on-site work cannot be performed remotely.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ The renewable energy transition (solar, battery storage, EV chargers) continues 
 | Subclass 190 (Skilled Nominated) | State government nomination, 5 bonus points, permanent residency – recommended as the first-choice pathway |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residence pathway to PR after 5 years; suitable for those with insufficient points for subclass 189 |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both are on the MLTSSL with similar PR pathways. Electricians generally earn 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrician/AU)**

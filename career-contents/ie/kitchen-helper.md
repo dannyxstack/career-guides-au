@@ -53,8 +53,6 @@ Assists chefs in food preparation, washing dishes, and maintaining kitchen clean
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Kitchen hands face a high risk of automation replacement, especially for repetitive tasks like food preparation, washing, and cleaning. However, interpersonal collaboration, adaptability, and complex environment handling remain a moat.
-
 Can typically progress from kitchen hand to assistant chef or junior chef, requiring experience accumulation and relevant cooking certifications.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can typically progress from kitchen hand to assistant chef or junior chef, requi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes, by gaining experience and obtaining a cooking certificate, one can advan
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-helper/IE)**

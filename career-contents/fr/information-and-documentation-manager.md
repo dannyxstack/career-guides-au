@@ -53,8 +53,6 @@ Responsible for organizing, managing, preserving, and utilizing information and 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of information and document management managers is at a critical stage of AI transformation: tasks such as automatic classification, metadata extraction, and compliance review will be highly automated by AI, but strategic information governance, archive verification, and user training still require human judgment, with positions showing a mixed trend of "low-end task compression and high-end capability amplification."
-
 You can advance from document assistant to information manager or archive supervisor, and then to Chief Information Officer (CIO). Continuous learning in digital archiving and information security skills is required.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from document assistant to information manager or archive superv
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company requires a work contract, and the company must prove active recruitment |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, with an annual salary exceeding approximately 43,000 euros (2023 standard) |
-| Subclass Carte bleue européen (EU Blue Card) | EU Blue Card, annual salary over €53,836.50 (2023 standard) |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can apply for a Salarié work visa by being employed by a French company,
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-and-documentation-manager/FR)**

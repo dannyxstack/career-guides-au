@@ -52,8 +52,6 @@ Operate and manage offset, digital, or flexographic presses to complete printing
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Printing machine operators face mixed prospects for AI automation: digital printing and color management are being enhanced by AI, but traditional processes like flexographic still rely on manual experience. Entry-level positions are squeezed by automation, but advanced operations still require human judgment.
-
 From junior operations assistants, you can be promoted to Chef de presse, then to Production Supervisor (Responsable production), or move to quality control or prepress positions.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ From junior operations assistants, you can be promoted to Chef de presse, then t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | For employed work residence, a work contract must be provided by a French employer, and a labor permit (Autorisation de Travail) must be obtained when applying, which is usually applicable to general technical positions. |
-| Subclass Passeport Talent (EU Blue Card (France)) | Talent Passport/EU Blue Card, applicable to executives or technical experts with an annual salary of no less than 43,000 euros (2025 baseline), can accelerate long-term residency. |
-| Subclass Recherche emploi (Job Seeker Visa (France)) | The job seeker visa (one-year) is for overseas students graduating from France, allowing you to find work in France and convert to a work visa after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You can be promoted from assistant to Chef de presse, then to production supe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-press-operator/FR)**

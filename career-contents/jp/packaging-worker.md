@@ -50,8 +50,6 @@ A worker responsible for boxing and packaging products in manufacturing sites an
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Introduction of AI/robot-driven automatic packaging machines is progressing, reducing simple manual packaging work. However, demand for humans remains in tasks involving complex shapes or flexible responses.
-
 Start with no experience, with potential promotion to skilled worker or line leader. No special qualifications required, but obtaining a forklift license broadens career options.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Start with no experience, with potential promotion to skilled worker or line lea
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry, Industrial Machinery, Electrical/Electronic Information-Related Manufacturing)) | Eligible to work in the manufacturing sector including packaging. Must pass skills test and Japanese language exam. |
-| Subclass 技能実習 (Technical Intern Training (Manufacturing)) | Residence status for acquiring packaging skills. Up to 5 years. |
-| Subclass 特定活動（本邦大学卒業者） (Designated Activities (Highly Skilled Foreign Professional)) | Can work at packaging-related companies after university graduation. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtain forklift licenses or packaging skills certifications, aiming for promo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packaging-worker/JP)**

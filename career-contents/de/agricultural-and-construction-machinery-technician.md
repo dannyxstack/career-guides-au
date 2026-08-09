@@ -51,8 +51,6 @@ This occupation involves maintenance, repair, and technical diagnostics of agric
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Heavy equipment operator roles face mixed impacts from AI/automation: automated transport, loading, and basic digging tasks are at high risk of replacement, but AI-enhanced remote operation, predictive maintenance, and precision work significantly improve efficiency and safety.
-
 After apprenticeship, can advance to foreman or technical supervisor, or become a master mechanic (Meister) or technician through further study. Some move to sales or training roles, or open their own repair shops.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ After apprenticeship, can advance to foreman or technical supervisor, or become 
 | Subclass Skilled Worker (Skilled Worker Visa for Qualified Professionals) | Applicable to skilled workers with German-recognized vocational qualifications (e.g., dual system training). |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, allows job seekers to enter Germany to look for work or training opportunities. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, can be promoted to foreman or technical supervisor, or become an indepen
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-construction-machinery-technician/DE)**

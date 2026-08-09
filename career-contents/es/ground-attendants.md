@@ -4,8 +4,6 @@
 
 Ground staff are responsible for ground support for flights, including passenger boarding, baggage handling, aircraft guidance, and security supervision, making them core roles in airport operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Ground staff are responsible for ground support for flights, including passenger
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Ground staff face the risk of high automation, and AI will replace most standardized tasks, potentially significantly reducing job demand.
-
 Employees can be promoted from junior ground staff positions to team leader or duty supervisor, or to positions such as aviation service management or airport operations coordination. Obtaining an aviation safety certificate can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -102,15 +98,9 @@ Employees can be promoted from junior ground staff positions to team leader or d
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish employer; non-essential occupations and foreign employees face higher sponsorship difficulties. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Usually, you need to complete training related to aviation or airport service
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ground-attendants/ES)**

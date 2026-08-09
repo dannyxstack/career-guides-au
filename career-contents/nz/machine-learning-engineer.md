@@ -51,8 +51,6 @@ Machine learning engineers are in high demand in New Zealand, especially in AI s
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Machine learning engineer is a core role directly created by AI, with demand surging alongside AI investment, currently in short supply; however, entry barriers are rising, requiring continuous learning of cutting-edge technologies, otherwise basic modelling roles may be automated.
-
 Junior engineers can advance to senior experts, team leads, or AI architects. Experienced ones often move toward chief scientist roles or entrepreneurship. Salary increases by about 10% annually.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior engineers can advance to senior experts, team leads, or AI architects. Ex
 | Subclass SMC (Skilled Migrant Category) | 6-point system: master's degree plus work can achieve 6 points |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with pathway to residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. Machine learning engineers are on the Green List Tier 1; meeting salary 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-learning-engineer/NZ)**

@@ -53,8 +53,6 @@ Responsible for handling social security and insurance matters, including benefi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will greatly improve the efficiency of social security and insurance management specialists, replacing repetitive tasks such as data entry and form validation, but human experts are still needed for policy judgment, complex case handling and humanitarian care. The overall number of positions may shrink but core value will increase.
-
 Can advance from junior clerk to team leader or department manager, or shift to policy analysis or IT system management professional roles via further study. Some may enter higher-level government agencies.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior clerk to team leader or department manager, or shift to 
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to find a job, requires degree certification |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, no employer sponsorship required, suitable for high-potential individuals |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Assessment required by German credential evaluation bodies (e.g., ANABIN), ge
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-administration-and-insurance-officer/DE)**

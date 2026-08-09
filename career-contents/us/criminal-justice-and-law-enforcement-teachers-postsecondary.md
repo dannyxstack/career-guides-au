@@ -52,8 +52,6 @@ Teach criminal justice, corrections, and law enforcement management courses at c
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will have mixed effects on criminal justice and law enforcement teachers: some administrative and research tasks can be automated, but core teaching, field guidance, and ethical judgment are hard to replace
-
 Promotion from lecturer to assistant professor, associate professor, professor, or serving as department head or research project leader.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promotion from lecturer to assistant professor, associate professor, professor, 
 | Subclass EB-3 (EB-3 Skilled Workers) | Master's degree or relevant experience can apply for EB-3 |
 | Subclass O-1 (O-1 Extraordinary Ability) | Distinguished professors or researchers may apply for O-1 visa |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Requires employer (university) sponsorship, position must be a professional o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/criminal-justice-and-law-enforcement-teachers-postsecondary/US)**

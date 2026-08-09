@@ -53,8 +53,6 @@ Journalists and other unclassified writers create content in New Zealand for new
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Career path: junior reporter/writer → senior reporter/columnist → editor/content director. Also possible to move into digital marketing, PR, publishing, or become a freelancer.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Career path: junior reporter/writer → senior reporter/columnist → editor/con
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa requires employer sponsorship, salary not below the median, can lead to residency but no shortcuts. |
 | Subclass Green List T2 (Green List Tier 2) | This occupation is not on the Green List and is not applicable. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Traditional print media roles are declining, but demand for digital content c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/journalists-and-other-writers-nec/NZ)**

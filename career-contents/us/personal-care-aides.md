@@ -52,8 +52,6 @@ Provide daily living activity support to individuals with disabilities or illnes
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Typically start from home care, can advance to senior caregiver, care supervisor, or further study to become a registered nurse (LPN/RN), etc.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically start from home care, can advance to senior caregiver, care supervisor
 | Subclass H-1B (H-1B Specialty Occupation) | Personal care assistants typically do not qualify for H-1B specialty occupation requirements |
 | Subclass EB-3 (EB-3 Skilled/Unskilled Worker) | Can try EB-3 unskilled, but requires employer sponsorship with long queue |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Relatively difficult; usually requires employer-sponsored EB-3 unskilled visa
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-care-aides/US)**

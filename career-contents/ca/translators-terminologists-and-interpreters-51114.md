@@ -54,8 +54,6 @@ Translators, terminologists, and interpreters convert written or spoken informat
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Translation and interpretation professions face significant impact from AI, especially general text translation and simple interpretation tasks, but high-difficulty fields and certification requirements provide some protection.
-
 Junior translators or interpreters can advance to senior translators or project managers with experience. Some specialize in legal or medical interpreting; certification can significantly increase salary. Freelancers can also start translation companies.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior translators or interpreters can advance to senior translators or project 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Provincial certification (e.g., CTTIC) is mandatory. Advanced interpreters ma
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/translators-terminologists-and-interpreters-51114/CA)**

@@ -52,8 +52,6 @@ Assemble, fit, and install parts of aircraft, spacecraft, or missiles, such as t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Career path: Junior assembler → Senior assembler → Team leader → Production supervisor → Quality inspector or process engineer. Some may transition to aerospace engineering or technical support.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior assembler → Senior assembler → Team leader → Productio
 | Subclass H-1B (H-1B Specialty Occupation) | Requires a bachelor's degree for the position; usually this occupation does not meet H-1B educational requirements, but large companies may apply |
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires PERM labor certification, employer sponsorship, and long waiting periods. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No mandatory certification required, but FAA's A&P license can improve job op
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-structure-surfaces-rigging-and-systems-assemblers/US)**

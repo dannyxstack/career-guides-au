@@ -54,8 +54,6 @@ Responsible for teaching, research, and administrative management in universitie
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance efficiency in data analysis and process management, but strategic decision-making, interpersonal coordination, and academic leadership remain core; overall, positions will see an 'enhancement but partial substitution' trend.
-
 Career path: from professor or research group leader to department head, dean, or vice-chancellor; requires sustained academic output and management skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: from professor or research group leader to department head, dean, o
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for workers with recognized university degrees, requires employer sponsorship |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6 months in Germany to find a job, requires degree recognition. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Very rare; such positions typically require academic background and professor
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-higher-education-teaching-and-research/DE)**

@@ -55,8 +55,6 @@ Video producers and editors create short-form videos, brand promotional films, d
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Video producer/editor is a typical 'hybrid' occupation in the AI era—AI significantly lowers barriers for video effects, voice transcription, subtitle generation, etc., but also intensifies competition for basic editing roles; high-end creativity, directing, and full-process project management become scarce; practitioners need to embrace AI tools and strengthen unique human value.
-
 Corporate video content budgets in Australia are growing rapidly, particularly among SMEs using short-form video for brand marketing. AI video editing tools (Adobe Premiere AI, CapCut AI) have improved production efficiency, but creative planning, client communication and final quality control still require skilled producers. Streaming services (with Netflix significantly increasing investment in local Australian content) are driving growth in high-end production roles.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Corporate video content budgets in Australia are growing rapidly, particularly a
 | Subclass 189 (SkillSelect Independent) | Invitation-based; a VETASSESS skills assessment is required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Demand for video producers is growing faster (digital marketing video budgets
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/video-producer-editor/AU)**

@@ -52,8 +52,6 @@ In the Netherlands, social work associate professionals assist social workers in
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on Dutch social work assistant professionals is mixed: administrative tasks will be largely automated, but core social interaction and emotional support roles will see increased demand due to efficiency gains from AI tools, though entry barriers will rise.
-
 Entry-level positions usually start with community support, gaining experience to advance to senior caseworker or team leader. Further study for a Bachelor of Social Work can lead to social worker or management roles.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ Entry-level positions usually start with community support, gaining experience t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | If the position meets the high-skilled immigration salary threshold (approximately €3,909/month in 2025), the employer can sponsor without a labour market test. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled professionals, requiring at least HBO/UWO degree, salary threshold approx. €5,600/month (2025) |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Non-EU graduates who have completed a master's or doctoral degree in the Netherlands can freely seek employment within one year, and can switch to a work visa after finding a job. |
-| Subclass EU Free Movement (EU/EEA Free Movement) | EU/EEA citizens can work freely in the Netherlands without a visa |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Requires at least MBO level 4 diploma (secondary vocational education), with 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-associate-professional/NL)**

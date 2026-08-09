@@ -51,8 +51,6 @@ In Ireland, these technicians support R&D, testing, and production in physical a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI/automation will have mixed impacts on physical and engineering science technicians: some standardised testing and data processing tasks will be replaced, but complex system debugging, interdisciplinary collaboration, and on-site decision-making still require human experts, shifting job roles towards higher value.
-
 Usually starting as a laboratory or field assistant, can advance to senior technical specialist, laboratory supervisor, or transition to professional application roles in international companies, or further study to enter engineering management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starting as a laboratory or field assistant, can advance to senior techn
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €42,000 (2025) and higher education qualification, can bring family |
 | Subclass Stamp 1G (Third Level Graduate Scheme) | Graduates can stay in Ireland for 12-24 months to find a job or start a business. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With increased investment in pharmaceuticals and clean energy in Ireland, job
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-and-engineering-science-technician-not-elsewhere-classified/IE)**

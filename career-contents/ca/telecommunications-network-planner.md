@@ -52,8 +52,6 @@ Telecommunications network planners in Canada design, optimize, and manage mobil
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI tools will significantly enhance the capabilities of telecom network planners, enabling faster analysis of massive data, traffic prediction, and layout optimization, while complex decisions and cross-departmental coordination still rely on human experience, thereby increasing overall job value.
-
 Career path: Junior network planner → Senior planner/network architect → Chief network planner/technical director. Accelerate promotion by obtaining Cisco/Nokia certifications or pursuing a master's degree.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path: Junior network planner → Senior planner/network architect → Chi
 | Subclass PNP (Provincial Nominee Program (e.g., Ontario Tech Draw, BC PNP Tech)) | Provincial nomination: Ontario, British Columbia, etc., have targeted invitations for STEM occupations; after nomination, get 600 CRS points. |
 | Subclass AIP (Atlantic Immigration Program) | The Atlantic Immigration Pilot applies, but this occupation is more common in Ontario/BC, requiring employer sponsorship. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Design and stamping work usually requires registration as a P.Eng, but for ge
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-network-planner/CA)**

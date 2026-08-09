@@ -52,8 +52,6 @@ Radiographers operate X-ray, CT scan, and other equipment to produce images for 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
-
 Junior radiographer can advance to senior technician (e.g., CT or MRI specialist), or into management (e.g., imaging department head). Can also become a radiation therapist or sonographer through education.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior radiographer can advance to senior technician (e.g., CT or MRI specialist
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to CT technologist, MRI technologist, radiation therapist, imagin
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiologic-technologists-and-technicians/US)**

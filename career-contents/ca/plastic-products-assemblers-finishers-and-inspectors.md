@@ -54,8 +54,6 @@ Operate machines and hand tools to manufacture, finish, and inspect reinforced p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Assembly, finishing, and inspection of plastic products will be mixedly affected by AI/automation: simple repetitive tasks automated, but quality control and complex assembly enhanced by AI vision and collaborative robots, raising entry barriers.
-
 Progress from entry-level assembler to senior technician or production supervisor, or train to become a mold designer or quality inspection specialist. Experienced workers may transition to composite materials engineering.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Progress from entry-level assembler to senior technician or production superviso
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Directly through Express Entry is difficult, but with employer sponsorship, i
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastic-products-assemblers-finishers-and-inspectors/CA)**

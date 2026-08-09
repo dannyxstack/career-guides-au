@@ -53,8 +53,6 @@ Responsible for managing non-food product lines in retail stores, including purc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace about 35% of tasks (data analysis, inventory forecasting, report generation), but core human competencies (negotiation, strategic decision-making, category innovation) remain irreplaceable. Proactively learn AI tools to amplify effectiveness.
-
 Typically, they start as sales assistants or department heads, gain experience, and are promoted to product line managers, eventually advancing to category managers or purchasing directors. You can also turn to retail consulting or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Typically, they start as sales assistants or department heads, gain experience, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for applicants with professional skills or a higher education background, requires employer sponsorship, valid for 4 years |
-| Subclass Salarié (Employee Work Permit) | Regular work residency requires a long-term contract from a French company and a salary threshold must be met |
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled talent, an annual salary of at least about 53,000 euros (2023 standard) is required, valid for up to 4 years |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically, a business or retail management diploma at the BTS or Licence prof
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonfood-product-range-manager/FR)**

@@ -1,10 +1,8 @@
-# Cartoonist 职业分析 · 韩国
+# 漫画家（Cartoonist）职业分析 · 韩国
 
-**职业代码: 41431 (KECO)**
+**职业代码：41431 (KECO)**
 
-A cartoonist is an artistic profession that combines story and drawing to create various cartoon content such as webtoons, published comics, and cartoons. Recently, it has gained attention due to the rapid growth of webtoon platforms.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+漫画家是一种结合故事和绘画的艺术职业，创作网络漫画、出版漫画和卡通等多种漫画内容。近年来，由于网络漫画平台的快速增长，这一职业备受关注。
 
 
 ---
@@ -13,9 +11,9 @@ A cartoonist is an artistic profession that combines story and drawing to create
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher (preferred) | 0年 | $0~$0（No specific educational requirements; portfolio of works is key） |
-| Junior college/university department of cartoon and animation | 2–4 years | $2,000,000~$6,000,000（Annual tuition based on national/public universities） |
-| Private academies/online courses | 6-12个月 | $2,000,000~$8,000,000（Short-term intensive courses） |
+| 高中文凭或以上（优先） | 0年 | $0~$0（无特定学历要求；作品集是关键） |
+| 卡通与动画专业的大专/大学院系 | 2-4年 | $2,000,000~$6,000,000（基于国立/公立大学的年学费） |
+| 私立学院/在线课程 | 6-12个月 | $2,000,000~$8,000,000（短期强化课程） |
 
 ---
 
@@ -23,16 +21,16 @@ A cartoonist is an artistic profession that combines story and drawing to create
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Not applicable (based on individual skill) | - | 可选 | No official certification; portfolio and serialization experience are crucial |
+| 不适用（基于个人技能） | - | 可选 | 无官方认证；作品集和连载经验至关重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 26,000. With the spread of digital platforms and increased demand for K-content, the webtoon market is growing rapidly, making the employment outlook bright. However, low entry barriers for new artists lead to fierce competition and persistent income instability.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 26,000。随着数字平台普及和K-content需求增加，网络漫画市场快速增长，就业前景光明。但新艺术家准入门槛低，导致竞争激烈和收入不稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A cartoonist is an artistic profession that combines story and drawing to create
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $12,000,000~$36,000,000 | Varies widely based on free serialization and revenue sharing |
-| Intermediate (3–7 years) | $40,000,000~$80,000,000 | Reflects official serialization contracts and paid serialization performance |
-| Advanced (7+ years) | $80,000,000~$99,999,999 | Includes IP ancillary revenue and exclusive contracts with major platforms |
+| Beginner (0–3 years) | $12,000,000~$36,000,000 | 根据免费连载和收入分成差异很大 |
+| 中级（3-7年） | $40,000,000~$80,000,000 | 反映官方连载合同和付费连载表现 |
+| 高级（7年以上） | $80,000,000~$99,999,999 | 包括IP附属收入和与主要平台的独家合同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI streamlines some parts of comic production (background coloring, translation, pattern generation, etc.), but creative core areas such as story creation and character design will remain uniquely human. Overall automation impact is limited, and work speed improvements using AI are expected.
+AI简化了漫画制作的某些部分（背景着色、翻译、图案生成等），但故事创作和角色设计等创意核心领域仍将保持人类独特性。整体自动化影响有限，预计使用AI可提高工作速度。
 
-Initially, artists build recognition by serializing works on webtoon platforms. Upon success, they diversify income through IP expansion such as publishing and media adaptation, deepening their expertise.
+初期，艺术家通过在网络漫画平台连载作品建立知名度。成功后，通过IP扩展如出版和媒体改编实现收入多元化，深化专业能力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple background coloring
-- Basic line art cleanup
-- Translation and dialogue placement
+- 简单背景着色
+- 基本线稿清理
+- 翻译与对话编排
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Storyboard idea generation
-- Coloring and texture application
-- Reader response analysis
+- 故事板创意生成
+- 着色和纹理应用
+- 读者反应分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Original storytelling
-- Character design
-- Emotional connection with readers
+- 原创故事讲述
+- 角色设计
+- 与读者的情感联系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Using AI drawing tools
-- Trend identification through data analysis
-- Understanding IP business
+- 使用AI绘图工具
+- 通过数据分析识别趋势
+- 了解知识产权业务
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Webtoon
-- IP Business
-- Digital Content
-- K-Culture Expansion
+- 网络漫画
+- IP业务
+- 数字内容
+- 韩流文化扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to professional cartoonists with contracts from domestic publishers or platforms, but must meet special requirements in the culture and arts field |
-| Subclass F-2 (F-2 (Residence)) | Freelance creative work possible for long-term residents |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those passionate about storytelling and drawing who consistently create
-- Those who respond sensitively to reader reactions and develop their work
-- Those who can tolerate irregular income and fierce competition
+- 热爱讲故事和绘画并持续创作的人
+- 对读者反应敏感并据此发展作品的创作者
+- 能够容忍不固定收入和激烈竞争的人
 
 **谁不适合**
-- Those who want stable income and job security
-- Those who expect quick, big results
+- 追求稳定收入和职业保障的人
+- 期望快速获得大结果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the initial income level for a webtoon artist?**
-答：For newcomers, there is almost no income during the free serialization stage, and even after switching to paid serialization, it is often less than 1 million KRW per month, so many supplement with other income sources for the first 1-3 years.
+**问：网络漫画作家的初始收入水平是多少？**
+答：对于新手，免费连载阶段几乎没有收入，即使转为付费连载，月收入也常低于100万韩元，因此许多人前1-3年通过其他收入来源补充。
 
-**问：What visa does a foreigner need to work as a webtoon artist in Korea?**
-答：If you sign a contract with a domestic publisher or webtoon platform as a professional webtoon artist, you can apply for an E-7-1 visa (Specific Activities). However, you must meet cultural/arts sector criteria and have a certain level of creative work history.
+**问：外国人在韩国从事网漫艺术家工作需要什么签证？**
+答：如果与国内出版商或网络漫画平台以专业网络漫画家的身份签订合同，可以申请E-7-1签证（特定活动）。但需符合文化/艺术领域标准并具有一定水平的创作工作经历。
 
-**问：What is the typical process to succeed as a webtoon artist?**
-答：The common success path is to win a rookie contest on a webtoon platform or secure readers through independent serialization, then sign an official serialization contract and have the IP adapted into videos or publications.
+**问：成为网络漫画艺术家的典型过程是什么？**
+答：常见的成功路径是在网络漫画平台上赢得新人赛，或通过独立连载获得读者，然后签署正式连载合同，并将IP改编为视频或出版物。
 
 
 ---
@@ -143,12 +134,12 @@ Initially, artists build recognition by serializing works on webtoon platforms. 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cartoonist/KR)**

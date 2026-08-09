@@ -4,8 +4,6 @@
 
 Responsible for counter operations at banks and credit unions, including accepting deposits, processing deposits/withdrawals, transfers, and passbook entries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for counter operations at banks and credit unions, including accepti
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Deposit/savings teller duties are shrinking significantly due to ATMs, internet banking, and AI chatbots. Especially simple deposits/withdrawals and transfers are becoming automated, with counter roles increasingly limited to high-value transactions and complex consultations. Future work volume is expected to decline with AI adoption.
-
 Obtaining qualifications and career advancement can lead to roles in exchange/loan counters or sales positions. Within banks, switching from general to comprehensive positions is possible.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Obtaining qualifications and career advancement can lead to roles in exchange/lo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | Requires specialized knowledge/experience in banking; N2+ Japanese & finance knowledge needed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as it doesn't fall under target fields. |
-| Subclass 永住者 (Permanent Resident) | Eligible to apply after long-term employment & meeting conditions. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -152,12 +140,12 @@ A: By obtaining banking business certifications or FP qualifications, one can ad
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deposit-counter-clerk/JP)**

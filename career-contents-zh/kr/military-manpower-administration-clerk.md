@@ -1,10 +1,8 @@
-# Military Manpower Administration Clerk 职业分析 · 韩国
+# 兵务厅职员（Military Manpower Administration Clerk）职业分析 · 韩国
 
-**职业代码: 02531 (KECO)**
+**职业代码：02531 (KECO)**
 
-This is a public sector clerical position handling administrative tasks related to military resource management, military service statistics, enlistment, and discharge.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+这是一个公共部门文职岗位，负责与军事资源管理、兵役统计、征兵和退伍相关的行政工作。
 
 
 ---
@@ -13,8 +11,8 @@ This is a public sector clerical position handling administrative tasks related 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Based on public school standards） |
-| College/University degree (associate's or higher) | 2~4 years | $4,000,000~$16,000,000（Based on annual tuition fees） |
+| 高中文凭 | 3年 | $0~$0（基于公立学校标准） |
+| 学院/大学学位（副学士或更高） | 2~4年 | $4,000,000~$16,000,000（基于年学费） |
 
 ---
 
@@ -22,17 +20,17 @@ This is a public sector clerical position handling administrative tasks related 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Civil Service Examination (Grade 9) | Ministry of Personnel Management | 必备 | Required for recruitment by the Military Manpower Administration |
-| Computer Proficiency Level 2 or higher | Korea Chamber of Commerce and Industry | 可选 | Improves work efficiency, bonus points |
+| 公务员考试（9级） | Ministry of Personnel Management | 必备 | 兵务厅招聘所需 |
+| 计算机水平二级或以上 | 大韩商工会议所 | 可选 | 提高工作效率，加分项 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,200. Due to the low birth rate, military service resources are decreasing, but the trend toward digitalization in the Military Manpower Administration is expected to cause a slight decrease in demand for personnel. Demand for replacement due to retirement continues because of job security and stability.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,200。由于出生率低，兵役资源正在减少，但兵务厅数字化转型趋势预计会导致人事需求略有下降。由于工作稳定和保障，退休替代需求持续存在。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较低（★☆☆☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较低（★☆☆☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ This is a public sector clerical position handling administrative tasks related 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $26,000,000~$30,000,000 | Based on Grade 9 starting salary |
-| Intermediate (4~10 years) | $35,000,000~$45,000,000 | Grade 8~7 level |
-| Advanced (10+ years) | $50,000,000~$65,000,000 | Grade 6 or above including allowances |
+| 初级（0~3 年） | $26,000,000~$30,000,000 | 基于9级起薪 |
+| 中级（4~10年） | $35,000,000~$45,000,000 | 8~7级 |
+| 高级（10年以上） | $50,000,000~$65,000,000 | 6级或以上，包括补贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-Due to AI and automation, tasks such as simple data entry, statistical report generation, and document classification are decreasing, which is likely to reduce workforce size. However, tasks requiring human judgment, such as handling civil complaints and supporting policy decisions, will remain.
+由于AI和自动化，简单的数据录入、统计报告生成和文档分类等任务正在减少，这可能导致劳动力规模缩小。然而，需要人类判断的任务，如处理民事投诉和支持政策决策，将仍然存在。
 
-Mostly appointed as Grade 9 civil servants, with internal promotions possible to Grades 7, 6, etc. Career development takes place within the Military Manpower Administration and its regional offices.
+大多被任命为9级公务员，可通过内部晋升至7级、6级等。职业发展在兵务厅及其地区办事处内进行。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Military Data Entry and Organization
-- Basic Statistical Table Preparation
-- Document Classification and Dispatch
+- 军事数据录入与整理
+- 基础统计表格制作
+- 文件分类与分发
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Military Resource Analysis Report Writing
-- Civil Complaint Counseling and Guidance
-- Proposals for Improving Military Service System
+- 军事资源分析报告撰写
+- 民事投诉咨询与指导
+- 改善兵役制度的提案
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-Face Civil Service
-- Policy Understanding and Judgment
-- Public Sector Internal Control and Security
+- 面对面公务员
+- 政策理解与判断
+- 公共部门内部控制与安全
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis (Python, R)
-- Statistical Tools (SPSS, SAS)
-- Understanding of Military Service Law and Administrative Procedures
+- 数据分析（Python、R）
+- 统计工具（SPSS、SAS）
+- 了解兵役法和行政程序
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Decrease in military service resources
-- Digital administrative transformation
-- Public Sector Stability
-- Replacement Demand for Retirement
+- 兵役资源减少
+- 数字行政转型
+- 公共部门稳定性
+- 退休替代需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage; civil service appointment is practically impossible, but general administrative jobs are available |
-| Subclass F-5 (F-5 (Permanent Residence)) | Even permanent residents face restrictions in public office appointments, making it difficult for Military Manpower Administration clerks to find employment |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone meticulous and skilled at document work
-- Someone who prefers a stable public sector job
-- Someone interested in military administration
+- 细心且擅长文书工作的人
+- 偏好稳定公共部门工作的人
+- 对军事管理感兴趣的人
 
 **谁不适合**
-- Someone who wants fast promotion and high income
-- Someone who wants to drive change and innovation
+- 追求快速晋升和高收入的人
+- 想要推动变革和创新的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a Military Manpower Administration clerk?**
-答：Starting at Grade 9, about 26 to 30 million KRW before tax, and at Grade 6 with over 10 years of experience, it reaches 50 to 65 million KRW.
+**问：兵务厅职员的平均年薪是多少？**
+答：从9级起，约2600至3000万韩元（税前）；6级且有10年以上经验者，可达5000至6500万韩元。
 
-**问：Can foreigners become Military Manpower Administration clerks?**
-答：Korean nationality is mandatory for public office appointments, so foreigners cannot be employed. Even permanent residents are restricted.
+**问：外国人可以成为兵务厅职员吗？**
+答：公职任命要求韩国国籍，因此不能雇佣外国人。即使永久居民也受限制。
 
-**问：What educational background is required for this job?**
-答：High school graduates or above can apply for the Grade 9 open competitive exam; a university degree may be advantageous but is not required.
+**问：这个工作需要什么教育背景？**
+答：高中及以上学历可申请9级公开竞争考试；大学学位可能有利，但非必需。
 
 
 ---
@@ -143,12 +134,12 @@ Mostly appointed as Grade 9 civil servants, with internal promotions possible to
 | 工作强度 | 较低（★☆☆☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/military-manpower-administration-clerk/KR)**

@@ -4,8 +4,6 @@
 
 Professionals engaged in non-mainstream medicine such as naturopathy, traditional Chinese medicine, acupuncture, and homeopathy provide clients with physical and mental conditioning and health management services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Professionals engaged in non-mainstream medicine such as naturopathy, traditiona
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on alternative therapy professionals is mixed: some diagnostic and consultation tasks can be automated, but personalized services, customer trust, and traditional skills are hard to replace, requiring proactive integration of AI tools to improve efficiency.
-
 Career development paths range from independent practitioners to opening clinics or health centers, and can also engage in teaching or product development, but promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Career development paths range from independent practitioners to opening clinics
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit as Employee) | Employed by a clinic or health center in Spain, employer sponsorship required |
-| Subclass Cuenta propia (Self-Employment Visa) | To open a clinic as a self-employed person, you must demonstrate financial strength |
-| Subclass Tarjeta azul UE (EU Blue Card) | Highly skilled talent, but the profession usually does not meet the salary threshold |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Alternative therapies are not regulated by the state in Spain, but some auton
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-alternative-therapies-professionals/ES)**

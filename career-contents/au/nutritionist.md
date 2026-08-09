@@ -52,8 +52,6 @@ Nutritionists apply nutrition science to improve diet and health of individuals 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Entry-level positions for nutritionists (AU) face compression risk from AI and digital tools, but core tasks like nutrition counselling and programme design are hard to replace by AI; overall career prospects are mixed.
-
 Preventive health, food label compliance, and personalized nutrition (including data/wearables) are emerging; note the scope boundary with Dietitians.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Preventive health, food label compliance, and personalized nutrition (including 
 | Subclass 491 (Skilled Work Regional) | Regional nomination (temporary to permanent residency) |
 | Subclass 482 (Skills in Demand) | Employer sponsorship (note: this occupation is on the GSM list but not on the 482 CSOL; 482 is limited to labour agreements) |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Dietitian (251111) is subject to stricter clinical registration, can provide 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nutritionist/AU)**

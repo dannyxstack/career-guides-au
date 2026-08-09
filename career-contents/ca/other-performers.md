@@ -53,8 +53,6 @@ Other performers include street performers, circus artists, comedians, and vario
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on 'other performers' is mixed: text generation and audio synthesis can replace comedy skit writing and basic music composition (compression), but real-time interaction, improvisation, and emotional connection are amplified by AI (enhancement). Overall structure changes but core value increases.
-
 Career progression paths are limited; some performers may transition to teaching, directing, or arts management. Accumulating experience and building a reputation can lead to more performance opportunities and higher income.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression paths are limited; some performers may transition to teaching
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Migration pathways are limited, mainly suitable for self-employed persons or 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-performers/CA)**

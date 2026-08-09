@@ -4,8 +4,6 @@
 
 A prosecutor is a legal professional responsible for investigating, indicting, and maintaining trials in criminal cases. As a national public servant, they belong to the Public Prosecutors Office of the Ministry of Justice and uphold fair criminal justice.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A prosecutor is a legal professional responsible for investigating, indicting, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot completely replace prosecutors' work, but it will be used as a tool to improve efficiency in evidence analysis and document review. Core decisions like prosecution remain essential for human judgment.
-
 After passing the bar exam and completing legal training, one becomes a public prosecutor. The typical career path is from assistant prosecutor to prosecutor, and then to senior prosecutor (such as at the Tokyo District Public Prosecutors Office Special Investigation Department).
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ After passing the bar exam and completing legal training, one becomes a public p
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | It is virtually impossible for a foreigner to become a prosecutor. Legal qualifications are required, and only Japanese citizens or permanent residents are eligible. |
-| Subclass 永住者 (Permanent Resident) | To become a prosecutor, Japanese nationality is effectively mandatory. Even for permanent residents, appointment is extremely difficult. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Even if one passes the bar exam, foreign nationals are generally not allowed to become prosecutors. After receiving legal education in Japan on a student visa, naturalization is necessary. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: University (law faculty) → law school → pass bar exam → legal training 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prosecutor/JP)**

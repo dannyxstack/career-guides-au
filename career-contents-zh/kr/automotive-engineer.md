@@ -1,8 +1,8 @@
-# Automotive Engineer 职业分析 · 韩国
+# 汽车工程师（Automotive Engineer）职业分析 · 韩国
 
-**职业代码: 15117 (KECO)**
+**职业代码：15117 (KECO)**
 
-Engineer responsible for design, development, performance testing, and production technology of automobiles and parts, researching advanced technologies like internal combustion engines, electric vehicles, and autonomous driving.
+负责汽车及零部件的设计、开发、性能测试和生产技术，研究内燃机、电动汽车和自动驾驶等先进技术的工程师
 
 
 ---
@@ -11,9 +11,9 @@ Engineer responsible for design, development, performance testing, and productio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$15,000,000（Mechanical/Automotive Engineering (Junior College)） |
-| 本科（学士学位） | 4年 | $50,000,000~$80,000,000（Mechanical Engineering/Automotive Engineering (University)） |
-| 硕士 | 2 年 | $40,000,000~$70,000,000（Graduate school master's program, research funding available） |
+| 副学士学位 | 2 年 | $8,000,000~$15,000,000（机械/汽车工程（大专）） |
+| 本科（学士学位） | 4年 | $50,000,000~$80,000,000（机械工程/汽车工程（大学）） |
+| 硕士 | 2 年 | $40,000,000~$70,000,000（研究生硕士项目，有研究经费） |
 
 ---
 
@@ -21,18 +21,18 @@ Engineer responsible for design, development, performance testing, and productio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Mechanical Engineering | Human Resources Development Service of Korea | 可选 | Essential for senior engineers, requires experience |
-| Master Automotive Mechanic | Human Resources Development Service of Korea | 可选 | Preferred in production and maintenance fields |
-| General Mechanical Engineer (Certified) | Human Resources Development Service of Korea | 可选 | Many mechanical engineering graduates obtain this |
+| 机械工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 高级工程师必备，需要经验 |
+| 高级汽车技师 | 韩国人力资源开发服务局 | 可选 | 优先考虑生产和维护领域 |
+| 通用机械工程师（认证） | 韩国人力资源开发服务局 | 可选 | 许多机械工程毕业生获得此证书 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Demand is continuously increasing due to the transition to new technologies such as electric vehicles, autonomous driving, and hydrogen cars, but the internal combustion engine field is expected to stagnate. A shortage of skilled workers is emerging.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于向电动汽车、自动驾驶和氢能汽车等新技术转型，需求持续增长，但内燃机领域预计停滞。熟练工人短缺正在显现。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +40,85 @@ Engineer responsible for design, development, performance testing, and productio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on large companies; lower for SMEs |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Varies greatly by experience and company |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Managerial level or higher, higher if possessing professional engineer certification |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于大公司；中小企业较低 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 因经验和公司差异很大 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 管理层或以上，持有专业工程师认证者薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation enhance vehicle design, simulation, and autonomous driving development, but humans still play a major role in creative design, real vehicle testing, and integrated engineering.
+人工智能和自动化增强了车辆设计、仿真和自动驾驶开发，但人类在创意设计、实车测试和集成工程方面仍扮演主要角色。
 
-Entry (Researcher) → Associate/Senior → Principal/Chief → Team Lead/CTO. Mainly in large and mid-sized companies; master's/doctoral degrees are advantageous. Career paths also include automotive parts suppliers, startups, and research institutes.
+入门（研究员）→ 副研究员/高级 → 首席/主任 → 团队负责人/CTO。主要在大中型企业，硕士/博士学位有优势。职业路径也包括汽车零部件供应商、初创公司和研究机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple CAD modeling
-- Basic structural analysis
-- Organizing standard performance test data
+- 简单的CAD建模
+- 基本结构分析
+- 组织标准性能测试数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal design exploration
-- Autonomous driving algorithm development
-- Simulation automation
+- 最优设计探索
+- 自动驾驶算法开发
+- 仿真自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Real vehicle testing and evaluation know-how
-- System integration engineering
-- Safety and durability judgment experience
+- 实车测试与评估专业知识
+- 系统集成工程
+- 安全与耐久性判断经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Python/C++ coding
-- AI/machine learning basics
-- Data analysis
-- Control systems
+- Python/C++编程
+- 人工智能/机器学习基础
+- 数据分析
+- 控制系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicles
-- Autonomous driving
-- Hydrogen vehicles
-- Smart mobility
+- 电动汽车
+- 自动驾驶
+- 氢燃料汽车
+- 智能出行
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) (Professional)) | Bachelor's or higher, experience in automotive field required, employer recommendation |
-| Subclass F-2 (F-2 (Residence) (Points-based)) | Pre-stage for long-term stay/permanent residence, requires meeting points for degree, income, experience |
-| Subclass D-10 (Job Seeking) | Bachelor's or higher, allows job-seeking activities before E-7 conversion |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with a strong science/engineering aptitude in math, physics, and computers
-- Those who combine teamwork and meticulous design skills
+- 在数学、物理和计算机方面具有较强理工科能力的人
+- 兼具团队合作和精细设计能力的人
 
 **谁不适合**
-- Those who prefer repetitive, simple tasks
-- Those who are passive about learning new technologies
+- 喜欢重复简单任务的人
+- 对学习新技术不积极的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an automotive engineer?**
-答：Entry: approx. 40 million won, mid: approx. 60 million won, senior: approx. 100 million won; higher at large companies and research institutes.
+**问：汽车工程师的平均工资是多少？**
+答：入门级：约4000万韩元，中级：约6000万韩元，高级：约1亿韩元；大企业和研究所更高。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes. An E-7 visa (Specific Activities) is common, requiring a bachelor's degree and relevant experience.
+**问：外国人能获得此职业的工作签证吗？**
+答：可以。E-7签证（特定活动）常见，要求学士学位和相关经验。
 
-**问：Is there a required major to become an automotive engineer?**
-答：Mechanical engineering, automotive engineering, electrical/electronic engineering are advantageous; a master's degree or higher is better.
+**问：成为汽车工程师需要特定专业吗？**
+答：机械工程、汽车工程、电气/电子工程有利，硕士或以上学历更佳。
 
 
 ---
@@ -143,12 +136,12 @@ Entry (Researcher) → Associate/Senior → Principal/Chief → Team Lead/CTO. M
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-engineer/KR)**

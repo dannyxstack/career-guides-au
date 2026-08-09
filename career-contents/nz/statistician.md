@@ -51,8 +51,6 @@ Statisticians are in high demand in New Zealand, eligible for the Green List dir
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Junior statisticians can advance to senior statisticians or data scientists; some move into management roles such as Chief Data Officer. Career progression can be accelerated through further study (e.g., master's degree) or obtaining professional certifications (e.g., NZSA certification).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior statisticians can advance to senior statisticians or data scientists; som
 | Subclass SMC (Skilled Migrant Category) | 6-point system: master's degree plus skilled work experience can accumulate 6 points to apply for residency |
 | Subclass AEWV (Accredited Employer Work Visa) | Used for employment on a work permit, then transition to Green List or SMC |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No mandatory registration, but NZSA certification can enhance employability.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/statistician/NZ)**

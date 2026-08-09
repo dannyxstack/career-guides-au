@@ -1,8 +1,8 @@
-# Care Worker (Medical/Welfare Facilities) 职业分析 · 日本
+# 护理员（医疗/福利机构）（Care Worker (Medical/Welfare Facilities)）职业分析 · 日本
 
-**职业代码: 361 (JSCO)**
+**职业代码：361 (JSCO)**
 
-Professionals who support daily living of the elderly and disabled in medical and long-term care facilities, including assistance with meals, bathing, and excretion.
+在医疗和长期护理机构中支持老年人和残疾人日常生活，包括协助用餐、洗澡和排泄的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ Professionals who support daily living of the elderly and disabled in medical an
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School (Caregiving Course) | 3年 | $0~$500,000（Tuition is effectively free at public high schools. Separate costs for materials, etc.） |
-| Certified Care Worker Training School (Vocational School/Junior College) | 2 年 | $2,000,000~$4,000,000（Approximate tuition fees. Scholarship programs available.） |
-| Practical Training for Unskilled Workers | 6 months | $100,000~$300,000（Correspondence courses available. Equivalent to Initial Training for Care Workers upon completion.） |
+| 高中（护理课程） | 3年 | $0~$500,000（公立高中实际上免学费。材料等费用另计。） |
+| 持证护理员培训学校（职业学校/大专） | 2 年 | $2,000,000~$4,000,000（大致学费，提供奖学金项目） |
+| 非熟练工人实操培训 | 6个月 | $100,000~$300,000（提供函授课程。完成后相当于护理员初级培训。） |
 
 ---
 
@@ -21,18 +21,18 @@ Professionals who support daily living of the elderly and disabled in medical an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Practical Training Completion | Designated by Prefectural Governor | 必备 | Required for home-visit care and certain caregiving tasks. |
-| Certified Care Worker | Ministry of Health, Labour and Welfare | 可选 | National qualification. Most common certification in caregiving. |
-| Initial Training for Care Workers Completion | Designated by Prefectural Governor | 可选 | Entry-level qualification easily obtained by beginners. |
+| 实践培训完成 | 由县知事指定 | 必备 | 上门护理及某些照护任务所需。 |
+| 认证护理员 | 厚生劳动省 | 可选 | 国家资格证书。最常见的护理认证。 |
+| 护理员初始培训完成 | 由县知事指定 | 可选 | 初学者容易获得的入门级资格。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 2,150,000. Demand is steadily increasing due to aging population. Employment is expected to remain stable with government measures to secure caregiving staff.
+**职位需求量：很高（★★★★½）** 全国从业人数约 2,150,000。由于人口老龄化，需求稳步增长。随着政府确保护理人员的措施，就业预计保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,96 +40,89 @@ Professionals who support daily living of the elderly and disabled in medical an
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,900,000~$3,600,000 | Initial Training for Care Workers completed approximately. Annual income example incl. bonus. |
-| Intermediate (4–9 years) | $3,600,000~$4,500,000 | After obtaining Certified Care Worker. Varies by facility and experience. |
-| Advanced (10+ years, managerial) | $4,500,000~$6,000,000 | Care manager or facility director level. |
+| Beginner (0–3 years) | $2,900,000~$3,600,000 | 护理员初步培训完成。年收入示例含奖金。 |
+| 中级（4-9年） | $3,600,000~$4,500,000 | 取得护理员资格后。因设施和经验而异。 |
+| 高级（10年以上，管理级） | $4,500,000~$6,000,000 | 护理经理或设施主任级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Care robots and AI are advancing, but human interpersonal care remains essential. AI replaces record-keeping and monitoring, reducing staff burden. Demand is high, and AI cannot fully replace human care.
+护理机器人和AI在进步，但人际关怀仍必不可少。AI替代记录和监控，减轻员工负担。需求量大，AI无法完全替代人工护理。
 
-After obtaining Certified Care Worker qualification, career advancement to care manager or facility director is possible. Skill improvement via practical training.
+取得认证护理员资格后，可晋升为护理管理者或设施主任。通过实践培训提升技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Record-keeping (automatic input of care records)
-- Monitoring (anomaly detection via sensors/cameras)
-- Partial bathing assistance (automatic bathing device)
-- Partial feeding assistance (robot arm)
+- 记录保存（护理记录自动输入）
+- 监控（通过传感器/摄像头进行异常检测）
+- 部分沐浴辅助（自动沐浴设备）
+- 辅助进食（机械臂）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Excretion care (timing prediction via sensors)
-- Rehabilitation (walking support with robot suits)
-- Communication (translation/voice assistance)
-- Shift scheduling (AI optimization)
+- 排泄护理（通过传感器预测时机）
+- 康复（机器人外骨骼行走辅助）
+- 通信（翻译/语音协助）
+- 班次调度（AI优化）
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication (empathy, active listening)
-- Flexible decision-making (emergency response)
-- Physical assistance (transfer, bathing, etc.)
-- Family coordination and psychological support
+- 人际沟通（同理心、积极倾听）
+- 灵活决策（应急响应）
+- 身体辅助（转移、洗澡等）
+- 家庭协调与心理支持
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Fundamentals of Caregiving Skills
-- AI/IoT Literacy
-- Communication Skills
-- Team Management
+- 护理技能基础
+- AI/物联网素养
+- 沟通技巧
+- 团队管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging society
-- Care robots
-- Foreign care workers
-- Home care
+- 老龄化社会
+- 护理机器人
+- 外国护理人员
+- 家庭护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（介護） (Specified Skilled Worker (i) (Care)) | Residence status for foreigners in care work. Requires passing skill and Japanese tests. Max stay 5 years. |
-| Subclass 特定技能2号（介護） (Specified Skilled Worker (ii) (Care)) | Care field not eligible for Specified Skilled Worker (ii); not obtainable as of 2024. |
-| Subclass EPA介護福祉士 (Economic Partnership Agreement (EPA)) | Accepts from Indonesia, Philippines, Vietnam. Aims for Certified Care Worker after language and care training. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who value human connection and are compassionate
-- Those confident in physical strength and value teamwork
-- Those who want to contribute to solving aging society issues
+- 重视人际联系且富有同情心的人
+- 体力自信且重视团队合作的人
+- 希望为老龄化社会问题做贡献的人
 
 **谁不适合**
 - 对体力劳动抗拒者
-- Those prone to emotional instability
+- 情绪不稳定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for care work?**
-答：Entry-level: about 2.9-3.6 million yen; experienced: 4.5-6 million yen. Lower than other industries, but various allowances and qualification bonuses are available.
+**问：护理工作的年收入是多少？**
+答：入门级约290万至360万日元；有经验者450万至600万日元。低于其他行业，但提供各种补贴和资格奖金。
 
-**问：What visa do foreigners need for care work?**
-答：Mainly 'Specified Skilled Worker (i) (Care)' or 'EPA'. The former requires JLPT N4 equivalent and a skills test. The latter requires a national exam after Japanese language training.
+**问：外国人从事护理工作需要什么签证？**
+答：主要是“特定技能工人(i)（护理）”或“EPA”。前者要求JLPT N4同等水平及技能测试，后者需日语培训后通过国家考试。
 
-**问：What are the career advancement paths from care work?**
-答：After obtaining a Certified Care Worker license, there are paths to become a Care Manager, facility director, or specialist in care robot implementation.
+**问：从护理工作有哪些职业晋升途径？**
+答：获得认证护工执照后，可晋升为护理经理、设施主任或护理机器人实施专家。
 
 
 ---
@@ -147,12 +140,12 @@ After obtaining Certified Care Worker qualification, career advancement to care 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/care-worker-medical-welfare-facilities/JP)**

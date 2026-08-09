@@ -4,8 +4,6 @@
 
 A management professional responsible for overseeing security and cleaning operations in buildings or facilities, including personnel management, scheduling, quality inspection, and customer response.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A management professional responsible for overseeing security and cleaning opera
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are replacing some tasks in security and cleaning through CCTV analysis and robot vacuum cleaners, but overall work is being strengthened as human roles remain crucial in manager decision-making, emergency response, and workforce management.
-
 Typically start as security guards or cleaners, then advance to site manager after gaining experience, and can rise to department head in large facilities.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Typically start as security guards or cleaners, then advance to site manager aft
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For experienced security and cleaning managers, employer recommendation required |
-| Subclass F-2 (Residence) | Long-term residents, pre-permanent residency stage, few employment restrictions |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, employment in service industry possible |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Certifications such as security instructor, cleaning manager, and industrial 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-and-cleaning-manager/KR)**

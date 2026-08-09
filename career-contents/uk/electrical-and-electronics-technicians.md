@@ -52,8 +52,6 @@ Electrical and electronic engineering technicians assist in the design, developm
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI poses a moderate threat to electrical and electronics technicians, but tends to amplify their capabilities. Automation will take over documentation and basic testing, but on-site fault diagnosis and custom installations still rely on humans. Proactively learning AI tools improves career prospects.
-
 Junior technicians can advance to senior technician or team supervisor through experience, or move towards design engineer or project engineer. Some technicians, after further study, transition into engineering management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to senior technician or team supervisor through e
 | Subclass Scale-up (Scale-up visa) | For high-skilled technicians in fast-growing companies, requiring sponsorship and high salary |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work in the UK for two years after completing their studies (three years for PhD), without requiring employer sponsorship. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Mainly via Skilled Worker visa (requires employer sponsorship), Scale-up visa
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronics-technicians/UK)**

@@ -51,8 +51,6 @@ Social work assistant professionals support social workers in social service set
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is a double-edged sword for Social Work Assistants: automation of administrative and record-keeping tasks will shrink traditional roles, but data analysis and service planning demand are growing, requiring mastery of new tools to improve efficiency.
-
 Can progress from assistant to registered social worker, or specialise in areas like child protection and mental health; can also move into management or policy roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress from assistant to registered social worker, or specialise in areas 
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with an annual salary above €30,000, requiring labor market testing |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the occupation shortage list, with an annual salary above €32,000, it can qualify for fast-track permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can advance to social worker, team leader, or specialize in child protection,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-associate-professional/IE)**

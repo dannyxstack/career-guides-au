@@ -4,8 +4,6 @@
 
 Commercial agents and representatives act as intermediaries connecting enterprises, responsible for facilitating transactions, negotiating contracts, and maintaining client relationships, mainly active in wholesale trade and industrial sectors. They usually represent multiple companies and work on a commission or fixed pay.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Commercial agents and representatives act as intermediaries connecting enterpris
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The roles of business agents and representatives will be significantly reshaped by AI: tasks like information retrieval and report generation will be compressed, but core tasks like negotiation and client relationships will be enhanced. The number of positions may decrease, but their value will increase.
-
 Junior commercial agents usually start as regional sales representatives, and after accumulating client resources and industry experience, can be promoted to senior agents or team leaders. Some outstanding agents can transition to sales managers or business development managers, or establish their own agency companies.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior commercial agents usually start as regional sales representatives, and af
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence: You must obtain a work contract with a Spanish company, and the company must prove that the position cannot be filled in the EU. Business representative positions are usually not on the shortage list and have moderate difficulty to apply. |
-| Subclass Busqueda empleo (Job Search Visa) | Job-seeking residence: Suitable for graduates who complete their studies in Spain, allowing them to stay in Spain for 12 months to find a job, and then convert to work-based residence after finding a job. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Yes. You can be promoted from junior regional sales representative to senior 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-agent-and-representative/ES)**

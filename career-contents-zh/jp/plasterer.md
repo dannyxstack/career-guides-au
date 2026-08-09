@@ -1,8 +1,8 @@
 # 抹灰工（Plasterer）职业分析 · 日本
 
-**职业代码: 664 (JSCO)**
+**职业代码：664 (JSCO)**
 
-A construction skilled worker who applies mortar, plaster, etc. to walls and floors. A profession where traditional techniques coexist with modern building demand.
+在墙壁和地板上涂抹砂浆、灰泥等的建筑技工。传统技艺与现代建筑需求并存的职业。
 
 
 ---
@@ -11,8 +11,8 @@ A construction skilled worker who applies mortar, plaster, etc. to walls and flo
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| After high school, join a construction/plastering company as an apprentice | 3年 | $0~$500,000（May require self-funding for tools at the start） |
-| Vocational training school (Construction/Plastering course) | 1~2年 | $200,000~$600,000（Public vocational training may be free） |
+| 高中毕业后，加入建筑/抹灰公司当学徒 | 3年 | $0~$500,000（可能需自费购置初期工具） |
+| 职业培训学校（建筑/抹灰课程） | 1~2年 | $200,000~$600,000（公共职业培训可能免费） |
 
 ---
 
@@ -20,18 +20,18 @@ A construction skilled worker who applies mortar, plaster, etc. to walls and flo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Plasterer Skill Test (Grade 1/2) | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Association) | 可选 | National qualification. Grade 1 is the highest level for skilled workers. |
-| Construction Business Permit (Plastering Work) | Ministry of Land, Infrastructure, Transport and Tourism (Prefectural government) | 可选 | Required for independent business |
-| Scaffolding Assembly Supervisor | Ministry of Health, Labour and Welfare (Prefectural Labour Bureau) | 可选 | May be required for high-rise work |
+| 泥水匠技能测试（1/2级） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 国家资格证书。1级是熟练工人的最高等级。 |
+| 建筑营业执照（抹灰工程） | 国土交通省（县政府） | 可选 | 独立经营所需 |
+| 脚手架组装主管 | 厚生劳动省（都道府县劳动局） | 可选 | 高空作业可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 120,000. Due to chronic labor shortages across the construction industry, demand for plasterers remains steady. As of 2024, it is a target field for Specified Skilled Worker (i), with increasing acceptance of foreign workers.
+**职位需求量：很高（★★★★½）** 全国从业人数约 120,000。由于整个建筑行业长期劳动力短缺，对泥水匠的需求保持稳定。截至2024年，它是特定技能工人(i)的目标领域，对外国工人的接受度不断提高。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A construction skilled worker who applies mortar, plaster, etc. to walls and flo
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,600,000 | Annual income. Mostly daily/monthly wage, approx. ¥230,000–300,000/month |
-| Intermediate (3–7 years) | $3,600,000~$4,800,000 | Annual income. Many hold Skill Test Grade 2. |
-| Expert (7+ years) | $4,800,000~$6,500,000 | Annual income. Includes allowances for Grade 1 or foreman. Earnings may increase significantly if independent. |
+| 初级（0-3年） | $2,800,000~$3,600,000 | 年收入，多为日薪/月薪，约23万-30万日元/月 |
+| 中级（3-7年） | $3,600,000~$4,800,000 | 年收入。许多人持有技能考试2级。 |
+| 专家（7年以上） | $4,800,000~$6,500,000 | 年收入。包括一级或领班的津贴。如果独立工作，收入可能大幅增加。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robots cannot completely replace the delicate plastering work of plasterers, but AI is being introduced as an aid in material blending, process management, and quality inspection, improving productivity. As a result, AI will not take away plasterers' jobs but will enhance their skills.
+人工智能和机器人无法完全取代抹灰工精细的抹灰工作，但人工智能正作为材料混合、流程管理和质量检查的辅助工具被引入，以提高生产力。因此，人工智能不会夺走抹灰工的工作，而是会提升他们的技能。
 
-Starting as an apprentice, one can aim for Skill Test Grade 1 or recognition as an Excellent Skilled Worker (Modern Master). Career paths are diverse, including independent business or incorporation.
+从学徒开始，可以争取技能测试1级或优秀技能工人（现代大师）认证。职业路径多样，包括独立创业或成立公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple mortar mixing work
-- Certain pattern spray painting
-- Flat surface plastering feasible by automatic plastering robots
+- 简单的砂浆搅拌工作
+- 特定图案喷漆
+- 自动抹灰机器人可完成平面抹灰
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automatic optimization of material blending
-- AI quality checks of construction photos using smartphones
-- Finish simulation using AR
+- 物料配比自动优化
+- 使用智能手机进行施工照片的AI质量检查
+- 使用AR完成模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Craftsman's intuition for adjusting subtle textures of finishes
-- Adaptability for hand plastering on uneven/irregular surfaces
-- Situation-based judgment and flexible response at each site
+- 工匠对饰面细微纹理调整的直觉
+- 适应不平整/不规则表面的手工抹灰
+- 基于情况的判断和每个现场的灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Obtaining Grade 1 Plastering Skilled Worker certification
-- Adaptability to new materials (plaster, diatomaceous earth, etc.)
-- Basic understanding of construction IT (AI, drones, BIM)
-- Business skills such as customer service and estimate creation
+- 获得一级抹灰技术工人认证
+- 对新材料（石膏、硅藻土等）的适应能力
+- 对建筑IT（AI、无人机、BIM）的基本理解
+- 客户服务和估算创建等业务技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Exterior wall renovation
-- Plaster and diatomaceous earth
-- Plastering skill inheritance
-- Fireproof coating work
+- 外墙翻新
+- 石膏和硅藻土
+- 抹灰技能传承
+- 防火涂层工作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Specified Skilled Worker (i) in construction. Plastering is an eligible job. Max stay of 5 years. Passing the skills test (construction field) required. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | Construction added to Specified Skilled Worker (ii) from 2023. Plastering included. Renewable stay, family accompaniment and permanent residency possible. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | This status usually does not apply to plastering, but may be possible when combined with construction management etc. at a construction company. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and enjoy making things
-- People who like physical work and are confident in their stamina
-- People who want to learn traditional skills and work long-term as artisans
+- 手巧且喜欢制作东西的人
+- 喜欢体力劳动且对自己的耐力有信心的人
+- 希望学习传统技能并长期从事工匠工作的人
 
 **谁不适合**
-- People who dislike working at heights or with dust
-- People who dislike weather-dependent work
+- 不喜欢高空作业或接触粉尘的人
+- 不喜欢依赖天气工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a plasterer?**
-答：Less than 3 years experience: 2.8–3.6 million yen; intermediate: 3.6–4.8 million yen; skilled: 4.8–6.5 million yen. Self-employment can yield higher income.
+**问：泥水匠的年收入是多少？**
+答：不满3年经验：280万至360万日元；中级：360万至480万日元；熟练：480万至650万日元。自主创业可获得更高收入。
 
-**问：What visa does a foreigner need to work as a plasterer in Japan?**
-答：The main route is through Specified Skilled Worker (i) (Construction) or Specified Skilled Worker (ii) (Construction). You must pass a skills test. Specified Skilled Worker (ii) allows family accompaniment and permanent residence applications.
+**问：外国人在日本做抹灰工需要什么签证？**
+答：主要通过特定技能工人(i)(建筑)或特定技能工人(ii)(建筑)路径。需通过技能考试。特定技能工人(ii)允许家属陪同和申请永久居留。
 
-**问：Are special qualifications needed to become a plasterer?**
-答：No mandatory qualifications are required, but obtaining a skilled worker certification is advantageous for salary increases and independence. To start your own business, a construction permit (plastering work) is necessary.
+**问：成为抹灰工需要特殊资质吗？**
+答：没有强制资质要求，但获得熟练工人证书有利于加薪和独立创业。要自己创业，需要施工许可证（抹灰工作）。
 
 
 ---
@@ -143,12 +136,12 @@ Starting as an apprentice, one can aim for Skill Test Grade 1 or recognition as 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/plasterer/JP)**

@@ -4,8 +4,6 @@
 
 Divers engage in underwater operations, including construction, inspection, maintenance, salvage, and marine engineering, using specialized diving equipment under safe regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Divers engage in underwater operations, including construction, inspection, main
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Divers' work is affected by AI automation: underwater inspections and data recording can be partially replaced by ROVs and AI analysis, but complex repairs, emergency decision-making, and on-site safety monitoring still require human judgment and operation, raising concerns about the narrowing of entry-level positions and pressure to upgrade skills.
-
 You can be promoted from junior diver to supervisor, dive technician, or project manager. After obtaining advanced commercial diving certification, you can transition to specialized fields such as underwater welding and underwater exploration.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ You can be promoted from junior diver to supervisor, dive technician, or project
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | For work residency sponsored by a Spanish employer, it must prove that the position does not recruit qualified local employees. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: The chances are very low. This occupation is not considered in short supply a
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diver/ES)**

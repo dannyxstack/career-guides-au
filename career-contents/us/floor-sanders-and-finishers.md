@@ -54,8 +54,6 @@ Operate floor sanders and scrapers to level wooden floor surfaces, then apply pr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
-
 Practitioners can be promoted to renovation foreman, project supervisor, or start their own floor covering company. With experience, they can obtain a general contractor license and expand their business scope.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Practitioners can be promoted to renovation foreman, project supervisor, or star
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Non-agricultural temporary work visa, applicable to seasonal floor renovation projects; employer must pass labor certification test. Limited quota, annual cap of 66,000. |
 | Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Unskilled Workers) | Employment-based immigration third preference, but floor layers are usually classified as 'unskilled workers', requiring high qualifications and long waiting times; actually low feasibility. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: After accumulating 2-5 years of experience, you can obtain NWFA certification
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-sanders-and-finishers/US)**

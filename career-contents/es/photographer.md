@@ -4,8 +4,6 @@
 
 Photographers use cameras and lighting equipment to capture portraits, landscapes, commercial products, or news events, and through post-processing, they complete high-quality video works.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Photographers use cameras and lighting equipment to capture portraits, landscape
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Photographers face the dual impact of automation and AI-enhanced work: post-processing and basic shooting tasks may be replaced by AI, but abilities like creative planning and director-style communication are amplified by AI, requiring mastery of AI tools and enhanced artistic cultivation to balance risks.
-
 Photographers can advance from assistant to independent photographer, or focus on niche areas such as wedding dresses, commercial advertising, and fashion photography. Experienced individuals can open photography studios or transition to video directors or art directors.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Photographers can advance from assistant to independent photographer, or focus o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Residence (Employment)) | Must be employed by a Spanish company, the contract meets minimum salary requirements (about 30,000 euros per year), and the company must prove the position cannot be found locally. |
-| Subclass Cuenta propia (Self-employed work residence) | Suitable for freelance photographers, requires submission of a business plan and financial proof, and the approval process is strict. |
-| Subclass Búsqueda de empleo (Job seeking, residence, and residence) | After graduation, you are allowed to stay in Spain for 12 months to look for job opportunities. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Build an excellent portfolio, master video shooting and post-production skill
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/ES)**

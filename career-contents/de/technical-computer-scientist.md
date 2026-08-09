@@ -53,8 +53,6 @@ Responsible for developing, maintaining, and optimizing computer systems and net
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Computer engineers (excluding software engineers) face mixed prospects: repetitive tasks like network configuration and troubleshooting will be automated by AI, but responsibilities like system architecture design, complex integration, and cybersecurity strategy are amplified with AI assistance; overall impact depends on the specific field.
-
 Can progress from junior developer to senior engineer, architect, or IT project manager, or move into management such as IT director.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior developer to senior engineer, architect, or IT project 
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Open to qualified skilled migrants, requires a work contract |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allows entering the country first to find a job |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a university degree in computer science or related field, bu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-computer-scientist/DE)**

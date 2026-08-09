@@ -4,8 +4,6 @@
 
 As the highest decision-maker of a university, oversees overall education, research, and administration, leading the development of university plans and external relations. It is a senior management position.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ As the highest decision-maker of a university, oversees overall education, resea
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI supports administrative efficiency and data-driven decision-making, but the president's leadership and external negotiation/vision establishment are difficult to replace. The ability to utilize AI as a tool will become important.
-
 Typically, professors go through positions such as department head, dean, and vice president before being elected or appointed. The term is generally 4 years for a single term. Political and financial capabilities are becoming important.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Typically, professors go through positions such as department head, dean, and vi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign professors/researchers may be eligible, but president-level is practically impossible |
-| Subclass F-2 (F-2 (Residence)) | Possible only for permanent residents, but realistically difficult |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: After being appointed as a professor, it is common to hold positions such as 
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/president-of-university-and-dean-of-college/KR)**

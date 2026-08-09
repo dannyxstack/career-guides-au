@@ -53,8 +53,6 @@ Flight instructors train students to fly aircraft, covering theoretical instruct
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of flight instructors will be deeply reshaped by AI and simulation technology. Theoretical teaching and basic assessment can be automated, but emergency judgment during actual flights, personalized guidance, and safety supervision still heavily rely on human experience.
-
 Career path: from assistant coach to head coach, or transition to a commercial airline as a captain. You can also obtain advanced qualifications to become an inspector or training manager.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: from assistant coach to head coach, or transition to a commercial a
 | Subclass Skilled Worker (Skilled Worker Visa) | Applies to those with recognized flight instructor qualifications; requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year of job search, requires German B1 or English B2. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must hold an EASA-approved license and be certified by LBA. Can apply for a B
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flight-instructor/DE)**

@@ -4,8 +4,6 @@
 
 Responsible for developing and executing sales and marketing strategies, managing teams, and driving business growth. In the Netherlands, this role is common in retail, technology, and manufacturing, requiring a combination of data analysis and market insights.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for developing and executing sales and marketing strategies, managin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on Sales and Marketing Manager roles is mixed: data analysis and report generation tasks are automated, reducing some work, but core interpersonal skills like strategic decision-making, client relationship maintenance, and team leadership are amplified by AI, creating new value.
-
 Career path: Start as a Sales Manager or Marketing Specialist, advance to Senior Manager, Director, and ultimately Chief Marketing Officer (CMO) or Vice President of Business. Cross-departmental experience and international perspective aid advancement.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career path: Start as a Sales Manager or Marketing Specialist, advance to Senior
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable to high-paying positions, employer sponsorship, salary threshold €5,331/month (2024, age 30+) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education + high salary, minimum salary €5,900/month (2024), fast residency |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For Dutch graduate international students, one year to find a job, lower salary requirement |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Trends in digital transformation and sustainability in the Netherlands drive 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-marketing-manager/NL)**

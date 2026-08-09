@@ -1,10 +1,8 @@
-# Stone Cutter 职业分析 · 日本
+# 石匠（Stone Cutter）职业分析 · 日本
 
-**职业代码: 692 (JSCO)**
+**职业代码：692 (JSCO)**
 
-Occupation of mining and processing stone in quarries. Requires traditional stonemasonry skills and heavy machinery operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在采石场开采和加工石料的职业。需要传统石匠技能和重型机械操作。
 
 
 ---
@@ -13,8 +11,8 @@ Occupation of mining and processing stone in quarries. Requires traditional ston
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（No educational requirements; OJT-centered） |
-| Vocational training school (Stone Processing) | 1年 | $500,000~$800,000（Prefectural vocational training schools） |
+| 高中文凭 | 0年 | $0~$0（无学历要求；以在职培训为主） |
+| 职业培训学校（石材加工） | 1年 | $500,000~$800,000（县立职业培训学校） |
 
 ---
 
@@ -22,17 +20,17 @@ Occupation of mining and processing stone in quarries. Requires traditional ston
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Slinging Skill Training | Prefectural Labor Bureau | 必备 | Required for crane work |
-| Forklift Operation Skill Training | Prefectural Labor Bureau | 必备 | Useful for stone transport |
+| 吊装技能培训 | 县级劳动局 | 必备 | 起重机作业所需 |
+| 叉车操作技能培训 | 县级劳动局 | 必备 | 用于石材运输 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 5,000. Employment is declining due to decreased construction demand and alternative materials. Aging workforce and difficulty securing younger workers are challenges.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 5,000。由于建筑需求下降和替代材料的使用，就业正在减少。劳动力老龄化和难以吸引年轻工人是挑战。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,90 +38,83 @@ Occupation of mining and processing stone in quarries. Requires traditional ston
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | 学徒期间薪资较低 |
-| 中级（4-9年） | $4,000,000~$5,000,000 | Increases with skill acquisition |
-| Experienced (10+ years) | $5,000,000~$7,000,000 | Varies with management/self-employment |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 学徒期间薪资较低 |
+| 中级（4-9年） | $4,000,000~$5,000,000 | 随技能掌握而增长 |
+| 有经验（10年以上） | $5,000,000~$7,000,000 | 因管理/自雇而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While automation and mechanization are advancing, demand for high-quality stone processing and traditional techniques remains. Overall employment is on a declining trend.
+尽管自动化和机械化在推进，但高质量石材加工和传统工艺的需求仍然存在。整体就业呈下降趋势。
 
-From apprentice to skilled worker, advancing to quarry management or self-employment.
+从学徒到熟练工，晋升到采石场管理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- simple quarry work
-- heavy material handling
+- 简单采石工作
+- 重型物料搬运
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- precision cutting and processing (AI-controlled machinery)
-- optimization of quarrying plans
+- 精密切割与加工（AI控制机械）
+- 采石计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- artisan's aesthetic sense
-- knowledge of traditional techniques
-- on-site adaptability
+- 工匠的审美感
+- 传统工艺知识
+- 现场适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- operation of digitally controlled machinery
-- 3D measurement technology
-- knowledge of stone materials
+- 数控机械操作
+- 3D测量技术
+- 石材知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Decrease in stone demand
-- Alternative materials
-- quarry closure
-- automation
+- 石材需求下降
+- 替代材料
+- 采石场关闭
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | May qualify as stone processing technician |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Included in construction field, but target job types limited |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Confident in physical strength
-- Dexterous hands
-- Interested in traditional skills
+- 体力自信
+- 灵巧的双手
+- 对传统技艺感兴趣
 
 **谁不适合**
-- Dislike physical labor
-- Want stable income
+- 不喜欢体力劳动
+- 想要稳定收入
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a stone cutter?**
-答：Depends on experience; for mid-level, around 4-5 million yen.
+**问：石材切割工的平均年收入是多少？**
+答：取决于经验；对于中级，大约400-500万日元。
 
-**问：Can foreigners work as stone cutters?**
-答：It may be possible under Engineer/Specialist in Humanities/International Services visa, but Japanese proficiency and skill certification are required.
+**问：外国人可以担任石材切割工吗？**
+答：在人文/国际服务专家签证下可能可行，但需要日语能力和技能认证。
 
-**问：Does this occupation have future prospects?**
-答：Demand is declining, with few young entrants.
+**问：这个职业有前景吗？**
+答：需求下降，新人入行少。
 
 
 ---
@@ -141,12 +132,12 @@ From apprentice to skilled worker, advancing to quarry management or self-employ
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/stone-cutter/JP)**

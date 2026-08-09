@@ -53,8 +53,6 @@ Responsible for ship construction, repair, and modification, including structura
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Shipbuilding technician jobs are mixed with AI/automation: design and quality inspection are enhanced, but physical tasks like welding and assembly are hard to replace; entry-level positions have narrowed due to CAD/CAM.
-
 Can advance from technician to project manager or marine engineer, requiring experience and qualifications; some move into offshore wind or yacht manufacturing.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from technician to project manager or marine engineer, requiring exp
 | Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | After dual-system training, can apply once you have a work contract. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can apply for a skilled migration visa after obtaining a work contract throug
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shipbuilding-technician/DE)**

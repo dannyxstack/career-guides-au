@@ -51,8 +51,6 @@ Installs and maintains power distribution lines on poles and steel towers. Mainl
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While drones and AI image diagnostics are being introduced for inspection and recording of distribution lines, the physical work of stringing and laying is difficult to automate, requiring human skill and judgment. AI plays only a supplementary role.
-
 Start as an apprentice, gain experience and qualifications to become fully skilled. Advancement to team leader, supervisor, safety manager, or management roles at electrical contractors.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Start as an apprentice, gain experience and qualifications to become fully skill
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Electrical/Electronic Information Related Industries)) | Can work for up to 5 years based on work experience. Requires skills test and Japanese N4 or above. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when specialized knowledge of high-altitude work or electrical work is required. Requires university degree or over 10 years of practical experience. |
-| Subclass 技能実習3号 (Technical Intern Training (Electrical Work)) | Up to 5 years. Learn distribution line work based on training plan. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: Generally, obtain an electrician's license and get hired as an apprentice at 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/distribution-line-stringer-installer/JP)**

@@ -4,8 +4,6 @@
 
 A specialist who controls and monitors assembly equipment (robots, conveyors, etc.) on automobile production lines, ensuring normal operation and quality maintenance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist who controls and monitors assembly equipment (robots, conveyors, et
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-With AI and automation, line anomaly detection and simple control will be replaced, but human judgment is needed for advanced anomaly response and equipment improvement. Tasks are shifting toward coexistence with AI-assisted/automated systems.
-
 Young workers start as equipment operators → line management. With experience, they can advance to production engineering or maintenance management.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Young workers start as equipment operators → line management. With experience,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Automotive Maintenance/Manufacturing)) | Automotive manufacturing. Transferable to (ii). Exams/Japanese required. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school or higher knowledge/experience. Mechanical control expertise needed. |
-| Subclass 技能実習（自動車組立） (Technical Intern Training (Manufacturing)) | Available under conditions up to (iii). Limited monitoring work. Short-term. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Mainly 'Specified Skilled Worker (i) (Automobile Manufacturing)' and 'Enginee
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-assembly-equipment-control-monitoring-operator/JP)**

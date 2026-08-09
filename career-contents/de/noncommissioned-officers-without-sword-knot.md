@@ -53,8 +53,6 @@ A Hauptfeldwebel (without sword) is a mid-level NCO in the German Bundeswehr, re
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core duties of non-commissioned officers without swords (leadership, discipline, on-site decision-making) are harder to automate, but tasks such as administration, report writing, and training planning will be significantly assisted by AI; the overall job will not disappear, but the way of working will change.
-
 Senior non-commissioned officers can be promoted through promotion exams and years of service to senior ranks (e.g., Command Sergeant Major), or become officers through officer training. Career paths include tactical command, technical maintenance, or administrative roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Senior non-commissioned officers can be promoted through promotion exams and yea
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible; this role requires German citizenship and does not accept 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncommissioned-officers-without-sword-knot/DE)**

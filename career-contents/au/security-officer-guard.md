@@ -58,8 +58,6 @@ Security officers are responsible for personnel and property protection, visitor
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The safety officer career shows a mixed trend: AI automated monitoring and visitor management will compress entry-level jobs but enhance advanced analysis and emergency response capabilities; professional judgment and on-site interpersonal interaction form a moat, with clear upgrade paths.
-
 Australia's security industry is expanding rapidly (120,000 workers, 1,000+ jobs listed on Seek at any time). Trends include integration of technical security (CCTV/access control) and multi-skilling (first aid/fire monitoring). Corporate Security Manager is the highest-paying career path, with annual salary up to $100k–$150k.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Australia's security industry is expanding rapidly (120,000 workers, 1,000+ jobs
 | Subclass 189 (SkillSelect Independent) | Invitation-based, skills assessment required, with relatively high points threshold for invitation |
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Security is the easiest of the three to enter (2–4 weeks of training), offe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-officer-guard/AU)**

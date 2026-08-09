@@ -53,8 +53,6 @@ Set up, operate, or tend wood sawing machines, including CNC equipment. Responsi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Timber sawing machine operators face mixed impacts: automation compresses repetitive tasks, but AI enhances complex custom machining and predictive maintenance, with demand diverging toward high-skilled operators.
-
 Can progress from operator to senior sawyer, team leader, or move into CNC programming and machine maintenance. With experience, opportunities arise as production supervisor or quality control inspector.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from operator to senior sawyer, team leader, or move into CNC progr
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult. Generally requires employer sponsorship for H-2B temporary wo
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sawing-machine-setters-operators-and-tenders-wood/US)**

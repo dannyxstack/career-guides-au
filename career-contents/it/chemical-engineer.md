@@ -51,8 +51,6 @@ Chemical engineers design, develop, and optimize chemical processes applied in e
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Chemical engineering sits between AI-automated tasks and human expert judgment; routine process optimization may be taken over by AI, but complex process design still needs human experts, with mixed overall impact.
-
 Junior engineers can advance to senior engineer or process manager through project experience, or transition to R&D or project management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior engineers can advance to senior engineer or process manager through proje
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a work contract and annual salary above the threshold (about €32,000). |
-| Subclass Decreto Flussi (Decreto Flussi) | Annual quota work visa, applicable to non-EU workers, requires employer application |
-| Subclass Nulla Osta (Nulla Osta) | Work permit, applied for by the employer for a specific position, requires proof that no local candidate is available |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Optional, but registration (via national exam) can improve career opportuniti
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineer/IT)**

@@ -4,8 +4,6 @@
 
 This occupation involves assembling and inspecting electrical/electronic parts and finished products on production lines, primarily working in manufacturing sites. Quality and productivity depend on skill level.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves assembling and inspecting electrical/electronic parts a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation replace simple assembly and inspection tasks, reducing headcount, but precision assembly and anomaly response remain human roles. Hiring opportunities for low-skilled entry-level workers are expected to decrease.
-
 Career progression: Junior Assembler → Skilled Assembler → Line Leader → Process Engineer. Job training and certifications are advantageous.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career progression: Junior Assembler → Skilled Assembler → Line Leader → P
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled manufacturing workers, eligible for assembly line work, under Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Targets skilled labor, requires certification and experience |
-| Subclass F-2 (Residence) | Can work after residing for a certain period, precursor to permanent residency |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: You can advance to line leader or process engineer by building skills, and ob
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-electronic-parts-and-product-assembler/KR)**

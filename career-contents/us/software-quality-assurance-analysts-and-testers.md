@@ -52,8 +52,6 @@ Develop and execute software tests, identify issues, and report defects to ensur
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Progress from junior tester to senior test engineer, test manager, or QA director; can also transition to software development or automation testing.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from junior tester to senior test engineer, test manager, or QA directo
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree holders or skilled workers, via PERM labor certification, with long wait times. |
 | Subclass TN (TN Status (USMCA)) | Applicable to Canadian or Mexican citizens, under the Computer Systems Analyst category. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Projected 25% growth by 2033, much faster than average, driven by increased d
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-quality-assurance-analysts-and-testers/US)**

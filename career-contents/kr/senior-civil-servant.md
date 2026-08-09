@@ -4,8 +4,6 @@
 
 A high-ranking managerial position responsible for establishing and coordinating policies of ministries or local governments and overseeing organizations, working for the public interest of the entire nation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A high-ranking managerial position responsible for establishing and coordinating
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation may replace some routine administrative and data processing tasks, but the policy-making and leadership roles of senior civil servants are difficult to replace with AI, so the workforce size is expected to remain or slightly decrease.
-
 After passing the 5th-7th grade civil service exam, one rises to senior positions through internal promotions, with policy expertise in finance, economy, society, etc., and leadership being key.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ After passing the 5th-7th grade civil service exam, one rises to senior position
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass 해당 없음 (Civil service recruitment is reserved for nationals) | High-ranking officials must be ROK nationals |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +139,12 @@ A: After passing the Civil Service Examination (Grade 5 open competition), you e
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-civil-servant/KR)**

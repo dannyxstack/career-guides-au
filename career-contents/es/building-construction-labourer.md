@@ -4,8 +4,6 @@
 
 Engage in physical labor on construction sites, including material transport, digging, cleaning the site, assisting craftsmen, etc. This position does not require professional skills, but physical fitness and compliance with safety regulations are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engage in physical labor on construction sites, including material transport, di
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Manual tasks such as repetitive handling, cleaning, and other manual tasks for construction site movers are easily replaced by automated machinery and robots, significantly reducing entry-level positions.
-
 Through accumulating experience, you can be promoted to skilled worker (such as plasterer or bricklayer) or site supervisor, and you can also change careers by obtaining technical certificates through vocational education (FP). Long-term development depends on skill improvement.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Through accumulating experience, you can be promoted to skilled worker (such as 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | To apply for work residency through employer sponsorship, it is necessary to prove that the position cannot be filled by a local resident (although the occupation usually does not meet the requirements). |
-| Subclass Busqueda empleo (Job search visa) | You are allowed to stay in Spain for 6 months to look for work, but finding an employer sponsorship is difficult |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: No formal education required, but safety training (PRL certificate) is needed
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-labourer/ES)**

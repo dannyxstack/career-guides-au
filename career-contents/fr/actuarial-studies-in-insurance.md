@@ -51,8 +51,6 @@ Actuaries use mathematics, statistics, and financial theory to assess risks in i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
-
 Junior Actuarial Analysts can be promoted to Actuary, Senior Actuary, and ultimately become Chief Actuary or Director of Actuarial Studies. You can also shift to risk management, data science, or consulting. Passing the French Association of Actuaries (IA) exam is required.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior Actuarial Analysts can be promoted to Actuary, Senior Actuary, and ultima
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for non-EU actuaries with high academic qualifications (Master's+) and an annual salary of €53,469.50. Quickly obtain residency and enjoy free movement within the EU. |
-| Subclass Passeport Talent - C (Talent Passport) | It is suitable for actuaries with a master's degree and an annual salary of 36,034 euros (about twice the SMIC). No labor market testing. |
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship and approval from the French Labour Directorate. Applicable for actuaries earning below the Blue Card threshold. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Must obtain the actuary diploma from the French Institute of Actuaries (IA). 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actuarial-studies-in-insurance/FR)**

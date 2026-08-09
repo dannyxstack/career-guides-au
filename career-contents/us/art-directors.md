@@ -51,8 +51,6 @@ Art directors conceive and present design concepts for visual works such as prin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of art director is reshaped by AI in a mixed way: AI can efficiently generate visual concepts and layout options, accelerating creative iteration, but final decisions, client communication, and team leadership still rely on human judgment. Entry-level roles may shrink due to automated design tools, but demand for high-value creative direction increases.
-
 Career progression typically starts from designer or assistant art director, moving up to art director, then senior art director or creative director. Some may move into management or start their own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically starts from designer or assistant art director, mov
 | Subclass EB-2 (Employment-Based Second Preference) | For applicants with advanced degrees or exceptional ability; requires PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | For applicants with exceptional abilities in the arts, no lottery required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Steady employment growth but competitive; higher demand in digital media and 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/art-directors/US)**

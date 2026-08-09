@@ -53,8 +53,6 @@ Engaged in the assembly and installation of furniture and fixtures for commercia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Installers and assemblers face high automation risks; AI and robotics will compress basic assembly positions, but on-site customization and complex coordination tasks are still difficult to replace.
-
 You can advance from assembler to team leader or project coordinator, or specialize in high-end customization or sustainable installation. After gaining experience, you can either operate your own or join a professional subcontracting company.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from assembler to team leader or project coordinator, or special
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed by a French company, requiring a work contract and labor market test, suitable for long-term employment. |
-| Subclass Passeport Talent (Talent Passport) | If the position is in a shortage occupation or highly skilled, procedures can be simplified without labor market testing. |
-| Subclass Carte bleue UE (EU Blue Card) | For high-paying positions (≥53k€), but these jobs usually do not meet the salary threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Typically, through the Salarié work visa, employer sponsorship and labor mar
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitting-assembler/FR)**

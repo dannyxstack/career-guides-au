@@ -52,8 +52,6 @@ Mixed crop growers manage the planting, growing, and harvesting of multiple crop
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mixed crop farmer tasks combine automation and human judgment. AI will take over monitoring, recording, and some mechanical operations, but complex decisions in multi-crop management, environmental adaptability, and biodiversity management still require humans. Overall, there are both risks and opportunities.
-
 Career progression from farm worker to farm manager or self-employment; with experience, can specialize in high-value crops or transition to agricultural advisor.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career progression from farm worker to farm manager or self-employment; with exp
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Italy's annual quota applies to non-EU seasonal agricultural workers; requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but mixed crop growers usually do not meet salary requirements. |
-| Subclass Self-Employment Visa (Self-Employment Visa) | Applicable to foreigners planning to start a farm in Italy, requiring a business plan. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance from farm worker to farm supervisor, or lease land to become an i
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-grower/IT)**

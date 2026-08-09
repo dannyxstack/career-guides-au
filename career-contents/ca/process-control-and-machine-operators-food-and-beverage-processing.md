@@ -53,8 +53,6 @@ In a brewery, operate equipment for brewing, fermentation, filtration, and packa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will enhance production monitoring and formula optimization, but physical operations and quality control still rely on human experience. Entry-level positions may decrease due to automation, but demand for senior technicians will rise.
-
 From entry-level operator to senior brewer or production manager, requiring experience accumulation and brewing certifications; can also transition to quality control or R&D roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ From entry-level operator to senior brewer or production manager, requiring expe
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Promotion to winemaker, production supervisor or quality control specialist; 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/process-control-and-machine-operators-food-and-beverage-processing/CA)**

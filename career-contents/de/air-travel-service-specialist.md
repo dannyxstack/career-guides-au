@@ -54,8 +54,6 @@ Provide check-in, boarding, baggage services, and information consultation for p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive tasks of Aviation Passenger Service Agents (such as check-in, baggage inquiries) face high automation risk, but core tasks involving complex customer interaction, emergency handling, and emotional support still rely on humans; the role will transition to customer experience management.
-
 Can advance from Junior Service Agent to Senior Agent, Team Leader, or Ground Services Supervisor. May also move to airline management or airport operations.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from Junior Service Agent to Senior Agent, Team Leader, or Ground Se
 | Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires recognized professional qualification and employer contract, usually German B1 language proficiency |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing entry for job seeking before finding employment, subject to language, age, and other conditions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Entry possible via Skilled Worker Visa (requiring employer sponsorship and pr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-travel-service-specialist/DE)**

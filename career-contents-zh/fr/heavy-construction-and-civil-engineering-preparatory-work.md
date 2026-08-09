@@ -1,6 +1,6 @@
-# Heavy Construction and Civil Engineering Preparatory Work 职业分析 · 法国
+# 重型建筑与土木工程准备工作（Heavy Construction and Civil Engineering Preparatory Work）职业分析 · 法国
 
-**职业代码: F1704 (ROME)**
+**职业代码：F1704 (ROME)**
 
 负责建筑工地和公共工程的前期准备工作，包括混凝土模板安装、钢筋绑扎、地基开挖、土方工程等。
 
@@ -24,16 +24,16 @@
 | CACES 工程机械操作证书 | CNAM / 授权培训机构 | 必备 | 操作挖机、装载机等必备，属于安全管理证书 |
 | SST 急救培训 | INRS / 授权机构 | 必备 | 工地安全必备，通常雇主安排 |
 | CAP 建筑工文凭 | 法国国家教育部 | 可选 | 基础入职门槛，非强制但普遍要求 |
-| 资质认证（Reconnaissance） | France Compétences | 可选 | 外国文凭需经认证，流程约3-6个月 |
+| 资质认证（Reconnaissance） | 法国能力署 | 可选 | 外国文凭需经认证，流程约3-6个月 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. 法国政府持续推进基础设施更新和住房建设，该职业需求稳定。预计未来十年从业人数保持平稳，受退休人员补充需求影响。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。法国政府持续推进基础设施更新和住房建设，该职业需求稳定。预计未来十年从业人数保持平稳，受退休人员补充需求影响。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -51,21 +51,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 土木工程与公共工程准备工的体力劳动和现场操作不易被AI完全替代，但设计优化、文档自动化等智能工具将显著提升效率，入门岗位（如模板工、钢筋工）可能因自动化缩小，但技术复合型岗位需求增加。
 
 可从普通工人晋升为团队负责人（Chef d'équipe），进而成为工地主管（Conducteur de travaux）。也可通过职业培训转向更专业的岗位如模板工或钢筋工。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 基于BIM的自动生成钢筋布局图和模板配模计算
 - 土方工程中的GPS引导自动挖掘机进行精确开挖
 - 混凝土浇筑过程中的自动振捣与抹平机器人操作
 - 施工现场安全监控的AI视频分析（如识别未戴安全帽）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助设计软件优化地基处理方案及模板支撑体系
 - 无人机结合AI进行现场进度自动监测与土方量核算
@@ -73,7 +73,7 @@
 - AI驱动的项目管理平台优化施工排程与资源调度
 - 增强现实（AR）辅助工人进行复杂钢筋节点绑扎
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂地质条件下的决策能力（如判断地基开挖的临时支护方式）
 - 多工种协调与现场突发问题处理（如管线碰撞）
@@ -81,7 +81,7 @@
 - 安全责任与质量验收的最终判断权
 - 面对恶劣环境（噪音、灰尘、天气）的适应力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM建模与协作平台操作（如Revit、Navisworks）
 - 无人机操作与摄影测量基础
@@ -90,28 +90,20 @@
 - 可持续施工与绿色建筑知识
 - 基础编程（Python）用于数据自动化处理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Infrastructure renewal
-- Construction boom
-- Skilled labor shortage
-- Public works projects
+- 基础设施更新
+- 建筑热潮
+- 技术工人短缺
+- 公共工程项目
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | 受雇工作居留，需雇主提供劳动合同，适用于长期工作 |
-| Subclass Passeport Talent (Talent Passport) | 人才护照，适用于高技能或紧缺职业，有效期4年 |
-| Subclass Carte bleue UE (EU Blue Card) | 欧盟蓝卡，适用于年薪超过53,836.50欧元的高技能职位，该职业通常不满足薪资门槛 |
-| Subclass Recherche emploi (Job Search Permit) | 毕业后求职签证，允许在法居留1年寻找工作 |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +147,12 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/heavy-construction-and-civil-engineering-preparatory-work/FR)**

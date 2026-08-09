@@ -53,8 +53,6 @@ Secondary school teachers teach students in grades 7 to 12 in public or private 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 Career progression paths include becoming a teaching head, curriculum coordinator, or deputy principal. Experienced individuals can move into education policy, teacher training, or educational technology.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression paths include becoming a teaching head, curriculum coordinato
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship, 2-4 years, eligible for 186 permanent residency |
 | Subclass 491 (Skilled Work Regional Visa) | Regional sponsorship, transition to 191 permanent residence, additional points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can transition to education consulting, curriculum development, educational t
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/middle-school-teacher-intermediate-school-teacher/AU)**

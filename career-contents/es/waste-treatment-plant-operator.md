@@ -51,8 +51,6 @@ Responsible for operating and maintaining wastewater, solid waste, and industria
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The daily monitoring and recording tasks of wastewater treatment plant operators are easily automated by AI, but on-site equipment maintenance and emergency response still require humans. AI will enhance their process optimization capabilities, resulting in mixed outcomes for the overall role.
-
 Junior operators can be promoted to senior operators or team leaders, and further move on to environmental technicians or plant managers. Through advanced FP training or engineering degrees, you can enter technical consultant or project management positions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior operators can be promoted to senior operators or team leaders, and furthe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer-sponsored work residence requires proof that the position does not attract suitable candidates in the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a bachelor's degree or above and a contract with a salary above the average. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, provided you have sufficient financial support. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically requires a FP Grado Superior (in environmental chemistry or water t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-treatment-plant-operator/ES)**

@@ -52,8 +52,6 @@ In Canada, IT support (computer network technical support technicians) provide h
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly reduce network support technician roles; automated diagnostics and remote repairs decrease demand for entry-level support, but advanced troubleshooting and architecture design still require humans.
-
 Career progression path: can develop into system administrator, network engineer, IT project manager, or information security analyst. After gaining experience, transition to high-paying fields like cloud computing or cybersecurity, or obtain certifications such as CISSP or CCNP to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression path: can develop into system administrator, network engineer
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations such as Ontario and BC, requiring employer sponsorship or skills priority |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for those who find an employer in the four Atlantic provinces |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: No mandatory certification, but CompTIA A+, Network+, Microsoft/Cisco basic c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-support-technicians/CA)**

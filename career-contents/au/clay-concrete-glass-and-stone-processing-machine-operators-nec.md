@@ -53,8 +53,6 @@ Operate and monitor machinery for clay, concrete, glass, or stone processing, su
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-This occupation faces significant automation risk, especially in repetitive tasks like cutting and mixing, as AI and robotics will reduce job numbers.
-
 Can advance from junior operator to senior operator, team leader, or production supervisor, or move to equipment maintenance or quality control through further training. Experienced individuals may start their own business.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from junior operator to senior operator, team leader, or production 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: After gaining experience, advance to team leader or production supervisor, or
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clay-concrete-glass-and-stone-processing-machine-operators-nec/AU)**

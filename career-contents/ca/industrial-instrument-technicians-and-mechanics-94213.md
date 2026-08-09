@@ -53,8 +53,6 @@ Canadian NOC 94213 corresponds to Plastic and Rubber Production Machine Operator
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Plastic and rubber production machine operators face a high risk of automation; AI vision and robots can take over repetitive tasks like quality inspection and sorting, but equipment maintenance and anomaly handling still require human intervention. It is recommended to transition towards multi-skilled technician or equipment maintenance roles.
-
 Entry-level operators can advance to senior operators or team leaders, with opportunities to transfer to quality control or maintenance roles. On-the-job training or short courses are needed for skill enhancement. Long-term development relies on industry experience and technological updates.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level operators can advance to senior operators or team leaders, with oppo
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Provincial certification is usually not required, but some provinces may requ
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-instrument-technicians-and-mechanics-94213/CA)**

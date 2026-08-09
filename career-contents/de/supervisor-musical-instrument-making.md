@@ -54,8 +54,6 @@ Responsible for overseeing production processes in musical instrument manufactur
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Musical instrument manufacturing supervisors face dual impacts of AI automation and augmentation: quality inspection, scheduling and other tasks can be taken over by AI, but process decisions, fine adjustments, team coordination rely on human experience and aesthetics; the role is being reshaped as a 'middle layer'.
-
 Career paths include from instrument maker to workshop supervisor, then to production manager or founder of an independent master workshop. Cross-disciplinary skills (e.g., acoustical engineering, materials science) can broaden development opportunities.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths include from instrument maker to workshop supervisor, then to produ
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job seeker visa allows coming to Germany to look for work, but requires recognized qualifications or relevant experience. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must prove financial capacity. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: The industry is small but stable, with sustained demand for high-end custom i
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-musical-instrument-making/DE)**

@@ -53,8 +53,6 @@ General clerks in New Zealand perform administrative support, data entry, filing
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
-
 General clerks can advance to senior clerk, administrative supervisor, or office manager, and some transition to specialized fields like human resources or financial assistant. Requires accumulating experience and improving software skills and communication.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ General clerks can advance to senior clerk, administrative supervisor, or office
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Usually not. This occupation is not on the Green List; SMC requirements are h
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-clerk/NZ)**

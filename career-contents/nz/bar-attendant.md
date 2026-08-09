@@ -54,8 +54,6 @@ Mixing drinks, managing operations in bars, restaurants, hotels, etc. Practition
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bartenders/bar managers face AI automation taking over ordering, inventory, and other admin tasks, but core skills like creative mixology, customer experience, and human interaction are amplified; the moat lies in sensory creation and personalized service.
-
 Bartenders can advance to senior bartender, bar supervisor, bar manager, or transition to sommelier or food and beverage management. With experience, obtaining a manager license (GM License) allows managing large bars. Some start their own bar businesses.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Bartenders can advance to senior bartender, bar supervisor, bar manager, or tran
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can advance from bartender to senior bartender, bar supervisor, bar manager, 
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bar-attendant/NZ)**

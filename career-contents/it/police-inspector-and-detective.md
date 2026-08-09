@@ -4,8 +4,6 @@
 
 Responsible for criminal investigations, case solving, and supervising police operations, a senior role in the Italian law enforcement system.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for criminal investigations, case solving, and supervising police op
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on police inspectors and detectives is mixed: it can automate data analysis, surveillance review, and report generation, significantly boosting efficiency; however, key tasks like field investigations, interrogations, and decision-making rely on human judgment and are less replaceable.
-
 Typically start as police officers, advance to inspector through exams and years of service, and can further rise to senior officer.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Typically start as police officers, advance to inspector through exams and years
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, but police positions usually require citizenship. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Annual quota for non-EU workers; police positions are exempt. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Typically requires Italian citizenship, making immigration extremely difficul
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-inspector-and-detective/IT)**

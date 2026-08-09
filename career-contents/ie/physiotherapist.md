@@ -52,8 +52,6 @@ Physiotherapists help patients restore function, relieve pain, and promote healt
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
-
 Junior physiotherapist can advance to senior therapist, team leader or specialist consultant (e.g. neurological rehab, musculoskeletal), or move into management or academic research. Requires ongoing professional development (CPD) to maintain registration.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior physiotherapist can advance to senior therapist, team leader or specialis
 | Subclass General Employment P (General Employment Permit) | Applicable to positions with annual salary above €30,000, requires labour market testing, can transition to Critical Skills |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens with an annual salary of €60,000 or more (or €40,000 for shortage occupations), enabling fast residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must submit academic credential assessment, proof of language (IELTS 7.0 or e
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/IE)**

@@ -54,8 +54,6 @@ Non-medical psychotherapists provide psychotherapy services but do not have a me
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly improve the work efficiency of psychotherapists, but is strictly constrained by legal and ethical boundaries; core diagnostic and therapeutic responsibilities cannot be replaced, resulting in mixed overall impact.
-
 Career paths typically begin with obtaining qualifications after completing a degree and training. You can independently run a clinic or work in a hospital or rehabilitation center. With experience, you can move into supervision, teaching, or research, or open your own clinic.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths typically begin with obtaining qualifications after completing a de
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allowing for job seeking and qualification assessment preparation. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay to look for work, requiring proof of financial means. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: With rising mental health awareness, demand continues to grow. Career paths i
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonmedical-psychotherapist/DE)**

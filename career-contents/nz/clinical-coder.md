@@ -52,8 +52,6 @@ Responsible for converting patient diagnoses and surgical procedures into standa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Clinical coders face mixed impacts from AI: automated coding tools can handle routine tasks, but reviewing complex cases and maintaining coding quality still require human judgment, and policies and accountability limit full automation.
-
 Junior clinical coders can advance to senior coder, coding team leader, or clinical information analyst. With experience, they can move into areas such as medical data management, quality improvement, or health information management. The career path is clear, and income increases with experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior clinical coders can advance to senior coder, coding team leader, or clini
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Occupation on the Green List Tier 2, eligible for residency after 2 years of work. |
 | Subclass SMC (Skilled Migrant Category) | Meeting the 6-point system (qualifications + work experience) is required to apply, with the occupation in ANZSCO skill level 1-3. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires completion of a 1-year certificate or 2-year diploma course 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-coder/NZ)**

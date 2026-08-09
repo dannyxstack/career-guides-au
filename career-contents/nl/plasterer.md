@@ -4,8 +4,6 @@
 
 Plasterers apply plaster to interior and exterior walls, ceilings, and other surfaces for leveling, decoration, and repair; it is an essential skilled trade in building construction.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Plasterers apply plaster to interior and exterior walls, ceilings, and other sur
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plastering is a combination of physical and skilled work. Some repetitive tasks can be replaced by automation tools, but fine plastering, repairs, and complex decorative work still require human judgment. AI is more of an amplifier than a replacement.
-
 Starting as an apprentice, with years of experience one can advance to foreman or project supervisor; also can specialize in fields like decorative plastering or restoration of historic buildings, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Starting as an apprentice, with years of experience one can advance to foreman o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with employer sponsorship, requiring a salary threshold (2024: approximately €5,331/month); plasterers typically need to meet the medium threshold. |
-| Subclass Orientation Year (zo (Orientation Year) | Dutch university graduates or graduates from the world's top 200 universities can apply for a 1-year job-seeking visa, and can switch to a work visa after finding a relevant job |
-| Subclass EU Blue Card (EU Blue Card) | Aimed at highly skilled non-EU citizens, requires employer sponsorship with a high salary threshold (around €5,331/month in 2024), typically unattainable for plasterers. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Yes, the Dutch construction industry faces a shortage of skilled workers, wit
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/NL)**

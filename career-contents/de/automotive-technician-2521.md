@@ -54,8 +54,6 @@ Automotive technicians diagnose, repair, and maintain passenger and commercial v
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automotive technicians in Germany face mixed impacts from AI and automation: cognitive tasks like diagnostics and report generation are enhanced, but physical repairs and regulatory responsibilities provide a moat; entry-level positions have lower barriers due to AI tools, but specialized roles require more skill upgrades.
-
 Apprentice → skilled technician → shift supervisor/technical specialist → service manager or independent auto repair shop owner. Can also become an automotive electrical technician or technical diagnostician through further education.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Apprentice → skilled technician → shift supervisor/technical specialist → 
 | Subclass Chancenkarte (Opportunity Card) | A job-seeking visa based on a points system, allowing you to come to Germany to find work; you need to prove language proficiency and professional qualifications |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring a German degree or accredited professional qualification |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Yes, can advance to shift supervisor, technical diagnostic specialist, servic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-technician-2521/DE)**

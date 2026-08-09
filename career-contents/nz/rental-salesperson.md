@@ -51,8 +51,6 @@ Rental salespersons provide leasing services for vehicles, equipment, accommodat
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sales consultants' tasks like enquiries, quoting, and contract processing are easily automated by AI, but building client trust, complex negotiations, and on-site service still require humans—the profession has mixed prospects.
-
 Junior positions can advance to senior sales consultant or store manager by accumulating sales experience and client base. They can also transition to specialized fields like financial leasing or equipment management, with significant salary increases.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Junior positions can advance to senior sales consultant or store manager by accu
 | Subclass AEWV (Accredited Employer Work Visa) | After employer sponsorship, can work for 3 years and apply for permanent residency if conditions met |
 | Subclass SMC (Skilled Migrant Category) | Requires hourly wage reaching the median ($31.61/hour in 2024) or higher, EOI 6-point system |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Demand is stable in tourism and construction industries, with moderate job op
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rental-salesperson/NZ)**

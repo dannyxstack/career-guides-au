@@ -51,8 +51,6 @@ Livestock farm workers care for animals, including feeding, cleaning sheds, assi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The cultural safety consulting and community liaison roles of Indigenous health workers are difficult for AI to replace, but AI can serve as a powerful tool to enhance their health data management, health education resource creation, and remote patient tracking, improving service efficiency and coverage.
-
 Typically start with basic labor, gain experience to advance to supervisor or ranch manager. Can also transition to more specialized livestock technician roles through training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start with basic labor, gain experience to advance to supervisor or ra
 | Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requiring Labour Market Testing |
 | Subclass EU Blue Card (EU Blue Card) | Usually not applicable to farm workers due to higher salary requirements |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can apply through the General Employment Permit, but the employer must prove 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-farm-labourer/IE)**

@@ -54,8 +54,6 @@ On-site assembly, positioning, welding, and securing of metal structures (such a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 You can be promoted from junior installer to foreman or site supervisor, or through further training to become a steel structure detailer or project manager. After accumulating experience, you can start your own business and undertake subcontracted projects.
 
 **Tasks most exposed to AI:**
@@ -98,17 +96,9 @@ You can be promoted from junior installer to foreman or site supervisor, or thro
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Workers) | The most common work residency requires a Spanish employer sponsorship and meets labor market testing requirements. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or at least 5 years of relevant experience, with a salary threshold of approximately 33,908 euros per year (2024). |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | For highly skilled talents with educational or experience requirements, the process is simplified, allowing family members to be brought along. |
-| Subclass Búsqueda de empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must prove your financial capability. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Typically, it is necessary to complete FP secondary vocational education (2 y
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steel-erector/ES)**

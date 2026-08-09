@@ -53,8 +53,6 @@ Mobile application developers design and build apps for iOS and Android platform
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mobile app development engineers are mixed by AI: routine UI coding and testing tasks are highly automated, but AI enhances personalized design, cross-platform optimization, and user behavior analysis. Overall demand is steadily rising.
-
 Native iOS (Swift) and Android (Kotlin) development remain high-paying specialisations, but React Native and Flutter are rapidly gaining market share. AI feature integration (machine learning SDKs, LLM API calls) is becoming a key differentiating skill for senior mobile developers.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Native iOS (Swift) and Android (Kotlin) development remain high-paying specialis
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Demand remains strong, with Seek showing 150-280 active positions regularly. 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-developer/AU)**

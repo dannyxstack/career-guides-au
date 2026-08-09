@@ -52,8 +52,6 @@ Responsible for dimensions, appearance, and performance testing of mechanical pa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Quality technicians' work faces moderate automation risks; routine inspection tasks are easily replaced by AI vision and data analysis, but complex fault analysis and quality improvement decisions still require human judgment, with clear direction for skill development.
-
 Junior inspectors can be promoted to quality engineers or quality managers. By learning tools like Six Sigma and Lean Management, you can transition to quality management system auditing or supply chain quality control positions.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior inspectors can be promoted to quality engineers or quality managers. By l
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | This applies to high-skilled positions with annual salaries above the designated French threshold (about 53,000 euros), but quality control technicians usually do not meet this threshold. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to those in shortage occupations or with a master's degree or higher, requires employer sponsorship, contract period at least 3 months. |
-| Subclass Salarié (Employee Work Permit) | Standard work residence permit, requires employer to prove inability to recruit suitable candidates within the EU, approved by the French labor authority. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Promotion to Quality Engineer, Quality Manager, or transition to supplier qua
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-control-technician-in-mechanical-engineering-and-metalworking/FR)**

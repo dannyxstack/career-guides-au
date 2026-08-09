@@ -52,8 +52,6 @@ Gastroenterologists diagnose and treat digestive system diseases; it is a direct
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gastroenterologists' work heavily relies on clinical judgment and manual operations. AI mainly enhances diagnostic efficiency and clerical processing rather than replacing core medical care, so overall risk is low.
-
 After vocational training, enter public hospitals; with experience, transition to private clinics or become department head, or engage in research and teaching, with clear promotion pathways
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ After vocational training, enter public hospitals; with experience, transition t
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registration plus training can earn high points; meeting salary requirements makes application easy. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can first use this work visa to work in New Zealand, and later apply for residence if conditions are met. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: The Medical Council of New Zealand requires English proficiency, typically IE
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gastroenterologist/NZ)**

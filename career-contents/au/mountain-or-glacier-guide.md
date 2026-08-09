@@ -53,8 +53,6 @@ Lead tourists or adventurers in hiking, climbing, or skiing activities in mounta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Impact of AI on mountain or glacier guides is mixed: route planning and information queries can be automated, but on-site safety decisions, emotional interaction, and real-time adaptability remain human strengths, with overall risk manageable.
-
 Can progress from junior guide to senior guide, team leader, or trainer; some transition to adventure tourism manager or start their own guiding company.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior guide to senior guide, team leader, or trainer; some tr
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer sponsorship, but this occupation is usually not on the occupation list. |
 | Subclass 462 (Working Holiday Visa) | Common path; can work as a seasonal guide |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation is usually not on the skilled migration occupation list; the 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mountain-or-glacier-guide/AU)**

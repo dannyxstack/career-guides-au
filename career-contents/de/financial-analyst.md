@@ -51,8 +51,6 @@ Financial analysts analyze market data, evaluate investment opportunities, and p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Financial analysts are in a mixed-impact zone for AI: data collection and basic analysis will be automated, but advanced judgment, client communication, and compliance decisions still require humans. Entry-level competition intensifies, while senior analysts amplify abilities with AI.
-
 From junior analyst, you can advance to senior analyst, team leader, or portfolio manager. With experience, you can move into private equity, venture capital, or corporate finance executive roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From junior analyst, you can advance to senior analyst, team leader, or portfoli
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to professionals with recognized qualifications and employer sponsorship, no hard annual salary requirement. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, allows job searching and trial work in Germany for one year. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree or higher in finance or economics. CFA
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/DE)**

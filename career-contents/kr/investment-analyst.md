@@ -4,8 +4,6 @@
 
 A financial professional who analyzes corporate, industrial, and economic data to support investment decisions and optimize portfolios.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A financial professional who analyzes corporate, industrial, and economic data t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI replaces data collection and basic analysis, but high-value tasks like strategy, judgment, and client relationships actually expand.
-
 Career path: Junior Analyst → Fund Manager/Analyst → Research Head/CIO. CFA and Korea Certified Investment Analyst (KCIA) are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Career path: Junior Analyst → Fund Manager/Analyst → Research Head/CIO. CFA 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | For skilled foreigners in professional fields (finance/investment), requires employer sponsorship |
-| Subclass F-2 (Residence (F-2)) | Can be converted after long-term E-7 stay, a step before permanent residence |
-| Subclass F-5 (Permanent Residence (F-5)) | Can be obtained through skilled/investment immigration, no activity restrictions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Starting as a junior analyst, you can accumulate industry experience and be p
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/investment-analyst/KR)**

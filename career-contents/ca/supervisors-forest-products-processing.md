@@ -51,8 +51,6 @@ Oversees daily operations of forest product processing plants (e.g., sawmills, p
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Landscaping and horticulture services contractors/supervisors have mixed prospects: physical and on-site decision tasks are hard to automate, but documentation, monitoring, and client communication are being enhanced by AI, with medium automation risk.
-
 Can progress from entry-level processing worker to supervisor, then to production manager or plant manager; obtaining forestry-related certifications (e.g., RPF) can enhance management opportunities.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from entry-level processing worker to supervisor, then to productio
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored Labour Market Impact Assessment, leading to a closed work permit, then transitioning to experience-based immigration |
 | Subclass Express Entry (FSW/C (Federal Skilled Worker / Canadian Experience Class) | Must meet NOC TEER 0 or 1 requirements (supervisors are in category 0), but typically requires at least one year of relevant work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Moderate difficulty; can immigrate through Provincial Nominee Program (PNP) o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-forest-products-processing/CA)**

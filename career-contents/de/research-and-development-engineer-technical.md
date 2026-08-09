@@ -52,8 +52,6 @@ Engages in research and development in technical fields, covering new product de
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-R&D engineers face mixed impacts from AI: routine testing, data analysis, and documentation tasks will be automated, but complex system innovation, cross-disciplinary integration, and experimental design still require deep human involvement.
-
 Career path: Junior R&D Engineer → Senior/Project Lead → R&D Manager → Technical Director (CTO). Also possible to transition to patents, standardization, or technical consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Junior R&D Engineer → Senior/Project Lead → R&D Manager → Tec
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to engineers with recognized German qualifications, no Blue Card salary threshold required. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, suitable for qualified professionals who have not yet found a job. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually start as a junior R&D engineer, can advance to senior engineer, proje
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-and-development-engineer-technical/DE)**

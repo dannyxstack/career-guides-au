@@ -53,8 +53,6 @@ Conventional inspectors and testers examine materials and products such as metal
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The work of routine inspectors and testers will have mixed prospects: AI vision and automated testing will replace many visual inspections and simple tests, but complex defect judgment, new test method development, and compliance responsibilities still require humans; the role will not disappear but will transform.
-
 Can advance from junior inspector to senior inspector or quality control supervisor, or move to quality control engineer or production management roles. Requires experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from junior inspector to senior inspector or quality control supervi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: High risk; many routine inspections are already completed by machines. It is 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/routine-inspectors-and-testers/UK)**

@@ -54,8 +54,6 @@ An Architectural Draftsperson is responsible for producing construction drawings
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Architectural drafters face mixed impacts from AI: simple drafting tasks are replaced by automation tools, but BIM, parametric design, and sustainability needs actually increase demand for creative, collaborative senior drafters.
-
 BIM coordination and 3D modelling are gradually replacing 2D AutoCAD, but design document review and client communication still require human input. Drafters with BIM skills command a clear salary premium.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ BIM coordination and 3D modelling are gradually replacing 2D AutoCAD, but design
 | Subclass 189 (Skilled Independent) | Points-tested independent migration |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -160,12 +156,13 @@ A: Not required. A Diploma or Certificate IV is sufficient to enter the field; t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architectural-draftsperson/AU)**

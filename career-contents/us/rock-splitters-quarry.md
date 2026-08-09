@@ -53,8 +53,6 @@ In quarries, use rock drills, wedges, and cutting saws to separate rough stone f
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rock splitters face high automation risk; automated machinery will gradually replace manual splitting, leading to shrinking demand
-
 Can advance to quarry foreman or site supervisor; transition to stone cutting technician or stone processing workshop operator through experience; a few move into mine safety management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance to quarry foreman or site supervisor; transition to stone cutting te
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to quarry supervisor, or transition to stone cutting technician, 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rock-splitters-quarry/US)**

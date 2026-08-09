@@ -54,8 +54,6 @@ Park ranger in New Zealand is a junior to mid-level occupation, mainly responsib
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Some tasks of nature reserve rangers can be automated by AI (e.g., data recording, monitoring), but core duties like on-site patrol, law enforcement, and public education rely on human judgment and interaction, resulting in medium-low overall risk. Entry-level positions may have slightly higher digital requirements, but experience remains key.
-
 Junior rangers can start from seasonal or volunteer positions, gain experience, and advance to senior ranger or regional supervisor. They can also move laterally into environmental education, ecological restoration, or wildlife management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior rangers can start from seasonal or volunteer positions, gain experience, 
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer sponsorship, common in environmental departments or local government, requires employer accreditation and hourly wage at median (approx. NZD 29.66). |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Park ranger is on Green List T2; can apply for residence after working for 2 years. Requires employer accreditation and hourly wage at median. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a diploma or bachelor's degree in environmental management
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/park-ranger/NZ)**

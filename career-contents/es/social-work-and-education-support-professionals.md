@@ -51,8 +51,6 @@ Assist social workers and educators in providing support to vulnerable groups, y
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Candidates can be promoted from assistant to senior technician or coordinator, and further pursue degrees in social work or education to become professional social workers or teachers.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Candidates can be promoted from assistant to senior technician or coordinator, a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employee)) | A work contract is provided by a Spanish employer, allowing employment residency. |
-| Subclass Tarjeta azul UE (EU Blue Card) | If you hold a university degree and your salary meets the threshold (about 33,900 euros), you can apply for the EU Blue Card. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for senior positions or internal transfers within enterprises, streamlining processes. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Candidates can be promoted from assistant to senior technician, project coord
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-work-and-education-support-professionals/ES)**

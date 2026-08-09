@@ -53,8 +53,6 @@ Responsible for corporate fund management, financing strategies, cash flow forec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 You can advance from junior fund analyst to fund manager, CFO, or move to higher-level positions such as investment banking or corporate finance.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior fund analyst to fund manager, CFO, or move to higher
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Profession Artistique et Culturelle / Salarié Qualifié) | Suitable for highly skilled talents requiring employer sponsorship, contract term, and salary requirements |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card has an annual salary threshold of about 53,000 euros, suitable for senior positions |
-| Subclass Salarié (Salarié (Employee) Work Permit) | Long-term work residence must meet the conditions of the French labor market |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to Director of Funds, Director of Finance, or transition 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/treasury-and-financing-manager/FR)**

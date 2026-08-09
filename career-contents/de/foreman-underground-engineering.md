@@ -53,8 +53,6 @@ An underground construction supervisor oversees tunneling, pipeline, and foundat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Can progress from tradesperson to supervisor, then to construction manager or project supervisor; through continuing education (e.g., Meister degree) can move into senior management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from tradesperson to supervisor, then to construction manager or pr
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; professional qualifications must be certified |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allows entry to seek work; suitable for those with professional experience |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must complete German dual vocational training (3 years) and obtain an IHK cer
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foreman-underground-engineering/DE)**

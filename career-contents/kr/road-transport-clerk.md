@@ -4,8 +4,6 @@
 
 This occupation handles clerical tasks related to freight/passenger vehicle transport, including managing operation records, establishing transport plans, and handling customer inquiries and bookings.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation handles clerical tasks related to freight/passenger vehicle tran
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation systems can replace a significant portion of driving records, dispatching, and customer service, reducing the demand for human workers. However, humans are still needed for handling exceptional situations and complex decision-making.
-
 Initially handling administrative and reception duties, after 5–10 years of experience, one can advance to a team leader/manager or grow into a logistics planning specialist.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Initially handling administrative and reception duties, after 5–10 years of ex
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Limited to manufacturing, construction, agriculture, livestock, and fishing industries; difficult to acquire for transport clerks |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable but limited in logistics/transport management for skilled workers |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible via points system, includes transport clerk jobs |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Freight forwarder license required; logistics manager is optional but a plus.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-transport-clerk/KR)**

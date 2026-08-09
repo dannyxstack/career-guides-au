@@ -4,8 +4,6 @@
 
 This occupation assists legal professionals such as lawyers and notaries in handling legal affairs including lawsuits, registrations, and notarizations. Tasks include drafting legal documents, submitting papers to courts and administrative agencies, and supporting client consultations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This occupation assists legal professionals such as lawyers and notaries in hand
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-With AI and automation replacing simple repetitive tasks such as legal document drafting and document review, the role of legal assistants will shrink. However, tasks requiring high-level judgment and human interaction like client counseling will still be needed, making the value of specialized legal assistants more important.
-
 Typically starts as an office assistant; with experience, advancement to senior clerk or team leader is possible. Many aim to obtain qualifications as a lawyer or notary.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Typically starts as an office assistant; with experience, advancement to senior 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Partially possible with recognized legal expertise, but uncommon |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no separate activity restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | Employment allowed for overseas Koreans, legal office assistance possible |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: You must graduate from law school and pass the bar exam separately; field exp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-clerk/KR)**

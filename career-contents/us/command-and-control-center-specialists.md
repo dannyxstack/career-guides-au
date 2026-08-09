@@ -52,8 +52,6 @@ Operate and monitor communication, detection, and weapon systems; coordinate air
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-C2 center specialists will see AI-assisted decision enhancement, but routine monitoring and data synthesis tasks may be automated, shifting roles towards higher-level tactical planning and human-machine collaboration.
-
 Career path usually progresses from low-level operator to senior operator or supervisor, then to command center management or military strategic planning. Some may transition into cybersecurity or intelligence analysis.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path usually progresses from low-level operator to senior operator or sup
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Generally starts as an operator, progresses to supervisor or management roles
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/command-and-control-center-specialists/US)**

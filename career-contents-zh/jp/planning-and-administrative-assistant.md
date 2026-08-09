@@ -1,10 +1,8 @@
-# Planning and Administrative Assistant 职业分析 · 日本
+# 规划与行政助理（Planning and Administrative Assistant）职业分析 · 日本
 
-**职业代码: 253 (JSCO)**
+**职业代码：253 (JSCO)**
 
-An administrative role in charge of planning, document creation, data analysis, and meeting coordination within a company. Supports management strategy and new business initiatives.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责公司内部规划、文件创建、数据分析和会议协调的行政职位。支持管理战略和新业务计划。
 
 
 ---
@@ -13,8 +11,8 @@ An administrative role in charge of planning, document creation, data analysis, 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior College | 2 年 | $1,000,000~$2,000,000（For private junior colleges） |
-| University (Economics, Business Administration, Commerce) | 4年 | $4,000,000~$8,000,000（Varies by national/public/private） |
+| 大专 | 2 年 | $1,000,000~$2,000,000（适用于私立初级学院） |
+| 大学（经济学、工商管理、商科） | 4年 | $4,000,000~$8,000,000（因国立/公立/私立而异） |
 
 ---
 
@@ -22,18 +20,18 @@ An administrative role in charge of planning, document creation, data analysis, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Business Practical Worker | National Association of University Practical Education | 可选 | Proof of planning and administrative skills |
-| Nissho Bookkeeping Level 2 | The Chamber of Commerce and Industry | 可选 | Advantageous for financial understanding |
-| Small and Medium Enterprise Management Consultant | Japan Association of Small and Medium Enterprise Management Consultants | 可选 | Effective for career advancement |
+| 商务实践工作者 | 全国大学实践教育协会 | 可选 | 规划和管理技能证明 |
+| 日商簿记2级 | 工商会 | 可选 | 有利于财务理解 |
+| 中小企业管理顾问 | 日本中小企业管理咨询师协会 | 可选 | 有助于职业发展 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 850,000. Demand for planning and administrative assistants is stable in corporate strategy departments, but as AI advances in data analysis, specialists need to enhance their expertise.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 850,000。企业战略部门对规划和行政助理的需求稳定，但随着人工智能在数据分析方面的发展，专家需要提升专业知识。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,92 +39,85 @@ An administrative role in charge of planning, document creation, data analysis, 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$4,000,000 | Average early 20s |
-| 中级（5-10年） | $4,500,000~$6,000,000 | Average 30s |
-| Advanced (10+ years) | $6,000,000~$9,000,000 | 管理或专科岗位 |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 平均20岁出头 |
+| 中级（5-10年） | $4,500,000~$6,000,000 | 平均30多岁 |
+| 高级（10年以上） | $6,000,000~$9,000,000 | 管理或专科岗位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-Although AI may replace part of the work of planning clerks, such as data analysis and document creation, higher-level judgment such as strategic thinking and interpersonal coordination remains a human role, so AI will not completely replace them.
+虽然AI可能取代计划文员的部分工作，如数据分析和文档创建，但战略思维和人际协调等更高层次的判断仍然是人的角色，因此AI不会完全取代他们。
 
-Starting from general administrative work, progressing to planning assistant, planning specialist, chief, and manager. An MBA or specialized qualifications are effective for career advancement.
+从一般行政工作开始，晋升为规划助理、规划专员、主管和经理。MBA或专业资格对职业发展有效。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine Data Aggregation
-- Creating Meeting Materials
-- Schedule Coordination
+- 常规数据汇总
+- 制作会议材料
+- 日程协调
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data Analysis and Visualization
-- Market Research and Report Writing
-- Efficiency in Project Management
+- 数据分析与可视化
+- 市场调研与报告撰写
+- 项目管理效率
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic Thinking
-- Building Relationships
-- Negotiation Skills
+- 战略思维
+- 建立人际关系
+- 谈判技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Presentation
+- 数据分析
+- 演示
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Project Planning
-- Data Analysis
+- 项目规划
+- 数据分析
 - 项目管理
-- Digital Transformation (DX) Promotion
+- 数字化转型（DX）推进
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and relevant work experience |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Certified under a points-based system based on annual income, education, etc. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with logical thinking skills
-- People good at creating documents
-- People who can collaborate in teams
+- 具备逻辑思维能力的人才
+- 擅长制作文档的人
+- 能够团队协作的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People not good with detailed numbers
+- 不擅长处理具体数字的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a planning clerk?**
-答：The average annual income is about 4.5 million yen, and with experience it can exceed 6 million yen.
+**问：规划文员的平均年收入是多少？**
+答：平均年收入约450万日元，有经验者可超过600万日元。
 
-**问：How can a foreigner work as a planning clerk?**
-答：An Engineer/Specialist in Humanities/International Services visa is required, along with a university degree or higher and Japanese language ability (N2 or above).
+**问：外国人如何成为企划文员？**
+答：需要人文/国际服务领域的工程师/专家签证，以及大学学历或更高学历和日语能力（N2或以上）。
 
-**问：How to advance your career?**
-答：Expanding your career through an MBA, acquiring qualifications such as a Small and Medium Enterprise Diagnostic Consultant, or transferring to another department is effective.
+**问：如何晋升你的职业？**
+答：通过MBA拓展职业生涯，获得中小企业诊断顾问等资格，或转到其他部门是有效的。
 
 
 ---
@@ -144,12 +135,12 @@ Starting from general administrative work, progressing to planning assistant, pl
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/planning-and-administrative-assistant/JP)**

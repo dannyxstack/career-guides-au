@@ -51,8 +51,6 @@ Wine growers manage daily vineyard operations including pruning, irrigation, pes
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Can advance from apprentice to vineyard supervisor or winemaker, or further study to become an agricultural consultant or self-employed.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from apprentice to vineyard supervisor or winemaker, or further stud
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires a university degree or recognized professional qualification |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Must complete German-recognized vocational training or have relevant qualific
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/viticulturist/DE)**

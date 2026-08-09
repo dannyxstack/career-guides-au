@@ -51,8 +51,6 @@ Insurance agents sell policies on behalf of insurance companies, while insurance
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Practitioners can advance to team leader, regional manager, or start their own insurance brokerage. Continuous learning and obtaining advanced certifications (e.g., CFP) aid career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Practitioners can advance to team leader, regional manager, or start their own i
 | Subclass PNP (Provincial Nominee Program) | Some provinces give priority to insurance agents; a job offer from an employer is required. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, but must prove inability to hire locally. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation is TEER 2 and can be applied for via Express Entry or PNP, bu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-agents-and-brokers/CA)**

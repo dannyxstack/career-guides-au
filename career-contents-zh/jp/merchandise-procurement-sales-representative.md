@@ -1,10 +1,8 @@
-# Merchandise Procurement Sales Representative 职业分析 · 日本
+# 商品采购销售代表（Merchandise Procurement Sales Representative）职业分析 · 日本
 
-**职业代码: 326 (JSCO)**
+**职业代码：326 (JSCO)**
 
-This sales position involves visiting manufacturers and wholesalers to propose product purchases and take orders from retail stores, playing a crucial role in the retail industry.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该销售职位涉及拜访制造商和批发商，向零售店推销产品采购并获取订单，在零售行业中扮演关键角色。
 
 
 ---
@@ -13,8 +11,8 @@ This sales position involves visiting manufacturers and wholesalers to propose p
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Public high school case） |
-| Junior college or vocational school | 2 年 | $2,000,000~$4,000,000（Private school case） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中案例） |
+| 大专或职业学校 | 2 年 | $2,000,000~$4,000,000（私立学校案例） |
 
 ---
 
@@ -22,17 +20,17 @@ This sales position involves visiting manufacturers and wholesalers to propose p
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Retail Sales Certification | The Japan Chamber of Commerce and Industry | 可选 | Basic knowledge of the retail industry |
-| Practical English Proficiency Test | The Eiken Foundation of Japan | 可选 | Advantageous for transactions with foreign companies |
+| 零售销售认证 | 日本商工会议所 | 可选 | 零售行业基础知识 |
+| 实用英语能力测试 | 日本英检基金会 | 可选 | 有利于与外国公司交易 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Due to structural changes in retail and the expansion of e-commerce, demand is flat to slightly decreasing. While there is a continued shortage of experienced workers, new entrants remain limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于零售业结构变化和电子商务扩张，需求平稳至略有下降。虽然经验丰富的工人持续短缺，但新进入者仍然有限。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,91 +39,84 @@ This sales position involves visiting manufacturers and wholesalers to propose p
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
 | 初级 (0-3年) | $3,000,000~$4,000,000 | 底薪+佣金 |
-| 中级 (3-7年) | $4,000,000~$5,500,000 | Expanded territory |
-| 高级（7年以上） | $5,500,000~$7,000,000 | Includes management duties |
+| 中级 (3-7年) | $4,000,000~$5,500,000 | 拓展区域 |
+| 高级（7年以上） | $5,500,000~$7,000,000 | 包括管理职责 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Routine tasks like order processing and inventory management are easily automated by AI, but human negotiation and new client acquisition will remain human roles for now.
+订单处理和库存管理等常规任务容易被AI自动化，但人类谈判和新客户获取目前仍需人类角色。
 
-Starting from scratch, you can advance your career by increasing your assigned area and clients. Opportunities to become a buyer or sales manager are also available.
+从零开始，通过增加分配区域和客户来提升职业发展。还有机会成为采购员或销售经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order Processing
-- Inventory Check
-- Simple Sales Record Keeping
+- 订单处理
+- 库存盘点
+- 简易销售记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer Data Analysis
-- Demand Forecasting
-- Sales Support Tool Utilization
+- 客户数据分析
+- 需求预测
+- 销售支持工具运用
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Negotiation Skills
-- Trust Building
-- Market Knowledge
+- 人际谈判技巧
+- 建立信任
+- 市场知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- CRM Utilization
-- Presentations
+- 数据分析
+- CRM利用
+- 演示汇报
 
-**主要增长方向:**
+**主要增长方向：**
 
-- EC shift in retail industry
-- Sales DX
-- Data Utilization
-- Sales Efficiency
+- 零售行业的电商转型
+- 销售DX
+- 数据利用
+- 销售效率
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Obtainable through work utilizing specialized skills or foreign language abilities. |
-| Subclass 特定活動 (Designated Activities) | Limited to spouse employment of highly skilled, etc. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like meeting others
-- People with negotiation skills
-- People with a competitive spirit
+- 喜欢与人交往的人
+- 有谈判技巧的人
+- 有竞争精神的人
 
 **谁不适合**
-- People who prefer desk work
-- People who like routine work
+- 偏好案头工作的人
+- 喜欢常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a merchandise purchasing agent?**
-答：Depends on experience: entry level ¥3-4M, mid level ¥4-5.5M, advanced ¥5.5-7M.
+**问：商品采购代理的平均年收入是多少？**
+答：视经验而定：初级¥3-4M，中级¥4-5.5M，高级¥5.5-7M。
 
-**问：Can foreigners get a visa for this occupation?**
-答：The Engineer/Specialist in Humanities/International Services visa applies, but requires expertise and Japanese ability. Pure sales may be difficult.
+**问：外国人可以为此职业获得签证吗？**
+答：人文/国际服务领域的工程师/专家签证适用，但需要专业知识和日语能力。纯销售类可能困难。
 
-**问：Is it covered by the Specified Skilled Worker visa?**
-答：Currently not included in the specified skilled fields. However, future expansion is possible.
+**问：特定技能签证是否涵盖此项？**
+答：目前不包括在特定技能领域内。但未来可能扩展。
 
 
 ---
@@ -143,12 +134,12 @@ Starting from scratch, you can advance your career by increasing your assigned a
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/merchandise-procurement-sales-representative/JP)**

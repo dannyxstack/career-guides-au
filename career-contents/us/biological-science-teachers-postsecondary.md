@@ -51,8 +51,6 @@ Teach biological science courses at universities or colleges, including general 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career path: Lecturer → Assistant Professor (tenure-track) → Associate Professor → Professor, also may transition to research management or biotech industry.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Lecturer → Assistant Professor (tenure-track) → Associate Profe
 | Subclass EB-2 (Employment-Based, Second Preference (EB-2)) | Apply for a green card through PERM or National Interest Waiver |
 | Subclass O-1 (O-1 Extraordinary Ability) | For outstanding researchers, must demonstrate international reputation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically enter via H-1B work visa, then apply for green card through EB-2 (P
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-science-teachers-postsecondary/US)**

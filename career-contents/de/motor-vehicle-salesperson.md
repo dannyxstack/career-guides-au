@@ -56,8 +56,6 @@ Sell new and used cars, motorcycles, and parts in car dealerships or specialty s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Motor vehicle salesperson roles are mixed: AI can automate information queries and some communication, but test drives, price negotiations, and emotional connections still rely on humans; entry-level roles have narrowed due to online channels, but high-value sales skills are amplified.
-
 Can advance from sales consultant to sales manager, brand manager, or dealer general manager, or transition to auto finance or after-sales management.
 
 **Tasks most exposed to AI:**
@@ -114,8 +112,6 @@ Can advance from sales consultant to sales manager, brand manager, or dealer gen
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -159,11 +155,12 @@ A: Not on the federal employment agency's shortage occupation list (Engpassberuf
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-salesperson/DE)**

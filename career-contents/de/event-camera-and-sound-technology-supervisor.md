@@ -51,8 +51,6 @@ Responsible for on-site event filming, audio recording, and scheduling and techn
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Motion graphics designer/film and video camera operator job outlook mixed: AI can automate shooting, editing tasks, but creative conception, on-site direction, and client communication rely on humans; overall risk is manageable.
-
 Can progress from technician to technical supervisor, then to production director or project manager, or specialize in high-end live streaming or virtual production.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from technician to technical supervisor, then to production directo
 | Subclass Skilled Worker (Skilled Immigration Act) | Must have a degree or dual-system certificate recognized in Germany; employer sponsorship is sufficient |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allowing entry to Germany to search for a job for one year, requiring language proficiency, education level, etc. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Progress from technician to technical supervisor, then to production director
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-camera-and-sound-technology-supervisor/DE)**

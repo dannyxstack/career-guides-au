@@ -53,8 +53,6 @@ Responsible for leading the overall strategic direction, operational performance
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
-
 Career progression typically rises from middle management like department manager, vice president to CEO. An MBA or industry expertise can accelerate promotion, but ultimately depends on performance and board approval.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically rises from middle management like department manage
 | Subclass General Employment P (General Employment Permit) | Applies to positions with annual salary below €60,000 and requires a labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | applicable to highly skilled workers earning more than 1.5 times the general salary level; CEOs typically qualify. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires a relevant bachelor's degree and years of management exper
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managing-director-and-chief-executive/IE)**

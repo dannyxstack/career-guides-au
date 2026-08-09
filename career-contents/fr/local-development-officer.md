@@ -4,8 +4,6 @@
 
 Local development officers are responsible for coordinating and implementing regional economic, social, and environmental development projects, collaborating with local governments, businesses, and communities to promote sustainable growth and employment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Local development officers are responsible for coordinating and implementing reg
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Local development officials' macro planning and coordination abilities are even more valuable. AI mainly takes over data collection and report generation, allowing them to focus on strategy formulation and community engagement, with positions amplified rather than compressed by AI.
-
 Entry-level positions can start as project assistants or coordinators, and after gaining experience, can be promoted to project leaders or department heads. Advanced pathways can shift to policy consulting, regional planning, or transnational development projects.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Entry-level positions can start as project assistants or coordinators, and after
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | First, obtain a work contract from a French employer, then apply for a work permit and work residence permit. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled professionals or recent master's graduates, streamlining the process. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Usually requires a master's degree (urban planning, geography, public adminis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-development-officer/FR)**

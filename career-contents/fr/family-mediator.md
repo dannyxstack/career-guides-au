@@ -4,8 +4,6 @@
 
 Family mediators assist parties in separation, divorce, or family conflicts through negotiation to reach consensus, focusing on child welfare and family communication, and avoiding litigation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Family mediators assist parties in separation, divorce, or family conflicts thro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of family mediators rely on high emotional intelligence communication and trust-building, which AI cannot replace; However, auxiliary tasks such as document organization and information retrieval can be automated, and overall risk is moderate.
-
 They can be promoted from mediator to mediation trainer, coordinator, or to establish a private mediation firm. Some mediators have shifted to social work, psychological counseling, or legal counseling.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ They can be promoted from mediator to mediation trainer, coordinator, or to esta
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for senior talents with work contracts or projects in France, requiring proof of professional competence. |
-| Subclass Salarié (Employee visa) | After being employed by a French institution, you must apply and obtain a work permit. |
-| Subclass Recherche emploi (Job search visa) | After graduation, you can apply for a one-year job-seeking residence permit, and once you find a job, you can switch to work-based residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Yes, but in the early stages, you usually need to work part-time or be employ
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/family-mediator/FR)**

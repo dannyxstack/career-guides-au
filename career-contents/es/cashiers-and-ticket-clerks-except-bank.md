@@ -4,8 +4,6 @@
 
 Operating cash registers in retail stores, supermarkets, ticket counters, and other venues to process cash, bank cards, and mobile payment transactions, and provide customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Operating cash registers in retail stores, supermarkets, ticket counters, and ot
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-The roles of cashiers and ticket sellers are being rapidly compressed by self-checkout and mobile payments, but at the same time, AI is creating new tasks in customer data analysis, dynamic pricing, and personalized recommendations, requiring practitioners to shift to a "retail service + technical support" composite role.
 
 You can be promoted from cashier to cashier supervisor, department manager, or store manager. However, promotion opportunities are limited, so additional courses in retail management or customer service are required.
 
@@ -100,15 +96,9 @@ You can be promoted from cashier to cashier supervisor, department manager, or s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Full-time work residence sponsored by a Spanish employer requires proof that the position cannot be filled by a local resident. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Limited. Usually, you can be promoted to cashier supervisor or department man
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashiers-and-ticket-clerks-except-bank/ES)**

@@ -53,8 +53,6 @@ Assist painters, paperhangers, plasterers, or stucco masons with low-skill tasks
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation is an entry-level manual assistance role; automation tools (e.g., automatic spray painting robots, smart plastering machines) will gradually replace low-skilled tasks, significantly reducing entry-level positions, but demand for senior tradespeople remains stable.
-
 Usually starts as a basic assistant, gaining experience to become a skilled painter, plasterer, etc., or switch to other construction trades. Some obtain formal skill certifications through apprenticeship programs.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually starts as a basic assistant, gaining experience to become a skilled pain
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa for short-term seasonal construction work, but employers must prove labor shortage. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Apply for EB-3 green card through PERM labor certification, but this occupation is low-skilled and not in shortage, making employer sponsorship difficult. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to skilled painter, plasterer, or become a qualified tradesperson
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helperspainters-paperhangers-plasterers-and-stucco-masons/US)**

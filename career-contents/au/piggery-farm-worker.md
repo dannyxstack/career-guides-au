@@ -54,8 +54,6 @@ Pig farm workers are responsible for the daily care and management of pigs, incl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pig farm workers face AI automation replacing some physical and monitoring tasks, but on-site operations, health assessment, and herd management still rely on human experience, with short-term replacement risk moderate.
-
 Can advance from general worker to senior stockperson or piggery supervisor, then to farm manager. Also possible to develop into veterinary assistant or livestock technician roles. Requires accumulating experience and obtaining relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from general worker to senior stockperson or piggery supervisor, the
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) visa) | Regional employer sponsorship with pathway to permanent residency. Suitable for pig farms in designated areas. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements cover agricultural workers with lower requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mainly work indoors and outdoors in pigsties, requiring standing, lifting hea
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/piggery-farm-worker/AU)**

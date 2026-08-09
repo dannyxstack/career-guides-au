@@ -52,8 +52,6 @@ Operate steam, gas, electric, or internal combustion engine-driven compressors t
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The job of natural gas compressor and pump station operators will see clear divergence due to AI and automation: monitoring and data analysis tasks are enhanced by AI, but basic operations, inspections, and simple repairs may be replaced by automated systems, shifting job demand toward technical maintenance and complex troubleshooting.
-
 Junior operators can advance to senior operators or shift leaders through experience; some move to pipeline maintenance or supervisory roles; also can obtain relevant certifications for other technical positions in the oil and gas industry.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior operators can advance to senior operators or shift leaders through experi
 | Subclass EB-3 (Employment-Based Third Preference) | Skilled worker or other worker category; employer-sponsor PERM labor certification, can apply for green card but requires employer support. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Applying for an employment-based green card through PERM labor certification, proving no US workers are available; the process takes a long time. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires at least 2 years of relevant work experience or training, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-compressor-and-gas-pumping-station-operators/US)**

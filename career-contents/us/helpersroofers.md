@@ -53,8 +53,6 @@ Assist roofers with less skilled tasks such as moving materials, tools, and keep
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofing helper positions face high automation compression risk; AI and automation replace low-skill tasks like material handling and cleaning. Entry barriers may narrow, but experienced helpers still have a moat in on-site response and collaboration.
-
 Career progression: Typically gain experience to advance to skilled roofer, or move to other construction trades. Some become qualified roofers through apprenticeship programs, requiring 2-4 years of training. Experienced workers can become foremen or start their own business.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression: Typically gain experience to advance to skilled roofer, or m
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to skilled roofer through apprenticeship, then to foreman, superv
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helpersroofers/US)**

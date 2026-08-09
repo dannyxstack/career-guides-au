@@ -4,8 +4,6 @@
 
 This is a profession in the Republic of Korea Armed Forces serving as Second Lieutenant, First Lieutenant, or Captain, responsible for small unit command and administrative duties.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This is a profession in the Republic of Korea Armed Forces serving as Second Lie
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist junior officers in command decisions, but complete replacement is difficult as areas like battlefield situation assessment and troop command rely heavily on human leadership and intuition. Rather, the introduction of AI-driven decision support systems will improve work efficiency.
-
 After commissioning via military academy or ROTC, officers serve as platoon leaders and staff officers, then as captains as company commanders or staff, with potential promotion to field grade officer.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ After commissioning via military academy or ROTC, officers serve as platoon lead
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Applicable for foreign officer recruitment, but very limited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: After discharge, it is common to enter the defense industry, public instituti
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/company-grade-officer/KR)**

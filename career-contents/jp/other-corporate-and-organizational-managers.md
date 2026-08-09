@@ -4,8 +4,6 @@
 
 Top management of non-profit organizations and various groups, responsible for organizational management, strategic planning, and external negotiations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Top management of non-profit organizations and various groups, responsible for o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI contributes to streamlining administrative tasks, human judgment and interpersonal skills are essential for top management. This field is expanded through AI utilization.
-
 Internal promotion from general positions is typical. Obtaining qualifications such as an MBA or Master of Public Administration is advantageous for career advancement. Employment opportunities vary greatly by industry and organizational size.
 
 **Tasks most exposed to AI:**
@@ -86,16 +82,9 @@ Internal promotion from general positions is typical. Obtaining qualifications s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Allowed to stay as a management candidate engaged in specialized work. Separate from the Business Manager visa. |
-| Subclass 経営・管理 (Management) | For representative directors and executive officers. Applicable managerial positions are limited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -136,12 +125,12 @@ A: Yes, but the Business Manager visa is for company executives, and the Enginee
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-corporate-and-organizational-managers/JP)**

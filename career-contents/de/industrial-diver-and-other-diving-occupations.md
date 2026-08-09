@@ -54,8 +54,6 @@ Industrial divers perform installation, inspection, maintenance, and welding wor
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Underwater work such as industrial diving is less affected by AI automation, but AR assistance, remote monitoring, and autonomous underwater robots are gradually taking over some inspection and data collection tasks. Mastering digital tools can amplify your value, otherwise you may face mid-level job displacement.
-
 Start as a junior diver and progress to dive supervisor, dive project manager, or specialist underwater inspection expert. Career development is achieved by obtaining higher-level commercial diving licenses (e.g., HSE Class III) or professional qualifications (e.g., underwater welding).
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as a junior diver and progress to dive supervisor, dive project manager, o
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for dual vocational training or vocational qualifications, requiring occupational credential assessment |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing to seek work or qualification recognition, no employer sponsorship required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must hold an internationally recognized commercial diving license (e.g., HSE,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-diver-and-other-diving-occupations/DE)**

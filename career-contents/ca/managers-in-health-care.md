@@ -52,8 +52,6 @@ Medical care managers plan, organise, control and evaluate services and operatio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
-
 Can be promoted from department head to medical director, vice president of operations, and other senior management positions. Some managers accelerate promotion by obtaining the Canadian Healthcare Certification (CHE), with salary significantly increasing with management scope.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted from department head to medical director, vice president of oper
 | Subclass PNP (Provincial Nominee Program) | Most provinces list healthcare management as a priority occupation, e.g., Ontario, BC, Alberta, eligible for provincial nomination plus 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Need to complete an ECA (Educational Credential Assessment) through WES or IC
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-health-care/CA)**

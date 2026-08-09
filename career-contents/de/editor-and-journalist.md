@@ -54,8 +54,6 @@ Responsible for collecting, verifying, writing, and editing news content for new
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will profoundly change the work of editors and journalists. Basic tasks (e.g., data collection, draft writing) face automation risk, but core human skills like in-depth investigation, analysis, commentary, and ethical decision-making remain irreplaceable. The profession will see task restructuring rather than full replacement.
-
 Can start as assistant editor or intern reporter, gradually promoted to department editor-in-chief or senior reporter. Can also transition to PR, content strategy, or new media management.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can start as assistant editor or intern reporter, gradually promoted to departme
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those with a recognized German degree or professional qualification, requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 2024 new pathway, points-based, allows job search in Germany. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a bachelor's degree in journalism or a related field, or c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/editor-and-journalist/DE)**

@@ -4,8 +4,6 @@
 
 Workers in the production process who inspect finished products and parts of electrical machinery such as motors, generators, and transformers to ensure compliance with standards and quality criteria.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Workers in the production process who inspect finished products and parts of ele
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation will replace routine tasks like visual inspection and measurement data analysis, but areas requiring human experience—such as complex judgment and identifying root causes of anomalies—will be strengthened. As a result, job content will change, but positions will not completely disappear.
-
 Entry level begins with line inspection. Career advancement to non-destructive testing or quality assurance is possible through years of experience and certification. ISO internal auditor certification is advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Entry level begins with line inspection. Career advancement to non-destructive t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available with university degree or 10+ years work experience. Covers inspection work. Renewed every 3 or 5 years. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing 3 fields)) | Requires skills test and JLPT N4 or higher. Maximum 5 years. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing 3 fields)) | For skilled workers. No renewal limit; family accompaniment and permanent residency possible. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: By obtaining certifications such as Non-Destructive Testing Engineer or Chief
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-machinery-equipment-inspector/JP)**

@@ -4,8 +4,6 @@
 
 Responsible for handling guests' luggage, providing guidance, and luggage storage services at hotels, airports, train stations, and other locations to ensure safe and efficient delivery of luggage.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for handling guests' luggage, providing guidance, and luggage storag
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-The core physical tasks of baggage handlers are easily replaced by automation, but interpersonal interaction and emergency handling still require humans, and the number of positions is expected to decrease significantly.
-
 You can be promoted from baggage handler to baggage supervisor, front desk receptionist, or concierge staff, or move to other hotel operations departments. A few become hotel manager assistants through experience, but additional training is required.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from baggage handler to baggage supervisor, front desk recep
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, applicable to non-EU skilled workers, but this occupation is low-skilled and difficult to approve. |
-| Subclass EU free movement (EU freedom of movement) | Only applicable to EU/EEA/Swiss citizens and can work directly in Spain. |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: It's very difficult. This occupation is low-skilled, has a low likelihood of 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baggage-porters-and-bellhops/ES)**

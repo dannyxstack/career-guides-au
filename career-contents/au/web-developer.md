@@ -53,8 +53,6 @@ Web development involves designing, building and maintaining websites and web ap
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
-
 React/Next.js is the mainstream front-end stack, with Node.js full-stack and headless CMS adoption growing significantly. Career paths can extend to full-stack engineer, front-end architect, or software engineer. Skilled migrants are required to pass an ACS skills assessment.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ React/Next.js is the mainstream front-end stack, with Node.js full-stack and hea
 | Subclass 186 (ENS) | Employer-sponsored permanent residence, requires ACS assessment |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Demand is steady; Seek consistently lists 1,200–2,200 positions, but compet
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-developer/AU)**

@@ -53,8 +53,6 @@ Operate or tend washing or dry-cleaning machines to clean or dry-clean items suc
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Laundry and dry-cleaning workers face medium-to-high automation risk; routine tasks (sorting, adding chemicals, loading/unloading) are easily replaced by robots/smart equipment, but fine work like stain treatment still relies on humans; entry-level positions will shrink significantly.
-
 Usually start as entry-level operators, gain experience and may advance to team leader or supervisor, or transition to equipment maintenance or start a small laundry business. Requires continuous learning of new washing techniques and environmental regulations.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as entry-level operators, gain experience and may advance to team 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to laundry supervisor, equipment maintenance technician, or start
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-and-drycleaning-workers/US)**

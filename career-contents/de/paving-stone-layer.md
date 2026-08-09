@@ -53,8 +53,6 @@ Paving and stonemasons lay natural stone, concrete blocks, and other materials t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive, standardized tasks in paving and stonework (e.g., simple cutting, basic laying) are easily automated, but custom patterns, complex terrain handling, and aesthetic judgment still rely on human labor; AI serves more as a tool.
-
 Can be promoted to foreman, construction team leader, or self-employed business owner. Further study can lead to landscape architecture or civil engineering fields.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can be promoted to foreman, construction team leader, or self-employed business 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Must obtain a German-recognized vocational qualification (e.g., through Anner
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paving-stone-layer/DE)**

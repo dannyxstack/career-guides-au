@@ -1,10 +1,8 @@
-# Amusement Facility Attendant 职业分析 · 日本
+# 游乐设施服务员（Amusement Facility Attendant）职业分析 · 日本
 
-**职业代码: 407 (JSCO)**
+**职业代码：407 (JSCO)**
 
-In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handles ticket sales, attraction guidance, and customer service.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在游乐园、弹珠机厅、保龄球馆、游戏中心等场所，负责售票、游乐设施引导和客户服务。
 
 
 ---
@@ -13,8 +11,8 @@ In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handle
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Tuition is effectively free at public high schools.） |
-| Vocational School (Tourism & Service) | 2 年 | $1,000,000~$3,000,000（Tuition varies by vocational school.） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中实际上免学费。） |
+| 职业学校（旅游与服务） | 2 年 | $1,000,000~$3,000,000（学费因职业学校而异。） |
 
 ---
 
@@ -22,18 +20,18 @@ In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handle
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Amusement Business Operator License | Prefectural Public Safety Commission | 必备 | Mandatory for pachinko parlors. |
-| Ordinary Driver's License | Public Safety Commission | 可选 | May be required at large theme parks. |
-| Service Attitude Certification | Practical Skill Testing Association | 可选 | Useful as proof of customer service skills. |
+| 娱乐业经营者许可证 | 县公安委员会 | 必备 | 弹珠机店强制要求。 |
+| 普通驾驶执照 | 公共安全委员会 | 可选 | 大型主题公园可能需要。 |
+| 服务态度认证 | 实践技能测试协会 | 可选 | 可作为客户服务技能证明。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 167,000. Entertainment demand is stable, but visitor numbers fluctuate due to declining birthrate and COVID-19. Part-time/temporary work is central, with limited full-time positions.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 167,000。娱乐需求稳定，但由于出生率下降和新冠疫情，游客数量波动。兼职/临时工作为主，全职职位有限。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,68 +39,60 @@ In amusement parks, pachinko parlors, bowling alleys, game centers, etc., handle
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,200,000~$3,000,000 | Often part-time/temporary; annual income depends on days worked. |
-| Intermediate (3–10 years) | $3,000,000~$4,000,000 | Approximate for full-time employees. |
-| Advanced (10+ years / Store Manager Class) | $4,000,000~$5,500,000 | Includes managerial allowance. |
+| Beginner (0–3 years) | $2,200,000~$3,000,000 | 通常为兼职/临时；年收入取决于工作天数。 |
+| 中级（3-10年） | $3,000,000~$4,000,000 | 全职员工的大致数据。 |
+| 高级（10年以上/店长级） | $4,000,000~$5,500,000 | 包含管理津贴。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-This occupation is susceptible to AI and automation. Simple customer service tasks are decreasing due to automated ticket machines and guide robots.
+该职业易受AI和自动化影响。简单客服任务因自动售票机和导引机器人而减少。
 
-To aim for full-time employment, acquire skills in store management and event planning, with potential promotion to area manager or store manager.
+为争取全职工作，掌握店铺管理和活动策划技能，有机会晋升为区域经理或店长。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of ticket sales and guidance
-- Robotization of cleaning and guidance
-- Chatbotification of inquiry handling
+- 售票与引导自动化
+- 清洁和引导机器人化
+- 查询处理聊天机器人化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personnel allocation optimization via congestion prediction systems
-- Provision of new entertainment experiences using VR/AR technology
-- Personalized service through customer data analysis
+- 通过拥堵预测系统优化人员配置
+- 利用VR/AR技术提供新型娱乐体验
+- 通过客户数据分析实现个性化服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced hospitality
+- 高级款待服务
 - 突发情况应变能力
-- Ability to read customer expressions and atmosphere
+- 能读懂客户表情和气氛
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Customer service and communication
-- Event planning
-- Multilingual support
-- Data analysis
+- 客户服务与沟通
+- 活动策划
+- 多语言支持
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Amusement
-- Theme Park
-- Entertainment
-- Service Industry
+- 娱乐
+- 主题公园
+- 娱乐
+- 服务业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and specialized knowledge in customer service and operations. Obtainable for theme park management roles. |
-| Subclass 特定技能1号（飲食料品製造業／外食業） (Specified Skilled Worker (i)) | Not applicable for entertainment venue customer service, but obtainable for cooking and customer service at attached restaurants. |
-| Subclass 留学 (Student) | Enrolled in Japanese language school or vocational school; eligible for part-time work under permitted extra-curricular activities (up to 28 hours/week). |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -110,25 +100,25 @@ To aim for full-time employment, acquire skills in store management and event pl
 
 **谁适合**
 - 喜欢与人打交道者
-- People with a strong service spirit
-- People good at multitasking
+- 服务精神强的人
+- 擅长多任务处理的人
 
 **谁不适合**
-- People uncomfortable being in front of others
-- People who are not attentive
+- 不适应面对他人的人
+- 不专心的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of entertainment venue customer service staff?**
-答：For regular employees, annual income is approximately 3 to 4 million yen. Many part-timers and hourly workers, so varies by hours.
+**问：娱乐场所客服人员的平均年收入是多少？**
+答：正式员工年收入约300万至400万日元。许多兼职和计时工，收入因工时而异。
 
-**问：Can foreigners obtain a work visa for this occupation in Japan?**
-答：Working at normal entertainment venues is difficult with an Engineer/Specialist in Humanities/International Services visa, but acquiring it is possible for specialized roles like theme park planning and operations. It is not eligible for Specified Skilled Worker.
+**问：外国人可以在日本获得此职业的工作签证吗？**
+答：在普通娱乐场所工作难以通过‘技术/人文知识/国际业务’签证实现，但可从事主题公园策划和运营等专业角色。不适用于特定技能工人。
 
-**问：How can I advance my career?**
-答：Gain experience in the service industry and advance to store manager or area manager. Acquiring specialized knowledge in event planning or marketing opens further opportunities.
+**问：如何提升我的职业生涯？**
+答：在服务行业积累经验，晋升为店长或区域经理。掌握活动策划或营销方面的专业知识可开辟更多机会。
 
 
 ---
@@ -146,12 +136,12 @@ To aim for full-time employment, acquire skills in store management and event pl
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/amusement-facility-attendant/JP)**

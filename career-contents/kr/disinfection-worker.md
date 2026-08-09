@@ -49,8 +49,6 @@ A professional who controls pests and harmful organisms in various facilities an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rather than completely replacing the work of disinfection workers, AI and automation technologies will enhance efficiency in areas such as pest control planning and data analysis. Fieldwork will still require human judgment and skills.
-
 Skill proficiency typically increases through technical acquisition and experience, allowing promotion to team leader or manager at specialized disinfection companies. Obtaining relevant certifications may enable starting a business or working independently.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Skill proficiency typically increases through technical acquisition and experien
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | The disinfection industry may be included in E-9 eligible occupations, and employment is possible through the Employment Permit System. |
-| Subclass E-7 (Specific Activities (E-7)) | If a skilled disinfection technician is recognized as a professional worker, an E-7 visa can be obtained. |
-| Subclass F-2 (Residence (F-2)) | Long-term stay may lead to permanent residency, but disinfection alone makes it difficult. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: It is not mandatory, but a Pest Control Technician certification is advantage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/disinfection-worker/KR)**

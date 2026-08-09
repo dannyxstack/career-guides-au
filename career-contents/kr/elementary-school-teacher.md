@@ -4,8 +4,6 @@
 
 An education professional responsible for teaching basic subjects and character education to elementary school students.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ An education professional responsible for teaching basic subjects and character 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace core elementary teacher duties like care and character education, but administrative tasks, grading, and learning material production may be automated, compressing the teacher's role into a 'relationship-centered' one.
-
 After obtaining a teacher certificate and passing the teacher employment exam, one is appointed as a new teacher. Promotion to vice principal or principal is typically possible after 15+ years of service. Recent trends include extended retirement age and expanded career paths such as innovation schools.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After obtaining a teacher certificate and passing the teacher employment exam, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to some international school or English-only teachers; not applicable to general public elementary school teachers |
-| Subclass F-2 (Residence) | Employment possible for permanent residents or marriage immigrants who hold a teaching certificate |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: General public school teachers require Korean nationality; foreigners are lim
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-school-teacher/KR)**

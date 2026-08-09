@@ -4,8 +4,6 @@
 
 A professional who uses hands and tools to stimulate muscles and promote blood circulation, helping to relieve physical pain and improve health.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who uses hands and tools to stimulate muscles and promote blood c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI cannot directly replace massage, AI is being introduced into reservation and customer management systems, reducing simple auxiliary tasks and increasing the importance of specialized skills.
-
 After gaining experience in bathhouses or barbershops, one can open their own massage clinic or advance to nursing facilities or sports centers. Acquiring relevant national certifications and enhancing expertise can lead to promotions.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After gaining experience in bathhouses or barbershops, one can open their own ma
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for inviting a professional massage therapist, but must meet domestic qualification requirements |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term stay, but obtaining a massage therapist license is a prerequisite |
-| Subclass F-4 (Overseas Korean (F-4)) | Employment activities are limited for overseas Koreans, but massage therapy work is possible |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Demand is stable due to aging population and increasing health management nee
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/massage-therapist/KR)**

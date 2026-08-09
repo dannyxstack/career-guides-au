@@ -53,8 +53,6 @@ Veterinary medical technicians assist veterinarians in animal diagnosis, treatme
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
-
 Can advance to senior technician or lab supervisor, or become veterinary assistant or move into animal health management through further education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior technician or lab supervisor, or become veterinary assista
 | Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for applicants without a job offer |
 | Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Complete 3-year dual training or 2-year vocational school study and pass the 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-medical-technician/DE)**

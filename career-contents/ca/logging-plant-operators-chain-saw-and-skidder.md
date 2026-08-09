@@ -54,8 +54,6 @@ Logging equipment operators in Canada operate heavy machinery (e.g., chainsaws, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Logging equipment operators face moderate automation risk; AI and automation will replace some navigation and monitoring tasks, but on-site operations and judgment remain defensible. Entry-level positions may shrink.
-
 Starting as a junior assistant (forest worker), gaining operational experience to advance to equipment operator; those with heavy machinery certificates or forestry management diplomas may become supervisors or team leaders. Long-term advancement to forest resource management or environmental supervision.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a junior assistant (forest worker), gaining operational experience t
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can sponsor work visas after passing a Labour Market Impact Assessment, paving the way for immigration |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces (e.g., NB, NS) have forestry jobs, eligible for regional migration |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: High school diploma is the minimum. It is recommended to complete a 6-12 mont
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-plant-operators-chain-saw-and-skidder/CA)**

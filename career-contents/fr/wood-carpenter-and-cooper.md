@@ -4,8 +4,6 @@
 
 Engaged in wood structure manufacturing, furniture manufacturing, door and window installation, and barrel (oak barrel) production. It requires mastering wood characteristics, hand tools, and mechanical operations, with tasks including measurement, cutting, assembly, and finishing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaged in wood structure manufacturing, furniture manufacturing, door and windo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Carpenter roles face high automation risk; AI-driven design software and digital manufacturing will compress traditional manual measuring, cutting, and repetitive assembly tasks, but on-site custom installation and structural repair still rely on humans.
-
 You can start as an apprentice or CAP, gradually advance to skilled worker, foreman, or specialize in cooperage, joinery, and ancient restoration. With experience, you can start a workshop or move into management positions.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ You can start as an apprentice or CAP, gradually advance to skilled worker, fore
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Must obtain a work contract from a French employer, with wages not lower than the statutory minimum wage. Carpentry is a scarce profession but requires professional qualification certification (such as CAP). |
-| Subclass Passeport Talent (Passeport Talent - Highly Skilled Worker) | Applies to highly skilled or unique craftsman carpenters (e.g., master cooper), salary must meet a threshold (approx EUR 36,576/year), requires employer sponsorship. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to higher education qualifications (Bac+3 or above) and salary at 1.5 times the average wage (approx. €53,917/year); carpentry usually cannot meet salary requirements. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: You can be promoted to foreman, workshop supervisor, or specialize in coopera
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-carpenter-and-cooper/FR)**

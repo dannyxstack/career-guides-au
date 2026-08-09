@@ -1,8 +1,8 @@
-# Clothing, Leather, and Fur Repairer 职业分析 · 韩国
+# 服装、皮革和毛皮修理工（Clothing, Leather, and Fur Repairer）职业分析 · 韩国
 
-**职业代码: 86341 (KECO)**
+**职业代码：86341 (KECO)**
 
-This profession specializes in repairing and remodeling clothing, bags, shoes, and other clothing, leather, and fur products, primarily working in small clothing repair shops or department store repair centers.
+该职业专门从事服装、包袋、鞋类等衣物、皮革和毛皮产品的维修和改造，主要在小型衣物修理店或百货商店维修中心工作。
 
 
 ---
@@ -11,8 +11,8 @@ This profession specializes in repairing and remodeling clothing, bags, shoes, a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 2 年 | $500,000~$1,000,000（Private academy tuition fees） |
-| Junior college (clothing-related) | 2 年 | $6,000,000~$8,000,000（Based on tuition fees） |
+| 高中毕业 | 2 年 | $500,000~$1,000,000（私立院校学费） |
+| 专科（服装相关） | 2 年 | $6,000,000~$8,000,000（按学费计算） |
 
 ---
 
@@ -20,17 +20,17 @@ This profession specializes in repairing and remodeling clothing, bags, shoes, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Craftsman Dressmaking | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
-| Craftsman Hanbok | Human Resources Development Service of Korea | 可选 | Helpful for traditional clothing repairs |
+| 裁缝工匠 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
+| 韩服工匠 | 韩国人力资源开发服务局 | 可选 | 有助于传统服装修补 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 42,000. The Korean clothing repair market has steady demand, but with the increase in low-cost clothing and the emergence of large repair chains, employment centered on small self-employed businesses is expected to stagnate or slightly decrease.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 42,000。韩国衣物修补市场需求稳定，但随着低价服装增多和大型修补连锁店的出现，以小型个体经营为主的就业预计将停滞或略有下降。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,92 +38,85 @@ This profession specializes in repairing and remodeling clothing, bags, shoes, a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $24,000,000~$30,000,000 | Based on small businesses |
-| 中级 (4-7年) | $30,000,000~$40,000,000 | Increases with skill level |
-| Advanced (8+ years) | $36,000,000~$48,000,000 | Based on professional repairers or self-employed individuals |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于小企业 |
+| 中级 (4-7年) | $30,000,000~$40,000,000 | 随着技能水平提高而增加 |
+| 高级（8年以上） | $36,000,000~$48,000,000 | 基于专业维修人员或自雇人士 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI is unlikely to replace repair work itself, automated pattern recognition and robot arms may replace simple repairs (e.g., button attachment) to some extent. High-end custom alterations require human touch.
+虽然AI不太可能完全取代维修工作本身，但自动模式识别和机械臂可能会在一定程度上取代简单维修（如钉扣子）。高端定制改衣仍需人工操作。
 
-Starting as a skilled worker, one can advance to obtain a master craftsman certificate and open a personal repair shop or become a manager of repair teams in department stores or large companies. Differentiation through high-quality custom repairs is advantageous for maintaining a stable career.
+从技术工人起步，可以晋升获得大师工匠证书，开设个人维修店，或成为百货公司或大公司的维修团队经理。通过高品质定制维修实现差异化，有利于维持稳定职业生涯。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Button attachment
-- Zipper replacement
-- Seam finishing
+- 纽扣粘贴
+- 更换拉链
+- 接缝整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Repair area analysis
-- Material matching
-- Cost estimation
+- 维修区域分析
+- 材料匹配
+- 成本估算
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual dexterity and meticulousness
-- Understanding of material properties
-- Custom design sense
+- 手部灵巧和细致
+- 理解材料特性
+- 定制设计感
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced sewing skills
-- Leather and fur processing
-- Remodeling and customization
+- 高级缝纫技能
+- 皮革和毛皮加工
+- 改造与定制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increased demand for remodeling
-- High-end custom alterations
-- Leather and fur specialist repairs
-- Small-scale self-employment
+- 装修需求增加
+- 高端定制修改
+- 皮革与毛皮专家维修
+- 小型自雇
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited by an employer as a skilled functional worker, requires relevant repair experience |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to manufacturing sector, usable at clothing repair shops |
-| Subclass F-2 (Residence) | Employment possible after long-term stay via status change |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity and attention to detail
-- People with patience who enjoy repetitive tasks
-- People skilled in customer service
+- 手巧且注重细节的人
+- 有耐心、喜欢重复性工作的人
+- 擅长客户服务的人
 
 **谁不适合**
-- People who prefer independent work over large organizations
-- People who find it difficult to focus on accurate restoration over creative changes
+- 偏好独立工作而非大型组织的人
+- 难以专注于精确修复而非创意更改的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a repairer?**
-答：Approximately 24-30 million KRW for entry level, up to 36-48 million KRW with experience.
+**问：修理工的年薪是多少？**
+答：入门级约2400–3000万韩元，有经验者可达3600–4800万韩元。
 
-**问：Can foreigners work as clothing repairers?**
-答：Employment possible with E-7 visa for skilled workers, but need proof of experience and employer sponsorship.
+**问：外国人可以从事服装修理工工作吗？**
+答：持E-7签证的技术工人可就业，但需经验证明和雇主担保。
 
-**问：What is the career path for a repairer?**
-答：After obtaining a technician certification, typical paths are becoming a professional repairer or starting a business.
+**问：修理工的职业发展路径是什么？**
+答：获得技术员认证后，典型路径是成为专业维修工或创业。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as a skilled worker, one can advance to obtain a master craftsman certi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/clothing-leather-and-fur-repairer/KR)**

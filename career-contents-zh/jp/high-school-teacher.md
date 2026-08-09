@@ -1,10 +1,8 @@
-# High School Teacher 职业分析 · 日本
+# 高中教师（High School Teacher）职业分析 · 日本
 
-**职业代码: 194 (JSCO)**
+**职业代码：194 (JSCO)**
 
-High school teachers are education professionals who provide subject instruction, career guidance, and life guidance to high school students. Based on the Courses of Study, they support student growth through classes, homeroom, and club activities.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+高中教师是教育专业人士，负责向高中生提供学科教学、职业指导和生活指导。他们根据学习指导要领，通过课堂教学、班级管理和社团活动支持学生成长。
 
 
 ---
@@ -13,8 +11,8 @@ High school teachers are education professionals who provide subject instruction
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Teacher Training Course) | 4年 | $2,500,000~$4,000,000（About ¥500,000/year at national universities, about ¥1,000,000/year at private universities） |
-| Obtain a teaching certificate (including teaching practicum) | During enrollment | $50,000~$100,000（Practicum costs and application fees） |
+| 大学（教师培训课程） | 4年 | $2,500,000~$4,000,000（国立大学约50万日元/年，私立大学约100万日元/年） |
+| 获得教学证书（包括教学实习） | 在读期间 | $50,000~$100,000（实习费用和申请费） |
 
 ---
 
@@ -22,18 +20,18 @@ High school teachers are education professionals who provide subject instruction
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| High School Teacher License (Class 1) | Each prefectural board of education | 必备 | Required per subject; complete designated credits at university |
-| High School Teacher License (Advanced Class) | Each prefectural board of education | 可选 | Advanced qualification such as a master's degree |
-| Pass the teacher recruitment exam | Each prefectural or ordinance-designated city board of education | 可选 | Required for public school employment |
+| 高中教师执照（1级） | 各都道府县教育委员会 | 必备 | 按科目要求；在大学完成指定学分 |
+| 高中教师执照（高级班） | 各都道府县教育委员会 | 可选 | 高级资质如硕士学位 |
+| 通过教师招聘考试 | 各都道府县或政令指定都市的教育委员会 | 可选 | 公务员就业要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 250,000. Due to the declining birth rate, the number of students is decreasing, leading to a shrinking demand for teachers. However, specialized subject knowledge and club activity guidance are still required, and competition continues in urban areas.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 250,000。由于出生率下降，学生人数减少，导致教师需求萎缩。但仍需专业学科知识和社团活动指导，城市地区竞争持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ High school teachers are education professionals who provide subject instruction
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,500,000~$4,500,000 | Based on salary schedule for public schools; varies for private schools |
-| Intermediate Level (4–10 years) | $4,500,000~$6,000,000 | Additional allowances such as head teacher pay |
-| Senior Level (11+ years) | $6,000,000~$9,000,000 | Over ¥10 million for vice principals and principals |
+| 入门级（0–3年） | $3,500,000~$4,500,000 | 基于公立学校薪资标准；私立学校有所不同 |
+| 中级（4-10 年） | $4,500,000~$6,000,000 | 额外津贴如班主任津贴 |
+| 高级（11年以上） | $6,000,000~$9,000,000 | 副校长和校长年薪超过1000万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used to support lessons (material creation, grading assistance) and optimize individualized learning, but the importance of dialogue and guidance by human educators remains unchanged, making full replacement difficult.
+AI用于辅助教学（资料制作、批改辅助）和优化个性化学习，但人类教育者的对话和指导的重要性不变，完全替代困难。
 
-After obtaining a teaching license, public school teachers must pass recruitment exams, while private schools require applications. Career paths include promotion to head teacher, vice principal, principal, or positions on the board of education.
+获得教师资格证后，公立学校教师需通过招聘考试，私立学校则需申请。职业发展路径包括晋升为班主任、副校长、校长或教育委员会职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Grading periodic tests
-- Automatic generation of teaching materials
-- Analysis of student learning data
+- 定期考试评分
+- 教学材料自动生成
+- 学生学习数据分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Support for creating individualized instruction plans
-- Making lessons interactive
-- Multilingual support
+- 支持制定个性化教学计划
+- 让课程互动
+- 多语言支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Student mental health care
-- Moral education
-- Club activity guidance
+- 学生心理健康护理
+- 德育
+- 社团活动指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ICT utilization instruction skills
-- Data analysis
-- Coaching
-- Cross-cultural understanding
+- ICT应用指导技能
+- 数据分析
+- 辅导
+- 跨文化理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- ICT utilization instruction skills
-- Special needs education
-- English education
-- Career education
+- ICT应用指导技能
+- 特殊教育
+- 英语教育
+- 职业教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when a foreigner teaches at a Japanese high school. However, a teaching license is required, and work experience or academic background is needed. |
-| Subclass 教育 (Professor) | For university-level institutions, but rare in high schools. Applied in special cases. |
-| Subclass 特定活動（外国人教師） (Designated Activities (Foreign Teacher)) | Limited to employment at international schools or specific programs. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in engaging with students
-- People passionate about teaching specialized knowledge
-- People with strong communication skills and perseverance
+- 从与学生互动中获得满足感的人
+- 热衷于教授专业知识的人
+- 沟通能力强且毅力强的人
 
 **谁不适合**
-- People who prefer routine work with little change
-- People who want to avoid overtime and take-home work
+- 偏好变化较少的日常工作的人
+- 希望避免加班和带回家工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a high school teacher?**
-答：For public schools, the average annual income is about 7 million yen (with about 10 years of experience). For private schools, it ranges from 6 to 8 million yen, depending on the school.
+**问：高中教师的平均年收入是多少？**
+答：公立学校平均年收入约700万日元（约10年经验）。私立学校因校而异，约600-800万日元。
 
-**问：How can a foreigner teach at a Japanese high school?**
-答：Must hold a Japanese teaching license and have Japanese language proficiency (N1 level). While the 'Engineer/Specialist in Humanities/International Services' visa status applies, hiring quotas are limited.
+**问：外国人如何在日本高中任教？**
+答：必须持有日本教师资格证并具备日语能力（N1水平）。虽然适用“工程师/人文知识/国际服务”签证身份，但招聘名额有限。
 
-**问：Is it easy to change careers from teaching to another occupation?**
-答：It's not easy. With little work experience outside of education, switching to other industries is difficult. Main options include education-related companies or cram school instructors.
+**问：从教学转行到其他职业容易吗？**
+答：这并不容易。由于教育领域以外的工作经验较少，转行到其他行业很困难。主要选择包括教育相关公司或补习班教师。
 
 
 ---
@@ -146,12 +136,12 @@ After obtaining a teaching license, public school teachers must pass recruitment
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/high-school-teacher/JP)**

@@ -54,8 +54,6 @@ Model makers create scale models, prototypes, or exhibition models using various
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Model makers face a dual impact from AI and automation tools: CNC and 3D printing have compressed traditional manual positions, but AI's ability to generate rapid prototypes and optimize designs also amplifies the value of highly skilled model makers, leading to mixed career prospects.
-
 Junior model makers can enter through dual training or apprenticeships, and after gaining experience, advance to senior technician or project supervisor. Further progression can move into industrial design, prototype development, or technical management. Some top craftspeople may become self-employed professionals undertaking high-end model making projects.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior model makers can enter through dual training or apprenticeships, and afte
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment, requiring proof of sufficient financial means |
 | Subclass Chancenkarte (Opportunity Card) | A points-based opportunity card allowing job seeking in Germany (expected implementation in 2024) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually requires completing a German dual vocational training (3 years) cover
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/model-maker/DE)**

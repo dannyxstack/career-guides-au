@@ -51,8 +51,6 @@ EV charging infrastructure engineers are responsible for electrical design, dist
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
-
 Ultra-fast charging and fleet charging have become hotspots in the US, with stations often needing power distribution upgrades and energy storage peak shaving; AI-assisted site selection and load forecasting, core electrical design and compliance are handled by engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Ultra-fast charging and fleet charging have become hotspots in the US, with stat
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3: Employer-Sponsored Employment-Based Immigration (including PERM Labor Certification) |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW: National Interest Waiver for Self-Applied Green Cards |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes, it's classed as a shortage engineering occupation, eligible for US skill
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-charging-infrastructure-engineer/US)**

@@ -52,8 +52,6 @@ Responsible for operating helicopters for passenger transport, cargo, rescue, pa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation risk for helicopter pilots is moderate: autopilot and AI-assisted systems take over some cruising and monitoring tasks, but takeoff/landing, emergencies, and complex decisions still heavily rely on humans, while AI enhances planning, monitoring, and training capabilities.
-
 Career progression: Junior pilot → Captain → Flight instructor → Captain checker → Operations manager. Accumulating flight hours (usually over 2,000) is key; can transition to fixed-wing or join an airline.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: Junior pilot → Captain → Flight instructor → Captain c
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs such as Ontario, BC, Alberta prioritize aviation occupations; require a job offer or provincial nomination certificate. |
 | Subclass LMIA (Labour Market Impact Assessment) | If employers can prove they are unable to find local workers, they may support work visa applications, which helps with Express Entry points or PNP. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, but must meet FSW or CEC requirements, and occupation NOC 72604 is a ski
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-pilots-flight-engineers-and-flying-instructors/CA)**

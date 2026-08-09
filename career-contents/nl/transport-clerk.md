@@ -4,8 +4,6 @@
 
 Transport clerks coordinate freight movements, including arranging shipments, processing documents, and tracking logistics. In the Netherlands, this occupation is mainly found in logistics companies, ports, and airports.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Transport clerks coordinate freight movements, including arranging shipments, pr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The document processing and route planning of transport clerks are easily automated by AI, but exception handling and multi-party communication in logistics coordination still require human judgment, leading to mixed career prospects.
-
 Can be promoted from junior clerk to senior transport coordinator, logistics supervisor, or supply chain manager. Accumulating experience and obtaining logistics certificates (e.g., Logistic Supervisor) aids promotion.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can be promoted from junior clerk to senior transport coordinator, logistics sup
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applies to transport clerks with annual income exceeding €3,909/month (under 30) or €5,331/month (30 and over), requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to positions with annual income over €5,331/month, requiring higher education. Transport clerks typically do not meet this salary threshold. |
-| Subclass Orientation Year (Zo (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or from the world's top 200 universities can apply for a one-year job-seeking visa with no salary threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Generally requires MBO (secondary vocational education) in logistics or busin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-clerk/NL)**

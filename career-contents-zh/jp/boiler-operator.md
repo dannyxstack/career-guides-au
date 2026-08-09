@@ -1,10 +1,8 @@
-# Boiler Operator 职业分析 · 日本
+# 锅炉操作员（Boiler Operator）职业分析 · 日本
 
-**职业代码: 642 (JSCO)**
+**职业代码：642 (JSCO)**
 
-Operates and monitors steam boilers in power plants and factories, managing fuel supply and adjusting pressure/temperature. Handles coal, heavy oil, biomass, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+操作和监控发电厂及工厂的蒸汽锅炉，管理燃料供应，调节压力/温度。处理煤、重油、生物质等。
 
 
 ---
@@ -13,8 +11,8 @@ Operates and monitors steam boilers in power plants and factories, managing fuel
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Tuition-free under public high school policy） |
-| Vocational School (Mechanical/Energy Dept.) | 2 年 | $1,500,000~$3,000,000（Including entrance fees and supplies） |
+| 高中文凭 | 3年 | $0~$0（公立高中政策下免学费） |
+| 职业学校（机械/能源系） | 2 年 | $1,500,000~$3,000,000（包括入场费和用品） |
 
 ---
 
@@ -22,18 +20,18 @@ Operates and monitors steam boilers in power plants and factories, managing fuel
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Boiler Technician License (Class 1) | Ministry of Health, Labour and Welfare | 必备 | Required for large boilers (heat transfer area >500m²). Requires practical experience. |
-| Boiler Technician License (Class 2) | Ministry of Health, Labour and Welfare | 必备 | Required for medium boilers (25-500m²). No experience needed to take exam. |
-| Boiler Maintenance Technician | Japan Boiler Association | 可选 | Useful for maintenance/inspection. Optional but recommended. |
+| 锅炉技术员执照（1级） | 厚生劳动省 | 必备 | 大型锅炉（传热面积>500m²）所需。需具备实践经验。 |
+| 锅炉技术员执照（2级） | 厚生劳动省 | 必备 | 中型锅炉（25-500平方米）所需。参加考试无需经验。 |
+| 锅炉维修技术员 | 日本锅炉协会 | 可选 | 对维护/检查有用，可选但推荐。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 32,000. Demand is stable due to energy saving and renewable energy adoption, but knowledge of aging boiler maintenance and fuel conversion is needed. Not covered by Specified Skilled Worker visa.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 32,000。由于节能和可再生能源采用，需求稳定，但需要老化锅炉维护和燃料转换知识。不属于特定技能工人签证范畴。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ Operates and monitors steam boilers in power plants and factories, managing fuel
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,500,000~$4,200,000 | Varies by SME/region |
-| Mid Level (4-10 years) | $4,200,000~$5,500,000 | Includes night shifts at large plants |
-| Senior Level (10+ years) | $5,000,000~$7,000,000 | Includes chief/manager roles |
+| 入门级（0-3年） | $3,500,000~$4,200,000 | 因中小企业/地区而异 |
+| 中级（4-10年） | $4,200,000~$5,500,000 | 包括大型工厂的夜班 |
+| 高级（10年以上） | $5,000,000~$7,000,000 | 包括主管/经理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI-based automatic control and remote monitoring are being introduced, but human experience is needed for judgment during anomalies and maintenance. Full automation is difficult, with AI playing a supplementary role. Data analysis skills will be required in the future.
+基于AI的自动控制和远程监控正在引入，但异常和维修时的判断需要人类经验。完全自动化困难，AI发挥辅助作用。未来将需要数据分析技能。
 
-After obtaining boiler technician license, gain field experience to become lead operator or facility manager. Career path includes group leader or safety manager in large plants.
+获得锅炉技术员执照后，积累现场经验成为首席操作员或设施经理。职业路径包括大型工厂的组长或安全经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated collection of periodic pressure and temperature records
-- Part of monitoring duties during normal operation
-- Automatic adjustment of fuel supply
+- 定期压力和温度记录的自动收集
+- 正常运行期间的监控职责
+- 燃料供应自动调节
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Anomaly prediction (vibration/sound analysis by AI)
-- Combustion efficiency optimization (real-time data adjustment)
-- Maintenance plan optimization
+- 异常预测（AI振动/声音分析）
+- 燃烧效率优化（实时数据调整）
+- 维护计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Immediate judgment and on-site response during anomalies
-- Manual repair and adjustment of aging equipment
-- Deep understanding of regulations and safety standards
+- 异常时的即时判断和现场响应
+- 老旧设备的手工维修与调整
+- 深入理解法规与安全标准
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Mechanical knowledge of boilers and turbines
-- Data analysis and monitoring system operation
-- Energy saving and environmental regulation compliance
-- Communication (team collaboration)
+- 锅炉和涡轮机的机械知识
+- 数据分析与监控系统运行
+- 节能与环保法规合规
+- 沟通（团队协作）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Boiler Engineer
-- Energy Saving
-- Biomass Boiler
-- Plant Maintenance
+- 锅炉工程师
+- 节能
+- 生物质锅炉
+- 设备维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Available after graduating from university/vocational school with relevant work experience; requires at least 3 years of practical experience after university. |
-| Subclass 特定活動 (Designated Activities (Internship)) | Not covered by Technical Intern Training, but there are cases of intra-company transfers to Japanese companies or work as highly skilled professionals. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machinery and plant equipment
-- People who can work night shifts and rotating shifts
-- People who can steadily monitor and record
+- 对机械和工厂设备感兴趣的人
+- 能上夜班和轮班的人
+- 能够稳定监控和记录的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who dislike heights or high-temperature environments
+- 不喜欢高处或高温环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a boiler operator?**
-答：Approximately 3.5-4.2 million yen for entry level, 4.2-5.5 million for intermediate, and 5-7 million for advanced level. May increase with night shifts and overtime.
+**问：锅炉操作员的年收入是多少？**
+答：入门级约350-420万日元，中级420-550万日元，高级500-700万日元。夜班和加班可能增加。
 
-**问：Can foreigners work in this occupation in Japan?**
-答：Possible with the 'Engineer/Specialist in Humanities/International Services' residence status, but requires work experience after university graduation. It is not covered by Specified Skilled Worker, so it is almost impossible with Technical Intern Training.
+**问：外国人可以在日本从事这个职业吗？**
+答：可通过“工程师/人文/国际服务专家”居留身份实现，但需大学毕业后工作经验。不属于特定技能工人，因此技术实习培训几乎不可能。
 
-**问：How do I obtain a boiler operator license?**
-答：Grade 2 can be taken without academic or work experience. Grade 1 requires Grade 2 certification and work experience (heat transfer area/years). National exams are held twice a year.
+**问：如何获得锅炉操作员执照？**
+答：2级无需学历或工作经验。1级需2级证书和工作经验（传热面积/年限）。全国考试每年两次。
 
 
 ---
@@ -145,12 +136,12 @@ After obtaining boiler technician license, gain field experience to become lead 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/boiler-operator/JP)**

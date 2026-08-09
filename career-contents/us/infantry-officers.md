@@ -52,8 +52,6 @@ Command, train, and lead infantry units in ground combat operations, responsible
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core leadership decisions and battlefield adaptability of infantry officers are difficult to automate, but AI will significantly enhance their capabilities in intelligence analysis, situational awareness, and administrative processes, and may also replace some monitoring and recording tasks.
-
 Progress from platoon leader to company commander, battalion commander, and other senior command positions; can also transfer to staff or special operations. After retirement, can develop in defense contractors, government agencies, or security consulting.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Progress from platoon leader to company commander, battalion commander, and othe
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can transition to defense contractors, government agencies, security consulti
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/infantry-officers/US)**

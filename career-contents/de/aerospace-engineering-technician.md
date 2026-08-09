@@ -52,8 +52,6 @@ Technical experts who design, manufacture, test, and maintain aerospace vehicles
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aerospace technicians face a mixed outlook: tasks like design validation and documentation will be automated by AI, but complex operations such as physical assembly, testing, and repair still require human judgment—skills transition is essential.
-
 Can advance from technician to senior technical expert, project leader, or transition to R&D management. After completing dual-system training, can become an engineer through further education.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from technician to senior technical expert, project leader, or trans
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to professional qualification certification, no salary threshold, requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to Germany before finding a job, valid for 1 year |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior technician, project supervisor, or become an engineer t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aerospace-engineering-technician/DE)**

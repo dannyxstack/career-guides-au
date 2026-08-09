@@ -4,8 +4,6 @@
 
 Responsible for installing waterproof membranes, coatings, and sealing systems in building structures to prevent water infiltration. It is commonly found in rooftops, basements, bathrooms, and bridges.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing waterproof membranes, coatings, and sealing systems i
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Waterproofing system installers are experiencing mixed feelings due to AI: automated tools can replace inspection and material preparation, but tasks that rely on touch and experience, such as on-site construction and sealing, are difficult for AI to fully take over.
-
 You can be promoted from worker to foreman or project supervisor, and with experience, you can establish a small waterproofing company. Attending advanced FP training can lead to becoming a construction technician or engineering supervisor.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can be promoted from worker to foreman or project supervisor, and with exper
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer must be provided and tested by the labor market (Solicitud de Autorización de Residencia por Trabajo por Cuenta Ajena). Non-urgently needed occupations, with moderate approval difficulty. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6 months looking for work, but you must prove sufficient financial means. After finding a job, you can switch to work-based residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Usually requires completion of FP Grado Medio (2 years of vocational training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-waterproofing-system-installers/ES)**

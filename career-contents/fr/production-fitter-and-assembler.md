@@ -4,8 +4,6 @@
 
 In manufacturing, responsible for the adjustment, assembly, and commissioning of mechanical components to ensure products meet technical specifications. It requires mastering skills in precision measurement, machining, and assembly.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ In manufacturing, responsible for the adjustment, assembly, and commissioning of
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly reduce the number of manufacturing assembly and adjustment workers, especially repetitive assembly and measurement tasks, but complex debugging and precise adjustments still require human skills.
-
 Junior assemblers can be promoted to senior technician, production supervisor, or quality inspector. Through further education (such as BTS), you can transition to process engineer or technical management positions.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior assemblers can be promoted to senior technician, production supervisor, o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company requires obtaining a work permit. This applies to cases where the employer holds a CDI contract and fulfills the priority recruitment test. |
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | For highly skilled talent with an annual income of ≥ €42,952, the process is streamlined to quickly obtain multi-year residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions with annual income ≥ 53,940 euros, allowing family members and free movement within the EU. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Usually, you need to obtain a work contract (CDI) from a French employer and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-fitter-and-assembler/FR)**

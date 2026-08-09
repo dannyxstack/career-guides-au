@@ -1,10 +1,8 @@
-# Non-destructive Testing (NDT) Technician 职业分析 · 韩国
+# 无损检测（NDT）技术员（Non-destructive Testing (NDT) Technician）职业分析 · 韩国
 
-**职业代码: 15851 (KECO)**
+**职业代码：15851 (KECO)**
 
-A specialized technical professional who uses equipment such as ultrasound and radiography to detect defects in materials or structures, ensuring safety in manufacturing, construction, and energy industries.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用超声波和射线照相术等设备检测材料或结构缺陷，确保制造、建筑和能源行业安全的技术专家。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized technical professional who uses equipment such as ultrasound and r
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (NDT-related department) | 2 年 | $6,000,000~$12,000,000（Based on tuition (national/public)） |
-| Training institution designated by the Ministry of Employment and Labor (vocational training) | 6 months | $0~$3,000,000（Government funding available） |
+| 学院（无损检测相关专业） | 2 年 | $6,000,000~$12,000,000（基于学费（国立/公立）） |
+| 韩国雇佣劳动部指定培训机构（职业培训） | 6个月 | $0~$3,000,000（可申请政府资助） |
 
 ---
 
@@ -22,19 +20,19 @@ A specialized technical professional who uses equipment such as ultrasound and r
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Engineer Non-Destructive Testing | Human Resources Development Service of Korea | 必备 | Required, at least one of RT/UT/MT/PT |
-| Industrial Engineer Non-Destructive Testing | Human Resources Development Service of Korea | 必备 | Can substitute for Engineer certification (depending on experience) |
-| ASNT Level II | American Society for Nondestructive Testing | 可选 | Advantageous for overseas projects |
-| Ultrasonic Testing (UT) Level I/II Certification | Korean Society for Nondestructive Testing | 可选 | Essential for practical work |
+| 无损检测工程师 | 韩国人力资源开发服务局 | 必备 | 必需，至少具备RT/UT/MT/PT中的一种 |
+| 工业工程师（无损检测） | 韩国人力资源开发服务局 | 必备 | 可根据经验替代工程师认证 |
+| ASNT Level II | 美国无损检测学会 | 可选 | 有利于海外项目 |
+| 超声波检测（UT）一级/二级认证 | 韩国无损检测学会 | 可选 | 对实际工作至关重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,500. Employment is stable due to increased orders in domestic shipbuilding, nuclear power plants, and plants, as well as demand for inspection of aging infrastructure. The job market is active due to a shortage of certified individuals.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,500。由于国内造船、核电站和工厂订单增加，以及老化基础设施检查需求，就业稳定。因持证人员短缺，就业市场活跃。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,96 +40,87 @@ A specialized technical professional who uses equipment such as ultrasound and r
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$38,000,000 | Based on Industrial Engineer, excluding field allowances |
-| 中级（4-7年） | $40,000,000~$52,000,000 | Engineer Certification + Assistant Manager Level |
-| 高级（8年+） | $55,000,000~$80,000,000 | Manager/Director or Professional Engineer |
+| 入门级（0-3年） | $30,000,000~$38,000,000 | 基于工业工程师，不包括现场津贴 |
+| 中级（4-7年） | $40,000,000~$52,000,000 | 工程师认证+助理经理级别 |
+| 高级（8年+） | $55,000,000~$80,000,000 | 经理/总监或专业工程师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-Although AI introduces inspection automation, interpretation, judgment, and exception handling still require humans, so complete replacement is difficult. However, low-skill tasks may be reduced.
+虽然AI引入检测自动化，但解释、判断和异常处理仍需人工，因此完全替代很难。但低技能任务可能减少。
 
-Entry-level: field assistant followed by certification acquisition; Mid-level: staff to assistant manager performing independent inspections; Senior-level: promoted to manager/director, or advantageous to obtain professional engineer certification.
+入门级：现场助理后获取认证；中级：独立检查的员工到副经理；高级：晋升为经理/总监，或获得专业工程师认证更有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple visual inspection
-- Film interpretation
-- Repetitive measurement of fixed patterns
+- 简单目视检查
+- 电影解读
+- 固定模式的重复测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Ultrasonic data analysis
-- AI-assisted reading of radiographic films
-- Operation of automated inspection equipment
+- 超声波数据分析
+- AI辅助放射胶片阅片
+- 自动化检测设备操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive judgment of abnormal signals
-- Selection of inspection methods based on field conditions
-- Responsibility for safety decisions
-- Understanding of equipment characteristics
+- 异常信号的直观判断
+- 根据现场条件选择检查方法
+- 安全决策责任
+- 设备特性理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI Image Analysis
-- Basic Data Analysis with Python/R
-- Operation of Robot Inspection Equipment
-- Non-Destructive Testing Engineer Certification
+- 理解AI图像分析
+- 使用Python/R进行基础数据分析
+- 机器人检测设备操作
+- 无损检测工程师认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Nondestructive testing (NDT)
-- Safety diagnostics
-- Industrial equipment
-- Precision inspection
+- 无损检测（NDT）
+- 安全诊断
+- 工业设备
+- 精密检测
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issuable upon employment contract as skilled NDT inspector; degree + experience required |
-| Subclass E-9 (Non-professional Employment (E-9)) | Simple inspection assistance possible, but switch to E-7 recommended if professional certification required |
-| Subclass D-10 (Job Seeker (D-10)) | Usable for job-seeking after domestic university graduation; switch to E-7 after obtaining certification |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system for long-term stay; skilled workers preferred |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented with strong observational skills
-- Interested in operating machinery or equipment
-- Able to focus in outdoor, high-altitude, or confined spaces
+- 注重细节，观察力强
+- 对操作机械或设备感兴趣
+- 能适应户外、高空或密闭空间作业
 
 **谁不适合**
-- People who easily get bored with repetitive tasks
-- People who are sensitive to radiation/ultrasound etc. or have safety insensitivity
+- 容易对重复性任务感到厌倦的人
+- 对辐射/超声波等敏感或安全感知迟钝的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a nondestructive testing (NDT) inspector?**
-答：For entry-level (0~3 years), annual pre-tax salary is about 30~38 million KRW, with possible field work and overtime allowances.
+**问：无损检测（NDT）检查员的起薪是多少？**
+答：对于入门级（0~3年），年税前薪资约3000~3800万韩元，可能有外勤和加班津贴。
 
-**问：What visa does a foreigner need to work as an NDT inspector?**
-答：Since professional qualifications are required, the E-7 (Specific Activities) visa is mainly used. A degree and certain experience are needed, and obtaining a domestic certification is advantageous.
+**问：外国人从事NDT检测工作需要哪种签证？**
+答：由于需要专业资格，主要使用E-7（特定活动）签证。需要学位和相关经验，获得国内认证更有利。
 
-**问：What is the career path for an NDT inspector?**
-答：You can progress from junior inspector → intermediate (staff/assistant manager) → senior (manager/deputy general manager) → engineer/manager. Obtaining a professional engineer certification greatly helps promotion.
+**问：NDT检查员的职业路径是什么？**
+答：可从初级检验员→中级（职员/助理经理）→高级（经理/副总经理）→工程师/经理晋升。获得专业工程师认证对晋升有很大帮助。
 
 
 ---
@@ -149,12 +138,12 @@ Entry-level: field assistant followed by certification acquisition; Mid-level: s
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nondestructive-testing-ndt-technician/KR)**

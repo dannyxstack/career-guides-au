@@ -4,8 +4,6 @@
 
 Waiters in Dutch hotels, restaurants, and cafes take orders, serve food and drinks to customers, forming the foundation of the hospitality industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Waiters in Dutch hotels, restaurants, and cafes take orders, serve food and drin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of waitstaff (taking orders, serving dishes, billing) are facing rapid replacement by AI self-ordering, robot delivery, and mobile payments; entry-level roles are decreasing, but interpersonal service and on-the-spot responsiveness remain human advantages.
-
 Waiters can advance to head waiter, restaurant supervisor, or restaurant manager, or transition to bartender or restaurant operations management.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Waiters can advance to head waiter, restaurant supervisor, or restaurant manager
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, but waiters usually do not meet the salary threshold (requires annual salary of approx. €56,000) |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Required annual salary above approximately €5,000/month, difficult for service positions to achieve |
-| Subclass Orientation Year (Zo (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, allowing any work including service roles. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +136,12 @@ A: Usually difficult, as waiters do not meet salary requirements for high-skille
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waiter/NL)**

@@ -4,8 +4,6 @@
 
 Professionals engaged in music creation, performance, or singing, including composers, instrumentalists, singers, and others, can work in theaters, recording studios, concert halls, educational institutions, and various performance venues.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Professionals engaged in music creation, performance, or singing, including comp
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on composers and singers is mixed: AI can automatically generate simple music and assist with mixing, making entry tasks easier; However, live performance, emotional expression, and deep creation still rely on humans, and high-end positions may benefit from AI tools to enhance creativity.
-
 Career development usually starts as a band member or studio musician, and after gaining experience, they can move on to positions such as composition, music production, music education, or music director. Some outstanding individuals enter commercial music fields such as film and advertising.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Career development usually starts as a band member or studio musician, and after
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed) - Cuenta Ajena) | For work residency sponsored by a Spanish employer, it is necessary to prove that the position cannot be filled by a local resident, which is particularly difficult for music fields |
-| Subclass Cuenta propia (Self-Employment Visa - Cuenta Propia) | Self-employed work residence requires submission of a business plan and client documentation, suitable for freelance musicians |
-| Subclass Altamente cualificad (Highly Qualified Professional - Ley 14/2013) | They are suitable for highly educated or highly skilled talents, but music majors usually do not meet the salary threshold |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Continuously improve performance/singing skills, expand online and performanc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/composers-musicians-and-singers/ES)**

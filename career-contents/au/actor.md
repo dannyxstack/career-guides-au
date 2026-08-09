@@ -53,8 +53,6 @@ Actors create characters through performance, conveying emotions and stories in 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI brings mixed impacts for actors: on one hand, AI-generated virtual actors and synthetic media may replace some extras, background performances, and standardized voice acting; on the other hand, AI tools can enhance performance creation, storyboard previews, and facial animation, but core emotional expression and live interaction remain a human moat.
-
 Career paths usually start with graduation from drama school or participation in amateur performances, gradually accumulating experience to become a contracted actor in a professional theatre company; a few can advance to director or producer.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career paths usually start with graduation from drama school or participation in
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: The acting profession is highly competitive with limited positions; most peop
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/AU)**

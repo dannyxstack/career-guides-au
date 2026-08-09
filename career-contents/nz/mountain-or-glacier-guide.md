@@ -53,8 +53,6 @@ Lead tourists in hiking, climbing, or skiing activities in mountainous or glacia
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI impact on mountain or glacier guides is mixed: route planning and safety monitoring tasks can be automated for enhancement, but on-site risk judgment, complex weather response, and emotional interaction still require humans, with no full replacement in the short term.
-
 Career progression path: from junior guide to senior/lead guide, then to trainer or operations manager. Some guides start their own business after gaining experience or transition to fields like tourism consulting, environmental protection.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Career progression path: from junior guide to senior/lead guide, then to trainer
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Direct application for Skilled Migrant Category (SMC) is difficult because th
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mountain-or-glacier-guide/NZ)**

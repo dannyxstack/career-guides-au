@@ -4,8 +4,6 @@
 
 Cabinet maker responsible for making and installing cabinets, furniture, and wood products using wood and panels, commonly found in custom furniture factories and construction sites.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Cabinet maker responsible for making and installing cabinets, furniture, and woo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cabinetmakers are less affected by AI in design and customization, but standardized production and installation tasks face automation risks; high-precision manual work remains a defense.
-
 After apprenticeship or vocational school, can start as an assistant and gradually advance to skilled worker, foreman, or start a furniture workshop. Can also transition to project management or design roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ After apprenticeship or vocational school, can start as an assistant and gradual
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU labour quota visa requires employer sponsorship, limited slots, short annual application window. |
-| Subclass EU Blue Card (EU Blue Card) | High-skilled migration visa requiring university degree or equivalent experience, with a higher salary threshold; generally not applicable for carpenters. |
-| Subclass Self-employed Visa (Self-Employment Visa) | Suitable for applicants planning to open a woodworking workshop in Italy; requires a business plan and proof of funds. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: The market is stable, with ongoing demand for custom furniture and renovation
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cabinetmaker-and-related-worker/IT)**

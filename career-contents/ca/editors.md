@@ -51,8 +51,6 @@ Editors review, revise, and polish written content to ensure grammar, style, and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Editing work is being profoundly reshaped by AI: basic proofreading and formatting tasks are automated, but fact-checking, narrative planning, and author communication—which rely on human judgment—are amplified by AI tools, creating both opportunities and challenges.
-
 Editors can advance from junior proofreader or assistant editor to senior editor, managing editor, or content director, requiring accumulation of industry experience and expertise.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Editors can advance from junior proofreader or assistant editor to senior editor
 | Subclass PNP (Provincial Nominee Program) | Some provinces have nominations for editing-related occupations, requiring an employer offer or work experience. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, usually needing to prove insufficient local recruitment. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree in English, journalism, or communicati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/editors/CA)**

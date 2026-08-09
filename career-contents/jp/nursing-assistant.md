@@ -4,8 +4,6 @@
 
 Healthcare support staff who assist nurses in hospitals and elderly care facilities by tending to patients' daily needs and maintaining the environment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Healthcare support staff who assist nurses in hospitals and elderly care facilit
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While some tasks are being automated by AI and robots, interpersonal care and delicate responses still require humans, making full replacement difficult.
-
 Career advancement to become a licensed practical nurse or registered nurse is possible. In hospitals, one can gain experience and move into leadership roles.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Career advancement to become a licensed practical nurse or registered nurse is p
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Nursing Care)) | Residence possible in nursing care. Requires exam pass and Japanese ability. |
-| Subclass 技能実習 (Technical Intern Training (Nursing Care)) | Learn nursing assistant duties in 3-year internship. No job changes allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Nursing assistant not applicable)) | Generally not eligible. Does not fall under work requiring specialized skills. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: You can advance by enrolling in a licensed practical nurse training course (2
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-assistant/JP)**

@@ -1,10 +1,8 @@
-# Nurse 职业分析 · 韩国
+# 护士（Nurse）职业分析 · 韩国
 
-**职业代码: 30404 (KECO)**
+**职业代码：30404 (KECO)**
 
-A healthcare professional who assists doctors in medical treatments and performs patient nursing and health care. Works in various medical institutions such as hospitals, clinics, and nursing facilities.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+协助医生进行医疗治疗、执行患者护理和保健的医疗专业人员。工作于医院、诊所、护理设施等各种医疗机构。
 
 
 ---
@@ -13,8 +11,8 @@ A healthcare professional who assists doctors in medical treatments and performs
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Nursing) | 3年 | $30,000,000~$50,000,000（Nursing department of junior college; private colleges are more common than public ones） |
-| Bachelor's Degree (Nursing) | 4年 | $40,000,000~$80,000,000（4-year university; large difference between public and private） |
+| 护理副学士学位 | 3年 | $30,000,000~$50,000,000（大专护理系；私立院校多于公立） |
+| 护理学学士学位 | 4年 | $40,000,000~$80,000,000（四年制大学；公立与私立差异大） |
 
 ---
 
@@ -22,18 +20,18 @@ A healthcare professional who assists doctors in medical treatments and performs
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass the National Nursing Examination | Korean Health Personnel Licensing Examination Institute | 必备 | Must apply after graduating from nursing program |
-| Nurse License | Ministry of Health and Welfare | 必备 | Issued after passing national exam |
-| Specialized Nurse Certification | Ministry of Health and Welfare | 可选 | Certification in specific fields (oncology, critical care, etc.), optional |
+| 通过国家护士考试 | 韩国健康人员资格考试院 | 必备 | 必须在完成护理课程后申请 |
+| 护士执照 | 保健福祉部 | 必备 | 通过国家考试后颁发 |
+| 专科护士认证 | 保健福祉部 | 可选 | 特定领域认证（肿瘤学、重症监护等），可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 400,000. Demand for nurses is expected to continue increasing due to aging population and chronic diseases. As of 2023, the shortage rate is high, so employment prospects are very bright.
+**职位需求量：很高（★★★★★）** 全国从业人数约 400,000。由于人口老龄化和慢性病，护士需求预计将持续增长。截至2023年，短缺率高，就业前景非常光明。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,95 +39,87 @@ A healthcare professional who assists doctors in medical treatments and performs
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$37,000,000 | 根据医院规模和地区差异 |
-| Mid-level (4-9 years) | $38,000,000~$45,000,000 | Difference between university hospitals and general hospitals |
-| 资深（10年以上） | $46,000,000~$60,000,000 | Head nurse or higher; varies by hospital and experience |
+| 入门级（0-3年） | $30,000,000~$37,000,000 | 根据医院规模和地区差异 |
+| 中级（4-9年） | $38,000,000~$45,000,000 | 大学医院与综合医院的区别 |
+| 资深（10年以上） | $46,000,000~$60,000,000 | 护士长或以上；因医院和经验而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can replace or assist some nursing tasks (medication records, patient monitoring, administrative work), but direct care and clinical judgment remain the domain of human nurses. Some tasks will decrease, but the profession itself will persist.
+AI和自动化可以替代或辅助部分护理任务（用药记录、患者监测、行政工作），但直接护理和临床判断仍是人类护士的领域。部分任务将减少，但该职业本身将持续存在。
 
-Promotion possible from new nurse → charge nurse → head nurse → nursing department director. Acquiring specialized nurse (oncology, critical care, etc.) certification enhances expertise and expands career paths.
+晋升路径：新护士 → 护士长 → 护理部主任 → 护理总监。获得专科护士（肿瘤、重症监护等）认证可增强专业能力并拓宽职业道路。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Entering medication records
-- Organizing automatically measured vital signs data
-- Documenting nursing records
+- 录入用药记录
+- 自动测量生命体征数据的整理
+- 护理记录归档
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI analysis of patient condition monitoring
-- Using drug interaction alert systems
-- Optimizing nursing care plans
+- AI分析患者状况监测
+- 使用药物相互作用警报系统
+- 优化护理计划
 
-**人类护城河:**
+**人类护城河：**
 
-- Direct patient care and empathy
-- Complex clinical judgment
-- Communication and emotional support
-- Emergency response
+- 直接患者护理与同理心
+- 复杂的临床判断
+- 沟通与情感支持
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Medical AI utilization skills
-- Data literacy
-- Remote nursing skills
-- Patient safety management
+- 医疗AI应用技能
+- 数据素养
+- 远程护理技能
+- 患者安全管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging
-- Integrated Nursing and Care Service
-- Advanced Practice Nurse
-- Home-Based Medical Care
+- 老龄化
+- 综合护理与照护服务
+- 高级执业护士
+- 居家医疗护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (E-7)) | Nurses are classified as professionals, eligible for the E-7-1 (Professional) employment visa. A letter of recommendation from the employer is required. |
-| Subclass F-2 (Residence (F-2)) | Under the points-based permanent residency system, nurse qualifications earn extra points. Allows long-term stay. |
-| Subclass F-5 (Permanent Residence (F-5)) | Long-term work as a nurse may qualify you to apply for permanent residency. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person who is dedicated to care and service
-- A person with the physical and mental strength to handle stress and shift work
-- A person with accuracy and attention to detail
+- 致力于关怀和服务的人
+- 具备应对压力和轮班工作身心素质的人
+- 注重准确性且注重细节的人
 
 **谁不适合**
-- A person who extremely dislikes seeing blood or wounds
-- A person who prefers a regular and predictable work environment
+- 极度厌恶看到血液或伤口的人
+- 喜欢规律且可预测工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a nurse's salary?**
-答：Entry-level approximately 30-37 million KRW, mid-level 38-45 million KRW, senior 46-60 million KRW. Varies by hospital size and experience.
+**问：护士的薪水是多少？**
+答：初级约3000-3700万韩元，中级3800-4500万韩元，高级4600-6000万韩元。因医院规模和经验而异。
 
-**问：Can a foreigner work as a nurse in Korea?**
-答：Possible. You can work if you have TOPIK level 4 or higher, a nurse license, and an E-7-1 visa. However, you must pass the Korean National Nursing Exam in Korean.
+**问：外国人在韩国能当护士吗？**
+答：可能。持有TOPIK 4级或以上、护士执照和E-7-1签证即可工作，但必须通过韩语国家护士考试。
 
-**问：What qualifications are needed to become a nurse?**
-答：After graduating from a nursing program (3 or 4 years), you must pass the National Nursing Exam administered by the Korea Health Personnel Licensing Examination Institute and obtain a license.
+**问：成为护士需要哪些资格？**
+答：完成护理课程（3或4年）后，必须通过韩国保健医疗人国家考试院管理的国家护理考试并获得执照。
 
 
 ---
@@ -147,12 +137,12 @@ Promotion possible from new nurse → charge nurse → head nurse → nursing de
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nurse/KR)**

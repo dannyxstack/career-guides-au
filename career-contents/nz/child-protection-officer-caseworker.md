@@ -55,8 +55,6 @@ New Zealand's Children's Protection Officers mainly work in the government agenc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core functions of child protection officers (risk assessment, interviews, court statements) are hard to replace by AI, but tasks like documentation, data entry, and initial screening will be largely automated, freeing time for high-value interventions—a typical AI-enhanced occupation.
-
 Junior specialists can advance to senior case managers, team leaders, or policy advisors. They need to gain experience and complete relevant training, and can also transition to non-governmental organizations (NGOs) or mental health support fields.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior specialists can advance to senior case managers, team leaders, or policy 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must hold a Bachelor's degree in Social Work (or equivalent) and be registere
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-protection-officer-caseworker/NZ)**

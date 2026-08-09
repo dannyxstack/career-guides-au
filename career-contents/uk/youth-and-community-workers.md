@@ -51,8 +51,6 @@ Support and guide youth and community members, promote personal and social devel
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core interpersonal interaction and community engagement of youth and community workers are hard to replace, but administrative, clerical, and preliminary assessment tasks will gradually be taken over by AI. Job responsibilities will evolve towards higher-level coaching and strategic planning, with moderate overall threat.
-
 Can advance from assistant to senior worker, team leader, or project manager, requiring experience and professional qualifications to move into management or specialist roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from assistant to senior worker, team leader, or project manager, re
 | Subclass Skilled Worker (Skilled Worker visa) | Applicable to eligible positions with employer sponsorship, must meet the general salary threshold. |
 | Subclass Graduate (Graduate visa) | UK graduates can apply, allowed to work for 2 years (3 years for PhD). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Skilled Worker visa may be applied for, but requires employer sponsorship and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/youth-and-community-workers/UK)**

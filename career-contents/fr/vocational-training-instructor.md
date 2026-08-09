@@ -53,8 +53,6 @@ Career trainers are responsible for designing, organizing, and implementing voca
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 Trainees can be promoted from trainer to training supervisor, course development manager, or transition to roles such as human resources or corporate training consultants.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Trainees can be promoted from trainer to training supervisor, course development
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (EU Blue Card equivalent)) | Suitable for highly skilled trainers, requiring a master's degree + high-paying or in-demand occupations |
-| Subclass Salarié (Salarié (Work permit)) | Employer-sponsored work visa, requires approval from French Labour Authority. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable for higher education diploma + annual salary above threshold (approx. EUR 53,000 in 2024) |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: The basic requirement is to complete the RNCP registration course and obtain 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-training-instructor/FR)**

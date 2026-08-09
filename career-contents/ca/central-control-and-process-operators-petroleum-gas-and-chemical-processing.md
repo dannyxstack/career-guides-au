@@ -52,8 +52,6 @@ Responsible for monitoring and operating central control room systems in oil, ga
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 Usually start as a process operator or technician, gain experience and advance to senior control room operator or supervisor; some move into engineering or management roles through further training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as a process operator or technician, gain experience and advance t
 | Subclass PNP (Alberta Advantage Immigration Program) | Alberta's provincial nomination program for skilled workers in the energy industry, requiring a job offer. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a LMIA-supported work visa to accumulate experience for subsequent immigration |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a college diploma or apprenticeship training; some provinces
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/central-control-and-process-operators-petroleum-gas-and-chemical-processing/CA)**

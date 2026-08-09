@@ -52,8 +52,6 @@ Responsible for planning, designing, organizing, and directing an organization's
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will profoundly reshape the roles of advertising account managers and creative directors, blending task automation with capability enhancement. Data analysis and report generation are being replaced, but strategic insight and creative leadership are rising in value; humans need to leverage AI tools to stay competitive.
-
 Career progression: Account Executive → Account Manager → Account Director → Creative Director → Executive Creative Director; also may pivot to digital marketing or brand strategy.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: Account Executive → Account Manager → Account Director �
 | Subclass Global Talent (Global Talent visa) | For leaders with outstanding achievements or potential in advertising, no employer sponsorship required, but needs recognition |
 | Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing them to stay and work in the UK for 2 years (3 years for PhD) after graduation, then switch to a work visa after gaining experience |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some executive tasks (e.g., media scheduling) may be automated, but creative 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-accounts-managers-and-creative-directors/UK)**

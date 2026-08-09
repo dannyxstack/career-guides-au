@@ -52,8 +52,6 @@ Instrumental musicians in New Zealand play one or more instruments, performing l
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on instrumental musicians: music generation and accompaniment automation replace some commercial recording and background music work, but live emotional expression, improvisation, and teaching interaction remain highly human-dependent.
-
 Beginner musicians can start with community performances and bar gigs to build experience and portfolios; intermediate musicians can join orchestras, theaters, or become studio musicians; advanced performers can become principal players, soloists, or music directors. Teaching paths can lead to private instructors or music school lecturers.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Beginner musicians can start with community performances and bar gigs to build e
 | Subclass SMC (Skilled Migrant Category) | 6-point system: must meet points for qualifications, work experience, etc.; need a job offer or current employment. Non-registered occupation, must demonstrate skills match New Zealand's needs. |
 | Subclass Visitor Visa (Visitor Visa) | Short-term performance or audition, no work allowed. Can switch to work visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Very competitive. Full-time positions are rare, most work part-time. Need to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musician-instrumental/NZ)**

@@ -53,8 +53,6 @@ Engaged in leather processing and manufacturing, including tanning, dyeing, fini
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core manual and chemical processing tasks for leather manufacturing workers will be largely automated, with entry-level positions shrinking sharply, but high-precision and custom work will still require humans.
-
 Entry-level workers can advance through vocational training to become skilled workers or team leaders, further to technical experts or production management, or shift to quality control or R&D.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level workers can advance through vocational training to become skilled wo
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must complete recognized vocational training in Germany or hold equivalent qu
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-production-worker/DE)**

@@ -4,8 +4,6 @@
 
 Grinding, polishing, and other equipment are used to fine-process the surfaces of metal, wood, glass, and other materials to ensure the required roughness, gloss, or cleanliness is achieved.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Grinding, polishing, and other equipment are used to fine-process the surfaces o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine repetitive tasks for surface grinding operators (such as parameter setting and surface inspection) will be replaced by AI and automation, but processes requiring high precision, shaped parts, and manual feel are instead enhanced by AI-assisted tools. Competition for entry-level positions is intensifying, but new opportunities are emerging in high-end customization and quality monitoring.
-
 You can grow from a junior operator to a senior technician (chef d'équipe), or move on to roles such as CNC grinding machine programming and quality control. Some practitioners become process engineers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ You can grow from a junior operator to a senior technician (chef d'équipe), or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, proof that no EU candidate is available for hiring. Surface treatment is not a shortage occupation, making approval challenging. |
-| Subclass Passeport Talent (Talents Passport) | It is only suitable for highly skilled or specialized talents, and this profession rarely qualifies. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: CAP or BTS diplomas are usually required, but admission can also be made thro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surface-abrasion-treatment-operator/FR)**

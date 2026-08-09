@@ -51,8 +51,6 @@ Construction accountants and cost clerks are responsible for cost budgeting, set
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of construction accounting and cost estimators (budgeting, cost calculation, financial reconciliation) are being eroded by AI automation tools, but areas involving human judgment and multi-party coordination such as contract review, negotiation, and project risk assessment are enhanced by AI. The role presents a mixed landscape of task compression and capability amplification.
-
 Can progress from junior cost accountant to senior cost control manager, or transition to project management or construction management roles. With experience, can become an independent consultant.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior cost accountant to senior cost control manager, or tran
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with vocational training certification (dual system) or qualifications, requiring employer sponsorship |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job seeker card for seeking work in Germany for 6 months |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Dual-system training certificates or German university degrees are directly r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-accounting-and-cost-estimator/DE)**

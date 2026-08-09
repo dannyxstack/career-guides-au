@@ -51,8 +51,6 @@ Responsible for medical record management, coding, filing, and quality control, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is gradually penetrating medical documentation work, but legal and ethical constraints make full replacement difficult. Over the next 5 years, coding and auditing tasks will be partially automated, while demand for quality monitoring and complex analysis skills will increase. Overall job numbers will slightly decrease, but skill requirements will rise.
-
 Can progress from assistant to senior documentation specialist, document management supervisor, or transition to medical coding, data analysis, and health information management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from assistant to senior documentation specialist, document managem
 | Subclass Skilled Worker (Skilled Worker Visa) | For skilled personnel holding an Ausbildung or degree |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, suitable for young professionals |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must complete a German-recognized Ausbildung or degree, pass credential recog
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-documentation-specialist/DE)**

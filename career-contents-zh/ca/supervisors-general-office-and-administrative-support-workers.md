@@ -1,6 +1,6 @@
-# Supervisors, general office and administrative support workers 职业分析 · 加拿大
+# 主管、一般办公及行政支持人员（Supervisors, general office and administrative support workers）职业分析 · 加拿大
 
-**职业代码: 12010 (NOC)**
+**职业代码：12010 (NOC)**
 
 监督和协调办公室行政支持人员的工作，确保日常运营高效，管理文档、记录和通信流程。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 80,000. 加拿大就业前景稳定，受数字化转型影响，部分文书工作减少，但管理监督需求持续存在。预计2023-2031年职位增长约5%。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 80,000。加拿大就业前景稳定，受数字化转型影响，部分文书工作减少，但管理监督需求持续存在。预计2023-2031年职位增长约5%。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
 办公室经理的日常行政协调任务易被AI自动化替代，入门岗位减少，但战略与人力资源决策仍需人类。
 
 可从行政助理、文员晋升为主管，再晋升至行政经理或运营经理。积累管理经验和行业知识后，可转向高级管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 安排会议日程和会议室预订
 - 处理日常邮件和内部通信
@@ -64,7 +64,7 @@
 - 生成常规报告和数据分析
 - 管理员工假期和出勤记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI工具进行预算规划和成本分析
 - 通过智能系统优化办公室空间利用
@@ -72,7 +72,7 @@
 - 借助自动化工作流提升团队协作效率
 - 利用数据分析优化办公流程
 
-**人类护城河:**
+**人类护城河：**
 
 - 人际沟通与团队冲突调解
 - 处理突发危机和复杂问题
@@ -80,7 +80,7 @@
 - 维护员工士气和组织文化
 - 跨部门协调与高级管理层对接
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI办公工具使用（如Microsoft Copilot, Notion AI）
 - 数据分析与可视化（Tableau、Power BI）
@@ -89,16 +89,16 @@
 - 数字协作平台管理（Slack, Teams）
 - 变革管理与领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Administrative Management
-- Digital Transformation
-- Remote Work Coordination
-- Process Optimization
+- 行政管理
+- 数字化转型
+- 远程工作协调
+- 流程优化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass PNP (Provincial Nominee Program) | 各省提名，针对有相关工作经验或雇主担保的申请人 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主担保工签，需证明无法招到本地人 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -153,12 +151,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-general-office-and-administrative-support-workers/CA)**

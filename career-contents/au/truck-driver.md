@@ -58,8 +58,6 @@ Truck drivers operate heavy freight vehicles (HR/HC/MC) to transport goods acros
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Demand is driven by e-commerce delivery, heavy transport in mining, and infrastructure projects. Autonomous trucks are still in the testing phase and cannot commercially replace human drivers on complex road conditions in the short term.
 
 **Tasks most exposed to AI:**
@@ -116,9 +114,7 @@ Demand is driven by e-commerce delivery, heavy transport in mining, and infrastr
 | Subclass 190 (Skilled Nominated) | Some state nominations available; WA has strong demand for heavy vehicle drivers |
 | Subclass 491 (Skilled Work Regional) | Regional nomination; more opportunities in mining and agricultural logistics and transport regions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Truck drivers earn higher salaries (HC ~$90k+ vs forklift ~$75k), have cleare
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/truck-driver/AU)**

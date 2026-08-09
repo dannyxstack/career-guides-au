@@ -4,8 +4,6 @@
 
 Post office counter staff handle mail, parcels, remittances, and postal savings services, providing counter services to customers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Post office counter staff handle mail, parcels, remittances, and postal savings 
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
-
-Post office counter staff face the dual impact of automation replacement and AI enhancement. Routine transactions are being replaced by digital channels, but tasks like complex consultation and dispute resolution are instead enhanced by AI tools, resulting in a mixed overall job structure.
 
 You can be promoted from counter staff to postal supervisor or shift to logistics management positions.
 
@@ -99,15 +95,9 @@ You can be promoted from counter staff to postal supervisor or shift to logistic
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship is required, but it is not a shortage occupation, so approval is more difficult |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: This profession is not in short supply, and third-country immigration has alm
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/post-office-counter-clerks/ES)**

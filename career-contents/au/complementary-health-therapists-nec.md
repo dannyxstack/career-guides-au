@@ -53,8 +53,6 @@ Provides non-traditional health therapies, including naturopathy, Chinese medici
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The complementary health assistant occupation will be dually affected by AI: automation tools replace some diagnostic and documentation work, but enhance personalized treatment, patient interaction, and knowledge base application. Practitioners need to flexibly embrace technology.
-
 Practitioners can progress from junior therapist to senior clinical consultant, clinic manager, or independent practitioner. Some further study to become lecturers or researchers.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Practitioners can progress from junior therapist to senior clinical consultant, 
 | Subclass 491 (Skilled Work Regional visa) | Regional state sponsorship, can add points |
 | Subclass 189 (Skilled Independent visa) | Must be on the MLTSSL; this occupation is usually not on the list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Demand continues to grow as interest in alternative medicine increases. Pract
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/complementary-health-therapists-nec/AU)**

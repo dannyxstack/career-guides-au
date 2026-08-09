@@ -4,8 +4,6 @@
 
 In non-hotel institutions (such as companies, clinics, firms, etc.), responsible for visitor reception, call forwarding, email distribution, and basic administrative support. Stable work environment, with high demands on communication skills and multitasking.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In non-hotel institutions (such as companies, clinics, firms, etc.), responsible
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Receptionist positions are mixed due to AI: routine tasks (call forwarding, schedule management) are easily automated, but core responsibilities like interpersonal reception and emotional labor are hard to replicate by AI. The total number of positions may shrink, but the added value of retained positions increases.
-
 Clear career path: you can advance from junior front desk to administrative assistant, office supervisor, or customer service manager. After gaining experience, you can also move on to HR, secretary, or administrative specialist roles.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Clear career path: you can advance from junior front desk to administrative assi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | It is suitable for foreigners with work contracts offered by Spanish companies and must meet conditions such as labor market testing. |
-| Subclass Busqueda empleo (Job Search Visa) | Allowed to stay in Spain for up to 1 year to seek employment, but typically for highly skilled talent; approval for front-desk roles is unlikely. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: They can transition to roles such as administrative assistant, office supervi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist-except-hotel/ES)**

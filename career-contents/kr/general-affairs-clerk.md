@@ -4,8 +4,6 @@
 
 This employee is responsible for overall general affairs tasks including general administration, facility management, asset management, and maintaining the office environment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ This employee is responsible for overall general affairs tasks including general
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-As AI and automation replace simple office tasks, the role of general affairs officers is shrinking, but complex decision-making and interpersonal coordination tasks remain in the human domain.
-
 Starting as a new employee, you can build experience and be promoted to general affairs team leader or management department head; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Starting as a new employee, you can build experience and be promoted to general 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable only for general affairs work requiring expertise |
-| Subclass F-2 (Residence) | Intermediate step to permanent residency, few employment restrictions |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: While high school graduates are eligible, college graduates have an advantage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-affairs-clerk/KR)**

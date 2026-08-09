@@ -4,8 +4,6 @@
 
 A managerial role responsible for overseeing social welfare facilities and institutions, including planning welfare projects, managing personnel and finances, and handling external relations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A managerial role responsible for overseeing social welfare facilities and insti
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in administrative tasks (documentation, data analysis, budget management) for social welfare managers, but it is difficult to replace human relationships and the decision-making/interpersonal services that determine welfare service quality. Instead, it improves efficiency and contributes to enhanced professionalism.
-
 After obtaining a social worker license (Level 2 or higher), gain field experience and complete facility director promotion training to be selected as a manager. Career hires are common.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ After obtaining a social worker license (Level 2 or higher), gain field experien
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (F-2 (Residence)) | Issued to long-term residents, few employment restrictions |
-| Subclass F-5 (F-5 (Permanent Residence)) | Permanent residents, free to work |
-| Subclass E-7 (E-7 (Specific Activities)) | Available only for professionals, but limited in social welfare field |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: Typically, after obtaining a Level 2 or higher social worker certificate, one
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-welfare-manager/KR)**

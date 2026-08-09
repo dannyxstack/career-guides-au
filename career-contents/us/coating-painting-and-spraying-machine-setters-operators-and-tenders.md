@@ -53,8 +53,6 @@ Set up, operate, or monitor spraying or coating machines to apply paint, glaze, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Coating and spraying machine operators have mixed prospects: AI optimizes paths and defect detection to improve efficiency, but robot automation is gradually replacing routine operations; meanwhile, custom fine work and complex equipment maintenance still require human skills.
-
 Can advance from operator to senior operator, team leader, or quality controller. Some accumulate experience and transition to automation equipment programming or maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from operator to senior operator, team leader, or quality controller
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to senior operator, team leader, or quality inspector. Can also t
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coating-painting-and-spraying-machine-setters-operators-and-tenders/US)**

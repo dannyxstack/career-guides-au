@@ -52,8 +52,6 @@ Orthoptists diagnose and treat vision disorders such as strabismus, amblyopia, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Orthoptists' work will be significantly enhanced rather than replaced by AI. AI-assisted diagnostic tools can improve screening efficiency for strabismus and amblyopia, but visual training, patient communication, and personalized treatment design still require human input. Entry-level positions are slightly reduced due to the prevalence of AI diagnostic tools, but overall demand is growing.
-
 Progress from entry-level orthoptist to senior clinical specialist or management role, or transition to ophthalmic research or education, requiring clinical experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress from entry-level orthoptist to senior clinical specialist or management
 | Subclass 189 (Skilled Independent Visa) | Independent skilled permanent visa, based on EOI points, requires occupation be on the MLTSSL |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires accredited qualification and passing AHPRA registration exam; may ne
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthoptist/AU)**

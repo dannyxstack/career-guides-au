@@ -51,8 +51,6 @@ Software Engineer (NOC 21231) designs and develops software systems in Canada. I
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is profoundly reshaping software engineering: low-level coding and testing tasks are automated, but system design, architectural decisions, and complex problem-solving are amplified. Humans still control requirements analysis, innovation, and teamwork.
-
 Path: Developer → Senior → Architect / Tech Lead; cloud, AI, and system design experience significantly boost salary and immigration competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Path: Developer → Senior → Architect / Tech Lead; cloud, AI, and system desi
 | Subclass PNP (Provincial Nominee (Tech)) | BC PNP Tech / Ontario OINP Tech Stream |
 | Subclass GTS (Global Talent Stream) | Employer-sponsored fast-track work visa |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, and it is highly advantageous. Express Entry has STEM category draws, an
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-engineer/CA)**

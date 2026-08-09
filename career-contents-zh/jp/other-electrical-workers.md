@@ -1,8 +1,8 @@
-# Other Electrical Workers 职业分析 · 日本
+# 其他电气工人（Other Electrical Workers）职业分析 · 日本
 
-**职业代码: 679 (JSCO)**
+**职业代码：679 (JSCO)**
 
-Specialists in installing, maintaining, and inspecting electrical equipment. Active in various settings like buildings and factories for wiring and equipment upgrades.
+安装、维护和检查电气设备的专家。活跃于建筑和工厂等场所，进行布线和设备升级。
 
 
 ---
@@ -11,9 +11,9 @@ Specialists in installing, maintaining, and inspecting electrical equipment. Act
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Public high schools nearly free; private up to about ¥3 million） |
-| Vocational Training School (Electrical) | 1-2年 | $0~$500,000（Public training free; specialized schools cost hundreds of thousands of yen） |
-| Specialized Training College (Electrical Engineering) | 2 年 | $1,000,000~$2,500,000（Tuition approx. ¥500,000–1,250,000 per year） |
+| 高中 | 3年 | $0~$3,000,000（公立高中几乎免费；私立最高约300万日元） |
+| 职业培训学校（电气） | 1-2年 | $0~$500,000（公立培训免费；专门学校需数十万日元） |
+| 专门培训学院（电气工程） | 2 年 | $1,000,000~$2,500,000（学费约每年50万至125万日元） |
 
 ---
 
@@ -21,19 +21,19 @@ Specialists in installing, maintaining, and inspecting electrical equipment. Act
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician (Class 1) | Ministry of Economy, Trade and Industry | 必备 | Required for equipment up to 500V. Exam eligible without work experience. |
-| Electrician (Class 2) | Ministry of Economy, Trade and Industry | 必备 | For residential/small facilities. Many jobs available with Class 2. |
-| Chief Electrical Engineer (Class 3) | Ministry of Economy, Trade and Industry | 可选 | Required for safety supervision of commercial electrical equipment. Effective for career advancement. |
-| Fire Equipment Installer | Ministry of Internal Affairs and Communications | 可选 | Required for installation and maintenance of fire equipment. Closely related to electrical work. |
+| 电工（一级） | 经济产业省 | 必备 | 适用于500V以下设备。无需工作经验即可参加考试。 |
+| 电工（二级） | 经济产业省 | 必备 | 适用于住宅/小型设施。持有2级证书可从事多种工作。 |
+| 首席电气工程师（三级） | 经济产业省 | 可选 | 商业电气设备安全监督必备。助力职业发展。 |
+| 消防设备安装员 | 总务省 | 可选 | 消防设备安装和维护所需。与电气工作密切相关。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Stable construction demand and aging infrastructure updates are expected to maintain medium-term labor shortages. Demand is especially growing in renewable energy-related projects.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。稳定的建筑需求和老化基础设施的更新预计将维持中期劳动力短缺，可再生能源相关项目的需求尤其增长。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,94 +41,86 @@ Specialists in installing, maintaining, and inspecting electrical equipment. Act
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,200,000~$4,000,000 | Apprenticeship period slightly lower, but rises after certification |
-| 中级（4-9年） | $4,000,000~$5,500,000 | Stable income as a skilled worker |
-| Advanced (10+ years) | $5,500,000~$7,500,000 | High income potential as site supervisor or manager; higher if independent |
+| 入门级（0-3年） | $3,200,000~$4,000,000 | 学徒期薪资略低，但认证后上涨 |
+| 中级（4-9年） | $4,000,000~$5,500,000 | 作为技术工人的稳定收入 |
+| 高级（10年以上） | $5,500,000~$7,500,000 | 作为现场主管或经理有高收入潜力；独立从业者更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation will streamline some tasks like blueprint creation and wiring planning, but on-site physical work and judgment will still depend on humans, so the occupation as a whole is shrinking but not completely replaceable.
+AI和自动化将简化图纸创建和布线规划等任务，但现场体力工作和判断仍依赖人类，因此该职业整体在缩减但不会被完全替代。
 
-Career progression from apprentice to skilled worker and site supervisor. Practical experience and certifications can lead to self-employment. Continuous learning to keep up with technical advances is important.
+职业发展路径从学徒到熟练工再到现场主管。实践经验和认证可导向自主创业。持续学习以跟上技术进步很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic wiring route design
-- Inventory management and ordering
-- Automatic work report generation
+- 自动布线路线设计
+- 库存管理与订购
+- 自动生成工作报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based fault prediction diagnosis
-- Drone inspections
-- AR work support
+- 基于AI的故障预测诊断
+- 无人机检查
+- AR工作支持
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site flexible response
-- Hazardous work at heights or in confined spaces
-- Direct communication with customers
+- 现场灵活应对
+- 高空或密闭空间危险作业
+- 与客户直接沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electrician certification (Class 1 or 2)
-- Chief Electrical Engineer certification
-- Knowledge of solar power generation
-- Smart grid-related technologies
+- 电工认证（一级或二级）
+- 首席电气工程师认证
+- 太阳能发电知识
+- 智能电网相关技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Solar power generation construction
-- Electric vehicle charging equipment
-- Smart grids
-- Energy-saving renovations
+- 太阳能发电建设
+- 电动汽车充电设备
+- 智能电网
+- 节能改造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号(建設) (Specified Skilled Worker (i)) | Target of construction SSV. Requires skill test and N4+ Japanese. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/Int'l Services) | Requires university degree or 10+ years experience. Possible for electrical design/management. |
-| Subclass 技能 (Skilled Worker Visa) | For skilled workers. Requires proven experience in electrical work. Residence period limited. |
-| Subclass 特定技能2号(建設) (Specified Skilled Worker (ii)) | Expanded in 2023. High-skilled can bring family and get PR. Requires exam. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like hands-on work
-- People who are motivated to acquire qualifications
-- People who are good at fieldwork and teamwork
+- 喜欢动手操作的人
+- 有动力获取资格的人
+- 擅长现场工作和团队合作的人
 
 **谁不适合**
-- People who prefer desk work
-- People who are not confident in their physical strength
+- 偏好案头工作的人
+- 体力不自信者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of electrical workers?**
-答：It varies by experience and qualifications, but rough estimates are 3.2-4 million JPY for entry-level, 4-5.5 million for mid-level, and 5.5-7.5 million for advanced. Overtime and qualification allowances may be added.
+**问：电气工人的年收入是多少？**
+答：因经验和资质而异，大致估计入门级320-400万日元，中级400-550万，高级550-750万。可能还有加班和资格津贴。
 
-**问：What visa is needed for foreigners to work in electrical work?**
-答：Mainly 'Specified Skilled Worker (i) (Construction)' is the most realistic. Requires passing a skills test and Japanese N4. Other options include 'Engineer/Specialist in Humanities/International Services' for university graduates, and 'Specified Skilled Worker (ii)' for skilled individuals.
+**问：外国人在电气领域工作需要什么签证？**
+答：主要是“特定技能工人（i）（建筑）”最现实。需要通过技能测试和日语N4。其他选择包括大学毕业生可申请的“工程师/人文专家/国际服务”，以及技能熟练者的“特定技能工人（ii）”。
 
-**问：How can you advance your career?**
-答：Commonly, by obtaining qualifications such as Class 1 Electrician or Electrical Chief Engineer and aiming for site supervisor or management positions. Another path is to start your own electrical contracting company.
+**问：如何推进职业生涯？**
+答：通常通过获得一级电工或电气总工程师等资格，并争取现场主管或管理职位。另一种途径是创办自己的电气承包公司。
 
 
 ---
@@ -146,12 +138,12 @@ Career progression from apprentice to skilled worker and site supervisor. Practi
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-electrical-workers/JP)**

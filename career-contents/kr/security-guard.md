@@ -4,8 +4,6 @@
 
 A safety occupation that prevents theft, fire, and intrusion in buildings, facilities, factories, etc., and performs patrols, access control, and facility management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A safety occupation that prevents theft, fire, and intrusion in buildings, facil
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-The introduction of AI/IoT-based unmanned security systems reduces simple patrol and monitoring tasks, but tasks requiring interpersonal response and judgment still need humans, resulting in mixed impacts.
-
 New recruits are assigned after simple on-site training, and with experience, they can be promoted to squad leader or team leader, or transition to special security (mechanical security/escort).
 
 **Tasks most exposed to AI:**
@@ -93,18 +89,9 @@ New recruits are assigned after simple on-site training, and with experience, th
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Limited to manufacturing, construction, agriculture, fisheries, etc.; difficult for security guards to obtain directly. |
-| Subclass F-2 (Residence (F-2)) | A step toward permanent residency; no restrictions on working as a security guard. |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans; simple labor restrictions apply, but security guard work is possible. |
-| Subclass F-5 (Permanent Residence (F-5)) | Permanent residents can work as security guards without restrictions. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +135,12 @@ A: With work experience and special security or mechanical security certificatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guard/KR)**

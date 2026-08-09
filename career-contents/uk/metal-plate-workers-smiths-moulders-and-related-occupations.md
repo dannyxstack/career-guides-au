@@ -52,8 +52,6 @@ Mark, drill, shape, position, rivet, and seal metal sheets and beams to build st
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheet metal workers face a mixed impact from AI/automation: simple cutting and layout tasks are easily replaced, but complex forming, on-site installation, and quality judgment skills remain hard to automate, and high-end demand in sectors like defense shipbuilding increases reliance on advanced technicians.
-
 Usually start as an apprentice or junior worker, progressing to senior technician, supervisor, or quality inspector with experience. Some become mold designers or manufacturing engineers through further training, or self-employed in small metal processing plants.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as an apprentice or junior worker, progressing to senior technicia
 | Subclass Scale-up (Scale-up visa) | Suitable for high-growth enterprise sponsorship, must meet salary requirements |
 | Subclass Graduate (Graduate visa) | Graduates from UK universities are eligible to apply, with no work restrictions, and can switch to a Skilled Worker visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from apprentice to senior technician, supervisor, or transition 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-plate-workers-smiths-moulders-and-related-occupations/UK)**

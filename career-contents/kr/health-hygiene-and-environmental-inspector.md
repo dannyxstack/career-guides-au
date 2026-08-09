@@ -50,8 +50,6 @@ A specialized inspection professional who collects and analyzes food, pharmaceut
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI can automate some aspects of test data analysis and report writing, human experts are essential for sample collection, on-site judgment, and regulatory interpretation. Therefore, replacement by AI will be limited, and it will contribute to work efficiency.
-
 Starting as a junior inspector, you can advance to senior inspector, researcher, or quality control team leader by gaining experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ Starting as a junior inspector, you can advance to senior inspector, researcher,
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled workers, inspection-related experience required |
-| Subclass F-2 (Residence) | Convertible to points system, advantageous for long-term stay |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +130,12 @@ A: Possible with an E-7 visa (Specific Activities); a relevant degree or experie
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-hygiene-and-environmental-inspector/KR)**

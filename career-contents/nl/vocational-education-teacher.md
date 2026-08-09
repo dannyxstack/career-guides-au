@@ -52,8 +52,6 @@ Vocational education teachers teach practical skills and theoretical knowledge i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vocational education teachers face mixed impacts from AI: tasks like curriculum development and assessment are automated and streamlined, but core work such as personalized teaching and practical guidance is enhanced, requiring a shift to AI-assisted instructional designers.
-
 Common path: Transition from industry technician to part-time teacher, then obtain teaching qualifications to become full-time teacher; advance to course coordinator, training supervisor, or education institution management.
 
 **Tasks most exposed to AI:**
@@ -97,17 +95,9 @@ Common path: Transition from industry technician to part-time teacher, then obta
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For recruiting specialist teachers from non-EU countries, must sign a contract with an approved sponsoring body, and salary must meet the minimum standard (approx. €5,008/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU teachers, requiring higher education qualifications and a high salary (at least €5,331/month); can bring family and quickly obtain EU long-term residence. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from the Netherlands or top 200 global universities can apply for a 1-year job-seeking visa, and can convert to a work residence permit after securing a teaching job. |
-| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/Swiss citizens can work freely in the Netherlands without a visa; just register directly. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: Must hold a secondary or primary teaching qualification, with relevant indust
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-education-teacher/NL)**

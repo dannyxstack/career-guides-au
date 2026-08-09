@@ -4,8 +4,6 @@
 
 Responsible for the installation, maintenance, fault diagnosis, and repair of mechanical systems for ships and railway vehicles to ensure their safe operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the installation, maintenance, fault diagnosis, and repair of me
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This profession benefits from AI-driven predictive maintenance and intelligent diagnostics, with traditional repair tasks enhanced rather than replaced; However, entry-level calibration positions may see a slight decline in demand due to the widespread adoption of automation tools.
-
 You can advance from junior mechanic to senior technician, team leader, or technical consultant, and also transition through training to special-purpose vehicles or renewable energy fields.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can advance from junior mechanic to senior technician, team leader, or techn
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Sponsored by a Spanish employer, it must be proven that the position cannot be filled in the home country or within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of experience, with an annual salary threshold of approximately 33,908 euros (2024). |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | For highly educated or in-demand occupations, it can accelerate processing and family reunification. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: This can be done through employer-sponsored employment residence (Cuenta ajen
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/naval-and-railway-machinery-mechanics-and-adjusters/ES)**

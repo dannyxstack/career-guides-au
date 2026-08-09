@@ -4,8 +4,6 @@
 
 Designing, cutting, and sewing garments based on customer needs or small batch orders, covering the entire process from bespoke to haute couture.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Designing, cutting, and sewing garments based on customer needs or small batch o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
-
 You can start as an apprentice or assistant tailor, and after gaining experience, be promoted to senior tailor or studio supervisor. You can also start your own custom workshop.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ You can start as an apprentice or assistant tailor, and after gaining experience
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employer sponsorship required, applicable to those with a French company employment contract, and must pass the labor market test (Opposabilité de la situation d'emploi). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents or artists, custom clothing designers can apply, no labor market test required. |
-| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | Suitable for high-paying positions (annual salary ≥ 53,835 euros), which is usually difficult for garment makers to reach. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Qualification must be obtained through France Compétences (reconnaissance de
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/custom-or-smallseries-garment-maker/FR)**

@@ -53,8 +53,6 @@ Scientist researching microorganisms, developing diagnostic methods, or producin
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
-
 Usually start as a research assistant or laboratory scientist, can progress to project leader, department head, or chief scientist. May also move into quality management, regulatory affairs, or technology transfer. Obtaining a habilitation allows entry into academic faculty positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a research assistant or laboratory scientist, can progress to p
 | Subclass Skilled Worker (Skilled Employment for Qualified Professionals) | Applicable to non-EU applicants with a recognized German qualification, requiring a work contract. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires a master's degree; research positions need a PhD. Foreign qu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biologist-microbiology/DE)**

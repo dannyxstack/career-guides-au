@@ -1,10 +1,8 @@
-# Goods Visit/Mobile Sales Worker 职业分析 · 日本
+# 商品上门/流动销售员（Goods Visit/Mobile Sales Worker）职业分析 · 日本
 
-**职业代码: 324 (JSCO)**
+**职业代码：324 (JSCO)**
 
-A job that involves visiting customers or patrolling with a mobile sales vehicle to sell food and daily necessities. Characterized by community-based sales.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶移动销售车拜访客户或巡逻，销售食品和日用品的职业。特点是社区型销售。
 
 
 ---
@@ -13,9 +11,9 @@ A job that involves visiting customers or patrolling with a mobile sales vehicle
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 义务教育 | 0 | $0~$0（No educational background required） |
-| 中学 | 3年 | $0~$1,000,000（In case of public high school） |
-| Junior college | 2 年 | $2,000,000~$3,000,000（In case of private school） |
+| 义务教育 | 0 | $0~$0（无学历要求） |
+| 中学 | 3年 | $0~$1,000,000（公立高中的情况） |
+| 专科学校 | 2 年 | $2,000,000~$3,000,000（私立学校的情况） |
 
 ---
 
@@ -23,18 +21,18 @@ A job that involves visiting customers or patrolling with a mobile sales vehicle
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 普通驾照 | Public Safety Commission | 必备 | Required for mobile sales |
-| Sales clerk | Japan Chamber of Commerce and Industry | 可选 | Optional but advantageous |
-| Food hygiene supervisor | Prefectural government | 可选 | Required for food sales |
+| 普通驾照 | 公共安全委员会 | 必备 | 移动销售所需 |
+| 售货员 | 日本商工会议所 | 可选 | 非必需但有利 |
+| 食品卫生主管 | 县/省级政府 | 可选 | 食品销售所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 250,000. Demand for mobile sales is stable due to aging population and measures for shopping refugees in rural areas. However, door-to-door sales are declining due to the expansion of e-commerce.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 250,000。由于人口老龄化和农村地区购物难民的措施，移动销售需求稳定。然而，由于电子商务的扩张，上门销售正在下降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,90 +40,83 @@ A job that involves visiting customers or patrolling with a mobile sales vehicle
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,000,000~$3,800,000 | Annual income |
-| 中级（3-10年） | $3,800,000~$5,000,000 | Annual income |
-| Advanced (10+ years) | $5,000,000~$6,500,000 | Annual income |
+| 初级（0-3年） | $3,000,000~$3,800,000 | 年收入 |
+| 中级（3-10年） | $3,800,000~$5,000,000 | 年收入 |
+| 高级（10年以上） | $5,000,000~$6,500,000 | 年收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI has low direct replacement risk but may enhance work through customer management and route optimization. Interpersonal skills are key.
+人工智能直接替代风险低，但可能通过客户管理和路线优化提升工作。人际交往技能是关键。
 
-With experience, promotion to sales office manager or area manager is possible. There is also a path to start an independent mobile sales business.
+有经验者可晋升为销售办事处经理或区域经理，也有机会自主开展移动销售业务。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple goods handover
-- Routine phone sales
+- 简单货物交接
+- 常规电话销售
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Sales route optimization
-- Customer data analysis
+- 销售路线优化
+- 客户数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Trust building
-- On-site responsiveness
+- 人际沟通
+- 建立信任
+- 现场响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 客户服务技巧
-- Local network building
-- Product knowledge
+- 本地网络建设
+- 产品知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mobile sales
-- Door-to-door sales
-- Shopping support
-- Community-based
+- 移动销售
+- 上门推销
+- 购物支持
+- 基于社区的
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food Service)) | Permits work in the food service industry. Exam required. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for sales roles requiring specialized knowledge. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking to others
-- People who want to work closely with the local community
-- People who enjoy driving
+- 喜欢与人交谈的人
+- 希望与当地社区紧密合作的人
+- 喜欢驾驶的人
 
 **谁不适合**
-- People who prefer desk work
-- People who are not good at socializing
+- 偏好案头工作的人
+- 不善于社交的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for product visit/mobile sales?**
-答：Beginner: 3–3.8 million JPY, Intermediate: 3.8–5 million JPY, Advanced: 5–6.5 million JPY.
+**问：产品拜访/移动销售的年收入是多少？**
+答：初级：300-380万日元，中级：380-500万日元，高级：500-650万日元。
 
-**问：What visa is needed for foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) (Food Service) or Engineer/Specialist in Humanities/International Services visa applies, but requires work experience or academic background.
+**问：外国人在从事该职业需要什么签证？**
+答：特定技能签证（i）（餐饮服务）或技术/人文知识/国际服务签证适用，但需工作经验或学历背景。
 
-**问：How can I advance my career?**
-答：With experience, paths to branch manager or independent business exist. Qualifications like sales expert are advantageous.
+**问：如何提升我的职业生涯？**
+答：有经验可晋升为分店经理或独立经营；销售专家等资质有优势。
 
 
 ---
@@ -143,12 +134,12 @@ With experience, promotion to sales office manager or area manager is possible. 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/goods-visit-mobile-sales-worker/JP)**

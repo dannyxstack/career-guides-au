@@ -4,8 +4,6 @@
 
 Operate and set up woodworking machinery such as saws, planers, and routers for cutting, shaping, and finishing wood and wood products. In the Netherlands, this occupation is common in furniture manufacturing, construction carpentry, and related industries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate and set up woodworking machinery such as saws, planers, and routers for 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Woodworking machine operators face a moderate risk of automation; AI and robots will take over programming and monitoring tasks, but complex manual adjustments, multi-machine coordination, and quality judgment still rely on human experience. Overall, core tasks are compressed, but technical added value increases.
-
 Can advance from junior operator to senior technician or production supervisor. Through on-the-job training or vocational courses, can progress towards CNC woodworking machine programming or quality control.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can advance from junior operator to senior technician or production supervisor. 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled migration requiring employer sponsorship and meeting a salary threshold (around €5,008/month in 2024), but wood machinists typically do not meet the conditions |
-| Subclass EU Blue Card (EU Blue Card) | Requires higher education and a high salary threshold (approx. €5,331/month in 2024), generally not applicable to this occupation |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates in the Netherlands can apply; valid for 1 year for job search, but limited opportunities in this occupation |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically requires a diploma in carpentry from MBO (secondary vocational educ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/woodworking-machine-tool-setter-and-operator/NL)**

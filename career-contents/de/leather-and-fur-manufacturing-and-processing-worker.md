@@ -53,8 +53,6 @@ Engage in tanning, dyeing, cutting, sewing, and finishing of leather and fur to 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on leather and fur manufacturing and processing is mixed: repetitive tanning and cutting tasks are easily automated, but hand stitching, creative design, and quality control still require human touch and aesthetic sense, posing a medium risk to overall job structure.
-
 Starting as a skilled worker, you can advance to foreman, production supervisor, or technical specialist. Further education can lead to quality management, product development, or a self-owned workshop.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as a skilled worker, you can advance to foreman, production supervisor,
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based jobseeker visa for finding work in Germany |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring proof of language ability and financial resources. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The main pathway is a 3-year dual vocational training combining company pract
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-and-fur-manufacturing-and-processing-worker/DE)**

@@ -52,8 +52,6 @@ This occupation involves planning, planting, managing, and harvesting broad-acre
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Start as an agricultural worker or farm assistant, gain experience, and progress to farm manager or agricultural consultant. Alternatively, shift to large-scale agricultural enterprise management or agricultural technology R&D.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an agricultural worker or farm assistant, gain experience, and progress
 | Subclass SMC (Skilled Migrant Category) | 6-point system, scoring based on education, income, work experience, etc., with a job offer required. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship, renewable for 3 years, can transition to permanent residency after gaining experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Starting from entry-level, you can advance to farm manager or agricultural ad
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadacre-crop-growers-nec/NZ)**

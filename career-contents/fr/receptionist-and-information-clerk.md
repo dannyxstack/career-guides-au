@@ -4,8 +4,6 @@
 
 In hotels, enterprises, public institutions, and other venues, they are responsible for receiving visitors, answering phone calls, providing information consultation, and handling appointment and registration matters, serving as the front line of customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ In hotels, enterprises, public institutions, and other venues, they are responsi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Reception and consultant positions face the risk of phased AI replacement, but there is ample room for skill upgrades, and interpersonal experience and emotional interaction remain the moat.
-
 You can be promoted from junior receptionist to front desk supervisor, relationship manager, or administrative assistant. Through on-the-job training and internal transfers, you can transition to hotel management, event planning, or administrative support.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ You can be promoted from junior receptionist to front desk supervisor, relations
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié)) | Employers must provide a work contract and apply for a work permit, suitable for third-country applicants with French employer sponsorship. Because these occupations are not in urgent demand, obtaining work permits is quite difficult. |
-| Subclass Passeport Talent (Talent Passport) | Only high-skilled or special talent positions are eligible; general reception positions do not meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: You can be promoted to front desk supervisor, client relationship manager, or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist-and-information-clerk/FR)**

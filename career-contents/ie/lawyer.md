@@ -53,8 +53,6 @@ Lawyers provide legal advice, represent clients in court, draft legal documents,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The lawyer profession will not be fully replaced by AI, but repetitive document review, legal research, and contract generation tasks will be highly automated, while core skills such as litigation strategy, client consultation, and court advocacy will be enhanced by AI tools.
-
 Junior solicitors usually work at a law firm for 5-8 years before being promoted to partner, or advanced to senior legal counsel. Senior lawyers can also transition to the judiciary or corporate legal departments.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior solicitors usually work at a law firm for 5-8 years before being promoted
 | Subclass General Employment P (General Employment Permit) | Applicable to ordinary work, requiring an annual salary of at least €30,000. Employers must conduct a labour market test. Permanent residency can be applied for after 5 years. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring an annual salary exceeding the EU threshold (approximately €38,000 in 2023). The legal industry is typically not included. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 4-year law undergraduate degree, followed by 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyer/IE)**

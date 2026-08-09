@@ -52,8 +52,6 @@ CEO/Managing Director leads company strategy and operations, accountable to shar
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
-
 Typically progresses from department director (e.g., finance, operations) to CEO, or is concurrently held by the founder/shareholder. Can advance to group CEO, board chair, or private equity partner. Many SMEs in New Zealand require CEOs to have both strategic and hands-on skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically progresses from department director (e.g., finance, operations) to CEO
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, manager-level roles, eligible for residence after 2 years of work, subject to specific salary requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | Certified employer work visa; employer must be certified. Suitable for entering the country first to work then switching to permanent residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires an MBA or related master's degree and over 10 years of man
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-executive-or-managing-director/NZ)**

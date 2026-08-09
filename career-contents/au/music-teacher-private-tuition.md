@@ -55,8 +55,6 @@ Music teachers (private lessons) in Australia provide one-on-one instruction in 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance the teaching efficiency and personalized experience of private music teachers, but core artistic expression and interpersonal interaction remain hard to replace, overall risk is low.
-
 Career progression paths include: starting as a part-time independent teacher, gradually building a client base, and expanding to opening a personal music studio or working for a private music school. Some teachers transition to primary/secondary school music teaching by obtaining an education diploma, but must register as a teacher separately.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression paths include: starting as a part-time independent teacher, g
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: No statutory educational requirements, but music degree, AMEB advanced diplom
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-teacher-private-tuition/AU)**

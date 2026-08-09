@@ -53,8 +53,6 @@ Dentists examine, diagnose, and treat diseases, injuries, and malformations of t
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Dentists can advance to partners or open private practices, or specialize in subfields like orthodontics and oral surgery. Some enter academia or public health.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Dentists can advance to partners or open private practices, or specialize in sub
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to dentists with a bachelor's degree, requires employer sponsorship and PERM certification. Long waiting periods. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For dentists with outstanding achievements in dentistry (e.g., research, publications, awards), labour certification not required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Although overall employment growth is about 8%, comparable to the average, sh
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentists-general/US)**

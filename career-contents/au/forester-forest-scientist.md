@@ -53,8 +53,6 @@ Forest scientists are responsible for sustainable management, conservation, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
-
 Entry-level positions usually start as field technician or assistant forester, with experience can advance to senior forester, forest manager, or regional supervisor, some move to consulting or research roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level positions usually start as field technician or assistant forester, w
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state sponsorship or family sponsorship, transition to 191 permanent residence. |
 | Subclass 482 (Temporary Skill Shortage Visa) | Requires employer sponsorship; after 3 years of work, can transfer to 186 permanent residence |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Start as an assistant forester, then progress to forester, senior forester, f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forester-forest-scientist/AU)**

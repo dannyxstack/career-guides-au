@@ -52,8 +52,6 @@ Provides career planning advice to help students and job seekers choose career p
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Career advisors' time-consuming information gathering and initial matching can be replaced by AI, but deep one-on-one consulting, emotional support, and personalized strategy design still require human experts, so the role is a mixed blessing.
-
 Can progress from assistant career consultant to senior consultant, team leader or project manager; some move into HR or education/training
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from assistant career consultant to senior consultant, team leader 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Typically requires a Postgraduate Diploma in Career Guidance (CDI certificati
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/careers-advisers-and-vocational-guidance-specialists/UK)**

@@ -4,8 +4,6 @@
 
 Responsible for installation, maintenance, inspection, and troubleshooting of vertical transportation equipment such as elevators and escalators to ensure safe operation. Must master mechanical, electrical, and electronic technology knowledge and strictly comply with safety regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installation, maintenance, inspection, and troubleshooting of ve
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Elevator installation and repair involves high risk and high safety requirements; AI can hardly fully replace on-site work and fault diagnosis, but can optimize scheduling, predictive maintenance and assist diagnosis, creating a mixed outlook.
-
 Career paths: Apprentice/Junior Technician → Senior Maintenance Technician → Team Leader/Project Manager. You can develop your career in building equipment management, elevator sales, or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -94,16 +90,9 @@ Career paths: Apprentice/Junior Technician → Senior Maintenance Technician →
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | A French employer sponsorship is required, proving that the position is difficult to find local candidates, usually requiring professional qualification certification |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or in-demand occupations, requiring an annual salary meeting a certain standard (about €40k or above) for long-term residence |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -144,12 +133,12 @@ A: You must first pass academic certification or obtain French CAP/BTS qualifica
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elevator-installer-and-repairer/FR)**

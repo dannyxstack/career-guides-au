@@ -52,8 +52,6 @@ Bioscience technicians assist biologists in scientific research in laboratories 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will largely take over data recording and standard experimental procedures, but experimental design, anomaly diagnosis, and interdisciplinary collaboration still rely on humans, job numbers stable but competition increases at entry level.
-
 Junior technicians usually start as laboratory assistants and can be promoted to senior technicians or laboratory supervisors after gaining experience. Some pursue research careers or become technical specialists in biotechnology companies after earning a master's degree.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians usually start as laboratory assistants and can be promoted to
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a university degree and work contract. The salary threshold is approximately €35,000 (2025), and family members can accompany. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated technical talents, must be hired by Spanish companies, approval is relatively fast, and long-term residence can be transferred. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard employed work residence requires employer sponsorship, suitable for positions with work experience but not with high salaries. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can apply via EU Blue Card (requires degree and work contract, annual salary 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biological-science-technicians-except-in-health-areas/ES)**

@@ -53,8 +53,6 @@ Responsible for daily administrative management of social and medical institutio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
-
 Can progress from assistant to department head, then to institutional administration management; further study of a Bachelor's in Health Management or Social Management can lead to senior management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from assistant to department head, then to institutional administra
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to graduates of dual training programs, requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, no employer sponsorship required, allows part-time work |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Non-EU qualifications require recognition (Anerkennung) to be accepted. Dual-
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/administrative-occupations-in-social-and-health-care/DE)**

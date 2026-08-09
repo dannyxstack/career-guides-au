@@ -52,8 +52,6 @@ Bartenders mainly work in bars, restaurants, hotels, etc., responsible for mixin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bartender tasks rely heavily on physical operations and human interaction, with moderate AI automation, but entry-level roles are narrowing due to AI recipe recommendations and inventory management systems; non-creative bartenders face compression.
-
 Bartenders can progress from junior bartender to senior bartender or head bartender, then to bar manager or food and beverage director. Further training can lead to roles such as cocktail trainer, beverage consultant, or opening their own bar.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Bartenders can progress from junior bartender to senior bartender or head barten
 | Subclass Chancenkarte (Opport (Opportunity Card) | A newly introduced opportunity card in 2024, based on a points system, allows job seekers to enter the country before finding a job; bartenders are eligible to apply. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | For applicants who already hold German professional qualification; allows 6-month stay in Germany to find a job. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: The most formal pathway is completing 3 years of dual vocational training (ho
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bartender/DE)**

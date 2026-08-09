@@ -53,8 +53,6 @@ Assemble and operate equipment to record, synchronize, mix, edit, or reproduce s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will partially replace low-level tasks for audio engineering technicians (e.g., automated mixing, noise reduction), but core creativity, complex sound tuning and on-site adaptability remain hard to replace; the outlook for the occupation is mixed.
-
 Entry-level positions start as assistants or equipment managers; with experience, one can advance to chief sound engineer or recording engineer. Some transition to post-production for film and TV or music production
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level positions start as assistants or equipment managers; with experience
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Some automated tasks like basic mixing may be AI-assisted, but creative decis
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sound-engineering-technicians/US)**

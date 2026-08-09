@@ -1,10 +1,8 @@
-# Instructional Materials Developer 职业分析 · 韩国
+# 教学材料开发人员（Instructional Materials Developer）职业分析 · 韩国
 
-**职业代码: 21515 (KECO)**
+**职业代码：21515 (KECO)**
 
-Plan, develop, and produce textbooks and teaching aids aligned with the curriculum, and research educational materials to enhance learning effectiveness.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+根据课程规划、开发和制作教材及教具，并研究教育材料以提高学习效果。
 
 
 ---
@@ -13,8 +11,8 @@ Plan, develop, and produce textbooks and teaching aids aligned with the curricul
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Education/Content-related) | 2 年 | $8,000,000~$12,000,000（Based on national universities） |
-| Bachelor's (Education/Content Design, etc.) | 4年 | $20,000,000~$35,000,000（Based on 4-year universities） |
+| 副学士学位（教育/内容相关） | 2 年 | $8,000,000~$12,000,000（以国立大学为基础） |
+| 学士学位（教育/内容设计等） | 4年 | $20,000,000~$35,000,000（基于4年制大学） |
 
 ---
 
@@ -22,17 +20,17 @@ Plan, develop, and produce textbooks and teaching aids aligned with the curricul
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Instructional Materials Development Specialist Certificate | Korea Education and Research Information Service (KERIS) | 可选 | 优先但不强制 |
-| e-Publishing Technician | Human Resources Development Service of Korea (HRDK) | 可选 | Advantageous for digital textbook development |
+| 教材开发专家证书 | 韩国教育研究信息服务（KERIS） | 可选 | 优先但不强制 |
+| 电子出版技术员 | 韩国人力资源开发服务局（HRDK） | 可选 | 对数字教科书开发有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,500. Due to the expansion of digital education and increasing demand for personalized learning, steady demand for instructional materials development is expected, but new hiring may be limited due to low birth rates.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,500。由于数字化教育扩张和个性化学习需求增长，教材开发需求稳定，但新生儿减少可能限制新招聘。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,98 +38,90 @@ Plan, develop, and produce textbooks and teaching aids aligned with the curricul
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Based on SMEs |
-| Mid-level (4-8 years) | $32,000,000~$42,000,000 | Based on large corporations/publishers |
-| Senior-level (9+ years) | $45,000,000~$60,000,000 | Senior Researcher level |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于中小企业 |
+| 中级（4-8年） | $32,000,000~$42,000,000 | 基于大型企业/出版社 |
+| 高级（9年以上） | $45,000,000~$60,000,000 | 高级研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI-based content creation tools and automation systems are significantly replacing textbook and teaching material development tasks. Simple editing and production work is being replaced by AI, but the human role remains important in curriculum design and creative planning.
+基于AI的内容创作工具和自动化系统正在大幅替代教科书和教材开发任务。简单的编辑和制作工作正被AI取代，但人类在课程设计和创意规划中仍扮演重要角色。
 
-Career path: Junior Researcher → Associate Researcher → Team Lead/Senior Researcher → Education Content Planner or Education Consultant.
+职业路径：初级研究员 → 副研究员 → 团队主管/高级研究员 → 教育内容策划或教育顾问。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- text editing and proofreading
-- basic image/illustration creation
-- simple item bank creation
-- format and template work
+- 文字编辑与校对
+- 基础图像/插画创作
+- 简单题库创建
+- 格式与模板工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- curriculum analysis and design
-- personalized learning path planning
-- educational review of AI-generated content
-- learning data analysis and feedback design
+- 课程分析与设计
+- 个性化学习路径规划
+- AI生成内容的教育审核
+- 学习数据分析与反馈设计
 
-**人类护城河:**
+**人类护城河：**
 
-- creative educational design skills
-- understanding of learning psychology
-- experience in educational settings
-- teacher-learner communication skills
+- 创意教育设计技能
+- 学习心理学理解
+- 教育环境经验
+- 师生沟通技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- edtech tool proficiency
-- data analysis
+- 教育科技工具熟练度
+- 数据分析
 - 项目管理
-- AI prompt engineering
-- UX/UI design basics
+- AI提示工程
+- UX/UI设计基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- digital textbooks
-- personalized learning
-- educational apps
-- edtech
+- 数字教材
+- 个性化学习
+- 教育类应用
+- 教育科技
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For holders of specialized knowledge, applicable to educational content development |
-| Subclass D-10 (Job seeking) | When seeking employment after obtaining a degree in the relevant field |
-| Subclass F-2 (Residence) | No employment restrictions for long-term stay visa holders, can engage in this occupation |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who enjoys applying creative ideas to education
-- Someone interested in designing materials from a learner's perspective
-- Someone proficient in using various media tools
+- 喜欢将创意应用于教育的人
+- 对从学习者角度设计材料感兴趣的人
+- 精通各种媒体工具的人
 
 **谁不适合**
-- Someone who dislikes repetitive paperwork
-- Someone indifferent to pedagogical principles
+- 不喜欢重复性文书工作的人
+- 对教学法原理不感兴趣的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary range for a textbook developer?**
-答：Approximately 24-30 million KRW for entry-level, rising to 60 million KRW with experience
+**问：教科书开发者的典型薪资范围是多少？**
+答：初级约2400-3000万韩元，有经验后升至6000万韩元
 
-**问：Can foreigners work as textbook developers?**
-答：Yes, with relevant degree and experience, one can work under an E-7 visa, but Korean language skills are important
+**问：外国人可以担任教材开发者吗？**
+答：可以，拥有相关学位和经验，可在E-7签证下工作，但韩语能力很重要
 
-**问：Are there any required certifications?**
-答：No required certifications, but a textbook development specialist certification or e-publishing technician certification is advantageous
+**问：是否有任何必需的认证？**
+答：无需认证证书，但拥有教材开发专家认证或电子出版技术认证将更有优势
 
 
 ---
@@ -149,12 +139,12 @@ Career path: Junior Researcher → Associate Researcher → Team Lead/Senior Res
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/instructional-materials-developer/KR)**

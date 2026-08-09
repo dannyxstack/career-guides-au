@@ -1,8 +1,8 @@
-# Cleaning occupation 职业分析 · 日本
+# 清洁职业（Cleaning occupation）职业分析 · 日本
 
-**职业代码: 385 (JSCO)**
+**职业代码：385 (JSCO)**
 
-A profession involving washing and finishing clothes and textile products. It requires specialized skills such as dry cleaning and stain removal, and demand is high in facilities like hotels and hospitals.
+涉及洗涤和整理衣物及纺织品的职业。需要干洗和去污等专业技能，酒店和医院等场所需求高。
 
 
 ---
@@ -11,8 +11,8 @@ A profession involving washing and finishing clothes and textile products. It re
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 义务教育 | 不需要 | $0~$0（Educational background irrelevant; can be learned through OJT.） |
-| Vocational training school (Cleaning department) | 6个月-1年 | $100,000~$300,000（May be free through Hello Training and other programs.） |
+| 义务教育 | 不需要 | $0~$0（教育背景不限，可通过在职培训学习。） |
+| 职业培训学校（清洁系） | 6个月-1年 | $100,000~$300,000（可能通过Hello培训等项目免费提供。） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession involving washing and finishing clothes and textile products. It re
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cleaner (National Qualification) | Prefectural governor | 可选 | National qualification. Not mandatory for work, but required to establish a business office. |
-| Dry Cleaning Skill Worker | Ministry of Health, Labour and Welfare | 可选 | Skills test. Levels 1 and 2. Proof of skill. |
-| Stain Removal Skill Worker | Ministry of Health, Labour and Welfare | 可选 | Skills test. Highly specialized. |
+| 清洁工（国家资格） | 都道府县知事 | 可选 | 国家资格。工作非必需，但开设事务所需要。 |
+| 干洗技能工 | 厚生劳动省 | 可选 | 技能测试。1级和2级。技能证明。 |
+| 去渍技能工 | 厚生劳动省 | 可选 | 技能测试。高度专业化。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Chronic labor shortage persists, and demand is expected to increase due to an aging population. Meanwhile, automation is progressing, and simple tasks are on the decline.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。长期劳动力短缺持续存在，且由于人口老龄化，需求预计将增加。与此同时，自动化正在推进，简单任务正在减少。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +39,86 @@ A profession involving washing and finishing clothes and textile products. It re
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,500,000~$3,500,000 | Approximately ¥1,000-¥1,400 per hour. |
-| 中级(3-7年) | $3,500,000~$4,500,000 | Increases with skill acquisition and management duties. |
-| Advanced (7+ years/managerial) | $4,500,000~$6,000,000 | Higher income possible as factory manager or self-employed. |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 约每小时1,000-1,400日元。 |
+| 中级(3-7年) | $3,500,000~$4,500,000 | 随技能获取和管理职责增加而增长。 |
+| 高级（7年以上/管理级） | $4,500,000~$6,000,000 | 作为工厂经理或自雇人士，收入可能更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation will make washing machine control and inventory management more efficient, but tasks requiring high-level judgment like stain removal and finishing will continue to be handled by humans. As a result, simple tasks decrease, and the value of skilled positions increases.
+人工智能和自动化将使洗衣机控制和库存管理更高效，但需要高判断力的任务如去污和整理仍由人类处理。因此，简单任务减少，技术岗位价值提升。
 
-Can be started without experience; with skill development, one can become a factory manager or open an independent business. Dry cleaning skills and customer service abilities are valued.
+可以无经验开始；通过技能发展，可成为工厂经理或开设独立业务。重视干洗技能和客户服务能力。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Washing machine operation and monitoring
-- Simple ironing
-- Sorting work (e.g., RFID tags)
+- 洗衣机操作与监控
+- 简单熨烫
+- 分拣工作（如RFID标签）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Stain removal judgment (with AI image recognition support)
-- Inventory management and demand forecasting
-- Quality check (camera + AI)
+- 污渍判断（支持人工智能图像识别）
+- 库存管理与需求预测
+- 质量检查（摄像头+AI）
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensory-based finish judgment
-- Understanding customer needs through dialogue
-- Identifying stain causes and chemical treatment
+- 基于感官的成品判断
+- 通过对话了解客户需求
+- 识别污渍成因及化学处理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Dry cleaning techniques
-- Stain removal skills
-- Fabric knowledge
+- 干洗技术
+- 去污技能
+- 面料知识
 - 客户服务与沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Dry cleaning
-- Stain removal
-- Wet cleaning
-- Factory management
+- 干洗
+- 去除污渍
+- 湿洗
+- 工厂管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning Field)) | One of the target fields. Obtainable with JLPT N4 or above. Max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires expertise. Applicable for cleaning plant management or technical guidance. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are good at detailed work
-- People who want to acquire a trade
-- People confident in physical strength
+- 适合从事细致工作的人
+- 想学一门手艺的人
+- 体力充沛的人
 
 **谁不适合**
-- People who dislike cleaning tasks
+- 不喜欢清洁任务的人
 - 厌恶单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for cleaning jobs?**
-答：Entry-level: ¥2.5-3.5M, intermediate: ¥3.5-4.5M, senior management: ¥4.5-6.0M. Varies by employer and region.
+**问：清洁工作的年收入是多少？**
+答：入门级：25-35万日元，中级：35-45万日元，高级管理：45-60万日元。视雇主和地区而定。
 
-**问：What visa do foreigners need for cleaning jobs?**
-答：Specified Skilled Worker (i) (Building Cleaning Field) is common. Requires JLPT N4+, max 5 years stay.
+**问：外国人从事清洁工作需要什么签证？**
+答：特定技能工人（i）（建筑清洁领域）常见。需要JLPT N4以上，最长停留5年。
 
-**问：How to advance in a cleaning career?**
-答：There is a path to becoming a factory manager or starting your own business by obtaining certifications like the Dry Cleaning Skill Certification.
+**问：如何在清洁行业取得进展？**
+答：通过获得干洗技能认证等，有成为工厂经理或自主创业的途径。
 
 
 ---
@@ -142,12 +136,12 @@ Can be started without experience; with skill development, one can become a fact
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cleaning-occupation/JP)**

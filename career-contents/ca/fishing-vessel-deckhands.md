@@ -53,8 +53,6 @@ Perform fishing operations, gear maintenance, deck cleaning, and catch handling 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce deckhand positions on fishing vessels; technologies like remote monitoring and autonomous vessels gradually replace repetitive manual labor. Entry-level positions decrease, but complex tasks requiring human supervision still exist.
-
 Generally start as an ordinary deckhand, gain experience and can be promoted to fishing gear supervisor or ship's officer. Some may move into aquaculture, fisheries management, or related maritime roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Generally start as an ordinary deckhand, gain experience and can be promoted to 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Mainly through LMIA employer-sponsored work visa. A few coastal provinces may
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishing-vessel-deckhands/CA)**

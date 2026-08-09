@@ -4,8 +4,6 @@
 
 Inspect and test quality of industrial products (excluding metal products) in manufacturing processes to ensure compliance with standards. Responsible for visual inspection and functional testing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Inspect and test quality of industrial products (excluding metal products) in ma
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Introduction of AI image recognition and automatic inspection equipment makes simple visual inspections easily replaceable. However, sensory and comprehensive judgment inspections are difficult to fully replace with AI, leaving a role for humans.
-
 Start from scratch; after acquiring inspection skills, career advancement to inspection leader or quality control department is possible. Promotions easier with certification.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Start from scratch; after acquiring inspection skills, career advancement to ins
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技能（生産工程） (Skilled Worker Visa) | Applicable for inspection work in manufacturing, but requires advanced skills. |
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Target fields. Max 5 years, no family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and specialized knowledge. Possible in inspection process management, etc. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +129,12 @@ A: Possible with Specified Skilled Worker (i) or skilled worker visa. However, J
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-inspection-worker-excluding-metal-products/JP)**

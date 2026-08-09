@@ -53,8 +53,6 @@ Organizing collective activities in culture, arts, sports, and other areas withi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify the value of social and cultural interveners by analyzing data to personalize activities, automate administrative tasks, and optimize resource allocation, enabling them to serve communities more precisely and promote social integration.
-
 You can be promoted to project coordinator, team leader, or agency head, or transition to social education or community development management roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted to project coordinator, team leader, or agency head, or tran
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Innovation/Creation)) | Suitable for highly skilled talents with relevant projects or entrepreneurial plans, project proof required |
-| Subclass Salarié (Employee Work Permit) | Employer-sponsored work permit required, reviewed by France Travail |
-| Subclass Carte bleue UE (EU Blue Card) | For high-salary roles; salary threshold ~€54k; this occupation typically does not meet it. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: The main pathway is the employer-sponsored Salarié work permit, or Passeport
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sociocultural-intervention-officer/FR)**

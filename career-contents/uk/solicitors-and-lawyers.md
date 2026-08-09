@@ -52,8 +52,6 @@ Lawyers provide legal advice and representation to individuals, businesses, orga
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
-
 Junior lawyers can progress to senior lawyer, partner, or specialise in areas like commercial or criminal law. Large firms offer clearer pathways.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior lawyers can progress to senior lawyer, partner, or specialise in areas li
 | Subclass Global Talent (Global Talent Visa) | For individuals with outstanding achievements or potential in the legal field, no employer sponsorship required. |
 | Subclass Graduate (Graduate Visa) | After completing a UK degree, you can stay and work in the UK for 2 years (3 years for PhD), then switch to a Skilled Worker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually starts with a training contract, progressing to senior lawyer, partne
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solicitors-and-lawyers/UK)**

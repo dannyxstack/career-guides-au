@@ -4,8 +4,6 @@
 
 A professional responsible for R&D, process design, and quality improvement of chemical products such as paints and pesticides, playing a key role in connecting laboratories and production sites.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional responsible for R&D, process design, and quality improvement of c
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances efficiency in certain areas such as experimental design optimization, data analysis, and process monitoring, but human experts' intuition and experience are essential for creative new material development and complex problem solving. Therefore, AI will generally play a supporting role and will not completely replace jobs.
-
 Career advancement: Researcher → Senior Researcher → Principal Researcher → Team Leader/Department Head, or lateral moves to production technology or quality control. Graduate degrees and research records are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Career advancement: Researcher → Senior Researcher → Principal Researcher �
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Requires bachelor's degree and experience for chemical engineering professionals |
-| Subclass F-2 (Residence) | Convertible to points system, beneficial for long-term stay |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: Eligible for E-7 visa, requires bachelor's in chemical engineering and releva
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paint-and-agricultural-chemical-engineer-and-researcher/KR)**

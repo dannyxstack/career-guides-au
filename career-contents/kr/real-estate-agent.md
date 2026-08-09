@@ -4,8 +4,6 @@
 
 A professional who mediates real estate sales and lease contracts, providing comprehensive real estate transaction services including market analysis, consultation, and document preparation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A professional who mediates real estate sales and lease contracts, providing com
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and online platforms assist with property search and data analysis, but human emotional empathy, negotiation, and trust-building are unlikely to be replaced, so they will remain in a supportive role.
-
 After obtaining a Licensed Real Estate Agent certificate, one starts as a brokerage assistant and grows into an independent agent (opening an office), or builds a career as a specialized agent at a franchise or large brokerage firm.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ After obtaining a Licensed Real Estate Agent certificate, one starts as a broker
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed by a Korean real estate brokerage as a specialized agent, but Korean language ability and qualification requirements are strict. |
-| Subclass F-2 (F-2 (Residence)) | Possible to work as a self-employed individual after obtaining qualifications, provided certain conditions are met. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Possible to work after domestic residence registration, but real estate brokerage activities are restricted. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Yes, a real estate agent license is mandatory. After passing the exam, practi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent/KR)**

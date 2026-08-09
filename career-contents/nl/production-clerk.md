@@ -51,8 +51,6 @@ Production clerks coordinate production orders, monitor inventory, record produc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Production clerk roles will face the dual impact of AI automation and augmentation: routine tasks like data entry and report generation can be efficiently replaced by AI, but complex responsibilities such as coordination, exception handling, and cross-departmental collaboration still require human judgment; entry barriers lower but higher-level skills demanded.
-
 Junior production clerks can advance to production supervisor, planning scheduler, or supply chain coordinator. By studying logistics management or lean production courses, they can move into higher-level operations management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior production clerks can advance to production supervisor, planning schedule
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applies to non-EU high-skilled workers, requiring annual salary of at least €39,467 (under 30) or €53,690 (30+). Production clerk typically does not meet salary threshold, but may apply if combined with senior role or employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary of at least €56,614 (2024). Production clerks typically earn less, rarely meeting conditions. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For graduates who completed a master's or PhD in the Netherlands, allows one year to find work with no salary threshold. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can advance to production supervisor, planner/scheduler, supply chain coordin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-clerk/NL)**

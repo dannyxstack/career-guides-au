@@ -51,8 +51,6 @@ Operate cranes, elevators, and other lifting equipment for heavy load lifting an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
-
 Starting as a junior operator, you can advance to senior technician, team leader, or trainer; through further study, you can move into equipment management or logistics coordination.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Starting as a junior operator, you can advance to senior technician, team leader
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for those with recognized vocational training qualifications, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to seek opportunities before finding a job |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can be promoted to senior operator, team leader, or trainer. Further study ca
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-operator-elevator-mechanic-and-operator-of-related-lifting-equipment/DE)**

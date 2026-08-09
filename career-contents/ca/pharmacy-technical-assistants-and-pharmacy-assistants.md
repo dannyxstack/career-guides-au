@@ -51,8 +51,6 @@ Assist pharmacists in the pharmacy, including dispensing medications, managing i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will automate inventory management and prescription processing, but enhance patient consultation and dispensing accuracy; entry-level positions compress due to automation, but pharmacist supervision and legal compliance provide a moat.
-
 Typically start as pharmacy assistants, gain experience, and advance to pharmacy technicians (requiring additional certification), or move into pharmacy management, drug wholesale, etc. Some pursue further education to become pharmacists.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Typically start as pharmacy assistants, gain experience, and advance to pharmacy
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) may nominate for healthcare occupations. Requires employer offer or relevant work experience. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer can apply for LMIA to support work visa, must prove inability to hire locally. Suitable for those with a job offer. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can become a pharmacy technician (with additional certification), or transiti
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-technical-assistants-and-pharmacy-assistants/CA)**

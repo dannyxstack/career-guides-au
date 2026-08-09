@@ -4,8 +4,6 @@
 
 Perform forging operations by heating and striking metal materials to shape them into desired forms, combining manual work and machine operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Perform forging operations by heating and striking metal materials to shape them
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation are gradually replacing repetitive and simple tasks in the forging process, but complete replacement is difficult for small-batch, multi-variety production or complex-shaped die work that requires human judgment and experience.
-
 Acquire skilled techniques through field experience, then advance to supervisory roles such as foreman or plant manager, or transition to related fields like press mold.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Acquire skilled techniques through field experience, then advance to supervisory
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible for simple forging tasks in manufacturing. Applies to Employment Permit System, with quota limits. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable when skilled forging technician expertise is recognized, but stringent. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: Non-professional Employment (E-9) visa allows simple forging in manufacturing
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forging-press-operators-and-forging-machine-operators/KR)**

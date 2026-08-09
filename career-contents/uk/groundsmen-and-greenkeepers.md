@@ -52,8 +52,6 @@ Responsible for trimming, laying turf, and maintaining golf courses and other sp
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly change the work of groundskeepers and greenskeepers; some tasks will be replaced while many will be enhanced, but physical labor and on-site judgment remain core advantages.
-
 Junior Grounds Assistant → Senior Greenkeeper → Course Manager → Golf Course Director. Can progress to Head Greenkeeper or manage multi-course facilities through professional certifications (e.g., BIGGA).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior Grounds Assistant → Senior Greenkeeper → Course Manager → Golf Cour
 | Subclass Youth Mobility Schem (Youth Mobility Scheme) | For citizens of specific countries aged 18-30, valid for 2 years, allows work |
 | Subclass Scale-up (Scale-up visa) | Requires sponsorship by a growth-oriented company, with high salary potential |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, you can progress from assistant to supervisor or director, but it requir
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/groundsmen-and-greenkeepers/UK)**

@@ -52,8 +52,6 @@ In Canada, armored car guards are classified under security guards and related o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Armored vehicle escorts are mixedly affected by AI: automated monitoring and risk analysis will reduce some positions, but tasks like compliance and interpersonal interaction are hard to replace, overall demand is stable but skill requirements increase.
-
 Career progression can advance from escort to escort team leader, security supervisor, or regional manager. Some transition into management roles at private security firms, or obtain a security guard license to engage in higher-level security consulting. Additional training can lead to law enforcement roles such as bailiff or customs border services.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression can advance from escort to escort team leader, security super
 | Subclass LMIA (Labour Market Impact Assessment) | Employers who obtain an LMIA can support work visas and immigration; security occupations are more likely to be approved. |
 | Subclass EE (Express Entry (FSW/CEC)) | If applicant has experience in other skilled occupations, can use Express Entry, but pure security guard experience scores low. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Not a traditional skilled migration occupation, but feasible through provinci
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guards-and-related-security-service-occupations-64409/CA)**

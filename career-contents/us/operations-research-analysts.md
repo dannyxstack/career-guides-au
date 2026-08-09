@@ -51,8 +51,6 @@ Use mathematical modeling and optimization methods to analyze data, support mana
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Junior analysts can advance to senior analyst or team lead; with experience, they can move into data science, supply chain management, or become management consulting advisors.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analysts can advance to senior analyst or team lead; with experience, the
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree or skilled workers, requires PERM labor certification. |
 | Subclass TN (TN NAFTA Professional) | Applies to citizens of Canada and Mexico, requires specific occupation list |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in operations research, industrial eng
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operations-research-analysts/US)**

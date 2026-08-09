@@ -51,8 +51,6 @@ Data center electrical engineers are responsible for the design and operation an
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the design and operational efficiency of data center electrical engineers, but it cannot replace their on-site decision-making, compliance responsibilities, and cross-system collaboration capabilities; Overall job risk is relatively low, and demand continues to expand due to increased AI computing power.
-
 Canadian AI data centers are characterized by high-density power supply and liquid cooling, with 2N redundancy and reliability design as the core; AI-assisted monitoring, with the responsibility for power supply reliability borne by engineers.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Canadian AI data centers are characterized by high-density power supply and liqu
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Provincial nomination bonus points channel |
 | Subclass GTS (Global Talent Pass) | Global Talent Stream: Two-week expedited work visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Yes. Classified as a shortage engineering occupation, you can follow Canada's
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-centre-electrical-engineer/CA)**

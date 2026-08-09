@@ -4,8 +4,6 @@
 
 A specialized medical professional who operates imaging equipment in medical institutions to capture images for diagnosis and treatment, establishes radiation therapy plans, and performs radiation safety management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialized medical professional who operates imaging equipment in medical ins
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is being introduced through technologies such as image interpretation assistance and automatic imaging, but human judgment is essential for core tasks of radiologists, including equipment operation, patient positioning, and radiation safety management. Therefore, AI enhances work efficiency but is closer to an assistive role rather than replacement.
-
 Careers can advance to chief, team leader, or professor by gaining experience in medical institutions (general hospitals, hospitals), pursuing graduate studies, or obtaining certifications (e.g., specialized radiologic technologist in radiology).
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Careers can advance to chief, team leader, or professor by gaining experience in
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to professionals; radiologic technologists qualify as healthcare professionals. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay visa can be converted to points-based system |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: It includes X-ray, CT, MRI scanning and assisting in reading, radiation thera
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiologic-technologist/KR)**

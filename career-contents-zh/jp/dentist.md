@@ -1,10 +1,8 @@
 # 牙医（Dentist）职业分析 · 日本
 
-**职业代码: 122 (JSCO)**
+**职业代码：122 (JSCO)**
 
-Physicians who diagnose, treat, and prevent diseases and injuries of teeth and oral cavity. High specialization in caries treatment, periodontal disease, dentures, implants, pediatric orthodontics, with high self-employment rates.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+诊断、治疗和预防牙齿及口腔疾病和损伤的医师。高度专精于龋齿治疗、牙周病、假牙、种植牙、儿童正畸，自雇率较高。
 
 
 ---
@@ -13,8 +11,8 @@ Physicians who diagnose, treat, and prevent diseases and injuries of teeth and o
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Dental School (6-year program) | 6年 | $3,500,000~$5,000,000（National university tuition approx. ¥2.5M; private ¥3-5M/year.） |
-| Clinical Training | 1年 | $0~$0（Salary provided as trainee (approx. ¥300,000/month).） |
+| 牙科学校（6年制） | 6年 | $3,500,000~$5,000,000（国立大学学费约250万日元；私立300-500万日元/年。） |
+| 临床培训 | 1年 | $0~$0（实习期间提供薪水（约30万日元/月）。） |
 
 ---
 
@@ -22,18 +20,18 @@ Physicians who diagnose, treat, and prevent diseases and injuries of teeth and o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Dentist Examination | Ministry of Health, Labour and Welfare | 必备 | Eligibility after dental school graduation. Pass rate approx. 60-70% |
-| Dentist License | Ministry of Health, Labour and Welfare | 必备 | Obtained by registration after passing national exam. Required for practice. |
-| Dental Specialist (certified by respective societies) | Japan Dental Specialty Board | 可选 | Optional specialty certifications in orthodontics, oral surgery, etc. Beneficial for career advancement. |
+| 国家牙医考试 | 厚生劳动省 | 必备 | 牙科毕业后具备资格。通过率约60-70% |
+| 牙医执照 | 厚生劳动省 | 必备 | 通过全国考试后注册获得。执业所需。 |
+| 牙科专家（经各自协会认证） | 日本牙科专业委员会 | 可选 | 正畸、口腔外科等可选专业认证。有利于职业发展。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 105,000. Dental demand stable due to aging population. However, competition intensifying in urban areas with a slight oversupply of dentists. Supply-demand adjustment expected after 2025.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 105,000。由于人口老龄化，牙科需求稳定。但城市地区竞争加剧，牙医略有过剩。预计2025年后供需调整。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,97 +39,89 @@ Physicians who diagnose, treat, and prevent diseases and injuries of teeth and o
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Initial Clinical Trainee (1st year) | $3,600,000~$4,800,000 | ¥300,000-400,000/month + bonus |
-| Practicing Dentist (5-10 years) | $6,000,000~$10,000,000 | Varies by clinic/hospital; significant fluctuation for clinic directors. |
-| Self-Employed Dentist (10+ years) | $12,000,000~$25,000,000 | Hospital management; varies greatly by location and patient volume. |
+| 初始临床培训生（第1年） | $3,600,000~$4,800,000 | ¥300,000-400,000/月 + 奖金 |
+| 执业牙医（5-10年） | $6,000,000~$10,000,000 | 因诊所/医院而异；诊所主任的收入波动较大。 |
+| 自雇牙医（10年以上） | $12,000,000~$25,000,000 | 医院管理；因地点和患者量差异很大。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used in diagnostic support (image analysis, cavity detection) and treatment planning, but cannot replace treatment procedures (cutting, restoration, extraction). The dentist's role is broad, from diagnosis to treatment, with AI serving only as a complementary tool.
+人工智能用于诊断支持（图像分析、空腔检测）和治疗规划，但不能替代治疗程序（切割、修复、拔牙）。牙医的角色从诊断到治疗非常广泛，AI仅作为补充工具。
 
-After graduating from a university dental school (6 years), pass the national exam, complete clinical training (1 year), then work as a dental practitioner. Subsequently, common paths include graduate school, specialty certification, or opening a private practice.
+从大学牙科学院毕业（6年）后，通过国家考试，完成临床培训（1年），然后作为牙科医生工作。随后，常见路径包括研究生院、专科认证或开设私人诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Interpreting simple X-ray images
-- Automated cavity detection (AI-assisted)
-- Partial treatment plan creation
-- Creating patient education materials
+- 解读简单X光图像
+- 自动空洞检测（AI辅助）
+- 部分治疗计划制定
+- 制作患者教育材料
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Designing and fabricating prosthetics with 3D scanning (CAD/CAM)
-- Early detection via AI diagnostic support
-- Robot-assisted implant surgery
-- Preventive dental programs through patient data analysis
+- 利用3D扫描设计制造假肢（CAD/CAM）
+- 通过AI诊断支持进行早期检测
+- 机器人辅助种植手术
+- 通过患者数据分析进行预防性牙科项目
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual treatments (cutting, extraction, periodontal surgery)
-- Patient psychological care and trust-building
-- Comprehensive judgment in complex cases
-- Emergency response
+- 手工治疗（切割、拔牙、牙周手术）
+- 患者心理护理与信任建立
+- 复杂案件中的综合判断
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital dental technology (CAD/CAM, 3D printing)
-- Operation and interpretation of AI diagnostic tools
+- 数字牙科技术（CAD/CAM、3D打印）
+- 人工智能诊断工具的操作与解读
 - Cosmetic dental techniques
-- Management & Leadership Aptitude (Entrepreneurial Orientation)
+- 管理与领导能力（创业导向）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Implants
-- Cosmetic dentistry
-- Home-visit dental care
-- Dental-oral collaboration
+- 种植牙
+- 美容牙科
+- 上门牙科护理
+- 牙科-口腔协作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to foreign dentists who obtain a Japanese dental license and then work. However, passing the national exam requires graduating from a dental university, which is a high hurdle. |
-| Subclass 教授（教育・研究） (Professor) | For teaching at dental universities or research institutions. Also possible under the Highly Skilled Professional status. |
-| Subclass 特定活動（医療滞在） (Designated Activities (Medical Stay)) | Limited to treating foreign patients, etc. Not for general employment. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and prefer meticulous work
-- People who value communication with patients
-- People with entrepreneurial spirit and interest in management
+- 心灵手巧、偏好细致工作的人
+- 重视与患者沟通的人
+- 有创业精神和兴趣管理的人士
 
 **谁不适合**
-- People who dislike blood or saliva
-- People unable to endure long periods in the same posture
+- 不喜欢血或唾液的人
+- 无法长时间保持同一姿势的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a dentist?**
-答：Residents earn about ¥3.6-4.8 million, employed dentists ¥6-10 million, and clinic owners ¥12-25 million. There is a large gap depending on whether you own a clinic.
+**问：牙医的年收入是多少？**
+答：住院医师约360-480万日元，受雇牙医600-1000万日元，诊所老板1200-2500万日元。是否拥有诊所导致巨大差距。
 
-**问：Can foreigners become dentists in Japan?**
-答：Possible, but you must graduate from a Japanese dental school (6 years) and pass the national dental exam. Japanese proficiency (N1 level) is also required, making it extremely challenging.
+**问：外国人能在日本成为牙医吗？**
+答：可能，但需从日本牙科学校毕业（6年）并通过国家牙科考试。日语能力（N1级）也必需，极具挑战性。
 
-**问：How can a dentist advance their career?**
-答：Generally, by pursuing a graduate degree to become a specialist, or by opening a private practice. Recently, specializing in cosmetic dentistry, implants, or home-visit dentistry has become important.
+**问：牙医如何提升职业发展？**
+答：通常通过攻读研究生学位成为专科医生，或开设私人诊所。近年来，专攻美容牙科、种植牙或上门牙科变得重要。
 
 
 ---
@@ -149,12 +139,12 @@ After graduating from a university dental school (6 years), pass the national ex
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dentist/JP)**

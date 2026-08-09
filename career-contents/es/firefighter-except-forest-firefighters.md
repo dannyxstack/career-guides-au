@@ -4,8 +4,6 @@
 
 Responsible for firefighting, rescue, and emergency response, protecting lives and property. It belongs to the public safety service department and requires rigorous physical and psychological testing training.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for firefighting, rescue, and emergency response, protecting lives a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Career path: Firefighter→ Squad Leader/Sergeant→ Deputy Captain→ Captain→ Fire Chief. They can also develop into positions such as fire supervision, fire inspection, emergency management, or fire training, or enter management positions by obtaining a higher-level emergency management degree.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career path: Firefighter→ Squad Leader/Sergeant→ Deputy Captain→ Captain�
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract (self-employed not applicable)) | You must obtain a job contract from a Spanish employer, and the position is generally reserved for EU citizens. It is very difficult for third-country nationals to apply because firefighters are in the public sector and must pass competitive exams. |
-| Subclass Homologación (Professional qualification recognition) | Third-country firefighter qualifications require credential recognition (homologación), but as a regulated profession, certification still requires passing local Spanish oposición exams. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Usually requires high school diploma and completion of fire academy training 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter-except-forest-firefighters/ES)**

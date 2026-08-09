@@ -53,8 +53,6 @@ Operate small motor vessels, possibly assist with navigation activities. Typical
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Progress from junior crew to captain or navigator; some may move into maritime management or port operations after gaining experience. Requires a US Coast Guard Merchant Mariner Credential.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from junior crew to captain or navigator; some may move into maritime m
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Applies to temporary or seasonal non-agricultural work, requires employer sponsorship, has quota limits |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | Theoretically possible, but motorboat operator is not high-skilled, and PERM advertising requirements are strict; very few approvals |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must obtain a Merchant Mariner Credential issued by the U.S. Coast Guard, gra
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorboat-operators/US)**

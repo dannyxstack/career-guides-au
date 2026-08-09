@@ -51,8 +51,6 @@ Make, maintain or repair orthoses, prostheses, arch supports and other medical a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
-
 Start as junior technician; with experience can advance to senior technician or supervisor; some enter orthotics/prosthetics certification path, or move to medical device sales or R&D.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as junior technician; with experience can advance to senior technician or 
 | Subclass EB-3 (EB-3 Skilled Workers) | Obtain a green card through PERM labor certification, suitable for experienced technicians. |
 | Subclass TN (TN NAFTA Professional) | Applicable only to Canadian or Mexican citizens, but the occupation is not on the NAFTA list; case-by-case assessment required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but most employers prefer certified technicians, and certifica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-appliance-technicians/US)**

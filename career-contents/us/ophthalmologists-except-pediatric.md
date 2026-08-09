@@ -55,8 +55,6 @@ Diagnose and treat eye diseases, perform eye surgeries, and provide vision corre
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance ophthalmologists' diagnosis and surgical planning, but cannot replace their surgical operations and clinical decision-making responsibilities; entry-level positions will be slightly reduced due to the spread of assistive diagnostic tools, but overall demand remains stable.
-
 Usually complete a medical degree and residency training, then specialize in subspecialties such as retina or glaucoma. Senior doctors can become department heads or open private practices.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually complete a medical degree and residency training, then specialize in sub
 | Subclass O-1 (O-1 Extraordinary Ability) | For doctors with outstanding achievements in ophthalmology, no quota limit. |
 | Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires PERM labor certification, suitable for ophthalmologists with advanced degrees or exceptional ability. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires completing 4 years bachelor's, 4 years medical school, 4 years ophth
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ophthalmologists-except-pediatric/US)**

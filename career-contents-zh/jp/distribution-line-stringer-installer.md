@@ -1,8 +1,8 @@
-# Distribution line stringer/installer 职业分析 · 日本
+# 配线线路工/安装工（Distribution line stringer/installer）职业分析 · 日本
 
-**职业代码: 672 (JSCO)**
+**职业代码：672 (JSCO)**
 
-Installs and maintains power distribution lines on poles and steel towers. Mainly outdoor high-elevation work, including outage and live-line work.
+在电线杆和铁塔上安装维护配电线路。主要户外高空作业，包括停电和带电作业。
 
 
 ---
@@ -11,8 +11,8 @@ Installs and maintains power distribution lines on poles and steel towers. Mainl
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Tuition-free for public high schools） |
-| Specialized training college (Electrical Department) | 2 年 | $1,000,000~$2,000,000（Including tuition and materials fees） |
+| 高中文凭 | 3年 | $0~$0（公立高中免学费） |
+| 专科培训学院（电气系） | 2 年 | $1,000,000~$2,000,000（包含学费和材料费） |
 
 ---
 
@@ -20,19 +20,19 @@ Installs and maintains power distribution lines on poles and steel towers. Mainl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 2 Electrician License | Ministry of Economy, Trade and Industry | 必备 | Mandatory for wiring work. No experience required to take the exam. |
-| Aerial Work Vehicle Operation Skills Training | Ministry of Health, Labour and Welfare | 必备 | Required for operating aerial work vehicles. |
-| Class 1 Electrician License | Ministry of Economy, Trade and Industry | 可选 | Advantageous for engaging in more advanced work. |
-| Electrical Construction Management Engineer | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Useful for pursuing site management roles. |
+| 二级电工执照 | 经济产业省 | 必备 | 配线作业必须持证。参加考试无需经验。 |
+| 高空作业车操作技能培训 | 厚生劳动省 | 必备 | 操作高空作业车辆所需。 |
+| 一级电工执照 | 经济产业省 | 可选 | 有利于从事更高级的工作。 |
+| 电气施工管理工程师 | 国土交通省 | 可选 | 有助于担任现场管理职位。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Demand is stable due to renewable energy expansion and aging equipment renewal. High turnover and chronic labor shortages mean strong hiring is expected in the mid-to-long term.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。由于可再生能源扩张和设备老化更新，需求稳定。高流动率和长期劳动力短缺意味着中长期招聘强劲。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,91 +40,84 @@ Installs and maintains power distribution lines on poles and steel towers. Mainl
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$4,500,000 | Annual income including overtime (example) |
-| Mid-level (4–10 years) | $4,800,000~$6,000,000 | Including qualification and site allowances |
-| Advanced (over 10 years) | $6,000,000~$8,000,000 | Team leader/supervisor class |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 年收入含加班费（示例） |
+| 中级（4-10年） | $4,800,000~$6,000,000 | 包括资格证书和现场津贴 |
+| 高级（10年以上） | $6,000,000~$8,000,000 | 团队领导/主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While drones and AI image diagnostics are being introduced for inspection and recording of distribution lines, the physical work of stringing and laying is difficult to automate, requiring human skill and judgment. AI plays only a supplementary role.
+虽然无人机和AI图像诊断被引入用于配电线路的检查和记录，但架线和敷设的体力工作难以自动化，需要人工技能和判断。AI仅起辅助作用。
 
-Start as an apprentice, gain experience and qualifications to become fully skilled. Advancement to team leader, supervisor, safety manager, or management roles at electrical contractors.
+从学徒开始，积累经验和资格以达到熟练水平。晋升为团队领导、主管、安全经理或电气承包公司的管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Assistance in simple cable laying
-- Routine inspection record creation
+- 协助简单电缆铺设
+- 常规检查记录创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Overhead line inspection using drones
-- Confirmation work for AI-based equipment diagnostics
+- 使用无人机进行架空线路检查
+- 基于AI的设备诊断确认工作
 
-**人类护城河:**
+**人类护城河：**
 
-- Precise manual work at heights
-- Safety judgment during outage and live-line work
-- Flexible response to site conditions
+- 高空精确手工操作
+- 停电和带电作业中的安全判断
+- 灵活应对现场条件
 
-**需构建的技能:**
+**需构建的技能：**
 
-- High-altitude work skills
-- Electrician's license
-- Safety management ability
-- Basics of drone operation and AI analysis
+- 高空作业技能
+- 电工执照
+- 安全管理能力
+- 无人机操作与AI分析基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Distribution lines
-- Renewable energy
-- Aging infrastructure measures
-- High-altitude work
+- 配电线路
+- 可再生能源
+- 老化基础设施应对措施
+- 高空作业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Electrical/Electronic Information Related Industries)) | Can work for up to 5 years based on work experience. Requires skills test and Japanese N4 or above. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when specialized knowledge of high-altitude work or electrical work is required. Requires university degree or over 10 years of practical experience. |
-| Subclass 技能実習3号 (Technical Intern Training (Electrical Work)) | Up to 5 years. Learn distribution line work based on training plan. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who do not mind working at heights or outdoors
-- Those who value teamwork
-- Those who are physically fit and have a strong safety awareness
+- 不介意在高处或户外工作的人
+- 重视团队合作的人
+- 身体健壮且安全意识强的人
 
 **谁不适合**
 - 对高空作业恐惧者
-- Those who prefer desk work
+- 偏好办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for workers engaged in distribution line stringing and laying?**
-答：For entry-level, it's about 3.5-4.5 million yen; intermediate, 4.8-6 million yen; advanced, 6-8 million yen. Varies with overtime and site allowances.
+**问：从事配电线路架设和铺设工作的工人平均年收入是多少？**
+答：初级约350-450万日元；中级约480-600万日元；高级约600-800万日元。视加班和现场津贴而定。
 
 **问：外国人能否从事此职业？**
-答：It is a target occupation for Specified Skilled Worker (i) and technical intern training, requiring Japanese language proficiency and passing a skills test. An Engineer/Specialist in Humanities/International Services visa is also possible.
+答：属于特定技能（i）和技术实习的目标职业，要求日语能力和通过技能测试。也可申请工程师/人文/国际服务签证。
 
-**问：How can I start with no experience?**
-答：Generally, obtain an electrician's license and get hired as an apprentice at an electrical construction company. Studying at a vocational school provides an advantage.
+**问：零经验如何起步？**
+答：通常，取得电工执照后作为学徒受雇于电气工程公司。在职业院校学习具有优势。
 
 
 ---
@@ -142,12 +135,12 @@ Start as an apprentice, gain experience and qualifications to become fully skill
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/distribution-line-stringer-installer/JP)**

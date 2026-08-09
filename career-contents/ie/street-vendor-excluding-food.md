@@ -52,8 +52,6 @@ Vendors selling non-food items such as clothing, accessories, and handicrafts in
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Street vendors face high automation risk; mobile payments, self-service ordering and AI inventory management will replace core tasks, severely reducing entry-level positions, but human interaction and on-the-spot flexibility still leave room for human workers.
-
 Career development paths are limited; can move from street vending to fixed market stalls or small retail stores. A few successful ones can develop their own brands.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career development paths are limited; can move from street vending to fixed mark
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Income can be increased by securing a fixed market stall, developing online s
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-vendor-excluding-food/IE)**

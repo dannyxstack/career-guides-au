@@ -4,8 +4,6 @@
 
 Handcrafted or semi-mechanized professions involved in shaping, glazing, and decorating ceramic products are common in traditional ceramic-producing regions such as Limoges.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Handcrafted or semi-mechanized professions involved in shaping, glazing, and dec
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Ceramic industry modeling and glazing workers face moderate automation risks: repetitive operations (such as glazing and molding) are easily replaced by machines, but creative design, hand-customized crafts, and complex decoration still rely on human skills, and collaboration with AI can improve efficiency.
-
 You can be promoted from apprentice (CAP) to skilled worker (compagnon), and then to team supervisor or quality inspector. A few can turn to artisan d'art or open a studio.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from apprentice (CAP) to skilled worker (compagnon), and the
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Sponsorship from a French company is required, usually requiring at least a Bac Pro diploma, and the position is difficult to recruit EU citizens. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions, but salary for this occupation usually does not meet the threshold. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can rise from apprentice to skilled worker, then serve as a team leader o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ceramic-industry-shaping-and-enameling-worker/FR)**

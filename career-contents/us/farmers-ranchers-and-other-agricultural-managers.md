@@ -55,8 +55,6 @@ Plan, direct, or coordinate management or operations of farms, ranches, greenhou
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Usually start as a farm worker or farm supervisor, gain experience, and advance to farm manager or run your own farm. Large farms may lead to regional manager or agribusiness executive roles; further education (e.g., a degree in agricultural management) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Usually start as a farm worker or farm supervisor, gain experience, and advance 
 | Subclass EB-3 (EB-3 Employment-Based Green Card) | Third preference for employment-based immigration, but requires labor certification; agricultural manager positions struggle to prove US labor shortage |
 | Subclass E-2 (E-2 Treaty Investor Visa) | For foreign nationals investing significant capital, operating a farm, but limited to treaty countries |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Agricultural management positions are generally not suitable for immigration.
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farmers-ranchers-and-other-agricultural-managers/US)**

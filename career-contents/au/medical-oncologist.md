@@ -54,8 +54,6 @@ Medical oncologists are medical specialists who diagnose and treat cancer, devel
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted core diagnosis and treatment decisions for oncologists significantly improve efficiency, but professional responsibility and human care are hard to replace; overall risks and opportunities coexist.
-
 Typical path: after completing medical school and basic internship, apply for internal medicine training (e.g., RACP), then 3-4 years of oncology specialty training and obtain specialist license. Can advance to department head, professor, or clinical research lead.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typical path: after completing medical school and basic internship, apply for in
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa suitable for applicants who find sponsorship from a hospital/clinic; can later transition to 186 permanent residence. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, via 482 or directly apply for 186, requires employer nomination. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to department head, medical professor, or clinical research lead.
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-oncologist/AU)**

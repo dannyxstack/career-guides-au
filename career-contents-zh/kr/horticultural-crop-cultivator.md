@@ -1,10 +1,8 @@
-# Horticultural Crop Cultivator 职业分析 · 韩国
+# 园艺作物种植者（Horticultural Crop Cultivator）职业分析 · 韩国
 
-**职业代码: 90141 (KECO)**
+**职业代码：90141 (KECO)**
 
-A farming professional who cultivates and manages horticultural crops such as vegetables, fruit trees, and flowers, performing soil management, fertilization, and pest control to increase yield and quality.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事园艺作物（如蔬菜、果树和花卉）栽培与管理的农业专业人员，进行土壤管理、施肥和病虫害防治以提高产量和质量。
 
 
 ---
@@ -13,8 +11,8 @@ A farming professional who cultivates and manages horticultural crops such as ve
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$5,000,000（No additional cost when completing high school horticulture program） |
-| Junior college (agriculture) | 2 年 | $4,000,000~$8,000,000（Annual tuition based on national university standards） |
+| 高中毕业 | 3年 | $0~$5,000,000（完成高中园艺课程无额外费用） |
+| 专科（农业） | 2 年 | $4,000,000~$8,000,000（按国立大学标准计算的年学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A farming professional who cultivates and manages horticultural crops such as ve
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Seed Industry Engineer | Human Resources Development Service of Korea | 可选 | Optional certification, verifies cultivation technical skills |
-| Organic Farming Engineer | Human Resources Development Service of Korea | 可选 | Advantageous in eco-friendly agriculture field |
+| 种子产业工程师 | 韩国人力资源开发服务局 | 可选 | 可选认证，验证种植技术技能 |
+| 有机农业工程师 | 韩国人力资源开发服务局 | 可选 | 在生态农业领域有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Labor shortage persists due to aging and rural population decline, but demand for high-skilled technical workers rises with smart farm expansion. Simple cultivation is on the decline.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。由于老龄化和农村人口减少，劳动力短缺持续存在，但随着智慧农业扩张，对高技能技术工人的需求上升。简单种植正在减少。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,91 +38,83 @@ A farming professional who cultivates and manages horticultural crops such as ve
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$28,000,000 | May be lower if including small farms |
-| Intermediate (4-10 years) | $30,000,000~$40,000,000 | Additional income from smart farm operation |
-| Advanced (10+ years) | $40,000,000~$55,000,000 | Based on large-scale farm manager standards |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 如果包括小型农场，可能更低 |
+| 中级（4-10年） | $30,000,000~$40,000,000 | 智慧农场运营带来的额外收入 |
+| 高级（10年以上） | $40,000,000~$55,000,000 | 基于大型农场经理标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation replace simple repetitive tasks (weed removal, irrigation, etc.), but crop growth assessment and smart farm operations are actually enhanced by AI, contributing to productivity improvement. Overall employment decreases, but demand for high-skilled labor increases.
+AI和自动化取代简单重复任务（除草、灌溉等），但作物生长评估和智慧农场运营实际上由AI增强，有助于提高生产力。总体就业减少，但对高技能劳动力的需求增加。
 
-After gaining farming experience, possible to start an independent farm or transition to a smart farm technician or agricultural consultant. Advancement to large-scale farm manager is also possible.
+获得农业经验后，可以创办独立农场或转型为智能农场技术员或农业顾问。晋升为大型农场经理也是可能的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Weed Removal
-- Automated Irrigation and Fertilization
-- Harvest Assistance
+- 除草
+- 自动灌溉与施肥
+- 采收协助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crop Growth Monitoring
-- Early Pest and Disease Diagnosis
-- Environmental Control Optimization
+- 作物生长监测
+- 早期病虫害诊断
+- 环境控制优化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site Intuition and Experience-Based Judgment
-- Ability to Respond to Variables Such as Climate and Soil
-- Cultivation Strategies Tailored to Consumer Needs
+- 现场直觉与经验判断
+- 应对气候和土壤等变量的能力
+- 针对消费者需求的培养策略
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart Farm System Operation
-- Data Analysis and Utilization
-- Eco-Friendly Cultivation Techniques
-- Agricultural Management Mindset
+- 智能农场系统操作
+- 数据分析与利用
+- 环保栽培技术
+- 农业管理思维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart farm
-- Eco-friendly cultivation
-- Urban Agriculture
-- Export Agricultural Products
+- 智能农业
+- 环保栽培
+- 城市农业
+- 农产品出口
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Employment permit system for non-professional foreign workers in agriculture |
-| Subclass E-7-1 (E-7 (Skilled Functions)) | Skilled worker (E-9 convertible) |
-| Subclass F-2-99 (Residence (F-2) point system) | Eligible for permanent residence after long-term stay |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy physical activity
-- People who want to work with nature
-- People who want a long-term agricultural career
+- 喜欢体育活动的人
+- 希望与自然打交道的人
+- 希望长期从事农业职业的人
 
 **谁不适合**
-- People who prefer indoor work
-- People who want a stable high income
+- 偏好室内工作的人
+- 追求稳定高收入的人群
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a horticultural crop grower?**
-答：Entry-level about 22-28 million won, with experience can reach over 40 million won. Smart farm skills can increase income.
+**问：园艺作物种植者的平均年薪是多少？**
+答：初级约2200-2800万韩元，有经验者可超过4000万韩元。智能农场技能可增加收入。
 
-**问：What visa can a foreigner use to work in horticultural crop cultivation?**
-答：Entry is possible with an E-9 (Non-professional Employment) visa; if recognized as skilled, can convert to E-7-1. For long-term stay, F-2 (Residence) point system visa may be considered.
+**问：外国人从事园艺作物种植可用什么签证？**
+答：持E-9（非专业就业）签证可入境；如被认定为熟练工，可转为E-7-1。长期居留可考虑F-2（居住）积分制签证。
 
 
 ---
@@ -142,12 +132,12 @@ After gaining farming experience, possible to start an independent farm or trans
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/horticultural-crop-cultivator/KR)**

@@ -4,8 +4,6 @@
 
 A professional gamer who competes in eSports tournaments, pushing game skills to the limit through training and strategy development, aiming to win championships.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A professional gamer who competes in eSports tournaments, pushing game skills to
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used for strategy analysis and training data optimization to help improve skills, but it cannot replace intuition and real-time decision-making in actual matches. AI analysis tools remain auxiliary, and the player's unique abilities are still important.
-
 Amateur tournaments → Joining a pro team → Starting player → Transition to coach/manager/streamer after retirement or seek overseas opportunities.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Amateur tournaments → Joining a pro team → Starting player → Transition to
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Work visa for eSports players, requires contract with a domestic team |
-| Subclass E-6 (Arts and Entertainment) | Available for short-term stays when participating in overseas tournaments |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Many transition to roles such as coach, caster, streamer, or start a game-rel
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pro-gamer/KR)**

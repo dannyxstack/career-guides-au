@@ -52,8 +52,6 @@ Currency market clerks process transaction records, account reconciliations, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Accountants and bookkeepers will see repetitive tasks like bookkeeping and reconciliation automated by AI, but financial analysis and client advisory roles that rely on human judgment and communication will be strengthened. Overall, risk and opportunity coexist.
-
 Currency market clerks can advance to currency market trader, investment analyst, or financial manager, requiring trading experience and CFA or CSC certification; some banks offer internal training programs to accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Currency market clerks can advance to currency market trader, investment analyst
 | Subclass PNP (Provincial Nominee Program) | Provincial Nominee Programs, such as Ontario Human Capital Priorities, require meeting NOC 14300 and having a job offer or working in a demand industry in the province. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for money market clerks with a job offer in Atlantic provinces like Nova Scotia |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but obtaining the Canadian Securities Course (CSC) significant
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-technicians-and-bookkeepers/CA)**

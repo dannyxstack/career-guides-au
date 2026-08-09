@@ -52,8 +52,6 @@ Engaging in crop cultivation, livestock raising, and daily farm management, incl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can advance from agricultural assistant to professional farmer or farm supervisor, and further to farm manager or agricultural technology consultant. Further study can lead to organic farming or agricultural machinery management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from agricultural assistant to professional farmer or farm superviso
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to search for employment; proof of financial means required. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a work contract to come to Germany to find work; agricultural skills can earn extra points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, can progress from general farmer to farm supervisor, agricultural master
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farmer-general/DE)**

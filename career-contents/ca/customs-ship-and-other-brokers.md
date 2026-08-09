@@ -54,8 +54,6 @@ In Canada, customs brokers or border services officers handle import/export clea
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly automate data entry, compliance checks, and other tasks for customs and ship brokers, but complex regulation interpretation, negotiation, and client relationships still require human judgment—prospects are mixed.
-
 Entry-level customs brokers or CBSA officers can advance to senior analysts, supervisors, or managers; licensed brokers (CIBS) can practice independently or open a brokerage. CBSA has enforcement, compliance, and other career paths.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level customs brokers or CBSA officers can advance to senior analysts, sup
 | Subclass PNP (Provincial Nominee Program) | Many provincial nominee programs (e.g., Ontario, BC, Alberta) have trade/logistics occupations; obtaining a provincial nomination adds 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a relevant job offer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Pass rate is low (about 40%), requires learning customs regulations, tariff c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-ship-and-other-brokers/CA)**

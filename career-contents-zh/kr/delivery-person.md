@@ -1,10 +1,8 @@
-# Delivery Person 职业分析 · 韩国
+# 配送员（Delivery Person）职业分析 · 韩国
 
-**职业代码: 62411 (KECO)**
+**职业代码：62411 (KECO)**
 
-Delivery persons collect, sort, and deliver mail or parcels to specified addresses. They interact directly with customers at the forefront of logistics, with prompt and accurate delivery being key.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+快递员负责收集、分拣并将邮件或包裹递送到指定地址。他们直接与客户互动，处于物流前沿，快速准确递送是关键。
 
 
 ---
@@ -13,8 +11,8 @@ Delivery persons collect, sort, and deliver mail or parcels to specified address
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No educational requirements, driver's license required） |
-| 叉车驾驶证（Forklift License） | 1个月 | $300,000~$500,000（Optional, advantageous for logistics center work） |
+| 高中毕业 | 0年 | $0~$0（无学历要求，需持有驾照） |
+| 叉车驾驶证（Forklift License） | 1个月 | $300,000~$500,000（可选，对物流中心工作有利） |
 
 ---
 
@@ -22,18 +20,18 @@ Delivery persons collect, sort, and deliver mail or parcels to specified address
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 ordinary driver's license | National Police Agency | 必备 | Required, necessary for driving small cargo trucks |
-| Cargo transport license | Ministry of Land, Infrastructure and Transport | 可选 | Required for vehicles over 2.5 tons |
-| Forklift operation technician | Human Resources Development Service of Korea | 可选 | Optional, helpful for logistics center work |
+| 1类普通驾驶执照 | 国家警察厅 | 必备 | 驾驶小型货运卡车所需，必备条件 |
+| 货运许可证 | 国土交通省 | 可选 | 适用于超过2.5吨的车辆 |
+| 叉车操作技术员 | 韩国人力资源开发服务局 | 可选 | 可选，有助于物流中心工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. With the growth of e-commerce, parcel volume continues to rise, ensuring steady demand for delivery persons. However, automation and drone delivery may gradually replace some tasks in the long term.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。随着电子商务的增长，包裹量持续上升，确保配送员需求稳定。但长期来看，自动化和无人机配送可能逐渐取代部分任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,91 +39,83 @@ Delivery persons collect, sort, and deliver mail or parcels to specified address
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$32,000,000 | Base salary + allowances, varies by volume |
-| 中级 (3-7年) | $32,000,000~$42,000,000 | Expanded delivery territory and increased allowances with experience |
-| Advanced (10+ years) | $40,000,000~$55,000,000 | Fixed salary upon transition to management, some may receive performance bonuses |
+| 初级（0-3年） | $24,000,000~$32,000,000 | 底薪+津贴，按量浮动 |
+| 中级 (3-7年) | $32,000,000~$42,000,000 | 配送区域扩大，随着经验增加津贴提高 |
+| 高级（10年以上） | $40,000,000~$55,000,000 | 转岗管理后为固定薪资，部分可能获得绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation can replace simple sorting and route optimization tasks for delivery workers, but last-mile delivery is likely to remain human. However, with the introduction of autonomous delivery robots and drones, some tasks may be reduced.
+AI和自动化可以替代快递员简单的分拣和路线优化任务，但最后一公里配送可能仍由人类完成。然而，随着自主配送机器人和无人机的引入，部分任务可能会减少。
 
-Novice delivery persons can gain experience to secure delivery territories, or advance to branch managers or logistics center operations teams. Some start their own delivery agency businesses.
+新手配送员可积累经验获得配送区域，或晋升为分店经理或物流中心运营团队。有些人自营配送代理业务。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple sorting work
-- Manual delivery route planning
+- 简单分拣工作
+- 手动配送路线规划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time delivery tracking
-- Customer response optimization
+- 实时配送跟踪
+- 客户响应优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to handle complex delivery obstacles
-- Interpersonal service sensibility
-- Road situation judgment ability
+- 处理复杂交付障碍的能力
+- 人际服务感知
+- 道路情况判断能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smartphone app utilization ability
-- Basic data analysis
-- Customer communication
+- 智能手机应用能力
+- 基础数据分析
+- 客户沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- e-commerce
-- Logistics automation
-- Same-day delivery
-- Increase in parcel volume
+- 电子商务
+- 物流自动化
+- 当日送达
+- 包裹量增加
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Delivery workers are included in the E-9 eligible job categories, allowing foreign workers to find employment, but with quota restrictions. |
-| Subclass F-2 (Residence (F-2)) | Long-term foreign residents can work with this residence status before obtaining permanent residency. |
-| Subclass F-5 (Permanent Residence (F-5)) | Permanent residents can work without restrictions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and enjoy outdoor activities
-- People who work independently and are good at time management
-- People who are comfortable with customer service
+- 身体健康且喜欢户外活动的人
+- 独立工作且善于时间管理的人
+- 适合客户服务的人
 
 **谁不适合**
-- People who prefer sitting while working
-- People who have weak physical strength or are easily affected by weather
+- 喜欢坐着工作的人
+- 体力较弱或易受天气影响的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a delivery person?**
-答：For entry-level, it's about 24 million to 32 million KRW, and based on experience and workload, it can go up to 55 million KRW.
+**问：送货员的平均工资是多少？**
+答：入门级约2400万至3200万韩元，根据经验和工作量可达5500万韩元。
 
-**问：Can foreigners work as delivery drivers?**
-答：Yes, employment with an E-9 visa is possible, but quotas are limited, and Korean language skills and a driver's license are required.
+**问：外国人可以担任快递司机吗？**
+答：是的，持E-9签证可以就业，但配额有限，且需要韩语技能和驾驶执照。
 
-**问：What are the working hours for a delivery worker?**
-答：Usually from 6-7 AM until delivery completion, 5-6 days a week, with lots of overtime during peak seasons.
+**问：送货员的工作时间是多少？**
+答：通常从早上6-7点到配送完成，每周5-6天，旺季有大量加班。
 
 
 ---
@@ -143,12 +133,12 @@ Novice delivery persons can gain experience to secure delivery territories, or a
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/delivery-person/KR)**

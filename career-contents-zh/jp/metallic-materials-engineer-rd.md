@@ -1,10 +1,8 @@
-# Metallic Materials Engineer (R&D) 职业分析 · 日本
+# 金属材料工程师（研发）（Metallic Materials Engineer (R&D)）职业分析 · 日本
 
-**职业代码: 076 (JSCO)**
+**职业代码：076 (JSCO)**
 
-Specialist engaged in R&D of metallic materials, designing and evaluating new alloys and processing technologies. High demand in manufacturing and materials companies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事金属材料研发的专家，设计和评估新合金及加工技术。制造和材料公司需求高。
 
 
 ---
@@ -13,9 +11,9 @@ Specialist engaged in R&D of metallic materials, designing and evaluating new al
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Faculty of Engineering) | 4年 | $2,500,000~$5,000,000（Approx. ¥2.5M at public/national, ¥5M at private） |
-| Graduate School (Master's) | 2 年 | $1,500,000~$3,000,000（¥700,000–1.5M per year） |
-| Doctoral Program | 3年 | $1,500,000~$3,000,000（Including research and tuition fees） |
+| 大学（工程学院） | 4年 | $2,500,000~$5,000,000（公立/国立约250万日元，私立约500万日元） |
+| 研究生院（硕士） | 2 年 | $1,500,000~$3,000,000（每年70万–150万日元） |
+| 博士课程 | 3年 | $1,500,000~$3,000,000（包括研究费和学费） |
 
 ---
 
@@ -23,18 +21,18 @@ Specialist engaged in R&D of metallic materials, designing and evaluating new al
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Metals Division) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | National qualification, certifies advanced expertise |
-| Metallic Materials Engineer Examination | Japan Institute of Metals and Materials | 可选 | Industry-specific qualification, useful for career advancement |
-| TOEIC 800 or higher | ETS | 可选 | Necessary for reading English papers and international joint research |
+| 专业工程师（金属部门） | 文部科学省 | 可选 | 国家资格，认证高级专业知识 |
+| 金属材料工程师考试 | 日本金属学会 | 可选 | 行业特定资格，有助于职业发展 |
+| TOEIC 800分或以上 | ETS | 可选 | 阅读英文论文和国际联合研究所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Stable employment is expected through 2030 due to the advancement of domestic manufacturing and increased demand for decarbonization-compatible materials. However, labor shortages due to the declining birthrate will continue.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于国内制造业进步和脱碳兼容材料需求增加，预计到2030年就业稳定。然而，少子化导致的劳动力短缺将持续。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,92 +40,85 @@ Specialist engaged in R&D of metallic materials, designing and evaluating new al
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $4,000,000~$5,000,000 | Based on starting salary for university graduates |
-| Mid Level (5–10 years) | $6,000,000~$8,000,000 | Section Manager Class |
-| 高级（15年以上） | $9,000,000~$12,000,000 | Department Manager Class |
+| 入门级（0–3年） | $4,000,000~$5,000,000 | 基于大学毕业生的起薪 |
+| 中级（5-10年） | $6,000,000~$8,000,000 | 部门经理级 |
+| 高级（15年以上） | $9,000,000~$12,000,000 | 部门经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI strongly supports simulation and data analysis in materials development, but experimental design and property evaluation judgment remain with humans; full substitution is difficult. Demand for AI-utilizing researchers is growing.
+AI在材料开发中强力支持仿真和数据分析，但实验设计和性能评估判断仍需人类完成，完全替代困难。能利用AI的研究人员需求在增长。
 
-After obtaining a master's or doctoral degree, start as a researcher. Promoted to senior researcher → group leader → technical director. A specialist track leveraging expertise is also possible.
+获得硕士或博士学位后，从研究员开始。晋升为高级研究员 → 组长 → 技术总监。也可能存在利用专业知识的专家路线。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine test data organization
-- Part of literature research
+- 常规测试数据整理
+- 文献研究的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Alloy composition optimization
-- Property prediction via simulation
-- Test data analysis
+- 合金成分优化
+- 通过模拟进行房地产预测
+- 测试数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creativity in experimental design
-- Discovery and interpretation of new phenomena
-- Protection of trade secrets and know-how
+- 实验设计中的创造力
+- 新现象的发现与解读
+- 商业秘密与专有技术保护
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning
-- Data science
-- Materials simulation
-- English communication
+- 机器学习
+- 数据科学
+- 材料模拟
+- 英语沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Lightweight materials
-- Recycling technology
-- Hydrogen embrittlement measures
-- Powder metallurgy
+- 轻质材料
+- 回收技术
+- 氢脆措施
+- 粉末冶金
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and relevant work experience. Applicable in manufacturing/R&D fields. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | 70+ points under point system. Applicable to metal materials researchers. Preferential treatment for permanent residency. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in metals and materials
-- People who don't mind painstaking experiments in R&D
-- People who can read English papers
+- 对金属和材料有强烈兴趣的人
+- 不介意研发中繁琐实验的人
+- 能阅读英文论文的人
 
 **谁不适合**
-- People who prefer routine work
-- People who are not good at communication
+- 偏好例行工作的人
+- 不擅长沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the median annual income?**
-答：Around 6-8 million yen in 30s, 9-10 million yen in 40s.
+**问：年收入中位数是多少？**
+答：30岁左右约600-800万日元，40岁左右约900-1000万日元。
 
-**问：How can foreigners work in Japan in this occupation?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. University degree and work experience in metallic materials are required.
+**问：外国人如何在这个职业领域在日本工作？**
+答：人文/国际服务领域的工程师/专家签证较为常见。需要大学学历和金属材料方面的工作经验。
 
-**问：Are there any mandatory qualifications?**
-答：Not mandatory, but Professional Engineer (Metals) or high TOEIC score is advantageous.
+**问：是否有强制性资格要求？**
+答：非强制，但拥有专业工程师（金属）或高TOEIC分数有优势。
 
 
 ---
@@ -145,12 +136,12 @@ After obtaining a master's or doctoral degree, start as a researcher. Promoted t
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metallic-materials-engineer-rd/JP)**

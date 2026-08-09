@@ -51,8 +51,6 @@ Valuers and Loss Assessors evaluate property, asset values, and insurance claim 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
-
 Junior valuers can advance to senior valuer, team leader, or valuation manager. They can also develop expertise in areas such as commercial property, machinery, or art valuation.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior valuers can advance to senior valuer, team leader, or valuation manager. 
 | Subclass EU Blue Card (EU Blue Card) | For high-skilled positions, salary must reach €21,500 (general) or €30,000 (priority), but this occupation is not on the priority list. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list, unless RICS certification is obtained. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a relevant degree (e.g., in Real Estate, Economics) and pa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/valuer-and-loss-assessor/IE)**

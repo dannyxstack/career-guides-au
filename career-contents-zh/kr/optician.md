@@ -1,10 +1,8 @@
-# Optician 职业分析 · 韩国
+# 配镜师（Optician）职业分析 · 韩国
 
-**职业代码: 30731 (KECO)**
+**职业代码：30731 (KECO)**
 
-A healthcare professional who prescribes, manufactures, and sells eyeglasses and contact lenses for vision correction, and manages customers' eye health.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为视力矫正开具、制造和销售眼镜及隐形眼镜，并管理客户眼健康的医疗保健专业人员。
 
 
 ---
@@ -13,9 +11,9 @@ A healthcare professional who prescribes, manufactures, and sells eyeglasses and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Optometry (Junior College) | 2–3 years | $6,000,000~$12,000,000（Annual tuition (public/private differences)） |
-| Department of Optometry (University) | 4年 | $7,000,000~$15,000,000（每年学费） |
-| Optician Major via Credit Bank System | 2–4 years | $3,000,000~$8,000,000（Total cost based on per-course fees） |
+| 视光学系（短期大学） | 2–3年 | $6,000,000~$12,000,000（年学费（公立/私立有别）） |
+| 视光学院（大学） | 4年 | $7,000,000~$15,000,000（每年学费） |
+| 通过学分银行系统攻读验光师专业 | 2-4年 | $3,000,000~$8,000,000（按每门课程费用计算的总成本） |
 
 ---
 
@@ -23,17 +21,17 @@ A healthcare professional who prescribes, manufactures, and sells eyeglasses and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Optician National License | Ministry of Health and Welfare | 必备 | Required, must graduate from optometry department and pass national exam |
-| Contact Lens Practitioner | Korea Optometric Association | 可选 | Optional, certifies expertise in contact lenses |
+| 验光师国家执照 | 保健福祉部 | 必备 | 必须，需毕业于视光学专业并通过国家考试 |
+| 隐形眼镜验配师 | 韩国视光协会 | 可选 | 可选，证明隐形眼镜方面的专业知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. With an aging population and increased use of digital devices, demand for vision-related services is steadily rising, making the employment outlook stable; however, small stores face intensified competition due to the expansion of large franchises.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。随着人口老龄化和数字设备使用增加，视力相关服务需求稳步上升，就业前景稳定；但小型门店面临大型连锁扩张带来的激烈竞争。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -41,98 +39,89 @@ A healthcare professional who prescribes, manufactures, and sells eyeglasses and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Pre-tax annual salary, varies by region and size |
-| Mid-level (4–9 years) | $30,000,000~$42,000,000 | Pre-tax annual salary, higher for store managers or with specialized certifications |
-| 资深（10年以上） | $40,000,000~$55,000,000 | Pre-tax annual salary, wide range for those who open own practice |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 税前年薪，因地区和企业规模而异 |
+| 中级（4-9年） | $30,000,000~$42,000,000 | 税前年薪，店长或持有专业认证者更高 |
+| 资深（10年以上） | $40,000,000~$55,000,000 | 税前年薪，自行开业者范围较广 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI replaces some tasks like auto refractometers, remote vision tests, and chatbot consultations, but full replacement is difficult as final prescriptions and custom adjustments require humans.
+AI可替代部分任务如自动验光仪、远程视力测试和聊天机器人咨询，但完全替代困难，因为最终处方和个性化调整仍需人工。
 
-Initially, learn store operations and can advance to store manager, franchise manager, or open own optical shop with experience. Also possible to earn a master's degree in optometry via the Bachelor's Degree Credit Bank System or graduate school.
+起初学习门店运营，可晋升为店长、区域经理或积累经验后开设自己的眼镜店。也可通过学分银行制度或研究生院攻读眼视光学硕士学位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic vision measurement
-- Simple consultation response
-- Lens inventory management
-- Appointment management
+- 基本视力测量
+- 简单咨询回复
+- 镜片库存管理
+- 预约管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precise refraction test
-- Custom lens design
-- Vision health consultation
-- Customer data analysis
+- 精准验光测试
+- 定制镜片设计
+- 视力健康咨询
+- 客户数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face counseling and trust building
-- Individual vision customization
-- Medical knowledge-based judgment
-- Final authority on prescription decisions
+- 面对面咨询与建立信任
+- 个性化视觉定制
+- 基于医学知识的判断
+- 处方决定的最终权限
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to utilize AI diagnostic tools
-- Data Analysis
-- Customer Psychological Counseling
-- Adaptability to New Technologies
+- 利用AI诊断工具的能力
+- 数据分析
+- 客户心理咨询
+- 新技术适应能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging society
-- Increase in digital devices
-- Interest in vision care
-- Expansion of franchises
+- 老龄化社会
+- 数字设备的增加
+- 对视力保健感兴趣
+- 特许经营扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if a skilled optician is employed at a domestic optical shop, but expertise must be proven |
-| Subclass F-2 (Residence) | No employment restrictions as a step before permanent residence upon meeting certain conditions |
-| Subclass F-4 (Overseas Koreans) | Employment allowed for overseas Koreans, can operate optical shops |
-| Subclass F-5 (Permanent Residence) | Unlimited employment allowed, long-term stay possible |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and accurate personality
-- Person who enjoys communicating with customers
-- Person with a strong interest in eye health
+- 细致准确的性格
+- 喜欢与客户沟通的人
+- 对眼部健康有浓厚兴趣的人
 
 **谁不适合**
-- Person who dislikes simple repetitive tasks
-- Person who avoids face-to-face interaction
+- 不喜欢简单重复任务者
+- 避免面对面交流的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an optician?**
-答：As of 2023, approximately 24~30 million KRW for entry-level, 30~42 million KRW for mid-level, and 40~55 million KRW for advanced. Income from opening a practice varies significantly.
+**问：验光师的平均工资是多少？**
+答：截至2023年，初级约24~30百万韩元，中级约30~42百万韩元，高级约40~55百万韩元。开设诊所的收入差异较大。
 
-**问：Can foreigners work as opticians in Korea?**
-答：Possible with an E-7 visa, but requires a Korean optician license and Korean language proficiency, and proving expertise is strict. F-2, F-4, and F-5 visa holders have free employment.
+**问：外国人在韩国可以担任验光师吗？**
+答：持有E-7签证可能可行，但需要韩国验光师执照和韩语能力，且证明专业能力很严格。F-2、F-4和F-5签证持有人可自由就业。
 
-**问：How do I obtain an optician license?**
-答：You must graduate from an optometry department (2-3 years at a junior college or 4 years at a university) and pass the national exam by the Ministry of Health and Welfare.
+**问：如何获得配镜师执照？**
+答：必须从眼科视光学专业毕业（专科2-3年或本科4年），并通过保健福祉部的国家考试。
 
 
 ---
@@ -150,12 +139,12 @@ Initially, learn store operations and can advance to store manager, franchise ma
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/optician/KR)**

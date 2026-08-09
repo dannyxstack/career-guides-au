@@ -4,8 +4,6 @@
 
 A lifestyle instructor is a professional who supports residents in social welfare facilities and youth protection facilities, providing counseling, education, and leisure activity guidance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A lifestyle instructor is a professional who supports residents in social welfar
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Life guidance instructors are in the personal service occupation, with low risk of AI replacement. Counseling, life support, and emotional support rely on human empathy, so AI will only be used as an auxiliary tool without reducing tasks.
-
 Starting as a lifestyle instructor, one can advance to facility director or community welfare manager with experience. Obtaining a social worker license aids career development.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as a lifestyle instructor, one can advance to facility director or comm
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible for those with overseas life counselor experience and qualifications, but very limited |
-| Subclass F-2 (F-2 (Residence)) | May switch after long-term residence as skilled worker |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as life counselors |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: No legal qualification is required, but a social worker certificate is advant
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lifestyle-instructor/KR)**

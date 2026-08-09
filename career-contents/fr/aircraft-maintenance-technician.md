@@ -4,8 +4,6 @@
 
 Responsible for inspection, maintenance, troubleshooting, and modification of aircraft and their components to ensure airworthiness and safety. Work covers mechanical, electronic, avionics, and other systems, and must be performed at authorized service centers or airlines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for inspection, maintenance, troubleshooting, and modification of ai
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 You can advance from junior technician to team leader, maintenance manager, or quality inspector, or specialize in specific aircraft models (such as A320, A350) or fields (engines, avionics). Holding an EASA Part-66 license is key to promotion.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can advance from junior technician to team leader, maintenance manager, or q
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled talent, with an annual salary of ≥53,000 euros (2025 standard), with scarce sectors that can be reduced. Providing fast residency and family reunification. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to qualified foreign technicians, employer contracts and qualification certification must be provided. Valid for 4 years, family members may be brought along. |
-| Subclass Salarié (Employee Work Permit) | Employer-sponsored and must prove that recruitment from the EU is not possible. Suitable for those already licensed by EASA, with a process of about 2-4 months. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Qualification must be obtained through DGAC (Reconnaissance des qualification
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-maintenance-technician/FR)**

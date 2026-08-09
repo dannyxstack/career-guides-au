@@ -53,8 +53,6 @@ Asbestos removal workers safely remove and dispose of materials containing asbes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Asbestos removal is a profession highly dependent on physical operations and strict regulation; AI automation can hardly replace core removal and monitoring tasks, but AI-assisted monitoring tools can improve safety and efficiency, presenting both risks and opportunities overall.
-
 Path: Asbestos removal worker → Team Leader → Supervisor; licence class and WHS supervisory experience determine income.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Path: Asbestos removal worker → Team Leader → Supervisor; licence class and 
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No, it is a local licensed trade and not on the skilled migration list.
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asbestos-removalist/AU)**

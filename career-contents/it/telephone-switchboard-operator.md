@@ -4,8 +4,6 @@
 
 A telephone switchboard operator is responsible for answering and transferring incoming calls, providing basic information services, typically working in hotels, large enterprises, and call centers. With the prevalence of digital communication, demand for this role is gradually declining.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A telephone switchboard operator is responsible for answering and transferring i
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This role has been significantly reduced due to the prevalence of automated call distribution and IVR systems, with demand continuously declining and possibly nearly disappearing in the next 5-10 years.
-
 Junior operators can advance to call center supervisor or customer service manager. Some transition to administrative assistant or data entry roles. Need to learn digital communication tools to stay competitive.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Junior operators can advance to call center supervisor or customer service manag
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy's annual quota work visa, employer must prove inability to hire locally. Operator positions are not in shortage, making approval difficult. |
-| Subclass EU Blue Card (EU Blue Card) | Aimed at high-skilled non-EU citizens; telephone operator salaries typically do not meet the threshold and are not eligible. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: This occupation is not in shortage, and the salary is low, making it difficul
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-switchboard-operator/IT)**

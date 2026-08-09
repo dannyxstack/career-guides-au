@@ -1,10 +1,8 @@
-# Family Medicine Physician 职业分析 · 韩国
+# 家庭医学医生（Family Medicine Physician）职业分析 · 韩国
 
-**职业代码: 301113 (KECO)**
+**职业代码：301113 (KECO)**
 
-A family medicine physician provides comprehensive primary care for individuals and families, including prevention, diagnosis, treatment, and management of chronic diseases.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+家庭医生为个人和家庭提供全面的初级保健，包括预防、诊断、治疗和慢性病管理。
 
 
 ---
@@ -13,9 +11,9 @@ A family medicine physician provides comprehensive primary care for individuals 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School (Integrated Bachelor's-Master's) | 6年 | $40,000,000~$50,000,000（National university tuition fees apply; private universities are higher.） |
-| 实习 | 1年 | $0~$0（Salary received during training, no tuition fees.） |
-| Residency (Family Medicine) | 3年 | $0~$0（Salary received during training, no tuition fees.） |
+| 医学院（综合学士-硕士） | 6年 | $40,000,000~$50,000,000（国立大学学费适用；私立大学更高。） |
+| 实习 | 1年 | $0~$0（培训期间有薪资，无需学费） |
+| 住院医师（家庭医学） | 3年 | $0~$0（培训期间有薪资，无需学费） |
 
 ---
 
@@ -23,18 +21,18 @@ A family medicine physician provides comprehensive primary care for individuals 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Must pass the national licensing exam after graduating from medical school. |
-| Family Medicine Specialist Certificate | Korean Medical Association | 必备 | Must pass the specialist exam after completing residency. |
-| Fellow (Optional) | Relevant academic society | 可选 | Can be obtained with a subspecialty. |
+| 行医执照 | 保健福祉部 | 必备 | 必须从医学院毕业后通过国家执照考试。 |
+| 家庭医学专科证书 | 韩国医学会 | 必备 | 完成住院医师培训后必须通过专科考试。 |
+| 研究员（可选） | 相关学术学会 | 可选 | 可通过亚专科获得。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 18,000. Due to aging and the increase in chronic diseases, demand for family medicine physicians is expected to grow steadily. Thanks to primary care strengthening policies, stable employment is anticipated.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 18,000。由于老龄化和慢性病增加，家庭医生需求稳定增长。得益于初级保健强化政策，就业前景稳定。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,97 +40,89 @@ A family medicine physician provides comprehensive primary care for individuals 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (during residency) | $40,000,000~$50,000,000 | Varies by hospital size. |
-| Mid-level (5th-year specialist, salaried physician) | $99,999,999 | Income fluctuations high for private practitioners |
-| Senior (10+ years, private practitioner) | $99,999,999 | High income possible if private practice succeeds |
+| 入门级（住院医师培训期间） | $40,000,000~$50,000,000 | 因医院规模而异。 |
+| 中级（第五年专家，受薪医师） | $99,999,999 | 私人从业者收入波动大 |
+| 高级（10年以上，私人执业） | $99,999,999 | 如果私人执业成功，收入可能很高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can replace some tasks such as diagnostic assistance, prescription support, and charting, but human roles like building patient relationships, comprehensive judgment, and managing complex chronic diseases remain important, so the scope of work will not shrink.
+AI可以替代部分任务，如诊断辅助、处方支持和图表绘制，但建立患者关系、综合判断和管理复杂慢性病等人类角色仍然重要，因此工作范围不会缩小。
 
-After graduating from medical school, one completes an internship and residency (4 years) to obtain a specialist license, then works in private practice, hospitals, or public health institutions. Career advancement to university hospital professor or private practitioner is possible.
+医学院毕业后，完成实习和住院医师培训（4年）获得专科医师执照，然后在私人诊所、医院或公共卫生机构工作。可晋升至大学医院教授或私人执业医师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic diagnostic record writing
-- Standard prescription issuance
-- General health counseling
-- Simple interpretation of test results
+- 基础诊断记录撰写
+- 标准处方开具
+- 一般健康咨询
+- 测试结果的简单解读
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Diagnosis of complex diseases
-- Patient-tailored treatment plans
-- Preventive medicine consulting
-- Telemedicine
+- 复杂疾病诊断
+- 针对患者的个性化治疗方案
+- 预防医学咨询
+- 远程医疗
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust relationship with patients
-- Clinical judgment
-- Communication skills
-- Integrated health management
+- 与患者的信任关系
+- 临床判断
+- 沟通能力
+- 综合健康管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Tool Proficiency
-- Data Literacy
-- Telemedicine Capabilities
-- Understanding of Clinical Decision Support Systems
+- AI工具熟练度
+- 数据素养
+- 远程医疗能力
+- 临床决策支持系统理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Primary care
-- Chronic disease management
-- Geriatric health
-- Family medicine
+- 初级保健
+- 慢性病管理
+- 老年健康
+- 家庭医学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for foreign doctors with specialist qualifications working at domestic medical institutions; need to prove scarcity |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage after long-term stay, possible if income requirements met |
-| Subclass F-5 (F-5 (Permanent Residence)) | Available after long-term contribution as a doctor, permits permanent stay |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who prefers holistic patient care
-- Someone with excellent communication skills
-- Someone open to continuous learning
+- 偏好整体患者护理的人
+- 沟通能力极佳的人
+- 愿意持续学习的人
 
 **谁不适合**
-- Someone who values quick, short-term results
-- Someone who wants to work in an isolated environment
+- 看重快速短期成果的人
+- 想在孤立环境中工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a family medicine doctor?**
-答：Junior (resident) about ₩40-50 million, mid-level (5th-year employed doctor) about ₩120-180 million, senior (10+ years private practitioner) about ₩200-500 million, varying greatly depending on practice success.
+**问：家庭医生的年薪是多少？**
+答：初级（住院医师）约4000-5000万韩元，中级（从业5年医生）约1.2-1.8亿韩元，高级（10年以上私人执业）约2-5亿韩元，因诊所成功程度差异很大。
 
-**问：Can a foreign doctor work as a family medicine doctor in Korea?**
-答：Yes, but obtaining a Korean medical license is mandatory, and employment is possible through an E-7 visa. Additional procedures may be required for recognition of specialist qualifications.
+**问：外国医生能在韩国担任家庭医生吗？**
+答：可以，但必须取得韩国行医执照，可通过E-7签证就业。专科资格认证可能需要额外程序。
 
-**问：What is the required education period to become a family medicine doctor?**
-答：Medical school (6 years), internship (1 year), residency (3 years) for a total of about 10 years. After that, a fellowship program can be optionally added.
+**问：成为家庭医生需要多少年的教育？**
+答：医学院（6年）、实习（1年）、住院医师（3年），总共约10年。之后可选择进修项目。
 
 
 ---
@@ -150,12 +140,12 @@ After graduating from medical school, one completes an internship and residency 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/family-medicine-physician/KR)**

@@ -4,8 +4,6 @@
 
 Operate chemical or pharmaceutical production equipment, monitor reaction processes, and ensure product quality and safe production. Familiar with process flows, equipment maintenance, and compliant operations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate chemical or pharmaceutical production equipment, monitor reaction proces
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Chemical plant workers face mixed impacts: AI and automation optimize process control and monitoring, but physical operations and safety responsibilities still require human input; entry-level competition increases slightly.
-
 Junior operators can be promoted to team leaders or process technicians, and through continuing education, they can transition to production management or quality control positions. Experienced candidates can become process optimization experts.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Junior operators can be promoted to team leaders or process technicians, and thr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Applies to long-term work contracts with employer sponsorship in France. Must demonstrate the position cannot be filled by an EU citizen. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable to highly skilled talents, such as those with a master's degree or annual salary exceeding €42,052. Can obtain a 4-year residence permit. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | Graduates can apply for a 12-month job-seeking visa, which allows them to work. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: CQP Chemical Operator Qualification (recommended), CACES Equipment Operation 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-or-pharmaceutical-production-equipment-operator/FR)**

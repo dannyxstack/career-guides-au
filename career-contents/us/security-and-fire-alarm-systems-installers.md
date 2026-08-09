@@ -55,8 +55,6 @@ Install, program, maintain, and repair wiring and equipment for security and fir
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Security and fire alarm system installers face opportunities from AI-assisted efficiency gains, while some programming and diagnostic tasks may be automated, but physical installation and compliance work still rely on human labor.
-
 Can start as an installation assistant, gain experience, obtain a license to become a senior technician, then advance to project manager or start your own security company.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can start as an installation assistant, gain experience, obtain a license to bec
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: High school diploma required; typically need to participate in apprenticeship
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-and-fire-alarm-systems-installers/US)**

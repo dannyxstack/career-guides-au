@@ -51,8 +51,6 @@ Responsible for B2B sales of IT products and services, including software, hardw
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of IT sales representatives is being reshaped by AI in two ways: automation tools reduce low-value tasks like client information screening and email follow-ups, while AI-powered data insights, smart presentations, and customer relationship management amplify high-value sales skills—a mixed blessing.
-
 Junior sales can advance to senior sales manager, regional sales director, or transition to solution sales, customer success management, etc.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior sales can advance to senior sales manager, regional sales director, or tr
 | Subclass Skilled Worker (Skilled Worker Visa) | Aimed at skilled migrants with vocational qualifications or university degrees, requiring employer sponsorship; IT sales roles can apply using dual-system training qualifications. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa for IT sales positions in Germany, requiring at least 2 years of professional experience or a degree. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, you can advance to roles like sales manager, regional director, or trans
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-sales-representative/DE)**

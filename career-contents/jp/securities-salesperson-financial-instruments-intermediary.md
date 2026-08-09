@@ -4,8 +4,6 @@
 
 Financial professionals who trade or intermediate securities such as stocks and bonds. At major securities firms and financial institutions, they support clients' asset management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Financial professionals who trade or intermediate securities such as stocks and 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the rise of AI and robo-advisors, routine trade execution and information provision are being replaced. However, areas requiring high-level human skills, such as complex asset consulting for wealthy clients and M&A brokerage for corporations, will remain.
-
 After joining, through in-house training and obtaining qualifications, career progression: sales representative → senior sales → deputy branch manager → branch manager. Career advancement possible by obtaining CFP, securities analyst, or other certifications.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ After joining, through in-house training and obtaining qualifications, career pr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university graduation or equivalent work experience. Applicable when engaging in financial operations. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +130,12 @@ A: An Engineer/Specialist in Humanities/International Services visa is required.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/securities-salesperson-financial-instruments-intermediary/JP)**

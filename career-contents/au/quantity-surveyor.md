@@ -55,8 +55,6 @@ A Quantity Surveyor (QS) is responsible for cost estimation, budget management, 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on quantity surveyors is mixed: automation tools handle quantity surveying, cost database analysis, and standard report generation quickly, but contract negotiation, dispute resolution, and on-site judgment still rely on human experience and responsibility; the core moat lies in legal compliance and stakeholder coordination.
-
 5D BIM cost integration (BIM + QS) is becoming standard on large projects; QS professionals skilled in Revit and CostX command a notable salary premium. The independent consultant market is active.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ The impact of AI on quantity surveyors is mixed: automation tools handle quantit
 | Subclass 189 (Skilled Independent) | Points-tested independent migration |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -164,12 +160,13 @@ A: Not necessarily. Overseas relevant qualifications can be assessed by AIQS/RIC
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quantity-surveyor/AU)**

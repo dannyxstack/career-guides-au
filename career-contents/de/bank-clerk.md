@@ -52,8 +52,6 @@ Bank clerks handle customer inquiries, account management, loan processing, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bank teller and customer service tasks face automation-driven reduction, but complex inquiries and sales still require humans; job numbers are decreasing but skill requirements are increasing.
-
 Junior bank tellers can advance to client manager, investment advisor, or branch manager. Through internal training or further education (e.g., banking specialist), they can move into specialized areas such as risk management or wealth management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior bank tellers can advance to client manager, investment advisor, or branch
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Yes, can advance to client manager, branch manager, or through further traini
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-clerk/DE)**

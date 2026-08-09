@@ -51,8 +51,6 @@ In Italian manufacturing companies, responsible for the assembly, wiring, testin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive assembly, wiring, and testing tasks of electrical/electronic equipment assemblers are highly susceptible to automation, entry-level positions will be significantly reduced.
-
 Can advance from junior assembler to senior technician, quality inspection supervisor, or production team leader. With experience, can transition to automation system debugging or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can advance from junior assembler to senior technician, quality inspection super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy's annual quota work visa for non-EU workers, requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled talent, annual income must meet the threshold (approximately 33,000 euros or more) to apply for permanent residence. |
-| Subclass Nulla Osta (Nulla Osta Work Permit) | Work permit document, applied by the employer to the immigration authority, then a work visa is issued upon approval. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Available via Decreto Flussi annual quota work visa or EU Blue Card (high sal
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-equipment-assembler/IT)**

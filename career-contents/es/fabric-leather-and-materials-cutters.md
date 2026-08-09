@@ -4,8 +4,6 @@
 
 Responsible for cutting textiles, leather, synthetic materials, etc. using manual or mechanical tools based on templates or design drawings, for manufacturing industries such as clothing, furniture, and automotive interiors. Work must be carried out in manufacturing workshops or factory environments, with a focus on precision and efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cutting textiles, leather, synthetic materials, etc. using manua
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation technologies will significantly transform the work of fabric, leather, and material cutters: standard cutting tasks are being compressed automatically, but intelligent layout and quality inspection are being enhanced, requiring practitioners to improve their digital skills to stay competitive.
-
 Junior cutters can develop into cutting supervisors, pattern designers, or quality inspectors. After mastering CAD/CAM cutting systems, you can move on to technical positions or production management. Some experienced artisans can run their own studios, specializing in custom clothing or leather goods restoration.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior cutters can develop into cutting supervisors, pattern designers, or quali
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a job contract with a Spanish company and pass a labor market test (non-urgent occupation, difficult to approve). |
-| Subclass Busqueda empleo (Job Search Visa) | Allows staying in Spain for 6-12 months to seek employment, but requires proof of financial means, and once a job is found, a work residence permit must be obtained. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: The risk is relatively high. Automated cutting equipment and AI typesetting s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fabric-leather-and-materials-cutters/ES)**

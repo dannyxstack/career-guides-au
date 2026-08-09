@@ -52,8 +52,6 @@ Bungee masters operate bungee equipment, ensure participant safety, and guide ju
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bungee masters' core tasks involve high-intensity physical operations and safety supervision, which are hard to replace by AI. Entry-level positions are limited by venue and experience requirements, but the profession itself is stable, and AI will not significantly reduce employment.
-
 Career path usually advances to senior operator or supervisor within bungee companies, some move into operations management or safety training, a few expand to management in large tourism groups.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career path usually advances to senior operator or supervisor within bungee comp
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Typically requires completing company-provided training and obtaining certifi
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bungy-jump-master/AU)**

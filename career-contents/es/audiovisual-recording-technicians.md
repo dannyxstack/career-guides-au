@@ -51,8 +51,6 @@ Audio and video recording technicians are responsible for operating and maintain
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will reshape the work of audiovisual recording technicians: repetitive operations are easily automated, but creativity and decision-making are amplified, resulting in mixed outcomes for the overall role.
-
 Career development path: Start as an assistant technician and can be promoted to senior recording engineer, technical supervisor, or producer; You can also specialize in post-production or live streaming.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Career development path: Start as an assistant technician and can be promoted to
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Work residence employed by a Spanish company requires employer sponsorship |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Suitable for highly skilled professionals, requiring academic or work experience |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes, you must obtain a work contract with a Spanish company and apply for emp
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiovisual-recording-technicians/ES)**

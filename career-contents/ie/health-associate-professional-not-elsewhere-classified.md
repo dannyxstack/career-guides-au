@@ -51,8 +51,6 @@ Includes community health workers, nutrition assistants, etc., providing basic h
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For health assistance professionals not elsewhere classified, AI is both a tool and a challenge: data recording and basic screening tasks can be automated, but human skills like health education and community relations remain a moat, with overall risk moderately high.
-
 May progress to allied health assistant roles (e.g., community health coordinator) or management positions, with some advancing to registered nurse or health manager through further study.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ May progress to allied health assistant roles (e.g., community health coordinato
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, requires employer sponsorship, annual salary no less than €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | Annual salary must reach over €43,000, suitable for high-skilled positions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires a QQI Level 5 certificate, about 1 year of coursework.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-associate-professional-not-elsewhere-classified/IE)**

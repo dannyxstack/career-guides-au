@@ -52,8 +52,6 @@ Technical role inspecting, maintaining, and repairing electrical machinery like 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and IoT support fault prediction and diagnosis, but actual disassembly, repair, and adjustment rely on humans. AI complements and improves efficiency but cannot fully replace humans. Skilled labor remains in high demand.
-
 Career progression to chief engineer or service engineer possible with skills. Options include internal promotion at manufacturers or starting own repair business.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Career progression to chief engineer or service engineer possible with skills. O
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Eligible for electrical machinery maintenance. Max 5 years. Requires N4+ Japanese. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | For skilled workers, no residency limit, family allowed. Strict exam requirements. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For vocational school grads in technical roles. Includes maintenance. Duration: 1, 3, or 5 years. |
-| Subclass 技能 (Skilled Labor Visa) | For skilled workers with 10+ years experience. Includes electrical machinery. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: Some qualifications are recognized, but Japanese Electrician or Chief Electri
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-machinery-equipment-maintenance-and-repair-worker/JP)**

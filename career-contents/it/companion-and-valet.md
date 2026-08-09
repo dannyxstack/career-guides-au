@@ -4,8 +4,6 @@
 
 Provide daily life care, itinerary planning, etiquette assistance and other services for high-end clients (such as tycoons, celebrities, aristocrats), ensuring quality of life and privacy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Provide daily life care, itinerary planning, etiquette assistance and other serv
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate scheduling and information retrieval, but high-end clients' need for personalized service, emotional support, and privacy protection makes this role hard to fully replace. Entry-level positions shrink due to AI tools; senior butlers must improve digital and psychological literacy.
-
 Can advance from junior butler to senior private butler or family manager; some transition to high-end hotel management, requiring client networks and multilingual skills.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can advance from junior butler to senior private butler or family manager; some 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU highly skilled talents, but this occupation usually does not meet the salary or skill threshold, very few employer sponsorship possibilities. |
-| Subclass Nulla Osta (Nulla Osta (Work Visa)) | Requires employer to prove inability to recruit suitable staff within the EU; approval is difficult and usually not applicable to this occupation. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: No mandatory certificate, but private butler certification and first aid cert
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/companion-and-valet/IT)**

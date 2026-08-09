@@ -51,8 +51,6 @@ Computer hardware engineers research, design, develop, or test computers and rel
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Computer hardware engineer jobs are mixed: automation tools speed up design and testing, but physical hardware debugging and prototyping are harder for AI to fully replace. Entry barriers may lower slightly, but senior engineers need to master AI-assisted design tools.
-
 Junior hardware engineers can advance to senior engineer or project manager; may also move into chip design, system architecture, or R&D management. Professional certification (e.g., PE) helps career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior hardware engineers can advance to senior engineer or project manager; may
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or experienced skilled workers, requires PERM, longer waiting period |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applies to individuals with outstanding achievements in the hardware field; no quota limit but high threshold |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from junior engineer to senior engineer, technical supervisor, or
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-hardware-engineers/US)**

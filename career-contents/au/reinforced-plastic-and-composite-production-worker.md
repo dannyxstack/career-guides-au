@@ -53,8 +53,6 @@ Operate equipment and machinery to manufacture reinforced plastic and composite 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The nature of work for Metal and Plastic Mould, Core and Casting Machine Operators is mixed: AI and automation will replace many standardized operational tasks, but will also enhance capabilities, such as optimizing production through AI predictive maintenance, improving quality control and efficiency. Thus, automation is high but human experience remains indispensable.
-
 Can advance from production worker to senior technician, supervisor, or quality inspector. With experience, can also transition to composite design or process engineering roles, requiring additional training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from production worker to senior technician, supervisor, or quality 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is usually not on the CSOL/MLTSSL list, limiting skilled migr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reinforced-plastic-and-composite-production-worker/AU)**

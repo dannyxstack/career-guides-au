@@ -1,8 +1,8 @@
-# Metal and Materials Engineering Tester 职业分析 · 韩国
+# 金属与材料工程测试员（Metal and Materials Engineering Tester）职业分析 · 韩国
 
-**职业代码: 15221 (KECO)**
+**职业代码：15221 (KECO)**
 
-A professional technical role that tests and analyzes the physical properties, composition, and structure of metals and materials to evaluate quality and improve processes.
+这是一个专业技术岗位，负责测试和分析金属及材料的物理性质、成分和结构，以评估质量并改进工艺。
 
 
 ---
@@ -11,8 +11,8 @@ A professional technical role that tests and analyzes the physical properties, c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Materials/Metals) | 2 年 | $25,000,000~$35,000,000（National/public universities baseline; private universities 2x） |
-| Bachelor's degree (Materials/Metallurgical Engineering) | 4年 | $50,000,000~$80,000,000（National/public universities baseline; private universities over ₩100 million） |
+| 副学士学位（材料/金属） | 2 年 | $25,000,000~$35,000,000（国立/公立大学基准；私立大学2倍） |
+| 学士学位（材料/冶金工程） | 4年 | $50,000,000~$80,000,000（国立/公立大学基准线；私立大学超过1亿韩元） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional technical role that tests and analyzes the physical properties, c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metallic Materials Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but provides bonus points |
-| Non-Destructive Testing Engineer | Human Resources Development Service of Korea | 可选 | Advantageous depending on testing field |
+| 金属材料工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但提供加分 |
+| 无损检测工程师 | 韩国人力资源开发服务局 | 可选 | 视测试领域而定，有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,500. Employment is stable due to demand from advanced industries like semiconductors and batteries, but some tasks may be replaced by automation and AI.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,500。由于半导体和电池等先进产业需求，就业稳定，但部分任务可能被自动化和AI取代。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -38,90 +38,83 @@ A professional technical role that tests and analyzes the physical properties, c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $28,000,000~$35,000,000 | Varies by company size |
-| Mid-level (4–9 years) | $38,000,000~$55,000,000 | — |
-| 资深（10年以上） | $55,000,000~$80,000,000 | Higher ceiling in research institutes and large corporations |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 因公司规模而异 |
+| 中级（4-9年） | $38,000,000~$55,000,000 | — |
+| 资深（10年以上） | $55,000,000~$80,000,000 | 研究机构和大公司的上限更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI and automation act as reinforcement factors in test data analysis, quality prediction, etc., but complex tissue analysis and process problem-solving require human experts, making full replacement difficult.
+AI和自动化在测试数据分析、质量预测等方面起到增强作用，但复杂组织分析和过程问题解决需要人类专家，完全替代困难。
 
-Starting as a junior tester, one can advance to supervisor, quality control team leader, or R&D expert; a master's or doctoral degree is advantageous.
+从初级测试员做起，可晋升至主管、质量控制组长或研发专家；硕士或博士学位有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Organize periodic physical property measurement data
-- Write simple composition analysis reports
+- 整理定期实物财产测量数据
+- 撰写简单的成分分析报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Predict material properties using AI
-- Detect quality anomalies based on big data
-- Operate test automation equipment
+- 使用AI预测材料性能
+- 基于大数据检测质量异常
+- 操作测试自动化设备
 
-**人类护城河:**
+**人类护城河：**
 
-- Analyze cause of failure
-- Set direction for new material development
-- Design non-standardized test methods
+- 分析故障原因
+- 设定新材料开发方向
+- 设计非标准化测试方法
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R数据分析
-- Operate advanced analysis instruments such as SEM/EDS
-- Basics of machine learning
+- 操作高级分析仪器，如SEM/EDS
+- 机器学习基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductor materials
-- Secondary batteries
-- Material Lightweighting
-- Nanomaterials
+- 半导体材料
+- 二次电池
+- 材料轻量化
+- 纳米材料
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available in metals/materials field as a skilled technician |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage after long-term stay |
-| Subclass D-10 (Job Seeking) | For degree holders seeking employment |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone focused on detailed experiments and data analysis
-- Someone curious about materials science and continuously learning
+- 专注于细致实验和数据分析的人
+- 对材料科学好奇并持续学习的人
 
 **谁不适合**
-- Someone who dislikes repetitive tasks
-- Someone sensitive to overtime and work environment (dust, chemicals)
+- 不喜欢重复性任务的人
+- 对加班和工作环境（灰尘、化学品）敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a Metal/Materials Engineering Technician?**
-答：Beginner level: 28-35 million KRW, over 10 years of experience: 55-80 million KRW.
+**问：金属/材料工程技术员的平均薪资是多少？**
+答：初级水平：2800-3500万韩元，10年以上经验：5500-8000万韩元。
 
-**问：Can foreigners get a work visa for this job?**
-答：Possible with an E-7 visa, but requires a degree and experience, and must pass Ministry of Employment review.
+**问：外国人能获得这份工作的工作签证吗？**
+答：持E-7签证可能可行，但需学历和经验，且需通过就业部审查
 
-**问：How to get promoted in this job?**
-答：Obtaining an engineer certification and work experience are important; a master's degree or higher is advantageous.
+**问：如何在这个职位上获得晋升？**
+答：获得工程师认证和工作经验很重要；硕士或更高学历更有利。
 
 
 ---
@@ -139,12 +132,12 @@ Starting as a junior tester, one can advance to supervisor, quality control team
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-and-materials-engineering-tester/KR)**

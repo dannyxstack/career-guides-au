@@ -4,8 +4,6 @@
 
 Responsible for on-site repair, installation, refurbishment, and technical support for furniture and wood products to ensure product quality and customer satisfaction.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for on-site repair, installation, refurbishment, and technical suppo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-It is difficult to fully automate on-site physical tasks such as maintenance and installation for furniture and wood product technical intervention specialists, but AI will significantly improve efficiency in cognitive areas like diagnosis, inventory management, and customer communication, resulting in an overall "medium risk, high enhancement potential" trend.
-
 You can be promoted from a skilled worker to a team leader, technical trainer, or start your own repair company.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from a skilled worker to a team leader, technical trainer, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed work residence requires employer sponsorship, suitable for experienced technicians |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport, suitable for highly skilled professionals such as senior technicians or management positions |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Typically, a CAP or Bac Pro degree is required, and BTS helps with promotion.
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-and-woodwork-technical-intervention-specialist/FR)**

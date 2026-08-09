@@ -4,8 +4,6 @@
 
 Operate looms, knitting machines, and other textile equipment to weave yarns into fabric. Usually working in textile manufacturing, the work is highly repetitive, requiring attention to machine maintenance and safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate looms, knitting machines, and other textile equipment to weave yarns int
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Loom operators face high automation risks; AI and intelligent machines will significantly replace repetitive tasks, significantly reducing the number of positions, but machine maintenance and abnormality handling still require manual labor.
-
 Junior operators can be promoted to senior technician or production line supervisor. Through advanced FP vocational training, you can move into equipment maintenance or quality control positions. Some personnel may develop into textile process designers.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Junior operators can be promoted to senior technician or production line supervi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsorship is required, proving that the position cannot be filled by a local resident. Because it is not urgent, obtaining a visa is difficult. |
-| Subclass Arraigo social (Social Roots Residence) | You can apply after having lived illegally in Spain for 3 years, and a work contract is required. Indirect routes are not eligible for direct skilled migration. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -144,12 +133,12 @@ A: Difficult. This occupation is not in shortage and employer sponsorship is har
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loom-and-other-weaving-machine-operators/ES)**

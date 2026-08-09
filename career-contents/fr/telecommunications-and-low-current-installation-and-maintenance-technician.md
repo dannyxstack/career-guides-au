@@ -51,8 +51,6 @@ Responsible for installation, commissioning, and maintenance of telecommunicatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
-
 You can advance from junior installation technician to team leader or project manager, specialize in fiber, security systems, or network integration through certification, or become a telecommunications engineering consultant.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from junior installation technician to team leader or project ma
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | For employment-based residence, you must obtain a work contract from a French employer and meet salary requirements. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to highly skilled talent, such as those with a master's degree or higher or annual salary ≥EUR 36,500, eligible for a 4-year residence permit. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires annual salary of at least €53,494 (2023 standard), applicable for senior technical positions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically requires a CAP (2 years) or BTS (2 years) in a related field. Appre
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-and-low-current-installation-and-maintenance-technician/FR)**

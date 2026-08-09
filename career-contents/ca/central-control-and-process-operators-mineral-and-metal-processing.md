@@ -51,8 +51,6 @@ This occupation involves monitoring and operating a central control console to m
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a central control and process operator, you face dual impacts from automation and AI enhancement: routine monitoring tasks will be taken over by AI, but complex decision-making and anomaly handling still rely on human judgment. You need to proactively improve AI collaboration skills.
-
 Typically start as a workshop operator, gain experience then advance to central control operator. Further development to production supervisor or process engineer. Relevant Canadian certifications (e.g., provincial trade certificates) aid advancement.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as a workshop operator, gain experience then advance to central 
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually requires high school diploma; some employers require 1-2 years of voc
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/central-control-and-process-operators-mineral-and-metal-processing/CA)**

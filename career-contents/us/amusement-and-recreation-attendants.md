@@ -53,8 +53,6 @@ Perform various attendant duties in amusement parks, entertainment venues, or le
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Entertainment and recreation service jobs will significantly decrease due to automation like self-service ticketing, virtual queuing, and AI customer service; entry-level tasks are compressed, but operation and maintenance tasks still rely on labor.
-
 Usually starts as a junior server, then can be promoted to team supervisor or operations manager with experience. Some may move into specialized roles like equipment maintenance, safety supervision, or event planning through training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually starts as a junior server, then can be promoted to team supervisor or op
 | Subclass H-1B (H-1B Specialty Occupation) | Rarely applicable, as the occupation typically does not require a bachelor's degree. |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Employer sponsorship is difficult; lacks skilled migration pathways. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually only high school diploma required for entry. Some employers may requi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/amusement-and-recreation-attendants/US)**

@@ -53,8 +53,6 @@ Responsible for the design, deployment, maintenance, and user support of informa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 You can advance from junior technical support engineer to system architect, IT project manager, or Chief Information Officer (CIO). French companies emphasize certifications (such as CISSP, PMP), with experience accumulation being key.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior technical support engineer to system architect, IT p
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree or at least 5 years of experience, with a contract annual salary of ≥ 40,000 euros. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual contract salary of ≥ 53,400 euros (2024 standard), with shortage occupations available for 47,584 euros. |
-| Subclass Salarié (Salaried Employee) | For employment-based residence, you must obtain a work contract with a French company and be approved by the French Ministry of Labor (usually the company must prove it cannot recruit EU citizens). |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Yes, there is a shortage of talent in cybersecurity, cloud computing, and big
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-systems-expertise-and-support/FR)**

@@ -52,8 +52,6 @@ A specialist in forest cultivation and management, maintaining healthy forests t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation partially support forestry work, but on-site judgment and physical labor still depend on humans. Drones for growth monitoring and autonomous forestry machinery are being introduced to improve efficiency.
-
 Career progression goes from field worker to team leader to site supervisor. Obtaining qualifications such as Forestry Worker or Forestry Technician is a benchmark for promotion, and self-employment as an independent contractor is also possible.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ Career progression goes from field worker to team leader to site supervisor. Obt
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Forestry)) | Forestry added in 2023. Requires skill test & Japanese ability. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Forestry Engineer)) | For graduates in forestry. Mainly field guidance & management. |
-| Subclass 特定活動（林業実習） (Designated Activities (Forestry Technical Intern)) | Forestry under technical intern program. Max 3 yrs, applicable post-return. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: It is common to use training programs at forest unions or forestry businesses
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reforestation-worker/JP)**

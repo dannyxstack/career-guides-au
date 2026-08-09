@@ -51,8 +51,6 @@ Conservation rangers are an important occupation in Australia's environmental se
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Some tasks of nature reserve rangers can be automated by AI (e.g., data recording, monitoring), but core duties like on-site patrol, law enforcement, and public education rely on human judgment and interaction, resulting in medium-low overall risk. Entry-level positions may have slightly higher digital requirements, but experience remains key.
-
 Requirements for digital skills and professional certification continue to rise, and nature reserve rangers must continuously update their expertise to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Requirements for digital skills and professional certification continue to rise,
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/park-ranger/AU)**

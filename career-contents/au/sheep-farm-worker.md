@@ -54,8 +54,6 @@ Engaging in physical labor such as feeding, shearing, marking, and fence mainten
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Sheep farm workers face dual impact: automation will take over repetitive tasks like data recording and monitoring, but it amplifies human-machine collaboration in on-site decision-making and health management. Entry barriers slightly increase due to automation, but demand for skilled workers remains stable.
-
 Can advance from general farm worker to senior shepherd or pastoral supervisor, with experience leading to managing large farms or transitioning to agricultural technical service roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance from general farm worker to senior shepherd or pastoral supervisor, 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes, can advance from general worker to senior shepherd, farm team leader, or
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheep-farm-worker/AU)**

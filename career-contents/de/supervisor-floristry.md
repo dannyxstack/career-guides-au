@@ -51,8 +51,6 @@ Responsible for daily operations management of a flower shop or floral business,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on floral managers is polarized: daily operations and task allocation can be optimized by automation tools, but floral design creativity, client emotional communication, and on-site team management are hard to replace; skill mix determines career trajectory.
-
 Start as a florist or shop assistant, advance to supervisor through experience and further training (e.g., Meister), then progress to regional manager or start your own flower shop.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a florist or shop assistant, advance to supervisor through experience a
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Requires a German-recognized vocational qualification (Ausbildung or equivalent); a job offer from an employer is sufficient to apply. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job-seeking in Germany for one year; suitable for those with floristry experience but no direct contract |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from florist to supervisor, then obtain Meister qualification to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-floristry/DE)**

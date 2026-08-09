@@ -4,8 +4,6 @@
 
 Deep-sea fishery workers engage in commercial fishing in the Dutch North Sea and other waters, including operating fishing nets, handling catches, and maintaining ship equipment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Deep-sea fishery workers engage in commercial fishing in the Dutch North Sea and
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will have mixed impacts on deep-sea fishing workers: automated gear and data analysis will boost catch efficiency, but autonomous navigation and smart monitoring systems may replace some navigation and fish-finding tasks; meanwhile, human experience is still needed for areas like care and compliance decision-making.
-
 Junior crew can advance to deckhand or fishing master; a few pass the captain exam to become fishing vessel captains, or move into fisheries regulation or aquaculture.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior crew can advance to deckhand or fishing master; a few pass the captain ex
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Permit for Labour (G (Regular Employment Permit) | Requires employer sponsorship, must prove non-EU citizen priority; fishing is a seasonal industry |
-| Subclass EU Blue Card (EU Blue Card) | Generally not applicable to low-skilled fishery workers |
-| Subclass Orientation Year (Orientation Year) | Only applicable to international students who graduated in the Netherlands, not related to fisheries |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Due to quota and environmental policy restrictions, employment opportunities 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deepsea-fishery-worker/NL)**

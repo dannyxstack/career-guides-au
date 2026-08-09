@@ -52,8 +52,6 @@ Telecommunications network planners design, optimize, and manage telecom network
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of telecommunications network planners will be mixed: AI can automate data collection and analysis, but strategic decisions, site surveys and supplier negotiations still require human experience, overall risk is moderate.
-
 Junior planners can advance to senior planner, network architect, or project management roles. With experience, transition to consulting or management roles such as network operations manager.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior planners can advance to senior planner, network architect, or project man
 | Subclass 189 (Skilled Independent Visa) | Permanent skilled migration visa requiring EOI points; this occupation is on the MLTSSL. |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Starting as a junior planner, you can progress to senior planner, network arc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-network-planner/AU)**

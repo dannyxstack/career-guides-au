@@ -53,8 +53,6 @@ Operate weighbridge systems to measure cargo weight of trucks, trains, etc.; rec
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of a weighbridge operator (reading weights, recording data, printing tickets) are highly rule-based and automatable, with AI and IoT sensors quickly replacing manual operations, reducing positions and demand.
-
 Junior operators can advance to supervisor or move into logistics dispatch, warehouse management, etc. Some obtain higher-level transport or equipment operation certificates to transition to heavy truck drivers or equipment operators.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior operators can advance to supervisor or move into logistics dispatch, ware
 | Subclass Employer-Sponsored (Employer-Specific Work Permit) | After receiving a job offer from a Canadian employer, apply for a Labour Market Impact Assessment (LMIA) and transition to permanent residence. |
 | Subclass EE (Express Entry (Federal Skilled Worker/CEC)) | If NOC 14413 falls under TEER 4, it does not meet FSW or CEC requirements for EE (requires TEER 0-3). |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually operate a computer in a weighbridge house, but need to guide vehicles
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weigh-scale-operators/CA)**

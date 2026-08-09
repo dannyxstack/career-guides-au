@@ -53,8 +53,6 @@ Electrical engineers are responsible for designing, developing, testing, and sup
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
-
 Junior electrical engineers can start in technical positions and be promoted to project manager or technical lead after gaining experience. By pursuing a master's degree or obtaining professional certifications (such as official industrial engineer certification), you can enter management or become an independent consultant.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ Junior electrical engineers can start in technical positions and be promoted to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled non-EU residents, a bachelor's degree + work contract is required, with an annual salary of about €33,908 (2024 standard). You can bring your family members and quickly obtain residency. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly educated professionals, requires a Spanish company contract, no minimum salary requirement, but must match the position. Fast approval, enjoy family reunion. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residence permit, requires employer sponsorship. Priority processing when occupation is on shortage list. |
-| Subclass Busqueda empleo (Job Search Visa) | Graduates are allowed to stay in Spain for one year to look for work, applicable to those who have completed their studies in Spain. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: Yes, non-EU degrees must be accredited by the Spanish Ministry of Education (
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/ES)**

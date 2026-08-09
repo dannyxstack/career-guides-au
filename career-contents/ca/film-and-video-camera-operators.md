@@ -50,8 +50,6 @@ Film and video camera operators use camera equipment to capture visual content f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Film and video camera operators face the dual impact of AI-driven tool upgrades and partial task automation. The creative and technical moat remains, but entry-level positions and routine tasks will be reduced.
-
 Experienced individuals can advance to Director of Photography or Director. They may also transition to post-production, production, or specialized fields such as drone cinematography or virtual reality.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Experienced individuals can advance to Director of Photography or Director. They
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, especially in British Columbia and Ontario for the media industry |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa requires proof that no suitable local candidate is available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Digital content demand is growing, but competition for positions is fierce. O
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-and-video-camera-operators/CA)**

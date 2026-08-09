@@ -1,10 +1,8 @@
-# Transportation Equipment Engineer (excluding automobiles) (Development) 职业分析 · 日本
+# 运输设备工程师 (不含汽车) (研发)（Transportation Equipment Engineer (excluding automobiles) (Development)）职业分析 · 日本
 
-**职业代码: 075 (JSCO)**
+**职业代码：075 (JSCO)**
 
-Engineers engaged in the design and development of transportation equipment such as ships, aircraft, and railway vehicles. They leverage the latest technology to improve safety and performance.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事船舶、飞机、铁路车辆等运输设备设计与开发的工程师。利用最新技术提升安全性和性能。
 
 
 ---
@@ -13,8 +11,8 @@ Engineers engaged in the design and development of transportation equipment such
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Faculty of Engineering) | 4年 | $3,200,000~$5,500,000（National/public to private average） |
-| 硕士课程 | 2 年 | $1,600,000~$3,000,000（Tuition only） |
+| 大学（工程学院） | 4年 | $3,200,000~$5,500,000（国立/公立到私立平均） |
+| 硕士课程 | 2 年 | $1,600,000~$3,000,000（仅学费） |
 
 ---
 
@@ -22,18 +20,18 @@ Engineers engaged in the design and development of transportation equipment such
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Mechanical Engineering) | Japan Professional Engineers Association | 可选 | Proof of advanced expertise; not mandatory but advantageous |
-| TOEIC 800 or higher | IIBC | 可选 | Essential for international development environments |
-| CAD Utilization Engineer Examination | Japan CAD Association | 可选 | Useful for design work |
+| 专业工程师（机械工程） | 日本专业工程师协会 | 可选 | 高级专业证明；非强制但有利 |
+| TOEIC 800分或以上 | IIBC | 可选 | 国际化开发环境必备 |
+| CAD应用工程师考试 | 日本CAD协会 | 可选 | 对设计工作有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 75,000. Demand remains steady due to technological innovation and environmental regulations in the aviation, railway, and shipbuilding industries. Technical succession due to aging workforce is a challenge.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 75,000。由于航空、铁路和造船行业的技术创新和环境法规，需求保持稳定。老龄化导致的技术传承是挑战。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ Engineers engaged in the design and development of transportation equipment such
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,500,000~$4,500,000 | Starting salary level at major companies/research positions |
-| Mid-level (4-10 years) | $5,000,000~$7,000,000 | Project leader class |
-| Senior (11+ years) | $8,000,000~$12,000,000 | Management or highly specialized roles |
+| 初级 (0-3年) | $3,500,000~$4,500,000 | 大型企业/研究岗位的起薪水平 |
+| 中级（4-10年） | $5,000,000~$7,000,000 | 项目主管级别 |
+| 高级（11年以上） | $8,000,000~$12,000,000 | 管理或高度专业化角色 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists in simulation and design optimization, expanding engineers' creativity. Design automation advances, but humans handle final decisions and safety checks.
+AI辅助模拟和设计优化，拓展工程师创造力。设计自动化推进，但最终决策和安全检查由人类负责。
 
-After gaining research and development experience at major manufacturers or graduate schools, they advance to project leader or management roles in research departments. Independent work leveraging expertise is also possible.
+在大型制造商或研究生院获得研发经验后，晋升为研发部门的项目负责人或管理层。也可以凭借专业知识独立工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple drafting
-- Routine strength calculations
-- Organizing historical data
+- 简单绘图
+- 常规强度计算
+- 整理历史数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Generating and evaluating design proposals
-- Performance simulation
-- Optimizing material selection
+- 生成和评估设计方案
+- 性能模拟
+- 优化材料选择
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving ability
-- Deep understanding of safety design
-- Interpersonal coordination and negotiation skills
+- 创造性解决问题的能力
+- 对安全设计有深刻理解
+- 人际协调与谈判技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and machine learning
-- Systems thinking
+- AI和机器学习
+- 系统思维
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aircraft development
-- Hydrogen fuel
-- Railway high-speed
-- Electrification
+- 飞机开发
+- 氢燃料
+- 铁路高速
+- 电气化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. General work visa. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Point-based system with benefits, 5-year stay, easy PR. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For skilled workers, family accompaniment allowed. Limited fields. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at physics/math
-- People passionate about manufacturing
-- Team players
+- 擅长物理/数学的人
+- 对制造业充满热情的人
+- 团队合作者
 
 **谁不适合**
-- People who like routine tasks
-- People who want to avoid desk work
+- 喜欢常规任务的人
+- 希望避免案头工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Average annual income of transport equipment engineers?**
-答：Around 10 years experience, approx. 8 million yen. Major aircraft manufacturers may exceed 10 million.
+**问：运输设备工程师的平均年收入是多少？**
+答：约10年经验，约800万日元。大型飞机制造商可能超过1000万。
 
-**问：How can foreigners work in Japan in this occupation?**
-答：Generally, a 'Engineer/Specialist in Humanities/International Services' visa is required. Conditions include university graduation or over 10 years of practical experience.
+**问：外国人如何在这个职业领域在日本工作？**
+答：通常需要'工程师/人文知识/国际服务'签证。条件包括大学毕业或10年以上实践经验。
 
-**问：What are the ways to advance your career?**
-答：Obtaining a Professional Engineer license or a master's/doctoral degree from graduate school can position you at the core of R&D.
+**问：提升职业发展的途径有哪些？**
+答：获得专业工程师执照或研究生院的硕士/博士学位可让你处于研发核心。
 
 
 ---
@@ -145,12 +135,12 @@ After gaining research and development experience at major manufacturers or grad
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transportation-equipment-engineer-excluding-automobiles-development/JP)**

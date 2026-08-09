@@ -52,8 +52,6 @@ Magicians perform magic and illusion on stage, television, or at private events 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance magic effect design and audience interaction analysis, but core performance, technique and improvisation still rely on humans; entry-level competition intensifies, overall mixed.
-
 Career progression starts from junior performer; with accumulated experience and reputation, one can become a renowned magician, or transition to TV programs, large event planning, magic teaching, or related work.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression starts from junior performer; with accumulated experience and
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Yes, but difficult. Need to apply for an artist or freelance visa and prove s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/magicians-and-illusionists/DE)**

@@ -54,8 +54,6 @@ Operate cement production equipment including crushing, grinding, calcination, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mineral and metal processing machine operators face high automation risk; AI and robots can take over most repetitive operational tasks, but equipment maintenance and anomaly handling still require human judgment.
-
 Can progress from entry-level operator to senior operator, shift supervisor, or production manager; can also obtain qualifications (e.g. industrial training) to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from entry-level operator to senior operator, shift supervisor, or 
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer from an employer |
 | Subclass Rural (Rural and Northern Immigration Pilot) | Regional pilot program requiring employer offer and community support |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: A provincial certificate is not necessarily required, but holding a safety tr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-operators-mineral-and-metal-processing/CA)**

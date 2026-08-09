@@ -51,8 +51,6 @@ Operate electroplating, coating, and finishing equipment to treat metal products
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Metal finishing operators face automation pressure, but AI-enhanced monitoring and process optimization require improved equipment maintenance and programming skills to stay competitive.
-
 Usually start as an operator, then advance to senior operator, production line supervisor, or quality inspector after gaining experience. A few move into process engineering or technical management roles through further study.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Usually start as an operator, then advance to senior operator, production line s
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Low regulatory requirements, but employers usually prefer apprenticeship cert
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-finishing-plating-and-coating-machine-operator/IE)**

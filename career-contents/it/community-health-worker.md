@@ -52,8 +52,6 @@ Community health workers in the Italian healthcare system undertake public healt
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Community health workers' core value lies in interpersonal trust and localized services; AI cannot easily replace their emotional support and community liaison functions. However, administrative tasks such as data management and educational material generation will be greatly enhanced by AI, requiring practitioners to shift to higher-value personalized guidance roles.
-
 Can advance to community health coordinator, public health project officer, or become a registered nurse or social worker through further study, or move into non-profit management roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can advance to community health coordinator, public health project officer, or b
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU citizens, requires a university degree and a minimum annual salary of approximately €24,789 (2023 standard), with contract duration requirements. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requires employer sponsorship, limited quota, competitive. |
-| Subclass Work Residence Permit (Work Residence Permit) | Based on employment contract, first valid for 1 year, renewable, and eligible for permanent residency after 5 years. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Italy's aging population and healthcare reforms strengthen community services
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/community-health-worker/IT)**

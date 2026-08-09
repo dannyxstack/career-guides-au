@@ -52,8 +52,6 @@ Design and produce digital media (web, video, interactive design) and print medi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Digital and print media designers face automation of repetitive layout and image processing tasks, but creative strategy, brand storytelling, and client communication become key defenses. Overall risk is moderate, with opportunities and challenges.
-
 Career path: Junior Designer → Senior Designer → Creative Director or Art Director. Can also move into UX/UI design, product management, or enter academia through further study.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career path: Junior Designer → Senior Designer → Creative Director or Art Di
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to those with vocational training qualifications (Ausbildung) or a university degree, who must have a job offer from a German employer. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa that allows holders to stay in Germany for one year to find a job, subject to meeting qualification or language requirements. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: The most common is completing a 3-year dual training program and obtaining an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/digital-and-print-media-designer/DE)**

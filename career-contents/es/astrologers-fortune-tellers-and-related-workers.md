@@ -4,8 +4,6 @@
 
 Astrologers and fortune-tellers use astrology, tarot, or other divination methods to offer clients fortune predictions, personality analysis, and life advice. This profession is considered an informal industry in Spain, with practitioners usually self-employed.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Astrologers and fortune-tellers use astrology, tarot, or other divination method
 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-AI will greatly automate tasks such as astrolabe interpretation and report generation, but clients' demand for 'humanized' consultations and mystical ritual experiences remains irreplaceable, requiring practitioners to shift toward emotional companionship and deeply customized services.
 
 Practitioners usually start with self-study or short-term training, build a reputation, then open personal consulting studios or offer paid services through social media. Some may turn to psychological counseling, occult training, or publishing related books.
 
@@ -99,16 +95,9 @@ Practitioners usually start with self-study or short-term training, build a repu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Being employed by astrology or related companies (which is very rare), requiring employer sponsorship, is almost impossible. |
-| Subclass Cuenta propia (Self-Employment Work Permit) | Self-employment residency requires proof of business feasibility and financial capability in Spain, which is quite challenging. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: You need to master astrology or tarot divination, possess good communication 
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/astrologers-fortune-tellers-and-related-workers/ES)**

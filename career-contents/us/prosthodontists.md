@@ -53,8 +53,6 @@ Diagnose, treat, restore, and design prostheses to maintain oral function, healt
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Start with residency training, progress to senior physician, academic researcher, or private practice partner.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Start with residency training, progress to senior physician, academic researcher
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's or bachelor's plus 5 years of experience, can apply via NIW |
 | Subclass O-1 (O-1 Extraordinary Ability) | For those with extraordinary ability in their field |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Total about 11 years: 4 years undergraduate + 4 years dental school + 3 years
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prosthodontists/US)**

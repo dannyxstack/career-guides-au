@@ -54,8 +54,6 @@ Responsible for daily feeding, grazing, fence maintenance, health monitoring and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The daily physical work of beef cattle farm workers is unlikely to be fully replaced by AI in the short term, but data monitoring, record-keeping, and simple veterinary consultations that can be automated remotely will gradually be taken over by AI, evolving the role into a technology-assisted hybrid position.
-
 Junior workers can advance to senior herd management assistants or livestock supervisors; some gain experience and move into ranch management or agricultural technology promotion. However, career ceilings are low and management positions are limited.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior workers can advance to senior herd management assistants or livestock sup
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship, applicable to remote farms |
 | Subclass 187 (Regional Sponsored Migration Scheme) | Closed, but permanent residency paths still exist under old policy |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: No formal education required, but needs physical fitness, basic livestock han
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beef-cattle-farm-worker/AU)**

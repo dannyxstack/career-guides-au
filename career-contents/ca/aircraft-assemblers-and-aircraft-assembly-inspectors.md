@@ -51,8 +51,6 @@ Responsible for assembling, adjusting, and inspecting aircraft structures, syste
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Can progress from assembler to senior assembly technician, team leader, or inspector; some may transition to aircraft maintenance or engineering support roles. Requires continuous learning of new aircraft technologies.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from assembler to senior assembly technician, team leader, or inspe
 | Subclass PNP (Provincial Nominee Program) | Provinces like Quebec, Ontario, and Manitoba have provincial nomination programs targeting the aerospace industry. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, accumulate Canadian work experience, then apply for immigration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. If your education and work experience meet the Federal Skilled Worker (F
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-assemblers-and-aircraft-assembly-inspectors/CA)**

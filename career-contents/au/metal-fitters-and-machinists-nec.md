@@ -52,8 +52,6 @@ Trades workers engaged in metal parts processing, assembly, repair, and debuggin
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Metal fitters and machinists face dual pressure from CNC automation and AI scheduling, but skills in debugging, repair, and field judgment remain scarce; entry-level positions still maintain a certain threshold due to apprenticeships and skill accumulation.
-
 Can progress from apprentice to senior technician, then to foreman or production supervisor, or through further study become a mechanical engineer, technical consultant, or self-employed.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from apprentice to senior technician, then to foreman or production
 | Subclass 189 (Skilled Independent Visa) | Skilled independent permanent residence, requiring a pass mark on the EOI and an occupation on the MLTSSL list. |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency, must meet state nomination conditions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Good. With the development of manufacturing automation and robotics, demand f
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fitters-and-machinists-nec/AU)**

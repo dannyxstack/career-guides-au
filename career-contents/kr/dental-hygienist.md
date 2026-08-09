@@ -49,8 +49,6 @@ Dental hygienists are professional medical personnel who assist in dental treatm
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace dental hygienists' work. Digital oral scanners and CAD/CAM enhance clinical assistance, but patient counseling and skilled clinical techniques remain uniquely human.
-
 Entry-level → Experienced hygienist → Senior/Lead → Department head/Owner (can open a clinic). Paths also include public health centers, university hospitals, and overseas opportunities.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Entry-level → Experienced hygienist → Senior/Lead → Department head/Owner 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for hiring dental hygienists as skilled professionals |
-| Subclass F-2 (F-2 (Residence)) | Convertible after long-term stay and qualification acquisition |
-| Subclass H-1 (Region-specific visa) | Piloted in some regions |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: From entry-level, one can advance to senior, head, or director (opening own c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-hygienist/KR)**

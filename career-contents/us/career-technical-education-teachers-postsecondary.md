@@ -53,8 +53,6 @@ Teach vocational courses at public or private vocational institutions, covering 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 Typically start as industry technician or lecturer in related field, can advance to department head, academic supervisor, or training director; some teachers move to curriculum development, educational management, or pursue a doctorate.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as industry technician or lecturer in related field, can advance
 | Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Masters degree or above or special ability may apply, requires PERM labor certification; green card path is long but feasible |
 | Subclass EB-3 (EB-3 Skilled Workers) | For bachelor's degree or 2+ years of experience, requires PERM; lower threshold than EB-2 but longer wait times. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Demand is stable, with growth rates matching average occupations; vocational 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/career-technical-education-teachers-postsecondary/US)**

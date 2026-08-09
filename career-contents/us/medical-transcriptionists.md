@@ -51,8 +51,6 @@ Medical transcriptionists transcribe audio files of medical records, diagnostic 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Medical transcriptionist is a high-risk replacement occupation with very high automation; entry-level positions have shrunk significantly, and demand will sharply decline over the next 5 years. It is recommended to transition as soon as possible.
-
 Junior transcriptionists can advance to senior transcriptionist, quality auditor, or team supervisor, or transition to fields like medical coding, medical records management, or health information management.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior transcriptionists can advance to senior transcriptionist, quality auditor
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Very difficult; this occupation usually does not meet the specialty occupatio
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-transcriptionists/US)**

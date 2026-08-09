@@ -52,8 +52,6 @@ Fashion designers are responsible for conceiving and creating clothing and acces
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly change the work of fashion designers; some tasks like trend forecasting and pattern generation are automated, but creative design, client communication, and brand storytelling become core moats. The entry barrier lowers due to AI tools, but high-end roles increase in value.
-
 Junior designers can start as assistants, gain experience, and advance to senior designer or design director. Some designers start their own brands or move into related fields such as stylist or buyer. The industry has high entry barriers, requiring continuous learning of trends and techniques.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior designers can start as assistants, gain experience, and advance to senior
 | Subclass 482 (Skills in Demand visa) | Requires employer sponsorship, suitable for experienced designers |
 | Subclass 491 (Skilled Work Regional visa) | Work and live in regional areas, requires state or relative sponsorship. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The job market is highly competitive with limited positions. Sydney and Melbo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fashion-designer/AU)**

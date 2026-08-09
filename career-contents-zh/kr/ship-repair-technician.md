@@ -1,8 +1,8 @@
-# Ship Repair Technician 职业分析 · 韩国
+# 船舶维修技师（Ship Repair Technician）职业分析 · 韩国
 
-**职业代码: 81221 (KECO)**
+**职业代码：81221 (KECO)**
 
-This occupation involves inspecting, maintaining, and repairing various equipment such as engines, electrical systems, and piping on ships, primarily working at shipyards and ship repair companies.
+该职业涉及检查、维护和修理船舶上的发动机、电气系统和管道等各种设备，主要在造船厂和船舶修理公司工作。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves inspecting, maintaining, and repairing various equipmen
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School (Vocational) | 3年 | $0~$0（Free education in specialized high school mechanical/shipbuilding departments） |
-| College (2~3 years) | 3年 | $3,000,000~$5,000,000（Mechanical Engineering or Shipbuilding major） |
+| 高中（职业） | 3年 | $0~$0（专业高中机械/造船部门的免费教育） |
+| 大学（2-3年） | 3年 | $3,000,000~$5,000,000（机械工程或造船专业） |
 
 ---
 
@@ -20,18 +20,18 @@ This occupation involves inspecting, maintaining, and repairing various equipmen
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Ship Engine Technician | Human Resources Development Service of Korea | 必备 | Required qualification for ship engine maintenance |
-| Mechanical Maintenance Technician | Human Resources Development Service of Korea | 可选 | Basic qualification for mechanical maintenance |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Advantageous for hull repair |
+| 船舶发动机技术员 | 韩国人力资源开发服务局 | 必备 | 船舶发动机维修所需资格 |
+| 机械维修技术员 | 韩国人力资源开发服务局 | 可选 | 机械维修的基本资格 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 对船体修理有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 20,000. Employment is expected to remain stable due to increased shipbuilding orders and demand for maintenance of aging vessels, but there is volatility due to high overseas dependence.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 20,000。由于船舶订单增加和老龄船舶维护需求，就业预计将保持稳定，但因海外依赖度高存在波动性。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,86 @@ This occupation involves inspecting, maintaining, and repairing various equipmen
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0~3 years) | $28,000,000~$35,000,000 | Includes probation period |
-| Intermediate (4~7 years) | $36,000,000~$48,000,000 | Higher if certified |
-| Advanced (8+ years) | $50,000,000~$70,000,000 | Foreman level or above |
+| 初级（0~3年） | $28,000,000~$35,000,000 | 包含试用期 |
+| 中级（4-7年） | $36,000,000~$48,000,000 | 持证者薪资更高 |
+| 高级（8年以上） | $50,000,000~$70,000,000 | 工头级或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation cannot completely replace ship maintenance work, but they are improving work efficiency through diagnostic equipment and predictive maintenance systems. Repair workers become more valuable with precise diagnostic skills using AI tools.
+AI和自动化无法完全取代船舶维修工作，但通过诊断设备和预测性维护系统提高效率。拥有AI工具精准诊断技能的维修工人更有价值。
 
-Starting as a junior technician, one can advance to foreman, process manager, or ship inspector with experience, and overseas field experience is advantageous.
+从初级技术员开始，随着经验积累可晋升为领班、工艺经理或船舶检验员，海外现场经验有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple inspection tasks
-- Repetitive part replacement
-- Basic measurement data recording
+- 简单检查任务
+- 重复性零件更换
+- 基本测量数据记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based fault diagnosis analysis
-- Hull exterior inspection using drones
-- Operation of predictive maintenance systems
+- 基于AI的故障诊断分析
+- 使用无人机进行船体外壳检查
+- 预测性维护系统操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive judgment through field experience
-- Complex machinery combination repair
-- Response to non-standard ship structures
+- 通过现场经验进行直觉判断
+- 复杂机械组合维修
+- 应对非标准船体结构
 
-**需构建的技能:**
+**需构建的技能：**
 
-- How to use AI diagnostic tools
-- Understanding eco-friendly ship systems
-- Basics of digital twin technology
-- Reading English technical documents
+- 如何使用AI诊断工具
+- 了解环保船舶系统
+- 数字孪生技术基础
+- 阅读英文技术文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recovery of the shipbuilding industry
-- Maintenance of aging vessels
-- Eco-friendly ship retrofitting
-- Overseas repair market
+- 造船业复苏
+- 老旧船舶维护
+- 环保船舶改造
+- 海外维修市场
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Available for skilled workers with relevant experience and certification |
-| Subclass E-9 (Non-professional Employment Visa) | Limited to non-professional workers; ship repair is a specialized field, preferring E-7 |
-| Subclass F-2 (Residence Visa) | Long-term residents can work; skilled workers receive extra points |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength who enjoy outdoor work
-- People with dexterity who enjoy disassembling and assembling machinery
-- People who don't mind overseas business trips
+- 体力好且喜欢户外工作的人
+- 手巧且喜欢拆装机械的人
+- 不介意海外出差的人
 
 **谁不适合**
-- People who are uncomfortable with high-altitude or confined spaces
-- People who prefer static office work
+- 不适应高空或密闭空间的人
+- 偏好静态办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level (0-3 years), pre-tax annual salary is 28-35 million KRW; higher with certifications and special welding skills
+**问：起薪是多少？**
+答：入门级（0-3年）税前年薪2800-3500万韩元；持有认证和特殊焊接技能者更高
 
-**问：Is it possible to immigrate with this job?**
-答：Employment through E-7 visa and permanent residence application are possible for skilled workers, but certain experience and Korean language skills are required.
+**问：这个职业有可能移民吗？**
+答：技术工人可通过E-7签证就业并申请永久居留，但需具备一定经验和韩语能力。
 
-**问：Is there a required educational background?**
-答：High school graduation or higher is sufficient, and majors in specialized high schools related to machinery/shipbuilding are advantageous. Certifications are more important.
+**问：是否有学历要求？**
+答：高中毕业或以上学历即可，机械/造船相关专业的中专学历者优先。资格证书更为重要。
 
 
 ---
@@ -143,12 +136,12 @@ Starting as a junior technician, one can advance to foreman, process manager, or
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ship-repair-technician/KR)**

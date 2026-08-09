@@ -53,8 +53,6 @@ Responsible for laying out, machining, and assembling metal or plastic casting m
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Metal and plastic mold makers face automation compression risk: CAM software, 3D printing, and robotic machining will gradually replace manual mold making, adjustment, and refurbishment; but complex casting adjustment and mold repair still require manual experience.
-
 Can advance from apprentice to skilled mold maker, then to mold design technician or production supervisor; some may move into CNC programming or process engineering.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from apprentice to skilled mold maker, then to mold design technicia
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to mold design technician, production supervisor, or move into em
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patternmakers-metal-and-plastic/US)**

@@ -53,8 +53,6 @@ ERP Consultants are responsible for the implementation, configuration, training 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on ERP consultants is mixed: configuration and testing tasks may be automated, but business analysis, change management, and system integration requiring deep industry knowledge and client communication are enhanced by AI.
-
 Cloud ERP (SaaS model) is accelerating the replacement of traditional on-premise systems; consultants must now master both business processes and cloud technology. AI-driven process automation (SAP AI / Oracle Fusion AI) is emerging as a new skills requirement, raising the entry barrier while expanding the high-end market.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Cloud ERP (SaaS model) is accelerating the replacement of traditional on-premise
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: The SAP S/4HANA migration surge and government digitalisation projects have c
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/erp-consultant/AU)**

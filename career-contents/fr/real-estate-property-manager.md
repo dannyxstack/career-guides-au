@@ -53,8 +53,6 @@ Responsible for daily management of leased properties, tenant relationship maint
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation are reshaping the role of accommodation services managers; some administrative and scheduling tasks are being replaced, but core responsibilities like customer experience and crisis management are amplified by AI, increasing the demand for human-centered service and management skills
-
 You can be promoted from junior property assistant to property manager or regional manager, or transition to asset management, real estate investment, and other directions. After gaining experience, you can independently manage large asset portfolios.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from junior property assistant to property manager or region
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by a French company that provides a work contract and applies for a work permit. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for senior professionals, requiring compliance with educational background or salary requirements. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a high degree of education and no less than 1.5 times the French average wage. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Must have a professional card (carte professionnelle) and civil liability ins
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-property-manager/FR)**

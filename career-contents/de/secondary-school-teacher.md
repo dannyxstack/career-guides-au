@@ -55,8 +55,6 @@ Secondary school teachers are responsible for teaching specific subjects (e.g., 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Secondary school teaching roles will not be largely replaced, but AI will profoundly change teaching methods, automating some administrative and assessment tasks while enhancing personalised teaching and content creation, raising new demands on teachers' technical literacy.
-
 Career development paths include: senior teacher, subject lead, grade coordinator, assistant principal, or principal. Can also move into education administration, teacher training, or educational research. Some teachers achieve higher salary levels through continuing education.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career development paths include: senior teacher, subject lead, grade coordinato
 | Subclass Skilled Worker (Skilled Employment Visa (Fachkräfteeinwanderungsgesetz)) | Applies to teachers with a recognized German qualification or equivalent overseas qualification; a specific job offer is required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows holders to seek work in Germany, but teachers must have their qualifications certified before practicing. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to discipline leader, grade director, assistant principal, or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-school-teacher/DE)**

@@ -1,8 +1,8 @@
 # 卡车司机（Truck Driver）职业分析 · 日本
 
-**职业代码: 613 (JSCO)**
+**职业代码：613 (JSCO)**
 
-A profession that transports cargo using trucks and dump trucks. Engaged in long-distance and short-distance delivery, playing a vital role in supporting logistics.
+使用卡车和自卸车运输货物的职业。从事长途和短途运输，在支持物流方面发挥重要作用。
 
 
 ---
@@ -11,9 +11,9 @@ A profession that transports cargo using trucks and dump trucks. Engaged in long
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Driver's License (Medium/Large) | 3个月 | $100,000~$300,000（Driving school fees） |
+| 驾照（中/大型） | 3个月 | $100,000~$300,000（驾校费用） |
 | 叉车驾驶证（Forklift License） | 1个月 | $30,000~$50,000（可选） |
-| Hazardous Materials Handler | 1个月 | $10,000~$20,000（Advantageous for hazardous cargo transport） |
+| 危险品处理员 | 1个月 | $10,000~$20,000（有利于危险货物运输） |
 
 ---
 
@@ -21,19 +21,19 @@ A profession that transports cargo using trucks and dump trucks. Engaged in long
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Large Vehicle License | Public Safety Commission | 必备 | Required for driving trucks over 9 tons |
-| Trailer License | Public Safety Commission | 必备 | Required for driving trailers |
-| Fleet Manager | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Qualification as a responsible person |
-| Forklift Operation Skills Training | Prefectural Labor Bureau | 可选 | Advantageous for loading/unloading work |
+| 大型车辆驾照 | 公共安全委员会 | 必备 | 驾驶9吨以上卡车所需 |
+| 拖车驾照 | 公共安全委员会 | 必备 | 拖车驾驶所需 |
+| 车队经理 | 国土交通省 | 可选 | 责任人员资质 |
+| 叉车操作技能培训 | 县级劳动局 | 可选 | 有利于装卸工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 850,000. Demand remains stable with the expansion of the e-commerce market, but long working hours and driver shortages are challenges. The impact of autonomous driving technology is expected to be limited.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 850,000。随着电商市场的扩张，需求保持稳定，但工作时间长和司机短缺是挑战。自动驾驶技术的影响预计有限。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,68 +41,61 @@ A profession that transports cargo using trucks and dump trucks. Engaged in long
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,000,000 | Pre-tax Annual Income |
-| Mid-level (3-10 years) | $4,000,000~$5,500,000 | Pre-tax Annual Income |
-| 资深（10年以上） | $5,500,000~$7,000,000 | Pre-tax Annual Income |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 税前年收入 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 税前年收入 |
+| 资深（10年以上） | $5,500,000~$7,000,000 | 税前年收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Automated driving technology will advance driving assistance on long highways, but last-mile and complex deliveries require human judgment. Full replacement by AI is difficult for now.
+自动驾驶技术将提升长途高速公路上的驾驶辅助，但最后一英里和复杂配送仍需人工判断。短期内AI完全替代困难。
 
-Easy to start with no experience; career advancement possible by obtaining medium and large vehicle licenses. With experience, opportunities for fleet manager or self-employment.
+无经验易上手；通过获取中大型车辆驾照可实现职业发展。有经验后可成为车队经理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant-speed driving on highways
-- Simple regular delivery routes
-- Loading and unloading cargo (partially automated)
+- 高速公路匀速驾驶
+- 简单的定期配送路线
+- 装卸货物（部分自动化）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Delivery route optimization
-- Driving advice for better fuel efficiency
-- Vehicle maintenance prediction
+- 配送路线优化
+- 提高燃油效率的驾驶建议
+- 车辆维护预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment in handling hazardous materials
-- Flexible route changes
-- Negotiation and coordination with shippers
-- Emergency response
+- 处理危险品判断
+- 灵活路线变更
+- 与托运人的谈判与协调
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operations management skills
-- Digital device operation (fleet management system)
-- Language skills (collaboration with foreign drivers)
-- Thorough safe driving
+- 运营管理技能
+- 数字设备操作（车队管理系统）
+- 语言技能（与外国司机的合作）
+- 安全驾驶到位
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics
-- E-commerce delivery
-- Long-distance transportation
-- Refrigerated/frozen transport
+- 物流
+- 电商配送
+- 长途运输
+- 冷藏/冷冻运输
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Transport)) | Scheduled for establishment in 2024. Addressing labor shortages in the transport industry. |
-| Subclass 技能実習 (Technical Intern Training (Transport)) | Note: Truck driving is currently not covered. |
-| Subclass 特定活動 (Designated Activities (Transport)) | May be eligible for work under certain conditions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -110,25 +103,25 @@ Easy to start with no experience; career advancement possible by obtaining mediu
 
 **谁适合**
 - 喜欢长途驾驶的人
-- People confident in physical stamina
-- People who can maintain a regular lifestyle
+- 身体耐力好的人
+- 能够维持规律生活的人
 
 **谁不适合**
-- People who are not good at long drives
-- People who are overly meticulous
+- 不擅长长途驾驶的人
+- 过于吹毛求疵的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much do truck drivers earn?**
-答：In the first year, about 3-4 million yen, but for long-distance or large vehicles, it can rise to 5-7 million yen.
+**问：卡车司机收入多少？**
+答：第一年约300-400万日元，但长途或大型车辆可升至500-700万日元。
 
-**问：How can foreigners work as truck drivers?**
-答：Currently not covered by Specified Skilled Worker, but Specified Skilled Worker (i) for transportation is planned for 2024. Japanese language ability and a driver's license are required.
+**问：外国人如何成为卡车司机？**
+答：目前不属于特定技能工人范围，但计划2024年推出特定技能工人(i)运输类。需要日语能力和驾照。
 
-**问：Can I become one without experience?**
-答：Yes, it's possible. Typically, you get a medium or large vehicle license and join a transport company. Going independent is also an option.
+**问：没有经验可以成为吗？**
+答：是的，可能。通常需要获得中型或大型车辆驾照并加入运输公司。也可以选择独立经营。
 
 
 ---
@@ -146,12 +139,12 @@ Easy to start with no experience; career advancement possible by obtaining mediu
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/truck-driver/JP)**

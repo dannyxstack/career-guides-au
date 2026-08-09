@@ -56,8 +56,6 @@ Underground miners operate drills, loading machinery, and transport equipment in
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Underground miners face dual impacts from AI and automation: repetitive operations like drilling and loading will be replaced by automated machinery, but human judgment is still needed for geological change handling, equipment repair, and emergency decisions. Job numbers may shrink but value increase.
-
 Career path: beginners can start as mining operators or drill assistants, progress to mining team leaders or blasting supervisors, some may move to mining engineer or safety officer roles. Continuous learning of safety regulations and new technologies is needed.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career path: beginners can start as mining operators or drill assistants, progre
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Overseas experience can be assessed by NZQA, but usually requires supplementa
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underground-miner/NZ)**

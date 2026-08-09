@@ -4,8 +4,6 @@
 
 Responsible for monitoring and commanding the safe and orderly flight of aircraft at airports and airspaces, ensuring takeoff and landing, route spacing, and navigation efficiency through radar and radio communications.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for monitoring and commanding the safe and orderly flight of aircraf
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Promotion path: from airport controller to regional control center supervisor, then to management (such as senior DSNA positions). It can also be expanded into aviation safety or consulting fields.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Promotion path: from airport controller to regional control center supervisor, t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | If coming from a third country, you must be employed by a French air traffic control agency and meet the annual salary threshold (about €53k), but the position is usually recruited internally and rarely open to foreigners. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled professionals, but this profession is preferred by French or EU nationality, making it extremely difficult for foreign applicants to be approved. |
-| Subclass Salarié (Work Residence Permit) | Regular work residency, but employers must prove that suitable candidates cannot be recruited within the EU, resulting in very limited actual channels. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Starting as an airport controller, you can be promoted to regional controller
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/FR)**

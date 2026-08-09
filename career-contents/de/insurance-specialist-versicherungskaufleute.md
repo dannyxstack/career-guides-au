@@ -54,8 +54,6 @@ Insurance specialists in Germany advise, sell and manage insurance products such
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Core tasks of insurance officers (e.g., policy advice, policy processing, compliance checks) are being rapidly replaced by AI chatbots and automation systems, with entry-level positions shrinking significantly; however, senior advisors still have a moat in complex risk analysis and trust-building.
-
 Career progression path is clear: after completing dual vocational training, you can become a customer advisor, team leader, and then advance to department manager or regional manager. Through further training as an insurance specialist (Fachwirt) or obtaining a bachelor's degree (insurance management), you can enter senior management or professional fields like actuarial science.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression path is clear: after completing dual vocational training, you
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Not necessarily. The mainstream path in Germany is completing a 3-year dual v
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-specialist-versicherungskaufleute/DE)**

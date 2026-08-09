@@ -52,8 +52,6 @@ As a theorist, designer, or inventor, research computer and information science 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Typically start as research assistant or junior researcher, can advance to senior researcher, principal scientist, or research director; some transition to academia as professors or into corporate R&D management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as research assistant or junior researcher, can advance to senio
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | For highly educated or outstanding individuals, requires PERM labor certification or National Interest Waiver (NIW) |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applies to researchers with outstanding abilities in scientific fields; no lottery required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a master's or doctoral degree in computer science or a rel
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-and-information-research-scientists/US)**

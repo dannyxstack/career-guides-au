@@ -53,8 +53,6 @@ Responsible for the installation, commissioning, preventive maintenance, and fau
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 You can advance from technician to team leader or maintenance manager, or specialize in automation or CNC systems. After obtaining a BTS or Licence, you can move on to become a maintenance engineer or production manager.
 
 **Tasks most exposed to AI:**
@@ -100,15 +98,9 @@ You can advance from technician to team leader or maintenance manager, or specia
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | Employer sponsorship required, contracts meet France's minimum wage standards, the French Labour Bureau (France Travail) reviews whether the occupation is in short supply, machinery maintenance is in short supply, and the acceptance rate is high. |
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | If you hold a Master's degree or equivalent, or have high skills (such as automation maintenance), you can apply for a Talent Passport, simplifying the process and directly obtaining 4-year residence. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +144,12 @@ A: No specific diploma is required, but BTS or Licence Pro significantly increas
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-mechanical-maintenance-technician/FR)**

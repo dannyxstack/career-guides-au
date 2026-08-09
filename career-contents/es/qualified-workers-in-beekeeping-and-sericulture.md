@@ -4,8 +4,6 @@
 
 Responsible for bee and silkworm breeding, bee product production, silk collection, and pest and disease control, maintaining beehives and silkworm room environments to ensure product quality and output.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for bee and silkworm breeding, bee product production, silk collecti
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Beekeeping and sericulture rely heavily on field operations, organism assessment, and meticulous manual work, making it difficult for AI to fully replace them. However, AI can significantly improve efficiency in monitoring, prediction, and document management, presenting both risks and opportunities.
-
 You can advance from apprenticeship to beekeeper/silkworm farm supervisor, or start your own business. Further studies can lead to agricultural technology consulting, quality control, or research and development.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can advance from apprenticeship to beekeeper/silkworm farm supervisor, or st
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Work residency sponsored by a Spanish employer requires a work contract and meeting minimum wage requirements. |
-| Subclass Cuenta propia (Self-Employment Work Permit) | Suitable for independent entrepreneurship, requiring a business plan and proof of financial capability. |
-| Subclass Ley 14/2013 (Highly Skilled Professional Visa) | Targeted at highly skilled professionals, but this profession usually does not meet the requirements for high technical skills, unless there are management or R&D positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, a diploma related to secondary vocational education (FP Grado Medi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/qualified-workers-in-beekeeping-and-sericulture/ES)**

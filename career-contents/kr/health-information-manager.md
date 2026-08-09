@@ -4,8 +4,6 @@
 
 A professional who systematically manages patient medical records, operates medical information systems, and analyzes data to contribute to improving healthcare quality at medical institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who systematically manages patient medical records, operates medi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI can automate medical record classification or simple coding tasks, comprehensive judgment and communication skills to ensure the accuracy of medical information and patient safety still require humans. Therefore, rather than being fully replaced by AI, it is likely to be used as a tool to improve work efficiency.
-
 Typically, after 2-3 years of practical experience, promotion to team leader or manager level is possible. Career paths include moving to public institutions such as the Health Insurance Review and Assessment Service or public health centers, or becoming a medical information system consultant.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Typically, after 2-3 years of practical experience, promotion to team leader or 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Obtainable if employed as a medical information professional at a domestic medical institution or information system company. Requires degree and experience. |
-| Subclass F-2 (F-2 (Residence)) | After long-term residence, conversion to F-5 (Permanent Residence) is possible, but it is not easy to obtain with this occupation alone. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: Many cases involve building experience at large hospitals and then moving to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-information-manager/KR)**

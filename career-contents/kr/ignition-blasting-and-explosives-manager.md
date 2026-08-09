@@ -4,8 +4,6 @@
 
 A skilled professional responsible for loading and igniting explosives for blasting operations, as well as transporting, storing, and managing explosives.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A skilled professional responsible for loading and igniting explosives for blast
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Although it is an occupation with limited impact from AI and automation, efficiency is being improved through the introduction of software in some tasks such as blast design. Human judgment in ignition and risk management is difficult to replace for the time being.
-
 Beginners start as assistant blasters and can advance to blasting and explosives management positions after obtaining certifications.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Beginners start as assistant blasters and can advance to blasting and explosives
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can work as a blasting/explosives management specialist |
-| Subclass E-9 (Non-professional Employment) | Possible to convert to E-9 for simple mining/civil engineering work or skilled functions |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +128,12 @@ A: Possible with an E-7 visa and professional certification, requiring the Explo
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ignition-blasting-and-explosives-manager/KR)**

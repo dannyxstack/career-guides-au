@@ -1,10 +1,8 @@
 # 职业治疗师（Occupational Therapist）职业分析 · 韩国
 
-**职业代码: 30652 (KECO)**
+**职业代码：30652 (KECO)**
 
-A healthcare professional who helps patients with physical or mental disabilities return to daily life by designing and conducting evaluations and treatment programs.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+帮助身体或精神残疾的患者恢复正常生活的医疗专业人员，通过设计和实施评估与治疗方案。
 
 
 ---
@@ -13,8 +11,8 @@ A healthcare professional who helps patients with physical or mental disabilitie
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (3-year) | 3年 | $15,000,000~$25,000,000（Based on tuition fees） |
-| University (4-year) | 4年 | $20,000,000~$40,000,000（Based on tuition fees） |
+| 社区大学（3年制） | 3年 | $15,000,000~$25,000,000（按学费计算） |
+| 大学（4年制） | 4年 | $20,000,000~$40,000,000（按学费计算） |
 
 ---
 
@@ -22,17 +20,17 @@ A healthcare professional who helps patients with physical or mental disabilitie
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Occupational Therapist National License | Ministry of Health and Welfare | 必备 | Required certification |
-| Specialist Occupational Therapist | Ministry of Health and Welfare | 可选 | Optional, obtainable after experience |
+| 作业治疗师国家执照 | 保健福祉部 | 必备 | 所需认证 |
+| 专科职业治疗师 | 保健福祉部 | 可选 | 可选，需经验后获得 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. Due to aging populations and increasing rehabilitation needs, employment for occupational therapists is expected to remain stable. Jobs in home rehabilitation and nursing facilities outside hospitals are growing.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。由于人口老龄化和康复需求增加，作业治疗师的就业预计将保持稳定。医院以外的家庭康复和护理设施岗位正在增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,91 +38,84 @@ A healthcare professional who helps patients with physical or mental disabilitie
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$36,000,000 | Based on hospitals/rehabilitation centers |
-| Mid-level (4-10 years) | $38,000,000~$50,000,000 | Varies by experience and workplace |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | 经理级别 |
+| 入门级（0-3年） | $30,000,000~$36,000,000 | 基于医院/康复中心 |
+| 中级（4-10年） | $38,000,000~$50,000,000 | 因经验和工场所异 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and robots may be introduced as assessment and exercise aids, but occupational therapy, where patient-tailored intervention and human interaction are key, is difficult to automate. AI will only play a supporting role.
+AI和机器人可能作为评估和锻炼辅助工具引入，但以患者定制干预和人际互动为核心的作业治疗难以自动化。AI仅起辅助作用。
 
-After clinical experience, advancement to center director or specialist occupational therapist (Ministry of Health and Welfare) is possible. Graduate studies open paths to research and education.
+临床经验后，可晋升为中心主任或专科作业治疗师（保健福祉部）。研究生学习为研究和教育开辟道路。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized assessment tool analysis
-- Recording simple exercise programs
+- 标准化评估工具分析
+- 记录简单的锻炼计划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Tailored treatment plans through patient data analysis
-- Exercise therapy using rehabilitation robots
-- Virtual reality cognitive training
+- 通过患者数据分析制定个性化治疗方案
+- 利用康复机器人进行运动治疗
+- 虚拟现实认知训练
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional rapport with patients
-- Designing individualized interventions
-- Evaluating and judging complex disabilities
+- 与患者的情感融洽
+- 设计个性化干预措施
+- 评估和判断复杂残疾情况
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating rehabilitation robots and VR therapy
-- Data-driven assessment analysis
-- Clinical communication
+- 操作康复机器人和虚拟现实治疗
+- 数据驱动的评估分析
+- 临床沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Rehabilitation demand
-- Home-visit Rehabilitation
-- Care Facility
+- 人口老龄化
+- 康复需求
+- 上门康复
+- 护理设施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Visa for foreign occupational therapists to work at domestic nursing facilities. Requires meeting skill/experience criteria. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, long-term stay and work allowed. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find reward in helping others
-- People who are meticulous and patient
-- People interested in medical/rehabilitation fields
+- 乐于助人的人
+- 细致耐心的人
+- 对医疗/康复领域感兴趣的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who struggle with interpersonal relationships
+- 偏好简单重复任务的人
+- 人际关系困难者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for an occupational therapist?**
-答：Entry-level pre-tax about 30-36 million KRW; with experience and institution (hospital/nursing home/center), mid-level 38-50 million KRW, senior 50-70 million KRW.
+**问：职业治疗师的薪资范围是多少？**
+答：入门级税前约3000-3600万韩元；有经验及机构（医院/养老院/中心）从业经历者，中级3800-5000万韩元，高级5000-7000万韩元。
 
-**问：Can foreigners work as occupational therapists in Korea?**
-答：Possible with E-7 (Specific Activities) visa, but requires Korean occupational therapist license and certain experience/education, making it challenging.
+**问：外国人可以在韩国担任职业治疗师吗？**
+答：可获得E-7（特定活动）签证，但需要韩国作业治疗师执照和一定经验/教育，具有挑战性。
 
-**问：What is the career progression for an occupational therapist?**
-答：General therapist → Team head/Center director → Specialist occupational therapist (certified by Ministry of Health and Welfare) or graduate school to become professor/researcher.
+**问：职业治疗师的职业发展路径是什么？**
+答：普通治疗师→团队负责人/中心主任→职业治疗专家（由保健福祉部认证）或攻读研究生成为教授/研究员。
 
 
 ---
@@ -142,12 +133,12 @@ After clinical experience, advancement to center director or specialist occupati
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/occupational-therapist/KR)**

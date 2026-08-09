@@ -51,8 +51,6 @@ Sell products requiring technical or scientific knowledge (e.g., biological, eng
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Can be promoted to sales manager, regional manager, or product specialist. After accumulating client resources, can transition to higher-value sales roles or management. Some practitioners move into technical consulting or market development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted to sales manager, regional manager, or product specialist. After
 | Subclass EB-3 (EB-3 Skilled Workers) | Suitable for bachelor's degree or two years of experience; applies for green card through PERM with long wait times. |
 | Subclass L-1B (L-1B Intracompany Transferee) | Intra-company transfer within a multinational company, must have worked for the company for at least one year in a professional sales role. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires at least an associate degree, but most employers prefer a ba
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representatives-wholesale-and-manufacturing-technical-and-scientific-products/US)**

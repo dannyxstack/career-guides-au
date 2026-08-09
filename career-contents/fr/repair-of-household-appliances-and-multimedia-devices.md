@@ -53,8 +53,6 @@ Responsible for diagnosing, repairing, and maintaining household appliances and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace tasks like diagnostics and remote monitoring, but enhance repair strategies and customer interactions; At the same time, physical operations and complex troubleshooting still rely on humans, with overall impacts mixed.
-
 Junior maintenance workers can be promoted to senior technician, technical supervisor, or start their own repair shop. By obtaining advanced diplomas (such as BTS) or attending manufacturer training, you can specialize in brand repair or smart home systems.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior maintenance workers can be promoted to senior technician, technical super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | Sponsored by a French employer, proof must be provided that EU workers cannot be recruited. Suitable for those with relevant diplomas and work experience. |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talents, if their annual salary exceeds 37,000 euros, they can obtain four-year residency. |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of at least 53,000 euros (2023 standard) is required, suitable for senior maintenance technicians or managers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted to senior technician, technical supervisor, or start your
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/repair-of-household-appliances-and-multimedia-devices/FR)**

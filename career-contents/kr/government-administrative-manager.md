@@ -4,8 +4,6 @@
 
 Senior public official responsible for overall administration including policy formulation, budget planning, and personnel management in central and local governments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Senior public official responsible for overall administration including policy f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI streamlines administrative tasks, reducing workload for managers, but core roles like policy-making and organizational management remain. The number of civil servants may decrease, but the status of management positions is maintained.
-
 Start through 5th-7th grade open recruitment, advance to manager roles via civil service exam and promotion; some move to political appointments or public institution executive positions.
 
 **Tasks most exposed to AI:**
@@ -94,16 +90,9 @@ Start through 5th-7th grade open recruitment, advance to manager roles via civil
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (F-2 (Residence) Visa) | Pre-permanent residency stage, allows regular employment. Usually available when meeting investment or income requirements. |
-| Subclass F-5 (F-5 (Permanent Residence) Visa) | No work restrictions with permanent residency. Public official appointment requires Korean nationality. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Regular civil service positions require Korean nationality, so it is virtuall
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-administrative-manager/KR)**

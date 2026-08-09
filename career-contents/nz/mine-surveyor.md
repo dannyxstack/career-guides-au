@@ -52,8 +52,6 @@ Mine surveyors in New Zealand conduct precise surface and underground surveys, i
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mine surveyors' core tasks of surveying, modeling, and blast marking will be deeply enhanced by AI and automation tools, but the hard constraint of legal liability and the unpredictability of underground on-site work mean the role will not disappear. Entry-level positions may narrow slightly due to lower technical barriers, but skilled surveyors will become more competitive.
-
 Junior mine surveyors can advance to senior surveyor, survey supervisor, or mine planning engineer. Those with skills in data analysis or drone surveying can transition to digital mine management roles. Registration and project management experience are key for advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior mine surveyors can advance to senior surveyor, survey supervisor, or mine
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration; NZ registered surveyor qualification earns 3 points, plus 3 for master's degree or work experience, without long wait. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa as a transitional path, gaining experience then apply for residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Easy. On Green List Tier 1, can directly apply for residence; under Skilled M
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mine-surveyor/NZ)**

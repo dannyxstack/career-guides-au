@@ -4,8 +4,6 @@
 
 Responsible for daily maintenance, minor repairs, and cleaning of buildings, including plumbing and electrical work, painting, and carpentry, ensuring the safe operation of the facility.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for daily maintenance, minor repairs, and cleaning of buildings, inc
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of building maintenance workers involves both manual operations and simple decision-making, which AI cannot fully replace, but intelligent diagnostic and scheduling tools will compress low-end positions while enhancing complex repair capabilities.
-
 Starting as a junior maintenance worker, you can be promoted to maintenance supervisor or facility manager. After obtaining electrician or plumber licenses, you can move into more specialized fields, with significant income increases.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Starting as a junior maintenance worker, you can be promoted to maintenance supe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | You must obtain a work contract from a Spanish employer, and after approval by the Ministry of Labor, you can apply for work residence. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove your financial capability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: It's tough. This occupation is not considered in short supply and does not re
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-maintenance-worker/ES)**

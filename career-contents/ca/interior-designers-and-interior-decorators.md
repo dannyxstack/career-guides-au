@@ -52,8 +52,6 @@ Interior designers and interior decorators plan and beautify indoor spaces, focu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI tools (e.g., generative design, automatic rendering) can greatly enhance concept generation and visualization efficiency, but core creativity, client communication, and regulatory responsibility still depend on human judgment. Entry-level roles narrow due to automation of standard tasks, but senior designers with full project delivery skills become even more scarce.
-
 Junior designers can advance to senior designer, design director, or start their own studio. Need to continuously learn software skills and project management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior designers can advance to senior designer, design director, or start their
 | Subclass PNP (Provincial Nominee Program) | Some provincial nominations include design occupations, requiring employer sponsorship or specific conditions |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer proves unable to hire locally, can obtain work visa then immigrate |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some provinces mandate registration or licensure (e.g., ARIDO membership requ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designers-and-interior-decorators/CA)**

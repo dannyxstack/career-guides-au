@@ -52,8 +52,6 @@ Neurologists are medical specialists who diagnose and treat disorders of the ner
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
-
 Neurologists can progress to department head, academic professor, or clinical research lead after completing specialist training. Senior doctors can also open private clinics or hold hospital administrative positions, with some moving into subspecialties like neurointervention.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Neurologists can progress to department head, academic professor, or clinical re
 | Subclass 186 (Employer Nomination Scheme Visa) | Employer-nominated permanent residency visa, directly or via 482 transitioning to PR. |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Outlook is very good; Australia's aging population and rising incidence of ne
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/neurologist/AU)**

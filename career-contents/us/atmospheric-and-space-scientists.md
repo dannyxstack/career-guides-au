@@ -52,8 +52,6 @@ Research atmospheric phenomena, interpret meteorological data, and prepare forec
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-For atmospheric and space scientists, AI automation will replace data analysis and basic forecasting tasks but enhance complex pattern recognition and decision support. This occupation faces a mixed outlook in the AI era, with increased demand for high-skilled roles and compression of entry-level positions.
-
 Career path: Junior weather analyst/forecaster → Senior meteorologist → Chief meteorologist or research director. Can transition to climate research, disaster warning, environmental consulting, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Junior weather analyst/forecaster → Senior meteorologist → Chie
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to skilled workers, professionals, etc.; requires PERM labor certification |
 | Subclass TN (TN Status (USMCA)) | Applicable to Canadian and Mexican citizens, in professional occupations. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Possible via H-1B work visa or EB-2/EB-3 green card. Requires employer sponso
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/atmospheric-and-space-scientists/US)**

@@ -54,8 +54,6 @@ Responsible for loading and unloading goods, moving furniture and items, accompa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce demand for delivery operators, especially basic loading/unloading and sorting tasks, but coordination with drivers and warehouses still requires human input in the short term.
-
 Typically start as an operator, with potential advancement to senior operator, fleet supervisor, or distribution manager. Some transition to forklift driver or logistics coordinator through training.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Typically start as an operator, with potential advancement to senior operator, f
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to senior operator, fleet supervisor, or logistics manager, or tr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-operatives/UK)**

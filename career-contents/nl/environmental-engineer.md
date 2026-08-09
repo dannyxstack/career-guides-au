@@ -51,8 +51,6 @@ Environmental engineers design, implement, and monitor projects that address env
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face mixed impacts from AI: data monitoring and report generation tasks are easily automated, but complex problem-solving and stakeholder coordination skills are hard to replace. It is recommended to proactively master AI tools and focus on high-value work.
-
 Junior environmental engineers can advance to project manager or specialist, then to department head or independent consultant.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior environmental engineers can advance to project manager or specialist, the
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Visa) | Applicable to employees earning more than €5,008/month (2024 standard), sponsored by employer. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, with an annual salary threshold of approximately €5,900/month (2024). |
-| Subclass Orientation Year (Orientation Year Visa) | After completing a master's or PhD in the Netherlands, you can apply for a 1-year job-seeking visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can progress from entry-level engineer to project manager, then to sustainabi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-engineer/NL)**

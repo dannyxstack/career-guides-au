@@ -53,8 +53,6 @@ Electrical mechanics install, maintain, and repair electric motors, generators, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The outlook for motor mechanics is mixed: AI and automation will gradually take over diagnosis and documentation tasks, but hands-on repairs, non-standard issues, and safety compliance remain a moat. Overall, job content will be reshaped rather than disappear.
-
 Entry-level motor mechanics can start as apprentices, gain experience, and advance to senior technicians or supervisors. Some further study to become electrical engineers or move into project management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level motor mechanics can start as apprentices, gain experience, and advan
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, e.g., Ontario, British Columbia, for skilled trades in demand |
 | Subclass LMIA (Labor Market Impact Assessment) | Employer-sponsored work permit to accumulate Canadian work experience |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Good employment prospects, driven by industrial automation and infrastructure
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-mechanics/CA)**

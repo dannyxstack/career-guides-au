@@ -53,8 +53,6 @@ Biochemists study the chemical processes of organisms, applied in medicine, agri
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
-
 Career path: Start as a junior researcher or lab technician, gain experience to advance to senior scientist, team leader, or move into management, quality control, etc. A PhD makes it easier to enter leadership roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Start as a junior researcher or lab technician, gain experience to 
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After 2 years as a biochemist, you can apply for residency, requiring an accredited employer and an hourly wage at the median (approx. 29.66 NZD). |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa valid for up to 3 years; green list occupations can accelerate residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Bachelor's 3 years, Master's 1-2 years, PhD 3-4 years. International student 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biochemist/NZ)**

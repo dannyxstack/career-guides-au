@@ -52,8 +52,6 @@ Providing tourist information, route planning, ticket booking, and other service
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI's Impact on Tour Guides/Travel Advisors Is Mixed: Standardized Q&A and Booking Tasks Are Easily Automated, but Human-Guided Emotional Interaction, Emergency Response, and Personalized Experiences Remain Core Advantages; Unique Needs of Chinese-Language Markets Can Amplify Strengths.
-
 Can progress from a junior consultant to a senior information officer or team leader; with experience, can transition to roles in tourism marketing, event planning, or destination management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from a junior consultant to a senior information officer or team le
 | Subclass 482 (Temporary Skill Shortage) | Short-term skilled shortage visa, requires employer sponsorship, may lead to 186 |
 | Subclass 190 (Skilled Nominated (Permanent)) | Permanent visa with state sponsorship, requiring nomination; some states open this occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, can advance from frontline consultant to information center supervisor, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tourist-information-officer/AU)**

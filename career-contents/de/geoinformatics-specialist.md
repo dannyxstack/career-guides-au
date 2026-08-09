@@ -53,8 +53,6 @@ Geospatial information specialists are responsible for collecting, processing, a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Geoinformatics expert job prospects are mixed: routine data preprocessing, mapping, report generation are easily automated by AI, but demand for complex spatial analysis, system design, cross-disciplinary collaboration is rising, while entry-level competition intensifies.
-
 Career progression can start from a junior GIS technician, gradually advancing to senior analyst, project manager, or data scientist. You can also specialize in areas like remote sensing expert or geographic database administrator. Those with programming and AI skills can enter high-paying technical positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can start from a junior GIS technician, gradually advancing t
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for applicants with a German-recognized vocational qualification or university degree, no salary threshold required |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers without a job contract to search for work in Germany for 1 year |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires GIS software (e.g., ArcGIS, QGIS), programming (Python, R), database
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geoinformatics-specialist/DE)**

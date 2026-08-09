@@ -54,8 +54,6 @@ Responsible for leading teams in legal advisory, judicial, or public order areas
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 Typically start as legal assistants or lawyers, progress to department heads or court presidents, or switch to senior roles in justice departments or compliance management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as legal assistants or lawyers, progress to department heads or 
 | Subclass EU Blue Card (EU Blue Card) | Applicable to foreign executives with at least five years of relevant work experience or a master's degree, with an annual salary threshold of approximately €56,400 (2024) |
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to recognised legal professionals, requires a matching job contract, no hard annual salary requirement |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, but you must pass the German state examination or obtain qualification r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-legal-counseling-jurisdiction-and-order/DE)**

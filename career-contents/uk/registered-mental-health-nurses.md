@@ -52,8 +52,6 @@ Provide care and support to patients with various mental health conditions in in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Can progress from registered nurse to senior nurse, clinical specialist, nurse consultant, or nursing management, or move into psychotherapy or education.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from registered nurse to senior nurse, clinical specialist, nurse c
 | Subclass Skilled Worker (Skilled Worker visa) | If not under the Health & Care pathway, can be sponsored via this visa, subject to general requirements. |
 | Subclass Graduate (Graduate visa) | After completing UK bachelor's or master's, can work in the UK for 2 years, gaining experience |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must pass NMC CBT and OSCE exams, meet English requirements, and complete ada
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-mental-health-nurses/UK)**

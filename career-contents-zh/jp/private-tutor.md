@@ -1,8 +1,8 @@
-# Private Tutor 职业分析 · 日本
+# 私人教师（Private Tutor）职业分析 · 日本
 
-**职业代码: 244 (JSCO)**
+**职业代码：244 (JSCO)**
 
-A profession teaching specialized skills (piano, English conversation, calligraphy, etc.) to individuals or small groups. Features personalized instruction tailored to student levels.
+向个人或小团体教授专业技能（钢琴、英语会话、书法等）的职业。特点是根据学生水平提供个性化指导。
 
 
 ---
@@ -11,8 +11,8 @@ A profession teaching specialized skills (piano, English conversation, calligrap
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (music, language, etc.) | 2 年 | $1,000,000~$3,000,000（Public vocational schools are cheaper than private ones） |
-| University (education, arts, etc.) | 4年 | $2,500,000~$5,000,000（Private universities can be expensive） |
+| 职业培训学校（音乐、语言等） | 2 年 | $1,000,000~$3,000,000（公立职业学校比私立学校便宜） |
+| 大学（教育、艺术等） | 4年 | $2,500,000~$5,000,000（私立大学可能很贵） |
 
 ---
 
@@ -20,18 +20,18 @@ A profession teaching specialized skills (piano, English conversation, calligrap
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Teaching license (preschool, elementary, junior high, high school) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Based on School Education Law. Not mandatory for private tutors but boosts credibility. |
-| EIKEN Grade 1 (Practical English Proficiency Test) | The Eiken Foundation of Japan | 可选 | Useful as proof of English proficiency for conversation instructors. |
-| Music teacher qualification (Yamaha, etc.) | Each music school operating body | 可选 | Required to teach specific curricula. |
+| 教师资格证（幼儿园、小学、初中、高中） | 文部科学省 | 可选 | 依据学校教育法。非强制要求，但私人辅导教师持有可增加可信度。 |
+| 实用英语技能鉴定 1 级 | 日本英检基金会 | 可选 | 可作为会话讲师英语能力的证明。 |
+| 音乐教师资质（雅马哈等） | 各音乐学校运营机构 | 可选 | 需要教授特定课程。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 90,000. The number of children is declining due to the falling birthrate, but demand for qualifications, hobbies, and self-improvement remains steady. The elderly's desire to learn also supports the field.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 90,000。由于出生率下降，儿童数量减少，但对资格认证、爱好和自我提升的需求保持稳定。老年人的学习意愿也支撑了该领域。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,95 +39,89 @@ A profession teaching specialized skills (piano, English conversation, calligrap
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $2,500,000~$4,000,000 | May be part-time or adjunct-like. |
-| Intermediate (3–10 years) | $3,500,000~$6,000,000 | Varies greatly by number of clients and lesson rates. |
-| Advanced (10+ years) | $5,000,000~$10,000,000 | Popular instructors or classroom owners can earn high income. |
+| Beginner (0–3 years) | $2,500,000~$4,000,000 | 可能为兼职或类似兼职形式。 |
+| 中级（3-10年） | $3,500,000~$6,000,000 | 根据客户数量和课程费用差异很大。 |
+| 高级（10年以上） | $5,000,000~$10,000,000 | 受欢迎的讲师或教室所有者可获得高收入。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI will enhance its auxiliary role in creating teaching materials, learning management, and online platforms, but human strengths remain in face-to-face detailed guidance and motivation management. Simple repetitive drills and basic knowledge transfer are easily replaceable by AI.
+AI将增强其在教材制作、学习管理和在线平台方面的辅助作用，但人类的优势仍在于面对面详细指导和动机管理。简单的重复性练习和基础知识传授容易被AI取代。
 
-Many are self-employed. Income improves with experience and growing client base. Possible to open a classroom or shift to online teaching.
+许多人是自雇人士。收入随经验和客户群增长而提高。可能开设教室或转为在线教学。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic grammar explanations
-- Automated vocabulary tests
-- Answering simple questions
-- Managing repetitive drills
+- 基础语法解释
+- 自动词汇测试
+- 回答简单问题
+- 管理重复性训练
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Visualizing individual learning progress
-- Creating student weakness analysis reports
-- Customizing online materials
-- Pronunciation guidance support tools
+- 可视化个人学习进度
+- 制作学生弱点分析报告
+- 定制在线材料
+- 发音指导支持工具
 
-**人类护城河:**
+**人类护城河：**
 
-- Building face-to-face trust relationships
-- Providing psychological support to students
-- Flexibility in impromptu instruction
-- Utilizing non-verbal communication
+- 建立面对面信任关系
+- 为学生提供心理支持
+- 即兴教学的灵活性
+- 利用非语言沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Using AI tools
-- Designing individual curricula
-- Coaching skills
-- Online class management ability
+- 使用人工智能工具
+- 设计个性化课程
+- 辅导技能
+- 在线班级管理能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online instruction
-- Qualification support
-- Lessons for seniors
-- Early childhood education
+- 在线教学
+- 资格支持
+- 老年人课程
+- 幼儿教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible if teaching requires specialized knowledge in language/arts. Employment contract required. |
-| Subclass 特定活動（ワーキングホリデーなど） (Designated Activities) | Limited period/work restrictions. Not typical for private tutors. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy teaching others
-- People with deep knowledge/skills in a specific field
-- People who can manage time flexibly
+- 喜欢教导他人的人
+- 在特定领域拥有深厚知识/技能的人
+- 能灵活管理时间的人
 
 **谁不适合**
-- People who prioritize income stability
-- People who prefer working in organizations
+- 优先考虑收入稳定的人
+- 偏好组织内工作的人群
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a private tutor?**
-答：Varies greatly by experience and subjects: beginner ¥2.5-4M, intermediate ¥3.5-6M, advanced ¥5-10M. For sole proprietors, income is after expenses.
+**问：私人导师平均年收入是多少？**
+答：根据经验和科目差异很大：初级250-400万日元，中级350-600万日元，高级500-1000万日元。对于个体经营者，收入为扣除支出后。
 
-**问：Can foreigners work as private tutors in Japan?**
-答：Yes, but requires residence status of Engineer/Specialist in Humanities/International Services, with sufficient teaching experience or an employment contract requiring specialized knowledge. Occasional part-time work is often not permitted.
+**问：外国人可以在日本做私人教师吗？**
+答：可以，但需要拥有工程/人文/国际服务领域的在留资格，并具备足够的教学经验或需要专业知识的雇佣合同。偶尔的兼职工作通常不被允许。
 
-**问：Are there any required certifications to become a private tutor?**
-答：No legally required qualifications. However, having a teaching license or various certifications increases credibility and helps attract students. Qualifications may be required especially when working at schools or large educational institutions.
+**问：成为私人家教需要哪些认证？**
+答：无法律要求的资格。然而，持有教学执照或各种证书可增加可信度并帮助吸引学生。尤其在公立学校或大型教育机构工作时可能需要资质。
 
 
 ---
@@ -145,12 +139,12 @@ Many are self-employed. Income improves with experience and growing client base.
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/private-tutor/JP)**

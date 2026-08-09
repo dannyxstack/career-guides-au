@@ -54,8 +54,6 @@ Other music teachers include private music teachers, community music educators, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Other music teacher roles present mixed prospects: automation will replace basic music theory and accompaniment tasks, but personalized teaching and emotional connection remain human advantages.
-
 Junior private tutors can increase fees after building a student reputation; some tutors become full-time lecturers in music schools; a few may develop into music studio directors or exam graders.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior private tutors can increase fees after building a student reputation; som
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: No mandatory requirements for private teachers, but a bachelor's degree in mu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-music-teacher/IE)**

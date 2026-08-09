@@ -57,8 +57,6 @@ Barbers provide haircuts, colouring, styling and hair care services; beauty ther
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdressers/beauticians are in skill shortage in Australia; AI poses a substitution threat to backend tasks like dye formulation and appointment management, but core manual operations and personalized communication are hard to automate. Meanwhile, AI-assisted hairdressing design, virtual try-ons, and client management tools can enhance efficiency. Overall, it's a mixed outlook; practitioners need to proactively embrace AI tools to stay competitive.
-
 The Australian hair and beauty industry has polarised in recent years: large budget salon chains (Supercuts / Just Cuts) at one end, and premium specialist salons (boutique stylists / advanced colouring) at the other. The aesthetic medicine market — laser and IPL treatments — and anti-ageing beauty treatments are growing rapidly. Starting your own salon (relatively low start-up cost of around $30k–$80k) is a common and proven path to success.
 
 **Tasks most exposed to AI:**
@@ -115,9 +113,7 @@ The Australian hair and beauty industry has polarised in recent years: large bud
 | Subclass 190 (Skilled Nominated) | State nomination (NSW/VIC/SA and others actively nominating) |
 | Subclass 491 (Skilled Work Regional) | Severe shortage of barbers/beauticians in regional and remote areas |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Hairdresser ($65k~$85k) and beautician ($68k~$90k) have similar salaries, but
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser-beauty-therapist/AU)**

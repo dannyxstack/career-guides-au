@@ -1,10 +1,8 @@
 # 牙科技师（Dental Technician）职业分析 · 日本
 
-**职业代码: 147 (JSCO)**
+**职业代码：147 (JSCO)**
 
-Dental technicians fabricate dentures, crowns, and other dental prosthetics under dentists' prescriptions, combining precision handwork with cutting-edge digital technology.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+牙科技师根据牙医处方制作假牙、牙冠等牙科修复体，结合精密手工与前沿数字技术。
 
 
 ---
@@ -13,8 +11,8 @@ Dental technicians fabricate dentures, crowns, and other dental prosthetics unde
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Dental Technician Training School (vocational college or university) | 2 年 | $2,000,000~$4,000,000（Tuition varies by institution） |
-| National Examination for Dental Technicians | Not required (exam only) | $20,000~$50,000（Examination fees） |
+| 牙科技师培训学校（职业学院或大学） | 2 年 | $2,000,000~$4,000,000（学费因机构而异） |
+| 国家牙科技师考试 | 无需（仅考试） | $20,000~$50,000（考试费用） |
 
 ---
 
@@ -22,17 +20,17 @@ Dental technicians fabricate dentures, crowns, and other dental prosthetics unde
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dental Technician License | Ministry of Health, Labour and Welfare | 必备 | National qualification, mandatory |
-| Digital Technology Certification System | Japan Dental Technicians Association | 可选 | Optional, validates CAD/CAM skills |
+| 牙科技师执照 | 厚生劳动省 | 必备 | 国家资格证书，强制性 |
+| 数字技术认证体系 | 日本齿科技工士会 | 可选 | 可选，验证CAD/CAM技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 34,000. Demand remains stable due to aging-related dental needs, but job opportunities are slightly declining as fewer labs operate and CAD/CAM technology spreads.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 34,000。由于老龄化相关的牙科需求，需求保持稳定，但随着实验室运营减少和CAD/CAM技术普及，就业机会略有下降。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,90 +38,83 @@ Dental technicians fabricate dentures, crowns, and other dental prosthetics unde
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $2,800,000~$3,500,000 | Lab employee, annual salary example |
-| Intermediate (3–10 years) | $3,500,000~$5,000,000 | Varies by experience and skills |
-| 资深（10年以上） | $5,000,000~$7,000,000 | Higher as manager or independent |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 实验室员工，年薪示例 |
+| 中级（3-10年） | $3,500,000~$5,000,000 | 因经验和技能而异 |
+| 资深（10年以上） | $5,000,000~$7,000,000 | 经理或独立职位更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-While AI and CAD/CAM technologies are automating simple prosthesis fabrication, human skill remains crucial for complex cases, individual customization, and final adjustments. Complete replacement is difficult; instead, digital technology is used to improve efficiency and precision.
+虽然AI和CAD/CAM技术正在自动化简单的假体制造，但人类技能对于复杂病例、个性化定制和最终调整仍然至关重要。完全替代很困难；相反，数字技术用于提高效率和精度。
 
-After training at a lab, you can open your own practice or contract directly with clinics. Specializing in digital or implant technology boosts career prospects.
+在实验室培训后，可开设自己的诊所或直接与诊所签约。专攻数字化或种植牙技术可提升职业前景。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple crown fabrication such as full crowns
-- Some steps in lost-wax casting
-- Repetitive model-making tasks
+- 简单冠桥制作，如全冠
+- 失蜡铸造中的某些步骤
+- 重复性模型制作任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- CAD/CAM design and fabrication
-- Model fabrication using 3D printers
-- Operation of digital scanners
+- CAD/CAM设计与制造
+- 使用3D打印机制作模型
+- 数字扫描仪操作
 
-**人类护城河:**
+**人类护城河：**
 
-- Fine adjustments and accommodation of individual differences
-- Legal qualifications and responsibilities of dental technicians
-- Craftsmanship based on the feel of the patient's oral cavity
+- 精细调整及个体差异适应
+- 牙科技师的法律资格与职责
+- 基于患者口腔感觉的技艺
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CAD/CAM operation skills
-- Digital denture design
-- Knowledge of materials science
-- Communication skills
+- CAD/CAM操作技能
+- 数字化假牙设计
+- 材料科学知识
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital dental technology
+- 数字牙科技术
 - CAD/CAM
-- Implant dental technology
-- Geriatric dentistry
+- 种植牙技术
+- 老年牙科
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for work requiring dental technician knowledge/skills; requires certain academic background and experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (excluding caregiving)) | Currently, dental technicians are excluded, but may be added in the future. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are dexterous and enjoy detailed work
-- People who want to pursue mastery of a skill
-- People who want to help others
+- 手巧且喜欢细致工作的人
+- 希望精通一门技能的人
+- 愿意帮助他人者
 
 **谁不适合**
-- People who like talking to others and prioritize customer service
+- 喜欢与人交流并重视客户服务的人
 - 厌恶单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a dental technician?**
-答：The average annual income is about 4 million yen. It ranges from 2.5 to 7 million yen depending on experience, specialization, and workplace. Self-employment can lead to higher income.
+**问：牙科技师的平均年收入是多少？**
+答：平均年收入约400万日元。根据经验、专业领域和工作场所，范围在250至700万日元之间。自主创业可获更高收入。
 
-**问：How can a foreigner work as a dental technician in Japan?**
-答：A national dental technician license is required. Japanese proficiency (JLPT N2 or higher recommended) and either study at a training school or practical experience (10+ years for Engineer/Specialist in Humanities/International Services visa) are necessary. Specified Skilled Worker visa is currently excluded, but the Engineer/Specialist visa allows employment.
+**问：外国人如何在日本成为牙科技师？**
+答：需要国家牙科技师执照。建议日语能力N2以上，并需在培训学校学习或具有实践经验（申请工程师/人文国际服务签证需10年以上经验）。特定技能签证目前不适用，但工程师/专家签证允许就业。
 
 
 ---
@@ -141,12 +132,12 @@ After training at a lab, you can open your own practice or contract directly wit
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dental-technician/JP)**

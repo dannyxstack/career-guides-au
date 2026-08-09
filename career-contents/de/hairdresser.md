@@ -54,8 +54,6 @@ Hairdressers provide services such as haircuts, coloring, styling, and scalp car
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hairdressers and beauticians' personalized services and manual skills are less affected by AI, but AI tools can enhance consultation, recommendation, and marketing; entry-level competition is moderate due to online booking and tool prevalence.
-
 Start as an apprentice and can advance to senior hairdresser or salon manager. Through continuing education (e.g., master hairdresser training), you can open your own salon or transition to a product consultant, trainer.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an apprentice and can advance to senior hairdresser or salon manager. T
 | Subclass Chancenkarte (Opportunity Card) | Points-based job seeker visa to come to Germany for training or employment opportunities. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany for job seeking, but requires proof of qualifications and financial means. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a qualification recognition process (Anerkennung) to confirm foreign
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/DE)**

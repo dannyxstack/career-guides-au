@@ -53,8 +53,6 @@ Responsible for supervising the animal care team, managing daily operations of z
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate administrative scheduling and documentation, but animal care decisions and team management still require human judgment, with overall risks and opportunities coexisting.
-
 Can progress from animal caretaker to team supervisor, then to facility manager or regional director, with some opportunities in animal protection organization management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from animal caretaker to team supervisor, then to facility manager 
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | After obtaining qualification certification, a work visa can be secured |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking, suitable for applicants who do not need immediate sponsorship |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Progress from Animal Care Attendant to Team Leader, then to Facility Manager,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-animal-care/DE)**

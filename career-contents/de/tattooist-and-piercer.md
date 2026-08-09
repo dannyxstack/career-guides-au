@@ -53,8 +53,6 @@ Tattooists and piercers perform skin art, including tattoo design and body pierc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed impact on tattoo and piercing artists: design generation and client communication can be AI-assisted, but core manual operations, hygiene safety, and interpersonal trust are hard to replace. Entry-level jobs may shrink due to online design tools, but high-skilled custom demand remains strong.
-
 Limited career advancement pathways, mostly self-employed or running a studio. Can increase visibility by building a personal brand and attending international exhibitions; a few transition to training or equipment sales.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Limited career advancement pathways, mostly self-employed or running a studio. C
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Must obtain a local health permit and complete relevant training. In addition
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tattooist-and-piercer/DE)**

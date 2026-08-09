@@ -4,8 +4,6 @@
 
 An instructor who teaches arts fields such as dance, music, and acting, and works at academies, cultural centers, and schools.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ An instructor who teaches arts fields such as dance, music, and acting, and work
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI is unlikely to fully replace arts education, AI-based tools (auto-grading, personalized learning) are being introduced, changing the role of instructors. Creativity and human interaction remain crucial, but some theory classes may be replaced.
-
 After gaining experience, one can pursue personal creative work, transition to freelance, or establish an academy. Public institution instructor hiring is also on the rise.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ After gaining experience, one can pursue personal creative work, transition to f
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as professional art instructor; general entertainment instructors may not qualify |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, free to work as instructor |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans permitted to work as instructors, can be hired by academies |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Options include building experience as a freelancer, applying for public inst
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arts-instructor/KR)**

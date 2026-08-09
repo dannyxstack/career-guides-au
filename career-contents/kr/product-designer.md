@@ -4,8 +4,6 @@
 
 A professional who designs the appearance, functionality, and usability of various products including consumer electronics, furniture, and household items, using 3D modeling and rendering to develop innovative products.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who designs the appearance, functionality, and usability of vario
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI assists product designers with repetitive 3D modeling tasks and rendering optimization, but creative concept design and insights into user experience remain human domains. While design automation tools have increased productivity, planning and emotional design are difficult to replace with AI.
-
 Typically gain experience in design teams at small-to-medium enterprises or specialized design studios, and can advance to senior designer, design team lead, or freelancer based on portfolio and project performance.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Typically gain experience in design teams at small-to-medium enterprises or spec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For foreign professionals in specialized fields; requires design-related degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Point-based system, long-term residents eligible, design experience recognized |
-| Subclass D-10 (Job seeking) | For design graduates, 6 months to 2 years job-seeking allowed |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +129,12 @@ A: E-7 (Specific Activities) visa is typical, requiring design degree and experi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-designer/KR)**

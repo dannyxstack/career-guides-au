@@ -52,8 +52,6 @@ A farrier is responsible for the care of horses' hooves and the forging and fitt
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core manual skills of a farrier are hard to replace by AI in the short term, but AI will improve efficiency in hoof health monitoring, shoe design optimization, and remote consultation; entry-level positions are slightly narrowing due to increased technical requirements
-
 After completing dual vocational training, you can advance from assistant to professional farrier; after gaining experience, you can pass the master exam to become a Meister, then open your own farriery or engage in training and teaching.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ After completing dual vocational training, you can advance from assistant to pro
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows applicants without a specific job offer to enter the country to seek work, requiring proof of relevant qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to enter the country for 6 months to seek employment, requiring vocational education qualifications or credential recognition. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: After completing dual training, become a certified farrier, then can obtain a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farrier/DE)**

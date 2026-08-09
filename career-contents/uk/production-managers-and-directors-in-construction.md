@@ -52,8 +52,6 @@ Construction production managers and site managers coordinate resources for civi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Coordination and monitoring tasks for construction production managers and directors will be gradually replaced by AI, but on-site decision-making and safety management cannot be fully automated, posing a medium-high overall risk.
-
 Typically start as project managers or engineers, then advance to senior project manager, regional director, or even board membership. Continuous learning and professional certifications (e.g., Chartered Manager) support career progression.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as project managers or engineers, then advance to senior project
 | Subclass Scale-up (Scale-up Visa) | For skilled workers in fast-growing UK businesses, applicable to the construction industry |
 | Subclass Graduate (Graduate Visa) | Allows UK graduates to work or seek work in the UK for 2-3 years |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, typically advancing from project manager to senior manager, regional man
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-managers-and-directors-in-construction/UK)**

@@ -52,8 +52,6 @@ Responsible for diagnosing, repairing and maintaining household and commercial e
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation has mixed impact on motor vehicle electronic equipment installers and repairers: diagnostic and configuration tasks can be AI-enhanced, but physical installation and complex troubleshooting still rely on humans; entry-level positions narrow due to standardized diagnostic tools, but demand for advanced repairs increases.
-
 Start as an apprentice or junior maintenance technician, gain experience, then advance to senior technician, team leader, or open your own repair shop. Continuous learning of new technologies is key.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Start as an apprentice or junior maintenance technician, gain experience, then a
 | Subclass PNP (Provincial Nominee Program) | Some provinces list electronic repair technicians as an occupation in shortage, providing provincial nomination points |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for applicants who already have a job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Can apply through Federal Skilled Worker or Provincial Nominee programs; some
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-service-technicians-household-and-business-equipment/CA)**

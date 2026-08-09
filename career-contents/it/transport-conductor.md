@@ -4,8 +4,6 @@
 
 Responsible for ticket inspection, passenger services, and safety on trains to ensure smooth journeys.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for ticket inspection, passenger services, and safety on trains to e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of train attendants (ticket inspection, passenger service, safety patrols) can be partially automated, but interpersonal service, emergency handling, and regulatory compliance gain value through AI enhancement, making the overall role a mixed blessing.
-
 Can be promoted to train conductor or station management staff, requiring experience and passing internal assessments.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Can be promoted to train conductor or station management staff, requiring experi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens, requires a university degree and higher salary; this occupation usually does not meet the criteria. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Seasonal or low-skilled jobs requiring employer sponsorship and annual quota application. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Yes, but requires employer sponsorship under the Decreto Flussi work visa quo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-conductor/IT)**

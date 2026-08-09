@@ -51,8 +51,6 @@ Representing clients such as artists and athletes in contract negotiations, mana
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Broker work will be augmented by AI, not replaced: tasks like contract analysis, market matching, and data-driven negotiation strategies are efficiently handled by AI, freeing up human focus on relationship maintenance and creative decisions.
-
 You can start as an assistant broker, accumulate client resources, and then advance to independent brokerage or start a brokerage company. It can also be expanded into related fields such as event planning and marketing.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can start as an assistant broker, accumulate client resources, and then adva
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work residence) | Sponsored by Spanish employers, applicable to agents employed by agencies or sports clubs. A work contract must be provided. |
-| Subclass Altamente cualificad (Highly skilled professionals (Ley 14/2013)) | Applicable to high-income or high-education agents, can quickly obtain residency. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-paying positions that meet the income threshold (about 33,600 euros/year). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Bachelor's degrees in business, sports management, or media are advantageous,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-and-sports-representatives-and-other-commercial-services-agents/ES)**

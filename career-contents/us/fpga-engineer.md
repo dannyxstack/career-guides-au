@@ -51,8 +51,6 @@ FPGA engineers use Verilog/VHDL to implement high-performance digital circuits o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's demand for FPGA engineers is amplifying: automated design tools lower the development threshold, but the demand for high performance and customization grows, the total number of jobs may increase, and skill requirements will rise, so they won't be directly replaced.
-
 The US focuses on AI accelerators and low-power/simulation design, with engineers skilled in RTL, timing, and layout in a scarce position; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ The US focuses on AI accelerators and low-power/simulation design, with engineer
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3: Employer-Sponsored Employment-Based Immigration (including PERM Labor Certification) |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW: National Interest Waiver for Self-Applied Green Cards |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes, it's classed as a shortage engineering occupation, eligible for US skill
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fpga-engineer/US)**

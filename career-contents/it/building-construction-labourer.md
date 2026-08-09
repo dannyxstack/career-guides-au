@@ -4,8 +4,6 @@
 
 Construction workers perform manual labour on Italian construction sites, including carrying materials, digging, cleaning, and assisting skilled workers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Construction workers perform manual labour on Italian construction sites, includ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Physically demanding, repetitive tasks for construction workers (e.g., carrying, digging) will be greatly reduced by automated construction equipment (e.g., automatic bricklaying robots, drone inspections). Demand for entry-level positions will shrink, but technical maintenance jobs will increase.
-
 Can advance to skilled trades (e.g., bricklayer, carpenter) or foreman, requiring experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can advance to skilled trades (e.g., bricklayer, carpenter) or foreman, requirin
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Apply for a non-technical work visa through annual quota, requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Generally not applicable to construction workers due to the high salary threshold. |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Short-term seasonal construction work, valid for up to 9 months. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, through accumulating experience and obtaining skill certifications you c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-labourer/IT)**

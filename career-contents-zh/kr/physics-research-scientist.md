@@ -1,8 +1,8 @@
-# Physics Research Scientist 职业分析 · 韩国
+# 物理研究科学家（Physics Research Scientist）职业分析 · 韩国
 
-**职业代码: 12111 (KECO)**
+**职业代码：12111 (KECO)**
 
-A professional researcher who studies physics principles to develop new theories or create applied technologies.
+研究物理原理以开发新理论或创造应用技术的专业研究员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional researcher who studies physics principles to develop new theories
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Physics | 4年 | $20,000,000~$40,000,000（National/public university tuition fees） |
-| Master's in Physics | 2 年 | $10,000,000~$20,000,000（Without scholarship） |
-| Doctorate in Physics | 3年 | $10,000,000~$20,000,000（Research assistant professor salary, etc.） |
+| 物理学学士 | 4年 | $20,000,000~$40,000,000（国立/公立大学学费） |
+| 物理学硕士 | 2 年 | $10,000,000~$20,000,000（无奖学金） |
+| 物理学博士 | 3年 | $10,000,000~$20,000,000（研究助理教授薪资等） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional researcher who studies physics principles to develop new theories
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Degree in Physics | University/Graduate School | 必备 | Master's or higher preferred |
-| Research & Development related certifications | National Research Foundation of Korea, etc. | 可选 | 可选 |
+| 物理学学位 | 大学/研究生院 | 必备 | 硕士或以上学历优先 |
+| 研发相关认证 | 韩国国家研究基金会等 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 4,500. Demand for physics-based research persists due to the 4th Industrial Revolution and advanced technology development, but is affected by government R&D budget fluctuations.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 4,500。第四工业革命和先进技术发展使基于物理学的研究需求持续存在，但受政府研发预算波动影响。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A professional researcher who studies physics principles to develop new theories
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Based on master's graduates |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Doctorate and experienced |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Principal researcher level |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 基于硕士毕业生 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 博士学历且有经验 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 首席研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI advances data analysis and simulation in physics research, but core theory creation remains the role of human researchers.
+AI推进物理研究中的数据分析与模拟，但核心理论创造仍是人类研究者的职责。
 
-After earning a master's or doctorate, researchers enter labs, national/public research institutes, or corporate R&D centers, advancing to principal researcher with experience.
+获得硕士或博士学位后，研究人员进入实验室、国家/公共研究机构或企业研发中心，随经验晋升至首席研究员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic data collection and organization
-- Simple simulation execution
+- 基础数据收集与整理
+- 简单仿真执行
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data analysis
-- Complex simulation design
-- Interpretation of experimental results
+- 数据分析
+- 复杂仿真设计
+- 实验结果解读
 
-**人类护城河:**
+**人类护城河：**
 
-- Original hypothesis formulation
-- Interdisciplinary convergence research
-- Research direction determination
+- 原始假设制定
+- 跨学科融合研究
+- 研究方向确定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI/machine learning tools
-- Advanced statistical analysis
-- Programming (Python, C++)
+- AI/机器学习工具的使用
+- 高级统计分析
+- 编程（Python, C++）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Quantum computing research
-- Nanotechnology development
-- Energy new materials research
-- Radiation/nuclear safety
+- 量子计算研究
+- 纳米技术发展
+- 能源新材料研究
+- 辐射/核安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professional research activities at research institutions |
-| Subclass D-10 (Job Seeking) | Used for job seeking after graduating with a master's or doctoral degree |
-| Subclass F-2 (Residence) | Possible to convert to permanent residence after long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those Strong in Math and Physics
-- Those Patient with Long-term Research
-- Those with Excellent Logical Analysis Skills
+- 数学和物理强项者
+- 那些耐心从事长期研究的人
+- 逻辑分析能力强的人
 
 **谁不适合**
-- Those Seeking Short-term Results
-- Those Not Interested in Repeated Experiments
+- 追求短期结果的人
+- 对重复实验不感兴趣者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a physics researcher?**
-答：Approximately 35-45 million KRW for master's, 40-50 million KRW for doctoral level.
+**问：物理学研究员的起薪是多少？**
+答：硕士约3500-4500万韩元，博士约4000-5000万韩元
 
-**问：What visa does a foreigner need to work as a physics researcher?**
-答：An E-7 (Specific Activities) visa is common, and invitation from a research institution is required.
+**问：外国人作为物理研究员工作需要什么签证？**
+答：E-7（特定活动）签证常见，需研究机构邀请。
 
-**问：What should I do to get promoted to physics researcher?**
-答：A doctoral degree and research achievements are important; to be promoted to principal investigator, over 10 years of experience and publication records are needed.
+**问：如何晋升为物理研究员？**
+答：博士学位和研究成果很重要；要晋升为首席研究员，需要10年以上经验和发表记录。
 
 
 ---
@@ -141,12 +134,12 @@ After earning a master's or doctorate, researchers enter labs, national/public r
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/physics-research-scientist/KR)**

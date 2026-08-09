@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing air conditioning, refrige
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for air conditioning refrigeration mechanics will have mixed impacts from AI: diagnostics and scheduling may be enhanced by AI, but on-site operations and compliance work are harder to replace. Overall risk is moderate.
-
 Can advance from tradesperson to team leader or self-employed contractor, or study further to become an energy efficiency expert.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can advance from tradesperson to team leader or self-employed contractor, or stu
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requires a work contract and salary not lower than the Italian average (approx. €30,000), but this occupation usually does not meet the high-skilled threshold. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers; requires employer to apply for a quota, which is limited and highly competitive. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | Suitable for technicians looking to start an air conditioning repair business in Italy, requiring a business plan and proof of financial capacity. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Steady demand growth with green building and heat pump adoption; can advance 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-conditioning-and-refrigeration-mechanic/IT)**

@@ -53,8 +53,6 @@ Office supervisors oversee administrative staff, coordinate office processes, ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Office supervisors will be partially replaced by AI for tasks like schedule coordination and report generation, but human supervision, complex decision-making, and emergency handling skills will become more valuable. Overall demand for this role will remain stable.
-
 Typically promoted from administrative assistant, can progress to operations manager, office manager, or project management roles, requiring management experience and communication skills.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically promoted from administrative assistant, can progress to operations man
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically requires a General Employment Permit with an annual salary of €30
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-supervisor/IE)**

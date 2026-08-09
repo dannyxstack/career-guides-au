@@ -52,8 +52,6 @@ Mining supervisors oversee mining operations, ensure safe and efficient extracti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will enhance planning and monitoring efficiency for mining supervisors, but automated equipment and remote control centers may reduce traditional supervisory roles; entry requires digital skills.
-
 Miners or technicians can advance to supervisor, then to mine manager or regional operations director. Obtaining professional certifications (e.g., safety manager) aids career development.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Miners or technicians can advance to supervisor, then to mine manager or regiona
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, annual salary must meet threshold (approx. EUR 25,000). Mining supervisor qualifies, must have employment contract. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU worker applications, but mining supervisor positions may not count against the quota; employers need to prove that no local candidate can be found. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit applied for by the employer; can work in Italy upon approval. For non-EU citizens; processing takes approximately 2-4 months. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Eligible via EU Blue Card (requires annual salary above threshold) or Decreto
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-supervisor/IT)**

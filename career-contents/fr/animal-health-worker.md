@@ -4,8 +4,6 @@
 
 Animal health workers are responsible for preventing, diagnosing, and treating animal diseases, including veterinary assistants, animal health inspectors, and working on farms, pet hospitals, and laboratories.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Animal health workers are responsible for preventing, diagnosing, and treating a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Animal health workers will experience mixed effects from AI: routine diagnostics, data recording, and monitoring tasks are facing automation, but clinical skills, client communication, and emergency response still depend on humans; AI can enhance remote monitoring, knowledge retrieval, and preventive medicine, but it will not fully replace veterinary judgment and emotional interaction.
-
 Career development paths: Start as a veterinary assistant or animal health technician, and through continuing education can be promoted to veterinarian or animal health manager, or move into animal nutrition or pharmaceuticals.
 
 **Tasks most exposed to AI:**
@@ -104,18 +100,9 @@ Career development paths: Start as a veterinary assistant or animal health techn
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled professionals, such as veterinarians, salary and education requirements must be met |
-| Subclass Salarié (Salaried Worker) | Employed by a French employer, work permit required, suitable for technician positions |
-| Subclass Carte bleue UE (EU Blue Card) | For highly educated, high-paying positions, suitable for veterinarians, with an annual salary of about 53,000 euros |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply for a 12-month job search |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -159,12 +146,12 @@ A: Starting as a technician or assistant, you can be promoted to veterinarian, v
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-health-worker/FR)**

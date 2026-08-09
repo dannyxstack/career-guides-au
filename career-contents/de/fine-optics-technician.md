@@ -53,8 +53,6 @@ Precision optical technicians manufacture, assemble and debug high-precision opt
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Certain tasks of precision optical technicians (such as optical design calculations, defect detection) can be automated by AI, but high-precision manual polishing, system assembly and debugging rely on experience and dexterity, making them difficult to replace by machines. Need to proactively learn AI-assisted tools to improve efficiency.
-
 Career progression: starting as a precision optics technician (Geselle), you can advance to master craftsman (Meister) or technician (Techniker), or transition to optical design or application engineering through further training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression: starting as a precision optics technician (Geselle), you can
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled workers with recognized German qualifications, requiring employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job seeker visa for applicants with skills and language ability |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Must complete German dual vocational training and obtain the IHK certificate;
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fine-optics-technician/DE)**

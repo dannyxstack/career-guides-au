@@ -52,8 +52,6 @@ Fashion designers in Canada belong to creative design occupations, mainly immigr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on fashion designers is mixed: routine drafting and pattern-making tasks are being automated, but core human abilities like creative ideation, style definition, and brand storytelling are amplified by AI tools, requiring active integration of technological upgrades.
-
 Junior designers can advance to senior designer or design director, or move into product development, procurement, or brand management. Some designers start their own brands or work freelance, building up a client base.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior designers can advance to senior designer or design director, or move into
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a design diploma or degree and a strong portfolio. For mig
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/theatre-fashion-exhibit-and-other-creative-designers/CA)**

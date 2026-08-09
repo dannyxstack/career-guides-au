@@ -53,8 +53,6 @@ Architecture and civil engineering technicians assist civil engineers and archit
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Junior technicians can advance to senior technicians, then to assistant engineers or project managers. By gaining experience and obtaining Chartered Engineer (CEng) status, they can progress to engineering or management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior technicians can advance to senior technicians, then to assistant engineer
 | Subclass Graduate (Graduate Visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhD) without sponsorship, then switch to Skilled Worker after gaining experience. |
 | Subclass Scale-up (Scale-up Worker Visa) | Eligible high-growth enterprise sponsorship, no sponsorship renewal required after the initial 6 months, suitable for experienced technicians. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically need a relevant degree or HND, accumulate work experience, and obta
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-and-civil-engineering-technicians/UK)**

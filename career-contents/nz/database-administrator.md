@@ -52,8 +52,6 @@ Database administrators design, maintain, and optimize database systems, ensurin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
-
 A junior DBA can advance to senior DBA, database architect, or data analytics manager. Proficiency in cloud databases (e.g., AWS, Azure) and big data technologies (e.g., Hadoop, Spark) can accelerate career progression.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ A junior DBA can advance to senior DBA, database architect, or data analytics ma
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements; can earn points through qualifications, work experience, or registration |
 | Subclass AEWV (Accredited Employer Work Visa) | If residence criteria not met, can work on AEWV first, gain experience then transfer to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a bachelor's degree in computer science. Certifications like
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-administrator/NZ)**

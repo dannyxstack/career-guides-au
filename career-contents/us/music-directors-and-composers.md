@@ -52,8 +52,6 @@ Conduct, direct, plan, and lead music groups (e.g., orchestras, choirs) in perfo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
-
 Career path: starts as accompanist or assistant conductor, gradually advances to full-time music director or principal composer. Top talent can enter film/game scoring or become independent artists.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: starts as accompanist or assistant conductor, gradually advances to
 | Subclass EB-2 (NIW) (National Interest Waiver) | Applicable to outstanding talents whose work aligns with national interests; can waive labor certification. |
 | Subclass Green Card (PERM) (Employment-Based Permanent Residence) | Requires employer sponsorship and proof that no qualified US workers are available; the process is lengthy. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Growing about 4%, on par with the average. Opportunities are more abundant in
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-directors-and-composers/US)**

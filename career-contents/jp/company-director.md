@@ -4,8 +4,6 @@
 
 A managerial occupation that involves determining corporate management policies and overseeing business execution as a board director, auditor, or executive officer of a stock company.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A managerial occupation that involves determining corporate management policies 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI supports management decisions with data analysis, but final decisions and leadership remain human. Risk of AI replacement is low.
-
 Promotion typically requires long-term achievements and internal advancement. MBAs and specialized certifications are advantageous. External appointments are also increasing.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Promotion typically requires long-term achievements and internal advancement. MB
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 経営・管理 (Business Manager Visa) | For business owners and executives. Requires capital of at least 5 million yen. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | Allows managerial roles utilizing specialized knowledge. Used for internal promotion in large companies. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Typically, after years of experience and a department manager role, one is pr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/company-director/JP)**

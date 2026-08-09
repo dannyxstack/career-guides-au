@@ -53,8 +53,6 @@ Responsible for the construction, assembly, repair, and commissioning of railway
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Rail vehicle construction and repair workers face mixed prospects: AI/automation will take over documentation, inspection, and some assembly, but on-site repairs, safety checks, and complex troubleshooting rely on human experience and are hard to replace in the short term.
-
 Can progress from apprentice to senior technician or team leader; some transition to railway engineering management or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from apprentice to senior technician or team leader; some transitio
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes, the occupation is on the eligible occupation list, but not on the shorta
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-and-rolling-stock-builders-and-repairers/UK)**

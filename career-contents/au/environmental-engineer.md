@@ -55,8 +55,6 @@ Environmental engineers assess and mitigate the environmental impact of engineer
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 ESG compliance reporting and climate risk assessment are the fastest-growing environmental engineering sub-fields in 2025–2026, with sharply increasing demand from asset managers and mining companies. Water and environmental engineering (water treatment/wastewater) remains a stable and evergreen pathway.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ ESG compliance reporting and climate risk assessment are the fastest-growing env
 | Subclass 190 (Skilled Nominated) | State nomination; QLD/WA offer many resources and environmental projects |
 | Subclass 491 (Skilled Work Regional) | Regional environmental project; add 15 points. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Civil engineers have a larger job market (Seek ~4,000 vs environmental ~1,200
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-engineer/AU)**

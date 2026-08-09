@@ -52,8 +52,6 @@ Chemical plant workers are responsible for operating and maintaining chemical pr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 Career progression: start as an operator, advance to senior operator or team leader, then to production supervisor or process technician. Some workers transition to process engineer or safety officer after obtaining higher qualifications through TAFE.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression: start as an operator, advance to senior operator or team lea
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residency visa, requires occupation on the state nomination list, requirements vary by state |
 | Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, then transfer to 191 permanent residence, requires state or family sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can be promoted to senior operator, team leader, production supervisor, or tr
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-plant-worker/AU)**

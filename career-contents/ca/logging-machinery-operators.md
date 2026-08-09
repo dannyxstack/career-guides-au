@@ -53,8 +53,6 @@ Operate logging machinery for tree felling, delimbing, and skidding to ensure sa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of logging equipment operators is mainly physical; short-term risk of automation replacement is low, but AI and automation technologies enhance efficiency in path planning, equipment monitoring, and safety management. Be aware of new technologies like remote control squeezing entry-level positions.
-
 Can advance to logging crew leader, forestry equipment supervisor, or switch to heavy equipment operation, forestry management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance to logging crew leader, forestry equipment supervisor, or switch to 
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to hire local workers before sponsoring a work visa |
 | Subclass PNP (Provincial Nominee Program) | PNP in some provinces like BC, AB, SK can nominate loggers |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: It is relatively difficult, usually requiring LMIA employer sponsorship or a 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logging-machinery-operators/CA)**

@@ -1,10 +1,8 @@
-# Material/Purchasing Clerk 职业分析 · 韩国
+# 材料/采购文员（Material/Purchasing Clerk）职业分析 · 韩国
 
-**职业代码: 02831 (KECO)**
+**职业代码：02831 (KECO)**
 
-A material/purchasing clerk is an office professional who procures raw materials, parts, and equipment needed for corporate production at the right time and price, and manages inventory.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+材料/采购文员是办公室专业人员，负责以合适的时间和价格采购企业生产所需的原材料、零件和设备，并管理库存。
 
 
 ---
@@ -13,8 +11,8 @@ A material/purchasing clerk is an office professional who procures raw materials
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Possible with high school diploma but college degree preferred） |
-| Associate/Bachelor's degree | 2 年 | $5,000,000~$20,000,000（2-4 years in business/economics） |
+| 高中毕业 | 0年 | $0~$0（高中毕业亦可，但优先考虑大学学历） |
+| 副学士/学士学位 | 2 年 | $5,000,000~$20,000,000（2-4年商业/经济学经验） |
 
 ---
 
@@ -22,18 +20,18 @@ A material/purchasing clerk is an office professional who procures raw materials
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Logistics Manager | Korea Chamber of Commerce and Industry | 可选 | Essential certification in purchasing/materials |
-| Distribution Manager Level 2 | Korea Chamber of Commerce and Industry | 可选 | Advantageous in distribution/purchasing |
-| CPIM/CPSM | APICS | 可选 | International purchasing certification, preferred by large companies |
+| 物流经理 | 大韩商工会议所 | 可选 | 采购/物料方面的基本认证 |
+| 二级配送经理 | 大韩商工会议所 | 可选 | 在分销/采购领域有优势 |
+| CPIM/CPSM | APICS | 可选 | 国际采购认证，大型企业优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 85,000. Due to automation and digitalization of supply chains in Korean manufacturing, simple ordering tasks are decreasing, but strategic purchasing and global sourcing demand is increasing, so employment is expected to stagnate.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 85,000。由于韩国制造业供应链的自动化和数字化，简单的订购任务正在减少，但战略采购和全球采购需求增加，因此就业预计停滞。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A material/purchasing clerk is an office professional who procures raw materials
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $30,000,000~$40,000,000 | Around 35 million KRW at large companies |
-| Mid (4-10 years) | $45,000,000~$60,000,000 | Varies by experience and company size |
-| 资深（10年以上） | $60,000,000~$90,000,000 | When holding purchasing team lead or professional certification |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 大型企业约3500万韩元 |
+| 中级（4-10年） | $45,000,000~$60,000,000 | 视经验和公司规模而异 |
+| 资深（10年以上） | $60,000,000~$90,000,000 | 担任采购团队负责人或持有专业认证时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation systems will replace simple tasks like ordering and inventory management, reducing demand for purchasing clerks and shifting toward high-value work like strategic sourcing and supplier management.
+AI和自动化系统将取代订货和库存管理等简单任务，减少对采购文员的需求，转向战略采购和供应商管理等高价值工作。
 
-Most start in purchasing teams at large/mid-sized companies, and after obtaining certifications (logistics manager, purchasing certificate), advance from purchasing associate to manager, deputy manager, or grow into a specialist buyer.
+多数从大/中型公司的采购团队开始，获得认证（物流经理、采购证书）后，从采购助理晋升为经理、副经理，或成长为专业采购员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Purchase order creation and entry
-- Inventory monitoring and automatic reordering
-- Simple price comparison and quotation organization
+- 采购订单创建和录入
+- 库存监控与自动补货
+- 简单的价格比较和报价整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Negotiation strategy development
-- Supply chain risk analysis
-- Data-driven procurement forecasting
+- 谈判策略制定
+- 供应链风险分析
+- 数据驱动的采购预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic negotiation skills
-- Supplier relationship management
-- Complex procurement decision-making
-- ESG/ethical procurement judgment
+- 战略谈判技巧
+- 供应商关系管理
+- 复杂采购决策
+- ESG/道德采购判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Supply chain analysis
-- Data literacy
-- Global procurement knowledge
-- ESG evaluation competency
+- 供应链分析
+- 数据素养
+- 全球采购知识
+- ESG评估能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Supply chain digitalization
-- Global sourcing
-- ESG procurement
-- ERP utilization
+- 供应链数字化
+- 全球采购
+- ESG采购
+- 企业资源规划应用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment possible as a skilled procurement specialist, but office assistant roles are difficult |
-| Subclass F-2 (Residence) | Free employment possible after obtaining permanent residency |
-| Subclass D-10 (Job Seeking) | Possible to convert to E-7 after employment with job-seeking visa |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person who handles work meticulously and systematically
-- Person skilled in negotiation and communication
-- Person who enjoys data analysis and system utilization
+- 工作细致且有条不紊的人
+- 善于谈判和沟通的人
+- 喜欢数据分析和系统运用的人
 
 **谁不适合**
-- Person who finds repetitive paperwork tedious
-- Person who prefers working alone over interpersonal relationships
+- 觉得重复文书工作枯燥的人
+- 比起人际关系更喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a material/procurement clerk?**
-答：Entry-level: 30-40 million won, Mid-level: 45-60 million won, Senior-level: 60-90 million won
+**问：物料/采购文员的平均工资是多少？**
+答：入门级：3000-4000万韩元，中级：4500-6000万韩元，高级：6000-9000万韩元
 
-**问：Can foreigners find employment as material/procurement clerks in Korea?**
-答：E-7 visa holders can work as skilled purchasing specialists, but general office assistant roles are difficult; Korean language proficiency and relevant experience are essential.
+**问：外国人能否在韩国担任物料/采购文员？**
+答：E-7签证持有者可作为熟练采购专员工作，但一般办公助理角色困难；韩语能力和相关经验至关重要。
 
-**问：What certifications are helpful?**
-答：Logistics manager, distribution manager, CPIM, etc. are advantageous; larger companies prefer international certifications.
+**问：哪些证书有帮助？**
+答：物流经理、配送经理，CPIM等认证有优势；大公司更青睐国际认证。
 
 
 ---
@@ -147,12 +137,12 @@ Most start in purchasing teams at large/mid-sized companies, and after obtaining
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/material-purchasing-clerk/KR)**

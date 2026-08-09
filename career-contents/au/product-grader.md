@@ -54,8 +54,6 @@ Product graders perform visual and mechanical inspections of raw materials or fi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The work of product graders will be deeply reshaped by AI visual inspection and data analysis; routine grading will be automated, but professional judgment and complex scenarios still require humans. Total positions may shrink, but demand for high-skilled talent will increase.
-
 Usually start as operators, with experience can be promoted to senior grader, team leader, or quality control supervisor, or move to lab technician or production management roles. Need to master specific industry standards (e.g., ore grades, grain grades).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as operators, with experience can be promoted to senior grader, te
 | Subclass 186 (Employer Nomination Scheme Visa) | Employer-sponsored permanent visa, requires holding a 482 visa and meeting 3 years of work experience requirements. |
 | Subclass DAMA (Designated Area Migration Agreement) | Designated Area Migration Agreement, some regions offer more relaxed sponsorship requirements for graders. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires only high school graduation; most employers provide on-the-j
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-grader/AU)**

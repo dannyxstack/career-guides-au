@@ -4,8 +4,6 @@
 
 Engaged in teaching and research at French universities, colleges, or Grande école (Higher Tech Schools), including positions such as lecturer and professor. A doctoral degree is usually required, regulated by the French Ministry of Higher Education and Research.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in teaching and research at French universities, colleges, or Grande éc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on higher education teachers is mixed: content delivery and foundational assessment will be compressed, but AI tools will enhance personalized teaching and research capabilities, requiring teachers to shift toward higher-value mentoring roles.
-
 Promotion path: Lecturer (Maître de conférences) → Professor (Professeur des universités), must pass national qualification (CNU) and university evaluation. Research output and teaching evaluation are key.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Promotion path: Lecturer (Maître de conférences) → Professor (Professeur des
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to researchers or higher education teachers holding a doctoral degree or research contract, valid for 4 years, renewable and allowing family reunification. |
-| Subclass Salarié (Employee Visa) | If you have a long-term contract with a university or research institution, you can apply for a work visa as an employee, but employer administrative procedures (autorisation de travail) are required. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary ≥ €42,058), requires a master's degree or above, valid for 1-4 years, and can convert to EU permanent residency. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: EU degrees can be used directly; third-country diplomas must pass CNU assessm
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/higher-education-teacher/FR)**

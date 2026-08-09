@@ -1,8 +1,8 @@
-# Steel Structure Fabricator and Erector 职业分析 · 韩国
+# 钢结构制造与安装工（Steel Structure Fabricator and Erector）职业分析 · 韩国
 
-**职业代码: 70111 (KECO)**
+**职业代码：70111 (KECO)**
 
-A specialized technical professional who cuts, welds, and assembles steel materials to fabricate steel structures such as bridges and buildings, and installs them on site.
+专业技术人员，负责切割、焊接和组装钢材，制造桥梁和建筑等钢结构，并在现场安装。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized technical professional who cuts, welds, and assembles steel materi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$1,000,000（Free education available for graduates of specialized industrial high schools） |
-| Junior college (2-year) | 2 年 | $4,000,000~$8,000,000（Annual tuition fees） |
+| 高中毕业 | 3年 | $0~$1,000,000（产业专门高中毕业生可免费接受教育） |
+| 专科（2年制） | 2 年 | $4,000,000~$8,000,000（年度学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialized technical professional who cuts, welds, and assembles steel materi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Steel Structure Fabrication and Assembly Technician | Human Resources Development Service of Korea | 可选 | Favorable for employment and promotion |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Essential for practical work |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Favorable for advancing to site safety manager |
+| 钢结构制造与组装技术员 | 韩国人力资源开发服务局 | 可选 | 有利于就业和晋升 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 对实际工作至关重要 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升为现场安全经理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Stable employment is expected to persist for now due to demand for improving old infrastructure and large construction projects, but a shortage of new entrants and the introduction of automation are expected to be variables.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于老旧基础设施改造和大型建筑项目的需求，稳定就业预计将持续，但新进入者短缺和自动化的引入将是变量。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,89 +39,82 @@ A specialized technical professional who cuts, welds, and assembles steel materi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $24,000,000~$35,000,000 | Initial pay varies greatly by company and site |
-| 中级（4-9年） | $35,000,000~$50,000,000 | Additional allowance for certified personnel |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Based on site manager level or professional welder |
+| 入门级（0-3年） | $24,000,000~$35,000,000 | 初始薪资因公司和地点差异很大 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 持证人员额外津贴 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 基于现场经理级别或专业焊工 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are being introduced in some design and cutting processes, but human skill and judgment remain crucial for on-site welding, assembly, and installation, making full replacement difficult.
+AI和自动化已在某些设计和切割过程中引入，但现场焊接、组装和安装仍依赖人工技能和判断，完全替代困难。
 
-Starting as a skilled worker, one can grow into a welding and assembly specialist, and with field experience, advance to site manager or construction manager. Obtaining certifications is advantageous for promotion.
+从技能工人起步，可成长为焊接与装配专家，并凭借现场经验晋升为现场经理或施工经理。获得证书有利于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Cutting Tasks
-- Maintaining Repetitive Welding Postures
+- 简单切割任务
+- 保持重复焊接姿势
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision Cutting and Welding Quality Inspection
-- Structural Safety Diagnosis
+- 精密切割和焊接质量检验
+- 结构安全诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- Site Adaptability
-- Manual Work on Non-standard Structures
-- Safety Management Decision-making
+- 现场适应性
+- 非标准结构的手工操作
+- 安全管理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot Welding Operation
-- 3D Modeling
-- Safety Management
+- 机器人焊接操作
+- 3D建模
+- 安全管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Steel Structure Worker
-- Bridge Worker
-- Plant Construction
-- Structural Welding
+- 钢结构工人
+- 桥梁工
+- 厂房建设
+- 结构焊接
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employment and stay possible as skilled worker. Employer recommendation required. |
-| Subclass E-9 (Non-professional Employment (E-9)) | For non-professional foreign workers, issued only for construction sector. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system, allows long-term stay and free employment. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength and not afraid of outdoor/height work
-- People with excellent hand skills like welding/assembly
+- 体力好且不惧户外/高空工作者
+- 具有优秀手工技能（如焊接/装配）的人
 
 **谁不适合**
-- People sensitive to safety accidents and prefer indoor work
-- People needing regular lifestyle and weekend rest
+- 对安全事故敏感且偏好室内工作的人
+- 需要规律作息和周末休息的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a steel structure worker?**
-答：Varies from 24 million to 70 million won depending on experience, with a median of about 40 million won.
+**问：钢结构工人的平均年薪是多少？**
+答：根据经验从2400万到7000万韩元不等，中位数约4000万韩元。
 
-**问：Can foreigners get employed in this occupation?**
-答：Yes, possible under E-7 visa as skilled worker, and E-9 visa for non-professional employment.
+**问：外国人能否从事该职业？**
+答：可以，作为技能工人可通过E-7签证，非专业就业可通过E-9签证。
 
-**问：What certifications are needed to advance in this occupation?**
-答：Obtaining a steel structure fabrication and assembly technician or welding technician certification is advantageous, and acquiring a construction safety engineer certification allows advancement to a managerial position.
+**问：在此职业中晋升需要哪些认证？**
+答：获得钢结构制造和装配技术员或焊接技术员证书有优势，取得建筑安全工程师证书可以晋升到管理职位。
 
 
 ---
@@ -139,12 +132,12 @@ Starting as a skilled worker, one can grow into a welding and assembly specialis
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/steel-structure-fabricator-and-erector/KR)**

@@ -55,8 +55,6 @@ Blasters perform blasting operations in mining, quarrying, and construction site
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 New blasters typically start as assistants in mining or construction, obtain a license, and work independently. They can advance to senior blaster, blasting supervisor, or move into blasting design, safety consulting, or mining management.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ New blasters typically start as assistants in mining or construction, obtain a l
 | Subclass DAMA (Designated Area Migration Agreement) | DAMA programs in specific regions (e.g., Northern Territory, South Australia) may cover blasters, with lower thresholds. |
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer to prove inability to hire locally; blaster not on CSOL, limited applicability. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Usually requires completing a Certificate III in Surface Extraction Operation
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shot-firer-712213/AU)**

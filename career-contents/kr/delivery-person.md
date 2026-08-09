@@ -4,8 +4,6 @@
 
 Delivery persons collect, sort, and deliver mail or parcels to specified addresses. They interact directly with customers at the forefront of logistics, with prompt and accurate delivery being key.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Delivery persons collect, sort, and deliver mail or parcels to specified address
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation can replace simple sorting and route optimization tasks for delivery workers, but last-mile delivery is likely to remain human. However, with the introduction of autonomous delivery robots and drones, some tasks may be reduced.
-
 Novice delivery persons can gain experience to secure delivery territories, or advance to branch managers or logistics center operations teams. Some start their own delivery agency businesses.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Novice delivery persons can gain experience to secure delivery territories, or a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Delivery workers are included in the E-9 eligible job categories, allowing foreign workers to find employment, but with quota restrictions. |
-| Subclass F-2 (Residence (F-2)) | Long-term foreign residents can work with this residence status before obtaining permanent residency. |
-| Subclass F-5 (Permanent Residence (F-5)) | Permanent residents can work without restrictions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Usually from 6-7 AM until delivery completion, 5-6 days a week, with lots of 
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/delivery-person/KR)**

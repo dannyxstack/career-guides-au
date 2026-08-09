@@ -51,8 +51,6 @@ Responsible for formulating and executing advertising and public relations strat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Starting as a PR specialist or advertising account manager, you can gain industry experience and be promoted to department director, eventually becoming a Chief Marketing Officer (CMO) or founding an office communications company independently.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as a PR specialist or advertising account manager, you can gain industr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to high-salary positions (annual salary over 1.5 times the Spanish average wage), requires contract and qualifications |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For managers or technical experts, fast track available, family members allowed |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Standard employment-based residence requires company guarantee |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You can use the EU Blue Card (with a high-paying contract), a Skilled Profess
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-public-relations-directors/ES)**

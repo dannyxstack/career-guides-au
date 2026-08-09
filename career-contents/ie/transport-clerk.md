@@ -54,8 +54,6 @@ Transport clerks coordinate freight shipments, handle documentation, arrange dis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine tasks for transport clerks (e.g., data entry, tracking inquiries) are easily replaceable by AI and automation, but roles requiring coordination, handling exceptions, and on-site processing still depend on human judgment, resulting in medium overall risk.
-
 Entry-level shipping clerks can advance to logistics coordinator or supervisor roles, then to logistics manager or supply chain analyst. With experience, they can also move into procurement or operations management.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level shipping clerks can advance to logistics coordinator or supervisor r
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Usually high school graduation is sufficient, with employer-provided training
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-clerk/IE)**

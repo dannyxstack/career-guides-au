@@ -54,8 +54,6 @@ Providing advanced life support and pre-hospital emergency care at emergency med
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance data monitoring and document processing, but clinical judgment and hands-on operations remain highly reliant on humans; task structure is mixed, with modest short-term job growth.
-
 Can progress from a first aider to intensive care paramedic, then to team leader or clinical educator.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from a first aider to intensive care paramedic, then to team leader
 | Subclass 494 (Skilled Employer Sponsored Regional Visa) | Regional employer sponsorship, can transfer to 191 permanent residency |
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional designated area migration agreements may lower requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a 3-year bachelor's (nursing or health science) plus a 1-y
 | Work intensity | very high (★★★★½) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/intensive-care-ambulance-paramedic-aus-ambulance-paramedic-nz/AU)**

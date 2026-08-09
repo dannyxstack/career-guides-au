@@ -1,8 +1,8 @@
-# Building Equipment Engineer 职业分析 · 韩国
+# 建筑设备工程师（Building Equipment Engineer）职业分析 · 韩国
 
-**职业代码: 14024 (KECO)**
+**职业代码：14024 (KECO)**
 
-A professional technical workforce responsible for designing, installing, and maintaining mechanical, electrical, plumbing, and fire protection systems in buildings, ensuring safety and efficiency.
+负责设计、安装和维护建筑中机械、电气、管道和消防系统的专业技术劳动力，确保安全与效率。
 
 
 ---
@@ -11,8 +11,8 @@ A professional technical workforce responsible for designing, installing, and ma
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Building Equipment/Mechanical Equipment) | 2 年 | $12,000,000~$20,000,000（National/public standard） |
-| University (Architectural Engineering/Mechanical Engineering) | 4年 | $24,000,000~$40,000,000（Private standard） |
+| 大专（建筑设备/机械设备） | 2 年 | $12,000,000~$20,000,000（国家/公共标准） |
+| 大学（建筑工程/机械工程） | 4年 | $24,000,000~$40,000,000（私营标准） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional technical workforce responsible for designing, installing, and ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Building Equipment Engineer | Human Resources Development Service of Korea | 必备 | Essential license; advantageous with work experience |
-| Industrial Engineer Building Equipment | Human Resources Development Service of Korea | 可选 | Substitutable; suitable for beginners |
-| Mechanical Design Engineer | Human Resources Development Service of Korea | 可选 | Additional license; strengthens design capabilities |
+| 建筑设备工程师 | 韩国人力资源开发服务局 | 必备 | 必备执照；有工作经验者优先 |
+| 工业工程师——建筑设备 | 韩国人力资源开发服务局 | 可选 | 可替代；适合初学者 |
+| 机械设计工程师 | 韩国人力资源开发服务局 | 可选 | 附加执照；增强设计能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 48,000. With the increase in eco-friendly and smart buildings, demand for equipment technology remains steady, and employment is expected to expand in new areas such as remodeling and zero-energy buildings.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 48,000。随着环保和智能建筑的增多，设备技术需求保持稳定，就业预计将在改造和零能耗建筑等新领域扩展。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional technical workforce responsible for designing, installing, and ma
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0~3 years) | $28,000,000~$36,000,000 | Mid-sized company standard |
-| Intermediate (4~10 years) | $40,000,000~$55,000,000 | Without professional engineer license |
-| 资深（10年以上） | $55,000,000~$80,000,000 | Responsible technician/professional engineer standard |
+| 初级（0~3年） | $28,000,000~$36,000,000 | 中型企业标准 |
+| 中级（4~10年） | $40,000,000~$55,000,000 | 无专业工程师执照 |
+| 资深（10年以上） | $55,000,000~$80,000,000 | 责任技术员/专业工程师标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances tasks like automatic control and energy optimization in facility systems, but full replacement is difficult as on-site diagnosis and response still require human experts.
+AI可增强设施系统中的自动控制与能源优化等任务，但完全替代较难，因为现场诊断和响应仍需人类专家。
 
-Promotion follows the path: junior technician → intermediate technician → responsible technician → professional engineer/PM, with professional enhancement through obtaining licenses like Professional Engineer or Building Equipment Engineer.
+晋升路径：初级技术员→中级技术员→责任技术员→专业工程师/项目经理，通过获得专业工程师或建筑设备工程师等执照提升专业水平。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard design drawing creation
-- Energy load calculation
-- Basic piping and duct routing
+- 标准设计图纸制作
+- 能量负荷计算
+- 基本管道和导管布线
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimization of automated facility system control
-- Energy performance analysis and simulation
-- Fault prediction and maintenance planning
+- 自动化设施系统控制优化
+- 能源性能分析与模拟
+- 故障预测与维护规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Non-standard problem solving for on-site conditions
-- Professional interpretation of regulations and safety standards
-- Collaboration and coordination with various stakeholders
+- 现场情况的非标准问题解决
+- 法规与安全标准的专业解读
+- 与多方利益相关者的协作与协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM software
-- Utilization of data analysis and AI tools
-- Eco-friendly and smart building technologies
+- BIM软件
+- 数据分析与AI工具的使用
+- 环保与智能建筑技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart buildings
-- Eco-friendly facilities
-- ESG architecture
-- Remodeling
+- 智能建筑
+- 环保设施
+- ESG架构
+- 翻新
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for issuance when employed as a building facility engineer in the technology/professional field. Must meet degree/experience requirements. |
-| Subclass E-9 (Non-professional Employment) | Generally unsuitable for this occupation; since it is skilled technical work rather than simple labor, E-7 is recommended. |
-| Subclass F-2 (Residence) | A points-based permanent residence status allowing long-term stay and employment. Transitioning from E-7 eases work restrictions. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in mechanical/electrical fields
-- Those who can interpret drawings and perform field work simultaneously
-- People interested in eco-friendly/energy fields
+- 对机械/电气领域有浓厚兴趣的人
+- 能同时解读图纸并进行现场作业者
+- 对环保/能源领域感兴趣的人
 
 **谁不适合**
-- Those who prefer only sedentary office work
-- Those who have difficulty tolerating high noise levels in the work environment
+- 偏好久坐办公室工作的人
+- 难以忍受工作环境中高噪音水平的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level technicians, annual salary is 28-36 million KRW, with additional allowances possible at large/mid-sized companies.
+**问：起薪是多少？**
+答：对于初级技术人员，年薪为2800-3600万韩元，大中型企业可能还提供额外津贴。
 
-**问：Can foreigners also get employed?**
-答：Possible. Employed via E-7 visa, requires related degree or practical experience (typically 5+ years). Korean proficiency is also important.
+**问：外国人也能就业吗？**
+答：可能。通过E-7签证受雇，需相关学位或实践经验（通常5年以上）。韩语能力也重要。
 
-**问：Is a professional engineer license mandatory?**
-答：Not mandatory, but advantageous for promotion to project manager or senior positions. Basic certification as building equipment engineer is required, followed by professional engineer license.
+**问：是否需要专业工程师执照？**
+答：非强制，但对晋升到项目经理或高级职位有利。需要基本建筑设备工程师认证，然后是专业工程师执照。
 
 
 ---
@@ -142,12 +135,12 @@ Promotion follows the path: junior technician → intermediate technician → re
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-equipment-engineer/KR)**

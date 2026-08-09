@@ -4,8 +4,6 @@
 
 Fully responsible for the company's strategic direction, operational management, and performance, representing the interests of the board of directors and shareholders to formulate long-term development plans.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Fully responsible for the company's strategic direction, operational management,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The CEO's strategic decisions and executive responsibilities are difficult to fully replace by AI, but tasks such as data-driven analysis and report generation will be significantly automated, and their irreplaceability remains high.
-
 Usually promoted from department director (such as finance or operations), and after gaining cross-functional experience, can become CEO. Some CEOs enter through MBA or entrepreneurial backgrounds, and large companies also require board appointments.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Usually promoted from department director (such as finance or operations), and a
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish company guarantee is required to prove the position cannot be filled by a local resident, which is usually applicable to executive transfers. |
-| Subclass Busqueda empleo (Job Search Visa) | Highly educated individuals can stay for one year after graduation to look for a job, but CEO positions usually require extensive experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Very difficult. CEO position requires company sponsorship and cannot use skil
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-executive-officer/ES)**

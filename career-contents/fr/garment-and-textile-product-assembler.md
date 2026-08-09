@@ -4,8 +4,6 @@
 
 Responsible for the cutting and sewing, splicing, and ironing processes of garments and textiles, commonly found in garment manufacturing, home textiles, and industrial textiles, requiring proficiency in operating industrial sewing machines and related equipment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for the cutting and sewing, splicing, and ironing processes of garme
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Assemblers of apparel and textile products face a high risk of automated substitution. Standardized cutting and sewing tasks are easily replaced by intelligent sewing robots and automated assembly lines, but manual customization, complex fabric handling, and equipment maintenance still require human skills.
-
 Candidates can be promoted from junior assembler to senior technician, production line leader, or quality inspector; Some have shifted to higher-skilled positions such as model designers and fashion technicians through training.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Candidates can be promoted from junior assembler to senior technician, productio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain a work contract from a French employer and prove that the position cannot be filled by a local person; usually, at least a BTS degree is required. |
-| Subclass Recherche emploi (Job-Seeker Visa (Talent)) | This is suitable for foreign graduates who have completed their studies in France and can look for jobs in France, but the assembly position is less competitive. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: It's very difficult. This occupation is not in short supply and requires a lo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/garment-and-textile-product-assembler/FR)**

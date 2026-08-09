@@ -52,8 +52,6 @@ NZ dentists diagnose and treat oral diseases, provide cleaning, fillings, extrac
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 Dentists can advance to specialist dentists (e.g., orthodontics, oral surgery) or open their own clinics. In the public system, they can rise to clinical director or regional oral health manager. They can also transition into academic research or public health management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Dentists can advance to specialist dentists (e.g., orthodontics, oral surgery) o
 | Subclass SMC (Skilled Migrant Category) | Skilled migration points system (6 points), apply with qualifications + registration + salary points, usually requires above median wage. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, for those who do not meet direct residence requirements; can apply for residence after 2 years (if salary requirements met). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must apply to the New Zealand Dental Council (DCNZ), pass exams or qualificat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/NZ)**

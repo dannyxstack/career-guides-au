@@ -4,8 +4,6 @@
 
 A career involving operating ships and aircraft as a member of the Japan Maritime Self-Defense Force, engaged in defending Japan's territorial waters, disaster relief, and international peace cooperation activities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A career involving operating ships and aircraft as a member of the Japan Maritim
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and unmanned systems are advancing, but on-site judgment and human leadership remain necessary. AI is used for information analysis and search support, enhancing personnel capabilities.
-
 Promotion is based on a rank system. Education at Officer Candidate School and technical schools opens the path to becoming a commissioned officer. Non-commissioned officers can also be promoted.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Promotion is based on a rank system. Education at Officer Candidate School and t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 外交 (Diplomat visa) | Foreign nationals generally cannot become MSDF officers. Japan only. SDF officers must have Japanese nationality. |
-| Subclass 特定活動 (Designated Activities visa) | Acceptance of foreign nationals as SDF members is extremely limited. Currently practically impossible. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: Possible. Examples include transitioning to maritime, logistics, and security
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maritime-selfdefense-force-officer/JP)**

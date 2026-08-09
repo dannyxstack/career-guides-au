@@ -56,8 +56,6 @@ Diesel mechanics diagnose, repair and maintain heavy equipment powered by diesel
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The impact of AI and automation on diesel mechanics is mixed: diagnostic and documentation tasks will be enhanced, but field operations and physical repairs still rely on humans. Overall, roles won't shrink, but entry barriers may slightly narrow due to increased skill requirements.
-
 Mining FIFO is the highest-paying employment pathway for diesel mechanics, with long-term shortages in WA and QLD mining regions. The logistics fleet maintenance and agricultural equipment sectors are equally strong.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Mining FIFO is the highest-paying employment pathway for diesel mechanics, with 
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points; WA and QLD have strong demand for diesel mechanics |
 | Subclass 491 (Skilled Work Regional) | Regional mining area nomination adds 15 points, 5 years to PR |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Mining wages for diesel mechanics are higher ($140k–$200k+ vs electricians 
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diesel-motor-mechanic/AU)**

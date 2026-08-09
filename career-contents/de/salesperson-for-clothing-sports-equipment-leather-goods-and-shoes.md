@@ -54,8 +54,6 @@ Sell clothing, sporting goods, leather goods and footwear to customers in retail
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI tools will significantly enhance the efficiency of clothing, sporting goods, leather goods, and footwear salespeople by boosting conversion rates through personalized recommendations, virtual try-ons, and inventory management optimization, but will not replace the core human interaction and experiential sales.
-
 From junior salesperson can advance to department manager, store manager, or move to purchasing, visual merchandising, etc. After dual training, there are also opportunities to enter brand management or regional sales.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ From junior salesperson can advance to department manager, store manager, or mov
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Not mandatory, but dual-system training can significantly improve job opportu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salesperson-for-clothing-sports-equipment-leather-goods-and-shoes/DE)**

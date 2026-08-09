@@ -4,8 +4,6 @@
 
 Responsible for cleaning streets, parks, squares, and other public areas to maintain urban environmental sanitation. Usually employed by the city government or outsourced companies, the work includes garbage collection, leaf clearing, and winter snow removal.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cleaning streets, parks, squares, and other public areas to main
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly replace the heavy repetitive work of street cleaners, but fully autonomous robots are not yet mature and will still require human supervision and supplementation in the short term, leading to an overall decline in job demand.
-
 Usually, starting from inexperienced workers, they can be promoted to group leader or supervisor, with a few opportunities to enter municipal management positions. Career development space is limited and mostly relies on accumulated years of service.
 
 **Tasks most exposed to AI:**
@@ -95,15 +91,9 @@ Usually, starting from inexperienced workers, they can be promoted to group lead
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, but this occupation is usually not considered high-skilled and is difficult to approve. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -144,12 +134,12 @@ A: It's very difficult. This occupation is classified as low-skill, does not mee
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-sweepers-and-related-workers/ES)**

@@ -52,8 +52,6 @@ Responsible for daily operational management of livestock enterprises, including
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can advance from livestock technician to farm supervisor, then to regional manager or business partner. Further education (e.g., Master's in Agricultural Management) can broaden career pathways.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from livestock technician to farm supervisor, then to regional manag
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to those who have completed a recognized vocational training or university degree in Germany and have an employment contract. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job seeker visa for coming to Germany for job hunting, suitable for those with relevant qualifications. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires qualification recognition (Anerkennung) and holding a Germ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-animal-production/DE)**

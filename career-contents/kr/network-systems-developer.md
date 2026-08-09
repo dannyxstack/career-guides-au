@@ -49,8 +49,6 @@ A professional who designs, develops, and maintains computer network systems, re
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used for network configuration optimization, fault prediction, and automation tool development, reducing repetitive tasks, but advanced design and security response remain the role of human experts.
-
 Starting as a network engineer, one can advance to system architect, technical team lead, and CTO. Careers are typically built at large corporations, telecom companies, and SI firms.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ Starting as a network engineer, one can advance to system architect, technical t
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Work visa for skilled foreign professionals in advanced technology fields, applicable to network systems developers |
-| Subclass F-2 (Residence) | Possible long-term stay, convertible to points-based system |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -137,12 +129,12 @@ A: The E-7 (Specific Activities) visa is mainly used, requiring a bachelor's deg
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/network-systems-developer/KR)**

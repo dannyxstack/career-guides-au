@@ -4,8 +4,6 @@
 
 An expert who performs internal audit tasks to check and evaluate whether an organization's financial and operational processes comply with laws and regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ An expert who performs internal audit tasks to check and evaluate whether an org
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and RPA will replace simple audit tasks such as data collection and anomaly detection, reducing audit staff headcount. However, context judgment and decision-making that AI cannot grasp remain in the human domain, so the role will shrink but become more advanced.
-
 Starting as a junior audit clerk, one can advance to mid-level audit team leader and senior internal audit expert. Obtaining CPA or CIA certifications allows career moves to external audit firms or consulting.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ Starting as a junior audit clerk, one can advance to mid-level audit team leader
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if employment contract requirements for professional occupations are met, but the scope for internal audit positions is narrow. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: Certifications like Level 1 Computerized Accounting Operator, CPA, CIA are ad
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audit-clerk/KR)**

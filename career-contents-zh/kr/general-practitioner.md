@@ -1,8 +1,8 @@
 # 全科医生（General Practitioner）职业分析 · 韩国
 
-**职业代码: 30121 (KECO)**
+**职业代码：30121 (KECO)**
 
-A doctor who diagnoses and treats patients' diseases, providing comprehensive medical services at primary healthcare facilities.
+诊断和治疗患者疾病的医生，在初级医疗机构提供综合医疗服务。
 
 
 ---
@@ -11,9 +11,9 @@ A doctor who diagnoses and treats patients' diseases, providing comprehensive me
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Pre-medical Course (2 years) | 2 年 | $50,000,000~$80,000,000（Based on national universities; private universities are higher） |
-| Medical School (4 years) | 4年 | $99,999,999~$99,999,999（Based on private medical schools） |
-| 注册实习（1年） | 1年 | $0~$0（Income during training） |
+| 医学预科课程（2年） | 2 年 | $50,000,000~$80,000,000（基于国立大学；私立大学更高） |
+| 医学院（4年） | 4年 | $99,999,999~$99,999,999（基于私立医学院校） |
+| 注册实习（1年） | 1年 | $0~$0（培训期间收入） |
 
 ---
 
@@ -21,17 +21,17 @@ A doctor who diagnoses and treats patients' diseases, providing comprehensive me
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Obtained after passing national exam |
-| Specialist License (Optional) | Korean Medical Association | 可选 | Obtainable after completing internship and residency |
+| 行医执照 | 保健福祉部 | 必备 | 通过国家考试后获得 |
+| 专业执照（可选） | 韩国医学会 | 可选 | 完成实习和住院医师培训后可获得 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Steady demand is expected due to aging population and increasing medical needs, but competition is intensifying due to limited supply of doctors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。因人口老龄化和医疗需求增加，需求稳定，但因医生供应有限，竞争加剧。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,90 +39,83 @@ A doctor who diagnoses and treats patients' diseases, providing comprehensive me
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $60,000,000~$80,000,000 | Includes intern/resident salaries |
-| 中级（4-9年） | $99,999,999 | Before becoming a specialist or opening a practice |
-| 资深（10年以上） | $99,999,999 | Private practitioner or university hospital professor |
+| 入门级（0-3年） | $60,000,000~$80,000,000 | 包括实习生/住院医生工资 |
+| 中级（4-9年） | $99,999,999 | 成为专家或开设诊所之前 |
+| 资深（10年以上） | $99,999,999 | 私人执业者或大学医院教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used for image interpretation, diagnosis assistance, etc., but it is difficult to replace the comprehensive judgment of doctors and patient communication, so the core of human-centered care remains.
+AI用于图像解读、诊断辅助等，但难以替代医生的综合判断和患者沟通，因此以人为本的医疗核心保持不变。
 
-After completing internship and residency (specialty training), either obtain a specialist license, open a private practice, or work as a salaried doctor.
+完成实习和住院医师（专科培训）后，获得专科医师执照，开办私人诊所，或担任受薪医生。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image interpretation
-- Primary care decision support
+- 简单图像解读
+- 初级护理决策支持
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precise diagnosis
-- Medical data analysis
-- Patient monitoring
+- 精准诊断
+- 医疗数据分析
+- 患者监护
 
-**人类护城河:**
+**人类护城河：**
 
-- Doctor-patient relationship
-- Clinical judgment
-- Ethical decisions
+- 医患关系
+- 临床判断
+- 伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI utilization interpretation
-- Data literacy
-- Medical communication
+- AI应用口译
+- 数据素养
+- 医疗沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increase in chronic diseases
-- Healthcare accessibility
-- Telemedicine
+- 人口老龄化
+- 慢性病增加
+- 医疗可及性
+- 远程医疗
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible to work at a domestic medical institution as a professional medical practitioner |
-| Subclass F-2 (Residence) | Long-term residence possible via points-based permanent residence path |
-| Subclass F-5 (Permanent Residence) | Permanent residence obtainable upon meeting certain qualifications |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong patience and responsibility
-- People interested in scientific inquiry and problem-solving
+- 耐心和责任心强的人
+- 对科学探究和问题解决感兴趣的人
 
 **谁不适合**
-- People who are averse to blood or body fluids
-- People who struggle with quick decision-making
+- 对血液或体液反感的人
+- 难以快速决策的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a general practitioner?**
-答：Based on entry-level (0-3 years), 60-80 million KRW, rising to 100-300 million KRW with experience.
+**问：全科医生的平均年薪是多少？**
+答：入门级（0-3年）起薪6000-8000万韩元，有经验后升至1-3亿韩元。
 
-**问：What visa is needed for a foreigner to work as a general practitioner?**
-答：Possible to work with an E-7 visa, with F-2 or F-5 visa paths for long-term residence.
+**问：外国人担任全科医生工作需要什么签证？**
+答：可使用E-7签证工作，并通过F-2或F-5签证途径实现长期居留。
 
-**问：What are the education period and costs to become a doctor?**
-答：It is a total of 6 years: 2 years in pre-medical course and 4 years in medical school, with tuition fees ranging from KRW 120 million to 250 million at private medical schools.
+**问：成为医生的教育年限和费用是多少？**
+答：共6年：预科2年加医学院4年，私立医学院学费从1.2亿韩元到2.5亿韩元不等。
 
 
 ---
@@ -140,12 +133,12 @@ After completing internship and residency (specialty training), either obtain a 
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-practitioner/KR)**

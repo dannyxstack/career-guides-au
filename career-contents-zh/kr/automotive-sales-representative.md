@@ -1,10 +1,8 @@
-# Automotive Sales Representative 职业分析 · 韩国
+# 汽车销售代表（Automotive Sales Representative）职业分析 · 韩国
 
-**职业代码: 61231 (KECO)**
+**职业代码：61231 (KECO)**
 
-A profession that consults and sells vehicles to customers at car dealerships or agencies, handling the entire process from test drives, estimates, contracts to delivery.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在汽车经销商或代理机构咨询和销售车辆给客户的职业，处理从试驾、估价、合同到交付的整个过程。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that consults and sells vehicles to customers at car dealerships or
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 0 | $0~$0（No specific degree required, high school diploma or above preferred） |
-| Automotive sales training | 3个月 | $500,000~$2,000,000（Training provided by the Korea Automobile Dealers Association or individual dealerships） |
+| 高中及以上学历 | 0 | $0~$0（无特定学历要求，高中及以上学历优先） |
+| 汽车销售培训 | 3个月 | $500,000~$2,000,000（由韩国汽车经销商协会或个别经销商提供的培训） |
 
 ---
 
@@ -22,18 +20,18 @@ A profession that consults and sells vehicles to customers at car dealerships or
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Driver's license (Class 2 or higher) | National Police Agency | 必备 | Essential for test drives and vehicle movement |
-| Automobile Sales Certificate | Korea Automobile Industry Association | 可选 | Not legally required but most dealerships require it |
-| Insurance Solicitor License | Financial Supervisory Service | 可选 | Advantageous for selling car insurance |
+| 驾照（二级或以上） | 国家警察厅 | 必备 | 试驾和车辆移动必备 |
+| 汽车销售证书 | 韩国汽车工业协会 | 可选 | 法律未要求但大多数经销商要求 |
+| 保险招揽员执照 | 金融监督院 | 可选 | 有利于销售车险 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 85,400. Job competition is intensifying due to domestic market stagnation and the shift to electric vehicles, but new sales channels such as online sales expansion and vehicle subscription services are increasing.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 85,400。由于国内市场停滞和向电动汽车转型，职位竞争加剧，但新的销售渠道如在线销售扩展和车辆订阅服务正在增加。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,96 +39,87 @@ A profession that consults and sells vehicles to customers at car dealerships or
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$40,000,000 | Base salary + incentives, varies greatly with sales performance |
-| 中级(3-7年) | $40,000,000~$70,000,000 | Possible to earn over 100 million KRW with excellent performance |
-| 高级（8年+） | $60,000,000~$99,999,999 | Branch manager level, high ceiling depending on customer network |
+| 入门级（0-3年） | $28,000,000~$40,000,000 | 底薪 + 激励，根据销售业绩差异很大 |
+| 中级(3-7年) | $40,000,000~$70,000,000 | 表现优秀可能超过1亿韩元 |
+| 高级（8年+） | $60,000,000~$99,999,999 | 分行经理级别，天花板取决于客户网络 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can replace parts of car sales, such as automated customer inquiries, initial consultations, and vehicle recommendations, but human salespeople remain crucial for final contracts and building customer relationships. Thus, a mixed impact is expected overall.
+AI可以替代汽车销售的部分环节，如自动客户咨询、初步洽谈和车辆推荐，但最终合同和客户关系维护仍需人类销售人员。因此，整体影响预计是混合的。
 
-Entry-level salesperson → Mid-level (team leader/assistant manager) → Branch manager/manager → Vice president/Head. High performers can achieve faster promotions, and many move to higher salaries through job changes.
+初级销售 → 中级（团队领导/助理经理） → 分支机构经理/经理 → 副总裁/主管。表现优异者可更快晋升，许多人通过跳槽获得更高薪资。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Customer basic inquiry response
-- Basic vehicle specification guidance
-- Test drive scheduling
-- Automatic quote generation
+- 客户基本咨询答复
+- 基本车辆规格指导
+- 试驾安排
+- 自动报价生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized product recommendations through customer data analysis
-- Customer management using AI-based CRM
-- Test drive experience through virtual simulation
+- 通过客户数据分析提供个性化产品推荐
+- 基于AI的CRM客户管理
+- 通过虚拟模拟进行的试驾体验
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust and human rapport with customers
-- Complex negotiations and contract processes
-- Emotional empathy and sales know-how
+- 与客户的信任和人际默契
+- 复杂的谈判和合同流程
+- 情感共情与销售技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Online marketing
-- AI tool proficiency
+- 数据分析
+- 在线营销
+- AI工具熟练度
 - 客户关系管理（CRM）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicle sales
-- Online sales
-- Vehicle subscription
-- Connected cars
+- 电动汽车销售
+- 在线销售
+- 车辆订阅
+- 网联汽车
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hiring as a professional in automotive sales, but general sales positions face visa issuance difficulties. |
-| Subclass F-2 (Residence) | Can engage in automotive sales without employment restrictions when certain conditions are met. |
-| Subclass F-4 (Overseas Koreans) | Employment activities are permitted for overseas Koreans, allowing sales positions without additional permits. |
-| Subclass H-2 (Visit Employment) | Permitted in some industries, but automotive sales is not a visa-eligible industry, making it limited. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy meeting others and are persuasive
-- People with strong motivation from performance-based incentives
-- People with interest and knowledge in automobiles
+- 喜欢与人交往且有说服力的人
+- 受绩效激励驱动的积极人士
+- 对汽车有兴趣和知识的人
 
 **谁不适合**
-- People who prefer fixed salary and stability
-- People who find it difficult to handle customer service and sales stress
+- 偏好固定工资和稳定工作的人
+- 难以应对客服和销售压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an automotive salesperson?**
-答：Starting salary for new hires is approximately 28-40 million KRW (base pay + incentives), and for those with 3-7 years of experience, it is 40-70 million KRW, with top performers potentially earning over 100 million KRW.
+**问：汽车销售员的平均薪资是多少？**
+答：新员工起薪约2800-4000万韩元（基本工资+奖金），有3-7年经验者为4000-7000万韩元，优秀者可超1亿韩元。
 
-**问：What visa do foreigners need to work as a car salesperson?**
-答：It is difficult to obtain an E-7 visa for general sales positions; holders of F-2 or F-4 visas have an advantage. H-2 is not possible as it does not cover this industry.
+**问：外国人从事汽车销售工作需要什么签证？**
+答：一般销售职位难以获得E-7签证；持有F-2或F-4签证者具有优势。H-2不可行，因为该行业不在其覆盖范围内。
 
-**问：What is the career progression for a car salesperson?**
-答：Junior salesperson → Intermediate (team leader/assistant manager) → Branch manager/Manager → Vice President/Head of department, with rapid promotion possible based on performance.
+**问：汽车销售员的职业发展路径是什么？**
+答：初级销售→中级（团队领导/助理经理）→分行经理/经理→副总裁/部门主管，根据业绩可快速晋升。
 
 
 ---
@@ -148,12 +137,12 @@ Entry-level salesperson → Mid-level (team leader/assistant manager) → Branch
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-sales-representative/KR)**

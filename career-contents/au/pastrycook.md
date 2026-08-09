@@ -53,8 +53,6 @@ A pastry chef prepares a variety of pastries, desserts, and breads, including ca
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pastry chefs face a dual impact of AI-assisted enhancement and partial automation replacement: standardized production can be replaced by AI, while creative design and customer experience still rely on human skill.
-
 Junior pastry chefs can advance to senior pastry chefs or pastry supervisors after training, and further to executive pastry chefs or baking department managers. With experience, they can also start their own bakeries.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior pastry chefs can advance to senior pastry chefs or pastry supervisors aft
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Pastrycook is not on the Core Skills Occupation List (CSOL) or Medium and Lon
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pastrycook/AU)**

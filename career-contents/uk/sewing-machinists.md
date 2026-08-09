@@ -53,8 +53,6 @@ Sewing machine operators are skilled technical workers in the garment manufactur
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Sewing machine operator roles are heavily affected by automation; entry-level tasks have been largely replaced by automated equipment, but high-precision, customized, and small-batch production still require manual labor, and job numbers will continue to shrink.
-
 Career progression paths include advancing from junior sewer to senior sewing technician, pattern maker, or production supervisor. Upgrade skills through fashion design or textile technology courses, transitioning to quality control or garment pattern making roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression paths include advancing from junior sewer to senior sewing te
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, but sewing machine operators are typically not on the eligible occupation list, so approvals are rare |
 | Subclass Graduate (Graduate visa) | Only applicable to graduates who completed a degree in the UK; can work for 2 years, but this occupation is not on the high-skilled list |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Very difficult. This occupation is typically not on the Skilled Worker eligib
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewing-machinists/UK)**

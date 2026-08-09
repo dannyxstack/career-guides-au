@@ -53,8 +53,6 @@ Set up, operate or tend milling or planing machines to mill, plane, shape, slot 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Highly repetitive and procedural tasks (e.g., parameter setting, tool path generation, real-time monitoring) in this occupation will be rapidly replaced by AI and automation systems, significantly reducing total positions.
-
 Junior operators can advance to senior setters or programmers through experience, or transition to quality control or production management roles. Some can become CNC machine programmers or workshop supervisors.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior operators can advance to senior setters or programmers through experience
 | Subclass H-2B (Temporary non-agricultural worker) | Employers can apply for seasonal or temporary work visas, but with many restrictions |
 | Subclass EB-3 (Employment-based immigration: third preference) | Labor certification required, but skilled worker quotas are tight with long waiting periods. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Employment projected to grow slowly, or even decline. Automation and CNC mach
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/milling-and-planing-machine-setters-operators-and-tenders-metal-and-plastic/US)**

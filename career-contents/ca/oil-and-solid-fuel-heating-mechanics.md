@@ -51,8 +51,6 @@ Responsible for installing, maintaining, and repairing heating systems using fue
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Gas and solid fuel heating technicians face medium automation risk: AI can optimize scheduling and remote diagnostics, but physical installation/repair, fuel handling, and safety compliance tasks are hard to replace; roles are steadily shrinking overall.
-
 Can progress to heating system designer, building maintenance supervisor, or self-employed contractor. Provincial trade certification is key to career development.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress to heating system designer, building maintenance supervisor, or sel
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, Alberta) list this occupation as a demand occupation. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, need to prove lack of local labour |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply through Express Entry (e.g., FSW) or Provincial Nominee Program (PN
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oil-and-solid-fuel-heating-mechanics/CA)**

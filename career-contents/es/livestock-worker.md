@@ -51,8 +51,6 @@ Engaged in animal feeding, cleaning, milking, grazing, and basic health manageme
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automation risks for livestock workers are high, and repetitive physical tasks will be replaced, but large-scale farms still require certain manual monitoring and emergency response capabilities.
-
 You can be promoted from general livestock worker to ranch supervisor or livestock technician, or through FP training to become a veterinary assistant or ranch manager. Some workers accumulate experience and start their own small ranches.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ You can be promoted from general livestock worker to ranch supervisor or livesto
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer-sponsored work residence requires proof that the position cannot be filled within the EU. The livestock industry has a perennial labor shortage, and Spain's labor market test is relatively relaxed. |
-| Subclass Arraigo social (Social roots residency) | After 3 years of residence in Spain and a work contract, you can apply for 'arraigo laboral'. Suitable for irregular immigrants already in Spain to regularize. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes. Can advance to farm supervisor, livestock technician, or become a veteri
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-worker/ES)**

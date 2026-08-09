@@ -54,8 +54,6 @@ Electric vehicle battery diagnostic experts are responsible for fault diagnosis 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
-
 Canada has become a hot topic for high-voltage battery diagnostics and health assessments, with OEM diagnostics and high-voltage safety experts in high demand sought after; Diagnostic readings can be automated, but high-voltage disassembly and assessment still require manual labor.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Canada has become a hot topic for high-voltage battery diagnostics and health as
 | Subclass PNP (Provincial nomination) | Provincial Nominee Program: Technician positions are mostly nominated by the province |
 | Subclass LMIA Work Permit (Employer-sponsored work visa) | Employers provide LMIA-supported work visas |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: It is more difficult to immigrate independently. As a technician-level positi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-battery-diagnostics-specialist/CA)**

@@ -4,8 +4,6 @@
 
 In Italy, glass and ceramic plant operators are responsible for operating and maintaining machinery for producing glass and ceramic products, including raw material processing, molding, firing, and quality inspection. This occupation is concentrated in Italian manufacturing regions such as Veneto and Emilia-Romagna.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In Italy, glass and ceramic plant operators are responsible for operating and ma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Glass and ceramic plant operators face medium automation risk: routine raw material handling, forming monitoring, and quality inspection sorting can be taken over by AI, but tasks requiring human intuition and judgment such as equipment maintenance, anomaly handling, and process optimization are enhanced.
-
 Career progression typically starts from junior operator, advancing to senior operator or team leader through experience. Some may move to quality control, production management, or equipment maintenance. Participating in industry association or company-provided technical training helps improve skills and promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career progression typically starts from junior operator, advancing to senior op
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU highly skilled workers, requiring a university degree or at least 5 years of relevant experience, with an annual salary threshold of approximately €24,789 (2023). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU low-skilled or seasonal workers with annual quota limits and employer sponsorship. Glass and ceramic operators typically do not meet high-skilled visa requirements. |
-| Subclass NULLA OSTA (Nulla Osta (Work Authorization)) | Non-EU workers require employers to apply for a work permit from the immigration authorities; the approval process takes several months, and it must be proven that suitable candidates cannot be recruited from within the EU. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: As automation technology adoption increases, traditional operational position
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-and-ceramics-plant-operator/IT)**

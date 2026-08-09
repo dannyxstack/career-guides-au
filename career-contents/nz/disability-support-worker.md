@@ -52,8 +52,6 @@ Disability support workers in New Zealand provide daily care and community parti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Disability support work heavily relies on interpersonal care and on-site adaptability; AI can hardly replace core care duties, but backend tasks like documentation and behavior analysis can be automated. Overall risk is moderately low.
-
 Entry-level disability support workers can accumulate experience and advance to senior support worker or team leader, some can transition to allied health roles like rehabilitation assistant. Obtaining a relevant New Zealand certificate (e.g., NZ Certificate in Health and Wellbeing) aids career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level disability support workers can accumulate experience and advance to 
 | Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system requirements (e.g., New Zealand qualifications plus work experience), can apply for skilled migration |
 | Subclass Green List T2 (Green List Tier 2) | Disability support worker is not on the Green List, but related care occupations may be adjusted in the future |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: The most common path is to first work in New Zealand on an AEWV visa, gain ex
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/disability-support-worker/NZ)**

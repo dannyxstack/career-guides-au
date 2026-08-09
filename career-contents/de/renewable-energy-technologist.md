@@ -54,8 +54,6 @@ Installing, maintaining, and optimizing renewable energy systems such as solar, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The outlook for renewable energy technicians is mixed: AI automation will take over repetitive tasks like monitoring and fault diagnosis, but tasks requiring physical interaction such as on-site maintenance, system optimization, and installation/commissioning are enhanced by AI, leading to steady or increased demand.
-
 Can progress from technician to project manager or systems planner, and through further study become energy consultant or R&D engineer, with broad development space.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from technician to project manager or systems planner, and through 
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires professional qualification, employer sponsorship, applicable under skilled migration law. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seekers to enter Germany without a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Assessment of overseas qualifications or professional recognition against Ger
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/renewable-energy-technologist/DE)**

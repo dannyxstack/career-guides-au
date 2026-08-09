@@ -58,8 +58,6 @@ A Steel Fixer places, ties, and secures steel reinforcement within concrete stru
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Large infrastructure projects (metro, tunnels, bridges) and wind farm construction are driving steady demand growth. Machine-assisted tools (rebar benders, tying robots) are increasingly used on major projects, but on-site manual work remains irreplaceable.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Large infrastructure projects (metro, tunnels, bridges) and wind farm constructi
 | Subclass 190 (Skilled Nominated) | State government nomination, 5 bonus points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residence to PR pathway; suitable for applicants whose 189 points are insufficient |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Both are on the CSOL; PR pathways are similar. Demand for steel fixers is sli
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steel-fixer/AU)**

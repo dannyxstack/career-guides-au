@@ -1,10 +1,8 @@
-# Dining Server 职业分析 · 韩国
+# 餐饮服务员（Dining Server）职业分析 · 韩国
 
-**职业代码: 53221 (KECO)**
+**职业代码：53221 (KECO)**
 
-A service role responsible for serving food to customers and managing tables in restaurants, cafes, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责在餐厅、咖啡馆等场所为顾客上菜并管理餐桌的服务角色。
 
 
 ---
@@ -13,8 +11,8 @@ A service role responsible for serving food to customers and managing tables in 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 3年 | $0~$0（No separate training cost） |
-| Community College (Culinary Arts) | 2 年 | $8,000,000~$15,000,000（Based on tuition） |
+| 高中毕业 | 3年 | $0~$0（无单独培训费用） |
+| 社区学院（烹饪艺术） | 2 年 | $8,000,000~$15,000,000（按学费计费） |
 
 ---
 
@@ -22,17 +20,17 @@ A service role responsible for serving food to customers and managing tables in 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean Language Proficiency | Nationality | 必备 | Communication required |
-| Health Certificate | Public Health Center | 必备 | Required by Food Sanitation Act |
+| 韩语能力 | 国籍 | 必备 | 要求沟通能力 |
+| 健康证书 | 公共卫生中心 | 必备 | 《食品卫生法》规定要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 350,000. Demand remains steady due to the growth of the food service industry, but employment growth is expected to slow due to minimum wage increases and automation.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 350,000。由于餐饮服务业增长，需求保持稳定，但因最低工资上涨和自动化，就业增长预计放缓。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A service role responsible for serving food to customers and managing tables in 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$27,000,000 | 2025 minimum wage annual salary approx. KRW 24 million |
-| 中级（3-5年） | $27,000,000~$30,000,000 | Varies with experience and tips |
-| Senior-level (5+ years) | $30,000,000~$35,000,000 | Hall manager level |
+| 初级（0-3年） | $24,000,000~$27,000,000 | 2025年最低工资年薪约2400万韩元 |
+| 中级（3-5年） | $27,000,000~$30,000,000 | 因经验和小费而异 |
+| 高级（5年以上经验） | $30,000,000~$35,000,000 | 大厅经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and robots can replace some tasks like food delivery and table cleaning, but human roles remain crucial for customer service and complex orders, leading to mixed impacts.
+人工智能和机器人可以取代部分任务，如送餐和清洁桌面，但人工角色在客户服务和复杂订单中仍然至关重要，因此影响不一。
 
-In early career, build serving skills and customer service experience; later transition to kitchen assistant, hall manager, or self-employment.
+早期职业阶段培养服务技能和客户服务经验；之后转岗为厨房助理、大厅经理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Food Delivery
-- Table Cleaning
-- Taking Simple Orders
+- 外卖配送
+- 清理桌子
+- 接受简单订单
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Explaining Recommended Menus
-- Handling Customer Complaints
-- Responding to Special Requests
+- 推荐菜单介绍
+- 处理客户投诉
+- 应对特殊要求
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Flexible Situation Handling
-- Non-verbal Communication
+- 同理心
+- 灵活应变能力
+- 非语言沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Foreign Language Skills
-- Wine/Food Knowledge
-- Robot Assistance System Operation Skills
+- 外语技能
+- 葡萄酒/食品知识
+- 机器人辅助系统操作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Introduction of Service Robots
-- Expansion of Table Ordering
-- Impact of Minimum Wage
-- Changes in Dining Trends
+- 服务机器人介绍
+- 自助点餐扩展
+- 最低工资的影响
+- 餐饮趋势变化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Employment in restaurants possible but limited to serving tasks |
-| Subclass F-4 (Overseas Koreans) | Allowing overseas Koreans to serve food |
-| Subclass H-2 (Working Visit) | Allowing visiting working Koreans to serve food |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are friendly and like people
-- People with good stamina who can move quickly
-- People with multitasking skills
+- 友善且喜欢与人相处的人
+- 精力充沛、行动敏捷的人
+- 具备多任务处理能力的人
 
 **谁不适合**
-- People who dislike talking to others
-- People who find standing work difficult
+- 不喜欢与他人交谈的人
+- 觉得站立工作困难的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a hall server?**
-答：Approximately 24 million to 27 million KRW for beginners, up to 30 million KRW or more with experience, plus tips.
+**问：宴会服务员平均薪资是多少？**
+答：初学者约2400万至2700万韩元，有经验者可达3000万韩元以上，外加小费。
 
-**问：Can a foreigner get a visa for hall serving?**
-答：Possible with an E-9 (Non-professional Employment) visa, but the scope of work is limited; mainly F-4 or H-2 visa holders are employed.
+**问：外国人能拿到大厅服务签证吗？**
+答：可持E-9（非专业就业）签证，但工作范围受限；主要雇佣F-4或H-2签证持有者。
 
-**问：Will AI and robots replace this job?**
-答：Some serving robots are being introduced, but complex service and customer interaction require humans, so full replacement will take time.
+**问：AI和机器人会取代这个工作吗？**
+答：一些服务机器人正在引入，但复杂服务和客户互动需要人类，因此完全替代还需时日。
 
 
 ---
@@ -144,12 +134,12 @@ In early career, build serving skills and customer service experience; later tra
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dining-server/KR)**

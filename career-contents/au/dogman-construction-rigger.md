@@ -59,8 +59,6 @@ A Dogman directs crane operators in moving and positioning heavy equipment and s
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Crane signalers/riggers are hard to fully replace by AI in physical operations and on-site judgment, but with AI-assisted remote crane operation and automatic rigging planning systems, some tasks will be automated, reducing entry opportunities for newcomers; experienced workers can enhance competitiveness by learning digital tools, showing mixed prospects.
-
 Large-scale wind farm expansion (Australia plans 82 GW of installed capacity by 2030) is the biggest driver of new demand. Mining provides a stable baseline.
 
 **Tasks most exposed to AI:**
@@ -116,9 +114,7 @@ Large-scale wind farm expansion (Australia plans 82 GW of installed capacity by 
 | Subclass 190 (Skilled Nominated) | State nomination for permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Both have similar PR pathways and comparable salaries. Crane Operator roles t
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dogman-construction-rigger/AU)**

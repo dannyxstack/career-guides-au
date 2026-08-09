@@ -51,8 +51,6 @@ Production Managers oversee production planning, quality, safety and teams in ma
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
-
 Engineering/manufacturing background and experience required; career path leads to Operations Manager and Plant Manager roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Engineering/manufacturing background and experience required; career path leads 
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes. Production Manager (133512) is on the skilled migration list and require
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-manager-manufacturing/AU)**

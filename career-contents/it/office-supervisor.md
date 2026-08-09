@@ -4,8 +4,6 @@
 
 Office supervisors oversee office administrative work, coordinate teams, manage processes, and ensure efficient operations. In Italy, this position is common in small to medium enterprises and the public sector, playing a key role in administration.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Office supervisors oversee office administrative work, coordinate teams, manage 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Office supervisors' administrative coordination and document supervision tasks are highly automatable; AI will significantly reduce their management span and job numbers, but interpersonal coordination and exception handling remain core moats.
-
 Career path can progress from administrative assistant to office supervisor, then to administrative manager or operations manager. With industry experience and management skills, one can also move into human resources or project management.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career path can progress from administrative assistant to office supervisor, the
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU talents, requiring an annual salary of at least around 33,000 euros (2025 standard), contract duration at least 1 year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU general workers; requires employer application, subject to annual quota; office supervisor qualifies under the employment category. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Non-EU citizens need employers to apply for a work permit from the immigration department, with an approval period of 1-3 months. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can advance to administrative manager, operations manager, or move into areas
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-supervisor/IT)**

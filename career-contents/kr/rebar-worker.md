@@ -51,8 +51,6 @@ A specialized construction worker who processes and assembles rebar on construct
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-A job with low impact from AI and automation. Rebar processing and assembly require on-site judgment and physical manipulation, making automation difficult. However, BIM (Building Information Modeling) can partially automate design and material estimation.
-
 Junior Worker → Intermediate Worker → Senior Worker → Foreman (Team Leader) → Site Manager. Acquiring certifications and building experience are crucial.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Junior Worker → Intermediate Worker → Senior Worker → Foreman (Team Leader
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be employed in construction, Employment Permit System applies |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled Worker (E-7-1) may also apply to rebar workers |
-| Subclass F-2 (Residence (F-2)) | Long-term stay via points system, cases of conversion to skilled worker |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: You can progress from entry-level → intermediate → advanced skilled worke
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rebar-worker/KR)**

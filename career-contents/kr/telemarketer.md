@@ -4,8 +4,6 @@
 
 Telemarketers promote and sell products or services over the phone, handling both inbound and outbound calls.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Telemarketers promote and sell products or services over the phone, handling bot
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of AI and automation technologies, simple repetitive telemarketing tasks are decreasing, and counselors are shifting to focus on high-level counseling or complex problem solving.
-
 They typically start as call center agents and can advance to team leader or supervisor positions, or transition to customer management or marketing fields.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ They typically start as call center agents and can advance to team leader or sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited; may be allowed for call center industries |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Yes. You can build a career in marketing, customer management, sales support,
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telemarketer/KR)**

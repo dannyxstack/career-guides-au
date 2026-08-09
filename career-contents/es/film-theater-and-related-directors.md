@@ -4,8 +4,6 @@
 
 Responsible for creative guidance and artistic supervision of film, television, theater, and other film and stage works, coordinating scriptwriting, performance, photography, and art to ensure artistic quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for creative guidance and artistic supervision of film, television, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
-
 Career development usually starts as an assistant director or short film director, and after accumulating a portfolio, is promoted to feature film director or television director. A few can become well-known art directors or producers, with income closely tied to industry reputation.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career development usually starts as an assistant director or short film directo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit as employee) | Employed by a Spanish production company, requires company sponsorship, suitable for fixed positions. |
-| Subclass Cuenta propia (Self-employment visa) | Freelance directors can apply, but must prove a business plan and sufficient income. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions, but directors often struggle to meet salary standards (annual salary is about 33,908 euros). |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Directors are not regulated professions, and academic credentials are not man
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-theater-and-related-directors/ES)**

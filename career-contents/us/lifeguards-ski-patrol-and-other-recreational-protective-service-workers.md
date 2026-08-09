@@ -54,8 +54,6 @@ Monitor and provide assistance and protection in recreation areas such as swimmi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of lifeguards and ski patrollers rely on real-time judgment and physical response, making them difficult to fully replace by AI in the short term; however, tools like drone monitoring and smart alarm systems are aiding surveillance, and entry-level positions may decrease due to automated scheduling.
-
 Can advance to senior lifeguard, patrol captain, or recreation facility safety supervisor; some transition into emergency medical services.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance to senior lifeguard, patrol captain, or recreation facility safety s
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Seasonal temporary work visa, employer must demonstrate labor shortage |
 | Subclass J-1 (J-1 Exchange Visitor) | Cultural exchange program, applicable for camp or resort lifeguards |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: H-1B usually not applicable as the occupation typically does not require a ba
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lifeguards-ski-patrol-and-other-recreational-protective-service-workers/US)**

@@ -53,8 +53,6 @@ Tierheilpraktiker are German professionals in alternative animal medicine, treat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal health practitioners (Tierheilpraktiker)'s intuitive diagnosis and personalised treatment plans are difficult to automate, but AI-assisted diagnostic tools, remote monitoring, and automated formula generation will significantly reduce their routine tasks, requiring practitioners to shift to higher-value integrated health management and client education.
-
 Career path is relatively narrow, mainly advancing from assistant to independent practitioner, or specializing in specific therapies (e.g., acupuncture, osteopathy). Some practitioners establish training schools or transition to veterinary assistant roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path is relatively narrow, mainly advancing from assistant to independent
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Main paths are self-employment building a client base, or specializing in spe
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-health-practitioner/DE)**

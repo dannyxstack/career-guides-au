@@ -52,8 +52,6 @@ Botanists study plant classification, distribution, physiology, and ecology, pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
-
 Junior botanists can start as lab assistants or field technicians, gain experience and advance to senior researcher or project manager. Some shift to policy-making, environmental consulting, or biotech companies, and also have opportunities to pursue a PhD and enter academia.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior botanists can start as lab assistants or field technicians, gain experien
 | Subclass SMC (Skilled Migrant Category) | Skilled migration 6-point system, requiring qualifications, work experience, and salary requirements; botanists usually receive high points for qualifications. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa: if you don't directly meet the Green List, you can work on this visa first and later apply for a residence visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good employment prospects, especially in agricultural technology, environment
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/botanist/NZ)**

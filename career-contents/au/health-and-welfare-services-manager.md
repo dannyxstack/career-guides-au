@@ -51,8 +51,6 @@ Healthcare and welfare services managers oversee the operations, compliance, and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Requires a health/management background plus industry experience; career path leads to institutional director roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Requires a health/management background plus industry experience; career path le
 | Subclass 491 (Skilled Work Regional) | Regional Sponsored |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. Health and Welfare Services Manager (ANZSCO 134211) is on the skilled mi
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-and-welfare-services-manager/AU)**

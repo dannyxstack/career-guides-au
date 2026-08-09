@@ -52,8 +52,6 @@ Dietitians in Canada provide clinical nutrition assessments, dietary plans, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dietitians face mixed AI impact: routine diet plans and nutritional assessments are easily automated, but clinical decision-making, behavior change guidance and other high-level services require human empathy and experience, providing a deeper moat.
-
 Junior nutritionists can advance to clinical nutrition manager, diabetes educator, or public health nutritionist. Senior practitioners can transition to nutrition consulting firm founder or university researcher, with income increasing with experience and certification.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior nutritionists can advance to clinical nutrition manager, diabetes educato
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, such as Ontario, BC, Alberta; usually require employer offer or relevant work experience |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with a job offer from an employer in that region |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, must register with the dietitian regulatory body in the province of prac
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitians-and-nutritionists/CA)**

@@ -1,10 +1,8 @@
-# Theater·Musical Actor 职业分析 · 韩国
+# 剧院·音乐剧演员（Theater·Musical Actor）职业分析 · 韩国
 
-**职业代码: 41623 (KECO)**
+**职业代码：41623 (KECO)**
 
-A professional artist who performs roles on theater or musical stages, delivering emotions through real-time communication with the audience.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在剧院或音乐舞台上表演角色的专业艺术家，通过与观众实时交流传递情感。
 
 
 ---
@@ -13,9 +11,9 @@ A professional artist who performs roles on theater or musical stages, deliverin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (2-3 years) Theater and Film | 2 年 | $8,000,000~$15,000,000（Annual tuition, private standard） |
-| University (4 years) Theater and Film | 4年 | $10,000,000~$20,000,000（Annual tuition, private standard） |
-| Private Acting Academy | 1年 | $3,000,000~$10,000,000（Varies by program） |
+| 专科（2-3年）戏剧与电影专业 | 2 年 | $8,000,000~$15,000,000（私立标准年学费） |
+| 大学（4年）戏剧与电影 | 4年 | $10,000,000~$20,000,000（私立标准年学费） |
+| 私立表演学院 | 1年 | $3,000,000~$10,000,000（因项目而异） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional artist who performs roles on theater or musical stages, deliverin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Stage Artist Certificate (Acting) | Korea Artist Welfare Foundation | 可选 | Certification of experience in performing arts, not mandatory |
-| Member of the Korean Musical Theatre Association | Korean Musical Theatre Association | 可选 | Advantageous for networking and information access |
+| 专业舞台艺术家证书（表演） | 韩国艺术家福利基金会 | 可选 | 表演艺术经验认证，非强制 |
+| 韩国音乐剧协会会员 | 韩国音乐剧协会 | 可选 | 有利于人脉和信息获取 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 9,500. The Korean performance market is recovering after COVID-19, but polarization is deepening with a focus on large musicals, while small theater companies face financial difficulties and declining audiences. Employment prospects are expected to stagnate or slightly decrease.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 9,500。韩国演出市场在COVID-19后复苏，但两极分化加剧，大型音乐剧为主，小型剧团面临财务困难和观众减少。就业前景预计停滞或小幅下降。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,84 @@ A professional artist who performs roles on theater or musical stages, deliverin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $12,000,000~$24,000,000 | Small theater standard, irregular activities |
-| 中级 (4-7年) | $25,000,000~$40,000,000 | Small to medium performances, supporting to leading roles |
-| Advanced (8+ years) | $50,000,000~$99,999,999 | Lead roles, limited to large musicals |
+| 初级（0-3年） | $12,000,000~$24,000,000 | 小型剧场标准，活动不规律 |
+| 中级 (4-7年) | $25,000,000~$40,000,000 | 中小型演出，从配角到主角 |
+| 高级（8年以上） | $50,000,000~$99,999,999 | 主角角色，仅限于大型音乐剧 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI technology may impact some areas such as role selection auditions, voice synthesis, and virtual actors, but real-time emotional acting and audience interaction in stage performances are difficult for AI to replace, so the overall impact will be limited. However, some roles in small-scale performances may be replaced by AI avatars.
+AI技术可能影响角色选拔试镜、语音合成和虚拟演员等领域，但在舞台表演中的实时情感表演和观众互动难以被AI取代，因此整体影响有限。然而，小规模演出中的某些角色可能被AI虚拟形象取代。
 
-Usually join a theater company through auditions or work as a freelancer, starting from minor roles and growing into supporting and leading roles. With experience, they can expand into directing, education, musical production, etc.
+通常通过试镜加入剧团或作为自由职业者，从配角开始成长为支持角色和主角。随着经验积累，可以扩展到导演、教育、音乐制作等领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Props or silent background actors
-- Minor roles requiring only standardized lines
-- Roles in virtual performances possible with AI avatars
+- 道具或无声背景演员
+- 仅需标准化台词的次要角色
+- 借助AI虚拟形象可参与虚拟演出角色
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Audition self-analysis and acting feedback
-- Digital content production for performance promotion
-- Real-time analysis of audience reactions
+- 试镜自我分析与表演反馈
+- 用于演出推广的数字内容制作
+- 观众反应实时分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Improvisational acting and emotional exchange on stage
-- Unique voice and gestures
-- Building rapport with the audience
+- 舞台上的即兴表演与情感交流
+- 独特的语音和手势
+- 与观众建立融洽关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI-based acting analysis tools
-- Digital content production (video editing, SNS)
-- Multilingual ability (global performances)
+- 基于AI的表演分析工具的使用
+- 数字内容制作（视频剪辑、社交媒体）
+- 多语言能力（全球演出）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Musical Popularization
-- Webtoon/Film Adaptation
-- Licensed Musicals
-- Revitalization of Local Performances
+- 音乐普及
+- 网漫/影视改编
+- 持证音乐剧
+- 地方演出振兴
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-6-1 (Arts and Entertainment (E-6-1)) | Required for foreign actors in theater or musical performances. An invitation from an employer (performance agency) is needed. |
-| Subclass F-2 (Residence (F-2)) | Available for long-term foreign actors. Can be converted under a points system. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy constant self-direction and practice
-- People skilled at expressing emotions and improvising in front of an audience
+- 喜欢不断自我指导和练习的人
+- 擅长在观众面前表达情感和即兴发挥的人
 
 **谁不适合**
-- People who prefer stable income and regular employment
-- People with severe stage fright or sensitivity to criticism
+- 偏好稳定收入和正规就业的人
+- 严重怯场或对批评敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a stage actor?**
-答：Entry-level is around 12 to 24 million KRW, with most having irregular work requiring a side job. Lead actors can earn over 100 million KRW, but it's rare.
+**问：舞台演员的平均年薪是多少？**
+答：入门级约1200万至2400万韩元，多数工作不稳定需兼职。主角演员可赚超1亿韩元，但很少见。
 
-**问：What visa do foreign actors need to work in Korea?**
-答：An E-6-1 (Arts and Entertainment) visa is required, along with an invitation and contract from a Korean performance agency. For long-term work, conversion to an F-2 visa is possible.
+**问：外国演员在韩国工作需要什么签证？**
+答：需E-6-1（艺术与娱乐）签证，并有韩国演出机构的邀请和合同。长期工作可转为F-2签证。
 
-**问：Do actors need a college degree to succeed?**
-答：Not required, but studying theater/film at university or private academies helps build networks and fundamentals. Many actors start through auditions.
+**问：演员需要大学学位才能成功吗？**
+答：非必需，但在大学或私立学院学习戏剧/电影有助于建立人脉和基础。许多演员通过试镜起步。
 
 
 ---
@@ -143,12 +134,12 @@ Usually join a theater company through auditions or work as a freelancer, starti
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/theatermusical-actor/KR)**

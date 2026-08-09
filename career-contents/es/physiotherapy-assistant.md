@@ -4,8 +4,6 @@
 
 Under the guidance of a physical therapist, a physical therapy assistant assists patients with rehabilitation training, uses treatment equipment, records progress, and provides basic nursing support in hospitals, clinics, or nursing homes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Under the guidance of a physical therapist, a physical therapy assistant assists
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of physical therapy assistants is experiencing mixed emotions: AI can automate document recording and treatment monitoring, but core tasks such as patient contact, manual guidance, and emotional support are hard to replace, and the job will evolve toward "human-machine collaboration."
-
 Usually, you start as an assistant and can be promoted to senior assistant or move into administrative management after gaining experience; Some people become physical therapists or rehabilitation therapists through further education, requiring them to complete a university degree.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Usually, you start as an assistant and can be promoted to senior assistant or mo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (employed)) | After obtaining a work contract from a Spanish employer, you must apply for work residency and prove that the position cannot be filled by a local resident. |
-| Subclass Busqueda empleo (Job search visa) | Highly educated individuals can look for jobs in Spain for up to 6 months, but this is not suitable for the profession due to the low educational requirements. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Typically, two years of secondary vocational training (FP Grado Medio) are re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapy-assistant/ES)**

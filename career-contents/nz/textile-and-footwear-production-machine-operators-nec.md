@@ -53,8 +53,6 @@ Operate textile or footwear production machines such as weaving, stitching, cutt
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation are reshaping textile and footwear production machine operator roles: repetitive tasks face reduction, but quality control, machine maintenance, and process optimization are AI-enabled, requiring workers to proactively adapt.
-
 Operators can advance to senior machine operator or production supervisor. With textile engineering or management courses, they can move to quality control or production manager roles. Market demand is limited, and promotion space is relatively narrow.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Operators can advance to senior machine operator or production supervisor. With 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Basic mechanical operation skills, quality inspection, safety awareness. Empl
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-and-footwear-production-machine-operators-nec/NZ)**

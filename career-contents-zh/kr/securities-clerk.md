@@ -1,10 +1,8 @@
-# Securities Clerk 职业分析 · 韩国
+# 证券文员（Securities Clerk）职业分析 · 韩国
 
-**职业代码: 03221 (KECO)**
+**职业代码：03221 (KECO)**
 
-An office worker who handles buying, selling, settlement, and custody of securities such as stocks and bonds at a securities company, and manages customer accounts.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在证券公司处理股票和债券等证券的买卖、结算和托管，并管理客户账户的办公室职员。
 
 
 ---
@@ -13,9 +11,9 @@ An office worker who handles buying, selling, settlement, and custody of securit
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Business, Economics, Finance) | 4年 | $40,000,000~$99,999,999（Difference between national/public and private universities） |
-| College (Business, Accounting) | 2 年 | $15,000,000~$40,000,000（Affordable option） |
-| Short-term course at financial investment education institution | 6 months | $500,000~$3,000,000（For job preparation） |
+| 大学（商业、经济、金融） | 4年 | $40,000,000~$99,999,999（国立/公立大学与私立大学的差异） |
+| 学院（商业、会计） | 2 年 | $15,000,000~$40,000,000（经济实惠的选择） |
+| 金融投资教育机构短期课程 | 6个月 | $500,000~$3,000,000（为求职准备） |
 
 ---
 
@@ -23,18 +21,18 @@ An office worker who handles buying, selling, settlement, and custody of securit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Securities Investment Advisory Personnel | Korea Financial Investment Association (KOFIA) | 可选 | Extra points when applying to securities firms |
-| Financial Certifications (Investment Asset Manager, CFA, etc.) | Korea Financial Investment Association (KOFIA) / CFA Institute | 可选 | Strengthen competitiveness |
-| Computer Management Clerk (Basic) | Korea Productivity Center (KPC) | 可选 | Helpful for work efficiency |
+| 证券投资咨询人员 | 韩国金融投资协会 | 可选 | 应聘证券公司时加分 |
+| 金融证书（投资资产经理、CFA等） | 韩国金融投资协会（KOFIA）/ CFA协会 | 可选 | 增强竞争力 |
+| 计算机管理文员（基础） | 韩国生产力中心（KPC） | 可选 | 有助于提高工作效率 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 52,000. Driven by financial digitalization and the expansion of online trading, the employment of securities clerks is expected to decrease slightly or remain stagnant. However, demand for skilled personnel is expected to persist due to growing wealth management needs.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 52,000。受金融数字化和网上交易扩张影响，证券职员就业预计略有下降或停滞。但财富管理需求增长，技能型人才需求仍将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,97 +40,89 @@ An office worker who handles buying, selling, settlement, and custody of securit
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Above top-tier at large securities firms |
-| Mid-level (4–9 years) | $45,000,000~$70,000,000 | Varies greatly when including performance bonuses |
-| 资深（10年以上） | $65,000,000~$99,999,999 | Basic annual salary for team leader level or above, excluding performance bonuses |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 大型证券公司顶级以上 |
+| 中级（4-9年） | $45,000,000~$70,000,000 | 包含绩效奖金时差异很大 |
+| 资深（10年以上） | $65,000,000~$99,999,999 | 团队主管及以上级别基本年薪（不含绩效奖金） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI and automation are replacing simple clerical tasks such as transaction processing and account management, reducing the role of securities clerks. High-value tasks like customer consulting and complex financial product analysis are still handled by humans, but overall job numbers are expected to decline.
+AI和自动化正在取代简单的文书工作，如交易处理和账户管理，减少了证券文员的作用。客户咨询和复杂金融产品分析等高价值任务仍由人类处理，但总体就业数量预计将下降。
 
-Typically hired as new college graduates or experienced employees, they start with general office tasks and can later advance to manager roles such as team leader, branch manager, or head office chief, or transition to specialized positions like asset management or investment banking.
+通常作为应届毕业生或有经验的员工入职，从一般办公室任务开始，之后可晋升为团队领导、分行经理或总部主管等经理职位，或转岗至资产管理或投资银行等专业职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Execution of stock and bond trades
-- Account balance inquiry and reconciliation
-- Simple transaction entry
-- Automated regular report generation
+- 执行股票和债券交易
+- 账户余额查询和对账
+- 简单交易录入
+- 自动定期报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer consulting and portfolio recommendations
-- Market analysis and investment strategy formulation
-- Regulatory compliance checks
-- Detection of abnormal transactions
+- 客户咨询与投资组合推荐
+- 市场分析与投资策略制定
+- 监管合规检查
+- 异常交易检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Customer trust relationships
-- Ability to interpret regulations
-- Understanding of complex financial products
-- Communication skills
+- 客户信任关系
+- 解读法规的能力
+- 对复杂金融产品的理解
+- 沟通能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis (Python, SQL)
-- Digital Literacy
-- Financial Certifications (CFA, FRM)
+- 数据分析（Python、SQL）
+- 数字素养
+- 金融证书（CFA、FRM）
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital transformation
-- Robo-advisors
-- Increased demand for wealth management
-- Tighter regulations
+- 数字化转型
+- 智能投顾
+- 财富管理需求增长
+- 更严格的规定
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can be obtained as a finance professional, but general securities clerk is difficult |
-| Subclass F-2 (F-2 (Residence)) | Possible as a preliminary step to permanent residence after long-term career |
-| Subclass F-5 (F-5 (Permanent Residence)) | Can apply after meeting 5+ years of residence and income requirements |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and detail-oriented person
-- Person strong with numbers and analytical thinking
-- Person who follows rules and procedures well
+- 细致且注重细节的人
+- 善于数字和分析思维的人
+- 遵守规则和程序的人
 
 **谁不适合**
-- Person who dislikes change and finds repetitive tasks boring
-- Person who prefers creative work over interpersonal relationships
+- 不喜欢变化且觉得重复性任务无聊的人
+- 偏好创造性工作而非人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a securities clerk?**
-答：Entry-level is about 35-45 million KRW, and team leaders with over 10 years of experience can earn 65-100 million KRW. Including bonuses and allowances, the range varies widely.
+**问：证券文员的平均工资是多少？**
+答：入门级约3500-4500万韩元，拥有10年以上经验的团队领导可赚6500万至1亿韩元。包括奖金和津贴，范围差异很大。
 
-**问：Can foreigners work as securities clerks?**
-答：General office jobs are difficult for E-7 visa issuance. However, holders of financial professional certifications (e.g., CFA) or those assigned to overseas branches may qualify, but it is not a common immigration route.
+**问：外国人能担任证券业务员吗？**
+答：E-7签证难以签发一般办公室工作。然而，持有金融专业认证（如CFA）或被派往海外分支机构者可能符合条件，但非常见移民途径。
 
-**问：Can a securities clerk transition to other financial roles?**
-答：Yes, it's possible. To switch to asset management firms or investment banking (IB) analysts, additional certifications such as CFA or investment asset manager licenses are required.
+**问：证券文员能转行做其他金融岗位吗？**
+答：是的，有可能。要转行至资产管理公司或投行（IB）分析师，需要额外考取CFA或投资资产经理执照。
 
 
 ---
@@ -150,12 +140,12 @@ Typically hired as new college graduates or experienced employees, they start wi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/securities-clerk/KR)**

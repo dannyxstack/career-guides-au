@@ -4,8 +4,6 @@
 
 Working in a sporting goods store or counter, you are responsible for greeting customers, introducing product features, completing sales, and managing inventory. You need to understand sports equipment knowledge and provide professional advice.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Working in a sporting goods store or counter, you are responsible for greeting c
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Retail sales roles face significant automation risk; self-checkout and chatbots will replace basic cashiering and routine Q&A, but complex customer service still needs humans, leading to a clear narrowing of entry-level positions.
-
 You can be promoted from junior salesperson to senior sales/department head, or move into roles such as procurement, brand management, or sports marketing. After accumulating experience, you can open a store and start your own business.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from junior salesperson to senior sales/department head, or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Need to find a French employer and apply for a work permit. Salary must be above SMIC. Not a shortage occupation, moderate approval difficulty. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Outstanding talent or high salary (annual salary ≥ 53,000 euros) must be demonstrated; sales positions are usually not eligible. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to store manager, regional manager, or move into procurem
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salesperson-in-sports-and-leisure-articles/FR)**

@@ -4,8 +4,6 @@
 
 Senior civil servants who represent the country in exercising administrative, diplomatic, or judicial functions within its territory or in international settings, including governors, ambassadors, consuls, and others.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Senior civil servants who represent the country in exercising administrative, di
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI's impact on this profession is mixed: low-value paperwork (such as report drafting and data entry) will be automated, but core functions like diplomatic negotiations, crisis decision-making, and cultural symbolism are hard to replace; instead, AI enhances information acquisition and simulation capabilities, improving efficiency.
 
 Usually, they start as mid-level civil servants and are promoted to senior representative through internal exams and job rotations. International delegates need diplomatic experience.
 
@@ -100,16 +96,9 @@ Usually, they start as mid-level civil servants and are promoted to senior repre
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent – Salarié qualifié) | Applicable to senior civil servants or experts, requiring the employer to be a French government agency. |
-| Subclass Salarié (Salarié (Work Permit)) | If employed by the French government, you can apply for employment residence, but usually EU nationality is required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Such positions usually require French or EU nationality. Non-EU citizens are 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/state-representative-in-national-or-international-territory/FR)**

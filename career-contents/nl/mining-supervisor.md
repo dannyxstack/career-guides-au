@@ -4,8 +4,6 @@
 
 Mining supervisors oversee underground or open-cut mining operations, ensuring production is safe, efficient, and compliant with regulations. They manage teams of miners, coordinate equipment use, and monitor mining progress.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Mining supervisors oversee underground or open-cut mining operations, ensuring p
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mining supervisor roles face a mixed impact from AI and automation: data monitoring and scheduling tasks will be automated, but on-site safety decisions and team management remain human strengths.
-
 Career path usually starts as a miner or equipment operator, gaining experience before advancing to supervisor. Further progression to mining manager or safety specialist. Mining supervisors in the Netherlands also have opportunities to move overseas or into related energy industries.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Career path usually starts as a miner or equipment operator, gaining experience 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migration, requiring employer sponsorship and meeting salary threshold (approx. €5,331/month in 2025) |
-| Subclass EU Blue Card (EU Blue Card) | For university degrees + high-paying positions, with a higher salary threshold (approx. €7,206/month in 2025) |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or the world's top 200 universities can apply, providing one year to find a job. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Poor prospects due to declining natural gas output and shrinking mining indus
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-supervisor/NL)**

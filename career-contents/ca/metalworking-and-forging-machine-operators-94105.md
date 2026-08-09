@@ -51,8 +51,6 @@ Operate metalworking and forging equipment to manufacture metal parts and produc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Metal processing and forging machine operators face high automation risk, with AI and robots taking over most repetitive operations and inspection tasks. Equipment maintenance and process debugging still require human experience, and entry-level positions are narrowing significantly.
-
 Can progress from junior operator to senior operator, team leader, or move into equipment maintenance, quality control, etc.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can progress from junior operator to senior operator, team leader, or move into 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Some repetitive operations are at risk of automation, but complex parts machi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalworking-and-forging-machine-operators-94105/CA)**

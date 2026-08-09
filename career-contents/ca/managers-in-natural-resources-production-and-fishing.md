@@ -52,8 +52,6 @@ Operations manager responsible for supervising and managing natural resource ext
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance precision agriculture and data analysis, but crop cultivation relies on on-site decision-making and manual labor; overall risk is moderate, and entry-level positions are shrinking due to automation.
-
 Usually promoted from technical roles (e.g., engineers, geologists); can advance to regional director or company executive. Some managers move into consulting or government regulatory positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually promoted from technical roles (e.g., engineers, geologists); can advance
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs, such as Alberta, British Columbia, Saskatchewan |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can transition to permanent residency |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some provinces require management roles to hold a P.Eng license, but it's not
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-natural-resources-production-and-fishing/CA)**

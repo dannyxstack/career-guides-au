@@ -51,8 +51,6 @@ General clerks handle data entry, filing, correspondence and routine administrat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
-
 Can progress to executive assistant or office manager roles; proficiency in Excel and CRM systems is a competitive advantage.
 
 **Tasks most exposed to AI:**
@@ -96,9 +94,7 @@ Can progress to executive assistant or office manager roles; proficiency in Exce
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -138,12 +134,13 @@ A: No — this is a non-skilled migration occupation and is not on the skilled m
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-clerk/AU)**

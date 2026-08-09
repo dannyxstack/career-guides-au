@@ -53,8 +53,6 @@ Operate crushing, grinding, screening, and grading of natural stone and minerals
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Can be promoted from operator to team leader or production supervisor, or obtain processing technician qualification through further training, entering quality inspection or technical management roles.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can be promoted from operator to team leader or production supervisor, or obtain
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Difficult; this occupation is not in shortage and requires recognized vocatio
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-stone-and-mineral-processing-worker/DE)**

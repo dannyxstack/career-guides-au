@@ -51,8 +51,6 @@ Operates and controls woodworking equipment such as sawing machines, planers and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly change the work of wood processing plant operators: low-skilled repetitive tasks (like sorting, basic cutting) are replaced, but tasks requiring judgment such as equipment monitoring, quality control, and anomaly handling are enhanced. Overall, the role faces contraction risk but will not disappear completely.
-
 Can advance from operator to production line supervisor, quality control technician, or plant manager. Skills can be enhanced and career paths broadened through CNC and automation training.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can advance from operator to production line supervisor, quality control technic
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU workers, applicable to Italy's shortage occupations, requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, requiring relatively high salary (at least around 1.5 times the national average wage); wood processing operators usually do not qualify. |
-| Subclass Free Movement (EU Freedom of Movement) | EU/EEA citizens can freely work and live in Italy without a visa. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Yes. You can advance to production line supervisor, quality control technicia
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-processing-plant-operator/IT)**

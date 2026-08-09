@@ -51,8 +51,6 @@ Public Relations and Communications Director: plans, organises, and coordinates 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate and enhance the work of PR directors, compressing entry-level positions but amplifying strategic value; requires mastering AI tools and data-driven communication.
-
 Usually promoted from roles such as PR specialist or media relations manager, requiring accumulation of industry experience and networks. Can progress to executive positions like Chief Marketing Officer or Vice President of Strategic Communications.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually promoted from roles such as PR specialist or media relations manager, re
 | Subclass Global Talent (Global Talent visa) | For recognized industry leaders or emerging leaders; no employer sponsorship required. |
 | Subclass Scale-up (Scale-up visa) | Suitable for PR directors in fast-growing companies, meeting salary and qualification requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply through the Skilled Worker visa (requires employer sponsorship), Gl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-relations-and-communications-directors/UK)**

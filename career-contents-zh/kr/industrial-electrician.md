@@ -1,8 +1,8 @@
-# Industrial Electrician 职业分析 · 韩国
+# 工业电工（Industrial Electrician）职业分析 · 韩国
 
-**职业代码: 83111 (KECO)**
+**职业代码：83111 (KECO)**
 
-A specialized technical professional who installs and maintains electrical equipment in industrial settings such as factories, buildings, and infrastructure.
+在工厂、建筑和基础设施等工业环境中安装和维护电气设备的专业技术专家。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized technical professional who installs and maintains electrical equip
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Vocational training after high school | 1年 | $5,000,000~$10,000,000（Government funding available） |
-| Junior college (2-year) | 2 年 | $10,000,000~$20,000,000（Based on tuition） |
+| 高中后职业培训 | 1年 | $5,000,000~$10,000,000（可申请政府资助） |
+| 专科（2年制） | 2 年 | $10,000,000~$20,000,000（按学费计费） |
 
 ---
 
@@ -20,18 +20,18 @@ A specialized technical professional who installs and maintains electrical equip
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician Craftsman | Human Resources Development Service of Korea | 必备 | Essential basic certification |
-| Industrial Electrician Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for promotion and employment |
-| Electrician Engineer | Human Resources Development Service of Korea | 可选 | Required for senior technicians |
+| 电工技师 | 韩国人力资源开发服务局 | 必备 | 必备基础认证 |
+| 工业电工工程师 | 韩国人力资源开发服务局 | 可选 | 有利于晋升和就业 |
+| 电工工程师 | 韩国人力资源开发服务局 | 可选 | 高级技术人员必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Employment outlook is stable, as automation in manufacturing and expansion of renewable energy increase electricity demand.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。就业前景稳定，因为制造业自动化和可再生能源扩张增加了电力需求。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A specialized technical professional who installs and maintains electrical equip
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$32,000,000 | Around 30 million won |
+| 入门级（0-3年） | $24,000,000~$32,000,000 | 约3000万韩元 |
 | 中级（4-7年） | $32,000,000~$45,000,000 | 经验丰富后增长 |
-| 高级（8年+） | $45,000,000~$60,000,000 | Additional increase with engineer certification |
+| 高级（8年+） | $45,000,000~$60,000,000 | 获得工程师认证后额外增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI does not directly replace industrial electricians' work but enhances their role as an auxiliary tool in safety diagnosis, design optimization, and maintenance prediction. Skilled on-site expertise remains uniquely human.
+人工智能不会直接取代工业电工的工作，而是作为辅助工具在安全诊断、设计优化和维护预测方面增强其作用。熟练的现场专业知识仍然是人类独有的。
 
-Promotion follows the path of Craftsman → Industrial Engineer → Engineer, with field experience and certifications being key. Can also transition to management or self-employment.
+晋升路径为工匠→工业工程师→工程师，现场经验和认证是关键。也可转向管理或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Wiring Work
-- Basic Measurement and Recording Tasks
+- 简单布线工作
+- 基本测量和记录任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Equipment Failure Prediction Diagnosis
-- Power Load Optimization Analysis
-- Safety Inspection Automation
+- 设备故障预测诊断
+- 电力负荷优化分析
+- 安全检测自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- High-Voltage Work Judgment
-- Non-Standard On-Site Response
-- Experience in Safety Regulation Compliance
+- 高压作业判断
+- 非标准现场响应
+- 安全法规合规经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC Programming
-- Data Analysis Basics
-- Understanding Smart Grid
+- PLC编程
+- 数据分析基础
+- 了解智能电网
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Factory
-- Electric Vehicle Charging Infrastructure
-- New and Renewable Energy
-- Industrial Batteries
+- 智能工厂
+- 电动汽车充电基础设施
+- 新能源与可再生能源
+- 工业电池
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for skilled worker visa, employer recommendation required |
-| Subclass E-9 (Non-professional Employment) | Limited electrical work possible |
-| Subclass F-2 (Residence) | Advantageous for long-term residents, step before permanent residency |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in electrical circuits and equipment
-- People who prefer hands-on work and have good physical strength
-- People with strong safety awareness
+- 对电路和设备感兴趣的人
+- 喜欢动手工作且体力好的人
+- 安全意识强的人
 
 **谁不适合**
-- People who dislike practice over theory
-- People who fear heights
+- 不喜实践胜过理论之人
+- 恐高的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for beginners?**
-答：Approximately 24-32 million KRW pre-tax for entry-level (0-3 years), may be higher after national training.
+**问：初学者平均工资是多少？**
+答：入门级（0-3年）税前约2400-3200万韩元，国家培训后可能更高。
 
-**问：Can foreigners work on an E-7 visa?**
-答：This is possible. You need a certificate of electrician or higher and over 1 year of experience, and employer recommendation is required.
+**问：外国人可以用E-7签证工作吗？**
+答：这是可能的。需要电工或以上证书及1年以上经验，且需要雇主推荐。
 
-**问：What are the required certifications?**
-答：The basic is Electrician Technician, and having Industrial Electrician or higher is advantageous for employment.
+**问：需要哪些认证？**
+答：基础是电工技术员，持有工业电工或更高证书有利于就业。
 
 
 ---
@@ -141,12 +134,12 @@ Promotion follows the path of Craftsman → Industrial Engineer → Engineer, wi
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-electrician/KR)**

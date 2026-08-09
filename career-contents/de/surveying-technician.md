@@ -51,8 +51,6 @@ Surveying technicians measure land and buildings, collect data, and create maps 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI greatly enhances the efficiency of measurement technicians, but will not completely replace them; new skills are needed to meet market demands.
-
 Can become a certified surveyor or project manager through further study, or transition into geographic information systems (GIS) or civil engineering. Advancement opportunities are limited but specialization paths are clear.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can become a certified surveyor or project manager through further study, or tra
 | Subclass EU Blue Card (EU Blue Card) | Applies to higher education qualifications, annual salary threshold approximately €45,000 (2024) |
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for dual vocational training programs or bachelor's degree graduates, requires employer sponsorship. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must undergo a qualification recognition procedure (Anerkennung), assessed by
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surveying-technician/DE)**

@@ -54,8 +54,6 @@ Responsible for driving a school bus to pick up and drop off students, ensuring 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Entry-level school bus drivers can gain experience and transition to full-time drivers or become fleet supervisors. Some drivers move to passenger or freight truck driving (e.g., CDL Class A) or school transportation management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level school bus drivers can gain experience and transition to full-time d
 | Subclass H-1B (H-1B Specialty Occupations) | School bus drivers generally do not qualify for H-1B professional occupation requirements and are rarely sponsored. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, but school bus drivers are not high-skilled occupations and approvals are extremely rare. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can transition from part-time to full-time driver, or advance to fleet superv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-drivers-school/US)**

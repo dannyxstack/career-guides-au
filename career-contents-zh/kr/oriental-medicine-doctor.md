@@ -1,10 +1,8 @@
-# Oriental Medicine Doctor 职业分析 · 韩国
+# 韩医医生（Oriental Medicine Doctor）职业分析 · 韩国
 
-**职业代码: 30131 (KECO)**
+**职业代码：30131 (KECO)**
 
-A medical professional who manages patients' health through Oriental medical diagnosis and treatment (acupuncture, moxibustion, herbal medicine, etc.).
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+通过东方医学诊断和治疗（针灸、艾灸、草药等）管理患者健康的医疗专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A medical professional who manages patients' health through Oriental medical dia
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Oriental Medicine Graduate School (Master's) | 4年 | $80,000,000~$99,999,999（Private university standard; national universities are cheaper） |
-| Oriental Medicine Department (Bachelor's) | 6年 | $80,000,000~$99,999,999（Some universities offer a 6-year bachelor's program） |
+| 东方医学研究生院（硕士） | 4年 | $80,000,000~$99,999,999（私立大学标准；国立大学更便宜） |
+| 韩医系（学士学位） | 6年 | $80,000,000~$99,999,999（部分大学提供6年制学士课程） |
 
 ---
 
@@ -22,16 +20,16 @@ A medical professional who manages patients' health through Oriental medical dia
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Oriental Medicine Doctor License | Ministry of Health and Welfare | 必备 | Obtained after passing the national exam |
+| 中医师执照 | 保健福祉部 | 必备 | 通过国家考试后获得 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 25,000. Demand for Oriental medicine doctors is stable due to aging population and increased health management needs, but limited growth is expected due to competition within the medical field and policy changes.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 25,000。由于人口老龄化和健康管理需求增加，韩医需求稳定，但因医疗领域竞争和政策变化，增长有限。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +37,85 @@ A medical professional who manages patients' health through Oriental medical dia
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $40,000,000~$60,000,000 | For salaried doctors |
+| 入门级（0-3年） | $40,000,000~$60,000,000 | 适用于受薪医生 |
 | 中级（4-7年） | $60,000,000~$90,000,000 | 经验丰富后增长 |
-| Senior-level (8+ years) | $90,000,000~$99,999,999 | Varies greatly with private practice |
+| 高级（8年以上） | $90,000,000~$99,999,999 | 因私人执业而异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI expands the capabilities of Korean medicine doctors in diagnosis assistance, prescription recommendations, and literature analysis, but direct acupuncture procedures and patient consultations will remain a human domain.
+AI扩展了韩医在诊断辅助、处方推荐和文献分析方面的能力，但直接的针灸操作和患者咨询仍将属于人类领域。
 
-Career paths include graduate school, opening a practice or working at an Oriental medicine hospital, public health centers, research institutes, and advancement to professor or researcher.
+职业路径包括研究生院、开办诊所或在中医医院、公共卫生中心、研究所工作，并可晋升为教授或研究员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple consultation records
-- Basic medical interview data organization
-- Prescription writing assistance
+- 简单咨询记录
+- 基础医疗访谈数据整理
+- 处方书写辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Pulse and tongue diagnosis analysis
-- Herbal prescription recommendation
-- Acupuncture point decision support
+- 脉诊和舌诊分析
+- 草药处方推荐
+- 穴位决策支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Building patient trust
-- Direct procedures and tactile feedback
-- Holistic treatment judgment
+- 建立患者信任
+- 直接操作和触觉反馈
+- 整体治疗判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI diagnostic tools
-- Data-driven clinical research
-- Patient communication
+- 使用AI诊断工具
+- 数据驱动临床研究
+- 患者沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging
-- Health functional foods
-- Preventive medicine
-- Integrated Medicine
+- 老龄化
+- 保健功能食品
+- 预防医学
+- 综合医学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreigners with Oriental medicine license to work at domestic medical institutions, but very limited |
-| Subclass F-2 (F-2 (Residence)) | Eligible for employment as long-term resident, but requires Oriental medicine license |
-| Subclass F-5 (F-5 (Permanent Residence)) | Eligible for employment as permanent resident, but license must be obtained first |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient and meticulous person
-- Excellent patient empathy
-- Willing to endure long study
+- 耐心细致的人
+- 优秀的患者同理心
+- 愿意长期学习
 
 **谁不适合**
-- Desires quick profit
-- Clings to alternative treatments over scientific validation
+- 追求快速收益
+- 坚持替代疗法而非科学验证
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an Oriental medicine doctor?**
-答：For a salaried entry-level position (0-3 years), annual pre-tax salary is around 40-60 million KRW; varies greatly when opening a clinic.
+**问：东方医学医生的起薪是多少？**
+答：对于受薪入门级职位（0-3年），年税前薪资约4000万-6000万韩元；开设诊所时差异很大。
 
-**问：Can a foreigner work as an Oriental medicine doctor in Korea?**
-答：Yes, but obtaining a Korean Oriental medicine license is mandatory, and the E-7 visa issuance is very limited. Residence (F-2) or permanent residence (F-5) status is advantageous.
+**问：外国人能在韩国从事中医医生工作吗？**
+答：可以，但必须持有韩国韩医执照，且E-7签证发放非常有限。持有居住（F-2）或永久居住（F-5）身份更有利。
 
-**问：What education is needed to become an Oriental medicine doctor?**
-答：Graduation from a 6-year Oriental medicine program (Bachelor's) or a 4-year graduate school (Master's), and passing the national exam.
+**问：成为韩医需要什么教育？**
+答：毕业于6年制东方医学课程（学士）或4年制研究生院（硕士），并通过国家考试。
 
 
 ---
@@ -143,12 +133,12 @@ Career paths include graduate school, opening a practice or working at an Orient
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/oriental-medicine-doctor/KR)**

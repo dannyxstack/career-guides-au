@@ -51,8 +51,6 @@ Responsible for planning, organizing, directing, and coordinating operational ac
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not directly replace the core duties of early childhood education and care service operators, but will significantly reshape administrative, data analysis, and compliance tasks, while enhancing teaching content and home-school communication, requiring operators to quickly master educational technology tools.
-
 Can advance from childcare worker to supervisor, then to operator. With management experience, you can open a chain of childcare centers or transition to education consulting.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from childcare worker to supervisor, then to operator. With manageme
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically requires an early childhood education degree (such as EYTS) or equi
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-education-and-childcare-services-proprietors/UK)**

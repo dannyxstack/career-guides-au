@@ -4,8 +4,6 @@
 
 A job that operates printing machines to produce various printed materials such as newspapers, magazines, booklets, and packaging. It handles various printing methods including offset, digital, and gravure.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A job that operates printing machines to produce various printed materials such 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are reducing printing machine operation tasks. In particular, automation of digital printing is decreasing simple operation tasks, but areas requiring human judgment such as advanced color adjustment and quality control remain.
-
 Typically progresses from skilled worker → operator → foreman → factory manager. Obtaining printing-related certifications and experience with digital printing equipment are advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Typically progresses from skilled worker → operator → foreman → factory ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible for non-professional workers to get employed in printing companies, but generally limited as it's not a typical E-9 target industry. |
-| Subclass E-7 (Specific Activities (E-7)) | As a skilled printing technician, E-7-1 (Skills/Technology) is possible, but documentation is strict. |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residency stage, allowed for long-term residents. Free to work in printing industry. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Due to digitalization, printing demand is declining, so employment prospects 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/printing-machine-operator/KR)**

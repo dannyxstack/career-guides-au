@@ -51,8 +51,6 @@ Responsible for planning, directing, or coordinating medical and health services
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Healthcare manager roles in the AI era are mixed: task planning, scheduling, and data analysis will be enhanced by automation, but core responsibilities like clinical decisions, personnel management, and regulatory compliance still rely on humans; overall demand stable but content changing profoundly.
-
 Typically start in clinical or administrative roles, gain experience, then advance to department manager, assistant director, and eventually become a medical and health services manager. A master's degree (e.g., MHA or MBA) can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically start in clinical or administrative roles, gain experience, then advan
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to those with a master's or bachelor's + 5 years experience, requires PERM labor certification. |
 | Subclass Green Card (PERM) (Permanent Residence via PERM) | Employer-sponsored permanent migration, must demonstrate labor shortage. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a bachelor's degree, but employers prefer a master's (MHA, M
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-health-services-managers/US)**

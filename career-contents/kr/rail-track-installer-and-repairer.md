@@ -50,8 +50,6 @@ A specialized technical occupation for installing and maintaining railway tracks
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist in some tasks such as analyzing track inspection data or controlling automatic welding equipment, but core tasks requiring field judgment and precision manual work are difficult to replace with AI. Therefore, the impact of automation is limited and is expected to improve work efficiency.
-
 Starting as a junior technician, advancement to mid-level (team leader) and senior level (foreman, engineer) is possible. After obtaining certifications, one can move into management or railway safety roles.
 
 **Tasks most exposed to AI:**
@@ -87,15 +85,9 @@ Starting as a junior technician, advancement to mid-level (team leader) and seni
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Can be assigned to railway construction sites under the Foreign Worker Employment Permit, limited to purely manual labor |
-| Subclass E-7 (Specific Activities) | Can be issued if recognized as a skilled technical worker, railway facility maintenance specialist |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +131,12 @@ A: Yes, a railroad track technician license is required, obtained through the Ko
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-track-installer-and-repairer/KR)**

@@ -4,8 +4,6 @@
 
 Specialist who operates excavation machinery for large-scale civil engineering projects such as dams and tunnels.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Specialist who operates excavation machinery for large-scale civil engineering p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Limited impact from AI and automation. Excavation machinery automation and remote operation are progressing, but on-site judgment and safety management remain human tasks.
-
 Gain field experience, acquire heavy machinery licenses and specialized skills like gauge man, then advance to crew leader or site supervisor.
 
 **Tasks most exposed to AI:**
@@ -89,17 +85,9 @@ Gain field experience, acquire heavy machinery licenses and specialized skills l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Specified skilled worker in construction. Requires skills test and Japanese N4 level. Max stay 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Graduate of vocational school or above, engaged in technical work. Long-term stay/permanent residence possible. |
-| Subclass 技能実習 (Technical Intern Training (Construction)) | Max 3 years, return to home country assumed. Works as trainee in construction. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: Obtain larger vehicle licenses or blasting technician qualifications, aim for
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dam-and-tunnel-excavation-worker/JP)**

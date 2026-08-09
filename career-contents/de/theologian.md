@@ -53,8 +53,6 @@ Theologians research religious teachings, teach, and engage in pastoral work, ca
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
-
 Career path: Starting as an assistant pastor or research assistant, can advance to senior pastor, theology professor, or senior church management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Starting as an assistant pastor or research assistant, can advance 
 | Subclass EU Blue Card (EU Blue Card) | Applicable to Master of Theology or higher, annual salary must meet threshold (approx. €43,800 in 2024) |
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to those holding a theology degree and obtaining a church employment contract |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must obtain a church employment contract and pass credential evaluation to ap
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/theologian/DE)**

@@ -53,8 +53,6 @@ Photography Technicians are responsible for setting up, maintaining, and operati
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on photography technicians is mixed: automated post-processing tools reduce traditional darkroom and simple retouching roles, but generative AI and smart imaging systems expand creative possibilities, requiring professionals to evolve into AI curators with skills in prompt engineering, computational photography, and colour management.
-
 Career path: from junior technician to senior photographer or specialist in a niche area (e.g., medical photography). Further study can lead to media design or imaging technology management. After dual-system training, one can also become a freelancer.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career path: from junior technician to senior photographer or specialist in a ni
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires completing a 3-year dual training program and obtaining an I
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/phototechnics-technician/DE)**

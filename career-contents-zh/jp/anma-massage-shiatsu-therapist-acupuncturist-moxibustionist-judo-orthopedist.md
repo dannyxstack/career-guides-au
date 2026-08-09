@@ -1,10 +1,8 @@
-# Anma Massage/Shiatsu Therapist / Acupuncturist / Moxibustionist / Judo Orthopedist 职业分析 · 日本
+# 按摩师/指压师/针灸师/艾灸师/柔道整复师（Anma Massage/Shiatsu Therapist / Acupuncturist / Moxibustionist / Judo Orthopedist）职业分析 · 日本
 
-**职业代码: 152 (JSCO)**
+**职业代码：152 (JSCO)**
 
-A nationally licensed medical professional who improves physical ailments through manual techniques and acupuncture/moxibustion. Works at orthopedic clinics, acupuncture clinics, and medical facilities.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过手法技术和针灸/艾灸改善身体不适的国家许可医疗专业人员。在骨科诊所、针灸诊所和医疗机构工作。
 
 
 ---
@@ -13,8 +11,8 @@ A nationally licensed medical professional who improves physical ailments throug
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (3 years) | 3年 | $3,000,000~$4,000,000（Total tuition fees, excluding enrollment fees.） |
-| University (4 years) | 4年 | $5,000,000~$7,000,000（Including for science-related fields.） |
+| 职业学校（3年） | 3年 | $3,000,000~$4,000,000（总学费，不含注册费。） |
+| 大学（4年） | 4年 | $5,000,000~$7,000,000（包括理工科领域。） |
 
 ---
 
@@ -22,19 +20,19 @@ A nationally licensed medical professional who improves physical ailments throug
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National License for Anma Massage/Shiatsu Therapist | Ministry of Health, Labour and Welfare | 必备 | Required. Must complete 3+ years at a vocational school, etc. |
-| National License for Acupuncturist | Ministry of Health, Labour and Welfare | 必备 | Required. Can be obtained concurrently with Anma Massage/Shiatsu Therapist license. |
-| National License for Moxibustionist | Ministry of Health, Labour and Welfare | 必备 | Required. Shared curriculum with Acupuncturist. |
-| National License for Judo Orthopedist | Ministry of Health, Labour and Welfare | 可选 | Separate training facility of 3+ years required. |
+| 全国按摩指压师/针灸师执照 | 厚生劳动省 | 必备 | 要求：必须在职业学校等完成3年以上学业。 |
+| 国家针灸师执照 | 厚生劳动省 | 必备 | 必需。可与安摩/指压治疗师执照同时获得。 |
+| 灸疗师国家执照 | 厚生劳动省 | 必备 | 必需。与针灸师共享课程。 |
+| 国家柔道整复师执照 | 厚生劳动省 | 可选 | 需要3年以上独立的培训设施。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Demand is stable due to aging population. Chronic labor shortage continues, employment outlook is good.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。由于人口老龄化，需求稳定。长期劳动力短缺持续，就业前景良好。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,89 +40,82 @@ A nationally licensed medical professional who improves physical ailments throug
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $3,000,000~$4,000,000 | Varies by workplace |
-| Mid level (3–10 years) | $4,000,000~$5,500,000 | Varies with clinic size and preparation for independence |
-| Senior (10+ years / independent practice) | $5,500,000~$8,000,000 | High income possible with own practice |
+| 初级（0–3年） | $3,000,000~$4,000,000 | 因工作场所而异 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 因诊所规模及独立准备情况而异 |
+| 高级（10年以上/独立执业） | $5,500,000~$8,000,000 | 拥有自己的诊所可获得高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI-based automatic treatment is difficult, AI may increasingly assist with supplementary tasks like interviews and medical record management.
+虽然基于AI的自动治疗困难，但AI可能越来越多地协助面试和病历管理等补充任务。
 
-Career advancement possible through experience: independent practice or specialization (e.g., sports injury prevention). Broad career path.
+通过经验可晋升为独立执业或专业化（如运动损伤预防），职业道路宽广。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Filling out and tabulating intake forms
-- Creating insurance claims
+- 填写和编制入院表格
+- 创建保险索赔
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assisting in symptom evaluation
-- Automatic generation of progress notes
+- 辅助症状评估
+- 自动生成进度记录
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual treatment by humans
-- Building trust with patients
+- 人工手动处理
+- 建立患者信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating AI diagnostic support tools
-- Business management
-- Sports massage
+- 操作AI诊断辅助工具
+- 商业管理
+- 运动按摩
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Anma massage
-- Acupuncture/moxibustion
-- Judo therapy
-- Preventive care for the elderly
+- 按摩
+- 针灸/艾灸
+- 柔道疗法
+- 老年人预防保健
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Required for foreigners to practice in Japan; relevant work experience and Japanese ability needed. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Available in caregiving but not for massage, etc. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in manual techniques
-- People who want to help others
-- People confident in their physical strength
+- 对动手技术感兴趣的人
+- 愿意帮助他人者
+- 对自己体力有信心的人
 
 **谁不适合**
-- People concerned about hygiene
-- People with physical concerns
+- 注重卫生的人士
+- 有身体顾虑的人士
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the annual income of an anma massage therapist?**
-答：Depends on workplace and experience; first year approx. 3-4 million yen. With own practice, 6 million yen or more is possible.
+**问：按摩治疗师的年收入是多少？**
+答：取决于工作场所和经验；第一年约300万至400万日元。拥有自己的诊所则可能达到600万日元以上。
 
-**问：How can foreigners work as judo therapists in Japan?**
-答：An Engineer/Specialist in Humanities/International Services visa is required. After obtaining a national license, related work experience and Japanese proficiency (around N2) are needed. It is not covered by Specified Skilled Worker.
+**问：外国人如何在日本从事柔道治疗师工作？**
+答：需要人文/国际服务领域的工程师/专家签证。获得国家执照后，需相关工作经验及日语能力（约N2水平）。不涵盖特定技能工人签证。
 
-**问：What is needed to start an independent practice?**
-答：National license, startup funds (¥5–10 million), approval of the treatment facility, and efforts to acquire patients are necessary.
+**问：开始独立执业需要什么？**
+答：需要国家执照、启动资金（500-1000万元人民币）、治疗设施审批以及努力获取患者。
 
 
 ---
@@ -142,12 +133,12 @@ Career advancement possible through experience: independent practice or speciali
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/anma-massage-shiatsu-therapist-acupuncturist-moxibustionist-judo-orthopedist/JP)**

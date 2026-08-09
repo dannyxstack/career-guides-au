@@ -55,8 +55,6 @@ Train animals for riding, harness, security, performance, obedience, or assistin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance training plans and behavior monitoring, but cannot replace non-verbal interaction, emotional connection, and on-site adaptability with animals. Entry-level positions become more competitive due to AI tools, but demand for senior trainers remains stable.
-
 Start as an assistant trainer, gain experience to become head trainer or supervisor. Some move into animal performance choreography, animal behavior consulting, or start training schools. Marine mammal trainers need diving knowledge; racehorse trainers need knowledge of feeding and veterinary basics.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as an assistant trainer, gain experience to become head trainer or supervi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Most positions only require a high school diploma, but an associate or bachel
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-trainers/US)**

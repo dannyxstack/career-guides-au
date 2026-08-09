@@ -4,8 +4,6 @@
 
 Responsible for monitoring and operating glass production equipment (such as furnaces, forming machines, annealing furnaces), ensuring glass products are produced to specifications, conducting quality inspections, and performing basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for monitoring and operating glass production equipment (such as fur
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Operators of glass production facilities will face AI and automation reinvention: some monitoring and quality inspection tasks can be replaced by machine vision and predictive algorithms, but complex fault handling, process debugging, and cross-job collaboration still require human experience, resulting in mixed outcomes.
-
 Junior operators can be promoted to production line supervisors or process technicians, or through internal training can move to positions such as quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Junior operators can be promoted to production line supervisors or process techn
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Residence Permit) | Must obtain a French employer employment contract and have the position registered with ANPE (usually requiring labor market testing). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you hold a master's degree or above, or if you are recruited by a high-tech project, you may apply, but this profession usually does not meet the requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Usually requires high school diploma plus CAP or Bac Pro vocational training,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-production-plant-operator/FR)**

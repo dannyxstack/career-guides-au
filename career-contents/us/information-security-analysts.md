@@ -52,8 +52,6 @@ Responsible for planning, implementing, and monitoring computer network security
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
-
 Can advance from security analyst to senior security engineer, security architect, or chief information security officer (CISO), or transition to cloud security, penetration testing, and other subfields.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from security analyst to senior security engineer, security architec
 | Subclass EB-3 (Employment-Based Third Preference) | Green card path, requires bachelor's degree, requires PERM. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For extraordinary talent, no labor certification required, must demonstrate extraordinary achievement. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Entry-level recommendation: CompTIA Security+. Advanced options: CISSP or CIS
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-security-analysts/US)**

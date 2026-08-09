@@ -54,8 +54,6 @@ IT project coordinators manage the progress, resources, and communication of IT 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-IT project coordinators face dual impact of AI automation and augmentation. Routine tasks like scheduling and report generation will be replaced, but AI cannot replace interpersonal communication and complex decision-making, so overall risk is manageable.
-
 Career progression typically moves from junior coordinator to senior project coordinator, then to project manager (IT Project Manager) or PMO lead. Gaining experience and obtaining PMP or PRINCE2 certification enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression typically moves from junior coordinator to senior project coo
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to IT project manager or PMO manager. With experience and certifi
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-project-coordinator/NZ)**

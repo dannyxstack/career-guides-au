@@ -53,8 +53,6 @@ Early childhood educators are responsible for the care and education of children
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI is generally an amplifier for early childhood educators, not a replacement; automation has limited impact on core care and teaching, but AI tools can greatly improve lesson planning, assessment, and communication efficiency, allowing teachers to focus on personalized interaction.
-
 Can progress from assistant teacher to lead teacher or management role, such as childcare centre manager. Further education can lead to becoming a primary school teacher or special education worker.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from assistant teacher to lead teacher or management role, such as 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to shortage occupations, requiring an annual salary of €30,000 or more, and the occupation must be on the critical skills list. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to higher education workers, with a high annual salary requirement (approximately €42,000). |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Minimum QQI Level 5 certificate in early childhood education required; lead t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-educator/IE)**

@@ -52,8 +52,6 @@ Pastry chefs have stable demand in New Zealand and can migrate via Skilled Migra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pastry chefs have high creativity, difficult for AI to fully replicate, but standardized production and ingredient optimization are already impacted by AI tools; entry-level roles like process-based baking operations face replacement risk, overall a mixed outlook.
-
 Can advance from assistant pastry chef to senior pastry chef, supervisor, or start your own business. With experience, you can also shift to food R&D or teaching roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from assistant pastry chef to senior pastry chef, supervisor, or sta
 | Subclass Green List T1 (Green List Tier 1 - Straight to Residence) | This occupation is not on the Green List and is not eligible for the direct residence pathway. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can be sponsored by an accredited employer, and apply for residency after 2 years of work, subject to salary and qualification requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completion of the New Zealand Certificate in Baking (Level
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pastrycook/NZ)**

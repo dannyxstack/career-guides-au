@@ -52,8 +52,6 @@ Covers technical support roles not separately classified in architecture and eng
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Building and engineering technicians (other) face mixed AI impact: routine drafting, testing, documentation tasks will be automated, but on-site coordination, complex fault diagnosis, and cross-team communication still require humans; opportunities and challenges coexist.
-
 Can progress from junior technician to senior technician or project coordinator; some transition to project manager or engineer with experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from junior technician to senior technician or project coordinator;
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requires state government nomination |
 | Subclass 189 (Skilled Independent Visa) | Skilled Independent Permanent Visa, requires occupation on the MLTSSL |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from junior technician to senior technician, project coordinator
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-and-engineering-technicians-nec/AU)**

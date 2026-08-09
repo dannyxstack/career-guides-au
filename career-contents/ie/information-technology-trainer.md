@@ -52,8 +52,6 @@ Responsible for designing, delivering and evaluating IT training courses to enha
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of information technology trainers will be partially automated, but human roles remain important due to interpersonal interaction and course design needs. AI can handle knowledge delivery and assessment, but personalized guidance and adapting to learner needs remain human-led.
-
 Can progress from entry-level trainer to senior trainer or training manager, or pivot to curriculum design, learning and development consulting, or IT consulting. With experience, opportunities exist to become an independent consultant or training team leader.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from entry-level trainer to senior trainer or training manager, or 
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, with the acceleration of digital transformation, corporate training dema
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-technology-trainer/IE)**

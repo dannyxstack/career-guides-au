@@ -52,8 +52,6 @@ Diagnose, adjust, repair, or overhaul automotive vehicles, including engines, tr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Can start as an apprentice or junior technician, then advance through experience and manufacturer certifications (ASE) to senior technician, team leader, or service manager. Some technicians may start their own independent repair shops.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can start as an apprentice or junior technician, then advance through experience
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires PERM labor certification and at least 2 years of training or experience; employer-sponsored immigration possible |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to hire qualified US workers, process is lengthy |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Obtain ASE certification, manufacturer-specific training, and master electric
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-service-technicians-and-mechanics/US)**

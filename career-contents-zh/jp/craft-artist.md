@@ -1,10 +1,8 @@
-# Craft Artist 职业分析 · 日本
+# 工艺美术师（Craft Artist）职业分析 · 日本
 
-**职业代码: 223 (JSCO)**
+**职业代码：223 (JSCO)**
 
-Specialist creating traditional crafts or contemporary art works. Works in diverse fields including pottery, lacquer art, metalwork, and dyeing/weaving, contributing to Japanese cultural heritage and innovation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+创作传统工艺或当代艺术品的专家。从事陶瓷、漆艺、金属工艺、印染等多个领域，为日本文化遗产和创新做出贡献。
 
 
 ---
@@ -13,9 +11,9 @@ Specialist creating traditional crafts or contemporary art works. Works in diver
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Craft Department) | 2-3年 | $1,000,000~$3,000,000（Typical tuition for vocational schools.） |
-| University (Fine Arts/Crafts Department) | 4年 | $4,000,000~$8,000,000（Tuition for private universities.） |
-| 学徒制 | 3-7 years | $0~$0（Traditional apprenticeship system. Low income but no tuition fees.） |
+| 职业学校（工艺系） | 2-3年 | $1,000,000~$3,000,000（职业学校的典型学费。） |
+| 大学（美术/工艺系） | 4年 | $4,000,000~$8,000,000（私立大学学费。） |
+| 学徒制 | 3-7年 | $0~$0（传统学徒制。收入低但无学费。） |
 
 ---
 
@@ -23,17 +21,17 @@ Specialist creating traditional crafts or contemporary art works. Works in diver
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Traditional Craft Artisan | Certification based on the Act on Promotion of Traditional Craft Industries designated by METI | 可选 | Requires exams and experience in each field. Naming is optional but effective for credibility. |
-| Art Proficiency Test | Japan Art Proficiency Test Association | 可选 | Proves knowledge level. Beneficial for employment/promotion but not mandatory. |
+| 传统工艺匠人 | 基于经济产业省指定的传统工艺产业振兴法的认证 | 可选 | 需要各领域的考试和经验。命名可选但对信誉有效。 |
+| 艺术能力测试 | 日本艺术技能考试协会 | 可选 | 证明知识水平。对就业/晋升有益，但非强制。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 35,000. Demand is stable but market scale is limited. Aging population and lack of successors are challenges. Growing overseas demand for traditional crafts expands opportunities in export and tourism.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 35,000。需求稳定但市场规模有限。老龄化和缺乏后继者是挑战。海外对传统工艺的需求增长扩大了出口和旅游的机会。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ Specialist creating traditional crafts or contemporary art works. Works in diver
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $2,500,000~$3,500,000 | Income from apprenticeship or subcontract work. |
-| Mid Level (3-10 years) | $3,500,000~$5,000,000 | Stable income as artisan. Varies by solo exhibitions and order track record. |
-| Advanced Level (10+ years) | $5,000,000~$8,000,000 | High income potential due to reputation/brand power. Additional income from gallery management or teaching. |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 学徒或分包工作收入。 |
+| 中级（3-10年） | $3,500,000~$5,000,000 | 工匠收入稳定，因个展和订单记录而异。 |
+| 高级（10年以上） | $5,000,000~$8,000,000 | 由于声誉/品牌力，收入潜力高。通过画廊管理或教学获得额外收入。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Craft artist work is centered on manual labor and creativity, making it difficult to fully replace with AI, though AI is advancing in some processes like design concept generation and marketing. While AI serves as a new creative tool, the value of complete craftsmanship remains unchanged.
+工艺美术师的工作以手工劳动和创造力为核心，难以被AI完全替代，尽管AI在设计概念生成和营销等流程中有所发展。AI作为新的创意工具，但纯手工工艺的价值依然不变。
 
-Shift from apprenticeship to vocational schools/universities is progressing. Increasing cases of solo practice, gallery management, or corporate collaboration. Fusion with product design or contemporary art is key to advancement.
+从学徒制向职业院校/大学的转变正在推进。个人执业、画廊管理或企业合作的案例增加。与产品设计或当代艺术的融合是进步的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Pattern Generation
-- Color Suggestions
-- Simple Decorative Design
+- 图案生成
+- 颜色建议
+- 简单装饰设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Design Prototyping and Revision
-- Creating Client Presentation Materials
-- SNS Marketing
+- 设计原型制作与修改
+- 创建客户演示材料
+- SNS营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Delicacy and Character of Handwork
-- Knowledge of Traditional Techniques
-- Artist's Unique Artistry
+- 手工艺的精细与特色
+- 传统技术知识
+- 艺术家的独特艺术性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI Design Tools
-- Branding and Marketing
-- Developing Overseas Sales Channels
+- 利用AI设计工具
+- 品牌与营销
+- 开拓海外销售渠道
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional Crafts
-- Contemporary Art
-- Overseas Export
-- Tourism Demand
+- 传统工艺
+- 当代艺术
+- 海外出口
+- 旅游需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university-level education and work experience in arts and crafts. Employment at a workshop or company is assumed. |
-| Subclass 特定活動（文化芸術） (Designated Activities (Culture/Arts)) | Visa for artist activities. Income and performance record are reviewed. |
-| Subclass 短期滞在 (Short Stay (Entertainment)) | Usable for short-term activities such as exhibitions and workshops. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are creative and able to express themselves
-- People with meticulous manual skills and patience
-- People with a deep interest in Japanese culture and traditions
+- 有创造力且善于表达自我的人
+- 细心手工技能及耐心人士
+- 对日本文化和传统有浓厚兴趣的人
 
 **谁不适合**
-- People who value stable income
-- People seeking short-term results
+- 重视稳定收入的人
+- 追求短期结果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a craft artist?**
-答：It varies greatly by experience and reputation, but roughly 2.5–3.5 million JPY for entry-level, 3.5–5 million JPY for intermediate, and 5–8 million JPY for advanced. Sales depend on piece prices and exhibition frequency.
+**问：工艺美术师的平均年收入是多少？**
+答：因经验和声誉差异很大，但入门级约250-350万日元，中级350-500万日元，高级500-800万日元。销售额取决于单件价格和展览频率。
 
-**问：Can foreigners work as craft artists in Japan?**
-答：Possible. However, the 'Engineer/Specialist in Humanities/International Services' visa requires post-graduation work experience and an employment contract in the crafts field. Artistic activities may be permitted under a 'Designated Activities' visa.
+**问：外国人能在日本从事工艺美术师工作吗？**
+答：可能。然而，“工程师/人文专家/国际服务”签证需要毕业后工作经历以及与手工艺领域的雇佣合同。艺术活动可能允许在“指定活动”签证下进行。
 
-**问：How can I advance my career?**
-答：Holding solo exhibitions, winning prizes in open competitions, obtaining traditional craftsman certification, and participating in overseas exhibitions are effective. Starting your own business or collaborating with companies are also career options.
+**问：如何提升我的职业生涯？**
+答：举办个展、在公开比赛中获奖、获得传统工匠认证、参加海外展览是有效的。自主创业或与企业合作也是职业选择。
 
 
 ---
@@ -145,12 +135,12 @@ Shift from apprenticeship to vocational schools/universities is progressing. Inc
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/craft-artist/JP)**

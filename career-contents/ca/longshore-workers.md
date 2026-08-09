@@ -52,8 +52,6 @@ Responsible for loading and unloading cargo at ports, operating forklifts, crane
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Stevedores face moderate automation risk; physical and coordination tasks will be partially replaced by equipment, but safety supervision and emergency judgment rely on human experience, with AI mostly assisting and augmenting.
-
 Can progress from general worker to team leader, equipment operator, or scheduler by accumulating experience and obtaining relevant equipment operation certificates.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from general worker to team leader, equipment operator, or schedule
 | Subclass PNP (Provincial Nominee Program) | Some provinces offer provincial nominations, e.g., BC, Ontario, etc. |
 | Subclass Express Entry (Express Entry) | Requires combination with other skills or experience; dock worker experience alone is unlikely to meet requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually requires employer sponsorship (LMIA) or provincial nomination (PNP); 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/longshore-workers/CA)**

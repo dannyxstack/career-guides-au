@@ -1,10 +1,8 @@
-# Product brokers and auctioneers 职业分析 · 韩国
+# 产品经纪人和拍卖师（Product brokers and auctioneers）职业分析 · 韩国
 
-**职业代码: 61251 (KECO)**
+**职业代码：61251 (KECO)**
 
-Professionals who mediate transactions or conduct auctions for various goods such as agricultural, fisheries, livestock products, used cars, and artworks; demand remains stable due to the growth of Korea's auction market and online trading platforms.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为农产品、水产品、畜产品、二手车、艺术品等各种商品撮合交易或进行拍卖的专业人士；因韩国拍卖市场和在线交易平台的发展，需求保持稳定。
 
 
 ---
@@ -13,8 +11,8 @@ Professionals who mediate transactions or conduct auctions for various goods suc
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Minimum education: high school diploma or higher） |
-| Junior college/university (distribution, trade, business) | 2-4年 | $10,000,000~$40,000,000（Including tuition and textbook fees） |
+| 高中毕业 | 0年 | $0~$0（最低学历：高中或以上） |
+| 大专/大学（分销、贸易、商务） | 2-4年 | $10,000,000~$40,000,000（包括学费和教材费） |
 
 ---
 
@@ -22,18 +20,18 @@ Professionals who mediate transactions or conduct auctions for various goods suc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Auctioneer license | Korea Agro-Fisheries & Food Trade Corporation | 必备 | Mandatory for agricultural and fisheries auctioneers |
-| Brokerage registration | Korea Appraisal Board/Local government | 可选 | Required in some fields such as real estate auctions |
-| Licensed real estate agent | Human Resources Development Service of Korea | 可选 | Favorable for real estate brokerage |
+| 拍卖师执照 | 韩国农渔食品贸易公司 | 必备 | 农业和水产拍卖师必须持有 |
+| 经纪登记 | 韩国评估委员会/地方政府 | 可选 | 某些领域需要，如房地产拍卖 |
+| 持证房地产经纪人 | 韩国人力资源开发服务局 | 可选 | 有利于房地产经纪 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Digital transformation is expanding online auctions, but demand for traditional auctioneers is expected to stagnate or slightly decrease. Skilled brokers maintain steady demand based on networks and trust.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。数字化转型正在扩大在线拍卖，但对传统拍卖师的需求预计将停滞或略有下降。基于人脉和信任，熟练的经纪人仍可保持稳定需求。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ Professionals who mediate transactions or conduct auctions for various goods suc
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$35,000,000 | Intern level at small auction houses |
-| 中级（4-9年） | $35,000,000~$50,000,000 | Average for auctioneers/brokers |
-| Advanced (10+ years) | $50,000,000~$80,000,000 | Professional auctioneer or independent broker |
+| 初级（0-3年） | $24,000,000~$35,000,000 | 小型拍卖行实习生级别 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 拍卖师/经纪人平均 |
+| 高级（10年以上） | $50,000,000~$80,000,000 | 专业拍卖师或独立经纪人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and online platforms automate simple brokerage and auction information delivery, but human trust and negotiation skills remain important, so the scope of work is reduced but not completely replaced.
+AI和在线平台自动化了简单的经纪和拍卖信息传递，但人的信任和谈判技能仍很重要，因此工作范围缩小但未完全被取代。
 
-Early career starts as a transaction or auction assistant; after 5-10 years, become an independent broker or certified auctioneer. Possible to work at large auction houses, agricultural cooperatives, fisheries cooperatives, etc., before starting a business.
+早期职业生涯从交易或拍卖助理开始；5-10年后成为独立经纪人或认证拍卖师。可在大型拍卖行、农业合作社、渔业合作社等机构工作后再创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Product information search and matching
-- Basic pricing
-- Contacting and managing auction participants
+- 产品信息搜索与匹配
+- 基本定价
+- 联系和管理拍卖参与者
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market analysis and forecasting
-- Customer-customized recommendations
-- Online auction management
+- 市场分析与预测
+- 客户定制推荐
+- 在线拍卖管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Human relationships and trust
-- On-site auction know-how
-- Complex negotiation skills
+- 人际关系与信任
+- 现场拍卖技巧
+- 复杂谈判技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Online marketing
-- Data analysis
-- Digital platform utilization
-- Negotiation skills
+- 在线营销
+- 数据分析
+- 数字平台使用
+- 谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online auction
-- Agricultural and fisheries product distribution
-- Used car trading
-- Platform brokerage
+- 在线拍卖
+- 农水产品流通
+- 二手车交易
+- 平台经纪
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreigners with specialized knowledge/skills, possible in auction-related professions |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can freely engage in brokerage activities |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Sociable and good negotiator
-- Interested in market trends
-- Prefers working independently
+- 善于社交且谈判能力强
+- 对市场趋势感兴趣
+- 偏好独立工作
 
 **谁不适合**
-- Dislikes personal contact
-- Dislikes risk-taking
+- 不喜欢人际接触
+- 不喜欢冒险
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Starting annual salary is 24-35 million KRW for entry level, increasing significantly with experience and performance.
+**问：起薪是多少？**
+答：入门级年薪2400-3500万韩元，随经验和表现显著增加。
 
-**问：Can foreigners get a job in this profession in Korea?**
-答：Professional auctioneers or brokers can apply for an E-7 visa, but Korean language skills and field experience are important, making it limited.
+**问：外国人能在韩国从事这个职业吗？**
+答：专业拍卖师或经纪人可申请E-7签证，但韩语能力和现场经验很重要，因此有限制。
 
-**问：Are there required certifications?**
-答：A certificate as an agricultural and fisheries product auctioneer is required, and additional qualifications may be needed depending on the field.
+**问：是否需要必需的认证？**
+答：需要农业水产品拍卖师证书，根据领域可能还需额外资格。
 
 
 ---
@@ -145,12 +136,12 @@ Early career starts as a transaction or auction assistant; after 5-10 years, bec
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/product-brokers-and-auctioneers/KR)**

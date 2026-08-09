@@ -52,8 +52,6 @@ Responsible for installing, diagnosing, and repairing communication, audio, secu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI/automation has mixed impact on motor vehicle electronic equipment installers and repairers: diagnostic and configuration tasks can be AI-enhanced, but physical installation and complex troubleshooting still rely on humans; entry-level positions narrow due to standardized diagnostic tools, but demand for advanced repairs increases.
-
 Can advance from junior installer to senior maintenance technician, team supervisor, or store manager. With experience, can transition to automotive electronics system design or technical training roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Can advance from junior installer to senior maintenance technician, team supervi
 | Subclass EB-3 (EB-3 Skilled Workers) | Skilled worker green card requires 2 years of training or experience. PERM labor certification process, but such occupations typically have fewer applications. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable only to a very few outstanding talents, not common. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: No mandatory certification, but MECP certification can increase employment op
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-equipment-installers-and-repairers-motor-vehicles/US)**

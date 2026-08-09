@@ -52,8 +52,6 @@ Under the guidance of engineers or scientists, apply environmental engineering p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of environmental consultants (report writing, data analysis, regulatory compliance) will be significantly enhanced by AI, but human abilities like field investigation, client communication, and strategic decision-making remain irreplaceable. Entry-level roles are slightly compressed due to automation of basic tasks, but demand for compound talents rises. Overall, it's a mixed risk.
-
 Junior technicians can advance to senior technicians, project supervisors, or environmental engineers. Some transition to registered engineers through further education, or move into environmental consulting or government regulatory roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to senior technicians, project supervisors, or en
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Green card pathway, requires PERM labor certification, applies to skilled workers with 2+ years of training or experience. |
 | Subclass TN (TN NAFTA Professional) | Open only to Canadian and Mexican citizens; environmental engineering occupations may qualify, but technician roles need confirmation of professional classification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Common pathways are the H-1B visa (requires a bachelor's degree or equivalent
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-engineering-technologists-and-technicians/US)**

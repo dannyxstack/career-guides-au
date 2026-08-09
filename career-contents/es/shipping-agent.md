@@ -51,8 +51,6 @@ Shipping agents are responsible for coordinating ship entry and exit, cargo load
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core coordination and communication functions of shipping agencies are not easily automated, but tasks such as data processing and document inspection face risks of AI substitution, resulting in a mixed overall situation.
-
 You can be promoted from junior document officer to senior agent or department supervisor, or move to freight forwarding or logistics management positions. Those with multilingual abilities and international logistics experience will have better prospects.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can be promoted from junior document officer to senior agent or department s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residency applies to shipping agents employed by Spanish companies. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | The High-Skilled Talent visa is suitable for professionals whose annual salary exceeds a certain threshold, with a faster process. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: You can obtain an employer-sponsored work residence (Cuenta ajena) or a highl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shipping-agent/ES)**

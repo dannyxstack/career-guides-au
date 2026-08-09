@@ -1,10 +1,8 @@
-# Nursing Assistant 职业分析 · 日本
+# 护理助理（Nursing Assistant）职业分析 · 日本
 
-**职业代码: 371 (JSCO)**
+**职业代码：371 (JSCO)**
 
-Healthcare support staff who assist nurses in hospitals and elderly care facilities by tending to patients' daily needs and maintaining the environment.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在医院和老年护理机构中协助护士照顾患者日常需求并维护环境的医疗支持人员。
 
 
 ---
@@ -13,9 +11,9 @@ Healthcare support staff who assist nurses in hospitals and elderly care facilit
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Only high school graduation required for employment） |
-| Nursing Assistant Training Course | 3个月至1年 | $100,000~$500,000（Training at vocational schools or medical institutions） |
-| Licensed Practical Nurse Training Program | 2 年 | $500,000~$1,500,000（Correspondence courses available; for career advancement） |
+| 高中文凭 | 3年 | $0~$0（仅需高中毕业即可就业） |
+| 护理助理培训课程 | 3个月至1年 | $100,000~$500,000（在职业学校或医疗机构培训） |
+| 执业实习护士培训项目 | 2 年 | $500,000~$1,500,000（提供函授课程；用于职业提升。） |
 
 ---
 
@@ -23,18 +21,18 @@ Healthcare support staff who assist nurses in hospitals and elderly care facilit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| In-house Medical Facility Training Completion | Each medical institution | 必备 | Required depending on workplace |
-| Nursing Assistant Certification Exam | Japanese Nursing Association | 可选 | Optional but advantageous to obtain |
-| Initial Training for Care Workers | Prefectural designated institutions | 可选 | Advantageous for working in elderly care facilities |
+| 内部医疗设施培训完成 | 各医疗机构 | 必备 | 视工作场所要求 |
+| 护理助理认证考试 | 日本护理协会 | 可选 | 非必需但建议获得 |
+| 护理人员入职培训 | 县级指定机构 | 可选 | 有利于在老年护理机构工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 340,000. Due to the aging population, demand for medical and nursing care is increasing, so the need for nursing assistants remains stable and staff shortages are expected to persist.
+**职位需求量：很高（★★★★½）** 全国从业人数约 340,000。由于人口老龄化，医疗和护理需求增加，因此护理助理的需求保持稳定，人员短缺预计将持续。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,95 +40,87 @@ Healthcare support staff who assist nurses in hospitals and elderly care facilit
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级（0–3年） | $2,500,000~$3,200,000 | National average, including bonus |
-| Mid-level (4–10 years) | $3,200,000~$4,000,000 | Varies by experience and qualifications |
-| Advanced (10+ years) | $4,000,000~$5,000,000 | Includes leadership duties and night shift allowance |
+| 初级（0–3年） | $2,500,000~$3,200,000 | 全国平均水平，含奖金 |
+| 中级（4-10年） | $3,200,000~$4,000,000 | 因经验和资历而异 |
+| 高级（10年以上） | $4,000,000~$5,000,000 | 包括领导职责和夜班津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While some tasks are being automated by AI and robots, interpersonal care and delicate responses still require humans, making full replacement difficult.
+虽然一些任务正在被人工智能和机器人自动化，但人际关怀和细致应对仍需要人类，因此完全替代是困难的。
 
-Career advancement to become a licensed practical nurse or registered nurse is possible. In hospitals, one can gain experience and move into leadership roles.
+职业发展可以成为持证实践护士或注册护士。在医院中可以积累经验并晋升到领导职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Bed making
-- Disinfection and replenishment of supplies
-- Assisting patient transport
+- 铺床
+- 消毒和补给供应
+- 协助患者转运
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Recording patient observations
-- Operating care robots
-- Assisting with data entry
+- 记录患者观察
+- 操作护理机器人
+- 协助数据输入
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Non-verbal communication
-- Adaptability
-- Team collaboration
+- 同理心
+- 非语言沟通
+- 适应能力
+- 团队协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Communication skills
-- Observation skills
-- Caregiving Skills
-- ICT Literacy
+- 沟通能力
+- 观察技能
+- 护理技能
+- 信息通信技术素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Home healthcare
-- Caregiver shortage
-- Community-based integrated care
+- 人口老龄化
+- 家庭医疗
+- 护理人员短缺
+- 社区综合照护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Nursing Care)) | Residence possible in nursing care. Requires exam pass and Japanese ability. |
-| Subclass 技能実習 (Technical Intern Training (Nursing Care)) | Learn nursing assistant duties in 3-year internship. No job changes allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Nursing assistant not applicable)) | Generally not eligible. Does not fall under work requiring specialized skills. |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy caring for others
-- People confident in physical stamina
-- People who value teamwork
+- 喜欢照顾他人的人
+- 身体耐力好的人
+- 重视团队合作的人
 
 **谁不适合**
-- People uncomfortable with cleaning tasks
-- People who struggle with irregular hours
+- 不习惯清洁工作的人
+- 不适应不规律作息的人群
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a nursing assistant?**
-答：Depending on experience and location, it ranges from 2.5 to 3.2 million yen for entry-level and 3.2 to 4 million yen for intermediate level. You can increase your income with night shift allowances.
+**问：护理助理的平均年薪是多少？**
+答：根据经验和地点，入门级250万至320万日元，中级320万至400万日元。夜班津贴可增加收入。
 
-**问：What visa is needed for foreigners to work as nursing assistants?**
-答：The main route is Specified Skilled Worker (i) (Care). You must pass the Japanese language test and the care skills evaluation test. There is also a technical internship, but it assumes returning home after 3 years.
+**问：外国人从事护理助理工作需要什么签证？**
+答：主要途径是特定技能工人(i)（护理）。您必须通过日语测试和护理技能评估测试。还有技术实习，但假设3年后回国。
 
-**问：How can nursing assistants advance their careers?**
-答：You can advance by enrolling in a licensed practical nurse training course (2 years) or a registered nurse training course (3 years) and obtaining qualifications. Some hospitals offer scholarship programs.
+**问：护理助理如何提升职业发展？**
+答：可通过参加执业护士培训课程（2年）或注册护士培训课程（3年）并获得资格来晋升。部分医院提供奖学金项目。
 
 
 ---
@@ -148,12 +138,12 @@ Career advancement to become a licensed practical nurse or registered nurse is p
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/nursing-assistant/JP)**

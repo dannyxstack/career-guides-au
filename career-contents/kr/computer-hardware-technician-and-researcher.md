@@ -51,8 +51,6 @@ A professional who designs, develops, and tests hardware for computers, servers,
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI optimizes some tasks through hardware design automation (EDA), but creative design and system integration still require human roles. Therefore, AI will expand capabilities rather than replace engineers.
-
 Mostly start in research labs or R&D departments of large corporations, with promotion possible to senior researcher, team leader, or CTO based on experience.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Mostly start in research labs or R&D departments of large corporations, with pro
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a professional in the semiconductor/electronics field |
-| Subclass D-10 (Job Seeking) | Bachelor's degree or higher, issued upon job-seeking activities |
-| Subclass F-2 (Residence) | Stage before permanent residence after long-term stay such as E-7 |
-| Subclass F-5 (Permanent residence) | Favorable for highly-educated, high-income professionals |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: At least an associate degree is required, and most positions require a bachel
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-hardware-technician-and-researcher/KR)**

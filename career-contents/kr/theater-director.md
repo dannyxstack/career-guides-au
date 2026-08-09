@@ -4,8 +4,6 @@
 
 A theater director is an art professional who interprets scripts and directs actors and staff to create stage performances.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A theater director is an art professional who interprets scripts and directs act
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can be used as a supplementary tool for theater directing, but creativity and expression of human emotions are difficult to replace with AI. While AI can enhance technical aspects such as lighting and sound automation, the core of directing relies on human artistic judgment.
-
 Typically promoted from assistant director to director to artistic director, with career and work performance being key. It is also common to work as a freelancer or start a theater company.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Typically promoted from assistant director to director to artistic director, wit
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires theater directing experience and invitation as specialized professional in culture and arts |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay visa, allows theater activities |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, no restrictions on theater activities |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: It's not mandatory, but a degree in theater/film is advantageous for employme
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/theater-director/KR)**

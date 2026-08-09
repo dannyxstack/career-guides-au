@@ -50,8 +50,6 @@ As the person in charge of ship operations, this professional role involves esta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI and automation are assisting navigation and collision avoidance systems, the captain/navigator's judgment and leadership remain essential. Areas requiring human experience and intuition, such as emergency response and crew management, are difficult to be fully replaced by AI.
-
 After promotion from navigator (3rd → 2nd → 1st officer) and accumulating experience, one can become a captain. With experience at large shipping companies or on oceangoing vessels, one may advance to coastal ship captain or maritime public institutions.
 
 **Tasks most exposed to AI:**
@@ -92,14 +90,9 @@ After promotion from navigator (3rd → 2nd → 1st officer) and accumulating ex
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa needed for foreign seafarers and navigators working on Korean ships. Classified as skilled labor. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +136,12 @@ A: You need to complete a maritime-related college (3 years) or the Korea Instit
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-captains-and-navigators/KR)**

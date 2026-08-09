@@ -52,8 +52,6 @@ Building automation technicians in Canada correspond to NOC 22302, involved in i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial engineering and manufacturing technicians face AI automation risks, but manufacturing system complexity requires human decision-making and maintenance. Entry-level barriers are lowering, but senior technicians gain value through integration and optimization skills.
-
 Career progression can advance from junior technician to senior engineer or project manager. Obtaining Red Seal certification leads to significant salary increases, and can also transition to energy management or building automation design roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression can advance from junior technician to senior engineer or proj
 | Subclass PNP (Provincial Nominee Program) | For example, Ontario In-Demand Skills Stream or BC PNP Skilled Trades stream; provincial nomination can add 600 points |
 | Subclass AIP (Atlantic Immigration Program) | Applicable to Atlantic provinces; employer sponsorship feasible, faster processing |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Education requires ECA (e.g., WES); work experience needs verification via em
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-engineering-and-manufacturing-technologists-and-technicians/CA)**

@@ -54,8 +54,6 @@ Criminal investigators investigate criminal activities, gather evidence, analyze
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of criminal investigators will be mixed due to AI: automated analysis tools can speed up data processing, but core investigative decisions, scene examination, and interpersonal interrogations still rely on human experience and intuition.
-
 Career progression from basic investigator to senior investigator, then to department head or criminal police chief. Can specialize in areas like economic crime or forensic identification, or advance to senior management through continuing education.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression from basic investigator to senior investigator, then to depar
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to criminal investigators with vocational training qualifications; must secure employment with a German employer. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, this opportunity card allows job-seeking in Germany and requires language and qualification requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Clear career progression from investigator to team leader, department head, o
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/criminal-investigation-officer/DE)**

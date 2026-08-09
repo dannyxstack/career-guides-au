@@ -54,8 +54,6 @@ Kitchen helpers in the Canadian food service industry are responsible for food p
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roles like food counter attendants and kitchen helpers face high automation risk, especially repetitive tasks like food prep and cleaning, but interpersonal service and on-site decision-making remain hard to fully replace.
-
 Career path: kitchen hand can advance to cook's assistant or line cook; with experience or culinary certification, become head chef. Some provinces offer apprenticeship programs.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career path: kitchen hand can advance to cook's assistant or line cook; with exp
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes. Can advance to cook's assistant, line cook, or even head chef. Requires 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-counter-attendants-kitchen-helpers-and-related-support-occupations/CA)**

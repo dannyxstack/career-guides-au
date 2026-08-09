@@ -1,8 +1,8 @@
-# Power Plant Equipment Engineer 职业分析 · 韩国
+# 发电厂设备工程师（Power Plant Equipment Engineer）职业分析 · 韩国
 
-**职业代码: 15313 (KECO)**
+**职业代码：15313 (KECO)**
 
-An engineer who designs, constructs, operates, and maintains mechanical and electrical equipment in power plants, responsible for stable power supply.
+设计、建造、运营和维护发电厂机电设备，负责稳定供电的工程师。
 
 
 ---
@@ -11,8 +11,8 @@ An engineer who designs, constructs, operates, and maintains mechanical and elec
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community college (2-year) | 2 年 | $15,000,000~$25,000,000（Public institution standard, lab fees separate） |
-| University (4-year) | 4年 | $20,000,000~$40,000,000（Mechanical/electrical engineering, public institution standard） |
+| 社区学院（2年） | 2 年 | $15,000,000~$25,000,000（公立机构标准，实验费另计） |
+| 大学（4年制） | 4年 | $20,000,000~$40,000,000（机械/电气工程，公立机构标准） |
 
 ---
 
@@ -20,17 +20,17 @@ An engineer who designs, constructs, operates, and maintains mechanical and elec
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Power Plant Equipment Master Craftsman | Human Resources Development Service of Korea | 可选 | Top-level certification in power plant equipment |
-| Mechanical/Electrical Engineer | Human Resources Development Service of Korea | 可选 | Having an engineer license is advantageous for promotion |
+| 发电厂设备大师技工 | 韩国人力资源开发服务局 | 可选 | 发电厂设备顶级认证 |
+| 机械/电气工程师 | 韩国人力资源开发服务局 | 可选 | 拥有工程师执照有利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 22,000. Employment is stable due to carbon neutrality policies, expansion of renewable energy, and demand for old power plant maintenance, but new jobs are limited.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 22,000。因碳中和政策、可再生能源扩张及老旧电厂维护需求，就业稳定，但新增岗位有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ An engineer who designs, constructs, operates, and maintains mechanical and elec
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $30,000,000~$40,000,000 | Based on power plants (e.g., KEPCO) |
-| Intermediate (3–10 years) | $45,000,000~$60,000,000 | 随经验与认证提升 |
-| 资深（10年以上） | $65,000,000~$85,000,000 | Senior engineer or above |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于发电厂（如KEPCO） |
+| 中级（3-10年） | $45,000,000~$60,000,000 | 随经验与认证提升 |
+| 资深（10年以上） | $65,000,000~$85,000,000 | 高级工程师及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies are replacing power plant equipment monitoring and diagnostic tasks, but human roles remain important for on-site maintenance and repair work for the time being. Some duties will be reduced, but full replacement is difficult.
+AI和自动化技术正在取代发电厂设备监控和诊断任务，但人类在现场维护和维修方面的角色短期内仍很重要。部分职责将减少，但完全替代困难。
 
-Junior engineer → Intermediate (5–10 years) → Senior engineer (10+ years) → Manager or specialist consultant. Certifications and experience are key.
+初级工程师 → 中级（5–10年）→ 高级工程师（10年以上）→ 经理或专业顾问。证书和经验是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Remote equipment status monitoring
-- Regular inspection data recording
-- Simple fault diagnosis
+- 远程设备状态监测
+- 定期检查数据记录
+- 简单故障诊断
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault prediction maintenance planning
-- AI-based anomaly analysis
-- Maintenance history database management
+- 故障预测维护规划
+- 基于AI的异常分析
+- 维护历史数据库管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Atypical situation coping ability
-- On-site safety judgment
-- Precision repair skills
+- 应对非典型情况的能力
+- 现场安全判断
+- 精密维修技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Big data analysis
+- 大数据分析
 - AI/机器学习基础
-- IoT equipment understanding
+- 物联网设备理解
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 可再生能源
-- Smart Grid
-- Hydrogen Power Generation
-- Nuclear Power Plant Decommissioning
+- 智能电网
+- 氢能发电
+- 核电站退役
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for power plant equipment engineers with specialized skills |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible only in some power plant maintenance positions (unskilled) |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in working with large-scale equipment and machinery
-- People not afraid of outdoor or high-altitude work
-- People good at systematic maintenance and following safety rules
+- 对大型设备和机械感兴趣的人
+- 不怕户外或高空作业的人
+- 擅长系统维护和遵守安全规则的人
 
 **谁不适合**
-- People who prefer indoor office work
-- People who want stable work over rapidly changing technology
+- 喜欢室内办公室工作的人
+- 希望工作稳定而非技术快速变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a power plant equipment technician?**
-答：Entry-level 30-40 million KRW, mid-level 45-60 million KRW, senior 65-85 million KRW.
+**问：发电厂设备技术员的平均年薪是多少？**
+答：入门级3000-4000万韩元，中级4500-6000万韩元，高级6500-8500万韩元。
 
-**问：What visa does a foreigner need to work as a power plant equipment technician?**
-答：For specialized skills, an E-7 visa (Specific Activities) is suitable; for simple maintenance tasks, an E-9 visa is possible.
+**问：外国人在电厂设备技术员工作需要什么签证？**
+答：对于专业技能，E-7签证（特定活动）适用；对于简单维护任务，E-9签证可能可行。
 
-**问：What important certifications exist in this field?**
-答：Mechanical/Electrical Engineer, Power Plant Equipment Master, etc., which help with employment and promotion.
+**问：该领域有哪些重要认证？**
+答：机械/电气工程师、电厂设备大师等，有助于就业和晋升。
 
 
 ---
@@ -141,12 +134,12 @@ Junior engineer → Intermediate (5–10 years) → Senior engineer (10+ years) 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/power-plant-equipment-engineer/KR)**

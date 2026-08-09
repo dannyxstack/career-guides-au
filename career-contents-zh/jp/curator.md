@@ -1,10 +1,8 @@
-# Curator 职业分析 · 日本
+# 策展人（Curator）职业分析 · 日本
 
-**职业代码: 242 (JSCO)**
+**职业代码：242 (JSCO)**
 
-Professional responsible for collection, preservation, exhibition, and educational activities in museums and art galleries. Plays a role in academic knowledge and cultural property protection.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责博物馆和美术馆的收藏、保存、展览及教育活动的专业人员。在学术知识和文物保护中发挥作用。
 
 
 ---
@@ -13,8 +11,8 @@ Professional responsible for collection, preservation, exhibition, and education
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor's program | 4年 | $4,000,000~$6,000,000（Annual tuition at national/public universities: approx. ¥500,000 × 4 years） |
-| 硕士课程 | 2 年 | $2,000,000~$3,000,000（Recommended for enhancing expertise） |
+| 学士项目 | 4年 | $4,000,000~$6,000,000（国立/公立大学年学费：约500,000日元 × 4年） |
+| 硕士课程 | 2 年 | $2,000,000~$3,000,000（推荐用于提升专业技能） |
 
 ---
 
@@ -22,18 +20,18 @@ Professional responsible for collection, preservation, exhibition, and education
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Curator qualification | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 必备 | Obtained by completing designated courses at university |
-| Completion of museum internship | Museums, etc. | 可选 | Evaluated as practical experience |
-| Librarian qualification | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 可选 | Also applicable to library work |
+| 策展人资格 | 文部科学省 | 必备 | 通过完成大学指定课程获得 |
+| 完成博物馆实习 | 博物馆等 | 可选 | 评估为实践经验 |
+| 图书馆员资质 | 文部科学省 | 可选 | 也适用于图书馆工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to digitalization of cultural facilities and new demand, job openings are stable, but regular employment is limited, with many non-regular positions and high competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于文化设施的数字化和新需求，职位空缺稳定，但正式就业有限，非正规职位多且竞争激烈。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中低（★★☆☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中低（★★☆☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ Professional responsible for collection, preservation, exhibition, and education
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,000,000~$4,000,000 | Many non-regular positions |
-| Intermediate (4–10 years) | $4,000,000~$5,500,000 | For regular employees |
-| Senior (11+ years) | $5,500,000~$7,000,000 | Management/director level |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 许多非正式职位 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 适用于正式员工 |
+| 高级（11年以上） | $5,500,000~$7,000,000 | 管理/总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used for digital archiving of materials and advanced search systems, but human judgment is indispensable for many tasks such as exhibition planning creativity, interpersonal education, and physical handling of cultural properties, so replacement is limited.
+AI用于材料的数字化归档和高级搜索系统，但展览策划创意、人际教育和文物实物处理等许多任务仍需要人工判断，因此替代范围有限。
 
-Career advancement: Assistant Curator → Curator → Senior Curator → Director. Performance and expertise are valued; master's or doctoral degree holders have an advantage.
+职业发展：助理馆长→馆长→高级馆长→主任。绩效和专业能力受到重视；硕士或博士学位持有者具有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data entry of materials
-- Basic search work
-- Digital catalog creation
+- 材料数据录入
+- 基础搜索工作
+- 数字目录创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data analysis for exhibition planning
-- Analysis of visitor behavior
-- Automatic translation of online exhibitions
+- 展览策划数据分析
+- 访客行为分析
+- 在线展览自动翻译
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person implementation of educational programs
-- Judgment on conservation and restoration of cultural properties
-- Formulation of hypotheses for academic research
-- Collaboration with local communities
+- 教育项目的现场实施
+- 文化遗产保护与修复评估
+- 为学术研究提出假设
+- 与当地社区合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital archive technology
-- Data analysis
+- 数字档案技术
+- 数据分析
 - 项目管理
-- Multilingual support
+- 多语言支持
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital archives
-- Cultural property utilization
-- Museum education
-- Community collaboration
+- 数字档案
+- 文化财产利用
+- 博物馆教育
+- 社区协作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Curator work is eligible. Requires university graduation and work experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Possible if you achieve high scores under the point system for education, experience, etc. |
-| Subclass 特定技能 (Specified Skilled Worker) | Not eligible. Curator is not included in the specified skilled worker fields. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in history or art
-- People who can handle detailed tasks and interpersonal interactions
-- People with a research spirit and cultural refinement
+- 对历史或艺术有浓厚兴趣的人
+- 能处理细致任务和人际互动的人
+- 具有研究精神和文化素养的人
 
 **谁不适合**
-- People seeking merit-based high income
-- People wanting rapid career advancement
+- 追求基于能力的高收入者
+- 希望快速职业晋升的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much does a curator earn?**
-答：Starting salary is around 3-4 million yen annually, but it's low due to many non-regular positions. Regular staff can earn 5-7 million yen based on experience, but high income is not expected except for management.
+**问：策展人的收入是多少？**
+答：起薪约为每年300-400万日元，但由于非正规职位较多，薪资较低。正式员工根据经验可达到500-700万日元，但除非管理层，否则不期望高收入。
 
-**问：How can a foreigner work as a curator in Japan?**
-答：Residence status 'Engineer/Specialist in Humanities/International Services' required. A degree equivalent to a curator qualification and practical experience in a museum are required. Japanese proficiency (N1 or above) is almost mandatory.
+**问：外国人如何在日本担任策展人？**
+答：需要居留身份“工程师/人文专家/国际服务”。需要相当于策展人资格的学位和博物馆实际经验。日语能力（N1或以上）几乎必须。
 
-**问：What routes are available to become a curator?**
-答：The typical path is to take the necessary courses for a curator qualification at university, then after graduation, aim for a regular position through part-time work or internships at museums. A master's degree or higher gives an advantage in hiring.
+**问：成为策展人有哪些途径？**
+答：典型路径是在大学修读策展人资格所需课程，毕业后通过博物馆兼职或实习争取正式职位。硕士及以上学历在招聘中具有优势。
 
 
 ---
@@ -147,12 +137,12 @@ Career advancement: Assistant Curator → Curator → Senior Curator → Directo
 | 工作强度 | 中低（★★☆☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/curator/JP)**

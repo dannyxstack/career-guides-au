@@ -53,8 +53,6 @@ Dental assistants aid dentists in treatment, patient care, and administrative ta
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance dental assistants' work efficiency, especially in image analysis, patient communication, and administrative automation, allowing assistants to take on higher-value tasks, but will not replace core clinical duties.
-
 You can advance from a dental assistant to a clinic management supervisor or dental professional caregiver, or further study to become a dental therapist or dental technician.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ You can advance from a dental assistant to a clinic management supervisor or den
 | Subclass Skilled Worker (Skilled Immigration Act) | Must obtain a German dental license or certification; employer sponsorship required. |
 | Subclass Chancenkarte | The opportunity card can be used to find employers, but qualification assessment is required first. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires completing 3-year dual-system training; some continuing educ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistant/DE)**

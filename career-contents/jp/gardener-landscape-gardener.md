@@ -4,8 +4,6 @@
 
 A professional who creates and maintains beautiful landscapes by managing planting, pruning, weeding, lawn care, stonework, and paving in gardens, parks, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who creates and maintains beautiful landscapes by managing planti
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tree planters and landscape gardeners primarily work manually outdoors, and are unlikely to be fully replaced by AI or robots in the near future. However, some tasks such as drone-based aerial diagnostics and AI-generated pruning plans are being streamlined. Craftsman skills remain essential, with AI used as a supplement.
-
 Start as an apprentice, gain skills through practical experience and obtain certification (Landscape Gardener Certification) to become a team leader or site supervisor. Self-employment is possible, offering diverse career paths.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Start as an apprentice, gain skills through practical experience and obtain cert
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (fields: agriculture or construction)) | Possible after passing skills and Japanese tests; total stay up to 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires academic background + work experience; mainly design and management. |
-| Subclass 特定技能2号 (Specified Skilled Worker No. 2 (construction field)) | Requires advanced skills; allows family accompaniment and permanent residency; landscaping included. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Yes. After gaining practical experience and obtaining certifications like Ski
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gardener-landscape-gardener/JP)**

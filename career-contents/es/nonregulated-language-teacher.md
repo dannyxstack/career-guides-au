@@ -51,8 +51,6 @@ Professionals who teach foreign languages (mainly English) at informal education
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of language teachers in informal education will be partially replaced by AI, but core teaching interactions and emotional support will be difficult to automate; At the same time, AI tools can improve lesson preparation and personalized tutoring efficiency, but sticking to traditional models faces the risk of compression.
-
 You can be promoted from part-time teacher to academic coordinator or teaching director, or move into curriculum development or educational management. Some teachers enter the public education system by obtaining official teaching qualifications (CAP).
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can be promoted from part-time teacher to academic coordinator or teaching d
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence: A work contract provided by the language school, proving that the position cannot be filled by Spanish or EU citizens. |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card: Suitable for teachers with high academic qualifications (bachelor's degree or above) and meeting salary targets (approximately €33,900/year in 2025). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Although not mandatory, a university degree and TEFL/CELTA certificates are c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonregulated-language-teacher/ES)**

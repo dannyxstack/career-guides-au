@@ -56,8 +56,6 @@ Composers in New Zealand can work in film, game, and music industries creating o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI's impact on instrumental musicians is mixed: some production and teaching tasks may be automated, but live performance and original artistry are hard to replace, with AI serving more as a creative tool.
-
 Career path: Start as an assistant or create small works, gradually build visibility and client network; pursue bachelor's or master's degrees in music production or film scoring to enhance competitiveness; senior composers can establish studios or engage in cross-border collaborations.
 
 **Tasks most exposed to AI:**
@@ -114,8 +112,6 @@ Career path: Start as an assistant or create small works, gradually build visibi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -159,11 +155,12 @@ A: Limited prospects but creative industries have potential. Digital platforms (
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/composer/NZ)**

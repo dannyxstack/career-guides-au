@@ -1,8 +1,8 @@
-# Metalworking machine operator 职业分析 · 韩国
+# 金属加工机械操作员（Metalworking machine operator）职业分析 · 韩国
 
-**职业代码: 81321 (KECO)**
+**职业代码：81321 (KECO)**
 
-A professional technician who operates metalworking machines such as CNC lathes, milling machines, and machining centers to process and produce metal parts.
+操作数控车床、铣床和加工中心等金工机床进行金属零件加工的专业技术人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional technician who operates metalworking machines such as CNC lathes,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school (specialized vocational school), mechanical department | 3年 | $0~$5,000,000（Tuition free, material and exam fees separate） |
-| Polytechnic College, machining department | 2 年 | $3,000,000~$7,000,000（1.5–3.5 million KRW per semester, national scholarship available） |
-| Private CNC training center | 6 months | $3,000,000~$10,000,000（Varies, government funding possible） |
+| 高中（专业职业学校），机械专业 | 3年 | $0~$5,000,000（学费免费，材料和考试费另计） |
+| 理工学院，机械加工系 | 2 年 | $3,000,000~$7,000,000（每学期150万至350万韩元，可申请国家奖学金） |
+| 私人数控培训中心 | 6个月 | $3,000,000~$10,000,000（视情况而定，可能有政府资助） |
 
 ---
 
@@ -21,19 +21,19 @@ A professional technician who operates metalworking machines such as CNC lathes,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Mold Maker | Human Resources Development Service of Korea | 可选 | Assesses practical machining skills |
-| Computer Numerical Control Machinist | Human Resources Development Service of Korea | 可选 | Required for CNC programming and operation |
-| Master Machinist | Human Resources Development Service of Korea | 可选 | Favorable for advanced skilled workers |
-| 焊工 | Human Resources Development Service of Korea | 可选 | Additional skill, optional |
+| 模具制造师 | 韩国人力资源开发服务局 | 可选 | 评估实际加工技能 |
+| 计算机数控机械师 | 韩国人力资源开发服务局 | 可选 | 数控编程和操作所需 |
+| 高级机械师 | 韩国人力资源开发服务局 | 可选 | 有利于高技能熟练工人 |
+| 焊工 | 韩国人力资源开发服务局 | 可选 | 附加技能，可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 85,000. Due to the expansion of manufacturing automation and increased adoption of CNC machines, demand for skilled workers remains stable, but simple operators are expected to decline.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 85,000。由于制造自动化扩展和CNC机床采用增加，对熟练工人的需求保持稳定，但简单操作员预计将减少。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,94 +41,86 @@ A professional technician who operates metalworking machines such as CNC lathes,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$35,000,000 | Based on starting salary, increases with night shift allowance |
-| Intermediate (4-10 years) | $35,000,000~$48,000,000 | Varies by skill level and certification status |
-| Advanced (10+ years) | $48,000,000~$60,000,000 | Increases when doubling as a CNC programmer |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 基于起薪，随夜班津贴增加 |
+| 中级（4-10年） | $35,000,000~$48,000,000 | 根据技能水平和认证状态而变化 |
+| 高级（10年以上） | $48,000,000~$60,000,000 | 兼任CNC程序员时增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-As AI and automation replace many aspects of CNC machine operation, demand for simple operators is decreasing, shifting toward skilled programmers and maintenance personnel.
+随着AI和自动化取代CNC机床操作的许多方面，对简单操作员的需求正在下降，转而需要熟练的程序员和维护人员。
 
-Career progression possible from junior operator to intermediate technician, CNC programmer/site foreman, and process manager; obtaining certifications is advantageous.
+职业发展可从初级操作员到中级技术员、CNC程序员/现场主管及工艺经理；获得证书有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual lathe and milling operation
-- Repetitive tool changes and material loading
-- Basic dimensional measurement and inspection
+- 手动车床与铣床操作
+- 重复更换工具和装载材料
+- 基础尺寸测量与检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimizing machining paths with CAM software
-- Operating AI-based tool wear detection systems
-- Smart factory data analysis and correction
+- 使用CAM软件优化加工路径
+- 操作基于AI的刀具磨损检测系统
+- 智能工厂数据分析与修正
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual setup and trial machining of irregular parts
-- Know-how-based tool selection and cutting condition determination
-- Flexible response in high-mix low-volume production
+- 不规则零件的手动设置与试切加工
+- 基于知识的刀具选择和切削条件确定
+- 多品种小批量生产的灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC programming (CAM)
-- PLC and robot interface
-- Precision measurement and quality control
-- Utilization of smart factory production management system (MES)
+- CNC编程（CAM）
+- PLC与机器人接口
+- 精密测量与质量控制
+- 智能工厂生产管理系统（MES）的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- CNC machining
-- Smart factory
-- Metalworking
-- Precision machining
+- CNC加工
+- 智能工厂
+- 金属加工
+- 精密加工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible to work as a skilled processing technician, employer recommendation needed |
-| Subclass E-9 (Non-professional Employment) | Partially possible as an unskilled operator, but limited |
-| Subclass D-10 (Job Seeking) | Possible to seek employment after skill acquisition, conversion needed |
-| Subclass F-2 (Residence) | Can convert via skilled worker points system, advantageous for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- a person with dexterity and meticulousness
-- a person interested in the principles of machine operation
-- a person who can maintain concentration even in repetitive tasks
+- 手巧且细致的人
+- 对机器操作原理感兴趣的人
+- 能够即使在重复性任务中也能保持专注的人
 
 **谁不适合**
-- a person who finds simple repetitive tasks boring
-- a person who ignores safety rules
+- 觉得简单重复任务无聊的人
+- 忽视安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a metalworking machine operator?**
-答：The entry-level annual salary is around 28-35 million KRW, which can be higher with night shift and overtime pay.
+**问：金属加工机器操作员的起薪是多少？**
+答：入门级年薪约2800-3500万韩元，加上夜班和加班费可能更高。
 
-**问：Can foreigners get a job with an E-7 visa?**
-答：Yes, you can work with an E-7 (Skilled Worker) visa, and having a technician certificate from the Human Resources Development Service of Korea is advantageous.
+**问：外国人可以通过E-7签证就业吗？**
+答：是的，可以凭E-7（熟练工）签证工作，持有韩国人力资源开发服务处的技术证书有优势。
 
-**问：What certifications are needed for promotion in this field?**
-答：Certifications like Computer-Aided Processing Technician or Master of Machine Processing help with career development.
+**问：在该领域晋升需要哪些认证？**
+答：计算机辅助加工技术员或机器加工大师等认证有助于职业发展。
 
 
 ---
@@ -146,12 +138,12 @@ Career progression possible from junior operator to intermediate technician, CNC
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metalworking-machine-operator/KR)**

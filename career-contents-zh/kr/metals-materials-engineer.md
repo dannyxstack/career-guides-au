@@ -1,8 +1,8 @@
-# Metals & Materials Engineer 职业分析 · 韩国
+# 金属与材料工程师（Metals & Materials Engineer）职业分析 · 韩国
 
-**职业代码: 15211 (KECO)**
+**职业代码：15211 (KECO)**
 
-An engineering professional who researches physical properties of metals and materials, designs processing methods, and manages quality; plays a key role in advanced industries such as semiconductors, batteries, and automotive manufacturing.
+研究金属和材料物理特性、设计加工方法并管理质量的工程专业人员；在半导体、电池和汽车制造等先进工业中发挥关键作用。
 
 
 ---
@@ -11,9 +11,9 @@ An engineering professional who researches physical properties of metals and mat
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（工程学） | 4年 | $8,000,000~$12,000,000（Tuition per semester at national universities; private universities cost more than double.） |
-| Master's (Engineering) | 2 年 | $6,000,000~$10,000,000（Graduate tuition; scholarships available.） |
-| Doctorate (Engineering) | 3–4 年 | $5,000,000~$9,000,000（Abundant research funding and scholarship benefits.） |
+| 本科（工程学） | 4年 | $8,000,000~$12,000,000（国立大学每学期学费；私立大学费用超过两倍。） |
+| 硕士（工程） | 2 年 | $6,000,000~$10,000,000（研究生学费；可提供奖学金。） |
+| 博士（工程） | 3–4 年 | $5,000,000~$9,000,000（充足的研究资金和奖学金福利。） |
 
 ---
 
@@ -21,18 +21,18 @@ An engineering professional who researches physical properties of metals and mat
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metals & Materials Engineer (Certified) | Human Resources Development Service of Korea | 可选 | Certification is not mandatory but advantageous for employment. |
-| Surface Treatment Engineer (Certified) | Human Resources Development Service of Korea | 可选 | Optional. |
-| Welding Engineer (Certified) | Human Resources Development Service of Korea | 可选 | Useful in metal fabrication. |
+| 金属与材料工程师（认证） | 韩国人力资源开发服务局 | 可选 | 认证非强制但对就业有利。 |
+| 表面处理工程师（认证） | 韩国人力资源开发服务局 | 可选 | 可选。 |
+| 焊接工程师（持证） | 韩国人力资源开发服务局 | 可选 | 在金属制造中有用。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Employment outlook is favorable due to steadily increasing demand for materials technology in advanced manufacturing sectors like semiconductors, batteries, and automobiles. However, some traditional metal industries may face restructuring.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。就业前景看好，因半导体、电池、汽车等先进制造业对材料技术的需求稳步增长。但部分传统金属行业可能面临重组。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,92 +40,86 @@ An engineering professional who researches physical properties of metals and mat
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $32,000,000~$40,000,000 | Average starting salary for college graduates; higher at large corporations. |
-| Mid-level (4–9 years) | $45,000,000~$60,000,000 | Varies by experience and company size |
-| 资深（10年以上） | $65,000,000~$90,000,000 | Senior or above, large company labs can exceed 100 million KRW |
+| 初级（0-3年） | $32,000,000~$40,000,000 | 大学毕业生平均起薪；大公司更高。 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 视经验和公司规模而异 |
+| 资深（10年以上） | $65,000,000~$90,000,000 | 高级以上，大公司实验室可超过1亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation enhance support roles in materials simulation, data analysis, and quality inspection, but creative experiment design and interpretation of physical phenomena still require human experts. While AI replaces some repetitive tasks, advanced research like new material development is becoming more efficient due to AI.
+AI和自动化增强了材料模拟、数据分析和质量检测等支持角色，但创造性实验设计和物理现象解释仍需人类专家。虽然AI取代了一些重复性任务，但新材料开发等高级研究因AI而变得更高效。
 
-After obtaining a master's or doctoral degree, one typically joins a research institute or corporate R&D center. With experience, advancement to senior researcher or lab director is possible. Research positions at mid-sized companies and public enterprises are also promising.
+硕士或博士毕业后通常加入研究机构或企业研发中心。积累经验后可晋升为高级研究员或实验室主任。中型企业和公共企业的研究岗位也很有前景。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard property measurement and recording
-- Basic quality inspection data organization
-- Simple synthesis process monitoring
+- 标准物业测量与记录
+- 基本质量检查数据整理
+- 简单合成过程监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Material property prediction simulation
-- Optimal synthesis condition exploration
-- Large-scale experiment data analysis and pattern discovery
+- 材料性能预测模拟
+- 最佳合成条件探索
+- 大规模实验数据分析和模式发现
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative experiment design skills
-- Intuitive understanding of physical and chemical phenomena
-- Domain knowledge for new material discovery
+- 创造性实验设计技能
+- 对物理和化学现象的直观理解
+- 新材料发现的领域知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ML basics
-- Computational materials science (DFT, MD)
+- AI/ML基础
+- 计算材料科学（DFT, MD）
 - 数据分析与可视化
-- Utilization of experimental automation tools
+- 实验自动化工具的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Semiconductor materials
-- Secondary batteries
-- Nano and advanced materials
-- Eco-friendly metals
+- 半导体材料
+- 二次电池
+- 纳米与先进材料
+- 环保金属
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | A work visa for research/technical fields requiring expertise, suitable for metallurgical/materials engineers |
-| Subclass D-10 (Job Seeking) | Visa for job seeking after degree acquisition, convertible to E-7 |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those passionate about metallurgical and materials engineering
-- Those who enjoy detailed experiments and analysis
-- Those who can focus on long-term R&D
+- 对冶金和材料工程充满热情的人
+- 喜欢精细实验和分析的人
+- 能专注于长期研发的人
 
 **谁不适合**
-- Those who prefer simple repetitive tasks
-- Those who want quick results and promotions
+- 喜欢简单重复任务的人
+- 追求快速结果和晋升的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for a metallurgical/materials engineer?**
-答：Entry-level: about 32–40 million KRW; with 10+ years: 65–90+ million KRW. Large company labs may offer more.
+**问：冶金/材料工程师的薪资水平是多少？**
+答：入门级：约3200-4000万韩元；10年以上经验：6500-9000万韩元及以上。大公司实验室可能更高。
 
-**问：What visa does a foreigner need to work as a Metal and Materials Engineer in Korea?**
-答：The E-7 (Specific Activities) visa is most suitable, requiring a bachelor's degree or higher and relevant experience. You can enter on a D-10 (Job Seeking) visa and switch to an E-7.
+**问：外国人在韩国从事金属和材料工程师工作需要什么签证？**
+答：E-7（特定活动）签证最合适，需学士及以上学历和相关经验。可持D-10（求职）签证入境后转为E-7。
 
-**问：What degree is required to become a Metal and Materials Engineer?**
-答：A minimum bachelor's degree is required; research and development positions prefer a master's or higher. Common majors include Materials Science, Metallurgical Engineering, and Advanced Materials Engineering.
+**问：成为金属与材料工程师需要什么学位？**
+答：需要至少本科学位；研发岗位偏好硕士或更高。常见专业包括材料科学、冶金工程和先进材料工程。
 
 
 ---
@@ -143,12 +137,12 @@ After obtaining a master's or doctoral degree, one typically joins a research in
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metals-materials-engineer/KR)**

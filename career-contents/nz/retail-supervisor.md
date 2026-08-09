@@ -53,8 +53,6 @@ Retail supervisors lead sales teams, schedule shifts, manage inventory and daily
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
-
 Can progress from salesperson to retail supervisor, then to store manager and regional manager. Requires accumulating management experience and learning supply chain, finance skills; some large enterprises provide internal training.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from salesperson to retail supervisor, then to store manager and re
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: No. This occupation is not on the skilled migration or Green List; you can on
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-supervisor/NZ)**

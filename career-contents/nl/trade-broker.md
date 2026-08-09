@@ -4,8 +4,6 @@
 
 A trade broker acts as an intermediary, facilitating transactions between buyers and sellers in commodity, futures, or securities markets, earning commissions or fees.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A trade broker acts as an intermediary, facilitating transactions between buyers
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI has mixed implications for broker careers: high-frequency data analysis and standardized transaction processes will be automated, but complex negotiation, client relationship management, and risk management skills are enhanced by AI. Overall job numbers may decline, but value increases.
-
 Junior brokers can start as trading assistants, build client resources, then advance to senior brokers, or move into asset management, risk analysis. Financial certifications (e.g., CFA) can accelerate career progression.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior brokers can start as trading assistants, build client resources, then adv
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | For high-skilled talents contracted with a recognized Dutch sponsor employer, the annual salary must reach the threshold (approx. EUR 5,688/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated non-EU citizens, annual salary threshold approximately €58,000 (2025), allows residence and work in the Netherlands. |
-| Subclass Orientation Year (Orientation Year (zoekjaar)) | Applicable to master's or PhD graduates from Dutch or world's Top 200 universities; allows one-year stay for job search, convertible to work visa upon employment. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: A bachelor's degree in finance, economics, or business is usually required; a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trade-broker/NL)**

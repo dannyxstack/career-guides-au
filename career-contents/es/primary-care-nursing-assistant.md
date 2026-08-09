@@ -4,8 +4,6 @@
 
 Assisting registered nurses in primary care centers with basic care, such as measuring vital signs, changing dressings, patient hygiene care, and organizing medical documents.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Assisting registered nurses in primary care centers with basic care, such as mea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of junior nursing assistants will be partially replaced by AI (such as document organization), but core nursing tasks are difficult to automate due to the need for interpersonal contact and clinical judgment, resulting in an overall mixed pattern.
-
 You can be promoted from junior care assistant to registered nurse (requiring completion of Grado or FP Superior), or transition to specialist nursing or aged care management positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from junior care assistant to registered nurse (requiring co
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit as Employee) | Employer sponsorship required, proof that the position is difficult to recruit in the country, suitable for those with TCAE certificates |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to high-paying roles (annual salary usually >€34,000), entry-level care assistants may struggle to meet the threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The main pathway is employer-sponsored work residency (Cuenta ajena), which r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-care-nursing-assistant/ES)**

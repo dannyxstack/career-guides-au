@@ -51,8 +51,6 @@ Junior Quality Assurance Officer oversees quality control of agricultural produc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The testing and recording tasks of entry-level quality assurance officers are easily replaced by AI and automation tools; entry-level positions are shrinking.
-
 Junior positions can advance to quality assurance supervisor or manager, or shift to food safety auditing or compliance management. With experience, can take on higher-level quality assurance consultant roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior positions can advance to quality assurance supervisor or manager, or shif
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa, requiring employer sponsorship and meeting conditions |
 | Subclass 190 (Skilled Nominated Visa) | Skilled migration permanent residence visa requiring state/territory nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: May lead to permanent residency via the 186 Employer Nomination Scheme or 190
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/primary-products-quality-assurance-officer/AU)**

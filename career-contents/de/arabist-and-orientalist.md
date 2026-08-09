@@ -54,8 +54,6 @@ Scholar researching Arabic and Oriental languages, cultures, history, and religi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance data retrieval, translation, and literature analysis efficiency for Arabic and Oriental Studies researchers, but will not fully replace deep cultural interpretation and critical thinking; entry-level positions may face increased competition due to AI tools, but demand for advanced analytical roles will rise.
-
 Career path: Start as a research assistant or lecturer, progress to professor or research project leader. Also possible to move into cross-cultural training, diplomacy, or international organizations.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path: Start as a research assistant or lecturer, progress to professor or
 | Subclass Skilled Worker (Skilled Immigration Act) | Applicable to skilled workers with a university degree and an employer contract |
 | Subclass Job Seeker (Job Seeker Visa) | Allows up to 6 months in Germany to seek a qualifying job |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a university degree recognized in Germany, typically a doctorate. Ca
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arabist-and-orientalist/DE)**

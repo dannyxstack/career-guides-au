@@ -51,8 +51,6 @@ Tool and Die Makers manufacture, maintain, and repair tools, dies, and stampings
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 Career progression can advance from skilled worker to shift supervisor or technician, or become a mould design engineer or production manager through further education. Dual-system university studies can broaden promotion paths.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression can advance from skilled worker to shift supervisor or techni
 | Subclass Skilled Worker (Skilled Immigration Act Work Visa) | Applicable to skilled workers with professional certification, requiring no Blue Card high salary threshold, but need employer sponsorship and recognized qualifications. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allowing applicants to stay in Germany for one year to find work, suitable for those with professional qualifications but no job offer yet. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance through further study to become technician or technologist, or be
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-technician/DE)**

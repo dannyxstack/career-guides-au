@@ -52,8 +52,6 @@ Divers perform underwater tasks such as inspections, repairs, salvage, and const
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will have a mixed impact on divers: some underwater surveys and routine inspection tasks can be replaced by remote robots, but emergency repairs and complex perception tasks are constrained by the environment, with AI actually improving safety and efficiency.
-
 Junior divers can advance to lead diver or underwater supervisor; with experience, specialise in underwater welding, videography, or become a dive instructor.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior divers can advance to lead diver or underwater supervisor; with experienc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled divers, requires annual salary 1.5 times higher than the Italian average, and a work contract. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, annual quota issuance, employer sponsorship required, suitable for skilled divers. |
-| Subclass Auto Work Permit (EU Freedom of Movement) | EU citizens can work freely in Italy without additional visas. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Requires IDSA or PADI commercial diving certification, medical certificate; s
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underwater-diver/IT)**

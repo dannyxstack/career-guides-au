@@ -53,8 +53,6 @@ Forestry officers manage forest resources, including ecological conservation, af
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on foresters is mixed: data monitoring, report generation will be automated, but complex ecosystem decisions, field inspections, and stakeholder coordination still rely on human judgment.
-
 Junior foresters can advance to senior forester or forest manager, then to regional forestry director. With experience, they can move into consulting or government policy roles. Some pursue a master's degree in forest ecology or natural resource management for research or management positions.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior foresters can advance to senior forester or forest manager, then to regio
 | Subclass PNP (Provincial Nominee Program) | Such as the British Columbia PNP Tech category or Alberta Advantage Immigration, for those with a job offer or relevant experience |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, for forestry officers who have a job offer from one of the four Atlantic provinces |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but many employers prefer candidates with provincial professio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foresters/CA)**

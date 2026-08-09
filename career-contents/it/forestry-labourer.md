@@ -4,8 +4,6 @@
 
 Forestry labourers perform physical tasks such as planting, harvesting, fire prevention, and maintenance in forests, typically working outdoors, forming the foundational workforce of Italy's forestry industry chain.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Forestry labourers perform physical tasks such as planting, harvesting, fire pre
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physically intensive tasks for forestry workers (such as foot patrols and manual felling) will be gradually replaced by automated equipment, while climate monitoring and smart planning tools will improve efficiency for a few management roles. Overall job demand is shrinking, and entry barriers are slightly lowered.
-
 Limited career advancement paths, can progress from general labourer to team leader or forest ranger. Some experienced workers may receive training to become forestry technicians or forest managers, but additional qualifications are required.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Limited career advancement paths, can progress from general labourer to team lea
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy sets annual quotas for non-EU workers; forestry labour is seasonal work, which can be applied for via this visa and requires employer sponsorship. |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Applicable for short-term forestry work, up to 9 months, renewable, but difficult to convert to long-term residency. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa, but need to register residence. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Driven by sustainable forestry and bioeconomy, demand is stable. However, the
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-labourer/IT)**

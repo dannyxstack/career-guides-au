@@ -53,8 +53,6 @@ Paper and packaging technicians operate and maintain paper and packaging machine
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Paper and packaging technicians face mixed impacts from AI and automation: mechanical monitoring and parameter adjustments are easily automated, but process optimization, quality anomaly handling, and cross-equipment coordination still require human experience and judgment.
-
 Career progression includes moving from operator to team leader, production supervisor, or advancing to technician (Meister) or technical specialist (Techniker) through further education. Some may transition to quality management, production planning, or sales support. Larger companies offer more internal promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression includes moving from operator to team leader, production supe
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Although automation may reduce low-end jobs, demand for skilled talent remain
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-and-packaging-technologist/DE)**

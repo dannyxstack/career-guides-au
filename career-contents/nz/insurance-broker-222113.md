@@ -54,8 +54,6 @@ Insurance brokers in New Zealand represent clients in negotiating insurance plan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Junior insurance brokers can gradually advance to senior brokers, team leaders, or managers; some transition to risk management or actuarial fields. Income increases significantly with accumulated client resources.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior insurance brokers can gradually advance to senior brokers, team leaders, 
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Green List Tier 2, eligible for residency after 2 years of work |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for applicants who have found employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must complete NZIB certification and register as a financial adviser with the
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-broker-222113/NZ)**

@@ -1,10 +1,8 @@
-# Textile Engineer 职业分析 · 韩国
+# 纺织工程师（Textile Engineer）职业分析 · 韩国
 
-**职业代码: 15611 (KECO)**
+**职业代码：15611 (KECO)**
 
-A professional technical workforce responsible for R&D, process design, and quality control of textile materials and products, leading technological innovation across the textile industry.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责纺织材料及产品的研发、工艺设计和质量控制的专业技术队伍，引领纺织行业的技术创新。
 
 
 ---
@@ -13,8 +11,8 @@ A professional technical workforce responsible for R&D, process design, and qual
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (2-4 years) in Textile Engineering, Polymer Engineering, or Chemical Engineering | 3年 | $4,000,000~$8,000,000（每年学费） |
-| Master's degree (Textile, Polymer, or Chemical Engineering) | 2 年 | $6,000,000~$12,000,000（Annual tuition, scholarships available） |
+| 纺织工程、高分子工程或化学工程学士学位（2-4年） | 3年 | $4,000,000~$8,000,000（每年学费） |
+| Master's degree (Textile, Polymer, or Chemical Engineering) | 2 年 | $6,000,000~$12,000,000（年学费，可申请奖学金） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional technical workforce responsible for R&D, process design, and qual
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Textile Engineer (Certificate) | Human Resources Development Service of Korea | 可选 | National technical qualification, written and practical exams |
-| Polymer Engineer (Certificate) | Human Resources Development Service of Korea | 可选 | National technical qualification, alternative certification |
+| 纺织工程师（证书） | 韩国人力资源开发服务局 | 可选 | 国家技术资格，笔试和实操考试 |
+| 聚合物工程师（证书） | 韩国人力资源开发服务局 | 可选 | 国家技术资格，替代认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,500. The Korean textile industry is transitioning to smart textiles and eco-friendly materials, with labor demand shifting to high value-added fields. Overall employment is stagnant, but demand for technical positions is expected to remain.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,500。韩国纺织业正转向智能纺织和环保材料，劳动力需求转向高附加值领域。总体就业停滞，但技术岗位需求预计将持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,95 +38,87 @@ A professional technical workforce responsible for R&D, process design, and qual
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $35,000,000~$45,000,000 | Based on large corporations; SMEs start around 30 million KRW |
-| Mid Level (4-8 years) | $45,000,000~$60,000,000 | Senior Researcher level |
-| Senior Level (9+ years) | $60,000,000~$80,000,000 | Principal Researcher or above; large corporations may exceed 100 million KRW |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 以大企业为基准；中小企业起薪约3000万韩元 |
+| 中级（4-8年） | $45,000,000~$60,000,000 | 高级研究员级别 |
+| 高级（9年以上） | $60,000,000~$80,000,000 | 首席研究员或以上；大型企业可能超过1亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used for discovering new materials, optimizing processes, and predicting quality, but textile engineering requires complex physical and chemical knowledge and experience, so complete replacement is difficult. AI serves to assist human research.
+AI用于发现新材料、优化流程和预测质量,但纺织工程需要复杂的物理化学知识和经验,完全替代困难。AI辅助人类研究。
 
-Promotion typically follows the path of Junior Researcher, Assistant Researcher, Senior Researcher, and Principal Researcher/Team Lead, with a career centered on R&D. Opportunities exist in large corporations and research institutes, as well as SMEs.
+晋升通常遵循初级研究员、助理研究员、高级研究员、首席研究员/团队负责人的路径，职业以研发为中心。大型企业和研究所以及中小企业都有机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Collecting and analyzing standard test data
-- Simple property measurement and reporting
-- Basic literature review
+- 收集和分析标准测试数据
+- 简单的物业测量和报告
+- 基础文献综述
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- New material design and optimization
-- Process anomaly detection and prediction
-- Development of customer-customized materials
+- 新材料设计与优化
+- 过程异常检测与预测
+- 客户定制材料开发
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative problem-solving skills
-- Intuition about material-process-property relationships
-- Decision-making based on field experience
-- Human-centered design thinking
+- 创造性解决问题的能力
+- 对材料-工艺-性能关系的直觉
+- 基于现场经验的决策
+- 以人为本的设计思维
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basics of AI/Machine Learning
-- Data Analysis (Python, R)
-- Computational Modeling (Molecular Dynamics, FEM, etc.)
-- Professional Technical English for Friends
+- 人工智能/机器学习基础
+- 数据分析（Python、R）
+- 计算建模（分子动力学、有限元分析等）
+- 专业朋友技术英语
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Textiles
-- Eco-friendly Materials
-- Biodegradable Fibers
-- Digital Transformation
+- 智能纺织品
+- 环保材料
+- 生物可降解纤维
+- 数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for R&D jobs requiring specialized knowledge; employer sponsorship required |
-| Subclass D-10 (Job Seeking) | Holders of a bachelor's degree or higher can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Scored permanent residence or long-term stay possible |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in textile, polymer, and chemical engineering
-- Detail-oriented people who enjoy experiments and R&D
-- People interested in environmental and new materials fields, capable of continuous learning
+- 对纺织、聚合物和化学工程有浓厚兴趣的人
+- 注重细节、喜欢实验和研发的人
+- 对环境和新材料领域感兴趣，并能持续学习的人
 
 **谁不适合**
-- People who prefer diverse field experience over repetitive tasks
-- People seeking immediate high income
+- 喜欢多样化现场经验而非重复性任务的人
+- 寻求短期高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of a textile engineer?**
-答：For large companies, entry-level (0-3 years) annual salary is around 35-45 million KRW, while SMEs start in the early 30 million KRW range.
+**问：纺织工程师的起薪是多少？**
+答：大型公司入门级（0-3年）年薪约为3500-4500万韩元，而中小企业在3000万韩元出头。
 
-**问：What visa does a foreigner need to work as a textile engineer in Korea?**
-答：Employment is possible for R&D roles under the E-7 visa (Specific Activities). The employer must apply, and a related bachelor's degree or higher is required.
+**问：外国人在韩国从事纺织工程师工作需要什么签证？**
+答：研发岗位可在E-7签证（特定活动）下就业。雇主需申请，要求相关学士或更高学位。
 
-**问：How does promotion work?**
-答：The typical path is: Junior Researcher → Assistant → Associate → Principal Researcher. In large companies and research institutes, promotion opportunities arise every 5-7 years.
+**问：晋升机制如何？**
+答：典型路径：初级研究员 → 助理 → 副研究员 → 首席研究员。在大型公司和研究院，每5-7年有晋升机会。
 
 
 ---
@@ -146,12 +136,12 @@ Promotion typically follows the path of Junior Researcher, Assistant Researcher,
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/textile-engineer/KR)**

@@ -4,8 +4,6 @@
 
 Responsible for planning, organizing, and managing social service projects for the elderly, including nursing homes, day care centers, and home care services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for planning, organizing, and managing social service projects for t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Elder care supervisors can be promoted to regional service managers or social services directors, or transition to aged care consulting and policy formulation.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Elder care supervisors can be promoted to regional service managers or social se
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visas (General Regime)) | A work contract provided by a Spanish employer to apply for employment residency requires proof that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | High education (master's or above) and high salary (approx. €35,000+ per year) can apply, faster process. |
-| Subclass Busqueda empleo (Job Search Visa) | After graduation, you can apply for a residence permit to look for work, valid for 12 months. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: A bachelor's degree in social work, psychology, or a related field (4 years) 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-of-social-services-for-the-elderly/ES)**

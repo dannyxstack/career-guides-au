@@ -52,8 +52,6 @@ Bus drivers in New Zealand drive buses, school buses, or long-distance coaches, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Autonomous driving technology will gradually reduce bus driver positions, especially on long fixed routes; short-term employment remains stable, but entry-level positions will significantly decrease in the long run.
-
 Can progress from public bus driver to long-distance or tour bus driver; senior drivers can move into operations management or training roles. Obtaining a Class 5 license allows driving articulated buses for higher pay; some drivers become self-employed operating small bus services.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from public bus driver to long-distance or tour bus driver; senior 
 | Subclass AEWV (Accredited Emp (Accredited Employer Work Visa) | Requires employer sponsorship with salary not below the median, can lead to permanent residency pathway |
 | Subclass Regional Skills Shortage Visa (Regional Skill Shortage Work Visa) | For skill shortage areas like Auckland, temporary visas open for direct application |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually need a Class 2 license (bus) or Class 4 (long-distance coach) plus pa
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-driver/NZ)**

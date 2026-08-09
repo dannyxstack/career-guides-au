@@ -51,8 +51,6 @@ Responsible for selling industrial equipment, machinery, and spare parts to corp
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly take over tasks like information retrieval, data sorting, and report generation, but human roles remain crucial in complex negotiations, relationship maintenance, and strategic client management. Overall risk is moderate, requiring proactive transition.
-
 Employees can advance from junior sales consultants to key account managers or regional sales managers, with some shifting to procurement or product management. After accumulating customer resources, they can start their own businesses or switch to related technical sales fields.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Employees can advance from junior sales consultants to key account managers or r
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Sponsored by a French employer, it must be proven that the position cannot be filled by an EU citizen, suitable for those with an employer contract. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as annual salaries exceeding approximately €42,000, eligible for 4-year residence. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: You can be promoted to regional manager, shift into procurement or product ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wholesale-salesperson-of-equipment-and-machinery/FR)**

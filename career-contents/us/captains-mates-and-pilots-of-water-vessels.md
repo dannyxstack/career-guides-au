@@ -54,8 +54,6 @@ Commands or supervises the operation of vessels (e.g., tugboats, ferries); must 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed impacts on captains, chief mates, and pilots: route planning, paperwork, and monitoring tasks are enhanced or replaced, but core responsibilities like legal liability, emergency decisions, and crew management are hard to automate; overall risk is manageable.
-
 Usually starts as deck cadet or ordinary seaman, gains experience and obtains higher-level licenses to advance to captain or harbor pilot. Some move into maritime management or training roles.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Usually starts as deck cadet or ordinary seaman, gains experience and obtains hi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: EB-3 category is theoretically possible, but requires PERM labor certificatio
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/captains-mates-and-pilots-of-water-vessels/US)**

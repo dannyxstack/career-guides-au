@@ -49,8 +49,6 @@ A professional who creates dance or performance movements and directs rehearsals
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in choreography creation or generate simple movements, but it is difficult to completely replace human creativity and emotional expression. Rather, it is a field that will evolve toward improving work efficiency using AI tools.
-
 After majoring in dance, build experience choreographing small-scale works, work for broadcasting or performance agencies or as a freelancer, and possibly expand overseas.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ After majoring in dance, build experience choreographing small-scale works, work
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Can be issued when invited as a professional in arts and performance |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible, few activity restrictions when conditions met |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans, allows free activities |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: Not required, but professional training is beneficial. Skills and experience 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/choreographer/KR)**

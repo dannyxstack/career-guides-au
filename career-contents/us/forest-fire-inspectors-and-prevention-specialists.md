@@ -55,8 +55,6 @@ Enforce fire prevention regulations, inspect forest fire hazards, recommend prev
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core duties of forest fire inspectors and prevention specialists involve on-site inspections, law enforcement, and public education, which are hard for AI to fully replace in the short term; however, AI advances in data analysis, satellite image recognition, and predictive modeling will greatly enhance work efficiency, potentially reducing demand for junior inspectors.
-
 Progress from junior inspector to senior specialist or supervisor, requiring experience and additional training. Can move into fire management or emergency response leadership, or related environmental safety fields.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Progress from junior inspector to senior specialist or supervisor, requiring exp
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes. Can advance from inspector to senior inspector, supervisor, or fire mana
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forest-fire-inspectors-and-prevention-specialists/US)**

@@ -51,8 +51,6 @@ Operate milling equipment to process grains into flour, feed, and other products
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Milling and feed production workers face automation replacement risk, but AI enhancement opportunities are limited. Repetitive tasks are easily replaced, while quality monitoring and equipment maintenance still require human judgment.
-
 Can be promoted from operator to production supervisor or quality supervisor, then to plant manager; or further study to become a food technologist.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can be promoted from operator to production supervisor or quality supervisor, th
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for skilled workers who have completed dual vocational training or hold qualification certification; no degree required but employer sponsorship needed |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing job search in Germany, can apply without employer sponsorship |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires completion of a 3-year dual vocational training in food te
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mill-product-and-animal-feed-manufacturer/DE)**

@@ -4,8 +4,6 @@
 
 A job that involves picking up customer-ordered food from restaurants and delivering it quickly to the delivery location, using motorcycles, bicycles, etc., with demand increasing due to the recent growth of the delivery app market.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A job that involves picking up customer-ordered food from restaurants and delive
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As autonomous delivery robot and drone technology advances, simple delivery tasks are likely to shrink, but human labor is still needed in complex urban environments and situations requiring human judgment, making complete AI replacement difficult.
-
 Initially, one performs simple delivery tasks and builds experience, then can advance to a rider manager or delivery platform logistics coordinator, or transition to logistics/distribution fields or start a business.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Initially, one performs simple delivery tasks and builds experience, then can ad
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-Professional Employment (E-9)) | As non-professional foreign workers, food delivery drivers are eligible under E-9 target industries (restaurant, wholesale/retail, etc.), but with pilot permission in 2025. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans (F-4) can also work in delivery, but delivery agency work may be restricted. |
-| Subclass F-2 (Residence (F-2)) | Permanent residents or long-term residents can freely engage. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: It is possible to transition to logistics, distribution, or starting a busine
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-delivery-driver/KR)**

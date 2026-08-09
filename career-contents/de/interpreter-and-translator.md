@@ -55,8 +55,6 @@ Interpreters and translators in Germany render spoken or written content from on
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
-
 Career development can start as a freelance translator, gradually advancing to in-house translator, project manager, or team lead. Obtaining certifications (e.g., BDÜ) and building expertise (e.g., technical translation) can increase income.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career development can start as a freelance translator, gradually advancing to i
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: AI (e.g., machine translation) greatly impacts standard texts, but fields lik
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interpreter-and-translator/DE)**

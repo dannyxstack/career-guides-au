@@ -51,8 +51,6 @@ Responsible for registering, preserving, digitizing, and arranging exhibits of c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on gallery, museum, and library technicians is mixed: automation and AI will replace repetitive cataloging and digitization tasks, but enhance exhibition design, collection research, and personalized tour capabilities; core reliance on physical care and curatorial judgment remains.
-
 Technicians can advance to senior technician or department supervisor, or move into collection management or curation roles, requiring experience and professional certification.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Technicians can advance to senior technician or department supervisor, or move i
 | Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations with an annual salary of no less than €30,000, requiring employer sponsorship. |
 | Subclass EU Blue Card (EU Blue Card) | For high-skilled roles with annual salary no less than €33,000, requiring relevant degree and employer sponsorship. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from technician to senior technician, department supervisor, or 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gallery-museum-and-library-technician/IE)**

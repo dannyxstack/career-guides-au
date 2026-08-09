@@ -52,8 +52,6 @@ Construct, maintain and repair sewers, tunnels and other underground pipelines, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on sewer and tunnel construction workers is mixed: some monitoring and documentation tasks are taken over by AI, but core physical operations and on-site decisions are hard to replace due to physical complexity and safety regulations, with overall demand stable.
-
 Can advance to foreman or construction site manager, or through further training become a civil engineering technician or tunnel specialist engineer.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance to foreman or construction site manager, or through further training
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Recognition of vocational training qualifications, need to obtain a work contract |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows entry to find work for 1 year without a job offer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, there is a skilled worker shortage in the German construction industry, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewer-and-tunnel-construction-worker/DE)**

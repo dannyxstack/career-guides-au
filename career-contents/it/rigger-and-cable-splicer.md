@@ -53,8 +53,6 @@ Responsible for installing and maintaining rigging, cables, and cable systems in
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Many repetitive inspection, documentation, and basic installation tasks for riggers and cable splicers will be replaced by AI and automation tools, but physical operations, safety judgments, and team coordination in complex environments still rely heavily on human experience, presenting a mixed outlook.
-
 Start as a junior assistant, gain experience to advance to senior rigger/cable technician, or transition into supervision and project planning roles. Holding professional certifications can improve promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Start as a junior assistant, gain experience to advance to senior rigger/cable t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | For non-EU skilled workers, annual quota, requires employer sponsorship, applicable to in-demand occupations. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled workers, requires at least 3 years of work experience or higher education, with an annual salary threshold of approximately €35,000. |
-| Subclass Autonomous Work Visa (Autonomous Work Visa) | Self-employed rigger, requiring proof of business plan and financial capability. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typically requires completing a 3-year IeFP or 2-year ITS course, or particip
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rigger-and-cable-splicer/IT)**

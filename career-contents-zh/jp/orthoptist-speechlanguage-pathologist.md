@@ -1,10 +1,8 @@
-# Orthoptist, Speech-Language Pathologist 职业分析 · 日本
+# 视轴矫正师、言语病理学家（Orthoptist, Speech-Language Pathologist）职业分析 · 日本
 
-**职业代码: 145 (JSCO)**
+**职业代码：145 (JSCO)**
 
-Orthoptists and speech-language pathologists are medical technologists specializing in rehabilitation for visual impairments and speech/hearing disorders, respectively.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+视轴矫正师和言语病理师分别是针对视觉障碍和言语/听力障碍进行康复的医疗技师。
 
 
 ---
@@ -13,8 +11,8 @@ Orthoptists and speech-language pathologists are medical technologists specializ
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational school (Orthoptist) | 3年 | $3,000,000~$4,000,000（Total cost for private vocational schools） |
-| University (Speech-Language Pathologist) | 4年 | $4,000,000~$6,000,000（Less than half at national/public universities） |
+| 职业学校（视能训练师） | 3年 | $3,000,000~$4,000,000（私立职业学校总费用） |
+| 大学（言语语言病理学家） | 4年 | $4,000,000~$6,000,000（国立/公立大学中不到一半） |
 
 ---
 
@@ -22,18 +20,18 @@ Orthoptists and speech-language pathologists are medical technologists specializ
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Orthoptist License | Ministry of Health, Labour and Welfare | 必备 | Licensed after passing national exam |
-| National Speech-Language Pathologist License | Ministry of Health, Labour and Welfare | 必备 | Licensed after passing national exam |
-| Certified Orthoptist | Japanese Association of Orthoptists | 可选 | Voluntary certification for advanced expertise |
+| 国家视能训练师执照 | 厚生劳动省 | 必备 | 通过国家考试后获执照 |
+| 国家言语语言病理学家执照 | 厚生劳动省 | 必备 | 通过国家考试后获执照 |
+| 认证视轴矫正师 | 日本视能训练士协会 | 可选 | 高级专业知识的自愿认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Demand is steadily increasing with aging. Speech-language pathologists' roles especially expand in community-based integrated care systems. Orthoptists see stable needs from children to the elderly.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。随着人口老龄化，需求稳步增长。语言病理学家在社区综合护理体系中的角色尤其扩展。视轴矫正师的需求从儿童到老年人都很稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,65 +39,57 @@ Orthoptists and speech-language pathologists are medical technologists specializ
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $3,200,000~$3,800,000 | Hospital employment, incl. bonuses annual income |
-| Mid-career (4–10 years) | $4,000,000~$5,000,000 | Varies by experience and facility size |
-| 资深（10年以上） | $4,800,000~$6,000,000 | Increases with management roles or certification |
+| 初级（0-3年） | $3,200,000~$3,800,000 | 医院就业，含奖金年薪 |
+| 中级（4-10年） | $4,000,000~$5,000,000 | 因经验和设施规模而异 |
+| 资深（10年以上） | $4,800,000~$6,000,000 | 管理职位或认证后薪资增长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is increasingly used for rehabilitation planning and training assistance, but patient communication and individual care still rely on humans. AI is expected to improve efficiency and treatment quality.
+人工智能越来越多地用于康复规划和训练辅助，但患者沟通和个性化护理仍然依赖人工。人工智能有望提高效率和治疗质量。
 
-Orthoptists gain expertise through clinical experience and certifications. Speech-language pathologists expand careers from hospitals to home-visit rehab. Both can pursue research via graduate school.
+视轴矫正师通过临床经验和认证提升专业知识。言语病理学家从医院拓展到上门康复。两者均可通过研究生院从事研究。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated visual field test analysis
-- Partial automation of standard language training
+- 自动视野检查分析
+- 标准语言培训部分自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted visual and hearing tests
-- Automatic recording and analysis of rehabilitation progress
+- AI辅助视觉和听力测试
+- 康复进度的自动记录与分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with patients
-- Clinical judgment for individual adjustments
-- Non-verbal communication
+- 建立患者信任
+- 针对个人调整的临床判断
+- 非语言沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of AI rehabilitation tools
+- AI康复工具操作
 - 数据分析与解读能力
-- Multidisciplinary collaboration skills
+- 多学科协作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Community-based rehabilitation
-- Home healthcare
-- Pediatric developmental support
-- Dementia prevention
+- 社区康复
+- 家庭医疗
+- 儿科发育支持
+- 痴呆症预防
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Even foreigners can work in medical institutions after obtaining both national certifications. However, individual审查 determines if the job scope applies. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving Field)) | Not covered under Specified Skilled Worker in caregiving. Orthoptists and speech-language therapists are excluded. |
-| Subclass 高度専門職 (Highly Skilled Professional (i) (a)) | Graduates of graduate schools in research/education etc. may qualify. Rare in practice. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -107,25 +97,25 @@ Orthoptists gain expertise through clinical experience and certifications. Speec
 
 **谁适合**
 - 喜欢与人打交道者
-- Patient people who can steadily build up rehabilitation
-- People who want to deepen medical expertise
+- 有耐心、能稳步建立康复的人
+- 希望深化医学专业知识的人
 
 **谁不适合**
-- People who seek short-term results
-- People who are not good at flexible communication
+- 追求短期结果的人
+- 不擅长灵活沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of orthoptists and speech-language therapists?**
-答：Starting salary is about 3.2 to 3.8 million yen annually; with 10+ years of experience, about 4.8 to 6 million yen. Varies by hospital size and region.
+**问：斜视矫正师和语言治疗师的年收入是多少？**
+答：起薪约为每年320万至380万日元；经验10年以上约为480万至600万日元。根据医院规模和地区有所不同。
 
-**问：How can foreigners work as orthoptists or speech-language therapists in Japan?**
-答：Requires Japanese national certification. After studying at a training school and passing the national exam, work is possible with an Engineer/Specialist in Humanities/International Services visa. However, Japanese language proficiency is mandatory.
+**问：外国人如何在日本成为视能训练师或语言听觉治疗师？**
+答：需要日本国家资格。在培训学校学习并通过国家考试后，可凭工程师/人文国际服务签证工作。但必须具备日语能力。
 
-**问：Is it possible to obtain both orthoptist and speech-language-hearing therapist certifications?**
-答：Possible, but each requires a 3–4 year training program, costing time and money. Few people hold both.
+**问：能否同时获得视能训练士和言语听觉士资格？**
+答：可能，但每项都需要3-4年的培训项目，耗费时间和金钱。很少有人同时持有两者。
 
 
 ---
@@ -143,12 +133,12 @@ Orthoptists gain expertise through clinical experience and certifications. Speec
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/orthoptist-speechlanguage-pathologist/JP)**

@@ -1,10 +1,8 @@
-# Kindergarten Teacher 职业分析 · 日本
+# 幼儿园教师（Kindergarten Teacher）职业分析 · 日本
 
-**职业代码: 191 (JSCO)**
+**职业代码：191 (JSCO)**
 
-Kindergarten teachers educate young children, fostering basic life skills and social development. This profession requires a license from MEXT, distinct from a nursery teacher qualification.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+幼儿园教师教育幼儿，培养基本生活技能和社会发展。此职业需获得文部科学省执照，与保育员资格不同。
 
 
 ---
@@ -13,8 +11,8 @@ Kindergarten teachers educate young children, fostering basic life skills and so
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior College (Early Childhood Education) | 2 年 | $2,000,000~$3,000,000（Varies by private/public） |
-| University (Faculty of Education) | 4年 | $4,000,000~$6,000,000（Private schools） |
+| 大专（幼儿教育） | 2 年 | $2,000,000~$3,000,000（因公私部门而异） |
+| 大学（教育学院） | 4年 | $4,000,000~$6,000,000（私立学校） |
 
 ---
 
@@ -22,18 +20,18 @@ Kindergarten teachers educate young children, fostering basic life skills and so
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| First-Class Kindergarten Teaching License | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 必备 | Earn specified credits at university |
-| Second-Class Kindergarten Teaching License | MEXT | 必备 | Earn specified credits at junior college |
-| Nursery Teacher Qualification | Ministry of Health, Labour and Welfare | 可选 | Optional but advantageous |
+| 一级幼儿园教师资格证 | 文部科学省 | 必备 | 在大学修满指定学分 |
+| 二级幼儿园教师资格证 | 文部科学省 | 必备 | 在短期大学获得指定学分 |
+| 幼儿园教师资格 | 厚生劳动省 | 可选 | 非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. The number of kindergartens is declining due to the low birth rate, but demand for high-quality early education and transitions to certified kodomoen is increasing. Steady job opportunities are expected.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。由于低出生率，幼儿园数量减少，但对高质量早期教育和向认证儿童园转变的需求增加。就业机会稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,85 @@ Kindergarten teachers educate young children, fostering basic life skills and so
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $3,000,000~$3,800,000 | Varies by public/private |
-| Mid-career (4-10 years) | $3,800,000~$4,800,000 | Head teacher level |
-| Senior (11+ years) | $4,800,000~$6,000,000 | Vice principal/principal level |
+| 入门级（0-3年） | $3,000,000~$3,800,000 | 因公立/私立而异 |
+| 职业中期（4-10年） | $3,800,000~$4,800,000 | 班主任级别 |
+| 高级（11年以上） | $4,800,000~$6,000,000 | 副校长/校长级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-It is unlikely that AI and robots will significantly replace kindergarten teachers' duties, but automation of clerical tasks such as record-keeping, contact book creation, and material preparation will likely advance. Meanwhile, face-to-face instruction tailored to children's emotions and development can only be done by humans, and AI will likely be used as a supplementary tool.
+AI和机器人不太可能大幅取代幼儿园教师的工作，但文书工作的自动化（如记录保存、联系人簿创建和材料准备）很可能会推进。同时，针对儿童情感和发展的一对一教学只能由人类完成，AI将作为辅助工具使用。
 
-After obtaining a kindergarten teaching license, one can work at a school and advance to head teacher, vice principal, or principal. Enhanced collaboration with certified kodomoen and elementary schools is also progressing.
+取得幼儿园教师资格证后，可在学校工作，并晋升为班主任、副园长或园长。与认证的认定儿童园和小学的合作也在推进中。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- clerical work (attendance management, contact book creation)
-- part of printing and preparing teaching materials
+- 文书工作（考勤管理、通讯录制作）
+- 印刷和准备教学材料的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- analysis of each child's developmental records and creation of individualized instruction plans
-- communication with parents (translation/summarization tools)
-- proposal of play and activities (AI-generated ideas)
+- 分析每个儿童的发展记录并制定个性化教学计划
+- 与家长沟通（翻译/摘要工具）
+- 游戏与活动提案（AI生成创意）
 
-**人类护城河:**
+**人类护城河：**
 
-- ability to read and empathize with children's emotions
-- flexible response and creativity
-- building trust with parents
+- 理解并共情儿童情绪的能力
+- 灵活应对和创造力
+- 与家长建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- digital tool proficiency
-- data analysis skills
-- English proficiency (for internationalization)
-- knowledge of special needs education
+- 数字工具熟练度
+- 数据分析技能
+- 英语能力（适应国际化）
+- 特殊教育知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- early childhood education
-- certified children's nursery
-- shortage of nursery teachers
-- English education
+- 幼儿教育
+- 认证儿童托儿所
+- 幼儿教师短缺
+- 英语教育
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | The residence status required for foreigners to work as kindergarten teachers. A university degree or relevant work experience is necessary. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Caregiving, Food Services, etc.)) | Kindergarten teachers are not covered by the Specified Skilled Worker status. Although childcare workers are covered under the caregiving field, kindergartens are not eligible. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love children and are patient
-- Creative individuals who can educate through play
-- People who value teamwork
+- 爱孩子且有耐心的人
+- 能通过游戏进行教育的创意型人才
+- 重视团队合作的人
 
 **谁不适合**
-- Those lacking physical stamina
-- Those who find paperwork and parent communication bothersome
+- 缺乏体力的人
+- 觉得文书工作和家长沟通麻烦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a kindergarten teacher?**
-答：The average annual salary is about 3.5 to 4.5 million yen, with public schools tending to pay more than private ones. Bonuses are typically paid twice a year.
+**问：幼儿园教师的平均工资是多少？**
+答：平均年薪约350万至450万日元，公立学校通常比私立学校高。奖金通常每年发放两次。
 
-**问：What visa do foreigners need to work as kindergarten teachers?**
-答：The 'Engineer/Specialist in Humanities/International Services' residence status is required. A university degree or equivalent work experience is necessary, along with Japanese language proficiency.
+**问：外国人担任幼儿园教师需要什么签证？**
+答：需要「技术/人文知识/国际业务」在留资格。需大学学历或同等工作经验，以及日语能力。
 
-**问：Can I switch from a kindergarten teacher to an elementary school teacher?**
-答：Possible, but you would need to additionally obtain an elementary school teaching license. Many take courses through correspondence universities or similar.
+**问：可以从幼儿园教师转行做小学教师吗？**
+答：可以，但你需要额外获得小学教学许可证。许多人通过函授大学或类似方式学习课程。
 
 
 ---
@@ -144,12 +135,12 @@ After obtaining a kindergarten teaching license, one can work at a school and ad
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/kindergarten-teacher/JP)**

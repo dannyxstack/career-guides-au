@@ -4,8 +4,6 @@
 
 In Spain's vocational training system, specific specialized subjects (such as mechanical, electrical, nursing, etc.) are taught, combining theory and practice to cultivate students' professional skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ In Spain's vocational training system, specific specialized subjects (such as me
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 You can be promoted from FP teacher to department head, teaching coordinator, or enter the education administration department. Alternatively, pursuing a PhD can lead to university teaching or educational research.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted from FP teacher to department head, teaching coordinator, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring higher education and a job contract with salary 1.5 times the average wage. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For senior professionals, the process is relatively fast, requiring a university degree and a work contract that meets salary requirements. |
-| Subclass Cuenta ajena (Work Permit (employed)) | Regular employment-based residence requires employer sponsorship, through a shortage occupation or a labor market test. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: A relevant bachelor's degree (Grado) and a Master of Teaching (Máster de Pro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-training-teacher-specific-subjects/ES)**

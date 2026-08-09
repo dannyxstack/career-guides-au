@@ -52,8 +52,6 @@ Budget Analysts review budget estimates for completeness, accuracy, and complian
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Progress from junior analyst to senior analyst or budget manager, requires experience and certifications (e.g., CGFM, CPA). Can also transition to finance or project management roles, or join consulting firms.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from junior analyst to senior analyst or budget manager, requires exper
 | Subclass EB-3 (Employment-Based Third Preference) | Applies to bachelor's degrees; requires PERM labor certification; longer waiting times |
 | Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within a multinational, requires more than 1 year of experience in an overseas related company |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to budget manager or finance director, also pivot to financial an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/budget-analysts/US)**

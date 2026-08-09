@@ -4,8 +4,6 @@
 
 A sports instructor teaches exercise techniques to individuals or groups and helps improve physical fitness, working in gyms, swimming pools, schools, and other venues.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A sports instructor teaches exercise techniques to individuals or groups and hel
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist with tasks like analyzing exercise form or suggesting personalized programs, but in-person guidance and motivation remain uniquely human, making full replacement difficult. Instead, the field is evolving toward using AI tools to enhance efficiency.
-
 Entry-level instructors can obtain certifications, gain experience, and advance to senior instructor or team leader roles, or specialize in areas like rehabilitation or Pilates to become independent.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Entry-level instructors can obtain certifications, gain experience, and advance 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-3) – Sports) | Issued for overseas elite athletes/coaches or for contracts with domestic pro teams. Sports instructors may qualify if the employer proves necessity, but limited. |
-| Subclass F-2 (Residence (F-2) or F-4/5) | Open to long-term residents such as marriage immigrants and permanent residents. Also available to overseas Koreans (F-4) with no work restrictions. |
-| Subclass D-10 (Job Seeking (D-10-2) – Professionals) | For degree holders or international students in sports fields while seeking employment. Must switch to E-7 or F-2 upon actual employment. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A certified Lifestyle Sports Instructor (National Certification) is essential
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-instructor/KR)**

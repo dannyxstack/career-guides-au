@@ -4,8 +4,6 @@
 
 A specialized medical professional who performs patient care, medical assistance, specimen collection, and other medical tasks under the guidance of a doctor or nurse.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A specialized medical professional who performs patient care, medical assistance
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Despite AI advancement, nursing assistant duties such as face-to-face care, clinical judgment, and emotional exchange are difficult for AI to replace. Some administrative tasks may be automated, but the core role remains.
-
 After obtaining a nursing assistant certificate, employment is possible in long-term care hospitals, general hospitals, clinics, etc. With experience, promotion to lead nursing assistant, training supervisor, etc., is possible. Transition to registered nurse is also possible.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ After obtaining a nursing assistant certificate, employment is possible in long-
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled workers; nursing assistants may fall under E-7-1 but limited |
-| Subclass F-2 (F-2 (Residence)) | Possible as a path to permanent residence but requires employment link |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: Must complete a 1-year course at a designated educational institution and pas
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-assistant/KR)**

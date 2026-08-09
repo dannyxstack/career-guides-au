@@ -52,8 +52,6 @@ Actors portray characters on stage, in film, or on television, interpreting scri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Starting from minor roles, gradually gaining experience and connections, can advance to supporting and leading roles. Some actors transition to directing, screenwriting, or drama education.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Starting from minor roles, gradually gaining experience and connections, can adv
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Very difficult, requiring employer sponsorship and meeting minimum salary thr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/IE)**

@@ -56,8 +56,6 @@ Agricultural technicians and agronomists provide technical support for agricultu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Australian agriculture is undergoing a technology revolution (AgTech) — drones for fertilisation, soil sensors, big data crop analysis, and automated irrigation systems are replacing traditional labour-intensive operations. Agricultural technicians who combine digital technology with conventional farming skills are in extremely high demand, commanding significant salary premiums. Technical staff shortages are severe in regional agricultural areas (WA/QLD/NSW inland), and the 491 regional visa pathway is well-suited for this route.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Australian agriculture is undergoing a technology revolution (AgTech) — drones
 | Subclass 491 (Skilled Work Regional) | Technicians are in extreme shortage in remote agricultural areas — one of the smoothest PR pathways |
 
 **PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
@@ -177,11 +173,12 @@ A: The agricultural technician job market is larger (18,000 workers vs 5,000 in 
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technician-agronomist/AU)**

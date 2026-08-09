@@ -53,8 +53,6 @@ Biochemists study chemical processes and substances in living organisms, applied
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
-
 Career path: Junior Researcher → Senior Scientist → Principal Investigator or Project Leader. Also possible to move into management in biotech companies, policy, or regulatory roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Junior Researcher → Senior Scientist → Principal Investigator o
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent migration requires employer nomination. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Demand is stable but competitive, especially for academic positions. Biotechn
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/biochemist/AU)**

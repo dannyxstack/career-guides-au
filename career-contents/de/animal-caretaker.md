@@ -52,8 +52,6 @@ Animal caretakers are responsible for looking after domestic, farm, or zoo anima
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 Practitioners can further pursue continuing education to become animal health assistants or animal caretakers, or advance to roles such as zookeepers or farm managers. Some choose to pursue degrees in veterinary medicine or animal science for higher-level positions.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Practitioners can further pursue continuing education to become animal health as
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for non-EU citizens with recognized German professional qualifications, requires employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based jobseeker visa suitable for applicants with relevant training or experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Not included, but animal husbandry and the pet industry have stable demand.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-caretaker/DE)**

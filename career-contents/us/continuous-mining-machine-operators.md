@@ -54,8 +54,6 @@ Operate self-propelled mining machines to continuously extract coal, metals, and
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The job of continuous mining machine operators will change profoundly due to automation: AI-driven underground navigation and remote control will gradually replace manual operation, but decision-making in complex geological conditions and emergency response still rely on human experience, resulting in fewer positions and higher skill requirements.
-
 Start as an apprentice or assistant, gain experience, and advance to senior operator or team leader. Some transition to equipment maintenance or mining supervision.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start as an apprentice or assistant, gain experience, and advance to senior oper
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Very difficult. Only H-2B temporary work visa may be possible, but mining is 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/continuous-mining-machine-operators/US)**

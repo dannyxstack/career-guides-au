@@ -4,8 +4,6 @@
 
 A professional research position that systematically studies and analyzes social phenomena to contribute to solving social problems and establishing policies.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional research position that systematically studies and analyzes social
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As AI automates data collection and basic statistical analysis, the role of researchers will focus on data interpretation and theorization. Repetitive tasks will decrease, but demand for advanced analytical skills will increase.
-
 Typically follows the path of Post-doc after a master's or doctoral degree, then to professor or policy research fellow. Entry into the industry is limited.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Typically follows the path of Post-doc after a master's or doctoral degree, then
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (specific activities) | Available when employed at a research institution. Master's degree or higher required. |
-| Subclass D-2 (study abroad) | Issued to graduate students abroad. Can switch to D-10 after degree. |
-| Subclass F-2 (residence) | Eligible for permanent residence after long-term stay. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A research assistant position is possible, but a master's degree or higher is
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sociology-researcher/KR)**

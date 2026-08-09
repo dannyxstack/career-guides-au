@@ -53,8 +53,6 @@ Transport/station officers in state public transport systems (e.g., Sydney Train
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Entry-level positions for transport/station officials (e.g., ticketing, patrol) are susceptible to replacement by self-service ticket machines and AI surveillance, but core tasks like emergency handling, law enforcement discretion, and public service still rely on humans—a mixed blessing.
-
 Pathway: Station officer → Senior/Duty manager → Operations; Authorised Officer qualification and shift experience affect income.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Pathway: Station officer → Senior/Duty manager → Operations; Authorised Offi
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: No, it is a state government public transport local role and not on the skill
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-station-officer/AU)**

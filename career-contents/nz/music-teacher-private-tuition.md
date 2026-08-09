@@ -55,8 +55,6 @@ Music teachers (private) in New Zealand mainly provide one-on-one instruction in
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Private teaching portion of music teachers is easily replaceable by AI tools (e.g., intelligent practice assistants, music theory generators), but core values like high interaction, personalised guidance, and emotional motivation are hard to automate; career prospects are mixed.
-
 Career development pathways include accumulating teaching experience, improving performance skills, or pursuing a music education diploma to enter the school system. Some teachers transition to music therapy, performance, or opening a music school. Advancement usually relies on reputation and professional skills rather than formal job ranks.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career development pathways include accumulating teaching experience, improving 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: No mandatory education requirements, but having a music diploma or bachelor's
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-teacher-private-tuition/NZ)**

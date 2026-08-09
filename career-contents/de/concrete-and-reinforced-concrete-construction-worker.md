@@ -52,8 +52,6 @@ Involved in construction and maintenance of concrete and reinforced concrete str
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Concrete and reinforced concrete construction workers face mixed AI impact: repetitive tasks are easily automated, but flexible manual work and on-site decisions are hard to replace in the short term, and job demand may rise due to higher labor costs.
-
 From entry-level concrete worker, can advance to foreman, technician, or project manager. Further study can lead to roles such as concrete repair specialist or structural engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From entry-level concrete worker, can advance to foreman, technician, or project
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to find work before securing a job, suitable for applicants with recognized qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month visa allowing entry for job-seeking, requires proof of German A1 or vocational qualification. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to foreman (Meister) or technician, or further study to becom
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-and-reinforced-concrete-construction-worker/DE)**

@@ -54,8 +54,6 @@ Teaching assistants help teachers with daily classroom tasks and routine adminis
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administrative and documentation tasks for teaching assistants will be significantly reduced by AI, but classroom interaction and personalized tutoring still rely on humans; entry-level positions will decrease.
-
 Teaching assistants can advance to senior teaching assistant or HLTA (Higher Level Teaching Assistant) through experience, and some become qualified teachers through in-service training.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Teaching assistants can advance to senior teaching assistant or HLTA (Higher Lev
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes. Many teaching assistants gradually progress to qualified teachers throug
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teaching-assistants/UK)**

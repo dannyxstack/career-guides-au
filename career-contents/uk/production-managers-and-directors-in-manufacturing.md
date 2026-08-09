@@ -52,8 +52,6 @@ Production managers and manufacturing supervisors plan, organize, direct, and co
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Production managers and manufacturing supervisors see some duties replaced by AI, but core management, decision-making, and interpersonal coordination remain hard to automate; overall impact is mixed.
-
 Usually starts as production supervisor or process engineer, advances to plant manager, operations director, or even manufacturing VP with experience. MBA or project management certification can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as production supervisor or process engineer, advances to plant m
 | Subclass Global Talent (Global Talent visa) | For high-level talent with outstanding achievements or potential in manufacturing; no employer sponsorship required. |
 | Subclass Scale-up (Scale-up visa) | For high-skilled positions in rapidly growing companies (annual growth over 20%), can change jobs after 6 months of work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Production managers can advance to operations director, plant manager, or sup
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-managers-and-directors-in-manufacturing/UK)**

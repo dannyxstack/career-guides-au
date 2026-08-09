@@ -4,8 +4,6 @@
 
 This profession involves designing, manufacturing, and restoring jewelry using precious metals and gemstones, including rings, necklaces, earrings, and more. Practitioners need to master handcrafted skills such as metalworking, setting, and carving, which are in demand in both Spain's traditional and modern jewelry industries.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ This profession involves designing, manufacturing, and restoring jewelry using p
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 After graduating from a junior apprentice or jewelry school, you can become an assistant craftsman, gain experience as an independent goldsmith or silversmith, or be promoted to studio manager or start your own brand. Some practitioners have turned to jewelry design, antique restoration, or auction house appraisals.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ After graduating from a junior apprentice or jewelry school, you can become an a
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, and the position is usually highly skilled. Jewelers generally do not qualify for the high-skilled pathway but can apply for ordinary work residence, provided they prove the position cannot be filled in the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | This applies to non-EU graduates who have completed their degree in Spain and can look for jobs within 6 months of graduation. |
-| Subclass Autónomo (Self-Employment Visa) | Jewelers suitable for freelancing or establishing studios must submit a business plan and meet investment requirements. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Can become an independent designer, studio head, antique jewelry restorer, or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewelers-goldsmiths-and-silversmiths/ES)**

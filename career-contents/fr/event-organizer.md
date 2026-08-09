@@ -52,8 +52,6 @@ Responsible for the overall planning, coordination, and execution of various eve
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Event planners face mixed effects brought by AI: some execution tasks can be automated, but core aspects like planning, client communication, and creative design are enhanced by AI, making human roles even more critical. The entry threshold has been lowered due to the widespread availability of tools, but the overall ability requirements have increased.
-
 Junior positions can start as event assistants or coordinators, and after gaining experience, can be promoted to project manager or event director. You can also specialize in specific fields (such as weddings, corporate meetings, or music festivals), or start your own event planning company.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior positions can start as event assistants or coordinators, and after gainin
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those with at least 3 years of work experience and an annual salary 1.5 times ≥ the average gross salary in France (about 53,000 euros). |
-| Subclass Salarié (Employee Work Permit) | A work contract must be provided by a French employer and must pass a labor market test. Suitable for mid-level and entry-level positions. |
-| Subclass Carte bleue UE (EU Blue Card) | Higher education or 5 years of experience required, annual salary ≥ 53,400 euros (2025). Suitable for senior event managers. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can rise from event assistant to project manager or event director, speci
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-organizer/FR)**

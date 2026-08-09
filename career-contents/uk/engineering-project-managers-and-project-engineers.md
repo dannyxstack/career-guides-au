@@ -52,8 +52,6 @@ Responsible for planning, managing, and overseeing engineering projects to ensur
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mixed outlook for engineering project managers and project engineers: AI takes over tasks like planning, documentation, progress tracking, but on-site risk management, multi-party coordination and creative design still need human judgment; entry-level roles narrowed due to AI tools.
-
 Can be promoted to senior project manager, engineering director, or project director; can also develop into professional consulting or large-scale portfolio management
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can be promoted to senior project manager, engineering director, or project dire
 | Subclass Scale-up (Scale-up visa) | Suitable for highly skilled talent in fast-growing companies; requires sponsorship initially, flexible later |
 | Subclass Global Talent (Global Talent visa) | For recognized or distinguished talent, no employer sponsorship required, can work freely |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from junior engineer to senior project manager, engineering dire
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-project-managers-and-project-engineers/UK)**

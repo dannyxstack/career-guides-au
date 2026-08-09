@@ -52,8 +52,6 @@ Responsible for assessing and managing public health, environmental, and occupat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Impact of AI and automation on public health and safety professional roles is mixed: administrative and monitoring tasks can be automated, but field inspection, risk assessment and regulatory judgment still depend on human experience and rigor.
-
 Can progress from junior health and safety officer to senior consultant, manager, or specialist, or transition into policy development or research roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior health and safety officer to senior consultant, manager
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs for health occupations in multiple provinces |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa; some positions may obtain LMIA |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a relevant bachelor's degree, some provinces require registr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-and-environmental-health-and-safety-professionals/CA)**

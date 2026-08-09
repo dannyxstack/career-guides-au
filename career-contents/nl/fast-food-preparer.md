@@ -51,8 +51,6 @@ A fast food preparer makes and cooks food in a fast food restaurant, such as bur
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Most repetitive tasks for fast food cooks will be automated by AI, but interpersonal interaction and on-site adaptability still retain some value, with overall job demand shrinking.
-
 Usually start from entry-level positions, can advance to kitchen supervisor or restaurant manager, but promotion opportunities are limited, mostly relying on experience.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Usually start from entry-level positions, can advance to kitchen supervisor or r
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled talents; fast food cooks typically do not meet the salary threshold (minimum about €5,008/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Requires high salary and high education, not applicable for this occupation. |
-| Subclass Orientation Year (Orientation Year Visa for Graduates) | Applicable to international students who graduated in the Netherlands, allowing free work for one year after graduation, after which a visa change is required. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Can be promoted to team leader, assistant manager, or store manager, but requ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-preparer/NL)**

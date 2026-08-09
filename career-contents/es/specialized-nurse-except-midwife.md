@@ -4,8 +4,6 @@
 
 Specialist nurses provide specialized nursing services in Spanish hospitals or clinics, including operating rooms, intensive care, mental health, and other areas. They must hold a nursing degree and undergo professional training, responsible for patient assessment, treatment implementation, and health education.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Specialist nurses provide specialized nursing services in Spanish hospitals or c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of specialist nurses is being reshaped by AI-assisted technology. Automating tasks such as document processing, data monitoring, and medication verification carries high risks, but core skills such as clinical judgment, patient communication, and emergency response rely on humans, resulting in mixed outcomes overall.
-
 Specialist nurses can be promoted from clinical nursing to nursing supervisor or head nurse, or through master's or doctoral studies, become nursing researchers or educators. Some have shifted toward hospital management or public health.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Specialist nurses can be promoted from clinical nursing to nursing supervisor or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | Employed work residence requires a Spanish employer sponsor, and the contract meets minimum wage requirements |
-| Subclass Homologación (Educational Credential Recognition) | Non-EU nurses must first complete academic certification before registering to practice |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | Applicable to highly paid (typically >€40k) specialist nurses, with simplified process. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Academic credentials (Homologación) must be completed, and registration with
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialized-nurse-except-midwife/ES)**

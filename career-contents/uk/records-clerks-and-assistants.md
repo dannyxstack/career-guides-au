@@ -53,8 +53,6 @@ Archivists and assistants maintain and update electronic and/or paper files, cor
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will significantly reduce demand for archivists and assistants; daily record updates, archival searches, and other core tasks can be automated, with entry-level jobs notably decreasing.
-
 Junior archive assistants can advance to senior archive administrators or records managers by gaining experience, and then progress to information governance, data protection, or archive management leadership. Some transition to information management professional roles by obtaining vocational qualifications.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Junior archive assistants can advance to senior archive administrators or record
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Can progress from junior assistant to senior archivist, records manager, and 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-clerks-and-assistants/UK)**

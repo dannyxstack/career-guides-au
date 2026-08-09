@@ -52,8 +52,6 @@ Medical technicians assist with specimen handling, equipment operation and diagn
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of medical technicians presents a mixed picture: AI automation will replace routine sample processing and data recording, but operating complex diagnostic equipment and clinical judgment still rely on human skills, reinforcing the value of professional practice and patient interaction.
-
 Further professional qualifications are available to specialise as a Medical Laboratory Technician, Cardiac Technician, or similar.
 
 **Tasks most exposed to AI:**
@@ -97,9 +95,7 @@ Further professional qualifications are available to specialise as a Medical Lab
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -139,12 +135,13 @@ A: Generally not used as a standalone skilled migration occupation; the specific
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-technician/AU)**

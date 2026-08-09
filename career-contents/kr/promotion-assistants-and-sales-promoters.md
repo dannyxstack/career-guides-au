@@ -4,8 +4,6 @@
 
 A job that promotes products/services and boosts sales in stores or events, with main tasks including customer service and demonstrations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A job that promotes products/services and boosts sales in stores or events, with
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation are highly likely to replace simple promotional and demonstration tasks through promotional robots, chatbots, and automated demonstration technology. In particular, as online promotion and digital marketing expand, demand for offline promotional personnel will decrease.
-
 After joining as a new hire, one can switch to sales/marketing within 1-2 years of experience, or work as a freelancer focusing on events and exhibitions.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After joining as a new hire, one can switch to sales/marketing within 1-2 years 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Promotional work possible in manufacturing and service industries, but limited to simple labor. |
-| Subclass F-2 (Residence (F-2)) | Free employment possible when converted to points system, but application requirements are strict. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: You can transition into sales/marketing or build a career as an event planner
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/promotion-assistants-and-sales-promoters/KR)**

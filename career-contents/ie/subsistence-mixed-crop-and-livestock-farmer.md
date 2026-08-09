@@ -53,8 +53,6 @@ Self-sufficient mixed crop and livestock farmers in Ireland engage in small-scal
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on self-sufficient mixed crop and livestock farmers: routine record-keeping and monitoring tasks may be replaced, but complex farm decisions, marketing, and traditional knowledge transfer still rely on humans, with overall risk manageable.
-
 This occupation has limited career progression; most practitioners run family farms. A few can increase income through expansion, organic farming, or agritourism, but this usually requires additional investment and skills training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ This occupation has limited career progression; most practitioners run family fa
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: No formal education requirements, but short-term agricultural courses offered
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-mixed-crop-and-livestock-farmer/IE)**

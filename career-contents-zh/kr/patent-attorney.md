@@ -1,10 +1,8 @@
-# Patent Attorney 职业分析 · 韩国
+# 专利律师（Patent Attorney）职业分析 · 韩国
 
-**职业代码: 22141 (KECO)**
+**职业代码：22141 (KECO)**
 
-A patent attorney is a professional who provides legal and technical advice regarding the filing and registration of industrial property rights such as patents, trademarks, and designs.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专利代理人是指就专利、商标、外观设计等工业产权的申请和注册提供法律和技术咨询的专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A patent attorney is a professional who provides legal and technical advice rega
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Obtain a Certified Patent Attorney License | 3年 | $5,000,000~$10,000,000（Includes tuition for cram schools, textbooks, and exam fees） |
-| Practical training after passing the patent attorney exam | 1年 | $5,000,000~$10,000,000（Cost of practical training at a patent law firm） |
+| 获得认证专利律师执照 | 3年 | $5,000,000~$10,000,000（包括补习班学费、教材费和考试费） |
+| 通过专利代理人考试后的实践培训 | 1年 | $5,000,000~$10,000,000（专利律师事务所实习费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A patent attorney is a professional who provides legal and technical advice rega
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Patent Attorney Certificate | Human Resources Development Service of Korea | 必备 | Must pass the first (multiple-choice) and second (essay) examinations |
-| Bachelor's degree or higher in science/technology or law | 大学 | 必备 | Eligibility to take the patent attorney exam |
+| 专利代理人证书 | 韩国人力资源开发服务局 | 必备 | 必须通过第一轮（选择题）和第二轮（论述题）考试 |
+| 科学/技术或法律学士学位或更高 | 大学 | 必备 | 专利代理人考试资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. With the Fourth Industrial Revolution and the growing importance of intellectual property rights, demand is expected to continue, but competition is intensifying due to an increase in the number of professionals entering the field.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。随着第四次工业革命和知识产权重要性提升，需求预计将持续，但因进入该领域的专业人士增加，竞争正在加剧。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A patent attorney is a professional who provides legal and technical advice rega
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $40,000,000~$55,000,000 | Starting salary at a patent law firm |
-| Mid-level (4-9 years) | $65,000,000~$99,999,999 | Includes performance bonuses based on experience |
-| 资深（10年以上） | $99,999,999 | Partner patent attorney or running a private practice |
+| 初级 (0-3年) | $40,000,000~$55,000,000 | 专利律师事务所的起薪 |
+| 中级（4-9年） | $65,000,000~$99,999,999 | 包含基于经验的绩效奖金 |
+| 资深（10年以上） | $99,999,999 | 合伙人专利律师或经营私人执业机构 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists with patent search and analysis, but high-level legal interpretation and advocacy require human patent attorneys, making full replacement difficult.
+人工智能辅助专利搜索和分析，但高层级法律解读和辩护仍需人类专利代理人，完全替代困难。
 
-After gaining practical experience at a patent law firm or corporate IP team, one can advance to a team leader, partner patent attorney, or open a private practice. Differentiation in specialized fields (e.g., biotech, AI) is important.
+在专利事务所或企业知识产权部门获得实践经验后，可晋升为团队负责人、合伙人专利代理人或开办个人事务所。专业领域（如生物技术、人工智能）的差异化很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Patent information search and analysis
-- Standard document preparation
+- 专利信息检索与分析
+- 标准文件准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Patent invalidity analysis
-- Portfolio strategy formulation
+- 专利无效分析
+- 投资组合策略制定
 
-**人类护城河:**
+**人类护城河：**
 
-- Courtroom advocacy
-- Client trust relationships
-- Technology-law integration judgment
+- 法庭辩护
+- 客户信任关系
+- 技术法律整合判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of AI/machine learning
-- Data analysis
-- Big data processing
+- 了解AI/机器学习
+- 数据分析
+- 大数据处理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Protection of intellectual property rights
-- AI·Bio patents
-- Standard Essential Patent
-- IP Finance
+- 知识产权保护
+- AI·Bio 专利
+- 标准必要专利
+- 知识产权金融
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-3)) | A visa allowing foreigners with specialized knowledge or skills to work at domestic patent law firms, etc. |
-| Subclass F-2 (Residence (F-2)) | Possible to work as a patent attorney with long-term residence status |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in science, technology, and law
-- Those with logical analysis and meticulous document writing skills
-- Those who can withstand long periods of study and exam preparation
+- 对科学、技术和法律感兴趣的人
+- 具备逻辑分析和细致文件撰写能力者
+- 能承受长时间学习和备考压力的人
 
 **谁不适合**
-- Those who prefer fast-paced changes and diverse tasks
-- Those who do not dislike working alone over communicating with people
+- 喜欢快节奏变化和多样化任务的人
+- 不排斥独自工作而非与人沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level of patent attorneys?**
-答：Entry-level about 40-55 million KRW, mid-level 65-100 million KRW, senior over 100 million KRW, varying greatly with experience and performance.
+**问：专利代理人的薪资水平如何？**
+答：入门级约4000-5500万韩元，中级6500万-1亿韩元，高级超过1亿韩元，因经验和绩效差异很大。
 
-**问：What visa does a foreigner need to work as a patent attorney in Korea?**
-答：Mainly the E-7 (Specific Activities) visa allows employment at patent firms, and passing the Korean patent attorney exam is essential.
+**问：外国人在韩国成为专利代理人需要什么签证？**
+答：主要是E-7（特定活动）签证允许在专利事务所工作，并且通过韩国专利代理人考试是必要的。
 
-**问：What education is required to become a patent attorney?**
-答：After obtaining a bachelor's degree in science/technology or law, one must pass the patent attorney exam and complete a one-year practical training.
+**问：成为专利代理人需要什么教育？**
+答：获得理工科或法律学士学位后，需通过专利代理人考试并完成一年实践培训。
 
 
 ---
@@ -141,12 +132,12 @@ After gaining practical experience at a patent law firm or corporate IP team, on
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/patent-attorney/KR)**

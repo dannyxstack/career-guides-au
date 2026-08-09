@@ -51,8 +51,6 @@ Glass cleaners are responsible for cleaning glass surfaces inside and outside bu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Outdoor high-altitude work tasks for glass cleaners are difficult to replace with AI, but AI vision and drone technologies will replace some inspections, safety monitoring, and primary cleaning tasks, while enhancing efficiency evaluation and training scenarios.
-
 Junior glass cleaners can be promoted to team leader or project manager through accumulated experience, or specialize in high-rise building cleaning (such as Spider-Man) or specialized surface cleaning techniques. Some practitioners choose to start cleaning companies and achieve independent entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior glass cleaners can be promoted to team leader or project manager through 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Suitable for third-country applicants who have obtained a French employer employment contract, requiring a work permit and low educational requirements. |
-| Subclass Passeport Talent (Talent Passport) | If you have professional skills or entrepreneurial plans, you can apply for a talent passport valid for 4 years, and you may bring your family members. |
-| Subclass Carte bleue UE (EU Blue Card) | Higher education qualifications are typically required; less relevant for window cleaners, but may be considered for management roles or with special certifications. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Working at heights requires CACES R386 or a similar safety certificate; some 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/window-cleaner/FR)**

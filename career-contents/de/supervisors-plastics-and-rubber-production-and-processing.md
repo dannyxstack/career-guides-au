@@ -53,8 +53,6 @@ Responsible for overseeing the production process of plastic and rubber products
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI risk for plastic and rubber production supervisors is mixed: tasks like production scheduling and quality inspection face automation, but core management skills like team coordination, anomaly handling, and equipment optimization still rely on humans and require AI-augmented decision-making.
-
 Can progress from production technician to team leader, then to production supervisor. Further study in technical management or engineering can lead to production manager or plant manager roles, or pivot to quality management positions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from production technician to team leader, then to production super
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa for coming to Germany to find work, requiring relevant qualifications. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to find employment; must prove financial means. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to Production Manager or Plant Manager by further studying techni
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-plastics-and-rubber-production-and-processing/DE)**

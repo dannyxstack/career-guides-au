@@ -4,8 +4,6 @@
 
 Call center salespeople sell products or services over the phone, handle customer inquiries, and achieve sales targets. The work environment is typically an office, requiring good communication skills and resilience to pressure.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Call center salespeople sell products or services over the phone, handle custome
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Call center sales roles face high automation risk, especially for outbound calls, script recommendations, and recording; however, complex negotiation and emotional rapport-building still require humans, leading to significant job reduction overall.
-
 Junior sales staff can advance to team leader or trainer, and with experience move into customer relationship management or sales management. Proficiency in multiple languages or industry-specific knowledge (e.g., finance, tourism) benefits career development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Junior sales staff can advance to team leader or trainer, and with experience mo
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU citizens, based on annual quotas, requires employer sponsorship. Low entry threshold, suitable for call centres and similar roles. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled talent, requires annual salary no less than approx. €28,000 (2024 standard). Call center salespeople typically cannot meet this salary threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Can be promoted to team leader, trainer, or customer relationship manager. Wi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contact-centre-salesperson/IT)**

@@ -4,8 +4,6 @@
 
 Responsible for supervising and inspecting France's public finances, budget execution, and treasury fund flows to ensure financial compliance and the security of state-owned assets.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for supervising and inspecting France's public finances, budget exec
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate financial data verification and compliance checks, but policy decisions, accountability, and on-site audits still require human oversight; Entry-level positions have been reduced, but senior regulatory roles have increased.
-
 Career paths start as regional inspectors, can be promoted to central-level supervisors or management, or move to public audit or fiscal policy analysis roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career paths start as regional inspectors, can be promoted to central-level supe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salaried Worker) | Requires sponsorship by a French public sector employer; as positions are often civil service roles, applications by foreigners are difficult. |
-| Subclass Passeport Talent (Talent Passport) | This is for highly skilled professionals, but public finance positions are usually not open to third countries |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Starting as a regional inspector, one can be promoted to central-level manage
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-treasury-controller-and-inspector/FR)**

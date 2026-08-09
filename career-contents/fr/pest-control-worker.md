@@ -52,8 +52,6 @@ Responsible for identifying, preventing, and eliminating harmful organisms (such
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
-
 At the junior level, you can be promoted to team leader or quality control specialist; Through further study, students can obtain qualification certifications and transition to self-operated or join large professional companies; It can also develop into the field of environmental sanitation management.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ At the junior level, you can be promoted to team leader or quality control speci
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed by a French company, requiring company sponsorship and passing labor market testing, applicable to long-term employees |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or in-demand occupations, exempt from labor market tests, shortcut to professionals |
-| Subclass Carte bleue UE (EU Blue Card) | High-skilled non-EU immigrants must meet the annual salary threshold (about 45k euros), but the salary for this occupation is relatively low and may not be suitable |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Available through the Salarié work permit or Passeport Talent (in-demand occ
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pest-control-worker/FR)**

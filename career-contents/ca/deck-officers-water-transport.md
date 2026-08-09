@@ -51,8 +51,6 @@ Ship navigators in Canada correspond to NOC 72601, responsible for ship navigati
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Senior deck officer (maritime) is an occupation with mixed automation impact: AI and automation handle navigation and monitoring tasks, but maritime regulations require human ultimate responsibility, and complex operations still rely on experience.
-
 Career progression path: From Third Officer, Second Officer to Chief Officer, Captain, requiring accumulated sea service and obtaining higher-level certificates. Can also transition to port management, maritime training, or marine engineering.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression path: From Third Officer, Second Officer to Chief Officer, Ca
 | Subclass PNP (Provincial Nominee Program) | Atlantic provinces and BC PNP have demand for maritime occupations, can add 600 points |
 | Subclass AIP (Atlantic Immigration Program) | Employer sponsorship in Nova Scotia, New Brunswick, etc., suitable for those with a job offer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Skilled occupation, eligible for immigration via EE or PNP, but requires Cana
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deck-officers-water-transport/CA)**

@@ -1,6 +1,6 @@
-# Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary 职业分析 · 美国
+# 大气、地球、海洋和空间科学教师（高等教育）（Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary）职业分析 · 美国
 
-**职业代码: 25-1051 (SOC)**
+**职业代码：25-1051 (SOC)**
 
 在大学或学院教授大气、地球、海洋与空间科学课程，兼顾教学与研究。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. 美国劳工统计局预计该职业就业增长约5%，与平均水平相当。职位依赖大学预算和研究经费，竞争激烈。
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。美国劳工统计局预计该职业就业增长约5%，与平均水平相当。职位依赖大学预算和研究经费，竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 大学讲师这一职业受AI影响喜忧参半：行政与基础教学任务面临自动化压力，但高阶科研、导师角色及课程设计被AI增强，核心护城河在于人类判断力与互动能力。
 
 常见路径：讲师→助理教授→副教授→正教授。需发表研究成果，获得终身教职后职业稳定。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成课程大纲与讲义初稿
 - 基础答疑与常见问题自动回复
@@ -64,7 +64,7 @@
 - 文献综述与数据整理
 - 行政事务处理（如排课、成绩录入）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助个性化学习路径设计与自适应评估
 - 利用LLM快速生成教学案例与模拟讨论
@@ -72,7 +72,7 @@
 - 虚拟课堂与AI助教协同授课
 - 知识图谱构建与跨学科课程策划
 
-**人类护城河:**
+**人类护城河：**
 
 - 面对面的导师指导与情感支持
 - 复杂概念的深度阐释与批判性思维激发
@@ -80,7 +80,7 @@
 - 伦理判断与学术决策
 - 课程整体设计中的创造性整合
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI教育工具应用（如Knewton、Carnegie Learning）
 - 数据分析和统计建模（Python/R）
@@ -89,16 +89,16 @@
 - 学术写作与AI协作润色
 - 数据隐私与AI伦理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- steady demand
-- research funding dependent
-- academic tenure track
-- limited openings
+- 需求稳定
+- 研究经费依赖
+- 学术终身轨
+- 职位有限
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass EB-2 (EB-2 Advanced Degree) | 博士学位可申请EB-2职业移民绿卡，需PERM或国家利益豁免(NIW)。 |
 | Subclass Green Card (PERM) (EB-2/EB-3 PERM) | 大学为终身教职教授申请PERM劳工证，流程较长。 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -153,12 +151,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/atmospheric-earth-marine-and-space-sciences-teachers-postsecondary/US)**

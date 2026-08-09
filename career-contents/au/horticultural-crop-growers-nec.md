@@ -54,8 +54,6 @@ Responsible for planting, managing and harvesting various horticultural crops, i
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure of horticultural crop growers is being reshaped by AI: repetitive physical labor (e.g., weeding, picking) is more easily automated, but tasks involving fine decision-making, customer communication, and variety innovation are enhanced by AI. Entry barriers may increase; replaceability and augmentation coexist.
-
 Entry-level workers can progress to planting supervisor or farm manager, or start their own business as independent growers or farm owners. Those with agricultural science backgrounds can move into technical management roles, involved in R&D and export operations.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level workers can progress to planting supervisor or farm manager, or star
 | Subclass 491 (Skilled Work Regional (Provisional)) | State-sponsored skilled migration temporary visa for regional areas, with pathway to 191 permanent visa upon meeting conditions |
 | Subclass DAMA (Designated Area Migration Agreement) | Designated Area Migration Agreements, with concessions in some remote areas. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is not on the MLTSSL or CSOL core list, so usually only regio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticultural-crop-growers-nec/AU)**

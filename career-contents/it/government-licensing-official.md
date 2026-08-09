@@ -4,8 +4,6 @@
 
 Review and issue various government permits, licenses, and certificates, ensuring applicants meet legal and regulatory requirements. In Italy, these officials primarily work in local and central government licensing offices.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Review and issue various government permits, licenses, and certificates, ensurin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Government licensing officers will have some document review and data processing automated by AI, but final decisions and complex cases still require human judgment, leading to a rebalancing of duties rather than elimination.
-
 Typically start as junior clerks, advance through internal exams to become officers, and may gradually rise to senior officers or department heads. Cross-departmental transfers or moves to policy-making roles are also common career paths.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Typically start as junior clerks, advance through internal exams to become offic
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled workers, requiring a university degree and meeting salary thresholds. However, government-licensed officers usually do not meet high-skilled requirements. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi (Quota-based work visa)) | Applicable to non-EU workers, requires employer sponsorship and annual quota. The public sector rarely recruits non-EU personnel through this channel. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Usually requires passing public sector recruitment exams; at least high schoo
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-licensing-official/IT)**

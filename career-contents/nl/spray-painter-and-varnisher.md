@@ -51,8 +51,6 @@ Performs painting, varnishing, and coating work on various surfaces (e.g., cars,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Spray painter positions face risk of automation compression, but customized and high-precision tasks still rely on humans. Smart spray-painting robots will replace high-volume, standardized work; entry-level positions decrease, skill requirements increase.
-
 Starting as a junior assistant, advancing to skilled painter through apprenticeship or vocational education; can specialize in automotive painting, industrial coating, or artistic spraying, or progress to foreman/quality inspector, or self-employed.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting as a junior assistant, advancing to skilled painter through apprentices
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Orientation Year (Se (Orientation Year for Graduates) | For graduates who completed a master's or PhD in the Netherlands or designated world universities; offers a one-year job search period in the Netherlands to gain local experience. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | If employer-sponsored, meeting the salary threshold (approx. €4,500/month for ages 30+ in 2024), you can obtain a residence permit, and your spouse can work. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled professionals, requires an employer contract and a high salary threshold (approx. €5,000/month), but is not a typical skilled worker pathway. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Usually complete MBO vocational education (3-4 years) or apprenticeship (BBL,
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/spray-painter-and-varnisher/NL)**

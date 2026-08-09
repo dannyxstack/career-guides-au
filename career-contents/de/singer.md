@@ -53,8 +53,6 @@ Singers perform singing as a profession, covering various music styles such as c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-A singer's core vocal charm and live performance are hard to replace by AI, but AI is significantly compressing entry-level recording, practice, and arrangement support roles, while amplifying efficiency in creation, post-production, and marketing.
-
 Career progression usually starts with local performances, gradually expanding to national tours or signing with record labels. Some singers move into vocal teaching, music production, or related management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression usually starts with local performances, gradually expanding t
 | Subclass Freelancer Visa (Freelancer Visa (§ 21 AufenthG)) | Freelancer pathway, requires portfolio and income plan |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed 6 months in Germany to seek performance opportunities; proof of financial means required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Not mandatory, but a music school degree can boost competitiveness. Practical
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/singer/DE)**

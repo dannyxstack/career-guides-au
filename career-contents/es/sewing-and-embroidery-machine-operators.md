@@ -4,8 +4,6 @@
 
 Responsible for operating industrial sewing machines and embroidery machines, sewing fabrics into clothing, textiles, or decorations. Commonly found in garment factories, home textile workshops, and custom embroidery shops, it requires hand-eye coordination and basic machine maintenance skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating industrial sewing machines and embroidery machines, se
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Sewing machine operators face high automation risk; AI and robots will replace many repetitive sewing tasks. Entry-level roles will decrease significantly, but maintenance and programming jobs may increase.
-
 Junior operators can be promoted to senior sewers, pattern makers, or production line leaders. Learning CAD typesetting and fashion design can lead to technical and design positions. Some experienced individuals independently open tailor shops or embroidery studios.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Junior operators can be promoted to senior sewers, pattern makers, or production
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, and the position must prove that suitable personnel cannot be recruited within the EU. It's difficult because it's not a scarce profession. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months looking for work, but you must prove your financial capability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Difficult. This occupation is not in short supply, and employer sponsorship m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewing-and-embroidery-machine-operators/ES)**

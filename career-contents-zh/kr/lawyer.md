@@ -1,10 +1,8 @@
 # 律师（Lawyer）职业分析 · 韩国
 
-**职业代码: 22121 (KECO)**
+**职业代码：22121 (KECO)**
 
-Legal professionals specializing in legal advice and litigation, requiring graduation from law school and passing the bar exam, solving legal issues for domestic and international corporations and individuals.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+专门提供法律咨询和诉讼的法律专业人士，需法学院毕业并通过律师考试，为国内外企业和个人解决法律问题。
 
 
 ---
@@ -13,8 +11,8 @@ Legal professionals specializing in legal advice and litigation, requiring gradu
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Law School (LL.M./J.D.) | 3年 | $60,000,000~$99,999,999（About 60 million KRW at national universities, over 100 million KRW at private ones） |
-| Training institute after passing the bar exam | 6 months | $5,000,000~$10,000,000（Includes tuition and living expenses） |
+| 法学院（法学硕士/法律博士） | 3年 | $60,000,000~$99,999,999（国立大学约6000万韩元，私立大学超过1亿韩元） |
+| 通过司法考试后的培训机构 | 6个月 | $5,000,000~$10,000,000（包括学费和生活费） |
 
 ---
 
@@ -22,18 +20,18 @@ Legal professionals specializing in legal advice and litigation, requiring gradu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bar license | Korean Bar Association | 必备 | Granted upon obtaining a master's degree from law school and passing the bar exam |
-| Judicial Scrivener | Supreme Court of Korea | 可选 | Optional qualification; can perform registration and litigation-related tasks |
-| 注册会计师(CPA) | Financial Supervisory Service | 可选 | Advantageous for enhancing accounting and tax expertise |
+| 调酒师执照 | 韩国律师协会 | 必备 | 获得法学院硕士学位并通过律师资格考试后授予 |
+| 司法代书人 | 韩国最高法院 | 可选 | 可选资格；可执行注册和诉讼相关任务 |
+| 注册会计师(CPA) | 金融监督院 | 可选 | 有利于提升会计和税务专业知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 30,000. Employment is stable due to increasing demand for legal services, but competition is intensifying with a growing number of lawyers, and new hiring is limited mainly to large law firms.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 30,000。由于法律服务需求增长，就业稳定，但律师数量增加导致竞争加剧，新增招聘主要限于大型律师事务所。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,94 +39,86 @@ Legal professionals specializing in legal advice and litigation, requiring gradu
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $50,000,000~$80,000,000 | 50–80 million KRW at large law firms; lower at small/medium firms |
-| Mid-level (4-9 years) | $99,999,999 | Varies by specialty, includes in-house counsel at corporations |
-| 资深（10年以上） | $99,999,999 | Varies by income for partner or solo practitioners |
+| 入门级（0-3年） | $50,000,000~$80,000,000 | 大型律师事务所5000–8000万韩元；中小型事务所较低 |
+| 中级（4-9年） | $99,999,999 | 因专业而异，包括企业法务 |
+| 资深（10年以上） | $99,999,999 | 合伙或独立执业者收入视情况而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates legal research and document review to boost productivity, but complex legal judgments, strategy development, and client trust remain the domain of human lawyers. Lawyers who leverage AI tools will be competitive.
+AI自动化法律研究和文件审查以提高生产力，但复杂的法律判断、策略制定和客户信任仍由人类律师负责。善用AI工具的律师将具有竞争力。
 
-After law school graduation and bar exam → employment at law firms, corporations, or government → establish expertise in 5-7 years → promotion to partner or counsel; independent practice possible after over 10 years of legal career.
+法学院毕业并通过律师考试 → 就职于律所、企业或政府 → 5-7年内建立专长 → 晋升为合伙人或顾问；具有10年以上法律职业生涯后可独立执业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard document drafting and review
-- Basic legal research
+- 标准文件起草与审核
+- 基础法律研究
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Contract comparison and analysis
-- Evidence classification
-- Case law analysis
+- 合同比较与分析
+- 证据分类
+- 判例法分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Courtroom advocacy
-- Legal strategy development
-- Client trust building
-- Ethical judgment
+- 法庭辩护
+- 法律策略制定
+- 客户信任建立
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Legal tech utilization
-- Negotiation skills
-- Specialization deepening
+- 数据分析
+- 法律科技应用
+- 谈判技巧
+- 专业化深化
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Corporate advisory
-- Intellectual property
-- M&A
-- Legal tech
+- 企业咨询
+- 知识产权
+- 并购
+- 法律科技
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled experts in legal service fields such as foreign legal consultants, but only if attorney qualifications are recognized |
-| Subclass F-2 (Residence) | A step before permanent residence when certain conditions are met, benefits available to those with attorney qualifications |
-| Subclass F-5 (Permanent Residence) | Applicable after long-term stay, also acquirable by legal professionals |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent logical thinking and analytical skills
-- Person who can study for long hours with perseverance and patience
-- Person with strong willingness to help others and social responsibility
+- 逻辑思维与分析能力出众者
+- 能坚持不懈、耐心长期学习的人
+- 乐于助人且具有社会责任感的人
 
 **谁不适合**
-- Person who prefers flexible schedule and remote work
-- Person who finds it difficult to endure frequent interpersonal conflicts or pressure
+- 偏好灵活时间表和远程工作的人
+- 难以忍受频繁人际冲突或压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a lawyer?**
-答：For junior lawyers, large law firms offer 50–80 million KRW per year, small and medium firms 40–60 million, and experienced lawyers with over 10 years can earn 200 million KRW or more.
+**问：律师的平均年薪是多少？**
+答：对于初级律师，大型律所年薪5000-8000万韩元，中小型律所4000-6000万，10年以上经验律师可达2亿韩元或更多。
 
-**问：What visa does a foreign lawyer need to work in Korea?**
-答：If you have obtained a Korean attorney license, you can work on an E-7 (Specific Activities) visa, and for long-term stay, you can switch to an F-2 (Residence) visa or F-5 (Permanent Residence) visa.
+**问：外国律师在韩国工作需要什么签证？**
+答：若已取得韩国律师执照，可凭E-7（特定活动）签证工作，长期居留可转换为F-2（居住）签证或F-5（永久居住）签证。
 
-**问：Are there other ways to become a lawyer besides law school?**
-答：Currently, you must graduate from a law school (law school) and pass the bar exam; there is virtually no other path.
+**问：除了法学院，还有其他成为律师的方式吗？**
+答：目前，你必须从法学院毕业并通过律师资格考试；几乎没有其他途径。
 
 
 ---
@@ -146,12 +136,12 @@ After law school graduation and bar exam → employment at law firms, corporatio
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/lawyer/KR)**

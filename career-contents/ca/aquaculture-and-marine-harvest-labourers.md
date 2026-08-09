@@ -54,8 +54,6 @@ Aquaculture workers in Canada engage in the cultivation, harvesting, and daily c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Aquaculture and marine harvest labor is physically intensive and repetitive; AI and automation will significantly replace feeding and monitoring tasks, compressing jobs, especially low-skilled ones.
-
 Entry-level aquaculture workers can advance to farming supervisor or technician, or transition to fishery management, quality control through short-term training. Due to low entry barriers, advancement often relies on experience and employer recognition.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Entry-level aquaculture workers can advance to farming supervisor or technician,
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Typically only high school diploma required; some employers may require short
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-and-marine-harvest-labourers/CA)**

@@ -53,8 +53,6 @@ Responsible for production process planning, scheduling, and control to ensure m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Production managers and manufacturing supervisors see some duties replaced by AI, but core management, decision-making, and interpersonal coordination remain hard to automate; overall impact is mixed.
-
 Career path: Production Planner → Production Supervisor → Production Manager / Factory Manager. Can transition to supply chain management or project management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Production Planner → Production Supervisor → Production Manager
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a university degree or recognized vocational education in Germany, employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, valid for one year, can be used to look for work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Not necessarily. Entry is possible via a dual university program or technicia
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-technical-production-planning-and-control/DE)**

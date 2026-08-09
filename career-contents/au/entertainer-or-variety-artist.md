@@ -54,8 +54,6 @@ Perform comedy, magic, acrobatics, and other variety acts on stage, television, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Can start from street performances or small venues, then progress to large tours or TV shows after gaining experience; a few become famous artists or art directors.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can start from street performances or small venues, then progress to large tours
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Requires ongoing training and performance experience; participating in auditi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/entertainer-or-variety-artist/AU)**

@@ -4,8 +4,6 @@
 
 Judges and magistrates are the core of the judicial system, responsible for independently and impartially adjudicating cases, interpreting the law, and issuing judgments. This profession is part of a highly regulated civil service system, requiring a rigorous national judicial examination (Oposición) and subsequent professional training.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Judges and magistrates are the core of the judicial system, responsible for inde
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on lawyers and Quebec notaries is mixed: large-scale document review and legal research tasks can be automated, reducing junior positions; but AI also enhances legal analysis and strategy development, deepening the moat in high-value areas.
-
 The promotion path usually progresses from Juez de Primera Instancia to Judge of the Superior Court (Magistrado de Audiencia Provincial) or Supreme Court (Tribunal Supremo). They may transfer to judicial administrative positions or enter the procuratorial system through examinations.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ The promotion path usually progresses from Juez de Primera Instancia to Judge of
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Spanish judicial authorities must act as employer sponsors, but non-EU applicants find it extremely difficult to pass the Oposición. EU citizens can move freely but require language and exam preparation. |
-| Subclass Homologación (Degree Recognition) | Non-EU law degrees require certification by the Spanish Ministry of Education (Homologación), and after certification, one must still participate in the Oposición, a complex and lengthy process. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: A Bachelor of Laws degree recognized by Spain is usually required, passing th
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judges-and-magistrates/ES)**

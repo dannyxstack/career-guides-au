@@ -52,8 +52,6 @@ Financial managers oversee an organisation's financial health, develop financial
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Beginners can start as financial analysts or accountants, then advance to financial manager, and later to finance director or CFO. Holding CMA or CFA certification can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Beginners can start as financial analysts or accountants, then advance to financ
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Kennismigrant) | For high-skilled migrants earning above threshold, 2023 threshold approx €5,008/month (over 30) or €3,672/month (under 30). Employer must be an IND-recognized sponsor. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU professionals with an annual salary of at least €5,639/month (2023), contract of at least 1 year, and can bring family members. |
-| Subclass Orientation Year (Orientation Year) | For master's/PhD graduates in the Netherlands or graduates from top 200 global universities, allows job seeking within 1 year with free work. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Although not a legal requirement, Dutch CPA (RA), CFA, or CMA certificates ca
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/finance-manager/NL)**

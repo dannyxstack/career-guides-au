@@ -4,8 +4,6 @@
 
 Specialised trade in Italian quarries, mines and construction sites responsible for explosive charging, detonation and safety monitoring; requires national blasting license.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Specialised trade in Italian quarries, mines and construction sites responsible 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-A blaster's work combines high-risk manual operations and fixed processes; although AI/automation can optimize blasting design and remote monitoring, it cannot replace core physical tasks such as on-site charging and wiring, so the outlook is mixed.
-
 Start as a blasting assistant, obtain advanced blasting certificate to become blasting supervisor or safety consultant, some transition to blasting training or blasting equipment sales.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Start as a blasting assistant, obtain advanced blasting certificate to become bl
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Suitable for non-EU high-skilled workers, requires annual salary ≥ €28,000 (2025 threshold); blasters typically meet this |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Employer-sponsored with annual quota, suitable for non-EU workers, blaster is in construction and sometimes on the quota list |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply for work permission from the Department of Home Affairs; after approval, a work visa can be applied for. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Must hold a national blasting license (renewed every 5 years) and pass a heal
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shotfirer-and-blaster/IT)**

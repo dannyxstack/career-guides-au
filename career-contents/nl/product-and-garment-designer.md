@@ -51,8 +51,6 @@ Product and clothing designers in the Netherlands mainly design and develop fash
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Product and fashion designers face mixed prospects: AI tools accelerate idea generation, pattern drafting, and trend analysis, but aesthetic judgment, fabric feel, and personalized client communication still rely on humans. Entry-level roles face more competition as AI lowers barriers, while high-level creative roles become rarer.
-
 Career paths include advancing from junior designer to senior designer, design director, or creative director, or moving into self-employment or brand management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career paths include advancing from junior designer to senior designer, design d
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with employer sponsorship, requiring annual salary to meet the threshold (approx. €5,008/month in 2024, for ages 30+) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, requires a work contract and annual salary of at least €5,900/month (2024 standard) |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or top 200 universities worldwide can apply for a 1-year job-seeking visa, which can later be converted to a work visa |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can progress from junior designer to senior designer, design manager, or crea
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-and-garment-designer/NL)**

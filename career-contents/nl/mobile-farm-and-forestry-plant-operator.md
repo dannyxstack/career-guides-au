@@ -4,8 +4,6 @@
 
 Operate mobile agricultural or forestry machinery (such as tractors, harvesters, skidders, etc.) for tasks like cultivation, harvesting, afforestation, and timber transport. Typically employed by farms, forestry companies, or contracting services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate mobile agricultural or forestry machinery (such as tractors, harvesters,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Automation and AI will replace some routine driving and monitoring tasks, but complex operations, equipment maintenance, and decision-making still require humans, balancing risks and opportunities.
-
 Junior operators can advance to senior technician or team supervisor through experience; can also study agricultural engineering or precision agriculture technology, moving into technical consultant or machinery management roles.
 
 **Tasks most exposed to AI:**
@@ -100,18 +96,9 @@ Junior operators can advance to senior technician or team supervisor through exp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled workers meeting income thresholds; this occupation usually does not meet the salary threshold, but may apply if employed by a large agricultural enterprise. |
-| Subclass EU Blue Card (EU Blue Card) | High salary threshold; this occupation typically does not meet the requirement. |
-| Subclass Orientation Year (zo (Orientation Year) | Applicable to international graduates in the Netherlands, allows free work for one year, easy entry into this industry. |
-| Subclass EU Free Movement (EU Free Movement) | EU/EEA citizens can work in this occupation in the Netherlands without a work permit. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +142,12 @@ A: Driving agricultural vehicles requires a T license, and forestry machinery op
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-farm-and-forestry-plant-operator/NL)**

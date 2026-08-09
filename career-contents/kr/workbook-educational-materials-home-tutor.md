@@ -4,8 +4,6 @@
 
 This is a job that involves visiting homes or educational institutions to provide instruction and consultation using workbooks and teaching aids.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This is a job that involves visiting homes or educational institutions to provid
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist in developing learning content and learning analysis, but face-to-face instruction and counseling by visiting teachers are difficult to replace with AI, so impact is limited.
-
 Starting as a beginner tutor, you can advance to top tutor, team leader, or branch manager; depending on experience, some transition to freelancers or independent sales.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a beginner tutor, you can advance to top tutor, team leader, or bran
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if related educational professional activities are recognized, but rare cases |
-| Subclass F-2 (Residence) | No restrictions on stay as a pre-permanent residence stage |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can engage in visiting education activities |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Promotion goes from instructor to team leader to branch manager, or one can b
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/workbook-educational-materials-home-tutor/KR)**

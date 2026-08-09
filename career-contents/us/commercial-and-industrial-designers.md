@@ -51,8 +51,6 @@ Design and develop manufacturing products for cars, home appliances, toys, etc.,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The creative core and user research skills of commercial and industrial designers are hard to replace, but AI will significantly accelerate concept generation, sketching, and initial rendering, automating repetitive design tasks; overall workload reduced but quality demands higher.
-
 Junior designers can start as assistants or design technicians, gain experience, and advance to senior designer or design director. Some designers move into product management or entrepreneurship, or specialize in sustainable design, ergonomics, etc.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior designers can start as assistants or design technicians, gain experience,
 | Subclass O-1 (O-1 Extraordinary Ability) | Suitable for those with outstanding achievements in industrial design, such as awards or media coverage, no labor certification needed. |
 | Subclass Green Card (PERM) (EB-3 Skilled Worker) | Employer-sponsored PERM labor certification process, requires bachelor's degree or 2 years experience, long waiting period |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Usually requires a bachelor's degree in industrial design or a related field;
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-and-industrial-designers/US)**

@@ -54,8 +54,6 @@ Provide clients with personal finance, retirement, insurance, and investment adv
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Licensed Financial Advisors Will Not Be Replaced by AI; Instead, AI Enhances Data Processing and Compliance Efficiency, but Entry-Level Roles Have Significantly Narrowed Due to Regulatory and Qualification Requirements.
-
 Start as junior advisor building clients, obtain AFA license to advance to senior advisor or team leader, possibly move to private banking or wealth management. Some experienced advisors practice independently or start boutique firms.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Start as junior advisor building clients, obtain AFA license to advance to senio
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Must hold an Authorised Financial Adviser (AFA) license issued by the FMA, re
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-adviser/NZ)**

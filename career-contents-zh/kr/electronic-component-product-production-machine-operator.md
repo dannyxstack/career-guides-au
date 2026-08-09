@@ -1,8 +1,8 @@
-# Electronic Component & Product Production Machine Operator 职业分析 · 韩国
+# 电子元器件及产品生产机器操作员（Electronic Component & Product Production Machine Operator）职业分析 · 韩国
 
-**职业代码: 83521 (KECO)**
+**职业代码：83521 (KECO)**
 
-This is a production worker who operates and monitors automated machinery to produce electronic components and products.
+这是一名生产工人，操作和监控自动化机器以生产电子元件和产品。
 
 
 ---
@@ -12,7 +12,7 @@ This is a production worker who operates and monitors automated machinery to pro
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中毕业 | 0年 | $0~$0（义务教育） |
-| Junior college (electronics-related) | 2 年 | $4,000,000~$8,000,000（Tuition-based） |
+| 大专（电子相关） | 2 年 | $4,000,000~$8,000,000（学费制） |
 
 ---
 
@@ -20,17 +20,17 @@ This is a production worker who operates and monitors automated machinery to pro
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electronics Equipment Technician | Human Resources Development Service of Korea | 可选 | Preferred but not required |
-| Production Automation Technician | Human Resources Development Service of Korea | 可选 | Related certification |
+| 电子设备技术员 | 韩国人力资源开发服务局 | 可选 | 优先考虑但非必需 |
+| 生产自动化技术员 | 韩国人力资源开发服务局 | 可选 | 相关认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 88,000. Employment is expected to decrease slightly due to automation expansion and smart factory transitions in the electronics industry, but demand for precision operation and maintenance personnel remains.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 88,000。由于电子行业自动化扩展和智能工厂转型，就业预计略有下降，但对精密操作和维护人员的需求仍然存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,7 +38,7 @@ This is a production worker who operates and monitors automated machinery to pro
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$36,000,000 | Base salary + allowances |
+| 入门级（0-3年） | $30,000,000~$36,000,000 | 基本工资+津贴 |
 | 中级（4-7年） | $36,000,000~$45,000,000 | 含夜班补贴 |
 | 高级（8年+） | $42,000,000~$55,000,000 | 团队主管级别 |
 
@@ -46,84 +46,77 @@ This is a production worker who operates and monitors automated machinery to pro
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Simple operation tasks will shrink due to AI and automation, but smart factory operation and maintenance will strengthen, reducing overall workforce while increasing high-level roles.
+简单操作岗位因AI和自动化减少，但智能工厂运维加强，整体劳动力减少，高技能职位增加。
 
-Entry-level production workers can advance to team leader, process management, or maintenance specialist based on experience. Movement between large companies and partners is active.
+初级生产工人可凭借经验晋升为团队组长、流程管理或维护专家。大公司与合作伙伴之间人员流动活跃。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Machine Operation
-- Product Inspection
-- Material Input
+- 简单机器操作
+- 产品检验
+- 物料输入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Process Monitoring
-- Data Analysis
-- Predictive Equipment Maintenance
+- 过程监控
+- 数据分析
+- 预测性设备维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Equipment Fault Diagnosis and Repair
-- Smart Factory Optimization
-- Precision Part Replacement
+- 设备故障诊断与维修
+- 智能工厂优化
+- 精密零件更换
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC Programming
-- IoT Sensor Understanding
-- Data Analysis Basics
+- PLC编程
+- 物联网传感器理解
+- 数据分析基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Factory
-- Electronic Components
-- Automation
-- Production Automation
+- 智能工厂
+- 电子元器件
+- 自动化
+- 生产自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For non-professional skilled workers, manufacturing companies eligible |
-| Subclass E-7 (E-7 (Specific Activities)) | Convertible to skilled worker, some production jobs |
-| Subclass F-2 (Residence) | Employment possible after long-term residence, skilled points system |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone meticulous and good at repetitive tasks
-- Someone interested in machine operation
-- Someone willing to work night shifts
+- 细心且擅长重复性工作的人
+- 对机器操作感兴趣的人
+- 愿意上夜班的人
 
 **谁不适合**
-- Someone who prefers creative and free work
-- Someone who dislikes physically demanding work
+- 喜欢创意和自由工作的人
+- 不喜欢体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Annual salary before tax for entry-level is about 30-36 million KRW, plus night shift and overtime pay.
+**问：起薪是多少？**
+答：入门级税前年薪约3000-3600万韩元，外加夜班和加班费。
 
-**问：Can foreigners get a job here?**
-答：Yes, with an E-9 visa you can work in manufacturing production, and switch to E-7 to reside as a skilled worker.
+**问：外国人能在这里找到工作吗？**
+答：可以，持E-9签证可在制造业生产岗位工作，并可转为E-7签证以技术工人身份居留。
 
-**问：Are there required certifications?**
-答：Not mandatory, but having a certification in electronic devices or production automation is advantageous.
+**问：是否需要必需的认证？**
+答：非强制，但持有电子设备或生产自动化证书者优先。
 
 
 ---
@@ -141,12 +134,12 @@ Entry-level production workers can advance to team leader, process management, o
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electronic-component-product-production-machine-operator/KR)**

@@ -4,8 +4,6 @@
 
 A clerical position that greets customers or visitors, handles phone calls, and performs guidance and reception tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A clerical position that greets customers or visitors, handles phone calls, and 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Reception and guidance jobs are highly likely to be replaced by AI and automation technology. With the introduction of kiosks, chatbots, and online reservation systems, simple reception and guidance tasks are decreasing, and the number of jobs is expected to decline within the next 5 to 10 years.
-
 At the beginning of the career, reception and guidance tasks are learned; with experience, promotion to front desk management or administrative support is possible.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ At the beginning of the career, reception and guidance tasks are learned; with e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Long-term residents are possible, but generally difficult to obtain as receptionists are not professionals |
-| Subclass E-7 (Specific Activities (E-7)) | Possible only for certain administrative jobs requiring expertise; general receptionists/information desk workers are not eligible |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This occupation is not eligible for the E-9 visa |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: High school graduation or higher is sufficient; associate degree may be advan
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist/KR)**

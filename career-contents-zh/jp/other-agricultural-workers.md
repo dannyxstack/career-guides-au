@@ -1,8 +1,8 @@
-# Other Agricultural Workers 职业分析 · 日本
+# 其他农业工人（Other Agricultural Workers）职业分析 · 日本
 
-**职业代码: 469 (JSCO)**
+**职业代码：469 (JSCO)**
 
-Engaged in cultivation management and harvesting of vegetables, fruit trees, flowers, etc., supporting diverse agricultural sites.
+从事蔬菜、果树、花卉等栽培管理和收获，支持多样化的农业场所。
 
 
 ---
@@ -11,8 +11,8 @@ Engaged in cultivation management and harvesting of vegetables, fruit trees, flo
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School Graduate | 3年 | $100,000~$300,000（In case of public high school） |
-| Agricultural College / Vocational School | 2 年 | $1,000,000~$3,000,000（Specialized Technical Training） |
+| 高中毕业 | 3年 | $100,000~$300,000（公立高中的情况） |
+| 农业学院/职业学校 | 2 年 | $1,000,000~$3,000,000（专业技术培训） |
 
 ---
 
@@ -20,18 +20,18 @@ Engaged in cultivation management and harvesting of vegetables, fruit trees, flo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Agricultural Technology Certification | Central Union of Agricultural Cooperatives | 可选 | Available from basic to advanced levels, certifying proficiency |
-| Poisonous and Deleterious Substances Handler | Prefectural Government | 可选 | Required for pesticide use in some cases |
-| 叉车操作员 | Prefectural Government | 可选 | Useful for operating large agricultural machinery |
+| 农业技术认证 | 中央农业合作社联合会 | 可选 | 从基础到高级，认证熟练程度 |
+| 有毒有害物质处理员 | 县政府 | 可选 | 某些情况下在农药使用需要 |
+| 叉车操作员 | 县政府 | 可选 | 适用于操作大型农业机械 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 1,750,000. Aging and shortage of successors are severe; robots and AI are being introduced but manual labor remains. A field covered by Specified Skilled Worker.
+**职位需求量：很高（★★★★½）** 全国从业人数约 1,750,000。老龄化与接班人短缺严重；机器人和AI正在引入，但体力劳动仍存在。这是一个特定技能工人涵盖的领域。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,96 +39,89 @@ Engaged in cultivation management and harvesting of vegetables, fruit trees, flo
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $2,500,000~$3,500,000 | Annual income; seasonal fluctuations exist |
-| 中级（3-10年） | $3,500,000~$4,800,000 | Increases with skill acquisition |
-| Advanced (10+ years) | $4,800,000~$6,000,000 | Varies with management or business participation |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 年收入；存在季节性波动 |
+| 中级（3-10年） | $3,500,000~$4,800,000 | 随技能掌握而增长 |
+| 高级（10年以上） | $4,800,000~$6,000,000 | 视管理或业务参与情况而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Automated harvesting robots and AI-based growth management are being introduced, but many tasks require diverse judgment, making full replacement difficult. Human roles remain, but simple tasks will be mechanized.
+自动化收割机器人和基于人工智能的生长管理正在被引入，但许多任务需要多样化判断，完全替代困难。人类角色仍然存在，但简单任务将机械化。
 
-Transitioning from family-run to corporate farming. Smart agriculture skills can open paths to management and business participation.
+从家族经营向企业化农业转型。智能农业技能可以开辟管理和业务参与的道路。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Field vegetable harvesting
-- Weeding
-- Simple sorting
-- Transplanting
+- 田间蔬菜采收
+- 除草
+- 简单分拣
+- 移植
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Growth monitoring
-- Pest and disease diagnosis
-- Irrigation and fertilization control
-- Yield prediction
+- 成长监控
+- 病虫害诊断
+- 灌溉与施肥控制
+- 产量预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Adaptation judgment to microclimates
-- Sense of unity with the land
-- Cultivation planning reflecting consumer preferences
-- Trial cultivation of new crops
+- 对微气候的适应判断
+- 与土地的团结感
+- 反映消费者偏好的种植规划
+- 试种新作物
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Drone operation
-- Maintenance and operation of automated machinery
-- Agricultural Management
+- 数据分析
+- 无人机操作
+- 自动化机械的维护和操作
+- 农业管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart agriculture
-- Facility horticulture
-- Organic farming
-- Production for export
+- 智慧农业
+- 设施园艺
+- 有机农业
+- 出口生产
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Agriculture)) | Requires certain skills & Japanese ability. Max 5-year stay. |
-| Subclass 技能実習 (Technical Intern Training (Agriculture)) | For skill transfer. Generally 3 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Agriculture)) | Applies to university graduates engaging in advanced agricultural tech/management. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident person
-- Loves nature and able to wake up early
-- Interested in machinery operation
+- 体力自信的人
+- 热爱自然并能早起
+- 对机械操作感兴趣
 
 **谁不适合**
-- Prefers desk work
-- Values weekends off
+- 偏好案头工作
+- 重视周末休息的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of agricultural workers?**
-答：Beginner: approx. ¥2.5–3.5M, Intermediate: ¥3.5–4.8M, Advanced: ¥4.8–6M. Higher if business owner.
+**问：农业工人的年收入是多少？**
+答：初级：约¥2.5-3.5M，中级：¥3.5-4.8M，高级：¥4.8-6M。如果是企业主则更高。
 
-**问：What visa do foreigners need to work in agriculture?**
-答：Specified Skilled Worker (i) (Agriculture) is representative. Technical Intern Training is also common, while the Engineer/Specialist in Humanities/International Services visa is limited to highly skilled work.
+**问：外国人在农业工作需要什么签证？**
+答：特定技能工人(i)（农业）具有代表性。技能实习制度也很常见，而技术·人文知识·国际业务签证仅限于高技能工作。
 
-**问：What skills are needed in agriculture?**
-答：Cultivation knowledge, machinery operation, pest and disease control, and recently, ICT utilization is also important. Skills in autonomous tractors and drone operation are advantageous.
+**问：农业需要哪些技能？**
+答：栽培知识、机械操作、病虫害防治，最近ICT应用也很重要。自动驾驶拖拉机和无人机操作技能有优势。
 
 
 ---
@@ -146,12 +139,12 @@ Transitioning from family-run to corporate farming. Smart agriculture skills can
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-agricultural-workers/JP)**

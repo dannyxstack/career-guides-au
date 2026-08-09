@@ -56,8 +56,6 @@ Mineral processing technicians monitor and optimize beneficiation processes in m
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mineral processing technicians face mixed impacts from AI/automation: tasks like process monitoring and data analysis are enhanced by AI, but manual operations and experience-based decisions have lower automation risk, resulting in moderate job stability.
-
 Career path: junior technician → senior technician/team leader → metallurgical engineer or plant manager. Requires 3-5 years of field experience; promotion is limited without further study for certifications or degrees; transitioning to metallurgical engineer requires advanced study.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Career path: junior technician → senior technician/team leader → metallurgic
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Primarily on the West Coast (gold), Waikato (ironsand), and Bay of Plenty (ge
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mineral-processing-technician/NZ)**

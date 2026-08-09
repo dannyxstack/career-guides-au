@@ -4,8 +4,6 @@
 
 A professional who teaches foreign languages at academies, schools, corporate training centers, etc., mainly instructing major languages such as English, Chinese, and Japanese.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who teaches foreign languages at academies, schools, corporate tr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As AI translators and voice recognition technology advance, some basic conversation learning is expected to be replaced, but human instructors remain important for high-level education requiring cultural context and emotional communication. Instructors who use AI as a supplementary tool can stay competitive.
-
 After 3-5 years of instructor experience, one can transition to freelancing, become an academy director, work as an educational consultant, or teach at a university-affiliated language institute.
 
 **Tasks most exposed to AI:**
@@ -92,18 +88,9 @@ After 3-5 years of instructor experience, one can transition to freelancing, bec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-2 (Conversation Instruction) | Work visa for foreigners to teach foreign language conversation in Korea, primarily for English instructors |
-| Subclass F-2 (Residence) | Can be converted to permanent residence upon meeting conditions, no restrictions on instructor activities |
-| Subclass F-4 (Overseas Korean) | Granted to overseas Koreans, can work as a foreign language instructor without employment restrictions |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking activities before changing status, used before formal employment as an instructor |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +134,12 @@ A: AI translators and chatbots may replace some basic conversation learning, but
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foreign-language-instructor/KR)**

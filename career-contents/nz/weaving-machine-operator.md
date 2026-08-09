@@ -53,8 +53,6 @@ In New Zealand, a loom operator operates and monitors looms to weave yarn into f
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Loom operators face higher risk; automation will take over core tasks like machine monitoring and quality inspection, entry-level positions narrow significantly, but maintenance and anomaly handling still require humans.
-
 Junior loom operators can advance to senior operators or team leaders through on-the-job training; some may transition to textile machinery maintenance or quality management. Experienced individuals can become production supervisors, but management positions are limited. Typically no academic requirements; industry certifications like the National Textiles Certificate can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior loom operators can advance to senior operators or team leaders through on
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: This occupation is not on the Green List or Long Term Skill Shortage List; Sk
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weaving-machine-operator/NZ)**

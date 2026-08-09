@@ -55,8 +55,6 @@ An Early Childhood Teacher holds a university education degree and leads curricu
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
-
 The Australian Government's 2022–2030 Early Childhood Education strategic investment has driven a significant increase in kindergarten enrolment rates, and the universal early childhood education policy of 15 hours per week (for 3- and 4-year-olds) further increases demand for early childhood teachers. Salary reforms (pay rises for early childhood educators across multiple states) are improving the sector's attractiveness.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ The Australian Government's 2022–2030 Early Childhood Education strategic inve
 | Subclass 190 (Skilled Nominated) | State nomination; early childhood education professionals are in severe shortage across all states |
 | Subclass 491 (Skilled Work Regional) | More acute shortage of early childhood educators in regional areas — 15 bonus points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both are MLTSSL shortage occupations with same migration pathway. Primary/sec
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-teacher-ect/AU)**

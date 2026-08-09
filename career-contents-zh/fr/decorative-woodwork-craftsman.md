@@ -1,6 +1,6 @@
-# Decorative Woodwork Craftsman 职业分析 · 法国
+# 装饰木工工匠（Decorative Woodwork Craftsman）职业分析 · 法国
 
-**职业代码: H2208 (ROME)**
+**职业代码：H2208 (ROME)**
 
 装饰木工负责制作和安装木质装饰构件，如雕花、镶板、楼梯、家具等，结合传统手工技艺与现代工具，为建筑和室内空间增添艺术价值。
 
@@ -21,17 +21,17 @@
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
 | CAP Menuisier fabricant de menuiserie, mobilier et agencement | 法国国家教育部 | 必备 | 基础从业文凭，多数雇主要求 |
-| BTS Aménagement finition | 法国国家教育部 | 可选 | 高级文凭，有助于晋升管理或设计岗 |
+| BTS装修涂层 | 法国国家教育部 | 可选 | 高级文凭，有助于晋升管理或设计岗 |
 | CQP (Certificat de Qualification Professionnelle) 装饰木工 | 建筑行业CPNE | 可选 | 行业认证，证明专项技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 25,000. 法国建筑与遗产修复行业持续需要装饰木工，尤其是在历史建筑保护和高端住宅定制领域。受绿色建筑趋势影响，木材使用增加；但自动化与预制件可能减少部分传统岗位，整体就业前景稳定。
+**职位需求量：中高（★★★★☆）** 全国从业人数约 25,000。法国建筑与遗产修复行业持续需要装饰木工，尤其是在历史建筑保护和高端住宅定制领域。受绿色建筑趋势影响，木材使用增加；但自动化与预制件可能减少部分传统岗位，整体就业前景稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -48,21 +48,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 装饰木工核心传统技艺难被替代，但设计出图、客户沟通等辅助任务将被AI压缩，需强化数字工具与艺术融合能力。
 
 通常从CAP或BTS学徒起步，积累经验后晋升为高级工匠或工长，可专攻修复或设计，或自创工作室。部分进入遗产修复机构（如Monuments Historiques）需通过竞争考试。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手工绘制装饰图纸，AI生成设计稿后仅需调整
 - 客户需求分析，AI聊天机器人可初步沟通
 - 材料清单计算，AI自动生成采购单
 - 简单重复的榫头切割，CNC完成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 复杂雕花设计，AI生成多种方案供选择
 - 结构强度分析，AI模拟受力优化
@@ -70,7 +70,7 @@
 - 项目管理，AI协调工期与资源
 - 成本估算，AI分析历史数据提高精度
 
-**人类护城河:**
+**人类护城河：**
 
 - 手工雕刻与定制化艺术创作
 - 现场作业的灵活适应与问题解决
@@ -78,7 +78,7 @@
 - 客户信任与个性化审美沟通
 - 传统工艺的传承与创造性发挥
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 3D建模与渲染软件（如Blender）
 - CNC编程和操作
@@ -87,27 +87,20 @@
 - 可持续材料与绿色工艺知识
 - 客户需求数字化分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Heritage restoration
-- Custom furniture
-- Green building
-- Artisan craftsmanship
+- 遗产修复
+- 定制家具
+- 绿色建筑
+- 工匠技艺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | 由雇主担保的工作居留，需证明职位无法由欧盟公民填补，适用于装饰木工职位。 |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | 适合高技能或杰出人才，如拥有BTS以上学历且薪资达1.5倍SMIC，可简化流程。 |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search) Visa) | 毕业后允许留法1年找工作，找到与学历匹配工作后可换工签。 |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +144,12 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/decorative-woodwork-craftsman/FR)**

@@ -52,8 +52,6 @@ Bank, insurance, and other financial clerks handle customer transactions, record
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Routine transaction processing tasks of bank and post office clerks will be greatly compressed by AI automation, but complex customer inquiries and sales tasks will be enhanced by AI, shifting roles toward advisory positions.
-
 Usually start as a junior clerk, gain experience, and advance to senior clerk, team supervisor, or move into specialized roles such as loan officer or insurance underwriter.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as a junior clerk, gain experience, and advance to senior clerk, t
 | Subclass PNP (Provincial Nominee Program) | Some provinces have demand for finance clerks, eligible for immigration through provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, which helps accumulate Canadian experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes. This occupation is in TEER 4, may score lower in Express Entry, but stil
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/banking-insurance-and-other-financial-clerks/CA)**

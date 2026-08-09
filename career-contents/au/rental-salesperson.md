@@ -53,8 +53,6 @@ Rental salespersons provide leasing services for vehicles, equipment, accommodat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Rental salespersons are significantly affected by AI automation; tasks are highly structured, and online self-service platforms and chatbots are replacing processes like quoting and contracts, reducing entry-level roles, though complex client negotiations and after-sales service remain.
-
 Can progress from junior salesperson to senior sales representative, store manager, or regional manager. Accumulating client resources can lead to roles in rental business management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior salesperson to senior sales representative, store manag
 | Subclass 190 (Skilled Nominated) | State-sponsored skilled migration requires the occupation to be on a relevant list; a leasing salesperson typically does not qualify. |
 | Subclass 491 (Skilled Work Regional) | Regional skilled migration, similar to 190, occupation usually not on the list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is usually not on the skilled migration occupation list, maki
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rental-salesperson/AU)**

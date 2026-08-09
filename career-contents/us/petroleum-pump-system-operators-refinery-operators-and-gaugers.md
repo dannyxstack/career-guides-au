@@ -52,8 +52,6 @@ Operate or control petroleum refining or processing units; may specialize in con
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Positions like oil pump system operators face serious automation threats; AI and IoT can take over monitoring, reporting, and scheduling tasks. Entry-level positions shrink significantly, but on-site emergency response and compliance supervision still require humans.
-
 Junior operators can advance to senior operators, shift leaders, or control room operators; some transition to process engineering or safety management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior operators can advance to senior operators, shift leaders, or control room
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Expected employment decline due to automation and renewable energy, but maint
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-pump-system-operators-refinery-operators-and-gaugers/US)**

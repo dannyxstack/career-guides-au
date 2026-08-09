@@ -4,8 +4,6 @@
 
 A profession that involves cooking Chinese dishes at restaurants with professional Chinese culinary skills, primarily responsible for popular Chinese dishes in Korea such as jjajangmyeon and tangsuyuk.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A profession that involves cooking Chinese dishes at restaurants with profession
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation partially affect the work of Chinese cuisine chefs. Robots can replace simple cooking assistance or frying processes, but complex flavor adjustments and creative cooking remain human domains.
-
 Starting as a kitchen assistant, one can advance to cook, head chef, and executive chef, or gain experience to start a business or operate a franchise.
 
 **Tasks most exposed to AI:**
@@ -86,18 +82,9 @@ Starting as a kitchen assistant, one can advance to cook, head chef, and executi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed by a specific company as a Chinese cuisine cook with recognized professional skills |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to assisting as a cook in restaurants for unskilled foreign workers; head cook restricted |
-| Subclass F-2 (Residence (F-2)) | Long-term stay status; no employment restrictions |
-| Subclass H-2 (Visit and Employment (H-2)) | For overseas Koreans; can work as a cook in restaurants |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +127,12 @@ A: Starting as a kitchen assistant and advancing to cook or head chef, obtaining
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chinese-cuisine-cook/KR)**

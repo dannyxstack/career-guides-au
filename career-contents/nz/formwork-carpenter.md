@@ -54,8 +54,6 @@ Formwork carpenters build and dismantle temporary formwork structures for concre
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot fully replace the physical labor and on-site judgment of formwork carpenters, but automated measurement, BIM, and prefabricated design will reduce high-skill tasks like layout and cutting. The role lies between 'augmented' and 'reduced.'
-
 Start as an apprentice or junior formwork carpenter, gain experience to advance to foreman or site manager, or specialise in complex formwork systems (e.g., slipform, flying form) to become a high-paying technical expert.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as an apprentice or junior formwork carpenter, gain experience to advance 
 | Subclass SMC (Skilled Migrant Category) | Meeting the 6-point system (e.g., 3 years of NZ work experience + qualifications) allows application for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain work visa after employed by accredited employer, eligible for residency after 2 years (Green List Tier 2). |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually complete an apprenticeship (3-4 years) to obtain a New Zealand Carpen
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/formwork-carpenter/NZ)**

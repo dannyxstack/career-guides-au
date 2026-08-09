@@ -52,8 +52,6 @@ Respiratory therapy technicians in New Zealand hospitals and clinics operate lun
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-For respiratory therapists, AI will significantly enhance data analysis and equipment management efficiency, but core clinical judgment, patient interaction, and emergency intervention remain indispensable; entry-level positions may narrow due to automation of basic tasks, but demand for senior roles increases.
-
 Career progression from junior technician to senior technician or respiratory therapy specialist, with potential to move into management roles such as department head. Continuous learning of new respiratory therapy technologies (e.g., non-invasive ventilation) can expand career options; some enter education and research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression from junior technician to senior technician or respiratory th
 | Subclass SMC (Skilled Migrant Category - 6-point system) | You can accumulate points for residency through education, income, and registration. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a temporary work visa option for applicants who do not yet meet Green List criteria. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires assessment by MCNZ, usually needing to make up some courses or pass 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/respiratory-technician/NZ)**

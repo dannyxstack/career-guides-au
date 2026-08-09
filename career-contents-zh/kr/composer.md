@@ -1,10 +1,8 @@
 # 作曲家（Composer）职业分析 · 韩国
 
-**职业代码: 41452 (KECO)**
+**职业代码：41452 (KECO)**
 
-A professional who creates musical works, composing melodies and harmonies using sheet music or digital devices, active in diverse genres such as pop music, film/TV OSTs, advertising music, and classical music.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用乐谱或数字设备创作旋律和和声的音乐作品专业人士，活跃于流行音乐、影视OST、广告音乐和古典音乐等多种流派。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who creates musical works, composing melodies and harmonies using
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Applied Music at a Junior College | 2 年 | $12,000,000~$20,000,000（Including tuition and practice fees (annual)） |
-| College of Music Composition Major at a University | 4年 | $25,000,000~$40,000,000（Including tuition and material fees (annual)） |
-| Private Academy/Private Lessons | 1年 | $5,000,000~$15,000,000（KRW 500K ~ 1.5M per month, based on 1 year） |
+| 专科院校应用音乐系 | 2 年 | $12,000,000~$20,000,000（包括学费和实践费（年）） |
+| 某大学音乐学院作曲专业 | 4年 | $25,000,000~$40,000,000（包括学费和材料费（每年）） |
+| 私立学院/私人辅导 | 1年 | $5,000,000~$15,000,000（每月50万~150万韩元，基于1年经验） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional who creates musical works, composing melodies and harmonies using
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Full Member of the Korea Music Copyright Association | Korea Music Copyright Association | 可选 | Advantageous for receiving royalties and activities, not mandatory |
-| Degree in Applied Music | University/Junior College | 可选 | A degree helps in getting a job but is not a requirement |
+| 韩国音乐著作权协会正式会员 | 韩国音乐著作权协会 | 可选 | 有利于收取版税和活动，非强制 |
+| 应用音乐学位 | 大学/专科院校 | 可选 | 学位有助于求职，但非必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. Due to the growth of the digital music market and the expansion of K-content, demand for composers remains steady, but employment is expected to stagnate due to advances in AI composition technology and intensifying competition. A high proportion work as freelancers, and stable jobs are limited.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。由于数字音乐市场增长和K-content扩展，作曲家的需求稳定，但由于AI作曲技术进步和竞争加剧，就业预计停滞。高比例的自由职业者，稳定职位有限。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,95 +39,87 @@ A professional who creates musical works, composing melodies and harmonies using
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $18,000,000~$30,000,000 | Annual total income as a freelancer, varies by number of composition commissions |
-| Mid Level (4–9 years) | $35,000,000~$60,000,000 | Regular employee or freelancer, significant variation depending on hit songs |
-| Senior Level (10+ years) | $70,000,000~$99,999,999 | Famous composer, when stable income sources are secured |
+| 入门级（0–3年） | $18,000,000~$30,000,000 | 自由职业者年总收入，视作曲委托数量而定 |
+| 中级（4-9年） | $35,000,000~$60,000,000 | 固定员工或自由职业者，因热门歌曲而异 |
+| 高级（10年以上） | $70,000,000~$99,999,999 | 著名作曲家，当有稳定收入来源时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI composition technology (e.g., AIVA, MuseNet) is advancing rapidly, automating simple melody generation and background music production. However, creative expression, genre fusion, and reflection of cultural context remain the domain of human composers. AI is used as an auxiliary tool, and it is unlikely to reduce the role of composers significantly.
+AI作曲技术（如AIVA、MuseNet）发展迅速，可自动生成简单旋律和背景音乐。然而，创意表达、流派融合和文化背景反映仍是人类作曲家的领域。AI作为辅助工具，不太可能显著减少作曲家的角色。
 
-Mainly work as freelancers; after gaining experience as music academy instructors or at performance planning companies, they may become independent or grow into music producers. Regular positions at large agencies or broadcasters are rare, and portfolios and networks are important.
+主要以自由职业者身份工作；在音乐学校讲师或演出策划公司积累经验后，可能独立或成长为音乐制作人。大型经纪公司或广播公司的常规职位很少，作品集和人脉很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Royalty-Free Background Music Production
-- Simple Chord Progression Melody Generation
-- Patterned Composition in Specific Genres
+- 免版税背景音乐制作
+- 简单和弦进行旋律生成
+- 特定流派中的模式化构成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Music Arrangement and Orchestration
-- Composition Idea Sketching and Prototyping
-- Client Needs Analysis and Rapid Revisions
+- 音乐编曲与管弦乐配器
+- 构图创意草图和原型制作
+- 客户需求分析与快速修改
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique Artistic Vision
-- Expressiveness that Evokes Human Emotion
-- Understanding of Cultural and Social Context
-- Ability to Collaborate with Performers
+- 独特艺术视野
+- 唤起人类情感的表现力
+- 理解文化和社会背景
+- 与表演者合作的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Composition Tool Proficiency
-- Advanced Digital Audio Workstation (DAW) Skills
-- Storytelling and Media Understanding
-- Networking and Self-Branding
+- AI组合工具熟练度
+- 高级数字音频工作站（DAW）技能
+- 叙事与媒体理解
+- 人脉构建与自我品牌塑造
 
-**主要增长方向:**
+**主要增长方向：**
 
-- K-Content
+- 韩流内容
 - OST
-- Game Music
-- Digital Audio
+- 游戏音乐
+- 数字音频
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Culture and Arts)) | Required for foreign composers to work in Korea, proof of expertise essential |
-| Subclass F-2 (Residence (F-2) Status) | Long-term foreign residents, no activity restrictions |
-| Subclass D-10 (Job Seeker (D-10) Status) | Can be used by music majors after graduation for job seeking |
-
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with exceptional passion and creativity for music
-- Those who consistently strive to develop their own work
-- People who can tolerate the instability of freelance life
+- 对音乐充满非凡热情和创造力的人
+- 那些持续努力发展自己工作的人
+- 能忍受自由职业不稳定性的人
 
 **谁不适合**
-- Those who want a stable salary and job security
-- Those who seek immediate economic success
+- 希望获得稳定薪资和工作保障的人
+- 追求即时经济成功的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a composer?**
-答：Entry-level: 18-30 million KRW per year; senior composers with hits can earn over 100 million KRW. However, most are freelancers with fluctuating income.
+**问：作曲家的平均年薪是多少？**
+答：入门级：年薪1800-3000万韩元；高级作曲家如有热门作品可超1亿韩元。但多数为自由职业者，收入波动。
 
-**问：What visa does a foreigner need to work as a composer in Korea?**
-答：An E-7-1 visa is required for professional activities, and proof of degree or experience is needed. Those from a student background can switch from D-10 to F-2.
+**问：外国人在韩国担任作曲家需要什么签证？**
+答：专业活动需E-7-1签证，需提供学位或经验证明。学生背景可从D-10转为F-2。
 
-**问：What is the best way to become a composer?**
-答：Common paths include majoring in applied music or composition, or building a foundation through music academies/private lessons and creating a portfolio. Continuous work and networking are important.
+**问：成为作曲家最好的方式是什么？**
+答：常见路径包括主修应用音乐或作曲，或通过音乐学院/私人课程打下基础并建立作品集。持续工作和拓展人脉很重要。
 
 
 ---
@@ -147,12 +137,12 @@ Mainly work as freelancers; after gaining experience as music academy instructor
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/composer/KR)**

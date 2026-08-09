@@ -55,8 +55,6 @@ Organize and lead group recreational activities in public, private, or voluntary
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The tasks of recreation activity workers are both creative and interpersonal, making them hard to fully replace by AI, but administrative and repetitive tasks (e.g., scheduling, event registration) can be automated, reducing entry-level positions.
-
 Common career path: start as an assistant or activity coordinator, gain experience to advance to recreation supervisor, project manager, or facility manager. Some pursue therapeutic recreation certification to serve special populations, or enter park and recreation management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Common career path: start as an assistant or activity coordinator, gain experien
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Projected growth rate of 5%, similar to the average for all occupations. An a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-workers/US)**

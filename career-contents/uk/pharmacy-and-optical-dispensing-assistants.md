@@ -51,8 +51,6 @@ Under the supervision of a pharmacist or optometrist, dispense medications, exec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Automation will reduce entry-level dispensing roles, but AI enhances diagnostics and customer service. Meanwhile, licensing thresholds rise, over-the-counter sales become more self-service, and optician services increasingly rely on AI assistance. Overall, the outlook is mixed.
-
 Can advance to senior dispensing assistant, pharmacy technician, or pursue further studies to become a pharmacist/optometrist.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Can advance to senior dispensing assistant, pharmacy technician, or pursue furth
 | Subclass Health & Care Worker (Health and Care Worker Visa) | Applicable to the UK NHS or independent healthcare providers, low salary threshold, concessions for shortage occupations. |
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; this occupation is usually on the sponsorable list but must meet salary thresholds. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Occupied in medical shortage occupation, usually eligible for immigration via
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacy-and-optical-dispensing-assistants/UK)**

@@ -49,8 +49,6 @@ Profession specializing in nail and toenail beauty care, offering services like 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Nail art is a profession that AI is difficult to completely replace, where creativity and hand skills are important. However, AI can assist in some tasks such as design recommendations or customer management systems.
-
 Career path: from junior nail artist to manager or owner. Becoming a nail instructor or starting a beauty franchise is also common.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career path: from junior nail artist to manager or owner. Becoming a nail instru
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Can work in nail art as skilled functional personnel. Requires employer recommendation. |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible under certain conditions, free job activity allowed. |
-| Subclass F-4 (Overseas Korean) | Granted to overseas Koreans, service industry employment possible but nail art is limited. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: An E-7 (Specific Activities) visa is mainly required, and recognition as a sk
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nail-artist/KR)**

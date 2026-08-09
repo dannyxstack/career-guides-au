@@ -4,8 +4,6 @@
 
 Chemical engineering technicians assist chemical engineers in experiments, production process monitoring, quality control, and equipment maintenance, ensuring safe and efficient chemical plant operations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Chemical engineering technicians assist chemical engineers in experiments, produ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The job tasks of chemical engineering technicians will undergo significant differentiation: repetitive monitoring and recording tasks are quickly replaced by AI, but tasks such as process optimization, troubleshooting, and new equipment integration, which require deep chemical engineering knowledge and hands-on skills, are enhanced by AI. Entry-level positions narrow, while the value of senior technicians increases.
-
 Can progress from junior operator to senior technician or team leader, further to process engineer or project management. Continuous learning of new technologies is key.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Can progress from junior operator to senior technician or team leader, further t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to technicians earning over €3,672/month (2025 standard), requiring employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual salary of €58,500+ (2025 standard), requiring employer sponsorship |
-| Subclass Orientation Year (Orientation Year for Recent Graduates) | Graduates from Dutch universities or master's degrees from top 200 global universities can apply for a 1-year job-seeking visa |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can advance to senior technician, supervisor, or transition to process engine
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineering-technician/NL)**

@@ -4,8 +4,6 @@
 
 A specialist who diagnoses and treats diseases of the urinary system; obtains a medical license under the Medical Act, completes residency training, and acquires a specialist certificate.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialist who diagnoses and treats diseases of the urinary system; obtains a 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI enhances urology diagnostic support (image reading, pathology analysis) but cannot fully replace human physicians in surgery and patient consultation, where the doctor's role remains central. Robotic surgery is evolving with AI, but physician control is essential.
-
 After graduating from medical school, completes internship and residency (4 years) to obtain a specialist license, then opens a clinic or works at a hospital; career path can expand to professor or private practitioner.
 
 **Tasks most exposed to AI:**
@@ -91,15 +87,9 @@ After graduating from medical school, completes internship and residency (4 year
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Required when a foreign doctor works in a domestic urology department; must meet professional qualification requirements. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: It takes at least 11 years: 6 years of medical school, 1 year of internship, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urologist/KR)**

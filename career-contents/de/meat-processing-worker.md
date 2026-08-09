@@ -54,8 +54,6 @@ Meat processing workers are responsible for slaughtering, cutting, deboning, pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Meat processing workers face significant automation displacement risk, especially in repetitive tasks like cutting, deboning, and packaging; AI and robots will gradually replace manual labour, reducing entry-level job opportunities.
-
 Junior meat processing workers can advance to team leader or production supervisor through experience. After completing further training, they can become a meat technician (Meister) or plant manager. There are also opportunities to move into quality control or food safety.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior meat processing workers can advance to team leader or production supervis
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Based on a points system, allows job seekers without a job offer to enter Germany to find work, applicable to applicants with vocational qualifications or relevant experience. |
 | Subclass Recognition (Professional Qualification Recognition) | If occupational qualifications obtained in a third country must first undergo German recognition (Anerkennung) before applying for a skilled migration visa. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires completing 3 years of dual vocational training (Ausbildung
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-processing-worker/DE)**

@@ -51,8 +51,6 @@ Policy analysts work in government, think tanks, and research institutions to an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on policy analyst roles is mixed: data collection and reporting will be automated, but policy interpretation, stakeholder coordination, and strategic advice still require human judgement, with increased competition for entry-level positions.
-
 Requires a background in social sciences, economics or public policy; pathway leads to senior policy or research leadership roles.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Requires a background in social sciences, economics or public policy; pathway le
 | Subclass 186 (ENS) | Employer-sponsored permanent residency; relevant assessment required |
 | Subclass 190 (Skilled Nominated) | State nomination, subject to each state's nomination list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Yes. Policy Analyst (224412) is on the skilled migration list and requires a 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-analyst/AU)**

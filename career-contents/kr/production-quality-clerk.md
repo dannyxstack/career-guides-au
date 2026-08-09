@@ -4,8 +4,6 @@
 
 Performs production and quality-related clerical tasks in manufacturing settings, including production planning, quality control, and inventory management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Performs production and quality-related clerical tasks in manufacturing settings
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can replace tasks in production planning optimization, quality data analysis, etc., but field coordination and decision-making still require human roles. Automation and collaboration are expected.
-
 Office Assistant → Production & Quality Clerk → Team Lead/Manager → Quality Control Manager. Experience and certifications (e.g., Quality Management Engineer) aid promotion.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Office Assistant → Production & Quality Clerk → Team Lead/Manager → Qualit
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible to apply as a production management professional in manufacturing, but general office work is difficult |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage targeting skilled workers, no employment restrictions |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans, eligible for manufacturing office jobs |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Certifications like Quality Management Engineer or Production Management Engi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-quality-clerk/KR)**

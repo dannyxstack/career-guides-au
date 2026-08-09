@@ -50,8 +50,6 @@ Responsible for managing the overall operations of the unclassified professional
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a director, AI's impact on decision-making and administrative tasks is mixed: automating routine analysis and reporting improves efficiency, but core human skills like strategic judgment and customer relationship management are hard to replace.
-
 You can advance from department manager to director, move into larger company or cross-industry executive roles, start a business, or become an independent consultant.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ You can advance from department manager to director, move into larger company or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | University degree + employment contract, annual salary meeting requirements (approximately €33,908 in 2024) |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | High-skilled talent fast-track requires a work contract, with an annual salary threshold of about 40,000 euros |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residency requires employer sponsorship and labor market testing |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Common paths: Department Manager → Deputy Director → Director. MBA and cr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-of-other-professional-services-companies-not-elsewhere-classified/ES)**

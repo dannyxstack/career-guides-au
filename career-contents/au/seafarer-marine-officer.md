@@ -56,8 +56,6 @@ Ship Crew and Navigation Officers are responsible for navigation, safety managem
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Australia's maritime industry, driven by LNG and iron ore exports, continues to expand with strong stability and high salaries. The STCW (Standards of Training, Certification and Watchkeeping) certificate is the global standard; STCW certificates recognised in China can be converted to Australian certificates through AMSA. Domestic maritime college graduates are in short supply, creating strong demand for internationally qualified seafarers holding STCW credentials.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australia's maritime industry, driven by LNG and iron ore exports, continues to 
 | Subclass 189 (SkillSelect Independent) | Invitation-based, listed on MLTSSL; candidates with STCW certification are preferred |
 | Subclass 190 (Skilled Nominated) | State nomination — WA (mining and maritime) and QLD (LNG) actively nominating |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Pilot starting salaries ($70k–$90k) are lower than those of mariners ($75k�
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/seafarer-marine-officer/AU)**

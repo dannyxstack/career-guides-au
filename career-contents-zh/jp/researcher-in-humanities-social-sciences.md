@@ -1,10 +1,8 @@
-# Researcher in Humanities/Social Sciences 职业分析 · 日本
+# 人文/社会科学研究员（Researcher in Humanities/Social Sciences）职业分析 · 日本
 
-**职业代码: 052 (JSCO)**
+**职业代码：052 (JSCO)**
 
-Professional studying human culture, society, behavior, and history, returning knowledge to society in educational institutions, government, and corporations. Main workplaces: universities and research institutes.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+研究人类文化、社会、行为和历史的专业人士，将知识回馈于教育机构、政府和企业的社会。主要工作场所：大学和研究所。
 
 
 ---
@@ -13,9 +11,9 @@ Professional studying human culture, society, behavior, and history, returning k
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Master's program (pre-doctoral) | 2 年 | $2,000,000~$4,000,000（Large difference between national and private. Scholarships abundant.） |
-| Doctoral program (post-master) | 3年 | $1,500,000~$3,000,000（Possible tuition reduction or RA income.） |
-| University undergraduate (4 years) | 4年 | $2,400,000~$5,000,000（Assumes private humanities. Tuition varies.） |
+| 硕士课程（博士预科） | 2 年 | $2,000,000~$4,000,000（国立与私立差异大，奖学金充足。） |
+| 博士课程（博士后） | 3年 | $1,500,000~$3,000,000（可能减免学费或获得RA收入。） |
+| 大学本科（4年） | 4年 | $2,400,000~$5,000,000（假设私立人文类。学费有所不同。） |
 
 ---
 
@@ -23,18 +21,18 @@ Professional studying human culture, society, behavior, and history, returning k
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 博士 | Universities and graduate schools worldwide | 必备 | Nearly essential as a researcher. Degree acquisition involves strict screening. |
-| 硕士学位 | Graduate school | 必备 | Important as an entry qualification for research positions. Often required. |
-| Academic paper publication record | Academic societies | 可选 | Peer-reviewed papers essential for promotion and employment. |
+| 博士 | 全球大学和研究生院 | 必备 | 作为研究人员几乎是必需的。获取学位需经过严格筛选。 |
+| 硕士学位 | 研究生院 | 必备 | 作为研究职位的入门资格很重要。常需具备。 |
+| 学术论文发表记录 | 学术社团 | 可选 | 晋升和就业必须发表同行评审论文 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 65,000. Government and corporate research investment is limited, but demand for data-driven policy and business evaluation is expected to increase. The number of doctoral degree holders is flat, and competition continues.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 65,000。政府和企业研发投入有限，但数据驱动的政策和业务评估需求预计将增加。博士学位持有者数量持平，竞争持续。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,97 +40,89 @@ Professional studying human culture, society, behavior, and history, returning k
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $4,000,000~$6,000,000 | Postdoc/fixed-term researcher. Standard at national universities. |
-| Intermediate (4–9 years) | $6,000,000~$9,000,000 | Equivalent to Assistant Professor to Associate Professor. |
-| 资深（10年以上） | $9,000,000~$15,000,000 | Professor / Research Institution Manager. Upper limit varies by university size. |
+| Beginner (0–3 years) | $4,000,000~$6,000,000 | 博士后/固定期限研究员，国立大学标准。 |
+| 中级（4-9年） | $6,000,000~$9,000,000 | 相当于助理教授到副教授级别。 |
+| 资深（10年以上） | $9,000,000~$15,000,000 | 教授/研究机构负责人。上限因大学规模而异。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Humanities and social science researchers are less likely to be replaced by AI; rather, using AI for data analysis and literature reviews improves research efficiency. However, the decline in tenured positions continues.
+人文社科研究人员不太可能被AI取代；相反，利用AI进行数据分析和文献综述可提高研究效率。但终身职位减少的趋势仍在持续。
 
-Associate professor → professor, or project leader at research institutes. In private companies, promotion is possible in R&D departments or think tanks.
+副教授→教授，或研究机构项目负责人。私企可在研发部门或智库晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Literature collection and organization
-- Basic statistical analysis
-- Data cleaning
-- Paper formatting adjustments
+- 文献收集与整理
+- 基础统计分析
+- 数据清洗
+- 纸张格式调整
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Hypothesis generation
-- Data interpretation
-- Thesis writing support
-- Research planning
+- 假设生成
+- 数据解读
+- 论文写作支持
+- 研究规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Critical thinking
-- Cross-disciplinary knowledge
-- Ethical judgment
-- Interpersonal negotiation skills
+- 批判性思维
+- 跨学科知识
+- 道德判断
+- 人际谈判技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Programming (Python, R)
-- Statistical Analysis
+- 编程（Python、R）
+- 统计分析
 - 项目管理
-- Foreign Language Skills
+- 外语技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Data analysis
-- Public policy
-- Cross-cultural studies
-- Social problem-solving
+- 数据分析
+- 公共政策
+- 跨文化研究
+- 社会问题解决
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable when taking a research position at a university or institute. Degree or practical experience required. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)-(c)) | For foreigners with high research skills under a points system. Preferential treatment for permanent residency available. |
-| Subclass 教授 (Professor) | Applies when engaged in education and research at a university. Residence status 'Professor' is also possible. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong curiosity
-- Persistent people comfortable with solitary work
-- People skilled in critical thinking
+- 好奇心强的人
+- 能吃苦耐劳、适应独自工作的人
+- 擅长批判性思维的人
 
 **谁不适合**
-- People who want to earn quickly
-- People who prefer routine work
+- 想快速赚钱的人
+- 偏好例行工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Is the salary of researchers lower than that of regular company employees?**
-答：Starting salaries of 4-6 million yen are slightly lower than those of general corporate positions, but becoming a professor can yield over 10 million yen. However, fixed-term positions are common, making stability low.
+**问：研究人员的工资是否低于普通公司员工？**
+答：起薪400-600万日元略低于一般企业职位，但成为教授可获得超过1000万日元。然而，固定期限职位常见，稳定性低。
 
-**问：What visa do foreigners need to work as researchers at Japanese universities?**
-答：You mainly need 'Professor' or 'Engineer/Specialist in Humanities/International Services' status of residence. A doctoral degree or equivalent research experience is required. The Highly Skilled Professional visa is also an option.
+**问：外国人在日本大学从事研究需要什么签证？**
+答：主要需要'教授'或'人文/国际服务领域的工程师/专家'在留资格。需要博士学位或同等研究经验。高度专业人才签证也是一种选择。
 
-**问：How many job opportunities are there after obtaining a PhD?**
-答：Academic positions are highly competitive, and getting a tenured post is difficult even after a postdoc. In the private sector, think tanks and data analysis roles are increasing, but specialized skills have limited application.
+**问：获得博士学位后有多少工作机会？**
+答：学术职位竞争激烈，博士后也难以获得终身教职。私营部门智库和数据分析岗位增加，但专业技能应用有限。
 
 
 ---
@@ -150,12 +140,12 @@ Associate professor → professor, or project leader at research institutes. In 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/researcher-in-humanities-social-sciences/JP)**

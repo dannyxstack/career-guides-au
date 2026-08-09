@@ -52,8 +52,6 @@ Radio communication technicians install, maintain, and repair radio communicatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
-
 Career progression path: from junior technician to senior technician, team leader, then to communications engineer or project manager. Requires continuous learning of new technologies to stay competitive.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression path: from junior technician to senior technician, team leade
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration permanent residence visa. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, can transition to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires completion of a Certificate III in Electronics and Communications (e
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiocommunications-technician/AU)**

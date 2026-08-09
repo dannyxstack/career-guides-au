@@ -52,8 +52,6 @@ Teach engineering courses at tertiary institutions, covering chemical, civil, el
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Can advance from lecturer to associate professor, professor, and then to administrative roles such as department chair or dean. Can also move into industry R&D or senior management positions.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from lecturer to associate professor, professor, and then to adminis
 | Subclass O-1 (O-1 Extraordinary Ability) | Outstanding professors or researchers can apply, must demonstrate international reputation |
 | Subclass Green Card (PERM) (PERM Labor Certification) | In a few cases PERM is needed, but universities often take NIW shortcut |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually a master's degree is sufficient, but a doctorate is more competitive.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/engineering-teachers-postsecondary/US)**

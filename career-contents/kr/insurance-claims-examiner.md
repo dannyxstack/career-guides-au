@@ -4,8 +4,6 @@
 
 A professional who reviews insurance claims, investigates insurance incidents, and performs loss assessment tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who reviews insurance claims, investigates insurance incidents, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of AI and automated review systems, simple document screening tasks will be replaced, but complex accident investigation and judgment will remain the role of human adjusters. Therefore, rather than being replaced by AI, the role will evolve into using it as an assistive tool.
-
 After employment at insurance companies, loss assessment corporations, or public institutions, advancement to senior examiner, team leader, or loss adjuster (separate qualification) is possible based on experience.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After employment at insurance companies, loss assessment corporations, or public
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment as professional at insurance companies is possible, but visa issuance is limited as the examiner role is preferred by Koreans |
-| Subclass F-2 (F-2 (Residence)) | Hiring restricted to long-term visa holders |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: After obtaining a loss adjuster license, one can transition to a loss adjuste
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-claims-examiner/KR)**

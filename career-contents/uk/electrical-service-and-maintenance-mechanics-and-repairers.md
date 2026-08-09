@@ -52,8 +52,6 @@ Responsible for maintaining and repairing household appliances, office machines,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
-
 Junior tradespeople can advance to senior technicians or team supervisors through apprenticeships, and with experience can move into electrical engineering management, equipment manufacturer technical consulting, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior tradespeople can advance to senior technicians or team supervisors throug
 | Subclass Scale-up (Scale-up Visa) | Suitable for employment by high-growth companies; must demonstrate that skills meet job requirements. |
 | Subclass Graduate (Graduate Visa) | Can apply after completing a UK degree program, allows any work (including maintenance roles). |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. The occupation is on the Skilled Worker visa sponsorship list, and due t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-service-and-maintenance-mechanics-and-repairers/UK)**

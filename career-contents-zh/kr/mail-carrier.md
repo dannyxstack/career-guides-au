@@ -1,10 +1,8 @@
-# Mail Carrier 职业分析 · 韩国
+# 邮递员（Mail Carrier）职业分析 · 韩国
 
-**职业代码: 62421 (KECO)**
+**职业代码：62421 (KECO)**
 
-A profession that collects, sorts, and delivers mail to recipients, primarily employed by the post office.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+收集、分类并递送邮件给收件人的职业，主要受雇于邮局。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that collects, sorts, and delivers mail to recipients, primarily em
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No separate training） |
-| Mail carrier training | 3个月 | $500,000~$1,000,000（Training costs covered by Korea Post） |
+| 高中毕业 | 0年 | $0~$0（无单独培训） |
+| 邮递员培训 | 3个月 | $500,000~$1,000,000（韩国邮政承担培训费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession that collects, sorts, and delivers mail to recipients, primarily em
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 司机执照 | National Police Agency | 必备 | Must have at least a Class 2 ordinary license |
-| Mail carrier certification | Korea Post | 可选 | Awarded upon completion of in-house training |
+| 司机执照 | 国家警察厅 | 必备 | 必须至少持有2级普通驾照 |
+| 邮件投递员认证 | 韩国邮政 | 可选 | 完成内部培训后颁发 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 28,000. Employment is gradually decreasing due to declining mail volume and digital transformation. New hiring is limited except for replacements for retirees.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 28,000。由于邮件量下降和数字化转型，就业逐渐减少。除退休人员补缺外，新招聘有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,87 +38,81 @@ A profession that collects, sorts, and delivers mail to recipients, primarily em
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $25,000,000~$30,000,000 | Entry-level civil servant salary |
-| Mid-level (4-10 years) | $32,000,000~$40,000,000 | 包括津贴 |
-| 资深（10年以上） | $40,000,000~$50,000,000 | Maximum for long-term service |
+| 入门级（0-3年） | $25,000,000~$30,000,000 | 初级公务员薪资 |
+| 中级（4-10年） | $32,000,000~$40,000,000 | 包括津贴 |
+| 资深（10年以上） | $40,000,000~$50,000,000 | 长期服务的最高限额 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists in delivery optimization and sorting tasks, but actual delivery work must be performed by humans, so full replacement is difficult.
+AI协助配送优化和分拣任务，但实际配送工作仍需人工，因此完全取代困难。
 
-Internal promotion is possible within the Korea Post as a career position, moving from mail carrier to team leader to section chief, but competition is intense due to limited positions.
+韩国邮政内部可通过职业岗位晋升，从邮递员到团队负责人再到部门主管，但由于职位有限，竞争激烈。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Address classification
-- Delivery route optimization
+- 地址分类
+- 配送路线优化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Delivery record management
-- Customer response automation
+- 交付记录管理
+- 客户响应自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site delivery
-- Weather response
-- Direct response to recipients
+- 现场配送
+- 天气应对
+- 直接回复收件人
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI-based delivery system operation
-- Basics of data analysis
+- AI 配送系统操作
+- 数据分析基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Declining mail volume
-- Digital transformation
-- Aging workforce
-- Replacement of retirees
+- 邮件量下降
+- 数字化转型
+- 劳动力老龄化
+- 退休人员替代
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Allowed in some regions with labor shortages, but limited. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical fitness
-- People who prefer outdoor activities
+- 体能良好的人
+- 喜欢户外活动的人
 
 **谁不适合**
-- Office job preference
-- People stressed by interpersonal relationships
+- 偏好办公室工作
+- 受人际关系压力困扰的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For entry-level (0-3 years), annual salary is 25-30 million KRW according to civil servant seniority-based pay.
+**问：起薪是多少？**
+答：对于入门级（0-3年），根据公务员工龄工资，年薪为2500-3000万韩元。
 
-**问：Is it possible through immigration or work visa?**
-答：Possible with E-9 visa in some areas but very limited, not a general immigration route.
+**问：是否可以通过移民或工作签证实现？**
+答：部分地区可通过E-9签证实现，但非常有限，非一般移民途径。
 
-**问：What is the future outlook for this job?**
-答：Employment is expected to gradually decrease due to declining mail volume, with only a few new hires.
+**问：这份工作的未来前景如何？**
+答：由于邮件量下降，就业预计将逐渐减少，只有少量新招聘。
 
 
 ---
@@ -138,12 +130,12 @@ Internal promotion is possible within the Korea Post as a career position, movin
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mail-carrier/KR)**

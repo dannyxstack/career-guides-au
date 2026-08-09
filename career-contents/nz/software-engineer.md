@@ -52,8 +52,6 @@ Software engineers design, develop, and maintain software systems in New Zealand
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 From junior development, can advance to senior engineer, architect, or technical manager, or pivot to DevOps, AI/ML specialist, or become an independent consultant. Large companies have clear dual tracks in technology or management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From junior development, can advance to senior engineer, architect, or technical
 | Subclass SMC (Skilled Migrant Category) | 6-point system: bachelor 3 points + 3 years work 3 points, can apply |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, with potential to transition to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Software engineer is on Green List T1 and can apply for direct residency visa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-engineer/NZ)**

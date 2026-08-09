@@ -4,8 +4,6 @@
 
 Newspaper reporters gather, write, and edit news and articles to deliver to readers, covering various fields such as society and politics.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Newspaper reporters gather, write, and edit news and articles to deliver to read
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI is replacing some tasks in article writing and data analysis, but in-depth reporting and analysis remain human roles.
-
 Newcomers start at local papers or internet media, build experience, then advance to central papers or specialist reporters, or move into management roles like editor-in-chief.
 
 **Tasks most exposed to AI:**
@@ -89,15 +85,9 @@ Newcomers start at local papers or internet media, build experience, then advanc
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign reporters but issuance is strict; Korean language proficiency required |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +128,12 @@ A: Possible with an E-7 visa, but requires Korean language skills and a media sp
 | Work intensity | very high (★★★★½) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/newspaper-reporter/KR)**

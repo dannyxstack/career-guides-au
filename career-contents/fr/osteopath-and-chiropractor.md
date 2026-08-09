@@ -4,8 +4,6 @@
 
 Manual therapy adjusts the musculoskeletal system, relieves pain, and improves function, making it a regulated profession in alternative medicine.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Manual therapy adjusts the musculoskeletal system, relieves pain, and improves f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bone set and chiropractors are affected by AI: automation has compressed some records and initial screening positions, but AI amplified assessment and treatment plan design capabilities, while its high-contact nature and legal protections made core diagnosis and treatment irreplaceable.
-
 Initially, these are mostly cooperative or self-employed clinics; after gaining experience, they can open personal clinics or develop into teaching or sports medicine.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Initially, these are mostly cooperative or self-employed clinics; after gaining 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Profession Artistique et Culturelle, Scientifique, etc.)) | Suitable for highly skilled talents, requiring a project or employer contract |
-| Subclass Salarié (Salarié (Employee)) | Requires a French employer sponsor; osteopathic clinics can employ you |
-| Subclass Profession Réglement (Reconnaissance des Qualifications (Regulated Profession)) | Qualification certification procedures are required, which takes a long time |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, must graduate from an accredited osteopathic school and register with AR
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/osteopath-and-chiropractor/FR)**

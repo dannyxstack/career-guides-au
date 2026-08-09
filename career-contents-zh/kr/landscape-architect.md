@@ -1,8 +1,8 @@
 # 景观建筑师（Landscape Architect）职业分析 · 韩国
 
-**职业代码: 14041 (KECO)**
+**职业代码：14041 (KECO)**
 
-A specialist who designs, constructs, and manages outdoor spaces in cities and complexes, improving ecological environments and aesthetics. Performs planning and supervision of green infrastructure such as parks, gardens, and green spaces.
+在城市和综合体中设计、建造和管理户外空间的专业人员，改善生态环境和美学。执行公园、花园和绿地等绿色基础设施的规划和监督。
 
 
 ---
@@ -11,9 +11,9 @@ A specialist who designs, constructs, and manages outdoor spaces in cities and c
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Landscape Architecture, Horticulture, Forestry) | 3年 | $4,000,000~$8,000,000（Annual tuition based on community college） |
-| Bachelor's (Landscape Architecture, Architecture, Environment) | 4年 | $5,000,000~$12,000,000（Annual tuition based on 4-year university） |
-| Master's (Landscape Architecture, Ecological Planning) | 2 年 | $8,000,000~$15,000,000（Annual graduate school tuition） |
+| 副学士学位（景观建筑、园艺、林业） | 3年 | $4,000,000~$8,000,000（基于社区大学的年学费） |
+| 学士（景观建筑、建筑、环境） | 4年 | $5,000,000~$12,000,000（基于4年制大学的年学费） |
+| 硕士（景观建筑、生态规划） | 2 年 | $8,000,000~$15,000,000（研究生院年学费） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialist who designs, constructs, and manages outdoor spaces in cities and c
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Landscape Engineer | Human Resources Development Service of Korea | 必备 | Required qualification, with eligibility restrictions |
-| Landscape Professional Engineer | Human Resources Development Service of Korea | 可选 | Advanced qualification, mandatory for large project managers |
-| Landscape Planting Management Craftsman | Human Resources Development Service of Korea | 可选 | Skilled worker qualification |
+| 景观工程师 | 韩国人力资源开发服务局 | 必备 | 所需资质，有资格限制 |
+| 景观专业工程师 | 韩国人力资源开发服务局 | 可选 | 高级资格，大型项目经理必备 |
+| 景观种植管理技师 | 韩国人力资源开发服务局 | 可选 | 技能工人资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 42,000. Demand is steadily increasing due to government green city, carbon neutrality policies, and expansion of living SOC, but is affected by construction market fluctuations and bidding competition.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 42,000。由于政府绿色城市、碳中和政策及扩大生活SOC，需求稳步增长，但受建筑市场波动和投标竞争影响。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,93 +40,85 @@ A specialist who designs, constructs, and manages outdoor spaces in cities and c
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$38,000,000 | Based on small to medium-sized companies; large firms are 10-15% higher |
-| 中级（4-9年） | $38,000,000~$55,000,000 | Team Member·Manager level |
-| 资深（10年以上） | $55,000,000~$90,000,000 | Deputy General Manager·Engineer, including management positions |
+| 初级（0-3年） | $30,000,000~$38,000,000 | 基于中小型企业；大型公司高出10-15% |
+| 中级（4-9年） | $38,000,000~$55,000,000 | 团队成员·经理级别 |
+| 资深（10年以上） | $55,000,000~$90,000,000 | 副总经理·工程师，含管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI and automation enhance basic layout/planting optimization and maintenance monitoring (drones/sensors) in landscape design, but creative design, site supervision, and ecological judgment remain uniquely human. Overall, AI plays a supporting role, leading to efficiency rather than job replacement.
+AI和自动化增强了景观设计中的基本布局/种植优化和维护监控（无人机/传感器），但创意设计、现场监督和生态判断仍是人类的专属。总体而言，AI起辅助作用，提高效率而非取代工作。
 
-Mainly requires a Landscape Engineer (Civil/Construction) certification or a bachelor's degree, followed by employment at relevant companies. After gaining experience, obtaining a Professional Engineer (Landscape Architecture) certification can lead to promotion to site manager, design team leader, or supervision team head.
+主要需要景观工程师（土木/建筑）认证或学士学位，然后在相关公司就业。积累经验后，获得专业工程师（景观建筑）认证可晋升为现场经理、设计团队负责人或监理团队主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple earthwork volume calculation
-- Repetitive basic layout work
-- Automation of irrigation/fertilizer schedules
+- 简易土方量计算
+- 重复性的基础排版工作
+- 灌溉/施肥计划的自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- On-site drone surveying and monitoring
-- AI-based planting design optimization
-- Maintenance sensor data analysis
+- 现场无人机测绘与监测
+- 基于AI的种植设计优化
+- 维护传感器数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Site supervision and communication
-- Creative design for ecosystem restoration
-- Design reflecting client needs
+- 现场监督与沟通
+- 生态系统恢复的创意设计
+- 反映客户需求的设计
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI landscape design software
-- Drone and Remote Sensing Utilization
-- Data Analysis and Environmental Simulation
+- AI景观设计软件
+- 无人机与遥感应用
+- 数据分析与环境模拟
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban regeneration
-- Spread of garden culture
-- Carbon-neutral green spaces
-- Smart landscaping
+- 城市更新
+- 园艺文化的传播
+- 碳中和绿地
+- 智能园林绿化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeting skilled workers in landscape design, construction, and supervision; degree + experience required |
-| Subclass E-9 (Non-professional Employment) | Simple functional workers in landscape planting and maintenance; subject to Employment Permit System |
-| Subclass F-2 (Residence) | Point system, possible for long-term stay landscape workers |
-| Subclass D-10 (Job Seeking) | Landscape-related majors, short-term job seeking allowed |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong interest in nature and ecology
-- People who prefer outdoor activities and have no aversion to field work
-- People with excellent spatial composition and aesthetic sense
+- 对自然和生态有浓厚兴趣的人
+- 喜欢户外活动且不排斥现场工作的人
+- 空间构图和审美感出色的人
 
 **谁不适合**
-- Someone who prefers indoor office work
-- Someone who dislikes work heavily affected by seasons/weather
+- 喜欢室内办公室工作的人。
+- 不喜欢受季节/天气严重影响的工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a landscape technician?**
-答：It ranges from 30 million won to 90 million won depending on experience, and increases significantly upon obtaining a professional engineer license.
+**问：景观技术员的平均工资是多少？**
+答：根据经验从3000万到9000万韩元不等，获得专业工程师执照后大幅增加。
 
-**问：Can foreigners get a work visa in the landscape field?**
-答：Yes, it is possible. With a bachelor's degree and experience, you can apply for an E-7 visa, and for simple skilled workers, an E-9 visa.
+**问：外国人能获得景观领域的工作签证吗？**
+答：可以。拥有学士学位和经验可申请E-7签证，普通技能工人可申请E-9签证。
 
-**问：What is the employment outlook for landscape technicians?**
-答：Demand is steady due to government green infrastructure investment and urban regeneration projects, and capabilities integrated with environmental/ecological fields are becoming increasingly important.
+**问：景观技术人员的就业前景如何？**
+答：由于政府绿色基础设施投资和城市更新项目，需求稳定，与环境/生态领域结合的能力变得越来越重要。
 
 
 ---
@@ -144,12 +136,12 @@ Mainly requires a Landscape Engineer (Civil/Construction) certification or a bac
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/landscape-architect/KR)**

@@ -51,8 +51,6 @@ A specialist who designs, constructs, and manages outdoor spaces in cities and c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation enhance basic layout/planting optimization and maintenance monitoring (drones/sensors) in landscape design, but creative design, site supervision, and ecological judgment remain uniquely human. Overall, AI plays a supporting role, leading to efficiency rather than job replacement.
-
 Mainly requires a Landscape Engineer (Civil/Construction) certification or a bachelor's degree, followed by employment at relevant companies. After gaining experience, obtaining a Professional Engineer (Landscape Architecture) certification can lead to promotion to site manager, design team leader, or supervision team head.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Mainly requires a Landscape Engineer (Civil/Construction) certification or a bac
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeting skilled workers in landscape design, construction, and supervision; degree + experience required |
-| Subclass E-9 (Non-professional Employment) | Simple functional workers in landscape planting and maintenance; subject to Employment Permit System |
-| Subclass F-2 (Residence) | Point system, possible for long-term stay landscape workers |
-| Subclass D-10 (Job Seeking) | Landscape-related majors, short-term job seeking allowed |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Demand is steady due to government green infrastructure investment and urban 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-architect/KR)**

@@ -53,8 +53,6 @@ Makeup artists apply makeup, hairstyling, and special effects for actors and mod
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Makeup artists face mixed impacts from AI: tasks like basic makeup, special effects references, and client communication can be assisted or even partially replaced by AI tools, but on-site creation, artistic expression, and real-time interaction remain core advantages; entry-level positions face some risk of compression.
-
 Career paths include moving from assistant makeup artist to lead makeup artist, with specialization in special effects makeup or fashion styling. Experienced professionals can advance to department head or start their own makeup school.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career paths include moving from assistant makeup artist to lead makeup artist, 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: The main pathway is completing 3-year dual vocational training or attending a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/makeup-artist/DE)**

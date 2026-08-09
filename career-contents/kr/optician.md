@@ -4,8 +4,6 @@
 
 A healthcare professional who prescribes, manufactures, and sells eyeglasses and contact lenses for vision correction, and manages customers' eye health.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A healthcare professional who prescribes, manufactures, and sells eyeglasses and
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI replaces some tasks like auto refractometers, remote vision tests, and chatbot consultations, but full replacement is difficult as final prescriptions and custom adjustments require humans.
-
 Initially, learn store operations and can advance to store manager, franchise manager, or open own optical shop with experience. Also possible to earn a master's degree in optometry via the Bachelor's Degree Credit Bank System or graduate school.
 
 **Tasks most exposed to AI:**
@@ -95,18 +91,9 @@ Initially, learn store operations and can advance to store manager, franchise ma
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if a skilled optician is employed at a domestic optical shop, but expertise must be proven |
-| Subclass F-2 (Residence) | No employment restrictions as a step before permanent residence upon meeting certain conditions |
-| Subclass F-4 (Overseas Koreans) | Employment allowed for overseas Koreans, can operate optical shops |
-| Subclass F-5 (Permanent Residence) | Unlimited employment allowed, long-term stay possible |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +137,12 @@ A: You must graduate from an optometry department (2-3 years at a junior college
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/optician/KR)**

@@ -4,8 +4,6 @@
 
 A managerial role responsible for establishing and overseeing a company's marketing, advertising, and PR strategies to enhance brand value and market share.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A managerial role responsible for establishing and overseeing a company's market
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI improves efficiency in data analysis, ad optimization, targeting, etc., but strategy and creative planning remain human domains. Therefore, some tasks may be replaced, but overall, AI-enhanced roles are expected.
-
 Typical career path involves gaining experience at large corporations or marketing firms, then promotion to manager/director, or transitioning via an MBA or advanced degree.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Typical career path involves gaining experience at large corporations or marketi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hired as a professional marketer; issuance for managerial roles is limited due to preference for local hires |
-| Subclass F-2 (Residence) | Possible for long-term residents; no separate permit needed for managerial employment |
-| Subclass D-10 (Job Seeking) | For job-seeking activities; requires change to E-7 or F-2 after employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Data analysis, digital marketing, brand strategy, and leadership and communic
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marketing-advertising-and-pr-manager/KR)**

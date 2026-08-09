@@ -52,8 +52,6 @@ Responsible for operating and maintaining drilling equipment, conducting oil and
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will compress some repetitive operational tasks but enhance data analysis and predictive maintenance capabilities; entry-level roles shrink due to automated monitoring systems, but demand for advanced skills increases—mixed outcomes overall.
-
 Practitioners can progress from junior driller to drilling supervisor or drilling superintendent, or specialize in areas like oil and gas well testing or completion; some move into management or run their own drilling service companies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can progress from junior driller to drilling supervisor or drillin
 | Subclass PNP (Alberta Advantage Immigration Program) | Alberta's targeted invitation for skilled workers in the oil and gas industry |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can sponsor foreign workers for closed work permits, applicable to senior positions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Affected by the energy transition, traditional oil and gas demand may decline
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oil-and-gas-well-drillers-servicers-testers-and-related-workers/CA)**

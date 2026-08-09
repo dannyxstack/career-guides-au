@@ -52,8 +52,6 @@ Construction and science managers plan, organize, direct, and evaluate activitie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Engineering manager positions are mixedly affected by AI: routine monitoring tasks can be automated, but complex decisions and personnel management are irreplaceable. Entry requirements increase due to AI tools, but experienced managers benefit from AI enhancement.
-
 Usually promoted from technical roles (e.g., architect, engineer). After gaining project management experience, can become department head, project director, and eventually vice president or CTO. Continuous learning of new technologies and management skills is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually promoted from technical roles (e.g., architect, engineer). After gaining
 | Subclass PNP (Provincial Nominee Program) | Each province has nomination programs for highly skilled management talent. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, after which you can apply for experience-class immigration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP). Re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architecture-and-science-managers/CA)**

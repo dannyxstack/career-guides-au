@@ -55,8 +55,6 @@ Drive a motor vehicle to transport passengers on a scheduled or regular basis, m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Entry-level drivers can advance to fleet dispatcher, transport manager, or start their own business. Some drivers switch to school bus or long-distance bus driving by obtaining a commercial driver's license (CDL).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level drivers can advance to fleet dispatcher, transport manager, or start
 | Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as education requirements do not match |
 | Subclass EB-3 (EB-3 Skilled Worker) | Very rare; requires employer sponsorship and proof of insufficient domestic workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Obtaining a CDL allows driving school buses or long-distance coaches; with ex
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shuttle-drivers-and-chauffeurs/US)**

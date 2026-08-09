@@ -54,8 +54,6 @@ Mining Machine Operators operate open-cut or underground mining equipment, inclu
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mining machinery operators face clear replacement pressure from autonomous haulage systems (AHS); demand for entry-level operating roles declines, but new roles in remote monitoring and maintenance emerge.
-
 Autonomous haul truck technology is changing some driving roles, but on-site maintenance, monitoring, and operation of non-standard equipment still require human workers. FIFO annual salaries rank among the highest in the Australian blue-collar workforce.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Autonomous haul truck technology is changing some driving roles, but on-site mai
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes. Certificate II (3–6 months) is sufficient to enter the industry; BHP, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-machine-operator/AU)**

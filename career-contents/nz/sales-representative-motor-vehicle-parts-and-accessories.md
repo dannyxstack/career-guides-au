@@ -54,8 +54,6 @@ This occupation is at Skill Level 5 in ANZSCO and typically cannot directly appl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Junior sales representatives can advance to senior sales, regional manager, or wholesale team leader. Some transition to purchasing, inventory management, or start their own auto parts retail store. Continuous learning of product knowledge and customer relationship management skills aids career development.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Junior sales representatives can advance to senior sales, regional manager, or w
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes. Can progress from junior sales to senior sales or management roles such 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representative-motor-vehicle-parts-and-accessories/NZ)**

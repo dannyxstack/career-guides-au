@@ -52,8 +52,6 @@ Electrical and electronic equipment assemblers assemble electrical and electroni
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Electrical and electronic equipment assemblers face high automation risk; repetitive manual tasks will be replaced by machines and AI vision systems, entry-level positions decrease, requiring a shift to more complex maintenance and technical roles.
-
 Can advance from junior assembler to senior assembler, team leader, or quality inspector. Further study can lead to technician or engineer roles.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior assembler to senior assembler, team leader, or quality i
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually high school diploma is sufficient, many skills gained through on-the-
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-equipment-assembler/IE)**

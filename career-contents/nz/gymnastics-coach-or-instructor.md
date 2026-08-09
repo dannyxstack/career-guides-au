@@ -52,8 +52,6 @@ Teach gymnastics skills to individuals or groups, including technique, balance, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physical demands and personalised teaching needs of gymnastics coaches are hard to fully replace by AI, but AI tools will optimise training analysis, lesson planning, and administration; overall, a mixed impact.
-
 Career progression: from assistant coach to head coach, then to sports program director or club manager. Also possible to move into sports management or start your own business.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Career progression: from assistant coach to head coach, then to sports program d
 | Subclass AEWV (Accredited Employer Work Visa) | Apply through an accredited employer; eligible for residency after a certain period of employment |
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements, including education, work experience, and salary |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: No. This occupation is not on the Green List, but residency can be applied fo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gymnastics-coach-or-instructor/NZ)**

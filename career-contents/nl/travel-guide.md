@@ -4,8 +4,6 @@
 
 Guides lead tourists through historical sites, museums, natural attractions, etc., providing multilingual commentary to ensure a safe and enjoyable travel experience.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Guides lead tourists through historical sites, museums, natural attractions, etc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on tour guide work is mixed: information retrieval, multilingual translation, and route planning can be automated, but interpersonal interaction, on-site adaptability, and in-depth cultural explanations still rely on humans.
-
 From entry-level tour guide, one can advance to senior tour guide or team leader, and some move into travel agency management or tourism product development. Multilingual skills aid career development.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ From entry-level tour guide, one can advance to senior tour guide or team leader
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU talent, with an annual salary threshold of approx. €56,000 (2024); tour guides generally cannot meet this. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For non-EU employees, the annual salary threshold under 30 is approx. €3,909/month, which may be met by full-time tour guides. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from the Netherlands can get a 1-year job-seeking residence permit, and after finding a tour guide job, they can switch to a work residence permit. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Can progress from tour guide to senior guide, team leader, or shift to touris
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-guide/NL)**

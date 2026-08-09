@@ -1,8 +1,8 @@
-# Tire and rubber product production machine operator 职业分析 · 韩国
+# 轮胎和橡胶制品生产机器操作员（Tire and rubber product production machine operator）职业分析 · 韩国
 
-**职业代码: 85211 (KECO)**
+**职业代码：85211 (KECO)**
 
-A production worker who operates and manages machines that produce tires and rubber products. Responsible for processes such as raw material mixing, extrusion, molding, and vulcanization.
+操作和管理生产轮胎及橡胶产品的机器的生产工人。负责原料混合、挤出、成型和硫化等工序。
 
 
 ---
@@ -11,8 +11,8 @@ A production worker who operates and manages machines that produce tires and rub
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | 3年 | $0~$0（High school education is tuition-free） |
-| Junior college (2-year) mechanical/chemical track | 2 年 | $2,000,000~$6,000,000（Annual tuition and other costs） |
+| 高中毕业 | 3年 | $0~$0（高中教育免学费） |
+| 大专（两年制）机械/化工方向 | 2 年 | $2,000,000~$6,000,000（年度学费及其他费用） |
 
 ---
 
@@ -20,17 +20,17 @@ A production worker who operates and manages machines that produce tires and rub
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Engineer (Industrial Engineer) | Human Resources Development Service of Korea | 可选 | Helps understand rubber and chemical processes |
-| Elevator/machinery-related certification | Human Resources Development Service of Korea | 可选 | Advantageous for production equipment maintenance |
+| 化学工程师（工业工程师） | 韩国人力资源开发服务局 | 可选 | 有助于理解橡胶和化学工艺 |
+| 电梯/机械相关认证 | 韩国人力资源开发服务局 | 可选 | 有利于生产设备维护 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 45,000. The domestic tire industry faces fierce global competition, and due to automation trends, demand for production workers is expected to stagnate or slightly decline. However, replacement demand persists when skilled workers leave.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 45,000。国内轮胎行业面临激烈的全球竞争，由于自动化趋势，对生产工人的需求预计将停滞或略有下降。然而，当熟练工人离开时，替换需求仍然存在。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ A production worker who operates and manages machines that produce tires and rub
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$34,000,000 | Annual salary, excluding bonuses |
-| Mid-level (4-9 years) | $35,000,000~$45,000,000 | Annual salary, may include night shift differential |
-| Senior-level (10+ years) | $45,000,000~$55,000,000 | Annual salary, varies by skill level |
+| 入门级（0-3年） | $28,000,000~$34,000,000 | 年薪，不含奖金 |
+| 中级（4-9年） | $35,000,000~$45,000,000 | 年薪，可能包含夜班补贴 |
+| 高级（10年以上经验） | $45,000,000~$55,000,000 | 年薪，按技能水平而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of AI and automation technologies, simple repetitive tasks are being replaced by machines. However, areas requiring human judgment, such as equipment maintenance and fault response, remain, and the role of skilled workers is still important.
+随着AI和自动化技术的引入，简单重复性任务正被机器取代。但在设备维护和故障响应等需要人类判断的领域，技术工人的角色仍然重要。
 
-Promotion possible: operator → skilled operator → foreman (line management) → process manager. Technical skills are becoming more important with the introduction of automated equipment.
+升职路径：操作员→熟练操作员→领班（一线管理）→工艺经理。随着自动化设备的引入，技术技能变得越来越重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Raw material weighing and feeding
-- Simple assembly and packaging
-- Basic quality inspection
+- 原材料称量与投料
+- 简单组装和包装
+- 基础质量检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Equipment monitoring
-- Process data analysis
-- Early detection of anomalies
+- 设备监控
+- 流程数据分析
+- 异常早期检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Equipment failure diagnosis and repair skills
-- Ability to handle non-routine situations
-- Safety management experience
+- 设备故障诊断与维修技能
+- 处理非常规情况的能力
+- 安全管理经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated equipment operation
-- Basic data analysis
-- PLC programming
+- 自动化设备操作
+- 基础数据分析
+- PLC编程
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Introduction of automated equipment
-- Smart factory
-- Stable demand for rubber products
-- Shortage of skilled workers
+- 引入自动化设备
+- 智能工厂
+- 橡胶产品需求稳定
+- 熟练工人短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Eligible to enter through the Employment Permit System for unskilled production jobs |
-| Subclass E-7 (Specific Activities (E-7)) | Acquirable upon conversion to skilled worker |
-| Subclass F-2 (Residence (F-2)) | Convertible under the skilled worker points system (upon meeting certain conditions) |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with patience for repetitive tasks and machine operation
-- People adaptable to night shifts and production floor environments
-- People actively willing to adapt to technological changes like automated equipment
+- 有耐心从事重复性工作和机器操作的人员
+- 适应夜班和生产车间环境的人
+- 积极愿意适应自动化设备等技术变化的人
 
 **谁不适合**
-- People who easily get bored with monotonous work
-- People uncomfortable handling dangerous machinery or chemicals
+- 容易对单调工作感到厌倦的人
+- 不习惯操作危险机械或化学品的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for tire/rubber production workers?**
-答：Entry-level annual salary is around 28~34 million KRW, which can be higher with shift and night allowances.
+**问：轮胎/橡胶生产工人的起薪是多少？**
+答：入门级年薪约2800~3400万韩元，加上轮班和夜班津贴可能更高。
 
-**问：Can foreigners work in this occupation in Korea?**
-答：Yes, you can enter with an E-9 (Non-professional Employment) visa, and convert to E-7 or F-2 upon recognition of skilled work.
+**问：外国人能在韩国从事该职业吗？**
+答：可以持E-9（非专业就业）签证入境，在技术工作得到认可后可转换为E-7或F-2签证。
 
-**问：What about promotion or skill improvement opportunities?**
-答：You can grow into a team leader or process manager through internal promotion, and transition to technical positions if trained in automation equipment.
+**问：晋升或技能提升机会如何？**
+答：通过内部晋升可成长为团队领导或流程经理，若接受自动化设备培训可转岗至技术职位。
 
 
 ---
@@ -141,12 +134,12 @@ Promotion possible: operator → skilled operator → foreman (line management) 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tire-and-rubber-product-production-machine-operator/KR)**

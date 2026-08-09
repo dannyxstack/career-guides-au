@@ -4,8 +4,6 @@
 
 Operate and monitor yarn production and processing machinery, such as spinning machines, twisting machines, and winding machines, to ensure the quality and efficiency of textile raw material processing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate and monitor yarn production and processing machinery, such as spinning m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Textile machine operators face high automation risks; AI and robotics will gradually replace routine tasks such as monitoring, adjustment, and quality inspection, leaving only a small number of complex operations requiring manual intervention.
-
 Junior operators can be promoted to production line leader or quality inspector, and through training, can transition to automation equipment maintenance or process engineer roles.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior operators can be promoted to production line leader or quality inspector,
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee visa) | Employed by a French company, employers must prove they cannot find EU candidates. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled personnel, but textile operators often do not meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to production line supervisor, quality inspector, or thro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-machine-operator-yarn-production-and-processing/FR)**

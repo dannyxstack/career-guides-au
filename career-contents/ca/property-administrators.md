@@ -52,8 +52,6 @@ Property managers oversee the daily operations and management of residential, co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
-
 Junior property managers can advance to senior property manager, regional manager, or asset manager. With experience, they can obtain certification as a Certified Property Manager (CPM) to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior property managers can advance to senior property manager, regional manage
 | Subclass PNP (Provincial Nominee Program) | Some provinces have demand for property managers and may provide provincial nomination bonus points. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, must prove inability to hire local staff |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires a diploma or bachelor's degree in related fields such as pro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/property-administrators/CA)**

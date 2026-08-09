@@ -51,8 +51,6 @@ Responsible for daily operation scheduling, vehicle monitoring, driver coordinat
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will automate scheduling and monitoring, but interpersonal collaboration and on-site emergency response remain at the core, with mixed benefits for roles.
-
 You can be promoted from junior dispatcher to operations supervisor, move into positions such as transport planning or safety management, or obtain a BA diploma in transportation management through further study to enter management roles.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ You can be promoted from junior dispatcher to operations supervisor, move into p
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Must obtain a work contract with a French company, pass a labor market test, and be suitable for regular positions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If you have a master's degree or possess scarce skills, you can quickly obtain residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable when the annual salary is met (about 53k€+), but the salary for this position usually does not reach the threshold. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Promotion can be made to Operations Supervisor, Dispatch Center Manager, or t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-passenger-transport-operations-technician/FR)**

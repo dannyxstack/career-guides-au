@@ -54,8 +54,6 @@ Responsible for collecting and processing waste from households, commercial and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Garbage collectors and cleaners face a high risk of automation substitution, especially technologies like route optimization, automatic sorting, and driverless garbage trucks will reduce job demand, but some complex physical operations still require humans.
-
 Start as a general waste worker, can advance to team leader or supervisor, then manage fleet or waste treatment facilities. Some may transfer to recycling or environmental management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as a general waste worker, can advance to team leader or supervisor, then 
 | Subclass Skilled Worker (Skilled Worker Visa) | Generally not applicable, as this occupation is not on the skilled migration occupation list and the salary is unlikely to meet the threshold. |
 | Subclass Graduate (Graduate Visa) | Graduate pathway, but this occupation is not related to the degree; common route is switching to other jobs after PSW. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can progress from general garbage worker to driver, team supervisor, facility
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refuse-and-salvage-occupations/UK)**

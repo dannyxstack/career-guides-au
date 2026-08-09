@@ -53,8 +53,6 @@ Perform physical labor such as raw material handling, machine feeding, and produ
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-AI and automation will significantly reduce jobs for food, beverage, and tobacco processing workers, especially repetitive physical tasks and simple quality inspection, with entry-level positions expected to decline by 30-50%.
-
 Can advance to machine operator, production line leader, or quality controller with additional training or certification. A few may transition to warehousing or logistics.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance to machine operator, production line leader, or quality controller w
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove unable to recruit locally; after obtaining LMIA, can apply for work visa. |
 | Subclass Provincial Nominee P (PNP - Skilled Worker Low-Skilled Streams) | Some provinces have low-skilled worker nomination programs, but requirements are often high. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Very difficult. This occupation is low-skilled and usually does not meet fede
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-labourers-in-processing-manufacturing-and-utilities/CA)**

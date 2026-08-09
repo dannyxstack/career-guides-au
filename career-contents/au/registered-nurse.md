@@ -57,8 +57,6 @@ Registered Nurses provide clinical care, medication administration and patient a
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses are not a profession that will be replaced by AI, but one that will be reorganized by AI tools. AI will reduce the time spent on documentation, reminders, searches, and initial risk prompts, but final nursing judgment, bedside care, medication checks, patient communication, family coordination, and legal responsibility remain with registered nurses. Nurses who can use digital health tools and AI-assisted systems will be more competitive than those who only follow traditional processes.
-
 Legislation mandating minimum daily direct care hours in aged care (210 minutes) has significantly boosted demand. Salary premiums for mental health and remote area nurses continue to grow.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Legislation mandating minimum daily direct care hours in aged care (210 minutes)
 | Subclass 190 (Skilled Nominated) | State nomination +5 points, aged care and rural nursing prioritised |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; rural nursing positions are widely available |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: The nursing PR pathway is simpler and faster (no AMC exam required), with a s
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse/AU)**

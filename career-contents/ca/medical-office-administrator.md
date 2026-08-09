@@ -54,8 +54,6 @@ Responsible for patient registration, appointment scheduling, medical records ma
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on medical office administrators is mixed: routine scheduling and paperwork are easily automated, while tasks requiring empathy and judgment—patient communication, insurance negotiations, and cross-department coordination—are amplified by AI tools.
-
 After gaining experience in entry-level roles, can advance to senior medical administrator, medical office supervisor, regional administrative manager, etc. Can also transition to health information management or medical operations, requiring completion of relevant diplomas or certificates.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ After gaining experience in entry-level roles, can advance to senior medical adm
 | Subclass RNIP (Rural and Northern Immigration Pilot) | Remote community pilot: medical administrative roles in high demand locally. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer must apply for LMIA before work visa application, can later transition to permanent residence |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Not necessarily; overseas experience counts. However, completing a Canadian h
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-office-administrator/CA)**

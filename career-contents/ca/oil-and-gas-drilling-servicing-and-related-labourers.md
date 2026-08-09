@@ -51,8 +51,6 @@ Performs physical labour in oil and gas drilling, services, and related operatio
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation is mixed in terms of AI and automation impact: some physical tasks (e.g., cleaning, handling) face high replacement risk, but complex drilling environments and emergency responses still require human judgment, so it will not be fully replaced in the short term.
-
 Typically starting as entry-level labor, you can advance to drilling assistant, equipment operator, or supervisor through experience and training.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Typically starting as entry-level labor, you can advance to drilling assistant, 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs in provinces like Alberta, targeting the oil industry |
 | Subclass Express Entry (Express Entry) | Through Federal Skilled Worker Program or Canadian Experience Class, if conditions are met |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: This occupation has high physical demands, often working in remote areas and 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oil-and-gas-drilling-servicing-and-related-labourers/CA)**

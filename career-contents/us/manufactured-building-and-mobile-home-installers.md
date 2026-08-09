@@ -54,8 +54,6 @@ Prefabricated and mobile home installers transport, assemble, and install prefab
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Prefab and mobile home installer jobs are a mixed bag due to AI and automation: basic tasks like site measurement and material cutting are easily replaced by automation tools, but structural customization, on-site troubleshooting, and client communication rely on human judgment and adaptability, which are augmented by AI; overall demand may increase slightly.
-
 Career advancement paths are limited; installers can move up to installation supervisor, or transition to prefabricated home sales, inspection, etc. Some experienced individuals start their own contracting businesses.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career advancement paths are limited; installers can move up to installation sup
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires only a high school diploma and on-the-job training. Some sta
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufactured-building-and-mobile-home-installers/US)**

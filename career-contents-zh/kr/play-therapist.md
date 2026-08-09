@@ -1,10 +1,8 @@
-# Play Therapist 职业分析 · 韩国
+# 游戏治疗师（Play Therapist）职业分析 · 韩国
 
-**职业代码: 30693 (KECO)**
+**职业代码：30693 (KECO)**
 
-A professional who diagnoses and treats children's psychological and emotional difficulties through play activities, primarily working in hospitals, welfare centers, and counseling centers.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过游戏活动诊断和治疗儿童心理情感问题的专业人员，主要在医院、福利中心和咨询中心工作。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who diagnoses and treats children's psychological and emotional d
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (Psychology, Child Studies, etc.) | 4年 | $40,000,000~$48,000,000（Includes tuition and living expenses for a 4-year university） |
-| Master's (Play Therapy major) | 2 年 | $20,000,000~$30,000,000（Within graduate school tuition range） |
-| Training (Internship) | 1年 | $0~$5,000,000（Possible training fees during the period） |
+| 学士学位（心理学、儿童研究等） | 4年 | $40,000,000~$48,000,000（包含四年制大学的学费和生活费） |
+| 硕士（游戏治疗专业） | 2 年 | $20,000,000~$30,000,000（在研究生学费范围内） |
+| 培训（实习） | 1年 | $0~$5,000,000（期间可能的培训费用） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who diagnoses and treats children's psychological and emotional d
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Play Therapist certified by the Korean Association of Play Therapy | Korean Association of Play Therapy | 必备 | Obtainable upon meeting master's degree and training hours requirements |
-| Clinical Psychologist Level 2 | Human Resources Development Service of Korea | 可选 | Optional but advantageous for employment |
-| Child Psychological Counselor | Korean Psychological Association | 可选 | Enhances competitiveness when combined with play therapy |
+| 韩国游戏治疗协会认证的游戏治疗师 | 韩国游戏治疗协会 | 必备 | 满足硕士学位和培训小时数要求后可获得 |
+| 临床心理学家二级 | 韩国人力资源开发服务局 | 可选 | 可选但有利于就业 |
+| 儿童心理咨询师 | 韩国心理学会 | 可选 | Enhances competitiveness when combined with play therapy |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,200. Employment is expected to increase moderately due to growing social interest in children's mental health and government expansion of psychological support policies, but public sector jobs are limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,200。由于社会对儿童心理健康的关注增加以及政府扩大心理支持政策，就业预计将适度增长，但公共部门职位有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,90 +40,83 @@ A professional who diagnoses and treats children's psychological and emotional d
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$32,000,000 | Based on public institutions; private sector may be lower |
-| 中级（4-9年） | $32,000,000~$45,000,000 | Varies greatly by career and employment type |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Varies when serving as center director or self-employed |
+| 入门级（0-3年） | $24,000,000~$32,000,000 | 基于公共机构；私营部门可能较低 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 因职业和就业类型而异 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 担任中心主任或自雇时有所不同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is unlikely to replace the emotional connection and human interaction that are core to play therapy, but some tasks such as diagnostic assistance, record management, and treatment planning may be automated, potentially reducing the scope of work.
+AI不太可能取代游戏疗法的核心——情感连接和人际互动，但诊断辅助、记录管理和治疗计划等任务可能自动化，从而减少工作范围。
 
-After obtaining a play therapist certification through a graduate master's program, one builds clinical experience through a training (internship) period. Advancement to center director, university professor, etc., is possible.
+通过研究生硕士课程获得游戏治疗师认证后，通过培训（实习）期积累临床经验。可晋升至中心主任、大学教授等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of child behavior observation records
-- Analysis of basic psychological assessment results
+- 儿童行为观察记录自动化
+- 基础心理评估结果分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Play session analysis and feedback
-- Visualization of treatment effect data
-- Preparation of parent counseling materials
+- 游戏环节分析与反馈
+- 治疗效果数据可视化
+- 家长咨询材料准备
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional empathy ability
-- Non-verbal communication
-- Creative play intervention
+- 情感共情能力
+- 非语言沟通
+- 创意游戏干预
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding and utilization of AI analysis tools
-- Data literacy
-- Development of digital therapy content
+- AI分析工具的理解与运用
+- 数据素养
+- 数字治疗内容开发
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Child mental health
-- Expansion of psychological support
-- Increasing demand for play therapy
-- Expansion of public and private welfare
+- 儿童心理健康
+- 心理支持扩展
+- 游戏疗法需求增长
+- 公共和私人福利扩展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Issuable if professional qualifications and experience are recognized, but play therapist is not a shortage occupation |
-| Subclass F-2 (F-2-99 (Residence)) | Possible under points system conversion, but Korean language ability and education are important |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with excellent understanding and empathy for children
-- Someone with academic interest in psychology and child development
+- 对孩子有深刻理解和同理心的人
+- 对心理学和儿童发展有学术兴趣的人
 
 **谁不适合**
-- Someone who wants rapid income growth
-- Someone who finds emotional communication with children difficult
+- 希望快速增加收入的人
+- 觉得与孩子情感交流困难的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a play therapist?**
-答：At entry level, about 24 to 32 million KRW; with over 10 years of experience, up to 45 to 60 million KRW, but the gap between public institutions and private sector is large.
+**问：游戏治疗师平均薪资是多少？**
+答：入门级约2400万至3200万韩元；10年以上经验可达4500万至6000万韩元，但公共机构与私营部门差距较大。
 
-**问：Can foreigners work as play therapists in Korea?**
-答：It is possible with an E-7 visa, but Korean language proficiency and acquiring a Korean certification are essential, and since it is not a shortage occupation, the employment threshold is high.
+**问：外国人可以在韩国担任游戏治疗师吗？**
+答：持E-7签证可行，但韩语能力和获得韩国认证必不可少，且非紧缺职业，就业门槛较高。
 
-**问：What process is needed to become a play therapist?**
-答：After obtaining a bachelor's and master's degree (major in play therapy) in a related field, you must complete a training course certified by the Korean Association for Play Therapy and receive a certification.
+**问：成为游戏治疗师需要什么流程？**
+答：在相关领域获得学士和硕士学位（主修游戏疗法）后，必须完成韩国游戏疗法协会认证的培训课程并获得认证。
 
 
 ---
@@ -143,12 +134,12 @@ After obtaining a play therapist certification through a graduate master's progr
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/play-therapist/KR)**

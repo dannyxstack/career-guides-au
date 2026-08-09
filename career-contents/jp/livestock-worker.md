@@ -50,8 +50,6 @@ A profession responsible for raising cattle, pigs, and chickens, including feedi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are advancing in some livestock tasks like milking robots and feeding systems, but many tasks require human experience such as animal health monitoring and breeding decisions, making full replacement difficult. Technology is being introduced to supplement labor shortages.
-
 Typical career path: after gaining field experience as a worker, can advance to livestock management leader or farm manager. Independent farming is possible but requires large initial investment.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Typical career path: after gaining field experience as a worker, can advance to 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Agriculture)) | Requires certain skills and Japanese ability. Max 5-year stay. No family accompaniment. |
-| Subclass 技能実習 (Technical Intern Training (Livestock Farming)) | 3-year training program. No job change allowed. Prior experience in home country needed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Agriculture & Livestock)) | Requires university degree or higher and specialized knowledge. For livestock technicians. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +137,12 @@ A: It is common to study at an agricultural high school or college, or use a tra
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-worker/JP)**

@@ -1,10 +1,8 @@
-# Tax Administration Clerk 职业分析 · 韩国
+# 税务管理文员（Tax Administration Clerk）职业分析 · 韩国
 
-**职业代码: 02511 (KECO)**
+**职业代码：02511 (KECO)**
 
-A public official who performs tax administration tasks such as national tax collection, tax audits, and delinquent account management at tax offices. They are selected through exams and classified as a stable occupation.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在税务所执行税收征收、税务审计和欠税管理税务行政工作的公务员，通过考试选拔，属于稳定职业。
 
 
 ---
@@ -13,7 +11,7 @@ A public official who performs tax administration tasks such as national tax col
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Civil Service Exam Preparation | 2 年 | $5,000,000~$20,000,000（Tuition and textbook fees） |
+| 公务员考试备考 | 2 年 | $5,000,000~$20,000,000（学费和教材费） |
 
 ---
 
@@ -21,17 +19,17 @@ A public official who performs tax administration tasks such as national tax col
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tax Accountant License | Korean Institute of Certified Public Accountants | 可选 | Optional but helpful for tax expertise |
-| Certified Public Accountant | Financial Supervisory Service | 可选 | Optional, advantageous for accounting tasks |
+| 税务会计师执照 | 韩国注册会计师协会 | 可选 | 可选但对税务专业知识有帮助 |
+| 注册会计师 | 金融监督院 | 可选 | 可选，有利于会计工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 17,000. Due to aging population and diversified tax sources, national tax demand remains, but digitalization is expected to reduce simple tasks. Staff size fluctuates slightly depending on government scale.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 17,000。由于人口老龄化和税源多元化，国家税收需求依然存在，但数字化预计将减少简单任务。人员规模根据政府规模略有波动。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,91 +37,85 @@ A public official who performs tax administration tasks such as national tax col
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $30,000,000~$40,000,000 | Grade 9 civil servant standard |
-| Mid Level (4-9 years) | $42,000,000~$55,000,000 | Grade 7-8 civil servant standard |
-| Senior Level (10+ years) | $60,000,000~$85,000,000 | Grade 6-5 civil servant standard |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 9级公务员标准 |
+| 中级（4-9年） | $42,000,000~$55,000,000 | 7-8级公务员标准 |
+| 高级（10年以上） | $60,000,000~$85,000,000 | 6-5级公务员标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will replace repetitive tasks like document processing and data entry, but humans will still handle complex tax judgments and investigations, strengthening some roles. Demand for specialized personnel will persist.
+人工智能和自动化将取代文档处理和数据录入等重复性任务，但人类仍将处理复杂的税务判断和调查，强化部分岗位，对专业人才的需求将持续存在。
 
-Appointed mainly through grade 7-9 civil service exams, with promotion to grade 5 or above possible through promotion exams. Some are favored from tax universities.
+主要通过7-9级公务员考试任命，通过晋升考试可升至5级以上。部分来自税务类大学。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document Sorting and Entry
-- Basic Tax Calculation
-- Civil Complaint Guidance
+- 文件整理与录入
+- 基本税金计算
+- 民事投诉引导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Tax Investigation Support
-- Delinquent Management Decision-making
-- Tax Law Interpretation
+- 税务调查支持
+- 逾期管理决策
+- 税法解释
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex Tax Judgment
-- Face-to-face Consultation and Persuasion
-- Trust and Ethics
+- 复杂税务判断
+- 面对面咨询与说服
+- 信任与道德
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Tax Law Expertise
-- Data Analysis
-- E-Government System Utilization
+- 税法专业知识
+- 数据分析
+- 电子政务系统利用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digitalization of National Tax Administration
-- Specialization of Tax Audits
-- Strengthening Delinquent Tax Management
-- Freeze on Civil Service Headcount
+- 国家税务局数字化
+- 税务审计专业化
+- 加强拖欠税款管理
+- 公务员编制冻结
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for overseas professionals in tax administration-related work, but typically a domestic-only occupation. |
-
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient Person for Exam Preparation
-- Person Interested in Tax Law and Accounting
-- Person Valuing Public Service Ethics
+- 有耐心的备考者
+- 对税法和会计感兴趣的人
+- 重视公共服务伦理的人
 
 **谁不适合**
-- Person Disliking Highly Competitive Exams
-- Person Bored by Repetitive Document Work
+- 不喜欢激烈竞争考试的人
+- 对重复性文书工作感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a tax administration clerk?**
-答：Approximately 35 million KRW for entry-level, and up to 70 million KRW for senior level.
+**问：税务管理文员的平均工资是多少？**
+答：入门级约3500万韩元，高级级可达7000万韩元。
 
-**问：Can foreigners become tax administration clerks?**
-答：Mostly limited to domestic civil service positions, making foreign employment difficult.
+**问：外国人能成为税务管理员吗？**
+答：主要限于国内公务员职位，国外就业困难。
 
-**问：What is needed for promotion?**
-答：Must pass performance evaluations and promotion exams; having tax accountant or certified public accountant qualifications is advantageous.
+**问：晋升需要什么？**
+答：必须通过绩效评估和晋升考试；拥有税务师或注册会计师资格更有利。
 
 
 ---
@@ -141,12 +133,12 @@ Appointed mainly through grade 7-9 civil service exams, with promotion to grade 
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tax-administration-clerk/KR)**

@@ -1,10 +1,8 @@
-# Janitor 职业分析 · 韩国
+# 清洁工（Janitor）职业分析 · 韩国
 
-**职业代码: 56111 (KECO)**
+**职业代码：56111 (KECO)**
 
-A janitor cleans the interiors of buildings, facilities, and offices, and collects trash, maintaining hygiene and cleanliness.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+清洁工负责清洁建筑物、设施和办公室内部，收集垃圾，保持卫生和清洁。
 
 
 ---
@@ -13,7 +11,7 @@ A janitor cleans the interiors of buildings, facilities, and offices, and collec
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| No required education | 0年 | $0~$0（No education or certification required） |
+| 无学历要求 | 0年 | $0~$0（无需教育或认证） |
 
 ---
 
@@ -21,17 +19,17 @@ A janitor cleans the interiors of buildings, facilities, and offices, and collec
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cleaning Technician | Human Resources Development Service of Korea | 可选 | Employment possible without certification, but advantageous if held |
-| Occupational Safety and Health Training | Ministry of Employment and Labor | 可选 | Required when using chemicals |
+| 清洁技术员 | 韩国人力资源开发服务局 | 可选 | 无认证也可就业，但持有有优势 |
+| 职业安全与健康培训 | 雇佣劳动部 | 可选 | 使用化学品时需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 450,000. Demand for cleaning services remains steady due to aging population and increased female economic activity, but some low-skill jobs may decline due to automated cleaning devices.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 450,000。由于人口老龄化和女性经济活动增加，清洁服务需求保持稳定，但部分低技能岗位可能因自动清洁设备而减少。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,93 +37,85 @@ A janitor cleans the interiors of buildings, facilities, and offices, and collec
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $18,000,000~$24,000,000 | Part-time worker: 1-1.5 million won/month |
-| Mid-level (4-10 years) | $24,000,000~$30,000,000 | Salary increase upon conversion to regular employee |
-| 资深（10年以上） | $30,000,000~$36,000,000 | Site manager level |
+| 初级 (0-3年) | $18,000,000~$24,000,000 | 兼职工作者：100-150万韩元/月 |
+| 中级（4-10年） | $24,000,000~$30,000,000 | 转为正式员工后加薪 |
+| 资深（10年以上） | $30,000,000~$36,000,000 | 现场经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of automatic cleaning robots and AI-based facility management systems, low-skilled simple cleaning tasks are expected to be partially replaced.
+随着自动清洁机器人和基于 AI 的设施管理系统的引入，低技能简单清洁任务预计将被部分替代。
 
-They are usually non-regular workers or employed by outsourcing companies, and can be promoted to facility team leader or cleaning site manager based on experience.
+他们通常是非正式工人或受雇于外包公司，可根据经验晋升为设施团队负责人或清洁现场经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Floor cleaning
-- Restroom cleaning
-- Waste sorting
+- 地板清洁
+- 洗手间清洁
+- 垃圾分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Disinfection and sanitization
-- Cleaning equipment inspection and repair
-- Customer service
+- 消毒与杀菌
+- 清洁设备检查与维修
+- 客户服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Identifying customer needs
-- Handling unexpected situations
-- Assessing hygiene conditions
+- 识别客户需求
+- 处理突发情况
+- 卫生条件评估
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating cleaning equipment
-- Safety and health knowledge
-- Basic English conversation (for foreigners)
+- 操作清洁设备
+- 安全与健康知识
+- 基础英语会话（针对外国人）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population
-- Increased hygiene demand
-- Automated cleaning machines
-- Non-regular worker
+- 人口老龄化
+- 卫生需求增加
+- 自动清洁机器
+- 非正规工人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible in some industries like manufacturing and agriculture, but limited in cleaning industry |
-| Subclass F-2 (F-2 (Residence)) | Employment possible after obtaining long-term residence status via points system |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work in cleaning jobs |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and diligent person
-- Person who prefers working alone
-- Person who does not dislike physical activity
+- 细致勤勉的人
+- 喜欢独自工作的人
+- 不排斥体力活动的人
 
 **谁不适合**
-- Person not sensitive to hygiene
-- Person who prefers static work
+- 对卫生不敏感的人
+- 偏好静态工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：清洁工的平均薪资是多少？**
-答：Approximately 20 million KRW for beginners, over 30 million KRW after 10+ years of experience.
+答：新手约2000万韩元，10年以上经验超过3000万韩元。
 
-**问：Can foreigners work as cleaners?**
-答：E-9 (Non-professional Employment) visas have restrictions; F-2 (Residence) and F-4 (Overseas Korean) visa holders are eligible.
+**问：外国人可以做清洁工吗？**
+答：E-9（非专业就业）签证有限制；F-2（居住）和F-4（海外韩裔）签证持有者符合条件。
 
-**问：Are any certificates required?**
-答：No mandatory certificates, but a cleaning technician certificate can help with employment.
+**问：是否需要任何证书？**
+答：无强制证书，但清洁技术员证书有助于就业。
 
 
 ---
@@ -143,12 +133,12 @@ They are usually non-regular workers or employed by outsourcing companies, and c
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/janitor/KR)**

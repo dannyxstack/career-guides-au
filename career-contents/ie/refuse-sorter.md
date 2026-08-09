@@ -53,8 +53,6 @@ Responsible for sorting and separating recyclables and waste at waste treatment 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Waste sorters face a very high risk of automation. AI vision and robotics can already sort waste efficiently, significantly reducing demand for this role.
-
 Can advance through experience to sorting line supervisor or quality inspector, or transition to waste management operations or environmental technician roles.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance through experience to sorting line supervisor or quality inspector, 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: This occupation is not in shortage; work permit application thresholds are hi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refuse-sorter/IE)**

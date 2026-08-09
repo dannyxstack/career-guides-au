@@ -52,8 +52,6 @@ A regional education manager oversees and coordinates the operations of multiple
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Can progress from teacher or education coordinator to regional manager, then to state-level education director or senior education department official. Requires management experience and relevant master's degree.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from teacher or education coordinator to regional manager, then to 
 | Subclass 482 (Temporary Skill Shortage visa (subclass 482)) | Employer-sponsored temporary visa, requires an Australian employer sponsor, suitable for experienced workers |
 | Subclass 186 (Employer Nomination Scheme (subclass 186)) | Employer-sponsored permanent residence visa requires employer nomination for direct PR application |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree in education, teacher registration, an
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/regional-education-manager/AU)**

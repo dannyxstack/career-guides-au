@@ -56,8 +56,6 @@ Nurse-midwives diagnose and coordinate all aspects of childbirth, work independe
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will play a strong assistive role in midwifery, but core care and clinical decisions remain highly dependent on humans. Midwifery employment outlook is generally positive; AI tools will enhance efficiency and quality, not replace.
-
 Obtain a Master's degree in nurse-midwifery (MSN or DNP) from a Registered Nurse (RN), pass the American Midwifery Certification Board (AMCB) exam to get certified, become an Advanced Practice Registered Nurse (APRN), and further advance to midwifery director or educator.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Obtain a Master's degree in nurse-midwifery (MSN or DNP) from a Registered Nurse
 | Subclass EB-3 (EB-3 Skilled Worker) | If you only have a bachelor's degree, you can apply via EB-3, but wait times are long. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Prove US labor shortage through the PERM process, basis for green card application. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Must first become a registered nurse (RN), then complete a master's or doctor
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurse-midwives/US)**

@@ -4,8 +4,6 @@
 
 Medical professional who examines, treats, and performs surgery on patients, contributing to health recovery and maintenance. Requires advanced knowledge and skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Medical professional who examines, treats, and performs surgery on patients, con
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI expands doctors' abilities in image diagnosis, pathological diagnosis, and surgical support, but human doctors will continue to handle patient communication and complex judgments. AI is increasingly used as a diagnostic support tool but will not replace doctors.
-
 After obtaining a medical license, complete initial clinical training (2 years) followed by specialized training (3–5 years). After obtaining board certification, common career paths include hospital employment, private practice, or a university hospital position.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After obtaining a medical license, complete initial clinical training (2 years) 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when a foreign doctor obtains a Japanese medical license and works at a medical institution. However, passing the national exam is required for the license. |
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional (i)) | Targets doctors with advanced knowledge and achievements. Points-based system offers preferential treatment for permanent residency. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: After graduating from high school, entered a six-year medical school and pass
 | Work intensity | very high (★★★★½) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physician/JP)**

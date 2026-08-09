@@ -1,8 +1,8 @@
-# Makeup Artist 职业分析 · 韩国
+# 化妆师（Makeup Artist）职业分析 · 韩国
 
-**职业代码: 51142 (KECO)**
+**职业代码：51142 (KECO)**
 
-A professional who handles makeup, hair, and special effects makeup for actors or models in film, drama, performances, and photo shoots according to the role or concept.
+根据角色或概念，为电影、戏剧、表演和摄影中的演员或模特处理化妆、发型和特效妆的专业人士。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who handles makeup, hair, and special effects makeup for actors o
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Beauty/Makeup-related departments at junior colleges (2-3 years) | 2 年 | $6,000,000~$12,000,000（Based on national/public universities, private universities are higher） |
-| Private makeup academies (short-term courses) | 6 months | $3,000,000~$8,000,000（Varies by course） |
-| Art/Performance-related departments at universities (4-year) | 4年 | $12,000,000~$24,000,000（Based on tuition） |
+| 大专（2-3年）美容/化妆相关院系 | 2 年 | $6,000,000~$12,000,000（基于国立/公立大学，私立大学更高） |
+| 私立化妆学校（短期课程） | 6个月 | $3,000,000~$8,000,000（因课程而异） |
+| 大学艺术/表演相关院系（4年制） | 4年 | $12,000,000~$24,000,000（按学费计费） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional who handles makeup, hair, and special effects makeup for actors o
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Certification: Hairdresser (General) | Human Resources Development Service of Korea | 可选 | Not mandatory for makeup work, but advantageous for employment |
-| National Certification: Makeup Artist (Beautician) | Human Resources Development Service of Korea | 可选 | Newly established national certification in 2023, gradually becoming mandatory |
+| 国家级认证：美发师（通用） | 韩国人力资源开发服务局 | 可选 | 化妆工作非强制要求，但对就业有优势 |
+| 国家认证：化妆师（美容师） | 韩国人力资源开发服务局 | 可选 | 2023年新设的国家认证，逐渐成为强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. With the continuous growth of Korea's film, drama, and performance industry and the increasing global demand for K-content, the demand for makeup artists is stable, but the increase in new jobs is limited due to a small elite employment structure.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。随着韩国电影、电视剧和演出行业的持续增长以及全球对K-content需求的增加，化妆师的需求稳定，但由于精英就业结构规模小，新增工作岗位有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,85 @@ A professional who handles makeup, hair, and special effects makeup for actors o
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Based on assistant; freelancers vary greatly |
-| 中级 (4-7年) | $35,000,000~$50,000,000 | Head makeup artist, including freelancers |
-| Advanced (8+ years) | $50,000,000~$80,000,000 | Special effects makeup specialist, top class |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 以助理为基础；自由职业者差异很大 |
+| 中级 (4-7年) | $35,000,000~$50,000,000 | 首席化妆师，包括自由职业者 |
+| 高级（8年以上） | $50,000,000~$80,000,000 | 顶级特效化妆专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI/automation can replace repetitive tasks (e.g., basic makeup templates, data-based color recommendations) in makeup artistry, but creative design, special effects makeup, and on-site adaptability are hard to replace, limiting its impact.
+AI/自动化可以取代化妆中的重复任务（例如基础妆容模板、基于数据颜色推荐），但创意设计、特效妆和现场适应能力难以取代，因此影响有限。
 
-Starting as a makeup assistant and building experience, one typically grows into a head makeup artist or special effects makeup specialist. Some also transition to independent freelancing or academy instructors.
+从化妆助理做起积累经验，逐渐成长为首席化妆师或特效化妆专家。也有人转型为独立自由职业者或学院讲师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic base makeup
-- Simple eye and lip makeup
-- Data-based color matching
+- 基础底妆
+- 简单眼部和唇部化妆
+- 基于数据的配色
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI skin tone analysis
-- Virtual makeup simulation
-- 3D printing design for special effects
-- On-site filming condition analysis
+- AI肤色分析
+- 虚拟化妆模拟
+- 为特效设计3D打印
+- 现场拍摄条件分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative design sense
-- Special effects makeup techniques
-- Communication with actors and directors
-- On-site problem-solving
+- 创意设计感
+- 特技化妆技巧
+- 与演员和导演沟通
+- 现场解决问题
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI makeup app usage
-- 3D modeling and printing
-- Chemistry of special effects materials
-- Global trend analysis
+- AI化妆应用使用
+- 3D建模与打印
+- 特效材料化学
+- 全球趋势分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hallyu content
-- OTT dramas
-- Webtoon live-action adaptations
-- Performances and musicals
+- 韩流内容
+- OTT剧集
+- 网络漫画真人改编
+- 表演和音乐剧
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | For foreign makeup artists employed by Korean film/TV production companies; degree and experience required |
-| Subclass E-7-2 (Specific Activities (Semi-Professional)) | Makeup artists in performance/event fields; certain experience required |
-| Subclass F-2-1 (Residence (Points System)) | Possible to switch after long-term stay and recognition of skills |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans; can work as makeup artists |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent artistic sense
-- People who are meticulous and dexterous
-- People who can adapt to night shifts and filming sites
+- 艺术感强的人
+- 细心且手巧的人
+- 能适应夜班和拍摄现场的人
 
 **谁不适合**
-- People who prefer a regular lifestyle
-- People who are weak to interpersonal stress
+- 偏好规律生活的人
+- 不善于应对人际压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a makeup artist?**
-答：Junior: 24-30 million KRW/year, Mid-level: 35-50 million, Senior expert: 50-80 million, but high freelancer ratio leads to income volatility.
+**问：化妆师的平均年薪是多少？**
+答：初级：2400-3000万韩元/年，中级：3500-5000万，高级专家：5000-8000万，但高自由职业者比例导致收入波动。
 
-**问：What visa do foreigners need to work as a makeup artist in Korea?**
-答：You need E-7-1 (Professional) or E-7-2 (Semi-professional) visa, with proof of related degree or experience. F-4 (Overseas Korean) also possible.
+**问：外国人在韩国成为化妆师需要什么签证？**
+答：需要E-7-1（专业）或E-7-2（半专业）签证，并提供相关学历或经验证明。F-4（海外韩国人）也可。
 
 
 ---
@@ -143,12 +135,12 @@ Starting as a makeup assistant and building experience, one typically grows into
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/makeup-artist-51142/KR)**

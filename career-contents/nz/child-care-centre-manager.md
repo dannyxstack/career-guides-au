@@ -52,8 +52,6 @@ Managing the daily operations of a childcare center, including staff management,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on childcare center managers is mixed: automation of scheduling and documentation may reduce some administrative roles, but interpersonal communication and compliance responsibilities are nearly irreplaceable.
-
 Can progress from preschool teacher or team leader, gain experience to become a center manager, then develop into a regional manager or education consultant. Some managers pursue a Master's in Education and enter universities or policy departments. The Green List offers a fast-track immigration pathway.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from preschool teacher or team leader, gain experience to become a 
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, eligible to apply, requires meeting qualification and salary requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa, suitable for those who do not directly meet residence requirements; can work first then transition to residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Overseas qualifications need to be assessed by NZQA, usually requiring a bach
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-care-centre-manager/NZ)**

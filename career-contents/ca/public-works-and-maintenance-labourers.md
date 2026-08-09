@@ -51,8 +51,6 @@ Engaged in the maintenance and repair of public facilities such as roads, sewers
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Reinforcing ironworkers in Canada face high structural compression risk; AI-driven automation (e.g., robotic tying, BIM optimization) will reduce repetitive manual demand, but on-site flexible operation remains key to safety.
-
 Can be promoted from general laborer to team leader, or transition into a skilled trade (e.g., plumber, road maintenance worker) through apprenticeships. Requires accumulating experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can be promoted from general laborer to team leader, or transition into a skille
 | Subclass LMIA (Labour Market Impact Assessment) | Employer can apply for LMIA to support a work visa, then apply for permanent residence. |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | If you accumulate enough Canadian work experience (CEC) or have a high comprehensive score (FSW), you can immigrate through Express Entry. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, can be promoted to team leader or supervisor, or transfer to a tradesper
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-works-and-maintenance-labourers/CA)**

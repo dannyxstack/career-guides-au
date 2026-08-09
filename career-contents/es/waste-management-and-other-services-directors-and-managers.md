@@ -54,8 +54,6 @@ Responsible for strategic planning, operational management, and business develop
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 Career Promotion Path: From Operations Supervisor or Project Manager to Department Manager, then to Regional Director or CEO; You can also turn to environmental consulting or circular economy startups.
 
 **Tasks most exposed to AI:**
@@ -102,17 +100,9 @@ Career Promotion Path: From Operations Supervisor or Project Manager to Departme
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and contract, with a salary threshold of about €34,000 |
-| Subclass Altamente cualificad (Highly Qualified Professional) | According to Ley 14/2013, education and contract are required, with an annual salary not lower than the Spanish average |
-| Subclass Cuenta ajena (Work Permit for Employees) | Traditional work residency requires employer sponsorship and is subject to labor market testing |
-| Subclass Búsqueda de empleo (Job Search Visa) | Permission is granted for residence and job hunting in Spain, valid for 6-12 months |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +146,12 @@ A: Usually, a bachelor's degree in Environmental Management or Business Manageme
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-management-and-other-services-directors-and-managers/ES)**

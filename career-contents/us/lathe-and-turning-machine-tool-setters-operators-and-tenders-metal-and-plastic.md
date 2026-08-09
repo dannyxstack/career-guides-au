@@ -55,8 +55,6 @@ Set up, operate, or tend lathes and turret lathes to perform turning, boring, th
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Lathe operators face high risk of automation replacement; AI combined with CNC technology can take over programming, tool setting, and quality inspection; entry-level positions are sharply reduced, but physical debugging and exception handling still depend on humans.
-
 Can advance from operator to programmer, team leader, or quality control technician; mastering multi-axis CNC programming can lead to precision machining or mold manufacturing roles.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can advance from operator to programmer, team leader, or quality control technic
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | PERM labor certification required, but employer sponsorship willingness is low |
 | Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Usually requires master's degree or higher, not suitable |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Automation (e.g., CNC) has largely replaced traditional operations, but compl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lathe-and-turning-machine-tool-setters-operators-and-tenders-metal-and-plastic/US)**

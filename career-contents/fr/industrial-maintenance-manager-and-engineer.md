@@ -53,8 +53,6 @@ Responsible for formulating and implementing industrial equipment maintenance st
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial maintenance management and engineering roles will not be completely replaced, but AI will significantly change the structure of tasks: data analytics and predictive maintenance will be enhanced, while routine scheduling and fault diagnosis will be automated, requiring maintenance engineers to shift toward higher-value strategies and complex problem-solving.
-
 You can be promoted from maintenance technician to maintenance manager, and then to industrial engineering director. It can also be expanded into factory management, project management, or consulting. Continuous learning of digital skills (such as predictive maintenance, data analysis) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from maintenance technician to maintenance manager, and then
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for those holding a master's or engineering diploma with an annual salary of ≥ 36,500 euros, valid for 4 years, and eligible to bring family members. |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, employment contracts are over one year, and must be reviewed by the Labor Bureau (OPCO). Maintenance engineers are in short supply, and approvals are relatively fast. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled employees, annual salary ≥ 53,000 euros, with a one-year work contract, family members allowed, and convenient EU mobility. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Usually requires an engineer diploma with CTI accreditation; Concerns the ele
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-maintenance-manager-and-engineer/FR)**

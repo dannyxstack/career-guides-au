@@ -1,10 +1,8 @@
-# Small Retail Store Manager 职业分析 · 韩国
+# 小型零售店经理（Small Retail Store Manager）职业分析 · 韩国
 
-**职业代码: 61401 (KECO)**
+**职业代码：61401 (KECO)**
 
-A small business owner who operates small retail stores such as neighborhood supermarkets, convenience stores, and small marts, overseeing product ordering, inventory management, sales analysis, staff management, and customer service.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+经营社区超市、便利店和小型市场等小型零售店的小企业主，负责产品订购、库存管理、销售分析、员工管理和客户服务。
 
 
 ---
@@ -13,8 +11,8 @@ A small business owner who operates small retail stores such as neighborhood sup
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$500,000（Cost of obtaining high school diploma） |
-| Junior college (2-year) Business Administration/Distribution | 2 年 | $10,000,000~$20,000,000（Including tuition and textbooks） |
+| 高中毕业 | 3年 | $0~$500,000（获得高中文凭的费用） |
+| 专科（2年）工商管理/配送 | 2 年 | $10,000,000~$20,000,000（包括学费和教材） |
 
 ---
 
@@ -22,17 +20,17 @@ A small business owner who operates small retail stores such as neighborhood sup
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Small Business Promotion Agency startup training completion | Small Business Promotion Agency | 可选 | Optional but advantageous for support |
-| Barista/Cook certification | Korea Coffee Association, etc. | 可选 | Beneficial if running a combined café |
+| 小企业促进局创业培训结业 | 小企业推广机构 | 可选 | 可选但对支持有利 |
+| 咖啡师/厨师认证 | 韩国咖啡协会等 | 可选 | 如果经营综合咖啡馆则有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 250,000. Due to the expansion of large marts and online shopping, coupled with minimum wage increases, the business environment has deteriorated, leading to a decline in employment. Differentiation and efficiency are essential for survival.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 250,000。由于大卖场和网购扩张，加上最低工资上涨，商业环境恶化，就业下降。差异化和效率是生存关键。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A small business owner who operates small retail stores such as neighborhood sup
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $24,000,000~$30,000,000 | Minimum wage including manager salary |
-| Intermediate (4-10 years) | $30,000,000~$40,000,000 | Varies with business performance |
-| 资深（10年以上） | $35,000,000~$50,000,000 | Increased with multi-store operation |
+| 初级 (0-3年) | $24,000,000~$30,000,000 | 含经理薪资的最低工资 |
+| 中级（4-10年） | $30,000,000~$40,000,000 | 视业务表现而定 |
+| 资深（10年以上） | $35,000,000~$50,000,000 | 随着多店经营而增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI assists store managers with inventory management, sales forecasting, and self-checkout, but customer service and on-site decision-making still require humans for the time being. Jobs are declining due to competition from large marts and online retailers.
+AI协助门店经理进行库存管理、销售预测和自助结账，但客户服务和现场决策目前仍需要人工。由于大卖场和在线零售商的竞争，工作岗位正在减少。
 
-Career path: small store employee → store manager → district manager or headquarters supervisor, or franchise start-up/multi-store operation, but the path is narrowing due to industry downturn.
+职业路径：小店员工→店长→区域经理或总部主管，或加盟创业/多店经营，但行业低迷导致路径收窄。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Check Inventory Quantity
-- Simple Calculation and Settlement
-- Store Cleaning and Organizing
+- 检查库存数量
+- 简单计算与结算
+- 商店清洁与整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Sales Data Analysis
-- Customer Preference Prediction
-- Promotion Planning
+- 销售数据分析
+- 客户偏好预测
+- 晋升规划
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust Relationship with Customers
-- Local Community Network
-- Creative Marketing
+- 与客户建立信任关系
+- 本地社区网络
+- 创意营销
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Marketing
-- Data Analysis
-- Negotiation Skills
+- 数字营销
+- 数据分析
+- 谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Small Business Owner
-- Convenience Store
-- Unmanned Store
-- Neighborhood Supermarket
+- 小企业主
+- 便利店
+- 无人商店
+- 社区超市
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible for skilled workers to manage small stores, but requirements are strict |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can use this for starting their own business |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can run small retail stores |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy interacting and communicating with customers
-- Diligent and highly responsible people
-- People interested in small-scale self-employment
+- 喜欢与客户互动交流的人
+- 勤奋且责任心强的人
+- 对小微自雇感兴趣的人
 
 **谁不适合**
-- People who want high profits in a short period
-- People who find it difficult to adapt to change
+- 追求短期高利润的人
+- 难以适应变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a small retail store manager?**
-答：For entry-level, it is 24-30 million KRW per year, and for mid-level, it can go up to 30-40 million KRW depending on business performance.
+**问：小型零售店经理的平均年薪是多少？**
+答：初级岗位年薪2400-3000万韩元，中级岗位根据业绩可达3000-4000万韩元。
 
-**问：Can foreigners work as small retail store managers in Korea?**
-答：It is possible with an E-7 visa, but requirements are strict; long-term residents such as F-2 and F-4 are more suitable.
+**问：外国人可以在韩国担任小型零售店经理吗？**
+答：持E-7签证有可能，但要求严格；F-2和F-4等长期居留身份更合适。
 
-**问：What are the core competencies a store manager should have?**
-答：Inventory management skills, customer service mindset, basic accounting knowledge, and store management and marketing skills are important.
+**问：店长应具备哪些核心能力？**
+答：库存管理技能、客户服务意识、基础会计知识以及门店管理和营销技能很重要。
 
 
 ---
@@ -144,12 +134,12 @@ Career path: small store employee → store manager → district manager or head
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/small-retail-store-manager/KR)**

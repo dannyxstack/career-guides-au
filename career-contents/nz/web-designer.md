@@ -53,8 +53,6 @@ UI/UX designers in New Zealand work on user interface and interaction design for
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-UI/UX designers face mixed impacts from AI: AI can quickly generate interface prototypes and auto-slice images, but design thinking, user research, and brand creativity are hard to replace. Senior designers become more efficient with AI tools, shifting the core value of the role towards strategy.
-
 Junior UI/UX designers can advance to senior designer, design lead, or design manager, or transition to product management or UX research. The New Zealand market values full-stack design skills (interaction + visual + prototyping), with many freelance and remote work opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior UI/UX designers can advance to senior designer, design lead, or design ma
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an accredited employer, visa duration 1-3 years, can later transfer to residence. |
 | Subclass Green List T2 (Green List Tier 2) | UI/UX designers are not on Tier 1, but if salary reaches twice the median (approx. NZD 120,000), they may qualify for Tier 2 work to residence pathway. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Employers value portfolio quality, user research ability, proficiency in desi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer/NZ)**

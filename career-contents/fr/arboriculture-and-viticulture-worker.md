@@ -53,8 +53,6 @@ Engaged in planting, pruning, pest and disease control, and harvesting of fruit 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
-
 Ordinary workers can be promoted to team supervisor or vineyard manager; After accumulating experience, you can independently run a small orchard or become a technical consultant through training.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Ordinary workers can be promoted to team supervisor or vineyard manager; After a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | Applicable to long-term jobs sponsored by French employers, renewable visas, and after 5 years, permanent residency can be applied for |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled foreign employees or those who contribute to the company's development, streamlined process, valid for 4 years |
-| Subclass Carte bleue UE (EU Blue Card) | An annual income must reach 1.5 times the French average wage (about 52,500 euros), but agricultural jobs usually do not meet this salary threshold |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Starting as a grassroots worker, after passing the CAP or BTS exam, you can b
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arboriculture-and-viticulture-worker/FR)**

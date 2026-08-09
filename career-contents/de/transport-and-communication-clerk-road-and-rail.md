@@ -51,8 +51,6 @@ Responsible for coordinating road and rail transport of goods and passengers, in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Clerical work in transport and despatch clerks and assistants is highly procedural, and is being rapidly replaced by digitisation and AI. Over the next 5 years, basic roles will shrink significantly, requiring a shift towards logistics coordination and data analysis.
-
 Can be promoted from junior dispatcher to team supervisor, operations manager, or transport planning specialist. Some transition to logistics management or supply chain coordination; obtaining a bachelor's degree in logistics or business can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can be promoted from junior dispatcher to team supervisor, operations manager, o
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Hold a German-recognised vocational qualification (e.g., IHK certificate) to apply for a skilled migration visa |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search based on the points system, suitable for those with vocational training or experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Must be assessed by a German official recognition body (e.g., IHK FOSA); may 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-and-communication-clerk-road-and-rail/DE)**

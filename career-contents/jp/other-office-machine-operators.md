@@ -50,8 +50,6 @@ Specialist who operates and manages office equipment such as copiers, printers, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With AI and automation, simple data entry and document processing jobs are shrinking, while tasks requiring human judgment, such as multifunction printer maintenance, management, and troubleshooting, will remain.
-
 Career advancement from general clerical to specialized machine operation, office management, or IT support is possible.
 
 **Tasks most exposed to AI:**
@@ -90,15 +88,9 @@ Career advancement from general clerical to specialized machine operation, offic
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | May involve operation and management of office equipment. Requires vocational school degree or higher. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Clerical positions are currently not eligible. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +134,12 @@ A: By expanding skills into IT support and office management, you can transition
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-office-machine-operators/JP)**

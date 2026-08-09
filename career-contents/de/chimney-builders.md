@@ -53,8 +53,6 @@ Chimney builders design, construct, repair, and demolish industrial and domestic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks heavily rely on on-site physical operations and fine manual work, leaving limited room for direct AI replacement; however, automated bricklaying machines and BIM technology have begun to compress routine wall construction tasks, intensifying competition for entry-level positions.
-
 Career path: apprentice → skilled worker → foreman → self-employed craftsman; further training can become a construction technician or engineer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: apprentice → skilled worker → foreman → self-employed craftsm
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires qualification certification, suitable for skilled workers who have completed dual-system training or credential recognition |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows for internship/training first, then transition to work visa |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can pursue further training to become a foreman (Vorarbeiter), technician (Te
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chimney-builders/DE)**

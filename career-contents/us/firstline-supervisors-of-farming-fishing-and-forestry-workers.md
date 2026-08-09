@@ -53,8 +53,6 @@ Directly supervise and coordinate activities of agricultural, forestry, aquacult
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Supervisory and administrative tasks for frontline supervisors in agriculture, forestry, and fisheries will be reduced by automation tools, but on-site decision-making and safety coordination are irreplaceable, making the overall risk moderate.
-
 Can advance from general worker to supervisor, or transition to farm management, agricultural technology consultant, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from general worker to supervisor, or transition to farm management,
 | Subclass H-2A (H-2A Temporary Agricultural Workers) | Seasonal agricultural worker visa, but supervisor roles usually not applicable |
 | Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation does not meet H-1B specialty occupation requirements; H-2A vi
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-farming-fishing-and-forestry-workers/US)**

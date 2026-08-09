@@ -52,8 +52,6 @@ Physical therapist assistants perform specified, selective, or routine tasks suc
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace physiotherapist assistants' administrative and documentation tasks, but manual therapy preparation and interpersonal interaction still rely on humans; overall impact is mixed.
-
 Typically start as assistant, can advance to physical therapy aide or physical therapist through experience and further education, or move into healthcare management.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Typically start as assistant, can advance to physical therapy aide or physical t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Typically become a physical therapy assistant by completing an associate degr
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-therapist-aides/US)**

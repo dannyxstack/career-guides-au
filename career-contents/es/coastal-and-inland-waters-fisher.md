@@ -4,8 +4,6 @@
 
 Engaging in commercial fishing in coastal or inland waters, including catching, handling catch, and maintaining fishing gear. Usually, the working environment is harsh due to seasonal changes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaging in commercial fishing in coastal or inland waters, including catching, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
-
 Most fishermen are self-employed or run their own businesses. Promotion opportunities are limited, but you can be promoted to captain or monitor. Some have shifted to aquaculture.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Most fishermen are self-employed or run their own businesses. Promotion opportun
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employees) | A Spanish employer sponsorship is required, proving that the position is difficult to recruit locals. Seasonal fisheries work is usually only issued with short-term permits. |
-| Subclass Trabajo por cuenta p (Work permit for self-employed) | Self-employed fishermen must submit a business plan proving that their economic activities benefit Spain's interests. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Not applicable, as the profession usually does not meet high-skill requirements. |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Mandatory professional qualifications (basic safety training) for fishing ves
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coastal-and-inland-waters-fisher/ES)**

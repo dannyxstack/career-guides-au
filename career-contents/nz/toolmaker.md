@@ -52,8 +52,6 @@ Tool and die makers are highly skilled tradespeople in New Zealand's manufacturi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 Entry-level mold makers can advance to senior technician, team supervisor, or specialize in CNC programming or mold design. With experience, can transition to engineering manager or start own business. Continuous learning of CAD/CAM skills is key to advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level mold makers can advance to senior technician, team supervisor, or sp
 | Subclass SMC (Skilled Migrant Category) | 6-point technical migration, need to accumulate enough points (degree + work experience), Green List occupations get bonus |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can be a transitional pathway to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically through a 4-year apprenticeship (NZ Apprenticeship) and obtaining t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/toolmaker/NZ)**

@@ -1,8 +1,8 @@
-# Psychology Researcher 职业分析 · 韩国
+# 心理学研究员（Psychology Researcher）职业分析 · 韩国
 
-**职业代码: 11015 (KECO)**
+**职业代码：11015 (KECO)**
 
-Scientifically studies human psychology and behavior, collecting and analyzing data through experiments and surveys to develop psychological theories or apply them to real-world problem-solving.
+科学研究人类心理和行为，通过实验和调查收集分析数据，发展心理学理论或应用于实际问题解决。
 
 
 ---
@@ -11,9 +11,9 @@ Scientifically studies human psychology and behavior, collecting and analyzing d
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's (Psychology) | 4年 | $40,000,000~$60,000,000（Tuition (National/Public University)） |
-| 硕士（心理学） | 2 年 | $20,000,000~$40,000,000（Graduate Tuition (National/Public)） |
-| Doctoral (Psychology) | 3年 | $30,000,000~$60,000,000（Graduate Tuition and Living Expenses Separate） |
+| 学士（心理学） | 4年 | $40,000,000~$60,000,000（学费（国立/公立大学）） |
+| 硕士（心理学） | 2 年 | $20,000,000~$40,000,000（研究生学费（国立/公立）） |
+| 博士（心理学） | 3年 | $30,000,000~$60,000,000（研究生学费和生活费分开） |
 
 ---
 
@@ -21,18 +21,18 @@ Scientifically studies human psychology and behavior, collecting and analyzing d
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Clinical Psychologist Level 1 | Human Resources Development Service of Korea | 可选 | Master's or higher, with supervised training |
-| Clinical Psychologist Level 2 | Human Resources Development Service of Korea | 可选 | Bachelor's or higher, with supervised training |
-| Mental Health Specialist | Ministry of Health and Welfare | 可选 | Graduate coursework and practical training required |
+| 一级临床心理士 | 韩国人力资源开发服务局 | 可选 | 硕士或以上，且接受督导培训 |
+| 临床心理学家二级 | 韩国人力资源开发服务局 | 可选 | 学士或更高学历，并接受督导培训 |
+| 心理健康专家 | 保健福祉部 | 可选 | 需要研究生课程和实践培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 2,500. Demand for psychology research remains steady due to aging and increased mental health needs, but job growth is limited due to high dependence on government research funding.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 2,500。由于老龄化和心理健康需求增加，心理学研究需求保持稳定，但因其高度依赖政府研究资金，就业增长有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,96 +40,89 @@ Scientifically studies human psychology and behavior, collecting and analyzing d
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $28,000,000~$35,000,000 | Research Institute, Public Institution Standards |
-| Mid (4–7 years) | $40,000,000~$50,000,000 | 经验丰富后增长 |
-| 高级（8年+） | $55,000,000~$80,000,000 | Includes research director and professor salary |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 研究所、公共机构标准 |
+| 中级（4-7年） | $40,000,000~$50,000,000 | 经验丰富后增长 |
+| 高级（8年+） | $55,000,000~$80,000,000 | 包括研究主管和教授薪资 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation assist in some tasks like data analysis and pattern recognition, but core tasks of understanding and interpreting complex human psychology are hard to replace.
+AI和自动化辅助数据分析和模式识别等任务，但理解和解释复杂人类心理的核心任务难以替代。
 
-After obtaining a master's or doctoral degree, builds experience at universities, research institutes, or corporate labs, and can advance to research director, professor, or expert committee member.
+获得硕士或博士学位后，在大学、研究机构或企业实验室积累经验，可晋升至研究主管、教授或专家委员会成员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple statistical analysis
-- Survey automation
-- Basic literature review
-- Data preprocessing
+- 简单统计分析
+- 调查自动化
+- 基础文献综述
+- 数据预处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Experimental design
-- Data interpretation
-- Psychological assessment tool development
-- Clinical diagnosis assistance
+- 实验设计
+- 数据解读
+- 心理评估工具开发
+- 临床诊断辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Ethical judgment
-- Clinical experience
-- Qualitative research insight
+- 同理心
+- 道德判断
+- 临床经验
+- 定性研究洞察
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis using Python/R
-- Machine learning basics
-- Neuroscience knowledge
-- AI ethics
+- 使用Python/R进行数据分析
+- 机器学习基础
+- 神经科学知识
+- AI伦理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mental health
-- AI psychology
-- Clinical psychology
-- Organizational psychology
+- 心理健康
+- AI心理学
+- 临床心理学
+- 组织心理学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued for invitation as professional research personnel. Bachelor's degree and experience required. |
-| Subclass D-10 (Job Seeking) | Stay for job-seeking after degree. Visa conversion possible. |
-| Subclass F-2 (Residence) | Long-term stay possible via points system. Favorable for skilled workers. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy data analysis and logical reasoning
-- People with high interest in human behavior and patience
-- People who prefer academic research environments
+- 喜欢数据分析和逻辑推理的人
+- 对人类行为高度感兴趣且有耐心的人
+- 偏好学术研究环境的人
 
 **谁不适合**
-- People who want immediate results
-- People who prefer machines over direct human interaction
+- 追求立竿见影效果的人
+- 喜欢机器而非直接人际互动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a psychology researcher?**
-答：For universities and research institutes, approximately 28~35 million KRW, varying by corporate research institutes or experience.
+**问：心理学研究员的起薪是多少？**
+答：对于大学和研究所，约2800~3500万韩元，企业研究机构或有经验者有所不同。
 
-**问：What visa does a foreigner need to work as a psychology researcher in Korea?**
-答：E-7 visa is common, requiring a bachelor's degree or higher and experience. Job-seeking via D-10 visa before conversion is also possible.
+**问：外国人在韩国作为心理学研究员工作需要什么签证？**
+答：E-7签证常见，要求本科及以上学历和经验。也可先持D-10求职签证再转换。
 
-**问：What degree is essential to become a psychology researcher?**
-答：Typically a master's degree or higher is required, and a doctoral degree is advantageous for research positions.
+**问：成为心理学研究者需要什么学位？**
+答：通常需要硕士或更高学位，博士学位对研究职位有利。
 
 
 ---
@@ -147,12 +140,12 @@ After obtaining a master's or doctoral degree, builds experience at universities
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/psychology-researcher/KR)**

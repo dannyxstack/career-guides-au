@@ -53,8 +53,6 @@ Fruit farm workers perform seasonal tasks such as picking, grading, packing, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fruit farm workers face high automation risk; tasks like picking, grading, and packaging are gradually replaced by robots and AI vision systems; entry-level positions will significantly shrink.
-
 Entry-level workers can advance to team leader or farm supervisor through experience, some later move to horticulture technician or farm management roles, but require additional training or diploma.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level workers can advance to team leader or farm supervisor through experi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Requires prolonged standing, bending, walking, and lifting 10-20 kg. Also ada
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-farm-worker/NZ)**

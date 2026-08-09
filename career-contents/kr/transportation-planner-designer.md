@@ -4,8 +4,6 @@
 
 A professional responsible for planning and designing transportation infrastructure such as roads, railways, and airports, conducting traffic system analysis and optimal route design.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional responsible for planning and designing transportation infrastruct
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation assist with data analysis and simulation in transportation planning design, but creative decision-making and field experience remain with humans, limiting their impact.
-
 Career progression from junior designer to mid-level designer, responsible engineer, and project manager or consultant. Obtaining professional engineer certification is important.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Career progression from junior designer to mid-level designer, responsible engin
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | A visa for professional employment requiring relevant experience and degree in transportation planning |
-| Subclass D-10 (Job-seeking) | usable for job seeking after study, visa extension possible |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Yes, it is possible. A bachelor's degree in transportation or related field a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-planner-designer/KR)**

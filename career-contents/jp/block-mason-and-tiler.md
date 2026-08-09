@@ -51,8 +51,6 @@ A construction skilled worker who finishes walls and floors using blocks and til
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and robotics automation is difficult in this field; instead, AI is used for construction management and quality inspection efficiency. Skilled craftsmanship remains important, with AI supplementing to improve productivity.
-
 Start as an apprentice, obtain skill certification to become a mid-level worker. Advancement to foreman, site supervisor, or independent business ownership is possible.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Start as an apprentice, obtain skill certification to become a mid-level worker.
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Specified Skilled Worker (i) in construction. Requires skills and Japanese language exams. Max 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when engaging in technical or knowledge-based work as a professional at a construction company. |
-| Subclass 技能実習（建設関係） (Technical Intern Training (i), (ii), (iii)) | Program to transfer skills in block laying and tile setting to home country. Max 5 years. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: National certifications such as Block Construction Technician or Tile Setting
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/block-mason-and-tiler/JP)**

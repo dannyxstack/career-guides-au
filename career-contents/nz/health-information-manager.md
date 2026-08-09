@@ -54,8 +54,6 @@ Health Information Managers in New Zealand public hospitals and health agencies 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of Health Information Managers (clinical coding, data management) significantly threatened by AI, but strong human decision-making needed for regulatory compliance and privacy. Entry-level roles narrowing; mid-senior roles require more composite skills due to AI tools.
-
 Career path: Start as a clinical coder or medical records assistant, advance to health information manager, data quality supervisor, then to health information manager or regional information supervisor. Certification from Health Informatics New Zealand (HiNZ) can boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Start as a clinical coder or medical records assistant, advance to 
 | Subclass SMC (Skilled Migrant Category) | Theoretically possible, but the occupation is not in shortage; requires a 6-point system and salary twice the median (approx. NZ$130,000) or high qualifications, practically extremely difficult |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Health Information Manager is not on the Green List, so this pathway is not applicable |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires the University of Otago's Health Information Management ba
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-information-manager/NZ)**

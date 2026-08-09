@@ -4,8 +4,6 @@
 
 A sports trainer is a professional who guides individuals or team athletes in improving physical fitness, technical training, injury prevention and rehabilitation, and is responsible for exercise prescription and training program design.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A sports trainer is a professional who guides individuals or team athletes in im
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Although AI and automation technology are unlikely to completely replace the work of sports trainers, they are being introduced as auxiliary tools in exercise analysis (posture correction, load measurement) and data-driven program design, and simple repetitive tasks are expected to be reduced. Face-to-face coaching and personalized guidance will remain core roles for human trainers.
-
 Short-term: Employment at a fitness center or sports center after accumulating experience. Mid-term: Acquire certifications (e.g., Life Sports Instructor, NSCA) and develop specialized fields (rehabilitation, senior sports). Long-term: Transition to team trainer, graduate school, or sports science researcher.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Short-term: Employment at a fitness center or sports center after accumulating e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible for an experienced sports trainer to be invited as a regular employee by a pro team, school, etc., but not common. |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible via points system. May grant extra points for sports career. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +134,12 @@ A: In fitness centers, there is a path from team leader→branch manager; in pro
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-trainer/KR)**

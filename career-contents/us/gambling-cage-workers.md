@@ -53,8 +53,6 @@ Handle financial transactions for customers in a casino, including exchanging ch
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Casino tellers face high automation substitution risk; AI will take over all standardized financial transaction processing tasks, significantly reducing job numbers, retaining only a few supervisory and management roles.
-
 Junior cashiers can advance to senior cashier or supervisor, then further move to casino finance departments like auditing or accounting. Some staff transition to broader finance by obtaining accounting certificates.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior cashiers can advance to senior cashier or supervisor, then further move t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Very difficult. This occupation usually does not require a bachelor's degree,
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-cage-workers/US)**

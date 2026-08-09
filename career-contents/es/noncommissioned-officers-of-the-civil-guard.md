@@ -4,8 +4,6 @@
 
 National Guard NCOs are mid- to lower-level officers within the Spanish armed forces and law enforcement agencies, responsible for commanding patrols, maintaining public order, border control, traffic enforcement, and counterterrorism operations. They must pass rigorous physical tests and military training.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ National Guard NCOs are mid- to lower-level officers within the Spanish armed fo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has limited replacement of military tasks, but clerical, planning, and intelligence analysis roles are threatened by automation; AI enhances situational awareness and decision support, presenting both opportunities and risks.
-
 Internal promotion path: It usually takes 8-12 years to advance from soldier to sub-officer, after which further selection and training can lead to promotion to Suboficial Mayor or Oficial. Outstanding performers may enter special units such as counterterrorism and anti-narcotics.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Internal promotion path: It usually takes 8-12 years to advance from soldier to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | In theory, foreign citizens can apply through work contracts, but National Guard positions are limited to Spanish or EU citizens, effectively closing immigration pathways. |
-| Subclass Busqueda empleo (Job Search Visa) | Not applicable for such positions, as Spanish nationality is required. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Requires completion of upper secondary education (Bachillerato) or equivalent
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncommissioned-officers-of-the-civil-guard/ES)**

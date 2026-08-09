@@ -4,8 +4,6 @@
 
 Operate and monitor routing, folding, and binding machinery to complete post-processing of printed materials (such as folding, labeling, and binding) to ensure production quality and efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate and monitor routing, folding, and binding machinery to complete post-pro
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Tasks for routing/folding machine operators are highly streamlined; AI visual inspection and predictive maintenance will greatly improve efficiency, but physical operations and exception handling still require manual labor, with overall risks moderately optimistic.
-
 You can be promoted from operator to production team leader or equipment commissioner, or develop into digital printing technician or prepress/postpress process engineer. Continuous learning about new equipment and software is key.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ You can be promoted from operator to production team leader or equipment commiss
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Requires a French employer sponsor and review by the Labor Bureau; Non-urgent occupations, with moderate approval difficulty. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If a senior technician or management position, annual salary of €38,000+ can apply; requires employer contract. |
-| Subclass Recherche emploi (Job Search / Business Creation) | French graduates can apply for a 12-month job-seeking residence period, and after finding a relevant job, they transfer to Salarié. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: CAP (Production Machinery Operation) or BTS Printing and Media Diploma is usu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/routing-and-folding-machine-operator/FR)**

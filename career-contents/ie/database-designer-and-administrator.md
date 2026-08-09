@@ -52,8 +52,6 @@ Responsible for designing, implementing, maintaining, and managing database syst
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
-
 Can progress from junior DBA to senior DBA, database architect, or data engineer. Obtaining cloud platform certifications (e.g., AWS, Azure) can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior DBA to senior DBA, database architect, or data engineer
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in shortage, annual salary at least 30,000 euros, requires labor market test |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with an annual salary exceeding 1.5 times the average wage (approximately €42,000) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: With digital transformation and growing data volumes, demand continues to ris
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-designer-and-administrator/IE)**

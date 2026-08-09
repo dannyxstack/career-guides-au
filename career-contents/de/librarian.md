@@ -53,8 +53,6 @@ Librarians manage and organize books, journals, digital resources, provide infor
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on librarians is mixed: basic search and cataloging will be automated, but complex reference, information literacy education, and resource strategic planning are enhanced by AI; the moat lies in interpersonal service and decision-making skills.
-
 entry-level librarians can advance to professional librarians or department heads through further training, with career progression including library director and senior consultant. Continuing education (e.g., Master's in Information Science) helps move towards data management or digital library roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ entry-level librarians can advance to professional librarians or department head
 | Subclass Chancenkarte (Opportunity Card) | Implemented from 2024, based on a points system, allowing job seekers who have not yet found a job to enter Germany for one year to search for work. Suitable for those with a library science background. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows highly qualified individuals to stay in Germany for 6 months to find work; must prove sufficient financial means. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: There are two main paths: one is to complete a 3-year dual training program (
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/librarian/DE)**

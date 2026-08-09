@@ -54,8 +54,6 @@ Operate metal forming equipment (such as stamping machines, press brakes, forgin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Many tasks for metal forming equipment operators (such as parameter settings and quality inspection) can be optimized or automated by AI, but equipment maintenance and fault response partially rely on physical perception and on-site judgment, resulting in mixed outcomes.
-
 Junior operators can be promoted to senior operators or team leaders, and those learning programming and debugging can transition to CNC technicians or production supervisors. Some experienced candidates may transition to mold workers or quality inspectors. Continuing education can be upgraded to industrial technician.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior operators can be promoted to senior operators or team leaders, and those 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié Visa (Employee)) | Suitable for skilled workers who have obtained a contract with a French employer and must meet the salary threshold (usually ≥ SMIC) |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled talent or innovative projects, processes can be streamlined so spouses can work |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to annual salaries≥ 1.5 times the French average wage (about 53,000 euros), which metal forming operators usually find difficult to achieve |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: This profession is in short demand in France, especially in industrial-dense 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-forming-equipment-operator/FR)**

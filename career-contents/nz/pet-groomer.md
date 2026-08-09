@@ -53,8 +53,6 @@ Pet groomers in New Zealand provide pet washing, trimming, and styling services 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 Career path: start as a pet grooming assistant or apprentice, gain experience to become an independent groomer, then advance to senior groomer or store supervisor. Some open personal studios or chain pet grooming stores.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: start as a pet grooming assistant or apprentice, gain experience to
 | Subclass SMC (Skilled Migrant Category) | If the salary reaches the median wage (about NZ$29.66/hour) and the work duration meets requirements, skilled migration may be possible through the 6-point system |
 | Subclass Partner of a Worker (Partner of a Worker Work Visa) | If the spouse holds an AEWV or SMC-related work visa, they can apply for a partner work visa to work in New Zealand |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires completion of a 3-6 month short course or 1-2 year apprent
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pet-groomer/NZ)**

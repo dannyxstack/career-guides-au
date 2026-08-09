@@ -53,8 +53,6 @@ Cutting, grinding, and polishing eyeglasses, contact lenses, or other precision 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Ophthalmic laboratory technician's repetitive manual tasks (e.g., cutting, grinding, polishing optical components) are easily automated, but customized lens processing from growing demand for optometrists still supports some positions.
-
 Progress from junior technician to senior technician, supervisor, or quality inspector, or transition to optometry or optical equipment sales.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Progress from junior technician to senior technician, supervisor, or quality ins
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very limited, as a bachelor's degree is usually not required, making it hard 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ophthalmic-laboratory-technicians/US)**

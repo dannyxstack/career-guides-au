@@ -52,8 +52,6 @@ Engaging in glass cutting, grinding, polishing, drilling, coating, and decorativ
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 Start as an apprentice (Glasveredler), then advance to section leader or technical specialist, or become a glass technician or corporate trainer through further education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as an apprentice (Glasveredler), then advance to section leader or technic
 | Subclass Skilled Worker (Skilled Immigrant Visa (Employment)) | Applicable to skilled workers holding a German-recognized vocational qualification with employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based opportunity card for coming to Germany to find work, suitable for those with professional qualifications. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, through the Anerkennung procedure to assess equivalence with German voca
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-finisher/DE)**

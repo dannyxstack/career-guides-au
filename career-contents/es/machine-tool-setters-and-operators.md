@@ -51,8 +51,6 @@ Responsible for setting up, adjusting, and operating various metal cutting machi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact of AI and automation on machinist roles is mixed: CNC machines and smart programming will replace some operational tasks, but complex custom work, repair, and debugging still rely on human experience, shifting demand toward higher-skilled roles.
-
 Promotion from junior operator to senior technician, programmer, or production supervisor; Transition to CNC programming or industrial robot operations and maintenance through FP advanced studies or corporate training, or be promoted to workshop director or technical consultant.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Promotion from junior operator to senior technician, programmer, or production s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employer sponsorship is required, proving the position cannot be recruited within the EU; Relevant work experience or FP degree is usually required. |
-| Subclass Tarjeta azul UE (EU Blue Card) | At least 3 years of relevant experience or higher education required, with an annual salary meeting the minimum threshold (about 33,600 euros), suitable for technical professionals. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: Typically, you need to complete the 2-year FP Grado Medio (intermediate vocat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-tool-setters-and-operators/ES)**

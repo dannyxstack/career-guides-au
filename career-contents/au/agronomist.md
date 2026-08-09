@@ -52,8 +52,6 @@ Agronomists study crops, soil, and climate to optimize agricultural production a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Most of an agronomist's tasks in data analysis, report generation, and knowledge retrieval will be automated by AI, but on-site decision-making and farmer communication still rely on human experience, increasing competition for entry-level positions.
-
 Junior agronomists can advance to senior agronomist or agricultural manager, or move into research, consulting, or agribusiness management. With experience, can become independent consultant or farm owner.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior agronomists can advance to senior agronomist or agricultural manager, or 
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional sponsored visa, suitable for working in regional areas |
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requires employer nomination, can transition to 186 permanent residency. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: From assistant agronomist to senior agronomist, can advance to farm manager, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agronomist/AU)**

@@ -1,10 +1,8 @@
-# Recreation Specialist 职业分析 · 韩国
+# 娱乐专家（Recreation Specialist）职业分析 · 韩国
 
-**职业代码: 42043 (KECO)**
+**职业代码：42043 (KECO)**
 
-A professional who plans and operates various leisure and recreation programs, helping participants have enjoyable and beneficial experiences.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+规划并运营各种休闲娱乐项目的专业人员，帮助参与者获得愉快且有益的体验。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who plans and operates various leisure and recreation programs, h
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Leisure/Sports related) | 2 年 | $6,000,000~$12,000,000（Public institution standard） |
-| Bachelor's degree (Physical Education, Tourism, Leisure Studies) | 4年 | $15,000,000~$30,000,000（Private higher） |
-| Private certification course | 3~12个月 | $500,000~$3,000,000（Varies by certification type） |
+| 副学士学位（休闲/体育相关） | 2 年 | $6,000,000~$12,000,000（公共机构标准） |
+| 学士学位（体育、旅游、休闲研究） | 4年 | $15,000,000~$30,000,000（私立高等教育） |
+| 私人认证课程 | 3~12个月 | $500,000~$3,000,000（因认证类型而异） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who plans and operates various leisure and recreation programs, h
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Recreation Instructor | Korea Recreation Association | 可选 | Private certification; advantageous for employment |
-| Lifestyle Sports Instructor | Korea Sports Promotion Foundation | 可选 | National certification; advantageous for public sector jobs |
-| Youth Instructor | Ministry of Gender Equality and Family | 可选 | Essential for youth sector |
+| 休闲指导员 | 韩国休闲协会 | 可选 | 私人认证；对就业有利 |
+| 生活方式体育教练 | 韩国体育振兴公团 | 可选 | 国家认证；对公共部门职位有利 |
+| 青少年指导员 | 性别平等与家庭部 | 可选 | 对青年领域至关重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. The recreation field continues to grow due to increased leisure demand and work-life balance emphasis, but post-COVID, restoring in-person programs and integrating non-face-to-face approaches are key challenges.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。休闲领域因休闲需求增加和强调工作生活平衡而持续增长，但疫情后恢复线下项目并融合非面对面方式仍是关键挑战。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A professional who plans and operates various leisure and recreation programs, h
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Small businesses low, public institutions high |
-| Mid-level (4–9 years) | $30,000,000~$42,000,000 | Program Planner Level |
-| 资深（10年以上） | $42,000,000~$55,000,000 | Center Director/Team Leader Level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 小企业低，公共机构高 |
+| 中级（4-9年） | $30,000,000~$42,000,000 | 项目规划师级别 |
+| 资深（10年以上） | $42,000,000~$55,000,000 | 中心主任/团队负责人级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can replace some repetitive program operations and data analysis tasks, but creative program planning and human interaction remain human domains. Overall, some tasks may be reduced or replaced.
+AI可以替代一些重复性的程序操作和数据分析任务，但创意的节目策划和人际互动仍属人类领域。总体而言，部分任务可能会减少或取代。
 
-Career path: Entry-level activity assistant → Program planner → Team leader/Center director. Private certifications and experience are important, with specialization in areas like seniors or children recognized.
+职业路径：入门级活动助理 → 项目策划 → 团队负责人/中心主任。私人认证和经验很重要，在老年人或儿童等领域的专业化获认可。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Administrative and Schedule Management
-- Simple Survey and Statistical Processing
-- Standardized Recreation Game Facilitation
+- 行政与日程管理
+- 简单调查与统计处理
+- 标准化休闲游戏引导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized Program Recommendations for Participants
-- Experience Program Planning Using VR/AR
-- Data-Driven Program Effectiveness Analysis
+- 为参与者定制项目推荐
+- 使用VR/AR的体验项目规划
+- 基于数据的项目效果分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Planning Ability
-- Interpersonal and Empathy Skills
-- Improvisation and Atmosphere Management
+- 创意策划能力
+- 人际与同理心技能
+- 即兴创作与氛围管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Literacy
-- VR/AR Content Planning
-- Basic Data Analysis
-- Program Evaluation and Feedback Utilization
+- 数字素养
+- VR/AR内容策划
+- 基础数据分析
+- 项目评估与反馈利用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Leisure Industry
-- Experiential Program
-- Work-Life Balance
-- Aging Response
+- 休闲产业
+- 体验式项目
+- 工作与生活平衡
+- 老龄化应对
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Specialized area (e.g. sports instructor) possible, but general recreation is difficult |
-| Subclass F-2 (Residence) | Permanent residents only, general employment permitted |
-| Subclass F-4 (Overseas Koreans) | Employment in service industry possible only for overseas Koreans |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy meeting others and are outgoing
-- People who enjoy creatively planning programs
-- A person skilled in communicating with various age groups
+- 喜欢与人交往、性格外向的人
+- 喜欢创造性规划节目的人
+- 擅长与各年龄段人群沟通的人
 
 **谁不适合**
-- People who prefer to work alone
-- Those who want only regular and predictable work
+- 偏好独自工作的人
+- 只想要规律可预测工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a recreation specialist?**
-答：Entry-level is about 24-30 million won, while senior-level with over 10 years of experience is around 42-55 million won. Public institutions tend to pay more than private ones.
+**问：娱乐专员的平均工资是多少？**
+答：入门级约2400-3000万韩元，10年以上经验的高级岗位约4200-5500万韩元。公共机构通常比私人机构薪资更高。
 
-**问：Can foreigners work in this job in Korea?**
-答：Fields eligible under the E-7 visa are limited, and general recreation is not included, making it difficult. It is more open to long-term residents with F-2, F-4 visas or overseas Koreans.
+**问：外国人在韩国可以从事这个工作吗？**
+答：E-7签证下符合条件的领域有限，一般休闲不包括在内，因此困难。对持有F-2、F-4签证或海外韩裔的长期居民更开放。
 
-**问：Are there mandatory certifications?**
-答：There are no legally required certifications, but having a Recreation Instructor (private) or Life Sports Instructor (national) is advantageous for employment.
+**问：是否有强制性认证？**
+答：没有法律要求的认证，但拥有休闲教练（私人）或生活体育教练（国家）证书对就业有利。
 
 
 ---
@@ -147,12 +137,12 @@ Career path: Entry-level activity assistant → Program planner → Team leader/
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/recreation-specialist/KR)**

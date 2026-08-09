@@ -4,8 +4,6 @@
 
 A professional who provides consulting and auditing on the establishment and operation of information and communication systems, verifying project quality and compliance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who provides consulting and auditing on the establishment and ope
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can automate some analysis tasks, but human roles are essential for customized consulting and audit judgments. It will evolve toward using AI as a tool.
-
 Starting as a junior consultant/auditor, one can advance to project leader, senior consultant, partner, or specialized auditor with experience.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a junior consultant/auditor, one can advance to project leader, seni
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for employment as an ICT expert, requires bachelor's degree and experience |
-| Subclass F-2 (Residence) | Granted to long-term residents, convertible to points-based system |
-| Subclass D-10 (Job Seeking) | Available for international students after graduation, requires E-7 conversion |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: An associate degree or higher is common, and certifications like Information 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-consultant-and-auditor/KR)**

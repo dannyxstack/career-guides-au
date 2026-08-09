@@ -51,8 +51,6 @@ Mechanical engineers design, develop, test, and maintain mechanical systems and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mechanical Engineers face mixed impacts from AI: routine design, simulation, and documentation tasks will be automated, but complex system integration, innovation, and on-site problem-solving remain highly valuable.
-
 Junior mechanical engineers can advance to project manager, technical expert, or R&D supervisor; senior engineers can become chief engineer or technical director.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Junior mechanical engineers can advance to project manager, technical expert, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring an annual salary of at least approximately €25,000 (2024 standard) and a contract of at least 1 year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Subject to annual quota limits, applicable to general skilled workers, requiring employer sponsorship. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Not mandatory, but registration with the Albo Engineers Association is requir
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/IT)**

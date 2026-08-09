@@ -51,8 +51,6 @@ Environmental research scientists use scientific methods to study issues like en
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Start with entry-level positions such as environmental monitoring technician, and gradually advance to project manager or research supervisor. Senior scientists can move into management (e.g., environmental manager) or transition to policy consulting or academic research. Cross-disciplinary skills (e.g., GIS, data analysis) help with advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start with entry-level positions such as environmental monitoring technician, an
 | Subclass 190 (Skilled Nominated Visa) | Requires state nomination, usually with extra points, permanent residency. |
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, can transition to 186 permanent residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. This occupation is on the MLTSSL, eligible for 189/190/482 visas, and re
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-research-scientist/AU)**

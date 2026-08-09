@@ -52,8 +52,6 @@ An arts manager plans, organises, and directs the operations of an arts institut
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roles in arts management or administration will see significant automation of administrative tasks (e.g., budgeting, scheduling) due to AI, while AI tools will enhance marketing, audience analysis, and strategic planning. Managers will need to shift to higher-level creative and human decision-making.
-
 Career path typically starts as coordinator or assistant; with experience, can advance to department manager or director. Senior managers may become CEO of large arts organizations or start their own art consulting firms.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path typically starts as coordinator or assistant; with experience, can a
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional skilled migration provisional visa; can transfer to 191 permanent residency after meeting conditions. |
 | Subclass 186 (Employer Nomination Scheme (ENS) Visa) | Employer-sponsored permanent residence visa, requires employer nomination and skills assessment |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Start as an assistant or coordinator, advance to manager, senior manager, and
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arts-administrator-or-manager/AU)**

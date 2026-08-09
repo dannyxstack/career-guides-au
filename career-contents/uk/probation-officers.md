@@ -51,8 +51,6 @@ Probation officers supervise and counsel offenders, assisting them in reintegrat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on probation officers is mixed: administrative report writing, risk screening tasks can be automated, but core interpersonal supervision, court communication, and crisis intervention rely on human judgment and are hard to replace in the short term. Job demand will shift rather than disappear.
-
 Can progress from probation officer to senior probation officer, team manager, or regional manager, and also move into youth justice, victim support, or policy roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from probation officer to senior probation officer, team manager, o
 | Subclass Skilled Worker (Skilled Worker visa) | Applies to probation officers with employer sponsorship, occupation code 2462, meeting salary threshold of £26,200/year or industry standard. |
 | Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing 2-3 years of work, then transitioning to a skilled worker visa after gaining experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, SOC 2462 is on the Home Office's list of eligible occupations. You must 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/probation-officers/UK)**

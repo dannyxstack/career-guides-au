@@ -4,8 +4,6 @@
 
 Security assistants are entry-level positions in Spain's security industry, mainly assisting certified security guards with patrols, surveillance, and access management, but carrying weapons is not allowed. This position usually does not require higher education and is the starting point for entering the security field.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Security assistants are entry-level positions in Spain's security industry, main
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Security assistant positions will be significantly reduced in entry-level positions due to automated monitoring and AI analysis replacing routine patrols and record-keeping, but their firearm skills and interpersonal judgment will still retain human advantages.
-
 Career advancement can be achieved through experience accumulation and obtaining a firearm license to become a full-fledged security guard (Vigilante de Seguridad), and further advance to Security Supervisor or Safety Manager. Some personnel may shift to private investigations or corporate security fields.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Career advancement can be achieved through experience accumulation and obtaining
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta Ajena)) | To apply for employment-based work residence through a work contract provided by a Spanish company, it is necessary to prove that the position cannot be filled by a local national. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: It's possible, but the difficulty is greater. A Spanish company sponsorship i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guard-assistant/ES)**

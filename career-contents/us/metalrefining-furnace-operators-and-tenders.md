@@ -53,8 +53,6 @@ Operate or tend metal refining furnaces (e.g., electric arc furnaces, induction 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Starting as a furnace operator, can progress to team leader, smelting supervisor; with experience can move to metallurgical technician or quality control roles, requiring additional training.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as a furnace operator, can progress to team leader, smelting supervisor
 | Subclass H-1B (H-1B Specialty Occupations) | Theoretically possible, but employers need to prove the position requires a bachelor's degree or higher; practically difficult. |
 | Subclass Green Card (PERM) (EB-3 Skilled Worker) | Requires PERM labor certification, but this occupation is not a shortage occupation; low approval rate. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: BLS projects employment change from 2023-2033 of about -1% to 1%, little or n
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metalrefining-furnace-operators-and-tenders/US)**

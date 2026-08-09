@@ -4,8 +4,6 @@
 
 Responsible for non-clinical logistics and support services within the hospital, including cleaning, patient transfer, material distribution, and basic nursing assistance, ensuring a safe and healthy medical environment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for non-clinical logistics and support services within the hospital,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will significantly improve the efficiency of non-clinical tasks for multi-skilled hospital service staff, but some repetitive tasks such as cleaning and transportation face replacement risks, while assistive nursing work is being strengthened, resulting in a mixed overall job structure.
-
 Usually, starting from grassroots positions, through internal training one can be promoted to team leader or transition to clinical support roles such as nursing assistants, requiring qualifications such as the National Diploma in Nursing Assistant (DEAS).
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Usually, starting from grassroots positions, through internal training one can b
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Requires employer sponsorship, proof of recruitment difficulties and meeting salary threshold, usually a CDI contract |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | French graduates can apply for a one-year job-seeking residence permit, allowing them to find work throughout France |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Low possibility as this is low-skill category, hard to meet skilled migration
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospital-services-multiskilled-worker/FR)**

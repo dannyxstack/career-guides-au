@@ -53,8 +53,6 @@ Responsible for loading/unloading luggage, cargo, and mail at airport, operating
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Airport ground staff (aircraft loaders) face significant automation risk; manual labor and simple repetitive tasks are easily replaced by machines, entry barriers are further lowered, and job numbers may shrink.
-
 Can be promoted from general loader to team leader or supervisor, or transition to roles such as cargo operations or flight scheduling. Some obtain licenses or certificates to become equipment operators.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can be promoted from general loader to team leader or supervisor, or transition 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually requires only a valid driver's license and employer-provided safety t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-transport-ramp-attendants/CA)**

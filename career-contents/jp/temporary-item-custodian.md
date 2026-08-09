@@ -4,8 +4,6 @@
 
 Workers who temporarily store and manage customer luggage at coin lockers or baggage storage in stations and commercial facilities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Workers who temporarily store and manage customer luggage at coin lockers or bag
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of coin lockers and automatic check-in machines, human tasks are declining. Many tasks are being replaced by AI and automation.
-
 In large facilities, mainly part-time or temporary workers. Accumulating experience can lead to managerial or leadership roles, but career scope is narrow.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ In large facilities, mainly part-time or temporary workers. Accumulating experie
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Accommodation & Food Service)) | Applicable in accommodation/food service, but not directly for temporary storage of items. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Difficult to obtain due to insufficient expertise. |
-| Subclass 技能実習 (Technical Intern Training (not applicable)) | Not applicable. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: You can also polish your customer service skills and transition to the travel
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/temporary-item-custodian/JP)**

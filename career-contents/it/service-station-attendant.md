@@ -4,8 +4,6 @@
 
 Responsible for fueling, cashiering, customer service, and basic vehicle maintenance at gas stations; an entry-level role in the retail service industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for fueling, cashiering, customer service, and basic vehicle mainten
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
-
-Service station attendant roles will face significant impact from automated checkout and payment systems, but AI-enhanced customer service and vehicle maintenance capabilities create new value-added opportunities. While the total number of positions may decrease in the short term, the skill requirements for remaining jobs will increase.
 
 Can advance from gas station attendant to site supervisor or regional manager, or transition to retail, customer service, or logistics.
 
@@ -100,16 +96,9 @@ Can advance from gas station attendant to site supervisor or regional manager, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU low-skilled workers, but gas station attendants are usually not on priority occupation lists, and quotas are limited. |
-| Subclass EU Freedom of Movement (EU Free Movement) | EU/EEA citizens only; no visa required to work in Italy. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Very difficult. This occupation is not in high demand, and the Decreto Flussi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-station-attendant/IT)**

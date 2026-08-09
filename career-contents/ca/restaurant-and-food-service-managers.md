@@ -52,8 +52,6 @@ Food service managers oversee daily operations of restaurants, cafes, etc., incl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation is significantly compressing low-to-medium tasks for food service managers, such as scheduling optimization, inventory counting, order processing—algorithms take over, but interpersonal coordination, crisis management, and innovation management remain core moats.
-
 You can advance from chef or head waiter to assistant manager, manager, then to regional manager and operations director. With experience, you can start your own restaurant or join a franchise chain.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ You can advance from chef or head waiter to assistant manager, manager, then to 
 | Subclass PNP (Provincial Nominee Program) | Suitable for those with employer sponsorship or specific provincial needs, e.g., BC PNP for food service management. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, job offer required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. It is NOC B, can go through Express Entry (FSW/CEC) or PNP. Requires at 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-and-food-service-managers/CA)**

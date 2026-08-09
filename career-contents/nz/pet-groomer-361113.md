@@ -53,8 +53,6 @@ Pet groomers provide services such as bathing, clipping, styling, and nail trimm
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 Junior pet groomers can advance to senior groomers or store managers, and with experience can start their own studios. Some groomers become certified mentors or judges. The industry in New Zealand has high recognition, but advancement requires continuous learning of styling skills and customer service.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior pet groomers can advance to senior groomers or store managers, and with e
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Mainly NZPGI Pet Grooming Certificate Level 3 (3-6 months, about NZD 3,000-8,
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pet-groomer-361113/NZ)**

@@ -53,8 +53,6 @@ CNC machinists operate and programme CNC lathes, milling machines and other prec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 CNC technology continues to advance (5-axis machining centres), with a clear salary premium for operators skilled in CAD/CAM programming. Automated loading and unloading aids improve efficiency, but programming judgement still requires human input.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ CNC technology continues to advance (5-axis machining centres), with a clear sal
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 190 (Skilled Nominated) | VIC/SA manufacturing state nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Requires a TRA skills assessment (12–18 months), including submission of ma
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cnc-machinist/AU)**

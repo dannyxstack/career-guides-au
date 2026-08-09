@@ -53,8 +53,6 @@ Door-to-door sales representatives directly visit residences or businesses to pr
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Door-to-door salespeople face the dual impact of AI automation: lead screening, call scheduling, and script memorization will be replaced by AI, but interpersonal interaction, trust building, and complex negotiation still require humans—a mixed blessing career.
-
 Junior sales staff can advance to sales team leader or regional manager, or transition to telemarketing or retail management. However, career progression is limited by performance; some choose self-employment or start a sales agency.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior sales staff can advance to sales team leader or regional manager, or tran
 | Subclass General Employment P (General Employment Permit) | Applicable for non-occupations in shortage, requiring employer sponsorship and annual salary of at least 30,000 euros. However, door-to-door salespeople typically do not meet the salary requirement, and this role is not within the permitted category. |
 | Subclass EU Blue Card (EU Blue Card) | Requires high skills and an above-average annual salary; door-to-door salespeople are almost never eligible. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can be promoted from salesperson to sales supervisor, regional manager, or tr
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/doortodoor-salesperson/IE)**

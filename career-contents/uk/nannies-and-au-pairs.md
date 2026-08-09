@@ -55,8 +55,6 @@ Care for and supervise babies and young children at the employer's home, includi
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The nanny and au pair profession is mixed in its AI impact: simple housework and schedule management can be automated, but core infant emotional interaction, safety monitoring, and personalised care require human judgment; entry-level roles have narrowed slightly due to platform standardisation.
-
 Can advance from junior nanny to senior nanny or childcare manager; some may transition to early childhood education or childcare management roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can advance from junior nanny to senior nanny or childcare manager; some may tra
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Can advance to senior nanny, childcare housekeeper, or transition to roles su
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nannies-and-au-pairs/UK)**

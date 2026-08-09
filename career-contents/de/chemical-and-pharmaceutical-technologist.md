@@ -52,8 +52,6 @@ Engage in technical support, equipment operation, and quality control in chemica
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Overall positive for chemical engineers. AI optimizes process design, simulation, and data analysis, significantly improving efficiency; but watch for automation of routine tasks, with core value shifting to complex process innovation and interdisciplinary system integration.
-
 Can progress from technician to production supervisor or process engineer, or continue education to become lab manager or R&D specialist.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from technician to production supervisor or process engineer, or co
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship; vocational training or bachelor's degree acceptable |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, no employer required, can look for work in Germany. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Common pathway is three-year dual-system training, or a bachelor's degree at 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-and-pharmaceutical-technologist/DE)**

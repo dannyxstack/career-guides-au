@@ -1,10 +1,8 @@
-# Promotion Assistants and Sales Promoters 职业分析 · 韩国
+# 促销助理和销售推广员（Promotion Assistants and Sales Promoters）职业分析 · 韩国
 
-**职业代码: 61711 (KECO)**
+**职业代码：61711 (KECO)**
 
-A job that promotes products/services and boosts sales in stores or events, with main tasks including customer service and demonstrations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在商店或活动中推销产品/服务并促进销售的工作，主要任务包括客户服务和演示。
 
 
 ---
@@ -13,9 +11,9 @@ A job that promotes products/services and boosts sales in stores or events, with
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 3年 | $0~$0（Free Education） |
-| Associate's Degree (2-year) | 2 年 | $5,000,000~$15,000,000（Based on Tuition） |
-| Bachelor's Degree (4-year) | 4年 | $15,000,000~$40,000,000（Based on Tuition） |
+| 高中毕业 | 3年 | $0~$0（免费教育） |
+| 副学士学位（2年制） | 2 年 | $5,000,000~$15,000,000（基于学费） |
+| 学士学位（4年） | 4年 | $15,000,000~$40,000,000（基于学费） |
 
 ---
 
@@ -23,16 +21,16 @@ A job that promotes products/services and boosts sales in stores or events, with
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Not Applicable | — | 可选 | Hirable without special certification |
+| 不适用 | — | 可选 | 无需特殊证书即可聘用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Demand for promotional activities in the distribution and consumer goods market persists, but employment is expected to stagnate or slightly decline as digital marketing partially replaces it.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。分销和消费品市场对促销活动的需求持续存在，但随着数字营销部分替代，就业预计停滞或略有下降。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A job that promotes products/services and boosts sales in stores or events, with
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $20,000,000~$28,000,000 | Annual salary converted from hourly wage |
-| Mid Level (3-7 years) | $28,000,000~$35,000,000 | Includes part-time and allowances |
-| Senior Level (7+ years) | $35,000,000~$45,000,000 | When including management/planning tasks |
+| 入门级（0-3年） | $20,000,000~$28,000,000 | 按小时工资折算的年薪 |
+| 中级（3-7年） | $28,000,000~$35,000,000 | 包括兼职和津贴 |
+| 高级（7年以上） | $35,000,000~$45,000,000 | 包含管理/规划任务时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation are highly likely to replace simple promotional and demonstration tasks through promotional robots, chatbots, and automated demonstration technology. In particular, as online promotion and digital marketing expand, demand for offline promotional personnel will decrease.
+人工智能和自动化极有可能通过促销机器人、聊天机器人和自动演示技术取代简单的促销和演示任务。特别是随着在线促销和数字营销的扩展，对线下促销人员的需求将减少。
 
-After joining as a new hire, one can switch to sales/marketing within 1-2 years of experience, or work as a freelancer focusing on events and exhibitions.
+入职后1-2年经验可转至销售/营销，或作为自由职业者专注于活动与展览。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Product demonstration and explanation
-- Distribution of simple promotional materials
-- Visitor interaction scripts
+- 产品演示与说明
+- 简单宣传材料分发
+- 访客互动脚本
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer data collection and analysis
-- Customized proposals
-- Real-time social media promotion
+- 客户数据收集与分析
+- 定制方案
+- 实时社交媒体推广
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional empathy skills
-- Improvisational response
-- Brand storytelling
+- 情感共情能力
+- 即兴反应
+- 品牌故事讲述
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital marketing
-- SNS content creation
+- 数字营销
+- SNS内容创作
 - 客户关系管理（CRM）
-- Data analysis
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Promotion
-- Public Relations
-- Customer Service
-- Promotion
+- 晋升
+- 公共关系
+- 客户服务
+- 晋升
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Promotional work possible in manufacturing and service industries, but limited to simple labor. |
-| Subclass F-2 (Residence (F-2)) | Free employment possible when converted to points system, but application requirements are strict. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Extroverted and energetic person
-- People confident in customer service
-- People who can work flexible hours
+- 外向且精力充沛的人
+- 对客户服务有信心的人
+- 能灵活安排工作时间的人
 
 **谁不适合**
-- People who prefer introverted or solitary work
-- People who get bored with repetitive tasks
+- 喜欢内向或独自工作的人
+- 对重复性任务感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a promotional assistant?**
-答：For entry-level, pre-tax annual salary is about 20–28 million KRW, and since many positions are part-time, actual income varies greatly depending on hours worked.
+**问：促销助理的平均薪资是多少？**
+答：入门级税前年薪约2000-2800万韩元，且许多职位为兼职，实际收入因工作时长差异很大。
 
-**问：Can I get a Korean work visa for this job?**
-答：E-9 (Non-professional Employment) visa is possible, but simple promotional work is restricted and it does not qualify for Skilled Worker (E-7) visa.
+**问：这份工作我可以获得韩国工作签证吗？**
+答：E-9（非专业就业）签证可行，但限制简单促销工作，且不符合技术工人（E-7）签证资格。
 
-**问：Are there opportunities for promotion or career growth?**
-答：You can transition into sales/marketing or build a career as an event planner, but conversion to full-time employment is rare.
+**问：是否有晋升或职业发展的机会？**
+答：可转岗销售/营销或成为活动策划人，但转为全职雇员的情况较少。
 
 
 ---
@@ -144,12 +135,12 @@ After joining as a new hire, one can switch to sales/marketing within 1-2 years 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/promotion-assistants-and-sales-promoters/KR)**

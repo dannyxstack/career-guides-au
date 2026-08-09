@@ -51,8 +51,6 @@ Environmental engineers assess the environmental impact of engineering projects 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental engineers face a double-edged sword with AI: data analysis and report generation are automated, but on-site assessment, compliance decision-making, and cross-domain collaboration skills remain a moat; overall job demand grows due to ESG and renewable energy transitions, but entry-level competition intensifies.
-
 Junior environmental engineers can start from technical roles and gradually advance to senior consultant or project manager. With experience, can move into policy making or corporate ESG management, becoming industry leaders.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior environmental engineers can start from technical roles and gradually adva
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, qualifications and salary can accumulate points; suitable for those with work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | If employer is accredited, can obtain work visa first then transfer to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires a job offer from an employer, salary at least median (approx. 30+ NZ
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-engineer/NZ)**

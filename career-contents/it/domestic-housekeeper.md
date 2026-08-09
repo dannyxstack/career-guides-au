@@ -4,8 +4,6 @@
 
 Responsible for cleaning, organizing, and daily maintenance of private households, ensuring a tidy and orderly home environment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cleaning, organizing, and daily maintenance of private household
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Basic cleaning and organizing tasks of domestic service workers are being rapidly replaced by automation and robotic processes like smart vacuum cleaners and dishwashers. Entry-level positions will significantly decrease, and workers face notable unemployment risks.
-
 Can progress from junior housekeeper to senior housekeeper or household manager, with some transitioning to hotel or aged care cleaning management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Can progress from junior housekeeper to senior housekeeper or household manager,
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU domestic workers; requires employer to apply for quota, annual caps are competitive. |
-| Subclass EU Long-term Residence (EU Long-Term Residence) | Eligible for application after 5 years of legal work, requires stable income and housing. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Demand is higher in big cities, but competition is also fierce; it's advisabl
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/domestic-housekeeper/IT)**

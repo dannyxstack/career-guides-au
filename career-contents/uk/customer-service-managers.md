@@ -53,8 +53,6 @@ Customer service managers plan, organise, and coordinate resources to handle cus
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Customer service manager roles are compressed by automation and amplified by AI: routine inquiries, complaint classification, etc., are replaced by AI, but core values like strategy formulation, team management, and complex problem-solving are enhanced, showing a mixed impact overall.
-
 Progression from customer service representative to team leader, customer service manager, then senior manager or operations director. Some move into business development or project management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progression from customer service representative to team leader, customer servic
 | Subclass Scale-up (Scale-up Worker Visa) | High-skilled positions for fast-growing enterprises, must meet salary requirements. |
 | Subclass Graduate (Graduate Visa) | Allows UK graduates to work for 2 years (3 years for PhD) and then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically start as a customer service officer, progressing to supervisor, man
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-service-managers/UK)**

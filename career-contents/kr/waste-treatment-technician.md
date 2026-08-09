@@ -50,8 +50,6 @@ Professional technical personnel responsible for the design, operation, manageme
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI supports optimization and monitoring of waste treatment processes, but field judgment and technical qualifications require humans, so the risk of replacement is low.
-
 Career progression from junior technician to site supervisor, technical team leader, and environmental consultant is possible, with certification and experience being key.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Career progression from junior technician to site supervisor, technical team lea
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as skilled technical personnel. Environmental technicians or engineering fields. |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to simple waste processing tasks, not suitable as a technician. |
-| Subclass F-2 (F-2 (Residence)) | Favorable for long-term stay and employment, a step before permanent residency. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: The representative ones are Waste Treatment Engineer and Water Quality Enviro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-treatment-technician/KR)**

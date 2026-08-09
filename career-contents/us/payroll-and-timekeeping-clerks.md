@@ -53,8 +53,6 @@ Responsible for collecting and recording employee work hours and payroll data, c
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
-
 Can advance from entry-level data entry to senior payroll specialist or payroll manager, or transition to HR or accounting roles. Obtaining certification (e.g. CPP) can boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from entry-level data entry to senior payroll specialist or payroll 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. This occupation usually does not meet H-1B or EB-2/3 req
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-and-timekeeping-clerks/US)**

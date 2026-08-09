@@ -51,8 +51,6 @@ Responsible for monitoring and operating power generation equipment to ensure st
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
-
 Can advance to senior operator, team leader, or plant supervisor, or transition to roles in energy management, operations technology, etc.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Can advance to senior operator, team leader, or plant supervisor, or transition 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | applicable to Skills in Demand positions, eligible for permanent residency after 2 years of work |
 | Subclass General Employment P (General Employment Permit) | Requires labour market testing, renewable and convertible to permanent residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Must hold an HSA safety certificate; it is recommended to obtain an electrica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-production-plant-operator/IE)**

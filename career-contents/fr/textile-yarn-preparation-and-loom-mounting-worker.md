@@ -4,8 +4,6 @@
 
 Responsible for preparing yarns before textile production (winding, warping, sizing), as well as installing, debugging, and replacing looms (weaving machines, knitting machines) to ensure smooth weaving processes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for preparing yarns before textile production (winding, warping, siz
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Textile yarn preparation and loom installers face automation risks, especially in yarn handling and loom debugging; However, AI enhances maintenance and quality control capabilities, and humans still have an advantage in complex troubleshooting and process adjustments.
-
 Start as a junior yarn prep worker or weaving machine installation assistant, and after gaining experience, you can be promoted to senior weaving machine debugger or production supervisor. Some personnel may shift to textile equipment maintenance, quality control, or technical textiles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Start as a junior yarn prep worker or weaving machine installation assistant, an
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employment Authorization)) | A work contract with a French employer must be obtained and reviewed by the French Labor Bureau. |
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | If you qualify as a highly skilled worker or in a shortage occupation, you can apply for this visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Traditional textile jobs have poor prospects, but can shift to technical text
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-yarn-preparation-and-loom-mounting-worker/FR)**

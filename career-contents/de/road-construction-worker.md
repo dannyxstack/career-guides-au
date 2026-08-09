@@ -53,8 +53,6 @@ Engaged in the laying, maintenance, and repair of transportation infrastructure 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-some repetitive tasks of road and asphalt construction workers (e.g., road rolling, line marking) are easily replaced by automation, but field operations in complex environments, equipment maintenance, and emergency repairs still require human judgment; AI serves more as an auxiliary tool to enhance efficiency.
-
 Can advance from general worker to foreman (Vorarbeiter), site manager (Baustellenleiter), or through further training become a road construction technician (Straßenbautechniker) or even an engineer.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from general worker to foreman (Vorarbeiter), site manager (Baustell
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allowing job seekers to enter the country to find work |
 | Subclass EU Blue Card (EU Blue Card) | Only applicable to high-paying/shortage occupations; road construction workers usually do not qualify |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. Can become a foreman, construction supervisor, or advance to road constr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-construction-worker/DE)**

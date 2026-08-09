@@ -1,8 +1,8 @@
-# Electrical machinery equipment maintenance and repair worker 职业分析 · 日本
+# 电气机械设备维护与修理工人（Electrical machinery equipment maintenance and repair worker）职业分析 · 日本
 
-**职业代码: 552 (JSCO)**
+**职业代码：552 (JSCO)**
 
-Technical role inspecting, maintaining, and repairing electrical machinery like motors, transformers, and generators. High demand in manufacturing and maintenance services.
+检查、维护和修理电机、变压器、发电机等电气机械的技术角色。制造业和维修服务需求高。
 
 
 ---
@@ -11,9 +11,9 @@ Technical role inspecting, maintaining, and repairing electrical machinery like 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school (industrial course) | 3年 | $0~$1,000,000（Public schools low cost; private up to ¥1 million） |
-| Vocational school (electrical department) | 2 年 | $1,500,000~$2,500,000（Includes equipment and materials fees） |
-| University (Faculty of Engineering, Electrical and Electronic Engineering) | 4年 | $4,000,000~$6,000,000（Varies between national and private universities） |
+| 高中（职业课程） | 3年 | $0~$1,000,000（公立学校低成本；私立高达1百万日元） |
+| 职业学校（电气系） | 2 年 | $1,500,000~$2,500,000（包含设备和材料费） |
+| 大学（工程学院，电气与电子工程） | 4年 | $4,000,000~$6,000,000（国立和私立大学之间有所不同） |
 
 ---
 
@@ -21,19 +21,19 @@ Technical role inspecting, maintaining, and repairing electrical machinery like 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 2 Electrician | Ministry of Economy, Trade and Industry | 必备 | Required for basic electrical work |
-| Class 1 Electrician | Ministry of Economy, Trade and Industry | 可选 | Required for large facility work; advantageous for career advancement |
-| Chief Electrical Engineer | Ministry of Economy, Trade and Industry | 可选 | Required for safety supervision of workplaces; Class 3 or higher advantageous |
-| Electrical Machinery Equipment Maintenance Skill Worker | Ministry of Health, Labour and Welfare | 可选 | National skill certification; graded by level |
+| 二级电工 | 经济产业省 | 必备 | 基础电工工作必备 |
+| 一级电工 | 经济产业省 | 可选 | 大型设施工作需要；有利于职业发展 |
+| 首席电气工程师 | 经济产业省 | 可选 | 工作场所安全监督所需；三级或以上有优势 |
+| 电气机械设备维护技能工人 | 厚生劳动省 | 可选 | 国家技能认证；按等级划分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. With advancing automation and sophistication of electrical machinery, demand for maintenance and repair is expected to remain stable. Growing need for maintenance in renewable energy sectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。随着电气机械自动化和精密化的发展，维护和维修需求预计将保持稳定。可再生能源领域的维护需求日益增长。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,93 +41,85 @@ Technical role inspecting, maintaining, and repairing electrical machinery like 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,200,000 | Approx. 4 million yen including overtime |
-| Mid-level (4-9 years) | $4,200,000~$5,800,000 | Around 5 million yen for chief class |
-| 资深（10年以上） | $5,800,000~$8,000,000 | 7 million yen or more for managers/specialists |
+| 入门级（0-3年） | $3,000,000~$4,200,000 | 包括加班费约400万日元 |
+| 中级（4-9年） | $4,200,000~$5,800,000 | 科长级别约500万日元 |
+| 资深（10年以上） | $5,800,000~$8,000,000 | 经理/专家700万日元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and IoT support fault prediction and diagnosis, but actual disassembly, repair, and adjustment rely on humans. AI complements and improves efficiency but cannot fully replace humans. Skilled labor remains in high demand.
+AI和物联网支持故障预测与诊断，但实际拆卸、维修和调整依赖人工。AI辅助并提高效率，但不能完全取代人类。熟练劳动力仍然需求旺盛。
 
-Career progression to chief engineer or service engineer possible with skills. Options include internal promotion at manufacturers or starting own repair business.
+通过技能可晋升为总工程师或服务工程师。选择包括制造商内部晋升或开办自己的维修公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated diagnostic report creation
-- Recording of periodic inspections
-- Simple anomaly detection
+- 自动诊断报告生成
+- 定期检查记录
+- 简单异常检测
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault cause identification (AI suggests candidates)
+- 故障原因识别（AI推荐候选方案）
 - 自动化零件库存管理和订购
-- Remote support using AR
+- 使用AR进行远程支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Disassembly and reassembly of complex mechanisms
-- On-site quick decision-making
-- Human consideration for safety
+- 复杂机构的拆卸和重新组装
+- 现场快速决策
+- 安全的人为考量
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Combined knowledge of mechanics and electricity
-- Basics of AI and data analysis
-- Customer communication skills
+- 机电结合知识
+- AI和数据分析基础
+- 客户沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Renewable energy
-- Electric vehicles
-- Smart grids
-- Energy-saving equipment
+- 可再生能源
+- 电动汽车
+- 智能电网
+- 节能设备
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Eligible for electrical machinery maintenance. Max 5 years. Requires N4+ Japanese. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | For skilled workers, no residency limit, family allowed. Strict exam requirements. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For vocational school grads in technical roles. Includes maintenance. Duration: 1, 3, or 5 years. |
-| Subclass 技能 (Skilled Labor Visa) | For skilled workers with 10+ years experience. Includes electrical machinery. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity and attention to detail
-- Those interested in understanding electrical circuits
-- People who can work steadily following procedures
+- 灵巧且注重细节的人
+- 对理解电路感兴趣的人
+- 能按流程稳定工作的人
 
 **谁不适合**
-- Those who neglect safety checks
+- 忽视安全检查者
 - 厌恶单调工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of electrical machinery equipment maintenance and repair workers?**
-答：Depending on experience and qualifications, it ranges from about ¥3-4.2M for entry-level, ¥4.2-5.8M for mid-level, and ¥5.8-8M for advanced, including overtime.
+**问：电气机械设备维护与修理工人的平均年收入是多少？**
+答：根据经验和资格，入门级约300-420万日元，中级420-580万日元，高级580-800万日元，含加班费。
 
-**问：Is it possible to immigrate to Japan for work in this occupation?**
-答：Yes, via the Specified Skilled Worker (i) visa (manufacturing sector) or the Engineer/Specialist in Humanities/International Services visa. Specified Skilled Worker (ii) allows family accompaniment and permanent residency but requires advanced skills.
+**问：这个职业能否移民日本工作？**
+答：是，可通过特定技能工人(i)签证（制造业）或人文知识/国际业务签证。特定技能工人(ii)允许家属陪同和永久居留，但需高级技能。
 
-**问：Can overseas qualifications be used in Japan?**
-答：Some qualifications are recognized, but Japanese Electrician or Chief Electrical Engineer licenses require separate exams. For technical internships and Specified Skilled Worker, certain practical experience may be accepted.
+**问：海外资格在日本能否使用？**
+答：部分资格被认可，但日本电工或首席电气工程师执照需要单独考试。对于技术实习和特定技能工人，某些实际经验可能被接受。
 
 
 ---
@@ -145,12 +137,12 @@ Career progression to chief engineer or service engineer possible with skills. O
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-machinery-equipment-maintenance-and-repair-worker/JP)**

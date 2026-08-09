@@ -1,10 +1,8 @@
-# Other Sales-Related Occupations 职业分析 · 日本
+# 其他销售相关职业（Other Sales-Related Occupations）职业分析 · 日本
 
-**职业代码: 339 (JSCO)**
+**职业代码：339 (JSCO)**
 
-Occupations engaged in sales-like activities such as product explanations, sales promotions, and telemarketing. Mainly door-to-door sales and face-to-face customer service.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+从事产品说明、促销和电话营销等销售类活动的职业，主要是上门销售和面对面客户服务。
 
 
 ---
@@ -13,8 +11,8 @@ Occupations engaged in sales-like activities such as product explanations, sales
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Subject to free public high school） |
-| Vocational School (Sales) | 2 年 | $1,000,000~$2,000,000（Includes tuition and materials） |
+| 高中 | 3年 | $0~$0（受免费公立高中教育） |
+| 职业学校（销售） | 2 年 | $1,000,000~$2,000,000（包括学费和材料费） |
 
 ---
 
@@ -22,17 +20,17 @@ Occupations engaged in sales-like activities such as product explanations, sales
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Retail Marketing Specialist (Sales) | National Association of Retail Marketing Specialists | 可选 | From Grade 3 to 1, proof of customer service and sales knowledge |
-| Practical English Proficiency Test (Eiken) | Japan English Proficiency Test Association | 可选 | Advantageous for dealing with foreign tourists |
+| 零售营销专员（销售） | National Association of Retail Marketing Specialists | 可选 | 从3级到1级，需提供客户服务和销售知识证明 |
+| 实用英语 proficiency 考试（Eiken） | 日本英语能力测试协会 | 可选 | 有利于接待外国游客 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 180,000. Due to population decline and the spread of online sales, demand for face-to-face sales positions is shrinking. However, niche areas like door-to-door sales for the elderly retain some demand.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 180,000。由于人口减少和在线销售的普及，面对面销售岗位需求萎缩。但面向老年人的上门销售等细分领域仍有一定需求。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,70 +38,62 @@ Occupations engaged in sales-like activities such as product explanations, sales
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $2,500,000~$3,500,000 | Base salary + commission possible |
-| Mid (3-7 years) | $3,500,000~$5,000,000 | Varies based on sales performance |
-| 高级（7年以上） | $4,500,000~$6,000,000 | Includes management duties |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 基本工资+佣金可能 |
+| 中级（3-7年） | $3,500,000~$5,000,000 | 根据销售业绩而定 |
+| 高级（7年以上） | $4,500,000~$6,000,000 | 包括管理职责 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-AI and automation are expanding telemarketing and online sales. Face-to-face sales demand is shrinking; simple sales tasks are easily replaced by AI.
+AI和自动化正在扩大电话销售和在线销售。面对面销售需求萎缩；简单的销售任务容易被AI取代。
 
-Can start with no experience. Career path includes promotion to sales chief or store manager with experience. Specialized knowledge can lead to a shift to sales roles.
+可以无经验开始。职业路径包括凭经验晋升为销售主管或店长。专业知识可转向销售角色。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reading product lists
-- Inventory checking
-- Simple order processing
-- Handling inquiries that can be automated
+- 阅读产品清单
+- 库存盘点
+- 简单的订单处理
+- 处理可自动化的咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer needs analysis
-- Cross-sell and upsell proposals
-- Handling non-standard complaints
-- Event planning and execution
+- 客户需求分析
+- 交叉销售和追加销售提案
+- 处理非标准投诉
+- 活动策划与执行
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced negotiation skills
-- Building trust with customers
-- Flexible proposals based on the situation
+- 高级谈判技巧
+- 建立客户信任
+- 根据情况灵活提案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital tool proficiency
+- 数字工具熟练度
 - 数据分析技能
-- Language skills
-- Problem-solving skills
+- 语言技能
+- 解决问题的能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mail order
-- Door-to-door sales
-- Telemarketing
-- Event promotion
+- 邮购
+- 上门推销
+- 电话营销
+- 活动推广
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Strict examination for sales positions; advanced knowledge and experience required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not possible due to being outside the target field. |
-| Subclass 特定活動（ワーキングホリデー） (Working Holiday) | Short-term work possible, but unsuitable for long-term career building. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -111,25 +101,25 @@ Can start with no experience. Career path includes promotion to sales chief or s
 
 **谁适合**
 - 喜欢与人打交道者
-- Gentle-mannered people good at explaining
-- Patient people
+- 性格温和、善于解释的人
+- 有耐心的人
 
 **谁不适合**
-- People not good at communicating
-- People who dislike physical fatigue
+- 不擅长沟通的人
+- 不喜欢体力疲劳的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：Entry-level: 2.5-3.5 million yen, mid-level: 3.5-5 million yen, advanced: 4.5-6 million yen. Income may be unstable at commission-based companies.
+**问：该职业的平均年收入是多少？**
+答：初级：250-350万日元，中级：350-500万日元，高级：450-600万日元。在提成制公司收入可能不稳定。
 
 **问：外国人能否从事此职业？**
-答：Obtaining an Engineer/Specialist in Humanities/International Services visa is difficult, and it is not covered by Specified Skilled Worker. Short-term work via Working Holiday is the main route.
+答：获得技术/人文知识与国际服务签证困难，且不属于特定技能工人。通过打工度假短期工作是主要途径。
 
-**问：How to advance your career?**
-答：Common paths include obtaining a sales clerk certification, switching to a sales role, or promotion to store manager or area manager.
+**问：如何晋升你的职业？**
+答：常见路径包括获得销售员认证、转为销售角色，或晋升为店长或区域经理。
 
 
 ---
@@ -147,12 +137,12 @@ Can start with no experience. Career path includes promotion to sales chief or s
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-salesrelated-occupations/JP)**

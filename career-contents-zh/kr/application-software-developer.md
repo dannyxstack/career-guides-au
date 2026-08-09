@@ -1,8 +1,8 @@
-# Application Software Developer 职业分析 · 韩国
+# 应用软件开发人员（Application Software Developer）职业分析 · 韩国
 
-**职业代码: 13321 (KECO)**
+**职业代码：13321 (KECO)**
 
-An application software developer designs, develops, and maintains web, mobile, and desktop application software used by enterprises and institutions.
+应用软件开发人员设计、开发和维护企业和机构使用的网络、移动和桌面应用软件。
 
 
 ---
@@ -11,9 +11,9 @@ An application software developer designs, develops, and maintains web, mobile, 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate/Bachelor's degree | 2~4 years | $6,000,000~$20,000,000（Tuition at national universities; private universities are more expensive） |
-| Bootcamp | 3~6 个月 | $3,000,000~$8,000,000（Average cost of private coding bootcamps） |
-| Online certification course | 3~12 个月 | $500,000~$3,000,000（Cost of preparing for AWS, Oracle, etc. certifications） |
+| 副学士/学士学位 | 2~4年 | $6,000,000~$20,000,000（国立大学学费；私立大学更贵） |
+| 训练营 | 3~6 个月 | $3,000,000~$8,000,000（私立编程训练营的平均费用） |
+| 在线认证课程 | 3~12 个月 | $500,000~$3,000,000（准备AWS、Oracle等认证的成本） |
 
 ---
 
@@ -21,19 +21,19 @@ An application software developer designs, develops, and maintains web, mobile, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer (정보처리기사) | Korea Human Resource Development Service (HRD Korea) | 可选 | Preferred by general companies, required for public institutions |
-| TOEIC Speaking/OPIC | ETS/ACTFL | 可选 | Extra points for large company applications |
-| AWS Solutions Architect Associate | Amazon | 可选 | Advantageous for cloud developers |
-| SQL Developer (SQLD) | Korea Data Agency (K-DATA) | 可选 | Helpful for data-related work |
+| 信息处理工程师 | 韩国人力资源开发局（HRD Korea） | 可选 | 一般公司优先，公共机构要求 |
+| TOEIC口语/OPIC | ETS/ACTFL | 可选 | 申请大公司有额外加分 |
+| AWS解决方案架构师助理 | 亚马逊 | 可选 | 对云开发者有利 |
+| SQL开发者 | 韩国数据机构（K-DATA） | 可选 | 对数据相关工作有帮助 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 160,000. With digital transformation, AI, and cloud expansion, demand is steadily increasing; hiring is particularly active in fintech, healthcare, and smart factory sectors.
+**职位需求量：很高（★★★★½）** 全国从业人数约 160,000。随着数字化转型、AI和云扩展，需求稳定增长；金融科技、医疗健康和智能工厂领域招聘尤为活跃。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,96 +41,88 @@ An application software developer designs, develops, and maintains web, mobile, 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$45,000,000 | SME standard; large companies 35-50M KRW |
-| 中级（4-7年） | $45,000,000~$65,000,000 | Varies significantly by job competency |
-| Senior-level (8+ years) | $65,000,000~$99,999,999 | 1억+ possible at major IT firms and unicorn startups |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 中小企业标准；大企业3500-5000万韩元 |
+| 中级（4-7年） | $45,000,000~$65,000,000 | 根据工作能力差异显著 |
+| 高级（8年以上） | $65,000,000~$99,999,999 | 大型IT企业和独角兽初创公司1亿+可能 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：中（★★½☆☆）**
 
-AI, especially generative AI, can automate some tasks like code generation, debugging, and documentation. However, human skills in design, requirements analysis, optimization, and maintenance remain crucial in the overall development process. AI is expected to be a productivity tool, coexisting with rather than replacing humans.
+AI，特别是生成式AI，可以自动化一些任务，如代码生成、调试和文档编写。然而，在设计、需求分析、优化和维护等整体开发过程中，人类技能仍然至关重要。AI预计将成为生产力工具，与人类共存而非取代。
 
-Junior developers grow into seniors by gaining project experience and can transition to roles like tech lead, architect, or PM. Movement between startups and large corporations is common.
+初级开发人员通过积累项目经验成长为高级开发人员，并可转型为技术主管、架构师或项目经理。初创公司和大型企业之间的流动很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple CRUD code writing
-- Basic bug fixing
-- Writing automated test cases
+- 简单的增删改查代码编写
+- 基本错误修复
+- 编写自动化测试用例
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Implementing complex business logic
-- System architecture design
-- Code review and quality management
+- 实现复杂业务逻辑
+- 系统架构设计
+- 代码审查与质量管理
 - Requirements specification
 
-**人类护城河:**
+**人类护城河：**
 
-- Domain Knowledge and Business Understanding
-- Big-Picture Design Skills
-- Team Collaboration and Communication Skills
-- Creative Problem-Solving Abilities
+- 领域知识与业务理解
+- 宏观设计能力
+- 团队协作与沟通能力
+- 创造性解决问题的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ML Model Utilization (LLM, RAG)
-- Cloud Native (AWS, Kubernetes)
-- Data Analysis and Pipelines
-- Software Architecture
+- AI/ML模型应用（大语言模型、检索增强生成）
+- 云原生（AWS、Kubernetes）
+- 数据分析与管道
+- 软件架构
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI software
-- Cloud native
-- Fintech
-- Smart factory
+- AI软件
+- 云原生
+- 金融科技
+- 智能工厂
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Issued for regular employment at a Korean company as a software developer; must meet salary criteria |
-| Subclass F-2 (F-2-7 (Residence)) | Convertible via points system (education, career, income, Korean language, etc.); benefits of long-term stay |
-| Subclass D-10 (D-10-1 (Job Seeker)) | Available for job-seeking in IT field; extendable for 6 months to 1 year |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans; few employment restrictions and free activities |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent logical thinking
-- People who continuously learn new skills
-- People skilled in teamwork and communication
+- 逻辑思维优秀的人
+- 持续学习新技能的人
+- 善于团队合作和沟通的人
 
 **谁不适合**
 - 偏好重复性事务工作的人
-- People who struggle to adapt to change
+- 难以适应变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary for an entry-level application software developer?**
-答：As of 2024, the average entry-level salary for SMEs is 30-45 million KRW, and for large corporations, it is 35-50 million KRW. Bootcamp graduates may receive slightly less.
+**问：初级应用软件开发者的薪资是多少？**
+答：截至2024年，中小企业平均入门级薪资为3000-4500万韩元，大型企业为3500-5000万韩元。Bootcamp毕业生可能略低。
 
-**问：What visa is needed for a foreigner to work as an application software developer in Korea?**
-答：The E-7-1 (Specific Activities) visa is most common, requiring full-time employment with a Korean company. Minimum salary standards (approx. 36 million KRW in 2024) must be met.
+**问：外国人在韩国担任应用软件开发人员需要什么签证？**
+答：E-7-1（特定活动）签证最常见，需全职受雇于韩国公司。必须满足最低工资标准（2024年约3600万韩元）。
 
-**问：Can non-computer science majors become application software developers?**
-答：Yes, it's possible. By learning programming through bootcamps or online universities and building a portfolio, they can get a job. However, starting salaries may be lower.
+**问：非计算机科学专业的人能成为应用软件开发者吗？**
+答：是的，可行。通过训练营或在线大学学习编程并建立作品集，可以找到工作。但起薪可能较低。
 
 
 ---
@@ -148,12 +140,12 @@ Junior developers grow into seniors by gaining project experience and can transi
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/application-software-developer/KR)**

@@ -55,8 +55,6 @@ Responsible for planning, organizing, directing, and coordinating activities and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace scheduling, paperwork, and initial screening, but key emergency response, on-site command, and human oversight still rely on humans. The overall role is characterized by 'task restructuring' rather than 'mass layoffs'.
-
 Usually promoted from frontline roles such as firefighter, paramedic, or prison officer, through internal exams and training to enter management, potentially rising to regional command or national strategic positions.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually promoted from frontline roles such as firefighter, paramedic, or prison 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Very rare, as this occupation usually requires British citizenship or permane
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-officers-in-fire-ambulance-prison-and-related-services/UK)**

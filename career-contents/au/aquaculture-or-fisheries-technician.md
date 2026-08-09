@@ -52,8 +52,6 @@ Aquaculture or fisheries technicians assist with the daily operations of fish fa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly compress junior tasks (e.g., data recording, basic water quality analysis) in this occupation, narrowing entry-level positions, but senior technical staff still have a moat in high-dimensional decision-making and emergency handling.
-
 Can progress from junior technician to senior technician or farm supervisor, and further to aquaculture manager, aquaculture scientist, or related consultant, requiring practical experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from junior technician to senior technician or farm supervisor, and
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: With the expansion of Australia's sustainable aquaculture industry, demand fo
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-or-fisheries-technician/AU)**

@@ -53,8 +53,6 @@ Equipment operator who mixes or blends ingredients in food manufacturing, includ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Food ingredient technicians primarily handle standardized ingredient weighing, mixing, and simple equipment operation, which are highly repetitive and rule-based, easily replaced by automation. AI and robots will significantly reduce positions, drastically cutting entry-level job opportunities.
-
 Entry-level operators can advance to senior operators or team leads, and with experience transition to quality control or production supervisor roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level operators can advance to senior operators or team leads, and with ex
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost none, as the occupation typically does not meet educational requiremen
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-batchmakers/US)**

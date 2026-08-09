@@ -52,8 +52,6 @@ A specialized profession in financial institutions such as banks, securities fir
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI enhances efficiency in data analysis and risk assessment, but building trust with clients and providing complex financial advice remains a human role.
-
 Certifications (AFP, CFP, Securities Analyst) are key to career advancement. After mid-career, paths open to management or specialist roles.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Certifications (AFP, CFP, Securities Analyst) are key to career advancement. Aft
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Classification as a role requiring specialized financial knowledge |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Points-based system. Applicable based on salary, education, etc. |
-| Subclass 経営・管理 (Business Manager) | For financial institution executives |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +132,12 @@ A: AFP, CFP, and Certified Securities Analyst (CMA) are valued. CFP is particula
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/finance-insurance-specialist/JP)**

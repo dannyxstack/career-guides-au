@@ -1,6 +1,6 @@
-# Supervisor - Traffic Infrastructure Monitoring and Maintenance 职业分析 · 德国
+# 主管 - 交通基础设施监控与维护（Supervisor - Traffic Infrastructure Monitoring and Maintenance）职业分析 · 德国
 
-**职业代码: 5129 (KldB)**
+**职业代码：5129 (KldB)**
 
 负责监控、维护和修理道路、桥梁、隧道等交通基础设施，确保交通安全与畅通。指导团队工作，协调维修计划，并执行安全规程。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. 德国交通基础设施老化，政府持续投资更新，职位需求稳定。数字化转型带来智能交通系统维护新任务，但自动化可能影响部分岗位。总体就业前景良好。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。德国交通基础设施老化，政府持续投资更新，职位需求稳定。数字化转型带来智能交通系统维护新任务，但自动化可能影响部分岗位。总体就业前景良好。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -49,35 +49,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 该职业受AI与自动化影响喜忧参半：日常监控与数据分析易被自动化接管，但复杂维修决策、现场协调与安全管理仍依赖人类经验。
 
 晋升路径：可从技术员升至主管，再至区域经理或项目管理岗。通过进修获得工程技术学位，可转向规划或管理职位。拥有多年经验后可自营工程服务公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 基于摄像头的路面裂缝自动检测与分类
 - 桥梁结构健康数据的AI初筛与异常标记
 - 交通流量模式识别与预测报告生成
 - 无人机自动巡检路径规划与图像采集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AR眼镜辅助的精准定位维修指导
 - AI预测性维护模型优化维修排期
 - 数字孪生模拟不同维修方案效果
 - 移动施工区域自动预警系统协调
 
-**人类护城河:**
+**人类护城河：**
 
 - 紧急突发结构损伤的人工快速研判
 - 复杂环境下的安全规程灵活执行
 - 多团队现场施工的实时协调
 - 老旧基础设施的非标准化维修经验
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI图像识别系统操作与结果验证
 - 物联网传感器数据基础分析
@@ -85,16 +85,16 @@
 - 无人机操控与自动化巡检编程
 - 跨团队沟通与应急管理能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Infrastructure Renewal
-- Smart Traffic Systems
-- Digitalization
-- Skilled Worker Shortage
+- 基础设施更新
+- 智能交通系统
+- 数字化
+- 技术工人短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -103,9 +103,7 @@
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | 适合双元制培训或同等学历，从事紧缺职业，无需薪资门槛 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制的求职签证，适合有资质但尚未获工作合同者 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★☆☆）**
 
 ---
 
@@ -149,12 +147,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-traffic-infrastructure-monitoring-and-maintenance/DE)**

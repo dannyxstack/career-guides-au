@@ -50,8 +50,6 @@ Designs and supervises the construction of buildings, creating architectural pla
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI (generative design, BIM automation) can replace design drafts and simple repetitive tasks, but creative design, code interpretation, and client consultation still rely on human roles. AI serves as a tool to enhance architects' productivity, with collaboration expected rather than full replacement.
-
 Typically, graduates enter architectural firms or construction companies to learn design practices, then obtain an architect license and advance to lead designer or project manager roles.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Typically, graduates enter architectural firms or construction companies to lear
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as a professional in the architectural design field; requires meeting experience and education requirements |
-| Subclass F-2 (Residence) | Allows long-term stay; can be converted from E-7, etc.; free to work |
-| Subclass D-10 (Job Seeking) | Stay while seeking employment for degree holders; possible internships at architect offices |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +136,12 @@ A: To obtain an architect license, an accredited 5-year architecture degree is e
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architect-architectural-designer/KR)**

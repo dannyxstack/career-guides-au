@@ -54,8 +54,6 @@ Police officers handle criminal investigations, patrol public areas, arrest offe
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Police (inspector and below) roles are complex regarding AI impact: administrative tasks can be automated, but frontline law enforcement, community interaction, and discretion are hard to replace; entry-level jobs see increased competition due to automation, but core duties demand remains stable.
-
 Starting as a police constable, one can be promoted to sergeant, inspector, chief inspector, etc. Specialize in criminal investigation, traffic, counter-terrorism, or move to administrative management roles.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Starting as a police constable, one can be promoted to sergeant, inspector, chie
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Not required; minimum is GCSEs. Can enhance competitiveness through apprentic
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officers-sergeant-and-below/UK)**

@@ -4,8 +4,6 @@
 
 A legal profession that involves drafting documents for submission to courts and providing legal consultation, while bailiffs are responsible for enforcing court judgments through compulsory execution.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A legal profession that involves drafting documents for submission to courts and
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and automation are replacing some tasks like legal document review and the computerization of registration and deposit, but areas requiring high-level judgment such as legal interpretation, consultation, and personalized advice still rely heavily on human roles. Overall, rather than being fully replaced by AI, these tools will be used as aids to improve work efficiency.
-
 Judicial scriveners typically advance from office manager to opening their own office or joining a joint office. Bailiffs are appointed after serving as court officials, with promotions stagnating until retirement.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Judicial scriveners typically advance from office manager to opening their own o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for foreign legal experts (with attorney license) to work at domestic law firms under this visa, but obtaining a judicial scrivener license is practically impossible, making it a very limited employment visa route. |
-| Subclass F-2 (Residence) | Needed to open a legal scrivener practice as a step before permanent residence, but acquiring the qualification itself requires Korean language and legal knowledge, making it an unrealistic path. |
-| Subclass F-5 (Permanent Residence) | Permanent residents can open a practice after obtaining a legal scrivener qualification, but the qualification process is highly difficult even for Koreans, making it unsuitable as an immigration-purpose visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: You must accumulate experience as a court employee (e.g., registry or bailiff
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judicial-scrivener-and-bailiff/KR)**

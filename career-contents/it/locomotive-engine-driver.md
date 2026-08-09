@@ -4,8 +4,6 @@
 
 Drive railway locomotives or multiple units, responsible for safe and punctual train operation, involving passenger, freight, and shunting operations. Requires certification and knowledge of signal, braking, and other operating standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Drive railway locomotives or multiple units, responsible for safe and punctual t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of automation on train drivers' work is mixed: Automatic Train Operation (ATO) systems may take over some driving tasks, but complex conditions, emergency handling, and regulatory requirements still need human drivers; jobs won't disappear immediately, but entry opportunities may decrease.
-
 Starting as an assistant driver, gain experience and then obtain a main driver license. Can advance to trainer, dispatcher, or management roles. Some shift to high-speed rail or international routes.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Starting as an assistant driver, gain experience and then obtain a main driver l
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Suitable for non-EU high-skilled migrants, requires a contract at least 1.5 times the local average wage. Train drivers typically do not meet the salary threshold and are rarely used. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italian annual quota work visa for non-EU seasonal/non-seasonal workers. Train drivers are not on the priority list and require employer sponsorship. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens and their family members can work freely in Italy without a visa. However, they need to apply to the railway company for recognition of their existing license or take a conversion exam. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Non-EU licenses require passing a conversion exam (theory + practice); EU/EEA
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locomotive-engine-driver/IT)**

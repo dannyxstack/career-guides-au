@@ -1,8 +1,8 @@
-# Rehabilitation Engineering Technician 职业分析 · 韩国
+# 康复工程技师（Rehabilitation Engineering Technician）职业分析 · 韩国
 
-**职业代码: 30671 (KECO)**
+**职业代码：30671 (KECO)**
 
-A rehabilitation engineering technician is a professional who designs, develops, and applies assistive devices and rehabilitation equipment to restore function and improve daily living for people with disabilities.
+康复工程技术员是设计、开发和应用辅助装置及康复设备，以恢复功能、改善残疾人日常生活的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A rehabilitation engineering technician is a professional who designs, develops,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $5,000,000~$10,000,000（National university standard tuition） |
-| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（Private university standard tuition） |
+| 副学士学位 | 2 年 | $5,000,000~$10,000,000（国立大学标准学费） |
+| 本科（学士学位） | 4年 | $10,000,000~$20,000,000（私立大学标准学费） |
 
 ---
 
@@ -20,17 +20,17 @@ A rehabilitation engineering technician is a professional who designs, develops,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Prosthetic and Orthotic Technician | Korea Health & Medical Personnel Licensing Examination Institute | 必备 | National License |
-| Rehabilitation Engineering Technician | Korea Technical Qualification Examination Institute | 可选 | Private Certification |
+| 假肢与矫形器技师 | 韩国保健医疗人员国家考试院 | 必备 | 国家执照 |
+| 康复工程技师 | 韩国技术资格考试院 | 可选 | 私人认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 1,200. As the population ages and awareness of disability rights grows, demand for rehabilitation engineering is increasing, but job growth is expected to be moderate due to limited positions centered in public medical institutions.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 1,200。随着人口老龄化和残疾权利意识增强，康复工程需求增加，但由于岗位主要集中在公立医疗机构，就业增长预计适中。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,91 +38,84 @@ A rehabilitation engineering technician is a professional who designs, develops,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$35,000,000 | Public institution standard |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 公共机构标准 |
 | 中级 (4-7年) | $36,000,000~$45,000,000 | 含私立医院 |
-| Advanced (8+ years) | $46,000,000~$60,000,000 | Research lab team leader level |
+| 高级（8年以上） | $46,000,000~$60,000,000 | 研究实验室团队负责人级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI helps optimize assistive device design and data analysis, but patient-specific fabrication and adaptive evaluation remain the domain of human experts. Overall, the risk of AI replacement is low, and its role will be more of a work aid.
+AI有助于优化辅助设备设计和数据分析，但患者特定制造和适应性评估仍由人类专家负责。总体而言，AI替代风险低，其角色更多是工作辅助工具。
 
-Initially, technicians perform tasks such as manufacturing and evaluating assistive devices, and with experience, they can advance to positions like rehabilitation engineering center director, research lab team leader, or university professor.
+最初，技术人员执行制造和评估辅助设备等任务，随着经验积累，可晋升至康复工程中心主任、研究实验室团队领导或大学教授等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- simple repetitive inspection of assistive devices
-- data entry and report writing
+- 辅助器具的简单重复检查
+- 数据录入和报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- custom design of assistive devices
-- patient gait analysis
-- rehabilitation effect prediction
+- 定制辅助设备设计
+- 患者步态分析
+- 康复效果预测
 
-**人类护城河:**
+**人类护城河：**
 
-- direct communication and empathy with patients
-- manual fabrication skills
-- collaboration with medical staff
+- 与患者的直接沟通和共情
+- 手工制作技能
+- 与医疗人员合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D modeling
-- AI-based design tools
-- biomechanics knowledge
+- 3D建模
+- 基于AI的设计工具
+- 生物力学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aging population
-- welfare for the disabled
-- assistive device technology
-- smart rehabilitation
+- 人口老龄化
+- 残疾人福利
+- 辅助设备技术
+- 智能康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employment visa for professional rehabilitation engineering personnel. Eligible if degree and experience requirements are met. |
-| Subclass F-2 (Residence (F-2)) | Convertible to points system, advantageous for long-term stay. |
-| Subclass F-5 (Permanent Residence) | Long-term residence then eligible for permanent residence application. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in medical devices and assistive technology
-- Those dedicated to welfare for the disabled
-- Those with a meticulous and detail-oriented personality
+- 对医疗器械和辅助技术感兴趣者
+- 致力于残疾人福利的人
+- 注重细节、一丝不苟的人
 
 **谁不适合**
-- Those who avoid interpersonal relationships
-- Those who prefer static office work only
+- 避免人际关系的人
+- 只喜欢静态办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a rehabilitation engineer?**
-答：About 28–35 million won for entry-level, and 46–60 million won for 8+ years of experience. There are differences between public institutions and private hospitals.
+**问：康复工程师的平均薪资是多少？**
+答：入门级约2800-3500万韩元，8年以上经验约4600-6000万韩元。公共机构与私立医院存在差异。
 
-**问：Can foreigners work as rehabilitation engineers?**
-答：Yes. They can work with an E-7 visa, and relevant degrees and experience are required. Obtaining a national certification (orthotist/prosthetist) is essential.
+**问：外国人可以从事康复工程师工作吗？**
+答：是的。他们可以持E-7签证工作，需要相关学位和经验。获得国家认证（矫形师/假肢师）至关重要。
 
-**问：What certifications are essential?**
-答：A national license as an orthotist/prosthetist is mandatory, and having a private rehabilitation engineer certification is advantageous.
+**问：哪些认证至关重要？**
+答：必须持有国家矫形器/假肢技师执照，拥有私人康复工程师认证更佳。
 
 
 ---
@@ -140,12 +133,12 @@ Initially, technicians perform tasks such as manufacturing and evaluating assist
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rehabilitation-engineering-technician/KR)**

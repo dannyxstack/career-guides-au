@@ -1,10 +1,8 @@
-# Other Motor Vehicle Drivers 职业分析 · 日本
+# 其他机动车驾驶员（Other Motor Vehicle Drivers）职业分析 · 日本
 
-**职业代码: 619 (JSCO)**
+**职业代码：619 (JSCO)**
 
-Occupations driving vehicles other than passenger cars, such as taxis, hired cars, dump trucks, and trailers. Workers supporting logistics and passenger transport on the front lines.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶非乘用车（如出租车、租赁车、自卸车和拖车）的职业。一线支持物流和客运的工人。
 
 
 ---
@@ -13,8 +11,8 @@ Occupations driving vehicles other than passenger cars, such as taxis, hired car
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Obtain Ordinary License | A few weeks | $250,000~$350,000（Standard cost of attending a driving school） |
-| Large Vehicle License / Trailer License | A few months | $300,000~$500,000（Additional cost if already holding an ordinary license） |
+| 取得普通执照 | 几周 | $250,000~$350,000（驾校标准学费） |
+| 大型车辆驾照/拖车驾照 | 几个月 | $300,000~$500,000（若已持有普通驾照则需额外费用） |
 
 ---
 
@@ -22,19 +20,19 @@ Occupations driving vehicles other than passenger cars, such as taxis, hired car
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Large Vehicle License | Public Safety Commission (Driver's License Examination Center) | 必备 | Required for large truck operation |
-| Trailer License | Public Safety Commission (Driver's License Examination Center) | 必备 | Required for trailer operation |
-| Class 2 License | Public Safety Commission (Driver's License Examination Center) | 可选 | Required for taxi/hired car operation |
-| Dangerous Goods Handler Certificate | Ministry of Economy, Trade and Industry | 可选 | Valid for transporting dangerous goods |
+| 大型车辆驾照 | 公共安全委员会（驾照考试中心） | 必备 | 大型卡车操作所需 |
+| 拖车驾照 | 公共安全委员会（驾照考试中心） | 必备 | 拖车操作所需 |
+| 二级执照 | 公共安全委员会（驾照考试中心） | 可选 | 出租车/租赁汽车运营所需 |
+| 危险品处理员证书 | 经济产业省 | 可选 | 适用于运输危险货物 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 350,000. The logistics industry faces a serious labor shortage, especially for truck drivers, where demand is high. Many retire due to aging, and new young entrants are needed, but improving working conditions remains a challenge.
+**职位需求量：很高（★★★★½）** 全国从业人数约 350,000。物流行业面临严重劳动力短缺，尤其是卡车司机需求量大。许多人因老龄化退休，需要新的年轻从业者，但改善工作条件仍是挑战。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,93 +40,85 @@ Occupations driving vehicles other than passenger cars, such as taxis, hired car
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Typical annual income including overtime pay. |
-| Intermediate (4–9 years) | $4,000,000~$5,500,000 | Increases with experience and licenses. Higher for large/articulated truck license holders. |
-| Veteran (10+ years) | $5,500,000~$7,000,000 | Income range for managerial roles or successful independent contractors. |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 包含加班费的典型年收入。 |
+| 中级（4-9年） | $4,000,000~$5,500,000 | 随经验和执照增加。持有大型/铰接式卡车驾照者更高。 |
+| 资深（10年以上） | $5,500,000~$7,000,000 | 管理岗位或成功独立承包商收入范围。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-The progress of autonomous driving technology may lead to substitution of driving on long-distance highways, but human judgment is indispensable for last-mile delivery, complex urban delivery, and emergency response. In the near term, complete substitution is difficult, but it will change depending on the practical application of Level 4 autonomous driving.
+自动驾驶技术的进步可能导致长途高速公路驾驶被替代，但最后一英里配送、复杂城市配送和应急响应仍需人类判断。短期内难以完全替代，但将取决于L4级自动驾驶的实际应用情况。
 
-Most gain experience on the job after hiring, acquire large or trailer licenses, and may advance to management or self-employment. Female drivers are increasingly active in recent years.
+大多数人受聘后在职积累经验，获得大型车辆或拖车驾照，可能晋升为管理层或自主创业。近年来女性驾驶员日益活跃。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant-speed driving on highways
-- Monotonous long-distance delivery
-- Automated parts of parking and stopping
+- 高速公路匀速驾驶
+- 单调的长途配送
+- 停车与驻车自动化部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based optimal route suggestions
-- Utilization of safety driving support systems
-- Integration of operation management and AI
+- 基于人工智能的最佳路线建议
+- 安全驾驶支持系统的运用
+- 运营管理与AI集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Risk prediction and situational judgment
-- Emergency response
-- Customer service and communication (taxis, etc.)
+- 风险预测与情景判断
+- 应急响应
+- 客户服务和沟通（出租车等）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding and monitoring AI/autonomous driving systems
-- Operation management skills
-- Health management and safe driving techniques
+- 理解和监控AI/自动驾驶系统
+- 运营管理技能
+- 健康管理与安全驾驶技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Logistics 2024 Problem
-- Last-mile delivery
-- Autonomous driving technology
-- Driver shortage
+- 物流2024问题
+- 最后一公里配送
+- 自动驾驶技术
+- 司机短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Automotive Transportation)) | New fields to be added from 2024. A residence status for foreign workers in driving jobs. Requires skills test and Japanese proficiency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible for specialized roles (e.g., logistics management). Purely driving duties are generally not approved. |
-| Subclass 技能 (Skilled Labor) | Requires proven skills (e.g., large truck driving) and practical experience. However, scope is limited. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who doesn't mind long-distance driving
-- Someone confident in focus and stamina
-- Someone flexible with routes and schedules
+- 不介意长途驾驶的人
+- 专注力和耐力强的人
+- 能灵活适应路线和时间安排的人
 
 **谁不适合**
-- Someone who struggles with long hours of sitting
-- Someone weak to sudden schedule changes
+- 难以长时间坐着的人
+- 不适应突发日程变动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a driver?**
-答：In the first year, it is around 3-4 million yen, and with experience, it can reach 5-7 million yen or more. However, it heavily depends on overtime pay, so working hours tend to be long.
+**问：司机的年收入是多少？**
+答：第一年约300-400万日元，随着经验积累可达500-700万日元或更多。但这很大程度上取决于加班费，因此工作时间往往较长。
 
-**问：Can foreign nationals work as drivers?**
-答：Currently, the target of Specified Skilled Worker (i) is scheduled to be expanded, and it is expected to become possible in the future. However, obtaining a Japanese driver's license and Japanese language proficiency are mandatory conditions.
+**问：外国人可以担任司机吗？**
+答：目前，特定技能1号的目标范围计划扩大，未来有望实现。但取得日本驾照和日语能力是必要条件。
 
-**问：Are there paths to independence or career advancement?**
-答：There are methods such as contracting with a transportation company as an individual business owner, or aiming for a managerial position as a transport manager. Also, by obtaining a large vehicle license or trailer license, you can take on higher-paying jobs.
+**问：是否有独立或职业发展的途径？**
+答：方法包括以个体经营者身份与运输公司签约，或争取运输经理的管理职位。此外，获取大型车辆或拖车驾照可从事更高薪工作。
 
 
 ---
@@ -146,12 +136,12 @@ Most gain experience on the job after hiring, acquire large or trailer licenses,
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-motor-vehicle-drivers/JP)**

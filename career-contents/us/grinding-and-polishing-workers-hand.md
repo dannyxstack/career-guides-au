@@ -52,8 +52,6 @@ Grinding, sanding, or polishing objects such as metal, wood, stone, clay, plasti
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Manual grinding and polishing face high automation risk, especially for repetitive tasks, but complex surfaces and fine craftsmanship still require human judgment; entry-level positions will decrease significantly.
-
 Typically start as apprentices or assistants, can advance to senior technicians or supervisors, some move to quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as apprentices or assistants, can advance to senior technicians 
 | Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional position requirements; very rarely obtains sponsorship |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Can apply via PERM labor certification, but must prove inability to hire US workers; few opportunities |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: BLS predicts a 4% decline in employment from 2022-2032, mainly due to automat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grinding-and-polishing-workers-hand/US)**

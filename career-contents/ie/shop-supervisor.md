@@ -50,8 +50,6 @@ Store supervisors oversee daily retail operations, including managing staff, inv
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The retail manager role faces mixed impacts from AI and automation: data-intensive tasks like inventory management and shift scheduling will be taken over, but human core competencies such as staff management, customer service, and handling unexpected store situations remain strong.
-
 Career progression typically from sales assistant to supervisor, then to store manager or regional manager. Also possible to move into purchasing or marketing.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Career progression typically from sales assistant to supervisor, then to store m
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -145,11 +141,12 @@ A: Main pathway is General Employment Permit, requiring annual salary of at leas
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-supervisor/IE)**

@@ -51,8 +51,6 @@ Responsible for installing, maintaining, and repairing air conditioning and refr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 Can progress from apprentice to senior technician, advance to team leader, project manager, or self-employment. Can also specialize in heat pumps, industrial refrigeration, or green technology through training.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from apprentice to senior technician, advance to team leader, proje
 | Subclass Skilled Worker (Skilled Worker Visa) | If employer-sponsored and meets the salary threshold, a work visa can be obtained. This occupation is on the shortage occupation list, with a salary requirement of £25,600 or the going rate for the industry. Heat pump-related roles may be eligible under more relaxed requirements. |
 | Subclass Global Talent (Global Talent Visa) | Not suitable for general skilled positions; designed primarily for outstanding talent. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can progress from technician to senior engineer, team leader, or project mana
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airconditioning-and-refrigeration-installers-and-repairers/UK)**

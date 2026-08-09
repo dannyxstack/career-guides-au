@@ -53,8 +53,6 @@ Art glass blowers use traditional handcraft techniques to heat, blow, and shape 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on art glass blowers is complex: design generation and client communication are significantly enhanced by AI, but core blowing and shaping manual tasks are hard to automate, while AI tools lowering entry barriers may intensify competition for junior positions.
-
 Career progression starts from apprentice or assistant blower, advancing to skilled craftsman, master (Meister), then able to open an independent studio or serve as workshop supervisor. Some move into teaching or participate in international projects.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression starts from apprentice or assistant blower, advancing to skil
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually requires completion of a recognised German dual vocational training o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-glassblower/DE)**

@@ -4,8 +4,6 @@
 
 Engaged in the design, production, restoration, and maintenance of jewelry, gold and silverware, and valuables, covering both handicrafts and precision machining.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaged in the design, production, restoration, and maintenance of jewelry, gold
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 You can start as an apprentice or CAP, gradually advance to senior craftsman, studio manager, or independent jewelry designer, or develop into luxury brand management.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can start as an apprentice or CAP, gradually advance to senior craftsman, st
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | For employer-sponsored work residence, it must be proven that the position cannot be filled by an EU citizen. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled or outstanding talents, such as well-known craftsmen, who must provide proof of project or employer. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | Temporary residence permit to seek work within one year after graduation, requires a French degree. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: You can advance from craftsman to senior craftsman, studio supervisor, indepe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewelry-jewelry-making-and-silversmithing/FR)**

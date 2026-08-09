@@ -51,8 +51,6 @@ Credit officers in New Zealand assess loan applications, review client credit, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Credit officers' routine data entry and preliminary assessment tasks are easily automated by AI, but complex decision-making, client communication, and risk judgment still require humans; the role has a mixed impact overall.
-
 Can progress from junior credit assistant to credit officer, senior officer, or loan manager, with some transitioning to risk management or financial advisory roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress from junior credit assistant to credit officer, senior officer, or 
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Requires 6-point system rating, under 55 years old, relevant work experience and salary requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsored employer offer, above median salary, renewable with pathway to residency. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: Eligible for SMC skilled migration but not on Green List; requires 6-point sy
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-or-loans-officer-aus-finance-clerk-nz/NZ)**

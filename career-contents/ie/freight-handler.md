@@ -53,8 +53,6 @@ Responsible for loading, unloading, moving, and sorting goods in warehouses, fre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of cargo loaders is heavily dependent on physical strength and on-site judgment. AI and automation technologies (such as autonomous forklifts and sorting robots) will significantly reduce the number of positions, but complete replacement is difficult in the short term, and human-machine collaboration will become mainstream.
-
 Can advance from entry-level loader to team supervisor or warehouse coordinator; some transition to forklift operation or logistics management through training.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from entry-level loader to team supervisor or warehouse coordinator;
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to warehouse supervisor, logistics coordinator, or become a forkl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-handler/IE)**

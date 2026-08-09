@@ -50,8 +50,6 @@ This occupation involves installing, inspecting, maintaining, and repairing agri
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation reduce repetitive tasks (e.g., parts sorting, basic diagnostics), but fully replacing human experience for adaptive field repairs and complex fault diagnosis remains difficult.
-
 Career progression: entry-level repair assistant → intermediate repair technician → senior repair engineer → field supervisor or self-employed repair shop owner.
 
 **Tasks most exposed to AI:**
@@ -87,17 +85,9 @@ Career progression: entry-level repair assistant → intermediate repair technic
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Obtainable when employed as an agricultural machinery maintenance specialist, requires meeting education and experience requirements |
-| Subclass E-9 (Non-professional Employment) | Partially possible in simple agricultural maintenance assistance, but skilled work recommended under E-7 |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay, applicable with maintenance experience |
-| Subclass F-4 (Overseas Koreans) | Open to overseas Koreans, employment possible in agricultural machinery maintenance |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +131,12 @@ A: The Agricultural Machinery Maintenance Technician certification is mandatory,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-other-machinery-equipment-installers-and-repairers/KR)**

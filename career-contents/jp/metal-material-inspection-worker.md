@@ -50,8 +50,6 @@ A profession that conducts visual inspection, dimensional measurement, and non-d
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Automated inspection using AI and image recognition is advancing for simple visual inspection and dimensional measurement, but complex non-destructive testing and judgment-based tasks require human skilled expertise, making complete replacement difficult.
-
 Skills can be acquired on-site from scratch, and career advancement is possible through acquiring certifications such as non-destructive testing technician. Promotion to inspection leader or quality control department is also possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Skills can be acquired on-site from scratch, and career advancement is possible 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国（技術・人文知識・国際業務） (Engineer/Specialist in Humanities/International Services) | Eligible with university degree or 10+ years of experience in inspection technology |
-| Subclass 特定技能1号（素形材・産業機械・電気電子情報関連製造業） (Specified Skilled Worker (i)) | Requires passing skills and Japanese language tests; max 5 years |
-| Subclass 特定技能2号（素形材・産業機械・電気電子情報関連製造業） (Specified Skilled Worker (ii)) | Requires advanced skills; allows family accompaniment and permanent residency application |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtain qualifications such as non-destructive testing technician, and aim to 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-material-inspection-worker/JP)**

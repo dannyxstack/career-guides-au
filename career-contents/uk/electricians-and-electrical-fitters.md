@@ -53,8 +53,6 @@ Electricians and electrical assemblers are responsible for component assembly in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The career prospects of electricians and electrical assemblers are amplified by AI, as AI tools significantly enhance efficiency in design diagnosis, solution optimization, and documentation generation, while physical operations and on-site safety responsibilities form a strong moat, making it a technical role with growing demand in the AI era.
-
 Career path is clear: starting as an apprentice or junior electrician, gaining experience to advance to senior electrician, supervisor, or project manager, or obtaining higher-level qualifications to become an electrical engineer or self-employed.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path is clear: starting as an apprentice or junior electrician, gaining e
 | Subclass Graduate (Graduate Visa) | International students completing a degree in the UK can apply to work in the UK for 2-3 years after graduation, but electrician roles are typically non-degree occupations |
 | Subclass Scale-up (Scale-up Visa) | For high-skilled talent employed by rapidly growing enterprises; electricians may qualify if the employer meets requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Common pathway: apprentice → qualified electrician → senior electrician �
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electricians-and-electrical-fitters/UK)**

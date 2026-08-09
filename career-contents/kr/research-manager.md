@@ -4,8 +4,6 @@
 
 A position responsible for planning R&D directions, managing research personnel and resources, and evaluating research outcomes at research institutions or corporate labs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A position responsible for planning R&D directions, managing research personnel 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can replace research data analysis and administrative tasks, but human roles remain crucial for decisions like research direction and personnel management.
-
 Starting as a researcher, progressing to team leader, department head, and lab director requires project management skills; an MBA or Master's in Technology Management (MOT) is advantageous.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Starting as a researcher, progressing to team leader, department head, and lab d
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific activities) | Can be issued to senior personnel with research and technology management experience |
-| Subclass F-2 (Residence) | Can be converted to residence status after long-term stay |
-| Subclass E-3 (Research) | A visa required for research activities, suitable for research managers |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Typically 5+ years of research experience after a master's or doctorate, with
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-manager/KR)**

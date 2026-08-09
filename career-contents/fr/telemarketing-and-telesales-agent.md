@@ -4,8 +4,6 @@
 
 Communicate with customers by phone, promote products or services, handle inquiries and objections, and facilitate transactions. This position is commonly found in France in industries such as call centers, insurance, telecommunications, and banking.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Communicate with customers by phone, promote products or services, handle inquir
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 You can be promoted to telemarketing team leader, trainer, or customer relationship manager. Some people have shifted to digital marketing or customer success roles. After gaining experience, you can transition to a more professional sales consultant role.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ You can be promoted to telemarketing team leader, trainer, or customer relations
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship, a CDI contract, and salary must be above SMIC. Sponsorship is more difficult for SMEs. |
-| Subclass Passeport Talent (Talent Passport) | For sales specialists or managers earning over €53,000 per year; telemarketing roles usually cannot meet this salary threshold. |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of at least 54,000 euros (2025 standard) is required; general telemarketing positions are not met. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: After gaining sales experience, you can move on to B2B account managers, digi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telemarketing-and-telesales-agent/FR)**

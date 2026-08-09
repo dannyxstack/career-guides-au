@@ -4,8 +4,6 @@
 
 Legal professionals specializing in legal advice and litigation, requiring graduation from law school and passing the bar exam, solving legal issues for domestic and international corporations and individuals.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Legal professionals specializing in legal advice and litigation, requiring gradu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates legal research and document review to boost productivity, but complex legal judgments, strategy development, and client trust remain the domain of human lawyers. Lawyers who leverage AI tools will be competitive.
-
 After law school graduation and bar exam → employment at law firms, corporations, or government → establish expertise in 5-7 years → promotion to partner or counsel; independent practice possible after over 10 years of legal career.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ After law school graduation and bar exam → employment at law firms, corporatio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable to skilled experts in legal service fields such as foreign legal consultants, but only if attorney qualifications are recognized |
-| Subclass F-2 (Residence) | A step before permanent residence when certain conditions are met, benefits available to those with attorney qualifications |
-| Subclass F-5 (Permanent Residence) | Applicable after long-term stay, also acquirable by legal professionals |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Currently, you must graduate from a law school (law school) and pass the bar 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lawyer/KR)**

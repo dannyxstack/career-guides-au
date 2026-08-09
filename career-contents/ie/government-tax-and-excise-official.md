@@ -54,8 +54,6 @@ Responsible for tax and excise collection, auditing, and compliance checks to en
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate some routine auditing and data processing tasks, but core tasks like tax law interpretation, complex case judgment, and enforcement discretion still require human officials. Meanwhile, AI can enhance risk analysis and compliance prediction, resulting in a mixed outlook overall.
-
 Can progress from junior tax inspector to senior auditor or team leader, with some transitioning to policy development or tax advisory roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from junior tax inspector to senior auditor or team leader, with so
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Progress from junior inspector to senior auditor, team leader, or policy advi
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-tax-and-excise-official/IE)**

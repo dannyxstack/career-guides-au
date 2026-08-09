@@ -4,8 +4,6 @@
 
 A specialized technical role responsible for the design, production, installation, and maintenance of commercial signage, performing tasks related to outdoor advertising construction.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized technical role responsible for the design, production, installatio
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can enhance tasks like sign design generation, auto quoting, and material optimization, but outdoor installation/construction requires on-site skills and manual labor, making full replacement difficult.
-
 Starting as a junior installer, one can advance to skilled worker, crew leader, self-employment, or become a signage design and manufacturing expert with experience.
 
 **Tasks most exposed to AI:**
@@ -92,18 +88,9 @@ Starting as a junior installer, one can advance to skilled worker, crew leader, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Available in manufacturing and some other industries, but signboard work is restricted depending on the industry code |
-| Subclass E-7 (E-7 (Specific Activities)) | Obtainable if experience in signboard fabrication and installation is recognized as skilled worker |
-| Subclass F-2 (F-2 (Residence)) | Possible to run a business after long-term stay under the point system |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work without restrictions, including signboard work |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +133,12 @@ A: Beginner installer → skilled worker → team leader or self-employment, or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sign-manufacturer-and-installer/KR)**

@@ -52,8 +52,6 @@ Selling, consulting, and managing inventory of musical instruments, audio equipm
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on music retail specialists is mixed: inventory management and basic sales inquiries are easily automated, but personalised music recommendations, instrument tuning, and customer experience design still require deep human expertise and emotional connection.
-
 Can advance from salesperson to store manager or regional manager, or transition to musical instrument repair, music education, or brand agency roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from salesperson to store manager or regional manager, or transition
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to store manager, regional manager, or transition to fields like 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/music-retail-specialist/DE)**

@@ -1,8 +1,8 @@
-# Ironmaking/Steelmaking/Nonferrous Metal Smelting Equipment Control/Monitor 职业分析 · 日本
+# 炼铁/炼钢/有色金属冶炼设备控制/监控（Ironmaking/Steelmaking/Nonferrous Metal Smelting Equipment Control/Monitor）职业分析 · 日本
 
-**职业代码: 491 (JSCO)**
+**职业代码：491 (JSCO)**
 
-Operate, monitor, and control melting furnaces and casting equipment at steelworks and nonferrous metal smelters. A specialist in safely managing high-temperature, high-pressure processes.
+操作、监控和控制钢铁厂及有色金属冶炼厂的熔炉和铸造设备。安全管理高温高压工艺的专家。
 
 
 ---
@@ -11,8 +11,8 @@ Operate, monitor, and control melting furnaces and casting equipment at steelwor
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Free public high school tuition eligible） |
-| Vocational School (Industrial) | 2 年 | $1,000,000~$2,000,000（More expensive for private schools） |
+| 高中文凭 | 3年 | $0~$300,000（符合免费公立高中学费资格） |
+| 职业学校（工业） | 2 年 | $1,000,000~$2,000,000（私立学校更贵） |
 
 ---
 
@@ -20,19 +20,19 @@ Operate, monitor, and control melting furnaces and casting equipment at steelwor
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 起重机操作员 | Ministry of Health, Labour and Welfare | 必备 | Required for hoisting heavy loads |
-| Forklift Operation Skills Training | Ministry of Health, Labour and Welfare | 必备 | Required for material transport |
-| Steel Manufacturing Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Levels 1 and 2, eligible after practical experience |
-| Nonferrous Metal Manufacturing Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Smelting/Refining fields |
+| 起重机操作员 | 厚生劳动省 | 必备 | 需要用于搬运重物 |
+| 叉车操作技能培训 | 厚生劳动省 | 必备 | 物料运输所需 |
+| 钢铁制造熟练工 | 厚生劳动省 | 可选 | 第1和第2级，具备实践经验后符合资格 |
+| 有色金属制造熟练工 | 厚生劳动省 | 可选 | 冶炼/精炼领域 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 35,000. Domestic iron, steel, and nonferrous metal production is declining, but skilled monitors are needed for equipment maintenance. Despite automation, labor shortages persist.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 35,000。国内钢铁、有色金属生产正在下降，但设备维护需要熟练的监控人员。尽管自动化，劳动力短缺仍然持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ Operate, monitor, and control melting furnaces and casting equipment at steelwor
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $3,500,000~$4,500,000 | Based on high school graduate starting salary, excluding various allowances |
-| Intermediate (4-10 years) | $4,500,000~$6,000,000 | Increases with skills and certifications |
-| Advanced (11+ years) | $6,000,000~$8,000,000 | Including management allowance, annual income may exceed 10 million yen |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 基于高中毕业生起薪，不含各种津贴 |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 随技能和认证提升而增长 |
+| 高级（11年以上） | $6,000,000~$8,000,000 | 含管理津贴，年收入可能超过1000万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation will advance remote monitoring and anomaly prediction of equipment, but human judgment is needed for furnace adjustments and emergency responses. The operator's role will shift to monitoring and maintenance.
+人工智能和自动化将推进设备的远程监控和异常预测，但炉子调整和应急响应需要人工判断。操作员的角色将转向监控和维护。
 
-Start as a field operator, gain experience in equipment control, and advance to chief or plant manager. Multiskilling across different processes is increasingly required within steelworks.
+从现场操作员开始，积累设备控制经验，晋升为主任或工厂经理。钢铁厂内越来越需要跨不同流程的多技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine temperature and pressure monitoring
-- Simple valve operations
-- Regular equipment inspection records
+- 常规温度和压力监测
+- 简单的阀门操作
+- 定期设备检查记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Predictive maintenance through AI analysis of anomaly signs
-- Remote monitoring and control of automated equipment
-- Support for production plan optimization
+- 通过AI分析异常迹象进行预测性维护
+- 自动化设备的远程监控和控制
+- 生产计划优化支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Experiential knowledge of judging furnace conditions with five senses
-- Flexible response to sudden troubles
-- Coordination and adjustment skills with other processes
+- 用五感判断炉况的经验知识
+- 灵活应对突发问题
+- 与其他流程的协调和调整技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Programming (PLC control)
-- Data analysis
-- Equipment diagnostic techniques
-- Knowledge of Safety Management
+- 编程（PLC控制）
+- 数据分析
+- 设备诊断技术
+- 安全管理知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automated equipment management
-- Labor saving
-- Equipment maintenance
-- Metal recycling
+- 自动化设备管理
+- 节省人力
+- 设备维护
+- 金属回收
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10 years of practical experience. Eligible to work as a steelmaking engineer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting/Industrial Machinery/Electrical/Electronic Information Manufacturing)) | Obtainable by passing exam in relevant field. Also covers iron/steel and non-ferrous metal manufacturing. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Casting/Industrial Machinery/Electrical/Electronic Information Manufacturing)) | Requires advanced skills. Allows family accompaniment and permanent residency application. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People good at machine operation and monitoring
-- People who can maintain focus in high-temperature, noisy environments
-- People who can work as a team to ensure safety
+- 擅长机器操作和监控的人
+- 能在高温、嘈杂环境中保持专注的人
+- 能团队协作确保安全的人
 
 **谁不适合**
-- People who dislike physical labor
-- People who easily get bored with monotonous tasks
+- 不喜欢体力劳动的人
+- 容易对单调任务感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the salary?**
-答：First year annual income is around 3.5 to 4.5 million yen; with experience, 6 to 8 million yen; management positions can exceed 10 million yen. Various allowances (night shift, high temperature, certifications) are paid separately.
+**问：薪资是多少？**
+答：第一年年收入约350万至450万日元；有经验后600万至800万日元；管理职位可超过1000万日元。各种津贴（夜班、高温、资格证书）另付。
 
-**问：What visa do foreigners need to work?**
-答：If you have a university degree or 10 years of work experience, you can obtain the 'Engineer/Specialist in Humanities/International Services' visa. Also, since this field covers Specified Skilled Worker (i) and (ii) (molding, industrial machinery, etc.), passing the skills test allows you to work.
+**问：外国人工作需要什么签证？**
+答：如果你拥有大学学位或10年工作经验，可以获得“工程师/人文/国际服务专家”签证。此外，由于该领域涵盖特定技能工人(i)和(ii)（如模具、工业机械等），通过技能测试即可工作。
 
-**问：Please tell me about the career path.**
-答：Start as an operator, gain proficiency in equipment control, and advance to team leader or supervisor. Further, you can move to overall line management or equipment improvement departments. Acquiring related certifications facilitates career advancement.
+**问：请告诉我职业发展路径。**
+答：从操作员起步，掌握设备控制，晋升为团队领导或主管，进而可转向整体产线管理或设备改进部门。获取相关认证有助于职业发展。
 
 
 ---
@@ -144,12 +137,12 @@ Start as a field operator, gain experience in equipment control, and advance to 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ironmaking-steelmaking-nonferrous-metal-smelting-equipment-control-monitor/JP)**

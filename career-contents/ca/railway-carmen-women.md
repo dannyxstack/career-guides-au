@@ -55,8 +55,6 @@ Canadian rail industry: train operators correspond to railway traffic controller
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Daily inspections, recording, and scheduling for rail traffic crew can be automated by AI, but on-site judgment, emergency handling, and physical operations still rely on humans—overall risks and opportunities coexist.
-
 Entry-level railway workers (e.g., brakemen, switch operators) can advance to train conductors (drivers) through internal training and certification; experienced drivers can become depot supervisors or trainers. Some move into rail dispatch or management. Career path is clear but requires many years of experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level railway workers (e.g., brakemen, switch operators) can advance to tr
 | Subclass PNP (Provincial Nominee Program (e.g., Saskatchewan, Manitoba, Alberta)) | Through provincial nominee programs, employer sponsorship is key. Railway positions in the Prairie provinces (Saskatchewan, Manitoba) are often on the in-demand occupation list, and approval can give 600 CRS points for Express Entry. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must obtain LMIA proving inability to hire locally; working for 1 year on an LMIA work visa can then apply for CEC immigration. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Chinese train drivers immigrate to Canada mainly through Provincial Nominee P
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-carmen-women/CA)**

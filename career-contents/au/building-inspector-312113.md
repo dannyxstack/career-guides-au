@@ -53,8 +53,6 @@ Building inspectors examine construction sites, residential and commercial build
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building inspectors face mixed impacts: AI can automate document review and image recognition, but on-site judgment and legal liability still require human input; overall risk is moderate.
-
 Junior inspectors can progress through experience to senior inspector, chief inspector, or into local government management. They can also transition into building project management, certification, or consultancy services.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior inspectors can progress through experience to senior inspector, chief ins
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent visa: direct application requires 3 years' experience |
 | Subclass 189 (Skilled Independent Visa) | Skilled independent migration, must be on MLTSSL, points-tested competitive |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Driven by growth in the construction industry, demand is stable; can advance 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-inspector-312113/AU)**

@@ -54,8 +54,6 @@ Operate and monitor fixed or mobile pumps and manifold systems to transfer gases
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tasks of pump operators have parts replaced by automation and parts enhanced by AI: data monitoring and fault diagnosis can be taken over by AI, but physical operations and emergency response rely on human experience, overall risk is moderate.
-
 Typical career path: Senior pump operator → Supervisor/Foreman → Regional Operations Manager. Some can transition to industrial mechanic or equipment technician.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Typical career path: Senior pump operator → Supervisor/Foreman → Regional Op
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes. Can advance to supervisor or transition to mechanical maintenance, equip
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pump-operators-except-wellhead-pumpers/US)**

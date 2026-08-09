@@ -51,8 +51,6 @@ Responsible for milk processing and the manufacturing, processing, and packaging
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Dairy manufacturing workers face high automation risk; standardized production processes and large-scale automation equipment have already reduced job demand, narrowing entry-level positions, with poor employment prospects over the next 5 years.
-
 You can advance from production line operator to quality inspector or team leader. Through FP Grado Superior (Advanced Vocational Training), you can be promoted to technical specialist or production manager.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ You can advance from production line operator to quality inspector or team leade
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employed work residence requires employer sponsorship and a labor contract, meeting minimum wage requirements |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card is suitable for highly skilled workers, requires higher education and higher salaries, but this occupation usually pays less and may not be suitable |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -145,12 +137,12 @@ A: Usually, a Spanish employer must provide a work contract to apply for employm
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-processing-workers/ES)**

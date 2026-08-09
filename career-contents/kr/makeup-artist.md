@@ -4,8 +4,6 @@
 
 A professional who uses cosmetics on clients' faces and bodies to create beauty, working in diverse settings such as weddings, broadcasts, performances, and photo shoots.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who uses cosmetics on clients' faces and bodies to create beauty,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI makeup technology (e.g., augmented reality simulations, automated beauty analysis) improves work efficiency and creates new services, but creativity and personalized service remain the strengths of human artists.
-
 Beginners start as assistants, then become independent makeup artists after gaining experience; some advance to head artists or beauty creators.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Beginners start as assistants, then become independent makeup artists after gain
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to invite as beauty-related professional, but cases are rare. |
-| Subclass F-2 (F-2 (Residence)) | Possible for long-term residents, but direct employment visa as a makeup artist is limited. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: AI makeup technology is advancing, but personalized services and creativity a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/makeup-artist/KR)**

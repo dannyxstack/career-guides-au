@@ -4,8 +4,6 @@
 
 A job of refueling customer vehicles at gas stations, providing car wash and light maintenance services, and selling store items.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A job of refueling customer vehicles at gas stations, providing car wash and lig
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI and automation are significantly replacing gas attendant jobs. The spread of self-service stations, automated EV charging, and contactless payment systems are gradually eliminating simple fueling tasks. AI can assist with customer service or inventory management, but the core role of gas attendants is expected to shrink.
-
 Growth to gas station manager or mechanic is possible, but the proportion of non-regular workers is high and promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Growth to gas station manager or mechanic is possible, but the proportion of non
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Gas station attendant is an E-9 permitted occupation, allowing employment of non-professional foreign workers. |
-| Subclass H-2 (H-2 (Working Visit)) | For overseas Koreans; gas station attendant work possible |
-| Subclass F-4 (F-4 (Overseas Korean)) | No employment restrictions; gas station attendant possible |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Possible to become mechanics or gas station managers, but relevant certificat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-station-attendant/KR)**

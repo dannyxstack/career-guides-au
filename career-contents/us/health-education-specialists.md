@@ -51,8 +51,6 @@ Provides and manages health education programmes to help individuals, families, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance health educators through data analysis, personalized content, and virtual assistants, amplifying their impact, but core interpersonal communication and community trust are irreplaceable.
-
 Entry-level health education specialists can advance to senior specialists, project managers, or department heads. Obtaining Certified Health Education Specialist (CHES) certification aids advancement. Some transition to public health policy or research.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level health education specialists can advance to senior specialists, proj
 | Subclass EB-3 (EB-3 Skilled Worker) | Bachelor's degree or 2 years of experience, requires PERM, longer wait times. |
 | Subclass TN (TN NAFTA Professional) | Applicable to Canadian and Mexican citizens, requiring relevant professional qualifications, no quota. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but CHES certification significantly boosts employment competi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-education-specialists/US)**

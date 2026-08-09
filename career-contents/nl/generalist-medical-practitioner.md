@@ -52,8 +52,6 @@ General practitioners are central to the Dutch healthcare system, providing prim
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
-
 After residency training, can enter clinic for independent practice, or take on academic or administrative roles such as clinical supervisor or department head. Some doctors pursue specialty training (e.g., family medicine) or engage in health policy development.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ After residency training, can enter clinic for independent practice, or take on 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to doctors with an employment contract and annual salary meeting the threshold (approximately €5,600/month in 2025), employer must be an IND recognized sponsor, enjoy 30% ruling tax benefit. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-salary positions (annual salary ≥€5,331/month, 2024 standard), requires a valid work contract, can bring family members, and can apply for permanent residence after 2 years of work. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from top 200 universities in the Netherlands and worldwide can apply within 1 year after graduation, then switch to a work visa after finding a job in the Netherlands. |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Clear progression path from entry-level to senior levels, with advancement to
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/generalist-medical-practitioner/NL)**

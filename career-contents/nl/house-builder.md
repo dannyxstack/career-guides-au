@@ -52,8 +52,6 @@ A building construction worker is responsible for constructing, maintaining, and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will enhance housing builders' design planning and site management, but repetitive physical tasks remain hard to replace entirely; entry-level roles are narrowing due to digital tool adoption, but demand for skilled workers is stable.
-
 Can progress from apprentice to skilled worker, foreman, or specialize in carpentry, bricklaying, and other areas. With experience, can become a self-employed contractor or project manager.
 
 **Tasks most exposed to AI:**
@@ -94,17 +92,9 @@ Can progress from apprentice to skilled worker, foreman, or specialize in carpen
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigration, requires annual salary to meet threshold (approx. €5,331/month in 2024). House construction workers usually do not qualify, but foremen or project managers may. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, higher education and high salary are required. Construction labourers generally do not qualify. |
-| Subclass Orientation Year (Orientation Year) | Graduate job-seeking visa allows 12 months of work in the Netherlands without skill restrictions. |
-| Subclass EU free movement (EU/EEA freedom of movement) | EU/EEA nationals do not need a work visa and can freely work in housing construction in the Netherlands. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +138,12 @@ A: Can advance to foreman, project supervisor, or specialize in fields like carp
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/house-builder/NL)**

@@ -4,8 +4,6 @@
 
 A broadcast specialist who collects and reports information through on-site coverage and interviews in fields such as news, sports, and entertainment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A broadcast specialist who collects and reports information through on-site cove
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI is used as an assistive tool rather than fully replacing reporters' work. AI automatic captioning, data analysis assistance, and video editing automation increase productivity, but core tasks requiring human judgment, such as on-site reporting and interviews, are difficult to replace.
-
 Typically, after joining terrestrial/general/cable broadcasters, progress from reporter to special correspondent to professional anchor. Career changes and freelance transitions are common, digital content production skills are important.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Typically, after joining terrestrial/general/cable broadcasters, progress from r
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | E-7 (Professional) visa available for hiring foreign reporters, Korean language ability required |
-| Subclass F-2 (Residence) | Long-term resident, freedom for broadcasting activities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: Not mandatory, but a related major is advantageous. Practical skills and port
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reporter/KR)**

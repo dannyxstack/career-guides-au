@@ -54,8 +54,6 @@ Television presenters introduce content, interview guests, lead discussions, and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core skills of TV hosts (improvised communication, emotional connection) are hard to replace in the short term, but tasks like script writing and data sorting have been penetrated by AI, intensifying competition for entry-level roles. Proactively embracing AI tools to enhance efficiency is necessary.
-
 Career path: assistant or journalist → news anchor or feature program host → senior host or producer → media executive or independent producer. May also transition to online content creation or brand endorsement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career path: assistant or journalist → news anchor or feature program host →
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Almost impossible. This occupation is not on the skilled occupation list and 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/television-presenter/AU)**

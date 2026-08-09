@@ -54,8 +54,6 @@ Cafe waitstaff in New Zealand handle ordering, making drinks and light meals, ca
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
-
 Common career path: cafe server → senior server/supervisor → store manager/regional manager. May also transition to hotel food and beverage or start own cafe. Some gain sponsorship for work visas leading to residency through accumulated experience.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Common career path: cafe server → senior server/supervisor → store manager/r
 | Subclass SMC (Skilled Migrant Category) | Cafe service workers are not eligible for skilled migration unless promoted to management with a salary 1.5 times the median. |
 | Subclass Green List T1 (Green List Tier 1 Direct Residence) | Not applicable |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Common career path: server → senior barista → supervisor → store manage
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cafe-worker-431211/NZ)**

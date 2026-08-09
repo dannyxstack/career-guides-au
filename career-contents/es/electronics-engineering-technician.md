@@ -4,8 +4,6 @@
 
 Electronic engineering technicians are responsible for designing, testing, maintaining, and repairing electronic devices and systems, covering fields such as communications, industrial control, and medical electronics, and are a key pillar of Spain's technology industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Electronic engineering technicians are responsible for designing, testing, maint
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine testing, documentation, and basic design tasks for electronic engineering technicians face risks from AI automation, but on-site fault diagnosis, system integration, and complex repairs still rely on human experience, with overall risks of moderate and requiring proactive skill upgrades.
-
 Junior Electronic Engineering Technicians can be promoted to Senior Technician, Team Leader, or to become an Electronic Engineer by earning an engineering degree (Grado en Ingeniería Electrónica) through further study, or transitioning to R&D or project management roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior Electronic Engineering Technicians can be promoted to Senior Technician, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals, requiring a university degree and at least 1 year of work experience, with an annual salary threshold of approximately €34,000 (2024), employed by a Spanish company. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires a Spanish employer sponsorship, and the position must meet the labor market test requirements (shortage occupations may be exempted). |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for highly skilled professionals, allowing quick residency through this visa after academic certification, suitable for large enterprises or research institutions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: The minimum requirement is FP Grado Superior (2 years), but many positions re
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineering-technician/ES)**

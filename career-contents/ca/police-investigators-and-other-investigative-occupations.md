@@ -52,8 +52,6 @@ Conduct criminal investigations, evidence collection, case analysis, etc., typic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on detectives and criminal investigators is mixed: automation will take over data analysis and document review, but core interrogation, interpersonal intuition, and on-site reasoning are hard to replace, and AI tools can actually improve case-solving efficiency.
-
 Junior investigators can advance to senior investigator, detective, or case team leader, then to investigation supervisor or department head, and can also transfer to national police agencies or specialized investigation units.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior investigators can advance to senior investigator, detective, or case team
 | Subclass LMIA (Labour Market Impact Assessment) | Employers must prove inability to recruit Canadian citizens or permanent residents; can apply for work permit then immigrate. |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Suitable for applicants with years of investigation experience and high language scores, but attention to professional qualification certification is needed |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a university bachelor's degree (criminal justice or related 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-investigators-and-other-investigative-occupations/CA)**

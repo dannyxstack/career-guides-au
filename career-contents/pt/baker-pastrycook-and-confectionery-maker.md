@@ -1,0 +1,126 @@
+# Bakers, Pastry-cooks and Confectionery Makers — career analysis · Portugal
+
+**Occupation code: 7512 (ISCO08)**
+
+
+---
+
+## 1. Education path / duration / cost
+
+(no data)
+
+---
+
+## 2. Qualifications & licensing
+
+(no data)
+
+---
+
+## 3. Job demand / competition / intensity
+
+**Job demand: medium-high (★★★☆☆).** National workforce approx. 35,957.
+
+**Competition: medium-high (★★★☆☆).**
+**Work intensity: medium-high (★★★½☆).**
+
+---
+
+## 4. Salary range
+
+(no data)
+
+---
+
+## 5. Future outlook / AI exposure
+
+**Future prospect: medium (★★½☆☆).**
+**AI replacement risk: medium-low (★★☆☆☆).**
+
+**Tasks most exposed to AI:**
+
+- Automatically weigh and dispense ingredients based on fixed recipes
+- Automatic dough kneading, proofing time monitoring, and oven temperature control
+- Mass production of standardized bread and pastries
+- Inventory counting and automatic raw material ordering
+- Basic bread and pastry shaping (e.g., dough dividing, rounding)
+
+**Where AI augments the role:**
+
+- Developing new flavors and nutritional combinations using AI recipe optimization software
+- Forecast daily sales through data analysis to reduce waste
+- Enhance creative baking using 3D cake design and AR decoration
+- AI-assisted marketing and customer customization for social media and e-commerce platforms
+- Intelligent temperature control and quality sensors for consistent output
+
+**Human moat:**
+
+- Artisan Decoration and Custom Cake Craft
+- New product R&D and recipe innovation without BOM
+- On-site customer interaction and understanding of customized requirements
+- Manage and train kitchen team
+- Flexibly adjust processes in non-standard environments (e.g., temperature/humidity changes)
+
+**Skills to build:**
+
+- AI formulation software and data analysis tools
+- 3D cake printer and digital decoration equipment operation
+- Use of inventory management and forecasting systems
+- Social media marketing and e-commerce platform operation
+- Food safety and automated equipment maintenance
+
+---
+
+## 6. Migration pathways / PR
+
+As an EU member state, Portugal admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
+
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
+
+---
+
+## 7. Who is / isn't suited
+
+**Who is suited**
+- —
+
+**Who is not suited**
+- —
+
+---
+
+## 8. FAQ
+
+**Q: What is the average salary for bakers and pastry cooks in Portugal?**
+A: The average gross monthly salary for bakers and pastry cooks in Portugal ranges from €800 to €1,200, depending on experience, location, and employer. In luxury hotels or high-end patisseries, salaries can reach up to €1,500. Confectionery makers earn similar amounts, with entry-level positions starting lower.
+
+**Q: What visa options exist for non-EU bakers or pastry cooks to work in Portugal?**
+A: Non-EU workers need a work visa with a valid job offer. The D3 Visa for Highly Skilled Professionals is an option if you have specialized qualifications or experience. The EU Blue Card requires a tertiary degree and a salary at least 1.5 times the national average, which may not apply to most bakers. Alternatively, a regular work visa sponsored by an employer is common.
+
+**Q: Where do bakers and pastry cooks typically work in Portugal?**
+A: Bakers and pastry cooks are employed in artisanal bakeries, pastry shops, hotel kitchens, restaurants, and supermarkets. Industrial bakeries also hire for mass production. Tourism hubs like Lisbon, Porto, and the Algarve offer more opportunities, especially in upscale establishments. Self-employment is possible for those running their own small businesses.
+
+
+---
+
+## Quick summary
+
+| Dimension | Rating |
+|---|---|
+| Learning duration | medium (★★½☆☆) |
+| Learning difficulty | medium (★★½☆☆) |
+| Certification difficulty | low (★½☆☆☆) |
+| Job demand | medium-high (★★★☆☆) |
+| Competition | medium-high (★★★☆☆) |
+| Work intensity | medium-high (★★★½☆) |
+| Future prospect | medium (★★½☆☆) |
+| AI replacement risk | medium-low (★★☆☆☆) |
+
+---
+
+## Data sources
+
+- Statistics Portugal (INE) (ISCO-08)
+- AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker-pastrycook-and-confectionery-maker/PT)**

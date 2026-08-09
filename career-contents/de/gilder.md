@@ -53,8 +53,6 @@ A gilder is a craft specialist who applies gold leaf or metallic coatings to sur
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gilders' work is highly manual and artistic; AI/automation can assist in precise coating and material handling, but core creativity and fine hand skills are hard to replace. Overall risk is medium; proactive adoption of digital tools is recommended.
-
 Career path: from apprentice (Ausbildung) to skilled worker, can advance to master (Meister) and start own business, or specialize in art restoration, museum work, etc.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career path: from apprentice (Ausbildung) to skilled worker, can advance to mast
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: After completing dual vocational training, one can become a skilled worker, g
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gilder/DE)**

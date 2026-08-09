@@ -52,8 +52,6 @@ Grants officers in government and public agencies design, assess, disburse, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Funding officers' evaluation and data verification tasks are easily automated by AI, but parts involving fiscal responsibility, conflict of interest adjudication, and policy interpretation remain highly dependent on human judgment. The overall role will not disappear, but job content will shift to high-risk decisions and stakeholder management.
-
 Path: Grants Officer → Senior/Grants Coordinator → Project Manager; income determined by finance, compliance and review experience.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Path: Grants Officer → Senior/Grants Coordinator → Project Manager; income d
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No, it is a local government role, often requiring citizenship.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grants-officer/AU)**

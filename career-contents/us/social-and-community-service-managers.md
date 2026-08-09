@@ -52,8 +52,6 @@ Plan, direct, or coordinate activities of social service programs or community o
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Typically promoted from social worker or project coordinator, can develop into regional director or executive director. A master's degree (MSW) and clinical license help for advanced roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically promoted from social worker or project coordinator, can develop into r
 | Subclass EB-2 (EB-2 Advanced Degree) | Master's degree or bachelor's plus 5 years experience, requires PERM labor certification. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Bachelor's degree or 2 years of training experience, requiring PERM labor certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Strong growth, driven by aging population and mental health needs. Many oppor
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-and-community-service-managers/US)**

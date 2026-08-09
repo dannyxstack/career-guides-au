@@ -54,8 +54,6 @@ Responsible for designing, developing, implementing, and maintaining an organiza
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on information systems experts is mixed: lower-level operations tasks are compressed by automation, but complex judgment areas like system architecture and security analysis are enhanced, requiring continuous skills upgrades to avoid replacement.
-
 Entry-level can advance to senior analyst or project manager, then to IT architect, Chief Information Officer (CIO), or cybersecurity expert, requiring continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Entry-level can advance to senior analyst or project manager, then to IT archite
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can add points or directly apply for permanent residence |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable if employer is in this region. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Very good. Demand for digital transformation, cloud services, and cybersecuri
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-systems-specialists/CA)**

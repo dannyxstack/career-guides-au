@@ -1,8 +1,8 @@
-# Electrical Equipment and Product Development Engineer and Researcher 职业分析 · 韩国
+# 电气设备和产品开发工程师及研究员（Electrical Equipment and Product Development Engineer and Researcher）职业分析 · 韩国
 
-**职业代码: 15311 (KECO)**
+**职业代码：15311 (KECO)**
 
-As a research and development expert, they design, develop, test, and analyze the performance of electrical equipment and products, including power equipment, home appliances, and industrial electrical equipment.
+作为研发专家，设计、开发、测试和分析电气设备及产品（包括电力设备、家用电器和工业电气设备）的性能。
 
 
 ---
@@ -11,9 +11,9 @@ As a research and development expert, they design, develop, test, and analyze th
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $2,000,000~$4,000,000（Based on annual tuition, national/public university standard） |
-| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（Based on annual tuition, national/public university standard） |
-| 硕士 | 2 年 | $5,000,000~$10,000,000（Based on annual tuition, national/public university standard） |
+| 副学士学位 | 2 年 | $2,000,000~$4,000,000（按年学费计算，国立/公立大学标准） |
+| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（按年学费计算，国立/公立大学标准） |
+| 硕士 | 2 年 | $5,000,000~$10,000,000（按年学费计算，国立/公立大学标准） |
 
 ---
 
@@ -21,17 +21,17 @@ As a research and development expert, they design, develop, test, and analyze th
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 电气工程师 | Human Resources Development Service of Korea | 可选 | National technical qualification, written and practical exams |
-| Electrical Construction Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, optional |
+| 电气工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，笔试和实操考试 |
+| 电气施工工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. Demand is expected to increase due to the growth of related industries such as electric vehicles, renewable energy, and smart grids, but hiring will likely focus on high-level talent.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。由于电动汽车、可再生能源和智能电网等相关行业的增长，需求预计将增加，但招聘可能集中在高水平人才上。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,93 +39,85 @@ As a research and development expert, they design, develop, test, and analyze th
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $30,000,000~$45,000,000 | Based on large corporation standards; small/medium enterprises may be lower |
-| Mid-Level (4–9 years) | $45,000,000~$70,000,000 | Varies greatly with experience |
-| Senior Level (10+ years) | $70,000,000~$99,999,999 | Salary level of principal researcher |
+| 入门级（0–3年） | $30,000,000~$45,000,000 | 按大企业标准；中小企业可能更低 |
+| 中级（4–9年） | $45,000,000~$70,000,000 | 随经验变化很大 |
+| 高级（10年以上） | $70,000,000~$99,999,999 | 首席研究员薪资水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used for design automation and simulation optimization, but humans play a major role in core design and creative problem-solving. There is potential for some tasks to be replaced by automation, but overall demand is expected to remain stable.
+AI用于设计自动化和仿真优化，但在核心设计和创造性问题解决中人类扮演主要角色。部分任务可能被自动化取代，但总体需求预计保持稳定。
 
-Typically start at research labs or R&D centers of large corporations, with potential promotion to senior researcher or principal researcher based on experience. Holding a master's or doctoral degree is advantageous.
+通常从大型企业的研究实验室或研发中心开始，根据经验可晋升为高级研究员或首席研究员。持有硕士或博士学位有优势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic design simulation
-- Data analysis and report writing
-- Simple testing and evaluation
+- 基本设计模拟
+- 数据分析与报告撰写
+- 简单测试与评估
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal design exploration
-- Advanced simulation
-- Performance prediction
+- 最优设计探索
+- 高级模拟
+- 绩效预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative design
-- Field experience-based problem solving
-- Safety and regulatory judgment
+- 创意设计
+- 基于现场经验的问题解决
+- 安全与法规判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/Machine learning
-- Python programming
-- Simulation software
+- AI/机器学习
+- Python编程
+- 模拟软件
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric vehicles
-- Renewable energy
-- Smart grid
-- ICT convergence
+- 电动汽车
+- 可再生能源
+- 智能电网
+- ICT融合
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | E-7 (Professional Employment) visa, possible in electric device development |
-| Subclass E-9 (Non-professional Employment) | Not suitable for this occupation, classified as professional |
-| Subclass F-2 (Residence) | Long-term stay possible, no employment restrictions |
-| Subclass D-10 (Job Seeking) | Post-degree job seeking possible, switch to E-7 upon employment |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in electrical/electronic engineering
-- People who enjoy problem-solving and creative design
-- People with teamwork and documentation skills
+- 对电气/电子工程感兴趣的人
+- 喜欢解决问题和创意设计的人
+- 具有团队合作和文档技能的人
 
 **谁不适合**
-- People who prefer repetitive simple tasks
-- People who find it difficult to acquire theoretical knowledge
+- 偏好重复性简单任务的人
+- 难以掌握理论知识的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for an electric device developer?**
-答：Entry-level salary at large corporations is approximately 30-45 million KRW, while it may be lower at small and medium-sized enterprises.
+**问：电子设备开发人员的平均起薪是多少？**
+答：大企业入门薪资约为3000-4500万韩元，中小企业可能较低。
 
-**问：Can foreigners get a job with an E-7 visa?**
-答：Yes, it is possible. The field of electrical equipment development is a professional occupation eligible for the E-7 visa, requiring a bachelor's degree or higher and work experience.
+**问：外国人可以通过E-7签证就业吗？**
+答：是的，可以。电气设备开发领域属于专业职业，符合E-7签证要求，需本科及以上学历和工作经验。
 
-**问：What qualifications are needed for promotion?**
-答：A master's or doctoral degree or an electrical engineer certificate is advantageous, and research achievements and project experience are important.
+**问：晋升需要哪些资格？**
+答：硕士或博士学位或电气工程师证书有优势，研究成果和项目经验很重要。
 
 
 ---
@@ -143,12 +135,12 @@ Typically start at research labs or R&D centers of large corporations, with pote
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-equipment-and-product-development-engineer-and-researcher/KR)**

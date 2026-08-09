@@ -1,10 +1,8 @@
-# Painter 职业分析 · 韩国
+# 油漆工（Painter）职业分析 · 韩国
 
-**职业代码: 41411 (KECO)**
+**职业代码：41411 (KECO)**
 
-An artist who uses paint on canvas or walls to create artworks, engaging in creative activities through exhibitions, sales, commissioned works, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在画布或墙壁上使用颜料的艺术家，通过展览、销售、委托作品等进行创作活动。
 
 
 ---
@@ -13,9 +11,9 @@ An artist who uses paint on canvas or walls to create artworks, engaging in crea
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior college (2-3 years) | 2-3年 | $15,000,000~$25,000,000（Tuition and material costs based on national/public university standards） |
-| University (4 years) | 4年 | $20,000,000~$40,000,000（Tuition and material costs based on private university standards） |
-| Graduate school (Master's 2 years) | 2 年 | $15,000,000~$30,000,000（Graduate tuition, additional material costs not included） |
+| 大专（2-3年） | 2-3年 | $15,000,000~$25,000,000（按国立/公立大学标准收取的学费和材料费） |
+| 大学（4年） | 4年 | $20,000,000~$40,000,000（基于私立大学标准的学费和材料费） |
+| 研究生院（硕士2年） | 2 年 | $15,000,000~$30,000,000（研究生学费，不含额外材料费） |
 
 ---
 
@@ -23,18 +21,18 @@ An artist who uses paint on canvas or walls to create artworks, engaging in crea
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Art-related degree | College/Graduate school | 可选 | Not mandatory for employment but advantageous for career |
-| Solo and group exhibition experience | Gallery/Exhibition planning agencies | 可选 | Core evidence of career |
-| Awards in competitions | Korea Fine Arts Association, etc. | 可选 | Awards help in early career |
+| 艺术相关学位 | 学院/研究生院 | 可选 | 就业非强制但对职业发展有利 |
+| 个展和群展经验 | 画廊/展览策划机构 | 可选 | 核心职业证据 |
+| 竞赛获奖 | 韩国美术协会等 | 可选 | 奖项在早期职业生涯中有帮助 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 8,000. With the spread of digital art, the traditional painting market is stagnant, but demand for original works is expected to remain steady. Employment is limited to a small number.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 8,000。随着数字艺术的普及，传统绘画市场停滞不前，但原创作品需求预计保持稳定。就业仅限于少数人。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,94 +40,86 @@ An artist who uses paint on canvas or walls to create artworks, engaging in crea
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $12,000,000~$24,000,000 | Based on freelance income, annual artwork sales revenue |
-| 中级（4-9年） | $24,000,000~$48,000,000 | Gallery contract or stable sales |
-| Advanced (10+ years) | $48,000,000~$99,999,999 | When selling to famous artists or high-priced works |
+| 初级（0-3年） | $12,000,000~$24,000,000 | 基于自由职业收入，年度艺术品销售收入 |
+| 中级（4-9年） | $24,000,000~$48,000,000 | 画廊合同或稳定销售 |
+| 高级（10年以上） | $48,000,000~$99,999,999 | 销售给知名艺术家或高价作品时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is increasing its replacement power in the illustration field through image generation tools (DALL-E, Midjourney, etc.), but original artworks and paintings with unique styles remain the domain of human artists. AI is used as a creative tool, and complete replacement is unlikely.
+AI通过图像生成工具（DALL-E、Midjourney等）正在增强对插画领域的替代能力，但具有独特风格的原创艺术品和绘画仍是人类艺术家的领域。AI被用作创意工具，完全替代不太可能。
 
-After graduating from art school, one builds experience through solo and group exhibitions, solidifying their position through gallery contracts or competition wins. In the long term, participation in art fairs or securing sponsorships is important.
+从艺术学校毕业后，通过个展和群展积累经验，通过画廊合同或比赛获奖巩固地位。长期来看，参加艺术博览会或获得赞助很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Commercial Illustration
-- Simple Custom Portraits
-- Pattern Design
+- 商业插图
+- 简单定制肖像
+- 图案设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea Sketching
-- Color Combination Exploration
-- Digital Work Efficiency
+- 创意草图
+- 颜色组合探索
+- 数字化工作效率
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique Style and Philosophy
-- Emotional Expression and Storytelling
-- Texture and Originality of Physical Works
+- 独特风格与理念
+- 情感表达与叙事
+- 实体作品的质感与原创性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Art Tool Utilization
-- Digital Painting
-- Online Marketing and SNS Promotion
-- Various Media Experiments
+- AI艺术工具应用
+- 数字绘画
+- 在线营销与SNS推广
+- 多种媒体实验
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Arts and Culture Industry
-- Original Creative Activities
-- Custom Art
-- Digital Art
+- 文化艺术产业
+- 原创创意活动
+- 定制艺术品
+- 数字艺术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Only possible for art-related professional activities like academy instructors; pure creative work as a painter is not applicable |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no restrictions on painter activities but difficult to obtain |
-| Subclass F-4 (F-4 (Overseas Korean)) | Only for overseas Koreans, can engage in painter activities while staying |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those passionate about original expression
-- Those who can continue artistic work self-directedly
-- Those who value artistic value over fixed income
+- 热爱原创表达的人
+- 能够自主持续进行艺术工作的人
+- 重视艺术价值而非固定收入的人
 
 **谁不适合**
-- Those who want stable income and employment
-- Those who prefer a regular work environment
+- 追求稳定收入和就业的人
+- 偏好规律工作环境者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a painter?**
-答：Initially, it ranges from 12 to 24 million KRW per year, with significant differences depending on experience and recognition. Senior artists may earn over 100 million KRW.
+**问：画家的平均工资是多少？**
+答：初期年薪在1200万至2400万韩元之间，视经验和知名度差异显著。资深艺术家可能超过1亿韩元。
 
-**问：Can foreigners work as painters in Korea?**
-答：There is no visa specifically for pure painting activities. The E-7 visa is limited to related instructor activities, and is only possible for holders of F-2 or F-4 visas.
+**问：外国人能在韩国成为画家吗？**
+答：没有专门针对纯绘画活动的签证。E-7签证仅限于相关指导活动，仅适用于F-2或F-4签证持有者。
 
-**问：Do I have to graduate from an art college to become a painter?**
-答：It's not mandatory, but university education and exhibition experience greatly help in art activities and networking.
+**问：我必须从艺术学院毕业才能成为画家吗？**
+答：非强制要求，但大学教育和展览经验对艺术活动和社交网络有很大帮助。
 
 
 ---
@@ -147,12 +137,12 @@ After graduating from art school, one builds experience through solo and group e
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/painter/KR)**

@@ -54,8 +54,6 @@ Manage the daily operations of a dairy farm, including feeding, breeding, health
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can progress from farm worker to farm manager, or move into dairy processing, agricultural consulting, or own farm operation.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from farm worker to farm manager, or move into dairy processing, ag
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, needs to meet state nomination requirements |
 | Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa, transitioning to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress from farm hand to manager, or transition to agricultural consult
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dairy-cattle-farmer/AU)**

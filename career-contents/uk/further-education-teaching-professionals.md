@@ -52,8 +52,6 @@ Teaches trade, technical, business, and academic courses at further education co
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Continuing education teaching professionals will not be easily replaced by AI but must actively embrace AI tools for personalised teaching and automating administrative tasks to improve efficiency and teaching outcomes, otherwise they may fall behind peers.
-
 Career path usually starts as lecturer, progressing to senior lecturer, course head, department head, and even deputy principal or principal of a college. Can also move into education policy, training consultancy, or higher education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career path usually starts as lecturer, progressing to senior lecturer, course h
 | Subclass T2 (General) (Tier 2 (General) Visa) | Applicable to employer-sponsored skilled workers |
 | Subclass Graduate (Graduate Visa) | Allows graduates to work in the UK for two years, then switch to Skilled Worker after gaining teaching experience |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance from lecturer to senior lecturer, course director, department hea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/further-education-teaching-professionals/UK)**

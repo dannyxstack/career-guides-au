@@ -53,8 +53,6 @@ Teach courses in childcare, family relationships, finance, nutrition, and home m
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Promotion from assistant professor to associate and full professor; tenure possible through research output and teaching evaluations. May also move into administrative roles like department head or academic program director.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Promotion from assistant professor to associate and full professor; tenure possi
 | Subclass EB-2 (EB-2 Advanced Degree) | Advanced degree-based occupational immigration, requires PERM labor certification, suitable for associate professors and above |
 | Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding research or teaching achievements, no labor certification required |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: High, requires a PhD and high competitiveness, H-1B visa cap tight, EB-2 gree
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/family-and-consumer-sciences-teachers-postsecondary/US)**

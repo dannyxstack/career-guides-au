@@ -4,8 +4,6 @@
 
 Processes cash and credit card transactions at retail stores, supermarkets, ticket offices, etc., and provides customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Processes cash and credit card transactions at retail stores, supermarkets, tick
 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-Cashier and ticket seller jobs will be significantly reduced due to automated checkout systems, self-service ticket machines, and AI payment processing. Job numbers are expected to decrease by 30-50% over the next decade, with entry-level positions especially at risk.
 
 Experience can lead to promotion to head cashier or store manager, or transition to roles in customer service, sales, etc.
 
@@ -100,16 +96,9 @@ Experience can lead to promotion to head cashier or store manager, or transition
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Free Movement) | EU citizens can freely work in the Netherlands without a work permit. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled immigrants, but cashier salaries usually do not meet the threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: The prevalence of self-checkout has reduced some positions, but manual handli
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier-and-ticket-clerk/NL)**

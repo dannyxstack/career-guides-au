@@ -55,8 +55,6 @@ Operate equipment in the pulp and paper production process, including pulping, b
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pulp and paper mill operators face a high risk of automation replacement, especially in monitoring and repetitive operation tasks, but on-site troubleshooting and equipment maintenance still rely on human judgment.
-
 Career progression starts from operator, advancing to senior operator, team leader, or production supervisor. Training can lead to quality control or maintenance roles, or into related manufacturing industries.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression starts from operator, advancing to senior operator, team lead
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Usually requires high school graduation, with employers providing on-the-job 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-and-papermaking-plant-operator/IE)**

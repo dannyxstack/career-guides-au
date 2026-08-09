@@ -1,10 +1,8 @@
-# Ignition, Blasting, and Explosives Manager 职业分析 · 韩国
+# 点火、爆破和爆炸物经理（Ignition, Blasting, and Explosives Manager）职业分析 · 韩国
 
-**职业代码: 70591 (KECO)**
+**职业代码：70591 (KECO)**
 
-A skilled professional responsible for loading and igniting explosives for blasting operations, as well as transporting, storing, and managing explosives.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责装载和引爆炸药进行爆破作业，以及运输、储存和管理炸药的专业技术工人。
 
 
 ---
@@ -13,8 +11,8 @@ A skilled professional responsible for loading and igniting explosives for blast
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（Certification obtainable after high school） |
-| 副学士学位 | 2 年 | $7,000,000~$10,000,000（Resources and Minerals Related Field） |
+| 高中毕业 | 0年 | $0~$0（高中毕业后可获得认证） |
+| 副学士学位 | 2 年 | $7,000,000~$10,000,000（资源和矿产相关领域） |
 
 ---
 
@@ -22,18 +20,18 @@ A skilled professional responsible for loading and igniting explosives for blast
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Explosives Safety Manager | Ministry of Employment and Labor | 必备 | Required for blasting and explosives management |
-| Blasting Technician | Human Resources Development Service of Korea | 必备 | Specialized blasting qualification |
-| Construction Materials Testing Engineer | Human Resources Development Service of Korea | 可选 | Useful in civil and mining sites |
+| 爆炸物安全经理 | 雇佣劳动部 | 必备 | 爆破和爆炸物管理所需 |
+| 爆破技术员 | 韩国人力资源开发服务局 | 必备 | 专业爆破资质 |
+| 建筑材料检测工程师 | 韩国人力资源开发服务局 | 可选 | 在土木和矿山现场有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Employment is stable due to domestic construction, civil engineering, and mining demand, but may shrink due to strengthened safety regulations and automation technology.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于国内建筑、土木工程和矿业需求，就业稳定，但因安全法规加强和自动化技术可能萎缩。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,87 +39,80 @@ A skilled professional responsible for loading and igniting explosives for blast
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $30,000,000~$35,000,000 | Assistant blaster, pre-tax annual salary |
-| Mid Level (4–9 years) | $40,000,000~$50,000,000 | Blasting Safety Manager, pre-tax annual salary |
-| Senior Level (10+ years) | $55,000,000~$70,000,000 | Site Manager level, pre-tax annual salary |
+| 入门级（0–3年） | $30,000,000~$35,000,000 | 助理爆破员，税前年薪 |
+| 中级（4-9年） | $40,000,000~$50,000,000 | 爆破安全经理，年薪税前 |
+| 高级（10年以上） | $55,000,000~$70,000,000 | 现场经理级别，税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 很低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：很低（★☆☆☆☆）**
 
-Although it is an occupation with limited impact from AI and automation, efficiency is being improved through the introduction of software in some tasks such as blast design. Human judgment in ignition and risk management is difficult to replace for the time being.
+虽然该职业受AI和自动化影响有限，但通过引入软件（如爆破设计）提高了效率。点火和风险管理中的人工判断短期内难以替代。
 
-Beginners start as assistant blasters and can advance to blasting and explosives management positions after obtaining certifications.
+初学者从爆破助手做起，获得认证后可晋升至爆破和炸药管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple ignition work
-- Regular explosives inventory management
+- 简单点火工作
+- 定期爆炸物库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Blast design optimization
-- Vibration and noise monitoring analysis
+- 爆破设计优化
+- 振动和噪声监测分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Crisis response ability
-- Explosive safety management know-how
-- Experience-based judgment
+- 危机应对能力
+- 爆炸安全管控知识
+- 基于经验的判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Blasting Engineering
-- Safety Management
-- Data Analysis
-- Drone Operation
+- 爆破工程
+- 安全管理
+- 数据分析
+- 无人机操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Blasting Techniques
-- Explosives Management
-- Mine Safety
-- Civil Blasting
+- 爆破技术
+- 爆炸物管理
+- 矿山安全
+- 民用爆破
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can work as a blasting/explosives management specialist |
-| Subclass E-9 (Non-professional Employment) | Possible to convert to E-9 for simple mining/civil engineering work or skilled functions |
-
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength and willingness to take risks
-- People who are meticulous and strictly follow safety rules
+- 体力好且愿意冒险的人
+- 细心且严格遵守安全规则的人
 
 **谁不适合**
-- People with acrophobia
-- People lacking responsibility and negligent
+- 恐高症患者
+- 缺乏责任心和疏忽的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a blaster/powder man?**
-答：It ranges from 30 million to 70 million KRW depending on experience, increasing with skill level.
+**问：爆破工/火药工的平均年薪是多少？**
+答：根据经验，薪资范围在3000万至7000万韩元之间，随技能水平提高而增加。
 
-**问：Can foreigners work as blasters/powder men in Korea?**
-答：Possible with an E-7 visa and professional certification, requiring the Explosives Safety Manager qualification and Korean language proficiency.
+**问：外国人可以在韩国担任爆破工/装药工吗？**
+答：持有E-7签证和专业认证，需具备爆炸物安全管理员资格和韩语能力。
 
 
 ---
@@ -139,12 +130,12 @@ Beginners start as assistant blasters and can advance to blasting and explosives
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ignition-blasting-and-explosives-manager/KR)**

@@ -51,8 +51,6 @@ Responsible for diagnosing, repairing, and maintaining motors, generators, trans
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will partially automate diagnostic and remote monitoring tasks, but physical repairs and complex troubleshooting still require humans; this is a bittersweet transition period.
-
 Junior maintenance workers can start as apprentices (FPs) and gain experience before being promoted to senior technicians or team leaders. They can also specialize in specific areas (such as industrial frequency converters and wind power maintenance) to increase revenue. Some have switched to electrical engineering (requiring additional education) or opened their own repair shops.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior maintenance workers can start as apprentices (FPs) and gain experience be
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract provided by a Spanish company that meets national occupational classification requirements and must prove that the employer cannot find suitable candidates within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled positions (if repairing advanced equipment requires engineering degree), annual salary threshold approximately EUR 33,900. |
-| Subclass Busqueda empleo (Job-Seeker Visa) | You are allowed to stay in Spain for 6-9 months looking for work, and you must prove your financial ability and education/experience meet the job requirements. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Typically, you need to complete 2 years of intermediate vocational training (
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-equipment-mechanics-and-repairers/ES)**

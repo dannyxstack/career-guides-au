@@ -50,8 +50,6 @@ Kitchen hands assist with food preparation, washing, and general kitchen duties.
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Kitchen hand is a high-risk automation role; AI and robots will significantly replace repetitive tasks like food prep and washing, reducing entry-level positions, but humans still have advantages in complex kitchen coordination and quality control.
-
 Progression is possible towards cook or kitchen supervisor roles (cook is an STSOL migration occupation).
 
 **Tasks most exposed to AI:**
@@ -94,9 +92,7 @@ Progression is possible towards cook or kitchen supervisor roles (cook is an STS
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -136,12 +132,13 @@ A: No. However, it can serve as a stepping stone to qualifying as a Cook (an STS
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchenhand/AU)**

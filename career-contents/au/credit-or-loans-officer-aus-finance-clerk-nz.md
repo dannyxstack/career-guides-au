@@ -52,8 +52,6 @@ Credit officers assess loan applications, review clients' credit status, and pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Credit officers' routine data entry and preliminary assessment tasks are easily automated by AI, but complex decision-making, client communication, and risk judgment still require humans; the role has a mixed impact overall.
-
 Can advance from junior credit officer to senior credit officer, credit manager, or transition to roles in risk analysis, investment advisory, etc.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior credit officer to senior credit officer, credit manager,
 | Subclass 189 (Skilled Independent Visa) | Points test, occupation on MLTSSL |
 | Subclass 190 (Skilled Nominated Visa) | State nomination, additional points |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Although not mandatory, holding an undergraduate degree in finance or busines
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-or-loans-officer-aus-finance-clerk-nz/AU)**

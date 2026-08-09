@@ -51,8 +51,6 @@ A shipping merchant is responsible for ship chartering, cargo transport contract
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of shipping clerks (contract drafting, document processing, data entry) are easily automated by AI, reducing entry-level positions; however, higher-level tasks such as business negotiations and customer relationships still require human judgment.
-
 Can progress from junior shipping clerk to chartering broker or department head, and with experience move into management or become an international shipping specialist.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior shipping clerk to chartering broker or department head,
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For employees with recognized German professional qualifications or university degrees, no salary threshold, requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job seeker visa based on a points system, allowing job search in Germany, requiring language, age, and other conditions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Residence and work permits can be obtained through the EU Blue Card (requires
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shipping-merchant/DE)**

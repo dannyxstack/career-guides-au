@@ -52,8 +52,6 @@ Set up, operate, or tend extrusion machines to process liquid polymers, rayon, f
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of synthetic fiber extrusion machine operators is highly repetitive and procedural; AI and automation will gradually take over most operations and monitoring tasks, leading to significant demand compression.
-
 Junior operators can advance to senior operators or team leaders, with some transitioning to quality control or equipment maintenance; requires experience and learning automation systems.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior operators can advance to senior operators or team leaders, with some tran
 | Subclass H-1B (H-1B Specialty Occupations) | This occupation typically does not meet H-1B professional position requirements |
 | Subclass EB-3 (EB-3 Skilled Workers) | Rarely sponsored; must prove no US workers available |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Very difficult. This occupation is usually classified as a machine operator, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/extruding-and-forming-machine-setters-operators-and-tenders-synthetic-and-glass-fibers/US)**

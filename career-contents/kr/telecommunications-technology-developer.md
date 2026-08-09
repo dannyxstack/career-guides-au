@@ -4,8 +4,6 @@
 
 A professional who researches and develops wired/wireless communication systems, network equipment, and communication software. Designs and optimizes next-generation communication technologies such as 5G/6G, IoT, and satellite communications.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who researches and develops wired/wireless communication systems,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace parts of communication system design and optimization, but creative research and complex system integration remain the role of human experts. AI tools will improve development efficiency, potentially compressing demand for manpower.
-
 After joining an R&D center, telecom carrier, or research institute at a large company, career progression from Assistant → Senior → Principal Researcher. Faster promotion with a doctoral degree or core technology patents. Continuous learning to keep up with global tech trends required.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ After joining an R&D center, telecom carrier, or research institute at a large c
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued to R&D personnel in high-tech fields; requires skill and high education |
-| Subclass D-10 (Job-seeking) | Targeting master's/doctoral job-seekers in telecommunications; 6-month stay |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term E-7 stay; ensures settlement stability |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Electronic engineering, communications engineering, computer engineering are 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-technology-developer/KR)**

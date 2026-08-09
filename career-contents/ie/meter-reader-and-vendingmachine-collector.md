@@ -52,8 +52,6 @@ Responsible for reading water, electricity, and gas meter readings, as well as c
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Meter readers and vending machine collectors rely heavily on outdoor physical labor. AI and automation technologies (e.g., remote smart meter reading, cashless payments, and inventory sensors) are rapidly replacing core tasks, leading to a continued decline in job demand.
-
 Limited career progression; can advance to senior meter reader or team supervisor, or move to other field service roles in energy companies. Vending machine collectors can advance to regional manager.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Limited career progression; can advance to senior meter reader or team superviso
 | Subclass General Employment P (General Employment Permit) | Applicable for non-shortage occupations, requires employer sponsorship, annual salary not less than €30,000. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, applicable to management or technical positions. |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Limited promotion opportunities; can become a senior meter reader or transfer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meter-reader-and-vendingmachine-collector/IE)**

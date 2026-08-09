@@ -1,10 +1,8 @@
-# Water Treatment Plant Operator 职业分析 · 韩国
+# 水处理厂操作员（Water Treatment Plant Operator）职业分析 · 韩国
 
-**职业代码: 85311 (KECO)**
+**职业代码：85311 (KECO)**
 
-This is a specialized job that involves operating and managing water and wastewater treatment facilities to supply safe water and purify wastewater.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一项专业工作，涉及运营和管理水处理及废水处理设施，以供应安全的水并净化废水。
 
 
 ---
@@ -13,8 +11,8 @@ This is a specialized job that involves operating and managing water and wastewa
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Employment possible after high school graduation） |
-| Associate degree (Environmental Engineering, etc.) | 2 年 | $5,000,000~$12,000,000（学院 tuition） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后即可就业） |
+| 副学士学位 (环境工程等) | 2 年 | $5,000,000~$12,000,000（学院 tuition） |
 
 ---
 
@@ -22,18 +20,18 @@ This is a specialized job that involves operating and managing water and wastewa
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Engineer Water Quality | Human Resources Development Service of Korea | 可选 | Favorable for employment |
-| Water Facility Manager | Korea Water Resources Corporation | 可选 | Specialized qualification in water supply sector |
-| Operating license (crane, etc.) | Korea Transportation Safety Authority | 可选 | Required at some facilities |
+| 水质工业工程师 | 韩国人力资源开发服务局 | 可选 | 有利于就业 |
+| 水务设施管理员 | 韩国水资源公社 | 可选 | 供水领域的专业资格 |
+| 操作许可证（起重机等） | 韩国交通安全局 | 可选 | 部分设施要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 17,000. Due to climate change and increasing demand for advanced water treatment, demand for specialized personnel continues. However, it is mainly in the public sector and automation is expected to have an impact.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 17,000。由于气候变化和对先进水处理需求的增加，专业人才需求持续增长，但主要集中于公共部门，且自动化预计会带来影响。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,85 @@ This is a specialized job that involves operating and managing water and wastewa
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $25,000,000~$32,000,000 | Based on public institutions |
-| Intermediate (4–9 years) | $32,000,000~$42,000,000 | 经验丰富后增长 |
-| Advanced (10 years or more) | $42,000,000~$55,000,000 | Includes management positions |
+| Beginner (0–3 years) | $25,000,000~$32,000,000 | 基于公共机构 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 经验丰富后增长 |
+| 高级（10年及以上） | $42,000,000~$55,000,000 | 包含管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation can replace some monitoring and data analysis tasks, but on-site operation and maintenance require human judgment, making full replacement difficult.
+人工智能和自动化可以替代一些监控和数据分析任务，但现场运维需要人类判断，完全替代困难。
 
-Promotion path: junior operator → senior operator → team leader → facility manager; obtaining relevant certifications and experience are important.
+晋升路径：初级操作员→高级操作员→团队领导→设施经理；获得相关认证和经验至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular data recording
-- Simple monitoring
-- Basic online analysis
+- 定期数据记录
+- 简单监控
+- 基础在线分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault prediction and diagnosis
-- Optimal chemical injection control
-- Energy efficiency management
+- 故障预测与诊断
+- 最优化学注入控制
+- 能效管理
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site inspection and repair
-- Emergency response
-- Facility expertise
+- 现场检查与维修
+- 应急响应
+- 设施专业知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of smart water systems
-- Basics of data analysis
-- Remote control technology
+- 了解智能水务系统
+- 数据分析基础
+- 远程控制技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Advanced water treatment
-- Smart water management
-- Strengthening environmental regulations
-- Aging facilities
+- 高级水处理
+- 智能水管理
+- 加强环保法规
+- 设施老化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment as skilled technical personnel is possible, but experience requirements are strict |
-| Subclass E-9 (Non-professional Employment) | Possible in some wastewater treatment fields but limited |
-| Subclass F-2 (Residence) | Possible for compatriots or long-term residents |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in the environment and machinery
-- People who prefer routine tasks
-- People who find reward in public service
+- 对环境和机械感兴趣的人
+- 喜欢常规任务的人
+- 从公共服务中获得回报的人
 
 **谁不适合**
 - 不喜欢户外工作的人
-- People who find repetitive tasks boring
+- 觉得重复性任务无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：For public institutions, the annual salary is about 25 to 32 million KRW, increasing with experience.
+**问：起薪是多少？**
+答：公共机构年薪约2500-3200万韩元，随经验增加而提高。
 
-**问：Can foreigners work here?**
-答：Possible with E-7 visa but experience requirements are strict, and E-9 is limited.
+**问：外国人能在这里工作吗？**
+答：E-7签证可能但经验要求严格，E-9受限。
 
-**问：What is the required education level?**
-答：High school graduates or above are eligible, but an associate degree or higher in environmental studies is advantageous for employment.
+**问：需要什么教育水平？**
+答：高中学历及以上即可，但环境学副学士或更高学位有利于就业。
 
 
 ---
@@ -145,12 +135,12 @@ Promotion path: junior operator → senior operator → team leader → facility
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/water-treatment-plant-operator/KR)**

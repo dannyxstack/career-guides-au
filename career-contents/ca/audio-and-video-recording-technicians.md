@@ -52,8 +52,6 @@ Operate and maintain audio and video recording equipment to provide technical su
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is compressing basic equipment operation roles but enhancing creative mixing and remote production capabilities; entry-level narrows but advanced positions gain value.
-
 Junior technicians can advance to senior technicians or sound recorders/mixers; some move into directing, producing, or technical management roles. Continuous learning of new technologies (e.g., immersive audio, 4K/8K video) aids career development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to senior technicians or sound recorders/mixers; 
 | Subclass PNP (Provincial Nominee Program) | Various provinces have targeted nominations, such as Ontario and British Columbia, which have developed media industries. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers may offer work visa sponsorship if no suitable local workers are available, but competition is high. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Accumulate project experience, master high-end equipment (e.g., Pro Tools, Da
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audio-and-video-recording-technicians/CA)**

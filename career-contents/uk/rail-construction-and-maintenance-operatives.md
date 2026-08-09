@@ -52,8 +52,6 @@ Rail construction and maintenance operatives lay, replace, repair and inspect ra
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rail construction and maintenance workers face dual impacts from automation and AI: repetitive tasks like track inspection and data recording will be taken over by AI, but on-site operations, safety decisions, and complex repairs still require humans. Entry-level positions may shrink due to AI-assisted tools, but tech upgrades bring new opportunities.
-
 Career progression: start as apprentice or entry-level operator, advance to senior operator, team leader, or track inspector; some move to project management or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: start as apprentice or entry-level operator, advance to seni
 | Subclass Health & Care (Health and Care Worker visa) | Not applicable, as this occupation is not in the healthcare field. |
 | Subclass Graduate (Graduate visa) | Graduates with a relevant degree (e.g., railway engineering) can stay in the UK for 2 years after graduation, but the occupation relies more on vocational qualifications than a degree. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually no university degree required; completion of a 2-year apprenticeship 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-construction-and-maintenance-operatives/UK)**

@@ -50,8 +50,6 @@ A specialized construction worker responsible for installing, assembling, and di
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Due to AI and automation, simple repetitive tasks (material handling, cutting, etc.) are reduced, but on-site assembly, welding, and safety management require human judgment and skill, making full replacement difficult.
-
 Career progression: entry-level → intermediate → advanced → site manager or master craftsman; relevant certifications and experience are crucial.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career progression: entry-level → intermediate → advanced → site manager o
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Target: Low-skilled labor, Construction Employment Permit System applies |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled labor, may require certifications |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, no work restrictions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: By utilizing welding skills, one can switch to general steel frame worker, st
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/light-steel-framing-worker/KR)**

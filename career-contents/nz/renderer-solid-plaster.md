@@ -53,8 +53,6 @@ In New Zealand, solid plasterers apply cement, lime, or gypsum-based materials t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Solid plasterers will not be replaced by AI; instead, AI-driven prefabrication, measurement, and construction planning tools will enhance efficiency, but they need to actively master digital tools to stay competitive.
-
 Junior plasterers can work on basic construction, advance to senior plasterer or foreman after gaining experience, responsible for team management and complex projects. Further development to construction project manager or self-employed contractor, requiring a New Zealand Licensed Building Practitioner (LBP) license to undertake higher-value projects.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior plasterers can work on basic construction, advance to senior plasterer or
 | Subclass SMC (Skilled Migrant Category) | Under the Skilled Migrant Category, a 6-point system is used to meet qualifications, work experience, etc., for residence. This occupation is ANZSCO Skill Level 3 and must meet wage standards. |
 | Subclass AEWV (Accredited Employer Work Visa) | Subclass 482 visa for skilled workers sponsored by an approved employer, leading to permanent residency options after work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually requires completion of the New Zealand National Certificate in Constr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/renderer-solid-plaster/NZ)**

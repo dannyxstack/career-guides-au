@@ -1,6 +1,6 @@
-# Graphic, Communication and Photo Designer 职业分析 · 德国
+# 图形、通信和照片设计师（Graphic, Communication and Photo Designer）职业分析 · 德国
 
-**职业代码: 2322 (KldB)**
+**职业代码：2322 (KldB)**
 
 该职业从事视觉传达设计，包括平面设计、摄影、排版、品牌设计等，服务于广告、媒体、出版等行业。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 70,000. 德国创意产业稳定发展，数字化媒体需求增加，但竞争激烈。自由职业者比例高，项目制工作常见。
+**职位需求量：中（★★½☆☆）** 全国从业人数约 70,000。德国创意产业稳定发展，数字化媒体需求增加，但竞争激烈。自由职业者比例高，项目制工作常见。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
 平面设计行业喜忧参半：AI可自动生成基础视觉内容，但战略创意、品牌深度与多平台内容定制需求仍依赖人类设计师，复合技能者机会增加。
 
 可晋升为艺术总监、创意总监或自雇成立设计工作室。需持续学习数字工具和新媒体趋势。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 批量生成社交媒体模板和广告banner
 - 基础图像处理（抠图、调色、滤镜）
@@ -65,7 +65,7 @@
 - 生成简单logo和图标初稿
 - 自动化输出印刷文件（出血、裁切线）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 借助AI生成创意草图，快速迭代设计方案
 - 利用AI分析用户数据优化视觉策略
@@ -73,7 +73,7 @@
 - 自动生成设计变体用于A/B测试
 - AI工具实现视频与动态图形快速原型
 
-**人类护城河:**
+**人类护城河：**
 
 - 深刻理解品牌策略与用户心理，制定视觉方向
 - 原创性创意与独特艺术表达
@@ -81,7 +81,7 @@
 - 与客户及团队的高效沟通与反馈整合
 - 对文化趋势和社会语境的敏锐洞察
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI设计工具（Midjourney、DALL·E 3、Adobe Firefly）
 - 动态设计与视频编辑（After Effects、Premiere Pro）
@@ -90,16 +90,16 @@
 - 项目管理与客户沟通（敏捷协作）
 - 3D建模与渲染基础（Blender、C4D）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Media
-- Branding
-- UX Design
-- Visual Communication
+- 数字媒体
+- 品牌塑造
+- 用户体验设计
+- 视觉传达
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -109,9 +109,7 @@
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制的求职签证，允许在德寻找工作一年 |
 | Subclass Job Seeker (Job Seeker Visa) | 允许在德居留6个月寻找工作，需证明经济能力 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -155,12 +153,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/graphic-communication-and-photo-designer/DE)**

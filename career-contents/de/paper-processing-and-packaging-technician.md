@@ -53,8 +53,6 @@ Paper processing and packaging technicians operate and maintain paper processing
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive tasks of paper processing and packaging technicians are easily automated, but AI-enabled smart monitoring, predictive maintenance, and process optimization will amplify their role's value, with overall risks and opportunities coexisting.
-
 Career path: Starting as an operator, you can advance to shift supervisor, production manager, or become a process engineer through further study. You can also move into quality management or technical sales.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path: Starting as an operator, you can advance to shift supervisor, produ
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking; sufficient points required. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month stay to seek employment, must be self-sufficient |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, they can be promoted to shift leader, production supervisor, or further 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-processing-and-packaging-technician/DE)**

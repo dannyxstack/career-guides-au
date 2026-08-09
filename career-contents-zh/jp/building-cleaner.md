@@ -1,8 +1,8 @@
 # 建筑清洁工（Building Cleaner）职业分析 · 日本
 
-**职业代码: 711 (JSCO)**
+**职业代码：711 (JSCO)**
 
-This occupation involves cleaning floors, windows, and restrooms in office buildings, commercial facilities, and public institutions to maintain a clean environment.
+该职业涉及清洁办公楼、商业设施和公共机构的地板、窗户和卫生间，以保持环境清洁。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves cleaning floors, windows, and restrooms in office build
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Compulsory Education | 0年 | $0~$0（Education not required） |
-| Vocational School | 1年 | $800,000~$1,500,000（Building maintenance-related courses） |
+| 义务教育 | 0年 | $0~$0（不要求教育） |
+| 职业学校 | 1年 | $800,000~$1,500,000（建筑维护相关课程） |
 
 ---
 
@@ -20,17 +20,17 @@ This occupation involves cleaning floors, windows, and restrooms in office build
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Building Cleaning Technician | Ministry of Health, Labour and Welfare | 可选 | Eligible after practical experience. Serves as proof of skill. |
-| Cleaning Operations Manager | Japan Building Cleaning Association | 可选 | Advantageous for management positions. |
+| 建筑清洁技术员 | 厚生劳动省 | 可选 | 获得实践经验后符合条件。作为技能证明。 |
+| 清洁运营经理 | 日本建筑清洁协会 | 可选 | 对管理职位有利。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 600,000. Labor shortages due to aging are severe; demand is stable, but long-term employment is declining due to population decrease. It is a target occupation for Specified Skilled Worker.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 600,000。由于老龄化，劳动力短缺严重；需求稳定，但长期就业因人口减少而下降。它是特定技能工人的目标职业。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,89 +38,83 @@ This occupation involves cleaning floors, windows, and restrooms in office build
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $2,800,000~$3,500,000 | 按地区不同 |
-| Mid (3-10 years) | $3,500,000~$4,500,000 | Varies by certification and position |
-| 资深（10年以上） | $4,500,000~$5,500,000 | Management positions or specialized technicians |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 按地区不同 |
+| 中级（3-10年） | $3,500,000~$4,500,000 | 因认证和职位而异 |
+| 资深（10年以上） | $4,500,000~$5,500,000 | 管理职位或专业技术人员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-The introduction of automatic floor cleaning machines and robot vacuum cleaners is progressing, but there are still many tasks that only humans can do, such as toilet cleaning and detailed manual work, making complete substitution difficult. AI and automation remain in a supporting role.
+自动地板清洁机和机器人吸尘器的引入正在推进，但仍有许多任务只能由人类完成，如厕所清洁和精细手工工作，完全替代困难。AI和自动化仍处于辅助角色。
 
-Career paths include starting with no experience, gaining on-site experience, and advancing to chief or managerial positions. Management roles at building maintenance companies or self-employment are possible.
+职业路径包括从无经验开始，获得现场经验，晋升为主任或管理职位。建筑维护公司的管理职位或自主创业也是可能的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Floor cleaning
-- Window cleaning (high-rise)
-- Garbage collection
+- 地板清洁
+- 窗户清洁（高层）
+- 垃圾收集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimization of cleaning plans
-- Remote monitoring of robots
-- Integration with dirt detection sensors
+- 清洁计划优化
+- 机器人远程监控
+- 与污物检测传感器的集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Detailed manual work
-- Communication with customers
-- Flexible response
+- 细致的手工工作
+- 与客户沟通
+- 灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cleaning techniques
-- Hygiene management knowledge
-- Machine operation skills
-- English (for foreign workers)
+- 清洁技术
+- 卫生管理知识
+- 机器操作技能
+- 英语（针对外国工人）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Aging
-- Cleaning robots
-- Rising hygiene awareness
+- 劳动力短缺
+- 老龄化
+- 清洁机器人
+- 卫生意识提高
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | As of 2024, building cleaning falls under Specified Skilled Worker (i). Requires passing skill and Japanese language tests. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Building Cleaning)) | Residence permitted for 3 to 5 years. Transition to Specified Skilled Worker (i) is possible after training. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can work steadily on tasks
-- People who are meticulous and clean
-- People who are physically confident
+- 能够稳定工作的人
+- 细心整洁的人
+- 体力自信的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who dislike heights or waste
+- 不喜欢高处或废物的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a building cleaner?**
-答：The average annual income is about 3.5 million yen, ranging from 2.5 million to 5.5 million yen depending on experience and position.
+**问：建筑清洁工的平均年收入是多少？**
+答：平均年收入约350万日元，根据经验和职位在250万至550万日元之间。
 
-**问：What visa do foreigners need to work as cleaners in Japan?**
-答：Specified Skilled Worker (i) (Building Cleaning) or Technical Intern Training (ii) (Building Cleaning) are standard. Japanese Language Proficiency Test N4 or higher and passing a skills test are required.
+**问：外国人在日本做清洁工需要什么签证？**
+答：特定技能工人(i)（建筑物清洁）或技能实习培训(ii)（建筑物清洁）为标准。需日语能力测试N4或以上并通过技能考试。
 
 
 ---
@@ -138,12 +132,12 @@ Career paths include starting with no experience, gaining on-site experience, an
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-cleaner/JP)**

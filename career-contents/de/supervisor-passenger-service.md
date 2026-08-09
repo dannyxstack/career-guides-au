@@ -52,8 +52,6 @@ A passenger service supervisor oversees and coordinates customer service for pub
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of a passenger service supervisor includes many routine tasks (such as ticketing, information inquiries), which are easily automated by AI; but interpersonal coordination, emergency handling, and team management still require human judgment, making it a mixed-blessing occupation.
-
 Can progress from passenger service staff to supervisor, then to operations manager or regional manager. Further education can lead to a logistics or management degree, expanding career development opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from passenger service staff to supervisor, then to operations mana
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Yes, can advance to operations manager, regional supervisor, or trainer. High
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-passenger-service/DE)**

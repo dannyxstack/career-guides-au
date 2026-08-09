@@ -53,8 +53,6 @@ Swimming instructors work in pools, community centers, and private swimming scho
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core of a swim coach's occupation relies on interpersonal interaction, safety supervision, and personalized instruction, making it hard for AI to fully replace. However, AI tools can assist with lesson planning, progress tracking, and marketing; entry-level competition may intensify due to AI-assisted course platforms.
-
 Junior coaches can progress to senior coaches, coaching supervisors, or swimming school managers by accumulating teaching experience; competitive high-performance paths require obtaining the NCCP swimming coaching certification and participating in association training to develop toward national team coaches.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior coaches can progress to senior coaches, coaching supervisors, or swimming
 | Subclass PNP (Provincial Nominee Program) | E.g., Ontario OINP Human Capital, BC PNP Skills Immigration, requiring employer offer or relevant work experience, with provincial nomination adding 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Suitable for Atlantic Immigration Program employer sponsorship, no LMIA required, faster processing |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a lifeguard certificate (Red Cross/Lifesaving Society); competitive
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coaches/CA)**

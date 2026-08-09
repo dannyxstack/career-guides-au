@@ -1,10 +1,8 @@
-# Signalman and Transporter 职业分析 · 韩国
+# 信号员与运输员（Signalman and Transporter）职业分析 · 韩国
 
-**职业代码: 62191 (KECO)**
+**职业代码：62191 (KECO)**
 
-This occupation guides the movement of heavy equipment and vehicles at construction or industrial sites, transmits signals to prevent safety accidents, and transports various materials and equipment.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业在建筑或工业场地指挥重型设备和车辆移动，发送信号防止安全事故，并运输各种材料和设备。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation guides the movement of heavy equipment and vehicles at construct
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（No required education） |
-| 信号员培训课程 | 1个月 | $300,000~$500,000（Private training institution course） |
+| 高中文凭 | 0年 | $0~$0（无学历要求） |
+| 信号员培训课程 | 1个月 | $300,000~$500,000（私立培训机构课程） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation guides the movement of heavy equipment and vehicles at construct
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Completion of signalman training | Korea Construction Safety Education Institute, etc. | 必备 | Basic education required at the site |
-| Construction Safety Technician | Human Resources Development Service of Korea | 可选 | Helps strengthen safety management capabilities |
+| 完成信号员培训 | 韩国建设安全教育院等 | 必备 | 现场要求的基础教育 |
+| 建筑安全技术员 | 韩国人力资源开发服务局 | 可选 | 有助于加强安全管理能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 65,000. While jobs are affected by fluctuations in the construction industry, demand is expected to remain steady due to strengthened safety management at large construction sites. New entry opportunities persist as many workers leave the field due to aging.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 65,000。虽然工作受建筑业波动影响，但由于大型建筑工地安全管理的加强，需求预计将保持稳定。由于许多工人因老龄化离开该领域，新进入机会仍然存在。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,91 +38,83 @@ This occupation guides the movement of heavy equipment and vehicles at construct
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0 to 3 years) | $24,000,000~$30,000,000 | Mainly daily wage, 2 to 2.5 million KRW per month |
-| Intermediate (4 to 7 years) | $32,000,000~$40,000,000 | 随经验与认证提升 |
-| Advanced (8 years or more) | $40,000,000~$50,000,000 | Site manager or team leader level |
+| 初级（0至3年） | $24,000,000~$30,000,000 | 主要按日薪计，每月200万至250万韩元 |
+| 中级（4至7年） | $32,000,000~$40,000,000 | 随经验与认证提升 |
+| 高级（8年及以上） | $40,000,000~$50,000,000 | 现场经理或团队领导级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is limited. Signal work requires field judgment and communication, making full replacement difficult, but remote monitoring using drones or cameras could be introduced as a supplement. AI will contribute to enhancing safety through risk detection alerts.
+AI 和自动化的影响有限。信号工作需现场判断和沟通，难以完全替代，但可引入无人机或摄像头远程监控作为补充。AI 将通过风险检测警报提升安全性。
 
-Initially assigned to assist with signals or simple transport, one can advance to heavy equipment signaling or site manager roles with experience. Obtaining safety certifications is advantageous for promotion.
+初始分配协助信号或简单运输，随着经验积累可晋升至重型设备信号员或现场经理。获得安全认证有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Repetitive Signal Transmission
-- Manual Equipment Handling
+- 简单重复信号传输
+- 手动设备操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based Risk Detection System Operation
-- Assisting Field Situation Awareness Using Drones
+- 基于AI的风险检测系统运行
+- 利用无人机辅助现场态势感知
 
-**人类护城河:**
+**人类护城河：**
 
-- Field Situation Judgment Skills
-- Non-verbal Communication with Workers
-- Handling Unexpected Emergencies
+- 现场情况判断技能
+- 与工人的非语言沟通
+- 处理突发事件
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Heavy Equipment Operation License
-- AI-based Safety Equipment Operation Skills
-- Basic English (Communication with Foreign Workers)
+- 重型设备操作执照
+- 基于AI的安全设备操作技能
+- 基础英语（与外籍工人沟通）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Safety Reinforcement
-- Aging Workforce Replacement
-- Construction Site
-- Heavy Equipment Operation
+- 安全加固
+- 老龄化劳动力替代
+- 建筑工地
+- 重型设备操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible at some sites as construction simple function workers, but signalmen are limited due to required expertise |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to obtain as a skilled signalman or safety manager |
-| Subclass F-2 (Residence (F-2)) | Can work as a signalman with long-term residence status |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and prefer outdoor work
-- Thorough safety awareness and meticulous personality
-- People with excellent hand-eye coordination
+- 身体健壮且偏好户外工作的人
+- 强烈的安全意识和细致入微的个性
+- 手眼协调能力强的人
 
 **谁不适合**
-- People sensitive to high-altitude work or dust
-- People who find repetitive signaling boring
+- 对高空作业或粉尘敏感的人
+- 觉得重复信号枯燥的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a signalman?**
-答：It varies from 24 million won to 50 million won depending on experience, and since many are daily workers, it fluctuates greatly depending on the number of working days.
+**问：信号员的平均工资是多少？**
+答：根据经验不同，从2400万韩元到5000万韩元不等，且由于许多人是日结工，因此会根据工作天数大幅波动。
 
-**问：Can foreigners work as signalmen?**
-答：Partially possible with an E-9 visa, but mostly centered on locals; an E-7 visa can be issued to skilled workers.
+**问：外国人能担任信号员吗？**
+答：E-9签证部分可行，但主要面向本地人；E-7签证可发放给技术工人。
 
-**问：How can I get promoted from a signalman?**
-答：By obtaining certifications such as Construction Safety Engineer and accumulating field experience, one can be promoted to safety manager or site manager.
+**问：如何从信号员晋升？**
+答：通过获得建筑安全工程师等认证并积累现场经验，可晋升为安全经理或现场经理。
 
 
 ---
@@ -142,12 +132,12 @@ Initially assigned to assist with signals or simple transport, one can advance t
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/signalman-and-transporter/KR)**

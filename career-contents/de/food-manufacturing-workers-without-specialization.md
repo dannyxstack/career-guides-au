@@ -53,8 +53,6 @@ Food manufacturing workers produce various food items such as bread, meat, dairy
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Food manufacturing workers (Germany) face significant automation reduction, as automated production lines and AI quality inspection will replace many repetitive tasks, decreasing entry-level positions but increasing demand for equipment maintenance and process optimization skills.
-
 Career progression includes moving from entry-level worker to specialist operator, team leader, production supervisor. Through continuing education, become a food technician or industrial master. Opportunities also exist in quality management or product development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes moving from entry-level worker to specialist operato
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows up to 1 year to find work in Germany, requires basic language skills. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to seek employment, must prove sufficient living expenses. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted from junior worker to specialized operator, team leader, or p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-manufacturing-workers-without-specialization/DE)**

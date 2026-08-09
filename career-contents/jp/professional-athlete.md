@@ -4,8 +4,6 @@
 
 Professional athletes compete in various sports using advanced skills, aiming for results in games and tournaments. Entertainment value is also required.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Professional athletes compete in various sports using advanced skills, aiming fo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used to optimize training and analyze game strategies, contributing to improved athlete performance. However, AI will not replace the sport itself.
-
 The path from amateur to professional is narrow. After retirement, common career transitions include coaching, commentary, and sports-related businesses. An increasing number of athletes also hold second jobs.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ The path from amateur to professional is narrow. After retirement, common career
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 興行 (Entertainer Visa) | Applicable when professional athletes enter for entertainment purposes. Contract required. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | May apply to coaching or sports instructor activities. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: Various paths include coaching, commentary, running a sports gym, or working 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-athlete/JP)**

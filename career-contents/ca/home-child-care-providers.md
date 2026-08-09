@@ -52,8 +52,6 @@ Family child care providers offer child care services in the employer's home, in
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-The impact of AI on family child care workers is mixed: administrative tasks like scheduling and record-keeping can be automated, but core care and emotional interaction still require humans; job demand is stable due to an increase in dual-income families.
-
 Junior childcare workers can gain experience to become senior family childcare workers or childcare center supervisors. Some pursue further education to obtain early childhood education diplomas and move to kindergartens or early learning centers. Others can operate their own family daycare.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior childcare workers can gain experience to become senior family childcare w
 | Subclass Express Entry (Express Entry (FSW/CEC)) | If eligible (e.g., 6+ months full-time experience), can apply through Federal Skilled Worker or Canadian Experience Class |
 | Subclass Home Child Care Prov (Home Child Care Provider Pilot) | Canadian immigration pilot program specifically for home child care providers; can obtain work permit and transition to permanent residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: After gaining experience, can advance to senior childcare worker, childcare c
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-child-care-providers/CA)**

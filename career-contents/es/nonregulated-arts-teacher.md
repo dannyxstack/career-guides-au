@@ -53,8 +53,6 @@ Non-degree art teachers teach arts courses such as music, dance, drama, and fine
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some repetitive teaching tasks (such as music theory demonstrations and dance step recordings), but will enhance personalized creative guidance and student assessment. The core value of human teachers lies in emotional interaction and instant feedback.
-
 Career development paths include advancing from part-time teachers to art school supervisors, curriculum coordinators, or opening personal studios. After gaining experience, students can move on to art therapy, cultural management, or further study to obtain official teaching qualifications and enter the formal education system.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career development paths include advancing from part-time teachers to art school
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of relevant experience, with a contract annual salary of at least 33,908 euros (2024). Non-degree art teachers usually earn less and are hard to meet the standard |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency guaranteed by a Spanish company requires proof that the position cannot be filled by locals, and art teachers must meet labor market tests |
-| Subclass Busqueda empleo (Job Search Visa) | Allows graduates to stay in Spain for 12 months to find work, applicable to foreigners who have completed an art degree or master's. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: The law does not require a teacher qualification certificate, but employers u
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonregulated-arts-teacher/ES)**

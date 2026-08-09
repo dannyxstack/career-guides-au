@@ -52,8 +52,6 @@ This role leads and manages IT network infrastructure, system administration, IT
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Career progression paths include moving from IT Project Manager to IT Department Head, and then to Chief Information Officer (CIO). Advancement can be accelerated through an MBA or IT management certifications.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression paths include moving from IT Project Manager to IT Department
 | Subclass Skilled Worker (Skilled Immigration Act) | For skilled professionals with recognized German qualifications or vocational credentials, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search visa, valid for one year, allowing holders to seek employment in Germany. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a master's degree in computer science or a related field. 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-network-technology-it-coordination-it-administration-and-it-organization-manager/DE)**

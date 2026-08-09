@@ -51,8 +51,6 @@ Teach geography courses at higher education institutions, typically combining te
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually advance from assistant professor to associate professor, professor, or move to research institutions or government departments.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually advance from assistant professor to associate professor, professor, or m
 | Subclass EB-2 (Employment-Based Second Preference) | For teachers with advanced degrees, requires PERM. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Green card through labor certification; university positions are usually feasible. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Usually need to complete a US PhD, apply for H-1B work visa through OPT inter
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geography-teachers-postsecondary/US)**

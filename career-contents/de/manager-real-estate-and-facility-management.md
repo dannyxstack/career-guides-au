@@ -52,8 +52,6 @@ Responsible for real estate project development, asset management, and facility 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on facility managers (FMs) is twofold: routine admin, data analysis, and compliance monitoring tasks are easily automated, but on-site emergency response, supplier negotiation, and cross-department coordination, which rely on interpersonal trust and physical presence, are hard to replace. Overall, the role will not be fully replaced, but focus will shift to high-value decisions and exception handling.
-
 Starting as a property manager or facilities coordinator, you can progress to regional or portfolio management roles, or move into consulting and asset management firms.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a property manager or facilities coordinator, you can progress to re
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires a job offer and assessed qualifications, no minimum salary requirement |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, allowing one year to find work in Germany |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, the German real estate and facility management industry is steadily grow
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-real-estate-and-facility-management/DE)**

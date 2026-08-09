@@ -51,8 +51,6 @@ A craftsman who processes wood and assembles building frameworks and interiors. 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation aid in blueprint creation and material optimization, but actual wood processing and assembly require expert manual work. AI will not completely replace carpenters but will be used as an efficiency tool.
-
 Start as an apprentice, hone skills, advance to master or site supervisor. Self-employment possible. Construction career-up system gaining traction.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Start as an apprentice, hone skills, advance to master or site supervisor. Self-
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（建設） (Specified Skilled Worker (i)) | For those who completed technical intern training in construction. Max stay 5 years. |
-| Subclass 特定技能2号（建設） (Specified Skilled Worker (ii)) | For skilled workers. Family accompaniment possible, eligible for permanent residency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires practical carpentry experience + specialized knowledge. As a regular employee of a construction company. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Apprentice → Skilled worker → Master/foreman. Acquiring the Building Carp
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter/JP)**

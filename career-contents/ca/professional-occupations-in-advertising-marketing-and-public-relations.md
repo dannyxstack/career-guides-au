@@ -52,8 +52,6 @@ Public relations managers plan, direct, and evaluate an organization's public co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly enhance efficiency in advertising, marketing, and public relations, but will also automate content generation and basic data analysis, requiring practitioners to shift towards strategy and creativity.
-
 Entry-level roles such as PR assistant or media relations specialist; with experience, can advance to PR manager or director. Senior roles include Vice President or Chief Communications Officer, or transition to consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level roles such as PR assistant or media relations specialist; with exper
 | Subclass PNP (Provincial Nominee Program) | Most provinces have skilled migration streams, such as Ontario, BC, Alberta, which can provide additional points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for applicants with a job offer. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree in public relations, communications, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-occupations-in-advertising-marketing-and-public-relations/CA)**

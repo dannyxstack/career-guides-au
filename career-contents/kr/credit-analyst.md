@@ -50,8 +50,6 @@ A professional who evaluates the creditworthiness of companies and individuals t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI is replacing credit evaluation modeling and data processing tasks, changing the role of credit analysts. However, qualitative judgment, regulatory risk interpretation, and special situation assessment still require human input, so full replacement is difficult.
-
 Typically starts at banks, securities firms, or credit rating agencies; with CRA (Credit Risk Analyst) certification, can advance to team leader or department head
 
 **Tasks most exposed to AI:**
@@ -86,15 +84,9 @@ Typically starts at banks, securities firms, or credit rating agencies; with CRA
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when a skilled credit analyst works at a financial firm, requires degree and experience |
-| Subclass F-2 (Residence) | Can be converted to point system after E-7 stay, permits long-term residence |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +130,12 @@ A: CRA (Credit Risk Analyst) is nearly essential, and CFA or CIAA (Chartered Inv
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-analyst/KR)**

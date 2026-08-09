@@ -53,8 +53,6 @@ Includes all dental specialists not separately listed, such as oral pathologists
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentist roles are less affected by AI automation; AI is more of an assistive diagnostic tool (e.g., image analysis) enhancing efficiency, but core clinical procedures and patient communication still rely on humans. Overall demand is stable, with shortages in remote areas.
-
 Typically start as general dentists, become specialists through residency (2-4 years), then can become department heads or open private practices.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as general dentists, become specialists through residency (2-4 y
 | Subclass O-1 (O-1 Extraordinary Ability) | Must demonstrate extraordinary ability; suitable for top-tier specialists |
 | Subclass Green Card (PERM) (Permanent Residence via PERM) | Labor certification process, requires employer sponsorship. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Demand expected to grow about 8% over the next decade, especially in rural ar
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentists-all-other-specialists/US)**

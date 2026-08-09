@@ -50,8 +50,6 @@ Professionals who study and predict celestial and meteorological phenomena, anal
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and machine learning have greatly enhanced weather forecasting and space data analysis, but researchers' interpretation and development of new theories remain human tasks. Simple data processing can be replaced by AI, but overall research jobs will not disappear.
-
 After obtaining a master's or doctoral degree, start as a researcher at a research institute or university, and can advance to a principal researcher or research team leader with experience. Some become university professors or weather agency specialists.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ After obtaining a master's or doctoral degree, start as a researcher at a resear
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for employment as a professional researcher; relevant degree and experience required |
-| Subclass D-10 (Job Seeking) | Available for job seeking after degree |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +133,12 @@ A: After earning a doctoral degree, build a career as a postdoctoral researcher 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/astronomer-meteorologist/KR)**

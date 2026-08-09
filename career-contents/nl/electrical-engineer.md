@@ -51,8 +51,6 @@ Electrical engineers design, develop, and oversee electrical systems, electronic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core design work for electrical engineers is hard to replace by AI, but standardized documentation, testing, and preliminary simulation tasks will become highly automated, increasing competition for entry-level positions, requiring upgrading to complex system integration and project management.
-
 Junior electrical engineers can advance to senior engineer or project manager, or move into system design, R&D, or management roles; some choose to become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior electrical engineers can advance to senior engineer or project manager, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For the highly skilled migrant sponsored by a Dutch employer, annual salary must meet the threshold (2024 approx. €5,331/month). |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU professionals, with an annual salary of at least €5,331/month (2024), and can bring family members. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to international students who graduated in the Netherlands or designated countries, allowing free job seeking within one year. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Strong demand, especially in energy transition, sustainable development, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineer/NL)**

@@ -1,8 +1,8 @@
-# Inspectors of General-Purpose, Production, and Industrial Machinery Equipment 职业分析 · 日本
+# 通用、生产及工业机械设备的检验员（Inspectors of General-Purpose, Production, and Industrial Machinery Equipment）职业分析 · 日本
 
-**职业代码: 581 (JSCO)**
+**职业代码：581 (JSCO)**
 
-A specialist who performs quality inspections and tests on machinery such as machine tools and industrial robots to ensure product reliability.
+对机床、工业机器人等机械进行质量检验和测试以确保产品可靠性的专家。
 
 
 ---
@@ -11,9 +11,9 @@ A specialist who performs quality inspections and tests on machinery such as mac
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Approx. ¥300,000/year if not eligible for public high school tuition exemption） |
-| Vocational School (Mechanical/Electrical) | 2 年 | $2,000,000~$4,000,000（Total for 2 years） |
-| University (Engineering) | 4年 | $4,000,000~$8,000,000（Approx. ¥500,000/year at national universities, ¥1,000,000/year at private universities） |
+| 高中 | 3年 | $0~$3,000,000（约30万日元/年（如果不符公立高中学费减免资格）） |
+| 职业学校（机械/电气） | 2 年 | $2,000,000~$4,000,000（两年总计） |
+| 大学（工程） | 4年 | $4,000,000~$8,000,000（国立大学约50万日元/年，私立大学约100万日元/年） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialist who performs quality inspections and tests on machinery such as mac
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Machinery Inspection Skills Certification | Ministry of Health, Labour and Welfare | 可选 | Levels 1, 2, and 3; requires work experience and written exam |
-| Quality Control (QC) Certification | Japanese Society for Quality Control | 可选 | Level 2 or higher recommended |
-| Non-Destructive Testing Technician | Japanese Society for Non-Destructive Inspection | 可选 | Advantageous in specific areas like ultrasonic and magnetic particle testing |
+| 机械检验技能认证 | 厚生劳动省 | 可选 | 1级、2级和3级；需工作经验和笔试。 |
+| 质量控制认证 | 日本质量控制学会 | 可选 | 建议二级或以上 |
+| 无损检测技术员 | 日本无损检测协会 | 可选 | 在特定领域如超声和磁粉检测方面有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 120,000. With the IoT shift in manufacturing, demand for digital inspection data is rising, but employment numbers are gradually declining due to domestic production cuts.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 120,000。随着制造业向物联网转型，对数字检测数据的需求上升，但因国内减产，就业数量逐渐下降。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,96 +40,89 @@ A specialist who performs quality inspections and tests on machinery such as mac
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,000,000~$4,000,000 | ¥3.5–4.5 million including overtime |
-| Intermediate (4-10 years) | $4,000,000~$5,500,000 | Certified skilled workers earn higher salaries |
-| Advanced (11+ years) | $5,000,000~$7,000,000 | Including managerial allowance, approximately 6-8 million yen |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 含加班费350-450万日元 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 认证技术工人薪资更高 |
+| 高级（11年以上） | $5,000,000~$7,000,000 | 包括管理津贴，约600-800万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-The introduction of automatic inspection using AI and image recognition is advancing, but human experience is necessary for judging complex abnormal sounds, minute scratches, and inspections involving machine adjustment. AI and human collaboration will continue.
+利用AI和图像识别的自动检查正在推进，但判断复杂异常声音、微小划痕以及涉及机器调整的检查仍需要人类经验。AI与人类协作将继续。
 
-Career advancement is possible by acquiring skills certification or QC certification. Paths include promotion to inspection team leader or quality control management.
+通过获得技能证书或QC证书可以实现职业发展。晋升路径包括检查团队负责人或质量管理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Dimensional Measurement
-- Visual Inspection
-- Product Sorting
-- Simple Function Testing
+- 尺寸测量
+- 视觉检查
+- 产品分拣
+- 简单功能测试
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Abnormal Sound Diagnosis
-- Complex Defect Analysis
-- Inspection Device Tuning
-- Verification of AI Judgment Results
+- 异常声音诊断
+- 复杂缺陷分析
+- 检测设备调试
+- AI判定结果验证
 
-**人类护城河:**
+**人类护城河：**
 
-- Auditory Judgment of Abnormal Sounds
-- Experience-Based Cause Identification
-- Fine Sensation of Machine Adjustment
-- Customer Negotiation and Reporting
+- 异常声音听觉判断
+- 基于经验的因果识别
+- 机器调整的精细感觉
+- 客户谈判与报告
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Programming (Python/R)
-- Quality Control Methods
-- Machine Learning Basics
+- 数据分析
+- 编程（Python/R）
+- 质量控制方法
+- 机器学习基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Factory
-- Automated Dimension Measurement
-- Non-Destructive Testing
-- Quality Control DX
+- 智能工厂
+- 自动尺寸测量
+- 无损检测
+- 质量控制数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of work experience. Eligible for inspection work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Obtainable through skills test and Japanese N4 or higher. Total residence period of 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (subject to field expansion)) | For skilled workers. Family accompaniment and unlimited renewals. However, manufacturing fields not yet open as of 2024. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like meticulous and accurate work
-- People interested in machines and manufacturing
-- People who can tolerate repetitive work
+- 喜欢细致精确工作的人
+- 对机器和制造感兴趣的人
+- 能忍受重复性工作的人
 
 **谁不适合**
 - 厌恶单调工作的人
-- People who prefer creative work
+- 喜欢创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the first-year salary for someone starting without experience?**
-答：First-year annual income is typically around 3-3.5 million yen, and can reach 3.5-4 million yen including overtime.
+**问：无经验者入职第一年薪资是多少？**
+答：第一年年收入通常约为300-350万日元，包括加班费可达350-400万日元。
 
-**问：What visa is required for a foreigner to work in this occupation in Japan?**
-答：If you have a bachelor's degree or higher, you can get the 'Engineer/Specialist in Humanities/International Services' visa; if you pass a skills test, you can get 'Specified Skilled Worker (i)'. Specified Skilled Worker (ii) is not yet available in manufacturing.
+**问：外国人在日本从事该职业需要什么签证？**
+答：持有学士及以上学位可获“技术/人文知识/国际业务”签证；通过技能测试可获“特定技能1号”。制造业尚无特定技能2号。
 
-**问：Are there any required qualifications?**
-答：There are no mandatory qualifications, but having a Mechanical Inspection Technician certification or QC exam can be advantageous for promotion or job change.
+**问：是否需要任何资格证书？**
+答：没有强制资格要求，但持有机械检查技术员证书或QC考试证书有助于晋升或换工作。
 
 
 ---
@@ -147,12 +140,12 @@ Career advancement is possible by acquiring skills certification or QC certifica
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/inspectors-of-generalpurpose-production-and-industrial-machinery-equipment/JP)**

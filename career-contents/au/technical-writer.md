@@ -51,8 +51,6 @@ A technical writer is responsible for creating technical documents such as user 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
-
 Junior technical writers can advance to senior writer, documentation manager, or technical communication specialist. They can also transition into content strategy, UX writing, or technical training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technical writers can advance to senior writer, documentation manager, or
 | Subclass 482 (Temporary Skill Shortage visa) | Temporary Skill Shortage visa, requires employer sponsorship, then eligible for 186 permanent residence. |
 | Subclass 491 (Skilled Work Regional visa) | Regional skilled work visa, a temporary visa that can lead to permanent 191 visa after meeting conditions. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior writer, documentation manager, technical communication 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-writer/AU)**

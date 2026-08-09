@@ -52,8 +52,6 @@ In Canada, primary school teachers teach foundational subjects and promote stude
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace primary and kindergarten teachers; instead, it will amplify their capabilities. However, teachers need to proactively integrate AI tools to improve teaching efficiency and personalization; otherwise, entry-level positions may be taken by more tech-savvy competitors.
-
 Junior teachers can start as substitute or part-time teachers, and with experience can advance to grade leader, curriculum coordinator, or school administrator. Obtaining a permanent teaching license significantly improves salary and job stability.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior teachers can start as substitute or part-time teachers, and with experien
 | Subclass EE (Express Entry (FSW or CEC)) | Eligible for entry pool under Federal Skilled Worker or Canadian Experience Class, but teacher occupation requires provincial certification, which may affect Express Entry eligibility. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, employer-sponsored teacher positions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: General steps: 1) Obtain ECA certified qualifications; 2) Pass language test 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-school-and-kindergarten-teachers/CA)**

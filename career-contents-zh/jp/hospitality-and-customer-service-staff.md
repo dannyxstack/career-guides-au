@@ -1,8 +1,8 @@
-# Hospitality and Customer Service Staff 职业分析 · 日本
+# 酒店与客户服务人员（Hospitality and Customer Service Staff）职业分析 · 日本
 
-**职业代码: 405 (JSCO)**
+**职业代码：405 (JSCO)**
 
-Occupations involving serving customers with food, drink, and entertainment at restaurants, inns, banquet halls, etc. Includes hostesses, bartenders, banquet attendants, etc.
+在餐厅、客栈、宴会厅等服务顾客餐饮和娱乐的职业。包括女招待、调酒师、宴会服务员等。
 
 
 ---
@@ -11,8 +11,8 @@ Occupations involving serving customers with food, drink, and entertainment at r
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中及以上学历 | 0年 | $0~$0（No educational background required） |
-| Vocational school (hospitality/service) | 2 年 | $2,000,000~$4,000,000（Hospitality-related department） |
+| 高中及以上学历 | 0年 | $0~$0（无学历要求） |
+| 职业学校（酒店/服务） | 2 年 | $2,000,000~$4,000,000（酒店相关专业） |
 
 ---
 
@@ -20,17 +20,17 @@ Occupations involving serving customers with food, drink, and entertainment at r
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hospitality Service Test | Japan Hospitality Promotion Association | 可选 | Certifies basic hospitality manners |
-| Poisonous and Deleterious Substances Handler Certificate | Prefectural government | 可选 | May be required when serving alcohol |
+| 接待服务考试 | 日本 hospitality 促进协会 | 可选 | 认证基本礼仪服务 |
+| 有毒有害物质操作者证书 | 县/省级政府 | 可选 | 售酒时可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 600,000. Demand is expected due to an increase in foreign visitors and revitalization of urban entertainment districts, but AI and automation have limited substitution potential, leading to persistent labor shortages.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 600,000。由于外国游客增加和城市娱乐区复兴，需求预计增长，但AI和自动化的替代潜力有限，导致持续劳动力短缺。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ Occupations involving serving customers with food, drink, and entertainment at r
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,500,000~$3,500,000 | Hourly equivalent: ¥1,200–¥1,800 |
-| Intermediate (3–7 years) | $3,500,000~$5,000,000 | Income increases with regular customers |
-| Veteran (7+ years) | $5,000,000~$8,000,000 | Higher income possible as manager or self-employed |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 时薪等价：¥1,200–¥1,800 |
+| 中级（3-7年） | $3,500,000~$5,000,000 | 收入随固定客户增加 |
+| 资深（7年以上） | $5,000,000~$8,000,000 | 作为经理或自雇人士可能获得更高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation cannot replace the essence of customer service; instead, they are expected to be used in support tasks such as customer data analysis and reservation management, increasing the value of human service.
+AI和自动化无法取代客户服务的本质；相反，它们预计将被用于客户数据分析和预订管理等支持任务，提升人工服务的价值。
 
-With experience, promotion to floor manager or manager is possible. Self-employment by opening a bar or club is also an option.
+有经验者可晋升为楼层经理或经理，也可通过开设酒吧或俱乐部实现自雇。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Order taking
-- Inventory management
-- Basic customer service (FAQ handling)
+- 订单接收
+- 库存管理
+- 基本客户服务（常见问题处理）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer satisfaction analysis
-- Sales forecasting
-- Personalized service
+- 客户满意度分析
+- 销售预测
+- 个性化服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Adaptability
-- Relationship building
+- 同理心
+- 适应能力
+- 建立关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Hospitality
-- Foreign language
-- Digital marketing
+- 酒店管理
+- 外语
+- 数字营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Inbound demand
-- High-end club
-- Food and beverage industry
-- Night-time economy
+- 入境需求
+- 高端俱乐部
+- 餐饮业
+- 夜间经济
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing / Food Service)) | Eligible for work in the food service industry. Maximum stay of 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to advanced customer service roles such as interpretation and overseas sales. |
-| Subclass 興行 (Entertainment) | Available for roles involving entertainment-related customer service. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking to others
-- People who can live a night-oriented lifestyle
-- People who are good at multitasking
+- 喜欢与人交谈的人
+- 能适应夜间生活方式的人
+- 善于多任务处理的人
 
 **谁不适合**
-- People who dislike being in front of others
-- People who value a regular routine
+- 不喜欢在他人面前工作的人
+- 重视规律生活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for hospitality and social service workers?**
-答：Entry-level: 2.5–3.5 million yen; mid-level: 3.5–5 million yen; veteran: 5–8 million yen. Varies based on regular customers and commission.
+**问：酒店和社会服务工人的年收入是多少？**
+答：初级：250-350万日元；中级：350-500万日元；资深：500-800万日元。因固定客户和佣金而异。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：For the food service industry, Specified Skilled Worker (i) (Food Service) is available. If interpretation or translation is involved, Engineer/Specialist in Humanities/International Services may apply.
+**问：外国人从事这一职业需要什么签证？**
+答：对于食品服务行业，可申请特定技能工人(i)（食品服务）。若涉及口译或笔译，可申请人文/国际服务领域的工程师/专家。
 
-**问：Can I work without experience?**
-答：Yes, many establishments welcome newcomers. Most provide on-the-job training for hospitality etiquette.
+**问：没有经验可以工作吗？**
+答：是的，许多机构欢迎新手。大多数提供酒店礼仪的在职培训。
 
 
 ---
@@ -141,12 +134,12 @@ With experience, promotion to floor manager or manager is possible. Self-employm
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hospitality-and-customer-service-staff/JP)**

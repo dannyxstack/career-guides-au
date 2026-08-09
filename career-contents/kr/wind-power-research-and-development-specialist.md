@@ -51,8 +51,6 @@ An R&D professional responsible for designing wind power systems, optimizing per
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies enhance efficiency in wind turbine design optimization, power generation forecasting, and fault diagnosis, but creative design and system integration remain core human roles, so this field is augmented rather than replaced by AI.
-
 After joining a research institute or corporate R&D center, one advances from Assistant Researcher to Senior Researcher to Team Lead/Director. A foreign master's or doctoral degree and experience in large-scale projects are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ After joining a research institute or corporate R&D center, one advances from As
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment visa issuance available when hired as R&D professional |
-| Subclass D-10 (Job-seeking) | Available for Master's degree holders for job-seeking activities |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay; applicable for stable employment |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: The E-7 (Specific Activities) visa is commonly used, and relevant degree and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wind-power-research-and-development-specialist/KR)**

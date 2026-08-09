@@ -52,8 +52,6 @@ Responsible for managing veterinary clinics, animal hospitals or animal health f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarian and Animal Health Manager roles are moderately impacted: AI can greatly enhance diagnosis, data management, and administrative efficiency, but core medical decisions, team leadership, and ethical responsibility remain human-led; low-end assistant roles may be squeezed.
-
 Career path starts as a veterinarian or department head, progresses to clinic or hospital manager, then to regional or group management roles. Requires clinical and business management experience.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path starts as a veterinarian or department head, progresses to clinic or
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires qualification assessment, employer sponsorship, management experience can be a plus. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job search allowed, requires qualification assessment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must have a German-recognized veterinary degree and license to practice (Appr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-in-veterinary-medicine-and-animal-health/DE)**

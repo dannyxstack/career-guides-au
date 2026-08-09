@@ -53,8 +53,6 @@ Provides advanced life support in New Zealand's medical emergency system, assess
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core clinical judgment and emergency operations of intensive care ambulance paramedics are difficult to replace by AI, but administrative, documentation, and dispatch tasks will be largely automated; job demand remains strong, practitioners need to embrace AI-assisted tools to improve efficiency
-
 Starting as a registered caregiver, gaining experience to advance to intensive care paramedic or supervisor, also transitioning to medical dispatch, clinical education, or management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as a registered caregiver, gaining experience to advance to intensive c
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Can apply via the 6-point system; registered occupation adds points; meet the score to qualify. |
 | Subclass AEWV (Accredited Employer Work Visa) | After obtaining employment with an accredited employer, apply for a work visa; after two years of work, you can transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires assessment by the New Zealand Ambulance Service Council, usually com
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/intensive-care-ambulance-paramedic-aus-ambulance-paramedic-nz/NZ)**

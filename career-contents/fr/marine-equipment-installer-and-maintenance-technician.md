@@ -53,8 +53,6 @@ Responsible for installation, fault diagnosis, and daily maintenance of electrom
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Ship equipment installation and maintenance technicians will benefit from AI-assisted diagnosis and predictive maintenance for electromechanical fault diagnosis and routine maintenance, but limited operating space, regulatory requirements, and non-standard operations provide some protection. Entry-level positions have narrowed due to digital twins and remote support tools, but overall skill requirements have increased.
-
 You can start as an apprentice or CAP, gradually advance to senior technician, team leader, specialize in electric/hybrid propulsion systems, ship automation, and other specialized fields, or start your own business.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can start as an apprentice or CAP, gradually advance to senior technician, t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | After obtaining a work contract from a French employer, you can apply for employment-based residence, provided you meet salary and qualification requirements |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | High‑skilled talent visa for shortage occupations with salary ≥1.5 times SMIC. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires annual salary ≥€53,836.50 (2025 standard), usually a bachelor's degree or higher. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You must hold a CAP Maintenance nautique or related diploma, an electrical sa
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-equipment-installer-and-maintenance-technician/FR)**

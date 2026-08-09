@@ -53,8 +53,6 @@ Veterinarians diagnose, treat, and prevent animal diseases and injuries, includi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
-
 Newcomers typically start as veterinary assistants, gaining experience to become lead veterinarians or specialists (e.g., surgery, ophthalmology), or transition to pharmaceuticals, food safety, public health, or private practice.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Newcomers typically start as veterinary assistants, gaining experience to become
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires a work contract with annual salary not below the EU threshold (about €35,000 in Italy). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota-based work visa for non-EU citizens, requires employer sponsorship, veterinary profession is eligible. |
-| Subclass Autonomous Work Visa (Self-Employment Visa) | Suitable for veterinarians planning to open a private clinic, requiring a business plan and proof of funds. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Requires completion of a 5-year integrated Bachelor's and Master's program in
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/IT)**

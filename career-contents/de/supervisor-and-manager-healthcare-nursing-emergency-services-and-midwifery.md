@@ -55,8 +55,6 @@ Responsible for leading and managing nursing teams, emergency services, or midwi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is reshaping the work of healthcare unit managers: administrative tasks like scheduling and reporting are being automated, and clinical decision support is enhanced, but core human skills such as team management and emergency decision-making remain irreplaceable.
-
 Can progress from registered nurse to department head, nursing director, or medical management roles; some may pursue an MBA or Master of Health Administration.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from registered nurse to department head, nursing director, or medi
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires German-recognized nursing qualifications and employer sponsorship |
 | Subclass Recognition Partners (Recognition Partnership) | Pathway allowing employment before completing qualification certification |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to Director of Nursing, Nursing Home Director, or transition to m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-healthcare-nursing-emergency-services-and-midwifery/DE)**

@@ -54,8 +54,6 @@ Responsible for arranging and directing funeral services, including body transpo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate administrative and record-keeping tasks, but core services like emotional companionship and ritual planning still rely on humans; funeral personalization will increase, but practitioners must learn digital tools to stay competitive.
-
 Start as a funeral assistant, gain experience, then advance to chief funeral director or funeral home manager; some choose to open their own funeral home.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start as a funeral assistant, gain experience, then advance to chief funeral dir
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically requires an associate degree (2 years) in mortuary science or relat
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/morticians-undertakers-and-funeral-arrangers/US)**

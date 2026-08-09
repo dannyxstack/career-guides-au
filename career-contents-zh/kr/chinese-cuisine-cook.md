@@ -1,10 +1,8 @@
-# Chinese Cuisine Cook 职业分析 · 韩国
+# 中餐厨师（Chinese Cuisine Cook）职业分析 · 韩国
 
-**职业代码: 53131 (KECO)**
+**职业代码：53131 (KECO)**
 
-A profession that involves cooking Chinese dishes at restaurants with professional Chinese culinary skills, primarily responsible for popular Chinese dishes in Korea such as jjajangmyeon and tangsuyuk.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+运用专业中式烹饪技能在餐厅烹制中国菜肴，主要负责韩国流行的中餐如炸酱面和糖醋肉。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that involves cooking Chinese dishes at restaurants with profession
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Culinary Arts Department at a College | 2 年 | $6,000,000~$10,000,000（Including tuition and practical training fees） |
-| Chinese Cuisine Course at Vocational Training Institute | 6 months | $2,000,000~$5,000,000（Government funding available） |
+| 学院烹饪艺术系 | 2 年 | $6,000,000~$10,000,000（包括学费和实践培训费） |
+| 职业培训学院中餐课程 | 6个月 | $2,000,000~$5,000,000（可申请政府资助） |
 
 ---
 
@@ -22,17 +20,17 @@ A profession that involves cooking Chinese dishes at restaurants with profession
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chinese Cuisine Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory |
-| Master Chef (Chinese Cuisine) | Human Resources Development Service of Korea | 可选 | Advanced qualification, for experienced individuals |
+| 中餐技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制 |
+| 中餐主厨 | 韩国人力资源开发服务局 | 可选 | 高级资格，适合有经验的人 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 72,000. Despite the steady demand in the food service industry and the trend of Korean food globalization, the number of Chinese restaurant workers remains stable, but the employment growth rate is low due to economic fluctuations and rising labor costs.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 72,000。尽管餐饮服务业需求稳定且韩国食品全球化趋势，中餐馆员工数量保持稳定，但因经济波动和劳动力成本上升，就业增长率较低。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,89 +38,80 @@ A profession that involves cooking Chinese dishes at restaurants with profession
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | KRW 2.0-2.5 million per month |
-| Mid-level (4-9 years) | $32,000,000~$42,000,000 | KRW 2.67-3.5 million per month |
-| Senior-level (10 years or more) | $44,000,000~$60,000,000 | KRW 3.67-5.0 million per month, head chef level |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 每月200-250万韩元 |
+| 中级（4-9年） | $32,000,000~$42,000,000 | 每月267万至350万韩元 |
+| 高级（10年及以上） | $44,000,000~$60,000,000 | 月薪367–500万韩元，主厨级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation partially affect the work of Chinese cuisine chefs. Robots can replace simple cooking assistance or frying processes, but complex flavor adjustments and creative cooking remain human domains.
+AI和自动化部分影响中餐厨师工作。机器人可替代简单烹饪辅助或油炸过程，但复杂调味和创意烹饪仍为人类领域。
 
-Starting as a kitchen assistant, one can advance to cook, head chef, and executive chef, or gain experience to start a business or operate a franchise.
+从厨房助理起步，可晋升为厨师、主厨和行政总厨，或积累经验后创业或经营加盟店。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cooking involving mass production with fixed recipes
-- Tasks that can be automated, such as adjusting fryer temperature
+- 涉及固定配方批量生产的简单烹饪
+- 可自动化的任务，如调整油炸锅温度
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI recipe recommendations and taste analysis
-- Inventory management through order prediction systems
+- AI食谱推荐和口味分析
+- 通过订单预测系统进行库存管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Hand skills and creative cooking abilities
-- Menu development reflecting customer preferences
+- 手工技能和创意烹饪能力
+- 反映顾客喜好的菜单开发
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to operate robotic cooking equipment
-- Data-based menu planning
+- 操作机器人烹饪设备的能力
+- 基于数据的菜单规划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of Chinese food franchises
-- Increase in delivery demand
-- Adoption of food tech
-- Health-conscious Chinese cuisine trend
+- 中餐连锁店扩张
+- 配送需求增加
+- 食品科技的采用
+- 健康意识的中餐趋势
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed by a specific company as a Chinese cuisine cook with recognized professional skills |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to assisting as a cook in restaurants for unskilled foreign workers; head cook restricted |
-| Subclass F-2 (Residence (F-2)) | Long-term stay status; no employment restrictions |
-| Subclass H-2 (Visit and Employment (H-2)) | For overseas Koreans; can work as a cook in restaurants |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People sensitive to taste and creative
-- People with fast and precise hand movements
+- 对口味敏感且有创造力的人
+- 手部动作快速精准的人
 
 **谁不适合**
-- People who find it difficult to stand in a hot kitchen
-- People who find repetitive tasks boring
+- 难以在高温厨房站立的人
+- 觉得重复性任务无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a Chinese cuisine chef?**
-答：Entry-level: 24-30 million KRW, Mid-level: 32-42 million KRW, Senior: 44-60 million KRW
+**问：中餐厨师的平均工资是多少？**
+答：入门级：2400-3000万韩元，中级：3200-4200万韩元，高级：4400-6000万韩元
 
-**问：What visa do foreigners need to work as a Chinese cuisine chef?**
-答：Professional chefs can get E-7 visa, requiring experience and certifications. Simple assistants are suitable for E-9 or H-2.
+**问：外国人在韩国担任中餐厨师需要什么签证？**
+答：专业厨师可申请E-7签证，需经验和认证。简单助理适合E-9或H-2。
 
-**问：How can I get promoted as a Chinese cuisine chef?**
-答：Starting as a kitchen assistant and advancing to cook or head chef, obtaining certifications and gaining experience are important. Starting your own business is also possible.
+**问：作为中餐厨师，如何获得晋升？**
+答：从厨房助理开始，晋升为厨师或主厨，获得认证和经验很重要。也可能自己创业。
 
 
 ---
@@ -140,12 +129,12 @@ Starting as a kitchen assistant, one can advance to cook, head chef, and executi
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/chinese-cuisine-cook/KR)**

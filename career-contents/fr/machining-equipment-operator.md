@@ -53,8 +53,6 @@ Responsible for operating CNC machine tools, milling machines, lathes, and other
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Machine operators are under the dual influence of AI and automation: simple repetitive tasks are being compressed, while complex programming, exception handling, and quality control capabilities are amplified, with the core of their roles shifting toward technical operations and maintenance.
-
 Operators can be promoted to programming technicians, production supervisors, or quality control specialists. Through continuing education, you can transition to industrial robot maintenance or process engineer positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Operators can be promoted to programming technicians, production supervisors, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | You must obtain a French employer work contract and apply for employment residence. Must pass a labor market test (shortage occupations may be exempted). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents or in shortage occupations, allowing quick residency obtainment, valid for up to 4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary to meet the legal threshold (approx. €54,000), suitable for experienced senior operators or programming experts. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: A CAP or Bac Pro diploma is usually required, which can be completed through 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machining-equipment-operator/FR)**

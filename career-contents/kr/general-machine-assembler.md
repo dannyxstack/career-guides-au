@@ -49,8 +49,6 @@ Production workers who assemble and inspect parts of various machinery like auto
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Simple assembly tasks are rapidly being replaced by AI and automation. In particular, as robot adoption expands in mass production lines, jobs for general machine assemblers are expected to decline.
-
 Starting as a novice, one can manage production lines as a skilled worker, or advance to quality control or production management roles through technical training.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as a novice, one can manage production lines as a skilled worker, or ad
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-Professional Employment (E-9)) | For unskilled foreign workers, eligible for general machine assembler positions in manufacturing |
-| Subclass E-7 (Specific Activities (E-7)) | Recognized as skilled labor, capable of performing assembly tasks requiring expertise |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible when converting to points system, benefits for skilled workers |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: No specific certification is mandatory, but having a Machine Assembly Technic
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-machine-assembler/KR)**

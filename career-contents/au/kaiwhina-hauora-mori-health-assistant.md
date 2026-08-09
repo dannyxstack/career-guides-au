@@ -51,8 +51,6 @@ Māori health assistants provide culturally safe health support for Māori commu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Māori health assistant's core tasks - cultural safety support, community trust building, and personalized health navigation - are hard to replace by AI, but administrative tasks, information retrieval, and basic educational material generation can be significantly optimized, a 'mixed blessing'.
-
 Can progress to health coordinator or community health manager through experience, or develop into roles like registered nurse or health promotion officer.
 
 **Tasks most exposed to AI:**
@@ -101,8 +99,6 @@ Can progress to health coordinator or community health manager through experienc
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -143,11 +139,12 @@ A: This occupation is mainly in New Zealand; migration pathways to Australia are
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kaiwhina-hauora-mori-health-assistant/AU)**

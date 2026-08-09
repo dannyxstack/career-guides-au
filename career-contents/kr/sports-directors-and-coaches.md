@@ -4,8 +4,6 @@
 
 They guide and train athletes to improve performance, establish team strategies, and oversee game operations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ They guide and train athletes to improve performance, establish team strategies,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used as an assistant tool in areas such as match analysis, athlete health monitoring, and training plan development; however, human leadership and motivational skills are irreplaceable, making the field overall more enhanced.
-
 Start as coaches for small clubs or youth teams, gain experience and coaching certifications, and advance to professional team coaches and directors. Performance and networking are important, and advancement to college coaches is possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Start as coaches for small clubs or youth teams, gain experience and coaching ce
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to foreign sports coaches, requires invitation from Korean sports institution |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, free to work |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Korean residency status, can work as coach in Korea |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: A Level 2 or higher sport instructor certificate is essential; having a profe
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-directors-and-coaches/KR)**

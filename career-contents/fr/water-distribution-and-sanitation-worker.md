@@ -4,8 +4,6 @@
 
 Responsible for maintaining drinking water pipelines, sewage treatment, and water quality monitoring, ensuring the normal operation of public water supply and sanitation systems.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for maintaining drinking water pipelines, sewage treatment, and wate
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Although the water industry involves outdoor and manual operations, AI and automation are gradually optimizing pipeline monitoring, water quality testing, and dispatching. Junior operational positions are shrinking, while demand for senior maintenance and data analysis positions is rising.
-
 You can be promoted from grassroots workers to team leader or technical expert, or through on-the-job training to become a water treatment engineer or water quality analyst.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from grassroots workers to team leader or technical expert, 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | A work contract must be provided by a French employer, and it must prove that local workers cannot be recruited |
-| Subclass Talent Professionnel (Talent Professional Card) | Applicable to highly skilled talents, salaries must meet the legal threshold |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Difficult, because French proficiency is required, and employers need to prov
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-distribution-and-sanitation-worker/FR)**

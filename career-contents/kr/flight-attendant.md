@@ -4,8 +4,6 @@
 
 A profession responsible for the safety and comfort of passengers on board an aircraft, providing services, with main duties including cabin safety checks and passenger assistance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A profession responsible for the safety and comfort of passengers on board an ai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI does not completely replace the work of cabin crew, but automates parts such as reservations and boarding procedures. Safety management and passenger service will evolve toward AI-assisted approaches.
-
 Career progression is possible from junior flight attendant to purser, cabin crew trainer, or ground staff (passenger service, safety management). Some advance to airline managers.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Career progression is possible from junior flight attendant to purser, cabin cre
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | Issuable to skilled aviation service personnel, but limited to expatriates rather than general employment. |
-| Subclass F-2 (F-2 (Residence) Visa) | Long-term residence status has fewer employment restrictions, but employment as a flight attendant requires additional requirements. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: It is possible to transition to airline ground staff, hotels, tourism, etc. u
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flight-attendant/KR)**

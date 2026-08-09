@@ -50,8 +50,6 @@ Occupation involving product explanation, customer service, sales, and cashier o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the spread of AI, self-checkout, and e-commerce, simple sales tasks are decreasing. Meanwhile, high-end and specialized customer service is less likely to be replaced by AI and demand remains. Sales strategies leveraging AI data analysis are becoming more important.
-
 Career progression: Sales Clerk → Supervisor → Store Manager → Area Manager. Requires customer service and management skills. Product knowledge is important at specialty stores.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Career progression: Sales Clerk → Supervisor → Store Manager → Area Manage
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Food and Beverage Manufacturing)) | Residence status for foreign workers. Requires passing skills and Japanese language exams. Maximum stay of 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or relevant experience. Allows sales work. Stay periods: 1, 3, or 5 years. |
-| Subclass 留学 (Student (Permission for Specified Activities)) | International students can work as sales staff up to 28 hours per week. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +137,12 @@ A: Polish customer service skills and obtain certifications like sales expert. G
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-clerk-323/JP)**

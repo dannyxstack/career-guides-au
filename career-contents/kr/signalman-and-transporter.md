@@ -4,8 +4,6 @@
 
 This occupation guides the movement of heavy equipment and vehicles at construction or industrial sites, transmits signals to prevent safety accidents, and transports various materials and equipment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation guides the movement of heavy equipment and vehicles at construct
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation is limited. Signal work requires field judgment and communication, making full replacement difficult, but remote monitoring using drones or cameras could be introduced as a supplement. AI will contribute to enhancing safety through risk detection alerts.
-
 Initially assigned to assist with signals or simple transport, one can advance to heavy equipment signaling or site manager roles with experience. Obtaining safety certifications is advantageous for promotion.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Initially assigned to assist with signals or simple transport, one can advance t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible at some sites as construction simple function workers, but signalmen are limited due to required expertise |
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to obtain as a skilled signalman or safety manager |
-| Subclass F-2 (Residence (F-2)) | Can work as a signalman with long-term residence status |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: By obtaining certifications such as Construction Safety Engineer and accumula
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/signalman-and-transporter/KR)**

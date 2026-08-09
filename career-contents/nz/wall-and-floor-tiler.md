@@ -52,8 +52,6 @@ Tilers have stable demand in New Zealand and are key tradespeople in the constru
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tile Layers Face Moderate Impact from AI Automation: Repetitive Measuring and Cutting Are at Risk of Replacement, but On-Site Laying, Leveling, and Custom Cuts Still Rely on Manual Skill and Judgment; AI Primarily Acts as an Efficiency Tool Rather Than a Replacement.
-
 Entry-level tilers can gain experience to become advanced tradespersons or foremen; some start their own tiling businesses. They can also transition to related fields like waterproofing or stone laying, or obtain certification as trainers.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Entry-level tilers can gain experience to become advanced tradespersons or forem
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Tilers are not required to be registered, but holding a New Zealand National 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wall-and-floor-tiler/NZ)**

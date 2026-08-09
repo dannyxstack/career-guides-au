@@ -4,8 +4,6 @@
 
 An administrative role at the entrance of companies or public facilities, welcoming visitors, handling phone calls, and providing guidance. As the front line of customer service, politeness and multitasking are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ An administrative role at the entrance of companies or public facilities, welcom
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-The introduction of AI chatbots and automated reception systems is progressing, and simple response tasks are being replaced. Meanwhile, complex complaint handling and high-level hospitality are still required from humans, leading to collaboration between AI and humans.
-
 After joining, acquire customer service skills and business etiquette. With experience, can advance to chief or front manager.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ After joining, acquire customer service skills and business etiquette. With expe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience. Reception work can be filed under Humanities. |
-| Subclass 特定技能1号(宿泊) (Specified Skilled Worker (i) (Accommodation)) | Reception work possible in hotels under this status. Japanese N4 or above. |
-| Subclass 特定技能1号(飲食料品製造業) (Specified Skilled Worker (i) (Food & Beverage Manufacturing)) | May apply to reception work at restaurant establishments. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: No mandatory qualifications, but having a Business Manner Certification or Se
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist-information-clerk/JP)**

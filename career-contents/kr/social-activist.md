@@ -4,8 +4,6 @@
 
 A profession that plans and executes activities to solve social problems within civil society organizations, and is responsible for member management and external cooperation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession that plans and executes activities to solve social problems within 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While AI can replace clerical tasks like member management and data analysis, core roles such as field activities and interpersonal relations remain uniquely human, making full replacement difficult.
-
 Starting as a social activist, one can advance to managerial positions such as team leader or executive director, or grow into a specialized activist in fields like environment or human rights.
 
 **Tasks most exposed to AI:**
@@ -88,16 +84,9 @@ Starting as a social activist, one can advance to managerial positions such as t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if expertise recognized, but very limited |
-| Subclass D-10 (Job Seeking) | Permitted to engage in activities during employment stay, but paid work limited |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +127,12 @@ A: E-7 visa eligibility exists but requires proof of expertise and is highly res
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-activist/KR)**

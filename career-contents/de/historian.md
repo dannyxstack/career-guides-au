@@ -53,8 +53,6 @@ Historians research, analyze, and interpret past events, providing historical pe
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will assist historical analysis but cannot replace historians' narrative and critical judgment; entry-level demand decreases due to automated data sorting, but advanced roles in digital humanities are amplified.
-
 Career progression usually starts as a research assistant or postdoc, advancing to professor or senior researcher; may also transition to applied fields such as archive management, cultural management, or historical consulting. Advancement requires continuous publication of high-quality research
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression usually starts as a research assistant or postdoc, advancing 
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 | Subclass Freelancer Visa (Freelance Visa) | Applicable to self-employed history consultants or freelance writers, need to demonstrate stable income |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Academic positions are highly competitive, while non-academic roles (e.g., mu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/historian/DE)**

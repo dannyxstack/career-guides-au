@@ -53,8 +53,6 @@ Responsible for planning, organizing, and supervising the daily operations of hi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Many core responsibilities of the Director of Highway Passenger Transport Operations (such as data analysis and scheduling optimization) will be greatly enhanced by AI, but areas related to safety, compliance, personnel management, and emergency handling still rely on human experience and judgment, making them positions that have been amplified rather than replaced in the AI era.
-
 Drivers can be promoted from dispatchers and fleet managers to operations directors, and then to regional or national transportation directors. It can also be expanded into logistics, supply chain management, or consulting.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Drivers can be promoted from dispatchers and fleet managers to operations direct
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Applicable to high-skilled management positions, requiring a contract with an annual salary of at least €400,000 (though the actual threshold is lower), valid for 4 years. |
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French company, requires a work permit valid for 1 year, renewable. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for higher education degree + high salary. Annual salary must exceed statutory threshold (approx. EUR 54,000). Valid 1–4 years. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Must hold a passenger transport qualification certificate (CAP Conducteur or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-of-road-passenger-transport-operations/FR)**

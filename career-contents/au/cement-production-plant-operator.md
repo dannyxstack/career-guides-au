@@ -54,8 +54,6 @@ Operate cement production equipment, including crushing, grinding, mixing, calci
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cement production plant operators face significant risk of automation reduction, as AI and robots can take over core tasks such as monitoring and parameter adjustment, leading to a notable decrease in entry-level positions.
-
 Can progress from junior operator to production line supervisor or quality control technician. With experience, can transition to equipment maintenance or production management roles; some large enterprises offer internal promotion pathways.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can progress from junior operator to production line supervisor or quality contr
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Obtain advanced operation certificates, learn equipment maintenance or instru
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cement-production-plant-operator/AU)**

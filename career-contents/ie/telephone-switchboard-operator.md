@@ -53,8 +53,6 @@ Telephone switchboard operators are responsible for answering and transferring c
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI voice assistants and intelligent call routing systems are directly replacing manual operator tasks; this occupation has a very high risk of automation, with job opportunities possibly decreasing by over 50% in the next 5 years.
-
 This occupation has limited promotion opportunities; can often transition to customer service, administrative support, or call center management. Some individuals upgrade to communication technicians through training.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ This occupation has limited promotion opportunities; can often transition to cus
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Promotion is limited, usually moving to customer service or administrative ro
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-switchboard-operator/IE)**

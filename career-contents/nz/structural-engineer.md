@@ -52,8 +52,6 @@ Structural engineers design and analyze load-bearing structures of buildings, br
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on structural engineers is mixed: routine calculations and drafting tasks will be automated, but design decisions, compliance approvals, and on-site coordination still rely on human experience and responsibility, certified engineers may become even rarer.
-
 Career path: Junior engineer (2-3 years) → Mid-level engineer (4-6 years) → Senior/Lead engineer (7+ years) → Project manager or Technical director. Obtaining CPEng registration accelerates promotion with significant salary increases.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior engineer (2-3 years) → Mid-level engineer (4-6 years) → 
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration system; can meet points through qualifications, registration, or salary; suitable for those with NZ qualifications or work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, suitable for those who have found an employer but not yet met direct residence conditions, can later convert to resident visa. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must obtain CPEng (Chartered Professional Engineer) qualification from Engine
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/structural-engineer/NZ)**

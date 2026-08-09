@@ -51,8 +51,6 @@ Responsible for planning, organizing, and managing forestry production activitie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Promote from forestry technician or harvesting supervisor; after accumulating 5-10 years of experience, can manage larger areas or multiple forest farms. May also transition to consulting, policy, or corporate sustainability departments. New Zealand recognizes Australian qualifications and experience, but local regulations must be adapted to.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Promote from forestry technician or harvesting supervisor; after accumulating 5-
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work to residence, requiring 2 years in this occupation in New Zealand, with hourly wage at 1.5 times the median |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: employer must be accredited, after 3 years of work can apply for residence (subject to requirements) |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Pathways include: Skilled Migrant Category (SMC 6-point system, requiring bac
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-manager-forestry/NZ)**

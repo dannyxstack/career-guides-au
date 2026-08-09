@@ -1,10 +1,8 @@
-# Event Planner 职业分析 · 韩国
+# 活动策划师（Event Planner）职业分析 · 韩国
 
-**职业代码: 02444 (KECO)**
+**职业代码：02444 (KECO)**
 
-A professional who plans and operates conferences, exhibitions, meetings, and events for companies and organizations, coordinating overall aspects such as budget, schedule, and vendor selection.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+为企业或组织策划并运营会议、展览、会议和活动的专业人士，协调预算、日程和供应商选择等各个方面。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who plans and operates conferences, exhibitions, meetings, and ev
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school graduate or higher, career-centered） |
-| Associate degree (2-year) | 2 年 | $10,000,000~$80,000,000（Event/tourism-related departments at junior colleges） |
-| Bachelor's degree (4-year) | 4年 | $20,000,000~$99,999,999（Business, advertising/public relations, tourism-related departments） |
+| 高中毕业 | 0年 | $0~$0（高中毕业或以上，以职业为导向） |
+| 副学士学位（2年制） | 2 年 | $10,000,000~$80,000,000（短期大学的活动/旅游相关院系） |
+| 学士学位（4年制） | 4年 | $20,000,000~$99,999,999（商业、广告/公关、旅游相关院系） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who plans and operates conferences, exhibitions, meetings, and ev
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Convention Planner | Korea Research Institute for Vocational Education and Training | 可选 | National qualification, certifies planning competency |
-| Exhibition & Convention Planner | Korea Research Institute for Vocational Education and Training | 可选 | Optional qualification, specialized in exhibitions |
-| TOEIC and other English skills | ETS, etc. | 可选 | Advantageous for foreign/international events |
+| 会议策划师 | 韩国职业教育和培训研究院 | 可选 | 国家资格，认证规划能力 |
+| 展览与会议策划师 | 韩国职业教育和培训研究院 | 可选 | 可选资格，专注于展览 |
+| 托业及其他英语技能 | ETS等 | 可选 | 有利于涉外/国际活动 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 85,000. Employment is expected to grow moderately due to the growth of the MICE industry and increased corporate marketing demand, but it is sensitive to economic fluctuations and competition among agencies is intensifying.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 85,000。由于MICE行业的发展和公司营销需求的增长，就业预计将适度增长，但对经济波动敏感，机构间竞争加剧。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,98 +40,89 @@ A professional who plans and operates conferences, exhibitions, meetings, and ev
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $26,000,000~$35,000,000 | Based on agency standards |
-| Mid-level (4–7 years) | $36,000,000~$48,000,000 | PM Level |
-| 高级（8年+） | $50,000,000~$70,000,000 | Team Lead/Director or Above |
+| Beginner (0–3 years) | $26,000,000~$35,000,000 | 基于代理标准 |
+| 中级（4–7年） | $36,000,000~$48,000,000 | PM级别 |
+| 高级（8年+） | $50,000,000~$70,000,000 | 团队负责人/总监或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI will enhance and streamline repetitive booking, scheduling, and data analysis tasks for event planners, but creative planning and human-centered work will become even more valuable, expanding their role.
+人工智能将增强和简化活动策划者的重复预订、排班和数据分析任务，但创意规划和以人为中心的工作将变得更加有价值，拓展他们的角色。
 
-Usually start as an employee at an agency or planning firm, then advance to team leader, department head, or PM (Project Manager), or switch to freelancing or starting a business.
+通常从机构或策划公司的员工做起，然后晋升为团队领导、部门主管或项目经理，或转为自由职业或创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Scheduling and booking management
-- Participant data collection and analysis
-- Sending standardized emails
+- 日程安排和预订管理
+- 参与者数据收集与分析
+- 发送标准化邮件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Deriving insights from event data
-- Real-time translation and captioning
-- Personalized schedule optimization for participants
-- Creating VR/AR exhibition content
+- 从事件数据中获取洞察
+- 实时翻译与字幕
+- 为参与者个性化优化日程安排
+- 创建VR/AR展览内容
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative planning skills
-- Negotiation and coordination among stakeholders
-- Ability to handle unexpected situations
-- Customer-oriented sensibility
+- 创意规划技能
+- 利益相关方之间的谈判与协调
+- 应对突发情况的能力
+- 客户导向意识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Proficient in AI-based event management tools
+- 精通基于AI的活动管理工具
 - 数据分析与可视化
-- Digital marketing
-- Project management (PM)
-- Foreign languages (e.g., English)
+- 数字营销
+- 项目管理（PM）
+- 外语（如英语）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- MICE industry
-- Corporate conferences
-- Exhibitions and trade shows
-- Online and offline hybrid
+- MICE行业
+- 企业会议
+- 展览和贸易展览
+- 线上与线下混合
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Capable of planning and operating as a professional event planner; needs corporate invitation |
-| Subclass E-9 (Non-professional Employment) | Only possible for event assistance tasks; limited |
-| Subclass F-2 (Residence) | Allows skilled workers free employment; all areas of event planning possible |
-| Subclass F-4 (Overseas Koreans) | No employment restrictions for overseas Koreans; event planning possible |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent communication skills
-- Person strong in multitasking and stress management
+- 沟通能力出色的人
+- 擅长多任务处理和压力管理的人
 - 有创意并注重细节的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who adapt slowly to change
+- 偏好简单重复任务的人
+- 适应变化慢的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an event planner?**
-答：Entry-level: 26–35 million KRW, mid-level: 36–48 million KRW, senior: 50–70 million KRW, varying by agency size and experience.
+**问：活动策划师的平均工资是多少？**
+答：初级：2600-3500万韩元，中级：3600-4800万韩元，高级：5000-7000万韩元，因机构规模和经验而异。
 
-**问：What visa is needed for foreigners to work as event planners?**
-答：Professionals can use the E-7 visa with company sponsorship. Overseas Koreans can work without restrictions on the F-4 visa, and skilled workers can switch to the F-2 visa.
+**问：外国人在活动策划行业工作需要什么签证？**
+答：专业人士可通过公司担保使用E-7签证。海外韩国人可持F-4签证无限制工作，熟练工人可转为F-2签证。
 
-**问：Is it possible for AI to replace event planners?**
-答：Low. Creative planning, negotiation, and on-site problem-solving require human intuition and relationship-centered work, which are hard to replace by AI, though some data analysis or booking systems may be automated.
+**问：AI能否取代活动策划师？**
+答：低。创意规划、谈判和现场解决问题需要人类直觉和关系型工作，难以被AI取代，尽管部分数据分析或预订系统可能实现自动化。
 
 
 ---
@@ -151,12 +140,12 @@ Usually start as an employee at an agency or planning firm, then advance to team
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/event-planner/KR)**

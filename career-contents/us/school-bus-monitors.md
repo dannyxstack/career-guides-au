@@ -53,8 +53,6 @@ School bus monitor maintains order among students on the bus, helps students boa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-School bus monitors are significantly affected by AI automation; core supervision and recording tasks can be reduced by automated systems, leading to decreased demand.
-
 Career progression paths are limited; typically start as junior monitor, can advance to fleet supervisor or dispatcher, some transition to school bus driver or transportation management roles.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Career progression paths are limited; typically start as junior monitor, can adv
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -146,11 +142,12 @@ A: H-1B visas are typically difficult to obtain for this occupation due to low e
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-bus-monitors/US)**

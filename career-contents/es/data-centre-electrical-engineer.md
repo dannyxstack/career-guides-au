@@ -52,8 +52,6 @@ Data center electrical engineers are responsible for the design and operation an
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the design and operational efficiency of data center electrical engineers, but it cannot replace their on-site decision-making, compliance responsibilities, and cross-system collaboration capabilities; Overall job risk is relatively low, and demand continues to expand due to increased AI computing power.
-
 Spanish AI data centers are characterized by high-density power supply and liquid cooling, with 2N redundancy and reliability design at their core; AI-assisted monitoring, with the responsibility for power supply reliability borne by engineers.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Spanish AI data centers are characterized by high-density power supply and liqui
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass PAC Ley 14/2013 (Highly skilled professionals) | Highly Qualified Professional (Ley 14/2013) residence permit |
-| Subclass Tarjeta Azul UE (EU Blue Card) | EU Blue Card: high salary + degree engineer pathway. |
-| Subclass Cuenta ajena (Employed work) | Employed work residence permit |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -159,12 +150,12 @@ A: Yes. Classified as a shortage engineering profession, you can follow Spain's 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-centre-electrical-engineer/ES)**

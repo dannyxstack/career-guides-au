@@ -53,8 +53,6 @@ Teach driving skills and road rules to help students obtain a driver's license; 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is not a threat but a magnifying glass: the core value of driving instructors (safety judgment, emotional guidance, risk assessment) will not be automated. Instead, AI simulators, student data analysis, and smart scheduling systems can greatly improve teaching efficiency, freeing instructors from repetitive tasks to focus on high-value guidance.
-
 Can start as a part-time instructor, gain experience then go full-time or use own vehicle; can also expand to heavy vehicle (truck) instructor or start a driving school, but limited by New Zealand market size
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can start as a part-time instructor, gain experience then go full-time or use ow
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Must hold a full New Zealand driver's license for at least 2 years, and pass 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/driving-instructor/NZ)**

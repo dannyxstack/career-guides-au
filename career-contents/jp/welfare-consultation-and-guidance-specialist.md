@@ -4,8 +4,6 @@
 
 A professional who provides life consultations, support plan formulation, and coordination with related organizations for welfare service users such as the elderly and disabled.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who provides life consultations, support plan formulation, and co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI supports the creation of consultation records and information organization, but cannot replace the core of interpersonal counseling. AI will streamline operations, allowing focus on high-quality consultations.
-
 At the beginning of a career, gain experience as a consultation support specialist, with promotion possible to chief consultation support specialist or manager. Obtaining qualifications such as Certified Social Worker can enhance career advancement.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ At the beginning of a career, gain experience as a consultation support speciali
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires qualifications such as Certified Social Worker. Counseling may apply but is subject to individual review. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Limited to the long-term care sector. This job is not in long-term care, so it is excluded. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Possible if high skills and income requirements are met, but rare in the welfare field. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: You can advance by becoming a chief consultation support specialist or manage
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welfare-consultation-and-guidance-specialist/JP)**

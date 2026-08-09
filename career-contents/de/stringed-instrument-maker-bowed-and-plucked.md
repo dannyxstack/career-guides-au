@@ -54,8 +54,6 @@ String instrument makers (bowed and plucked) handcraft, repair, and restore inst
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI's impact on stringed instrument makers is mixed: automation has streamlined some measurement and documentation tasks, but core craftsmanship and acoustic tuning are hard to replace. Meanwhile, AI-assisted design, sound analysis, and online customization tools can boost efficiency and creativity, requiring practitioners to proactively embrace digital tools.
-
 Career path typically starts with dual training to become a skilled worker (Geselle), then can earn a master certificate (Meister) and open one's own workshop, or become a technical director in musical instrument companies. A few specialize in musicology or restoration.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path typically starts with dual training to become a skilled worker (Gese
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system; allows 1-year job search in Germany, suitable for applicants undergoing qualification recognition. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa; must show sufficient funds. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: The market is stable but small, with good opportunities in high-end customiza
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stringed-instrument-maker-bowed-and-plucked/DE)**

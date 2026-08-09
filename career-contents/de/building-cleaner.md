@@ -52,8 +52,6 @@ Building cleaners are responsible for cleaning and maintaining the interior and 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Building cleaners face automation risk: AI-driven cleaning robots can take over repetitive tasks like floor cleaning and window washing, but have limitations on special surfaces, complex environments, and fine cleaning needs. Entry-level competition intensifies, but senior cleaners still require manual judgment.
-
 Junior cleaners can advance to team leader or supervisor through experience, or transition to specialized cleaning fields (e.g., industrial cleaning, building exterior cleaning). A few may start their own cleaning companies.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior cleaners can advance to team leader or supervisor through experience, or 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: No specific degree usually required; employer provides on-the-job training. A
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-cleaner/DE)**

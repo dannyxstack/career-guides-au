@@ -54,8 +54,6 @@ Responsible for monitoring and dispatching railway traffic, ensuring safe and on
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will take over signal dispatch and data monitoring, but on-site emergency response and multi-system coordination still require humans, with increasing role differentiation.
-
 Starting as a Fahrdienstleiter (signaller), can advance to Bezirksleiter (regional dispatch supervisor) or move into railway operations management/safety oversight roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a Fahrdienstleiter (signaller), can advance to Bezirksleiter (region
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allowing entry to Germany to find work, requiring proof of German B1 or higher. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to find work, requires relevant qualifications and sufficient living funds. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, advancement from signalman to regional dispatch supervisor, or transitio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-traffic-control-and-monitoring-officer/DE)**

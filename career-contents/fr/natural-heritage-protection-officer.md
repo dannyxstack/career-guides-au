@@ -4,8 +4,6 @@
 
 It is responsible for the protection and management of France's natural heritage, including nature reserves, national parks, and marine parks, implementing biodiversity conservation programs, coordinating ecological restoration projects, and overseeing the enforcement of environmental regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ It is responsible for the protection and management of France's natural heritage
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of natural heritage protection specialists combines on-site and office tasks. AI can automate data analysis and report writing, but on-site ecological monitoring, policy coordination, and community communication still require human judgment. The overall risk is moderate and AI tools must be proactively adapted.
-
 Junior positions (such as protection assistants) can be promoted to project coordinator or protected area manager, and after gaining experience, become a senior expert or regional leader. Some people turned to consulting firms, environmental NGOs, or international organizations. Internal promotions in public institutions require taking the civil service examination (Concours).
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior positions (such as protection assistants) can be promoted to project coor
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Visa) | Applicants must provide a work contract from the employer and pass the local recruitment test by the French labor bureau, making them suitable for finding work in France |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled individuals, those who have studied in France or made special contributions, and may apply to experts in the field of nature conservation, but special talent must be demonstrated |
-| Subclass Recherche emploi (Job Seeking Visa) | Suitable for graduates who have completed a master's degree or above in France, who can look for jobs and then switch to Salarié or Passeport Talent after finding one |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Typically, they start as conservation assistants or technicians and are promo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/natural-heritage-protection-officer/FR)**

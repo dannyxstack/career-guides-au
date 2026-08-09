@@ -53,8 +53,6 @@ Outdoor adventure instructors lead and guide activities such as paragliding, roc
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on outdoor adventure instructors is mixed: automation can handle back-office tasks like route planning, risk assessment, and teaching material creation, but core on-site guidance, emotional motivation, and emergency response cannot be replaced. Entry-level roles may become more accessible due to AI tools, but safety responsibilities and professional certification keep the barrier to entry relatively high.
-
 Experiential and adventure tourism growth; specialist qualifications and safety record are core competitive advantages.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Experiential and adventure tourism growth; specialist qualifications and safety 
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Direct skilled migration not possible. Outdoor Adventure Instructor (452413) 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/outdoor-adventure-instructor/AU)**

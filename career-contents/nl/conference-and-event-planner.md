@@ -52,8 +52,6 @@ Responsible for planning, organizing, and coordinating various meetings, exhibit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Meeting and Event Planners Face High Automation Risk: AI can handle many planning, coordination, and documentation tasks, but human communication and on-site adaptability still rely on people.
-
 Entry-level can work as an event coordinator, progress to senior planner or event manager after gaining experience, or transition to conference operations, destination management, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Entry-level can work as an event coordinator, progress to senior planner or even
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled professionals meeting the salary threshold (approx. €5,008/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated professionals, annual salary threshold approximately €6,245/month (2025). |
-| Subclass Orientation Year (Orientation Year) | Applicable to international students who graduated in the Netherlands, allowing one year for job seeking. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: The Dutch events industry is growing steadily, with sustainability and digita
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conference-and-event-planner/NL)**

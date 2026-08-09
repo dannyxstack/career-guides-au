@@ -4,8 +4,6 @@
 
 Ship mechanics are responsible for installing, maintaining, and repairing the ship's engines, propulsion systems, and auxiliary equipment to ensure the ship's safe operation. This profession has stable demand along the French coast and at ports, requiring skills in mechanical, hydraulic, and electrical systems.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Ship mechanics are responsible for installing, maintaining, and repairing the sh
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Junior mechanics can be promoted to senior technician or team leader, or can transition to yacht or merchant ship maintenance management by obtaining national certifications. Experienced individuals can start their own businesses or join shipyard management.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Junior mechanics can be promoted to senior technician or team leader, or can tra
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employed by a French company requires a work permit, usually employer sponsorship, and is subject to labor market testing restrictions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as engineers or specialists, who meet salary requirements (≥ twice SMIC) to quickly obtain residency. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Permit)) | Graduates can apply for 12 months of residence to find work; after finding a job related to their field, can switch to work residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Starting as a junior mechanic, you can advance to senior technician, team lea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-mechanic/FR)**

@@ -52,8 +52,6 @@ Mining and metallurgical technicians operate equipment, monitor processes, condu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure of mining and metallurgical technicians will undergo a mixed reshaping due to automation and AI: repetitive monitoring and data analysis tasks are replaced, but complex decision-making and anomaly handling capabilities are enhanced, with significantly upgraded skill requirements.
-
 Entry-level technicians can advance to senior technician or supervisor roles; some may move into project management or R&D positions, requiring on-site experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Entry-level technicians can advance to senior technician or supervisor roles; so
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Suitable for highly skilled migrants sponsored by Dutch employers, subject to salary thresholds (approximately €5,008/month in 2024). |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates who recently obtained a master's or doctoral degree in the Netherlands or other specified countries can apply for a 1-year job search scheme. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens, requires an employment contract and a salary threshold (approximately €5,900/month), with a pathway to permanent residency. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually requires an MBO (secondary vocational education) or HBO (university o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-metallurgical-technician/NL)**

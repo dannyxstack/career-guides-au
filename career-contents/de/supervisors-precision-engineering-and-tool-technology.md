@@ -51,8 +51,6 @@ Responsible for supervising and coordinating skilled workers in precision engine
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation oversees precision manufacturing; AI will enhance efficiency in automated scheduling and quality inspection, but human judgment in team management and anomaly handling remains irreplaceable, with overall impact mixed.
-
 Can progress from skilled worker to supervisor, then to production manager or technical director, requiring experience and management courses.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from skilled worker to supervisor, then to production manager or te
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for completing German recognized vocational training (dual system), requires employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on a points system, allowing one year of job search in Germany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires completion of a 3-year dual-system vocational training (e.g., precis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-precision-engineering-and-tool-technology/DE)**

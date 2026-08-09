@@ -51,8 +51,6 @@ Responsible for formulating and implementing corporate strategy, organizational 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of corporate strategic managers (environmental scanning, strategy generation) will be significantly enhanced by AI, but pure data analysis and report writing may be automated; the risk is that mid-level decision coordination roles may shrink, while top-level strategic judgment and organizational influence remain human strongholds.
-
 Usually start as department manager or project manager, with progression to director, chief operating officer (COO), or chief executive officer (CEO). Ongoing pursuit of an MBA or industry certification is required.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as department manager or project manager, with progression to dire
 | Subclass Skilled Worker (Skilled Worker Visa) | According to skilled migration laws, applicants with a university degree and employed by an employer can apply, with a lower annual salary threshold |
 | Subclass Chancenkarte (Opportunity Card) | A points-based opportunity card that allows eligible job seekers without a specific job offer to enter the country to search for work. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a German-recognised university degree (e.g., business mana
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-corporate-organisation-and-strategy/DE)**

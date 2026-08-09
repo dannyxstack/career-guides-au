@@ -4,8 +4,6 @@
 
 Responsible for installing, configuring, maintaining, and repairing computers, network equipment, communication lines, and terminal devices to ensure the normal operation of ICT systems for enterprises and households. The work includes wiring, equipment debugging, troubleshooting, and user support.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing, configuring, maintaining, and repairing computers, n
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure of information and communication technology installers and maintenance personnel is being reshaped by AI and automation: remote diagnostics and automated configuration tools have compressed some troubleshooting work, but abilities such as debugging complex systems, on-site installation, and customer communication have been enhanced by AI, resulting in a mixed mix overall.
-
 Career paths: Junior technician→ senior technician→ team leader→ technical manager, or entrepreneur. You can advance by obtaining manufacturer certifications (such as Cisco or Huawei) or pursuing advanced FP courses. Some people turned to IT technical support or network engineering.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Career paths: Junior technician→ senior technician→ team leader→ technical
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Must obtain a Spanish employer employment contract and pass a labor market test (if no suitable local candidate is found). ICT installers are usually not in short supply and have moderate approval difficulty. |
-| Subclass Autónomo (Self-Employed Work Permit) | Self-employed residence can be applied for, but a business plan must be submitted and proof of contribution to the local economy. Suitable for experienced applicants, with stricter approvals. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: You can be promoted to network engineer by obtaining advanced certifications 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-installers-and-repairers/ES)**

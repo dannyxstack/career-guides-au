@@ -52,8 +52,6 @@ Install, maintain, and repair heating, central AC, HVAC or refrigeration systems
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 Career progression includes senior technician, supervisor, project manager, or self-employment. Competitiveness can be enhanced by obtaining EPA Section 608 certification, NATE certification, or advanced plumbing/electrical certificates. Experienced personnel can move into engineering or sales.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression includes senior technician, supervisor, project manager, or s
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience for skilled workers, needs PERM labor certification and employer sponsorship, is the main green card path. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to recruit qualified US workers, applying for EB-2 or EB-3 green card via PERM. This occupation typically follows EB-3. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a high school diploma followed by a technical school progr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heating-air-conditioning-and-refrigeration-mechanics-and-installers/US)**

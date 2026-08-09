@@ -51,8 +51,6 @@ Real estate agents handle buying, selling, and leasing of residential and commer
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 Junior real estate agents can advance to senior agents, team leaders, or start their own agencies; property managers can become regional managers or property investment advisors. Experience and networking are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior real estate agents can advance to senior agents, team leaders, or start t
 | Subclass AEWV (Accredited Employer Work Visa) | Requires employer accreditation, can apply for residence after 3 years of work |
 | Subclass Green List T2 (Green List Tier 2) | The occupation is not on the Green List; only a few regions or specific roles may be exceptions |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: The market is affected by the economic cycle; cities like Auckland have more 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-property-manager/NZ)**

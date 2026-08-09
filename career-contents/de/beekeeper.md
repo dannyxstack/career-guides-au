@@ -53,8 +53,6 @@ Beekeepers are responsible for bee rearing, hive management, honey collection, a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Beekeeping work is undergoing task restructuring due to AI and automation: routine monitoring and data analysis are replaced, but core tasks relying on physical operations and ecological judgment are amplified; overall, the impact is mixed.
-
 Entry-level beekeepers can advance to apiary supervisor through experience, or start their own beekeeping business. Expansion into organic farming, value-added bee products processing, and ecological education offers broad prospects.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level beekeepers can advance to apiary supervisor through experience, or s
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system allowing entry for job seeking before finding a job. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, must find own way out |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: With growing interest in organic food and ecological protection, demand for l
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beekeeper/DE)**

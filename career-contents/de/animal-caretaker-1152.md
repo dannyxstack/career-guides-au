@@ -51,8 +51,6 @@ Duties involve daily care, feeding, cleaning, health observation and environment
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal care worker jobs will change due to AI automating some administrative and monitoring tasks, but core physical labor and emotional interaction still rely on humans. Overall risk is moderate, requiring learning new tools to improve efficiency.
-
 Limited career progression; can move from assistant to supervisor or transition to animal training and conservation. After dual-system training, can also start a pet care business.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Limited career progression; can move from assistant to supervisor or transition 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can be promoted to department supervisor or transition to animal training, an
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-caretaker-1152/DE)**

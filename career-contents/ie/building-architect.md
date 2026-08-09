@@ -53,8 +53,6 @@ An architectural designer is responsible for designing the appearance, structure
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Junior designers can advance to project manager or senior architect, independently practice with registration, or transition to urban planning, sustainable development, etc.; salary significantly increases with experience.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior designers can advance to project manager or senior architect, independent
 | Subclass General Employment P (General Employment Permit) | Requires labor market testing, typically obtain this permit first, then transfer to advanced permit |
 | Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled workers, high salary threshold, offers mobility within the EU |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Registration with RIAI is required, including academic qualifications, practi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-architect/IE)**

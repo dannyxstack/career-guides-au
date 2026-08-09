@@ -4,8 +4,6 @@
 
 A profession involving interviewing, writing, and editing for newspapers, broadcasters, and publishers. Strong writing and research skills are required.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A profession involving interviewing, writing, and editing for newspapers, broadc
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI-generated articles are progressing, automating routine pieces like sports updates and financial reports. However, investigative reporting, interviews, and complex analysis remain human tasks. As a result, AI serves as a tool, altering job content.
-
 Typical career path from reporter to desk editor to editor-in-chief. Specializing in a field (politics, economics, science, etc.) can lead to a position as a specialist reporter.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Typical career path from reporter to desk editor to editor-in-chief. Specializin
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge. Application possible if the job matches. Japanese proficiency is emphasized. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as outside the target field. |
-| Subclass 高度専門職 (Highly Skilled Professional) | Based on a points system. Possible if high income or career background. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: AI-generated articles are advancing, but investigative reporting, original in
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reporter-editor/JP)**

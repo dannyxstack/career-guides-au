@@ -52,8 +52,6 @@ Responsible for planning, organizing, directing and controlling the operation of
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Typically start as a social worker or project coordinator; with experience can advance to regional or national management roles, or shift to policy development and advisory positions
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Typically start as a social worker or project coordinator; with experience can a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to high-skilled workers, with an annual salary threshold of approximately €24,789, requires a university degree and work contract, can bring family, eligible for permanent residence after 2 years. |
-| Subclass Lavoro Subordinato ( (Decreto Flussi Work Visa) | Annual quota work visa for non-EU citizens, requiring employer sponsorship, with limited quotas, typically for seasonal work or occupations in shortage. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit proof, the employer must prove that no suitable candidate can be found within the EU, applicable to specific occupations, the process is complex. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically start as social workers or program coordinators, advancing to proje
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-welfare-manager/IT)**

@@ -52,8 +52,6 @@ Swimming coaches or instructors teach individuals or groups swimming skills, ens
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
-
 Career progression paths include from junior coach to senior coach, swimming club manager, or aquatic centre director, also transition to sports management or training other coaches.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include from junior coach to senior coach, swimming clu
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, requires occupation to be on the state occupation list |
 | Subclass 491 (Skilled Work Regional Visa) | Regional provisional visa requiring 3 years of work in a regional area to transition to permanent residence |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes. This occupation is on the CSOL and can transition from a 482 temporary v
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/swimming-coach-or-instructor-452315/AU)**

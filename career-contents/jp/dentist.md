@@ -4,8 +4,6 @@
 
 Physicians who diagnose, treat, and prevent diseases and injuries of teeth and oral cavity. High specialization in caries treatment, periodontal disease, dentures, implants, pediatric orthodontics, with high self-employment rates.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Physicians who diagnose, treat, and prevent diseases and injuries of teeth and o
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used in diagnostic support (image analysis, cavity detection) and treatment planning, but cannot replace treatment procedures (cutting, restoration, extraction). The dentist's role is broad, from diagnosis to treatment, with AI serving only as a complementary tool.
-
 After graduating from a university dental school (6 years), pass the national exam, complete clinical training (1 year), then work as a dental practitioner. Subsequently, common paths include graduate school, specialty certification, or opening a private practice.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ After graduating from a university dental school (6 years), pass the national ex
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies to foreign dentists who obtain a Japanese dental license and then work. However, passing the national exam requires graduating from a dental university, which is a high hurdle. |
-| Subclass 教授（教育・研究） (Professor) | For teaching at dental universities or research institutions. Also possible under the Highly Skilled Professional status. |
-| Subclass 特定活動（医療滞在） (Designated Activities (Medical Stay)) | Limited to treating foreign patients, etc. Not for general employment. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: Generally, by pursuing a graduate degree to become a specialist, or by openin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/JP)**

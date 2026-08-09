@@ -4,8 +4,6 @@
 
 Denture technicians are responsible for designing, manufacturing, and repairing dentures, bridges, crowns, and other dental restorations, serving as the technical core of the dental team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Denture technicians are responsible for designing, manufacturing, and repairing 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI significantly boosts dental therapist efficiency through assisted diagnosis, imaging analysis, and treatment planning, but core operations and patient communication remain irreplaceable, with steady demand growth.
-
 Candidates can be promoted from junior technician to senior technician or laboratory supervisor, or open their own denture processing room; It can also shift to digital dental design, implant restoration, and other niche areas.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Candidates can be promoted from junior technician to senior technician or labora
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | Work residency sponsored by Spanish employers applies to denture technician positions. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled professionals requiring a university degree or equivalent, meeting salary thresholds. Dental prosthetists typically earn lower wages, making it harder to meet thresholds. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for highly educated or urgently needed technical talents, but denture technicians are not typical high-skilled and require case evaluation. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: The minimum requirement is the Higher Vocational Education Diploma (FP Grado 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-prosthesis-technician/ES)**

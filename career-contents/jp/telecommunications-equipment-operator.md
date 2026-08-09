@@ -52,8 +52,6 @@ Engineer who operates and monitors telephone exchanges and wireless communicatio
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Advances in AI-driven network automation and remote monitoring are reducing simple monitoring tasks, while tasks requiring human judgment (e.g., fault response, advanced troubleshooting) remain, so the impact is mixed.
-
 Career path starts with field operations, leading to network engineer or control center management roles.
 
 **Tasks most exposed to AI:**
@@ -92,17 +90,9 @@ Career path starts with field operations, leading to network engineer or control
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Need university-level education and experience as a telecommunications engineer |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Applicable in electrical/electronic information industries, requires skills test and N4+ Japanese |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | If highly skilled, can bring family and apply for permanent residence |
-| Subclass 高度専門職（イ） (Highly Skilled Professional (i)) | Point-based system rewards education, experience, income |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +136,12 @@ A: From field operations, you can advance to network engineer or monitoring cent
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-operator/JP)**

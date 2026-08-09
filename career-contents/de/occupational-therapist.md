@@ -54,8 +54,6 @@ Occupational therapists help individuals limited by illness, disability, or ment
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace occupational therapists but will amplify their value by auto-generating assessment reports, rehabilitation plans, and data tracking, freeing up time for personalized intervention and emotional support.
-
 Entry-level occupational therapists can start in basic roles, accumulate experience and then advance to senior therapist, department head or therapy centre director. They can also move into specialist areas (e.g. neurological rehabilitation, paediatrics) through further education, or into teaching and research roles.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Entry-level occupational therapists can start in basic roles, accumulate experie
 | Subclass EU Blue Card (EU Blue Card) | Applicable to applicants with annual salary not less than 43,800 EUR (2024 shortage occupations). Usually requires bachelor's degree or above and qualification certification. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job-seeking visa allowing a one-year stay in Germany to look for work. Requires at least a occupation-related vocational qualification or degree. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, all occupational therapy qualifications obtained outside the EU must go 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/DE)**

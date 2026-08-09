@@ -1,10 +1,8 @@
-# Bicycle Sales and Repair Workers 职业分析 · 韩国
+# 自行车销售与维修工人（Bicycle Sales and Repair Workers）职业分析 · 韩国
 
-**职业代码: 81292 (KECO)**
+**职业代码：81292 (KECO)**
 
-Responsible for bicycle sales, maintenance, and repairs, providing customized assembly and after-sales service to customers.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责自行车销售、维护和修理，为客户提供定制组装和售后服务。
 
 
 ---
@@ -13,8 +11,8 @@ Responsible for bicycle sales, maintenance, and repairs, providing customized as
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Compulsory education completed） |
-| Bicycle mechanic training course | 6 months | $2,000,000~$5,000,000（Cost of private academy） |
+| 高中毕业 | 0年 | $0~$0（完成义务教育） |
+| 自行车维修培训课程 | 6个月 | $2,000,000~$5,000,000（私立学院费用） |
 
 ---
 
@@ -22,16 +20,16 @@ Responsible for bicycle sales, maintenance, and repairs, providing customized as
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bicycle Mechanic Technician | Human Resources Development Service of Korea | 可选 | National Technical Qualification |
+| 自行车维修技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 18,000. Employment is expected to grow slowly due to increased demand for eco-friendly transportation and a growing cycling population.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 18,000。由于环保交通需求和骑行人口增长，就业预计缓慢增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,93 +37,85 @@ Responsible for bicycle sales, maintenance, and repairs, providing customized as
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $22,000,000~$28,000,000 | Low starting salary, increases with skill level |
-| Intermediate (4–7 years) | $28,000,000~$35,000,000 | Professional mechanic level |
-| Advanced (8+ years) | $35,000,000~$45,000,000 | Store manager or master mechanic |
+| Beginner (0–3 years) | $22,000,000~$28,000,000 | 起薪低，随技能水平提高 |
+| 中级（4-7年） | $28,000,000~$35,000,000 | 专业技工级别 |
+| 高级（8年以上） | $35,000,000~$45,000,000 | 店长或高级技师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although AI and automation are unlikely to fully replace maintenance and sales tasks, their adoption in inventory management, customer recommendations, and some diagnostic work is expected to increase efficiency.
+尽管AI和自动化不太可能完全取代维护和销售任务，但预计其在库存管理、客户推荐和一些诊断工作中的应用将提高效率。
 
-Can start a small business or join a large retail/repair chain, advancing from skilled worker to manager.
+可以开办小企业或加入大型零售/维修连锁，从熟练工人晋升到经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Inventory Management
-- Simple Customer Inquiries (Chatbots)
-- Basic Maintenance History Recording
+- 库存管理
+- 简单客户咨询（聊天机器人）
+- 基本维护历史记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Maintenance Diagnosis (AI-Assisted)
-- Personalized Parts Recommendations
-- Inventory Forecasting
+- 维护诊断（AI辅助）
+- 个性化零件推荐
+- 库存预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual Precision Maintenance
-- Customer Trust Relationships
-- On-Site Judgment
+- 手动精密维护
+- 客户信任关系
+- 现场判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Electric Bicycle Maintenance
-- AI Diagnostic Tool Utilization
-- Customer Communication
+- 电动自行车维修
+- AI诊断工具应用
+- 客户沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly transportation
-- Expansion of bicycle infrastructure
-- Demand for electric bicycles
-- Leisure Bicycles
+- 环保交通
+- 自行车基础设施扩建
+- 电动自行车需求
+- 休闲自行车
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible under skilled worker (E-7-1) or technical specialist (E-7-2) but limited |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residency stage, self-employment possible |
-| Subclass F-5 (F-5 (Permanent Residence)) | No restrictions on stay, self-employment possible |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity and meticulousness
-- People with a strong interest in bicycles and a service mindset
-- Those looking to start a small business
+- 灵活细心的人
+- 对自行车有浓厚兴趣并具备服务意识的人
+- 想创业的人
 
 **谁不适合**
-- People who dislike physically demanding work
-- People who get bored with repetitive tasks
+- 不喜欢体力工作的人
+- 对重复性任务感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a bicycle sales and repair technician?**
-答：The starting annual salary for beginners is around 22–28 million KRW, increasing with skill level.
+**问：自行车销售和维修技术员的起薪是多少？**
+答：初学者起薪约2200-2800万韩元，随技能水平提高而增加。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：It is possible with an E-7 visa (Specific Activities), but it is quite strict as requirements for skilled or specialized skills must be met.
+**问：外国人能获得此职业的工作签证吗？**
+答：持E-7签证（特定活动）是可能的，但要求具备熟练或专业技能，因此相当严格。
 
-**问：How about promotion or career development?**
-答：By building repair skills, you can grow into a store manager or master mechanic, or start your own business.
+**问：晋升或职业发展如何？**
+答：通过掌握维修技能，可成长为店长或技师，或自主创业。
 
 
 ---
@@ -143,12 +133,12 @@ Can start a small business or join a large retail/repair chain, advancing from s
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bicycle-sales-and-repair-workers/KR)**

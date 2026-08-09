@@ -53,8 +53,6 @@ Mining managers plan, direct, and manage mining operations, including resource e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mining manager roles will experience mixed impacts: some planning and reporting tasks are replaced by AI, but on-site decision-making, safety compliance, and human coordination still rely on humans; with skill upgrading, they can transition to strategic roles
-
 Progress from mining engineer or geologist to operations supervisor, then to mining manager, typically requiring over 10 years of experience. Can further advance to regional director or corporate executive.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from mining engineer or geologist to operations supervisor, then to min
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applies to high-skilled occupations; Mining Managers are eligible, requiring an annual salary of ≥€32,000. |
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires labor market test, annual salary ≥ 30,000 euros. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically starts as a mining engineer or geologist, progresses to operations 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-manager/IE)**

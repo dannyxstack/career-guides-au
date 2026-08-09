@@ -55,8 +55,6 @@ Bank tellers primarily handle counter transactions, customer inquiries, and basi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
-
 Entry-level tellers can advance to customer service supervisor, personal banking advisor, or loan officer; through internal training and obtaining financial certifications, they can transition to wealth management or commercial banking, but promotion is slow.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Entry-level tellers can advance to customer service supervisor, personal banking
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -159,11 +155,12 @@ A: Prospects are average; digitalization has reduced teller positions. However, 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bank-worker/NZ)**

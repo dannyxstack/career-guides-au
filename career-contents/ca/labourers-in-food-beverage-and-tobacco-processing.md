@@ -55,8 +55,6 @@ Physical work in a winery such as cleaning, bottling, and grape processing, clas
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce jobs for food, beverage, and tobacco processing workers, especially repetitive physical tasks and simple quality inspection, with entry-level positions expected to decline by 30-50%.
-
 Advancement from cellar hand to senior cellar hand or winemaking assistant, but requires experience or relevant certifications. Long-term development needs transition to technical roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Advancement from cellar hand to senior cellar hand or winemaking assistant, but 
 | Subclass PNP Low Skilled (Provincial Nominee Program (Low Skilled)) | Such as BC PNP Entry Level and Semi-Skilled category, requiring employer sponsorship |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot low-skilled category, requires employer offer and lower experience requirements. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually not directly suitable for skilled migration due to low NOC skill leve
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-food-beverage-and-tobacco-processing/CA)**

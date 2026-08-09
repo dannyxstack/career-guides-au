@@ -51,8 +51,6 @@ Medical and clinical laboratory technicians perform complex medical laboratory t
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate data analysis and pattern recognition, but core tasks like sample processing, quality control judgment, and clinical communication still require human experts; jobs won't be replaced but task structures will be reshaped.
-
 Usually start as Medical Laboratory Scientists (MLS), then with experience can advance to laboratory supervisor, manager, or quality assurance officer. Some specialize in molecular diagnostics or genetics, or move into medical device sales/R&D.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Usually start as Medical Laboratory Scientists (MLS), then with experience can a
 | Subclass EB-2 (EB-2 Professional with Advanced Degree) | Requires master's or bachelor's plus 5 years experience, PERM labor certification |
 | Subclass Green Card (PERM) (Green Card through PERM) | Employer-sponsored green card, requiring proof of insufficient local workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes, but requires credential evaluation and ASCP certification. Typically nee
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-clinical-laboratory-technologists/US)**

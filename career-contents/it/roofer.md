@@ -4,8 +4,6 @@
 
 Roofers install, repair, and replace building roofs, including tiles, metal sheets, waterproofing membranes, etc. In Italy, roofers have stable demand in the building maintenance and renovation market.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Roofers install, repair, and replace building roofs, including tiles, metal shee
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some tasks of roofers (e.g., material estimation, safety checks) may be optimized by AI, but high-altitude work, complex waterproofing, and customized installations are hard to replace; overall risk is moderate.
-
 Junior roofers can start as apprentices, gain experience, and advance to foreman or specialist waterproofing/metal roofing technicians. Some may become self-employed contractors or shift to construction supervision roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior roofers can start as apprentices, gain experience, and advance to foreman
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU skilled workers, requiring employer sponsorship and annual quota application. Roofers fall under the construction category. |
-| Subclass EU Blue Card (EU Blue Card) | Requires a university degree or 5 years of experience, with an annual salary threshold of approx. €33,000. Roofers typically do not meet the education requirement. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | Applicable to self-employment as a roofer in Italy, requiring proof of sufficient funds and a business plan. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You can start as an apprentice and progress to foreman, specialist technician
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofer/IT)**

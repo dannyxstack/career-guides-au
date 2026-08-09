@@ -53,8 +53,6 @@ The EV charging infrastructure engineer is responsible for electrical design, di
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will amplify EV charging engineers' ability to optimize design and compliance, but tasks such as on-site installation and physical commissioning still require manual leadership, making the overall outlook positive.
-
 By 2026, supercharging stations (350kW+) and fleet charging will become hotspots, with stations often needing power distribution upgrades and energy storage peak shaving. Engineers who understand grid connection and load management are the most favored. AI-assisted site selection and load forecasting, while core electrical design and compliance are still handled by engineers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ By 2026, supercharging stations (350kW+) and fleet charging will become hotspots
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Falls under Electrical Engineering (233311 family) as an occupation in d
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-charging-infrastructure-engineer/AU)**

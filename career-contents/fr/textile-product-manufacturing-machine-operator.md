@@ -4,8 +4,6 @@
 
 Operate textile machinery (such as looms, knitting machines, dyeing machines) for textile production, responsible for equipment commissioning, monitoring operation, quality inspection, and basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate textile machinery (such as looms, knitting machines, dyeing machines) fo
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Textile manufacturing machine operators face dual challenges from automation and AI-assisted approaches. Routine monitoring tasks are easily replaced, but the need for handling complex issues and quality optimization is increasing, resulting in overall risks that are moderate to high.
-
 Promotion from junior operator to senior operator, production line leader, or quality inspector; Through training, you can transition to equipment maintenance or technician positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Promotion from junior operator to senior operator, production line leader, or qu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract must be provided by a French employer, and local workers must be given priority after review by the Labor Bureau. |
-| Subclass Talent Professionnel (Passeport Talent - Professionnel) | Suitable for high-skilled or shortage occupations, but these professions often do not meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Typically, a CAP or BTS diploma is required, or professional qualification ce
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-product-manufacturing-machine-operator/FR)**

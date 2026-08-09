@@ -51,8 +51,6 @@ Fell standing trees using chainsaws and heavy machinery in forests, cut them to 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation impact is limited. Chainsaw and forestry machinery automation is progressing, but human judgment and safety are needed in complex terrain. AI is used for work planning and safety management.
-
 Career progression from worker to team leader and site supervisor. Can aim for skills as high-performance forestry machinery operators or managerial roles in forest cooperatives.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Career progression from worker to team leader and site supervisor. Can aim for s
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Forestry)) | Achievable by passing skills and Japanese language tests. Maximum total stay: 5 years. |
-| Subclass 技能 (Skilled Worker Visa (Forestry)) | 10+ years of practical experience (varies by country). |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires knowledge equivalent to university/vocational school graduate as a forestry technician. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Forestry workers are decreasing, but demand remains stable due to labor short
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-feller-and-logging-worker/JP)**

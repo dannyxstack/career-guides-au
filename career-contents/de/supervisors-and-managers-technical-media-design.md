@@ -54,8 +54,6 @@ Responsible for leading the technical media design team, coordinating multimedia
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will profoundly change the role of technical media design directors: automated layout and basic image generation replace some tasks, but management duties such as strategic decision-making, creative leadership, budget management, and team coordination are enhanced by AI tools, resulting in a mixed overall impact.
-
 Can be promoted from senior designer to team leader, then to department manager or creative director. After accumulating project management experience, can also move into consulting or freelancing.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can be promoted from senior designer to team leader, then to department manager 
 | Subclass Skilled Worker (Skilled Immigration Act) | If the position is recognised as a skilled trade, it can follow the skilled migration law, requiring qualifications assessment. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job seeker opportunity card, allowing one year to find work in Germany |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: From senior designer to team lead, then to creative director or department ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-technical-media-design/DE)**

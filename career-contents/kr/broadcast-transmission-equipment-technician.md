@@ -4,8 +4,6 @@
 
 A specialized technical professional who transmits broadcast signals from broadcasting stations and relay stations, maintains and manages equipment, and ensures stable transmission quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialized technical professional who transmits broadcast signals from broadc
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are gradually replacing transmission monitoring and fault detection tasks, but human judgment and field experience remain important for complex fault response and equipment maintenance.
-
 Typically, after joining a broadcasting station's transmission team or relay station, one can advance to senior technician → team leader → head of technical department, or move to broadcast equipment manufacturers or SI companies.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Typically, after joining a broadcasting station's transmission team or relay sta
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable if employed as a broadcast technical expert; requires broadcast station experience. |
-| Subclass F-2 (Residence) | Eligible for status change after long-term stay; advantageous for skilled technicians. |
-| Subclass F-4 (Overseas Koreans) | Open to overseas Koreans; allows employment in broadcast technology. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Generally, a diploma from a 2-year college in broadcasting or electronics-rel
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcast-transmission-equipment-technician/KR)**

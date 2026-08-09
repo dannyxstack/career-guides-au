@@ -50,8 +50,6 @@ Performing routine assembly of vehicles and other metal products or components, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation mainly involves repetitive physical assembly tasks. AI and automation will significantly replace some operations, leading to reduced job demand, but complex assembly relying on hand-eye coordination will remain.
-
 Usually start on the production line, can advance to team leader or quality inspector with experience, or transition to more advanced manufacturing technology roles through internal training.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually start on the production line, can advance to team leader or quality insp
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Can advance from assembler to production line lead, quality inspector, or tra
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-vehicles-and-metal-goods/UK)**

@@ -4,8 +4,6 @@
 
 Performs work of applying paint to surfaces of various materials such as metal, wood, and plastic using spray equipment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Performs work of applying paint to surfaces of various materials such as metal, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Due to AI and automation, simple painting tasks are gradually decreasing, but in high-precision and specialty painting fields, human skill is still required, so some roles are expected to persist.
-
 Can advance from entry-level painter to skilled worker, foreman, and process manager; obtaining certifications and experience is important.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Can advance from entry-level painter to skilled worker, foreman, and process man
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Unskilled painting work is possible but limited |
-| Subclass E-7 (Specific Activities) | Employment is limited to skilled technicians |
-| Subclass F-2 (Residence) | Long-term residence status, free employment possible |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Promotion is possible from beginner → intermediate → advanced (foreman) �
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-spray-painter/KR)**

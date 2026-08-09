@@ -4,8 +4,6 @@
 
 A specialist who plans, films, edits, and streams video content for one-person media, internet broadcasting, and platforms such as YouTube, AfreecaTV, and Twitch.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist who plans, films, edits, and streams video content for one-person m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI boosts productivity through automated editing, subtitle generation, and recommendation algorithm optimization, but uniquely human areas like creative planning, real-time communication, and personal branding become more important; the ability to collaborate with AI becomes competitive.
-
 Start as a freelancer or small-scale creator; after gaining experience, can advance to MCN affiliate, channel operator, video PD, or broadcast station PD. Many also start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Start as a freelancer or small-scale creator; after gaining experience, can adva
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can be invited as a professional creator or MCN PD, provided experience requirements are met |
-| Subclass D-10 (Job Seeking) | Available for international students majoring in broadcasting/video for job-seeking activities |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +137,12 @@ A: You can grow from an independent creator to an MCN affiliate, broadcast PD, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-broadcasting-specialist-content-creator/KR)**

@@ -53,8 +53,6 @@ Supervise and coordinate the activities of plumbers and related workers, respons
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Impact of AI/automation on this occupation is mixed: design optimisation and document processing can be enhanced by AI, but on-site supervision, emergency decision-making and human coordination are hard to replace.
-
 Progress from plumber to supervisor, then to project manager or self-employed contractor. Requires accumulation of technical experience and management skills; some obtain Red Seal certification to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Progress from plumber to supervisor, then to project manager or self-employed co
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★★☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Red Seal certification is not mandatory but helps with interstate employment 
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-pipefitting-trades/CA)**

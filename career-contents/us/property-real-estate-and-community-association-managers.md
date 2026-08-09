@@ -52,8 +52,6 @@ Responsible for planning, directing, or coordinating the sale, purchase, lease, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
-
 Usually start as a leasing agent or property assistant, and can advance to property manager, regional manager, or portfolio manager after gaining experience. Large companies may have more promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as a leasing agent or property assistant, and can advance to prope
 | Subclass L-1 (Intracompany Transferee (L-1)) | Intracompany transfer, suitable for those transferring to the US after holding a management role in an overseas company. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Applying for a green card through EB-2 or EB-3 requires proving no qualified US workers for the position, a complex process. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Start as assistant or leasing agent, progress to property manager, regional m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/property-real-estate-and-community-association-managers/US)**

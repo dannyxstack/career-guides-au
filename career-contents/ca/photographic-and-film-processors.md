@@ -52,8 +52,6 @@ Operate equipment to develop photos, process film and digital images, including 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Photography and film processing workers face high automation risk; AI and digital technology will significantly replace traditional darkroom and basic image processing work, with job demand continuously declining.
-
 Can progress to professional digital image editing, photography assistant, or self-operated photo studio. Some experienced individuals can transition to commercial photography or graphic design.
 
 **Tasks most exposed to AI:**
@@ -104,8 +102,6 @@ Can progress to professional digital image editing, photography assistant, or se
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Poor prospects. Film demand has dropped sharply, digital technology is furthe
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographic-and-film-processors/CA)**

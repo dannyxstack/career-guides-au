@@ -52,8 +52,6 @@ Accountants and bookkeepers record financial transactions, maintain accounts, pr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Accountants and bookkeepers will see repetitive tasks like bookkeeping and reconciliation automated by AI, but financial analysis and client advisory roles that rely on human judgment and communication will be strengthened. Overall, risk and opportunity coexist.
-
 Career progression path: from junior bookkeeper to senior accounting assistant; can obtain professional certifications (e.g. ACCA, CIMA) and advance to accountant or financial manager.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression path: from junior bookkeeper to senior accounting assistant; 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Higher risk, many bookkeeping tasks (e.g., data entry, ledger maintenance) ca
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-and-bookkeeping-clerk/IE)**

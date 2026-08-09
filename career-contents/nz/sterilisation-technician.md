@@ -52,8 +52,6 @@ Sterilisation technicians clean, disinfect, and sterilise medical instruments an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical device technicians face opportunities from AI-assisted design and manufacturing, but manual customization and patient communication remain irreplaceable; overall risk is moderate, and entry-level positions may slightly narrow due to automation tools.
-
 Career progression: Junior Sterilisation Technician → Senior Sterilisation Technician → Sterilisation Supervisor/Coordinator. Can advance to infection control or quality management roles, or transition to operating room support.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression: Junior Sterilisation Technician → Senior Sterilisation Tec
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Working as a nursing assistant or health service assistant for 2 years may allow applying for residence; sterilization technicians may apply through related positions. |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration using a 6-point system, must meet median salary and education/work experience points |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Listed as health support shortage occupation, Green List T2 covers relevant r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sterilisation-technician/NZ)**

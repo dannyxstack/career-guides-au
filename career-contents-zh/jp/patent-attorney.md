@@ -1,8 +1,8 @@
-# Patent Attorney 职业分析 · 日本
+# 专利律师（Patent Attorney）职业分析 · 日本
 
-**职业代码: 174 (JSCO)**
+**职业代码：174 (JSCO)**
 
-A specialist who assists in acquiring and managing intellectual property rights such as patents and trademarks. They handle procedures with the Japan Patent Office on behalf of companies and inventors.
+协助获取和管理专利、商标等知识产权的专家。代表公司和发明人在日本专利局办理手续。
 
 
 ---
@@ -11,9 +11,9 @@ A specialist who assists in acquiring and managing intellectual property rights 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Patent Attorney Exam Preparation Course | 2 年 | $500,000~$1,500,000（Prep school / correspondence course fees） |
-| Graduate School (Intellectual Property) | 2 年 | $1,000,000~$3,000,000（Varies by national/private institution） |
-| Practical Training (Japan Patent Attorneys Association) | 1年 | $100,000~$300,000（Training fees） |
+| 专利代理人考试准备课程 | 2 年 | $500,000~$1,500,000（预科/函授课程费用） |
+| 研究生院（知识产权） | 2 年 | $1,000,000~$3,000,000（因国立/私立机构而异） |
+| 实务训练（日本弁理士会） | 1年 | $100,000~$300,000（培训费用） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialist who assists in acquiring and managing intellectual property rights 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass the Patent Attorney Exam | Japan Patent Office | 必备 | Mandatory national qualification |
-| Intellectual Property Management Skills Test | Intellectual Property Education Association | 可选 | Optional but valued |
-| Professional Engineer | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Enhances technical specialization |
+| 通过专利代理人考试 | 日本专利局 | 必备 | 强制性国家资格 |
+| 知识产权管理技能测试 | 知识产权教育协会 | 可选 | 非必需但受重视 |
+| 专业工程师 | 文部科学省 | 可选 | 增强技术专长 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Demand is steady due to an increase in patent applications in AI and IoT fields. Mid- to long-term stability is expected as retiring generations are replaced.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。由于AI和物联网领域专利申请增加，需求稳定。随着退休一代被替代，中长期稳定性可期。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A specialist who assists in acquiring and managing intellectual property rights 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $4,000,000~$6,000,000 | Working at a patent firm, including overtime |
-| Mid-level (4–10 years) | $7,000,000~$10,000,000 | Manager level, corporate IP department similar |
-| Advanced (11+ years) | $12,000,000~$20,000,000 | Partner/Department head class |
+| 初级（0-3年） | $4,000,000~$6,000,000 | 在专利事务所工作（包括加班） |
+| 中级（4-10年） | $7,000,000~$10,000,000 | 经理级别，类似企业IP部门 |
+| 高级（11年以上） | $12,000,000~$20,000,000 | 合伙人/部门主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates part of patent searches and document preparation, but high-level judgment such as rights strategy and examination responses still relies on humans. The scope of patent attorney work is not shrinking overall; rather, efficiency changes the range of tasks.
+AI自动执行专利检索和文件准备的部分工作，但权利策略和审查答复等高级判断仍依赖人类。专利代理人的工作范围整体并未缩小；相反，效率改变了任务范围。
 
-After passing the exam, you find employment at a patent firm or corporate IP department. Promotion to manager in 5–10 years, then to partner or IP department head is possible.
+通过考试后，在专利事务所或企业知识产权部门就业。5-10年内晋升经理，之后可能成为合伙人或知识产权部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Patent search and retrieval
-- Document format creation
-- Simple office action responses
+- 专利检索与获取
+- 文档格式创建
+- 简单的办公室行动回复
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Patent map creation
-- Similar patent analysis
-- Draft translation and summary
+- 专利地图创建
+- 类似专利分析
+- 翻译草稿和总结
 
-**人类护城河:**
+**人类护城河：**
 
-- Client trust relationships
-- Patent infringement litigation
-- Rights strategy formulation
+- 客户信任关系
+- 专利侵权诉讼
+- 权利战略制定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool operation
-- Patent data analysis
-- English communication
-- Knowledge of Procedural Law
+- 人工智能工具操作
+- 专利数据分析
+- 英语沟通
+- 程序法知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI-related patents
-- IoT intellectual property
-- Bio patents
-- Startup support
+- AI相关专利
+- 物联网知识产权
+- 生物专利
+- 创业支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Corresponds to patent attorney duties. Can work at Japanese patent firms or companies. |
-| Subclass 高度専門職1号（イ） (Highly Skilled Professional) | Point system based on education, income, and experience. Patent attorney qualification gives preference and early permanent residency. |
-| Subclass 経営・管理 (Business Manager) | Applies when opening own patent firm. Requires business plan, etc. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical thinking
-- People interested in both law and technology
-- People who enjoy diligently researching
+- 逻辑思维能力强的人
+- 对法律和技术都感兴趣的人
+- 喜欢认真研究的人
 
 **谁不适合**
-- People weak to pressure
-- People who prefer working quietly over talking
+- 抗压能力差的人
+- 偏好安静工作而非交谈的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a patent attorney?**
-答：In the first year, it is about 4-6 million yen, but with experience it can exceed 10 million yen, and as a partner, over 20 million yen is possible.
+**问：专利代理人的年收入是多少？**
+答：第一年约400-600万日元，有经验后可超过1000万日元，作为合伙人可超过2000万日元。
 
-**问：How can a foreigner work as a patent attorney in Japan?**
-答：A visa for engineer/specialist in humanities/international services is required. You can obtain a Japanese patent attorney qualification or work as a contractor with your home country's qualifications, but direct procedures with the Patent Office require a patent attorney license.
+**问：外国人如何在日本成为专利代理人？**
+答：需要工程师/人文知识/国际服务签证。可取得日本专利代理人资格或凭母国资格作为承包商工作，但直接与专利局办理手续需专利代理人执照。
 
-**问：How do I become a patent attorney?**
-答：First, you must pass the patent attorney examination. The exam subjects include law and technical fields. After that, you complete practical training and then register. It takes roughly 3-5 years at the shortest.
+**问：如何成为一名专利律师？**
+答：首先，必须通过专利代理人考试。考试科目包括法律和技术领域。之后完成实务培训并注册。最短大约需要3-5年。
 
 
 ---
@@ -144,12 +137,12 @@ After passing the exam, you find employment at a patent firm or corporate IP dep
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/patent-attorney/JP)**

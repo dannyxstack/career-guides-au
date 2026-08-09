@@ -53,8 +53,6 @@ Livestock slaughter, meat cutting, deboning, and preliminary processing are carr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly replace routine cutting, weighing, and packaging tasks for slaughterhouse and meat packing workers, compressing job demand, but fine cutting and quality inspection still require human labor.
-
 Ordinary cutters can be promoted to cutting line supervisors, quality inspectors, or shift to deep processing and sales positions for meat products.
 
 **Tasks most exposed to AI:**
@@ -98,15 +96,9 @@ Ordinary cutters can be promoted to cutting line supervisors, quality inspectors
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed work residence requires employer contract and France Travail approval, applicable to long-term employment |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Talent passport for in-demand occupations; streamlined process; valid for 4 years. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +142,12 @@ A: You must hold health safety certificates and animal welfare qualifications; t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/slaughterer-and-meat-cutter/FR)**

@@ -51,8 +51,6 @@ Motorcycle mechanics repair and maintain motorcycles, scooters, and other two-wh
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
-
 Can progress to senior technician, workshop supervisor, or start own repair shop. With experience, specialize in areas like racing services and custom modifications.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress to senior technician, workshop supervisor, or start own repair shop
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, apply with qualifications and work experience under the 6-point system |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa, can be used as a bridging visa to transition to residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -146,12 +142,13 @@ A: This occupation is on the Green List Tier 1; with relevant qualifications (e.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-mechanic/NZ)**

@@ -53,8 +53,6 @@ Personnel clerks handle employee records, attendance, payroll, and other adminis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Personnel clerk roles face significant automation risk; repetitive tasks (e.g., attendance tracking, payroll) will be replaced by AI tools and self-service systems, with narrowed promotion paths and declining demand for entry-level positions.
-
 Can advance to HR specialist, HR manager, or specialize in areas like compensation and recruitment.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to HR specialist, HR manager, or specialize in areas like compensati
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Obtain CIPD certification, accumulate experience, and learn specialized knowl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-clerk/IE)**

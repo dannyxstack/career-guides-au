@@ -51,8 +51,6 @@ Microbiologists study the structure, function, and behavior of microorganisms (s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core experimental and data analysis tasks of microbiologists are being replaced by AI automation tools, but in areas requiring causal reasoning and creative problem-solving, such as pathogenic mechanism research and new antibiotic development, AI enhances human capabilities. Entry-level competition intensifies, but value of senior scientists increases.
-
 After gaining lab experience in junior roles, one can advance to senior scientist or team supervisor; pursuing a PhD or moving into research management, regulatory affairs, or quality control.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ After gaining lab experience in junior roles, one can advance to senior scientis
 | Subclass 190 (Skilled Nominated (Points-tested)) | State-sponsored skilled migration; occupation on state nomination list, requires state nomination. |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Regional skilled migration provisional visa; can transfer to 191 permanent residency after meeting conditions. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Progress from junior lab technician to senior scientist, team leader, or tran
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/microbiologist/AU)**

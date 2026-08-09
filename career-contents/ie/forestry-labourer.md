@@ -54,8 +54,6 @@ Forestry laborers perform planting, pruning, logging, and clearing work in Irish
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce forestry labor jobs, especially in planning, monitoring, and clerical work being replaced, but physical operations and on-site judgment still depend on humans, entry-level positions decrease, and labor demand shifts to technical operations.
-
 Start with basic physical labor, then advance to forestry machine operator, forestry technician, or team leader. Some transition into forest management or environmental restoration through training.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Start with basic physical labor, then advance to forestry machine operator, fore
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to forestry machine operator, forestry technician or supervisor, 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-labourer/IE)**

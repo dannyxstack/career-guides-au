@@ -53,8 +53,6 @@ Orthotists and prosthetists are responsible for designing, measuring, fabricatin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
-
 Career progression includes from entry-level technician to senior clinical expert, team supervisor, or clinic manager. Some practitioners move into R&D or sales, or pursue a PhD for academic research. Certification from the American Board for Certification in Orthotics, Prosthetics & Pedorthics (ABC) is a core requirement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression includes from entry-level technician to senior clinical exper
 | Subclass EB-2 (Employment-Based Second Preference) | Requires a master's degree or higher, or special ability, can apply via PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or below; requires PERM, longer wait times |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must obtain a master's degree in orthotics and prosthetics from a CAAHEP-accr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthotists-and-prosthetists/US)**

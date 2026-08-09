@@ -54,8 +54,6 @@ Responsible for ship navigation, safe operation, and cargo management, ensuring 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Starting as a Deck Cadet (Decksmann), progressing through Second Officer (2. Offizier), Chief Officer (1. Offizier), and ultimately becoming Captain (Kapitän). Further education can lead to becoming a harbor pilot or maritime administrator.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a Deck Cadet (Decksmann), progressing through Second Officer (2. Off
 | Subclass Chancenkarte (Chancenkarte) | Pilot project allowing those with professional qualifications to seek work in Germany for one year, requiring a points-based system. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Allows stay in Germany for up to 6 months to seek employment, but proof of financial means is required. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must hold a professional qualification certificate (Befähigungszeugnis) issu
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nautical-ship-officers-and-captains/DE)**

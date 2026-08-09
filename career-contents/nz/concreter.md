@@ -54,8 +54,6 @@ Concrete workers are in long-term shortage in New Zealand and can use the Green 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Concrete workers face a mixed impact from AI/automation: repetitive measuring and mixing work will be replaced by machines, but on-site fine work and client communication are enhanced by AI tools; entry barriers lower, but senior tradespeople increase in value.
-
 Concrete workers can advance to foreman, site supervisor, or self-employed contractor; some transition to precast concrete technician roles with experience.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Concrete workers can advance to foreman, site supervisor, or self-employed contr
 | Subclass AEWV (Accredited Employer Work Visa) | A skilled job offer allows application for an Accredited Employer Work Visa, with residency possible after 2 years of work. |
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, registered occupation plus education or experience can accumulate points to meet requirements for application. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually no mandatory registration required, but holding a BCITO concrete cert
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concreter/NZ)**

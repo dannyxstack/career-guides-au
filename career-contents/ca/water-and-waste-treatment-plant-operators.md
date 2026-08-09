@@ -51,8 +51,6 @@ Water treatment operators in Canada monitor and maintain drinking water and wast
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Water and wastewater treatment plant operators face mixed AI impact: monitoring and routine inspections may be automated, but complex troubleshooting and compliance responsibilities still require human judgment, overall risk moderate.
-
 Junior operators can advance to senior operators or supervisors by gaining experience and higher-level certifications. They can also move into water treatment design, water quality analysis, or environmental management. Employers often support cross-provincial certification.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior operators can advance to senior operators or supervisors by gaining exper
 | Subclass PNP (Provincial Nominee Program) | Ontario, BC, Alberta, etc., have skills priority streams suitable for those with employer or relevant experience. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, low-barrier immigration pathway. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, provinces require local certification. Can transfer via exams or work ex
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-and-waste-treatment-plant-operators/CA)**

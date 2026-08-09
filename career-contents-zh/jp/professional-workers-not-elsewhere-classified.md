@@ -1,8 +1,8 @@
-# Professional workers not elsewhere classified 职业分析 · 日本
+# 未另分类的专业工作者（Professional workers not elsewhere classified）职业分析 · 日本
 
-**职业代码: 249 (JSCO)**
+**职业代码：249 (JSCO)**
 
-Occupations engaged in research, development, investigation, and education utilizing broad expertise in science, technology, humanities, and social sciences.
+运用科学、技术、人文和社会科学广泛专业知识，从事研究、开发、调查和教育的职业。
 
 
 ---
@@ -11,8 +11,8 @@ Occupations engaged in research, development, investigation, and education utili
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Master's program) | 2 年 | $1,000,000~$3,000,000（Varies between national and private, living expenses separate） |
-| University (Doctoral program) | 3年 | $1,000,000~$3,000,000（Scholarship system available） |
+| 大学（硕士课程） | 2 年 | $1,000,000~$3,000,000（国立与私立有所不同，生活费另算） |
+| 大学（博士课程） | 3年 | $1,000,000~$3,000,000（提供奖学金制度） |
 
 ---
 
@@ -20,18 +20,18 @@ Occupations engaged in research, development, investigation, and education utili
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 博士学位（PhD） | 大学 | 可选 | Often required for research positions |
-| Professional Engineer (Applied Science division, etc.) | The Institution of Professional Engineers, Japan | 可选 | Advanced professional engineering qualification |
-| PMP（项目管理专业人士） | PMI | 可选 | Useful for research project management |
+| 博士学位（PhD） | 大学 | 可选 | 研究职位通常需要 |
+| 专业工程师（应用科学部门等） | 日本专业工程师协会 | 可选 | 高级专业工程资格 |
+| PMP（项目管理专业人士） | 项目管理协会 | 可选 | 对科研项目管理有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 80,000. While job content changes with AI and automation, demand continues in fields requiring advanced expertise and creativity.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 80,000。虽然工作内容随AI和自动化而变，但需要高级专业知识和创造力的领域需求持续存在
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,96 +39,89 @@ Occupations engaged in research, development, investigation, and education utili
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $3,500,000~$5,000,000 | Postdoc at universities/research institutions |
-| Mid-level (3-10 years) | $5,000,000~$8,000,000 | Researcher at companies/public research institutions |
-| Senior-level (10+ years) | $8,000,000~$12,000,000 | Project leader, professor class |
+| 入门级（0-3年） | $3,500,000~$5,000,000 | 大学/研究机构的博士后 |
+| 中级（3-10年） | $5,000,000~$8,000,000 | 企业/公共研究机构研究员 |
+| 高级（10年以上经验） | $8,000,000~$12,000,000 | 项目负责人、教授级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation will replace some routine tasks (data整理, literature surveys, etc.), but research design, creative thinking, and specialized judgment will remain human roles.
+AI和自动化将取代一些常规任务（数据整理、文献调研等），但研究设计、创造性思维和专业判断仍将是人类角色。
 
-Early career involves many assistant tasks, progressing to project leader or research director. Deepening expertise allows independent consulting.
+早期职业生涯涉及许多辅助任务，逐步晋升为项目负责人或研究主管。深化专业知识可独立咨询。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data collection and organization
-- Automation of literature searches
-- Simple statistical analysis
-- Drafting initial reports
+- 数据收集与整理
+- 文献检索自动化
+- 简单统计分析
+- 起草初步报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 数据分析和解释
-- Complex simulations
-- Discovering research questions
-- Integrating interdisciplinary knowledge
+- 复杂模拟
+- 发现研究问题
+- 整合跨学科知识
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative thinking
-- Specialized knowledge
-- Ethical judgment
-- Communication skills
+- 创造性思维
+- 专业知识
+- 道德判断
+- 沟通能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/Machine Learning application skills
-- Programming (Python, R)
+- AI/机器学习应用技能
+- 编程（Python、R）
 - 项目管理
-- Writing academic papers in English
+- 用英文撰写学术论文
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 数据科学
-- AI Human Resource Development
-- Environmental/Energy Research
-- International Cooperation Specialist
+- AI人力资源开发
+- 环境/能源研究
+- 国际合作专员
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of professional experience. Covers R&D work. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Evaluated by points system for education, career, income, etc. Includes preferential treatment. |
-| Subclass 特定活動（研究など） (Designated Activities) | For researchers invited by national or local governments. Permitted individually. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong interest in academic research
-- Those with excellent problem-solving and logical thinking skills
-- Independent and patient individuals
+- 对学术研究有浓厚兴趣者
+- 具有出色解决问题和逻辑思维能力的人
+- 独立且耐心的人
 
 **谁不适合**
-- Those who prefer routine work
-- Those who prioritize short-term results
+- 喜欢常规工作的人
+- 优先考虑短期结果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for this occupation?**
-答：Depending on experience and employer, rough guidelines: entry-level ¥3.5–5 million, mid-level ¥5–8 million, senior-level ¥8–12 million.
+**问：该职业的平均年收入是多少？**
+答：视经验和雇主而定，大致范围：入门级350-500万日元，中级500-800万日元，高级800-1200万日元。
 
-**问：What visas are available for foreigners to work in Japan?**
-答：This mainly applies to 'Engineer/Specialist in Humanities/International Services' or 'Highly Skilled Professional' visas. A university degree or higher and practical experience are required.
+**问：外国人可在日本工作的签证有哪些？**
+答：这主要适用于“人文/国际服务工程师/专家”或“高度专业人才”签证。需要大学本科以上学历和实践经验。
 
-**问：What are the key points for career advancement?**
-答：It is important to enhance your expertise and accumulate research achievements. A doctoral degree or project management certifications are valued.
+**问：职业晋升的关键点是什么？**
+答：提升专业知识和积累研究成果很重要。博士学位或项目管理证书受重视。
 
 
 ---
@@ -146,12 +139,12 @@ Early career involves many assistant tasks, progressing to project leader or res
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/professional-workers-not-elsewhere-classified/JP)**

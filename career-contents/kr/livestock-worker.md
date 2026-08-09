@@ -49,8 +49,6 @@ Agricultural workers who raise and manage livestock such as cattle, pigs, and ch
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation technologies are being introduced into livestock farming, replacing some repetitive tasks like feeding and environmental control, but human judgment remains essential for observing animal health, emergency response, and individual care. Therefore, they serve as assistants rather than complete replacements, and technical proficiency will become increasingly important.
-
 Can advance from beginner herder → skilled herder → livestock manager → farm owner or technical consultant. Specialization in breed improvement and disease management possible with experience.
 
 **Tasks most exposed to AI:**
@@ -88,17 +86,9 @@ Can advance from beginner herder → skilled herder → livestock manager → fa
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Large-scale employment in livestock under the Employment Permit System for foreign workers. Eligible for extension after 3 years of stay. |
-| Subclass E-7 (E-7 (Specific Activities)) | Available for skilled workers, such as those holding a livestock technician certificate. |
-| Subclass F-2 (Residence (F-2)) | Transition from E-7 or E-9 after long-term stay via points system, a step before permanent residency. |
-| Subclass F-4 (Overseas Koreans (F-4)) | No employment restrictions for Koreans aged 25 or older; also eligible for livestock industry. |
-
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +132,12 @@ A: Although not mandatory, a livestock technician certification is helpful, and 
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-worker/KR)**

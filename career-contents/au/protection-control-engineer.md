@@ -53,8 +53,6 @@ Protection and control engineers are responsible for relay protection setting at
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not replace protection and control engineers; instead, it will amplify its value: automated tuning calculations and configuration verification will free up energy to focus more on complex system design, new energy integration, and cybersecurity protection, with professional demands continuously rising due to the energy transition.
-
 In 2026, IEC 61850 digital substations, grid connection protection, and islanding detection will become key priorities, and engineers skilled in protection setting and on-site commissioning are in short supply. AI-assisted tuning and verification, but the responsibility for protection logic and security lies with certified engineers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ In 2026, IEC 61850 digital substations, grid connection protection, and islandin
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Yes. Electrical engineering (233311 family) is in short supply, 189/190/482�
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/protection-control-engineer/AU)**

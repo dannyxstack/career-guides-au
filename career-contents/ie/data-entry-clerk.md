@@ -53,8 +53,6 @@ Data entry operators are responsible for accurately entering data from source do
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Data entry roles face high automation risk; AI and RPA will largely replace pure keyboard entry and basic verification tasks, significantly reducing entry-level positions, but the remaining complex data cleaning and process optimization work will require higher skills.
-
 Limited advancement paths, typically to senior data entry, team leader, or transitioning to data analysis/administrative assistant. Need to upskill to stay competitive.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Limited advancement paths, typically to senior data entry, team leader, or trans
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically can advance to team leader or transition to roles such as data anal
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-entry-clerk/IE)**

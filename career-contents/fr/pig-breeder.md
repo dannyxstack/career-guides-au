@@ -4,8 +4,6 @@
 
 Pig farmers are responsible for daily feeding, breeding management, health monitoring, and farm cleaning for the herd, ensuring pig production is efficient and meets animal welfare and hygiene standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Pig farmers are responsible for daily feeding, breeding management, health monit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pig farmers' daily feeding, data recording, and simple health monitoring tasks face high risks of automation and AI replacement, but animal welfare assessment, complex disease management, and refined management remain humanity's moat, and entry-level positions are being squeezed.
-
 You can be promoted from ordinary breeder to farm supervisor or technical manager, or through vocational training, you can transition to veterinarian or agricultural engineer.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ You can be promoted from ordinary breeder to farm supervisor or technical manage
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Must obtain a work contract from a French employer and pass labor market testing. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: This occupation is not in urgent demand, requires employment residency, and r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pig-breeder/FR)**

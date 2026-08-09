@@ -51,8 +51,6 @@ In financial institutions such as banks and credit unions, provide customers wit
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-This is a profession being compressed by automation: basic data entry, filing, and standard documentation are being heavily absorbed by AI and RPA, entry-level positions are shrinking significantly, and it's advisable to transition toward process coordination, specialization, or management as soon as possible.
-
 Entry-level customer service representatives can advance to senior representative, team leader, operations manager, or transition to specialist roles such as financial advisor or loan officer. Requires experience and relevant financial certifications.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Entry-level customer service representatives can advance to senior representativ
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, British Columbia) may nominate financial customer service positions through PNP. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, but this occupation is usually not in high demand, making assessment stricter. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can progress to customer service supervisor, financial advisor, or loan offic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-services-representatives-financial-institutions/CA)**

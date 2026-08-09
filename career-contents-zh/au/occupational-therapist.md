@@ -1,6 +1,6 @@
 # 职业治疗师（Occupational Therapist）职业分析 · 澳大利亚
 
-**职业代码: 252411 (ANZSCO)**
+**职业代码：252411 (ANZSCO)**
 
 职业治疗师帮助残障人士、老年人和伤病患者恢复日常生活和工作能力，服务于NDIS残障支持计划、老年护理、医院、学校和社区健康机构。NDIS改革是近5年最大需求驱动力。
 
@@ -20,19 +20,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor/Master of Occupational Therapy | 认可大学 | 必备 | AHPRA注册基础学历 |
-| AHPRA Occupational Therapy Registration | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
-| OTC（Occupational Therapy Council）评估 | Occupational Therapy Council of Australia | 可选 | 海外OT学历评估 |
-| NDIS Provider Registration | NDIS Quality and Safeguards Commission | 可选 | 独立NDIS服务提供商必须注册 |
+| 职业治疗学士/硕士 | 认可大学 | 必备 | AHPRA注册基础学历 |
+| AHPRA职业治疗注册 | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
+| OTC（Occupational Therapy Council）评估 | 澳大利亚职业治疗委员会 | 可选 | 海外OT学历评估 |
+| NDIS服务提供商注册 | NDIS 质量与保障委员会 | 可选 | 独立NDIS服务提供商必须注册 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 25,000. JSA 预测职业治疗师至2035年就业增长约25%（医疗类增速最快之一）。NDIS计划（约100万参与者）和老年护理改革是主要驱动力。
+**职位需求量：很高（★★★★★）** 全国从业人数约 25,000。JSA 预测职业治疗师至2035年就业增长约25%（医疗类增速最快之一）。NDIS计划（约100万参与者）和老年护理改革是主要驱动力。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 AI不会取代职业治疗师，反而会放大其价值：自动生成评估报告、康复计划和数据追踪，释放更多时间用于个性化干预与情感支持。
 
 NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持续增长。儿童早期干预和心理健康OT是薪资溢价最高的专科方向。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动化生成标准化评估量表及分数统计
 - 用NLP分析患者日记生成康复进度摘要
@@ -67,7 +67,7 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 - 机器人辅助完成重复性肢体训练动作
 - 自动排程与医疗记录归档
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI提供个性化活动推荐与自适应康复方案
 - 穿戴设备数据分析辅助识别患者疲劳与风险
@@ -75,7 +75,7 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 - 生成式AI创建可视化教具与家庭练习指导
 - 预测模型提前预警功能衰退并调整干预策略
 
-**人类护城河:**
+**人类护城河：**
 
 - 面对面的治疗关系建立与信任维护
 - 非结构化的活动分析、即兴创作与创意改编
@@ -83,7 +83,7 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 - 跨学科团队协作中的人本沟通与决策
 - 对患者/家属进行情绪疏导与动机激发
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI康复方案生成工具的使用与调优
 - 可穿戴设备数据分析与可视化解读
@@ -92,17 +92,17 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 - 数字健康记录与智能报告系统的应用
 - 基于AI的远程康复监督与干预
 
-**主要增长方向:**
+**主要增长方向：**
 
-- NDIS Disability Support Services
-- Aged Care OT
-- Paediatric & Early Intervention OT
-- Mental Health OT
-- Workplace Injury Rehabilitation
+- NDIS残疾支持服务
+- 老年护理职业治疗师
+- 儿科与早期干预作业治疗
+- 心理健康职业治疗师
+- 工伤康复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -113,9 +113,7 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 | Subclass 190 (Skilled Nominated) | 州提名，NDIS和农村OT享优先 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区OT，提名加15分 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -177,12 +175,13 @@ NDIS是职业治疗师最大的就业增长引擎，参与者超过100万且持�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/occupational-therapist/AU)**

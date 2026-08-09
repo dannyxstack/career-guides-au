@@ -4,8 +4,6 @@
 
 Engaged in field work such as fruit or grape planting, pruning, and harvesting, possibly using agricultural machinery.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Engaged in field work such as fruit or grape planting, pruning, and harvesting, 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Fruit or vineyard agricultural workers face a mixed future for AI: automated irrigation and monitoring systems can reduce some manual labor, but harvest identification and decision-making still require humans.
-
 You can be promoted to team leader (chef d'équipe), or become an agricultural technician, farm manager, or even run your own farm through agricultural vocational education (CAP/BTS).
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ You can be promoted to team leader (chef d'équipe), or become an agricultural t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is usually required, but the likelihood of seasonal agricultural job immigration is low. |
-| Subclass Travailleur saisonni (Seasonal Worker Visa) | Suitable for short-term seasonal work and non-long-term residence paths. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: You can be promoted from a regular worker to a team leader (chef d'équipe), 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-or-vineyard-farm-worker/FR)**

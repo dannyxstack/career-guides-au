@@ -1,8 +1,8 @@
 # 软件工程师（Software Engineer）职业分析 · 日本
 
-**职业代码: 104 (JSCO)**
+**职业代码：104 (JSCO)**
 
-A professional involved in designing, developing, testing, and maintaining computer software. Active as system engineers or programmers in fields like web, mobile, and embedded systems.
+从事计算机软件设计、开发、测试和维护的专业人员。在Web、移动和嵌入式系统等领域担任系统工程师或程序员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional involved in designing, developing, testing, and maintaining compu
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University Faculty of Information Science | 4年 | $4,000,000~$8,000,000（Approx. ¥2.4 million/year at national universities, ¥1.5 million/year at private universities. Total tuition.） |
-| Vocational School IT Department | 2 年 | $2,000,000~$4,000,000（Daytime courses around ¥1 million/year.） |
-| Programming Bootcamp | 6 months | $500,000~$1,500,000（Online courses are popular. Many include job placement support.） |
+| 大学信息科学系 | 4年 | $4,000,000~$8,000,000（国立大学约240万日元/年，私立大学约150万日元/年。总学费。） |
+| 职业学校IT系 | 2 年 | $2,000,000~$4,000,000（白天的课程每年约100万日元。） |
+| 编程训练营 | 6个月 | $500,000~$1,500,000（在线课程很受欢迎。许多提供就业安置支持。） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional involved in designing, developing, testing, and maintaining compu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fundamental Information Technology Engineer Examination | Ministry of Economy, Trade and Industry (METI) | 可选 | A gateway exam for IT engineers. Recommended by many companies. |
-| Applied Information Technology Engineer Examination | METI | 可选 | Demonstrates higher-level knowledge. Effective for career advancement. |
-| Oracle Certified Java Programmer | Oracle | 可选 | A vendor certification beneficial for Java developers. |
+| 基本信息技术工程师考试 | 经济产业省（METI） | 可选 | IT工程师入门考试。多家公司推荐。 |
+| 应用信息技术工程师考试 | METI | 可选 | 展示更高水平知识。对职业晋升有效。 |
+| Oracle认证Java程序员 | Oracle | 可选 | 对Java开发人员有益的供应商认证。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 1,000,000. With a continued shortage of IT personnel and rising demand for DX and AI, the need for software developers is expected to remain strong. Shortages are especially notable in cloud and AI areas.
+**职位需求量：很高（★★★★½）** 全国从业人数约 1,000,000。由于IT人员持续短缺以及DX和AI需求上升，软件开发人员的需求预计将保持强劲。云和AI领域尤其短缺。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,95 +40,87 @@ A professional involved in designing, developing, testing, and maintaining compu
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$5,000,000 | Median annual income: approx. ¥4 million. |
-| Mid-level (4–7 years) | $5,000,000~$8,000,000 | Around 7 million yen for leader level. |
-| Veteran (8+ years) | $8,000,000~$15,000,000 | Architects and managers can exceed 10 million yen. |
+| 初级（0-3年） | $3,000,000~$5,000,000 | 中位年收入：约¥4百万。 |
+| 中级（4–7年） | $5,000,000~$8,000,000 | 领导者级别约700万日元。 |
+| 资深（8年以上） | $8,000,000~$15,000,000 | 建筑师和经理可超过1000万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI-based code generation (e.g., GitHub Copilot) is advancing, but human design, requirements definition, debugging, and security judgment remain crucial. Simple coding tasks will decrease, but overall demand expands due to AI-driven efficiency.
+基于AI的代码生成（如GitHub Copilot）正在进步，但人类设计、需求定义、调试和安全判断仍然至关重要。简单的编程任务将减少，但由于AI驱动的效率，整体需求将扩大。
 
-Career path progresses from junior to senior, tech lead, architect, and manager. A specialist track also exists, with higher earnings possible by deepening expertise in fields like AI or security.
+职业路径从初级到高级、技术主管、架构师和经理。也存在专家路径，通过在AI或安全等领域深化专业知识可以获得更高收入。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple web page coding
-- Creating routine test code
-- Generating basic data processing scripts
+- 简单网页编码
+- 创建常规测试代码
+- 生成基本数据处理脚本
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Designing architecture
-- Identifying and fixing complex bugs
-- Requirements definition and client communication
+- 建筑设计
+- 识别并修复复杂漏洞
+- 需求定义与客户沟通
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex system-wide design ability
-- Planning skills to solve business problems with tech
-- Understanding and migrating legacy systems
+- 复杂系统级设计能力
+- 用技术解决商业问题的规划能力
+- 理解并迁移遗留系统
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/machine learning basics
-- Cloud (AWS/Azure/GCP)
-- Security
-- Domain Knowledge
-- Communication Skills
+- 人工智能/机器学习基础
+- 云（AWS/Azure/GCP）
+- 安全
+- 领域知识
+- 沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Artificial intelligence
-- Cloud computing
+- 人工智能
+- 云计算
 - 网络安全
-- Mobile app development
+- 移动应用开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Main work visa for IT engineers. Requires university degree or work experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | For high-skilled talent via points system; preferential path to permanent residency. |
-| Subclass 特定活動（未来創造人材） (Designated Activities (Future Creation Talent)) | System for accepting overseas IT talent, with conditions. |
-| Subclass 特定技能1号（情報処理） (Specified Skilled Worker (i) (Information Processing)) | Limited fields, but IT expected to be added from 2024. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Can think logically
-- Can maintain interest in new technologies
-- Can develop collaboratively in a team
+- 能够进行逻辑思考
+- 能保持对新技术兴趣
+- 可在团队中协同发展
 
 **谁不适合**
-- Dislikes change
-- Not good at detailed work
+- 不喜欢变化
+- 不擅长细节工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a software engineer?**
-答：Entry-level: ~4 million JPY, mid-level: 6-8 million JPY, senior: over 10 million JPY. Varies greatly by skill, experience, and employer.
+**问：软件工程师的平均工资是多少？**
+答：入门级：约400万日元，中级：600-800万日元，高级：超过1000万日元。因技能、经验和雇主差异很大。
 
-**问：How can foreigners work as software engineers in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' status is common. Requires a university degree or 10+ years of work experience. The 'Highly Skilled Professional' visa is also an option.
+**问：外国人如何在日本担任软件工程师？**
+答：“工程师/人文/国际服务专家”身份常见，需大学学位或10年以上工作经验。“高技能专业人才”签证也是选择之一。
 
-**问：Which fields will grow in the future?**
-答：AI, cloud, security, data science. These skills are in high demand.
+**问：哪些领域未来会增长？**
+答：AI、云计算、安全、数据科学。这些技能需求旺盛。
 
 
 ---
@@ -146,12 +138,12 @@ Career path progresses from junior to senior, tech lead, architect, and manager.
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/software-engineer/JP)**

@@ -52,8 +52,6 @@ Provides general nursing services, including patient monitoring, medication mana
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Nurses can be promoted from junior nurses to specialist nurses (such as emergency care and intensive care), or transition to nursing management and nursing education positions, or become nursing specialists through master's degree studies.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Nurses can be promoted from junior nurses to specialist nurses (such as emergenc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a university degree and at least one year contract, with a salary threshold of about 33,000 euros (2023). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for urgently needed professions such as nurses, requiring academic qualifications and labor contracts, allowing quick residency eligibility. |
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Common pathway, requires employer sponsorship, passes labor market tests (shortage occupations may be exempted). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Through master's studies, students can become specialist nurses (such as inte
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse-general/ES)**

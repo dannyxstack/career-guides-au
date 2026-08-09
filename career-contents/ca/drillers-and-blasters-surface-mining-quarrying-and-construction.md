@@ -54,8 +54,6 @@ Operate drilling rigs to drill holes and blast rock for mining, quarrying, and c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Drill operators face risk of AI automation replacing some procedural tasks, but core duties like on-site operations, equipment maintenance, and safety judgment are hard to replace, making the outlook mixed.
-
 Practitioners can start as junior drillers/blast assistants and advance to senior driller, blasting supervisor, or project manager after gaining experience. Provincial certifications (e.g., blasting licenses) are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Practitioners can start as junior drillers/blast assistants and advance to senio
 | Subclass PNP (Provincial Nominee Program) | Provinces like Alberta and BC have specific provincial nominee programs for trades that do not require employer sponsorship. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, as this occupation is in shortage in some provinces |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold a provincial blasting license, typically requiring passing an exam,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drillers-and-blasters-surface-mining-quarrying-and-construction/CA)**

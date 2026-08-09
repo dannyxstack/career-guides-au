@@ -50,8 +50,6 @@ A food engineering tester is a professional who analyzes and evaluates food qual
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is being introduced for test data analysis and automated quality inspections, but sensory evaluation and unstructured problem-solving rely heavily on humans. AI assists in food safety regulatory response and consumer trend analysis; jobs remain but new hires may decrease.
-
 Junior testers can advance to senior and managerial roles with experience, and further grow to quality control team leaders or research center directors.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Junior testers can advance to senior and managerial roles with experience, and f
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for food field professionals |
-| Subclass E-9 (Non-professional Employment) | Limited to simple food processing; testers not included |
-| Subclass F-2 (Residence) | Convertible for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Promotion follows: Junior Tester → Senior → Assistant Manager → Manager
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-engineering-tester/KR)**

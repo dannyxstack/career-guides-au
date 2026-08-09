@@ -52,8 +52,6 @@ Responsible for forest resource management, natural environment protection, fore
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is a mixed blessing for forestry professionals: automation will compress routine data analysis and reporting tasks, but areas requiring human judgment such as field decision-making, ecological assessment, and regulatory compliance are hard to replace, while AI amplifies efficiency in remote sensing monitoring and growth modeling.
-
 You can be promoted from technician to senior engineer or project manager, or move into environmental consulting, forestry policy development, or nature reserve management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can be promoted from technician to senior engineer or project manager, or mo
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated, high-paying skilled migrants, the contract salary must be 1.5 times the average salary in Spain. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For high-skilled talents, fast-track entry required: university degree or more than 3 years of relevant experience. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | For employment-based residence, employer sponsorship and proof of the position cannot be filled locally. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You must first pass the Spanish Ministry of Education's academic qualificatio
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-forest-and-natural-environment-engineers/ES)**

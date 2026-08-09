@@ -1,8 +1,8 @@
-# Web Planner 职业分析 · 韩国
+# 网络策划师（Web Planner）职业分析 · 韩国
 
-**职业代码: 13332 (KECO)**
+**职业代码：13332 (KECO)**
 
-A professional who analyzes user needs and business objectives to oversee the planning, design, and project management of websites and apps.
+分析用户需求和业务目标，负责网站及应用规划、设计与项目管理的专业人士。
 
 
 ---
@@ -11,7 +11,7 @@ A professional who analyzes user needs and business objectives to oversee the pl
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (4-year) | 4年 | $18,000,000~$48,000,000（Average tuition for national/public/private universities） |
+| 学士学位（4年制） | 4年 | $18,000,000~$48,000,000（国立/公立/私立大学平均学费） |
 
 ---
 
@@ -19,17 +19,17 @@ A professional who analyzes user needs and business objectives to oversee the pl
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Closer to certifying development capability than planning |
-| PMP | PMI | 可选 | Advantageous for managing large projects |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 更接近认证开发能力而非规划 |
+| PMP | 项目管理协会 | 可选 | 有利于管理大型项目 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 48,000. With the acceleration of digital transformation and the spread of AI services, demand for web planners remains steady, but simple planning tasks are expected to decrease due to the introduction of AI-based analysis tools.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 48,000。随着数字化转型加速和AI服务普及，网络规划师需求稳定，但简单规划任务因引入AI分析工具而预计减少。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -37,96 +37,89 @@ A professional who analyzes user needs and business objectives to oversee the pl
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$38,000,000 | Based on small and medium-sized enterprises |
-| 中级（4-7年） | $40,000,000~$55,000,000 | Based on general companies |
-| 高级（8年+） | $55,000,000~$80,000,000 | Based on large corporations and specialized IT companies |
+| 初级 (0-3年) | $28,000,000~$38,000,000 | 基于中小企业 |
+| 中级（4-7年） | $40,000,000~$55,000,000 | 基于一般公司 |
+| 高级（8年+） | $55,000,000~$80,000,000 | 基于大型企业和专业IT公司 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can automate and assist web planners in tasks such as data analysis, A/B testing, and user research, but strategic decision-making and creative planning are likely to remain human domains.
+AI可以自动化并辅助网页规划师进行数据分析、A/B测试和用户研究等任务，但战略决策和创意规划可能仍属于人类领域。
 
-Typically grows from PM (Project Manager) → PO (Product Owner) → Service Planning Team Leader at web agencies and IT companies. Data-driven decision-making skills are key.
+通常从项目经理（PM）→产品负责人（PO）→服务规划团队负责人逐步晋升，多见于网络机构和IT公司。数据驱动决策能力是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Aggregating quantitative data
-- Designing structured A/B tests
-- Generating drafts based on UI/UX patterns
-- Summarizing user interview data
+- 汇总定量数据
+- 设计结构化A/B测试
+- 基于UI/UX模式生成草稿
+- 总结用户访谈数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data-driven user behavior prediction
-- Planning personalized content recommendations
-- Defining AI model requirements
-- Automated prototyping verification
+- 数据驱动的用户行为预测
+- 规划个性化内容推荐
+- 定义AI模型需求
+- 自动原型验证
 
-**人类护城河:**
+**人类护城河：**
 
-- Establishing strategic vision
-- Stakeholder coordination and negotiation
-- Creative problem definition
-- Understanding and empathizing with user emotions
+- 建立战略愿景
+- 利益相关者协调与谈判
+- 创造性的问题定义
+- 理解并共情用户情感
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与可视化
-- UX research methodology
+- 用户体验研究方法
 - 生成式AI提示工程（Prompt Engineering）
-- Product management
+- 产品管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI Planning
-- Data Analysis
-- UI/UX Strategy
-- Global Service
+- AI规划
+- 数据分析
+- UI/UX策略
+- 全球服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Eligible for employment as a professional (software planner), issued upon meeting degree and experience requirements |
-| Subclass D-10 (Job Seeking (D-10)) | IT major international students can seek jobs for up to 2 years after graduation, gaining web planning experience |
-| Subclass F-2 (Residence (F-2)) | Point-based permanent residence qualification, can be converted upon long-term stay |
-
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with exceptional logical thinking and communication skills
-- People who are interested in user experience and enjoy data
-- People who adapt quickly to change
+- 具有出色逻辑思维和沟通能力的人
+- 对用户体验感兴趣并喜欢数据的人
+- 能快速适应变化的人
 
 **谁不适合**
-- People who prefer repetitive and simple tasks
-- People who prefer working alone rather than collaborating with others
+- 偏好重复性简单任务的人
+- 喜欢独自工作而非与他人合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a web planner?**
-答：For entry-level, it is 28-38 million KRW, varying by experience and company size.
+**问：网络策划师的起薪是多少？**
+答：入门级为28-38百万韩元，视经验和公司规模而定。
 
-**问：What visa do foreigners need to work as a web planner?**
-答：The E-7 (Specific Activities) visa is common, requiring a bachelor's degree and related experience.
+**问：外国人从事网络策划工作需要什么签证？**
+答：E-7（特定活动）签证常见，需学士学位和相关经验。
 
-**问：How to become a product manager starting as a web planner?**
-答：It is advisable to develop skills in data analysis, A/B testing, project management, and gain experience in the PO role.
+**问：如何从网站策划转行成为产品经理？**
+答：建议培养数据分析、A/B测试、项目管理技能，并积累产品负责人经验。
 
 
 ---
@@ -144,12 +137,12 @@ Typically grows from PM (Project Manager) → PO (Product Owner) → Service Pla
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/web-planner/KR)**

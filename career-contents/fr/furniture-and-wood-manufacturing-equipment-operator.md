@@ -4,8 +4,6 @@
 
 Operate wood processing and furniture manufacturing equipment, including saws, planers, CNC machines, etc., to complete cutting, forming, and assembly processes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Operate wood processing and furniture manufacturing equipment, including saws, p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Operators of furniture and wood manufacturing equipment face high automation risks. CNC and intelligent sawing systems can now replace most cutting and forming processes, and entry-level positions have significantly narrowed.
-
 You can be promoted from junior operator to senior technician or production supervisor, or transition to CNC programming or equipment maintenance through apprenticeship (CAP/Bac Pro).
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ You can be promoted from junior operator to senior technician or production supe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, usually a diploma recognized in France or at least 3 years of work experience |
-| Subclass Passeport Talent (Passeport Talent – Qualified Employee) | Suitable for high-skilled talents, requires master's degree + employment contract, or in shortage occupation. |
-| Subclass Recherche emploi (Job Search Visa) | Graduates can apply, allowing them to find jobs in France |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Minimum requirement is a CAP diploma (2 years), with Bac Pro (3 years) recomm
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-and-wood-manufacturing-equipment-operator/FR)**

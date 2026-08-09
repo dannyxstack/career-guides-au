@@ -51,8 +51,6 @@ Responsible for hoisting, positioning, and connecting steel beams, columns, and 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical tasks of rebar workers are hard to replace by AI, but automated measuring, cutting, and tying assistive tools will gradually become widespread, improving daily efficiency; cognitive tasks like drawing interpretation need to adapt to digitalization.
-
 Typically start as an apprentice or assistant, and with experience can advance to foreman, supervisor, or steel installation supervisor. Some move into related careers through further training, such as steel structure inspector or project coordinator.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Typically start as an apprentice or assistant, and with experience can advance t
 | Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable as this occupation does not require a bachelor's degree; only rare cases such as management roles may qualify |
 | Subclass EB-3 (Employment-Based Green Card (Skilled Workers)) | Applicable for EB-3 category, apply for green card through PERM labor certification, need to prove labor shortage. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Demand is stable, influenced by construction cycles. BLS projects 4% growth f
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/structural-iron-and-steel-workers/US)**

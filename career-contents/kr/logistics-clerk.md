@@ -51,8 +51,6 @@ An office worker who supports logistics operations such as overall planning, man
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation are replacing some tasks like inventory management, route optimization, and data entry, but non-standard decision-making and collaboration still require human roles, making full replacement difficult.
-
 Can advance from entry-level logistics clerk to logistics team leader, logistics manager, or logistics center manager. Certifications and experience are crucial; also possible to transfer to large corporation-affiliated logistics companies.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Can advance from entry-level logistics clerk to logistics team leader, logistics
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for employment as logistics specialist; must meet education and experience requirements |
-| Subclass E-9 (Non-professional Employment) | Limited, simple logistics tasks only |
-| Subclass F-2 (Residence) | Can convert to points system; advantageous for long-term stay |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: A logistics manager or distribution manager certification is advantageous, as
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logistics-clerk/KR)**

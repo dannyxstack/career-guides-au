@@ -51,8 +51,6 @@ This occupation typically involves door-to-door visits to households to sell goo
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-This occupation is severely impacted by automation and AI; face-to-face sales and payment collection tasks are replaced by digital payments, automatic deductions, and remote customer service. Entry-level positions have significantly decreased, and the scale will shrink substantially in the future.
-
 Low entry barrier, usually starting as a junior salesperson, may advance to sales supervisor or regional manager, but promotion prospects are limited; some transition to telemarketing or customer service roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Low entry barrier, usually starting as a junior salesperson, may advance to sale
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: No. This occupation is not on the eligible occupation list for the Skilled Wo
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/collector-salespersons-and-credit-agents/UK)**

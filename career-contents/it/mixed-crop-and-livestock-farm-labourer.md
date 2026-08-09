@@ -4,8 +4,6 @@
 
 Mixed crop and livestock farm labourer in the Italian agriculture sector performing physical tasks in crop cultivation and animal husbandry, including sowing, harvesting, feeding animals, and basic maintenance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Mixed crop and livestock farm labourer in the Italian agriculture sector perform
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mixed crop and livestock farm labor relies heavily on physical strength and repetitive tasks; AI and automation will significantly reduce job numbers, with lower entry barriers but worrying income prospects.
-
 This position is typically entry-level with limited advancement opportunities. Experienced laborers can become farm supervisors or independently contract farm tasks, or transition to agricultural technology roles through training.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ This position is typically entry-level with limited advancement opportunities. E
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi seasonal work visa) | Applies to seasonal agricultural labor, annual quota limit, requires employer sponsorship |
-| Subclass EU free movement (EU freedom of movement) | EU citizens can work freely in Italy without a visa |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Demand is stable, especially during seasonal harvest periods, but overall it 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-livestock-farm-labourer/IT)**

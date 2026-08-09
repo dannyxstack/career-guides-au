@@ -51,8 +51,6 @@ An IT service professional responsible for diagnosing and resolving information 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are replacing some ticket classification, remote diagnosis, and knowledge base searches, but complex problem-solving and customer empathy remain human domains. Ultimately, AI serves as a tool to assist support tasks, with roles expected to advance.
-
 Starting at helpdesk/first-level support, you can advance to second/third-level support, system engineer, and IT infrastructure manager with experience. Cloud certifications are advantageous.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Starting at helpdesk/first-level support, you can advance to second/third-level 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon employment as IT support specialist; degree and experience requirements must be met |
-| Subclass F-2 (Residence) | Can be converted to points-based system after certain period, favorable for long-term stay |
-| Subclass D-10 (Job Seeking) | Degree holders stay for job seeking; change to E-7 after employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: Cloud (AWS, Azure), networking (CCNA), scripting languages (Python, PowerShel
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-technical-support-specialist/KR)**

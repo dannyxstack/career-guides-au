@@ -1,10 +1,8 @@
-# Company Grade Officer 职业分析 · 韩国
+# 校官（Company Grade Officer）职业分析 · 韩国
 
-**职业代码: 25021 (KECO)**
+**职业代码：25021 (KECO)**
 
-This is a profession in the Republic of Korea Armed Forces serving as Second Lieutenant, First Lieutenant, or Captain, responsible for small unit command and administrative duties.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+这是在韩国武装部队中担任少尉、中尉或上尉的职业，负责小部队指挥和行政职责。
 
 
 ---
@@ -13,8 +11,8 @@ This is a profession in the Republic of Korea Armed Forces serving as Second Lie
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Military Academy | 4年 | $0~$0（Full government support） |
-| ROTC | 2 年 | $0~$0（Training support during college） |
+| 军事学院 | 4年 | $0~$0（政府全力支持） |
+| ROTC | 2 年 | $0~$0（大学期间的培训支持） |
 
 ---
 
@@ -22,17 +20,17 @@ This is a profession in the Republic of Korea Armed Forces serving as Second Lie
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pass commissioning exam | Each service's academy/ROTC corps | 必备 | Pass selection exam for military academy or ROTC |
-| 学士学位 | 大学 | 必备 | Enrolled in college (for ROTC, bachelor's required) |
+| 通过委任考试 | 各军校/后备军官训练团 | 必备 | 通过军事院校或ROTC选拔考试 |
+| 学士学位 | 大学 | 必备 | 已大学在读（对于ROTC，需学士学位） |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 35,000. Due to declining birth rates and defense reforms, the selection scale for company grade officers is gradually decreasing, but demand for expertise is expected to increase.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 35,000。由于出生率下降和国防改革，尉官选拔规模逐渐减小，但对专业知识的预期需求将增加。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,92 +38,86 @@ This is a profession in the Republic of Korea Armed Forces serving as Second Lie
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (Second Lieutenant, 0~3 years) | $34,000,000~$38,000,000 | As of 2024, excluding allowances |
-| Mid-level (Captain, 8~10 years) | $50,000,000~$57,000,000 | Promotion and step increments apply |
-| Senior-level (Major, 12+ years) | $61,000,000~$68,000,000 | Upon promotion to field grade |
+| 入门级（少尉，0~3年） | $34,000,000~$38,000,000 | 截至2024年，不含津贴 |
+| 中级（机长，8~10年） | $50,000,000~$57,000,000 | 适用晋升和加薪 |
+| 高级（专业，12年以上） | $61,000,000~$68,000,000 | 晋升为校级军官 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist junior officers in command decisions, but complete replacement is difficult as areas like battlefield situation assessment and troop command rely heavily on human leadership and intuition. Rather, the introduction of AI-driven decision support systems will improve work efficiency.
+AI可以辅助初级军官进行指挥决策，但完全替换困难，因为战场态势评估和部队指挥等领域高度依赖人类领导力和直觉。相反，引入AI驱动的决策支持系统将提高工作效率。
 
-After commissioning via military academy or ROTC, officers serve as platoon leaders and staff officers, then as captains as company commanders or staff, with potential promotion to field grade officer.
+通过军校或国防生委任后，军官担任排长和参谋，随后担任连长或参谋上尉，有可能晋升为校官。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized report writing
-- Basic information analysis
-- Simple administrative processing
+- 标准化报告撰写
+- 基本信息分析
+- 简单的行政处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Battlefield situation awareness
-- Operational planning
-- Logistics resource management
+- 战场态势感知
+- 运营规划
+- 物流资源管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Leadership
-- Situational judgment
-- Crisis response capability
-- Unit management
+- 领导层
+- 情境判断
+- 危机应对能力
+- 单位管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI utilization ability
-- Data literacy
+- 人工智能应用能力
+- 数据素养
 - 网络安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Defense reform
-- Strengthening expertise
-- Troop reduction
-- Advanced weapon systems
+- 国防改革
+- 加强专业知识
+- 部队缩编
+- 先进武器系统
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Applicable for foreign officer recruitment, but very limited |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong leadership and responsibility
-- People who can dedicate themselves to the country and organization
-- People who can remain calm under high stress
+- 领导力强且责任心强的人
+- 能献身于国家和组织的人
+- 能在高压下保持冷静的人
 
 **谁不适合**
-- People with strong individualistic tendencies
-- People who prefer stability over challenges
+- 个人主义倾向较强的人
+- 偏爱稳定而非挑战的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a company-grade officer?**
-答：As of 2024, the initial salary for a second lieutenant is about 34 million KRW, and for a captain (8th year), it is about 50 to 57 million KRW. Various allowances (position allowance, incentive pay, etc.) are paid additionally.
+**问：公司级军官的平均薪资是多少？**
+答：截至2024年，少尉起薪约3400万韩元，大尉（第8年）约5000至5700万韩元。另外支付各种津贴（职位津贴、激励工资等）。
 
-**问：Can foreigners become officers in the Korean military?**
-答：Very limited. There are a few foreign officer programs (E-7 visa), but as a general immigration path it is not suitable, and Korean nationality is required.
+**问：外国人能成为韩国军官吗？**
+答：非常有限。有一些外国军官项目（E-7签证），但作为一般移民途径不适合，且需要韩国国籍。
 
-**问：What about civilian employment after military service?**
-答：After discharge, it is common to enter the defense industry, public institutions, or security fields, and there are career recognition and employment linkage programs.
+**问：退伍后从事文职工作如何？**
+答：退役后通常进入国防工业、公共机构或安保领域，有职业认可和就业衔接项目。
 
 
 ---
@@ -143,12 +135,12 @@ After commissioning via military academy or ROTC, officers serve as platoon lead
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/company-grade-officer/KR)**

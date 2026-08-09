@@ -4,8 +4,6 @@
 
 Public works manual laborers engage in physical labor for infrastructure construction such as roads, bridges, and pipelines, including excavation, transport, and site cleaning.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Public works manual laborers engage in physical labor for infrastructure constru
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Public works manual laborers face the dual risk of automation and AI: repetitive physical tasks (such as digging and handling) are replaced by automated machinery, on-site scheduling and monitoring are optimized by AI, entry-level positions are drastically reduced, and only a few complex environment and precision control positions remain.
-
 Promotion to foreman or operating heavy machinery is possible, but additional training is required. Experienced individuals can turn to small-scale contracting or self-employment.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Promotion to foreman or operating heavy machinery is possible, but additional tr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | A Spanish company sponsorship is required, proving that the position cannot be filled by a local resident. This usually applies to scarce occupations, but public works manual laborers are not in short supply and are more challenging. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: They can be promoted to foreman or operate heavy machinery, but additional tr
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-works-laborer/ES)**

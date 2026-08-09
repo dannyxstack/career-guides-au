@@ -54,8 +54,6 @@ Responsible for assembling, installing, or maintaining solar photovoltaic system
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Solar installers face mixed AI impact: design optimization and customer communication are enhanced by AI, but core tasks like on-site installation, wiring, and commissioning are hard to automate due to physical and regulatory requirements.
-
 Can advance from installation assistant to senior installer, team leader, or transition to solar system design, project management, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from installation assistant to senior installer, team leader, or tra
 | Subclass EB-3 (Employment-Based Green Card (EB-3)) | Skilled worker green card, but requires employer sponsorship and PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Need to prove US labor shortage, but such positions typically do not require a bachelor's degree, making certification difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a high school diploma, with training through on-the-job or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/solar-photovoltaic-installers/US)**

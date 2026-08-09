@@ -51,8 +51,6 @@ Plan and organize fundraising events to solicit donations for corporations or no
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI’s impact on fundraisers is mixed: automation will handle data analysis and copywriting tasks, but relationship management, strategic planning, and emotional persuasion still rely on humans, while AI can help optimize donor segmentation and campaign effectiveness.
-
 Junior roles can advance to fundraising manager, development director, then chief development officer, or transition to marketing or non-profit management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior roles can advance to fundraising manager, development director, then chie
 | Subclass EB-2 (Employment-Based Second Preference) | Applicable for advanced degrees or exceptional ability; PERM labour certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or skilled worker |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: From coordinator to manager, director, and eventually chief development offic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fundraisers/US)**

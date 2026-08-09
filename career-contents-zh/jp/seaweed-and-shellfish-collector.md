@@ -1,8 +1,8 @@
-# Seaweed and Shellfish Collector 职业分析 · 日本
+# 海藻和贝类采集员（Seaweed and Shellfish Collector）职业分析 · 日本
 
-**职业代码: 483 (JSCO)**
+**职业代码：483 (JSCO)**
 
-A fishery worker who collects seaweed and shellfish in coastal areas for food and processing. Involves traditional manual labor and plays a role in preserving local resources.
+在沿海地区采集海藻和贝类用于食品和加工的渔业工作者。涉及传统体力劳动，在保护当地资源中发挥作用。
 
 
 ---
@@ -11,8 +11,8 @@ A fishery worker who collects seaweed and shellfish in coastal areas for food an
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Public high school tuition, etc.） |
-| Fisheries school or Fisheries high school | 3年 | $500,000~$1,500,000（Including practical training and textbook fees） |
+| 高中文凭 | 3年 | $0~$300,000（公立高中学费等） |
+| 渔业学校或渔业高中 | 3年 | $500,000~$1,500,000（包含实践培训和教材费） |
 
 ---
 
@@ -20,17 +20,17 @@ A fishery worker who collects seaweed and shellfish in coastal areas for food an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Small Vessel Operator License | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Class 2 or higher recommended |
-| Fisheries Processing Technician | Ministry of Health, Labour and Welfare | 可选 | Grade 1 and Grade 2 available |
+| 小型船舶操作员执照 | 国土交通省 | 可选 | 建议2级或以上 |
+| 水产加工技术员 | 厚生劳动省 | 可选 | 分为1级和2级 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 2,500. The aging of fishery workers and lack of successors are severe, with labor shortages expected to continue. Utilizing foreign workers is being considered to sustain coastal fisheries.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 2,500。渔业工作者老龄化和缺乏接班人问题严重，劳动力短缺预计将持续。考虑利用外籍工人以维持沿海渔业。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,89 +38,82 @@ A fishery worker who collects seaweed and shellfish in coastal areas for food an
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,500,000~$3,500,000 | Varies with catch volume |
-| Mid-level (4-10 years) | $3,500,000~$5,000,000 | Increases with experience and skill |
-| Advanced (11+ years) | $4,500,000~$6,500,000 | Further increase as boat owner or cooperative officer |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 依渔获量而定 |
+| 中级（4-10年） | $3,500,000~$5,000,000 | 随经验和技能增长 |
+| 高级（11年以上） | $4,500,000~$6,500,000 | 作为船主或合作社官员可进一步增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The impact of AI and automation is limited. While AI may advance in fishing ground exploration and aquaculture management, actual collection work is mainly manual and hard to replace.
+AI和自动化影响有限。虽然AI可能在渔场勘探和水产养殖管理方面取得进展，但实际采集工作主要靠人力，难以替代。
 
-Obtaining independent fishing rights requires years of experience. There is a path to join a fishing cooperative and advance to boat owner or co-owner.
+获得独立捕鱼权需要多年经验。有一条途径是加入渔业合作社并晋升为船主或共有人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Fishing ground exploration (drones, satellite data)
+- 渔场勘探（无人机、卫星数据）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Prediction of optimal fishing ground timing/location (AI)
-- Automated water quality monitoring
+- 最佳渔场时机/位置的预测（AI）
+- 自动化水质监测
 
-**人类护城河:**
+**人类护城河：**
 
-- Delicacy of manual work
-- Local knowledge and experience
-- Weather judgment
+- 手工操作的精细度
+- 本地知识与经验
+- 天气判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- aquaculture technology
-- Data analysis (fishery management)
-- Marketing (sixth industrialization)
+- 水产养殖技术
+- 数据分析（渔业管理）
+- 市场营销（第六产业化）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aquaculture technology
-- sixth industrialization
-- algal biomass
-- measures against seaweed bed decline
+- 水产养殖技术
+- 第六产业化
+- 藻类生物质
+- 应对海藻床衰退的措施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fisheries)) | Available in the fisheries sector if certain skill and Japanese language requirements are met. Maximum stay of 5 years. |
-| Subclass 技能実習 (Technical Intern Training (Fisheries)) | After 3 years of training, can transfer to Specified Skilled Worker. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a degree or advanced knowledge in fisheries science, uncommon. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- Those who love the sea and nature
-- People who can handle irregular work hours
+- 体力充沛的人
+- 热爱海洋和自然的人
+- 能处理不规律工作时间的人
 
 **谁不适合**
-- People who dislike physical labor
-- Those seeking stable income
+- 不喜欢体力劳动的人
+- 寻求稳定收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Is income from seaweed/shellfish harvesting stable?**
-答：Unstable due to catch volume. Annual income around 2.5-6.5 million yen, varies by region and experience.
+**问：海藻/贝类捕捞收入是否稳定？**
+答：因捕捞量不稳定，年收入约250-650万日元，因地区和经验而异。
 
-**问：Can foreigners do this job?**
-答：Possible with Specified Skilled Worker (i) (Fisheries) status. Requires Japanese proficiency (approx. N4) and passing skills test.
+**问：外国人能做这份工作吗？**
+答：持有特定技能签证（i）（渔业）身份可能。需要日语能力（约N4）并通过技能测试。
 
-**问：How to advance your career?**
-答：Join a fishery cooperative, gain experience, then obtain fishing rights independently or move into aquaculture, processing, etc. (6th industrialization).
+**问：如何晋升你的职业？**
+答：加入渔业合作社，积累经验，然后独立获取捕捞权或转向水产养殖、加工等（第六产业化）。
 
 
 ---
@@ -138,12 +131,12 @@ Obtaining independent fishing rights requires years of experience. There is a pa
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/seaweed-and-shellfish-collector/JP)**

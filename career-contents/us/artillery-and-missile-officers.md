@@ -53,8 +53,6 @@ Command and manage artillery and missile units, responsible for tactical deploym
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance artillery and missile officers' decision support and data processing capabilities (target identification, fire planning), but core command, safety, and tactical decision responsibilities are hard to replace; entry-level roles may be reduced due to automated simulation training, but real-world experience requirements remain.
-
 Career progression: from platoon leader to company/regimental commander, up to senior staff officer or general. Requires military academy training and service experience.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression: from platoon leader to company/regimental commander, up to s
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: From platoon leader to company, battalion commander, up to brigade or higher 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artillery-and-missile-officers/US)**

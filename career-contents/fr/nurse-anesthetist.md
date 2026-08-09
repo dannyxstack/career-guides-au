@@ -52,8 +52,6 @@ Anesthesia nurses provide anesthesia care to patients before, during, and after 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core clinical operations of anesthesia nurses, such as anesthesia induction and emergency handling, are difficult to replace by AI, but tasks like paperwork, monitoring, and medication preparation will be significantly automated and enhanced, presenting both risks and opportunities.
-
 Career development paths: Clinical Anesthesia Nurse (Junior) → Senior Anesthesia Nurse → Anesthesia Department Supervisor or Clinical Educator. It can also be turned into academic research or medical management. Continuing education is required to maintain enrollment eligibility.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development paths: Clinical Anesthesia Nurse (Junior) → Senior Anesthes
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applies to highly skilled professionals such as nurse anesthetists, requiring employer sponsorship and qualification recognition. |
-| Subclass Salarié (Employee Work Permit) | Long-term work visas employed by French medical institutions require recognition of equivalent qualifications. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card is suitable for high-paying positions, and anesthesia nurses usually earn salaries that meet the standards. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You must first obtain the National Nursing Diploma (DE Infirmier) and the Spe
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurse-anesthetist/FR)**

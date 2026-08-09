@@ -53,8 +53,6 @@ Conducts media and theater theory research, analyzing media phenomena, theatrica
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Theoretical analysis, textual interpretation, and creative teaching by media and drama scholars are hard to replace by AI, but literature reviews, data sorting, and presentation formatting are easily automated. Overall risk is moderate, with both opportunities and challenges.
-
 Typical career path: research assistant → lecturer → professor, or shift from researcher to applied fields like cultural project management, media consulting. Academic roles require PhD and publication record.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typical career path: research assistant → lecturer → professor, or shift fro
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for university or research institution positions; qualification level must match. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for coming to Germany to seek a job or internship opportunity |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Academic positions are highly competitive with limited tenure-track roles. It
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/media-and-theater-scientist/DE)**

@@ -53,8 +53,6 @@ Container fillers are responsible for safely and efficiently loading goods into 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Container fillers' work is highly structured and repetitive; AI and automation systems (e.g., optimization algorithms and robotics) will gradually reduce demand for this role, especially in core tasks like space optimization and cargo securing, leading to fewer jobs and lower entry barriers.
-
 Entry-level roles can progress to senior packers or supervisors, some may transition to transport logistics coordination. Gaining experience may lead to AEWV work visa support, but career paths are limited. No educational qualifications required, mainly relying on on-the-job training.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level roles can progress to senior packers or supervisors, some may transi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Primarily on-the-job training; holding a forklift license and cargo securing 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/container-filler/NZ)**

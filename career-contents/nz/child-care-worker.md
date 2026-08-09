@@ -53,8 +53,6 @@ Childcare workers in New Zealand have stable demand, suitable for those with car
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Childcare worker core duties—emotional interaction and safety supervision—are hard to automate, but admin and observation record tasks will be significantly AI-enhanced. Roles won't decrease; demand for high-skilled care may increase due to efficiency gains.
-
 Can advance step by step from assistant to team leader or center director, or obtain registered teacher qualification to become an early childhood teacher (higher income). After gaining experience, may move into education management or training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance step by step from assistant to team leader or center director, or ob
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Early childhood teachers (must be registered) are on the Green List and can apply for residency after 2 years of work. |
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (qualifications + experience), eligible for skilled migration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Minimum National Certificate Level 3, typically a 2-year diploma or 3-year ba
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/child-care-worker/NZ)**

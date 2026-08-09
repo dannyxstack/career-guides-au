@@ -4,8 +4,6 @@
 
 Responsible for manually or mechanically processing glass products, including cutting, grinding, polishing, and finishing, for use in construction, decoration, and industrial fields.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for manually or mechanically processing glass products, including cu
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Glass manufacturing and processing roles face high automation risk; machine vision and robotic arms are comprehensively replacing manual cutting, grinding, and polishing. Entry-level positions are significantly shrinking, but equipment maintenance and process optimization still require human involvement.
-
 Can advance from entry-level operator to senior technician or foreman, with some transitioning to quality inspection or production management. Requires continuous learning of new machine technologies.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can advance from entry-level operator to senior technician or foreman, with some
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants, must meet salary threshold (approx. €5,688/month in 2025). This occupation usually does not meet the salary threshold. |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 global universities can apply and freely seek work for one year. |
-| Subclass EU Blue Card (EU Blue Card) | Requires high salary (approximately €5,688/month in 2025), this occupation usually does not qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: This occupation is not on the skilled migration shortage list and generally c
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-maker-cutter-grinder-and-finisher/NL)**

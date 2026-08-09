@@ -51,8 +51,6 @@ Economists analyze economic data and forecast trends, providing policy and inves
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 Junior analyst→ intermediate economist→ senior economist/department head. Vertical development can be in finance, consulting, or academia, or cross-disciplinary work into policy research and risk management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior analyst→ intermediate economist→ senior economist/department head. Ve
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, with an annual salary threshold of about €33,908 (2023), requiring a university degree and a work contract. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | For executives, experts, etc., company sponsorship is required, annual salary usually exceeds €40,000, and approval is relatively quick. |
-| Subclass Cuenta ajena (Work Permit (employed)) | For ordinary work residence, the company must prove that the position cannot be filled locally, resulting in a relatively long approval period. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Main fields: finance and banking, consulting firms, public administration (ce
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economist/ES)**

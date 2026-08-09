@@ -1,8 +1,8 @@
-# Real Estate Sales 职业分析 · 日本
+# 房地产销售（Real Estate Sales）职业分析 · 日本
 
-**职业代码: 347 (JSCO)**
+**职业代码：347 (JSCO)**
 
-Sales role handling real estate sales and leasing brokerage. Responsible for proposing properties matching client needs, contract procedures, and after-sales follow-up.
+负责房地产销售和租赁经纪的销售角色。负责推荐符合客户需求的房产、合同手续和售后跟进。
 
 
 ---
@@ -11,8 +11,8 @@ Sales role handling real estate sales and leasing brokerage. Responsible for pro
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（For public high school） |
-| University graduate (optional) | 4年 | $2,500,000~$5,000,000（For private liberal arts） |
+| 高中毕业 | 3年 | $0~$0（针对公立高中） |
+| 大学毕业生（可选） | 4年 | $2,500,000~$5,000,000（适用于私立文科） |
 
 ---
 
@@ -20,18 +20,18 @@ Sales role handling real estate sales and leasing brokerage. Responsible for pro
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Real Estate Transaction Specialist | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Mandatory. Must attend training every 3 years. |
-| Rental Real Estate Management Specialist | Japan Rental Real Estate Management Specialist Council | 可选 | Advantageous for rental management work |
-| Condominium Management Specialist | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | For condominium owners' associations |
+| 房地产交易专员 | 国土交通省 | 必备 | 强制。必须每3年参加培训。 |
+| 租赁房地产管理专家 | 日本租赁房地产管理专家委员会 | 可选 | 有利于租赁管理工作 |
+| 公寓管理专员 | 国土交通省 | 可选 | 适用于公寓业主协会 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 650,000. Due to population decline and rising vacancies, demand for second-hand properties and renovations is expanding. Meanwhile, AI-driven property matching is advancing, reducing pure brokerage work.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 650,000。由于人口减少和空置率上升，对二手房和翻新的需求扩大。同时，AI驱动的房产匹配在推进，纯中介工作减少。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,94 +40,88 @@ Sales role handling real estate sales and leasing brokerage. Responsible for pro
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
 | 初级(0-3年) | $3,000,000~$4,500,000 | 底薪+佣金 |
-| Mid level (3-7 years) | $4,500,000~$7,000,000 | Includes Real Estate Transaction Specialist allowance |
-| Senior level (7+ years) | $7,000,000~$12,000,000 | Includes management allowance |
+| 中级别（3-7年） | $4,500,000~$7,000,000 | 包含房地产交易专员津贴 |
+| 高级（7年以上） | $7,000,000~$12,000,000 | 含管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Routine tasks such as property search and document creation are being replaced by AI/IT tools, reducing the value of human sales skills. However, human response is still required for high-value transactions and complex needs.
+物业搜索和文件创建等日常任务正被AI/IT工具取代，降低了人类销售技巧的价值。然而，高价值交易和复杂需求仍需人工响应。
 
-Even beginners can obtain the Real Estate Transaction Specialist license and advance from lead to store manager. Major firms offer career paths to management or business development.
+即使是初学者也能获得房地产交易专家执照，并从负责人晋升到店长。大型公司提供通往管理或业务发展的职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Collecting and organizing property information
-- Scheduling property viewings
-- Creating standard documents
-- Handling simple customer inquiries
+- 收集整理财产信息
+- 安排房产看房
+- 创建标准文档
+- 处理简单的客户咨询
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Automatic extraction of potential clients
-- Market data analysis
-- Initial response via chatbots
-- VR property viewing systems
+- 潜在客户自动提取
+- 市场数据分析
+- 通过聊天机器人初步响应
+- VR房产看房系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal negotiation skills
-- Local network
-- Trust building
-- Complex real estate transaction coordination
+- 人际谈判技巧
+- 本地网络
+- 建立信任
+- 复杂房地产交易协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Negotiation skills
-- Finance knowledge
-- Digital marketing
+- 数据分析
+- 谈判技巧
+- 金融知识
+- 数字营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Resale housing distribution
-- Renovation
-- Rental management
-- Vacant house measures
+- 转售住房分发
+- 翻新
+- 租赁管理
+- 空置房屋对策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status for sales positions. Requires university degree or work experience. |
-| Subclass 特定活動（高度人材） (Designated Activities (Highly Skilled Professional)) | Preferential under point system, but real estate sales often excluded. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy talking with others
-- People comfortable with commission-based pay
-- People who prefer community-focused work
+- 喜欢与他人交谈的人
+- 能接受佣金制薪酬的人
+- 偏好社区工作的人
 
 **谁不适合**
-- People who like routine tasks
-- People stressed by quotas
+- 喜欢常规任务的人
+- 受配额压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for real estate sales?**
-答：First year around 3-4.5 million yen, but commission-based can exceed 10 million yen. Large firms may have stable salary systems.
+**问：房地产销售的年收入是多少？**
+答：第一年约300–450万日元，但基于佣金可超过1000万日元。大公司可能有稳定薪资制度。
 
-**问：What visa do foreigners need to work in real estate sales?**
-答：You need 'Engineer/Specialist in Humanities/International Services' status. Requires university degree or 10+ years experience, and Japanese ability.
+**问：外国人在房地产销售工作需要什么签证？**
+答：需要“人文/国际服务工程师/专家”身份。要求大学学位或 10 年以上经验，以及日语能力。
 
-**问：Is the Real Estate Transaction Specialist license mandatory?**
-答：Although not essential for working in sales, obtaining a real estate transaction specialist license is strongly recommended since it's required for important matters explanation and contract procedures.
+**问：房地产交易专家许可证是强制性的吗？**
+答：虽然对销售工作并非必需，但强烈建议获得不动产交易专门士资格，因为重要事项说明和合同手续需要该资格。
 
 
 ---
@@ -145,12 +139,12 @@ Even beginners can obtain the Real Estate Transaction Specialist license and adv
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/real-estate-sales/JP)**

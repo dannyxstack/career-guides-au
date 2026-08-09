@@ -1,8 +1,8 @@
-# Iron & Steel Making, Nonferrous Metal Smelting Workers 职业分析 · 日本
+# 钢铁制造、有色金属冶炼工（Iron & Steel Making, Nonferrous Metal Smelting Workers）职业分析 · 日本
 
-**职业代码: 521 (JSCO)**
+**职业代码：521 (JSCO)**
 
-Workers in production processes who melt iron, steel, and nonferrous metals in blast furnaces or converters, and cast/roll them into ingots or semi-finished products. A skilled trade involving high temperatures and heavy materials handling.
+在生产过程中，将铁、钢和有色金属在高炉或转炉中熔化，并铸造成锭或半成品的生产工人。涉及高温和重型材料处理的熟练工种。
 
 
 ---
@@ -11,9 +11,9 @@ Workers in production processes who melt iron, steel, and nonferrous metals in b
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（Public school tuition, etc.） |
-| Vocational School (Industrial) | 2 年 | $1,000,000~$2,000,000（Materials Engineering, Metalworking, etc.） |
-| Junior College / University (Engineering) | 2–4 years | $2,000,000~$5,000,000（Wide variation between public/private） |
+| 高中文凭 | 3年 | $0~$300,000（公立学校学费等） |
+| 职业学校（工业） | 2 年 | $1,000,000~$2,000,000（材料工程、金属加工等） |
+| 专科/大学（工程） | 2-4年 | $2,000,000~$5,000,000（公共/私营差异很大） |
 
 ---
 
@@ -21,18 +21,18 @@ Workers in production processes who melt iron, steel, and nonferrous metals in b
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metal Material Manufacturing Skill Certification | Ministry of Health, Labour and Welfare | 可选 | Level 1, 2, and Special levels available. Requires work experience and written exam. |
-| Welding Skills Certification | Japan Welding Engineering Society, etc. | 可选 | Gas welding, arc welding, etc. Acquisition expands scope of work. |
-| Crane Operator License | Ministry of Health, Labour and Welfare | 可选 | Required for operating overhead cranes over 5 tons. |
+| 金属材料制造技能认证 | 厚生劳动省 | 可选 | 设有1级、2级和特级。需要工作经验和笔试。 |
+| 焊接技能认证 | 日本焊接工程学会等 | 可选 | 气焊、电弧焊等，获得后可扩展工作范围。 |
+| 起重机操作员执照 | 厚生劳动省 | 可选 | 操作5吨以上桥式起重机需要。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 34,000. Japan's steel and nonferrous metal industry faces declining production due to decreased domestic demand and intensified overseas competition. Meanwhile, chronic labor shortages from aging equipment requiring maintenance staff and youth turnover make skills transfer a challenge.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 34,000。日本的钢铁和有色金属行业因国内需求下降和海外竞争加剧而面临产量减少。同时，老化的设备需要维护人员，年轻员工流失造成长期劳动力短缺，使技能传承成为挑战。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,96 +40,88 @@ Workers in production processes who melt iron, steel, and nonferrous metals in b
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-Level (0–3 years) | $3,500,000~$4,500,000 | Base salary + site allowance |
-| Mid-Level (4–10 years) | $4,500,000~$6,000,000 | Salary increase through skill improvement and certification acquisition |
-| 资深（10年以上） | $6,000,000~$8,000,000 | Chief/Section leader class. Skilled worker aiming higher. |
+| 入门级（0-3年） | $3,500,000~$4,500,000 | 基本工资+现场津贴 |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 通过技能提升和资格认证实现薪资增长 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 主任/科长级别。有更高目标的熟练工人。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and robot automation are advancing; some smelting processes are already AI-controlled. However, areas requiring human judgment—such as anomaly response and equipment maintenance—remain, so the overall trend is contraction.
+AI和机器人自动化正在推进；部分冶炼流程已由AI控制。然而，需要人工判断的领域——如异常响应和设备维护——仍然存在，因此整体趋势是收缩。
 
-After entering the industry with a high school or vocational school diploma, workers gain skills in smelting, rolling, and casting through on-site experience. Career advancement via skill certification (Metal Material Manufacturing) or welding qualifications. Opportunities for site supervisor or production management roles.
+高中或职业学校毕业后入行，通过现场经验获得冶炼、轧制和铸造技能。通过技能认证（金属材料制造）或焊接资格实现职业发展。有机会晋升为现场主管或生产管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- AI control of molten steel composition adjustment
-- Automation of rolling processes
-- Mold filling by casting robots
-- Image recognition automation for quality inspection
+- AI控制钢水成分调整
+- 轧制过程自动化
+- 由铸造机器人进行模具填充
+- 基于图像识别的质量检查自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based anomaly prediction and production optimization support
-- Remote operation and training via AR/VR
-- Data analysis and AI diagnosis for equipment maintenance
+- 基于AI的异常预测和生产优化支持
+- 通过AR/VR进行远程操作和培训
+- 设备维护的数据分析和AI诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- Decision-making and swift response during anomalies
-- Skilled craftsmanship (subtle feel, sound, smell)
-- Equipment maintenance and repair
-- Team management & safety direction
+- 异常情况下的决策与快速响应
+- 熟练的手工艺（细微的感觉、声音、气味）
+- 设备维护与修理
+- 团队管理与安全指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI control & SCADA system understanding
-- Robot maintenance & programming
-- Data analysis (manufacturing data)
-- Multiskilled (casting, rolling, heat treatment)
+- AI控制与SCADA系统理解
+- 机器人维护与编程
+- 数据分析（制造数据）
+- 多技能（铸造、轧制、热处理）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Iron and steel industry
-- Non-ferrous metals
-- Casting
-- Labor shortage
+- 钢铁行业
+- 有色金属
+- 铸造
+- 劳动力短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Engineering degree or practical experience required. For engineers at steel mills and non-ferrous metal manufacturers. Not suitable for on-site (skilled) work. |
-| Subclass 技能 (Skill) | Jobs requiring advanced skills (welding, casting, etc.) with 10+ years of practical experience required. Potentially applicable. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | As of 2024, iron/steel and non-ferrous metal manufacturing are excluded. Future possibility if scope expands. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Currently outside target industries; future expansion possible for skilled workers. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those physically confident and unafraid of high-temperature or heavy-load work
-- Those who want to take charge of the entire manufacturing process
-- Those who want to work long-term in a stable major manufacturing company
+- 身体自信且不惧高温或重体力工作的人
+- 想负责整个制造过程的人
+- 希望在稳定的大型制造企业长期工作的人
 
 **谁不适合**
-- People who are strongly oriented toward desk work and white-collar jobs
-- People who are sensitive to hazardous work and physical strain
+- 强烈倾向于文职和白领工作的人
+- 对危险工作和体力消耗敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of ironmaking and steelmaking workers?**
-答：Entry-level: 3.5–4.5 million yen; mid-level: 4.5–6 million yen; upper-level: 6–8 million yen. Large blast furnace manufacturers offer additional allowances and bonuses.
+**问：钢铁冶炼工人的年收入是多少？**
+答：初级：350万–450万日元；中级：450万–600万日元；高级：600万–800万日元。大型高炉制造商提供额外津贴和奖金。
 
-**问：Can foreigners work in this occupation in Japan?**
-答：It is possible with a 'Skilled Labor' visa (over 10 years of practical experience) or an 'Engineer/Specialist in Humanities/International Services' visa (engineering degree). However, since it is not covered by Specified Skilled Worker, the routes are limited.
+**问：外国人可以在日本从事这个职业吗？**
+答：持“熟练工”签证（10年以上实践经验）或“工程师/人文知识/国际业务”签证（工程学位）是可能的。但由于不属于特定技能工人，途径有限。
 
-**问：Are there required qualifications?**
-答：Not mandatory, but having a Metal Materials Manufacturing Skilled Worker certification, welding qualification, or crane operator license is advantageous for career advancement. In particular, skilled worker certifications are directly linked to promotions and evaluations.
+**问：是否需要必备资格？**
+答：非强制要求，但持有金属材料制造技能工认证、焊接资质或起重机操作员执照对职业发展有利。尤其是技能工认证直接与晋升和评估挂钩。
 
 
 ---
@@ -147,12 +139,12 @@ After entering the industry with a high school or vocational school diploma, wor
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/iron-steel-making-nonferrous-metal-smelting-workers/JP)**

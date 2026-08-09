@@ -52,8 +52,6 @@ Providing daily living care, personal hygiene care, and emotional support for ho
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Students can be promoted from junior caregivers to nursing team supervisors, or through further studies to become registered nurses, social workers, and other professions.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Students can be promoted from junior caregivers to nursing team supervisors, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | For employed work residence sponsored by Spanish employers, it is necessary to prove that the position cannot be filled by a local resident. |
-| Subclass Tarjeta azul UE (EU Blue Card) | High-skilled work visa, but domestic caregivers usually do not meet the salary standards and are rarely applicable. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to look for a job, provided you have sufficient financial proof. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted to nursing team supervisor, or through continuing educati
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-personal-care-worker/ES)**

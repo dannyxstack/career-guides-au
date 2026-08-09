@@ -53,8 +53,6 @@ Perform precision adjustment, calibration, and finishing of glass instruments (s
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Part of the glass instrument calibrator's work can be automated with AI + robotics (e.g., geometric measurement), but high-precision manual calibration and complex problem-solving still rely on human experience, overall impact mixed.
-
 Start as an apprentice, gain experience to become a skilled worker. Can be promoted to foreman or move into quality inspection or technical sales. Continuous learning of new calibration techniques is required, but advancement opportunities are relatively limited.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as an apprentice, gain experience to become a skilled worker. Can be promo
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | Points-based job-seeking visa, suitable for those with professional qualifications but no job offer; allows job searching in Germany for one year. |
 | Subclass Skilled Worker (Skilled Worker Visa for Vocational Training) | Must obtain a job contract from a German employer and have professional qualifications recognized to apply for a skilled worker visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically completed through a 3-year dual training system, working while stud
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-apparatus-adjuster/DE)**

@@ -54,8 +54,6 @@ Assist physiotherapists in implementing rehabilitation plans, including exercise
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physiotherapy technicians and assistants face AI automation risks, but physical contact and human care provide a moat; AI serves more as a tool to enhance efficiency rather than fully replace them.
-
 May progress from assistant to senior assistant or specialist assistant; with experience, can obtain qualifications to become a qualified physiotherapist, or move into management roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ May progress from assistant to senior assistant or specialist assistant; with ex
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to senior assistant or become a registered physiotherapist throug
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapy-technician-and-assistant/IE)**

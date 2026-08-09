@@ -1,10 +1,8 @@
-# Statistical Clerk 职业分析 · 韩国
+# 统计文员（Statistical Clerk）职业分析 · 韩国
 
-**职业代码: 02933 (KECO)**
+**职业代码：02933 (KECO)**
 
-A statistical clerk collects and analyzes various survey and administrative data to compile statistics and organize reports.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+统计员收集和分析各种调查和行政数据，编制统计资料并整理报告。
 
 
 ---
@@ -13,9 +11,9 @@ A statistical clerk collects and analyzes various survey and administrative data
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-year) | 2 年 | $6,000,000~$12,000,000（National/Public vs. Private） |
-| Bachelor's Degree (4-year) | 4年 | $8,000,000~$20,000,000（Majors in statistics, mathematics, economics, etc.） |
-| 硕士 | 2 年 | $10,000,000~$25,000,000（Statistics major, graduate school） |
+| 副学士学位（2年） | 2 年 | $6,000,000~$12,000,000（国立/公立 vs. 私立） |
+| 学士学位（4年） | 4年 | $8,000,000~$20,000,000（主修统计学、数学、经济学等） |
+| 硕士 | 2 年 | $10,000,000~$25,000,000（统计学专业，研究生学历） |
 
 ---
 
@@ -23,18 +21,18 @@ A statistical clerk collects and analyzes various survey and administrative data
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Survey Analyst Level 2 | Human Resources Development Service of Korea | 可选 | Demonstrates statistical analysis ability |
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Data processing ability |
-| Statistical software proficiency (SAS, R, Python) | 无需认证 | 可选 | Required in practice |
+| 社会调查分析师二级 | 韩国人力资源开发服务局 | 可选 | 展示统计分析能力 |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 数据处理能力 |
+| 统计软件熟练（SAS, R, Python） | 无需认证 | 可选 | 实践中必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 76,000. Due to the increase in data-driven decision-making, demand for statistics remains, but simple statistical tasks are expected to decrease with automation and AI adoption. Demand is shifting toward highly specialized analytical work.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 76,000。由于数据驱动决策的增加，统计学需求仍存，但随着自动化和AI应用，简单统计任务预计减少。需求正向高度专业化分析工作转变。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,72 +40,64 @@ A statistical clerk collects and analyzes various survey and administrative data
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $24,000,000~$32,000,000 | Starting salary in public institutions and private companies |
-| Mid-Level (4–9 years) | $34,000,000~$48,000,000 | 经验丰富后增长 |
-| 资深（10年以上） | $50,000,000~$70,000,000 | Manager or Professional Analyst |
+| 入门级（0–3年） | $24,000,000~$32,000,000 | 公立机构和私营企业起薪 |
+| 中级（4–9年） | $34,000,000~$48,000,000 | 经验丰富后增长 |
+| 资深（10年以上） | $50,000,000~$70,000,000 | 经理或专业分析师 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation are expected to replace simple data collection and processing tasks for statistical clerks, reducing job opportunities. However, higher-level interpretation and decision-support roles remain a human domain.
+预计人工智能和自动化将取代统计文员的简单数据收集和处理任务，减少就业机会。然而，更高层次的解读和决策支持角色仍属于人类领域。
 
-Newcomers typically handle data entry and basic statistical support tasks. With experience, they can advance to data analysis, statistical system operation, or management roles. Career development is possible in public institutions and private research organizations.
+新人通常处理数据录入和基础统计支持任务。经验丰富后可晋升至数据分析、统计系统运行或管理岗位。公共机构和私人研究机构均有职业发展空间。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic statistical table creation
-- Survey coding
-- Data entry and validation
-- Simple report generation
+- 基础统计表创建
+- 调查编码
+- 数据录入与验证
+- 简单报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data visualization
-- Statistical model development
-- Anomaly detection
-- Predictive analysis
+- 数据可视化
+- 统计模型开发
+- 异常检测
+- 预测分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Domain knowledge
-- Communication skills
-- Context understanding
-- Ethical judgment
+- 领域知识
+- 沟通能力
+- 上下文理解
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R
 - SQL
-- Machine Learning
-- Data Visualization (Tableau, etc.)
-- Business Analysis
+- 机器学习
+- 数据可视化（Tableau等）
+- 业务分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Data analysis
-- Statistical software
-- AI statistics
-- Big data
+- 数据分析
+- 统计软件
+- AI统计
+- 大数据
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon performing statistical work; employer applies |
-| Subclass D-10 (Job seeking) | Stay after graduation for job seeking in statistics |
-| Subclass F-2 (Residence) | Long-term resident eligible for employment; statistical work possible |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -115,25 +105,25 @@ Newcomers typically handle data entry and basic statistical support tasks. With 
 
 **谁适合**
 - 细心且注重细节的人
-- Person interested in numbers and data
-- Person who performs repetitive tasks well
+- 对数字和数据感兴趣的人
+- 擅长重复性任务的人
 
 **谁不适合**
-- Person who prefers creative and free work
-- Person who finds simple repetitive tasks boring
+- 偏好创意和自由工作的人
+- 觉得简单重复工作无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a statistical clerk?**
-答：It varies by experience: entry-level about KRW 24-32 million, mid-level KRW 34-48 million, and senior-level KRW 50-70 million.
+**问：统计文员的平均薪资是多少？**
+答：按经验：入门约2400-3200万韩元，中级3400-4800万韩元，高级5000-7000万韩元。
 
-**问：What visa is needed for a foreigner to work as a statistical clerk?**
-答：An E-7 (Specific Activities) visa is suitable, requiring a specialized degree and experience in statistics. Korean language skills are also important.
+**问：外国人担任统计文员需要什么签证？**
+答：E-7（特定活动）签证适用，需要统计学专业的学位和经验，韩语能力也很重要。
 
-**问：Are there any required certifications?**
-答：Not mandatory, but having a Social Survey Analyst Level 2 or Information Processing Engineer is advantageous, and proficiency in statistical tools like SAS, R, and Python is key.
+**问：是否有任何必需的认证？**
+答：非强制，但拥有社会调查分析师二级或信息处理工程师证书有优势，掌握SAS、R和Python等统计工具是关键。
 
 
 ---
@@ -151,12 +141,12 @@ Newcomers typically handle data entry and basic statistical support tasks. With 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/statistical-clerk/KR)**

@@ -54,8 +54,6 @@ The conductor is responsible for leading orchestras or choirs in rehearsals and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core artistic decision-making and interpersonal leadership of a conductor are hard to replace by AI, but tasks like score analysis and rehearsal recording organization will be automated. AI tools can assist in repertoire research and voice analysis, a mixed blessing.
-
 Career path usually starts as assistant conductor or choir conductor, gaining experience to advance to orchestra conductor, chief conductor, or music director. Some conductors move into teaching or freelancing, participating in international projects to enhance reputation.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path usually starts as assistant conductor or choir conductor, gaining ex
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires German-recognized degree or professional qualification, employer sponsorship, suitable for long-term work. |
 | Subclass Artists Visa (Artist Visa (§21 AufenthG)) | Designed for artists and performers, requires proof of artistic achievement, allows short-term residence and work. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Start as assistant conductor, progressively move up to deputy conductor, chie
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conductor/DE)**

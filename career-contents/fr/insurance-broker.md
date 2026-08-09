@@ -52,8 +52,6 @@ Insurance brokers act as intermediaries, helping clients (individuals or busines
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core tasks of insurance brokers (e.g., needs analysis, client relationships) are hard to replace, but data collection and product comparison can be automated by AI; overall mixed outlook.
-
 Career development paths: insurance advisor→ independent broker/team leader→ brokerage partner, or founder of your own brokerage firm. It can also develop into specialized fields (such as aviation and marine insurance) or reinsurance.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development paths: insurance advisor→ independent broker/team leader→
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents or startup employees, requiring a qualified employment contract valid for 4 years with renewable renewal. |
-| Subclass Salarié (Salarié (Employee)) | Applicable to insurance brokers employed by French companies, requiring a labor permit, with a visa valid for 1-4 years. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to senior professionals, requiring an annual salary of at least about 53,000 euros (2023 standard), valid for 4 years. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promising outlook: The French insurance market is mature, and the retirement 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-broker/FR)**

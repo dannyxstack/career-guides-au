@@ -53,8 +53,6 @@ Actors use performance to create characters, conveying emotions and stories in f
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Actors face competition from AI deepfakes and virtual characters, but human emotional expression and live interaction remain irreplaceable. Entry-level roles are more competitive due to digital auditions and AI casting tools, while high-end performance demand may increase.
-
 Actors typically start from community theatre or short films, gradually moving to small roles in TV series or films. Experienced actors can advance to leading roles, directing, or producing, but most need to supplement with other work. Professional training and networking are key.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Actors typically start from community theatre or short films, gradually moving t
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Many actors complete a Bachelor of Drama (3 years) at national universities o
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/NZ)**

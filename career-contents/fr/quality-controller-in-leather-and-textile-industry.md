@@ -4,8 +4,6 @@
 
 Responsible for inspecting quality indicators such as appearance, size, and color fastness of leather and textiles to ensure products meet standards and customer requirements.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for inspecting quality indicators such as appearance, size, and colo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Some quality controllers' tasks can be automated, but require on-site judgment and customer communication. AI is more of an auxiliary tool; positions will not be completely replaced, but entry-level positions may be reduced.
-
 Junior quality inspectors can be promoted to senior quality inspectors, quality supervisors, or quality managers; It can also be turned to procurement or supply chain quality management.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Junior quality inspectors can be promoted to senior quality inspectors, quality 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Requires employer sponsorship for medium-skilled positions; labour market testing is difficult to pass. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but this profession usually does not fit |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Typically, a high school diploma plus vocational training (CAP/BEP) or a high
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-controller-in-leather-and-textile-industry/FR)**

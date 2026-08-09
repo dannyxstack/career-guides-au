@@ -1,10 +1,8 @@
-# Medical Representative (MR) 职业分析 · 日本
+# 医药代表 (MR)（Medical Representative (MR)）职业分析 · 日本
 
-**职业代码: 343 (JSCO)**
+**职业代码：343 (JSCO)**
 
-A professional who bridges medical institutions and pharmaceutical companies through drug information provision and sales activities. Requires medical knowledge and communication skills.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过药品信息提供和销售活动，连接医疗机构和制药公司的专业人员。需要医学知识和沟通能力。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who bridges medical institutions and pharmaceutical companies thr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Pharmacy, Science, Medical) | 4年 | $4,000,000~$6,000,000（Large difference between national/public and private） |
-| MR Certification Exam Prep Course | 6 months | $300,000~$600,000（Optional but effective for passing rate） |
+| 大学（药学、科学、医学） | 4年 | $4,000,000~$6,000,000（国立/公立与私立差异大） |
+| 磁共振认证考试预备课程 | 6个月 | $300,000~$600,000（可选但可通过率有效） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who bridges medical institutions and pharmaceutical companies thr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| MR Certification | MR Accreditation Center | 可选 | Industry standard qualification, renewal required |
-| Registered Salesperson | Prefectural Government | 可选 | Mandatory for OTC drug sales |
+| MR认证 | MR认证中心 | 可选 | 行业标准资格，需续期 |
+| 注册销售人员 | 县政府 | 可选 | 非处方药销售必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 55,000. Demand for MRs is expected to remain stable due to increased drug demand from aging population and new drug development.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 55,000。由于人口老龄化和新药开发导致药品需求增加，MR需求预计保持稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,90 +38,83 @@ A professional who bridges medical institutions and pharmaceutical companies thr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $4,000,000~$5,000,000 | Base salary + sales allowance included |
-| Mid (4-10 years) | $6,000,000~$8,000,000 | Bonus based on results added |
-| Senior (11+ years) | $9,000,000~$12,000,000 | Working as management |
+| 入门级（0-3年） | $4,000,000~$5,000,000 | 基本工资+销售津贴 |
+| 中级（4-10年） | $6,000,000~$8,000,000 | 已添加基于结果的奖金 |
+| 高级（11年以上） | $9,000,000~$12,000,000 | 从事管理工作 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI will not replace MR tasks but enhance them through data analysis and efficiency in customer information management. Face-to-face information provision and trust-building remain human roles.
+AI不会取代MR任务，而是通过数据分析和客户信息管理效率来增强。面对面的信息提供和建立信任仍然是人类角色。
 
-After joining a pharmaceutical company, deepen knowledge through OJT and external training, with career paths to senior/manager positions or headquarters roles leveraging expertise.
+加入制药公司后，通过在职培训和外部培训深化知识，职业路径可达高级/经理职位或利用专业知识的总部职位
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated customer data analysis by AI
-- Optimized visit planning by AI
+- AI自动分析客户数据
+- AI优化访问计划
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Rapid collection of drug information by AI
-- Creating presentation materials using AI
+- AI快速收集药物信息
+- 使用AI制作演示材料
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face trust building
-- Relationships with physicians
-- Adaptive communication
+- 面对面建立信任
+- 与医生的关系
+- 适应性沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Deepening medical knowledge
+- 深化医学知识
 - 数据分析技能
-- Presentation skills
+- 演示技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Pharmaceutical sales
-- Medical information provision
-- New drug development support
-- Medical collaboration
+- 医药销售
+- 医疗信息提供
+- 新药开发支持
+- 医疗合作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and work experience. Applicable for MR roles at pharmaceutical companies. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (No applicable field)) | MR is not eligible for Specified Skilled Worker, so normal route is impossible. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in medicine or pharmacy
-- People good at interpersonal communication
-- People who want to leverage sales experience
+- 对医学或药学感兴趣的人
+- 擅长人际沟通的人
+- 希望利用销售经验的人
 
 **谁不适合**
-- People who feel stressed by numbers or quotas
-- People not good at public speaking
+- 对数字或指标感到压力的人
+- 不擅长公开演讲的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an MR?**
-答：Approximately 4-5 million JPY for entry-level, 6-8 million for mid-level, and 9-12 million for senior level.
+**问：MR的年收入是多少？**
+答：入门级约400-500万日元，中级600-800万，高级900-1200万日元。
 
-**问：What visa does a foreigner need to work as an MR?**
-答：An Engineer/Specialist in Humanities/International Services visa is required, with a university degree or higher and a job offer from a pharmaceutical company.
+**问：外国人担任MR需要什么签证？**
+答：需要人文/国际服务领域的工程师/专家签证，具备大学及以上学历，并获得制药公司的工作邀请。
 
-**问：How can an MR advance their career?**
-答：Obtaining certified MR status, moving to marketing, or getting an MBA can broaden career options.
+**问：MR如何推进职业发展？**
+答：获得认证MR身份、转向营销或攻读MBA可拓宽职业选择。
 
 
 ---
@@ -141,12 +132,12 @@ After joining a pharmaceutical company, deepen knowledge through OJT and externa
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/medical-representative-mr/JP)**

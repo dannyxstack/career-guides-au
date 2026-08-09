@@ -4,8 +4,6 @@
 
 A teacher who specializes in technical subjects at a higher vocational school (KOSEN). Responsible for practical education in engineering and technology, as well as research and student guidance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A teacher who specializes in technical subjects at a higher vocational school (K
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used to streamline educational content and assist in personalized instruction, but it does not completely replace the role of teachers. Rather, human value increases in areas such as experiment/practical guidance and student career support.
-
 Career progression from assistant, lecturer, associate professor to professor. A doctoral degree, research achievements, and teaching performance are important. Opportunities also exist for administrative roles (e.g., principal, vice principal).
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Career progression from assistant, lecturer, associate professor to professor. A
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 教授 (Professor) | Applicable when engaged in education/research at educational institutions such as universities. This status of residence is appropriate for KOSEN teachers. |
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional 1(i)) | Applicable when conducting advanced research, with point-based preferential treatment. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: After completing a master's program, the typical route is to be hired as an a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/higher-vocational-school-teacher/JP)**

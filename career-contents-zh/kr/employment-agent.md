@@ -1,10 +1,8 @@
-# Employment Agent 职业分析 · 韩国
+# 就业代理（Employment Agent）职业分析 · 韩国
 
-**职业代码: 02994 (KECO)**
+**职业代码：02994 (KECO)**
 
-A job that connects employers and job seekers, facilitates employment, and performs job counseling and follow-up management.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+连接雇主和求职者、促进就业、进行职业咨询和后续管理的职业。
 
 
 ---
@@ -13,9 +11,9 @@ A job that connects employers and job seekers, facilitates employment, and perfo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（High school diploma or higher acceptable） |
-| 副学士学位 | 2 年 | $6,000,000~$12,000,000（Related majors (business, social welfare, etc.) advantageous） |
-| 本科（学士学位） | 4年 | $12,000,000~$24,000,000（Humanities and social sciences preferred） |
+| 高中毕业 | 0年 | $0~$0（高中文凭或以上可接受） |
+| 副学士学位 | 2 年 | $6,000,000~$12,000,000（相关专业（商科、社会福利等）优先） |
+| 本科（学士学位） | 4年 | $12,000,000~$24,000,000（人文社科优先） |
 
 ---
 
@@ -23,17 +21,17 @@ A job that connects employers and job seekers, facilitates employment, and perfo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Vocational Counselor Level 2 | Human Resources Development Service of Korea | 必备 | Core certification for employment agents |
-| Social Survey Analyst Level 2 | Human Resources Development Service of Korea | 可选 | Optional, helpful for labor market analysis |
+| 职业顾问2级 | 韩国人力资源开发服务局 | 必备 | 就业代理核心认证 |
+| 社会调查分析师二级 | 韩国人力资源开发服务局 | 可选 | 可选，有助于劳动力市场分析 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 45,000. Demand for job matching in the labor market persists, but the expansion of online platforms automates some tasks, limiting employment growth.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 45,000。劳动力市场中岗位匹配的需求持续存在，但在线平台的扩展自动化了一些任务，限制了就业增长。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A job that connects employers and job seekers, facilitates employment, and perfo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $25,000,000~$32,000,000 | Similar for public sector; private sector includes performance pay |
-| Mid (4–9 years) | $32,000,000~$45,000,000 | 随经验与认证提升 |
-| 资深（10年以上） | $45,000,000~$60,000,000 | Managerial or professional consultant level |
+| 初级（0-3年） | $25,000,000~$32,000,000 | 公共部门类似；私营部门含绩效薪酬 |
+| 中等（4-9年） | $32,000,000~$45,000,000 | 随经验与认证提升 |
+| 资深（10年以上） | $45,000,000~$60,000,000 | 管理或专业顾问级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of AI-based recruitment platforms and automated matching systems, simple job placement and resume screening tasks are decreasing. However, areas requiring human judgment, such as counseling and job prospecting, remain important.
+随着基于AI的招聘平台和自动匹配系统的引入，简单的职位匹配和简历筛选任务正在减少。然而，需要人工判断的领域，如咨询和职位开拓，仍然重要。
 
-Typically starts at public employment service agencies or private employment agencies, with potential promotion to team leader, branch manager, etc., based on experience.
+通常从公共就业服务机构或私人职业介绍所开始，根据经验可晋升为团队领导、分公司经理等。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Online job matching
-- Automatic resume sorting
-- Basic counseling chatbot
+- 在线职位匹配
+- 自动简历筛选
+- 基础咨询聊天机器人
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Developing customized job search strategies for job seekers
-- Labor market trend analysis
-- In-depth competency assessment
+- 为求职者制定定制化求职策略
+- 劳动力市场趋势分析
+- 深入能力评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Human emotion understanding and empathy
-- Complex job negotiation
-- Community network
+- 人类情感理解与共情
+- 复杂工作谈判
+- 社区网络
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- Data analysis
-- Coaching skills
-- Labor law knowledge
+- 数字素养
+- 数据分析
+- 辅导技能
+- 劳动法知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Employment services
-- Digital platforms
-- Counseling expertise
-- Job placement
+- 就业服务
+- 数字平台
+- 咨询专业知识
+- 职位安置
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Some job placement tasks possible but not common |
-| Subclass F-2 (Residence) | Can work after obtaining permanent residence |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who like others and are interested in counseling
-- Detail-oriented with excellent communication skills
-- Interested in labor market trends
+- 喜欢他人并对咨询感兴趣的人
+- 注重细节且沟通能力出色
+- 对劳动力市场趋势感兴趣
 
 **谁不适合**
-- Prefers working alone
-- Prefers routine work
+- 偏好独自工作
+- 偏好常规工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a job placement officer?**
-答：Entry-level about 25-32 million KRW, mid-level 32-45 million KRW, senior 45-60 million KRW.
+**问：职业安置官员的平均薪资是多少？**
+答：入门约2500-3200万韩元，中级3200-4500万韩元，高级4500-6000万韩元。
 
-**问：Can foreigners work as job placement officers?**
-答：Possible with E-7 visa but rare; Korean proficiency and expertise required.
+**问：外国人可以做职业介绍顾问吗？**
+答：可能使用E-7签证但罕见；需要韩语能力和专业知识。
 
 **问：需要什么证书？**
-答：A level 2 vocational counselor certification is required, and a level 2 social research analyst is helpful.
+答：需要二级职业咨询师认证，二级社会研究分析师资格有帮助。
 
 
 ---
@@ -145,12 +136,12 @@ Typically starts at public employment service agencies or private employment age
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/employment-agent/KR)**

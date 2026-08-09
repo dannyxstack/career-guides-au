@@ -52,8 +52,6 @@ Programmers are responsible for designing, writing, testing, and maintaining com
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-DevOps engineer core skills (CI/CD, container orchestration, infrastructure as code) face AI automation risks, but AI also greatly improves configuration troubleshooting efficiency; low-end ops roles shrink, demand for senior architects surges, requiring evolution toward platform engineering or AI ops.
-
 Junior programmers can advance to senior software engineer or architect by accumulating project experience. They can also transition to technical management roles like IT project manager, or specialize in areas such as AI or cybersecurity.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior programmers can advance to senior software engineer or architect by accum
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to applicants with a recognized German academic degree or professional qualification, requiring a work contract |
 | Subclass Chancenkarte (Opportunity Card) | Job seeker visa based on points system, allows job searching in Germany for one year, requires basic qualifications and language skills |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to senior software engineer, architect, technical lead, or pivot 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/programmer/DE)**

@@ -1,10 +1,8 @@
-# Ticket seller and lottery ticket seller 职业分析 · 韩国
+# 售票员和彩票销售员（Ticket seller and lottery ticket seller）职业分析 · 韩国
 
-**职业代码: 61621 (KECO)**
+**职业代码：61621 (KECO)**
 
-This occupation involves selling tickets or lottery tickets at venues such as performance halls, transportation facilities, and lottery outlets, as well as handling customer service and store maintenance.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该职业涉及在演出厅、交通设施、彩票销售点等场所销售门票或彩票，并处理客户服务和店铺维护。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves selling tickets or lottery tickets at venues such as pe
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Entry possible after high school graduation） |
-| 短期职业培训 | 6 months | $500,000~$2,000,000（Sales service related training expenses） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后即可入门） |
+| 短期职业培训 | 6个月 | $500,000~$2,000,000（销售服务相关培训费用） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation involves selling tickets or lottery tickets at venues such as pe
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Lottery sales agent qualification | Korea Lottery Commission | 必备 | Registration qualification required for lottery sales |
-| Service manner certificate | Korea Vocational Competency Institute | 可选 | May be advantageous depending on choice or store |
+| 彩票销售代理资格 | 韩国彩票委员会 | 必备 | 彩票销售需注册资格 |
+| 服务礼仪证书 | 韩国职业能力研究院 | 可选 | 根据店铺选择可能有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. Due to automation and the spread of kiosks, ticket seller jobs are declining, but on-site services requiring face-to-face interaction and lottery sales are expected to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。由于自动化和自助终端的普及，售票员岗位在减少，但需要面对面服务和彩票销售的工作预计将持续存在。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,93 +38,85 @@ This occupation involves selling tickets or lottery tickets at venues such as pe
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $20,000,000~$24,000,000 | Compliance with minimum wage |
-| 中级 (4-7年) | $24,000,000~$28,000,000 | Small difference based on experience |
-| Senior (8 years or more) | $26,000,000~$32,000,000 | Possible increase when transitioning to store management positions |
+| 初级 (0-3年) | $20,000,000~$24,000,000 | 遵守最低工资标准 |
+| 中级 (4-7年) | $24,000,000~$28,000,000 | 基于经验差异很小 |
+| 高级（8年及以上） | $26,000,000~$32,000,000 | 转任门店管理职位时可能增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-The introduction of AI and unmanned kiosks is rapidly replacing ticket clerk jobs, leading to a continuous decline in the number of positions.
+人工智能和无人自助终端的引入正迅速取代售票员岗位，导致职位数量持续下降。
 
-Starting as a ticket seller, one can gain experience in customer service or store management, but promotion opportunities are limited, and the need for career transition due to automation is growing.
+从售票员起步，可积累客户服务或门店管理经验，但晋升机会有限，因自动化需要职业转型的需求日益增长。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Ticket Sales
-- Simple Customer Response
-- Cash/Card Payment Processing
+- 售票
+- 简单客户响应
+- 现金/卡支付处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Lotto Sales Strategy Development
-- Store environment management
-- Resolve Customer Complaints
+- 彩票销售策略制定
+- 门店环境管理
+- 解决客户投诉
 
-**人类护城河:**
+**人类护城河：**
 
-- Building trust with customers
-- Ability to flexibly respond to situations
-- Understanding and resolving complex inquiries
+- 建立客户信任
+- 灵活应对情况的能力
+- 理解并解决复杂咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Customer Service Skills
-- Lottery Product Knowledge
+- 客户服务技能
+- 彩票产品知识
 - 计算机基础技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Unmanned
-- Kiosk
-- In-Person Service
-- Lottery Ticket Sales
+- 无人化
+- 售货亭
+- 面对面服务
+- 彩票销售
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional employment) | Limited to non-professional work; some sales jobs possible but restricted |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no employment restrictions |
-| Subclass F-4 (Overseas Koreans) | Sales jobs available only to overseas Koreans |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Patient people who enjoy customer service
-- People who adapt well to simple repetitive tasks
-- People interested in personal services
+- 有耐心且喜欢客户服务的人
+- 适应简单重复性工作的人
+- 对个人服务感兴趣的人
 
 **谁不适合**
-- People not sensitive to automation and technological changes
-- People seeking promotion and high income
+- 对自动化和技术变革不敏感的人
+- 追求晋升和高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a ticket seller?**
-答：Initial level approximately 20-24 million KRW before tax, with limited wage growth due to automation.
+**问：售票员的平均工资是多少？**
+答：入门月薪约为税前2000-2400万韩元，因自动化导致薪资增长有限。
 
-**问：Can foreigners work in this job with an E-9 visa?**
-答：Partially possible, but ticket seller is often excluded from E-9 visa eligible industries; mainly suitable for F-2 or F-4 visa holders.
+**问：外国人持E-9签证能否从事该工作？**
+答：部分可行，但售票员通常被排除在E-9签证适用行业之外；主要适合F-2或F-4签证持有者。
 
-**问：Is career advancement possible in this job?**
-答：Promotion to store manager or transfer to similar sales positions is possible, but the outlook is not bright due to job losses from automation.
+**问：这个职业有晋升空间吗？**
+答：可能晋升为店长或转至类似的销售职位，但由于自动化导致的岗位流失，前景不乐观。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as a ticket seller, one can gain experience in customer service or stor
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ticket-seller-and-lottery-ticket-seller/KR)**

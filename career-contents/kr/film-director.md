@@ -48,8 +48,6 @@ An art professional who oversees all processes from planning, directing, filming
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI enhances technical aspects like script analysis, editing, and visual effects in film production, but the director's creative vision and directing capabilities are hard to replace. Rather, utilizing AI tools can increase production efficiency and diversity.
-
 Usually starts as a short film director or assistant director, builds experience and portfolio, debuts as a director, then advances to feature films and commercial films.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Usually starts as a short film director or assistant director, builds experience
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Stay as film/broadcast production professional (director), contract required |
-| Subclass D-10 (Job Seeker Visa (D-10)) | For film-related majors preparing for employment (1 year) |
-| Subclass F-2 (Residence Visa (F-2)) | Long-term stay under point system, film activities allowed |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: An E-7 (Specific Activities) visa is usually issued, and a contract with a fi
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-director/KR)**

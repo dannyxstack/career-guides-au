@@ -52,8 +52,6 @@ Geotechnical engineers in New Zealand conduct geological surveys and design for 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
-
 Can advance to senior geotechnical engineer, project manager, or technical director, or specialize in geotechnical consulting or seismic engineering. Chartered Professional Engineer (CPEng) enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior geotechnical engineer, project manager, or technical direc
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: under the 6-point system, you can earn points through qualifications and registration. It remains open. |
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants with a certified employer offer as a bridging visa, can later transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory but very important; most employers require CPEng or equivalent 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geotechnical-engineer-233212/NZ)**

@@ -1,8 +1,8 @@
-# Construction Stonemason 职业分析 · 韩国
+# 建筑石匠（Construction Stonemason）职业分析 · 韩国
 
-**职业代码: 70151 (KECO)**
+**职业代码：70151 (KECO)**
 
-A construction stonemason is a skilled professional who cuts and shapes stone for exterior walls, floors, and landscaping of buildings. They work across traditional stone masonry to modern construction.
+建筑石匠是熟练的专业人员，负责切割和塑造用于建筑外墙、地板和景观的石材。他们从事从传统石工到现代建筑的各种工作。
 
 
 ---
@@ -11,9 +11,9 @@ A construction stonemason is a skilled professional who cuts and shapes stone fo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业证或等同 | 0年 | $0~$0（No additional cost after compulsory education） |
-| Vocational training (e.g., Polytech) | 1年 | $1,000,000~$5,000,000（Government-funded, or 1~5 million KRW if self-funded） |
-| Combine with acquiring a technician certificate | 2 年 | $500,000~$1,000,000（Including material costs and exam fees） |
+| 高中毕业证或等同 | 0年 | $0~$0（义务教育后无额外费用） |
+| 职业培训（例如理工学院） | 1年 | $1,000,000~$5,000,000（政府资助，或自费100~500万韩元） |
+| 结合获取技师证书 | 2 年 | $500,000~$1,000,000（包括材料费和考试费） |
 
 ---
 
@@ -21,18 +21,18 @@ A construction stonemason is a skilled professional who cuts and shapes stone fo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cultural Heritage Repair Technician (Stonemason) | Cultural Heritage Administration | 必备 | Mandatory for heritage restoration sites, experienced candidates preferred |
-| Stonemason Technician (Seokgong) | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory but advantageous for employment |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Strengthens site safety management skills |
+| 文化遗产修复技师（石匠） | 文化遗产管理局 | 必备 | 历史遗迹修复必需，有经验者优先 |
+| 石匠技师（石工） | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制但就业时有优势 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 强化现场安全管理技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 4,000. Due to an aging workforce, skilled labor is decreasing, but demand for traditional construction and cultural heritage restoration ensures stability in some areas. Few new entrants make competition relatively low.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 4,000。由于劳动力老龄化，熟练劳动力正在减少，但对传统建筑和文化修复的需求确保了某些领域的稳定性。新进入者很少，竞争相对较低。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,95 +40,88 @@ A construction stonemason is a skilled professional who cuts and shapes stone fo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $24,000,000~$30,000,000 | Skilled worker level, high proportion of daily workers |
-| Mid-level (4~7 years) | $35,000,000~$45,000,000 | Skilled workers, stable when converting to permanent employment |
-| Advanced (8+ years) | $50,000,000~$60,000,000 | High-level stonemason, site manager level |
+| 入门级（0~3年） | $24,000,000~$30,000,000 | 技术工人级别，日结工人比例高 |
+| 中级（4~7年） | $35,000,000~$45,000,000 | 熟练工，转为长期就业时稳定 |
+| 高级（8年以上） | $50,000,000~$60,000,000 | 高级石匠、现场经理水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can assist cutting and processing parts of stone work, but traditional stone stacking and stone fitting require precise manual work that is hard to replace, so impact is limited.
+AI和自动化可协助石材切割加工，但传统石砌和石材安装需精确手工操作，难以替代，因此影响有限。
 
-Career progression: skilled worker → advanced stonemason → site manager → self-employed (stone masonry specialist). Obtaining a Cultural Heritage Repair Technician certification enhances expertise.
+职业发展：技工 → 高级石匠 → 现场经理 → 自雇（石匠专家）。获得文化遗产修复技术员证书可提升专业水平。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple stone cutting
+- 简单石材切割
 - 物料搬运与分类
-- Basic finishing work
+- 基础精加工工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Improved stone processing precision
-- Structural analysis and simulation
-- Digital design-linked construction
+- 石材加工精度提升
+- 结构分析与仿真
+- 数字设计关联施工
 
-**人类护城河:**
+**人类护城河：**
 
-- Traditional handcraft skills
-- Cultural heritage restoration know-how
-- On-site customized construction ability
-- Understanding stone properties and experience
+- 传统手工艺技能
+- 文化遗产修复技术
+- 现场定制施工能力
+- 了解石材特性及经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D scanning utilization
-- Basics of BIM software
-- Safety Management and Health Knowledge
-- Korean Traditional Stonework Techniques
-- Cultural Heritage Repair Techniques
+- 3D扫描应用
+- BIM软件基础
+- 安全管理与健康知识
+- 韩国传统石雕技艺
+- 文化遗产修复技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional architecture demand
-- Cultural heritage restoration
-- Landscape stone mason
-- High-end residential exterior
+- 传统建筑需求
+- 文化遗产修复
+- 景观石匠
+- 高端住宅外墙
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers, limited to some construction industries, stay up to 3 years |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled technical personnel, needs recommendation from HRD Korea, stay extension possible |
-| Subclass F-2 (F-2 (Residence)) | Points system, obtainable after long-term stay with recognized skilled technician status |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity and meticulousness
-- People who are not afraid of outdoor/physical labor
-- People with strong interest in traditional techniques and modern architecture
+- 具备出色手部灵活性和细致入微的人
+- 不畏惧户外/体力劳动的人
+- 对传统技术和现代建筑有浓厚兴趣的人
 
 **谁不适合**
-- People who prefer indoor/stable environment
-- People who want office work over precision manual work
+- 喜欢室内/稳定环境的人
+- 喜欢办公室工作而非精细手工的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a stone mason?**
-答：Entry level 24-30 million KRW, mid-level 35-45 million KRW, senior 50-60 million KRW, with high proportion of daily workers causing income fluctuations.
+**问：石匠的平均工资是多少？**
+答：入门级2400-3000万韩元，中级3500-4500万韩元，高级5000-6000万韩元，但临时工比例高导致收入波动。
 
-**问：Can foreigners work as stone masons?**
-答：Yes. They can work with an E-7 visa (Skilled Worker) or E-9 visa (partial), and having a stone mason certificate is advantageous.
+**问：外国人可以做石匠吗？**
+答：可以。他们可以持E-7签证（技术工人）或E-9签证（部分）工作，持有石匠证书更有利。
 
-**问：What certifications are needed to become a stone mason?**
-答：Stone Mason Certificate (not mandatory), Cultural Heritage Repair Technician (required for heritage sites), etc.
+**问：成为石匠需要哪些认证？**
+答：石匠证书（非强制性）、文化遗产修复技术员（古迹要求）等
 
 
 ---
@@ -146,12 +139,12 @@ Career progression: skilled worker → advanced stonemason → site manager → 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-stonemason/KR)**

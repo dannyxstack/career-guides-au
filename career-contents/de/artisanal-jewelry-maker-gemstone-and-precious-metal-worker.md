@@ -55,8 +55,6 @@ This occupation focuses on handcrafting jewelry items, processing gemstones and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 Career path: start as an apprentice or junior craftsman, gain experience, and advance to senior jeweler or department head; experienced craftsmen can open a personal studio or become jewelry designers. Further education (e.g., Master Goldsmith Meister) can expand skills toward teaching or quality inspection.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path: start as an apprentice or junior craftsman, gain experience, and ad
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allows one year of job-seeking in Germany, requires qualification recognition or German B1 |
 | Subclass Job Seeker (Job Seeker Visa (Sec. 20 AufenthG)) | Eligible for a 6-month visa to seek employment, requiring qualification certification and German language skills |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: The master title allows independent studios and training apprentices, boostin
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artisanal-jewelry-maker-gemstone-and-precious-metal-worker/DE)**

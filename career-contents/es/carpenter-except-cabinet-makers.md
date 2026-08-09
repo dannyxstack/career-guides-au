@@ -4,8 +4,6 @@
 
 Carpenters are responsible for installing timber structures, doors and windows, flooring, and furniture on construction sites, using manual and electric tools for cutting, assembly, and fixing. They are one of the core technical trades in Spain's construction industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Carpenters are responsible for installing timber structures, doors and windows, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Junior carpenters can be promoted to foreman or site supervisor, or specialize in ancient building restoration, furniture customization, or industrial formwork systems. After accumulating experience, they can start their own business and undertake contracting projects.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Junior carpenters can be promoted to foreman or site supervisor, or specialize i
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (employed)) | For employed work residence, a Spanish company must provide a work contract and prove that the position is difficult to recruit locally. |
-| Subclass Busqueda empleo (Job Search Visa) | Job-seeking visa: allows you to stay in Spain for 6 months looking for work, and after finding one, you can convert to work residence. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: You can be promoted to foreman, project manager, or start your own business, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter-except-cabinet-makers/ES)**

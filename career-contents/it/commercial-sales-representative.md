@@ -4,8 +4,6 @@
 
 In Italy, commercial sales representatives promote and sell products or services to business clients, maintain customer relationships, and achieve sales targets.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ In Italy, commercial sales representatives promote and sell products or services
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-The role of commercial sales representative is being profoundly reshaped by AI: routine customer data analysis and report generation will be automated, but high-value relationship building, complex negotiations, and strategic account management are enhanced by AI tools. Competition for entry-level positions intensifies, while senior professionals can use AI to improve efficiency and accuracy.
 
 Career progression from junior sales representative to senior sales representative, sales manager, or regional sales director; can also transition to consulting or account management roles.
 
@@ -100,17 +96,9 @@ Career progression from junior sales representative to senior sales representati
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU citizens, requires a university degree and an annual salary of at least approximately €31,000 (2024 standard). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU citizens, requires employer sponsorship through annual quota application. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit issued by the Italian Labour Office, a prerequisite for applying for a work visa. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Accessible via EU Blue Card (requires high salary) or Decreto Flussi quota wo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-sales-representative/IT)**

@@ -4,8 +4,6 @@
 
 Prepress technicians prepare printing materials, including layout, image processing, color correction, and plate making. They are a key link between digital and traditional printing processes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Prepress technicians prepare printing materials, including layout, image process
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Prepress technicians face a dual impact from AI automation and enhancement: repetitive layout and basic color correction will be replaced, but creative decision-making and complex quality control still require humans; skills need to be proactively upgraded.
-
 Junior pre-press technicians can advance to senior technicians or pre-press supervisors, or transition into digital printing or graphic design. Learning digital printing and automated workflows can improve competitiveness.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Junior pre-press technicians can advance to senior technicians or pre-press supe
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with a salary threshold of around €34,000, but pre-press technicians usually do not meet this |
-| Subclass Decreto Flussi (Decreto Flussi quota work visa) | Applies to non-EU low-skilled workers, but pre-press technicians are not included in this quota |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: The industry as a whole is shrinking, but packaging printing and digital prin
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-technician/IT)**

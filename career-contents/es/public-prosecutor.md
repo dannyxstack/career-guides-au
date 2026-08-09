@@ -4,8 +4,6 @@
 
 Prosecutors are state officials who represent the public interest in initiating public prosecutions in criminal cases, supervising the legality of investigations, and participating in some civil litigation. They collaborate with judges and lawyers to ensure judicial fairness.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Prosecutors are state officials who represent the public interest in initiating 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace some prosecutors' document and evidence screening tasks, but core prosecution discretion, court debates, and judicial oversight responsibilities are difficult to automate, resulting in an overall mixed trend.
-
 The career starts as an assistant prosecutor, and after passing assessments, can be promoted to first-level prosecutor or chief prosecutor, ultimately becoming the head of a local or national procuratorial body. Some prosecutors can enter the Judicial High Council through selection.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ The career starts as an assistant prosecutor, and after passing assessments, can
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | You must obtain a work contract from a Spanish employer (country) and pass a labor market test. However, prosecutor positions are usually only open to Spanish and EU citizens, and are extremely difficult for third-country applicants to obtain. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for one year to look for work, but the suitability for prosecutor positions is very low because you need to pass the unified exam. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: One must hold a Spanish recognized Bachelor of Laws degree (Grado en Derecho)
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-prosecutor/ES)**

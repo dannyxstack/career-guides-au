@@ -53,8 +53,6 @@ Wood pattern makers plan, lay out, and build wooden units or split patterns for 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core manual skills of wooden model makers are rapidly replaced by digital modeling and CNC machining; AI/CAD can auto-generate models; demand has greatly shrunk, with only limited opportunities in high-end custom and restoration fields.
-
 Starts with an apprenticeship, progresses to senior model maker or supervisor, and can move into mould design or CNC programming. Some start their own model workshops.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Starts with an apprenticeship, progresses to senior model maker or supervisor, a
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Automation reduces job numbers, but precision casting and custom model sector
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patternmakers-wood/US)**

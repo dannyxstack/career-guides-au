@@ -1,8 +1,8 @@
-# Building Construction Supervisor 职业分析 · 韩国
+# 建筑监理（Building Construction Supervisor）职业分析 · 韩国
 
-**职业代码: 14025 (KECO)**
+**职业代码：14025 (KECO)**
 
-A professional who supervises and inspects whether building construction is carried out in accordance with design drawings and specifications, overseeing quality, safety, and regulatory compliance.
+监督和检查建筑施工是否符合设计图纸和规范，负责质量、安全和合规性的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who supervises and inspects whether building construction is carr
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (Architecture, Civil Engineering) | 2 年 | $10,000,000~$15,000,000（National/public institutions; private institutions are twice the cost） |
-| Bachelor's degree (Architectural Engineering) | 4年 | $20,000,000~$40,000,000（Includes tuition and living expenses） |
-| 硕士课程 | 2 年 | $15,000,000~$25,000,000（Based on general graduate school） |
+| 副学士学位（建筑、土木工程） | 2 年 | $10,000,000~$15,000,000（国家/公共机构；私营机构费用为两倍） |
+| 学士学位（建筑工程） | 4年 | $20,000,000~$40,000,000（包括学费和生活费） |
+| 硕士课程 | 2 年 | $15,000,000~$25,000,000（基于一般研究生院） |
 
 ---
 
@@ -21,19 +21,19 @@ A professional who supervises and inspects whether building construction is carr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Building Construction Supervisor | Korean Institute of Registered Architects | 必备 | From architectural intern to supervisor level |
-| Completion of practical training in building supervision | Korea Infrastructure Safety Corporation, etc. | 必备 | Mandatory training |
-| Architectural engineer, Civil engineer | Human Resources Development Service of Korea | 可选 | Additional points, not mandatory |
-| Architect license | Ministry of Land, Infrastructure and Transport | 可选 | Advantageous for supervisor grade |
+| 建筑监理 | 韩国注册建筑师协会 | 必备 | 从建筑实习生到主管级别 |
+| 完成建筑监督实践培训 | 韩国基础设施安全公团等 | 必备 | 强制性培训 |
+| 建筑工程师，土木工程师 | 韩国人力资源开发服务局 | 可选 | 加分项，非强制性 |
+| 建筑师执照 | 国土交通省 | 可选 | 对主管级别有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 25,000. Sensitive to fluctuations in construction investment, but employment is expected to remain stable due to increased demand for large buildings and remodeling, as well as strengthened safety management.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 25,000。对建筑投资波动敏感，但由于大型建筑和翻新需求增加以及安全管理的加强，就业预计将保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,67 +41,60 @@ A professional who supervises and inspects whether building construction is carr
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $30,000,000~$40,000,000 | Assistant Supervisor level |
-| Mid-level (4~9 years) | $40,000,000~$60,000,000 | Senior Supervisor |
-| 资深（10年以上） | $60,000,000~$90,000,000 | Supervisor/PM |
+| 入门级（0~3年） | $30,000,000~$40,000,000 | 助理主管级别 |
+| 中级（4~9年） | $40,000,000~$60,000,000 | 高级主管 |
+| 资深（10年以上） | $60,000,000~$90,000,000 | 主管/项目经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates repetitive tasks like document review and code compliance, but on-site judgment and responsibility remain human domains, leading to some task reduction.
+AI自动化重复性任务如文件审查和规范合规，但现场判断和责任仍属于人类领域，导致部分任务减少。
 
-Progression from junior supervisor → intermediate (responsible supervisor) → senior (supervisor/PM), advancing to construction companies, supervision service firms, public institutions, etc. Experience and qualifications are key to promotion.
+从初级主管晋升为中级（责任主管）再到高级（主管/项目经理），进入建筑公司、监理服务公司、公共机构等。经验和资质是晋升的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic review of design drawings
-- Automatic detection of code violations
-- Schedule preparation
+- 设计图纸自动审查
+- 自动检测代码违规
+- 日程安排
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote on-site inspection using drones and CCTV
-- AI-based defect prediction
-- 3D scanning and BIM integration
+- 使用无人机和闭路电视进行远程现场检查
+- 基于AI的缺陷预测
+- 3D扫描与BIM集成
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site judgment
-- Legal responsibility
-- Stakeholder coordination skills
+- 现场判断
+- 法律责任
+- 利益相关方协调能力
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM
-- Drone Operation
-- Data Analysis
-- Smart Construction S/W
+- 无人机操作
+- 数据分析
+- 智慧建筑软件
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction
-- Enhanced safety management
-- Remodeling
-- Reconstruction
+- 智慧建造
+- 加强安全管理
+- 翻新
+- 重建
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled construction workers, applicable to E-7-1 |
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled construction laborers; not suitable for supervisors |
-| Subclass F-2 (F-2-7 (Residence)) | E-7 can be converted via points system |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -109,25 +102,25 @@ Progression from junior supervisor → intermediate (responsible supervisor) →
 
 **谁适合**
 - 注重细节和责任心强的人
-- Those interested in building regulations
-- People comfortable with field activities
+- 对建筑法规感兴趣者
+- 适合现场活动的人
 
 **谁不适合**
 - 不喜欢户外工作的人
-- People who find repetitive paperwork tedious
+- 觉得重复文书工作枯燥的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a building inspection engineer?**
-答：For beginners with under 3 years of experience, about 30-40 million KRW; for mid-level with 4-9 years, 40-60 million KRW; for senior with 10+ years, 60-90 million KRW.
+**问：建筑检查工程师的年均薪资是多少？**
+答：初学者（3年以下经验）约3000-4000万韩元；中级（4-9年）4000-6000万韩元；高级（10年以上）6000-9000万韩元。
 
-**问：What visa does a foreigner need to work as a building inspection engineer?**
-答：The E-7 (Specific Activities) visa is suitable, specifically for the construction industry (E-7-1). Certain experience and Korean language proficiency are required.
+**问：外国人担任建筑检查工程师需要什么签证？**
+答：适合E-7（特定活动）签证，特别是建筑业（E-7-1）。需具备一定经验和韩语能力。
 
-**问：What is the career progression for this job?**
-答：Typically, promotion from inspection assistant → responsible inspector → supervisor (PM), with a licensed architect qualification or master's degree being advantageous.
+**问：这个工作的职业发展路径是什么？**
+答：通常从检查助理晋升为责任检查员再到主管（PM），持有建筑师执照或硕士学位者优先。
 
 
 ---
@@ -145,12 +138,12 @@ Progression from junior supervisor → intermediate (responsible supervisor) →
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-construction-supervisor/KR)**

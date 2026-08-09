@@ -52,8 +52,6 @@ Responsible for all pre-departure preparations, including flight planning, load 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of flight preparers involves extensive data processing and coordination tasks. AI can significantly improve efficiency, but its core responsibilities involve security, compliance, and real-time decision-making, making full automation difficult in the short term. The overall risk for the position is moderate to low, and the entry threshold may be slightly raised.
-
 Advance from junior flight preparer to senior preparer, team leader, or dispatch manager. After gaining experience, you can move on to positions in airline operations control centers or airport management.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Advance from junior flight preparer to senior preparer, team leader, or dispatch
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employer-sponsored work residency employed by Air France-related companies |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, such as those with a master's degree or above, or senior positions |
-| Subclass Carte bleue UE (EU Blue Card) | Requires annual salary ≥ €53,836.50 (2024 standard), usually met by senior positions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually, a BTS Aéronautique or a relevant aviation diploma is required. Some
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flight-preparation-agent/FR)**

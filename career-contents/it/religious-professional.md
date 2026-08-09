@@ -4,8 +4,6 @@
 
 Religious professionals in Italy engage in the dissemination of religious teachings, conducting religious ceremonies, religious education, and spiritual guidance, serving Catholic and other religious groups.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Religious professionals in Italy engage in the dissemination of religious teachi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of clergy such as doctrinal interpretation, emotional comfort, and leading ceremonies are difficult to automate, but administrative tasks, sermon text generation, and faith education will be significantly enhanced or partially replaced by AI, leading to job transformation rather than disappearance.
-
 Career development paths include from assistant clergy to bishop or religious leader, some may enter the Vatican or international religious organizations. Promotion usually requires long-term service, further theological study, and internal selection by the church.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career development paths include from assistant clergy to bishop or religious le
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Work Visa (Work Visa (subordinate employment)) | Applicable to foreign religious workers employed by Italian religious institutions, requiring the employer to apply for Nulla Osta. |
-| Subclass Religious Worker Visa (Visa for Religious Workers) | For clergy, religious order members, etc., a religious organization guarantee is required to apply for a residence permit. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: From assistant clergy to bishop or religious leader, also possible to enter t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/religious-professional/IT)**

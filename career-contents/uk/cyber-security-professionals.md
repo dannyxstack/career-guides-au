@@ -53,8 +53,6 @@ Design, implement, test, and maintain cybersecurity systems; track, investigate,
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
-
 Can progress from junior security analyst to senior security engineer, security architect, or CISO; also transition to penetration testing or security consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior security analyst to senior security engineer, security 
 | Subclass Global Talent (Global Talent visa) | For individuals with outstanding achievements or leadership in cybersecurity, no employer sponsorship required |
 | Subclass Graduate (Graduate visa) | Applies to international students who have completed a degree in the UK, allowing them to stay and work in the UK for 2 years (3 years for PhD) after graduation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: A degree is not mandatory, but a computer-related degree is usually required.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cyber-security-professionals/UK)**

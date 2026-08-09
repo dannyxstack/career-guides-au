@@ -53,8 +53,6 @@ Retail pharmacists work in community pharmacies, dispensing prescription medicin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on retail pharmacists is mixed: automation will take over repetitive tasks like prescription review and inventory management, but AI-assisted diagnosis and personalized medication advice will improve service quality, while clinical consultation and patient care still rely heavily on human judgment.
-
 Junior pharmacists can advance to pharmacy manager or regional supervisor of a chain pharmacy, or specialize in clinical pharmacy or open an independent pharmacy. After registration, continuous professional development is required to maintain licensure.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior pharmacists can advance to pharmacy manager or regional supervisor of a c
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent visa, state quotas, extra 5 points |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence, requiring a skills assessment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to pharmacy manager, regional pharmacy supervisor, or specialize 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-pharmacist/AU)**

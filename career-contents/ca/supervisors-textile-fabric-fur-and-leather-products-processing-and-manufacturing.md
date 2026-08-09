@@ -53,8 +53,6 @@ Oversees textile, fabric, fur, and leather product processing and manufacturing,
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of Textile, Fabric, Fur and Leather Product Processing and Manufacturing Supervisor is moderately affected by AI and automation: repetitive monitoring and scheduling tasks are easily replaced, but personnel management, quality control decisions, and complex problem-solving still rely on human experience, overall risk moderate.
-
 Progression from production line worker to supervisor, then to production manager or plant manager. Requires accumulation of management experience and industry knowledge; some roles may require further education for management skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progression from production line worker to supervisor, then to production manage
 | Subclass LMIA (Labour Market Impact Assessment) | Employer must demonstrate inability to recruit local workers; supports work permit after approval |
 | Subclass PNP (Provincial Nominee Program) | Some provinces may nominate textile supervisors with employer offers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Unlikely. This occupation is not in the high-skilled category; mainly relies 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-textile-fabric-fur-and-leather-products-processing-and-manufacturing/CA)**

@@ -4,8 +4,6 @@
 
 Operate machines to clean, dehair, soften, and perform other pretreatment processes on hides and leather, preparing them for subsequent tanning or processing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate machines to clean, dehair, soften, and perform other pretreatment proces
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Fur and leather pre-treatment machine operators (NL) face high automation risk. AI-driven machine vision and robots can take over most repetitive tasks like cleaning, dehairing, and softening, leading to a significant decline in job demand.
-
 Junior operators can advance to senior operators or team leaders, or shift to leather product quality inspection or maintenance roles, but overall career progression in the industry is limited.
 
 **Tasks most exposed to AI:**
@@ -96,16 +92,9 @@ Junior operators can advance to senior operators or team leaders, or shift to le
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-skilled migrants, but this occupation typically does not meet the salary threshold (minimum annual salary of about €5,500/month in 2024) unless promoted to a management role. |
-| Subclass EU Blue Card (EU Blue Card) | High education and high salary requirements; this occupation often does not meet the criteria. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +135,12 @@ A: Difficult. This occupation is not in shortage, and salaries typically do not 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fur-and-leather-preparing-machine-operator/NL)**

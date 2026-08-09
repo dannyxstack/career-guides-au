@@ -4,8 +4,6 @@
 
 Dentists are responsible for diagnosing, preventing, and treating oral diseases and dental deformities, performing dental surgeries, restorations, implants, and other procedures. It is a highly paid and strictly regulated medical profession in Spain.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Dentists are responsible for diagnosing, preventing, and treating oral diseases 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core clinical procedures for dentists are protected by law and physically restricted, making it difficult for AI to replace; However, diagnostics, image analysis, and administrative tasks will be heavily automated, and entry-level positions will become more competitive due to the widespread adoption of AI-assisted tools.
-
 Junior dentists can work in general clinics or public hospitals; After gaining experience, you can open a private clinic or become a specialist dentist (such as orthodontics or implants). Highly qualified individuals can also engage in teaching or research.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior dentists can work in general clinics or public hospitals; After gaining e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed professionals) | Employed by a clinic or hospital in Spain, obtaining work residency through company sponsorship. |
-| Subclass Altamente cualificad (EU Blue Card / Highly Skilled Professional (Ley 14/2013)) | High-skilled professional visa, requires academic qualification assessment and annual income of at least approximately 33,908 euros (2024 standard). |
-| Subclass Busqueda empleo (Job search visa for graduates) | After completing your diploma in Spain, you can apply for a job search visa for up to one year, making it easier to find a formal job. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You must hold a Spanish recognized dental degree (or a foreign degree through
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dentist/ES)**

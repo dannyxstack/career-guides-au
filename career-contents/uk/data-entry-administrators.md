@@ -51,8 +51,6 @@ A data entry administrator is responsible for entering information into database
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Data entry clerks face high risk of automation; routine data entry and proofreading tasks will be replaced by AI, with entry-level roles significantly narrowing.
-
 Junior data entry clerks can advance to senior data administrators, team supervisors, or data analysts. By obtaining database management or data analysis certifications, they can move into more specialised information management roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior data entry clerks can advance to senior data administrators, team supervi
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to senior data administrator, data analyst, or office manager, or
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-entry-administrators/UK)**

@@ -4,8 +4,6 @@
 
 As a managerial position overseeing the curriculum, student guidance, staff personnel, and school operations in elementary schools, they serve as leaders in the educational field.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ As a managerial position overseeing the curriculum, student guidance, staff pers
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI and automation are very unlikely to replace the core duties of principals/vice-principals (educational leadership, personnel management, external cooperation), but administrative tasks (scheduling, data analysis, report writing) may be partially automated, improving work efficiency.
-
 After working as an elementary school teacher for 10–15 years or more, one obtains the vice principal qualification and is appointed as vice principal. Then, through evaluation, one can be promoted to principal. This is a separate system from general public official careers.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After working as an elementary school teacher for 10–15 years or more, one obt
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Employment for elementary school principals and vice principals is highly restricted for foreigners, and practically impossible even with an E-7 visa (only Korean nationals can become public school teachers). |
-| Subclass F-2 (Residence (F-2)) | Long-term foreign residents with F-2 visas may have a chance to work as principals or vice principals at private schools, but such cases are extremely rare. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Only Korean nationals can become public elementary school principals, and cas
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-school-principal-and-vice-principal/KR)**

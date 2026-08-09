@@ -52,8 +52,6 @@ Responsible for designing, planning, and managing architectural and civil engine
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering sees mixed AI impact: back-office tasks like design calculations and document generation will be significantly automated, but human roles such as site supervision, regulatory compliance, and complex coordination remain solid; competition for entry-level jobs intensifies, while senior engineers become more efficient with AI tools.
-
 You can advance from project engineer to project manager, technical director, or enter enterprise management; Alternatively, master's or doctoral studies can be pursued to research or teaching.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from project engineer to project manager, technical director, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree + work contract, with a salary threshold of about €33,908 per year (2023). |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For highly skilled talent, it offers rapid approval and is suitable for shortage occupations. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Regular work residence requires company sponsorship, and can be converted to long-term status. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Steady growth, driven by infrastructure upgrades and renewable energy project
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-and-civil-engineering-engineer/ES)**

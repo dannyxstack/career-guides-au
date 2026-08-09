@@ -53,8 +53,6 @@ Event planners are responsible for the full-cycle planning and execution of corp
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
-
 Entry-level can start as event coordinator or assistant, then advance to event manager or senior planner. Skills in digital event technology (e.g., hybrid event platforms) and budget management can accelerate promotion. Some senior professionals may move into consulting, exhibition management, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level can start as event coordinator or assistant, then advance to event m
 | Subclass AEWV (Accredited Employer Work Visa) | Most common work visa route, requires a job with an accredited employer and meeting the median wage. May apply for residency after 2 years. |
 | Subclass PSWV (Post-study Work Visa) | After obtaining a Level 7 or higher degree in NZ, you can apply for a 1-3 year open work visa to gain experience, then transition to skilled migration. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Strong industry recovery, especially major exhibition projects in Auckland an
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/conference-and-event-organiser/NZ)**

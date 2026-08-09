@@ -4,8 +4,6 @@
 
 A professional who oversees the planning, production, editing, and direction of programs for television, radio, and online broadcasting. A career requiring creativity and leadership.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who oversees the planning, production, editing, and direction of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI assists some tasks like planning, editing, and data analysis in broadcasting direction, but creative planning and director roles are hard to replace, leading to mixed impacts.
-
 Typically start as a station PD, then advance to senior PD, team leader, or department head based on experience. Founding an independent production company or transitioning to freelance is also common.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Typically start as a station PD, then advance to senior PD, team leader, or depa
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if invited by broadcasters as experienced director, but competition fierce. |
-| Subclass D-10 (Job-seeking) | Available as job-seeking visa for broadcasting graduates (master's+) to find directing jobs. |
-| Subclass F-2 (Residence) | No work restrictions for long-term residence, but language & cultural barriers are high due to broadcasting's uniqueness. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: A broadcasting-related degree, along with station internships and assistant P
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tv-radio-online-broadcast-director/KR)**

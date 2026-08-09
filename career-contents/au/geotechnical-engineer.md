@@ -53,8 +53,6 @@ Geotechnical engineers focus on the analysis of soil, rock and subsurface condit
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
-
 GIS technology and 3D geological modelling are becoming widespread, and automated monitoring equipment is reducing on-site workload, but engineering judgement and certification responsibilities still require a licensed geotechnical engineer. Salaries carry a clear premium in underground engineering and mining geotechnical specialisations.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ GIS technology and 3D geological modelling are becoming widespread, and automate
 | Subclass 186 (ENS) | Permanent residency pathway, engineering shortage occupation |
 | Subclass 190 (Skilled Nominated) | State nomination, open across multiple states |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: It is a long-term shortage occupation, with Seek consistently listing 150–2
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geotechnical-engineer/AU)**

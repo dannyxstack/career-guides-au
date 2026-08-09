@@ -54,8 +54,6 @@ ICT Customer Support Officers provide remote or on-site technical assistance to 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-IT user support technicians face a mixed impact from AI: routine troubleshooting and request handling are being automated, but demand for complex problem diagnosis and interpersonal collaboration is increasing, evolving the role towards higher-value support.
-
 Junior support officers can advance to senior support specialists or team leaders, and then transition to system administration or cybersecurity. Holding CompTIA A+, Microsoft certifications, or Cisco CCNA can accelerate career progress. Some move into IT project management or solution architecture.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior support officers can advance to senior support specialists or team leader
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to senior support engineer, IT team lead, or transition to system
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-customer-support-officer/NZ)**

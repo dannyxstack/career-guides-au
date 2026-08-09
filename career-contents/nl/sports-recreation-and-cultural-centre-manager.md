@@ -4,8 +4,6 @@
 
 Responsible for managing sports, recreation, or cultural centres, including facility operations, event planning, and team leadership, ensuring efficient operation and meeting community needs.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for managing sports, recreation, or cultural centres, including faci
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance the work of sports, entertainment, and cultural center managers, especially in data-driven operations and automation of administrative tasks, but core management responsibilities and human interaction are hard to replace; the overall outlook is optimistic.
-
 Can progress from junior supervisor to center manager, then to regional operations director or community services director, requiring management experience and cross-departmental coordination skills.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can progress from junior supervisor to center manager, then to regional operatio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to management roles with salary above threshold (approx. €5,331/month in 2024), requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for annual salary above €5,331/month, requiring higher education degree and employer contract. |
-| Subclass Orientation Year (Orientation Year) | Graduates from the Netherlands or top universities may apply, valid for one year, allowing free job seeking. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Usually requires a degree from a university of applied sciences or vocational
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-recreation-and-cultural-centre-manager/NL)**

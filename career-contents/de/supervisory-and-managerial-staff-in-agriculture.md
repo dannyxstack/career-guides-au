@@ -51,8 +51,6 @@ Responsible for agricultural production planning, supervision, and management, i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Can progress from agricultural technician to farm supervisor, then to farm manager or farm owner. Further education can lead to a degree in agricultural economics or engineering, opening pathways to consulting or management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from agricultural technician to farm supervisor, then to farm manag
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification and employer sponsorship, applicable to dual system trainees |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, job search first; suitable for those with an agricultural background. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Apply via EU Blue Card (requires university degree) or Skilled Immigration Ac
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisory-and-managerial-staff-in-agriculture/DE)**

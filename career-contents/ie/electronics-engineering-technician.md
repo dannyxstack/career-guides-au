@@ -51,8 +51,6 @@ Electronic engineering technicians design, test, and repair electronic devices a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on electronic engineering technician tasks is mixed: automated testing and data recording can be replaced, but complex fault diagnosis, custom design, and system integration still require human experience, making it a mixed blessing.
-
 Career progression paths include advancement from junior technician to senior technician, team leader, or project engineer. After obtaining an engineering bachelor's degree through continuing education, one can transition to R&D or management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include advancement from junior technician to senior te
 | Subclass General Employment P (General Employment Permit) | Applicable for jobs with an annual income of over 27,000 euros; a job offer must be obtained first; labor market testing may be exempted. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with an annual income of approximately €37,000 or more (if eligible), enabling fast-track EU long-term residence. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a QQI Advanced Certificate (2 years) or a relevant engineeri
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineering-technician/IE)**

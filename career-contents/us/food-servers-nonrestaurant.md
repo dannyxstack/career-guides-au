@@ -53,8 +53,6 @@ Providing food service in non-restaurant settings such as hotels, hospitals, nur
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Non-restaurant food servers will be affected by both AI automation and augmentation: simple delivery tasks are taken over, but demand for customer interaction and complex coordination skills increases.
-
 Limited advancement path; possible promotion to supervisor or food service manager, or transition to restaurant server or food preparation roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Limited advancement path; possible promotion to supervisor or food service manag
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: May advance to supervisor or food service manager, but usually requires addit
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-servers-nonrestaurant/US)**

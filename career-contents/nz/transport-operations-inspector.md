@@ -52,8 +52,6 @@ Transport Operations Inspectors in New Zealand oversee and inspect the operation
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI automation on transport inspector jobs is mixed: standardized document review and record checking may be taken over by AI, but tasks involving physical safety inspections and on-site judgment still rely on human experience; AI enhancement tools can improve efficiency, but legal liability transfer is limited.
-
 Junior inspectors can start as assistants or in compliance roles, gain experience, and advance to senior inspector or team supervisor. Some transition to safety management consultants or transport company executives. Obtaining New Zealand National Transport Safety certification (e.g., NTA) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior inspectors can start as assistants or in compliance roles, gain experienc
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If the employer meets Green List requirements, can apply for residency after 2 years of work. |
 | Subclass AEWV (Accredited Employer Work Visa) | Most common work visa pathway, requires accredited employer sponsorship |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: New Zealand transport safety regulations are tightening, creating steady dema
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-operations-inspector/NZ)**

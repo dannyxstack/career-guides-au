@@ -56,8 +56,6 @@ Police officers maintain public order, prevent and investigate crimes, and enfor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on police roles is mixed: automation can handle paperwork and surveillance analysis, but core law enforcement and community interaction require human judgment and empathy.
-
 Career progression usually starts as a patrol officer, advancing to senior roles such as sergeant or inspector through experience and promotion exams. Specialisation areas include criminal investigation, drug enforcement, cybersecurity, or community policing.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression usually starts as a patrol officer, advancing to senior roles
 |---|---|
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to sponsor foreign police officers, but this is rare as most positions require citizenship or permanent residency |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Police careers typically do not directly support skilled migration, as most p
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/police-officers-except-commissioned-42100/CA)**

@@ -4,8 +4,6 @@
 
 A specialist who interprets medical images to diagnose diseases and plans/executes radiation treatments.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist who interprets medical images to diagnose diseases and plans/execut
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is introduced as an image reading aid, improving work efficiency, but final diagnosis and treatment decisions remain the role of human doctors. The effect is expected to be more of job reinforcement than job reduction.
-
 General practitioner → Radiology resident (4 years) → Specialist → Subspecialist (internship) or career advancement to university hospital professor/private practitioner.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ General practitioner → Radiology resident (4 years) → Specialist → Subspec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeting foreign doctors in specialized fields, recruitment needed by domestic medical institutions |
-| Subclass F-2 (Residence) | After a certain period of stay, possible to convert to F-5 Permanent Residence |
-| Subclass F-5 (Permanent Residence) | Targeting specialists for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: 6 years of medical school (including graduate medical school) plus 4 years of
 | Work intensity | very high (★★★★½) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiologist/KR)**

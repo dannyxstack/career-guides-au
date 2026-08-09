@@ -52,8 +52,6 @@ Responsible for painting, decorating, and wallpapering the interior and exterior
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
-
 You can advance from apprentice (Ayudante) to skilled worker (Oficial), then become foreman (Capataz) or self-employed contractor. After gaining experience, you can specialize in decorative painting or project management.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can advance from apprentice (Ayudante) to skilled worker (Oficial), then bec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | After obtaining a work contract with a Spanish employer, you can apply for employment residence, which is suitable for applicants who already have an offer. |
-| Subclass Cuenta propia (Self-Employment Visa) | To start a painting business in Spain as self-employed, a business plan must be submitted. |
-| Subclass Busqueda empleo (Job Search Visa) | For graduates with higher education or vocational training, you can stay in Spain for one year to look for a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: No certification is required, but having an FP diploma or vocational qualific
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painters-and-wallpaperers/ES)**

@@ -52,8 +52,6 @@ Electronic engineers research, design, supervise installation, and manage operat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hardware design and testing tasks for electronic engineers face automation pressure, but system integration, innovative design, and cross-disciplinary collaboration are significantly amplified by AI, presenting both risks and opportunities.
-
 Start as a junior design engineer and progress to senior engineer, technical lead, or project manager. May also transition to system architect or R&D specialist; registration with the UK Engineering Council can enhance career development.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Start as a junior design engineer and progress to senior engineer, technical lea
 | Subclass Global Talent (Global Talent visa) | Applicable to applicants with outstanding achievements or potential in the field of electronic engineering, no employer sponsorship required but must gain recognition |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work in the UK for 2 years (3 years for PhD) after completing their degree, can switch to Skilled Worker after gaining experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can progress from junior design engineer to senior engineer, technical manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineers-professional/UK)**

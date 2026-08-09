@@ -51,8 +51,6 @@ Broadcast and audiovisual technicians install, operate, and maintain broadcast, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
-
 Usually start as assistant technician, can advance to senior technician or supervisor with experience, or move towards production director or technical management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as assistant technician, can advance to senior technician or super
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: With the growth of streaming and digital media, employment opportunities rema
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcasting-and-audiovisual-technician/IE)**

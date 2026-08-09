@@ -1,10 +1,8 @@
-# Comedian 职业分析 · 韩国
+# 喜剧演员（Comedian）职业分析 · 韩国
 
-**职业代码: 41624 (KECO)**
+**职业代码：41624 (KECO)**
 
-A profession that plans and performs various humor content such as comedy, satire, and parody to entertain audiences on TV, performance venues, and online platforms.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+一种在电视、演出场所和在线平台上策划并表演喜剧、讽刺、模仿等各种幽默内容以娱乐观众的职业。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that plans and performs various humor content such as comedy, satir
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or less | 0年 | $0~$0（No required education） |
-| College/University Theater and Film Department | 2 年 | $10,000,000~$30,000,000（Based on tuition fees） |
-| Comedy academy/workshop | 1年 | $3,000,000~$10,000,000（Various short-term courses） |
+| 高中文凭或以下 | 0年 | $0~$0（无学历要求） |
+| 学院/大学戏剧电影系 | 2 年 | $10,000,000~$30,000,000（按学费计算） |
+| 喜剧学院/工作坊 | 1年 | $3,000,000~$10,000,000（各类短期课程） |
 
 ---
 
@@ -23,17 +21,17 @@ A profession that plans and performs various humor content such as comedy, satir
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast actor (comedian) career | Broadcasting station/production company | 可选 | Substituted by career certificate and portfolio |
-| Laughter therapy certificate | Korea Laughter Therapy Association | 可选 | Optional, helps expand activity scope |
+| 广播演员（喜剧演员）职业 | 广播台/制作公司 | 可选 | 以职业证书和作品集替代 |
+| 笑声疗法证书 | 韩国笑声治疗协会 | 可选 | 可选，有助于扩大活动范围 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,500. The growth of digital content markets like YouTube and OTT has expanded activity channels, but offline performance demand is recovering post-pandemic, and market competition is very fierce.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,500。YouTube和OTT等数字内容市场的增长扩大了活动渠道，但线下演出需求在疫情后恢复，市场竞争非常激烈。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,97 +39,89 @@ A profession that plans and performs various humor content such as comedy, satir
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $15,000,000~$35,000,000 | Many irregular and freelance workers, income varies greatly |
-| 中级（4-9年） | $40,000,000~$80,000,000 | Includes fixed broadcast appearances and performance tour revenue |
-| Advanced (10+ years) | $99,999,999 | Star-level, includes broadcast hosting and advertising model revenue |
+| 初级（0-3年） | $15,000,000~$35,000,000 | 许多非正规和自由职业者，收入差异大 |
+| 中级（4-9年） | $40,000,000~$80,000,000 | 包括固定广播出镜和巡演收入 |
+| 高级（10年以上） | $99,999,999 | 明星级别，包括广播主持和广告模特收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist comedy writers in generating material, video editing, and subtitle creation, but the improvisation, facial expressions, voice tonality, and rapport with the audience by human actors are difficult to replace with AI, so the overall replacement risk is relatively low.
+AI可以协助喜剧编剧生成素材、视频编辑和字幕制作，但人类演员的即兴表演、面部表情、语音语调以及与观众的互动难以被AI取代，因此整体替代风险相对较低。
 
-Begins by building a repertoire of personal acts and starting a career through broadcast auditions, stand-up club performances, or SNS content. Success can lead to fixed roles on variety shows, hosting talk shows, and performance tours.
+从建立个人表演 repertoire 开始，通过广播试镜、喜剧俱乐部表演或社交媒体内容开启职业生涯。成功后可获得综艺节目固定角色、主持脱口秀和巡回演出。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple subtitle generation
-- Basic script drafting
-- Part of video editing
-- Automatic insertion of laugh effects
+- 简单字幕生成
+- 基本脚本起草
+- 视频编辑的一部分
+- 自动插入笑声效果
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Rapid idea material discovery
-- Audience reaction analysis
-- Personalized comedy feedback
-- Multi-platform content distribution
+- 快速发现创意素材
+- 观众反应分析
+- 个性化喜剧反馈
+- 多平台内容分发
 
-**人类护城河:**
+**人类护城河：**
 
-- Live improvisational acting
-- Emotional connection with the audience
-- Understanding the context of social satire and parody
-- Original sense of humor
+- 现场即兴表演
+- 与观众的情感联系
+- 理解社会讽刺和模仿的背景
+- 原创幽默感
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Online content planning
-- Short-form video production
-- Using AI tools (ChatGPT, video editing)
-- Event Planning and Marketing
+- 在线内容策划
+- 短视频制作
+- 使用AI工具（ChatGPT、视频编辑）
+- 活动策划与营销
 
-**主要增长方向:**
+**主要增长方向：**
 
-- YouTube comedy
-- Short-form content
-- Stand-up comedy
-- OTTT variety shows
+- YouTube喜剧
+- 短视频内容
+- 单口喜剧
+- OTTT综艺节目
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Cultural/artistic professional talent, requires inviting organization, possible to work as comedian but rare |
-| Subclass F-2 (Residence) | Long-term stay possible, few activity restrictions, must meet income requirements |
-| Subclass F-4 (Overseas Korean) | For ethnic Koreans, free activities, limited visa |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with a great sense of humor
-- Someone without stage fright or who has overcome it
-- Someone who is not sensitive to feedback and keeps challenging themselves
+- 有幽默感的人
+- 不怯场或已克服怯场的人
+- 对反馈不敏感并持续挑战自我的人
 
 **谁不适合**
-- Someone who dislikes being in front of others
-- Someone who prefers a planned and stable life
+- 不喜欢在人前的人
+- 喜欢有计划、稳定生活的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a comedian?**
-答：Entry-level is low at 15-35 million KRW/year, but mid-level ranges from 40 million to over 100 million KRW, and stars can earn hundreds of millions. Income disparity is very large.
+**问：喜剧演员的平均薪资是多少？**
+答：入门级收入低，约1500-3500万韩元/年，但中级范围在4000万至1亿韩元以上，明星可达数亿韩元。收入差距非常大。
 
-**问：Can a foreigner work as a comedian in Korea?**
-答：It is possible with an E-7 visa, but Korean language proficiency and cultural understanding are essential, and actual cases are very rare. The F-4 (Overseas Korean) or F-2 (Residence) visa is more advantageous.
+**问：外国人能在韩国当喜剧演员吗？**
+答：可能通过E-7签证，但韩语能力和文化理解至关重要，实际案例极少。F-4（在外同胞）或F-2（居住）签证更有利。
 
-**问：Do I have to go to university to become a comedian?**
-答：It is not mandatory. There are various entry routes such as open auditions by broadcasters, SNS activities, and stand-up club experience; skill and persistence are more important than academic background.
+**问：我必须上大学才能成为喜剧演员吗？**
+答：并非强制要求。进入途径多样，如广播公司的公开试镜、SNS活动、单口俱乐部经验；技能和毅力比学历更重要。
 
 
 ---
@@ -149,12 +139,12 @@ Begins by building a repertoire of personal acts and starting a career through b
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/comedian/KR)**

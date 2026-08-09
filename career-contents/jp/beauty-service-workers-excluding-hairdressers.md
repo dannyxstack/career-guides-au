@@ -4,8 +4,6 @@
 
 Occupations that provide beauty treatments such as estheticians, nail technicians, and eyelash technicians requiring no cosmetology license.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Occupations that provide beauty treatments such as estheticians, nail technician
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation is limited, but AI may be used to assist with appointment management and counseling. Since treatments require human hands, complete replacement is difficult.
-
 After acquiring skills at a school or vocational school, find employment at a salon. With experience, there are paths to independent practice or salon management.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After acquiring skills at a school or vocational school, find employment at a sa
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (fields other than food service & accommodation)) | Not applicable in the beauty industry, so currently unobtainable. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Not applicable to foreign beauty workers; difficult to qualify unless a beautician license is required. |
-| Subclass 経営・管理 (Business Manager) | Possible to reside as a beauty salon owner. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +132,12 @@ A: First, gain experience at a salon to acquire skills and clients. Then, secure
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beauty-service-workers-excluding-hairdressers/JP)**

@@ -1,8 +1,8 @@
 # 注册护士（Registered Nurse）职业分析 · 日本
 
-**职业代码: 133 (JSCO)**
+**职业代码：133 (JSCO)**
 
-A professional who assists in patient care and provides nursing care under physician instructions. Includes Licensed Practical Nurse (LPN).
+协助患者护理并根据医嘱提供护理服务的专业人员。包括持证执业护士（LPN）。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who assists in patient care and provides nursing care under physi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Nursing School (3-year program) | 3年 | $2,000,000~$5,000,000（Tuition varies greatly by region and school.） |
-| Bachelor of Nursing (4-year program) | 4年 | $4,000,000~$8,000,000（National universities are affordable, private universities are expensive.） |
-| Licensed Practical Nurse Training (2-year program) | 2 年 | $1,000,000~$3,000,000（LPNs can advance to become Registered Nurses.） |
+| 护理学校（3 年制项目） | 3年 | $2,000,000~$5,000,000（学费因地区和学校差异很大。） |
+| 护理学学士（4年制） | 4年 | $4,000,000~$8,000,000（国立大学学费低廉，私立大学学费昂贵。） |
+| 执业实习护士培训（2年制） | 2 年 | $1,000,000~$3,000,000（执业护士可以晋升为注册护士。） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who assists in patient care and provides nursing care under physi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Nursing Examination | Ministry of Health, Labour and Welfare | 必备 | Mandatory qualification to become a Registered Nurse. |
-| Licensed Practical Nurse Exam | Prefecture | 必备 | Licensed Practical Nurse License |
-| Certified Nurse | Japanese Nursing Association | 可选 | Demonstrates advanced skills in specialty fields. |
+| 国家护士执照考试 | 厚生劳动省 | 必备 | 成为注册护士的强制性资格。 |
+| 持证执业护士考试 | 县 | 必备 | 执业实习护士执照 |
+| 注册护士 | 日本护理协会 | 可选 | 在专业领域展示高级技能。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 1,230,000. Demand is stable due to aging population, but expected to increase further as baby boomers enter late elderly stage after 2025.
+**职位需求量：很高（★★★★★）** 全国从业人数约 1,230,000。由于人口老龄化，需求稳定，但预计2025年后婴儿潮一代进入晚年阶段，需求将进一步增加。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,66 +40,59 @@ A professional who assists in patient care and provides nursing care under physi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Varies widely including night shift allowances. |
-| Mid-career (4–10 years) | $4,000,000~$5,500,000 | 根据医院规模和地区差异 |
-| Experienced (10+ years) | $5,000,000~$7,000,000 | Higher for management and specialized nurses |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 差异很大，包括夜班津贴。 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 根据医院规模和地区差异 |
+| 有经验（10年以上） | $5,000,000~$7,000,000 | 管理层和专业护士更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation will not completely replace nursing tasks but reduce burdens in diagnostic support and data management, enhancing interpersonal care and judgment.
+AI和自动化不会完全取代护理任务，但会减轻诊断支持和数据管理方面的负担，增强人际关怀和判断力。
 
-Career path: Licensed Practical Nurse → Registered Nurse → Specialist Nurse/Certified Nurse/Management. Graduate school is common.
+职业路径：执业护士→注册护士→专科护士/认证护士/管理岗。常见攻读研究生。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated vital sign measurement
-- Charting and recording
-- Simple interview responses
+- 自动生命体征测量
+- 图表绘制与记录
+- 简单的面试回答
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Diagnostic support
-- Medication management optimization
-- Patient monitoring
+- 诊断支持
+- 药物管理优化
+- 患者监护
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Clinical judgment
-- Physical care
+- 人际沟通
+- 临床判断
+- 身体护理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool utilization skills
-- Data literacy
-- Specialized nursing skills
+- 人工智能工具运用技能
+- 数据素养
+- 专业护理技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home nursing
-- Visiting nursing
-- Specified medical practice training
-- Elderly care
+- 居家护理
+- 上门护理
+- 指定医疗实践培训
+- 养老护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (treatment equivalent to caregiving field)) | Nurses are not eligible for 'Specified Skilled Worker', but it can be used in caregiving; working as a nurse mainly uses Engineer/Specialist in Humanities/International Services or EPA |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Most common residence status for nurses; requires university degree |
-| Subclass EPA (Nurse candidate under Economic Partnership Agreement) | System for nurse candidates from Indonesia, Philippines, Vietnam aiming to pass Japan's national exam |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -107,25 +100,25 @@ Career path: Licensed Practical Nurse → Registered Nurse → Specialist Nurse/
 
 **谁适合**
 - 喜欢与人打交道者
-- People with strong sense of responsibility
-- People confident in their physical strength
+- 责任感强的人
+- 对自己体力有信心的人
 
 **谁不适合**
-- People who find night shifts or irregular hours difficult
-- People who find it hard to face life and death
+- 难以适应夜班或不规律工时的人
+- 难以直面生死的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a nurse?**
-答：It depends on experience and workplace; starting salary is about 3-4 million yen, mid-career 4-5.5 million, veteran 5-7 million. Night shift and qualification allowances cause variation.
+**问：护士的年收入是多少？**
+答：取决于经验和工作场所；起薪约300-400万日元，中期400-550万日元，资深500-700万日元。夜班和资格津贴导致差异。
 
-**问：What visa do foreign nurses need to work in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is common. A Japanese nursing license is required, and there is a system under EPA. Note that it is not covered by Specified Skilled Worker.
+**问：外国护士在日本工作需要什么签证？**
+答：“工程师/人文知识/国际服务”签证常见。需要日本护理执照，有EPA下的制度。注意不属于特定技能工人。
 
-**问：How can nurses advance their careers?**
-答：Options include obtaining certified nurse or specialist nurse qualifications, graduate school, promotion to management. Completing specified medical practice training expands roles.
+**问：护士如何提升职业生涯？**
+答：选项包括获得认证护士或专科护士资格、读研、晋升管理职位。完成指定的医疗实践培训可拓展角色。
 
 
 ---
@@ -143,12 +136,12 @@ Career path: Licensed Practical Nurse → Registered Nurse → Specialist Nurse/
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/registered-nurse/JP)**

@@ -53,8 +53,6 @@ Enforces rules, judges scores, and imposes penalties in sports competitions to e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core of sports referees and officials—rule interpretation, subjective judgment and on-field authority—is hard to fully replace by AI, but AI will significantly take over playback analysis, data statistics and other auxiliary tasks, while amplifying real-time decision efficiency and fairness; roles will evolve towards technical assistance and interpersonal communication.
-
 Usually start at grassroots competitions, gain experience to advance to higher-level leagues (e.g., provincial, national); some may transition into sports management or coaching roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start at grassroots competitions, gain experience to advance to higher-l
 |---|---|
 | Subclass LMIA (Labour Market Impact Assessment) | Requires employer to prove inability to find local workers, apply for work visa |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation usually does not meet skilled migration requirements, with ve
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-officials-and-referees/CA)**

@@ -53,8 +53,6 @@ Supervise and coordinate daily activities of personal service workers (e.g., hai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will optimize scheduling, customer management, and simple consultations, but supervisors, handling complex interpersonal interactions, and personalized services still rely on humans, so mixed outcomes.
-
 Can advance from frontline service staff to supervisor, then to regional manager or store manager. Some supervisors can transition to training or consulting roles based on experience.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance from frontline service staff to supervisor, then to regional manager
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Employment is stable but growth is slow. Promotion paths are mostly to store 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-personal-service-workers/US)**

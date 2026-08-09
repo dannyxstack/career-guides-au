@@ -53,8 +53,6 @@ Teach one or more subjects at secondary school level, excluding vocational educa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 Can progress from regular teacher to department head, instructional coordinator, vice principal, or principal; may also move into curriculum development or educational consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from regular teacher to department head, instructional coordinator,
 | Subclass EB-2 (Employment-Based Second Preference) | Suitable for teachers with advanced degrees, requires PERM labor certification |
 | Subclass Green Card (PERM) (Permanent Residence through PERM) | Obtain a green card through labor certification, requires employer support |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must obtain employer sponsorship from a US school, demonstrating the position
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-school-teachers-except-special-and-career-technical-education/US)**

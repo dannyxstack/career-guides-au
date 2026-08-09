@@ -52,8 +52,6 @@ Podiatrists in New Zealand are on the Green List, eligible for direct residence 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
-
 Junior podiatrists can train in public hospitals or private clinics, gain experience, and advance to senior clinician or management roles. They may also specialize (e.g., diabetic foot, sports podiatry) or open their own clinic.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior podiatrists can train in public hospitals or private clinics, gain experi
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Can apply with work experience and qualifications, but prioritize Green List pathway. Must meet 6-point system requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can be used as a bridging work visa, work for an approved employer, then apply for residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Requires assessment by the New Zealand Podiatrists Board. Usually, completing
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/podiatrist/NZ)**

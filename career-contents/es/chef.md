@@ -4,8 +4,6 @@
 
 Chefs are responsible for planning menus, sourcing ingredients, cooking dishes, and managing the kitchen team—they are core roles in the food and beverage industry. In Spain, chefs need to master traditional Mediterranean cooking techniques as well as modern food management knowledge.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Chefs are responsible for planning menus, sourcing ingredients, cooking dishes, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The chef profession faces mixed AI impact: repetitive prep tasks risk automation, but creative, quality control, and team management roles are amplified by AI assistance, with the entry barrier slightly raised.
-
 Junior chefs can start as commis (assistants) and gradually advance to demi-chef, chef de partie, sous-chef, and finally executive or head chef. You can also shift to restaurant management, food development, or open your own restaurant.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ Junior chefs can start as commis (assistants) and gradually advance to demi-chef
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residence employed by Spanish companies requires employer sponsorship, proving that the position cannot be filled by a local resident and that the salary meets the standard. |
-| Subclass Busqueda empleo (Job Search Visa) | The Highly Skilled Professional Job Seeker Visa allows you to stay in Spain for 6 months to look for work, and you must meet educational or experience requirements. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +145,12 @@ A: The minimum requirement is FP Grado Medio (2 years of vocational training), b
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chef/ES)**

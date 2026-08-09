@@ -52,8 +52,6 @@ Vehicle cleaners and polishers clean and polish the interior and exterior of shi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vehicle cleaning work is highly routine; AI and automation will significantly reduce positions, especially with the spread of large car wash equipment, but fine polishing and deep cleaning still require manual labor.
-
 Junior cleaners can advance to senior polishers or team supervisors through experience, and some can move to more specialized roles like auto detailing or used car preparation.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior cleaners can advance to senior polishers or team supervisors through expe
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Limited promotion opportunities, but can become a senior polisher or team sup
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-valeters-and-cleaners/UK)**

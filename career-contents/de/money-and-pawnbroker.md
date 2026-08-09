@@ -54,8 +54,6 @@ Engage in currency exchange, small loans, and pawnbroking; evaluate collateral v
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Pawnbrokers and money lenders face medium automation risk: valuation and paperwork are easily replaceable, but tasks requiring interpersonal trust and physical inspection of collateral retain human advantages. Proactively learning fintech tools can broaden career prospects.
-
 Can be promoted from counter staff to branch manager or regional supervisor, or transition to credit roles in banks or consumer finance companies, requiring accumulated customer assessment experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can be promoted from counter staff to branch manager or regional supervisor, or 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Must complete German recognized vocational training (dual system) or obtain a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/money-and-pawnbroker/DE)**

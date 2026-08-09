@@ -1,10 +1,8 @@
 # 空中交通管制员（Air Traffic Controller）职业分析 · 韩国
 
-**职业代码: 62141 (KECO)**
+**职业代码：62141 (KECO)**
 
-A professional who directs and controls takeoff, landing, and flight paths for safe and efficient aircraft operation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责指挥和控制起飞、着陆及飞行路径，确保安全高效飞机操作的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who directs and controls takeoff, landing, and flight paths for s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (from Ministry of Land, Infrastructure and Transport-designated training institutions) | 2 年 | $15,000,000~$20,000,000（Tuition at Korea Aerospace University, Inha Technical College, etc.: approx. KRW 7 million to 10 million per year） |
-| MOLIT Training Center (for new controller training) | 1.5年 | $0~$0（Full government funding upon admission, with training allowance） |
+| 准学士学位（来自国土交通省指定培训机构） | 2 年 | $15,000,000~$20,000,000（韩国航空大学、仁荷工业专门大学等学费：约每年700万至1000万韩元） |
+| 国土交通部培训中心（新管制员培训） | 1.5年 | $0~$0（入学即享受全额政府资助，附带培训津贴） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who directs and controls takeoff, landing, and flight paths for s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Air Traffic Controller Certificate (Operational Qualification) | Ministry of Land, Infrastructure and Transport (MOLIT) | 必备 | Must pass license and qualification examinations |
-| Language proficiency (ICAO English proficiency rating) | MOLIT-designated agencies | 必备 | ICAO Level 4 or above required |
-| TOPIK (Test of Proficiency in Korean) | National Institute for International Education | 可选 | TOPIK Level 6 recommended for foreign applicants |
+| 空中交通管制员证书（操作资格） | 韩国国土交通部 | 必备 | 必须通过执照和资格考试 |
+| 语言能力（ICAO英语能力评级） | MOLIT指定机构 | 必备 | 需达到国际民航组织（ICAO）4级或以上水平 |
+| TOPIK（韩国语能力考试） | 国立国际教育研究院 | 可选 | 外国申请者建议达到TOPIK 6级 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 2,500. Demand remains due to aviation recovery and new airport construction (2nd Gimhae/Gadeokdo), but hiring is limited as it is a quota-based system. Despite technological changes, it remains an essential occupation.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 2,500。因航空复苏和新机场建设（第二金海/加德岛）需求持续，但受配额制度限制，招聘有限。尽管技术变革，它仍是必不可少的职业。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,67 +39,59 @@ A professional who directs and controls takeoff, landing, and flight paths for s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $40,000,000~$60,000,000 | Based on civil servant salary scale (Grade 7-8) plus allowances |
-| Mid Level (4-10 years) | $60,000,000~$90,000,000 | Equivalent to Grade 5-6, including night and shift differentials |
-| Senior Level (10+ years) | $90,000,000~$99,999,999 | Senior Controller, Team Leader level. Varies by airport size. |
+| 入门级（0-3年） | $40,000,000~$60,000,000 | 基于公务员薪资标准（7-8级）加津贴 |
+| 中级（4-10年） | $60,000,000~$90,000,000 | 相当于5-6级，含夜班和轮班津贴 |
+| 高级（10年以上） | $90,000,000~$99,999,999 | 高级控制员，团队负责人级别。因机场规模而异。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used as an auxiliary tool for control tasks (collision warnings, optimal route suggestions), but final decisions and safety responsibility rest with human controllers, making full automation unlikely. Thus, demand for controllers will persist, but work methods will become more efficient due to technology.
+AI用作控制任务的辅助工具（碰撞警告、最佳路线建议），但最终决策和安全责任由人工控制员承担，完全自动化可能性不大。因此，控制员的需求将持续存在，但工作方法将因技术而变得更高效。
 
-Entry-level Controller (after training) → Controller → Senior Controller → Control Team Leader. Open competitive recruitment and internal promotion. Career mobility to airport facilities and airlines possible.
+入门级控制员（培训后）→ 控制员 → 高级控制员 → 控制团队主管。公开竞争招聘和内部晋升。可向机场设施和航空公司进行职业流动。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated Flight Information Broadcast
-- Weather Data Collection and Dissemination
-- Routine Control Tasks
+- 自动化航班信息广播
+- 气象数据收集与发布
+- 常规控制任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Collision Risk Detection and Warning
-- Optimal Approach Path Calculation
-- Flight Plan Analysis and Adjustment
+- 碰撞风险检测与警告
+- 最佳进近路径计算
+- 飞行计划分析与调整
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive Judgment in Crisis Situations
-- Cooperation with Human Crew
-- Exceptional Situation Handling
+- 危机情况下的直觉判断
+- 与人类船员合作
+- 特殊情况处理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operation of AI-Based Control Systems
-- Data Literacy
-- Basics of Cybersecurity
+- AI控制系统的操作
+- 数据素养
+- 网络安全基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Air Traffic Control
+- 空中交通管制
 - 空中交通管制员
-- Aviation Safety
-- Airport Operations
+- 航空安全
+- 机场运营
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | (E-7-1 Skilled Technician) or (E-7-4 Professional) possible, but since air traffic controllers are civil servants, foreign employment is extremely limited. Theoretically possible |
-| Subclass F-2 (Residence) | Pre-permanent residence step. When foreigners apply as air traffic controllers, many cases require permanent residence or F-2 to apply |
-| Subclass F-5 (Permanent Residence) | As a permanent resident, civil service employment is possible. Foreign air traffic controllers effectively need permanent residence or F-5 |
-
-**PR友好度: 很低（½☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -109,25 +99,25 @@ Entry-level Controller (after training) → Controller → Senior Controller →
 
 **谁适合**
 - A person with intense concentration and instantaneous decision-making
-- A person who is stress-resistant and strictly follows rules and procedures
-- A person with smooth English communication and values teamwork
+- 能承受压力并严格遵守规则和程序的人
+- 英语沟通流畅且重视团队合作的人
 
 **谁不适合**
-- A person vulnerable to multitasking and frequently makes mistakes causing incidents
-- A person who has difficulty enduring night shifts and rotating shifts
+- 容易多任务处理失误并引发事故的人
+- 难以忍受夜班和轮班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of an air traffic controller?**
-答：Entry-level: 40-60 million KRW, Mid-level: 60-90 million KRW, Senior: 90-130 million KRW. Includes allowances under the civil servant pay system.
+**问：空中交通管制员的年薪是多少？**
+答：入门级：4000-6000万韩元，中级：6000-9000万韩元，高级：9000万-1.3亿韩元。包含公务员薪酬体系下的津贴。
 
-**问：What visa does a foreigner need to become an air traffic controller in Korea?**
-答：Controllers are civil servants, so hiring foreigners is extremely rare. Theoretically possible with an E-7 visa, but applicants need permanent residence (F-5) or residence (F-2) status, plus TOPIK level 6 and ICAO English proficiency.
+**问：外国人在韩国成为空中交通管制员需要什么签证？**
+答：管制员是公务员，招聘外国人极为罕见。理论上可通过E-7签证实现，但申请人需拥有永住（F-5）或居住（F-2）资格，外加TOPIK 6级和ICAO英语水平。
 
-**问：What is the training process to become an air traffic controller?**
-答：After graduating from a Ministry of Land, Infrastructure and Transport designated institute (2 years) or a 4-year aviation university, you must train at the Ministry's training center (1.5 years) and pass the qualification exam. The training center is government-funded.
+**问：成为空中交通管制员的培训流程是什么？**
+答：从国土交通省指定院校（2年）或4年制航空大学毕业后，必须在省培训中心培训（1.5年）并通过资格考试。培训中心由政府资助。
 
 
 ---
@@ -145,12 +135,12 @@ Entry-level Controller (after training) → Controller → Senior Controller →
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很低（½☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/air-traffic-controller/KR)**

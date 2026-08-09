@@ -52,8 +52,6 @@ Inventory managers are responsible for receiving, storing, counting, and recordi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Inventory manager's AI risk is mixed: basic data entry and inventory tasks will be replaced by automation tools, but demand for physical operations, exception handling, and human communication skills will increase, with the role evolving towards supply chain coordination.
-
 Can progress from junior inventory clerk to warehouse supervisor or logistics coordinator, or transition to supply chain management through further study.
 
 **Tasks most exposed to AI:**
@@ -97,17 +95,9 @@ Can progress from junior inventory clerk to warehouse supervisor or logistics co
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled workers earning above the salary threshold, usually requiring higher education background, but may not apply to entry-level inventory managers. |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled workers with higher education qualifications meeting the salary threshold, inventory clerks usually do not meet salary requirements. |
-| Subclass Orientation Year (Orientation Year) | Available to Dutch graduates or graduates from the world's top 200 universities; job search within one year. |
-| Subclass EU free movement (EU Free Movement) | EU citizens can freely work in the Netherlands without a visa. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: MBO logistics-related qualification or high school diploma plus on-the-job tr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-clerk/NL)**

@@ -53,8 +53,6 @@ Sell products or services to customers over the phone, handle inquiries and achi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Call center sales tasks are highly structured, with high AI automation potential, but human persuasion and complex negotiation still rely on people; AI-enhanced tools can improve efficiency and require proactive adaptation.
-
 Can progress from junior sales representative to senior sales representative, team leader, or call center manager, or switch to customer service or business development roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior sales representative to senior sales representative, te
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance from sales representative to team leader, call center manager, or
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contact-centre-salesperson/IE)**

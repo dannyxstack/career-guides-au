@@ -53,8 +53,6 @@ Bakers - Pastry chefs are responsible for making baked goods such as bread, puff
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
-
 Junior bakers can be promoted to head chef or head baker, gaining experience to open their own bakery. You can also develop into chocolatier, confectioner, or restaurant dessert supervisor. Holding a CAP or BTS diploma offers a higher advantage in promotion.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior bakers can be promoted to head chef or head baker, gaining experience to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | For employed work residence, you must obtain an employer contract and pass a labor market test (some conditions may be waived for shortage occupations). |
-| Subclass Passeport Talent (Passeport Talent) | Talent passport, suitable for highly skilled or entrepreneurial bakers, simplifying administrative procedures |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary threshold (usually above the industry average), and bakers use it less frequently |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can be promoted from junior baker to head chef or head baker, and then op
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker-pastry-chef/FR)**

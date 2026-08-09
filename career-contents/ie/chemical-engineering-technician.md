@@ -52,8 +52,6 @@ Chemical engineering technicians assist chemical engineers with experiments, tes
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of chemical technicians will see divergence: routine analysis and clerical tasks face automation threats, but experimental design, anomaly analysis, and cross-disciplinary collaboration skills are enhanced by AI; overall occupational risk is moderate.
-
 Can progress from junior technician to senior technician, lab supervisor, or transition into process engineering, quality management, etc.; some become chemical engineers through further education.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from junior technician to senior technician, lab supervisor, or tra
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires an advanced diploma or bachelor's degree in chemistry or a
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-engineering-technician/IE)**

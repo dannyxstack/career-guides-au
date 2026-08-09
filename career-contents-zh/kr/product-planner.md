@@ -1,10 +1,8 @@
-# Product Planner 职业分析 · 韩国
+# 产品规划师（Product Planner）职业分析 · 韩国
 
-**职业代码: 02431 (KECO)**
+**职业代码：02431 (KECO)**
 
-A professional who plans new products based on market research and consumer analysis, establishing strategies for product concept, design, pricing, and distribution.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+根据市场研究和消费者分析规划新产品，制定产品概念、设计、定价和分销策略的专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans new products based on market research and consumer anal
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $6,000,000~$12,000,000（Annual Tuition (Private)） |
-| 本科（学士学位） | 4年 | $8,000,000~$16,000,000（Annual Tuition (Private)） |
+| 副学士学位 | 2 年 | $6,000,000~$12,000,000（年学费(民办)） |
+| 本科（学士学位） | 4年 | $8,000,000~$16,000,000（年学费(民办)） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who plans new products based on market research and consumer anal
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| CPSM (Certified Professional in Supply Management) | Korea Purchasing & Supply Management Association | 可选 | Optional, validates supply chain management skills |
-| 营销经理 | Korea Marketing Association | 可选 | Optional, strengthens marketing expertise |
+| CPSM（供应管理专业人士认证） | 韩国采购与供应管理协会 | 可选 | 可选，验证供应链管理技能 |
+| 营销经理 | 韩国营销协会 | 可选 | 可选，增强市场营销专长 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 45,000. Demand remains steady due to intensifying competition in consumer goods markets and digital transformation, but job changes are expected with increased use of AI and big data.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 45,000。由于消费品市场竞争加剧和数字化转型，需求保持稳定，但随着AI和大数据的应用增加，预计会出现职业变动。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A professional who plans new products based on market research and consumer anal
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-Level (0-3 years) | $32,000,000~$42,000,000 | Starting Salary at Large Corporations |
-| Mid-Level (4-9 years) | $45,000,000~$65,000,000 | Varies by Experience |
-| Senior-Level (10+ years) | $60,000,000~$90,000,000 | Team Leader or Above |
+| 入门级（0-3年） | $32,000,000~$42,000,000 | 大型企业起薪 |
+| 中级（4-9年） | $45,000,000~$65,000,000 | 因经验而异 |
+| 高级（10年以上） | $60,000,000~$90,000,000 | 团队负责人或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI will assist merchandisers in data collection, analysis, and trend prediction, but creative ideation and strategic decision-making will remain human-led.
+AI将协助商品陈列师进行数据收集、分析和趋势预测，但创意构思和战略决策仍将由人类主导。
 
-Starting in marketing or planning departments, they grow into product planning experts, with potential for team leader or department head roles after 5-10 years of experience.
+从市场营销或策划部门起步，成长为产品策划专家，5-10年经验后有机会担任团队领导或部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Collecting and organizing standardized market data
-- Writing basic competitor analysis reports
-- Simple trend monitoring
+- 收集和整理标准化市场数据
+- 撰写基本竞争对手分析报告
+- 简单趋势监控
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Consumer needs predictive modeling
-- Price optimization simulation
-- Promotion effectiveness analysis
+- 消费者需求预测建模
+- 价格优化模拟
+- 促销效果分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative concept development
-- Stakeholder coordination and negotiation
-- Brand storytelling
-- Intuitive decision-making
+- 创意概念开发
+- 利益相关者协调与谈判
+- 品牌故事讲述
+- 直觉决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
+- 数据分析
 - SQL
-- Python basics
-- Consumer behavior psychology
+- Python 基础
+- 消费者行为心理学
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
 - Consumer Goods
-- Digital Marketing
-- Data Analysis
-- New Product Development
+- 数字营销
+- 数据分析
+- 新产品开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires related career and degree in product planning as a professional worker; employer application mandatory |
-| Subclass F-2 (F-2 (Residence)) | No employment restrictions with long-term stay, but initial acquisition is difficult |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in data analysis and reading market trends
-- People who enjoy turning creative ideas into concrete products
-- People with excellent teamwork and communication skills
+- 对数据分析和市场趋势感兴趣的人
+- 喜欢将创意转化为具体产品的人
+- 具有出色团队合作和沟通能力的人
 
 **谁不适合**
 - 偏好重复性事务工作的人
-- People who are extremely risk-averse
+- 极度规避风险的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a product planner?**
-答：Entry-level is about 32-42 million KRW, mid-level 45-65 million KRW, senior 60-90 million KRW, and it is higher at large corporations.
+**问：产品规划师的平均薪资是多少？**
+答：入门级约3200-4200万韩元，中级4500-6500万韩元，高级6000-9000万韩元，大型企业更高。
 
-**问：What visa is required for foreigners to work as a product planner?**
-答：E-7 (Specific Activities) visa is common, requiring relevant degree and experience, and the employer applies. F-2 (Residence) visa is also possible for long-term stay.
+**问：外国人担任产品策划需要什么签证？**
+答：E-7（特定活动）签证常见，需相关学历和经验，由雇主申请。F-2（居住）签证也可用于长期居留。
 
 
 ---
@@ -143,12 +134,12 @@ Starting in marketing or planning departments, they grow into product planning e
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/product-planner/KR)**

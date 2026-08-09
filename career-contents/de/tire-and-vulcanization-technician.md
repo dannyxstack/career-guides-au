@@ -51,8 +51,6 @@ Tyre and vulcanising technician is responsible for tyre production, repair, and 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tire repair and replacement workers face moderate automation risk; AI and robots can take over repetitive inspection, disassembly, and balancing tasks, but on-site judgment and complex repairs still require humans. Entry-level positions will decrease due to automation, but senior repair roles remain stable.
-
 Can advance from apprentice to senior technician or production supervisor, or specialize in racing tires or specialty tires; higher pay after master certification.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from apprentice to senior technician or production supervisor, or sp
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a recognized vocational qualification in Germany and employer sponsorship |
 | Subclass Job Seeker (Job Seeker Visa) | Can enter Germany for 6 months to find a job; must prove financial capacity |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can be promoted to production supervisor, senior technician, or transition to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tire-and-vulcanization-technician/DE)**

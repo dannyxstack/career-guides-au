@@ -53,8 +53,6 @@ Supervise and coordinate construction industry workers, including carpenters, el
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-As a construction installation supervisor, the risk of automation compression is significantly increased because AI can optimize scheduling, monitor progress and resource allocation, reducing reliance on manual coordination.
-
 advance from skilled tradesperson to supervisor, then further to project manager or business owner. Requires continuous learning of new technologies and regulations.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ advance from skilled tradesperson to supervisor, then further to project manager
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requires proof that no suitable local worker is available in Canada |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic province employer sponsorship, suitable for applicants willing to work in the region. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to project manager, construction manager, or self-employed co
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-other-construction-trades-installers-repairers-and-servicers/CA)**

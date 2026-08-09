@@ -1,6 +1,6 @@
 # 动画师/游戏设计师（Animator / Game Designer）职业分析 · 澳大利亚
 
-**职业代码: 212411 (ANZSCO)**
+**职业代码：212411 (ANZSCO)**
 
 动画师为影视、游戏、广告和数字媒体创作2D/3D动画内容；游戏设计师负责游戏关卡、系统和玩法机制的设计。澳洲VFX行业（电影后期制作）和独立游戏开发圈在全球具有一定影响力，设计师需要掌握专业动画软件（Maya/Blender/Unreal Engine）和扎实的艺术基础。
 
@@ -22,18 +22,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Autodesk Maya Certified User | Autodesk | 可选 | 3D动画行业标准软件认证 |
-| Unreal Engine Certification | Epic Games | 可选 | 游戏开发和实时渲染行业标准工具认证 |
+| Autodesk Maya认证用户 | Autodesk | 可选 | 3D动画行业标准软件认证 |
+| 虚幻引擎认证 | Epic Games | 可选 | 游戏开发和实时渲染行业标准工具认证 |
 | Adobe After Effects 认证 | Adobe | 可选 | 动态图形和合成特效的行业标准工具认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. JSA预测动画和游戏设计就业至2030年保持稳定至略微增长。流媒体平台（Netflix在澳洲动画内容投资增加）和游戏产业扩张是主要增长驱动力；AI动画工具改变部分基础工作流程。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。JSA预测动画和游戏设计就业至2030年保持稳定至略微增长。流媒体平台（Netflix在澳洲动画内容投资增加）和游戏产业扩张是主要增长驱动力；AI动画工具改变部分基础工作流程。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
 动画师/游戏设计师工作喜忧参半：AI可高效生成草稿、基础动画和程序化内容，但创意决策、艺术风格把控和复杂叙事设计仍是人类护城河，行业入门门槛将因自动化略微升高。
 
 澳洲Screen Australia持续资助本地动画和VFX制作，维持稳定的产业就业。澳洲独立游戏（Indie Game）开发圈活跃（如House House、League of Geeks等悉尼/墨尔本工作室）。AI动画工具（Runway Gen-2、Adobe Firefly）正在改变内容创作流程，但人工动画师在创意质量控制上仍不可替代。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成角色基础动画（行走、跑步循环），可被AI工具如Rokoko、DeepMotion替代
 - 程序化生成游戏场景、地形和植被，减少手动建模工作量
@@ -67,7 +67,7 @@
 - 基础UI动画和粒子特效的批量生成，由AI预设模板完成
 - 简单的对话动画和面部表情绑定，AI可根据音频自动生成口型同步
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助概念设计：通过文本到图像（Midjourney/Stable Diffusion）快速生成视觉风格探索，加速前期创意迭代
 - AI增强动画润色：使用AI动画补间（如Cascadeur）提升关键帧之间过渡自然度，节省手动调整时间
@@ -75,14 +75,14 @@
 - AI驱动测试和调试：自动进行游戏平衡性测试，识别bug和玩法漏洞
 - 个性化内容生成：AI根据玩家行为动态调整游戏难度或生成定制化动画片段
 
-**人类护城河:**
+**人类护城河：**
 
 - 艺术风格原创性：独特的美术风格、情感表达和文化叙事能力无法被AI复刻
 - 复杂的交互设计与游戏机制创新：需要理解玩家心理和游戏乐趣本质的系统设计
 - 项目创意领导与艺术方向把控：决定整体视觉基调和故事核心的决策能力
 - 跨团队协作沟通：与策划、程序、音效等部门的紧密合作与技术约束下的创意实现
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 熟练使用AI动画工具（如DeepMotion、Rokoko、Cascadeur）提升产出效率
 - 学习程序化生成技术（Houdini、Unreal Engine Blueprint）配合AI自动建模
@@ -91,17 +91,17 @@
 - 强化项目管理与团队领导力，适应AI辅助下的敏捷开发流程
 - 学习游戏分析（用户行为数据）以优化AI驱动的个性化体验
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 3D Animation & Visual Effects (VFX)
-- Game Development (Indie + AAA Studio)
-- AR/VR Immersive Animation
-- Corporate Motion Graphics & Marketing Animation
-- AI-Assisted Animation (Adobe Firefly/Runway Gen-2)
+- 3D动画与视觉特效
+- 游戏开发（独立+AAA工作室）
+- AR/VR沉浸式动画
+- 企业动态图形与营销动画
+- 人工智能辅助动画（Adobe Firefly/Runway Gen-2）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -111,9 +111,7 @@
 | Subclass 189 (SkillSelect Independent) | 邀请制，需要VETASSESS技能评估 |
 | Subclass 190 (Skilled Nominated) | 州提名通道（NSW/VIC有科技创意产业提名） |
 
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**PR友好度：较低（★★☆☆☆）**
 
 ---
 
@@ -175,12 +173,13 @@
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
+| PR友好度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/animator-game-designer/AU)**

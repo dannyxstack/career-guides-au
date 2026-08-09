@@ -1,8 +1,8 @@
-# Concrete Worker 职业分析 · 韩国
+# 混凝土工（Concrete Worker）职业分析 · 韩国
 
-**职业代码: 70141 (KECO)**
+**职业代码：70141 (KECO)**
 
-A concrete worker is a skilled occupation responsible for concrete placement, curing, finishing, and other concrete structure construction tasks at construction sites.
+混凝土工是负责建筑工地混凝土浇筑、养护、找平及其他混凝土结构施工任务的熟练工种。
 
 
 ---
@@ -11,9 +11,9 @@ A concrete worker is a skilled occupation responsible for concrete placement, cu
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Tuition-free） |
-| Department of architecture or civil engineering at a junior college | 2 年 | $5,000,000~$8,000,000（Based on tuition fees） |
-| Vocational training (e.g., Polytech) | 1年 | $0~$2,000,000（Government funding possible） |
+| 高中文凭 | 3年 | $0~$0（免学费） |
+| 专科学校建筑或土木工程系 | 2 年 | $5,000,000~$8,000,000（按学费计算） |
+| 职业培训（例如理工学院） | 1年 | $0~$2,000,000（政府资助可能） |
 
 ---
 
@@ -21,18 +21,18 @@ A concrete worker is a skilled occupation responsible for concrete placement, cu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Concrete Technician (Korean name: Concrete Skill Worker) | Human Resources Development Service of Korea | 可选 | National technical qualification |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for on-site safety management |
-| Excavator Operation Technician (Korean name: Excavator Driving Skill Worker) | Human Resources Development Service of Korea | 可选 | Advantageous when operating equipment like excavators |
+| 混凝土技术员（韩语名称：混凝土技能工人） | 韩国人力资源开发服务局 | 可选 | 国家技术资格 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 有利于现场安全管理 |
+| 挖掘机操作技师（韩语名称：挖掘机驾驶技能工） | 韩国人力资源开发服务局 | 可选 | 操作挖掘机等设备时具有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Although affected by fluctuations in the construction industry, steady employment is expected due to long-term plans from the Ministry of Land, Infrastructure and Transport and demand for renovation of aging infrastructure. An aging workforce may worsen the shortage of new workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。虽受建筑业波动影响，但国土交通部的长期规划及老化基础设施改造需求预计将带来稳定就业。劳动力老龄化可能加剧新工人短缺。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,93 +40,85 @@ A concrete worker is a skilled occupation responsible for concrete placement, cu
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Daily worker basis |
-| Intermediate (4–7 years) | $35,000,000~$45,000,000 | Skilled worker criteria |
-| Advanced (8+ years) | $48,000,000~$60,000,000 | Foreman-level criteria |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 按日工计算 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 技术工人标准 |
+| 高级（8年以上） | $48,000,000~$60,000,000 | 领班级别标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can replace some parts of concrete pouring and finishing, but complete replacement is difficult due to on-site variability and precision requirements. New technologies like 3D printing are being introduced but remain supplementary.
+人工智能和自动化可以替代部分混凝土浇筑和整平工作，但由于现场多变性和精度要求，完全替代很困难。3D打印等新技术正在引入，但仍为辅助性。
 
-Promotion path: entry-level → intermediate → senior (foreman) → site manager; starting a specialized concrete company is also an option.
+晋升路径：入门级→中级→高级（领班）→现场经理；也可创办专业混凝土公司。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple concrete pouring
-- Repetitive finishing work
-- Basic curing management
+- 简单混凝土浇筑
+- 重复性精加工工作
+- 基础固化处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision finishing work
-- Quality inspection and repair
-- Complex formwork installation
+- 精密精加工
+- 质量检查和维修
+- 复杂模板安装
 
-**人类护城河:**
+**人类护城河：**
 
-- Site judgment skills
-- Skilled hand techniques
-- Safety management sense
+- 场地判断技能
+- 熟练的手工技巧
+- 安全管理意识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D printing concrete technology
-- Smart Construction Equipment Operation
-- Understanding Construction BIM
+- 3D打印混凝土技术
+- 智能建筑设备操作
+- 理解建筑信息模型（BIM）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban redevelopment and reconstruction
-- Old infrastructure renovation
-- New city construction
-- Advanced finishing techniques
+- 城市更新与重建
+- 旧基础设施改造
+- 新城建设
+- 高级精加工技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Non-professional foreign workforce introduction may include concrete workers, but skilled workers consider E-7 conversion |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable if recognized as skilled worker, subject to construction skilled worker quota |
-| Subclass F-2 (F-2 (Residence)) | After certain period of stay, possible through point system, long-term residence path |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work in construction with F-4 but with some restrictions |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good physical strength and able to handle outdoor work
-- Those with precise and meticulous personality
-- Those who strictly follow safety rules
+- 体力好且能从事户外工作的人
+- 性格精确细致的人
+- 严格遵守安全规定的人员
 
 **谁不适合**
-- People with acrophobia or weak physical strength
-- Those who find teamwork difficult rather than working alone
+- 恐高或体力较弱者
+- 适合不喜欢团队合作而更喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a concrete worker?**
-答：About 24-30 million KRW for beginners, and 48-60 million KRW for senior skilled workers with over 8 years of experience.
+**问：混凝土工人的平均工资是多少？**
+答：初学者约2400-3000万韩元，8年以上经验的高级技术工人约4800-6000万韩元。
 
-**问：Can foreigners get a job as a concrete worker?**
-答：Yes, with an E-9 (Non-professional Employment) visa, and you can switch to E-7 if your skills are recognized. Overseas Koreans can work with an F-4 visa.
+**问：外国人能否找到混凝土工人工作？**
+答：可以，持E-9（非专业就业）签证，技能获得认可后可转E-7。海外韩裔可持F-4签证工作。
 
-**问：Are there any required certifications?**
-答：Not mandatory, but having a Concrete Technician certificate helps with employment and salary negotiation.
+**问：是否有任何必需的认证？**
+答：非强制要求，但持有混凝土技术员证书有助于就业和薪资谈判。
 
 
 ---
@@ -144,12 +136,12 @@ Promotion path: entry-level → intermediate → senior (foreman) → site manag
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/concrete-worker/KR)**

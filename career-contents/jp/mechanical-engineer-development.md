@@ -51,8 +51,6 @@ Engineers engaged in the design and development of mechanical products, using CA
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI and automation is progressing in parts of design (topology optimization, simulation automation, etc.), but areas requiring human judgment—such as creative mechanism design, requirements definition, and prototype evaluation—remain. Overall, AI complements work and improves job quality.
-
 Typically start as design assistants at large companies or manufacturers, then progress to project leader or specialist (analysis/research). Career advancement through job change is also possible.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Typically start as design assistants at large companies or manufacturers, then p
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable to design work requiring mechanical engineering knowledge. Requires a university degree or 10+ years of practical experience. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | 70 points or more under the points system. Available for those with advanced skills as mechanical engineers. |
-| Subclass 特定活動（設計） (Designated Activities (Mechanical Design)) | May be individually permitted for mechanical design work at specific companies. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Generally, study mechanical engineering at a vocational school or university.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer-development/JP)**

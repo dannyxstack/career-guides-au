@@ -1,10 +1,8 @@
 # 消防员（Firefighter）职业分析 · 日本
 
-**职业代码: 452 (JSCO)**
+**职业代码：452 (JSCO)**
 
-Engages in firefighting, rescue operations, and fire prevention guidance at fire and disaster sites. Works at a fire station, protecting citizens' safety on 24-hour shifts.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在火灾和灾害现场从事消防、救援和防火指导工作。在消防站工作，24小时轮班保障市民安全。
 
 
 ---
@@ -13,8 +11,8 @@ Engages in firefighting, rescue operations, and fire prevention guidance at fire
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Almost free at public high schools） |
-| Fire Academy (Basic Course) | 6 months | $0~$0（Paid after employment as a civil servant） |
+| 高中文凭 | 3年 | $0~$0（公立高中几乎免费） |
+| 消防学院（基础课程） | 6个月 | $0~$0（公务员录用后支付） |
 
 ---
 
@@ -22,18 +20,18 @@ Engages in firefighting, rescue operations, and fire prevention guidance at fire
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Emergency Medical Technician (EMT) | Ministry of Health, Labour and Welfare | 必备 | Essential for ambulance staffing. National certification. |
-| Fire Equipment Technician | Fire and Disaster Management Agency | 可选 | Useful for inspecting fire protection equipment. |
-| Hazardous Materials Handler | Fire and Disaster Management Agency | 可选 | Advantageous for firefighting at chemical plants, etc. |
+| 紧急医疗技术员 (EMT) | 厚生劳动省 | 必备 | 救护车人员必备。国家认证。 |
+| 消防设备技师 | 消防与灾害管理局 | 可选 | 用于检查消防设备。 |
+| 危险品处理员 | 消防与灾害管理局 | 可选 | 对化工厂等场所消防有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 160,000. Due to increasing emergency calls from an aging population and large-scale disaster risks, demand for firefighters is expected to remain stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 160,000。由于人口老龄化和大规模灾害风险导致紧急呼叫增加，消防员的需求预计将保持稳定。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,92 +39,86 @@ Engages in firefighting, rescue operations, and fire prevention guidance at fire
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$4,500,000 | Firefighter. Varies by region. |
-| Mid-level (4–10 years) | $5,000,000~$6,500,000 | Assistant Fire Chief class. |
-| Veteran (11+ years) | $7,000,000~$9,000,000 | Fire Station Chief class: over ¥10 million. |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 消防员。因地区而异。 |
+| 中级（4-10年） | $5,000,000~$6,500,000 | 助理消防队长级别。 |
+| 资深（11年以上） | $7,000,000~$9,000,000 | 消防站站长级别：超过1000万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI complements firefighting. Drones assess fire conditions and AI optimizes dispatch decisions, improving efficiency, but on-site rescue and firefighting require humans. Demand is stable.
+AI辅助消防：无人机评估火情，AI优化调度决策，提高效率，但现场救援和灭火仍需人类。需求稳定。
 
-Firefighter → Assistant Fire Chief → Fire Chief → Senior Fire Chief → Fire Station Chief. Advanced knowledge is acquired at fire academies or graduate schools to advance into management.
+消防员 → 副消防队长 → 消防队长 → 高级消防队长 → 消防站队长。通过消防学院或研究生院获取高级知识以晋升管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- False alarm determination for fire detectors
-- Response route planning
-- Inspection records of fire equipment
+- 火灾探测器误报判定
+- 响应路线规划
+- 消防设备检查记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Identifying fire types through on-site video analysis
-- AI-assisted situational judgment in rescue operations
-- Preventive activities using disaster prediction models
+- 通过现场视频分析识别火灾类型
+- 人工智能辅助救援情景判断
+- 利用灾害预测模型进行预防活动
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment skills in life-saving rescue
-- Physical labor in hazardous sites
-- Building trust with the public
+- 救生救援中的判断能力
+- 危险场所的体力劳动
+- 建立公众信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Drone operation
-- Data analysis
-- Advanced life support
-- Fire and disaster prevention guidance
+- 无人机操作
+- 数据分析
+- 高级生命支持
+- 消防与防灾指导
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Emergency Life-saving Technique
-- Disaster response
-- Fire prevention
-- Rescue techniques
+- 紧急救生技术
+- 灾害应对
+- 消防
+- 救援技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | While not impossible, demonstrating work experience is difficult, and since civil service exams are not open to foreigners, it is unrealistic. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People who value teamwork
-- People with high stress tolerance
+- 体力充沛的人
+- 重视团队合作的人
+- 抗压能力强的人
 
 **谁不适合**
-- People with physical limitations
-- People who struggle with irregular shifts
+- 身体受限者
+- 难以适应不规则轮班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a firefighter?**
-答：Starting salary is about 3.5-4.5 million yen, rising to 7-9 million yen with experience. For management positions, it can exceed 10 million yen.
+**问：消防员的年收入是多少？**
+答：起薪约350-450万日元，有经验后升至700-900万日元。管理职位可超过1000万日元。
 
-**问：Is it possible for a foreigner to become a firefighter in Japan?**
-答：Generally, Japanese firefighters are civil servants and require Japanese nationality in principle. Even with special skills, obtaining a status of residence like 'Engineer/Specialist in Humanities/International Services' is extremely difficult.
+**问：外国人成为日本消防员是否可能？**
+答：一般来说，日本消防员是公务员，原则上要求日本国籍。即使拥有特殊技能，获得‘技术/人文知识/国际业务’在留资格也极其困难。
 
-**问：How can I get promoted?**
-答：Promotion is achieved through performance at fire academies, practical experience, and passing internal exams. Studying fire administration at a graduate school can be advantageous.
+**问：我如何才能获得晋升？**
+答：通过消防学院的表现、实践经验及内部考试实现晋升；在研究生院学习消防行政可能有利。
 
 
 ---
@@ -144,12 +136,12 @@ Firefighter → Assistant Fire Chief → Fire Chief → Senior Fire Chief → Fi
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/firefighter/JP)**

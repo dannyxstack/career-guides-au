@@ -4,8 +4,6 @@
 
 Providing personalized career guidance for job seekers, developing employment plans, assisting in social integration, and connecting enterprises with public resources.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Providing personalized career guidance for job seekers, developing employment pl
 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI will significantly improve the efficiency and service quality of employment consultants by automating administrative tasks and enhancing data-driven decision-making, but it will not replace core interpersonal and guidance functions.
 
 You can advance from frontline consultant to team leader or project manager, or move into human resources, vocational training, or social policy research.
 
@@ -100,17 +96,9 @@ You can advance from frontline consultant to team leader or project manager, or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | You must obtain a French employer's employment contract and pass the Labor Bureau's review; non-urgent job sponsorship is relatively difficult |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly educated or highly skilled talents, must meet the salary threshold (annual salary > 53,000 euros) |
-| Subclass Recherche emploi (Job Search Visa) | French master's graduates can apply for a one-year job-seeking visa and convert to a work visa after finding a job |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Non-urgently needed occupations; foreign academic credentials must be certifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/employment-and-social-integration-counselor/FR)**

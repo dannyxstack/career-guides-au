@@ -4,8 +4,6 @@
 
 This is a management role that oversees overall operations at hotels, resorts, travel agencies, etc., managing service quality and profitability.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ This is a management role that oversees overall operations at hotels, resorts, t
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can automate some tasks like reservations and customer inquiries, but overall management, decision-making, and emotional service still rely on human roles, so risk of replacement is limited.
-
 Promotion typically progresses from on-site hotel/travel agency experience to department head, then branch manager/general manager; in large chains, advancement to regional head is possible.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Promotion typically progresses from on-site hotel/travel agency experience to de
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available when hiring hotel/travel agency managers as professional career workers |
-| Subclass D-10 (Job Seeking) | Stay for job seeking in tourism/hotel sector |
-| Subclass F-2 (Residence) | Available after long-term stay and experience |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: An associate degree or higher is common, with a major in hotel/tourism being 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-hotel-manager/KR)**

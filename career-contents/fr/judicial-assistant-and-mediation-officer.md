@@ -52,8 +52,6 @@ Judicial assistants and mediators assist judges in handling cases, organize medi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate document processing and data matching, but human empathy, legal discretion, and complex negotiations in mediation remain irreplaceable. Job differentiation is evident: junior tasks are compressed, while advanced mediation and legal analysis abilities are amplified.
-
 Judicial assistants can be promoted to professional mediators or court clerks; After gaining experience, you can join private mediation firms or establish independent mediation firms, with some developing into assistant judges.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Judicial assistants can be promoted to professional mediators or court clerks; A
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring employer sponsorship or professional qualifications, valid for 4 years, with renewable options |
-| Subclass Salarié (Employee Work Permit) | Employed by French judicial authorities or mediation firms, requiring a work contract and employer sponsorship |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, you can apply for a 12-month job-seeking visa to look for related positions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: They can be promoted from junior judicial assistant to senior mediator or med
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judicial-assistant-and-mediation-officer/FR)**

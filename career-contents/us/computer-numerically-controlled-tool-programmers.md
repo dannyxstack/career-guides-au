@@ -51,8 +51,6 @@ Write computer numerical control (CNC) programs to control automatic machine too
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can convert CAD models directly to G-code, reducing manual programming needs; by 2030 over 30% of programming tasks automated, significantly reducing entry-level roles, need to pivot to process optimization or CAM software development.
-
 Can progress from junior programmer to senior programmer, CNC supervisor, or manufacturing engineer. With experience, can move into CAM software development or technical sales.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior programmer to senior programmer, CNC supervisor, or man
 | Subclass EB-3 (Employment-Based Green Card: Skilled Worker) | employment-based immigrant visa (green card), requires PERM labor certification, long waiting period |
 | Subclass TN (TN Status (USMCA Professional)) | Applicable to Canadian or Mexican citizens, must meet the list of professional occupations. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Some programming tasks may be automated, but complex part programming, proces
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-numerically-controlled-tool-programmers/US)**

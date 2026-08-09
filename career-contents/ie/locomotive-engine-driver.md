@@ -53,8 +53,6 @@ In Ireland, train drivers operate freight or passenger trains, ensuring safe and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Train drivers face high automation risk; autonomous driving tech may take over some tasks, but safety responsibility and complex emergency handling still require humans, potentially reducing overall job demand.
-
 Typically start as assistant drivers or railway operations staff, gain experience, and progress to senior drivers, with potential to move into training or management roles. Iarnród Éireann offers internal advancement pathways.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as assistant drivers or railway operations staff, gain experienc
 | Subclass General Employment P (General Employment Permit) | Applicable to train drivers with employer sponsorship, requiring demonstration of labor market testing. |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | This occupation is usually not on the shortage list and is not applicable. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, but need a General Employment Permit and the employer may need to conduc
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locomotive-engine-driver/IE)**

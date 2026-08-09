@@ -53,8 +53,6 @@ ASIC design engineers are responsible for the digital front-end (RTL design/inte
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ASIC design engineers face mixed feelings: AI will significantly improve the efficiency of automated tasks such as RTL generation, comprehensive optimization, and timing analysis, but complex architectural decisions, cross-level collaboration, and final pre-tape-out sign-off still require human judgment. Entry-level positions (such as simple RTL modules) may be squeezed, but demand for high-end positions is growing.
-
 In 2026, AI accelerators and low-power SoCs will be the main focus, and design engineers who master RTL, integration, timing, and backend processes are scarce. AI-assisted parts handle RTL and verification, but architecture, timing convergence, and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ In 2026, AI accelerators and low-power SoCs will be the main focus, and design e
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -163,12 +159,13 @@ A: Yes. Electronic Engineering (233411) is on the immigration list and can be ta
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/asic-design-engineer/AU)**

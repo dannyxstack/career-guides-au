@@ -56,8 +56,6 @@ A Roof Plumber installs and maintains metal roofing, guttering, downpipes and wa
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofing work is a skilled physical occupation that AI/automation cannot fully replace, but it will optimize design, measurement, and material ordering to increase efficiency, while non-technical tasks like paperwork may be taken over.
-
 Solar rooftop integration, green building waterproofing systems, and aging roof renovation are three key growth areas. AI replacement risk is extremely low, as rooftop work at height is highly labour-dependent.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Solar rooftop integration, green building waterproofing systems, and aging roof 
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points, permanent residency |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points, PR after 5 years |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -173,12 +169,13 @@ A: Plumbers have a larger workforce (~85,000 vs 18,000) and broader employment o
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roof-plumber/AU)**

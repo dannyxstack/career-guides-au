@@ -53,8 +53,6 @@ Internal medicine specialists diagnose and treat adult internal diseases such as
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot replace the core diagnosis and treatment decisions of internal medicine specialists, but will enhance their efficiency and information processing, allowing them to focus more on complex cases and humanistic care.
-
 Can progress from resident to attending physician, chief physician, or open a private practice or pursue academic research.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from resident to attending physician, chief physician, or open a pr
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires qualification certification, suitable for doctors with a recognized German degree. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows six months in Germany to find a job, but academic qualification recognition must be completed in advance. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: At least B2 clinical German, usually requires C1 or above.
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-in-internal-medicine/DE)**

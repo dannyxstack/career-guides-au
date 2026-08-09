@@ -4,8 +4,6 @@
 
 Midwives are professional medical personnel responsible for providing care to women during pregnancy, childbirth, and postpartum, while also caring for the newborn's health. They provide prenatal checkups, childbirth support, and postpartum follow-ups independently or in collaboration with obstetricians in hospitals, clinics, or communities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Midwives are professional medical personnel responsible for providing care to wo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core clinical judgment and emotional support for midwives are hard to replace, but administrative, monitoring, and knowledge acquisition will be significantly compressed by AI tools, with core job value concentrated in high-touch, high-risk areas.
-
 Junior midwives can gain experience at public hospitals or health centers, and can then be promoted to senior midwives or supervisors. They can also specialize in high-risk pregnancies, perinatal mental health, or breastfeeding counseling. Some enter teaching or research directions through master's degrees.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior midwives can gain experience at public hospitals or health centers, and c
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | Employed work residence requires a contract with a Spanish hospital or health center, and the position meets the requirements for a shortage occupation. |
-| Subclass Altamente cualificad (High-Skilled Professional Visa) | The Highly Skilled Professional visa (Ley 14/2013) is for midwives who have secured high-paying contracts (annual salary of about 33,000 euros or more). |
-| Subclass Homologación (Professional Qualification Recognition) | Non-EU midwives must first apply for academic qualification (homologación), a strict process requiring more than one year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, midwives are listed as a scarce occupation (ocupación de difícil cober
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwife/ES)**

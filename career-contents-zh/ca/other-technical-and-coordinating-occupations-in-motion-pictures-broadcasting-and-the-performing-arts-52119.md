@@ -1,6 +1,6 @@
-# Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts 职业分析 · 加拿大
+# 电影、广播和表演艺术中的其他技术和协调职业（Other technical and coordinating occupations in motion pictures, broadcasting and the performing arts）职业分析 · 加拿大
 
-**职业代码: 52119 (NOC)**
+**职业代码：52119 (NOC)**
 
 该职业涵盖电影、电视、广播和舞台制作中的技术支持与协调岗位，包括灯光、音响、摄像、舞台管理及后期制作等，确保制作流程顺畅。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 18,500. 加拿大娱乐产业持续增长，数字媒体和流媒体平台需求旺盛，但岗位竞争激烈，多伦多和温哥华是主要就业中心。
+**职位需求量：中（★★★☆☆）** 全国从业人数约 18,500。加拿大娱乐产业持续增长，数字媒体和流媒体平台需求旺盛，但岗位竞争激烈，多伦多和温哥华是主要就业中心。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -48,21 +48,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
 AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自动化，但创意协调和现场应变能力仍是核心护城河。
 
 初级岗位如助理或技术员起步，通过积累经验可晋升为部门主管、技术总监或制片协调员，部分转向自由职业或创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 安排会议和档期
 - 整理和归档文件
 - 制作通告单和行程表
 - 简单的数据录入和报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI工具快速生成项目计划草案
 - 通过语音助手记录会议要点
@@ -70,7 +70,7 @@ AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自
 - 借助AI分析观众反馈优化内容
 - 利用翻译工具与多语言团队沟通
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场突发问题处理
 - 跨部门沟通协调能力
@@ -78,7 +78,7 @@ AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自
 - 对拍摄/演出流程的深度理解
 - 人际信任和团队凝聚力维护
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 项目管理软件（如Notion、Asana）
 - 基础视频剪辑和摄影知识
@@ -87,16 +87,16 @@ AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自
 - 数字媒体营销基础
 - 跨文化沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Media
-- Streaming Services
-- Virtual Production
-- Live Events
+- 数字媒体
+- 流媒体服务
+- 虚拟制作
+- 现场活动
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -105,9 +105,7 @@ AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自
 | Subclass PNP (Provincial Nominee Program) | 部分省份如安大略省、BC省有相关提名项目 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主可申请LMIA支持工签，适用于紧缺岗位 |
 
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**PR友好度：中低（★★½☆☆）**
 
 ---
 
@@ -148,12 +146,13 @@ AI对制作助理等协调职业影响喜忧参半：部分行政任务可被自
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
+| PR友好度 | 中低（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-technical-and-coordinating-occupations-in-motion-pictures-broadcasting-and-the-performing-arts-52119/CA)**

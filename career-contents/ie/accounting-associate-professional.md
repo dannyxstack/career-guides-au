@@ -51,8 +51,6 @@ Assist accountants with daily accounting tasks such as bookkeeping, tax filing, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Accountants and bookkeepers will see repetitive tasks like bookkeeping and reconciliation automated by AI, but financial analysis and client advisory roles that rely on human judgment and communication will be strengthened. Overall, risk and opportunity coexist.
-
 Can advance from junior accounting assistant to senior accounting technician, financial supervisor, or tax advisor. Some become chartered accountants (ACA/ACCA) through further education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior accounting assistant to senior accounting technician, fi
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the annual salary exceeds €32,000 and the occupation is on the shortage list, the application can be simplified. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, annual salary must be over €32,000 |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a diploma or degree in accounting (Level 6-8), or completi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-associate-professional/IE)**

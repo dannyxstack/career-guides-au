@@ -4,8 +4,6 @@
 
 Subsistence crop farmers primarily grow food crops to support their household; in the Netherlands, this occupation is very small-scale, mostly in remote areas, with very low income and low mechanization.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Subsistence crop farmers primarily grow food crops to support their household; i
 
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
-
-Self-sufficient crop farmers in the Netherlands operate on a very small scale with low mechanization; AI and automation find it difficult to directly replace their manual labor, but digital agriculture tools (such as precision farming, automatic seeding) and agricultural product market information platforms will compress their living space, forcing them to transform or exit.
 
 Limited career progression paths, often difficult to advance; a few may transition to commercial farm workers or horticultural workers, but at a high conversion cost.
 
@@ -99,15 +95,9 @@ Limited career progression paths, often difficult to advance; a few may transiti
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Freedom of Movement) | Only applies to EU citizens; non-EU citizens are generally unable to obtain a work visa through this occupation. |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: Almost impossible; this occupation is not on the Netherlands' shortage occupa
 | Work intensity | high (★★★★☆) |
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-crop-farmer/NL)**

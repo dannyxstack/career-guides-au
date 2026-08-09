@@ -53,8 +53,6 @@ Responsible for planning, directing, or coordinating the operational, administra
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly improve the efficiency of government project officers, especially in report generation, data analysis, and communication coordination, but core decision-making, budget management, and policy understanding still require human judgment.
-
 Typically progress from postal clerk or supervisor to postmaster, then to regional director or headquarters management roles. Requires accumulation of management experience and cross-departmental communication skills; some positions can be promoted through internal exams.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Typically progress from postal clerk or supervisor to postmaster, then to region
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically need to start as a postal clerk, gain management experience, and pa
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postmasters-and-mail-superintendents/US)**

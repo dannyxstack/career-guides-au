@@ -53,8 +53,6 @@ Administrative support for pension and insurance policy management, including pr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This occupation is highly structured and rule-driven, making it easily automatable by AI. However, parts involving legal compliance and client communication still have demand, though overall job numbers will significantly decrease.
-
 Can advance from junior clerk to senior clerk, team supervisor, or insurance/pension management specialist; some may obtain professional qualifications to transition to consultant roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior clerk to senior clerk, team supervisor, or insurance/pen
 | Subclass Graduate (Graduate visa) | UK graduates can apply for a 2-year work visa (3 years for PhD) and transition to Skilled Worker after gaining experience |
 | Subclass Global Talent (Global Talent visa) | Not applicable, this occupation is not in leadership or technical fields |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: From clerk to senior clerk, then to team supervisor, insurance/pension adviso
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pensions-and-insurance-clerks-and-assistants/UK)**

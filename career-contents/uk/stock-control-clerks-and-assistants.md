@@ -54,8 +54,6 @@ Inventory control clerks handle customer orders, prepare shipping documents, mai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Inventory control clerk positions are significantly reduced by AI and automation; many data entry, order processing, and inventory reconciliation tasks can be replaced, but interpersonal coordination and exception handling still require human input.
-
 Junior clerks can advance to senior inventory controller or team leader through experience, and further move to supply chain management, procurement, or logistics coordination roles. Some professionals enhance career prospects by obtaining certifications such as CIPS.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior clerks can advance to senior inventory controller or team leader through 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Obtaining a CIPS certificate in procurement and supply or a diploma in logist
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-control-clerks-and-assistants/UK)**

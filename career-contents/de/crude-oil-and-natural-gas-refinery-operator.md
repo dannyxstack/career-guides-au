@@ -54,8 +54,6 @@ Responsible for monitoring and operating crude oil and natural gas refinery equi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 Can be promoted from operator to team leader or process engineer; after gaining experience, can transition to energy management or safety supervision roles, requiring continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can be promoted from operator to team leader or process engineer; after gaining 
 | Subclass Skilled Worker (Fach (Skilled Worker Visa) | Must complete dual system training or academic accreditation, have employer sponsorship, and no hard salary threshold. |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | 2024 new policy, based on a points system, allows entry to Germany for job seeking, subject to meeting basic conditions. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Some operations may be automated, but monitoring and emergency response still
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crude-oil-and-natural-gas-refinery-operator/DE)**

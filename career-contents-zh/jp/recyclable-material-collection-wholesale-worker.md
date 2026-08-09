@@ -1,10 +1,8 @@
-# Recyclable Material Collection & Wholesale Worker 职业分析 · 日本
+# 可回收物料收集与批发工人（Recyclable Material Collection & Wholesale Worker）职业分析 · 日本
 
-**职业代码: 325 (JSCO)**
+**职业代码：325 (JSCO)**
 
-Occupations involved in collecting, sorting, and wholesaling recyclable resources such as waste paper, scrap metal, and used textiles to recycling or manufacturing companies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从事废纸、废金属、废旧纺织品等可回收资源的收集、分类和批发，并将其送至回收或制造公司的职业。
 
 
 ---
@@ -13,8 +11,8 @@ Occupations involved in collecting, sorting, and wholesaling recyclable resource
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$3,000,000（Virtually free for public high schools.） |
-| Vocational School (e.g., Resource Recycling Department) | 2 年 | $1,000,000~$3,000,000（Estimated cost for private vocational schools.） |
+| 高中文凭 | 3年 | $0~$3,000,000（公立高中几乎免费。） |
+| 职业学校（如资源回收系） | 2 年 | $1,000,000~$3,000,000（私立职业学校预计费用。） |
 
 ---
 
@@ -22,18 +20,18 @@ Occupations involved in collecting, sorting, and wholesaling recyclable resource
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training | Prefectural Labor Bureau | 必备 | Essential for transporting heavy loads. |
-| Waste Treatment Business Permit | Prefecture | 必备 | Required for conducting waste collection and transportation as a business. |
-| Dangerous Materials Handler (Class B) | Fire and Disaster Management Agency | 可选 | Advantageous for handling oils and chemicals. |
+| 叉车操作技能培训 | 县级劳动局 | 必备 | 对于运输重物至关重要。 |
+| 废物处理业务许可证 | 县 | 必备 | 作为企业从事废物收集运输所需。 |
+| 危险品处理员（B类） | 消防与灾害管理局 | 可选 | 有利于处理油类和化学品。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 120,000. Demand remains stable due to resource circulation policies and SDGs, but automation and AI-driven sorting efficiency are reducing some employment.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 120,000。由于资源循环政策和可持续发展目标，需求保持稳定，但自动化和AI驱动的分拣效率正在减少部分就业。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,93 +39,85 @@ Occupations involved in collecting, sorting, and wholesaling recyclable resource
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $2,800,000~$3,500,000 | Starting salary at major recycling companies. |
-| Mid (4-10 years) | $3,800,000~$5,000,000 | Field leader or sales representative. |
-| Senior (11+ years) | $5,000,000~$7,000,000 | Management or independent business owner. |
+| 入门级（0-3年） | $2,800,000~$3,500,000 | 大型回收公司的起薪。 |
+| 中级（4-10年） | $3,800,000~$5,000,000 | 现场主管或销售代表。 |
+| 高级（11年以上） | $5,000,000~$7,000,000 | 管理层或独立企业主。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-AI image recognition and robotic sorting are advancing, reducing manual sorting. Meanwhile, new jobs in data management and system operation for AI emerge, but overall employment shrinks.
+AI图像识别和机器人分拣正在发展，减少人工分拣。同时出现数据管理和AI系统运维等新岗位，但整体就业减少。
 
-Entry-level positions available; career growth from field work to procurement/sales route development, management, or even independent business ownership.
+提供入门级职位；从实地工作到采购/销售路线开发、管理甚至独立创业的职业发展路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Sorting work
-- Weighing/recording
-- Simple sorting
+- 分类工作
+- 称量/记录
+- 简单分拣
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Quality control (verifying AI decisions)
-- Inventory management system operation
-- Customer negotiation
+- 质量控制（验证AI决策）
+- 库存管理系统操作
+- 客户谈判
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal negotiation (procurement/sales)
-- Judgment on handling hazardous materials
-- Flexible response (e.g., foreign object contamination)
+- 人际谈判（采购/销售）
+- 危险品处理判断
+- 灵活应对（例如异物污染）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/robot operation and maintenance
-- Data analysis (resource price prediction)
-- Communication skills
+- AI/机器人操作与维护
+- 数据分析（资源价格预测）
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recycling
-- Waste treatment
-- Resource circulation
-- Environmental business
+- 回收
+- 废物处理
+- 资源循环
+- 环境业务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | May fall under waste treatment tasks (field limited). |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Obtainable when engaged in recycling tech or sales/management duties. |
-| Subclass 技能 (Skilled Labor) | When recognized as skilled worker (e.g., metal processing). |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those confident in physical strength
-- Those interested in environmental issues
-- Those who don't mind routine work
+- 体力充沛者
+- 对环境问题感兴趣的人
+- 不介意重复性工作的人
 
 **谁不适合**
-- Those who prefer clean environments
-- Those seeking creative work
+- 喜欢清洁环境的人
+- 寻求创意工作者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary like?**
-答：Starting annual salary is around 2.8-3.5 million yen. With experience, over 5 million yen is possible, but industry average is low.
+**问：薪资水平如何？**
+答：起薪约280-350万日元。有经验后可能超过500万日元，但行业平均工资较低。
 
-**问：How can foreigners work here?**
-答：Possible visas: Specified Skilled Worker (i) (waste treatment) or Engineer/Specialist in Humanities/International Services. Japanese ability (N4+) and skills test are often required.
+**问：外国人如何在此工作？**
+答：可能的签证：特定技能工人（i）（废物处理）或人文/国际服务中的工程师/专家。通常需要日语能力（N4+）和技能测试。
 
-**问：What's the career path?**
-答：Start with fieldwork, then after learning sorting techniques, move to procurement/sales, factory manager, or independent business.
+**问：职业发展路径是什么？**
+答：从现场工作开始，掌握分拣技术后，转向采购/销售、工厂管理或独立创业。
 
 
 ---
@@ -145,12 +135,12 @@ Entry-level positions available; career growth from field work to procurement/sa
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/recyclable-material-collection-wholesale-worker/JP)**

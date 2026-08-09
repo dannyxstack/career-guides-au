@@ -53,8 +53,6 @@ Interview individuals via phone, mail, in-person, or other means to complete for
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Interviewers (excluding eligibility and loan tasks) face highly structured tasks; AI and automation can efficiently replace standardized interviews like phone and online surveys, significantly reducing entry-level positions. However, human input is still needed for sensitive topics or complex human interactions; overall risk is high.
-
 Entry-level interviewers can advance to senior interviewers or team supervisors, and further move to roles such as market research analysts or customer service managers. Typically requires accumulating experience and improving communication skills.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level interviewers can advance to senior interviewers or team supervisors,
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: BLS projects about 2% growth from 2023-2033, slower than average. Online surv
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interviewers-except-eligibility-and-loan/US)**

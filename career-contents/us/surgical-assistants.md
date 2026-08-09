@@ -52,8 +52,6 @@ Assist surgeons during operations, potentially including incisions, suturing, ti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Operating room technicians are less affected by AI automation; AI is more of an assistive tool that can improve efficiency and accuracy, but core surgical assistance and aseptic operations are hard to replace.
-
 Can advance from junior assistant to senior surgical assistant or operating room supervisor, requiring accumulated surgical experience and continuing education; some transition to physician assistant or healthcare management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from junior assistant to senior surgical assistant or operating room
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card category requiring PERM labor certification with a long wait period |
 | Subclass Green Card (PERM) (Green Card (PERM)) | Apply via labor certification process with employer support |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: typically requires the Certified Surgical Assistant (CSA) credential from NBS
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgical-assistants/US)**

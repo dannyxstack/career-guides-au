@@ -52,8 +52,6 @@ Valuers provide professional valuations in real estate and commercial asset sect
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Property valuers' core valuation judgments rely on human experience and site inspections, which AI cannot fully replace; however, tasks like data collection and report generation can be largely automated, compressing entry-level roles and reshaping workflows.
-
 Career path: from junior valuer to senior valuer or team supervisor; with experience can become independent registered valuer or open own firm; some move into commercial property investment analysis or asset management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career path: from junior valuer to senior valuer or team supervisor; with experi
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, requires employer offer and meeting the 6-point system, registered valuer bonus points |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for temporary work with a sponsoring employer, later convertible to residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must have overseas qualifications and experience assessed by the New Zealand 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/valuer/NZ)**

@@ -55,8 +55,6 @@ Osteopaths diagnose and treat musculoskeletal disorders through manual therapy, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Osteopaths face a mixed outlook: AI/automation supports diagnostic and imaging analysis, boosting individual efficiency, but tasks like documentation, appointment management, and basic rehab guidance face high replacement risk. Entry-level competition increases, while advanced clinical judgment and manual therapy remain strong defenses.
-
 Junior osteopaths typically gain experience in private practice or sports clinics, then advance to senior practitioner, clinic manager, or partner. Some move into teaching, research, or open their own practice, with income increasing significantly with experience.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Junior osteopaths typically gain experience in private practice or sports clinic
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship, with pathway to 191 permanent residency. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some regional DAMA projects include Osteopaths, with more relaxed conditions. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Yes. The JSA Skills Priority List lists osteopaths as a regional shortage occ
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/osteopath/AU)**

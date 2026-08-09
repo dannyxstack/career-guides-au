@@ -50,8 +50,6 @@ A construction skilled worker who applies mortar, plaster, etc. to walls and flo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and robots cannot completely replace the delicate plastering work of plasterers, but AI is being introduced as an aid in material blending, process management, and quality inspection, improving productivity. As a result, AI will not take away plasterers' jobs but will enhance their skills.
-
 Starting as an apprentice, one can aim for Skill Test Grade 1 or recognition as an Excellent Skilled Worker (Modern Master). Career paths are diverse, including independent business or incorporation.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as an apprentice, one can aim for Skill Test Grade 1 or recognition as 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Specified Skilled Worker (i) in construction. Plastering is an eligible job. Max stay of 5 years. Passing the skills test (construction field) required. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | Construction added to Specified Skilled Worker (ii) from 2023. Plastering included. Renewable stay, family accompaniment and permanent residency possible. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | This status usually does not apply to plastering, but may be possible when combined with construction management etc. at a construction company. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: No mandatory qualifications are required, but obtaining a skilled worker cert
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer/JP)**

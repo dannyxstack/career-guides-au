@@ -4,8 +4,6 @@
 
 Medical or clinic secretaries are responsible for managing the daily administrative affairs of the clinic, including patient appointments, medical record management, billing processing, and communication and coordination with doctors and patients. This position requires strong organizational and communication skills, typically working in private clinics or public medical centers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Medical or clinic secretaries are responsible for managing the daily administrat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of medical or clinic secretaries has been affected by AI: some administrative tasks can be automated, but interpersonal coordination and medical information processing still require human judgment.
-
 Junior medical secretaries can be promoted to senior secretaries or office managers, or can move into specialized fields such as medical management, health information management, or medical coding. By completing additional administrative or medical management training, you have the opportunity to enter hospital management or medical consulting.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Junior medical secretaries can be promoted to senior secretaries or office manag
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer-sponsored work residence permit, requiring proof that the position cannot be filled by an EU citizen, typically for non-occupations in demand. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: Typically, it is necessary to complete an administrative management-related m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-or-clinic-secretary/ES)**

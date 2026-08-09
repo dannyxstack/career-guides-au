@@ -52,8 +52,6 @@ Insulation workers install insulation materials on surfaces such as pipes, boile
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tasks such as material calculation and progress recording can be automated by AI, but physical work like on-site installation and handling irregular surfaces is hard to replace. AI will enhance decision-making in material selection and energy efficiency assessment, with overall risk being moderate.
-
 Progress gradually from junior insulator to senior technician, team supervisor, or transition to construction project management or self-employed contracting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Progress gradually from junior insulator to senior technician, team supervisor, 
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, 482 to 186 |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, but must align with each state's list |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Via employer sponsorship 482/186 is possible; some state sponsorship 190 is a
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lagger/AU)**

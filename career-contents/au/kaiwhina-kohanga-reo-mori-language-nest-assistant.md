@@ -53,8 +53,6 @@ Māori language nest assistant supports the revitalisation of the Māori languag
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-Some administrative and content preparation tasks of Māori language nest assistants can be automated by AI, but core language teaching, cultural transmission, and emotional interaction rely on humans, making the overall outlook mixed.
-
 Career progression is limited; can move towards early childhood education supervisor or Māori cultural advisor roles, but constrained by region.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career progression is limited; can move towards early childhood education superv
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost none. This occupation is not on Australia's skilled occupation list, s
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kaiwhina-kohanga-reo-mori-language-nest-assistant/AU)**

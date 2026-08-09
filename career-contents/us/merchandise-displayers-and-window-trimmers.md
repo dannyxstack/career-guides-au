@@ -55,8 +55,6 @@ Responsible for planning and building retail store windows and interior commerci
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on visual merchandisers is mixed: automated design tools and virtual fitting rooms will compress basic layout and material processing, but the pursuit of 3D space, material lighting, and dreamlike experiences in physical stores makes human creativity and cross-sensory coordination irreplaceable.
-
 Usually start as junior display assistant or retail staff, gain experience to advance to senior display designer, regional visual manager, or transition to exhibition design, creative director, etc.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Usually start as junior display assistant or retail staff, gain experience to ad
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Can advance from assistant visual merchandiser to senior visual merchandiser,
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/merchandise-displayers-and-window-trimmers/US)**

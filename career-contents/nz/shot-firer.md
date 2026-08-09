@@ -52,8 +52,6 @@ Blasthole drillers perform drilling and blasting operations in New Zealand's min
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters in Australia are high-paid skilled trades; AI automation poses substitution risks for some planning and record-keeping tasks, but on-site supervision and safety responsibilities are hard to replace. Overall risk is moderate, with both opportunities and challenges.
-
 Usually start as a blasting assistant, gain experience, obtain a blasting license to become an independent blaster; can advance to blasting supervisor or safety consultant, with average annual income over NZD $120k.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start as a blasting assistant, gain experience, obtain a blasting licens
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, occupational registration can add points, suitable for applicants who do not directly meet T1 conditions. |
 | Subclass AEWV (Accredited Employer Work Visa) | If T1 requirements are not met, one can first work on a AEWV then transition to permanent residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No. Must pass assessment by WorkSafe New Zealand to convert license, often re
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shot-firer/NZ)**

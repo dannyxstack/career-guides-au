@@ -52,8 +52,6 @@ Research environmental issues, including pollution control, resource management,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Typically start as junior environmental scientist or consultant, then advance to senior scientist, team leader, or project manager. Some move into policy or academia.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as junior environmental scientist or consultant, then advance to
 | Subclass 491 (Skilled Work Regional Visa) | Regional state nomination or family sponsorship, temporary visa, requires 3 years of living and working in a regional area to transition to PR |
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, valid for short, medium, and long-term occupations, can transition to 186 permanent residency |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is on the MLTSSL and STSOL, eligible for 189 Skilled Independ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-scientists-nec/AU)**

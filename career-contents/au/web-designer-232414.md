@@ -53,8 +53,6 @@ Web designers plan, design, and create the user interface and visual experience 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Web designers' creative and visual decisions are hard to replace by AI in the short term, but coding translation, image generation, A/B testing tasks are being compressed by AI, and entry-level roles are already facing significant competitive pressure.
-
 Junior web designers can advance to senior designer, design lead, or creative director, or transition to UX/UI design or front-end development, and start their own business after accumulating experience.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior web designers can advance to senior designer, design lead, or creative di
 | Subclass 189 (Skilled Independent Visa) | Skilled independent migration requires skills assessment and EOI invitation |
 | Subclass 190 (Skilled Nomination Visa) | State-sponsored skilled migration, requires state government nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Good prospects. Digitalization trend continues; can transition to UX/UI desig
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer-232414/AU)**

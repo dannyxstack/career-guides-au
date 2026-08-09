@@ -51,8 +51,6 @@ HR service specialists are responsible for recruitment, personnel management, pa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will largely automate recruitment screening, payroll calculations, and basic employee inquiries, but emotional communication, complex labor disputes, and strategic HR decisions remain firmly in human hands.
-
 Can progress from HR officer to team leader, HR manager, or move into specialised areas like compensation/recruitment. Pursuing a degree or certification in HR through further study can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from HR officer to team leader, HR manager, or move into specialise
 
 **PR friendliness: medium-high (★★★½☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically requires completing an IHK-certified dual training program or holdi
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personnel-services-specialist/DE)**

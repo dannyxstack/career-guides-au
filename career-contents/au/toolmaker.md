@@ -53,8 +53,6 @@ A toolmaker specialises in manufacturing and repairing metal dies, jigs and prec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 CNC-assisted machining is widespread, but mould design and precision fit capabilities remain the core competitive advantage. An ageing workforce means skilled toolmakers are increasingly scarce.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ CNC-assisted machining is widespread, but mould design and precision fit capabil
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 190 (Skilled Nominated) | VIC/SA priority manufacturing |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires a TRA skills assessment; submit work samples and employment evidence
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/toolmaker/AU)**

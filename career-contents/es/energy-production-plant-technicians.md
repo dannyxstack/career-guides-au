@@ -51,8 +51,6 @@ Responsible for operating, maintaining, and monitoring power generation faciliti
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Power plant operator roles face structural changes due to AI and automation: routine monitoring tasks are reduced, but demand for complex decision-making and emergency handling increases. Total job numbers may decline, but advanced skill requirements rise.
-
 You can be promoted from junior technician to senior technician or team leader, or enter project design or management positions through advanced engineering degrees.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ You can be promoted from junior technician to senior technician or team leader, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled technical specialists requiring a university degree or equivalent experience, annual salary approximately €33,908 (2025 threshold). |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Spanish work residence requires employer sponsorship, suitable for those holding an FP or higher qualification. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -144,12 +136,12 @@ A: You can use the EU Blue Card (requiring education and annual salary requireme
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/energy-production-plant-technicians/ES)**

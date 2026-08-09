@@ -4,8 +4,6 @@
 
 A professional instructor who teaches technical and vocational fields such as welding, electricity, and automobile maintenance at vocational training institutions or schools. Through practice-oriented education, they train the workforce needed in industrial settings.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional instructor who teaches technical and vocational fields such as we
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can be used as an educational aid, but hands-on technical training requires in-person instruction, making full replacement difficult. However, some tasks such as online educational content production may be automated.
-
 Most instructors transition from industry experience, and some are hired as regular faculty. Depending on their career, they can advance to teaching positions or management roles in educational institutions. Obtaining relevant certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Most instructors transition from industry experience, and some are hired as regu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if a qualified foreign instructor is hired by a domestic educational institution, but not common. |
-| Subclass F-2 (F-2 (Residence)) | As a preliminary step to permanent residence, long-term foreign instructors can work. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: It is possible but requires a professional qualification through the E-7 visa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-vocational-instructor/KR)**

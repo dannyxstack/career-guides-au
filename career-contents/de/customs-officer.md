@@ -54,8 +54,6 @@ Customs officers oversee the cross-border movement of goods and people, enforce 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will automate documentation and data analysis tasks, but customs officers' enforcement discretion, on-site inspections, and interpersonal skills are hard to replace; overall outlook is mixed.
-
 Career progression starts from general inspector, advancing to senior expert, team leader, or regional manager. Through internal training and continuing education, can transition to customs audit, investigation, or policy formulation roles.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression starts from general inspector, advancing to senior expert, te
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes, can progress from general inspector to team lead, regional manager, or t
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-officer/DE)**

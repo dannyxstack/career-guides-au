@@ -49,8 +49,6 @@ A production worker who operates and manages machines that produce tires and rub
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-With the introduction of AI and automation technologies, simple repetitive tasks are being replaced by machines. However, areas requiring human judgment, such as equipment maintenance and fault response, remain, and the role of skilled workers is still important.
-
 Promotion possible: operator → skilled operator → foreman (line management) → process manager. Technical skills are becoming more important with the introduction of automated equipment.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Promotion possible: operator → skilled operator → foreman (line management) 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Eligible to enter through the Employment Permit System for unskilled production jobs |
-| Subclass E-7 (Specific Activities (E-7)) | Acquirable upon conversion to skilled worker |
-| Subclass F-2 (Residence (F-2)) | Convertible under the skilled worker points system (upon meeting certain conditions) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: You can grow into a team leader or process manager through internal promotion
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tire-and-rubber-product-production-machine-operator/KR)**

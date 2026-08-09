@@ -1,8 +1,8 @@
-# Livestock Worker 职业分析 · 韩国
+# 畜牧业工人（Livestock Worker）职业分析 · 韩国
 
-**职业代码: 90221 (KECO)**
+**职业代码：90221 (KECO)**
 
-Agricultural workers who raise and manage livestock such as cattle, pigs, and chickens, performing basic labor in the livestock industry.
+饲养和管理牛、猪、鸡等牲畜的农业工人，从事畜牧业基础劳动。
 
 
 ---
@@ -11,8 +11,8 @@ Agricultural workers who raise and manage livestock such as cattle, pigs, and ch
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（High school diploma not required） |
-| Livestock-related training | 3个月 | $500,000~$2,000,000（Short-term courses at Livestock Technology Training Institute, etc.） |
+| 高中毕业 | 0年 | $0~$0（无需高中文凭） |
+| 畜牧业相关培训 | 3个月 | $500,000~$2,000,000（畜牧技术培训学院等短期课程） |
 
 ---
 
@@ -20,17 +20,17 @@ Agricultural workers who raise and manage livestock such as cattle, pigs, and ch
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Livestock Artificial Inseminator | Ministry of Agriculture, Food and Rural Affairs | 必备 | Essential for professional breeding management |
-| Livestock Technician | Human Resources Development Service of Korea | 可选 | Optional, certifies skill level |
+| 家畜人工授精员 | 农业、食品与农村事务部 | 必备 | 对专业育种管理至关重要 |
+| 畜牧技师 | 韩国人力资源开发服务局 | 可选 | 可选，认证技能水平 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Due to aging and labor shortages, reliance on foreign workers is increasing. While technology is automating some tasks, demand for labor is expected to persist for the time being.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于老龄化和劳动力短缺，对外国工人的依赖增加。虽然技术正在自动化一些任务，但劳动力需求预计短期内将持续。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -38,93 +38,85 @@ Agricultural workers who raise and manage livestock such as cattle, pigs, and ch
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Minimum wage level, may be lower with housing provided |
-| Intermediate (3–7 years) | $30,000,000~$40,000,000 | Varies with experience and farm size |
-| Advanced (7+ years) | $40,000,000~$55,000,000 | Higher for management or specialized technical roles |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 最低工资水平，提供住宿可能更低 |
+| 中级（3-7年） | $30,000,000~$40,000,000 | 根据经验和农场规模而异 |
+| 高级（7年以上） | $40,000,000~$55,000,000 | 管理或专业技术岗位要求更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation technologies are being introduced into livestock farming, replacing some repetitive tasks like feeding and environmental control, but human judgment remains essential for observing animal health, emergency response, and individual care. Therefore, they serve as assistants rather than complete replacements, and technical proficiency will become increasingly important.
+人工智能和自动化技术正被引入畜牧业，取代喂食和环境控制等重复性任务，但在观察动物健康、应急响应和个体护理方面仍需人工判断。因此，它们作为辅助而非完全替代，技术熟练度将变得越来越重要。
 
-Can advance from beginner herder → skilled herder → livestock manager → farm owner or technical consultant. Specialization in breed improvement and disease management possible with experience.
+可以从初级牧民→熟练牧民→畜牧经理→农场主或技术顾问晋升。通过经验可专攻品种改良和疾病管理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular feeding tasks
-- Automatic temperature/humidity control
-- Basic manure treatment
+- 定期喂食任务
+- 自动温湿度控制
+- 基本粪便处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Early disease detection using AI cameras
-- Optimizing breeding through data analysis
-- Robot milker management and monitoring
+- 使用AI摄像头进行早期疾病检测
+- 通过数据分析优化育种
+- 机器人挤奶机管理与监控
 
-**人类护城河:**
+**人类护城河：**
 
-- Detecting subtle signs of animal health
-- Quick decision-making and response in emergencies
-- Ethical decisions related to animal welfare
+- 察觉动物健康的细微迹象
+- 紧急情况下的快速决策与响应
+- 与动物福利相关的伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Ability to operate smart farm systems
-- Basic data analysis
-- Grazing management using drones
+- 操作智能农场系统的能力
+- 基础数据分析
+- 利用无人机进行放牧管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly livestock farming
-- Smart farm adoption
-- Livestock disease management
-- Dependence on foreign workers
+- 生态友好型畜牧业
+- 智能农场应用
+- 家畜疾病管理
+- 依赖外籍工人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Large-scale employment in livestock under the Employment Permit System for foreign workers. Eligible for extension after 3 years of stay. |
-| Subclass E-7 (E-7 (Specific Activities)) | Available for skilled workers, such as those holding a livestock technician certificate. |
-| Subclass F-2 (Residence (F-2)) | Transition from E-7 or E-9 after long-term stay via points system, a step before permanent residency. |
-| Subclass F-4 (Overseas Koreans (F-4)) | No employment restrictions for Koreans aged 25 or older; also eligible for livestock industry. |
-
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and prefer outdoor activities.
-- People who love animals and have patience in caring for them.
-- People willing to settle in rural areas.
+- 身体健壮且喜欢户外活动的人。
+- 热爱动物并有耐心照顾它们的人。
+- 愿意定居农村地区的人。
 
 **谁不适合**
-- People who prefer city life.
-- People who dislike unhygienic environments.
+- 喜欢城市生活的人。
+- 不喜欢不卫生环境的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a livestock worker?**
-答：Around 24-30 million KRW for entry level, rising to 40-55 million KRW depending on experience and farm size.
+**问：畜牧业工人的平均年薪是多少？**
+答：入门级约2400-3000万韩元，根据经验和农场规模升至4000-5500万韩元。
 
-**问：What visa does a foreigner need to work in livestock farming?**
-答：E-9 (Non-professional Employment) visa is most common, E-7 (Specific Activities) visa is also possible, and can be converted to F-2 after long-term stay.
+**问：外国人在畜牧业工作需要什么签证？**
+答：E-9（非专业就业）签证最常见，E-7（特定活动）签证也可行，长期居留后可转为F-2。
 
-**问：What certifications are required for livestock farming?**
-答：Although not mandatory, a livestock technician certification is helpful, and an artificial inseminator license is essential for breeding management.
+**问：畜牧业需要哪些认证？**
+答：虽非强制，但畜牧技术员证书有帮助，人工授精员许可证对繁殖管理至关重要。
 
 
 ---
@@ -142,12 +134,12 @@ Can advance from beginner herder → skilled herder → livestock manager → fa
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/livestock-worker/KR)**

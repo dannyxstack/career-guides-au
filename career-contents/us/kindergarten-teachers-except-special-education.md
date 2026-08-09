@@ -53,8 +53,6 @@ Responsible for teaching kindergarten students academic and social skills, exclu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
-
 Can progress from teaching assistant to lead teacher, then to kindergarten director or curriculum coordinator. Requires gaining experience and obtaining a higher degree such as a master's to increase salary.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from teaching assistant to lead teacher, then to kindergarten direc
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Obtain a master's degree and state teaching license, gain experience, then tr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kindergarten-teachers-except-special-education/US)**

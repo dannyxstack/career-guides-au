@@ -51,8 +51,6 @@ Responsible for designing, implementing, and maintaining telecommunications netw
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation impact on communications engineers is mixed: routine configuration and monitoring tasks will be replaced, but complex network design and innovative optimization are amplified by AI. Overall demand is stable, with skill focus shifting toward AI tools.
-
 You can advance from junior engineer to project supervisor, technical manager, or network architect. After gaining experience, you can move on to consulting or entrepreneurship, or enter the R&D field through further study.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from junior engineer to project supervisor, technical manager, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a university degree and a contract with a salary at least 1.5 times the average wage (approx. EUR 33,000). |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Based on Ley 14/2013, for management or technical experts, fast-track entry, family members can be included |
-| Subclass Cuenta ajena (Employed Work Permit) | Standard employed work residency requires company sponsorship and usually includes labor market testing |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, foreign degrees must be certified by Homologación as equivalent Spanish
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-technical-engineer/ES)**

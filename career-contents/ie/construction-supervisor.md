@@ -51,8 +51,6 @@ Construction supervisors oversee daily operations on construction sites, ensurin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 After gaining experience, can progress to project manager or construction manager, or specialise in areas like safety or quality control.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After gaining experience, can progress to project manager or construction manage
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable to in-demand occupations; construction supervisor is on the list, allowing for fast residency. |
 | Subclass EU Blue Card (EU Blue Card) | High salary required, suitable for senior positions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a construction supervisor qualification and a Safe Pass safe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-supervisor/IE)**

@@ -4,8 +4,6 @@
 
 This occupation involves operating various machines and devices in the pulp and paper manufacturing process to process raw materials and produce final products.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves operating various machines and devices in the pulp and 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the rapid adoption of AI and automation technologies, many simple manual tasks are at high risk of replacement. In particular, process monitoring and quality inspection are being replaced by AI systems, reducing demand for human labor.
-
 Career progression is possible from entry-level worker to skilled worker, foreman, and process manager; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Career progression is possible from entry-level worker to skilled worker, forema
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign workers can be employed in the manufacturing sector; pulp and paper may be included as eligible industries |
-| Subclass E-7 (E-7 (Specific Activities)) | Requires skilled workforce and professional qualifications |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Employment outlook is poor due to declining paper demand and automation.
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-and-paper-manufacturing-equipment-operator/KR)**

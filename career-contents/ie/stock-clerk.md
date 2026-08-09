@@ -53,8 +53,6 @@ Inventory managers are responsible for recording and managing stock levels, ensu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Stock Clerks face a high risk of automation; AI and robots will replace repetitive tasks like inventory counting and data entry, but physical operations and exception handling still require human input.
-
 Junior inventory clerks can advance to warehouse supervisor or logistics coordinator, and further develop into warehouse manager or supply chain specialist.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior inventory clerks can advance to warehouse supervisor or logistics coordin
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation usually does not meet critical skills permit requirements, bu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-clerk/IE)**

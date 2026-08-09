@@ -51,8 +51,6 @@ Accounting and related clerks record financial transactions, process invoices, r
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Accountants and bookkeepers will see repetitive tasks like bookkeeping and reconciliation automated by AI, but financial analysis and client advisory roles that rely on human judgment and communication will be strengthened. Overall, risk and opportunity coexist.
-
 Junior clerks can advance to senior clerk, accounting technician, or assistant accountant; after gaining experience and obtaining professional qualifications such as CPA, they can transition to accountant roles. Some enter financial analysis or auditing.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior clerks can advance to senior clerk, accounting technician, or assistant a
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs: some provinces have demand for accounting clerks, offering extra points or no employer sponsorship required. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA-supported work permits, but the occupation typically requires proof of local labor shortage in Canada. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to senior clerk, accounting technician, or pursue CPA to become a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-and-related-clerks/CA)**

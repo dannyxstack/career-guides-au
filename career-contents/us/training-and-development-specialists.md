@@ -53,8 +53,6 @@ Design and implement work-related training and development programs to enhance i
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will greatly enhance training design, assessment, and analysis efficiency, but some content creation and basic advisory tasks face replacement risk. Roles evolve, not vanish.
-
 Can advance from junior training coordinator to training manager, organizational development director, or transition to HR business partner. Certifications (e.g., CPTD) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from junior training coordinator to training manager, organizational
 | Subclass EB-3 (EB-3 Skilled Worker) | Bachelor's or 2 years experience; requires PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Main path for employer-sponsored green cards, requires proving labor shortage |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: No mandatory certification, but CPTD (ATD) or trainer certification helps car
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/training-and-development-specialists/US)**

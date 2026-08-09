@@ -53,8 +53,6 @@ Library clerks are responsible for daily tasks such as borrowing and returning b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Library clerks face mixed AI impact: routine tasks like checking in/out books and shelf organizing are easily automated, while reader inquiries and event support requiring human judgment are AI-enhanced. Entry-level roles may shrink, but new positions like digital resource assistant are emerging.
-
 Can advance from junior clerk to senior clerk or library assistant, then through further study become a librarian or information management professional.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior clerk to senior clerk or library assistant, then through
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to library assistant or librarian via training and experience, bu
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-clerk/IE)**

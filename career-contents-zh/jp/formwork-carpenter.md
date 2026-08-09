@@ -1,8 +1,8 @@
 # 模板木工（Formwork Carpenter）职业分析 · 日本
 
-**职业代码: 651 (JSCO)**
+**职业代码：651 (JSCO)**
 
-A formwork carpenter is a specialized skilled worker who assembles and dismantles the formwork that determines the shape of concrete structures. They are indispensable on construction sites such as high-rise buildings and bridges.
+模板木工是组装和拆卸混凝土结构形状模板的专业熟练工人。在高层建筑和桥梁等建筑工地上不可或缺。
 
 
 ---
@@ -11,8 +11,8 @@ A formwork carpenter is a specialized skilled worker who assembles and dismantle
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 职业培训学校 | 1-2年 | $0~$500,000（Public vocational training may be free） |
-| Apprenticeship/on-the-job | 3-5年 | $0~$0（Apprentice wages are relatively low） |
+| 职业培训学校 | 1-2年 | $0~$500,000（公共职业培训可能免费） |
+| 学徒/在职培训 | 3-5年 | $0~$0（学徒工资相对较低） |
 
 ---
 
@@ -20,17 +20,17 @@ A formwork carpenter is a specialized skilled worker who assembles and dismantle
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Formwork Carpenter Skill Certificate | Ministry of Health, Labour and Welfare | 可选 | Levels 1 and 2 available; certification validates skills |
-| Construction Management Accounting Specialist | Construction Industry Promotion Fund | 可选 | Useful when starting an independent business |
+| 模板工技能证书 | 厚生劳动省 | 可选 | 1级和2级可用；认证验证技能 |
+| 建筑管理会计专员 | 建筑行业促进基金 | 可选 | 创业时有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 80,000. The entire construction industry faces a serious shortage of skilled workers, and formwork carpenters in particular struggle to attract younger generations, ensuring stable demand in the future.
+**职位需求量：很高（★★★★½）** 全国从业人数约 80,000。整个建筑行业面临严重的技术工人短缺，模板木匠尤其难以吸引年轻一代，确保了未来稳定的需求。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -38,90 +38,83 @@ A formwork carpenter is a specialized skilled worker who assembles and dismantle
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $3,000,000~$4,500,000 | Lower wages during apprenticeship |
-| Mid-level (4-9 years) | $4,500,000~$6,000,000 | Increases with skill improvement |
-| 资深（10年以上） | $6,000,000~$9,000,000 | Higher income possible if independent |
+| 初级 (0-3年) | $3,000,000~$4,500,000 | 学徒期间工资较低 |
+| 中级（4-9年） | $4,500,000~$6,000,000 | 随技能提高而增长 |
+| 资深（10年以上） | $6,000,000~$9,000,000 | 若独立执业，收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-The work of formwork carpenters is seeing declining demand for traditional skills due to the introduction of precast concrete components and automated machinery. However, complex shapes and on-site adjustments still require manual labor, and full replacement by AI is far off.
+模板木匠的工作因预制混凝土构件和自动化机械的引入而对传统技能的需求下降。然而，复杂形状和现场调整仍需人工，AI全面取代还遥遥无期。
 
-Skills are acquired through apprenticeship systems or vocational training schools, followed by several years of on-site experience to become fully proficient. With further expertise, one can become a site supervisor or start an independent business.
+技能通过学徒制或职业培训学校获得，随后经过数年现场经验才能完全熟练掌握。进一步专精后可成为现场主管或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- simple formwork assembly and disassembly
-- standard formwork processing
-- transport and cleaning
+- 简易模板组装和拆卸
+- 标准模板加工
+- 运输与清洁
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- precision control via 3D scanning
-- operation of automatic lifting equipment
-- feedback to formwork design
+- 通过3D扫描实现精密控制
+- 自动升降设备操作
+- 反馈至模板设计
 
-**人类护城河:**
+**人类护城河：**
 
-- on-site flexible response
-- judgment for high-place and hazardous work
-- finish quality through skilled technique
+- 现场灵活应对
+- 高处和危险作业的判断
+- 通过熟练技术达到完美表面质量
 
-**需构建的技能:**
+**需构建的技能：**
 
-- precast construction knowledge
-- 3D CAD operation
-- construction machinery operation
-- foreign languages such as English or Vietnamese
+- 预制施工知识
+- 3D CAD操作
+- 工程机械操作
+- 外语如英语或越南语
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Technical Intern Trainee
-- Foreign Human Resources
-- precast adoption
-- productivity improvement
+- 技术实习生
+- 外国人力资源
+- 预制采用
+- 生产力提升
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号(建設) (Specified Skilled Worker (i)) | Target of specified skills in the construction field. Requires skills test and Japanese language test. Maximum stay of 5 years. |
-| Subclass 技能実習(建設) (Technical Intern Training) | 3-year skill transfer program, with return to home country expected. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university-level knowledge; less applicable to formwork carpenters. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Confident in physical strength
-- Prefers hands-on work
-- Does not mind outdoor work
+- 体力自信
+- 偏好动手类工作
+- 不介意户外工作
 
 **谁不适合**
-- Not confident in physical strength
-- Dislikes heights and bad weather
+- 对体力自信不足
+- 不喜欢高处和恶劣天气
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a formwork carpenter?**
-答：Entry-level: 3-4.5 million yen, mid-level: 4.5-6 million yen, veteran: 6-9 million yen. Independent work can yield higher income.
+**问：模板木匠的年收入是多少？**
+答：入门级：300-450万日元，中级：450-600万日元，资深：600-900万日元。独立工作可获得更高收入。
 
-**问：Can foreigners work as formwork carpenters?**
-答：Yes, with Specified Skilled Worker (i) (Construction) or Technical Intern Training status. The construction industry faces severe labor shortages and is actively accepting foreign workers.
+**问：外国人可以做模板木工吗？**
+答：是的，持有特定技能签证（i）（建筑）或技能实习身份。建筑行业面临严重劳动力短缺，正积极接纳外国工人。
 
 
 ---
@@ -139,12 +132,12 @@ Skills are acquired through apprenticeship systems or vocational training school
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/formwork-carpenter/JP)**

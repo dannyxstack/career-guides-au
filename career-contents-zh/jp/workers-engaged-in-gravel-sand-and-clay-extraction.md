@@ -1,10 +1,8 @@
-# Workers Engaged in Gravel, Sand, and Clay Extraction 职业分析 · 日本
+# 从事砾石、沙子和粘土开采的工人（Workers Engaged in Gravel, Sand, and Clay Extraction）职业分析 · 日本
 
-**职业代码: 693 (JSCO)**
+**职业代码：693 (JSCO)**
 
-An occupation involving the extraction of construction materials such as gravel, sand, and clay from mines or riverbeds. Requires heavy machinery operation and skilled techniques.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种职业，涉及从矿山或河床提取砾石、砂和黏土等建筑材料。需要操作重型机械和熟练技术。
 
 
 ---
@@ -13,8 +11,8 @@ An occupation involving the extraction of construction materials such as gravel,
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中毕业证或等同 | 3年 | $0~$0（Tuition is nearly free at public schools.） |
-| OJT for heavy machinery operation and extraction techniques | 1 to 3 years | $500,000~$1,500,000（Costs may be incurred for private training and qualification acquisition.） |
+| 高中毕业证或等同 | 3年 | $0~$0（公立学校学费几乎免费。） |
+| 重型机械操作与开采技术的在职培训 | 1至3年 | $500,000~$1,500,000（私人培训和资格认证可能产生费用。） |
 
 ---
 
@@ -22,18 +20,18 @@ An occupation involving the extraction of construction materials such as gravel,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Machinery Operator | Ministry of Health, Labour and Welfare | 必备 | Requires completion of a skills training course. |
-| Blasting Technician | Ministry of Economy, Trade and Industry | 可选 | National qualification required for handling explosives. |
-| Mining Safety Technical Staff | Ministry of Economy, Trade and Industry | 可选 | Required for safety management in mines. |
+| 建筑机械操作员 | 厚生劳动省 | 必备 | 需要完成技能培训课程。 |
+| 爆破技术员 | 经济产业省 | 可选 | 处理爆炸物所需的国家资格。 |
+| 矿业安全技术员 | 经济产业省 | 可选 | 矿山安全管理所需。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 14,000. Though subject to fluctuations in construction demand, a certain level of demand continues due to the need for domestic resource security. However, long-term labor shortages are expected due to an aging workforce and a lack of young workers.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 14,000。尽管受建筑需求波动影响，但由于国内资源安全需求，仍保持一定需求水平。然而，由于劳动力老龄化和年轻工人缺乏，预计长期劳动力短缺。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,65 +39,58 @@ An occupation involving the extraction of construction materials such as gravel,
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,000,000~$4,000,000 | Starting as a beginner. Annual income varies by region and company size. |
-| 中级（3-10年） | $4,000,000~$5,500,000 | Experience improves heavy machinery operation and extraction skills, leading to higher income. |
-| Advanced (10+ years) | $5,500,000~$7,000,000 | Site managers or management positions can achieve even higher income. |
+| 入门级（0-3年） | $3,000,000~$4,000,000 | 从新手开始。年薪因地区和公司规模而异。 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 经验可提升重型机械操作和提取技能，从而增加收入。 |
+| 高级（10年以上） | $5,500,000~$7,000,000 | 现场经理或管理职位可以获得更高的收入。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are mechanizing and remote-controlling parts of mining operations, but on-site judgment and heavy machinery expertise still depend on humans for the time being. Work volume itself depends on construction demand, so no drastic reduction is expected.
+人工智能和自动化正在对采矿作业的某些部分进行机械化和远程控制，但现场判断和重型机械专业知识目前仍然依赖人类。工作量本身取决于建筑需求，因此预计不会大幅减少。
 
-Beginners can obtain heavy machinery licenses and gain field experience, with potential promotion to team leader or site supervisor. Large-scale operations may lead to management positions.
+初学者可获得重型机械执照并积累现场经验，有机会晋升为组长或现场主管。大规模运营可能进入管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple loading work
-- Routine crushing and sorting work
+- 简单装卸工作
+- 常规破碎和分拣工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote operation of heavy machinery
-- Drone-based mining planning
-- Mining volume management using GPS and sensors
+- 重型机械的远程操作
+- 基于无人机的采矿规划
+- 利用GPS和传感器管理采矿量
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site safety judgment
-- Adjustment of mining techniques according to geology and climate
+- 现场安全判断
+- 根据地质和气候调整采矿技术
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced operation of heavy machinery
-- Safety management and security knowledge
-- Environmentally friendly mining technology
-- Basic understanding of automation systems
+- 重型机械高级操作
+- 安全管理与安全知识
+- 环保采矿技术
+- 自动化系统的基本理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction demand
-- National Resilience
-- Recycling
-- Forest and River Maintenance
+- 建筑需求
+- 国家韧性
+- 回收
+- 森林和河流维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技能 (Skilled Worker Visa) | Granted to foreign workers with advanced skills. Experience in mines/quarries may qualify, but the route is limited. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Covers the 'Construction' sector. However, gravel, sand, and clay extraction is rarely the primary role, with few current examples. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
@@ -107,22 +98,22 @@ Beginners can obtain heavy machinery licenses and gain field experience, with po
 
 **谁适合**
 - 喜欢操作重型机械的人
-- People confident in physical strength and comfortable with outdoor work
-- People who want to acquire a trade skill
+- 体力充沛且适应户外工作的人群
+- 希望获得职业技能的人
 
 **谁不适合**
-- People who prefer desk work
-- People uneasy with dangerous work
+- 偏好案头工作的人
+- 对危险工作感到不安的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income?**
-答：Varies by experience and region, but generally around 3.5 to 5.5 million yen. Managerial positions can exceed 7 million yen.
+**问：平均年收入是多少？**
+答：因经验和地区而异，但通常约350万至550万日元。管理职位可超过700万日元。
 
-**问：What visa is required for foreigners to work in this occupation?**
-答：A Skilled Worker Visa or Specified Skilled Worker (i) (Construction) may apply, but requires practical experience and qualifications. Currently, acceptance of foreign workers is limited.
+**问：外国人在此职业工作需要什么签证？**
+答：技术工人签证或特定技术工人（i）（建筑）可能适用，但需要实践经验与资格。目前对外国工人接纳有限。
 
 
 ---
@@ -140,12 +131,12 @@ Beginners can obtain heavy machinery licenses and gain field experience, with po
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/workers-engaged-in-gravel-sand-and-clay-extraction/JP)**

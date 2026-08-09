@@ -53,8 +53,6 @@ Responsible for piloting, route planning, and aerial navigation, ensuring flight
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 They can be promoted from co-pilot to captain, then transferred to flight instructors or aviation management positions. Some have shifted to drones or aviation consulting.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ They can be promoted from co-pilot to captain, then transferred to flight instru
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-income pilots; annual salary must meet EU standards (approximately €55,000 or more). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with scarce occupations in the aviation field available for application |
-| Subclass Salarié (Salaried Worker Visa) | For airline-sponsored work visas, a labor contract must be provided |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Must hold ATPL, Instrument Rating (IR), Type Rating, and medical examination 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-pilot-and-technical-air-navigation/FR)**

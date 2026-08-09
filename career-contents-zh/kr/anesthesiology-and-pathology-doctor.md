@@ -1,10 +1,8 @@
-# Anesthesiology and Pathology Doctor 职业分析 · 韩国
+# 麻醉与疼痛医学和病理学医生（Anesthesiology and Pathology Doctor）职业分析 · 韩国
 
-**职业代码: 301110 (KECO)**
+**职业代码：301110 (KECO)**
 
-As a board-certified anesthesiologist, manages pre- and post-operative anesthesia and pain treatment; as a pathologist, performs diagnosis of tissue samples.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+作为委员会认证的麻醉科医生，管理术前和术后麻醉及疼痛治疗；作为病理科医生，进行组织样本诊断。
 
 
 ---
@@ -13,9 +11,9 @@ As a board-certified anesthesiologist, manages pre- and post-operative anesthesi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School | 6年 | $60,000,000~$99,999,999（Varies by national/private） |
-| 实习 | 1年 | $0~$0（Salary paid, no tuition） |
-| Residency | 4年 | $0~$0（Salary paid, no training costs） |
+| 医学院 | 6年 | $60,000,000~$99,999,999（因国家/私人而异） |
+| 实习 | 1年 | $0~$0（带薪实习，无学费） |
+| 居住权 | 4年 | $0~$0（带薪工作，无培训费用） |
 
 ---
 
@@ -23,18 +21,18 @@ As a board-certified anesthesiologist, manages pre- and post-operative anesthesi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Board Certification (Anesthesiology and Pain Medicine or Pathology) | Korean Medical Association | 必备 | Must pass written and practical exams after residency |
-| 行医执照 | Ministry of Health and Welfare | 必备 | Must pass national exam after medical school graduation |
-| University Hospital Appointment | Relevant hospital | 可选 | Required for professor recruitment |
+| 董事会认证（麻醉与疼痛医学或病理学） | 韩国医学会 | 必备 | 居住后须通过笔试和实践考试 |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后必须通过国家考试 |
+| 大学医院任命 | 相关医院 | 可选 | 教授招聘所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 500. Demand for anesthesiologists remains steady due to aging and increased demand, but pathology demand is stagnant. Overall competition among doctors is intense.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 500。麻醉师需求因老龄化和需求增加而保持稳定，但病理学需求停滞。医生整体竞争激烈。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -42,88 +40,80 @@ As a board-certified anesthesiologist, manages pre- and post-operative anesthesi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $80,000,000~$99,999,999 | Based on hospital work after board certification |
-| Mid-level (4-9 years) | $99,999,999 | Varies by experience and hospital size |
-| Advanced (10+ years) | $99,999,999 | Differs by position such as department head or professor |
+| 入门级（0-3年） | $80,000,000~$99,999,999 | 基于专科医师认证后的医院工作 |
+| 中级（4-9年） | $99,999,999 | 因经验和医院规模而异 |
+| 高级（10年以上） | $99,999,999 | 因职位（如部门主管或教授）而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used to assist in monitoring during anesthesia and pathology diagnosis, but it is difficult to completely replace the doctor's judgment and skills, so the risk of job loss due to AI is low; rather, work efficiency improves.
+人工智能用于辅助麻醉和病理诊断监测，但难以完全取代医生的判断和技能，因此因AI失业的风险较低；反而提高了工作效率。
 
-Intern → Residency (choose Anesthesiology & Pain Medicine or Pathology) → Obtain board certification → Hospital employment or private practice. Promotion to professor or department head.
+实习医生 → 住院医师（选择麻醉与疼痛医学或病理学）→ 获得专科认证 → 医院就业或私人执业。晋升为教授或科室主任。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Quantitative pathology reading (partially automated)
-- Basic vital sign monitoring during anesthesia
+- 定量病理读数（部分自动化）
+- 麻醉期间基本生命体征监测
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimization of anesthetic drug dosage
-- Improved speed of pathology image analysis
+- 麻醉药物剂量优化
+- 提高病理图像分析速度
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency judgment during surgery
-- Patient communication and trust building
+- 手术中的紧急判断
+- 患者沟通与信任建立
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI-based diagnostic tools
+- 使用基于AI的诊断工具
 - 数据分析和解释
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Anesthesiology and Pain Medicine
-- Increased surgeries
-- Aging population
-- Demand for specialists
+- 麻醉学与疼痛医学
+- 手术量增加
+- 人口老龄化
+- 专家需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for foreign doctors to work at domestic medical institutions upon application, limited |
-| Subclass F-2 (Residence) | Can practice as a doctor with long-term residence status, step before permanent residence |
-| Subclass F-5 (Permanent Residence) | No restrictions on practicing as a doctor as a permanent resident |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can withstand high stress and responsibility
-- People with deep interest and patience for surgery and diagnosis
+- 能承受高压和强责任感的人
+- 对手术和诊断有深厚兴趣和耐心的人
 
 **谁不适合**
-- People who find night shifts and long surgeries burdensome
-- People who prefer short-term intensive work over long-term patient relationships
+- 觉得夜班和长时间手术负担重的人
+- 偏好短期高强度工作而非长期患者关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an anesthesiologist or pathologist?**
-答：Starting salary for board-certified specialists ranges from 80 million KRW to 120 million KRW, and with over 10 years of experience, it can reach 200 to 400 million KRW.
+**问：麻醉师或病理学家的平均年薪是多少？**
+答：委员会认证专家的起薪为8000万韩元至1.2亿韩元，10年以上经验可达2亿至4亿韩元。
 
-**问：What type of visa does a foreign doctor need to work in Korea?**
-答：The E-7 (Specific Activities) visa is possible, but there are many restrictions such as recognition of the medical license, making it realistically difficult. F-2 (Residence) or F-5 (Permanent Residence) visas are more advantageous.
+**问：外国医生在韩国工作需要什么类型的签证？**
+答：E-7（特定活动）签证是可能的，但存在很多限制，如医疗执照的认可，实际上困难。F-2（居住）或F-5（永久居留）签证更有利。
 
-**问：What qualifications are required to become an anesthesiology and pathology specialist?**
-答：A medical license and board certification in anesthesiology and pain medicine or pathology are mandatory. The training period totals 11 years (6 years of medical school + 1-year internship + 4-year residency).
+**问：成为麻醉学和病理学专家需要什么资质？**
+答：必须持有医疗执照和麻醉学与疼痛医学或病理学的委员会认证。培训期共11年（6年医学院 + 1年实习 + 4年住院医师）。
 
 
 ---
@@ -141,12 +131,12 @@ Intern → Residency (choose Anesthesiology & Pain Medicine or Pathology) → Ob
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/anesthesiology-and-pathology-doctor/KR)**

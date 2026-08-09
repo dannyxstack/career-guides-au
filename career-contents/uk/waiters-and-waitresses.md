@@ -51,8 +51,6 @@ Waiters provide food and beverage services in hotels, bars, restaurants and othe
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on waitstaff is mixed: repetitive tasks like taking orders and billing will be automated, but AI can also enhance personalized service and efficiency; human emotional interaction and flexibility remain core strengths.
-
 Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, some may transition to bartending or kitchen management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior waitstaff can advance to head waiter, supervisor, or restaurant manager, 
 | Subclass Skilled Worker (Skilled Worker Visa) | High salary threshold, usually not met; but may qualify for upscale restaurant roles like waiter/management combo |
 | Subclass Graduate (Graduate Visa) | Graduates can work for 2 years, any job type, but waiter is a non-skilled role |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Typically does not meet skilled visa requirements due to insufficient salary 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waiters-and-waitresses/UK)**

@@ -51,8 +51,6 @@ Economists analyze economic data, predict trends, and provide decision-making ad
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Statisticians face dual impacts of AI automation and augmentation: data sorting and routine analysis tasks are replaced, but model selection, causal inference, and interdisciplinary consulting skills become new moats; need to enhance business understanding and AI collaboration
-
 From junior research assistant to senior economist or department head, can advance to chief economist or management roles. Also possible to transition into finance, consulting, or data analysis.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From junior research assistant to senior economist or department head, can advan
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German work contract and credential recognition |
 | Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Requires a university degree, usually a master's in economics, via EU Blue Ca
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economist/DE)**

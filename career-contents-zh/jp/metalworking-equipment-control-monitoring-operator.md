@@ -1,8 +1,8 @@
-# Metalworking Equipment Control/Monitoring Operator 职业分析 · 日本
+# 金属加工设备控制/监控操作员（Metalworking Equipment Control/Monitoring Operator）职业分析 · 日本
 
-**职业代码: 493 (JSCO)**
+**职业代码：493 (JSCO)**
 
-A professional in the production process who controls and monitors metalworking machine tools (NC lathes, machining centers, etc.) and operates them automatically according to programs.
+负责控制并监控金属加工机床（数控车床、加工中心等）并按程序自动操作的生产过程专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional in the production process who controls and monitors metalworking 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 职业培训学校 | 1~2年 | $0~$500,000（Public vocational training: free to low cost） |
-| Technical high school | 3年 | $0~$300,000（Public high schools: subject to tuition-free policy） |
+| 职业培训学校 | 1~2年 | $0~$500,000（公共职业培训：免费或低成本） |
+| 技术高中 | 3年 | $0~$300,000（公立高中：享受学费减免政策） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional in the production process who controls and monitors metalworking 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Skilled Worker (Metalworking) | Ministry of Health, Labour and Welfare | 可选 | Class 1–3; requires practical experience and exam |
-| NC Lathe/Milling Machine Skills Test | Central Vocational Ability Development Association | 可选 | Includes practical and written exams |
-| Factory Sheet Metal Skills Certification | Ministry of Health, Labour and Welfare | 可选 | Not mandatory but advantageous depending on job |
+| 认证技术工人（金属加工） | 厚生劳动省 | 可选 | 1–3 级；需实践经验和考试 |
+| 数控车床/铣床技能测试 | 中央职业能力开发协会 | 可选 | 包括实操和笔试 |
+| 工厂钣金技能认证 | 厚生劳动省 | 可选 | 非强制但根据工作有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Due to the advancement of automation in manufacturing, demand for skilled workers with programming abilities remains stable, but some simple monitoring tasks may be replaced by AI.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。由于制造业自动化推进，具备编程能力的熟练工人需求保持稳定，但一些简单的监控任务可能被AI替代。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,90 +39,83 @@ A professional in the production process who controls and monitors metalworking 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,200,000 | No experience / training graduate level |
-| 中级（3-7年） | $4,200,000~$5,600,000 | Depends on skills certification and achievements |
-| Expert (7+ years) | $5,600,000~$7,500,000 | Includes chief and production management positions |
+| 初级（0-3年） | $3,000,000~$4,200,000 | 无经验/培训毕业生级别 |
+| 中级（3-7年） | $4,200,000~$5,600,000 | 取决于技能认证和成就 |
+| 专家（7年以上） | $5,600,000~$7,500,000 | 包括主管和生产管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI and IoT are advancing automation and optimization of machine tools; simple monitoring tasks decrease, while advanced skills like programming and anomaly response strengthen. It's a field where experience increases value.
+AI和物联网推动机床自动化和优化；简单监控任务减少，编程和异常响应等高级技能增强。这是一个经验增值的领域。
 
-Common career paths include acquiring skills in NC program creation and multi-axis control, and advancing to production management. Obtaining skills certification (NC lathe/milling machine) is advantageous for promotion.
+常见职业路径包括掌握数控编程和多轴控制技能，晋升为生产管理。获得技能认证（数控车床/铣床）有利于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple monitoring tasks
-- Manual tool changes
-- Routine measurement tasks
+- 简单监控任务
+- 手动更换工具
+- 常规测量任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Machining condition optimization
-- Quality prediction
-- Machine anomaly prediction
+- 加工条件优化
+- 质量预测
+- 机器异常预测
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability
-- Troubleshooting
-- Skilled intuition (e.g., chip change timing)
+- 现场适应能力
+- 故障排除
+- 熟练直觉（如芯片更换时机）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- G-code/M-code programming
+- G代码/M代码编程
 - CAD/CAM
-- Machine learning fundamentals
-- Production management
+- 机器学习基础
+- 生产管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digitalization
-- IoT-ready equipment
-- Skills transfer
-- High-mix, variable-volume production
+- 数字化
+- 支持物联网的设备
+- 技能转移
+- 多品种少量生产
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry/Industrial Machinery/Electrical & Electronic Information Manufacturing)) | Obtainable by passing exam and having N4+ Japanese. Covers 3 manufacturing fields, max 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school degree+ and work experience. Permanent residency possible. |
-| Subclass 技能 (Skilled Labor) | For experienced skilled workers. Requires 10+ years of practical experience. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machine operation
-- People who can work meticulously and accurately
-- People comfortable with programming (NC)
+- 对机器操作感兴趣的人
+- 能够细致准确工作的人
+- 熟悉编程（数控）的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People weak at standing work
+- 不擅长站立工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of metalworking equipment control/monitoring personnel?**
-答：Varies by experience and qualifications, but mid-career typically ¥4.2–5.6 million. At large companies or highly specialized workplaces, it can exceed ¥7 million.
+**问：金属加工设备控制/监控人员的平均年收入是多少？**
+答：因经验和资质而异，中级职业通常为420-560万日元。在大公司或高度专业化的工作场所，可超过700万日元。
 
-**问：What visa do foreigners need to work in this occupation?**
-答：Specified Skilled Worker (i) (Manufacturing 3 fields) is the easiest to obtain. Passing the技能检定 exam and Japanese N4 are required. In the medium to long term, Engineer/Specialist in Humanities/International Services and技能 visas are also options.
+**问：外国人从事这一职业需要什么签证？**
+答：特定技能工人(i)（制造业3个领域）最容易获得。需通过技能检定考试和日语N4。中长期也可考虑工程师/人文知识国际业务签证和技能签证。
 
 
 ---
@@ -140,12 +133,12 @@ Common career paths include acquiring skills in NC program creation and multi-ax
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metalworking-equipment-control-monitoring-operator/JP)**

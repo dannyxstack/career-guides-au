@@ -54,8 +54,6 @@ Notaries are responsible for certifying legal documents, wills, contracts, etc.,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-German notaries face moderate AI impact; core certification duties have a deep moat due to legal frameworks, but tasks like document review and template drafting are accelerating in automation, entry-level positions are narrowing, and overall structural adjustments are underway.
-
 Career path: Become a candidate notary after passing national exams and internship, accumulate experience, then apply for official notary position, or open own practice.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Become a candidate notary after passing national exams and internsh
 | Subclass Skilled Worker (Skilled Worker Visa) | Applies to applicants who have already passed German legal qualification, requiring a specific job offer |
 | Subclass Qualification Recogn (Recognition of Professional Qualifications) | Foreign legal qualifications must pass a qualification recognition process and complete adaptation training or exams |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires at least 7 years: 5 years of university legal studies (inc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/notary/DE)**

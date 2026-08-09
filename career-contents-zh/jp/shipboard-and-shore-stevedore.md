@@ -1,8 +1,8 @@
-# Shipboard and Shore Stevedore 职业分析 · 日本
+# 船岸装卸工（Shipboard and Shore Stevedore）职业分析 · 日本
 
-**职业代码: 702 (JSCO)**
+**职业代码：702 (JSCO)**
 
-Workers who load/unload cargo onto ships and handle coastal stevedoring at ports. They operate cranes and forklifts and perform manual cargo handling.
+在港口从事船舶货物装卸和沿海码头装卸的工人。他们操作起重机、叉车，并执行人工货物处理。
 
 
 ---
@@ -11,8 +11,8 @@ Workers who load/unload cargo onto ships and handle coastal stevedoring at ports
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School Graduate | 3 Years | $0~$0（Standard path after compulsory education） |
-| Vocational School (Port Logistics) | 2 Years | $1,000,000~$2,000,000（In case of private vocational schools） |
+| 高中毕业 | 3年 | $0~$0（义务教育后的标准路径） |
+| 职业学校（港口物流） | 2年 | $1,000,000~$2,000,000（适用于私立职业学校） |
 
 ---
 
@@ -20,18 +20,18 @@ Workers who load/unload cargo onto ships and handle coastal stevedoring at ports
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training | Prefectural Labor Bureau | 可选 | 非强制但受青睐 |
-| Mobile Crane Operator | Ministry of Health, Labour and Welfare | 可选 | Required for large crane operation |
-| Slinging Skills Training | Prefectural Labor Bureau | 可选 | Required for hoisting heavy loads |
+| 叉车操作技能培训 | 县级劳动局 | 可选 | 非强制但受青睐 |
+| 移动式起重机操作员 | 厚生劳动省 | 可选 | 大型起重机操作所需 |
+| 吊装技能培训 | 县级劳动局 | 可选 | 需要用于搬运重物 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 42,000. Due to increased port cargo volume and labor shortages, stable demand is expected in the medium term. Automation impact is limited, but compliance with stricter safety regulations is necessary.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 42,000。由于港口货运量增加和劳动力短缺，预计中期内需求稳定。自动化影响有限，但必须遵守更严格的安全法规。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,94 +39,87 @@ Workers who load/unload cargo onto ships and handle coastal stevedoring at ports
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 Years) | $3,000,000~$4,000,000 | Base salary + various allowances |
-| Intermediate (4–10 Years) | $4,000,000~$5,500,000 | Increases with skill qualifications |
-| Senior (10+ Years) | $5,000,000~$7,000,000 | Site supervisor level |
+| 初级（0–3年） | $3,000,000~$4,000,000 | 基本工资 + 各项津贴 |
+| 中级（4-10年） | $4,000,000~$5,500,000 | 随技能资格提升而增加 |
+| 高级（10年以上） | $5,000,000~$7,000,000 | 现场主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation will affect some port cargo handling tasks (inventory management, container terminal automation), but manual work such as crane operation and load collapse prevention requiring judgment will remain. Overall efficiency will improve, but complete substitution is difficult.
+AI和自动化将影响部分港口货物处理任务 (库存管理、集装箱码头自动化)，但需要判断的起重机操作和防倒塌等人工工作仍将保留。整体效率提升，但完全替代困难。
 
-Start from scratch, advance by obtaining forklift and crane licenses. Career path includes passing skill tests and moving into site management positions.
+从零开始，通过获得叉车和起重机执照进步。职业路径包括通过技能考试并进入现场管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine inventory management
-- Automated container yard transport
-- Document preparation
+- 常规库存管理
+- 自动化集装箱堆场运输
+- 文档准备
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crane operation (AI-assisted)
-- Cargo handling plan optimization
-- Safety monitoring system
+- 起重机操作（AI辅助）
+- 货物装卸方案优化
+- 安全监控系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment in dangerous situations
-- Delicate cargo handling
-- Team communication
-- Flexible response
+- 危险情况下的判断
+- 精密货物处理
+- 团队沟通
+- 灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Crane/forklift operation
-- Safety knowledge
-- Basic IT literacy
-- Communication skills
+- 起重机/叉车操作
+- 安全知识
+- 基本IT素养
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Port logistics
-- Crane operation
-- Forklift
-- Automation adaptation
+- 港口物流
+- 起重机操作
+- 叉车
+- 自动化适应
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Port Transport)) | Obtainable with skill test and JLPT N4 or higher. Max stay of 5 years. |
-| Subclass 技能 (Skilled Worker Visa (Cooking, Construction, etc.)) | For those who completed advanced technical training. Applicable in some cases. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | If applicable to managerial or specialized roles. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those confident in physical strength
-- For those who value teamwork
-- For those who enjoy on-site work
+- 适合体力自信者
+- 适合重视团队合作的人
+- 适合喜欢现场工作的人
 
 **谁不适合**
-- For those not confident in physical strength
-- For those who prefer desk work
+- 适合体力不太自信的人
+- 适合喜欢伏案工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income for stevedoring?**
-答：Starting at ¥3-4 million annually. Over ¥5 million possible with experience and qualifications. Varies by port.
+**问：装卸工的年度收入是多少？**
+答：起薪每年300-400万日元。有经验和资格可超500万日元。因港口而异。
 
-**问：What visa does a foreigner need to work?**
-答：The main path is Specified Skilled Worker (i) (Port Transport). Requires skills test (port cargo handling) and Japanese N4 level.
+**问：外国人在工作需要什么签证？**
+答：主要途径是特定技能(i)（港口运输）。需通过技能测试（港口货物装卸）和日语N4水平。
 
-**问：Can I start with no experience?**
-答：Yes. Many workplaces offer on-the-job training. Support for acquiring forklift licenses etc. is also available.
+**问：没有经验可以开始吗？**
+答：可以。许多工作场所提供在职培训。也支持获取叉车执照等。
 
 
 ---
@@ -144,12 +137,12 @@ Start from scratch, advance by obtaining forklift and crane licenses. Career pat
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/shipboard-and-shore-stevedore/JP)**

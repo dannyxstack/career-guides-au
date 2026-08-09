@@ -51,8 +51,6 @@ Records administrators design, implement, and manage an organization's records a
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-A day-to-day tasks like document processing, classification, and retrieval for archivists are highly automatable; AI is rapidly shrinking traditional entry-level roles, but advanced functions like strategy development, compliance review, and digital transformation consulting still require human wisdom.
-
 Junior records assistant → Records manager → Senior manager/information governance specialist. Can progress to director of information management, data governance, or compliance; professional certifications (e.g., CRM) can accelerate growth.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior records assistant → Records manager → Senior manager/information gove
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | After working for an accredited employer for 2 years, you can apply for residency, and additional points may be awarded if eligible. |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an approved employer for up to 3 years, with a pathway to permanent residency if salary requirements are met. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Typically requires a bachelor's degree in information management or related f
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-manager-224214/NZ)**

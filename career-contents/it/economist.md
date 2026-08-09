@@ -51,8 +51,6 @@ Economists analyze economic data, trends, and policies to provide forecasts and 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on economists is mixed: data collection and preliminary analysis tasks will be compressed, but high-level policy advice and strategic interpretation capabilities are amplified, requiring proactive transformation.
-
 Junior analysts can advance to senior economist, chief economist, or transition to roles such as policy advisor or financial analyst.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Junior analysts can advance to senior economist, chief economist, or transition 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU citizens, requiring annual salary ≥1.5 times EU average wage (approx. €45,000 in 2024) and a contract of at least 1 year. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quotas apply to non-high-skilled positions; requires employer sponsorship; limited quotas with intense competition. |
-| Subclass Work Permit (Nulla Osta (Work Authorization)) | Employers must apply to the Ministry of Labour, proving no suitable EU candidate is available; applicable to shortage occupations. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens do not need a visa and can work directly in Italy. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Usually requires a master's degree in economics (Laurea Magistrale), a bachel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economist/IT)**

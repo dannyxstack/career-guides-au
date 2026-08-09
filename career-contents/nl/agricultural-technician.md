@@ -4,8 +4,6 @@
 
 Agricultural technicians in the Netherlands engage in crop production, livestock management, soil analysis, agricultural machinery operation, and support sustainable farming practices, serving as a key link between research and field application.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Agricultural technicians in the Netherlands engage in crop production, livestock
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of agricultural technicians is mixed due to AI and automation: tasks such as data analysis and precision agriculture are enhanced, but routine monitoring and mechanized operations face replacement risks, requiring proactive skill upgrades to stay competitive.
-
 Junior technicians can advance to senior technicians or farm managers through experience, some transitioning to agricultural advisors or sales representatives. Continuing education can lead to applied science university studies, moving into research or management roles.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior technicians can advance to senior technicians or farm managers through ex
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration with a job offer and salary meeting the threshold, requiring employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring bachelor's degree or above and meeting salary standards |
-| Subclass Orientation Year (zo (Orientation Year) | Graduates from Dutch/EU universities can apply for a one-year job-seeking visa, and switch to a work visa after finding a job. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Not currently on the official shortage list, but stable demand exists, especi
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-technician/NL)**

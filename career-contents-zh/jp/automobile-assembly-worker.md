@@ -1,8 +1,8 @@
-# Automobile Assembly Worker 职业分析 · 日本
+# 汽车装配工（Automobile Assembly Worker）职业分析 · 日本
 
-**职业代码: 543 (JSCO)**
+**职业代码：543 (JSCO)**
 
-Specialist in the production process of assembling car parts and units into a finished product. Primarily line work requiring quality and efficiency.
+负责将汽车零件和部件组装成成品的生产过程专家，主要进行流水线工作，要求质量和效率。
 
 
 ---
@@ -11,9 +11,9 @@ Specialist in the production process of assembling car parts and units into a fi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$1,000,000（Public high school tuition is effectively free; private school subsidies available） |
-| Vocational training school (automobile assembly) | 1~2年 | $200,000~$500,000（Public vocational training is free; material costs are out-of-pocket） |
-| Vocational school (automotive maintenance/manufacturing) | 2 年 | $2,000,000~$3,000,000（Approx. ¥1–1.5 million/year for 2-year program） |
+| 高中文凭 | 3年 | $0~$1,000,000（公立高中学费实际上免费；私立学校有补贴） |
+| 职业培训学校（汽车装配） | 1~2年 | $200,000~$500,000（公共职业培训免费；材料费自付） |
+| 职业学校（汽车维修/制造） | 2 年 | $2,000,000~$3,000,000（两年制课程约¥1–150万/年） |
 
 ---
 
@@ -21,18 +21,18 @@ Specialist in the production process of assembling car parts and units into a fi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Automobile Assembly Skill Certification | Japan Vocational Ability Development Association (JAVADA) | 可选 | National skill test. Levels 1–3, effective for career advancement |
-| QC Certification (Quality Control) | Japan Quality Management Organization | 可选 | Demonstrates quality awareness, especially valued for leadership roles |
-| Forklift Operation Training | Registered training institute per prefectural labor bureau | 可选 | May be required for parts transportation, etc. |
+| 汽车装配技能认证 | 日本职业能力开发协会（JAVADA） | 可选 | 国家技能考试。1-3级，对职业发展有效 |
+| QC认证（质量控制） | 日本质量管理组织 | 可选 | 表现出质量意识，尤其在领导岗位受重视 |
+| 叉车操作培训 | 按县级劳动局注册的培训机构 | 可选 | 可能需要从事零件运输等。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 280,000. The automotive industry is in a structural shift due to EV transition and autonomous driving tech, but maintaining domestic production volume is expected to sustain steady demand.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 280,000。由于电动汽车转型和自动驾驶技术，汽车行业正在结构性转变，但维持国内产量将保持稳定需求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,96 +40,89 @@ Specialist in the production process of assembling car parts and units into a fi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,800,000~$3,500,000 | Includes overtime pay. Higher at major automakers |
-| Mid-level (4–10 years) | $3,500,000~$4,800,000 | Includes skill and position allowances. Higher for shift leaders. |
-| Advanced (11+ years) | $4,500,000~$6,500,000 | Varies by seniority and title for managers or highly skilled. |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 包含加班费。主要汽车制造商更高 |
+| 中级（4-10年） | $3,500,000~$4,800,000 | 包括技能和职位津贴，轮班组长更高。 |
+| 高级（11年以上） | $4,500,000~$6,500,000 | 因资历和职位（经理或高技能人员）而异。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Automobile assembly is increasingly automated with robots, but human judgment is still needed for complex assembly, inspection, and troubleshooting. While simple tasks shrink due to AI and robots, human roles may become more advanced and diversified.
+汽车装配日益机器人自动化，但复杂装配、检验和故障排除仍需人类判断。简单任务因AI和机器人减少，人类角色可能更高级和多样化
 
-Career advancement through skill certification and multi-skilling. Paths to leader, quality control, or production engineering roles, but escaping line work requires additional skills.
+通过技能认证和多技能培训实现职业晋升。可走向领班、质量控制或生产工程岗位，但脱离流水线需要额外技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple bolt tightening/part attachment
-- Repetitive tasks with fixed procedures
-- Heavy material handling
-- Routine inspection tasks
+- 简单的螺栓拧紧/零件安装
+- 程序固定的重复性任务
+- 重型物料搬运
+- 例行检查任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted defect detection
-- Collaborative work with robots
-- AR-based assembly procedure display
-- IoT-driven process optimization
+- AI辅助缺陷检测
+- 与机器人协作工作
+- 基于增强现实的装配流程展示
+- 物联网驱动的流程优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Flexible response to abnormalities
-- Experience and intuition in complex assembly
-- Team communication
-- Improvement proposal skills
+- 灵活应对异常
+- 复杂装配中的经验和直觉
+- 团队沟通
+- 改进提案能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot Operation/Programming
-- Quality Control/QC Exam
-- Production Process Improvement (IE)
+- 机器人操作/编程
+- 质量控制/QC考试
+- 生产流程改进（IE）
 - 数据分析基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- EV adaptation
-- Automated assembly line
-- Quality control
-- Global supply chain
+- 电动汽车适配
+- 自动化装配线
+- 质量控制
+- 全球供应链
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Available in 3 manufacturing fields (metal, machinery, electrical/electronic, auto assembly, etc.) including auto assembly. Requires skills test and N4+ Japanese. Max stay 5 years. |
-| Subclass 特定技能2号（製造3分野） (Specified Skilled Worker (ii)) | Requires higher skills. Renewable; can bring family. Target fields expanded in 2023. |
-| Subclass 技術・人文知識・国際業務（技人国） (Engineer/Specialist in Humanities/International Services) | Possible with advanced expertise (e.g., production engineering, QC). Requires university degree or 10+ years experience. |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can focus on repetitive tasks
-- People interested in manufacturing
-- People who can work collaboratively in a team
+- 能够专注于重复性任务的人
+- 对制造业感兴趣的人
+- 能团队协作的人
 
 **谁不适合**
 - 不喜重复性工作的人
-- People who cannot tolerate standing or physical labor
+- 不能忍受站立或体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for automobile assembly workers?**
-答：Typically around 2.8–3.5 million yen annually (including overtime), similar to a new graduate's salary. At major automakers, it can reach nearly 4 million yen from the first year.
+**问：汽车装配工人的起薪是多少？**
+答：通常每年约280-350万日元（含加班费），与新毕业生的薪资相近。在大型汽车制造商，从第一年起可达近400万日元。
 
-**问：What visa is needed for foreigners to work in automobile assembly?**
-答：The most common is Specified Skilled Worker (i) (Manufacturing 3 fields). Requires a skills test and Japanese N4 pass. The Engineer/Specialist in Humanities/International Services visa requires a bachelor's degree or higher, or advanced practical experience, making it harder to obtain.
+**问：外国人在汽车装配工作需要什么签证？**
+答：最常见的是特定技能工人(i)（制造业3个领域）。需要技能考试和日语N4通过。工程师/人文专家/国际服务签证需要学士学位或更高，或高级实践经验，获取难度更大。
 
-**问：How can I advance my career?**
-答：Obtaining a skills certification (automobile assembly skilled worker), QC certification, or multi-skilling can boost your evaluation. Promotion to team leader/section chief or transfer to production engineering is also possible.
+**问：如何提升我的职业生涯？**
+答：获取技能认证（汽车装配技工）、QC认证或多项技能可提升评价。晋升为组长/科长或调至生产工程岗亦有可能。
 
 
 ---
@@ -147,12 +140,12 @@ Career advancement through skill certification and multi-skilling. Paths to lead
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automobile-assembly-worker/JP)**

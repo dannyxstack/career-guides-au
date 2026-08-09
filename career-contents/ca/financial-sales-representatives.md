@@ -52,8 +52,6 @@ Financial sales representatives sell financial products and services such as loa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Career progression: Junior Sales Representative → Senior Sales Representative → Team Leader → Regional Sales Manager. Typically requires building client resources and sales performance; some may transition to financial planning or risk management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: Junior Sales Representative → Senior Sales Representative 
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs in some provinces (e.g., Ontario, BC) may target financial sales roles, requiring employer sponsorship or specific conditions. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, but it is difficult, usually for senior positions |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: If selling securities products (e.g., stocks, funds), holding a CSC certifica
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-sales-representatives/CA)**

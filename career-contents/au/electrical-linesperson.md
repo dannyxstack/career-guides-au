@@ -54,8 +54,6 @@ Electrical linespersons construct, maintain and repair overhead and underground 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
-
 Underground Cable is replacing overhead lines as an urban trend, with higher technical requirements and salaries. Emergency Storm Restoration cross-state deployments can pay 3–4 times the standard rate.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Underground Cable is replacing overhead lines as an urban trend, with higher tec
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | Regional power transmission lines, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: No. A Certificate III plus state licensing is sufficient; TAFE apprenticeship
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-linesperson/AU)**

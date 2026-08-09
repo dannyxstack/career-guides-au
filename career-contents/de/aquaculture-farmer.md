@@ -53,8 +53,6 @@ Engages in the farming and breeding of fish, shellfish, and other aquatic organi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of aquaculture workers presents a 'mixed' situation: AI is highly substitutive in tasks like monitoring alerts, feed dispensing, quality control grading, but physical operations and complex on-site decision-making remain a moat.
-
 Can start as a farming assistant, advance to farming supervisor or farm manager; also progress to aquaculture technical consultant or quality control specialist.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can start as a farming assistant, advance to farming supervisor or farm manager;
 | Subclass Chancenkarte (Chancenkarte) | Points-based opportunity card allowing job searching and trial work |
 | Subclass Recognition Partners (Recognition Partnership) | Allows entry for work during qualification recognition process |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Requires ZAB qualification recognition to assess equivalence with German occu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-farmer/DE)**

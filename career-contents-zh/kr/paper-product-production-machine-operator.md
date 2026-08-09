@@ -1,10 +1,8 @@
-# Paper Product Production Machine Operator 职业分析 · 韩国
+# 纸品生产机器操作员（Paper Product Production Machine Operator）职业分析 · 韩国
 
-**职业代码: 88231 (KECO)**
+**职业代码：88231 (KECO)**
 
-This occupation involves operating and managing machines that process raw paper to produce various paper products in the paper manufacturing process.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业涉及在造纸过程中操作和管理将原纸加工成各种纸制品的机器。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation involves operating and managing machines that process raw paper 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Employable after high school graduation） |
-| Associate degree (2-year) | 2 年 | $1,000,000~$2,000,000（Paper-related departments, annual tuition standard） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后可就业） |
+| 副学士学位（2年制） | 2 年 | $1,000,000~$2,000,000（纸相关专业，年度学费标准） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation involves operating and managing machines that process raw paper 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Paper Product Manufacturing Craftsman | Human Resources Development Service of Korea (HRDK) | 可选 | 非强制但有利 |
-| Forklift Operation Craftsman | Human Resources Development Service of Korea (HRDK) | 可选 | Beneficial for raw material transport |
+| 纸制品制造工匠 | 韩国人力资源开发服务局（HRDK） | 可选 | 非强制但有利 |
+| 叉车操作工匠 | 韩国人力资源开发服务局（HRDK） | 可选 | 有利于原材料运输 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. While demand for printing paper is expected to decline due to digitalization, demand for packaging paper remains stable, so employment is expected to decrease gradually.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。尽管由于数字化，印刷纸需求预计下降，但包装纸需求保持稳定，因此就业预计将逐步减少。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ This occupation involves operating and managing machines that process raw paper 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $25,000,000~$30,000,000 | Increases with night shift allowance |
-| Intermediate (4–10 years) | $32,000,000~$40,000,000 | Varies by skill level |
-| Advanced (10+ years) | $40,000,000~$50,000,000 | Shift leader or higher |
+| 初级（0-3年） | $25,000,000~$30,000,000 | 随夜班补贴增加 |
+| 中级（4-10年） | $32,000,000~$40,000,000 | 因技能水平而异 |
+| 高级（10年以上） | $40,000,000~$50,000,000 | 轮班组长或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are gradually replacing paper product production processes, but areas requiring human judgment such as facility maintenance and quality control remain.
+AI和自动化正在逐渐取代纸质产品生产过程，但需要人工判断的领域（如设施维护和质量控制）仍然存在。
 
-Can advance from entry-level worker to skilled worker, shift leader, or production manager. Acquiring certifications and gaining field experience are key.
+可从入门级工人晋升为技工、轮班组长或生产经理。取得认证和积累现场经验是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple packaging work
-- Quantitative measurement
-- Basic inspection
+- 简单包装工作
+- 定量测量
+- 基础检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Facility monitoring
-- Quality inspection
-- Production schedule optimization
+- 设施监控
+- 质量检验
+- 生产计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Facility fault diagnosis
-- Abnormal situation response
-- Collaboration and communication
+- 设施故障诊断
+- 异常情况响应
+- 协作与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC programming
-- Data analysis
-- Understanding smart factories
+- PLC编程
+- 数据分析
+- 了解智能工厂
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Paper industry
-- Smart factory
-- Packaging material demand
-- Facility automation
+- 造纸行业
+- 智能工厂
+- 包装材料需求
+- 设施自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Non-professional foreign workforce, permitted in manufacturing, can produce paper products |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled worker, professional qualification required, employable |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who can perform repetitive tasks steadily
-- Someone interested in machine operation and dexterous
-- Someone who can handle shift work including night shifts
+- 能稳定执行重复性任务的人
+- 对机器操作有兴趣且手巧的人
+- 能适应轮班工作（包括夜班）的人
 
 **谁不适合**
-- Someone who finds simple repetitive tasks boring
-- Someone who avoids physically demanding work
+- 觉得简单重复任务无聊的人
+- 避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：The starting salary is around 25-30 million won per year, which can be higher with night shift and overtime pay.
+**问：起薪是多少？**
+答：起薪约为每年 2500-3000 万韩元，夜班和加班费可能更高。
 
-**问：What visa is needed for foreigners to work?**
-答：It is possible to work with an E-9 (Non-professional Employment) visa or an E-7 (Specific Activities) visa. E-9 is issued through the Employment Permit System, while E-7 requires meeting skilled worker requirements.
+**问：外国人工作需要什么签证？**
+答：可以使用E-9（非专业就业）签证或E-7（特定活动）签证工作。E-9通过就业许可制度签发，而E-7需满足技术工人要求。
 
-**问：Is there a possibility of promotion?**
-答：Based on experience and certifications, you can be promoted to team leader or production manager. With the introduction of smart factories, equipment management capabilities are becoming important.
+**问：晋升可能性？**
+答：根据经验和认证，可晋升为团队领导或生产经理。随着智能工厂的引入，设备管理能力变得重要。
 
 
 ---
@@ -143,12 +134,12 @@ Can advance from entry-level worker to skilled worker, shift leader, or producti
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/paper-product-production-machine-operator/KR)**

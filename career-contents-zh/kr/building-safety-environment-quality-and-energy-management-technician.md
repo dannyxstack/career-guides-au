@@ -1,8 +1,8 @@
-# Building Safety, Environment, Quality, and Energy Management Technician 职业分析 · 韩国
+# 建筑安全、环境、质量和能源管理技术员（Building Safety, Environment, Quality, and Energy Management Technician）职业分析 · 韩国
 
-**职业代码: 14026 (KECO)**
+**职业代码：14026 (KECO)**
 
-A professional technician who comprehensively manages the safety, environment, quality, and energy of buildings, responsible for disaster prevention, eco-friendly certification, quality inspection, and energy efficiency improvement at construction sites.
+全面管理建筑安全、环境、质量和能源的专业技术人员，负责施工现场的防灾、环保认证、质量检查及能效提升。
 
 
 ---
@@ -11,8 +11,8 @@ A professional technician who comprehensively manages the safety, environment, q
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (Building Equipment and Safety Engineering) | 2 年 | $6,000,000~$9,000,000（National/public institutions, lab fees separate） |
-| University (Architectural Engineering, Safety Engineering) | 4年 | $12,000,000~$18,000,000（Private institutions, scholarships etc. applicable） |
+| 大学（建筑设备与安全工程） | 2 年 | $6,000,000~$9,000,000（国家/公共机构，实验费用另计） |
+| 大学（建筑工程、安全工程） | 4年 | $12,000,000~$18,000,000（适用于私立机构、奖学金等） |
 
 ---
 
@@ -20,19 +20,19 @@ A professional technician who comprehensively manages the safety, environment, q
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Building Environmental Management Engineer | Human Resources Development Service of Korea | 必备 | Essential qualification for environment and energy management |
-| Architectural Safety Engineer | Human Resources Development Service of Korea | 可选 | Highest qualification in building safety |
-| Quality Management Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for quality control roles |
-| Energy Management Engineer | Human Resources Development Service of Korea | 可选 | Required for energy efficiency audits etc. |
+| 建筑环境管理工程师 | 韩国人力资源开发服务局 | 必备 | 环境与能源管理必备资格 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 建筑安全最高资质 |
+| 质量管理工程师 | 韩国人力资源开发服务局 | 可选 | 对质量控制职位有利 |
+| 能源管理工程师 | 韩国人力资源开发服务局 | 可选 | 能源效率审核等所需。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Demand is expected to steadily increase due to government policies on building safety reinforcement and carbon neutrality, and the job market is anticipated to remain solid due to a shortage of skilled workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。由于政府建筑安全加固和碳中和政策，需求预计稳步增长，且技能工人短缺使就业市场保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +40,85 @@ A professional technician who comprehensively manages the safety, environment, q
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $30,000,000~$38,000,000 | Based on small and medium construction companies |
-| Intermediate (4–9 years) | $40,000,000~$55,000,000 | Senior Technician Level |
-| 资深（10年以上） | $56,000,000~$75,000,000 | Team lead/Department head, up to ₩100+ million at large corporations |
+| 初级（0-3年） | $30,000,000~$38,000,000 | 基于中小型建筑公司 |
+| 中级（4-9年） | $40,000,000~$55,000,000 | 高级技师级 |
+| 资深（10年以上） | $56,000,000~$75,000,000 | 团队主管/部门负责人，大型企业年薪最高可达1亿韩元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is being introduced to improve work efficiency in areas like safety monitoring, energy performance analysis, and automated quality inspection. Expert judgment and decision-making remain crucial, so the ability to use AI as a tool is a competitive advantage.
+人工智能被引入以提高安全监控、能源绩效分析和自动质量检查等工作效率。专家判断和决策仍然至关重要，因此将人工智能作为工具使用的能力是一项竞争优势。
 
-Starting as a junior technician, one can grow into an expert in safety, environment, quality, and energy fields, and advance to team leader or department head at construction or engineering companies.
+从初级技术员起步，可成长为安全、环境、质量和能源领域的专家，并在建筑或工程公司晋升为团队领导或部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple safety inspection data entry
-- Basic energy consumption calculation
-- Recording quality inspection results
+- 简单安全检查数据录入
+- 基本能耗计算
+- 录音质量检查结果
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based safety risk prediction analysis
-- Energy optimization simulation
-- Real-time detection of quality defects
+- 基于AI的安全风险预测分析
+- 能源优化模拟
+- 实时检测质量缺陷
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive judgment through field experience
-- Legal interpretation and regulatory response
+- 通过现场经验进行直觉判断
+- 法律解释与监管应对
 - 突发情况应变能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Basic knowledge of AI and data analysis
-- BIM/energy simulation tools
-- Operation of smart safety equipment
+- AI和数据分析基础知识
+- BIM/能源模拟工具
+- 智能安全设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction safety
-- Zero-energy buildings
-- Carbon-neutral buildings
-- Digital quality control
+- 智慧施工安全
+- 零能耗建筑
+- 碳中和建筑
+- 数字质量控制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as a specialist in the field; can apply for permanent residence after 5 years |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This field is typically not eligible for E-9, but possible for certain processes |
-| Subclass F-2 (F-2 (Residence)) | Possible after conversion from E-7 or post-graduation job-seeking; allows free employment |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-Oriented and Meticulous
-- People Interested in Safety and the Environment
-- People Strong in Complying with Laws and Standards
+- 注重细节与一丝不苟
+- 关注安全与环境的人士
+- 擅长遵守法律和标准的人
 
 **谁不适合**
-- People Indifferent to Following Rules
-- People Who Find It Hard to Adapt to On-Site Work
+- 对遵守规则无所谓的人
+- 难以适应现场工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：What is the typical starting salary?**
-答：For entry-level technicians, the annual pre-tax salary is approximately 30-38 million KRW, varying between small and large construction firms.
+答：入门级技术员年薪税前约3000-3800万韩元，视中小企业与大型建筑公司而异。
 
-**问：Can foreigners find employment in this occupation?**
-答：Yes, with professional qualifications and experience, employment is possible under an E-7 visa, which can later be converted to F-2 or F-5.
+**问：外国人能否在此职业中找到工作？**
+答：是的，拥有专业资格和经验，可在E-7签证下就业，之后可转为F-2或F-5。
 
-**问：What qualifications are needed for promotion?**
-答：Obtaining certifications in building safety engineering or environment/energy can aid promotion; a master's degree also helps at large corporations.
+**问：晋升需要哪些资格？**
+答：获得建筑安全工程或环境/能源认证有助于晋升；在大型企业，硕士学位也有帮助。
 
 
 ---
@@ -143,12 +136,12 @@ Starting as a junior technician, one can grow into an expert in safety, environm
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-safety-environment-quality-and-energy-management-technician/KR)**

@@ -53,8 +53,6 @@ Assisting tradespeople in extraction industries (e.g., drillers, blasters, derri
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Mining worker helper tasks are highly procedural, easily replaced by automated equipment (e.g., automated drills, remote-controlled machinery), leading to significant job reduction.
-
 Usually start as helpers, can advance to skilled trades such as drillers or blasters after gaining experience. Can also move to related technical roles like equipment operation or maintenance via apprenticeships or training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as helpers, can advance to skilled trades such as drillers or blas
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible. The occupation is low-skilled, does not meet H-1B specialt
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helpersextraction-workers/US)**

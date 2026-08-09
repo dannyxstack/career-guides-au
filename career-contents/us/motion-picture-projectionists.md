@@ -53,8 +53,6 @@ Responsible for setting up and operating movie projectors and related sound equi
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Film projectionist duties are highly replaceable by automation, especially with digital projection and remote control; entry-level positions have greatly reduced, and practitioners face career transition pressure.
-
 Practitioners can advance from projectionist to cinema technical supervisor or manager, or transition to digital cinema system maintenance or audiovisual equipment sales.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Practitioners can advance from projectionist to cinema technical supervisor or m
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost impossible. This occupation is not a professional occupation; employer
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motion-picture-projectionists/US)**

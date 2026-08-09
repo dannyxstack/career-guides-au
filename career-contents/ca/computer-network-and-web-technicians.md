@@ -51,8 +51,6 @@ In Canada, radio communication technicians correspond to Computer Network and We
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In this occupation, low-level operations tasks are easily automated by AI, but advanced skills such as complex system integration and network architecture design remain valuable; overall employment numbers may shrink.
-
 Junior technicians can advance to senior technician or team supervisor roles; with experience, they can move into network architecture or project management. Holding relevant certifications (e.g., Cisco, CompTIA) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior technicians can advance to senior technician or team supervisor roles; wi
 | Subclass EE (Express Entry (FSW/CEC)) | Suitable for applicants with over 1 year of work experience and good language scores, invited through CRS scoring. |
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for communication technicians, such as Ontario's Human Capital Priorities stream |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Eligible for Federal Express Entry (FSW/CEC) or Provincial Nominee Programs (
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-network-and-web-technicians/CA)**

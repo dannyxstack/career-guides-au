@@ -54,8 +54,6 @@ Operate and maintain track laying and repair equipment, responsible for laying, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Track laying and maintenance equipment operators face high automation risk; AI and robots will take over core tasks like track inspection, laying, and welding. Entry-level jobs decrease, but on-site troubleshooting and supervision still rely on humans.
-
 From entry-level operator, can advance to equipment supervisor, track construction supervisor, or enter railway project management roles after certification.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ From entry-level operator, can advance to equipment supervisor, track constructi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can be promoted to equipment supervisor, track construction supervisor, or tr
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railtrack-laying-and-maintenance-equipment-operators/US)**

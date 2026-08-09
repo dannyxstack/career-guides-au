@@ -55,8 +55,6 @@ This occupation covers general work in legal advice, trials, and law enforcement
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of a property transfer specialist involves both routine processes and legal responsibilities; AI will automate document processing, searches, compliance checks, etc., but core legal judgment, client communication, and signing authority still require humans. Overall, it's a mixed bag, but entry-level positions will be significantly reduced.
-
 Can start as a legal assistant or court clerk, advance to legal counsel, judge, or prosecutor through continuing education, or transition to commercial fields like compliance and corporate law.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can start as a legal assistant or court clerk, advance to legal counsel, judge, 
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to legal assistants with recognized vocational training in Germany, must have a job contract |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job seeking or qualification accreditation, suitable for those without a direct contract |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must pass qualification certification by the Federal Office of Justice, possi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-professionals-in-legal-advice-jurisdiction-and-law-enforcement-general/DE)**

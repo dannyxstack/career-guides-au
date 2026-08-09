@@ -54,8 +54,6 @@ Responsible for the planting, management, harvesting, and primary processing of 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation is significantly affected by automation, especially mechanization and precision agriculture technology which have largely replaced manual operations. AI further optimizes decision-making and monitoring; entry-level positions have declined, but demand for complex environment assessment and machinery maintenance remains.
-
 Career progression includes farm supervisor, farm manager, or transitioning to agricultural consulting, but requires experience or further study. Short-term skill upgrades can increase salary, but management positions are competitive.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career progression includes farm supervisor, farm manager, or transitioning to a
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: There are many seasonal positions, but full-time competition is not intense. 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-oilseed-pulse-and-pasture-farm-worker-aus-field-farm-worker-nz/NZ)**

@@ -52,8 +52,6 @@ Court clerks/registry officers in various courts handle case filing, scheduling,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Court clerk/registry officer document processing and scheduling face high replacement risk, but court attendance support and legal procedure compliance still require human judgment, with total positions expected to shrink.
-
 Pathway: registry officer → senior/Deputy Registrar → Registrar; judicial processes and legal knowledge determine ceiling.
 
 **Tasks most exposed to AI:**
@@ -98,9 +96,7 @@ Pathway: registry officer → senior/Deputy Registrar → Registrar; judicial pr
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -140,12 +136,13 @@ A: No, it is a local public service role within the judicial system and not on t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-clerk-registry-officer/AU)**

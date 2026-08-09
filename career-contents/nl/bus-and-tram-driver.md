@@ -52,8 +52,6 @@ Bus and tram drivers operate public transport vehicles, transporting passengers 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Autonomous driving technology is gradually replacing basic bus driving tasks, but full replacement will take 10-15 years. Current job demand is stable, but faces long-term compression risk.
-
 Drivers can advance to route supervisors, dispatchers, or trainers. Some may enter public transport management or shift to long-distance bus or tour bus driving.
 
 **Tasks most exposed to AI:**
@@ -99,17 +97,9 @@ Drivers can advance to route supervisors, dispatchers, or trainers. Some may ent
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | Applicable for highly skilled migrants, requires annual salary reaching threshold (around €5,600/month in 2025); this occupation typically does not meet income requirements, but can be attempted with employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled non-EU citizens, income threshold is high (approx. €5,600/month in 2025), bus drivers usually do not qualify. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates in the Netherlands or master's/PhD holders from a global top 200 university can apply for a one-year job-seeking visa, and can switch to a work visa after finding a driver job. |
-| Subclass Labor Market Test (W (Work Permit (TWV)) | If a company can prove it cannot find suitable drivers within the EU, it may apply for a low-skilled work permit, but the threshold is high. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: Must first have a Class B license, then obtain a Class D bus license and comp
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-and-tram-driver/NL)**

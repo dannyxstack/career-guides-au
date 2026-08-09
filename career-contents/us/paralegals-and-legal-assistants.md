@@ -53,8 +53,6 @@ Assist lawyers in investigating facts, preparing legal documents, and researchin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
-
 Career progression: Junior paralegal → Senior paralegal → Paralegal supervisor → Law school to become a lawyer. Also possible to transition to roles like compliance officer or contract administrator.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Career progression: Junior paralegal → Senior paralegal → Paralegal supervis
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Difficult. H-1B requires a professional occupation; paralegal usually doesn't
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paralegals-and-legal-assistants/US)**

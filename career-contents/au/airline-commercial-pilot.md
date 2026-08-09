@@ -56,8 +56,6 @@ Pilots operate commercial, cargo, or private aircraft; a high-skill, high-barrie
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 The global pilot shortage is a structural issue (large numbers of pilots took early retirement during COVID), which is particularly pronounced in Australia. High commercial pilot training costs (approximately $100k–$150k) constrain supply and drive ongoing salary growth. Demand for freight pilots has surged due to growth in e-commerce air freight. ATPL holders have an employment rate approaching 100% in Australia.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ The global pilot shortage is a structural issue (large numbers of pilots took ea
 | Subclass 190 (Skilled Nominated) | State nomination pathways (QLD/NT/WA etc. remote aviation demand states) |
 
 **PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
 
 ---
 
@@ -176,11 +172,12 @@ A: Pilot salaries (Captain $160k–$250k) are significantly higher than those of
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airline-commercial-pilot/AU)**

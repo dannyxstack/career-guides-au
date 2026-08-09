@@ -51,8 +51,6 @@ Control or operate entire chemical processes or machine systems, monitor product
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Roles of chemical plant and system operators lie between high automation and the need for human monitoring: AI and automation will take over most routine monitoring and parameter adjustments, but exception handling, process optimization, and cross-system coordination still require human intervention, overall risk moderate to high.
-
 Starting as a junior operator, you can advance to senior operator, team leader, or process engineer after gaining experience. Some companies offer internal training for maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as a junior operator, you can advance to senior operator, team leader, 
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, with at least 2 years of experience or training. |
 | Subclass TN (TN Status for Canadian/Mexican Professionals) | Limited to specific occupations; chemical operators do not meet professional qualification requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: High school diploma plus on-the-job training is sufficient for entry, but an 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-plant-and-system-operators/US)**

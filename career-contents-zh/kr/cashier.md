@@ -1,10 +1,8 @@
 # 收银员（Cashier）职业分析 · 韩国
 
-**职业代码: 61611 (KECO)**
+**职业代码：61611 (KECO)**
 
-A cashier is a professional who calculates the price of products purchased by customers at a store or sales outlet, receives payment, or issues receipts.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+收银员是在商店或销售点计算顾客所购产品价格、收款或开具收据的专业人员。
 
 
 ---
@@ -13,7 +11,7 @@ A cashier is a professional who calculates the price of products purchased by cu
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（No special educational requirements） |
+| 高中文凭 | 0年 | $0~$0（无特殊教育要求） |
 
 ---
 
@@ -21,17 +19,17 @@ A cashier is a professional who calculates the price of products purchased by cu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cashier certificate | Korea Research Institute for Vocational Education and Training | 可选 | Optional, additional points for employment |
-| POS system proficiency | Private certification | 可选 | Mainly acquired on-site |
+| 收银员证书 | 韩国职业教育和培训研究院 | 可选 | 可选，就业加分项 |
+| 收银系统熟练度 | 私人认证 | 可选 | 主要在工作中获取 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 450,000. Employment is declining due to the spread of self-checkout machines and kiosks, but demand is expected to remain at some stores requiring face-to-face service.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 450,000。由于自助结账机和自助服务终端的普及，就业正在下降，但在一些需要面对面服务的商店，需求预计仍将存在。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,92 +37,85 @@ A cashier is a professional who calculates the price of products purchased by cu
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $20,000,000~$25,000,000 | Based on hourly wage, for 40 hours per week |
+| 初级（0-3年） | $20,000,000~$25,000,000 | 按小时工资计算，每周40小时 |
 | 中级 (3-7年) | $25,000,000~$30,000,000 | 经验丰富后增长 |
-| Advanced (7+ years) | $28,000,000~$35,000,000 | Store manager level |
+| 高级（7年以上） | $28,000,000~$35,000,000 | 店长级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-With the introduction of self-checkout and kiosks, a significant portion of cashier duties have been automated, greatly reducing employment. Simple repetitive tasks have been replaced by AI and automation, but customer service and handling complex situations still require human intervention.
+随着自助结账和自助终端的引入，收银员的大部分职责已被自动化，就业岗位大幅减少。简单的重复性任务已被人工智能和自动化取代，但客户服务和处理复杂情况仍需要人工干预。
 
-Starting as a new cashier, responsibilities gradually expand to customer service or inventory management, and with experience, one can advance to store manager or salesperson.
+从收银员起步，职责逐渐扩展至客户服务或库存管理，有经验后可晋升为店长或销售员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Scanning and calculating product prices
-- Processing cash and card payments
-- Issuing receipts
+- 扫描和计算产品价格
+- 处理现金和卡支付
+- 开具收据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Handling customer inquiries and complaints
-- Guiding customers to products in the store
-- Monitoring kiosks and troubleshooting
+- 处理客户咨询和投诉
+- 引导顾客到店内产品前
+- 监控服务亭及故障排除
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face communication skills
-- Ability to handle complex situations
-- Trustworthiness and friendliness
+- 面对面沟通能力
+- 处理复杂情况的能力
+- 可靠性与友善
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 客户服务技巧
-- POS system operation
-- Basic accounting and inventory management
+- POS系统操作
+- 基础会计和库存管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Automation
-- Kiosk introduction
-- Self-checkout
-- Alternative services
+- 自动化
+- 自助服务终端引入
+- 自助结账
+- 替代服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some retail sectors have demand for unskilled labor, but cashier is not the main visa. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as cashiers without employment restrictions. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and quick with numbers
-- Friendly in customer service
-- Patient with simple repetitive tasks
+- 注重细节且对数字敏感
+- 客户服务态度友好
+- 能耐心做简单重复任务的人
 
 **谁不适合**
-- Someone who wants stimulation and change
-- Someone who finds using digital devices difficult
+- 寻求刺激和变化的人
+- 觉得使用数字设备有困难的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：收银员的平均薪资是多少？**
-答：Around 20-25 million KRW for entry level, varying with experience and work hours.
+答：入门级约2000-2500万韩元，视经验和工作时长而定。
 
-**问：Can foreigners work as cashiers?**
-答：Possible with E-9 (Non-professional Employment) visa, but not a mainstream route. F-4 (Overseas Koreans) can work freely.
+**问：外国人可以做收银员吗？**
+答：持E-9（非专业就业）签证可能，但非主流途径。F-4（海外韩裔）可自由工作。
 
-**问：Is there room for promotion as a cashier?**
-答：Yes, you can be promoted to store manager or sales associate, with career growth through additional training.
+**问：收银员有晋升空间吗？**
+答：是的，你可以晋升为店长或销售助理，并通过额外培训实现职业发展。
 
 
 ---
@@ -142,12 +133,12 @@ Starting as a new cashier, responsibilities gradually expand to customer service
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cashier/KR)**

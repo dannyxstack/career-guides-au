@@ -51,8 +51,6 @@ Responsible for leading software development teams, setting technical strategy, 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As an executive position, AI finds it hard to replace strategic decision-making and personnel management, but execution tasks like coding and testing will be highly automated; need to transform into an AI-driven tech leader.
-
 Usually starts as a senior developer or architect, then progresses to team lead, department head, and eventually CTO or IT director. Requires continuous learning of new technologies and management skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starts as a senior developer or architect, then progresses to team lead,
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to practitioners with recognized qualifications or professional certifications, requiring a job offer from an employer. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job search visa based on points system, allowing travel to Germany to find work, but requires proof of language or professional background. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Relatively easy. Due to a shortage of IT management talent, residency can be 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-software-development-and-programming/DE)**

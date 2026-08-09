@@ -51,8 +51,6 @@ Working in customer information and advisory services in Germany, including answ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The Information and Customer Consulting Specialist role is at high risk of automation; AI chatbots and voice assistants will largely replace routine inquiries and complaint handling, significantly shrinking entry-level positions, but complex emotional communication and deep problem-solving still require humans.
-
 Can progress from junior customer service representative to senior customer service specialist, team leader, or quality monitor. Some transition to sales or marketing departments. Continuous improvement of communication and problem-solving skills is needed.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior customer service representative to senior customer serv
 | Subclass Skilled Worker (Skilled Immigration Act) | Must hold recognized professional qualification or degree, employer-sponsored |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing job seekers to search for work in Germany for 1 year |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically, completion of dual-system training is sufficient, though some univ
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-and-customer-service-agent/DE)**

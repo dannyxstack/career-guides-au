@@ -4,8 +4,6 @@
 
 Physical therapy technicians and assistants, under the guidance of professional physical therapists, assist in implementing rehabilitation treatment plans, including exercise therapy, physiotherapy, and patient guidance. This role has stable demand in the Dutch healthcare system, with good growth prospects especially against the backdrop of an aging population.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Physical therapy technicians and assistants, under the guidance of professional 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of physiotherapy technicians and assistants will be transformed by automation: repetitive paperwork, data recording, and basic training monitoring are taken over by AI, but core tasks such as patient interaction, manual therapy, and personalized program development are enhanced by AI, resulting in overall stable demand.
-
 Practitioners can progress to senior assistant, team supervisor through experience, or become registered physiotherapists through further study. Some may also transition into rehabilitation management or health consulting.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Practitioners can progress to senior assistant, team supervisor through experien
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to qualified assistants meeting salary threshold, requiring employer sponsorship. 2024 threshold approximately €3,672/month (over 30). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to those with higher education degrees and higher salaries, with a 2024 threshold of approximately €5,331/month. Physical therapy assistants typically find it difficult to meet this requirement. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Applicable to international students graduating from Dutch higher education institutions, allowing free work for one year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Typically requires completing 3 years of MBO-4 secondary vocational education
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapy-technician-and-assistant/NL)**

@@ -4,8 +4,6 @@
 
 Performs physical labour on construction sites, assisting civil engineers and tradespeople in infrastructure projects such as roads and bridges.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Performs physical labour on construction sites, assisting civil engineers and tr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Civil engineering labourers face moderate automation risk: AI will not fully replace them but will take over some repetitive physical tasks (such as surveying, material handling) while enhancing tasks like planning and safety monitoring.
-
 By accumulating experience and obtaining safety certificates, you can advance to senior worker, foreman, or specialized worker; a few may transition to machine operator.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ By accumulating experience and obtaining safety certificates, you can advance to
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-EU workers requiring employer sponsorship, applicable to the construction industry. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled labor, but civil engineering laborers usually do not meet the income threshold (annual salary of approximately €30,000+). |
-| Subclass Free Movement (EU Free Movement) | EU citizens can work freely without a visa. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Due to national recovery plan investment in infrastructure, demand is stable 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-labourer/IT)**

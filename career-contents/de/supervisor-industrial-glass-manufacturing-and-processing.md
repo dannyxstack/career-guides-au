@@ -53,8 +53,6 @@ Responsible for overseeing daily operations of industrial glass production lines
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Industrial glass manufacturing and processing supervisor roles face moderate risk of AI automation; some quality monitoring and planning/scheduling tasks can be replaced by AI, but production line anomaly handling, personnel management and safety compliance still require human experience, presenting a mixed picture.
-
 Can progress from glass manufacturing technician to production line supervisor, then to production manager or quality control roles. Some transition to engineering or technical consulting through further study.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from glass manufacturing technician to production line supervisor, 
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires professional qualification certification and employment by a German employer. |
 | Subclass Chancenkarte (Opportunity Card) | For high-potential job seekers, based on a points system, eligible to enter and seek employment. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires completing a 3-year dual apprenticeship as a glass manufac
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-industrial-glass-manufacturing-and-processing/DE)**

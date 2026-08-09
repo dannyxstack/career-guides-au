@@ -54,8 +54,6 @@ Industrial glass blowers in Germany produce handmade or semi-automated glass pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial glass blowers face mixed impacts from AI: AI-driven automated equipment will take over repetitive batch production tasks, but high-end custom work, art restoration, and complex techniques still require human manual skills.
-
 Junior glass blowers can advance to senior craftsman or team leader, or through continuing education become glass technology technicians or design specialists. Some experienced workers move into quality control or training roles. Starting a studio as a self-employed entrepreneur is also a common path.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior glass blowers can advance to senior craftsman or team leader, or through 
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | based on a points system, allows entry to find a job without a confirmed offer, applicable to occupations in demand; simplifies qualification assessment processes. |
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to find work, must prove financial means and qualification recognition prospects. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can obtain a master certificate (Meister) to become a technical supervisor or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-glass-blower-manual/DE)**

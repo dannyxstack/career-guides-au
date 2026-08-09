@@ -55,8 +55,6 @@ Mechanical engineers design, analyse and test mechanical systems across manufact
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Mechanical engineer's job is a mixed bag with AI: design analysis tasks are enhanced, but complex system integration and on-site responsibility still rely on human judgment, intensifying competition for entry-level roles.
-
 Defence and aerospace mechanical engineers (requiring Australian security clearance) command the highest salary premium, with annual salaries exceeding $160k. Demand for mechanical engineers specialising in Industry 4.0 (robotics/automation) is increasing sharply.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Defence and aerospace mechanical engineers (requiring Australian security cleara
 | Subclass 190 (Skilled Nominated) | State nomination, with mining pathways in WA/QLD and manufacturing pathways in SA/VIC |
 | Subclass 491 (Skilled Work Regional) | Remote area engineering projects, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Civil engineers have higher overall employment volume (Seek ~3,000+ vs mechan
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/AU)**

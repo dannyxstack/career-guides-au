@@ -50,8 +50,6 @@ A broad support role in logistics and manufacturing, including product transport
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Due to AI and automation, simple tasks like sorting and packaging are decreasing. However, flexibility and adaptive decision-making for diverse situations still depend on humans, making complete replacement difficult.
-
 Easy to enter without experience, but obtaining forklift and hazardous materials licenses helps career advancement.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Easy to enter without experience, but obtaining forklift and hazardous materials
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (includes building cleaning, food service, manufacturing, etc., but since main job is 'other', may be ineligible)) | Available if covered by a specified industrial field. However, 'other transport, cleaning, packaging, etc.' is not eligible, so 'building cleaning' or 'molding/machinery/electrical/electronic information-related manufacturing' are closer. |
-| Subclass 技能実習2号 (Technical Intern Training (manufacturing, etc.)) | Engage in work requiring certain skilled techniques. Possible up to 3 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires specialized knowledge. Unsuitable for simple tasks. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -140,12 +131,12 @@ A: Common paths include obtaining qualifications like forklift licenses or hazar
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-transport-cleaning-packaging-workers/JP)**

@@ -4,8 +4,6 @@
 
 Garbage collectors are responsible for collecting and transporting urban household waste and recyclables, operating garbage trucks, and ensuring environmental hygiene. Most work takes place outdoors, requiring physical labor.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Garbage collectors are responsible for collecting and transporting urban househo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on waste collectors is mixed: route planning and sorting will be automated, but manual labor, safety judgment, and customer interaction will still rely on humans.
-
 You can be promoted to garbage truck driver, fleet supervisor, or through training to positions such as waste treatment technician or environmental supervisor.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ You can be promoted to garbage truck driver, fleet supervisor, or through traini
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A work contract from a Spanish employer is required, and labor market testing prioritizes local workers; foreign workers are more difficult to approve. |
-| Subclass Busqueda empleo (Job Search Visa) | Holding this visa allows you to find work in Spain, but garbage collectors are not highly skilled occupations and have a low approval rate. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Yes. You can be promoted to garbage truck driver, fleet supervisor, or throug
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-collectors/ES)**

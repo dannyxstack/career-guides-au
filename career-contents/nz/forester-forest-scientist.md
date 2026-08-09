@@ -52,8 +52,6 @@ Forest scientists in New Zealand are responsible for sustainable management, con
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
-
 Start in entry-level roles such as forestry technician, then advance to forestry scientist or forest manager after gaining experience; can transition to research, consulting, or management positions such as regional forest manager or forestry policy analyst. Holding certification can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start in entry-level roles such as forestry technician, then advance to forestry
 | Subclass SMC (Skilled Migrant Category) | Through the 6-point skilled migration system, meeting education and work experience requirements |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residency is not met, a transition through employer-sponsored work visa is possible |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: No mandatory registration, but the New Zealand Institute of Forestry offers p
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forester-forest-scientist/NZ)**

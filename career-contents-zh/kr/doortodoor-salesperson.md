@@ -1,10 +1,8 @@
 # 上门推销员（Door-to-door Salesperson）职业分析 · 韩国
 
-**职业代码: 61561 (KECO)**
+**职业代码：61561 (KECO)**
 
-A job that involves visiting homes or businesses to sell products or services, typically concluding contracts through phone solicitations or face-to-face sales.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+上门或到企业推销产品或服务的工作，通常通过电话推销或面对面销售签订合同。
 
 
 ---
@@ -13,7 +11,7 @@ A job that involves visiting homes or businesses to sell products or services, t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（No education restrictions） |
+| 高中文凭 | 0年 | $0~$0（无学历限制） |
 
 ---
 
@@ -21,17 +19,17 @@ A job that involves visiting homes or businesses to sell products or services, t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Completion of health functional food sales training | Korea Health Functional Food Association | 必备 | Required for selling health functional foods |
-| Door-to-door salesperson registration | Local district office | 必备 | Registration obligation under the Door-to-Door Sales Act |
+| 完成健康功能食品销售培训 | 韩国健康功能食品协会 | 必备 | 销售健康功能食品所需 |
+| 门到门销售人员注册 | 地方区公所 | 必备 | 上门推销法下的注册义务 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 120,000. Due to the expansion of online shopping and the impact of COVID-19, the door-to-door sales market has shrunk, leading to a declining employment trend. Demand remains in niche markets targeting the elderly or sectors like health functional foods, but the overall outlook is negative.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 120,000。由于在线购物的扩张和新冠疫情的影响，上门销售市场萎缩，就业呈下降趋势。在面向老年人或健康功能食品等细分市场中仍有需求，但整体前景不乐观。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,94 +37,85 @@ A job that involves visiting homes or businesses to sell products or services, t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $18,000,000~$30,000,000 | Commission-based, highly variable income |
+| 初级（0-3年） | $18,000,000~$30,000,000 | 佣金制，收入波动大 |
 | 中级 (4-7年) | $24,000,000~$45,000,000 | Requires stable customer base |
-| Advanced (8+ years) | $30,000,000~$60,000,000 | 含团队管理 |
+| 高级（8年以上） | $30,000,000~$60,000,000 | 含团队管理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Due to AI and digital transformation, the efficiency of phone and door-to-door sales is decreasing, and online marketing and customer relationship management (CRM) systems are emerging as substitutes, reducing the role of door-to-door salespeople. AI-based automation is highly likely to replace repetitive customer interactions.
+由于AI和数字化转型，电话和上门销售效率下降，在线营销和客户关系管理系统作为替代出现，减少了上门销售的角色。基于AI的自动化很可能替代重复的客户互动。
 
-Most work as independent contractors. With experience, one may transition to a sales team leader or instructor, but promotion paths are unclear. Top performers can move up multilevel marketing tiers or start their own businesses.
+多数以独立承包商身份工作。有经验后可转为销售团队领导或培训师，但晋升路径不明。业绩突出者可晋升多级营销层级或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Phone Solicitation and Script-based Counseling
-- Simple Entry and Classification of Customer Information
-- Regular Visit Schedule Management
+- 电话销售与脚本式咨询
+- 客户信息的简单录入与分类
+- 定期访问日程管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based Customer-tailored Proposal Generation
-- Optimal Visit Route Setting through Big Data Analysis
+- 基于AI的客户定制提案生成
+- 通过大数据分析设置最优访问路线
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust-based Human Relationship Building
-- Complex Negotiation and Emotional Empathy Skills
-- Intuitive Insight into Customer Needs
+- 基于信任的人际关系建设
+- 复杂谈判与情感共情能力
+- 直观洞察客户需求
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Marketing
-- SNS and Online Sales Channel Operation
-- Customer Relationship Management (CRM) Tool Utilization
-- Data Analysis-based Targeting
+- 数字营销
+- 社交网络和在线销售渠道运营
+- 客户关系管理工具利用
+- 基于数据分析的目标定位
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Accelerating online transition
-- Sales to the Elderly
-- Health Functional Food Market
-- Strengthened Personal Information Protection Regulations
+- 加速线上转型
+- 向老年人销售
+- 健康功能食品市场
+- 加强个人信息保护规定
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Door-to-door sales is not an E-7 eligible occupation, making visa issuance difficult. Possible in some multilevel marketing companies under special circumstances, but very limited. |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residency stage; door-to-door sales allowed freely. Must meet income requirements. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Allowed for overseas Koreans; can engage in door-to-door sales. |
-| Subclass F-5 (Permanent Residence) | No restrictions on industry as a permanent resident. Door-to-door sales allowed. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy face-to-face communication and are highly persuasive
-- People who prefer flexible work despite irregular income
-- People who are motivated to set and achieve goals self-directedly
+- 喜欢面对面交流且说服力强的人
+- 尽管收入不稳定但偏好灵活工作的人
+- 有动力自主设定并实现目标的人
 
 **谁不适合**
-- People who want stable fixed salary and set working hours
-- People sensitive to rejection or weak in interpersonal stress
+- 希望稳定固定薪资和固定工作时间的人
+- 对拒绝敏感或人际压力承受力弱的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a door-to-door salesperson?**
-答：About 18–30 million KRW for beginners, with large variations based on performance. Mid-level and above range from 24–45 million KRW.
+**问：上门推销员的平均工资是多少？**
+答：新手约1800-3000万韩元，根据绩效差异大。中级及以上2400-4500万韩元。
 
-**问：Can foreigners get a visa for door-to-door salesperson?**
-答：It is virtually impossible as it is not an E-7 visa-eligible job. Only those with residence status such as F-2, F-4, F-5 can engage in this activity.
+**问：外国人能否获得上门推销员的签证？**
+答：几乎不可能，因为这不是E-7签证合格职业。只有具有F-2、F-4、F-5等居留身份的人才能从事此活动。
 
-**问：What training is needed to become a door-to-door salesperson?**
-答：No specific education or certification is required, but training is needed for selling health functional foods. Most companies provide in-house training.
+**问：成为上门推销员需要什么培训？**
+答：销售健康功能食品无需特定学历或证书，但需要培训。大多数公司提供内部培训。
 
 
 ---
@@ -144,12 +133,12 @@ Most work as independent contractors. With experience, one may transition to a s
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/doortodoor-salesperson/KR)**

@@ -1,8 +1,8 @@
-# Shoe manufacturing machine operators and assemblers 职业分析 · 韩国
+# 制鞋机器操作员和装配工（Shoe manufacturing machine operators and assemblers）职业分析 · 韩国
 
-**职业代码: 86421 (KECO)**
+**职业代码：86421 (KECO)**
 
-This occupation involves operating machinery or assembling parts in the shoe manufacturing process to produce finished products, mainly in shoe factories in the Daegu/Gyeongbuk region.
+该职业涉及在制鞋过程中操作机器或组装零件以生产成品，主要在大邱/庆北地区的鞋厂。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves operating machinery or assembling parts in the shoe man
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Free as compulsory education） |
-| Vocational training (e.g., Polytechnics) | 6 months | $1,000,000~$3,000,000（Government-funded possible with minimal personal contribution） |
+| 高中毕业 | 3年 | $0~$0（免费义务教育） |
+| 职业培训（如理工学院） | 6个月 | $1,000,000~$3,000,000（政府资助可能，个人贡献最小） |
 
 ---
 
@@ -20,17 +20,17 @@ This occupation involves operating machinery or assembling parts in the shoe man
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 职业安全与健康培训 | Ministry of Employment and Labor | 必备 | Mandatory legal training |
-| Shoe manufacturing technician | Human Resources Development Service of Korea | 可选 | Optional, but provides extra points for employment |
+| 职业安全与健康培训 | 雇佣劳动部 | 必备 | 强制性法律培训 |
+| 制鞋技术员 | 韩国人力资源开发服务局 | 可选 | 可选，但为就业提供额外加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 15,000. Korea's shoe industry continues to relocate production bases to China and Vietnam, with employment stagnant or declining. Due to an aging workforce and automation, new hiring is limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 15,000。韩国制鞋业持续将生产基地迁往中国和越南，就业停滞或下降。由于劳动力老龄化和自动化，新招聘有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,93 +38,86 @@ This occupation involves operating machinery or assembling parts in the shoe man
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$28,000,000 | 最低工资水平 |
-| 中级 (4-7年) | $28,000,000~$34,000,000 | Varies with night shift allowances |
-| Skilled (8+ years) | $32,000,000~$40,000,000 | Line supervisor level |
+| 初级（0-3年） | $24,000,000~$28,000,000 | 最低工资水平 |
+| 中级 (4-7年) | $28,000,000~$34,000,000 | 视夜班津贴而定 |
+| 熟练（8年以上） | $32,000,000~$40,000,000 | 生产线主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-As AI and automation technologies are introduced in the shoe manufacturing process, simple repetitive tasks are being replaced. In particular, robot adoption is increasing in cutting, sewing, and assembly lines, reducing the demand for manpower. However, complex manual work and quality inspection still require humans.
+随着AI和自动化技术引入制鞋过程，简单重复的任务被取代。特别是在裁剪、缝制和装配线上，机器人采用率增加，降低了对人力的需求。然而，复杂的手工工作和质量检验仍需人力。
 
-Newcomers start with simple assembly or machine assistance, and after gaining skills, can move to line supervisor or quality control roles, but promotion opportunities are limited due to small workplace sizes.
+新手从简单组装或机器辅助开始，掌握技能后可转向生产线主管或质量控制角色，但因工作场所规模较小，晋升机会有限。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting tasks
-- Repetitive assembly processes
-- Basic quality inspection (visual inspection)
+- 简单切割任务
+- 重复性装配流程
+- 基础质量检验（目视检查）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based quality inspection system operation
-- Automated line monitoring and adjustment
-- Smart factory data analysis
+- 基于AI的质量检测系统操作
+- 自动化线路监控与调整
+- 智能工厂数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Delicate manual work (advanced craftsmanship)
-- Ability to handle non-standard processes
-- Flexibility for high-mix low-volume production
+- 精细手工活（高级工艺）
+- 处理非标准流程的能力
+- 适应多品种小批量生产的灵活性
 
-**需构建的技能:**
+**需构建的技能：**
 
-- PLC programming
-- Robot maintenance
-- Data analysis
-- Smart factory operation
+- PLC编程
+- 机器人维护
+- 数据分析
+- 智能工厂运营
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shoe manufacturing
-- Sewing assembly
-- Automated machinery
-- Dress shoes·sneakers
+- 制鞋
+- 缝纫装配
+- 自动化机械
+- 皮鞋·运动鞋
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issued to unskilled foreign workers in manufacturing, including shoe manufacturing. Stay allowed up to 3 years. |
-| Subclass E-7 (E-7 (Specific Activities)) | Limited to skilled workers in footwear manufacturing. Employment recommendation required. |
-| Subclass F-2 (Residence (F-2)) | Convertible after long-term stay on E-7, precursor to permanent residence. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those patient with repetitive tasks
-- Those willing to accept night and overtime work
-- Those interested in machine operation
+- 对重复性任务有耐心的人
+- 愿意接受夜班和加班工作的人
+- 对机器操作感兴趣者
 
 **谁不适合**
-- Those seeking creative and flexible work
-- Those expecting high income
+- 寻求创意和弹性工作的人
+- 期望高收入者
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：What is the average salary of a footwear manufacturing machine operator?**
-答：Approximately KRW 24-28 million for entry-level, up to KRW 40 million with experience, but generally low.
+答：入门级约2400-2800万韩元，有经验者可达4000万韩元，但整体偏低。
 
-**问：Can a foreigner get a work visa for this occupation?**
-答：Yes. Entry is possible with the E-9 (Non-professional Employment) visa, and can be converted to the E-7 (Specific Activities) visa after gaining skills.
+**问：外国人能为这个职业获得工作签证吗？**
+答：可以。持E-9（非专业就业）签证入境，掌握技能后可转为E-7（特定活动）签证。
 
-**问：What is the career progression in this occupation?**
-答：Initially doing simple assembly and machine assistance, then moving to line supervisor or quality control after gaining skills, but promotion opportunities are limited.
+**问：这个职业的职业发展路径是什么？**
+答：最初从事简单组装和机器辅助工作，掌握技能后可晋升为生产线主管或质检员，但晋升机会有限。
 
 
 ---
@@ -142,12 +135,12 @@ Newcomers start with simple assembly or machine assistance, and after gaining sk
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/shoe-manufacturing-machine-operators-and-assemblers/KR)**

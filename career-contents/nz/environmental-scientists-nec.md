@@ -51,8 +51,6 @@ Environmental scientists study pollution control, resource management, and ecolo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Environmental scientists and specialists' tasks are reshaped by AI in mixed ways: data analysis and report generation are automated, but AI enhances environmental modeling and remote sensing; humans retain moats in regulation interpretation, field assessment, and stakeholder communication.
-
 Junior analysts can advance to senior scientists or team leaders, then move to policy advisors or project managers. Those with over 10 years of experience can become chief scientists or environmental directors, with some entering academia or starting their own businesses.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior analysts can advance to senior scientists or team leaders, then move to p
 | Subclass SMC (Skilled Migrant Category) | Six-point skilled migration: score points based on qualifications, work experience, and salary; apply once you reach 6 points. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer-sponsored visa, suitable for work-then-migrate pathway, requires approved employer offer. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: This occupation is eligible for immigration under the Green List T1 (Direct R
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-scientists-nec/NZ)**

@@ -52,8 +52,6 @@ Mathematicians use advanced mathematics and statistical methods to solve complex
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mathematicians' tasks will be significantly enhanced by AI, but also face risks of partial automation; high-value analytical roles need to shift towards advanced modeling and algorithm design, while entry-level positions may be reduced.
-
 Career progression can start from junior data analyst or researcher, advancing to senior analyst, chief scientist, or research director, and can also pivot to financial quantitative analysis or data science.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can start from junior data analyst or researcher, advancing t
 | Subclass 482 (Temporary Skill Shortage visa) | Employer-sponsored temporary visa, requires employer nomination |
 | Subclass 186 (Employer Nomination Scheme visa) | Employer-sponsored permanent residency visa requiring employer nomination and skills assessment |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Mathematicians use advanced mathematics and statistical modeling to solve pra
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematician/AU)**

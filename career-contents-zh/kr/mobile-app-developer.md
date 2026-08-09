@@ -1,10 +1,8 @@
-# Mobile App Developer 职业分析 · 韩国
+# 移动应用开发者（Mobile App Developer）职业分析 · 韩国
 
-**职业代码: 13325 (KECO)**
+**职业代码：13325 (KECO)**
 
-A professional who designs, develops, tests, and maintains applications for smartphones and tablets, developing native or cross-platform apps on iOS and Android.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+为智能手机和平板电脑设计、开发、测试和维护应用程序的专业人员，开发iOS和Android上的原生或跨平台应用。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who designs, develops, tests, and maintains applications for smar
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $10,000,000~$15,000,000（National university tuition） |
-| 本科（学士学位） | 4年 | $20,000,000~$30,000,000（Private university tuition） |
-| Bootcamp | 6 months | $5,000,000~$8,000,000（Government-funded eligible） |
+| 副学士学位 | 2 年 | $10,000,000~$15,000,000（国立大学学费） |
+| 本科（学士学位） | 4年 | $20,000,000~$30,000,000（私立大学学费） |
+| 训练营 | 6个月 | $5,000,000~$8,000,000（符合政府资助条件） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who designs, develops, tests, and maintains applications for smar
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Not required but adds points |
-| OCPJP | Oracle | 可选 | Favorable for Java development |
-| Google Associate Android Developer | Google | 可选 | Android development certification |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 非必需但可加分 |
+| OCPJP | Oracle | 可选 | 有利于Java开发 |
+| Google Associate Android Developer | Google | 可选 | 安卓开发认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Demand is steadily increasing due to digital transformation and mobile service expansion. With accelerated convergence of AI and IoT, demand for advanced talent is expected to grow further.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于数字化转型和移动服务扩展，需求稳步增长。随着AI和物联网的加速融合，对高级人才的需求将进一步增长。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -43,49 +41,49 @@ A professional who designs, develops, tests, and maintains applications for smar
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
 | 初级 (0-3年) | $30,000,000~$40,000,000 | Differs between startups and large corporations |
-| 中级(3-7年) | $45,000,000~$60,000,000 | Varies by tech stack |
-| 高级（7年以上） | $65,000,000~$90,000,000 | Lead-level can exceed 100M KRW |
+| 中级(3-7年) | $45,000,000~$60,000,000 | 因技术栈而异 |
+| 高级（7年以上） | $65,000,000~$90,000,000 | 领导级别可超1亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI can assist in code generation, testing, optimization in mobile app development, but creative design and complex problem-solving remain human roles. Utilizing AI tools greatly boosts productivity, making collaboration with AI important.
+在移动应用开发中，人工智能可协助代码生成、测试和优化，但创意设计与复杂问题解决仍是人类角色。利用AI工具能大幅提升生产力，因此与AI协作至关重要。
 
-Can advance from junior developer to senior developer to tech lead/CTO, or become a specialist in fields like AI or blockchain. Career development is possible at both startups and large corporations.
+可从初级开发人员晋升为高级开发人员、技术主管/CTO，或在人工智能或区块链等领域成为专家。初创公司和大型企业均可实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple UI code generation
-- Basic test case writing
-- Standard library call patterns
+- 简单UI代码生成
+- 基础测试用例编写
+- 标准库调用模式
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Code review and quality inspection
-- Performance optimization
-- Automated test generation
-- User behavior analysis
+- 代码审查与质量检查
+- 性能优化
+- 自动化测试生成
+- 用户行为分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative app design
-- Deep understanding of user experience (UX)
-- Implementing complex business logic
-- Team leadership and communication
+- 创意应用设计
+- 对用户体验（UX）的深刻理解
+- 实现复杂业务逻辑
+- 团队领导与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Swift/Kotlin
 - Flutter/React Native
-- AI/ML Integration
-- Cloud Services (AWS, Firebase)
-- CI/CD Pipeline
+- AI/ML集成
+- 云服务（AWS、Firebase）
+- CI/CD管道
 
-**主要增长方向:**
+**主要增长方向：**
 
 - iOS
 - Android
@@ -94,45 +92,37 @@ Can advance from junior developer to senior developer to tech lead/CTO, or becom
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to skilled professionals, requires 5+ years experience or degree |
-| Subclass D-10 (E-10 (Job Seeking)) | Post-graduation job seeking, 6 months to 2 years |
-| Subclass F-2 (F-2 (Residence)) | Point-based permanent residency, convertible from E-7 |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong logical thinking and problem-solving skills
-- People who are comfortable continuously learning new technologies
-- People skilled in teamwork and communication
+- 逻辑思维和解决问题能力强的人
+- 乐于持续学习新技术的人
+- 善于团队合作和沟通的人
 
 **谁不适合**
-- People who prefer repetitive tasks and dislike creative challenges
-- People unable to adapt to changing technologies
+- 喜欢重复性任务且不喜欢创造性挑战的人
+- 无法适应技术变革的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a mobile app developer?**
-答：Beginner: 30-40 million KRW, intermediate: 45-60 million KRW, advanced: 65-90 million KRW, varying greatly by experience and skills.
+**问：移动应用开发人员的平均薪资是多少？**
+答：初级：3000-4000万韩元，中级：4500-6000万韩元，高级：6500-9000万韩元，因经验和技能差异较大。
 
-**问：What visa does a foreigner need to work as a mobile app developer in Korea?**
-答：An E-7 visa is common, requiring a bachelor's degree or 5+ years of experience. Can switch from a D-10 job-seeking visa.
+**问：外国人在韩国担任移动应用开发人员需要什么签证？**
+答：E-7签证常见，需学士学位或5年以上经验。可从D-10求职签证转换。
 
-**问：What skills should I develop to grow as a mobile app developer?**
-答：Learning latest languages like Swift, Kotlin, Flutter is essential; UI/UX design understanding and collaboration skills are also important.
+**问：为了提升作为移动应用开发者，我应该培养哪些技能？**
+答：学习Swift、Kotlin、Flutter等最新语言至关重要；理解UI/UX设计和协作能力也很重要。
 
 
 ---
@@ -150,12 +140,12 @@ Can advance from junior developer to senior developer to tech lead/CTO, or becom
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mobile-app-developer/KR)**

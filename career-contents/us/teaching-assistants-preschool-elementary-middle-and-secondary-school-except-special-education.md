@@ -52,8 +52,6 @@ Assist teachers in completing teaching tasks, including preparing materials, sup
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core tasks of teaching assistants (document processing, scheduling, record-keeping) are easily replaced by AI, but demand for emotional labor like face-to-face student support and behavior management remains; the role is evolving overall.
-
 Can advance to special education assistant or obtain teaching qualifications to become a full teacher, some move into school administration or education coordination. Career development requires further education and certification.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can advance to special education assistant or obtain teaching qualifications to 
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Very difficult. This position usually does not qualify as an H-1B specialty o
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teaching-assistants-preschool-elementary-middle-and-secondary-school-except-special-education/US)**

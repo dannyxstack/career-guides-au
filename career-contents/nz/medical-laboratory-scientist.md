@@ -52,8 +52,6 @@ Medical Laboratory Scientist is on New Zealand's Green List Tier 1, eligible for
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Medical laboratory scientists' work can be partially automated (e.g., data analysis), but sample processing and complex judgment rely on humans; AI enhances efficiency but cannot replace core skills.
-
 Can advance from junior scientist to senior scientist, laboratory manager, or quality manager; can also transition to research, education, or diagnostic company technical support.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from junior scientist to senior scientist, laboratory manager, or qu
 | Subclass Green List T1 (Green List Tier 1 Direct Residence) | Direct residence pathway, requires an accredited employer offer, no waiting period |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa can serve as a transition, leading to residency after meeting conditions |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: MLSCNZ qualification assessment typically takes 3-6 months, exams extra.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-laboratory-scientist/NZ)**

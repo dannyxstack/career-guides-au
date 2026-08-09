@@ -54,8 +54,6 @@ A Māori language nest assistant supports the revitalization of the Māori langu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI will assist in generating Māori language teaching materials and correcting pronunciation, but the role of human teachers is irreplaceable in cultural transmission and emotional interaction; overall risks and opportunities coexist.
-
 Can progress from assistant to lead teacher or Māori language consultant, requiring experience and higher education qualifications. Some practitioners transition to primary school Māori language teacher.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from assistant to lead teacher or Māori language consultant, requi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Difficult. This occupation is not on the skilled migration list or Green List
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kaiwhina-kohanga-reo-mori-language-nest-assistant/NZ)**

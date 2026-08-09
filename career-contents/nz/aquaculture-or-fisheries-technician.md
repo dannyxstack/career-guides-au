@@ -52,8 +52,6 @@ Assist with daily operations of aquaculture farms, including water quality monit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly enhance the work efficiency and decision quality of aquaculture or fisheries technicians, rather than replace them. Tasks like data monitoring, disease prediction, and precision feeding will be amplified by AI tools, but on-site operations and biological health assessment still require human intervention.
-
 Promote from junior technician to senior technician or farm manager, or develop into specialist in aquaculture disease control and water quality management. With experience, suitable for starting a business or becoming a consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Promote from junior technician to senior technician or farm manager, or develop 
 | Subclass SMC (Skilled Migrant Category) | With relevant qualifications and work experience, can apply for skilled migration; under the 6-point system, can receive points for qualifications and experience |
 | Subclass AEWV (Accredited Employer Work Visa) | Come to New Zealand first on a work visa; employer must be accredited, suitable for those without direct immigration eligibility |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. With over 5 years of relevant work experience, can apply for skilled mig
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-or-fisheries-technician/NZ)**

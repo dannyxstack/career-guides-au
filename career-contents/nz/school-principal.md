@@ -54,8 +54,6 @@ The principal is responsible for the overall management of the school, including
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on Canadian vocational trainers is mixed: AI can automate curriculum development and assessment, lowering entry barriers; but industry practice teaching and interpersonal guidance are needed, with core value enhanced by personalized learning.
-
 Career progression path: teacher → deputy principal → principal. After accumulating management experience, can advance to regional education director or education department consultant; some principals move into university education management or education policy research.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression path: teacher → deputy principal → principal. After accum
 | Subclass AEWV (Accredited Employer Work Visa) | If not directly meeting the Green List, can first work on an AEWV for 2 years before applying for residency |
 | Subclass Green List T2 (Work to Residence Visa) | If the position is on the secondary list, you can apply for residency after 2 years (currently principals are not on T2, but related education management may be) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Partial recognition, but New Zealand teacher registration is usually required
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-principal/NZ)**

@@ -54,8 +54,6 @@ Blasters perform blasting operations in mining, quarrying, and construction site
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Blasters face a mixed outlook from AI/automation: automated drilling and charging equipment will compress traditional entry-level positions, but AI cannot replace on-site safety judgment and adaptability to complex geology, making certified experts more valuable.
-
 Starting as a junior blaster, can progress to senior blaster or blasting supervisor, also can transition to geotechnical engineering or mine planning. A New Zealand blasting license enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Starting as a junior blaster, can progress to senior blaster or blasting supervi
 | Subclass SMC (Skilled Migrant Category) | Eligible to apply, but blaster is ANZSCO skill level 3, so high salary or work experience bonus is required. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Blaster is not on the green list, so this pathway is not applicable; it is only an example. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can progress from Junior Blaster to Senior Blaster, Blasting Supervisor, or t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shot-firer-712213/NZ)**

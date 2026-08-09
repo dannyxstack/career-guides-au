@@ -4,8 +4,6 @@
 
 In Italy, barbers are core professionals in the hairdressing and beauty industry, mainly providing services such as haircuts, dyeing, and styling. The demand for this occupation is stable, especially valued in local communities, but it often requires certification and apprenticeship experience.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In Italy, barbers are core professionals in the hairdressing and beauty industry
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hairdresser risk is moderate-low; basic tasks like booking and inventory management are easily replaced by AI, but core skills like cutting and coloring are difficult to automate. AI can assist with hairstyle design and personalized recommendations to enhance the service experience.
-
 Career path is usually: apprentice → hairdresser → senior hairdresser → salon manager/self-employment. Further training can specialize in coloring, styling, or obtaining teaching qualifications to train new staff.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Career path is usually: apprentice → hairdresser → senior hairdresser → sa
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Work visa (Decreto Flussi)) | Applicable to non-EU citizens with an annual cap; requires employer sponsorship. Hairdressers are not in a shortage occupation, so approval chances are lower. |
-| Subclass Freelance Visa (Freelance visa (Lavoro Autonomo)) | Suitable for self-employment opening a salon, need to prove sufficient funds and legal residence, with annual quota. |
-| Subclass EU Freedom of Movement (EU free movement) | EU/EEA citizens do not need a work visa to work as a hairdresser in Italy. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Required. Must complete vocational high school or apprenticeship training, pa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/IT)**

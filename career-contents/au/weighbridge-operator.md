@@ -52,8 +52,6 @@ Weighbridge operator operates the weighbridge system to measure the weight of go
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of weighbridge operators will be replaced by automated systems; entry-level positions shrink, but on-site supervision and anomaly handling still need humans; overall job numbers decline.
-
 Usually starts as a weighbridge assistant or admin role, can advance to weighbridge supervisor, logistics coordinator, or transport dispatcher. Some operators move into mining or agricultural equipment operation through training.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as a weighbridge assistant or admin role, can advance to weighbri
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa, requiring the employer to prove inability to hire locally. Weighbridge operators are ANZSCO Skill Level 4 occupations, with lower requirements. |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa suitable for weighbridge operators working in designated regional areas. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Limited pathways. Typically only through employer sponsorship (482 or 494 vis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weighbridge-operator/AU)**

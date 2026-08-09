@@ -54,8 +54,6 @@ Mold makers are a trade occupation in Canada, mainly responsible for manufacturi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are gradually replacing routine design and CAM programming tasks in mold making, but hands-on skills like on-site debugging and complex mold repair remain hard to replace. Entry-level positions have shrunk.
-
 Starting as an apprentice, you become an independent mold maker; with experience, you can advance to supervisor, quality control specialist, or open a tooling workshop. Senior technicians can transition to technical experts or production managers.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as an apprentice, you become an independent mold maker; with experience
 | Subclass EE (Express Entry) | Enter the pool via FSW or CEC; skilled trade experience can earn points, but language requirements must be met |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled workers with employer offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: It is recommended to obtain Red Seal certification, which is nationally recog
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-and-die-makers/CA)**

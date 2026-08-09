@@ -54,8 +54,6 @@ Responsible for planning, organizing, directing, and evaluating the operations a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This position has a medium to high automation risk; administrative and reporting tasks are easily replaced by AI, but strategic decision-making, cross-agency coordination, and personalized service are hard to automate. AI tools will enhance data analysis and resource optimization capabilities.
-
 Usually promoted from middle management, requires years of experience. Can laterally transfer to other industries or government departments. Senior positions are competitive and require exceptional leadership.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Usually promoted from middle management, requires years of experience. Can later
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Usually requires a relevant bachelor's degree and over 10 years of experience
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-managers-health-education-social-and-community-services-and-membership-organizations/CA)**

@@ -53,8 +53,6 @@ Sommeliers are wine and beverage specialists responsible for wine list design, c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sommelier work is mixed due to AI automation: menu design and customer recommendations can be enhanced by AI, but tasting, sommeliering, and customer trust are hard to replace, and entry-level positions are narrowed by the widespread adoption of AI tools.
-
 Starting as a junior sommelier, you can advance to chief sommelier, cellar supervisor, or food and beverage manager. You can also specialize in wine procurement, wine education, or wine consulting.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Starting as a junior sommelier, you can advance to chief sommelier, cellar super
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those employed by high-end catering groups, requiring a work contract |
-| Subclass Salarié (Employee Visa) | Standard work visa, requires employer sponsorship, suitable for long-term contracts |
-| Subclass Carte bleue UE (EU Blue Card) | Requires high salary (1.5 times the French average wage), which sommeliers often find difficult to meet. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Although not legally mandatory, UDSF certification or WSET certification is h
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sommelier/FR)**

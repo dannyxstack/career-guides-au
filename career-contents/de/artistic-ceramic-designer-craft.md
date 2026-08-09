@@ -54,8 +54,6 @@ Artistic ceramic designers handcraft artistic ceramics, including vases, sculptu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on craft ceramic designers is mixed: AI aids creative ideation and design iteration, but core skills like hand-forming, glaze formulation, and kiln control rely on experience and intuition and are hard to automate. Entry-level competition intensifies due to AI design tools, but high-end custom demand remains scarce.
-
 Starting as an apprentice (Ausbildung), gaining experience to become a skilled craftsman, you can advance to studio manager or become self-employed by opening your own studio. Some choose further education, such as a bachelor's degree in ceramic design, transitioning to independent artists or teachers.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Starting as an apprentice (Ausbildung), gaining experience to become a skilled c
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, allows entry to look for work, suitable for applicants with relevant qualifications or experience |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment; must prove sufficient funds and qualifications/credentials are recognised. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: The most common is a 3-year dual vocational training (ceramics craft) deliver
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-ceramic-designer-craft/DE)**

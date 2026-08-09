@@ -4,8 +4,6 @@
 
 Travel agency staff are responsible for providing clients with travel consultation, booking flights, hotels, car rentals, and travel packages, handling itinerary arrangements and client relationships, and are key frontline positions in the tourism industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Travel agency staff are responsible for providing clients with travel consultati
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Travel agency staff face the high risk of AI automation replacing them, especially in tasks like booking and consulting, but at the same time, AI can enhance their personalized service capabilities, transforming them into travel consultants or planners.
-
 Starting as an assistant or junior consultant, you can gain experience and advance to senior travel consultant, team leader, or store manager, or you can also move into professional fields such as travel product planning, destination marketing, or exhibition management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Starting as an assistant or junior consultant, you can gain experience and advan
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A Spanish employer work contract is required; this position is not classified as a high-skilled shortage occupation, making approval difficult and requiring compliance with market labor testing. |
-| Subclass Tarjeta azul UE (EU Blue Card) | This applies only to management or professional technical positions; ordinary travel agency staff usually do not meet the requirements for high education and high salary. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Travel agency staff are not in short supply in Spain; employer-sponsored work
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/travel-agency-employees/ES)**

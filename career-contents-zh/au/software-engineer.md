@@ -1,6 +1,6 @@
 # 软件工程师（Software Engineer）职业分析 · 澳大利亚
 
-**职业代码: 261312 (ANZSCO)**
+**职业代码：261312 (ANZSCO)**
 
 软件工程师设计、开发和维护软件系统，覆盖Web、移动、云原生、AI/ML和企业级应用。澳大利亚IT行业持续扩张，联邦政府数字化转型和AUKUS国防科技投入驱动需求长期旺盛，是技术移民最受欢迎的职业之一。
 
@@ -21,19 +21,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Computer Science / Software Engineering | 认可大学 | 可选 | 行业通用基础学历，大多数雇主认可 |
+| 计算机科学/软件工程学士 | 认可大学 | 可选 | 行业通用基础学历，大多数雇主认可 |
 | ACS（Australian Computer Society）技能评估 | Australian Computer Society | 可选 | 189/190/491签证技术移民必须，学历互认的官方机构 |
-| AWS/Azure/GCP Cloud Certification | Amazon/Microsoft/Google | 可选 | 云认证显著提升薪资竞争力（$10k~$20k溢价） |
-| TOGAF / Software Architecture Certifications | The Open Group | 可选 | 高级架构师晋升路径，提升薪资天花板 |
+| AWS/Azure/GCP 云认证 | 亚马逊/微软/谷歌 | 可选 | 云认证显著提升薪资竞争力（$10k~$20k溢价） |
+| TOGAF / 软件架构认证 | The Open Group | 可选 | 高级架构师晋升路径，提升薪资天花板 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 160,000. JSA 预测软件工程师至2035年就业增长约25%。AI工具辅助开发提高生产率的同时，也推高了对高级工程师（系统架构、AI集成、安全）的需求。
+**职位需求量：很高（★★★★★）** 全国从业人数约 160,000。JSA 预测软件工程师至2035年就业增长约25%。AI工具辅助开发提高生产率的同时，也推高了对高级工程师（系统架构、AI集成、安全）的需求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -53,14 +53,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：中高（★★★☆☆）**
 
 软件工程师整体职位不会被AI消灭，但入门级编码和测试岗位将显著压缩；熟练运用AI工具的开发者产出和竞争力将大幅提升，形成两级分化。
 
 AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系统设计、代码审查和跨功能协作的需求持续增加。澳洲本地大科技公司（Atlassian、Canva、WiseTech）薪资与硅谷差距缩小。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 编写样板代码和标准CRUD接口
 - 基础单元测试和回归测试编写
@@ -68,7 +68,7 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 - 代码格式化和文档注释生成
 - 从自然语言描述生成简单函数实现
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 使用Copilot等AI助手提升编码速度和质量
 - 利用AI进行代码审查、安全漏洞扫描和建议
@@ -76,7 +76,7 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 - 用AI自动化测试生成和覆盖率分析
 - 通过AI辅助调试和日志分析快速定位问题
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂系统架构设计与技术选型
 - 跨团队沟通、需求分析与业务理解
@@ -84,7 +84,7 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 - 处理模糊、非结构化问题的能力
 - 伦理决策、安全合规责任归属
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI/ML基础与模型微调能力
 - Prompt Engineering与AI工具集成
@@ -93,17 +93,17 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 - 数据分析与实验设计
 - 跨职能协作与产品思维
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI/ML Application Development
-- Cloud-Native & Microservices
-- Cybersecurity Software
-- Fintech & Digital Banking
-- Defence & Government Digital Transformation
+- AI/ML应用开发
+- 云原生与微服务
+- 网络安全软件
+- 金融科技与数字银行
+- 国防与政府数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 | Subclass 190 (Skilled Nominated) | 州提名，ACT/NSW/VIC科技移民通道 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区IT岗，加15分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -178,12 +176,13 @@ AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/software-engineer/AU)**

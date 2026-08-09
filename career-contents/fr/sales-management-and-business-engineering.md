@@ -53,8 +53,6 @@ Responsible for corporate sales strategy, customer relationship management, and 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Career paths: Sales Representative → Key Account Manager → Sales Director/Business Director → Vice President of Business. Negotiation and data analysis capabilities must be continuously improved.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career paths: Sales Representative → Key Account Manager → Sales Director/Bu
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, requires annual salary ≥ €53,000 (2025 standard), contract duration ≥ 1 year. |
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, annual salary ≥€36,708 (2025 standard), valid for 4 years. |
-| Subclass Salarié (Employee Work Permit) | Regular work residence permit requires sponsorship by a French company, annual salary usually ≥ SMIC (€21,203). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: With the growing demand for digital transformation and B2B services, you can 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-management-and-business-engineering/FR)**

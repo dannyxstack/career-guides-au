@@ -1,8 +1,8 @@
-# Natural Sciences Testing Center 职业分析 · 韩国
+# 自然科学测试中心（Natural Sciences Testing Center）职业分析 · 韩国
 
-**职业代码: 12121 (KECO)**
+**职业代码：12121 (KECO)**
 
-A professional who performs experiments and analyses in natural sciences fields such as chemistry, biology, and physics, supporting R&D and quality control.
+在化学、生物学和物理学等自然科学领域进行实验和分析，支持研发和质量控制的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who performs experiments and analyses in natural sciences fields 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-year) | 2 年 | $10,000,000~$20,000,000（National/public university standard; private higher） |
-| Bachelor's Degree (4-year) | 4年 | $20,000,000~$40,000,000（National university standard） |
-| Master's Degree (2-year) | 2 年 | $30,000,000~$50,000,000（Living expenses separate from tuition） |
+| 副学士学位（2年） | 2 年 | $10,000,000~$20,000,000（国立/公立大学标准；私立更高） |
+| 学士学位（4年） | 4年 | $20,000,000~$40,000,000（国立大学标准） |
+| 硕士学位（2年） | 2 年 | $30,000,000~$50,000,000（生活费用与学费分开） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who performs experiments and analyses in natural sciences fields 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chemical Analyst Engineer | Human Resources Development Service of Korea | 可选 | Certifies practical skills in chemical analysis |
-| Bioprocess Engineer | Human Resources Development Service of Korea | 可选 | Essential for bio field practice |
-| Medical Laboratory Technologist | Ministry of Health and Welfare | 可选 | Required for employment in medical institution labs |
+| 化学分析工程师 | 韩国人力资源开发服务局 | 可选 | 认证化学分析实践技能 |
+| 生物工艺工程师 | 韩国人力资源开发服务局 | 可选 | 生物领域实践必备 |
+| 医学实验室技师 | 保健福祉部 | 可选 | 医疗机构实验室就业所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Growing R&D demand due to growth in pharmaceuticals, bio, and environmental industries, with ongoing labor shortages expected. Requires proficiency in advanced analytical equipment.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于制药、生物和环境行业的增长，研发需求不断增长，预计劳动力持续短缺。需要精通先进分析设备。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +40,85 @@ A professional who performs experiments and analyses in natural sciences fields 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $25,000,000~$35,000,000 | Based on bachelor's degree; varies by company |
-| Mid-Level (4-9 years) | $35,000,000~$50,000,000 | Master's or higher bonus |
-| Advanced (10+ years) | $50,000,000~$70,000,000 | Principal Researcher Level |
+| 入门级（0-3年） | $25,000,000~$35,000,000 | 基于学士学位；因公司而异 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 硕士及以上学历奖金 |
+| 高级（10年以上） | $50,000,000~$70,000,000 | 首席研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation assist in data analysis and repetitive experiments to enhance efficiency, but human intuition and creative problem-solving remain important, so roles are expected to be strengthened.
+AI和自动化辅助数据分析和重复实验以提高效率，但人类的直觉和创造性解决问题仍然重要，因此预计角色将得到加强。
 
-Junior Researcher → Associate Researcher → Senior Researcher → Principal Researcher. Advanced degrees (master's/doctorate) and certifications aid promotion.
+初级研究员→副研究员→高级研究员→首席研究员。高级学位（硕士/博士）和认证有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of sample pretreatment
-- Reading quantitative analysis results
-- Basic statistical processing
+- 样品前处理自动化
+- 读取定量分析结果
+- 基础统计处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Experimental design
-- Anomaly detection
-- Result interpretation and report writing
+- 实验设计
+- 异常检测
+- 结果解读与报告撰写
 
-**人类护城河:**
+**人类护城河：**
 
-- Experimental expertise
-- Understanding of regulations and safety
-- Multidisciplinary collaboration skills
+- 实验专业知识
+- 了解法规和安全
+- 多学科协作技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Programming (Python/R)
-- Operation of automated equipment
+- 数据分析
+- 编程（Python/R）
+- 自动化设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Biopharmaceuticals
-- Environmental Analysis
-- New Materials Research
-- Quality Control
+- 生物制药
+- 环境分析
+- 新材料研究
+- 质量控制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Targeted at skilled technical personnel, employed by labs/companies |
-| Subclass E-9 (Non-professional Employment Visa) | Not suitable for non-professional fields |
-| Subclass F-2 (Residence Visa) | Convertible for long-term residents |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous person who enjoys experiments and analysis
-- Person with strong scientific curiosity and patience
-- Researcher who values teamwork
+- 细心、喜欢实验和分析的人
+- 具有强烈科学好奇心与耐心的人
+- 重视团队合作的研究人员
 
 **谁不适合**
-- Person averse to night shifts or repetitive work
-- Person lacking basic scientific knowledge
+- 不喜夜班或重复性工作的人
+- 缺乏基本科学知识的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary range?**
+**问：典型薪资范围是多少？**
 答：For entry-level bachelor's, it's 25-35 million KRW, and up to 70 million KRW depending on experience and degree.
 
-**问：Can foreigners also get hired?**
-答：Yes, with an E-7 visa, you can be recruited by research institutes or companies, and you are recognized as skilled technical personnel.
+**问：外国人也能被录用吗？**
+答：是的，持有E-7签证，可以被研究机构或公司聘用，并被认可为熟练技术人员。
 
-**问：Are there any required certifications?**
-答：Not required, but certifications like Chemical Analyst or Bioengineer are advantageous for employment.
+**问：是否有任何必需的认证？**
+答：非必需，但化学分析师或生物工程师等认证对就业有利。
 
 
 ---
@@ -143,12 +136,12 @@ Junior Researcher → Associate Researcher → Senior Researcher → Principal R
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/natural-sciences-testing-center/KR)**

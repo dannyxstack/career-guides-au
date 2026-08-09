@@ -51,8 +51,6 @@ Research, design, and test electronic components and systems for applications in
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Hardware design and testing tasks for electronic engineers face automation pressure, but system integration, innovative design, and cross-disciplinary collaboration are significantly amplified by AI, presenting both risks and opportunities.
-
 Can advance from junior design engineer to senior engineer, technical lead, or project manager, or transition to system architecture or R&D management.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance from junior design engineer to senior engineer, technical lead, or p
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree, long waiting period |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable for distinguished talent, requires proof of significant achievements |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -145,12 +141,13 @@ A: Typical path: F-1 graduation → OPT → apply for H-1B work visa → employe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-engineers-except-computer/US)**

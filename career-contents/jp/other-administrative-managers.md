@@ -4,8 +4,6 @@
 
 Professionals who comprehensively handle management tasks such as corporate planning, general affairs, and human resources in the administrative divisions of companies and organizations. They support organizational operations based on laws and systems.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Professionals who comprehensively handle management tasks such as corporate plan
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI streamlines administrative tasks such as data analysis and schedule management, while human roles remain for interpersonal coordination and strategic decision-making. AI enhances managerial productivity, allowing focus on higher-value tasks.
-
 Promotion from general staff to manager positions via chief or assistant section manager. Career advancement through MBA or certifications. Higher specialization can lead to executive or expert roles.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Promotion from general staff to manager positions via chief or assistant section
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires knowledge and experience related to managerial duties. University graduate or approx. 10 years of practical experience. |
-| Subclass 経営・管理 (Management) | Applicable when participating in management as a corporate executive. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: It generally takes 10-15 years to become a manager and about 20 years to beco
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-administrative-managers/JP)**

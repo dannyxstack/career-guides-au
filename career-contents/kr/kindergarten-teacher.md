@@ -4,8 +4,6 @@
 
 A professional who provides education and childcare to children aged 3-5, promoting development through play.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who provides education and childcare to children aged 3-5, promot
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-It is difficult for AI to replace the role of kindergarten teachers because emotional connection and creative play are hard to implement with AI. However, AI tools can improve efficiency in administrative tasks such as creating educational materials and observation records.
-
 Starting as a private kindergarten teacher, one can advance to head teacher, vice principal, and principal; public kindergarten teachers are appointed through a competitive exam.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Starting as a private kindergarten teacher, one can advance to head teacher, vic
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hiring foreign kindergarten teachers, but requirements such as Korean language ability are strict. |
-| Subclass F-2 (Residence) | Long-term residents can work before applying for permanent residency. |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work as kindergarten teachers. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: After obtaining head teacher qualifications, you need to accumulate certain e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kindergarten-teacher/KR)**

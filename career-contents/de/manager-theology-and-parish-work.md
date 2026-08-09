@@ -53,8 +53,6 @@ Lead a religious community or parish, responsible for religious ceremonies, comm
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of Theology and Community Work Manager faces automation risks in administrative tasks, while AI can enhance community services and content creation. However, core pastoral care and parish leadership require deep interpersonal trust and emotional intelligence, making it an area difficult for AI to replace.
-
 Advancement from clergy or community worker to leadership roles requires further theological education or management training.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Advancement from clergy or community worker to leadership roles requires further
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a German-recognized theology degree and a church employment contract. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, suitable for those with theology background to first enter the country for job seeking |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, but it is difficult, requiring a German-recognised university theology d
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-theology-and-parish-work/DE)**

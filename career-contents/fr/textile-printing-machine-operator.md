@@ -4,8 +4,6 @@
 
 Operate textile printing equipment (such as screen printing and digital printing), complete fabric pattern printing, including color matching, pattern matching, equipment maintenance, and quality inspection.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate textile printing equipment (such as screen printing and digital printing
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Textile printing machine operators will undergo a job reshuffle: digital printing and automated color management will replace some tasks, but operators will need more complex skills in color matching, quality control, and human-machine collaboration, with their work evolving toward technicians.
-
 Operators can be promoted to printing technicians, production supervisors, or quality controllers. Experienced professionals can turn to colorists or equipment sales support, or run their own small printing studios.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Operators can be promoted to printing technicians, production supervisors, or qu
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | A CDI contract must be provided by a French employer, with a salary not less than SMIC (€21,203/year), and the quota depends on the industry |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applicable for high-skilled or innovative projects, requires salary ≥€53,945/year or qualification proof, rarely used in the textile industry. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: CAP textile printing is suitable for beginners, while BTS textiles and dyeing
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-printing-machine-operator/FR)**

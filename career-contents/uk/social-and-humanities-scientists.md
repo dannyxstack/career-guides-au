@@ -53,8 +53,6 @@ Social and humanities scientists study human behaviour, social structures, langu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of social workers (assessment, counseling, crisis intervention) are unlikely to be fully replaced by AI in the short term, but administrative paperwork, information gathering, and initial assessment will become significantly automated. Entry-level competition will intensify, requiring a shift to technology-enhanced service provision.
-
 Career development typically starts as a research assistant or junior researcher, advancing to senior researcher, project leader, or professor. May also transition to policy analysis, consulting, or other roles in government, non-profits, or the private sector.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development typically starts as a research assistant or junior researcher
 | Subclass Global Talent (Global Talent visa) | Applicable to researchers with outstanding achievements or potential in the social sciences, no employer sponsorship required, but must be recognised. |
 | Subclass Graduate (Graduate visa) | Allows UK graduates to stay and work for 2 years (3 for PhD) after graduation, gaining experience before switching to a Skilled Worker visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Academic fields are competitive, but non-academic fields such as government p
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-and-humanities-scientists/UK)**

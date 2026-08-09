@@ -54,8 +54,6 @@ Maintenance planners coordinate maintenance schedules for industrial equipment, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
-
 Can advance from junior planner to senior planner or maintenance manager, or move into supply chain or project management. Salary increases significantly with experience, some become independent consultants. Requires continuous learning of new technologies and software.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from junior planner to senior planner or maintenance manager, or mov
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, working as a maintenance planner; salary must meet the AEWV threshold ($29.66/hour, 2024), up to 3 years |
 | Subclass Green List T2 (Green List Straight to Residence (Tier 2) - not applicable) | Maintenance planner is not on the Green List, so cannot directly obtain residence or convert work to residence. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: No mandatory registration, but holding a New Zealand-recognized engineering d
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maintenance-planner/NZ)**

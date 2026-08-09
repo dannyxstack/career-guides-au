@@ -52,8 +52,6 @@ Vocational education trainers in New Zealand mainly teach industry skill courses
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 Can progress from part-time instructor to course director, training manager, or transition to higher education institutions; after accumulating teaching experience, can also start an independent training company or shift to vocational education policy and assessment roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from part-time instructor to course director, training manager, or 
 | Subclass SMC (Skilled Migrant Category) | Meet 6-point system requirements, can apply with qualification + work experience or NZ work. |
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain a job offer from an accredited employer as a trainer, can renew visa and transition to residency. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a Level 3 or above industry certificate and teaching qualifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vocational-education-trainer/NZ)**

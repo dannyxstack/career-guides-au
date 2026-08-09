@@ -54,8 +54,6 @@ In Canada, mine surveyors are typically classified as geological and mineral tec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Junior mine surveyors can advance to senior technician or project supervisor. With experience, they can move into mine planning, resource estimation, or management. Certification (e.g., CET or P.Eng) broadens career paths; some move into consulting or government regulation.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior mine surveyors can advance to senior technician or project supervisor. Wi
 | Subclass PNP (Provincial Nominee Program) | BC PNP Tech Pilot, Ontario Human Capital Priorities, Alberta Opportunity Stream, etc.; 600 points added after nomination, fast process. |
 | Subclass AIP (Atlantic Immigration Program) | Applicable to mining projects in Atlantic provinces (e.g., Nova Scotia, Newfoundland), employer-sponsored, lower language requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires ECA credential assessment and possibly technical certification (e.g.
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geological-and-mineral-technologists-and-technicians/CA)**

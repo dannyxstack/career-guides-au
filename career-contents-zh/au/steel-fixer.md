@@ -1,6 +1,6 @@
 # 钢结构安装工（Steel Fixer）职业分析 · 澳大利亚
 
-**职业代码: 821713 (ANZSCO)**
+**职业代码：821713 (ANZSCO)**
 
 钢筋工（Steel Fixer）负责在混凝土结构中放置、绑扎和固定钢筋，适用于住宅、桥梁、隧道、大坝等各类工程。在澳大利亚，钢筋工属于技工短缺职业，住宅建设繁荣与基建投资双线驱动需求持续增长。
 
@@ -25,17 +25,17 @@
 |---|---|---|---|
 | Certificate III in Concreting (CPC30820) 或 Certificate III in Formwork/Falsework | TAFE / RTO | 必备 | 全国统一课程，钢筋绑扎与混凝土施工核心资质 |
 | White Card（WHS建筑业入职卡） | SafeWork NSW / WorkSafe 各州 | 必备 | 工地开工前强制持有 |
-| Basic Rigging Licence（RB） | SafeWork / WorkSafe 各州 | 可选 | 矿业和大型工程现场常要求，提升薪资竞争力 |
+| 基础索具执照（RB） | SafeWork / WorkSafe 各州 | 可选 | 矿业和大型工程现场常要求，提升薪资竞争力 |
 | TRA技能评估 | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，澳洲学徒豁免 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 22,000. Jobs and Skills Australia 将建筑技工类列为持续短缺职业，技工类（Skill Level 3/4）岗位填补率仅54.3%（2025）。联邦政府「住宅未来基金」计划至2029年新建120万套住宅，将进一步拉动钢筋工需求。
+**职位需求量：很高（★★★★★）** 全国从业人数约 22,000。Jobs and Skills Australia 将建筑技工类列为持续短缺职业，技工类（Skill Level 3/4）岗位填补率仅54.3%（2025）。联邦政府「住宅未来基金」计划至2029年新建120万套住宅，将进一步拉动钢筋工需求。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -55,35 +55,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 钢筋工的核心体力任务难被AI替代，但自动化测量、切割绑扎辅助工具将逐步普及，日常效率提升，同时图纸理解等脑力环节需适应数字化。
 
 大型基建（地铁、隧道、桥梁）和风电场建设带动需求稳定增长。机械辅助（钢筋弯折机、绑扎机器人）在大型项目应用增加，但现场人工作业仍不可替代。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - AI辅助自动钢筋切割和弯曲
 - 基于BIM的自动排布和放样
 - 混凝土浇筑前钢筋位置自动校核
 - 标准化绑扎的机器人作业
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - BIM模型24小时可访问，辅助复杂节点理解
 - AR眼镜叠加钢筋布置图，减少读图错误
 - 自动弯箍机参数由AI优化，减少材料浪费
 - 现场质量检测用AI视觉，快速反馈异常
 
-**人类护城河:**
+**人类护城河：**
 
 - 在复杂/不规则结构中的灵活绑扎和调整
 - 恶劣天气和现场条件适应能力
 - 团队协作和突发问题解决
 - 安全规范执行与风险判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握BIM模型查看软件（如Tekla、Revit）
 - 学习自动化钢筋加工设备操作
@@ -91,16 +91,16 @@
 - 简单AR/VR设备操作与维护
 - 持续学习新规范与数字化流程
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Residential & High-Rise Construction
-- Civil Infrastructure (Roads, Bridges, Tunnels)
-- Wind Farm & Renewable Energy Structures
-- Mining & Industrial Construction
+- 住宅与高层建筑施工
+- 民用基础设施（道路、桥梁、隧道）
+- 风电场与可再生能源结构
+- 矿业与工业建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -111,9 +111,7 @@
 | Subclass 190 (Skilled Nominated) | 州政府提名，加5分，永居 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区提名加15分，临居转PR，适合189分数不够者 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -174,12 +172,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/steel-fixer/AU)**

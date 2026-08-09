@@ -4,8 +4,6 @@
 
 A job role in the general affairs/management department of ordinary companies, handling a wide range of clerical tasks such as document organization, data entry, visitor reception, and supply management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A job role in the general affairs/management department of ordinary companies, h
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Clerical tasks like data entry, document organization, and schedule management are often routine, and automation via AI or RPA is likely to reduce workload and shrink employment.
-
 Beginners can start as temporary or contract workers, and with experience, advance to permanent positions, specialized general affairs roles, or managerial positions.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Beginners can start as temporary or contract workers, and with experience, advan
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Clerical work is considered low-skilled, so a university degree and work experience are required. |
-| Subclass 特定活動（外国人就労） (Designated Activities) | Unless highly skilled, general clerical workers are unlikely to be approved. |
-| Subclass 経営・管理 (Business Management) | Work as a corporate manager is required. Simple clerical tasks are not approved. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: There are paths to career change into specialized administrative roles, HR, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-clerk/JP)**

@@ -4,8 +4,6 @@
 
 Operate fur and leather pretreatment machinery, including fleshing, unhairing, and liming, to prepare for tanning and subsequent processing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate fur and leather pretreatment machinery, including fleshing, unhairing, a
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-This occupation faces high risk of automation: AI vision and robots can gradually take over repetitive tasks such as cutting and grading, significantly reducing entry-level positions, but equipment maintenance and exception handling still require human experience.
-
 Can advance from operator to team leader or quality inspector, or through vocational training become a tanning technician or process engineer.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Can advance from operator to team leader or quality inspector, or through vocati
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi work visa) | Applies to non-EU workers, requires employer sponsorship, and has an annual quota limit. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but this occupation typically does not meet the salary threshold. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Unlikely. This occupation is not in shortage and requires a work visa through
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fur-and-leather-preparing-machine-operator/IT)**

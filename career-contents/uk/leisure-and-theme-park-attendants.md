@@ -52,8 +52,6 @@ At amusement parks, theme parks, theaters, cinemas, etc., responsible for ticket
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Most repetitive tasks for leisure and theme park attendants will be automated, but on-site safety and customer interaction still require humans; the number of positions is expected to decrease.
-
 Can progress from junior attendant to team leader or supervisor; some may transition to event planning or operations management roles, but advancement opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from junior attendant to team leader or supervisor; some may transi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can be promoted to team leader or operations manager, but opportunities are l
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leisure-and-theme-park-attendants/UK)**

@@ -50,8 +50,6 @@ A specialist technician who installs, attaches, or replaces glass on the exterio
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation contribute to the introduction of glass cutting and transport assist devices, but on-site customized attachment and sealing work still heavily relies on human skill. Automation replaces some repetitive processes, but full replacement is difficult.
-
 Entry-level installation assistant → Mid-level Glazier → Senior skilled worker/site supervisor → Self-employed/team leader. Certifications in master craftsman and safety management aid promotion.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Entry-level installation assistant → Mid-level Glazier → Senior skilled work
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Unskilled foreign workers, can work with glass attachment under Employment Permit System, limited to manufacturing/construction assistance |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Skilled workers, can be employed as glass attachment specialists, if meeting career/qualification requirements |
-| Subclass F-2-99 (Residence (F-2) Points-based) | Long-term stay/free employment, obtainable when meeting certain points/income requirements |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: A certificate in architectural painting or glass construction is essential, w
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/KR)**

@@ -4,8 +4,6 @@
 
 A Cultural Heritage Conservator is a professional who maintains and restores the original form of cultural assets in museums, art galleries, and historical sites, preserving artifacts through scientific analysis and manual work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A Cultural Heritage Conservator is a professional who maintains and restores the
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists with some tasks like condition diagnosis and material analysis, but delicate restoration and historical value assessment still require human experts.
-
 Starting as an assistant, one can advance to senior conservator or conservation scientist through experience and certifications, or become a team leader at museums or research institutes.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting as an assistant, one can advance to senior conservator or conservation 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if in specialized field (conservation science), but limited issuance |
-| Subclass F-2 (Residence) | Applicable after long-term stay, no employment restrictions |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +129,12 @@ A: Possible with an E-7 visa, but issuance is strict, and Korean language skills
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cultural-heritage-conservator/KR)**

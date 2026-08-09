@@ -4,8 +4,6 @@
 
 Operates a small mixed farm in Italy, growing crops and raising livestock, mainly for self-sufficiency with small surplus sales. Often relies on traditional methods to sustain the family.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operates a small mixed farm in Italy, growing crops and raising livestock, mainl
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Limited development paths; most farmers maintain current status. A few can increase income through organic certification, agritourism, or cooperatives. There are also opportunities to transition into professional farm or agricultural consultant roles.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Limited development paths; most farmers maintain current status. A few can incre
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Seasonal Work) | Applicable for seasonal agricultural work for non-EU citizens, but self-sufficient farmers are generally not eligible. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely engage in subsistence agriculture in Italy without an additional visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Limited career progression, but can transition to organic farming, agritouris
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-mixed-crop-and-livestock-farmer/IT)**

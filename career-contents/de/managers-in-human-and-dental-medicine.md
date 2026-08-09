@@ -51,8 +51,6 @@ Responsible for daily operations, strategic planning, and quality management in 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of human medical and dental administrators will be significantly reshaped by AI: routine operational scheduling and data analysis may be automated, but interpersonal skills such as strategic decision-making, personnel management, and patient relationships will be amplified by AI assistance, resulting in mixed employment prospects.
-
 Usually starts as a doctor, dentist, or healthcare management professional, then advances to department head, medical director, or board member through further study of an MBA or hospital management master's degree.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts as a doctor, dentist, or healthcare management professional, then
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Recognized professional qualifications (e.g., healthcare management degree) may apply, employer sponsorship required. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job seeker visa allowing job search in Germany, suitable for qualified healthcare management professionals. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Clear career progression path from department head to medical director, with 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-human-and-dental-medicine/DE)**

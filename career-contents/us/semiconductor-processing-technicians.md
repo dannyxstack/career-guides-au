@@ -51,8 +51,6 @@ Operate semiconductor manufacturing equipment to complete wafer processing, dopi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The role of semiconductor processing technicians will be significantly impacted by AI automation; most repetitive monitoring and adjustment tasks can be taken over by AI, but process anomaly diagnosis, equipment maintenance, and yield improvement still require human experience.
-
 From junior technician, can advance to senior technician, process engineer, or production supervisor, requiring experience accumulation and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ From junior technician, can advance to senior technician, process engineer, or p
 | Subclass H-1B (H-1B Specialty Occupations) | Applicable to positions requiring a bachelor's degree or equivalent experience; annual lottery competition. |
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | Skilled worker green card path, requires PERM labor certification. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Can immigrate via H-1B work visa or EB-3 green card; requires employer sponso
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/semiconductor-processing-technicians/US)**

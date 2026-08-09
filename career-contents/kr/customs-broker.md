@@ -4,8 +4,6 @@
 
 A profession specializing in customs duties, clearance, and trade-related legal consultation and agency for import/export goods. Requires a license issued by the Commissioner of the Korea Customs Service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession specializing in customs duties, clearance, and trade-related legal 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace some tasks like customs document processing, HS code classification, and duty calculation, but high-level professional judgment (legal interpretation, FTA negotiations, customs audit response) still requires humans. Overall, AI improves efficiency and serves as an assistant rather than a replacement.
-
 Careers typically start at customs brokerage firms, corporate customs teams, or the Korea Customs Service. After 5-10 years, can advance to partner at a customs corporation or team leader at a large company. Self-employment is also possible.
 
 **Tasks most exposed to AI:**
@@ -93,15 +89,9 @@ Careers typically start at customs brokerage firms, corporate customs teams, or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible when employed at a domestic corporation as a foreign customs broker; professional certification required. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: Yes. You can start with practical assistance in a customs broker’s office. 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-broker/KR)**

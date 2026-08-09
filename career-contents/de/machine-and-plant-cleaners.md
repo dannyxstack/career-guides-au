@@ -52,8 +52,6 @@ Machine and equipment cleaners are responsible for cleaning and maintaining mach
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of machine and equipment cleaners heavily relies on on-site physical operations, with limited AI automation, but some planning and monitoring tasks may be enhanced by AI, presenting both risks and opportunities.
-
 Usually start as junior cleaners, progress to team supervisors or equipment maintenance technicians through experience. Some obtain industrial cleaning certifications to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Usually start as junior cleaners, progress to team supervisors or equipment main
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Formal qualifications are typically not required, but a work visa is needed. 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/machine-and-plant-cleaners/DE)**

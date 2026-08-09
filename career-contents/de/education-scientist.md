@@ -53,8 +53,6 @@ Education researchers study educational processes, learning theories, and educat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of educational scientists is in a mixed risk zone: AI can automate large amounts of data analysis and literature reviews, but core educational theory construction, qualitative research, and policy recommendations still require human insight; the role will not be completely replaced but needs to transition into an AI-enhanced researcher.
-
 Typical career progression: Research Assistant → Project Lead → Department Head or Professor. Can also transition to educational consulting, edtech, or international education cooperation. Some senior experts become policy advisors in federal or state education departments.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typical career progression: Research Assistant → Project Lead → Department H
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Must have a job offer from a German employer, with the occupation matching qualifications, and pass the Federal Employment Agency review. |
 | Subclass Job Seeker Visa (Job Seeker Visa) | Permits 6-month stay in Germany to find a relevant job; requires master's degree and proof of financial means |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: A master's degree in education science or a related field is usually required
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-scientist/DE)**

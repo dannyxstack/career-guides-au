@@ -52,8 +52,6 @@ Carpenters, formwork carpenters, rebar workers, plasterers, scaffolders, and oth
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are introducing rebar tying robots and 3D printer construction, but on-site flexibility and fine finishing depend on humans. Some tasks may be replaced, but overall demand remains high.
-
 By accumulating skill certifications and practical experience, workers can advance to site leaders or forepersons. Independent paths to becoming master craftsmen or business owners are also open.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ By accumulating skill certifications and practical experience, workers can advan
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Requires N4+ Japanese and construction skills test. Residence up to 5 years, simple tasks allowed. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Construction)) | For skilled veterans. No residence renewal limit, family accompaniment possible. Requires transition from SSWi. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible if university graduate with construction experience. Covers roles like site management. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: You can obtain skill certifications to become a foreman or site supervisor. S
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-construction-workers/JP)**

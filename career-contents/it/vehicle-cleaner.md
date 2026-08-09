@@ -4,8 +4,6 @@
 
 Vehicle cleaners are responsible for washing, wiping, and maintaining vehicles such as cars, trucks, and buses, including interior cleaning and exterior washing, using cleaning tools and equipment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Vehicle cleaners are responsible for washing, wiping, and maintaining vehicles s
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Vehicle cleaner work is highly repetitive and physically demanding; AI and automation technology (e.g., automatic car wash systems) will rapidly shrink demand for this role. Entry barriers are low but job opportunities are significantly decreasing.
-
 This occupation has limited career progression, typically starting as a junior cleaner, with potential to advance to team supervisor or start own cleaning business. With experience, one can also transition to specialized services like car detailing.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ This occupation has limited career progression, typically starting as a junior c
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU low-skilled workers, subject to annual caps and requires employer sponsorship. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | To run a cleaning company, investment and business plan requirements must be met. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Typically requires employer sponsorship through the Decreto Flussi quota work
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-cleaner/IT)**

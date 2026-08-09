@@ -50,8 +50,6 @@ Teach academic, social, and life skills to kindergarten students with learning, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Can advance from assistant teacher to lead special education teacher, then to special education coordinator or administrative supervisor; can also enter universities or research institutions through a master's degree.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from assistant teacher to lead special education teacher, then to sp
 | Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | Bachelor's degree plus license eligible to apply |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | Employers must prove inability to hire qualified US workers |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Due to increased emphasis on early intervention and expansion of inclusive ed
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teachers-kindergarten/US)**

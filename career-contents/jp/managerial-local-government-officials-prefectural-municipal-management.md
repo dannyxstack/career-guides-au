@@ -4,8 +4,6 @@
 
 Section chief-level or higher management in local governments. Responsible for policy planning, organizational management, budget formulation, and staff supervision. Key to regional administration.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Section chief-level or higher management in local governments. Responsible for p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-With the digitalization of government and the introduction of AI, routine tasks (such as document creation, data analysis, and inquiry responses) are being automated, but areas requiring human discretion, such as policy decisions and stakeholder coordination, will remain. As a result, the scope of responsibility per manager may expand, and staffing levels could be reduced.
-
 Typically promoted from section chief assistant → deputy section chief → section chief → department head. Career hires and private-sector recruitment increasing. Early policy-planning experience is crucial.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ Typically promoted from section chief assistant → deputy section chief → sec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible if promoted from private sector, but difficult for regular civil servant positions. Examples exist as part-time/specialist roles in local governments. |
-| Subclass 高度専門職1号・2号 (Highly Skilled Professional) | Rarely applicable as senior specialist or special advisor in local governments for highly skilled administrative experts. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: In recent years, there has been an increasing trend of appointing private-sec
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managerial-local-government-officials-prefectural-municipal-management/JP)**

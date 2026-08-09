@@ -54,8 +54,6 @@ In Canada, concrete workers are responsible for pouring, leveling, and curing co
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physical labor and on-site nature of concrete work make it less likely to be directly replaced by AI, but areas such as project management and quality control can be improved with AI tools.
-
 Junior concrete workers can gain experience to advance to foreman or contractor, or become Red Seal tradespeople through certification. Some transition to related fields like bricklaying or formworking.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior concrete workers can gain experience to advance to foreman or contractor,
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for skilled trades with job offer in Atlantic provinces. |
 | Subclass Rural and Northern (Rural and Northern Immigration Pilot) | Rural and northern pilot, some communities need trades, can get PR quickly. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Most provinces require provincial trade certification, such as completing an 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-finishers/CA)**

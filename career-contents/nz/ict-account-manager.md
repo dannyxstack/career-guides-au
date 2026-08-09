@@ -51,8 +51,6 @@ ICT Client Managers manage client relationships for IT products and services, de
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-ICT account managers face AI automation risk for core client management tasks, but high-value client strategies and complex negotiations still require humans; entry-level competition intensifies.
-
 Can advance from junior customer representative to senior account manager, client director, or VP of sales. Can also transition to product management or business development. Accumulating industry certifications and client resources helps in promotion.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from junior customer representative to senior account manager, clien
 | Subclass AEWV (Accredited Employer Work Visa) | Employers must be accredited, with a typical working period of 3 years, renewable. Salary not less than the median ($29.66/hour). |
 | Subclass Green List T2 (Green List Tier 2 - Work to Residence) | ICT Customer Manager is not on the Green List for direct residence, but after working for 2 years and meeting the median wage requirement, you can apply for residence through T2. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior account manager, client director, or sales VP; also pos
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-account-manager/NZ)**

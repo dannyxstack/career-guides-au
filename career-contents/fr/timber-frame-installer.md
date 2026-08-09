@@ -52,8 +52,6 @@ Responsible for on-site installation and construction of timber structures (such
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Timber frame installers face moderate risks of automation: BIM and prefabrication will reduce on-site cutting work, but complex installation, structural commissioning, and on-site problem solving still require manual labor, making it a collaborative human-machine profession.
-
 You can advance from apprentice to skilled worker, then develop into a project supervisor or self-owned woodworking enterprise; Through CAP+BTS, you can switch to timber structure design or engineering management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can advance from apprentice to skilled worker, then develop into a project s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled woodworking experts, requiring a project contract or corporate invitation, and eligible for a 4-year residence permit |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, matching the list of in-demand occupations, and applications are relatively common |
-| Subclass Carte bleue UE (EU Blue Card) | The annual salary requirement is ≥ 48,000 euros; carpenters generally find it difficult to reach the threshold, but senior supervisors may meet the requirements |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: France promotes green and timber construction, with the timber structure mark
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/timber-frame-installer/FR)**

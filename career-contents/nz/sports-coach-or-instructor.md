@@ -52,8 +52,6 @@ Sports coaches train and guide athletes or teams to improve performance, coverin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks of sports coaches (training guidance, tactical analysis) are hard to replace by AI for now, but data collection, basic teaching, and administrative tasks are increasingly automated, compressing entry-level positions.
-
 Career progression: Start as assistant coach or junior coach, gain experience to advance to head coach or senior coach, a few can enter national training centers. Holding an NZ Certificate in Exercise (Level 5) or international certification aids advancement. Some coaches move into sports management or physical education.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression: Start as assistant coach or junior coach, gain experience to
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Not mandatory, but holding NZ Certificate in Exercise (Level 5) or specific s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-coach-or-instructor/NZ)**

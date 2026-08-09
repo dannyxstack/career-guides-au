@@ -4,8 +4,6 @@
 
 A professional who studies genes, soil, and cultivation techniques to improve crop productivity and sustainable agriculture.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who studies genes, soil, and cultivation techniques to improve cr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances some tasks like automated data collection and analysis, crop growth prediction, but creative and field work such as hypothesis formulation and experiment design remains human territory.
-
 After obtaining a master's degree, one can advance to a research institute or graduate school, and be promoted to postdoctoral researcher or principal researcher. Competition for full-time conversion is fierce.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After obtaining a master's degree, one can advance to a research institute or gr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | May be issued when conducting agricultural research at a research institute; requires bachelor's degree or higher and experience |
-| Subclass D-10 (Job Seeking) | Can stay for job search after master's graduation, linked to employment in research field |
-| Subclass F-2 (Residence) | Long-term stay; can transition to permanent residence when research career is recognized |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Possible, but a master's degree or higher is advantageous for research positi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-research-scientist/KR)**

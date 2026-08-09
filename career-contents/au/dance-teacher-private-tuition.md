@@ -53,8 +53,6 @@ Dance coaches teach ballet, contemporary, Latin, street dance, etc., in dance st
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace the core teaching and demonstration of dance instructors; instead, it can greatly improve teaching efficiency through personalised choreography, virtual practice partners, and progress tracking. A hybrid model is emerging, while pure entry-level roles face pressure.
-
 Children's training is the main market; adult interest and fitness dance (e.g., Zumba) are growing. Self-operated studios coexist with chain franchises.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Children's training is the main market; adult interest and fitness dance (e.g., 
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: No mandatory degree, but must hold Working with Children Check (WWCC) to teac
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dance-teacher-private-tuition/AU)**

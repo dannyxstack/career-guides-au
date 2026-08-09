@@ -4,8 +4,6 @@
 
 Childcare assistants assist professional educators in kindergartens or nurseries, responsible for daily care, hygiene, feeding accompaniment, basic safety supervision, and participation in early childhood activities for infants aged 0-3.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Childcare assistants assist professional educators in kindergartens or nurseries
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of childcare assistants is affected by AI in mixed ways: administrative records and basic monitoring are easily automated, but the emotional comfort, safety monitoring, and creative interactions of infants and young children depend on humans and are difficult to replace in the short term.
-
 Students can be promoted from Childcare Assistant (CAP AEPE) to Early Childhood Education Assistant (ATSEM), and through further training to become an Early Childhood Education Supervisor (éducateur de jeunes enfants). Some people turn to home childcare or private nannies.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Students can be promoted from Childcare Assistant (CAP AEPE) to Early Childhood 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee residence permit)) | The employer must provide a work contract (CDI), with wages not less than 1.5 times the SMIC, and be approved by the French Labour Agency (France Travail). |
-| Subclass Passeport Talent (Passeport Talent (Talent passport)) | Suitable for highly skilled talents, with a bachelor's degree or higher and an annual salary ≥ 1.5 times SMIC (about 28,000 euros), but childcare assistant positions usually do not qualify. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: The most basic is the CAP AEPE (National Certificate), but you can also choos
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-assistant/FR)**

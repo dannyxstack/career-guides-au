@@ -53,8 +53,6 @@ Inventory managers maintain inventory records, monitor goods in/out, conduct sto
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Inventory clerks face moderate automation risk; AI and robots will take over core tasks like inventory records and stocktaking, but complex exception handling and system maintenance still require human intervention.
-
 Can progress from junior inventory clerk to senior inventory analyst, warehouse supervisor, or supply chain coordinator. ERP system certification or logistics degree can accelerate advancement.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can progress from junior inventory clerk to senior inventory analyst, warehouse 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Almost no skilled migration pathway. This occupation is not on the priority s
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-clerk/AU)**

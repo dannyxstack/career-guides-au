@@ -54,8 +54,6 @@ Chefs design menus, prepare and cook dishes, manage kitchen teams, and ensure fo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The chef role will be amplified by AI tools rather than replaced: AI can assist with menu design, nutritional calculation, and inventory management, but core culinary skills, creative flavors, and on-site coordination remain highly dependent on humans.
-
 Junior chefs can advance to sous chef, head chef, or move into catering management and culinary education. Specialization (e.g., pastry, vegetarian) and gaining international experience aid career development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior chefs can advance to sous chef, head chef, or move into catering manageme
 | Subclass General Employment P (General Employment Permit) | Applicable to regular work permits for non-shortage occupations, employer-sponsored, salary generally at least €30,000 per year. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions, but chefs typically do not meet the high salary requirement (annual salary must exceed approximately €40,000), so it is uncommon. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: You can apply for a General Employment Permit, but chefs are not on the Criti
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chef/IE)**

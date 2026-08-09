@@ -53,8 +53,6 @@ Control compressors, monitor pipeline pressure, distribute or process natural ga
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gas plant operators face medium-high automation risk. AI and smart sensors will take over much monitoring, data recording, and routine adjustment tasks, but on-site emergency response and equipment maintenance still require humans; total positions may shrink.
-
 Entry-level operators gain skills through on-the-job training and can advance to senior operators or shift supervisors, with some moving into gas production scheduling or safety management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level operators gain skills through on-the-job training and can advance to
 
 **PR friendliness: very low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult; this occupation typically only requires a high school diploma
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-plant-operators/US)**

@@ -49,8 +49,6 @@ Service occupation that provides customers with food and drinks at restaurants o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI and robots are increasingly used for serving and payment systems, human interaction and flexible responses still depend on people; full replacement is difficult.
-
 Can advance from part-time to full-time employee, supervisor, and store manager. Major chains offer robust management training. There is also a path to becoming a chef by learning cooking skills.
 
 **Tasks most exposed to AI:**
@@ -88,15 +86,9 @@ Can advance from part-time to full-time employee, supervisor, and store manager.
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food and Beverage Manufacturing)) | Allows engagement in cooking and customer service at restaurants. Max residence period: 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when leveraging expertise at an ethnic restaurant. Requires university degree or higher. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -137,12 +129,12 @@ A: Specified Skilled Worker (i) in food and beverage manufacturing is typical. F
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-service-staff/JP)**

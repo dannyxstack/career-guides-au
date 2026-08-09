@@ -1,6 +1,6 @@
-# Analog / Mixed-Signal IC Design Engineer 职业分析 · 美国
+# 模拟/混合信号IC设计工程师（Analog / Mixed-Signal IC Design Engineer）职业分析 · 美国
 
-**职业代码: 17-2072-AMS (SOC)**
+**职业代码：17-2072-AMS (SOC)**
 
 模拟/混合信号 IC 设计工程师设计芯片中的模拟与数模混合模块，如 ADC/DAC、PLL、电源管理(PMIC)、射频前端与高速接口，是公认最难自动化、最依赖经验直觉的芯片设计方向，专家极为稀缺。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 300. 在美国，全球芯片自主与 AI 加速需求外溢，模拟/混合信号 IC 设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**职位需求量：中（★★½☆☆）** 全国从业人数约 300。在美国，全球芯片自主与 AI 加速需求外溢，模拟/混合信号 IC 设计工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 模拟IC设计是AI增强而非替代的典型：AI工具可加速仿真、版图优化和良率分析，但核心的电路直觉、工艺偏差调试和系统级折衷仍需人类专家，岗位反而因芯片需求激增而更稀缺。
 
 美国 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 常规DCDC/运放拓扑的自动化尺寸综合与仿真
 - 版图设计中的DRC/LVS违规自动修正
@@ -63,7 +63,7 @@
 - ADC/DAC线性度等参数的快速建模与优化
 - 设计文档与调试记录的自然语言生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助电路拓扑检索与历史项目推荐，加快创新设计
 - 机器学习预测PVT（工艺-电压-温度）变化下的性能漂移
@@ -71,7 +71,7 @@
 - AI版图生成器结合工程经验，自动绕线并满足EM/IR约束
 - 数字辅助模拟模块（如ADC背景校准）的自动化设计和部署
 
-**人类护城河:**
+**人类护城河：**
 
 - 对工艺物理效应（如衬底噪声、失配、热梯度）的深层理解
 - 跨模块（RF、电源、数字）的系统级折衷与顶层架构决策
@@ -79,7 +79,7 @@
 - 创新电路架构（如低功耗SAR ADC、全数字PLL）的发明
 - 复杂模拟IP的可靠性与强健性设计，需多年经验积累
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 机器学习工具（Python/R）用于仿真数据分析和模型预测
 - 高级版图自动化工具（如Cadence Virtuoso AI-Centric）
@@ -88,17 +88,17 @@
 - 系统级建模（Verilog-AMS/Simulink）与AI联合优化
 - 项目管理与跨团队协作，制定AI工具应用策略
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Data Converters (ADC/DAC) & PLL/Clocks
-- Power Management IC (PMIC) & LDO
-- RF/Wireless Frontend (RFIC)
-- Sensor Interfaces & Signal Chains
-- SerDes & High-Speed Analog Interfaces
+- 数据转换器（ADC/DAC）和PLL/时钟
+- 电源管理IC（PMIC）和LDO
+- 射频/无线前端（RFIC）
+- 传感器接口与信号链
+- SerDes与高速模拟接口
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -108,9 +108,7 @@
 | Subclass EB-2/EB-3 (Employment-based immigration green card) | EB-2/EB-3：雇主担保职业移民（含 PERM 劳工证） |
 | Subclass EB-2 NIW (National interest exemption) | EB-2 NIW：国家利益豁免自主申请绿卡 |
 
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**PR友好度：中低（★★☆☆☆）**
 
 ---
 
@@ -162,12 +160,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
+| PR友好度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/analog-mixedsignal-ic-design-engineer/US)**

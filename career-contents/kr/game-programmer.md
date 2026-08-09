@@ -50,8 +50,6 @@ A game programmer is a specialist who implements game systems, graphics, and phy
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI can replace some repetitive and formulaic tasks of game programmers (e.g., basic code generation, test automation), but human roles remain important for game design, creative problem-solving, and optimization. AI is used as a productivity tool, and the job of a game programmer will evolve toward collaboration with AI.
-
 Possible promotions from junior developer to senior, lead programmer, and technical director; common career paths include building experience at large companies or major studios and then transitioning to entrepreneurship or freelancing.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Possible promotions from junior developer to senior, lead programmer, and techni
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued to high-skilled game development personnel, requires invitation from a Korean company |
-| Subclass D-10 (Job Seeking (D-10)) | Issued for job-seeking after graduating from a Korean university, can lead to employment in the gaming industry |
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay and free employment, point-based or overseas Korean eligibility |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: Proficiency in C++ or C# programming languages and experience with Unity or U
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/game-programmer/KR)**

@@ -4,8 +4,6 @@
 
 Responsible for monitoring and operating oil and gas refining equipment, including distillation, cracking, and catalytic conversion units, to ensure safe and efficient production.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for monitoring and operating oil and gas refining equipment, includi
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automation will take over a large amount of monitoring and parameter adjustment tasks, but anomaly response and process optimization still rely on human experience; entry-level positions are reduced, but demand for senior operators and AI collaboration roles increases.
-
 Can progress from operator to senior operator, shift supervisor, and then to process optimisation or safety management roles. Some move into engineering or project management through further study.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can progress from operator to senior operator, shift supervisor, and then to pro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU employees, must meet salary threshold (approx. €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For non-EU professionals with higher education and salary meeting the threshold (approx. €5,667/month). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | International students who graduate in the Netherlands can apply for a one-year job-seeking visa, during which there are no work restrictions. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Can progress from operator to senior operator, shift supervisor, or shift to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-and-natural-gas-refining-plant-operator/NL)**

@@ -51,8 +51,6 @@ Management and organisation analysts help businesses improve efficiency and prof
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Management and organization analysts will see their roles significantly augmented rather than replaced by AI, as data-driven insight generation, process simulation, and report automation become AI strengths, but strategic advice and change management still require human judgment.
-
 Progress from junior analyst to senior consultant or project manager, and may move into strategic or operational management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Progress from junior analyst to senior consultant or project manager, and may mo
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage with annual salary over €30,000, requires labor market testing |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled positions with annual salary above €43,000 |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: This occupation is not on the Critical Skills list, requires application via 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-and-organization-analyst/IE)**

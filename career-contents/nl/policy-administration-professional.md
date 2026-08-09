@@ -51,8 +51,6 @@ Policy management professionals are responsible for analyzing and implementing g
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on policy management professionals is mixed: routine paperwork and data verification tasks will be automated, but core duties such as policy interpretation, stakeholder coordination, and compliance discretion are hard to replace due to the need for human judgement.
-
 Entry-level (policy assistant) can progress to policy advisor or team leader; with experience, can become senior policy officer or department head. Usually requires internal training or a Master of Public Administration (MPA) degree.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Entry-level (policy assistant) can progress to policy advisor or team leader; wi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled migration, requires employer sponsorship, salary threshold approximately €5,008/month (over 30 years old) |
-| Subclass Orientation Year (Orientation Year) | Non-EU students graduating from the Netherlands can seek employment within one year after graduation without an employer sponsor requirement |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring at least 5 years of work experience or higher education, with a salary threshold of approximately €5,900/month |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Common promotion path: Policy Assistant → Policy Advisor → Senior Policy 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/policy-administration-professional/NL)**

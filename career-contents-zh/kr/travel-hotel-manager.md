@@ -1,10 +1,8 @@
-# Travel/Hotel Manager 职业分析 · 韩国
+# 旅行/酒店经理（Travel/Hotel Manager）职业分析 · 韩国
 
-**职业代码: 01413 (KECO)**
+**职业代码：01413 (KECO)**
 
-This is a management role that oversees overall operations at hotels, resorts, travel agencies, etc., managing service quality and profitability.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一个管理岗位，负责酒店、度假村、旅行社等的整体运营，管理服务质量和盈利能力。
 
 
 ---
@@ -13,9 +11,9 @@ This is a management role that oversees overall operations at hotels, resorts, t
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (Tourism/Hotel Management) | 2 年 | $3,000,000~$6,000,000（Public/Private Difference） |
-| Bachelor's (Tourism/Hotel Management) | 4年 | $8,000,000~$20,000,000（Based on tuition） |
-| Master's (Tourism/Hotel Management) | 2 年 | $15,000,000~$30,000,000（Graduate school fees） |
+| 副学士学位（旅游/酒店管理） | 2 年 | $3,000,000~$6,000,000（公立/私立差异） |
+| 学士学位（旅游/酒店管理） | 4年 | $8,000,000~$20,000,000（按学费计费） |
+| 硕士（旅游/酒店管理） | 2 年 | $15,000,000~$30,000,000（研究生院费用） |
 
 ---
 
@@ -23,18 +21,18 @@ This is a management role that oversees overall operations at hotels, resorts, t
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hotel Manager (Certified) | Korea Research Institute for Vocational Education and Training | 可选 | Hotel Management License |
-| Tourist Guide Interpreter | Ministry of Culture, Sports and Tourism | 可选 | Advantageous when dealing with foreign tourists |
-| Cook (Relevant Field) | Human Resources Development Service of Korea | 可选 | Advantageous for food and beverage management |
+| 酒店经理（认证） | 韩国职业教育和培训研究院 | 可选 | 酒店管理执照 |
+| 导游翻译 | 文化体育观光部 | 可选 | 与外国游客打交道时有优势 |
+| 厨师（相关领域） | 韩国人力资源开发服务局 | 可选 | 对餐饮业管理有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. Employment is expected to gradually increase as domestic tourism and foreign visitor demand recover, but it is sensitive to economic fluctuations.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。随着国内旅游和外国游客需求恢复，就业预计逐步增长，但对经济波动敏感。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,96 +40,88 @@ This is a management role that oversees overall operations at hotels, resorts, t
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $32,000,000~$40,000,000 | Room/Front Desk Manager |
-| Intermediate (4–9 years) | $45,000,000~$60,000,000 | Department Head / Branch Manager |
-| 资深（10年以上） | $65,000,000~$90,000,000 | General Manager / Regional Head |
+| 初级（0-3年） | $32,000,000~$40,000,000 | 客房/前台经理 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 部门主管/分行经理 |
+| 资深（10年以上） | $65,000,000~$90,000,000 | 总经理 / 区域负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can automate some tasks like reservations and customer inquiries, but overall management, decision-making, and emotional service still rely on human roles, so risk of replacement is limited.
+人工智能可以自动化部分任务如预订和客户咨询，但整体管理、决策和情感服务仍依赖人类角色，因此替代风险有限。
 
-Promotion typically progresses from on-site hotel/travel agency experience to department head, then branch manager/general manager; in large chains, advancement to regional head is possible.
+晋升通常从现场酒店/旅行社经验开始，再到部门主管，然后到分支经理/总经理；在大型连锁店中，可晋升至区域主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reservation booking
-- Simple customer inquiry response
-- Inventory and order management
+- 预订预约
+- 简单的客户咨询回复
+- 库存与订单管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Demand forecasting
-- Rate optimization
-- Personalized marketing
-- Customer satisfaction analysis
+- 需求预测
+- 费率优化
+- 个性化营销
+- 客户满意度分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal skills
-- Crisis management skills
-- Team management and motivation
-- Emotional customer care
+- 人际交往能力
+- 危机管理技能
+- 团队管理与激励
+- 情感化客户关怀
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital Marketing
-- Foreign Languages
-- CRM System Utilization
+- 数据分析
+- 数字营销
+- 外语
+- CRM系统利用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- MICE industry
-- Digital transformation
-- Premium and luxury upgrade
-- Regional tourism revitalization
+- MICE行业
+- 数字化转型
+- 高端和豪华升级
+- 区域旅游振兴
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available when hiring hotel/travel agency managers as professional career workers |
-| Subclass D-10 (Job Seeking) | Stay for job seeking in tourism/hotel sector |
-| Subclass F-2 (Residence) | Available after long-term stay and experience |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with outstanding leadership and communication skills
-- Person with service mindset and problem-solving skills
-- Person skilled in stress management
+- 具有杰出领导力和沟通能力的人
+- 具有服务意识和解决问题能力的人
+- 擅长压力管理的人
 
 **谁不适合**
-- Person who is sensitive and has difficulty adapting to change
-- Person who avoids night/weekend work
+- 敏感且难以适应变化的人
+- 适合避免夜班/周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a travel/hotel manager?**
-答：Entry-level: about 32–40 million KRW, intermediate: 45–60 million KRW, senior: 65–90 million KRW.
+**问：旅游/酒店经理的平均薪资是多少？**
+答：入门级：约3200-4000万韩元，中级：4500-6000万韩元，高级：6500-9000万韩元。
 
-**问：Can foreigners get this job in Korea?**
-答：Yes, hiring for professional careers is possible with an E-7 visa, but Korean language skills and relevant experience are essential.
+**问：外国人在韩国能获得这份工作吗？**
+答：是的，通过E-7签证为专业职位招聘是可能的，但韩语能力和相关经验至关重要。
 
-**问：What is the minimum education required?**
-答：An associate degree or higher is common, with a major in hotel/tourism being advantageous.
+**问：最低学历要求是什么？**
+答：通常需要副学士学位或更高学历，主修酒店/旅游专业有优势。
 
 
 ---
@@ -149,12 +139,12 @@ Promotion typically progresses from on-site hotel/travel agency experience to de
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/travel-hotel-manager/KR)**

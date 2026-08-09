@@ -52,8 +52,6 @@ A vineyard supervisor oversees daily viticulture operations, including planting,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
-
 Entry-level vineyard workers can progress to vineyard supervisor through experience, then to senior management or regional manager; can also move into winemaking, agricultural consulting, or own vineyard operations. New Zealand horticulture industry certifications (e.g., New Zealand Certificate in Horticulture) can improve advancement opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level vineyard workers can progress to vineyard supervisor through experie
 | Subclass AEWV (Accredited Employer Work Visa) | If the employer is certified, you can apply for a work visa and work, laying the groundwork for future immigration. |
 | Subclass SMC (Skilled Migrant Category) | If meeting the 6-point system (qualifications + work experience), may apply for skilled migration. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Yes, this occupation is on the Green List Tier 1, meeting salary requirements
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vineyard-supervisor/NZ)**

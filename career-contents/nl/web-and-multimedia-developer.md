@@ -4,8 +4,6 @@
 
 Web and multimedia developers design, build and maintain websites and multimedia applications, using HTML, CSS, JavaScript and other technologies to ensure user experience and functionality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Web and multimedia developers design, build and maintain websites and multimedia
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Tasks for web and multimedia developers are polarizing: coding and debugging can be largely automated by AI, but creative design, client communication, and system integration still require human input; the overall role will not disappear, but the skill focus shifts toward advanced integration
-
 A career can progress from junior developer to senior developer, team lead, or technical architect, or move into product management or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ A career can progress from junior developer to senior developer, team lead, or t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Available for highly skilled non-EU citizens; requires a work contract and salary meeting the threshold (approx. €3,909/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a higher education degree and above-average salary (approximately €5,300/month) |
-| Subclass Orientation Year (Zo (Orientation Year) | For graduates who have completed their studies in the Netherlands or designated countries, allowing them to stay in the country for one year to seek employment. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, the Netherlands has a shortage of IT talent, and web developers are in h
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-and-multimedia-developer/NL)**

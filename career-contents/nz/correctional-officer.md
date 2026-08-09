@@ -54,8 +54,6 @@ In New Zealand, correctional officers are responsible for the custody, safety, a
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will optimize monitoring and paperwork, but prison officers' core security supervision and crisis management require human judgment. Overall role structure remains stable, but entry-level jobs require more skills due to technology
-
 Career progression path: start as a prison officer, advance to senior prison officer, supervisor, and then monitoring manager or training officer. Usually requires internal selection and training, accumulating experience and leadership skills.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression path: start as a prison officer, advance to senior prison off
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Mainly because the occupation is not classified under ANZSCO skill levels 1-3
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correctional-officer/NZ)**

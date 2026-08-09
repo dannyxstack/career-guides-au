@@ -1,10 +1,8 @@
 # 直升机飞行员（Helicopter Pilot）职业分析 · 韩国
 
-**职业代码: 62112 (KECO)**
+**职业代码：62112 (KECO)**
 
-A professional pilot who flies helicopters to transport passengers, cargo, emergency patients, and perform various missions such as agriculture, construction, and tourism.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶直升机运送乘客、货物、急救病人，并执行农业、建筑、旅游等多种任务的专业飞行员。
 
 
 ---
@@ -13,9 +11,9 @@ A professional pilot who flies helicopters to transport passengers, cargo, emerg
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Aviation Operations Department at a college/university | 2-4年 | $15,000,000~$40,000,000（Tuition only） |
-| Private flight training school | 1-2年 | $80,000,000~$99,999,999（Includes private pilot license, instrument rating, etc.） |
-| Military helicopter pilot experience | 10+ years | $0~$0（Trained during military service, qualifications recognized when transitioning to civilian sector） |
+| 学院/大学航空运营部门 | 2-4年 | $15,000,000~$40,000,000（仅学费） |
+| 私人飞行培训学校 | 1-2年 | $80,000,000~$99,999,999（包括私人飞行员执照、仪表等级等。） |
+| 军用直升机飞行员经验 | 10年及以上 | $0~$0（Trained during military service, qualifications recognized when transitioning to civilian sector） |
 
 ---
 
@@ -23,19 +21,19 @@ A professional pilot who flies helicopters to transport passengers, cargo, emerg
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Commercial Pilot License (Rotorcraft) | Ministry of Land, Infrastructure and Transport (Korea Aviation Association) | 必备 | Required, with at least 150 flight hours |
-| Airline Transport Pilot License (Rotorcraft) | Ministry of Land, Infrastructure and Transport | 可选 | Required for employment in air transport business, with at least 1,000 flight hours |
-| 仪表等级（IR） | Ministry of Land, Infrastructure and Transport | 可选 | Required for instrument flight, advantageous for advanced employment |
-| Certified Flight Instructor (CFI) | Ministry of Land, Infrastructure and Transport | 可选 | Required for employment at flight training schools |
+| 商用飞行员执照（旋翼机） | 国土交通部（韩国航空协会） | 必备 | 必需，至少150飞行小时 |
+| 航线运输驾驶员执照（旋翼机） | 国土交通省 | 可选 | 航空运输业务就业所需，至少1000飞行小时 |
+| 仪表等级（IR） | 国土交通省 | 可选 | 仪表飞行必备，高级就业优势 |
+| 认证飞行教官（CFI） | 国土交通省 | 可选 | 飞行培训学校就业所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 2,500. Demand for helicopter pilots in Korea remains somewhat steady, but competition is significant due to the growth of small unmanned aerial vehicles (drones) and the supply of retired military pilots.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 2,500。韩国对直升机飞行员的需求保持稳定，但由于小型无人机和退役军事飞行员的供给，竞争激烈。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -43,94 +41,85 @@ A professional pilot who flies helicopters to transport passengers, cargo, emerg
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $35,000,000~$50,000,000 | Small: work, tourism, education; low flight time |
-| 中级（4-9年） | $50,000,000~$80,000,000 | Medium helicopters; captain level at government offices/airlines |
-| Advanced (10+ years) | $80,000,000~$99,999,999 | Large helicopters, special missions/government offices; abundant flight time |
+| 初级（0-3年） | $35,000,000~$50,000,000 | 小：工作、旅游、教育；低飞行时间 |
+| 中级（4-9年） | $50,000,000~$80,000,000 | 中型直升机；政府机关/航空公司机长级别 |
+| 高级（10年以上） | $80,000,000~$99,999,999 | 大型直升机、特殊任务/政府机构；丰富的飞行时间 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are unlikely to directly replace helicopter piloting, but they enhance auxiliary tasks like flight planning and maintenance prediction, improving safety and efficiency for pilots.
+AI和自动化不太可能直接替代直升机驾驶，但会增强飞行计划和维护预测等辅助任务，提高安全性和效率。
 
-Starting as a junior pilot, you can accumulate flight hours and advance to captain, instructor, or special mission pilot; career moves to airlines or public institutions (fire, police) are possible.
+从初级飞行员开始，积累飞行小时数，晋升为机长、教练或特殊任务飞行员；可向航空公司或公共机构（消防、警察）的职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple maintenance checks
-- Flight schedule automation
-- Partial weather analysis
+- 简单维护检查
+- 航班调度自动化
+- 部分天气分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Flight plan optimization
-- Real-time hazard detection systems
-- Remote maintenance diagnostics
+- 飞行计划优化
+- 实时危险检测系统
+- 远程维护诊断
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced manual piloting skills
-- Judgment in Non-standard Situations
-- Communication with Passengers
+- 高级手动驾驶技能
+- 非标准情况下的判断
+- 与乘客沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI-based Flight Assistance Systems
-- Basic Data Analysis
-- Initial Emergency Response Skills
+- 了解基于AI的飞行辅助系统
+- 基础数据分析
+- 初期应急响应技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Rotary-wing
-- Air transportation
-- Ministry of Land, Infrastructure and Transport
-- Safe operations
+- 旋翼机
+- 航空运输
+- 国土交通省
+- 安全操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Requires specialized license (pilot certificate) and contract; employed by airlines/operators |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible under certain conditions; pre-Permanent Residence step |
-| Subclass F-5 (F-5 (Permanent Residence)) | Obtained after F-2 stay via immigration review; no employment restrictions |
-| Subclass D-10 (Job Seeker) | Short-term stay for job seeking while holding a pilot certificate |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent physical fitness and spatial awareness
-- People with high concentration and composure
-- People with military helicopter experience or able to afford large tuition fees
+- 体能与空间感知能力出色的人
+- 高度专注和沉着的人
+- 有军用直升机经验或能承担高额学费的人
 
 **谁不适合**
-- People prone to severe motion sickness or acrophobia
-- People who prefer stability over a flexible lifestyle
+- 易患严重晕动病或恐高症者
+- 偏好稳定而非灵活生活方式的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a helicopter pilot?**
-答：Starting salary is around KRW 35-50 million per year, significantly increasing with experience.
+**问：直升机 pilots 的起薪是多少？**
+答：起薪约每年3500-5000万韩元，随经验显著增加。
 
-**问：Can foreigners work as helicopter pilots in Korea?**
-答：Yes, it is possible. An E-7 visa is required, along with a Korean pilot license and an employment contract with an airline or operator.
+**问：外国人在韩国能成为直升机飞行员吗？**
+答：是的，可以。需要E-7签证、韩国飞行员执照以及与航空公司或运营商的雇佣合同。
 
-**问：Do I need to attend university to become a pilot?**
-答：A university degree is not mandatory, but you must complete a flight training program, which can cost over KRW 100 million.
+**问：成为飞行员需要上大学吗？**
+答：大学学历非必需，但必须完成飞行训练项目，费用可能超过1亿韩元。
 
 
 ---
@@ -148,12 +137,12 @@ Starting as a junior pilot, you can accumulate flight hours and advance to capta
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/helicopter-pilot/KR)**

@@ -54,8 +54,6 @@ Clinical psychologists in New Zealand handle psychological assessment, diagnosis
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Clinical psychologists' core functions—diagnosis, treatment, and interpersonal insight—are hard to replace by AI, but documentation, assessment, and initial screening will be highly automated, allowing practitioners to focus on deep clinical work. Entry-level roles narrow slightly due to standardized assessment tools, but demand remains strong.
-
 Career path typically starts as a registered psychologist, progressing to senior clinical psychologist, team leader, or independent practice; senior roles can include department head or academic position.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path typically starts as a registered psychologist, progressing to senior
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, 6-point system, relevant job required to apply |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, a temporary work visa. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Complete APAC-accredited undergraduate and clinical master's/PhD, pass intern
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-psychologist/NZ)**

@@ -4,8 +4,6 @@
 
 The top managers of social interest organizations (such as non-profit organizations, foundations, associations) are responsible for strategic planning, fundraising, project supervision, team management, and external relations, ensuring the organization fulfills its social mission.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ The top managers of social interest organizations (such as non-profit organizati
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will profoundly change the work paradigm of leaders in social interest organizations: automating and compressing administrative and reporting tasks while amplifying strategic decision-making and impact assessment capabilities, transforming professional roles into human-machine collaborative leaders.
-
 Typically, they are promoted from project coordinator or department manager to executive director or secretary-general. They can transition to government public administration, corporate social responsibility positions, consulting roles, or start new social enterprises.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Typically, they are promoted from project coordinator or department manager to e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Work residency employed by a Spanish non-profit organization requires employer sponsorship and a labor contract. |
-| Subclass Busqueda empleo (Job Search Visa) | Post-graduation job search visa (up to 12 months) is available to graduates who completed their degree in Spain. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Quite difficult. This occupation is not on Spain's shortage occupation list; 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-of-social-interest-organizations/ES)**

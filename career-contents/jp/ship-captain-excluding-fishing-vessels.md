@@ -4,8 +4,6 @@
 
 Responsible for commanding and navigating cargo ships, passenger ships, etc., ensuring safe operation and management of crew and cargo.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for commanding and navigating cargo ships, passenger ships, etc., en
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI technologies like auto-navigation and electronic charts complement and enhance a captain's work, but human captains are essential for final decisions and emergency response. Risk of AI replacement is low; instead, it evolves to support safe operations.
-
 After serving as a deck officer and chief officer, one can advance to captain. With experience, one may captain large ships or international routes, or transition to shore-based maritime management.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After serving as a deck officer and chief officer, one can advance to captain. W
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when a foreign captain works for a Japanese shipping company. Requires university-level education or practical experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable at present. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Not applicable at present. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Common routes include studying at a marine technical college or merchant mari
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-captain-excluding-fishing-vessels/JP)**

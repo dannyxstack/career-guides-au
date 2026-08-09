@@ -52,8 +52,6 @@ This occupation involves erecting supports in underground mines, setting and det
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Work for mining and quarrying workers and related operators is polarized: repetitive monitoring and operational tasks face automation risk, but roles in complex geological decisions, equipment maintenance, and safety management increase in value with AI assistance; overall mixed outlook.
-
 Can progress from operator to driller, blasting supervisor, or mine supervisor; some become mining engineers or safety officers through training.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can progress from operator to driller, blasting supervisor, or mine supervisor; 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Yes, this occupation is on the eligible sponsorship list, subject to salary t
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-quarry-workers-and-related-operatives/UK)**

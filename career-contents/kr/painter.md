@@ -4,8 +4,6 @@
 
 An artist who uses paint on canvas or walls to create artworks, engaging in creative activities through exhibitions, sales, commissioned works, etc.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ An artist who uses paint on canvas or walls to create artworks, engaging in crea
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is increasing its replacement power in the illustration field through image generation tools (DALL-E, Midjourney, etc.), but original artworks and paintings with unique styles remain the domain of human artists. AI is used as a creative tool, and complete replacement is unlikely.
-
 After graduating from art school, one builds experience through solo and group exhibitions, solidifying their position through gallery contracts or competition wins. In the long term, participation in art fairs or securing sponsorships is important.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After graduating from art school, one builds experience through solo and group e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Only possible for art-related professional activities like academy instructors; pure creative work as a painter is not applicable |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, no restrictions on painter activities but difficult to obtain |
-| Subclass F-4 (F-4 (Overseas Korean)) | Only for overseas Koreans, can engage in painter activities while staying |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: It's not mandatory, but university education and exhibition experience greatl
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter/KR)**

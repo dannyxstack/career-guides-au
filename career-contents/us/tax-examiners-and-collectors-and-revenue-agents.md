@@ -51,8 +51,6 @@ Determine tax obligations or collect taxes for individuals or businesses in comp
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve the efficiency of tax advisors, reducing demand for basic compliance tasks, but complex tax planning, dispute resolution, and client relationship management still require humans, resulting in a 'mixed blessings' scenario.
-
 Can advance from tax examiner to senior tax auditor or tax management role with experience and professional certifications.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from tax examiner to senior tax auditor or tax management role with 
 | Subclass EB-2 (Employment-Based Second Preference) | Requires master's or exceptional ability, through PERM labor certification |
 | Subclass EB-3 (Employment-Based Third Preference) | Require a bachelor's degree or equivalent experience, through PERM labor certification |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Common options include H-1B (requires employer sponsorship) and EB-2/EB-3 gre
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-examiners-and-collectors-and-revenue-agents/US)**

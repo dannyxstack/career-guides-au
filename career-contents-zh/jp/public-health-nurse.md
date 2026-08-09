@@ -1,8 +1,8 @@
-# Public Health Nurse 职业分析 · 日本
+# 公共卫生护士（Public Health Nurse）职业分析 · 日本
 
-**职业代码: 131 (JSCO)**
+**职业代码：131 (JSCO)**
 
-A professional who supports the health maintenance and promotion of local residents, conducting preventive activities and health education in government and corporate settings.
+支持当地居民健康维护与促进的专业人士，在政府和企业开展预防活动与健康教育。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who supports the health maintenance and promotion of local reside
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Department of Nursing) | 4年 | $2,500,000~$5,000,000（Large difference between national and private） |
-| Public Health Nurse Training Program (including vocational schools) | 1年 | $1,000,000~$2,000,000（Additional program after acquiring a nursing license） |
+| 大学（护理系） | 4年 | $2,500,000~$5,000,000（国家和私营之间差异大） |
+| 公共卫生护士培训项目（含职业学校） | 1年 | $1,000,000~$2,000,000（持有护士执照后的额外课程） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who supports the health maintenance and promotion of local reside
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Examination for Public Health Nurses | Ministry of Health, Labour and Welfare | 必备 | Mandatory qualification to work as a public health nurse |
-| National Examination for Nurses | Ministry of Health, Labour and Welfare | 必备 | Prerequisite for public health nurse program |
-| Master's Degree (Public Health) | 大学 | 可选 | Advantageous for career advancement |
+| 公共卫生护士国家考试 | 厚生劳动省 | 必备 | 公共卫生护士工作的必备资格 |
+| 护士国家考试 | 厚生劳动省 | 必备 | 公共卫生护士项目的先决条件 |
+| 硕士（公共卫生） | 大学 | 可选 | 有利于职业晋升。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 55,000. Demand is stable due to aging population and emphasis on preventive care. The role of public health nurses is expanding, especially with the promotion of community-based integrated care systems.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 55,000。由于人口老龄化和对预防保健的重视，需求稳定。公共卫生护士的角色正在扩大，特别是在推广社区综合护理体系方面。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A professional who supports the health maintenance and promotion of local reside
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$4,500,000 | Starting salary for government public health nurses |
-| Mid-career (4–10 years) | $4,500,000~$5,600,000 | 经验丰富后薪资提升 |
-| Veteran (10+ years) | $5,600,000~$7,000,000 | Higher salary for managerial positions |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 政府公共卫生护士的起薪 |
+| 中级（4-10年） | $4,500,000~$5,600,000 | 经验丰富后薪资提升 |
+| 资深（10年以上） | $5,600,000~$7,000,000 | 管理职位薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI complements public health nurses' work through data analysis and health management apps, but interpersonal support and community activities are less likely to be replaced, rather strengthening their role via efficiency.
+AI通过数据分析、健康管理应用辅助公共卫生护士工作，但人际支持和社区活动不太可能被替代，反而通过效率提升强化其角色。
 
-Many work in government or corporate settings. With experience, they advance to managerial or specialized fields (e.g., mental health). Graduate school offers a path to further specialization.
+许多人在政府或企业环境中工作。随着经验丰富，他们晋升到管理或专业领域（如心理健康）。研究生院提供进一步专业化的途径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine health guidance to residents (replaced by apps)
-- Aggregation and simple analysis of health data
+- 为居民提供的常规健康指导（已被应用程序取代）
+- 健康数据的聚合与简单分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Predictive analysis of health risks
-- Creation of health education content
+- 健康风险预测分析
+- 健康教育内容创作
 - Drafting individual support plans
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person consultations and counseling
-- Building trust with communities
-- Coordinating multidisciplinary collaboration
+- 面对面咨询与辅导
+- 与社区建立信任
+- 协调多学科合作
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析技能
-- Digital health literacy
-- Multidisciplinary collaboration skills
+- 数字健康素养
+- 多学科协作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Preventive medicine
-- Community-based integrated care
-- Health education
-- Infectious disease control
+- 预防医学
+- 社区综合照护
+- 健康教育
+- 传染病控制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Corresponds to public health nurse duties. Requires university graduation and practical experience. |
-| Subclass 特定活動（医療） (Designated Activities (Medical)) | Visa for foreigners with nurse or public health nurse qualifications to work at Japanese medical institutions. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Based on a points system for education, experience, and annual income; public health nurses may be eligible. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy working directly with local residents
-- People interested in public health
-- People good at diligently recording and analyzing
+- 喜欢与当地居民直接共事的人
+- 对公共卫生感兴趣的人
+- 善于认真记录和分析的人
 
 **谁不适合**
-- People who prefer emergency treatment and medical procedures as main tasks
-- People who dislike desk work-heavy jobs
+- 偏好急救和医疗程序为主要任务的人
+- 不喜欢文案工作繁重的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a public health nurse?**
-答：For government public health nurses, about 5 million JPY with 5-10 years of experience, and 6-7 million JPY for managerial positions. Corporate public health nurses tend to be slightly higher.
+**问：公共卫生护士的平均年收入是多少？**
+答：政府公共卫生护士，5-10年经验约500万日元，管理职位600-700万日元。企业公共卫生护士略高。
 
-**问：How can a foreigner become a public health nurse in Japan?**
-答：Must pass Japan's national nursing exam and public health nurse exam, and receive required education at a Japanese university or training institution. Eligible for Engineer/Humanities/International Services visa or Designated Activities visa.
+**问：外国人如何成为日本的公共卫生护士？**
+答：必须通过日本国家护士考试和公共卫生护士考试，并在日本大学或培训机构接受所需教育。符合工程师/人文/国际服务签证或指定活动签证条件。
 
-**问：How to advance your career as a public health nurse?**
-答：In government, there is a path from public health nurse to management (chief nurse/section manager). Also possible to obtain a master's in public health from a graduate school to enhance expertise.
+**问：如何提升公共卫生护士的职业发展？**
+答：在政府部门，有从公共卫生护士到管理层（主任护士/科长）的发展路径。也可通过攻读研究生获得公共卫生硕士学位以增强专业知识。
 
 
 ---
@@ -141,12 +134,12 @@ Many work in government or corporate settings. With experience, they advance to 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/public-health-nurse/JP)**

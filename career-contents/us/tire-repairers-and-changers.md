@@ -54,8 +54,6 @@ Tire repairers and changers inspect and repair tires, including dismounting, mou
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Tire repair and replacement workers face moderate automation risk; AI and robots can take over repetitive inspection, disassembly, and balancing tasks, but on-site judgment and complex repairs still require humans. Entry-level positions will decrease due to automation, but senior repair roles remain stable.
-
 Junior tire technicians can advance to senior technicians or supervisors through experience, and may further transition to fleet management or open their own repair shops. Some workers may retrain as automotive repair technicians by learning vehicle repair skills.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior tire technicians can advance to senior technicians or supervisors through
 | Subclass H-1B (H-1B Specialty Occupations) | Tire repairers are generally not considered professional occupations, making H-1B applications difficult unless the role incorporates engineering or management duties. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of experience or training, may apply via PERM, but employer support is limited. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to tire department supervisor, fleet maintenance manager, or beco
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tire-repairers-and-changers/US)**

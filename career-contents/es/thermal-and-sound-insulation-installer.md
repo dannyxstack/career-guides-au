@@ -53,8 +53,6 @@ Responsible for installing insulation, soundproofing, and moisture-proof materia
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on thermal and acoustic material installers is mixed: automation will simplify measurement and material cutting, but the complex on-site installation environment still relies on human judgment and manual skill, and large-scale replacement will not be achieved in the short term.
-
 Junior installers can be promoted to senior technicians, site supervisors, or self-operated contractors; some enter the fields of energy auditing or building technical management through further education.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior installers can be promoted to senior technicians, site supervisors, or se
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract with a Spanish company must be obtained, reviewed by the Ministry of Labor, and proof that the position cannot be filled locally or within the EU. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | This applies to high-skilled positions with annual salaries exceeding about 40,000 euros, which typically do not meet the requirements. |
-| Subclass Búsqueda de empleo (Job Search Visa) | Allows for a 12-month stay in Spain to look for work, suitable for job seekers who already have relevant skills or education. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Although academic qualifications are not mandatory, holding an FP-related dip
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/thermal-and-sound-insulation-installer/ES)**

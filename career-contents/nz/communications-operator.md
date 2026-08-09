@@ -53,8 +53,6 @@ Communications operators answer emergency calls and dispatch resources in emerge
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core dispatching and call tasks for communication operators will be AI-assisted, but emergency judgment and accountability still rely on humans; the outlook for the role is mixed.
-
 Can advance from junior communications officer to senior dispatcher, team leader, or trainer, some transitioning to emergency management or IT support. Need to continuously improve communication and multitasking skills.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance from junior communications officer to senior dispatcher, team leader
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually requires high school graduation, employer training, and some hold eme
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/communications-operator/NZ)**

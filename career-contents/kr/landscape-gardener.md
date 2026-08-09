@@ -4,8 +4,6 @@
 
 A professional who plants and maintains vegetation and manages landscape facilities in parks, gardens, urban green spaces, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who plants and maintains vegetation and manages landscape facilit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact is limited. Automated lawn mowers and irrigation systems can replace some tasks, but precise planting, design, and on-site adaptability require human input.
-
 Initially learns simple maintenance tasks; with experience, can obtain landscape craftsman/technician certifications to advance into construction/design fields or start a business.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Initially learns simple maintenance tasks; with experience, can obtain landscape
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to simple landscaping labor, Employment Permit System applies |
-| Subclass E-7 (Specific Activities) | Eligible for skilled landscaping technician, requires expertise |
-| Subclass F-2 (Residence) | Convertible to points system, long-term stay pathway |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Yes, simple labor is possible with an E-9 visa, and skilled workers can switc
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-gardener/KR)**

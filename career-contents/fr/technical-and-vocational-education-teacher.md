@@ -52,8 +52,6 @@ Teach professional technical courses at French secondary schools or vocational e
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate lower- and mid-level tasks in course management, but strengthening teachers' roles as practical mentors and assessors is a mixed process; Proactively upgrade skills to stay relevant.
-
 Typically, students transition from technical positions in enterprises to the education sector, first obtaining teaching qualifications such as CAPES or CAPLP, then gradually advancing to senior teachers, teaching coordinators, or educational consultants, and can also transition to vocational training center management or curriculum development roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Typically, students transition from technical positions in enterprises to the ed
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | This applies to foreign teachers who have contracts with French employers (such as public schools or private training institutions) and must apply for a work permit, with a salary meeting the statutory minimum standard (about 1.5 times the SMIC). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for teachers with high skills or qualifications in scarce fields such as digital technology and engineering, with higher salary requirements (about twice the SMIC rate), allowing for quick residency |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates or those who have obtained a work permit but are unemployed can apply for this temporary residence, valid for 12 months, to find teaching work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: To teach in public schools, one must hold a CAPLP certificate, which is obtai
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-and-vocational-education-teacher/FR)**

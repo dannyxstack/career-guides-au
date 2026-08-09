@@ -55,8 +55,6 @@ A Supply Chain Manager oversees procurement, warehousing, logistics, and distrib
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The supply chain manager role presents a mixed outlook: routine scheduling and document verification tasks are automated away, but core capabilities like strategic planning, complex negotiation, and resilience design are amplified by AI, shifting value toward higher-level decision-making.
-
 Digital Supply Chain is the core industry transformation in 2025, with rapidly increasing demand for specialists in SAP S/4HANA and Oracle Supply Chain Management. ESG supply chains (sustainable procurement + carbon footprint tracking) are a mandatory compliance direction for listed companies.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Digital Supply Chain is the core industry transformation in 2025, with rapidly i
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 | Subclass 491 (Skilled Work Regional) | Regional manufacturing/logistics centre, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both are MLTSSL shortage occupations; Supply Chain Managers have a slightly l
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supply-chain-manager/AU)**

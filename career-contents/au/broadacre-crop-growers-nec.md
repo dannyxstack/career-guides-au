@@ -53,8 +53,6 @@ Responsible for planning, planting, managing, and harvesting large-scale crops s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Practitioners can progress to farm manager or agribusiness general manager, specialise in agronomic consulting or agricultural technology extension, or move into agricultural research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Practitioners can progress to farm manager or agribusiness general manager, spec
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, requires 482 transition or direct application |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional sponsored provisional visa, eligible for 191 permanent residence after 3 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a bachelor's degree in agriculture, or a TAFE Certificate IV
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadacre-crop-growers-nec/AU)**

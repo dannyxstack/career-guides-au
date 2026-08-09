@@ -53,8 +53,6 @@ A professional responsible for processing employee payroll, tax withholding, lea
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will largely automate payroll calculation and data processing, but compliance judgment, employee communication, and anomaly handling still rely on humans; the role will shift from executor to reviewer and analyst.
-
 Can progress from junior payroll assistant to payroll supervisor or payroll manager, and some move to HR information systems or financial analysis roles. Professional certifications such as IPA help with advancement.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior payroll assistant to payroll supervisor or payroll mana
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: High difficulty because this occupation is not on the shortage list, requires
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-clerk/IE)**

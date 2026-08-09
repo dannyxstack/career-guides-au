@@ -51,8 +51,6 @@ Responsible for eye exams, fitting glasses, sales and adjustment of glasses/cont
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate some eyeglass dispensing and inventory tasks, but optometry tests, customer communication, and compliance requirements still depend on human professional judgment, resulting in mixed outcomes.
-
 You can advance from junior optician consultant to senior optometrist, store manager, or regional manager, or choose to open an independent optical shop or specialize in contact lens/low vision assistance.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can advance from junior optician consultant to senior optometrist, store man
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Profession artistique et culturelle / Scientifique / etc.)) | Suitable for in-demand optical technicians with a BTS degree or above, requiring a French employer contract |
-| Subclass Salarié (Employee (Salarié) visa) | The classic work visa requires a CDI contract and labor permit provided by the French company |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-salary offers (annual salary ≥ 53,837 EUR), meeting educational requirements |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: You need to obtain a French-recognized BTS optics diploma (available through 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/optician/FR)**

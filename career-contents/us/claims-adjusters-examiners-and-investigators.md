@@ -51,8 +51,6 @@ Evaluate settled claims to ensure payment complies with company policy; negotiat
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Claims officers, examiners, and investigators face significant AI impact; document processing and preliminary assessments can be automated, but complex negotiations and fraud investigations still require human judgment. Entry-level competition intensifies, but senior experts can leverage AI tools to enhance efficiency and decision quality.
-
 Junior claims officers can advance to senior reviewers, supervisors, or claims managers. Some transition to legal compliance, risk management, or underwriting. Requires continuous learning to master insurance regulations and data analysis skills.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior claims officers can advance to senior reviewers, supervisors, or claims m
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree or equivalent experience, requires PERM |
 | Subclass TN (TN NAFTA Professional) | Canadian or Mexican citizens can engage in related occupations (e.g., accountants), but claims adjusters require specific matching |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most states require adjuster licenses, passing exams and background checks. N
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/claims-adjusters-examiners-and-investigators/US)**

@@ -4,8 +4,6 @@
 
 Responsible for greeting customers, providing product information, processing transactions, and maintaining store cleanliness in retail stores; this is an entry-level position in the retail industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Responsible for greeting customers, providing product information, processing tr
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Shop sales assistants face significant risk from AI automation; basic transactions and inquiry tasks will be replaced by self-checkout and chatbots, but personalized service and customer relationships still require humans. Entry-level positions will narrow.
-
 Can advance from junior sales assistant to senior salesperson, department supervisor, or store manager. Some move into specialized areas like purchasing or merchandising.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Can advance from junior sales assistant to senior salesperson, department superv
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for low-skilled workers from non-EU countries, with annual quota limits and requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Targeted at high-skilled workers, but sales assistants typically do not meet the salary requirement. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Sales assistant is a low-skilled occupation that mainly immigrates through th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-sales-assistant/IT)**

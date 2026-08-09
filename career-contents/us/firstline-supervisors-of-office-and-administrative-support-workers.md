@@ -51,8 +51,6 @@ Directly supervise and coordinate the activities of clerical and administrative 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Roles supervising administrative support workers face medium automation risk: routine scheduling and document processing will be taken over by AI, but demand for personnel management and unstructured decision-making rises, with job content transitioning from process supervision to team empowerment.
-
 Can progress from entry-level administrative positions to supervisor, then to office manager or administrative services manager. Some supervisors may move into HR or operations management.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can progress from entry-level administrative positions to supervisor, then to of
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience; can apply for green card via PERM labor certification. |
 | Subclass L-1 (L-1 Intracompany Transferee) | Intra-company transfer within multinational enterprises, requiring at least one year of work in an overseas company. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Employment growth is steady, but advancement opportunities are limited. Can t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-office-and-administrative-support-workers/US)**

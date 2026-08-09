@@ -4,8 +4,6 @@
 
 Responsible for installing, commissioning, and maintaining sanitary equipment (bathrooms, pipelines) and heating systems (boilers, radiators, underfloor heating), ensuring the normal operation of plumbing and heating facilities within buildings.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for installing, commissioning, and maintaining sanitary equipment (b
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Sanitation and heating equipment installers face AI-assisted enhancement rather than replacement; routine diagnosis and scheduling automation squeeze entry-level positions, but on-site hands-on communication with customers is hard to replace with AI, and skill upgrades can be transferred to intelligent system integration.
-
 Typically, you start as an apprentice in CAP or BTS, and after gaining experience, you can be promoted to team leader (chef d'équipe) or entrepreneur (artisan indépendant). Qualification certifications (such as Qualibat) allow for larger projects or shifts to building equipment engineering management or energy auditing.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Typically, you start as an apprentice in CAP or BTS, and after gaining experienc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship is required, with a work contract >1 year, and occupations on the skills shortage list are more likely to be approved. |
-| Subclass Passeport Talent (Passeport Talent – Profession qualifiée) | Applies to high-skilled talent, must meet qualifications and salary conditions (≥2 times SMIC) |
-| Subclass Recherche emploi (Job Search Visa (for graduates)) | French graduates can apply, valid for one year, and are used for job hunting |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: CAP Installateur sanitaire et thermique is usually required. RGE certificatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sanitary-and-thermal-equipment-installer/FR)**

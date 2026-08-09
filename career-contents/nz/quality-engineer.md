@@ -52,8 +52,6 @@ Quality Engineers in New Zealand ensure products meet standards in manufacturing
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Quality engineers face medium automation risk in Australia, but AI enhancement potential is high. Routine document review and basic statistical analysis are easily replaceable, but system decisions and client communication still rely on human judgment—the career outlook is mixed.
-
 From a junior quality engineer, one can advance to senior quality engineer, quality manager, or system auditor. With experience, you can move into total quality management or supply chain quality roles, with gradual salary increases.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From a junior quality engineer, one can advance to senior quality engineer, qual
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Work in a listed occupation for 2 years, then eligible for permanent residence |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can later transition to permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Main demand comes from manufacturing (food, wood, metal), construction, and e
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-engineer/NZ)**

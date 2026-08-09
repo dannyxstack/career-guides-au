@@ -52,8 +52,6 @@ Food and beverage managers plan, direct, and coordinate catering services in res
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on restaurant and bar manager roles is mixed: daily scheduling, inventory management, and sales analysis are easily automated, but core responsibilities like personnel management, customer experience, and crisis handling remain highly dependent on humans. Entry-level positions may shrink, but the value of senior managers is amplified by AI.
-
 Career progression path: from server or supervisor to department manager, then to food and beverage manager, operations manager, or regional manager. Some may move into self-employed restaurant ownership or consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression path: from server or supervisor to department manager, then t
 | Subclass Skilled Worker (Skilled Worker visa) | On the eligible occupations list, meet minimum salary of £26,200/year (or applicable industry-specific salary). Restaurant managers can be sponsored. |
 | Subclass Graduate (Graduate visa) | Bachelor's and above graduates can work in the UK for 2 years (PhD 3 years), then transition to skilled migration after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Can apply for Skilled Worker visa, requires employer sponsorship, meets minim
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/catering-and-bar-managers/UK)**

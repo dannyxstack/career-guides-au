@@ -55,8 +55,6 @@ Whitewater rafting guides lead tourists in rafting activities, responsible for s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core safety monitoring duties of a whitewater rafting guide make it difficult to fully automate, but AI will significantly enhance the profession's value in trip planning, equipment inspection, and emergency response efficiency; employment growth is limited by the recovery speed of the tourism industry.
-
 Entry-level guides can gain experience and advance to senior guide or leader, or move into tourism company management, safety training, or start a rafting company. Holding first aid certification and advanced rafting qualifications helps improve competitiveness.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Entry-level guides can gain experience and advance to senior guide or leader, or
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: First, obtain a first aid certificate, then get certified through a training 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/whitewater-rafting-guide/NZ)**

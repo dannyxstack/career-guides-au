@@ -53,8 +53,6 @@ Handicraft workers include practitioners of traditional skills such as wood carv
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace manual design, marketing, and documentation tasks in handcrafting, but also enhances creative exploration and personalized customization capabilities, requiring artisans to shift toward high-creativity and high-tactile fields.
-
 Practitioners can progress from apprentice to skilled craftsman, then independently run a studio or start a brand. Some transition to luxury restoration or custom services to add value.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Practitioners can progress from apprentice to skilled craftsman, then independen
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled talent, but crafts usually do not meet the salary threshold (annual salary must be ≥€28,074). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-EU seasonal workers, but crafts are uncommon |
-| Subclass Self-employed Visa (Self-Employment Visa) | Must demonstrate sufficient funds and a business plan, suitable for individual artisans |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Possible via self-employment visa, requiring proof of funds and business plan
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/handicraft-worker-not-elsewhere-classified/IT)**

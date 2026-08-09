@@ -4,8 +4,6 @@
 
 A job that ensures passenger safety and comfort inside trains, providing various services such as onboard guidance, ticketing, cleaning, and customer service.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A job that ensures passenger safety and comfort inside trains, providing various
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation replace some repetitive tasks such as train operation information guidance, ticketing, and customer inquiry responses, but areas requiring human sensitivity and judgment—like handling unexpected situations, passenger service, and safety management—are actually strengthening.
-
 Career progression: new crew → senior crew → cabin team leader → station/vehicle management, or transition to training/administrative roles based on experience.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Career progression: new crew → senior crew → cabin team leader → station/v
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible in professional service fields, but cabin crew generally not applicable |
-| Subclass F-2 (Residence) | Prerequisite stage before obtaining permanent residency; no employment restrictions |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can take simple service jobs |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Generally not eligible for E-7 visa; only possible for holders of F-2 (Reside
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-cabin-crew/KR)**

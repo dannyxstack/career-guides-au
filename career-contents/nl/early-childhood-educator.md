@@ -4,8 +4,6 @@
 
 Responsible for the care, education, and early development of young children (0-6 years), including designing games, organizing activities, and fostering social skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the care, education, and early development of young children (0-
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Early childhood educators face mixed impacts from AI: administrative and paperwork tasks can be automated, but direct care and emotional interaction are hard to replace; overall demand remains stable.
-
 Can advance from assistant teacher to team leader or director of a kindergarten, or transition to special education or education policy through further study.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can advance from assistant teacher to team leader or director of a kindergarten,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigrants, requires employer sponsorship, meeting salary threshold (approx. €4,500/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled workers, requiring higher education degree and above-average salary. |
-| Subclass Orientation Year (Orientation Year) | International students who graduate in the Netherlands can seek employment for up to one year after graduation, with no industry restrictions. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: At least need to complete MBO (secondary vocational education) or HBO (higher
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-educator/NL)**

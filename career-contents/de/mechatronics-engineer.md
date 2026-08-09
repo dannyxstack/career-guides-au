@@ -53,8 +53,6 @@ Mechatronics engineers combine mechanical, electronic, and computer technologies
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Clear career progression path: from junior engineer to senior engineer, project supervisor, then to technical manager or R&D director. Can also transition to interdisciplinary project management or self-employed consulting. Continuing education (e.g., technical master's or MBA) helps advance to management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Clear career progression path: from junior engineer to senior engineer, project 
 | Subclass Job Seeker (Job Seeker Visa) | Allowed to stay in Germany for 6 months to look for work, requires sufficient living funds and qualification recognition |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa, launched in 2024, suitable for young talents |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance from technical roles to project supervisor, technical manager, or
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechatronics-engineer/DE)**

@@ -53,8 +53,6 @@ Collects, analyzes, and reports personal or organizational information to uncove
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Private investigators' tasks like research, evidence collection, and report writing will be greatly boosted by AI, but legal compliance, interpersonal trust, and complex reasoning still rely on humans, presenting both risk and opportunity.
-
 Junior investigator can advance to senior investigator, team supervisor, or start own detective agency.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior investigator can advance to senior investigator, team supervisor, or star
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Most states require a private investigator license, which usually needs exper
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/private-detectives-and-investigators/US)**

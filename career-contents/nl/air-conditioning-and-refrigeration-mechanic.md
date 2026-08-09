@@ -4,8 +4,6 @@
 
 Air conditioning and refrigeration mechanics install, maintain, and repair air conditioning, refrigeration, and heat pump systems to ensure temperature control in buildings and industrial facilities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Air conditioning and refrigeration mechanics install, maintain, and repair air c
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will partially replace tasks such as fault diagnosis and routine maintenance, but on-site operations, compliance responsibilities, and complex repairs still rely on humans. Overall job demand is stable, with upgraded skill requirements.
-
 Junior technicians can advance to senior technicians, team supervisors, or become HVAC engineers through further study. They can also start their own business, offering maintenance contract services.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior technicians can advance to senior technicians, team supervisors, or becom
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to high-skilled migrants, must meet salary threshold (2023 approx. €3,672/month) |
-| Subclass EU Blue Card (EU Blue Card) | EU Blue Card requires higher education degree and higher salary |
-| Subclass Orientation Year (Orientation Year) | For international students who have graduated in the Netherlands, allowing one year to find a job |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Generally not a shortage occupation, but can be accessed through high-skilled
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-conditioning-and-refrigeration-mechanic/NL)**

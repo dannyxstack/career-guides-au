@@ -4,8 +4,6 @@
 
 Drive light commercial vehicles to deliver goods over short distances along fixed routes, including express delivery, food, parcels, etc., handling loading and unloading and customer receipt. Often delivering the last kilometer, with a fast work pace.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Drive light commercial vehicles to deliver goods over short distances along fixe
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Delivery drivers and couriers will face mixed fortunes: autonomous driving and robots may replace some long-haul and standardized deliveries, but AI can enhance human capabilities in route optimization, dynamic scheduling, and last-mile flexibility, while regulatory responsibility and complex interpersonal interactions remain a moat.
-
 You can be promoted from driver to fleet dispatcher, distribution supervisor, or logistics manager. Alternatively, by obtaining a heavy vehicle license (Class C), you can switch to long-distance transportation or enter the warehouse management field.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can be promoted from driver to fleet dispatcher, distribution supervisor, or
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Employer sponsorship is required, and labor verification proves that EU citizens cannot be found. Suitable for non-urgent jobs, but delivery driver positions are often rejected. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | This is only suitable for highly trained or high-paying positions; short-distance delivery drivers usually do not qualify. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires high education (at least Bac+3) and high salary (the 2025 threshold is about 53,000 euros), but delivery drivers do not meet the salary requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Promotion can be made to Distribution Supervisor, Fleet Dispatcher, or Logist
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/short-distance-delivery-and-distribution-driver/FR)**

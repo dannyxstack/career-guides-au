@@ -1,6 +1,6 @@
-# Supervisor - Construction and Transport Equipment Operation 职业分析 · 德国
+# 主管 - 建筑与运输设备操作（Supervisor - Construction and Transport Equipment Operation）职业分析 · 德国
 
-**职业代码: 5259 (KldB)**
+**职业代码：5259 (KldB)**
 
 负责监督建筑工地和运输设备操作，确保作业安全高效，协调施工团队与机械调度。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 45,000. 德国建筑与运输行业持续发展，基础设施项目增多，对经验丰富的现场主管需求稳定，就业前景良好。
+**职位需求量：中高（★★★½☆）** 全国从业人数约 45,000。德国建筑与运输行业持续发展，基础设施项目增多，对经验丰富的现场主管需求稳定，就业前景良好。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 监督与协调工作较难自动化，但AI将接管调度、报告和安全监控等任务，岗位整体受影响但不会被完全替代。
 
 可从设备操作员晋升为主管，再逐步成为施工经理或项目负责人；通过继续教育可拓宽至安全管理等岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 手动设备调度与路线规划
 - 纸质报告填写与记录
@@ -64,7 +64,7 @@
 - 库存盘点与物料追踪
 - 常规进度汇报与数据整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助最优调度与资源分配
 - 实时安全监控与预警系统
@@ -72,7 +72,7 @@
 - 预测性维护提醒与故障排查
 - 远程协同与数字孪生指挥
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场突发状况的应急决策
 - 工人安全与团队士气管理
@@ -80,7 +80,7 @@
 - 复杂环境下的非标问题解决
 - 合规与责任担当（如事故定责）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI调度与监控平台操作（如Fleet Management）
 - 数据分析与报告自动化（Excel+Power BI）
@@ -89,16 +89,16 @@
 - 项目管理与Lean方法
 - 安全法规与ESG合规知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- infrastructure projects
-- digitalization
-- safety regulations
-- green construction
+- 基础设施项目
+- 数字化
+- 安全法规
+- 绿色建筑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass EU Blue Card (EU Blue Card) | 适用于高薪岗位，年薪门槛约58400欧元（2024年） |
 | Subclass Chancenkarte (Chancenkarte (Opportunity Card)) | 基于积分系统，允许来德找工一年，需满足基本条件 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -150,12 +148,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-construction-and-transport-equipment-operation/DE)**

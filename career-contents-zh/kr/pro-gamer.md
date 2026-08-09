@@ -1,10 +1,8 @@
-# Pro Gamer 职业分析 · 韩国
+# 职业游戏玩家（Pro Gamer）职业分析 · 韩国
 
-**职业代码: 42022 (KECO)**
+**职业代码：42022 (KECO)**
 
-A professional gamer who competes in eSports tournaments, pushing game skills to the limit through training and strategy development, aiming to win championships.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+参加电子竞技比赛的专业选手，通过训练和策略开发将游戏技能推向极限，旨在赢得冠军。
 
 
 ---
@@ -13,8 +11,8 @@ A professional gamer who competes in eSports tournaments, pushing game skills to
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduation or above | 0年 | $0~$0（No educational requirements, skill-oriented） |
-| Pro Gaming Academy | 1年 | $5,000,000~$20,000,000（Private academy tuition fees） |
+| 高中及以上学历 | 0年 | $0~$0（无学历要求，技能导向） |
+| 职业电竞学院 | 1年 | $5,000,000~$20,000,000（私立院校学费） |
 
 ---
 
@@ -22,16 +20,16 @@ A professional gamer who competes in eSports tournaments, pushing game skills to
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| eSports Player Registration | Korea e-Sports Association | 必备 | Official tournament participation required |
+| 电竞选手注册 | 韩国电子竞技协会 | 必备 | 需参加正式锦标赛 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 500. With the growth of the eSports market, demand for pro gamers is steadily increasing, but intense competition and short career spans limit success to a few.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 500。随着电子竞技市场的发展，对职业选手的需求稳步增长，但激烈的竞争和短暂的职业生涯使得只有少数人成功。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★★）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,91 +37,84 @@ A professional gamer who competes in eSports tournaments, pushing game skills to
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$60,000,000 | Trainee/2nd team level |
-| Intermediate (3-5 years) | $60,000,000~$99,999,999 | 1st team starter |
-| Advanced (5+ years) | $99,999,999 | Star-level player, varies by award record |
+| 初级（0-3年） | $24,000,000~$60,000,000 | 实习生/二级团队级别 |
+| 中级（3-5年） | $60,000,000~$99,999,999 | 首发队员 |
+| 高级（5年以上） | $99,999,999 | 星级球员，视获奖记录而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used for strategy analysis and training data optimization to help improve skills, but it cannot replace intuition and real-time decision-making in actual matches. AI analysis tools remain auxiliary, and the player's unique abilities are still important.
+AI用于策略分析和训练数据优化，帮助提升技能，但无法替代实际比赛中的直觉和实时决策。AI分析工具仍为辅助，选手的独特能力依然重要。
 
-Amateur tournaments → Joining a pro team → Starting player → Transition to coach/manager/streamer after retirement or seek overseas opportunities.
+业余比赛 → 加入职业战队 → 主力选手 → 退役后转型教练/经理/主播或寻求海外机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive data collection and analysis
-- Learning basic strategic patterns
+- 重复性数据收集与分析
+- 学习基本战略模式
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analyzing opponent team strategies
-- Optimizing personal training
-- Replay analysis
+- 分析对手团队策略
+- 优化个人培训
+- 回放分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Human intuition and creative play
-- Psychological warfare and teamwork
-- Instant judgment ability
+- 人类直觉和创造性游戏
+- 心理战术和团队合作
+- 即时判断能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI/data analysis tools
-- Understanding game theory
-- Quick decision-making
+- 利用AI/数据分析工具
+- 理解博弈论
+- 快速决策
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Esports
+- 电子竞技
 - FPS/LoL
-- Mobile games
-- Overseas leagues
+- 手机游戏
+- 海外联赛
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Work visa for eSports players, requires contract with a domestic team |
-| Subclass E-6 (Arts and Entertainment) | Available for short-term stays when participating in overseas tournaments |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Strong passion and focus for gaming
+- 对游戏有强烈热情和专注度
 - 团队协作与沟通技巧
-- Fast hand movements and strategic thinking
+- 快速手部动作和战略思维
 
 **谁不适合**
-- People who are weak to stress
-- People who find it difficult to maintain a regular lifestyle
+- 抗压能力较弱的人员
+- 难以维持规律生活方式的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a professional gamer?**
-答：For beginners, 24 to 60 million KRW; for star players, up to 500 million KRW or more, depending on the team and negotiations.
+**问：职业电竞选手的平均薪资是多少？**
+答：初学者2400至6000万韩元；明星球员最高可达5亿韩元或以上，视团队和谈判而定。
 
-**问：What visa does a foreigner need to work as a professional gamer in Korea?**
-答：Mainly the E-7 (Specific Activities) visa is required, and registration with the association after signing a contract with a domestic esports team is mandatory.
+**问：外国人在韩国作为职业游戏玩家工作需要什么签证？**
+答：主要需E-7（特定活动）签证，且须与国内电竞队签约后在协会注册。
 
-**问：What career paths are available after retiring as a professional gamer?**
-答：Many transition to roles such as coach, caster, streamer, or start a game-related business.
+**问：职业游戏选手退役后有哪些职业道路？**
+答：许多人转型为教练、解说员、主播，或创办与游戏相关的企业。
 
 
 ---
@@ -141,12 +132,12 @@ Amateur tournaments → Joining a pro team → Starting player → Transition to
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pro-gamer/KR)**

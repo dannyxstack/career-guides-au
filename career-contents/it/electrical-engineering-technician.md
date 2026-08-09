@@ -52,8 +52,6 @@ Electrical engineering technicians assist electrical engineers in designing, tes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of electrical engineering technicians shows a bittersweet AI impact: design assistance and documentation tasks will be automated, but on-site commissioning, compliance verification, and customer communication—areas requiring physical interaction and judgment—remain safe zones.
-
 Career progression path: Junior Technician → Senior Technician/Team Leader → Technical Manager/Project Manager. Further study can lead to becoming an Electrical Engineer or Specialist Engineer.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career progression path: Junior Technician → Senior Technician/Team Leader →
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled talent, the annual salary threshold is about 26,000 euros (2024), typically achievable for electrical technicians, requiring an employer offer. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italy's annual non-EU work quota visa, partly for skilled workers, requires employer sponsorship and is subject to limited quotas. |
-| Subclass Nulla Osta (Work Aut (Nulla Osta) | Work permit, which is applied for by the employer to the immigration department, allowing the applicant to apply for a work visa. Electrical technicians have a higher approval rate due to skill shortages. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Can advance to senior technician, technical supervisor, project manager, or b
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-engineering-technician/IT)**

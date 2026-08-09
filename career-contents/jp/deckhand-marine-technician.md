@@ -50,8 +50,6 @@ Responsible for assisting operations, cargo handling, and engine operation on th
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While automated navigation technology and AI-based route optimization advance, tasks requiring human experience, such as decision-making at sea and maintenance inspections, remain. Complete replacement is difficult, but introduction as support technology is progressing.
-
 Career progression from deckhand to navigation officer is standard. Accumulating sea service and obtaining a seafarer's license opens paths to captain or chief engineer.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Career progression from deckhand to navigation officer is standard. Accumulating
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foreign Crew)) | Residence status for foreign crew. Added to target fields in 2023. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies when advanced knowledge/skills are required, e.g., navigator or chief engineer. |
-| Subclass 技能 (Technical Intern Training) | When utilizing ship operation skills acquired abroad. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Start with a Fourth-Class Maritime Officer (Navigation), gain experience, the
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/deckhand-marine-technician/JP)**

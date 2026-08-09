@@ -4,8 +4,6 @@
 
 Drives passenger cars such as taxis and hired cars to safely transport passengers to their destinations. Requires geographical knowledge and customer service skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Drives passenger cars such as taxis and hired cars to safely transport passenger
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-There is a long-term risk of replacement due to advances in autonomous driving technology, but currently, labor shortages persist, and AI is at a stage where it complements work through driving assistance and dispatch optimization. Full autonomous driving is still a ways off.
-
 After joining a taxi company, gain experience and advance to lead driver or management. Independent operation is difficult, but career advancement within corporate taxi companies is possible.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After joining a taxi company, gain experience and advance to lead driver or mana
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Generally not applicable for driving jobs, but possible for management roles, etc. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not eligible for automobile transportation industry; cannot obtain |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +135,12 @@ A: By obtaining a transportation management qualification, you can aim for manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/passenger-car-driver/JP)**

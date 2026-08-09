@@ -55,8 +55,6 @@ Under the guidance of nursing and medical staff, assist patients with mental dis
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Psychiatric assistant positions face dual impacts of task replacement and augmentation from AI; paperwork is easily automated, but interpersonal care and crisis intervention are irreplaceable, overall risks and opportunities coexist.
-
 Psychiatric assistants can advance to psychiatric technician or registered nurse, requiring additional education and certification. Long-term could move into psychological counseling or social work.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Psychiatric assistants can advance to psychiatric technician or registered nurse
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually requires only a high school diploma and on-the-job training; some sta
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychiatric-aides/US)**

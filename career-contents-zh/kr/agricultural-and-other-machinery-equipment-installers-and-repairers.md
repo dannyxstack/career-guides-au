@@ -1,8 +1,8 @@
-# Agricultural and Other Machinery Equipment Installers and Repairers 职业分析 · 韩国
+# 农业及其他机械设备安装与维修人员（Agricultural and Other Machinery Equipment Installers and Repairers）职业分析 · 韩国
 
-**职业代码: 81191 (KECO)**
+**职业代码：81191 (KECO)**
 
-This occupation involves installing, inspecting, maintaining, and repairing agricultural machinery such as tractors and combines, as well as other industrial machinery.
+该职业涉及安装、检查、维护和修理农用机械（如拖拉机和联合收割机）以及其他工业机械。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves installing, inspecting, maintaining, and repairing agri
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Mechanical engineering department at a college (2-3 year program) | 2 年 | $10,000,000~$15,000,000（Tuition at national/public universities） |
-| Ministry of Employment and Labor vocational training (mechanical repair course) | 6 months | $0~$500,000（Free if government-sponsored） |
+| 学院机械工程系（2-3年制课程） | 2 年 | $10,000,000~$15,000,000（国立/公立大学学费） |
+| 雇佣劳动部职业培训（机械维修课程） | 6个月 | $0~$500,000（政府资助则免费） |
 
 ---
 
@@ -20,18 +20,18 @@ This occupation involves installing, inspecting, maintaining, and repairing agri
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Agricultural Machinery Mechanic | Human Resources Development Service of Korea | 必备 | Eligible for those with at least a 2-year college degree or work experience |
-| Agricultural Machinery Engineer | Human Resources Development Service of Korea | 可选 | Advanced license, requires experience after obtaining the basic license |
-| Excavator Operator (optional) | Human Resources Development Service of Korea | 可选 | Related field for some agricultural and heavy machinery |
+| 农业机械技工 | 韩国人力资源开发服务局 | 必备 | 至少拥有2年制大学学历或工作经验者符合条件 |
+| 农业机械工程师 | 韩国人力资源开发服务局 | 可选 | 高级执照，需在获得基本执照后有经验 |
+| 挖掘机操作员（可选） | 韩国人力资源开发服务局 | 可选 | 某些农业和重型机械的相关领域 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 35,000. As the agricultural population declines and mechanization expands, demand for skilled repairers remains, but automation and AI diagnostic technology are expected to replace some tasks.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 35,000。随着农业人口减少和机械化扩大，对熟练维修工的需求依然存在，但自动化和AI诊断技术有望取代部分任务。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,91 +39,83 @@ This occupation involves installing, inspecting, maintaining, and repairing agri
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$32,000,000 | Based on small agricultural machinery dealerships; higher at large corporations |
-| 中级 (4-7年) | $32,000,000~$40,000,000 | Additional allowance for license holders |
-| 高级（8年+） | $40,000,000~$55,000,000 | When combined with technical certification and management duties |
+| 入门级（0-3年） | $25,000,000~$32,000,000 | 基于小型农业机械经销店；大公司更高 |
+| 中级 (4-7年) | $32,000,000~$40,000,000 | 持证人员额外津贴 |
+| 高级（8年+） | $40,000,000~$55,000,000 | 当与技术认证和管理职责相结合时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation reduce repetitive tasks (e.g., parts sorting, basic diagnostics), but fully replacing human experience for adaptive field repairs and complex fault diagnosis remains difficult.
+AI和自动化减少了重复性任务（如零件分类、基本诊断），但在适应性现场维修和复杂故障诊断方面完全取代人类经验仍然困难。
 
-Career progression: entry-level repair assistant → intermediate repair technician → senior repair engineer → field supervisor or self-employed repair shop owner.
+职业发展路径：入门级维修助理 → 中级维修技师 → 高级维修工程师 → 现场主管或自营维修店老板。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic reading of basic machine anomalies
-- Input and management of maintenance history data
+- 基本机器异常的自动读取
+- 维护历史数据的输入与管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Establishing detailed repair plans based on AI diagnostic results
-- Utilizing augmented reality (AR)-based remote maintenance support
+- 基于AI诊断结果制定详细维修计划
+- 利用增强现实（AR）的远程维护支持
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site atypical fault diagnosis and repair
-- Customer communication and trust building
-- Comprehensive understanding and experience with various machines
+- 现场非典型故障诊断与维修
+- 客户沟通与信任建立
+- 对各种机器的全面理解和经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding of electrical/electronic circuits
-- Ability to use AI diagnostic tools
+- 了解电气/电子电路
+- 具备使用AI诊断工具的能力
 - 客户服务与沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of agricultural mechanization
-- Introduction of smart farming
-- Aging of maintenance workforce
-- AI-based remote diagnostics
+- 农业机械化扩展
+- 智能农业引入
+- 维护劳动力老龄化
+- 基于AI的远程诊断
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Obtainable when employed as an agricultural machinery maintenance specialist, requires meeting education and experience requirements |
-| Subclass E-9 (Non-professional Employment) | Partially possible in simple agricultural maintenance assistance, but skilled work recommended under E-7 |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay, applicable with maintenance experience |
-| Subclass F-4 (Overseas Koreans) | Open to overseas Koreans, employment possible in agricultural machinery maintenance |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy working with machinery and have manual dexterity
-- People who don't mind outdoor fieldwork
-- People who have no aversion to living in rural areas
+- 喜欢操作机械且手巧的人
+- 不介意户外现场工作的人
+- 对农村生活不排斥的人
 
 **谁不适合**
-- People who prefer office work or static environments
-- People who want high income quickly
+- 偏好办公室工作或静态环境者
+- 想快速获得高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for this occupation?**
-答：About 25–32 million KRW for entry-level; 40–55 million KRW for senior technicians with 8+ years of experience. May be higher with certifications or employment at large corporate affiliates.
+**问：该职业的年薪是多少？**
+答：入门级约2500-3200万韩元；8年以上经验的高级技术员4000-5500万韩元。持有认证或受雇于大型企业附属公司可能更高。
 
-**问：Can a foreigner get a job with an E-7 visa?**
-答：Yes, employment as a specialized agricultural machinery maintenance worker is eligible for an E-7 visa. You must meet degree (associate degree or higher) and experience requirements; Korean language skills are helpful.
+**问：外国人能凭E-7签证找到工作吗？**
+答：可以，担任专业农业机械维修工人符合E-7签证资格。需满足学历（副学士或以上）和经验要求；韩语能力有帮助。
 
 **问：需要哪些认证？**
-答：The Agricultural Machinery Maintenance Technician certification is mandatory, administered by the Human Resources Development Service of Korea. Without this certification, it's difficult to get a job as a mechanic.
+答：农业机械维修技师证书是强制性的，由韩国人力资源开发服务部颁发。没有此证书，很难找到机械师工作。
 
 
 ---
@@ -141,12 +133,12 @@ Career progression: entry-level repair assistant → intermediate repair technic
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/agricultural-and-other-machinery-equipment-installers-and-repairers/KR)**

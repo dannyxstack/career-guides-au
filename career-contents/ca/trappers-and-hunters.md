@@ -53,8 +53,6 @@ Set traps or use firearms to capture animals for fur, meat, or other by-products
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Trappers and hunters rely heavily on outdoor fieldwork and manual skills, making core hunting and trapping tasks hard to replace by AI automation, but administrative records, market analysis, and other support tasks may be reduced, and entry-level positions are shrinking due to regulations and declining demand.
-
 Usually start as an apprentice or assistant, then gain field skills and experience to work independently. Career progression is limited; may shift to wildlife management, guiding, or conservation.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Usually start as an apprentice or assistant, then gain field skills and experien
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Very difficult. This occupation is usually not on the Express Entry or PNP li
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trappers-and-hunters/CA)**

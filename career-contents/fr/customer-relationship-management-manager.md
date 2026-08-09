@@ -52,8 +52,6 @@ Responsible for formulating and executing customer relationship strategies, main
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of the Customer Relationship Manager is mixed with AI: routine customer communication and data analysis tasks face pressure to automate, while the demand for strategic relationship maintenance and complex customer experience design is amplified, requiring a shift toward higher-level human skills.
-
 Junior Customer Relationship Specialists can be promoted to Relationship Manager, Director of Customer Experience, or Director of Sales. After gaining experience, you can move into strategic consulting or business development roles, or focus on data analysis or CRM system management.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Junior Customer Relationship Specialists can be promoted to Relationship Manager
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applies to highly skilled talent, annual salary must reach 1.5 times French average wage (approx €42,000), valid for 4 years, can bring family. |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card requires an annual salary of over 53,000 euros (2024 standard), valid for 2-4 years, and can be renewed and converted to permanent residency. |
-| Subclass Salarié (Employee Work Permit) | For employment-based residence permits, the employer must provide a contract, which has been reviewed by the French Labor Bureau, valid for one year, and can be renewed. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Typically, a bachelor's degree or above is required, such as in marketing, bu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-relationship-management-manager/FR)**

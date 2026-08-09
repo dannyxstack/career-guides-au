@@ -4,8 +4,6 @@
 
 They are responsible for the daily management of hunting grounds, animal population monitoring, organizing hunting activities, and wildlife protection, serving as key technical personnel connecting ecological management with traditional hunting.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ They are responsible for the daily management of hunting grounds, animal populat
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of hunting technicians is mixed: AI can automate monitoring and data analysis, but on-site operations, animal behavior assessment, and safety management still require human experience.
-
 Workers can advance from grassroots game mechanics to game manager or wildlife management consultant, with some transitioning to ecotourism guides or reserve managers.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Workers can advance from grassroots game mechanics to game manager or wildlife m
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employer sponsorship is required, proving that suitable candidates cannot be recruited in the EU. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6 months to find a job, but you must prove your financial capability. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Must hold a hunting license issued by the autonomous region and a weapons per
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hunting-activities-skilled-workers/ES)**

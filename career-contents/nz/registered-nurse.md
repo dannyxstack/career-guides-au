@@ -51,8 +51,6 @@ Registered nurses provide care in New Zealand hospitals and communities, are on 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurse positions are enhanced rather than replaced by AI; automation will take over clerical, monitoring, and other tedious tasks, but core competencies such as clinical judgment and empathetic care will increase in value, with strong short-term demand.
-
 Path: Registered Nurse → Specialist/Senior Nurse; key steps include NCNZ registration, CAP bridging program, and English language requirements.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Path: Registered Nurse → Specialist/Senior Nurse; key steps include NCNZ regis
 
 **PR friendliness: very high (★★★★★).**
 
-**PR difficulty: low (★☆☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Yes, and it's straightforward. Registered nurses are on Green List Tier 1, ca
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-nurse/NZ)**

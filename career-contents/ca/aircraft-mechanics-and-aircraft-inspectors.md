@@ -52,8 +52,6 @@ Responsible for maintaining, repairing, and inspecting aircraft and their compon
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Can progress from apprentice to licensed technician, then to team leader or inspector. With experience, can move into aviation management, quality control, or training roles; some start their own maintenance companies.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from apprentice to licensed technician, then to team leader or insp
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario, Quebec) offer priority invitations for aviation technicians. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support a work visa, then transition to experience-based immigration |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The challenge is to complete a course or apprenticeship at a recognized train
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-mechanics-and-aircraft-inspectors/CA)**

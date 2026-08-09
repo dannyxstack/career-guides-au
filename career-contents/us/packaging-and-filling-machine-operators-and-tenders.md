@@ -54,8 +54,6 @@ Operate or monitor machines to prepare industrial or consumer goods for storage 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Packaging and filling machine operators have repetitive tasks and fixed environments; AI and automation will significantly reduce positions, requiring low cognitive skills, with very high substitution risk.
-
 Can advance from operator to senior operator, supervisor, or maintenance technician, requiring experience accumulation or certification.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from operator to senior operator, supervisor, or maintenance technic
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Employer-sponsored temporary workers, limited quotas, commonly used in seasonal food packaging industry. |
 | Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Other worker category, requires PERM, but low-skilled occupation makes sponsorship difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Very difficult; low skill level, few employer sponsors; H-2B seasonal visa av
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packaging-and-filling-machine-operators-and-tenders/US)**

@@ -1,10 +1,8 @@
-# Electrical Supervision Engineer 职业分析 · 韩国
+# 电气监理工程师（Electrical Supervision Engineer）职业分析 · 韩国
 
-**职业代码: 15315 (KECO)**
+**职业代码：15315 (KECO)**
 
-An engineer who supervises whether construction is carried out appropriately according to design documents and specifications of electrical works, and manages quality and safety.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+根据电气工程的设计文件和规格监督施工是否适当进行，并管理质量和安全的工程师。
 
 
 ---
@@ -13,8 +11,8 @@ An engineer who supervises whether construction is carried out appropriately acc
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Electrical Engineering, Junior College | 2 年 | $2,000,000~$6,000,000（Annual tuition fee standard） |
-| Department of Electrical Engineering, University | 4年 | $4,000,000~$10,000,000（Annual tuition fee standard） |
+| 电机工程系，专科 | 2 年 | $2,000,000~$6,000,000（年度学费标准） |
+| 大学电气工程系 | 4年 | $4,000,000~$10,000,000（年度学费标准） |
 
 ---
 
@@ -22,18 +20,18 @@ An engineer who supervises whether construction is carried out appropriately acc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrician Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment |
-| Electrical Construction Engineer | Human Resources Development Service of Korea | 可选 | Preferred in the supervision field |
-| Construction Electrical Professional Engineer | Human Resources Development Service of Korea | 可选 | Qualification for senior supervisor |
+| 电工工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业 |
+| 电气施工工程师 | 韩国人力资源开发服务局 | 可选 | 优先考虑具有督导经验者 |
+| 建筑电气专业工程师 | 韩国人力资源开发服务局 | 可选 | 高级主管资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 25,000. Although affected by fluctuations in the construction industry, demand is expected to remain steady due to enhanced safety management and advancement of electrical facilities.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 25,000。虽然受建筑业波动影响，但由于安全管理加强和电气设施升级，需求预计保持稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,85 @@ An engineer who supervises whether construction is carried out appropriately acc
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $35,000,000~$45,000,000 | Pre-tax annual salary basis |
-| 中级 (4-7年) | $45,000,000~$60,000,000 | Pre-tax annual salary basis |
-| 高级（8年+） | $60,000,000~$80,000,000 | Pre-tax annual salary basis |
+| 初级 (0-3年) | $35,000,000~$45,000,000 | 年度税前工资基数 |
+| 中级 (4-7年) | $45,000,000~$60,000,000 | 年度税前工资基数 |
+| 高级（8年+） | $60,000,000~$80,000,000 | 年度税前工资基数 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used for site automation and quality inspection but cannot fully replace the judgment and experience of supervisors; work is expected to be supplemented.
+人工智能用于现场自动化和质量检查，但无法完全取代主管的判断和经验；工作预计将得到补充。
 
-Starting as a junior engineer, one can advance to intermediate and senior supervisors, and upon obtaining a professional engineer license, can also work as a chief supervisor.
+从初级工程师起步，可晋升为中级和高级主管，获得专业工程师执照后也可担任首席主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document Review and Organization
-- Simple Automated Design Review
-- Repetitive Site Inspection Records
+- 文件审核与整理
+- 简单自动化设计审查
+- 重复性现场检查记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-Based Design Review
-- Smart Sensor Data Analysis
-- Drone-Based Site Inspection
+- 基于AI的设计审查
+- 智能传感器数据分析
+- 无人机现场巡查
 
-**人类护城河:**
+**人类护城河：**
 
-- Comprehensive Judgment of Complex Electrical Facilities
-- Unstructured Site Response Ability
-- Decision Making Involving Legal Responsibility
+- 复杂电气设施的综合判断
+- 非结构化现场反应能力
+- 涉及法律责任的决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ Big Data Analysis
-- Understanding of Smart Construction Technology
-- Updating Electrical Safety Regulations
+- AI/大数据分析
+- 了解智慧施工技术
+- 更新电气安全法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction Safety
-- Smart Construction
-- Electrical Safety Management
+- 建筑安全
+- 智能建造
+- 电气安全管理
 - 可再生能源
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to foreigners with professional knowledge/skills; available in electrical supervision field |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents with few employment restrictions; can work in supervision |
-| Subclass F-4 (F-4 (Overseas Korean)) | Issued to overseas Koreans; most jobs allowed except simple labor |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone meticulous and detail-oriented
-- Someone with knowledge and experience in electrical equipment
-- Someone who communicates well on site
+- 注重细节且一丝不苟的人
+- 具备电气设备知识和经验的人
+- 善于现场沟通的人
 
 **谁不适合**
-- Someone who dislikes outdoor field work
-- Someone lacking responsibility
+- 不喜欢户外现场工作的人
+- 缺乏责任感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an electrical supervisor?**
-答：For entry-level, around 40 million KRW pre-tax; with experience and qualifications, up to 80 million KRW or more.
+**问：电气主管的平均薪资是多少？**
+答：入门级约税前4000万韩元；有经验和资质者可达8000万韩元或以上。
 
-**问：Can foreigners work as electrical supervisors?**
-答：Available on an E-7 visa but requires Korean language ability and relevant qualifications; an employer sponsor is needed.
+**问：外国人可以担任电气主管吗？**
+答：可持E-7签证获取，但需具备韩语能力和相关资质；需雇主担保。
 
-**问：Is an electrician's license essential?**
-答：It's not mandatory but advantageous for employment and promotion, especially recommended early in your career.
+**问：电工执照是必需的吗？**
+答：非强制但对就业和晋升有利，尤其建议职业生涯早期考取。
 
 
 ---
@@ -145,12 +135,12 @@ Starting as a junior engineer, one can advance to intermediate and senior superv
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-supervision-engineer/KR)**

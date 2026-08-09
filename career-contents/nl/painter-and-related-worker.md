@@ -52,8 +52,6 @@ Perform painting work on buildings, vehicles, and industrial facilities, includi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on painters and decorators is mixed: automation tools can assist with color matching, measuring, and quoting, but fine manual work and on-site adaptability require high skill levels; overall, jobs won't be largely replaced, but some low-end tasks may be reduced.
-
 You can progress from apprentice to skilled worker, and with experience become a foreman or self-employed contractor, or specialise in decorative or industrial painting.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can progress from apprentice to skilled worker, and with experience become a
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Visa) | Suitable for high-skilled immigrants, requires employer sponsorship, with an annual salary threshold of approximately €5,000/month (2025). Painters must demonstrate professional skills. |
-| Subclass Orientation Year (Orientation Year Residence Permit) | Applicable to international students who graduated in the Netherlands, allowing free work during the job-seeking period. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for higher education backgrounds and high-paying positions (annual salary ≥ €5,600/month); painters less likely to qualify. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically requires an MBO diploma in building painting, as well as a VCA safe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-related-worker/NL)**

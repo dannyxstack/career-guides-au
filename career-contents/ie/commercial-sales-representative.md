@@ -53,8 +53,6 @@ Responsible for promoting products or services to corporate clients, building cu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Junior sales can advance to senior sales manager, regional sales manager or sales director through performance. Or transition into account management or business development roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sales can advance to senior sales manager, regional sales manager or sale
 | Subclass General Employment P (General Employment Permit) | Applies to non-shortage occupations with an annual salary of no less than €30,000, requiring employer sponsorship. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to positions with annual salary above the EU threshold, usually requiring higher education qualifications, providing a more convenient residence pathway. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: High performers can advance to sales manager, regional director, or other rol
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-sales-representative/IE)**

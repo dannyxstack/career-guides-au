@@ -1,6 +1,6 @@
-# BI Analyst 职业分析 · 澳大利亚
+# BI分析师（BI Analyst）职业分析 · 澳大利亚
 
-**职业代码: 262199 (ANZSCO)**
+**职业代码：262199 (ANZSCO)**
 
 商业智能分析师通过数据可视化、报表设计和洞察挖掘，帮助企业做出数据驱动的业务决策。澳洲各行业数字化转型加速了对Power BI、Tableau和云数据仓库专业人才的需求，是数据职业中入行门槛最友好的方向之一。
 
@@ -11,9 +11,9 @@
 
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
-| Bachelor of IT / Data Science / Statistics | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| Microsoft Power BI / Tableau Desktop Certification | 1~3个月 | $200~$800（核心工具认证） |
-| Azure Data Engineer / AWS Data Analytics Cert | 2~4个月 | $300~$1,500（云平台加分项） |
+| IT/数据科学/统计学学士学位 | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
+| Microsoft Power BI / Tableau Desktop认证 | 1~3个月 | $200~$800（核心工具认证） |
+| Azure数据工程师/AWS数据分析认证 | 2~4个月 | $300~$1,500（云平台加分项） |
 
 ---
 
@@ -21,18 +21,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of IT / Data Science | 认可大学 | 可选 | 入行基础 |
-| Microsoft Power BI Data Analyst Certification | Microsoft | 可选 | 最常见BI认证 |
+| IT/数据科学学士 | 认可大学 | 可选 | 入行基础 |
+| Microsoft Power BI 数据分析师认证 | Microsoft | 可选 | 最常见BI认证 |
 | Tableau Desktop Specialist / Certified Associate | Salesforce/Tableau | 可选 | 可视化认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 16,000. 澳洲企业2025-2030年持续加大数据基础设施投入，BI平台向云端迁移和自助分析民主化推动分析师需求持续增长。具备数据建模和云平台（Azure Synapse/Databricks）技能的BI工程师薪资明显高于纯报表分析师。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 16,000。澳洲企业2025-2030年持续加大数据基础设施投入，BI平台向云端迁移和自助分析民主化推动分析师需求持续增长。具备数据建模和云平台（Azure Synapse/Databricks）技能的BI工程师薪资明显高于纯报表分析师。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,30 +41,30 @@
 | 经验水平 | 年薪 (AUD) | 备注 |
 |---|---:|---|
 | 薪资中位数 | $127,972 | 全职周中位收入×52 年化（来源：ABS EEH May 2025，ANZSCO 4位） |
-| 初级（0–3年） | $65,000~$88,000 | Junior BI Analyst |
-| 中级（3~8年） | $90,000~$125,000 | BI Analyst / Developer |
-| 高级（8年+） | $128,000~$175,000 | Senior BI Engineer / Manager |
+| 初级（0–3年） | $65,000~$88,000 | 初级BI分析师 |
+| 中级（3~8年） | $90,000~$125,000 | BI分析师/开发人员 |
+| 高级（8年+） | $128,000~$175,000 | 高级BI工程师/经理 |
 | 平均薪资 | $106,600 | 全体雇员周均总现金×52 年化（来源：ABS EEH May 2025，ANZSCO 大类） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 商业智能分析师的报告生成和基础数据清洗任务将被AI加速替代，但业务解读、数据故事化和战略对齐能力反而更显稀缺；入门岗位竞争加剧，资深分析师价值上升。
 
 Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市场占有一席之地。数据仓库建模（dbt）和Python分析技能成为高级BI工程师的标配，职业路径向数据工程师和数据分析师方向延伸。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 常规仪表盘和固定报表的自动生成
 - 基础数据清洗与ETL流程
 - 描述性统计和异常值检测
 - SQL查询编写与优化（部分）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 快速原型设计和交互式数据探索
 - 自然语言查询和数据洞察生成
@@ -72,7 +72,7 @@ Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市�
 - 数据治理和元数据管理
 - 自动化报告分发与定期更新
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨部门业务理解与需求挖掘
 - 数据驱动的战略建议与决策支持
@@ -80,7 +80,7 @@ Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市�
 - 数据叙事与可视化说服力
 - 数据伦理、隐私合规判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 高级数据分析与统计建模（Python/R）
 - 云端BI工具（Power BI Service、Tableau Online）
@@ -89,16 +89,16 @@ Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市�
 - 自然语言查询与对话式BI
 - 数据治理与数据质量方法论
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Power BI & Tableau Dashboards
-- Data Lakehouse & Azure Synapse
-- Retail & E-commerce Analytics
-- Government Open Data Platforms
+- Power BI 和 Tableau 仪表盘
+- Data Lakehouse 与 Azure Synapse
+- 零售与电子商务分析
+- 政府开放数据平台
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@ Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市�
 | Subclass 186 (ENS) | 雇主担保永居；同样需匹配对应 ANZSCO 并通过 ACS 技能评估 |
 | Subclass 190 (Skilled Nominated) | 州提名；按各州清单与实际职责匹配 ICT 相关职业 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -150,12 +148,13 @@ Power BI和Tableau是澳洲最主流的BI工具，Looker和Qlik在企业级市�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bi-analyst/AU)**

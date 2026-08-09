@@ -52,8 +52,6 @@ Grape growers in New Zealand are responsible for vineyard planting management, p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly boost vineyard worker productivity, especially in monitoring, data analysis, and automated irrigation, but manual labor and on-site judgment remain core. It is a skill-enhancing occupation.
-
 Grape growers can progress from entry-level to senior grower, supervisor, or vineyard manager. With experience, they can move into winemaking, wine tasting, or agricultural consulting, with a clear career path.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Grape growers can progress from entry-level to senior grower, supervisor, or vin
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category: requires meeting points under the 6-point system; usually needs employer sponsorship. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa for temporary work, with potential to transition to residency |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires completing an NZQA-approved viticulture certificate (Level 3
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/viticulture-worker/NZ)**

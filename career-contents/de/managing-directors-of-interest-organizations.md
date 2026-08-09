@@ -53,8 +53,6 @@ Responsible for leading industry associations, unions, professional organization
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on general managers of interest organizations is mixed: routine data collation, policy tracking, and meeting minutes are easily automated, but strategic decision-making, political lobbying, and member cohesion maintenance rely heavily on human experience and trust, making overall risk moderate.
-
 Usually starting as a department head or project manager, progressing to deputy director or secretary general, and ultimately becoming executive director; some may transition to government or corporate executive roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually starting as a department head or project manager, progressing to deputy 
 | Subclass EU Blue Card (EU Blue Card for Managers) | Applies to management positions with an annual salary of at least €58,400 (2025 standard), can bring family, eligible for permanent residence after 21 months. |
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for roles matching recognized qualifications, with a lower annual salary threshold (approx. €45,000), but requires employer sponsorship. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically takes 5-10 years, depending on performance, network, and organizati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managing-directors-of-interest-organizations/DE)**

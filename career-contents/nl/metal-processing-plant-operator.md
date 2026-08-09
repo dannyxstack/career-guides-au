@@ -52,8 +52,6 @@ A metal processing plant operator is responsible for operating and maintaining e
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Parts of metal processing plant operator work (quality control, production scheduling) will be automated by AI, but on-site operations, maintenance, and exception handling rely on human experience, with both risks and opportunities.
-
 Career progression path: from junior operator to senior operator, team leader, then production supervisor or process engineer. With further training and certification, one can move into quality control or equipment maintenance.
 
 **Tasks most exposed to AI:**
@@ -98,17 +96,9 @@ Career progression path: from junior operator to senior operator, team leader, t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For skilled workers earning above the salary threshold, requires employer sponsorship. The 2025 threshold is approximately €5,008/month (over 30) or €3,672/month (under 30). |
-| Subclass EU Blue Card (EU Blue Card) | Available for highly skilled non-EU citizens requiring higher education or 5 years of relevant experience, with an annual salary threshold of approximately €5,900/month (2025). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates of Dutch universities or top 200 global universities can apply for a one-year job-seeking visa, and can convert to a work residence permit after finding a job. |
-| Subclass EU Freedom of Moveme (EU/EEA/Swiss Citizen Free Movement) | EU/EEA/Swiss citizens can work freely in the Netherlands without a visa. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: Can advance to team leader, production supervisor, or shift to roles in quali
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-processing-plant-operator/NL)**

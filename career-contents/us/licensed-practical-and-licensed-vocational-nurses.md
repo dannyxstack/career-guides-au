@@ -54,8 +54,6 @@ Provide basic care and life support for patients in hospitals, nursing homes, cl
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI/automation on nurse practitioner tasks is mixed: some paperwork and monitoring tasks are simplified, but core bedside care and patient interaction are hard to replace, possibly increasing the need for humanized care.
-
 Can progress from enrolled nurse to registered nurse (RN) by passing RN exam; can also move to nursing management or specialist nursing (e.g., aged care).
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from enrolled nurse to registered nurse (RN) by passing RN exam; ca
 | Subclass J-1 (J-1 Exchange Visitor) | Used for cultural exchange or internships, but not long-term work |
 | Subclass TN (TN NAFTA Professional) | Registered nurses only, LPN does not qualify |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Complete a 1-2 year practical nursing diploma program and obtain a state lice
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/licensed-practical-and-licensed-vocational-nurses/US)**

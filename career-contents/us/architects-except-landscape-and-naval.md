@@ -51,8 +51,6 @@ Architects design plans for residential, office, theater, factory, and other bui
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Junior architects usually start as drafters or project assistants, progressing to project manager or senior architect with experience. After becoming a registered architect, they can practice independently or become partners, with some transitioning to urban planning or interior design.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior architects usually start as drafters or project assistants, progressing t
 | Subclass EB-2 (EB-2 Advanced Degree) | For master's degree or above or those with exceptional ability, requires PERM labor certification, green card wait is long |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to outstanding architects, requiring international recognition, no quota limit |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Common route is to first work on an H-1B work visa, then employer applies for
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architects-except-landscape-and-naval/US)**

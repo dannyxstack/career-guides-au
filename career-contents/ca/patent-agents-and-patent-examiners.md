@@ -51,8 +51,6 @@ Patent examiners review patent applications and assess whether inventions meet p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Patent examination and analysis tasks are highly structured; AI will significantly reduce entry-level positions, but complex legal judgment, invalidity analysis and strategy development still require human experts, leading to polarization within the profession.
-
 Junior patent examiners typically start with technical analysis and can advance to senior examiner, team leader, or intellectual property specialist with experience. They may also transition to the private sector as patent attorneys, requiring additional exams and registration.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior patent examiners typically start with technical analysis and can advance 
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) may nominate patent examiners through skilled migration, requiring provincial nomination and meeting requirements. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic province employer sponsorship; can apply with a job offer from a federal agency or private enterprise. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: A federal government examiner does not need a licence; to become a private pa
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patent-agents-and-patent-examiners/CA)**

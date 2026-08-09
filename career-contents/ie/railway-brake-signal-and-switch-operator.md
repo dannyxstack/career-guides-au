@@ -54,8 +54,6 @@ Responsible for operating and maintaining train brakes, signaling systems, and s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Railway brake, signal, and track switch operators face automation replacing some core tasks, but system monitoring, emergency judgment, and liability barriers delay full replacement, leading to a mixed evolution trend for the occupation.
-
 Can advance from junior operator to senior operator or supervisor, further developing into station manager or dispatch center supervisor. Some personnel transition to signal engineer or maintenance technician through internal training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior operator to senior operator or supervisor, further devel
 | Subclass General Employment P (General Employment Permit) | For non-EU citizens, requires employer sponsorship, occupation not on critical skills list, salary threshold around €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring an annual salary of around €40,000 or more; usually this occupation does not meet this unless promoted to a management position. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: With experience and passing internal exams, you can advance to supervisor or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-brake-signal-and-switch-operator/IE)**

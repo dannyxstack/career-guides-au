@@ -53,8 +53,6 @@ Install plasterboard or ceiling materials inside buildings, including acoustic t
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Drywall and ceiling installers are significantly affected by AI and automation; core tasks like measuring, cutting, and fixing can be replaced by robots or automated tools. Entry-level jobs are shrinking due to digital tools, but on-site installation still requires manual flexibility.
-
 Usually starts as an apprentice, gradually advancing to journeyman, foreman, or starting own business as a contractor. Some move into related fields like soundproofing engineering or building inspection.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually starts as an apprentice, gradually advancing to journeyman, foreman, or 
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Applicable to temporary or seasonal construction workers, but application requirements are high and slots are limited. |
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | Can apply for green card through PERM labor certification, but requires employer sponsorship and proof of labor shortage. |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, can advance from apprentice to skilled worker, supervisor, or start own 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/drywall-and-ceiling-tile-installers/US)**

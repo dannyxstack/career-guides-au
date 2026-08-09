@@ -54,8 +54,6 @@ Canadian elementary and secondary school teacher assistants (NOC 43100) have sta
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not fully replace teacher assistants but will significantly change job content: administrative records and basic tutoring will be automated, while demand for emotional support and personalized intervention will increase, shifting roles toward higher skills.
-
 Usually starts with temporary or part-time positions, which can become permanent with experience. Advancement is limited; a few become education assistant supervisors or move into administrative roles. For higher pay, consider further study to become a teacher (requires bachelor's degree + teaching certificate).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually starts with temporary or part-time positions, which can become permanent
 | Subclass PNP (Provincial Nominee Program (e.g. Ontario, BC)) | Provincial nomination adds 600 points; some provinces have targeted invitations for educational assistants; require a job offer from an employer in the province or relevant experience |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, no LMIA required; suitable for applicants with a job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually requires completing a 2-year college diploma or 1-year certificate pr
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/elementary-and-secondary-school-teacher-assistants/CA)**

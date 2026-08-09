@@ -53,8 +53,6 @@ Brewers and malt makers are responsible for the entire beer brewing process, inc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Brewers and maltsters face dual impacts from AI automation and augmentation: routine quality control and fermentation monitoring may be replaced by AI, but process innovation and flavor development will be amplified by AI tools; caution is needed regarding automation pressure on entry-level positions.
-
 Junior brewers can qualify through dual vocational training; with experience, they can advance to senior brewer, production supervisor, or brewery manager. Further study can lead to brewing technology specialist or roles in quality management and R&D.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior brewers can qualify through dual vocational training; with experience, th
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Job-seeking visa based on points system, allowing job search in Germany; applicable for those with high skill match. |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa requiring proof of financial means, suitable for those who want to come to Germany first to find brewing-related work. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Starting as a junior winemaker, can advance to senior winemaker, production s
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brewer-and-maltster/DE)**

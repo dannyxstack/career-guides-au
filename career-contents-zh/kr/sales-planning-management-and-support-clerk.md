@@ -1,8 +1,8 @@
-# Sales Planning, Management and Support Clerk 职业分析 · 韩国
+# 销售策划、管理和支持文员（Sales Planning, Management and Support Clerk）职业分析 · 韩国
 
-**职业代码: 02613 (KECO)**
+**职业代码：02613 (KECO)**
 
-A professional office worker responsible for establishing sales strategies, analyzing performance, and supporting sales activities to manage the company's sales performance.
+专业办公室职员，负责制定销售策略、分析绩效和支持销售活动以管理公司的销售业绩。
 
 
 ---
@@ -11,9 +11,9 @@ A professional office worker responsible for establishing sales strategies, anal
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College | 2 年 | $10,000,000~$15,000,000（Tuition based on national/public universities） |
-| 4-Year University | 4年 | $20,000,000~$40,000,000（Tuition based on private universities） |
-| Graduate School (Master's) | 2 年 | $30,000,000~$50,000,000（Includes MBA programs） |
+| 大专 | 2 年 | $10,000,000~$15,000,000（按国立/公立大学标准收费） |
+| 四年制大学 | 4年 | $20,000,000~$40,000,000（按私立大学标准收费） |
+| 研究生院（硕士） | 2 年 | $30,000,000~$50,000,000（包括MBA课程） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional office worker responsible for establishing sales strategies, anal
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computerized Accounting Level 2 | Korean Tax Association | 可选 | 非强制但受青睐 |
-| Secretary Level 1 | Korean Secretaries Association | 可选 | 可选 |
+| 会计电算化二级 | 韩国税务协会 | 可选 | 非强制但受青睐 |
+| 一级秘书 | 韩国秘书协会 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Due to intensified corporate competition, demand for sales efficiency is increasing, so employment is expected to remain stable, but simple analysis tasks may decrease with AI adoption.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于企业竞争加剧，对销售效率的需求增加，因此就业预计保持稳定，但简单分析任务可能因AI应用而减少。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A professional office worker responsible for establishing sales strategies, anal
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$40,000,000 | Based on large corporation starting salary |
-| Mid-level (4–9 years) | $45,000,000~$60,000,000 | 经理级别 |
-| Senior-level (10+ years) | $60,000,000~$90,000,000 | Deputy General Manager/General Manager level |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于大公司起薪 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 经理级别 |
+| 高级（10年以上经验） | $60,000,000~$90,000,000 | 副总经理/总经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI can replace some tasks like data analysis and report writing, but human roles remain crucial for customer relationship management and strategic decision-making.
+AI可以替代部分任务，如数据分析和报告撰写，但人际关系管理和战略决策中人类角色仍然至关重要。
 
-Promotions typically follow the order of Assistant Manager-Manager-Deputy General Manager-General Manager, and transition to sales planning experts or marketing strategists is possible. Job switching is also easier with experience.
+晋升通常按助理经理-经理-副总经理-总经理的顺序，可转向销售策划专家或营销策略师。有经验后跳槽也更容易。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Statistical Analysis
-- Sales Report Writing
-- Data Entry and Organization
+- 基础统计分析
+- 销售报告撰写
+- 数据录入与整理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Performance Analysis and Insight Generation
-- Customer Needs Prediction
-- Supporting Sales Strategy Development
+- 绩效分析与洞察生成
+- 客户需求预测
+- 支持销售策略制定
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic Thinking
-- Customer Relationship Building
-- Collaborative Leadership within Organizations
+- 战略思维
+- 客户关系建立
+- 组织内的协作领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis Tools (SQL, Python)
-- Understanding AI and Machine Learning
-- Presentation Skills
+- 数据分析工具（SQL、Python）
+- 理解AI与机器学习
+- 演示技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sales Strategy
-- Data Analysis
-- Customer Relationship Management
-- Digital Transformation
+- 销售策略
+- 数据分析
+- 客户关系管理
+- 数字化转型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for employment as professional in sales/management; employer recommendation required |
-| Subclass F-2 (Residence) | Long-term stay possible under points-based permanent residence; no restrictions |
-| Subclass D-10 (Job Seeking) | Allowed for job seeking after graduation; eligible for E-7 conversion later |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone interested in data analysis and strategy formulation
-- Someone with excellent communication skills
-- Someone who enjoys collaborating with various departments
+- 对数据分析和战略制定感兴趣的人
+- 沟通能力极佳的人
+- 喜欢与各部门协作的人
 
 **谁不适合**
-- Someone who dislikes repetitive office tasks
-- Someone who experiences high stress in interpersonal relationships
+- 不喜欢重复性办公室工作的人
+- 在人际关系中承受高度压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for the sales planning position?**
-答：Entry: 30-40 million KRW, Mid: 45-60 million KRW, Senior: 60-90 million KRW. There is a difference between large and small/medium companies.
+**问：销售策划职位的薪资水平如何？**
+答：入门：3000-4000万韩元，中级：4500-6000万韩元，高级：6000-9000万韩元。大公司与中小企业间存在差异。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes, E-7 (Specific Activities) visa is possible, typically requiring a degree and experience in sales/management, plus employer sponsorship.
+**问：外国人能获得此职业的工作签证吗？**
+答：是的，E-7（特定活动）签证有可能，通常需要学位和销售/管理经验，外加雇主担保。
 
-**问：Are there any educational or certification requirements for this job?**
-答：A 4-year university degree or higher is preferred; certifications in computerized accounting or secretarial work are advantageous. An MBA is also helpful.
+**问：这份工作有什么教育或认证要求吗？**
+答：优先考虑4年制大学或以上学历；计算机化会计或秘书工作认证有优势。MBA也有帮助。
 
 
 ---
@@ -142,12 +135,12 @@ Promotions typically follow the order of Assistant Manager-Manager-Deputy Genera
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sales-planning-management-and-support-clerk/KR)**

@@ -4,8 +4,6 @@
 
 Air traffic controllers are responsible for safely and efficiently directing aircraft takeoffs, landings, and flights within Spanish airspace and airport control zones, using radar and communication equipment to guide pilots, prevent collisions, and ensure safe and smooth air traffic.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Air traffic controllers are responsible for safely and efficiently directing air
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 The starting point is training trainees, and through internal promotion, they can become Radar Controllers, Approach Controllers, or Area Controllers. Senior staff may serve as supervisors, supervisors, or trainers, with a few promoted to management positions such as operations managers or leadership positions at the National Control Center.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ The starting point is training trainees, and through internal promotion, they ca
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (Highly Qualified Professional) | Suitable for highly skilled talents requiring a university degree or master's degree, with a work contract meeting the salary threshold (usually annual salary above 33,908 euros). |
-| Subclass Cuenta ajena (Work Contract (Employed)) | A Spanish employer-sponsored work contract is required, proving the position cannot be filled by a local or EU citizen, and passing the occupational shortage list or labor market test. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: A university degree (any major) is usually required, followed by attending an
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-traffic-controller/ES)**

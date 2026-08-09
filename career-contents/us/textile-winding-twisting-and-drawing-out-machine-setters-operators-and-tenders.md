@@ -53,8 +53,6 @@ Operate or monitor textile machinery to wind, twist, or stretch fibers (e.g., wo
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile winding, twisting, and drawing machine operators face high automation risk; AI and robots will take over most repetitive tasks, with job demand continuously shrinking.
-
 Typically start as operators, and with experience can advance to senior operator, team leader, or production supervisor. A few move into quality control or equipment maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as operators, and with experience can advance to senior operator
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Limited. Can advance from operator to team leader, production supervisor; a f
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-winding-twisting-and-drawing-out-machine-setters-operators-and-tenders/US)**

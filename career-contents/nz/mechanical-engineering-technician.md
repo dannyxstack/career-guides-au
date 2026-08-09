@@ -52,8 +52,6 @@ Assist mechanical engineers in designing, testing, and manufacturing mechanical 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mechanical engineering technicians face medium automation risk; repetitive drafting and testing will be replaced by AI, but design optimization and on-site problem-solving skills are enhanced, requiring proactive transition to retain career value.
-
 Starting as a junior technician, one can advance to senior technician or engineering manager with experience, or obtain professional engineer certification to transition to mechanical engineer roles. Continuous learning of new technologies such as automation and sustainable design enhances career competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior technician, one can advance to senior technician or enginee
 | Subclass SMC (Skilled Migrant Category) | Qualify for skilled migration by meeting the 6-point system (education + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, suitable for starting career in New Zealand |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires a New Zealand National Diploma in Mechanical Engineering (
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-technician/NZ)**

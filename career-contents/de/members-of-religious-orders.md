@@ -55,8 +55,6 @@ Religious brothers are members of religious orders dedicated to prayer, communit
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on religious brothers is mixed: automation may reduce administrative and literature research roles, but spiritual core tasks like prayer and hospice care still rely on humans; if used well, AI can amplify educational and social service effectiveness.
-
 Career progression typically: novice/nun → professed member → senior role (e.g., abbess). Requires long-term religious training and dedication; not suitable for those pursuing secular career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression typically: novice/nun → professed member → senior role (e
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allows job seeking or internships, but language ability and living funds must be demonstrated. |
 | Subclass Religious Worker Vis (Religious Worker Visa) | Specifically for religious workers, requiring sponsorship from a religious order and recognition by a German religious institution. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Limited career development, mainly includes administrative roles within relig
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/members-of-religious-orders/DE)**

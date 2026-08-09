@@ -53,8 +53,6 @@ Technical professions responsible for the maintenance, repair, and adjustment of
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 You can advance from junior mechanic to senior technician, team leader, or quality inspector, and after gaining experience, you can also transition to aerospace engineering or management positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can advance from junior mechanic to senior technician, team leader, or quali
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree or equivalent experience, salary threshold approximately 33,908 euros (2024) |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa (Ley 14/2013)) | Suitable for highly educated or in-demand professionals, applications are quick, and family members can be brought along |
-| Subclass Cuenta ajena (Work Contract Visa (Employed)) | Work residency sponsored by Spanish employers, applicable to those holding valid work contracts |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typically, a degree in FP Grado Superior (Higher Vocational Education) or a B
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-engine-mechanics-and-adjusters/ES)**

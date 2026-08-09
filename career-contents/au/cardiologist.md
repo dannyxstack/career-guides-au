@@ -52,8 +52,6 @@ Cardiologists are doctors who specialize in diagnosing and treating heart and va
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The impact of AI on cardiologists is mixed: diagnostic imaging and data analysis will be greatly enhanced, but core tasks like interventional procedures and patient communication are hard to replace; the profession remains high-value and stable overall.
-
 Starting as a resident medical officer, after basic training (e.g., in internal medicine) enter cardiology specialty training (usually 6-8 years), can progress to consultant cardiologist, department head, or private practice.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a resident medical officer, after basic training (e.g., in internal 
 | Subclass 482 (Temporary Skill Shortage Visa) | Temporary Skill Shortage visa, requires employer sponsorship, then can transition to 186 |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requiring employer nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically takes 12-14 years: 5-6 years medical bachelor's + 1 year internship
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cardiologist/AU)**

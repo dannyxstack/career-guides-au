@@ -49,8 +49,6 @@ A professional who prevents and manages various risks such as fires, chemical sp
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists in risk data analysis and monitoring, but on-site judgment, training, and incident response remain essential for humans and are difficult to replace.
-
 After obtaining a safety manager certificate and gaining field experience, you can grow into a plant safety general manager or consultant.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ After obtaining a safety manager certificate and gaining field experience, you c
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for employment as a safety management professional, requires skill proficiency |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible through points system, bonus for safety field experience |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +133,12 @@ A: Industrial safety engineer is the most common, and hazardous materials indust
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/risk-manager/KR)**

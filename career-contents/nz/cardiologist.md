@@ -53,8 +53,6 @@ Cardiologists are highly sought-after specialist doctors in New Zealand, respons
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on cardiologists is mixed: diagnostic imaging and data analysis will be greatly enhanced, but core tasks like interventional procedures and patient communication are hard to replace; the profession remains high-value and stable overall.
-
 After completing training, junior cardiologists can advance to consultant physicians or enter private practice. Some transition to subspecialties such as interventional cardiology or electrophysiology, or pursue academic research.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ After completing training, junior cardiologists can advance to consultant physic
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can be used as a transition, then apply for residence |
 | Subclass Green List T2 (Work to Residence Visa) | Residence permit after 2 years of work, applicable to some subspecialties. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes, must register with the Medical Council of New Zealand (MCNZ), usually vi
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cardiologist/NZ)**

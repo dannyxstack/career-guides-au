@@ -1,10 +1,8 @@
-# Road Transport Clerk 职业分析 · 韩国
+# 公路运输文员（Road Transport Clerk）职业分析 · 韩国
 
-**职业代码: 02821 (KECO)**
+**职业代码：02821 (KECO)**
 
-This occupation handles clerical tasks related to freight/passenger vehicle transport, including managing operation records, establishing transport plans, and handling customer inquiries and bookings.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+该职业处理与货运/客运车辆运输相关的行政事务，包括管理运营记录、制定运输计划以及处理客户咨询和预订。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation handles clerical tasks related to freight/passenger vehicle tran
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Employable after high school graduation） |
-| Associate degree (distribution/logistics related) | 2 年 | $8,000,000~$12,000,000（Based on tuition） |
+| 高中毕业 | 3年 | $0~$0（高中毕业后可就业） |
+| 副学士学位（配送/物流相关） | 2 年 | $8,000,000~$12,000,000（按学费计费） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation handles clerical tasks related to freight/passenger vehicle tran
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Transport Broker | Korea Transportation Safety Authority | 必备 | Mandatory for freight transport clerical work |
-| Logistics Manager (Certified) | Human Resources Development Service of Korea | 可选 | Optional certification or additional points |
+| 运输经纪人 | 韩国交通安全局 | 必备 | 货运文书工作强制要求 |
+| 物流经理（持证） | 韩国人力资源开发服务局 | 可选 | 可选认证或额外加分 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 28,000. Jobs are stable due to continuous growth in the logistics and transport industry, but digital transformation is expected to automate some tasks.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 28,000。由于物流和运输行业持续增长，工作稳定，但数字化转型预计将使部分任务自动化。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +38,86 @@ This occupation handles clerical tasks related to freight/passenger vehicle tran
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $28,000,000~$34,000,000 | Annual salary before tax, based on 40 hours/week |
-| Mid-level (4–9 years) | $34,000,000~$42,000,000 | Varies by experience |
-| 资深（10年以上） | $42,000,000~$52,000,000 | Includes managerial positions |
+| 初级（0-3年） | $28,000,000~$34,000,000 | 年薪税前，基于每周40小时 |
+| 中级（4-9年） | $34,000,000~$42,000,000 | 因经验而异 |
+| 资深（10年以上） | $42,000,000~$52,000,000 | 含管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation systems can replace a significant portion of driving records, dispatching, and customer service, reducing the demand for human workers. However, humans are still needed for handling exceptional situations and complex decision-making.
+AI和自动化系统可以取代大部分的驾驶记录、调度和客户服务，减少对人力资源的需求。但处理特殊情况复杂决策仍需人工。
 
-Initially handling administrative and reception duties, after 5–10 years of experience, one can advance to a team leader/manager or grow into a logistics planning specialist.
+最初处理行政和接待事务，经过5-10年经验后，可晋升为团队领导/经理，或发展为物流规划专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual entry of driving records
-- Basic dispatch and schedule adjustment
-- Simple Customer Phone Response
+- 手动录入驾驶记录
+- 基本调度和时间调整
+- 简单客户电话回复
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Transport route optimization analysis
-- Real-time logistics status monitoring
-- Personalized service based on customer data
+- 运输路线优化分析
+- 实时物流状态监控
+- 基于客户数据的个性化服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Handle complex customer claims
-- Responding to unexpected situations (accidents, delays)
-- Interpersonal Communication and Negotiation
+- 处理复杂的客户索赔
+- 应对意外情况（事故、延误）
+- 人际沟通与谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Logistics Data Analysis
-- Use of Transportation Management System
-- AI Tool Utilization Skills
-- Communication and Collaboration
+- 物流数据分析
+- 使用运输管理系统
+- AI工具应用技能
+- 沟通与协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increase in Logistics and Delivery Services
-- Introduction of Tachograph
-- Smart Logistics
-- Eco-friendly Transportation Management
+- 物流与配送服务的增长
+- 行车记录仪介绍
+- 智慧物流
+- 环保交通管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Limited to manufacturing, construction, agriculture, livestock, and fishing industries; difficult to acquire for transport clerks |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable but limited in logistics/transport management for skilled workers |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible via points system, includes transport clerk jobs |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and enjoys document processing
-- Interested in logistics/transport field
-- Desires office work communicating with the field
+- 注重细节，喜欢文件处理
+- 对物流/运输领域感兴趣
+- 希望从事与现场沟通的办公室工作
 
 **谁不适合**
-- Finds repetitive office tasks boring
-- Expects rapid growth and high income
+- 觉得重复的办公室工作无聊
+- 预期快速增长和高收入
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a road transport clerk?**
-答：Entry level approx. 28-34 million won, mid 34-42 million, senior 42-52 million won.
+**问：公路运输文员的平均年薪是多少？**
+答：入门级约2800-3400万韩元，中级3400-4200万，高级4200-5200万韩元。
 
-**问：Can foreigners work as road transport clerks?**
-答：Possible with E-7 visa but strict; E-9 visa not applicable. F-2 long-term residents have an advantage.
+**问：外国人可以从事道路运输文员工作吗？**
+答：E-7签证可能但严格；E-9签证不适用。F-2长期居民有优势。
 
-**问：Are there mandatory certifications?**
-答：Freight forwarder license required; logistics manager is optional but a plus.
+**问：是否有强制性认证？**
+答：需货运代理许可证；物流经理为可选加分项。
 
 
 ---
@@ -145,12 +135,12 @@ Initially handling administrative and reception duties, after 5–10 years of ex
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/road-transport-clerk/KR)**

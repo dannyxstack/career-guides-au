@@ -53,8 +53,6 @@ NDIS plan administrators manage NDIS funds on behalf of participants in non-prof
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-NDIS plan administrators are at high risk of automation. Smart invoice review, automatic budget tracking, and report generation will significantly reduce job demand; entry-level work will be replaced by AI, with fewer future positions and greater reliance on technical tools.
-
 Initially gain financial administrative experience, later transition to more specialized financial roles (e.g., certified accountant) or NDIS senior management, requiring additional New Zealand financial qualification certification.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Initially gain financial administrative experience, later transition to more spe
 | Subclass AEWV (Accredited Employer Work Visa) | Need to find a New Zealand accredited employer; this position may meet requirements for a low-skilled work visa, but immigration does not list it as a skilled migration occupation. |
 | Subclass Visitor Visa (Visitor Visa) | Generally not permitted to work, but short-term business activities allowed. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: No. This occupation is not on the New Zealand Skilled Migrant Occupation List
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ndis-plan-manager/NZ)**

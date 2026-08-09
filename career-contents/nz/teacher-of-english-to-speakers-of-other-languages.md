@@ -54,8 +54,6 @@ TESOL teachers in New Zealand teach English to non-native speakers in language s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-ESL English teachers face mixed effects from AI: tasks like language drills and writing correction are automated, but core skills such as classroom interaction, emotional support, and cross-cultural teaching remain irreplaceable; entry-level roles may face increased competition from AI tools, but highly skilled teachers become more valued.
-
 Junior teachers can progress to senior teacher, curriculum coordinator, or academic director. Some move into education management or curriculum development, or pursue higher qualifications (e.g., Master's in Applied Linguistics) to teach at university.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior teachers can progress to senior teacher, curriculum coordinator, or acade
 | Subclass SMC (Skilled Migrant Category) | If salary exceeds twice the median or you have a master's degree, you can apply for the 6-point skilled migration scheme |
 | Subclass AEWV (Accredited Employer Work Visa) | Common temporary work visa, requires approved employer sponsorship, valid for up to 3 years, convertible to residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires a bachelor's degree and a TESOL certificate (e.g., CELTA). I
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teacher-of-english-to-speakers-of-other-languages/NZ)**

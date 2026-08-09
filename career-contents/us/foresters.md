@@ -52,8 +52,6 @@ Manages public and private forest lands, balancing economic benefits with ecolog
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some data collection and monitoring tasks, but core responsibilities such as fieldwork, ecological judgment, and public interaction are difficult to replace; instead, environmental monitoring AI tools will enhance decision-making support.
-
 Starting as a field technician or ranger, can advance to senior forester, forest management supervisor, or regional resource manager, with some moving into policy or consulting roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a field technician or ranger, can advance to senior forester, forest
 | Subclass EB-2 (Employment-Based Second Preference) | Requires a master's or bachelor's plus 5 years of experience for senior or management roles |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Apply for EB-2/EB-3 via PERM, usually requires employer sponsorship |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually start as field technician or assistant forester; with experience adva
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foresters/US)**

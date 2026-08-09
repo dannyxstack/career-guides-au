@@ -52,8 +52,6 @@ Investigate, write, and report news stories and features for broadcast, newspape
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Journalists' tasks are partially automated by AI (data/transcription), but deep analysis and narrative skills remain human-dominated; overall mixed.
-
 Typically start as junior reporters or interns, progressing to senior reporter, columnist, editor, or producer. Some journalists move into freelance work or adjacent fields like PR and communications.
 
 **Tasks most exposed to AI:**
@@ -102,8 +100,6 @@ Typically start as junior reporters or interns, progressing to senior reporter, 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -144,11 +140,12 @@ A: The most common is the Skilled Worker visa, requiring employer sponsorship an
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/newspaper-and-periodical-broadcast-journalists-and-reporters/UK)**

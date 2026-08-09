@@ -55,8 +55,6 @@ Social workers provide welfare assessment, crisis intervention, case management 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on social workers is mainly augmentation rather than replacement, but entry-level positions face compression from automated administrative tasks; core human skills (empathy, crisis judgment) remain irreplaceable, and demand continues to grow with policy support.
-
 The ongoing expansion of the NDIS (covering over 600,000 people by 2026) is the biggest driver of social work employment growth in Australia, with high demand for NDIS Support Coordinators and plan management social workers. Aged care reforms following the Royal Commission are significantly increasing demand for social workers in this sector.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ The ongoing expansion of the NDIS (covering over 600,000 people by 2026) is the 
 | Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
 | Subclass 491 (Skilled Work Regional) | Social workers in remote areas are in extreme shortage, attracting 15 points and active nomination from multiple states |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both are MLTSSL shortage occupations; nurses earn slightly higher salaries ($
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-worker/AU)**

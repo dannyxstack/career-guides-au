@@ -4,8 +4,6 @@
 
 Responsible for the daily operation, monitoring, and safe operation of mechanical lifting equipment such as cable cars and cableways, ensuring passengers board and alighting smoothly and handling emergencies.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the daily operation, monitoring, and safe operation of mechanica
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on cable car operator jobs is mixed: automated monitoring and dispatch systems can take over some safety inspections and passenger management, but decisions and passenger services during sudden mechanical failures and adverse weather still require human judgment, and entry-level positions may be reduced due to automation.
-
 Junior operators can be promoted to senior operators or team leaders, and then develop into regional operations managers. Some have shifted to maintenance or safety management positions through training. Accumulate years of operational experience and safety records.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Junior operators can be promoted to senior operators or team leaders, and then d
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | This applies to third-country nationals who have obtained a work contract with a French employer and must apply for employment residence. This occupation is not in urgent need and must prove that the French party cannot fill the gap. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Applies to those with high skills or exceptional talent, but the occupation's low threshold makes it difficult to qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Typically, you need to complete vocational training related to CAP or Bac Pro
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cable-car-operator/FR)**

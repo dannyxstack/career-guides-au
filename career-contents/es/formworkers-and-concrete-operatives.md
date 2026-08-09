@@ -52,8 +52,6 @@ Formwork and concrete workers are responsible for assembling formwork, pouring, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Formwork and concrete workers face pressure from automation, but some tasks (such as formwork design) can be enhanced by AI, resulting in stable overall employment and a need for skill improvement.
-
 You can start as an apprentice or assistant, and after accumulating experience, be promoted to foreman or formwork foreman. You can also specialize in industrial concrete or decorative concrete, or start your own business to undertake subcontracting projects.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ You can start as an apprentice or assistant, and after accumulating experience, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit as employed worker) | Employed work residence sponsored by a Spanish employer requires proof that the position cannot be filled within the EU, applicable to construction worker positions. |
-| Subclass Altamente cualificad (Highly qualified professional) | Applicable to senior foreman or technical supervisor, requires university or advanced vocational diploma, salary meeting a certain threshold. |
-| Subclass Busqueda empleo (Job search visa) | Allow a 6-month stay in Spain to look for work, requiring proof of financial capability. This applies to applicants who already have an FP degree. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: A vocational education diploma from FP Grado Medio or Superior is usually req
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/formworkers-and-concrete-operatives/ES)**

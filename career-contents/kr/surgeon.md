@@ -4,8 +4,6 @@
 
 Medical professional treating diseases through surgical procedures, responsible for the entire process from diagnosis to surgery and recovery management.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Medical professional treating diseases through surgical procedures, responsible 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI contributes to improving diagnostic and surgical accuracy in areas such as image interpretation, surgical planning, and robotic surgery assistance, but it is difficult to completely replace the judgment and surgical skills of surgeons. Surgical robots are merely tools; complex decision-making and emergency response remain the core role of human doctors.
-
 After graduating from medical school, complete internship and residency (general surgery, 4 years) to obtain specialist certification, then advance to fellow, professor, or private practitioner.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ After graduating from medical school, complete internship and residency (general
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Required when a foreign doctor is invited to work at a domestic medical institution, must obtain a Korean medical license |
-| Subclass F-2 (Residence) | Long-term residence via points system, advantageous for professionals |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +135,12 @@ A: It takes a total of at least 11 years: medical school (6 years) + internship 
 | Work intensity | very high (★★★★★) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surgeon/KR)**

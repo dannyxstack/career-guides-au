@@ -1,10 +1,8 @@
-# Art Therapist 职业分析 · 韩国
+# 艺术治疗师（Art Therapist）职业分析 · 韩国
 
-**职业代码: 30694 (KECO)**
+**职业代码：30694 (KECO)**
 
-A professional who treats clients with psychological and emotional issues using art media such as music, art, and dance, primarily working in hospitals, welfare facilities, and educational institutions.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用音乐、美术、舞蹈等艺术媒介，对心理和情感问题患者进行治疗的专业人士，主要在医院、福利设施和教育机构工作。
 
 
 ---
@@ -13,7 +11,7 @@ A professional who treats clients with psychological and emotional issues using 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduate School (Master's) | 2 年 | $20,000,000~$40,000,000（Tuition based on private universities, scholarships available） |
+| 研究生院（硕士） | 2 年 | $20,000,000~$40,000,000（私立大学学费，提供奖学金） |
 
 ---
 
@@ -21,17 +19,17 @@ A professional who treats clients with psychological and emotional issues using 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Art Psychotherapist (Korean Art Psychotherapy Association) | Korean Art Psychotherapy Association | 可选 | Private certification, not mandatory |
-| Clinical Psychologist Level 2 (Human Resources Development Service of Korea) | Human Resources Development Service of Korea | 可选 | National certification, advantageous for employment |
+| 艺术心理治疗师（韩国艺术心理治疗协会） | 韩国艺术心理治疗协会 | 可选 | 私人认证，非强制 |
+| 临床心理学家2级（韩国人力资源开发服务处） | 韩国人力资源开发服务局 | 可选 | 国家认证，利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 1,200. Demand is steadily increasing due to growing social interest in mental health and an aging population, but job growth is limited as it is not recognized as an official occupation within the public healthcare system.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 1,200。由于社会对心理健康的日益关注和人口老龄化，需求稳步增长，但由于未被官方承认为公共卫生系统内的职业，就业增长有限。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,89 +37,82 @@ A professional who treats clients with psychological and emotional issues using 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $24,000,000~$32,000,000 | Based on small institutions |
-| Mid Level (4-9 years) | $35,000,000~$48,000,000 | Based on hospitals and welfare centers |
-| Senior Level (10+ years) | $45,000,000~$60,000,000 | Highly variable when operating a private center |
+| 入门级（0-3年） | $24,000,000~$32,000,000 | 基于小型机构 |
+| 中级（4-9年） | $35,000,000~$48,000,000 | 基于医院和福利中心 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 经营私人机构时波动较大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 很低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：很低（★☆☆☆☆）**
 
-AI can be used as a supplementary tool in art therapy, but the therapist's empathy and relationship building are hard to replace. AI-based analysis can assist in diagnosis, but the role of human therapists is key.
+AI可以作为艺术治疗的辅助工具，但治疗师的同理心和关系建立难以替代。基于AI的分析可以辅助诊断，但人类治疗师的角色是关键。
 
-After majoring in art therapy in graduate school and obtaining certification, one can open a private center or advance to universities and research institutes after accumulating clinical experience. Public sector recruitment is rare, requiring self-directed career development.
+在研究生阶段主修艺术治疗并获得认证后，可以开设私人中心或积累临床经验后进入大学和研究机构。公共部门招聘很少，需要自主进行职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic counseling records and documentation
-- Apply simple psychological assessment tools
+- 基本咨询记录和文档
+- 应用简单的心理评估工具
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analyze reactions during therapy sessions
-- Design personalized treatment programs
+- 分析治疗过程中的反应
+- 设计个性化治疗方案
 
-**人类护城河:**
+**人类护城河：**
 
-- Establish therapeutic relationships
-- Interpret non-verbal emotions
-- Creative intervention through art media
+- 建立治疗关系
+- 解读非语言情绪
+- 通过艺术媒介进行创意干预
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- Understanding digital therapeutics
-- Multimodal analysis
+- 数据素养
+- 了解数字疗法
+- 多模态分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mental Health
-- Aging Population
-- Psychological Counseling
-- Rehabilitation Therapy
+- 心理健康
+- 人口老龄化
+- 心理咨询
+- 康复治疗
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in art therapy, but rare |
-| Subclass F-2 (F-2 (Residence)) | Possible after obtaining points-based permanent residence, not a common route |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with deep interest and talent in the arts
-- People skilled at empathizing with others' emotions and providing emotional support
+- 对艺术有浓厚兴趣和天赋的人
+- 善于共情他人情绪并提供情感支持的人
 
 **谁不适合**
-- People who prioritize income stability
-- People who have difficulty adapting to environments requiring immediate results
+- 优先考虑收入稳定的人
+- 难以适应需要立即结果的环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an art therapist?**
-答：Approximately 24–32 million KRW for entry-level, up to 60 million KRW with experience, but varies greatly for private practice.
+**问：艺术治疗师的平均薪资是多少？**
+答：入门级约2400-3200万韩元，有经验可达6000万韩元，但私人执业差异较大。
 
-**问：Can foreigners work as art therapists in Korea?**
-答：E-7 visa can invite professionals, but Korean language proficiency and certification are required, and cases are not common.
+**问：外国人能在韩国从事艺术治疗师工作吗？**
+答：E-7签证可邀请专业人士，但需要韩语水平和认证，且案例不常见。
 
-**问：Is a graduate degree necessary to become an art therapist?**
-答：It is possible to practice with only private certifications, but a master's degree is recommended for employment in credible institutions like hospitals.
+**问：成为艺术治疗师需要研究生学位吗？**
+答：仅凭私人认证也可执业，但建议拥有硕士学位以在可信机构如医院就业。
 
 
 ---
@@ -139,12 +130,12 @@ After majoring in art therapy in graduate school and obtaining certification, on
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 很低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/art-therapist/KR)**

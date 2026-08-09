@@ -52,8 +52,6 @@ Electronic technicians install, test, and repair electronic equipment in Canada,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronic technicians face mixed impacts from AI and automation: testing and debugging tasks can be AI-enhanced, but physical operations like installation and repair still rely on humans; entry-level positions are slightly reduced due to AI tools.
-
 Junior electronics technicians can advance to senior technicians or team supervisors, and further move into engineering or project management. Obtaining industry certification (e.g., CET) can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior electronics technicians can advance to senior technicians or team supervi
 | Subclass PNP (Provincial Nominee Program) | Provincial nominees, e.g., Ontario, British Columbia, Alberta, usually require a job offer. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for applicants with job offers |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but obtaining provincial technologist certification (e.g., C.T
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronics-technologists-and-technicians/CA)**

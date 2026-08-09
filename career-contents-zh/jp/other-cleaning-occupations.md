@@ -1,8 +1,8 @@
-# Other Cleaning Occupations 职业分析 · 日本
+# 其他清洁职业（Other Cleaning Occupations）职业分析 · 日本
 
-**职业代码: 719 (JSCO)**
+**职业代码：719 (JSCO)**
 
-Engaged in cleaning buildings, facilities, roads, and other areas to maintain a clean environment. Mechanization is progressing but the occupation remains highly labor-dependent.
+从事建筑物、设施、道路等区域的清洁工作，以保持环境整洁。机械化进程正在推进，但该职业仍然高度依赖劳动力。
 
 
 ---
@@ -11,9 +11,9 @@ Engaged in cleaning buildings, facilities, roads, and other areas to maintain a 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 义务教育 | 无 | $0~$0（No educational background required） |
-| 职业培训 | 3个月 | $50,000~$100,000（Hello Work or private cleaning courses） |
-| 职业学校 | 1年 | $500,000~$1,000,000（Building Cleaning Course (optional)） |
+| 义务教育 | 无 | $0~$0（无学历要求） |
+| 职业培训 | 3个月 | $50,000~$100,000（Hello Work或私人清洁课程） |
+| 职业学校 | 1年 | $500,000~$1,000,000（建筑清洁课程（可选）） |
 
 ---
 
@@ -21,18 +21,18 @@ Engaged in cleaning buildings, facilities, roads, and other areas to maintain a 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Special training (e.g., aerial work platforms) | Business operator | 必备 | Required for specific tasks |
-| Building Cleaning Technician | Ministry of Health, Labour and Welfare | 可选 | Skill certification, graded |
-| Cleaning Work Supervisor | General Incorporated Association Japan Building Cleaning Association | 可选 | Advantageous for site management |
+| 专业培训（如高空作业平台） | 经营者 | 必备 | 特定任务所需 |
+| 建筑清洁技术员 | 厚生劳动省 | 可选 | 技能认证，分级 |
+| 清洁工作主管 | 一般社团法人日本建筑清洁协会 | 可选 | 有利于现场管理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 1,200,000. Demand is steady due to aging population and labor shortages. This is a target field for Specified Skilled Worker status, with increasing acceptance of foreign workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 1,200,000。由于人口老龄化和劳动力短缺，需求稳定。这是特定技能工人的目标领域，对外国工人的接受度不断提高。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +40,87 @@ Engaged in cleaning buildings, facilities, roads, and other areas to maintain a 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $2,500,000~$3,500,000 | Approximately ¥1,200–¥1,600 per hour |
-| Intermediate (3–10 years) | $3,500,000~$4,500,000 | Salary increase with skilled worker certification |
-| Advanced (10+ years) | $4,500,000~$6,000,000 | Further rise through management or self-employment |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 约每小时1200-1600日元 |
+| 中级（3-10年） | $3,500,000~$4,500,000 | 获得技工认证后薪资上涨 |
+| 高级（10年以上） | $4,500,000~$6,000,000 | 通过管理或自主创业进一步晋升 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Although automation through AI and robots progresses, humans will handle complex cleaning and interpersonal services. In particular, toilet cleaning and wiping down detailed areas are difficult to automate.
+尽管人工智能和机器人的自动化在推进，人类将处理复杂的清洁和人际服务。特别是厕所清洁和细节擦拭区域难以自动化。
 
-Career paths include promotion to regular employee, team leader or site manager, managerial roles at cleaning companies, or independent business ownership. Career advancement possible through certification.
+职业发展路径包括晋升为正式员工、团队领导或现场经理，清洁公司的管理职位，或自主创业。通过认证可以获得职业发展机会。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic floor cleaning
-- High-rise window cleaning (robotic)
-- Routine vacuuming
+- 自动地板清洁
+- 高层窗户清洁（机器人）
+- 日常吸尘
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Monitoring and control of cleaning robots
-- Customer service and hospitality cleaning
-- Removal of Special Stains (Manual)
+- 清洁机器人监控与管控
+- 客户服务和款待清洁
+- 特殊污渍去除（手工）
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision in detailed manual work
-- In-Person Services (Hospitality)
-- Assessment and response to hazardous locations
-- Ability to respond flexibly
+- 精细手工工作的精准度
+- 面对面服务（酒店餐饮）
+- 危险场所评估与应对
+- 灵活应对能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cleaning Robot Operation
-- Communication skills
-- Hazardous materials handling knowledge
-- English or Japanese (for foreigners)
+- 清洁机器人操作
+- 沟通能力
+- 危险品处理知识
+- 英语或日语（针对外国人）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Aging population
-- Mechanization
-- Foreign Human Resources
+- 劳动力短缺
+- 人口老龄化
+- 机械化
+- 外国人力资源
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Max 5 years work possible by passing Japanese and skills tests |
-| Subclass 技能 (Skills (Building Cleaning)) | Obtainable with 10+ years experience, path to permanent residency |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | For managerial/professional roles, requires university degree equivalent |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those confident in physical strength
-- For those meticulous and good at detailed work
-- For those who enjoy working with others
+- 适合体力自信者
+- 适合细致且擅长细节工作的人
+- 适合喜欢与他人合作的人
 
 **谁不适合**
-- For those not suited to physical labor
-- For those with a fear of heights
+- 不适合体力劳动的人
+- 针对恐高人群
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：这份工作的平均年薪是多少？**
-答：For entry-level: ¥2.5–3.5 million, mid-level: ¥3.5–4.5 million, management: ¥5 million or more.
+答：入门级：250-350万日元，中级：350-450万日元，管理层：500万日元以上。
 
-**问：Can foreigners work here?**
-答：Work is possible under Specified Skilled Worker (i) or skilled visa. Japanese language ability is required.
+**问：外国人能在这里工作吗？**
+答：可在特定技能工人(i)或技能签证下工作。需具备日语能力。
 
-**问：Are there paths to career advancement?**
-答：Gain qualifications and field experience, then advance to management or start your own business. A Building Cleaning Technician certification is useful.
+**问：有职业晋升的途径吗？**
+答：获得资质和现场经验，然后晋升到管理层或创业。持有建筑清洁技术员证书会有帮助。
 
 
 ---
@@ -145,12 +138,12 @@ Career paths include promotion to regular employee, team leader or site manager,
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-cleaning-occupations/JP)**

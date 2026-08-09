@@ -53,8 +53,6 @@ Retail salespersons sell furniture, cars, appliances, clothing, and other goods 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Can advance to sales supervisor, store manager, or regional manager; with experience, transition to wholesale or manufacturing sales; some obtain certification and enter luxury or specialty product sales.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to sales supervisor, store manager, or regional manager; with experi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Extremely difficult. This occupation usually does not meet H-1B specialty occ
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-salespersons/US)**

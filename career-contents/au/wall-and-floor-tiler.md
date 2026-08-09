@@ -54,8 +54,6 @@ Wall and Floor Tilers are responsible for laying various types of tiles on floor
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tile Layers Face Moderate Impact from AI Automation: Repetitive Measuring and Cutting Are at Risk of Replacement, but On-Site Laying, Leveling, and Custom Cuts Still Rely on Manual Skill and Judgment; AI Primarily Acts as an Efficiency Tool Rather Than a Replacement.
-
 Large-format tiles (600×600mm+) and custom mosaics are trending, raising skill requirements. The independent contractor market is active, with earnings well above employed positions.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Large-format tiles (600×600mm+) and custom mosaics are trending, raising skill 
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | 15-point regional bonus |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -172,12 +168,13 @@ A: Both have similar PR pathways. Tiling offers strong visual craftsmanship and 
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wall-and-floor-tiler/AU)**

@@ -53,8 +53,6 @@ Responsible for providing public transport services such as trains, buses, and s
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Standard tasks such as ticket sales and ticket checking will be quickly replaced by ticket machines, gates, and AI customer service, but complex inquiries and emergency response still rely on human staff, resulting in a significant reduction in positions.
-
 Can progress from frontline service officer to team leader, station manager, or move into operations management, scheduling. Internal training can qualify you as a train driver or dispatcher.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from frontline service officer to team leader, station manager, or 
 | Subclass Skilled Worker (Skilled Worker Visa) | For non-EU individuals with a German-recognized vocational qualification, employer sponsorship is required |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa allowing you to come to Germany to look for work, but this occupation is not in shortage; German language proficiency must be demonstrated. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: If holding overseas qualifications, you must pass the official German qualifi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/service-specialist-in-road-and-rail-transport/DE)**

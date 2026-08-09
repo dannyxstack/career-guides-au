@@ -51,8 +51,6 @@ Graphic designers have stable demand in cities like Auckland and Wellington, but
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Junior designer (1-3 years) can advance to senior designer (4-7 years), then to creative director (8+ years). Transitioning to UX/UI designer or digital marketing expert can broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior designer (1-3 years) can advance to senior designer (4-7 years), then to 
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a sponsoring employer to provide work, salary not below the median, up to 3 years. |
 | Subclass Green List T2 (Green List Tier 2 - Work to Residence) | Graphic design is not on the Green List and does not qualify for this pathway. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Competition is high, especially for entry-level positions. Skills in UX/UI, a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-designer/NZ)**

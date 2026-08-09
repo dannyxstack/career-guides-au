@@ -53,8 +53,6 @@ Diagnostic medical sonographers use ultrasound equipment to record images of int
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sonographer's core tasks (image acquisition and preliminary analysis) are enhanced by AI assistance, but diagnostic interpretation, patient communication, and ethical decisions still require human judgment, presenting both risks and opportunities.
-
 Junior sonographers can advance to senior technologists, department supervisors, or educators. Professional certifications (e.g., ARDMS) enhance competitiveness; some transition to ultrasound equipment sales or clinical application specialists.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior sonographers can advance to senior technologists, department supervisors,
 | Subclass EB-2 (EB-2 Advanced Degree) | Apply via PERM labor certification, suitable for master's degree holders or those with exceptional ability |
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires 2+ years of training or experience, via PERM application, long wait times |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Core certification is the ARDMS RDMS. Some areas require additional certifica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/diagnostic-medical-sonographers/US)**

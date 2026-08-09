@@ -52,8 +52,6 @@ Metal fabricators are key skilled tradespeople in New Zealand's construction and
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on metal fabrication workers is mixed: computer-aided manufacturing and robotic welding will reduce traditional roles, but AI tools improve efficiency from design to production, shifting skill demands toward CNC programming and robot collaboration.
-
 Career progression can advance from apprentice to senior technician, foreman, supervisor, or workshop manager. With experience, one can also start a business and take on subcontracts. Holding a New Zealand accredited qualification enhances competitiveness and supports immigration applications.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can advance from apprentice to senior technician, foreman, su
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, for skilled workers with employer sponsorship, can transition to residence after a period. |
 | Subclass Green List T2 (Work to Residence) | Green List Tier 2 occupation, eligible for residency after two years of work (note: Metal Fabricator is actually Tier 1, this is an alternative pathway) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually need to complete a New Zealand apprenticeship and obtain a National C
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-fabricator/NZ)**

@@ -4,8 +4,6 @@
 
 Special education teachers are responsible for providing personalized instruction and support to students with special needs (such as intellectual, sensory, emotional, or learning disabilities), often working at public or private special education centers.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Special education teachers are responsible for providing personalized instructio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Career development paths include promotion from classroom teacher to special education coordinator, educational psychologist, or education management positions. You can also enter university research or training fields by pursuing a master's or doctoral degree.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Career development paths include promotion from classroom teacher to special edu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A job contract must be provided by a Spanish school and a labor market test must be passed (exemption for shortage occupations). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | This applies to highly educated or high-income individuals, but for teachers, employer support is usually required and salary thresholds are met. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Requires a higher education degree and a work contract meeting the threshold; teaching positions may be eligible, but salary requirements are high. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: You must hold a Master of Teacher Training (Máster de Profesorado) and a cor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teacher/ES)**

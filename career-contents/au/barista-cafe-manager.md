@@ -56,8 +56,6 @@ Australia is one of the world's most mature specialty coffee markets, with Melbo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI impact on baristas and café managers is mixed: automated ordering and inventory management replace some administrative tasks, but the craft of specialty coffee and customer experience are enhanced by AI assistance (e.g., recipe optimization, training simulations).
-
 Australia's specialty coffee industry continues to move upmarket, with consumers raising the bar on coffee knowledge and quality. Plant-based milks (oat/almond) now account for 30%+ of café beverage orders in Australia. Baristas with SCA (Specialty Coffee Association) certification command a salary premium of around 15–25%; experienced café managers are in short supply in major cities.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Australia's specialty coffee industry continues to move upmarket, with consumers
 | Subclass 190 (Skilled Nominated) | State nomination; café manager positions have nomination pathways in all states |
 | Subclass 491 (Skilled Work Regional) | Regional café manager — 15 bonus points; must apply as a manager |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both can apply using ANZSCO 141111 (Cafe or Restaurant Manager) under the sam
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/barista-cafe-manager/AU)**

@@ -51,8 +51,6 @@ Plans, organizes, and coordinates resources and activities in forestry, fisherie
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The roles of forestry, fisheries, and related services managers and owners will be significantly reshaped by AI: routine data management, compliance reporting etc. are easily automated, but on-site decision-making, ecological assessment etc. that rely on direct experience and judgment still have a moat.
-
 Can progress from supervisor to regional manager or independently operate forest/fishery; higher levels handle strategic planning and policy compliance.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from supervisor to regional manager or independently operate forest
 | Subclass Graduate (Graduate visa) | Graduates work in the UK for 2-3 years to gain experience. |
 | Subclass Global Talent (Global Talent visa) | For those with outstanding achievements in sustainable forestry or fisheries |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Demand is stable, driven by environmental policies and sustainable management
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-and-proprietors-in-forestry-fishing-and-related-services/UK)**

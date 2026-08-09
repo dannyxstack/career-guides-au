@@ -4,8 +4,6 @@
 
 A farming professional who cultivates and manages horticultural crops such as vegetables, fruit trees, and flowers, performing soil management, fertilization, and pest control to increase yield and quality.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A farming professional who cultivates and manages horticultural crops such as ve
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation replace simple repetitive tasks (weed removal, irrigation, etc.), but crop growth assessment and smart farm operations are actually enhanced by AI, contributing to productivity improvement. Overall employment decreases, but demand for high-skilled labor increases.
-
 After gaining farming experience, possible to start an independent farm or transition to a smart farm technician or agricultural consultant. Advancement to large-scale farm manager is also possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After gaining farming experience, possible to start an independent farm or trans
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Employment permit system for non-professional foreign workers in agriculture |
-| Subclass E-7-1 (E-7 (Skilled Functions)) | Skilled worker (E-9 convertible) |
-| Subclass F-2-99 (Residence (F-2) point system) | Eligible for permanent residence after long-term stay |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Entry is possible with an E-9 (Non-professional Employment) visa; if recogniz
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticultural-crop-cultivator/KR)**

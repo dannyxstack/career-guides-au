@@ -52,8 +52,6 @@ Research local, regional, national, or online market conditions to gather inform
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Junior analysts can progress to Senior Analyst, Marketing Manager or Director, or transition to data science or product management. Experience can lead to professional certifications (e.g. PCM) to boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior analysts can progress to Senior Analyst, Marketing Manager or Director, o
 | Subclass EB-3 (Employment-Based Third Preference) | Green card pathway, applicable for bachelor's degree or below |
 | Subclass TN (TN Status (USMCA)) | Applicable to Canadian and Mexican citizens, relevant occupation required |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: From junior analyst to senior analyst, then market manager or director. Can a
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/market-research-analysts-and-marketing-specialists/US)**

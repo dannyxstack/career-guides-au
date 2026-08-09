@@ -51,8 +51,6 @@ A professional office worker responsible for promoting company products or servi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is replacing some tasks like data analysis, ad targeting, and content optimization, but strategic planning and creative ideas remain uniquely human, so the job itself will not disappear.
-
 Typically start at marketing/advertising agencies or corporate marketing departments, and with experience, can advance to team leader, director, or CMO.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Typically start at marketing/advertising agencies or corporate marketing departm
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for professional employment, degree and experience required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence permit, no employment restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, free to engage in employment activities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Employment is increasing with the growth of digital marketing, but competitio
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-pr-and-marketing-clerk/KR)**

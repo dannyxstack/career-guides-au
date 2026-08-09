@@ -51,8 +51,6 @@ A medical professional who diagnoses, treats, and prevents animal diseases, work
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will expand its role in image reading, diagnostic assistance, and drug prescription recommendations for veterinarians, but direct clinical judgment, surgery, and client consultation remain the unique domain of human veterinarians, rather improving work efficiency.
-
 After graduating from veterinary school and obtaining a license, career paths include working at an animal hospital, government service, research, then opening a practice or pursuing board certification.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ After graduating from veterinary school and obtaining a license, career paths in
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (Professional Foreign Workforce)) | Available for experienced veterinarians working in animal hospitals, research institutes, etc.; requires meeting degree and experience criteria |
-| Subclass F-2 (Residence (Points-based Permanent Residency)) | Long-term residence possible when meeting scores for period of stay, income, and social integration. |
-| Subclass F-4 (Overseas Korean) | Overseas Korean nationals can work at animal hospitals after obtaining a Korean veterinarian license |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Yes, you must graduate from a veterinary college (6-year program) and pass th
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/KR)**

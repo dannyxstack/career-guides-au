@@ -55,8 +55,6 @@ Perform physical labor on sheep farms including feeding, shearing, marking, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sheep farm workers' manual labour and repetitive tasks face automation replacement risks, but duties like on-site supervision and animal care still rely on human judgment; entry-level opportunities will narrow.
-
 Can progress from junior worker to senior shepherd, farm supervisor, or manager. With experience, can also move into livestock advisory roles or self-employed farming.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can progress from junior worker to senior shepherd, farm supervisor, or manager.
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | This occupation is not on the Green List unless with special skills or high salary. |
 | Subclass Working Holiday (Working Holiday Visa) | Short-term working holiday visas are common for seasonal farm work |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Starting as a junior worker, can advance to senior shepherd, farm supervisor,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheep-farm-worker/NZ)**

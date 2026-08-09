@@ -4,8 +4,6 @@
 
 The cashier supervisor is responsible for overseeing the cashier team, ensuring efficient and accurate cashier processes, handling customer complaints and special transactions, maintaining cash security, and training new employees.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ The cashier supervisor is responsible for overseeing the cashier team, ensuring 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Cashier supervisor positions will be compressed by self-checkout and AI-automated cashier systems, but soft skills tasks such as customer complaint handling, team training, and cash security supervision will amplify the value of interpersonal and supervisory work.
-
 Career Promotion Path: Cashier→ cashier supervisor→ department manager→ store manager. You can also move into customer service management, operations management, or supply chain coordination, which requires accumulating management experience and relevant training.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Career Promotion Path: Cashier→ cashier supervisor→ department manager→ st
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract from a French employer and meet labor market testing requirements. Cashier supervisors are generally not in high demand and are harder to obtain work permits. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talent, but cashier supervisors usually do not qualify unless they also have a senior management background or internal company transfer. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: You can be promoted to department manager, store manager, or move to roles su
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cashier-supervisor/FR)**

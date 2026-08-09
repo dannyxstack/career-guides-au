@@ -1,8 +1,8 @@
-# Pharmaceutical Researcher 职业分析 · 韩国
+# 药物研究员（Pharmaceutical Researcher）职业分析 · 韩国
 
-**职业代码: 12212 (KECO)**
+**职业代码：12212 (KECO)**
 
-A professional who studies the efficacy and safety of new drug development and existing medications, a key workforce in the pharmaceutical and biopharmaceutical industry.
+研究新药开发和现有药物疗效与安全性的专业人员，是制药和生物制药行业的关键劳动力。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who studies the efficacy and safety of new drug development and e
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College of Pharmacy (Pharmacist license required) | 6年 | $40,000,000~$80,000,000（Varies by national/public universities and scholarships） |
-| Master's degree (graduate school) | 2 年 | $10,000,000~$30,000,000（Research funding may be available） |
-| Doctoral degree (graduate school) | 3–4 年 | $0~$20,000,000（Mostly covered by scholarships and assistantships） |
+| 药学院（需药剂师执照） | 6年 | $40,000,000~$80,000,000（因国立/公立大学和奖学金而异） |
+| 硕士学历（研究生阶段） | 2 年 | $10,000,000~$30,000,000（可能提供研究经费） |
+| 博士学位（研究生院） | 3–4 年 | $0~$20,000,000（主要由奖学金和助学金覆盖） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who studies the efficacy and safety of new drug development and e
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pharmacist license | Ministry of Health and Welfare | 必备 | Must pass national exam after graduating from pharmacy college |
-| Laboratory safety training completion | National Research Foundation of Korea | 必备 | Mandatory legal safety education for laboratories |
-| Clinical trial expert certification (optional) | Korea Clinical Trial Industry Association | 可选 | Beneficial for employment in clinical fields |
+| 药剂师执照 | 保健福祉部 | 必备 | 必须通过药剂学院毕业后的国家考试 |
+| 实验室安全培训完成 | National Research Foundation of Korea | 必备 | 实验室强制性法律安全教育 |
+| 临床试验专家认证（可选） | 韩国临床试验行业协会 | 可选 | 有利于临床领域就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 18,000. With the growth of Korea's pharmaceutical and biopharmaceutical industry and expansion of R&D investment, demand for pharmaceutical researchers is expected to rise steadily; intensified competition in new drug development is driving active recruitment of highly skilled personnel.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 18,000。随着韩国制药和生物制药行业的发展及研发投资的扩大，对药物研究人员的需求预计将稳步增长；新药开发竞争加剧推动了对高技能人才的积极招聘。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A professional who studies the efficacy and safety of new drug development and e
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$50,000,000 | Varies based on pharmacist license holder |
-| Mid-level (4–9 years) | $50,000,000~$70,000,000 | Reflecting differences between master's and doctoral degrees |
-| Advanced (10+ years) | $70,000,000~$99,999,999 | Including leader-level allowances |
+| 初级（0-3年） | $35,000,000~$50,000,000 | 根据药剂师执照持有者而异 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 反映硕士和博士学位的差异 |
+| 高级（10年以上） | $70,000,000~$99,999,999 | 含领导级别津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is improving research efficiency in drug design, big data analysis, virtual screening, etc., but high-level professional judgment in pharmacological mechanism elucidation, clinical design, and regulatory strategy remains a human domain. Routine tasks may be replaced by AI, but the researcher's role will expand.
+AI正在提高药物设计、大数据分析、虚拟筛选等研究效率，但药理机制阐明、临床设计和监管策略方面的高水平专业判断仍是人类领域。常规任务可能被AI取代，但研究者的角色将扩大。
 
-After obtaining a master's or doctoral degree, one can advance to research institutes or graduate programs, gain experience at pharmaceutical companies, CROs, or government-funded research institutes, and advance to team leader, lab director, or C-level positions.
+获得硕士或博士学位后，可进入研究机构或研究生项目，在制药公司、CRO或政府资助的研究机构积累经验，晋升为团队负责人、实验室主任或C级职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Drug library screening
-- Statistical data processing
-- Literature search and summarization
+- 药物库筛选
+- 统计数据加工
+- 文献检索与总结
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drug design and optimization
-- Toxicity prediction
-- Personalized therapy development
+- 药物设计与优化
+- 毒性预测
+- 个性化疗法开发
 
-**人类护城河:**
+**人类护城河：**
 
-- Decision-making authority
-- Experiment design and validation
-- Regulatory agency communication
+- 决策权
+- 实验设计与验证
+- 监管机构沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI and machine learning
-- Drug design tools
-- Clinical trial design
-- Data Analysis
+- AI和机器学习
+- 药物设计工具
+- 临床试验设计
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- New drug development
-- Biopharmaceuticals
-- Clinical trials
-- Regulatory science
+- 新药开发
+- 生物制药
+- 临床试验
+- 监管科学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when hired by research institutes as a professional in the pharmaceutical and biotech field |
-| Subclass D-10 (Job seeking) | Stay for job seeking after master's or doctoral graduation |
-| Subclass F-2 (Residence) | Long-term stay and free activities possible |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with strong scientific curiosity
-- Person with persistent and meticulous analytical skills
-- Person who values collaboration and discipline
+- 具有强烈科学好奇心的人
+- 具有持久和细致分析能力的人
+- 重视协作和纪律的人
 
 **谁不适合**
-- Person who wants immediate results
-- Person who finds repetitive experiments tedious
+- 追求即时结果的人
+- 觉得重复实验繁琐的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for a pharmaceutical researcher?**
-答：For entry-level, about 35-50 million KRW; for experienced, 50-70 million KRW; and for senior researchers with over 10 years, 70-120 million KRW. It's higher at large corporations and foreign pharmaceutical companies.
+**问：医药研究员的薪资范围是多少？**
+答：入门级约3500-5000万韩元；有经验者5000-7000万韩元；10年以上高级研究员7000-1.2亿韩元。大公司和外资制药公司更高。
 
-**问：Can foreigners get a job as a pharmaceutical researcher in Korea?**
-答：Yes, it's possible. It qualifies for an E-7 visa in the pharmaceutical and biotech fields, and requires a pharmacist license or a relevant master's/doctoral degree. Korean language skills and research experience are important.
+**问：外国人能在韩国找到药物研究员的工作吗？**
+答：是的，有可能。在制药和生物技术领域符合E-7签证要求，需要药师执照或相关硕士/博士学位。韩语能力和研究经验很重要。
 
-**问：Is a pharmacist license absolutely necessary to become a pharmaceutical researcher?**
-答：Most research institutes and pharmaceutical companies require a pharmacist license, and graduation from a college of pharmacy is basic. Some basic research fields may not require a license, but competitiveness is low.
+**问：成为药物研究员是否必须持有药剂师执照？**
+答：大多数研究机构和制药公司需要药剂师执照，从药学院毕业是基础。一些基础研究领域可能不需要执照，但竞争力较低。
 
 
 ---
@@ -144,12 +137,12 @@ After obtaining a master's or doctoral degree, one can advance to research insti
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pharmaceutical-researcher/KR)**

@@ -52,8 +52,6 @@ Furniture finisher shapes, finishes, and refinishes damaged, worn, or old furnit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Furniture finishers face dual impacts from automation and AI assistance: standardized spraying can be automated, but high-precision manual finishing, color matching, and artistic restoration rely on experience and aesthetics and are currently safe; overall workload is reduced but skill requirements increase.
-
 Entry-level workers can advance to senior finisher or supervisor, or transition to furniture restoration, quality control, or start their own studio.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level workers can advance to senior finisher or supervisor, or transition 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Very difficult. This occupation usually does not meet H-1B specialty occupati
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-finishers/US)**

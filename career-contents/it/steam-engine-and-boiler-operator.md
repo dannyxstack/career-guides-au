@@ -4,8 +4,6 @@
 
 Operate and maintain steam boilers and engines to ensure safe and efficient operation of industrial, heating, or power generation systems, commonly found in manufacturing, energy, and large facilities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate and maintain steam boilers and engines to ensure safe and efficient oper
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Steam engine and boiler operators face high risk of automation replacement, especially routine tasks like monitoring, adjusting, and recording will be taken over by AI, but on-site emergency response and complex repairs still require human judgment.
-
 Career path starts as an operator, and can progress to senior operator or supervisor by obtaining a higher-grade boiler license; some move into energy management or maintenance coordination roles.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Career path starts as an operator, and can progress to senior operator or superv
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU citizens, applies through annual quota, requires employer sponsorship, occupation is not on the shortage list but can apply |
-| Subclass EU Blue Card (EU Blue Card) | Requires annual salary above the Italian average (around €28,000), applicable to high-skilled positions; boiler operators typically do not qualify. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Can progress from operator to senior operator, boiler room supervisor, or tra
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steam-engine-and-boiler-operator/IT)**

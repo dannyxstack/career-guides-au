@@ -51,8 +51,6 @@ Teach mathematics, statistics, and actuarial science courses at universities, co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Progress from lecturer to associate professor, professor; some transition to research or administrative roles, requiring continuous academic publications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from lecturer to associate professor, professor; some transition to res
 | Subclass EB-2 (Employment-Based Second Preference) | Green card for advanced degree or exceptional ability, requiring PERM labor certification |
 | Subclass O-1 (Extraordinary Ability Visa) | Applicable for outstanding researchers, need to prove international reputation |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Common; university-sponsored H-1B exempt from lottery but limited in number; 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematical-science-teachers-postsecondary/US)**

@@ -4,8 +4,6 @@
 
 Top executive who oversees strategic decision-making and organizational operations, setting and executing management goals with board or shareholder approval.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Top executive who oversees strategic decision-making and organizational operatio
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can enhance data-driven strategic decision-making for C-suite executives, but it cannot replace human judgment and leadership. It will evolve to boost productivity by leveraging AI tools.
-
 Typically promoted internally at large or mid-sized companies, advancing to CEO after completing an MBA or professional management program and serving as a division head.
 
 **Tasks most exposed to AI:**
@@ -93,15 +89,9 @@ Typically promoted internally at large or mid-sized companies, advancing to CEO 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for foreign high-level talent to serve as corporate executives, but realistically very limited |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: Typically, after earning a bachelor's degree/MBA from a prestigious universit
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/top-corporate-executive/KR)**

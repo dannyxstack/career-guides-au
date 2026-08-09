@@ -51,8 +51,6 @@ Postal and courier service managers oversee and coordinate postal, courier, and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Logistics manager positions are mixed under AI influence: automation and AI can handle a lot of repetitive planning and documentation work, but strategic decisions, cross-departmental coordination, and exception handling still require human judgment; overall risk is controllable.
-
 Usually start in entry-level positions such as mail sorter, courier, or operations supervisor, gaining experience before advancing to manager. Senior roles include regional operations director or logistics vice president. Holding relevant management certifications (e.g., CITT) can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually start in entry-level positions such as mail sorter, courier, or operatio
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario and British Columbia issue priority invitations for logistic managers |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa; must demonstrate insufficient Canadian labour supply |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No provincial license required, but industry certifications such as CITT logi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/postal-and-courier-services-managers/CA)**

@@ -50,8 +50,6 @@ A managerial role that plans, coordinates, and oversees logistics and transporta
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation replace some tasks such as route optimization, inventory management, and document processing, while areas requiring human judgment like decision-making, coordination, and emergency response are strengthened. Complete replacement is difficult.
-
 Typically promoted after 5+ years of experience in logistics/transportation; advantageous to hold certifications such as Logistics Manager or Transport Manager. Career advancement possible in large corporate logistics centers, courier companies, and ports.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Typically promoted after 5+ years of experience in logistics/transportation; adv
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Professionals in logistics management etc. eligible, if education/experience requirements met |
-| Subclass F-2 (Residence) | Points-based permanent residence, eligible after long-term stay |
-| Subclass F-4 (Overseas Koreans) | For overseas Koreans, some employment restrictions apply |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +137,12 @@ A: Promotion proceeds in the order of logistics team leader → department head 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-manager/KR)**

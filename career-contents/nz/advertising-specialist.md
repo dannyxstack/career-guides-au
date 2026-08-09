@@ -51,8 +51,6 @@ Advertising specialists plan, coordinate, and execute advertising campaigns. In 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Creative planning and client relationships for advertising specialists are hard to replace for now, but tasks like content generation, data analysis, and campaign optimization have been heavily infiltrated by AI, compressing entry-level positions.
-
 Junior advertising specialists can advance to advertising manager, digital marketing manager, or creative director, requiring skills in data analysis and programmatic buying. Certifications from Google or Facebook can enhance competitiveness; some transition to freelancing or start small ad agencies.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Junior advertising specialists can advance to advertising manager, digital marke
 | Subclass SMC (Skilled Migrant Category) | Applicable for skilled migration, must meet ANZSCO skill level and salary requirements (median annual salary around $65,000 NZD), typically requires employer sponsorship or New Zealand qualification. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for advertising specialists who have secured New Zealand accredited employer sponsorship, with salary meeting industry standards. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Typically requires a bachelor's degree in marketing, advertising, or a relate
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-specialist/NZ)**

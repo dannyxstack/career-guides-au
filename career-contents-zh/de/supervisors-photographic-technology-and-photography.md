@@ -1,6 +1,6 @@
-# Supervisors - Photographic Technology and Photography 职业分析 · 德国
+# 主管 - 摄影技术与摄影（Supervisors - Photographic Technology and Photography）职业分析 · 德国
 
-**职业代码: 2339 (KldB)**
+**职业代码：2339 (KldB)**
 
 负责监督摄影工作室、摄影技术流程，管理团队，确保摄影作品质量，协调客户需求与技术执行。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. 德国摄影市场稳定，商业摄影和在线内容需求持续增长，但自动化数码技术减少了对传统摄影的需求，就业竞争中等。
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。德国摄影市场稳定，商业摄影和在线内容需求持续增长，但自动化数码技术减少了对传统摄影的需求，就业竞争中等。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
 摄影技术与摄影监督岗位面临AI的混合影响：常规视觉质量检测和色彩校正等任务被自动化，但创意决策、客户沟通和团队领导力反而因AI工具得到增强。
 
 可从摄影助理晋升为摄影监督，再至创意总监或自主创业开设摄影工作室。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动图像色彩校正与曝光调整
 - 基于AI的视觉质量批量检测与分类
@@ -65,7 +65,7 @@
 - 照片元数据自动标注与归档
 - AI驱动的自动合成与基础修图
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI进行创意风格模拟与快速样片生成
 - 通过AI分析客户反馈优化视觉方案
@@ -73,7 +73,7 @@
 - 结合AI实时渲染预览提升客户决策效率
 - 利用AI辅助的版权与隐私合规筛查
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂光线场景的创意布光与艺术方向
 - 客户核心需求洞察与创意概念沟通
@@ -81,7 +81,7 @@
 - 不可复制的个人审美与叙事能力
 - 高风险现场拍摄的灵活应变与质量控制
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI摄影与后期工具（如Adobe Sensei、Topaz Labs）
 - Python或JavaScript基础脚本自动化
@@ -90,16 +90,16 @@
 - 团队数字化协作平台（如Frame.io）
 - AI伦理与版权法基础知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital transformation
-- Social media content
-- E-commerce photography
-- Professional services
+- 数字化转型
+- 社交媒体内容
+- 电商摄影
+- 专业服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -108,9 +108,7 @@
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | 适合有职业培训资质（如Ausbildung）的申请人，需雇主担保。 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制的找工作签证，适用于有相关资质的申请人。 |
 
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -155,11 +153,12 @@
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
 | PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-photographic-technology-and-photography/DE)**

@@ -4,8 +4,6 @@
 
 Manages the feeding, breeding, and dairy production of cattle, sheep, and other livestock, ensuring animal health and farm operational efficiency.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Manages the feeding, breeding, and dairy production of cattle, sheep, and other 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tasks of livestock and dairy producers are highly complex; AI can optimize data monitoring and automated feeding, but involves animal health assessment and on-site decision-making, resulting in overall medium risk.
-
 Can advance from farm worker to ranch manager, or transition to agricultural technology consultant; some may expand operations or venture into organic farming.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can advance from farm worker to ranch manager, or transition to agricultural tec
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | For non-EU seasonal agricultural workers, annual quota application |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens can freely work in this occupation in Italy |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can progress from worker to ranch manager or self-employed farmer, or transit
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/livestock-and-dairy-producer/IT)**

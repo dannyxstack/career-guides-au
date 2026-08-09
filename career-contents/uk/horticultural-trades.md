@@ -53,8 +53,6 @@ Horticultural workers engage in intensive cultivation of vegetables, plants, fru
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural technician/agronomist jobs are a mixed bag with AI and automation: data analysis and monitoring tasks are greatly enhanced, but on-site operations like soil sampling and equipment repair remain safe zones; entry-level roles narrow due to higher precision agriculture skill requirements.
-
 Junior workers can advance to senior horticulturists, team supervisors, or nursery managers, or specialize in organic cultivation, plant pathology, or landscape design.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior workers can advance to senior horticulturists, team supervisors, or nurse
 | Subclass Seasonal Worker (Seasonal Worker visa) | For temporary seasonal gardening work, usually 6 months, no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | Applicable to UK university graduates, allowing them to stay and work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually enter through apprenticeships or vocational courses, such as BTEC or 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/horticultural-trades/UK)**

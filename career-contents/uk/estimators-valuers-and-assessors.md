@@ -53,8 +53,6 @@ Estimators, valuers, and insurance assessors calculate potential costs for civil
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Junior estimator or trainee valuer can gain experience and advance to senior estimator, chief valuer or department manager. Some move into project management or become independent consultants. Chartered status (e.g. RICS) can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior estimator or trainee valuer can gain experience and advance to senior est
 | Subclass Scale-up (Scale-up Worker Visa) | Applicable to employees sponsored by high-growth companies, requiring an annual salary of at least £33,000 |
 | Subclass Graduate (Graduate Visa) | UK graduates can work for 2 years (PhD 3 years) without sponsorship |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: RICS (Royal Institution of Chartered Surveyors) membership is most critical, 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/estimators-valuers-and-assessors/UK)**

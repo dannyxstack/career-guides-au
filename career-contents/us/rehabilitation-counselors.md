@@ -52,8 +52,6 @@ Rehabilitation counselors help individuals facing personal, social, or vocationa
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
-
 Entry-level rehabilitation counsellors can advance to senior counsellor, program director, or clinical director. A master's degree and national certification (CRC) facilitate entry into management or private practice roles
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level rehabilitation counsellors can advance to senior counsellor, program
 | Subclass EB-2 (EB-2 Employment-Based Green Card (Advanced Degree)) | Master's degree or higher + PERM labor certification; standard green card pathway. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must demonstrate inability to find qualified US workers |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a master's degree in clinical rehabilitation counseling or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rehabilitation-counselors/US)**

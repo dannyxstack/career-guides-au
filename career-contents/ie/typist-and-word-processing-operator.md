@@ -53,8 +53,6 @@ Typists and word processing operators quickly and accurately enter and edit text
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI-driven speech-to-text, automatic document generation and intelligent proofreading systems will significantly reduce demand for pure keyboard typing, greatly compressing typist positions.
-
 Can progress from junior typist to senior word processor or administrative assistant, requiring more office software skills and industry knowledge.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior typist to senior word processor or administrative assis
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Automation is causing a decline in demand; it is recommended to learn data pr
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/typist-and-word-processing-operator/IE)**

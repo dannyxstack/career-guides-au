@@ -1,10 +1,8 @@
-# Public Health and Medical Administrator 职业分析 · 韩国
+# 公共卫生和医疗管理员（Public Health and Medical Administrator）职业分析 · 韩国
 
-**职业代码: 01341 (KECO)**
+**职业代码：01341 (KECO)**
 
-Oversees the operation and administration of medical institutions such as hospitals and nursing homes, managing finances, personnel, and service quality as a managerial professional.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+监督医院和疗养院等医疗机构的运营和管理，作为管理专业人士管理财务、人员和服务质量。
 
 
 ---
@@ -13,8 +11,8 @@ Oversees the operation and administration of medical institutions such as hospit
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Health Administration | 4年 | $4,000,000~$8,000,000（Difference between national and private universities） |
-| Master's in Hospital Management/Healthcare Management (MHA/MPH) | 2 年 | $8,000,000~$20,000,000（Based on professional graduate school standards） |
+| 健康管理学士 | 4年 | $4,000,000~$8,000,000（国立大学与私立大学的区别） |
+| 医院管理/医疗管理硕士（MHA/MPH） | 2 年 | $8,000,000~$20,000,000（基于专业研究生院标准） |
 
 ---
 
@@ -22,17 +20,17 @@ Oversees the operation and administration of medical institutions such as hospit
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical Management Specialist (Hospital Management Diagnosis Specialist) | Korean Hospital Management Association | 可选 | Additional points for certification |
-| Healthcare Information Manager | Korea Health Information Management Agency | 可选 | 非强制 |
+| 医疗管理专家（医院管理诊断专家） | 韩国医院管理协会 | 可选 | 认证额外加分 |
+| 医疗信息管理员 | Korea Health Information Management Agency | 可选 | 非强制 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. Due to aging and increasing medical demand, the demand for healthcare administrators is expected to grow steadily, with recruitment expanding mainly in large hospitals.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。由于老龄化和医疗需求增加，医疗管理人员的需求预计将稳步增长，招聘主要在大医院扩大。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,84 @@ Oversees the operation and administration of medical institutions such as hospit
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $35,000,000~$45,000,000 | Based on small-to-medium hospitals |
-| Intermediate (4–9 years) | $50,000,000~$70,000,000 | Department manager level at large hospitals |
-| Advanced (10+ years) | $80,000,000~$99,999,999 | Director/Department head level at university hospitals |
+| Beginner (0–3 years) | $35,000,000~$45,000,000 | 以中小型医院为主 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 大型医院部门经理级别 |
+| 高级（10年以上） | $80,000,000~$99,999,999 | 大学医院的主任/部门主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates data analysis and some administrative tasks, but strategic decision-making and leadership remain human domains. Healthcare managers can leverage AI as a tool to enhance efficiency.
+AI自动化数据分析及部分行政任务，但战略决策和领导力仍属人类领域。医疗管理者可将AI作为工具提升效率。
 
-Typically, after graduating from graduate school (MHA/MPH), one starts as a hospital administration intern, advancing to team leader, department head, and finally administrator; experience in medical institution accreditation is advantageous.
+通常，从研究生院（MHA/MPH）毕业后，从医院管理实习生开始，晋升至团队负责人、部门主管，最终成为管理员；医疗认证经验有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Scheduling Algorithms
-- Financial Report Generation
-- Basic Patient Data Analysis
+- 调度算法
+- 财务报表生成
+- 基本患者数据分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Workforce Optimization
-- Financial Forecasting
-- Clinical Process Improvement
+- 劳动力优化
+- 财务预测
+- 临床流程改进
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex Healthcare Policy Interpretation
-- Organizational Culture Building
-- Ethical Decision-Making
+- 复杂医疗政策解读
+- 组织文化建设
+- 伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Health Information System Utilization
-- Change Management
+- 数据分析
+- 健康信息系统应用
+- 变革管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Medical institution accreditation
-- Digital Healthcare
-- Patient Experience Management
-- Telemedicine Administration
+- 医疗机构认证
+- 数字医疗
+- 患者体验管理
+- 远程医疗管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Eligible for medical institution administrative management under E-7-1 (Professional) status; requires employment contract proof |
-| Subclass F-2 (F-2 (Residence) visa) | Possible long-term stay through points system, employment in healthcare management possible |
-| Subclass F-5 (Permanent residence visa) | No employment restrictions as permanent resident |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in organizational management and leadership
-- People with excellent understanding of healthcare systems and problem-solving skills
+- 对组织管理和领导力感兴趣的人
+- 对医疗体系理解深刻且解决问题能力出色的人
 
 **谁不适合**
-- People who find repetitive administrative tasks boring
-- People who prefer individual work over communication
+- 觉得重复行政工作无聊的人
+- 喜欢独立工作而非沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a healthcare manager?**
-答：Entry-level 35-45 million KRW, over 80 million KRW with 10 years of experience, higher in large hospitals
+**问：医疗保健管理者的平均薪资是多少？**
+答：入门级3500-4500万韩元，10年经验超过8000万韩元，大型医院更高
 
-**问：Can foreigners get a work visa for this job?**
-答：E-7 visa possible but limited, requiring active sponsorship from medical institutions and relevant degrees
+**问：外国人能获得这份工作的工作签证吗？**
+答：E-7签证有可能但有限制，需要医疗机构积极担保及相关学位
 
-**问：What is the required degree?**
-答：Generally a bachelor's degree in health administration or higher, master's (MHA) advantageous
+**问：需要什么学位？**
+答：通常要求健康管理学士或更高学历，硕士（MHA）有优势
 
 
 ---
@@ -143,12 +133,12 @@ Typically, after graduating from graduate school (MHA/MPH), one starts as a hosp
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/public-health-and-medical-administrator/KR)**

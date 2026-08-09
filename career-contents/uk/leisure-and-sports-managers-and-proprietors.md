@@ -52,8 +52,6 @@ Responsible for organizing, directing, and coordinating activities and resources
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on Leisure & Sports Managers and Owners is mixed: automation replaces administrative tasks like venue booking and inventory management, but AI enhances marketing analysis and customer experience; the moat lies in on-site management, interpersonal interaction, and creative planning.
-
 Practitioners can progress from frontline supervisor to centre manager, regional director, or self-operated leisure facilities. With experience, they can move to senior management roles in large sports venues or chain fitness groups.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Practitioners can progress from frontline supervisor to centre manager, regional
 | Subclass Scale-up (Scale-up visa) | Suitable for applicants taking on management roles in fast-growing companies, subject to salary conditions. |
 | Subclass Graduate (Graduate visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhD) after graduation, then switch to a Skilled Worker visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. This occupation is on the eligible occupation list, requiring employer s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leisure-and-sports-managers-and-proprietors/UK)**

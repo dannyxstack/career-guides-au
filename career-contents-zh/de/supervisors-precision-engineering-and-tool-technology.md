@@ -1,6 +1,6 @@
-# Supervisors - Precision Engineering and Tool Technology 职业分析 · 德国
+# 主管 - 精密工程与工具技术（Supervisors - Precision Engineering and Tool Technology）职业分析 · 德国
 
-**职业代码: 2459 (KldB)**
+**职业代码：2459 (KldB)**
 
 负责监督和协调精密工程与工具制造领域的技术工人，确保生产流程高效、质量达标，并管理团队日常工作。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 25,000. 德国制造业持续依赖精密工程与工具技术，数字化转型带来新岗位需求，但就业稳定，受经济周期影响较小。
+**职位需求量：中高（★★★½☆）** 全国从业人数约 25,000。德国制造业持续依赖精密工程与工具技术，数字化转型带来新岗位需求，但就业稳定，受经济周期影响较小。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -48,35 +48,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 该职业监督精密制造，AI将在自动化排程、质量检测中增强效率，但团队管理、异常处理等人类判断责任难以替代，总体影响喜忧参半。
 
 可从技术工人晋升为主管，再至生产经理或技术总监，需积累经验并进修管理课程。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用AI自动生成CNC加工程序和刀具路径
 - 利用计算机视觉进行工件表面缺陷自动检测与分类
 - 通过机器学习预测设备故障并触发维护工单
 - 自动生成生产报告与质量统计图表
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI提供实时产线数据看板与异常预警，辅助快速决策
 - 基于历史数据优化加工参数与排产顺序
 - 通过数字孪生模拟新工艺，减少试错成本
 - 智能助手汇总会议纪要、分配任务，提升团队管理效率
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理复杂公差配合与多工序协调的实践经验
 - 面对突发设备故障或人员冲突的现场决断力
 - 对行业标准、安全规范的深度理解与执行监督
 - 与客户、供应商、设计部门的高效沟通与谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 工业AI应用基础（如机器学习在质检中的运用）
 - 数字孪生与仿真软件操作（如Siemens NX、Arena）
@@ -85,16 +85,16 @@
 - 人机协作流程设计与团队数字化培训
 - 跨领域技术整合与项目管理（如精益六西格玛）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Industry 4.0
-- Precision manufacturing
-- Toolmaking
-- Automation
+- 工业4.0
+- 精密制造
+- 工具制造
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -103,9 +103,7 @@
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | 适合完成德国认可的职业培训（双元制），需雇主担保 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制的求职签证，可在德国找一年工作 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -149,12 +147,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-precision-engineering-and-tool-technology/DE)**

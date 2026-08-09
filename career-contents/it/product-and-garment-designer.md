@@ -50,8 +50,6 @@ Product and fashion designers are responsible for conceiving and developing desi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The creative core of product and fashion designers is difficult to replace by AI, but AI tools (e.g., generative design, trend prediction) will greatly accelerate concept exploration, prototyping, and customization, enabling designers to produce high-quality work more efficiently, leading to more job opportunities rather than fewer.
-
 Junior designers can advance to senior designer, creative director, or brand founder; they may also specialize in areas such as sustainable design or digital fashion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior designers can advance to senior designer, creative director, or brand fou
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to highly skilled non-EU citizens; requires a work contract and an annual salary of at least approximately €25,000 |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system, applicable to non-EU workers, requires employer sponsorship |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit, applied by employer, must prove no suitable EU candidate available |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Possible via EU Blue Card (requires work contract and high salary) or Decreto
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-and-garment-designer/IT)**

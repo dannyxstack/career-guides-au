@@ -4,8 +4,6 @@
 
 A managerial position responsible for establishing a company's sales and sales strategies, managing the sales team, and overseeing the achievement of sales targets.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ A managerial position responsible for establishing a company's sales and sales s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI enhances work in sales data analysis, customer insight generation, CRM automation, etc., but human leadership and relationship building remain core. The importance of strategic decision-making and team management will grow.
-
 Typically promoted after experience as a sales representative, with potential growth to executive positions such as managing director or senior managing director, or transition to marketing or business development.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Typically promoted after experience as a sales representative, with potential gr
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when dispatched to overseas branches or hired as a specialized sales manager |
-| Subclass F-2 (F-2 (Residence)) | Free employment available for long-term residents |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Performance achievement ability, leadership, and networking within the organi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-and-sales-manager/KR)**

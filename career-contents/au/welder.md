@@ -58,8 +58,6 @@ Welders / Boilermakers cut, shape, join and repair metal components, with broad 
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Australia's defence industry expansion (AUKUS agreement), mining automation upgrades, and renewable energy structural component manufacturing are the three key demand drivers. Demand for senior welders (specialised welding, pressure vessels) continues to rise.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Australia's defence industry expansion (AUKUS agreement), mining automation upgr
 | Subclass 190 (Skilled Nominated) | State nomination, +5 points, permanent residency; SA/WA/QLD have strong demand for welders with relatively high nomination opportunities |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; temporary residents can apply for PR after 5 years; more opportunities in mining-focused states (WA/QLD) |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: Both occupations are on the MLTSSL and offer similar PR pathways. Electrician
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welder/AU)**

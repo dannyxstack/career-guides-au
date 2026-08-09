@@ -51,8 +51,6 @@ Tailors and dressmakers create, alter, and adjust custom garments such as suits,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Tailors face the dual impact of AI automation and handmade customization demand: large-scale standardized sewing tasks will be replaced, but high-end customization, creative design, and complex alteration tasks are enhanced by AI assistance, resulting in a mixed overall job outlook.
-
 Career progression includes becoming a senior tailor, studio supervisor, or launching a personal brand. Some move into garment restoration or teaching roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression includes becoming a senior tailor, studio supervisor, or laun
 | Subclass Graduate (Graduate visa) | Suitable for graduates who completed their degree in the UK, allowing them to work in the UK for 2 years. |
 | Subclass Global Talent (Global Talent visa) | Applicable to individuals with outstanding achievements or potential in the fashion field. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Junior: approx £18,000-22,000, intermediate: £23,000-30,000, senior: up to 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tailors-and-dressmakers/UK)**

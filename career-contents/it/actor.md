@@ -4,8 +4,6 @@
 
 Actors perform in theatre, film, television, or radio in Italy, requiring artistic talent and training.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Actors perform in theatre, film, television, or radio in Italy, requiring artist
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI brings mixed impacts for actors: on one hand, AI-generated virtual actors and synthetic media may replace some extras, background performances, and standardized voice acting; on the other hand, AI tools can enhance performance creation, storyboard previews, and facial animation, but core emotional expression and live interaction remain a human moat.
-
 Actors can start in supporting roles, gradually advance to lead roles, or move to behind-the-scenes positions such as director, screenwriter, or producer.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Actors can start in supporting roles, gradually advance to lead roles, or move t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a work contract and higher salary |
-| Subclass Nulla Osta (Nulla Osta (Work Visa)) | Based on work permits, requires employer sponsorship and labor market testing |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Can start as a supporting role and gradually become the lead, or transition t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/IT)**

@@ -56,8 +56,6 @@ Tax consultants (tax accountants) provide tax planning, lodgement, and complianc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will significantly improve the efficiency of tax advisors, reducing demand for basic compliance tasks, but complex tax planning, dispute resolution, and client relationship management still require humans, resulting in a 'mixed blessings' scenario.
-
 The ATO's increased enforcement of capital gains tax on cryptocurrency and cross-border taxation for foreign nationals is driving urgent demand for digital asset tax advisers. Specialised advisers in the R&D Tax Incentive are among the highest-premium roles in terms of salary.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ The ATO's increased enforcement of capital gains tax on cryptocurrency and cross
 | Subclass 190 (Skilled Nominated) | State nomination pathway |
 | Subclass 491 (Skilled Work Regional) | Remote area tax role, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: Both follow the same migration pathway (MLTSSL + CPA/CAANZ assessment); tax c
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-consultant-tax-accountant/AU)**

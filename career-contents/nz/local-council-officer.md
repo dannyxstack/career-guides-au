@@ -55,8 +55,6 @@ Local council staff work in New Zealand city/district councils in administration
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI will significantly improve administrative and data processing efficiency, but complex community decisions and compliance explanations still rely on human judgment; entry-level positions are somewhat reduced due to automation, but experienced staff are more valuable.
-
 Career development path: start as an administrative assistant or community liaison, advance to senior policy officer, compliance manager, or team leader. Some may transition to urban planning or environmental management through internal training.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career development path: start as an administrative assistant or community liais
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Development is stable but promotion is slow. Internal training can lead to pl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-council-officer/NZ)**

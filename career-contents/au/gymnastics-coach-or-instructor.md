@@ -54,8 +54,6 @@ A gymnastics coach or instructor teaches individual or group gymnastics skills, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of a gymnastics coach, such as hands-on demonstrations, safety protection, and emotional motivation, are difficult to automate, but AI has strong potential to enhance training plan development, motion analysis, administrative management, and standardized teaching, presenting a mixed outlook.
-
 Career path: start as an assistant coach, gain experience to advance to senior coach or head coach, or move into sports management, fitness coaching, or starting your own gymnastics school.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: start as an assistant coach, gain experience to advance to senior c
 |---|---|
 | Subclass 482 (Temporary Skill Shortage Visa) | Only applies to a few sport-related occupations; gymnastics coaches usually do not meet standard occupation list requirements. |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must obtain Gymnastics Australia certified coaching qualification and first a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gymnastics-coach-or-instructor/AU)**

@@ -50,8 +50,6 @@ Editors plan, coordinate, revise, or edit written materials to ensure accuracy, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Editing work is being profoundly reshaped by AI: basic proofreading and formatting tasks are automated, but fact-checking, narrative planning, and author communication—which rely on human judgment—are amplified by AI tools, creating both opportunities and challenges.
-
 Junior editors usually start as assistants, gaining experience before advancing to senior editor, content manager, or publishing manager, and may also move into digital content strategy.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior editors usually start as assistants, gaining experience before advancing 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Common pathways include the H-1B work visa, requiring a US employer sponsor; 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/editors/US)**

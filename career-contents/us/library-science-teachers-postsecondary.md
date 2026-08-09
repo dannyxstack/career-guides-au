@@ -52,8 +52,6 @@ Teaching library science courses at higher education institutions, including tea
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of librarians is being profoundly changed by AI: traditional tasks like cataloging and retrieval are rapidly automating, but jobs requiring interpersonal insight, such as user consultation and information literacy education, are expanding. Entry-level positions are narrowing due to reduced basic operations, but the librarian role is upgrading to data analysis and knowledge management, with mixed overall prospects.
-
 Typically start as Assistant Professor, progress to Associate Professor and Professor; some move to library administration or information science management. The tenure track is highly competitive.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as Assistant Professor, progress to Associate Professor and Prof
 | Subclass EB-2 (EB-2 Advanced Degree Professionals) | Having a master's or doctoral degree, can be sponsored by a university or institution for a green card. Requires PERM labor certification or national interest waiver. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Applicable to teachers with a bachelor's degree or higher, requiring a PERM labor certification. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires an ALA-accredited Master of Library and Information Scienc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-science-teachers-postsecondary/US)**

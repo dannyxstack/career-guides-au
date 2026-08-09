@@ -51,8 +51,6 @@ Diagnose, adjust, repair, or overhaul mechanical, hydraulic, and pneumatic syste
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mobile heavy equipment mechanics face mixed impacts from AI: some diagnostic and scheduling tasks can be automated, but on-site repairs and troubleshooting involving unexpected conditions still rely heavily on human experience.
-
 Career path: apprentice/technician → senior mechanic → supervisor → service manager. Certification (e.g., ASE) can increase salary and position, or specialize in specific brand equipment.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career path: apprentice/technician → senior mechanic → supervisor → servic
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically requires a high school diploma, then completion of a 1-2 year techn
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-heavy-equipment-mechanics-except-engines/US)**

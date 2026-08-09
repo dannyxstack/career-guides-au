@@ -53,8 +53,6 @@ Hospital administrative officers in public hospitals handle patient registration
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Routine administrative tasks for hospital administrative officers (e.g., patient registration, scheduling, paperwork) face high automation risk; AI and RPA will significantly compress job demand, with entry-level positions notably reduced.
-
 Junior administrative officers can advance to senior administrative officers or team supervisors, then to hospital operations coordinators or department managers. Through internal training and work experience, a few can transition to specialized fields such as health information management or finance.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior administrative officers can advance to senior administrative officers or 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: This occupation is ANZSCO Skill Level 4-5, not eligible for direct skilled mi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hospital-administration-officer/NZ)**

@@ -54,8 +54,6 @@ Specialist physicians and consultant doctors specialize in specific medical fiel
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Core diagnostic, surgical, and complex decision-making tasks for specialist doctors and consultant physicians are secure due to AI's difficulty in replacing them, but AI will significantly take over auxiliary tasks such as image analysis, literature search, and report writing, leading to efficiency gains while entry-level positions shrink, overall mixed.
-
 Career development typically starts with basic training, progresses through specialist training and registration to become a specialist doctor, then advances to consultant doctor, with potential to move into clinical leadership, research, or senior education roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career development typically starts with basic training, progresses through spec
 | Subclass Health and Care Work (Health and Care Worker visa) | Fast-track visa pathway for medical professionals, applicable to NHS and independent healthcare providers, with lower fees and priority processing. |
 | Subclass Skilled Worker (Skilled Worker visa) | If not eligible for the Health and Care Worker visa, can apply for the Skilled Worker visa with employer sponsorship, meeting salary and skill requirements. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Relatively easy. The Health and Care Worker visa can shorten the residency pe
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialist-medical-practitioners-and-consultants/UK)**

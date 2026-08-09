@@ -51,8 +51,6 @@ Operate television, video, or film cameras to record images or scenes for TV, vi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Motion graphics designer/film and video camera operator job outlook mixed: AI can automate shooting, editing tasks, but creative conception, on-site direction, and client communication rely on humans; overall risk is manageable.
-
 Typically start as photo assistant or apprentice, gain experience to advance to lead photographer or director of photography (DP), or shift to directing or production.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as photo assistant or apprentice, gain experience to advance to 
 | Subclass O-1 (Extraordinary Ability Worker) | Applicable to photographers with outstanding ability or achievement, requiring international recognition. |
 | Subclass EB-2 (Employment-Based Second Preference) | Applicable to professionals with advanced degrees or exceptional ability, requiring PERM labor certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Competition is fierce, especially in film and television. It is recommended t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/camera-operators-television-video-and-film/US)**

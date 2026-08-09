@@ -51,8 +51,6 @@ Traditional and Complementary Medicine Professionals (e.g., Chinese medicine pra
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Massage therapists rely heavily on manual palpation and personalized communication; AI cannot fully replace core massage operations. However, AI significantly enhances scheduling, client management, marketing, and basic health assessments, allowing practitioners to focus on clinical work.
-
 Practitioners can advance by gaining experience, specializing in areas like acupuncture or herbal medicine, or opening private clinics. Collaboration with mainstream healthcare institutions can broaden career development. Some transition into teaching or research.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Practitioners can advance by gaining experience, specializing in areas like acup
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU professionals, must have higher education degree and work contract, with an annual salary threshold of approximately €56,000 (2023). |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Must sign a contract with a recognized sponsoring employer; annual salary threshold varies by age (approx. 5,008 euros/month for those over 30). |
-| Subclass Orientation Year (Orientation Year (Search Year)) | Non-EU graduates with a master's degree or higher obtained in the Netherlands or designated countries can apply for a one-year job-seeking visa, and after finding a job, convert to a work residence permit. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Relatively friendly, but note that this occupation is not on the shortage lis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-professional/NL)**

@@ -52,8 +52,6 @@ Business intelligence analysts help companies make decisions through data visual
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-BI analysts' report generation and basic data cleaning tasks will be accelerated by AI, but business interpretation, data storytelling, and strategic alignment skills become more scarce; entry-level competition intensifies, senior analysts' value rises.
-
 Entry-level can progress to senior BI analyst or data manager, or move into data science or big data architecture, some into management consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level can progress to senior BI analyst or data manager, or move into data
 | Subclass SMC (Skilled Migrant Category) | 6-point system, requires employer sponsorship |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, can lead to residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Prefer Power BI or Tableau certification, SQL and Python basics, no New Zeala
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bi-analyst/NZ)**

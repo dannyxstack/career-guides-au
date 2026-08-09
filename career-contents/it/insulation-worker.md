@@ -4,8 +4,6 @@
 
 Responsible for installing insulation materials in buildings, pipes, and equipment to improve energy efficiency and control temperature.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for installing insulation materials in buildings, pipes, and equipme
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Insulators' repetitive measurement and layout tasks will be significantly reduced by AI automation, but on-site installation and material handling still rely on human flexibility.
-
 Can advance from apprentice to skilled worker, then to team supervisor or self-employed contractor; experienced individuals can transition to energy auditing or technical supervision roles.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Can advance from apprentice to skilled worker, then to team supervisor or self-e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through annual quotas, requiring employer sponsorship, with limited spots. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled workers, but insulators' salaries usually do not meet the threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: Primarily applied through the annual Decreto Flussi quota, requiring employer
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-worker/IT)**

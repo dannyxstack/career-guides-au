@@ -50,8 +50,6 @@ Professionals who cultivate and manage fruit trees such as apples, pears, and gr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-AI and automation replace some tasks such as harvesting robots, drone pest control, and smart irrigation, but tasks requiring precise judgment like pruning and sorting still rely heavily on human skill. AI plays a supporting role in labor-intensive tasks, and full automation is limited.
-
 After 5–10 years of farming experience, one may become an independent farm owner or advance to smart farm manager after completing training. Entry via return-to-farming programs is also common.
 
 **Tasks most exposed to AI:**
@@ -89,17 +87,9 @@ After 5–10 years of farming experience, one may become an independent farm own
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (Agriculture)) | Foreign workers in agriculture under EPS, stay of 4.8-9.8 months |
-| Subclass E-7 (Specific Activities (Smart Farm Experts)) | Highly skilled fruit tree cultivators, stay of over 1 year |
-| Subclass F-2 (Residence/Permanent Residence) | Long-term stay possible through points-based immigration |
-| Subclass 계절근로 (Seasonal Worker (C-4-E)) | Short-term employment of 3-5 months, concentrated during harvest |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +133,12 @@ A: After 5-10 years of experience, one can grow into an independent farm owner o
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-tree-cultivator/KR)**

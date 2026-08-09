@@ -1,10 +1,8 @@
-# Political Science Researcher 职业分析 · 韩国
+# 政治学研究员（Political Science Researcher）职业分析 · 韩国
 
-**职业代码: 11021 (KECO)**
+**职业代码：11021 (KECO)**
 
-A professional research position that systematically studies political phenomena and systems, contributing to policy development and the advancement of political theory.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+系统研究政治现象和制度，为政策制定和政治理论发展做出贡献的专业研究职位。
 
 
 ---
@@ -13,8 +11,8 @@ A professional research position that systematically studies political phenomena
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Master's degree (graduate school) | 2 年 | $20,000,000~$40,000,000（Based on national/public universities） |
-| Doctoral degree (graduate school) | 4年 | $30,000,000~$60,000,000（Based on national/public universities） |
+| 硕士学历（研究生阶段） | 2 年 | $20,000,000~$40,000,000（基于国立/公立大学） |
+| 博士学位（研究生院） | 4年 | $30,000,000~$60,000,000（基于国立/公立大学） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional research position that systematically studies political phenomena
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctoral degree | 大学 | 可选 | Not essential but advantageous for entering research positions |
-| Certified Public Labor Attorney | Human Resources Development Service of Korea | 可选 | Applicable in labor policy fields |
+| 博士学位 | 大学 | 可选 | 进入研究职位并非必需但有利 |
+| 认证劳动律师 | 韩国人力资源开发服务局 | 可选 | 适用于劳动政策领域 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 1,500. In Korea, demand driven by political and social changes is expected to lead to a slight increase in academic and policy research institutions, but regular positions are limited.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 1,500。在韩国，政治和社会变化驱动的需求预计将导致学术和政策研究机构略有增加，但固定职位有限。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,90 +38,82 @@ A professional research position that systematically studies political phenomena
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $30,000,000~$40,000,000 | Research intern or contract position |
-| Mid-level (4–9 years) | $45,000,000~$60,000,000 | Principal researcher at national policy research institutes |
-| Advanced (10+ years) | $60,000,000~$90,000,000 | 高级研究员或教授 |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 研究实习或合同职位 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 国家政策研究所首席研究员 |
+| 高级（10年以上） | $60,000,000~$90,000,000 | 高级研究员或教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI automates data processing and statistical analysis, but political theory building and context interpretation remain uniquely human domains, so overall employment is expected to be strengthened.
+AI自动化数据处理和统计分析，但政治理论构建和背景解释仍然是人类独有的领域，因此总体就业预计会加强。
 
-After obtaining a master's or doctoral degree from graduate school, one can enter research institutes, political parties, or national policy research organizations, with potential promotion to senior researcher or professor based on experience.
+获得研究生院硕士或博士学位后，可进入研究所、政党或国家政策研究机构，根据经验可能晋升为高级研究员或教授。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Statistical Processing
-- Literature Organization
-- Survey Data Coding
+- 基础统计处理
+- 文献整理
+- 调查数据编码
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Public Opinion Analysis
-- Policy Simulation
-- International Relations Pattern Analysis
+- 舆情分析
+- 政策模拟
+- 国际关系模式分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Critical Thinking
-- Context Understanding
-- Value Judgment
+- 批判性思维
+- 上下文理解
+- 价值判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Political Data Analysis with Python/R
-- Machine Learning-Based Public Opinion Prediction
-- AI Literacy
+- 使用Python/R进行政治数据分析
+- 基于机器学习的舆情预测
+- AI素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Political science
-- Policy research
-- Public Sector
-- International Relations
+- 政治学
+- 政策研究
+- 公共部门
+- 国际关系
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Targeted at invited researchers at research institutions, rare |
-| Subclass D-2 (Study abroad) | Postgraduate study abroad with job linkage |
-| Subclass F-2 (Residence) | Eligible for research positions after long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong analytical thinking
-- People interested in political and social issues
-- People skilled in writing and presentation
+- 具有较强分析思维能力的人
+- 对政治和社会问题感兴趣的人
+- 擅长写作和演示的人
 
 **谁不适合**
-- People who want quick results
-- People who dislike authoritarian environments
+- 追求快速结果的人
+- 不喜欢专制环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a political science researcher?**
-答：About 30-40 million KRW for entry-level, 60-90 million KRW for 10+ years of experience.
+**问：政治学研究员的平均薪资是多少？**
+答：入门级约3000-4000万韩元，10年以上经验6000-9000万韩元。
 
-**问：Can foreigners work as political science researchers in Korea?**
-答：Possible with E-7 visa, but requires invitation from research institution and competition is fierce. Also possible after studying on a D-2 visa.
+**问：外国人可以在韩国担任政治学研究员吗？**
+答：可能持E-7签证，但需要研究机构邀请，竞争激烈。持D-2签证学习后也可能。
 
 
 ---
@@ -141,12 +131,12 @@ After obtaining a master's or doctoral degree from graduate school, one can ente
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/political-science-researcher/KR)**

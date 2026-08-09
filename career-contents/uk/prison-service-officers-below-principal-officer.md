@@ -54,8 +54,6 @@ Prison service officers are responsible for guiding, coordinating, and participa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate the paperwork and monitoring tasks of prison service officers, but face-to-face prisoner control, crisis intervention, and legal procedural responsibilities still rely heavily on human judgment. The position will not disappear, but entry requirements will increase.
-
 Typically start as a base-level officer, then can be promoted to senior officer, principal officer, or move into management, training, special tasks (e.g., counter-terrorism).
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typically start as a base-level officer, then can be promoted to senior officer,
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can progress from officer to senior officer, principal officer, or move into 
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prison-service-officers-below-principal-officer/UK)**

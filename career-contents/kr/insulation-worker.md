@@ -51,8 +51,6 @@ A skilled professional who installs insulation materials in building walls, roof
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot completely replace insulation installation, but automated equipment (robot installation) and AI-based quality inspection will reduce repetitive tasks, while AI will enhance planning and material optimization.
-
 Starting as a junior insulation worker, one can advance to skilled worker, site manager, or technical supervisor. When construction technician experience is recognized, grades can be upgraded based on education and experience, allowing advancement into management positions.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as a junior insulation worker, one can advance to skilled worker, site 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Insulation workers are E-7-1 (Professional Skilled Personnel) target, 3 years experience and certification required |
-| Subclass E-9 (Non-professional Employment) | Insulation workers can be hired under E-9 construction quota, applies to Employment Permit System |
-| Subclass F-2 (Residence) | Skilled workers preferred when switching to points system, pre-permanent residence stage |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: By building experience and certifications (e.g., insulation technician), you 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-worker/KR)**

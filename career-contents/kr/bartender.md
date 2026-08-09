@@ -4,8 +4,6 @@
 
 A bartender is a food service professional who mixes alcoholic and non-alcoholic drinks for customers and manages bar operations and atmosphere.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A bartender is a food service professional who mixes alcoholic and non-alcoholic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists bartenders with some tasks like creative cocktail development, recipe recommendation, and inventory management, but core roles such as customer conversation, atmosphere creation, and sensory judgment must be performed by humans.
-
 Recruitment is mainly for experienced positions, and after 5–10 years in upscale hotels or premium bars, one can advance to head bartender or manager. Starting a business or winning cocktail competitions is also a career path.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Recruitment is mainly for experienced positions, and after 5–10 years in upsca
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if recognized as an expert bartender, limited to hotels etc. |
-| Subclass F-2 (F-2 (Residence)) | Free employment available for long-term residents |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Common paths are promotion to head bartender, bar manager, F&B director, or s
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bartender/KR)**

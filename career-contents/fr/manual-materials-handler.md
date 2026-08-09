@@ -4,8 +4,6 @@
 
 Manual handlers are responsible for manually handling, loading, unloading, and stacking goods or materials in warehouses, construction sites, factories, or logistics centers, making them a fundamental position in the logistics supply chain. This profession requires good physical fitness, endurance, and basic safety skills, commonly found in temporary or seasonal employment.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Manual handlers are responsible for manually handling, loading, unloading, and s
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Manual handling jobs are being significantly compressed by automated equipment (such as AGVs and robotic arms) and systems, and low-skill, purely manual jobs face significant risks of reduction, especially in France's logistics and warehousing industry.
-
 Usually starting as a temp or seasonal worker, you can be promoted to warehouse supervisor (chef d'équipe), logistics coordinator, or equipment operator (such as forklift driver). Some people pursue certifications (such as CACES) through internal training and move into technical positions. Long-term practitioners may enter logistics management or transportation scheduling, but their advancement opportunities are relatively limited.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Usually starting as a temp or seasonal worker, you can be promoted to warehouse 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | A French employer work contract (CDI) and a labor permit are required, but the occupation is not urgently needed, and the immigration office may refuse on the grounds of 'sufficient labor.' |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | This applies to foreigners who have completed their studies in France and can find a job within 12 months, but the salary is low and competitiveness is weak, making it difficult to convert to a work visa. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Common promotion paths: warehouse team leader → warehouse supervisor → lo
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manual-materials-handler/FR)**

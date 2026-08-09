@@ -54,8 +54,6 @@ Shot firers/blasters hold a blasting licence and carry out drilling and blasting
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Blasters in Australia are high-paid skilled trades; AI automation poses substitution risks for some planning and record-keeping tasks, but on-site supervision and safety responsibilities are hard to replace. Overall risk is moderate, with both opportunities and challenges.
-
 Electronic blasting systems (EBS) are gradually replacing traditional detonating cord, requiring blasters to continuously update their skills. Blasters are among the highest-paid tradespeople in Australia, with severe shortages due to high licensing barriers.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Electronic blasting systems (EBS) are gradually replacing traditional detonating
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 | Subclass 186 (ENS) | Permanent Residency |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Very easy. Licensed shot firers are among the most scarce trades in Australia
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shot-firer/AU)**

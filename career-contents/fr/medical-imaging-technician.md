@@ -51,8 +51,6 @@ Medical imaging technicians operate MRI, CT, X-ray, and other equipment, providi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although AI can automate image screening and preliminary analysis, equipment operation, patient communication, and clinical judgment still rely on human technicians, resulting in mixed job structures.
-
 You can be promoted from junior technician to senior technician or department head, or switch to specialties such as radiotherapy or ultrasound, or join equipment companies for technical support and training.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted from junior technician to senior technician or department he
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents with a master's degree or more than 5 years of experience, eligible to apply for a talent passport, valid for 4 years, and allowed to bring family members |
-| Subclass Salarié (Employee Work Permit) | A work contract from a French employer must be obtained, along with a labor permit review, applicable to regular employment |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying positions (annual salary must meet a certain threshold), with a relatively fast process, allowing for permanent residency conversion |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You must hold the National Diploma of Radiological Technologist (Diplôme d'�
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-imaging-technician/FR)**

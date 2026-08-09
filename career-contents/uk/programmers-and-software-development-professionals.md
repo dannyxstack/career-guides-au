@@ -52,8 +52,6 @@ Programmers and software development professionals design, develop, test, implem
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Common career progression: Junior Developer → Mid-level Developer → Senior Software Engineer → Tech Lead/Architect → Engineering Manager. Also possible to move into product management, DevOps, or data science.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Common career progression: Junior Developer → Mid-level Developer → Senior S
 | Subclass Scale-up (Scale-up visa) | Suitable for software developers employed by high-growth companies; employer must be a qualifying Scale-up business; job change allowed after first 6 months. |
 | Subclass Graduate (Graduate visa) | For fresh international graduates in the UK, allows staying to work for 2 years (3 for PhD) without employer sponsorship. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Not mandatory, but a degree (especially in computing) can boost job competiti
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/programmers-and-software-development-professionals/UK)**

@@ -52,8 +52,6 @@ Power plant operators operate boilers, turbines, compressors, generators, etc., 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The overall impact on power plant operators is mixed: routine monitoring and data recording tasks will be automated by AI, but critical operational decisions, emergency response, and compliance responsibilities still rely on humans; AI plays a more supportive role.
-
 Junior operators can advance to senior operators or shift supervisors through training and experience. Some can move to power plant maintenance, control room dispatching or energy management roles. Holding a national advanced certificate (NVQ Level 3) or engineering degree can accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior operators can advance to senior operators or shift supervisors through tr
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically obtained through an apprenticeship (2-4 years) leading to an NVQ Le
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/energy-plant-operatives/UK)**

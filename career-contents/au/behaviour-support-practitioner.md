@@ -54,8 +54,6 @@ Behaviour Support Practitioner designs and implements positive behaviour support
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The core tasks of behavior support practitioners (case assessment and plan development) rely on human judgment and are hard to automate; however, documentation, data analysis, and training material generation are being efficiently taken over by AI, potentially reducing demand for junior roles. Overall outlook is mixed.
-
 Pathway: Junior → Skilled → Senior/Consultant; income rises significantly through NDIS Commission capability level assessments and complex case experience.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Pathway: Junior → Skilled → Senior/Consultant; income rises significantly th
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Usually cannot migrate via skilled migration alone; if holding registration a
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/behaviour-support-practitioner/AU)**

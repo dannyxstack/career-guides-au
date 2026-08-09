@@ -4,8 +4,6 @@
 
 Selling products or services to customers over the phone in a call centre, including handling inquiries, processing orders, and maintaining customer relationships.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Selling products or services to customers over the phone in a call centre, inclu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Due to the proliferation of intelligent voice assistants and chatbots, a large number of simple repetitive tasks in call center customer service roles have been automated, significantly reducing demand, but complex complaints and emotional communication still require humans.
-
 Can be promoted from sales representative to team leader, trainer, or call center manager, or transition to telemarketing or customer relationship management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can be promoted from sales representative to team leader, trainer, or call cente
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for high-paying positions (2025 salary threshold approx. €5,334/month), requiring employer sponsorship |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for those with high education and high salary (salary threshold approx. €56,000), can bring family members |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can advance to team leader, training manager, or call centre operations manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contact-centre-salesperson/NL)**

@@ -4,8 +4,6 @@
 
 Responsible for planning, planting, maintaining, and restoring urban and rural green spaces, including parks, gardens, and road greening, using gardening tools and machinery to ensure environmental beauty and ecological balance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for planning, planting, maintaining, and restoring urban and rural g
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed benefits for green space maintenance and development workers: repetitive maintenance tasks may be replaced by automated tools, but planning, ecological restoration, and complex decision-making still require human judgment and creativity.
-
 You can be promoted from a junior worker to a team leader or technician, and by obtaining a CAP or BTS diploma, you can work in design or management, or transition to niche fields such as ecological restoration or urban agriculture.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ You can be promoted from a junior worker to a team leader or technician, and by 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a French employer sponsorship, provides a non-differential labor contract, and applies to non-urgent occupations. |
-| Subclass Talent Professionnel (Passeport Talent - Professionnel) | Suitable for professionals, requiring proof that the project benefits the French economy or culture, with high requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: A minimum CAP Diploma in Horticulture is sufficient, and BTS can hold higher 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/green-space-maintenance-and-development-worker/FR)**

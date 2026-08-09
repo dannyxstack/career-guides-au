@@ -51,8 +51,6 @@ Engaged in hand-shaping, weaving, welding, and assembling metal wires (such as i
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Wire craft makers face high automation risks. AI-driven design and manufacturing tools will gradually take over standardized modeling tasks, but complex craftsmanship and artistic creation remain the core moat.
-
 Practitioners usually start as apprentices and can be promoted to senior craftsmen or workshop leaders after gaining experience. Some outstanding artists can increase their visibility by participating in exhibitions and earning the title of Master Handicraftsman. A few may turn to teaching or starting their own brands.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Practitioners usually start as apprentices and can be promoted to senior craftsm
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for artists or craftsmen, requiring a portfolio and project plan; applicants without employer sponsorship are also acceptable |
-| Subclass Salarié (Employee Work Permit) | If employed by a French company or studio, you can apply for employment residence |
-| Subclass Carte bleue UE (EU Blue Card) | The annual salary must meet the French average, making it suitable for highly skilled artisans employed by companies, but such occupations rarely meet the threshold |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Although the handicraft industry in France is supported by traditional cultur
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wire-art-worker/FR)**

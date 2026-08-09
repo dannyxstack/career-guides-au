@@ -1,8 +1,8 @@
-# Overseas Sales Representative 职业分析 · 韩国
+# 海外销售代表（Overseas Sales Representative）职业分析 · 韩国
 
-**职业代码: 61221 (KECO)**
+**职业代码：61221 (KECO)**
 
-A professional sales role in export companies responsible for discovering overseas buyers, contract signing, and post-management, overseeing sales in the global market.
+出口公司专业销售职位，负责发现海外买家、合同签订及后续管理，监督全球市场销售。
 
 
 ---
@@ -11,9 +11,9 @@ A professional sales role in export companies responsible for discovering overse
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$12,000,000（Based on national university） |
-| 本科（学士学位） | 4年 | $16,000,000~$24,000,000（Based on national university） |
-| 硕士 | 2 年 | $24,000,000~$40,000,000（Based on national university） |
+| 副学士学位 | 2 年 | $8,000,000~$12,000,000（基于国立大学） |
+| 本科（学士学位） | 4年 | $16,000,000~$24,000,000（基于国立大学） |
+| 硕士 | 2 年 | $24,000,000~$40,000,000（基于国立大学） |
 
 ---
 
@@ -21,19 +21,19 @@ A professional sales role in export companies responsible for discovering overse
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Trade English Level 1 | Korea International Trade Association | 可选 | Official certification, preferred |
-| International Trade Specialist Level 1 | Korea International Trade Association | 可选 | Official certification, additional points |
-| TOEIC 900 or higher | ETS | 可选 | Proof of practical English proficiency |
-| Class 1 Ordinary Driver's License | National Police Agency | 可选 | Required for field work |
+| 贸易英语一级 | 韩国国际贸易协会 | 可选 | 官方认证，优先 |
+| 国际贸易专员一级 | 韩国国际贸易协会 | 可选 | 官方认证，额外加分 |
+| 托业900分以上 | ETS | 可选 | 实用英语能力证明 |
+| 一类普通驾驶执照 | 国家警察厅 | 可选 | 需要实地工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 62,000. Demand is steady due to Korea's high export dependence, but employment growth is expected to be moderate due to global economic slowdown and protectionism.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 62,000。由于韩国高度依赖出口，需求稳定，但受全球经济放缓及保护主义影响，就业增长预期温和。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +41,85 @@ A professional sales role in export companies responsible for discovering overse
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $32,000,000~$45,000,000 | SME Standard |
-| 中级（4-10年） | $48,000,000~$70,000,000 | Large Corp Standard |
-| Senior (11+ yrs) | $75,000,000~$99,999,999 | Team Lead or above |
+| 初级（0-3年） | $32,000,000~$45,000,000 | 中小企业标准 |
+| 中级（4-10年） | $48,000,000~$70,000,000 | 大型企业标准 |
+| 高级（11年以上） | $75,000,000~$99,999,999 | 团队主管及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI supports overseas sales in areas like data analysis, translation, and CRM automation, but core negotiation and relationship building are handled by humans. Thus, the role will be enhanced but not fully replaced.
+AI在数据分析、翻译和CRM自动化等领域支持海外销售，但核心谈判和关系建立由人类完成。因此，角色将会增强而非完全替代。
 
-After joining the overseas sales department of large or mid-sized companies, one can be promoted to regional team leader, overseas branch manager, or global sales executive. Experience and language skills are crucial.
+加入大型或中型企业的海外销售部门后，可晋升为区域团队负责人、海外分公司经理或全球销售主管。经验和语言技能至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple translation tasks
-- Basic market data collection
-- Standard email sending
+- 简单翻译任务
+- 基础市场数据收集
+- 标准邮件发送
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized customer proposals
-- Pricing strategy formulation
-- Contract negotiation
+- 定制化客户提案
+- 定价策略制定
+- 合同谈判
 
-**人类护城河:**
+**人类护城河：**
 
-- Customer relationship building
-- Cross-cultural negotiation
-- Strategic decision-making
+- 客户关系建设
+- 跨文化谈判
+- 战略决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Using AI Tools
-- Advanced Negotiation Skills
+- 数据分析
+- 使用AI工具
+- 高级谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Export expansion
-- New market development
-- Online business
-- Global marketing
+- 出口扩张
+- 新市场开发
+- 在线业务
+- 全球营销
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for specialized fields such as import/export, eligible for overseas sales positions |
-| Subclass F-2 (Residence) | Point-based permanent residency, long-term stay and free employment |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans, no employment restrictions in Korea |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent foreign language skills
-- People with strong negotiation and communication skills
-- Those with a global mindset
+- 具备出色外语能力的人
+- 具备较强谈判和沟通能力的人
+- 具有全球视野的人
 
 **谁不适合**
-- Those who struggle with foreign language communication
-- Those who dislike frequent business trips
+- 外语沟通困难者
+- 不喜欢频繁出差的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for an overseas sales representative?**
-答：About 32–45 million KRW for entry-level, and over 75 million KRW for 10+ years of experience.
+**问：海外销售代表的平均工资是多少？**
+答：入门级约3200-4500万韩元，10年以上经验超过7500万韩元。
 
-**问：Can foreigners work as overseas sales representatives?**
-答：It is possible with an E-7 visa, but Korean and English proficiency and relevant experience are required.
+**问：外国人能否担任海外销售代表？**
+答：持E-7签证可能可行，但需具备韩语和英语能力及相关经验。
 
-**问：What is the promotion path for an overseas sales representative?**
-答：Typically follows the order of Staff → Assistant Manager → Manager → Deputy General Manager → General Manager, and may also be selected as an overseas branch manager.
+**问：海外销售代表的晋升路径是什么？**
+答：通常遵循职员→助理经理→经理→副总经理→总经理的顺序，也可能被选为海外分公司经理。
 
 
 ---
@@ -144,12 +137,12 @@ After joining the overseas sales department of large or mid-sized companies, one
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/overseas-sales-representative/KR)**

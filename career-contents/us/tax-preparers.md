@@ -54,8 +54,6 @@ Prepares and submits tax returns for individuals or small businesses, ensuring c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI has an overall amplifying effect on tax preparers: automated tools handle data entry and basic calculations, but cannot replace tax law interpretation, complex planning, and client communication, instead boosting demand and efficiency for high-value services.
-
 Junior tax return preparers can advance to senior preparers, tax supervisors, or tax managers, or gain credentials as enrolled agents or CPAs to expand career paths.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior tax return preparers can advance to senior preparers, tax supervisors, or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Starting as a junior declarant, you can advance to senior tax declarant, tax 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tax-preparers/US)**

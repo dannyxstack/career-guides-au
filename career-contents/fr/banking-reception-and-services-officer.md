@@ -53,8 +53,6 @@ Responsible for customer reception, account opening consultation, daily transact
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bank teller/customer service roles are being rapidly replaced by digitalization and AI; self-service, online banking, and smart customer service have significantly reduced demand for traditional positions. Low entry barrier and non-skilled migration occupation, extremely high risk.
-
 You can be promoted from junior teller to Client Relationship Manager, Financial Advisor, or Branch Supervisor. Obtaining financial certifications (such as CIF) through internal training can lead to a career in wealth management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from junior teller to Client Relationship Manager, Financial
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A contract with a French company is required, with a salary at least 1.5 times that of SMIC (about 26,000 euros/year), applicable to this occupation. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | The salary must be twice that of SMIC (about 35,000 euros/year), suitable for experienced applicants. |
-| Subclass Carte bleue UE (EU Blue Card) | The salary is at least 1.5 times the French average (about 55,000 euros per year), and higher positions are usually required. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Promotion can be made through internal training to become Relationship Manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/banking-reception-and-services-officer/FR)**

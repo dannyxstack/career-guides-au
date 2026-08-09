@@ -53,8 +53,6 @@ Web designers in digital product teams handle visual design, user experience, an
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is automating layout generation and code writing in web design, but because design decisions and user experience insights still require human leadership, the role will not disappear but instead shift towards strategy and creativity.
-
 Advance from junior web designer to senior designer or UX/UI designer, then to design lead or product designer. Building full-stack skills (front-end + design) can broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Advance from junior web designer to senior designer or UX/UI designer, then to d
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Engage in ICT-related occupations; can apply for residence after 2 years of work |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by approved employer, up to 3 years, can lead to subsequent immigration |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Core skills: Figma, Adobe XD, basic HTML/CSS, UX research, responsive design.
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/web-designer-232413/NZ)**

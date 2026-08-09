@@ -53,8 +53,6 @@ Beef cattle farm workers are mainly responsible for cattle feeding, grazing, fen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Beef cattle farm workers face high automation risk; repetitive physical tasks such as grazing, cleaning, fence checking are easily replaced by robots and sensors, reducing entry-level positions, requiring upskilling or moving to adjacent occupations.
-
 Beef cattle farm workers can advance to senior stockperson or farm supervisor, and gain experience to move into beef cattle management. However, promotion opportunities are limited and may require additional training or transition to skilled occupations.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Beef cattle farm workers can advance to senior stockperson or farm supervisor, a
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Mainly Accredited Employer Work Visa (AEWV) and Recognised Seasonal Employer 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beef-cattle-farm-worker/NZ)**

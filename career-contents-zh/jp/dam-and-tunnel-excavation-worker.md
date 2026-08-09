@@ -1,10 +1,8 @@
-# Dam and Tunnel Excavation Worker 职业分析 · 日本
+# 大坝与隧道开挖工人（Dam and Tunnel Excavation Worker）职业分析 · 日本
 
-**职业代码: 683 (JSCO)**
+**职业代码：683 (JSCO)**
 
-Specialist who operates excavation machinery for large-scale civil engineering projects such as dams and tunnels.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+操作挖掘机械进行大型土木工程项目（如大坝和隧道）的专家。
 
 
 ---
@@ -13,8 +11,8 @@ Specialist who operates excavation machinery for large-scale civil engineering p
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school tuition is free） |
-| Vocational School (Civil Engineering) | 2 年 | $1,000,000~$2,000,000（Private school） |
+| 高中文凭 | 3年 | $0~$0（公立高中学费免费） |
+| 职业学校（土木工程） | 2 年 | $1,000,000~$2,000,000（私立学校） |
 
 ---
 
@@ -22,18 +20,18 @@ Specialist who operates excavation machinery for large-scale civil engineering p
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Machinery (Foundation/Frame etc.) Operation Skills Training | Prefectural Labor Bureau Director Registered Training Institution | 必备 | Required for operating backhoes, etc. |
-| Special Vehicle (Tunnel Excavation) Driver's License | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | For large excavators |
-| Blasting Technician | Ministry of Economy, Trade and Industry | 可选 | Required for handling explosives |
+| 工程机械（基础/框架等）操作技能培训 | 县劳动局主任注册培训机构 | 必备 | 操作反铲等所需 |
+| 特种车辆（隧道挖掘）驾驶执照 | 国土交通省 | 可选 | 针对大型挖掘机 |
+| 爆破技术员 | 经济产业省 | 可选 | 处理爆炸物所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Steady demand expected from public investment and aging infrastructure, but worker aging is progressing, making it difficult to secure young workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。公共投资和基础设施老化带来稳定需求，但工人老龄化加剧，难以招募年轻工人。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,91 +39,83 @@ Specialist who operates excavation machinery for large-scale civil engineering p
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $3,200,000~$4,000,000 | Monthly salary approx. ¥270,000–330,000 |
-| Mid Level (4-10 years) | $4,500,000~$6,000,000 | Monthly salary approx. ¥380,000–500,000 |
-| Veteran (11+ years) | $6,000,000~$8,000,000 | Site supervisor class |
+| 入门级（0-3年） | $3,200,000~$4,000,000 | 月薪约27万-33万日元 |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 月薪约38万-50万日元 |
+| 资深（11年以上） | $6,000,000~$8,000,000 | 现场监理等级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Limited impact from AI and automation. Excavation machinery automation and remote operation are progressing, but on-site judgment and safety management remain human tasks.
+受人工智能和自动化的影响有限。挖掘机械自动化和远程操作正在推进，但现场判断和安全管理仍由人类完成。
 
-Gain field experience, acquire heavy machinery licenses and specialized skills like gauge man, then advance to crew leader or site supervisor.
+获得现场经验，获取重型机械执照和计量员等专业技能，然后晋升为班组组长或现场主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple excavation work
-- Routine surveying
+- 简单挖掘工作
+- 常规测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote-controlled excavation
-- AI-based geological prediction
+- 远程控制挖掘
+- 基于AI的地质预测
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site risk assessment
-- Geological judgment by sight and feel
-- Team safety management
+- 现场风险评估
+- 通过视觉和触觉进行地质判断
+- 团队安全管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Remote operation technology for construction machinery
-- Construction management
-- Safety engineering knowledge
+- 工程机械远程操作技术
+- 建筑管理
+- 安全工程知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Infrastructure aging countermeasures
-- Tunnel construction
-- Dam renovation
-- Mountainous construction
+- 基础设施老化对策
+- 隧道施工
+- 水坝翻新
+- 山地施工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Specified skilled worker in construction. Requires skills test and Japanese N4 level. Max stay 5 years. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Graduate of vocational school or above, engaged in technical work. Long-term stay/permanent residence possible. |
-| Subclass 技能実習 (Technical Intern Training (Construction)) | Max 3 years, return to home country assumed. Works as trainee in construction. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
-- People not afraid of heights/confined spaces
-- People who enjoy operating machinery
+- 体力充沛的人
+- 不恐高/不惧密闭空间的人
+- 喜欢操作机器的人
 
 **谁不适合**
-- People worried about physical strength
-- People uncomfortable in narrow spaces
+- 担心体力的人
+- 不适合在狭窄空间工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of dam/tunnel excavation workers?**
-答：Around ¥4.5–6 million with 5 years experience. Over ¥8 million possible for veteran site supervisors.
+**问：大坝/隧道开挖工人的平均年收入是多少？**
+答：有5年经验约450-600万日元。资深现场主管可达800万日元以上。
 
-**问：What visas allow foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) (Construction) or Engineer/Specialist in Humanities/International Services visa available. Also a technical intern training route.
+**问：哪些签证允许外国人在该职业工作？**
+答：特定技能工人(i)（建筑）或人文知识/国际业务签证可用。还有技能实习路线。
 
-**问：How to advance your career?**
-答：Obtain larger vehicle licenses or blasting technician qualifications, aim for site supervisor or construction manager roles to see salary increases and promotions.
+**问：如何晋升你的职业？**
+答：获取大型车辆驾照或爆破技术员资格，瞄准现场主管或施工经理职位，以获得加薪和晋升。
 
 
 ---
@@ -143,12 +133,12 @@ Gain field experience, acquire heavy machinery licenses and specialized skills l
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dam-and-tunnel-excavation-worker/JP)**

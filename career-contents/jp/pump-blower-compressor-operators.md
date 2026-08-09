@@ -4,8 +4,6 @@
 
 Operate and monitor pumps, blowers, and compressors that transfer liquids and gases in factories and plants.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Operate and monitor pumps, blowers, and compressors that transfer liquids and ga
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI and automation will replace some monitoring and operation tasks, but fully unmanned operation is difficult, and human maintenance and anomaly response will remain.
-
 After joining, gain experience as a field operator and advance to chief or equipment management roles. Career advancement possible by obtaining relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After joining, gain experience as a field operator and advance to chief or equip
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires expertise in mechanical engineering, etc. Practical experience acceptable. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Fields: molding, industrial machinery, electrical/electronic info-related manufacturing |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: Engineer/Specialist in Humanities/International Services visa or Specified Sk
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pump-blower-compressor-operators/JP)**

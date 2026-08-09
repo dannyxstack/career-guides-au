@@ -4,8 +4,6 @@
 
 Catering divers are responsible for multiple tasks in restaurants, cafeterias, or fast food outlets, including preparing dishes, serving customers, cleaning areas, and assisting with kitchen work. This position is an entry-level position in the hotel and catering industry, usually requiring flexible adaptation to different work segments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Catering divers are responsible for multiple tasks in restaurants, cafeterias, o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The multi-purpose tasks in the catering industry are scattered and involve a large number of face-to-face services, making it difficult for AI to fully replace them. However, AI will take over backend tasks such as ordering and inventory management, while enhancing efficiency through intelligent scheduling and predictive maintenance, resulting in a mixed mix of ups and downs for the overall role.
-
 You can be promoted from junior staff to team leader or supervisor, or transition to professional chef or management positions through internal training. After gaining experience, you can independently manage a restaurant or open a small shop. Some have entered sub-sectors such as hotels and convention and catering sectors.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can be promoted from junior staff to team leader or supervisor, or transitio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Visa) | Must have a work contract with a French company and an annual salary of no less than SMIC (about 20,000 euros). Applicable to non-EU applicants. |
-| Subclass Recherche emploi (Job Seeker Visa (Recherche d'emploi)) | Non-EU students who have completed a master's degree in France are allowed to look for work within 12 months. |
-
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Yes, but you must have an employer-sponsored Salarié visa and an annual sala
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/multiskilled-catering-staff/FR)**

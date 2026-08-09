@@ -53,8 +53,6 @@ Responsible for operating and monitoring looms to weave yarn into fabric, includ
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Loom operators are significantly affected by AI automation; repetitive monitoring tasks can be replaced, but equipment adjustment, fault troubleshooting, and complex quality assessment still require human experience. Overall job outlook is mixed.
-
 Promotion from junior operator to senior operator or team leader, but limited advancement opportunities; can shift to textile machinery maintenance or quality control.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Promotion from junior operator to senior operator or team leader, but limited ad
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost impossible. This occupation is not on any skilled occupation list, so 
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weaving-machine-operator/AU)**

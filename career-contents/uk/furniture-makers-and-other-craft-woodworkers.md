@@ -52,8 +52,6 @@ Furniture manufacturing and woodworking craftspeople make, repair, and restore w
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Furniture making and woodworking artisans have mixed fortunes from AI: CNC and other automated machinery have replaced some repetitive processing tasks, but customization, restoration, design communication, etc., have instead improved efficiency and creativity with AI tools, upgrading the overall job profile rather than eliminating it.
-
 Junior craftsmen can advance to senior craftsmen or supervisors, or transition to custom furniture design, repair, or self-employment. Some become teachers or assessors through further training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior craftsmen can advance to senior craftsmen or supervisors, or transition t
 | Subclass Skilled Worker (Skilled Worker Visa) | Employer sponsorship required; this occupation is on the eligible occupation list, and salary must meet the general threshold or new entrant standard. |
 | Subclass Graduate (Graduate Visa) | Suitable for international graduates who have completed a degree in the UK, allowing them to stay for 2 years after graduation to find work. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Can apply for a Skilled Worker visa, but requires employer sponsorship and me
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-makers-and-other-craft-woodworkers/UK)**

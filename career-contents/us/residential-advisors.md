@@ -54,8 +54,6 @@ Accommodation advisors coordinate daily activities of school/university dormitor
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Home care workers and housekeeping roles face clear automation risks, as routine cleaning, scheduling, and some monitoring tasks can be replaced by AI and robots, but human companionship and complex care remain a moat.
-
 Usually start as entry-level accommodation advisor, gain experience to advance to senior accommodation advisor, accommodation coordinator, or student affairs manager. Some transition to counseling, social work, or education management.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as entry-level accommodation advisor, gain experience to advance t
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Most advance to senior residential advisor, hall director, or student affairs
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/residential-advisors/US)**

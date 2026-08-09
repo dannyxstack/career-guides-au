@@ -4,8 +4,6 @@
 
 Responsible for pre-printing document preparation, layout, color management, and plate-making to ensure printing quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for pre-printing document preparation, layout, color management, and
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Prepress technicians face the dual impact of AI automation replacing and enhancing them: AI can efficiently handle repetitive tasks such as layout, color management, and pattern making, leading to some job closures; However, in creative design, complex color adjustments, and quality control, AI remains an auxiliary tool that requires human decision-making and artistic aesthetics.
-
 You can be promoted from prepress technician to prepress supervisor, color management expert, or print production manager.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ You can be promoted from prepress technician to prepress supervisor, color manag
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Employed work residency requires employer sponsorship, matching diploma and salary requirements |
-| Subclass Passeport Talent (Passeport Talent) | The talent passport is suitable for high-skilled positions, and the salary must meet the legal threshold |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Difficult; this occupation is not in shortage. Requires employer sponsorship 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-technician/FR)**

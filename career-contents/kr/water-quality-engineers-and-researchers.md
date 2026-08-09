@@ -4,8 +4,6 @@
 
 Environmental professionals who measure/analyze water pollution, design/operate treatment facilities, and conduct research on aquatic ecosystem conservation and restoration technology.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Environmental professionals who measure/analyze water pollution, design/operate 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and IoT-based water quality monitoring and automatic analysis equipment automate simple measurement and analysis tasks, but complex pollution diagnosis, treatment process design, and regulatory response still require human experts. AI is used as a tool, increasing job value.
-
 Entry → Mid-level (5-10 years) → Senior engineer/researcher (10-15 years) → Team leader/principal researcher. Promotion based on experience after recruitment of master's/doctoral degree holders and engineers at engineering firms with no experience.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Entry → Mid-level (5-10 years) → Senior engineer/researcher (10-15 years) �
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Specialized Technician·Researcher, Degree+Experience Required |
-| Subclass D-10 (Job-seeking) | Job-seeking, Bachelor's or higher, up to 6 months |
-| Subclass F-2 (F-2 (Residence)) | Points-based, long-term stay for highly educated/experienced |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Junior engineer → Mid-level (5 years) → Senior/Principal researcher (10 y
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-quality-engineers-and-researchers/KR)**

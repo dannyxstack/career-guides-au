@@ -1,8 +1,8 @@
-# 3D Printing Modeler 职业分析 · 韩国
+# 3D打印建模师（3D Printing Modeler）职业分析 · 韩国
 
-**职业代码: 15913 (KECO)**
+**职业代码：15913 (KECO)**
 
-A professional who designs 3D models of products and parts using 3D printing technology and optimizes output data. Demand is increasing in various industries such as manufacturing, healthcare, and education.
+利用3D打印技术设计产品及零件3D模型并优化输出数据的专业人员。在制造、医疗、教育等行业需求日益增长。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who designs 3D models of products and parts using 3D printing tec
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $5,000,000~$8,000,000（Based on public institutions; private costs double） |
-| University (4-year) | 4年 | $10,000,000~$20,000,000（Focused on mechanical/industrial engineering） |
-| Vocational Training (6 months to 1 year) | 1年 | $3,000,000~$5,000,000（Government subsidy available via Ministry of Employment and Labor） |
+| 大专（2年制） | 2 年 | $5,000,000~$8,000,000（基于公共机构；私立费用翻倍） |
+| 大学（4年制） | 4年 | $10,000,000~$20,000,000（专注于机械/工业工程） |
+| 职业培训（6个月至1年） | 1年 | $3,000,000~$5,000,000（可通过雇佣劳动部获得政府补贴） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who designs 3D models of products and parts using 3D printing tec
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computer-Aided Processing Engineer | Human Resources Development Service of Korea | 可选 | Certifies 3D modeling and processing skills |
-| 3D Printer Operator (Craftsman) | Human Resources Development Service of Korea | 可选 | 入门级认证 |
-| CAD Practical Skills Level 2 | Korea Productivity Center | 可选 | 3D CAD software proficiency |
+| 计算机辅助处理工程师 | 韩国人力资源开发服务局 | 可选 | 认证3D建模与加工技能 |
+| 3D打印机操作员（工匠） | 韩国人力资源开发服务局 | 可选 | 入门级认证 |
+| CAD实用技能二级 | 韩国生产力中心 | 可选 | 3D CAD软件熟练度 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,500. In line with the 4th Industrial Revolution, the 3D printing market is growing by over 15% annually, with steady demand for workers in manufacturing, healthcare, and aviation. Employment prospects are bright, supported by government manufacturing innovation policies.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,500。顺应第四次工业革命，3D打印市场年增长率超过15%，制造业、医疗保健和航空领域对工人的需求稳定。政府制造业创新政策支持下，就业前景光明。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +40,85 @@ A professional who designs 3D models of products and parts using 3D printing tec
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on SMEs |
-| 中级（4-7年） | $35,000,000~$45,000,000 | Includes Large Corporations and Research Institutes |
-| Advanced (8+ Years) | $45,000,000~$60,000,000 | Senior Modeler / Team Leader Level |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 包括大型企业和研究机构 |
+| 高级（8年以上） | $45,000,000~$60,000,000 | 高级建模师/团队领导级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI helps automate and optimize 3D modeling, but creative design and problem-solving still require human input. Initial modeling tasks become efficient with AI assistance, but final design decisions and fine adjustments need expert hands.
+AI可帮助自动化和优化3D建模，但创意设计和问题解决仍需人工投入。初始建模任务借助AI变得高效，但最终设计决策和精细调整需专家操作。
 
-Beginners can advance to senior modeler, technical team leader, or project manager. With CAD/CAM certifications and practical experience, one can move to research institutes or R&D centers of large corporations.
+初学者可晋升为高级建模师、技术团队负责人或项目经理。拥有CAD/CAM认证和实践经验后，可转向研究机构或大公司研发中心。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive 3D modeling tasks
-- Basic shape generation and transformation
+- 简单的重复性3D建模任务
+- 基本形状生成与变换
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Generative design alternative exploration
-- Print optimization and automatic support arrangement
-- Quality inspection data analysis
+- 生成式设计替代方案探索
+- 打印优化与自动排版
+- 质量检验数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Custom design requirement understanding
-- Judging trade-offs between material properties and processes
-- Customer communication and collaboration skills
+- 定制设计需求理解
+- 判断材料特性与工艺之间的权衡
+- 客户沟通与协作能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Generative AI utilization ability
-- Additive manufacturing knowledge
-- Programming (Python, Grasshopper)
+- 生成式AI应用能力
+- 增材制造知识
+- 编程（Python, Grasshopper）
 - 具备项目管理能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 3D printing
-- Additive manufacturing
-- Digital design
-- Smart manufacturing
+- 3D打印
+- 增材制造
+- 数字设计
+- 智能制造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when inviting 3D printing specialists to Korean companies; requires bachelor's degree and experience |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some simple 3D printing tasks possible, but unsuitable for professional modelers |
-| Subclass F-2 (F-2 (Residence)) | Step before permanent residence after long-term stay; favorable for skilled 3D printing personnel |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in 3D modeling software and willing to learn consistently
-- Those with fine spatial perception and creative problem-solving skills
-- Those who enjoy collaboration across manufacturing, medical, design, and other fields
+- 对3D建模软件感兴趣并愿意持续学习的人
+- 精细空间感知和创造性解决问题能力者
+- 喜欢跨制造、医疗、设计等领域合作的人
 
 **谁不适合**
-- Those who dislike static work and repetitive revisions
-- Those not interested in understanding mechanical or engineering principles
+- 不喜欢静态工作和重复修改的人
+- 对理解机械或工程原理不感兴趣的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a 3D printing modeler?**
-答：Entry-level is about ₩28-35 million, mid-level ₩35-45 million, and senior ₩45-60 million. Large companies and research institutes may offer more.
+**问：3D打印建模师的平均薪资是多少？**
+答：入门级约2800-3500万韩元，中级3500-4500万韩元，高级4500-6000万韩元。大公司和研究机构可能提供更高薪资。
 
-**问：What visa does a foreigner need to work in Korea as a 3D printing modeler?**
-答：An E-7 (Specific Activities) visa is most suitable, requiring a bachelor's degree and experience. Skilled workers may switch to an F-2 visa.
+**问：外国人在韩国从事3D打印建模师工作需要什么签证？**
+答：E-7（特定活动）签证最合适，要求本科学历和经验。技能工人可转为 F-2 签证。
 
-**问：What are recommended training courses to become a 3D printing modeler?**
-答：A degree in mechanical engineering or industrial design is advantageous, and vocational training (government-funded) is a good alternative. CAD and 3D printing practice are important.
+**问：成为3D打印建模师的推荐培训课程有哪些？**
+答：机械工程或工业设计学位有优势，政府资助的职业培训是不错的替代方案。CAD和3D打印实践很重要。
 
 
 ---
@@ -143,12 +136,12 @@ Beginners can advance to senior modeler, technical team leader, or project manag
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/3d-printing-modeler/KR)**

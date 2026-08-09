@@ -4,8 +4,6 @@
 
 Mixed crop and animal producers manage diverse farms in Italy, combining crop cultivation and livestock rearing. The role requires agricultural knowledge, physical labour and business management skills to maintain sustainable and profitable operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Mixed crop and animal producers manage diverse farms in Italy, combining crop cu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape farm managers' daily work: repetitive tasks like data monitoring and report generation are automated, but complex decision-making, personnel management, and emergency handling rely more on human experience. Entry-level roles narrow, but senior managers can leverage AI to manage larger farms, increasing their value.
-
 Career progression can expand from operating own land to leasing more land, or specializing in high-value products (e.g., organic produce, artisanal cheese). Experienced individuals can become agricultural advisors or cooperative managers, but advancement opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career progression can expand from operating own land to leasing more land, or s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Self-employment visa (Self-Employment Visa) | For non-EU citizens planning to start or take over an agricultural business in Italy, requires a business plan and a Certificate of No Impediment (Nulla Osta). Annual quotas apply. |
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to non-EU high-skilled workers employed on farms, requiring at least a bachelor's degree and a contract; rare in the agricultural sector. |
-| Subclass Seasonal work visa ( (Seasonal Work Visa) | Applicable to short-term agricultural seasonal workers, up to 9 months, applied by employers with annual quota limits. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Limited promotion prospects, usually progressing from operator to farm manage
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-animal-producer/IT)**

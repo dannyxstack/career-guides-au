@@ -52,8 +52,6 @@ Instrument technicians in New Zealand are primarily responsible for installing, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will significantly enhance the capabilities of instrumentation technicians, freeing them from tedious calibration and data recording to focus on complex troubleshooting and system optimization.
-
 Entry-level instrumentation technicians can enter via apprenticeship or associate degree, advancing to senior technician, supervisor, or project manager. With licensure, they can shift to instrumentation engineer or automation consultant, with significant salary increases.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level instrumentation technicians can enter via apprenticeship or associat
 
 **PR friendliness: high (★★★★☆).**
 
-**PR difficulty: low (★½☆☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Although not mandatory, holding a New Zealand national diploma or NZIA certif
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/instrumentation-technician/NZ)**

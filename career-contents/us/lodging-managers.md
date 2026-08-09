@@ -53,8 +53,6 @@ Accommodation managers plan, direct, or coordinate activities of organizations t
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Career path: Start from entry-level positions like front desk supervisor, housekeeping manager; gradually advance to assistant manager, general manager. Large hotel chains offer cross-brand or cross-country advancement opportunities, or transition to regional management, training, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Start from entry-level positions like front desk supervisor, housek
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Obtain an employment-based green card through PERM labor certification for experienced accommodation managers. |
 | Subclass L-1A (L-1A Intracompany Transferee (Managerial)) | Multinational hotel groups transfer executives from overseas branches to US divisions. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from assistant manager to general manager, then manage multiple p
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lodging-managers/US)**

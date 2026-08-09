@@ -1,10 +1,8 @@
-# Publication Planner 职业分析 · 韩国
+# 出版规划师（Publication Planner）职业分析 · 韩国
 
-**职业代码: 41131 (KECO)**
+**职业代码：41131 (KECO)**
 
-A professional who oversees the planning, editing, production, and distribution of publications such as books, magazines, and e-books, setting the direction of content.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责监督书籍、杂志、电子书等出版物的规划、编辑、制作和发行，并确定内容方向的专业人士。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who oversees the planning, editing, production, and distribution 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（High school graduates are acceptable but less competitive） |
-| Associate/Bachelor's Degree (Humanities, Social Sciences, or Publishing-related majors) | 2-4年 | $20,000,000~$60,000,000（含学费和生活费） |
-| Publishing Editorial Practical Training (Private) | 3-6个月 | $500,000~$3,000,000（Publishing Academy, etc.） |
+| 高中毕业 | 0年 | $0~$0（高中毕业生可接受但竞争力较低） |
+| 副学士/学士学位（人文、社会科学或出版相关专业） | 2-4年 | $20,000,000~$60,000,000（含学费和生活费） |
+| 出版编辑实践培训（私立） | 3-6个月 | $500,000~$3,000,000（出版学院等） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who oversees the planning, editing, production, and distribution 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Publishing Editor Certification | Korea Publishing Editors Association | 可选 | Preferred but not required |
-| Digital Publishing Technician | Human Resources Development Service of Korea | 可选 | Favorable in digital fields |
-| Practical experience in editorial design | Self-assessment | 可选 | Replaced by portfolio |
+| 出版编辑认证 | 韩国出版编辑协会 | 可选 | 优先考虑但非必需 |
+| 数字出版技术员 | 韩国人力资源开发服务局 | 可选 | 数字领域优势明显 |
+| 编辑设计的实践经验 | 自我评估 | 可选 | 已被作品集取代 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 9,500. Due to digital transformation, the print book market is shrinking, but demand for new formats like e-books and audiobooks is increasing; employment is expected to remain stable or decline slightly.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 9,500。由于数字化转型，印刷书籍市场在萎缩，但对电子书和有声读物等新形式的需求在增加；就业预计将保持稳定或略有下降。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,96 +40,88 @@ A professional who oversees the planning, editing, production, and distribution 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$32,000,000 | Based on small and medium-sized publishers |
-| Mid-level (4-9 years) | $32,000,000~$45,000,000 | Manager-level |
-| 资深（10年以上） | $45,000,000~$70,000,000 | Editor-in-chief/Executive-level |
+| 入门级（0-3年） | $24,000,000~$32,000,000 | 基于中小型出版社 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 经理级别 |
+| 资深（10年以上） | $45,000,000~$70,000,000 | 主编/高管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI replaces some tasks such as data analysis, auto-correction, and content curation, but creative planning, author relationships, and emotional judgment remain human domains. Increased efficiency through AI leads to a slight decrease in demand for manpower, but not complete replacement.
+AI取代一些任务，如数据分析、自动校对和内容策划，但创意策划、作者关系和情感判断仍是人类领域。AI带来的效率提升导致人力需求略有下降，但并非完全替代。
 
-Careers typically start at publishing houses, editorial offices, or content planning companies, with promotion paths from planning editor to publication planner to editor-in-chief/publishing director.
+职业通常起步于出版社、编辑部或内容策划公司，晋升路径从策划编辑到出版策划人再到主编/出版总监。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Bestseller prediction and data analysis
-- Basic proofreading and copyediting
-- Catalog and metadata creation
-- Cover design trend analysis
+- 畅销书预测与数据分析
+- 基础校对和文案编辑
+- 目录和元数据创建
+- 封面设计趋势分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea generation and market research
-- Reader response analysis for marketing
-- eBook format conversion and optimization
+- 创意生成与市场研究
+- 用于营销的读者反应分析
+- 电子书格式转换和优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative planning skills
-- Author network and negotiation
-- Emotional judgment and storytelling
-- Deep understanding of the publishing industry
+- 创意规划技能
+- 作者网络与谈判
+- 情感判断和讲故事
+- 对出版行业的深入了解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital Publishing Tools
-- AI-Based Content Production
+- 数据分析
+- 数字出版工具
+- 基于AI的内容制作
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital publishing
-- Audiobooks
-- Self-help books
-- Web novel planning
+- 数字出版
+- 有声书
+- 自助类书籍
+- 网络小说策划
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific activities) | Possible under employment contract in professional publishing, though rare |
-| Subclass D-10 (Job seeking) | Possible after graduating in a related field while seeking employment |
-| Subclass F-2 (Residence) | Free activities after obtaining permanent residency |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy writing and reading
-- People with strong planning and creativity
-- People who are meticulous and attentive to details
+- 喜欢写作和阅读的人
+- 计划性和创造力强的人
+- 细致且注重细节的人
 
 **谁不适合**
-- People who prefer quick decision-making
-- People who want stable high income
+- 偏好快速决策的人
+- 想要稳定高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a publication planner?**
-答：Depending on experience, entry-level 24-32 million won, mid-level 32-45 million won, and senior-level 45-70 million won.
+**问：出版物策划师的平均薪资是多少？**
+答：根据经验，入门级2400-3200万韩元，中级3200-4500万韩元，高级4500-7000万韩元。
 
-**问：Can foreigners work as publication planners in Korea?**
-答：Possible with an E-7 visa, but language and cultural barriers are high, so it is very rare. Mainly long-term residents with F-2 or higher status work in this field.
+**问：外国人在韩国能否担任出版策划人？**
+答：持E-7签证可能，但语言和文化障碍高，非常罕见。主要是有F-2或更高身份的长期居民从事此类工作。
 
-**问：Is there a possibility that AI will replace publication planners?**
-答：Partially replaceable. For example, data analysis-based bestseller prediction and automatic proofreading can be replaced by AI, but creative planning and author networking remain human roles.
+**问：出版策划人会被AI取代吗？**
+答：部分可替代。例如，基于数据分析的畅销书预测和自动校对可由AI完成，但创意策划和作者联络仍属于人类角色。
 
 
 ---
@@ -149,12 +139,12 @@ Careers typically start at publishing houses, editorial offices, or content plan
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/publication-planner/KR)**

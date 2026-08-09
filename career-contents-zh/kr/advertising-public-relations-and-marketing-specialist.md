@@ -1,8 +1,8 @@
-# Advertising, Public Relations, and Marketing Specialist 职业分析 · 韩国
+# 广告、公关与营销专员（Advertising, Public Relations, and Marketing Specialist）职业分析 · 韩国
 
-**职业代码: 02411 (KECO)**
+**职业代码：02411 (KECO)**
 
-A professional who establishes advertising and PR strategies for a company's products/services and plans, executes, and analyzes marketing activities.
+为公司产品/服务制定广告和公关策略，并策划、执行和分析营销活动的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who establishes advertising and PR strategies for a company's pro
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (Business, Advertising, Media, etc.) | 4年 | $20,000,000~$40,000,000（Annual tuition (national/public university)） |
-| Associate degree (Marketing/Advertising related) | 2 年 | $10,000,000~$20,000,000（Annual tuition (community college)） |
+| 学士学位（商业、广告、媒体等） | 4年 | $20,000,000~$40,000,000（年度学费（国立/公立大学）） |
+| 副学士学位（市场营销/广告相关） | 2 年 | $10,000,000~$20,000,000（年学费（社区学院）） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who establishes advertising and PR strategies for a company's pro
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Marketing Specialist Certification | Korea Marketing Association | 可选 | Optional, can substitute for work experience |
-| Advertising Specialist Certification (ADP) | Korean Advertising Society | 可选 | Optional, helpful for advertising career |
-| Digital Marketer Certification | Korea Digital Marketing Association | 可选 | Preferred in digital field |
+| 市场营销专家认证 | 韩国营销协会 | 可选 | 可选，可替代工作经验 |
+| 广告专员认证（ADP） | 韩国广告学会 | 可选 | 可选，有助于广告职业 |
+| 数字营销师认证 | 韩国数字营销协会 | 可选 | 数字领域优先考虑 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Due to digital transformation and growing demand for data-driven marketing, employment is expected to steadily increase, but fierce competition makes securing expertise essential.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。由于数字化转型和对数据驱动营销的需求增长，预计就业将稳步增长，但激烈竞争使得掌握专业技能至关重要。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,94 +39,87 @@ A professional who establishes advertising and PR strategies for a company's pro
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$40,000,000 | Large/small company pay gap significant |
-| Mid-level (4-9 years) | $45,000,000~$65,000,000 | Varies by expertise |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Team leader or above, performance bonus separate |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 大/小公司薪资差距显著 |
+| 中级（4-9年） | $45,000,000~$65,000,000 | 因专业领域而异 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 团队领导或以上，绩效奖金另计 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI can replace some tasks like repetitive data analysis, ad targeting optimization, and content creation, but creative strategy and human-based PR still rely heavily on human roles.
+AI可以替代一些任务，如重复性数据分析、广告定向优化和内容创作，但创意策略和基于人际关系的公关仍严重依赖人类角色。
 
-Typically builds a career at marketing agencies, corporate marketing departments, or advertising firms; can advance to team leader or department head based on digital and data skills.
+通常在营销机构、企业营销部门或广告公司建立职业生涯；基于数字和数据技能可晋升至团队领导或部门主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple ad performance report writing
-- Basic target analysis
-- Some content creation
+- 简单的广告效果报告撰写
+- 基本目标分析
+- 部分内容创作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized ad message optimization
-- Real-time campaign adjustment
-- Social media trend analysis
+- 定制广告信息优化
+- 实时活动调整
+- 社交媒体趋势分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative strategy
-- Human relationship networking
-- Brand storytelling
-- Understanding customer psychology
+- 创意策略
+- 人际关系网络
+- 品牌故事讲述
+- 理解客户心理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital marketing tool proficiency
-- SQL/Python data analysis
-- A/B test design
-- AI prompt engineering
+- 数字营销工具熟练度
+- SQL/Python数据分析
+- A/B测试设计
+- AI提示工程
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Marketing
-- Data Analysis
-- Content Marketing
-- Brand Strategy
+- 数字营销
+- 数据分析
+- 内容营销
+- 品牌策略
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when working in specialized fields; must meet marketing expert qualifications |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible with points system; higher education and experience advantageous |
-| Subclass D-10 (D-10 (Job Seeker)) | Available for job-seeking activities for holders of associate degree or higher |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy creative ideas
-- People who enjoy data analysis
-- People with excellent communication skills
+- 喜欢创意点子的人
+- 喜欢数据分析的人
+- 沟通能力强的人
 
 **谁不适合**
 - 偏好重复性事务工作的人
-- People who have difficulty adapting to change
+- 难以适应变化的人士
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an advertising, PR, and marketing specialist?**
-答：The average is about 50 million KRW based on 5 years of experience, with large differences between large and small companies.
+**问：广告、公关和营销专家的平均工资是多少？**
+答：平均约5000万韩元，基于5年经验，大公司和小公司之间存在较大差异。
 
-**问：What visa can a foreigner use to work in this occupation in Korea?**
-答：E-7 visa is most suitable, requiring a marketing-related degree and experience.
+**问：外国人在韩国从事该职业可以使用什么签证？**
+答：E-7签证最合适，需要市场营销相关学历和经验。
 
-**问：What competencies are important for promotion in this field?**
-答：Digital marketing, data analysis, and project management skills are important, and an MBA degree can be helpful.
+**问：在此领域，哪些能力对晋升很重要？**
+答：数字营销、数据分析和项目管理技能很重要，MBA学位可能有帮助。
 
 
 ---
@@ -144,12 +137,12 @@ Typically builds a career at marketing agencies, corporate marketing departments
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/advertising-public-relations-and-marketing-specialist/KR)**

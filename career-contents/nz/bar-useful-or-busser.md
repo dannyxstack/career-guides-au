@@ -54,8 +54,6 @@ Back-of-house role in bars, restaurants, or clubs handling cleaning, restocking,
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Bar attendants (general) are significantly affected by AI: tasks like cleaning and inventory counting are easily automated, reducing job demand, but complex tasks still rely on human flexibility.
-
 Junior utility workers can advance to bar assistants or bartenders, requiring experience and obtaining a liquor license (LCQ). Some move into hospitality management or food and beverage supervisory roles, but additional training is needed.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior utility workers can advance to bar assistants or bartenders, requiring ex
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance to bartender or supervisor, requiring LCQ liquor license and expe
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bar-useful-or-busser/NZ)**

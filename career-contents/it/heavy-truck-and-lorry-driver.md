@@ -52,8 +52,6 @@ Working in Italy as a heavy truck or van driver, responsible for long-distance o
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Can progress from regional delivery driver to international long-haul driver, or become fleet supervisor, logistics coordinator. Some drivers are self-employed in transport business.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from regional delivery driver to international long-haul driver, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to non-EU high-skilled workers, but driver positions typically have salaries below the threshold and are less commonly used. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Italy's annual quota work visa, applicable to non-EU workers; drivers are a priority occupation. |
-| Subclass Nulla Osta per Lavor (Nulla Osta for Subordinate Work) | Employers must submit a work permit application, proving that no suitable candidate can be recruited within the EU. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Must hold a Class C driving license and a CQC (Professional Driver Competency
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-truck-and-lorry-driver/IT)**

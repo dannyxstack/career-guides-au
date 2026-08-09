@@ -51,8 +51,6 @@ Desktop publishing operators use computer software to typeset and design print o
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Desktop publisher roles are being reduced by AI automation tools, but AI also improves layout and graphic design efficiency. Entry-level positions are narrowing, but senior staff can move into creative direction and complex projects.
-
 Entry-level desktop publishing operators can advance to senior typesetters, design supervisors, or creative managers. Further study can lead to digital media design or UI design roles.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Entry-level desktop publishing operators can advance to senior typesetters, desi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: There is some risk, as layout automation tools and AI design software are rap
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/desktop-publishing-operators-and-related-occupations/CA)**

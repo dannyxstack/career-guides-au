@@ -4,8 +4,6 @@
 
 An administrative role in charge of planning, document creation, data analysis, and meeting coordination within a company. Supports management strategy and new business initiatives.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ An administrative role in charge of planning, document creation, data analysis, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Although AI may replace part of the work of planning clerks, such as data analysis and document creation, higher-level judgment such as strategic thinking and interpersonal coordination remains a human role, so AI will not completely replace them.
-
 Starting from general administrative work, progressing to planning assistant, planning specialist, chief, and manager. An MBA or specialized qualifications are effective for career advancement.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Starting from general administrative work, progressing to planning assistant, pl
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and relevant work experience |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Certified under a points-based system based on annual income, education, etc. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +133,12 @@ A: Expanding your career through an MBA, acquiring qualifications such as a Smal
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/planning-and-administrative-assistant/JP)**

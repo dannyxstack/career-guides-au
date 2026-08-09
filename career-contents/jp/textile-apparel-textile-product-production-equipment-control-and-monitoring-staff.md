@@ -4,8 +4,6 @@
 
 A professional who controls and monitors machinery for spinning, weaving, knitting, etc., in textile product production processes to maintain quality and efficiency.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who controls and monitors machinery for spinning, weaving, knitti
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-This occupation is increasingly affected by AI and automation. Machine operation monitoring is becoming automated, limiting human tasks to troubleshooting and advanced adjustments.
-
 Career advancement to site leader or equipment maintenance engineer is possible through skills certification and practical experience. Some companies also accept foreign technical intern trainees.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Career advancement to site leader or equipment maintenance engineer is possible 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for those with specialized skills in textile machinery design/control |
-| Subclass 特定技能1号（繊維） (Specified Skilled Worker (i)) | Passing the skills exam in the fiber field allows up to 5 years of residence |
-| Subclass 技能実習（繊維） (Technical Intern Training) | Training period max 5 years, aims to transfer skills upon return |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +133,12 @@ A: Paths include becoming a site leader, equipment maintenance specialist, or qu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-apparel-textile-product-production-equipment-control-and-monitoring-staff/JP)**

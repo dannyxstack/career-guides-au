@@ -52,8 +52,6 @@ Chef specializing in barbecue, frying, and fish dishes, commonly found in hotels
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Grill, fry, and fish cooks face a mixed outlook due to AI and automation: automatic grills and AI temperature control can handle some standard cooking processes, reducing demand for junior cooks; but high-end restaurants still rely on human chefs for heat control, creative seasoning, and ingredient handling. AI tools can assist in menu development and quality control, enhancing professional skills.
-
 Can progress from junior chef to department head or head chef. Further education (e.g., Meister or technical school) can enhance management skills or lead to hotel management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior chef to department head or head chef. Further education
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applies to certified skilled workers, requires employer sponsorship and occupational certification. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking and trial work, suitable for those with German language skills and professional experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually complete 3 years of dual-system training, or study at a vocational sc
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grill-roast-and-fish-cook/DE)**

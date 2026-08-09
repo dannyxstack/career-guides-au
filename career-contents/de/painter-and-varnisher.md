@@ -52,8 +52,6 @@ Performing surface treatment of buildings, vehicles, and industrial facilities, 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on painters and varnishers is mixed: automated tools (e.g., smart sprayers) will replace some repetitive coating work, but AI-assisted color matching, defect detection, and project planning will improve efficiency and quality, while complex decoration and fine processing still rely on manual work.
-
 Starting as an apprentice, you can advance to a skilled worker (Geselle), then become a master (Meister) through further training, enabling self-employment or role as project manager. You can also specialize in areas like architectural coating or automotive painting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as an apprentice, you can advance to a skilled worker (Geselle), then b
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system, no employer sponsorship required, can come to Germany to find work, requires language A2 or above |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requires qualification or vocational certificate, self-funded |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: yes, by advancing to become a Master (Meister), one can start their own busin
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-and-varnisher/DE)**

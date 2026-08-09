@@ -51,8 +51,6 @@ Performing physical labor on mixed farms in the Netherlands, including crop plan
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce demand for mixed crop and livestock farm labourers, as repetitive physical tasks are gradually replaced by machines, but complex decision-making and animal health management still require humans.
-
 This occupation has limited career progression; can gradually advance to farm supervisor or farm manager, or transition through training to higher-skill roles such as agricultural technician or machinery operator.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ This occupation has limited career progression; can gradually advance to farm su
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Designed for highly skilled migrants, requiring an employment contract and salary meeting the threshold (approx. €5,331/month in 2024); farm labourers typically do not qualify. |
-| Subclass Seasonal Labour (WAV (Seasonal Work Permit) | Applies to seasonal agricultural work, allowing non-EU citizens to work in the Netherlands for up to 24 weeks, requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Aimed at highly skilled non-EU citizens, requiring higher education and high salary; farm laborers are not eligible. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Typically 40-50 hours per week, longer during peak seasons; highly seasonal.
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-livestock-farm-labourer/NL)**

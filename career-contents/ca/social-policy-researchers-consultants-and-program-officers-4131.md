@@ -51,8 +51,6 @@ In Canada, social policy researchers/program officers assess eligibility for soc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Social policy researchers/project officers are significantly impacted by AI; core tasks like data analysis and report generation can be automated, but policy judgment and stakeholder communication still require humans, leading to increased competition for entry-level positions.
-
 Start as policy analyst, progress to senior consultant or project manager, or move to non-profit management or government decision-making. More experience eases migration pathways.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as policy analyst, progress to senior consultant or project manager, or mo
 | Subclass PNP (Provincial Nominee Program) | Provinces give priority invitations for social service occupations, such as Ontario Human Capital or BC Tech Pilot. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, requires employer sponsorship, suitable for applicants who find relevant jobs in Atlantic provinces. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Not necessarily, but a bachelor's degree (preferably in social sciences) is u
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-policy-researchers-consultants-and-program-officers-4131/CA)**

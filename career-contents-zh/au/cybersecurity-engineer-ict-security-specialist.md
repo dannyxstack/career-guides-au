@@ -1,6 +1,6 @@
-# Cybersecurity Engineer / ICT Security Specialist 职业分析 · 澳大利亚
+# 网络安全工程师/ICT安全专家（Cybersecurity Engineer / ICT Security Specialist）职业分析 · 澳大利亚
 
-**职业代码: 262112 (ANZSCO)**
+**职业代码：262112 (ANZSCO)**
 
 网络安全工程师保护政府、企业和关键基础设施免受网络攻击，负责渗透测试、安全架构、事件响应和合规管理。AUKUS国防协议和澳洲关键基础设施保护法（SOCI）大幅推高需求，是IT类薪资增速最快的职业。
 
@@ -21,20 +21,20 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Cybersecurity / Computer Science | 认可大学 | 可选 | 行业通用基础学历 |
-| CISSP（Certified Information Systems Security Professional） | ISC² | 可选 | 行业最高认可认证，要求5年从业经验，持有者薪资溢价显著 |
-| OSCP（Offensive Security Certified Professional） | Offensive Security | 可选 | 渗透测试黄金标准认证，是红队/渗透岗的强烈推荐 |
+| 网络安全/计算机科学学士 | 认可大学 | 可选 | 行业通用基础学历 |
+| CISSP（认证信息系统安全专家） | ISC² | 可选 | 行业最高认可认证，要求5年从业经验，持有者薪资溢价显著 |
+| OSCP（Offensive Security Certified Professional） | 进攻性安全 | 可选 | 渗透测试黄金标准认证，是红队/渗透岗的强烈推荐 |
 | ACS技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
-| Australian Government Security Clearance（NV1/NV2） | AGSVA | 可选 | 政府和国防网络安全岗必须，持有者供不应求 |
+| 澳大利亚政府安全审查（NV1/NV2） | AGSVA | 可选 | 政府和国防网络安全岗必须，持有者供不应求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 70,900. ABS 数据显示网络安全从业人数同比增长 4.8%（年增3,300人），至2025年已达70,900人，增速是全行业平均的两倍。2030年预测缺口达17,000人。
+**职位需求量：很高（★★★★★）** 全国从业人数约 70,900。ABS 数据显示网络安全从业人数同比增长 4.8%（年增3,300人），至2025年已达70,900人，增速是全行业平均的两倍。2030年预测缺口达17,000人。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -54,21 +54,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：中低（★★☆☆☆）**
 
 网络安全工程师角色分化：常规渗透测试与日志分析被AI自动化压缩，但AI也放大威胁情报、自动化响应和AI安全审计能力，复合型专家需求激增。
 
 AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧增加。AI安全（防御LLM攻击/提示注入）是2025-2030年薪资溢价最高的新兴方向。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动渗透测试工具执行常规漏洞扫描与报告生成
 - AI驱动的日志分析与异常检测替代初级SOC监控
 - 自动化合规检查（如SOCI法案基线）替代人工审计
 - 安全配置基线自动部署（如防火墙规则、IAM策略）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助威胁情报聚合与攻击模式预测
 - 自动生成事件响应剧本（SOAR集成LLM）
@@ -76,7 +76,7 @@ AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧
 - 安全代码审查加速（AI检测逻辑漏洞与0-day）
 - AI用于攻击溯源与数字取证碎片关联
 
-**人类护城河:**
+**人类护城河：**
 
 - 企业级安全架构设计与风险决策（成本-安全权衡）
 - 零日漏洞/APT攻击的独创性发现（非模式匹配）
@@ -84,7 +84,7 @@ AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧
 - 危机时刻的人工介入（如断网决策、谈判）
 - 多域系统深度理解（OT/IT融合安全）
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI安全（对抗性机器学习、模型验证）
 - AI提示工程（用于威胁狩猎剧本）
@@ -93,17 +93,17 @@ AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧
 - 事件响应自动化（SOAR平台与剧本开发）
 - 安全合规自动化（如OpenSCAP、Rego策略)）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud Security & Zero Trust
-- Government & Defence Cyber
-- Penetration Testing & Red Team
-- SOC Analyst & Incident Response
-- AI/ML Security & Prompt Injection Defence
+- 云安全与零信任
+- 政府与国防网络
+- 渗透测试与红队
+- 安全运营中心分析师与事件响应
+- AI/ML安全与提示注入防御
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@ AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧
 | Subclass 190 (Skilled Nominated) | 州提名，ACT（堪培拉政府岗密集）优先 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区IT，加15分 |
 
-**PR友好度: 很高（★★★★★）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -178,12 +176,13 @@ AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 很高（★★★★★） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cybersecurity-engineer-ict-security-specialist/AU)**

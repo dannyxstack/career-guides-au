@@ -52,8 +52,6 @@ In New Zealand's mining, agriculture, and manufacturing sectors, Product Graders
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Product Graders perform visual and mechanical inspection tasks in transport, logistics, and mining, which are rapidly being replaced by computer vision and automated grading systems. Entry-level positions have narrowed significantly due to AI, but technical maintenance and complex judgment roles still exist.
-
 Career progression: from junior grader to senior grader, quality control supervisor, or shift to quality management, supply chain coordination, etc. After gaining experience, obtain relevant industry certifications to advance to management or become an independent quality auditor.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: from junior grader to senior grader, quality control supervi
 | Subclass SMC (Skilled Migrant Category) | Must meet the 6-point requirement (skilled work + qualifications/income, etc.). Product graders usually need to accumulate work experience and meet salary thresholds. |
 | Subclass Green List T2 (Green List Tier 2) | Product Grader is not on the Green List direct residence pathway, but if working in specific industries such as dairy processing and meeting conditions, may qualify for the Work to Residence pathway. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Employment prospects stable; with continued exports of primary industries (da
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/product-grader/NZ)**

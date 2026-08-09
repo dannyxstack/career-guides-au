@@ -53,8 +53,6 @@ Retail pharmacists in community pharmacies handle dispensing, health consultatio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While pharmacists' roles are expanded by AI, some tasks are automated; clinical judgment and patient consultation become core moats, but entry-level and simple dispensing positions face compression.
-
 Career path: Registered Pharmacist → Pharmacy Manager → Regional Pharmacy Supervisor, or develop into clinical specialties, drug research, or public health.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career path: Registered Pharmacist → Pharmacy Manager → Regional Pharmacy Su
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for healthcare occupations in provinces like Ontario and British Columbia, can add 600 points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, suitable for finding pharmacist jobs in eastern provinces. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must pass PEBC academic and qualifying exams, obtain provincial license, and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist-31120/CA)**

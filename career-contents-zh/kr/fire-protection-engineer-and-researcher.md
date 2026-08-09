@@ -1,8 +1,8 @@
-# Fire Protection Engineer and Researcher 职业分析 · 韩国
+# 消防工程师与研究员（Fire Protection Engineer and Researcher）职业分析 · 韩国
 
-**职业代码: 15821 (KECO)**
+**职业代码：15821 (KECO)**
 
-Professionals who protect lives and property from fire through fire system design, fire safety research, and disaster prevention technology development.
+通过消防系统设计、消防安全研究和防灾技术开发，保护生命和财产免遭火灾的专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ Professionals who protect lives and property from fire through fire system desig
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $6,000,000~$12,000,000（Fire Safety Management related departments at colleges） |
-| 本科（学士学位） | 4年 | $12,000,000~$24,000,000（Fire Protection Engineering departments at universities） |
+| 副学士学位 | 2 年 | $6,000,000~$12,000,000（大学消防安全管理相关院系） |
+| 本科（学士学位） | 4年 | $12,000,000~$24,000,000（大学消防工程系） |
 
 ---
 
@@ -20,18 +20,18 @@ Professionals who protect lives and property from fire through fire system desig
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fire Protection Equipment Technician | Human Resources Development Service of Korea | 必备 | Essential qualification for fire engineers |
-| Fire Safety Manager | Korea Fire Safety Institute | 必备 | Person responsible for managing fire safety targets |
-| Fire Protection Engineer | Human Resources Development Service of Korea | 可选 | Recommended for advanced engineers |
+| 消防设备技术员 | 韩国人力资源开发服务局 | 必备 | 消防工程师必备资格 |
+| 消防安全经理 | 韩国消防安全研究所 | 必备 | 负责管理消防安全目标的人员 |
+| 消防工程师 | 韩国人力资源开发服务局 | 可选 | 推荐给高级工程师 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. Demand is expected to steadily increase due to the rise in large-scale fires and stricter safety regulations. Hiring is anticipated in both the public and private sectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。由于大规模火灾的增加和安全法规的严格化，需求预计将稳步增长。公共和私营部门预计都会有招聘。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,93 +39,87 @@ Professionals who protect lives and property from fire through fire system desig
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $35,000,000~$45,000,000 | Based on SMEs |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Varies by company size |
-| 资深（10年以上） | $75,000,000~$99,999,999 | Large corporations and research institutes |
+| 初级 (0-3年) | $35,000,000~$45,000,000 | 基于中小企业 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 因公司规模而异 |
+| 资深（10年以上） | $75,000,000~$99,999,999 | 大型企业和研究机构 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI will support fire engineering by enhancing fire prediction models, design optimization, and data analysis to improve work efficiency and accuracy. However, human experience and intuition remain crucial for on-site judgment, legal interpretation, and emergency response, with AI serving as an enhancement tool.
+人工智能将通过增强火灾预测模型、设计优化和数据分析来支持消防工程，提高工作效率和准确性。然而，人类的经验和直觉在现场判断、法律解释和应急响应中仍然至关重要，AI作为增强工具。
 
-Can advance from junior engineer to mid-level, senior engineer, and project manager. Researchers can grow from postdoctoral to senior researcher and principal researcher.
+可从初级工程师晋升为中级、高级工程师和项目经理。研究人员可从博士后成长为高级研究员和首席研究员。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive design tasks
-- Data collection and organization
-- Basic calculations
+- 简单的重复性设计任务
+- 数据收集与整理
+- 基础计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fire simulation
-- Risk assessment
-- Design verification
-- Accident analysis
+- 火灾模拟
+- 风险评估
+- 设计验证
+- 事故分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal interpretation and application
-- Emergency response
-- Field experience-based judgment
+- 法律解释与适用
+- 应急响应
+- 基于现场经验的判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/machine learning basics
-- Fire simulation software
-- Data analysis
-- Risk management
+- 人工智能/机器学习基础
+- 火灾模拟软件
+- 数据分析
+- 风险管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Fire safety
-- Fire prediction technology
-- Smart disaster prevention
-- Manufacturing safety
+- 消防安全
+- 火灾预测技术
+- 智能防灾
+- 制造业安全
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when hired by a Korean company as a fire protection engineering expert |
-| Subclass F-2 (Residence) | Long-term stay possible through a points system |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone thorough with safety and regulations
-- Someone who enjoys scientific analysis and problem-solving
-- Someone very interested in disaster prevention
+- 注重安全与法规的人
+- 喜欢科学分析和解决问题的人
+- 对防灾非常感兴趣的人
 
 **谁不适合**
-- Someone who dislikes fieldwork and regulatory compliance
-- Someone who feels burdened by emergency response
+- 不喜欢野外工作和法规遵从的人
+- 对应急响应感到负担的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a fire protection engineer?**
-答：Entry-level 35-45 million KRW, mid-level 50-70 million KRW, senior 75-100 million KRW.
+**问：消防工程师的平均工资是多少？**
+答：初级3500-4500万韩元，中级5000-7000万韩元，高级7500万-1亿韩元。
 
-**问：What visa does a foreigner need to work in fire protection engineering?**
-答：Can work through an E-7 (Specific Activities) visa, and later switch to an F-2 (Residence) visa.
+**问：外国人从事消防工程需要什么签证？**
+答：可通过E-7（特定活动）签证工作，之后可转为F-2（居住）签证。
 
-**问：What are the main certifications required for this job?**
-答：Fire-fighting equipment engineer is essential, and fire safety manager qualification is also required. Fire protection engineer is recommended for advanced technicians.
+**问：此职位需要哪些主要认证？**
+答：消防设备工程师是必需的，并且还需要消防安全管理员资格。建议高级技术人员考取消防工程师。
 
 
 ---
@@ -143,12 +137,12 @@ Can advance from junior engineer to mid-level, senior engineer, and project mana
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fire-protection-engineer-and-researcher/KR)**

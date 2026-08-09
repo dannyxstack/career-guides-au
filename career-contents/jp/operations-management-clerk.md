@@ -50,8 +50,6 @@ Administrative role creating bus/truck operation plans, managing crew, monitorin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will streamline dispatching and operation recording, but human judgment is still needed for unexpected issues and driver coordination. AI serves as a support tool, expanding job scope.
-
 After obtaining Operations Manager qualification (national license), specialize in operations management. Career path to office manager or logistics management.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ After obtaining Operations Manager qualification (national license), specialize 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Operations management falls under 'Engineer/Specialist in Humanities/International Services'. Requires university degree or work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Transport)) | Transport industry added from fiscal 2024. Possible for operations management support roles. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Transport)) | For skilled operations managers. Family accompaniment and permanent residency possible. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtain a transportation management qualification and become a specialist in o
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/operations-management-clerk/JP)**

@@ -54,8 +54,6 @@ Responsible for promoting and selling construction and plumbing supplies (e.g., 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Service sales representatives face medium to high automation compression risk, as AI-driven CRM and conversational AI can handle much initial communication and qualification, but complex negotiations and relationship maintenance remain human strengths.
-
 Junior sales representatives can advance to senior sales representative, sales supervisor, or regional manager; they can also transition to product management or customer relationship management roles; experienced ones can start their own business or become brand agents.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior sales representatives can advance to senior sales representative, sales s
 | Subclass 491 (Skilled Work Regional (Provisional) Visa (Subclass 491)) | Regional state sponsorship or family sponsorship for applicants with employment opportunities in regional areas. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some DAMA regions can sponsor sales positions with lower requirements, but must work in designated areas. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually requires high school diploma or above, relevant sales experience, and
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-representative-building-and-plumbing-supplies/AU)**

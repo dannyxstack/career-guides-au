@@ -53,8 +53,6 @@ Responsible for operating, monitoring, and maintaining automated or robotic mech
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In this profession, automated machines have already replaced some operational tasks, but AI as an auxiliary tool can improve monitoring, debugging, and optimization efficiency, resulting in mixed overall impacts.
-
 Operators can be promoted from operator to production line supervisor, automation technician, or industrial robot programmer; After gaining experience, you can move on to equipment maintenance, process optimization, or project management roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Operators can be promoted from operator to production line supervisor, automatio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | You must obtain a work contract from a French employer and pass a labor survey (opposition de main-d'œuvre), with a salary at least 1.5 times the minimum wage. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | If your salary meets the legal threshold (about €37k) or you have a higher education, you can apply, and the process is simplified. |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable for positions where salary is 1.5 times the French average wage (approx. €53k), but this occupation usually has lower salaries, making it difficult to meet. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You need to master basic machining, PLC programming, robot operation (such as
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automated-or-robotic-mechanical-manufacturing-machine-operator/FR)**

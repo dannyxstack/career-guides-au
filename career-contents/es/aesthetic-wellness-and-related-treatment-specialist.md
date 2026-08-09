@@ -4,8 +4,6 @@
 
 Offering non-medical treatments such as beauty, spa, and massage, including facial, body care, hair removal, and makeup. Professional training certificates are required, and they usually work in beauty salons, spas, or health centers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Offering non-medical treatments such as beauty, spa, and massage, including faci
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Manual tasks for beauty and spa specialists (such as hair removal and facial treatments) will gradually be replaced by automated devices, but creative customization and emotional communication with clients remain human strengths, intensifying competition for entry-level positions.
-
 Usually, they start as beauticians or therapists and can be promoted to senior therapists, team supervisors, or store managers after gaining experience. It can also be expanded into medical aesthetics, requiring additional certification. Some choose to start their own beauty salons or spas.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Usually, they start as beauticians or therapists and can be promoted to senior t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Employed by a Spanish beauty salon or spa, requires employer sponsorship, and the position must demonstrate difficulty in hiring locals. |
-| Subclass Cuenta propia (Self-Employment Work Permit) | To run a beauty salon yourself, you need to submit a business plan and prove your financial capability. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you need to have a high degree or professional experience. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: You must complete a beauty course in FP Grado Medio or Superior and obtain a 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aesthetic-wellness-and-related-treatment-specialist/ES)**

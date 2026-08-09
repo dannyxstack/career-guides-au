@@ -53,8 +53,6 @@ Swimming instructors teach swimming skills and water safety at pools, swimming s
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Swimming coaches' core skills (water safety, stroke correction, motivation) are hard to replace by AI, but AI tools can enhance video analysis, lesson planning, etc. Entry-level jobs face more competition due to AI-assisted teaching software.
-
 Starting as a part-time assistant coach, one can advance to head coach or program director with experience. Those with competitive training credentials can enter clubs or professional teams. Some coaches transition to swim school management or start their own training centers. Holding lifesaving and first aid certificates can broaden employment opportunities.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a part-time assistant coach, one can advance to head coach or progra
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable for swimming instructor positions with accredited employer sponsorship, meeting salary requirements and skill match. |
 | Subclass SMC (Skilled Migrant Category) | If salary meets median ($29.66/hr) with sufficient work experience, can apply via 6-point system, but must meet ANZSCO skill level requirement (usually level 4 or above). |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can start as a part-time assistant instructor, accumulate experience, then ad
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/swimming-coach-or-instructor/NZ)**

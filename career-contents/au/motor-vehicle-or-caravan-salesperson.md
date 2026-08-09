@@ -54,8 +54,6 @@ Display, promote, and sell new or used vehicles to customers in a car dealership
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Motor vehicle or caravan salesperson roles face significant automation pressure; AI and online platforms will partially replace their information inquiry and initial communication functions, but core sales closing, trust building, and complex customization services still require humans.
-
 Can be promoted to Sales Manager, Showroom Manager, or Brand Manager; some move into automotive finance or marketing; experienced individuals can open their own dealership.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted to Sales Manager, Showroom Manager, or Brand Manager; some move 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Requires sustained high sales performance, leadership training, and internal 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-or-caravan-salesperson/AU)**

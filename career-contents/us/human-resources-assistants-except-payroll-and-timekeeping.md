@@ -54,8 +54,6 @@ Responsible for establishing and maintaining personnel files, recording employee
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Half of HR assistant roles have been automated (data entry, file maintenance), half amplified by AI (data analysis, process optimization). Entry is harder, but AI tools can greatly improve efficiency, requiring collaboration with HR specialists and managers.
-
 Can advance from HR assistant to HR specialist, HR manager, or transition to specialized areas like payroll or recruitment. Accumulate experience to obtain PHR/SPHR certification for competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from HR assistant to HR specialist, HR manager, or transition to spe
 | Subclass L-1 (L-1 Intracompany Transferee) | Only within multinational company internal transfers; low possibility for this position |
 | Subclass Green Card (PERM) (Employment-Based Green Card (PERM)) | Employers must prove inability to find U.S. workers, making it challenging |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to HR specialist (payroll, recruitment, employee relations, etc.)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-assistants-except-payroll-and-timekeeping/US)**

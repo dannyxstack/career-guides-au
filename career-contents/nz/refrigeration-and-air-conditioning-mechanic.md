@@ -52,8 +52,6 @@ Refrigeration and air conditioning technicians in New Zealand are responsible fo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tasks of refrigeration and air conditioning technicians heavily rely on physical operations and on-site judgment, so AI's direct replacement is limited. However, AI's penetration in fault diagnosis, energy efficiency optimization, and knowledge retrieval will compress junior positions, with automation exposure concentrated on cognitive parts.
-
 Junior technicians can gain experience through apprenticeships, obtain electrical registration, then advance to senior technician or team supervisor. Experienced individuals can move into project management, energy efficiency consulting, or start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can gain experience through apprenticeships, obtain electrica
 | Subclass SMC (Skilled Migrant Category) | Can apply using the 6-point system, occupation being registered provides extra points |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, allows working and gradually applying for resident visa |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a New Zealand Level 4 Certificate in Refrigeration and Air Conditio
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refrigeration-and-air-conditioning-mechanic/NZ)**

@@ -52,8 +52,6 @@ Civil engineering technicians assist engineers with design, construction, and pr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Repetitive tasks of civil engineering technicians (e.g., drafting, calculation, documentation) are easily automated by AI, but core responsibilities such as on-site supervision, communication coordination, and complex problem-solving are enhanced by AI, presenting both risks and opportunities.
-
 Can advance to project manager, senior technician, or engineer pathway (requires additional qualifications); also open to careers in building inspection or design consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to project manager, senior technician, or engineer pathway (requires
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list and the salary exceeds €32,000, this permit can be applied for, and family members can accompany. |
 | Subclass EU Blue Card (EU Blue Card) | Requires annual salary ≥€33,000 (2024 standard), usually a bachelor's degree. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: You can advance to project manager, senior technician, or become an engineer 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-technician/IE)**

@@ -4,8 +4,6 @@
 
 Axis correction specialists are responsible for diagnosing and treating visual function abnormalities such as strabismus, amblyopia, and diplopia, using non-surgical methods to train and correct vision.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Axis correction specialists are responsible for diagnosing and treating visual f
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In the work of visual axis orthodontics, diagnostic and training planning are easily enhanced by AI, but manual tool operation and patient interaction still rely on humans, with overall risk moderate.
-
 Junior optic axis correctionists can enter hospital ophthalmology departments or private clinics, gain experience, and be promoted to senior technician or department head. They can also shift to teaching, research, or open independent practice clinics.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior optic axis correctionists can enter hospital ophthalmology departments or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to orthoptists with special talents or skills, requiring a French employer contract or project invitation. |
-| Subclass Salarié (Employee Work Permit) | Based on work residency employed by a French medical institution, an employer sponsorship and proof are required that the position cannot be held by an EU citizen. |
-| Subclass Recherche emploi (Job Search Visa) | After graduation, you can look for a job in France, but you must find a qualifying job and change your status within 12 months. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, orthoptists are regulated health professionals, requiring a national com
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthoptist/FR)**

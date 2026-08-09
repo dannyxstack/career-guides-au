@@ -50,8 +50,6 @@ Specialist in the production process who assembles, adjusts, and inspects parts 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Automation via AI and robots is progressing; simple assembly work is declining. However, complex assembly, adjustment, and inspection require human judgment, making full replacement difficult.
-
 With skill certification and practical experience, can advance to leader, quality control, or production engineering roles. Multiskilling is required.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ With skill certification and practical experience, can advance to leader, qualit
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Manufacturing: residence up to 5 years, skill test & N4+ Japanese required. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires bachelor's degree or 10+ years experience. Covers assembly tech guidance & design. |
-| Subclass 技能 (Skilled Labor (Machining/Assembly)) | Residence status for skilled workers; strict experience requirements. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtain skill certification (e.g., Mechanical Assembly Skill Test) or become m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assemblers-of-general-production-and-business-machinery/JP)**

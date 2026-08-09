@@ -53,8 +53,6 @@ A Motor Vehicle Body Painter is responsible for vehicle paint restoration, colou
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Auto painters are affected by AI both positively and negatively: automatic spraying and color matching technology will replace some repetitive tasks, but fine manual work like color blending and defect repair is hard to replace; short-term job demand remains stable.
-
 The shift to water-based paint technology (VOC regulations) requires traditional painters to upskill. High-quality spray painting contractors can earn exceptionally high seasonal income, particularly during hail season.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ The shift to water-based paint technology (VOC regulations) requires traditional
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Demand is stable and growing. The insurance repair market is large, hail even
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-body-painter/AU)**

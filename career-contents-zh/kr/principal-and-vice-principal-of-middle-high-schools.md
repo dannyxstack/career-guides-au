@@ -1,10 +1,8 @@
-# Principal and Vice Principal of Middle/High Schools 职业分析 · 韩国
+# 中学/高中校长和副校长（Principal and Vice Principal of Middle/High Schools）职业分析 · 韩国
 
-**职业代码: 01323 (KECO)**
+**职业代码：01323 (KECO)**
 
-Top administrators who oversee or assist curriculum, staff management, and school operations in middle/high schools. Also handle student guidance and external relations.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责监督或协助初中/高中课程、员工管理和学校运营的高级管理人员。还处理学生指导和对外关系。
 
 
 ---
@@ -13,8 +11,8 @@ Top administrators who oversee or assist curriculum, staff management, and schoo
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Elementary Education (university) or Secondary Education (teachers' college/teaching course) | 4年 | $40,000,000~$80,000,000（Significant difference between national/public and private universities） |
-| Master's (preference for education/educational administration majors) | 2 年 | $10,000,000~$30,000,000（Cost varies between general graduate schools and graduate schools of education） |
+| 小学教育（大学）或中学教育（师范学院/教学课程） | 4年 | $40,000,000~$80,000,000（国立/公立与私立大学之间存在显著差异） |
+| 硕士学位（教育/教育管理专业优先） | 2 年 | $10,000,000~$30,000,000（普通研究生院与教育研究生院费用不同） |
 
 ---
 
@@ -22,17 +20,17 @@ Top administrators who oversee or assist curriculum, staff management, and schoo
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Secondary School Teacher Certificate (Level 2 or higher) | 教育部 | 必备 | Basic requirement for principal/vice principal qualifications |
-| Principal/Vice Principal Qualification Training | Institutions designated by the Ministry of Education (e.g., Korean Educational Development Institute) | 必备 | Vice principal requires vice principal qualification training; principal requires principal qualification training |
+| 中学教师证书（二级或以上） | 教育部 | 必备 | 校长/副校长资格的基本要求 |
+| 校长/副校长资格培训 | 教育部指定机构（如韩国教育开发院） | 必备 | 副校长需副校长资格培训；校长需校长资格培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 12,300. Due to declining school-age population, the quota for principals and vice principals is shrinking, and promotion stagnation is expected to worsen. On the other hand, demand for innovative schools may increase slightly due to educational autonomy.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 12,300。由于学龄人口下降，校长和副校长的编制正在缩减，晋升停滞预计将加剧。另一方面，由于教育自主权，创新型学校的需求可能略有增加。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +38,85 @@ Top administrators who oversee or assist curriculum, staff management, and schoo
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry level (Vice Principal, 0–5 years) | $55,000,000~$70,000,000 | 基于公立学校薪酬阶梯 |
-| Mid level (Principal, 5–15 years) | $75,000,000~$95,000,000 | Principal around salary step 30 |
-| Senior level (Principal, 15+ years) | $95,000,000~$99,999,999 | Near salary cap upon reaching maximum step |
+| 入门级（副校长，0-5年） | $55,000,000~$70,000,000 | 基于公立学校薪酬阶梯 |
+| 中级（主管，5-15年） | $75,000,000~$95,000,000 | 校长约在第30薪级 |
+| 高级别（校长，15年以上） | $95,000,000~$99,999,999 | 接近最高职级的薪资上限 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is unlikely to replace the unique leadership, interpersonal, and decision-making tasks of principals and vice-principals. However, administrative tasks (scheduling, document analysis, data-driven decision-making) can be streamlined with AI.
+AI不太可能取代校长和副校长的独特领导力、人际交往和决策任务。然而，行政任务（日程安排、文件分析、数据驱动决策）可通过AI简化。
 
-Teacher (certified) → Head Teacher → Vice Principal (qualification training + promotion) → Principal (principal qualification training + appointment). Requires at least 20 years of teaching experience, and selection is based on career evaluation separate from the teacher recruitment exam.
+教师（持证）→ 主任教师 → 副校长（资格培训+晋升）→ 校长（校长资格培训+任命）。需至少20年教学经验，选拔基于职业评估，与教师招聘考试分开。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standard Report Writing
-- Timetable and Schedule Optimization
-- Simple Analysis of Educational Statistics
+- 标准报告撰写
+- 时间表和进度优化
+- 教育统计简单分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Teacher Evaluation and Feedback
-- Curriculum Design Support
-- School Budget and Resource Allocation Decisions
+- 教师评估与反馈
+- 课程设计支持
+- 学校预算与资源配置决策
 
-**人类护城河:**
+**人类护城河：**
 
-- Vision Setting and Organizational Culture Building
-- Parent and Community Relations Management
-- Crisis Judgment and Coordination
+- 愿景设定与组织文化建设
+- 家长与社区关系管理
+- 危机判断与协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Educational Data Analysis
-- Digital Literacy
-- Change Management Leadership
+- 教育数据分析
+- 数字素养
+- 变革管理领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Declining school-age population
-- Expansion of innovation schools
-- Strengthening Educational Autonomy
-- Reduction of Teaching Staff
+- 学龄人口下降
+- 创新学校扩张
+- 加强教育自治
+- 教学人员减少
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-1 (Visiting Professor) | May be used for inviting foreign education experts, but virtually impossible for principal/vice principal positions (reserved for locals) |
-| Subclass F-2 (Residence (F-2)) | Long-term residents before permanent residency; no hiring restrictions for principal/vice principal positions, but actual cases are extremely rare. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Education expert with outstanding leadership
-- Those interested in school management and administration
-- Patient individuals who can build a long teaching career
+- 教育专家，具有卓越领导力
+- 对学校管理和行政感兴趣的人
+- 有耐心、能长期从事教学生涯的人
 
 **谁不适合**
-- Those who value stability over change
-- Those who find interpersonal relationships difficult
+- 重视稳定而非变化的人
+- 人际关系困难者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a principal?**
-答：Public school principals use a salary-by-step system, ranging from 75 million to 120 million KRW (pre-tax); private school salaries vary based on school finances but are similar.
+**问：校长的年薪是多少？**
+答：公立学校校长使用按级工资体系，范围在7500万至1.2亿韩元（税前）；私立学校工资根据学校财务状况而异，但类似。
 
-**问：Can a foreigner become a principal or vice principal at a Korean school?**
-答：Theoretically possible with an E-1 (Invited Professor) visa, etc., but legally and practically almost impossible due to domestic personnel preferences.
+**问：外国人可以在韩国学校担任校长或副校长吗？**
+答：理论上可以持E-1（受邀教授）等签证，但由于国内人员偏好，在法律和实际上几乎不可能。
 
-**问：What is the typical career path to become a principal or vice principal?**
-答：Teacher (10+ years) → Head teacher → Vice principal qualification training + promotion → Principal qualification training + promotion, taking at least 20 years.
+**问：成为校长或副校长的典型职业路径是什么？**
+答：教师（10年以上）→ 主任教师 → 副校长资格培训+晋升 → 校长资格培训+晋升，至少需要20年。
 
 
 ---
@@ -143,12 +134,12 @@ Teacher (certified) → Head Teacher → Vice Principal (qualification training 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/principal-and-vice-principal-of-middle-high-schools/KR)**

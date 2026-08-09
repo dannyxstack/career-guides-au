@@ -4,8 +4,6 @@
 
 Secondary school teachers are responsible for teaching students aged 12-18, covering subjects such as science, humanities, and languages. They are required to develop teaching plans, assess academic performance, and participate in school activities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Secondary school teachers are responsible for teaching students aged 12-18, cove
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Primary and Secondary School Teachers Are Among the Few Professions in the AI Era That Can Be Both Enhanced and Not Easily Replaced: Administrative and Lesson Preparation Tasks Will Be Largely Automated, but Classroom Interaction, Emotional Guidance, and Personalized Teaching Are Amplified by AI, Resulting in Moderate Overall Risk.
-
 Career paths: From contract teacher (interino) to tenured civil servant (funcionario), you must pass competitive exams (oposiciones). Students can be promoted to department head, vice president, or education supervisor, or pursue master's/doctoral degrees to enter university education.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career paths: From contract teacher (interino) to tenured civil servant (funcion
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employer sponsorship is required, and the position must pass the Spanish National Employment Agency (SEPE) labor market test (preferably EU citizens). |
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions, requiring a full-time contract with an annual salary at least meeting the threshold (about 34,000 euros). Teaching positions may qualify. |
-| Subclass Ley 14/2013 (Highly Skilled Professional Visa) | Suitable for highly educated or senior executives; teachers with recognized academic qualifications and contract requirements may apply. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Yes, teachers of certain subjects (such as math, science, languages) are list
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-school-teachers-except-specific-vocational-subjects/ES)**

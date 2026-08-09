@@ -53,8 +53,6 @@ An organ builder is a craftsperson who designs, constructs, assembles, and maint
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on pipe organ builders is generally positive; AI tools will enhance design, tuning, and customization capabilities, but the core value of handcrafting and on-site installation remains unchanged. Entry-level positions are slightly narrowing due to increased demand for assistance software.
-
 Starting as an apprentice (Ausbildung), progressing to skilled journeyman (Geselle), then to master (Meister), can open a workshop or serve as technical director.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as an apprentice (Ausbildung), progressing to skilled journeyman (Gesel
 | Subclass Skilled Worker (Skilled Immigration Act) | Must obtain a German employer contract; vocational training qualifications must be recognized |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one year to find a job, requires relevant qualifications |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from apprentice to technician, master, or even open your own wor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/organ-builder/DE)**

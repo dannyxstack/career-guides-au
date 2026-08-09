@@ -4,8 +4,6 @@
 
 Operate specialized equipment at industrial laundry plants to wash, iron, and organize large quantities of linens (such as hotel sheets and hospital uniforms) to ensure hygiene standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate specialized equipment at industrial laundry plants to wash, iron, and or
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-In laundry worker roles, routine washing and ironing tasks are easily replaced by automation, but AI-driven intelligent sorting, quality inspection, and personalized services will enhance efficiency, while human skills like customer communication and complex stain treatment remain defensible.
-
 Operators can be promoted to production line supervisors, quality controllers, or equipment maintenance technicians. Experienced candidates can move to logistics management or training positions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Operators can be promoted to production line supervisors, quality controllers, o
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, must prove inability to recruit EU workers. Industrial laundry positions usually do not meet shortage conditions, making approval difficult. |
-| Subclass Recherche emploi (Job Seeker Visa) | For foreigners who have completed studies in France, looking for work within 12 months. Not very useful for low-skilled positions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You can be promoted from operator to production line supervisor, quality cont
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-laundry-worker/FR)**

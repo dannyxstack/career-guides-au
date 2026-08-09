@@ -51,8 +51,6 @@ Building structure cleaners clean the exterior structures of buildings such as w
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Building structure cleaners face medium-high automation risk, but outdoor high-altitude work and complex surface cleaning still require human judgment. AI-assisted route planning and defect detection actually improve efficiency and safety.
-
 Can advance from entry-level cleaner to team leader or specialist cleaning technician; some may start their own cleaning business.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can advance from entry-level cleaner to team leader or specialist cleaning techn
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to clean technology specialists or managers with an annual income of at least €38,000 (2024 standard). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for senior cleaning technicians, requiring at least three years of work experience and an employer contract. |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates who have completed a master's degree in the Netherlands, allowing them to work freely for one year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, due to construction growth and labor shortages, demand is stable and sig
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-structure-cleaner/NL)**

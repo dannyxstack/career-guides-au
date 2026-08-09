@@ -1,8 +1,8 @@
-# Metal Fabricator and Welder 职业分析 · 韩国
+# 金属制造工和焊工（Metal Fabricator and Welder）职业分析 · 韩国
 
-**职业代码: 82231 (KECO)**
+**职业代码：82231 (KECO)**
 
-This occupation involves cutting, bending, and welding metal sheets to produce various structures or machine parts, playing a key role in shipbuilding, plant, and construction sites.
+该职业涉及切割、弯曲和焊接金属板以生产各种结构或机器零件，在造船、工厂和建筑工地中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ This occupation involves cutting, bending, and welding metal sheets to produce v
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School (specialized in metal and welding) | 3年 | $0~$3,000,000（Free education, tool costs and other incidental expenses） |
-| Korea Polytechnic University (metal and welding department) | 2 年 | $6,000,000~$10,000,000（Eligible for national and work-study scholarships） |
+| 高中（专攻金属和焊接） | 3年 | $0~$3,000,000（免费教育、工具费用及其他杂费） |
+| 韩国理工大学（金属与焊接系） | 2 年 | $6,000,000~$10,000,000（符合国家和勤工俭学奖学金资格） |
 
 ---
 
@@ -20,18 +20,18 @@ This occupation involves cutting, bending, and welding metal sheets to produce v
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master Craftsman in Metal Materials | Human Resources Development Service of Korea | 可选 | Additional points in some large corporations and public institutions |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Recommended as basic knowledge |
-| Industrial Safety Engineer | Human Resources Development Service of Korea | 可选 | Preferred for on-site safety management |
+| 金属材料高级工匠 | 韩国人力资源开发服务局 | 可选 | 部分大型企业和公共机构的附加分 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 推荐作为基础知识 |
+| 工业安全工程师 | 韩国人力资源开发服务局 | 可选 | 现场安全管理优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Employment in this field is sensitive to order fluctuations in major industries such as shipbuilding and plant construction, but demand is expected to remain stable in the near future due to a shortage of skilled workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。该领域的就业对造船和工厂建设等主要行业的订单波动敏感，但由于熟练工人短缺，预计短期内需求将保持稳定。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,90 +39,83 @@ This occupation involves cutting, bending, and welding metal sheets to produce v
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $30,000,000~$40,000,000 | Based on small and medium-sized enterprises |
-| Intermediate (4-10 years) | $45,000,000~$60,000,000 | Skilled worker, including night and overtime work |
-| Advanced (10 years or more) | $60,000,000~$90,000,000 | Foreman or master craftsman level, higher in large corporations or shipyards |
+| 初级(0-3年) | $30,000,000~$40,000,000 | 基于中小企业 |
+| 中级（4-10年） | $45,000,000~$60,000,000 | 技术工人，包括夜班和加班 |
+| 高级（10年及以上） | $60,000,000~$90,000,000 | 工头或工匠大师级别，大型企业或造船厂更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and robots are replacing simple cutting and bending tasks, but complete substitution is difficult as human skill is still needed for complex custom welding and assembly.
+AI和机器人正在取代简单的切割和弯曲任务，但完全替代困难，因为复杂定制焊接和组装仍需人工技能。
 
-Junior metal fabricators can advance to skilled workers or foremen with experience, or grow into master craftsmen or site managers by obtaining relevant certifications such as welding licenses.
+初级金属加工人员可通过经验晋升为技工或领班，或通过获得焊接执照等相关证书成长为工匠或现场经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual Cutting and Bending
-- Simple Welding
-- Repetitive Jig Setup
+- 手动切割和弯曲
+- 简单焊接
+- 重复的夹具设置
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Welding Path Optimization
-- Non-destructive Test Data Analysis
-- 3D Model-based Pre-simulation
+- 焊接路径优化
+- 无损检测数据分析
+- 基于3D模型的预仿真
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision Custom Welding (High-pressure Pipes, Pressure Vessels)
-- On-site Judgment and Repair Welding
-- Complex Sheet Metal Unfolding
+- 精密定制焊接（高压管道、压力容器）
+- 现场判断与修复焊接
+- 复杂钣金展开
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Welding Robot Programming
-- 3D CAD/CAM (e.g., SolidWorks, AutoCAD)
-- CNC Sheet Metal Cutting Machine Operation
-- Basics of Non-destructive Testing
+- 焊接机器人编程
+- 3D CAD/CAM（如SolidWorks、AutoCAD）
+- CNC金属板材切割机操作
+- 无损检测基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart Manufacturing
-- Shipbuilding
-- Plant
-- Welding Automation
+- 智能制造
+- 造船业
+- 工厂
+- 焊接自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Skilled functional personnel (welding/fabrication) can work on E-7-1 visa, must meet experience and qualification requirements |
-| Subclass E-9 (Non-professional Employment (E-9)) | Under the Employment Permit System, can work as fabrication assistant, limited to simple tasks |
-| Subclass F-2 (Residence (F-2)) | After a certain period of stay, can convert to skilled functional personnel, points system |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good hand skills and strong physical stamina
-- People who enjoy precision work and follow safety rules well
-- People skilled in reading blueprints and good at teamwork
+- 手巧且体力充沛的人
+- 喜欢精确工作且严格遵守安全规则的人
+- 擅长阅读蓝图且善于团队合作的人
 
 **谁不适合**
-- People who have difficulty standing for long periods and doing repetitive tasks
-- People who cannot tolerate fine dust, noise, or high-temperature work environments
+- 难以长时间站立和从事重复性工作的人
+- 无法忍受粉尘、噪音或高温工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a fabricator?**
-答：For SMEs, the annual salary is around 30-40 million KRW, while large shipyards and plant companies may offer over 40 million KRW.
+**问：制造工的起薪是多少？**
+答：对于中小企业，年薪约3000-4000万韩元，而大型造船厂和工厂公司可能提供超过4000万韩元。
 
-**问：Is there a visa for foreigners to work as fabricators?**
-答：Employment of skilled functional workers is possible with an E-7 (Specific Activities) visa, and E-9 (Non-professional Employment) also permits boiler assisting work.
+**问：外国人有没有工作签证可以成为制造工？**
+答：技能型功能工人可通过E-7（特定活动）签证就业，E-9（非专业就业）也允许锅炉辅助工作。
 
 
 ---
@@ -140,12 +133,12 @@ Junior metal fabricators can advance to skilled workers or foremen with experien
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-fabricator-and-welder/KR)**

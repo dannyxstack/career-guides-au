@@ -4,8 +4,6 @@
 
 This job involves operating and managing machines that process textile raw materials to produce yarn, fabric, and knitwear. It covers various processes such as spinning, weaving, knitting, and dyeing and finishing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ This job involves operating and managing machines that process textile raw mater
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Simple repetitive tasks are being replaced by AI and automation, leading to a reduction in employment scale. The introduction of smart factories is automating some processes, making workforce reduction inevitable.
-
 Starting as an entry-level worker, one can advance to skilled worker, shift supervisor, or process manager. Obtaining certifications and multi-skill proficiency is advantageous, and a textile engineering degree allows entry into technical roles.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as an entry-level worker, one can advance to skilled worker, shift supe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Available for non-professional work in manufacturing, including textile manufacturing processes |
-| Subclass E-7 (Specific Activities) | Possible if recognized as skilled worker, requires qualifications and experience |
-| Subclass F-2 (Residence) | Pre-permanent residency stage, allows long-term stay |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Certifications like Textile Engineer or Textile Technician are advantageous; 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-machinery-operator/KR)**

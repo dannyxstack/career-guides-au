@@ -4,8 +4,6 @@
 
 Defense personnel are civilian or military positions in the French military, involving non-combat functions such as administration, logistics, and technical support. This profession typically works at the Ministry of Defense or related agencies, requiring rigorous selection and training.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Defense personnel are civilian or military positions in the French military, inv
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-France's defense personnel (non-operational functions) face a mixed situation with AI: administrative, logistical, and data tasks are easily automated, but strict security procedures, human oversight, and emergency decision-making still require significant manpower, with overall risks of moderation.
-
 Clear promotion paths: entry-level positions (such as administrative assistants) can be promoted to management or technical specialists through internal exams. Senior positions such as defense analysts or project supervisors require years of experience and a higher diploma (such as a master's).
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Clear promotion paths: entry-level positions (such as administrative assistants)
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee) | Requires a job contract from a French employer, usually prioritising local hiring; office roles are possible. |
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, such as defense experts, advanced diplomas or project experience are required |
-| Subclass Carte bleue UE (EU Blue Card) | For high-paying positions (≥€53,200), defense technology specialists can try, but EU citizens are given priority |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You can advance to management positions through internal exams, or pursue a m
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/defense-personnel/FR)**

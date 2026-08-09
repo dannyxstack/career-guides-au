@@ -53,8 +53,6 @@ An officer is a leadership role in the German Bundeswehr, responsible for comman
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Officers' core command decisions and personal responsibility are difficult to fully replace by AI, but administrative, intelligence analysis, training management and other tasks will be largely automated, and job demand may be optimized rather than disappear.
-
 The promotion path usually starts from Second Lieutenant, gradually advancing to Lieutenant, Captain, Major, etc. Regular participation in military training and assessments is required; those with excellent performance can be promoted to senior officers or staff officers.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ The promotion path usually starts from Second Lieutenant, gradually advancing to
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Must pass the selection process of the Federal Defence Force, complete at lea
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/officer-armed-forces/DE)**

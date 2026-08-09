@@ -4,8 +4,6 @@
 
 Meteorologists study atmospheric phenomena, weather forecasting, and climate analysis, providing critical data for sectors like public safety, agriculture, and transportation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Meteorologists study atmospheric phenomena, weather forecasting, and climate ana
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The core work of meteorologists (data collection, pattern prediction) is being accelerated by AI automation, but extreme weather warnings, cross-departmental decision-making and recommendations, which rely on human judgment, remain stable—a mixed blessing.
-
 Career progression can range from junior forecaster to senior researcher or department head. A PhD helps in entering universities or top research institutions.
 
 **Tasks most exposed to AI:**
@@ -103,18 +99,9 @@ Career progression can range from junior forecaster to senior researcher or depa
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | For highly skilled non-EU meteorologists, requires a university degree and an annual salary of at least approximately €28,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota visa for non-high-skilled positions, but meteorologists are generally not eligible for this pathway. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers must obtain work authorization from the labor board for hiring non-EU workers. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens can work in Italy without a visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +145,12 @@ A: A master's degree in meteorology, physics, or a related field is typically re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/IT)**

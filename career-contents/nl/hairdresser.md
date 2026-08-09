@@ -4,8 +4,6 @@
 
 Provide hair care services including shampooing, cutting, coloring, and styling; requires professional hairdressing skills and good communication.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Provide hair care services including shampooing, cutting, coloring, and styling;
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The barber profession is mixed regarding AI impact: repetitive tasks can be automated, but creative styling, client communication, and fine manual skills are hard to replace; proactive learning of AI-assisted tools can enhance efficiency and personalized services.
-
 Can advance from apprentice to senior barber, or open their own barbershop. Further study can lead to becoming a hair colorist, style consultant, or hairdressing instructor.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Can advance from apprentice to senior barber, or open their own barbershop. Furt
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but hairdressers typically do not meet the salary threshold. |
-| Subclass EU Blue Card (EU Blue Card) | Hairdressers find it difficult to achieve the same high salaries. |
-| Subclass Self-employed (Vreem (Self-employed permit) | Self-employed barbers can apply via business migration, needing a business plan and meeting the points test. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Can be promoted to senior hairdresser, salon manager, or open your own salon.
 | Work intensity | low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdresser/NL)**

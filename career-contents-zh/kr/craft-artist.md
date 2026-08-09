@@ -1,10 +1,8 @@
-# Craft Artist 职业分析 · 韩国
+# 工艺美术师（Craft Artist）职业分析 · 韩国
 
-**职业代码: 88411 (KECO)**
+**职业代码：88411 (KECO)**
 
-A professional who creates artistic or practical crafts using various materials such as ceramics, woodworking, metal, and textiles based on hand skills and creativity.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+利用手工艺技巧和创造力，使用陶瓷、木工、金属、纺织等多种材料创作艺术或实用工艺品的专业人员。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who creates artistic or practical crafts using various materials 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Crafts at a Junior College | 2–3 years | $15,000,000~$25,000,000（Tuition based on national/public universities; private universities are more expensive） |
-| Department of Crafts and Design at a University | 4年 | $20,000,000~$40,000,000（Private university tuition; scholarships available） |
-| Private Workshop Education and Workshops | 0.5~1年 | $3,000,000~$10,000,000（Short-term courses; material costs additional） |
+| 专科学校的工艺系 | 2–3年 | $15,000,000~$25,000,000（学费以国立/公立大学为准；私立大学更贵） |
+| 大学工艺与设计系 | 4年 | $20,000,000~$40,000,000（私立大学学费；可申请奖学金） |
+| 私人工作坊教育与培训 | 0.5~1年 | $3,000,000~$10,000,000（短期课程；材料费另计） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who creates artistic or practical crafts using various materials 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Craft Technician (Craft Skill Worker) | Human Resources Development Service of Korea | 可选 | National technical qualification, available by field such as ceramics and metalworking |
-| Master Artisan of Korean Crafts | Ministry of Culture, Sports and Tourism | 可选 | Certification for highest skill level; experience required |
-| Cultural Product Technology Engineer | Human Resources Development Service of Korea | 可选 | Advanced qualification; evaluates design and production skills |
+| 工艺技术员（手工艺技能工人） | 韩国人力资源开发服务局 | 可选 | 国家技术资格，按领域如陶瓷和金属加工提供。 |
+| 韩国工艺大师 | 文化体育观光部 | 可选 | 最高技能等级认证；需要经验 |
+| 文化产品技术工程师 | 韩国人力资源开发服务局 | 可选 | 高级资质；评估设计与生产技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 18,000. In Korea, the craft artist field is expected to grow slightly due to a renewed interest in traditional culture and increased demand for handmade crafts, but most work as small-scale self-employed individuals, limiting job opportunities.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 18,000。在韩国，由于对传统文化的重新关注和对手工制品的需求增加，工艺艺术家领域预计略有增长，但大多数为小规模自营职业，限制了就业机会。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A professional who creates artistic or practical crafts using various materials 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $24,000,000~$30,000,000 | Workshop work or internship level |
-| Intermediate (4–9 years) | $30,000,000~$45,000,000 | Increases with skill proficiency |
-| Advanced (10+ years) | $35,000,000~$60,000,000 | Highly variable when including work sales revenue |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 车间工作或实习水平 |
+| 中级（4-9年） | $30,000,000~$45,000,000 | 随技能熟练度增加 |
+| 高级（10年以上） | $35,000,000~$60,000,000 | 包含工作销售收入时波动很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI has limitations in fully automating the craft field, but it can be used as an auxiliary tool for design generation, pattern optimization, marketing, etc., assisting the creative process. High-level handcraft skills are difficult to replace by AI and will remain a uniquely human domain.
+AI在完全自动化手工艺领域存在局限性，但可作为设计生成、图案优化、营销等辅助工具，辅助创作过程。高水平手工技能难以被AI替代，将仍然是人类独有的领域。
 
-Typically starts with starting a personal studio or working at a workshop; with experience, one can be recognized as a master craft artist or expand into exhibition and education activities.
+通常从开设个人工作室或在工坊工作开始；有经验后可成为大师级工艺美术家或拓展至展览和教育活动。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Pattern Copying
-- Basic Design Generation
-- Simple Processing like Material Cutting
+- 简单图案复制
+- 基本设计生成
+- 材料切割等简单加工
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Creative Design Proposals
-- Color and Material Matching Recommendations
-- 3D Modeling Visualization
+- 创意设计提案
+- 颜色和材质搭配建议
+- 3D建模可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced Handwork Skills
-- Artistic Sense and Originality
-- Traditional Craft Knowledge and Experience
+- 高级手工技能
+- 艺术感与原创性
+- 传统手工艺知识与经验
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI Design Tools
-- Digital Marketing
-- Operating Advanced Equipment like 3D Printing and Laser Cutting
+- 利用AI设计工具
+- 数字营销
+- 操作3D打印和激光切割等先进设备
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional Crafts
-- Handicrafts
-- Studio
-- Cultural Products
+- 传统工艺
+- 手工艺品
+- 工作室
+- 文化产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when invited as a professional artisan to a Korean workshop, contract required |
-| Subclass F-2 (Residence) | Acquired after long-term stay, allows free activities |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans, no restrictions on craft activities |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity and creativity
-- People who prefer an independent work environment
-- People with a strong interest in traditional culture
+- 手巧且富有创造力的人
+- 偏好独立工作环境的人
+- 对传统文化有浓厚兴趣的人
 
 **谁不适合**
-- People seeking quick profits
-- People who prefer stable employment within an organization
+- 寻求快速获利的人
+- 偏好组织内稳定就业的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a craftsperson?**
-答：For entry-level, it is about 24-30 million won, and it varies greatly depending on career and art sales performance. For self-employed individuals, income fluctuates significantly.
+**问：工匠的平均工资是多少？**
+答：入门级约2400-3000万韩元，视职业和艺术品销售业绩差异很大。个体经营者收入波动显著。
 
-**问：What visa is needed for foreigners to work as a craftsperson in Korea?**
-答：If invited as a professional craftsperson, an E-7 visa is possible, but employment contract and qualification requirements must be met. Overseas Koreans can freely work with an F-4 visa.
+**问：外国人在韩国当工匠需要什么签证？**
+答：若以专业工匠身份受邀，可申请E-7签证，但必须满足雇佣合同和资格要求。海外韩裔可持F-4签证自由工作。
 
-**问：How can I develop my career as a craftsperson?**
-答：You can diversify your career paths by starting a personal studio, participating in exhibitions, teaching craft courses, or developing cultural products. Obtaining a national certification is helpful.
+**问：如何作为一名工匠发展我的职业生涯？**
+答：您可以通过开设个人工作室、参加展览、教授手工艺课程或开发文化产品来拓宽职业道路。获得国家认证将有所帮助。
 
 
 ---
@@ -146,12 +136,12 @@ Typically starts with starting a personal studio or working at a workshop; with 
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/craft-artist/KR)**

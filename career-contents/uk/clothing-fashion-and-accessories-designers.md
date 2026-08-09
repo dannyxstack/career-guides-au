@@ -51,8 +51,6 @@ Fashion, apparel, and accessory designers plan, direct, and create new clothing 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The outlook for clothing, fashion, and accessory designers is mixed: AI is efficient in tasks like trend forecasting, sketch generation, and pattern matching, but creativity, aesthetic judgment, and client communication remain human strengths. Entry-level competition increases due to AI tools, but senior designers' value rises.
-
 Entry-level designers can start as assistants and gradually advance to senior designer, design director, or creative director. They can also specialize in niche areas such as sustainable fashion, sportswear, or accessories, or start their own brand.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level designers can start as assistants and gradually advance to senior de
 | Subclass Global Talent (Global Talent visa) | For designers with outstanding achievements or potential in the fashion field, no employer sponsorship required |
 | Subclass Graduate (Graduate visa (formerly PSW)) | UK graduates can stay for 2 years (3 years for PhD) to seek work or start a business |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a bachelor's degree in fashion design, such as BA Fashion 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clothing-fashion-and-accessories-designers/UK)**

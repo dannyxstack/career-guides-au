@@ -52,8 +52,6 @@ Responsible for washing, ironing, and handling clothing, linens, and other texti
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Dry cleaners face high automation risk, especially in centralized dry-cleaning plants, but in-store manual services remain partially irreplaceable. Entry-level positions will be significantly reduced by self-service equipment and AI scheduling systems.
-
 Usually starts as an entry-level laundry worker, then can advance to laundry supervisor or manager after gaining experience, but career advancement is limited.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Usually starts as an entry-level laundry worker, then can advance to laundry sup
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Can advance from laundry worker to supervisor or store manager, but senior po
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dry-cleaning-laundry-and-related-occupations/CA)**

@@ -4,8 +4,6 @@
 
 A specialist who operates large computers such as mainframes to execute jobs, monitor systems, and process data. Supports core systems in banks and government offices.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialist who operates large computers such as mainframes to execute jobs, mo
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With AI and automation, manual job operations and monitoring tasks are shrinking. Cloud migration reduces mainframe demand, but legacy system maintenance retains some demand.
-
 Career advancement to system administrator or database administrator is possible. Skills in legacy languages like COBOL are valued, but many also transition to other fields.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Career advancement to system administrator or database administrator is possible
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to information processing technology work. Requires degree or practical experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not Applicable)) | Outside target field. System operation tasks are excluded. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +130,12 @@ A: The 'Engineer/Specialist in Humanities/International Services' status applies
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-operator-mainframe/JP)**

@@ -51,8 +51,6 @@ Textile designers develop concepts for fabrics, patterns, structures, and colour
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Textile designers will face strong AI impact on repetitive pattern generation and color optimization, but core human abilities such as handcraft, material innovation, and emotional design remain hard to replace. Proactive integration of AI can improve efficiency, but low-end roles may shrink.
-
 Career progression can go from junior designer to senior designer, design director, or creative director. Some transition to product management, trend research, or start their own business. Further study like a Master's in Textile Technology can boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression can go from junior designer to senior designer, design direct
 | Subclass EU Blue Card (EU Blue Card) | For bachelor's degree or higher, annual salary must meet statutory threshold (2024 approx. €43,800, shortage occupations approx. €40,000). |
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to dual vocational training qualifications or bachelor's graduates, requiring a job offer from a German employer. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Traditional textile industry jobs are declining, but sustainable and digital 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-designers/DE)**

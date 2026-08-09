@@ -1,10 +1,8 @@
 # 水产养殖员（Aquaculture Worker）职业分析 · 日本
 
-**职业代码: 484 (JSCO)**
+**职业代码：484 (JSCO)**
 
-A specialized professional responsible for the cultivation and management of fish and shellfish. Engages in a wide range of tasks from on-site operations contributing to the stable supply of marine resources to managerial roles.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责鱼贝类养殖与管理的专业人才。从事从保障海洋资源稳定供应的现场操作到管理职务的广泛工作。
 
 
 ---
@@ -13,9 +11,9 @@ A specialized professional responsible for the cultivation and management of fis
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $1,000,000~$1,500,000（For public schools） |
-| Fisheries Vocational School / Junior College | 2 年 | $2,000,000~$3,000,000（For private schools） |
-| National Fisheries University (university level) | 4年 | $2,500,000~$4,000,000（For national universities） |
+| 高中 | 3年 | $1,000,000~$1,500,000（公立学校用） |
+| 渔业职业高中/大专 | 2 年 | $2,000,000~$3,000,000（适用于私立学校） |
+| 国立水产大学（大学水平） | 4年 | $2,500,000~$4,000,000（适用于国立大学） |
 
 ---
 
@@ -23,18 +21,18 @@ A specialized professional responsible for the cultivation and management of fis
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Fisheries Radio Operator | Ministry of Internal Affairs and Communications | 可选 | Required for operation of onboard radio equipment |
-| Type 1 and Type 2 Aquaculture Specialist | Japan Aquaculture Specialist Association | 可选 | Private certification proving aquaculture skills |
-| Small Vessel Operator | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | National license required for operating fishing boats |
+| 渔业无线电操作员 | 总务省 | 可选 | 操作机载无线电设备所需 |
+| 1型和2型水产养殖专家 | 日本水产养殖专家协会 | 可选 | 证明水产养殖技能的私人认证 |
+| 小型船舶操作员 | 国土交通省 | 可选 | 操作渔船需持有国家执照 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 28,000. Japan's fishing industry faces serious aging and labor shortages, with expectations for new entrants from younger generations. While productivity improvement is anticipated through advanced aquaculture technology and automation, the number of workers is declining. Foreign workers are also being accepted in this field, which is designated under the Specified Skilled Worker visa.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 28,000。日本的渔业面临严重的老龄化和劳动力短缺，期望年轻一代的新进入者。虽然通过先进的水产养殖技术和自动化预期提高生产力，但工人数量正在下降。该领域也被指定为特定技能工人签证下的外国工人接受领域。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A specialized professional responsible for the cultivation and management of fis
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $2,500,000~$3,500,000 | 根据地区和企业规模浮动 |
-| 中级(3-7年) | $3,500,000~$5,000,000 | Increases with skills and experience |
-| Advanced (7+ years) | $5,000,000~$7,000,000 | Higher for managers or self-employed |
+| 入门级（0-3年） | $2,500,000~$3,500,000 | 根据地区和企业规模浮动 |
+| 中级(3-7年) | $3,500,000~$5,000,000 | 随技能和经验增加 |
+| 高级（7年以上） | $5,000,000~$7,000,000 | 经理或自雇人士更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation assist feeding, water quality management, and monitoring, easing labor shortages, but much on-site work still relies on human experience and judgment. Full replacement is unlikely; rather it boosts productivity.
+AI和自动化辅助投喂、水质管理和监控，缓解劳动力短缺，但许多现场工作仍依赖人类经验和判断。完全替代可能性低，更可能提高生产力
 
-Start with on-site work, then gain experience to move into aquaculture management or business operations. At large-scale farms, advancement to team leader or manager is possible. There is also the option of starting an independent aquaculture business, with support systems available for new entrants.
+从现场工作开始，积累经验后转入水产养殖管理或业务运营。在大型养殖场可晋升为组长或经理。也可选择自主创业，有支持制度。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular feeding tasks
-- Manual measurement of water temperature, dissolved oxygen, etc.
-- Simple net cleaning tasks
+- 定期喂食任务
+- 手动测量水温、溶解氧等
+- 简单的净网清洁任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Breeding management through sensor data analysis
-- Operation and monitoring of automatic feeding systems
-- Drone-based visual inspection of fish cages
+- 通过传感器数据分析进行育种管理
+- 自动喂料系统的操作与监控
+- 基于无人机的鱼笼目视检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Five senses and experience to detect subtle abnormalities in organisms
-- Intuition to read weather and sea conditions
-- Human network with fisheries cooperatives and markets
+- 用五感和经验察觉生物体中的细微异常
+- 判断天气与海况的直觉
+- 与渔业合作社和市场的人力网络
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis and IoT device operation
-- Aquaculture management
-- Sanitation management and disease control
-- Communication skills
+- 数据分析与物联网设备操作
+- 水产养殖管理
+- 卫生管理与疾病控制
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Labor shortage
-- Advanced aquaculture technology
-- Automation/ICT adoption
-- Export expansion
+- 劳动力短缺
+- 先进水产养殖技术
+- 自动化/ICT应用
+- 出口扩张
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fisheries)) | For immediate foreign workers. Max 5 years stay, no family accompaniment. JLPT N4 or higher required. |
-| Subclass 技能実習 (Technical Intern Training (Fisheries)) | Aims at skill transfer. Max 5 years. Switching to Specified Skilled Worker is recommended. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services (Fisheries Technology)) | For highly skilled personnel in specialized aquaculture tech/R&D. Requires university degree or higher. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those confident in physical strength and unafraid of outdoor work
-- Those who enjoy raising living creatures
-- Those wanting community-rooted jobs
+- 自信体力好且不惧户外工作的人
+- 喜欢饲养生物的人
+- 希望扎根社区的工作者
 
 **谁不适合**
-- Those seeking stable weekend holidays
-- Those who dislike work in high heat/humidity or harsh weather conditions
+- 寻求稳定周末假期的人
+- 不喜欢高温高湿或恶劣天气条件下工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of aquaculture workers?**
-答：Entry-level: 2.5-3.5 million yen, mid-level: 3.5-5 million yen, advanced: 5-7 million yen. Self-employed income varies by management ability.
+**问：水产养殖工人的年收入是多少？**
+答：入门级：250-350万日元，中级：350-500万日元，高级：500-700万日元。自雇收入因管理能力而异。
 
-**问：What visa is required for foreigners to work in aquaculture in Japan?**
-答：Specified Skilled Worker (i) (Fishery) is most common. Switching from Technical Intern Training is possible. For advanced skills, Engineer/Specialist in Humanities/International Services is an option.
+**问：外国人在日本从事水产养殖工作需要什么签证？**
+答：特定技能 (i) (渔业) 最常见。可从技能实习转换。对于高级技能，可选工程师/人文/国际服务专家。
 
-**问：How can I get a job in aquaculture with no experience?**
-答：Look for jobs at Hello Work or industry associations, study at fisheries schools, or use local government employment support. Many workplaces offer on-site training.
+**问：没有经验如何找到水产养殖工作？**
+答：在Hello Work或行业协会寻找工作，就读渔业学校，或利用地方政府就业支持。许多工作场所提供在岗培训。
 
 
 ---
@@ -147,12 +137,12 @@ Start with on-site work, then gain experience to move into aquaculture managemen
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/aquaculture-worker/JP)**

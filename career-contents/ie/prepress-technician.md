@@ -53,8 +53,6 @@ Pre-press technicians convert design files into print-ready formats, including l
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Pre-press technician work is highly automated; AI can now replace humans in core tasks like layout, image processing, and proofing. Entry-level positions have significantly decreased, and practitioners need to shift toward creativity and quality control.
-
 Entry-level pre-press technicians can advance to senior technicians or pre-press supervisors, or move into digital media design or print management roles. Digital skills (such as PDF workflows) are key to advancement.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level pre-press technicians can advance to senior technicians or pre-press
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: This occupation is not on the shortage list; usually only a standard work per
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-technician/IE)**

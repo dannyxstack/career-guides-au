@@ -51,8 +51,6 @@ Media informatics specialists design, develop, and maintain multimedia systems s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a media informatics specialist, AI can improve content generation and system development efficiency, but it will also automate some front-end development and testing tasks. Job demand shifts toward advanced system design and AI integration, requiring continuous learning.
-
 Can advance from junior developer to senior engineer, technical lead, or project manager. Can also specialize in UI/UX design, AR/VR development, or data analysis. Cross-disciplinary skills enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior developer to senior engineer, technical lead, or project
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Suitable for those with vocational training or a university degree; no German B1 required; can apply. |
 | Subclass Chancenkarte (Opportunity Card) | Issued based on a points system, allows one year to find work in Germany, suitable for qualified individuals. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must undergo the Anerkennungsverfahren (qualification recognition), where Ger
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/media-it-specialist/DE)**

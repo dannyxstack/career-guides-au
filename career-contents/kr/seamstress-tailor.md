@@ -4,8 +4,6 @@
 
 A production worker who cuts and sews clothing and textile products, mainly working in sewing factories or clothing manufacturers, performing a key role in determining the quality of finished products.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A production worker who cuts and sews clothing and textile products, mainly work
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-As AI and automation technology replace simple sewing tasks, the demand for seamstresses is decreasing, but high-end custom and repair work still requires human skill, so it will maintain its place in some areas.
-
 Starting as a junior seamstress, one can advance to master seamstress, production manager, or quality control manager after acquiring skilled techniques, and switching to self-employment (custom clothing/alterations) is common.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Starting as a junior seamstress, one can advance to master seamstress, productio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Sewing company employers can hire foreigners on E-9 visa if they obtain an employment permit. After gaining skills, can switch to E-7-4. |
-| Subclass E-7-4 (E-7 (Specific Activities, Skilled Worker)) | After E-9 stay, convert upon recognition of skill level. Can transition to permanent residence. |
-| Subclass F-4 (Overseas Koreans) | No employment activity restrictions for overseas Koreans aged 25 or older, sewing work allowed |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Yes, with experience you can advance to production supervisor or quality cont
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/seamstress-tailor/KR)**

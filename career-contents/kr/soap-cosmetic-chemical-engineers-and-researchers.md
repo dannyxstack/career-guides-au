@@ -4,8 +4,6 @@
 
 These are professionals who research raw material development, formulation design, quality control, and production processes for household chemical products such as soap, detergents, and cosmetics.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ These are professionals who research raw material development, formulation desig
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have greatly increased efficiency in cosmetic R&D, but creative formulation design and consumer sensory evaluation still rely heavily on human experts, making this a career where research capabilities are strengthened rather than replaced by AI.
-
 Most enter with a master's or doctoral degree in science or engineering, then advance from researcher to senior researcher, principal researcher, and chief researcher. Some transition to quality control or production management.
 
 **Tasks most exposed to AI:**
@@ -94,18 +90,9 @@ Most enter with a master's or doctoral degree in science or engineering, then ad
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For professional research personnel; applicable for cosmetic R&D positions |
-| Subclass D-2 (Study) | International students majoring in chemistry/cosmetic engineering; switch to D-10 after graduation |
-| Subclass F-2 (Residence) | Pre-permanent residence stage; free stay; applicable after domestic degree/career |
-| Subclass F-4 (Overseas Korean) | Overseas Korean (ethnic Korean foreigner) employment visa; research positions possible |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +136,12 @@ A: A master's degree or higher, research papers, and new product development per
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/soap-cosmetic-chemical-engineers-and-researchers/KR)**

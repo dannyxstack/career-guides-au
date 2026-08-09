@@ -55,8 +55,6 @@ Operate and maintain oil and gas drilling equipment, including rigs, workover un
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation has a significant risk of AI automation, as drilling monitoring, data recording, and some maintenance can be taken over by AI systems, reducing entry-level jobs, but on-site operations and complex troubleshooting still require human experience.
-
 Advance from roughneck to senior operator, rig manager, or drilling supervisor. With experience, transition to project management or management roles at oilfield service companies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Advance from roughneck to senior operator, rig manager, or drilling supervisor. 
 | Subclass PNP (Provincial Nominee Program) | For example, the Alberta Opportunity Stream, open to specific occupations. |
 | Subclass TFWP (Temporary Foreign Worker Program) | Obtain a closed work permit through the Temporary Foreign Worker Program, usually based on LMIA. |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: A high school diploma is the basic requirement; H2S alert training is mandato
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oil-and-gas-well-drilling-and-related-workers-and-services-operators/CA)**

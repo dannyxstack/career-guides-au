@@ -53,8 +53,6 @@ Responsible for building financial models, analyzing market data, managing risks
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can be promoted to senior analysts, team leaders, and eventually become department directors or chief risk officers. You can also transition into a quantitative researcher, investment banker, or fintech career.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior analysts can be promoted to senior analysts, team leaders, and eventually
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents such as engineers or master's graduates, with a contract annual salary of at least 53,155 euros |
-| Subclass Carte bleue UE (EU Blue Card) | For non-EU highly skilled workers, the annual salary must be at least 53,155 euros |
-| Subclass Salarié (Employee Work Permit) | Regular work residency requires employer sponsorship and meets salary requirements |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: From junior analysts to senior analysts, team leaders, and then department di
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analysis-and-engineering/FR)**

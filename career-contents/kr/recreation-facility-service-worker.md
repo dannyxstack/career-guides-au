@@ -4,8 +4,6 @@
 
 A worker responsible for customer service and facility management at recreational facilities such as movie theaters, amusement parks, and casinos.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A worker responsible for customer service and facility management at recreationa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI and automation can replace some simple tasks such as ticketing and reservation systems, core tasks requiring human judgment and interaction, such as customer service and safety management, are difficult for AI to replace, making the job outlook stable.
-
 Starting as an entry-level service worker, one can be promoted to facility manager or site manager, and at large chains, even to branch manager.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as an entry-level service worker, one can be promoted to facility manag
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled technicians in professional recreational facility operation |
-| Subclass E-9 (E-9 (Non-professional Employment)) | General service work is excluded, but limited application possible |
-| Subclass F-2 (Residence) | Long-term residents can work freely |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Promotion possible to facility manager, field supervisor, branch chief, etc.,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/recreation-facility-service-worker/KR)**

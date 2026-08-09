@@ -4,8 +4,6 @@
 
 Responsible for vessel navigation safety, route planning, operation of navigation equipment, and crew management to ensure maritime transport complies with international regulations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for vessel navigation safety, route planning, operation of navigatio
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Maritime navigation officers face dual challenges from AI-assisted enhancements and partial task automation: route planning and data monitoring will be taken over by AI, but navigation decisions and emergency response rely on human experience, making legal and safety responsibilities difficult to replace. Entry-level positions are narrowing due to AI reshaping the market.
-
 Junior third mate can be promoted to second mate or chief mate, eventually becoming a captain. You can also move into port management, maritime security, or shore-based positions in shipping companies. You must accumulate maritime qualifications and pass the French Maritime Authority (DMF) certification exam.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior third mate can be promoted to second mate or chief mate, eventually becom
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as senior maritime officers, requiring employer sponsorship and recognition by the French Maritime Authority |
-| Subclass Salarié (Employee Work Permit) | Applicable to long-term employment contracts, requiring labor market testing (Opposition au travail) |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-paying positions (annual salary ≥ 53,000 EUR), but maritime positions are permanently based on ships and may not be subject to shore-based requirements |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Must hold a seafarer certificate (third, second, or first class) issued by th
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/navigation-officer/FR)**

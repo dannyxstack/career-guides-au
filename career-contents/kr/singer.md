@@ -4,8 +4,6 @@
 
 An artistic profession that conveys music to the public by singing on stage or broadcasts. Livelihood is sustained through agency contracts, performances, and music revenue rather than a stable salary.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ An artistic profession that conveys music to the public by singing on stage or b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists in composition, arrangement, and music production, expanding singers' creative capabilities. There are copyright issues with AI covers and vocal synthesis, but stage and live performances remain uniquely human. While AI has reduced jobs in simple music production, the artistic value of singers is expected to become more prominent.
-
 Pass audition → Trainee → Debut → Activities → Solo/team transition. Long-term activity requires skills in composition, lyrics, and producing. After retirement, transition to vocal trainer or composer.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Pass audition → Trainee → Debut → Activities → Solo/team transition. Lon
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-6 (Arts and Entertainment Visa) | Foreign singers need to obtain this for performances and broadcasting activities in Korea, requiring invitation from an agency |
-| Subclass F-2 (Residence Visa) | Applicable after a certain period of stay, no activity restrictions, preliminary stage to permanent residence |
-| Subclass F-5 (Permanent Residence Visa) | Obtained after meeting long-term stay and income requirements, virtually unlimited activities |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Many transition to roles such as vocal trainer, composer, music producer, bro
 | Work intensity | very high (★★★★★) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/singer/KR)**

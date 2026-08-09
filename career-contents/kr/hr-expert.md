@@ -4,8 +4,6 @@
 
 Human resources experts plan and operate overall HR functions such as recruitment, evaluation, compensation, training, and labor management to enhance an organization's talent competitiveness.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Human resources experts plan and operate overall HR functions such as recruitmen
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists data-driven tasks such as writing job postings, screening resumes, and analyzing salaries, but areas requiring human judgment like interviews, improving organizational culture, and labor relations remain important. Overall, while AI replaces some tasks, it is difficult to completely replace the role of HR professionals.
-
 They typically work in HR departments of large corporations, HR consulting, headhunting, or public institutions. With experience, they can advance to HR manager, HRD specialist, or HR team leader. A specialist path as an HR digital transformation expert is also possible.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ They typically work in HR departments of large corporations, HR consulting, head
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Issued when hired as a professional at a Korean company, some HR consulting fields applicable |
-| Subclass F-2 (Residence Visa) | Available to long-term residents, few employment restrictions |
-| Subclass F-4 (Overseas Korean Visa) | For overseas Koreans, office jobs possible |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Data analysis skills, communication skills, knowledge of labor law, and under
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hr-expert/KR)**

@@ -52,8 +52,6 @@ Responsible for the learning, development, and care of children aged 0 to 5 year
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on early childhood education and care practitioners is mixed: administrative and record-keeping tasks will be automated, but core care and emotional interaction are hard to replace, requiring practitioners to shift towards higher-value interactions and personalised teaching.
-
 Advancement from entry-level practitioner to senior practitioner, team leader, manager, or early childhood education consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Advancement from entry-level practitioner to senior practitioner, team leader, m
 | Subclass Graduate (Graduate Visa) | Allows UK graduates to work for 2 years |
 | Subclass Health & Care (Health and Care Worker Visa) | Suitable for specific roles such as childcare |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: At least a Child Care Level III diploma, EYTS or early childhood education de
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-education-and-childcare-practitioners/UK)**

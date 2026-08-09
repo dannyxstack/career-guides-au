@@ -1,10 +1,8 @@
-# Bathhouse Attendant 职业分析 · 日本
+# 浴室服务员（Bathhouse Attendant）职业分析 · 日本
 
-**职业代码: 384 (JSCO)**
+**职业代码：384 (JSCO)**
 
-Service role handling reception, cleaning, facility management, and customer service at public baths or super sento.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在公共浴室或超级钱汤负责接待、清洁、设施管理和客户服务的服务角色。
 
 
 ---
@@ -13,8 +11,8 @@ Service role handling reception, cleaning, facility management, and customer ser
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior High School Diploma | 9年 | $0~$0（Compulsory Education） |
-| Vocational Training (Customer Service) | 1年 | $100,000~$500,000（Public Vocational Training） |
+| 初中毕业证书 | 9年 | $0~$0（义务教育） |
+| 职业培训（客户服务） | 1年 | $100,000~$500,000（公共职业培训） |
 
 ---
 
@@ -22,17 +20,17 @@ Service role handling reception, cleaning, facility management, and customer ser
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Public Bath Business License (Health Center) | Prefectural Health Center | 必备 | Required for facility operation |
-| Hot Spring Bathing Instructor | Japan Spa Association | 可选 | Optional but beneficial for hot spring facilities |
+| 公共浴室营业执照（健康中心） | 县保健所 | 必备 | 设施运营所需 |
+| 温泉浴指导师 | 日本水疗协会 | 可选 | 温泉设施可选但有益 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 35,000. Employment is declining due to aging and successor shortages, though demand persists in tourist areas and hot spring facilities.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 35,000。由于老龄化和接班人短缺，就业正在减少，但旅游区和温泉设施的需求依然存在。
 
-**竞争度: 较低（★☆☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★☆☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,86 +38,79 @@ Service role handling reception, cleaning, facility management, and customer ser
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $2,500,000~$3,500,000 | Approx. ¥1,200–1,700/hour |
-| Mid (4–10 years) | $3,500,000~$4,500,000 | Supervisor |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 约¥1,200–1,700/小时 |
+| 中期（4-10年） | $3,500,000~$4,500,000 | 主管 |
 | 资深（10年以上） | $4,500,000~$5,500,000 | 经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI and automation streamline some cleaning and reception tasks, human judgment remains necessary for customer service and safety management, with AI playing a supporting role.
+虽然AI和自动化简化了一些清洁和接待任务，但客户服务和安全管理人员仍不可或缺，AI起辅助作用。
 
-Career advancement is limited; some move to managerial roles or independent business ownership.
+职业晋升有限；有些人转向管理职位或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Payment at automated ticket vending machines
-- Floor cleaning by cleaning robots
+- 自动售票机付款
+- 由清洁机器人进行地板清洁
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based congestion prediction and staff allocation
-- Service improvement through customer analysis
+- 基于AI的拥堵预测和人员配置
+- 通过客户分析改进服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal customer service skills
-- Facility safety management and emergency response
+- 人际客户服务技能
+- 设施安全管理与应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 客户服务技巧
-- Machine operation (e.g., cleaning robots)
-- Multilingual support
+- 机器操作（如清洁机器人）
+- 多语言支持
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hot spring facilities
-- Tourist areas
-- Labor shortage
-- Aging population
+- 温泉设施
+- 旅游区
+- 劳动力短缺
+- 人口老龄化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Limited to building cleaning; bathhouse attendants are not directly eligible. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Available for management/administrative work or when advanced knowledge is required, but difficult for general bathhouse work. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in physical strength
+- 体力充沛的人
 - 喜欢与人打交道者
-- People good at cleaning and organizing
+- 擅长清洁和整理的人
 
 **谁不适合**
-- People averse to cleaning work
-- People who want to avoid manual labor
+- 不愿从事清洁工作的人
+- 希望避免体力劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of bathhouse workers?**
-答：Approximately ¥2.5-3.5 million for entry-level, ¥3.5-4.5 million for intermediate, and ¥4.5-5.5 million for advanced.
+**问：澡堂工作人员的平均年收入是多少？**
+答：入门级约¥250-350万，中级约¥350-450万，高级约¥450-550万。
 
-**问：What visa do foreigners need to work as bathhouse employees?**
-答：General bathhouse work is not covered by Specified Skilled Worker or Engineer/Specialist in Humanities/International Services visas, making it difficult to obtain residence status.
+**问：外国人从事浴场员工工作需要什么签证？**
+答：普通澡堂工作不属于特定技能工人或工程师/人文知识/国际服务签证的范畴，因此难以获得居留身份。
 
 
 ---
@@ -137,12 +128,12 @@ Career advancement is limited; some move to managerial roles or independent busi
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bathhouse-attendant/JP)**

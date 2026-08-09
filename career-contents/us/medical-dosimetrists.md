@@ -53,8 +53,6 @@ Medical dosimetrists generate radiation treatment plans, calculate radiation dos
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI automation on medical radiation technologists is mixed: routine tasks like standardized image acquisition and quality control face replacement risks, but AI enhances diagnostic image analysis, optimizes scan protocols and human-machine collaborative decisions, while legal and ethical responsibilities require human oversight. Overall demand for the role is stable, with slightly higher entry barriers.
-
 Junior dosimetrists can advance to senior dosimetrist through clinical experience, then to chief dosimetrist or management roles. Some transition to medical physicist or radiation therapist roles, requiring additional education or certification.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior dosimetrists can advance to senior dosimetrist through clinical experienc
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | For skilled or professional workers; requires PERM |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | Preliminary step for EB-2/EB-3 green cards, proving no qualified US workers available |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a bachelor's degree (physics or related field), then complet
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-dosimetrists/US)**

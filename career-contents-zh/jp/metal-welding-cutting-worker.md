@@ -1,8 +1,8 @@
-# Metal Welding/Cutting Worker 职业分析 · 日本
+# 金属焊接/切割工人（Metal Welding/Cutting Worker）职业分析 · 日本
 
-**职业代码: 528 (JSCO)**
+**职业代码：528 (JSCO)**
 
-Skilled professional who welds and cuts metal parts and structures. High demand in manufacturing and construction, where expertise is valued.
+熟练焊接和切割金属零件及结构的专业人员。制造业和建筑业需求高，技能备受重视。
 
 
 ---
@@ -11,8 +11,8 @@ Skilled professional who welds and cuts metal parts and structures. High demand 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 职业培训学校 | 1~2年 | $200,000~$600,000（Public training may be free. Private schools cost ¥400,000–600,000/year.） |
-| Specialized school | 2 年 | $1,200,000~$2,000,000（Annual tuition for private specialized schools.） |
+| 职业培训学校 | 1~2年 | $200,000~$600,000（公共培训可能免费。私立学校每年40-60万日元。） |
+| 专业学校 | 2 年 | $1,200,000~$2,000,000（私立专门学校年学费。） |
 
 ---
 
@@ -20,18 +20,18 @@ Skilled professional who welds and cuts metal parts and structures. High demand 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Gas Welding Technician | Ministry of Health, Labour and Welfare | 必备 | Required for gas welding work. |
-| Welding Skill Evaluation Test (JIS) | Japan Welding Engineering Society | 可选 | Evaluates welding skills per JIS standards. Widely recognized in the industry. |
-| Special Welding Technician | Japan Welding Engineering Society | 可选 | Proof of advanced welding skills. Advantageous for promotion and career growth. |
+| 气焊技术员 | 厚生劳动省 | 必备 | 气焊工作需要。 |
+| 焊接技能评估测试（JIS） | 日本焊接工程学会 | 可选 | 按JIS标准评估焊接技能。行业内广泛认可。 |
+| 特殊焊接技术员 | 日本焊接工程学会 | 可选 | 高级焊接技能证明。有利于晋升和职业发展。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 275,000. Due to labor shortages in manufacturing and demand for repairing aging infrastructure, stable employment is expected. However, automation is reducing simpler tasks.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 275,000。由于制造业劳动力短缺以及对老化基础设施维修的需求，预计就业将保持稳定。不过，自动化正在减少较为简单的工作任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,90 +39,83 @@ Skilled professional who welds and cuts metal parts and structures. High demand 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,000,000~$4,000,000 | Annual income ¥3–4 million. Varies by region and company size. |
-| Mid-level (3–10 years) | $4,000,000~$5,500,000 | Increases with skill test pass and experience. |
-| Veteran (10+ years) | $5,000,000~$7,000,000 | Management or highly skilled roles can exceed ¥7 million. |
+| Beginner (0–3 years) | $3,000,000~$4,000,000 | 年收入300–400万日元。因地区和公司规模而异。 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 通过技能测试和经验增加。 |
+| 资深（10年以上） | $5,000,000~$7,000,000 | 管理或高技能职位可超过700万日元。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中低（★★☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中低（★★☆☆☆）**
 
-AI and robot automatic welding are increasing, but complex shapes and on-site welding require human skill. Simple welding decreases, but demand for advanced skills remains.
+AI和机器人自动焊接正在增加，但复杂形状和现场焊接需要人工技能。简单焊接减少，但对高级技能的需求仍在。
 
-Start as an apprentice, advance by passing skill tests. Multi-skilling and promotion to site supervisor possible. Specified Skilled Worker (ii) enables long-term work.
+从学徒开始，通过技能测试晋升。可实现多技能化和晋升为现场主管。特定技能工人（ii）允许长期工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive welding on automated lines
-- Mass welding of standard products
+- 自动化生产线上的简单重复焊接
+- 标准产品的大规模焊接
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI optimization support for welding conditions
-- Remote monitoring and operation systems
+- 焊接条件AI优化支持
+- 远程监控与操作系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Welding of complex shapes
-- Flexible on-site response
-- Final quality inspection judgement
+- 复杂形状的焊接
+- 灵活现场响应
+- 最终质量检验判定
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robot programming
-- Dissimilar material welding techniques
-- Knowledge of non-destructive testing
+- 机器人编程
+- 异种材料焊接技术
+- 无损检测知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Welding robots
-- Infrastructure aging
-- Technical Intern Training
-- Specified Skilled Worker
+- 焊接机器人
+- 基础设施老化
+- 技能实习制度
+- 特定技能工人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | For manufacturing. Max total stay 5 years. Requires skills & Japanese exam. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | For skilled workers. Renewable residence & family accompaniment allowed. Stricter requirements. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Includes welding plus design/management tasks. Requires university degree or higher. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity
-- People interested in manufacturing
-- People confident in physical strength
+- 手巧的人
+- 对制造业感兴趣的人
+- 体力充沛的人
 
 **谁不适合**
-- People who dislike detailed work
-- People who dislike heights or heat
+- 不喜欢细节工作的人
+- 不喜欢高处或高温的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a welder?**
-答：Entry-level: 3–4 million JPY, mid-career: 4–5.5 million, veteran: 5–7 million. Increases with qualifications & experience.
+**问：焊工的年收入是多少？**
+答：初级：3–4百万日元，中级：4–5.5百万，资深：5–7百万。随资质和经验增加。
 
-**问：How can foreigners work as welders in Japan?**
-答：Specified Skilled Worker (i) (Manufacturing) is common. Must pass skills test and Japanese test (approx. N4). Spouse/family can accompany for Specified Skilled Worker (ii).
+**问：外国人如何在日本从事焊工工作？**
+答：常见的是特定技能工人（i）（制造业）。必须通过技能考试和日语考试（约N4级）。配偶/家属可随行（特定技能工人（ii））。
 
-**问：What is the career path for a welder?**
-答：From apprentice, obtain qualifications like JIS Welding Specialist, step up as skilled worker. Paths also include site supervisor or robotic welding operator.
+**问：焊工的职业道路是怎样的？**
+答：从学徒做起，获得如JIS焊接专家证书，逐步晋升为熟练工人。职业路径还包括现场主管或机器人焊接操作员。
 
 
 ---
@@ -140,12 +133,12 @@ Start as an apprentice, advance by passing skill tests. Multi-skilling and promo
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中低（★★☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metal-welding-cutting-worker/JP)**

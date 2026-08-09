@@ -1,6 +1,6 @@
-# ICT Developers and Programmers nec 职业分析 · 新西兰
+# ICT开发人员及程序员（其他未分类）（ICT Developers and Programmers nec）职业分析 · 新西兰
 
-**职业代码: 261399 (ANZSCO)**
+**职业代码：261399 (ANZSCO)**
 
 DevOps工程师在新西兰需求旺盛，负责CI/CD流水线、云基础设施自动化等。该职业在Green List Tier 1上，可直接申请居留，移民可行性高。
 
@@ -23,16 +23,16 @@ DevOps工程师在新西兰需求旺盛，负责CI/CD流水线、云基础设施
 |---|---|---|---|
 | 雅思学术类 | 雅思 (IELTS) | 必备 | 技术移民要求总分6.5分，单项不低于6.0 |
 | AWS认证DevOps工程师-专业级 | Amazon Web Services | 可选 | 强烈推荐，证明云DevOps能力 |
-| Certified Kubernetes Administrator (CKA) | CNCF | 可选 | 雇主高度认可 |
+| 认证Kubernetes管理员（CKA） | CNCF | 可选 | 雇主高度认可 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 2,500. 新西兰企业加速云端转型，DevOps工程师就业前景极好。预计未来5年岗位增长20%以上，尤其在奥克兰、惠灵顿等技术中心。
+**职位需求量：很高（★★★★½）** 全国从业人数约 2,500。新西兰企业加速云端转型，DevOps工程师就业前景极好。预计未来5年岗位增长20%以上，尤其在奥克兰、惠灵顿等技术中心。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -50,21 +50,21 @@ DevOps工程师在新西兰需求旺盛，负责CI/CD流水线、云基础设施
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面临AI自动化风险，但AI也大幅提升配置排错效率；低端运维岗压缩，高级架构岗需求激增，需向平台工程或AI运维进化。
 
 初级可晋升为高级DevOps工程师、云架构师或DevOps经理；也可转向SRE、平台工程等方向。需持续学习Kubernetes、Terraform等工具。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 常规CI/CD流水线配置与维护（AI自动生成YAML/Workflow）
 - 基础设施监控告警与日志分析（AI异常检测与根因定位）
 - 基础脚本编写与参数调优（LLM生成并测试Shell/CLI脚本）
 - 重复性变更管理与发布协调（AI自动执行变更核准）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 复杂故障排查与性能调优（AI辅助分析trace/metrics并提供修复建议）
 - 多云/混合云资源编排与成本优化（AI推荐资源配置策略）
@@ -72,7 +72,7 @@ DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面
 - 容量规划与弹性伸缩设计（AI预测流量并动态调整）
 - 平台工程与内部开发者门户构建（AI根据模式生成蓝图）
 
-**人类护城河:**
+**人类护城河：**
 
 - 系统架构设计：理解分布式系统、网络、存储、安全全链路
 - 故障根因分析：在复杂环境中结合业务逻辑推理非标问题
@@ -80,7 +80,7 @@ DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面
 - 高可用/灾备策略：设计应对未知风险的冗余与恢复方案
 - 成本治理与SLA谈判：平衡性能、可靠性、安全性、成本
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 平台工程与内部开发者平台（IDP）设计
 - Kubernetes高级调度与故障域治理
@@ -89,16 +89,16 @@ DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面
 - 可观测性体系构建（OpenTelemetry + eBPF）
 - 多集群/多区域网络与安全策略（Cilium/Calico）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Green List Tier 1
-- Skilled Migrant Category
-- Cloud Migration
-- CI/CD Automation
+- 绿色名单一级
+- 技术移民类别
+- 云迁移
+- CI/CD自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -108,9 +108,7 @@ DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面
 | Subclass AEWV (Accredited Employer Work Visa) | 认证雇主工签，常见过渡签证，需雇主认证和薪资达标。 |
 | Subclass Green List T2 (Work to Residence) | 工作转居留，从事DevOps工程师工作满2年并满足薪资中位数即可申请，但T1更直接。 |
 
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**PR友好度：较高（★★★★☆）**
 
 ---
 
@@ -151,12 +149,13 @@ DevOps工程师核心能力（CI/CD、容器编排、基础设施即代码）面
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 较低（★½☆☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ict-developers-and-programmers-nec/NZ)**

@@ -4,8 +4,6 @@
 
 Real estate agents and property managers are responsible for intermediary services for real estate sales and leasing, as well as daily property management, including contract negotiations, marketing, tenant relationship maintenance, and financial reporting.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Real estate agents and property managers are responsible for intermediary servic
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on real estate agents/property management is mixed: automation tools will compress clerical and routine customer service roles, but AI-enhanced data analysis and customer management systems will amplify expert effectiveness, and high-value transactions and interpersonal relationships still require deep human involvement.
-
 You can be promoted from junior sales agent to senior consultant, team leader, or even establish your own agency. Property managers can develop into regional managers, asset managers, or enter the real estate development sector.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ You can be promoted from junior sales agent to senior consultant, team leader, o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employee)) | Employed by a Spanish real estate company and sponsored by an employer, you must prove that the position cannot be filled by a local resident |
-| Subclass Altamente cualificad (Highly qualified professional (Ley 14/2013)) | Applicable to highly educated or high-income individuals, requiring an annual salary at least twice the Spanish average wage (approximately €40,000+). |
-| Subclass Busqueda empleo (Job search visa) | Graduates are allowed to stay in Spain for one year to find a job, and after finding one, they can convert to work residence |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: You can obtain a work residence permit (Cuenta ajena) by being employed by a 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agents-and-property-administrators/ES)**

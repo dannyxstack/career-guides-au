@@ -55,8 +55,6 @@ Tree workers prune, remove, and maintain trees to ensure safety and health, usin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tree worker tasks are outdoor, unstructured, physically demanding, and require judgment, making them difficult to fully replace by AI/automation. However, drones, remote monitoring, and smart tools will enhance planning, inspection, and documentation, reducing roles focused on simple patrol while amplifying efficiency and safety.
-
 Junior tree workers can advance to senior tree worker or team supervisor; holding relevant certifications (e.g., New Zealand Arboricultural Association tree care certificate) can enhance competitiveness. Experienced individuals can start their own business or transition to forestry consulting.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Junior tree workers can advance to senior tree worker or team supervisor; holdin
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category; tree worker falls under skill level 3-4, must meet median income (approx. NZD 60,000 annually) and 6-point requirement; recommend consulting an immigration advisor. |
 | Subclass Green List T1 (Green List Tier 1 (Direct Residence)) | Green List direct residence, only applicable to certain specific forestry roles such as forestry scientist; tree workers are generally not on the list, but if the position is Arborist and meets requirements, it may qualify. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Typically requires completion of a New Zealand Certificate in Arboriculture (
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tree-worker/NZ)**

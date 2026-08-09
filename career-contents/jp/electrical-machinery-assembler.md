@@ -49,8 +49,6 @@ Assembles motors, transformers, switchboards, and other electrical machinery by 
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Automation using AI and robots is advancing rapidly, reducing simple assembly tasks. While large-scale production lines are being replaced, high-precision and high-mix low-volume production still requires human judgment and fine-tuning, so full replacement has not been achieved.
-
 Learns assembly work under the guidance of senior workers. Promoted to team leader/supervisor with experience. Valued as multi-skilled worker with advanced skills.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Learns assembly work under the guidance of senior workers. Promoted to team lead
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years work experience. Assembly work often not eligible. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing Sector)) | Obtained by completing technical intern training or passing an exam. Applicable to electrical machinery assembly. Residence period 5 years. |
-| Subclass 技能実習 (Technical Intern Training (Manufacturing)) | Purpose is to transfer skills to developing countries. Max 5 years. Training within the same company. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Pass the skill test (electrical equipment assembly) and aim to become multi-s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-machinery-assembler/JP)**

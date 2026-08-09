@@ -52,8 +52,6 @@ Teach academic, social, and life skills to secondary school students with learni
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Special education teachers are generally hard to replace, but AI can significantly improve efficiency in generating course materials and recording data. Core tasks like emotional counseling and behavioral intervention still rely on humans. Entry-level positions are stable due to qualification requirements, but some paperwork may be automated.
-
 Can be promoted from regular teacher to special education coordinator, special education supervisor, or principal. Also, can pursue a doctoral degree to become a university teacher or researcher.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can be promoted from regular teacher to special education coordinator, special e
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable to teachers with a master's degree or higher or special abilities; requires PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored permanent residence applications require proof that no qualified US workers can be recruited. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must hold a state-issued special education teaching license, usually requirin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/special-education-teachers-middle-school/US)**

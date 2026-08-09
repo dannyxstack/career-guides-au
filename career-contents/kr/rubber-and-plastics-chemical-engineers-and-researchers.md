@@ -51,8 +51,6 @@ Research and development and technical experts who study the synthesis, processi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI significantly improves polymer property prediction, new material design, and process optimization, enhancing research productivity, but creative problem-solving and experiment design remain the role of human experts.
-
 Can start as a researcher at a large corporation's R&D center or a mid-sized company, and advance to senior researcher, team leader, or laboratory director, or transition to process technology roles.
 
 **Tasks most exposed to AI:**
@@ -90,17 +88,9 @@ Can start as a researcher at a large corporation's R&D center or a mid-sized com
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Available for professionals in rubber/plastics, meeting degree and experience requirements |
-| Subclass E-9 (Non-professional Employment (E-9)) | Suitable for simple production roles, not for R&D |
-| Subclass F-2 (Residence (F-2)) | Long-term stay visa, convertible from E-7 |
-| Subclass D-10 (Job Seeking (D-10)) | Stay for employment purposes and job search activities |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +134,12 @@ A: Eco-friendly biodegradable plastics, lightweight materials for electric vehic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-and-plastics-chemical-engineers-and-researchers/KR)**

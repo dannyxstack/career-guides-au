@@ -4,8 +4,6 @@
 
 Prepress processing workers are responsible for pre-printing preparations, including typesetting, image processing, color separation, and plate making. They use specialized software and hardware to ensure print quality meets requirements.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Prepress processing workers are responsible for pre-printing preparations, inclu
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Prepress workers face the dual impact of AI automation replacement and enhanced capabilities. Repetitive tasks such as basic typesetting and color separation will be replaced, but creative design and quality control will still require human judgment. Careers carry risks, but transformation can bring new opportunities.
-
 Prepress operators can be promoted to prepress supervisors or production managers. Proficient in digital printing technology allows you to transform into a digital printing expert or color management specialist.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Prepress operators can be promoted to prepress supervisors or production manager
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Cuenta ajena)) | Requires a job contract from a Spanish company and proof that the position is difficult to fill locally. However, pre-press workers are not on the shortage list, making approval difficult. |
-| Subclass Busqueda empleo (Job Search Visa (Busqueda de empleo)) | Those with higher education can apply, but this profession usually does not require a university degree and does not meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Due to the impact of digitalization and automation, traditional prepress posi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-workers/ES)**

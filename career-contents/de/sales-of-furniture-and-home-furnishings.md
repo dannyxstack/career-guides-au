@@ -53,8 +53,6 @@ Selling, customer consulting, display, and inventory management in furniture and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Furniture and home furnishings salespersons face a high risk of automation; AI-driven virtual showrooms and smart recommendation systems will reduce traditional sales roles, especially standardized advisory and inventory management tasks.
-
 Can advance from salesperson to department manager, store manager, or procurement specialist, or transition to interior design consulting or e-commerce operations.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from salesperson to department manager, store manager, or procuremen
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: After gaining experience, you can advance to department head, store manager, 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sales-of-furniture-and-home-furnishings/DE)**

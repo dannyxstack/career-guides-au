@@ -52,8 +52,6 @@ Responsible for client development and sales of New Zealand enterprise IT soluti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of ICT sales (business development manager) is undergoing a 'mixed' transformation: AI automates customer information collection, proposal generation, and report writing, but high-value customer relationship building, strategic negotiation, and complex solution customization still rely on humans, and AI enhances data analysis, customer insights, and sales forecasting, boosting efficiency.
-
 Can advance from sales representative to regional manager or sales director, or transition to product management or consulting. After accumulating client resources, one can start an IT agency.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from sales representative to regional manager or sales director, or 
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Although not directly listed on the Green List, it can be applied for via high salary (2x median) or other pathways |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, requiring employer sponsorship, meeting salary threshold, with pathway to residence. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but holding a New Zealand qualification can earn extra points 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-business-development-manager/NZ)**

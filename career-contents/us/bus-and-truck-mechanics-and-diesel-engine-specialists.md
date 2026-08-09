@@ -53,8 +53,6 @@ Diagnose, adjust, repair or overhaul buses and trucks, and maintain and repair v
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on diesel mechanics is mixed: diagnostic and documentation tasks will be enhanced, but field operations and physical repairs still rely on humans. Overall, roles won't shrink, but entry barriers may slightly narrow due to increased skill requirements.
-
 Career progression: start as an apprentice or technician, can advance to lead technician, maintenance supervisor, or service manager; also can become a certified diesel specialist or open your own repair shop.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: start as an apprentice or technician, can advance to lead te
 | Subclass TN (TN NAFTA Professional) | Only under US-Mexico-Canada Agreement; skilled trades generally do not qualify. |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Apply for a green card through PERM labor certification, must prove insufficient US workers. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Can advance from junior mechanic to master technician, service manager, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bus-and-truck-mechanics-and-diesel-engine-specialists/US)**

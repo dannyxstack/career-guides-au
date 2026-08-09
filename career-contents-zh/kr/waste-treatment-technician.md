@@ -1,8 +1,8 @@
-# Waste Treatment Technician 职业分析 · 韩国
+# 废物处理技术员（Waste Treatment Technician）职业分析 · 韩国
 
-**职业代码: 15533 (KECO)**
+**职业代码：15533 (KECO)**
 
-Professional technical personnel responsible for the design, operation, management, and environmental regulation compliance of waste treatment and recycling facilities.
+负责废物处理和回收设施的设计、运营、管理和环境法规合规的专业技术人员。
 
 
 ---
@@ -11,8 +11,8 @@ Professional technical personnel responsible for the design, operation, manageme
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree in environmental or chemical engineering from a junior college | 2 年 | $10,000,000~$20,000,000（Public university standard tuition） |
-| Bachelor's degree in environmental engineering or chemical engineering from a university | 4年 | $20,000,000~$40,000,000（Public university standard tuition） |
+| 大专院校环境或化学工程副学士学位 | 2 年 | $10,000,000~$20,000,000（公立大学标准学费） |
+| 大学环境工程或化学工程学士学位 | 4年 | $20,000,000~$40,000,000（公立大学标准学费） |
 
 ---
 
@@ -20,18 +20,18 @@ Professional technical personnel responsible for the design, operation, manageme
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Water Quality Environmental Engineer | Human Resources Development Service of Korea | 必备 | Required for wastewater treatment field |
-| Waste Treatment Engineer | Human Resources Development Service of Korea | 必备 | Core in waste treatment field |
-| Air Environmental Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for managing air emission facilities |
+| 水质环境工程师 | 韩国人力资源开发服务局 | 必备 | 污水处理领域所需 |
+| 废物处理工程师 | 韩国人力资源开发服务局 | 必备 | 废物处理领域的核心 |
+| 空气环境工程师 | 韩国人力资源开发服务局 | 可选 | 有利于管理空气排放设施 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 18,000. Demand remains steady due to strengthened environmental regulations and resource circulation policies, and there is a need for new personnel due to an aging workforce.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 18,000。由于加强的环境法规和资源循环政策，需求保持稳定，且因劳动力老龄化需要新人员。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,91 +39,84 @@ Professional technical personnel responsible for the design, operation, manageme
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on small and medium enterprises |
-| Mid-level (4-10 years) | $38,000,000~$50,000,000 | Reflects experience and certifications |
-| Senior-level (10+ years) | $50,000,000~$70,000,000 | Team leader level or above |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4-10年） | $38,000,000~$50,000,000 | 反映经验和认证 |
+| 高级（10年以上经验） | $50,000,000~$70,000,000 | 团队主管级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI supports optimization and monitoring of waste treatment processes, but field judgment and technical qualifications require humans, so the risk of replacement is low.
+AI支持废物处理流程的优化和监控，但现场判断和技术资质仍需人类，因此被替代风险较低。
 
-Career progression from junior technician to site supervisor, technical team leader, and environmental consultant is possible, with certification and experience being key.
+职业发展路径：初级技术员→现场主管→技术团队负责人→环境顾问，认证和经验是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular report writing
-- Basic monitoring data collection
+- 定期报告撰写
+- 基本监控数据采集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Treatment process optimization
-- Predictive maintenance
-- Environmental emission analysis
+- 治疗流程优化
+- 预测性维护
+- 环境排放分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Certification requirements
-- Judgment based on field experience
-- Regulatory response capabilities
+- 认证要求
+- 基于现场经验的判断
+- 监管应对能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI monitoring system operation
-- Understanding of environmental regulations
+- 数据分析
+- AI监控系统操作
+- 了解环境法规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Strengthening environmental regulations
-- Waste resource circulation
-- Smart treatment facilities
-- Carbon neutrality
+- 加强环保法规
+- 废弃物资源循环
+- 智能治疗设施
+- 碳中和
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as skilled technical personnel. Environmental technicians or engineering fields. |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited to simple waste processing tasks, not suitable as a technician. |
-| Subclass F-2 (F-2 (Residence)) | Favorable for long-term stay and employment, a step before permanent residency. |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong interest in environment and technology
-- People comfortable with field work and outdoor activities
-- Meticulous people who follow rules well
+- 对环境和技术有浓厚兴趣的人
+- 适合现场工作和户外活动的人
+- 细心、遵守规则的人
 
 **谁不适合**
 - 倾向于办公室工作的人
-- People sensitive to hazardous substances or odors
+- 对有害物质或气味敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level of a waste treatment technician?**
-答：Approximately 28-35 million KRW for entry-level, 50-70 million KRW for over 10 years of experience. Varies by certification and company size.
+**问：废物处理技术员的薪资水平是多少？**
+答：初级约2800-3500万韩元，10年以上经验5000-7000万韩元，因认证和公司规模而异。
 
-**问：Can foreigners work as waste treatment technicians?**
-答：Employment of skilled professionals is possible with an E-7 visa. An environmental engineer certificate and experience are required, and Korean language proficiency is needed.
+**问：外国人可以担任废物处理技术员吗？**
+答：可通过E-7签证聘用熟练专业人员。需要环境工程师证书和经验，并具备韩语能力。
 
-**问：What are the required certifications?**
-答：The representative ones are Waste Treatment Engineer and Water Quality Environmental Engineer, administered by the Human Resources Development Service of Korea.
+**问：需要哪些认证？**
+答：代表性职位是废物处理工程师和水质环境工程师，由韩国人力资源开发服务部管理。
 
 
 ---
@@ -141,12 +134,12 @@ Career progression from junior technician to site supervisor, technical team lea
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/waste-treatment-technician/KR)**

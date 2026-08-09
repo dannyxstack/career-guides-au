@@ -54,8 +54,6 @@ Responsible for planning, directing, or coordinating gambling operations in a ca
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Casino managers face mixed AI impacts: automation replaces data reports, compliance monitoring, and other rigid tasks, but AI enhances customer analysis and optimizes operational decisions, and core abilities like people management and crisis handling are hard to replace.
-
 Career progression typically starts as a casino supervisor or department manager, advancing to assistant casino manager, casino manager, and eventually regional operations director or general manager.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression typically starts as a casino supervisor or department manager
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Requires people management, customer service, financial analysis, compliance 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-managers/US)**

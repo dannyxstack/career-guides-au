@@ -51,8 +51,6 @@ Investigates suspected violations of federal, state, or local laws to prevent or
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on detectives and criminal investigators is mixed: automation will take over data analysis and document review, but core interrogation, interpersonal intuition, and on-site reasoning are hard to replace, and AI tools can actually improve case-solving efficiency.
-
 Usually starts as a police officer, progresses to detective, then senior investigator, sergeant, or federal agent. Requires accumulated experience and ongoing training.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starts as a police officer, progresses to detective, then senior investi
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable for advanced degree or exceptional ability individuals, usually requires PERM labor certification. |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applies to skilled workers, professionals, or other workers, requiring a labor certification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires police academy training, several years of police experienc
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/detectives-and-criminal-investigators/US)**

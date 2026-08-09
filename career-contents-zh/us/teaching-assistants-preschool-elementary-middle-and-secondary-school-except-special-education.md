@@ -1,6 +1,6 @@
-# Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education 职业分析 · 美国
+# 助教（学前、小学、初中和中学，特殊教育除外）（Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education）职业分析 · 美国
 
-**职业代码: 25-9042 (SOC)**
+**职业代码：25-9042 (SOC)**
 
 协助教师完成教学任务，包括准备教材、监督学生活动、批改作业等，在教师主导下提供教育支持，不承担主要教学责任。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 1,230,100. 预计2023至2033年岗位增长率约4%，与所有职业平均持平。每年约新增13.2万个职位，主要由于教育需求稳定及替代退休人员。
+**职位需求量：中（★★★☆☆）** 全国从业人数约 1,230,100。预计2023至2033年岗位增长率约4%，与所有职业平均持平。每年约新增13.2万个职位，主要由于教育需求稳定及替代退休人员。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 教学助理的核心工作（文档处理、排课、记录）易被AI替代，但面对面学生支持、行为管理等情感劳动需求不减，岗位整体稳中有变。
 
 可晋升为特殊教育助教或取得教师资格成为正式教师，部分转向学校行政或教育协调岗位。职业发展需进一步教育和认证。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用AI生成课堂笔记、学生出勤报告和成绩单
 - 自动化排课与教室资源分配
@@ -64,7 +64,7 @@
 - 自动整理学生档案和IEP（个别化教育计划）数据
 - 用语音转文字工具记录会议纪要
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI分析学生学业数据，精准识别需要额外辅导的学生
 - 借助AI翻译工具协助非英语母语学生及家长沟通
@@ -72,7 +72,7 @@
 - 使用AI模拟课堂管理场景，提升行为干预策略
 - 利用AI优化教师工作流，释放更多时间用于教学支持
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理学生情绪行为问题时的同理心与即时应变
 - 与特殊需求学生一对一的肢体协助与情感连接
@@ -80,7 +80,7 @@
 - 跨部门协作中需要灵活判断的协调工作
 - 课堂管理中非语言信号的识别与回应
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI教育工具（如Classcraft、Knewton）操作与数据解读
 - 基础数据分析（Excel/Google Sheets中级+）
@@ -89,16 +89,16 @@
 - 课堂行为管理技术（正面管教、创伤知情实践）
 - 项目管理工具（Asana/Trello）用于跟进学生支持计划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- above average (4%)
-- stable demand
-- substitute for teachers
-- education support
+- 高于平均水平（4%）
+- 需求稳定
+- 教师代课
+- 教育支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
 
@@ -107,9 +107,7 @@
 | Subclass H-1B (H-1B Specialty Occupation) | 教学助理通常不符合专业职位要求，极少获得H-1B赞助。 |
 | Subclass EB-3 (EB-3 Skilled/Unskilled) | 技术含量低，通常不满足技术移民条件。仅特殊情况下雇主可担保。 |
 
-**PR友好度: 很低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**PR友好度：很低（★☆☆☆☆）**
 
 ---
 
@@ -151,11 +149,12 @@
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
 | PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/teaching-assistants-preschool-elementary-middle-and-secondary-school-except-special-education/US)**

@@ -53,8 +53,6 @@ Responsible for installing, maintaining, and repairing overhead and underground 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line installers and repairers face a high risk of automation, especially as automatic fiber fusion splicing, drone inspection, and AI-assisted fault diagnosis will significantly reduce manual demand, but on-site work and emergency response still provide some protection.
-
 Can progress from apprentice to senior linesperson, then to team leader or project coordinator; with a license, can also start own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from apprentice to senior linesperson, then to team leader or proje
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, some states like Victoria and Western Australia have demand |
 | Subclass 491 (Skilled Work Regional (Provisional)) | Regional work visa, transitioning to 191 permanent residency |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With the rollout of NBN and 5G, demand remains stable. You can advance to pro
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-linesworker-telecommunications-line-mechanic/AU)**

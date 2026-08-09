@@ -51,8 +51,6 @@ Office support personnel responsible for recording financial transactions, handl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
-
 You can advance from accounting clerk to senior accounting clerk or accounting supervisor, then through Shenzhen Accounting to become an accountant or financial analyst, or transition into auditing and tax fields.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can advance from accounting clerk to senior accounting clerk or accounting s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Contracted Employment)) | Work residency sponsored by Spanish employers is available to non-EU applicants, requires a work contract, and meets minimum wage requirements. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | High-skilled professional visa requires annual salary around €40,000+; accounting clerks usually do not meet this threshold. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Usually requires FP Grado Superior (2 years) or a bachelor's degree in busine
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-clerk/ES)**

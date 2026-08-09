@@ -52,8 +52,6 @@ Welders use various equipment and techniques to join metal parts through welding
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Career progression typically starts with an apprenticeship, advancing to skilled welder, then to supervisor, inspector, or welding engineer. Some enter high-paying fields such as pipeline welding or underwater welding by obtaining advanced certifications (e.g., CSWIP, ASME).
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression typically starts with an apprenticeship, advancing to skilled
 | Subclass Graduate (Graduate visa) | Graduates who completed a degree in the UK can apply, allowing them to work in the UK for 2 years (PhD: 3 years), then switch to a Skilled Worker visa |
 | Subclass Scale-up (Scale-up visa) | Welders sponsored by high-growth enterprises: must be sponsored for the first 6 months, then free to work afterwards |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically does not require a university degree; the most common pathway is co
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welding-trades/UK)**

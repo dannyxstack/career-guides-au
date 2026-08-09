@@ -50,8 +50,6 @@ Jewellers and watch repairers design, manufacture, repair, and evaluate jeweller
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will profoundly change the jeweler profession: 3D modeling and generative design can compress some creative processes, but core skills like precision hand setting and client custom communication are hard to replace, forming a new 'software-assisted + hand-dominant' model.
-
 Start as an apprentice, gradually advance to skilled craftsman, able to open your own shop or become a senior repairer, with some transitioning to jewelry design or appraisal fields.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as an apprentice, gradually advance to skilled craftsman, able to open you
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as Ontario have trades nominations requiring employer sponsorship. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for a Labour Market Assessment to support work visas |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes, mainly through Provincial Nominee Program (PNP) or employer sponsorship 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewellers-jewellery-and-watch-repairers-and-related-occupations/CA)**

@@ -53,8 +53,6 @@ Technical sailmakers and canvas fabricators design, cut, and sew technical texti
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Technical seamstresses/sail makers are moderately affected by AI and automation: routine cutting and sewing tasks can be automated, but custom design, complex material handling, and structural evaluation tasks relying on human experience remain advantageous, requiring improved AI collaboration skills to stay competitive.
-
 Career progression can lead to senior technician, foreman, or workshop supervisor; or become a technical textile designer or quality inspector through further study. Some experienced workers start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression can lead to senior technician, foreman, or workshop superviso
 | Subclass Chancenkarte (Opportunity Card) | Points-based system that allows job seeking and trial work |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month validity, need to prove financial capacity, can seek employment |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes, non-EU qualifications require credential recognition from Germany's Fede
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-tailor-sailmaker/DE)**

@@ -1,10 +1,8 @@
-# Audit Clerk 职业分析 · 韩国
+# 审计文员（Audit Clerk）职业分析 · 韩国
 
-**职业代码: 02641 (KECO)**
+**职业代码：02641 (KECO)**
 
-An expert who performs internal audit tasks to check and evaluate whether an organization's financial and operational processes comply with laws and regulations.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+执行内部审计任务的专业人士，检查并评估组织的财务和运营流程是否符合法律法规。
 
 
 ---
@@ -13,8 +11,8 @@ An expert who performs internal audit tasks to check and evaluate whether an org
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $15,000,000~$20,000,000（College Accounting/Tax Department） |
-| 本科（学士学位） | 4年 | $20,000,000~$30,000,000（University Business/Economics Department） |
+| 副学士学位 | 2 年 | $15,000,000~$20,000,000（大学会计/税务系） |
+| 本科（学士学位） | 4年 | $20,000,000~$30,000,000（大学工商/经济系） |
 
 ---
 
@@ -22,18 +20,18 @@ An expert who performs internal audit tasks to check and evaluate whether an org
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computerized Accounting Operator Level 1/2 | Korea Chamber of Commerce and Industry | 可选 | Proof of accounting knowledge |
-| 注册内部审计师（CIA） | Institute of Internal Auditors | 可选 | Internationally recognized audit certification |
-| 注册会计师(CPA) | Financial Supervisory Service | 可选 | Enables accounting audit work |
+| 电脑化会计操作员 1/2级 | 大韩商工会议所 | 可选 | 会计知识证明 |
+| 注册内部审计师（CIA） | 内部审计师协会 | 可选 | 国际认可的审计认证 |
+| 注册会计师(CPA) | 金融监督院 | 可选 | 支持会计审计工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 40,000. Demand for auditing is stable due to increased internal control and regulatory compliance needs in companies and public institutions, but automation is expected to reduce simple tasks. Demand for skilled personnel continues.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 40,000。由于公司和公共机构内部控制和合规需求增加，审计需求稳定，但自动化将减少简单任务。对高技能人员的需求将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,90 +40,84 @@ An expert who performs internal audit tasks to check and evaluate whether an org
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
 | 初级 (0-3年) | $30,000,000~$40,000,000 | 根据企业规模和地区有所差异 |
-| Mid-level (4-8 years) | $45,000,000~$60,000,000 | Additional if certified |
-| 高级（9年以上） | $65,000,000~$90,000,000 | Higher ceiling with management roles and professional certifications |
+| 中级（4-8年） | $45,000,000~$60,000,000 | 持证者额外补贴 |
+| 高级（9年以上） | $65,000,000~$90,000,000 | 管理层职位和专业认证带来更高的职业天花板 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and RPA will replace simple audit tasks such as data collection and anomaly detection, reducing audit staff headcount. However, context judgment and decision-making that AI cannot grasp remain in the human domain, so the role will shrink but become more advanced.
+AI和RPA将取代数据收集和异常检测等简单审计任务，减少审计人员数量。但AI无法处理的上下文判断和决策仍属人类领域，因此岗位将缩减但更高级。
 
-Starting as a junior audit clerk, one can advance to mid-level audit team leader and senior internal audit expert. Obtaining CPA or CIA certifications allows career moves to external audit firms or consulting.
+从初级审计员起步，可晋升至中级审计组长和高级内部审计专家。获得CPA或CIA认证后可转向外部审计公司或咨询。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Financial Data Collection and Classification
-- Basic Anomaly Detection Report Generation
-- Standardized Audit Checklist Verification
+- 财务数据采集与分类
+- 基本异常检测报告生成
+- 标准化审计清单核查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Data Sampling and Analysis
-- Risk Assessment Modeling
-- Audit Evidence Tracking and Visualization
+- 数据采样与分析
+- 风险评估建模
+- 审计证据追踪与可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic Judgment and Decision Making
-- Understanding Organizational Culture and Insider Fraud Detection
-- Unstructured Problem Solving and Stakeholder Consultation
+- 战略判断与决策
+- 理解组织文化与内部欺诈检测
+- 非结构化问题解决与利益相关者咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis (Python, SQL)
-- IT Audit and Cybersecurity Basics
-- Critical Thinking and Communication
+- 数据分析（Python、SQL）
+- IT审计与网络安全基础
+- 批判性思维与沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Internal Control
-- Risk Management
-- IT Audit
-- Compliance
+- 内部控制
+- 风险管理
+- IT审计
+- 合规
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if employment contract requirements for professional occupations are met, but the scope for internal audit positions is narrow. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and analytical personality
-- People interested in accounting/taxation
-- People who value principles
+- 细致且善于分析的性格
+- 对会计/税务感兴趣的人
+- 重视原则的人
 
 **谁不适合**
-- People who find simple repetitive tasks boring
-- People who prefer jobs with minimal interaction
+- 觉得简单重复任务枯燥的人
+- 偏好低互动工作的求职者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for audit clerks?**
-答：Entry level approximately 30~40 million KRW, mid-level 45~60 million KRW, senior 65~90 million KRW, with significant differences based on certifications and experience.
+**问：审计文员的薪资水平是多少？**
+答：入门级约3000-4000万韩元，中级4500-6000万韩元，高级6500-9000万韩元，根据认证和经验差异显著。
 
-**问：Can foreigners work as audit clerks?**
-答：Generally, the E-7 visa allows professional work, but internal audit has entry barriers due to language and legal understanding requirements. Korean language skills and accounting qualifications are necessary.
+**问：外国人能否担任审计文员？**
+答：一般来说，E-7签证允许专业工作，但内审因语言和法律理解要求存在准入障碍，需要韩语能力和会计资格。
 
-**问：What certifications are advantageous for becoming an audit clerk?**
-答：Certifications like Level 1 Computerized Accounting Operator, CPA, CIA are advantageous, with CPA being preferred by large corporations.
+**问：成为审计文员有哪些优势证书？**
+答：一级计算机化会计操作员、CPA、CIA等证书有优势，大型企业偏好CPA。
 
 
 ---
@@ -143,12 +135,12 @@ Starting as a junior audit clerk, one can advance to mid-level audit team leader
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/audit-clerk/KR)**

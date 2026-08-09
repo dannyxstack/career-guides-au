@@ -51,8 +51,6 @@ A high-rise construction supervisor oversees and manages construction activities
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Career progression paths include advancing from junior foreman to senior construction supervisor or project manager, or transitioning to construction management or starting a building company.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression paths include advancing from junior foreman to senior constru
 | Subclass Chancenkarte (Opportunity Card) | A points-based job search visa allows staying in Germany to find work; certain qualifications and language requirements must be met. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment; requires proof of financial means and qualifications. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from foreman to construction supervisor (Meister), then to proje
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-supervisor-structural-engineering/DE)**

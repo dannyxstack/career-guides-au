@@ -52,8 +52,6 @@ History professors teach courses on human history and historiography at colleges
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually starts as an assistant professor, advances to associate professor and full professor, with a few becoming department chairs or deans. Research output (papers, monographs) and teaching quality determine promotion; some move into academic administration or public history.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as an assistant professor, advances to associate professor and fu
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | History professors with a PhD can apply for EB-2, requiring PERM labor certification or National Interest Waiver (NIW). |
 | Subclass O-1 (O-1 Extraordinary Ability) | If a professor has outstanding achievements in their academic field (e.g., publishing major works), they can apply for an O-1 visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Promotion mainly depends on academic output and teaching evaluations; from as
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/history-teachers-postsecondary/US)**

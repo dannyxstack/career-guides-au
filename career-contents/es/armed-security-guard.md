@@ -4,8 +4,6 @@
 
 Armed security guards in Spain are responsible for protecting people, property, and sensitive locations, usually equipped with firearms and required to comply with strict regulations. This position is commonly found in high-risk environments such as banks, government buildings, and airports.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Armed security guards in Spain are responsible for protecting people, property, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Armed security tasks are divided into two levels: routine tasks such as monitoring and recording will be replaced by AI, but core responsibilities such as armed response and on-site decision-making are difficult to automate due to legal and ethical constraints, resulting in moderate overall risk.
-
 Career advancement paths include moving from ordinary security guards to team leaders, regional managers, or transitioning into more specialized security fields (such as private bodyguards and security consultants). Some people enter public safety departments through further education.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career advancement paths include moving from ordinary security guards to team le
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit) | Employed work residence requires employer sponsorship and proof that the position cannot be filled by a local resident. |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Highly skilled professional visa, but security guards are not considered high-skilled occupations and are generally not applicable. |
-| Subclass Busqueda empleo (Job Search Visa) | To find a job in Spain, you need to meet educational or financial requirements, but security positions are highly competitive. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: You can be promoted to security supervisor, regional manager, or move into pr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/armed-security-guard/ES)**

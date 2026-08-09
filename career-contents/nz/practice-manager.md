@@ -54,8 +54,6 @@ Clinic managers oversee the daily operations, financial management, staff coordi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Clinic managers' operations and financial management tasks are easily optimized by AI, but people management and patient relationships rely on human judgment; overall risks and opportunities coexist.
-
 Can progress from medical administrative assistant or clinic coordinator to clinic manager, then to regional operations manager or medical group management roles. With experience, may also start a healthcare consulting firm.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can progress from medical administrative assistant or clinic coordinator to clin
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Not necessarily mandatory registration, but typically requires a diploma in h
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/practice-manager/NZ)**

@@ -52,8 +52,6 @@ The company secretary is responsible for ensuring the company complies with lega
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Company Secretaries and Administrative Managers face high automation risk; AI can handle many clerical, compliance, and scheduling tasks, but the governance role of senior company secretaries still requires human judgment.
-
 Usually promoted from corporate lawyer, accountant, or corporate governance specialist. Can obtain Chartered Secretary qualification, progressing to Company Secretary Director or Chief Governance Officer. Can also cross over to risk management, compliance executive, and similar roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually promoted from corporate lawyer, accountant, or corporate governance spec
 | Subclass 189 (Skilled Independent Visa) | Permanent residence visa for skilled independent migrants. Company secretary is on the MLTSSL; can apply via EOI scoring. |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent visa, requiring state nomination; some states have demand for company secretaries. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically need a bachelor's degree in law, accounting or business. Obtaining 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/company-secretary/AU)**

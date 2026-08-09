@@ -1,10 +1,8 @@
-# Transport Workers (Not Otherwise Classified) 职业分析 · 日本
+# 运输工人（未另分类）（Transport Workers (Not Otherwise Classified)）职业分析 · 日本
 
-**职业代码: 639 (JSCO)**
+**职业代码：639 (JSCO)**
 
-Transportation jobs other than automobile or railway driving, such as operating ships, forklifts, or special vehicles.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶汽车或铁路以外的运输工作，如操作船舶、叉车或特种车辆。
 
 
 ---
@@ -13,8 +11,8 @@ Transportation jobs other than automobile or railway driving, such as operating 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Nearly free at public high schools） |
-| Driver's License (Forklift, etc.) | 1个月 | $50,000~$150,000（培训学校费用） |
+| 高中文凭 | 3年 | $0~$0（公立高中几乎免费） |
+| 驾驶执照（叉车等） | 1个月 | $50,000~$150,000（培训学校费用） |
 
 ---
 
@@ -22,18 +20,18 @@ Transportation jobs other than automobile or railway driving, such as operating 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training | Prefectural Labor Bureau Registered Training Institution | 必备 | Required for operating forklifts over 1 ton |
-| Construction Machinery Operation Skills Training | Prefectural Labor Bureau Registered Training Institution | 必备 | Required for operating bulldozers, etc. |
-| Large Vehicle License | Public Safety Commission | 可选 | Required for driving large trucks |
+| 叉车操作技能培训 | 县劳动局注册培训机构 | 必备 | 操作超过1吨的叉车所需 |
+| 建筑机械操作技能培训 | 县劳动局注册培训机构 | 必备 | 操作推土机等所需 |
+| 大型车辆驾照 | 公共安全委员会 | 可选 | 驾驶大型卡车所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 150,000. Amid ongoing labor shortages in the logistics industry, demand for forklift operators and construction machinery drivers remains strong. These jobs involve on-site work less affected by automation.
+**职位需求量：很高（★★★★½）** 全国从业人数约 150,000。在物流行业持续劳动力短缺的情况下，对叉车操作员和建筑机械司机的需求依然强劲。这些工作涉及现场作业，受自动化影响较小。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,84 @@ Transportation jobs other than automobile or railway driving, such as operating 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Annual salary (including bonuses) |
-| Mid-level (3–10 years) | $4,000,000~$5,500,000 | Increases with experience and qualifications |
-| Senior-level (10+ years) | $5,500,000~$7,000,000 | Management positions and specialized technicians |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 年薪（含奖金） |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 随经验和资历增长 |
+| 高级（10年以上经验） | $5,500,000~$7,000,000 | 管理岗位与专业技术人员 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Due to advances in AI and autonomous driving technology, some tasks like long-haul truck driving face replacement risk, but on-site work with forklifts and construction machinery is hard to automate, and manual demand will continue for now.
+由于AI和自动驾驶技术的进步，部分任务如长途卡车驾驶面临替代风险，但叉车和工程机械的现场工作难以自动化，人工需求将继续存在。
 
-Career advancement to site leader or operations manager is possible by obtaining large vehicle or forklift licenses and gaining experience.
+通过取得大型车辆或叉车执照并积累经验，有望晋升为现场主管或运营经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Constant-speed driving on highways
-- Simple in-warehouse transport
+- 高速公路匀速驾驶
+- 简单的仓库内运输
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Route optimization
-- Vehicle diagnostics
-- Safe driving assistance
+- 路线优化
+- 车辆诊断
+- 安全驾驶辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Off-road driving
-- Heavy load handling
-- Flexible decision-making
+- 越野驾驶
+- 重物搬运
+- 灵活决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Driving licenses for multiple vehicle types
-- Mechanical maintenance
-- Team communication
+- 多种车型驾照
+- 机械维修
+- 团队沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Forklift
-- Construction machinery
-- Logistics driver
-- Coastal vessels
+- 叉车
+- 工程机械
+- 物流司机
+- 沿海船舶
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Food & Beverage Manufacturing/Food Service/Agriculture, etc.)) | Residence permitted only for target occupations. Currently, transport workers are generally excluded from Specified Skilled Worker, but some areas (e.g., agricultural harvest transport) may be possible. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to transport-related engineers (e.g., operations managers). Simple driving is not permitted. |
-| Subclass 技能 (Skilled Labor (Cooking, Manufacturing, etc.)) | Under current system, transport workers are not eligible. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident
-- Enjoys driving
-- Can tolerate repetitive simple tasks
+- 身体自信
+- 喜欢开车
+- 能忍受重复性简单任务
 
 **谁不适合**
-- Prefers sedentary work
-- Wants creative work
+- 偏好久坐工作
+- 希望从事创意工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of transport workers?**
-答：Entry-level: 3-4 million yen, mid-level: 4-5.5 million yen, senior: 5.5-7 million yen. Varies with overtime pay and qualification allowances.
+**问：运输工人的平均年收入是多少？**
+答：入门级：300-400万日元，中级：400-550万日元，高级：550-700万日元。随加班费和资格津贴有所变化。
 
-**问：Can foreigners work in this occupation in Japan?**
-答：Currently, it's difficult to obtain a residence status for simple driving jobs. For technical and knowledge-intensive roles like operations managers, the Engineer/Specialist in Humanities/International Services visa may apply.
+**问：外国人可以在日本从事这个职业吗？**
+答：目前，简单驾驶工作难以获得居留身份。对于运营经理等技术及知识密集型岗位，可申请人文知识国际业务签证。
 
-**问：What career advancement paths are available?**
-答：By acquiring qualifications such as forklift or heavy vehicle licenses, there are career paths to become field leaders, operations managers, or sales staff.
+**问：有哪些职业发展途径？**
+答：通过获得叉车或重型车辆执照等资格，可以成为现场领导、运营经理或销售人员。
 
 
 ---
@@ -144,12 +134,12 @@ Career advancement to site leader or operations manager is possible by obtaining
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/transport-workers-not-otherwise-classified/JP)**

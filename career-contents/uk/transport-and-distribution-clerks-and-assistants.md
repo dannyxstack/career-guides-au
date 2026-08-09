@@ -51,8 +51,6 @@ Transport and distribution clerks and assistants handle various clerical tasks r
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Clerical work in transport and despatch clerks and assistants is highly procedural, and is being rapidly replaced by digitisation and AI. Over the next 5 years, basic roles will shrink significantly, requiring a shift towards logistics coordination and data analysis.
-
 Junior clerks can advance to senior clerk or team supervisor through experience, and further develop into management roles such as logistics coordinator, transport manager. Obtaining supply chain management certification (e.g., CIPS) aids career progression.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Junior clerks can advance to senior clerk or team supervisor through experience,
 | Subclass Graduate (Graduate Visa) | UK university graduates can apply, allowing them to work or look for work in the UK for 2 years (3 years for PhDs) |
 | Subclass Scale-up (Scale-up Worker Visa) | Suitable for talent working in eligible fast-growing enterprises in this occupation |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: Yes, transport and distribution clerks are on the eligible occupation list an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-and-distribution-clerks-and-assistants/UK)**

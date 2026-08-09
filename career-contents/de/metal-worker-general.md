@@ -52,8 +52,6 @@ Engaged in metal cutting, forming, welding, and assembly work, using hand tools 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation will significantly change metalworking jobs, with repetitive tasks being replaced, but complex processes and on-site adaptability still require human intervention, presenting both risks and opportunities.
-
 Starting as an assistant, becoming a skilled worker through dual training, can advance to foreman or technician, or further study to become a technician or engineer. Experienced individuals can become self-employed.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as an assistant, becoming a skilled worker through dual training, can a
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires dual-system training qualification or credential assessment; no annual salary threshold |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for applicants with training experience but no employer sponsorship |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires completing 3.5 years of dual vocational training, or throu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-worker-general/DE)**

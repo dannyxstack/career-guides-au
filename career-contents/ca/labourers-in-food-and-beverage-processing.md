@@ -53,8 +53,6 @@ Performs material handling, cleaning, packaging, and basic processing tasks in f
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-This role is mainly physical and repetitive, with high automation risk; AI and robots will gradually replace packaging, quality inspection, and material handling; entry-level positions are clearly shrinking.
-
 Usually starting as a production line worker, can advance to team leader or quality inspector. Some workers transition to equipment operation or maintenance roles through experience.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Usually starting as a production line worker, can advance to team leader or qual
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: This occupation falls under low-skilled categories; direct Express Entry immi
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-food-and-beverage-processing/CA)**

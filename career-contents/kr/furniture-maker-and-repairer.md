@@ -4,8 +4,6 @@
 
 This is a specialized technical job that involves designing, manufacturing, and repairing furniture. It covers the entire process including woodworking, painting, and assembly, and work environments range from small workshops to large factories.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ This is a specialized technical job that involves designing, manufacturing, and 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can be introduced into the design and cutting processes of furniture manufacturing, but custom furniture repair and detailed finishing work require human craftsmanship, so the impact is limited. Rather, productivity improvements using digital tools like CNC are expected.
-
 Promotion typically follows the path of technician → site supervisor → factory manager. After gaining skills, one may start a personal business (workshop startup). In large furniture manufacturers, transitioning to quality control or production management is also possible.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Promotion typically follows the path of technician → site supervisor → facto
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed as skilled worker, but limited track record |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Employable in furniture factories in manufacturing, mainly simple tasks |
-| Subclass F-2 (F-2 (Residence)) | Free employment possible after certain skill level, but hard to obtain |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -148,12 +136,12 @@ A: Not mandatory, but having a certificate such as Furniture Making Technician h
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-maker-and-repairer/KR)**

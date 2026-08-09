@@ -52,8 +52,6 @@ Responsible for designing, developing and maintaining software applications, inc
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Junior developers can advance to senior developer, architect, or technical lead through project experience. Transitioning to project management or product management is also common. Continuous learning of new technologies (e.g., AI, cloud-native) can accelerate career growth.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior developers can advance to senior developer, architect, or technical lead 
 | Subclass Skilled Worker Visa (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled migrants with qualifications or degrees; requires a job offer from an employer; no explicit minimum annual salary but must align with market rates. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa allowing one year stay in Germany to find employment, requiring German or English proficiency and relevant qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but certification (Anabin or ZAB) helps with visa applications
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-developer/DE)**

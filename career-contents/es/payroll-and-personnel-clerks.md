@@ -4,8 +4,6 @@
 
 Responsible for daily tasks such as employee attendance, payroll calculation, social insurance declarations, and personnel file management, serving as the basic executive position in the human resources department.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for daily tasks such as employee attendance, payroll calculation, so
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is rapidly automating core operations such as attendance statistics, payroll calculation, and social security declarations, significantly reducing the basic job requirements for HR and payroll administrators.
-
 They can be promoted to payroll supervisor or HR specialist, with some moving on to HRIS management or compensation consultants.
 
 **Tasks most exposed to AI:**
@@ -103,16 +99,9 @@ They can be promoted to payroll supervisor or HR specialist, with some moving on
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | A job contract with a Spanish company must be obtained, proving that the position cannot be filled by a local person, usually for non-essential occupations. |
-| Subclass Busqueda empleo (Job Search Visa) | This applies to non-EU students who graduated from Spanish universities or FP, allowing them to stay in Spain and look for jobs after graduation. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: This occupation is not in short supply and does not require academic certific
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-and-personnel-clerks/ES)**

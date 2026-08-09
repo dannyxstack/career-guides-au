@@ -51,8 +51,6 @@ Materials scientists study the structure and properties of natural and synthetic
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on materials scientists is mixed: data analysis and simulation predictions will be automated, but experimental design, interdisciplinary innovation, and physical intuition remain core human strengths.
-
 Career progression path: Research Scientist → Senior Researcher → Chief Scientist/R&D Director; or transition to project management, technical consulting.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career progression path: Research Scientist → Senior Researcher → Chief Scie
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires master's degree or bachelor's + 5 years experience; usually needs PERM labor certification. |
 | Subclass O-1 (O-1 Extraordinary Ability Visa) | Applicable to individuals with extraordinary ability, no quota limits, must demonstrate exceptional competence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Most R&D roles require a PhD in materials science or related engineering fiel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/materials-scientists/US)**

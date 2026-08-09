@@ -55,8 +55,6 @@ Firefighters in New Zealand are responsible for firefighting, emergency rescue, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Firefighter career progression path: from Firefighter can advance to Senior Firefighter, Station Officer, or Area Commander. Some transition to training, fire inspection, or emergency management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Firefighter career progression path: from Firefighter can advance to Senior Fire
 |---|---|
 | Subclass AEWV (Accredited Employer Work Visa) | No direct migration pathway; only possible through sponsorship by a certified employer (FENZ) for a temporary work visa, but FENZ generally does not sponsor overseas applicants. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold NCEA Level 2 qualification, a valid first aid certificate, Class 2 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-fighter/NZ)**

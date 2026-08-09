@@ -52,8 +52,6 @@ Air conditioning and refrigeration mechanics install, maintain, and repair air c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 Can advance from apprentice to skilled technician, then to supervisor, project manager, or self-employment. Further education can lead to HVAC engineering or energy management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from apprentice to skilled technician, then to supervisor, project m
 | Subclass General Employment P (General Employment Permit) | Applicable to non-shortage occupations, requires labor market testing, salary not less than €27,000, annual quota restrictions. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled talent, salary threshold €56,450 (2023), with a job offer, allows mobility within the EU. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically through a 4-year apprenticeship; can also seek apprenticeship after
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-conditioning-and-refrigeration-mechanic/IE)**

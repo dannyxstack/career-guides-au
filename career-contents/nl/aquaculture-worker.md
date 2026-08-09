@@ -4,8 +4,6 @@
 
 Aquaculture workers are responsible for farming fish, shellfish, and aquatic plants, including feeding, water quality monitoring, harvesting, and daily maintenance, playing a fundamental role in the Dutch aquaculture industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -56,8 +54,6 @@ Aquaculture workers are responsible for farming fish, shellfish, and aquatic pla
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Aquaculture workers are significantly threatened by automation: repetitive tasks such as feeding and water quality monitoring will be gradually replaced by AI and robots, reducing entry-level positions but increasing demand for AI operation and maintenance and anomaly handling skills.
-
 Junior workers can gain experience and advance to technician or supervisor roles, or specialize in specific species (e.g., salmon, shellfish). Further study in aquaculture science or management can lead to management or R&D positions.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Junior workers can gain experience and advance to technician or supervisor roles
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to non-EU high-skilled immigrants, salary threshold around €56,000 (2025), but this occupation typically has lower pay and may not meet the requirement. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to non-EU highly skilled migrants, salary threshold approx. €5,000/month (over 30 years old); this occupation's salary typically falls below the threshold. |
-| Subclass EU free movement (EU Freedom of Movement) | EU/EEA/Swiss citizens can work freely in the Netherlands without a visa. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: Progress to technician, supervisor, or R&D roles by attaining a higher degree
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aquaculture-worker/NL)**

@@ -53,8 +53,6 @@ Operates table games (such as blackjack, roulette, poker), deals cards or distri
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Casino dealers face high automation risk; online gambling and self-service tables will reduce traditional positions, but physical casinos still need human staff for complex interactions and compliance.
-
 From junior dealer, you can advance to senior dealer, table supervisor, and then casino manager. Some casinos offer internal training programs, and experienced individuals can also move to other gaming positions.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ From junior dealer, you can advance to senior dealer, table supervisor, and then
 | Subclass H-1B (H-1B Specialty Occupation) | Casino dealers are typically not professional occupations, H-1B application is difficult |
 | Subclass EB-3 (EB-3 Skilled Workers) | requires employer-sponsored PERM, but this occupation has low skill content and is difficult to pass |
 
-**PR friendliness: very low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (½☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Very difficult. This occupation is not a professional role, making H-1B and g
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | very low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-dealers/US)**

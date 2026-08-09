@@ -55,8 +55,6 @@ Make wax or sand cores and molds in foundries for metal casting production.
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Foundry mold makers face high automation risk; AI and robots will significantly replace mold making, trimming, and quality inspection tasks. Entry-level positions shrink, but complex mold design and on-site debugging still rely on human experience.
-
 Can start as an apprentice and advance to foundry technician, mold supervisor, or obtain NIMS certification to move into precision casting. A few experienced individuals start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Can start as an apprentice and advance to foundry technician, mold supervisor, o
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Very difficult. Usually does not meet H-1B education requirements; EB-3 green
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/foundry-mold-and-coremakers/US)**

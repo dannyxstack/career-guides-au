@@ -52,8 +52,6 @@ Responsible for supervising the legality of market transactions, checking produc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly amplify the capabilities of consumer protection and trade regulators, especially in data analysis and compliance monitoring, but legal discretion and on-site inspections still require human judgment.
-
 Candidates can be promoted from grassroots inspectors to regional supervisors, or develop into policy-making, legal consulting, and other directions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Candidates can be promoted from grassroots inspectors to regional supervisors, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (EU Blue Card equivalent)) | Applicable to highly skilled talents, requiring an annual salary of at the statutory minimum (approximately €53,000) |
-| Subclass Salarié (Salarié (Work Permit)) | Employer sponsorship required, suitable for mid-level positions, salary must meet industry standards |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search Visa)) | You can apply after graduation, with a validity period of 12 months, for job hunting |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: At least a Licence (undergraduate) degree in law or economics is required, an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/consumer-protection-and-trade-control-officer/FR)**

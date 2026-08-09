@@ -51,8 +51,6 @@ Responsible for selling IT solutions, software, cloud services, and telecom prod
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Starting from junior sales representatives, you can be promoted to Senior Account Manager, Regional Sales Manager, then Sales Director, or ICT Business Development Manager. After accumulating industry resources, you can also shift to pre-sales consulting or product management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting from junior sales representatives, you can be promoted to Senior Accoun
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for ICT sales professionals with high education (bachelor's degree or above) whose salary meets the threshold, offering a fast-track residency pathway. |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly skilled professionals, university degree or more than 3 years of experience required, no labor market test required. |
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Ordinary work residency guaranteed by a Spanish company requires proof that the position is difficult to recruit in the EU. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted from sales representative to account manager, regional ma
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-sales-professional/ES)**

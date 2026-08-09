@@ -4,8 +4,6 @@
 
 Responsible for cleaning the interior and exterior of vehicles such as cars, trucks, and buses, using cleaning agents and equipment for manual or automatic washing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cleaning the interior and exterior of vehicles such as cars, tru
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Vehicle cleaners face medium automation risk; autonomous driving and smart cleaning technologies will gradually replace basic cleaning tasks, but complex interiors and custom services still require human labor. Entry-level positions see increased competition, with limited salary growth.
-
 Can advance from basic cleaner to team supervisor or quality inspector; with experience, transition to car detailing or maintenance assistant; some may start their own car wash business.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can advance from basic cleaner to team supervisor or quality inspector; with exp
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens can freely work in the Netherlands without additional permits. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Only applicable to high-skilled occupations; vehicle cleaners typically do not meet the salary threshold (at least €5,008/month in 2023). |
-| Subclass Orientation Year (Orientation Year) | Applies to foreign students who graduated in the Netherlands, can find any job, but low salary for cleaners may affect residency renewal. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Yes, can advance to team leader, quality inspector, or switch to auto detaili
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-cleaner/NL)**

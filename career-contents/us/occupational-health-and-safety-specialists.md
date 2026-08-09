@@ -52,8 +52,6 @@ Occupational health and safety specialists assess work environments, design prog
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not completely replace occupational health and safety specialists, but it will automate data collection, report generation, and routine monitoring tasks; it will also enhance risk assessment, training design, and compliance analysis. Specialists need to shift toward higher-value consulting and strategy development.
-
 Entry-level positions can start as safety assistant or technician, gain experience and advance to safety specialist or senior specialist, further to safety manager, director, or consultant, or shift to environmental health and safety (EHS).
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level positions can start as safety assistant or technician, gain experien
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Applicable to bachelor's degree or skilled workers, requires PERM, with long waiting times |
 | Subclass TN (TN Status (USMCA Professional)) | Canadian or Mexican citizens may apply, must be on the occupation list (not explicitly listed but may fall under engineer category) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in fields such as occupational safety 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-health-and-safety-specialists/US)**

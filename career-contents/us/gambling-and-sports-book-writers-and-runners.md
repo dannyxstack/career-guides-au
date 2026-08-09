@@ -53,8 +53,6 @@ Responsible for managing sports events and horse race betting, operating games l
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI automation and online gambling will severely reduce demand for bookmakers; entry-level jobs decrease, but complex betting and compliance oversight still require humans.
-
 Can advance from runner to pit supervisor or gaming manager, but advancement is limited.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from runner to pit supervisor or gaming manager, but advancement is 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Almost impossible as the occupation is non-professional, making employer spon
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-and-sports-book-writers-and-runners/US)**

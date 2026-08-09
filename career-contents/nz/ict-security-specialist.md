@@ -52,8 +52,6 @@ Cybersecurity engineers protect organizational information systems from cyber th
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cybersecurity engineer role differentiation: routine penetration testing and log analysis are compressed by AI automation, but AI also amplifies threat intelligence, automated response, and AI security audit capabilities, leading to surging demand for composite experts.
-
 Career path: Junior Security Analyst → Senior Engineer → Security Architect/Team Lead → CISO. Can also transition to fields like cloud security or DevSecOps, or enhance competitiveness via certifications such as CISSP or CISM.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior Security Analyst → Senior Engineer → Security Architect/
 | Subclass SMC (Skilled Migrant Category) | For a 6-point skilled migration system, applicants can apply based on qualifications, work experience, and a New Zealand job offer. Cybersecurity engineers typically score high. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, suitable for applicants with related experience who do not meet Green List requirements; can transition to residence after 2 years. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Certification is not mandatory, but international certifications like CISSP a
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-security-specialist/NZ)**

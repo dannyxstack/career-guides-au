@@ -1,10 +1,8 @@
-# Urologist 职业分析 · 韩国
+# 泌尿科医生（Urologist）职业分析 · 韩国
 
-**职业代码: 301111 (KECO)**
+**职业代码：301111 (KECO)**
 
-A specialist who diagnoses and treats diseases of the urinary system; obtains a medical license under the Medical Act, completes residency training, and acquires a specialist certificate.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+诊断和治疗泌尿系统疾病的专家；根据《医疗法》取得医师执照，完成住院医师培训并获得专科医师证书。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist who diagnoses and treats diseases of the urinary system; obtains a 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School (6-year program) | 6年 | $40,000,000~$80,000,000（Varies by national/public/private school and scholarships） |
-| Internship (1 year) + Residency (4 years) | 5年 | $30,000,000~$50,000,000（Receives salary during training period (approx. 30-50 million KRW/year)） |
+| 医学院（6年制） | 6年 | $40,000,000~$80,000,000（因国立/公立/私立学校和奖学金而异） |
+| 实习（1年）+ 住院医师培训（4年） | 5年 | $30,000,000~$50,000,000（培训期间领取薪资（约3000-5000万韩元/年）） |
 
 ---
 
@@ -22,17 +20,17 @@ A specialist who diagnoses and treats diseases of the urinary system; obtains a 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Pass the national exam after graduating from medical school |
-| Urology Specialist | Korean Medical Association | 必备 | Pass the specialist exam after completing residency |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后通过国家考试 |
+| 泌尿科专家 | 韩国医学会 | 必备 | 完成住院医师后通过专科医师考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 3,500. Demand is steady due to aging population and increase in urinary system diseases; some regions experience workforce shortages due to regional medical imbalances.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 3,500。因人口老龄化和泌尿系统疾病增加，需求稳定；部分地区因医疗资源分布不均出现劳动力短缺。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,86 @@ A specialist who diagnoses and treats diseases of the urinary system; obtains a 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years after obtaining specialist license) | $80,000,000~$99,999,999 | Based on hospital-employed physician standards |
-| Intermediate (4-10 years after obtaining specialist license) | $99,999,999 | Varies by experience and hospital size |
-| Advanced (10+ years after obtaining specialist license) | $99,999,999 | Includes private practitioners or professors |
+| 初级（获得专业执照后0-3年） | $80,000,000~$99,999,999 | 基于医院雇佣医师标准 |
+| 中级（获得专业执照后4-10年） | $99,999,999 | 因经验和医院规模而异 |
+| 高级（取得专业执照后10年以上） | $99,999,999 | 包括私人执业者或教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI enhances urology diagnostic support (image reading, pathology analysis) but cannot fully replace human physicians in surgery and patient consultation, where the doctor's role remains central. Robotic surgery is evolving with AI, but physician control is essential.
+AI增强泌尿科诊断支持（图像读取、病理分析），但无法完全取代人类医生在手术和患者咨询中的角色，医生仍处于核心地位。机器人手术随AI发展，但医生控制至关重要。
 
-After graduating from medical school, completes internship and residency (4 years) to obtain a specialist license, then opens a clinic or works at a hospital; career path can expand to professor or private practitioner.
+医学院毕业后，完成实习和住院医师培训（4年）获得专科执照，然后开诊所或医院工作；职业路径可扩展为教授或私人执业医生。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image reading
-- Standard test result interpretation
-- Prescription support
+- 简单图像读取
+- 标准测试结果解读
+- 处方支持
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Ultrasound diagnosis
-- Surgical planning
-- Patient data analysis
+- 超声诊断
+- 手术规划
+- 患者数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Surgical technique
-- Patient trust relationship
-- Complex clinical judgment
+- 外科技术
+- 患者信任关系
+- 复杂的临床判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Robotic surgery
-- Use of AI diagnostic assistance tools
-- Data analysis
-- Patient communication
+- 机器人手术
+- AI诊断辅助工具的使用
+- 数据分析
+- 患者沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging Population
-- Increase in Urological Cancers
-- Expansion of Robotic Surgery
-- Increase in Prostatic Diseases
+- 人口老龄化
+- 泌尿系统癌症增加
+- 机器人手术的扩展
+- 前列腺疾病增加
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Required when a foreign doctor works in a domestic urology department; must meet professional qualification requirements. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong passion and endurance for medicine
-- People with precise surgical skills and meticulous patient response abilities
-- People interested in continuous learning and research
+- 对医学有强烈热情和耐力的人
+- 具备精准手术技能和细致患者应对能力的人
+- 对持续学习和研究感兴趣的人
 
 **谁不适合**
-- People who find it difficult to endure long training periods and high work intensity
-- People who prefer independent work over collaboration with others
+- 难以忍受长时间培训和高强度工作的人
+- 喜欢独立工作而非与人合作的人。
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a urologist?**
-答：For a junior specialist, the annual salary is about 80-120 million KRW, and with experience and opening a private practice, it can exceed 500 million KRW.
+**问：泌尿科医生的年薪是多少？**
+答：初级专家年薪约8000-1.2亿韩元，有经验并开设私人诊所可超5亿韩元。
 
-**问：Can foreign doctors work as urologists in Korea?**
-答：Yes, but an E-7 visa is required, and you must obtain a Korean medical license and specialist qualification, which is realistically very difficult.
+**问：外国医生能在韩国从事泌尿科工作吗？**
+答：可以，但需E-7签证，且必须获得韩国医疗执照和专科资格，实际操作非常困难。
 
-**问：How long does it take to become a urologist?**
-答：It takes at least 11 years: 6 years of medical school, 1 year of internship, and 4 years of residency.
+**问：成为泌尿科医生需要多长时间？**
+答：至少需要11年：6年医学院、1年实习和4年住院医师培训。
 
 
 ---
@@ -143,12 +135,12 @@ After graduating from medical school, completes internship and residency (4 year
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/urologist/KR)**

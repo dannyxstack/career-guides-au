@@ -50,8 +50,6 @@ Work involves cleaning public spaces such as roads and parks to maintain aesthet
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although automation with AI and robots is advancing, humans are more suited for work in complex outdoor environments and uneven terrain, making full replacement difficult.
-
 Career paths are limited, but opportunities exist for promotion to leader or site supervisor, or management roles in cleaning contracting companies.
 
 **Tasks most exposed to AI:**
@@ -87,15 +85,9 @@ Career paths are limited, but opportunities exist for promotion to leader or sit
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Residence status for building cleaning. Requires passing skills and Japanese language tests. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | Residence status for 3-year skill acquisition; may exclude road/park cleaning. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -136,12 +128,12 @@ A: It falls under Specified Skilled Worker (i) (Building Cleaning) but may exclu
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-and-park-cleaner/JP)**

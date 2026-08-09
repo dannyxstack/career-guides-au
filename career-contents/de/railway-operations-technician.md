@@ -54,8 +54,6 @@ Responsible for railway train operation scheduling, signal monitoring, track saf
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Scheduling and monitoring tasks of railway operations technicians can be partially automated by AI, but on-site safety inspections, emergency responses, and equipment maintenance in high-risk scenarios still heavily rely on human judgment; overall impact is moderate.
-
 Can advance from technician to dispatch supervisor, operations manager, or transition to specialized roles such as railway engineering and safety management. Further study at a dual-system university can lead to engineer qualification.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from technician to dispatch supervisor, operations manager, or trans
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires a German-recognized qualification (dual system or degree) and employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing entry to seek work before finding a job, suitable for those with relevant experience. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not required: dual-system vocational education (3 years) is the mainstream pa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-operations-technician/DE)**

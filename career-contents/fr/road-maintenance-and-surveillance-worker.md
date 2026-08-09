@@ -4,8 +4,6 @@
 
 It is responsible for the daily maintenance, inspections, and minor repairs of transportation networks such as highways and expressways, ensuring smooth road traffic and safety. It is a key grassroots position in France's infrastructure maintenance system.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -56,8 +54,6 @@ It is responsible for the daily maintenance, inspections, and minor repairs of t
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Road maintenance and patrol duties combine automatable parts and on-site visits; AI will replace data recording and routine inspections but enhance predictive maintenance and decision-making with overall moderate risk.
-
 Junior inspectors can be promoted to senior technicians, team leaders, or regional maintenance supervisors; They can also switch to professional positions such as road safety inspection or construction supervision, or enter the engineering management field through internal training.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior inspectors can be promoted to senior technicians, team leaders, or region
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Residence Permit)) | A CDI contract must be provided by a French employer and approved by the Labor Bureau for necessity. The position is usually not in short supply and is difficult to approve. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Seeker Visa)) | You are allowed to stay in France for one year to find a job, but you must prove sufficient funds and French language skills, and the position is not in short supply, so the success rate is low. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Only possible if applicant holds higher diploma and salary exceeds threshold (approx €53,000/year); this role typically does not meet the standard. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: You can be promoted to senior technician, team supervisor, or regional mainte
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/road-maintenance-and-surveillance-worker/FR)**

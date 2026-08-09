@@ -51,8 +51,6 @@ Production clerks coordinate production schedules, record inventory, process ord
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-In procurement agents and officers, data-driven tasks (e.g., supplier search, price analysis) are easily automated by AI, while negotiation, relationship maintenance, and complex contract evaluation rely on human judgment; overall role impact is mixed.
-
 Can advance from junior clerk to senior production coordinator, production supervisor, or supply chain specialist, and move to operations management roles with accumulated experience.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from junior clerk to senior production coordinator, production super
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Affected by automation and AI, some tasks may be replaced, but production coo
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-clerk/IE)**

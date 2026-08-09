@@ -53,8 +53,6 @@ Responsible for washing, peeling, slicing, canning, and preserving fruits and ve
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fruit and vegetable preservation jobs face risk of automation replacement, but AI can also enhance quality control and equipment maintenance; overall mixed. Entry-level roles face increased competition, requiring upgraded technical skills.
-
 Usually starts as a production line worker, can advance to production supervisor or quality inspector, or shift to related food technology roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as a production line worker, can advance to production supervisor
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in demand, requires employer sponsorship and an annual salary of at least 30,000 euros. |
 | Subclass EU Blue Card (EU Blue Card) | Requires an annual salary above the Irish average wage (about 45,000 euros), which is generally not suitable for this occupation. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is not in shortage; obtaining a work permit is difficult and 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-vegetable-and-related-preserver/IE)**

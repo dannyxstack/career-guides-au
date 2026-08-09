@@ -52,8 +52,6 @@ Gastroenterologists are doctors specializing in diagnosing and treating digestiv
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: very low (★☆☆☆☆).**
 
-The impact of AI on gastroenterologists is 'mixed': tasks such as report writing and image analysis can be automated, but endoscopy, complex diagnosis, and patient communication rely on human judgment and are hard to replace in the short term.
-
 Typically starts with internal medicine residency training, then completes gastroenterology specialty training (about 3 years). Can advance to department head, academic professor, or lead a team in private hospitals.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically starts with internal medicine residency training, then completes gastr
 | Subclass 482 (Skills in Demand Visa) | Sponsored by an Australian hospital or clinic employer to work as a specialist doctor. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency, applicable to applicants with 3 years of full-time work experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Starting from medical bachelor's, typically about 5-6 years undergraduate, 3 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | very low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gastroenterologist/AU)**

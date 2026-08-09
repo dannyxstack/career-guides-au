@@ -4,8 +4,6 @@
 
 Providing daily hygiene care and comfort care for patients in hospitals, nursing homes, or homes, including bathing, changing clothes, mobility, and pressure ulcer prevention.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Providing daily hygiene care and comfort care for patients in hospitals, nursing
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some repetitive tasks in this profession (such as recording and monitoring) are easily replaced by AI, but core interpersonal care and complex physiological care are difficult to automate. Overall risk is moderate, and skill upgrades can enhance competitiveness.
-
 Nurses can be promoted from nurses to senior nursing assistants or specialist nurses (such as aged care and hospice care), or through continuing education to become nurses or nursing coordinators.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Nurses can be promoted from nurses to senior nursing assistants or specialist nu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that the position is difficult to recruit in the EU and requires a work permit |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for high-skilled or in-demand occupations, but nursing assistants are usually not included and require case evaluation |
-| Subclass Recherche emploi (Job Search Visa) | After completing your studies in France, you can find a job there, but the nursing assistant profession requires certification |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Promotion to Senior Care Assistant, Care Coordinator, or Registered Nurse (ID
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patient-hygiene-and-comfort-care-provider/FR)**

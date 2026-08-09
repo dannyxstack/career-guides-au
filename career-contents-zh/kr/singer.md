@@ -1,10 +1,8 @@
 # 歌手（Singer）职业分析 · 韩国
 
-**职业代码: 41461 (KECO)**
+**职业代码：41461 (KECO)**
 
-An artistic profession that conveys music to the public by singing on stage or broadcasts. Livelihood is sustained through agency contracts, performances, and music revenue rather than a stable salary.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种通过在舞台或广播中演唱向公众传达音乐的艺术职业。生计依赖于机构合同、演出和音乐收入，而非稳定薪资。
 
 
 ---
@@ -13,9 +11,9 @@ An artistic profession that conveys music to the public by singing on stage or b
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Free public high school; private high schools under 3 million KRW/year） |
-| University (Applied Music Department) | 4年 | $16,000,000~$40,000,000（Average annual tuition: approx. 16 million KRW for private 4-year universities; arts and sports majors have additional practical fees） |
-| Trainee System | 2 年 | $0~$0（Covered by agency; no cost to trainee (living expenses self-funded)） |
+| 高中 | 3年 | $0~$3,000,000（公立高中免费；私立高中每年低于300万韩元） |
+| 大学（实用音乐系） | 4年 | $16,000,000~$40,000,000（平均年学费：私立4年制大学约1600万韩元；艺术和体育专业有额外实践费） |
+| 培训生制度 | 2 年 | $0~$0（由中介承担费用；学员无需付费（生活费自理）） |
 
 ---
 
@@ -23,17 +21,17 @@ An artistic profession that conveys music to the public by singing on stage or b
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Practical Music Certificate (KH Korea Music Association) | Korea Music Association | 可选 | Beneficial but not mandatory; practical skills are prioritized |
-| Vocal Training Certificate | Private academies | 可选 | Proof of skill, low public credibility |
+| 实用音乐证书（韩国音乐协会） | 韩国音乐协会 | 可选 | 有益但非强制；实践技能优先 |
+| 声乐培训证书 | 私立学院 | 可选 | 技能证明，公众信誉低 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 28,000. Global K-pop expansion has increased overseas opportunities, but the domestic market is saturated, with only a few succeeding. Post-COVID-19, demand for performances and broadcasts is recovering, but unstable employment structures persist.
+**职位需求量：很高（★★★★½）** 全国从业人数约 28,000。全球K-pop扩张增加了海外机会，但国内市场饱和，只有少数人能成功。疫情后演出和广播需求正在恢复，但就业结构不稳定。
 
-**竞争度: 很高（★★★★★）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：很高（★★★★★）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -41,94 +39,86 @@ An artistic profession that conveys music to the public by singing on stage or b
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years post-debut) | $12,000,000~$30,000,000 | Many unpaid trainees; no income until settlement after debut |
-| Intermediate (moderate recognition, 3–7 years) | $30,000,000~$80,000,000 | Annual income of 30–80 million KRW from music, performances, and broadcast fees |
-| Advanced (star level, 7+ years) | $99,999,999 | Top stars earn billions; income from music, ads, and concerts |
+| 新手（出道后0-3年） | $12,000,000~$30,000,000 | 许多无薪实习生；出道结算前无收入 |
+| 中级（中等认可度，3–7年） | $30,000,000~$80,000,000 | 年收入3000-8000万韩元，来自音乐、演出和广播费 |
+| 高级（星级，7年以上） | $99,999,999 | 顶级明星收入数十亿；来自音乐、广告和演唱会的收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists in composition, arrangement, and music production, expanding singers' creative capabilities. There are copyright issues with AI covers and vocal synthesis, but stage and live performances remain uniquely human. While AI has reduced jobs in simple music production, the artistic value of singers is expected to become more prominent.
+AI辅助作曲、编曲和音乐制作，扩展歌手的创作能力。AI翻唱和语音合成存在版权问题，但舞台和现场表演仍为人类独有。虽然AI减少了简单音乐制作的岗位，但歌手的艺术价值预计将更加突出。
 
-Pass audition → Trainee → Debut → Activities → Solo/team transition. Long-term activity requires skills in composition, lyrics, and producing. After retirement, transition to vocal trainer or composer.
+通过试镜→练习生→出道→活动→单飞/团队转型。长期活动需要作曲、作词和制作技能。退休后可转型为声乐教练或作曲家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Demo track production
-- Simple chorus recording
-- Some broadcast audition processes
+- 演示轨道制作
+- 简单合唱录音
+- 部分广播试镜流程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assistance in composition and lyric writing
-- Music mixing and mastering
-- Choreography practice analysis
+- 作曲作词辅助
+- 音乐混音与母带处理
+- 编舞练习分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Live unique vocal tone and emotion
-- Impromptu acting and communication on stage
-- Emotional connection with fans
+- 独特的活嗓音质和情感
+- 即兴表演和舞台沟通
+- 与粉丝的情感联系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Composition/Lyric writing
-- Producing
-- Performance direction
-- Marketing/Branding
+- 作曲/作词
+- 生产
+- 绩效方向
+- 市场营销/品牌建设
 
-**主要增长方向:**
+**主要增长方向：**
 
 - K-pop
-- Global expansion
-- Digital music sources
+- 全球扩张
+- 数字音乐源
 - YouTube/TikTok
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-6 (Arts and Entertainment Visa) | Foreign singers need to obtain this for performances and broadcasting activities in Korea, requiring invitation from an agency |
-| Subclass F-2 (Residence Visa) | Applicable after a certain period of stay, no activity restrictions, preliminary stage to permanent residence |
-| Subclass F-5 (Permanent Residence Visa) | Obtained after meeting long-term stay and income requirements, virtually unlimited activities |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with outstanding singing and expressive skills
-- Those with strong mental fortitude to withstand public attention
-- People who enjoy radiating energy on stage
+- 歌唱和表达能力突出的人
+- 心理素质强、能承受公众关注者
+- 喜欢在舞台上散发能量的人
 
 **谁不适合**
-- Those who prefer stable income and regular employment
-- People who value privacy protection
+- 喜欢稳定收入和常规就业的人
+- 重视隐私保护的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a singer?**
-答：The salary of most non-trainee singers is less than 30 million KRW, only the top 10% earn over 100 million. Trainees are usually unpaid.
+**问：歌手的平均年薪是多少？**
+答：大多数非练习生的歌手收入低于3000万韩元，只有前10%超过1亿韩元。练习生通常无收入。
 
-**问：What visa does a foreigner need to work as a singer in Korea?**
-答：They typically receive an E-6 (Arts and Entertainment) visa. They need an exclusive contract with an agency, and to obtain permanent residence (F-5), they must meet long-term stay and income requirements.
+**问：外国人在韩国当歌手需要什么签证？**
+答：他们通常获得E-6（艺术与娱乐）签证。需要与经纪公司签订独家合同，获得永久居留权（F-5）需满足长期居留和收入要求。
 
-**问：What is the career path after retiring as a singer?**
-答：Many transition to roles such as vocal trainer, composer, music producer, broadcast MC, or YouTuber.
+**问：歌手退休后的职业路径是什么？**
+答：许多人转型为声乐教练、作曲人、音乐制作人、广播主持人或YouTuber。
 
 
 ---
@@ -146,12 +136,12 @@ Pass audition → Trainee → Debut → Activities → Solo/team transition. Lon
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/singer/KR)**

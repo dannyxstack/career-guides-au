@@ -4,8 +4,6 @@
 
 In Italy, Traditional and Complementary Medicine specialists include TCM practitioners, acupuncturists, herbalists, etc., who must register through state examinations and provide non-mainstream healthcare services.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ In Italy, Traditional and Complementary Medicine specialists include TCM practit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on traditional and complementary medicine specialists is mixed: standardized tasks like diagnosis and treatment recommendations are easily replaceable, but personalized diagnosis and manual operations remain a moat.
-
 Career path: Obtain a foundational medical or related degree, then complete specialized training (e.g., acupuncture or phytotherapy), and register through national exams. Can develop into independent practice or open a clinic, with a few entering research or teaching.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Career path: Obtain a foundational medical or related degree, then complete spec
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens; requires a university degree and a work contract; annual salary threshold around €35,000. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, requires employer sponsorship, limited places for non-occupation in demand |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | For practitioners planning to set up independent clinics, a detailed business plan is required. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Recognition is gradually increasing, but it is not part of mainstream healthc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-and-complementary-medicine-professional/IT)**

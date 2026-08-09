@@ -52,8 +52,6 @@ Weighers, graders and sorters weigh, grade and sort materials, goods and product
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Weighing, grading, and sorting tasks are highly repetitive and rely on vision and simple rules. AI vision and automation systems will significantly replace manual labor, drastically reducing entry-level jobs, but some supervisory roles remain.
-
 Can advance to team supervisor or quality inspector through experience; also can learn skills to transfer to positions like warehouse management.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can advance to team supervisor or quality inspector through experience; also can
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Generally not. This occupation is not on the skilled worker visa sponsorship 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weighers-graders-and-sorters/UK)**

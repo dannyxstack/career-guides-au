@@ -53,8 +53,6 @@ These experts are responsible for designing, implementing, and maintaining datab
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cloud engineer roles mix highly automated operational tasks and strategic architectural decisions. AI will handle routine deployment, monitoring, and log analysis, but high-value work like cloud architecture design, cost optimization, and fault diagnosis will be amplified by AI assistance. Overall risk is moderate, but competition for entry-level positions increases.
-
 Junior database/network administrators can be promoted to senior engineers, architects, or IT managers. After gaining experience, you can also move towards big data, cloud computing, or cybersecurity specialists.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior database/network administrators can be promoted to senior engineers, arch
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a university degree and a work contract, with a salary threshold of about 33,000 euros per year |
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | For highly skilled professionals, the salary threshold is about 40,000 euros per year, making the process relatively fast |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Ordinary employed work residency requires employer sponsorship, no fixed salary threshold, but minimum wage must be met |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Typically, a bachelor's degree in computer science, telecommunications, or re
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-and-network-specialists-not-elsewhere-classified/ES)**

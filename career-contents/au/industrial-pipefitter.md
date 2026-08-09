@@ -54,8 +54,6 @@ An industrial pipefitter installs, maintains, and repairs process piping and mec
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Industrial pipe installation work, as an on-site technical role, has core installation, welding, and testing tasks difficult to replace by AI. However, AI can provide strong assistance in pipe design optimization, material specification matching, maintenance prediction, and report generation. Overall impact is mixed; job demand remains stable but skill requirements increase.
-
 Prefabricated pipeline module technology is advancing, but on-site installation and welding remain irreplaceable. Premium pay for advanced pipe welding skills (TIG/stainless steel) is significant, and FIFO earnings rank among the highest for tradespeople across Australia.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Prefabricated pipeline module technology is advancing, but on-site installation 
 | Subclass 186 (ENS) | Permanent Residency |
 | Subclass 491 (Skilled Work Regional) | Remote mining area bonus: +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Industrial pipefitters specialise in high-pressure/high-temperature industria
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-pipefitter/AU)**

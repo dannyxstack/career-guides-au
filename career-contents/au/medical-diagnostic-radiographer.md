@@ -54,8 +54,6 @@ Radiographers operate X-ray, CT, MRI, ultrasound, and nuclear medicine equipment
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Radiographer tasks are partially replaced by AI (e.g., computer-aided detection for preliminary image annotation), while core responsibilities such as clinical decision-making, patient positioning, and radiation safety management are difficult to replace; meanwhile, AI improves diagnostic efficiency and accuracy, allowing humans to focus on complex cases and compassionate care, resulting in a mixed outlook.
-
 AI-assisted imaging diagnostics are advancing rapidly (e.g. AI screening for breast cancer), but radiographers' equipment operation and patient management roles are unaffected. PET/CT and interventional radiology are the specialisations commanding the highest salary premiums.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ AI-assisted imaging diagnostics are advancing rapidly (e.g. AI screening for bre
 | Subclass 190 (Skilled Nominated) | State nomination, rural radiographers given priority |
 | Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Nursing has far greater job volume (Seek ~10,000+ vs radiographer ~1,000), wi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-diagnostic-radiographer/AU)**

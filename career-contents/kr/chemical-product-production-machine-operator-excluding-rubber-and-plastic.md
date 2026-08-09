@@ -4,8 +4,6 @@
 
 This occupation involves operating machines that mix, react, separate, and refine chemical raw materials to produce chemical products.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ This occupation involves operating machines that mix, react, separate, and refin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation replace some tasks like process monitoring and data analysis, but equipment failure response and quality control require human judgment, resulting in mixed impacts.
-
 After joining a large corporation or mid-sized company as a production worker, one can advance to team leader or process manager based on experience.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ After joining a large corporation or mid-sized company as a production worker, o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (non-professional employment) | available for production workers through Employment Permit System |
-| Subclass E-7 (specific activities) | convertible to skilled worker status (point system) |
-| Subclass F-2 (residence) | eligibility for permanent residency after long-term stay |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Some process automation is underway, but handling atypical situations and saf
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-product-production-machine-operator-excluding-rubber-and-plastic/KR)**

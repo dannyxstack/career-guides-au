@@ -51,8 +51,6 @@ Analyze and coordinate an enterprise's or organization's logistics functions, ma
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will profoundly change the work of logisticians: routine planning and scheduling tasks are automated, but strategic supply chain optimization and anomaly handling abilities are amplified by AI, upgrading rather than eliminating the role.
-
 Can advance from Logistics Coordinator to Logistics Manager, Supply Chain Director, or move into procurement and operations management. Obtaining APICS certification (e.g., CSCP) helps career development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from Logistics Coordinator to Logistics Manager, Supply Chain Direct
 | Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree, PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer must prove inability to hire US workers |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires data analysis, supply chain management software (e.g., SAP), communi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/logisticians/US)**

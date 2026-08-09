@@ -53,8 +53,6 @@ Technical cable joiners install, maintain, and repair underground and overhead p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
-
 Typically start as an apprentice or junior technician; by gaining experience and obtaining advanced certifications (such as a New Zealand registered electrician license), you can advance to senior technician or supervisor, or move into project management and training roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as an apprentice or junior technician; by gaining experience and
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, 3 years of work gives 3 points; plus education or age points, may meet the requirement. |
 | Subclass AEWV (Accredited Employer Work Visa) | Sponsored by an accredited employer, can apply for residency after 2 years of work, suitable for those who do not meet direct residency requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, registration with EWRB and an electrician's license are required, typica
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-cable-jointer/NZ)**

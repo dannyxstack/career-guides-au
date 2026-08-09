@@ -53,8 +53,6 @@ Responsible for overall management of general education schools, including teach
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on principal positions is twofold: administrative and data reporting tasks can be automated and streamlined, but interpersonal core duties such as instructional leadership, stakeholder coordination and crisis management are amplified by AI decision support tools, overall risk moderate.
-
 Usually start as a teacher, progress through grade head, vice principal to principal, or transition to educational administration or supervision. Requires continuous management training.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as a teacher, progress through grade head, vice principal to princ
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Difficult, as principals are usually lifelong civil servants requiring German
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-general-education-school/DE)**

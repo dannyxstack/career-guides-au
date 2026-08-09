@@ -51,8 +51,6 @@ Collect and organize data on the distribution, circulation, and physical, chemic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hydrographic technician work is primarily field data collection and equipment maintenance; AI can automate some data processing and analysis, but field operations, equipment repair, and compliance still require humans—outlook mixed.
-
 Junior hydrology technicians can conduct field sampling and data recording, advance to senior technician or project coordinator with experience, or pursue further study to become hydrology experts or water resource management engineers.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Junior hydrology technicians can conduct field sampling and data recording, adva
 | Subclass EB-2 (EB-2 Employment-Based Green Card) | Requires a master's degree or bachelor's plus 5 years of experience, and a PERM labor certification. |
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires at least two years of training or experience, needs PERM labor certification |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can advance to senior technician, project coordinator, or hydrology specialis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hydrologic-technicians/US)**

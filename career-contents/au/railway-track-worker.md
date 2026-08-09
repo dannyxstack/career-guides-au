@@ -54,8 +54,6 @@ Railway track workers are responsible for laying, maintaining, and repairing rai
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Rail track workers face mixed impacts from AI automation: unmanned inspection vehicles and AI track geometry detection systems are replacing manual inspections and simple measurements, but complex repairs and emergency judgments still require human experience; entry-level positions are narrowing due to automation, but increased technical skill requirements enhance job value.
-
 Starting as a junior track worker, you can advance to senior technician, team leader, or track inspector; some transition to railway engineering or project management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Starting as a junior track worker, you can advance to senior technician, team le
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer-sponsored temporary visa, transitioning to 191 permanent residence. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA may cover this occupation with more flexible conditions |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must complete Certificate III in Rail Infrastructure, hold a White Card and t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-track-worker/AU)**

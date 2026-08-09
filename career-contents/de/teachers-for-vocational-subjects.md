@@ -54,8 +54,6 @@ Vocational education teachers teach professional theory and practical skills at 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of vocational trainers—course design, delivery, and assessment—are gradually being eroded by AI, especially entry-level positions replaced by AI tools and online platforms, but high-interaction, customized training still relies on humans.
-
 Can advance to senior teacher, teaching director, or school management. Also transition to education administration, curriculum development, or corporate training. Further study (e.g., Master of Education) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance to senior teacher, teaching director, or school management. Also tra
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa, allowing one year to find work. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for 6 months to seek employment, requiring relevant qualifications and language skills. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to senior teacher, school leader, or education officer. Digital t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/teachers-for-vocational-subjects/DE)**

@@ -53,8 +53,6 @@ Plumbers install, repair, and maintain water supply, drainage, gas, and heating 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not replace plumbers' core practical skills, but will significantly boost efficiency through smart diagnostics, AR assistance, and scheduling optimization; it is a skill-enhancing occupation with stable employment prospects.
-
 After completing apprenticeship, can progress from junior plumber to licensed plumber, then to supervisor, project manager, or self-employed (own plumbing company). Can also specialize in gas, fire protection, or solar hot water systems.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After completing apprenticeship, can progress from junior plumber to licensed pl
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa; plumbers are on the short-term list and can transition to 186 permanent residence. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa, can be transferred from 482 to 186 or applied directly (requires skills assessment) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from apprentice to licensed plumber, then to supervisor, project
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber-general/AU)**

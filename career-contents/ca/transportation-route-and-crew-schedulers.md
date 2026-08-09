@@ -53,8 +53,6 @@ Responsible for planning transport routes, arranging vehicles and personnel sche
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will significantly automate route planning and basic scheduling, but humans are needed for handling anomalies, interpersonal coordination, and compliance responsibilities; overall, it's a mixed blessing.
-
 Can advance from dispatcher to senior dispatcher, fleet manager, or operations supervisor. With experience, can move into logistics planning or supply chain management roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from dispatcher to senior dispatcher, fleet manager, or operations s
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) classify transport dispatch as a priority occupation, eligible for provincial nominee fast-track. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer applies for LMIA to support work visa; after one year of work, eligible for CEC |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Some tasks like route planning may be automated by AI, but handling emergenci
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-route-and-crew-schedulers/CA)**

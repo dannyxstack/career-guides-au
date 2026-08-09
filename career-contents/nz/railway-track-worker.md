@@ -52,8 +52,6 @@ Rail track workers lay, maintain, and repair railway tracks and related faciliti
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physically intensive tasks of railway track workers are easily compressed by automation, but environmental awareness and manual repair skills remain a moat; migration career prospects are limited.
-
 Entry-level track workers can advance to senior track worker, foreman, or track inspector, and some may transition to railway engineering or project management. After gaining 5+ years of experience, they can obtain railway operations or safety supervision certificates, with salaries reaching $80,000+.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level track workers can advance to senior track worker, foreman, or track 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Major cities like Auckland, Wellington, and the Canterbury region have higher
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-track-worker/NZ)**

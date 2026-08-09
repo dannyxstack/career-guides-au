@@ -54,8 +54,6 @@ Pet groomers provide services such as bathing, clipping, styling, and nail trimm
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face a mixed impact from AI: AI can optimize image recording and marketing, but core grooming craftsmanship and animal interaction remain irreplaceable; entry-level positions have narrowed slightly due to automation tools, while senior roles see deepened moats.
-
 Junior pet groomers can advance to supervisor or open their own salon by gaining experience and certification. Some groomers further study veterinary nursing or pet nutrition to expand their career.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior pet groomers can advance to supervisor or open their own salon by gaining
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional)) | Regional employer sponsorship requires proof of labor shortage, available only in very few cases. |
 | Subclass DAMA (Designated Area Migration Agreement) | Some DAMA regions may include pet groomers; specific agreements required |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from employee to supervisor, or start their own beauty shop. Can
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pet-groomer-361113/AU)**

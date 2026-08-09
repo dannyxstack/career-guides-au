@@ -54,8 +54,6 @@ Medical technicians in laboratories, hospitals and clinics assist with diagnosti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of medical technicians presents a mixed picture: AI automation will replace routine sample processing and data recording, but operating complex diagnostic equipment and clinical judgment still rely on human skills, reinforcing the value of professional practice and patient interaction.
-
 Junior technicians typically start with sample processing, and with experience can advance to senior technician or lab supervisor, with some moving into quality control or equipment management. Short courses can upgrade skills, but management roles require years of experience. Transitioning to medical laboratory scientist requires additional academic qualifications.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior technicians typically start with sample processing, and with experience c
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Requires assessment by the New Zealand Qualifications Authority (NZQA), and m
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-technician/NZ)**

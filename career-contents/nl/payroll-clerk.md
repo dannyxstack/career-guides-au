@@ -52,8 +52,6 @@ Calculate employee wages, handle tax deductions and benefit distributions, ensur
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Payroll clerk roles are being rapidly automated by software and AI, especially data entry and compliance checks, but due to tasks requiring human judgment like award interpretation, manual review, and employee inquiries, the role won't disappear entirely, though entry requirements have risen significantly.
-
 Can progress from junior payroll clerk to senior payroll specialist or payroll manager, or transition to HR or finance.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from junior payroll clerk to senior payroll specialist or payroll m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigrants with an annual salary of at least €5,008/month (over 30) or €3,672/month (under 30), sponsored by an approved employer. |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Applicable to high-skilled non-EU professionals with an annual salary of at least €5,008/month, valid for up to 4 years, with family accompaniment allowed. |
-| Subclass Orientation Year (Zo (Orientation Year for Graduates) | Graduates from Dutch universities or master's graduates from world top 200 universities can apply for a one-year job search residence permit; after finding a job, can switch to a work visa. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Most employers require Dutch proficiency at B2 or above, as they need to hand
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/payroll-clerk/NL)**

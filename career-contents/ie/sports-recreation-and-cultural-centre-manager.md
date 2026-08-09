@@ -54,8 +54,6 @@ Responsible for managing the daily operations of a sports, recreation or cultura
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Sports, entertainment, and cultural center managers will face a mixed situation: administrative and scheduling tasks are automated, but AI can enhance marketing and event planning; human supervision, emergency handling, and community relationship maintenance remain core moats.
-
 Junior managers can advance to senior manager or regional director through experience and professional training. They can also transition to related fields such as entertainment, tourism, or event management. Obtaining industry certifications like the ILAM Diploma can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Junior managers can advance to senior manager or regional director through exper
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically requires a bachelor's or master's degree in sports management, leis
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-recreation-and-cultural-centre-manager/IE)**

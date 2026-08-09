@@ -1,8 +1,8 @@
-# Pharmaceutical Engineering Technologists and Researchers 职业分析 · 韩国
+# 制药工程技术员与研究员（Pharmaceutical Engineering Technologists and Researchers）职业分析 · 韩国
 
-**职业代码: 15415 (KECO)**
+**职业代码：15415 (KECO)**
 
-Experts who research and design drug development and production processes, playing a key role in new drug development and quality control.
+研究和设计药物开发与生产过程的专家，在新药开发和质量控制中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ Experts who research and design drug development and production processes, playi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Master's in Pharmacy | 2 年 | $20,000,000~$40,000,000（Annual including tuition and living expenses） |
-| Ph.D. in Pharmaceutical Engineering | 3年 | $30,000,000~$60,000,000（Annual including tuition and living expenses） |
+| 药学硕士 | 2 年 | $20,000,000~$40,000,000（年费用含学费和生活费） |
+| 制药工程博士 | 3年 | $30,000,000~$60,000,000（年费用含学费和生活费） |
 
 ---
 
@@ -20,17 +20,17 @@ Experts who research and design drug development and production processes, playi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Pharmaceutical Quality Control Manager (GMP) | Ministry of Food and Drug Safety | 可选 | Not mandatory but advantageous for employment |
-| Chemical Analyst | Human Resources Development Service of Korea | 可选 | Preferred in quality control field |
+| 药品质量控制经理（GMP） | 食品药品安全部 | 可选 | 非强制但有利于就业 |
+| 化学分析师 | 韩国人力资源开发服务局 | 可选 | 质量控制领域优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Demand is growing due to the growth of the bio/pharmaceutical industry and aging population, with particularly bright employment prospects in biopharmaceuticals.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于生物/制药行业的发展和人口老龄化，需求正在增长，尤其在生物制药领域就业前景十分光明。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,91 +38,85 @@ Experts who research and design drug development and production processes, playi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$50,000,000 | Based on large companies; may be lower at SMEs |
-| Mid-level (4–9 years) | $50,000,000~$70,000,000 | Based on master's; higher for Ph.D. |
-| Senior-level (10+ years) | $70,000,000~$99,999,999 | Principal level or higher, such as research director |
+| 初级（0-3年） | $35,000,000~$50,000,000 | 基于大公司；在中小企业可能较低 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 基于硕士学历；博士学历更高 |
+| 高级（10年以上经验） | $70,000,000~$99,999,999 | 校长级别或更高，如研究主任 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI accelerates the initial candidate screening and process optimization in drug development, but final judgment and experimental design remain the role of human experts, thus expanding the job scope.
+AI加速了药物开发中的初步候选人筛选和流程优化，但最终判断和实验设计仍由人类专家负责，从而扩大了工作范围。
 
-After joining a large company or research institute with a master's or doctoral degree, you build expertise through promotion from researcher to senior, principal, team leader, etc.
+获得硕士或博士学位后加入大型公司或研究所，通过从研究员晋升到高级、首席、团队负责人等逐步积累专业知识。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Initial Candidate Screening
-- Basic Statistical Analysis
-- Documentation and Report Writing
+- 初步候选人筛选
+- 基础统计分析
+- 文档与报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Drug Design
-- Experimental Plan Optimization
-- Process Condition Derivation
+- 药物设计
+- 实验计划优化
+- 工艺条件推导
 
-**人类护城河:**
+**人类护城河：**
 
-- Experimental Design and Analysis Skills
-- Regulatory Compliance Expertise
-- Cross-functional Collaboration
+- 实验设计与分析技能
+- 监管合规专业知识
+- 跨职能协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning Modeling
+- 机器学习建模
 - 数据科学
-- Automation Experiment Techniques
+- 自动化实验技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Biopharmaceuticals
-- Cell and gene therapies
-- Drug Delivery System
-- AI Drug Discovery and Development
+- 生物制药
+- 细胞和基因疗法
+- 药物递送系统
+- AI药物发现与开发
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa (E-7)) | For professionals in pharmaceutical/bio sector; stay of 3–5 years |
-| Subclass D-10 (Job-Seeker Visa (D-10)) | Used when PhD degree holders are job-seeking |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who is curious and analytical
-- Someone who enjoys long-term research and problem-solving
-- Someone good at teamwork and documentation
+- 好奇且善于分析的人
+- 喜欢长期研究和解决问题的人
+- 擅长团队合作和文档记录的人
 
 **谁不适合**
-- Someone who dislikes repetitive tasks and wants immediate results
-- Someone who has difficulty following regulations and procedures
+- 不喜欢重复性工作并希望立即看到成果的人
+- 难以遵守规章制度和流程的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a pharmaceutical engineer?**
-答：Entry-level 35-50 million won, mid-level 50-70 million won, senior 70 million-120 million won
+**问：制药工程师的平均薪资是多少？**
+答：入门级3500-5000万韩元，中级5000-7000万韩元，高级7000万-1.2亿韩元
 
-**问：Can foreigners get a work visa in this field?**
-答：Yes, with an E-7 visa, requiring a master's/PhD degree and experience.
+**问：外国人能在这个领域获得工作签证吗？**
+答：是的，持E-7签证，需硕士/博士学位及经验。
 
-**问：What degree is needed for this job?**
-答：A master's or higher in pharmacy, chemical engineering, etc., is common, with many PhDs.
+**问：这份工作需要什么学位？**
+答：通常拥有药学、化学工程等领域的硕士或更高学历，许多博士。
 
 
 ---
@@ -140,12 +134,12 @@ After joining a large company or research institute with a master's or doctoral 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pharmaceutical-engineering-technologists-and-researchers/KR)**

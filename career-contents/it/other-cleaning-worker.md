@@ -51,8 +51,6 @@ Perform non-domestic cleaning tasks, including cleaning in office buildings, sch
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce demand for other cleaners, especially standardised, repetitive cleaning tasks being replaced by robots, but disinfection and fine cleaning still require human labour.
-
 Most cleaners are entry-level positions with limited advancement opportunities, may become cleaning supervisors or self-employed cleaning contractors.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Most cleaners are entry-level positions with limited advancement opportunities, 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Non-EU workers apply through annual quotas, require employer sponsorship, and are suitable for low-skilled positions. |
-| Subclass EU Blue Card (EU Blue Card) | Only applicable to high-skilled positions; cleaners generally do not qualify. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: No mandatory certification is usually required, but health and safety trainin
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-cleaning-worker/IT)**

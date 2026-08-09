@@ -1,8 +1,8 @@
-# Other Forestry Workers 职业分析 · 日本
+# 其他林业工人（Other Forestry Workers）职业分析 · 日本
 
-**职业代码: 479 (JSCO)**
+**职业代码：479 (JSCO)**
 
-Engaged in planting, felling, thinning, and pruning in forests to maintain and manage forest resources. Operates chainsaws and forestry machinery.
+从事森林种植、砍伐、间伐和修剪，以维护和管理森林资源。操作链锯和林业机械。
 
 
 ---
@@ -11,8 +11,8 @@ Engaged in planting, felling, thinning, and pruning in forests to maintain and m
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate, OJT at forestry site | 1~3年 | $0~$500,000（Training and tool costs only） |
-| Forestry College/Vocational School | 2 年 | $1,000,000~$2,000,000（Tuition and practical training fees included） |
+| 高中毕业，林业现场OJT | 1~3年 | $0~$500,000（仅包含培训及工具费用） |
+| 林业学院/职业学校 | 2 年 | $1,000,000~$2,000,000（包含学费和实操培训费） |
 
 ---
 
@@ -20,19 +20,19 @@ Engaged in planting, felling, thinning, and pruning in forests to maintain and m
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Chainsaw Operation Qualification | Prefectural Labor Bureau | 必备 | Special education completion required |
-| Special Education for Logging Work | Prefectural Labor Bureau | 必备 | Legally required qualification |
-| 林业技术员 | Japan Forest Technology Association | 可选 | Eligible after 2+ years of work experience |
-| Forestry Machinery Operation Qualification (e.g., Forwarder) | Prefectural Labor Bureau | 可选 | Recommend obtaining through work |
+| 链锯操作资质 | 县级劳动局 | 必备 | 需完成特殊教育 |
+| 伐木工作特殊教育 | 县级劳动局 | 必备 | 法定资格 |
+| 林业技术员 | 日本森林技术协会 | 可选 | 2年以上工作经验后符合条件 |
+| 林业机械操作资格（如集材车） | 县级劳动局 | 可选 | 建议通过工作获取 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 41,000. Forestry workers face serious labor shortages due to aging and lack of successors. Youth employment is promising, but skill acquisition in forestry machinery is key to stable income.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 41,000。林业工人因老龄化和后继无人面临严重劳动力短缺。青年就业前景良好，但掌握林业机械技能是获得稳定收入的关键。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,125 +40,118 @@ Engaged in planting, felling, thinning, and pruning in forests to maintain and m
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior–3 years | $2,500,000~$3,500,000 | Daily wage; unstable annual income |
-| Mid-career (3–10 years) | $3,500,000~$5,000,000 | Increase through machine operation skills |
-| Veteran (10+ years) | $4,000,000~$6,000,000 | Increase in contracting and management |
+| 初级–3年 | $2,500,000~$3,500,000 | 日薪；年收入不稳定 |
+| 中期职业（3-10年） | $3,500,000~$5,000,000 | 通过机器操作技能提升薪资 |
+| 资深（10年以上） | $4,000,000~$6,000,000 | 承包和管理增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-As AI and automation advance, autonomous operation of forestry machinery and drone-based site monitoring will be introduced, but manual labor in steep terrain will remain. Complete replacement is difficult, and demand for machine operators will increase.
+随着AI和自动化的发展，林业机械的自主操作和基于无人机的现场监测将被引入，但在陡峭地形中的体力劳动仍将存在。完全替代困难，对机器操作员的需求将增加。
 
-Start as a field worker, gain experience, then advance to forestry machinery operator or forest cooperative leader. Obtaining skill certifications enables career growth or independent contracting.
+从实地工作者开始，积累经验，然后晋升为林业机械操作员或森林合作社负责人。获得技能认证可实现职业晋升或独立承包。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Chainsaw logging assistance work
-- Manual Pruning and Thinning
-- Part of Log Collection Work
+- 链锯伐木辅助工作
+- 人工修剪与间伐
+- 日志收集工作的一部分
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Coordination of Logging Plans and Machinery Operations
-- Forest monitoring using drones
-- Monitoring and Maintenance of Autonomous Forwarders
+- 协调采伐计划与机械操作
+- 使用无人机进行森林监测
+- 自主运输车的监控与维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Present
-- Location
-- Judgment
-- No
-- and
-- Dangerous
-- 険
-- times
-- Avoid
-- Skills
-- Power
+- 目前
+- 地点
+- 判断力
+- 否
+- 和
+- 危险
+- 险
+- 次
+- 避免
+- 技能
+- 电力
 - ,
-- Urgent
+- 紧急
 - 高
-- Earth
-- Shape
-- at/in
-- of
-- Skilled
+- 地球
+- 形状
+- 在/于
+- /
+- 熟练的
 - 培训
-- Skills
-- Skill
+- 技能
+- 技能
 - 、
-- Machine
-- Machinery
-- of
-- M
+- 机械
+- 机械
+- /
+- 男
 - N
 - Te
-- Na
+- 无
 - N
 - S
-- Knowledge
-- Knowledge
+- 知识
+- 知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Forestry Machinery Operations
-- Forest Remote Sensing
-- Safety Management and First Aid
-- IT Literacy (GIS, etc.)
+- 林业机械操作
+- 森林遥感
+- 安全管理与急救
+- IT素养（GIS等）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Forestry machine operator
-- Forest Management
+- 林业机器操作员
+- 森林管理
 - 造林・保育
-- Woody Biomass
+- 木质生物质
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Forestry)) | Planned for new establishment in 2025. Requires skills test and Japanese N4 or higher. Max stay of 5 years. |
-| Subclass 技能実習3号 (Technical Intern Training (Forestry)) | Current technical intern training includes forestry occupations. Max 3 years. Can transfer to higher-level specified skilled worker. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires bachelor's degree or higher and specialized knowledge in forestry. Annual income of 3 million yen or more. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically confident and enjoy mountain work
-- People skilled in machine operation and detailed tasks
-- People interested in protecting the natural environment
+- 身体自信且喜欢山地工作的人
+- 擅长机器操作和细致任务的人员
+- 对保护自然环境感兴趣的人
 
 **谁不适合**
-- People who dislike heights or unstable slopes
-- People who prefer desk work
-- People who are uneasy about dangerous work
+- 不喜欢高处或不稳定斜坡的人
+- 偏好案头工作的人
+- 对危险工作感到不安者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of forestry workers?**
-答：Depending on length of service and qualifications, first year around ¥2.5-3.5 million. Veterans ¥4-6 million. Often daily wage, somewhat unstable.
+**问：林业工人的平均年收入是多少？**
+答：根据工龄和资质，第一年约250-350万日元。资深者400-600万日元。常为日薪制，不太稳定。
 
-**问：Can foreigners work in Japan's forestry industry?**
-答：From 2025, Specified Skilled Worker (i) (Forestry) is scheduled to be newly established. There are also acceptance records under the Technical Intern Training Program, and permanent residence is on the horizon in the future, but currently it is restrictive.
+**问：外国人能在日本林业行业工作吗？**
+答：从2025年起，计划新设特定技能工人(i)（林业）。技能实习制度下也有接收记录，未来有望获得永久居留，但目前仍有限制。
 
-**问：How to advance your career in this job?**
-答：It is important to obtain qualifications for forestry machinery such as forwarders and harvesters, and to enhance expertise as an operator. There is also a path to aiming for management positions at forest unions or companies.
+**问：如何在此职业中取得职业发展？**
+答：取得林业机械（如集材机、收割机）资格并提升操作员专业能力很重要。也有机会争取林业工会或公司的管理职位。
 
 
 ---
@@ -176,12 +169,12 @@ Start as a field worker, gain experience, then advance to forestry machinery ope
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-forestry-workers/JP)**

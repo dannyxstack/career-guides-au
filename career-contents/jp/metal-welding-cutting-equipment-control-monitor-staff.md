@@ -4,8 +4,6 @@
 
 On-site production staff controlling and monitoring automated welding/cutting equipment to ensure quality and safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ On-site production staff controlling and monitoring automated welding/cutting eq
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-With the introduction of welding robots and AI monitoring systems, simple welding line monitoring jobs are declining. However, complex workpieces and troubleshooting still require human judgment, so certain demand will remain.
-
 Start as a beginner equipment operator; career advancement to process manager or equipment maintenance specialist possible by obtaining certification for industrial robots and welding techniques.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Start as a beginner equipment operator; career advancement to process manager or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Molding, Industrial Machinery, Electrical/Electronic Information)) | Employment possible after passing exam. Residence period up to 5 years total. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires vocational school degree or higher and work experience. Long-term stay possible. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Molding)) | Requires skilled expertise. Residence period can be renewed. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: Automation and AI monitoring are progressing, but tasks requiring human judgm
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-welding-cutting-equipment-control-monitor-staff/JP)**

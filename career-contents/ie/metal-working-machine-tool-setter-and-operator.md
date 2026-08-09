@@ -53,8 +53,6 @@ Responsible for setting up and operating metalworking machines, such as lathes, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Metalworking machine tool setters and operators face high automation risk; AI and robots will replace many repetitive tasks, but complex setup and maintenance still require human intervention.
-
 Junior operators can advance to senior technicians or programmers, and further to workshop supervisors or production managers. Obtaining advanced CNC certifications can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior operators can advance to senior technicians or programmers, and further t
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Typically requires a General Employment Permit, employer must demonstrate ina
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-working-machine-tool-setter-and-operator/IE)**

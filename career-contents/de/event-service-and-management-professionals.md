@@ -51,8 +51,6 @@ Responsible for planning, organizing, and executing various events, including co
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on event planners is mixed: simple tasks like schedule coordination and email replies will be automated, but creative ideation, supplier negotiation, and on-site crisis management are enhanced by AI, raising skill requirements.
-
 Career path: Junior Event Coordinator → Event Manager → Senior Event Manager → Event Director. You can also specialize in areas like wedding planning, corporate event management, or sports event management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Junior Event Coordinator → Event Manager → Senior Event Manager
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Dual vocational training or university degree + employer sponsorship, no salary threshold. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, allowing job seekers who have not yet found a job to enter and search for work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Available via the Blue Card (requires university degree + salary threshold) o
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/event-service-and-management-professionals/DE)**

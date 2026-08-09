@@ -56,8 +56,6 @@ Restaurant managers oversee the day-to-day operations of food and beverage venue
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Australia's hospitality industry has fully recovered post-COVID and continues to expand, particularly with the growth of food delivery platform integration and demand for premium dining experiences. Restaurant managers with operational experience (rostering, inventory, POS systems, food safety) are in short supply, and employer-sponsored 482 visas are very active in this sector.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Australia's hospitality industry has fully recovered post-COVID and continues to
 | Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
 | Subclass 491 (Skilled Work Regional) | Severe shortage of food & beverage managers in regional areas — 15 bonus points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both are MLTSSL shortage occupations. The skilled migration pathway for chefs
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-cafe-manager/AU)**

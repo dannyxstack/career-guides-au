@@ -1,8 +1,8 @@
-# Architect (Architectural Designer) 职业分析 · 韩国
+# 建筑师（建筑设计）（Architect (Architectural Designer)）职业分析 · 韩国
 
-**职业代码: 14011 (KECO)**
+**职业代码：14011 (KECO)**
 
-Designs and supervises the construction of buildings, creating architectural plans that meet client needs and regulations.
+设计并监督建筑建造，创建满足客户需求和法规的建筑图纸。
 
 
 ---
@@ -11,8 +11,8 @@ Designs and supervises the construction of buildings, creating architectural pla
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Bachelor of Architecture) | 5 years (5-year accredited architecture program) | $10,000,000~$50,000,000（Tuition varies by university, public universities are cheaper） |
-| Eligibility to take the Architect Licensing Exam | Minimum 3 years of practical experience | $5,000,000~$15,000,000（Tuition and exam fees） |
+| 大学（建筑学学士） | 5年（5年认证建筑课程） | $10,000,000~$50,000,000（学费因大学而异，公立大学更便宜） |
+| 建筑师执照考试资格 | 至少3年实践经验 | $5,000,000~$15,000,000（学费和考试费） |
 
 ---
 
@@ -20,18 +20,18 @@ Designs and supervises the construction of buildings, creating architectural pla
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Architect License | Ministry of Land, Infrastructure and Transport | 必备 | Required for architectural design and supervision work |
-| Professional Engineer (Architectural Structure, Construction, etc.) | Human Resources Development Service of Korea | 可选 | Recognized as advanced technical expertise, advantageous for specialization |
-| BIM Specialist Certification | Korea BIM Society, etc. | 可选 | Demonstrates BIM design capability in line with global trends |
+| 建筑师执照 | 国土交通省 | 必备 | 建筑设计和监理工作所需 |
+| 专业工程师（建筑结构、施工等） | 韩国人力资源开发服务局 | 可选 | 被视为高级技术专长，对专业化有利 |
+| BIM专家认证 | 韩国BIM协会等 | 可选 | 展示符合全球趋势的BIM设计能力 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 28,000. Affected by construction market fluctuations, but employment is expected to remain stable due to growing demand for eco-friendly and smart buildings. However, hiring is rigid with a clear preference for experienced workers.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 28,000。受建筑市场波动影响，但由于对环保和智能建筑的需求增长，就业预计保持稳定。然而，招聘僵化，明显偏好有经验的工人。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,95 +39,88 @@ Designs and supervises the construction of buildings, creating architectural pla
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $28,000,000~$35,000,000 | Based on entry-level at architectural firms |
-| Mid-Level (4–8 years) | $40,000,000~$55,000,000 | Experienced architect, including those with license |
-| Senior Level (9+ years) | $60,000,000~$90,000,000 | Lead architect, design team lead, project manager |
+| 入门级（0–3年） | $28,000,000~$35,000,000 | 基于建筑事务所入门级 |
+| 中级别（4-8年） | $40,000,000~$55,000,000 | 经验丰富的建筑师，包括持证者 |
+| 高级（9年以上） | $60,000,000~$90,000,000 | 首席建筑师、设计团队负责人、项目经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI (generative design, BIM automation) can replace design drafts and simple repetitive tasks, but creative design, code interpretation, and client consultation still rely on human roles. AI serves as a tool to enhance architects' productivity, with collaboration expected rather than full replacement.
+AI（生成式设计、BIM自动化）可以取代设计草图和简单重复任务，但创意设计、规范解读和客户咨询仍依赖人类角色。AI是提高建筑师生产力的工具，预计是协作而非完全替代。
 
-Typically, graduates enter architectural firms or construction companies to learn design practices, then obtain an architect license and advance to lead designer or project manager roles.
+通常，毕业生进入建筑事务所或建筑公司学习设计实践，然后获得建筑师执照并晋升为首席设计师或项目经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic design drawing
-- Applying simple regulatory checklists
-- Quantitative energy simulation
+- 基本设计图纸
+- 应用简单的监管检查表
+- 定量能源模拟
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Generating and optimizing alternative designs
-- Coordinating structural and MEP collaboration
-- Creating client presentation materials
-- Eco-friendly performance analysis
+- 生成和优化替代设计
+- 协调结构与机电协作
+- 制作客户演示材料
+- 环保性能分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative design sense
-- Judgment based on codes and field experience
-- Trust relationships with clients
-- Comprehensive architectural planning
+- 创意设计感
+- 基于规范和实践经验的判断
+- 与客户建立信任关系
+- 综合建筑规划
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM (Building Information Modeling)
-- Generative Design
-- Eco-friendly architecture design
-- Parametric design
+- BIM（建筑信息模型）
+- 生成式设计
+- 生态友好型建筑设计
+- 参数化设计
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly architecture
-- BIM design
-- Smart architecture
-- Remodeling
+- 生态友好建筑
+- BIM设计
+- 智能建筑
+- 翻新
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as a professional in the architectural design field; requires meeting experience and education requirements |
-| Subclass F-2 (Residence) | Allows long-term stay; can be converted from E-7, etc.; free to work |
-| Subclass D-10 (Job Seeking) | Stay while seeking employment for degree holders; possible internships at architect offices |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person with excellent aesthetic sense for space
-- A person who meticulously follows laws and regulations and works systematically
+- 具有出色空间审美的人
+- 严格遵循法律法规并按系统工作的人
 
 **谁不适合**
 - A person who finds it difficult to adapt to repetitive design modifications and strict regulations
-- A person who cannot endure the long education and training period
+- 无法忍受长时间教育训练的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an architect?**
-答：Entry-level 28–35 million KRW, mid-level 40–55 million KRW, senior-level 60–90 million KRW; varies greatly depending on architect certification and experience.
+**问：建筑师的年薪是多少？**
+答：初级2800-3500万韩元，中级4000-5500万韩元，高级6000-9000万韩元；根据建筑师认证和经验差异较大。
 
-**问：What visa is needed for a foreigner to work as an architect in Korea?**
-答：The E-7 (Professional) visa is typical. Requires a bachelor's degree or higher in architecture and some experience (or qualifications). Overseas Koreans can work more freely with an F-4 visa.
+**问：外国人在韩国担任建筑师需要什么签证？**
+答：E-7（专业）签证为典型。需建筑学学士及以上学位及部分经验（或资格）。F-4签证下海外韩裔更自由。
 
-**问：Do I have to graduate from a 5-year architecture program to become an architect?**
-答：To obtain an architect license, an accredited 5-year architecture degree is essential, but for employment as an architectural design practitioner, a 4-year degree is possible, though it makes obtaining the license more difficult.
+**问：必须毕业于五年制建筑学课程才能成为建筑师吗？**
+答：获得建筑师执照需要经过认证的5年制建筑学学位，但作为建筑设计从业者就业可能只需4年制学位，尽管这会增加获得执照的难度。
 
 
 ---
@@ -145,12 +138,12 @@ Typically, graduates enter architectural firms or construction companies to lear
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/architect-architectural-designer/KR)**

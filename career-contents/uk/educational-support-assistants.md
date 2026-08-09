@@ -54,8 +54,6 @@ Education support assistants work with teachers to provide one-on-one support fo
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of education support assistant has mixed prospects: AI can assist in generating personalized learning materials and analyzing learning data, but core one-on-one emotional support, behavioral intervention, and trust relationships are difficult to automate.
-
 Usually start from part-time or temporary positions, gain experience and advance to senior teaching assistant or special education coordinator, some may transition to teacher training paths.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start from part-time or temporary positions, gain experience and advance
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to senior teaching assistant, special education coordinator, or b
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/educational-support-assistants/UK)**

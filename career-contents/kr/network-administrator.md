@@ -50,8 +50,6 @@ A professional who designs, builds, and operates network systems for companies o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation replace some network monitoring and fault response tasks, but advanced work like design, security, and optimization is enhanced. Network administrators can boost productivity using AI tools.
-
 Entry-level technical support → Network Engineer → Senior Engineer/Manager. Cloud/security certifications (CISSP, CCNP) advantage for promotion, with experience focused on large corporations and public institutions.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Entry-level technical support → Network Engineer → Senior Engineer/Manager. 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable for employment as IT professionals and network administrators; requires degree and experience |
-| Subclass F-2 (Residence) | Convertible after long-term stay, points-based |
-| Subclass D-10 (Job Seeking) | Job seeking after graduation for international students; can switch to E-7 when hired in network field |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: An associate's (2-year) or bachelor's degree in computer engineering-related 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/network-administrator/KR)**

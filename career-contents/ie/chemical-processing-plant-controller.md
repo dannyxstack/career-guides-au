@@ -52,8 +52,6 @@ Operates control panels of chemical processing plants, monitors and adjusts proc
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Automation will compress operational monitoring tasks, but complex process optimization and emergency decisions still require human experience; AI enhances analytical capabilities, improving efficiency, but safety responsibility cannot be delegated.
-
 Can advance from operator to master controller or team leader, then transition to process optimization or production management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from operator to master controller or team leader, then transition t
 | Subclass General Employment P (General Employment Permit) | Applies to non-occupation in demand, requires labor market testing, annual salary generally not less than 27,000 euros. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, with an annual salary reaching 1.5 times the national average (approximately €43,000). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires an advanced certificate (2 years) or a bachelor's degree (4 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-processing-plant-controller/IE)**

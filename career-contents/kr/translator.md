@@ -52,8 +52,6 @@ A professional who accurately translates foreign documents or speech into Korean
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI translators (e.g., DeepL, GPT) advance, the general translation market is shrinking, but medical, legal, and literary translation requiring high accuracy and cultural understanding remain human domains. Roles are shifting to AI post-editing and localization planning, with collaboration expected rather than full replacement.
-
 Graduate with a major in interpretation and translation from university, then join a translation agency or work as a freelancer. With experience, you can specialize in fields (literature, medicine, law, etc.) or advance to roles such as team leader at a publisher or translation company, or simultaneous interpreter.
 
 **Tasks most exposed to AI:**
@@ -95,17 +93,9 @@ Graduate with a major in interpretation and translation from university, then jo
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when employed by a Korean company as a skilled professional translator (e.g., publisher, translation agency) |
-| Subclass F-2 (F-2-99 (Residence)) | Possible for long-term stay under a points system, meeting income conditions as a translator |
-| Subclass F-5 (F-5 (Permanent Residence)) | Available after long-term residence, including for translation professionals |
-| Subclass D-10 (D-10 (Job Seeking)) | Issued after graduation for international students majoring in interpretation/translation seeking employment |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +139,12 @@ A: Simple translation will be replaced, but humans remain important for high-lev
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/translator/KR)**

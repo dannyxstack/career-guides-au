@@ -51,8 +51,6 @@ This occupation involves overall maritime transport office tasks such as managin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can assist with repetitive document processing and schedule optimization, but on-site coordination and customer response still rely heavily on humans. Automation may reduce some tasks but overall employment is not expected to decline sharply.
-
 Employment is mainly in shipping companies, vessel operators, port operators, and forwarding firms, with potential promotion to team leader, logistics manager, or department head based on experience.
 
 **Tasks most exposed to AI:**
@@ -87,16 +85,9 @@ Employment is mainly in shipping companies, vessel operators, port operators, an
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Required for specialized tasks such as shipping companies |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Not suitable for this occupation |
-| Subclass F-2 (F-2 (Residence)) | Long-term stay possible |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Certifications in trade English, logistics manager, and freight forwarder are
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-transportation-clerk/KR)**

@@ -1,10 +1,8 @@
-# Novelist 职业分析 · 韩国
+# 小说家（Novelist）职业分析 · 韩国
 
-**职业代码: 41112 (KECO)**
+**职业代码：41112 (KECO)**
 
-A novelist is an artist who creates and publishes novels based on imagination and literary quality.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+小说家是根据想象力和文学品质创作并出版小说的艺术家。
 
 
 ---
@@ -13,8 +11,8 @@ A novelist is an artist who creates and publishes novels based on imagination an
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Creative Writing | 4年 | $8,000,000~$12,000,000（National university tuition fees） |
-| Master's in Creative Writing | 2 年 | $10,000,000~$15,000,000（Tuition fees） |
+| 创意写作学士学位 | 4年 | $8,000,000~$12,000,000（国立大学学费） |
+| 创意写作硕士 | 2 年 | $10,000,000~$15,000,000（学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A novelist is an artist who creates and publishes novels based on imagination an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Publisher debut | Publisher | 必备 | Publication of work through winning a rookie contest or contract with a publisher |
-| Literary award win | Literary award committee | 可选 | Helps improve career and recognition |
+| 出版社出道 | 出版商 | 必备 | 通过赢得新人奖或与出版社签约出版作品 |
+| 文学奖获奖 | 文学奖评审委员会 | 可选 | 有助于提升职业发展和认可度 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 12,000. The growth of digital publishing and web novels has expanded creative opportunities, but the traditional publishing market is stagnant, making job prospects uncertain.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 12,000。数字出版和网络小说的发展扩大了创作机会，但传统出版市场停滞不前，就业前景不确定。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A novelist is an artist who creates and publishes novels based on imagination an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $12,000,000~$30,000,000 | Royalties and manuscript fees, irregular |
-| Mid-level (4-10 years) | $30,000,000~$60,000,000 | Bestseller authors may earn more |
-| 资深（10年以上） | $50,000,000~$99,999,999 | Steady sellers and multiple copyright income |
+| 入门级（0-3年） | $12,000,000~$30,000,000 | 版税和稿费，不固定 |
+| 中级（4-10年） | $30,000,000~$60,000,000 | 畅销书作者收入可能更高 |
+| 资深（10年以上） | $50,000,000~$99,999,999 | 稳定销售和多版权收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can assist with drafting or plot generation for novels, but genres requiring human creativity and sensitivity are hard to replace. Commercial genres like web novels may see increased AI usage.
+AI可以辅助小说的草稿撰写或情节生成，但需要人类创造力和敏感性的类型难以替代。商业类型如网络小说可能会增加AI的使用。
 
-Initially, build a career through short stories/web novels, then grow into a stable writer through literary awards or bestsellers. Afterwards, it is possible to sign a contract with a publisher or self-publish.
+初期通过短篇小说/网络小说建立职业生涯，然后通过文学奖项或畅销作品成长为稳定作家。之后，可与出版商签约或自行出版。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- cliché-based story generation
-- simple romance/fantasy web novels
-- formatted episode structures
+- 基于陈词滥调的故事生成
+- 简单浪漫/幻想网络小说
+- 格式化剧集结构
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- plot idea discovery
-- customized reader analysis
-- draft review and sentence polishing
+- 情节构思发现
+- 定制化读者分析
+- 草稿审阅和句子润色
 
-**人类护城河:**
+**人类护城河：**
 
-- unique worldviews
-- deep human understanding and emotional expression
-- literary style and wordplay
+- 独特的世界观
+- 深厚的人类理解和情感表达
+- 文学风格与文字游戏
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool proficiency
-- data-driven trend analysis
-- diversified storytelling
+- AI工具熟练度
+- 数据驱动趋势分析
+- 多元化叙事
 
-**主要增长方向:**
+**主要增长方向：**
 
-- web novels
-- digital publishing
-- literary awards
-- agencies
+- 网络小说
+- 数字出版
+- 文学奖项
+- 机构
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible when invited as a professional in culture and arts, but rare as a writer |
-| Subclass F-2 (Residence (F-2)) | Possible for long-term stay but unfavorable under the points system for novelists |
-| Subclass F-4 (Overseas Korean) | Free activities possible only for overseas Koreans |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- A person with rich imagination and creativity
-- A person who enjoys reading and writing and can write consistently
-- A person who can endure criticism and frustration
+- 富有想象力和创造力的人
+- 喜欢读写并能持续写作的人
+- 能承受批评和挫折的人
 
 **谁不适合**
-- A person seeking immediate profits
-- A person who prefers a regular work environment
+- 追求即时利润的人
+- 喜欢规律工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average income of a novelist?**
-答：Entry-level writers earn very low at 12~30 million KRW per year, bestsellers can earn over 100 million KRW annually, but the average is much lower.
+**问：小说家的平均收入是多少？**
+答：入门级作家年收入很低，约1200~3000万韩元，畅销书作家年收入可超过1亿韩元，但平均水平低得多。
 
-**问：What visa does a foreigner need to work as a novelist in Korea?**
-答：E-7 visa is possible but strict, and offers fewer benefits compared to F-4 or F-2. Usually, they stay and work under other visa purposes rather than literary activities.
+**问：外国人在韩国从事小说家工作需要什么签证？**
+答：E-7签证申请但条件严格，福利不如F-4或F-2。通常以其他签证目的居留工作，而非文学活动。
 
-**问：Is a university degree necessary to become a novelist?**
-答：It's not mandatory, but graduating in creative writing or winning a literary award helps with debut. There are also cases of success through self-study.
+**问：成为小说家必须要有大学学历吗？**
+答：非强制，但创意写作毕业或获得文学奖有助于出道。也有通过自学成功的情况。
 
 
 ---
@@ -144,12 +134,12 @@ Initially, build a career through short stories/web novels, then grow into a sta
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/novelist/KR)**

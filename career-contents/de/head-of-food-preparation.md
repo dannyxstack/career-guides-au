@@ -51,8 +51,6 @@ Responsible for supervising staff and processes in kitchen or food preparation a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Food preparation supervisors face a mixed situation of AI replacement and enhancement: standardized tasks (e.g., scheduling, inventory) can be automated, but team management, quality control, and creative menu development still rely on humans, making it a moderate-risk role with both pros and cons.
-
 Usually promoted from senior chef or kitchen manager, can develop towards area manager, catering director, or own food business. Accumulating experience after dual-system training is key.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually promoted from senior chef or kitchen manager, can develop towards area m
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires a recognized vocational qualification (e.g., cookery training certificate), sponsored by an employer. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job-seeking in Germany for one year, suitable for experienced individuals to try. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, can progress from supervisor to regional manager or food and beverage di
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-of-food-preparation/DE)**

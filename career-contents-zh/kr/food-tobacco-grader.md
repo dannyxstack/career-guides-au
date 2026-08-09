@@ -1,8 +1,8 @@
-# Food & Tobacco Grader 职业分析 · 韩国
+# 食品与烟草分级员（Food & Tobacco Grader）职业分析 · 韩国
 
-**职业代码: 87231 (KECO)**
+**职业代码：87231 (KECO)**
 
-A professional who inspects and grades the quality of food and tobacco products, determining whether raw materials and finished goods meet specifications.
+检查并评定食品和烟草产品质量的专业人员，确定原材料和成品是否符合规格。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who inspects and grades the quality of food and tobacco products,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（Compulsory education, free） |
-| Junior college (Food Processing) | 2 年 | $4,000,000~$8,000,000（Based on tuition） |
-| University (Food Science & Engineering) | 4年 | $8,000,000~$16,000,000（Based on tuition） |
+| 高中毕业 | 0年 | $0~$0（义务教育，免费） |
+| 专科（食品加工） | 2 年 | $4,000,000~$8,000,000（按学费计费） |
+| 大学（食品科学与工程） | 4年 | $8,000,000~$16,000,000（按学费计费） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who inspects and grades the quality of food and tobacco products,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Food Engineer (Food Gis) | Human Resources Development Service of Korea (HRDK) | 可选 | Essential certification in quality control |
-| Food Sanitation Specialist | National Health Personnel Licensing Examination Board (KHP) | 可选 | Advantageous for hygiene management tasks |
-| HACCP Internal Auditor | Korea Food Safety Management Certification Institute | 可选 | Preferred in the field |
+| 食品工程师（食品GIS） | 韩国人力资源开发服务局（HRDK） | 可选 | 质量控制必备认证 |
+| 食品卫生专员 | 国家医疗人员资格考试委员会（KHP） | 可选 | 对卫生管理任务有利 |
+| HACCP内部审核员 | 韩国食品安全管理认证院 | 可选 | 该领域优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 8,500. Demand remains steady due to growing social interest in food safety, but job growth is limited due to the introduction of automation equipment.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 8,500。由于社会对食品安全的关注度提高，需求保持稳定，但因自动化设备的引入，岗位增长有限。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,67 +40,60 @@ A professional who inspects and grades the quality of food and tobacco products,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $25,000,000~$30,000,000 | Based on manufacturing company |
-| Mid-level (4–9 years) | $31,000,000~$40,000,000 | Varies by career and company size |
-| Advanced (10+ years) | $42,000,000~$55,000,000 | Team Lead |
+| 初级（0-3年） | $25,000,000~$30,000,000 | 基于制造公司 |
+| 中级（4-9年） | $31,000,000~$40,000,000 | 因职业和公司规模而异 |
+| 高级（10年以上） | $42,000,000~$55,000,000 | 团队主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation are replacing some tasks such as visual inspection and size measurement, but sensory evaluations like taste, smell, and touch, as well as final judgment, still require human involvement. As a result, the scope of work is narrowing, but complete replacement is not expected.
+人工智能和自动化正在替代一些任务，如视觉检查和尺寸测量，但感官评估（如味觉、嗅觉和触觉）以及最终判断仍需要人工参与。因此，工作范围正在缩小，但预计不会完全被替代。
 
-Starting as a junior inspector, one can advance to senior grader or quality control team leader with experience; obtaining a food engineer certificate is advantageous.
+从初级检验员起步，可凭经验晋升为高级分级员或质量控制团队负责人；获得食品工程师证书有利。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Visual inspection
-- Size/weight measurement
-- Package condition check
+- 目视检查
+- 尺寸/重量测量
+- 套餐条件检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Sensory evaluation data analysis
-- Anomaly detection system monitoring
-- Quality statistics reporting
+- 感官评价数据分析
+- 异常检测系统监控
+- 质量统计报告
 
-**人类护城河:**
+**人类护城河：**
 
-- Taste and smell judgment
-- Emergency response
-- Ethical judgment
+- 味觉和嗅觉判断
+- 应急响应
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Food safety management
+- 食品安全管理
 - HACCP
-- Data analysis
-- AI Inspection Equipment Operation
+- 数据分析
+- AI检测设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Food safety
+- 食品安全
 - HACCP
-- Quality control
-- Automated inspection
+- 质量控制
+- 自动化检查
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | In manufacturing, etc., for unskilled labor, simple inspection tasks possible |
-| Subclass E-7 (Specific Activities) | Holding a food engineer license enables employment as a skilled worker |
-| Subclass F-2 (Residence) | No employment restrictions for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -108,25 +101,25 @@ Starting as a junior inspector, one can advance to senior grader or quality cont
 
 **谁适合**
 - 细心且注重细节的人
-- Person who follows rules and standards well
-- Person with patience for repetitive tasks
+- 严格遵守规则和标准的人
+- 有耐心从事重复性工作的人
 
 **谁不适合**
-- Person who dislikes simple repetitive tasks
-- Person who seeks change and variety
+- 不喜欢简单重复任务者
+- 寻求变化和多样性的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for a food, beverage, and tobacco grader?**
-答：Approximately 25~30 million KRW for 0~3 years of experience, and increases to 42~55 million KRW with over 10 years of experience.
+**问：食品、饮料和烟草分级员的平均工资是多少？**
+答：0-3年经验约2500~3000万韩元，10年以上经验增至4200~5500万韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Simple inspection work is possible with an E-9 (Non-professional Employment) visa, but the E-7 (Specific Activities) visa requires a food engineer certification.
+**问：外国人能获得此职业的工作签证吗？**
+答：简单的检查工作可持E-9（非专业就业）签证进行，但E-7（特定活动）签证需要食品工程师认证。
 
-**问：Will jobs disappear due to automation?**
-答：While some tasks like visual inspection are automated, sensory evaluation and judgment still require human intervention, making complete replacement difficult.
+**问：工作会因自动化而消失吗？**
+答：虽然目视检查等任务已实现自动化，但感官评估和判断仍需人工干预，使得完全替代较为困难。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as a junior inspector, one can advance to senior grader or quality cont
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/food-tobacco-grader/KR)**

@@ -52,8 +52,6 @@ Osteopaths diagnose and treat musculoskeletal system disorders using manual ther
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Osteopaths' core diagnostic and treatment methods rely heavily on clinical palpation and individualized judgment, making AI substitution difficult. However, documentation, image analysis, and patient education will be significantly automated. Overall risk is manageable, with both opportunities and challenges.
-
 Junior osteopaths can gain experience in clinics, gradually advance to senior practitioner or clinic partner. They may also specialize in sports medicine, rehabilitation medicine, or pursue teaching and research. Self-employed practice is a common career path.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior osteopaths can gain experience in clinics, gradually advance to senior pr
 | Subclass SMC (Skilled Migrant Category) | Through the 6-point system, meeting requirements for education, work experience, and salary, can apply for residence. |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa with residence possible after 2 years (if meeting Green List Tier 2 or SMC requirements) |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, all osteopaths must register with the Osteopathic Council of New Zealand
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/osteopath/NZ)**

@@ -51,8 +51,6 @@ Treats wood with chemical preservatives, flame retardants, etc., to extend servi
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Wood treatment workers face automation compression, as automated treatment systems, robotic spraying, and intelligent monitoring can replace most chemical treatment, monitoring, and recording work.
-
 Can progress from junior operator to senior processing technician or supervisor, or move into quality control or technical sales roles.
 
 **Tasks most exposed to AI:**
@@ -96,15 +94,9 @@ Can progress from junior operator to senior processing technician or supervisor,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applies to non-EU workers, requires employer sponsorship, with annual quota limits. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, requiring annual salary of at least 1.5 times the EU average; this occupation typically does not meet this requirement. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Requires wood processing vocational qualification from the regional vocationa
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-treater/IT)**

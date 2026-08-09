@@ -51,8 +51,6 @@ A junior quality assurance officer in Canada corresponds to a food and beverage 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of food and beverage processing quality control technicians is mixed: routine tasks like visual inspection and data recording face AI replacement risk, but human expertise in sensory evaluation, compliance judgment, and attribution of responsibility remains secure.
-
 From junior quality inspector, can advance to quality control supervisor, quality assurance manager, or food safety specialist. Industry certifications (e.g., HACCP) and additional training facilitate promotion to mid-level and senior management positions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From junior quality inspector, can advance to quality control supervisor, qualit
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario) have provincial nomination streams for food processing occupations, requiring a job offer or in-province work experience. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot Program, applicable to food processing companies in maritime provinces, requires employer sponsorship. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but Educational Credential Assessment (ECA) is required for im
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/quality-control-technologists-in-food-and-beverage-processing/CA)**

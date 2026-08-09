@@ -51,8 +51,6 @@ Responsible for monitoring and operating refinery equipment, ensuring safe and e
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Positions like oil pump system operators face serious automation threats; AI and IoT can take over monitoring, reporting, and scheduling tasks. Entry-level positions shrink significantly, but on-site emergency response and compliance supervision still require humans.
-
 Can progress from operator to senior operator, team leader, or move to process engineering, safety supervision. Requires experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from operator to senior operator, team leader, or move to process e
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: This occupation is not on the critical skills occupation list; a General Empl
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petroleum-and-natural-gas-refining-plant-operator/IE)**

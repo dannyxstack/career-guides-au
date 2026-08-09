@@ -54,8 +54,6 @@ Scaffolders erect and dismantle temporary scaffold structures for construction, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Although scaffolding requires physical labor and on-site work, AI-driven design optimization, safety monitoring, and material management will significantly improve efficiency and safety, overall risk is manageable, the job evolves rather than disappears.
-
 Career progression paths include: from assistant to skilled scaffolder, then to foreman (Vorarbeiter) or site supervisor (Baustellenleiter). Further education can lead to structural technician or safety specialist roles, or self-employment.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression paths include: from assistant to skilled scaffolder, then to 
 | Subclass Chancenkarte (Opportunity Card) | A points-based job seeker visa allowing one year to find work in Germany. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows stay in Germany for up to 6 months to find suitable employment; must demonstrate financial means |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: After gaining proficiency, you can pursue further education to become a forem
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/scaffolder/DE)**

@@ -51,8 +51,6 @@ Responsible for business processes in publishing and media industries, including
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Publishing and media business specialists face mixed impacts from AI: many repetitive business processes will be automated, but core value in creative strategy and client relations will be amplified.
-
 Career progression: starting as a junior business officer, can advance to department head or project manager; through further education (e.g., Bachelor in Media Management), can enter management roles such as publishing director or media sales vice president.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression: starting as a junior business officer, can advance to depart
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires professional recognition (Anerkennung) or dual training certificate, applicable for non-academic positions |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allows job seekers to come to Germany to find a job, suitable for those with relevant qualifications or experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Access via EU Blue Card (requires university degree) or skilled migration vis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/publishing-and-media-management-clerk/DE)**

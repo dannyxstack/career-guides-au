@@ -51,8 +51,6 @@ Responsible for supervising and managing floor installation projects, including 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Floor covering supervisors face mixed impacts: AI can optimize material placement, scheduling, and quality inspection, but core on-site manual installation, quality feel judgment, and team management still require human input, and are unlikely to be fully replaced in the short term.
-
 Can progress from skilled paver to supervisor, then to project manager or self-employed business owner; ongoing training can enhance management skills.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from skilled paver to supervisor, then to project manager or self-e
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable for professional qualification recognition, requires Anerkennung qualification recognition |
 | Subclass Chancenkarte (Chancenkarte) | Opportunity Card, based on a points system, allows job-seeking in Germany; requires relevant qualifications |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Must complete a German-recognized qualification (Anerkennung), can enter via 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flooring-supervisor/DE)**

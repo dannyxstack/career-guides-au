@@ -53,8 +53,6 @@ Provide dietary and nutritional advice to individuals or groups, develop persona
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Can progress from junior nutrition consultant to senior dietitian or nutrition department head, or transition to clinical nutrition research, public health nutrition, or health management training.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can progress from junior nutrition consultant to senior dietitian or nutrition d
 | Subclass Skilled Worker (Skilled Immigration Act) | Suitable for skilled professionals, requires qualification assessment and a job offer, with faster processing. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa allowing entry to Germany to find work, suitable for applicants with qualifications and language skills. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to senior dietitian, nutrition department head, or specialize in 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nutritional-consultant/DE)**

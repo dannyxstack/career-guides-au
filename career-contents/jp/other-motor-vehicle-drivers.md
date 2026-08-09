@@ -4,8 +4,6 @@
 
 Occupations driving vehicles other than passenger cars, such as taxis, hired cars, dump trucks, and trailers. Workers supporting logistics and passenger transport on the front lines.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Occupations driving vehicles other than passenger cars, such as taxis, hired car
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The progress of autonomous driving technology may lead to substitution of driving on long-distance highways, but human judgment is indispensable for last-mile delivery, complex urban delivery, and emergency response. In the near term, complete substitution is difficult, but it will change depending on the practical application of Level 4 autonomous driving.
-
 Most gain experience on the job after hiring, acquire large or trailer licenses, and may advance to management or self-employment. Female drivers are increasingly active in recent years.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Most gain experience on the job after hiring, acquire large or trailer licenses,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Automotive Transportation)) | New fields to be added from 2024. A residence status for foreign workers in driving jobs. Requires skills test and Japanese proficiency. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possible for specialized roles (e.g., logistics management). Purely driving duties are generally not approved. |
-| Subclass 技能 (Skilled Labor) | Requires proven skills (e.g., large truck driving) and practical experience. However, scope is limited. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: There are methods such as contracting with a transportation company as an ind
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-motor-vehicle-drivers/JP)**

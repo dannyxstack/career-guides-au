@@ -53,8 +53,6 @@ Perform physical gardening tasks such as planting, pruning, watering, and fertil
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The manual labor of horticultural workers is not easily fully replaced by AI, but AI will significantly enhance work efficiency in monitoring, planning, and management tasks; entry-level positions are moderately narrowing due to the spread of automation tools.
-
 Can be promoted to horticulture supervisor or horticulturist, requires experience and additional certifications; a few start their own horticulture service companies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can be promoted to horticulture supervisor or horticulturist, requires experienc
 | Subclass General Employment P (General Employment Permit) | For non-occupations in demand, requires employer sponsorship, annual salary must be above €30,000 (2024 standard) |
 | Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely without a visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance to horticulture supervisor, horticulturist, or start own business
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/garden-and-horticultural-labourer/IE)**

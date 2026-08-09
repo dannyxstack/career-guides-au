@@ -51,8 +51,6 @@ Responsible for overseeing food and beverage production processes, ensuring qual
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Production managers' core duties (interpersonal coordination, decision accountability) are hard to automate, but AI greatly optimizes data-intensive tasks like scheduling and quality inspection, reducing entry-level scheduling/statistics roles; overall mixed outlook.
-
 Can advance from production team leader to production supervisor, then to production manager or factory manager, and some may move into quality management or supply chain management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from production team leader to production supervisor, then to produc
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires a recognized vocational qualification or degree in Germany, employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing you to come to Germany for job seeking, suitable for those with relevant experience. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: May be eligible via EU Blue Card (bachelor's degree + annual salary threshold
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-supervisor-food-and-beverage/DE)**

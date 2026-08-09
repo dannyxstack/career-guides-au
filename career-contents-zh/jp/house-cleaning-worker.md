@@ -1,8 +1,8 @@
-# House cleaning worker 职业分析 · 日本
+# 房屋清洁工（House cleaning worker）职业分析 · 日本
 
-**职业代码: 712 (JSCO)**
+**职业代码：712 (JSCO)**
 
-A professional who cleans and organizes homes and offices to maintain a hygienic environment. Demand is stable.
+清洁和整理家庭及办公室以维持卫生环境的专业人员。需求稳定。
 
 
 ---
@@ -12,7 +12,7 @@ A professional who cleans and organizes homes and offices to maintain a hygienic
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育后免费） |
-| Vocational school (House Cleaning Department) | 1-2年 | $500,000~$1,500,000（Including tuition and materials） |
+| 职业学校（家政清洁专业） | 1-2年 | $500,000~$1,500,000（包括学费和材料费） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who cleans and organizes homes and offices to maintain a hygienic
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| House Cleaning Skilled Worker | Japan House Cleaning Association | 可选 | Voluntary private certification |
-| Building Cleaning Worker | Ministry of Health, Labour and Welfare | 可选 | Not a national qualification but public certification |
+| 家庭清洁技术工人 | 日本家政清洁协会 | 可选 | 自愿性私人认证 |
+| 建筑清洁工 | 厚生劳动省 | 可选 | 非国家资格但为公共认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 450,000. Due to aging population and increase in dual-income households, demand for professional cleaning services is steady. Labor shortage is chronic in this field.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 450,000。由于人口老龄化和双职工家庭增加，专业清洁服务的需求稳定。该领域劳动力短缺长期存在。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -38,90 +38,83 @@ A professional who cleans and organizes homes and offices to maintain a hygienic
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $2,500,000~$3,500,000 | Includes part-time and contract work |
-| Intermediate level (3-7 years) | $3,500,000~$4,500,000 | Full-time employee, chief class |
-| Advanced level (7+ years) | $4,500,000~$6,000,000 | Managerial position, self-employment |
+| 初级(0-3年) | $2,500,000~$3,500,000 | 包括兼职和合同工 |
+| 中级（3-7年） | $3,500,000~$4,500,000 | 全职员工，主管级别 |
+| 高级水平（7年以上） | $4,500,000~$6,000,000 | 管理职位，自雇 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-House cleaning is hard to fully replace with AI and robots, as they play a supporting role but humans handle detailed work and customer service.
+家庭清洁难以完全被AI和机器人替代，它们起辅助作用，而人类负责细节工作和客户服务。
 
-Starting from scratch, you can advance to chief or manager by honing skills. Self-employment is also an option.
+从零开始，通过磨练技能可以晋升为总监或经理，也可以选择自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- routine floor cleaning
-- large-scale waste collection
+- 常规地板清洁
+- 大规模垃圾收集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- cleaning plan optimization
-- customer data analysis
+- 清洁计划优化
+- 客户数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- attention to detail
-- adaptability
-- customer trust
+- 注重细节
+- 适应性
+- 客户信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- advanced cleaning techniques
-- management skills
-- customer service skills
+- 高级清洁技术
+- 管理技能
+- 客户服务技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aging population
-- dual-income households
-- hygiene awareness
-- outsourcing
+- 人口老龄化
+- 双职工家庭
+- 卫生意识
+- 外包
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | Stay up to 5 years in labor-shortage fields. Requires passing exam. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Building Cleaning)) | Residence status for skilled workers. No restrictions on family accompaniment or renewal. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | 3-year skill acquisition program. No job changes allowed. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Physically confident
-- Methodical and enjoys detailed work
-- Wants to learn cleaning techniques
+- 身体自信
+- 有条理且喜欢细节工作
+- 想学习清洁技术
 
 **谁不适合**
-- Dislikes physical labor
-- Easily bored with monotonous work
+- 不喜欢体力劳动
+- 容易对单调工作感到厌倦
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for house cleaning jobs?**
-答：Entry-level: 2.5–3.5 million yen, mid-level: 3.5–4.5 million yen, advanced: 4.5–6 million yen. Self-employed can earn more.
+**问：房屋清洁工作的平均年收入是多少？**
+答：入门级：250-350万日元，中级：350-450万日元，高级：450-600万日元。自由职业者可赚取更多。
 
-**问：Can foreigners work in house cleaning jobs?**
-答：Yes. It is a target field for Specified Skilled Worker (i) and (ii). Requires JLPT N4 level and passing a skills test. Also available via Technical Intern Training.
+**问：外国人可以做家庭清洁工作吗？**
+答：是的。它是特定技能（i）和（ii）的目标领域。需要JLPT N4水平并通过技能测试。也可通过技能实习获得。
 
-**问：How to advance your career?**
-答：Get certified, gain experience, and become a chief or manager. Alternatively, start your own business and take orders directly.
+**问：如何晋升你的职业？**
+答：获得认证，积累经验，成为厨师长或经理。或自主创业，直接接订单。
 
 
 ---
@@ -139,12 +132,12 @@ Starting from scratch, you can advance to chief or manager by honing skills. Sel
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/house-cleaning-worker/JP)**

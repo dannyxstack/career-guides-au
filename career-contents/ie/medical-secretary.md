@@ -51,8 +51,6 @@ Medical secretaries handle administrative and clerical tasks in healthcare setti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will enhance rather than replace medical secretaries' core administrative skills, as their work involves extensive structured data management and interpersonal communication, though entry-level roles may slightly shrink due to automation tool adoption.
-
 Usually starts as a junior medical secretary, with experience can advance to senior medical secretary or medical office manager. Can also transition to specialized fields like medical coding, medical records management, or medical administration.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually starts as a junior medical secretary, with experience can advance to sen
 
 **PR friendliness: medium-low (★★☆☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Typically requires completion of a 1-year medical secretary certificate or a 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-secretary/IE)**

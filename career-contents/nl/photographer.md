@@ -4,8 +4,6 @@
 
 Photographers use cameras and lighting equipment to capture people, events, or scenes, serving commercial, news, artistic, and other fields. In the Netherlands, photographers are often freelancers, needing both technical skills and client communication.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Photographers use cameras and lighting equipment to capture people, events, or s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI tools (e.g., automatic photo editing, composition suggestions) can replace some basic shooting and post-processing work, but high-end creativity and emotional capture still rely on humans. Competition for entry-level positions intensifies, but professional fields (art, journalism) are less affected.
-
 Junior photographers often start as assistants, gain experience, and can move into specialized fields (e.g., fashion, product, news photography); senior ones may start their own studios or switch to art photography.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Junior photographers often start as assistants, gain experience, and can move in
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to photographers employed by recognized sponsors; must meet the salary threshold (approx. €5,688/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring higher education degree and a high-salary contract (annual salary about €58,000 or more). Photography careers usually do not meet this. |
-| Subclass Orientation Year (Or (Orientation Year) | For international students who graduated in the Netherlands, they can freely seek employment within one year after graduation, including photography. |
-| Subclass Self-Employed (ZZP) (Self-Employed Residence Permit) | Freelance photographers can apply, subject to assessment by the Netherlands Enterprise Agency (RVO) to demonstrate contribution to the Dutch economy. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: No official license required, but freelancers must register with the Chamber 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/NL)**

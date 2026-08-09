@@ -52,8 +52,6 @@ Law professors teach law courses at higher education institutions, typically com
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly change law professors' work, both replacing some tasks (e.g., basic legal research, draft review) and enhancing higher-level abilities (e.g., case analysis, simulation training), but core critical thinking, ethical judgment, and personalized guidance remain human strengths.
-
 Usually starts as an assistant professor, progressing to associate professor and full professor; can also transition to law school administrative roles or legal practice.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts as an assistant professor, progressing to associate professor and
 | Subclass O-1 (O-1 Extraordinary Ability Visa) | Suitable for law professors with outstanding academic achievements, no quota limit. |
 | Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Based on PERM labor certification or NIW national interest waiver, can apply for a green card. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a JD degree, some require LLM or PhD. During internship, t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/law-teachers-postsecondary/US)**

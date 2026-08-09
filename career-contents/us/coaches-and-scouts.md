@@ -54,8 +54,6 @@ Instruct individuals or groups in fundamentals of sports, with competitive aims,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-The work of coaches and scouts is being profoundly reshaped by AI/automation: data analysis, video editing, and other tasks are taken over, but core skills such as athlete psychological guidance and tactical intuition still rely on humans, presenting a mixed outlook.
-
 Can start as an assistant coach or scout, then progress to head coach, sports director, or professional team management. Some transition to sports marketing, athletic training, or sports management.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can start as an assistant coach or scout, then progress to head coach, sports di
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree (sports management or related field) a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coaches-and-scouts/US)**

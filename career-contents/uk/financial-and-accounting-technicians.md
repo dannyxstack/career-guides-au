@@ -53,8 +53,6 @@ Finance and accounting technicians work with accountants and other financial pro
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Accounting technicians face high automation risk; AI will take over many core tasks such as bookkeeping, report generation, and tax calculation. Entry-level jobs will become more competitive, but high-end analysis and consulting roles still have human space.
-
 Can progress to become a certified accountant by gaining experience and obtaining ACCA/ACA professional qualifications, or transition to roles such as financial analyst or auditor; also possible to enter management accounting or financial system implementation.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress to become a certified accountant by gaining experience and obtainin
 | Subclass Graduate (Graduate visa) | Suitable for recent graduates to work in the UK for 2 years (3 years for PhDs), then can switch to Skilled Worker visa |
 | Subclass Scale-up (Scale-up visa) | Can apply if employed by a fast-growing company and meeting salary threshold (usually £36,000) |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Not legally mandated, but most employers will prioritize or require candidate
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-accounting-technicians/UK)**

@@ -51,8 +51,6 @@ Responsible for managing the daily operations of bank branches, financial instit
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Candidates can be promoted from account manager or deputy branch manager to regional manager or head office department head. Requires accumulated management experience and financial certifications (such as EFPA, CFA).
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Candidates can be promoted from account manager or deputy branch manager to regi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for executives or professionals, requiring a university degree + employment contract, with a salary meeting the threshold (about €40,000/year). |
-| Subclass Cuenta ajena (Work Permit (employed)) | Employer-sponsored work residency requires proof that the position cannot be filled locally and is suitable for management positions. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | For high-skilled talent, fast processing, requires university degree + contract, annual salary above EUR 35,000. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can be promoted to Regional Manager, Product Director, or Head of Head of
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/branch-managers-of-banks-financial-services-and-insurance/ES)**

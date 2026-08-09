@@ -52,8 +52,6 @@ Hostel Parents in New Zealand oversee the welfare, safety, and daily behavior of
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core of a dormitory manager's role—human care, supervision, and safety responsibilities—is difficult to fully automate, but administrative, record-keeping, and basic communication tasks can be significantly enhanced by AI, evolving the role into a tech-assisted community manager.
-
 Career progression includes advancing from junior dormitory supervisor to senior dormitory supervisor, dormitory manager, or transitioning to student support services, education management, etc. With experience, there are opportunities to take on management responsibilities for larger dormitories or boarding facilities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes advancing from junior dormitory supervisor to senior
 | Subclass SMC (Skilled Migrant Category) | With work experience and a salary at the median (approx. NZD 60,000/year), you can accumulate 6 points to apply for residency, but this is a non-priority occupation. |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Currently not on the Green List, but may be included if adjustments are made in the future |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold New Zealand police check and children's worker safety check. First 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hostel-parent/NZ)**

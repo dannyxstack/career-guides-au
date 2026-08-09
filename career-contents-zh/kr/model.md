@@ -1,10 +1,8 @@
-# Model 职业分析 · 韩国
+# 模特（Model）职业分析 · 韩国
 
-**职业代码: 41622 (KECO)**
+**职业代码：41622 (KECO)**
 
-A professional who wears and showcases clothing or products in fashion, advertising, pictorials, etc., completing the work based on appearance and expressiveness.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在时尚、广告、画册等场合穿着并展示服装或产品的专业人士，依靠外貌和表现力完成工作。
 
 
 ---
@@ -13,7 +11,7 @@ A professional who wears and showcases clothing or products in fashion, advertis
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（无需正式学历） |
+| 高中毕业 | 3年 | $0~$0（无需正式学历） |
 
 ---
 
@@ -21,16 +19,16 @@ A professional who wears and showcases clothing or products in fashion, advertis
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Registration with Korea Model Association | Korea Model Association | 可选 | Required for agency registration |
+| 在韩国模特协会注册 | 韩国模特协会 | 可选 | 机构注册必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. Demand remains due to increased online shopping malls and SNS ads, but competition is fierce with the emergence of AI virtual models, and job stability is low.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。电商平台和社交媒体广告增多导致需求持续，但AI虚拟模特的出现使竞争激烈，工作稳定性低。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,92 +36,86 @@ A professional who wears and showcases clothing or products in fashion, advertis
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0~3 years) | $15,000,000~$30,000,000 | Freelancer, unstable income |
-| Intermediate (3~7 years) | $30,000,000~$70,000,000 | Stable activity |
-| 高级（7年以上） | $70,000,000~$99,999,999 | Top model, mainly CFs |
+| 初级（0~3年） | $15,000,000~$30,000,000 | 自由职业者，收入不稳定 |
+| 中级（3-7年） | $30,000,000~$70,000,000 | 稳定活动 |
+| 高级（7年以上） | $70,000,000~$99,999,999 | 顶级模特，主要是商业广告 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-AI virtual models and deepfake technology are likely to reduce simple pose photography work. However, premium areas such as high-end pictorials or fashion shows that require emotional expression are expected to remain, as AI cannot fully replace them.
+AI虚拟模特和深度伪造技术可能会减少简单的姿势摄影工作。然而，高端画报或时装秀等需要情感表达的高端领域预计仍将存在，因为AI无法完全替代。
 
-Many are freelancers and portfolios are important. After joining an agency, engage in advertisements, fashion shows, pictorials; with experience, can advance overseas or transition to broadcasting/acting.
+很多是自由职业者，作品集很重要。加入经纪公司后，从事广告、时装秀、画册工作；有经验后可向海外发展或转型至广播电视/表演。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Product Photo Shooting
-- Catalog Simple Poses
-- Virtual Fitting Model
+- 产品拍照
+- 简单姿势编录
+- 虚拟试衣模特
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI Correction and Editing
-- Virtual Simulation Photography
-- Target Marketing via SNS Analysis
+- AI 校正与编辑
+- 虚拟仿真摄影
+- 通过SNS分析进行目标营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional Delivery Ability
-- Spontaneous Expression
-- Uniquely Human Charm
+- 情感传递能力
+- 自发表达
+- 独特的人类魅力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- SNS Marketing
-- Video Production
-- Personal Branding
-- Acting Skills
+- SNS营销
+- 视频制作
+- 个人品牌
+- 表演技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- SNS Model
-- Fashion Show Model
-- Advertising Model
-- Digital Model
+- SNS模特
+- 时装秀模特
+- 广告模特
+- 数字模型
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Applicable when hiring foreign models, requires employer invitation |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People confident in their appearance and expressiveness
-- Person comfortable in front of the camera
-- Person who is meticulous about body shape management
+- 对自己的外貌和表现力有信心的人
+- 乐于面对镜头的人
+- 对身体形态管理一丝不苟的人
 
 **谁不适合**
-- Prefer permanent job stability
-- People sensitive to criticism about appearance
+- 偏好长期稳定工作
+- 对关于外表批评敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary for models?**
-答：Beginners earn around 15-30 million KRW, while top models can make over 100 million. Income varies widely due to many freelancers.
+**问：模特的平均薪资是多少？**
+答：初学者收入约1500-3000万韩元，顶级模特可超过1亿韩元。由于许多自由职业者，收入差异很大。
 
-**问：What visa is needed for a foreigner to work as a model in Korea?**
-答：Mostly require an E-7 (Specific Activities) visa, which must be sponsored by the employer agency or company.
+**问：外国人在韩国做模特工作需要什么签证？**
+答：通常需要E-7（特定活动）签证，必须由雇主机构或公司担保。
 
-**问：Can I switch from modeling to another occupation?**
-答：Yes, it's common to transition to broadcasting, acting, or entertainment, where experience and recognition are important.
+**问：我能从建模转向其他职业吗？**
+答：是的，常见转向广播、表演或娱乐行业，经验和知名度很重要。
 
 
 ---
@@ -141,12 +133,12 @@ Many are freelancers and portfolios are important. After joining an agency, enga
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/model/KR)**

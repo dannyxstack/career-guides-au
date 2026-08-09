@@ -53,8 +53,6 @@ Responsible for planning, organizing, and managing mineral or quarry mining proj
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation will have mixed impacts on mining and geological engineers: data analysis and monitoring tasks are replaced, but on-site decision-making, safety management, and compliance responsibilities increase, jobs won't disappear but require continuous learning.
-
 Promoted from field engineer to project manager, operations director, then regional director, or company executive. Technical and management experience must be accumulated.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Promoted from field engineer to project manager, operations director, then regio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled professionals, including engineers, valid for 4 years, renewable |
-| Subclass Carte bleue européen (EU Blue Card) | For high-paying technical talent, the salary must reach 1.5 times the French average annual salary, about 57,000 euros per year |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, valid for 1-4 years, depending on the contract |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Promoted from site engineer to project manager, operations director, and then
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-quarrying-operations-director-and-engineer/FR)**

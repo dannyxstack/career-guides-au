@@ -4,8 +4,6 @@
 
 A professional who researches and develops food processing, preservation, quality control, and new product development, serving as core technical personnel in the food industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who researches and develops food processing, preservation, qualit
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI enhances humans in food engineering research for new product development, quality prediction, and process optimization. It excels at vast data analysis and pattern recognition, boosting research efficiency. However, creative combinations and sensory evaluation remain human domains.
-
 A master's degree or higher and research experience are advantageous, with career paths in corporate labs, government research institutes, and university labs. Advancement to lab director, senior researcher, etc.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ A master's degree or higher and research experience are advantageous, with caree
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable when employed as food R&D professional. Requires bachelor's degree or higher. |
-| Subclass D-10 (Job Seeking) | Stay for job search. E-7 conversion possible. |
-| Subclass F-2 (Residence) | Points-based system conversion possible. Advantageous for long-term stay. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A bachelor's degree in food engineering is minimum; a master's or higher is a
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-engineer-and-researcher/KR)**

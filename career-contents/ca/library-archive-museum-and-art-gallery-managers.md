@@ -51,8 +51,6 @@ Responsible for planning, organizing, directing, and controlling the operations 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI brings significant efficiency gains in information retrieval and content management, but managers are hard to replace in core duties like strategic decision-making, community relations, and ethical review — a 'mixed blessing' overall.
-
 Usually promoted from librarian, archivist, or curator; with management experience can advance to senior management roles or head of large institutions.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually promoted from librarian, archivist, or curator; with management experien
 | Subclass PNP (Provincial Nominee Program) | Some provinces have nomination opportunities for cultural management positions |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, requires demonstrating inability to find local workers |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a master's degree in library science or museum studies; so
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/library-archive-museum-and-art-gallery-managers/CA)**

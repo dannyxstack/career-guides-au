@@ -53,8 +53,6 @@ Perform routine administrative duties such as drafting correspondence, schedulin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Secretary and administrative assistant roles face a high risk of automation; AI and software will replace many routine administrative tasks, leading to expected job reductions, though some tasks requiring interpersonal judgment will remain.
-
 Usually start as a junior administrative assistant, progress to senior administrative assistant, office supervisor, or administrative manager with experience. Some transition to human resources, finance, or project management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as a junior administrative assistant, progress to senior administr
 | Subclass H-1B (H-1B Specialty Occupation) | Typically does not meet professional occupation requirements, rarely used for this role. |
 | Subclass EB-3 (EB-3 Skilled Worker) | May be applicable for skilled workers, but employer sponsorship is difficult; must prove no suitable US workers. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Very difficult. This position typically does not meet H-1B specialty occupati
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretaries-and-administrative-assistants-except-legal-medical-and-executive/US)**

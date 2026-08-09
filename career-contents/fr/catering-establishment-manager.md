@@ -53,8 +53,6 @@ Responsible for the overall management of collective catering institutions (such
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Restaurant managers have composite duties; AI can automate scheduling, inventory, and report generation, but interpersonal coordination, crisis handling, and deep interaction with customers still require humans. Entry-level positions may be reduced due to the prevalence of AI tools, but requirements for comprehensive management skills increase.
-
 Initially, you can serve as a food and beverage supervisor or assistant manager, and after gaining experience, you can be promoted to regional manager or operations director. You can also turn to consulting, supply chain management, or starting a restaurant business.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Initially, you can serve as a food and beverage supervisor or assistant manager,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled managers, requiring a contract annual salary of ≥53,000 euros or eligible for a shortage occupation |
-| Subclass Salarié (Employee Work Permit) | For regular work residence, the employer must provide a CDI/CDD contract and a labor permit |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to high-skilled positions with an annual salary of ≥ 53,000 euros, allowing free mobility |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Digital transformation (smart food ordering) and sustainable development tren
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/catering-establishment-manager/FR)**

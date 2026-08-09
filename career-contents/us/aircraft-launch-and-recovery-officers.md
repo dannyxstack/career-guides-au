@@ -54,8 +54,6 @@ Responsible for planning and managing catapults, arresting gear, and related mec
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Aircraft maintenance engineers will experience a mixed transformation: automated inspection tools and AI diagnostic systems take over some repetitive checks, but high-value maintenance decisions, complex troubleshooting, and airworthiness responsibilities still rely on human experience; job demand remains stable but entry barriers rise.
-
 Career progression typically starts from junior officer (Second Lieutenant) advancing to Lieutenant, Captain, Major, etc., serving as department head or squadron commander. Some officers transfer to Naval Air Systems Command or private defense contractors for technical management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression typically starts from junior officer (Second Lieutenant) adva
 | Subclass H-1B (H-1B Specialty Occupation) | Theoretically applicable, but the position is mainly for US citizens; very few foreign nationals hold this role |
 | Subclass EB-2 (Employment-Based Second Preference) | Requires proof of advanced degree or exceptional ability, but defense-related positions have strict restrictions on foreign nationals. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires a bachelor's degree, preferably in engineering, physics, o
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-launch-and-recovery-officers/US)**

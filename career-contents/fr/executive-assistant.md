@@ -52,8 +52,6 @@ The administrative assistant assists senior management with daily administrative
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will significantly reduce executive secretary and administrative assistant roles, with many routine tasks automated, but senior support and decision-making assistant roles will still retain opportunities.
-
 Career development path: Promotion from junior administrative assistant to senior administrative assistant or executive assistant, with possible shifts to office management, human resources, or project management. Some become administrative managers through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development path: Promotion from junior administrative assistant to senio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, suitable for applicants who already have a job offer. |
-| Subclass Passeport Talent (Talent Passport) | Talent Passport, suitable for high-skilled or high-income positions; administrative assistants who meet the salary requirements can also apply. |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires a higher education and above-average salary. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Fluent in French and English, proficient in office software, organizational a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/executive-assistant/FR)**

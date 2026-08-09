@@ -53,8 +53,6 @@ Assisting electricians with simple tasks like moving materials and cleaning work
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electrician assistant as entry-level role with highly repetitive tasks, easily reduced by AI and automation tools (e.g., smart scheduling, remote assistance), leading to fewer positions, but demand for senior electricians remains stable.
-
 Usually promoted to electrician apprentice, then obtain license to become a licensed electrician, or further advance to electrical supervisor, project manager.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually promoted to electrician apprentice, then obtain license to become a lice
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Very difficult. This occupation is considered low-skilled and typically does 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helperselectricians/US)**

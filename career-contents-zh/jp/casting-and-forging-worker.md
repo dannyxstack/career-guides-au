@@ -1,8 +1,8 @@
-# Casting and forging worker 职业分析 · 日本
+# 铸造与锻造工人（Casting and forging worker）职业分析 · 日本
 
-**职业代码: 522 (JSCO)**
+**职业代码：522 (JSCO)**
 
-A production process specialist who melts, casts, and forges metals to manufacture machine parts and molds. Requires high technical skill and expertise.
+生产过程专员，负责熔化、铸造和锻造金属以制造机器零件和模具。需要高技术水平与专业知识。
 
 
 ---
@@ -11,8 +11,8 @@ A production process specialist who melts, casts, and forges metals to manufactu
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school (general or industrial course) | 3年 | $0~$150,000（Public high school tuition is free） |
-| Vocational training school (casting/forging) | 1~2年 | $100,000~$500,000（Hello Training offers benefits） |
+| 高中（普通或工业课程） | 3年 | $0~$150,000（公立高中学费免费） |
+| 职业培训学校（铸造/锻造） | 1~2年 | $100,000~$500,000（Hello Training提供福利） |
 
 ---
 
@@ -20,18 +20,18 @@ A production process specialist who melts, casts, and forges metals to manufactu
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Casting Skill Certification | Central Vocational Ability Development Association | 必备 | Levels 1, 2, 3; requires work experience |
-| Forging Skill Certification | Central Vocational Ability Development Association | 必备 | Levels 1, 2, 3; requires work experience |
-| Metal Heat Treatment Skill Certification | Central Vocational Ability Development Association | 可选 | Advantageous as a related qualification |
+| 铸造技能认证 | 中央职业能力开发协会 | 必备 | 第1、2、3级；需要工作经验 |
+| 锻造技能认证 | 中央职业能力开发协会 | 必备 | 第1、2、3级；需要工作经验 |
+| 金属热处理技能认证 | 中央职业能力开发协会 | 可选 | 作为相关资质的优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 65,000. Domestic production is declining due to reduced demand from the automotive industry. However, a severe shortage of successors due to aging skilled workers makes this a target field for Specified Skilled Worker visas.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 65,000。由于汽车行业需求减少，国内产量下降。然而，熟练工人老龄化导致接班人严重短缺，使其成为特定技能签证的目标领域。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +39,86 @@ A production process specialist who melts, casts, and forges metals to manufactu
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$4,000,000 | Slightly lower during apprenticeship |
-| Mid-level (4–10 years) | $4,200,000~$5,500,000 | Increases with skill certification |
-| Expert (11+ years) | $5,500,000~$7,000,000 | High income as manager or specialist |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 学徒期间略低 |
+| 中级（4-10年） | $4,200,000~$5,500,000 | 随技能认证增加 |
+| 专家（11年以上） | $5,500,000~$7,000,000 | 经理或专家高收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Automation by AI and robots is progressing in some processes (melting, transport, simple pressing), but skilled techniques such as complex casting design, forging die design, and quality judgment are difficult to replace with AI for the time being. Since labor shortages continue, honing technical skills ensures stable demand.
+AI和机器人自动化正在某些工序（熔炼、运输、简单冲压）中推进，但复杂铸造设计、锻造模具设计、质量判断等熟练技术短期内难以被AI替代。由于劳动力持续短缺，磨炼技术技能可确保稳定需求。
 
-Start as an apprentice and advance to mid-level and skilled worker by obtaining skill certifications. Mastering casting and forging techniques can lead to roles like site leader or quality control manager.
+从学徒开始，通过取得技能认证晋升至中级和技术工人。掌握铸造和锻造成型技术可担任现场主管或质量控制经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple casting work
-- Forging press for standard products
-- Manual product transport
+- 简单铸造工作
+- 标准产品的锻造压力机
+- 手动产品运输
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Casting design (simulation)
-- Quality inspection (image recognition)
-- Die maintenance and repair
+- 铸造设计（模拟）
+- 质量检验（图像识别）
+- 模具维护与修理
 
-**人类护城河:**
+**人类护城河：**
 
-- High-level casting design planning
-- Forging die technology (including trials)
-- Identifying root causes and countermeasures for defects
+- 高级选角设计规划
+- 锻造模具技术（包括试验）
+- 识别缺陷根本原因及对策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of casting simulation software
+- 使用铸造仿真软件
 - CAD/CAE
-- Robot teaching
-- Knowledge of metal materials
+- 机器人教学
+- 金属材料知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Casting technology
-- Forging technology
-- Die making
-- Heat treatment
+- 铸造技术
+- 锻造技术
+- 模具制造
+- 热处理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Falls under Manufacturing category 3. Max stay 5 years, requires skills test. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher + experience. Eligible for casting/forging engineering roles. |
-| Subclass 技能 (Skilled Labor (Highly Skilled)) | Eligible with 10+ years experience. Certifications like casting/forging skilled worker advantageous. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in manufacturing
-- People confident in physical strength
-- People who can steadily do repetitive tasks
+- 对制造业感兴趣的人
+- 体力充沛的人
+- 能稳定重复做任务的人
 
 **谁不适合**
-- People who prefer desk work
-- People uncomfortable with hazardous tasks
+- 偏好案头工作的人
+- 不适应危险任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for casting/forging?**
-答：Depending on experience and qualifications, entry-level about 3-4 million JPY, skilled 5.5-7 million JPY. Higher at major companies or in management.
+**问：铸造/锻造的平均年收入是多少？**
+答：根据经验和资质，初级约300-400万日元，熟练工550-700万日元。大公司或管理层更高。
 
-**问：How can foreigners work in this occupation in Japan?**
-答：The main route is Specified Skilled Worker (i) (Manufacturing 3 fields). Requires passing Skill Test Level 3 or evaluation exam. For Engineer/Specialist in Humanities/International Services, a university degree and relevant work experience are needed.
+**问：外国人在日本如何从事该职业？**
+答：主要途径是特定技能1号（制造业3个领域）。需通过技能测试3级或评估考试。对于工程师/人文社科/国际服务专家，需大学学位和相关工作经验。
 
-**问：Can I become one even without experience?**
-答：Yes, it's possible. You can acquire skills through vocational training schools or company apprenticeship programs. By gaining experience and passing skill tests, you can advance your career.
+**问：没有经验也能胜任吗？**
+答：是的，可能。可通过职业培训学校或公司学徒项目获得技能。通过积累经验和技能测试，可提升职业。
 
 
 ---
@@ -143,12 +136,12 @@ Start as an apprentice and advance to mid-level and skilled worker by obtaining 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/casting-and-forging-worker/JP)**

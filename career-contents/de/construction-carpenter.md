@@ -53,8 +53,6 @@ A construction carpenter in Germany is responsible for the fabrication and insta
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Carpenter roles face high automation risk; AI-driven design software and digital manufacturing will compress traditional manual measuring, cutting, and repetitive assembly tasks, but on-site custom installation and structural repair still rely on humans.
-
 Can progress from skilled worker to foreman or project manager, become a master carpenter or building technician through continuing education, or be self-employed running a joinery workshop.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from skilled worker to foreman or project manager, become a master 
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to foreign skilled workers who have completed recognized vocational training in Germany |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking or trial work |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Must complete German-recognized vocational training or obtain qualification r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-carpenter/DE)**

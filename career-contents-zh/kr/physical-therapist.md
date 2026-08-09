@@ -1,10 +1,8 @@
-# Physical Therapist 职业分析 · 韩国
+# 物理治疗师（Physical Therapist）职业分析 · 韩国
 
-**职业代码: 30651 (KECO)**
+**职业代码：30651 (KECO)**
 
-A healthcare professional who uses physical methods such as electricity, ultrasound, exercise, and massage based on a doctor's prescription to help relieve pain and restore function in patients.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+根据医生处方使用电、超声、运动、按摩等物理方法帮助患者缓解疼痛和恢复功能的医疗专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A healthcare professional who uses physical methods such as electricity, ultraso
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (3-year college) | 3年 | $20,000,000~$25,000,000（Tuition (national/public standard)） |
-| Bachelor's Degree (4-year college) | 4年 | $30,000,000~$40,000,000（Tuition (national/public standard)） |
+| 副学士学位（三年制专科） | 3年 | $20,000,000~$25,000,000（学费（公立/国家标准）） |
+| 学士学位（4年制大学） | 4年 | $30,000,000~$40,000,000（学费（公立/国家标准）） |
 
 ---
 
@@ -22,16 +20,16 @@ A healthcare professional who uses physical methods such as electricity, ultraso
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Physical Therapist License | Ministry of Health and Welfare | 必备 | Required to pass national exam |
+| 物理治疗师执照 | 保健福祉部 | 必备 | 需通过国家考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 72,000. Due to an aging population and an increase in chronic diseases, demand for physical therapy is expected to grow steadily, and employment is stable with advances in rehabilitation medicine.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 72,000。由于人口老龄化和慢性病增加，物理治疗需求预计稳定增长，康复医学的进步使就业稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,86 +37,80 @@ A healthcare professional who uses physical methods such as electricity, ultraso
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$32,000,000 | Varies by hospital size |
-| Mid-level (4-9 years) | $35,000,000~$40,000,000 | Increases with experience and additional certifications |
-| Senior-level (10+ years) | $42,000,000~$50,000,000 | Supervisory or specialized area |
+| 入门级（0-3年） | $28,000,000~$32,000,000 | 视医院规模而定 |
+| 中级（4-9年） | $35,000,000~$40,000,000 | 随经验和附加认证增长 |
+| 高级（10年以上经验） | $42,000,000~$50,000,000 | 监管或专业领域 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in some aspects of physical therapy, but the therapist's touch and judgment are hard to replace, so the impact is limited.
+人工智能可以在物理治疗的某些方面提供帮助，但治疗师的触觉和判断难以替代，因此影响有限。
 
-Career advancement in university hospitals, general hospitals, rehabilitation centers, and nursing hospitals; possible progression to head of physical therapy, administrative roles, or opening a private clinic.
+在大学医院、综合医院、康复中心和护理医院有职业发展机会；可能晋升为理疗主管、行政职务或开设私人诊所。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Recording and documentation
-- Simple assessment tool analysis
+- 记录和文档
+- 简单评估工具分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Exercise prescription design
-- Rehabilitation progress tracking
-- Patient monitoring
+- 运动处方设计
+- 康复进度跟踪
+- 患者监护
 
-**人类护城河:**
+**人类护城河：**
 
-- Physical contact with patients and treatment
-- Clinical judgment
-- Empathy and communication
+- 与患者的身体接触及治疗
+- 临床判断
+- 同理心与沟通能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Using AI-based rehabilitation tools
-- Remote rehabilitation therapy
+- 数据分析
+- 使用基于AI的康复工具
+- 远程康复治疗
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging society
-- Advances in rehabilitation medicine
-- Increase in chronic diseases
-- Sports medicine
+- 老龄化社会
+- 康复医学的进步
+- 慢性病增加
+- 运动医学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled physical therapists may work in specialized fields, but generally a Korean license is required. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong patience and empathy
-- People who enjoy physical activity and have good stamina
+- 耐心和同理心强的人
+- 喜欢体力活动且耐力好的人
 
 **谁不适合**
-- People who prefer sedentary work
-- People who find it difficult to communicate with patients
+- 喜欢久坐工作的人
+- 难以与患者沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a physical therapist?**
-答：About 28–32 million KRW for entry-level, up to 50 million KRW with experience.
+**问：物理治疗师的平均薪资是多少？**
+答：入门级约28-32百万韩元，有经验者可达50百万韩元。
 
-**问：Can foreigners work as physical therapists in Korea?**
-答：In principle, a Korean physical therapist license is required, and employment in specialized fields is possible with an E-7 visa, but limited.
+**问：外国人可以在韩国担任物理治疗师吗？**
+答：原则上需要韩国物理治疗师执照，持有E-7签证可在专业领域就业，但有限制。
 
 
 ---
@@ -136,12 +128,12 @@ Career advancement in university hospitals, general hospitals, rehabilitation ce
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/physical-therapist/KR)**

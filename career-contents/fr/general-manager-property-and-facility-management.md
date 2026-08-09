@@ -52,8 +52,6 @@ The Property Integrated Management Manager is responsible for the overall operat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The Comprehensive Management Manager's Tasks Are Divided by AI: Data analysis and forecasting are enhanced by AI, but core responsibilities such as on-site coordination, client relations, and legal compliance still require human judgment. The overall risk is moderate, so proactive adoption of digital tools is necessary.
-
 Careers can start as property managers, advance to property managers, regional managers, and eventually become comprehensive property management managers or asset managers. You can also turn to real estate investment, consulting, or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Careers can start as property managers, advance to property managers, regional m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Pr (Passeport Talent - Economic Contribution) | Suitable for highly skilled talent, requiring a work contract or employer sponsorship, with an annual salary usually 1.5 times the French average salary. |
-| Subclass Salarié (Work Contra (Salarié (Employee)) | If a long-term contract with a French company is obtained, you can apply for a salaried work residence permit, requiring employer to prove inability to hire within the EU. |
-| Subclass Carte bleue UE (EU B (EU Blue Card) | For non-EU highly skilled talent, annual salary must exceed €53,836.50 (2024 standard), contract at least 1 year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You must hold a Carte Professionnelle property management certificate, issued
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-manager-property-and-facility-management/FR)**

@@ -53,8 +53,6 @@ Hearing aid dispensers are responsible for conducting hearing tests, selecting a
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
-
 Career paths typically start from apprenticeships (dual system), progressing through advanced exams to become a Meister, who can open independent shops or advance to regional manager, trainer, etc. Some enter hearing technology R&D or sales management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career paths typically start from apprenticeships (dual system), progressing thr
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | For skilled migration via vocational training (Ausbildung), requires German recognized qualification through Anerkennung certification |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job-seeking visa to come to Germany for job search or qualification recognition |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Opportunities for advancement to management through master craftsman exams or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hearing-aid-acoustician/DE)**

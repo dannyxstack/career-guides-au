@@ -51,8 +51,6 @@ Responsible for the daily operations management of sports, entertainment, and cu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of Sports, Entertainment, and Cultural Centre Managers has medium AI impact: daily administration, scheduling, and basic reports can be automated, but on-site emergency handling, community relationship maintenance, and creative planning still require human judgment.
-
 Career progression path: start as an event coordinator or operations supervisor, gain experience to become a center manager, then develop into a regional manager or group operations director.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career progression path: start as an event coordinator or operations supervisor,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to highly skilled non-EU citizens, requiring a university degree and a contract with at least 1.5 times the average salary. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota work visa for non-high-skilled positions, requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | A work permit applied for by the employer, after which a work visa can be applied. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Moderate competition, slightly higher in popular cities like Rome and Milan, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-recreation-and-cultural-centre-manager/IT)**

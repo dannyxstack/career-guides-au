@@ -54,8 +54,6 @@ Plastic fabrication workers or welders cut, weld, shape, and assemble plastic ma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Plastic welding and manufacturing work is mixed in its impact from AI: repetitive cutting and welding tasks face high automation pressure, but on-site customization, complex repairs, and multi-material adaptation still require human judgment; AI tools can serve as technical aids to improve efficiency.
-
 Junior plastic welders can advance to senior technician or supervisor, or shift to quality inspection or production management. With relevant qualifications, they can start their own business or enter the engineering field. Experienced workers see significant salary growth.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior plastic welders can advance to senior technician or supervisor, or shift 
 | Subclass 491 (Skilled Work Regional (Provisional)) | Regional state sponsorship requires the occupation to be on the relevant list |
 | Subclass 482 (Temporary Skills Shortage) | Employer-sponsored temporary visa, requires employer nomination and a Medium and Long-term Strategic Skills List occupation. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can be promoted to supervisor, quality inspector, or production manager; can 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-fabricator-or-welder/AU)**

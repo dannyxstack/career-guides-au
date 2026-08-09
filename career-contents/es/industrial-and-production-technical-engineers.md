@@ -51,8 +51,6 @@ Industrial and Production Technology Engineers are responsible for designing, op
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Career paths: Technical engineers can be promoted to production manager, plant manager, or operations director. It can also be expanded into project management, supply chain, or quality control. Having a master's degree or an MBA helps you enter senior management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career paths: Technical engineers can be promoted to production manager, plant m
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree and above-average salary (at least 1.5 times the Spanish average). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For highly educated or experienced professionals, flexible and fast, allowing for both work and residence. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Regular employment residency requires employer sponsorship and job matching. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: It is not mandatory, but joining COGITI allows you to sign engineering projec
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-and-production-technical-engineers/ES)**

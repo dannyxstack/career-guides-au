@@ -4,8 +4,6 @@
 
 University professors and lecturers teach and conduct research at Italian universities or higher education institutions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ University professors and lecturers teach and conduct research at Italian univer
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career progression path: Research Assistant → Assistant Professor → Associate Professor → Full Professor. Requires high-level research and national recognition.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career progression path: Research Assistant → Assistant Professor → Associat
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Blue Card UE (EU Blue Card) | For highly skilled non-EU workers, requires an employment contract and minimum salary requirements. |
-| Subclass Visto per lavoro sub (Work Visa (Subordinate Employment)) | Work visa applied through an Italian employer, requiring a labor market test. |
-| Subclass Permesso di soggiorn (Research Visa) | Applicable to research activities, such as PhD or research projects, can be applied at universities. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Requires obtaining national scientific qualification (abilitazione), facing l
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-and-higher-education-teacher/IT)**

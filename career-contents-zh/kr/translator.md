@@ -1,8 +1,8 @@
 # 翻译（Translator）职业分析 · 韩国
 
-**职业代码: 41121 (KECO)**
+**职业代码：41121 (KECO)**
 
-A professional who accurately translates foreign documents or speech into Korean or from Korean to other languages, working in diverse fields such as literature, technology, medicine, and law.
+将外文文件或演讲准确翻译成韩语或从韩语翻译成其他语言的专业人士，工作领域涵盖文学、技术、医学和法律等。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who accurately translates foreign documents or speech into Korean
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduate School of Interpretation and Translation (Master's) | 2 年 | $20,000,000~$40,000,000（Tuition based on national/public universities; private universities may be over double.） |
-| Bachelor's in Interpretation and Translation | 4年 | $15,000,000~$60,000,000（National universities: KRW 15-20 million, private universities: KRW 40-60 million） |
-| Specialized Translation Course (Short-term) | 6个月-1年 | $5,000,000~$15,000,000（Private translation institutes or online courses） |
+| 口笔译研究生院（硕士） | 2 年 | $20,000,000~$40,000,000（学费按国立/公立大学标准；私立大学可能超过两倍。） |
+| 口笔译学士学位 | 4年 | $15,000,000~$60,000,000（国立大学：1500-2000万韩元，私立大学：4000-6000万韩元） |
+| 专业翻译课程（短期） | 6个月-1年 | $5,000,000~$15,000,000（私立翻译机构或在线课程） |
 
 ---
 
@@ -21,19 +21,19 @@ A professional who accurately translates foreign documents or speech into Korean
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Korean Language Teacher Certificate (for foreign learners) | National Institute of Korean Language | 可选 | Advantageous for Korean-to-foreign language translation |
-| IT Translation Certification (ATA Accredited) | ATA (American Translators Association) | 可选 | Helpful for overseas employment or international projects |
-| Specialized Medical/Legal Translation Certification | Korea Association of Translators | 可选 | Preferred for specialized field translation |
-| TOPIK (Test of Proficiency in Korean) Level 6 | National Institute for International Education | 可选 | Demonstrates Korean proficiency for foreign translators |
+| 韩国语教师证书（供外国学习者） | 国立国语院 | 可选 | 有利于韩语到外语翻译 |
+| IT翻译认证（ATA认可） | ATA（美国翻译协会） | 可选 | 有助于海外就业或国际项目 |
+| 专业医学/法律翻译认证 | 韩国翻译协会 | 可选 | 专业领域翻译优先 |
+| TOPIK（韩国语能力考试）6级 | 国立国际教育研究院 | 可选 | 展示韩语能力（针对外国翻译人员） |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 45,000. While AI translation technology reduces simple translation tasks, demand for skilled professionals in high-level literary, medical, legal translation and localization remains steady. With the growth of cultural content exports, the need for expert translators is expected to persist.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 45,000。虽然AI翻译技术减少了简单翻译任务，但对高水平文学、医学、法律翻译和本地化的熟练专业人员需求保持稳定。随着文化内容出口增长，专家翻译需求预计将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,97 +41,89 @@ A professional who accurately translates foreign documents or speech into Korean
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$36,000,000 | Freelancer low-seniority salary range (similar for regular employees) |
-| Intermediate (4~7 years) | $36,000,000~$55,000,000 | Average for specialized translators |
-| Advanced (8+ years) | $50,000,000~$80,000,000 | Advanced translators in literature, medicine, law; simultaneous interpretation possible |
+| 初级（0~3 年） | $24,000,000~$36,000,000 | 自由职业者低资历薪资范围（类似正式员工） |
+| 中级（4-7年） | $36,000,000~$55,000,000 | 专业翻译平均薪资 |
+| 高级（8年以上） | $50,000,000~$80,000,000 | 文学、医学、法律领域的高级翻译；可进行同声传译 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-As AI translators (e.g., DeepL, GPT) advance, the general translation market is shrinking, but medical, legal, and literary translation requiring high accuracy and cultural understanding remain human domains. Roles are shifting to AI post-editing and localization planning, with collaboration expected rather than full replacement.
+随着AI翻译（如DeepL、GPT）的进步，普通翻译市场正在萎缩，但需要高精度和文化理解的医学、法律和文学翻译仍是人类领域。角色正向AI后期编辑和本地化规划转变，预计将协作而非完全替代。
 
-Graduate with a major in interpretation and translation from university, then join a translation agency or work as a freelancer. With experience, you can specialize in fields (literature, medicine, law, etc.) or advance to roles such as team leader at a publisher or translation company, or simultaneous interpreter.
+大学口笔译专业毕业后，加入翻译机构或成为自由译员。通过经验积累，可专精于特定领域（文学、医学、法律等），或晋升至出版社/翻译公司的团队领导、同声传译员等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - Simple sentence translation
-- Repetitive technical document translation
-- Rough translation
-- Synonym/pattern matching tasks
+- 重复性技术文档翻译
+- 粗略翻译
+- 同义词/模式匹配任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Glossary management
-- Review of AI translation results
-- Development of cultural localization strategies
-- Apply customized style for client
+- 术语管理
+- AI翻译结果审核
+- 文化本地化策略开发
+- 为客户应用定制风格
 
-**人类护城河:**
+**人类护城河：**
 
-- Understand cultural context
-- Convey emotions and nuances
-- Creative expression (literature, advertising)
-- Build trust relationship with client
+- 理解文化背景
+- 传达情感和细微差别
+- 创意表达（文学、广告）
+- 与客户建立信任关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI post-editing
-- Proficiency in CAT tools
-- Specialized knowledge (medicine, law, etc.)
+- AI后期编辑
+- 熟练使用CAT工具
+- 专业知识（医学、法律等）
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Literary/publishing translation
-- Medical/legal specialized translation
-- Hallyu/cultural content translation
-- AI post-editing
+- 文学/出版翻译
+- 医疗/法律专业翻译
+- 韩流/文化内容翻译
+- AI后期编辑
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when employed by a Korean company as a skilled professional translator (e.g., publisher, translation agency) |
-| Subclass F-2 (F-2-99 (Residence)) | Possible for long-term stay under a points system, meeting income conditions as a translator |
-| Subclass F-5 (F-5 (Permanent Residence)) | Available after long-term residence, including for translation professionals |
-| Subclass D-10 (D-10 (Job Seeking)) | Issued after graduation for international students majoring in interpretation/translation seeking employment |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent language sense
-- Meticulous and patient person
-- Someone who seeks to understand cultural differences
+- 语言感觉优秀者
+- 细致耐心的人
+- 寻求理解文化差异的人
 
 **谁不适合**
-- Person who dislikes mechanical repetitive tasks
-- Someone who prefers creative work over collaboration
+- 不喜欢机械重复任务的人
+- 喜欢创意工作而非协作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a translator?**
-答：For beginners, it's about 24–36 million won, mid-level 36–55 million won, and advanced 50–80 million won. Freelancers' income varies greatly depending on performance.
+**问：译员的平均薪资是多少？**
+答：初学者约2400-3600万韩元，中级3600-5500万韩元，高级5000-8000万韩元。自由职业者收入因业绩而异。
 
-**问：Can foreigners work as translators in Korea?**
-答：You can get an E-7 visa as a specialized (English→Korean) translator. Korean proficiency (TOPIK Level 6) and a related degree are advantageous.
+**问：外国人可以在韩国担任翻译吗？**
+答：作为专业（英语→韩语）翻译，可以获得E-7签证。韩语能力（TOPIK 6级）和相关学位具有优势。
 
-**问：Will AI replace translators?**
-答：Simple translation will be replaced, but humans remain important for high-level translation and localization where cultural context matters. AI post-editing skills become competitive.
+**问：AI会取代翻译吗？**
+答：简单翻译将被替代，但人类在高层次翻译和本地化（需要文化背景理解）中仍然重要。AI后期编辑技能成为竞争力。
 
 
 ---
@@ -149,12 +141,12 @@ Graduate with a major in interpretation and translation from university, then jo
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/translator/KR)**

@@ -53,8 +53,6 @@ Legislative members are elected public officials responsible for making and amen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on legislative members is mixed: automation can improve information processing and clerical efficiency, but core decision-making and representative duties are hard to replace, and technology application is strictly regulated.
-
 Career development begins with grassroots or local government work within the party, gradually seeking party nomination to run for office. After successful election, can advance through re-election or promotion to committee chair, parliamentary caucus leader, etc. May transition to higher-level political institutions or government positions.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career development begins with grassroots or local government work within the pa
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: No, usually requires German or EU citizenship.
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/member-of-a-legislative-body/DE)**

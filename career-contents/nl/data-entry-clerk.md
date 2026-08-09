@@ -51,8 +51,6 @@ Data entry clerks are responsible for accurately inputting information from pape
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Data entry operators face a very high risk of automation, as data transcription, validation, and formatting tasks can be efficiently replaced by AI/OCR technology, leading to significant shrinkage in job demand.
-
 Junior data entry clerks can advance to senior data entry clerks, data validators, or team supervisors. By learning data analysis or database management, they can move into roles such as data administrator or business analyst.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Junior data entry clerks can advance to senior data entry clerks, data validator
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled workers earning over €5,008/month (2024 standard); data entry clerks usually do not meet salary requirements unless promoted to management roles. |
-| Subclass EU free movement (EU Freedom of Movement) | EU/EEA citizens do not need a work visa and can work freely in the Netherlands. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Can progress to roles such as data verifier, team leader, or transition into 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-entry-clerk/NL)**

@@ -54,8 +54,6 @@ Plan, direct, and coordinate activities and resources to manufacture products, e
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
-
 Typically promoted from production supervisor or engineer; with experience can advance to plant manager or operations director, requiring continuous learning of lean production, etc.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Typically promoted from production supervisor or engineer; with experience can a
 | Subclass EB-2/EB-3 (EB-2/EB-3 Employment-Based Green Card) | Requires PERM labor certification with long waiting times |
 | Subclass TN (TN NAFTA Professional) | Open only to Canadian or Mexican citizens, must meet specific job requirements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Common pathways include H-1B work visa (requires bachelor's and employer spon
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-production-managers/US)**

@@ -50,8 +50,6 @@ This occupation involves operating, monitoring, and maintaining engine equipment
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Ship engine operations are a field where automation and remote monitoring technology are advancing, but not all tasks can be replaced. Human judgment remains essential especially for emergency response and complex inspections/repairs. AI is expected to be used as a support for operation monitoring.
-
 Typical promotion route: Second Engineer → First Engineer → Chief Engineer. Acquiring land-based certifications (e.g., Boiler Technician) is effective for career advancement.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Typical promotion route: Second Engineer → First Engineer → Chief Engineer. 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Foreigners with knowledge/skills in ship engines can work. Requires university degree or higher. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable currently as shipping is not a Specified Skilled field. |
-| Subclass 技能 (Skilled Labor) | May apply if you have practical experience as a skilled engine operator. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -139,12 +130,12 @@ A: Possible. You can work under the 'Engineer/Specialist in Humanities/Internati
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marine-engineer/JP)**

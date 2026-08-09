@@ -1,10 +1,8 @@
-# Biology Researcher 职业分析 · 韩国
+# 生物学研究员（Biology Researcher）职业分析 · 韩国
 
-**职业代码: 12114 (KECO)**
+**职业代码：12114 (KECO)**
 
-A biology researcher is a professional who studies and experiments on life phenomena and organisms, playing a key role in pharmaceuticals, biotechnology, and environmental fields.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+生物学研究员是研究和实验生命现象及生物体的专业人员，在制药、生物技术和环境领域发挥关键作用。
 
 
 ---
@@ -13,9 +11,9 @@ A biology researcher is a professional who studies and experiments on life pheno
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Life Science/Biology | 4年 | $4,000,000~$10,000,000（Tuition based on national/public university standards; private universities range from KRW 8-12 million per year） |
-| Master's at same graduate school | 2 年 | $5,000,000~$12,000,000（Graduate tuition and research funding support available） |
-| Doctorate at same graduate school | 3-5年 | $5,000,000~$12,000,000（Research scholarships and teaching assistant allowances combined） |
+| 生命科学/生物学学士 | 4年 | $4,000,000~$10,000,000（学费按国立/公立大学标准；私立大学每年约800-1200万韩元） |
+| 同一研究生院的硕士 | 2 年 | $5,000,000~$12,000,000（提供研究生学费及研究资金支持） |
+| 同一研究生院的博士学位 | 3-5年 | $5,000,000~$12,000,000（研究奖学金和助教津贴结合） |
 
 ---
 
@@ -23,19 +21,19 @@ A biology researcher is a professional who studies and experiments on life pheno
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Biotechnology Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification; advantageous for research lab employment |
-| Medical Technologist | Ministry of Health and Welfare | 可选 | Required when working in medical institution research |
-| Laboratory Animal Technician | Korean Association for Laboratory Animal Science | 可选 | Required for animal experiment research |
-| Hazardous Materials Manager | Korea Fire Institute | 可选 | Used for appointment as research lab safety manager |
+| 生物技术工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格；有助于研究实验室就业 |
+| 医学技师 | 保健福祉部 | 可选 | 在医疗机构研究时需要 |
+| 实验动物技术员 | 韩国实验动物科学协会 | 可选 | 动物实验研究所需 |
+| 危险品经理 | Korea Fire Institute | 可选 | 用于任命研究实验室安全经理 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 28,000. Employment is expected to steadily increase due to growth in the bio-health and vaccine industries and expanded government R&D investment, but competition for full-time positions is fierce.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 28,000。由于生物健康和疫苗行业的增长以及政府R&D投资的扩大，就业预计将稳步增长，但全职职位竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -43,89 +41,81 @@ A biology researcher is a professional who studies and experiments on life pheno
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$35,000,000 | Master's required; includes salaries at national/public research institutes and graduate students |
-| 中级 (3-7年) | $38,000,000~$50,000,000 | Large corporation R&D center/regular employee |
-| Advanced (7+ years) | $50,000,000~$70,000,000 | Principal researcher/team leader |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 需硕士学位；包括国立/公立研究机构及研究生薪资 |
+| 中级 (3-7年) | $38,000,000~$50,000,000 | 大型企业研发中心/正式员工 |
+| 高级（7年以上） | $50,000,000~$70,000,000 | 首席研究员/团队负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI greatly enhances data analysis, gene sequencing, and drug candidate discovery in biology research, but human expertise is essential for experiment design and interpretation.
+AI极大增强了生物学研究中的数据分析、基因测序和候选药物发现，但人类专业知识对于实验设计和解释至关重要。
 
-After obtaining a master's or doctoral degree, one advances to a full-time researcher at a research institute or a university professor, with potential promotion to team leader or principal researcher based on experience. Moving to a bio/pharmaceutical corporate research lab is also common.
+获得硕士或博士学位后，晋升为研究所全职研究员或大学教授，根据经验可晋升为团队负责人或首席研究员。转向生物/制药企业研究实验室也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive experimental data recording
-- Basic statistical analysis
+- 简单的重复性实验数据记录
+- 基础统计分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Gene sequence analysis
-- Drug-target interaction prediction
-- Lab automation robot control
+- 基因序列分析
+- 药物-靶标相互作用预测
+- 实验室自动化机器人控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Research hypothesis formulation and experiment design
-- Intuition and interpretation of unexpected findings
-- Ethical and regulatory judgment
+- 研究假设制定与实验设计
+- 对意外发现的直觉与解读
+- 伦理与监管判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 生物信息学
-- Python/R programming
-- Statistical experiment design
-- AI/machine learning basics
+- Python/R编程
+- 统计实验设计
+- 人工智能/机器学习基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Biopharmaceuticals
-- Gene therapy
-- Environmental ecology research
-- AI-assisted research
+- 生物制药
+- 基因治疗
+- 环境生态研究
+- AI辅助研究
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific activities (E-7)) | Available for employment as a researcher at biotech/pharmaceutical companies; degree/experience required |
-| Subclass D-10 (Job seeking (D-10)) | For master's/doctoral degree holders seeking jobs; up to 2 years |
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay and free research activities; E-7 → F-2 conversion |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with deep curiosity and patience for their specific major
-- Those who systematically conduct experiments and data analysis
+- 对专业领域有深厚好奇心和耐心的人
+- 系统进行实验和数据分析的人员
 
 **谁不适合**
-- Those who dislike repetitive experiments and long research periods
-- Those who feel burdened by writing papers and giving presentations
+- 不喜欢重复实验和长期研究的人
+- 觉得写论文和做演讲有压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a biology researcher?**
-答：For entry-level (master's): pre-tax 28-35 million KRW, mid-level: 38-50 million KRW, senior: 50-70 million KRW.
+**问：生物学研究员的平均工资是多少？**
+答：对于入门级（硕士）：税前28-35百万韩元，中级：38-50百万韩元，高级：50-70百万韩元。
 
-**问：What visa does a foreigner need to work as a biology researcher?**
-答：Mainly apply for E-7 (Specific Activities) visa, requiring relevant degree and experience. Later, can switch to F-2 (Residence).
+**问：外国人作为生物学研究员工作需要什么签证？**
+答：主要申请E-7（特定活动）签证，需相关学位和经验。之后可转为F-2（居住）签证。
 
 
 ---
@@ -143,12 +133,12 @@ After obtaining a master's or doctoral degree, one advances to a full-time resea
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/biology-researcher/KR)**

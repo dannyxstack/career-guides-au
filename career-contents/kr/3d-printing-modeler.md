@@ -51,8 +51,6 @@ A professional who designs 3D models of products and parts using 3D printing tec
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI helps automate and optimize 3D modeling, but creative design and problem-solving still require human input. Initial modeling tasks become efficient with AI assistance, but final design decisions and fine adjustments need expert hands.
-
 Beginners can advance to senior modeler, technical team leader, or project manager. With CAD/CAM certifications and practical experience, one can move to research institutes or R&D centers of large corporations.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Beginners can advance to senior modeler, technical team leader, or project manag
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued when inviting 3D printing specialists to Korean companies; requires bachelor's degree and experience |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some simple 3D printing tasks possible, but unsuitable for professional modelers |
-| Subclass F-2 (F-2 (Residence)) | Step before permanent residence after long-term stay; favorable for skilled 3D printing personnel |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: A degree in mechanical engineering or industrial design is advantageous, and 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/3d-printing-modeler/KR)**

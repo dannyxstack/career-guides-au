@@ -1,6 +1,6 @@
-# Health and Safety Engineers, Except Mining Safety Engineers and Inspectors 职业分析 · 美国
+# 健康与安全工程师（不包括采矿安全工程师和检查员）（Health and Safety Engineers, Except Mining Safety Engineers and Inspectors）职业分析 · 美国
 
-**职业代码: 17-2111 (SOC)**
+**职业代码：17-2111 (SOC)**
 
 健康与安全工程师通过应用工业过程、力学、化学、心理学及工业健康与安全法规知识，促进工作场所或产品安全，包括工业产品安全工程师。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 26,000. 预计2023-2033年就业增长约4%，与所有职业平均持平。随着法规加强和职场安全意识提升，需求稳定。制造业、建筑业和政府部门为主要雇主。
+**职位需求量：中高（★★★★☆）** 全国从业人数约 26,000。预计2023-2033年就业增长约4%，与所有职业平均持平。随着法规加强和职场安全意识提升，需求稳定。制造业、建筑业和政府部门为主要雇主。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -50,14 +50,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 环境工程师面临AI的双刃剑：数据分析和报告生成被自动化，但现场评估、合规决策和跨领域协作能力仍是护城河；岗位总体需求因ESG和可再生能源转型而增长，但入门级竞争加剧。
 
 初级工程师通常需3-5年经验晋升为高级工程师或安全经理；可通过获得CSP等认证转向管理岗位，或专攻特定领域如工业卫生或产品安全，最终可担任安全总监或副总裁。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 环境监测数据采集与初步分析
 - 环境影响评价报告的标准章节撰写
@@ -65,7 +65,7 @@
 - 污染扩散模型的参数调整和运行
 - 项目管理中的进度跟踪与报告更新
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI进行污染物扩散模拟和风险评估
 - 通过机器学习优化水处理工艺参数
@@ -73,7 +73,7 @@
 - 结合遥感AI进行生态影响监测与预警
 - 借助AI驱动的数字孪生进行现场规划方案测试
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场实地勘察与污染源判断
 - 与利益相关方（政府、社区）沟通协商
@@ -81,7 +81,7 @@
 - 承担环评报告签字责任（注册工程师）
 - 创新性修复技术的研发与应用
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R数据分析与机器学习基础
 - GIS与遥感AI（如ArcGIS Pro、Google Earth Engine）
@@ -90,16 +90,16 @@
 - 环境法规阅读与AI辅助合规工具
 - 数字孪生与IoT数据平台操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Safety Regulations
-- Industrial Hygiene
-- Risk Management
-- Workplace Safety Culture
+- 安全法规
+- 工业卫生学
+- 风险管理
+- 工作场所安全文化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -109,9 +109,7 @@
 | Subclass EB-3 (EB-3 Employment-Based Green Card (Skilled Workers)) | 适用于本科及以上学历的熟练工人，需PERM劳工证。 |
 | Subclass Green Card (PERM) (Permanent Labor Certification (PERM)) | 雇主担保绿卡流程，需证明无法找到合适美国工人。 |
 
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★☆☆）**
 
 ---
 
@@ -155,12 +153,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/health-and-safety-engineers-except-mining-safety-engineers-and-inspectors/US)**

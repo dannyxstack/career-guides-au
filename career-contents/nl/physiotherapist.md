@@ -52,8 +52,6 @@ Physical therapists help patients restore function, relieve pain, and improve qu
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical therapist roles will be significantly enhanced rather than replaced by AI: AI-assisted diagnosis, personalized rehabilitation plan generation, and remote monitoring will greatly improve treatment effectiveness and efficiency, but clinical judgment, manual therapy, and patient communication remain absolute human advantages.
-
 Career path: Junior Physiotherapist → Specialist Physiotherapist (e.g., sports, neurological, geriatric) → Team Leader or Clinic Manager → Independent practitioner or clinic owner. Also possible in research or teaching.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Career path: Junior Physiotherapist → Specialist Physiotherapist (e.g., sports
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled non-EU individuals; requires an employment contract and salary meeting the threshold (approx. €5,331/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated non-EU nationals requiring a work contract and meeting the salary threshold (approx. €5,331/month in 2024). |
-| Subclass Orientation Year (zo (Orientation Year) | Non-EU students graduating from a Dutch or world top-200 university can obtain a one-year residence permit to seek employment. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Must be registered with BIG (statutory), graduated from a recognized institut
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/NL)**

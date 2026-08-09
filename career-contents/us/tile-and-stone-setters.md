@@ -53,8 +53,6 @@ Install hard tiles, stone, and other materials on walls, floors, ceilings, count
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
-
 Typically starts as an apprentice, progressing to a skilled worker. Can advance to foreman, project manager, or start their own business as a contractor. Experienced workers can specialize in high-end stone or complex pattern laying.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically starts as an apprentice, progressing to a skilled worker. Can advance 
 | Subclass EB-3 (EB-3 Skilled Workers) | Suitable for skilled workers with at least 2 years of training or experience; requires a PERM labor certification. |
 | Subclass Green Card (PERM) (Employment-Based Green Card through PERM) | Employer must prove inability to find qualified U.S. workers, then file I-140. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a high school diploma, then complete a 3-4 year apprenticesh
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tile-and-stone-setters/US)**

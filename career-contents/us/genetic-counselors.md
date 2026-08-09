@@ -52,8 +52,6 @@ Assess the risk of genetic diseases in individuals or families, provide genetic 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance the work of genetic counselors, improving efficiency in data analysis, report generation, and patient education, but will not replace their core role in clinical judgment and emotional support.
-
 Junior genetic counselors can advance to senior counselor, supervisor, or teaching roles; some move to research, lab management, or medical genetics guidance.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior genetic counselors can advance to senior counselor, supervisor, or teachi
 | Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or higher, or exceptional ability; green card via PERM labor certification. |
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable for bachelor's degree plus experience, one green card pathway |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Genetics knowledge, risk calculation, communication skills, empathy, and abil
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/genetic-counselors/US)**

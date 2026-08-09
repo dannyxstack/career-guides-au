@@ -52,8 +52,6 @@ Financial and investment advisors provide portfolio management, financial planni
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will greatly enhance financial advisors' data analysis, report generation, and client communication efficiency, but non-complex financial advice and compliance decisions still require human judgment, and overall job demand may expand due to efficiency gains.
-
 Can progress from junior analyst to senior consultant, investment director, or partner, with some moving into private banking or asset management.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from junior analyst to senior consultant, investment director, or p
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, annual salary threshold around 28,000 euros (2024), requires university degree and employment contract. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi (Work Visa Quota)) | Annual quota for non-EU workers, requiring employer sponsorship. Limited spots, typically for low-skilled roles but also available for professionals. |
-| Subclass Lavoratore Autonomo (Self-Employment Visa) | Suitable for freelancers or self-employed consultants; requires a business plan and proof of funds, with an annual cap. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Must pass the OCF registration exam and complete training; for securities adv
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-adviser/IT)**

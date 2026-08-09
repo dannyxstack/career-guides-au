@@ -4,8 +4,6 @@
 
 As a professional soldier of the JGSDF, engages in national defense and disaster relief duties.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ As a professional soldier of the JGSDF, engages in national defense and disaster
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will complement Self-Defense Force personnel's duties. It will be used in unmanned reconnaissance aircraft, cyber defense, and logistics efficiency, while human judgment in combat and disaster sites remains crucial.
-
 Promoted from officer candidate to sergeant and lieutenant. Veterans engage in education, logistics support, and international contributions.
 
 **Tasks most exposed to AI:**
@@ -93,15 +89,9 @@ Promoted from officer candidate to sergeant and lieutenant. Veterans engage in e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | SDF membership generally requires Japanese nationality. Limited roles for foreigners, such as English teachers. Specified Skilled Worker is not allowed. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: After enlisting as a general non-commissioned officer candidate, you advance 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/japan-ground-selfdefense-force-soldier/JP)**

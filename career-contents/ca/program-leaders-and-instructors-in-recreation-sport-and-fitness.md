@@ -51,8 +51,6 @@ Fitness instructors in Canada fall under the leisure sports field, guiding indiv
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fitness instructors' demonstration guidance, correction, and personalized planning are enhanced by AI assistance, but administrative scheduling, basic nutrition advice, and online teaching may be automated, overall mixed.
-
 From junior coach, you can advance to senior personal trainer, fitness manager, or open your own studio. Gain international certifications (e.g., ACE, NSCA) to improve competitiveness. Some coaches transition to online training or corporate wellness programs.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From junior coach, you can advance to senior personal trainer, fitness manager, 
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have relevant streams, requiring employer sponsorship or high scores. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for those with a job offer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: International certifications such as ACE, NSCA, NASM are recognized; CPR/firs
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/program-leaders-and-instructors-in-recreation-sport-and-fitness/CA)**

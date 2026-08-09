@@ -1,10 +1,8 @@
-# Cartoon Animator (Animator) 职业分析 · 韩国
+# 动画师（卡通动画师）（Cartoon Animator (Animator)）职业分析 · 韩国
 
-**职业代码: 41433 (KECO)**
+**职业代码：41433 (KECO)**
 
-A professional who creates 2D/3D animation, participating in the entire animation production process including storyboarding, character design, keyframes, and compositing.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+制作2D/3D动画的专业人士，参与从故事板、角色设计、关键帧到合成的整个动画制作流程。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who creates 2D/3D animation, participating in the entire animatio
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (2-year) | 2 年 | $8,000,000~$12,000,000（Annual tuition for public institutions; private institutions double.） |
-| University (4-year) | 4年 | $10,000,000~$18,000,000（Annual tuition for public institutions; private institutions 15–20 million KRW.） |
+| 大学（两年制） | 2 年 | $8,000,000~$12,000,000（公立机构年学费；私立机构翻倍。） |
+| 大学（4年制） | 4年 | $10,000,000~$18,000,000（公立机构年学费；私立机构1500万至2000万韩元。） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who creates 2D/3D animation, participating in the entire animatio
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Multimedia Content Production Specialist | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for employment. |
-| Computer Graphics Operator | Human Resources Development Service of Korea | 可选 | Attainable at entry level. |
-| Toon Boom/MAYA Certification | Toon Boom/Autodesk | 可选 | International certification; preferred by large studios. |
+| 多媒体内容制作专家 | 韩国人力资源开发服务局 | 可选 | 非强制但有利于就业。 |
+| 计算机图形操作员 | 韩国人力资源开发服务局 | 可选 | 入门级可达到。 |
+| Toon Boom/MAYA认证 | Toon Boom/Autodesk | 可选 | 国际认证；大型工作室优先。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. The Korean animation industry is expected to maintain steady growth due to OTT platform growth and increasing global demand, but new job creation is limited and contract positions are prevalent.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。由于OTT平台增长和全球需求增加，韩国动画产业预计保持稳定增长，但新增就业机会有限，合同工职位普遍。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,91 +39,84 @@ A professional who creates 2D/3D animation, participating in the entire animatio
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $24,000,000~$30,000,000 | Freelancers are contracted per project; annual salary basis. |
-| Mid (4–7 years) | $32,000,000~$45,000,000 | Senior animator or team lead. |
-| 高级（8年+） | $48,000,000~$70,000,000 | Director/supervisor, large studios. |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 自由职业者按项目签约；年薪制。 |
+| 中级（4-7年） | $32,000,000~$45,000,000 | 高级动画师或团队负责人 |
+| 高级（8年+） | $48,000,000~$70,000,000 | 大型工作室的导演/主管。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI boosts productivity in animation by generating in-between frames, auto-rigging, and background creation, but creative direction and emotional expression remain the domain of human animators. Overall, AI introduction reduces repetitive tasks but maintains demand for high-skilled talent.
+AI通过生成中间帧、自动绑定和背景创作提升动画生产力，但创意方向和情感表达仍由人类动画师主导。总体而言，AI引入减少了重复性任务，但对高技能人才的需求保持不变。
 
-Typically start as a junior animator in a studio, then progress to senior animator, director, or VFX supervisor after 5–10 years, or become an independent freelancer.
+通常从工作室的初级动画师开始，5-10年后晋升为高级动画师、导演或VFX主管，或成为独立自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- In-between Frame Generation
-- Simple Background Coloring
-- Basic Rigging
+- 中间帧生成
+- 简单背景着色
+- 基本索具操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Keyframe Animation
-- Character Design
-- Storyboard
+- 关键帧动画
+- 角色设计
+- 故事板
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Direction
-- Emotional Expression and Acting
-- Unique Style
+- 创意指导
+- 情感表达与表演
+- 独特风格
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Tool Proficiency
-- 3D Modeling and Animation
-- Project Leadership
+- AI工具熟练度
+- 3D建模与动画
+- 项目领导
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Webtoon-based Animation
-- 3D/VFX
-- OTT Original
-- Global Collaboration
+- 网漫改编动画
+- 3D/视觉特效
+- OTT原创
+- 全球协作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if a highly skilled foreign animator is hired by a specific studio; not subject to the Employment Permit System |
-| Subclass D-10 (Job-seeking) | Staying for job-seeking after graduating from a domestic university; can stay as an animator for 6 months |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with excellent creativity and drawing skills
-- Someone proficient in tools (MAYA, Blender)
+- 具有出色创造力和绘画技能的人
+- 精通工具（MAYA、Blender）的人
 
 **谁不适合**
-- Someone who prefers regular work
-- Someone who finds quick feedback and revisions burdensome
+- 偏好规律工作的人
+- 觉得快速反馈和修改有负担的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an animator?**
-答：Approximately 24-30 million KRW for entry-level, 32-45 million for mid-level, and 48-70 million for senior. Freelancers see large variations.
+**问：动画师的平均薪资是多少？**
+答：入门级约2400-3000万韩元，中级3200-4500万韩元，高级4800-7000万韩元。自由职业者差异大。
 
-**问：What visa does a foreigner need to work as an animator in Korea?**
-答：An E-7 (Specific Activities) visa is required, with degree and experience requirements. Not covered by the Employment Permit System; the individual employer applies.
+**问：外国人在韩国做动画师需要什么签证?**
+答：需要E-7（特定活动）签证，有学历和经验要求。不属于就业许可制度范围，由雇主个人申请。
 
-**问：What portfolio is needed to grow as an animator?**
-答：A portfolio containing various samples such as character animation, action scenes, and facial expressions, along with the work process, is important. Personal projects or collaborative works are recommended.
+**问：成长为动画师需要什么样的作品集？**
+答：包含角色动画、动作场景、面部表情等多种样本以及工作流程的作品集很重要。推荐个人项目或合作作品。
 
 
 ---
@@ -143,12 +134,12 @@ Typically start as a junior animator in a studio, then progress to senior animat
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cartoon-animator-animator/KR)**

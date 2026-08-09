@@ -1,10 +1,8 @@
 # 图书管理员（Librarian）职业分析 · 日本
 
-**职业代码: 241 (JSCO)**
+**职业代码：241 (JSCO)**
 
-A professional who collects, organizes, preserves, and provides materials in libraries, meeting users' information needs. Also provides reference services and promotes reading activities.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+收集、整理、保存并提供图书馆资料的专业人员，满足用户信息需求，同时提供参考服务和推广阅读活动。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who collects, organizes, preserves, and provides materials in lib
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Librarian Course) | 4年 | $2,400,000~$5,000,000（About ¥600,000/year at national universities and ¥1,200,000 at private universities. Additional course completion is required for librarian certification.） |
-| Graduate School (Library and Information Science) | 2 年 | $1,000,000~$3,000,000（For master's programs, about ¥800,000/year at national universities and ¥1,500,000 at private universities.） |
+| 大学（图书馆员课程） | 4年 | $2,400,000~$5,000,000（国立大学约60万日元/年，私立大学约120万日元/年。需完成额外课程以获得图书馆员认证。） |
+| 图书情报学研究生院 | 2 年 | $1,000,000~$3,000,000（硕士项目：国立大学约80万日元/年，私立大学约150万日元/年。） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who collects, organizes, preserves, and provides materials in lib
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Librarian Certificate | Ministry of Education, Culture, Sports, Science and Technology (completion of prescribed courses at university) | 必备 | About ¥600,000/year at national universities and ¥1,200,000 at private universities. Additional course completion is required for librarian certification. |
-| School Librarian Certificate | Each prefectural board of education | 必备 | Required for working in school libraries. Requirements vary by local government. |
-| Assistant Librarian Certificate | Ministry of Education, Culture, Sports, Science and Technology (completion of prescribed courses at junior college, etc.) | 可选 | Engages in assisting librarian duties. A preliminary step to obtaining a librarian certificate. |
+| 图书馆员证书 | 文部科学省（完成大学规定课程） | 必备 | 国立大学约60万日元/年，私立大学约120万日元/年。需完成额外课程以获得图书馆员认证。 |
+| 学校图书馆员证书 | 各都道府县教育委员会 | 必备 | 在学校图书馆工作需要。要求因地方政府而异。 |
+| 助理图书馆员证书 | 文部科学省（短期大学等完成规定课程） | 可选 | 协助图书馆员职责。获得图书馆员证书的初步步骤。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 32,000. Although the number of libraries is declining due to the falling birthrate and digitalization, demand is expected for roles as community hubs and specialized information literacy support.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 32,000。虽然因少子化和数字化，图书馆数量在减少，但作为社区中心和专业信息素养支持的岗位需求预计将持续。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -41,92 +39,85 @@ A professional who collects, organizes, preserves, and provides materials in lib
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $2,500,000~$3,500,000 | For part-time positions, annual income is often under ¥2,000,000. |
-| Mid (4–10 years) | $3,500,000~$5,000,000 | Regular employees receive salary increases according to years of experience. |
-| Senior (11+ years) | $4,500,000~$6,000,000 | Depends on career path, such as management or specialized librarian positions. |
+| 初级（0-3年） | $2,500,000~$3,500,000 | 兼职岗位年收入常低于200万日元。 |
+| 中期（4-10年） | $3,500,000~$5,000,000 | 正式员工根据工作年限获得加薪。 |
+| 高级（11年以上） | $4,500,000~$6,000,000 | 取决于职业路径，如管理或专业图书管理员职位。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-While some areas are being automated by AI, tasks that require human judgment and communication, such as reference services that understand users' information needs and provide appropriate materials and information, will remain.
+虽然某些领域正在被AI自动化，但需要人类判断和沟通的任务（如参考服务，理解用户信息需求并提供适当材料和信息）将保留。
 
-After obtaining a librarian certificate, the path from part-time to full-time in public libraries is limited. It is important to specialize in areas such as reference, digital archives, and services for people with disabilities.
+取得图书管理员证书后，在公共图书馆从兼职转为全职的路径有限。应专注于参考咨询、数字档案、残疾人服务等领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Checkout/Return Processing
-- Shelf Organization/Stacking
-- Basic Material Search Assistance
+- 收银/退货处理
+- 货架整理/堆放
+- 基础材料搜索协助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Reference Services (AI-based Information Recommendation)
-- Building and Managing Digital Archives
-- Service Improvement through User Data Analysis
+- 参考服务（基于AI的信息推荐）
+- 构建与管理数字档案
+- 通过用户数据分析改进服务
 
-**人类护城河:**
+**人类护城河：**
 
-- Dialogue Skills to Elicit Users' Latent Needs
-- In-depth Knowledge of Specialized Fields
-- Building Relationships with Local Communities
+- 挖掘用户潜在需求的对话技巧
+- 专业领域深度知识
+- 与当地社区建立关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Literacy
-- Information Analysis Skills
+- 数字素养
+- 信息分析技能
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Archives
-- Reference Services
-- Reading Barrier-Free
-- E-books
+- 数字档案
+- 参考服务
+- 无障碍阅读
+- 电子书
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | A job that utilizes specialized knowledge and skills as a librarian. Suitable for university libraries or special libraries, but for public libraries, passing the civil service exam is required, making it difficult to obtain a residence status. |
-| Subclass 特定活動（図書館司書補） (Designated Activities (Library Assistant Work)) | Stay is possible under some programs like the Japan Foundation. However, it is not easily recognized as a general work visa. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who love books and information and enjoy teaching others
-- Meticulous people who can work steadily and accurately
-- People with communication skills to understand users' needs and provide appropriate information
+- 热爱书籍和信息并乐于教导他人的人
+- 细致认真、能够稳定准确工作的人
+- 具有沟通能力，能理解用户需求并提供适当信息的人
 
 **谁不适合**
-- People who dislike sitting for long periods
-- People who get bored easily with routine work with little change
+- 不喜欢长时间坐着的人
+- 对变化少的例行工作容易厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a librarian?**
-答：For regular staff at public libraries, approximately 3.5 to 5 million yen; for part-time, often under 2 million yen, generally low. University and special libraries tend to be slightly higher.
+**问：图书管理员的年收入是多少？**
+答：公共图书馆正式员工约350万至500万日元；兼职通常低于200万日元，整体较低。大学和专门图书馆略高。
 
-**问：Can foreigners work as librarians in Japan?**
-答：It may be possible under the Engineer/Specialist in Humanities/International Services status, but public libraries require the civil service exam, and Japanese language ability and Japanese qualifications (librarian certification) are needed, making it challenging. There is also the route of using programs like the Japan Foundation.
+**问：外国人可以在日本担任图书馆员吗？**
+答：在人文/国际服务工程师/专家身份下可能可行，但公共图书馆需要公务员考试，且需要日语能力和日本资格（图书管理员认证），因此具有挑战性。还有利用日本基金会等项目的途径。
 
-**问：How can I advance my career as a librarian?**
-答：There are paths to specialize in areas such as reference services, digital archives, and services for people with disabilities, or to pursue a master's degree in library and information science to aim for university or special libraries.
+**问：作为图书管理员，我如何提升职业？**
+答：有路径专攻参考服务、数字档案、残疾人服务等领域，或攻读图书馆与信息科学硕士学位以进入大学或专业图书馆。
 
 
 ---
@@ -144,12 +135,12 @@ After obtaining a librarian certificate, the path from part-time to full-time in
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/librarian/JP)**

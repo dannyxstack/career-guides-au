@@ -53,8 +53,6 @@ Industrial ceramics process and equipment technicians are responsible for the pr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The workflow for industrial ceramics process and equipment technicians is highly structured but involves tacit experience such as equipment anomaly handling and recipe adjustments. AI will take over parameter monitoring and predictive maintenance, but human-machine collaboration and on-site problem judgment remain core; the role will not disappear but will be reshaped.
-
 Career progression paths include advancing from operator to production line supervisor, process optimisation engineer, or becoming a ceramics technology specialist through further training. Alternatives include moving into quality management, R&D, or equipment sales. Dual vocational training is the primary entry route.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression paths include advancing from operator to production line supe
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on a points system, implemented in 2024, allowing entry to Germany to look for work |
 | Subclass EU Blue Card (EU Blue Card) | Requires an annual salary threshold of approximately €43,800 (2023), typically requires higher education background, non-traditional pathway. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Yes. Can be promoted to production line supervisor, technical manager, or bec
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-ceramics-technician-process-and-plant-engineering/DE)**

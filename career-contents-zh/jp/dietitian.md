@@ -1,10 +1,8 @@
 # 营养师（Dietitian）职业分析 · 日本
 
-**职业代码: 151 (JSCO)**
+**职业代码：151 (JSCO)**
 
-A dietitian is a professional who manages nutrition and provides dietary guidance at cafeterias, hospitals, and schools to support healthy eating habits.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+营养师是在食堂、医院和学校管理营养并提供饮食指导，支持健康饮食习惯的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A dietitian is a professional who manages nutrition and provides dietary guidanc
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Dietitian training program (junior college or vocational school) | 2 年 | $2,000,000~$3,000,000（Estimated tuition (total for 2 years)） |
-| Registered dietitian training program (university) | 4年 | $4,000,000~$6,000,000（Estimated tuition (total for 4 years)） |
+| 营养师培训项目（大专或职业学校） | 2 年 | $2,000,000~$3,000,000（预估学费（2年总计）） |
+| 注册营养师培训项目（大学） | 4年 | $4,000,000~$6,000,000（预估学费（4年总计）） |
 
 ---
 
@@ -22,17 +20,17 @@ A dietitian is a professional who manages nutrition and provides dietary guidanc
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Dietitian License | Prefectural Governor | 必备 | Obtainable upon graduation from an accredited school. Mandatory. |
-| National Registered Dietitian Certification | Ministry of Health, Labour and Welfare | 可选 | Obtained via national exam after work experience. Advantageous. |
+| 营养师执照 | 县长 | 必备 | 从经认可学校毕业即可获得。强制要求。 |
+| 国家注册营养师认证 | 厚生劳动省 | 可选 | 通过工作经验后的国家考试获得。有优势。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 150,000. Demand is stable due to an aging population and rising health awareness, but competition is somewhat intense due to many qualified individuals. Be mindful of the increase in outsourcing of food service operations.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 150,000。由于人口老龄化和健康意识提高，需求稳定，但由于合格人员众多，竞争有些激烈。注意餐饮服务外包增加的趋势。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,89 +38,82 @@ A dietitian is a professional who manages nutrition and provides dietary guidanc
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,000,000~$3,600,000 | Hospitals, food service companies, etc. |
-| Mid-career (4–10 years) | $3,600,000~$4,500,000 | Increases with registered dietitian certification |
-| Veteran (10+ years) | $4,500,000~$5,500,000 | Management or facility director level |
+| 初级（0-3年） | $3,000,000~$3,600,000 | 医院、餐饮公司等。 |
+| 中级（4-10年） | $3,600,000~$4,500,000 | 随着注册营养师认证而增加 |
+| 资深（10年以上） | $4,500,000~$5,500,000 | 管理层或设施总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-With the spread of AI-based nutrition calculation and diet management apps, routine tasks may be automated, but human guidance and personalized support will remain human-led.
+随着基于AI的营养计算和饮食管理应用的普及，常规任务可能被自动化，但人工指导和个性化支持仍将由人类主导。
 
-Career paths are diverse: advancement to registered dietitian with experience, management roles in hospitals and welfare facilities, or independent practice as a freelance dietitian.
+职业路径多样：经验积累后可晋升为注册营养师，管理医院和福利机构，或成为独立执业的自由营养师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Partial automation of nutrition calculation and menu planning
-- Data entry and form creation
-- Checking meal records
+- 营养计算和菜单规划的部分自动化
+- 数据录入与表格创建
+- 检查用餐记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Individual optimization of nutritional guidance
-- Utilization of diet management apps
-- Nutrition data analysis
+- 营养指导的个性化优化
+- 利用饮食管理应用程序
+- 营养数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal counseling
-- Handling individual preferences and medical conditions
-- Understanding food culture
+- 人际咨询
+- 处理个人偏好和医疗状况
+- 了解饮食文化
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Nutritional guidance skills
-- Management ability
-- Digital tool proficiency
+- 营养指导技能
+- 管理能力
+- 数字工具熟练度
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Home medical care and nursing nutrition
-- Sports nutrition
-- Food service management
-- Digital nutrition guidance
+- 家庭医疗与护理营养
+- 运动营养
+- 餐饮服务管理
+- 数字营养指导
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Common residence status for foreigners working as dietitians. Requires a university degree or equivalent work experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Not applicable)) | Nutritionists are not covered by the Specified Skilled Worker category, so this visa cannot be used. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in food and health
-- People with strong communication skills
-- Accurate and meticulous people
+- 对食品和健康感兴趣的人
+- 沟通能力强的人
+- 精确细致的人
 
 **谁不适合**
-- People not good at hygiene management
-- People who dislike irregular working hours
+- 不善于卫生管理的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a nutritionist?**
-答：Generally 3.5 million to 4.5 million yen, and with a registered dietitian qualification, it can be over 5 million yen.
+**问：营养师的平均年收入是多少？**
+答：一般为350万至450万日元，持有注册营养师资格可达500万日元以上。
 
-**问：How can foreigners work as nutritionists in Japan?**
-答：A residence status of 'Engineer/Specialist in Humanities/International Services' is required. In addition to a nutritionist license, a university degree or more than 10 years of practical experience is required.
+**问：外国人如何在日本成为营养师？**
+答：需持有‘工程师/人文/国际服务专家’居留身份。除营养师执照外，还需大学学位或10年以上实践经验。
 
 
 ---
@@ -140,12 +131,12 @@ Career paths are diverse: advancement to registered dietitian with experience, m
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dietitian/JP)**

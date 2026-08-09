@@ -54,8 +54,6 @@ Works in slaughterhouses and meat processing plants performing meat cutting, deb
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Industrial butchers and meat cutters face high automation risk; large plants already use robots for repetitive cutting, deboning, and packaging. Cold storage accelerates machine deployment; positions may shrink by over 30% in the next decade.
-
 Can progress from entry-level operator to senior boner, production line supervisor, or obtain slaughter inspection certification to transition into regulatory roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from entry-level operator to senior boner, production line supervis
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored temporary visa, can transition to 191 permanent residency |
 | Subclass DAMA (Designated Area Migration Agreement) | Specific regional agreement providing more relaxed sponsorship conditions |
 
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: low (★½☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to senior boner, production line supervisor, or move into mea
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-process-worker/AU)**

@@ -1,10 +1,8 @@
-# Funeral Director and Funeral Counselor 职业分析 · 韩国
+# 殡葬师和丧葬顾问（Funeral Director and Funeral Counselor）职业分析 · 韩国
 
-**职业代码: 51231 (KECO)**
+**职业代码：51231 (KECO)**
 
-A professional who plans and manages the entire funeral process, and counsels and guides bereaved families on funeral procedures and products.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+规划和管理整个葬礼流程的专业人士，就葬礼程序和产品为丧属提供咨询和指导。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans and manages the entire funeral process, and counsels an
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中及以上学历 | 3年 | $3,000,000~$5,000,000（Vocational institute or online courses） |
-| Associate degree or above | 2 年 | $5,000,000~$10,000,000（Credit recognition when graduating from a funeral-related department） |
+| 高中及以上学历 | 3年 | $3,000,000~$5,000,000（职业学院或在线课程） |
+| 大专及以上学历 | 2 年 | $5,000,000~$10,000,000（殡葬相关专业毕业时的学分认定） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who plans and manages the entire funeral process, and counsels an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Funeral Director License | Human Resources Development Service of Korea | 必备 | Required, written and practical exams |
-| Private Funeral Counselor Certification | Korea Funeral Culture Promotion Institute | 可选 | Optional, preferred |
+| 国家殡葬主任执照 | 韩国人力资源开发服务局 | 必备 | 必需，笔试和实操考试 |
+| 私人殡葬师认证 | 韩国殡葬文化振兴院 | 可选 | 可选，优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to an aging population and increase in single-person households, funeral demand remains steady, but changes in funeral culture and intensifying competition have led to stagnant employment.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于人口老龄化和单身家庭增加，殡葬需求保持稳定，但殡葬文化变化和竞争加剧导致就业停滞。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,88 +38,81 @@ A professional who plans and manages the entire funeral process, and counsels an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Varies with sales commission |
-| Intermediate (4–7 years) | $30,000,000~$40,000,000 | 含奖金及补贴 |
-| Advanced (8+ years) | $40,000,000~$60,000,000 | Management and branch manager salary |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 随销售佣金变化 |
+| 中级（4-7年） | $30,000,000~$40,000,000 | 含奖金及补贴 |
+| 高级（8年以上） | $40,000,000~$60,000,000 | 管理和分店经理薪资 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI cannot fully replace funeral directors due to the core role of emotional communication and ritual performance, some administrative tasks like pre-consultation and document processing can be automated.
+虽然AI无法完全取代殡仪师，因为情感交流和仪式表演是核心角色，但一些行政任务如预先咨询和文件处理可以自动化。
 
-After obtaining a funeral director license, one can join a funeral home or funeral company, and can be promoted to team leader or branch manager with experience.
+获得殡葬师执照后可加入殡仪馆或殡葬公司，凭经验可晋升为组长或分店经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Funeral reservation and payment processing
-- Basic consultation script guidance
+- 葬礼预订与付款处理
+- 基础咨询脚本指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Funeral video production
-- Pre-need funeral product recommendation
+- 葬礼视频制作
+- 生前殡葬产品推荐
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional connection with bereaved families
-- Delicacy in ritual performance
+- 与丧亲家庭的情感联系
+- 仪式表演中的精细技巧
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Non-face-to-face counseling skills
-- IT proficiency in funeral services
+- 非面对面咨询技能
+- 殡葬服务中的IT熟练度
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging society
-- Increase in single-person households
-- Diversification of funeral culture
-- Pre-need funeral products
+- 老龄化社会
+- 单人家庭增加
+- 殡葬文化的多元化
+- 预先安排殡葬产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for this occupation but issuance is rare |
-| Subclass F-2 (F-2 (Residence)) | Requires permanent residency or eligible visa |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Emotionally stable individuals
-- Meticulous and organized individuals
-- Crisis management skills
+- 情绪稳定的人
+- 细心有条理的人
+- 危机管理技能
 
 **谁不适合**
-- Prone to emotional burnout
-- Avoids night and weekend work
+- 容易情绪倦怠
+- 避免夜间和周末工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a funeral director?**
-答：About 24 to 30 million KRW for entry-level, up to 60 million KRW with experience and allowances.
+**问：葬礼总监的平均薪资是多少？**
+答：入门级约2400万至3000万韩元，有经验和津贴可达6000万韩元。
 
-**问：Can foreigners work as funeral directors in Korea?**
-答：Theoretically possible with an E-7 visa, but actual cases are rare, and Korean language skills and certification are mandatory.
+**问：外国人能在韩国担任殡葬师吗？**
+答：理论上可凭E-7签证实现，但实际案例很少，且韩语能力和认证是必需的。
 
-**问：Is it difficult to obtain a funeral director license?**
-答：Must pass written and practical exams; pass rate is around 60~70%, which is average.
+**问：获得殡葬总监执照难吗？**
+答：必须通过笔试和实践考试；通过率约60~70%，属于平均水平。
 
 
 ---
@@ -139,12 +130,12 @@ After obtaining a funeral director license, one can join a funeral home or funer
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/funeral-director-and-funeral-counselor/KR)**

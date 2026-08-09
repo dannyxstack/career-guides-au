@@ -54,8 +54,6 @@ Involves planting, managing, harvesting, and primary processing of grains, oilse
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI/automation has mixed impacts on this occupation: some physical and optimization tasks (e.g., seeding, fertilizing, pesticide spraying) can be replaced by autonomous machinery and drones, but on-site judgment, machinery maintenance, and emergency handling still require humans; entry-level positions may narrow, but skilled workers capable of operating smart systems will increase in value.
-
 General farm workers can advance to senior farm operators, farm foremen, or production supervisors. With experience, they may become agricultural contractors or farm owners, requiring precision agriculture skills.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ General farm workers can advance to senior farm operators, farm foremen, or prod
 | Subclass 482 (Temporary Skill Shortage Visa) | If employer-sponsored and the occupation is on the CSOL, but this occupation is usually not on the core skills list |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, with opportunities if the occupation is on the DAMA list |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Mainly includes machinery operation accidents, chemical exposure, heat stroke
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-oilseed-pulse-and-pasture-farm-worker-aus-field-farm-worker-nz/AU)**

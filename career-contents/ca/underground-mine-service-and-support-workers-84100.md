@@ -54,8 +54,6 @@ Perform support tasks such as support, ventilation, and track laying in undergro
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Many supervisory and reporting tasks of the mine deputy will be automated by AI, but underground safety responsibilities, emergency decisions, and interpersonal coordination skills remain defensible. The overall role will evolve into an AI-enhanced management role.
-
 Junior workers can advance to mine technician or team leader through experience and certification; some may move into mine safety supervision or management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior workers can advance to mine technician or team leader through experience 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs (e.g., Ontario, BC) target mining workers |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | Must meet NOC TEER 2 requirements, but typically requires LMIA or provincial nomination points |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Primarily via LMIA employer-sponsored work permit; after gaining work experie
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underground-mine-service-and-support-workers-84100/CA)**

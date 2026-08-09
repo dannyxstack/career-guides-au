@@ -53,8 +53,6 @@ Surgeons are doctors specializing in surgical treatment, responsible for diagnos
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists with diagnosis and image analysis, but core surgical skills cannot be replaced; entry-level roles become more competitive due to AI efficiency gains, but demand for specialists remains stable.
-
 Typical path: Medical school (4 years) → Residency training (5 years) → Specialty fellowship (2-3 years) → Independent practice or hospital employment. May advance to department head or academic position.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typical path: Medical school (4 years) → Residency training (5 years) → Spec
 | Subclass PNP (Provincial Nominee Program) | Some provinces have doctor-specific provincial nominations that can expedite permanent residency. |
 | Subclass Express Entry (Express Entry (FSW/CEC)) | High-scoring candidates can apply directly, but need ECA credential assessment |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold an MD degree, pass RCPSC specialist certification, and obtain a pro
 | Work intensity | very high (★★★★½) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/specialists-in-surgery/CA)**

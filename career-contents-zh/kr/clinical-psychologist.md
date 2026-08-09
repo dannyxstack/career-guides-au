@@ -1,10 +1,8 @@
 # 临床心理学家（Clinical Psychologist）职业分析 · 韩国
 
-**职业代码: 30661 (KECO)**
+**职业代码：30661 (KECO)**
 
-A professional who conducts psychological assessments and psychotherapy in psychiatric departments, counseling centers, schools, etc.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在精神科、咨询中心、学校等场所进行心理评估和心理治疗的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who conducts psychological assessments and psychotherapy in psych
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 心理学本科学位 | 4年 | $10,000,000~$20,000,000（Tuition based on national/public university rates） |
-| Acquisition of Level 2 Clinical Psychologist certification | 1年 | $3,000,000~$5,000,000（培训与考试费用） |
+| 心理学本科学位 | 4年 | $10,000,000~$20,000,000（按国立/公立大学标准收费） |
+| 获得二级临床心理学家认证 | 1年 | $3,000,000~$5,000,000（培训与考试费用） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who conducts psychological assessments and psychotherapy in psych
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Level 1 Clinical Psychologist | Human Resources Development Service of Korea | 必备 | Master's degree or higher + at least 2 years of training required |
-| Level 2 Clinical Psychologist | Human Resources Development Service of Korea | 必备 | Bachelor's degree or higher + 1 year of training required |
-| Clinical Psychology Specialist | Korean Clinical Psychology Association | 可选 | Private certification, high credibility |
+| 一级临床心理学家 | 韩国人力资源开发服务局 | 必备 | 硕士学位或更高 + 至少2年培训要求 |
+| 二级临床心理学家 | 韩国人力资源开发服务局 | 必备 | 本科或以上学历 + 1年培训要求 |
+| 临床心理学专家 | 韩国临床心理学协会 | 可选 | 私人认证，可信度高 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,000. Demand is expected to steadily increase with growing social interest in mental health, and job opportunities are expanding in both public and private sectors.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,000。随着社会对心理健康的关注日益增加，需求预计将稳步增长，公共和私营部门的就业机会正在扩大。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,91 +39,83 @@ A professional who conducts psychological assessments and psychotherapy in psych
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$40,000,000 | Based on public institution standards |
-| Intermediate (4-10 years) | $40,000,000~$55,000,000 | Including private counseling centers |
-| Advanced (10+ years) | $55,000,000~$80,000,000 | Level 1 certification holder |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于公共机构标准 |
+| 中级（4-10年） | $40,000,000~$55,000,000 | 包括私人咨询中心 |
+| 高级（10年以上） | $55,000,000~$80,000,000 | 一级认证持有者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist with some of the tasks of a clinical psychologist, but it is difficult to fully replace human empathy and therapeutic relationships. AI is likely to replace tasks such as analysis of psychological assessment tools or record keeping, but counseling and diagnosis will remain human roles.
+AI可协助临床心理学家部分任务，但难以完全替代人类共情和治疗关系。AI可能替代心理评估工具分析或记录保存，但咨询和诊断需人类角色。
 
-After promotion from Level 2 to Level 1, career advancement to hospitals, counseling centers, and public institutions is possible. Specialization through graduate school and training courses is common.
+从2级晋升到1级后，可向医院、咨询中心和公共机构职业发展。通过研究生院和培训课程进行专业化很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Analysis of psychological test results
-- Organization of behavioral observation records
+- 心理测试结果分析
+- 行为观察记录的组织
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Counseling case management
-- Development of treatment plans
+- 咨询案例管理
+- 制定治疗方案
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person counseling skills
-- Empathy skills
-- Interpretation of non-verbal cues
+- 面对面咨询技能
+- 共情能力
+- 非语言暗示解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital literacy
-- Data analysis
-- Online counseling skills
+- 数字素养
+- 数据分析
+- 在线咨询技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of mental health awareness
-- Strengthening public psychological support
-- Increasing demand for counseling for the elderly and children
-- COVID-19 aftereffects
+- 心理健康意识的扩展
+- 加强公众心理支持
+- 针对老年人和儿童的咨询需求增加
+- COVID-19后遗症
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence Visa) | Targeted at long-term residents, few employment restrictions |
-| Subclass F-4 (Overseas Korean Visa) | Overseas Korean professionals eligible for employment |
-| Subclass E-7 (Specific Activities Visa) | Professional field employment visa, requires psychology degree and experience |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in helping others
-- People with a deep interest in psychology
-- People with strong patience and empathy
+- 以帮助他人为乐的人
+- 对心理学有浓厚兴趣的人
+- 耐心和同理心强的人
 
 **谁不适合**
-- People with extreme mood swings
-- People who avoid interpersonal relationships
+- 情绪波动大的人
+- 回避人际关系的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a clinical psychologist?**
-答：The starting salary is usually around 30-40 million KRW, varying by public institutions and private centers.
+**问：临床心理学家的起薪是多少？**
+答：起薪通常在3000-4000万韩元，因公共机构和私人中心而异。
 
-**问：Can foreigners work as clinical psychologists in Korea?**
-答：Possible with E-7 visa, but requires Korean language proficiency and a Korean psychology degree or related qualifications.
+**问：外国人在韩国能做临床心理学家吗？**
+答：持E-7签证可能可行，但需要韩语能力以及韩国心理学学位或相关资质。
 
-**问：What are the educational requirements to become a clinical psychologist?**
-答：At least a bachelor's degree in psychology is required, and for level 2 or higher certification, a training course must be completed.
+**问：成为临床心理学家需要哪些教育要求？**
+答：需至少心理学学士学位，2级或以上认证需完成培训课程。
 
 
 ---
@@ -143,12 +133,12 @@ After promotion from Level 2 to Level 1, career advancement to hospitals, counse
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/clinical-psychologist/KR)**

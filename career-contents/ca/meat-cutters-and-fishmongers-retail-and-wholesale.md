@@ -53,8 +53,6 @@ Cut, bone, pack meat and fish in retail or wholesale settings, serve customers, 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Meat cutters and fishmongers rely heavily on fine manual skills and on-site judgment; AI cannot easily replace core cutting tasks, but automated sorting, smart inventory management, and self-checkout systems will significantly reduce entry-level job demand and simple repetitive tasks.
-
 Entry-level cutters can advance to senior cutters, department heads, or procurement specialists; some can open their own retail stores.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Entry-level cutters can advance to senior cutters, department heads, or procurem
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: This occupation usually does not meet the requirements for Federal Skilled Wo
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-cutters-and-fishmongers-retail-and-wholesale/CA)**

@@ -51,8 +51,6 @@ A construction stonemason is a skilled professional who cuts and shapes stone fo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can assist cutting and processing parts of stone work, but traditional stone stacking and stone fitting require precise manual work that is hard to replace, so impact is limited.
-
 Career progression: skilled worker → advanced stonemason → site manager → self-employed (stone masonry specialist). Obtaining a Cultural Heritage Repair Technician certification enhances expertise.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Career progression: skilled worker → advanced stonemason → site manager → 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers, limited to some construction industries, stay up to 3 years |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled technical personnel, needs recommendation from HRD Korea, stay extension possible |
-| Subclass F-2 (F-2 (Residence)) | Points system, obtainable after long-term stay with recognized skilled technician status |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +137,12 @@ A: Stone Mason Certificate (not mandatory), Cultural Heritage Repair Technician 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-stonemason/KR)**

@@ -51,8 +51,6 @@ Survey researchers design, conduct, and analyze surveys, commonly used in market
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI brings mixed results for research staff: data collection and analysis are automated, but research design, ethical judgment, and client communication still rely on humans; jobs will not disappear but will be transformed.
-
 Junior researchers can advance to senior analyst or project manager; need to master statistical software and survey design skills. Those with a master's or doctorate can pursue academic or senior government research roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior researchers can advance to senior analyst or project manager; need to mas
 | Subclass H-1B (H-1B Specialty Occupations) | Requires a bachelor's degree or higher, employer sponsorship, limited annual quota, and a lottery system. |
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Applicable for master's or bachelor's +5 years experience, requires PERM labor certification, long wait times |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Commonly via H-1B work visa (requires bachelor's degree or higher, lottery) o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/survey-researchers/US)**

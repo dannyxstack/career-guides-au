@@ -51,8 +51,6 @@ Investigate pest infestations, using traps, chemical treatments, etc. to elimina
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation on pest control workers is mixed: field operations and decision-making are difficult to fully replace, but data analysis and remote monitoring will increase efficiency while potentially reducing entry-level positions.
-
 Can advance to senior technician or team supervisor through experience; some start their own pest control companies.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can advance to senior technician or team supervisor through experience; some sta
 | Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible sponsorship list; can apply for a skilled worker visa, requires employer sponsorship and meeting salary threshold |
 | Subclass Graduate (Graduate Visa) | Degree holders can work in the UK for 2 years on a Graduate visa, then switch to a Skilled Worker visa after gaining experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: Yes, this occupation is on the Skilled Worker visa eligible list and is in sh
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pest-controllers/UK)**

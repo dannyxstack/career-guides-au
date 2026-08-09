@@ -51,8 +51,6 @@ A house builder is responsible for constructing and renovating residential build
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The automation risk for construction tasks is moderate; manual work like bricklaying and concrete pouring is hard to replace by AI, but design optimization, project management, etc., can improve efficiency through AI. Entry-level positions remain largely unchanged, but skill requirements shift towards digital tools.
-
 Can progress from apprentice to skilled tradesperson, foreman or self-employed contractor, with further advancement to project manager or building company partner.
 
 **Tasks most exposed to AI:**
@@ -93,15 +91,9 @@ Can progress from apprentice to skilled tradesperson, foreman or self-employed c
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, annual quota is limited; requires employer sponsorship. Applies to shortage positions in the construction industry. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, requiring a university degree or 5 years of experience, with a salary threshold of approximately €28,000/year. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -142,12 +134,12 @@ A: Apply via the Decreto Flussi quota work visa (requires employer sponsorship) 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/house-builder/IT)**

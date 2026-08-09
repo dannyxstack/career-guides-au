@@ -54,8 +54,6 @@ Registered specialist nurses provide specialist care and ongoing treatment to pa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Impact of AI/automation on registered specialist nurses is mixed: some documentation and data analysis tasks will be replaced, but direct patient care, clinical judgment, and team collaboration are hard to automate; AI can enhance diagnostic assistance and individualized care planning.
-
 Entry-level nurses can advance to specialist nurses through specialised training (e.g., intensive care, oncology), then progress to clinical nurse specialist, nursing consultant, nursing management, or education and research roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level nurses can advance to specialist nurses through specialised training
 | Subclass Skilled Worker (Skilled Worker visa) | If employer-sponsored, specialized nurses are eligible, but must meet salary thresholds. |
 | Subclass Global Talent (Global Talent visa) | Only applicable to senior nursing specialists with outstanding achievements or leadership. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to clinical nurse specialist, nursing consultant, nursing manager
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-specialist-nurses/UK)**

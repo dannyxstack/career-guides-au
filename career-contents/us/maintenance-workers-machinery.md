@@ -55,8 +55,6 @@ Responsible for lubrication, replacing parts, and performing routine mechanical 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will take over some diagnostic and predictive maintenance tasks, but field operations, complex troubleshooting, and safety compliance responsibilities still rely on humans. Overall outlook is mixed.
-
 Can advance from junior technician to senior maintenance technician or supervisor; with experience, can move into equipment management or automation maintenance roles, requiring continuous learning of new technologies.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Can advance from junior technician to senior maintenance technician or superviso
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Can progress from junior technician to senior maintenance technician, mainten
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maintenance-workers-machinery/US)**

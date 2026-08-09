@@ -50,8 +50,6 @@ A professional who performs construction planning, process management, cost esti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI shows strengths in quantitative cost estimation and automated process simulation, but human experience and judgment are essential for handling site variables and design change negotiations. AI is used as a supplementary tool, and full replacement of the job is difficult.
-
 Starting as a junior technician, you can gain field experience, then advance to construction team leader, project manager (PM), or technical executive after obtaining a professional engineer license.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a junior technician, you can gain field experience, then advance to 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for skilled technical personnel based on employment contract. Requires invitation from a Korean company. |
-| Subclass E-9 (Non-professional Employment) | Usable for general construction labor but not suitable for skilled technicians. |
-| Subclass F-2 (Residence) | Convertible to points-based system. Allows long-term stay and free employment. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +131,12 @@ A: The E-7 (Specific Activities) visa is common, and conversion to F-2 is possib
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-construction-technician-and-estimator/KR)**

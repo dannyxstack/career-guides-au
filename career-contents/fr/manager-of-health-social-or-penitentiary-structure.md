@@ -4,8 +4,6 @@
 
 Responsible for managing the overall operation of medical institutions (such as hospitals and clinics), social service institutions (such as nursing homes, welfare centers), or prison facilities, including strategic planning, budget management, human resources coordination, and compliance supervision.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for managing the overall operation of medical institutions (such as 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of health, social, or prison institution management leaders will be significantly reshaped by AI: administrative and compliance tasks can be highly automated, but complex decision-making, crisis management, and interpersonal trust still require human leadership, resulting in a mixed landscape for the overall role.
-
 Promotion usually starts from department heads (such as Nursing Director, Administrative Manager), requires management experience, and may lead to master's studies (such as MAE). You can turn to regional health agency directors, operations directors of large hospital groups, or consultants.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Promotion usually starts from department heads (such as Nursing Director, Admini
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Employee on Mission / Qualified Employee)) | Applicable to high-skilled management positions, with an annual salary of ≥40,000 euros and a 3-year contract. |
-| Subclass Salarié (Salarié (Work Permit)) | French employer sponsorship is required, work permits are tied to the position, and usually labor market tests are required. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary requirement ≥ €53,485 (2024), with a contract of at least one year, suitable for senior management positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: Typical path: Department Manager → Deputy General Manager of Institutions �
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-of-health-social-or-penitentiary-structure/FR)**

@@ -53,8 +53,6 @@ Insurance investigators investigate suspicious insurance claims, gather evidence
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Insurance investigators face medium automation risk; some tasks (e.g., document review) can be replaced by AI, but core investigation, interpersonal negotiation, and legal evidence chain construction still rely on human judgment. Entry-level positions may slightly shrink due to AI tools, but senior roles increase in value.
-
 Practitioners can gain experience and advance to senior investigator, investigation manager, or transition to risk management and compliance departments. Some may start their own investigation firms or become independent consultants.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Practitioners can gain experience and advance to senior investigator, investigat
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored visa, but insurance investigators are usually not on the occupation list, rarely applicable. |
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, but this occupation is usually not on the sponsorship list. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a private investigator license (issued by each state), and s
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-investigator/AU)**

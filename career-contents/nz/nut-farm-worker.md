@@ -55,8 +55,6 @@ Nut farm workers are responsible for planting, cultivating, harvesting, and init
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Nut farm workers face risk of automation compression; physical tasks like picking and sorting can be replaced by machines, but complex field management still requires human labor, reducing entry-level positions.
-
 From entry-level worker, can advance to senior farm worker, team leader, then farm supervisor. With experience, can also shift to other horticultural crops or management roles. But career ceiling is low; need agricultural certificates or degrees for better advancement.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ From entry-level worker, can advance to senior farm worker, team leader, then fa
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Basic requirements include physical fitness, ability to work outdoors, basic 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nut-farm-worker/NZ)**

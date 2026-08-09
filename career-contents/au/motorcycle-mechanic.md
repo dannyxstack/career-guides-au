@@ -52,8 +52,6 @@ Motorcycle mechanics are responsible for repairing, maintaining, and modifying m
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
-
 Entry-level technicians can advance to senior technicians, workshop supervisors, or open their own repair shops. They can also specialize in specific brands or high-performance modifications, or shift to motorcycle event support.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level technicians can advance to senior technicians, workshop supervisors,
 | Subclass 189 (Skilled Independent Visa) | Skilled Independent visa (subclass 189), on the MLTSSL, requires high points invitation |
 | Subclass 190 (Skilled Nominated Visa) | State-nominated permanent residence visa, on the CSOL, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Australia's growing motorcycle ownership and stable maintenance demand make t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-mechanic/AU)**

@@ -1,6 +1,6 @@
-# QA Engineer 职业分析 · 澳大利亚
+# QA工程师（QA Engineer）职业分析 · 澳大利亚
 
-**职业代码: 261314 (ANZSCO)**
+**职业代码：261314 (ANZSCO)**
 
 测试工程师（QA Engineer）负责软件测试、缺陷发现和质量保证，确保产品符合功能和性能要求。澳洲软件行业高速发展，自动化测试（Selenium、Playwright、Cypress）技能的测试工程师需求持续增长，是进入IT行业的重要路径之一。
 
@@ -11,9 +11,9 @@
 
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
-| Bachelor of IT / Computer Science | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
-| ISTQB Foundation / Advanced Certification | 1~3个月 | $400~$1,500（行业基础认证） |
-| Test Automation Tools Portfolio (Selenium/Playwright) | 3~6个月自学 | $0~$500（实战项目组合） |
+| IT/计算机科学学士 | 3年 | $25,000~$45,000（国际生约$100k~$140k总费） |
+| ISTQB 基础/高级认证 | 1~3个月 | $400~$1,500（行业基础认证） |
+| 测试自动化工具集（Selenium/Playwright） | 3~6个月自学 | $0~$500（实战项目组合） |
 
 ---
 
@@ -21,18 +21,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of IT / Software Engineering | 认可大学 | 可选 | 入行基础 |
-| ISTQB Certified Tester Foundation Level | ISTQB | 可选 | 行业基础认证 |
-| ISTQB Advanced Test Automation Engineer | ISTQB | 可选 | 自动化测试高级认证 |
+| IT/软件工程学士 | 认可大学 | 可选 | 入行基础 |
+| ISTQB认证测试员基础级 | ISTQB | 可选 | 行业基础认证 |
+| ISTQB高级测试自动化工程师 | ISTQB | 可选 | 自动化测试高级认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 14,000. 敏捷开发和DevOps的普及推动测试左移（Shift-Left Testing），测试工程师须深度融入开发流程。AI辅助测试工具快速普及改变了传统手工测试方式，但测试架构设计和质量策略制定仍需专业人员。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 14,000。敏捷开发和DevOps的普及推动测试左移（Shift-Left Testing），测试工程师须深度融入开发流程。AI辅助测试工具快速普及改变了传统手工测试方式，但测试架构设计和质量策略制定仍需专业人员。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,44 +41,44 @@
 | 经验水平 | 年薪 (AUD) | 备注 |
 |---|---:|---|
 | 薪资中位数 | $131,924 | 全职周中位收入×52 年化（来源：ABS EEH May 2025，ANZSCO 4位） |
-| 初级（0–3年） | $62,000~$82,000 | Junior QA Engineer |
-| 中级（3~8年） | $85,000~$120,000 | QA/Automation Engineer |
-| 高级（8年+） | $123,000~$165,000 | Senior QA / Test Lead |
+| 初级（0–3年） | $62,000~$82,000 | 初级QA工程师 |
+| 中级（3~8年） | $85,000~$120,000 | QA/自动化工程师 |
+| 高级（8年+） | $123,000~$165,000 | 高级QA/测试主管 |
 | 平均薪资 | $106,600 | 全体雇员周均总现金×52 年化（来源：ABS EEH May 2025，ANZSCO 大类） |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
 测试工程师岗位整体受AI影响喜忧参半：自动化测试脚本编写、回归测试等重复性任务容易被AI替代，但AI也显著提升了测试覆盖率和效率，同时新兴的AI测试、模型评估等方向创造了新机会。
 
 手工测试岗位快速减少，自动化测试框架（Selenium、Playwright）和API测试（Postman/RestAssured）成为必备技能。性能测试（JMeter、k6）和安全测试（OWASP）方向薪资溢价明显，CI/CD集成测试技能是招聘热点。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 根据需求文档自动生成测试用例和脚本
 - 回归测试的批量执行和结果比对
 - 基于历史缺陷数据的自动Bug定位与分类
 - 简单功能的手动探索性测试（被AI驱动工具替代）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI推荐关键测试场景，提升测试覆盖深度
 - AI辅助生成测试数据、模拟复杂用户行为
 - 通过AI日志分析自动发现潜在缺陷和性能瓶颈
 - AI驱动的视觉测试和跨浏览器兼容性检查
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂业务逻辑的理解与端到端场景设计
 - 非功能性测试策略（安全、可用性、可访问性）
 - 与开发、产品团队协作推进质量文化
 - 新兴技术（如AI模型、区块链）的测试方法论创新
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI/机器学习基础：理解模型训练、评估、偏见检测
 - AI测试工具：如Test.ai、Applitools、Functionize
@@ -86,16 +86,16 @@
 - 数据分析与可视化：从测试数据提炼质量指标
 - 低代码/无代码测试平台搭建能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Test Automation (Selenium/Playwright)
-- Performance & Load Testing
-- Security Testing
-- AI-Assisted Testing
+- 测试自动化（Selenium/Playwright）
+- 性能与负载测试
+- 安全测试
+- AI辅助测试
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -104,9 +104,7 @@
 | Subclass 186 (ENS) | 永居通道 |
 | Subclass 190 (Skilled Nominated) | 州提名 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -147,12 +145,13 @@
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/qa-engineer/AU)**

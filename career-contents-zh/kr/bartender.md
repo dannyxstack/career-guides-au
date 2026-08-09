@@ -1,10 +1,8 @@
 # 调酒师（Bartender）职业分析 · 韩国
 
-**职业代码: 53161 (KECO)**
+**职业代码：53161 (KECO)**
 
-A bartender is a food service professional who mixes alcoholic and non-alcoholic drinks for customers and manages bar operations and atmosphere.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+调酒师是负责为顾客调制含酒精和非酒精饮料并管理吧台运营和氛围的餐饮服务专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A bartender is a food service professional who mixes alcoholic and non-alcoholic
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Specialized high school (Culinary & Food Service) | 3年 | $0~$6,000,000（Free public education; private schools charge separate fees） |
-| Academy (Bartender training course) | 6 months | $2,000,000~$5,000,000（Government subsidy available） |
+| 特色高中（烹饪与餐饮服务） | 3年 | $0~$6,000,000（免费公立教育；私立学校收取单独费用） |
+| 学院（调酒师培训课程） | 6个月 | $2,000,000~$5,000,000（可申请政府补贴） |
 
 ---
 
@@ -22,17 +20,17 @@ A bartender is a food service professional who mixes alcoholic and non-alcoholic
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bartender Career Certificate | 前雇主 | 必备 | Proof of practical experience, required by most |
-| Craftsman Bartending | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory but advantageous for employment |
+| 调酒师职业证书 | 前雇主 | 必备 | 实践经验证明，大多数要求 |
+| 工艺调酒 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制但就业时有优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 45,000. Demand contracted after COVID-19, but with the recovery of the food service and bar industry and an increase in tourists, moderate recovery in manpower demand is expected through 2025. In a market dominated by self-employed businesses, frequent movement of experienced workers leads to steady entry of newcomers.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 45,000。疫情后需求收缩，但随着餐饮和酒吧行业复苏以及游客增加，预计到2025年人力需求将温和恢复。在以自雇企业为主的市场中，经验丰富的工人频繁流动，导致新人稳定进入。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A bartender is a food service professional who mixes alcoholic and non-alcoholic
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $24,000,000~$30,000,000 | Mainly hourly wage, pre-tax |
-| 中级（3-7年） | $30,000,000~$40,000,000 | Higher in hotels or famous bars |
-| Senior (7 years+) | $40,000,000~$60,000,000 | Head bartender or manager level, tips additional |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 主要是时薪，税前 |
+| 中级（3-7年） | $30,000,000~$40,000,000 | 在酒店或知名酒吧中更高 |
+| 高级（7年以上） | $40,000,000~$60,000,000 | 首席调酒师或经理级别，小费另计 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists bartenders with some tasks like creative cocktail development, recipe recommendation, and inventory management, but core roles such as customer conversation, atmosphere creation, and sensory judgment must be performed by humans.
+AI协助调酒师完成部分任务，如创意鸡尾酒开发、配方推荐和库存管理，但客户交谈、氛围营造和感官判断等核心角色必须由人类完成。
 
-Recruitment is mainly for experienced positions, and after 5–10 years in upscale hotels or premium bars, one can advance to head bartender or manager. Starting a business or winning cocktail competitions is also a career path.
+招聘主要面向有经验者，在高档酒店或高级酒吧工作5-10年后，可晋升为首席调酒师或经理。创业或赢得调酒比赛也是职业路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Beverage Preparation
-- Inventory Management
-- Recipe Search
+- 简单饮品制备
+- 库存管理
+- 食谱搜索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Cocktail Recipe Development
-- Personalized Recommendations
-- Trend Analysis
+- 鸡尾酒配方开发
+- 个性化推荐
+- 趋势分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Human Interaction
-- Creativity
-- Situational Judgment
+- 人际互动
+- 创造力
+- 情境判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis
-- Specialty Spirits Knowledge
-- Sommelier Certification
+- 数据分析
+- 特色烈酒知识
+- 侍酒师认证
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Spread of cocktail culture
-- Non-alcoholic cocktails
-- Specialty Spirits
-- Emotional Bar
+- 鸡尾酒文化的传播
+- 无酒精鸡尾酒
+- 特色烈酒
+- 情绪栏
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if recognized as an expert bartender, limited to hotels etc. |
-| Subclass F-2 (F-2 (Residence)) | Free employment available for long-term residents |
-
-**PR友好度: 中高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those interested in creative beverage development
-- Those who enjoy communicating with and serving customers
-- Those who can handle night shifts and flexible schedules
+- 对创意饮料开发感兴趣的人
+- 喜欢与客户沟通和服务的人
+- 能接受夜班和灵活排班的人
 
 **谁不适合**
-- Those who prefer regular daytime work
-- Those who are weak to physical or mental stress
+- 偏好常规白班工作的人
+- 对身心压力敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：调酒师的薪资水平如何？**
-答：Entry-level salary is around 24–30 million KRW per year, and depending on experience and establishment, it can reach 40–60 million KRW. Tips and bonuses are separate.
+答：入门级年薪约2400-3000万韩元，根据经验和所在单位，可达4000-6000万韩元。小费和奖金另计。
 
-**问：What visa do foreigners need to work as a bartender in Korea?**
-答：If professional skills are recognized, an E-7 visa is possible but very limited. Generally, an F-2 (Residence) visa or F-4 (Overseas Korean) visa is required.
+**问：外国人在韩国当调酒师需要什么签证？**
+答：如果专业技能被认可，E-7签证有可能但非常有限。通常需要F-2（居住）签证或F-4（海外韩国人）签证。
 
-**问：What is the career progression for bartenders?**
-答：Common paths are promotion to head bartender, bar manager, F&B director, or starting one's own business. Winning cocktail competitions or having a sommelier certificate helps.
+**问：调酒师的职业发展路径是什么？**
+答：常见路径是晋升为首席调酒师、酒吧经理、餐饮总监或创业。赢得鸡尾酒比赛或持有侍酒师证书有帮助。
 
 
 ---
@@ -143,12 +134,12 @@ Recruitment is mainly for experienced positions, and after 5–10 years in upsca
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bartender/KR)**

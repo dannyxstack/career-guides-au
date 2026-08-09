@@ -1,8 +1,8 @@
-# Electrical/Electronic Testing Technician 职业分析 · 韩国
+# 电气/电子测试技术员（Electrical/Electronic Testing Technician）职业分析 · 韩国
 
-**职业代码: 15331 (KECO)**
+**职业代码：15331 (KECO)**
 
-A professional who tests and analyzes the performance, safety, and durability of electrical/electronic products and components, conducting tests according to standards such as KS and IEC, and writing reports.
+测试和分析电气/电子产品性能、安全性和耐久性的专业人员，根据KS和IEC等标准进行测试并撰写报告。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who tests and analyzes the performance, safety, and durability of
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $1,000,000~$4,000,000（Tuition based on national/public colleges） |
-| 本科（学士学位） | 4年 | $2,000,000~$8,000,000（Tuition based on 4-year engineering programs） |
+| 副学士学位 | 2 年 | $1,000,000~$4,000,000（按国立/公立大学收费） |
+| 本科（学士学位） | 4年 | $2,000,000~$8,000,000（以四年制工程专业为基准的学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who tests and analyzes the performance, safety, and durability of
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Electrical/Electronic Testing Technician (Craftsman) | Human Resources Development Service of Korea | 可选 | Certification of basic testing skills |
-| Electrical/Electronic Testing Technician (Industrial Engineer) | Human Resources Development Service of Korea | 可选 | Certification of intermediate testing skills, advantageous for employment |
-| Electrical/Electronic Testing Technician (Engineer) | Human Resources Development Service of Korea | 可选 | Certification of advanced testing and management skills |
+| 电气/电子测试技术员（技工） | 韩国人力资源开发服务局 | 可选 | 基础测试技能认证 |
+| 电气/电子测试技术员（工业工程师） | 韩国人力资源开发服务局 | 可选 | 中级测试技能认证，有利于就业 |
+| 电气/电子测试技术员（工程师） | 韩国人力资源开发服务局 | 可选 | 高级测试和管理技能认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 25,000. With the growth of the 4th Industrial Revolution and the electric vehicle, semiconductor, and battery industries, the demand for electrical/electronic testing is increasing, and employment for skilled testers is expected to be stable.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 25,000。随着第四次工业革命以及电动汽车、半导体和电池产业的发展，电气/电子测试需求增加，熟练测试人员的就业预计稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,90 +39,83 @@ A professional who tests and analyzes the performance, safety, and durability of
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $28,000,000~$35,000,000 | Pre-tax annual salary |
-| Mid-level (4–7 years) | $35,000,000~$45,000,000 | Pre-tax annual salary |
-| 高级（8年+） | $45,000,000~$60,000,000 | Pre-tax annual salary, manager-level |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 税前年薪 |
+| 中级（4–7年） | $35,000,000~$45,000,000 | 税前年薪 |
+| 高级（8年+） | $45,000,000~$60,000,000 | 经理级税前年薪 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances efficiency through analysis and automation of electrical/electronic test data, but tasks requiring high-level judgment like test method design, specification interpretation, and defect analysis remain human roles. As a result, job content will evolve, and proficiency with AI tools will become important.
+AI通过分析和自动化电气/电子测试数据提高效率，但需要高级判断的任务如测试方法设计、规格解释和缺陷分析仍由人类完成。因此，工作内容将演变，熟练使用AI工具将变得重要。
 
-Starting as an entry-level tester, one can advance to intermediate and senior tester, test lab manager, and quality control manager, with certifications and experience being important for enhancing expertise.
+从初级测试员开始，可晋升为中级、高级测试员、测试实验室经理和质量控制经理，认证和经验对提升专业能力很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Performing repetitive, simple durability tests
-- Recording standardized performance data
+- 执行重复简单的耐久性测试
+- 记录标准化绩效数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Test data analysis and anomaly pattern detection
-- Test plan optimization
+- 测试数据分析与异常模式检测
+- 测试计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Unstructured problem-solving skills
-- Specification interpretation and judgment skills
-- Client consultation and reporting
+- 非结构化问题解决能力
+- 规格解读与判断能力
+- 客户咨询与报告
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of test automation tools
-- Statistical data analysis
-- AI-based predictive maintenance
+- 使用测试自动化工具
+- 统计数据数据分析
+- 基于AI的预测性维护
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Electric Vehicles & Batteries
-- Semiconductor Testing
-- New Renewable Energy
-- Smart Grid
+- 电动汽车与电池
+- 半导体测试
+- 新能源
+- 智能电网
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed as a professional in electrical/electronic testing; degree and experience required |
-| Subclass E-9 (Non-professional Employment) | Limited to simple testing tasks; direct role as test engineer is restricted |
-| Subclass F-2 (Residence) | Convertible to points-based system, allows long-term stay and free employment |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who prefers meticulous and accurate measurements and records
-- Someone with basic knowledge and curiosity about electrical/electronic fields
-- Someone seeking a stable blend of office and technical work
+- 喜欢细致准确的测量和记录的人
+- 具备电气/电子领域基础知识和好奇心的人
+- 寻求办公室与技术工作稳定结合的人
 
 **谁不适合**
-- Someone who finds repetitive testing tasks boring
-- Someone who strongly dislikes overtime or weekend work
+- 觉得重复性测试任务枯燥的人
+- 极不喜欢加班或周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an electrical/electronic test engineer?**
-答：For entry-level, approximately 28–35 million KRW before tax; experienced engineers with 8+ years earn 45–60 million KRW. Large corporations or public enterprises may offer more.
+**问：电气/电子测试工程师的平均薪资是多少？**
+答：入门级约税前2800-3500万韩元；有8年以上经验的工程师收入4500-6000万韩元。大企业或公共企业可能更高。
 
-**问：What visa does a foreigner need to work as an electrical/electronic test engineer in Korea?**
-答：The E-7 (Specific Activities) visa is the main route, requiring relevant degree and experience. The E-9 (Non-professional Employment) visa has limited application, and conversion to F-2 (Residence) visa is possible.
+**问：外国人在韩国从事电气/电子测试工程师工作需要什么签证？**
+答：E-7（特定活动）签证是主要途径，需要相关学历和经验。E-9（非专业就业）签证适用范围有限，可转换为F-2（居住）签证。
 
-**问：Is there a risk that AI will replace jobs in this field?**
-答：Although automated test equipment is increasing, tasks such as test planning, root cause analysis, and judgment require human input, so the risk of complete replacement is low.
+**问：人工智能是否有可能取代该领域的工作？**
+答：尽管自动测试设备增多，但测试规划、根本原因分析和判断等任务仍需人工参与，因此完全替代的风险较低。
 
 
 ---
@@ -140,12 +133,12 @@ Starting as an entry-level tester, one can advance to intermediate and senior te
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/electrical-electronic-testing-technician/KR)**

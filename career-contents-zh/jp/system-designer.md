@@ -1,8 +1,8 @@
-# System Designer 职业分析 · 日本
+# 系统设计师（System Designer）职业分析 · 日本
 
-**职业代码: 102 (JSCO)**
+**职业代码：102 (JSCO)**
 
-A System Designer is a professional responsible for defining requirements and creating basic and detailed designs for information systems, playing a central role in development projects.
+系统设计师是负责定义需求并创建信息系统基本和详细设计的专业人员，在开发项目中发挥核心作用。
 
 
 ---
@@ -11,8 +11,8 @@ A System Designer is a professional responsible for defining requirements and cr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Information Science) | 4年 | $4,000,000~$6,000,000（Large difference between national/public and private） |
-| Vocational School (IT) | 2 年 | $2,000,000~$3,000,000（Practical curriculum） |
+| 大学（信息科学） | 4年 | $4,000,000~$6,000,000（国立/公立与私立差异大） |
+| 职业学校（IT） | 2 年 | $2,000,000~$3,000,000（实用课程） |
 
 ---
 
@@ -20,18 +20,18 @@ A System Designer is a professional responsible for defining requirements and cr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Applied Information Technology Engineer Examination | IPA | 可选 | National qualification; certifies basic system design knowledge |
-| Project Manager Examination | IPA | 可选 | Advanced exam; evaluates design and management skills |
-| AWS认证解决方案架构师 | Amazon Web Services | 可选 | Certifies cloud design skills |
+| 应用信息技术工程师考试 | IPA | 可选 | 国家资格证书；证明基本系统设计知识 |
+| 项目经理考试 | IPA | 可选 | 高级考试；评估设计和管理技能 |
+| AWS认证解决方案架构师 | Amazon Web Services | 可选 | 认证云设计技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 250,000. Demand remains steady due to increased IT investment and DX promotion, but AI and low-code tools are expected to partially automate design tasks.
+**职位需求量：很高（★★★★½）** 全国从业人数约 250,000。由于IT投资增加和数字化转型推进，需求保持稳定，但AI和低代码工具预计将部分自动化设计任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,95 +39,89 @@ A System Designer is a professional responsible for defining requirements and cr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $4,000,000~$5,500,000 | Relatively low for career changers with no experience |
-| 中级（4-7年） | $5,500,000~$8,000,000 | Increases with experience and skills |
-| 高级（8年+） | $8,000,000~$12,000,000 | Further increases with management duties |
+| 初级 (0-3年) | $4,000,000~$5,500,000 | 对无经验转行者相对较低 |
+| 中级（4-7年） | $5,500,000~$8,000,000 | 随经验和技能增长 |
+| 高级（8年+） | $8,000,000~$12,000,000 | 随管理职责进一步增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI automates and streamlines parts of system design, but creative and judgmental tasks like requirements definition and architecture design remain human roles. While AI improves design quality and speed, simple design work will shrink.
+AI自动化并简化了系统设计的部分环节，但需求定义和架构设计等创造性和判断性任务仍由人类承担。虽然AI提高了设计质量和速度，但简单设计工作将减少。
 
-The typical career path is from programmer to system designer, then advancing to project manager or IT architect.
+典型的职业路径是从程序员到系统设计师，然后晋升为项目经理或IT架构师。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Applying Standard Design Patterns
-- Creating Detailed Design Documents for Code Generation
-- Simple Data Model Design
-- Automatic Test Case Generation
+- 应用标准设计模式
+- 创建用于代码生成的详细设计文档
+- 简单数据模型设计
+- 自动测试案例生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Requirements Analysis and Structuring
-- Architecture Trade-off Analysis
-- Security Design Review
-- Predicting Performance Tuning
+- 需求分析与结构化
+- 建筑方案权衡分析
+- 安全设计审查
+- 预测性能调优
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex System-Wide Design Decisions
-- Stakeholder Consensus Building
-- Balancing Non-Functional Requirements
-- Creative Solutions to Unknown Problems
+- 复杂系统级设计决策
+- 利益相关者共识建立
+- 平衡非功能性需求
+- 针对未知问题的创新解决方案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud Architecture Design
-- System Security
-- Business Analysis Skills
-- Agile Development Methods
+- 云架构设计
+- 系统安全
+- 业务分析技能
+- 敏捷开发方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud Native
-- Microservices
-- Agile Development
-- Security Design
+- 云原生
+- 微服务
+- 敏捷开发
+- 安全设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of experience. Main visa for IT engineers. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (IT)) | IT field to be added in 2024. Requires exam pass and Japanese ability. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong logical thinking and problem-solving skills
-- Those good at team communication
+- 具备强大逻辑思维和问题解决能力者
+- 擅长团队沟通的人
 - 愿意不断学习新技术者
 
 **谁不适合**
-- Those who prefer detailed manual tasks
-- Those who dislike change and prefer routine work
+- 喜欢细致手工任务的人
+- 不喜欢变化、偏好常规工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a system designer?**
-答：Depends on experience and skills; junior 4-5.5M yen, mid 5.5-8M, senior 8-12M yen. PMs can earn more.
+**问：系统设计师的年收入是多少？**
+答：取决于经验和技能；初级4-5.5M日元，中级5.5-8M，高级8-12M日元。项目经理可赚更多。
 
-**问：What visa do foreigners need to work as system designers in Japan?**
-答：Mainly 'Engineer/Specialist in Humanities/International Services' visa. Requires degree or 10+ years experience. Specified Skilled Worker (i) IT field may be available soon.
+**问：外国人在日本担任系统设计师需要什么签证？**
+答：主要为“工程师/人文/国际服务专家”签证。需学位或10年以上经验。特定技能工人（i）IT领域可能很快可用。
 
-**问：What career paths are there to become a system designer?**
-答：It's common to accumulate practical experience as a programmer before stepping up to a system designer. Obtaining certifications like the Applied Information Technology Engineer Exam is also advantageous. Further career paths include project manager or IT architect.
+**问：成为系统设计师有哪些职业路径？**
+答：通常先积累程序员实战经验，再晋升为系统设计师。取得应用信息技术工程师考试等认证也很有优势。进一步的职业路径包括项目经理或IT架构师。
 
 
 ---
@@ -145,12 +139,12 @@ The typical career path is from programmer to system designer, then advancing to
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/system-designer/JP)**

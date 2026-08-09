@@ -52,8 +52,6 @@ A profession responsible for overall building maintenance, including cleaning, f
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Cleaning robots and AI monitoring are being introduced, but human response to residents and flexible decision-making is necessary. Complete replacement is difficult; complementary roles will expand.
-
 Easy to start with no experience; career progression to management roles or site supervisor at cleaning companies is possible. Certification can lead to career advancement.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Easy to start with no experience; career progression to management roles or site
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | For foreign workers in building cleaning. Requires Japanese and skills exams. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for managerial or advanced roles. |
-| Subclass 技能実習 (Technical Intern Training (Building Cleaning)) | Aims to acquire skills over 3 years. Transfer to Specified Skilled Worker possible. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Yes, no academic background or experience required. Many job postings at Hell
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-manager/JP)**

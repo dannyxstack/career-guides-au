@@ -1,6 +1,6 @@
-# Assemblers, fabricators and inspectors, industrial electrical motors and transformers 职业分析 · 加拿大
+# 工业电机和变压器组装工、装配工和检查员（Assemblers, fabricators and inspectors, industrial electrical motors and transformers）职业分析 · 加拿大
 
-**职业代码: 94203 (NOC)**
+**职业代码：94203 (NOC)**
 
 负责装配、制造和检验工业电动机、发电机和变压器，确保设备符合规格和安全标准。工作涉及使用手动和电动工具、测试设备，并阅读技术图纸。
 
@@ -27,10 +27,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 4,500. 加拿大制造业和能源行业稳定需求，特别是绿色能源转型推动变压器和电动机维护与制造。就业前景中等，受经济周期影响，但熟练工人仍有机会。
+**职位需求量：中（★★★☆☆）** 全国从业人数约 4,500。加拿大制造业和能源行业稳定需求，特别是绿色能源转型推动变压器和电动机维护与制造。就业前景中等，受经济周期影响，但熟练工人仍有机会。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 电气和电子产品装配工面临自动化替代风险，重复性任务易被机器人和AI取代；但AI也将增强其故障诊断和流程优化能力，岗位要求提升，低端入门岗位缩减。
 
 可从初级装配工晋升为高级检验员或主管，也可通过额外培训转向电气工程技师或维修技师。部分经验丰富者可自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - PCB板的手工焊接与元器件插装
 - 线束的重复性布线和捆扎
@@ -63,7 +63,7 @@
 - 产品外观的目视检查
 - 物料搬运与简单分拣
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI视觉系统进行高精度元件定位与装配引导
 - 借助数据分析预测设备故障并优化维护计划
@@ -71,7 +71,7 @@
 - 使用智能工具进行实时质量反馈与调整
 - 基于AI的产线排产优化与资源调度
 
-**人类护城河:**
+**人类护城河：**
 
 - 非标准或高精度手工装配的灵活调整
 - 复杂故障的现场判断与创造性解决
@@ -79,7 +79,7 @@
 - 对新品试制的小批量手工打样能力
 - 遵守安全规范与处理突发异常
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 工业机器人编程与维护
 - PLC/SCADA系统基础操作
@@ -88,16 +88,16 @@
 - 物联网与集成系统知识
 - 精益生产和持续改进方法
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Manufacturing
-- Green Energy
-- Electrical Equipment
-- Skilled Trades
+- 制造业
+- 绿色能源
+- 电气设备
+- 技能行业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -106,9 +106,7 @@
 | Subclass PNP (Provincial Nominee Program) | 部分省份有技工类省提名项目，可加分。 |
 | Subclass LMIA (Labour Market Impact Assessment) | 雇主担保工签，适合先工作再移民。 |
 
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -152,12 +150,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/assemblers-fabricators-and-inspectors-industrial-electrical-motors-and-transformers/CA)**

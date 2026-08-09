@@ -4,8 +4,6 @@
 
 Responsible for operating, monitoring, and adjusting leather and fur processing and finishing machines, including tanning, dyeing, embossing, and other processes to ensure product quality meets standards. They usually work in tanneries or leather processing workshops, requiring mastery of mechanical operation and leather processing techniques.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for operating, monitoring, and adjusting leather and fur processing 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-This profession relies heavily on repetitive physical operations and sensory judgment. AI and automation will significantly squeeze job demand, lowering entry barriers but intensifying job competition. It is recommended to transition early to high value-added sectors.
-
 Junior operators can gain experience and be promoted to senior machine operators or production supervisors, with some moving on to quality control or technical maintenance roles. Very few enter management, usually stopping at the senior technician level.
 
 **Tasks most exposed to AI:**
@@ -102,15 +98,9 @@ Junior operators can gain experience and be promoted to senior machine operators
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee visa) | For employed work residence, the employer must provide a work contract and prove that local workers cannot be recruited |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: CAP (Professional Competency Certificate) or Bac Pro (Vocational High School 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/leather-and-hide-processing-and-finishing-machine-operator/FR)**

@@ -53,8 +53,6 @@ Includes health professionals not classified elsewhere, such as public health ex
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-As a comprehensive role spanning public health, policy, and other fields, AI will automate tasks like data analysis and report generation, while enhancing strategic advice and cross-departmental coordination. The overall impact is mixed; one must proactively use AI tools to improve efficiency.
-
 Can progress from junior researcher to senior analyst or management roles, or transition into clinical health professions or academic research.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from junior researcher to senior analyst or management roles, or tr
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically requires a bachelor's degree in health science or a related field; 
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-professional-not-elsewhere-classified/IE)**

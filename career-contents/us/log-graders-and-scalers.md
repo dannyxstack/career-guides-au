@@ -53,8 +53,6 @@ Grade logs in yards, log ponds, or decks to assess their saleable content or val
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Log graders and scalers face high automation risk; AI vision and sensor technology will significantly replace manual measurement and grading tasks, compressing entry-level roles.
-
 Can progress from junior grader to senior grader or supervisor, some move to timber procurement or quality inspection roles. With experience, can also start a small forestry service company.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior grader to senior grader or supervisor, some move to tim
 | Subclass H-2A (Temporary Agricultural Workers) | Seasonal agricultural worker visa, applicable for forestry temporary workers, but requires employer to demonstrate labor shortage |
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Applies to non-agricultural temporary work, such as in timber processing plants, but quotas are tight. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes, can advance from scaler to senior grader, supervisor, or wood buyer.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/log-graders-and-scalers/US)**

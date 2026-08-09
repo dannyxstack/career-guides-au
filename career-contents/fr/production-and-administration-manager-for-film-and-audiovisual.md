@@ -4,8 +4,6 @@
 
 Responsible for production management, budget control, scheduling, and administrative coordination of film, television, advertising, and audiovisual projects, ensuring smooth operation from early preparation to post-release of projects.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for production management, budget control, scheduling, and administr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is reshaping film and audiovisual production management, automating administrative tasks such as budgeting and scheduling, while enhancing creative coordination and data-driven decision-making capabilities. However, humans remain irreplaceable in complex interpersonal coordination and handling emergencies.
-
 Starting as a production assistant or coordinator, gaining experience can lead to promotion to production manager or executive producer; Some shifted toward content strategy, distribution management, or independent production; Having project management certifications (such as PMP) helps with promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Starting as a production assistant or coordinator, gaining experience can lead t
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled talent in arts and culture, requiring project contract or proof. Valid up to 4 years, can bring family. |
-| Subclass Salarié (Salarié (Work Permit)) | You must obtain a work contract from a French employer and pass the review by the French Labor Department. Suitable for long-term employment. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Starting as a production assistant, you gradually advance to production coord
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-and-administration-manager-for-film-and-audiovisual/FR)**

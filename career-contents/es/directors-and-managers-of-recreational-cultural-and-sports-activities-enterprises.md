@@ -54,8 +54,6 @@ Responsible for managing and guiding leisure, culture, and sports-related enterp
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of recreation and leisure manager will be partially restructured by AI: administrative tasks like scheduling and customer response are compressed, but human core competencies such as creative planning, safety supervision, and team leadership are amplified. Mixed outlook overall.
-
 Career paths typically start as department heads or project managers, and are promoted to general managers or regional directors. After accumulating industry experience and business networks, you can move on to larger organizations or start your own business. Continuous learning in digital marketing, event planning, and financial management can help with promotions.
 
 **Tasks most exposed to AI:**
@@ -102,16 +100,9 @@ Career paths typically start as department heads or project managers, and are pr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals, requiring a university degree or 5 years of relevant experience, with a work contract meeting the salary threshold (usually not less than 1.5 times the Spanish average salary) |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | For senior management or technical personnel, a university degree or three years of management experience is required, with a relatively high salary and quick residency availability |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence requires employer sponsorship, review includes company size and job matching, suitable for those with job offers |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +146,12 @@ A: Usually requires a bachelor's degree or higher, preferably in business manage
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-and-managers-of-recreational-cultural-and-sports-activities-enterprises/ES)**

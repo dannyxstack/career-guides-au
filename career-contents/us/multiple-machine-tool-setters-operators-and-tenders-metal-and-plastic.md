@@ -53,8 +53,6 @@ Set up, operate, or oversee two or more metal or plastic cutting/shaping machine
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Multi-machine operators face significant automation risk as AI and robots efficiently handle setup, operation, and monitoring tasks; entry-level positions will shrink drastically, requiring a shift toward maintenance and programming skills.
-
 Start as an operator, can advance to CNC programmer, production supervisor, or process engineer through experience; some companies offer internal training for skill upgrades.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Start as an operator, can advance to CNC programmer, production supervisor, or p
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Usually only high school diploma required, professional skills mainly gained 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/multiple-machine-tool-setters-operators-and-tenders-metal-and-plastic/US)**

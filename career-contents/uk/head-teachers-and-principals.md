@@ -56,8 +56,6 @@ Principals and deans plan, organize, direct, and coordinate the overall operatio
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Principals' management duties (such as report generation, data monitoring) are easily automated by AI, but core tasks like leadership and culture building are augmented by AI. Overall, the outlook is mixed.
-
 Typically starts as a teacher, progressing to department head, deputy principal, and eventually principal/dean. Later stages can shift to education consulting, government education departments, or training fields.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Typically starts as a teacher, progressing to department head, deputy principal,
 | Subclass Global Talent (Global Talent Visa) | Applies to individuals with outstanding achievements or potential in the education field, no employer sponsorship required, can be self-employed. |
 | Subclass Graduate (Graduate Visa) | Available for UK graduates, allows 2-year stay, but requires finding an employer to switch to a Skilled Worker visa. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: In England, the NPQH is not mandatory but is strongly recommended; many job a
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-teachers-and-principals/UK)**

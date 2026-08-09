@@ -53,8 +53,6 @@ Responsible for investigating animal cruelty, controlling or sheltering abandone
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Animal control officer work involves extensive field enforcement and animal handling, AI cannot fully replace; but administrative tasks like report writing and data entry will be automated, while AI tools can aid decision-making and training, overall risk is manageable.
-
 Typically start as Animal Control Officer, gain experience to advance to senior officer or supervisor; some move into animal welfare organization management or animal law enforcement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as Animal Control Officer, gain experience to advance to senior 
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as this occupation typically does not require a bachelor's degree |
 | Subclass EB-3 (EB-3 Skilled Workers) | Rare cases, requires employer sponsorship and proof of inability to find local workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a high school diploma or equivalent, certification training 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-control-workers/US)**

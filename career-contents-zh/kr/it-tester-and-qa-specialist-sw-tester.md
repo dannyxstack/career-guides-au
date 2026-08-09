@@ -1,8 +1,8 @@
-# IT Tester and QA Specialist (SW Tester) 职业分析 · 韩国
+# IT测试员和QA专员（软件测试员）（IT Tester and QA Specialist (SW Tester)）职业分析 · 韩国
 
-**职业代码: 13391 (KECO)**
+**职业代码：13391 (KECO)**
 
-A role that establishes test plans to ensure software quality, performs manual and automated tests to find and report defects.
+负责制定测试计划以确保软件质量，执行手动和自动化测试以发现和报告缺陷的角色。
 
 
 ---
@@ -11,8 +11,8 @@ A role that establishes test plans to ensure software quality, performs manual a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (Computer Science, etc.) | 4年 | $20,000,000~$50,000,000（Difference in tuition between national and private universities） |
-| Associate degree (Computer-related) | 2 年 | $10,000,000~$25,000,000（Based on college tuition） |
+| 学士学位（计算机科学等） | 4年 | $20,000,000~$50,000,000（国立与私立大学学费差异） |
+| 副学士学位（计算机相关） | 2 年 | $10,000,000~$25,000,000（基于大学学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A role that establishes test plans to ensure software quality, performs manual a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Engineer-level certification, written/practical exam |
-| ISTQB CTFL | ISTQB | 可选 | International SW testing certification, optional |
-| SQE Certificate | Korea SW Testing Association | 可选 | Domestic QA certification |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 工程师级认证，笔试/实践考试 |
+| ISTQB CTFL | ISTQB | 可选 | 国际软件测试认证，可选 |
+| SQE证书 | 韩国软件测试协会 | 可选 | 国内质量认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 35,000. Demand is steadily increasing due to digital transformation and the growing importance of SW quality; in particular, the adoption of AI-based test automation is expected to expand hiring of skilled workers.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 35,000。由于数字化转型和软件质量日益重要，需求稳步增长；特别是基于AI的测试自动化预计将扩大对熟练工人的招聘。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -39,95 +39,88 @@ A role that establishes test plans to ensure software quality, performs manual a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$35,000,000 | Difference between large corporations/startups |
-| 中级(3-7年) | $40,000,000~$55,000,000 | Increases with automation skills |
-| 高级（7年以上） | $55,000,000~$80,000,000 | QA Lead/Manager level |
+| 初级 (0-3年) | $28,000,000~$35,000,000 | 大企业/初创公司之间的差异 |
+| 中级(3-7年) | $40,000,000~$55,000,000 | 随着自动化技能提升而增加 |
+| 高级（7年以上） | $55,000,000~$80,000,000 | QA主管/经理级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI enhances test automation and defect prediction, but complete replacement is difficult because human intuition and experience are needed for test scenario design, exploratory testing, and user perspective validation.
+人工智能增强了测试自动化和缺陷预测，但由于测试场景设计、探索性测试和用户视角验证需要人类直觉和经验，完全替代很困难。
 
-Starting as a manual tester, one can advance to automation script writing, test architect, and QA manager. Certifications such as ISTQB help career growth.
+从手动测试员开始，可晋升为自动化脚本编写、测试架构师和QA经理。ISTQB等认证有助于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive manual testing
-- Simple regression testing
-- Basic defect report writing
+- 重复性手动测试
+- 简单回归测试
+- 基本缺陷报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based test generation
-- Automated defect classification
-- Performance test optimization
-- Test coverage analysis
+- 基于AI的测试生成
+- 自动化缺陷分类
+- 性能测试优化
+- 测试覆盖率分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Business domain understanding
-- Exploratory testing ability
-- User experience evaluation
-- Complex defect cause analysis
+- 业务领域理解
+- 探索性测试能力
+- 用户体验评估
+- 复杂缺陷原因分析
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Test automation frameworks (Selenium, Appium)
-- CI/CD tools (Jenkins, GitLab)
-- AI/ML basics
-- Security testing (OWASP)
+- 测试自动化框架（Selenium, Appium）
+- CI/CD工具（Jenkins, GitLab）
+- AI/ML基础
+- 安全测试（OWASP）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- SW Testing
-- QA Engineer
-- Test Automation
-- AI Testing
+- 软件测试
+- QA工程师
+- 测试自动化
+- AI测试
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | IT/SW professionals can apply; bachelor's and experience required |
-| Subclass D-10 (Job-seeking Visa) | IT graduates can seek jobs for up to 2 years after graduation |
-| Subclass F-2 (Residence Visa) | Points-based; convertible after long-term stay; few work restrictions |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and analytical people
-- People with excellent logical thinking
-- People interested in tools and scripts
+- 注重细节和善于分析的人
+- 逻辑思维优秀的人
+- 对工具和脚本感兴趣的人
 
 **谁不适合**
-- People who find repetitive tasks boring
-- People with poor communication skills
+- 觉得重复性任务无聊的人
+- 沟通能力差的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an IT tester?**
-答：Entry-level annual salary ranges from KRW 28 million to 35 million; large companies pay more than small ones, and varies by automation skills.
+**问：IT测试员的起薪是多少？**
+答：入门级年薪在2800万至3500万韩元之间；大型企业薪资高于小型企业，且因自动化技能而异。
 
-**问：Can a foreigner get a work visa for this occupation?**
-答：It is possible. An E-7 visa is issued if you meet the bachelor's degree and experience requirements, and the IT/QA field has labor demand, so approval is likely.
+**问：外国人能为这个职业获得工作签证吗？**
+答：可能。满足学士学位和工作经验要求可获E-7签证，IT/QA领域有劳动力需求，批准可能性大。
 
-**问：How can I transition to a PM role?**
-答：After gaining testing experience, you can transition to a PM role by developing project management skills (scheduling, risk) and obtaining certifications such as PMP.
+**问：如何转型为PM角色？**
+答：在获得测试经验后，可以通过培养项目管理技能（排期、风险）并获得PMP等认证，转型为项目经理角色。
 
 
 ---
@@ -145,12 +138,12 @@ Starting as a manual tester, one can advance to automation script writing, test 
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/it-tester-and-qa-specialist-sw-tester/KR)**

@@ -53,8 +53,6 @@ Responsible for the repair and maintenance of bicycles, motorcycles, small motor
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Motorcycle repair will benefit from AI diagnostic tools, but physical repair and custom work are hard to replace; overall risk is moderate.
-
 You can rise from junior technician to maintenance supervisor, start a business, or specialize in a specific brand or vehicle type (such as electric bicycles). Holding advanced certifications (such as BTS) helps with promotion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can rise from junior technician to maintenance supervisor, start a business,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requiring a work contract and qualification certificate, valid for 4 years, renewable with the right to renew. |
-| Subclass Salarié (Employee) | This applies to foreign employees employed by French companies, who need a work permit and apply for temporary residence first, which can be converted to long-term status. |
-| Subclass Recherche emploi (Job Search) | After graduation, students can apply for this residence permit, valid for one year, and may work or start a business. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can advance from junior technician to senior technician or supervisor, or
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/repairer-of-bicycles-motorcycles-and-leisure-motor-vehicles/FR)**

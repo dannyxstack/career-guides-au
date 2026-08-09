@@ -4,8 +4,6 @@
 
 Manually or using simple tools to sort recyclables and waste in waste treatment facilities, ensuring efficient recycling processes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -50,8 +48,6 @@ Manually or using simple tools to sort recyclables and waste in waste treatment 
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
-
-Garbage sorting workers face high risk of automation substitution, especially as visual recognition and robotic arm technology mature, quickly replacing manual sorting, causing a sharp decline in job demand.
 
 Can progress from sorter to sorting line supervisor or waste management coordinator, or move into roles such as machine operation or environmental monitoring through training.
 
@@ -99,15 +95,9 @@ Can progress from sorter to sorting line supervisor or waste management coordina
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi) | Non-EU workers can apply for unskilled work visas through annual quotas, requiring employer sponsorship. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: Can advance to sorting line supervisor or waste management coordinator, or tr
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/refuse-sorter/IT)**

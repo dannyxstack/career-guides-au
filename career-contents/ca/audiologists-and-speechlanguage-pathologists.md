@@ -52,8 +52,6 @@ Speech-Language Pathologists (SLPs) assess, diagnose, and treat communication an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
-
 Junior speech-language pathologists can start practice in hospitals or rehabilitation centres; with experience, they can advance to senior clinical specialist, team leader, or open a private practice. Some move into academic research or education management, or pursue continuing education in areas like dysphagia or neurorehabilitation.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior speech-language pathologists can start practice in hospitals or rehabilit
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario, BC, Alberta, have priority streams for healthcare occupations |
 | Subclass AIP (Atlantic Immigration Program) | Employer-driven immigration in Atlantic Canada, suitable for applicants with a job offer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Primarily through Federal Skilled Worker (FSW) or Provincial Nominee Program 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiologists-and-speechlanguage-pathologists/CA)**

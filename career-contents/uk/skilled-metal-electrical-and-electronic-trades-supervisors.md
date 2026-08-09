@@ -53,8 +53,6 @@ Responsible for supervising skilled workers in the metal, electrical, and electr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The overall outlook for senior metal, electrical, and electronic industry supervisors is mixed: daily coordination and reporting tasks are prone to AI automation, but on-site decision-making, safety supervision, and human-machine collaboration are difficult to fully replace.
-
 Usually promoted from skilled trades; with experience can advance to production manager or operations manager. Some supervisors can move into project management or quality control; obtaining management certificates (e.g., ILM) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually promoted from skilled trades; with experience can advance to production 
 | Subclass Graduate (Graduate Visa) | Graduates can work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 | Subclass Scale-up (Scale-up Visa) | Fast-growing company sponsorship, requiring an annual salary of £33,000 or more |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, Advanced Apprenticeship is a common entry path, typically lasting 3-4 ye
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/skilled-metal-electrical-and-electronic-trades-supervisors/UK)**

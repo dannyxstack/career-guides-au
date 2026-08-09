@@ -52,8 +52,6 @@ Canadian communication engineers closely correspond to computer engineers (21231
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Computer engineers (excluding software engineers) face mixed prospects: repetitive tasks like network configuration and troubleshooting will be automated by AI, but responsibilities like system architecture design, complex integration, and cybersecurity strategy are amplified with AI assistance; overall impact depends on the specific field.
-
 Typically starts as a junior engineer, progressing to senior engineer, project manager, or technical expert. Experienced professionals can move into system architect, network planning manager, or management roles in telecom operators and consulting firms.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically starts as a junior engineer, progressing to senior engineer, project m
 | Subclass PNP (Provincial Nominee Program) | Several provinces list telecommunications engineers as in-demand occupations, such as Ontario, BC, and Alberta, providing additional points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program (employer-driven), suitable for those with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but P.Eng is important for signing off projects or senior desi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-engineers-except-software-engineers-and-designers/CA)**

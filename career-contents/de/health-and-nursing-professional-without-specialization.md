@@ -54,8 +54,6 @@ Health and nursing professionals are responsible for patient care, basic medical
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Enrolled nurses' overall job content is not easily fully replaced by AI, but administrative, clerical, and some monitoring tasks face automation risks; meanwhile, AI can improve patient monitoring and decision support efficiency, requiring proactive learning of digital tools to remain competitive
-
 Can progress from registered nurse to specialist nurse (e.g., intensive care), nursing department head or nursing manager, or through further study become a nursing educator or advanced practice nurse.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Can progress from registered nurse to specialist nurse (e.g., intensive care), n
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paid nursing staff (annual salary below threshold but in shortage occupation), requires university degree or equivalent qualification. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows staying in Germany for 6 months to seek work; language skills and financial means must be proven. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Must be assessed by the German competent authority, usually requiring supplem
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-and-nursing-professional-without-specialization/DE)**

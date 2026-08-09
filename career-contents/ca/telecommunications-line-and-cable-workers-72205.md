@@ -52,8 +52,6 @@ In Canada, telecommunications line and cable workers install, maintain, and repa
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line and cable workers face AI-assisted remote monitoring and automatic fault diagnosis, reducing routine inspections, but high-risk on-site work and manual splicing still heavily rely on humans; overall outlook is mixed.
-
 Career path: Apprentice (2-4 years) → Skilled worker → Foreman → Project manager or self-employed contractor. Obtaining Red Seal certification enhances interprovincial employability. Some workers transition to telecommunications design or management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Apprentice (2-4 years) → Skilled worker → Foreman → Project m
 | Subclass PNP (Provincial Nominee Program) | Most provinces classify telecommunications line workers as a shortage occupation, e.g., Ontario, British Columbia, Alberta. Must meet provincial requirements. |
 | Subclass AIP (Atlantic Immigration Program) | The Atlantic provinces need skilled workers; employer offer required. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Some provinces (e.g., Ontario, Alberta) have overseas qualification assessmen
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-line-and-cable-workers-72205/CA)**

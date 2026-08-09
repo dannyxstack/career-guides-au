@@ -1,6 +1,6 @@
-# Industrial engineering and manufacturing technologists and technicians 职业分析 · 加拿大
+# 工业工程和制造技术员及技师（Industrial engineering and manufacturing technologists and technicians）职业分析 · 加拿大
 
-**职业代码: 22302 (NOC)**
+**职业代码：22302 (NOC)**
 
 楼宇自动化技术员在加拿大对应NOC 22302，从事楼宇控制系统(BMS/BAS)的安装、调试与维护。该职业可走Express Entry（STEM定向）和PNP省提名，属于技术移民可行职业。
 
@@ -22,16 +22,16 @@
 |---|---|---|---|
 | 省牌照/Red Seal | 各省学徒机构 / 红印计划 | 必备 | 部分省份要求持证上岗，红印可全国流通 |
 | ECA学历认证 | WES / IQAS / 其他指定机构 | 可选 | 用于Express Entry，认证海外学历 |
-| IELTS / CELPIP | IELTS / CELPIP | 可选 | 移民及职业注册的语言要求，CLB 7+ |
+| 雅思/思培 | 雅思/思培 | 可选 | 移民及职业注册的语言要求，CLB 7+ |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 8,500. 加拿大绿色建筑和智能楼宇改造推动BMS人才需求增长，尤其在大城市和数据中心项目集中区域。就业市场景气度较高，但需具备相关认证（如Red Seal或省执照）以提升竞争力。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 8,500。加拿大绿色建筑和智能楼宇改造推动BMS人才需求增长，尤其在大城市和数据中心项目集中区域。就业市场景气度较高，但需具备相关认证（如Red Seal或省执照）以提升竞争力。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -49,21 +49,21 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 工业工程与制造技师面临AI自动化风险，但制造系统复杂性要求人类决策与维护。入门岗位门槛降低，但高级技师因整合与优化能力而增值。
 
 职业发展可从初级技师晋升为高级工程师或项目经理。获取Red Seal认证后薪资涨幅明显，亦可转向能源管理或楼宇自动化设计岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 生产数据采集与录入（MES自动获取）
 - 标准工艺文件生成与分发（AI自动撰写）
 - 简单故障诊断与报警确认（系统自诊断）
 - 生产线节拍统计与效率报表（算法自动生成）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 复杂系统集成方案设计（AI模拟不同配置影响）
 - 预测性维护策略制定（AI分析历史故障模式）
@@ -71,14 +71,14 @@
 - 跨设备参数协同调优（AI推荐最优设定值）
 - 新员工培训（AI虚拟导师辅助实操指导）
 
-**人类护城河:**
+**人类护城河：**
 
 - 非标自动化产线改造中的现场决策与应急处理
 - 系统整体性能评估与瓶颈定位（需理解物理约束）
 - 与操作员、工程师的跨部门沟通与需求解读
 - 安全、质量等灰色标准的主观判断
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析和可视化（Python/Tableau）
 - 工业物联网平台操作（如西门子MindSphere）
@@ -87,16 +87,16 @@
 - 项目管理与供应商协调能力
 - 自动化脚本编写（VBA/Python for MES）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Green Building
-- Smart Building
+- 绿色建筑
+- 智能建筑
 - Express Entry STEM
-- Provincial Nominee
+- 省提名
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -105,9 +105,7 @@
 | Subclass PNP (Provincial Nominee Program) | 例如安省技工类（Ontario In-Demand Skills Stream）或BC省技工类，获得省提名可加600分 |
 | Subclass AIP (Atlantic Immigration Program) | 适用于大西洋四省，雇主担保可行，流程较快 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -151,12 +149,13 @@
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-engineering-and-manufacturing-technologists-and-technicians/CA)**

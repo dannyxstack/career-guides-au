@@ -51,8 +51,6 @@ Engineers responsible for manufacturing, processing, and quality control of meta
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and robotics-driven automation is advancing in some processes (inspection, simple processing), but skilled intuition and troubleshooting still rely on humans. AI is used as a support in quality control and process design.
-
 After joining, gain hands-on experience on the shop floor, then advance to process management and quality assurance. Career growth is possible through certifications and specialized knowledge. Management roles and technical advisor positions are within reach, but AI and robotics are changing job content.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ After joining, gain hands-on experience on the shop floor, then advance to proce
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university-level knowledge. Can perform core tasks in manufacturing as a metal processing technician. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Casting/Molding, Industrial Machinery, Electrical/Electronic Information Related Manufacturing)) | Requires passing skills and Japanese language tests. As of 2024, applicable to 3 manufacturing fields, allowing metal processing work. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Casting/Molding, Industrial Machinery, Electrical/Electronic Information Related Manufacturing)) | Requires advanced skills; allows family accompaniment and permanent residency. Target fields to expand from 2024. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Demand is stable in core industries like automotive and aerospace, but automa
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-engineer-excluding-rd/JP)**

@@ -4,8 +4,6 @@
 
 Responsible for shelving, restocking, displaying, and inventory management in large supermarkets, convenience stores, and other retail venues to ensure shelves are sufficient, tidy, and meet hygiene standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for shelving, restocking, displaying, and inventory management in la
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Self-service shelf sorting positions will undergo significant transformation: AI-driven inventory robots and automated replenishment systems can replace about 60% of basic tasks, but scenarios such as store maintenance, product quality inspection, and customer interaction still require human judgment, forcing practitioners to transform into multi-skilled retail consultants.
-
 Junior stock clerks can be promoted to department head (Chef de rayon), responsible for merchandise procurement and team management, or move to logistics/supply chain coordination roles. You can also transition to retail buyers or warehouse managers through vocational training, but promotion opportunities are relatively limited.
 
 **Tasks most exposed to AI:**
@@ -103,15 +99,9 @@ Junior stock clerks can be promoted to department head (Chef de rayon), responsi
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | A long-term employment contract (CDI) must be provided by a French employer, with wages meeting the statutory minimum standard, and the position must not be filled by a local employee after passing the French Labor Bureau's review. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +145,12 @@ A: Usually, 2-3 years of experience are required; outstanding performance allows
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shelf-stocker-selfservice/FR)**

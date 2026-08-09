@@ -4,8 +4,6 @@
 
 A profession that involves harvesting and capturing aquatic resources using fishing vessels or diving in coastal and offshore waters, including fishing vessel operations and diving fishing (haenyeo).
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A profession that involves harvesting and capturing aquatic resources using fish
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation is not yet significant, but smart aquaculture and automated fishing equipment are replacing some tasks. AI replacement is limited in traditional fishing grounds.
-
 Initially starting as a crew member or haenyeo, one can gain experience and later become a captain or independent fisher, or advance into seafood distribution and processing.
 
 **Tasks most exposed to AI:**
@@ -92,18 +88,9 @@ Initially starting as a crew member or haenyeo, one can gain experience and late
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers possible in non-professional fields like fishing, industry restrictions apply |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled technical personnel, permitted only in specific fields like smart aquaculture |
-| Subclass F-4 (Overseas Koreans (F-4)) | Available for overseas Koreans seeking fishery jobs, few activity restrictions |
-| Subclass F-2 (Residence (F-2)) | Free employment possible after certain stay, requires report when engaging in fishery |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +134,12 @@ A: A small vessel operator license is required; for female divers, scuba safety 
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fisherman-and-haenyeo-female-diver/KR)**

@@ -1,10 +1,8 @@
-# Member of the Diet/Local Assembly 职业分析 · 日本
+# 议会/地方议会议员（Member of the Diet/Local Assembly）职业分析 · 日本
 
-**职业代码: 011 (JSCO)**
+**职业代码：011 (JSCO)**
 
-Elected public officials who conduct policy decisions and deliberations in local assemblies or the National Diet. They act as representatives of residents or citizens through enactment of ordinances and laws, budget deliberations, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在地方议会或国会进行政策决策和审议的民选公职人员。他们通过制定条例和法律、审议预算等行为代表居民或公民。
 
 
 ---
@@ -13,8 +11,8 @@ Elected public officials who conduct policy decisions and deliberations in local
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 义务教育 | 9年 | $0~$0（In public schools） |
-| 中学 | 3年 | $0~$0（In public schools） |
+| 义务教育 | 9年 | $0~$0（公立学校） |
+| 中学 | 3年 | $0~$0（公立学校） |
 
 ---
 
@@ -22,17 +20,17 @@ Elected public officials who conduct policy decisions and deliberations in local
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Eligibility for election under the Public Offices Election Act | Public Offices Election Act | 必备 | Age requirement (House of Representatives & local assembly: 25+, House of Councillors: 30+) |
-| Japanese citizenship | Public Offices Election Act | 必备 | National Diet members must be Japanese citizens. Local assembly members generally also require Japanese citizenship. |
+| 根据《公职选举法》的参选资格 | 公职选举法 | 必备 | 年龄要求（众议院及地方议会：25岁以上，参议院：30岁以上） |
+| 日本国籍 | 公职选举法 | 必备 | 国会议员必须为日本国民。地方议会议员通常也需要日本国籍。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 33,000. Due to population decline and complex regional issues, the role of assembly members is expanding, but challenges include low compensation and lack of candidates. The decline of local assembly members is expected to continue.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 33,000。由于人口减少和地区问题复杂，议员职责扩大，但面临低薪酬和候选人缺乏的挑战。地方议员数量预计将持续下降。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +38,87 @@ Elected public officials who conduct policy decisions and deliberations in local
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| First-year local assembly member | $4,000,000~$8,000,000 | Example annual income for city/town/village assembly members. Excluding political activity funds. |
-| First-year National Diet member | $20,000,000~$25,000,000 | Annual salary approx. 22 million JPY (2024 standard) |
-| Veteran member (10+ years) | $20,000,000~$30,000,000 | Including position allowances, etc. For National Diet members. |
+| 第一年地方议员 | $4,000,000~$8,000,000 | 市/町/村议员年收入示例。不含政治活动经费。 |
+| 首年国会议员 | $20,000,000~$25,000,000 | 年薪约2200万日元（2024年标准） |
+| 资深会员（10年以上） | $20,000,000~$30,000,000 | 含职位津贴等。针对国会议员。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used to assist in policy analysis and document creation, but human roles such as political judgment and dialogue with citizens remain central, making full replacement difficult.
+人工智能用于辅助政策分析和文件创建，但政治判断和与公民对话等人类角色仍为核心，完全替代困难。
 
-Typical career paths go from independent to party-affiliated, or from local to national politics. Election victory is essential, and political experience and connections are important.
+典型的职业路径是从独立走向党派附属，或从地方走向国家政治。选举胜利至关重要，政治经验和人脉也很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Minutes creation
-- Partial data aggregation and analysis
-- Routine document creation
+- 会议记录撰写
+- 部分数据汇总和分析
+- 常规文档创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Policy simulation
-- Analysis of voter opinions
-- Bill consistency checks
+- 政策模拟
+- 选民意见分析
+- 账单一致性检查
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal negotiation and persuasiveness
-- Community-based human relationships
-- Political judgment
-- Leadership
+- 人际协商和说服力
+- 基于社区的人际关系
+- 政治判断
+- 领导层
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital communication
-- Policy knowledge
-- Negotiation skills
+- 数据分析
+- 数字通信
+- 政策知识
+- 谈判技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Regional revitalization
-- Policy formulation
-- Community activation
-- Parliamentary reform
+- 区域振兴
+- 政策制定
+- 社区活化
+- 议会改革
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 該当なし (Not applicable) | Under Japan's Public Offices Election Act, only Japanese citizens are eligible to run for office; therefore, there are no foreign nationals qualified. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in policy
-- People skilled in negotiation and debate
-- People motivated to solve regional or social issues
+- 对政策有浓厚兴趣的人
+- 擅长谈判和辩论的人
+- 有志于解决地区或社会问题者
 
 **谁不适合**
-- People who value privacy
-- People who are not good at public speaking
+- 重视隐私的人
+- 不擅长公开演讲的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary of a member of parliament?**
-答：The annual salary for national legislators is about 22 million yen. Local legislators typically receive 4–8 million yen annually, with separate policy activity allowances.
+**问：国会议员的薪资是多少？**
+答：国会议员年薪约2200万日元。地方议员通常年薪400-800万日元，另设政策活动费。
 
-**问：Can a foreigner become a Japanese legislator?**
-答：Under the Japanese Constitution, national legislators must be Japanese nationals. Local legislators also generally require Japanese nationality; foreigners are not granted the right to be elected.
+**问：外国人能成为日本立法者吗？**
+答：根据日本宪法，国会议员必须是日本国民。地方议员通常也要求日本国籍；外国人没有被选举权。
 
-**问：How can I become a legislator?**
-答：You need to run for election and win. Typically, you join a political party or build a base as an independent. Meeting the requirements of the Public Offices Election Law (age, nationality, etc.) is a prerequisite.
+**问：如何成为立法者？**
+答：需参选并获胜。通常加入政党或以独立候选人身份建立基础。满足公职选举法要求（年龄、国籍等）是前提。
 
 
 ---
@@ -144,12 +136,12 @@ Typical career paths go from independent to party-affiliated, or from local to n
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/member-of-the-diet-local-assembly/JP)**

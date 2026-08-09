@@ -1,6 +1,6 @@
 # 数据分析师（Data Analyst）职业分析 · 澳大利亚
 
-**职业代码: 262111 (ANZSCO)**
+**职业代码：262111 (ANZSCO)**
 
 数据分析师通过SQL、Python、Power BI和Tableau等工具分析业务数据，支持企业决策。澳洲数字经济转型和政府开放数据政策驱动持续高需求，是IT类就业量最大、入门门槛相对较低的职业之一，适合技术+商业双背景的人才。
 
@@ -21,8 +21,8 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Data Science / Statistics / Computer Science | 认可大学 | 可选 | 行业通用基础学历 |
-| Microsoft Power BI Data Analyst Associate (PL-300) | Microsoft | 可选 | 澳洲市场最广泛要求的BI分析认证 |
+| 数据科学/统计学/计算机科学学士 | 认可大学 | 可选 | 行业通用基础学历 |
+| Microsoft Power BI数据分析师认证（PL-300） | Microsoft | 可选 | 澳洲市场最广泛要求的BI分析认证 |
 | Tableau Desktop Specialist / Certified Associate | Tableau/Salesforce | 可选 | 与Power BI并列最受欢迎的可视化工具认证 |
 | ACS技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
@@ -30,10 +30,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 95,000. JSA 预测数据和商业分析师至2035年就业增长约20%。AI增强分析（AI-assisted analytics）推动对能解读AI输出的高级分析师需求增加。
+**职位需求量：很高（★★★★★）** 全国从业人数约 95,000。JSA 预测数据和商业分析师至2035年就业增长约20%。AI增强分析（AI-assisted analytics）推动对能解读AI输出的高级分析师需求增加。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等任务将被自动化，但策略解读、业务沟通和跨部门协调能力更难替代。
 
 数据工程（DE）技能（Spark/dbt/Airflow）使数据分析师升级为数据工程师，薪资溢价 $20k~$35k。Power BI和Tableau技能是澳洲市场最广泛要求的BI工具。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 数据清洗与预处理（如缺失值填充、格式转换）
 - 标准报表与仪表板生成（如周报、月报自动更新）
@@ -67,7 +67,7 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 - SQL查询与重复数据提取
 - 基础可视化图表创建（如柱状图、折线图）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI自动探索数据特征，加速发现隐藏模式与异常
 - 通过自然语言查询数据库，降低技术门槛
@@ -75,7 +75,7 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 - 自动化特征工程，提升机器学习模型构建效率
 - 实时数据监控与预警，支持即时决策
 
-**人类护城河:**
+**人类护城河：**
 
 - 业务问题定义与假设构建
 - 数据故事化与战略建议沟通
@@ -83,7 +83,7 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 - 伦理判断与数据偏见识别
 - 逻辑推理与因果分析
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 高级统计与因果推断方法（如A/B测试设计）
 - 数据工程与大数据技术（如Spark、Airflow）
@@ -92,17 +92,17 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 - 业务战略与领域知识深耕
 - 数据可视化设计与交互式仪表板高级技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Business Intelligence & Reporting
-- Data Engineering & ETL Pipelines
-- AI/ML Data Preparation
-- Financial & Risk Analytics
-- Government & Healthcare Data Analytics
+- 商业智能与报告
+- 数据工程与ETL管道
+- AI/ML数据准备
+- 金融与风险分析
+- 政府与医疗数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -113,9 +113,7 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 | Subclass 190 (Skilled Nominated) | 州提名，NSW/VIC/QLD通道 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区IT/数据岗，加15分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -177,12 +175,13 @@ AI对数据分析师的影响喜忧参半：数据清洗、基础报表生成等
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/data-analyst/AU)**

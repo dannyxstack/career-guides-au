@@ -4,8 +4,6 @@
 
 Responsible for operating railway braking systems, signaling equipment, and switches to ensure safe train operation. This position is a critical link in rail transport, requiring high responsibility and precision.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for operating railway braking systems, signaling equipment, and swit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Railway braking, signaling, and switch operators face high automation risk; with the spread of smart interlocking systems like ETCS, manual operation roles will be significantly reduced, but maintenance and emergency supervision roles remain.
-
 Usually start as an apprentice or assistant, and can progress to senior operator or team leader with experience. Some may move into railway dispatching or management roles.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ Usually start as an apprentice or assistant, and can progress to senior operator
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for non-EU high-skilled talent, but the occupation's salary is usually below the Blue Card threshold; employer sponsorship required. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, employers need to apply for quotas, but railway operators are usually not on the shortage list, so quotas are limited |
-| Subclass EU free movement (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Start as an apprentice or junior operator, then gain experience to advance to
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-brake-signal-and-switch-operator/IT)**

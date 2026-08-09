@@ -51,8 +51,6 @@ Professionals who support daily living of the elderly and disabled in medical an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Care robots and AI are advancing, but human interpersonal care remains essential. AI replaces record-keeping and monitoring, reducing staff burden. Demand is high, and AI cannot fully replace human care.
-
 After obtaining Certified Care Worker qualification, career advancement to care manager or facility director is possible. Skill improvement via practical training.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ After obtaining Certified Care Worker qualification, career advancement to care 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（介護） (Specified Skilled Worker (i) (Care)) | Residence status for foreigners in care work. Requires passing skill and Japanese tests. Max stay 5 years. |
-| Subclass 特定技能2号（介護） (Specified Skilled Worker (ii) (Care)) | Care field not eligible for Specified Skilled Worker (ii); not obtainable as of 2024. |
-| Subclass EPA介護福祉士 (Economic Partnership Agreement (EPA)) | Accepts from Indonesia, Philippines, Vietnam. Aims for Certified Care Worker after language and care training. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +138,12 @@ A: After obtaining a Certified Care Worker license, there are paths to become a 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/care-worker-medical-welfare-facilities/JP)**

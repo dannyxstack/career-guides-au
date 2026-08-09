@@ -4,8 +4,6 @@
 
 Pet groomers are responsible for grooming, trimming, styling, nail trimming, ear canal cleaning, and other services for pets (mainly cats and dogs) to ensure hygiene and tidy appearance.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Pet groomers are responsible for grooming, trimming, styling, nail trimming, ear
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pet groomers face mixed prospects for AI and automation: standardized grooming processes can be replaced by automated devices, but the unpredictability of pet behavior and personalized styling needs form a moat, so overall risk is moderate.
-
 You can start as an apprentice in a small pet shop, gain experience, become an independent groomer, or be promoted to store manager and open your own pet grooming salon. Training can also be extended to pet care (such as pet nutrition and training).
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ You can start as an apprentice in a small pet shop, gain experience, become an i
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Employed by a French pet shop or grooming salon, with an employer-sponsored work permit |
-| Subclass Passeport Talent (Passeport Talent) | Suitable for those planning to start a business, and can apply for a talent passport to open a pet grooming shop |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: A CAP Pet Grooming Diploma or equivalent professional certificate is usually 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animal-groomer/FR)**

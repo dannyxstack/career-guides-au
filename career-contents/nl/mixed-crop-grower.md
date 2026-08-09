@@ -51,8 +51,6 @@ Mixed crop farmers plan, plant, cultivate, and harvest various crops such as gra
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Mixed crop growers face mixed prospects: automation will take over repetitive tasks like seeding and monitoring, but complex farming decisions and adapting to climate change still require human experience.
-
 Career progression typically starts as a farm worker or assistant, advancing to farm manager or self-employed farmer. Further moves into agricultural consulting, technology extension, or agribusiness management are possible.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ Career progression typically starts as a farm worker or assistant, advancing to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring at least intermediate vocational qualifications and above-average salary |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to highly skilled immigrants with a work contract; salary threshold lower than the Blue Card, but occupation must meet requirements |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +140,12 @@ A: Yes. Can apply via EU Blue Card or highly skilled migrant visa (kennismigrant
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-grower/NL)**

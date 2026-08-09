@@ -52,8 +52,6 @@ Enrolled nurses in Australia and New Zealand (ANZSCO 4112-11) are registered hea
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Enrolled nurses' overall job content is not easily fully replaced by AI, but administrative, clerical, and some monitoring tasks face automation risks; meanwhile, AI can improve patient monitoring and decision support efficiency, requiring proactive learning of digital tools to remain competitive
-
 Enrolled nurses can advance to clinical specialties (e.g., aged care, mental health) or management roles, or become registered nurses through further study, significantly increasing salary and promotion opportunities
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Enrolled nurses can advance to clinical specialties (e.g., aged care, mental hea
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system (e.g., qualifications + experience) and can apply for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | If residency conditions are not directly met, can gain experience through an Accredited Employer Work Visa. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can specialize in aged care, community health, mental health, or further stud
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/enrolled-nurse/NZ)**

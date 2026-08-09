@@ -1,8 +1,8 @@
-# Naval Architect & Marine Engineer 职业分析 · 韩国
+# 造船工程师与轮机工程师（Naval Architect & Marine Engineer）职业分析 · 韩国
 
-**职业代码: 15118 (KECO)**
+**职业代码：15118 (KECO)**
 
-A professional engineer responsible for the design, research, development, and production technology of ships and offshore structures, playing a key role in shipyards and offshore plant companies.
+负责船舶与海洋结构物设计、研究、开发及生产技术的专业工程师，在船厂和海洋工程公司扮演关键角色。
 
 
 ---
@@ -11,8 +11,8 @@ A professional engineer responsible for the design, research, development, and p
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Engineering | 4年 | $24,000,000~$48,000,000（National vs. Private University） |
-| Master's in Engineering | 2 年 | $12,000,000~$24,000,000（Additional Cost） |
+| 工程学士 | 4年 | $24,000,000~$48,000,000（国立大学 vs 私立大学） |
+| 工程硕士学位 | 2 年 | $12,000,000~$24,000,000（额外费用） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional engineer responsible for the design, research, development, and p
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Mechanical Engineering | Human Resources Development Service of Korea | 可选 | Essential qualification for senior engineers |
-| Professional Engineer in Naval Architecture | Human Resources Development Service of Korea | 可选 | Highest level of expertise certification |
-| Professional Engineer in Welding | Human Resources Development Service of Korea | 可选 | Specialization in production technology |
+| 机械工程专业工程师 | 韩国人力资源开发服务局 | 可选 | 高级工程师必备资格 |
+| 注册造船工程师 | 韩国人力资源开发服务局 | 可选 | 最高级别专业认证 |
+| 专业焊接工程师 | 韩国人力资源开发服务局 | 可选 | 生产技术专业化 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 35,000. Korea's shipbuilding industry is undergoing structural reorganization through high-value-added vessels and eco-friendly/digital transformation; demand for skilled workers remains but employment levels are expected to stagnate.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 35,000。韩国造船业正通过高附加值船舶和环保/数字化转型进行结构调整；熟练工人需求仍存，但就业水平预计停滞。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 很高（★★★★★）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：很高（★★★★★）**
 
 ---
 
@@ -39,94 +39,87 @@ A professional engineer responsible for the design, research, development, and p
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-Level (0–3 years) | $35,000,000~$45,000,000 | Large Company Standard |
-| Mid-Level (5–10 years) | $50,000,000~$70,000,000 | Deputy Department Head Level |
-| Senior Level (15+ years) | $80,000,000~$99,999,999 | Principal Researcher or Above |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 大公司标准 |
+| 中级（5-10年） | $50,000,000~$70,000,000 | 副部门主管级别 |
+| 高级（15年以上） | $80,000,000~$99,999,999 | 首席研究员或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation compress and improve some tasks such as ship design simulation, process optimization, and quality inspection, but creative design and on-site decision-making are led by humans. Overall, the impact is toward strengthening expertise rather than replacement by automation.
+人工智能和自动化压缩并改进部分任务，如船舶设计模拟、流程优化和质量检查，但创意设计和现场决策由人类主导。总体而言，影响是加强专业知识，而非被自动化取代。
 
-Starting as a junior engineer, one can advance to senior engineer, team leader, or principal researcher by accumulating experience in ship design and production technology, typically within major shipyards.
+从初级工程师起步，通过在船舶设计与生产技术方面积累经验，可晋升为高级工程师、团队负责人或首席研究员，通常在大型船厂工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic hull structure calculation
-- Drawing review automation
-- Simple simulation repetitive tasks
+- 基本船体结构计算
+- 图纸审查自动化
+- 简单模拟重复任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal hull form design
-- Production process simulation
-- Quality prediction analysis
+- 最优船型设计
+- 生产过程模拟
+- 质量预测分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex system integration design
+- 复杂系统集成设计
 - 现场突发事件应对
-- Creative interpretation of customer requirements
-- Safety regulation compliance judgment
+- 创造性地解读客户需求
+- 安全法规合规判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Eco-friendly ship design
-- Digital twin
-- AI-based design automation
+- 环保船舶设计
+- 数字孪生
+- 基于AI的设计自动化
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Eco-friendly ships
-- Digital twin
-- Marine drones
-- Green ships
+- 环保船舶
+- 数字孪生
+- 海洋无人机
+- 绿色船舶
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for skilled professionals in shipbuilding/marine fields. Technical qualifications and experience required. |
-| Subclass F-2 (Residence) | Possible to transition to permanent residence after long-term stay. Common transition from E-7. |
-| Subclass D-10 (Job Seeking) | Allows engineering graduates to seek jobs after graduation. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong math, physics, and engineering skills
-- People adaptable to large project teamwork
-- People with long attention span and physical stamina
+- 数学、物理和工程能力强的人
+- 适应大型项目团队合作的人
+- 注意力持久且体力充沛的人
 
 **谁不适合**
-- People who prefer static office work only
-- People who dislike being bound by rules and procedures
+- 只喜欢静态办公室工作的人
+- 不喜欢被规则和程序束缚的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a shipbuilding/marine engineer?**
-答：Starting annual salary at large companies is 35-45 million KRW, intermediate 50-70 million, senior 80-120 million.
+**问：造船/海洋工程师起薪是多少？**
+答：大企业起薪3500-4500万韩元，中级5000-7000万，高级8000万-1.2亿韩元。
 
-**问：Can foreigners get an E-7 visa for this job?**
-答：Yes, the ship and ocean engineering field is eligible for E-7 (Special Activities) visa for professionals. An engineering degree or higher and work experience are required, with Korean language proficiency being advantageous.
+**问：外国人能否获得此职位的E-7签证？**
+答：是的，船舶与海洋工程领域符合专业人士的E-7（特殊活动）签证资格。需要工程学位或以上学历及工作经验，韩语能力为加分项。
 
-**问：What is the minimum education required for this job?**
-答：Generally, a bachelor's degree in ship and ocean engineering or a related engineering field is required, with a master's degree or higher being advantageous.
+**问：这份工作的最低学历要求是什么？**
+答：通常需要船舶与海洋工程或相关工程学士学位，硕士或更高学位更有利。
 
 
 ---
@@ -144,12 +137,12 @@ Starting as a junior engineer, one can advance to senior engineer, team leader, 
 | 工作强度 | 很高（★★★★★） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/naval-architect-marine-engineer/KR)**

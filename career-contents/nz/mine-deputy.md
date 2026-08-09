@@ -51,8 +51,6 @@ An underground mine deputy supervisor oversees mining operations in New Zealand 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core supervisory duties of a mine deputy are partially replaced by AI, but safety compliance and emergency decisions rely on human judgment; automation threat is moderate, and upskilling can enhance career resilience.
-
 Junior mine deputy can advance to senior deputy, mine manager, or move into safety advisory or training roles. With experience, can obtain advanced management certifications.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior mine deputy can advance to senior deputy, mine manager, or move into safe
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | If meeting Green List occupation criteria, can apply for residency after 2 years of work (currently not on Tier 1 list) |
 | Subclass AEWV (Accredited Employer Work Visa) | Most common work visa pathway, requires a job offer from an approved employer |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Must obtain the National Coal Manager's Certificate (Underground) issued by W
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mine-deputy/NZ)**

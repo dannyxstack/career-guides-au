@@ -4,8 +4,6 @@
 
 An internist is a physician who diagnoses and treats diseases in adult patients using medication and non-surgical methods. They typically work in hospitals or private clinics, handling a variety of internal medical conditions.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ An internist is a physician who diagnoses and treats diseases in adult patients 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is used in internal medicine for image reading, diagnosis assistance, and drug recommendations to improve efficiency, but the core of medical care is handled by human doctors. AI will act as a tool to enhance rather than replace doctors.
-
 After obtaining a general internal medicine specialist license, one can open a private practice or advance from fellow to assistant professor to professor at a university hospital. Subspecialties (e.g., gastroenterology, cardiology) can also be chosen.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ After obtaining a general internal medicine specialist license, one can open a p
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available when employed at a domestic medical institution with internal medicine specialist certification, but Korean proficiency and medical license verification are required |
-| Subclass F-2 (F-2 (Residence) (Points-based)) | Favorable for long-term residence as skilled professionals; doctors benefit from high education and income |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Total of 10+ years: 6 years of medical school, 1 year of internship, 3 years 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/internist/KR)**

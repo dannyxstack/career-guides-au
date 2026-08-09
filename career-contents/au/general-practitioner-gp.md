@@ -57,8 +57,6 @@ General Practitioners (GPs) provide comprehensive primary care services, includi
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-GPs' core diagnosis, complex decision-making, and empathetic communication are hard to automate, but AI will significantly improve efficiency and partially replace tasks like documentation and image screening. Overall risk is medium with significant opportunities.
-
 Telehealth and chronic disease management are the fastest-growing service models. GPs in rural areas benefit from additional government subsidies and an expedited permanent residency pathway.
 
 **Tasks most exposed to AI:**
@@ -115,9 +113,7 @@ Telehealth and chronic disease management are the fastest-growing service models
 | Subclass 190 (Skilled Nominated) | State nomination; rural GPs receive priority nomination |
 | Subclass 491 (Skilled Work Regional) | Regional nomination adds 15 points; rural GPs receive additional government subsidies |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -179,12 +175,13 @@ A: The PR pathway for nurses is faster and simpler (no AMC required), with regis
 | Work intensity | very high (★★★★★) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-practitioner-gp/AU)**

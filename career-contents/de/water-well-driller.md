@@ -54,8 +54,6 @@ Water well drillers use drilling equipment to explore and extract groundwater, c
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Water well drillers face mixed AI impact: hands-on manual operations are hard to replace, but tasks like data recording, equipment monitoring, and report generation may be automated, while AI-assisted geological analysis and predictive maintenance can improve efficiency.
-
 Career path: starting as a drilling assistant (Helfer), completing dual training to become a skilled driller (Facharbeiter), then advancing to foreman (Vorarbeiter) or drilling supervisor (Bohrmeister), or further studying to become a technician or engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: starting as a drilling assistant (Helfer), completing dual training
 | Subclass Chancenkarte (Opportunity Card) | Points-based system, allows one-year job search, suitable for applicants with qualifications and language skills |
 | Subclass Job Seeker (Job Seeker Visa) | Allows 6-month stay in Germany for job seeking; proof of financial means required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can be promoted to foreman, drilling supervisor, or through further study bec
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-well-driller/DE)**

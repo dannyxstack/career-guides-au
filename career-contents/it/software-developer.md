@@ -51,8 +51,6 @@ In Italy, software developers are responsible for designing, writing, and mainta
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Junior developer → intermediate → senior/architect → technical manager or CTO. Can also gain experience and then start a business or become a freelancer. Continuous learning of new languages and frameworks is key.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior developer → intermediate → senior/architect → technical manager or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applies to highly skilled non-EU employees, requiring a university degree + work contract and a salary threshold of approximately €27,000 (2023). Fast-track, can bring family members. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU employees. Requires employer sponsorship, longer process, suitable for those not meeting Blue Card conditions. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Employers apply to the immigration department for work permits, which is a prerequisite for obtaining a work visa. Approval takes about 2-4 months. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, digital transformation drives demand growth. Fintech, manufacturing, and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-developer/IT)**

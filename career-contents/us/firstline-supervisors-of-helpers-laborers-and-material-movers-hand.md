@@ -52,8 +52,6 @@ Directly supervises and coordinates the activities of movers, laborers, or manua
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Entry-level positions for movers and material handling supervisors (movers) are being heavily compressed by automated guided vehicles and robots, but supervisory and scheduling responsibilities are partially enhanced by AI scheduling systems; overall job numbers are decreasing.
-
 Usually start as a handler, then advance to supervisor, and further to warehouse manager or logistics manager.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as a handler, then advance to supervisor, and further to warehouse
 | Subclass H-1B (H-1B Specialty Occupation) | This occupation typically does not qualify for H-1B professional specialty due to not requiring a bachelor's degree. |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers, Professionals, and Other Workers)) | May apply through EB-3 Other Workers category, but requires PERM labor certification and long wait times. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires several years of supervisory experience and may require furt
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-helpers-laborers-and-material-movers-hand/US)**

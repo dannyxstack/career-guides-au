@@ -52,8 +52,6 @@ Responsible for planning, organizing and supervising the operation of nursing ho
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Nursing management careers face automation augmentation rather than replacement, as core supervision and human care are difficult to replace by AI, but administration and scheduling will be highly automated.
-
 Usually start in nursing or management roles, can progress to regional manager or operations director; some transition to nursing consulting or policy development.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually start in nursing or management roles, can progress to regional manager o
 | Subclass Skilled Worker (Skilled Worker Visa) | Meets skill and salary requirements; suitable for care manager positions, considered a shortage occupation can lower the salary threshold. |
 | Subclass Health & Care (Health and Care Worker Visa) | Applicable to the medical and nursing industries, with fast-track processing and lower visa fees, and can bring family members. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, this occupation is on the skilled worker visa occupation list and is a s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/residential-day-and-domiciliary-care-managers-and-proprietors/UK)**

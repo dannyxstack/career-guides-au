@@ -4,8 +4,6 @@
 
 Concrete construction workers are responsible for the construction of concrete structures, including formwork, pouring, leveling, and curing, and are widely used in residential, commercial, and infrastructure projects.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Concrete construction workers are responsible for the construction of concrete s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Structural differentiation of concrete construction workers' tasks: repetitive physical labor (mixing, vibration) is easily replaced by automation, but skills such as on-site judgment, exception handling, and formwork precision control have been enhanced, intensifying competition for entry-level positions.
-
 Employees can be promoted from ordinary workers to concrete foremen or site managers, or develop into technical experts or quality inspectors after obtaining a CAP/BTS diploma through apprenticeships.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Employees can be promoted from ordinary workers to concrete foremen or site mana
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Temporary Worker)) | Foreign workers eligible for long-term contracts with French employers must be certified by the French Labor Bureau to prove labor shortages. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For highly skilled talents, such as technical experts required by enterprises, employer sponsorship is required, with an annual salary not less than 1.5 times the statutory minimum wage. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | Graduates or foreigners under specific circumstances are allowed to seek employment in France for one year, but cannot work directly. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Typically, CAP concrete worker qualifications or a higher BTS diploma are req
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/concrete-construction-worker/FR)**

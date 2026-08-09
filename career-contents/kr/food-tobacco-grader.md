@@ -51,8 +51,6 @@ A professional who inspects and grades the quality of food and tobacco products,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation are replacing some tasks such as visual inspection and size measurement, but sensory evaluations like taste, smell, and touch, as well as final judgment, still require human involvement. As a result, the scope of work is narrowing, but complete replacement is not expected.
-
 Starting as a junior inspector, one can advance to senior grader or quality control team leader with experience; obtaining a food engineer certificate is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Starting as a junior inspector, one can advance to senior grader or quality cont
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | In manufacturing, etc., for unskilled labor, simple inspection tasks possible |
-| Subclass E-7 (Specific Activities) | Holding a food engineer license enables employment as a skilled worker |
-| Subclass F-2 (Residence) | No employment restrictions for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: While some tasks like visual inspection are automated, sensory evaluation and
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-tobacco-grader/KR)**

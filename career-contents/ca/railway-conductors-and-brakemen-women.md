@@ -54,8 +54,6 @@ Railway train crew and signallers are responsible for the safe operation of trai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI/automation will significantly optimise scheduling and process management, but cannot replace on-site safety judgments and emergency decision-making. The overall trend for the role is a mix of being augmented while some tasks are replaced.
-
 Junior train crew usually start as assistants or interns and can advance to train captain or dispatcher after gaining experience. Some may move to management roles or railway safety training.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior train crew usually start as assistants or interns and can advance to trai
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Highly restricted, usually requires LMIA employer sponsorship or specific pro
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-conductors-and-brakemen-women/CA)**

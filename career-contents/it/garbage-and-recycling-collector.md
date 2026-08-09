@@ -51,8 +51,6 @@ Responsible for collecting urban waste and recyclables, operating garbage trucks
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of garbage and recycling collectors will be significantly reduced due to AI and automation: route planning, vehicle operation, and sorting are all highly automatable, leaving only physical labor that is insufficient to sustain the job scale.
-
 Can advance to team leader or waste management coordinator, requiring experience accumulation and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Can advance to team leader or waste management coordinator, requiring experience
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Quota Work Visa) | Applicable to non-EU workers, annual quota, requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled workers, but this occupation usually does not meet the salary requirement. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: Can advance to team leader or waste management coordinator, requiring additio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/garbage-and-recycling-collector/IT)**

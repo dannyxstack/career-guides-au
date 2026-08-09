@@ -51,8 +51,6 @@ Physiotherapists help patients restore movement function and relieve pain throug
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Demand for physiotherapists will grow with AI assistance; AI handles paperwork and data analysis, but core manual therapy and clinical decisions are hard to replace, leading to a positive career outlook.
-
 Can progress from a hospital physiotherapist to a department head, or open a private practice, and may also develop into specialized areas such as sports rehabilitation or geriatric rehabilitation.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from a hospital physiotherapist to a department head, or open a pri
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a work contract and minimum salary (approx. annual ≥ €30,000). |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota for non-EU citizens in shortage occupations. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Application supported by employer, must prove that the position cannot be filled by an EU citizen. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Not required. EU citizens enjoy free movement rights and can work directly in
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physiotherapist/IT)**

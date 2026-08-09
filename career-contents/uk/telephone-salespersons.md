@@ -51,8 +51,6 @@ Telephone sales operators receive, process and record orders for goods and servi
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core tasks of telemarketers (order entry, information inquiries, simple responses) will be highly replaced by AI voice assistants and automation systems, entry-level positions will be greatly reduced, but complex customer relationship management still requires humans.
-
 Career progression includes senior telesales representative, team leader, sales manager, etc. After gaining customer service experience, can move to other sales or account management roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Career progression includes senior telesales representative, team leader, sales 
 | Subclass Graduate (Graduate Visa) | For UK graduates, can work freely, but telemarketers usually have lower salary, may not meet subsequent visa requirements |
 | Subclass Temporary Work - Sea (Seasonal Worker) | Temporary seasonal work visa, not applicable for this long-term position |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: Eligible for Skilled Worker visa with minimum salary threshold and employer s
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-salespersons/UK)**

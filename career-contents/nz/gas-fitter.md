@@ -53,8 +53,6 @@ Gas fitters have high feasibility for immigrating to New Zealand; New Zealand ha
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gas plumber employment demand is stable, but AI will automate administrative tasks like documentation, scheduling, and compliance checks; on-site work relies on physical skills and judgment, with low short-term replacement risk, but entry-level roles narrow due to high certification requirements.
-
 Career progression typically starts from apprenticeship to licensed gas fitter, then to project supervisor, contractor, or owning a gas business. With experience, one can move to large industrial projects or training roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression typically starts from apprenticeship to licensed gas fitter, 
 | Subclass SMC (Skilled Migrant Category) | Apply for skilled migration through the 6-point system (e.g., education + work experience + salary), requiring employer sponsorship |
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable to applicants who have not obtained registration; first work for 2 years with an accredited employer, then transfer to residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Holders of Australian qualifications can convert directly through the Trans-T
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gas-fitter/NZ)**

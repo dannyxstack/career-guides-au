@@ -51,8 +51,6 @@ Land surveyors measure land boundaries, terrain, and building positions, providi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Surveyor tasks show polarization: routine data collection and regulatory checks are easily automated by AI, but on-site surveys, contract arbitration, and sign-off responsibilities relying on physical presence and legal authorization remain stable or even amplified.
-
 Junior surveyors can advance to project supervisor or registered surveyor, or shift to geographic information systems (GIS) or remote sensing fields.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Junior surveyors can advance to project supervisor or registered surveyor, or sh
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs such as Ontario, BC, etc. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can be used as a pathway to immigration |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Can apply via Express Entry (FSW/CEC) or Provincial Nominee Program (PNP); so
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/land-surveyors/CA)**

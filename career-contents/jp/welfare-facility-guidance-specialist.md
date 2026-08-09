@@ -4,8 +4,6 @@
 
 A professional in social welfare facilities who develops care plans for users, instructs staff, and manages operations. Responsible for improving service quality and human resource development.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A professional in social welfare facilities who develops care plans for users, i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI and RPA support data analysis and record-keeping for care plan creation, but human interaction and team guidance remain central. AI improves efficiency, making the specialist's role even more important.
-
 Career starts as a care worker or life counselor. After gaining practical experience, advance to chief or manager, then to welfare facility guidance specialist. Further goals include facility director or community-based integrated care leader.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Career starts as a care worker or life counselor. After gaining practical experi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply to foreigners with Certified Social Worker qualification and relevant work experience; however, work experience requirements are strict. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Long-Term Care)) | Long-term care field. However, the position of instruction specialist is close to being excluded from Specified Skilled Worker. |
-| Subclass 高度専門職1号 (Highly Skilled Professional (i)) | Applicable if educational background, work experience, and annual income requirements are met. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: A social worker certification and practical experience are required. It's com
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welfare-facility-guidance-specialist/JP)**

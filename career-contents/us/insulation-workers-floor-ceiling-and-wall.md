@@ -53,8 +53,6 @@ Responsible for installing insulation materials in building floors, ceilings, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation will significantly change insulation workers' work: repetitive tasks like measuring and cutting may be replaced by automated tools, but on-site installation, complex adaptations, and compliance checks still require humans — a mixed blessing.
-
 Apprentices can advance to skilled insulators, then to foremen, supervisors, or inspectors. Some experienced workers can become energy auditors or building contractors through further study.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Apprentices can advance to skilled insulators, then to foremen, supervisors, or 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Yes. Can advance from apprentice to skilled worker, then to foreman, field su
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-workers-floor-ceiling-and-wall/US)**

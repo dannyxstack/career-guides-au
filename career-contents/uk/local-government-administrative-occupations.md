@@ -53,8 +53,6 @@ Local government administrative officers handle various administrative and cleri
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on local government administrative staff is mixed: routine tasks like document processing and data entry will be automated, but responsibilities requiring interpersonal judgment, such as resident communication and policy explanation, are enhanced by AI tools.
-
 Can progress from junior administrative assistant to senior administrator or department head; some may transition to policy or project management roles through internal training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior administrative assistant to senior administrator or dep
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Typically requires GCSE English and Maths; some employers offer on-the-job tr
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/local-government-administrative-occupations/UK)**

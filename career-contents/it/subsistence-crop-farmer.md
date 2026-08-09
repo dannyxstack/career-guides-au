@@ -4,8 +4,6 @@
 
 Subsistence crop farmers in Italy mainly engage in small-scale family agriculture, growing vegetables, grains, fruits, etc. for own consumption or local sale, representing traditional farming models.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Subsistence crop farmers in Italy mainly engage in small-scale family agricultur
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Self-sufficient crop farmers face mixed impacts from AI/automation: physical labor tasks are hard to replace, but information gathering and crop monitoring can be enhanced by AI; entry barriers remain largely unchanged.
-
 Limited career development paths; most farmers maintain the status quo. Potential directions include transitioning to organic certification or direct sales (farmers' markets, CSA), and a few can expand to commercial farms or cooperative memberships.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Limited career development paths; most farmers maintain the status quo. Potentia
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Quota visa for non-EU seasonal agricultural workers, requires employer sponsorship, limited annual quota. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU/EEA citizens can freely engage in subsistence farming in Italy without a visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Limited development opportunities, mainly maintaining family farms. A few can
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/subsistence-crop-farmer/IT)**

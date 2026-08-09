@@ -54,8 +54,6 @@ Rail travel assistants sell and check tickets, provide information and assistanc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Rail travel assistant's ticketing, inquiry, and some customer service tasks will be replaced by AI self-service and robots, reducing job numbers, but complex coordination and safety supervision still require humans.
-
 Can progress from entry-level station attendant to senior assistant, station supervisor, or train manager. Some move to customer service, operations management, or safety roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from entry-level station attendant to senior assistant, station sup
 | Subclass Skilled Worker (Skilled Worker) | This occupation is not on the eligible occupations list for the Skilled Worker visa and typically cannot be sponsored through this route. |
 | Subclass Graduate (Graduate Visa) | If holding a UK degree, can apply for a Graduate Visa to work in the UK for 2 years (3 years for PhD), but the occupation is unrestricted. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, can advance to station supervisor, train manager, or operations manageme
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-travel-assistants/UK)**

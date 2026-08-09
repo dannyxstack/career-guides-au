@@ -4,8 +4,6 @@
 
 A profession responsible for menu planning, cooking supervision, and kitchen management in restaurants or hotels, ensuring food quality and hygiene.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A profession responsible for menu planning, cooking supervision, and kitchen man
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and robots can replace simple repetitive tasks through cooking automation (e.g., robot chefs, automatic fryers), but creative menu development and overall kitchen management skills remain human domains. AI will act as a tool that amplifies the capabilities of head chefs.
-
 Promotion path: Cook → Kitchen Section Chief → Head Chef → Executive Chef. In large hotels or franchises, experience and qualifications are important.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Promotion path: Cook → Kitchen Section Chief → Head Chef → Executive Chef.
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled cooks can work at specialized restaurants |
-| Subclass F-2 (F-2 (Residence)) | Free job change after long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: A cooking technician certificate is advantageous; with experience, advanced c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/head-chef/KR)**

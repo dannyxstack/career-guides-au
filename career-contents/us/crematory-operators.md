@@ -54,8 +54,6 @@ Operates cremation equipment to reduce human or animal remains to ash, following
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of a crematory operator are highly repetitive and process-oriented. AI and automation will significantly take over equipment monitoring, record archiving, etc., leading to a sharp reduction in demand, though emotional support and regulatory compliance still require humans.
-
 Typically start as an apprentice or assistant, then progress to supervisor or crematorium manager after gaining experience. Can obtain certification as a mortician (requiring additional education) to expand career scope, or move into funeral home management. Advanced roles include cremation equipment sales or trainer.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Typically start as an apprentice or assistant, then progress to supervisor or cr
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Typically requires a high school diploma, followed by state-mandated training
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crematory-operators/US)**

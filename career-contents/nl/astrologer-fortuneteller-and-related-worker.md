@@ -52,8 +52,6 @@ Provide personal consulting services such as astrology, tarot, and numerology, s
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Astrologers/fortune-tellers rely heavily on intuitive interpretation; AI struggles to replace their core tasks, but information retrieval and report writing have been significantly impacted by automation. Entry barriers may be lowered due to the spread of AI tools, making it a mixed situation.
-
 Start as a junior astrologer and progress to senior consultant, media columnist, or training mentor. Some practitioners launch online courses or publish books to enhance their brand and income.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Start as a junior astrologer and progress to senior consultant, media columnist,
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled migrants employed by a Dutch employer, but this occupation is usually self-employed and does not meet requirements. |
-| Subclass Self-Employed Person (Self-Employed Residence Permit) | Self-employed residence permit, requires proof of substantial benefit to the Dutch economy, assessed via the Points System. |
-| Subclass EU Blue Card (EU Blue Card) | Requires university degree and high salary; this occupation usually does not meet the salary threshold. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: No mandatory qualifications, but self-employment requires KVK registration an
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/astrologer-fortuneteller-and-related-worker/NL)**

@@ -51,8 +51,6 @@ Senior Health Documentation Technicians are responsible for managing medical rec
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of a senior health documentation technician is mixed: AI can automate coding and data entry, but accurate coding of complex cases, quality audits, and compliance responsibilities still require human judgment. Overall risk is moderate, requiring proactive transformation.
-
 Promotion is possible to become a health information management supervisor or medical coding specialist. Earning a health information management degree through continuing education can lead to roles in data analysis or hospital management. Those with language proficiency can work in international medical coding.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Promotion is possible to become a health information management supervisor or me
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | For employment-based work residence, a contract must be provided by a Spanish company, and the employer can prove that the position is difficult to fill locally. |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card, for highly skilled professionals, requires relevant qualifications or work experience, salary meets threshold (around €39,000). |
-| Subclass Altamente cualificad (Highly Skilled Professional Visa) | The Highly Skilled Professional Visa (Ley 14/2013) is suitable for in-demand occupations and has a faster process. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Typically, you need to complete 2 years of Advanced Vocational Training (FP G
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-health-documentation-technician/ES)**

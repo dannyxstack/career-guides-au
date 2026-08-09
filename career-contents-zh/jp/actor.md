@@ -1,10 +1,8 @@
 # 演员（Actor）职业分析 · 日本
 
-**职业代码: 233 (JSCO)**
+**职业代码：233 (JSCO)**
 
-A profession that performs roles based on scripts in film, television, stage, etc., delivering emotion and empathy to audiences and viewers.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种根据剧本在电影、电视、舞台等中扮演角色，向观众传达情感与同理心的职业。
 
 
 ---
@@ -13,8 +11,8 @@ A profession that performs roles based on scripts in film, television, stage, et
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Acting Department) | 2 年 | $2,000,000~$4,000,000（学费因学校而异） |
-| University (Theater Department) | 4年 | $4,000,000~$8,000,000（Public universities are inexpensive, but private ones are costly） |
+| 职业学校（表演系） | 2 年 | $2,000,000~$4,000,000（学费因学校而异） |
+| 大学（戏剧系） | 4年 | $4,000,000~$8,000,000（公立大学便宜，但私立大学费用高） |
 
 ---
 
@@ -22,16 +20,16 @@ A profession that performs roles based on scripts in film, television, stage, et
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| None in particular | 无 | 可选 | Qualifications are not mandatory, but acting ability is emphasized. |
+| 无特殊要求 | 无 | 可选 | 资格不是强制性的，但强调表演能力。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Demand is stable due to the expansion of digital distribution, but competition is extremely intense, and regular employment is rare.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于数字发行的扩展，需求稳定，但竞争极为激烈，正式工作很少。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,93 +37,86 @@ A profession that performs roles based on scripts in film, television, stage, et
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $1,000,000~$3,000,000 | Part-time jobs are common |
-| 中级（3-10年） | $3,000,000~$8,000,000 | Stable income from TV appearances, etc. |
-| Advanced (10+ years) | $8,000,000~$50,000,000 | Lead actors earn high income |
+| 入门级（0-3年） | $1,000,000~$3,000,000 | 兼职工作很常见 |
+| 中级（3-10年） | $3,000,000~$8,000,000 | 通过电视露面等获得稳定收入 |
+| 高级（10年以上） | $8,000,000~$50,000,000 | 主要演员收入高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can synthesize an actor's expressions and voice, but humans have an advantage in emotional expression and improvisation. However, extras and some voice acting roles may be replaced.
+人工智能可以合成演员的表情和声音，但人类在情感表达和即兴表演方面具有优势。然而，群众演员和一些配音角色可能会被取代。
 
-Career starts with theater company membership or auditions, progressing to lead roles or directing after gaining experience. Freelance is common.
+职业生涯始于加入剧团或试镜，积累经验后晋升为主角或导演。自由职业常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Extra
-- Simple voice acting
-- CG stunt doubles
+- 额外
+- 简单配音
+- CG特技替身
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Facial capture
-- CG avatar operation
-- Acting assistance via speech synthesis
+- 面部捕捉
+- CG虚拟形象操作
+- 语音合成辅助表演
 
-**人类护城河:**
+**人类护城河：**
 
-- Emotional expression
-- Improv
-- Audience rapport
+- 情感表达
+- 即兴表演
+- 观众互动
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Acting ability
-- Improvisation
-- Physical expression
-- Understanding of digital technology
+- 表演能力
+- 即兴表演
+- 肢体表达
+- 了解数字技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Video Distribution
-- Video Production
-- Voice Actor Demand
-- Performing Arts
+- 视频分发
+- 视频制作
+- 配音演员需求
+- 表演艺术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 興行 (Entertainment Visa) | For foreigners engaging in artistic activities. Performance contract required. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services Visa) | For advanced acting instruction, etc. Limited applicability. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Expressive People
-- Enduring People
-- Cooperative People
+- 表现型人群
+- 持久员工
+- 善于合作的人
 
 **谁不适合**
-- People Who Dislike Standing Out
-- Stability-Oriented People
+- 不喜欢出风头的人
+- 注重稳定的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of an actor?**
-答：Beginner: around 1-3 million yen. Intermediate: 3-8 million yen. Advanced: over 8 million yen.
+**问：演员的平均年收入是多少？**
+答：初级：约100-300万日元。中级：300-800万日元。高级：超过800万日元。
 
-**问：Can foreigners work as actors in Japan?**
-答：Possible with an entertainment visa, but requires performance contracts and is very challenging.
+**问：外国人可以在日本当演员吗？**
+答：持有娱乐签证可能可行，但需要演出合同，且非常困难。
 
-**问：Is a training school necessary to become an actor?**
-答：Not mandatory, but it's common to learn basics at vocational schools or theater companies.
+**问：成为演员需要上培训学校吗？**
+答：非强制，但通常在职业学校或剧团学习基础知识。
 
 
 ---
@@ -143,12 +134,12 @@ Career starts with theater company membership or auditions, progressing to lead 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/actor/JP)**

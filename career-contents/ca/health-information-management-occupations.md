@@ -51,8 +51,6 @@ Clinical coders in Canada belong to health information management occupations, r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI greatly boosts efficiency for health information management practitioners via automated coding and data analysis, but core clinical judgment and compliance responsibility remain human-led; career prospects are enhanced, not replaced.
-
 Entry-level coders can advance to senior coder, coding supervisor, or health information manager. Obtaining certification from the Canadian Health Information Management Association (CHIMA) aids career development. They may also transition to data analysis or healthcare management roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level coders can advance to senior coder, coding supervisor, or health inf
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario and British Columbia have provincial nomination programs for health information management |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, suitable for those with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must obtain certification from the Canadian Health Information Management Ass
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/health-information-management-occupations/CA)**

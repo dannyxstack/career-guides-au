@@ -52,8 +52,6 @@ A profession involving the operation and monitoring of chemical product manufact
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are used for monitoring and control of manufacturing processes, contributing to quality stability, while tasks requiring human judgment such as anomaly response and equipment adjustment remain. Overall, parts of the work are streamlined, but full replacement is difficult.
-
 Start as a manufacturing operator. Gain field experience and advance to quality control or process management leader. Further career growth into production engineering or R&D support is possible. Promotion is easier with certifications.
 
 **Tasks most exposed to AI:**
@@ -93,17 +91,9 @@ Start as a manufacturing operator. Gain field experience and advance to quality 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Up to 5 years in 3 manufacturing fields (incl. chemistry); requires skills test & JLPT N4+. Job change allowed. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher & specialized knowledge. For chemical engineers & QC roles. Eligible for permanent residence. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Chemical Manufacturing)) | Up to 5 years (i+ii); aims at skill transfer. Not direct hire but supervised organization type. Constructive discussions available. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | Under consideration for implementation after 2026. For skilled workers; allows family accompaniment & permanent residence. Not yet in effect. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +137,12 @@ A: Possible with high school graduation or higher. Many companies provide traini
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-product-manufacturing-worker/JP)**

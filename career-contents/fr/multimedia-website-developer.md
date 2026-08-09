@@ -53,8 +53,6 @@ Responsible for the design, development, and maintenance of multimedia websites,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly boost web development efficiency, especially in code generation and test automation, but will not completely replace developers' roles in design, debugging, and collaboration. Entry-level positions are compressed by low-code tools, but the value of senior roles like full-stack and architect is amplified.
-
 You can be promoted to technical director, project manager, or architect, or develop into UX design, full-stack development, and more.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted to technical director, project manager, or architect, or dev
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Must hold at least 3 years of higher education diploma, with an annual salary meeting the EU Blue Card threshold (approximately 54,000 euros). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a work contract and project plan, with relatively flexible annual salary requirements |
-| Subclass Salarié (Work Permit (Salarié)) | Must have a French employer sponsorship, a work contract, and salary meeting industry standards |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Frontend development (HTML/CSS/JavaScript), multimedia integration, responsiv
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/multimedia-website-developer/FR)**

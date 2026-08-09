@@ -4,8 +4,6 @@
 
 Responsible for architectural technical design, construction supervision, and urban planning to ensure projects comply with technical standards and regulations, and coordinate engineering teams and government approvals.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Responsible for architectural technical design, construction supervision, and ur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will deeply reshape the work of technical architects and urban planners. Some tasks such as drafting and compliance checks are automated, but the overall role is amplified, requiring mastery of AI tools to enhance design optimization and data analysis capabilities.
-
 You can advance from technical architect to project director or urban planning supervisor, or pursue a master's degree to transition to large-scale project or urban planning management roles.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ You can advance from technical architect to project director or urban planning s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed professionals) | For employment and residence, a Spanish company must provide a guarantee and a labor contract |
-| Subclass Altamente cualificad (Highly Qualified Professional Visa) | Highly skilled professional visa for high-salary or in-demand occupations; requires qualifications and a contract. |
-| Subclass Tarjeta azul UE (EU Blue Card) | EU Blue Card requires high salary and education, making it easy to move within the EU |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: You can be promoted from technician to project manager, urban planner, or ope
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-architect-and-urban-planner/ES)**

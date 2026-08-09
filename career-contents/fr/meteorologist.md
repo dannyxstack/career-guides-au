@@ -4,8 +4,6 @@
 
 Meteorological information officers are responsible for collecting and analyzing meteorological data, providing weather forecasts and climate analysis, serving industries such as aviation, agriculture, and energy.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Meteorological information officers are responsible for collecting and analyzing
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Meteorological information officers face a significant compression of AI automation: automatic data collection, numerical forecast models, and AI interpretation will replace a large number of basic observation, data organization, and simple forecasting tasks, with entry-level positions noticeably narrowed.
-
 You can be promoted from technician to senior forecaster, or move into roles such as climate research or risk management. Continuous learning of numerical forecasting models and satellite remote sensing technology is required.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from technician to senior forecaster, or move into roles suc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, requiring a master's degree + employment contract, valid for 4 years |
-| Subclass Salarié (Employee Visa) | Requires a French employer sponsorship, work contract + labor permit application |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Public sector prefers engineers graduating from ENM, while private companies 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/FR)**

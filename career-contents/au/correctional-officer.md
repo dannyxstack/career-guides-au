@@ -53,8 +53,6 @@ Correctional officers supervise, secure, and support rehabilitation of detainees
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will optimize monitoring and paperwork, but prison officers' core security supervision and crisis management require human judgment. Overall role structure remains stable, but entry-level jobs require more skills due to technology
-
 Pathway: correctional officer → senior/supervisor → specialist (crisis/intelligence); shifts, overtime, and allowances significantly affect actual income.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Pathway: correctional officer → senior/supervisor → specialist (crisis/intel
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -144,12 +140,13 @@ A: No, it is a state government local public role and often requires citizenship
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/correctional-officer/AU)**

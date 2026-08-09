@@ -51,8 +51,6 @@ Responsible for corporate IT strategy, system architecture, team management, and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Typically progresses from IT project manager or systems analyst to Chief Information Officer (CIO) or Technical Director.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Typically progresses from IT project manager or systems analyst to Chief Informa
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for IT professionals; requires employer sponsorship; no specified minimum annual salary. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search card allowing a 1-year stay in Germany to find work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: English is commonly used in large multinational companies, but most businesse
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-manager/DE)**

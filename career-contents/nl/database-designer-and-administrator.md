@@ -52,8 +52,6 @@ Responsible for designing, implementing, maintaining, and optimizing database sy
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on DBAs is mixed: routine maintenance and tuning will be automated, but advanced responsibilities like strategic design, security compliance, and complex troubleshooting gain importance, shifting role value toward cloud and automation platforms.
-
 Can progress from junior DBA to senior database administrator, database architect, then to data engineering or data science management roles. Oracle/Microsoft certifications can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Can progress from junior DBA to senior database administrator, database architec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly skilled non-EU citizens with annual salary above the threshold, employer-sponsored, fast-track residence. Current threshold approx. €5,008/month (over 30). |
-| Subclass EU Blue Card (EU Blue Card (Netherlands)) | Suitable for professionals earning over €56,000 per year (2023 standard); fast track, can bring family. |
-| Subclass Orientation Year (Orientation Year for Graduates) | Graduates from the Netherlands or master's/doctoral graduates from the world's top 200 universities can apply for a one-year job search visa, no employer sponsorship required. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Oracle OCP, Microsoft Azure Database Administrator, and CDMP certification ar
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/database-designer-and-administrator/NL)**

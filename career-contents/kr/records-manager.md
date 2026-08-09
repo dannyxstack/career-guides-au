@@ -4,8 +4,6 @@
 
 A records manager is a professional who systematically collects, classifies, preserves, and utilizes documents and records of public institutions and enterprises, managing the entire lifecycle of records.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A records manager is a professional who systematically collects, classifies, pre
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates tasks like classification and metadata creation, but human judgment remains crucial for records appraisal and preservation, making full replacement difficult.
-
 Careers typically start at public records management agencies, university libraries, or corporate archives. After obtaining a professional records manager certification, promotion to a managerial position is possible.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Careers typically start at public records management agencies, university librar
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for hiring foreign workers in specialized fields, but rare in records management |
-| Subclass F-2 (F-2 (Residence)) | Permitted for long-term residents, can work as records manager |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +131,12 @@ A: A professional records manager certification is required, and a librarian cer
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-manager/KR)**

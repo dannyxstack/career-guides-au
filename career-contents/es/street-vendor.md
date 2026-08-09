@@ -4,8 +4,6 @@
 
 Vendors selling goods directly to pedestrians on the street or in public spaces, usually selling food, drinks, clothing, or small commodities.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Vendors selling goods directly to pedestrians on the street or in public spaces,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on street vendors is mixed: automated pricing and payments can improve efficiency but rely on human craftsmanship and on-site interaction; The entry barrier may be slightly higher due to algorithmic management, but core skills remain difficult to replace.
-
 Career advancement is limited, and most are self-employed. Some hawkers may switch to formal stalls or open small shops, or transfer to other retail positions through training.
 
 **Tasks most exposed to AI:**
@@ -97,16 +93,9 @@ Career advancement is limited, and most are self-employed. Some hawkers may swit
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | It is extremely rare to be employed by a company doing street vending; it is usually self-employed, making it difficult to obtain a work visa. |
-| Subclass Cuenta propia (Self-Employment Work Permit) | Requires proof of investment capability and business plan feasibility, making approval difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You need to apply for a business license from the local municipal office, and
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/street-vendor/ES)**

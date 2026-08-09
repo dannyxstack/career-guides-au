@@ -54,8 +54,6 @@ Cash van salesperson drives a van along a designated route to sell goods, collec
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Cash van salespeople face significant replacement risk due to AI-driven autonomous delivery vehicles and electronic payment systems, leading to reduced demand in the short to medium term.
-
 Entry-level salespeople can advance to sales supervisor or route manager, or transfer to warehouse management, wholesale sales, etc. After accumulating client resources, they can independently contract routes.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Entry-level salespeople can advance to sales supervisor or route manager, or tra
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: This occupation is not on Australia's skilled migration occupation list, cann
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cash-van-salesperson/AU)**

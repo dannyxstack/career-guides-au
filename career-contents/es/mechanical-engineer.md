@@ -52,8 +52,6 @@ Mechanical engineers are responsible for designing, analyzing, manufacturing, an
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The impact of AI automation on mechanical engineers is mixed: CAD/CAE, simulation iterations, and standard inspection tasks will be replaced, but system integration, failure analysis, cross-department collaboration, and innovative design that rely on physical intuition and responsibility judgment will be enhanced by AI.
-
 Career development usually starts as a junior design engineer or project engineer, gradually advancing to senior engineer, technical manager, or project manager. After gaining experience, you can move into research and development (R&D) or consulting, or pursue management roles through Máster or become an independent consultant (autónomo). Registering as Ingeniero Industrial helps enhance qualifications.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Career development usually starts as a junior design engineer or project enginee
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled skilled migration, you need a job offer and an annual salary threshold (about 33,900 euros) to quickly obtain work residency. |
-| Subclass Altamente cualificad (Highly Qualified Professional Visa (Ley 14/2013)) | For highly educated or in-demand occupations, the process is fast and family members can be brought along. |
-| Subclass Cuenta ajena (Work Contract Visa (Employed)) | The standard employment work visa is for technical personnel with contracts with Spanish companies, requiring proof that the position is non-substitutive. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: For signed project documents (such as engineering drawings and safety certifi
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/ES)**

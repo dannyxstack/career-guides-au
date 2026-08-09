@@ -51,8 +51,6 @@ Selling food, beverages, textiles, and other goods at markets, festivals, or tem
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Entry-level and repetitive tasks for market stall and fair salespersons will be significantly reduced by AI-driven self-checkout and inventory management systems, but interpersonal interaction and on-site adaptability remain valuable.
-
 typically no structured career path; can develop into senior salesperson, stall supervisor, or run own stall. Some move into retail management or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ typically no structured career path; can develop into senior salesperson, stall 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -145,11 +141,12 @@ A: This occupation is not in shortage and cannot apply for Blue Card or skilled 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/market-stall-and-market-vendor/DE)**

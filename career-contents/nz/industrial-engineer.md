@@ -52,8 +52,6 @@ Industrial engineers optimize production processes and supply chains in manufact
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Industrial engineers can progress from junior analyst to senior engineer or management, leading lean improvement or supply chain optimization projects. With project management and data analysis skills, they can move into consulting or executive roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Industrial engineers can progress from junior analyst to senior engineer or mana
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Through the 6-point system, industrial engineers can gain points for education and experience, and apply for residence after meeting the threshold. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a temporary work visa, allows work with an accredited employer before transitioning to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: International student tuition approximately NZ$25,000-45,000 per year, 4-year
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-engineer/NZ)**

@@ -53,8 +53,6 @@ Broadcast technicians set up, operate, and maintain electronic equipment for cap
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of broadcast technicians has mixed prospects: AI can automate repetitive tasks like signal monitoring and format conversion, but on-site troubleshooting, creative collaboration, and emergency handling remain human strengths.
-
 Career path: junior technician → senior technician → broadcast supervisor → technical director. Can also move into production, broadcast engineering, or IT support roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path: junior technician → senior technician → broadcast supervisor �
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Yes, but requires a bachelor's degree or equivalent and employer sponsorship.
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/broadcast-technicians/US)**

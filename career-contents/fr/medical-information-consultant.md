@@ -51,8 +51,6 @@ Providing scientific information consulting on drugs, treatments, and medical de
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core value of medical information consultants lies in information accuracy, compliant interpretation, and cross-disciplinary communication. Although AI can quickly retrieve and summarize literature, it cannot fully replace clinical judgment and responsibility. Entry-level positions face some compression due to AI coverage of basic information retrieval needs, but senior consultants, relying on critical thinking and customized consulting, have amplified opportunities, with mixed career prospects.
-
 Junior medical information consultants can be promoted to senior consultants or team leaders; They can also shift to roles such as pharmacovigilance, medical affairs, or market access. Some enter CROs or independent consulting.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior medical information consultants can be promoted to senior consultants or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | For highly skilled talent, especially master's degree or above or annual salary ≥2x SMIC, valid for 4 years, renewable. |
-| Subclass Salarié (Employee Visa) | Work contract + labor permit, valid for 1 year, renewable and suitable for entry-level positions with employer sponsorship. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary ≥ €53,000 (2024), with scarce occupations reduced to €42,000, valid for 4 years, and eligible for family members. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Typically requires a Doctor of Pharmacy or Doctor of Medicine (6 years) or a 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-information-consultant/FR)**

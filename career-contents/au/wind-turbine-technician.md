@@ -56,8 +56,6 @@ Wind Turbine Technicians are responsible for the installation, operation, mainte
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Wind turbine technician roles are mixed regarding AI/automation impact: predictive maintenance and remote monitoring enhance efficiency, but physical operations still rely on humans; automation compresses basic diagnostic roles but adds advanced data analysis and system optimization roles.
-
 Offshore wind energy is expected to create a large number of new technician roles between 2027 and 2030, with salaries 20–30% higher than onshore. Those with existing onshore experience are well positioned to transition to offshore roles.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Offshore wind energy is expected to create a large number of new technician role
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 | Subclass 491 (Skilled Work Regional) | Remote wind farm location: +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -165,12 +161,13 @@ A: Not required. An electrician's licence plus GWO certification is sufficient t
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wind-turbine-technician/AU)**

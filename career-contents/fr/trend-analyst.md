@@ -52,8 +52,6 @@ Trend analysts are responsible for collecting and analyzing market, consumer, or
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Junior trend analysts can be promoted to senior trend analysts or strategy consultants, or may move on to market research managers or innovation directors. After gaining experience, you can start your own business or become a freelance consultant.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior trend analysts can be promoted to senior trend analysts or strategy consu
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | For highly skilled non-EU citizens, an annual salary of 53,900 euros (2024 standard) is required, with a contract of at least one year. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, including those with a master's degree or above, or internal transfers within multinational companies, with no strict minimum salary cap. |
-| Subclass Salarié (Employee Work Permit) | Employed by a French company requires a work permit and a salary above the statutory minimum wage (SMIC). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can be promoted to Senior Analyst, Strategy Consultant, or Market Researc
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trend-analyst/FR)**

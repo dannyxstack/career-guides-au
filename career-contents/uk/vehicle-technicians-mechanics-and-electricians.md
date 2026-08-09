@@ -53,8 +53,6 @@ Responsible for diagnosing, repairing, and maintaining mechanical and electrical
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Can progress from junior technician to senior technician, workshop supervisor, or brand specialist. Specialize in new energy vehicles, diagnostic technology, or transition to training/management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from junior technician to senior technician, workshop supervisor, o
 | Subclass Graduate (Graduate visa) | Graduates can stay in the UK for 2 years to work, then can switch to Skilled Worker. |
 | Subclass Scale-up (Scale-up visa) | Requires sponsorship by a qualifying high-growth company, with higher salary requirements. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to senior technician, workshop supervisor, brand specialist, or t
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-technicians-mechanics-and-electricians/UK)**

@@ -51,8 +51,6 @@ Bakers/pastry chefs work in bakeries, bread shops, cafes, or food manufacturing,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
-
 Junior bakers can grow to bakery supervisor, store manager, or start their own bakery. Those with artistic pastry skills can move to high-end hotels or boutique bakeries, or obtain chef qualifications, with salary significantly increasing with experience and creativity.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior bakers can grow to bakery supervisor, store manager, or start their own b
 | Subclass SMC (Skilled Migrant Category) | Also eligible for 6-point skilled migration: hold an offer for accredited employer work (3 points) + relevant qualification (e.g., baking diploma gives 3 points) to reach 6 points and apply for residence. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you have no intention to immigrate, you can first work in New Zealand for 3 years on an Accredited Employer Work Visa, and then apply for residency once conditions are met. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically employers do not require a degree, but completing the New Zealand C
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker/NZ)**

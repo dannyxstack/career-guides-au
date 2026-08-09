@@ -53,8 +53,6 @@ Responsible for manufacturing and repairing body structures of road vehicles, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The impact of AI on car body manufacturing and repair workers is mixed: AI-driven design, diagnostics, and process optimization will enhance some tasks, but computer vision and robotics can automate damage detection and basic repairs, compressing entry-level roles; overall risk is moderate.
-
 Can progress from apprentice to skilled tradesperson, then to team leader or workshop manager. Specialization in areas like aluminum welding or classic car restoration can increase salary.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from apprentice to skilled tradesperson, then to team leader or wor
 | Subclass Graduate (Graduate Visa) | UK graduates can apply to stay and work for 2 years, then switch to a work visa after gaining experience |
 | Subclass Global Talent (Global Talent Visa) | Applicable to individuals with outstanding achievements in the automotive body repair field, but rarely applied |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires an NVQ Level 3 in Body Repair (awarded by City & Guilds or
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-body-builders-and-repairers/UK)**

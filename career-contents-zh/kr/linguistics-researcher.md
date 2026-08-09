@@ -1,10 +1,8 @@
-# Linguistics Researcher 职业分析 · 韩国
+# 语言学研究员（Linguistics Researcher）职业分析 · 韩国
 
-**职业代码: 11013 (KECO)**
+**职业代码：11013 (KECO)**
 
-A professional research position that scientifically studies the structure, evolution, acquisition, and social functions of human language. It covers various subfields such as phonetics, syntax, and semantics, and analyzes language data in academia and industry.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+一种专业研究职位，科学研究人类语言的结构、演变、习得和社会功能。涵盖语音学、句法学、语义学等多个子领域，并在学术界和工业界分析语言数据。
 
 
 ---
@@ -13,8 +11,8 @@ A professional research position that scientifically studies the structure, evol
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 硕士学位 | 2 年 | $20,000,000~$40,000,000（Based on national university tuition, excluding living expenses） |
-| 博士 | 4年 | $30,000,000~$60,000,000（Based on national university tuition, excluding living expenses） |
+| 硕士学位 | 2 年 | $20,000,000~$40,000,000（基于国立大学学费，不含生活费） |
+| 博士 | 4年 | $30,000,000~$60,000,000（基于国立大学学费，不含生活费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional research position that scientifically studies the structure, evol
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Master's degree or higher in linguistics | 大学 | 必备 | Required requirement |
-| Research paper record | Academic conferences | 可选 | Important for experienced hires |
+| 语言学硕士或以上学历 | 大学 | 必备 | 必备要求 |
+| 研究论文记录 | 学术会议 | 可选 | 对有经验的招聘很重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 1,200. With the advancement of AI and natural language processing technologies, the importance of linguistics research is increasing. However, due to the nature of professional research positions, employment scale is small and competition is fierce. Amid the overall contraction of the humanities, linguistics is creating new opportunities through convergence with data analysis.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 1,200。随着人工智能和自然语言处理技术的发展，语言学研究的重要性日益增加。然而，由于专业研究岗位的性质，就业规模小且竞争激烈。在人文学科整体收缩的情况下，语言学通过与数据分析的融合创造新的机遇。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional research position that scientifically studies the structure, evol
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$40,000,000 | Based on research institute or corporate researcher |
-| Mid-level (4-9 years) | $45,000,000~$60,000,000 | Principal researcher level |
-| Senior level (10+ years) | $65,000,000~$90,000,000 | Based on research lab team lead or professor |
+| 入门级（0-3年） | $30,000,000~$40,000,000 | 基于研究机构或企业研究人员 |
+| 中级（4-9年） | $45,000,000~$60,000,000 | 首席研究员级别 |
+| 高级（10年以上） | $65,000,000~$90,000,000 | 基于实验室团队负责人或教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI automates data collection, preprocessing, and statistical analysis in linguistic research to improve efficiency, but understanding the sociocultural context of language and building theories remain human tasks. The field of natural language processing has actually expanded the role of linguists.
+AI自动化了语言研究中的数据收集、预处理和统计分析以提高效率，但理解语言的社会文化背景和构建理论仍是人类任务。自然语言处理领域实际上扩大了语言学家的角色。
 
-After obtaining a master's or doctoral degree, one typically advances into positions at universities, national research institutes, or corporate labs. Career progression includes roles such as research lead, professor, or data scientist, and ties to the AI field are advantageous for promotion and career expansion.
+获得硕士或博士学位后，通常进入大学、国立研究所或企业实验室。职业路径包括研究组长、教授或数据科学家，与AI领域结合有利于晋升和职业扩展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Acoustic Analysis and Statistical Processing
-- Language Corpus Transcription
-- Automatic Extraction of Basic Grammar Patterns
+- 声学分析与统计处理
+- 语料库转录
+- 基本语法模式的自动提取
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Large-scale Language Data Analysis
-- Linguistic Typology Research
-- Socio-linguistic Pattern Discovery
+- 大规模语言数据分析
+- 语言类型学研究
+- 社会语言模式发现
 
-**人类护城河:**
+**人类护城河：**
 
-- Theoretical Insights and Hypothesis Formation
-- Interpretation of Human Language Acquisition
-- Language Analysis Considering Culture and Context
+- 理论见解与假设形成
+- 人类语言习得的解读
+- 考虑文化和语境的语言分析
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Programming (Python, R)
-- Statistical Analysis
-- Basics of Machine Learning and Deep Learning
-- Natural Language Processing Toolkits (e.g., KoNLPy, spaCy)
+- 编程（Python、R）
+- 统计分析
+- 机器学习和深度学习基础
+- 自然语言处理工具包（例如KoNLPy, spaCy）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Natural language processing
-- Language data
-- AI Language Models
-- Multilingual Research
+- 自然语言处理
+- 语言数据
+- AI语言模型
+- 多语言研究
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For professionals in research or technical fields, possible when meeting degree and experience requirements |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, research activities allowed |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with deep academic curiosity who can focus on long-term research
-- Someone interested in data analysis and linguistic theory
-- Someone who enjoys interdisciplinary research
+- 具有深厚学术好奇心并能专注于长期研究的人
+- 对数据分析和语言学理论感兴趣的人
+- 喜欢跨学科研究的人
 
 **谁不适合**
-- Someone who wants quick results and high income
-- Someone who finds it difficult to focus only on pure theory rather than practical application
+- 追求快速结果和高收入的人
+- 难以专注于纯理论而非实践应用的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a linguist researcher?**
-答：For beginners, approximately 30-40 million KRW; mid-level 45-60 million KRW; advanced 65-90 million KRW, varying by research institute and company.
+**问：语言研究员的平均薪资是多少？**
+答：初学者约3000-4000万韩元；中级4500-6000万韩元；高级6500-9000万韩元，因研究机构和公司而异。
 
-**问：Can foreigners get a job as a linguist researcher?**
-答：Possible but very limited. They can be hired through E-7 visas at university labs or high-tech corporate research labs, but Korean language skills and degrees are essential, and competition is fierce.
+**问：外国人可以找到语言学家研究员的工作吗？**
+答：可能但非常有限。可通过E-7签证受雇于大学实验室或高科技企业研究实验室，但需要韩语能力和学位，且竞争激烈。
 
-**问：What is the long-term prospect of this job?**
-答：With AI development increasing demand for language data, the outlook is positive, but the number of full-time positions is limited. Combining data science skills broadens career paths.
+**问：这份工作的长期前景如何？**
+答：随着AI发展增加语言数据需求，前景乐观，但全职职位数量有限。结合数据科学技能可拓宽职业道路。
 
 
 ---
@@ -144,12 +135,12 @@ After obtaining a master's or doctoral degree, one typically advances into posit
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/linguistics-researcher/KR)**

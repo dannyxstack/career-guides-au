@@ -4,8 +4,6 @@
 
 Providing on-demand or appointment passenger transport services for individual customers, including ride-hailing, taxis, private charters, and more. Driving skills, familiarity with the route, and ensuring passenger safety and comfort are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Providing on-demand or appointment passenger transport services for individual c
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Autonomous driving technology will significantly reduce taxi driver positions, but full replacement will take time; in the short term, ride-sharing platform optimization of scheduling intensifies competition, narrowing entry-level roles.
-
 You can be promoted from an ordinary driver to a fleet leader, dispatcher, or self-employed entrepreneur. You can also obtain advanced passenger transport qualifications (such as VTC) to serve high-end customers. Some drivers have turned to logistics or business transfer services.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can be promoted from an ordinary driver to a fleet leader, dispatcher, or se
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee work permit)) | Employer-sponsored work visa requiring proof the position cannot be filled by an EU resident; suitable for joining a transport company as an employee. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled or investment projects, individual transport drivers may find it difficult to meet the standards unless they have a business plan. |
-| Subclass Auto-entrepreneur (Auto-entrepreneur (Self-employed)) | You can apply for self-employment residence, but you need to prove business feasibility and financial capability. It is suitable for ride-hailing drivers to register on their own. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Short-term demand remains stable, especially in major cities and tourist area
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-transport-driver/FR)**

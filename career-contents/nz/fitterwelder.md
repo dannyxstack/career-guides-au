@@ -52,8 +52,6 @@ Welder-Assemblers use welding and assembly techniques to manufacture and repair 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-In welding tasks, programming of cutting and path planning is easily automated by AI, but on-site welding, heavy equipment operation, and safety inspection require human tactile judgment and flexibility, making it a mixed occupation.
-
 Start as an apprentice or junior welder, gain experience to advance to senior welder, supervisor, or workshop manager; some transition to high-paying engineering roles by obtaining qualifications like International Welding Engineer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an apprentice or junior welder, gain experience to advance to senior we
 | Subclass SMC (Skilled Migrant Category) | If you meet the 6-point system requirements (e.g., qualifications + work experience), you can apply for skilled migration |
 | Subclass AEWV (Accredited Employer Work Visa) | If you don't meet direct residence conditions, you can work under a accredited employer work visa first and later convert to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually complete a 3-4 year apprenticeship and obtain a New Zealand National 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitterwelder/NZ)**

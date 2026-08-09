@@ -52,8 +52,6 @@ Working on Canadian farms for nut harvesting, planting, and initial processing; 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Harvesting work is significantly affected by automation; low-skilled repetitive tasks are easily replaced, reducing entry-level jobs, but on-site farm operations still require human presence.
-
 May advance from general harvest worker to farm supervisor or machinery operator, but lacks clear career ladder. Most workers remain at entry level.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ May advance from general harvest worker to farm supervisor or machinery operator
 | Subclass SAWP (Seasonal Agricultural Worker Program) | Seasonal Agricultural Worker Program, temporary work visa, not directly leading to immigration. |
 | Subclass PNP Rural (Provincial Nominee Program (rural streams)) | Pilot programs in remote areas of a few provinces, but usually require higher skills |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually no education or certificate required; employer provides training. May
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/harvesting-labourer/CA)**

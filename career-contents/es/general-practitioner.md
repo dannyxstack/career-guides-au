@@ -4,8 +4,6 @@
 
 General practitioners are at the heart of primary healthcare in Spain, responsible for diagnosing and treating common diseases, managing chronic conditions, and referring specialists to specialists. They work in public healthcare systems (SNS) or private clinics and are patients' first point of contact.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ General practitioners are at the heart of primary healthcare in Spain, responsib
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-General practitioners face the dual impact of AI-assisted enhancements and task compression: administrative management and medical record processing will be replaced, but diagnostic decision-making, patient communication, and complex case management remain core human domains.
-
 General practitioners can be promoted from primary care center doctors to medical coordinators, health management positions, or specialist training (such as family and community medicine). You can also open a private clinic or engage in academic research.
 
 **Tasks most exposed to AI:**
@@ -98,17 +94,9 @@ General practitioners can be promoted from primary care center doctors to medica
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Applicable to general practitioners employed by Spanish companies, who must hold a work contract and have a certified academic degree (homologación). |
-| Subclass Cuenta ajena (Work Visa (Employed)) | Traditional work residence requires employer sponsorship, usually applies to non-urgent positions, and has a longer approval cycle. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled immigrants, requiring a university degree and above-average salary, GPs are usually eligible. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: You can be promoted to medical coordinator, community health manager, or beco
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-practitioner/ES)**

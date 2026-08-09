@@ -51,8 +51,6 @@ Responsible for wood drying, anti-corrosion treatment, and quality control to en
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Timber drying and preservation technicians face risk of automation compression; smart sensors and AI prediction algorithms will take over most environmental monitoring and process control tasks, but on-site operations and decisions still require human intervention.
-
 Starting as an operator, can advance to drying/preservation supervisor, or become a wood technology specialist through further education. Some shift to timber trading or quality control.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as an operator, can advance to drying/preservation supervisor, or becom
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Requires completion of a recognized vocational training program (dual system) or qualification in Germany, with employer sponsorship. This occupation is eligible via this pathway. |
 | Subclass Chancenkarte (Opportunity Card) | A points-based job-seeking visa, launched in 2024. Eligible individuals can come to Germany to look for a job, suitable for those with certified qualifications in their occupation. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, can be promoted to drying supervisor or preservation specialist, or beco
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-drying-and-preservation-specialist/DE)**

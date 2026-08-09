@@ -53,8 +53,6 @@ Parking lot attendants guide customers to parking spots, collect parking fees, o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Parking attendants face high automation risk; due to mature technologies like AI visual recognition, automatic barriers, and mobile payments, most tasks (guidance, payment, ticketing) can be replaced, but on-site emergency handling and vehicle guidance still require human labor, and entry-level positions will significantly decrease.
-
 Career progression is limited; common advancement to parking supervisor, parking manager, or shifting to customer service roles. A few can enter vehicle management or traffic operations.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression is limited; common advancement to parking supervisor, parking
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Limited promotion opportunities; can advance to parking supervisor, parking m
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/parking-attendants/US)**

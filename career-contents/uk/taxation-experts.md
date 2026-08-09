@@ -52,8 +52,6 @@ Tax specialists provide advice on tax matters and assess tax liabilities, ensuri
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of tax experts (tax compliance consulting and strategy optimization) will be significantly enhanced by AI, but simple filing and data entry tasks face automation replacement. Humans still need to maintain dominance in complex tax planning and accountability.
-
 Junior assistants can advance to tax manager, senior manager, and ultimately tax director or partner. With experience, they can opt for professional qualifications like CTA, or move into consulting, corporate finance, or international tax.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior assistants can advance to tax manager, senior manager, and ultimately tax
 | Subclass Scale-up (Scale-up Worker Visa) | For tax specialists working in fast-growing companies, with a 6-month sponsorship requirement, after which they can switch employers flexibly. |
 | Subclass Graduate (Graduate Visa) | Applicable to UK university graduates, allowing them to work in the UK for 2 years after graduation (3 years for PhD), gaining experience before switching to a work visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires solid knowledge of tax law, analytical skills, communication skills,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/taxation-experts/UK)**

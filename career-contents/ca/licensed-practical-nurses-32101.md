@@ -52,8 +52,6 @@ Licensed Practical Nurses (LPNs) provide basic nursing care in Canada's healthca
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on Licensed Practical Nurses: routine documentation and monitoring tasks will be automated, but direct patient care and emergency judgment are enhanced; overall demand remains stable due to aging population.
-
 LPNs can accumulate experience to advance to Registered Nurse (RN) or enter specialized nursing fields; they can also transition into nursing management, community health, or education through further study. Provincial registration requirements are strict, but interprovincial mobility is relatively flexible.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ LPNs can accumulate experience to advance to Registered Nurse (RN) or enter spec
 | Subclass PNP (Provincial Nominee Program) | Many provinces list LPN as a skilled occupation, with fast permanent residency through Provincial Nominee Programs. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, usually needing to prove they cannot hire local staff. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a 2-year LPN diploma program, then passing the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/licensed-practical-nurses-32101/CA)**

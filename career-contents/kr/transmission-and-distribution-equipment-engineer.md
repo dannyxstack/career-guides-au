@@ -51,8 +51,6 @@ This engineer is responsible for designing, constructing, operating, and maintai
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technology assist in design optimization, fault prediction, and remote monitoring, but on-site safety and direct work must be performed by humans, so the impact is limited.
-
 After high school graduation, possible to join public companies like KEPCO, or after associate degree, join engineering firms. After acquiring professional engineer certification, can advance to management; some may enter overseas projects.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ After high school graduation, possible to join public companies like KEPCO, or a
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (특정활동) (Professional Employment Visa) | Can be issued to skilled technicians with qualifications and experience such as electrical engineer. |
-| Subclass E-5 (전문직) (Professional Worker Visa) | Available with a master's degree or higher, or 5 years of experience. |
-| Subclass F-2 (거주) (Long-term Residence Status) | Convertible from E-7, no restrictions on commercial activities. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: The electrician certification is mandatory, and obtaining a senior electricia
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transmission-and-distribution-equipment-engineer/KR)**

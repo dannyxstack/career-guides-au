@@ -4,8 +4,6 @@
 
 Operate and control power generation equipment to ensure stable electricity supply, including fossil fuel, nuclear, and renewable energy power stations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate and control power generation equipment to ensure stable electricity supp
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Power plant operator work will be partially replaced by AI, but safety monitoring and emergency response remain core moats; AI-enhanced monitoring and optimisation, suitable for transitioning to AI-assisted operator.
-
 Can advance from assistant operator to senior operator, shift supervisor, and further to power station management or energy system optimization specialist.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Can advance from assistant operator to senior operator, shift supervisor, and fu
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Permit) | For skilled talent earning at least €50,088 per year (2025 standard), sponsored by an employer, eligible for permanent residency after 5 years of work. |
-| Subclass EU Blue Card (EU Blue Card Netherlands) | Annual salary threshold approximately €60,000 (2025), requires higher education degree, can bring family members, free to change employers after 1 year. |
-| Subclass Orientation Year (Zo (Orientation Year Permit) | Graduates from the Netherlands or master's/PhD graduates from top 200 global universities can get a 1-year job-seeking visa, then switch to the KM visa for highly skilled work. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Typically requires MBO-4 level vocational education in electricity or mechani
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-production-plant-operator/NL)**

@@ -53,8 +53,6 @@ Teach agricultural science courses at a university or college, covering agronomy
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Career path typically starts as assistant professor, progressing to associate and full professor, or transitioning to research management or administrative roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career path typically starts as assistant professor, progressing to associate an
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for master's degree or below, requires PERM, long wait times |
 | Subclass O-1 (O-1 Extraordinary Ability) | For professors with outstanding research achievements, no labor certification required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Employment growth is stable but tenure-track positions are highly competitive
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-sciences-teachers-postsecondary/US)**

@@ -4,8 +4,6 @@
 
 Operate forklifts, forklifts, and other engineering equipment to handle, load, unload, and stack goods in warehouses, factories, or logistics centers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate forklifts, forklifts, and other engineering equipment to handle, load, u
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Forklift operator positions face the risk of automation shrinking, but AI technology can assist with route optimization and safety management, and will not be completely replaced in the short term.
-
 Promotion from junior operator to senior forklift driver or team leader. By obtaining higher-level certifications, you can operate specialized equipment (such as telescopic boom forklifts) and move on to warehouse management or logistics coordination roles.
 
 **Tasks most exposed to AI:**
@@ -95,16 +91,9 @@ Promotion from junior operator to senior forklift driver or team leader. By obta
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Must be sponsored by a French employer proving the position is difficult to fill; Typically, at least Bac+2 degree or equivalent experience is required |
-| Subclass Passeport Talent (Talent Passport) | This applies to high-skilled or high-paying positions, but forklift drivers usually do not meet the requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +137,12 @@ A: Must hold a CACES operating license (issued by a certification body) valid fo
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forklift-truck-driver/FR)**

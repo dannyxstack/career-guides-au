@@ -54,8 +54,6 @@ Rail train drivers operate passenger or freight trains, ensuring safe and punctu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Train drivers face mixed impacts from AI/automation: train control systems and autonomous driving technologies will replace some operational tasks, but safety responsibilities, complex route handling, and industry regulatory requirements still provide a moat for humans; mining and freight routes have strong demand, and entry-level positions may temporarily shrink then stabilize.
-
 Junior train drivers can progress to senior drivers or trainers through experience, some may transition to dispatching management or railway operations management roles. After dual-system training, they typically start working directly and can advance to senior technicians or operations supervisors through further education.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior train drivers can progress to senior drivers or trainers through experien
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Must complete a recognized vocational training program (Ausbildung) in Germany and pass qualification certification to apply for a work visa. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa that allows coming to Germany to find training or job opportunities, suitable for applicants who have obtained partial qualification recognition. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: After completing dual vocational training, must pass theoretical and practica
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/train-driver-railway-traffic/DE)**

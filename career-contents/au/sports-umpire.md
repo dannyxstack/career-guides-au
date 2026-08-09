@@ -53,8 +53,6 @@ Sports referees enforce rules and make judgments in various sports events to ens
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on sports referee roles is mixed: rule enforcement and penalty assistance may be automated, but dispute resolution, emotional management, and on-field adaptability still require human judgment.
-
 Junior referees can advance to officiate at national-level events by gaining experience. Some enter sports management, coaching, or event organization. A few top referees work full-time in professional leagues with substantial income.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior referees can advance to officiate at national-level events by gaining exp
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Almost impossible. The occupation is not on the skilled occupation list, with
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sports-umpire/AU)**

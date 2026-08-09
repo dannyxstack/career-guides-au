@@ -4,8 +4,6 @@
 
 Responsible for hosting programs, interviewing guests, and broadcasting news on radio, television, or online platforms, conveying information and entertainment through sound and image. Excellent verbal expression, on-the-spot adaptability, and audience interaction skills are required.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for hosting programs, interviewing guests, and broadcasting news on 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on program hosts is mixed: automated news broadcasting and basic content generation capabilities have improved, but emotional interaction, impromptu control, and personalized expression remain core barriers for live hosts, and the industry entry barrier may rise due to the widespread adoption of AI tools.
-
 Newcomers often start as reporters, assistants, or local TV stations, and after gaining experience, can be promoted to host or producer. A few can transition to program directors or media consultants, but most remain in front of the camera. Digital capabilities (such as social media operations) are a bonus for promotion.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Newcomers often start as reporters, assistants, or local TV stations, and after 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | A Spanish employer sponsor is required, proving that suitable candidates cannot be recruited within the EU. This profession is not in short supply and is difficult to pass. |
-| Subclass Altamente cualificad (EU Blue Card (Highly Skilled Professional)) | Annual salary must meet the threshold (approximately €33,908) and hold an advanced degree. Request the employer to provide a formal contract. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Traditional TV broadcasting is growing slowly, but digital content (podcasts,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radio-television-and-other-presenters/ES)**

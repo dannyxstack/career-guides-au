@@ -4,8 +4,6 @@
 
 A care service job responsible for childcare, meals, hygiene management of infants and toddlers at home or in facilities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A care service job responsible for childcare, meals, hygiene management of infan
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Childcare helper is a job that is hard to replace with AI. Care requires human empathy, physical contact, and instant judgment, but some tasks can be assisted by smart baby monitors and AI-based parenting information apps. Therefore, work efficiency improvement is expected rather than workforce reduction.
-
 Beginner helper → Experienced helper → Acquire childcare worker certification → Start a private childcare helper business or advance to public childcare service specialist.
 
 **Tasks most exposed to AI:**
@@ -88,17 +84,9 @@ Beginner helper → Experienced helper → Acquire childcare worker certificatio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Foreign childcare helpers can be employed but limited, mainly for co-ethnics |
-| Subclass F-2 (F-2 (Residence)) | Available for non-permanent residents through family invitation, etc. |
-| Subclass F-4 (Overseas Koreans) | F-4 visa holders aged 25+ may work |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Yes, gaining experience and certification as a child care specialist can lead
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-helper/KR)**

@@ -53,8 +53,6 @@ Gamekeepers manage wildlife habitats, protect hunting resources, enforce hunting
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gamekeepers face mixed impacts from AI: automated monitoring and data analysis tools reduce traditional patrol and record-keeping roles, but complex decision-making tasks like ecological management and population control are enhanced by AI, while core field mobility and enforcement responsibilities are hard to replace
-
 Usually start as a hunting assistant; with experience can advance to senior gamekeeper or reserve manager, or transition into wildlife management and ecological consulting.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as a hunting assistant; with experience can advance to senior game
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must first obtain the German recognized gamekeeper professional qualification
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gamekeeper/DE)**

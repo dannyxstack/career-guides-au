@@ -53,8 +53,6 @@ Operate cranes, gantry cranes, and power-driven hoisting equipment to lift and m
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The operations of crane operators are being enhanced by AI-assisted systems, not replaced; automation risk is low, but adapting to new technologies is needed to improve efficiency.
-
 Potential advancement to senior crane operator, crane supervisor, or site equipment manager. Gain competitive edge through qualifications in operating multiple crane types (e.g., tower cranes, mobile cranes). Some transition to training or safety supervision roles.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Potential advancement to senior crane operator, crane supervisor, or site equipm
 | Subclass Skilled Worker (Skilled Worker Visa) | This occupation is on the eligible occupations list and requires employer sponsorship. Minimum salary approximately £26,200/year or industry standard, meeting requirements allows permanent residence application. |
 | Subclass Graduate (Graduate Visa) | International students who complete a UK bachelor's or master's degree can apply for a 2-year graduate visa, gain work experience, and then switch to a skilled work visa. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: The most common is the CPCS operator card (essential for construction sites),
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-drivers/UK)**

@@ -51,8 +51,6 @@ Court reporters in New Zealand's judicial system are responsible for recording c
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
-
 Junior stenographers can advance to senior stenographers or court record administrators after gaining experience, and some transition to legal secretaries or transcription service companies. They need to continuously update legal terminology and shorthand techniques.
 
 **Tasks most exposed to AI:**
@@ -102,9 +100,7 @@ Junior stenographers can advance to senior stenographers or court record adminis
 | Subclass SMC (Skilled Migrant Category) | If the occupation is in ANZSCO skill levels 1-3, you can apply for skilled migration under the 6-point system, subject to meeting points requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | With accredited employer sponsorship, can apply for a work visa up to 3 years, may switch to other categories after gaining experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Typically requires completion of a shorthand certificate or legal secretary c
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-reporter/NZ)**

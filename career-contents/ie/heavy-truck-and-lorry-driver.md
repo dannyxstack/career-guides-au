@@ -52,8 +52,6 @@ Driving heavy trucks and vans to transport goods is a key role in Ireland's logi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Can advance from driver to team leader or dispatcher; with experience, can independently run transport operations or transition to logistics management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from driver to team leader or dispatcher; with experience, can indep
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but driver positions typically do not qualify. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer, suitable for experienced drivers. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to fleet supervisor, logistics manager, or buy your own truck to 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heavy-truck-and-lorry-driver/IE)**

@@ -4,8 +4,6 @@
 
 A judicial officer who presides over court proceedings and resolves legal disputes. A profession that realizes social justice through fair trials in accordance with the constitution and laws.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A judicial officer who presides over court proceedings and resolves legal disput
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can assist judges in tasks such as legal document review, case analysis, and sentencing prediction, but final judgment and discretion will remain the exclusive domain of human judges. AI can enhance work efficiency, allowing judges to focus on more complex cases.
-
 After passing the bar exam or graduating from law school, obtaining a lawyer's license, and upon appointment as a judge, one can advance to positions such as senior judge of a high court after more than 10 years of experience.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After passing the bar exam or graduating from law school, obtaining a lawyer's l
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (specific activities) | Foreign lawyers can engage in specialized activities at domestic law firms, but appointment as a judge is practically impossible. |
-| Subclass F-2 (Residence) | Requires separate procedures like naturalization after permanent residency. Not a typical immigration path. |
-| Subclass F-5 (Permanent residency) | Permanent residency possible after long-term residence, but judge position is for locals only. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: very low (½☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Must graduate from law school (3 years), pass the bar exam, have 10+ years of
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | very low (½☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/KR)**

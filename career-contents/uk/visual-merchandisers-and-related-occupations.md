@@ -53,8 +53,6 @@ Visual merchandisers are responsible for developing and implementing visual conc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Visual merchandisers face automation risks from AI, but also gain creative enhancement opportunities. Entry-level positions may become more competitive due to AI tools, but senior roles still have a moat.
-
 Junior display assistants can advance to regional visual managers, then to brand visual directors, or transition to cross-functional roles such as retail management or marketing.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Junior display assistants can advance to regional visual managers, then to brand
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Generally does not meet the Skilled Worker Visa sponsorship requirements, as 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/visual-merchandisers-and-related-occupations/UK)**

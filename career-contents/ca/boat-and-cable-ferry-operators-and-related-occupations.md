@@ -52,8 +52,6 @@ Operate and drive small ferries, cable ferries, and similar vessels to safely tr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on ship and cable ferry operators is mainly compression; autonomous driving and remote monitoring technology will gradually replace routine driving and monitoring tasks, but legal and physical constraints slow the process, reducing labor demand.
-
 Typically start as deckhand or ordinary seaman, gain experience to become captain or senior operator, some shift to maritime management or port operations.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as deckhand or ordinary seaman, gain experience to become captai
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., BC, Ontario, the four Atlantic provinces) have provincial nomination programs for transport operators, making it easier to obtain after employer sponsorship. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for an LMIA to support work visa or immigration applications, suitable for applicants with a job offer. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a Small Vessel Operator Certificate and a Restricted Operator Certi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boat-and-cable-ferry-operators-and-related-occupations/CA)**

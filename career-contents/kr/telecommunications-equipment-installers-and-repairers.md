@@ -49,8 +49,6 @@ A specialized technical occupation that installs, inspects, and maintains wired 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI introduces some diagnostics and remote monitoring, but on-site installation and repair require human touch, making replacement difficult for the time being.
-
 After initial training, advancement to advanced equipment repair or management is possible through field experience; obtaining certifications is advantageous.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ After initial training, advancement to advanced equipment repair or management i
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) visa) | Issuable to skilled technicians in telecommunications equipment installation and repair |
-| Subclass E-9 (E-9 (Non-professional Employment) visa) | Limitedly allowed for some simple installation tasks |
-| Subclass F-2 (Residence visa) | Convertible to points-based system after long-term stay |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -139,12 +130,12 @@ A: Not mandatory, but certifications like Professional Engineer in Information a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telecommunications-equipment-installers-and-repairers/KR)**

@@ -1,10 +1,8 @@
 # 公交车司机（Bus Driver）职业分析 · 韩国
 
-**职业代码: 62221 (KECO)**
+**职业代码：62221 (KECO)**
 
-A profession that involves driving city buses, intercity buses, tour buses, etc., to safely transport passengers. Duties include route operation, vehicle inspection, and fare collection.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+驾驶城市公交、城际公交、旅游巴士等，安全运送乘客的职业。职责包括路线运营、车辆检查和票款收取。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that involves driving city buses, intercity buses, tour buses, etc.
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate or higher | 0 | $0~$0（No educational requirement） |
-| Acquire Class 1 Large Vehicle License | 0.5年 | $500,000~$1,500,000（Based on driving school standards） |
-| Acquire Bus Driver Qualification | 0.2 years | $100,000~$300,000（Includes exam fees by city/province） |
+| 高中毕业或以上学历 | 0 | $0~$0（无学历要求） |
+| 获取1类大型车辆驾照 | 0.5年 | $500,000~$1,500,000（基于驾校标准） |
+| 获取公交车司机资格 | 0.2年 | $100,000~$300,000（包含各城市/省份的考试费用） |
 
 ---
 
@@ -23,18 +21,18 @@ A profession that involves driving city buses, intercity buses, tour buses, etc.
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Large Vehicle License | National Police Agency | 必备 | 必需 |
-| Bus Driver Qualification | City/Province Governor | 必备 | Required for city/intercity bus driving |
-| Transport Worker License (Taxi/Bus) | Ministry of Land, Infrastructure and Transport | 可选 | Required for some bus routes |
+| 一级大型车辆驾照 | 国家警察厅 | 必备 | 必需 |
+| 巴士司机资格 | 市/道知事 | 必备 | 城市/城际公交驾驶所需 |
+| 运输从业者执照（出租车/巴士） | 国土交通省 | 可选 | 部分公交线路要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 330,000. Due to aging-driven retirements and sustained public transport demand, new recruitment demand is steady, but labor shortages are intensifying.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 330,000。由于老龄化导致的退休和持续的公共交通需求，新招聘需求稳定，但劳动力短缺加剧。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A profession that involves driving city buses, intercity buses, tour buses, etc.
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $28,000,000~$34,000,000 | Based on city bus standards |
-| Intermediate (4-10 years) | $34,000,000~$42,000,000 | By career and route |
-| Advanced (10+ years) | $40,000,000~$50,000,000 | Express and tour bus driver |
+| 初级（0-3年） | $28,000,000~$34,000,000 | 基于城市公交车标准 |
+| 中级（4-10年） | $34,000,000~$42,000,000 | 按职业和路径 |
+| 高级（10年以上） | $40,000,000~$50,000,000 | 快线和旅游巴士司机 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Driving, the core task of bus drivers, could be threatened long-term by full autonomous AI driving, but currently limited to partial assistance (e.g., sudden braking alerts). Humans are essential for traffic congestion and unexpected situations. For now, job reduction due to automation is not significant.
+驾驶是公交司机的核心任务，长期可能受全自动驾驶AI威胁，但目前仅限于部分辅助（如急刹提醒）。人类在交通拥堵和突发情况中必不可少。目前，自动化导致的岗位减少并不显著。
 
-Can advance from general bus driver to route manager or driver team leader; with large license and certifications, transition to premium buses (tour/express) is possible.
+可以从普通公交车司机晋升为线路经理或司机团队领导；持有大型驾照和认证后，可转向高级巴士（旅游/快线）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple route operation
-- Repeated driving on fixed routes
-- Automatic fare collection
+- 简单路线操作
+- 固定路线重复驾驶
+- 自动售票
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-based traffic information analysis
-- Vehicle status monitoring
-- Driving record analysis
+- 基于人工智能的交通信息分析
+- 车辆状态监测
+- 驾驶记录分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Handling unexpected situations
-- Passenger safety management
-- Interpersonal service
+- 处理突发情况
+- 乘客安全管理
+- 人际服务
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Safe driving skills
-- Electric bus driving skills
-- Customer interaction
-- Utilizing Digital Operating Systems
+- 安全驾驶技能
+- 电动公交车驾驶技能
+- 客户互动
+- 利用数字操作系统
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Public transportation
-- City bus
-- Aging
-- Labor shortage
+- 公共交通
+- 城市公交车
+- 老龄化
+- 劳动力短缺
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Some bus companies may hire foreign drivers on E-9 visa, but limited |
-| Subclass F-2 (Residence (F-2)) | Long-term residents before permanent residency can work |
-| Subclass F-4 (Overseas Korean (F-4)) | No work restrictions for overseas Koreans; bus driving allowed |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong responsibility and emphasis on safe driving
-- People with patience in interpersonal service
-- People who can maintain long-term concentration
+- 责任心强、注重安全驾驶的人
+- 有耐心的人际服务人员
+- 能长时间保持注意力的人
 
 **谁不适合**
-- People with health issues from long driving
-- People vulnerable to stress and struggling with passenger service
+- 因长期驾驶而出现健康问题的人
+- 心理脆弱、难以应对乘客服务的人群
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：公交司机的薪资如何？**
-答：For entry-level, approximately 28-34 million KRW, up to 50 million KRW with experience.
+答：入门级约2800-3400万韩元，有经验可达5000万韩元。
 
-**问：Can foreigners work as bus drivers?**
-答：Partially possible with E-9 visa but limited; F-2 and F-4 visa holders can freely work.
+**问：外国人可以当公交车司机吗？**
+答：持E-9签证部分可能但有限，F-2和F-4签证持有者可自由工作。
 
 **问：需要哪些执照？**
-答：A Class 1 large vehicle license and bus driver certificate are mandatory; route-specific transport worker certificates may be needed.
+答：必须持有1级大型车辆驾照和公交车驾驶员证书；可能需要特定路线的运输工人证书。
 
 
 ---
@@ -147,12 +137,12 @@ Can advance from general bus driver to route manager or driver team leader; with
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/bus-driver/KR)**

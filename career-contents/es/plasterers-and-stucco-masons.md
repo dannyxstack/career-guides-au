@@ -4,8 +4,6 @@
 
 Responsible for applying plaster, gypsum, or cement mortar to the interior and exterior walls of buildings, leveling, decorating, and protecting them to ensure the walls are smooth and attractive.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for applying plaster, gypsum, or cement mortar to the interior and e
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plastering and plastering work are limited to AI: automated tasks such as repeated plaster application and material mixing, but precise leveling and complex shapes still require manual judgment. Moreover, digital penetration at Spanish construction sites is slow, so job openings are unlikely to be significantly reduced in the short term.
-
 You can advance from an ordinary plasterer to foreman or self-employed contractor, or specialize in decorative plaster or restoration techniques. Those with more experience can move on to project management or quality supervision.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can advance from an ordinary plasterer to foreman or self-employed contracto
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Third Country)) | Employer sponsorship required, work contract provided, approved by the labor bureau. Relevant work experience or proof of training is usually required. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, with proof of academic or professional qualifications. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +139,12 @@ A: You must obtain a work contract from a Spanish employer, obtain approval from
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterers-and-stucco-masons/ES)**

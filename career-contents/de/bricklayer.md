@@ -54,8 +54,6 @@ A bricklayer in the German construction industry builds walls, chimneys, arches 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks heavily rely on on-site physical operations and fine manual work, leaving limited room for direct AI replacement; however, automated bricklaying machines and BIM technology have begun to compress routine wall construction tasks, intensifying competition for entry-level positions.
-
 Career progression path: from skilled bricklayer can advance to foreman (Polier), construction manager, or self-employed contractor, or further study to become a construction technician or engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression path: from skilled bricklayer can advance to foreman (Polier)
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows job seeking in Germany, requires qualification recognition |
 | Subclass Job Seeker (Job Seeker Visa) | 6-month job-seeking visa, requiring credential recognition and sufficient funds |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to foreman (Polier), construction manager, or become a skilled te
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bricklayer/DE)**

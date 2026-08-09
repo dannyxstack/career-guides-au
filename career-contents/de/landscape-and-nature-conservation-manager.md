@@ -55,8 +55,6 @@ Responsible for protecting and maintaining natural landscapes and ecosystems, in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core field monitoring and ecological restoration work of conservation and landscape specialists is hard to replace by AI, but office tasks like data analysis and report generation will be significantly enhanced or partially replaced by AI.
-
 Career path includes: starting as a project assistant or technician, advancing to project manager or nature reserve manager after gaining experience, and eventually becoming a department head or independent environmental consultant. Some senior roles require a master's degree or professional certification.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Career path includes: starting as a project assistant or technician, advancing t
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Requires qualification recognition (Anerkennung), degree or vocational training, employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | New 2024 pathway, points-based, no employer pre-hire required, allows job-seeking in Germany for 1 year |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Driven by climate change and biodiversity issues, job demand is steadily incr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-and-nature-conservation-manager/DE)**

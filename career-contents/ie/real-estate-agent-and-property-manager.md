@@ -53,8 +53,6 @@ Responsible for real estate sales, leasing, property management, and client cons
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Real estate agents and property managers have complex task structures. AI can automate aspects like document processing and client matching, but tasks like negotiation, site visits, and trust-building still require human leadership. The overall outlook is mixed.
-
 Can start as an assistant, gain experience to advance to independent agent or property manager, then open your own agency or shift to commercial real estate.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can start as an assistant, gain experience to advance to independent agent or pr
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Start as an assistant, transition to independent real estate agent/property m
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-agent-and-property-manager/IE)**

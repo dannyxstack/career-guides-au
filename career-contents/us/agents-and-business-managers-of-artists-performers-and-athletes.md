@@ -52,8 +52,6 @@ Represents artists, performers, and athletes in dealings with potential employer
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Broker work will be augmented by AI, not replaced: tasks like contract analysis, market matching, and data-driven negotiation strategies are efficiently handled by AI, freeing up human focus on relationship maintenance and creative decisions.
-
 Entry-level often starts as an assistant; building networks allows promotion to independent broker, then to founding a brokerage firm or entering senior entertainment/sports management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level often starts as an assistant; building networks allows promotion to 
 | Subclass O-1 (O-1 Extraordinary Ability) | If the agent has outstanding achievements in their field, they may apply for an O-1 visa. |
 | Subclass EB-2 (EB-2 Advanced Degree or Exceptional Ability) | Apply for a green card through PERM labor certification, requiring an advanced degree or exceptional ability |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree, with business, law, or communications
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agents-and-business-managers-of-artists-performers-and-athletes/US)**

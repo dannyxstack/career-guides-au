@@ -49,8 +49,6 @@ This occupation involves operating machinery or assembling parts in the shoe man
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-As AI and automation technologies are introduced in the shoe manufacturing process, simple repetitive tasks are being replaced. In particular, robot adoption is increasing in cutting, sewing, and assembly lines, reducing the demand for manpower. However, complex manual work and quality inspection still require humans.
-
 Newcomers start with simple assembly or machine assistance, and after gaining skills, can move to line supervisor or quality control roles, but promotion opportunities are limited due to small workplace sizes.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Newcomers start with simple assembly or machine assistance, and after gaining sk
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issued to unskilled foreign workers in manufacturing, including shoe manufacturing. Stay allowed up to 3 years. |
-| Subclass E-7 (E-7 (Specific Activities)) | Limited to skilled workers in footwear manufacturing. Employment recommendation required. |
-| Subclass F-2 (Residence (F-2)) | Convertible after long-term stay on E-7, precursor to permanent residence. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Initially doing simple assembly and machine assistance, then moving to line s
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoe-manufacturing-machine-operators-and-assemblers/KR)**

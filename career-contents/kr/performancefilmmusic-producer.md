@@ -4,8 +4,6 @@
 
 A professional who oversees the planning, production, and distribution of cultural content such as performances, films, and music, managing the overall direction, schedule, and budget of works.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who oversees the planning, production, and distribution of cultur
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used in the planning of performances, films, and music for data analysis (market trend prediction, target marketing), schedule management, and budget optimization, but creative planning, network-based collaboration, and intuitive decision-making remain human domains. While AI assists with some tasks, full replacement is difficult; rather, it increases efficiency, allowing planners to focus on more creative work.
-
 Typically starting as an intern at agencies or production companies, promoted to producer after 3–5 years, then may advance to founding an independent label or becoming an executive at a large company.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Typically starting as an intern at agencies or production companies, promoted to
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7-1 (E-7 (Specific Activities) (Culture·Arts)) | For outstanding talent, requires 3+ years performance planning experience and employment contract |
-| Subclass D-10-1 (Job Seeking (Culture·Arts)) | Holders of a master's degree or higher in culture/arts allowed 6-month job-seeking activity |
-| Subclass F-2-99 (Residence (points-based)) | Convertible after E-7 stay if points met, allows long-term stay |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Yes, actual project planning history has a decisive impact on hiring more tha
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/performancefilmmusic-producer/KR)**

@@ -1,10 +1,8 @@
-# Certified Appraiser 职业分析 · 韩国
+# 认证评估师（Certified Appraiser）职业分析 · 韩国
 
-**职业代码: 02341 (KECO)**
+**职业代码：02341 (KECO)**
 
-A professional who evaluates the value of various assets such as real estate, machinery, and ships, and produces appraisal reports, calculating objective value through legal and economic analysis.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+评估房地产、机械、船舶等各种资产价值的专业人员，出具评估报告，通过法律和经济分析计算客观价值。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who evaluates the value of various assets such as real estate, ma
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $10,000,000~$20,000,000（Based on national universities） |
-| 本科（学士学位） | 4年 | $20,000,000~$60,000,000（Estimated including tuition and living expenses） |
+| 副学士学位 | 2 年 | $10,000,000~$20,000,000（以国立大学为基础） |
+| 本科（学士学位） | 4年 | $20,000,000~$60,000,000（预估含学费和生活费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who evaluates the value of various assets such as real estate, ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certified Appraiser License | Human Resources Development Service of Korea | 必备 | Pass first and second exams, then complete training |
-| Degree in real estate related field | 大学 | 可选 | Bachelor's or higher preferred |
+| 持证评估师执照 | 韩国人力资源开发服务局 | 必备 | 通过第一次和第二次考试，然后完成培训 |
+| 房地产相关领域学位 | 大学 | 可选 | 优先考虑本科或以上学历 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 12,000. Despite market stabilization and tighter regulations, demand in public projects, redevelopment, and taxation remains steady, ensuring stable employment but fierce competition.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 12,000。尽管市场稳定和监管收紧，公共项目、重建和税收方面的需求保持稳定，就业稳定但竞争激烈。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,89 +38,82 @@ A professional who evaluates the value of various assets such as real estate, ma
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (1-3 years) | $35,000,000~$50,000,000 | Based on appraisal corporations |
-| Mid Level (4-9 years) | $60,000,000~$99,999,999 | Senior Appraiser level |
-| Senior Level (10+ years) | $99,999,999 | Independent practice or partner |
+| 入门级（1-3年） | $35,000,000~$50,000,000 | 基于评估公司 |
+| 中级（4-9年） | $60,000,000~$99,999,999 | 高级评估师水平 |
+| 高级（10年以上） | $99,999,999 | 独立执业或合伙 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can assist in basic data analysis for appraisal, but legal judgment and value assessment require human experts, making full replacement unlikely.
+AI可以协助评估中的基础数据分析，但法律判断和价值评估需要人类专家，完全替代不太可能。
 
-Typically gain experience at appraisal corporations or offices, advancing to senior appraiser after 5-10 years, then possible independence by starting a practice or becoming a partner.
+通常在评估公司或事务所积累经验，5-10年后晋升为高级评估师，之后可独立开业或成为合伙人。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic data collection and organization
-- Simple comparative case search
-- Repetitive form-filling tasks
+- 基础数据收集与整理
+- 简单比较案例搜索
+- 重复性填表任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market data analysis
-- Trend prediction
-- Report visualization
+- 市场数据分析
+- 趋势预测
+- 报告可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Legal interpretation and judgment
-- Field inspections and negotiations
-- Trust-based client relationships
+- 法律解释与判断
+- 现场检查与谈判
+- 基于信任的客户关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of statistical analysis tools
-- ESG evaluation methodology
-- Understanding of AI-based analysis platforms
+- 统计分析工具的使用
+- ESG评估方法论
+- 对基于AI的分析平台的理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Real estate market analysis
-- Public appraisal
-- Digital asset valuation
-- ESG valuation
+- 房地产市场分析
+- 公开评估
+- 数字资产估值
+- ESG估值
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible when performing professional duties at appraisal corporations, but employment visa issuance is limited. |
-| Subclass F-2 (Residence (F-2)) | Can switch to points-based system after long-term stay. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy legal and economic analysis
-- People who are meticulous and value objectivity
-- People with excellent interpersonal and negotiation skills
+- 喜欢法律和经济分析的人
+- 注重细节并重视客观性的人
+- 具备出色人际交往和谈判技巧的人
 
 **谁不适合**
-- People who prefer repetitive and structured tasks
-- People who are reluctant to make on-site visits
+- 喜欢重复性和结构化任务的人
+- 不愿进行现场访问的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an appraiser?**
-答：Approximately 35–50 million KRW for entry-level, and about 120–200 million KRW for those with over 10 years of experience, varying greatly by experience and performance.
+**问：评估师的平均年薪是多少？**
+答：入门约35–5000万韩元，10年以上经验者约1.2–2亿韩元，因经验和业绩差异较大。
 
-**问：Why is it difficult for foreigners to work as appraisers?**
-答：Appraisers require a domestic license and a deep understanding of the language and legal system, making E-7 (Specific Activities) visa issuance very limited.
+**问：为什么外国人难以担任评估师？**
+答：评估师需国内执照并深入了解语言和法律体系，因此E-7（特定活动）签证发放非常有限。
 
 
 ---
@@ -140,12 +131,12 @@ Typically gain experience at appraisal corporations or offices, advancing to sen
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/certified-appraiser/KR)**

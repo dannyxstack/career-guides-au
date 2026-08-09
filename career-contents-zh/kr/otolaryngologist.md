@@ -1,10 +1,8 @@
-# Otolaryngologist 职业分析 · 韩国
+# 耳鼻喉科医生（Otolaryngologist）职业分析 · 韩国
 
-**职业代码: 30115 (KECO)**
+**职业代码：30115 (KECO)**
 
-A specialist who diagnoses and treats diseases of the ear, nose, and throat, performing surgery and drug treatment for conditions such as allergies, sinusitis, and otitis media.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+诊断和治疗耳鼻喉疾病的专家，对过敏、鼻窦炎和中耳炎等疾病进行手术和药物治疗。
 
 
 ---
@@ -13,9 +11,9 @@ A specialist who diagnoses and treats diseases of the ear, nose, and throat, per
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School | 6年 | $40,000,000~$60,000,000（Based on national universities; private universities are more expensive） |
-| 实习 | 1年 | $0~$0（Receives salary; no separate tuition fees） |
-| Residency (Otolaryngology) | 4年 | $0~$0（Receives salary; no separate tuition fees） |
+| 医学院 | 6年 | $40,000,000~$60,000,000（基于国立大学；私立大学费用更高） |
+| 实习 | 1年 | $0~$0（领取工资；无单独学费） |
+| 住院医师（耳鼻喉科） | 4年 | $0~$0（领取工资；无单独学费） |
 
 ---
 
@@ -23,17 +21,17 @@ A specialist who diagnoses and treats diseases of the ear, nose, and throat, per
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Pass national exam after medical school graduation |
-| Otolaryngology Specialist Certification | Korean Medical Association | 必备 | Pass specialist exam after completing residency |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后通过国家考试 |
+| 耳鼻喉科专科认证 | 韩国医学会 | 必备 | 完成住院医后通过专科考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 13,000. Due to aging and environmental factors like fine dust, demand for otolaryngologists is increasing, leading to a bright employment outlook.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 13,000。由于老龄化和细粉尘等环境因素，耳鼻喉科医生需求增加，就业前景良好。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,90 +39,82 @@ A specialist who diagnoses and treats diseases of the ear, nose, and throat, per
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years after certification) | $70,000,000~$99,999,999 | Based on salaried hospital physician; varies by hospital size |
-| Mid-level (4-10 years) | $99,999,999 | 经验丰富后增长 |
-| Senior (10+ years or private practitioner) | $99,999,999 | Income varies greatly for private practitioners |
+| 初级（认证后0-3年） | $70,000,000~$99,999,999 | 基于医院受薪医师；因医院规模而异 |
+| 中级（4-10年） | $99,999,999 | 经验丰富后增长 |
+| 资深（10年以上或私人执业） | $99,999,999 | 私人执业者的收入差异很大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists doctors in imaging diagnosis, hearing tests, medication prescription support, etc., but core tasks such as surgery and patient consultations are led by human doctors, so the profession is strengthened.
+AI辅助医生进行影像诊断、听力测试、用药支持等，但手术、患者咨询等核心任务由人类医生主导，因此该职业得到强化。
 
-After graduating from medical school, completing internship and residency, and obtaining a specialist license, one can open a private practice or work at a hospital; career advancement to university hospital professor or private practitioner is possible.
+医学院毕业后，完成实习和住院医师培训，获得专科医师执照，可以开设私人诊所或在医院工作；职业发展路径包括成为大学教授或私人执业医生。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- basic hearing test analysis
-- simple image reading assistance
-- standard medication prescription
+- 基础听力测试分析
+- 简单图像阅读辅助
+- 标准药物处方
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- precision imaging diagnosis
-- surgical planning
-- patient data analysis
+- 精准影像诊断
+- 手术规划
+- 患者数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- trust-based relationships with patients
-- complex surgical skills
-- clinical judgment
+- 基于信任的患者关系
+- 复杂手术技能
+- 临床判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI diagnostic tool utilization
-- robot surgery proficiency
-- data analysis
+- AI诊断工具利用
+- 机器人手术熟练度
+- 数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- aging population
-- environmental diseases
-- chronic diseases
-- advancement in medical technology
+- 人口老龄化
+- 环境疾病
+- 慢性疾病
+- 医疗技术的进步
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | As a specialized medical professional, you can work at domestic medical institutions, but a doctor's license certification process is required. |
-| Subclass F-2 (Residence) | As a long-term residence status, there are no restrictions on medical activities. |
-| Subclass F-5 (Permanent Residence) | As a permanent resident, all medical activities are possible. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- High concentration and meticulousness
-- Proactive attitude toward surgery and patient interaction
-- Patient person with long-term learning endurance
+- 高度专注和细致
+- 积极面对手术和患者互动的态度
+- 有耐心、长期学习耐力的人
 
 **谁不适合**
-- Prefers independent work over collaboration
-- High emotional drain from patient interaction
+- 偏好独立工作而非协作
+- 与患者互动带来的高情绪消耗
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of an otorhinolaryngologist?**
-答：For entry-level salaried doctors, it's about 70 million to 100 million KRW, and up to 500 million KRW depending on experience.
+**问：耳鼻喉科医生的平均年薪是多少？**
+答：对于入门级受薪医生，约7000万至1亿韩元，最高可达5亿韩元，视经验而定。
 
-**问：Can a foreigner work as an otorhinolaryngologist in Korea?**
-答：Possible, but the doctor's license certification process is strict, Korean language ability is required, and employment is mainly under the E-7 visa.
+**问：外国人在韩国能做耳鼻喉科医生吗？**
+答：可能，但医生执照认证流程严格，需具备韩语能力，就业主要基于E-7签证。
 
 
 ---
@@ -142,12 +132,12 @@ After graduating from medical school, completing internship and residency, and o
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/otolaryngologist/KR)**

@@ -4,8 +4,6 @@
 
 In the Netherlands, midwife associate professionals (clinical midwives) provide antenatal, intrapartum, and postpartum care under the guidance of doctors, and are key members of the maternal healthcare team.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ In the Netherlands, midwife associate professionals (clinical midwives) provide 
 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI automation will take over some documentation, monitoring, and other tasks of midwifery paraprofessionals, but core clinical judgment, emotional support, and manual operations are difficult to replace, presenting both risks and opportunities.
 
 Career starts as a registered midwife (sub-specialty); with experience, can advance to chief midwife or transition to hospital management, education, or research roles. Some choose further study to become a practicing midwife or specialist nurse.
 
@@ -100,17 +96,9 @@ Career starts as a registered midwife (sub-specialty); with experience, can adva
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Scheme) | Applicable to highly skilled migrants with an annual income of at least €5,008/month (2025 standard), requiring a Dutch employer sponsor. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requiring a work contract and salary meeting the threshold (approx. €5,500/month). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduate residence permit, allowing one year of job seeking in the Netherlands, available to graduates from Dutch universities or top-tier universities. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Entry-level annual salary approx. €30,000-38,000, mid-level approx. €38,0
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwifery-associate-professional/NL)**

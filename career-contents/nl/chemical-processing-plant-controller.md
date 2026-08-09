@@ -4,8 +4,6 @@
 
 Monitor and operate the central control console of a chemical processing plant, adjusting parameters such as temperature, pressure, and flow to ensure safe and efficient production processes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Monitor and operate the central control console of a chemical processing plant, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Core monitoring and adjustment tasks of chemical plant controllers are being taken over by automated systems and AI, but emergency exception handling and cross-department coordination still rely on human judgment. Entry-level positions are decreasing due to integration of remote operation centers, but demand for advanced control strategists is increasing.
-
 Starting as a junior controller, can advance to senior controller, shift supervisor, or process engineer. Also develop into process optimization, automation, or environmental health and safety (EHS)
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Starting as a junior controller, can advance to senior controller, shift supervi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled workers earning above a threshold (about €5,000/month in 2025), employer sponsorship required. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens with an annual salary of at least €56,000 (2025), requiring a higher education degree. |
-| Subclass Orientation Year (Orientation Year) | Graduates who have completed a bachelor's or master's degree in the Netherlands can apply for a one-year job search visa. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: At least an MBO-4 Chemical Process Operator diploma and VCA safety certificat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-processing-plant-controller/NL)**

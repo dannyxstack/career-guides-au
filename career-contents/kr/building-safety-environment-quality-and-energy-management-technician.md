@@ -51,8 +51,6 @@ A professional technician who comprehensively manages the safety, environment, q
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is being introduced to improve work efficiency in areas like safety monitoring, energy performance analysis, and automated quality inspection. Expert judgment and decision-making remain crucial, so the ability to use AI as a tool is a competitive advantage.
-
 Starting as a junior technician, one can grow into an expert in safety, environment, quality, and energy fields, and advance to team leader or department head at construction or engineering companies.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Starting as a junior technician, one can grow into an expert in safety, environm
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for employment as a specialist in the field; can apply for permanent residence after 5 years |
-| Subclass E-9 (E-9 (Non-professional Employment)) | This field is typically not eligible for E-9, but possible for certain processes |
-| Subclass F-2 (F-2 (Residence)) | Possible after conversion from E-7 or post-graduation job-seeking; allows free employment |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: Obtaining certifications in building safety engineering or environment/energy
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-safety-environment-quality-and-energy-management-technician/KR)**

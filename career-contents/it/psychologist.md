@@ -53,8 +53,6 @@ Psychologists study human behavior and mental processes, providing psychological
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on psychologists is mixed: administrative and data tasks will be automated, but core diagnosis, treatment, and ethical judgment are hard to replace.
-
 Career path: from clinical intern to registered psychologist, with specializations in clinical, developmental, organizational fields. Advancement in public hospitals requires years of experience and continuing education. Private practitioners need to build a client base.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career path: from clinical intern to registered psychologist, with specializatio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU talent, requires a university degree and meeting a salary threshold (approx. €40,000 per year), suitable for experienced clinical or organizational psychologists. |
-| Subclass Qualified Work Visa  (Work Visa for Non-EU Workers) | Requires employer sponsorship and Italian immigration quotas (Decreto Flussi), suitable for psychologists who have already obtained a job offer, with the position needing to be on the shortage occupation list. |
-| Subclass Self-Employment Visa (Self-Employment Visa) | Open to psychologists planning to open a private practice in Italy; requires a business plan and proof of sufficient funds, with strict approval process. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Requires a master's degree in psychology (5 years), passing the national prof
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychologist/IT)**

@@ -52,8 +52,6 @@ Responsible for assembly, finishing, renovation, and inspection of furniture and
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Furniture finishers face dual impacts from automation and AI assistance: standardized spraying can be automated, but high-precision manual finishing, color matching, and artistic restoration rely on experience and aesthetics and are currently safe; overall workload is reduced but skill requirements increase.
-
 Can advance from assembler to senior technician or inspector, or move into niche areas such as custom furniture manufacturing or furniture restoration. With experience, can become self-employed or start a business.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from assembler to senior technician or inspector, or move into niche
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: In Canada, no mandatory certification is usually required, but employers may 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furniture-and-fixture-assemblers-finishers-refinishers-and-inspectors/CA)**

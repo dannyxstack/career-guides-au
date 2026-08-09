@@ -53,8 +53,6 @@ School secretaries provide administrative support, maintain school records, and 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-School secretary roles face dual impacts from administrative document automation compression and AI-enhanced services. Competition for entry-level positions intensifies, but senior secretaries can transition to school management roles by mastering digital tools.
-
 Typical career path is senior school secretary or administrative supervisor, with some transitioning to school business manager or education management roles. Requires experience and management skills development.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Typical career path is senior school secretary or administrative supervisor, wit
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to senior secretary, executive assistant, school affairs manager,
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-secretaries/UK)**

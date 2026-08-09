@@ -54,8 +54,6 @@ Responsible for the company's IT strategic planning, system architecture design,
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core decision-making, cross-departmental coordination, and interpersonal management of computer and information systems managers are hard to replace, but AI will automate project management, report generation, code review, etc., compressing some middle management roles.
-
 Typically, they are promoted from IT project manager or architect, gradually becoming IT department heads, chief technology officers, and eventually becoming chief information officers. You can also transition into management consulting or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -102,17 +100,9 @@ Typically, they are promoted from IT project manager or architect, gradually bec
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, with an annual salary at least 1.5 times the French average (about 54,000 euros), simplifying the residency application process. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly educated or highly skilled talents outside the EU, with an annual salary threshold of about 52,000 euros, allowing families to quickly obtain long-term residency. |
-| Subclass Salarié (Employee Work Permit) | Traditional work residence requires employment by a French company and approval by the Labor Department, making it suitable for technical talent first-time in France. |
-| Subclass Recherche emploi (Job Search Visa) | Graduates or holders of a French master's degree can apply, valid for 12 months, for job hunting and changing work residence. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +146,12 @@ A: A master's degree or higher (Bac+5) is usually required, such as a master's d
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-information-officer/FR)**

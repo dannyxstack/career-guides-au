@@ -51,8 +51,6 @@ Vehicle cleaners are responsible for cleaning and maintaining the interior and e
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Vehicle cleaners face high automation risk, as repetitive tasks like cleaning and vacuuming are easily replaced by robotics and AI scheduling systems.
-
 Entry-level vehicle cleaners can advance to team supervisor or car wash manager, or move into specialized vehicle detailing roles (e.g., paint restoration, deep interior cleaning). With experience, they can also start their own business.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Entry-level vehicle cleaners can advance to team supervisor or car wash manager,
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -145,11 +141,12 @@ A: This occupation is not on the shortage list; generally only eligible for a Ge
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vehicle-cleaner/IE)**

@@ -4,8 +4,6 @@
 
 An agricultural professional who cultivates and harvests grain crops such as rice, barley, soybeans, and corn, primarily working in rural areas with high seasonal labor demand.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ An agricultural professional who cultivates and harvests grain crops such as ric
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation technologies will replace repetitive agricultural tasks such as planting, irrigation, and harvesting, reducing the demand for simple labor for grain crop growers. However, new roles such as smart farm operation, data analysis, and agricultural machinery maintenance will emerge, leading to a shift that addresses labor shortages caused by aging.
-
 Starting as a farm assistant, one can advance to farm manager or self-employed farmer with experience, and with smart farming skills, may transition to high-value crop cultivation.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a farm assistant, one can advance to farm manager or self-employed f
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be employed in the agriculture and livestock sector, subject to the Employment Permit System, with a 3-year stay that can be extended |
-| Subclass F-4 (Overseas Koreans (F-4)) | Targeted at overseas Koreans, allows employment in agriculture, free economic activities |
-| Subclass H-2 (Working Visit (H-2)) | Some agricultural jobs available, short-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: With the introduction of autonomous tractors, drones, and smart irrigation sy
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grain-crop-grower/KR)**

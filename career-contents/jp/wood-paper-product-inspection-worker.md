@@ -50,8 +50,6 @@ Inspect wood and paper products for quality, dimensions, and appearance to elimi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Automated inspection using AI and image recognition technology is being introduced, but inspections requiring advanced judgment—such as wood grain or paper texture—still rely on humans. AI supplementation improves efficiency, but full replacement is difficult.
-
 Gain experience to improve inspection accuracy. Can advance to senior technician or production manager, but no advanced qualifications required.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Gain experience to improve inspection accuracy. Can advance to senior technician
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Possible in 3 manufacturing fields; mainly transition from Technical Intern Training |
-| Subclass 技能 (Skilled Worker Visa (Woodworking)) | Requires advanced skills; may be applicable to wood product inspection |
-| Subclass 技能実習 (Technical Intern Training No. 3) | After training in manufacturing, can transition to Specified Skilled Worker |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +133,12 @@ A: By obtaining certifications like the QC Exam or Wood Product Quality Control 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-paper-product-inspection-worker/JP)**

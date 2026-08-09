@@ -1,10 +1,8 @@
-# Korean Traditional Musician 职业分析 · 韩国
+# 韩国传统音乐家（Korean Traditional Musician）职业分析 · 韩国
 
-**职业代码: 41441 (KECO)**
+**职业代码：41441 (KECO)**
 
-A professional artist who plays, creates, and educates traditional Korean music, contributing to its popularization and globalization through performances and broadcasting.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+一位演奏、创作和教授传统韩国音乐的专业艺术家，通过演出和广播促进其大众化和全球化。
 
 
 ---
@@ -13,8 +11,8 @@ A professional artist who plays, creates, and educates traditional Korean music,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Bachelor's) | 4年 | $20,000,000~$50,000,000（Varies by national/public/private university; scholarships available） |
-| Gugak High School or Arts High School | 3年 | $5,000,000~$15,000,000（Public schools affordable, private schools expensive） |
+| 大学（学士学位） | 4年 | $20,000,000~$50,000,000（因国立/公立/私立大学而异；提供奖学金） |
+| 国乐高中或艺术高中 | 3年 | $5,000,000~$15,000,000（公立学校负担得起，私立学校昂贵） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional artist who plays, creates, and educates traditional Korean music,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Degree in Gugak (Bachelor's or higher) | 大学 | 可选 | 非强制但有利 |
-| Certification in traditional arts (e.g., Gugak Instructor) | Korea Vocational Competency Agency, etc. | 可选 | 可选 |
+| 国乐学位（学士或以上） | 大学 | 可选 | 非强制但有利 |
+| 传统艺术认证（如国乐讲师） | 韩国职业能力厅等 | 可选 | 可选 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 3,500. Government support for culture and arts and the spread of Hallyu keep demand for traditional Korean music steady, but full-time activity is difficult and only a small number of top-tier musicians earn stable income.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 3,500。政府对文化艺术的扶持和韩流传播使国乐需求稳定，但全职活动困难，仅少数顶级音乐家收入稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,86 @@ A professional artist who plays, creates, and educates traditional Korean music,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $18,000,000~$30,000,000 | Freelancer/entry-level group |
-| Mid-level (4–10 years) | $30,000,000~$50,000,000 | Based on national organization regular positions |
-| Advanced (10+ years) | $50,000,000~$99,999,999 | Master/professor level |
+| Beginner (0–3 years) | $18,000,000~$30,000,000 | 自由职业者/入门级群体 |
+| 中级（4-10年） | $30,000,000~$50,000,000 | 按国家级组织正式职位计算 |
+| 高级（10年以上） | $50,000,000~$99,999,999 | 硕士/教授水平 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can be used for Korean traditional music creation (composition, arrangement) or sound correction and educational tools, but it is difficult to replace the improvisation and emotion of traditional music. Technology is used as an auxiliary means, and the human role remains central in performance and education settings.
+AI可用于韩国传统音乐创作（作曲、编曲）或声音校正和教育工具，但难以取代传统音乐的即兴创作和情感。技术作为辅助手段，在表演和教育环境中人类角色仍为核心。
 
-After formal training at institutions like the National Gugak Center or Gugak High School, join national or provincial Gugak organizations or work as a freelancer, building experience and reputation.
+在国立国乐中心或国乐高中等机构接受正规培训后，加入国立或道立国乐组织或作为自由职业者，积累经验和声誉。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Accompaniment Pattern Generation
-- Partial Assistance in Basic Music Education
+- 简单伴奏模式生成
+- 基础音乐教育部分资助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Ideation for Composition and Arrangement
-- Sound Editing and Correction
-- Development of Customized Educational Content
+- 作曲与编曲的构思
+- 音效编辑与校正
+- 定制化教育内容开发
 
-**人类护城河:**
+**人类护城河：**
 
-- Improvisational Performance Skills
-- Traditional Techniques and Sensibility
-- On-Stage Communication and Charisma
-- Understanding of Cultural Context
+- 即兴表演技巧
+- 传统技艺与感性
+- 台上沟通与魅力
+- 文化背景理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI Composition Tools
-- Digital Sound Editing
-- Online Content Production
-- Convergence Performance Planning
+- 使用AI作曲工具
+- 数字音效编辑
+- 在线内容制作
+- 融合绩效策划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of traditional music performances
-- Increased demand for traditional Korean music education
-- Hallyu·Cultural Content Convergence
-- Government Support Policies
+- 传统音乐表演的扩展
+- 传统韩国音乐教育需求增加
+- 韩流·文化内容融合
+- 政府支持政策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for inviting outstanding talent, but rare for Gugak musicians |
-| Subclass D-2 (Study abroad) | Possible for Korean traditional music majors with activity restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with deep affection and steadfastness for traditional music
-- Person passionate about performing arts and communicating with the audience on stage
-- Person with patience and self-discipline to endure long training
+- 对传统音乐怀有深厚感情和坚定信念的人
+- 热爱表演艺术并乐于在舞台上与观众交流的人
+- 具备耐心和自律，能承受长期培训
 
 **谁不适合**
-- Person who values stable income and job security
-- Person seeking immediate monetary reward
+- 重视稳定收入和工作保障的人
+- 寻求即时金钱回报者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a traditional Korean musician?**
-答：As a regular employee of a national organization, annual salary is about 35-40 million won, but freelancers are unstable and often earn less than 20 million won per year.
+**问：传统韩国音乐家的平均年薪是多少？**
+答：作为国家机构正式员工，年薪约3500-4000万韩元，但自由职业者不稳定，年收入常低于2000万韩元。
 
-**问：Can foreigners work as traditional Korean musicians in Korea?**
-答：Very limited. E-7 visa is possible but only in special cases such as invitations for traditional music performances; it is not a common employment path.
+**问：外国人可以在韩国成为传统韩国音乐家吗？**
+答：非常有限。E-7签证可能，但仅限于特殊案例，如传统音乐表演邀请；并非常见就业途径。
 
-**问：Do I need to go to college to become a traditional Korean musician?**
-答：Not mandatory, but it is common to receive formal education at traditional music high schools or colleges and join institutions like the National Gugak Center; a degree provides career advantages.
+**问：成为传统韩国音乐家需要上大学吗？**
+答：非强制，但通常在传统音乐高中或大学接受正规教育，并加入国立国乐中心等机构；学位提供职业优势。
 
 
 ---
@@ -144,12 +135,12 @@ After formal training at institutions like the National Gugak Center or Gugak Hi
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/korean-traditional-musician/KR)**

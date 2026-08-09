@@ -49,8 +49,6 @@ An engineer who designs, constructs, operates, and maintains mechanical and elec
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation technologies are replacing power plant equipment monitoring and diagnostic tasks, but human roles remain important for on-site maintenance and repair work for the time being. Some duties will be reduced, but full replacement is difficult.
-
 Junior engineer → Intermediate (5–10 years) → Senior engineer (10+ years) → Manager or specialist consultant. Certifications and experience are key.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Junior engineer → Intermediate (5–10 years) → Senior engineer (10+ years) 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for power plant equipment engineers with specialized skills |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Possible only in some power plant maintenance positions (unskilled) |
-| Subclass F-2 (Residence) | Pre-permanent residence stage after long-term stay |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: Mechanical/Electrical Engineer, Power Plant Equipment Master, etc., which hel
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/power-plant-equipment-engineer/KR)**

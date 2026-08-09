@@ -52,8 +52,6 @@ Responsible for supervising mining operations, ensuring safety and output at Can
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Supervisory decisions of mining and quarry supervisors are not easily replaced, but tasks like data reporting and document management can be heavily automated by AI, making the overall impact mixed.
-
 Can progress from extraction worker to deputy supervisor, supervisor, mine manager. With experience, can become project manager or consultant, or move to regional management roles in large mining companies.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can progress from extraction worker to deputy supervisor, supervisor, mine manag
 | Subclass PNP (Provincial Nominee Program) | Through Provincial Nominee Programs (PNPs) like those in British Columbia, Saskatchewan, or Ontario for mining occupations, you can receive additional points. Usually requires employer sponsorship. |
 | Subclass AIP (Atlantic Immigration Program) | The Atlantic Immigration Program applies to applicants working in the four Atlantic provinces, with limited support for mining roles. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Some provinces require supervisor certificates, such as Ontario's 'Supervisor
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-mining-and-quarrying/CA)**

@@ -4,8 +4,6 @@
 
 A Self-Defense Force member engaged in aircraft piloting, maintenance, and air defense operations for the Air Self-Defense Force. A public servant of the Ministry of Defense, requiring high discipline and skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A Self-Defense Force member engaged in aircraft piloting, maintenance, and air d
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation enhance ASDF operations. AI plays a role in drone piloting and data analysis, but combat decisions and situational awareness remain human tasks. Overall, AI is a complementary tool.
-
 Start from the National Defense Academy or general officer candidate program, proceed through pilot training courses and officer promotion exams to management positions. Possible career change to civilian pilot, etc.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Start from the National Defense Academy or general officer candidate program, pr
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Foreign JASDF members currently not allowed; MoD recruitment requires Japanese nationality |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | SDF members ineligible due to nationality; technical roles at research institutions possible |
-| Subclass 外交・公用 (Diplomat/Official) | Temporary stays for exchanges with foreign militaries; nationality requirements unchanged |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -149,12 +137,12 @@ A: Yes. Pilot qualifications obtained in the ASDF can be used in the civilian se
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/air-selfdefense-force-officer/JP)**

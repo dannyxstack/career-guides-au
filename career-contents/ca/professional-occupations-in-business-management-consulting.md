@@ -51,8 +51,6 @@ Provide professional advice on strategy, operations, and management to help clie
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 Junior analysts can progress to consultant or senior manager with a clear career path. Top consulting firms (e.g., MBB) require high education and extensive experience; some may transition to corporate strategy roles or start their own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior analysts can progress to consultant or senior manager with a clear career
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) have skilled migration streams |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can accumulate Canadian experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Consulting industry career path is clear, from analyst to partner, or pivot t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/professional-occupations-in-business-management-consulting/CA)**

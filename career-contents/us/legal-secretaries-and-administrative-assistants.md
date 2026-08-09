@@ -55,8 +55,6 @@ Perform secretarial duties in a legal environment, using legal terminology, proc
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Legal assistants/legal secretaries face AI automation risks in routine documentation, scheduling, and retrieval tasks, but tasks requiring legal judgment and interpersonal coordination like case management, client communication, and court preparation still rely on humans; overall outlook mixed.
-
 Junior legal secretaries can advance to senior legal secretary or administrative assistant, and further to paralegal or office management roles, requiring accumulated legal knowledge and communication skills.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Junior legal secretaries can advance to senior legal secretary or administrative
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires employer-sponsored PERM, but education and experience requirements are high; this pathway is uncommon |
 | Subclass L-1 (L-1 Intracompany Transferee) | If working in a multinational law firm, possible internal transfer path |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Can advance to senior secretary, office manager, or transition to legal assis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-secretaries-and-administrative-assistants/US)**

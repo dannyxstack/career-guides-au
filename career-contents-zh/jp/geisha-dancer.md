@@ -1,10 +1,8 @@
-# Geisha/Dancer 职业分析 · 日本
+# 艺伎/舞者（Geisha/Dancer）职业分析 · 日本
 
-**职业代码: 406 (JSCO)**
+**职业代码：406 (JSCO)**
 
-Perform dances and arts on stage and at banquets, from traditional geisha to modern dance. Active in the entertainment and flower-and-willow world.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在舞台和宴会上表演舞蹈和艺术，从传统艺伎到现代舞蹈。活跃于娱乐和花柳界。
 
 
 ---
@@ -13,8 +11,8 @@ Perform dances and arts on stage and at banquets, from traditional geisha to mod
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School (Dance Dept.) | 2 年 | $1,000,000~$2,000,000（Difference between public and private schools） |
-| Apprenticeship at ochaya or tea house | 3-5年 | $5,000,000~$10,000,000（Preparation fees, etc.） |
+| 职业学校（舞蹈系） | 2 年 | $1,000,000~$2,000,000（公立与私立学校的区别） |
+| 在茶屋或茶院学徒 | 3-5年 | $5,000,000~$10,000,000（准备费用等） |
 
 ---
 
@@ -22,18 +20,18 @@ Perform dances and arts on stage and at banquets, from traditional geisha to mod
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| None (geisha have no national qualification) | 无 | 可选 | 流派による認定あり |
-| Dance Instructor Certification | Each association | 可选 | voluntary |
-| Natori of Japanese Classical Dance | various schools | 可选 | Important as a Geisha |
+| 无（艺妓无国家资格） | 无 | 可选 | 根据流派有认证 |
+| 舞蹈教练认证 | 每个协会 | 可选 | 自愿的 |
+| 日本古典舞蹈名取 | 各类学校 | 可选 | 作为艺伎重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 25,000. Demand is stabilizing due to recovery in tourism, but a serious shortage of successors persists. Not eligible for Specified Skilled Worker.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 25,000。由于旅游业复苏，需求趋于稳定，但接班人严重短缺。不符合特定技能工人资格。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,95 +39,87 @@ Perform dances and arts on stage and at banquets, from traditional geisha to mod
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,000,000~$3,500,000 | Low during probation period |
-| Mid-level (3-10 years) | $3,500,000~$6,000,000 | Geisha income primarily from banquet hall performances |
-| 资深（10年以上） | $6,000,000~$12,000,000 | Top Geisha/Choreographer etc. |
+| 入门级（0–3年） | $2,000,000~$3,500,000 | 试用期期间较低 |
+| 中级（3-10年） | $3,500,000~$6,000,000 | 艺妓主要收入来自宴会厅表演 |
+| 资深（10年以上） | $6,000,000~$12,000,000 | 顶级艺伎/编舞师等 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI-generated improvisational choreography and CG dancers are partially replacing roles, but human touch is needed for traditional arts and live performances. Demand remains in tourism.
+AI生成的即兴编舞和CG舞者部分取代了角色，但传统艺术和现场表演中仍需要人的参与。旅游业需求持续存在。
 
-Geisha belong to okiya or ochaya, advancing from apprentice (maiko) to full-fledged. Dancers gain experience in troupes or clubs, and may advance to choreographer or instructor.
+艺伎隶属于置屋或茶屋，从学徒（舞伎）进阶为正式艺伎。舞者在剧团或俱乐部积累经验后，可晋升为编舞或指导者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple routine dance
-- Backup dancer
-- Basic choreography creation
+- 简单常规舞蹈
+- 伴舞
+- 基础编舞创作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Lighting and staging using AI
-- Instruction via motion capture
-- SNS marketing
+- 使用AI的灯光和舞台设计
+- 动作捕捉教学
+- 社交媒体营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal performance
-- Improvisational expression
-- Inheritance of traditions
-- Geisha hospitality
+- 人际表现
+- 即兴表达
+- 传统传承
+- 艺妓待客
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI dance tools
-- Production skills
-- Knowledge of traditional arts
-- SNS publishing
+- 使用AI舞蹈工具
+- 生产技能
+- 传统艺术知识
+- SNS发布
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional performing arts
-- Inbound tourism demand
-- Performance
-- Cultivating successors for the flower and willow world
+- 传统表演艺术
+- 入境旅游需求
+- 绩效
+- 为花柳界培养接班人
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 芸術 (Artist Visa) | Required for performances; need established reputation |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Dancers rarely qualify |
-| Subclass 興行 (Entertainer Visa) | For short-term performances |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Passionate about the arts
-- Good at physical expression
-- Respect traditional culture
+- 热爱艺术
+- 善于身体表现
+- 尊重传统文化
 
 **谁不适合**
-- Value stable income
-- Dislike performing in public
+- 稳定的收入价值
+- 不喜欢公开表演
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much do geiko earn?**
-答：Apprentices earn about ¥2-3.5M/year; full-fledged ¥6M+, top earners over ¥10M, but split with okiya and expenses apply.
+**问：艺妓的收入是多少？**
+答：学徒约200-350万日元/年；全能者600万日元以上，顶级者超1000万日元，但需与置屋分成并承担费用。
 
-**问：Can foreigners become geiko?**
-答：Possible, but requires obtaining an 'Artist' visa and demands prominence and achievements. The path to permanent residency is narrow.
+**问：外国人能成为艺妓吗？**
+答：可能，但需要获得‘艺术家’签证，且要求有知名度和成就。获得永久居留的途径狭窄。
 
-**问：How to become a dancer with no experience?**
-答：Learn the basics at vocational schools or dance studios and audition. Long-term training is necessary.
+**问：零经验如何成为舞者？**
+答：在职业学校或舞蹈工作室学习基础并参加试镜，需长期训练。
 
 
 ---
@@ -147,12 +137,12 @@ Geisha belong to okiya or ochaya, advancing from apprentice (maiko) to full-fled
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/geisha-dancer/JP)**

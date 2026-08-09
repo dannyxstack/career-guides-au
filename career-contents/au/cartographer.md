@@ -52,8 +52,6 @@ Cartographers collect, analyze, and interpret geographic data to create and upda
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Cartographers and photogrammetrists will face profound changes: routine map compilation and data processing will be largely automated by AI, but complex spatial analysis, algorithm design, and cross-disciplinary collaboration will become more valued—task reorganization rather than full replacement.
-
 Junior drafters can advance to senior drafter, GIS analyst, or project manager. Professionals with a master's degree in GIS or remote sensing can move into technical specialist or management roles, or transition into related fields like surveying and geographic information science.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior drafters can advance to senior drafter, GIS analyst, or project manager. 
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, requires employer nomination |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residency visa requiring employer nomination and skills assessment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires GIS software (e.g., ArcGIS, QGIS), remote sensing technology, data a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cartographer/AU)**

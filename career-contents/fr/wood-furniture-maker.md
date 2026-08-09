@@ -4,8 +4,6 @@
 
 Responsible for designing, making, and restoring wooden furniture, combining traditional woodworking techniques with modern equipment, covering the entire process from material selection to finished assembly.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for designing, making, and restoring wooden furniture, combining tra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 You can advance from apprenticeship to senior craftsman or workshop supervisor, start an independent studio, or transition into antique furniture restoration and high-end customization.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can advance from apprenticeship to senior craftsman or workshop supervisor, 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company, you need to obtain a work permit, and the employer provides the contract. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents or entrepreneurs, requiring proof of outstanding abilities or projects. |
-| Subclass Carte bleue UE (EU Blue Card) | High-paying positions (annual salary ≥ €53,000), but the carpentry industry usually falls short of the standard. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: The basic requirement is CAP Ébéniste, the advanced option is BMA Ébénist
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-furniture-maker/FR)**

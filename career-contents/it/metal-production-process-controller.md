@@ -53,8 +53,6 @@ Monitor and operate control panels and automated systems in metal production pro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of metal production process controllers is highly dependent on automation systems; AI and Industry 4.0 technologies will significantly reduce job demand, but tasks such as equipment monitoring and emergency response still require human judgment, posing a high overall risk.
-
 Can advance from operator to senior controller, production supervisor, or become a process engineer through further study. Large companies offer internal training and management pathways.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can advance from operator to senior controller, production supervisor, or become
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to high-skilled positions with annual salary ≥ 1.5 times EU average, requiring a university degree or 5 years of experience. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, requires employer sponsorship and meets annual quota, suitable for mid-level and above skills. |
-| Subclass Nulla Osta per Lavor (Nulla Osta (Work Authorization)) | Employers must apply for a work permit from the immigration department, demonstrating that no EU candidate is available. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, with automation and digital transformation, control software and metallu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-production-process-controller/IT)**

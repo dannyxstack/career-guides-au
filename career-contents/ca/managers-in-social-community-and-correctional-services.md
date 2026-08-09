@@ -52,8 +52,6 @@ Manage social services, community development, and correctional programs in gove
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Administration and compliance tasks for health benefits service managers will be accelerated by AI, but interpersonal coordination and strategic decision-making needs increase; the role overall experiences AI amplification, raising entry barriers.
-
 Can advance from social worker or project manager to regional director or executive director; need to accumulate management experience and improve policy analysis skills, some roles require a master's degree.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from social worker or project manager to regional director or execut
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations for social services managers, such as in Ontario and British Columbia |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, can convert to permanent residence |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance from junior manager to regional director or executive director, r
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-social-community-and-correctional-services/CA)**

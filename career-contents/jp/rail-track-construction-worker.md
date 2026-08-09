@@ -4,8 +4,6 @@
 
 Engages in laying, maintaining, inspecting, and replacing railway tracks to ensure safe train operations. Main tasks include heavy machinery operation and manual work on rails and ballast.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Engages in laying, maintaining, inspecting, and replacing railway tracks to ensu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are advancing laser surveying and track inspection automation, but heavy machinery operation and ballast maintenance still rely on humans. Overall workload is not decreasing; AI plays a complementary role.
-
 Works for railway operators or construction companies, advancing to team leader or site supervisor through skill development. Career growth possible by obtaining specialized rail construction certifications (e.g., Track Work Supervisor).
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Works for railway operators or construction companies, advancing to team leader 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | Can work in construction for 3 years. Requires JLPT N4 or above. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | As technical staff with vocational school/university degree. |
-| Subclass 技能 (Skills (Construction)) | For skilled workers. 10+ years of practical experience. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: By obtaining qualifications like Track Work Chief, you can advance to team le
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rail-track-construction-worker/JP)**

@@ -53,8 +53,6 @@ Receptionists greet visitors, answer phones, schedule appointments, and handle b
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI voice assistants and automation systems will replace most front desk phone answering, appointment scheduling, and visitor registration tasks. Traditional entry-level receptionist positions will shrink significantly, but a few remaining roles will need to combine administrative and technical support skills.
-
 Front desk can advance to administrative assistant, office manager, or customer service supervisor. With experience, can move to HR, marketing, or property management. Some front desk staff pursue business or management degrees for career transformation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Front desk can advance to administrative assistant, office manager, or customer 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Front desk can advance to administrative assistant, office manager, or custom
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist/NZ)**

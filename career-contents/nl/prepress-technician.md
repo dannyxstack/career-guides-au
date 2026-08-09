@@ -4,8 +4,6 @@
 
 Responsible for pre-press layout, plate making, color correction, and file preparation to ensure print quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for pre-press layout, plate making, color correction, and file prepa
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Prepress technician work is highly standardised; AI/automation tools can already replace core tasks such as layout, colour correction, and file checking. The number of positions is shrinking, but a small number of staff are still needed to debug and maintain automated systems.
-
 Can advance from junior prepress operator to senior technician or prepress supervisor, or transition into digital printing or graphic design.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Can advance from junior prepress operator to senior technician or prepress super
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to non-EU skilled migrants with annual salary above the threshold (approx. €5,008/month in 2024), requires employer sponsorship. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from the Netherlands or master's graduates from top 200 global universities may apply for a one-year job-seeking residence permit. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Some automated processes like auto-layout and color correction already use AI
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-technician/NL)**

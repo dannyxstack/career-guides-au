@@ -54,8 +54,6 @@ Manufacturing managers oversee factory production operations, manage teams, ensu
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
-
 Career progression usually goes from Production Supervisor to Production Manager to Plant Manager or Operations Director. With experience, can move into supply chain management or executive positions.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression usually goes from Production Supervisor to Production Manager
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, annual salary must be over €30,000, requires labor market test |
 | Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens; requires an annual salary of €53,358 (2019 standard); offers fast family reunification. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually requires an engineering or related degree; health and safety training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufacturing-manager/IE)**

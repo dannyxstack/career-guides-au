@@ -4,8 +4,6 @@
 
 An office job in companies or government agencies that accurately inputs and manages documents and data into systems. Primarily involves routine keyboard operations, requiring speed and accuracy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ An office job in companies or government agencies that accurately inputs and man
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-Automation through AI and RPA is advancing rapidly, and simple data entry work is sure to decline. Especially routine tasks will be replaced by AI, limiting human roles to exception handling and data quality management.
-
 Career paths are limited, and as clerical positions shrink, skill transition from input tasks to data analysis or system management is required.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Career paths are limited, and as clerical positions shrink, skill transition fro
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Data entry work is considered simple labor, so it is generally ineligible for this visa. However, when combined with system management or analysis, there may be possibilities. |
-| Subclass 特定活動（外国人IT技術者） (Designated Activities) | Data entry alone is not permitted; advanced IT skills are required. |
-| Subclass 在留資格「留学」 (Student) | Engaging in data entry part-time work within 28 hours per week is allowed as permitted extracurricular activity. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -146,12 +134,12 @@ A: It's important to expand your skills from data entry to data analysis and sys
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-entry-operator/JP)**

@@ -53,8 +53,6 @@ Geotechnical engineers in New Zealand analyze soil, rock, and groundwater to pro
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
-
 Junior geotechnical engineers can advance to senior engineer or project manager by accumulating project experience; after obtaining CPEng registration, they can become technical leads or independent consultants, with significantly higher salaries.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior geotechnical engineers can advance to senior engineer or project manager 
 | Subclass SMC (Skilled Migrant Category) | 6-point system: qualification 3 points + experience 1-3 points; apply for residence if conditions are met |
 | Subclass AEWV (Accredited Employer Work Visa) | For applicants who do not directly apply for residency; first work on a work visa, then transition to residency later. |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -154,12 +150,13 @@ A: To engage in design and signing work, registration as a Registered Engineerin
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geotechnical-engineer/NZ)**

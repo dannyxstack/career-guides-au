@@ -51,8 +51,6 @@ Bakers and pastry chefs produce bread, pastries and baked goods. Australia has a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bakers and pastry chefs face high automation risk; AI and machines already largely replace repetitive tasks like weighing, kneading, and oven monitoring, squeezing entry-level positions, but creative decoration and recipe development still require humans.
-
 Requires Certificate III in Baking/Patisserie + TRA assessment; can progress to head baker or shop owner.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Requires Certificate III in Baking/Patisserie + TRA assessment; can progress to 
 | Subclass 491 (Skilled Work Regional) | Regional area bonus points |
 | Subclass 186 (ENS) | Permanent residency pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Yes. Baker (351111) is on the STSOL; requires Cert III + TRA assessment.
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baker/AU)**

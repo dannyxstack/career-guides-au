@@ -1,6 +1,6 @@
 # 机器学习工程师（Machine Learning Engineer）职业分析 · 澳大利亚
 
-**职业代码: 262114 (ANZSCO)**
+**职业代码：262114 (ANZSCO)**
 
 机器学习工程师构建、训练、部署和维护ML/AI模型，覆盖NLP、计算机视觉、推荐系统和生成式AI。澳洲联邦AI战略（AU$1.2亿投入）和大型企业AI应用爆发推动对ML工程师的需求急剧上升，是IT类薪资最高且增速最快的职业。
 
@@ -22,7 +22,7 @@
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
 | Master/PhD of Computer Science (AI/ML方向) | 认可大学 | 可选 | ML工程师岗位中约60%要求硕士及以上 |
-| TensorFlow Developer Certificate / AWS ML Specialty | Google/AWS | 可选 | 行业认证，补充学历的实践能力证明 |
+| TensorFlow开发者证书 / AWS机器学习专业资质 | Google/AWS | 可选 | 行业认证，补充学历的实践能力证明 |
 | Kaggle Master/Grandmaster 排名 | Kaggle | 可选 | 业界认可的技术能力证明，替代部分学历要求 |
 | ACS技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
@@ -30,10 +30,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★★）.** 全国从业人数约 18,000. Talenza 2026 AI薪资报告：ML工程师年薪中位数 $165,000，同比增长约18%。全国从业人数约18,000，供需缺口持续扩大。
+**职位需求量：很高（★★★★★）** 全国从业人数约 18,000。Talenza 2026 AI薪资报告：ML工程师年薪中位数 $165,000，同比增长约18%。全国从业人数约18,000，供需缺口持续扩大。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -53,14 +53,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★★）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：很高（★★★★★）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 机器学习工程师是AI直接创造的核心岗位，需求随AI投资激增，目前供不应求；但入门门槛提高，需持续学习前沿技术，否则基层建模岗位可能被自动化取代。
 
 生成式AI（LLM/RAG/Fine-tuning）工程师是2025-2026年薪资溢价最高的专业方向，年薪可超 $200,000。MLOps工程师（模型运维自动化）需求显著增加。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 重复性的超参数调优和模型选择（AutoML可自动化）
 - 基础特征工程（自动化特征生成工具替代）
@@ -68,7 +68,7 @@
 - 数据标注与预处理（半自动化清洗工具）
 - 传统算法实现（库函数封装化）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 大规模数据预处理与特征工程（AI自动发现复杂特征）
 - 模型可解释性分析（AI生成归因图）
@@ -76,7 +76,7 @@
 - 实时模型监控与异常检测（AI预警）
 - 跨模型集成与蒸馏（自动组合最优模型）
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂系统架构设计与分布式训练优化
 - 业务问题到数学建模的转化能力
@@ -84,7 +84,7 @@
 - AI项目的全周期管理与团队协作
 - 前沿研究理解与创造性应用
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 大型语言模型（LLM）微调与部署（如LangChain）
 - 边缘AI与硬件加速（TFLite, ONNX）
@@ -93,17 +93,17 @@
 - 因果推断与强化学习
 - AI伦理与可解释性工具（SHAP, LIME）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- LLM & Generative AI Engineering
-- MLOps & AI Infrastructure
-- Computer Vision & NLP
-- AI for Healthcare & Mining
-- Responsible AI & Governance
+- LLM与生成式AI工程
+- MLOps与AI基础设施
+- 计算机视觉与自然语言处理
+- 人工智能在医疗与采矿中的应用
+- 负责任AI与治理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -114,9 +114,7 @@
 | Subclass 190 (Skilled Nominated) | 州提名，NSW/VIC AI产业通道 |
 | Subclass 491 (Skilled Work Regional) | 偏远地区IT，加15分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -178,12 +176,13 @@
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★★） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/machine-learning-engineer/AU)**

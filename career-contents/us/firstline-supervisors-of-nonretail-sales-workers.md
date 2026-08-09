@@ -53,8 +53,6 @@ Directly supervise and coordinate activities of non-retail sales workers; in add
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Retail and wholesale trade managers' decision-making and relationship management are hard to replace, but tasks like data analysis and inventory monitoring are easily optimized by AI; the role has mixed impacts.
-
 Junior sales reps can advance to supervisor, then to Regional Sales Manager, Sales Director, and other senior management roles. Usually requires years of sales experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior sales reps can advance to supervisor, then to Regional Sales Manager, Sal
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Common career progression: Sales Representative -> Sales Supervisor -> Region
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-nonretail-sales-workers/US)**

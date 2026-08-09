@@ -52,8 +52,6 @@ The translation and interpretation profession in Canada covers translation, inte
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Translation and interpretation professions face significant impact from AI, especially general text translation and simple interpretation tasks, but high-difficulty fields and certification requirements provide some protection.
-
 Junior interpreters can gain experience and specialize in fields like medical/legal interpretation, or advance to team supervisor. Those with CITIC certification are more likely to work in high-end conference interpreting or start their own business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior interpreters can gain experience and specialize in fields like medical/le
 | Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have language service categories. |
 | Subclass TFW (Temporary Foreign Worker) | Gain experience through employer-sponsored work visa, then transition to PR |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but CITIC certification (issued by CTINB/ATIO, etc.) is often 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/translators-terminologists-and-interpreters/CA)**

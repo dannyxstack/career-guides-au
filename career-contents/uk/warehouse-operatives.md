@@ -54,8 +54,6 @@ Warehouse operators are responsible for loading and unloading, handling various 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Warehouse operator roles will undergo significant changes due to AI and automation: some repetitive tasks are replaced, but new tools enhance efficiency, while humans still have advantages in exception handling and flexible handling.
-
 Can progress from operator to warehouse supervisor, warehouse manager, or shift to supply chain coordination, logistics planning roles. After gaining experience, obtaining skills like forklift driving can boost salary.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Can progress from operator to warehouse supervisor, warehouse manager, or shift 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes. Can advance to warehouse supervisor, warehouse manager, or move into man
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/warehouse-operatives/UK)**

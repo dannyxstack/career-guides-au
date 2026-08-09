@@ -4,8 +4,6 @@
 
 This occupation involves slaughtering livestock such as cattle, pigs, and chickens at slaughterhouses or butcher shops, and breaking down and trimming carcasses to process into retail or processing meat. It is a professional role in the meat processing field where food safety and hygiene are key.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves slaughtering livestock such as cattle, pigs, and chicke
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Although AI and robots are replacing some slaughtering and butchering processes (e.g., automatic deboners, AI sorting), high-level deboning and trimming work as well as customized services at small butcher shops still require human skilled workers, so the occupation itself will not completely disappear.
-
 Starting as a junior butcher, you can grow into a skilled cutter and boner after 2-3 years. Build your career at large-scale slaughterhouses, then advance to opening a small butcher shop or managing a meat processing plant.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a junior butcher, you can grow into a skilled cutter and boner after
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Slaughtering and meat processing industry is eligible for E-9 (Non-professional Employment) under the Employment Permit System. Unskilled foreign workers can be employed. |
-| Subclass E-7 (E-7 (Specific Activities)) | Skilled butchers can apply for E-7-1 (Skilled Worker). Professionals in slaughtering and meat processing. |
-| Subclass F-2 (Residence (F-2)) | After 5+ years on E-7, can switch to permanent residence. Includes F-2-4 (Skilled Worker). |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Legally no mandatory certification, but having the 'Butcher Certificate' from
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-butcher-and-slaughterhouse-worker/KR)**

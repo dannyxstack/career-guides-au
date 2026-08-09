@@ -1,10 +1,8 @@
-# Housekeeper 职业分析 · 韩国
+# 管家（Housekeeper）职业分析 · 韩国
 
-**职业代码: 56161 (KECO)**
+**职业代码：56161 (KECO)**
 
-A personal service worker who visits homes to perform general housekeeping tasks such as cleaning, laundry, and organizing. Demand is high among housewives and dual-income families.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一种上门进行清洁、洗衣和整理等一般家务的个人服务工作者。在家庭主妇和双职工家庭中需求很高。
 
 
 ---
@@ -13,8 +11,8 @@ A personal service worker who visits homes to perform general housekeeping tasks
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 义务教育 | 0年 | $0~$0（No educational requirements） |
-| House Manager Training Course | 2周-1个月 | $200,000~$500,000（Private or accredited certification training costs） |
+| 义务教育 | 0年 | $0~$0（无学历要求） |
+| 家政经理培训课程 | 2周-1个月 | $200,000~$500,000（私立或认证培训成本） |
 
 ---
 
@@ -22,17 +20,17 @@ A personal service worker who visits homes to perform general housekeeping tasks
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| House Manager | Korea Research Institute for Vocational Education and Training | 可选 | Private certification, preferential hiring |
-| Cleaning Manager | Korea Consumer Agency | 可选 | Cleaning expertise certification |
+| 住宅经理 | 韩国职业教育和培训研究院 | 可选 | 私人认证，优先录用 |
+| 清洁经理 | 韩国消费者院 | 可选 | 清洁专业认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 150,000. Due to low birth rates, aging population, and increase in dual-income households, demand for housekeeping services remains steady. However, high informal employment share and difficulty in securing workers are expected to widen polarization.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 150,000。由于低出生率、人口老龄化和双收入家庭增加，家政服务需求保持稳定。然而，高非正规就业份额和难以确保工人预计将加剧两极分化。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A personal service worker who visits homes to perform general housekeeping tasks
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $18,000,000~$24,000,000 | Annual salary converted based on hourly/part-time standards |
-| 中级 (3-7年) | $24,000,000~$30,000,000 | Professional housekeeper, exclusive contract standards |
-| Advanced (7+ years) | $30,000,000~$40,000,000 | Childcare/caregiving combined, company-affiliated manager level |
+| 初级（0-3年） | $18,000,000~$24,000,000 | 按小时/兼职标准换算的年薪 |
+| 中级 (3-7年) | $24,000,000~$30,000,000 | 专业管家，专属合同标准 |
+| 高级（7年以上） | $30,000,000~$40,000,000 | 育儿/护理结合，公司附属经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 很低（½☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：很低（½☆☆☆☆）**
 
-Although AI cannot directly replace housekeeping tasks, platform algorithms automate demand matching and schedule management, reducing some intermediary functions. Simple cleaning tasks are supplemented by robot cleaners, but services requiring human touch persist.
+虽然AI不能直接替代家政任务，但平台算法自动匹配需求和调度管理，减少了一些中介职能。简单的清洁任务由机器人清洁工补充，但需要人工接触的服务仍然存在。
 
-Beginners focus on simple cleaning; with experience, they can combine dedicated housekeeping and childcare, start small housekeeping businesses, or enhance professionalism through house manager certification.
+初学者从事简单清洁；有经验后可结合专业家政和育儿，创办小型家政公司，或通过管家认证提升专业性。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reservation and payment management
-- Automatic schedule adjustment
-- Customer matching mediation
+- 预订和支付管理
+- 自动排程调整
+- 客户匹配中介
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Cleaning efficiency analysis feedback
-- Automatic supply ordering
-- Customized service suggestions based on customer preferences
+- 清洁效率分析反馈
+- 自动供应订购
+- 基于客户偏好的定制服务建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust-based relationship with customers
-- Keen sense of household management
-- Immediate problem-solving skills
+- 与客户建立信任关系
+- 敏锐的家庭管理意识
+- 即时解决问题的能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Professional cleaning techniques
-- Customer service and communication
-- Basic smart device usage
+- 专业清洁技术
+- 客户服务与沟通
+- 基本智能设备使用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Dual-income household demand
-- Aging care demand
-- Expansion of domestic platforms
-- Legalization of informal employment
+- 双收入家庭需求
+- 老龄化护理需求
+- 国内平台扩张
+- 非正规就业合法化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Housekeeping is not an E-9 eligible occupation; most positions are for local workers |
-| Subclass F-2 (Residence) | Available for migrants or marriage immigrants already residing in Korea |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can work as housekeepers, but limited |
-
-**PR友好度: 很低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Diligent and meticulous person
-- Person with good interpersonal skills and trustworthiness
-- Person who prefers working independently
+- 勤奋细致的人
+- 具有良好人际交往能力和值得信赖的人
+- 喜欢独立工作的人
 
 **谁不适合**
-- Person insensitive to cleanliness or organization
-- Person lacking physical strength, e.g., moving heavy furniture
+- 对清洁或组织不敏感的人
+- 体力不足者，例如搬运重型家具
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average monthly salary of a housekeeper?**
-答：Part-time basis: 15,000–20,000 KRW per hour; around 1.5–2 million KRW per month for 100 hours
+**问：家政服务员的平均月薪是多少？**
+答：兼职：每小时15,000–20,000韩元；每月100小时约150–200万韩元
 
-**问：Can foreigners work as housekeepers?**
-答：Not eligible for E-9 visa; limited cases with F-2 or F-4 status
+**问：外国人可以做家政服务员吗？**
+答：不符合E-9签证条件；F-2或F-4身份情况有限
 
-**问：Is a certificate required?**
-答：Not mandatory, but a housekeeping certificate is advantageous for employment
+**问：需要证书吗？**
+答：非强制，但家政证书对就业有利
 
 
 ---
@@ -144,12 +134,12 @@ Beginners focus on simple cleaning; with experience, they can combine dedicated 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 很低（½☆☆☆☆） |
-| PR友好度 | 很低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/housekeeper/KR)**

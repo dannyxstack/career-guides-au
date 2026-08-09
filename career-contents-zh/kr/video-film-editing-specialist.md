@@ -1,10 +1,8 @@
-# Video/Film/Editing Specialist 职业分析 · 韩国
+# 视频/电影/剪辑专家（Video/Film/Editing Specialist）职业分析 · 韩国
 
-**职业代码: 41661 (KECO)**
+**职业代码：41661 (KECO)**
 
-A professional who shoots video with a camera and edits/processes footage using editing software. Works in various fields such as broadcasting, film, advertising, and online content production.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+使用摄像机拍摄视频并使用编辑软件剪辑/处理素材的专业人士。工作领域包括广播、电影、广告和在线内容制作等。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who shoots video with a camera and edits/processes footage using 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Community College (2-year) | 2 年 | $8,000,000~$12,000,000（Tuition based on national/public university standards） |
-| University (4-year) | 4年 | $16,000,000~$24,000,000（Tuition based on national/public university standards） |
+| 社区学院（2年制） | 2 年 | $8,000,000~$12,000,000（按国立/公立大学标准收取学费） |
+| 大学（4年制） | 4年 | $16,000,000~$24,000,000（按国立/公立大学标准收取学费） |
 
 ---
 
@@ -22,16 +20,16 @@ A professional who shoots video with a camera and edits/processes footage using 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| No video/editing-related certification | N/A | 可选 | No mandatory certification required, but a portfolio is important |
+| 无视频/编辑相关认证 | 不适用 | 可选 | 无强制认证要求，但作品集很重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 45,000. Demand remains steady due to growth of OTT platforms and the one-person media market, but employment growth is limited due to the development of AI editing tools and increased competition. High proportion of freelancers, with significant gaps based on experience.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 45,000。由于OTT平台和单人媒体市场的增长，需求保持稳定，但AI编辑工具的发展和竞争加剧限制了就业增长。自由职业者比例高，经验差距显著。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,95 +37,89 @@ A professional who shoots video with a camera and edits/processes footage using 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Income unstable for freelancers |
-| 中级（4-7年） | $35,000,000~$50,000,000 | Varies by specialization |
-| 高级（8年+） | $55,000,000~$80,000,000 | Director-level or high-income freelancing possible |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 自由职业者收入不稳定 |
+| 中级（4-7年） | $35,000,000~$50,000,000 | 因专业领域而异 |
+| 高级（8年+） | $55,000,000~$80,000,000 | 可成为总监级或高收入自由职业者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI replaces technical tasks like auto-editing, color correction, and noise removal, threatening jobs, but the role of creative planning and direction becomes more important, increasing demand for experts who use AI as a tool.
+AI取代自动编辑、校色、降噪等技术任务，威胁岗位，但创意策划和指导的角色变得更重要，增加了对将AI作为工具的专家的需求。
 
-Most start as freelancers or at small production companies. Progress from assistant to lead to director level, or specialize in high-value areas (drone, 3D, etc.).
+多数从自由职业者或小型制作公司起步。从助理到首席再到导演级别，或专攻高价值领域（无人机、3D等）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Auto editing/cut editing
-- Color correction/grading
-- Noise reduction/image enhancement
-- Simple subtitles/effects insertion
+- 自动编辑/剪切编辑
+- 色彩校正/调色
+- 降噪/图像增强
+- 简单字幕/效果插入
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Advanced color correction/grading (AI suggestion-based)
-- Scene transition/effect design (AI-assisted)
-- Real-time motion graphics (AI-assisted)
-- Content planning/storyboarding (AI analysis-based)
+- 高级色彩校正/调色（基于AI建议）
+- 场景过渡/效果设计（AI辅助）
+- 实时动态图形（AI辅助）
+- 内容策划/故事板（基于AI分析）
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative directing sense
-- Storytelling/composition skills
-- Understanding and communicating client needs
-- Field experience and intuition
+- 创意指导感觉
+- 故事讲述/写作技能
+- 理解并沟通客户需求
+- 现场经验和直觉
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI editing tools (e.g., Adobe Sensei)
-- 3D/VFX software (e.g., Blender, After Effects)
-- Data-driven content analysis
-- Real-time graphics (e.g., Unreal Engine)
+- AI编辑工具（如Adobe Sensei）
+- 3D/VFX软件（如Blender、After Effects）
+- 数据驱动的内容分析
+- 实时图形（如虚幻引擎）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content
-- One-person media
-- Short-form video
-- Live streaming
+- OTT内容
+- 个人媒体
+- 短视频
+- 直播
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible for invitations in specialized fields such as broadcasting/film production, but not a general career path |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with exceptional creativity and visual sense
-- People with a steady willingness to learn technology
+- 具有非凡创造力和视觉感的人
+- 有稳定学习技术意愿的人
 - 具备良好团队协作和沟通能力的人
 
 **谁不适合**
-- People who prefer regular and stable work
-- People who find it hard to keep up with rapidly changing technology
+- 喜欢规律稳定工作的人
+- 难以跟上快速变化技术的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a video editor?**
-答：For beginners, about 24-30 million KRW, intermediate 35-50 million KRW, advanced 55-80 million KRW. Freelancers have highly variable income.
+**问：视频编辑的平均薪资是多少？**
+答：初学者约2400-3000万韩元，中级3500-5000万韩元，高级5500-8000万韩元。自由职业者收入波动较大。
 
-**问：Can foreigners work as video editors in Korea?**
-答：E-7 (Specific Activities) visa is possible, but employer sponsorship and proof of experience are required, and competition is fierce. It is not a typical immigration path.
+**问：外国人能在韩国担任视频编辑吗？**
+答：E-7（特定活动）签证是可能的，但需要雇主担保和经验证明，竞争激烈。这不是典型的移民路径。
 
-**问：Is AI likely to replace video editors?**
-答：AI can replace some tasks like auto-editing and color correction, but creative planning and storytelling will remain in the human domain.
+**问：AI是否可能取代视频编辑？**
+答：AI可以替代自动编辑和色彩校正等任务，但创意规划和叙事仍将属于人类领域。
 
 
 ---
@@ -145,12 +137,12 @@ Most start as freelancers or at small production companies. Progress from assist
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/video-film-editing-specialist/KR)**

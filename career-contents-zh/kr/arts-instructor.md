@@ -1,10 +1,8 @@
-# Arts Instructor 职业分析 · 韩国
+# 艺术教练（Arts Instructor）职业分析 · 韩国
 
-**职业代码: 21441 (KECO)**
+**职业代码：21441 (KECO)**
 
-An instructor who teaches arts fields such as dance, music, and acting, and works at academies, cultural centers, and schools.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+教授舞蹈、音乐、表演等艺术领域的讲师，在学院、文化中心和学校工作。
 
 
 ---
@@ -13,9 +11,9 @@ An instructor who teaches arts fields such as dance, music, and acting, and work
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school + vocational academy | 1~2 年 | $3,000,000~$10,000,000（Academy tuition fees） |
-| University (Arts) | 4年 | $20,000,000~$40,000,000（Tuition fees） |
-| 硕士学位 | 2 年 | $10,000,000~$20,000,000（Graduate school of education, etc.） |
+| 高中+职业院校 | 1~2 年 | $3,000,000~$10,000,000（学院学费） |
+| 大学（艺术） | 4年 | $20,000,000~$40,000,000（学费） |
+| 硕士学位 | 2 年 | $10,000,000~$20,000,000（教育研究生院等） |
 
 ---
 
@@ -23,18 +21,18 @@ An instructor who teaches arts fields such as dance, music, and acting, and work
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Arts Instructor Certification | Korea Research Institute for Vocational Education & Training | 可选 | National certified private qualification |
-| Teacher's Certificate (Elementary 2nd Grade Regular Teacher) | 教育部 | 可选 | Possible to teach elementary arts |
-| Practical Music Instructor Certification | Korea Arts and Culture Promotion Institute | 可选 | Private qualification |
+| 艺术指导员认证 | 韩国职业能力研究院 | 可选 | 国家认证的私人资格 |
+| 教师证书（小学二级普通教师） | 教育部 | 可选 | 可以教授小学艺术 |
+| 实用音乐讲师认证 | 韩国文化艺术振兴院 | 可选 | 私人资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 25,000. Employment is stable due to increasing demand for culture and arts education, but competition is fierce and many positions are unstable.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 25,000。由于对文化、艺术教育需求增加，就业稳定，但竞争激烈且许多岗位不稳定。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -42,95 +40,87 @@ An instructor who teaches arts fields such as dance, music, and acting, and work
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$30,000,000 | Hourly instructor base rate 30,000~50,000 KRW per hour, full-time base |
-| Intermediate (4~9 years) | $30,000,000~$40,000,000 | Full-time instructor, varies by recognition |
-| Advanced (10+ years) | $40,000,000~$60,000,000 | University instructor, famous academy director |
+| 初级（0~3 年） | $24,000,000~$30,000,000 | 时薪讲师基准费3万~5万韩元/小时，全职基准 |
+| 中级（4~9年） | $30,000,000~$40,000,000 | 全职讲师，视认可度而定 |
+| 高级（10年以上） | $40,000,000~$60,000,000 | 大学讲师、知名学院院长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-While AI is unlikely to fully replace arts education, AI-based tools (auto-grading, personalized learning) are being introduced, changing the role of instructors. Creativity and human interaction remain crucial, but some theory classes may be replaced.
+虽然AI不太可能完全取代艺术教育，但基于AI的工具（自动评分、个性化学习）正在引入，改变了教师角色。创造力和人际互动仍然至关重要，但一些理论课程可能被取代。
 
-After gaining experience, one can pursue personal creative work, transition to freelance, or establish an academy. Public institution instructor hiring is also on the rise.
+积累经验后，可以从事个人创意工作、转为自由职业或创办学院。公共机构讲师招聘也在增加。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic theory lectures
-- Simple repetitive instruction
-- Some student assessment and feedback
+- 基础理论讲座
+- 简单重复指令
+- 一些学生评估与反馈
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Practical instruction
-- Creativity development
-- Personalized coaching
-- Event planning
+- 实践教学
+- 创造力发展
+- 个性化辅导
+- 活动策划
 
-**人类护城河:**
+**人类护城河：**
 
-- In-person feedback
-- Emotional sharing
-- Hands-on experience transfer
-- Creative expression guidance
+- 面对面反馈
+- 情感分享
+- 实操经验转移
+- 创意表达指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI educational tools
-- Online Content Production
-- Learning Data Analysis
+- 利用AI教育工具
+- 在线内容制作
+- 学习数据分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- K-Culture
-- After-school Programs
-- Lifelong Education
-- Community Centers
+- 韩流文化
+- 课外项目
+- 终身教育
+- 社区中心
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as professional art instructor; general entertainment instructors may not qualify |
-| Subclass F-2 (F-2 (Residence)) | For long-term residents, free to work as instructor |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans permitted to work as instructors, can be hired by academies |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative individuals
-- Those who find teaching rewarding
-- Those who practice and self-develop consistently
+- 创意型人才
+- 认为教学工作有意义的人
+- 持续实践和自我提升的人
 
 **谁不适合**
-- Those who want stable income
-- Those who prefer repetitive tasks following instructions
+- 想要稳定收入的人
+- 喜欢按指令做重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is the salary for an entertainment instructor?**
-答：The starting salary is around 24 to 30 million KRW, increasing with teaching experience and recognition. Part-time instructors earn 30,000 to 50,000 KRW per hour.
+**问：娱乐教练的薪水是多少？**
+答：起薪约为2400万至3000万韩元，随着教学经验和认可度增加。兼职讲师每小时3万至5万韩元。
 
-**问：What visa does a foreigner need to work as an entertainment instructor?**
-答：It is difficult to obtain an E-7 visa for general entertainment instructors. F-4 (Overseas Korean) or F-2 (Residence) visas are more favorable. Some private academies may sponsor E-7, but the process is strict.
+**问：外国人担任娱乐讲师需要什么签证？**
+答：普通娱乐讲师很难获得E-7签证。F-4（在外同胞）或F-2（居住）签证更有利。一些私立学院可能提供E-7担保，但过程严格。
 
-**问：How can I advance or develop my career as an entertainment instructor?**
-答：Options include building experience as a freelancer, applying for public institution instructor positions, starting your own academy, or pursuing graduate studies to become a professor.
+**问：作为娱乐指导员，我如何提升或发展我的职业生涯？**
+答：选择包括作为自由职业者积累经验、申请公共机构讲师职位、创办自己的学院或攻读研究生成为教授。
 
 
 ---
@@ -148,12 +138,12 @@ After gaining experience, one can pursue personal creative work, transition to f
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/arts-instructor/KR)**

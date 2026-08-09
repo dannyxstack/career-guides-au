@@ -52,8 +52,6 @@ Teach business management courses at higher education institutions, including ac
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-University lecturers face mixed impacts from AI: administrative and basic teaching tasks face automation pressure, but advanced research, mentoring, and course design are enhanced by AI; the core moat lies in human judgment and interaction skills.
-
 Usually starts as an assistant professor, promoted to associate and full professor, with some moving to department chair or college management. Requires continuous publication of academic work and industry consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually starts as an assistant professor, promoted to associate and full profess
 | Subclass EB-2 (EB-2 Advanced Degree) | Green card via PERM labor certification or National Interest Waiver (NIW), suitable for professors with a PhD |
 | Subclass O-1 (O-1 Extraordinary Ability) | Suitable for teachers with outstanding achievements in commercial education |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typical path: assistant professor (6 years) → associate professor (tenured)
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-teachers-postsecondary/US)**

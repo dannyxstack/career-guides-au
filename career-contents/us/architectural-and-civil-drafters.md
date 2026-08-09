@@ -51,8 +51,6 @@ Architectural and civil drafters use computer-aided design software to produce d
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Junior drafters can advance to senior drafter, project coordinator, or CAD manager; with experience, they can also transition to architecture or engineering roles such as architectural designer or civil engineer.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior drafters can advance to senior drafter, project coordinator, or CAD manag
 | Subclass H-1B (H-1B Specialty Occupation) | Applicable to draftspersons with a bachelor's degree or equivalent, requiring employer sponsorship with limited quotas. |
 | Subclass EB-3 (EB-3 Skilled Workers) | Employment-based green card third preference, requires PERM labor certification, suitable for those with 2+ years experience or degree. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Steady growth but heavily impacted by automation. Building Information Modeli
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architectural-and-civil-drafters/US)**

@@ -54,8 +54,6 @@ In Canada, reinforcing ironworkers place and fasten rebar in concrete structures
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Reinforcing ironworkers in Canada face high structural compression risk; AI-driven automation (e.g., robotic tying, BIM optimization) will reduce repetitive manual demand, but on-site flexible operation remains key to safety.
-
 A general steelworker can be promoted to foreman or supervisor, or transition to concrete work or steel structure installation. Obtaining a Red Seal certification broadens employment opportunities.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ A general steelworker can be promoted to foreman or supervisor, or transition to
 | Subclass EE (Express Entry) | Must meet Federal Skilled Trades (FST) requirements, usually requiring employer support or provincial nomination points. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for reinforcing ironworkers with a job offer |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Mainly through Provincial Nominee Programs (e.g., Ontario, BC, Alberta) or th
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-trades-helpers-and-labourers/CA)**

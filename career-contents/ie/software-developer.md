@@ -55,8 +55,6 @@ Software developers design, develop, and maintain software applications, and are
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Clear progression path from junior developer to senior engineer, technical lead, or roles like architect and project manager.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Clear progression path from junior developer to senior engineer, technical lead,
 | Subclass General Employment P (General Employment Permit) | Suitable for general skilled positions, requires labor market test, annual salary must meet a certain threshold. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requiring a certain annual salary and educational qualification, with a fast track to permanent residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -157,12 +153,13 @@ A: Yes, software developers are listed as a critical occupation; the Critical Sk
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-developer/IE)**

@@ -53,8 +53,6 @@ Responsible for recruiting and hiring seasonal agricultural workers, and arrangi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core recruitment and management functions of agricultural labor contractors face AI automation threats, but on-site coordination and interpersonal trust still rely on humans; the overall outlook is mixed.
-
 Can advance from junior supervisor to regional contractor or company management. Multilingual skills and workforce management skills aid career development.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from junior supervisor to regional contractor or company management.
 | Subclass H-1B (Specialty Occupations) | Rarely used, only for administrative or management roles. |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Apply through PERM labor certification, but need to prove inability to hire US workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Entry-level annual salary approx. USD 35,000-45,000, mid-level USD 45,000-65,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/farm-labor-contractors/US)**

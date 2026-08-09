@@ -52,8 +52,6 @@ Lays bricks, concrete blocks, glass blocks, etc., using mortar to build or repai
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks heavily rely on on-site physical operations and fine manual work, leaving limited room for direct AI replacement; however, automated bricklaying machines and BIM technology have begun to compress routine wall construction tasks, intensifying competition for entry-level positions.
-
 Usually starts with an apprenticeship, progressing through on-the-job training and union programs to become a journeyman. With experience, one can become a foreman, project manager, or independent contractor. Some start their own masonry businesses.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually starts with an apprenticeship, progressing through on-the-job training a
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Applicable to seasonal construction projects, requires employer to obtain labour certification. Annual cap applies. |
 | Subclass EB-3 (Employment-Based Green Card (Skilled Workers)) | Applying for a green card as a skilled worker requires PERM labor certification. The priority date queue is long. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can advance to foreman, project manager or independent contractor. Experience
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brickmasons-and-blockmasons/US)**

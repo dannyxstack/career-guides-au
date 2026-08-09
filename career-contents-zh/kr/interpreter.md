@@ -1,8 +1,8 @@
 # 口译员（Interpreter）职业分析 · 韩国
 
-**职业代码: 41122 (KECO)**
+**职业代码：41122 (KECO)**
 
-A professional who facilitates communication by translating spoken language or sign language between two languages, working in various settings such as meetings, courts, and hospitals.
+通过翻译口语或手语促进沟通的专业人士，在会议、法庭、医院等各类场合工作。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who facilitates communication by translating spoken language or s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Master's in Interpretation and Translation | 2 年 | $15,000,000~$30,000,000（Based on national/public universities; private may be higher） |
-| Bachelor's in Interpretation and Translation | 4年 | $20,000,000~$40,000,000（Tuition based on private universities） |
+| 口译与笔译硕士 | 2 年 | $15,000,000~$30,000,000（基于国立/公立大学；私立可能更高） |
+| 口笔译学士学位 | 4年 | $20,000,000~$40,000,000（按私立大学标准收费） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who facilitates communication by translating spoken language or s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Court Interpreter Certification | Ministry of Justice | 必备 | Required for court interpretation |
-| International Conference Interpreter Certification | Korean Association of Translators and Interpreters | 可选 | Required for international conference interpretation |
-| Medical Interpreter Certification | Ministry of Health and Welfare | 可选 | Preferred for employment in medical institutions |
+| 法庭口译认证 | 法务部 | 必备 | 法庭口译所需 |
+| 国际会议口译员认证 | 韩国翻译家协会 | 可选 | 国际会议口译所需 |
+| 医疗口译认证 | 保健福祉部 | 可选 | 医疗机构就业优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 25,000. Employment for interpreters in Korea remains steady due to globalization and the increase in Korean learners, but there is a risk of partial replacement due to AI translation advancements. Demand remains high for specialized interpreters.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 25,000。由于全球化和韩语学习者增加，韩国的口译就业保持稳定，但存在AI翻译部分替代的风险。专业口译需求仍然很高。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,90 +39,83 @@ A professional who facilitates communication by translating spoken language or s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $25,000,000~$40,000,000 | Freelance basis, irregular income |
-| Mid-level (4–7 years) | $40,000,000~$60,000,000 | Varies by experience and language pair |
-| 高级（8年+） | $60,000,000~$99,999,999 | High income possible in specialized fields (international conferences, courts) |
+| 初级（0-3年） | $25,000,000~$40,000,000 | 自由职业性质，收入不稳定 |
+| 中级（4–7年） | $40,000,000~$60,000,000 | 因经验和语言对而异 |
+| 高级（8年+） | $60,000,000~$99,999,999 | 专业领域（国际会议、法庭）收入可观 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the advancement of AI translation technology (e.g., real-time interpretation apps), everyday conversation interpretation may be partially replaced, but human interpreters remain crucial in specialized fields (legal, medical, international conferences) where context understanding and emotional conveyance are needed.
+随着AI翻译技术（如实时翻译应用）的进步，日常对话翻译可能会部分被取代，但在需要理解语境和传达情感的专门领域（法律、医疗、国际会议）中，人工口译员仍然至关重要。
 
-Most start as freelancers, and can specialize in fields (medical, legal, international conferences) based on experience and language pairs. Some find full-time employment at companies, government agencies, or international organizations.
+多数从自由职业者开始，可根据经验和语言对专攻领域（医疗、法律、国际会议）。部分在政府机构或国际组织找到全职工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive interpretation (e.g., announcement broadcasting)
-- Structured meeting interpretation (e.g., quarterly reports)
+- 简单的重复性口译（如公告广播）
+- 结构化会议口译（如季度报告）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time data search with AI assistance
-- Human review after AI automatic translation
+- AI辅助实时数据搜索
+- AI自动翻译后人工审核
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding cultural nuances
-- Empathy and mediation skills
-- Judgment under high-pressure situations
+- 理解文化细微差别
+- 同理心与调解技巧
+- 高压环境下的判断力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Expertise in specialized fields (medical, legal, IT)
-- Simultaneous interpretation skills
-- Use of CAT (Computer-Assisted Translation) tools
+- 专业领域专长（医疗、法律、IT）
+- 同声传译技能
+- 使用CAT（计算机辅助翻译）工具
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Medical interpretation
-- Legal interpretation
-- Sign language interpretation
-- Remote interpretation
+- 医疗口译
+- 法律口译
+- 手语翻译
+- 远程口译
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment possible in professional interpretation field, employer sponsorship required |
-| Subclass D-10 (Job-seeking) | Job-seeking as holder of interpretation-related degree |
-| Subclass F-2 (Residence) | Possible to work as interpreter after long-term residence |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person fluent in two languages with cultural sensitivity
-- Person with good concentration and quick reflexes
-- Person who calmly facilitates communication under stress
+- 精通两种语言且具有文化敏感性的人
+- 注意力集中、反应敏捷的人
+- 在压力下冷静促进沟通的人
 
 **谁不适合**
-- Person extremely reluctant to speak in presentations or public
-- Person who tends to gloss over rather than be accurate
+- 非常不愿在演讲或公共场合发言的人
+- 倾向于敷衍了事而非精确的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an interpreter?**
-答：Approximately 25–40 million won for beginners, possible over 100 million won depending on experience and specialty
+**问：口译员的平均薪资是多少？**
+答：初学者约2500-4000万韩元，根据经验和专长可超1亿韩元
 
-**问：What visa does a foreigner need to work as an interpreter in Korea?**
-答：Requires an E-7 visa, with employer sponsorship and proof of expertise in the relevant field.
+**问：在韩国做口译员需要什么签证？**
+答：需要E-7签证，由雇主担保并证明相关领域的专业知识。
 
-**问：Is it absolutely necessary to attend graduate school to become an interpreter?**
-答：It is not mandatory, but for specialized fields like conference interpretation, a master's degree from a graduate school of interpretation and translation is advantageous.
+**问：成为口译员是否必须读研究生？**
+答：非强制性，但如会议口译等专业领域，拥有口译翻译研究生院的硕士学位更有利。
 
 
 ---
@@ -140,12 +133,12 @@ Most start as freelancers, and can specialize in fields (medical, legal, interna
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/interpreter/KR)**

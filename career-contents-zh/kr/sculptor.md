@@ -1,10 +1,8 @@
 # 雕塑家（Sculptor）职业分析 · 韩国
 
-**职业代码: 41412 (KECO)**
+**职业代码：41412 (KECO)**
 
-A sculptor is a professional artist who creates works of art using various materials such as stone, wood, and metal.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+雕塑家是使用石材、木材和金属等各种材料创作艺术品的专业艺术家。
 
 
 ---
@@ -13,8 +11,8 @@ A sculptor is a professional artist who creates works of art using various mater
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $6,000,000~$12,000,000（Tuition at national/public universities） |
-| University (4-year) | 4年 | $16,000,000~$32,000,000（Annual tuition at art college） |
+| 大专（2年制） | 2 年 | $6,000,000~$12,000,000（国立/公立大学学费） |
+| 大学（4年制） | 4年 | $16,000,000~$32,000,000（艺术院校年学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A sculptor is a professional artist who creates works of art using various mater
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Art History Certificate | Korean Association of Art | 可选 | Optional, helpful for artistic activities |
-| Sculpture Technician | Human Resources Development Service of Korea | 可选 | May be required for some public projects |
+| 艺术史证书 | 韩国艺术协会 | 可选 | 可选，有助于艺术活动 |
+| 雕塑技术员 | 韩国人力资源开发服务局 | 可选 | 某些公共项目可能需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,500. The Korean sculpture market has limited demand, and employment fluctuates depending on public art projects or exhibition opportunities. While some areas expand with the introduction of digital sculpting technology, overall employment is expected to remain stagnant or decrease slightly.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,500。韩国雕塑市场需求有限，就业情况随公共艺术项目或展览机会波动。虽然部分领域因数字雕刻技术的引入而扩大，但整体就业预计将保持停滞或略有下降。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,92 +38,86 @@ A sculptor is a professional artist who creates works of art using various mater
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $20,000,000~$30,000,000 | Irregular income from artwork sales |
-| 中级 (4-7年) | $30,000,000~$50,000,000 | Increase in solo exhibitions and artwork sales |
-| Advanced (8+ years) | $50,000,000~$99,999,999 | No upper limit for renowned sculptors |
+| 初级（0-3年） | $20,000,000~$30,000,000 | 艺术作品销售收入不稳定 |
+| 中级 (4-7年) | $30,000,000~$50,000,000 | 个展和艺术品销售增加 |
+| 高级（8年以上） | $50,000,000~$99,999,999 | 著名雕塑家无上限 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and 3D printing technology automate the design and production process of sculpture, but creative concepts and handcrafted artistry remain human domains. Therefore, AI is used as an auxiliary tool and will not completely replace the profession itself.
+AI和3D打印技术使雕塑的设计和生产过程自动化，但创意概念和手工技艺仍是人类领域。因此，AI作为辅助工具，不会完全取代该职业本身。
 
-After graduating from art college, sculptors typically operate private studios or join galleries/workshops. Common career paths include holding solo exhibitions, receiving public art commissions, or advancing to teaching positions.
+美术学院毕业后，雕塑家通常经营私人工作室或加入画廊/工作室。常见职业道路包括举办个展、接受公共艺术委托或晋升为教职。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple sculpture production
-- Basic 3D modeling tasks
-- Material cutting and trimming
+- 简单雕塑制作
+- 基础3D建模任务
+- 材料切割与修整
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea visualization
-- Large sculpture structural calculation
-- Digital sculpting and editing
+- 创意可视化
+- 大型雕塑结构计算
+- 数字雕刻和编辑
 
-**人类护城河:**
+**人类护城河：**
 
-- Unique artistic vision
-- Handcraft sense and texture expression
-- Communication and interpretation skills with clients
+- 独特的艺术视野
+- 手工感和质感表达
+- 与客户的沟通和解读能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- 3D printing operation
-- Digital sculpture software
-- Public art planning
-- Material science understanding
+- 3D打印操作
+- 数字雕刻软件
+- 公共艺术规划
+- 材料科学理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Public art
-- Digital sculpture
-- 3D printing
-- Exhibition planning
+- 公共艺术
+- 数字雕塑
+- 3D打印
+- 展览策划
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Short-term activities possible when invited for performances/exhibitions |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative and passionate about artistic expression
-- Person with long-term focus and patience
-- Person who prefers independent work environment
+- 富有创意，热爱艺术表达
+- 有长期专注和耐心的人
+- 喜欢独立工作环境的人
 
 **谁不适合**
-- Person who wants stable income
-- Person who prefers quick feedback and definitive goals
+- 希望收入稳定的人
+- 喜欢快速反馈和明确目标的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a sculptor?**
-答：Entry-level sculptors earn about 20-30 million won, experienced sculptors with 8+ years earn over 50 million won, and famous artists can earn hundreds of millions.
+**问：雕塑家的平均薪资是多少？**
+答：入门级雕塑师收入约2000-3000万韩元，8年以上经验者超过5000万韩元，知名艺术家可达数亿韩元。
 
-**问：What visa does a foreign sculptor need to work in Korea?**
-答：Mainly invited on an E-7 (Specific Activities) visa for exhibitions or performances, and long-term activities are possible with an F-2 (Residence) visa, but it is strict.
+**问：外国雕塑家在韩国工作需要什么签证？**
+答：主要以E-7（特定活动）签证受邀参加展览或表演，长期活动可通过F-2（居住）签证进行，但条件严格。
 
-**问：How to build a career as a sculptor?**
-答：After graduating from art college, winning competitions, holding solo exhibitions, and networking with galleries are important, and learning digital sculpting skills is advantageous.
+**问：如何建立雕塑家职业？**
+答：从艺术学院毕业后，参加比赛、举办个展、与画廊建立联系很重要，学习数字雕刻技能也很有优势。
 
 
 ---
@@ -143,12 +135,12 @@ After graduating from art college, sculptors typically operate private studios o
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sculptor/KR)**

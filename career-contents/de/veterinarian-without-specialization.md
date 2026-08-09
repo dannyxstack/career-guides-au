@@ -52,8 +52,6 @@ Veterinarians diagnose and treat animal diseases, perform surgeries, prescribe m
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
-
 Career paths include opening a private practice, advancing to clinic supervisor, or becoming a consultant in the pharmaceutical/food industry. One can also specialize further in veterinary specialties (e.g., surgery, internal medicine).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career paths include opening a private practice, advancing to clinic supervisor,
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, academic qualifications must meet requirements, no hard annual salary threshold |
 | Subclass Recognition Partners (Recognition Partnership) | Can work in Germany during qualification recognition process, employer must support |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: You need to submit your foreign degree to a German qualification recognition 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian-without-specialization/DE)**

@@ -53,8 +53,6 @@ Environmental health officers in New Zealand enforce public health regulations, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Standardized reporting and inspection tasks for environmental health officers will be automated by AI, but on-site enforcement, complex investigations, and public trust responsibilities remain human moats; overall outlook is mixed.
-
 Career progression path: from junior inspector to senior environmental health officer, then to management or specialist areas like food safety, water quality. Can also move into policy or consulting. Requires continuing professional development (CPD) to maintain registration.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Career progression path: from junior inspector to senior environmental health of
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, need to meet 6-point system (qualifications + work experience), not on Green List occupations |
 | Subclass Work to Residence (Work to Residence Visa) | Work to Residence visa, requires employment with an accredited employer and meeting income requirements |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Job opportunities are stable, mainly in local and regional health departments
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-health-officer/NZ)**

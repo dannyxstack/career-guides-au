@@ -52,8 +52,6 @@ Forestry engineers are responsible for planning, managing, and protecting forest
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure of forestry engineers is polarized: fieldwork and complex ecological decision-making are limited to AI, but tasks such as data monitoring, statistical modeling, and documentation can be efficiently replaced by AI, leading to a reduction in some mid- and low-end positions while significantly improving efficiency for high-end positions.
-
 Promotion can be to forestry project manager, nature reserve director, or transition to environmental consulting or water resource management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Promotion can be to forestry project manager, nature reserve director, or transi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled talent, a work contract and salary must meet the threshold |
-| Subclass Altamente cualificad (Highly Skilled Professional) | Suitable for university degrees and professional experience, fast track |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Regular employment residency requires employer sponsorship |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: You can join environmental consulting companies, government forestry departme
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forest-engineer/ES)**

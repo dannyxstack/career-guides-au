@@ -1,10 +1,8 @@
-# Broadcasting, Communication, and Internet Cable Installer and Repairer 职业分析 · 韩国
+# 广播、通信和互联网电缆安装工与修理工（Broadcasting, Communication, and Internet Cable Installer and Repairer）职业分析 · 韩国
 
-**职业代码: 84231 (KECO)**
+**职业代码：84231 (KECO)**
 
-A technical job that installs and maintains broadcasting, communication, and internet cables, building and checking network infrastructure for homes and businesses.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+安装和维护广播、通信及互联网电缆的技术工作，为家庭和企业建立并检查网络基础设施。
 
 
 ---
@@ -13,8 +11,8 @@ A technical job that installs and maintains broadcasting, communication, and int
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 无 | $0~$0（At least high school diploma required） |
-| Community college (communications/electronics) | 2 年 | $10,000,000~$15,000,000（Based on national/public standards） |
+| 高中毕业 | 无 | $0~$0（至少需要高中学历） |
+| 社区学院（通信/电子） | 2 年 | $10,000,000~$15,000,000（基于国家/公共标准） |
 
 ---
 
@@ -22,19 +20,19 @@ A technical job that installs and maintains broadcasting, communication, and int
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Safety Management License (e.g., Industrial Safety Engineer) | Human Resources Development Service of Korea | 必备 | Essential for field safety |
-| Information and Communication Engineer | Korea Radio Promotion Association | 可选 | Optional, advantageous for promotion |
-| Radio and Electronic Communication Technician | Human Resources Development Service of Korea | 可选 | Recommended for junior technicians |
-| Communication Line Technician | Human Resources Development Service of Korea | 可选 | Directly related to cable installation/repair work |
+| 安全管理许可证（如工业安全工程师） | 韩国人力资源开发服务局 | 必备 | 现场安全必备 |
+| 信息与通信工程师 | 韩国广播振兴协会 | 可选 | 可选，对晋升有利 |
+| 无线电和电子通信技术员 | 韩国人力资源开发服务局 | 可选 | 推荐给初级技术员 |
+| 通信线路技术员 | 韩国人力资源开发服务局 | 可选 | 与电缆安装/维修工作直接相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. Demand remains due to expansion of 5G/high-speed internet and smart home/IoT adoption, but automation and remote management limit employment growth.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。由于5G/高速互联网和智能家居/物联网的扩展，需求仍然存在，但自动化和远程管理限制了就业增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A technical job that installs and maintains broadcasting, communication, and int
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$35,000,000 | Based on telecom subcontractors |
-| 中级 (4-7年) | $35,000,000~$45,000,000 | Upgrade when possessing technical qualifications |
-| 高级（8年+） | $45,000,000~$60,000,000 | Team Lead Level |
+| 入门级（0-3年） | $28,000,000~$35,000,000 | 基于电信分包商 |
+| 中级 (4-7年) | $35,000,000~$45,000,000 | 具备技术资格时升级 |
+| 高级（8年+） | $45,000,000~$60,000,000 | 团队负责人级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation enhance remote diagnostics and self-installation guides for some cable installation/repair tasks, but actual field work and troubleshooting still require human technicians. Repetitive simple tasks may decrease, but complex problem-solving will become more important.
+AI和自动化增强了一些电缆安装/维修任务的远程诊断和自助安装指南，但实际的现场工作和故障排除仍需要人类技术人员。重复的简单任务可能会减少，但复杂的问题解决将变得更加重要。
 
-Starting as a junior installer, one can advance to senior installer or team leader with experience, and further to deputy manager or manager by obtaining technical certifications at telecom or maintenance companies.
+从初级安装员开始，可晋升为高级安装员或团队负责人，进一步通过获得技术认证成为副经理或经理，在电信或维护公司工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple line inspection
-- Basic fault diagnosis
-- Automated installation scheduling
+- 简单线路检查
+- 基本故障诊断
+- 自动安装调度
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Remote fault diagnosis
-- Customer guidance automation
-- Installation network optimization
+- 远程故障诊断
+- 客户引导自动化
+- 安装网络优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Actual cable connection and splicing
-- Unexpected on-site issue resolution
-- Adaptive judgment based on weather and environment
+- 实际电缆连接与 splic护
+- 意外现场问题解决
+- 基于天气和环境的适应性判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- IoT and smart home installation skills
-- Ability to use AI-based remote diagnostic tools
-- Basic network security knowledge
+- 物联网和智能家居安装技能
+- 能够使用基于人工智能的远程诊断工具
+- 基础网络安全知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- 5G infrastructure
-- Smart home
-- FTTH installation
-- IoT maintenance
+- 5G基础设施
+- 智能家居
+- FTTH安装
+- 物联网维护
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Employment possible as non-professional workforce, but limited to manufacturing and construction; telecommunication installation is restricted. |
-| Subclass E-7 (Specific Activities (E-7)) | Issuable for employment in specialized fields as skilled technicians, including telecommunications installation and repair. |
-| Subclass F-2 (Residence (F-2)) | No restrictions when switching to a long-term resident |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are physically fit and prefer outdoor activities
-- People who are dexterous and enjoy using tools
-- Person with excellent problem-solving skills
+- 身体健壮且偏好户外活动者
+- 手巧且喜欢使用工具的人
+- 解决问题能力强的人
 
 **谁不适合**
-- Person who prefers office work
-- People afraid of heights or dangerous places
+- 偏好办公室工作的人
+- 恐高或危险场所的人
 
 ---
 
 ## 8. FAQ 常见问题
 
 **问：What is the typical starting salary?**
-答：The starting annual salary for entry-level is 28-35 million KRW, depending on the telecom partner company.
+答：入门级起薪年收入为2800-3500万韩元，取决于电信合作公司。
 
-**问：Can foreigners get jobs in this field?**
-答：E-7 visa allows hiring skilled technicians, but E-9 visa is generally limited. Experience and qualifications are required.
+**问：外籍人士能在这个领域找到工作吗？**
+答：E-7签证允许雇佣技术熟练工，但E-9签证通常受限。需具备经验和资质。
 
-**问：Are there required certifications?**
-答：Safety training under the Occupational Safety and Health Act is mandatory. Communication line technician or information and communication engineer certifications are advantageous.
+**问：是否需要必需的认证？**
+答：《职业安全健康法》下的安全培训是强制性的。通信线路技术员或信息通信工程师认证有优势。
 
 
 ---
@@ -146,12 +136,12 @@ Starting as a junior installer, one can advance to senior installer or team lead
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/broadcasting-communication-and-internet-cable-installer-and-repairer/KR)**

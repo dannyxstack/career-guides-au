@@ -1,10 +1,8 @@
-# TV/radio/online broadcast director 职业分析 · 韩国
+# 电视/广播/网络广播导演（TV/radio/online broadcast director）职业分析 · 韩国
 
-**职业代码: 41611 (KECO)**
+**职业代码：41611 (KECO)**
 
-A professional who oversees the planning, production, editing, and direction of programs for television, radio, and online broadcasting. A career requiring creativity and leadership.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责规划、制作、编辑和指导电视、广播和在线广播节目的专业人士。需要创造力和领导力的职业。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who oversees the planning, production, editing, and direction of 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No required degree, but college degree preferred） |
-| Associate's degree (broadcasting/film) | 2 年 | $5,000,000~$15,000,000（Based on tuition） |
-| Bachelor's degree (broadcasting/film/journalism) | 4年 | $10,000,000~$40,000,000（Public/private difference） |
+| 高中毕业 | 0年 | $0~$0（不要求特定学历，但优先考虑大学学历） |
+| 副学士学位（广播/电影） | 2 年 | $5,000,000~$15,000,000（按学费计费） |
+| 学士学位（广播/电影/新闻学） | 4年 | $10,000,000~$40,000,000（公共/私营差异） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who oversees the planning, production, editing, and direction of 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast and Communication Engineer | Korea Radio Promotion Association | 可选 | Optional, helps with understanding broadcast technology |
-| Video editing skills | Not a certification | 可选 | Essential in the field |
-| PD (Producer) experience | Not a certification | 可选 | Experience is most important |
+| 广播和通信工程师 | 韩国广播振兴协会 | 可选 | 可选，有助于理解广播技术 |
+| 视频剪辑技能 | 非认证 | 可选 | 该领域必备 |
+| 制片人经验 | 非认证 | 可选 | 经验最重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 8,500. Demand remains steady due to the growth of OTT and digital content markets, but employment growth is limited due to broadcast restructuring and intensifying competition. High proportion of freelancers.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 8,500。由于OTT和数字内容市场的增长，需求保持稳定，但广播重组和竞争加剧限制了就业增长。自由职业者比例高。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -42,95 +40,87 @@ A professional who oversees the planning, production, editing, and direction of 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0~3 years) | $30,000,000~$45,000,000 | Includes broadcast station internships/contract positions |
-| Mid-level (4~10 years) | $45,000,000~$70,000,000 | Income variability high for freelancers |
-| Senior (11 yrs+) | $70,000,000~$99,999,999 | Major broadcaster lead PD level |
+| 初级（0~3年） | $30,000,000~$45,000,000 | 包括广播电台实习/合同职位 |
+| 中级（4~10年） | $45,000,000~$70,000,000 | 自由职业者收入波动大 |
+| 高级（11年以上） | $70,000,000~$99,999,999 | 主要广播公司首席导演级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI assists some tasks like planning, editing, and data analysis in broadcasting direction, but creative planning and director roles are hard to replace, leading to mixed impacts.
+AI在广播导演中辅助规划、编辑和数据分析等任务，但创意策划和导演角色难以替代，影响不一。
 
-Typically start as a station PD, then advance to senior PD, team leader, or department head based on experience. Founding an independent production company or transitioning to freelance is also common.
+通常从电台PD开始，然后根据经验晋升为高级PD、团队领导或部门主管。自己创办制作公司或转为自由职业也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple editing tasks
-- Subtitle generation
-- Data collection and analysis
+- 简单编辑任务
+- 字幕生成
+- 数据收集与分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Scenario analysis
-- Viewer data-based planning
-- Auto-editing assistance
+- 情景分析
+- 基于观众数据的策划
+- 自动编辑辅助
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative ideas
-- Understanding human emotions
-- Leadership and decision-making
-- Networking
+- 创意想法
+- 理解人类情感
+- 领导力与决策
+- 网络
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool utilization
-- Data analysis
-- Digital Content Production
+- 人工智能工具运用
+- 数据分析
+- 数字内容制作
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- OTT content
-- Digital production
-- Web entertainment
-- Short-form content
+- OTT内容
+- 数字制作
+- 网络娱乐
+- 短视频内容
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible if invited by broadcasters as experienced director, but competition fierce. |
-| Subclass D-10 (Job-seeking) | Available as job-seeking visa for broadcasting graduates (master's+) to find directing jobs. |
-| Subclass F-2 (Residence) | No work restrictions for long-term residence, but language & cultural barriers are high due to broadcasting's uniqueness. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Creative with strong planning skills
-- A leader who can guide a team under stress
-- Interested in diverse genres
+- 富有创意且策划能力强
+- 能够在压力下带领团队的领导者
+- 对多种类型感兴趣
 
 **谁不适合**
-- Prefers routine and stability
-- Prefers working alone quietly
+- 偏好常规和稳定性
+- 偏好安静独立工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary of a broadcasting director?**
-答：Entry-level PD (0-3 years) earns 30-45 million KRW, mid-level 45-70 million, and senior head PD 70-150 million KRW. Freelancers have variable income per project.
+**问：广播总监的薪资是多少？**
+答：初级PD（0-3年）收入3000-4500万韩元，中级4500-7000万韩元，高级首席PD7000万-1.5亿韩元。自由职业者项目收入不固定。
 
-**问：Can foreigners work as broadcasting directors in Korea?**
-答：Possible with an E-7 visa, but Korean language skills and broadcasting experience are essential, and competition is fierce. Realistically, it's difficult unless exceptional expertise is recognized by K-content production companies.
+**问：韩国广播导演对外国人开放吗？**
+答：可通过E-7签证实现，但需要韩语能力和广播经验，且竞争激烈。实际上，除非被K-pop制作公司认可具备非凡专长，否则很难。
 
-**问：What preparation is needed to become a broadcasting director?**
-答：A broadcasting-related degree, along with station internships and assistant PD experience, is important. A creative portfolio and continuous self-development are essential.
+**问：成为广播导演需要哪些准备？**
+答：广播相关学位，加上电台实习和助理PD经验很重要。创意作品集和持续自我发展是必需的。
 
 
 ---
@@ -148,12 +138,12 @@ Typically start as a station PD, then advance to senior PD, team leader, or depa
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/tv-radio-online-broadcast-director/KR)**

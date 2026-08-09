@@ -53,8 +53,6 @@ Operates or tends heating equipment other than for metal, plastic, or food proce
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of furnace, dryer, and boiler operators is highly repetitive and in fixed environments; AI and automation will largely take over core tasks like monitoring and adjustment, leading to a reduction in positions, but on-site maintenance and abnormal handling still require human labor.
-
 Start as an operator, can advance to senior operator, team leader, or production supervisor. After gaining experience, can shift to equipment maintenance or quality control. Some people become industrial engineers or production managers through further study.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as an operator, can advance to senior operator, team leader, or production
 | Subclass H-1B (H-1B Specialty Occupations) | Typically not eligible, as this occupation is usually not a professional position |
 | Subclass EB-3 (EB-3 Skilled Workers) | Possible through PERM labor certification, but shortage needs to be proven, quite difficult |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Difficult. This occupation is not a professional role and typically does not 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/furnace-kiln-oven-drier-and-kettle-operators-and-tenders/US)**

@@ -52,8 +52,6 @@ Canadian water resources engineers design and manage water supply, drainage, flo
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance data modeling and design optimization but reduce routine reporting and monitoring tasks; core duties like regulatory compliance and on-site decisions require human judgment; overall outlook mixed.
-
 Junior engineers (EIT) gain experience and then obtain Professional Engineer (P.Eng.) license, advancing to project manager, technical supervisor, or government water sector expert. Large engineering firms (e.g., AECOM, Stantec) offer more management opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior engineers (EIT) gain experience and then obtain Professional Engineer (P.
 | Subclass PNP (Provincial Nominee Program) | Ontario OINP Human Capital, BC Tech Pilot, etc., allowing application for provincial nomination with 600 points without employer sponsorship |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, employer-sponsored fast track, suitable for applicants with a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must have provincial P.Eng. license, requiring a CEAB-accredited degree, 4 ye
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-resources-engineer/CA)**

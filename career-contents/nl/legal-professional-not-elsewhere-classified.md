@@ -4,8 +4,6 @@
 
 Includes paralegals, legal advisors, and other unclassified legal professionals, mainly engaged in legal research, contract drafting, compliance consulting, etc. in the Netherlands.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Includes paralegals, legal advisors, and other unclassified legal professionals,
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Legal professionals (other) are at a watershed for AI impact: junior tasks like contract drafting and legal research can be efficiently automated, but roles requiring human judgment such as compliance advisory and complex negotiations are amplified in value by AI tools. Entry-level competition intensifies, while senior roles increasingly rely on AI assistance.
-
 Junior legal assistants can advance to senior consultant or compliance specialist roles, some become partners in law firms, or transition to management positions in corporate legal departments.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior legal assistants can advance to senior consultant or compliance specialis
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for skilled migration meeting the salary threshold, requires employer sponsorship, and can include family members |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-education, high-salary positions, annual salary must exceed approximately €60,000, fast-track residency path |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates of Dutch universities or the top 200 global universities, job seeking within one year |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can advance from legal assistant to senior consultant or partner, or transiti
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-professional-not-elsewhere-classified/NL)**

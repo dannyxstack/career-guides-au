@@ -52,8 +52,6 @@ Ship pilots are responsible for driving and operating vessels, ensuring navigati
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Promotion from Third Officer to Chief Officer or Captain requires accumulating sea service time and passing exams. Some shift to port management or maritime training, with income rising significantly at higher ranks.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Promotion from Third Officer to Chief Officer or Captain requires accumulating s
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Skilled migration category, points-based on age, education, work experience, etc.; under the 6-point system, a higher salary may be required |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer work visa as a transitional visa, requiring a job offer from an accredited employer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Chinese certificates need to be assessed by Maritime New Zealand, may need su
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ships-officer/NZ)**

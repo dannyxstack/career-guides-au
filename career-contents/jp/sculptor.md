@@ -4,8 +4,6 @@
 
 A professional who carves or molds materials such as wood, stone, and metal to create artistic works, producing pieces for art exhibitions and public spaces.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional who carves or molds materials such as wood, stone, and metal to c
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI streamlines sculptors' design processes and 3D modeling, its ability to replace the core aesthetic sensitivity and material craftsmanship remains limited—though more artists are adopting AI tools, full replacement is still far off.
-
 Career built through joining art organizations, winning open competitions, and holding solo exhibitions. It takes a long time to stabilize income, and many sculptors have side jobs.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Career built through joining art organizations, winning open competitions, and h
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services visa) | After graduating from art university, employed in art-related companies or educational institutions. |
-| Subclass 文化活動 (Cultural Activities visa) | Applies to artistic activities without income (unpaid production/research). |
-| Subclass 特定技能 (Specified Skilled Worker visa) | Sculptors are excluded. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +129,12 @@ A: To earn income as a sculptor in Japan, a 'Engineer/Specialist in Humanities/I
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sculptor/JP)**

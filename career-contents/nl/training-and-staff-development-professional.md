@@ -51,8 +51,6 @@ Training and employee development specialists are responsible for designing, imp
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate administrative and content creation aspects of training, but enhance personalized learning design and effectiveness assessment; overall job role transforms rather than disappears.
-
 Career paths can progress from training specialist to training manager, learning and development director, or move into HR consulting. After gaining industry experience, one can become an independent trainer or start a training organisation.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career paths can progress from training specialist to training manager, learning
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled non-EU talent, requires a job contract with an employer recognized by the IND and a salary meeting the threshold (2024 approx. €4,500/month). |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU employees with higher education background, employment contract with annual salary not less than €5,600/month. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates who complete a master's or doctoral degree in the Netherlands can apply for a one-year job-seeking visa, and can switch to a work residence permit after finding a job. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Available via the Highly Skilled Migrant scheme or EU Blue Card, provided you
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/training-and-staff-development-professional/NL)**

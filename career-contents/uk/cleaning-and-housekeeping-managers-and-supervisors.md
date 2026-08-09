@@ -53,8 +53,6 @@ Responsible for supervising and managing cleaning and housekeeping tasks in priv
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on facility managers (FMs) is twofold: routine admin, data analysis, and compliance monitoring tasks are easily automated, but on-site emergency response, supplier negotiation, and cross-department coordination, which rely on interpersonal trust and physical presence, are hard to replace. Overall, the role will not be fully replaced, but focus will shift to high-value decisions and exception handling.
-
 Can advance from cleaner or housekeeper to supervisor, then to department manager or operations director, or start a cleaning business independently.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from cleaner or housekeeper to supervisor, then to department manage
 |---|---|
 | Subclass Skilled Worker (Skilled Worker Visa) | Typically not on the sponsorship list for this occupation unless the role is classified as a senior position related to hotel or facility management. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically not, as this occupation is not on the standard skilled worker visa 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cleaning-and-housekeeping-managers-and-supervisors/UK)**

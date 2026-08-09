@@ -52,8 +52,6 @@ Actuaries use mathematical and statistical methods to assess financial risks suc
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly augment, not replace, the core mathematical modelling and risk assessment tasks of actuaries, but repetitive data collation and standard report tasks will be automated, requiring mastery of AI tools to remain competitive.
-
 Advancement from junior analyst to actuary requires passing professional exams (about 5-8 years). Senior roles can become chief actuary or risk director, or move into banking and investment sectors.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Advancement from junior analyst to actuary requires passing professional exams (
 | Subclass SMC (Skilled Migrant Category) | 6-point system: points awarded for job offer and work experience. Must meet 60 points (overseas qualifications + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | If not eligible for direct residence, you can first work on this visa for two years and then apply for residence. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must become an Associate or Fellow member of the New Zealand Society of Actua
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actuary/NZ)**

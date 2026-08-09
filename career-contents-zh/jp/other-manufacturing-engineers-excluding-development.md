@@ -1,8 +1,8 @@
-# Other Manufacturing Engineers (excluding Development) 职业分析 · 日本
+# 其他制造工程师（不含开发）（Other Manufacturing Engineers (excluding Development)）职业分析 · 日本
 
-**职业代码: 089 (JSCO)**
+**职业代码：089 (JSCO)**
 
-A professional responsible for production technology, quality control, and process improvement on the manufacturing floor, ensuring stable product supply and quality enhancement.
+负责制造现场生产技术、质量控制和工艺改进的专业人员，确保产品稳定供应和质量提升。
 
 
 ---
@@ -11,9 +11,9 @@ A professional responsible for production technology, quality control, and proce
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$0（Public high schools free, private approx. ¥400,000/year） |
-| Vocational School (Industrial) | 2 年 | $1,000,000~$2,000,000（¥500,000–1,000,000/year × 2 years） |
-| University (Engineering) | 4年 | $4,000,000~$6,000,000（National/public ¥500,000/year, private ¥1,000,000–1,500,000/year） |
+| 高中 | 3年 | $0~$0（公立高中免费，私立约¥400,000/年） |
+| 职业学校（工业） | 2 年 | $1,000,000~$2,000,000（50万–100万日元/年 × 2年） |
+| 大学（工程） | 4年 | $4,000,000~$6,000,000（国立/公立每年50万日元，私立每年100万-150万日元） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional responsible for production technology, quality control, and proce
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Mechanical, etc.) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | Demonstrates advanced specialized knowledge |
-| Quality Control Certification (QC Certification) | Japanese Standards Association | 可选 | Evaluates quality control knowledge |
-| CAD Technician Test | Computer Education Promotion Association | 可选 | Design and drafting skills |
+| 专业工程师（机械等） | 文部科学省 | 可选 | 展示高级专业知识 |
+| 质量控制认证（QC认证） | 日本标准协会 | 可选 | 评估质量控制知识 |
+| CAD技术员测试 | 计算机教育促进协会 | 可选 | 设计与制图技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 350,000. Domestic manufacturing faces ongoing labor shortages, especially among SMEs with strong hiring demand. Automation and DX initiatives sustain demand for skilled personnel.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 350,000。国内制造业面临持续的劳动力短缺，尤其是招聘需求强劲的中小企业。自动化和DX举措维持了对技能人才的需求。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,93 +40,86 @@ A professional responsible for production technology, quality control, and proce
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,000,000~$4,000,000 | Start as a technician on the manufacturing floor |
-| Intermediate Level (4–9 years) | $4,000,000~$5,500,000 | Leader/Supervisor Level |
-| 资深（10年以上） | $5,500,000~$8,000,000 | Manager/Executive Level |
+| 入门级（0–3年） | $3,000,000~$4,000,000 | 从制造车间技术员起步 |
+| 中级（4–9年） | $4,000,000~$5,500,000 | 领导/主管级别 |
+| 资深（10年以上） | $5,500,000~$8,000,000 | 经理/高管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will replace routine tasks, but advanced judgment in process improvement and quality control remains a human role. Skills to utilize AI are important.
+人工智能和自动化将取代常规任务，但在流程改进和质量控制方面的高级判断仍然是人类的角色。利用人工智能的技能很重要。
 
-Gain field experience and advance to leadership roles in production management or quality assurance. Paths to advanced certifications and management positions are open.
+积累现场经验，晋升至生产管理或质量保证的领导岗位。获得高级认证和管理职位的路径是开放的。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual aggregation of numerical data
-- Simple visual inspection
-- Standard process design
+- 手动汇总数字数据
+- 简单目视检查
+- 标准流程设计
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Quality prediction
-- Process optimization simulation
-- Anomaly detection system management
+- 质量预测
+- 流程优化模拟
+- 异常检测系统管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to identify issues on site and propose improvements
-- Flexible response to high-mix low-volume production
-- Problem-solving through human collaboration
+- 能现场识别问题并提出改进
+- 灵活应对多品种小批量生产
+- 通过人类协作解决问题
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Programming (e.g., Python)
-- Basics of AI and machine learning
+- 数据分析
+- 编程（如Python）
+- 人工智能与机器学习基础
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Production engineering
-- Quality control
-- Process improvement
-- Automation
+- 生产工程
+- 质量控制
+- 流程改进
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years experience. Common for manufacturing engineers. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing)) | Eligible by exam. Max 5 years. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Manufacturing)) | For skilled workers. Family accompaniment allowed. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in manufacturing
-- People good at meticulous work
-- People who can collaborate in teams
+- 对制造业感兴趣的人
+- 善于细致工作的人
+- 能够团队协作的人
 
 **谁不适合**
-- People who prefer simple tasks
-- People who dislike change
+- 喜欢简单任务的人
+- 不喜欢变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much do manufacturing engineers earn?**
-答：In the first year, roughly 3-4 million yen; mid-level 4-5.5 million yen; managerial roles 5.5-8 million yen. Varies by industry and company size.
+**问：制造工程师薪资多少？**
+答：第一年大约300-400万日元；中级400-550万日元；管理职位550-800万日元。因行业和公司规模而异。
 
-**问：What visa is needed for foreigners to work in this occupation?**
-答：The Engineer/Specialist in Humanities/International Services visa is common. Requires a university degree or over 10 years of professional experience. Specified Skilled Worker (i) and (ii) are also available.
+**问：外国人在从事该职业需要什么签证？**
+答：人文/国际服务领域的工程师/专家签证常见，需大学学历或十年以上专业经验。特定技能工人(i)和(ii)也同样适用。
 
-**问：How to advance your career in this profession?**
-答：Gain field experience and aim for leadership in production management or quality assurance. Certifications like Professional Engineer or QC exam are effective. There is also a path to management.
+**问：如何在这一职业中提升职业生涯？**
+答：积累现场经验，目标成为生产管理或质量保证的领导者。工程师或QC考试等认证有效。也有晋升管理层的路径。
 
 
 ---
@@ -144,12 +137,12 @@ Gain field experience and advance to leadership roles in production management o
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-manufacturing-engineers-excluding-development/JP)**

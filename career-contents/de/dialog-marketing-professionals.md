@@ -51,8 +51,6 @@ Dialogue marketing professionals handle direct communication with customers via 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will reshape the task structure for advertising and marketing assistant professionals: routine tasks such as basic data analysis, report generation, and client communication face automation, but creative strategy, client insight, and AI tool application skills will be enhanced.
-
 From junior customer service representative, can advance to marketing specialist, team leader, marketing manager. Obtaining IHK certification or a business management degree can accelerate promotion; those with analytical skills are more likely to enter strategic roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ From junior customer service representative, can advance to marketing specialist
 | Subclass Skilled Worker Visa (Skilled Immigration Act Visa) | Hold a German-recognized university degree or vocational training certificate, and obtain a job contract to apply. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based system allowing holders to seek work in Germany for one year, suitable for qualified individuals. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Hold a recognized German vocational training certificate or relevant universi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dialog-marketing-professionals/DE)**

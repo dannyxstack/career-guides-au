@@ -52,8 +52,6 @@ Glaziers install, replace, and repair glass in buildings, including windows, doo
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 Entry-level glaziers can gain experience through apprenticeships and advance to senior technicians or supervisors. Some transition to specialized fields such as curtain wall systems or decorative glass. There are also opportunities to start their own businesses, taking on small projects.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Entry-level glaziers can gain experience through apprenticeships and advance to 
 | Subclass EU Blue Card (EU Blue Card) | Applicable to shortage skill occupations, annual salary threshold approximately €33,000, direct path to EU residency |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If recognized as a shortage occupation, you can apply with an annual salary threshold of €32,000; family members can accompany you. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a SOLAS-accredited apprenticeship or vocational training, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/IE)**

@@ -52,8 +52,6 @@ Meteorologists study atmospheric phenomena, analyze weather and climate data, pr
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-For atmospheric and space scientists, AI automation will replace data analysis and basic forecasting tasks but enhance complex pattern recognition and decision support. This occupation faces a mixed outlook in the AI era, with increased demand for high-skilled roles and compression of entry-level positions.
-
 Assistant meteorologists can be promoted to senior forecasters or research team leaders. Further studies can lead to university teaching or climate research, with some moving to private meteorological consulting firms.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Assistant meteorologists can be promoted to senior forecasters or research team 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, requires university degree and work contract, annual salary threshold around €34,000. |
-| Subclass Cuenta ajena (Work Permit for Employed Persons) | Employed work residence requires employer sponsorship, and the contract meets minimum wage requirements. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | The Ley 14/2013 framework is suitable for in-demand occupations and has a faster process. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Usually, a bachelor's degree in physics, environmental science, etc., plus a 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meteorologist/ES)**

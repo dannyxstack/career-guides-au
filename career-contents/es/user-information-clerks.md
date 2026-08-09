@@ -51,8 +51,6 @@ Working in call centers or customer service departments in Spain, responsible fo
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI will significantly reduce the number of user information service staff. Automated customer service and chatbots can replace most basic queries and complaint handling, while entry-level positions will sharply decrease. Existing practitioners will need to shift to complex problem handling and AI collaborative management.
-
 Junior employees can be promoted to team leader or customer service supervisor through accumulated experience, or move into quality control or training roles. Some employees may move into customer relationship management roles in other departments.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Junior employees can be promoted to team leader or customer service supervisor t
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Must obtain a work contract from a Spanish company that meets minimum wage requirements and pass a labor market test (for non-urgent occupations). |
-| Subclass Tarjeta azul UE (EU Blue Card) | If you work in a high-skilled position and your annual salary is above the EU Blue Card threshold (about €33,908/2024), you can apply, but customer service roles usually struggle to reach this salary. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +141,12 @@ A: Affected by automation and AI, the outlook is poor. Consider transitioning to
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/user-information-clerks/ES)**

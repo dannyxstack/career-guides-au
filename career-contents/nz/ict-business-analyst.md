@@ -52,8 +52,6 @@ ICT business analysts analyze business data using SQL, Python, Power BI, etc., s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Entry-level: data assistant or reporting analyst; mid-level: senior analyst or data scientist; senior: data manager or chief data officer. Industry knowledge is key.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level: data assistant or reporting analyst; mid-level: senior analyst or d
 | Subclass SMC (Skilled Migrant Category) | Based on EOI points, requires a 6-point system including qualifications, work experience, and salary |
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Must work in a Green List position for 2 years before applying for residence; this occupation is not currently in T1 |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation is currently not on the Green List Tier 1 direct residence pa
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-business-analyst/NZ)**

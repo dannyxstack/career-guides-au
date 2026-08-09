@@ -53,8 +53,6 @@ Metal production supervisors oversee processes such as smelting, casting, and ro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation will significantly optimize process monitoring and quality analysis tasks for metal production supervisors, but on-site decision-making, team management, and safety responsibilities are hard to replace, with mixed job prospects.
-
 Career progression: starting as a skilled worker (e.g., metallurgical technician), with years of experience moving up to production supervisor, then department manager or plant manager. Also can develop toward quality management or process optimization specialties.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: starting as a skilled worker (e.g., metallurgical technician
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | For skilled workers with vocational training qualifications, need certification from institutions such as IHK |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points, allowing up to one year to find work in Germany. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must first complete a recognised German metalworking vocational training (dua
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-metal-production/DE)**

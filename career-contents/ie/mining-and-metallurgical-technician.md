@@ -53,8 +53,6 @@ Mining and metallurgical technicians assist engineers in mineral exploration, ex
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Routine tasks for mining and metallurgical technicians (e.g., equipment monitoring, data recording, sample analysis) are gradually being replaced by AI and automation systems, especially in geological data analysis and process control. However, on-site supervision and physical operations remain, with fewer entry-level opportunities.
-
 Junior technicians can gain experience and advance to senior technician or supervisor roles; further study can lead to becoming a mining or metallurgical engineer, or transitioning to environmental management positions.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior technicians can gain experience and advance to senior technician or super
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Yes, can advance to senior technician, supervisor, or become an engineer thro
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mining-and-metallurgical-technician/IE)**

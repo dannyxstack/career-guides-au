@@ -52,8 +52,6 @@ Evaluates, approves, or recommends commercial, real estate, or credit loans. Adv
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI is reshaping the core tasks of credit officers: risk assessment and compliance checks will be largely automated, but customer communication and complex decisions still require humans; entry-level roles are narrowing, but senior roles are growing due to AI amplifying capabilities.
-
 Can advance from junior credit officer to senior credit officer, loan supervisor, credit manager, or transition to risk management, credit analysis, etc. Accumulating client resources and industry experience can lead to regional manager or branch manager roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from junior credit officer to senior credit officer, loan supervisor
 | Subclass EB-3 (Employment-Based Third Preference) | Suitable for bachelor's degree holders or experienced applicants, with a longer process |
 | Subclass L-1 (Intracompany Transferee) | Intra-company transfer to a US branch |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can be promoted to senior credit officer, loan supervisor, credit manager, or
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loan-officers/US)**

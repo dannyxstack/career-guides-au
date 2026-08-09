@@ -4,8 +4,6 @@
 
 Responsible for the finishing, ironing, and finishing processes of textiles (such as clothing and home textiles), ensuring products are flat, wrinkle-free, and meet quality requirements. Usually working in textile factories or laundry workshops.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for the finishing, ironing, and finishing processes of textiles (suc
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Repetitive ironing and organizing operations in this profession are easily replaced by automated equipment, and AI visual inspection can replace quality inspection. Entry-level positions will be greatly reduced, but equipment maintenance and abnormality handling still require manual labor.
-
 You can advance from operator to team leader or quality controller, or transition to textile technician or production management positions by studying BTS or professional certifications. Some experienced individuals can run their own laundries or dry cleaners.
 
 **Tasks most exposed to AI:**
@@ -99,15 +95,9 @@ You can advance from operator to team leader or quality controller, or transitio
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work permit)) | Employers must provide long-term labor contracts, be reviewed by the French Ministry of Labor, and the positions must meet local labor market tests. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +141,12 @@ A: Typically a CAP or Bac Pro relevant diploma is sufficient, also possible thro
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-finishing-ironing-and-pressing-operator/FR)**

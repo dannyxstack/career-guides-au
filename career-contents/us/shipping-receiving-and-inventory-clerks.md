@@ -53,8 +53,6 @@ Responsible for verifying and recording inventory of incoming and outgoing goods
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation will significantly change this occupation; some core tasks are replaced, while others are augmented, but full automation is still limited by physical and regulatory constraints.
-
 Can advance from junior clerk to warehouse supervisor or logistics coordinator, requiring experience in inventory management and transport scheduling.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from junior clerk to warehouse supervisor or logistics coordinator, 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Difficult, usually requires employer sponsorship through PERM, but the skill 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shipping-receiving-and-inventory-clerks/US)**

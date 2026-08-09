@@ -55,8 +55,6 @@ Use precision grinders, files, and polishing tools to smooth, polish, or sharpen
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 Entry-level workers can advance via apprenticeship to become skilled tradespeople, then to mold technicians or production supervisors. Experienced workers can transition to CNC grinding programming or quality inspection roles.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Entry-level workers can advance via apprenticeship to become skilled tradespeopl
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Typically after high school, participate in a 3-4 year apprenticeship or stud
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-grinders-filers-and-sharpeners/US)**

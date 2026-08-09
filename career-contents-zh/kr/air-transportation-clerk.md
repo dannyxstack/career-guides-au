@@ -1,10 +1,8 @@
-# Air Transportation Clerk 职业分析 · 韩国
+# 航空运输文员（Air Transportation Clerk）职业分析 · 韩国
 
-**职业代码: 02823 (KECO)**
+**职业代码：02823 (KECO)**
 
-A clerical professional who manages passenger/cargo transport schedules at airlines and handles reservations, ticketing, check-in, cargo acceptance, etc.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+在航空公司管理客运/货运时刻表并处理预订、出票、值机、货物接收等事务的文职专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A clerical professional who manages passenger/cargo transport schedules at airli
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Free as compulsory education） |
-| Associate degree (Aviation Service/Office) | 2 年 | $8,000,000~$20,000,000（Including tuition and textbook fees） |
+| 高中毕业 | 3年 | $0~$0（免费义务教育） |
+| 副学士学位（航空服务/办公） | 2 年 | $8,000,000~$20,000,000（包括学费和教材费） |
 
 ---
 
@@ -22,17 +20,17 @@ A clerical professional who manages passenger/cargo transport schedules at airli
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Air Transport Practical Clerk Level 1/2 | Korea Aviation Association | 可选 | Preferred for employment, not mandatory |
-| Test of Aviation English (TAE) | Korea Aviation Association | 可选 | Required or preferred for major airlines |
+| 航空运输实用文员1/2级 | 韩国航空协会 | 可选 | 优先考虑，非强制要求 |
+| 航空英语测试（TAE） | 韩国航空协会 | 可选 | 主要航空公司要求或优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,000. Employment is stable due to recovery of international/domestic passengers and increase in cargo volume, but growth is limited due to automation and expansion of self-check-in.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,000。由于国际/国内旅客恢复和货运量增加，就业稳定，但因自动化和自助值机扩展，增长有限。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A clerical professional who manages passenger/cargo transport schedules at airli
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$32,000,000 | Based on major airlines |
-| Mid-level (4-9 years) | $33,000,000~$45,000,000 | 团队主管级别 |
+| 入门级（0-3年） | $25,000,000~$32,000,000 | 基于主要航空公司 |
+| 中级（4-9年） | $33,000,000~$45,000,000 | 团队主管级别 |
 | 资深（10年以上） | $46,000,000~$60,000,000 | 经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI and automation (self check-in, AI booking and ticketing) are replacing simple repetitive tasks, reducing hiring scale. Roles are expected to become narrower.
+AI和自动化（自助入住、AI预订和票务）正在取代简单的重复性任务，减少了招聘规模。角色预计将变得更加狭窄。
 
-Typically start as airline ground staff clerk, gain experience, then advance to specialized departments such as reservations/ticketing/scheduling, or move to airport operations/cargo management positions.
+通常从航空公司地勤职员开始，积累经验，然后晋升到专门部门如预订/售票/调度，或转至机场运营/货运管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Booking and ticketing
-- Baggage tagging
-- Boarding pass issuance
+- 预订与售票
+- 行李标签
+- 登机牌发放
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Flight schedule optimization
-- Demand-based fare management
-- Customer complaint trend analysis
+- 航班时刻表优化
+- 基于需求的车费管理
+- 客户投诉趋势分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Unstructured customer service
-- Emergency situation judgment
-- Multinational communication
+- 非结构化客户服务
+- 紧急情况判断
+- 跨国沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Understanding of aviation regulations
+- 数据分析
+- 了解航空法规
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Recovery of air passenger traffic
-- Expansion of self-check-in
-- Growth in air logistics
-- Non-face-to-face services
+- 航空客运量恢复
+- 自助入住扩展
+- 航空物流增长
+- 非面对面服务
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Foreign air transport workers possible, but mostly filled by locals |
-| Subclass F-2 (F-2 (Residence)) | Long-term foreign residents only |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 中高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and fast at work
-- Proficient in multilingual communication
-- Highly interested in the aviation industry
+- 注重细节且工作速度快
+- 精通多语交流
+- 对航空业高度感兴趣
 
 **谁不适合**
-- Dislikes face-to-face service
-- Finds it difficult to adapt to shift work
+- 不喜欢面对面服务
+- 难以适应轮班工作
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of an air transport clerk?**
-答：Starting salary is about 25–32 million KRW, and can rise to 45–60 million KRW with experience.
+**问：空运文员的年薪是多少？**
+答：起薪约2500-3200万韩元，有经验后可升至4500-6000万韩元。
 
-**问：Can foreigners work as air transport clerks?**
-答：Theoretically possible with an E-7 visa, but practically difficult due to language barriers and preference for locals.
+**问：外国人可以担任航空运输职员吗？**
+答：理论上可能通过E-7签证，但实际上由于语言障碍和偏好本地人而困难。
 
 **问：晋升路径是什么？**
-答：After joining, through ticketing and boarding procedures, can advance to team leader or department head, or move to headquarters scheduling.
+答：入职后，通过售票和登机手续，可晋升为团队领导或部门主管，或调至总部调度。
 
 
 ---
@@ -143,12 +134,12 @@ Typically start as airline ground staff clerk, gain experience, then advance to 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 中高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/air-transportation-clerk/KR)**

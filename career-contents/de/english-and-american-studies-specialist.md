@@ -54,8 +54,6 @@ Professionals engaged in English language, literature, and cultural studies, typ
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core competencies of English and American studies specialists (literary criticism, cultural analysis) are less likely to be replaced by AI, but tasks such as language teaching, basic translation, and literature review will be highly automated, requiring roles to upgrade in both research depth and technical tool usage.
-
 Common path: work as a research assistant after a master's degree, become a lecturer or professor after a PhD. Some transition to publishing, translation, or cultural management. Promotion depends on research output and academic publications.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Common path: work as a research assistant after a master's degree, become a lect
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to work contracts with a German-recognized qualification, no annual salary threshold. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to seek employment; proof of funds required |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Yes, but annual salary must meet the Blue Card threshold (approx. €45,300 i
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/english-and-american-studies-specialist/DE)**

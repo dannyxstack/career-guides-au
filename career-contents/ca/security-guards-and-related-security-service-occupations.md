@@ -53,8 +53,6 @@ In Canada, security guards protect people and property, monitor security systems
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Security guards' core tasks of patrolling, monitoring, and reporting will be partially automated by AI, but emergency response, interpersonal conflict handling, and security decision-making requiring human judgment are enhanced by AI. Overall demand remains stable but entry requirements increase.
-
 Entry-level security guards (0-3 years) can advance to senior security or team leader, then move into asset protection manager or corporate security supervisor roles. Some obtain private investigator or police certification to broaden career paths.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Entry-level security guards (0-3 years) can advance to senior security or team l
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must hold provincial security license (requires training + criminal record ch
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/security-guards-and-related-security-service-occupations/CA)**

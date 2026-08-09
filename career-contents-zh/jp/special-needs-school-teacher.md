@@ -1,10 +1,8 @@
-# Special Needs School Teacher 职业分析 · 日本
+# 特殊学校教师（Special Needs School Teacher）职业分析 · 日本
 
-**职业代码: 196 (JSCO)**
+**职业代码：196 (JSCO)**
 
-Provides specialized instruction and support to students with disabilities based on individualized education plans.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+根据个性化教育计划，为残疾学生提供专业教学和支持。
 
 
 ---
@@ -13,8 +11,8 @@ Provides specialized instruction and support to students with disabilities based
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor's (Teacher Training Program) | 4年 | $2,500,000~$5,000,000（Approx. ¥2.5 million at national universities, ¥5 million at private universities） |
-| Teacher Training Course (Special Needs School Teacher License) | 1~2年 | $500,000~$1,500,000（Additional coursework via correspondence universities or graduate schools） |
+| 学士学位（教师培训项目） | 4年 | $2,500,000~$5,000,000（国立大学约250万日元，私立大学约500万日元） |
+| 教师培训课程（特殊学校教师资格证） | 1~2年 | $500,000~$1,500,000（通过函授大学或研究生院进行额外课程学习） |
 
 ---
 
@@ -22,18 +20,18 @@ Provides specialized instruction and support to students with disabilities based
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Special Needs School Teacher License | Prefectural Boards of Education | 必备 | Mandatory license; obtained in addition to a kindergarten/elementary/junior high/high school license |
-| Kindergarten, Elementary, Junior High, High School Teacher License | Prefectural Boards of Education | 必备 | Required as prerequisite for special needs school teacher license |
-| Teacher Recruitment Exam (Public Schools) | Prefectural Boards of Education | 必备 | Mandatory for public school employment |
+| 特殊需要学校教师执照 | 县级教育委员会 | 必备 | 强制性执照；在幼儿园/小学/初中/高中教师资格证书之外额外获得 |
+| 幼儿园、小学、初中、高中教师执照 | 县级教育委员会 | 必备 | 特殊学校教师执照的必备前提 |
+| 教师招聘考试（公立学校） | 县级教育委员会 | 必备 | 公立学校就业必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 75,000. Demand for special needs education is rising, with a serious teacher shortage. Stable demand expected for the next 10 years.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 75,000。特殊教育需求正在上升，教师严重短缺。未来10年需求稳定。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,92 +39,86 @@ Provides specialized instruction and support to students with disabilities based
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,500,000~$4,500,000 | Starting salary at public schools (varies by region) |
-| Mid Level (4–10 years) | $4,500,000~$6,000,000 | Increases stepwise with experience |
-| Senior Level (10+ years) | $6,000,000~$8,000,000 | Further increase possible with promotion to administrative positions |
+| 入门级（0–3年） | $3,500,000~$4,500,000 | 公立学校起薪（因地区而异） |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 随着经验逐步增加 |
+| 高级（10年以上） | $6,000,000~$8,000,000 | 晋升到行政岗位后可进一步增加 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI supports the creation of individualized education plans and teaching materials for special needs education, but interpersonal relationships and emotional understanding with students can only be handled by humans, leaving AI in a supplementary role.
+人工智能支持特殊教育中个性化教育计划和教学材料的创建，但与学生的人际关系和情感理解只能由人类处理，人工智能仅起辅助作用。
 
-After obtaining a teaching license, public school teachers pass recruitment exams and advance to vice-principal/principal roles or specialist positions like special needs coordinator.
+获得教师资格证后，公立学校教师通过招聘考试，晋升为副校长/校长或特殊需求协调员等专业岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Record Keeping
-- Data Analysis
-- Automatic Generation of Teaching Materials
+- 记录保存
+- 数据分析
+- 教学材料自动生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Developing Individualized Education Plans
-- Customization of Teaching Materials
-- Progress Management
+- 制定个性化教育计划
+- 定制化教学材料
+- 进度管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Empathy
-- Non-Verbal Communication
-- Flexible Responses Based on Disability Characteristics
+- 人际共情
+- 非语言沟通
+- 基于残疾特征的灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Assessment Techniques
-- Behavior Analysis
-- Specialized Knowledge of Special Needs Education
-- Parent Collaboration Skills
+- 评估技巧
+- 行为分析
+- 特殊教育专业知识
+- 家长协作技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Special Needs Education
-- Disability Support for Developmental Disorders
-- Inclusive Education
-- Individualized Education Plan (IEP)
+- 特殊需求教育
+- 发育障碍残疾支持
+- 包容性教育
+- 个别化教育计划（IEP）
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Available for foreigners to work as teachers at educational institutions in Japan, but Japanese language proficiency is required. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong interest in special needs education
-- Patient and flexible individuals
-- Team players
+- 对特殊教育有浓厚兴趣的人
+- 耐心灵活的人
+- 团队合作者
 
 **谁不适合**
-- Those who prefer routine tasks
-- Those who dislike change
+- 偏爱常规任务者
+- 不喜欢变化的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a special needs school teacher?**
-答：Depending on experience and region, starting salary at public schools is about 3.5-4.5 million yen, with experienced teachers earning 6-8 million yen.
+**问：特殊需求学校教师的平均薪资是多少？**
+答：根据经验和地区，公立学校起薪约350-450万日元，有经验教师为600-800万日元。
 
-**问：Can foreigners become special needs school teachers?**
-答：A Japanese teaching license is required, and advanced Japanese skills are needed, making it a difficult immigration route.
+**问：外国人能否成为特殊教育学校教师？**
+答：需要日语教学执照，且要求高级日语能力，是一条困难的移民路径。
 
-**问：What educational background is needed to become a special needs school teacher?**
-答：Complete a teacher training course at a 4-year university and obtain a special needs school teaching license. Then, for public schools, pass the recruitment exam.
+**问：成为特殊教育学校老师需要什么教育背景？**
+答：在四年制大学完成教师培训课程并获得特殊教育学校教师资格证。然后，公立学校需通过招聘考试。
 
 
 ---
@@ -144,12 +136,12 @@ After obtaining a teaching license, public school teachers pass recruitment exam
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/special-needs-school-teacher/JP)**

@@ -4,8 +4,6 @@
 
 Responsible for distributing documents, parcels, or promotional materials to customers by route or location, commonly found in courier companies, logistics centers, or administrative logistics departments.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for distributing documents, parcels, or promotional materials to cus
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Courier delivery drivers face automation pressure but won't be fully replaced in the short term; AI mainly assists with route planning, customer communication, and document processing, while driving and manual handover remain core.
-
 Distributors can be promoted from grassroots distributors to team supervisors, delivery dispatchers, or logistics coordinators. Needs to accumulate route management experience or obtain relevant driving qualifications.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Distributors can be promoted from grassroots distributors to team supervisors, d
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | This applies to foreigners who have already obtained a work contract with a French employer, and must prove that the position cannot be filled by a local resident. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Seeker Visa)) | You are allowed to find work in France, valid for one year, and can convert to a work visa after finding a job. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: You can be promoted to distribution team supervisor, logistics dispatcher, or
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/document-distribution-worker/FR)**

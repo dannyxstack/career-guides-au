@@ -52,8 +52,6 @@ Corporate sales managers are responsible for developing sales strategies, managi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of pharmaceutical sales representatives (client relationships, negotiation, strategic planning) are enhanced by AI, not replaced. Automation mainly reduces administrative tasks, but sales rely on interpersonal trust; AI serves as an auxiliary tool to improve efficiency and insight.
-
 Typically start as a sales representative or account manager, advancing to regional sales manager, national sales director, or vice president. An MBA or relevant certification can accelerate career progression.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as a sales representative or account manager, advancing to regio
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs such as Ontario and BC have demand for sales managers |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, suitable for applicants with a job offer |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Generally requires a bachelor's degree in business or a related field; an MBA
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/corporate-sales-managers/CA)**

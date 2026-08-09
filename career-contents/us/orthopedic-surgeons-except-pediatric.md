@@ -56,8 +56,6 @@ Orthopedic surgeons diagnose and surgically treat diseases and injuries of the m
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core surgical operations of orthopedic surgeons are difficult to replace by AI, but AI significantly enhances capabilities in imaging diagnosis, surgical planning, and postoperative monitoring, while entry-level repetitive tasks (e.g., residency) may be reduced.
-
 Typically starts after completing residency training; can advance to attending surgeon, department head; or enter academia as a professor. Some doctors open private practices or specialize in subspecialties (e.g., joint replacement, spinal surgery).
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Typically starts after completing residency training; can advance to attending s
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to doctors with outstanding achievements in orthopedics, such as publishing numerous papers or receiving awards; no quota limits |
 | Subclass EB-2 NIW (EB-2 National Interest Waiver) | Those working in remote area medical services may apply for a National Interest Waiver, no labor certification required, green card pathway. |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Typically takes 13-15 years: 4 years undergraduate + 4 years medical school +
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthopedic-surgeons-except-pediatric/US)**

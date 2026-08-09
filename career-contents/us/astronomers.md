@@ -53,8 +53,6 @@ Astronomers observe, research, and interpret astronomical phenomena to increase 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly amplify astronomers' capabilities, especially in data processing, simulation, and observation automation, but core research decisions and theoretical innovations still rely on humans, with overall low risk.
-
 Astronomers typically start as postdoctoral researchers, then advance to assistant professor, associate professor, full professor, or become project scientists at large observatories. A minority transition to data science or the aerospace industry.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Astronomers typically start as postdoctoral researchers, then advance to assista
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | National Interest Waiver (NIW) is common, requiring advanced degree or exceptional ability. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For exceptional astronomers, requiring international recognition |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Very difficult. Few positions often rely on government funding, employer spon
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/astronomers/US)**

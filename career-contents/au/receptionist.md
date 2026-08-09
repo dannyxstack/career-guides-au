@@ -51,8 +51,6 @@ A receptionist handles visitor welcome, phone calls, appointment scheduling, and
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI voice assistants and automation systems will replace most front desk phone answering, appointment scheduling, and visitor registration tasks. Traditional entry-level receptionist positions will shrink significantly, but a few remaining roles will need to combine administrative and technical support skills.
-
 Can progress into administration, office management or customer service roles.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Can progress into administration, office management or customer service roles.
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -142,12 +138,13 @@ A: No, this is not a skilled migration occupation.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/receptionist/AU)**

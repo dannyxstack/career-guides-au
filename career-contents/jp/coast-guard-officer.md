@@ -4,8 +4,6 @@
 
 A national public officer responsible for guarding Japan's territorial waters, cracking down on smuggling and illegal immigration, conducting maritime rescue, protecting the marine environment, and ensuring maritime traffic safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ A national public officer responsible for guarding Japan's territorial waters, c
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation complement and enhance coast guard operations. Automated detection of suspicious vessels using surveillance cameras, drones, and AI image analysis, as well as the use of unmanned vehicles in rescue operations, are advancing, but on-site judgment and human response remain essential.
-
 After attending the Coast Guard School (general or specialized courses) or the Coast Guard Academy, officers are assigned to patrol vessel crews or land-based duties. With experience, they can advance to management positions such as Security and Rescue Supervisor Director or specialist roles.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ After attending the Coast Guard School (general or specialized courses) or the C
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For foreigners with advanced skills or knowledge. As Japan Coast Guard officers are national public servants, this visa generally does not apply. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Japan Coast Guard officer is not included in eligible occupations. |
-| Subclass 高度専門職 (Highly Skilled Professional) | For foreigners engaged in advanced academic or technical activities. Depending on duties, may apply in theory but is not realistic. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -150,12 +138,12 @@ A: After graduating from the Coast Guard School or the Coast Guard Academy, you 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coast-guard-officer/JP)**

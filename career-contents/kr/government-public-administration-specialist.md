@@ -4,8 +4,6 @@
 
 A specialist responsible for overall public sector administration including policy planning, budget formulation, and law enforcement at the national and local government levels, contributing to citizen services and public interest.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist responsible for overall public sector administration including poli
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI replaces simple repetitive tasks like document processing, data entry, and complaint classification, but high-level judgment such as policy decisions, legal interpretation, and stakeholder coordination remains a human role. Recruitment scale will decrease slightly, but expertise will be more demanded.
-
 Starting as a general administrative officer, promoted to team leader in 5–7 years, section chief in 10–15 years, and then to director/general director, specializing in policy planning, budget, or audit.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Starting as a general administrative officer, promoted to team leader in 5–7 y
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeted at professionals in public administration (policy researchers, international organization delegates, etc.); requires Korean associate degree or higher and experience |
-| Subclass F-2 (Residence) | A step before permanent residency; no employment restrictions after 5+ years of stay and meeting income requirements |
-| Subclass F-5 (Permanent Residence) | Permanent residents can work in public administration, but appointment as general civil servants is limited |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: Yes, it is possible. You can enter through the 7th or 9th grade open recruitm
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-public-administration-specialist/KR)**

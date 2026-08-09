@@ -50,8 +50,6 @@ Directly supervise and coordinate the work of material handling machinery and ve
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Warehouse supervisor role has mixed prospects: AI optimizes route planning and inventory management to boost efficiency, but data entry, monitoring, etc., are automated, shifting the role toward strategic coordination.
-
 Progress from operator to supervisor, then to logistics manager or operations director. Requires hands-on experience and leadership; some large companies offer management training programs. Safety certifications or an operations management degree help with advancement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Progress from operator to supervisor, then to logistics manager or operations di
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Apply through PERM labor certification, proving no US workers are available, applicable to managerial roles. |
 | Subclass L-1 (L-1 Intracompany Transferee Visa) | Management or specialist staff transferred within multinational companies, suitable for large logistics enterprises. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically only requires a high school diploma, but an associate's or bachelor
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-materialmoving-machine-and-vehicle-operators/US)**

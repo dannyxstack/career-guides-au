@@ -51,8 +51,6 @@ New Zealand's animation and gaming industry is small, but skilled migration is p
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Animators/game designers face mixed prospects: AI can efficiently generate drafts, basic animations, and procedural content, but creative decision-making, artistic style control, and complex narrative design remain human moats; industry entry barriers will slightly rise due to automation.
-
 Start as junior animator/game tester, build portfolio to advance to senior animator/system designer, or transition to technical artist (TA), art director, etc. In New Zealand, industry connections and branded studio experience are crucial; some eventually form small studios or freelance.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as junior animator/game tester, build portfolio to advance to senior anima
 | Subclass SMC (Skilled Migrant Category) | Points-based skilled migration, needs to meet 6-point system requirements (education + work experience + NZ job offer, etc.); current selection score threshold is high |
 | Subclass AEWV (Accredited Employer Work Visa) | Employed by an approved employer, salary must meet median or industry standard, maximum stay of 3 years; common pathway to gain experience and transition to residency. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Overall industry small (about 1,200 people), but competition for senior posit
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animator/NZ)**

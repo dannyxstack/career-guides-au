@@ -53,8 +53,6 @@ Truck drivers in New Zealand drive heavy vehicles (Class 2–5) for urban delive
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The truck driver profession is both positively and negatively affected by AI automation: autonomous driving threatens long-haul transport, but urban delivery, complex loading/unloading, and customer service are enhanced by AI; short-term shortages persist but entry barriers may rise.
-
 Entry-level drivers can progressively upgrade licenses (Class 2→4→5), gain experience, then enter specialized fields (e.g., dangerous goods, refrigerated transport, heavy towing). Some drivers advance to fleet supervisor, dispatcher, or self-employed operating small fleets.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level drivers can progressively upgrade licenses (Class 2→4→5), gain e
 | Subclass AEWV (Accredited Employer Work Visa (AEWV)) | Obtain temporary work visa via accredited employer, then transition to residence pathway. |
 | Subclass SMC (Skilled Migrant Category (SMC)) | Meeting the 6-point system requirements (e.g., qualifications + experience) allows application, but the Green List is faster. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Upgrade license (Class 2→5), transition to specialized transport like hazar
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/truck-driver-general/NZ)**

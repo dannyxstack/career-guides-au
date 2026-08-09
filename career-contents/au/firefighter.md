@@ -58,8 +58,6 @@ Firefighters are responsible for extinguishing fires, emergency rescue, medical 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Australia's fire services face the dual challenges of urbanisation and climate change: increased fire risk in high-rise urban buildings and longer bushfire seasons. State fire agencies continue to expand their workforce and provide firefighters with comprehensive training, including medical first aid, water rescue, and HAZMAT. Firefighting is a very stable career with strong union protections and excellent benefits as a public sector position.
 
 **Tasks most exposed to AI:**
@@ -114,8 +112,6 @@ Australia's fire services face the dual challenges of urbanisation and climate c
 | Subclass 189/190 (Apply after skilled migration) | It is advisable to obtain PR before applying for positions with a government fire service |
 
 **PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
 
 ---
 
@@ -178,11 +174,12 @@ A: Salaries are comparable (fire: $70k–$90k vs police: $55k–$75k entry-level
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter/AU)**

@@ -53,8 +53,6 @@ Responsible for designing, implementing, and optimizing the industrial quality m
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial quality management and engineering professions face dual impacts in the AI era: standardized quality inspection and data monitoring tasks are easily automated, but complex problem diagnosis, system optimization, and cross-departmental coordination still require human judgment, presenting both opportunities and challenges.
-
 You can advance from quality technician to quality engineer, quality manager, then to quality director or Six Sigma Black Belt. It can also be shifted to supply chain management or process engineering.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from quality technician to quality engineer, quality manager, th
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue européen (EU Blue Card) | Suitable for high-skilled positions with an annual salary exceeding 53,000 euros (2024 standard), with a fast track |
-| Subclass Passeport Talent (Talent Passport) | For highly educated/highly skilled talents, there is no salary threshold, and the validity period is 4 years |
-| Subclass Salarié (Salaried Employee) | For employed work residence, employer sponsorship is required, and the residence can be converted to long-term residence |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Yes, especially in industrial automation, aviation, and medical devices. The 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-quality-management-and-engineering/FR)**

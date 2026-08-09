@@ -1,10 +1,8 @@
-# Philosophy Researcher 职业分析 · 韩国
+# 哲学研究员（Philosophy Researcher）职业分析 · 韩国
 
-**职业代码: 11011 (KECO)**
+**职业代码：11011 (KECO)**
 
-A professional research position that explores fundamental issues such as human existence, values, and knowledge by studying philosophical theories and ideas.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过研究哲学理论和思想，探讨人类存在、价值观和知识等基本问题的专业研究职位。
 
 
 ---
@@ -13,9 +11,9 @@ A professional research position that explores fundamental issues such as human 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree (Philosophy major) | 4年 | $25,000,000~$50,000,000（Based on national universities; private universities up to 2 times the cost） |
-| Master's degree (Philosophy) | 2 年 | $20,000,000~$40,000,000（Based on national universities; scholarships available） |
-| Doctoral degree (Philosophy) | 4年 | $40,000,000~$80,000,000（Full scholarships common） |
+| 学士学位（哲学专业） | 4年 | $25,000,000~$50,000,000（以国立大学为基准；私立大学高达2倍费用） |
+| 硕士（哲学） | 2 年 | $20,000,000~$40,000,000（按国立大学标准；提供奖学金） |
+| 博士学位（哲学） | 4年 | $40,000,000~$80,000,000（常见全额奖学金） |
 
 ---
 
@@ -23,17 +21,17 @@ A professional research position that explores fundamental issues such as human 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Doctoral degree | 大学 | 必备 | Essential for research job placement |
-| Research paper achievements | Academic society | 可选 | Publication in KCI-listed journals recommended |
+| 博士学位 | 大学 | 必备 | 对研究岗位求职至关重要 |
+| 研究成果 | 学术团体 | 可选 | 建议在KCI收录期刊上发表 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★☆☆☆☆）.** 全国从业人数约 1,200. In Korea, the employment outlook for philosophy researchers is stable. Tenure-track positions in academia and research institutes are decreasing, and generally only a select few top talents are recruited.
+**职位需求量：较低（★☆☆☆☆）** 全国从业人数约 1,200。在韩国，哲学研究人员的就业前景稳定。学术界和研究机构的终身职位正在减少，通常只招聘少数顶尖人才。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,93 +39,86 @@ A professional research position that explores fundamental issues such as human 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$35,000,000 | Based on contract positions at research institutes |
-| Mid-level (4-9 years) | $35,000,000~$50,000,000 | Professor or regular researcher |
-| Senior (10 years or more) | $50,000,000~$80,000,000 | Full professor or higher |
+| 入门级（0-3年） | $25,000,000~$35,000,000 | 基于合同职位在研究机构 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 教授或常任研究员 |
+| 高级（10年及以上） | $50,000,000~$80,000,000 | 正教授及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Although it is difficult for AI to completely replace philosophical research, AI tools improve research efficiency in areas such as paper search, text analysis, and machine translation, so researchers will change to actively utilize AI.
+虽然AI难以完全取代哲学研究，但AI工具在论文搜索、文本分析和机器翻译等方面提高了研究效率，因此研究人员将转向积极利用AI。
 
-After obtaining a master's or doctoral degree, one advances to become a university professor, a researcher at a research institute, or a researcher at a government or corporate research center. Research achievements and publication of papers in English are important for promotion.
+获得硕士或博士学位后，晋升为大学教授、研究所研究员或政府/企业研究中心研究员。研究成果和英文论文发表对晋升很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Data Organization
-- Compilation of Bibliographies
-- Simple Statistical Analysis
+- 基础数据整理
+- 书目编纂
+- 简单统计分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Assistance in Paper Writing
-- Translation of Philosophical Texts
-- Analysis of Conceptual Relationships
+- 论文写作辅助
+- 哲学文本翻译
+- 概念关系分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Contemplation
-- Ethical Judgment
-- In-depth Interpretation
-- Education and Mentoring
+- 创意沉思
+- 道德判断
+- 深度解读
+- 教育与指导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI Literacy
-- Basic Data Analysis
-- Utilization of Digital Humanities Tools
+- AI素养
+- 基础数据分析
+- 数字人文工具的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Interdisciplinary Humanities Research
-- Digital Humanities
-- Ethics and AI Philosophy
-- Korean Philosophy
+- 跨学科人文研究
+- 数字人文
+- 伦理与AI哲学
+- 韩国哲学
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when employed as a researcher at a research institute or university |
-| Subclass E-1 (Professor) | Possible when invited as a university professor |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent philosophical thinking and logical skills
-- People who can immerse themselves in long-term reading and research
-- People who enjoy intellectual exploration rather than social recognition
+- 哲学思维和逻辑能力出色的人
+- 能沉浸于长期阅读和研究的人
+- 喜欢智力探索而非社会认可的人
 
 **谁不适合**
-- People who want practical and highly profitable jobs
-- People who prefer environments requiring short-term results
+- 追求实用且高利润工作的人
+- 喜欢需要短期成果环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for philosophy researchers?**
-答：Entry-level research positions have an annual pre-tax salary of 25-35 million KRW, while full professors can earn up to 50-80 million KRW, but the average is low.
+**问：哲学研究员的薪资水平是多少？**
+答：初级研究职位年薪税前2500-3500万韩元，正教授可达5000-8000万韩元，但平均薪资较低。
 
-**问：Can foreigners work as philosophy researchers?**
-答：Possible but very limited. They can work as researchers at research institutes or universities via an E-7 visa, and Korean language proficiency and a doctoral degree are required.
+**问：外国人可以担任哲学研究员吗？**
+答：可能但非常有限。他们可以通过E-7签证在研究机构或大学担任研究员，需要韩语能力和博士学位。
 
-**问：What is the career path as a philosophy researcher?**
-答：After obtaining a master's or doctoral degree, one advances to a university professor or a researcher at a government-funded research institute, where research performance and networking are important.
+**问：作为哲学研究员，职业道路是什么？**
+答：获得硕士或博士学位后，晋升为大学教授或政府资助研究所的研究员，研究业绩和人脉很重要。
 
 
 ---
@@ -145,12 +136,12 @@ After obtaining a master's or doctoral degree, one advances to become a universi
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/philosophy-researcher/KR)**

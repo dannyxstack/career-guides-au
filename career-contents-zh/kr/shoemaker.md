@@ -1,8 +1,8 @@
-# Shoemaker 职业分析 · 韩国
+# 制鞋工（Shoemaker）职业分析 · 韩国
 
-**职业代码: 86411 (KECO)**
+**职业代码：86411 (KECO)**
 
-A craftsman who repairs and manufactures shoes using leather or synthetic materials, working in small workshops or large factories.
+使用皮革或合成材料修理和制作鞋子的工匠，在小作坊或大工厂工作。
 
 
 ---
@@ -11,8 +11,8 @@ A craftsman who repairs and manufactures shoes using leather or synthetic materi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| On-the-job training after high school graduation | 2–3 years | $500,000~$3,000,000（Private academy fees and material costs） |
-| Shoe-making department at a junior college | 2 年 | $4,000,000~$8,000,000（Tuition and practice fees） |
+| 高中毕业后在职培训 | 2–3年 | $500,000~$3,000,000（私立学校学费及材料费） |
+| 专科学校的制鞋系 | 2 年 | $4,000,000~$8,000,000（学费和实习费） |
 
 ---
 
@@ -20,17 +20,17 @@ A craftsman who repairs and manufactures shoes using leather or synthetic materi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Shoe Manufacturing Craftsman (Jewhwa Gineungsa) | Human Resources Development Service of Korea (HRDK) | 可选 | National technical qualification, not mandatory |
-| Shoe Manufacturing Technician (Sinbalryu Jejo Gineungsa) | Human Resources Development Service of Korea (HRDK) | 可选 | Optional qualification |
+| 制鞋工匠（Jewhwa Gineungsa） | 韩国人力资源开发服务局（HRDK） | 可选 | 国家技术资格，非强制 |
+| 制鞋技师（신발류 제조 기능사） | 韩国人力资源开发服务局（HRDK） | 可选 | 可选资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 25,000. Due to increased shoe imports and changing consumption patterns, shoemaker jobs are declining; demand for high-end repairs remains, but mass production positions are expected to decrease.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 25,000。由于鞋类进口增加和消费模式变化，制鞋工岗位正在减少；高端维修需求仍在，但大规模生产岗位预计减少。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,90 +38,83 @@ A craftsman who repairs and manufactures shoes using leather or synthetic materi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $22,000,000~$25,000,000 | Based on workshops and small businesses |
-| Intermediate (4–7 years) | $26,000,000~$32,000,000 | Varies by skill level |
-| Senior (8 years or more) | $33,000,000~$45,000,000 | High variability if including self-employment income |
+| 初级（0-3年） | $22,000,000~$25,000,000 | 基于车间和小企业 |
+| 中级（4-7年） | $26,000,000~$32,000,000 | 因技能水平而异 |
+| 高级（8年及以上） | $33,000,000~$45,000,000 | 若包含自雇收入，则变化较大 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Shoemaking is a field with low direct risk of replacement by AI and automation, though some mass production processes are being automated. In high-end custom and repair areas, human craftsmanship and experience remain crucial, limiting AI's impact.
+制鞋业被人工智能和自动化直接替代的风险较低，尽管一些大规模生产过程正在自动化。在高定和维修领域，手工技艺和经验仍然至关重要，限制了人工智能的影响。
 
-Skilled workers can grow to run workshops, but small self-employment is common; entry into large corporations is rare.
+技能工人可以成长为经营车间，但小型自雇常见；进入大公司罕见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Mass Production Line Assembly
-- Simple Cutting Work
+- 大批量生产流水线装配
+- 简单切割工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Custom Design Support
-- Material Cutting Optimization
+- 定制设计支持
+- 材料切割优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual Dexterity and Keen Senses
-- Customized Customer Experience
-- Repair Know-How
+- 手工灵巧与敏锐感官
+- 定制化客户体验
+- 维修知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Leather Crafting
-- Design Sense
-- Customer Consultation
+- 皮革工艺
+- 设计感
+- 客户咨询
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Advanced Repair
-- Master Shoemaker of Custom Shoes
-- Demand from the Elderly
-- Launching a Workshop
+- 高级维修
+- 定制鞋大师级鞋匠
+- 来自老年人的需求
+- 开办工作坊
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers in manufacturing, possible in shoe factories. |
-| Subclass E-7 (E-7 (Specific Activities)) | Requires employer recommendation; target: skilled shoemakers. |
-| Subclass F-2 (Residence) | Convertible to points system; for long-term residents. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity
-- Meticulous and patient people
-- People interested in self-employment
+- 具有手工灵巧度的人
+- 细心且有耐心的人
+- 对自雇感兴趣的人
 
 **谁不适合**
-- People who dislike mass production lines
-- People seeking stable employment
+- 不喜欢生产线的人
+- 寻求稳定就业的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of a shoemaker?**
-答：Entry-level: 22 to 25 million KRW per year, varying by company size.
+**问：鞋匠的起薪是多少？**
+答：入门级：每年2200万至2500万韩元，视公司规模而定。
 
-**问：Can foreigners work as shoemakers?**
-答：E-9 visa allows unskilled work; E-7 visa issued to skilled workers.
+**问：外国人可以成为鞋匠吗？**
+答：E-9签证允许非技术工作；E-7签证发给技术工人。
 
-**问：What is the future outlook for shoemakers?**
-答：Automation risk is low, but jobs are declining due to reduced demand; specialization in master craftsmanship or high-end repairs is needed.
+**问：鞋匠的未来前景如何？**
+答：自动化风险低，但由于需求减少，岗位正在减少；需要专精于大师级工艺或高端维修。
 
 
 ---
@@ -139,12 +132,12 @@ Skilled workers can grow to run workshops, but small self-employment is common; 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/shoemaker/KR)**

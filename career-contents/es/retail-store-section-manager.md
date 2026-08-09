@@ -50,8 +50,6 @@ Responsible for daily operations management of specific departments within retai
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Retail supervisor roles face mixed prospects: AI will optimize inventory, scheduling, and data analysis, but interpersonal coordination, on-site management, and team motivation remain core; entry-level roles may be compressed.
-
 From department head, you can be promoted to deputy store manager, store manager, or regional manager, and can also move to positions such as product procurement or supply chain management. Some people accumulate experience and start their own retail stores.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ From department head, you can be promoted to deputy store manager, store manager
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees (Cuenta Ajena)) | For employer-sponsored work residence, it must be shown that suitable candidates cannot be found locally or in the EU. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | This applies to highly educated or highly skilled talents, with an annual salary above a certain threshold (about 40,000 euros). |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires higher education and a high salary (usually around 33,000 euros per year), and allows family members. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: They can be promoted to deputy store manager, store manager, or even regional
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/retail-store-section-manager/ES)**

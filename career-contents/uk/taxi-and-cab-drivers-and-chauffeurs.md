@@ -54,8 +54,6 @@ Drive taxis, private cars, or fleet vehicles to provide passenger services for t
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Taxi and ride-share driver occupation faces very high automation risk; autonomous driving technology will significantly replace driving tasks, entry-level positions will shrink, but regulatory and safety factors will delay full replacement in the short term.
-
 Can progress from driver to fleet supervisor, self-employed taxi license holder, or establish a small transport company; some drivers switch to luxury chauffeuring or business shuttle services to increase income.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from driver to fleet supervisor, self-employed taxi license holder,
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to fleet supervisor, purchase taxi license to operate independent
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/taxi-and-cab-drivers-and-chauffeurs/UK)**

@@ -53,8 +53,6 @@ Manually or using machines to package, wrap, fill, label, and seal products, com
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Packaging, bottling, canning, and filling work is highly repetitive; AI and automation will significantly reduce job numbers, low-skilled workers face replacement risk.
-
 Can be promoted from junior packer to line supervisor or quality inspector; those skilled in machine operation can transition to technical maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can be promoted from junior packer to line supervisor or quality inspector; thos
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult. The salary for this occupation is typically below the Skilled
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packers-bottlers-canners-and-fillers/UK)**

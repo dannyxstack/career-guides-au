@@ -1,8 +1,8 @@
-# Astronomer/Meteorologist 职业分析 · 韩国
+# 天文学家/气象学家（Astronomer/Meteorologist）职业分析 · 韩国
 
-**职业代码: 12116 (KECO)**
+**职业代码：12116 (KECO)**
 
-Professionals who study and predict celestial and meteorological phenomena, analyzing climate change and space environments based on scientific understanding of the universe and Earth's atmosphere.
+研究和预测天体与气象现象的专业人士，基于对宇宙和地球大气的科学理解分析气候变化和空间环境。
 
 
 ---
@@ -11,9 +11,9 @@ Professionals who study and predict celestial and meteorological phenomena, anal
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor of Science (Astronomy/Meteorology) | 4年 | $4,000,000~$6,000,000（Based on tuition fees, public university standard） |
-| Master of Science (Astronomy/Meteorology) | 2 年 | $3,000,000~$5,000,000（Based on graduate school tuition fees, research funding available） |
-| Doctor of Philosophy (Astronomy/Meteorology) | 3年 | $3,000,000~$5,000,000（Based on graduate school tuition fees, research funding available） |
+| 理学学士（天文学/气象学） | 4年 | $4,000,000~$6,000,000（基于公立大学标准学费） |
+| 理学硕士（天文学/气象学） | 2 年 | $3,000,000~$5,000,000（基于研究生学费，有研究经费） |
+| 哲学博士（天文学/气象学） | 3年 | $3,000,000~$5,000,000（基于研究生学费，有研究经费） |
 
 ---
 
@@ -21,17 +21,17 @@ Professionals who study and predict celestial and meteorological phenomena, anal
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Meteorological Engineer | Human Resources Development Service of Korea | 可选 | Helpful for performing meteorological tasks |
-| Astronomical and Space Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for astronomical tasks |
+| 气象工程师 | 韩国人力资源开发服务局 | 可选 | 有助于执行气象任务 |
+| 天文与空间工程师 | 韩国人力资源开发服务局 | 可选 | 对天文任务有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 2,500. Employment is expected to increase slightly due to growing demand for climate change response and space development, but jobs are limited primarily to government research institutes.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 2,500。由于对气候变化应对和太空开发的需求增长，就业预计略有增加，但岗位主要限于政府研究机构。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,91 +39,85 @@ Professionals who study and predict celestial and meteorological phenomena, anal
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $35,000,000~$45,000,000 | Public research institute standard |
-| Mid-level (4-10 years) | $50,000,000~$70,000,000 | University research institutes and private companies |
-| Senior (11+ years) | $70,000,000~$99,999,999 | Principal researcher level |
+| 初级 (0-3年) | $35,000,000~$45,000,000 | 公共研究机构标准 |
+| 中级（4-10年） | $50,000,000~$70,000,000 | 大学研究机构和私营企业 |
+| 高级（11年以上） | $70,000,000~$99,999,999 | 首席研究员级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and machine learning have greatly enhanced weather forecasting and space data analysis, but researchers' interpretation and development of new theories remain human tasks. Simple data processing can be replaced by AI, but overall research jobs will not disappear.
+人工智能和机器学习极大地增强了天气预报和空间数据分析，但研究人员的解读和新理论发展仍是人类任务。简单数据处理可由AI替代，但整体研究工作不会消失。
 
-After obtaining a master's or doctoral degree, start as a researcher at a research institute or university, and can advance to a principal researcher or research team leader with experience. Some become university professors or weather agency specialists.
+获得硕士或博士学位后，在研究所或大学担任研究员，凭借经验可晋升至首席研究员或研究团队负责人。有些成为大学教授或气象机构专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Weather data preprocessing
-- Astronomical observation image classification
+- 天气数据预处理
+- 天文观测图像分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Climate modeling
-- Weather forecasting systems
-- Space data analysis
+- 气候建模
+- 天气预报系统
+- 空间数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Establishing new theories
-- Designing research hypotheses
+- 建立新理论
+- 设计研究假设
 - 跨学科协作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning
-- Deep learning
-- Statistical analysis
-- Programming (Python, R)
+- 机器学习
+- 深度学习
+- 统计分析
+- 编程（Python、R）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Climate change
-- Space weather
-- Satellite applications
-- Big data analysis
+- 气候变化
+- 太空天气
+- 卫星应用
+- 大数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for employment as a professional researcher; relevant degree and experience required |
-| Subclass D-10 (Job Seeking) | Available for job seeking after degree |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong scientific curiosity
-- People with patience for long-term research
-- People proficient in data analysis
+- 具有强烈科学好奇心的人
+- 有耐心进行长期研究者
+- 精通数据分析的人
 
 **谁不适合**
-- People who want quick results
-- People who prefer interpersonal activities
+- 追求快速结果的人
+- 偏好人际活动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary of an astronomy/meteorology researcher?**
-答：For a master's degree, about 35-45 million won at national/public research institutes; for a doctorate, starting at over 45 million won.
+**问：天文/气象研究员的起薪是多少？**
+答：硕士学历在国家/公共研究机构约3500万至4500万韩元；博士学历起薪超过4500万韩元。
 
-**问：Can a foreigner get a job in Korea in this occupation?**
-答：Possible with an E-7 visa, requiring a relevant degree (master's or higher) and research experience. Limited hiring at government research institutes or university labs.
+**问：外国人能否在韩国从事此职业？**
+答：持E-7签证可行，要求相关学位（硕士或以上）和研究经验。政府研究机构或大学实验室招聘有限。
 
-**问：How can a researcher become a professor?**
-答：After earning a doctoral degree, build a career as a postdoctoral researcher or research professor, then apply for a university faculty position. Research achievements and publications are crucial.
+**问：研究员如何成为教授？**
+答：获得博士学位后，从事博士后或研究教授职业，再申请大学教职。研究成果和发表至关重要。
 
 
 ---
@@ -141,12 +135,12 @@ After obtaining a master's or doctoral degree, start as a researcher at a resear
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/astronomer-meteorologist/KR)**

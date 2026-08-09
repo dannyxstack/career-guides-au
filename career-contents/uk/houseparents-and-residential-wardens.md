@@ -53,8 +53,6 @@ Responsible for caring for and supervising children, adolescents, or elderly in 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core care duties of accommodation managers and live-in guardians are hard to fully replace by AI, but tasks like administration, monitoring, and basic reporting will be automated, potentially reducing the number of positions and shifting work toward higher emotional engagement and supervisory roles.
-
 Can advance from assistant accommodation manager to senior accommodation manager or manager, with some moving to more specialized social work or care management roles.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from assistant accommodation manager to senior accommodation manager
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can be promoted from assistant to senior accommodation administrator or accom
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/houseparents-and-residential-wardens/UK)**

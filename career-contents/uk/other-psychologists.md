@@ -53,8 +53,6 @@ Psychologists study emotional, cognitive, and behavioral processes and abnormali
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Professions like clinical psychologist and psychotherapist face mixed AI impact: routine assessment and data processing can be automated, but complex treatment decisions and human-centered care remain human domain
-
 Junior psychologists can gain experience at the NHS or charities, gradually specializing in clinical, educational, or occupational psychology, eventually becoming senior consultants or independent practitioners.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior psychologists can gain experience at the NHS or charities, gradually spec
 | Subclass Health & Care (Health and Care Worker visa) | Applicable to NHS or social care employer sponsorship, with priority processing and lower visa fees |
 | Subclass Global Talent (Global Talent visa) | Applicable to internationally recognized researchers, requires endorsement by UK Research and Innovation |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must have a BPS-accredited degree and HCPC registration. Clinical psychologis
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-psychologists/UK)**

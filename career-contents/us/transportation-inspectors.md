@@ -53,8 +53,6 @@ Transportation inspectors examine cargo or equipment for safe transport, includi
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The impact of AI automation on transport inspector jobs is mixed: standardized document review and record checking may be taken over by AI, but tasks involving physical safety inspections and on-site judgment still rely on human experience; AI enhancement tools can improve efficiency, but legal liability transfer is limited.
-
 Career progression typically goes from junior inspector to senior inspector or supervisor, with possible moves into safety management, compliance auditing, or transport planning roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression typically goes from junior inspector to senior inspector or s
 | Subclass EB-3 (EB-3 Skilled Workers/Professionals) | Requires PERM labor certification, but transport inspectors usually do not meet skill requirements, making employer sponsorship difficult. |
 | Subclass L-1 (L-1 Intracompany Transferee) | Limited to intra-company transfers, not common |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from junior inspector to senior inspector, supervisor, or transi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-inspectors/US)**

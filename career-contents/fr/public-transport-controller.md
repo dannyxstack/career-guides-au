@@ -4,8 +4,6 @@
 
 Responsible for monitoring the operation of public transportation networks (such as buses, subways, trams), ensuring punctual vehicle runs, handling emergencies (such as faults and accidents), and coordinating dispatch and communication with drivers.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for monitoring the operation of public transportation networks (such
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Public transport controllers face the risk of moderate automation. AI can provide powerful assistance in anomaly detection and scheduling optimization, but real-time decision-making and multi-party coordination still require human judgment, intensifying competition for entry-level positions and leaving room for upgrades.
-
 Starting as a dispatch assistant or station operator, you can gain experience and be promoted to control center controller. Further development can include roles such as Operations Supervisor, Network Planning Manager, or shifting to security management, project management, and related directions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Starting as a dispatch assistant or station operator, you can gain experience an
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Employed by French public transport companies (such as RATP, SNCF) requires employer sponsorship, usually requires a B2 French language level and professional qualifications. |
-| Subclass Recherche emploi (Recherche d'emploi (Job Search)) | After completing French degree (e.g. BTS), can apply for 1-year job-seeking visa, then switch to Salarié residence permit after finding a job. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +136,12 @@ A: Employer sponsorship is required (Salarié residency), and it is recommended 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/public-transport-controller/FR)**

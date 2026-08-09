@@ -4,8 +4,6 @@
 
 Prepares and packages menu items (burgers, fries, drinks) and serves customers at fast food restaurants
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Prepares and packages menu items (burgers, fries, drinks) and serves customers a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-While AI and automation are replacing simple cooking and serving tasks through order/payment kiosks and frying robots, human interaction and unstructured work are still needed, so full replacement will take time
-
 Can advance to store manager with experience; high turnover as most work is simple labor; often starts as part-time job
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Can advance to store manager with experience; high turnover as most work is simp
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Eligible for low-skilled foreign workers under Employment Permit System |
-| Subclass H-2 (H-2 (Working Visit)) | Allowed for overseas Koreans, can work at fast-food restaurants |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +130,12 @@ A: Possible with E-9 (Non-professional Employment) or H-2 (Working Visit) visas,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-prep-worker/KR)**

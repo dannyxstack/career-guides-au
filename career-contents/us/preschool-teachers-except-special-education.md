@@ -52,8 +52,6 @@ Teaches pre-primary children, organizes activities according to curriculum or le
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core educational work of early childhood teachers is hard to replace by AI, but AI will handle administrative tasks, observation records, etc., reducing clerical burden. Entry-level positions may shrink due to AI optimization, requiring greater focus on interpersonal interaction and curriculum design skills.
-
 Can progress from assistant teacher to lead teacher, then to preschool center director or curriculum coordinator. Some teachers obtain a bachelor's degree through continuing education and move into primary education. Could also transition to child development specialist or family education consultant.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from assistant teacher to lead teacher, then to preschool center di
 | Subclass EB-3 (Employment-Based Third Preference) | Requires a bachelor's degree or equivalent experience, through PERM labor certification, with a long queue |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove they cannot recruit US workers, a process taking over 1 year |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires at least an associate degree, but public schools require a
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/preschool-teachers-except-special-education/US)**

@@ -50,8 +50,6 @@ Professional technical personnel responsible for designing, developing, and oper
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI and automation are expanding but full replacement is difficult. Data-driven tasks like process optimization, predictive maintenance, and quality prediction are enhanced by AI, but creative R&D such as new catalyst development, reaction mechanism design, and pilot scale-up, as well as on-site decision-making, still rely on human expertise. AI is evolving as a tool that enhances job value.
-
 After graduating from university, joining production technology/R&D centers of petrochemical/refining companies → process/design engineer → senior researcher/team leader → lab director/executive. A master's degree or higher and overseas plant experience are advantageous for promotion; competency in eco-friendly/carbon-neutral R&D is important.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ After graduating from university, joining production technology/R&D centers of p
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Targeting professionals in petrochemical engineering (engineering technicians), stay up to 5 years, employer application required |
-| Subclass D-10 (Job Seeking (D-10-1)) | Foreign job seekers with a domestic master's degree or higher, can stay up to 2 years for employment activities |
-| Subclass F-2 (Residence (F-2-99)) | Convertible from long-term E-7 stay via points system, pre-permanent residence stage |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +134,12 @@ A: As the petrochemical industry shifts toward eco-friendly and bio-based proces
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/petrochemical-engineers-and-researchers/KR)**

@@ -4,8 +4,6 @@
 
 Operate nonwoven fabric production lines (such as spunbond, meltblown equipment, spunlace, etc.), responsible for raw material feeding, process parameter monitoring, quality inspection, and equipment maintenance to ensure products meet specifications.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate nonwoven fabric production lines (such as spunbond, meltblown equipment,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of nonwoven machine operators is mixed: AI and automation will take over quality inspection and parameter monitoring, but equipment maintenance and exception handling still require human experience, and the job will not disappear completely.
-
 Junior operators can be promoted to production line leader or process technician, and can further move to quality management or production supervisors. Skills can be enhanced through internal training and professional certifications such as CQP.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Junior operators can be promoted to production line leader or process technician
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, proving that EU candidates cannot be recruited. Suitable for applicants with work experience. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +140,12 @@ A: You can be promoted to production line leader, process technician, or quality
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nonwoven-textiles-machine-operator/FR)**

@@ -4,8 +4,6 @@
 
 Procuradors are a regulated profession within the Spanish judicial system, representing parties in procedural acts in court, such as serving documents and enforcing judgments.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Procuradors are a regulated profession within the Spanish judicial system, repre
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Lawyers' core high-value tasks (complex analysis, court advocacy, client relationships) are less impacted by AI, but document review, legal research, contract drafting are efficiently replaced. Entry-level competition intensifies, but specialized areas (e.g., AI law, energy transition) see strong demand.
-
 Usually, they start as assistants or law firms, and after gaining experience, can practice independently or collaborate with lawyers to open firms. Promotion to senior partner or becoming a notary or judge requires additional exams.
 
 **Tasks most exposed to AI:**
@@ -103,17 +99,9 @@ Usually, they start as assistants or law firms, and after gaining experience, ca
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit (employed)) | Employer sponsorship required, applying for work residence based on the labor contract. Because the profession is regulated, you must first pass academic credentials and qualification exams. |
-| Subclass Altamente cualificad (EU Blue Card / High-skilled professional) | If the salary reaches more than 1.5 times the average salary in Spain, you can apply for an EU Blue Card, but you must meet educational and professional qualification requirements. |
-| Subclass Busqueda empleo (Job-seeking visa) | Legal residence and job search in Spain are permitted, valid for one year, but sufficient financial capability must be demonstrated. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +145,12 @@ A: One must study for an undergraduate degree in law (4 years), then complete a 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-attorney-procurador/ES)**

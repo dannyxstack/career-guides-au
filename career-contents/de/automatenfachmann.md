@@ -53,8 +53,6 @@ Responsible for installing, maintaining, restocking, and cash management of vend
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Vending machine service work faces dual impact from AI and automation: routine tasks like restocking and cash management can be automated, but equipment maintenance and on-site services still rely on human labor; the job outlook is mixed.
-
 Can advance from junior service staff to regional supervisor or technical specialist; with experience, can transition to installation/repair or start own business. Further education can lead to 'service technician' certification.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from junior service staff to regional supervisor or technical specia
 | Subclass Skilled Worker (Skilled Worker Visa (Non-degree)) | If you obtain an IHK certificate and find a job, you can apply for skilled migration |
 | Subclass Chancenkarte (Opportunity Card) | Points-based, allows job-seeking in Germany for one year, suitable for qualified professionals |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Stable. The vending machine market continues to grow, with digital transforma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automatenfachmann/DE)**

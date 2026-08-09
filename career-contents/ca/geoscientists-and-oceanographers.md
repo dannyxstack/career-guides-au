@@ -51,8 +51,6 @@ In Canada, hydrogeologists fall under the geoscientist category, studying ground
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of hydrogeologists—data collection and simulation analysis—will be significantly enhanced by AI tools, but interpretation reports with legal liability, permit approvals, and onsite decisions still require human experts, making it a profession where AI amplifies and human moats coexist.
-
 Junior hydrogeologists can start with field data collection and groundwater modeling, then advance to project leader or technical expert. Senior professionals can transition to consulting management or academic research. Obtaining a professional geologist (P.Geo.) license is crucial for advancement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior hydrogeologists can start with field data collection and groundwater mode
 | Subclass EE (Express Entry (FSW/CEC)) | Obtaining permanent residency through the Federal Skilled Worker (FSW) or Canadian Experience Class (CEC) requires meeting a points test based on age, education, experience, English/French proficiency, etc. |
 | Subclass PNP (Provincial Nominee Program (e.g., BC PNP, Alberta AAIP)) | Through provincial nomination programs such as British Columbia's Skilled Immigration (BC PNP Tech) or Alberta Advantage Immigration Program (AAIP), need employer support or meet specific occupation requirements |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: A P.Geo. licence is required for consulting work involving sign-off authority
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geoscientists-and-oceanographers/CA)**

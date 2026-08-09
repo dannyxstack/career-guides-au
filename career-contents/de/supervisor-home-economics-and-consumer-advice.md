@@ -53,8 +53,6 @@ Responsible for supervising the housekeeping service team, providing consumer ad
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation faces mixed prospects: AI can automate data analysis and some consulting tasks, but interpersonal communication, complex problem-solving, and ethical judgment remain core; entry-level competition may intensify but demand for senior roles grows.
-
 Can be promoted from domestic worker to supervisor, then to regional manager or trainer. Requires experience and advanced qualifications.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can be promoted from domestic worker to supervisor, then to regional manager or 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Stable position, but limited promotion opportunities; can transition to train
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-home-economics-and-consumer-advice/DE)**

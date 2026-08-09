@@ -53,8 +53,6 @@ Architectural painters are responsible for applying paint, varnish, and other pr
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Painters face a mixed outlook: AI cannot directly spray, but it automates some tasks via smart color matching, automatic estimation, and project management tools, while enhancing material selection and precision application. Entry-level positions become more competitive due to lowered technical barriers.
-
 Typically, you start as a CAP apprentice, and after gaining experience, you can be promoted to supervisor or project supervisor, specializing in decorative or industrial coatings, or starting a paint company on your own.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Typically, you start as a CAP apprentice, and after gaining experience, you can 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | Requires a work contract with a French employer and approval from the labor ministry (simplified for shortage occupations). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | For high-skilled/highly educated talent; annual salary must be about 1.5 times the SMIC (approx. EUR 25,000). Process is relatively fast. |
-| Subclass Carte bleue UE (EU Blue Card) | Requires bachelor's degree or 5 years of professional experience, annual salary threshold approx. €53,000 (2025); construction painters usually cannot meet this. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: You can use the Salarié work visa, which requires employer sponsorship and t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-painter/FR)**

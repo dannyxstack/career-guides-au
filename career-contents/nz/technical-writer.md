@@ -51,8 +51,6 @@ Technical writers create technical documents (e.g., user manuals, operating guid
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Technical writers face automation pressures from the proliferation of AI-assisted tools, but the human role shifts from information organization to strategic content curation and quality control, with mixed prospects.
-
 Junior technical writers can advance to senior writers or content strategists; with experience, they can move into project management or technical training. New Zealand IT companies value cross-disciplinary skills, and bilingual talent has an advantage.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior technical writers can advance to senior writers or content strategists; w
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | Can apply for residence after 2 years of work, must have an approved employer and salary at least 1.5 times the median. |
 | Subclass AEWV (Accredited Employer Work Visa) | Requires a job offer from an approved employer, salary not below the median, valid for 3 years. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: AI tools (such as ChatGPT) can assist in generating drafts, but complex docum
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-writer/NZ)**

@@ -1,10 +1,8 @@
 # 会计文员（Accounting Clerk）职业分析 · 韩国
 
-**职业代码: 02711 (KECO)**
+**职业代码：02711 (KECO)**
 
-An office worker responsible for accounting and financial tasks such as preparing financial statements, tax reporting, and payroll calculation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责编制财务报表、税务申报和工资计算等会计和财务任务的办公室职员。
 
 
 ---
@@ -13,9 +11,9 @@ An office worker responsible for accounting and financial tasks such as preparin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school graduates are eligible but college graduates preferred） |
-| Associate degree (Accounting/Tax) | 2 年 | $8,000,000~$12,000,000（Tuition fees based on national/public standards） |
-| Bachelor's degree (Accounting/Tax) | 4年 | $16,000,000~$24,000,000（Tuition fees based on national/public standards） |
+| 高中毕业 | 0年 | $0~$0（高中毕业生可申请，但大学毕业生优先） |
+| 副学士学位（会计/税务） | 2 年 | $8,000,000~$12,000,000（按国立/公立标准收取的学费） |
+| 学士学位（会计/税务） | 4年 | $16,000,000~$24,000,000（按国立/公立标准收取的学费） |
 
 ---
 
@@ -23,18 +21,18 @@ An office worker responsible for accounting and financial tasks such as preparin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computerized Accounting Operator (Level 1 & 2) | Korea Productivity Center | 可选 | Essential for practice, bonus points |
-| Computerized Tax Accounting (Level 1 & 2) | Korean Institute of Certified Public Accountants | 可选 | Advantageous for tax work |
-| ERP Accounting Information Manager | Korea Integrated ERP Association | 可选 | Advantageous for utilizing corporate ERP |
+| 电脑化会计操作员（1级和2级） | 韩国生产力中心 | 可选 | 实践必备，加分项 |
+| 计算机化税务会计（1级和2级） | 韩国注册会计师协会 | 可选 | 对税务工作有利 |
+| ERP会计信息经理 | 韩国综合ERP协会 | 可选 | 利用企业ERP的优势 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 350,000. With digital transformation, routine accounting tasks are automated, but demand for advanced tasks like tax and financial analysis remains stable. Steady hiring is maintained, mainly in SMEs.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 350,000。随着数字化转型，常规会计任务被自动化，但税务和财务分析等高级任务需求保持稳定。招聘持续稳定，主要来自中小企业。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,97 +40,89 @@ An office worker responsible for accounting and financial tasks such as preparin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Based on SME standards |
-| Mid-level (4-9 years) | $32,000,000~$45,000,000 | 经验丰富后增长 |
-| 资深（10年以上） | $45,000,000~$60,000,000 | Team Lead or Large Corporation |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 基于中小企业标准 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 经验丰富后增长 |
+| 资深（10年以上） | $45,000,000~$60,000,000 | 团队负责人或大型企业 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Due to AI and automation, simple tasks like voucher entry, matching, and settlement data整理 are being rapidly replaced, reducing the scope of accounting clerks' work. However, high-value tasks like tax consulting and financial analysis still require human judgment.
+由于AI和自动化，凭证录入、对账、结算数据整理等简单任务正迅速被取代，会计文员的工作范围缩小。但税务咨询、财务分析等高价值任务仍需人工判断。
 
-Accounting Clerk → After 5-10 years of experience, can be promoted to tax accountant/accountant office manager or accounting team head in mid-sized companies. Obtaining certifications is advantageous for career development.
+会计文员→经过5-10年经验，可晋升为税务会计师/会计事务所经理或中型企业会计团队负责人。获得认证有利于职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Manual voucher entry
-- Account classification
-- Simple sales/purchase voucher processing
-- Asset depreciation calculation
+- 手动凭证录入
+- 账户分类
+- 简单销售/采购凭证处理
+- 资产折旧计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Financial statement analysis
-- Tax risk diagnosis
-- Budget preparation assistance
-- Internal control review
+- 财务报表分析
+- 税务风险诊断
+- 预算编制协助
+- 内部控制审查
 
-**人类护城河:**
+**人类护城河：**
 
-- Customized tax strategy formulation for clients
-- Non-routine tax judgment
-- Professional judgment in auditing
-- In-house accounting education and coaching
+- 为客户定制税务策略制定
+- 非常规税务判断
+- 审计中的专业判断
+- 内部会计教育与辅导
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Literacy
-- Financial Modeling
-- Advanced ERP System Usage
-- Tax Law Interpretation
+- 数据素养
+- 财务建模
+- 高级ERP系统使用
+- 税法解释
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Computerized accounting
-- Tax practice
-- Financial analysis
-- ERP utilization
+- 计算机化会计
+- 税务实务
+- 财务分析
+- 企业资源规划应用
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Issuable only to experienced accounting professionals, academic degree requirement must be met |
-| Subclass F-2 (Residence Visa) | Long-term stay possible after switching to a points system, accounting experience points reflected |
-| Subclass F-4 (Overseas Korean Visa) | Overseas Koreans have an advantage in getting hired as accounting clerks; separate permission not required. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and strong with numbers
-- Person who consistently performs repetitive tasks
-- A person who follows the rules well within the organization
+- 注重细节且擅长数字
+- 始终坚持执行重复性任务的人
+- 在组织内严格遵守规则的人
 
 **谁不适合**
-- Prefers creative and free work
-- Someone who is sensitive to change and dislikes simple repetitive tasks
+- 偏爱创造性和自由工作
+- 对变化敏感且不喜欢简单重复任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an accounting clerk?**
-答：Based on 0–3 years of experience, the pre-tax salary is about 24–30 million KRW; for 10+ years, it's around 45–60 million KRW.
+**问：会计文员的平均薪资是多少？**
+答：基于0-3年经验，税前薪资约2400-3000万韩元；10年以上约4500-6000万韩元。
 
-**问：Can foreigners get a job as an accounting clerk?**
-答：It's possible with an E-7 visa, but degree and experience requirements are strict; foreign companies are more favorable than local Korean firms.
+**问：外国人能否获得会计文员职位？**
+答：E-7签证可行，但学历和经验要求严格；外企比韩国本地公司更有利。
 
-**问：How can an accounting clerk become a tax accountant?**
-答：You must pass the tax accountant exam and meet the academic credit conditions or accumulate practical experience before applying.
+**问：会计文员如何成为税务会计师？**
+答：必须通过税务师考试并满足学分条件或积累实践经验后才能申请。
 
 
 ---
@@ -150,12 +140,12 @@ Accounting Clerk → After 5-10 years of experience, can be promoted to tax acco
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/accounting-clerk/KR)**

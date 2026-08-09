@@ -4,8 +4,6 @@
 
 Graphic and multimedia designers are responsible for conveying information using visual elements, creating digital and print media content. In the Netherlands, the demand for this occupation is stable, especially in user experience design and digital marketing.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Graphic and multimedia designers are responsible for conveying information using
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The work of graphic and multimedia designers will be mixed: AI can quickly generate drafts and materials, but creative strategy, brand narrative, and cross-media integration still require human judgment. Entry-level positions face compression, but senior designers can improve output efficiency with AI.
-
 Career advancement pathways include progression from junior designer to senior designer, art director, or creative director. Specialization in UI/UX design, motion graphics, or brand strategy is also possible. Freelancing and entrepreneurship are common development paths.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career advancement pathways include progression from junior designer to senior d
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigrants meeting the salary threshold, requiring employer sponsorship. The 2025 threshold will be approximately €5,000/month (over 30) or €3,666/month (under 30). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, the salary threshold is approximately €58,000/year (2025). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from Dutch universities or top 200 global universities can apply within one year after graduation for job seeking. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Digital transformation and digital marketing demand continue to drive the mar
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-and-multimedia-designer/NL)**

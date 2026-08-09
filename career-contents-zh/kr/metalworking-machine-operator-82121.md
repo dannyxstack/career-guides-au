@@ -1,8 +1,8 @@
-# Metalworking Machine Operator 职业分析 · 韩国
+# 金属加工机器操作员（Metalworking Machine Operator）职业分析 · 韩国
 
-**职业代码: 82121 (KECO)**
+**职业代码：82121 (KECO)**
 
-This occupation involves operating metalworking machines such as lathes, milling machines, and CNC machines to produce and process metal parts.
+该职业操作金属加工机床，如车床、铣床和CNC机床，以生产和加工金属零件。
 
 
 ---
@@ -11,9 +11,9 @@ This occupation involves operating metalworking machines such as lathes, milling
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduation and on-site training | 3年 | $0~$0（No additional cost） |
-| Department of Metalworking at a junior college | 2 年 | $5,000,000~$10,000,000（Based on tuition fees） |
-| Polytechnic College CNC Course | 1年 | $2,000,000~$4,000,000（Government funding available） |
+| 高中毕业及在职培训 | 3年 | $0~$0（无额外费用） |
+| 专科院校金属加工系 | 2 年 | $5,000,000~$10,000,000（按学费计算） |
+| 理工学院CNC课程 | 1年 | $2,000,000~$4,000,000（可申请政府资助） |
 
 ---
 
@@ -21,17 +21,17 @@ This occupation involves operating metalworking machines such as lathes, milling
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Metalworking Technician | Human Resources Development Service of Korea | 可选 | Basic certification |
-| CNC Lathe/Milling Technician | Human Resources Development Service of Korea | 可选 | Advantageous for CNC operation |
+| 金属加工技术员 | 韩国人力资源开发服务局 | 可选 | 基础认证 |
+| CNC车床/铣床技术员 | 韩国人力资源开发服务局 | 可选 | 对CNC操作有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Due to automation and aging in the manufacturing industry, skilled workers are in short supply, but simple tasks are expected to be replaced by AI.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。由于制造业自动化和老龄化，熟练工短缺，但简单任务预计将被AI替代。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ This occupation involves operating metalworking machines such as lathes, milling
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $24,000,000~$32,000,000 | Pre-tax annual salary |
-| Mid level (4-9 years) | $32,000,000~$45,000,000 | Pre-tax annual salary, varies with skill level |
-| Senior level (10+ years) | $45,000,000~$60,000,000 | Pre-tax annual salary, includes management roles |
+| 初级(0-3年) | $24,000,000~$32,000,000 | 税前年薪 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 税前年薪，根据技能水平变化 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 税前年薪，包括管理职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-Due to AI and automation, simple lathe/milling work is rapidly being replaced, but complex precision machining and equipment maintenance are becoming more valuable. The labor shortage is intensifying as skilled older workers retire, and workers utilizing AI receive a premium.
+由于AI和自动化，简单的车床/铣床工作正在迅速被取代，但复杂精密加工和设备维护变得更加有价值。随着熟练老工人退休，劳动力短缺加剧，使用AI的工人获得溢价。
 
-With CNC programming and equipment maintenance skills, one can advance to production manager or technical supervisor.
+掌握CNC编程和设备维护技能后，可晋升为生产经理或技术主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Lathe Machining
-- Repetitive Milling Work
-- Manual Tool Change
+- 简单车床加工
+- 重复性铣削工作
+- 手动换刀
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- CNC Machining Path Optimization
-- Precision Measurement and Quality Inspection
-- Predictive Equipment Maintenance
+- CNC加工路径优化
+- 精密测量与质量检验
+- 预测性设备维护
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision Machining Know-How
-- Atypical Part Machining
-- Equipment Failure Response Capability
+- 精密加工技术诀窍
+- 非典型零件加工
+- 设备故障响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC Programming (CAM)
-- Smart Factory System Operation
-- 3D Modeling Analysis
+- CNC编程（CAM）
+- 智能工厂系统运营
+- 3D建模分析
 
-**主要增长方向:**
+**主要增长方向：**
 
-- CNC Machining
-- Automation Response
-- Precision Machining
-- Smart Factory
+- 数控加工
+- 自动化响应
+- 精密加工
+- 智能工厂
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Can be issued if you have over 5 years of experience as a skilled worker |
-| Subclass E-9 (Non-professional Employment) | Available within manufacturing industry quotas |
-| Subclass F-2 (Residence) | Possible for long-term stay when transitioning from E-7 to F-2 |
-
-**PR友好度: 中（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People skilled with handiwork and machine operation
-- People who can consistently perform repetitive tasks
-- People who strictly follow safety rules
+- 擅长手工和机器操作的人
+- 能持续执行重复性任务的人
+- 严格遵守安全规则的人
 
 **谁不适合**
-- People who dislike simple repetitive tasks
-- People who lack patience for precise work
+- 不喜欢简单重复任务的人
+- 缺乏精确工作耐心的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary?**
-答：Starting annual salary is 24-32 million KRW, with possible night and overtime pay.
+**问：起薪是多少？**
+答：起薪2400-3200万韩元，可能有夜班和加班费。
 
-**问：Can foreigners also get jobs here?**
-答：Employment is possible in the manufacturing sector with an E-9 visa (E-9), and conversion to E-7 (F-2) is possible after gaining skills.
+**问：外国人也能在这里找到工作吗？**
+答：持E-9签证可在制造业就业，技能提升后可转为E-7（F-2）。
 
-**问：What is needed for promotion?**
-答：It is advantageous to learn CNC programming and equipment maintenance skills and obtain relevant certifications.
+**问：晋升需要什么？**
+答：学习CNC编程和设备维护技能并获取相关证书是有利的。
 
 
 ---
@@ -142,12 +135,12 @@ With CNC programming and equipment maintenance skills, one can advance to produc
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/metalworking-machine-operator-82121/KR)**

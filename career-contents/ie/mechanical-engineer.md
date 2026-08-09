@@ -51,8 +51,6 @@ Mechanical engineers are responsible for designing, analyzing, manufacturing, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mechanical engineers in Ireland face mixed impacts from AI: some repetitive design tasks are automated, but AI enhances core capabilities like simulation and optimization. Career prospects are stable but require skill upgrades.
-
 Career path typically starts from junior design or project engineer, progressing to senior engineer or project manager after 5-10 years of experience, then further to engineering manager, technical director, or independent consultant. Continuing education (e.g., master's degree or chartered engineer status) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path typically starts from junior design or project engineer, progressing
 | Subclass General Employment P (General Employment Permit) | Requires labor market test, applicable for non-shortage occupations, but mechanical engineering usually meets conditions. |
 | Subclass EU Blue Card (EU Blue Card) | For high-paying jobs, salary threshold approx. €36,000 (2024), offering mobility within the EU. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Mechanical engineers can advance to senior engineer, project manager, enginee
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineer/IE)**

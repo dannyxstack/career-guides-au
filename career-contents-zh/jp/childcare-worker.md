@@ -1,10 +1,8 @@
 # 儿童保育员（Childcare Worker）职业分析 · 日本
 
-**职业代码: 163 (JSCO)**
+**职业代码：163 (JSCO)**
 
-A professional who provides childcare and parental support for infants and children at nursery schools. Requires a national license, along with knowledge and practical skills in childcare, education, and welfare.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在幼儿园为婴幼儿提供保育和家长支持的专业人员。需国家执照，并具备保育、教育和福利方面的知识和实践技能。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who provides childcare and parental support for infants and child
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Junior College / Vocational School (Childcare Worker Training Course) | 2 年 | $1,500,000~$3,000,000（Tuition for 2-year training schools: cheaper at public institutions, expensive at private ones.） |
-| University (Childcare Worker Training Course) | 4年 | $3,000,000~$5,000,000（4-year university. Obtains childcare worker qualification plus kindergarten teacher license, etc.） |
+| 专科/职业学校（保育员培训课程） | 2 年 | $1,500,000~$3,000,000（两年制培训学校学费：公立机构较低，私立较高） |
+| 大学（保育员培训课程） | 4年 | $3,000,000~$5,000,000（4年制大学。获得育儿工作者资格及幼儿园教师执照等。） |
 
 ---
 
@@ -22,19 +20,19 @@ A professional who provides childcare and parental support for infants and child
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Childcare Worker License | Prefectural Governor (National Qualification) | 必备 | Mandatory for becoming a childcare worker. Acquired by graduating from a training school or passing the national exam. |
-| Kindergarten Teacher License (Type 1 & 2) | Ministry of Education, Culture, Sports, Science and Technology (MEXT) | 可选 | Combining with childcare worker license allows work at certified centers for early childhood education. |
-| Social Welfare Officer Appointment Qualification | Ministry of Health, Labour and Welfare (MHLW) | 可选 | Obtained by completing specified subjects at university. Applicable in child welfare fields. |
-| Childcare Support Worker | Prefectural Government | 可选 | Qualification for assisting childcare workers. Training workshops available. |
+| 育儿工作者执照 | 都道府县知事（国家资格） | 必备 | 成为保育员的必要条件。通过毕业于培训学校或通过国家考试获得。 |
+| 幼儿园教师资格证（1类及2类） | 文部科学省 | 可选 | 结合保育员资格可在认证的幼儿教育机构工作。 |
+| 社会福利师任命资格 | 厚生劳动省 | 可选 | 通过大学指定科目获得。适用于儿童福利领域。 |
+| 儿童保育支持工作者 | 县政府 | 可选 | 辅助保育员资格。提供培训工作坊。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 530,000. Demand remains steady due to the elimination of waiting-list children and the free early childhood education policy. Persistent shortage of childcare workers, especially in urban areas, with improving salaries.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 530,000。由于取消等待名单儿童和免费早期教育政策，需求稳定。保育员持续短缺，尤其在市区，薪资正在改善。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,95 +40,86 @@ A professional who provides childcare and parental support for infants and child
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,800,000~$3,500,000 | Typical annual income for new graduates. Varies by region and facility. |
-| Mid-Level (5–10 years) | $3,500,000~$4,500,000 | Includes overtime and allowances for managerial level. |
-| Veteran (15+ years/managerial) | $4,500,000~$6,000,000 | Director/superintendent level. Includes position allowances. |
+| 入门级（0–3年） | $2,800,000~$3,500,000 | 新毕业生典型年收入。因地区和设施而异。 |
+| 中级（5-10年） | $3,500,000~$4,500,000 | 包含加班和管理层津贴。 |
+| 资深（15年以上/管理级） | $4,500,000~$6,000,000 | 主任/总监级别。含职位津贴。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 Automation of childcare using AI and robots is advancing in some areas, but tasks requiring human warmth, such as infant care and parent communication, will remain. AI is used for digitalizing childcare records and improving efficiency, which is expected to reduce the workload of childcare workers.
 
-Career path: Childcare Worker → Lead Childcare Worker → Facility Director/Principal. Possible career shift to certified center for early childhood education as a Childcare Teacher. Pursuing graduate school after practical experience is also an option.
+职业路径：保育员→首席保育员→设施主任/园长。可能转向认证的幼儿教育中心担任幼儿教师。积累实践经验后攻读研究生也是可选路径。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Inputting and organizing childcare records
-- Shift and attendance management
-- Simple parent notifications (standardized text)
+- 输入和整理育儿记录
+- 轮班与考勤管理
+- 简单的家长通知（标准化文本）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analysis and visualization of children's developmental records
-- Support for planning childcare programs
-- Generation of individualized advice for parents
+- 儿童发展记录的分析与可视化
+- 支持规划儿童保育项目
+- 为家长生成个性化建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy to connect with children's emotions
-- Creative guidance through play
-- Building trust with parents
+- 共情能力以与儿童情感连接
+- 通过游戏进行创意引导
+- 与家长建立信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Teaching methods for developing non-cognitive skills
-- AI/ICT Device Application Skills
-- Applied Knowledge of Developmental Psychology
-- Practical Skills for Inclusive Childcare
+- 培养非认知技能的教学方法
+- AI/ICT设备应用技能
+- 发展心理学应用知识
+- 包容性儿童保育的实用技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Countermeasures for children on waiting lists
-- Integration of kindergartens and daycare centers
-- Improving childcare quality
-- Child-rearing support
+- 待机儿童对策
+- 幼儿园与日托中心整合
+- 提高托育质量
+- 育儿支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (elderly care field)) | SSW(i) exists for elderly care, not directly for childcare workers. Possible to work in elderly care. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Possibly recognized as requiring specialized knowledge for childcare, but limited to school/educational facilities. |
-| Subclass 特定活動（EPA） (Foreign nurse/care worker candidates under Economic Partnership Agreement (EPA)) | Enter as EPA care worker candidate, work at care facilities. Not directly for childcare. |
-| Subclass 就労不可（観光等） (Short Stay, etc.) | Not eligible for employment. Need work visa above for childcare. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who love children and are patient
-- Those who are cooperative and value teamwork
-- Those who are physically and mentally healthy
+- 喜欢孩子且有耐心的人
+- 善于合作并重视团队合作的人
+- 身心健康者
 
 **谁不适合**
-- People who struggle with emotional control
-- People who dislike change and prefer routine tasks
+- 情绪控制困难者
+- 不喜欢变化、偏好常规任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a childcare worker?**
-答：It depends on experience and position; starting salary is about 2.8–3.5 million yen, mid-career 3.5–4.5 million yen, and director level 4.5–6 million yen. Regional differences are large, with higher pay in urban areas.
+**问：儿童保育员的年薪是多少？**
+答：视经验和职位而定；起薪约280-350万日元，中级350-450万日元，总监级450-600万日元。地区差异大，城市地区薪资较高。
 
-**问：What visa does a foreigner need to work as a childcare worker in Japan?**
-答：The Engineer/Specialist in Humanities/International Services visa is possible, but employment as a childcare worker is generally not approved; it is mainly limited to educational institutions like international schools. The Specified Skilled Worker visa includes caregiving but not directly childcare.
+**问：外国人在日本从事育儿工作需要什么签证？**
+答：人文知识/国际业务工程师专家签证可行，但保育员工作通常不被批准；主要限于国际学校等教育机构。特定技能签证包含护理但不直接针对保育。
 
-**问：What qualifications are needed to become a childcare worker?**
-答：A national childcare worker qualification is mandatory. It can be obtained by completing a prescribed course at a training school (junior college, university, vocational school) or passing the national childcare worker exam. Dual certification with a kindergarten teacher's license is common.
+**问：成为托儿工作者需要哪些资质？**
+答：国家保育员资格是强制性的。可通过在培训学校（专科、大学、职业学校）完成规定课程或通过国家保育员考试获得。通常与幼儿园教师资格证双重认证。
 
 
 ---
@@ -148,12 +137,12 @@ Career path: Childcare Worker → Lead Childcare Worker → Facility Director/Pr
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/childcare-worker/JP)**

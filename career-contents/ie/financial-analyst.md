@@ -52,8 +52,6 @@ Financial analysts evaluate investment opportunities, analyze financial data, wr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance data analysis efficiency and pattern recognition, but core tasks based on regulation, customer trust, and complex judgment are hard to replace. Financial investment analysts will upgrade to higher-level advisory and strategy roles.
-
 Junior analysts can advance to senior analyst, investment manager, or research director. With professional certifications like CFA, they can move into investment banking, asset management, or risk management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analysts can advance to senior analyst, investment manager, or research d
 | Subclass General Employment P (General Employment Permit) | For financial analyst positions with annual salary exceeding 30,000 euros, a labor market test is required. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with an annual salary exceeding €33,500, offering mobility within the EU. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from junior analyst to senior analyst, investment manager, or re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-analyst/IE)**

@@ -51,8 +51,6 @@ Responsible for formulating and executing corporate human resources strategies, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 You can be promoted from HR specialist to HR manager or HR director, or specialize in compensation and benefits, talent recruitment, labor relations, and other areas.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ You can be promoted from HR specialist to HR manager or HR director, or speciali
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Applies to HR management positions with higher education diploma + annual salary ≥€53,836.50, fast-track. |
-| Subclass Passeport Talent (Talent Passport) | Applicable to HR experts with a master's degree employed by French companies, valid for 4 years |
-| Subclass Salarié (Salaried Employee) | Standard work permit, requires French employer sponsorship, salary meets industry standards |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Starting as an HR specialist, you can be promoted to HR Manager, HRBP, Compen
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/human-resources-management/FR)**

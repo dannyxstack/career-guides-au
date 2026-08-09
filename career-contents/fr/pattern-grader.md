@@ -53,8 +53,6 @@ Responsible for enlarging or shrinking the basic paper pattern by size series (p
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The work of pattern makers pushing their files is expected to be greatly enhanced by AI, but it will not be completely replaced, as creativity and craftsmanship judgment remain at the core.
-
 Starting as a junior pattern maker, you can gain experience and be promoted to senior pattern maker, pattern room supervisor, or move to the design department as chief design assistant. Some practitioners choose to set up personal studios, engaging in custom or small-batch production. You can also develop into a technical education lecturer.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Starting as a junior pattern maker, you can gain experience and be promoted to s
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for overseas talents with professional skills, employer contract or project certification must be provided, valid for 4 years. |
-| Subclass Salarié (Employee Visa) | This applies to foreign employees who have obtained a work contract with a French employer and must meet salary and job requirements. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to highly skilled employees, requiring annual salary of at least 53,800 euros (2024 standard), usually a bachelor's degree or higher. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can advance from junior pattern maker to senior pattern maker or pattern 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pattern-grader/FR)**

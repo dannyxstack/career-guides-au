@@ -51,8 +51,6 @@ Occupational therapists help patients regain daily living and work abilities in 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will enhance occupational therapists' assessment and paperwork, but core interpersonal interaction and manual therapy are hard to replace; entry-level positions may face narrower competition due to AI simplification, but overall demand continues to grow due to population aging.
-
 Junior therapists can advance to senior clinical specialist, team leader, or open a private practice. They can also move into management, research, or education. Licences are nationally recognised in Canada; interprovincial moves require only a bridging exam.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior therapists can advance to senior clinical specialist, team leader, or ope
 | Subclass PNP (Provincial Nominee Program) | Listed as priority occupations in provincial nominations such as Ontario, BC, Alberta, Saskatchewan, etc. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, fast process |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: No. You must first obtain an ECA through WES or similar, then apply to the pr
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapist/CA)**

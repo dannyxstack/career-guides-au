@@ -52,8 +52,6 @@ Occupational Health and Safety Specialists have stable demand in New Zealand, wi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Occupational health and safety specialist roles benefit significantly from AI assistance, but core on-site compliance inspections, accident investigations, and liability judgments are difficult to automate, making this a typical AI-enhanced profession.
-
 Junior officers can advance to senior officer or safety manager through experience, or specialise in industries like construction or healthcare. Obtaining NZCSP certification can accelerate career progression, with salaries up to NZ$100,000+.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior officers can advance to senior officer or safety manager through experien
 | Subclass SMC (Skilled Migrant Category) | 6-point skilled migration: bachelor's degree plus 3+ years experience gives 6 points, suitable for applicants not on the Green List. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa as a transitional pathway, eligible for residence after 2 years of work (if employer supports and conditions met) |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can obtain direct residence through Green List Tier 1 (requires salary at 1.5
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/whs-officer/NZ)**

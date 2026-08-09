@@ -53,8 +53,6 @@ Set up, operate, or tend metal or plastic rolling mills to perform shaping opera
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive monitoring and adjustment tasks for rolling mill operators are easily replaced by AI and automation systems, but equipment maintenance and anomaly handling still require human experience; overall demand for positions will significantly shrink.
-
 Operators can advance to senior operator, team leader, or quality inspector, further to production supervisor or process engineer, requiring experience and mechanical knowledge.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Operators can advance to senior operator, team leader, or quality inspector, fur
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Can advance to senior operator, team leader, production supervisor, or qualit
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rolling-machine-setters-operators-and-tenders-metal-and-plastic/US)**

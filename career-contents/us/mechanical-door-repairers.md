@@ -53,8 +53,6 @@ Responsible for installing, repairing, and maintaining automatic doors, hydrauli
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mechanical door repairers face mixed impacts from AI automation: smart diagnostic tools can reduce troubleshooting time, but the extensive manual work, on-site adaptation, and safety assessments during installation and repair are hard to replace.
-
 Can progress from apprentice to skilled tradesperson, then to supervisor or self-employment, or move into high-end areas such as elevator or industrial door maintenance.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can progress from apprentice to skilled tradesperson, then to supervisor or self
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Extremely difficult. This occupation typically does not meet H-1B education r
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-door-repairers/US)**

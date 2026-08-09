@@ -1,10 +1,8 @@
-# Broadcast Reporter 职业分析 · 韩国
+# 广播记者（Broadcast Reporter）职业分析 · 韩国
 
-**职业代码: 41202 (KECO)**
+**职业代码：41202 (KECO)**
 
-This occupation is responsible for news gathering and reporting, performing article writing and video editing at broadcasting stations.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该职业负责新闻采集和报道，在广播电台进行文章撰写和视频编辑。
 
 
 ---
@@ -13,8 +11,8 @@ This occupation is responsible for news gathering and reporting, performing arti
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Bachelor's Degree) | 4年 | $40,000,000~$60,000,000（Difference in national/private universities） |
-| Media exam/private institutes | 1年 | $5,000,000~$15,000,000（Job preparation cost） |
+| University (Bachelor's Degree) | 4年 | $40,000,000~$60,000,000（国立/私立大学差异） |
+| 媒体考试/私立学院 | 1年 | $5,000,000~$15,000,000（求职准备费用） |
 
 ---
 
@@ -22,17 +20,17 @@ This occupation is responsible for news gathering and reporting, performing arti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast Reporter Certification (none special) | 不适用 | 可选 | Selected through broadcasting company's own recruitment process |
-| Test of Proficiency in Korean (TOPIK) | National Institute for International Education | 可选 | May be required for foreign applicants |
+| 广播记者认证（无专业限制） | 不适用 | 可选 | 通过广播公司自有招聘流程选拔 |
+| 韩国语能力考试（TOPIK） | 国立国际教育研究院 | 可选 | 可能对外国申请人有要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中低（★★☆☆☆）.** 全国从业人数约 18,000. Due to digital transformation and changes in the media environment, demand for manpower is stagnant, but demand for experienced reporters is expected to remain.
+**职位需求量：中低（★★☆☆☆）** 全国从业人数约 18,000。由于数字化转型和媒体环境变化，人力需求停滞，但对经验丰富的记者的需求预计仍将存在。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：很高（★★★★½）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,92 +38,85 @@ This occupation is responsible for news gathering and reporting, performing arti
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $35,000,000~$45,000,000 | Including local/cable broadcasters |
-| 中级（4-9年） | $50,000,000~$70,000,000 | Based on terrestrial broadcasters |
-| Advanced (10+ years) | $80,000,000~$99,999,999 | Specialist reporter/desk |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 含地方/有线广播机构 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 基于地面广播公司 |
+| 高级（10年以上） | $80,000,000~$99,999,999 | 专业记者/编辑 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI can replace simple article writing or data analysis, but reporting, interviews, and judgment are advantageous to humans. AI utilization skills will become important.
+AI可以替代简单的文章撰写或数据分析，但报道、采访和判断人类更具优势。AI使用技能将变得重要。
 
-Promotion from trainee reporter to regular reporter, specialist reporter (data journalism, etc.), desk/manager, or may switch to anchor or PD.
+从实习记者晋升为正式记者、专业记者（数据新闻等）、编辑/经理，或转任主播或PD。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Breaking news writing
-- Economic/sports data analysis
-- Automated translation and summarization
+- 突发新闻写作
+- 经济/体育数据分析
+- 自动翻译与摘要
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Reporter data analysis
-- Video editing automation
-- Reader response analysis
+- 记者数据分析
+- 视频编辑自动化
+- 读者反应分析
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site reporting skills
-- Human relations and trust
-- Ethical judgment
+- 现场报告技能
+- 人际关系与信任
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data literacy
-- AI tool utilization
-- Multimedia storytelling
+- 数据素养
+- 人工智能工具运用
+- 多媒体叙事
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Media
-- Data Journalism
-- Video Content
-- Fact-checking
+- 数字媒体
+- 数据新闻学
+- 视频内容
+- 事实核查
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible upon employment at broadcasting companies; broadcast reporter may be included in E-7 eligible occupations |
-| Subclass F-2 (F-2 (Residence)) | Open to long-term residents with no employment restrictions |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those with curiosity and persistence
-- For those skilled in writing and speaking
-- For those who handle stress well
+- 适合有好奇心和毅力的人
+- 适合擅长写作和口语者
+- 适合抗压能力强的人
 
 **谁不适合**
-- For those who prefer a routine lifestyle
-- For those who prefer high anonymity
+- 适合偏好规律生活的人
+- 适合偏好高匿名性的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary range for a broadcast journalist?**
-答：Entry level: 35–45 million won, Mid level: 50–70 million won, Senior: 80–120 million won.
+**问：广播记者的薪资范围是多少？**
+答：初级：35–4500万韩元，中级：5000–7000万韩元，高级：8000万–1.2亿韩元。
 
-**问：Can foreigners work as broadcast journalists?**
-答：Possible with an E-7 visa, but practically difficult due to high Korean language proficiency and broadcaster hiring standards.
+**问：外国人能否担任广播电视记者？**
+答：持E-7签证可能可行，但由于高韩语水平和广播公司招聘标准，实际操作困难。
 
-**问：What preparations are needed to become a broadcast journalist?**
-答：Preparing for broadcaster open recruitment (media exam), internship experience, and portfolio (articles/videos) are important.
+**问：成为广播记者需要做哪些准备？**
+答：准备广播机构公开招聘（媒体考试），实习经验和作品集（文章/视频）很重要。
 
 
 ---
@@ -143,12 +134,12 @@ Promotion from trainee reporter to regular reporter, specialist reporter (data j
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/broadcast-reporter/KR)**

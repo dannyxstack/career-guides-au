@@ -1,10 +1,8 @@
-# Management & Diagnostic Expert 职业分析 · 韩国
+# 管理与诊断专家（Management & Diagnostic Expert）职业分析 · 韩国
 
-**职业代码: 02213 (KECO)**
+**职业代码：02213 (KECO)**
 
-A professional who analyzes a company's management status, diagnoses problems, and suggests improvement plans, supporting strategy formulation and organizational efficiency.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+分析公司管理状况、诊断问题并提出改进方案，支持战略制定和组织效率提升的专业人士。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who analyzes a company's management status, diagnoses problems, a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 工商管理硕士（MBA） | 2 年 | $30,000,000~$80,000,000（Based on domestic prestigious university MBA; overseas MBA is more expensive） |
-| Bachelor's in Business Administration | 4年 | $8,000,000~$12,000,000（Based on tuition per semester; half or less for national/public universities） |
-| Professional certification program | 1年 | $3,000,000~$5,000,000（Cost of obtaining certifications such as Management Consultant） |
+| 工商管理硕士（MBA） | 2 年 | $30,000,000~$80,000,000（基于国内知名大学MBA；海外MBA更贵） |
+| 工商管理学士 | 4年 | $8,000,000~$12,000,000（按学期收取学费；国立/公立大学半价或以下） |
+| 专业认证课程 | 1年 | $3,000,000~$5,000,000（获得管理咨询师等认证的费用） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional who analyzes a company's management status, diagnoses problems, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 管理顾问 | Human Resources Development Service of Korea | 必备 | Recognized in the field of SME management diagnosis |
-| Technical Consultant | Human Resources Development Service of Korea | 可选 | Advantageous for technology-based business diagnosis |
-| CIA (Certified Internal Auditor) | IIA (Institute of Internal Auditors) | 可选 | Useful for global expansion |
+| 管理顾问 | 韩国人力资源开发服务局 | 必备 | 在中小企业管理诊断领域获得认可 |
+| 技术顾问 | 韩国人力资源开发服务局 | 可选 | 有利于基于技术的企业诊断 |
+| CIA（注册内部审计师） | IIA（国际内部审计师协会） | 可选 | 对全球扩展有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 35,000. Demand continues due to digital transformation and changes in the management environment, but mid-level jobs are expected to stagnate with the spread of AI-based analysis tools.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 35,000。由于数字化转型和管理环境变化，需求持续存在，但随着AI分析工具的普及，中级职位预计将停滞。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A professional who analyzes a company's management status, diagnoses problems, a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $40,000,000~$50,000,000 | Based on consulting firms; corporate strategy teams may offer higher |
-| Mid-level (4-9 years) | $60,000,000~$90,000,000 | Varies greatly by experience and performance |
-| 资深（10年以上） | $99,999,999 | Separate compensation structure for partner level and above |
+| 入门级（0-3年） | $40,000,000~$50,000,000 | 基于咨询公司；企业战略团队可能更高 |
+| 中级（4-9年） | $60,000,000~$90,000,000 | 根据经验和表现差异很大 |
+| 资深（10年以上） | $99,999,999 | 合伙人级别及以上单独薪酬结构 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI has strengths in data analysis and pattern recognition, but complete replacement is difficult due to uniquely human areas such as strategic judgment and building customer trust. Experts who utilize AI as a tool will have an advantage.
+AI在数据分析和模式识别方面有优势，但由于战略判断和建立客户信任等人类独特领域，完全替代很困难。善于利用AI作为工具的专家将具有优势。
 
-Career paths typically include consulting firms, corporate strategy teams, and specialized research institutes; an MBA or relevant certifications are advantageous for promotion, and advancement to partner or executive positions is possible.
+职业路径通常包括咨询公司、企业战略团队和专业研究机构；MBA或相关认证有利于晋升，可能升任合伙人或高管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Quantitative data analysis
-- Financial statement pattern diagnosis
-- Basic management report writing
+- 定量数据分析
+- 财务报表模式诊断
+- 基础管理报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Management scenario simulation
-- Customer-tailored strategic proposals
-- Data-driven insight extraction
+- 管理场景模拟
+- 客户定制战略提案
+- 数据驱动的洞察提取
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic intuition
-- Building customer trust
-- Organizational change management
+- 战略直觉
+- 建立客户信任
+- 组织变革管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI analysis tools
-- Data visualization
-- Business model innovation
+- 利用AI分析工具
+- 数据可视化
+- 商业模式创新
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital management diagnosis
-- ESG consulting
-- M&A strategy
-- Startup growth consulting
+- 数字化管理诊断
+- ESG咨询
+- 并购策略
+- 初创企业增长咨询
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable as professional management consultant (experience required) |
-| Subclass F-2 (Residence) | Long-term residence possible based on points, period of stay, etc. |
-| Subclass F-5 (Permanent Residence) | Can acquire permanent residence after a certain period of residence |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People adept at data analysis and strategic thinking
-- People who enjoy objective and logical problem-solving
-- People who can collaborate in a team under high stress
+- 擅长数据分析和战略思维的人
+- 喜欢客观逻辑解决问题的人
+- 能在高压下团队协作的人
 
 **谁不适合**
-- People who prefer repetitive and routine tasks
-- People who are reluctant to interact with others face-to-face
+- 喜欢重复和常规任务的人
+- 不愿与人面对面交流的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a management diagnosis expert?**
-答：For entry level, it's around 40-50 million KRW, and it can be higher for strategy teams at large corporations.
+**问：管理诊断专家的起薪是多少？**
+答：入门级约4000-5000万韩元，大型企业战略团队可能更高。
 
-**问：Is this job suitable as an immigration pathway?**
-答：Employment is possible with an E-7 visa, but it is closer to professional immigration rather than skilled worker immigration. Permanent residency is also possible, but competition exists.
+**问：这个职位适合作为移民途径吗？**
+答：E-7签证可就业，但更接近专业移民而非技术工人移民。也可获得永久居留，但存在竞争。
 
-**问：What are the required educational qualifications?**
-答：Typically, a bachelor's degree in business administration or higher is required, and an MBA is advantageous. A management consultant certification is also helpful in practice.
+**问：需要哪些教育资格？**
+答：通常需要工商管理或更高学历的学士学位，MBA具有优势。管理咨询认证在实践中也很有帮助。
 
 
 ---
@@ -146,12 +136,12 @@ Career paths typically include consulting firms, corporate strategy teams, and s
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/management-diagnostic-expert/KR)**

@@ -1,8 +1,8 @@
-# Woodworking Machine Operator 职业分析 · 韩国
+# 木工机械操作员（Woodworking Machine Operator）职业分析 · 韩国
 
-**职业代码: 88211 (KECO)**
+**职业代码：88211 (KECO)**
 
-Operates woodworking machines such as saws, planers, and sanders to process logs into boards, lumber, and plywood as a production worker.
+操作锯床、刨床、砂光机等木工机器，将原木加工成板材、木材和胶合板的生产工人。
 
 
 ---
@@ -11,8 +11,8 @@ Operates woodworking machines such as saws, planers, and sanders to process logs
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Free (compulsory education)） |
-| College (Woodworking/Forestry) | 2 年 | $6,000,000~$10,000,000（Tuition and textbook fees included） |
+| 高中文凭 | 3年 | $0~$0（免费（义务教育）） |
+| 大学（木工/林业） | 2 年 | $6,000,000~$10,000,000（学费和教材费包含） |
 
 ---
 
@@ -20,17 +20,17 @@ Operates woodworking machines such as saws, planers, and sanders to process logs
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Woodworking Technician (목재가공기능사) | Human Resources Development Service of Korea (HRDK) | 可选 | Not required but advantageous for employment |
-| Woodworking Industrial Engineer (목재가공산업기사) | Human Resources Development Service of Korea (HRDK) | 可选 | Advantageous for promotion and managerial positions |
+| 木材加工技师（목재가공기능사） | 韩国人力资源开发服务局（HRDK） | 可选 | 不必须，但对就业有利 |
+| 木材加工产业技师（목재가공산업기사） | 韩国人力资源开发服务局（HRDK） | 可选 | 有助于晋升和管理职位 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. Domestic woodworking industry employment is stagnant due to automation and increased reliance on imports, but skilled labor demand persists driven by construction and furniture needs, and an aging workforce creates replacement hiring opportunities.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。国内木工行业因自动化和进口依赖增加而就业停滞，但建筑和家具需求推动技能劳动力需求，老龄化劳动力创造替代招聘机会。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ Operates woodworking machines such as saws, planers, and sanders to process logs
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $25,000,000~$30,000,000 | Pre-tax annual salary; starting pay varies by company size |
-| 中级(3-7年) | $30,000,000~$38,000,000 | Increases with skill level and certifications |
-| 高级（7年以上） | $38,000,000~$45,000,000 | Team leader level; CNC specialist operators may earn more |
+| 入门级（0-3年） | $25,000,000~$30,000,000 | 税前年薪；起薪因公司规模而异 |
+| 中级(3-7年) | $30,000,000~$38,000,000 | 随技能水平和认证增加 |
+| 高级（7年以上） | $38,000,000~$45,000,000 | 团队领导级别；CNC专业操作员可能收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
-AI and automation can replace some simple processes like sawing and planing, but fine adjustments and quality inspections based on wood characteristics require human experience, making complete replacement difficult. With the introduction of CNC, the value of skill may actually increase.
+AI和自动化可以取代锯切、刨平等简单工序，但基于木材特性的精细调整和质量检查需要人的经验，因此完全取代困难。随着CNC的引入，技能的价值可能反而增加。
 
-Starting as an entry-level operator, you can advance to team leader or site manager after acquiring skills; additional training in high-end equipment like CNC can improve pay and career prospects.
+从初级操作员起步，掌握技能后可晋升为组长或现场经理；额外培训如CNC高端设备可提高薪资和职业前景。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Cutting timber to size
-- Simple planing and polishing work
-- Manual dimension measurement and classification
+- 按尺寸切割木材
+- 简单的刨平打磨工作
+- 手动尺寸测量与分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- CNC Machining Path Design
-- Automation equipment monitoring and anomaly detection
-- Wood quality inspection and defect detection
+- CNC加工路径设计
+- 自动化设备监控与异常检测
+- 木材质量检测与缺陷识别
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensibility and experience to judge wood grain and texture
-- On-site response and repair capabilities for machine breakdowns
-- Flexible response in high-mix, low-volume production
+- 判断木纹和纹理的感知力和经验
+- 机器故障的现场响应和维修能力
+- 多品种小批量生产中的灵活应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC Woodworking Machine Operation
-- Basic maintenance of automation equipment
-- Wood processing related software (e.g., CAD/CAM)
+- CNC木工机械操作
+- 自动化设备的基础维护
+- 木材加工相关软件（如CAD/CAM）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Wood Processing Automation
-- CNC Woodworking Machine
-- Demand for eco-friendly timber
-- Architecture Interior Timber
+- 木材加工自动化
+- CNC木工机床
+- 对环保木材的需求
+- 建筑室内木工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | For unskilled foreign workers; can work in woodworking companies under the Employment Permit System |
-| Subclass E-7 (E-7 (Specific Activities)) | Issued for skilled workers with advanced skills such as CNC |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based long-term residence after a certain period |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and patient with repetitive tasks
-- People with a sense of machine operation and repair
-- Healthy people who can withstand outdoor and dusty environments
+- 注重细节且对重复性工作有耐心的人
+- 有机器操作和维修感觉的人
+- 身体健康、能适应户外和灰尘环境的人
 
 **谁不适合**
-- People with wood dust allergies or respiratory diseases
-- People who find simple labor tedious and prefer creative work
+- 有木尘过敏或呼吸道疾病的人
+- 觉得简单劳动乏味、喜欢创造性工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a woodworking machine operator?**
-答：Approximately 25-30 million KRW pre-tax for beginners, and over 40 million KRW for 7+ years of experience.
+**问：木工机械操作员的平均工资是多少？**
+答：初学者税前约2500-3000万韩元，7年以上经验者超过4000万韩元。
 
-**问：Can foreigners get a job in Korea in this occupation?**
-答：Yes, through the Employment Permit System with an E-9 (Non-professional Employment) visa, or with advanced skills such as CNC, an E-7 (Specific Activities) visa is also possible.
+**问：外国人能在这个职业找到韩国的工作吗？**
+答：是，通过就业许可系统持E-9（非专业就业）签证，或具备CNC等高级技能也可持E-7（特定活动）签证。
 
-**问：Are there any educational requirements or certifications needed for this job?**
-答：High school graduation or above is sufficient, and a woodworking technician certificate is advantageous. Graduation from a related college department helps with promotion.
+**问：这项工作是否需要教育要求或认证？**
+答：高中及以上学历即可，持有木工技术员证书有优势。相关大学院系毕业有助于晋升。
 
 
 ---
@@ -141,12 +134,12 @@ Starting as an entry-level operator, you can advance to team leader or site mana
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/woodworking-machine-operator/KR)**

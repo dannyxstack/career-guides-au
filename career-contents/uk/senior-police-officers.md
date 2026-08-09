@@ -53,8 +53,6 @@ Senior police officers plan, organize, direct, and coordinate police resources a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Senior police officers' decision-making, ethical judgment, and public trust responsibilities are difficult to automate, but tasks such as data analysis and report generation will be significantly enhanced by AI; overall impact is mixed.
-
 Promotion path typically starts as a police constable, progressing through assessments to sergeant, inspector, superintendent, chief superintendent, and ultimately senior police officer level. Requires extensive policing experience and leadership skills.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Promotion path typically starts as a police constable, progressing through asses
 | Subclass Skilled Worker (Skilled Worker) | Theoretically possible, but actual employers (police departments) rarely offer sponsorship due to Department of Home Affairs restrictions. |
 | Subclass Global Talent (Global Talent) | Not applicable, as this occupation does not fall under fields such as arts or science. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Extremely difficult. This position usually requires British citizenship or in
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/senior-police-officers/UK)**

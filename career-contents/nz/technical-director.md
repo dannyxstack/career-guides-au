@@ -52,8 +52,6 @@ The Technical Director (Film/TV/Stage) in New Zealand oversees technical product
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of arts officers, producers, and directors will undergo profound AI-driven changes: low-level coordination and simple editing are automated, but core skills like creative decision-making, resource integration, and actor direction become more valuable due to AI tools. Entry pathways narrow; existing professionals need to transition into AI curators.
-
 Junior technicians can advance to department head (e.g. lighting director), then to technical director. Technical directors can further develop into production manager or project director, or start a technical consulting company.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior technicians can advance to department head (e.g. lighting director), then
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Technical Director is on Green List Tier 2. After working in this occupation for 2 years, you can apply for residency, requiring salary at 1.5 times the median (approx. NZD 44.49/hour). |
 | Subclass AEWV (Accredited Employer Work Visa) | Must be sponsored by an approved employer; can apply for residency after 3 years, salary must meet median wage. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Competition is moderate, mainly depending on experience and portfolio. Auckla
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-director/NZ)**

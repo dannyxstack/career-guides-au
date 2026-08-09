@@ -53,8 +53,6 @@ Waste disposal and environmental services managers plan, organize, direct, coord
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In waste disposal and environmental services manager roles, administrative and compliance reporting parts are easily compressed by AI, but tasks requiring human judgment—such as on-site decisions, regulatory interpretation, and stakeholder coordination—are enhanced by AI tools.
-
 Usually starts in waste management or environmental science, gaining operational management experience before promotion. Can progress to regional operations director, environmental policy advisor, or sustainability director, with some moving into senior management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Usually starts in waste management or environmental science, gaining operational
 | Subclass Global Talent (Global Talent visa) | Suitable for outstanding talents in environmental science; no employer sponsorship required. |
 | Subclass Graduate (Graduate visa) | Applicable to UK graduates, can work for 2 years (3 years for PhD), then switch to work visa after gaining experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance from operations manager to regional director, environmental polic
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-disposal-and-environmental-services-managers/UK)**

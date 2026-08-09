@@ -56,8 +56,6 @@ A Contract Administrator is responsible for drafting, negotiating, executing and
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Core tasks of contract administrators (drafting, reviewing, compliance monitoring) are gradually being replaced by AI text generation and review tools, but complex negotiations, legal judgment, and project management responsibilities still rely on humans, leading to increased competition for entry-level roles while senior roles gain value.
-
 Contract Lifecycle Management (CLM) platforms (such as Ironclad/Agiloft) are becoming widespread, but contract negotiation and risk clause assessment remain core human skills. Contract administrators with a legal background command a notable salary premium.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Contract Lifecycle Management (CLM) platforms (such as Ironclad/Agiloft) are bec
 | Subclass 189 (Skilled Independent) | Points-tested independent migration |
 | Subclass 190 (Skilled Nominated) | State nomination adds 5 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -166,12 +162,13 @@ A: Not necessarily. Business, engineering and construction management degrees ar
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contract-administrator/AU)**

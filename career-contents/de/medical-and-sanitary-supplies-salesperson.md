@@ -53,8 +53,6 @@ Responsible for selling medical and hygiene products (e.g., wheelchairs, hospita
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will reshape the work of technical and scientific products wholesale sales representatives, automating tasks like data queries and document organization, but enhancing customer analysis and presentation preparation. Entry-level competition intensifies, but demand for senior sales talent remains strong
-
 Can advance from entry-level salesperson to regional manager or product specialist; by pursuing further education and obtaining medical technology consultant certification, can transition to technical sales or procurement management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Can advance from entry-level salesperson to regional manager or product speciali
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German employer contract and have vocational training certification recognized |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking visa, new policy in 2024 |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to regional sales manager, product specialist, or move into procu
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-and-sanitary-supplies-salesperson/DE)**

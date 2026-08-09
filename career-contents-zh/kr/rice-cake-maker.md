@@ -1,10 +1,8 @@
-# Rice Cake Maker 职业分析 · 韩国
+# 年糕制作工（Rice Cake Maker）职业分析 · 韩国
 
-**职业代码: 87121 (KECO)**
+**职业代码：87121 (KECO)**
 
-A professional who makes rice cakes by kneading rice flour and steaming or baking them in various ways, producing both traditional and modern rice cakes.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+通过揉捏米粉并以各种方式蒸或烤制作年糕的专业人士，生产传统和现代年糕。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who makes rice cakes by kneading rice flour and steaming or bakin
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 无 | $0~$0（无需正式学历） |
-| Vocational training (e.g., at Korea Polytechnics) | 6 months | $500,000~$2,000,000（Training costs may be subsidized） |
+| 高中毕业 | 无 | $0~$0（无需正式学历） |
+| 职业培训（如韩国理工学院） | 6个月 | $500,000~$2,000,000（培训费用可能获得补贴） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who makes rice cakes by kneading rice flour and steaming or bakin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Craft Rice Cake Maker | Human Resources Development Service of Korea | 可选 | National technical qualification, requires 1 year of practical experience |
-| Cook (Korean Food) | Human Resources Development Service of Korea | 可选 | Preferred but not required |
+| 手工年糕师傅 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，需1年实践经验 |
+| 韩餐厨师 | 韩国人力资源开发服务局 | 可选 | 优先考虑但非必需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Due to a decrease in per capita rice consumption and a preference for convenient foods, mass production demand is declining, but demand for premium and traditional rice cakes persists, so employment is expected to remain stable.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。由于人均大米消费量下降和对方便食品的偏好，量产需求下降，但优质和传统年糕需求持续，因此就业预计保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,89 +38,81 @@ A professional who makes rice cakes by kneading rice flour and steaming or bakin
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $22,000,000~$28,000,000 | Based on small and medium-sized enterprises |
-| Intermediate (3–7 years) | $28,000,000~$35,000,000 | Varies by skill level |
-| Advanced (7+ years) | $35,000,000~$45,000,000 | Managerial or owner |
+| Beginner (0–3 years) | $22,000,000~$28,000,000 | 基于中小企业 |
+| 中级（3-7年） | $28,000,000~$35,000,000 | 因技能水平而异 |
+| 高级（7年以上） | $35,000,000~$45,000,000 | 管理或所有者 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in dough mixing or baking temperature control, but handmade rice cakes using hand techniques and traditional methods are difficult to fully replace with AI, so the impact is minimal.
+AI可以帮助面团搅拌或烘焙温度控制，但使用手工技术和传统方法制作的年糕难以完全被AI替代，因此影响很小。
 
-Typically, they start at small bakeries or rice cake shops, gain experience, then start their own business or get promoted to a production line manager at a large food company.
+通常，他们在小面包店或年糕店开始工作，积累经验，然后创业或晋升为大型食品公司的生产线经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Measuring Tasks
-- Shaping into Consistent Forms
+- 简单测量任务
+- 成型为一致形状
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Recipe Optimization
-- Quality Inspection Automation
-- Production Schedule Management
+- 配方优化
+- 质量检验自动化
+- 生产进度管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Ability to Control Taste and Texture
-- Traditional Manufacturing Skills
-- Customer-tailored Product Development
+- 控制口味和质地的能力
+- 传统制造业技能
+- 客户定制产品开发
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Traditional Rice Cake Making Know-how
-- New Product Development Skills
-- Knowledge of Hygiene Management
+- 传统年糕制作技艺
+- 新产品开发技能
+- 卫生管理知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Traditional rice cakes
-- Premium desserts
-- Home Meal Replacement
-- Cafe Dessert
+- 传统米糕
+- 优质甜品
+- 家庭替代餐
+- 咖啡馆甜点
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Employment contract possible but limited outside manufacturing |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans (including Chinese-Korean) can work in rice cake manufacturing |
-| Subclass H-2 (Working Visit (H-2)) | Working Visit Koreans can engage in unskilled labor |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with manual dexterity and attention to detail
-- People interested in traditional food
-- People who are early risers
+- 手巧且注重细节的人
+- 对传统食品感兴趣的人
+- 早起的人
 
 **谁不适合**
 - 不喜重复性工作的人
-- People who want a high salary
+- 追求高薪的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a rice cake maker?**
-答：Entry-level approximately 22 to 28 million KRW; senior with 7+ years experience up to 35 to 45 million KRW.
+**问：年糕制作师的平均工资是多少？**
+答：入门级约2200万至2800万韩元；7年以上经验高级职位的3500万至4500万韩元。
 
-**问：Can foreigners work as rice cake makers?**
-答：Partially possible with E-9 visa, but limited to manufacturing; overseas Koreans (F-4/H-2) have relatively easier employment.
+**问：外国人可以做年糕师傅吗？**
+答：持有E-9签证部分可行，但仅限于制造业；海外韩裔（F-4/H-2）就业相对容易。
 
 
 ---
@@ -140,12 +130,12 @@ Typically, they start at small bakeries or rice cake shops, gain experience, the
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rice-cake-maker/KR)**

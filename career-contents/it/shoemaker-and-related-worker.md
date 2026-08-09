@@ -4,8 +4,6 @@
 
 Shoemakers and related workers manufacture, repair, and modify footwear products by hand or machine, holding an important position in Italy's traditional shoemaking industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Shoemakers and related workers manufacture, repair, and modify footwear products
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Shoe makers face dual impacts from automation and AI; repetitive manual tasks and machine operations are at high risk of replacement, but in custom workshops, design, repair, and client communication skills are amplified by AI, showing a polarized industry.
-
 Start as an apprentice, progress to senior shoemaker or workshop supervisor; experienced individuals can set up their own custom workshops or become technical consultants for luxury brands.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Start as an apprentice, progress to senior shoemaker or workshop supervisor; exp
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU citizens applying for an Italian work visa through annual quotas, requiring employer sponsorship. Shoemakers are not on the high-skilled list, making competition fierce. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled workers, but shoemakers usually do not meet the salary threshold (annual income must be above approximately 24,000 euros). |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Start as apprentice or junior tradesperson, advance to senior craftsman, work
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaker-and-related-worker/IT)**

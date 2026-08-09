@@ -55,8 +55,6 @@ Directly supervise and coordinate police activities, ensure law enforcement acti
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will optimize scheduling and paperwork, but frontline command and discretionary decisions still rely on human experience, with both risks and opportunities.
-
 Usually promoted from police officer, requiring several years to over a decade of experience; can advance to senior management roles such as sergeant, deputy chief, or transition to federal law enforcement agencies.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Usually promoted from police officer, requiring several years to over a decade o
 | Subclass H-1B (H-1B Specialty Occupations) | Usually not applicable, as the occupation is typically non-professional |
 | Subclass Green Card (PERM) (PERM Labor Certification) | In rare cases, employer may sponsor through PERM but must prove inability to find qualified US workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Very limited. Usually requires US citizenship; foreign nationals almost impos
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-police-and-detectives/US)**

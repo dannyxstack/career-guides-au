@@ -4,8 +4,6 @@
 
 A professional research role that applies mathematical and statistical principles to perform data analysis, modeling, and forecasting, supporting decision-making in industry and academia.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional research role that applies mathematical and statistical principle
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While automation is underway in AI model development and statistical analysis, the advanced reasoning and domain knowledge of researchers remain important. Simple statistical tasks are being replaced, but complex interpretation and decision-making still require human roles.
-
 After a master's/doctoral degree, join a research institute or corporate R&D department; career progression from senior researcher to principal researcher to lab director, or become a university professor or data analysis expert.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ After a master's/doctoral degree, join a research institute or corporate R&D dep
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Master's degree or higher and related experience required; eligible for employment at research institutions |
-| Subclass D-10 (Job-seeking) | Job-Seeking Visa for Master's or Higher Degree Holders |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +133,12 @@ A: Usually a master's degree or higher; a bachelor's degree may allow some entry
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematics-and-statistics-research-scientist/KR)**

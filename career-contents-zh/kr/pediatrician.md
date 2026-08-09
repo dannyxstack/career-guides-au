@@ -1,10 +1,8 @@
-# Pediatrician 职业分析 · 韩国
+# 儿科医生（Pediatrician）职业分析 · 韩国
 
-**职业代码: 30118 (KECO)**
+**职业代码：30118 (KECO)**
 
-A medical specialist who diagnoses and treats diseases from infancy through adolescence, and manages growth, development, and vaccinations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+从婴儿期到青春期诊断和治疗疾病的医学专家，并管理生长、发育和疫苗接种。
 
 
 ---
@@ -13,8 +11,8 @@ A medical specialist who diagnoses and treats diseases from infancy through adol
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Medical School (Pre-med + Main Course) | 6年 | $40,000,000~$80,000,000（Differences between national and private schools; scholarships and student loans available） |
-| Internship and Residency | 4年 | $0~$0（Salary received during training; no separate tuition fees） |
+| 医学院（预科+主修课程） | 6年 | $40,000,000~$80,000,000（国立与私立学校的差异；提供奖学金和学生贷款） |
+| 实习和住院医师 | 4年 | $0~$0（培训期间有薪资；无需单独学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A medical specialist who diagnoses and treats diseases from infancy through adol
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Must pass the national exam after medical school graduation |
-| Pediatric Specialist Certification | Korean Medical Association / Korean Pediatric Society | 必备 | Pass the specialist exam after residency training |
+| 行医执照 | 保健福祉部 | 必备 | 医学院毕业后必须通过国家考试 |
+| 儿科专科认证 | 大韩医学会/大韩小儿科学会 | 必备 | 专科培训后通过专科医师考试 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. Due to declining birth rates, the pediatric population is shrinking, reducing demand for pediatricians; however, as essential medical care, regional supply imbalances and avoidance of residency training leave shortages in some areas.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。由于出生率下降，儿科人口萎缩，对儿科医生的需求减少；但作为基本医疗，地区供应不均和规避住院医师培训导致部分地区短缺。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -40,92 +38,86 @@ A medical specialist who diagnoses and treats diseases from infancy through adol
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (Resident) | $50,000,000~$70,000,000 | Varies by training hospital and year |
-| Mid-level (5–10 years as specialist) | $99,999,999 | Varies greatly by clinic/hospital practice type |
-| Advanced (15+ years, clinic owner) | $99,999,999 | Varies by practice field, region, and patient volume |
+| 入门级（居民） | $50,000,000~$70,000,000 | 因培训医院和年份而异 |
+| 中级（作为专家5-10年） | $99,999,999 | 因诊所/医院实践类型差异很大 |
+| 高级（15年以上，诊所所有者） | $99,999,999 | 因执业领域、地区和患者数量而异 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI supports pediatric care by aiding in image interpretation, diagnostic assistance, and drug dosage calculation, enhancing physicians' capabilities, but patient-guardian interviews, empathy, and comprehensive clinical judgment remain uniquely human domains.
+AI通过图像解读、诊断辅助和药物剂量计算助力儿科护理，提升医生能力，但患者家属访谈、共情和综合临床判断仍属人类专属领域。
 
-After graduating from medical school, complete a 4-year internship and residency to become a pediatric specialist; then typically open a clinic, work at a hospital, or pursue a teaching/research path at a university.
+医学院毕业后，完成4年的实习和住院医师培训成为儿科专家；之后通常开设诊所、在医院工作或走大学的教学/研究路线。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Partial simple image reading and test result interpretation
-- Automated prescription writing and review
-- Medical questionnaire analysis and patient triage
+- 部分简单的图像读取和测试结果解读
+- 自动处方撰写和审核
+- 医疗问卷分析和患者分诊
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted reading for improved diagnostic accuracy
-- Growth and development tracking and monitoring
-- Automated drug dosage and interaction review
+- AI辅助阅读提高诊断准确性
+- 成长与发展跟踪监控
+- 自动化药物剂量和相互作用审查
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust and empathy with patients and guardians
-- Integrated clinical judgment for rare and complex diseases
-- Immediate decision-making in emergency and critical care
+- 与患者和监护人的信任和同理心
+- 针对罕见和复杂疾病的综合临床判断
+- 急诊和危重护理中的即时决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Proficiency in AI diagnostic assistance tools
-- Data literacy and understanding of medical big data
-- Communication and empathy skills
-- Clinical research and publication capabilities
+- 熟练使用AI诊断辅助工具
+- 数据素养与医疗大数据理解
+- 沟通和共情能力
+- 临床研究和发表能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Low birth rate
-- Essential medical care
-- Regional medical disparities
-- Avoidance of residency training
+- 低出生率
+- 基本医疗护理
+- 地区医疗差异
+- 避免住院培训
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if a foreign doctor is invited to a domestic medical institution for treatment/research, but very limited |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★★）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy communicating with children and have patience
-- People with a strong will to learn medical knowledge and a sense of responsibility
-- People who can endure high-intensity work such as night shifts and on-call duties
+- 喜欢与儿童交流且有耐心的人
+- 有强烈学习医学知识意愿和责任心的人
+- 能承受夜班和随叫随到等高强度工作的人
 
 **谁不适合**
-- People weak to interpersonal stress
-- People who want stable working hours and lifestyle
+- 不擅长处理人际压力的人
+- 希望稳定工作时间和生活方式的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a pediatrician?**
-答：Specialists average about 150-200 million KRW, but private practitioners may earn more; residents earn about 50-70 million KRW annually.
+**问：儿科医生的平均年薪是多少？**
+答：专家平均约1.5-2亿韩元，但私人执业者可能更高；住院医师约5000-7000万韩元。
 
-**问：Can foreign doctors work as pediatric specialists in Korea?**
-答：Very limited. Possible with general employment visa (E-7), but requires Korean medical license and specialist certification; practically difficult.
+**问：外国医生能否在韩国担任儿科专家？**
+答：非常有限。可通过普通就业签证（E-7）申请，但需要韩国医疗执照和专科认证；实际上很困难。
 
-**问：How long does it take to become a pediatric specialist?**
-答：Medical school 6 years, internship 1 year, residency 3 years; at least 10 years total.
+**问：成为儿科专家需要多长时间？**
+答：医学院6年，实习1年，住院医师3年；总共至少10年。
 
 
 ---
@@ -143,12 +135,12 @@ After graduating from medical school, complete a 4-year internship and residency
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★★） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/pediatrician/KR)**

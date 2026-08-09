@@ -53,8 +53,6 @@ Develop policies and strategic direction for a company or organization, oversee 
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies rather than replaces the CEO role; automation is moderate, but strategic decision-making and leadership responsibilities create a high moat. Entry-level position compression is not significant; AI can enhance data analysis and efficiency.
-
 Typically promoted from department manager, vice president, etc., requiring years of management experience and industry connections. Some CEOs advance through entrepreneurship or internal competition; continuing executive education helps career development.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically promoted from department manager, vice president, etc., requiring year
 | Subclass L-1A (L-1A Intracompany Transferee (Manager/Executive)) | Multinational executive transfer, suitable for relocation from overseas branch to US headquarters |
 | Subclass EB-1C (EB-1C Multinational Manager/Executive) | Green card pathway, requiring at least one year in the past three as an executive in an overseas affiliated company |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Direct H-1B application is difficult; mostly via L-1A intracompany manager tr
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chief-executives/US)**

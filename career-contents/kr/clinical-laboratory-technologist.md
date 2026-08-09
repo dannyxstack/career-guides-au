@@ -4,8 +4,6 @@
 
 A medical technologist who analyzes human specimens such as blood, urine, and tissues to help diagnose diseases and determine their causes.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A medical technologist who analyzes human specimens such as blood, urine, and ti
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation can replace repetitive testing tasks of clinical pathologists, but result interpretation, abnormal finding identification, and high-quality specimen management still require human expertise. AI enhances work efficiency but cannot fully replace humans.
-
 After graduating from college, one must pass the national exam for clinical laboratory technologists. Entry-level positions involve working in a hospital lab. With 5-10 years of experience, one can advance to chief or team leader, or pursue graduate studies to transition into research or education.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ After graduating from college, one must pass the national exam for clinical labo
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available to those with a medical technologist license employed at a domestic medical institution. Eligible for E-7-4 skilled worker visa conversion. |
-| Subclass F-2 (F-2 (Residence)) | After a certain period under E-7, may convert to F-5 (Permanent Residence) upon meeting income requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: After graduating from a 3-year junior college or 4-year university with a maj
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clinical-laboratory-technologist/KR)**

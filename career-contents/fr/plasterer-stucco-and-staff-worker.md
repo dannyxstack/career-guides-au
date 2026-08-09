@@ -4,8 +4,6 @@
 
 This profession involves applying plaster, plaster, and mortar to the interior and exterior surfaces of buildings, performing decorative plaster crafts (such as cornices and rose decorations), and restoring historic buildings. It requires meticulous craftsmanship and a certain artistic vision.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ This profession involves applying plaster, plaster, and mortar to the interior a
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This occupation is significantly impacted by AI automation; indoor plastering robots have begun replacing repetitive tasks, entry-level positions are narrowing, but advanced manual skills and on-site adaptability still hold value.
-
 You can grow from an apprentice to a skilled worker, and then be promoted to foreman or project manager. After gaining experience, you can also establish your own small business, undertaking private residential and commercial projects.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can grow from an apprentice to a skilled worker, and then be promoted to for
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Work residence employed by a French employer requires employer sponsorship and a labor permit (e.g., simplified through the Shortage Occupation List). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled or high-tech talents, procedures can be simplified, but not for ordinary technicians. |
-| Subclass Freelancer (Profession Libérale) | Self-employment or establishing a company requires proof of business plans and financial strength. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Yes, usually a CAP or equivalent qualification is required. Foreign qualifica
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterer-stucco-and-staff-worker/FR)**

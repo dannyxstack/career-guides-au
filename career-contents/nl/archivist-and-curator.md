@@ -4,8 +4,6 @@
 
 Responsible for collection management, preservation, research, and exhibition planning in archives, museums, and galleries.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for collection management, preservation, research, and exhibition pl
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly change the work of archivists and curators: automating metadata extraction, cataloging, and digital preservation, but curatorial narrative, collection interpretation, and ethical judgment still rely on humans.
-
 Can be promoted from assistant curator to department head or museum director. Usually requires a master's degree and internship experience; continuing education enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can be promoted from assistant curator to department head or museum director. Us
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to professionals who have a job offer from a Dutch employer and meet the salary threshold, must have a degree |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly educated non-EU citizens, requiring an employer and a relatively high salary. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | Graduates from top 200 universities in the Netherlands or globally can apply; flexible job-seeking period |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Universities such as the University of Amsterdam (UvA), Leiden University, an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivist-and-curator/NL)**

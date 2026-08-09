@@ -1,10 +1,8 @@
-# Railroad and Subway Transport Clerk 职业分析 · 韩国
+# 铁路及地铁运输文员（Railroad and Subway Transport Clerk）职业分析 · 韩国
 
-**职业代码: 02822 (KECO)**
+**职业代码：02822 (KECO)**
 
-Office worker who establishes train operation plans, arranges crew assignments, and manages overall railroad and subway transportation operations
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+制定列车运行计划、安排乘务员、管理铁路和地铁运输运营的办公室工作人员
 
 
 ---
@@ -13,9 +11,9 @@ Office worker who establishes train operation plans, arranges crew assignments, 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduate | 0年 | $0~$0（High school graduates can apply, but college graduates preferred） |
-| 副学士学位 | 2 年 | $8,000,000~$12,000,000（Railroad-related majors advantageous） |
-| 本科（学士学位） | 4年 | $18,000,000~$25,000,000（Transportation or administration majors at general universities） |
+| 高中毕业 | 0年 | $0~$0（高中毕业生可申请，但优先考虑大学毕业生） |
+| 副学士学位 | 2 年 | $8,000,000~$12,000,000（铁路相关专业优先） |
+| 本科（学士学位） | 4年 | $18,000,000~$25,000,000（普通大学的交通或行政管理专业） |
 
 ---
 
@@ -23,18 +21,18 @@ Office worker who establishes train operation plans, arranges crew assignments, 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Class 1 Driver's License | National Police Agency | 必备 | 部分职位需要 |
-| Railroad Traffic Manager | Korea Railroad Association | 可选 | Not mandatory but bonus points given |
-| Computer Proficiency | Korea Chamber of Commerce and Industry | 可选 | Advantageous for office work |
+| 一级驾驶证 | 国家警察厅 | 必备 | 部分职位需要 |
+| 铁路交通调度员 | 韩国铁路协会 | 可选 | 非强制性但给予加分 |
+| 计算机熟练度 | 大韩商工会议所 | 可选 | 有利于办公室工作 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 18,000. Due to aging and urbanization, public transportation demand remains, but simple clerical tasks are decreasing with automation and IT systems. New hiring is mostly at replacement level for retirees.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 18,000。由于老龄化和城市化，公共交通需求仍在，但简单行政工作因自动化和IT系统而减少。新招聘多仅为补充退休人员。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ Office worker who establishes train operation plans, arranges crew assignments, 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-4 years) | $32,000,000~$42,000,000 | Korail entry-level grade 6: approx. 35 million KRW |
-| Mid-Level (5-14 years) | $44,000,000~$58,000,000 | Assistant Manager~Manager Level |
-| 高级（15年以上） | $60,000,000~$80,000,000 | Deputy General Manager·General Manager Level |
+| 入门级（0-4年） | $32,000,000~$42,000,000 | 韩国铁路初级6级：约3500万韩元 |
+| 中级（5-14年） | $44,000,000~$58,000,000 | 助理经理~经理级别 |
+| 高级（15年以上） | $60,000,000~$80,000,000 | 副总经理·总经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation systems (e.g., AI-based train schedulers) are replacing manual tasks of clerks, reducing hiring scale. Non-routine tasks requiring human judgment (e.g., handling emergencies) remain but their overall share is decreasing.
+AI和自动化系统（如基于AI的列车调度员）正在取代文员的重复性任务，减少招聘规模。需要人类判断的非例行任务（如处理紧急情况）仍然存在，但其整体份额正在减少。
 
-Employment in public enterprises like Korea Railroad Corporation (Korail) or Seoul Metro is typical. Promotion to assistant manager in 5-7 years, manager in 10-15 years, then deputy manager/department head. Internal exams and performance evaluations are considered.
+在韩国铁道公社（Korail）或首尔地铁等公共企业就业是典型情况。晋升至助理经理需5-7年，经理需10-15年，随后是副经理/部门主管。考虑内部考试和绩效评估。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Train schedule preparation
-- Crew assignment management
-- Train running log recording
+- 列车时刻表编制
+- 船员调配管理
+- 列车运行记录记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Real-time operation monitoring
-- Emergency response decision-making
-- Data-driven optimization proposals
+- 实时运行监控
+- 应急响应决策
+- 数据驱动优化提案
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency situation judgment
-- Internal consultation and coordination
-- Regulation interpretation and application
+- 紧急情况判断
+- 内部咨询与协调
+- 法规解读与应用
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI tool utilization
-- Communication and collaboration
+- 数据分析
+- 人工智能工具运用
+- 沟通与协作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Stable public corporation
-- Fourth industrial revolution
-- Automation
-- Public transportation
+- 稳定的公共企业
+- 第四次工业革命
+- 自动化
+- 公共交通
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Professional or semi-professional fields; railway transport clerks have low possibility |
-| Subclass F-2 (Residence) | Employment possible as long-term residents, but competition is fierce |
-| Subclass F-4 (Overseas Koreans) | Overseas Koreans can also find employment, but public corporation recruitment is virtually limited to locals |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and rule-abiding individuals
-- People who prefer stable public corporations
-- People interested in public transportation systems
+- 注重细节、遵守规则的人
+- 偏好稳定国营企业的人
+- 对公共交通系统感兴趣的人
 
 **谁不适合**
-- People seeking change and innovation
-- People who find repetitive office work boring
+- 寻求变革与创新的人
+- 觉得重复性办公室工作无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a railway transportation clerk?**
-答：Based on public corporation standards, the starting annual salary is about 32-42 million KRW, and with performance bonuses, it can exceed 40 million KRW.
+**问：铁路运输文员的起薪是多少？**
+答：按公营企业标准，起薪约3200-4200万韩元，含绩效奖金可超4000万韩元。
 
-**问：Can foreigners get a job in this occupation?**
-答：Public corporation hiring is practically exclusive to Korean nationals, so it's impossible; foreigners are not eligible for E-7 visa.
+**问：外国人能否从事该职业？**
+答：公营企业招聘实际上只限韩国人，因此不可能；外国人不符合E-7签证资格。
 
-**问：Is there a required education level?**
-答：High school graduates can apply, but a college degree (associate's or higher) is advantageous, and a major in railway-related fields helps.
+**问：是否有学历要求？**
+答：高中毕业生可申请，但大学学历（大专或以上）有优势，铁路相关专业更佳。
 
 
 ---
@@ -146,12 +136,12 @@ Employment in public enterprises like Korea Railroad Corporation (Korail) or Seo
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/railroad-and-subway-transport-clerk/KR)**

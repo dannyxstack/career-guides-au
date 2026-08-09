@@ -50,8 +50,6 @@ A professional engineer who reviews the structural safety of infrastructure such
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI (generative design, optimization) automates parts of structural analysis, but final judgment and legal liability remain with human engineers, so full replacement is difficult.
-
 Junior Engineer → Mid-level (Lead Designer) → Senior (PM/Reviewer) → Professional Engineer/Executive. Moves to large engineering firms or public corporations.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Junior Engineer → Mid-level (Lead Designer) → Senior (PM/Reviewer) → Profe
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment as an engineering technician, requiring expertise |
-| Subclass D-10 (Job Seeking) | Job seeking after degree, gaining experience for E-7 conversion |
-| Subclass F-2 (Residence) | A step before permanent residence for long-term stay |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Not mandatory, but obtaining a PE greatly helps salary and promotion. Civil e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-structural-design-engineer/KR)**

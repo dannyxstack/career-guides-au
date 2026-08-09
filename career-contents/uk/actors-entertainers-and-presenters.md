@@ -50,8 +50,6 @@ Actors, entertainers and presenters entertain audiences through singing, drama, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Career usually starts in small theaters, advertisements, or supporting roles, gradually building experience and industry connections. Some actors move into directing, screenwriting, or producing; hosts can become well-known media personalities. Continuous learning and attending auditions are the norm.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Career usually starts in small theaters, advertisements, or supporting roles, gr
 | Subclass Global Talent (Global Talent Visa) | For international talents with outstanding achievements or potential in the performing arts, no employer sponsorship required |
 | Subclass Graduate (Graduate Visa) | International graduates who complete a degree in the UK can stay and work for 2 years (3 years for PhD) to gain industry experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Outlook stable but competitive. Digital content and streaming platforms have 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actors-entertainers-and-presenters/UK)**

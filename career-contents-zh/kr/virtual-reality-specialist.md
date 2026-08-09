@@ -1,10 +1,8 @@
-# Virtual Reality Specialist 职业分析 · 韩国
+# 虚拟现实专家（Virtual Reality Specialist）职业分析 · 韩国
 
-**职业代码: 13322 (KECO)**
+**职业代码：13322 (KECO)**
 
-An expert who designs and develops virtual environments using VR/AR technology and optimizes user experiences. Used in various industries such as games, education, and healthcare.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+使用VR/AR技术设计和开发虚拟环境并优化用户体验的专家。应用于游戏、教育和医疗等多个行业。
 
 
 ---
@@ -13,9 +11,9 @@ An expert who designs and develops virtual environments using VR/AR technology a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year) Computer Science/Game Engineering | 4年 | $40,000,000~$80,000,000（Average national/private tuition） |
-| Vocational school/academy VR/AR course | 2 年 | $10,000,000~$20,000,000（Government funding available） |
-| Graduate school (Master's) VR/AR related | 2 年 | $20,000,000~$40,000,000（Research-focused） |
+| 大学（四年制）计算机科学/游戏工程 | 4年 | $40,000,000~$80,000,000（全国平均/私立学费） |
+| 职业院校/学院的VR/AR课程 | 2 年 | $10,000,000~$20,000,000（可申请政府资助） |
+| 研究生院（硕士）VR/AR相关 | 2 年 | $20,000,000~$40,000,000（研究导向型） |
 
 ---
 
@@ -23,18 +21,18 @@ An expert who designs and develops virtual environments using VR/AR technology a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Not mandatory but a plus |
-| VR/AR Specialist Certification | Korea VR/AR Industry Association | 可选 | 可选 |
-| Unity/Unreal Certification | Relevant institution | 可选 | Advantageous for work |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 非强制但优先 |
+| VR/AR专家认证 | 韩国VR/AR产业协会 | 可选 | 可选 |
+| Unity/Unreal认证 | 相关机构 | 可选 | 对工作有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 4,000. With the growth of the metaverse industry, demand for VR/AR is increasing, but market volatility is high and employment is mainly centered on large corporations. Expected to grow 5-10% annually from 2023 to 2027.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 4,000。随着元宇宙行业的发展，VR/AR需求增加，但市场波动大，就业主要集中在大型企业。2023-2027年预计年增长5-10%。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,94 +40,86 @@ An expert who designs and develops virtual environments using VR/AR technology a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$45,000,000 | At SME standard |
-| 中级（4-7年） | $45,000,000~$65,000,000 | Large gap between conglomerates and startups |
-| 高级（8年+） | $65,000,000~$99,999,999 | Leadership level or above |
+| 初级 (0-3年) | $30,000,000~$45,000,000 | 符合中小企业标准 |
+| 中级（4-7年） | $45,000,000~$65,000,000 | 大型企业集团与初创企业间差距大 |
+| 高级（8年+） | $65,000,000~$99,999,999 | 领导层及以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI impacts the VR/AR field by automating content creation and optimizing user interaction, enhancing work efficiency, while the creativity and technical judgment of experts become more important.
+AI通过自动化内容创作和优化用户交互影响VR/AR领域，提升工作效率，而专家的创造力和技术判断力变得更加重要。
 
-Starting as a junior developer, can advance to senior engineer, technical lead, or CTO. Freelancing or startup founding is also common. Continuous skill updates are essential.
+从初级开发人员起步，可晋升为高级工程师、技术负责人或CTO。自由职业或创业也很常见。持续更新技能至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic 3D model creation
-- Repetitive testing
-- Simple UI layout
+- 基础3D模型创建
+- 重复性测试
+- 简单UI布局
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Content design idea generation
-- User behavior analysis
-- Real-time rendering optimization
+- 内容设计构思
+- 用户行为分析
+- 实时渲染优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative storytelling
-- User experience design
-- Complex system integration
+- 创意叙事
+- 用户体验设计
+- 复杂系统集成
 
-**需构建的技能:**
+**需构建的技能：**
 
 - AI/ML
-- Real-time graphics
-- Human-computer interaction
-- Cloud/Edge Computing
+- 实时图形
+- 人机交互
+- 云计算/边缘计算
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Metaverse
-- XR content
-- Immersive technology
-- Digital twin
+- 元宇宙
+- XR内容
+- 沉浸式技术
+- 数字孪生
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issued upon employment contract as VR specialist. Requires degree/experience. |
-| Subclass D-10 (Job seeking) | For job seeking after domestic university graduation. Can link to VR field employment. |
-| Subclass F-2 (Residence) | Point-based permanent residence. Possible for long-term stay. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in designing creative and immersive experiences
-- People who quickly learn new technologies and enjoy problem-solving
-- People with excellent teamwork and communication skills
+- 对设计创意和沉浸式体验感兴趣的人
+- 快速学习新技术并享受解决问题的人
+- 具有出色团队合作和沟通能力的人
 
 **谁不适合**
-- People who prefer repetitive and simple tasks
-- People who find it difficult to adapt to technological changes
+- 偏好重复性简单任务的人
+- 难以适应技术变革的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a virtual reality expert?**
-答：For entry-level, it's 30-45 million KRW; mid-level, 45-65 million KRW; and senior, 65 million to 100 million KRW, with a large gap between large corporations and startups.
+**问：虚拟现实专家的平均薪资是多少？**
+答：入门级薪资为3000万至4500万韩元；中级为4500万至6500万韩元；高级为6500万至1亿韩元，大型企业与初创公司之间差距较大。
 
-**问：What visa does a foreigner need to work as a VR expert in Korea?**
-答：An E-7 (Specific Activities) visa is common, requiring a bachelor's degree and at least one year of experience or relevant certifications. Domestic graduates can switch from D-10 to E-7.
+**问：外国人在韩国担任VR专家需要什么签证？**
+答：E-7（特定活动）签证常见，需学士学位及至少一年经验或相关认证。国内毕业生可从D-10转E-7。
 
-**问：What skills should one develop to grow in the VR field?**
-答：Unity/Unreal engines, 3D modeling, C#/C++ programming, and spatial computing are essential; integration with AI/ML is a future competitive edge.
+**问：在虚拟现实领域发展应培养哪些技能？**
+答：Unity/Unreal引擎、3D建模、C#/C++编程和空间计算至关重要；与AI/ML集成是未来竞争优势。
 
 
 ---
@@ -147,12 +137,12 @@ Starting as a junior developer, can advance to senior engineer, technical lead, 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/virtual-reality-specialist/KR)**

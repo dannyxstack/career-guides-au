@@ -50,8 +50,6 @@ A professional office worker who handles customs clearance procedures for import
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-With the introduction of the electronic customs clearance system (UNI-PASS) and AI-based customs analysis tools, simple document review and data entry tasks are being automated, but highly specialized areas such as FTA utilization, customs strategy formulation, and legal judgment are still handled by humans. As a result, AI will act as a tool to enhance efficiency rather than completely replacing jobs.
-
 Starting in junior office positions, one can acquire a customs broker license or build practical experience to advance to team leader or manager, with career paths in corporate logistics teams, customs agencies, or the Korea Customs Service.
 
 **Tasks most exposed to AI:**
@@ -93,16 +91,9 @@ Starting in junior office positions, one can acquire a customs broker license or
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-1)) | Issuable to trade/customs field professionals with customs broker license or experience |
-| Subclass E-9 (Non-professional Employment (E-9)) | Partially applicable only for customs support tasks, but limited due to lack of expertise |
-| Subclass F-2 (Residence (F-2-1)) | Long-term stay possible when switching to points system; customs work experience recognized |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +137,12 @@ A: A customs broker license is most advantageous, and trade English/internationa
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-administration-clerk/KR)**

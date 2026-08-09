@@ -53,8 +53,6 @@ Build full-scale or scale-accurate product models using wood, including wooden f
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Wooden model makers face mixed impacts from AI and automation: 3D modeling and CNC cutting will replace some lofting and production tasks, but high-precision, customized models and complex fixture design still rely on human craftsmanship and judgment.
-
 Start as an apprentice or junior mold maker, progress to senior mold maker, supervisor, or workshop manager. With experience, can also transition to product design, prototyping, or self-employment.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Start as an apprentice or junior mold maker, progress to senior mold maker, supe
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Outlook average. With the rise of 3D printing and CNC machines, traditional w
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/model-makers-wood/US)**

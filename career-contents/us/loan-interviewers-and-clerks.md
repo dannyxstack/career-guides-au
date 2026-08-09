@@ -53,8 +53,6 @@ Loan interviewers and clerks are responsible for interviewing loan applicants to
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Credit officers' routine data entry and preliminary assessment tasks are easily automated by AI, but complex decision-making, client communication, and risk judgment still require humans; the role has a mixed impact overall.
-
 Junior loan clerks can advance to loan interviewers, senior loan clerks, or loan officers by accumulating experience. They may also transition to credit analysis, loan approval, and other roles. Obtaining banking or finance certifications (e.g., ABA certificate) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Junior loan clerks can advance to loan interviewers, senior loan clerks, or loan
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Very difficult. This position typically does not require a bachelor's degree,
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loan-interviewers-and-clerks/US)**

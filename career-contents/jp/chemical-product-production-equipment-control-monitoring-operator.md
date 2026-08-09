@@ -51,8 +51,6 @@ Operates and monitors chemical plant equipment via control panels and monitoring
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation will streamline some monitoring/control, but experience-based judgment for anomaly detection and troubleshooting remains human roles. Overall, it's a field where tasks expand.
-
 Career path from field work to control room operator, then to operations management leader or DCS engineer. Open to individuals with manufacturing experience.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Career path from field work to control room operator, then to operations managem
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Industrial machinery manufacturing, etc.)) | Chemical-related manufacturing included in the field. Pass exam and Japanese proficiency required. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | For university/vocational school graduates engaging in technical work. Chemical plant operations management. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Chemical industry)) | Max 5 years, for technology transfer to home country. Control monitoring considered advanced skill; transition to Specified Skilled Worker common. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Chemical field added from 2023. For skilled workers, no limit on stay period. Must pass exam. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +135,12 @@ A: Even if domestic demand is flat, stable job openings are expected due to equi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-product-production-equipment-control-monitoring-operator/JP)**

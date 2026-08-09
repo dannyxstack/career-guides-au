@@ -51,8 +51,6 @@ Responsible for planning, organizing, and hosting various entertainment and cult
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The job of event and entertainment managers has mixed prospects: AI can automate administration and scheduling, but core creativity, interpersonal coordination, and on-site adaptability are hard to replace; need to proactively embrace tool upgrades.
-
 Can advance from events assistant to project manager, or specialize in specific areas like music festivals, corporate events, managing large-scale projects.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from events assistant to project manager, or specialize in specific 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Eligible via EU Blue Card or skilled worker visa; a bachelor's degree or equi
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/events-and-entertainment-manager/DE)**

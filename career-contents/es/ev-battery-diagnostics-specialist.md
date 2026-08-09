@@ -4,8 +4,6 @@
 
 Electric vehicle battery diagnostic experts are responsible for fault diagnosis of high-voltage battery packs, health condition (SoH) assessment, module repair and replacement, spanning EV after-sales, warranty, and energy storage operation and maintenance. They require high-voltage safety qualifications and diagnostic tool experience, making them a rapidly emerging technical specialist position as EV ownership increases.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Electric vehicle battery diagnostic experts are responsible for fault diagnosis 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
-
 Spain's high-voltage battery diagnostics and health assessments have become a hot topic, with OEM diagnostics and high-voltage safety experts in high demand; Diagnostic readings can be automated, but high-voltage disassembly and assessment still require manual labor.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Spain's high-voltage battery diagnostics and health assessments have become a ho
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work) | Employment residence permits are provided, mainly for technician positions |
-| Subclass Arraigo (Rooted in residence) | After long-term residence, we can establish a social/labor pathway |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -160,12 +149,12 @@ A: Independent migration is difficult. As a technician-level role, pathways are 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-battery-diagnostics-specialist/ES)**

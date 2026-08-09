@@ -52,8 +52,6 @@ Responsible for planning, directing, or coordinating an organization's compensat
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Typically progresses from HR specialist or compensation analyst to manager; further advancement to HR director or VP, or toward strategic consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically progresses from HR specialist or compensation analyst to manager; furt
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Requires bachelor's degree, via PERM, long waiting period. |
 | Subclass Green Card (PERM) (Permanent Residence through PERM) | Employer-sponsored green card process, requiring proof that no US worker is available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but a master's degree helps with career advancement, especiall
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/compensation-and-benefits-managers/US)**

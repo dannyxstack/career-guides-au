@@ -52,8 +52,6 @@ Residential building and renovation managers plan, organize, direct, and evaluat
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Usually promoted from construction tradesperson or project manager, can develop into senior management or start their own construction company. Experienced individuals can serve as large project directors.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually promoted from construction tradesperson or project manager, can develop 
 | Subclass PNP (Provincial Nominee Program) | Provincial nominee programs, such as Ontario and British Columbia, for construction management professionals. |
 | Subclass LMIA (Labour Market Impact Assessment) | Obtain a work visa through employer sponsorship, then apply for permanent residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Good job prospects due to growing housing and renovation demand in Canada, wi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/home-building-and-renovation-managers/CA)**

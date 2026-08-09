@@ -52,8 +52,6 @@ Responsible for tasting and evaluating the quality, flavour, and grade of food a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI analysis instruments and databases will automate objective testing in sensory evaluation, but subjective flavour assessment, quality grading decisions, and human sensory experience remain core moats; the profession faces mixed prospects overall.
-
 Can progress from junior taster to senior taster, quality supervisor, or laboratory manager. With experience, can also become an independent consultant or evaluation expert.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can progress from junior taster to senior taster, quality supervisor, or laborat
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable to non-EU workers, requiring employer sponsorship, with limited annual quotas; the food industry is sometimes prioritized. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled talent, requires a university degree and a high salary (at least around €28,000 per year). Tasters typically do not meet the salary threshold, but may qualify if in a management role. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | If working as an independent tasting consultant, must demonstrate sufficient funds and professional qualifications, with strict approval process. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Can progress from junior taster to quality supervisor, laboratory manager, or
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/food-and-beverage-taster-and-grader/IT)**

@@ -4,8 +4,6 @@
 
 Responsible for supervising and coordinating cleaning and maintenance teams in offices, hotels, restaurants, hospitals, and other venues to ensure environmental hygiene and normal facility operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for supervising and coordinating cleaning and maintenance teams in o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-This profession is affected by AI's mixed effects: administrative tasks like scheduling and reporting are easily automated, but core responsibilities like on-site supervision and interpersonal coordination are hard to replace; Entry-level positions have increased efficiency requirements due to tool applications, but overall demand remains stable.
-
 Employees can be promoted from cleaner/maintenance staff to supervisor, then to facilities manager or regional operations manager. Obtaining an FP Advanced Diploma or professional certification (such as cleaning management) can help with promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Employees can be promoted from cleaner/maintenance staff to supervisor, then to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract (employed)) | For employment-based work residence, the employer must provide a contract and prove that no suitable candidate can be found within the EU. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card targets highly skilled professionals (requiring a university degree or 5 years of relevant experience), and this position usually does not meet the salary threshold. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: The difficulty is quite high. This position is not classified as a high-skill
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-of-maintenance-and-cleaning-in-offices-hotels-and-other-establishments/ES)**

@@ -52,8 +52,6 @@ Meat inspectors work in slaughterhouses and meat processing plants, checking mea
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly enhance the detection accuracy and efficiency of meat inspectors, but will not replace their core judgment; after automating compliance and record-keeping tasks, humans can focus on higher-value work.
-
 Junior inspectors can advance to senior inspector, team leader, or quality assurance manager in government food safety agencies (e.g., MPI) or large processing plants. With experience, they can also transition to auditing or policy roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior inspectors can advance to senior inspector, team leader, or quality assur
 | Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (qualifications + work experience) to apply for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain a work visa through accredited employer sponsorship, accumulate experience, then transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must obtain the New Zealand Meat Inspection Authority (NZMPI) National Certif
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-inspector/NZ)**

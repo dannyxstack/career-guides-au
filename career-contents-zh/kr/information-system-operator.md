@@ -1,8 +1,8 @@
-# Information System Operator 职业分析 · 韩国
+# 信息系统操作员（Information System Operator）职业分析 · 韩国
 
-**职业代码: 13431 (KECO)**
+**职业代码：13431 (KECO)**
 
-A professional who stably operates, manages, and maintains an organization's information systems (servers, networks, databases, etc.).
+稳定运营、管理和维护组织信息系统（服务器、网络、数据库等）的专业人士。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who stably operates, manages, and maintains an organization's inf
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (IT-related) | 2 年 | $0~$8,000,000（Based on public/national institutions; private may be higher） |
-| Bachelor's degree (Computer Engineering, etc.) | 4年 | $0~$16,000,000（Varies including tuition and living expenses） |
+| 副学士学位（IT相关） | 2 年 | $0~$8,000,000（基于公共/国家机构；私立可能更高） |
+| 学士学位（计算机工程等） | 4年 | $0~$16,000,000（含学费和生活费，情况各异） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who stably operates, manages, and maintains an organization's inf
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, preferred by companies |
-| Linux Master | Korea Information & Communication Industry Association | 可选 | Advantageous for server operations |
-| CCNA | Cisco | 可选 | Essential for network operations |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，企业优先录用 |
+| Linux大师 | 韩国信息通信产业协会 | 可选 | 有利于服务器运维 |
+| CCNA | 思科 | 可选 | 网络运维必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 85,000. Demand is steady due to digital transformation and cloud expansion; AI and automation still require operational personnel, so employment prospects are favorable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 85,000。因数字化转型和云服务扩张需求稳定；AI和自动化仍需运维人员，就业前景良好。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,97 +39,90 @@ A professional who stably operates, manages, and maintains an organization's inf
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$36,000,000 | Based on small and medium enterprises |
-| 中级（4-7年） | $40,000,000~$55,000,000 | Increases based on large corporations and expertise |
-| 高级（8年+） | $60,000,000~$90,000,000 | Senior-level and cloud specialist |
+| 初级 (0-3年) | $28,000,000~$36,000,000 | 基于中小企业 |
+| 中级（4-7年） | $40,000,000~$55,000,000 | 基于大企业和专业知识增加 |
+| 高级（8年+） | $60,000,000~$90,000,000 | 高级和云专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI accelerates operational automation like fault detection and auto-recovery, but complex problem-solving and architecture design remain uniquely human domains, evolving toward collaboration with AI.
+AI加速运营自动化，如故障检测和自动恢复，但复杂问题解决和架构设计仍属人类专属领域，正朝着与AI协作的方向发展。
 
-Promotion path: junior operator → system administrator → senior engineer/IT manager; with expertise in cloud, security, and automation, one can advance to CTO.
+晋升路径：初级操作员 → 系统管理员 → 高级工程师/IT经理；在云、安全和自动化方面有专长可晋升至CTO。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Server log analysis
-- Incident alert handling
-- Regular inspection report writing
-- Basic patch management
+- 服务器日志分析
+- 事件警报处理
+- 定期检查报告撰写
+- 基本补丁管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis and recovery
-- Capacity planning
-- Security threat analysis
-- Automation script development
+- 故障诊断与恢复
+- 产能规划
+- 安全威胁分析
+- 自动化脚本开发
 
-**人类护城河:**
+**人类护城河：**
 
-- Understanding business context
-- Complex fault root cause analysis
-- Legacy system maintenance
-- Cross-team collaboration
+- 理解业务背景
+- 复杂故障根因分析
+- 遗留系统维护
+- 跨团队协作
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/Go脚本编写
 - Kubernetes
 - Terraform
-- Utilizing AIOps Platform
-- Cloud Security
+- 利用AIOps平台
+- 云安全
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud Native
+- 云原生
 - DevOps
-- AI Infrastructure
-- Security Operations
+- AI基础设施
+- 安保操作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled IT talent, requires company sponsorship |
-| Subclass F-2 (Residence) | Long-term stay possible through points system, advantageous for high-skilled workers |
-| Subclass D-10 (Job Seeking) | Job search after degree, can switch to E-7 after gaining experience |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Systematic and meticulous personality
-- Interest in problem solving
-- No burden with overtime/night shifts
+- 系统细致的人格
+- 对解决问题的兴趣
+- 无加班/夜班负担
 
 **谁不适合**
-- Bored by repetitive tasks
-- Prefers independent work over communication
+- 对重复性任务感到厌倦
+- 偏好独立工作而非沟通
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the salary level for an information system operator?**
-答：Entry-level: 28-36 million KRW, mid-level: 40-55 million KRW, senior: 60-90 million KRW. Additional increases possible based on cloud/security expertise.
+**问：信息系统操作员的薪资水平是多少？**
+答：入门级：2800-3600万韩元，中级：4000-5500万韩元，高级：6000-9000万韩元。根据云/安全专业知识可能额外增加。
 
-**问：Can foreigners enter with an employment visa?**
-答：E-7 visa required, with IT-related degree and experience. Company sponsorship is mandatory.
+**问：外国人可以持工作签证入境吗？**
+答：需E-7签证，拥有IT相关学位和经验。必须由公司担保。
 
 **问：职业晋升路径如何？**
-答：Operator → System Administrator → Senior Engineer → IT Manager/CTO, with DevOps/cloud certifications being advantageous.
+答：操作员→系统管理员→高级工程师→IT经理/CTO，拥有DevOps/云认证者具有优势。
 
 
 ---
@@ -147,12 +140,12 @@ Promotion path: junior operator → system administrator → senior engineer/IT 
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/information-system-operator/KR)**

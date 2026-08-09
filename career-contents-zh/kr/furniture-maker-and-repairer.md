@@ -1,10 +1,8 @@
-# Furniture Maker and Repairer 职业分析 · 韩国
+# 家具制造与修理师（Furniture Maker and Repairer）职业分析 · 韩国
 
-**职业代码: 88311 (KECO)**
+**职业代码：88311 (KECO)**
 
-This is a specialized technical job that involves designing, manufacturing, and repairing furniture. It covers the entire process including woodworking, painting, and assembly, and work environments range from small workshops to large factories.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+这是一项专门的技术工作，涉及家具的设计、制造和维修。涵盖木工、油漆和组装等全过程，工作环境从小作坊到大工厂不等。
 
 
 ---
@@ -13,9 +11,9 @@ This is a specialized technical job that involves designing, manufacturing, and 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Employment Center Vocational Training | 6 months | $0~$500,000（Government subsidy available, partial self-payment） |
-| College Woodworking and Furniture Design | 2 年 | $4,000,000~$8,000,000（Includes tuition and material costs） |
-| On-site apprenticeship after acquiring technician certification | 1年 | $0~$1,000,000（Wages received during apprenticeship period） |
+| 就业中心职业培训 | 6个月 | $0~$500,000（可获得政府补贴，部分自费） |
+| 学院木工与家具设计 | 2 年 | $4,000,000~$8,000,000（包含学费和材料费） |
+| 获得技术员认证后的现场学徒 | 1年 | $0~$1,000,000（学徒期间获得的工资） |
 
 ---
 
@@ -23,19 +21,19 @@ This is a specialized technical job that involves designing, manufacturing, and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Industrial Safety and Health Training | Korea Occupational Safety and Health Agency | 必备 | 必要的安全培训 |
-| Furniture Manufacturing Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, evaluates woodworking and finishing skills |
-| Wood Craft Technician | Human Resources Development Service of Korea | 可选 | Optional qualification, advantageous for traditional furniture |
-| Architectural Woodworking Technician | Human Resources Development Service of Korea | 可选 | Useful for interior woodworking |
+| 工业安全与健康培训 | 韩国职业安全健康局 | 必备 | 必要的安全培训 |
+| 家具制造技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，评估木工和精加工技能 |
+| 木工技术员 | 韩国人力资源开发服务局 | 可选 | 可选资格，对传统家具有利 |
+| 建筑木工技术员 | 韩国人力资源开发服务局 | 可选 | 适用于室内木工 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 45,000. The domestic furniture market is stagnant, but demand for custom and high-end furniture is increasing, leading to steady demand for skilled workers. Due to the rise in single-person households and remodeling needs, employment is expected to be maintained in the mid- to long-term.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 45,000。国内家具市场虽然停滞不前，但定制和高端家具需求不断增加，对熟练工人的需求保持稳定。由于单人家庭和翻新需求的增加，预计中长期就业将得以维持。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -43,94 +41,86 @@ This is a specialized technical job that involves designing, manufacturing, and 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $22,000,000~$28,000,000 | Minimum without certificate |
-| Intermediate (4-10 years) | $30,000,000~$42,000,000 | Varies by skill level |
-| Advanced (10+ years) | $45,000,000~$60,000,000 | Additional income possible when running a workshop |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 无证书最低要求 |
+| 中级（4-10年） | $30,000,000~$42,000,000 | 因技能水平而异 |
+| 高级（10年以上） | $45,000,000~$60,000,000 | 经营工坊时可有额外收入 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation can be introduced into the design and cutting processes of furniture manufacturing, but custom furniture repair and detailed finishing work require human craftsmanship, so the impact is limited. Rather, productivity improvements using digital tools like CNC are expected.
+AI和自动化可引入家具制造的设计和切割流程，但定制家具修复和精细修饰工作需人工工艺，因此影响有限。相反，利用CNC等数字工具提高生产力值得期待。
 
-Promotion typically follows the path of technician → site supervisor → factory manager. After gaining skills, one may start a personal business (workshop startup). In large furniture manufacturers, transitioning to quality control or production management is also possible.
+晋升通常遵循技术员→现场主管→工厂经理的路径。掌握技能后，可创办个人企业（工坊创业）。在大型家具制造商中，也可能转向质量控制或生产管理岗位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple cutting tasks
-- Repetitive sanding tasks
-- Mass assembly of standard furniture
+- 简单切割任务
+- 重复打磨任务
+- 标准家具的大规模组装
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Precision cutting design
-- Customer-customized 3D simulation
-- CNC machining path optimization
+- 精密切割设计
+- 客户定制3D模拟
+- CNC加工路径优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Hand finishing and restoration
-- Sense of high-quality woodworking
-- Customer communication and on-site fitting
+- 手工精加工与修复
+- 优质木工感
+- 客户沟通和现场试穿
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CAD/CAM software
-- CNC machine operation
-- Understanding of wood material properties
-- Interior design basics
+- CAD/CAM软件
+- CNC机床操作
+- 木材材料特性理解
+- 室内设计基础
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Custom furniture
-- Remodeling market
-- Small workshops
-- Expansion of online sales
+- 定制家具
+- 翻新市场
+- 小型车间
+- 在线销售扩展
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed as skilled worker, but limited track record |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Employable in furniture factories in manufacturing, mainly simple tasks |
-| Subclass F-2 (F-2 (Residence)) | Free employment possible after certain skill level, but hard to obtain |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with good manual dexterity and attention to detail
-- Someone who wants to work independently and create creative results
-- People who prefer handling diverse orders rather than repetitive tasks
+- 手工灵巧且注重细节的人
+- 希望独立工作并创造创意成果的人
+- 更喜欢处理多样订单而不是重复性任务的人
 
 **谁不适合**
-- People who prefer high-speed mass production
-- People who ignore safety rules or are sensitive to dust/noise
+- 偏好高速批量生产的人
+- 忽视安全规则或对灰尘/噪音敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a furniture maker/repairer?**
-答：The pre-tax annual salary for entry-level (0-3 years) is about 22-28 million KRW, varying by certification and company size.
+**问：家具制作/修理师的起薪是多少？**
+答：入门级（0-3年）税前年薪约2200-2800万韩元，视证书和公司规模而定。
 
-**问：What visa does a foreigner need to work as a furniture maker/repairer in Korea?**
-答：Skilled workers may qualify for an E-7 visa but it's limited; general manufacturing factories can hire on an E-9 visa.
+**问：外国人在韩国做家具制造/修理工作需要什么签证？**
+答：熟练工人可能符合E-7签证资格但有限；普通制造工厂可雇佣E-9签证工人。
 
-**问：Is a certificate necessary to become a furniture maker/repairer?**
-答：Not mandatory, but having a certificate such as Furniture Making Technician helps with employment and promotion.
+**问：成为家具制造/维修师是否需要证书？**
+答：非强制，但持有如家具制作技师证书有助于就业和晋升。
 
 
 ---
@@ -148,12 +138,12 @@ Promotion typically follows the path of technician → site supervisor → facto
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/furniture-maker-and-repairer/KR)**

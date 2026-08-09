@@ -53,8 +53,6 @@ Responsible for the heat treatment process operations of metal parts, including 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of heat treatment operators heavily depends on the physical environment and intuitive experience. AI automation will gradually take over core tasks such as process parameter monitoring and defect detection, and the demand for entry-level positions has clearly declined.
-
 Promotion path: Promotion can be made from operator to heat treatment technician, process engineer, or production supervisor. Alternatively, by obtaining professional qualifications (such as CQPM), you can transition to quality control or R&D positions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Promotion path: Promotion can be made from operator to heat treatment technician
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | For employed work residence, you must obtain a French employer employment contract and meet the requirements of the French Employment Agency for labor market testing. |
-| Subclass Passeport Talent (Passeport Talent – Qualified Employee) | Talent Passport, for highly skilled talent, requiring annual salary at least 1.5 times the French average wage (approx. €39,000). |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card requires an annual salary of at least 53,000 euros (2024 standard), suitable for senior technicians. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Can advance to heat treatment technician, process engineer, or production sup
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heat-treatment-operator/FR)**

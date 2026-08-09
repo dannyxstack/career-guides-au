@@ -51,8 +51,6 @@ Manager responsible for planning, coordinating, and overseeing construction proj
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of construction manager in the AI era is mixed: automation will take over data-intensive tasks like progress tracking and cost estimation, but AI-enhanced BIM and project management tools can boost efficiency, while core human skills such as on-site coordination, decision-making, and interpersonal communication remain a moat.
-
 Start as a project supervisor or site manager, gain experience to advance to regional manager or company director, or specialize in large infrastructure or sustainable construction.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Start as a project supervisor or site manager, gain experience to advance to reg
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled professionals; requires a university degree and a contract with at least 1.5 times the average wage. |
-| Subclass Decreto Flussi (Decreto Flussi Quota Work Visa) | Annual quota work visa for non-EU workers; requires employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | Work permit requires employer sponsorship and assessment of labor market conditions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: You can apply for residence through the EU Blue Card (requires a high-salary 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-manager/IT)**

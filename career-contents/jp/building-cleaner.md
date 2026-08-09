@@ -49,8 +49,6 @@ This occupation involves cleaning floors, windows, and restrooms in office build
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The introduction of automatic floor cleaning machines and robot vacuum cleaners is progressing, but there are still many tasks that only humans can do, such as toilet cleaning and detailed manual work, making complete substitution difficult. AI and automation remain in a supporting role.
-
 Career paths include starting with no experience, gaining on-site experience, and advancing to chief or managerial positions. Management roles at building maintenance companies or self-employment are possible.
 
 **Tasks most exposed to AI:**
@@ -89,15 +87,9 @@ Career paths include starting with no experience, gaining on-site experience, an
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Building Cleaning)) | As of 2024, building cleaning falls under Specified Skilled Worker (i). Requires passing skill and Japanese language tests. |
-| Subclass 技能実習2号 (Technical Intern Training (ii) (Building Cleaning)) | Residence permitted for 3 to 5 years. Transition to Specified Skilled Worker (i) is possible after training. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -138,12 +130,12 @@ A: Specified Skilled Worker (i) (Building Cleaning) or Technical Intern Training
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-cleaner/JP)**

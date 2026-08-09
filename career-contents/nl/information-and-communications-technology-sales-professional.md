@@ -52,8 +52,6 @@ In the Netherlands, ICT sales professionals are responsible for selling software
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI is reshaping the role of ICT sales specialists: routine tasks such as customer communication and report generation face automation risks, but AI also enhances customer insights, personalized sales, and efficiency, requiring practitioners to shift to higher-value relationship management and strategic consulting.
-
 Junior sales representatives can progress to senior account manager, regional sales manager, or sales director. Those with technical expertise can move into solutions architect or product manager roles. Industry certifications (e.g., AWS, Salesforce, Cisco) and an MBA support career development.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior sales representatives can progress to senior account manager, regional sa
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to ICT sales professionals whose annual salary meets the threshold (approx. 5,331 euros/month in 2024), sponsored by employer. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, requiring a bachelor's degree or higher and a salary contract of at least €5,331/month (2024). |
-| Subclass Orientation Year (Zo (Orientation Year) | Applicable to graduates from Dutch universities or master's graduates from top 200 global universities, valid for 1 year, allows free work. |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Digital transformation drives demand growth, especially in cloud computing an
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-and-communications-technology-sales-professional/NL)**

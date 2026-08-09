@@ -1,6 +1,6 @@
 # 工业设计师（Industrial Designer）职业分析 · 澳大利亚
 
-**职业代码: 232312 (ANZSCO)**
+**职业代码：232312 (ANZSCO)**
 
 工业设计师设计工业产品、消费品、医疗设备和交通工具的外观和功能，覆盖从概念草图到3D原型的全流程。AUKUS国防制造和医疗器械设计是澳洲工业设计师最有薪资潜力的专业方向。
 
@@ -21,19 +21,19 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Industrial Design (Honours) | 认可大学 | 可选 | 行业基础学历，作品集权重高于学位 |
-| Autodesk Certified Professional (Fusion 360 / Inventor) | Autodesk | 可选 | CAD/CAM行业认证，提升工程设计能力 |
-| SolidWorks Certified Professional (CSWP) | Dassault Systèmes | 可选 | 制造业设计岗广泛要求的3D建模认证 |
+| 工业设计学士（荣誉） | 认可大学 | 可选 | 行业基础学历，作品集权重高于学位 |
+| Autodesk认证专业人员（Fusion 360 / Inventor） | Autodesk | 可选 | CAD/CAM行业认证，提升工程设计能力 |
+| SolidWorks认证专业（CSWP） | 达索系统 | 可选 | 制造业设计岗广泛要求的3D建模认证 |
 | Lean Product Development / DfM 认证 | 各认证机构 | 可选 | 面向制造的设计能力认证，制造业工业设计岗的加分项 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 8,500. JSA 预测工业设计师至2035年就业增长约5%。医疗设备设计（澳洲医疗科技产业）和国防装备设计（AUKUS）是主要驱动力。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 8,500。JSA 预测工业设计师至2035年就业增长约5%。医疗设备设计（澳洲医疗科技产业）和国防装备设计（AUKUS）是主要驱动力。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -52,35 +52,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 AI将颠覆工业设计的可视化与建模流程，但人类在创意、用户洞察和跨领域协作上的价值凸显，从业者需加速向策略设计转型。
 
 可持续设计（Circular Economy Design）和生命周期评估（LCA）是2025-2026年受大型制造企业最重视的设计技能。AI辅助设计（Generative Design in Fusion 360/Grasshopper）正在改变工业设计工作流。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 概念草图的多方案生成与快速渲染
 - 基于参数的重复性3D建模与修改
 - 产品规格说明书的标准化撰写
 - 用户调研数据的初步分类与报告生成
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用AI生成式设计探索创新形态与结构
 - AI驱动的用户行为模拟与可用性测试
 - 实时AI渲染与设计评审加速迭代
 - AI辅助材料性能预测与可持续设计
 
-**人类护城河:**
+**人类护城河：**
 
 - 跨学科创新思维与设计策略制定
 - 深入理解用户情感、文化与社会动机
 - 复杂用户研究、可用性测试的定性洞察
 - 与工程师、营销、客户的战略级沟通协调
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 生成式AI工具（如DALL·E、Midjourney）用于概念设计
 - 参数化与算法设计（如Grasshopper、Fusion 360衍生式设计）
@@ -89,17 +89,17 @@ AI将颠覆工业设计的可视化与建模流程，但人类在创意、用户
 - 可持续设计与生命周期评估知识
 - 设计项目管理与跨团队领导力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Product Design for Medical Devices
-- Defence Equipment Design (AUKUS)
-- Sustainable & Circular Product Design
-- Consumer Electronics & IoT Hardware
-- Automotive & EV Component Design
+- 医疗设备产品设计
+- 国防装备设计（AUKUS）
+- 可持续与循环产品设计
+- 消费电子与物联网硬件
+- 汽车与电动汽车部件设计
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -109,9 +109,7 @@ AI将颠覆工业设计的可视化与建模流程，但人类在创意、用户
 | Subclass 189 (SkillSelect Independent) | 邀请制，需要技能评估+EOI |
 | Subclass 190 (Skilled Nominated) | 州提名，VIC/NSW制造业设计岗 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**PR友好度：中（★★½☆☆）**
 
 ---
 
@@ -173,12 +171,13 @@ AI将颠覆工业设计的可视化与建模流程，但人类在创意、用户
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较高（★★★★☆） |
+| PR友好度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/industrial-designer/AU)**

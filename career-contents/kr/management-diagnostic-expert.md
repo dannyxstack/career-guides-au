@@ -4,8 +4,6 @@
 
 A professional who analyzes a company's management status, diagnoses problems, and suggests improvement plans, supporting strategy formulation and organizational efficiency.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who analyzes a company's management status, diagnoses problems, a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI has strengths in data analysis and pattern recognition, but complete replacement is difficult due to uniquely human areas such as strategic judgment and building customer trust. Experts who utilize AI as a tool will have an advantage.
-
 Career paths typically include consulting firms, corporate strategy teams, and specialized research institutes; an MBA or relevant certifications are advantageous for promotion, and advancement to partner or executive positions is possible.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Career paths typically include consulting firms, corporate strategy teams, and s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable as professional management consultant (experience required) |
-| Subclass F-2 (Residence) | Long-term residence possible based on points, period of stay, etc. |
-| Subclass F-5 (Permanent Residence) | Can acquire permanent residence after a certain period of residence |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Typically, a bachelor's degree in business administration or higher is requir
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-diagnostic-expert/KR)**

@@ -51,8 +51,6 @@ Specialists who assemble, adjust, and inspect parts of transport machinery other
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Automation through AI and robots is progressing, causing simple assembly tasks to decline. However, final adjustments, quality inspections, and complex assembly still require human skills, making full substitution difficult.
-
 Generally, entry is from high school or vocational school, with career progression from assembly worker to team leader to manufacturing manager. Foreign worker acceptance is limited, such as under Specified Skilled Worker (ii).
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Generally, entry is from high school or vocational school, with career progressi
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Manufacturing: 3 fields)) | Specified Skilled Worker in manufacturing fields. Eligible for up to 5 years after exam. No family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Manufacturing: 3 fields)) | Renewable from (i). For skilled workers. Family accompaniment allowed, path to PR. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree+ and specialized knowledge. Unsuitable for assembly roles but eligible for design/technical management. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: The common route is from assembly worker to team leader to production manager
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-machinery-assemblers-excluding-automobiles/JP)**

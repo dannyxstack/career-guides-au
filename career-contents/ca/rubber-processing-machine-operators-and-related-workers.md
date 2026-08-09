@@ -51,8 +51,6 @@ Operate rubber processing machinery such as mixers, calenders, extruders, and vu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Rubber processing machine operator roles face automation compression risk: routine operations, monitoring, and quality inspection tasks are easily replaced by AI and robots, but segments requiring complex problem-solving and flexible manual adjustments still retain some demand.
-
 Can progress from operator to senior operator, team leader, or production supervisor. With experience and training, opportunities to move into quality control or maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can progress from operator to senior operator, team leader, or production superv
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Usually requires only high school diploma and on-the-job training. Some emplo
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rubber-processing-machine-operators-and-related-workers/CA)**

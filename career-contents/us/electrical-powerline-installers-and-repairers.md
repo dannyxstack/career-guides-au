@@ -54,8 +54,6 @@ Install and repair cables or wires in power transmission or distribution systems
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation is more of an amplifier than a threat to power line workers: hazardous environment data collection, fault diagnosis, and route planning tasks will be enhanced by AI, but core tasks like physical installation, high-altitude work, and live-line operations still rely on human judgment and physical effort, and grid expansion and aging upgrades bring strong demand.
-
 Entry-level linemen can advance to senior technicians, supervisors, or project managers; through experience and certification, they can move to transmission system dispatching or training roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level linemen can advance to senior technicians, supervisors, or project m
 | Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable for lineworkers as it is not a professional occupation; only relevant when working in engineering management roles |
 | Subclass EB-3 (EB-3 Skilled Workers) | May apply through PERM labor certification, but must demonstrate domestic labor shortage |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually only a high school diploma is needed, followed by a 4-5 year apprenti
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-powerline-installers-and-repairers/US)**

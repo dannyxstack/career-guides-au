@@ -53,8 +53,6 @@ Operate winding machines or manually wind wire coils for electrical equipment su
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Coil winders face high automation risk; AI and robots will replace most repetitive winding and inspection tasks, but complex customization, fault diagnosis, and on-site repair still offer human opportunities.
-
 Can advance from entry-level winder to senior technician or team leader; with experience, can transition to technician or quality control roles; some enter engineering support fields.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from entry-level winder to senior technician or team leader; with ex
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Demand stable but slow growth, affected by automation and outsourcing, with l
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coil-winders-tapers-and-finishers/US)**

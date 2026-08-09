@@ -52,8 +52,6 @@ A professional sales role in export companies responsible for discovering overse
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI supports overseas sales in areas like data analysis, translation, and CRM automation, but core negotiation and relationship building are handled by humans. Thus, the role will be enhanced but not fully replaced.
-
 After joining the overseas sales department of large or mid-sized companies, one can be promoted to regional team leader, overseas branch manager, or global sales executive. Experience and language skills are crucial.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ After joining the overseas sales department of large or mid-sized companies, one
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa for specialized fields such as import/export, eligible for overseas sales positions |
-| Subclass F-2 (Residence) | Point-based permanent residency, long-term stay and free employment |
-| Subclass F-4 (Overseas Korean) | For overseas Koreans, no employment restrictions in Korea |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +135,12 @@ A: Typically follows the order of Staff → Assistant Manager → Manager → De
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/overseas-sales-representative/KR)**

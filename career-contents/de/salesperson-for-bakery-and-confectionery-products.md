@@ -53,8 +53,6 @@ Sell baked goods such as bread, cakes, and pastries in bakeries, pastry shops, o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Bakery and pastry salesperson role faces moderate automation risk: transactional tasks such as cashiering and inventory management will be gradually replaced by AI, but tasks requiring interpersonal interaction and sensory judgment—like customer inquiries, personalised recommendations, and quality control—are enhanced by AI, shifting the role toward an experience consultant.
-
 Can progress from salesperson to store manager or regional manager, or through further study become a master baker or open their own bakery. Some companies offer dual training programs combining sales skills and baking knowledge for career development.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from salesperson to store manager or regional manager, or through f
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically no higher education background required. Dual vocational training (
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/salesperson-for-bakery-and-confectionery-products/DE)**

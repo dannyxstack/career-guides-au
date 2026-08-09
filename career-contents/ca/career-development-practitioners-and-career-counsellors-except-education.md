@@ -52,8 +52,6 @@ Provide career planning, job search strategies, skills assessment, and career tr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
-
 Career progression includes from junior career advisor to senior advisor, team leader, project manager, or moving into HR, education, and training fields.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression includes from junior career advisor to senior advisor, team l
 | Subclass PNP (Provincial Nominee Program) | provincial nominee programs for education and community service occupations |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work permits, applicable when a job offer is available |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's or master's degree in fields such as career d
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/career-development-practitioners-and-career-counsellors-except-education/CA)**

@@ -52,8 +52,6 @@ Orthodontists diagnose and treat malocclusions and oral abnormalities, design an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Dentists' core clinical operations (e.g., surgery, diagnosis) are protected by licenses and hard to replace, but AI will take over auxiliary tasks like image analysis and medical records, amplifying treatment efficiency. Entry-level positions are slightly tightened due to partial automation of internships and assistant roles, but overall demand is strong; risks and opportunities coexist.
-
 General path: complete dental school, then 2-3 years of residency, obtain certification to practice. Can open private practice or join a group; career progression includes becoming a clinic partner, teaching, or research positions.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ General path: complete dental school, then 2-3 years of residency, obtain certif
 | Subclass EB-2 (EB-2 Advanced Degree) | Orthodontists typically hold a doctoral degree and can apply for a green card through PERM labor certification. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to doctors with outstanding achievements in orthodontics, requires proof of extraordinary ability. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Relatively easy, as orthodontists are specialized professionals who can apply
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthodontists/US)**

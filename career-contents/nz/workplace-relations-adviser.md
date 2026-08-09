@@ -52,8 +52,6 @@ Workplace relations consultants handle labour relations, employee negotiations, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly enhance HR managers' capabilities in recruitment, compensation, and employee data analysis, but core duties such as compliance, strategy, and interpersonal conflict resolution are hard to replace; overall risk is manageable.
-
 Junior consultants can advance to senior consultant, labor relations manager, or HR director. Obtaining certification from the New Zealand Institute of Labour Relations Studies helps career development, or they can move into independent consulting or training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior consultants can advance to senior consultant, labor relations manager, or
 | Subclass Green List T2 (Green List Tier 2 Work to Residence) | After 24 months in this position, can apply for residency, requiring ANZSCO 1-3 and meeting salary threshold. |
 | Subclass AEWV (Accredited Employer Work Visa) | Approved employer sponsorship with pathway to residency, suitable for non-direct immigration cases. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: No mandatory registration, but a relevant degree (e.g., Human Resource Manage
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/workplace-relations-adviser/NZ)**

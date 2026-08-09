@@ -4,8 +4,6 @@
 
 Restaurant managers oversee daily operations, staff management, customer service, and profitability.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Restaurant managers oversee daily operations, staff management, customer service
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of a restaurant manager has mixed prospects: administrative tasks like scheduling, inventory, and simple reports are easily automated by AI, but core responsibilities such as interpersonal coordination, crisis management, and personalized customer experience still rely heavily on human judgment.
-
 Can progress from server or chef to restaurant manager, then to regional manager or food and beverage director. Large chain groups offer clearer promotion pathways.
 
 **Tasks most exposed to AI:**
@@ -101,18 +97,9 @@ Can progress from server or chef to restaurant manager, then to regional manager
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU seasonal workers, annual quota, requires employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to management positions requiring higher education degree + high salary (≥ €24,789 per year). |
-| Subclass Self-Employed Work Permit (Self-Employment Visa) | Requires submission of a business plan and meeting minimum investment requirements, suitable for opening your own restaurant. |
-| Subclass EU Freedom of Movement (EU Freedom of Movement) | EU citizens do not need a visa and can work freely in Italy. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +143,12 @@ A: HACCP food hygiene certification and liquor service license are legal require
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/restaurant-manager/IT)**

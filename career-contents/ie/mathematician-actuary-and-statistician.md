@@ -52,8 +52,6 @@ In Ireland, this occupation covers mathematics, statistics, and actuarial fields
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Actuaries, economists, and statisticians will have their work profoundly reshaped by AI, but core analysis, judgment, and responsibility are hard to replace, making these occupations high in AI augmentation but low in replacement risk.
-
 Career path starts from junior analyst, progressing to senior analyst, team leader, or chief actuary/chief statistician. Also possible to transition to data science or risk management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path starts from junior analyst, progressing to senior analyst, team lead
 | Subclass General Employment P (General Employment Permit) | Applies to annual salary ≥ €30,000, requires labor market test, and eligible for permanent residence after 5 years |
 | Subclass EU Blue Card (EU Blue Card) | Applicable for annual salary ≥€64,763 (2024), more flexible, family can accompany |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes, actuaries and statisticians are on Ireland's Critical Skills Occupation 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mathematician-actuary-and-statistician/IE)**

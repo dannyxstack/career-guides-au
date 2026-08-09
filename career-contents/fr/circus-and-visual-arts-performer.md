@@ -53,8 +53,6 @@ Circus and visual arts performers perform on stage or on the street through acro
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Starting out is mostly street performances or supporting performers in small theater troupes, and after gaining experience, they can be promoted to lead actors or artistic directors in troupes. Some practitioners turn to teaching or directing, founding personal studios or art groups.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Starting out is mostly street performances or supporting performers in small the
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Artistic and Cultural Profession)) | Suitable for performers with outstanding artistic ability, requiring a project plan or contract. Valid for up to 4 years, with renewable options. |
-| Subclass Salarié (Salaried Worker Visa) | If employed by a French theater company or cultural institution, an employer sponsorship is required, and a contract of at least one year is required. |
-| Subclass Carte bleue UE (EU Blue Card) | Generally not applicable to performing artists, as the salary requirement is higher (≥53,836.50€), but applicants may apply if they meet the requirements. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can start with street or small performances, gradually move into large th
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/circus-and-visual-arts-performer/FR)**

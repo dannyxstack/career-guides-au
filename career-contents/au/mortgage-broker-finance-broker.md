@@ -55,8 +55,6 @@ A Mortgage Broker compares and arranges home loans, commercial loans and refinan
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Mortgage brokers' workflows are highly suited for AI enhancement, not replacement. AI tools can greatly improve efficiency in client matching, document processing, and market analysis, but key trust-building, negotiation, and regulatory compliance still rely on human judgment. Overall, AI amplifies rather than diminishes their professional value.
-
 AI-powered loan comparison platforms (Lendi/Joust) have changed the working model for some entry-level brokers, but the value of face-to-face relationship-based services and brokers handling complex loan structures (commercial / SMSF / foreign buyers) has actually increased.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ AI-powered loan comparison platforms (Lendi/Joust) have changed the working mode
 | Subclass 189 (SkillSelect Independent) | Invitation-based, skills assessment + EOI required |
 | Subclass 190 (Skilled Nominated) | State nomination; active property markets in NSW/VIC/QLD. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -174,12 +170,13 @@ A: Accountant migration pathway is more established (MLTSSL + CPA assessment), w
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mortgage-broker-finance-broker/AU)**

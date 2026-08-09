@@ -4,8 +4,6 @@
 
 Drivers of streetcars, freight railways, monorails, etc. Primarily transport passengers and cargo safely on non-JR lines and local routes.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Drivers of streetcars, freight railways, monorails, etc. Primarily transport pas
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With advances in automated driving technology, substitution by AI is progressing, especially in subways and new lines. However, humans are still needed for complex routes and emergency responses, so not all positions will be replaced.
-
 Internal promotion from conductor or station staff to driver is common. With experience, advancement to instructor driver or management is possible. Large companies offer generous qualification allowances.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Internal promotion from conductor or station staff to driver is common. With exp
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技能 (Skilled Labor Visa) | Corresponds to work requiring advanced skills, but railway operations are generally excluded |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not possible due to being outside the field |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +132,12 @@ A: Utilizing driving skills and safety knowledge, transitioning to railway maint
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-railway-operation-workers/JP)**

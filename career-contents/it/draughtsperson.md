@@ -4,8 +4,6 @@
 
 Drafters use computer-aided design (CAD) software to create technical drawings and blueprints for construction, engineering, and manufacturing projects. They ensure drawings meet specifications and standards, and collaborate with other professionals.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Drafters use computer-aided design (CAD) software to create technical drawings a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The core task of a drafter—generating precise CAD drawings from sketches—is being rapidly automated by AI design tools. Entry-level job demand will significantly decrease, but senior drafters still need to collaborate with AI on complex projects.
-
 Draftspersons can advance to senior designer, project coordinator, or technical manager, or transition through training to BIM specialist or building information model manager. Continuous learning of new technologies is key.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Draftspersons can advance to senior designer, project coordinator, or technical 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled workers, with an annual salary threshold of approximately €28,000 (2025), requiring an employment contract and qualifications. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota system for non-EU workers, requiring employer sponsorship, typically for skilled workers. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually requires a vocational diploma or bachelor's degree; CAD certification
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/draughtsperson/IT)**

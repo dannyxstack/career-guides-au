@@ -52,8 +52,6 @@ Hydrogeologists study groundwater distribution, flow and quality, assess water r
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Junior hydrogeologists can advance to senior consultant, project manager, or principal hydrogeologist, or transition to water resource management or environmental policy fields.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior hydrogeologists can advance to senior consultant, project manager, or pri
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored visa, requires meeting state government nomination requirements |
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, eligible for 186 permanent residency after 3 years |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Growth in mining, environmental consulting, and water resource management sec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hydrogeologist/AU)**

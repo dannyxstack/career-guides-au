@@ -50,8 +50,6 @@ Supervise and coordinate activities of weapon specialists/crew; may participate 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation supervises weapons experts and may participate in hands-on operations; AI will enhance logistics planning and monitoring, but core decision-making, safety responsibility, and personnel management still require humans. AI substitution risk is moderate, requiring proactive adaptation to technological tools.
-
 Can progress from junior weapons specialist or crew member to supervisor, then to senior officer or defence project manager.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from junior weapons specialist or crew member to supervisor, then t
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Main opportunities lie with defense contractors, usually requiring U.S. citiz
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-weapons-specialists-crew-members/US)**

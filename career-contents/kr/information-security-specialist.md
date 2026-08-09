@@ -51,8 +51,6 @@ A professional who protects information systems of companies and institutions, r
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate some security monitoring and incident response, but strategic planning and complex responses remain the role of human experts, so overall AI will assist rather than replace.
-
 Primarily employed by information security companies, financial institutions, and public organizations; can advance to security team leader, CISO, etc. based on experience.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Primarily employed by information security companies, financial institutions, an
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable when employed by a Korean company as an information security professional |
-| Subclass D-10 (Job-seeking) | Stay for job-seeking activities for degree holders |
-| Subclass F-2 (Residence) | Long-term stay possible under points system |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: An E-7 (Specific Activities) visa is common, requiring a degree and experienc
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-security-specialist/KR)**

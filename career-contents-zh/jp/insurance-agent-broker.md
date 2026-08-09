@@ -1,10 +1,8 @@
-# Insurance Agent/Broker 职业分析 · 日本
+# 保险代理人/经纪人（Insurance Agent/Broker）职业分析 · 日本
 
-**职业代码: 332 (JSCO)**
+**职业代码：332 (JSCO)**
 
-A profession that proposes optimal insurance products and mediates contracts as an agent or broker for life and non-life insurance.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+作为代理或经纪人，为生命和非生命保险推荐最优保险产品并促成合同的职业。
 
 
 ---
@@ -13,9 +11,9 @@ A profession that proposes optimal insurance products and mediates contracts as 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（In case of public high school） |
-| Vocational School (Insurance/Finance) | 2 年 | $1,000,000~$3,000,000（In case of private vocational school） |
-| University (Economics/Commerce) | 4年 | $2,000,000~$5,000,000（In case of national/public university） |
+| 高中文凭 | 3年 | $0~$0（公立高中的情况） |
+| 职业学校（保险/金融） | 2 年 | $1,000,000~$3,000,000（私立职业学校的情况） |
+| 大学（经济学/商学） | 4年 | $2,000,000~$5,000,000（国立/公立大学的情况） |
 
 ---
 
@@ -23,19 +21,19 @@ A profession that proposes optimal insurance products and mediates contracts as 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Insurance Solicitor License | General Insurance Association of Japan | 必备 | Required for insurance solicitation |
-| Life Insurance Advanced Course | Life Insurance Association of Japan | 可选 | Demonstrates advanced knowledge, useful for career advancement |
-| Non-Life Insurance Advanced Course | Non-Life Insurance Association of Japan | 可选 | Advanced qualification specializing in non-life insurance |
-| AFP/CFP (Financial Planner) | Japan Association for Financial Planners | 可选 | Useful for comprehensive asset proposals |
+| 保险招揽员执照 | 日本损害保险协会 | 必备 | 保险推销所需 |
+| 人寿保险高级课程 | 日本人寿保险协会 | 可选 | 展示高级知识，有助于职业发展 |
+| 非寿险高级课程 | 日本非寿险协会 | 可选 | 专注于非寿险的高级资格 |
+| AFP/CFP（财务规划师） | 日本金融规划师协会 | 可选 | 有助于全面的资产提案 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. Insurance demand remains steady due to aging, but online sales expansion and AI-based automated quotes are driving efficiency. Labor shortages are generally moderate.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。由于人口老龄化，保险需求保持稳定，但在线销售扩张和基于人工智能的自动报价正在提高效率。劳动力短缺总体适中。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -43,95 +41,87 @@ A profession that proposes optimal insurance products and mediates contracts as 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $3,000,000~$5,000,000 | Agency clerical or sales support |
-| Mid (3-10 years) | $5,000,000~$8,000,000 | Independent agency sales |
-| 资深（10年以上） | $8,000,000~$12,000,000 | Independent agency management or executive |
+| 入门级（0-3年） | $3,000,000~$5,000,000 | 机构文书或销售支持 |
+| 中级（3-10年） | $5,000,000~$8,000,000 | 独立代理销售 |
+| 资深（10年以上） | $8,000,000~$12,000,000 | 独立机构管理或高管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI-powered insurance comparison sites and automatic quotes are becoming widespread, replacing standard product proposals. However, human roles remain significant in consulting for complex needs and selling high-value insurance that emphasizes human relationships. Overall, some tasks are replaced by AI, but specialized areas remain.
+AI驱动的保险比价网站和自动报价正在普及，取代标准产品方案。但复杂需求的咨询和强调人际关系的高价值保险销售仍需要人工。总体而言，部分任务被AI取代，但专业领域仍然存在。
 
-After passing the agent registration exam, it is common to start an independent business or join an agency. With experience, one can become a manager at a large agency or obtain FP certification for high-value proposals.
+通过代理注册考试后，通常自立门户或加入代理机构。有经验后可成为大型机构经理，或获得FP资格进行高价值提案。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Generating quotes via insurance comparison sites
-- Routine contract procedures
-- Inputting and managing customer data
+- 通过保险比价网站获取报价
+- 常规合同流程
+- 输入和管理客户数据
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Proposals based on customers' life plans
-- Comparative analysis of insurance products
-- Risk diagnosis and advice
+- 基于客户人生规划的提案
+- 保险产品比较分析
+- 风险诊断与建议
 
-**人类护城河:**
+**人类护城河：**
 
-- Advanced consulting
-- Long-term trust relationships
-- Complex insurance design
-- Flexible proposals tailored to client needs
+- 高级咨询
+- 长期信任关系
+- 复杂保险设计
+- 根据客户需求灵活提出方案
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Financial planning
-- Digital marketing
-- Interpersonal negotiation skills
-- Data analysis literacy
+- 财务规划
+- 数字营销
+- 人际谈判技巧
+- 数据分析素养
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Insurance for the elderly
-- Online insurance
-- AI proposal support
-- Overseas insurance demand
+- 老年人保险
+- 在线保险
+- AI提案支持
+- 海外保险需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable for insurance agency sales or consulting. Requires university degree and work experience. |
-| Subclass 経営・管理 (Business Manager) | Applicable when managing an insurance agency. Must meet business plan and capital requirements. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable as insurance agency work is not included in eligible fields. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Likes talking to people
-- Strong with numbers and detail-oriented
-- Deeply understand insurance products and empathize with customers
+- 喜欢与人交流
+- 擅长数字且注重细节
+- 深入理解保险产品，与客户共情
 
 **谁不适合**
-- Dislike short-term performance-based evaluation
-- Prefer routine work and dislike change
+- 不喜欢短期绩效评估
+- 更喜欢常规工作，不喜欢变化
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of an insurance agent?**
-答：First year earnings are often around 3 million yen, and after gaining experience and becoming independent, over 10 million yen is possible. It varies greatly depending on results.
+**问：保险代理人的年收入是多少？**
+答：第一年收入通常在300万日元左右，积累经验独立后，可能超过1000万日元。因业绩而异。
 
-**问：Can foreigners work as insurance agents?**
-答：You can work in sales with an Engineer/Specialist in Humanities/International Services visa, but Japanese language proficiency is required. An insurance solicitation qualification is also necessary.
+**问：外国人可以当保险代理人吗？**
+答：持人文/国际服务工程师/专家签证可以在销售部门工作，但需要日语能力。还需要保险销售资格。
 
 **问：晋升路径有哪些？**
-答：After registering as an agent, acquire FP qualifications while building a track record. Common paths include management, independence, or shifting to corporate sales.
+答：注册为代理人后，在积累业绩的同时获取FP资格。常见路径包括管理、独立或转向企业销售。
 
 
 ---
@@ -149,12 +139,12 @@ After passing the agent registration exam, it is common to start an independent 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/insurance-agent-broker/JP)**

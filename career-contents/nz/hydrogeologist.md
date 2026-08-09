@@ -54,8 +54,6 @@ Hydrogeologists study the distribution, flow, and quality of groundwater, assess
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The task structure for geologists and mineral technologists/technicians will be significantly compressed by AI and automation, especially data processing, basic modeling, and routine measurement work, but field operations and decision-making remain human core.
-
 Entry-level hydrogeologist (0-3 years) conducts data collection and monitoring well installation; mid-level (3-7 years) handles project design and modelling; senior (7+ years) advances to project manager or technical director, may register as a member of the Geoscience Society of New Zealand (GSNZ), requiring continuing professional development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level hydrogeologist (0-3 years) conducts data collection and monitoring w
 | Subclass SMC (Skilled Migrant Category) | Under the 6-point system, score points based on qualifications, work experience, income, etc. A score of 6 is required to apply. Occupations in ANZSCO skill level 1 receive additional points. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not yet meet residency conditions, you can first work with a certified employer work visa, gain experience, and then transition to residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually requires a bachelor's degree or higher in earth science, hydrology, o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hydrogeologist/NZ)**

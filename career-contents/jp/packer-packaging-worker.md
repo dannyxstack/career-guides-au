@@ -49,8 +49,6 @@ Occupation involving wrapping and packing products or packages. Manual tasks inc
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The introduction of automated packaging and picking systems using AI and robots is progressing, leading to a decline in simple manual packing tasks. Automation is accelerating especially in e-commerce warehouses.
-
 Easy to start with no experience, but promotion paths are limited. Career advancement possible to team leader, quality control, or machine operator.
 
 **Tasks most exposed to AI:**
@@ -134,16 +132,9 @@ Easy to start with no experience, but promotion paths are limited. Career advanc
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Fields: Casting/Die Casting, Industrial Machinery, Electrical/Electronic/Information Manufacturing)) | Eligible for packaging work in manufacturing; requires passing exam. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applies to advanced packaging techniques and management tasks. Not common. |
-| Subclass 技能実習 (Technical Intern Training (manufacturing-related)) | Training in packaging processes of manufacturing possible. Up to 5 years. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -187,12 +178,12 @@ A: Automated packaging machines and robots are being introduced, making simple m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/packer-packaging-worker/JP)**

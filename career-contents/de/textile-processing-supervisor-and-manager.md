@@ -51,8 +51,6 @@ Responsible for supervising and managing the textile processing production line,
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Among the responsibilities of textile processing supervisors and managers, production planning and personnel scheduling can be optimized by AI, but manual judgment in quality control, equipment maintenance decisions, and safety responsibilities are difficult to fully replace, making it a mixed bag.
-
 Can be promoted from skilled technician to team leader, department supervisor, and further to production manager or factory director. Continuing education (e.g., technician or business economics) can expand promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Can be promoted from skilled technician to team leader, department supervisor, a
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Job growth is limited due to global competition and automation, but opportuni
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-processing-supervisor-and-manager/DE)**

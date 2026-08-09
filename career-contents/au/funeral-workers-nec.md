@@ -53,8 +53,6 @@ Responsible for providing funeral services, including body handling, funeral arr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on funeral worker roles is mixed: paperwork, appointments, process optimization will be automated, but core aspects involving emotional support, on-site coordination, traditional ceremonies require human judgment and empathy, and are not easily replaced.
-
 Can advance from assistant role to funeral director or manager, or obtain higher qualifications for specialized paths such as embalmer or funeral planner.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from assistant role to funeral director or manager, or obtain higher
 | Subclass 482 (Temporary Skill Shortage Visa) | Very few employer sponsorships; need to prove unable to hire locally; occupation not on core list |
 | Subclass DAMA (Designated Area Migration Agreement) | Some remote area DAMA agreements may include this occupation; check specifics. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation is not on any skilled occupation list, making skilled migrati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/funeral-workers-nec/AU)**

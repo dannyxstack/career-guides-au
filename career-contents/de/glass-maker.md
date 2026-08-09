@@ -53,8 +53,6 @@ Glass makers are responsible for melting, forming, annealing, and processing gla
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Glass and ceramics manufacturing, decorating, and finishing workers face medium automation risk; manual finishing and artistic design tasks still rely on humans, but standardized product forming, defect detection, etc., will be gradually replaced by AI machine vision and robots.
-
 Start as an operator, can advance to team leader, production supervisor, or become a glass technology technician or industrial master through further education.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Start as an operator, can advance to team leader, production supervisor, or beco
 | Subclass Skilled Worker (EU Blue Card) | If you have a higher education degree and meet the annual salary threshold (approx. EUR 43,800 in 2024), you can apply. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job-seeking residence permit, allowing job search in Germany. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Can be promoted to production supervisor, or become glass craft master or tec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-maker/DE)**

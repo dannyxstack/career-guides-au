@@ -53,8 +53,6 @@ Responsible for promoting and selling medical equipment, pharmaceuticals, consum
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The routine customer communication and data sorting tasks of pharmaceutical sales specialists are easily automated by AI, but complex stakeholder negotiations, trust building, and technical solution customization still require human leadership, showing a 'polarizing' trend.
-
 Typically start as a sales representative or technical specialist, build client resources, then advance to regional manager, national sales manager; can also shift to product management, business development, or marketing roles. Experienced individuals can become industry consultants.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Typically start as a sales representative or technical specialist, build client 
 | Subclass General Employment P (General Employment Permit) | For non-occupation in demand, requires labor market test, annual salary threshold €30,000. |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens; annual salary at least 1.5 times the national average (approx. €40,000); allows free movement to other EU countries. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Common career path: sales representative → regional manager → national sa
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-and-medical-sales-professional-excluding-ict/IE)**

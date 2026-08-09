@@ -1,8 +1,8 @@
-# Advertising, PR, and Marketing Clerk 职业分析 · 韩国
+# 广告、公关和营销文员（Advertising, PR, and Marketing Clerk）职业分析 · 韩国
 
-**职业代码: 02612 (KECO)**
+**职业代码：02612 (KECO)**
 
-A professional office worker responsible for promoting company products or services, developing marketing strategies, and driving sales growth and brand awareness.
+负责推广公司产品或服务、制定营销策略、推动销售增长和品牌认知的专业办公室职员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional office worker responsible for promoting company products or servi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 副学士学位 | 2 年 | $8,000,000~$12,000,000（National University Standard） |
-| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（Private University Standard） |
-| 硕士 | 2 年 | $15,000,000~$30,000,000（Tuition） |
+| 副学士学位 | 2 年 | $8,000,000~$12,000,000（国立大学标准） |
+| 本科（学士学位） | 4年 | $20,000,000~$40,000,000（私立大学标准） |
+| 硕士 | 2 年 | $15,000,000~$30,000,000（学费） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional office worker responsible for promoting company products or servi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Marketing Strategist | Korea Marketing Association | 可选 | Optional Certification |
-| Advertising Manager | Korea Advertising Association | 可选 | Optional Certification |
-| E-commerce Manager | Korea International Trade Association | 可选 | Online Marketing Related |
+| 营销策略师 | 韩国营销协会 | 可选 | 可选认证 |
+| 广告经理 | 韩国广告协会 | 可选 | 可选认证 |
+| 电子商务经理 | 韩国国际贸易协会 | 可选 | 在线营销相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Employment is stable due to digital transformation and increased online marketing demand, but intense competition requires expertise.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于数字化转型和在线营销需求增加，就业稳定，但激烈竞争需要专业知识。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,88 +40,81 @@ A professional office worker responsible for promoting company products or servi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $30,000,000~$45,000,000 | Small and Medium Enterprise Standard |
-| Mid Level (4–7 years) | $40,000,000~$65,000,000 | Large enterprise criteria |
+| 入门级（0–3年） | $30,000,000~$45,000,000 | 中小企业标准 |
+| 中级（4-7年） | $40,000,000~$65,000,000 | 大型企业标准 |
 | 高级（8年+） | $60,000,000~$99,999,999 | 团队主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI is replacing some tasks like data analysis, ad targeting, and content optimization, but strategic planning and creative ideas remain uniquely human, so the job itself will not disappear.
+AI正在取代一些任务如数据分析、广告定向和内容优化，但战略规划和创意仍然独特是人类，所以工作本身不会消失。
 
-Typically start at marketing/advertising agencies or corporate marketing departments, and with experience, can advance to team leader, director, or CMO.
+通常从营销/广告公司或企业营销部门起步，随着经验积累，可晋升至团队负责人、总监或首席营销官。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing Advertising Performance Reports
-- Extracting Simple Target Lists
-- Automating Social Media Posts
+- 撰写广告效果报告
+- 提取简单目标列表
+- 社交媒体帖子自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Creating Customized Ad Materials
-- Customer Segmentation Analysis
-- A/B Test Optimization
+- 创建定制广告素材
+- 客户细分分析
+- A/B测试优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative Marketing Strategy, Human-Emotion-Based Branding, Building Customer Relationships
+- 创意营销策略、基于人类情感的品牌塑造、建立客户关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Analysis, Digital Marketing Tools, AI Prompt Engineering, SQL
+- 数据分析、数字营销工具、AI提示工程、SQL
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Marketing
-- Data-Driven Marketing
-- Content Marketing
-- Social Media Advertising
+- 数字营销
+- 数据驱动营销
+- 内容营销
+- 社交媒体广告
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for professional employment, degree and experience required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence permit, no employment restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | For overseas Koreans, free to engage in employment activities |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with creative and analytical thinking
-- Someone who communicates and collaborates well
-- Someone sensitive to trends
+- 具有创造性和分析思维的人
+- 善于沟通与合作的人
+- 对潮流敏感的人
 
 **谁不适合**
-- Someone who prefers repetitive tasks
-- Someone who likes working alone
+- 喜欢重复性任务的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary?**
-答：For small and medium-sized companies, the annual salary is around 30-45 million KRW, while large companies may offer more.
+**问：平均起薪是多少？**
+答：中小型企业年薪约为3000-4500万韩元，大型企业可能更高。
 
-**问：What visa allows foreigners to work?**
-答：Employment is possible with an E-7 visa, which requires certain experience or a degree. Holders of F-2 or F-4 visas are also eligible.
+**问：什么签证允许外国人工作？**
+答：可通过E-7签证就业，该签证要求一定经验或学位。持有F-2或F-4签证者也可申请。
 
-**问：What is the outlook for this job?**
-答：Employment is increasing with the growth of digital marketing, but competition is intense, so securing expertise is important.
+**问：这份工作的前景如何？**
+答：随着数字营销的增长，就业机会增加，但竞争激烈，因此确保专业知识很重要。
 
 
 ---
@@ -139,12 +132,12 @@ Typically start at marketing/advertising agencies or corporate marketing departm
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/advertising-pr-and-marketing-clerk/KR)**

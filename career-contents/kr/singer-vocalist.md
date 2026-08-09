@@ -4,8 +4,6 @@
 
 Performer specializing in opera, art songs, and musicals; core skills are vocal technique and stage experience.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ Performer specializing in opera, art songs, and musicals; core skills are vocal 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI cannot directly replace vocal performance, but simple stages like choral or tourism performances may be reduced by AI vocal synthesizers and recording technology.
-
 After domestic music college graduation, join opera or musical troupes via study abroad and auditions; only a few enter national opera or overseas stages.
 
 **Tasks most exposed to AI:**
@@ -81,17 +77,9 @@ After domestic music college graduation, join opera or musical troupes via study
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if invited as performing arts professional, but issuance records are rare |
-| Subclass D-2 (D-2 (Study Abroad)) | Enter as music college student, then pursue auditions |
-| Subclass F-2 (F-2 (Residence)) | Long-term residence poses few restrictions on activities after settlement |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -134,12 +122,12 @@ A: Competition is very intense as performance jobs are extremely scarce compared
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/singer-vocalist/KR)**

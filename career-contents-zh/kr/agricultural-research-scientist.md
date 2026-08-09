@@ -1,10 +1,8 @@
-# Agricultural Research Scientist 职业分析 · 韩国
+# 农业研究科学家（Agricultural Research Scientist）职业分析 · 韩国
 
-**职业代码: 12213 (KECO)**
+**职业代码：12213 (KECO)**
 
-A professional who studies genes, soil, and cultivation techniques to improve crop productivity and sustainable agriculture.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+研究基因、土壤和栽培技术以提高作物生产力和可持续农业的专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who studies genes, soil, and cultivation techniques to improve cr
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（Annual tuition fee: lower at public universities, higher at private universities） |
-| 硕士 | 2 年 | $5,000,000~$10,000,000（Annual tuition fee: research funding may be available） |
+| 本科（学士学位） | 4年 | $4,000,000~$8,000,000（年学费：公立大学较低，私立大学较高） |
+| 硕士 | 2 年 | $5,000,000~$10,000,000（年度学费：可能提供研究资助） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who studies genes, soil, and cultivation techniques to improve cr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Degree in Agriculture | 大学 | 必备 | Majors such as agronomy, horticulture, and plant biotechnology are required |
-| Research Experience | Research Institute | 可选 | Experience in publishing papers and participating in projects is important |
+| 农业学位 | 大学 | 必备 | 需要农学、园艺、植物生物技术等专业 |
+| 研究经验 | 研究所 | 可选 | 发表论文和参与项目的经验很重要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 2,500. Employment is stable due to the expansion of smart farms and increased research demand for climate change response, but the number of jobs is limited due to the nature of research positions.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 2,500。由于智能农场的扩张和应对气候变化的研究需求增加，就业稳定，但受限于研究职位的性质，岗位数量有限。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,94 +38,86 @@ A professional who studies genes, soil, and cultivation techniques to improve cr
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $30,000,000~$40,000,000 | Based on national research institutes; private research institutes may be lower |
-| Intermediate (4-10 years) | $40,000,000~$60,000,000 | Principal researcher level |
-| Advanced (10+ years) | $60,000,000~$90,000,000 | Senior researcher or higher; higher with a doctoral degree |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于国家研究机构；私营研究机构可能较低 |
+| 中级（4-10年） | $40,000,000~$60,000,000 | 首席研究员级别 |
+| 高级（10年以上） | $60,000,000~$90,000,000 | 高级研究员或以上；拥有博士学位者更佳 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI enhances some tasks like automated data collection and analysis, crop growth prediction, but creative and field work such as hypothesis formulation and experiment design remains human territory.
+AI增强了自动数据收集分析、作物生长预测等任务，但假设提出和实验设计等创意与实地工作仍属人类领域。
 
-After obtaining a master's degree, one can advance to a research institute or graduate school, and be promoted to postdoctoral researcher or principal researcher. Competition for full-time conversion is fierce.
+获得硕士学位后，可进入研究所或研究生院，晋升为博士后研究员或首席研究员。转正竞争激烈。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- standardized data collection and preprocessing
-- weather data analysis
-- basic statistical processing
+- 标准化数据收集与预处理
+- 气象数据分析
+- 基础统计处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- crop stress detection
-- yield prediction
-- optimal cultivation condition search
+- 作物胁迫检测
+- 产量预测
+- 最佳栽培条件搜索
 
-**人类护城河:**
+**人类护城河：**
 
-- field experiment design and execution
-- decision-making for climate-adaptive variety development
-- agricultural policy and cultivation method consulting
+- 现场实验设计与执行
+- 气候适应性品种开发的决策
+- 农业政策与种植方法咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
 - Python/R数据分析
-- machine learning modeling
-- remote sensing
-- IoT technology understanding
+- 机器学习建模
+- 遥感
+- 物联网技术理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- smart farm
-- digital agriculture
-- climate change response
-- crop genome research
+- 智慧农场
+- 数字农业
+- 气候变化应对
+- 作物基因组研究
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | May be issued when conducting agricultural research at a research institute; requires bachelor's degree or higher and experience |
-| Subclass D-10 (Job Seeking) | Can stay for job search after master's graduation, linked to employment in research field |
-| Subclass F-2 (Residence) | Long-term stay; can transition to permanent residence when research career is recognized |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with deep curiosity about agriculture and life sciences
-- Someone patient enough to consistently conduct experiments and data analysis
-- Someone confident in writing and presenting research papers
+- 对农业和生命科学有浓厚兴趣的人
+- 有耐心持续进行实验和数据分析的人
+- 自信于撰写和展示研究论文的人
 
 **谁不适合**
-- Someone who cannot endure repetitive, long-term research processes
-- Someone who dislikes fieldwork such as outdoor activities
+- 无法忍受重复、长期研究过程的人
+- 不喜欢户外活动等实地工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for an agricultural research scientist?**
-答：For entry-level researchers, pre-tax annual salary is around 30-40 million KRW, with differences between national/public and private institutes.
+**问：农业研究科学家的起薪是多少？**
+答：对于初级研究员，税前年薪约3000-4000万韩元，国立/公立与私立研究所有差异。
 
-**问：What visa does a foreigner need to work as an agricultural research scientist in Korea?**
-答：The E-7 (Specific Activities) visa is common, requiring a relevant bachelor's degree and research experience.
+**问：外国人在韩国担任农业研究科学家需要哪种签证？**
+答：E-7（特定活动）签证常见，要求相关学士学位和研究经验。
 
-**问：Can one become a researcher without a master's degree?**
-答：Possible, but a master's degree or higher is advantageous for research positions, and most research institutes require a master's degree.
+**问：没有硕士学位能成为研究员吗？**
+答：可能，但硕士或以上学历对研究岗位有利，多数研究机构要求硕士学历。
 
 
 ---
@@ -145,12 +135,12 @@ After obtaining a master's degree, one can advance to a research institute or gr
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/agricultural-research-scientist/KR)**

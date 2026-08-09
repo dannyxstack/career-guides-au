@@ -54,8 +54,6 @@ Diagnose and treat internal organ diseases in adults and adolescents, primarily 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-GP's core diagnostic responsibilities in Canada are protected by regulation, hard for AI to replace; but administrative tasks and some diagnostic support will be automated. Short-term entry barriers due to credential assessment and licensing won't lower; long-term need to adapt to AI tools for efficiency.
-
 After completing residency training, can choose specialization such as cardiology or gastroenterology, or advance to department head, medical director, or pursue academic research or healthcare management.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ After completing residency training, can choose specialization such as cardiolog
 | Subclass EB-2 (Employment-Based Second Preference (Advanced Degree)) | Holds an MD degree and passes PERM labor certification; applicable to advanced degree physicians |
 | Subclass J-1 Waiver (Conrad 30 Waiver) | Foreign medical graduates can serve in designated shortage areas to obtain a waiver for the two-year home residency requirement, then transition to H-1B or green card |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can further specialize as a medical specialist (e.g., cardiology), or move in
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/general-internal-medicine-physicians/US)**

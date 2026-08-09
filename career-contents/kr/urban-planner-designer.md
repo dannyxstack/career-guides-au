@@ -4,8 +4,6 @@
 
 A professional who establishes long-term development plans for cities and comprehensively designs land use, transportation, environment, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who establishes long-term development plans for cities and compre
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used as an auxiliary tool in data analysis and simulation, but urban planning relies on social consensus, policy judgment, and legal grounds, making automation difficult. AI enhances productivity but does not replace human decision-making.
-
 After graduating from graduate school, they typically join public enterprises, engineering firms, or policy research institutes. After obtaining a professional engineer license, they are promoted to manager positions, or they start a business or become a university professor.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ After graduating from graduate school, they typically join public enterprises, e
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for urban planning as a professional, needs employment contract |
-| Subclass F-2 (Residence) | Convertible to points system, advantageous for long-term stay |
-| Subclass F-5 (Permanent Residence) | Can apply after residing for a set period, no employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: A bachelor's degree in urban engineering, regional development, or related fi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/urban-planner-designer/KR)**

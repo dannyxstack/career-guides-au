@@ -1,10 +1,8 @@
-# Production & Quality Clerk 职业分析 · 韩国
+# 生产与质量文员（Production & Quality Clerk）职业分析 · 韩国
 
-**职业代码: 02841 (KECO)**
+**职业代码：02841 (KECO)**
 
-Performs production and quality-related clerical tasks in manufacturing settings, including production planning, quality control, and inventory management.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在制造环境中执行生产与质量相关的文书工作，包括生产计划、质量控制和库存管理。
 
 
 ---
@@ -13,8 +11,8 @@ Performs production and quality-related clerical tasks in manufacturing settings
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | 0年 | $0~$0（High school graduate recruitment possible） |
-| Associate's Degree (2-3 years) | 2 年 | $2,000,000~$6,000,000（National/Private differences） |
+| 高中文凭 | 0年 | $0~$0（可招聘高中毕业生） |
+| 副学士学位（2-3年） | 2 年 | $2,000,000~$6,000,000（国家/私立差异） |
 
 ---
 
@@ -22,18 +20,18 @@ Performs production and quality-related clerical tasks in manufacturing settings
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Quality Management Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for quality control work |
-| Production Management Engineer | Human Resources Development Service of Korea | 可选 | Extra points in production planning |
-| Computer Proficiency | Korea Chamber of Commerce and Industry | 可选 | Excel etc. essential |
+| 质量管理工程师 | 韩国人力资源开发服务局 | 可选 | 对质量管控工作有利 |
+| 生产管理工程师 | 韩国人力资源开发服务局 | 可选 | 生产计划中的额外加分 |
+| 计算机熟练度 | 大韩商工会议所 | 可选 | Excel等必备 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 54,000. Demand is stable due to smart manufacturing and increased quality importance, but turnover is low and competition is moderate.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 54,000。由于智能制造和质量重要性提高，需求稳定，但人员流动率低，竞争适中。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,94 +39,86 @@ Performs production and quality-related clerical tasks in manufacturing settings
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $28,000,000~$35,000,000 | Varies by company size |
-| 中级（4-7年） | $35,000,000~$45,000,000 | Reflects certifications and experience |
-| 高级（8年+） | $45,000,000~$60,000,000 | Eligible for management transition |
+| 初级 (0-3年) | $28,000,000~$35,000,000 | 因公司规模而异 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 反映认证和经验 |
+| 高级（8年+） | $45,000,000~$60,000,000 | 符合管理转型条件 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can replace tasks in production planning optimization, quality data analysis, etc., but field coordination and decision-making still require human roles. Automation and collaboration are expected.
+AI可以替代生产计划优化、质量数据分析等任务，但现场协调和决策仍需人类角色。自动化和协作有望实现。
 
-Office Assistant → Production & Quality Clerk → Team Lead/Manager → Quality Control Manager. Experience and certifications (e.g., Quality Management Engineer) aid promotion.
+办公室助理 → 生产与质量文员 → 团队领导/经理 → 质量控制经理。经验和认证（如质量管理工程师）有助于晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Production planning
-- Recording and organizing quality data
-- Simple inventory management
+- 生产计划
+- 记录和整理质量数据
+- 简单的库存管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Detecting and analyzing quality anomalies
-- Production schedule optimization
-- Supply chain data analysis
+- 检测和分析质量异常
+- 生产计划优化
+- 供应链数据分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Judging site conditions
-- Solving unstructured problems
-- Human consultation and coordination
+- 现场条件判断
+- 解决非结构化问题
+- 人工咨询与协调
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- ERP system utilization
-- Understanding smart factories
-- Statistical quality control
+- 数据分析
+- ERP系统运用
+- 了解智能工厂
+- 统计质量控制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart factory
-- Quality management
-- ISO certification
-- Data analysis
+- 智能工厂
+- 质量管理
+- ISO认证
+- 数据分析
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Possible to apply as a production management professional in manufacturing, but general office work is difficult |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence stage targeting skilled workers, no employment restrictions |
-| Subclass F-4 (Overseas Korean (F-4)) | For overseas Koreans, eligible for manufacturing office jobs |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and systematic personality
-- Person familiar with numbers and data analysis
-- Person interested in collaboration with the manufacturing site
+- 细致且有条理的性格
+- 熟悉数字和数据分析的人
+- 对与制造现场合作感兴趣的人
 
 **谁不适合**
-- Person who finds repetitive office work boring
-- Person who prefers independent work over interpersonal relationships
+- 觉得重复性办公室工作枯燥无味的人
+- 偏好独立工作而非人际交往的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average starting salary for a production/quality clerk?**
-答：Approximately 28 to 35 million KRW for entry-level, and 35 million KRW or more at mid-to-large companies.
+**问：生产/质量文员的平均起薪是多少？**
+答：入门级约2800-3500万韩元，中大型企业3500万韩元或以上。
 
-**问：Can foreigners obtain a work visa for this occupation?**
-答：E-7 visa is difficult due to expertise requirements, but you can work with an F-2 or F-4 visa. E-9 visa is not applicable.
+**问：外国人能获得这个职业的工作签证吗？**
+答：E-7签证因专业知识要求难以获得，但可持F-2或F-4签证工作。E-9签证不适用。
 
-**问：Which certifications are helpful for promotion?**
-答：Certifications like Quality Management Engineer or Production Management Engineer are advantageous for promotion and job change.
+**问：哪些证书有助于晋升？**
+答：质量管理工程师或生产管理工程师等认证对晋升和换工作有利。
 
 
 ---
@@ -146,12 +136,12 @@ Office Assistant → Production & Quality Clerk → Team Lead/Manager → Qualit
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/production-quality-clerk/KR)**

@@ -4,8 +4,6 @@
 
 Engaged in wood preservation, drying, impregnation treatment, and other treatments to ensure wood quality and durability. Usually working in timber processing plants or construction sites, it is necessary to master the use of chemical treatment agents and equipment operation skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Engaged in wood preservation, drying, impregnation treatment, and other treatmen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Core tasks of wood processing workers, such as spraying preservatives and monitoring drying kilns, are being rapidly replaced by automated systems and AI visual inspection. Entry-level positions are decreasing, but high-risk chemical operations and equipment maintenance still require manpower.
-
 Operators can be promoted to team leader or quality control technician. Through advanced FP studies, students can transition to wood technicians or production supervisors, or enter related fields such as timber trading and inspection.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ Operators can be promoted to team leader or quality control technician. Through 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | You need to obtain a Spanish employer work contract, and the position must meet minimum wage requirements; the process is relatively standard. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: Usually, higher education is not required; after completing FP Grado Medio (2
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-treatment-workers/ES)**

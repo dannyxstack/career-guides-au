@@ -4,8 +4,6 @@
 
 Responsible for planning, organizing, and promoting artists' performances, exhibitions, and cultural activities, including contract negotiations, media publicity, and ticket management, as well as collaborating with venues, sponsors, and media.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for planning, organizing, and promoting artists' performances, exhib
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will significantly enhance the media planning, client matching, and data analysis tasks of performance promoters, but automation cannot replace the core responsibilities of interpersonal negotiation, creative curation, and on-site response, and overall job roles are expanding rapidly.
-
 Typically, they start as assistants or brokers, gradually managing projects independently and advancing to senior promoters or company directors. You can also develop into entertainment management, music industry management, or establish your own promotion company.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Typically, they start as assistants or brokers, gradually managing projects inde
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as those in culture and the arts. You must prove that the project contributes to French culture, and the validity period is four years |
-| Subclass Salarié (Employee (Salaried Worker)) | Employed by a French company, work permit required. Employers must prove that suitable candidates cannot be found within the EU |
-| Subclass Recherche emploi (Job Seeker) | After holding a French master's degree, you can apply for a one-year temporary residence to find a job |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +139,12 @@ A: Can apply for a Talent Passport (Passeport Talent), applicable in the cultura
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artist-and-show-promoter/FR)**

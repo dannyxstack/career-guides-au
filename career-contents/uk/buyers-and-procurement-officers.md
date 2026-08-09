@@ -52,8 +52,6 @@ Procurement and purchasing officers are responsible for purchasing raw materials
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly optimize procurement processes, but core negotiation and supplier relationship management still rely on humans; low-value procurement tasks are easily replaced, while strategic procurement roles gain value, overall mixed outlook.
-
 Entry-level buyers can advance to senior buyer, purchasing manager, and then supply chain director. CIPS certification aids career development.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level buyers can advance to senior buyer, purchasing manager, and then sup
 | Subclass Scale-up (Scale-up visa) | Procurement talent suitable for fast-growing companies, requiring high skills |
 | Subclass Graduate (Graduate visa) | Graduate visa allows working in the UK for 2 years (3 years for PhD), then transitioning to a skilled worker visa after gaining experience |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from Junior Buyer to Senior Procurement Officer, Procurement Man
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/buyers-and-procurement-officers/UK)**

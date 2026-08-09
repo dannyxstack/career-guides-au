@@ -51,8 +51,6 @@ Responsible for installation, maintenance, fault diagnosis, and repair of agricu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation has a mixed impact on agricultural and industrial machinery mechanics and repairers: predictive maintenance and remote diagnostics will replace some routine inspections, but complex fault repairs and on-site work still rely on human judgment. Overall demand is stable but skill requirements are rising.
-
 Can progress from apprentice to senior technician or team supervisor, or transition to machinery sales, service management, or self-employed repair shop with experience.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from apprentice to senior technician or team supervisor, or transit
 | Subclass General Employment P (General Employment Permit) | Applies to non-occupations in shortage, must meet salary threshold (annual salary above €34,000) |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If working in agricultural machinery repair, may qualify for skills shortage eligibility, with an annual salary of over 32,000 euros. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior technician, service manager, or start own mechanical re
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-industrial-machinery-mechanic-and-repairer/IE)**

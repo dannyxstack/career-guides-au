@@ -52,8 +52,6 @@ Data and telecommunications cable installers install, maintain, and repair telec
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Telecommunications line installers and repairers face a high risk of automation, especially as automatic fiber fusion splicing, drone inspection, and AI-assisted fault diagnosis will significantly reduce manual demand, but on-site work and emergency response still provide some protection.
-
 Start as an apprentice or assistant, gain experience, then advance to senior cabler, project supervisor, or move into higher technical roles such as network engineering or telecommunications engineering.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as an apprentice or assistant, gain experience, then advance to senior cab
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residency, with some states having demand for telecommunications technicians |
 | Subclass 491 (Skilled Work Regional Visa) | Regional temporary visa, can switch to 191 permanent residence after meeting residency requirements |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Driven by 5G, NBN, and data center construction, demand continues to grow, te
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cabler-data-and-telecommunications/AU)**

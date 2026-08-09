@@ -52,8 +52,6 @@ Arborists or forestry workers in Canada are typically classified as landscape an
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Landscaping and horticulture services contractors/supervisors have mixed prospects: physical and on-site decision tasks are hard to automate, but documentation, monitoring, and client communication are being enhanced by AI, with medium automation risk.
-
 From entry-level arborist or forestry worker, can advance to team supervisor, project manager, or obtain ISA certification for senior technical roles. Opportunities also exist to start a horticultural services company.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ From entry-level arborist or forestry worker, can advance to team supervisor, pr
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program (AIP) for arborists with a job offer |
 | Subclass EE (Express Entry) | If obtaining a 0AB job and meeting language requirements, can apply for Federal Skilled Worker or Canadian Experience Class |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Not mandatory, but obtaining the ISA International Arborist certification can
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-landscaping-grounds-maintenance-and-horticulture-services/CA)**

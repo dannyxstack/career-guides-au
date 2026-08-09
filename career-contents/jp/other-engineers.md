@@ -51,8 +51,6 @@ Engineers and technicians not classified elsewhere, working in a wide range of f
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-While routine design and analysis tasks shrink due to AI and automation, advanced AI-driven technical development and project management will grow.
-
 Gain experience as an engineer, advance to project leader or management. Career advancement possible through professional certifications.
 
 **Tasks most exposed to AI:**
@@ -91,16 +89,9 @@ Gain experience as an engineer, advance to project leader or management. Career 
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable with university degree or 10+ years experience; qualifies as engineer. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Manufacturing, etc.)) | Obtain by passing skills and Japanese exams; work in manufacturing, etc. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)/(ii)) | Point-based preferential treatment; easier permanent residency. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -144,12 +135,12 @@ A: Not mandatory, but having a national certification like Professional Engineer
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-engineers/JP)**

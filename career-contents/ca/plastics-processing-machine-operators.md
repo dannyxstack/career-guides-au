@@ -53,8 +53,6 @@ Operate plastic processing machines such as injection molding machines, extruder
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Plastic processing machine operators face moderate-to-high automation risk; AI and robots will gradually take over repetitive tasks like parameter adjustment and quality inspection, but on-site troubleshooting still requires human intervention.
-
 Junior operators can advance to senior operators or team leaders. By accumulating experience, they can move to roles such as process technician, quality control, or production supervisor. Some operators become tooling technicians or machine repairers through training. Further education can lead to engineering technical positions.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior operators can advance to senior operators or team leaders. By accumulatin
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a high school diploma, with most skills acquired through o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plastics-processing-machine-operators/CA)**

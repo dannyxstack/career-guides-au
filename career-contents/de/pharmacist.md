@@ -54,8 +54,6 @@ Pharmacists are responsible for the preparation, dispensing, and consultation of
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Pharmacist roles face mixed outlook: repetitive dispensing is easily replaced by AI, but clinical consultation, personalized medication management, and expanded prescribing rights will be amplified by AI, demand shifts to advanced clinical roles.
-
 Career paths include pharmacy manager, hospital pharmacy director, pharmaceutical industry R&D or quality control positions, or further education to become a specialist pharmacist (e.g., clinical pharmacy).
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career paths include pharmacy manager, hospital pharmacy director, pharmaceutica
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | After academic qualification assessment, a skilled migration visa is possible, requiring a job offer. |
 | Subclass Recognition Visa (Recognition Visa (§16d AufenthG)) | Used to complete the qualification recognition process in Germany, with a maximum stay of 18 months. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Mainly in community pharmacies or hospital pharmacies, stable work but requir
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pharmacist/DE)**

@@ -1,10 +1,8 @@
-# Advertising Video Director 职业分析 · 韩国
+# 广告视频导演（Advertising Video Director）职业分析 · 韩国
 
-**职业代码: 41614 (KECO)**
+**职业代码：41614 (KECO)**
 
-A professional who plans the concept of an advertisement, directs the overall filming, and completes the final video. Collaborates with a creative director to oversee ad production.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+策划广告概念、指导整体拍摄并完成最终视频的专业人士。与创意总监合作监督广告制作。
 
 
 ---
@@ -13,7 +11,7 @@ A professional who plans the concept of an advertisement, directs the overall fi
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Video/Advertising at a junior college or 4-year university | 2-4年 | $8,000,000~$20,000,000（Tuition fees for national/public universities） |
+| 短期大学或四年制大学的视频/广告系 | 2-4年 | $8,000,000~$20,000,000（国立/公立大学学费） |
 
 ---
 
@@ -21,17 +19,17 @@ A professional who plans the concept of an advertisement, directs the overall fi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast and Communications Engineer | Korea Communications Agency | 可选 | Optional but advantageous for broadcast production |
-| Degree in video/advertising | 大学 | 可选 | Preferred when hiring |
+| 广播和通信工程师 | 韩国通信处 | 可选 | 对广播制作非必需但有利 |
+| 视频/广告学位 | 大学 | 可选 | 招聘时优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 2,500. Demand is steady with the growth of the digital ad market, but some tasks are expected to be automated due to AI technology advancements.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 2,500。随着数字广告市场的增长，需求稳定，但由于人工智能技术发展，部分任务预计将被自动化。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,94 +37,87 @@ A professional who plans the concept of an advertisement, directs the overall fi
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $28,000,000~$40,000,000 | Varies widely for freelancers |
-| 中级（4-7年） | $45,000,000~$60,000,000 | Based on production company regular employee standards |
-| 高级（8年+） | $60,000,000~$99,999,999 | Varies by performance |
+| 入门级（0-3年） | $28,000,000~$40,000,000 | 自由职业者差异很大 |
+| 中级（4-7年） | $45,000,000~$60,000,000 | 以制作公司正式员工标准为准 |
+| 高级（8年+） | $60,000,000~$99,999,999 | 视绩效而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI is replacing some tasks such as storyboard generation and automated editing, but concept planning and creative decisions remain a uniquely human domain. Thus, some job aspects are enhanced while others are reduced, resulting in a mixed impact.
+AI正在取代部分任务，如分镜生成和自动剪辑，但概念策划和创意决策仍属人类专属领域。因此，部分工作内容被强化，部分被削弱，影响混合。
 
-Typically starts as an assistant director or PD, builds experience, and is promoted to advertising video director. May work as a freelancer or become a permanent director at a major production company.
+通常从助理导演或PD开始，积累经验后晋升为广告视频导演。可作为自由职业者，或成为大型制作公司的常驻导演。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic video editing
-- Automatic storyboard generation
-- Simple color correction
-- Partial shooting scheduling
+- 基础视频剪辑
+- 自动故事板生成
+- 简单色彩校正
+- 部分拍摄日程安排
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Concept planning
-- Pre-production simulation
-- AI-based budget management
+- 概念策划
+- 前期制作模拟
+- 基于AI的预算管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative intuition
-- On-site leadership
-- Human-centered emotional direction
-- Client negotiation
+- 创意直觉
+- 现场领导能力
+- 以人为本的情感导向
+- 客户谈判
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI video generation tools (e.g., Stable Video)
-- Data-driven advertising effectiveness prediction
-- Ability to produce short-form content in various formats
+- AI视频生成工具（如Stable Video）
+- 数据驱动的广告效果预测
+- 能够以多种格式制作短内容
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Advertising
-- Short-form Content
-- Branded Content
-- AI Video Production
+- 数字广告
+- 短内容
+- 品牌内容
+- AI视频制作
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as a professional in advertising/video, but applies the principle of preferential hiring for Koreans |
-| Subclass D-10 (D-10 (Job Seeking)) | Issued to those majoring in video, convertible to E-7 after job-seeking activities |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with creative ideas
-- People who lead teams and communicate well
-- People who stay focused under stress
+- 有创意想法的人
+- 领导团队且沟通能力强的人
+- 能在压力下保持专注的人
 
 **谁不适合**
-- People who prefer routine and stable environments
-- People who like working alone
+- 喜欢常规和稳定环境的人
+- 喜欢独自工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an advertising video director?**
-答：It varies significantly by experience and employment type; for mid-level, it is about 45 to 60 million KRW.
+**问：广告视频导演的平均薪资是多少？**
+答：因经验和就业类型差异很大；对于中级职位，大约为4500万至6000万韩元。
 
-**问：What visa is needed for a foreigner to work as an advertising video director?**
-答：An E-7 (Specific Activities) visa is required, and an invitation from a Korean production company along with a hiring justification letter is mandatory.
+**问：外国人在广告视频导演工作中需要什么签证？**
+答：需要E-7（特定活动）签证，且必须获得韩国制作公司的邀请函和雇佣理由书。
 
-**问：Will AI replace the job of an advertising video director?**
-答：While planning and editing tasks will be partially automated, creative directing and human relationship management will remain.
+**问：AI会取代广告视频导演的工作吗？**
+答：虽然规划和编辑任务将部分自动化，但创意指导和人际关系管理仍将保留。
 
 
 ---
@@ -144,12 +135,12 @@ Typically starts as an assistant director or PD, builds experience, and is promo
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/advertising-video-director/KR)**

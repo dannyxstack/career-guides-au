@@ -51,8 +51,6 @@ Sculptors create three-dimensional artworks, carving, shaping, or casting works 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core handcraft skills of sculptors are partially replaced by AI-generated 3D models and CNC carving, but high-end artistic originality, material tactility, and public aesthetic judgment are difficult to automate. The role is facing downsizing but not extinction.
-
 Career path can start as an independent artist, building a portfolio before moving into art institutions, galleries, or restoration studios. Opportunities include art director, exhibition curator, or art educator, or specializing in specific materials and techniques.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Career path can start as an independent artist, building a portfolio before movi
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Can advance from employed sculptor to studio manager or art director, or beco
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sculptor/DE)**

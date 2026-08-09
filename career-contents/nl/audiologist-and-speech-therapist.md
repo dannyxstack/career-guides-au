@@ -50,8 +50,6 @@ Audiologists and speech therapists diagnose and treat hearing, speech, and commu
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
-
 Career progression can go from junior clinical roles to senior therapist, department head, or academic research positions, and you can also open a private practice. Professional certification and continuing education are key to advancement.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career progression can go from junior clinical roles to senior therapist, depart
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled immigrants with a Dutch employer sponsor, meeting the salary threshold (approx. €5,216/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated professionals, requires a work contract and a higher salary (approximately €5,900/month in 2024) |
-| Subclass Orientation Year (Orientation Year) | International students graduating in the Netherlands can apply for a one-year orientation stay permit, then switch to a work visa upon finding a job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Yes, there is a general shortage in the Dutch healthcare sector, especially i
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiologist-and-speech-therapist/NL)**

@@ -51,8 +51,6 @@ Supervise printing and related industry workers, coordinate operations, and ensu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Print workers face dual pressures from AI and automation: digital printing and quality inspection are increasingly automated, but creative color mixing, equipment maintenance, and client communication still rely on human experience, making career prospects mixed.
-
 Can progress from printing technician to supervisor, then to production manager or quality control manager, requiring experience and management skills.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Can progress from printing technician to supervisor, then to production manager 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Yes, via Express Entry or PNP, but must meet language, work experience, and o
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-printing-and-related-occupations/CA)**

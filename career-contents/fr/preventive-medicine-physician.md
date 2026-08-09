@@ -4,8 +4,6 @@
 
 Preventive medicine doctors focus on disease prevention, health promotion, and public health, working in French companies, public health institutions, or regional health bureaus, responsible for occupational health checkups, vaccinations, epidemiological surveillance, and health risk assessment.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Preventive medicine doctors focus on disease prevention, health promotion, and p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core tasks of preventive medicine doctors (epidemiological analysis and health risk assessment) will be significantly enhanced by AI tools, but automation will compress standardized steps such as data collection and report writing, resulting in a mixed overall situation.
-
 Career paths: Corporate Preventive Medicine Doctor (Médecin du travail) → Chief Preventive Physician (Médecin chef) → Public Health Department Management positions. It can also turn to health policy consulting, epidemiology, or academic research. Continuing study in occupational disease and health management is required.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Career paths: Corporate Preventive Medicine Doctor (Médecin du travail) → Chi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, such as doctors, requiring long-term contracts or qualification recognition |
-| Subclass Salarié (Employee Visa) | A work contract (CDI/CDD) from a French employer is required, along with verification of qualifications and experience |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, requiring higher education + annual salary above the threshold (about 53,000 euros) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: Doctors can be promoted from corporate preventive medicine doctors to chief p
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/preventive-medicine-physician/FR)**

@@ -1,10 +1,8 @@
 # 法官（Judge）职业分析 · 韩国
 
-**职业代码: 22111 (KECO)**
+**职业代码：22111 (KECO)**
 
-A judicial officer who presides over court proceedings and resolves legal disputes. A profession that realizes social justice through fair trials in accordance with the constitution and laws.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+主持法庭程序并解决法律纠纷的司法官员。通过依据宪法和法律进行公正审判，实现社会正义的职业。
 
 
 ---
@@ -13,8 +11,8 @@ A judicial officer who presides over court proceedings and resolves legal disput
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Law School | 3年 | $99,999,999~$99,999,999（Includes tuition and living expenses. National universities are relatively affordable.） |
-| Judicial Research and Training Institute (JRTI) | 2 年 | $0~$0（Government-funded education; stipend provided upon completion.） |
+| 法学院 | 3年 | $99,999,999~$99,999,999（包括学费和生活费。国立大学相对负担得起。） |
+| 司法研究与培训中心（JRTI） | 2 年 | $0~$0（政府资助教育；完成学业后提供津贴。） |
 
 ---
 
@@ -22,17 +20,17 @@ A judicial officer who presides over court proceedings and resolves legal disput
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Lawyer's License | Ministry of Justice, Republic of Korea | 必备 | Required to pass the bar exam after graduating from law school. |
-| Appointment as a Judge | Supreme Court of Korea | 必备 | Requires more than 10 years of lawyer experience or completion of JRTI and passing the appointment screening. |
+| 律师执照 | 大韩民国法务部 | 必备 | 法学院毕业后必须通过律师资格考试。 |
+| 法官任命 | 韩国最高法院 | 必备 | 需要10年以上律师经验或完成JRTI并通过任命筛选。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 3,200. Due to population aging and an increase in legal disputes, demand for judges is stable, but employment growth is expected to be modest as the number of appointments is limited.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 3,200。由于人口老龄化和法律纠纷增加，法官需求稳定，但任命名额有限，就业增长预计较小。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,96 +38,88 @@ A judicial officer who presides over court proceedings and resolves legal disput
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0-5 years) | $60,000,000~$80,000,000 | Entry-level judge, subject to the salary regulations for court officials. |
-| Mid-level (5-15 years) | $90,000,000~$99,999,999 | Corresponding to a presiding judge of a district court. |
-| 高级（15年以上） | $99,999,999 | Senior judge of a high court or higher. |
+| 初级（0-5年） | $60,000,000~$80,000,000 | 初级法官，按法院工作人员薪酬规定执行。 |
+| 中级别（5-15年） | $90,000,000~$99,999,999 | 对应地方法院首席法官。 |
+| 高级（15年以上） | $99,999,999 | 高等法院或以上高级法官。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist judges in tasks such as legal document review, case analysis, and sentencing prediction, but final judgment and discretion will remain the exclusive domain of human judges. AI can enhance work efficiency, allowing judges to focus on more complex cases.
+AI可协助法官进行法律文档审查、案件分析和量刑预测，但最终判决和裁量权仍由人类法官独享。AI能提升工作效率，让法官专注更复杂的案件。
 
-After passing the bar exam or graduating from law school, obtaining a lawyer's license, and upon appointment as a judge, one can advance to positions such as senior judge of a high court after more than 10 years of experience.
+通过律师资格考试或法学院毕业后，获得律师执照，并被任命为法官后，可以在10年以上经验后晋升为高等法院高级法官等职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized case law search
-- Simple document classification
-- Sentencing data analysis
+- 标准化判例法检索
+- 简单文档分类
+- 量刑数据分析
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Legal research
-- Case citation verification
-- Factual summary
-- Drafting judgments
+- 法律研究
+- 案例引用验证
+- 事实摘要
+- 起草判决书
 
-**人类护城河:**
+**人类护城河：**
 
-- Value judgment
-- Fairness and ethical decisions
-- Creativity in legal interpretation
-- Human understanding and discretion
+- 价值判断
+- 公平与道德决策
+- 法律解释中的创造力
+- 人类理解与判断力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Legal data analysis
-- AI literacy
-- Complex legal reasoning
-- Communication and mediation skills
+- 法律数据分析
+- AI素养
+- 复杂的法律推理
+- 沟通与调解技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Expansion of judicial services
-- Increase in specialized courts
-- International law field
-- Introduction of e-litigation
+- 司法服务扩展
+- 专业法庭增加
+- 国际法领域
+- 电子诉讼介绍
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (specific activities) | Foreign lawyers can engage in specialized activities at domestic law firms, but appointment as a judge is practically impossible. |
-| Subclass F-2 (Residence) | Requires separate procedures like naturalization after permanent residency. Not a typical immigration path. |
-| Subclass F-5 (Permanent residency) | Permanent residency possible after long-term residence, but judge position is for locals only. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 很低（½☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- For those with excellent logical thinking and legal knowledge
-- For those with strong sense of fairness and ethics
-- For those able to endure long-term study and high-pressure situations
+- 适合逻辑思维和法学知识优秀的人
+- 适合具有强烈公平感和道德感的人
+- 适合能够承受长期学习与高压环境的人士
 
 **谁不适合**
-- For those seeking immediate rewards and quick results
-- For those preferring independent work over collaboration
+- 适合追求即时回报和快速结果的人
+- 适合喜欢独立工作而非协作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a judge's annual salary?**
-答：Starting judges earn about 60-80 million KRW pre-tax annually, rising to 140-200 million KRW after 15+ years.
+**问：法官的年薪是多少？**
+答：新任法官税前年薪约6000-8000万韩元，15年后升至1.4-2亿韩元。
 
-**问：Can foreigners become judges in Korea?**
-答：Korean courts are for locals only; it is very difficult for foreigners to be appointed as judges. E-7 visa allows legal advisory activities but not judge duties.
+**问：外国人能在韩国成为法官吗？**
+答：韩国法院仅限本国人；外国人很难被任命为法官。E-7签证允许法律咨询活动，但不包括法官职责。
 
-**问：What is the process to become a judge?**
-答：Must graduate from law school (3 years), pass the bar exam, have 10+ years of attorney experience or complete Judicial Research and Training Institute, then pass judge appointment screening.
+**问：成为法官的流程是什么？**
+答：必须毕业于法学院（3年），通过律师资格考试，拥有10年以上律师经验或完成司法研修院培训，然后通过法官任命筛选。
 
 
 ---
@@ -147,12 +137,12 @@ After passing the bar exam or graduating from law school, obtaining a lawyer's l
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 很低（½☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/judge/KR)**

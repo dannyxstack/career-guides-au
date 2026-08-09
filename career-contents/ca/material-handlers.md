@@ -53,8 +53,6 @@ In Canada, forklift operators are typically classified as material handlers (NOC
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Material handlers (including forklift operators) face high automation risk; AI and robots will reduce job opportunities, but complex warehouse scenarios still rely on human judgment.
-
 Junior forklift operators can advance to senior operators, warehouse supervisors, or logistics coordinators. Certifications (e.g., IIFIT or provincial safety certificates) can boost salary. Some gain supply chain management diplomas through further study and move to management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior forklift operators can advance to senior operators, warehouse supervisors
 | Subclass EE (Express Entry (Federal Skilled Worker / Canadian Experience Class)) | If you meet TER 5 work experience requirements and score enough points, you can apply through Express Entry. However, it usually requires additional points from LMIA or provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment (employer-driven)) | Employers can apply for an LMIA for you, obtain a work permit, accumulate experience, then transition to an immigration stream. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most employers mandate certification. Must complete a provincial-approved tra
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/material-handlers/CA)**

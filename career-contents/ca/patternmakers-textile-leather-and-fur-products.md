@@ -55,8 +55,6 @@ Textile, leather, and fur product pattern makers create templates from design dr
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Usually start as an apprentice or assistant; with experience can advance to senior pattern maker, sample supervisor, or production technical manager. Can also transition to fashion design, pattern-making instructor, or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as an apprentice or assistant; with experience can advance to seni
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Outlook is average; affected by automation and overseas manufacturing, employ
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patternmakers-textile-leather-and-fur-products/CA)**

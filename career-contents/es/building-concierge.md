@@ -4,8 +4,6 @@
 
 Responsible for daily maintenance, cleaning, safety, and reception of buildings, ensuring normal operation of facilities, and handling inquiries and complaints from residents or visitors.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Responsible for daily maintenance, cleaning, safety, and reception of buildings,
 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-The work of building administrators is experiencing mixed results: AI will automate a large number of recording, scheduling, and monitoring tasks, but physical operations and interpersonal services still rely on humans, with the value of high-end property butler positions potentially rising.
 
 Managers can be promoted from junior managers to senior managers or property supervisors, or transition to specialized fields such as facility management or security through training. Experienced candidates may self-manage property management services.
 
@@ -100,15 +96,9 @@ Managers can be promoted from junior managers to senior managers or property sup
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract) | Based on employment contracts, employer sponsorship is required, applicable to non-EU applicants. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: There are usually no educational requirements, and employers provide on-the-j
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-concierge/ES)**

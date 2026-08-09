@@ -53,8 +53,6 @@ Responsible for organizing and operating gambling and betting activities, includ
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automation will significantly reduce job demand for gambling and betting professionals, especially in data analysis and routine decision-making, but regulatory compliance and interpersonal interaction remain protective moats.
-
 Career progression path: from junior server/cashier to supervisor, manager, and then regional management. Requires long-term accumulation of industry experience and client relationships.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression path: from junior server/cashier to supervisor, manager, and 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Quite difficult. The gambling industry is not a shortage occupation, and some
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gambling-and-betting-professional/DE)**

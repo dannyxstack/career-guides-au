@@ -1,10 +1,8 @@
 # 普通文员（General Clerk）职业分析 · 日本
 
-**职业代码: 251 (JSCO)**
+**职业代码：251 (JSCO)**
 
-A job role in the general affairs/management department of ordinary companies, handling a wide range of clerical tasks such as document organization, data entry, visitor reception, and supply management.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+普通公司总务/管理部门中的职位，负责处理多种文书任务，如文件整理、数据录入、访客接待和用品管理。
 
 
 ---
@@ -13,8 +11,8 @@ A job role in the general affairs/management department of ordinary companies, h
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（In the case of public high schools） |
-| Junior College / Vocational School (Business) | 2 年 | $1,000,000~$3,000,000（Example of total tuition fees） |
+| 高中文凭 | 3年 | $0~$0（在公立高中的情况下） |
+| 大专/职业学校（商科） | 2 年 | $1,000,000~$3,000,000（学费总额示例） |
 
 ---
 
@@ -22,18 +20,18 @@ A job role in the general affairs/management department of ordinary companies, h
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| MOS (Microsoft Office Specialist) | Microsoft | 可选 | Word, Excel, etc. |
-| Bookkeeping Certification (Level 3 or higher) | The Japan Chamber of Commerce and Industry | 可选 | Proof of accounting knowledge |
-| Secretarial Skills Certification | Public Interest Incorporated Foundation: Practical Skills Certification Association | 可选 | Useful for secretarial and assistant duties |
+| MOS（微软办公软件国际认证） | Microsoft | 可选 | Word、Excel等 |
+| 簿记资格证书（三级或以上） | 日本商工会议所 | 可选 | 会计知识证明 |
+| 秘书技能认证 | 公益财团法人：实用技能认证协会 | 可选 | 对秘书和助理职责有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 1,200,000. Due to the aging population with fewer children, labor shortages persist, but automation of routine tasks by AI and RPA is progressing, leading to a declining trend in job openings for clerical positions overall.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 1,200,000。由于人口老龄化少子化，劳动力持续短缺，但AI和RPA正在推进例行任务的自动化，导致文职岗位的招聘总体呈下降趋势。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,97 +39,89 @@ A job role in the general affairs/management department of ordinary companies, h
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $2,500,000~$3,500,000 | Regular Employee: Annual Salary Example |
-| Intermediate Level (3–7 years) | $3,500,000~$4,500,000 | Experienced general affairs staff |
-| Advanced Level (7+ years) | $4,500,000~$6,000,000 | Chief / Subsection manager level |
+| 入门级（0–3年） | $2,500,000~$3,500,000 | 正式员工：年薪示例 |
+| 中级水平（3-7年） | $3,500,000~$4,500,000 | 经验丰富的总务人员 |
+| 高级水平（7年以上） | $4,500,000~$6,000,000 | 首席/副部门经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★★☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★★☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Clerical tasks like data entry, document organization, and schedule management are often routine, and automation via AI or RPA is likely to reduce workload and shrink employment.
+像数据录入、文件整理和日程管理等文书工作通常是程序化的，通过AI或RPA实现的自动化很可能会减少工作量并缩减就业。
 
-Beginners can start as temporary or contract workers, and with experience, advance to permanent positions, specialized general affairs roles, or managerial positions.
+初学者可以从临时或合同工开始，随着经验积累，晋升至正式职位、专业总务岗位或管理职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data entry
-- Document creation and formatting
-- Schedule coordination
-- Simple inquiry handling
+- 数据录入
+- 文档创建与格式化
+- 行程协调
+- 简单咨询处理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- RPA-based task automation
-- AI-driven data analysis
-- Promoting paperless operations
-- Integration with virtual assistants
+- 基于RPA的任务自动化
+- AI驱动的数据分析
+- 推进无纸化办公
+- 与虚拟助手集成
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal communication
-- Flexible response
-- Internal coordination skills
-- Handling confidential information
+- 人际沟通
+- 灵活应对
+- 内部协调能力
+- 处理机密信息
 
-**需构建的技能:**
+**需构建的技能：**
 
-- RPA tools (e.g., UiPath)
+- RPA工具（如UiPath）
 - Excel VBA
 - 项目管理
-- Business English
+- 商务英语
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Office automation
+- 办公自动化
 - RPA
-- Paperless
-- General Affairs DX
+- 无纸化
+- 总务DX
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Clerical work is considered low-skilled, so a university degree and work experience are required. |
-| Subclass 特定活動（外国人就労） (Designated Activities) | Unless highly skilled, general clerical workers are unlikely to be approved. |
-| Subclass 経営・管理 (Business Management) | Work as a corporate manager is required. Simple clerical tasks are not approved. |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can do meticulous and accurate work
-- People who can handle multitasking
-- People who can follow detailed rules
+- 能进行细致准确工作的人
+- 能处理多项任务的人
+- 能遵守详细规则的人
 
 **谁不适合**
-- People who value creativity
-- People who like change and dislike routine
+- 重视创造力的人
+- 喜欢变化、不喜欢例行公事的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a general clerk?**
-答：For regular employees, it's generally around 3.5 to 4.5 million yen. For temporary staff, hourly wages are about 1,200 to 1,500 yen.
+**问：一般文员的平均年薪是多少？**
+答：正式员工通常约350-450万日元；临时工时薪约1200-1500日元。
 
-**问：Can a foreigner obtain a visa to work as a general clerk in Japan?**
-答：The Engineer/Specialist in Humanities/International Services visa requires academic background and specialized work content; simple clerical work is currently difficult to obtain approval.
+**问：外国人能否获得在日本担任一般文员的签证？**
+答：工程师/人文/国际服务签证要求学术背景和专业工作内容；简单的文书工作目前难以获批。
 
-**问：How to advance your career from a general clerk?**
-答：There are paths to career change into specialized administrative roles, HR, or accounting by obtaining certifications (e.g., bookkeeping, MOS) and building achievements.
+**问：如何从普通职员晋升？**
+答：通过获得证书（如簿记、MOS）并积累成就，可以向专业行政、人力资源或会计岗位转行。
 
 
 ---
@@ -149,12 +139,12 @@ Beginners can start as temporary or contract workers, and with experience, advan
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★★☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-clerk/JP)**

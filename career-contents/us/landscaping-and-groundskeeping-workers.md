@@ -54,8 +54,6 @@ Use manual or power tools for lawn maintenance, planting, watering, fertilizing,
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Gardeners less affected by AI; AI mainly boosts design planning and client communication. Physical labor still hard to replace, but tools can improve efficiency.
-
 Can progress from general worker to foreman or supervisor; some start their own landscaping companies. Requires experience and possibly a commercial driver's license or horticultural certification.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from general worker to foreman or supervisor; some start their own 
 | Subclass H-2B (Temporary Non-Agricultural Workers) | Seasonal temporary work visa, common in landscaping; employers must prove a labor shortage |
 | Subclass Green Card (PERM) (Employment-Based Green Card) | Apply for green card via PERM labor certification, but requires employer to demonstrate inability to find qualified US workers; actually difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to supervisor, project manager, or start own business. Obtaining 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscaping-and-groundskeeping-workers/US)**

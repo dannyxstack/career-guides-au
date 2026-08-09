@@ -52,8 +52,6 @@ Private security managers are responsible for designing, implementing, and overs
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some monitoring and reporting tasks for private security managers can be automated by AI, but decision-making, interpersonal coordination, and legal responsibility requirements make overall job risk controllable.
-
 You can advance from security guard to team leader, regional manager, and finally become a security director or corporate security consultant.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from security guard to team leader, regional manager, and finall
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents in scarce industries, valid for 4 years, with renewable options. |
-| Subclass Salarié (Employee (Work Permit)) | Employer sponsorship is required; usually a one-year residence permit is granted, which can be renewed. |
-| Subclass Carte bleue UE (EU Blue Card) | For high-skilled non-EU citizens who meet the annual salary threshold, valid for 1-4 years. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You must hold a CNAPS professional card, usually a BTS or Licence academic ba
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/private-security-manager/FR)**

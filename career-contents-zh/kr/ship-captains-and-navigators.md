@@ -1,8 +1,8 @@
-# Ship Captains and Navigators 职业分析 · 韩国
+# 船长与领航员（Ship Captains and Navigators）职业分析 · 韩国
 
-**职业代码: 62121 (KECO)**
+**职业代码：62121 (KECO)**
 
-As the person in charge of ship operations, this professional role involves establishing navigation plans, managing crew, ensuring safe operations, and transporting cargo and passengers between ports.
+作为船舶运营负责人，该专业角色涉及制定航行计划、管理船员、确保安全运营，以及在港口之间运输货物和乘客。
 
 
 ---
@@ -11,8 +11,8 @@ As the person in charge of ship operations, this professional role involves esta
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| College (maritime-related departments) | 3年 | $12,000,000~$18,000,000（Based on national maritime university tuition） |
-| Korea Institute of Maritime and Fisheries Technology | 1年 | $5,000,000~$8,000,000（Including tuition and practical training fees） |
+| 学院（海事相关院系） | 3年 | $12,000,000~$18,000,000（基于国家海事大学学费） |
+| 韩国海洋水产研究院 | 1年 | $5,000,000~$8,000,000（包括学费和实践培训费） |
 
 ---
 
@@ -20,18 +20,18 @@ As the person in charge of ship operations, this professional role involves esta
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Navigator License (3rd/2nd/1st class) | Ministry of Oceans and Fisheries | 必备 | Classified by ship size and navigation area |
-| Captain's License | Ministry of Oceans and Fisheries | 必备 | Requires certain experience after holding 1st class navigator license |
-| GOC (Global Maritime Distress and Safety System Operator Certificate) | Ministry of Oceans and Fisheries | 必备 | International radio operator qualification |
+| 航海员执照（三级/二级/一级） | 海洋水产部 | 必备 | 按船舶尺寸和航区分类 |
+| 船长执照 | 海洋水产部 | 必备 | 需持有1级航海员执照后具备一定经验 |
+| GOC（全球海上遇险与安全系统操作员证书） | 海洋水产部 | 必备 | 国际无线电操作员资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 25,000. Due to the decreasing number of vessels and automation trends in the Korean shipping industry, new jobs are expected to stagnate, but replacement demand from retiring older seafarers is anticipated to persist.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 25,000。由于韩国航运业船舶数量减少和自动化趋势，新工作岗位预计停滞，但老一代海员退休带来的替代需求预计将持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -39,93 +39,88 @@ As the person in charge of ship operations, this professional role involves esta
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $35,000,000~$45,000,000 | Based on 3rd officer, excluding bonuses |
-| Mid-level (4–10 years) | $50,000,000~$70,000,000 | 1st officer or captain level |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Based on captain, large vessel, or oceangoing ship |
+| 初级（0-3年） | $35,000,000~$45,000,000 | 基于三副，不含奖金 |
+| 中级（4-10年） | $50,000,000~$70,000,000 | 大副或船长级别 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 基于船长、大型船舶或远洋船舶 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI and automation are assisting navigation and collision avoidance systems, the captain/navigator's judgment and leadership remain essential. Areas requiring human experience and intuition, such as emergency response and crew management, are difficult to be fully replaced by AI.
+虽然人工智能和自动化正在辅助导航和避碰系统，但船长/导航员的判断力和领导力仍然至关重要。需要人类经验和直觉的领域，如应急响应和船员管理，很难被AI完全取代。
 
-After promotion from navigator (3rd → 2nd → 1st officer) and accumulating experience, one can become a captain. With experience at large shipping companies or on oceangoing vessels, one may advance to coastal ship captain or maritime public institutions.
+从驾驶员晋升（三副→二副→大副）并积累经验后，可成为船长。在大型航运公司或远洋船舶上积累经验后，可晋升为沿海船舶船长或海事公共机构职位。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine route planning and recording
-- Partial Ship Engine Monitoring
-- Simple report writing
+- 常规路线规划与记录
+- 部分船舶发动机监控
+- 简单报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Collision Avoidance Decision
-- Optimal route search
-- Navigation Data Analysis
-- Safety Inspection Support
+- 冲突避免决策
+- 最优路线搜索
+- 导航数据分析
+- 安全检查支持
 
-**人类护城河:**
+**人类护城河：**
 
-- Crisis Situation Judgment
-- Seafarer Leadership & Conflict Management
-- Legal and Regulatory Responsibilities
-- On-site experience-based problem solving
+- 危机情况判断
+- 海员领导力与冲突管理
+- 法律与监管责任
+- 基于现场经验的解决问题能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI navigation system proficiency
-- Data Analysis
-- Understanding Remote Control Technology
-- English and International Communication
+- AI导航系统熟练度
+- 数据分析
+- 了解远程控制技术
+- 英语与国际交流
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Shipping and Logistics
-- Automated Navigation
-- Remote Control
-- Safety Management
+- 航运与物流
+- 自动导航
+- 遥控
+- 安全管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Visa needed for foreign seafarers and navigators working on Korean ships. Classified as skilled labor. |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who can adapt to long-term life at sea
-- Someone who can stay calm in crisis situations
-- Someone with teamwork and leadership skills
+- 能够适应长期海上生活的人
+- 能在危机中保持冷静的人
+- 具有团队合作和领导能力的人
 
 **谁不适合**
-- Someone who gets severe seasickness or dislikes enclosed spaces
-- Someone who finds it difficult to be away from family for long periods
+- 严重晕船或不喜欢封闭空间的人
+- 难以长时间远离家人的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting annual salary for a captain or navigator?**
-答：The annual pre-tax salary for a junior 3rd officer is about 35-45 million KRW, and for a captain it can go up to over 80 million KRW.
+**问：船长或领航员的起薪年收入是多少？**
+答：初级三副的年税前收入约为3500-4500万韩元，船长可达8000万韩元以上。
 
-**问：Can foreigners work as captains or navigators in Korea?**
-答：Yes, mainly through the E-7 visa (Specific Activities). Korean language proficiency and a seafarer's license are required, and some shipping companies support visa issuance.
+**问：外国人能在韩国担任船长或领航员吗？**
+答：可以，主要通过E-7签证（特定活动）。需要韩语能力和船员执照，部分航运公司支持签证办理。
 
-**问：What education is needed to become a captain or navigator?**
-答：You need to complete a maritime-related college (3 years) or the Korea Institute of Maritime and Fisheries Technology (1 year), and obtain a seafarer's license.
+**问：成为船长或驾驶员需要什么学历？**
+答：需完成海事相关院校（3年）或韩国海洋水产技术院（1年），并取得船员执照。
 
 
 ---
@@ -143,12 +138,12 @@ After promotion from navigator (3rd → 2nd → 1st officer) and accumulating ex
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ship-captains-and-navigators/KR)**

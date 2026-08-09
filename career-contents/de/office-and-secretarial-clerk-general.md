@@ -53,8 +53,6 @@ Office and secretarial clerks handle daily administrative tasks, including docum
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Document processing, data entry, filing, and email management for general office clerks can be highly automated by AI and RPA, significantly reducing entry-level positions; remaining tasks shift to higher-level coordination and judgment, requiring proactive skill upgrading.
-
 Career path: can progress from junior clerk to senior secretary or office manager, or transition to specialized fields like human resource management, project management, or procurement through further study. Dual-system training is a common starting point.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career path: can progress from junior clerk to senior secretary or office manage
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can advance to senior secretary, office manager, or move into specialist role
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-and-secretarial-clerk-general/DE)**

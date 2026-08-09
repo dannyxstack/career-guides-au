@@ -1,10 +1,8 @@
-# Motion Graphic Designer 职业分析 · 韩国
+# 动态图形设计师（Motion Graphic Designer）职业分析 · 韩国
 
-**职业代码: 41553 (KECO)**
+**职业代码：41553 (KECO)**
 
-A professional who combines video and graphics to create visual effects and motion graphics for TV, film, advertising, and online content.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+结合视频和图形为电视、电影、广告和在线内容创建视觉效果和动态图形的专业人士。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who combines video and graphics to create visual effects and moti
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate Degree (2-year) | 2 年 | $10,000,000~$20,000,000（Public university rates, private higher） |
-| 4-year university | 4年 | $20,000,000~$40,000,000（Design/Video related departments） |
+| 副学士学位（2年） | 2 年 | $10,000,000~$20,000,000（公立大学学费，私立高等教育） |
+| 四年制大学 | 4年 | $20,000,000~$40,000,000（设计/视频相关部门） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who combines video and graphics to create visual effects and moti
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computer Graphics Operation Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory |
-| GTQ (Graphic Technology Qualification) | Korea Productivity Center | 可选 | Proficiency in Photoshop/Illustrator |
+| 计算机图形操作技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制 |
+| GTQ（图形技术资格） | 韩国生产力中心 | 可选 | 精通Photoshop/Illustrator |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. With the rise of OTT platforms and digital content, employment for motion graphic designers is expected to grow steadily, but competition is intensifying due to AI automation tools.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。随着OTT平台和数字内容的兴起，动态图形设计师的就业预计稳步增长，但由于AI自动化工具，竞争日益激烈。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,92 +38,85 @@ A professional who combines video and graphics to create visual effects and moti
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$35,000,000 | SME rates, large companies higher |
-| 中级（4-7年） | $35,000,000~$50,000,000 | Varies with experience and portfolio |
-| 高级（8年+） | $50,000,000~$80,000,000 | Includes performance bonuses for art directors or freelancers |
+| 入门级（0-3年） | $24,000,000~$35,000,000 | 中小企业费率，大型企业更高 |
+| 中级（4-7年） | $35,000,000~$50,000,000 | 随经验和作品集变化 |
+| 高级（8年+） | $50,000,000~$80,000,000 | 包括艺术总监或自由职业者的绩效奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI tools automate repetitive tasks like rotoscoping and color correction, but creative storytelling and aesthetic design remain human domains. Motion graphic designers can leverage AI as a tool to create higher value.
+AI工具可自动完成转描、调色等重复性任务，但创意叙事和美学设计仍属人类领域。动态图形设计师可借助AI创造更高价值。
 
-Starting as a junior motion designer, with 3-5 years of experience can advance to senior designer, art director, or VFX supervisor. Freelance transition is common.
+从初级动态设计师起步，3-5 年经验可晋升为高级设计师、艺术总监或 VFX 总监。常见转型为自由职业者。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple motion graphic template creation
-- Rotoscoping and keying
-- Basic color correction
+- 简单动态图形模板制作
+- 动态遮罩和抠像
+- 基础色彩校正
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Idea visualization
-- Complex effect production
-- Client presentation draft creation
+- 创意可视化
+- 复杂特效制作
+- 客户演示文稿草稿制作
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative sense
-- Storytelling ability
-- Client needs interpretation ability
+- 创意感
+- 讲故事的能力
+- 客户需要翻译能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Advanced After Effects use
-- 3D software like Blender/Cinema 4D
-- AI video tools Python scripting
+- 高级After Effects使用
+- 3D软件如Blender/Cinema 4D
+- AI视频工具Python脚本编写
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Motion Graphics
-- VFX
-- 3D video
-- real-time rendering
+- 动态图形设计
+- 视觉特效
+- 3D视频
+- 实时渲染
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible as cultural/arts professional, but approval is strict as motion graphic designer is not a shortage occupation |
-| Subclass F-2 (F-2 (Residence)) | Convertible to point system, but design field has low bonus points |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with excellent visual sense
-- Open to learning latest graphics software
-- Able to collaborate and accept feedback
+- 视觉感优秀的人
+- 愿意学习最新图形软件
+- 能够协作并接受反馈
 
 **谁不适合**
-- Person who dislikes repetitive tasks
-- Person who prefers regular work hours
+- 不喜欢重复性工作的人
+- 偏好固定工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a motion graphic designer?**
-答：Entry-level about 24–35 million KRW, with 10+ years experience up to 50–80 million KRW.
+**问：动态图形设计师的平均薪资是多少？**
+答：入门级约2400-3500万韩元，10年以上经验可达5000-8000万韩元。
 
-**问：Can foreigners work as motion graphic designers in Korea?**
-答：Possible with E-7 visa, but approval is difficult as it is not a shortage occupation. Portfolio and sponsor are important.
+**问：外国人可以在韩国担任动态图形设计师吗？**
+答：E-7签证可能可行，但由于非紧缺职业，批准困难。作品集和担保人很重要。
 
-**问：What education is needed for this job?**
-答：A degree in design or video from a two-year or four-year college is advantageous, but portfolio is more important.
+**问：这份工作需要什么教育背景？**
+答：两年制或四年制大学的设计或视频专业学历有优势，但作品集更重要。
 
 
 ---
@@ -143,12 +134,12 @@ Starting as a junior motion designer, with 3-5 years of experience can advance t
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/motion-graphic-designer/KR)**

@@ -53,8 +53,6 @@ Corporate election officers organize, supervise, and execute internal corporate 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI mainly enhances rather than replaces internal corporate election officials, but automation will take over paperwork and data verification, making the role more focused on strategy and human oversight.
-
 Usually start in administrative or HR roles, then advance through training to become an electoral officer, with potential to move into compliance or governance.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start in administrative or HR roles, then advance through training to be
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: medium-high (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can start as an administrative assistant, then transition through training to
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/internal-election-officer/DE)**

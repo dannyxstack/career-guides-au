@@ -1,10 +1,8 @@
-# Radiological Technologist 职业分析 · 日本
+# 放射技师（Radiological Technologist）职业分析 · 日本
 
-**职业代码: 141 (JSCO)**
+**职业代码：141 (JSCO)**
 
-A national license-required professional who operates diagnostic imaging equipment such as X-ray, CT, and MRI in medical institutions to assist physicians in diagnosis.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在国家许可的专业人员，操作医疗机构的X光、CT、MRI等诊断成像设备，协助医生诊断。
 
 
 ---
@@ -13,9 +11,9 @@ A national license-required professional who operates diagnostic imaging equipme
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Radiological Technologist Training School (Vocational School or University) | 4年 | $5,000,000~$8,000,000（Total tuition for 4 years. Lower at national and public institutions.） |
-| National Examination for Radiological Technologists | 0年 | $10,000~$30,000（Exam fees and reference book costs.） |
-| Practical Training (Initial Clinical Training) | 1年 | $0~$0（Training while receiving salary.） |
+| 放射技师培训学校（职业学校或大学） | 4年 | $5,000,000~$8,000,000（四年总学费。国立和公立院校较低。） |
+| 放射技师国家考试 | 0年 | $10,000~$30,000（考试费和参考书费用。） |
+| 实践培训（初期临床培训） | 1年 | $0~$0（带薪培训。） |
 
 ---
 
@@ -23,18 +21,18 @@ A national license-required professional who operates diagnostic imaging equipme
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Radiological Technologist License | Ministry of Health, Labour and Welfare | 必备 | National qualification; mandatory for practice. |
-| Qualification for Operating X-ray, CT, MRI, etc. | Each medical institution | 可选 | In-house certification; not required but advantageous. |
-| Radiation Protection Supervisor | Nuclear Regulation Authority | 可选 | Responsible for radiation safety management; useful for career advancement. |
+| 放射技师执照 | 厚生劳动省 | 必备 | 国家资格；执业必备。 |
+| 操作X光、CT、MRI等设备的资格 | 各医疗机构 | 可选 | 内部认证；非必需但有利。 |
+| 辐射防护主管 | 核监管局 | 可选 | 负责辐射安全管理；对职业发展有益。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 75,000. Due to the increasing demand for diagnostic imaging associated with an aging population, stable employment is expected. Demand continues, particularly with the expansion of cancer screening and preventive medicine.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 75,000。随着老龄化对诊断成像需求增加，就业稳定。癌症筛查和预防医学扩大，需求持续。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,92 +40,85 @@ A national license-required professional who operates diagnostic imaging equipme
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,500,000~$4,500,000 | Monthly salary approx. ¥250,000–¥300,000 + bonuses. |
-| Mid-Level (4–10 years) | $4,500,000~$6,000,000 | Increases with experience and qualifications. |
-| Veteran (10+ years) | $6,000,000~$8,000,000 | Even higher for management or specialized qualifications. |
+| 入门级（0–3年） | $3,500,000~$4,500,000 | 月薪约25万至30万日元，外加奖金。 |
+| 中级（4-10年） | $4,500,000~$6,000,000 | 随经验和资质提高而增长。 |
+| 资深（10年以上） | $6,000,000~$8,000,000 | 管理层或特殊资质者收入更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used to assist with image diagnosis and optimize image quality, streamlining technologists' work. However, AI cannot fully replace technologists, as their judgment and equipment operation roles remain. As a result, AI enhances technologists' capabilities, contributing to advanced diagnostic support and operational efficiency.
+AI用于辅助图像诊断和优化图像质量，简化技术员的工作。然而，AI无法完全取代技术员，因为他们的判断和设备操作角色仍然存在。因此，AI增强了技术员的能力，有助于高级诊断支持和运营效率。
 
-By gaining experience in hospitals and clinics, there are career paths to chief technologist, management, and educational institutions. Specialized qualifications in radiation therapy and nuclear medicine can also be obtained.
+通过在医院和诊所积累经验，可晋升到首席技师、管理和教育机构等职业方向。还可获得放射治疗和核医学专业资格。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Adjusting image quality for radiography
-- Routine image transfer tasks
-- Basic image measurements
+- 调整X光图像质量
+- 常规图像传输任务
+- 基本图像测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Abnormality detection (CAD)
-- Optimizing exposure conditions
-- Comparative analysis of time-series images
+- 异常检测（CAD）
+- 优化曝光条件
+- 时间序列图像对比分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Direct patient interaction and communication
-- Judgment in radiation safety management
-- Planning complex imaging procedures
+- 直接与患者互动和沟通
+- 辐射安全管理判断
+- 规划复杂影像检查程序
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Operating AI diagnostic imaging software
-- Basic knowledge of medical image analysis
+- 操作AI诊断成像软件
+- 医学图像分析基础知识
 - 数据分析技能
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Diagnostic Imaging Technology
-- AI-Assisted Diagnostic Imaging
-- Cancer Treatment
-- Home Healthcare
+- 诊断影像技术
+- AI辅助诊断影像
+- 癌症治疗
+- 家庭医疗保健
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when overseas radiological technologists work at Japanese medical institutions. National license required. |
-| Subclass 特定活動（高度専門職） (Designated Activities (Highly Skilled Professional)) | For personnel with advanced expertise. Permanent residency possible if conditions met. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and skilled in precise equipment operation
-- People who want to interact directly with patients in medical settings
-- People who can steadily continue studying
+- 细致且擅长精密设备操作的人
+- 希望在医疗环境中直接与患者互动的人
+- 能够持续稳定学习的人
 
 **谁不适合**
-- People who are not good at handling emergencies or night shifts
-- People who dislike following detailed rules and manuals
+- 不擅长处理紧急情况或夜班的人
+- 不喜欢遵守详细规则和手册的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of a radiological technologist?**
-答：Average annual income is around 5 to 6 million yen. Varies by experience and workplace (larger hospitals pay more), with overtime and night shift allowances added.
+**问：放射技师的平均年收入是多少？**
+答：平均年收入大约500万到600万日元。视经验和工作场所（大医院薪资更高）而定，另加加班费和夜班津贴。
 
-**问：How can a foreigner work as a radiologic technologist in Japan?**
-答：Japan's national certification (Radiologic Technologist License) is mandatory, with Japanese proficiency (N1 or above) required. The Engineer/Specialist in Humanities/International Services visa applies, but the barrier to qualification is high.
+**问：外国人如何在日本从事放射技师工作？**
+答：日本国家认证（放射技师执照）是强制性的，需要日语能力（N1或以上）。适用人文知识/国际业务工程师/专家签证，但资格门槛高。
 
-**问：What qualifications should I obtain for career advancement?**
-答：Specialized certifications such as Radiation Protection Supervisor, MRI Certified Technologist, and CT Certified Technologist are effective for career growth. For management roles, knowledge of hospital management is also beneficial.
+**问：职业发展应获得哪些资格证书？**
+答：辐射防护主管、MRI认证技师、CT认证技师等专业认证有助于职业发展。管理岗位还需要掌握医院管理知识。
 
 
 ---
@@ -145,12 +136,12 @@ By gaining experience in hospitals and clinics, there are career paths to chief 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/radiological-technologist/JP)**

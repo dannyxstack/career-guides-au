@@ -53,8 +53,6 @@ Responsible for installing, maintaining, and repairing coin-operated, vending, g
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Digitization and remote monitoring of vending machines will greatly reduce on-site maintenance needs; entry-level positions are squeezed, but complex fault handling still required.
-
 Usually start as a junior maintenance technician, gain experience to advance to senior technician or regional supervisor. Some may move into automated equipment management or start their own repair company.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as a junior maintenance technician, gain experience to advance to 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Difficult. This occupation is not typically considered a professional role; H
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/coin-vending-and-amusement-machine-servicers-and-repairers/US)**

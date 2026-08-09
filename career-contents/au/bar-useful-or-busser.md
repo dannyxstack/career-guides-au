@@ -52,8 +52,6 @@ A support role in bars, restaurants, or clubs responsible for cleaning, restocki
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bar attendants (general workers) face high risk of automation, especially for repetitive tasks like cleaning, moving, and simple inventory management, but interpersonal skills and adaptability remain short-term moats.
-
 Usually start as a bar back, gain experience and advance to server, bartender, or head waiter. Some move into restaurant management or start their own small bars.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as a bar back, gain experience and advance to server, bartender, o
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Must obtain an RSA certificate, actively learn bartending skills, accumulate 
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bar-useful-or-busser/AU)**

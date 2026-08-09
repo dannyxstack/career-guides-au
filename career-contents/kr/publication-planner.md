@@ -4,8 +4,6 @@
 
 A professional who oversees the planning, editing, production, and distribution of publications such as books, magazines, and e-books, setting the direction of content.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ A professional who oversees the planning, editing, production, and distribution 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI replaces some tasks such as data analysis, auto-correction, and content curation, but creative planning, author relationships, and emotional judgment remain human domains. Increased efficiency through AI leads to a slight decrease in demand for manpower, but not complete replacement.
-
 Careers typically start at publishing houses, editorial offices, or content planning companies, with promotion paths from planning editor to publication planner to editor-in-chief/publishing director.
 
 **Tasks most exposed to AI:**
@@ -95,17 +91,9 @@ Careers typically start at publishing houses, editorial offices, or content plan
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific activities) | Possible under employment contract in professional publishing, though rare |
-| Subclass D-10 (Job seeking) | Possible after graduating in a related field while seeking employment |
-| Subclass F-2 (Residence) | Free activities after obtaining permanent residency |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -149,12 +137,12 @@ A: Partially replaceable. For example, data analysis-based bestseller prediction
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/publication-planner/KR)**

@@ -51,8 +51,6 @@ Nurse practitioners independently or within a healthcare team diagnose and treat
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on nurse practitioners is mixed: AI can assist with diagnosis, documentation, and patient monitoring, but core clinical judgment, complex communication, and legal liability are difficult to replace; overall job demand still grows.
-
 Advance from registered nurse through graduate education to nurse practitioner, further specialize (e.g., family, pediatrics, psychiatry), or progress to healthcare manager or advanced practice leader.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Advance from registered nurse through graduate education to nurse practitioner, 
 | Subclass EB-2 (Employment-Based Second Preference) | Requires PERM labor certification, suitable for nurse practitioners with a master's degree or higher. |
 | Subclass EB-3 (Employment-Based Third Preference) | Requires PERM, suitable for applicants with a bachelor's degree or experience |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: High, especially in emergency or primary care shortage areas, may involve lon
 | Work intensity | high (★★★★☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurse-practitioners/US)**

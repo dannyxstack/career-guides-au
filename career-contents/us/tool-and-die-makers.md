@@ -51,8 +51,6 @@ Mold makers analyze specifications, lay out metal stock, set up and operate mach
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on mold makers is mixed: automation compresses simple repetitive machine operation roles, but AI enhances precision design, toolpath optimization, and quality inspection, making demand for skilled tooling setup and maintenance more robust. Overall risk is manageable.
-
 Start as an apprentice or junior technician, gain experience, then advance to senior mold maker, supervisor, or workshop manager; some move into mold design or quality control.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an apprentice or junior technician, gain experience, then advance to se
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card for skilled workers, suitable for mold makers with 2 years of training or experience, requires PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | First step for employer-sponsored green card, proving no US workers available; mold makers can apply for EB-3 through this route |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Slow employment growth, automation reduces some demand, but high-precision mo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tool-and-die-makers/US)**

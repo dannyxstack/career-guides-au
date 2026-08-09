@@ -53,8 +53,6 @@ Dancers and choreographers perform or create works in theatres, dance companies,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on dancers/choreographers: generative AI can assist in choreographic creativity and motion preview, but physical performance and emotional transmission are hard to replace; entry-level competition intensifies due to AI tool proliferation, but demand for high-end creativity and live performance remains stable.
-
 Dancers can advance to principal dancer or choreographer through experience; choreographers can further become artistic directors. Some dancers transition to teaching or opening dance schools.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Dancers can advance to principal dancer or choreographer through experience; cho
 | Subclass Skilled Worker (Skilled Worker Visa) | Only possible with a German-recognized dance degree and employer sponsorship |
 | Subclass Freelancer (Freelance Visa) | Self-employed dancers can apply for a freelance residency visa, requiring proof of stable projects and income. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Competition is intense, with opportunities mainly concentrated in large citie
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dancer-choreographer/DE)**

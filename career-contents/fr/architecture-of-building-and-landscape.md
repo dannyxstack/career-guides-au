@@ -4,8 +4,6 @@
 
 Architectural and landscape designers are responsible for planning, designing, and overseeing architectural projects and outdoor spaces, integrating aesthetics, functionality, and environmental sustainability. In France, this profession covers the entire process from initial concept to construction management.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -57,8 +55,6 @@ Architectural and landscape designers are responsible for planning, designing, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Career development paths: Junior Designer → Project Architect → Design Director or Partner. It can deepen into urban planning, sustainable design, or project management. French architects must be registered with the Ordre des Architectes.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ Career development paths: Junior Designer → Project Architect → Design Direc
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled talent, requiring an annual salary of about 53,000 euros (2023 threshold) and a work contract of at least one year |
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-quality talents such as artists and scientists, requiring proof of professional achievements, with no hard salary threshold |
-| Subclass Salarié (Employee Work Permit) | Ordinary work residence requires employer sponsorship, subject to labor market testing, salary not below SMIC |
-| Subclass Recherche emploi (Job Search Permit) | After graduation, you are allowed to look for work in France for a period of 12 months, with no renewal |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Employment is stable driven by green building and urban renewal projects. Dig
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/architecture-of-building-and-landscape/FR)**

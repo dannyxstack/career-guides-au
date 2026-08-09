@@ -53,8 +53,6 @@ Supervise financial and insurance office staff, coordinate workflows, ensure com
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will significantly improve operational efficiency, but the core of supervisory roles (people management, compliance judgment) is hard to replace; meanwhile, entry-level clerical work will be greatly reduced, narrowing career advancement paths. Overall mixed, requiring proactive skill upgrades.
-
 can progress from junior clerk to supervisor, then to department manager and operations manager. Further advancement can be achieved through advanced certifications in financial analysis, insurance management, etc.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ can progress from junior clerk to supervisor, then to department manager and ope
 | Subclass PNP (Provincial Nominee Program) | Multiple provinces have financial industry demand, allowing immigration through provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa, usually requiring proof of difficulty in local recruitment |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from supervisor to department manager, operations manager, or eve
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-finance-and-insurance-office-workers/CA)**

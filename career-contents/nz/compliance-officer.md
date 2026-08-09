@@ -52,8 +52,6 @@ Compliance officers ensure companies adhere to laws and industry standards. Dema
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Compliance officer tasks are polarizing: rule checking and document sorting will be efficiently replaced by AI, but risk judgment and regulatory negotiation skills are amplified by AI. Entry-level competition intensifies, while senior officer value increases
-
 Junior compliance officers can advance to senior compliance manager or compliance director, or transition to risk management, auditing, or legal advisory roles. Obtaining professional certifications (e.g., CAMS, CCEP) can enhance career prospects.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior compliance officers can advance to senior compliance manager or complianc
 | Subclass Green List T2 (Green List Tier 2) | Compliance officers are not on the T1 direct residence list but may qualify for T2, with residence after 2 years of work (employer sponsorship required) |
 | Subclass AEWV (Accredited Employer Work Visa) | Applicable for compliance officers with a certified employer offer, can work for 3 years, then eligible for residency |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to compliance manager, director, or transition to risk management
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/compliance-officer/NZ)**

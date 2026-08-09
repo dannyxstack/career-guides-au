@@ -54,8 +54,6 @@ Responsible for the preservation, research, exhibition planning, and public educ
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will disrupt curators' document sorting and digitization processes, but the core of curation—artistic judgment, narrative construction, and public interaction—is nearly impossible to automate and will instead be amplified by AI tools. Entry-level positions will narrow due to reduced repetitive tasks, but the value of experienced curators will increase.
-
 Start as an assistant curator or collection manager, gradually advance to department head, deputy director, or director. Also possible to move into academic research, heritage management, or exhibition design.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Start as an assistant curator or collection manager, gradually advance to depart
 | Subclass Skilled Worker (Skilled Immigration Act (Fachkräfteeinwanderungsgesetz)) | Applicable to applicants with recognized academic or professional qualifications, requiring a work contract (matching the position), no hard minimum salary requirement, but subject to labor office approval. |
 | Subclass Job Seeker (Job Seeker Visa / Chancenkarte) | Allows 6-month stay in Germany for job seeking; requires relevant qualifications and sufficient funds. Chancenkarte (opportunity card) based on points system for high-potential talent. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must first obtain qualification recognition (Anerkennung), usually requiring 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/museum-specialist-general/DE)**

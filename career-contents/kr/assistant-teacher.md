@@ -4,8 +4,6 @@
 
 A professional who assists homeroom teachers in kindergartens, elementary, middle, high schools, and special education institutions, supporting learning guidance, life guidance, and administrative tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who assists homeroom teachers in kindergartens, elementary, middl
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation are unlikely to fully replace the work of teaching assistants. Personalized instruction, emotional support, and life guidance require human empathy and judgment. However, administrative tasks (e.g., attendance management, schedule creation) can be streamlined by AI.
-
 Depending on experience, one can transition to a fixed-term teacher or regular teacher, and can advance to a regular teacher by pursuing a graduate school of education or obtaining a teacher's certificate. Some also change careers to become professional counselors or educational administrative staff within schools.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Depending on experience, one can transition to a fixed-term teacher or regular t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Some foreign teacher hiring possible, but assistant teacher cases are rare |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents akin to permanent residents, no employment restrictions |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Koreans can work as assistant teachers but limited |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: For kindergartens and daycare centers, a Level 2 childcare teacher certificat
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/assistant-teacher/KR)**

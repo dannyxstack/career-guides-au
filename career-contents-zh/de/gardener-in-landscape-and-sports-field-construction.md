@@ -1,6 +1,6 @@
-# Gardener in Landscape and Sports Field Construction 职业分析 · 德国
+# 景观与体育场地施工园艺师（Gardener in Landscape and Sports Field Construction）职业分析 · 德国
 
-**职业代码: 1214 (KldB)**
+**职业代码：1214 (KldB)**
 
 专门从事花园、公园、景观绿化和运动场地的规划、施工与维护，包括种植、铺装、灌溉系统安装等。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. 德国持续的城市绿化与生态建设项目推动需求，尤其在公共空间和体育设施领域。但行业依赖天气和建筑周期，季节性强。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。德国持续的城市绿化与生态建设项目推动需求，尤其在公共空间和体育设施领域。但行业依赖天气和建筑周期，季节性强。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -50,35 +50,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 园林工岗位受AI影响喜忧参半：体力与现场判断任务（修剪、种植）难以替代，但绘图、灌溉排班、客户沟通等可被软件和AI增强或部分接管，入门门槛可能因工具应用而稍稍提高。
 
 可从助理升至领班（Vorarbeiter），进一步成为工地经理（Baustellenleiter）或自雇（Gartenbau-Unternehmer）。继续教育可转向专业规划或绿色基础设施咨询。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用AI生成景观设计方案初稿
 - 基于天气传感器自动调整灌溉排班
 - 客户咨询中由聊天机器人预处理常见问题
 - 自动生成修剪与施肥的标准化指令
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 借助AR/VR进行现场设计效果预览
 - 无人机巡检大面积绿地并标记病害区域
 - 智能设备采集土壤墒情数据辅助精准施肥
 - 使用管理软件优化施工排期与资源调度
 
-**人类护城河:**
+**人类护城河：**
 
 - 现场手工修剪造型与精细化园艺操作
 - 对植物生长异常的主观经验判断
 - 与客户面对面沟通需求并提供个性化建议
 - 应对突发天气或植物病害的即时决策
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握园林建筑设计AI工具(python/3D建模)
 - 学习智能灌溉系统调试与维护
@@ -87,16 +87,16 @@
 - 考取树木病理学与本土植物应用资质
 - 熟练使用园林管理软件(SaaS平台)
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban greening
-- Sports field construction
-- Climate adaptation
-- Landscape management
+- 城市绿化
+- 运动场地建设
+- 气候适应
+- 景观管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -106,9 +106,7 @@
 | Subclass Skilled Worker (Skilled Employment Visa (Fachkräfteeinwanderung)) | 通过资质认证后，可申请工作签证，无需蓝卡薪资门槛 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 基于积分制，允许持有人在德国找工作或试工一年 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -149,12 +147,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/gardener-in-landscape-and-sports-field-construction/DE)**

@@ -52,8 +52,6 @@ Analog/mixed-signal IC design engineers design analog and digital-analog hybrid 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Analog IC design is a typical example of AI enhancement rather than replacement: AI tools can accelerate simulation, layout optimization, and yield analysis, but core circuit intuition, process deviation debugging, and system-level compromises still require human experts, making positions scarce due to the surge in chip demand.
-
 German AI accelerators and low-power/simulation design are the main focus, with engineers skilled in RTL, timing, and layout in a scarce area; AI assistance is limited, but architecture and tape-out responsibilities are highly professional.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ German AI accelerators and low-power/simulation design are the main focus, with 
 | Subclass Skilled Worker (Skilled Worker Visa) | Fachkräfte skilled worker visa: recognized qualification + employment contract. |
 | Subclass Opportunity Card (Opportunity card) | Chancenkarte: Points-based job seeker visa |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Classified as a shortage engineering occupation, eligible for Germany's 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/analog-mixedsignal-ic-design-engineer/DE)**

@@ -52,8 +52,6 @@ Environmental professionals study, solve, and provide advice on issues related t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core duties of environmental professionals are significantly enhanced by AI, but lower-level report generation and data collection tasks face automation risks, resulting in a mixed outlook.
-
 Start as a junior environmental consultant or assistant, gain experience, then advance to senior consultant, project manager, or team leader. Specialize in areas such as water resource management, climate change, ecological restoration, or move into policy development, academic research, or corporate sustainability management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a junior environmental consultant or assistant, gain experience, then a
 | Subclass Scale-up (Scale-up Worker visa) | You can apply if the employer is a qualifying high-growth business. |
 | Subclass Graduate (Graduate visa) | Applicable after completing a UK bachelor's or master's degree, allowing work in the UK for 2 years (3 years for PhD). |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: UK net-zero targets drive demand, with opportunities in policy, consulting, r
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environment-professionals/UK)**

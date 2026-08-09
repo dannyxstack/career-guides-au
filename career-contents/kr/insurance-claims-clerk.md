@@ -4,8 +4,6 @@
 
 This is a specialized clerical position in an insurance company that handles loss assessment and compensation tasks, from accident reporting to payment of claims.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ This is a specialized clerical position in an insurance company that handles los
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-This occupation will see reduced demand as AI replaces repetitive tasks such as claim intake, document review, and simple assessment. Complex claims adjusting still requires human judgment, but overall employment is expected to decline.
-
 Career progression: junior clerk → claims team leader → claims department manager; holding a loss adjuster license is advantageous.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ Career progression: junior clerk → claims team leader → claims department ma
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible to invite as professional claims adjuster, but general compensation clerks are rare. |
-| Subclass F-2 (Residence) | Applies to overseas Koreans and long-term residents. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +135,12 @@ A: Demand remains due to insurance market growth, but simple processing jobs may
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insurance-claims-clerk/KR)**

@@ -1,6 +1,6 @@
-# Supervisors - Natural Stone and Mineral Processing and Building Materials Production 职业分析 · 德国
+# 主管 - 天然石材和矿物加工及建筑材料生产（Supervisors - Natural Stone and Mineral Processing and Building Materials Production）职业分析 · 德国
 
-**职业代码: 2129 (KldB)**
+**职业代码：2129 (KldB)**
 
 负责监督天然石材、矿物加工及建筑材料生产线的日常运作，确保生产流程高效、安全，并符合质量标准。通常具有相关技术背景和多年经验。
 
@@ -29,10 +29,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 25,000. 德国建筑行业持续稳定发展，对建筑材料需求旺盛，该岗位就业前景良好。数字化和环保转型带来新挑战，但熟练监督人才仍紧缺。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 25,000。德国建筑行业持续稳定发展，对建筑材料需求旺盛，该岗位就业前景良好。数字化和环保转型带来新挑战，但熟练监督人才仍紧缺。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -50,35 +50,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI将优化质量监控和流程调度，但该职业依赖物理监督和复杂故障处理，短期替代风险中等，需主动转型。
 
 通常从技术工人起步，积累经验后晋升为班组长或主管，再有机会升至生产经理或厂长。继续教育（如技术员、工长）可加速晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 使用计算机视觉进行产品缺陷检测
 - 基于传感器数据的自动化质量报告生成
 - 生产调度和库存管理的AI优化
 - 常规设备监控和报警处理的自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI辅助的预测性维护减少停机时间
 - 数字孪生模拟优化生产流程
 - 实时数据分析辅助决策
 - 增强现实（AR）支持远程专家指导
 
-**人类护城河:**
+**人类护城河：**
 
 - 处理突发设备故障和非结构化问题
 - 协调跨部门多工种沟通
 - 确保安全生产与合规责任
 - 工艺改进和创新决策
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析与统计过程控制
 - AI/机器学习基础及应用
@@ -86,16 +86,16 @@ AI将优化质量监控和流程调度，但该职业依赖物理监督和复杂
 - 自动化系统集成与维护
 - 项目管理和精益生产
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Construction boom
-- Green building materials
-- Digitalization
-- Energy efficiency
+- 建筑热潮
+- 绿色建材
+- 数字化
+- 能源效率
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -105,9 +105,7 @@ AI将优化质量监控和流程调度，但该职业依赖物理监督和复杂
 | Subclass Skilled Worker (Skilled Worker Visa) | 适用于拥有德国认可职业资格的技术人才，需雇主担保 |
 | Subclass Chancenkarte (Opportunity Card) | 基于积分制的求职签证，允许来德国寻找工作，无需雇主担保 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -151,12 +149,13 @@ AI将优化质量监控和流程调度，但该职业依赖物理监督和复杂
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-natural-stone-and-mineral-processing-and-building-materials-production/DE)**

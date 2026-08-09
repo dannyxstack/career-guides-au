@@ -53,8 +53,6 @@ Set up, operate, or tend textile machines to perform knitting, weaving, or drawi
 **Future prospect: very low (½☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile knitting and weaving machine operators face high automation risk, as machine vision and industrial IoT can take over core tasks like quality inspection and machine monitoring, while generative AI can replace process parameter adjustments, leading to a significant reduction in job demand.
-
 Can advance to textile machinery technician or production supervisor through experience, but promotion opportunities are limited. Some workers move into textile machinery maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance to textile machinery technician or production supervisor through exp
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Pessimistic outlook: industry decline, with automation and overseas competiti
 | Future prospect | very low (½☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-knitting-and-weaving-machine-setters-operators-and-tenders/US)**

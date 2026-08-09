@@ -53,8 +53,6 @@ Responsible for coordinating and managing the entire process of film, TV, and on
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core creative decision-making, interpersonal coordination, and on-site management of directing are hard for AI to replace in the short term, but pre-production tasks like script analysis and budgeting, as well as post-production editing and visual effects, are being heavily automated by AI tools. Overall job demand may remain flat or decline slightly.
-
 Career path: Production Assistant → Production Coordinator → Producer → Senior Producer/Executive Producer. Alternatively, can move into directing, screenwriting, or content management, or start an independent production company.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Production Assistant → Production Coordinator → Producer → Se
 | Subclass Skilled Worker (Skilled Worker Visa) | Requires employer sponsorship, media-related degree or experience |
 | Subclass Job Seeker (Job Seeker Visa) | 6 months job search time, requires qualification authentication |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: No mandatory educational requirements, but a bachelor's degree in media or fi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/film-and-video-producer/DE)**

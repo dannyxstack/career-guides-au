@@ -52,8 +52,6 @@ Media planners are responsible for developing media placement strategies for adv
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Media planners stand at the intersection of AI amplification and replacement: data analysis and optimization are taken over by AI, but strategic decisions and creative integration still require human insight, with risks and opportunities coexisting.
-
 Junior media planners can be promoted to senior planner, media director, or shift to digital marketing, data analysis, and other directions. After accumulating client resources and industry experience, you can become an independent consultant or establish a media agency.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Junior media planners can be promoted to senior planner, media director, or shif
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals who must receive an offer from a French employer and have a contract annual salary of no less than 53,836.50 euros (2024 standard). |
-| Subclass Salarié (Employee (Salarié)) | An offer from a French employer is required, and after review by the Labour Authority (France Travail), it is confirmed that no suitable EU candidate has been found |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for those with higher education (at least a bachelor's degree) and annual salaries above EU standards (approximately €56,000 in 2024) |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Promotion to Senior Planner or Media Director; or shift to digital marketing,
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/media-planner/FR)**

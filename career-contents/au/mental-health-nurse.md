@@ -51,8 +51,6 @@ Mental health nursing is an important profession in Australia's healthcare indus
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI will enhance the efficiency of mental health nurses' assessments and record-keeping, but core therapeutic relationships, clinical judgment, and crisis intervention are hard to replace; entry-level roles see slightly lower barriers due to AI tools simplifying processes, but demand for advanced roles is growing.
-
 The demands of digital technology and professional certification continue to rise; mental health nurses must continually update their skills to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ The demands of digital technology and professional certification continue to ris
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mental-health-nurse/AU)**

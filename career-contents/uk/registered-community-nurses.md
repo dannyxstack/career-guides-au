@@ -52,8 +52,6 @@ Providing basic care services in clinics, health centers, or patients' homes, as
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Registered nurses' jobs will not be replaced by AI; instead, AI will enhance their diagnostic support, documentation, and patient monitoring capabilities, improving efficiency, but interpersonal care and clinical judgment remain core.
-
 Can progress from junior community nurse to advanced practice nurse, team leader, or community care manager, and further study to become a specialist nurse like diabetes or dementia care nurse.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can progress from junior community nurse to advanced practice nurse, team leader
 | Subclass Skilled Worker (Skilled Worker visa) | Suitable for community nurses requiring employer sponsorship, salary not below the standard threshold. |
 | Subclass Graduate (Graduate visa) | UK nursing graduates can apply, allowing 2 years of work (3 years for PhD), after which they can switch to a Skilled Worker visa. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to senior nurse practitioner, community care manager, or speciali
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registered-community-nurses/UK)**

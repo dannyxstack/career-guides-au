@@ -1,10 +1,8 @@
-# Securities Salesperson/Financial Instruments Intermediary 职业分析 · 日本
+# 证券销售员/金融工具中介（Securities Salesperson/Financial Instruments Intermediary）职业分析 · 日本
 
-**职业代码: 333 (JSCO)**
+**职业代码：333 (JSCO)**
 
-Financial professionals who trade or intermediate securities such as stocks and bonds. At major securities firms and financial institutions, they support clients' asset management.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+交易或中介股票、债券等证券的金融专业人士。在大型证券公司和金融机构，他们支持客户的资产管理。
 
 
 ---
@@ -13,8 +11,8 @@ Financial professionals who trade or intermediate securities such as stocks and 
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Economics, Commerce) | 4年 | $4,000,000~$6,000,000（National university: approx. 4 million yen; private liberal arts: approx. 6 million yen） |
-| Vocational school (Finance) | 2 年 | $2,000,000~$3,000,000（Curriculum specialized in financial practice） |
+| 大学（经济学、商学） | 4年 | $4,000,000~$6,000,000（国立大学：约400万日元；私立文科：约600万日元） |
+| 职业学校（金融） | 2 年 | $2,000,000~$3,000,000（金融实践专业课程） |
 
 ---
 
@@ -22,17 +20,17 @@ Financial professionals who trade or intermediate securities such as stocks and 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Securities Sales Representative License (Type 1) | Japan Securities Dealers Association | 必备 | A mandatory national qualification for securities sales. Type 1 allows handling all products. |
-| Financial Planner (AFP/CFP) | Japan Association for Financial Planners | 可选 | Advantageous for asset management advice. CFP is a higher-level qualification. |
+| 证券销售代表执照（第一类） | 日本证券业协会 | 必备 | 证券销售强制性国家资格。1类允许处理所有产品。 |
+| 财务规划师（AFP/CFP） | 日本金融规划师协会 | 可选 | 对资产管理建议有利。CFP是更高阶的资格认证。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 120,000. Due to population decline and the spread of AI/robo-advisors, traditional face-to-face sales are shrinking. Demand remains in specialized areas such as high-net-worth individuals and corporate clients.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 120,000。由于人口减少和AI/机器人顾问的普及，传统面对面销售正在萎缩。高净值个人和企业客户等专业领域仍有需求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -40,89 +38,83 @@ Financial professionals who trade or intermediate securities such as stocks and 
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$5,000,000 | Major securities firms: starting salary approx. 4 million yen, including commissions |
-| Mid-level (4–9 years) | $6,000,000~$10,000,000 | Varies greatly based on sales performance. Annual income around 8 million yen. |
-| 资深（10年以上） | $10,000,000~$20,000,000 | Branch manager class can exceed 15 million yen. No upper limit depending on results. |
+| 初级（0-3年） | $3,500,000~$5,000,000 | 主要证券公司：起薪约400万日元，含佣金 |
+| 中级（4-9年） | $6,000,000~$10,000,000 | 根据销售业绩差异很大，年收入约800万日元。 |
+| 资深（10年以上） | $10,000,000~$20,000,000 | 分店经理级别可超过1500万日元。根据业绩无上限。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the rise of AI and robo-advisors, routine trade execution and information provision are being replaced. However, areas requiring high-level human skills, such as complex asset consulting for wealthy clients and M&A brokerage for corporations, will remain.
+随着AI和机器人顾问的兴起，常规交易执行和信息提供正被取代。然而，需要高水平人类技能的领域，如富裕客户的复杂资产咨询和企业并购经纪，将得以保留。
 
-After joining, through in-house training and obtaining qualifications, career progression: sales representative → senior sales → deputy branch manager → branch manager. Career advancement possible by obtaining CFP, securities analyst, or other certifications.
+入职后，通过内部培训和获取资格，职业晋升：销售代表→高级销售→副分行经理→分行经理。通过获得CFP、证券分析师或其他认证可促进职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Accept stock buy/sell orders
-- Provide routine market information
-- Create simple asset diagnostic reports
+- 接受股票买卖订单
+- 提供常规市场信息
+- 创建简单的资产诊断报告
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Analyze and optimize client portfolios
-- Run risk management simulations
-- Analyze market trends and formulate investment strategies
+- 分析并优化客户投资组合
+- 开展风险管理模拟
+- 分析市场趋势并制定投资策略
 
-**人类护城河:**
+**人类护城河：**
 
-- Build trust with clients
-- Hear and propose solutions for complex needs
-- Provide advanced financial advice
+- 与客户建立信任
+- 倾听并针对复杂需求提出解决方案
+- 提供高级财务建议
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Financial planning
+- 财务规划
 - 数据分析技能
-- Advanced communication skills
-- English proficiency (foreign-affiliated companies)
+- 高级沟通技能
+- 英语能力（外资企业）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Asset Management Advisor
-- Sustainable Finance
-- Fintech
-- Wealth Management Sales
+- 资产管理顾问
+- 可持续金融
+- 金融科技
+- 财富管理销售
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university graduation or equivalent work experience. Applicable when engaging in financial operations. |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with sales skills and communication abilities
-- People with strong interest in financial markets and strength in numbers
-- People who can thrive in a performance-based environment
+- 具备销售技巧和沟通能力的人
+- 对金融市场有浓厚兴趣且擅长数字的人
+- 能在绩效导向环境中茁壮成长的人
 
 **谁不适合**
-- People weak to pressure
-- People not good at quotas or competition
+- 抗压能力差的人
+- 不擅长配额或竞争的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income for securities sales?**
-答：It depends on years of service and performance, but generally 3.5-5 million yen in the first year, 6-10 million yen for mid-career, and over 10 million yen for veterans. Commission rates are high, making it a job with large individual differences.
+**问：证券销售的平均年收入是多少？**
+答：视工龄和绩效而定，但通常第一年350-500万日元，中期600-1000万日元，资深超过1000万日元。佣金比例高，个人差异大。
 
 **问：外国人如何获得该职业工作签证？**
-答：An Engineer/Specialist in Humanities/International Services visa is required. You need to have graduated from a Japanese university or have practical experience in specialized knowledge (usually over 10 years). Also, Japanese language ability (around N1 level) is effectively necessary.
+答：需要人文/国际服务领域的工程师/专家签证。必须毕业于日本大学或拥有专业知识领域的实践经验（通常超过10年）。此外，日语能力（大约N1水平）实际上是必需的。
 
 
 ---
@@ -140,12 +132,12 @@ After joining, through in-house training and obtaining qualifications, career pr
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/securities-salesperson-financial-instruments-intermediary/JP)**

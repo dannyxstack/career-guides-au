@@ -51,8 +51,6 @@ Psychotherapists and cognitive behavioral therapists help people cope with menta
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Psychotherapists' clinical judgment and interpersonal skills are hard to replace, but AI will take over record-keeping, assessments, and some structured interventions, greatly improving efficiency; meanwhile, competition for entry-level jobs intensifies, overall risk moderately low.
-
 Entry-level therapists can accumulate clinical experience and become psychological therapy consultants or supervisors through advanced training. They can also enter NHS management, academic research, or open private practices, with diverse career paths.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level therapists can accumulate clinical experience and become psychologic
 | Subclass Skilled Worker (Skilled Worker visa) | Meeting salary thresholds and skill requirements, can be sponsored in a wider range of healthcare facilities |
 | Subclass Global Talent (Global Talent visa) | For those with outstanding achievements or potential in psychotherapy, no employer sponsorship required |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Require BPS-accredited bachelor's and master's courses, and registration with
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychotherapists-and-cognitive-behaviour-therapists/UK)**

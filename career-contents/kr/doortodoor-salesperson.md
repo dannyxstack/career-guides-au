@@ -4,8 +4,6 @@
 
 A job that involves visiting homes or businesses to sell products or services, typically concluding contracts through phone solicitations or face-to-face sales.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ A job that involves visiting homes or businesses to sell products or services, t
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Due to AI and digital transformation, the efficiency of phone and door-to-door sales is decreasing, and online marketing and customer relationship management (CRM) systems are emerging as substitutes, reducing the role of door-to-door salespeople. AI-based automation is highly likely to replace repetitive customer interactions.
-
 Most work as independent contractors. With experience, one may transition to a sales team leader or instructor, but promotion paths are unclear. Top performers can move up multilevel marketing tiers or start their own businesses.
 
 **Tasks most exposed to AI:**
@@ -89,18 +85,9 @@ Most work as independent contractors. With experience, one may transition to a s
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Door-to-door sales is not an E-7 eligible occupation, making visa issuance difficult. Possible in some multilevel marketing companies under special circumstances, but very limited. |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residency stage; door-to-door sales allowed freely. Must meet income requirements. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Allowed for overseas Koreans; can engage in door-to-door sales. |
-| Subclass F-5 (Permanent Residence) | No restrictions on industry as a permanent resident. Door-to-door sales allowed. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +131,12 @@ A: No specific education or certification is required, but training is needed fo
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/doortodoor-salesperson/KR)**

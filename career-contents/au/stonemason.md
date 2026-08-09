@@ -52,8 +52,6 @@ Stonemasons cut, shape, and install natural or artificial stone for building str
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Stonemasonry faces medium-high automation risk; AI and robots can take over measuring, cutting design, etc., but complex stone carving and on-site installation still rely on human skill; jobs will shrink but not disappear
-
 Stonemasons can progress from apprentice to journeyman, then to foreman, project manager, or self-employment. With experience, they can specialise in carving, restoration, or commercial stone installation.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Stonemasons can progress from apprentice to journeyman, then to foreman, project
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored temporary visa; requires employer sponsorship; can transition to 186 permanent residency. |
 | Subclass 186 (Employer Nomination Scheme) | Employer-sponsored permanent residence visa requires employer nomination and skills assessment |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Driven by construction and infrastructure investment, demand for stonemasons 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stonemason/AU)**

@@ -55,8 +55,6 @@ Data analysts use tools such as SQL, Python, Power BI and Tableau to analyse bus
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI's impact on data analysts is mixed: tasks like data cleaning and basic report generation will be automated, but strategic interpretation, business communication, and cross-departmental coordination skills are harder to replace.
-
 Data engineering (DE) skills (Spark / dbt / Airflow) enable data analysts to transition into data engineering roles, with a salary premium of $20k–$35k. Power BI and Tableau are the most widely required BI tools in the Australian market.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Data engineering (DE) skills (Spark / dbt / Airflow) enable data analysts to tra
 | Subclass 190 (Skilled Nominated) | State nomination, NSW/VIC/QLD pathway |
 | Subclass 491 (Skilled Work Regional) | Regional IT/data roles — 15-point bonus |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Data analysts have a much larger job market (Seek ~3,000+ vs ML ~600) with lo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-analyst/AU)**

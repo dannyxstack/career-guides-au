@@ -1,8 +1,8 @@
-# Cashier/Cash Clerk 职业分析 · 日本
+# 收银员/现金出纳（Cashier/Cash Clerk）职业分析 · 日本
 
-**职业代码: 261 (JSCO)**
+**职业代码：261 (JSCO)**
 
-Administrative role responsible for cash management and bookkeeping in companies and stores, handling tasks such as confirming sales proceeds, bank deposits/withdrawals, and ledger reconciliation.
+负责企业和商店现金管理和记账的行政岗位，处理确认销售收入、银行存款/取款以及账簿核对等任务。
 
 
 ---
@@ -11,8 +11,8 @@ Administrative role responsible for cash management and bookkeeping in companies
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（公立高中） |
-| Vocational school (Accounting & Bookkeeping Course) | 2 年 | $1,000,000~$2,000,000（Annual tuition: ¥500,000–¥1,000,000） |
+| 高中毕业 | 3年 | $0~$0（公立高中） |
+| 职业学校（会计与簿记课程） | 2 年 | $1,000,000~$2,000,000（年学费：50万-100万日元） |
 
 ---
 
@@ -20,18 +20,18 @@ Administrative role responsible for cash management and bookkeeping in companies
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bookkeeping Certification Level 2 (Nissho) | The Chamber of Commerce and Industry | 可选 | Widely recognized basic qualification in companies |
-| Bookkeeping Certification Level 3 (Nissho) | The Chamber of Commerce and Industry | 可选 | Recommended as an entry-level qualification |
-| Electronic Accounting Practical Exam | All-Japan Federation of Bookkeeping Associations | 可选 | Proof of accounting software operation skills |
+| 簿记认证二级（日商） | 工商会 | 可选 | 公司内广泛认可的基本资格 |
+| 簿记认证三级（日商） | 工商会 | 可选 | 推荐作为入门资格 |
+| 电子会计实操考试 | 全日本簿记协会联合会 | 可选 | 会计软件操作能力证明 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 250,000. Job postings are declining due to the spread of cashless payments, but demand is expected to persist in small business offices and facilities with high cash handling.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 250,000。由于无现金支付普及，岗位发布减少，但小型企业办公室和高现金处理场所的需求预计将持续。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -39,96 +39,89 @@ Administrative role responsible for cash management and bookkeeping in companies
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $2,800,000~$3,500,000 | General clerical level at small businesses |
-| Mid-level (4–9 years) | $3,500,000~$4,500,000 | Experienced accounting practitioner |
-| 资深（10年以上） | $4,000,000~$5,500,000 | Chief or section manager class |
+| 初级（0-3年） | $2,800,000~$3,500,000 | 小企业一般文员级别 |
+| 中级（4-9年） | $3,500,000~$4,500,000 | 有经验的会计从业者 |
+| 资深（10年以上） | $4,000,000~$5,500,000 | 主任或部门经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Cash handling tasks are rapidly being automated by AI and RPA, with automatic journal entries in accounting software and cashless payments reducing simple cash management work.
+现金处理任务正被AI和RPA迅速自动化，会计软件中的自动分录和无现金支付减少了简单的现金管理工作。
 
-Many start in general clerical positions, with a path to advance to accounting or finance departments through experience. Obtaining certifications broadens career options.
+许多人从普通文职岗位开始，通过积累经验有机会晋升到会计或财务部门。获得证书可以拓宽职业选择。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Counting cash and recording
-- Manual bank deposits and withdrawals
-- Verifying receipts and journalizing
-- Manual creation of daily/monthly reports
+- 清点现金并记录
+- 手动银行存取款
+- 核对收据并进行日记账
+- 手动创建日报/月报
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Checking data entry in accounting software
-- Monitoring and reporting suspicious transactions
-- Analyzing discrepancies between cash on hand and ledger
-- Creating cashless payment reports
+- 核对会计软件中的数据录入
+- 监控和报告可疑交易
+- 分析库存现金与账簿之间的差异
+- 创建无现金支付报告
 
-**人类护城河:**
+**人类护城河：**
 
-- High ethical standards and sense of responsibility towards money
-- Attention to detect anomalies in numbers
-- Interpersonal skills with customers and colleagues
-- Risk management ability for physical cash handling
+- 对金钱的高度道德标准和责任感
+- 对数字异常有警觉性
+- 与客户和同事的人际交往能力
+- 处理实体现金的风险管理能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Bookkeeping (Level 2 or higher)
-- Accounting software (Yayoi, Kanjo Bugyo, etc.)
-- Excel (VLOOKUP, pivot tables)
-- Communication Skills
+- 簿记（第2级或以上）
+- 会计软件（弥生、勘定奉行等）
+- Excel（VLOOKUP、数据透视表）
+- 沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cashless
-- Cash management
-- Accounting duties
-- Financial administration
+- 无现金化
+- 现金管理
+- 会计职责
+- 财务管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable with a university degree or 10+ years of work experience. Falls under accounting clerical work. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not currently eligible as of 2024, but potential for future expansion. |
-| Subclass 特定活動（エンジニア） (Designated Activities) | May be recognized as a highly skilled professional. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and strong with numbers
-- Good at steady routine work
-- Responsible and interested in financial management
+- 细致且擅长数字
+- 擅长稳定的常规工作
+- 负责并对财务管理感兴趣
 
 **谁不适合**
-- Prefers creative work
-- Values change and speed
+- 偏好创意工作
+- 重视变化和速度
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a cashier/clerk?**
-答：Entry-level: 2.8–3.5 million yen, mid-level: 3.5–4.5 million yen, experienced: 4–5.5 million yen. Demand is decreasing due to cashless payments.
+**问：收银员/店员年收入是多少？**
+答：入门级：280-350万日元，中级：350-450万日元，有经验：400-550万日元。由于无现金支付，需求正在下降。
 
-**问：What visa is required for foreigners to work in this occupation in Japan?**
-答：The Engineer/Specialist in Humanities/International Services visa is common, requiring a university degree or 10+ years of work experience. Specified Skilled Worker (i) is currently not eligible.
+**问：外国人在日本从事该职业需要什么签证？**
+答：人文/国际服务领域的工程师/专家签证常见，要求大学学位或10年以上工作经验。特定技能工人（i）目前不符合条件。
 
-**问：How to advance your career from this position?**
-答：It's common to obtain a Bookkeeping Level 2+ certification and move to the accounting or finance department. Proficiency in accounting software is valued.
+**问：如何从这个职位实现职业晋升？**
+答：通常获得簿记2级+认证并转入会计或财务部门。熟练使用会计软件受重视。
 
 
 ---
@@ -146,12 +139,12 @@ Many start in general clerical positions, with a path to advance to accounting o
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/cashier-cash-clerk/JP)**

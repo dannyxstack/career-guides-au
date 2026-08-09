@@ -52,8 +52,6 @@ Hotel and accommodation managers plan, organize, direct, and coordinate the dail
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Hotel and accommodation management careers are affected by AI with mixed results: routine tasks like booking and accounting are easily automated, while customer service and crisis management rely on humans; entry-level positions narrow due to automation tools, but advanced roles increase demand for interpersonal and emergency response skills, with both risks and opportunities.
-
 Common career progression: from department head (e.g., front office manager, housekeeping manager) to hotel manager, then to regional manager or group operations director. Some managers become owners by operating their own properties. Requires cross-departmental management experience and business insight.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Common career progression: from department head (e.g., front office manager, hou
 | Subclass Graduate (Graduate visa) | For students who have completed a bachelor's or master's degree in the UK, allowing them to work in the UK for 2 years after graduation. No employer sponsorship required, but experience can be accumulated to switch to a work visa. |
 | Subclass Global Talent (Global Talent visa) | Only for high-end talent with outstanding achievements in the hospitality industry, such as executives from well-known hotel groups. Requires assessment. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. Many hotel managers advance from entry-level positions (e.g., front desk
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-and-accommodation-managers-and-proprietors/UK)**

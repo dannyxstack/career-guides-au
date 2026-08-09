@@ -56,8 +56,6 @@ Responsible for formulating, analyzing, and implementing economic policies and g
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This occupation has mixed prospects: data analysis and report generation tasks are easily automated by AI, but value judgments in policy-making, cross-departmental coordination, and public accountability still heavily rely on human experience. Entry-level positions are shrinking due to AI tools, but strategic analysis roles are becoming more valued.
-
 Typically progresses from policy analyst or project officer to manager, director, and then senior management roles such as deputy secretary; cross-departmental movement is common.
 
 **Tasks most exposed to AI:**
@@ -114,8 +112,6 @@ Typically progresses from policy analyst or project officer to manager, director
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -159,11 +155,12 @@ A: Basic requirement is a relevant bachelor's degree; a master's degree is advan
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/government-managers-economic-analysis-policy-development-and-program-administration-40011/CA)**

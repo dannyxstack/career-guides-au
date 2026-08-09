@@ -53,8 +53,6 @@ Firefighters handle fire suppression, emergency rescue, medical response, and fi
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Clear career progression: from Firefighter to Senior Officer or staff positions (e.g., training, fire safety officer), then to Area Commander or national management level. Usually requires many years of experience and internal promotion exams.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Clear career progression: from Firefighter to Senior Officer or staff positions 
 | Subclass AEWV (Accredited Employer Work Visa) | If you receive a job offer from Fire and Emergency New Zealand, the employer must be an accredited employer, and you can apply for an AEWV. After 24 months on an AEWV, you can apply for SMC. |
 | Subclass SMC (Skilled Migrant Category) | Must meet the 6-point standard (e.g., qualifications + work experience). Firefighter is an ANZSCO Skill Level 2 occupation, requiring at least a bachelor's degree or equivalent plus work experience. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Must first pass selection and be employed, then attend 14-week paid initial t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firefighter/NZ)**

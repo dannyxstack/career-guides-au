@@ -4,8 +4,6 @@
 
 Operate and monitor pulp and paper equipment to ensure efficient production processes, including pulping, papermaking, drying, and winding.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Operate and monitor pulp and paper equipment to ensure efficient production proc
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The role of pulp and paper mill operators faces a high risk of automation, with AI and robots taking over many monitoring, control, and quality inspection tasks, significantly reducing entry-level positions, but equipment maintenance and anomaly handling still require humans.
-
 Can progress from entry-level operator to senior operator or team leader, then to production supervisor or process engineer, requiring continuous learning in automation and environmental technology.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can progress from entry-level operator to senior operator or team leader, then t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to highly skilled talents who have received a job offer from a Dutch employer and meet the salary threshold, for fast-track residence permit |
-| Subclass EU Blue Card (EU Blue Card) | For high-skilled non-EU citizens, requires a higher education contract and high salary, valid for 1-4 years |
-| Subclass Orientation Year (Orientation Year) | Applicable to master's/PhD graduates from Dutch or world top 200 universities, providing a one-year job search period |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Automation technology has increased demand for skilled operators, but overall
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pulp-and-papermaking-plant-operator/NL)**

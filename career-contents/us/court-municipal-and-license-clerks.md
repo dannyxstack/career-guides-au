@@ -53,8 +53,6 @@ Perform clerical duties for courts, municipal agencies, or government licensing 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI voice recognition and natural language processing are rapidly eroding the core skills of court stenographers—real-time transcription and proofreading. Entry-level demand has shrunk significantly, but senior court stenographers still need to handle complex court records and transition to legal process management and quality oversight that AI cannot replace.
-
 Usually start as a junior clerk, gain experience to advance to senior clerk, supervisor, or office manager. Some may transfer to professional roles (e.g., legal assistant, administrative officer) through internal exams.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Usually start as a junior clerk, gain experience to advance to senior clerk, sup
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Employment growth is slow, but turnover and retirement create job openings. C
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/court-municipal-and-license-clerks/US)**

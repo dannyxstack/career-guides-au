@@ -1,8 +1,8 @@
-# Disinfection Worker 职业分析 · 韩国
+# 消毒员（Disinfection Worker）职业分析 · 韩国
 
-**职业代码: 56131 (KECO)**
+**职业代码：56131 (KECO)**
 
-A professional who controls pests and harmful organisms in various facilities and spaces, and prevents the spread of infectious diseases.
+在各类设施和空间中控制害虫及有害生物，并防止传染病传播的专业人员。
 
 
 ---
@@ -12,7 +12,7 @@ A professional who controls pests and harmful organisms in various facilities an
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中及以上学历 | 0年 | $0~$0（无特定学历要求） |
-| Completion of disinfection-related training | 3个月 | $500,000~$1,000,000（Conducted by Korea Conformity Laboratories (KCL) etc.） |
+| 完成消毒相关培训 | 3个月 | $500,000~$1,000,000（由韩国合规实验室（KCL）等机构进行。） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who controls pests and harmful organisms in various facilities an
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Disinfection and Pest Control Business Registration | 地方当局 | 必备 | Mandatory registration for business operation |
-| Pest Control Technician | Korea Conformity Laboratories (KCL) | 可选 | Classified as Grade 2 and Grade 1 |
+| 消毒与害虫防治业务注册 | 地方当局 | 必备 | 经营业务需强制注册 |
+| 虫害防治技术员 | Korea Conformity Laboratories (KCL) | 可选 | 分为二级和一级 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 15,000. With increasing social awareness of infection prevention, demand for disinfection services is expected to grow steadily. In particular, after COVID-19, the importance of disinfection has been highlighted, and employment will remain stable.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 15,000。随着社会对感染预防意识的提高，消毒服务需求预计将稳定增长。特别是COVID-19之后，消毒的重要性凸显，就业将保持稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -38,65 +38,58 @@ A professional who controls pests and harmful organisms in various facilities an
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Initial salary is relatively low |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 起薪相对较低 |
 | 中级 (4-7年) | $30,000,000~$40,000,000 | 经验丰富后增长 |
-| Advanced (8 years or more) | $40,000,000~$50,000,000 | Skilled workers and managers |
+| 高级（8年及以上） | $40,000,000~$50,000,000 | 技能工人和经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-Rather than completely replacing the work of disinfection workers, AI and automation technologies will enhance efficiency in areas such as pest control planning and data analysis. Fieldwork will still require human judgment and skills.
+AI和自动化技术不会完全取代消毒工人的工作，而是在害虫防治规划和数据分析等领域提高效率。现场工作仍需人类的判断和技能。
 
-Skill proficiency typically increases through technical acquisition and experience, allowing promotion to team leader or manager at specialized disinfection companies. Obtaining relevant certifications may enable starting a business or working independently.
+技能熟练度通常通过技术获取和经验积累来提高，从而在专业消毒公司晋升为团队负责人或经理。获得相关认证后，可以自主创业或独立工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple pest monitoring
-- Regular pest control schedule management
+- 简单害虫监测
+- 常规害虫防治计划管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Pest analysis
-- Pest control plan establishment
-- Effectiveness evaluation
+- 害虫分析
+- 虫害控制计划制定
+- 有效性评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Field experience and meticulous skills
-- Customer response ability
-- Emergency response ability
+- 现场经验和细致技能
+- 客户响应能力
+- 应急响应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Use of AI analysis tools
-- Data interpretation ability
-- Operation of advanced pest control equipment
+- AI分析工具的使用
+- 数据解读能力
+- 先进害虫防治设备的操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Increased demand for disinfection
-- Infectious disease prevention
-- Sanitation management
-- Pest control
+- 消毒需求增加
+- 传染病预防
+- 卫生管理
+- 虫害防治
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | The disinfection industry may be included in E-9 eligible occupations, and employment is possible through the Employment Permit System. |
-| Subclass E-7 (Specific Activities (E-7)) | If a skilled disinfection technician is recognized as a professional worker, an E-7 visa can be obtained. |
-| Subclass F-2 (Residence (F-2)) | Long-term stay may lead to permanent residency, but disinfection alone makes it difficult. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -104,25 +97,25 @@ Skill proficiency typically increases through technical acquisition and experien
 
 **谁适合**
 - 细心且注重细节的人
-- Person who prefers outdoor activities
-- Person who is very interested in hygiene and environment
+- 偏好户外活动的人
+- 对卫生和环境非常感兴趣的人
 
 **谁不适合**
-- Person sensitive to chemicals
-- Person afraid of working at heights
+- 对化学物质敏感的人
+- 恐高者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a disinfection technician?**
-答：For entry-level, it is about 24 million to 30 million won, and with experience, it can rise up to 50 million won.
+**问：消毒技术员的平均年薪是多少？**
+答：入门级约2400万至3000万韩元，有经验后可升至5000万韩元。
 
-**问：Can foreigners work as disinfection technicians?**
-答：It is possible with an E-9 (Non-professional Employment) visa or E-7 (Specific Activities) visa, but Korean language skills and technical recognition are required.
+**问：外国人可以从事消毒技术员工作吗？**
+答：持E-9（非专业就业）签证或E-7（特定活动）签证可行，但需韩语技能和技术认可。
 
-**问：What certifications are needed to become a disinfection technician?**
-答：It is not mandatory, but a Pest Control Technician certification is advantageous, and for business operation, registration of disinfection and sterilization services is required.
+**问：成为消毒技术员需要哪些认证？**
+答：非强制要求，但持有有害生物防治技术员认证更具优势；开展业务需注册消毒灭菌服务。
 
 
 ---
@@ -140,12 +133,12 @@ Skill proficiency typically increases through technical acquisition and experien
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/disinfection-worker/KR)**

@@ -52,8 +52,6 @@ Credit analysts play a key role in assessing loan risk, with ongoing demand for 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will take over data-driven credit assessment and report generation in credit analysis, but complex judgment, client communication, and compliance responsibilities still require humans; risks and opportunities coexist.
-
 Junior Credit Analyst can advance to Senior Analyst, Credit Manager, or Risk Supervisor. With experience, can move into corporate banking, risk management, or fintech; some become independent financial advisors.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior Credit Analyst can advance to Senior Analyst, Credit Manager, or Risk Sup
 | Subclass Green List T2 (Green List Tier 2) | Can apply for residence after 2 years of work, requires accredited employer |
 | Subclass AEWV (Accredited Employer Work Visa) | Common work visa pathway, sponsored employment |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Typically requires a bachelor's degree in finance, accounting, or business; a
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/credit-analyst/NZ)**

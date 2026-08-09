@@ -51,8 +51,6 @@ Precision instrument manufacturing and repair workers manufacture, calibrate, an
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not completely replace precision instrument manufacturing and maintenance workers, but will significantly change their work methods: automated calibration and diagnostics will compress some repetitive tasks while enhancing complex system integration and data analysis capabilities, requiring practitioners to acquire more digital skills.
-
 Can progress from apprentice to senior technician or technical specialist, or transition to quality control, instrument design, or technical management roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Can progress from apprentice to senior technician or technical specialist, or tr
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to skilled workers earning up to €5,008 (under 30) or €6,672 (over 30), requiring employer sponsorship. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens, annual salary must exceed €5,800, with a valid work contract. |
-| Subclass Orientation Year (Orientation Year) | Applicable to foreign students who graduated in the Netherlands, allowing free job search within one year, with a switch to work visa after finding employment. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Usually requires completing 3-4 years of MBO secondary vocational education o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/precisioninstrument-maker-and-repairer/NL)**

@@ -1,10 +1,8 @@
-# General Affairs Clerk 职业分析 · 韩国
+# 总务文员（General Affairs Clerk）职业分析 · 韩国
 
-**职业代码: 02631 (KECO)**
+**职业代码：02631 (KECO)**
 
-This employee is responsible for overall general affairs tasks including general administration, facility management, asset management, and maintaining the office environment.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该员工负责包括一般行政、设施管理、资产管理和维护办公环境在内的整体总务事务。
 
 
 ---
@@ -13,8 +11,8 @@ This employee is responsible for overall general affairs tasks including general
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduation | 3年 | $0~$0（Free (compulsory education)） |
-| University (2-year/4-year) Graduation | 4年 | $20,000,000~$50,000,000（Based on annual tuition） |
+| 高中毕业 | 3年 | $0~$0（免费（义务教育）） |
+| 大学（2年/4年）毕业 | 4年 | $20,000,000~$50,000,000（基于年学费） |
 
 ---
 
@@ -22,18 +20,18 @@ This employee is responsible for overall general affairs tasks including general
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Office Automation Engineer | Human Resources Development Service of Korea | 可选 | Helps improve office skills |
-| Secretary Level 1/2 | Korea Secretaries Association | 可选 | Preferred in large corporations |
-| Computer Proficiency Level 1/2 | Korea Chamber of Commerce and Industry | 可选 | Basic office skills |
+| 办公自动化工程师 | 韩国人力资源开发服务局 | 可选 | 有助于提升办公技能 |
+| 一级/二级秘书 | 韩国秘书协会 | 可选 | 大企业优先 |
+| 计算机熟练程度1/2级 | 大韩商工会议所 | 可选 | 基本办公室技能 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 180,000. This is a necessary position regardless of company size, offering stable employment, but digitalization is expected to stagnate manpower demand.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 180,000。无论公司规模如何，这是必要职位，就业稳定，但数字化预计会抑制人力需求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -41,92 +39,85 @@ This employee is responsible for overall general affairs tasks including general
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $26,000,000~$32,000,000 | Varies by company size |
+| 初级（0-3年） | $26,000,000~$32,000,000 | 因公司规模而异 |
 | 中级（4-9年） | $34,000,000~$45,000,000 | 随经验增加 |
-| Advanced (10+ years) | $47,000,000~$60,000,000 | Team leader level or above |
+| 高级（10年以上） | $47,000,000~$60,000,000 | 团队主管级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-As AI and automation replace simple office tasks, the role of general affairs officers is shrinking, but complex decision-making and interpersonal coordination tasks remain in the human domain.
+随着人工智能和自动化取代简单的办公室任务，总务人员的角色正在缩小，但复杂的决策和人际协调任务仍保留在人类领域。
 
 Starting as a new employee, you can build experience and be promoted to general affairs team leader or management department head; obtaining certifications is advantageous.
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document classification and organization
-- Basic data entry
-- Schedule management automation
+- 文件分类与整理
+- 基础数据录入
+- 日程管理自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Cost analysis and report writing
-- Facility management decision support
-- Employee benefits program design
+- 成本分析与报告撰写
+- 设施管理决策支持
+- 员工福利计划设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal coordination
-- Organizational culture understanding
-- Crisis response ability
+- 人际协调
+- 理解组织文化
+- 危机应对能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI tool utilization
-- Communication
+- 数据分析
+- 人工智能工具运用
+- 通信
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital transformation
-- Office automation
-- Outsourcing
-- Benefits management
+- 数字化转型
+- 办公自动化
+- 外包
+- 福利管理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable only for general affairs work requiring expertise |
-| Subclass F-2 (Residence) | Intermediate step to permanent residency, few employment restrictions |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Meticulous and organized personality
-- Able to handle various tasks simultaneously
-- Person with excellent interpersonal skills
+- 细心有条理的性格
+- 能同时处理多种任务
+- 人际交往能力强的人
 
 **谁不适合**
-- Someone who dislikes repetitive office work
-- Someone who struggles with computer use
+- 不喜欢重复性办公室工作的人
+- 不擅长使用电脑的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a general affairs clerk?**
-答：For entry level, about 26-32 million KRW; with over 10 years of experience, 47-60 million KRW.
+**问：总务文员的平均年薪是多少？**
+答：入门级约2600-3200万韩元；10年以上经验者4700-6000万韩元。
 
-**问：Can foreigners work as general affairs clerks?**
-答：General affairs has low expertise requirements, making E-7 visa issuance difficult; F-2 or higher is required.
+**问：外国人能担任总务文员吗？**
+答：总务工作专业要求低，申请E-7签证困难；需持有F-2或以上签证。
 
-**问：What educational background is needed to become a general affairs clerk?**
-答：While high school graduates are eligible, college graduates have an advantage, and office-related certifications are helpful.
+**问：成为总务文员需要什么学历背景？**
+答：虽然高中毕业生有资格，但大学毕业生有优势，办公相关认证有帮助。
 
 
 ---
@@ -144,12 +135,12 @@ Starting as a new employee, you can build experience and be promoted to general 
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/general-affairs-clerk/KR)**

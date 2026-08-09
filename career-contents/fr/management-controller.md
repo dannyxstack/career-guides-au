@@ -53,8 +53,6 @@ Management controllers are responsible for analyzing corporate financial and ope
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The core tasks of management controllers are data collection, report generation, and variance analysis, tasks that are being rapidly covered by AI and automation tools, leading to a decrease in demand for entry-level positions. However, advanced functions such as strategic decision support, business insights, and management communication have been amplified by AI, increasing the value of senior roles.
-
 Starting as a junior analyst, you can advance to senior management controller, control manager, or move on to senior positions such as CFO or CFO.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Starting as a junior analyst, you can advance to senior management controller, c
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for management controllers earning 1.5 times the French average salary (about 53,000 euros/year), allowing quick acquisition of work residency. |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled management controllers, who must hold a master's degree or at least 5 years of experience, with a salary twice the French average (about 70,000 euros/year). |
-| Subclass Salarié (Employee Work Permit) | Standard work permits, applicable to management controllers employed by French companies, require approval from the French Labor Authority. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: Starting as a junior analyst, you can advance to senior controllers, control 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-controller/FR)**

@@ -52,8 +52,6 @@ Responsible for planning, installing, configuring, and maintaining computer netw
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of IT network professionals (e.g., configuration, troubleshooting) face risks of AI automation, but complex network design, security strategies, and project management needs are enhanced by AI, presenting a mixed outlook.
-
 Junior network technicians can advance to senior network engineer or network architect, or move towards cybersecurity specialist or cloud solutions architect. Obtaining vendor certifications such as CCNP or CCIE can significantly enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior network technicians can advance to senior network engineer or network arc
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Suitable for applicants with recognized German vocational qualifications (e.g., dual-system certificate) or a bachelor's degree, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa allowing holders to seek work in Germany, suitable for those with qualifications or language skills. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Either German dual-system training (3 years paid) or a bachelor's degree (Uni
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-network-technician/DE)**

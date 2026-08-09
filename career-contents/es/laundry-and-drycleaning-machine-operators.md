@@ -4,8 +4,6 @@
 
 Operate industrial laundry, dry cleaning, and ironing equipment in laundries and dry cleaners, handling clothing, textiles, and other items to ensure cleanliness and hygiene standards.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Operate industrial laundry, dry cleaning, and ironing equipment in laundries and
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Laundry and dry-cleaning workers face medium-to-high automation risk; routine tasks (sorting, adding chemicals, loading/unloading) are easily replaced by robots/smart equipment, but fine work like stain treatment still relies on humans; entry-level positions will shrink significantly.
-
 You can be promoted from operator to laundry supervisor or manager, or move into equipment maintenance and technical support. Some can start small laundries on their own.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ You can be promoted from operator to laundry supervisor or manager, or move into
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | A work contract must be provided by a Spanish employer, and the position must prove that the position cannot be filled by an EU citizen. Relevant experience is usually required. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: Formal education is usually not required; employers provide on-the-job traini
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/laundry-and-drycleaning-machine-operators/ES)**

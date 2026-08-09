@@ -1,10 +1,8 @@
-# Sports Directors and Coaches 职业分析 · 韩国
+# 体育总监与教练（Sports Directors and Coaches）职业分析 · 韩国
 
-**职业代码: 42011 (KECO)**
+**职业代码：42011 (KECO)**
 
-They guide and train athletes to improve performance, establish team strategies, and oversee game operations.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+他们指导和训练运动员以提高成绩，制定团队策略，并监督比赛运作。
 
 
 ---
@@ -13,9 +11,9 @@ They guide and train athletes to improve performance, establish team strategies,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree in physical education or related field | 4年 | $20,000,000~$40,000,000（Tuition based on national universities） |
-| Sports Instructor Certification | 1年 | $500,000~$2,000,000（培训与考试费用） |
-| Professional Director Training Course | 6 months | $3,000,000~$5,000,000（Organized by the Korean Olympic Committee, etc.） |
+| 体育教育或相关领域的学士学位 | 4年 | $20,000,000~$40,000,000（基于国立大学的学费） |
+| 体育指导员认证 | 1年 | $500,000~$2,000,000（培训与考试费用） |
+| 专业导演培训课程 | 6个月 | $3,000,000~$5,000,000（由韩国奥委会等组织主办） |
 
 ---
 
@@ -23,18 +21,18 @@ They guide and train athletes to improve performance, establish team strategies,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Lifestyle Sports Instructor | Korea Institute of Sport Science | 必备 | Level 2 or above required |
-| Competition Coach Certification | Korean Olympic Committee | 必备 | Required for directors |
-| Professional Sports Instructor | Korean Olympic Committee | 可选 | Certification by sport |
+| 生活方式体育教练 | Korea Institute of Sport Science | 必备 | 需要2级或以上 |
+| 竞赛教练认证 | 韩国奥林匹克委员会 | 必备 | 对董事要求 |
+| 专业体育教练 | 韩国奥林匹克委员会 | 可选 | 按运动项目认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 52,000. Employment is expected to increase moderately due to rising demand for professional sports and recreational sports, but competition for elite coaching positions is fierce, and factors such as honorary retirement also exist.
+**职位需求量：中高（★★★½☆）** 全国从业人数约 52,000。由于对职业体育和休闲体育需求增长，就业预计温和上升，但精英教练职位竞争激烈，且有荣誉退休等因素影响。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -42,92 +40,84 @@ They guide and train athletes to improve performance, establish team strategies,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $28,000,000~$40,000,000 | Based on youth coaches and assistant coaches |
-| Intermediate (4–10 years) | $40,000,000~$70,000,000 | Youth Team Coach, Pro Team Coach |
-| Advanced (10+ years) | $70,000,000~$99,999,999 | Pro Team Head Coach, National Team Head Coach |
+| Beginner (0–3 years) | $28,000,000~$40,000,000 | 基于青年教练和助理教练 |
+| 中级（4-10年） | $40,000,000~$70,000,000 | 青年队教练、职业队教练 |
+| 高级（10年以上） | $70,000,000~$99,999,999 | 职业队主教练、国家队主教练 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is used as an assistant tool in areas such as match analysis, athlete health monitoring, and training plan development; however, human leadership and motivational skills are irreplaceable, making the field overall more enhanced.
+人工智能在比赛分析、运动员健康监测和训练计划制定等领域作为辅助工具使用；然而，人类的领导力和激励能力不可替代，整体上该领域得到了增强。
 
-Start as coaches for small clubs or youth teams, gain experience and coaching certifications, and advance to professional team coaches and directors. Performance and networking are important, and advancement to college coaches is possible.
+从小型俱乐部或青年队教练做起，积累经验和教练证书，晋升为职业队教练和主管。业绩和人脉很重要，也有机会晋升大学教练。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple training schedule management
-- Basic physical fitness measurement and recording
+- 简单培训日程管理
+- 基础体能测量与记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Game strategy analysis
-- Athlete injury prediction
-- Personalized training program design
+- 游戏策略分析
+- 运动员伤病预测
+- 个性化培训方案设计
 
-**人类护城河:**
+**人类护城河：**
 
-- Human motivation ability
-- On-site leadership
-- Emotional bonding and communication
+- 人类激励能力
+- 现场领导能力
+- 情感纽带与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Sports data analysis
-- AI coaching tool utilization
-- Exercise physiology knowledge
+- 体育数据分析
+- AI辅导工具应用
+- 运动生理学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Community Sports
-- Youth Sports
-- Professional Sports
-- Esports Coaching
+- 社区体育
+- 青少年体育
+- 职业体育
+- 电子竞技教练
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issued to foreign sports coaches, requires invitation from Korean sports institution |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, free to work |
-| Subclass F-4 (F-4 (Overseas Korean)) | Overseas Korean residency status, can work as coach in Korea |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong leadership
-- People with extensive athletic experience
-- People who enjoy teaching others
+- 具有强大领导力的人
+- 拥有丰富运动经验的人
+- 喜欢教导他人的人
 
 **谁不适合**
-- People who only follow instructions
-- People who struggle with interpersonal relationships
+- 只会听从指令的人
+- 人际关系困难者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a sports director or coach?**
-答：Entry-level: approximately 28 million–40 million KRW; directors with over 10 years of experience range from 70 million KRW up to 200 million KRW.
+**问：体育总监或教练的平均薪资是多少？**
+答：入门级：约2800万–4000万韩元；10年以上经验的主管范围从7000万韩元至2亿韩元。
 
-**问：What kind of visa does a foreigner need to work as a sports coach in Korea?**
-答：The E-7 (Specific Activities) visa is common, requiring an invitation from a Korean sports organization and meeting qualification requirements.
+**问：外国人在韩国担任体育教练需要什么签证？**
+答：E-7（特定活动）签证常见，需韩国体育组织邀请并满足资格要求。
 
-**问：What are the required certifications?**
-答：A Level 2 or higher sport instructor certificate is essential; having a professional sports instructor or game instructor certificate is advantageous.
+**问：需要哪些认证？**
+答：必须持有二级或以上体育指导员证书；持有专业体育指导员或赛事指导员证书者优先
 
 
 ---
@@ -145,12 +135,12 @@ Start as coaches for small clubs or youth teams, gain experience and coaching ce
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sports-directors-and-coaches/KR)**

@@ -52,8 +52,6 @@ Work underwater using surface-supplied or self-contained underwater breathing ap
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some underwater inspection and recording tasks of commercial divers can be enhanced by AI, but core physical operations, emergency repairs, and safety responsibilities are hard to replace; overall risk is moderate.
-
 Entry-level divers need to accumulate underwater welding and inspection experience, can advance to dive supervisor, project coordinator, or specialize in saturation diving, underwater NDT, etc.; some move to offshore oil and gas industry.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level divers need to accumulate underwater welding and inspection experien
 | Subclass EB-3 (EB-3 Skilled Workers) | Experienced commercial divers can apply for employment-based green cards, requiring PERM labor certification |
 | Subclass O-1 (O-1 Extraordinary Ability) | Rarely applicable, only for highly accomplished divers with outstanding achievements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but significantly boosts employability; many employers prefer 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-divers/US)**

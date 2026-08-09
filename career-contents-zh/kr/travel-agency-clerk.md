@@ -1,10 +1,8 @@
-# Travel Agency Clerk 职业分析 · 韩国
+# 旅行社文员（Travel Agency Clerk）职业分析 · 韩国
 
-**职业代码: 52121 (KECO)**
+**职业代码：52121 (KECO)**
 
-A professional who plans/sells travel products and books/adjusts flights, accommodations, and itineraries.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责策划/销售旅游产品以及预订/调整航班、住宿和行程的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who plans/sells travel products and books/adjusts flights, accomm
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（High school diploma or higher, no additional training required） |
-| Associate's degree (Tourism/Hospitality) | 2 年 | $8,000,000~$12,000,000（Annual tuition for a tourism department at a junior college） |
+| 高中毕业 | 0年 | $0~$0（高中及以上学历，无需额外培训） |
+| 副学士学位（旅游/酒店管理） | 2 年 | $8,000,000~$12,000,000（大专旅游专业年学费） |
 
 ---
 
@@ -22,17 +20,17 @@ A professional who plans/sells travel products and books/adjusts flights, accomm
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tourist Guide-Interpreter | Korea Tourism Organization | 可选 | Not mandatory but advantageous for domestic travel guidance |
-| Travel English (TOEIC, etc.) | ETS, etc. | 可选 | Foreign language proficiency proof, not mandatory |
+| 导游-口译员 | 韩国旅游发展局 | 可选 | 非强制但对国内旅行导览有利 |
+| 旅游英语（托业等） | ETS等 | 可选 | 外语水平证明，非强制性 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Despite post-COVID travel demand recovery, online booking substitution limits job growth, though in-person consultation demand is expected to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。尽管疫情后旅行需求复苏，在线预订替代限制了就业增长，但面对面咨询需求预计将持续存在。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,89 +38,82 @@ A professional who plans/sells travel products and books/adjusts flights, accomm
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $28,000,000~$35,000,000 | Based on small to medium travel agencies |
-| Mid-level (4–7 years) | $35,000,000~$45,000,000 | Varies by experience and certifications |
-| 高级（8年+） | $45,000,000~$60,000,000 | Team leader/branch manager level |
+| 初级（0-3年） | $28,000,000~$35,000,000 | 基于中小型旅行社 |
+| 中级（4–7年） | $35,000,000~$45,000,000 | 因经验和证书而异 |
+| 高级（8年+） | $45,000,000~$60,000,000 | 团队领导/分支经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 很高（★★★★½）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：很高（★★★★½）**
 
-Online booking systems and AI chatbots are rapidly replacing travel consultation and booking tasks, significantly reducing jobs.
+在线预订系统和AI聊天机器人正迅速取代旅行咨询和预订任务，大幅减少就业岗位。
 
-Promotion typically starts from office assistant to product planning, team leader, and branch manager; foreign language skills and computer system proficiency are key.
+晋升通常从办公室助理开始，到产品策划、团队负责人和分公司经理；外语能力和计算机系统熟练度是关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Processing airline and hotel reservations
-- Making schedule confirmation calls
-- Simple travel product searches
+- 处理航空和酒店预订
+- 进行日程确认电话
+- 简单旅游产品搜索
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Personalized travel product recommendations
-- Travel experience review analysis
-- Customer data-based marketing
+- 个性化旅游产品推荐
+- 旅行体验回顾分析
+- 基于客户数据的营销
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy in customer consultations
-- Complex travel itinerary coordination
-- Emergency response
+- 客户咨询中的同理心
+- 复杂旅行日程协调
+- 应急响应
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Digital marketing
-- Foreign languages (especially English, Chinese)
-- CRM utilization
+- 数据分析
+- 数字营销
+- 外语（特别是英语、中文）
+- CRM利用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Online booking
-- Package planning
-- Cruise travel
-- Customized travel products
+- 在线预订
+- 套餐规划
+- 邮轮旅行
+- 定制旅游产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Experienced travel agency clerks may work under E-7 visa but limited |
-| Subclass F-2 (F-2-99 (Residence)) | Possible for long-term stay with point system, but travel agent gets low points |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent foreign language skills
-- People who are strong in customer service and detail-oriented
+- 具备出色外语能力的人
+- 擅长客户服务和注重细节的人
 
 **谁不适合**
 - 不喜欢重复性任务的人
-- People who are stressed by interpersonal relationships
+- 因人际关系感到压力的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary of a travel agent?**
-答：Entry-level annual salary is 28-35 million KRW, and with 8+ years of experience, it can reach 45-60 million KRW.
+**问：旅行社的年薪是多少？**
+答：入门年薪2800-3500万韩元，8年以上经验可达4500-6000万韩元。
 
-**问：Can foreigners get a travel agent visa?**
-答：Extremely limited under E-7 visa; requires high skills and advanced foreign language, making actual employment difficult.
+**问：外国人可以申请旅行社签证吗？**
+答：E-7签证下极其有限；要求高技能和高级外语，实际就业困难。
 
 
 ---
@@ -140,12 +131,12 @@ Promotion typically starts from office assistant to product planning, team leade
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 很高（★★★★½） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/travel-agency-clerk/KR)**

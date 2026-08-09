@@ -53,8 +53,6 @@ Beauty professionals provide personal beauty services including hairdressing, ma
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly reduce demand for hairdressers and beauticians, as clients can use virtual try-ons, AI hairstyle recommendations, and other self-service tools for part of the consultation, while automated equipment (e.g., smart hair dye machines, nail printers) can replace basic operations, reducing reliance on entry-level practitioners.
-
 Starting as an assistant hairstylist, can advance to senior stylist, salon manager, or brand educator, or start your own business.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Starting as an assistant hairstylist, can advance to senior stylist, salon manag
 | Subclass H-1B (H-1B Specialty Occupations) | Usually does not meet professional occupation requirements, rarely used. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Only a very few top hairstylists can apply, must demonstrate outstanding achievements |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Very difficult. This occupation usually does not meet H-1B specialty occupati
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hairdressers-hairstylists-and-cosmetologists/US)**

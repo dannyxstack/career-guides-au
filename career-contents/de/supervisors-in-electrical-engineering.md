@@ -53,8 +53,6 @@ An electrical engineering supervisor oversees electrical installation, maintenan
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Landscaping and horticulture services contractors/supervisors have mixed prospects: physical and on-site decision tasks are hard to automate, but documentation, monitoring, and client communication are being enhanced by AI, with medium automation risk.
-
 Common career progression: Electrical technician → Team supervisor → Department manager or project manager. Further education (e.g., technical school or Meister degree) can lead to senior management or professional consulting roles. Some choose to start their own business.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Common career progression: Electrical technician → Team supervisor → Departm
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | For skilled workers with recognized German professional qualifications or equivalent qualifications, requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based jobseeker visa that allows one year to seek work in Germany, requiring language and qualification proof. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually complete 3.5-year dual training and obtain Meister or technician degr
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-in-electrical-engineering/DE)**

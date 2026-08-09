@@ -52,8 +52,6 @@ Use manual welding, flame cutting, hand brazing, and other equipment to join met
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Starting as a junior welder, gaining experience to advance to senior welder, welding supervisor, or inspector, or transition to welding engineer or self-employment.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a junior welder, gaining experience to advance to senior welder, wel
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires PERM labor certification, commonly used for skilled worker green card applications |
 | Subclass Green Card (PERM) (Employment Based Green Card) | Green card application through PERM labor certification, employer-sponsored |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance to welding supervisor, inspector, welding engineer, or start own 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welders-cutters-solderers-and-brazers/US)**

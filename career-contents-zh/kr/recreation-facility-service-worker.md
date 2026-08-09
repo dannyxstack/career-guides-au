@@ -1,10 +1,8 @@
-# Recreation Facility Service Worker 职业分析 · 韩国
+# 娱乐设施服务工人（Recreation Facility Service Worker）职业分析 · 韩国
 
-**职业代码: 52401 (KECO)**
+**职业代码：52401 (KECO)**
 
-A worker responsible for customer service and facility management at recreational facilities such as movie theaters, amusement parks, and casinos.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在电影院、游乐园、赌场等娱乐设施中负责客户服务和设施管理的工人。
 
 
 ---
@@ -13,8 +11,8 @@ A worker responsible for customer service and facility management at recreationa
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school diploma or higher | 0年 | $0~$0（No separate training required） |
-| Associate degree in service-related field | 2 年 | $5,000,000~$10,000,000（Based on tuition） |
+| 高中文凭或更高学历 | 0年 | $0~$0（无需单独培训） |
+| 服务相关专业的副学士学位 | 2 年 | $5,000,000~$10,000,000（按学费计费） |
 
 ---
 
@@ -22,17 +20,17 @@ A worker responsible for customer service and facility management at recreationa
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Completion of job training | 用人单位 | 必备 | On-the-job training after hiring |
-| 安全管理培训 | Korea Occupational Safety and Health Agency | 可选 | Facility safety-related |
+| 完成职业培训 | 用人单位 | 必备 | 入职后在职培训 |
+| 安全管理培训 | 韩国职业安全健康局 | 可选 | 设施安全相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 35,000. Demand for recreational facilities in Korea is stable, but labor demand fluctuates depending on economic conditions and seasonal factors.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 35,000。韩国对娱乐设施的需求稳定，但劳动力需求因经济状况和季节因素波动。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,67 +38,59 @@ A worker responsible for customer service and facility management at recreationa
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$28,000,000 | Based on annual pre-tax salary |
-| Intermediate (4–7 years) | $28,000,000~$34,000,000 | Including team leader level |
-| Advanced (8+ years) | $34,000,000~$42,000,000 | Based on manager level |
+| Beginner (0–3 years) | $24,000,000~$28,000,000 | 基于年税前薪资 |
+| 中级（4-7年） | $28,000,000~$34,000,000 | 包括团队负责人级别 |
+| 高级（8年以上） | $34,000,000~$42,000,000 | 基于经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-While AI and automation can replace some simple tasks such as ticketing and reservation systems, core tasks requiring human judgment and interaction, such as customer service and safety management, are difficult for AI to replace, making the job outlook stable.
+虽然AI和自动化可以替代一些简单任务（如票务和预订系统），但需要人工判断和互动的核心任务（如客户服务和安全监控）难以被AI替代，因此就业前景稳定。
 
-Starting as an entry-level service worker, one can be promoted to facility manager or site manager, and at large chains, even to branch manager.
+从入门级服务人员开始，可晋升为设施经理或现场经理，大型连锁店甚至可成为分店经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Ticketing
-- Reservation Management
-- Simple Guidance
+- 票务
+- 预订管理
+- 简单指导
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized Customer Service
-- Safety Monitoring
-- Facility Management
+- 定制化客户服务
+- 安全监控
+- 设施管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Service Skills
-- Situational Response Skills
-- Emotional Intelligence
+- 人际服务技能
+- 情境应对能力
+- 情商
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Customer Service Skills
-- Safety Management Knowledge
-- Foreign Language Proficiency
+- 客户服务技能
+- 安全管理知识
+- 外语能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Customer Service
-- Safety Management
-- Facility Operations
-- Tourism Industry
+- 客户服务
+- 安全管理
+- 设施运营
+- 旅游产业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled technicians in professional recreational facility operation |
-| Subclass E-9 (E-9 (Non-professional Employment)) | General service work is excluded, but limited application possible |
-| Subclass F-2 (Residence) | Long-term residents can work freely |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -108,25 +98,25 @@ Starting as an entry-level service worker, one can be promoted to facility manag
 
 **谁适合**
 - 喜欢与人打交道者
-- People flexible with seasonal/weekend work
-- People with a service mindset
+- 适应季节/周末工作的人
+- 具有服务意识的人
 
 **谁不适合**
-- People who dislike monotonous repetitive tasks
-- People stressed by customer service
+- 不喜欢单调重复性任务的人
+- 因客户服务而压力大的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an amusement facility service worker?**
-答：Approximately 24-28 million KRW for entry-level, up to 42 million KRW depending on experience.
+**问：游乐设施服务员的平均工资是多少？**
+答：入门级约2400-2800万韩元，根据经验可达4200万韩元。
 
-**问：Can I get a visa for this job?**
-答：Possible in some specialized fields with an E-7 visa, but general service workers are not eligible for E-9, so it is limited.
+**问：我能为这份工作获得签证吗？**
+答：在某些专业领域持E-7签证可能可行，但一般服务工人不符合E-9签证资格，因此有限制。
 
 **问：晋升空间如何？**
-答：Promotion possible to facility manager, field supervisor, branch chief, etc., with more opportunities in large chains.
+答：可晋升为设施经理、现场主管、分支机构负责人等，大型连锁企业机会更多。
 
 
 ---
@@ -144,12 +134,12 @@ Starting as an entry-level service worker, one can be promoted to facility manag
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/recreation-facility-service-worker/KR)**

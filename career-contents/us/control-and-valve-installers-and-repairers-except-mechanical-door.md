@@ -52,8 +52,6 @@ Install, repair, and maintain mechanical regulation and control devices such as 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation risk for control and valve installation/repair workers is medium: routine instrument reading and documentation easily replaced by AI, but on-site manual operations, fault diagnosis, and compliance responsibilities still require humans; overall mixed impact.
-
 Career path: start as apprentice or junior technician, gain experience to advance to senior technician, team supervisor, or quality controller. Further education can lead to automation system engineer or sales engineer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: start as apprentice or junior technician, gain experience to advanc
 | Subclass EB-3 (EB-3 Skilled Workers) | Green card immigration, requiring at least 2 years of experience or training |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer sponsorship, proving no US workers are available |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Relatively feasible, can immigrate via H-1B or EB-3 green card, but requires 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/control-and-valve-installers-and-repairers-except-mechanical-door/US)**

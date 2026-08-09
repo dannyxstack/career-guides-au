@@ -51,8 +51,6 @@ Special education teachers in Canada are mainly under NOC 42203, covering profes
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on teachers of disabled students is mixed: personalized teaching tools can enhance rehabilitation training, but administrative and assessment tasks may be automated, requiring teachers to transition into AI supervisors and emotional connectors.
-
 Can advance from special education assistant to special education teacher, then to instructional consultant or school administrator. After obtaining provincial teacher certification, salary and immigration prospects significantly improve.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Can advance from special education assistant to special education teacher, then 
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, with relaxed conditions, requires working in a designated province |
 | Subclass Saskatchewan SINP (Saskatchewan Immigrant Nominee Program) | Saskatchewan International Skilled Worker category, no employer required, but must match field of study. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, public schools require provincial teaching certification; private or spe
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/instructors-of-persons-with-disabilities/CA)**

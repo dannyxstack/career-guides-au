@@ -52,8 +52,6 @@ Responsible for sealing joints between drywall or wallboard, preparing walls for
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plasterer is a physically demanding, on-site dependent occupation with medium AI substitution risk, but new smart construction equipment and BIM deepening are changing traditional work. Entry-level plastering roles are squeezed by standardized plasterboard fast-installation technology, yet high-value areas like finished quality control, irregular finishes, and old building restoration are amplified by tool enablement.
-
 Start as an apprentice, progress to senior tradesperson, foreperson, or self-employment, or transition to related trades like drywall installation.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Start as an apprentice, progress to senior tradesperson, foreperson, or self-emp
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: Very difficult. This occupation is not a high-skilled trade, does not meet H-
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tapers/US)**

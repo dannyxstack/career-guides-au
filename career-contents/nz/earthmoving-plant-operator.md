@@ -52,8 +52,6 @@ Earthmoving equipment operators have stable demand in New Zealand's construction
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some tasks for heavy equipment operators (e.g., scheduling, documentation) can be automated by AI, but core operations involve on-site perception and physical control; AI is more of an assistant than a replacement, overall risk is moderate.
-
 Start as a junior operator, can advance to senior operator, foreman, or equipment manager. With experience, can also start own rental business.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a junior operator, can advance to senior operator, foreman, or equipmen
 | Subclass Green List T2 (Green List Tier 2) | This occupation is on the Green List Tier 2; after two years of work, can apply for residence, must meet median wage and employer accreditation requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | Common work visa pathway; employer must be accredited and salary must meet the median. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Most polytechnics (e.g., MIT, Unitec) and private training providers offer sh
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/earthmoving-plant-operator/NZ)**

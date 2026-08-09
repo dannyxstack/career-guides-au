@@ -51,8 +51,6 @@ Hosting, interviewing guests, and guiding discussions on TV programs, requiring 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core of a TV host's role—impromptu expression, emotional connection, and on-site adaptability—is hard to replace by AI, but tasks like scriptwriting, material organization, and basic broadcasting will be automated, intensifying competition for entry-level positions, while AI tools can enhance content creation and data analysis efficiency.
-
 Can start as assistant host or reporter and progress to host, producer, or content director. Diversified skills (e.g., social media operations) help development.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as assistant host or reporter and progress to host, producer, or conte
 | Subclass SMC (Skilled Migrant Category) | Skilled migration requires meeting the 6-point system (qualifications + experience), with occupation at ANZSCO 1-3 level |
 | Subclass Other (Specific Purpose Work Visa) | Specific purpose visa, e.g., short-term program production |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a media degree or broadcasting certificate, with internshi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/television-presenter/NZ)**

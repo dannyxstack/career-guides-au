@@ -54,8 +54,6 @@ Podiatrists focus on diagnosing, treating, and preventing foot diseases and inju
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Podiatrists' core diagnostic and surgical responsibilities are legally protected and hard to replace by AI; however, tasks like image analysis, referral reports, and medical record sorting are being enhanced by AI tools, putting entry-level positions under automation pressure.
-
 Early career often employed in clinics or hospitals; after gaining experience, can open a private practice. Through further training, one can obtain specialist certifications in fields such as diabetic foot or geriatric podiatry, or advance to department management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Early career often employed in clinics or hospitals; after gaining experience, c
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, suitable for qualified candidates with good language skills; can enter the country to seek employment. |
 | Subclass EU Blue Card (EU Blue Card) | Not applicable, as podiatrists are not academic occupations and salaries typically fall below thresholds. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires completion of 2-3 years of nationally accredited vocational training
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/podiatrist/DE)**

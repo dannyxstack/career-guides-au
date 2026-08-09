@@ -53,8 +53,6 @@ Engage in turning of materials like wood and plastic, as well as manufacturing a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Among the skills of a lathe and toy maker, repetitive tasks like lathe processing are easily automated, but creative design, restoration, and artistic custom work, which require aesthetics and manual craftsmanship, may be amplified by AI tools. Overall, risks and opportunities coexist.
-
 Starting as a general machinist, you can become a Master Technician (Meister) through further education, start your own workshop, or develop into a product designer or restorer.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting as a general machinist, you can become a Master Technician (Meister) th
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers who have completed a recognised German dual training program (Ausbildung), requiring employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job seeker visa allowing entry to Germany to seek work, but professional qualifications must be recognized. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Can advance to senior technician through Meister training, or start your own 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-turner-and-toy-maker/DE)**

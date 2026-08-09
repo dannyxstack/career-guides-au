@@ -4,8 +4,6 @@
 
 Telephone operators are responsible for answering and transferring calls, providing information queries, and basic customer service. They are commonly found in call centers, corporate switchboards, and public service agencies. The work is simple and repetitive, requiring certain language expression and communication skills.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Telephone operators are responsible for answering and transferring calls, provid
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★★).**
 
-AI voice recognition and smart call systems can already handle phone answering, transferring, and basic queries. Demand for this position is rapidly shrinking, with low entry barriers but worsening career prospects.
-
 Career development paths are limited; you can advance from frontline operator to team leader or call center supervisor, or move to customer service, administrative assistant, and other roles. In the long term, it is recommended to learn digital customer service skills to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -95,15 +91,9 @@ Career development paths are limited; you can advance from frontline operator to
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed Work Permit) | An employer sponsor is required, but since this occupation is not in urgent demand, approval is relatively difficult |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: The risk is extremely high. Automated voice response, chatbots, and AI custom
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★★) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/telephone-operator/ES)**

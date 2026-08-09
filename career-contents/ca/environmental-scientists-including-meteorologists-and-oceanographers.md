@@ -51,8 +51,6 @@ The equivalent occupation in Canada is environmental scientist, researching envi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Environmental scientist roles are a mixed bag: AI is rapidly replacing some tasks in data collection, modelling, and report generation, but on-site sampling, interdisciplinary judgement, and policy communication still rely on humans—proactively embrace AI tools and strengthen irreplaceable skills.
-
 Entry-level positions such as environmental analyst can advance to senior scientist or project manager, also to policy advisor or PhD research. Obtaining Professional Engineer (P.Eng.) certification can boost competitiveness.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level positions such as environmental analyst can advance to senior scient
 | Subclass PNP (Provincial Nominee Program) | Provinces like BC and Ontario offer priority invitations for environmental science occupations |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces employer sponsorship, suitable for those who already have a job offer |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Most entry-level positions do not mandate a license, but if engaged in engine
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-scientists-including-meteorologists-and-oceanographers/CA)**

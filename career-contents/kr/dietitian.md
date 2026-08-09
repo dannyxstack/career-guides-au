@@ -4,8 +4,6 @@
 
 Dietitians are healthcare professionals who plan menus and manage nutrition for patients and meal service recipients, working in hospitals, schools, food service companies, etc.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Dietitians are healthcare professionals who plan menus and manage nutrition for 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can automate some tasks like meal analysis and nutrition calculation, but patient counseling and personalized prescriptions require human judgment, so it has a mixed impact.
-
 Dietitians start as institutional dietitians in hospitals, schools, or industrial food services, and can advance to head dietitian or nutrition team leader, or specialize as clinical dietitians or public health nutritionists.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Dietitians start as institutional dietitians in hospitals, schools, or industria
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Invitation possible as a skilled professional dietitian, but Korean language ability and experience requirements are strict |
-| Subclass F-2 (Residence) | Possible after obtaining permanent residence, professional experience recognized |
-| Subclass F-5 (Permanent Residence) | Obtainable after long-term residence, dietitian license required |
-
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: You must major in food and nutrition at a junior college or 4-year university
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian/KR)**

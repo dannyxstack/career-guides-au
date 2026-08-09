@@ -53,8 +53,6 @@ Prepress technicians and workers are responsible for proofreading and arranging 
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Prepress technicians and workers face high risk of automation replacement. AI typesetting, auto-proofreading, and cloud printing platforms are significantly reducing traditional positions, lowering entry barriers but decreasing quality jobs.
-
 Junior pre-press technicians can advance to senior technician, pre-press supervisor, or production manager. Mastering digital printing and color management technologies can increase career opportunities; some transition to graphic designer or printing engineer.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior pre-press technicians can advance to senior technician, pre-press supervi
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: High risk. Automated layout and AI design tools are replacing manual work, bu
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prepress-technicians-and-workers/US)**

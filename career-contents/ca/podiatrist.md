@@ -52,8 +52,6 @@ Podiatrists are healthcare professionals in Canada, diagnosing and treating foot
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Podiatrists' diagnosis and treatment planning are enhanced by AI assistance, but routine image analysis and paperwork may be automated. Overall career outlook is stable, requiring proactive adoption of AI tools to improve efficiency.
-
 Typically start as diagnostic assistants or junior doctors, and after gaining experience can open private clinics or advance to senior clinical consultants, with some entering hospital management or academic research.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as diagnostic assistants or junior doctors, and after gaining ex
 | Subclass PNP (Provincial Nominee Program) | Many provinces list podiatrists as in-demand occupations, receiving an additional 600 points through provincial nomination, significantly speeding up the immigration process. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic provinces' dedicated stream for healthcare talent, suitable for podiatrists with a definite employer offer. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically 1-2 years, including credential assessment, passing the Canadian Po
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/podiatrist/CA)**

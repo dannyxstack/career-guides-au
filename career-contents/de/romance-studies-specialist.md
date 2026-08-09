@@ -53,8 +53,6 @@ Study the languages, literature, and cultures of Romance languages (e.g., French
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of Romance literature experts (literary criticism, cultural interpretation) are hard for AI to fully replace, but basic translation, text proofreading, and corpus analysis will be significantly automated by AI, leading to structural adjustments in job demand.
-
 Career path: From research assistant or lecturer to professor, or become a senior expert in publishing/translation. Requires continuous publication of academic achievements.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: From research assistant or lecturer to professor, or become a senio
 | Subclass Job Seeker (Job Seeker Visa) | Allows a stay of 6 months in Germany to seek employment, requiring proof of financial means |
 | Subclass Skilled Worker (Skilled Worker Visa) | Must have a German employer contract, and the position must be related to the qualification. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: The main pathway is to find relevant work through a job-seeking visa, then ap
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/romance-studies-specialist/DE)**

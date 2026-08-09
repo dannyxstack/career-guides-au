@@ -52,8 +52,6 @@ Dietitians provide clinical nutrition assessment, personalized dietary plans, an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 Entry-level nutritionists can gain experience in hospitals or communities; mid-level can specialize in areas like diabetes or kidney disease; senior can advance to chief nutritionist or open a private practice, with strong consultant role development potential.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level nutritionists can gain experience in hospitals or communities; mid-l
 | Subclass SMC (Skilled Migrant Category) | Eligible for skilled migration via Six-Points System (qualifications + registration + work experience) |
 | Subclass AEWV (Accredited Employer Work Visa) | Visa valid for 3 years, requires accredited employer sponsorship, with option to transition to residency |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires NZQA assessment of degree equivalence, completion of a conversion co
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian/NZ)**

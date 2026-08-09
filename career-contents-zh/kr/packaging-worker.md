@@ -1,8 +1,8 @@
-# Packaging Worker 职业分析 · 韩国
+# 包装工（Packaging Worker）职业分析 · 韩国
 
-**职业代码: 88592 (KECO)**
+**职业代码：88592 (KECO)**
 
-A production worker responsible for packaging products, attaching labels, inspecting quality, and preparing shipments in a manufacturing site.
+在制造现场负责包装产品、贴标签、检查质量和准备发货的生产工人。
 
 
 ---
@@ -11,8 +11,8 @@ A production worker responsible for packaging products, attaching labels, inspec
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（Free (compulsory education)） |
-| Vocational training course | 2 months | $500,000~$2,000,000（Government funding available (Naeil Baeum Card)） |
+| 高中毕业 | 3年 | $0~$0（免费（义务教育）） |
+| 职业培训课程 | 2个月 | $500,000~$2,000,000（政府资助可用（Naeil Baeum Card）） |
 
 ---
 
@@ -20,17 +20,17 @@ A production worker responsible for packaging products, attaching labels, inspec
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 叉车操作员 | Human Resources Development Service of Korea | 可选 | Advantageous for packaging and logistics movement |
-| Food Processing Technician | Human Resources Development Service of Korea | 可选 | Preferred in food packaging field |
+| 叉车操作员 | 韩国人力资源开发服务局 | 可选 | 有利于包装和物流搬运 |
+| 食品加工技术员 | 韩国人力资源开发服务局 | 可选 | 食品包装领域优先 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 180,000. Employment for packaging workers is expected to gradually decline due to manufacturing automation and overseas production relocation, but demand in precision packaging fields such as food and pharmaceuticals is likely to persist.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 180,000。随着制造业自动化和海外生产转移，包装工人的就业预计将逐渐下降，但食品和制药等精密包装领域的需求可能会持续。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,91 +38,84 @@ A production worker responsible for packaging products, attaching labels, inspec
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $26,000,000~$32,000,000 | Minimum wage; higher with night shift allowance |
-| Intermediate (4–7 years) | $32,000,000~$38,000,000 | Additional production allowance with experience |
-| Advanced (8+ years) | $38,000,000~$45,000,000 | Line manager level, including bonuses |
+| Beginner (0–3 years) | $26,000,000~$32,000,000 | 最低工资；夜班津贴更高 |
+| 中级（4-7年） | $32,000,000~$38,000,000 | 有经验者可获得额外生产津贴 |
+| 高级（8年以上） | $38,000,000~$45,000,000 | 部门经理级别，含奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★☆☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★☆☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-Packaging work is being rapidly replaced by automated packaging machines, robotic arms, and AI vision inspection systems. Simple repetitive tasks are decreasing, but human roles are expected to persist for the time being in precision packaging or high-mix, low-volume production.
+包装工作正迅速被自动化包装机、机械臂和AI视觉检测系统取代。简单重复性任务在减少，但在精密包装或多品种小批量生产中，人类角色预计仍将暂时存在。
 
-Starting as a packaging worker, one can advance to production line manager, quality control (QC), or logistics team. Career transition to skilled worker (E-7-1) is possible but has entry barriers.
+从包装工做起，可晋升为生产线经理、质量控制（QC）或物流团队成员。可转行至技术工种（E-7-1），但存在入门门槛。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Product box packaging
-- Label attachment
-- Visual inspection
+- 产品盒包装
+- 贴标签
+- 目视检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Robot packaging line monitoring
-- AI inspection system management
+- 机器人包装线监控
+- AI检测系统管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision manual packaging
-- Irregular product packaging
-- Flexible response to small orders
+- 精密手工包装
+- 不规则产品包装
+- 灵活应对小订单
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated equipment operation
-- Basic machinery maintenance
-- Basic quality control knowledge
+- 自动化设备操作
+- 基本机械维护
+- 基础质量控制知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Manufacturing industry
-- Automation replacement
-- Food packaging
-- Pharmaceutical packaging
+- 制造业
+- 自动化替代
+- 食品包装
+- 药品包装
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Eligible to enter as a manufacturing packaging worker under the Employment Permit System. Employer applies. |
-| Subclass E-7-1 (Specific Activities (E-7-1)) | Possible when switching to skilled worker. Requires certain experience and Korean language requirements. |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible when switching to the points system. Via E-7-1 Skilled Worker. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person who performs routine repetitive tasks well
-- Person with good stamina who can handle overtime
-- Person who handles products meticulously
+- 能很好地完成常规重复任务的人
+- 能胜任加班的好体力者
+- 细致处理产品的人员
 
 **谁不适合**
-- Person who wants creative and flexible work
-- Person sensitive to physical fatigue
+- 追求创意与灵活工作的人
+- 对体力疲劳敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a packer?**
-答：Annual salary approximately 26 to 32 million KRW for entry level, varies by minimum wage and night shift allowance.
+**问：包装工的起薪是多少？**
+答：入门级年薪约2600万至3200万韩元，因最低工资和夜班津贴而异。
 
-**问：Can a foreigner get a visa as a packer?**
-答：Yes, possible with E-9 (Non-professional Employment) visa through the Employment Permit System to work in manufacturing. Can switch to E-7-1 if skilled worker criteria are met.
+**问：外国人能以打包工身份获得签证吗？**
+答：是的，可以通过就业许可制度下的E-9（非专业就业）签证在制造业工作。若符合熟练工人条件，可转为E-7-1签证。
 
-**问：Is promotion possible for a packer?**
-答：Can be promoted to line manager, quality control, or logistics team depending on experience; advantageous with relevant certifications.
+**问：包装工有晋升机会吗？**
+答：可根据经验晋升为生产线经理、质量控制或物流团队；拥有相关认证更有利。
 
 
 ---
@@ -140,12 +133,12 @@ Starting as a packaging worker, one can advance to production line manager, qual
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 较低（★☆☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/packaging-worker/KR)**

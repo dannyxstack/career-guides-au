@@ -1,10 +1,8 @@
 # 警察（Police Officer）职业分析 · 日本
 
-**职业代码: 441 (JSCO)**
+**职业代码：441 (JSCO)**
 
-Police officers protect public safety through crime investigation/prevention, traffic control, and incident response, earning trust from citizens.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+警察通过犯罪调查/预防、交通管制和事件响应保护公共安全，赢得公民信任。
 
 
 ---
@@ -13,8 +11,8 @@ Police officers protect public safety through crime investigation/prevention, tr
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school tuition is free） |
-| University Degree | 4年 | $2,500,000~$5,000,000（National university tuition is low） |
+| 高中文凭 | 3年 | $0~$0（公立高中学费免费） |
+| 大学学位 | 4年 | $2,500,000~$5,000,000（国立大学学费低廉） |
 
 ---
 
@@ -22,17 +20,17 @@ Police officers protect public safety through crime investigation/prevention, tr
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Police Officer Recruitment Exam (National Civil Service Exam) | National Public Safety Commission | 必备 | Must pass the recruitment exam |
-| Ordinary Driver's License | Public Safety Commission | 必备 | Driving may be required for police duties |
+| 警察官录用考试（国家公务员考试） | 国家公共安全委员会 | 必备 | 必须通过招聘考试 |
+| 普通驾驶执照 | 公共安全委员会 | 必备 | 警察职责可能需要驾驶 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 250,000. In Japan, police face staffing concerns due to declining birthrates and changing crime patterns, but recruitment quotas remain stable.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 250,000。在日本，由于少子化和犯罪模式变化，警察面临人员配置问题，但招聘配额保持稳定。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,88 +38,81 @@ Police officers protect public safety through crime investigation/prevention, tr
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $4,000,000~$5,000,000 | Varies by region and allowances |
-| Mid Level (4–10 years) | $5,500,000~$7,000,000 | Pay raise upon passing promotion exam |
-| Senior Level (11+ years) | $7,000,000~$10,000,000 | Management allowance added for inspector rank and above |
+| 入门级（0–3年） | $4,000,000~$5,000,000 | 因地区和津贴而异 |
+| 中级（4-10年） | $5,500,000~$7,000,000 | 通过晋升考试获得加薪 |
+| 高级（11年以上） | $7,000,000~$10,000,000 | 巡查员及以上级别附加管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI supports police work, but human judgment and ethics are essential, and cannot fully replace police officers.
+AI辅助警务工作，但人类判断和伦理至关重要，无法完全替代警察。
 
-After police academy training, officers become patrol officers, then advance to sergeant, lieutenant, captain, and superintendent. Specialized career paths (criminal investigation, traffic, etc.) exist.
+警察学院培训后，警员成为巡逻警察，然后晋升为警长、中尉、队长和警司。存在专业化职业路径（刑事调查、交通等）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automation of traffic enforcement (speed cameras)
-- Police station guidance services (chatbots)
+- 交通执法自动化（测速摄像头）
+- 派出所引导服务(聊天机器人)
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Crime pattern analysis (AI-based prediction)
-- Suspect identification via facial recognition
-- Patrol route optimization
+- 犯罪模式分析（基于AI的预测）
+- 通过面部识别进行嫌疑人识别
+- 巡逻路线优化
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site emergency decision-making
-- Building trust with citizens
-- Response requiring physical ability
+- 现场应急决策
+- 建立与公民的信任
+- 需体能反应的岗位
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数据分析技能
-- IT literacy
-- Language skills (for foreign visitors)
+- IT素养
+- 语言技能（针对外国访客）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cybercrime countermeasures
-- Disaster response
-- International terrorism countermeasures
-- Digitalization of the police
+- 网络犯罪对策
+- 灾害应对
+- 国际反恐措施
+- 警务数字化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Not applicable to police officer duties |
-| Subclass 高度専門職 (Highly Skilled Professional Visa) | Police officers excluded |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a strong sense of justice
-- People with high stress tolerance and physical confidence
-- People with strong communication skills
+- 正义感强的人
+- 抗压能力强且身体自信的人
+- 沟通能力强的人
 
 **谁不适合**
-- People who cannot follow rules
-- People weak to pressure
+- 不遵守规则的人
+- 抗压能力差的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for police officers?**
-答：It depends on the region and recruitment category, but for university graduates, the monthly salary starts at around 200,000 to 250,000 yen, and the annual income is about 4 to 5 million yen.
+**问：警察的起薪是多少？**
+答：取决于地区和招聘类别，但对于大学毕业生，月薪起薪约为20万至25万日元，年收入约为400万至500万日元。
 
-**问：Can foreigners become police officers in Japan?**
-答：Japanese police officers are civil servants and generally require Japanese nationality. Therefore, it is difficult for foreigners to become police officers with a work visa.
+**问：外国人能在日本当警察吗？**
+答：日本警察是公务员，通常要求日本国籍。因此，外国人持工作签证成为警察较为困难。
 
 
 ---
@@ -139,12 +130,12 @@ After police academy training, officers become patrol officers, then advance to 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/police-officer/JP)**

@@ -52,8 +52,6 @@ Responsible for the daily feeding, breeding, health management, and pasture main
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation has a positive overall impact on sheep or goat farmers. AI will take over data recording and basic monitoring, but enhance precise animal husbandry, health alerts, and pasture optimization capabilities, allowing practitioners to focus more on animal welfare and strategic management.
-
 You can be promoted from ranch worker to technician, farm manager, or run your own farm. Obtaining BTS/Licence Pro through agricultural vocational education or apprenticeship programs can lead to careers in consulting, quality inspection, or agricultural enterprise management.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ You can be promoted from ranch worker to technician, farm manager, or run your o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport – Qualified Employee) | This applies to technical talents holding a master's degree or equivalent and whose contract annual salary ≥ €38,431 (2025 standard), but this is usually not available in agriculture unless it is a senior technician. |
-| Subclass Salarié (Employee Work Permit (Salarié)) | Common routes require certification from the France Employment Agency (France Travail) that EU candidates cannot be found; agriculture is usually listed as a scarce occupation and given priority. |
-| Subclass Recherche emploi (Job Seeker/Entrepreneur (Recherche emploi/création entreprise)) | Students holding a French diploma can apply for a one-year residence job search, and after finding an agricultural job, they switch to working residence. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Starting as a grassroots livestock worker, you can be promoted to technician,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheep-or-goat-farmer/FR)**

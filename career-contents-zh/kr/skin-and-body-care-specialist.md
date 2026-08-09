@@ -1,10 +1,8 @@
-# Skin and Body Care Specialist 职业分析 · 韩国
+# 皮肤与身体护理专家（Skin and Body Care Specialist）职业分析 · 韩国
 
-**职业代码: 51131 (KECO)**
+**职业代码：51131 (KECO)**
 
-A beauty professional who diagnoses clients' skin conditions and performs treatments for improvement, body contouring, and lymphatic massage.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+美容专业人士，诊断客户皮肤状况并进行改善治疗、身体塑形和淋巴按摩。
 
 
 ---
@@ -13,8 +11,8 @@ A beauty professional who diagnoses clients' skin conditions and performs treatm
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Department of Beauty at a college | 2 年 | $8,000,000~$12,000,000（Difference between national and private） |
-| Private beauty academy | 6 months | $2,000,000~$5,000,000（Part-time short-term course） |
+| 大学美容系 | 2 年 | $8,000,000~$12,000,000（国立与私立的区别） |
+| 私立美容学院 | 6个月 | $2,000,000~$5,000,000（非全日制短期课程） |
 
 ---
 
@@ -22,17 +20,17 @@ A beauty professional who diagnoses clients' skin conditions and performs treatm
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| National Beauty License (Skin Care) | Human Resources Development Service of Korea | 必备 | Required certification |
-| International Aesthetician License (ITEC, CIDESCO) | International organization | 可选 | Optional, advanced certification |
+| 国家美容执照（皮肤护理） | 韩国人力资源开发服务局 | 必备 | 所需认证 |
+| 国际美容师执照（ITEC, CIDESCO） | 国际组织 | 可选 | 可选，高级认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★★☆）.** 全国从业人数约 45,000. Demand is steadily increasing due to Korea's aging population and wellness trend. Employment outlook is favorable but competition is fierce.
+**职位需求量：中高（★★★★☆）** 全国从业人数约 45,000。随着韩国人口老龄化和健康趋势，需求稳步上升。就业前景良好但竞争激烈。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -40,93 +38,85 @@ A beauty professional who diagnoses clients' skin conditions and performs treatm
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–2 years) | $22,000,000~$28,000,000 | 年薪税前 |
+| 入门级（0-2年） | $22,000,000~$28,000,000 | 年薪税前 |
 | 中级（3-6年） | $30,000,000~$38,000,000 | 年薪税前 |
-| Senior-level (7+ years) | $40,000,000~$55,000,000 | Annual salary before tax; varies for business owners |
+| 高级（7年以上） | $40,000,000~$55,000,000 | 税前年薪；企业主有所不同 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-While AI and automation devices are being introduced for diagnosis and simple massage, skilled hand techniques and customer consultation are expected to remain a human advantage for the time being.
+虽然AI和自动化设备被引入用于诊断和简单按摩，但熟练的手法和客户咨询在短期内仍将是人类的优势。
 
-Beginners gain experience at skin care clinics, spas, or medical offices. After obtaining a license, they can start their own business or work as freelancers.
+初学者在护肤诊所、水疗中心或医疗办公室获得经验。获得执照后，可以创业或作为自由职业者工作。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic Skin Diagnosis
-- Simple Massage Patterns
-- Customer Data Recording
+- 基础皮肤诊断
+- 简单按摩模式
+- 客户数据记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Skin Type Analysis
-- Customized Product Recommendation
-- Treatment History Management
+- 肤质分析
+- 定制化产品推荐
+- 治疗历史管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Skilled Touch and Sensitivity
-- Building Customer Trust
-- Creative Treatment Development
+- 熟练的触感和灵敏度
+- 建立客户信任
+- 创意处理开发
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Using AI Diagnostic Tools
-- Consultation and Psychological Care
-- Basic Bio/Chemical Knowledge
+- 使用AI诊断工具
+- 咨询与心理护理
+- 基础生物/化学知识
 
-**主要增长方向:**
+**主要增长方向：**
 
 - K-Beauty
-- Wellness
-- Anti-aging
-- Customized Care
+- 健康养生
+- 抗衰老
+- 个性化护理
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Professional beauty personnel may be invited; qualifications and experience required |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents, pre-permanent residence stage |
-| Subclass H-2 (Visit and employment) | Limited, some beauty services possible |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterity
-- People with good interpersonal skills
-- People interested in beauty trends
+- 手巧的人
+- 人际交往能力强的人
+- 对美容趋势感兴趣的人
 
 **谁不适合**
-- People who dislike physical contact
-- People weak to emotional labor
+- 不喜欢身体接触的人
+- 不擅长情绪劳动的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a skin care specialist?**
-答：For entry-level, approximately 22-28 million KRW before tax; with experience and business ownership, it can exceed 50 million KRW.
+**问：皮肤护理专家的平均年薪是多少？**
+答：入门级约2200-2800万韩元（税前）；有经验和创业后可超过5000万韩元。
 
-**问：What visa is needed for a foreigner to work as a skin care specialist in Korea?**
-答：E-7 visa is possible for skilled professionals, but qualifications and experience must be proven; general E-9 visa employment is difficult.
+**问：外国人在韩国做皮肤护理专家需要什么签证？**
+答：熟练专业人员可申请E-7签证，但需证明资格和经验；普通E-9签证就业困难。
 
-**问：Is immigration possible as a skin care specialist?**
-答：After long-term work on an E-7 visa, applying for F-2 or F-5 permanent residence is possible, but it may be disadvantageous under the Skilled Worker Immigration (E-7-4) points system.
+**问：作为皮肤护理专家可以移民吗？**
+答：持E-7签证长期工作后，可申请F-2或F-5永久居留，但在熟练工人移民积分制（E-7-4）下可能不利。
 
 
 ---
@@ -144,12 +134,12 @@ Beginners gain experience at skin care clinics, spas, or medical offices. After 
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/skin-and-body-care-specialist/KR)**

@@ -4,8 +4,6 @@
 
 Responsible for handling luggage, guest reception, and assistance in hotels, train stations, airports, and other venues, forming a fundamental position in the tourism and hospitality industry.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for handling luggage, guest reception, and assistance in hotels, tra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Baggage handlers and bellhops, involving physical handling and basic greeting services, are significantly impacted by AI and automation; online self-service baggage tags and smart handling equipment gradually replace manual work, narrowing entry-level positions, but high-touch service and emergency response needs retain limited human value.
-
 They can be promoted from porter to gatekeeper and concierge supervisor, or can transfer horizontally to the front hall reception. Needs to improve foreign language and customer service skills.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ They can be promoted from porter to gatekeeper and concierge supervisor, or can 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Travailleur temporaire / Salarié) | Requires employer to provide work contract, but the occupation is not in shortage; high difficulty for foreign applicants. |
-| Subclass Recherche emploi (Recherche d'emploi / création d'entreprise) | Open only to graduates who have completed their studies in France; 12-month job search period. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Can advance to positions such as door supervisor, concierge assistant, or fro
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/baggage-porters-and-bellhops/FR)**

@@ -4,8 +4,6 @@
 
 A professional who uses specialized counseling techniques to support individuals and groups with psychological and social issues. Active in educational institutions, companies, and private counseling organizations.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who uses specialized counseling techniques to support individuals
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is expected not to completely replace counselors but rather complement and enhance their work. While emotional understanding and empathy in interpersonal support remain human strengths, AI can assist with data analysis and scheduling.
-
 After obtaining certifications such as clinical psychologist or certified public psychologist, gain experience under supervision. Career paths include independent practice or corporate counselor.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ After obtaining certifications such as clinical psychologist or certified public
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires a psychology degree and work experience. May qualify as counseling work. |
-| Subclass 特定活動 (Designated Activities (Foreign Counselor)) | For some international organizations and specialized institutions. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Currently, no national license is required, but after 2028, a Certified Publi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/counselor-excluding-medical-welfare-facilities/JP)**

@@ -51,8 +51,6 @@ Sociologists study human social behavior, structure, and development trends, ana
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on sociologists is dual: junior data processing roles are reduced, but in-depth analysis and theory-building roles are amplified; overall career risk is manageable.
-
 Typically, you start as a research assistant or data analyst, and after gaining experience, you can be promoted to project manager or senior researcher, eventually becoming an academic professor or a partner in a consulting firm. Some shifted to public policy or corporate strategy positions.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Typically, you start as a research assistant or data analyst, and after gaining 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to high-skilled positions requiring a university degree and work contract; annual salary threshold approximately EUR 33,908 (2024). |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Employed work residence requires employer sponsorship, suitable for applicants with job offers |
-| Subclass Busqueda empleo (Job Search Visa) | Allowing residency in Spain to seek work, applicable to graduates or highly skilled talents |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Currently, it is not classified as a scarce profession, but demand in data an
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sociologist/ES)**

@@ -51,8 +51,6 @@ Supervise the manufacturing process of electronic and electrical products, coord
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electronic and electrical product manufacturing supervisors face dual impacts from automation and AI: production scheduling, quality inspection tasks are compressed, but personnel management, process optimization capabilities are amplified, requiring proactive learning of digital tools.
-
 Can advance from production line worker to supervisor, then production manager or plant manager. With experience, transition to quality control or process engineering management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance from production line worker to supervisor, then production manager o
 | Subclass PNP (Provincial Nominee Program) | Provinces like Ontario and BC have nomination opportunities in manufacturing, requiring employer support. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer proves unable to recruit locally, can migrate after obtaining work visa. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: With automation and intelligence in manufacturing, supervisors need to master
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-electronics-and-electrical-products-manufacturing/CA)**

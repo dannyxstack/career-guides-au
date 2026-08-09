@@ -1,10 +1,8 @@
-# Administrative Assistant 职业分析 · 韩国
+# 行政助理（Administrative Assistant）职业分析 · 韩国
 
-**职业代码: 02951 (KECO)**
+**职业代码：02951 (KECO)**
 
-An occupation that assists with general administrative tasks such as document organization, data entry, and phone reception in an office, responsible for using various office equipment and maintaining the office environment.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责办公室内文件整理、数据录入、电话接待等一般行政事务的职业，使用各种办公设备并维护办公环境。
 
 
 ---
@@ -14,7 +12,7 @@ An occupation that assists with general administrative tasks such as document or
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
 | 高中文凭 | 3年 | $0~$0（义务教育） |
-| Associate degree (2-year college) | 2 年 | $5,000,000~$15,000,000（National scholarship possible） |
+| 副学士学位（两年制学院） | 2 年 | $5,000,000~$15,000,000（可申请国家级奖学金） |
 
 ---
 
@@ -22,17 +20,17 @@ An occupation that assists with general administrative tasks such as document or
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Computer Literacy Level 2 | Korea Chamber of Commerce and Industry | 可选 | Basic qualification for office work |
-| Word Processor Level 1 | Korea Chamber of Commerce and Industry | 可选 | Document creation skill certification |
+| 计算机素养二级 | 大韩商工会议所 | 可选 | 办公室工作基本资格 |
+| 文字处理一级 | 大韩商工会议所 | 可选 | 文件制作技能认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 450,000. Demand is declining due to digitalization and automation, but basic office tasks are still needed, so employment will be maintained, but competition is expected to be fierce.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 450,000。由于数字化和自动化，需求正在下降，但基础办公室任务仍需要，因此就业将维持，但竞争预计激烈。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较低（★½☆☆☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较低（★½☆☆☆）**
 
 ---
 
@@ -40,94 +38,87 @@ An occupation that assists with general administrative tasks such as document or
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级(0-3年) | $24,000,000~$30,000,000 | Contract included, minimum wage compliance |
-| Mid level (3-7 years) | $30,000,000~$38,000,000 | Increase upon conversion to regular position |
-| Senior level (7+ years) | $38,000,000~$45,000,000 | Office team lead level, higher at large corporations |
+| 初级(0-3年) | $24,000,000~$30,000,000 | 包含合同，符合最低工资要求 |
+| 中级别（3-7年） | $30,000,000~$38,000,000 | 转为正式职位后薪资增加 |
+| 高级（7年以上） | $38,000,000~$45,000,000 | 办公团队主管级别，大型企业更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 较高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：较高（★★★★☆）**
 
-AI and automation are rapidly replacing repetitive office tasks like data entry, document classification, and schedule management, and employment of simple office assistants is expected to decline significantly.
+AI和自动化正在迅速取代重复性办公室任务，如数据录入、文档分类和日程管理，简单办公室助理的就业预计将大幅下降。
 
-Mostly start on a contract or part-time basis, and after gaining experience, can transition to regular office positions (accounts, HR, general affairs) or advance by obtaining professional administrative certifications.
+大多以合同或兼职开始，积累经验后可转至常规办公室职位（会计、人力资源、总务）或通过获得专业行政认证晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data Entry
-- Document Organization and Classification
-- Simple Phone Response
-- Schedule Management
+- 数据录入
+- 文件整理与分类
+- 简单电话应答
+- 日程管理
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Administrative Support Management
-- Customer Response and Problem Solving
-- Document Review and Quality Control
+- 行政支持管理
+- 客户响应与问题解决
+- 文档审核与质量控制
 
-**人类护城河:**
+**人类护城河：**
 
-- Interpersonal Communication
-- Complex Problem Solving
-- Organizational Understanding
+- 人际沟通
+- 复杂问题解决
+- 组织理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital Literacy
-- Advanced Excel Skills
-- Basic Data Analysis
-- Communication Skills
+- 数字素养
+- 高级Excel技能
+- 基础数据分析
+- 沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital transformation
-- Administrative efficiency
-- Office Automation
-- Data Entry
+- 数字化转型
+- 行政效率
+- 办公自动化
+- 数据录入
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible to issue when skilled office personnel are specifically needed, but not common. |
-| Subclass F-2 (F-2 (Residence)) | Long-term residents can work as office assistants, easier to get a job than E-7 visa holders. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and patient
-- People who perform repetitive office tasks well
-- People who prefer a quiet environment
+- 细致耐心的人
+- 擅长重复性办公室工作的人
+- 喜欢安静环境的人
 
 **谁不适合**
-- People who want creative and flexible work
-- People who want quick promotion and high income
+- 希望从事创意和灵活工作的人
+- 希望快速晋升和高收入的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an office assistant?**
-答：For entry-level, it ranges from about 24 million to 30 million KRW, varying by experience and company size.
+**问：办公室助理的平均工资是多少？**
+答：入门级约为2400万至3000万韩元，因经验和公司规模而异。
 
-**问：Can foreigners work as office assistants?**
-答：It is limited. E-7 visa issuance is possible but very rare; F-2 or F-4 visa holders often take these jobs.
+**问：外国人可以担任办公室助理吗？**
+答：有限。E-7签证可能但非常罕见；F-2或F-4签证持有者常从事这些工作。
 
-**问：What career paths can you take starting as an office assistant?**
-答：You can transition to professional office roles such as accounting, HR, or general affairs, or grow into an administrative specialist by acquiring additional certifications.
+**问：以办公室助理为起点，有哪些职业发展路径？**
+答：您可以转向会计、人力资源或总务等专业办公室职位，或通过获取额外证书成长为行政专员。
 
 
 ---
@@ -145,12 +136,12 @@ Mostly start on a contract or part-time basis, and after gaining experience, can
 | 工作强度 | 较低（★½☆☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/administrative-assistant/KR)**

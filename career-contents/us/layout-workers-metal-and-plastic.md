@@ -52,8 +52,6 @@ Mark reference points and dimensions on metal or plastic workpieces to prepare f
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Some tasks of metal and plastic layout workers can be automated (e.g., digital measuring and layout), but core tasks relying on spatial judgment, material properties, and on-site adjustments remain hard to replace. AI/automation will assist rather than fully replace, and job roles will upgrade towards digitalization and programming.
-
 Start as an apprentice/assistant, and with experience can advance to senior layer, supervisor, or quality inspector.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as an apprentice/assistant, and with experience can advance to senior laye
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires at least 2 years of training or experience, can apply for employment-based green card. |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | Employers must prove they cannot hire US workers, the process is lengthy. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually not through H-1B, but possible via EB-3 green card pathway, requiring
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/layout-workers-metal-and-plastic/US)**

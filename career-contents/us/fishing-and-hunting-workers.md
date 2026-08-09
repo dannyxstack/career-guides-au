@@ -52,8 +52,6 @@ Captures and collects wild fish, aquatic animals or plants using nets, traps, et
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Fishing and hunting workers are at high risk of automation replacement, as AI and automation technology (e.g., drones, autonomous fishing vessels, smart nets) can efficiently complete fishing and monitoring tasks, significantly reducing job demand.
-
 General fishery workers can advance to fishing vessel captain or fishing team leader, requiring sea experience and a captain's license. Some experienced workers may transition to aquaculture management, fishery inspection, or equipment maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ General fishery workers can advance to fishing vessel captain or fishing team le
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Almost none. This occupation is not under skilled migration; only short-term 
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fishing-and-hunting-workers/US)**

@@ -53,8 +53,6 @@ Shoe makers and related workers are responsible for making, repairing, and maint
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly compress shoemaking worker roles, especially in production, but high-end customization and repair fields will still retain some demand.
-
 Shoemakers can progress from apprentice to skilled artisan or open their own repair shop. A few may move into design or production management roles. Industry technology updates slowly, and experience is key.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Shoemakers can progress from apprentice to skilled artisan or open their own rep
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Can progress from apprentice to skilled artisan or open their own repair shop
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shoemaker-and-related-worker/IE)**

@@ -54,8 +54,6 @@ Photographers use professional cameras and lighting equipment to capture people,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI impact on photographers' careers is mixed: basic photography and post-production are automated, but AI empowers creative expression and business efficiency, making human-machine collaboration the new normal. High freelance rates require photographers to proactively embrace tools and strengthen personal branding.
-
 Junior photographers can start as assistants and advance to independent photographers or studio owners after gaining experience. Some transition to film photography, digital post-production, or art direction.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior photographers can start as assistants and advance to independent photogra
 | Subclass 190 (Skilled Nominated Visa) | Only a few states may sponsor photography-related occupations, requiring high education and experience |
 | Subclass 491 (Skilled Work Regional (Provisional) Visa) | Regional state sponsorship, highly competitive and requires connection with local employers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Overall stable but competitive; low-end market saturated, while high-end comm
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer-211311/AU)**

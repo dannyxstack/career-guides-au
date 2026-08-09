@@ -4,8 +4,6 @@
 
 Responsible for medical follow-up during pregnancy and delivery, including prenatal checkups, labor monitoring, and postpartum care, ensuring the safety of mother and baby.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for medical follow-up during pregnancy and delivery, including prena
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-In the next five years, AI will take over document and data analysis tasks, but core clinical judgment and emotional support will still require humans. Entry-level positions may have lower barriers due to AI assistance, but senior roles require stronger technical integration capabilities.
-
 Junior midwives can be promoted to senior midwives, head nurses in obstetrics, or specialist consultants. You can also choose to pursue further studies in ultrasound or fetal medicine, or move into hospital management or public health.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Junior midwives can be promoted to senior midwives, head nurses in obstetrics, o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled professionals, including medical professionals, who must provide employment contracts or project certification. |
-| Subclass Salarié (Employee Visa) | A French employer sponsorship is required, and the position must pass a labor market test (exemption available for shortage occupations). |
-| Subclass Carte bleue UE (EU Blue Card) | Applicable to professionals with higher education background and salary meeting the standard (approx. €53,000 per year in 2024). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Must complete a 5-year national midwifery diploma course (Diplôme d'État de
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pregnancy-and-childbirth-followup-specialist/FR)**

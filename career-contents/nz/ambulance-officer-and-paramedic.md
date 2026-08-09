@@ -54,8 +54,6 @@ New Zealand emergency medical personnel provide advanced life support, medicatio
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed impact on emergency responders: administrative tasks like auto-dispatch and medical transcription will be compressed, but AI-assisted on-site diagnosis, medication decisions, and telemedicine can greatly improve efficiency; core critical condition judgment still requires humans.
-
 Junior first responders can advance to senior first responders, team leaders, or clinical educators; some move to air ambulance or disaster management. Continuous learning of advanced skills like critical care transport or community first aid projects required.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Junior first responders can advance to senior first responders, team leaders, or
 | Subclass SMC (Skilled Migrant Category) | 6-point system: registration qualification usually adds 6 points, eligible for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, requires employer sponsorship, eligible for residence after 2 years of work. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires completing a 3-year bachelor's degree in paramedicine (e.g.,
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ambulance-officer-and-paramedic/NZ)**

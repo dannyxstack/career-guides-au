@@ -54,8 +54,6 @@ Archaeologists study human history and culture through excavation and analysis o
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will largely take over archaeologists' tasks in data processing, basic classification, and documentation, but core fieldwork, artifact interpretation, and theory building still rely on human experts; entry-level competition intensifies, while research roles require skill upgrades.
-
 Entry-level positions are usually research assistant or field archaeologist; with experience, can advance to project manager, museum curator, or university professor. Requires PhD and publication record for senior roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Entry-level positions are usually research assistant or field archaeologist; wit
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to archaeologists with a German-recognized degree; requires a job offer. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows for a 6-month stay in Germany to seek employment, subject to proof of financial means. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Limited job opportunities with high competition. Digitalization and heritage 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archaeologist/DE)**

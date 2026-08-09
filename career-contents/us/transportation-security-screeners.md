@@ -54,8 +54,6 @@ Responsible for screening passengers, baggage, or cargo to ensure compliance wit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Parts of transport security screener roles can be automated by AI (e.g. X-ray image recognition), but body searches, emergency response, and complex judgments still require humans. Overall risk is medium, and entry barriers may rise slightly due to automation.
-
 Junior screening officer typically starts at TSA entry-level, can advance to lead screening officer, supervisor, or management roles. Some move to federal law enforcement or security fields. Requires ongoing training and assessments.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior screening officer typically starts at TSA entry-level, can advance to lea
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Through TSA internal promotion system, can become chief screening officer, su
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-security-screeners/US)**

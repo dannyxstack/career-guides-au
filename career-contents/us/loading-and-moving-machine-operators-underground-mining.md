@@ -54,8 +54,6 @@ Operate underground loading or mobile machinery, using shuttle cars, mine cars, 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Many repetitive, programmable tasks of underground mining load unit operators will be taken over by automated systems, leading to significant job reduction, but full replacement will take time.
-
 Can advance to mining equipment supervisor or mine operations manager, or transfer to mining technician or blaster through additional training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance to mining equipment supervisor or mine operations manager, or transf
 | Subclass H-2B (H-2B Temporary Non-Agricultural Workers) | Temporary non-agricultural worker visa for seasonal mining needs, but employers must prove labor shortage |
 | Subclass EB-3 (EB-3 Skilled Workers, Professionals, and Other Workers) | Employment-based immigration third preference, but employer sponsorship is difficult; PERM labor certification must show no qualified US workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Operators can advance to mining equipment supervisor or mine operations manag
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/loading-and-moving-machine-operators-underground-mining/US)**

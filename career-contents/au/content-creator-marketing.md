@@ -54,8 +54,6 @@ Content creators (marketing) are responsible for planning, producing, and distri
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Content creators (marketing) are greatly enhanced by AI: automated drafting, optimised distribution, but strategic planning, brand tone control and deep creativity still rely on humans, shifting from executor to strategist.
-
 Can progress from junior content specialist to senior content strategist or marketing manager; also possible to move into specialized areas like short-form video or SEO content; some entrepreneurs start their own content studios.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can progress from junior content specialist to senior content strategist or mark
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Requires copywriting, video production, social media management, basic SEO, d
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/content-creator-marketing/AU)**

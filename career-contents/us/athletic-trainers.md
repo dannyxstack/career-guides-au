@@ -52,8 +52,6 @@ Athletic trainers assess and treat musculoskeletal injuries or conditions, provi
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Athletic trainer roles will be reshaped by AI rather than replaced: AI takes over documentation and diagnostic assistance tasks, but manual therapy, emergency care, and interpersonal trust cannot be automated. Demand will grow with increased awareness of sports health, with slightly higher entry barriers.
-
 Junior sports trainers typically start as assistants or interns, gain experience, and advance to lead or supervisor roles. Some move into sports medicine management, teaching, or research. Obtaining specialty certifications (e.g., orthopedics, rehabilitation) can improve promotion prospects.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior sports trainers typically start as assistants or interns, gain experience
 | Subclass EB-2 (EB-2 Advanced Degree) | Holding a master's degree is eligible to apply; labor certification required |
 | Subclass EB-3 (EB-3 Skilled Workers) | Bachelor's degree plus experience, apply through PERM |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: After 2022, entry-level requirement is a master's degree from a CAATE-accredi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/athletic-trainers/US)**

@@ -4,8 +4,6 @@
 
 Interior Designers and Decorators plan, design, and decorate interior spaces to create aesthetically pleasing, functional, and client-suited environments. They collaborate with clients, architects, and contractors to select colors, materials, furniture, and accessories.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Interior Designers and Decorators plan, design, and decorate interior spaces to 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI automation will significantly change the way interior designers and decorators work: routine drafting, material list generation, and basic color scheme recommendations will be replaced, but core skills such as creative conception, client communication, and project coordination will be amplified by AI tools, creating a new human-machine collaborative workflow.
-
 Junior designers can start as assistants, gain experience, and advance to project managers or senior designers. Experienced ones can start their own design firms or specialize in areas like sustainable design, smart homes, or commercial interiors. Continuing education and industry certifications aid career development.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Junior designers can start as assistants, gain experience, and advance to projec
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to highly skilled migrants earning above the salary threshold, allowing them to work in the Netherlands with this visa. Requires employer sponsorship, with an annual salary of about €56,000 (€43,000 for under 30). |
-| Subclass Orientation Year (zo (Orientation Year (zoekjaar)) | Available to graduates from top universities in the Netherlands or worldwide, allows job seeking under this visa with a validity of 1 year. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to skilled non-EU citizens, with an annual salary threshold of approximately €59,000, allowing work in the Netherlands and other EU member states, and enjoying rights such as family reunification. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Starting as a junior designer, progress to senior designer, project manager, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interior-designer-and-decorator/NL)**

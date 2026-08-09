@@ -4,8 +4,6 @@
 
 Responsible for monitoring and operating production equipment for metal smelting, rolling, heat treatment, and other fields to ensure the quality and production efficiency of metal products. This profession has stable demand in heavy industries such as steel and aluminum.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for monitoring and operating production equipment for metal smelting
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Metal production equipment operator positions face automation compression, AI and robotics will take over repetitive monitoring and regulation tasks, but complex fault handling and process optimization still require human experience. Job demand is generally declining but skill requirements are upgrading.
-
 Junior operators can be promoted to team leaders or process engineers, or through continuing education, they can transition to maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Junior operators can be promoted to team leaders or process engineers, or throug
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship is required, and the employment contract must be approved by the French Labor Authority to prove that local employees cannot be recruited. |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, such as senior engineers or supervisors, but it is difficult for frontline operators to meet the requirements. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Usually, a CAP diploma (2 years of vocational training) or a BTS Senior Techn
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-production-plant-operator/FR)**

@@ -52,8 +52,6 @@ Handle cross-border cargo documents in freight forwarding companies or import/ex
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Import/export clerks face high automation risk; AI will systematically replace core tasks like document processing, compliance checks, and data entry, significantly reducing entry-level positions, requiring a shift to value-added services.
-
 Can progress from junior clerk to senior coordinator or team leader; required skills include digital customs clearance systems (e.g., Trade Single Window) and multilingual communication (Mandarin/Japanese etc. are advantageous). Some move into supply chain management or customs brokering.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from junior clerk to senior coordinator or team leader; required sk
 | Subclass SMC (Skilled Migrant Category) | Skilled migration, 6-point system: Bachelor's + 3 years experience = 6 points, Master's + 2 years = 6 points; hourly wage must not be below median (approx. NZD 31.61) |
 | Subclass Green List T2 (Green List Tier 2) | Green List Tier 2, eligible for residence after 2 years of work; import/export clerk is not on the direct list, but related positions like supply chain manager may qualify |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Demand is stable long-term, but digitization and AI may reduce entry-level po
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/importexport-clerk/NZ)**

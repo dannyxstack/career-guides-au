@@ -1,8 +1,8 @@
-# Ceramic and stone product inspector 职业分析 · 日本
+# 陶瓷和石材产品检验员（Ceramic and stone product inspector）职业分析 · 日本
 
-**职业代码: 572 (JSCO)**
+**职业代码：572 (JSCO)**
 
-A quality control professional responsible for inspecting the appearance, dimensions, and strength of ceramics and stone products to ensure compliance with standards.
+负责检查陶瓷和石材产品外观、尺寸及强度以确保符合标准的质量控制专业人员。
 
 
 ---
@@ -11,8 +11,8 @@ A quality control professional responsible for inspecting the appearance, dimens
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$300,000（At public high schools） |
-| Vocational training school (occupational training) | 1 to 2 years | $200,000~$600,000（Public vocational training may be free） |
+| 高中文凭 | 3年 | $0~$300,000（在公立高中） |
+| 职业培训学校（职业培训） | 1至2年 | $200,000~$600,000（公共职业培训可能免费） |
 
 ---
 
@@ -20,18 +20,18 @@ A quality control professional responsible for inspecting the appearance, dimens
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Ceramic product quality control manager | Japan Ceramic Society | 可选 | Certifies knowledge of quality control |
-| Non-destructive testing technician | Japanese Society for Non-Destructive Inspection | 可选 | Ultrasonic, X-ray testing, etc. |
-| QC test (Quality Control Test) | Japanese Society for Quality Control | 可选 | Basic-level quality control knowledge |
+| 陶瓷产品质量控制经理 | 日本陶瓷协会 | 可选 | 认证质量控制知识 |
+| 无损检测技术员 | 日本无损检测协会 | 可选 | 超声波、X射线检测等 |
+| 质量控制测试（QC测试） | 日本质量控制学会 | 可选 | 基础质量控制知识 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. While affected by fluctuations in construction demand, automation has reduced demand for inspectors; skilled workers remain stable in demand.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。虽然受建筑需求波动影响，但自动化减少了对检验员的需求；熟练工人需求仍然稳定。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A quality control professional responsible for inspecting the appearance, dimens
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $2,800,000~$3,600,000 | Overtime included |
-| 中级 (4-7年) | $3,600,000~$4,800,000 | Overtime included |
-| Senior (8 years or more) | $4,800,000~$6,000,000 | Including managerial allowance |
+| 初级 (0-3年) | $2,800,000~$3,600,000 | 含加班费 |
+| 中级 (4-7年) | $3,600,000~$4,800,000 | 含加班费 |
+| 高级（8年及以上） | $4,800,000~$6,000,000 | 含管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the introduction of AI and automated optical inspection (AOI), simple visual inspections are being replaced. However, inspections requiring complex judgment and skill still need humans.
+随着AI和自动光学检测（AOI）的引入，简单视觉检查正在被取代。但需要复杂判断和技能检查仍需人工。
 
-Promotion from general inspector to senior inspector or quality control leader is possible. Acquiring certifications can enhance career advancement.
+可从普通检验员晋升为高级检验员或质量控制主管。获取认证可促进职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated visual inspection
-- Dimension measurement automation
-- Color tone judgment AI
+- 自动视觉检测
+- 尺寸测量自动化
+- 色调判断AI
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI-assisted anomaly detection
-- Streamlining inspection data analysis
-- Defect occurrence prediction
+- AI辅助异常检测
+- 简化检查数据分析
+- 缺陷发生预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Judgment of subtle shades
-- Comprehensive evaluation of complex defects
-- Flexible standard setting per customer requirements
+- 细微色调的判断
+- 复杂缺陷综合评估
+- 根据客户要求灵活设定标准
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Quality control data analysis
-- Operation and maintenance of AI inspection equipment
-- Adaptability to high-mix low-volume production
+- 质量控制数据分析
+- AI检测设备的操作与维护
+- 多品种小批量生产的适应性
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Quality control automation
-- Skilled worker training
-- Architectural ceramics
-- Ceramic production areas
+- 质量控制自动化
+- 技工培训
+- 建筑陶瓷
+- 陶瓷生产区域
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or work experience; eligible for quality control work. |
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Possible in ceramics, stone, and clay product manufacturing; requires exam and Japanese ability. |
-| Subclass 技能実習2号 (Technical Intern Training) | Acceptable under the Technical Intern Training Program; residence period of 3-5 years. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who can focus on detailed tasks
-- People confident in physical strength
-- People interested in quality control
+- 能专注于细节任务的人
+- 体力充沛的人
+- 对质量控制感兴趣的人
 
 **谁不适合**
-- People who dislike simple tasks
-- People who get bored easily
+- 不喜欢简单任务的人
+- 容易感到无聊的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a ceramics, stone, and clay products inspector?**
-答：Varies by experience and region; beginner approx. 2.8-3.6M yen, mid-level 3.6-4.8M yen, senior 4.8-6.0M yen.
+**问：陶瓷、石材和粘土产品检查员的年收入是多少？**
+答：因经验和地区而异；初级约280-360万日元，中级360-480万日元，高级480-600万日元。
 
-**问：Can foreigners work in this field?**
-答：Yes, it is possible. You can work under the Engineer/Specialist in Humanities/International Services visa or Specified Skilled Worker (i) (Manufacturing 3 fields). Japanese language ability and skills tests are required.
+**问：外国人能从事这个领域吗？**
+答：是的，有可能。您可以申请工程师/人文与国际服务专家签证或特定技能工人（i）（制造业3个领域）签证。需要日语能力和技能测试。
 
-**问：Can I become one even with no experience?**
-答：Yes. After graduating high school, you can acquire skills through vocational training and OJT. Obtaining qualifications helps with career advancement.
+**问：没有经验也能成为吗？**
+答：可以。高中毕业后，可通过职业培训和在职培训获取技能。获得资格有助于职业发展。
 
 
 ---
@@ -142,12 +135,12 @@ Promotion from general inspector to senior inspector or quality control leader i
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ceramic-and-stone-product-inspector/JP)**

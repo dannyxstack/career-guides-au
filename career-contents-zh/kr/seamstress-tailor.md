@@ -1,10 +1,8 @@
-# Seamstress/Tailor 职业分析 · 韩国
+# 女装裁缝/裁缝（Seamstress/Tailor）职业分析 · 韩国
 
-**职业代码: 86231 (KECO)**
+**职业代码：86231 (KECO)**
 
-A production worker who cuts and sews clothing and textile products, mainly working in sewing factories or clothing manufacturers, performing a key role in determining the quality of finished products.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+生产工人，负责裁剪和缝制服装及纺织品，主要在缝纫厂或服装制造商工作，对成品质量起关键作用。
 
 
 ---
@@ -13,8 +11,8 @@ A production worker who cuts and sews clothing and textile products, mainly work
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | — | $0~$0（Completion of compulsory education） |
-| Vocational training (e.g., Polytech) | 6 months | $500,000~$2,000,000（Government support available） |
+| 高中毕业 | — | $0~$0（完成义务教育） |
+| 职业培训（例如理工学院） | 6个月 | $500,000~$2,000,000（可获得政府支持） |
 
 ---
 
@@ -22,17 +20,17 @@ A production worker who cuts and sews clothing and textile products, mainly work
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Tailor/Custom Tailor Craftsman | Human Resources Development Service of Korea | 可选 | Optional, skill certification |
-| Seamstress Certificate (private) | Korea Seamstress Association | 可选 | Favorable for employment |
+| 裁缝/定制裁缝工匠 | 韩国人力资源开发服务局 | 可选 | 可选，技能认证 |
+| 缝纫师证书（私立） | 韩国缝纫师协会 | 可选 | 有利于就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 90,000. Due to overseas relocation and automation of the clothing manufacturing industry, employment of seamstresses is declining, but some demand is expected to remain in the custom fashion and alteration market.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 90,000。由于服装制造业的海外迁移和自动化，缝纫工就业机会减少，但定制时装和改衣市场预计仍有一定需求。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -40,94 +38,86 @@ A production worker who cuts and sews clothing and textile products, mainly work
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | 最低工资水平 |
-| 中级 (4-7年) | $30,000,000~$36,000,000 | Rises with experience |
-| Advanced (8+ years) | $36,000,000~$45,000,000 | Skilled worker or team leader level |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 最低工资水平 |
+| 中级 (4-7年) | $30,000,000~$36,000,000 | 随经验增长 |
+| 高级（8年以上） | $36,000,000~$45,000,000 | 熟练工或团队领导级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-As AI and automation technology replace simple sewing tasks, the demand for seamstresses is decreasing, but high-end custom and repair work still requires human skill, so it will maintain its place in some areas.
+随着AI和自动化技术取代简单的缝纫任务，对缝纫工的需求正在减少，但高端定制和维修工作仍需要人类技能，因此在某些领域仍会存在。
 
-Starting as a junior seamstress, one can advance to master seamstress, production manager, or quality control manager after acquiring skilled techniques, and switching to self-employment (custom clothing/alterations) is common.
+从初级缝纫工做起，掌握技能后可晋升为高级缝纫工、生产经理或质量控制经理，转为自雇（定制服装/改衣）也很常见。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple Repetitive Sewing
-- Mass Production Straight Stitching
-- Automated Cutting
+- 简单重复性缝纫
+- 批量生产直线缝合
+- 自动切割
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Collaboration with AI Pattern Optimization
-- Monitoring and Maintenance of Automatic Sewing Machines
-- Reflecting 3D Virtual Fitting Results
+- 与AI模式优化协作
+- 自动缝纫机的监控与维护
+- 反映3D虚拟试穿结果
 
-**人类护城河:**
+**人类护城河：**
 
-- High-difficulty Draping and Hand Stitching
-- Custom Clothing Fitting and Repair Sense
-- Understanding Material Characteristics (Leather, Silk)
+- 高难度立体裁剪与手工缝制
+- 定制服装试穿与修补感知
+- 了解材料特性（皮革、丝绸）
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CAD Pattern Design
-- Smart Sewing Machine Operation
-- Basics of Material Engineering
-- High-value Repair Techniques
+- CAD纸样设计
+- 智能缝纫机操作
+- 材料工程基础
+- 高价值维修技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Clothing Repair
-- Custom-made Clothing
-- Traditional Hanbok
-- Leather & Fur
+- 服装修补
+- 定制服装
+- 传统韩服
+- 皮革与毛皮
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Sewing company employers can hire foreigners on E-9 visa if they obtain an employment permit. After gaining skills, can switch to E-7-4. |
-| Subclass E-7-4 (E-7 (Specific Activities, Skilled Worker)) | After E-9 stay, convert upon recognition of skill level. Can transition to permanent residence. |
-| Subclass F-4 (Overseas Koreans) | No employment activity restrictions for overseas Koreans aged 25 or older, sewing work allowed |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and dexterous person
-- Someone with strong patience who can endure repetitive tasks well
-- People interested in sewing technology
+- 注重细节且手法灵巧的人
+- 耐心强、能很好承受重复性工作的人
+- 对缝纫技术感兴趣的人
 
 **谁不适合**
-- Someone who wants to do creative design on their own
-- People who prefer active work over static tasks
+- 希望独立进行创意设计的人
+- 偏好活跃工作而非静态任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a seamstress?**
-答：Approximately 24-30 million KRW before tax for entry-level, up to 45 million KRW depending on experience and skill level.
+**问：裁缝的年薪是多少？**
+答：入门级别税前约2400-3000万韩元，根据经验和技能水平最高可达4500万韩元。
 
-**问：Can a foreigner work as a tailor?**
-答：It is possible. You can be employed through an E-9 (Non-professional Employment) visa or an E-7-4 (Skilled Worker) visa, while overseas Koreans can freely work under an F-4 visa.
+**问：外国人可以做裁缝吗？**
+答：有可能。可以通过E-9（非专业就业）签证或E-7-4（熟练工人）签证受雇，而海外韩国人可以通过F-4签证自由工作。
 
-**问：Can a tailor get promoted?**
-答：Yes, with experience you can advance to production supervisor or quality control manager, or transition into self-employment in custom tailoring or repair services.
+**问：裁缝能晋升吗？**
+答：是的，有经验后可晋升为生产主管或质量控制经理，或转为自雇从事定制裁缝或维修服务。
 
 
 ---
@@ -145,12 +135,12 @@ Starting as a junior seamstress, one can advance to master seamstress, productio
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/seamstress-tailor/KR)**

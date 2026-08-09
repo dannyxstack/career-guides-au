@@ -4,8 +4,6 @@
 
 This profession involves explaining the history, culture, and nature of domestic tourist attractions to tourists, guiding travel itineraries, and providing various conveniences such as transportation, accommodation, and meals.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ This profession involves explaining the history, culture, and nature of domestic
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-AI voice guides, augmented reality (AR) guides, and chatbots replace some tasks, but human emotional communication and emergency response remain highly valuable, making full replacement difficult.
-
 Starting as a junior guide, can advance to senior guide, work at a travel agency, or become a freelance; certification as a tour interpreter-guide is advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Starting as a junior guide, can advance to senior guide, work at a travel agency
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | If you have professional foreign language skills and certifications, you can work in interpretation for tourism |
-| Subclass F-2 (Residence) | Long-term residents can generally work |
-| Subclass F-4 (Overseas Koreans) | Free domestic activities, guide work possible |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: Voice guides and chatbots partially replace, but flexible on-site response an
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/tour-guide/KR)**

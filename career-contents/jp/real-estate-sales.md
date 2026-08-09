@@ -50,8 +50,6 @@ Sales role handling real estate sales and leasing brokerage. Responsible for pro
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Routine tasks such as property search and document creation are being replaced by AI/IT tools, reducing the value of human sales skills. However, human response is still required for high-value transactions and complex needs.
-
 Even beginners can obtain the Real Estate Transaction Specialist license and advance from lead to store manager. Major firms offer career paths to management or business development.
 
 **Tasks most exposed to AI:**
@@ -93,15 +91,9 @@ Even beginners can obtain the Real Estate Transaction Specialist license and adv
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Residence status for sales positions. Requires university degree or work experience. |
-| Subclass 特定活動（高度人材） (Designated Activities (Highly Skilled Professional)) | Preferential under point system, but real estate sales often excluded. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +137,12 @@ A: Although not essential for working in sales, obtaining a real estate transact
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/real-estate-sales/JP)**

@@ -1,10 +1,8 @@
-# Building Structural Engineer 职业分析 · 韩国
+# 建筑结构工程师（Building Structural Engineer）职业分析 · 韩国
 
-**职业代码: 14021 (KECO)**
+**职业代码：14021 (KECO)**
 
-A specialist who designs and reviews the structural safety and durability of buildings, responsible for structural calculations and drawings.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责建筑结构安全性和耐久性设计及审查的专业人员，进行结构计算和图纸绘制。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist who designs and reviews the structural safety and durability of bui
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Engineering) | 4年 | $10,000,000~$20,000,000（Based on annual tuition, varies between public/private） |
-| College (Architecture/Civil Engineering) | 2 年 | $6,000,000~$12,000,000（Based on annual tuition） |
+| 大学（工程） | 4年 | $10,000,000~$20,000,000（基于年学费，公立/私立不同） |
+| 大学（建筑/土木工程） | 2 年 | $6,000,000~$12,000,000（基于年学费） |
 
 ---
 
@@ -22,18 +20,18 @@ A specialist who designs and reviews the structural safety and durability of bui
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer in Building Structures | Human Resources Development Service of Korea | 可选 | Top-tier certification, enables structural design supervision and responsibility |
-| Certified Architect of Building Structures | Human Resources Development Service of Korea | 可选 | Basic certification, advantageous for employment |
-| Professional Engineer in Structural Safety | Human Resources Development Service of Korea | 可选 | Civil engineering structures field |
+| 建筑结构专业工程师 | 韩国人力资源开发服务局 | 可选 | 顶级认证，可承担结构设计监督与责任 |
+| 建筑结构注册建筑师 | 韩国人力资源开发服务局 | 可选 | 基础认证，有利于就业 |
+| 结构安全专业工程师 | 韩国人力资源开发服务局 | 可选 | 土木工程结构领域 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 12,800. Based on the Ministry of Land, Infrastructure and Transport's construction investment outlook and Employment Insurance DB analysis, an average annual growth of 0.5% is expected from 2024 to 2029, with demand for reconstruction, remodeling, and seismic design serving as sustaining factors.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 12,800。根据国土交通部的建设投资展望和就业保险数据库分析，预计2024年至2029年年均增长0.5%，重建、改造和抗震设计需求是支撑因素。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -41,93 +39,85 @@ A specialist who designs and reviews the structural safety and durability of bui
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $32,000,000~$40,000,000 | Based on small-to-medium design firm |
-| Mid-level (4–9 years) | $42,000,000~$55,000,000 | Lead level |
-| 资深（10年以上） | $55,000,000~$80,000,000 | Professional Engineer/Project Manager level |
+| 初级（0-3年） | $32,000,000~$40,000,000 | 基于中小型设计公司 |
+| 中级（4-9年） | $42,000,000~$55,000,000 | 领导级别 |
+| 资深（10年以上） | $55,000,000~$80,000,000 | 专业工程师/项目经理级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation will greatly increase productivity in structural calculations and design review, but final safety responsibility rests with human engineers, so complete replacement is difficult.
+人工智能和自动化将大幅提高结构计算和设计审查的生产力，但最终安全责任仍由人类工程师承担，因此完全替代困难。
 
-Entry-level supports structural calculations; at 5–10 years, becomes a sectional lead; after 15+ years, with a Professional Engineer license, can advance to design firm representative or public institution supervisor.
+入门级负责结构计算；5-10年成为部门主管；15年以上持有专业工程师执照，可晋升为设计公司代表或公共机构主管。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive structural calculations
-- Standard drawing creation
-- Preliminary compliance review
+- 重复性结构计算
+- 标准图纸创建
+- 初步合规审查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Optimal structural design alternative generation
-- Seismic simulation
-- Material/cost analysis
+- 最优结构设计方案生成
+- 地震模拟
+- 材料/成本分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Final safety judgment
-- Innovative design of atypical buildings
-- Legal/regulatory interpretation and client consultation
+- 最终安全判断
+- 非典型建筑的创新设计
+- 法律/法规解读及客户咨询
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BIM/structural analysis software
-- AI/machine learning-based design tools
-- Seismic and zero-energy design knowledge
+- BIM/结构分析软件
+- 基于AI/机器学习的设计工具
+- 抗震与零能耗设计知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Seismic design
-- Zero-energy building
-- BIM integrated design
-- Reinforcement of aging buildings
+- 抗震设计
+- 零能耗建筑
+- BIM集成设计
+- 老旧建筑加固
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7-1 (Specific Activities (Professional)) | Eligible for application upon meeting degree/career requirements as a building structural engineer, 3-year stay permit |
-| Subclass E-9 (Non-professional Employment) | Unsuitable for this occupation, issuance difficult due to required expertise |
-| Subclass F-2-1 (Residence (Points System)) | Long-term stay possible when meeting professional qualification/income requirements |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those strong in basic sciences like math and physics
-- Those who are meticulous and have strong focus
-- Those interested in interpreting drawings and regulations
+- 基础科学（如数学和物理）能力强的人
+- 细致且专注力强的人
+- 对解读图纸和法规感兴趣的人
 
 **谁不适合**
-- Those who find repetitive office work tedious
-- Those burdened by overtime or weekend work
+- 觉得重复办公室工作枯燥的人
+- 被加班或周末工作所累的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a building structural engineer?**
-答：Depending on experience, junior level 32-40 million KRW, mid-level 42-55 million KRW, senior level 55-80 million KRW. It increases significantly upon obtaining a professional engineer license.
+**问：建筑结构工程师的平均工资是多少？**
+答：根据经验，初级3200-4000万韩元，中级4200-5500万韩元，高级5500-8000万韩元；获得专业工程师执照后大幅增加。
 
-**问：Can foreigners get a job in Korea in this occupation?**
-答：Yes, you can apply for an E-7-1 visa, but must meet requirements such as a related degree and 5+ years of experience. Korean language ability and employer recommendation are important.
+**问：外国人能在这个职业找到韩国的工作吗？**
+答：可以申请E-7-1签证，但需满足相关学位和5年以上经验等要求。韩语能力和雇主推荐很重要。
 
-**问：What is the minimum education required for this job?**
-答：A 2-year college or 4-year university degree is typical, with majors in architecture/civil engineering preferred. Practical experience is essential for obtaining a professional engineer license.
+**问：这份工作的最低学历要求是什么？**
+答：通常需要2年制学院或4年制大学学位，优先考虑建筑/土木工程专业。实际经验对于获得专业工程师执照至关重要。
 
 
 ---
@@ -145,12 +135,12 @@ Entry-level supports structural calculations; at 5–10 years, becomes a section
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/building-structural-engineer/KR)**

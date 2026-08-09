@@ -4,8 +4,6 @@
 
 Responsible for the education, care, and enlightenment of children aged 0-6, mainly working in kindergartens, nurseries, or preschools, requiring patience, observation, and educational skills.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for the education, care, and enlightenment of children aged 0-6, mai
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on early childhood educators is mixed: it can automate administration and observation records, but cannot replace emotional bonds and instant care; core childcare capabilities remain the gold moat.
-
 Assistant educators can be promoted to main class teachers, and then to education director or institution head. You can also transition to special education, social services, or training positions through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Assistant educators can be promoted to main class teachers, and then to educatio
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A work contract with a French institution is required, and the employer certifies that the position cannot be filled by an EU citizen, applicable to public/private childcare institutions. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Those with higher education or in scarce professional skills can apply for this long-term residence to simplify the process. |
-| Subclass Carte bleue UE (EU Blue Card) | An annual salary of over 53,500 euros is required, which is usually difficult to achieve in the early childhood education industry, but may be suitable for senior management or research positions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Assistants can be promoted from assistant to head teacher, and then to educat
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-educator/FR)**

@@ -51,8 +51,6 @@ Event managers and organizers plan, coordinate, and manage various business meet
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core coordination, creativity, and on-site adaptability of event managers and organizers are hard to replace by AI, but administrative, record-keeping, and basic communication tasks face automation risks. AI is a tool to enhance efficiency, not a replacement, but entry-level positions may be reduced.
-
 Entry-level positions can start as event coordinator, gain experience to become event manager, then senior event manager or event director. Can also transition to event planning or marketing.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level positions can start as event coordinator, gain experience to become 
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, the occupation must be on the eligible list, with annual salary no less than £26,200 (or industry-specific wage). |
 | Subclass Graduate (Graduate visa) | Open to UK graduates, valid for 2 years, can be used to gain work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Yes, this occupation is on the list of eligible occupations for the Skilled W
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/events-managers-and-organisers/UK)**

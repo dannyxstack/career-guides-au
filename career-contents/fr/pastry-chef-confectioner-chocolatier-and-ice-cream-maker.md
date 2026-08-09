@@ -53,8 +53,6 @@ Professionals responsible for making pastries, candies, chocolates, and ice crea
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Chefs and head chefs face mixed impacts from AI: automated kitchen equipment can take over repetitive cooking tasks and reduce labor costs, but core skills like menu innovation, ingredient blending, and team management still rely on humans; high-end roles actually benefit from AI assistance to enhance efficiency and creativity.
-
 Starting from an apprentice (CAP), you can be promoted to Chef pâtissier or open an independent dessert shop. Overseas experience (such as Michelin-starred restaurants) can accelerate career development.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Starting from an apprentice (CAP), you can be promoted to Chef pâtissier or ope
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport (Profession Artistique et Culturelle)) | Suitable for artists or craftsmen, requires a portfolio or employer contract, valid for 4 years. |
-| Subclass Salarié (Salarié (Employed Worker)) | You must obtain a French employer work contract (CDI) and earn a salary not lower than SMIC to qualify for long-term residence. |
-| Subclass Recherche emploi (Job Seeker (for graduates)) | French or EU master's graduates can apply for a one-year job search visa and exchange for a work visa after finding a job. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Partial recognition is required through the French CAP exam or reconnaissance
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pastry-chef-confectioner-chocolatier-and-ice-cream-maker/FR)**

@@ -52,8 +52,6 @@ Operating mechanical booms, cables, or tower cranes to lift and move materials, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
-
 Usually start as an apprentice or assistant, gain experience, then obtain higher-level certifications. Can advance to senior operator, supervisor, or trainer; some move into equipment management or self-employment contracting.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Usually start as an apprentice or assistant, gain experience, then obtain higher
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | Skilled workers or tradespersons requiring employer-sponsored PERM |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | Employer must prove inability to recruit qualified US workers; common pathway. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Mainly EB-3 employment-based green card (requires PERM labor certification); 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-and-tower-operators/US)**

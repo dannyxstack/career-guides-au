@@ -52,8 +52,6 @@ Video producer/editor in Canada corresponds to NOC 53111, primarily responsible 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Motion graphics designer/film and video camera operator job outlook mixed: AI can automate shooting, editing tasks, but creative conception, on-site direction, and client communication rely on humans; overall risk is manageable.
-
 Junior editor/assistant can advance to senior editor, post-production supervisor, or creative director. Skills in motion graphics, effects, and color grading enhance competitiveness. Freelance and full-time positions coexist; some transition to VFX or gaming industries.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior editor/assistant can advance to senior editor, post-production supervisor
 | Subclass PNP (Provincial Nominee Program) | For example, Ontario Human Capital Priorities, BC PNP Tech, requires provincial nomination |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa to permanent residence, suitable for applicants with a job offer |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not necessarily, but ECA-recognized overseas qualifications or Canadian diplo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motion-graphics-artist-film-and-video-camera-operator/CA)**

@@ -1,10 +1,8 @@
-# Product inspection worker (excluding metal products) 职业分析 · 日本
+# 产品检验员（不含金属产品）（Product inspection worker (excluding metal products)）职业分析 · 日本
 
-**职业代码: 579 (JSCO)**
+**职业代码：579 (JSCO)**
 
-Inspect and test quality of industrial products (excluding metal products) in manufacturing processes to ensure compliance with standards. Responsible for visual inspection and functional testing.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+检查并测试制造过程中工业产品（金属产品除外）的质量，确保符合标准。负责目视检查和功能测试。
 
 
 ---
@@ -13,8 +11,8 @@ Inspect and test quality of industrial products (excluding metal products) in ma
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| 高中文凭 | 3年 | $0~$0（Public high school tuition nearly free） |
-| Vocational school (quality control course) | 2 年 | $1,000,000~$2,000,000（私立职业学校） |
+| 高中文凭 | 3年 | $0~$0（公立高中学费几乎免费） |
+| 职业学校（质量控制课程） | 2 年 | $1,000,000~$2,000,000（私立职业学校） |
 
 ---
 
@@ -22,17 +20,17 @@ Inspect and test quality of industrial products (excluding metal products) in ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Quality Control (QC) Certification | Japanese Standards Association | 可选 | Levels 1–4. Advantageous in practice. |
-| Visual Inspection Technician | Ministry of Health, Labour and Welfare | 可选 | Recommended in some industries. |
+| 质量控制认证 | 日本标准协会 | 可选 | 1-4级。实践中具有优势。 |
+| 目视检查技术员 | 厚生劳动省 | 可选 | 部分行业建议获取。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 320,000. Demand is declining due to AI and image processing in inspection processes amid automation. However, high-level visual and sensory inspections remain necessary for now.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 320,000。由于自动化检测过程中AI和图像处理的应用，需求正在下降。但高水平视觉和感官检测目前仍需。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,90 +38,82 @@ Inspect and test quality of industrial products (excluding metal products) in ma
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Junior (0–3 years) | $3,000,000~$4,000,000 | Standard early 20s |
-| Mid-level (3–10 years) | $4,000,000~$5,500,000 | Varies with experience and certification |
+| 初级（0-3年） | $3,000,000~$4,000,000 | 标准20岁出头 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 随经验和认证而变化 |
 | 资深（10年以上） | $5,500,000~$7,000,000 | 主管级 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Introduction of AI image recognition and automatic inspection equipment makes simple visual inspections easily replaceable. However, sensory and comprehensive judgment inspections are difficult to fully replace with AI, leaving a role for humans.
+引入AI图像识别和自动检测设备使简单目视检查容易替代。然而，感官和综合判断检查难以完全由AI替代，留下人类角色。
 
-Start from scratch; after acquiring inspection skills, career advancement to inspection leader or quality control department is possible. Promotions easier with certification.
+从零开始；掌握检验技能后，可晋升为检验组长或质检部门。持有证书更易晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine visual inspection
-- Simple dimension measurement
-- Pass/fail judgment recording
+- 常规目视检查
+- 简单尺寸测量
+- 合格/不合格判定记录
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- AI inspection result verification
-- Detailed analysis of defective items
-- Statistical analysis of inspection data
+- AI检查结果验证
+- 缺陷物品详细分析
+- 检验数据的统计分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Sensory inspection (judgment by sensation)
-- Comprehensive quality judgment
-- Identification of defect causes and improvement proposals
+- 感官检查（凭感觉判断）
+- 综合质量判断
+- 缺陷原因识别与改进建议
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Theoretical knowledge of quality management
-- Operation of inspection equipment/AI tools
-- Data analysis and statistical quality control
+- 质量管理理论知识
+- 检测设备/AI工具的操作
+- 数据分析与统计质量控制
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Quality control
-- AI inspection
-- Image processing
-- Automation
+- 质量控制
+- AI检测
+- 图像处理
+- 自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技能（生産工程） (Skilled Worker Visa) | Applicable for inspection work in manufacturing, but requires advanced skills. |
-| Subclass 特定技能1号（製造3分野） (Specified Skilled Worker (i)) | Target fields. Max 5 years, no family accompaniment. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and specialized knowledge. Possible in inspection process management, etc. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with keen attention to detail
-- People who don't mind routine work
-- People with a strong commitment to quality
+- 注重细节的人
+- 不介意做常规工作的人
+- 对质量有强烈承诺的人
 
 **谁不适合**
 - 厌恶单调任务者
-- People seeking creative work
+- 寻求创意工作者
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for this occupation?**
-答：Approximately 3-4 million yen for entry-level, 4-5.5 million for mid-level, and 5.5-7 million for senior level.
+**问：该职业的年薪是多少？**
+答：入门级约300-400万日元，中级400-550万，高级550-700万。
 
-**问：Can foreigners work in this field?**
-答：Possible with Specified Skilled Worker (i) or skilled worker visa. However, Japanese language ability and skill certification are required.
+**问：外国人能从事这个领域吗？**
+答：可能通过特定技能工人(i)或技能工人签证实现。但是，需要日语能力和技能认证。
 
 
 ---
@@ -141,12 +131,12 @@ Start from scratch; after acquiring inspection skills, career advancement to ins
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/product-inspection-worker-excluding-metal-products/JP)**

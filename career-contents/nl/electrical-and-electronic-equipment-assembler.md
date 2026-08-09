@@ -51,8 +51,6 @@ Electrical and electronic equipment assemblers assemble, test, and repair electr
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Electrical and electronic equipment assemblers face automation threats; repetitive assembly will be replaced by machines, but AI enhances quality inspection, debugging, and customization, while requiring adaptation to complex tasks in smart device installation and maintenance.
-
 Entry-level assemblers can advance to senior assemblers or team leaders through experience; further study can lead to roles in quality control, technical training, or production management.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Entry-level assemblers can advance to senior assemblers or team leaders through 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | For skilled migrants earning above a certain income threshold, requires a contract with an approved sponsoring employer. |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, must meet salary and education requirements (usually bachelor's or higher). |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For international students who graduated in the Netherlands or at top overseas universities, allowing one year of free job seeking. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Typically requires a secondary vocational education (MBO) level 2-4 qualifica
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electronic-equipment-assembler/NL)**

@@ -4,8 +4,6 @@
 
 A professional who operates passenger aircraft, cargo planes, etc., and flies them to destinations safely and on schedule. Strict training and qualifications are required.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ A professional who operates passenger aircraft, cargo planes, etc., and flies th
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-With advances in AI and automation, flight operations are supplemented and enhanced, but full autonomous flight is still some time away. Human judgment and crisis management skills remain essential.
-
 After promotion from co-pilot to captain, opportunities open up for instructor or management roles. Major airlines have clear career paths, with advancement based on seniority and performance.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ After promotion from co-pilot to captain, opportunities open up for instructor o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable to airline-trained pilots or those recruited from abroad; requires experience and licenses |
-| Subclass 高度専門職1号 (Highly Skilled Professional 1(c)) | For pilots with high salary and skills; point-based system facilitates permanent residency |
-| Subclass 特定技能 (Specified Skilled Worker (ii)) | Currently aircraft pilots are excluded; may expand in the future |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Mainly through an airline's ab initio training program or by completing a fli
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/aircraft-pilot/JP)**

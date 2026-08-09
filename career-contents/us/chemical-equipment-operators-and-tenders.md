@@ -53,8 +53,6 @@ Operate or tend equipment to control chemical reactions or changes in industrial
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-This occupation faces high automation risk; AI and robots will take over most monitoring, recording, and operational tasks, significantly reducing entry-level positions, but skill demands for equipment maintenance and anomaly handling remain.
-
 Usually start as junior operators, gain experience, and advance to senior operator, team leader, or supervisor. Some move into chemical technician or engineer roles through further education.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as junior operators, gain experience, and advance to senior operat
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost none. This occupation typically does not require a bachelor's degree, 
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemical-equipment-operators-and-tenders/US)**

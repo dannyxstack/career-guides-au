@@ -53,8 +53,6 @@ Inventory managers in logistics, retail, and manufacturing manage inventory reco
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Inventory clerk roles face high replacement risk due to AI and automation, as tasks like data entry and inventory tracking can be efficiently handled by systems, but physical counting and exception handling still require human input, with entry-level positions significantly shrinking.
-
 Junior inventory clerks can advance to senior inventory clerks, warehouse supervisors, or logistics coordinators. With experience, they can move into supply chain management, procurement, or operations, with corresponding salary increases.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior inventory clerks can advance to senior inventory clerks, warehouse superv
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: High school diploma can get you started, but a logistics or business diploma/
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/stock-clerk/NZ)**

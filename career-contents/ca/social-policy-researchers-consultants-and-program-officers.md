@@ -54,8 +54,6 @@ In Canada, housing officers typically fall under the community and social servic
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is unlikely to replace social housing policy development and tenant case management, but can amplify data analysis and automate administrative tasks; overall low risk, requiring strengthened interpersonal and compliance skills.
-
 From junior housing officer to senior policy advisor or program manager, requiring management experience and policy analysis skills. Also transition to community development or homelessness services.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ From junior housing officer to senior policy advisor or program manager, requiri
 | Subclass LMIA (Labour Market Impact Assessment) | Employer obtains LMIA then applies for work permit, later immigrates through Federal Skilled Worker or PNP |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, suitable for those with a job offer in Atlantic Canada |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires a bachelor's degree (social services, public administratio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/social-policy-researchers-consultants-and-program-officers/CA)**

@@ -52,8 +52,6 @@ Responsible for supervising students during recess and lunch, and assisting chil
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-This occupation involves highly repetitive tasks based on physical locations; AI automation will significantly reduce demand for patrol and monitoring roles, but schools will still retain some human staff.
-
 Typically an entry-level position with limited promotion opportunities. May transition to school administrative assistant, childcare, or community safety roles, but additional training is required.
 
 **Tasks most exposed to AI:**
@@ -102,8 +100,6 @@ Typically an entry-level position with limited promotion opportunities. May tran
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -147,11 +143,12 @@ A: Limited promotion prospects. Can move to school administrative assistant, chi
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/school-midday-and-crossing-patrol-occupations/UK)**

@@ -54,8 +54,6 @@ In Ireland, audiologists and speech therapists are essential professionals in he
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI amplifies audiologists' and speech-language pathologists' diagnostic and treatment capabilities rather than replacing them; demand grows due to aging population and public health awareness. Overall positive outlook.
-
 Junior practitioners typically start in clinical roles and, after gaining experience, can advance to senior therapists or specialists in areas like children or adults. Some move into management or open private practices.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Junior practitioners typically start in clinical roles and, after gaining experi
 | Subclass General Employment P (General Employment Permit) | Applicable for positions with annual salary ≥ €30,000, requires passing labor market test, renewable, eligible for permanent residence after 5 years |
 | Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU nationals, annual salary ≥€64,000 (reduced to €32,000 for shortage occupations), free to work in the EU. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Must complete a CORU-accredited undergraduate or postgraduate program and reg
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/audiologist-and-speech-therapist/IE)**

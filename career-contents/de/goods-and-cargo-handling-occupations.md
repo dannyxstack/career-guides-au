@@ -54,8 +54,6 @@ Responsible for loading, unloading, moving, sorting, and storing goods and commo
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Cargo handling jobs face automation risks, but in the short term AI will assist rather than replace; core manual handling tasks still require human labor. Entry-level roles are shrinking but demand for technical roles is rising.
-
 Entry-level loaders can develop into foremen or logistics specialists; further study can lead to higher positions like warehouse management or supply chain coordination, with some companies offering internal promotion.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Entry-level loaders can develop into foremen or logistics specialists; further s
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Yes, through further training one can become a warehouse logistics specialist
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/goods-and-cargo-handling-occupations/DE)**

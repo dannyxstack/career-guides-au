@@ -52,8 +52,6 @@ Responsible for installing building exterior wall systems (such as ventilated fa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some repetitive tasks for technical facade installers (such as measurement and fastener installation) are easily automated, but AI cannot replace on-site judgment, waterproof sealing, and complex facade installations, resulting in moderate overall risks and the need to enhance digital and AI collaboration capabilities.
-
 You can rise from installer to on-site supervisor, project coordinator, specialize in energy-saving curtain wall systems, BIM modeling, or other specialized fields, or start your own business to undertake project contracting.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can rise from installer to on-site supervisor, project coordinator, speciali
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | Sponsored by a Spanish company, it must prove that the position is difficult to recruit locally and suitable for applicants with existing offers. |
-| Subclass Altamente cualificad (High-Skilled Professional Visa) | Applicable to technical positions with an annual income usually not less than €40,000, requiring a university degree or similar experience. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires relevant academic qualifications and a relatively high salary (the 2024 threshold is about €33,908), allowing quick residency eligibility. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: You can be promoted from installer to team supervisor, project site leader, o
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-faade-installer/ES)**

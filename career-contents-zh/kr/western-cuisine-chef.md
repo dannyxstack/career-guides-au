@@ -1,8 +1,8 @@
-# Western Cuisine Chef 职业分析 · 韩国
+# 西餐厨师（Western Cuisine Chef）职业分析 · 韩国
 
-**职业代码: 53141 (KECO)**
+**职业代码：53141 (KECO)**
 
-A professional who cooks Western dishes in a Western restaurant, responsible for hygiene management and menu development.
+在西餐厅烹饪西餐的专业人士，负责卫生管理和菜单开发。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who cooks Western dishes in a Western restaurant, responsible for
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate degree (2-year college) | 2 年 | $8,000,000~$15,000,000（Private college standard, public cheaper） |
-| Bachelor's degree (4-year university) | 4年 | $20,000,000~$40,000,000（Private university standard, scholarships available） |
+| 副学士学位（两年制学院） | 2 年 | $8,000,000~$15,000,000（私立大学标准，公立更便宜） |
+| 学士学位（4年制大学） | 4年 | $20,000,000~$40,000,000（私立大学标准，提供奖学金） |
 
 ---
 
@@ -20,17 +20,17 @@ A professional who cooks Western dishes in a Western restaurant, responsible for
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Cook (Western) Certification | Human Resources Development Service of Korea | 必备 | National technical qualification, basic requirement |
-| Industrial Engineer Cook (Western) | Human Resources Development Service of Korea | 可选 | Optional, advantageous for promotion |
+| 西餐厨师认证 | 韩国人力资源开发服务局 | 必备 | 国家技术资格，基本要求 |
+| 工业厨师（西餐） | 韩国人力资源开发服务局 | 可选 | 可选，对晋升有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 180,000. Demand is stable in Korea due to increased Western food consumption and growth of the dining industry, but competition is fierce and recovery is underway post-COVID-19.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 180,000。韩国的需求稳定，原因是西方食品消费增加和餐饮行业增长，但竞争激烈，且疫情后复苏正在进行中。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -38,92 +38,85 @@ A professional who cooks Western dishes in a Western restaurant, responsible for
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$30,000,000 | Kitchen assistant to cook |
-| Intermediate (4–9 years) | $32,000,000~$45,000,000 | Cook to senior cook |
-| Advanced (10+ years) | $48,000,000~$70,000,000 | Head chef, hotel/luxury restaurant |
+| Beginner (0–3 years) | $24,000,000~$30,000,000 | 厨房助手转厨师 |
+| 中级（4-9年） | $32,000,000~$45,000,000 | 厨师至高级厨师 |
+| 高级（10年以上） | $48,000,000~$70,000,000 | 总厨，酒店/豪华餐厅 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-Western cuisine chefs have a low risk of complete replacement by AI. While cooking automation technology is introduced as an aid, human value is maintained in creative menu development and customized customer service.
+西餐厨师被AI完全替代的风险较低。虽然烹饪自动化技术作为辅助手段被引入，但在创意菜单开发和定制化客户服务中，人的价值得以保留。
 
-Promotion: kitchen assistant → cook → senior cook → head chef; or build career in hotel/restaurant chains to franchise entrepreneurship.
+晋升路径：厨房助理 → 厨师 → 高级厨师 → 主厨；或在酒店/餐饮连锁中建立职业生涯，最终特许经营创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Standardized Seasoning Mixes
-- Inventory Management and Order Data Entry
-- Simple Cooking Process Automation
+- 标准化调味混合料
+- 库存管理和订单数据录入
+- 简易烹饪流程自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- New Menu Development
-- Taste and Quality Evaluation
-- Customer Feedback Analysis
+- 新菜单开发
+- 品尝与质量评估
+- 客户反馈分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Palate and Creativity
-- Artisanal Cooking Skills
-- Adaptability and Team Leadership
+- 味觉与创造力
+- 手工烹饪技能
+- 适应性与团队领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Fusion Cooking Skills
-- Ingredient Sourcing and Sustainability
-- Digital Kitchen Equipment Operation
+- 融合烹饪技能
+- 原料采购与可持续性
+- 数字厨房设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Western Cuisine
+- 西餐
 - Fusion
-- Artisanal Cooking
-- Eco-friendly Ingredients
+- 手工烹饪
+- 环保成分
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities) Visa) | Minimum 1 year experience + certification required for skilled chef employment |
-| Subclass F-2 (F-2 (Residence) Visa) | Convertible after long-term stay, points system |
-| Subclass F-4 (Overseas Korean visa) | Employment permitted only for overseas Koreans |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone passionate about culinary creation
-- Someone meticulous about hygiene management
-- Someone who values teamwork
+- 热爱烹饪创作的人
+- 对卫生管理细致入微的人
+- 重视团队合作的人
 
 **谁不适合**
-- Someone who is not good with fast-paced stress
-- Someone who struggles with late-night or weekend work
+- 不善于应对快节奏压力的人
+- 无法适应深夜或周末工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a Western cuisine chef?**
-答：For entry-level, annual salary is 24-30 million KRW, varying by hotel or franchise.
+**问：西餐厨师起薪是多少？**
+答：初级岗位年薪为2400-3000万韩元，因酒店或连锁品牌而异。
 
-**问：Can a foreigner become a Western cuisine chef with an E-7 visa?**
-答：Yes, it is possible. More than 1 year of experience in the field and a cooking license are required, and a contract is mandatory.
+**问：外国人能否持E-7签证成为西餐厨师？**
+答：是的，有可能。需要在该领域拥有1年以上经验及烹饪执照，且必须签订合同。
 
-**问：How long does it take to become a head chef from a Western cuisine chef?**
-答：Usually, more than 8-10 years of experience are needed, along with intermediate-level skills and leadership.
+**问：从西餐厨师成为主厨需要多长时间？**
+答：通常需要8-10年以上经验，以及中级技能和领导力。
 
 
 ---
@@ -141,12 +134,12 @@ Promotion: kitchen assistant → cook → senior cook → head chef; or build ca
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/western-cuisine-chef/KR)**

@@ -4,8 +4,6 @@
 
 A professional who plans, designs, and analyzes opinion polls, market research, social surveys, etc., and writes reports.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional who plans, designs, and analyzes opinion polls, market research, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI automates data collection and basic statistical analysis, but higher-level judgments like research design, questionnaire development, and context interpretation remain crucial human roles, resulting in mixed impacts.
-
 Typically employed by research institutes, polling agencies, and corporate planning departments; after gaining experience, can advance to lead researcher or independent consultant.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Typically employed by research institutes, polling agencies, and corporate plann
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Applicable with professional experience/degree, can apply as research specialist |
-| Subclass F-2 (Residence) | Points-based system, long-term residents, career in research field recognized |
-| Subclass D-10 (Job-seeking) | Associate degree or higher, possible when engaging in research-related job-seeking |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: It's not mandatory, but it provides bonus points in hiring and helps improve 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/research-specialist/KR)**

@@ -53,8 +53,6 @@ Responsible for creating visual concepts, using computer software or hand-drawn 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-The impact on graphic design is mixed: AI can automatically generate basic visual content, but strategic creativity, brand depth, and multi-platform content customization still rely on human designers; opportunities increase for those with composite skills.
-
 Junior designers can be promoted to senior designers, creative directors, or art directors; You can also specialize in UX/UI, motion graphics, or front-end development.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Junior designers can be promoted to senior designers, creative directors, or art
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | For highly skilled professionals, higher education or 5 years of experience is required, with an annual salary threshold of about 34,000 euros (2024). |
-| Subclass Altamente cualificad (High-Skilled Professional (Ley 14/2013)) | Suitable for innovative or strategic positions, requiring no labor market testing and allowing for rapid residency approval. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary work residence guaranteed by a Spanish company requires proof that the position cannot be filled by an EU citizen. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Promotion to Senior Designer, Art Director, or Creative Director. You can als
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-and-multimedia-designer/ES)**

@@ -4,8 +4,6 @@
 
 Responsible for providing information, consultation, and handling of affairs directly to the public in administrative positions, commonly found in government offices, utility companies, and private enterprises, serving as an important bridge between organizations and clients.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for providing information, consultation, and handling of affairs dir
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will replace about 40% of repetitive administrative consulting tasks (phone/email responses, data entry) within 5-10 years, but will enhance humanized service and complex problem handling, with overall job risks and opportunities coexisting.
-
 Employees can be promoted from junior customer service administrative assistant to senior administrative specialist, customer service supervisor, or department coordinator. By continuing in FP or university courses, you can transition to human resources, finance, or management roles.
 
 **Tasks most exposed to AI:**
@@ -97,15 +93,9 @@ Employees can be promoted from junior customer service administrative assistant 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | You must obtain a work contract with a Spanish company, meet minimum wage requirements, and pass the Labor Bureau's review. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +139,12 @@ A: FP Grado Medio (intermediate vocational training) or high school graduation i
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-service-administrative-assistants/ES)**

@@ -53,8 +53,6 @@ Operate glass forming, finishing, and cutting equipment to produce flat glass, g
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Glass processing tools have clear automation replacement risks (CNC cutting, grinding), but on-site installation, custom processing, and quality inspection still require manual work, making it a mixed bag.
-
 Can progress from operator to senior operator, supervisor, or quality inspector. Some pursue further education to move into engineering or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can progress from operator to senior operator, supervisor, or quality inspector.
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually only a high school diploma is required, followed by on-the-job traini
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glass-forming-and-finishing-machine-operators-and-glass-cutters/CA)**

@@ -54,8 +54,6 @@ Study the origin, behavior, disease, genetics, and life processes of animals, po
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will assist data collection and analysis but will not fully replace fieldwork and complex ecological judgment; entry-level competition will intensify, but demand for senior experts remains stable.
-
 Career paths include progressing from field researcher to project lead, research supervisor, or senior scientist. Also possible to move into academia as a professor or into the private sector for environmental consulting.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career paths include progressing from field researcher to project lead, research
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Employment-based green card, suitable for applicants with a master's degree or a bachelor's degree plus 5 years of experience |
 | Subclass EB-3 (Employment-Based Third Preference (EB-3)) | Employment-based green card, suitable for applicants with a bachelor's degree, with a long waiting period |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Basic requirement is a bachelor's degree in biology or related field. Volunta
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/zoologists-and-wildlife-biologists/US)**

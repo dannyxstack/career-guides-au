@@ -51,8 +51,6 @@ Software developers design, develop, test, and maintain software applications. I
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 Junior developers can advance to senior developers or tech leads through project experience, then transition to architects or technical managers. They may also choose freelancing or entrepreneurship.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Junior developers can advance to senior developers or tech leads through project
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled workers, requires a job offer and meeting the salary threshold. The 30% tax ruling may also apply. |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly educated professionals, requiring a job offer and salary level. Can lead to permanent residency. |
-| Subclass Orientation Year (Orientation Year) | Applicable to graduates from the Netherlands or specific countries, allowing one year to find a job. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Amsterdam, Rotterdam, Utrecht, Eindhoven, and The Hague are major tech hubs, 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-developer/NL)**

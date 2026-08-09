@@ -52,8 +52,6 @@ Responsible for inspecting, repairing, and maintaining railway passenger cars, f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Daily inspections, recording, and scheduling for rail traffic crew can be automated by AI, but on-site judgment, emergency handling, and physical operations still rely on humans—overall risks and opportunities coexist.
-
 Can advance from assistant to skilled tradesperson, then to supervisor or inspector; can also move into railway scheduling or management roles.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from assistant to skilled tradesperson, then to supervisor or inspec
 | Subclass PNP (Provincial Nominee Program) | Many provinces list railway technicians as skilled occupations, eligible for provincial nomination. |
 | Subclass LMIA-based Work Perm (Labour Market Impact Assessment Work Permit) | Employers can apply for LMIA to provide work visas for overseas skilled workers. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Although provincial certification is not mandatory, employers typically requi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railway-carmen-women-72403/CA)**

@@ -53,8 +53,6 @@ Secondary school teachers teach specific subjects to students aged 14-19, design
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on secondary school teachers is mixed: repetitive administrative tasks will be automated, but core teaching, emotional care, and complex classroom management are hard to replace. Teachers need to adapt to tech-assisted teaching and improve AI literacy to stay competitive.
-
 Teachers can progress through further education to become subject leaders, deputy principals, or principals, or move into education policy or training fields.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Teachers can progress through further education to become subject leaders, deput
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card Italy) | Applicable to non-EU highly educated teachers, requiring an employment contract and a minimum salary threshold (approximately €24,000) |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, for non-EU teachers, employer sponsorship required |
-| Subclass Freelancer (EU Freedom of Movement) | EU citizens can work freely in Italy without a visa |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Common paths include: holding an EU Blue Card (requires contract and minimum 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secondary-education-teacher/IT)**

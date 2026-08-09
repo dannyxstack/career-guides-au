@@ -4,8 +4,6 @@
 
 Responsible for wiring, connecting, and testing electrical and electromechanical equipment to ensure the safe operation of circuit systems.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for wiring, connecting, and testing electrical and electromechanical
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical and MEP wiring workers are affected by AI automation, which has mixed effects: conventional wiring tasks are facing automation replacement, but AI-assisted tools can improve the efficiency of complex system diagnosis and testing, and human professional judgment and on-site adaptability remain the moat.
-
 You can advance from a junior cabber to team leader or technical expert, or transition to electrical engineering or automation through further education.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can advance from a junior cabber to team leader or technical expert, or tran
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | A French company is required to provide a work contract and labor permit, suitable for ordinary employees |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents, requiring an annual salary of about twice the SMIC (approximately 38,000 euros) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Usually, a French company is required to provide an employment contract (Sala
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-and-electromechanical-cabling-worker/FR)**

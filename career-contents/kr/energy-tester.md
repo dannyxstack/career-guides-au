@@ -49,8 +49,6 @@ A professional technical position that conducts tests and analyses to evaluate t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-AI can replace data analysis and report writing tasks, but actual test equipment operation and judgment require human roles, so the possibility of full replacement is low.
-
 Mainly works in power plants, testing certification agencies, and research institutes, with promotion possible to test team leader, quality manager, or technical director based on experience.
 
 **Tasks most exposed to AI:**
@@ -88,15 +86,9 @@ Mainly works in power plants, testing certification agencies, and research insti
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled energy testing personnel, meeting demand for specialized workforce |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage for long-term stay, points-based |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -140,12 +132,12 @@ A: The Energy Manager Engineer certification is required, and certifications in 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/energy-tester/KR)**

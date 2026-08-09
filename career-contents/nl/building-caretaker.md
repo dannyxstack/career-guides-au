@@ -4,8 +4,6 @@
 
 Responsible for daily maintenance, cleaning, minor repairs, and tenant services of buildings, ensuring safe and orderly operation of the property.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ Responsible for daily maintenance, cleaning, minor repairs, and tenant services 
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-Basic maintenance and cleaning tasks for building administrators face high automation risk, but physical oversight and tenant coordination duties retain human advantage.
 
 Can advance from junior administrator to senior administrator or property manager, or switch to technical maintenance roles through training.
 
@@ -99,18 +95,9 @@ Can advance from junior administrator to senior administrator or property manage
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable to highly skilled non-EU citizens requiring higher education and meeting salary thresholds, but this occupation typically does not meet the salary requirements for the Blue Card. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled non-EU citizens, salary threshold must be met; this occupation is usually not easy to satisfy. |
-| Subclass Orientation Year (Orientation Year) | Applicable to international graduates in the Netherlands, allowing one year to seek employment, after which they can switch to a work residence permit. |
-| Subclass EU Freedom of Moveme (EU/EEA Freedom of Movement) | EU/EEA citizens can work freely in the Netherlands without an additional visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +141,12 @@ A: No mandatory requirements, but an MBO certificate or SVGB certification incre
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-caretaker/NL)**

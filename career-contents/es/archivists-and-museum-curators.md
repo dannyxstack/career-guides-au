@@ -52,8 +52,6 @@ Responsible for the collection, organization, preservation, and exhibition plann
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
-
 You can rise from assistant to archivist/curator, and then to department head or curator. Continuous learning of digital archives and new skills in cultural heritage management is required.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can rise from assistant to archivist/curator, and then to department head or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly skilled professionals who require a university degree and a work contract with an above-average salary |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for senior professionals, fast-track entry, requiring a master's degree or more than 3 years of professional experience |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Standard work residence permit, employer sponsorship required, and compliance with national employment conditions |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Digitalisation and cultural heritage preservation bring new opportunities, bu
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/archivists-and-museum-curators/ES)**

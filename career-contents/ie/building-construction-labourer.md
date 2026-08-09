@@ -54,8 +54,6 @@ Construction workers perform various physical tasks on building sites, such as m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Entry-level tasks of construction workers (mainly manual labor) are susceptible to automation (e.g., robot bricklaying, material handling), but complex on-site decisions still require humans.
-
 Construction workers can advance to foreman or supervisor, or become skilled workers (e.g., carpentry, bricklaying) through apprenticeship training. Many workers acquire additional skills to enhance career development.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Construction workers can advance to foreman or supervisor, or become skilled wor
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Yes, becoming a skilled worker like a carpenter or electrician is possible th
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-construction-labourer/IE)**

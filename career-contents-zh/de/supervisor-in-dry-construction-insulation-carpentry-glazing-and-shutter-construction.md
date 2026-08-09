@@ -1,6 +1,6 @@
-# Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction 职业分析 · 德国
+# 干式建筑、保温、木工、玻璃安装和百叶窗施工主管（Supervisor in Dry Construction, Insulation, Carpentry, Glazing, and Shutter Construction）职业分析 · 德国
 
-**职业代码: 3339 (KldB)**
+**职业代码：3339 (KldB)**
 
 负责监督干式建造、隔热、木工、玻璃安装及百叶窗建造等施工现场，确保施工进度、质量和安全，协调团队工作。
 
@@ -30,10 +30,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★½☆）.** 全国从业人数约 45,000. 德国建筑业持续发展，能源改造和新建住房需求旺盛，该岗位就业前景稳定，特别是在节能改造和翻新领域。
+**职位需求量：中高（★★★½☆）** 全国从业人数约 45,000。德国建筑业持续发展，能源改造和新建住房需求旺盛，该岗位就业前景稳定，特别是在节能改造和翻新领域。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -51,14 +51,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
 建筑项目经理岗位整体受益于AI增强，但入门级协调任务面临自动化压力，需主动掌握数字化工具以保持竞争力。
 
 可从熟练技术工人晋升为主管（Vorarbeiter），再至工地经理（Baustellenleiter）或自营建筑公司，需积累管理经验和技术认证。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动生成进度报告和会议纪要
 - 标准化投标文件初步审查与比价
@@ -66,7 +66,7 @@
 - 现场安全违规自动识别与警报
 - 自动化合规文件归档与检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI支持的多方案施工模拟与优化
 - 深度学习驱动的施工缺陷识别与预测
@@ -74,7 +74,7 @@
 - 实时供应链风险预警与替代方案推荐
 - AI辅助分包商绩效分析与择优
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂利益相关方（业主、设计师、分包商）协调与谈判
 - 现场不可预见问题（如地质条件变化）的快速决策
@@ -82,7 +82,7 @@
 - 创新施工方法的设计与实施领导
 - 对项目整体战略目标的理解与平衡
 
-**需构建的技能:**
+**需构建的技能：**
 
 - BIM（如Revit）高级建模与数据管理
 - Python/VBA脚本自动化报告与数据清洗
@@ -91,16 +91,16 @@
 - 数据分析（SQL/Tableau）用于KPI监控
 - AI工具（如ChatGPT）快速生成文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Energy-efficient renovation
-- Construction boom
-- Sustainable building
-- Skilled labor demand
+- 节能改造
+- 建筑热潮
+- 可持续建筑
+- 熟练劳动力需求
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
 
@@ -110,9 +110,7 @@
 | Subclass Chancenkarte (Opportunity Card) | 基于积分制的求职签证，允许来德国寻找工作。 |
 | Subclass Job Seeker (Job Seeker Visa) | 允许在德国停留6个月寻找工作。 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -156,12 +154,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisor-in-dry-construction-insulation-carpentry-glazing-and-shutter-construction/DE)**

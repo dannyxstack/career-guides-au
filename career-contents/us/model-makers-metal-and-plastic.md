@@ -51,8 +51,6 @@ Uses lathes, milling machines, engraving machines, and jig borers to create work
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-CNC operator programming and machine setup are being amplified by AI-assisted software, but physical operations and complex process judgment are hard to replace; entry-level jobs narrow slightly due to lower programming thresholds, overall career prospects stable with slight growth.
-
 Junior apprentices can advance to skilled model maker, then supervisor or foreman; some move into precision machining or mold design.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Junior apprentices can advance to skilled model maker, then supervisor or forema
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires 2+ years training or experience, via PERM labor certification. |
 | Subclass Green Card (PERM) (Permanent Labor Certification) | Employer-sponsored green card path; must prove insufficient US workers. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually through apprenticeships or technical school training after high schoo
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/model-makers-metal-and-plastic/US)**

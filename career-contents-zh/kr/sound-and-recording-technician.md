@@ -1,8 +1,8 @@
-# Sound and Recording Technician 职业分析 · 韩国
+# 音响及录音技术员（Sound and Recording Technician）职业分析 · 韩国
 
-**职业代码: 41651 (KECO)**
+**职业代码：41651 (KECO)**
 
-A professional who operates sound equipment and records, edits, and mixes audio in broadcasting, film, performances, and music production.
+在广播、电影、演出和音乐制作中操作音响设备并录制、编辑和混音的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who operates sound equipment and records, edits, and mixes audio 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Related department in junior college | 2 年 | $10,000,000~$15,000,000（Based on public universities; private institutions cost 15–20 million KRW） |
-| Related department in university | 4年 | $20,000,000~$30,000,000（Based on public universities; private institutions cost 30–40 million KRW） |
-| Private educational institution | 6 months | $5,000,000~$10,000,000（短期强化课程） |
+| 相关专业专科 | 2 年 | $10,000,000~$15,000,000（基于公立大学；私立机构费用为15–2000万韩元） |
+| 大学相关专业 | 4年 | $20,000,000~$30,000,000（基于公立大学；私立机构需3000-4000万韩元） |
+| 私立教育机构 | 6个月 | $5,000,000~$10,000,000（短期强化课程） |
 
 ---
 
@@ -21,17 +21,17 @@ A professional who operates sound equipment and records, edits, and mixes audio 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Broadcast and Communication Engineer | Korea Radio Promotion Association | 可选 | National technical qualification in broadcast audio |
-| Sound Specialist | Korea Sound Association | 可选 | Private certification |
+| 广播和通信工程师 | 韩国广播振兴协会 | 可选 | 广播音频国家技术资格 |
+| 音响专家 | 韩国音响协会 | 可选 | 私人认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 12,000. Demand is stable with the growth of the content industry, but job growth is expected to be slow as it centers on small-scale businesses.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 12,000。随着内容产业的发展，需求稳定，但由于以小型企业为中心，就业增长预计缓慢。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A professional who operates sound equipment and records, edits, and mixes audio 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $24,000,000~$32,000,000 | Freelancers have irregular income; based on average annual salary |
-| Intermediate (4–9 years) | $35,000,000~$50,000,000 | Based on regular employment at broadcasting stations/studios |
-| Advanced (10+ years) | $50,000,000~$80,000,000 | Chief engineer/sound director |
+| Beginner (0–3 years) | $24,000,000~$32,000,000 | 自由职业者收入不稳定；基于平均年薪 |
+| 中级（4-9年） | $35,000,000~$50,000,000 | 基于在广播电台/演播室的常规就业 |
+| 高级（10年以上） | $50,000,000~$80,000,000 | 首席工程师/声音总监 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★★☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★★☆☆）**
 
-AI replaces repetitive tasks like noise removal and auto-mixing, but artistic decision-making and on-site audio design still require human roles. Leveraging AI tools for efficiency will be key to competitiveness.
+AI取代了降噪、自动混音等重复性任务，但艺术决策和现场音频设计仍需人类角色。利用AI工具提高效率将是竞争力的关键。
 
-Typically starts at broadcasting stations, recording studios, or as a freelancer, with potential to advance to chief engineer or sound director based on experience.
+通常从广播电台、录音室或自由职业起步，根据经验可晋升至总工程师或音响总监。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic noise removal
-- Automatic level adjustment
-- Simple editing tasks
+- 基本降噪
+- 自动水平调整
+- 简单编辑任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Auto-mixing assistance
-- AI-based audio analysis
-- Real-time feedback systems
+- 自动混音辅助
+- 基于AI的音频分析
+- 实时反馈系统
 
-**人类护城河:**
+**人类护城河：**
 
-- Artistic sensibility and auditory judgment
-- On-site situation handling skills
-- Collaboration with artists and directors
+- 艺术感知力和听觉判断力
+- 现场情况处理能力
+- 与艺术家和导演合作
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI audio tool utilization
-- Programming-based audio processing
-- Spatial audio design
+- AI音频工具使用
+- 基于编程的音频处理
+- 空间音频设计
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Content industry
+- 内容产业
 - OTT
-- Live performances
-- VR/AR audio
+- 现场表演
+- VR/AR音频
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Need 5+ years of experience and a related degree as a professional sound engineer |
-| Subclass F-2 (Residence) | Long-term stay possible with points system, sound-related experience gives extra points |
-| Subclass D-10 (Job Seeking) | Job seeking after graduating in sound-related major, stay 6 months to 2 years |
-
-**PR友好度: 较低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with keen hearing and excellent musical sense
-- Person who is meticulous, patient, and good at collaboration
+- 听力敏锐且乐感极佳的人
+- 细心、耐心且善于协作的人
 
 **谁不适合**
-- Person who prefers regular working hours
-- Person sensitive to noise or with weak hearing
+- 偏好固定工作时间的人
+- 对噪音敏感或听力较弱的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a sound/recording engineer?**
-答：Depending on experience, entry-level: 24-32 million KRW, mid-level: 35-50 million KRW, senior: 50-80 million KRW. Large difference between freelancers and permanent employees.
+**问：音/录音工程师的平均薪资是多少？**
+答：根据经验，入门级：2400-3200万韩元，中级：3500-5000万韩元，高级：5000-8000万韩元。自由职业者和正式员工差距大。
 
-**问：What visa does a foreigner need to work as a sound/recording engineer in Korea?**
-答：E-7 visa required for specialized fields, with important experience and degree proof. D-10 visa can be converted for job seeking after study.
+**问：外国人在韩国担任音响/录音工程师需要什么签证？**
+答：专业领域需要E-7签证，经验与学历证明很重要。D-10签证可在学习后转换为求职签证。
 
-**问：What is the long-term outlook for this occupation?**
-答：Demand is expected to persist due to growth in OTT and the live performance market, but AI automation and advancements in recording technology may replace some tasks. Creative mixing and on-site experience are crucial.
+**问：这个职业的长期前景如何？**
+答：由于OTT和现场演出市场的增长，需求预计将持续，但AI自动化和录音技术的进步可能会取代部分任务。创意混音和现场经验至关重要。
 
 
 ---
@@ -141,12 +134,12 @@ Typically starts at broadcasting stations, recording studios, or as a freelancer
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★★☆☆） |
-| PR友好度 | 较低（★★☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sound-and-recording-technician/KR)**

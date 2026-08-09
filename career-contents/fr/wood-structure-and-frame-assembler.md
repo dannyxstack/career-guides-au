@@ -4,8 +4,6 @@
 
 Responsible for on-site assembly and installation of wooden components such as wooden houses, frames, and roof trusses, using power tools and lifting equipment to ensure structural stability and compliance with drawing specifications.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for on-site assembly and installation of wooden components such as w
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Due to the significant impact of AI and automation, conventional timber structure installation tasks are easily replaced, but on-site adaptability and high-precision operations still require humans, causing overall job shortages.
-
 You can start as an apprentice or CAP, and gradually advance to team leader or project supervisor. After accumulating experience, they can shift to timber engineering calculations or quality control, or start their own business to undertake subcontracted projects.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can start as an apprentice or CAP, and gradually advance to team leader or p
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | For employer-sponsored work residence, it must prove that there is no suitable candidate locally in France |
-| Subclass Passeport Talent (Talent Passport) | If your annual salary exceeds €36,500, you can apply, but carpentry usually finds it difficult to meet the requirements |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to site supervisor, project leader, or start your own bus
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-structure-and-frame-assembler/FR)**

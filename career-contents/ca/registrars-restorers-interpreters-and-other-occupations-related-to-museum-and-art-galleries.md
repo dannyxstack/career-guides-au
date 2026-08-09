@@ -51,8 +51,6 @@ Engage in collection registration, restoration, conservation, exhibition plannin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Archives management has a high risk of automation; AI can already replace a lot of basic work in classification, metadata extraction, and digital archiving. Entry-level positions are shrinking, but expert appraisal and curation skills still provide a moat.
-
 Career progression usually starts as assistant or technician. With experience, can advance to senior restorer, registration supervisor, or curator, and some may move into management or research roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression usually starts as assistant or technician. With experience, c
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, BC) offer provincial nomination for immigration, requiring a job offer or relevant experience |
 | Subclass LMIA (Labour Market Impact Assessment) | If employer-sponsored, you can apply for permanent residence after obtaining an LMIA work permit |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Although not mandatory, the Canadian Association for Conservation (CAC) offer
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/registrars-restorers-interpreters-and-other-occupations-related-to-museum-and-art-galleries/CA)**

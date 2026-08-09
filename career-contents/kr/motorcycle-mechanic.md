@@ -4,8 +4,6 @@
 
 A professional technician who inspects, repairs, and adjusts various parts of motorcycles—such as engines, transmissions, and brakes—to maintain safe and smooth operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional technician who inspects, repairs, and adjusts various parts of mo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI and automation will be limited to the introduction of some diagnostic tools; actual repair, disassembly, and assembly work require human hands, making complete replacement difficult. However, adaptation to technological changes in electric motorcycles is necessary.
-
 Apprentice at small repair shop → Obtain technician certification → Skilled mechanic → Shop manager/owner or independent startup. Can advance to dealership or manufacturer A/S centers, or transition into quality control, technical training, etc.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Apprentice at small repair shop → Obtain technician certification → Skilled 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Some repair shops may hire non-professional workers, but limited due to skill requirements |
-| Subclass E-7 (E-7 (Specific Activities)) | Available for professionals with certification and experience |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans can work in repair industry |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Electric motorcycles reduce engine repair and require battery/motor-related t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-mechanic/KR)**

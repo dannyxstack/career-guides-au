@@ -52,8 +52,6 @@ Technicians performing analytical testing, quality control, sample preparation, 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-The work of chemical technicians will see divergence: routine analysis and clerical tasks face automation threats, but experimental design, anomaly analysis, and cross-disciplinary collaboration skills are enhanced by AI; overall occupational risk is moderate.
-
 Junior technicians can be promoted to senior analysts, laboratory supervisors, or quality managers. By pursuing a master's degree in chemical engineering or analytical chemistry, you can transition to R&D or management positions. Continuous learning of new technologies (such as chromatography and mass spectrometry) helps with career development.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians can be promoted to senior analysts, laboratory supervisors, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to technical positions (chemical engineering-related) with a bachelor's degree or above, annual salary of approximately €33,908 or above (2023 standard). |
-| Subclass Cuenta ajena (Work permit (employed)) | A contract must be provided by a Spanish employer and a work permit must be applied for, proving that the position cannot be filled by a local employee (non-urgently required occupation, subject to employment agency testing). |
-| Subclass Altamente cualificad (Highly Skilled Professional (Ley 14/2013)) | Suitable for higher education (master's degree or above) or management/technical positions, with an annual salary of no less than €40,000 (2023 standard) and a faster process. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Typically, a bachelor's degree in chemistry or analytical chemistry related t
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/industrial-chemistry-laboratory-technicians-and-analysts/ES)**

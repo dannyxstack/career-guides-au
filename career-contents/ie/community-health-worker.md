@@ -52,8 +52,6 @@ Community health workers provide health promotion, preventive care, and basic cl
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Community health workers' core value lies in interpersonal trust and localized services; AI cannot easily replace their emotional support and community liaison functions. However, administrative tasks such as data management and educational material generation will be greatly enhanced by AI, requiring practitioners to shift to higher-value personalized guidance roles.
-
 Can advance to senior community health worker, team leader, or health promotion specialist. Some may further study to become registered nurses or public health professionals.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance to senior community health worker, team leader, or health promotion 
 | Subclass EU Blue Card (EU Blue Card) | For high-skilled workers earning at least 1.5 times the Irish average annual salary |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Applicable for shortage occupations on the occupation list, with an annual salary meeting a certain threshold. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must hold a QQI Level 5 certificate, CPR/first aid certificate, and child pro
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/community-health-worker/IE)**

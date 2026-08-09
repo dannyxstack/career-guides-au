@@ -52,8 +52,6 @@ Interpreters provide language conversion services in meetings, legal, medical, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Interpreters face competition from AI real-time translation tools, but high-difficulty conferences and legal/medical fields still require human judgment; mixed prospects.
-
 Entry-level interpreters can start with community interpreting, gain experience, then move to specialized fields (e.g., court, medical), or become conference interpreters. Experienced interpreters can advance to team lead or start freelance agencies, increasing income.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level interpreters can start with community interpreting, gain experience,
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Interpreters are not on the primary Green List but may apply through the T2 pathway, requiring employer sponsorship. |
 | Subclass AEWV (Accredited Employer Work Visa) | If no immigration plan, can apply for a temporary work visa through an accredited employer, requiring employer sponsorship |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: NAATI certification is most common, but New Zealand local interpreting certif
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/interpreter/NZ)**

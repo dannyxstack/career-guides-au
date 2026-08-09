@@ -1,10 +1,8 @@
-# Ship Captain (excluding fishing vessels) 职业分析 · 日本
+# 船长（不含渔船）（Ship Captain (excluding fishing vessels)）职业分析 · 日本
 
-**职业代码: 621 (JSCO)**
+**职业代码：621 (JSCO)**
 
-Responsible for commanding and navigating cargo ships, passenger ships, etc., ensuring safe operation and management of crew and cargo.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责指挥和导航货船、客船等，确保安全操作及船员与货物管理。
 
 
 ---
@@ -13,9 +11,9 @@ Responsible for commanding and navigating cargo ships, passenger ships, etc., en
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| National Maritime College / Merchant Marine College | 5年 | $500,000~$3,000,000（Low at national schools, higher at private ones） |
-| Short-term Maritime Technical College | 2 年 | $200,000~$1,000,000（Practice-focused） |
-| Work experience + seafarer exam | 3~5年 | $100,000~$300,000（Exam fees, etc.） |
+| 国家海事学院/商船学院 | 5年 | $500,000~$3,000,000（国立学校低，私立学校高） |
+| 短期海运技术学院 | 2 年 | $200,000~$1,000,000（注重实践） |
+| 工作经验+海员考试 | 3~5年 | $100,000~$300,000（考试费等。） |
 
 ---
 
@@ -23,18 +21,18 @@ Responsible for commanding and navigating cargo ships, passenger ships, etc., en
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 1st Grade Seafarer (Navigation) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for large ship captains |
-| 2nd Grade Seafarer (Navigation) | Ministry of Land, Infrastructure, Transport and Tourism | 必备 | Required for medium ship captains |
-| 1st Grade Small Vessel Operator | Ministry of Land, Infrastructure, Transport and Tourism | 可选 | Useful for small boat captains |
+| 一级海员（航海） | 国土交通省 | 必备 | 大型船舶船长需持有 |
+| 二级海员（航海） | 国土交通省 | 必备 | 中型船舶船长必须持有 |
+| 一级小型船舶操作员 | 国土交通省 | 可选 | 对小船船长有用 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 35,000. The maritime industry faces a serious seafarer shortage, with demand for domestic ship captains remaining strong. New hiring is expected to proceed as replacements for an aging workforce.
+**职位需求量：很高（★★★★½）** 全国从业人数约 35,000。海事行业面临严重海员短缺，国内船长需求持续强劲。预计新招聘将作为老龄化劳动力的替代进行。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,92 +40,84 @@ Responsible for commanding and navigating cargo ships, passenger ships, etc., en
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (Deck Officer) | $4,000,000~$6,000,000 | Salary varies by ship owner |
-| Mid-level (Chief Officer to Small Ship Captain) | $6,000,000~$9,000,000 | 5-10 years experience |
-| Advanced (Large vessel captain) | $10,000,000~$15,000,000 | Annual salary; higher on international routes |
+| 初级（甲板高级船员） | $4,000,000~$6,000,000 | 薪资因船东而异 |
+| 中级（大副至小型船长） | $6,000,000~$9,000,000 | 5-10年经验 |
+| 高级（大型船舶船长） | $10,000,000~$15,000,000 | 年薪；国际航线更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 很低（½☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：很低（½☆☆☆☆）**
 
-AI technologies like auto-navigation and electronic charts complement and enhance a captain's work, but human captains are essential for final decisions and emergency response. Risk of AI replacement is low; instead, it evolves to support safe operations.
+自动驾驶和电子海图等AI技术辅助并增强船长工作，但最终决策和应急处理仍需人类船长。被AI替代的风险低，反而助力安全运营。
 
-After serving as a deck officer and chief officer, one can advance to captain. With experience, one may captain large ships or international routes, or transition to shore-based maritime management.
+在担任甲板官和副船长后，可以晋升为船长。经验丰富后，可能驾驶大型船舶或国际航线，或转向岸基海事管理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple route planning
-- Routine maneuvering
+- 简单路线规划
+- 常规操作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Collision avoidance decisions
-- Utilizing weather and sea forecasts
-- Risk assessment
+- 防碰撞决策
+- 利用天气和海洋预报
+- 风险评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Ethical judgment
-- Emergency response
-- Crew leadership
+- 道德判断
+- 应急响应
+- 船员领导力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Understanding AI navigation systems
-- Data analysis
-- Communication skills
+- 理解AI导航系统
+- 数据分析
+- 沟通能力
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Crew shortage
-- Coastal shipping
-- Leadership
-- Ship handling skills
+- 人员短缺
+- 沿海航运
+- 领导层
+- 船舶操控技能
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applies when a foreign captain works for a Japanese shipping company. Requires university-level education or practical experience. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not applicable at present. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii)) | Not applicable at present. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with leadership
-- People with strong sense of responsibility
-- People interested in navigation and machinery
+- 具有领导力的人
+- 责任感强的人
+- 对导航和机械感兴趣的人
 
 **谁不适合**
-- People prone to seasickness
-- People who easily feel lonely
+- 容易晕船的人
+- 容易感到孤独的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a ship captain?**
-答：It depends on experience and ship size; entry-level is ¥4-6 million, mid-level ¥6-9 million, and large ship captains around ¥10-15 million.
+**问：船长年收入是多少？**
+答：视经验和船舶大小而定；入门级400-600万日元，中级600-900万日元，大型船舶船长约1000-1500万日元。
 
-**问：What visa does a foreigner need to work as a ship captain in Japan?**
-答：The 'Engineer/Specialist in Humanities/International Services' visa is common. A university degree or 10+ years of practical experience is required. Specified Skilled Worker is not applicable.
+**问：外国人在日本担任船长需要什么签证？**
+答：“工程师/人文/国际服务专家”签证常见。要求大学学位或10年以上实践经验。特定技能工人不适用。
 
-**问：What are the typical career paths to become a ship captain?**
-答：Common routes include studying at a marine technical college or merchant marine high school, gaining experience as a navigator, obtaining a maritime officer license, and advancing through promotion.
+**问：成为船长的典型职业路径是什么？**
+答：常见途径包括就读海运技术学院或商船高中，积累航海经验，获得海事官员执照，并通过晋升提升。
 
 
 ---
@@ -145,12 +135,12 @@ After serving as a deck officer and chief officer, one can advance to captain. W
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 很低（½☆☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/ship-captain-excluding-fishing-vessels/JP)**

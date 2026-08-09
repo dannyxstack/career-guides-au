@@ -53,8 +53,6 @@ Operating, maintaining, and managing public utility facilities such as water, el
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Waste and utilities workers face mixed prospects: AI and automation will take over data monitoring and fault diagnosis, but complex tasks like on-site repairs and emergency response still require human workers. Overall demand remains stable, though competition for entry-level roles may increase.
-
 Can advance from operator to technical supervisor, department manager, or through further study to become an environmental engineer or energy management specialist, with clear career paths.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from operator to technical supervisor, department manager, or throug
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Professional qualification recognition must be obtained from the relevant Ger
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/waste-management-and-utilities-worker/DE)**

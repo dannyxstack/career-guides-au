@@ -52,8 +52,6 @@ Orthotists or prosthetists design, fabricate and fit orthoses or prostheses to h
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate some standardized measurement and documentation tasks, but core human-machine collaboration, custom design and handcraft skills still rely on humans—a mixed outlook.
-
 Career path: Starting as a junior technician, gaining experience to advance to senior orthotist/prosthetist, team leader, or clinical specialist. Also possible to move into R&D, teaching, or private practice.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career path: Starting as a junior technician, gaining experience to advance to s
 | Subclass 186 (Employer Nomination Scheme visa) | Employer-sponsored permanent residence visa requiring employer nomination |
 | Subclass 190 (Skilled Nominated visa) | State-nominated skilled migration visa, requiring state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: This occupation is on the MLTSSL and can sponsor visas such as 189, 190, 482,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/orthotist-or-prosthetist/AU)**

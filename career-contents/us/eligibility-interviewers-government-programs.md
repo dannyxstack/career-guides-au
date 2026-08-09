@@ -53,8 +53,6 @@ Assess eligibility for individual government benefits (e.g., unemployment relief
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Government project qualification interviewer roles rely heavily on rules and interpersonal communication; AI can automate document review and initial screening, but final decisions and complex situations still require human judgment; the role will transform rather than disappear.
-
 Can progress from entry-level interviewer to senior interviewer, team leader, or policy analyst, or transition to social work or public administration.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can progress from entry-level interviewer to senior interviewer, team leader, or
 | Subclass H-1B (H-1B Specialty Occupation) | Not typically applicable, as this position does not require high educational qualifications and does not meet professional occupation standards |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | In rare cases, may apply through a labor certification, but employer sponsorship is difficult |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Mainly interviewing applicants, reviewing documents and data entry, assessing
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/eligibility-interviewers-government-programs/US)**

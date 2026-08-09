@@ -52,8 +52,6 @@ Dental assistants support dentists in chairside procedures, instrument sterilisa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Repetitive chairside operations and administrative tasks for dental assistants are easily automated by AI, but patient communication and clinical judgment still require humans; entry-level positions may significantly shrink due to automation.
-
 Can progress to senior dental assistant, clinic coordinator, or Practice Manager roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress to senior dental assistant, clinic coordinator, or Practice Manager
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -143,12 +139,13 @@ A: No, this is a non-skilled migration occupation.
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-assistant/AU)**

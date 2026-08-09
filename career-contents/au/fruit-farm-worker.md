@@ -53,8 +53,6 @@ Fruit farm workers are responsible for picking, grading, and packing fruit, as w
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Fruit farm workers face a double-edged sword of automation and AI: repetitive tasks like picking and grading are gradually replaced by machines, but AI-driven precision agriculture and data analysis will enhance planting decisions and quality management. Total job demand may decline, but skill requirements will increase.
-
 Can advance to farm supervisor or farm manager, but usually requires many years of experience. Some workers shift to horticulture or agricultural technology roles, but career paths are limited.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to farm supervisor or farm manager, but usually requires many years 
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: High seasonal demand, especially during harvest. Long-term demand is unstable
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-farm-worker/AU)**

@@ -53,8 +53,6 @@ Responsible for the installation, maintenance, and troubleshooting of computer h
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
-
 You can be promoted from junior technician to senior engineer or team leader, or switch to professional paths such as cybersecurity or cloud services. After obtaining a BTS or licence, you can obtain a higher diploma through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,17 +98,9 @@ You can be promoted from junior technician to senior engineer or team leader, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | For employed residence, you need a work contract with a French company, with salary at least 1.5 times the French minimum wage. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | The Talent Passport, for highly skilled personnel, requires an annual salary of no less than approximately 53,000 euros or a master's degree or above |
-| Subclass Carte bleue UE (Carte Bleue Européenne (EU Blue Card)) | EU Blue Card, requires a work contract and an annual salary of no less than approximately 53,000 euros (2025 standard) |
-| Subclass Recherche emploi (Recherche d'Emploi (Job Search)) | Graduate job seeking residence is available to those who have obtained a master's degree or above in France, valid for 12 months |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +144,12 @@ A: You can be promoted to IT Support Supervisor, System Administrator, or switch
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-and-office-equipment-maintenance-technician/FR)**

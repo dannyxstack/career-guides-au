@@ -51,8 +51,6 @@ Accommodation advisors in Canadian schools or institutions oversee boarding faci
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core of the accommodation advisor role is interpersonal care and behavior management. AI finds it hard to replace on-site emotional support, but administrative and monitoring tasks will be greatly enhanced by AI. Career prospects tend to be amplified rather than compressed.
-
 Can advance to dormitory supervisor, student affairs manager, or consultant, or transition to education support roles. Requires accumulating experience and obtaining relevant education or counseling qualifications.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance to dormitory supervisor, student affairs manager, or consultant, or 
 | Subclass PNP (Provincial Nominee Program) | Apply through PNP programs like Ontario or British Columbia, requiring a job offer or relevant experience; get 600 points after provincial nomination. |
 | Subclass AIP (Atlantic Immigration Program) | Applicable to the Atlantic Immigration Program (employer sponsorship), requires 1 year work experience and employer offer. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Usually requires a community college diploma or bachelor's degree, with relat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/residential-counsellor/CA)**

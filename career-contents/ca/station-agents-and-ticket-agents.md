@@ -53,8 +53,6 @@ In Canada (e.g., VIA Rail, GO Transit), responsible for station operations, pass
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will automate ticketing and inquiry tasks, but security patrols, customer service, and emergency handling still need humans; roles shift toward service and safety management.
-
 Can advance from frontline station agent to regional supervisor, passenger manager, or safety coordinator. Senior staff can move to scheduling, training, or policy-making roles. Some organizations offer internal promotion paths.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from frontline station agent to regional supervisor, passenger manag
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Major transit hubs: Toronto (GO Transit/TTC), Vancouver (SkyTrain/TransLink),
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/station-agents-and-ticket-agents/CA)**

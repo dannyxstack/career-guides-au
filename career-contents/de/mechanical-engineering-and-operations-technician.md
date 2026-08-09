@@ -52,8 +52,6 @@ Engaging in mechanical engineering and equipment operation technical work, inclu
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of industrial engineers will undergo significant restructuring: data analysis and process simulation tasks are greatly enhanced by AI, but the core design, communication, and judgment responsibilities of integrating human-machine systems remain hard to replace, resulting in a mixed outlook.
-
 Career development path: from technician to senior technician, team leader, or project engineer; further study can lead to design or management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development path: from technician to senior technician, team leader, or p
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to skilled workers with professional qualifications (e.g., dual training) or bachelor's degree. Requires a German employer contract and certified qualifications. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system, allows entry to Germany before finding a job. Requires a bachelor's degree or vocational qualification, and proficiency in German or English. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can advance to senior technician, project engineer, or manager, or upgrade th
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-engineering-and-operations-technician/DE)**

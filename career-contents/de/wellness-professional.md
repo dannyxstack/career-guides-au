@@ -53,8 +53,6 @@ Engaged in wellness services such as spa, massage, beauty, and health consulting
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of a wellness therapist relies heavily on interpersonal interaction and manual skills, making it difficult for AI to fully replace. However, AI will significantly change the way work is done through smart devices, online consultations, and automated management tools, compressing some tasks while also improving efficiency and enabling personalized services.
-
 Can advance from junior assistant to senior therapist, department head, or start a wellness center, requiring continuous education.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from junior assistant to senior therapist, department head, or start
 | Subclass Skilled Worker (Skilled Worker Visa) | Must obtain a German employer contract and qualification certification, applies to training positions that match qualifications |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, seeking job opportunities, suitable for those with industry experience |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can advance from assistant to therapist or supervisor, or further study to be
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wellness-professional/DE)**

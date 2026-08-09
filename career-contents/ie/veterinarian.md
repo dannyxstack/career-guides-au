@@ -51,8 +51,6 @@ Veterinarians are responsible for the diagnosis, treatment, and prevention of an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The veterinary industry faces mixed impacts from AI: tasks such as diagnostic imaging analysis and medical record keeping are highly automated, but core skills like surgical procedures, clinical judgment, and client communication are hard to replace; overall demand remains strong due to the pet economy and talent shortages.
-
 Clinical veterinarians can transition to veterinary public health, food inspection, research, or management roles. After registration, they can open a private clinic or enter the pharmaceutical industry.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Clinical veterinarians can transition to veterinary public health, food inspecti
 | Subclass General Employment P (General Employment Permit) | For positions not in shortage but meeting salary threshold, requires labour market test |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-paid positions, with an annual salary threshold of approximately €64,000, allowing family accompaniment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Need to complete a 5-year accredited veterinary medicine bachelor's degree an
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinarian/IE)**

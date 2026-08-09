@@ -4,8 +4,6 @@
 
 Plumbers are responsible for installing, repairing, and maintaining water supply, drainage, heating, and gas systems, involving residential, commercial, and industrial buildings.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Plumbers are responsible for installing, repairing, and maintaining water supply
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core tasks for plumbers (diagnosis, manual operations) are not easily replaced by AI, but AI tools can greatly enhance troubleshooting and maintenance efficiency; At the same time, intelligent systems may compress some initial installation and documentation tasks, resulting in mixed outcomes.
-
 Starting as an apprentice or intermediate FP, you can gain experience and be promoted to foreman or self-employed contractor. Further studies can be directed toward project management or technical supervisors at construction companies.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Starting as an apprentice or intermediate FP, you can gain experience and be pro
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer-Sponsored)) | Employed work residence requires employer sponsorship, applicable to cases where a Spanish company employs you. |
-| Subclass Tarjeta azul UE (EU Blue Card) | The EU Blue Card requires high skill levels; plumbers usually do not meet the requirements; employers can try it but it is challenging. |
-| Subclass Busqueda empleo (Job Search Visa) | The work-finding visa allows you to stay in Spain for 6 months to look for work, and after finding one, you can switch to work-based residence. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: At least an FP Grado Medio diploma or equivalent certification is required. A
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumber/ES)**

@@ -53,8 +53,6 @@ Operate machines in paper or pulp mills, monitor production processes, handle ra
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Paper and pulp mill workers face mixed impacts from AI and automation: automation will take over repetitive operations and quality checks, but equipment maintenance and anomaly handling still require humans; jobs will not disappear but will transform.
-
 Can advance from ordinary operator to senior operator, team leader, or production supervisor; can also transition to maintenance or quality inspection roles, requiring experience and factory training.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance from ordinary operator to senior operator, team leader, or productio
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: With experience and on-the-job training, you can advance to team leader or pr
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/paper-and-pulp-mill-worker/AU)**

@@ -51,8 +51,6 @@ Responsible for overseeing and controlling transport operations, such as railway
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The tasks of a transport operations supervisor present a mixed picture: repetitive scheduling and monitoring are easily replaced by AI, but accident response, cross-departmental coordination, and strategic decisions still rely on human experience, requiring active adoption of AI tools to improve efficiency.
-
 Can progress from dispatcher to team leader, operations manager, then regional transport director. Requires experience and advanced qualifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from dispatcher to team leader, operations manager, then regional t
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to dual-system training or bachelor's degree graduates; a work contract is sufficient for application. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entry to find work if not already employed. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: If you hold a non-German qualification, you may need to go through credential
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traffic-operations-manager/DE)**

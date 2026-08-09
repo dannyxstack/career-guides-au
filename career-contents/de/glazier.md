@@ -54,8 +54,6 @@ Glaziers cut, install, repair, and replace glass for windows, doors, curtain wal
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Glass installers are overall limitedly affected by AI; physical installation work is hard to automate, but design optimization and project management tasks are AI-enhanced, while entry-level competition intensifies.
-
 Can advance from skilled worker to foreman or project manager, or become a glass technology specialist or self-employed through continuing education. Some transition to building materials sales or quality inspection.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can advance from skilled worker to foreman or project manager, or become a glass
 | Subclass Skilled Worker (Skilled Immigration Act) | Requires qualification certification, employer sponsorship, suitable for dual-system graduates. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, usable for job seeking and qualification certification, but must meet conditions such as language |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from skilled worker to master, or move into project management, 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/glazier/DE)**

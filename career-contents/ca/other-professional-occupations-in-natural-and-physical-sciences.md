@@ -52,8 +52,6 @@ Covers biologists, chemists, environmental scientists, etc., engaged in research
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on this occupation is mixed: basic data collection and report generation tasks are threatened by automation, but AI enhances complex modeling and interdisciplinary analysis capabilities; experimental design and regulatory compliance still require human judgment.
-
 Career paths can start as assistant researcher or technician, progressing to senior scientist, project supervisor, or lab manager. Some transition to policy analysis or sales, requiring ongoing study to stay competitive.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career paths can start as assistant researcher or technician, progressing to sen
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations such as BC PNP Tech Pilot, Ontario Human Capital, requiring employer sponsorship or education. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, suitable for applicants with a job offer from an employer. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Outlook is stable, with growing demand in environmental and biotechnology sec
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-professional-occupations-in-natural-and-physical-sciences/CA)**

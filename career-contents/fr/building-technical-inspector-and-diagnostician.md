@@ -4,8 +4,6 @@
 
 Responsible for technical testing and diagnosis of building structures, energy efficiency, asbestos, termites, and other areas, issuing statutory reports to ensure building compliance and safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for technical testing and diagnosis of building structures, energy e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The tasks of building technology inspection and diagnostics personnel heavily rely on on-site physical inspections and statutory responsibilities, making it difficult for AI to fully replace them. However, cognitive tasks such as report generation and data analysis will be automated, presenting a mixed outlook for the position.
-
 You can be promoted from junior inspector to senior expert or team leader, or open an independent firm. Holding a CQP or BTS can earn you a higher-level certification.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ You can be promoted from junior inspector to senior expert or team leader, or op
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee) Work Permit) | Sponsored by a French employer, requires a French employment contract and approval from the Labor Department. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for high-skilled or innovative projects, streamlining processes. |
-| Subclass EU Blue Card (EU Blue Card (Carte Bleue Européenne)) | High-paying or in-demand occupations (inspectors usually do not meet the high salary requirements). |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Required: CQP diagnostician certificate (such as asbestos, energy). Suggestio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-technical-inspector-and-diagnostician/FR)**

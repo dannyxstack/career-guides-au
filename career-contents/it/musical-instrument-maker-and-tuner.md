@@ -4,8 +4,6 @@
 
 Profession in Italy involving the making, repair and tuning of musical instruments, including pianos, string instruments, wind instruments, etc., mostly custom or restoration work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Profession in Italy involving the making, repair and tuning of musical instrumen
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Musical instrument makers and tuners in Italy face mixed AI impact: automated tools aid tuning and design, but handcraft and personalized services are hard to replace; overall demand stable but entry barriers rise.
-
 Career path usually starts as an apprentice or instrument repair shop assistant, gradually becoming an independent craftsman or tuner. Experienced individuals can open their own studios or specialize in specific instruments (e.g., violin, piano).
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Career path usually starts as an apprentice or instrument repair shop assistant,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to high-skilled occupations, but musical instrument makers typically do not meet the salary threshold. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi (Work visa quota)) | Non-EU citizens must apply through annual quotas, but self-employment or artistic work may apply. |
-| Subclass Self-Employment Visa (Lavoro Autonomo) (Self-employment visa) | Self-employed musical instrument makers can apply, requiring proof of economic independence and professional skills. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: Can apply through self-employment visa, requiring submission of business plan
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musical-instrument-maker-and-tuner/IT)**

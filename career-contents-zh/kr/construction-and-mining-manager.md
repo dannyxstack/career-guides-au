@@ -1,10 +1,8 @@
-# Construction and Mining Manager 职业分析 · 韩国
+# 建筑与采矿经理（Construction and Mining Manager）职业分析 · 韩国
 
-**职业代码: 01611 (KECO)**
+**职业代码：01611 (KECO)**
 
-A managerial professional responsible for planning, directing, and supervising all operations at construction or mining sites, ensuring safety and quality.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+负责规划、指导和监督建筑或采矿现场所有运营的管理专业人员，确保安全和质量。
 
 
 ---
@@ -13,8 +11,8 @@ A managerial professional responsible for planning, directing, and supervising a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (Construction and Civil Engineering) | 2 年 | $3,000,000~$8,000,000（Tuition (National/Public)） |
-| University (Architecture and Civil Engineering) | 4年 | $6,000,000~$12,000,000（Tuition (National/Public)） |
+| 专科（建筑与土木工程） | 2 年 | $3,000,000~$8,000,000（学费（国立/公立）） |
+| 大学（建筑与土木工程） | 4年 | $6,000,000~$12,000,000（学费（国立/公立）） |
 
 ---
 
@@ -22,18 +20,18 @@ A managerial professional responsible for planning, directing, and supervising a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Essential certification for safety management at construction sites |
-| 土木工程师 | Human Resources Development Service of Korea | 可选 | Engineering certification in civil engineering |
-| Architectural Engineer | Human Resources Development Service of Korea | 可选 | Essential certification in architecture |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 建筑工地安全管理必备认证 |
+| 土木工程师 | 韩国人力资源开发服务局 | 可选 | 土木工程认证 |
+| 建筑工程师 | 韩国人力资源开发服务局 | 可选 | 建筑领域必备认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 42,000. Short-term employment is likely to stagnate due to Korea's construction slowdown and population decline, but demand for specialized managers is expected to persist in large infrastructure, redevelopment, and overseas projects.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 42,000。由于韩国建筑业放缓及人口减少，短期就业可能停滞，但大型基础设施、再开发和海外项目中对专业管理人员的需求预计将持续。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,92 +39,84 @@ A managerial professional responsible for planning, directing, and supervising a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $35,000,000~$45,000,000 | Lower-tier at large companies ~ Entry-level at mid-sized companies |
-| Mid-level (4-9 years) | $50,000,000~$70,000,000 | Typical site manager level |
-| Senior-level (10+ years) | $75,000,000~$99,999,999 | Overall manager of large-scale sites |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 大型企业底层 ~ 中型企业入门级 |
+| 中级（4-9年） | $50,000,000~$70,000,000 | 典型的现场经理级别 |
+| 高级（10年以上经验） | $75,000,000~$99,999,999 | 大型场地总负责人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation don't directly replace construction/mining managers' work, but technologies like drones, BIM, and smart sensors greatly improve on-site monitoring and safety management efficiency, expanding the manager's role.
+AI和自动化不会直接取代建筑/采矿经理的工作，但无人机、BIM和智能传感器等技术大大提高了现场监控和安全管理效率，拓展了经理的职责。
 
-The typical career path is on-site technician → site manager → construction manager. Certifications such as Construction Safety Engineer and Civil Engineer, along with experience, are essential for advancing to senior positions in large corporations and public sector clients.
+典型职业路径为现场技术员→现场经理→施工经理。持有施工安全工程师和土木工程师等认证以及经验，对于晋升至大型企业和公共部门客户的高级职位至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing routine on-site inspection reports
-- Establishing basic plans and schedules
+- 编写常规现场检查报告
+- 制定基本计划和日程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Predicting on-site risks (AI safety diagnosis)
-- Optimizing material and workforce allocation (AI scheduling)
-- Automating quality inspections (drones, image analysis)
+- 现场风险预测（AI安全诊断）
+- 优化物料和人力分配（AI排程）
+- 自动化质量检测（无人机、图像分析）
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site leadership and decision-making
-- Fostering safety culture and crisis response
-- Legal/regulatory judgment and contract management
+- 现场领导与决策
+- 培养安全文化和危机应对
+- 法律/法规判断与合同管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Smart construction technology proficiency
-- Data analysis and AI collaboration skills
-- Digital twin/BIM understanding
+- 智慧施工技术熟练度
+- 数据分析与AI协作技能
+- 数字孪生/BIM理解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smart construction technology
-- Enhanced safety management
-- Redevelopment and reconstruction
-- Overseas plant orders
+- 智能建造技术
+- 加强安全管理
+- 再开发和重建
+- 海外工厂订单
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass F-2 (Residence (F-2)) | Eligible for long-term residence under the Skilled Worker Points System, construction manager experience recognized |
-| Subclass E-7 (Specific Activities (E-7)) | Targeting construction/engineering professionals, degree + experience required |
-| Subclass F-5 (Permanent Residence (F-5)) | Can apply for permanent residence after long-term stay, must pass points system |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with strong on-site leadership and decision-making skills
-- People with a strong sense of responsibility for safety and quality
-- People who can systematically manage long-term projects
+- 具有强大现场领导力和决策能力的人
+- 对安全和质量有强烈责任感的人
+- 能系统管理长期项目的人
 
 **谁不适合**
-- People who find it difficult to endure poor on-site environments such as outdoor or high-altitude work
-- People who are inflexible and lack improvisational response
+- 难以忍受户外或高空等恶劣现场环境的人
+- 缺乏灵活性且不擅长即兴应对的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a construction/mining manager?**
-答：Entry-level 35–45 million KRW, mid-level 50–70 million KRW, senior 75–120 million KRW, varies greatly by experience and project scale.
+**问：建筑/采矿经理的平均工资是多少？**
+答：入门级3500-4500万韩元，中级5000-7000万韩元，高级7500-12000万韩元，因经验和项目规模差异很大。
 
-**问：What visa does a foreigner need to work as a construction/mining manager?**
-答：Generally, an E-7 (Specific Activities) visa is required, and you must prove relevant degree and experience. Conversion to an F-2 (Residence) or F-5 (Permanent Residence) visa is also possible.
+**问：外国人从事建筑/矿业经理工作需要什么签证？**
+答：通常需要E-7（特定活动）签证，并需证明相关学历和经验。也可转换为F-2（居住）或F-5（永久居留）签证。
 
-**问：Is the construction safety engineer license mandatory?**
-答：It's not legally required, but it's expected for most construction site managers and advantageous for employment and promotion.
+**问：施工安全工程师证书是强制性的吗？**
+答：法律不强制要求，但大多数建筑工地经理都需要，且有利于就业和晋升。
 
 
 ---
@@ -144,12 +134,12 @@ The typical career path is on-site technician → site manager → construction 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/construction-and-mining-manager/KR)**

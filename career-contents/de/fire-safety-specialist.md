@@ -54,8 +54,6 @@ Responsible for fire safety supervision, fire prevention, and firefighting comma
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on firefighting specialists is mixed: automation can handle documentation, monitoring, and training simulations, but on-site command and investigation decisions still require human judgment. Thus, entry-level positions face pressure, but demand for senior specialists remains stable.
-
 From firefighter, can progress to team leader, fire captain, or through further study become a fire specialist or fire engineer, entering fire management or technical departments.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ From firefighter, can progress to team leader, fire captain, or through further 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Main pathway: obtain German-recognised fire protection qualification, find an
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-safety-specialist/DE)**

@@ -4,8 +4,6 @@
 
 Responsible for collection management, digitization, exhibition setup, and technical maintenance in museums, galleries, and libraries, assisting curators and librarians.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for collection management, digitization, exhibition setup, and techn
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will significantly automate tasks like digitisation, cataloguing, and exhibition layout, but managing physical artefact restoration, custom curation, and privacy handling remain human-led.
-
 Can advance from technician to senior technician or department head, or shift to areas like digital management or heritage conservation.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Can advance from technician to senior technician or department head, or shift to
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled migrants with a work contract; employer must be an accredited sponsor; salary must meet the threshold (approx. €5,008/month in 2024). |
-| Subclass EU Blue Card (EU Blue Card) | Targets highly educated professionals, requiring a salary above average (approx. €5,331/month in 2024), valid for 4 years. |
-| Subclass Orientation Year (Zo (Orientation Year) | Graduates from Dutch or Top 200 global universities can apply within 1 year after graduation, with a validity of 1 year for job seeking. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Typically requires MBO or HBO related qualifications, such as Cultural Herita
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/gallery-museum-and-library-technician/NL)**

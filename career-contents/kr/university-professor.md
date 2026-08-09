@@ -4,8 +4,6 @@
 
 A higher education expert who lectures on major subjects at universities, guides students, and conducts research and publishes papers in their academic field.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A higher education expert who lectures on major subjects at universities, guides
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI assists professors in research data analysis, draft paper writing, and lecture material creation, but core research idea generation and student mentoring remain human domains, limiting AI's impact.
-
 Promotion proceeds from Assistant Professor to Associate Professor to Full Professor, with research performance and teaching evaluations being crucial. Some move into administrative roles (department head, graduate school dean) or industry-academia collaboration positions.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Promotion proceeds from Assistant Professor to Associate Professor to Full Profe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-1 (Professor (E-1)) | Visa for education/research activities at universities, sponsored by employer |
-| Subclass E-7 (Specific Activities (E-7)) | Used by some universities for researchers or adjunct professors |
-| Subclass F-2 (Residence (F-2)) | Long-term stay possible via points system, precursor to permanent residence |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: After obtaining a master's and doctoral degree, it's important to gain postdo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/university-professor/KR)**

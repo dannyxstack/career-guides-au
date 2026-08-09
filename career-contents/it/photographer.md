@@ -4,8 +4,6 @@
 
 Photographers use professional cameras and lighting equipment to capture high-quality photos for events, commercial, portrait, or artistic work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Photographers use professional cameras and lighting equipment to capture high-qu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI's impact on photographers is mixed: basic retouching and batch processing are reduced, but AI enhances creative tools and personalized service; high-end commercial and artistic photography still rely on human aesthetics and communication, maintaining a moat.
-
 Progress from assistant to independent photographer, specializing in areas like weddings or commercial, or open a studio.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Progress from assistant to independent photographer, specializing in areas like 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Requires employer sponsorship, annual salary threshold about €24,000, applicable to senior photographers. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Quota system, applicable to non-EU skilled workers, requires employer application |
-| Subclass Self-Employed Work Permit (Self-Employment Visa) | Must demonstrate high skills and funds, suitable for freelance photographers |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Competitive, but digital media and social content creation bring new opportun
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/photographer/IT)**

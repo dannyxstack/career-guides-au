@@ -52,8 +52,6 @@ Nursing support workers and assistants help doctors, nurses, and other health pr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will replace some documentation and monitoring tasks, but core nursing demand remains strong; entry-level competition increases due to AI tools, but overall number of positions is supported by an ageing population.
-
 Start as a junior assistant, progress to senior care assistant or senior healthcare assistant through on-the-job training and NVQ qualifications; or choose further study to become a registered nurse.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as a junior assistant, progress to senior care assistant or senior healthc
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, salary no less than £26,200 (or current market rate) |
 | Subclass Graduate (Graduate visa) | For graduates who have completed a degree in the UK, allowing two years of work in the UK |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes. You can gain a degree through a Nursing Associate or Registered Nurse De
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-auxiliaries-and-assistants/UK)**

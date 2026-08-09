@@ -53,8 +53,6 @@ A brass instrument maker handcrafts, repairs, and tunes brass instruments such a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Copper wind instrument makers face a mixed impact from AI and automation: standardised manufacturing will be compressed, but high-end customisation, acoustic tuning, and repair—which rely on experience and hand skills—will be enhanced by AI, raising the career threshold and concentrating opportunities for tech-savvy talent.
-
 Start as an assistant technician, become a skilled worker through a 3-year dual vocational training program (Ausbildung), then advance to master craftsman (Meister) or run your own workshop.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Start as an assistant technician, become a skilled worker through a 3-year dual 
 | Subclass Recognition of Quali (Qualification Recognition Visa) | For qualification certification, can enter the country first to find an employer. |
 | Subclass EU Blue Card (EU Blue Card) | Usually not applicable, as salary may not meet the threshold |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must apply for qualification recognition (Anerkennung) from the German Chambe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brass-musical-instrument-maker/DE)**

@@ -53,8 +53,6 @@ Perform assigned, selected, or routine tasks under the close supervision of an o
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly reduce occupational therapy assistant roles, as many documentation, scheduling and basic therapy tasks can be taken over by AI, decreasing entry-level positions.
-
 Usually start as an assistant role, gain experience, and can advance to occupational therapy assistant or become an occupational therapist through further education.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as an assistant role, gain experience, and can advance to occupati
 | Subclass H-1B (H-1B Specialty Occupations) | Typically requires a bachelor's degree, but this occupation often does not meet that requirement and is rarely used. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Requires employer sponsorship, but difficult to obtain due to low occupational threshold. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: This occupation typically does not meet H-1B requirements (needs a bachelor's
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-therapy-aides/US)**

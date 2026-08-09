@@ -52,8 +52,6 @@ Financial and investment analysts provide financial planning, investment advice,
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Financial and investment analysts face mixed prospects: data collection, routine reporting, and simple analysis will become highly automated, but strategic advice, client trust, and complex judgment remain human strengths. Practitioners should quickly adopt AI tools and shift toward high-value decision support.
-
 Junior analysts can advance to senior consultants or portfolio managers; top performers may become partners or start their own wealth management firms. CFA, CFP certifications accelerate promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior analysts can advance to senior consultants or portfolio managers; top per
 | Subclass PNP (Provincial Nominee Program) | Obtain an additional 600 points through provincial nomination programs (e.g., Ontario, BC), suitable for those with insufficient scores. |
 | Subclass AIP (Atlantic Immigration Program) | If the employer is in the Atlantic provinces, can apply for the Atlantic Immigration Program. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Basic requirement is the Canadian Securities Course (CSC) mandatory in some p
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/financial-and-investment-analysts-1112/CA)**

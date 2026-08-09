@@ -55,8 +55,6 @@ Personal care assistants provide daily living support for elderly, disabled, or 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Can advance to home care coordinator or care supervisor by completing Certificate III or IV; some may pursue a nursing bachelor's degree after gaining experience to become a registered nurse.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance to home care coordinator or care supervisor by completing Certificat
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can progress to team leader, home care coordinator, nursing supervisor, or fu
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-care-assistant/AU)**

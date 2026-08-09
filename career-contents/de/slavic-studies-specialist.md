@@ -54,8 +54,6 @@ Slavic studies specialists research, teach, and translate Slavic languages, lite
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will greatly improve translation and data analysis efficiency, but core human understanding, cultural context interpretation, and interpersonal teaching are difficult to replace. Jobs will remain stable, requiring proactive adoption of technology tools.
-
 Career development typically starts with a PhD, progressing through postdoctoral researcher, lecturer to professor; can also pivot to applied fields such as translation, international relations, or cultural management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career development typically starts with a PhD, progressing through postdoctoral
 | Subclass Skilled Worker (Skilled Immigration Act) | Must have a recognized qualification and a German employer contract |
 | Subclass Job Seeker (Job Seeker Visa) | Allows job-seeking in Germany for 6 months, must support oneself financially |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typical path is from PhD to postdoc to professor at universities; alternative
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/slavic-studies-specialist/DE)**

@@ -53,8 +53,6 @@ Vegetable Growers are responsible for planning, planting, cultivating, and harve
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Vegetable farming is significantly compressed by automation; AI and robots will massively replace repetitive manual labor such as sowing, weeding, and irrigation. Entry-level positions will notably decrease, but high-end management, agronomic decision-making, and quality control roles remain protected.
-
 Career progression can start from farm assistant or operator, gradually advancing to farm supervisor, farm manager, and eventually farm owner or agricultural consultant. With experience, one can transition into organic farming or high-value crop cultivation.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Career progression can start from farm assistant or operator, gradually advancin
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is not on the MLTSSL, making independent skilled migration (1
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/vegetable-grower-aus-market-gardener-nz/AU)**

@@ -4,8 +4,6 @@
 
 Responsible for ticket sales, ticket inspection, passenger guidance, and safety checks on public transport (trains, trams, buses) to ensure smooth operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for ticket sales, ticket inspection, passenger guidance, and safety 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Routine tasks such as ticket sales and ticket checking face high automation risk, but passenger guidance, emergency handling, and human interaction still require human involvement; the number of positions may be reduced but will not disappear entirely.
-
 Can progress from junior ticket seller to train conductor or operations supervisor, some moving into dispatch or management roles, requiring experience accumulation and internal training.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Can progress from junior ticket seller to train conductor or operations supervis
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to transport management positions with salaries above the threshold; junior ticket sellers usually do not meet the standard |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch institutions or global top 200 universities can apply to work in any industry |
-| Subclass EU Blue Card (EU Blue Card) | High-skilled professional positions only; transport ticket sellers typically do not meet education and salary requirements |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Yes. You can be promoted to train manager, operations supervisor, or dispatch
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transport-conductor/NL)**

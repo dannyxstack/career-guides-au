@@ -53,8 +53,6 @@ Responsible for fabricating, installing, and repairing sheet metal products such
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Sheet metal workers face automation risks (e.g., CAD unfolding, laser cutting), but custom installation and complex repairs rely on manual skills that are hard for AI to fully replace.
-
 Starting as an apprentice, can become a skilled worker, supervisor, or start own sheet metal contracting company; also can progress into construction project management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Starting as an apprentice, can become a skilled worker, supervisor, or start own
 | Subclass General Employment P (General Employment Permit) | Requires employer sponsorship, annual salary no less than 30,000 euros, possible relaxation for shortage occupations |
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Need annual salary of at least €32,000 or €64,000, occupation must be on the shortage list; sheet metal workers are typically not included |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from apprentice to skilled worker, supervisor, project manager, 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sheet-metal-worker/IE)**

@@ -52,8 +52,6 @@ Supervise and coordinate staff and operations in accommodation, travel, tourism 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will assist supervisors in optimizing shift scheduling and customer service, but cannot replace their core responsibilities of on-site coordination, staff management, and crisis handling. Entry-level roles will shrink due to automated booking systems, but experienced supervisors remain protected.
-
 Can advance from front desk, reservations, etc. to supervisor, then to department manager or regional manager, with some transitioning to tourism planning or event management.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can advance from front desk, reservations, etc. to supervisor, then to departmen
 
 **PR friendliness: medium-high (★★★☆☆).**
 
-**PR difficulty: medium (★★★☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: The tourism industry is affected by economic cycles, but Canada's tourism sec
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accommodation-travel-tourism-and-related-services-supervisors/CA)**

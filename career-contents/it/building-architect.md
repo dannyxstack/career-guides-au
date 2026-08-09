@@ -52,8 +52,6 @@ Architectural designers are responsible for designing building plans, ensuring f
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Repetitive drafting and documentation tasks in architectural design face automation risks, but core skills like creative design, regulatory compliance, and client communication gain value through AI enhancement.
-
 Career path from junior designer to project manager, chief architect, can advance through experience and certification.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Career path from junior designer to project manager, chief architect, can advanc
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | High-skilled workers, requiring work contract and qualifications, with annual salary not less than €24,789 |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU countries, requires employer sponsorship, quota restrictions |
-| Subclass Nulla Osta (Nulla Osta) | Work permit, applied for by the employer, subject to the local labour market test |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +138,12 @@ A: Must obtain a contract from an employer and apply for an EU Blue Card or a De
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/building-architect/IT)**

@@ -53,8 +53,6 @@ This occupation covers slaughtering, fish processing, food cutting, and packagin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly reduce butcher positions, especially in human-machine collaborative cutting, inventory management, and hygiene monitoring; entry-level cutting worker demand decreases, but high-end custom and quality inspection roles still have human advantages.
-
 Start as an apprentice or entry-level worker, progress to senior butcher, department supervisor, or store manager through experience. Also transition to food inspection, wholesale management, or start your own butcher shop.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Start as an apprentice or entry-level worker, progress to senior butcher, depart
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is not on the shortage list. A general employment permit is a
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/butcher-fishmonger-and-related-food-preparer/IE)**

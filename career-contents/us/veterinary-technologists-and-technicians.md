@@ -53,8 +53,6 @@ Veterinary technologists perform medical tests on animals in a laboratory enviro
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Veterinarians face efficiency gains from AI-assisted diagnostic tools, but core clinical procedures, complex case judgment, and doctor-patient communication still require humans; overall risk is moderate, with entry-level roles slightly narrowing.
-
 Career advancement includes obtaining professional certifications (e.g., veterinary emergency care, anesthesia technician) to specialize, or promotion to head technician, veterinary technical supervisor, veterinary clinic manager, etc.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career advancement includes obtaining professional certifications (e.g., veterin
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Must pass the Veterinary Technician National Exam (VTNE) for state certificat
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/veterinary-technologists-and-technicians/US)**

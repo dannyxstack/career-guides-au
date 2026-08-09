@@ -4,8 +4,6 @@
 
 Pawnshops lend money against items deposited as collateral, and sell items if loans are not repaid. Requires appraisal skills and customer service.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Pawnshops lend money against items deposited as collateral, and sell items if lo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-While AI-assisted appraisal tools are being introduced, human sensitivity is still essential for building customer trust and making detailed condition judgments, so complete replacement is difficult. AI is expected to improve operational efficiency.
-
 First, gain experience as a staff member and learn appraisal techniques. Then there is a career path to store manager or independent owner. Qualifications in gem or brand item appraisal are advantageous.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ First, gain experience as a staff member and learn appraisal techniques. Then th
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires appraisal skills and management knowledge, along with certain work experience or academic background |
-| Subclass 特定活動 (Designated Activities (e.g., Working Holiday)) | Short-term work possible, but regular employment difficult |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Generally, one obtains certifications such as jewelry or brand item appraiser
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pawnshop-owner-staff/JP)**

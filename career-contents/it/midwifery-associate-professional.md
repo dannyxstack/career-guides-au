@@ -51,8 +51,6 @@ Midwife assistants assist registered midwives in the Italian healthcare system w
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of midwife assistant has mixed prospects: AI can automate administrative tasks like documentation and data tracking, but real-time monitoring, emotional support, and emergency handling in the delivery room still require human leadership. Overall demand is stable, but entry-level positions may tighten.
-
 Can advance from assistant to registered midwife (requires additional qualifications), or transition to community health management, education, or research roles.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can advance from assistant to registered midwife (requires additional qualificat
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card (Italy)) | Applicable to non-EU high-skilled workers, with an annual salary threshold of approximately €24,789, requiring a university degree or 5 years of relevant experience. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-managerial positions, requires employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta (Work Authorization)) | The employer applies for a work permit from the immigration department, and a work visa is issued after approval. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +143,12 @@ A: Yes, you need to complete additional university courses (e.g., 3-year bachelo
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/midwifery-associate-professional/IT)**

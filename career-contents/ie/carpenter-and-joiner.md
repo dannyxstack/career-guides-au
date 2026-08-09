@@ -52,8 +52,6 @@ Carpenters and joiners cut, shape, and install wooden structures and components 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation have mixed effects on carpentry: physical tasks like on-site formwork assembly are hard to automate, but cognitive tasks like design reading, measuring, and calculation are enhanced by AI. Entry-level jobs become easier due to AI tools, but core skills still require human judgment.
-
 Junior carpenters can advance to senior craftsmen, foremen or project managers; with experience, they can start their own business or specialise in high-skill areas like restoration and joinery.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior carpenters can advance to senior craftsmen, foremen or project managers; 
 | Subclass EU Blue Card (EU Blue Card) | Requires higher education qualifications, usually not applicable for carpentry |
 | Subclass Stamp 4 (EU Treaty R (EU Treaty Rights) | EU citizens have free movement rights and do not need work permits |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires completing a 4-year apprenticeship and obtaining a QQI Adv
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/carpenter-and-joiner/IE)**

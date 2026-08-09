@@ -52,8 +52,6 @@ In the Netherlands, drafters use CAD software to create technical drawings for a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-The core drafting tasks of a draftsman are being rapidly replaced by AI-driven generative design and automated modeling, leading to significant reduction in entry-level positions, but complex coordination and review still rely on humans.
-
 Draftspersons can advance from junior draftsperson to senior draftsperson, project coordinator, or design manager. By obtaining professional certifications (e.g., AutoCAD, Revit) and accumulating industry experience, they can move into more specialized areas such as Building Information Modeling (BIM).
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ Draftspersons can advance from junior draftsperson to senior draftsperson, proje
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (kennismigrant)) | Applicable to highly skilled migrants with employer sponsorship; salary must meet the threshold (approximately €4,500/month in 2025). |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to higher education qualifications plus high-salary positions, with a salary threshold of approximately €5,800/month. |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 world universities can apply for a one-year job-seeking visa. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: Typically requires an MBO (Intermediate Vocational Education) drafting diplom
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/draughtsperson/NL)**

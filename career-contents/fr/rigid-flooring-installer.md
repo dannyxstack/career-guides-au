@@ -53,8 +53,6 @@ Responsible for installing hard flooring materials such as tiles, marble, and gr
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Tile setting is a hybrid occupation: AI cannot replace on-site physical labor, but can assist in design, measurement, material optimization, etc.; low-end apprentice positions may decrease due to BIM and automation tools.
-
 You can grow from an apprentice to a skilled worker, then rise to foreman or self-employed contractor, or transition to project management or construction supervision roles.
 
 **Tasks most exposed to AI:**
@@ -97,16 +95,9 @@ You can grow from an apprentice to a skilled worker, then rise to foreman or sel
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for high-skilled or self-employed pavers; need to prove project experience or employment contract. Valid for 4 years, renewable. |
-| Subclass Salarié (Employee (Salarié)) | Work residence sponsored by a French employer requires a work permit (APT), valid for up to 1 year, and can be renewed. |
-| Subclass Recherche emploi (Job Seeker (Recherche emploi)) | Fresh French graduates can apply, valid for one year, to find jobs related to their major. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: CAP Carreleur Mosaïste is a basic industry diploma, highly recommended; no m
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/rigid-flooring-installer/FR)**

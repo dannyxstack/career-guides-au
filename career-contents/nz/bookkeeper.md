@@ -53,8 +53,6 @@ Bookkeepers handle daily accounts, reconciliations, invoices, payroll, and BAS r
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Bookkeeper roles face significant automation pressure: AI can already handle core tasks like invoice entry, reconciliation, and BAS reporting, reducing demand for entry-level positions. Need to transition to financial advisor
-
 Junior bookkeepers can advance to senior bookkeeper or accounting clerk; further development requires obtaining NZ Chartered Accountant (CA ANZ) or Certified Accounting Technician (CPA), transitioning to accountant. After gaining SME experience, they can also start their own business or engage in financial consulting.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior bookkeepers can advance to senior bookkeeper or accounting clerk; further
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Demand is stable, but automation (e.g., Xero AI) reduces low-end work; recomm
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bookkeeper/NZ)**

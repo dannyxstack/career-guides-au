@@ -53,8 +53,6 @@ Responsible for installation, maintenance, troubleshooting, and preventive maint
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 You can advance from junior maintenance technician to senior technician or team leader, or transition to electrical engineering or automation project management through continuing education.
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ You can advance from junior maintenance technician to senior technician or team 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Suitable for skilled workers who have already obtained a contract with a French employer and must pass the French Labor Authority's review |
-| Subclass Passeport Talent (Talent Passport) | For high-skilled talent, requires at least a bachelor's degree and annual salary higher than 2 times SMIC (about €35,000) |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for professionals with higher education (bachelor's or above) and an annual salary 1.5 times the French average wage (approx. EUR 53,000). Electrical maintenance roles typically do not meet this threshold. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: You can be promoted from technician to senior technician, team leader, or tra
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-maintenance-worker/FR)**

@@ -53,8 +53,6 @@ Responsible for repairing, welding, shaping, and surface treatment of vehicle bo
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Core physical repair work of auto body technicians is not easily replaceable in the short term, but AI-driven damage assessment, quoting, and process optimization will change work methods, increasing competition for entry-level positions and growing demand for high-end technicians.
-
 You can grow from an apprentice to a senior technician, then be promoted to workshop supervisor or open your own repair shop. We can also specialize in restoring high-end or vintage cars.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can grow from an apprentice to a senior technician, then be promoted to work
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié - Work permit) | Employed by a French company requires the employer to apply for a work permit, suitable for technicians with an employer sponsorship. |
-| Subclass Passeport Talent (Passeport Talent - Talent Passport) | Those with advanced skills or experience can apply for a talent passport valid for 4 years and may bring family members. |
-| Subclass Recherche emploi (Recherche d'emploi/création d'entreprise) | Foreign students graduating from France can apply for temporary residence to find jobs or start businesses. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: A CAP or Bac Pro diploma is usually required, which can be obtained through a
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/body-repairer/FR)**

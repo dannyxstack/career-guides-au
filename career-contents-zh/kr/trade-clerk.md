@@ -1,8 +1,8 @@
-# Trade Clerk 职业分析 · 韩国
+# 贸易文员（Trade Clerk）职业分析 · 韩国
 
-**职业代码: 02811 (KECO)**
+**职业代码：02811 (KECO)**
 
-A professional who performs overall international trade office tasks including export/import contract signing, customs clearance, shipping, and payment settlement.
+从事整体国际贸易办公室事务的专业人员，包括出口/进口合同签订、清关、运输和付款结算。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who performs overall international trade office tasks including e
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Associate's Degree | 2 年 | $15,000,000~$20,000,000（National/public university standard, private higher） |
-| 本科（学士学位） | 4年 | $30,000,000~$50,000,000（Average tuition for humanities/business majors） |
+| 副学士学位 | 2 年 | $15,000,000~$20,000,000（国立/公立大学标准，私立较高） |
+| 本科（学士学位） | 4年 | $30,000,000~$50,000,000（文科/商科专业平均学费） |
 
 ---
 
@@ -20,18 +20,18 @@ A professional who performs overall international trade office tasks including e
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| International Trade Specialist Level 1 | Korea International Trade Association | 可选 | Certifies trade practical competency, advantageous for employment |
-| Trade English Level 1 | Korea Chamber of Commerce and Industry | 可选 | English trade document writing ability |
-| Customs Broker | Human Resources Development Service of Korea | 可选 | Advanced professional qualification, performs customs clearance |
+| 国际贸易专员一级 | 韩国国际贸易协会 | 可选 | 认证行业实践能力，有利于就业 |
+| 贸易英语一级 | 大韩商工会议所 | 可选 | 英语贸易文件写作能力 |
+| 报关行 | 韩国人力资源开发服务局 | 可选 | 高级专业资格，办理海关清关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 210,000. Demand is steady due to Korea's high export dependency, but it is sensitive to global economic conditions and FTA changes. Digital transformation reduces simple tasks but increases demand for expertise.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 210,000。由于韩国高度依赖出口，需求稳定，但对全球经济状况和FTA变化敏感。数字化转型减少了简单任务，但增加了对专业知识的技能需求。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -39,96 +39,89 @@ A professional who performs overall international trade office tasks including e
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0-3 years) | $26,000,000~$32,000,000 | SME standard, higher for large corporations |
-| Mid (4-7 years) | $35,000,000~$45,000,000 | Median compared to general office jobs |
-| 高级（8年+） | $48,000,000~$65,000,000 | Managerial level, may include allowances |
+| 入门级（0-3年） | $26,000,000~$32,000,000 | 中小企业标准，大公司更高 |
+| 中级（4-7年） | $35,000,000~$45,000,000 | 与一般办公室工作相比处于中等水平 |
+| 高级（8年+） | $48,000,000~$65,000,000 | 管理层级，可能包括津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are replacing some tasks like trade document preparation, customs declaration, and data entry, but areas requiring human judgment and communication, such as negotiation, contract review, and customer relationship management, are becoming more important.
+人工智能和自动化正在取代一些任务，如单证制作、报关和数据录入，但需要人工判断和沟通的领域，如谈判、合同审查和客户关系管理，正变得更加重要。
 
-Clerk → Assistant Manager → Manager → Deputy General Manager → General Manager. Advantageous to gain trade English and practical experience for promotion to overseas sales/trade management, or acquire professional certifications such as customs broker.
+文员 → 助理经理 → 经理 → 副总经理 → 总经理。积累行业英语和实战经验有利于晋升为海外销售/贸易管理，或获得报关员等专业资格证书。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automated Import/Export Document Creation
-- Customs Declaration Data Entry
-- Shipping Schedule Confirmation
-- Trade Statistics Compilation
+- 自动进出口文件生成
+- 报关数据录入
+- 船期确认
+- 贸易统计编制
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Trade Contract Review
-- FTA Origin Determination
-- Overseas Buyer Sourcing
-- Logistics Risk Analysis
+- 贸易合同审查
+- FTA原产地确定
+- 海外买家采购
+- 物流风险分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust-Based Customer Relationships
-- Complex Negotiation Skills
-- Legal Interpretation and Judgment
-- Unexpected Situation Response
+- 基于信任的客户关系
+- 复杂谈判技巧
+- 法律解释与判断
+- 突发情况应对
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data Literacy
-- AI-Powered Trade Software
-- Global Marketing
-- Supply Chain Management
+- 数据素养
+- AI辅助贸易软件
+- 全球营销
+- 供应链管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Trade
-- FTA Utilization
-- Global Supply Chain
-- E-commerce Export
+- 数字贸易
+- 自贸协定利用率
+- 全球供应链
+- 电商出口
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Allows international trade work, issued when eligibility requirements are met |
-| Subclass F-2 (Residence Visa) | Can switch to points-based system, allows long-term stay and free employment |
-| Subclass F-5 (Permanent Residence Visa) | Eligible after long-term residence, no employment restrictions |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Detail-oriented and proficient in document work
-- Interested in foreign languages and overseas cultures
-- Enjoys collaborating with various departments
+- 注重细节且精通文件工作
+- 对外语和海外文化感兴趣
+- 乐于与各部门协作
 
 **谁不适合**
-- Difficulty adapting to change
-- Finds repetitive document work tedious
+- 适应变化困难
+- 觉得重复的文档工作很乏味
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a trade clerk?**
-答：As of 2023, it is around 35 million to 45 million KRW, varying greatly by experience and company size.
+**问：贸易文员的平均年薪是多少？**
+答：截至2023年，约3500万至4500万韩元，因经验和公司规模差异很大。
 
-**问：What visa does a foreigner need to work as a trade clerk?**
-答：An E-7 visa is required, along with a relevant degree, experience, and employer recommendation. F-2 or F-5 visa holders can freely seek employment.
+**问：外国人担任贸易文员需要什么签证？**
+答：需要E-7签证，以及相关学位、经验和雇主推荐。持有F-2或F-5签证者可以自由求职。
 
-**问：How can I get promoted from a trade clerk?**
-答：It is advantageous to gain practical trade experience, acquire certifications such as International Trade Specialist and Trade English, and build experience in overseas business trips/dispatches.
+**问：如何从贸易文员晋升？**
+答：积累实际贸易经验、获取国际贸易师和贸易英语等证书，并建立海外出差/派遣经验是有利的。
 
 
 ---
@@ -146,12 +139,12 @@ Clerk → Assistant Manager → Manager → Deputy General Manager → General M
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/trade-clerk/KR)**

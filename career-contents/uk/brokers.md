@@ -50,8 +50,6 @@ Financial intermediaries who trade commodities, stocks, foreign exchange, and de
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI has mixed implications for broker careers: high-frequency data analysis and standardized transaction processes will be automated, but complex negotiation, client relationship management, and risk management skills are enhanced by AI. Overall job numbers may decline, but value increases.
-
 Start as a junior broker or trading assistant, progressively obtain professional qualifications (e.g., CISI certificate), accumulate client resources to advance to senior broker, team leader, or partner; some move into wealth management or risk consulting.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as a junior broker or trading assistant, progressively obtain professional
 | Subclass Graduate (Graduate visa) | Allows UK graduates to work for 2 years (3 years for PhD), can be used to gain experience and switch to a work visa. |
 | Subclass Global Talent (Global Talent visa) | For outstanding talents in fields such as fintech, no sponsorship required. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Requires employer sponsorship, meeting salary threshold (generally £26,200/y
 | Work intensity | very high (★★★★½) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/brokers/UK)**

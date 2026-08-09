@@ -1,8 +1,8 @@
-# Game Programmer 职业分析 · 韩国
+# 游戏程序员（Game Programmer）职业分析 · 韩国
 
-**职业代码: 13324 (KECO)**
+**职业代码：13324 (KECO)**
 
-A game programmer is a specialist who implements game systems, graphics, and physics using game engines and programming languages, and is a core technical talent in the Korean game industry.
+游戏程序员是使用游戏引擎和编程语言实现游戏系统、图形和物理的专业人员，是韩国游戏行业的核心技术人才。
 
 
 ---
@@ -11,9 +11,9 @@ A game programmer is a specialist who implements game systems, graphics, and phy
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Computer Science (4-Year University) | 4年 | $4,000,000~$8,000,000（Tuition varies by national/public vs. private） |
-| Associate Degree (Game Programming) | 2 年 | $2,000,000~$4,000,000（Based on community college standards） |
-| Bootcamp/Private Institute | 6 months | $5,000,000~$15,000,000（Non-formal education course） |
+| 计算机科学（四年制大学） | 4年 | $4,000,000~$8,000,000（学费因国立/公立与私立而异） |
+| 副学士学位（游戏编程） | 2 年 | $2,000,000~$4,000,000（基于社区学院标准） |
+| 训练营/私立机构 | 6个月 | $5,000,000~$15,000,000（非正规教育课程） |
 
 ---
 
@@ -21,17 +21,17 @@ A game programmer is a specialist who implements game systems, graphics, and phy
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Preferred by public institutions and large corporations |
-| Game Programming Specialist | Korea Creative Content Agency | 可选 | Preferred certification in the game industry |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 公共机构和大型企业偏好 |
+| 游戏编程专家 | 韩国创意内容机构 | 可选 | 游戏行业优先认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 45,000. With the growth of the Korean game market and expansion overseas, demand for game programmers is expected to steadily increase, and new jobs will be created especially with the introduction of AI and metaverse technologies.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 45,000。随着韩国游戏市场增长和海外扩张，游戏程序员需求预计稳步增加，尤其是人工智能和元节技术的引入将创造新岗位。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,97 +39,90 @@ A game programmer is a specialist who implements game systems, graphics, and phy
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$45,000,000 | Based on SME standards; higher at large corporations |
-| 中级（4-7年） | $45,000,000~$70,000,000 | Varies by experience and tech stack |
-| 高级（8年+） | $70,000,000~$99,999,999 | Lead programmer or technical director level |
+| 初级 (0-3年) | $30,000,000~$45,000,000 | 基于中小企业标准；大企业更高 |
+| 中级（4-7年） | $45,000,000~$70,000,000 | 因经验和技能组合而异 |
+| 高级（8年+） | $70,000,000~$99,999,999 | 首席程序员或技术总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can replace some repetitive and formulaic tasks of game programmers (e.g., basic code generation, test automation), but human roles remain important for game design, creative problem-solving, and optimization. AI is used as a productivity tool, and the job of a game programmer will evolve toward collaboration with AI.
+AI可以取代游戏程序员部分重复和程式化的工作（如基础代码生成、测试自动化），但游戏设计、创造性问题解决和优化仍依赖人类。AI作为生产力工具，游戏程序员的角色将向与AI协作演变。
 
-Possible promotions from junior developer to senior, lead programmer, and technical director; common career paths include building experience at large companies or major studios and then transitioning to entrepreneurship or freelancing.
+初级开发人员可晋升为高级、首席程序员和技术总监；常见职业路径包括在大公司或主要工作室积累经验，然后转向创业或自由职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive code writing
-- Basic AI behavior pattern implementation
-- Automatic test case generation
-- Simple bug patch work
+- 重复性代码编写
+- 基本AI行为模式实施
+- 自动化测试用例生成
+- 简单补丁工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Game engine optimization
-- Procedural content generation
-- Player behavior analysis
-- AI-based QA automation
+- 游戏引擎优化
+- 程序化内容生成
+- 玩家行为分析
+- 基于AI的QA自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative game design
-- Complex system architecture design
-- Team collaboration and communication
-- Game fun and balance adjustment
+- 创意游戏设计
+- 复杂系统架构设计
+- 团队协作与沟通
+- 游戏趣味性和平衡性调整
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning/deep learning
-- Data analysis
-- Use of AI tools (e.g., GPT, Stable Diffusion)
--  Multi-threading/GPU Programming
--  Unreal Engine Blueprint
+- 机器学习/深度学习
+- 数据分析
+- 使用AI工具（如GPT、Stable Diffusion）
+- 多线程/GPU编程
+- Unreal Engine Blueprint
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Metaverse
-- AI Games
-- Cross-platform
-- Real-time Graphics
+- 元宇宙
+- AI游戏
+- 跨平台
+- 实时图形
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued to high-skilled game development personnel, requires invitation from a Korean company |
-| Subclass D-10 (Job Seeking (D-10)) | Issued for job-seeking after graduating from a Korean university, can lead to employment in the gaming industry |
-| Subclass F-2 (Residence (F-2)) | Allows long-term stay and free employment, point-based or overseas Korean eligibility |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with outstanding logical thinking and problem-solving skills
-- People with passion and perseverance for games
-- People who value teamwork and collaboration
+- 逻辑思维和解决问题能力突出的人
+- 对游戏充满热情和毅力的人
+- 重视团队合作的人
 
 **谁不适合**
-- People who dislike repetitive tasks and lack perseverance
-- People who prefer working alone over collaboration
+- 不喜欢重复性任务且缺乏毅力的人
+- 偏好独自工作而非协作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a game programmer?**
-答：As of 2023, entry-level is 30-45 million KRW, mid-level 45-70 million KRW, senior 70-120 million KRW. Additional bonuses may apply at large companies or for successful projects.
+**问：游戏程序员的平均工资是多少？**
+答：截至2023年，入门级3000-4500万韩元，中级4500-7000万韩元，高级7000-1.2亿韩元。大公司或成功项目可能另有奖金。
 
-**问：What visa does a foreigner need to work as a game programmer in Korea?**
-答：E-7 (Specific Activities) visa is common and requires an invitation from a Korean company. It is also possible to graduate from a domestic university, switch to a D-10 (Job Seeking) visa, and then find employment.
+**问：外国人在韩国做游戏程序员需要什么签证？**
+答：E-7（特定活动）签证常见，需韩国公司邀请。也可从国内大学毕业，换D-10（求职）签证后就业。
 
-**问：What are the most important skills for getting a job as a game programmer?**
-答：Proficiency in C++ or C# programming languages and experience with Unity or Unreal Engine are most important, and knowledge of data structures and algorithms is also essential. A portfolio greatly helps in getting a job.
+**问：获得游戏程序员工作最重要的技能是什么？**
+答：熟练掌握C++或C#编程语言以及有过Unity或Unreal Engine经验最为重要，数据结构和算法知识也很关键。作品集对求职有很大帮助。
 
 
 ---
@@ -147,12 +140,12 @@ Possible promotions from junior developer to senior, lead programmer, and techni
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/game-programmer/KR)**

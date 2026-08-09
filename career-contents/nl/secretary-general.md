@@ -4,8 +4,6 @@
 
 General secretaries handle daily administrative tasks such as answering phone calls, scheduling meetings, processing documents and emails.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ General secretaries handle daily administrative tasks such as answering phone ca
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI tools will greatly enhance secretaries' coordination skills, automating trivial tasks and enabling a transition to higher-level administrative experts; however, traditional basic clerical positions will be reduced.
-
 Can advance from junior secretary to senior secretary or executive assistant, or transition to office management roles.
 
 **Tasks most exposed to AI:**
@@ -97,17 +93,9 @@ Can advance from junior secretary to senior secretary or executive assistant, or
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applies to skilled migrants; annual income must exceed a threshold (e.g. approximately €39,467 in 2024, under age 30). |
-| Subclass Orientation Year (Orientation Year) | Allows non-EU graduates who have completed a degree in the Netherlands to search for work for one year. |
-| Subclass EU Blue Card (EU Blue Card) | Targeting highly skilled professionals, requiring higher education and an employment contract, with salary threshold above general secretary level. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +138,12 @@ A: Competition moderate; Dutch fluency is an advantage.
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/secretary-general/NL)**

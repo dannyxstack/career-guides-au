@@ -4,8 +4,6 @@
 
 A professional technical workforce responsible for R&D, process design, and quality control of textile materials and products, leading technological innovation across the textile industry.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A professional technical workforce responsible for R&D, process design, and qual
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used for discovering new materials, optimizing processes, and predicting quality, but textile engineering requires complex physical and chemical knowledge and experience, so complete replacement is difficult. AI serves to assist human research.
-
 Promotion typically follows the path of Junior Researcher, Assistant Researcher, Senior Researcher, and Principal Researcher/Team Lead, with a career centered on R&D. Opportunities exist in large corporations and research institutes, as well as SMEs.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ Promotion typically follows the path of Junior Researcher, Assistant Researcher,
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Eligible for R&D jobs requiring specialized knowledge; employer sponsorship required |
-| Subclass D-10 (Job Seeking) | Holders of a bachelor's degree or higher can stay for job-seeking activities |
-| Subclass F-2 (Residence) | Scored permanent residence or long-term stay possible |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +134,12 @@ A: The typical path is: Junior Researcher → Assistant → Associate → Princi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-engineer/KR)**

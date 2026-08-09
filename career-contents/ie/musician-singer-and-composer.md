@@ -53,8 +53,6 @@ In Ireland, musicians, singers, and composers perform, record, create, and teach
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI is a double-edged sword for musicians, singers, and composers: automation tools reduce low-end arranging, recording, and teaching jobs, but AI-assisted composition, sound synthesis, and personalized recommendations also amplify creative expression and market reach—the career outlook is mixed.
-
 Career path starts with local performances, teaching, or recording, gradually building a reputation to enter larger stages such as national symphony orchestras, film scoring, or international tours. Some transition to music production or education management.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career path starts with local performances, teaching, or recording, gradually bu
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Difficult. This occupation is not on the shortage list; requires employer spo
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/musician-singer-and-composer/IE)**

@@ -52,8 +52,6 @@ Metal casting technicians operate casting equipment to pour molten metal into mo
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI's impact on metal casting technicians is mixed: automation and robots will handle repetitive pouring and quality inspection, but mold preparation, defect judgment, and complex part process adjustments still rely on human experience.
-
 Can progress from apprentice to senior technician or supervisor, then to foundry manager or quality control expert. With experience, can transition to mold design or technical consultant roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from apprentice to senior technician or supervisor, then to foundry
 | Subclass 189 (Skilled Independent visa) | Skilled Independent Permanent Visa, requires occupation on the MLTSSL |
 | Subclass 190 (Skilled Nominated visa) | State-sponsored permanent residency visa, requires state nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Automation may simplify some processes, but complex castings still require ma
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-casting-trades-worker/AU)**

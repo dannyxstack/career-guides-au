@@ -50,8 +50,6 @@ A profession that inspects welding, cutting, and processing quality of metal par
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Automation using AI and robots is advancing, but human judgment is necessary for complex welding and inspections; complete replacement is difficult. Especially in non-destructive testing and advanced welding, AI assists while leveraging skilled expertise.
-
 From entry-level, one can obtain skill certifications and advance to site supervisor or inspection leader. Certifications like Welding Skill Test or NDT technician benefit career growth.
 
 **Tasks most exposed to AI:**
@@ -92,16 +90,9 @@ From entry-level, one can obtain skill certifications and advance to site superv
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Fields: Casting/forging, industrial machinery, electrical/electronic/information manufacturing)) | Engage in welding and inspection work in manufacturing. Must pass exam. Max stay 5 years. |
-| Subclass 技能 (Skilled Worker (Welding)) | For experienced workers. Requires 10+ years of experience. Renewable stay. |
-| Subclass 技術・人文知識・国際業務 (Engineer (Mechanical Engineering, etc.)) | Requires specialized knowledge from university. E.g., inspection process management. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +136,12 @@ A: Not mandatory, but passing the JIS Welding Skill Evaluation Test is strongly 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-processing-welding-cutting-inspector/JP)**

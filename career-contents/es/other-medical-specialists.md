@@ -4,8 +4,6 @@
 
 Other medical specialists include non-surgical specialists in cardiology, gastroenterology, neurology, and other fields, responsible for diagnosing and treating diseases of specific systems. Working in both public and private hospitals in Spain requires completion of residency training and specialist certification.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Other medical specialists include non-surgical specialists in cardiology, gastro
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's rapid improvement in imaging diagnosis, report generation, and data analysis will compress the employment opportunities for non-surgical specialists, especially the risk of replacing routine image interpretation and standardized diagnostic tasks.
-
 The promotion path is to become a specialist after completing the residency (MIR), and then advance to department head (Jefe de Servicio) or hospital management positions. Some doctors have shifted to research or private practice with higher incomes.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ The promotion path is to become a specialist after completing the residency (MIR
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Altamente cualificad (High-Skilled Professional Visa (Ley 14/2013)) | Suitable for highly skilled professionals with employment contracts, requiring academic credentials and a Spanish company guarantee. |
-| Subclass Cuenta ajena (Work Permit (Employed)) | Ordinary employed work residency requires labor market testing, but doctors are in high demand and can simplify the process. |
-| Subclass Busqueda empleo (Job Search Visa) | Allows for a 6-month stay in Spain to look for work, applicable to highly educated talents. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: You need to apply for official certification (Homologación) from the Spanish
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-medical-specialists/ES)**

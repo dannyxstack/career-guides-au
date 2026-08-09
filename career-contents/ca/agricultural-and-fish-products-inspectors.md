@@ -52,8 +52,6 @@ Agricultural and fish inspectors examine food and agricultural products to ensur
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Some tasks of agricultural inspectors can be automated by AI, such as data recording and preliminary analysis, but on-site judgment and regulatory decisions still require humans; AI can enhance monitoring efficiency and predictive capabilities, presenting both opportunities and challenges.
-
 Can progress from junior inspector to senior inspector, supervisor, or policy maker, or shift to food safety management or scientific research through continuing education.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior inspector to senior inspector, supervisor, or policy ma
 | Subclass PNP (Provincial Nominee Program) | Some provinces like Ontario and British Columbia have targeted invitations, prioritizing agriculture or food processing backgrounds. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer-sponsored work visa for those with a job offer from a Canadian employer. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Due to continuously strengthening food safety regulations, demand is stable. 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-and-fish-products-inspectors/CA)**

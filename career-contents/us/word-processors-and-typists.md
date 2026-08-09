@@ -53,8 +53,6 @@ Using a word processor, computer, or typewriter to transcribe drafts, revised ve
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: very high (★★★★½).**
 
-Word processors and typists face high automation risk; AI voice-to-text, auto-proofreading, and template generation tools will largely replace core tasks, leading to sharp job decline.
-
 Most practitioners stay in entry-level positions with limited advancement paths. They can move into administrative assistant, secretary, or data entry roles through experience; a few may become office supervisors. Overall upward mobility is weak.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Most practitioners stay in entry-level positions with limited advancement paths.
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Almost impossible. This occupation is not considered a specialty occupation (
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | very high (★★★★½) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/word-processors-and-typists/US)**

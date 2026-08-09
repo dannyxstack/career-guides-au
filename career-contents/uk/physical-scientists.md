@@ -52,8 +52,6 @@ Physicists study the relationships between matter, energy, and other physical ph
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physical scientists face both automation compression risks (data collection, routine analysis) and enhanced capabilities through AI for modeling, prediction, and experimental design. Entry-level positions are narrowing due to automated screening, but demand for high-value research roles remains strong.
-
 Start as a junior research assistant or laboratory technician, advance to senior scientist, principal investigator, or project manager. May transition to academia, government research institutions, or private sector R&D departments.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Start as a junior research assistant or laboratory technician, advance to senior
 | Subclass Global Talent (Global Talent visa) | For researchers with outstanding achievements or potential in the physical sciences |
 | Subclass Graduate (Graduate visa) | UK graduates can stay and work in the UK for 2 years (3 years for PhD holders) |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not on the Immigration Salary List, but specific fields like geophysics and m
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/physical-scientists/UK)**

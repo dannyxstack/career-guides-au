@@ -51,8 +51,6 @@ Chiropractors are an important profession in Australian healthcare, with stable 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Chiropractors' core clinical decisions are hard to replace by AI, but administrative tasks, data collation, and initial image screening are being compressed by automation tools, while AI (e.g., digital patient consultations, image analysis) also creates new opportunities for service extension and efficiency improvement.
-
 Requirements for digital skills and professional certification continue to rise; chiropractors must continuously update their expertise to keep pace with industry changes.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Requirements for digital skills and professional certification continue to rise;
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Demand is stable with positions available across Australia; employment prospe
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chiropractor/AU)**

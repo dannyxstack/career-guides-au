@@ -51,8 +51,6 @@ Design and produce technical drawings, plans, maps, charts, etc., and install, o
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Junior draftspersons can advance to senior technician, team leader, or CAD manager, or transition to BIM modeling or project coordination roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior draftspersons can advance to senior technician, team leader, or CAD manag
 | Subclass Skilled Worker (Skilled Worker visa) | Requires employer sponsorship, applies to SOC 3120, minimum salary £26,200 |
 | Subclass Graduate (Graduate visa) | Graduates can work in the UK for 2 years (3 years for PhD), then switch to a work visa after gaining experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can progress from junior drafter to senior technician, team leader, or CAD ma
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cad-drawing-and-architectural-technicians/UK)**

@@ -52,8 +52,6 @@ Artillery and missile soldiers are responsible for aiming, launching, and mainta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly change the roles of artillery and missile operators; target identification and fire control calculations are highly automatable, but battlefield decision-making, system maintenance, and physical operations still require humans, making this a mixed-impact occupation.
-
 Career progression from junior artilleryman to gun commander, platoon leader, then to senior NCO or officer. Soldiers can advance through promotions and professional military education to become NCOs or receive officer commissions. Some may transition to defence contracting or military training fields.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career progression from junior artilleryman to gun commander, platoon leader, th
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Can advance through promotion to non-commissioned officer or officer, or tran
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artillery-and-missile-crew-members/US)**

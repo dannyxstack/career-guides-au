@@ -53,8 +53,6 @@ Study the origins, development, and behavior of humans, including culture, langu
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on archaeologists and anthropologists is mixed: automation can handle data mining and literature analysis, but core tasks like fieldwork and cultural interpretation still require human judgment, so overall risk is manageable.
-
 Start as a junior research assistant or field technician, gradually advancing to project manager or senior researcher; those with a PhD can teach at universities and pursue tenure, or transition into cultural heritage management or consulting.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior research assistant or field technician, gradually advancing to
 | Subclass EB-2 (Employment-Based Second Preference (EB-2)) | Requires a master's degree or higher, or exceptional ability, through PERM labor certification, with a long queue. |
 | Subclass O-1 (O-1 Extraordinary Ability) | For researchers with outstanding achievements in anthropology, no labor certification required, but standards are strict |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: not entirely; about half of PhDs enter non-academic fields such as cultural r
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anthropologists-and-archeologists/US)**

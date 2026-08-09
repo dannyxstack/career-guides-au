@@ -52,8 +52,6 @@ Responsible for surface treatment of metal parts, including electroplating, anod
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The career outlook for metal surface treatment specialists is mixed: automation reduces roles in incoming inspection and parameter recording; but AI enhances process optimization and defect detection, adding value.
-
 From entry-level operator, can advance to process technician or production supervisor, or gain surface treatment technician or engineer qualifications through further study. May also move into quality control, process development, or environmental management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From entry-level operator, can advance to process technician or production super
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | If you have completed dual-system training or have vocational qualifications and obtain a work contract, you can apply for a skilled migration visa. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based system, allows one year to find a job in Germany. Suitable for those with professional qualifications or German B1 level. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Yes. Can progress from operator to technician, team leader, or production sup
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-surface-treatment-specialist/DE)**

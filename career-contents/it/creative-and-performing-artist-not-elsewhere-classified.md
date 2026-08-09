@@ -4,8 +4,6 @@
 
 Covers freelance or employed artists in fields such as visual arts, music, dance, and theatre, whose work is typically showcased through galleries, performances, and digital platforms.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ Covers freelance or employed artists in fields such as visual arts, music, dance
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
-
-AI has mixed impacts on creative and performing artists: it automates some creative support tasks but also provides new tools and platforms for creative expression; artists need to integrate technology to stay competitive.
 
 Start as a freelance artist, progress to gallery contracts, art director, curator, or art educator, partly integrating digital media technology.
 
@@ -100,17 +96,9 @@ Start as a freelance artist, progress to gallery contracts, art director, curato
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | For non-EU high-skilled talent, requires a work contract and annual salary of at least approx. €48,000 (2024 standard), with high flexibility. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual cap work visa, typically opening early in the year for non-EU workers, requires employer sponsorship. |
-| Subclass Self-Employment Visa (Self-Employment Visa) | For freelance artists, requiring proof of stable income and sustainable projects, with a detailed business plan needed. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Starting as a freelancer, you can transition to gallery artist, art director,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/creative-and-performing-artist-not-elsewhere-classified/IT)**

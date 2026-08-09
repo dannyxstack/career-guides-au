@@ -55,8 +55,6 @@ Registered accountants are responsible for financial reporting, tax compliance, 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 ESG (environmental, social, and governance) sustainability reporting is the biggest growth area from 2025–2030, with mandatory IFRS sustainability disclosure for ASX-listed companies. AI accounting tools (Xero AI/Intuit Assist) are improving day-to-day reconciliation efficiency, while management accounting and business advisory are increasing in value.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ ESG (environmental, social, and governance) sustainability reporting is the bigg
 | Subclass 190 (Skilled Nominated) | State nomination available; pathways exist in multiple states |
 | Subclass 491 (Skilled Work Regional) | Regional accounting role, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: There are more accounting job openings (Seek ~10,000 vs financial analyst ~2,
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant-cpa-ca/AU)**

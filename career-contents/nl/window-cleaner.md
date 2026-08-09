@@ -51,8 +51,6 @@ Window cleaners use professional equipment to clean building windows, ensuring a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Window cleaners face high risk of automation replacement, as AI-driven drones and robotics can already efficiently clean low- and mid-rise building windows, entry-level positions significantly reduced, demand shifting to high-rise cleaning.
-
 Can progress from junior worker to team supervisor or start their own business. Obtaining a professional high-altitude work certificate can increase promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -99,16 +97,9 @@ Can progress from junior worker to team supervisor or start their own business. 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to high-skilled workers, salary must meet threshold, uncommon for window cleaners |
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, salary requirement is high, not applicable |
-| Subclass Orientation Year (Orientation Year) | Transitional residence permit to seek employment in the Netherlands, subject to meeting educational requirements |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Requires a working at heights certificate and first aid certificate, issued b
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/window-cleaner/NL)**

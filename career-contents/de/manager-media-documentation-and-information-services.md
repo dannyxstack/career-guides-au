@@ -52,8 +52,6 @@ Responsible for planning, organizing, and managing media, documentation, and inf
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Media, documentation, and information services managers face mixed AI impact: routine information management tasks will be automated, but strategic decision-making, creative direction, and team coordination skills become more prominent, upgrading the role toward higher value.
-
 You can start in a professional role and advance to department head or director. With experience, you can move into senior positions such as digital information management, knowledge management, or chief information officer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ You can start in a professional role and advance to department head or director.
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for skilled professionals, requires employer sponsorship, no hard annual salary threshold. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows a one-year job-seeking stay in Germany before finding employment. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires a bachelor's degree in information science or media manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-media-documentation-and-information-services/DE)**

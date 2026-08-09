@@ -54,8 +54,6 @@ Helicopter pilots operate helicopters for passenger transport, cargo, rescue, su
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The pilot profession faces mixed impacts from AI/automation: auto-flight systems can handle routine cruising and landing, but complex decision-making, emergency handling, and safety responsibility still require human captains; overall demand grows due to aviation industry expansion.
-
 Typically start as a flight student or tourist pilot, accumulate flight hours, then progress to captain, instructor, or emergency service pilot. Senior roles include chief pilot, operations manager, or transition to commercial fixed-wing flying.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically start as a flight student or tourist pilot, accumulate flight hours, t
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employers can directly sponsor work visas, and most practitioners first transition on this visa. |
 | Subclass Specific Purpose Wor (Specific Purpose Work Visa) | Applicable for short-term or seasonal work (e.g., agricultural and forestry spraying). |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Step 1: Obtain a CAANZ commercial helicopter license (training in New Zealand
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helicopter-pilot/NZ)**

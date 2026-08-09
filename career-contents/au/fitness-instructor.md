@@ -53,8 +53,6 @@ Fitness coaches (including personal trainers) guide individuals or groups in phy
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Fitness coaches face mixed AI impact: automation reduces basic instruction, but AI enhances personalised training design and client management; the moat lies in interpersonal trust and real-time body feedback processing.
-
 Online+offline hybrid training becomes the norm; specialisation (functional/rehabilitation/nutrition) boosts pricing and retention.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Online+offline hybrid training becomes the norm; specialisation (functional/reha
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Group class entry requires Certificate III in Fitness; independent personal t
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fitness-instructor/AU)**

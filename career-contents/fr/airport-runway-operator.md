@@ -4,8 +4,6 @@
 
 Responsible for daily operations, maintenance, and safety inspections of airport runways to ensure smooth aircraft takeoff and landing. This includes track surface inspection, foreign object removal, sign updates, and ice and snow removal.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for daily operations, maintenance, and safety inspections of airport
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some runway operator tasks can be automated (such as inspections and records), but critical safety decisions and on-site emergency response rely on human judgment. AI enhances efficiency rather than completely replaces it, and job transition pressure is moderate.
-
 Typically, they start as runway maintenance workers or assistants, and after gaining experience, can be promoted to runway supervisors or operations coordinators. A small number have moved into airport operations management or security supervision roles, requiring additional training or diplomas.
 
 **Tasks most exposed to AI:**
@@ -100,15 +96,9 @@ Typically, they start as runway maintenance workers or assistants, and after gai
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | The employer must provide a work contract proving that suitable candidates cannot be found in the EU. Because it is not a shortage occupation, approval is relatively difficult. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +142,12 @@ A: At least a CAP or BAC Pro qualification is required, preferably with runway s
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/airport-runway-operator/FR)**

@@ -55,8 +55,6 @@ Electric vehicle battery diagnostic experts are responsible for fault diagnosis 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will significantly enhance diagnostic efficiency but will not replace experts; core safety responsibilities and on-site judgment still depend on humans.
-
 By 2026, high-voltage battery diagnostics, SoH evaluation, and cascade utilization will become hot topics, with those skilled in OEM diagnostic systems and high-voltage safety protocols being the most sought after. Diagnostic tools and AI-assisted data reading, but high-voltage disassembly and on-site judgment still require manual labor, with AI replacing parts of the work.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ By 2026, high-voltage battery diagnostics, SoH evaluation, and cascade utilizati
 | Subclass 186 (ENS Employer Nomination) | Employer-sponsored permanent residency requires 2~3 years of sponsorship experience |
 | Subclass 491 (Guarantees for remote areas) | Nominations from remote areas, and technician positions rely more on this channel |
 
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: low (★★☆☆☆).**
 
 ---
 
@@ -161,12 +157,13 @@ A: It is more difficult to immigrate independently. As a technician-level positi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ev-battery-diagnostics-specialist/AU)**

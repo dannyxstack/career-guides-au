@@ -52,8 +52,6 @@ Responsible for planning, organizing, directing, and coordinating the safe and e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is systematically compressing entry-level positions for supply chain managers; core decisions like demand forecasting and inventory optimization can be automated by algorithms, flattening management hierarchies and reducing junior roles, but senior talent with cross-functional integration skills is needed.
-
 Usually start from operations management roles, gain experience to advance to regional or national logistics director; some may rise to VP of supply chain or COO. Cross-industry experience (e.g., retail, manufacturing) aids career development.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start from operations management roles, gain experience to advance to re
 | Subclass Graduate (Graduate Visa) | UK graduates can apply for the Graduate Visa to work in the UK for 2 years (3 years for PhD holders) |
 | Subclass Scale-up (Scale-up Visa) | Can apply for a Scale-up visa if working at a qualifying high-growth company |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Requires strong leadership, supply chain management knowledge, data analysis 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/directors-in-logistics-warehousing-and-transport/UK)**

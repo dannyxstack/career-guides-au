@@ -50,8 +50,6 @@ A field worker who assembles various parts such as the engine, chassis, and inte
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-Collaborative robots and AI quality inspection are increasingly introduced in auto assembly processes, but precision assembly and inspection still require humans. Complete replacement is difficult, and the shift is toward worker-robot collaboration.
-
 Junior assembler → Line-specific skilled worker → Team leader/Section chief → Production management/Technical positions. Advancement is favorable with certifications and multi-skilling.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Junior assembler → Line-specific skilled worker → Team leader/Section chief 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7-3)) | Possible if eligible for Skilled Worker (E-7-3) and meeting requirements such as 5+ years in manufacturing. |
-| Subclass E-9 (Non-professional Employment (E-9)) | Allowed under the Employment Permit System for non-professional foreign workers, within manufacturing quotas. |
-| Subclass F-2 (Residence (F-2) Point System) | Long-term stay possible after passing the Skilled Worker point system. |
-
-**PR friendliness: low (★★☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Automobile assembly technician is not mandatory but preferred; welding techni
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★★☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automobile-assembly-worker/KR)**

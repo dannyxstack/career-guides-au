@@ -55,8 +55,6 @@ Study the classification, distribution, physiology, and ecology of plants to pro
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Biologists' tasks show polarization: routine experiments and data analysis will be rapidly replaced by AI, but hypothesis generation and experimental design requiring disruptive creativity will be amplified. Entry-level roles narrow due to automation, while senior scientists enhance efficiency with AI tools.
-
 Junior researchers can progress to senior scientist or project manager, or move into academia, government, or private sector as consultants or management roles.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ Junior researchers can progress to senior scientist or project manager, or move 
 | Subclass 491 (Skilled Work Regional) | Regional sponsored visa, requires working in a regional area |
 | Subclass 482 (Temporary Skill Shortage) | Employer-sponsored temporary visa, requires finding an employer first |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -158,12 +154,13 @@ A: Major employers include universities, government research institutions (such 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/botanist/AU)**

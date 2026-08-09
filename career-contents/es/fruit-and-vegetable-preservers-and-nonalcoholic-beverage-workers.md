@@ -4,8 +4,6 @@
 
 Workers engaged in processing canned fruits and vegetables and producing non-alcoholic beverages (such as juices and soft drinks) are involved in cleaning, cutting, canning, sterilization, packaging, and other operations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Workers engaged in processing canned fruits and vegetables and producing non-alc
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI automation will significantly reduce the job demand for processing workers in fruit and vegetable cans and non-alcoholic beverages. Repetitive assembly line operations (such as grading, bottling, packaging) are most easily replaced, but equipment maintenance and quality control still require manpower.
-
 Promotion from junior operator to production line leader, quality controller, or production supervisor. By taking FP-related courses (such as food processing technology), you can enhance your skills and transition into management or technical positions.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ Promotion from junior operator to production line leader, quality controller, or
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (employed)) | The employer must provide a work contract and prove that the position cannot be filled in the EU market. |
-| Subclass Busqueda empleo (Job Search Visa) | Allowed to seek employment in Spain, but this occupation is difficult for immigration and not recommended. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: Usually only compulsory education (ESO) required, but completing FP vocationa
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fruit-and-vegetable-preservers-and-nonalcoholic-beverage-workers/ES)**

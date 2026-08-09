@@ -51,8 +51,6 @@ Operate and maintain wood processing equipment such as sawmills, planers, and dr
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Sawmill operators face high automation risk; AI and robots will largely replace repetitive tasks like sorting, cutting, and drying. Entry-level jobs will decrease, but maintenance and system optimization roles may increase.
-
 Can advance from operator to senior operator, shift supervisor, or plant manager, or move to quality control or maintenance roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can advance from operator to senior operator, shift supervisor, or plant manager
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -148,11 +144,12 @@ A: This occupation is not on the Critical Skills occupation list; requires a gen
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-processing-plant-operator/IE)**

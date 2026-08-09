@@ -1,10 +1,8 @@
 # 房地产经纪人（Real Estate Agent）职业分析 · 韩国
 
-**职业代码: 61101 (KECO)**
+**职业代码：61101 (KECO)**
 
-A professional who mediates real estate sales and lease contracts, providing comprehensive real estate transaction services including market analysis, consultation, and document preparation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+调解房地产买卖和租赁合同的专业人士，提供包括市场分析、咨询和文件准备在内的全面房地产交易服务。
 
 
 ---
@@ -13,7 +11,7 @@ A professional who mediates real estate sales and lease contracts, providing com
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Obtain Licensed Real Estate Agent certificate | 1~2 年 | $1,000,000~$3,000,000（Tuition and textbook fees） |
+| 取得持牌房地产经纪人证书 | 1~2 年 | $1,000,000~$3,000,000（学费和教材费） |
 
 ---
 
@@ -21,17 +19,17 @@ A professional who mediates real estate sales and lease contracts, providing com
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Licensed Real Estate Agent certificate | Human Resources Development Service of Korea | 必备 | Held once a year, mandatory |
-| Complete real estate agent training | Korea Real Estate Board | 可选 | 32 hours of practical training after obtaining certificate |
+| 持牌房地产经纪人证书 | 韩国人力资源开发服务局 | 必备 | 每年举行一次，强制性 |
+| 完成房地产经纪人培训 | 韩国房地产委员会 | 可选 | 获得证书后的32小时实践培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 140,000. Despite low birth rates, aging population, and housing market uncertainty, demand for residential and commercial real estate transactions remains steady, so employment is expected to be maintained. However, policy changes and the spread of online brokerage platforms pose risks.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 140,000。尽管低出生率、人口老龄化和住房市场不确定性，住宅和商业地产交易需求保持稳定，因此就业预计将维持。然而，政策变化和在线券商平台的普及带来风险。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -39,93 +37,85 @@ A professional who mediates real estate sales and lease contracts, providing com
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$36,000,000 | Fixed salary + performance bonus, varies by office size |
-| Intermediate (4~9 years) | $40,000,000~$60,000,000 | Large variations based on experience and transaction volume |
-| Advanced (10+ years) | $60,000,000~$99,999,999 | Independent agent or high performer at a large firm |
+| 初级（0~3 年） | $24,000,000~$36,000,000 | 固定薪资 + 绩效奖金，根据办公室规模而异 |
+| 中级（4~9年） | $40,000,000~$60,000,000 | 根据经验和交易量差异很大 |
+| 高级（10年以上） | $60,000,000~$99,999,999 | 独立代理或大型企业高绩效员工 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and online platforms assist with property search and data analysis, but human emotional empathy, negotiation, and trust-building are unlikely to be replaced, so they will remain in a supportive role.
+人工智能和在线平台协助房产搜索和数据分析，但人类的情感共鸣、谈判和信任建立不太可能被取代，因此它们仍将处于辅助角色。
 
-After obtaining a Licensed Real Estate Agent certificate, one starts as a brokerage assistant and grows into an independent agent (opening an office), or builds a career as a specialized agent at a franchise or large brokerage firm.
+获得持牌房地产经纪人证书后，从经纪助理做起，成长为独立经纪人（开设办公室），或在特许经营或大型经纪公司中作为专业代理人发展职业生涯。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple property information provision
-- Basic market statistical analysis
-- Document writing assistance
+- 简单的房产信息提供
+- 基础市场统计分析
+- 文档撰写辅助
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customer preference analysis
-- Use of price prediction models
-- Advertising and marketing automation
+- 客户偏好分析
+- 价格预测模型的使用
+- 广告与营销自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Trust building through direct interviews
-- Negotiation and deal-closing ability
-- Local network and community knowledge
+- 通过直接面谈建立信任
+- 谈判和成交能力
+- 本地网络和社区知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Big data analysis skills
-- Digital marketing
-- Legal interpretation and regulatory compliance
+- 大数据分析技能
+- 数字营销
+- 法律解释与合规
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Metropolitan area housing market
-- Redevelopment and reconstruction
-- Commercial real estate
-- Real Estate Information Platform
+- 都市区住房市场
+- 再开发和重建
+- 商业地产
+- 房地产信息平台
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when employed by a Korean real estate brokerage as a specialized agent, but Korean language ability and qualification requirements are strict. |
-| Subclass F-2 (F-2 (Residence)) | Possible to work as a self-employed individual after obtaining qualifications, provided certain conditions are met. |
-| Subclass F-4 (F-4 (Overseas Korean)) | Possible to work after domestic residence registration, but real estate brokerage activities are restricted. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent interpersonal and negotiation skills
-- People who are interested in the local real estate market and consistently gather information
-- People who prefer independent work
+- 具备出色人际交往和谈判技巧的人
+- 对当地房地产市场感兴趣并持续收集信息的人
+- 喜欢独立工作的人
 
 **谁不适合**
-- People who want regular working hours and stable income
-- People sensitive to customer service and emotional labor
+- 希望固定工作时间和稳定收入的人
+- 对客户服务和情感劳动敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a real estate agent?**
-答：For beginners, approximately 24-36 million KRW; varies greatly by experience and performance; senior (10+ years) can earn 60 million to over 100 million KRW.
+**问：房地产经纪人的平均年薪是多少？**
+答：初学者约2400-3600万韩元；因经验和业绩差异大；资深（10年以上）可达6000万至1亿韩元以上。
 
-**问：Can a foreigner work as a real estate agent in Korea?**
-答：Possible with an E-7 (Specific Activities) visa, but requires Korean proficiency (TOPIK Level 4 or higher), real estate agent license, employment contract, etc., and issuance is strict.
+**问：外国人在韩国能担任房地产经纪人吗？**
+答：可能需要E-7（特定活动）签证，但要求韩语能力（TOPIK 4级或以上）、房地产执照、雇佣合同等，审核严格。
 
-**问：Is a license required to become a real estate agent?**
-答：Yes, a real estate agent license is mandatory. After passing the exam, practical training must be completed to engage in brokerage.
+**问：成为房地产经纪人需要执照吗？**
+答：是的，房地产经纪人执照是强制性的。通过考试后，必须完成实践培训才能从事经纪业务。
 
 
 ---
@@ -143,12 +133,12 @@ After obtaining a Licensed Real Estate Agent certificate, one starts as a broker
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/real-estate-agent/KR)**

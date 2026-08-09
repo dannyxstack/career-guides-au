@@ -52,8 +52,6 @@ Welding and joining technicians perform welding, cutting, brazing, and bonding o
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Entry-level welder roles are decreasing due to AI-driven automated welding systems in manufacturing and construction, but demand for complex structural welding and field work remains.
-
 Entry-level welders can advance to welding technician or supervisor through experience, and further to welding engineer or quality inspector. After dual-system training, they can also obtain international welding certifications to increase salary potential.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Entry-level welders can advance to welding technician or supervisor through expe
 | Subclass Skilled Worker (Skilled Worker Visa) | After completing and certifying the dual vocational training, you can apply for a skilled migration visa. |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on points system, suitable for qualified welding technicians |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Yes, by further study to obtain a technician or engineer degree, or by obtain
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/welding-and-joining-technicians/DE)**

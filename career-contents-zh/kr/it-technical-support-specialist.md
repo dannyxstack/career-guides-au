@@ -1,8 +1,8 @@
-# IT Technical Support Specialist 职业分析 · 韩国
+# IT技术支持专家（IT Technical Support Specialist）职业分析 · 韩国
 
-**职业代码: 13433 (KECO)**
+**职业代码：13433 (KECO)**
 
-An IT service professional responsible for diagnosing and resolving information system failures in companies or institutions, as well as providing user training and system maintenance.
+负责诊断和解决公司或机构信息系统故障的IT服务专业人员，同时提供用户培训和系统维护。
 
 
 ---
@@ -11,9 +11,9 @@ An IT service professional responsible for diagnosing and resolving information 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 3年 | $0~$0（High school graduates can find employment, but a degree is advantageous） |
-| Associate degree (IT) | 2 年 | $2,000,000~$8,000,000（Difference between public/private） |
-| Bachelor's degree (IT) | 4年 | $10,000,000~$40,000,000（Difference between public/private） |
+| 高中毕业 | 3年 | $0~$0（高中毕业生可就业，但学位更有利） |
+| 副学士学位（IT） | 2 年 | $2,000,000~$8,000,000（公立/私立之间的差异） |
+| 学士学位（信息技术） | 4年 | $10,000,000~$40,000,000（公立/私立之间的差异） |
 
 ---
 
@@ -21,18 +21,18 @@ An IT service professional responsible for diagnosing and resolving information 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information Processing Engineer | Human Resources Development Service of Korea | 可选 | Basic certification, bonus points |
-| CCNA | Cisco | 可选 | Essential in networking field |
-| AWS认证解决方案架构师 | Amazon | 可选 | Advantageous for cloud technical support |
+| 信息处理工程师 | 韩国人力资源开发服务局 | 可选 | 基础认证，加分项 |
+| CCNA | 思科 | 可选 | 网络领域必备 |
+| AWS认证解决方案架构师 | 亚马逊 | 可选 | 对云技术支持有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 68,000. Continued demand is expected due to accelerated digital transformation and cloud proliferation, but some simple support tasks are expected to be reduced due to AI-based automation.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 68,000。由于数字化转型和云普及加速，需求将持续，但部分简单支持任务因AI自动化而减少。
 
-**竞争度: 中（★★★☆☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：中（★★★☆☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,96 +40,89 @@ An IT service professional responsible for diagnosing and resolving information 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $28,000,000~$35,000,000 | Based on small and medium enterprises |
-| Mid-level (4~7 years) | $38,000,000~$50,000,000 | High (Large Corp./Foreign Co.) |
-| Advanced (8+ years) | $52,000,000~$70,000,000 | Managerial level included |
+| 入门级（0~3年） | $28,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4~7年） | $38,000,000~$50,000,000 | 高（大企业/外资公司） |
+| 高级（8年以上） | $52,000,000~$70,000,000 | 包含管理层 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI and automation are replacing some ticket classification, remote diagnosis, and knowledge base searches, but complex problem-solving and customer empathy remain human domains. Ultimately, AI serves as a tool to assist support tasks, with roles expected to advance.
+AI和自动化正在取代部分工单分类、远程诊断和知识库搜索，但复杂问题解决和客户同理心仍属于人类领域。最终，AI作为支持任务的工具，角色预计将升级。
 
-Starting at helpdesk/first-level support, you can advance to second/third-level support, system engineer, and IT infrastructure manager with experience. Cloud certifications are advantageous.
+从服务台/一线支持开始，随着经验积累可晋升至二线/三线支持、系统工程师和IT基础设施经理。拥有云认证更佳。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- First-level issue classification and ticket creation
-- Basic remote PC checks
-- Knowledge base-based FAQ responses
-- Simple account management like password resets
+- 一级问题分类和工单创建
+- 基本远程PC检查
+- 基于知识库的常见问题解答
+- 简单的账户管理，如密码重置
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Log analysis collected by AI chatbots
-- Using automated remote diagnostic tools
-- Operating predictive maintenance systems
-- AI-based early anomaly detection
+- AI聊天机器人收集的日志分析
+- 使用自动化远程诊断工具
+- 操作预测性维护系统
+- 基于AI的早期异常检测
 
-**人类护城河:**
+**人类护城河：**
 
-- Complex troubleshooting skills
-- Customer trust and empathy
-- Flexible on-site adaptation
-- Understanding of security and compliance
+- 复杂故障排查技能
+- 客户信任与同理心
+- 灵活现场适应
+- 安全与合规理解
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Cloud Platforms (AWS/Azure/GCP)
-- DevOps Tools (Docker, Kubernetes)
-- Script Automation (Python, Bash)
-- Basic Understanding of AI/ML
+- 云平台（AWS/Azure/GCP）
+- DevOps工具（Docker, Kubernetes）
+- 脚本自动化（Python, Bash）
+- AI/ML基础了解
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cloud
-- AI technical support
+- 云
+- AI技术支持
 - 网络安全
-- Remote support
+- 远程支持
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Issuable upon employment as IT support specialist; degree and experience requirements must be met |
-| Subclass F-2 (Residence) | Can be converted to points-based system after certain period, favorable for long-term stay |
-| Subclass D-10 (Job Seeking) | Degree holders stay for job seeking; change to E-7 after employment |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★★☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone who enjoys problem-solving
-- Someone patient with customer service
-- Someone who continuously updates IT knowledge
+- 喜欢解决问题的人
+- 有耐心的客户服务人员
+- 持续更新IT知识的人
 
 **谁不适合**
-- Someone who dislikes repetitive tasks
-- Someone who avoids interpersonal contact
+- 不喜欢重复性任务的人
+- 避免人际接触的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an IT technical support specialist?**
-答：For early career (0-3 years), it's about 28-35 million KRW; mid-level 38-50 million KRW; senior 52-70 million KRW.
+**问：IT技术支持专家的平均薪资是多少？**
+答：初级（0-3年）约2800-3500万韩元；中级3800-5000万韩元；高级5200-7000万韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes. The E-7 visa is typical, requiring a relevant degree or 5+ years of experience.
+**问：外国人能获得此职业的工作签证吗？**
+答：可以。E-7签证是典型的，需要相关学位或5年以上经验。
 
-**问：What skills are important for growth in this role?**
-答：Cloud (AWS, Azure), networking (CCNA), scripting languages (Python, PowerShell), and communication skills are key.
+**问：此岗位成长需要哪些重要技能？**
+答：云计算（AWS、Azure）、网络（CCNA）、脚本语言（Python、PowerShell）和沟通技能是关键。
 
 
 ---
@@ -147,12 +140,12 @@ Starting at helpdesk/first-level support, you can advance to second/third-level 
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★★☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/it-technical-support-specialist/KR)**

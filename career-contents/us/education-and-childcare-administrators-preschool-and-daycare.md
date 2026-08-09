@@ -54,8 +54,6 @@ Plan, direct, or coordinate academic or non-academic activities of preschools or
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not completely replace preschool and daycare managers, but it will significantly compress administrative tasks while amplifying the value of curriculum design and family communication, evolving the role into a hybrid of data-driven and human-centered approaches.
-
 Typically advance from teacher or assistant to supervisor, center director, and potentially to regional director or education program manager. A master's degree or relevant certifications help with advancement.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Typically advance from teacher or assistant to supervisor, center director, and 
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: BLS projects 7% employment growth from 2023-2033, above average, driven by em
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/education-and-childcare-administrators-preschool-and-daycare/US)**

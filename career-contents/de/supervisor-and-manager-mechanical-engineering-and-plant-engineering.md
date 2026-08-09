@@ -52,8 +52,6 @@ Responsible for team management, project planning, and operational supervision i
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The supervisory and decision-making core of manufacturing managers remains human-led, but AI will significantly automate skilled tasks like production scheduling and quality inspection; entry-level roles may decrease due to remote monitoring tech, but demand for human-machine collaboration management skills increases.
-
 Usually start as a technician or engineer, gain experience and advance to team leader, department manager, then factory or technical director, some may move into project management or consulting.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as a technician or engineer, gain experience and advance to team l
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to look for work; requires proof of financial means and relevant qualifications |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based, introduced in 2024, suitable for those who have not yet found a job but meet eligibility criteria |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from supervisor to department manager, technical director, or eve
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-and-manager-mechanical-engineering-and-plant-engineering/DE)**

@@ -54,8 +54,6 @@ Training and Development Managers design, implement, and evaluate employee train
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI/automation reshapes corporate training roles: content production and administrative tasks are compressed, but trainers' value in strategy design, evaluation and coaching is amplified, and the role upgrades to learning experience designer.
-
 Can advance from training specialist to training and development manager, then to HR director or learning and development director. Obtaining certification from the Human Resources Institute of New Zealand (HRNZ) or project management certification (e.g., PRINCE2) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can advance from training specialist to training and development manager, then t
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited employer work visa, allows working in New Zealand for 2-3 years, eligible for residency if conditions met. |
 | Subclass Green List T2 (Green List Work to Residence) | Residency after 2 years of work, requires accredited employer and meeting salary requirements |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Steady demand growth, especially in healthcare, construction, and IT industri
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/training-and-development-manager/NZ)**

@@ -1,10 +1,8 @@
-# Telecommunications Equipment & Service Sales Representative 职业分析 · 韩国
+# 电信设备与服务销售代表（Telecommunications Equipment & Service Sales Representative）职业分析 · 韩国
 
-**职业代码: 61523 (KECO)**
+**职业代码：61523 (KECO)**
 
-A job that involves selling and consulting on telecommunications equipment and services such as mobile phones, internet, and bundled products at carrier stores or agencies.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+在运营商门店或代理机构销售和咨询电信设备和服务（如手机、互联网和捆绑产品）的工作。
 
 
 ---
@@ -13,8 +11,8 @@ A job that involves selling and consulting on telecommunications equipment and s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中文凭 | — | $0~$0（High school diploma or higher required） |
-| Associate degree (2-year) | 2 年 | $8,000,000~$12,000,000（Telecommunications or business-related majors） |
+| 高中文凭 | — | $0~$0（要求高中文凭或以上） |
+| 副学士学位（2年制） | 2 年 | $8,000,000~$12,000,000（电信或商科相关专业） |
 
 ---
 
@@ -22,18 +20,18 @@ A job that involves selling and consulting on telecommunications equipment and s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Telecommunications Equipment Sales Certificate | Korea Association of Information and Telecommunication Promotion (KAIT) | 可选 | Optional but advantageous for employment |
-| Distribution Management Professional | Korea Chamber of Commerce and Industry | 可选 | Optional, helpful for sales management |
-| Driver's license (Type 2 or higher) | Korean National Police Agency | 可选 | Required for some tasks |
+| 电信设备销售证书 | 韩国信息通信振兴协会（KAIT） | 可选 | 可选但有利于就业 |
+| 配送管理专业人员 | 大韩商工会议所 | 可选 | 可选，有助于销售管理 |
+| 驾驶执照（2类或以上） | 韩国警察厅 | 可选 | 部分任务需要 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 45,000. While the market is maintained by advancements in communication technologies like 5G and IoT and increased demand for smart devices, demand for offline sales representatives is expected to gradually decline due to the expansion of online channels and automation.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 45,000。虽然市场因5G和物联网等通信技术的进步以及智能设备需求的增长而得以维持，但由于在线渠道和自动化的扩展，线下销售代表的需求预计将逐渐下降。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -41,68 +39,60 @@ A job that involves selling and consulting on telecommunications equipment and s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $25,000,000~$32,000,000 | Base salary + incentives included |
-| Intermediate (4~7 years) | $33,000,000~$40,000,000 | Includes some allowances |
-| Advanced (8+ years) | $40,000,000~$50,000,000 | Includes store manager salary |
+| 初级（0~3 年） | $25,000,000~$32,000,000 | 基本工资+激励奖金 |
+| 中级（4-7年） | $33,000,000~$40,000,000 | 含部分津贴 |
+| 高级（8年以上） | $40,000,000~$50,000,000 | 包含店长薪资 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-With the development of AI and online channels, the role of telecommunications equipment and service salespeople is shrinking. Simple consultation tasks such as product comparison and rate plan recommendations are being replaced by AI chatbots and automation systems, and new hiring is decreasing due to a drop in offline store visitors. However, areas requiring human persuasion, such as complex consultations or high-end device sales, still remain.
+随着AI和在线渠道的发展，电信设备和服务销售人员的角色正在缩小。产品比较和套餐推荐等简单咨询任务正被AI聊天机器人和自动化系统取代，线下门店访客减少导致新招聘减少。然而，需要人工说服的领域，如复杂咨询或高端设备销售，仍然存在。
 
-Starting mainly at carrier agencies or electronics stores, one can advance to store manager or sales positions at carrier headquarters with experience, and transition to distribution and sales fields.
+主要从运营商代理店或电子商店开始，随着经验可晋升为店长或运营商总部销售职位，并转至分销和销售领域。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple rate plan recommendations
-- Product information guidance
-- Basic customer inquiry response
+- 简单费率计划推荐
+- 产品信息指导
+- 基本客户咨询回复
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Customized product recommendations
-- Establishing sales strategies through customer data analysis
-- Experience-based sales using VR/AR
+- 定制产品推荐
+- 通过客户数据分析制定销售策略
+- 基于VR/AR的经验式销售
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face trust-building ability
-- Cross-selling ability for complex products
-- Identifying and consulting on subtle customer needs
+- 面对面建立信任的能力
+- 复杂产品的交叉销售能力
+- 识别和咨询客户的微妙需求
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Digital marketing
-- Data analysis
+- 数字营销
+- 数据分析
 - 客户体验设计
-- Smart home/IoT-related knowledge
+- 智能家居/物联网相关知识
 
-**主要增长方向:**
+**主要增长方向：**
 
 - 5G
-- IoT
-- Smartphones
-- Bundled products
+- 物联网
+- 智能手机
+- 捆绑产品
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible if employed as a skilled telemarketer, but uncommon and not recommended. |
-| Subclass F-2 (Residence (F-2)) | Pre-permanent residence step with no employment restrictions, but difficult to obtain through this occupation alone. |
-| Subclass F-4 (Overseas Korean (F-4)) | Overseas Koreans have few employment restrictions and can work in this occupation. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -110,25 +100,25 @@ Starting mainly at carrier agencies or electronics stores, one can advance to st
 
 **谁适合**
 - 喜欢与人交流的人
-- People motivated by achieving sales targets
-- People with strong interest in communication devices
+- 有实现销售目标动力的人
+- 对通信设备有浓厚兴趣的人
 
 **谁不适合**
-- People who dislike repetitive face-to-face sales
-- People who struggle with irregular working hours
+- 不喜欢重复性面对面销售的人
+- 难以适应不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a telecom equipment/service salesperson?**
-答：As of 2023, entry-level salary is approximately 25–32 million KRW, and with 8+ years of experience, approximately 40–50 million KRW, including base pay and sales incentives.
+**问：电信设备/服务销售员的平均薪资是多少？**
+答：截至2023年，入门级薪资约2500-3200万韩元，8年以上经验者约4000-5000万韩元，包括基本工资和销售奖金。
 
-**问：Can I choose this occupation for immigration purposes?**
-答：Possible with an E-7 visa but very limited and generally not recommended. Overseas Koreans (F-4) or permanent residents (F-5) can work easily.
+**问：我可以选择这个职业用于移民目的吗？**
+答：持E-7签证有可能但非常有限，通常不建议。海外韩国人（F-4）或永久居民（F-5）可轻松工作。
 
 **问：职业晋升路径如何？**
-答：Starting as a general salesperson, you can advance to assistant store manager, store manager, or move to a sales management position at the telecommunications headquarters.
+答：从普通销售员做起，可晋升至助理店长、店长，或调任电信总部的销售管理岗位。
 
 
 ---
@@ -146,12 +136,12 @@ Starting mainly at carrier agencies or electronics stores, one can advance to st
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/telecommunications-equipment-service-sales-representative/KR)**

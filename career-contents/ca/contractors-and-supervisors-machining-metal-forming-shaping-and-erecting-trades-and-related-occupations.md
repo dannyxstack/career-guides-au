@@ -52,8 +52,6 @@ This occupation supervises and coordinates the activities of workers engaged in 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-This role involves both supervision and execution. AI will take over repetitive tasks like programming and quality inspection, reducing lower-level positions; but it will enhance capabilities in scheduling, process optimization, and remote diagnostics, requiring workers to upgrade technical management skills—risks and opportunities coexist.
-
 Typically promoted from skilled trades (e.g., welder, machinist). With experience, can become a contractor or company supervisor, or move into project management or self-employment. Continuous learning of new technologies (e.g., CNC, robotic welding) aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically promoted from skilled trades (e.g., welder, machinist). With experienc
 | Subclass PNP (Provincial Nominee Program) | Provincial nomination programs for skilled trades, such as Ontario's Skilled Trades stream. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visa, especially for occupations in demand |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Requires metalworking or mechanical skills, supervisory abilities, and knowle
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/contractors-and-supervisors-machining-metal-forming-shaping-and-erecting-trades-and-related-occupations/CA)**

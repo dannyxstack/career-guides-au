@@ -53,8 +53,6 @@ Responsible for filing letters, invoices, receipts and other records in alphabet
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Core tasks of archivists (classification, archiving, retrieval) are highly rule-based and easily replaced by AI-driven document management systems and RPA; demand will decline rapidly, expected to decrease by over 30% in the next 10 years.
-
 Can advance to senior archivist, records management specialist, or office supervisor. Further study and records management certification can lead to government or corporate archives departments.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Can advance to senior archivist, records management specialist, or office superv
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually difficult. This occupation typically requires only a high school dipl
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/file-clerks/US)**

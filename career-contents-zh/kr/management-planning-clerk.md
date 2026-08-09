@@ -1,10 +1,8 @@
-# Management Planning Clerk 职业分析 · 韩国
+# 管理规划文员（Management Planning Clerk）职业分析 · 韩国
 
-**职业代码: 02611 (KECO)**
+**职业代码：02611 (KECO)**
 
-A professional office worker who establishes mid- to long-term management strategies and plans/coordinates business plans. Supports management decision-making based on market analysis and financial forecasting.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+制定中长期管理战略并规划/协调业务计划的专业办公室职员。基于市场分析和财务预测支持管理决策。
 
 
 ---
@@ -13,8 +11,8 @@ A professional office worker who establishes mid- to long-term management strate
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Business Administration, Economics, Industrial Engineering) | 4年 | $8,000,000~$15,000,000（Annual tuition varies between national and private universities） |
-| College (Business Administration, Office Management) | 2 年 | $6,000,000~$10,000,000（Based on annual tuition） |
+| 大学（工商管理、经济学、工业工程） | 4年 | $8,000,000~$15,000,000（国立与私立大学的年学费不同） |
+| 大学（工商管理、办公管理） | 2 年 | $6,000,000~$10,000,000（基于年学费） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional office worker who establishes mid- to long-term management strate
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Management Consultant (Certified by Ministry of SMEs and Startups) | Ministry of SMEs and Startups | 可选 | Certification of management diagnosis and consulting capabilities for SMEs, not mandatory |
-| ERP Information Manager (KPC) | Korea Productivity Center | 可选 | Accounting, HR, logistics modules; proves work efficiency |
-| CIA (Certified Internal Auditor) | IIA (Institute of Internal Auditors) | 可选 | Preferred in large corporations and financial sector, related to internal control and risk management |
+| 管理顾问（由中小企业创业部认证） | 中小企业创业部 | 可选 | 中小企业管理诊断与咨询能力认证，非强制性 |
+| ERP信息管理员（KPC） | 韩国生产力中心 | 可选 | 会计、人力资源、物流模块；提升工作效率 |
+| CIA（注册内部审计师） | IIA（国际内部审计师协会） | 可选 | 在大企业和金融行业优先考虑，与内部控制和风险管理相关 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 85,000. Due to digital transformation and intensifying competition, demand for management planning remains steady, but data processing tasks are expected to decrease with the introduction of AI-based analysis tools. Personnel with strategic thinking skills are still needed.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 85,000。由于数字化转型和竞争加剧，管理规划需求保持稳定，但数据处理任务预计将随着基于AI的分析工具的引入而减少。仍需要具有战略思维的人员。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,89 +39,83 @@ A professional office worker who establishes mid- to long-term management strate
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $30,000,000~$40,000,000 | Based on SMEs; large corporations: 40–50 million KRW |
-| Mid (4–10 years) | $45,000,000~$65,000,000 | Varies greatly by experience and company size |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Executive or strategic planning head can reach 100+ million KRW |
+| 初级（0-3年） | $30,000,000~$40,000,000 | 基于中小企业；大企业：4000-5000万韩元 |
+| 中期（4-10年） | $45,000,000~$65,000,000 | 因经验和公司规模差异较大 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 执行或战略规划主管可达1亿韩元以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI can replace data processing tasks like market analysis, predictive modeling, and report drafting, but strategic planning and decision-making require human judgment. In business planning roles, AI will be used as a tool, automating some tasks but not fully replacing the role.
+AI可以替代市场分析、预测建模和报告起草等数据处理任务，但战略规划和决策需要人类判断。在商业规划岗位中，AI将作为工具使用，自动化部分任务但不会完全取代该角色。
 
-Typical career path: clerical → management planning officer → team leader/manager → executive (head of strategic planning). MBA or consulting experience is advantageous, with active career development in large corporations and financial sectors.
+典型职业路径：事务员→管理企划专员→团队领导/经理→高管（战略规划负责人）。MBA或咨询经验有优势，在大企业和金融行业职业发展活跃。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic statistical analysis and chart creation
-- Structured narrative for regular reports
-- Simple budget vs. performance comparison
+- 基础统计分析和图表制作
+- 常规报告的结构化叙事
+- 简单预算与绩效对比
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Market trend analysis
-- Simulation and scenario planning
-- Business data visualization
+- 市场趋势分析
+- 模拟与情景规划
+- 商业数据可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Strategic intuition and experience
-- Stakeholder persuasion and coordination skills
-- Understanding organizational culture and context
+- 战略直觉与经验
+- 利益相关者说服与协调能力
+- 理解组织文化与背景
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- Business modeling
-- Digital literacy
+- 数据分析
+- 业务建模
+- 数字素养
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Transformation
-- ESG Management
-- Data-driven Strategy
-- Portfolio Restructuring
+- 数字化转型
+- ESG管理
+- 数据驱动策略
+- 投资组合重组
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities Visa) | Issuable when meeting professional career (5+ years) and degree requirements; management planning falls under E-7-1 (Professional Personnel) |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy logical analysis and strategic thinking
-- People who prefer data-driven decision-making
-- People suited for collaborating across departments and seeing the big picture
+- 喜欢逻辑分析和战略思维的人
+- 偏好数据驱动决策的人
+- 适合跨部门协作、注重全局的人
 
 **谁不适合**
-- People who prefer simple repetitive tasks
-- People who like independent work over communication with others
+- 偏好简单重复任务的人
+- 喜欢独立工作而非与他人沟通的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a management planning clerk?**
-答：Approximately 45-55 million KRW for 5 years of experience, with a large gap between large and small/medium companies. Top 25% is 70 million KRW or more.
+**问：管理计划文员的平均年薪是多少？**
+答：5年经验约4500-5500万韩元，大企业与中小企业差距大。前25%为7000万韩元或以上。
 
-**问：Can foreigners get a work visa in the management planning field?**
-答：Possible but the expertise requirements are strict. The E-7 visa requires a bachelor's degree and 5+ years of experience, and Korean language skills are also important. F-2 (Residence) visa holders have fewer restrictions.
+**问：外国人能否获得管理策划领域的工作签证？**
+答：可能，但专业要求严格。E-7签证需学士学位和5年以上经验，韩语能力也很重要。F-2（居留）签证持有者限制较少。
 
 
 ---
@@ -141,12 +133,12 @@ Typical career path: clerical → management planning officer → team leader/ma
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/management-planning-clerk/KR)**

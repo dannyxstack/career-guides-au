@@ -53,8 +53,6 @@ Operate or tend crushing, grinding, and polishing machinery to process materials
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Many procedural and repetitive tasks in this occupation (e.g., input control, equipment adjustment, quality monitoring) are easily replaced by automated systems, so job demand will continue to shrink. Existing operators need to transition toward equipment maintenance and anomaly handling.
-
 Start as a junior operator, gain experience, and advance to senior operator or supervisor. Some move to equipment maintenance or quality control roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as a junior operator, gain experience, and advance to senior operator or s
 | Subclass H-1B (H-1B Specialty Occupation) | Usually not applicable, as this occupation typically does not require a bachelor's degree. |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Theoretically possible, but employer sponsorship is difficult as the occupation is considered low-skilled. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually only a high school diploma is required, followed by on-the-job traini
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crushing-grinding-and-polishing-machine-setters-operators-and-tenders/US)**

@@ -54,8 +54,6 @@ A director is the core creative leader in film, broadcast, or stage production, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on the director role is mixed: on one hand, automation tools are taking over tedious technical tasks, lowering the entry barrier; on the other hand, human creativity and leadership remain core, and directors who truly understand AI can gain greater creative freedom.
-
 Career path typically starts as assistant director or production assistant, then advances to associate director, director; senior directors can become producers or creative directors. Some move to advertising, game cinematics, or new media.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career path typically starts as assistant director or production assistant, then
 | Subclass Skilled Worker (Skilled Worker Visa for Qualified Professionals) | For directors with a university degree, the employer must provide the position; German is not mandatory but B1 is recommended. |
 | Subclass Freelancer / Artist  (Freelance Visa (Artist Residence Permit)) | Self-employed directors may apply for the artist visa, needing to prove project sources and income, first granted 1-2 years stay |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Usually requires a bachelor's degree in film or a related field, or completio
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-film-television-radio-or-stage/DE)**

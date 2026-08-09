@@ -1,10 +1,8 @@
-# Dermatologist 职业分析 · 韩国
+# 皮肤科医生（Dermatologist）职业分析 · 韩国
 
-**职业代码: 301112 (KECO)**
+**职业代码：301112 (KECO)**
 
-A doctor who diagnoses and treats skin diseases and also performs cosmetic skin procedures. Due to the limited number of specialists, they receive high salaries, and the demand for cosmetic dermatology is increasing.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+诊断和治疗皮肤疾病并执行美容皮肤手术的医生。由于专科医生数量有限，他们薪资高，且美容皮肤科需求日益增长。
 
 
 ---
@@ -13,8 +11,8 @@ A doctor who diagnoses and treats skin diseases and also performs cosmetic skin 
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduate School of Medicine (pre-med + medical school) | 6年 | $60,000,000~$99,999,999（Higher at national universities; private universities are more expensive） |
-| Dermatology residency training | 4年 | $30,000,000~$50,000,000（Salary during training is low, but training costs are free; living expenses must be considered） |
+| 医学院（预科+医学院） | 6年 | $60,000,000~$99,999,999（国立大学费用较高；私立大学更贵） |
+| 皮肤科住院医师培训 | 4年 | $30,000,000~$50,000,000（培训期间工资较低，但培训费用免费；需考虑生活费用） |
 
 ---
 
@@ -22,17 +20,17 @@ A doctor who diagnoses and treats skin diseases and also performs cosmetic skin 
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Medical license | Ministry of Health and Welfare | 必备 | Obtained after passing the Korean Medical Licensing Examination |
-| Dermatology Specialist Certificate | Korean Medical Association (Korean Dermatological Association) | 必备 | Obtained after completing residency and passing the specialist exam |
+| 医疗执照 | 保健福祉部 | 必备 | 通过韩国医师资格考试后获得 |
+| 皮肤科专科医师证书 | 韩国医学会（韩国皮肤科学会） | 必备 | 完成住院医师培训并通过专科考试后获得 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 4,200. With an aging population, the increase in skin diseases such as skin cancer and rising demand for cosmetic procedures make the employment outlook bright. However, competition is fierce due to limited physician quotas, and there is a concentration in the Seoul metropolitan area.
+**职位需求量：很高（★★★★½）** 全国从业人数约 4,200。随着人口老龄化，皮肤癌等皮肤疾病增加，以及美容手术需求上升，就业前景光明。但由于医生配额有限，竞争激烈，且集中于首尔都市圈。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,89 +38,83 @@ A doctor who diagnoses and treats skin diseases and also performs cosmetic skin 
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (Resident) | $40,000,000~$60,000,000 | Salary varies by hospital size during training |
-| Intermediate (Specialist, 2-5 years) | $99,999,999 | Self-employed or employed physician; varies depending on workplace |
-| Advanced (10+ years experience or self-employed) | $99,999,999 | Annual income can exceed ₩500 million if private practice is successful |
+| 入门级（居民） | $40,000,000~$60,000,000 | 培训期间薪资因医院规模而异 |
+| 中级（专家，2-5年） | $99,999,999 | 自雇或受雇医生；因工作场所而异 |
+| 高级（10年以上经验或自雇） | $99,999,999 | 如果私人执业成功，年收入可超过5亿韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI assists in dermatological diagnosis (including skin cancer reading), but procedures and patient consultations still require human doctors. The introduction of AI will improve diagnostic accuracy and work efficiency, but it is expected to enhance roles rather than replace jobs.
+人工智能协助皮肤病诊断（包括皮肤癌判读），但手术和患者咨询仍需人类医生。人工智能的引入将提高诊断准确性和工作效率，但预计将增强岗位而非取代工作。
 
-Pass the Korean Medical Licensing Examination → Complete 4 years of dermatology residency → Obtain a specialist certificate, then open a private practice or work at a university hospital/clinic. Income increases significantly upon successful practice opening, but requires initial capital and competition.
+通过韩国医师执照考试→完成4年皮肤科住院医师培训→获得专科证书，然后开设私人诊所或在大学医院/诊所工作。成功开业后收入显著增加，但需要初始资金和竞争。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Reading simple skin disease diagnoses
-- Standardized laser procedure settings
+- 读取简单皮肤病诊断
+- 标准化激光程序设置
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Early diagnosis of skin cancer
-- Patient education and personalized treatment planning
+- 皮肤癌早期诊断
+- 患者教育与个性化治疗计划
 
-**人类护城河:**
+**人类护城河：**
 
-- Direct face-to-face patient care
-- Hand skills for complex skin procedures (surgery, laser)
-- Medical judgment and ethical decisions
+- 直接面对患者的护理
+- 复杂皮肤手术（外科、激光）的手部技能
+- 医疗判断与伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilization of AI-based diagnostic tools
-- Improving proficiency in cosmetic skin procedures
-- Patient communication skills
+- 基于AI的诊断工具的使用
+- 提升美容皮肤护理技能
+- 患者沟通技巧
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Cosmetic dermatology
-- Geriatric dermatology
-- Skin cancer treatment
-- Laser procedures
+- 美容皮肤科
+- 老年皮肤科
+- 皮肤癌治疗
+- 激光手术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Possible when holding a foreign medical license and working in a domestic dermatology clinic; requires Korean language proficiency and credential verification |
-
-**PR友好度: 很高（★★★★½）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent medical knowledge and hand skills
-- People with customer service skills and aesthetic sense
-- People with patience to endure long-term study and training
+- 具备优秀医疗知识和手部技能的人
+- 具有客户服务技能和审美感的人
+- 有耐心进行长期学习与培训的人
 
 **谁不适合**
-- People who want quick income
-- People who want to avoid night shifts or on-call duties
+- 想快速获得收入的人
+- 希望避免夜班或值班的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a dermatologist?**
-答：After obtaining board certification, the starting salary for a salaried doctor is about 100-200 million KRW, and income can increase significantly when opening a private practice.
+**问：皮肤科医生的起薪是多少？**
+答：获得委员会认证后，受薪医生的起薪约为1-2亿韩元，开设私人诊所后收入可大幅增加。
 
-**问：Can a foreigner work as a dermatologist in Korea?**
-答：Yes, but it is very limited. The medical license certification process is strict, and to obtain an E-7 visa, Korean language proficiency and professional expertise must be demonstrated.
+**问：外国人能在韩国当皮肤科医生吗？**
+答：是的，但非常有限。医疗执照认证过程严格，且获得E-7签证需证明韩语能力和专业资质。
 
-**问：How many years does it take to become a dermatologist?**
-答：6 years of medical school + 4 years of residency, taking at least 10 years.
+**问：成为皮肤科医生需要多少年？**
+答：6年医学院+4年住院医师，至少需10年。
 
 
 ---
@@ -140,12 +132,12 @@ Pass the Korean Medical Licensing Examination → Complete 4 years of dermatolog
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 很高（★★★★½） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/dermatologist/KR)**

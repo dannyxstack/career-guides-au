@@ -53,8 +53,6 @@ Librarians have stable demand in New Zealand and can apply for residency through
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The role of librarians is being profoundly changed by AI: traditional tasks like cataloging and retrieval are rapidly automating, but jobs requiring interpersonal insight, such as user consultation and information literacy education, are expanding. Entry-level positions are narrowing due to reduced basic operations, but the librarian role is upgrading to data analysis and knowledge management, with mixed overall prospects.
-
 Librarians can advance to senior librarian, department head or information manager, requiring experience and management skills. Some transition to digital archiving or data management.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Librarians can advance to senior librarian, department head or information manag
 | Subclass Green List T2 (Green List Tier 2) | Can apply for residence after 2 years of work, requires accredited employer |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa, allows accumulating New Zealand work experience |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: No mandatory registration, but LIANZA professional registration can enhance c
 | Work intensity | low (★☆☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/librarian/NZ)**

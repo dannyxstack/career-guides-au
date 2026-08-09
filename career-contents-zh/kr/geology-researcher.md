@@ -1,10 +1,8 @@
-# Geology Researcher 职业分析 · 韩国
+# 地质研究员（Geology Researcher）职业分析 · 韩国
 
-**职业代码: 12115 (KECO)**
+**职业代码：12115 (KECO)**
 
-A geology researcher is a professional who studies the composition, structure, and history of the Earth, contributing to resource exploration, geological disaster prediction, and environmental conservation.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+地质研究员是研究地球组成、结构和历史的专业人士，为资源勘探、地质灾害预测和环境保护做出贡献。
 
 
 ---
@@ -13,9 +11,9 @@ A geology researcher is a professional who studies the composition, structure, a
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 本科（学士学位） | 4年 | $20,000,000~$50,000,000（Tuition based on national/public universities; private universities are higher） |
-| 硕士 | 2 年 | $10,000,000~$30,000,000（Graduate school tuition, scholarships available） |
-| Doctoral Degree | 3年 | $0~$10,000,000（May be free with research funding） |
+| 本科（学士学位） | 4年 | $20,000,000~$50,000,000（学费按国立/公立大学标准；私立大学更高） |
+| 硕士 | 2 年 | $10,000,000~$30,000,000（研究生学费，提供奖学金） |
+| 博士学位 | 3年 | $0~$10,000,000（可能因研究经费免费） |
 
 ---
 
@@ -23,18 +21,18 @@ A geology researcher is a professional who studies the composition, structure, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 硕士 | 大学 | 必备 | Essential for research positions |
-| Geological Engineer | Human Resources Development Service of Korea | 可选 | National technical qualification, not mandatory |
-| Applied Geological Engineer | Human Resources Development Service of Korea | 可选 | Advanced qualification, advantageous for employment |
+| 硕士 | 大学 | 必备 | 研究岗位必备 |
+| 地质工程师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，非强制 |
+| 应用地质工程师 | 韩国人力资源开发服务局 | 可选 | 高级资质，有利就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★½☆☆☆）.** 全国从业人数约 3,000. Employment of geology researchers in Korea is expected to stagnate or slightly decline due to decreased resource exploration and increased demand for environmental research, but some demand will be maintained through government R&D and overseas resource development projects.
+**职位需求量：较低（★½☆☆☆）** 全国从业人数约 3,000。韩国地质研究人员的就业预计将因资源勘探减少和环境研究需求增加而停滞或略有下降，但政府研发和海外资源开发项目将维持部分需求。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -42,94 +40,86 @@ A geology researcher is a professional who studies the composition, structure, a
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry Level (0-3 years) | $35,000,000~$45,000,000 | Starting salary at research institutes/companies |
-| Mid-Level (4-10 years) | $50,000,000~$70,000,000 | Section Chief-level Researcher |
-| 资深（10年以上） | $70,000,000~$99,999,999 | Principal Researcher/Professor |
+| 入门级（0-3年） | $35,000,000~$45,000,000 | 研究机构/公司的起薪 |
+| 中级（4-10年） | $50,000,000~$70,000,000 | 科长级研究员 |
+| 资深（10年以上） | $70,000,000~$99,999,999 | 首席研究员/教授 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI is used in geological data analysis, earthquake prediction, and resource exploration, but field surveys and complex interpretation still require human expertise, so full replacement is difficult.
+AI用于地质数据分析、地震预测和资源勘探，但实地调查和复杂解释仍需人工，完全取代困难。
 
-After obtaining a master's or doctoral degree, one can gain experience at research institutes, universities, or public corporations (e.g., Korea Institute of Geoscience and Mineral Resources), and advance to a research director or professor, or move to a government agency.
+获得硕士或博士学位后，可在研究院、大学或公共机构（如韩国地质资源研究院）积累经验，晋升为研究主管或教授，或转入政府机构。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic geological data collection and classification
-- Simple map production
-- Quantitative analysis report writing
+- 基础地质数据采集与分类
+- 简单地图制作
+- 定量分析报告撰写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Seismic wave interpretation
-- Mineral exploration optimization
-- Geological hazard prediction modeling
+- 地震波解释
+- 矿产勘探优化
+- 地质灾害预测建模
 
-**人类护城河:**
+**人类护城河：**
 
-- Field geological survey experience
-- Integrated Earth system understanding
-- Creative hypothesis formulation
+- 野外地质调查经验
+- 地球系统综合理解
+- 创造性假设提出
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning-based geological analysis
-- Remote sensing (satellite/drone) data processing
-- Geological modeling software
-- Data Science with Python/R
+- 基于机器学习的地质分析
+- 遥感（卫星/无人机）数据处理
+- 地质建模软件
+- 使用Python/R的数据科学
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Geological disaster prediction
-- Carbon capture and storage
-- Subsea resource exploration
-- Environmental restoration
+- 地质灾害预测
+- 碳捕集与封存
+- 海底资源勘探
+- 环境修复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Eligible for employment in specialized research fields, geological research |
-| Subclass D-2 (Study Abroad) | Graduate program, majoring in geology |
-| Subclass F-2 (Residence) | Long-term stay, eligible for highly educated individuals |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with a deep interest in earth science
-- People who enjoy long-term research and analysis
-- People who prefer outdoor field investigations
+- 对地球科学有浓厚兴趣的人
+- 喜欢长期研究和分析的人
+- 偏爱户外现场调查的人
 
 **谁不适合**
-- People who dislike repetitive indoor work
-- People who want short-term results
+- 不喜欢重复性室内工作的人
+- 追求短期结果的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a geologist?**
-答：Entry-level annual salary is around 35-45 million KRW, varying by institute or company.
+**问：地质学家的起薪是多少？**
+答：入门级年薪约3500-4500万韩元，因机构或公司而异。
 
-**问：Can foreigners work as geologists?**
-答：Possible with an E-7 visa, but requires Korean language skills, expertise, and a degree.
+**问：外国人可以担任地质学家吗？**
+答：可以通过E-7签证，但需要韩语能力、专业技能和学位。
 
-**问：What degree is needed for a geologist?**
-答：Research positions require at least a master's degree; a PhD is advantageous.
+**问：地质学家需要什么学位？**
+答：研究岗位至少需要硕士学位；博士学历有优势。
 
 
 ---
@@ -147,12 +137,12 @@ After obtaining a master's or doctoral degree, one can gain experience at resear
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/geology-researcher/KR)**

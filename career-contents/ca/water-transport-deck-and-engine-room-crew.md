@@ -52,8 +52,6 @@ Responsible for daily deck and engine room operations, maintenance, and safety w
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The workload for sailors and marine engineers is mixed: repetitive deck tasks are easily automated, but navigation safety supervision, emergency handling, and complex mechanical maintenance still require human judgment; AI is more of an auxiliary tool.
-
 Can start as an Ordinary Seaman (OS) or engine room trainee, gain experience to advance to officer roles (e.g., Deck Third Officer, Engine Third Officer), requiring maritime certification exams.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as an Ordinary Seaman (OS) or engine room trainee, gain experience to 
 | Subclass PNP (Provincial Nominee Program) | Some provinces such as BC and NS have maritime industry nomination programs |
 | Subclass Express Entry (Federal Skilled Worker (FSW)) | If you hold a senior crew qualification and have at least 1 year of work experience, you may meet FSW requirements |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must hold STCW Basic Safety Training certificate issued by Transport Canada, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-transport-deck-and-engine-room-crew/CA)**

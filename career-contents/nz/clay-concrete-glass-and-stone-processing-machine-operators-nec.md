@@ -52,8 +52,6 @@ This occupation can apply for an Accredited Employer Work Visa (AEWV) in New Zea
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation will significantly reduce demand for this occupation, as material processing tasks are highly programmable, visual inspection and process control are gradually taken over by machine vision and AI systems, but equipment maintenance and anomaly handling still require humans.
-
 Can advance from operator to senior operator, team leader, or production supervisor; with experience can shift to quality control or equipment maintenance. Some become technical experts through training or start small processing plants.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from operator to senior operator, team leader, or production supervi
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Operating machines, measuring precision, quality control, basic mechanical re
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/clay-concrete-glass-and-stone-processing-machine-operators-nec/NZ)**

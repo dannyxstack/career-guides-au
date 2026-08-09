@@ -54,8 +54,6 @@ Art metal craftspeople shape and decorate metal by hand, creating sculptures, fu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Artistic metal craftsmen are at a bittersweet crossroads with AI: generative AI can assist in design creativity and structural optimization, but manual forging and welding are hard to replace. Entry-level roles are shrinking due to AI-assisted design tools, while high-end custom work remains secure.
-
 Career progression can go from skilled craftsman to workshop supervisor or self-employed studio owner. Further training (e.g., Meister) can lead to trainer or master craftsman roles. Some may transition to jewelry design or industrial metal design.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can go from skilled craftsman to workshop supervisor or self-
 | Subclass Opportunity Card (Ch (Opportunity Card (based on points system)) | A new pathway in 2024, based on a points system, suitable for candidates with professional experience but without a job offer yet. |
 | Subclass Recognition Visa (Recognition Visa (Section 16d AufenthG)) | Used for completing qualification recognition procedures in Germany, up to 18 months. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can progress from apprentice to skilled artisan, workshop supervisor, or beco
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/artistic-metalworker/DE)**

@@ -1,10 +1,8 @@
-# Animal Science and Veterinary Medicine Researcher 职业分析 · 韩国
+# 动物科学和兽医研究员（Animal Science and Veterinary Medicine Researcher）职业分析 · 韩国
 
-**职业代码: 12216 (KECO)**
+**职业代码：12216 (KECO)**
 
-A professional specializing in livestock disease prevention, productivity improvement, and food safety, conducting laboratory and field research.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+专注于家畜疾病预防、生产力提升和食品安全的专业人员，进行实验室和现场研究。
 
 
 ---
@@ -13,9 +11,9 @@ A professional specializing in livestock disease prevention, productivity improv
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's in Veterinary Medicine | 6年 | $40,000,000~$60,000,000（Tuition at national universities） |
-| Master's in Animal Science | 2 年 | $15,000,000~$30,000,000（Graduate school tuition） |
-| Doctorate in Animal Science | 4年 | $10,000,000~$20,000,000（Scholarships available） |
+| 兽医学学士 | 6年 | $40,000,000~$60,000,000（国立大学学费） |
+| 动物科学硕士 | 2 年 | $15,000,000~$30,000,000（研究生学费） |
+| 动物科学博士 | 4年 | $10,000,000~$20,000,000（可提供奖学金） |
 
 ---
 
@@ -23,18 +21,18 @@ A professional specializing in livestock disease prevention, productivity improv
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Veterinary License | Ministry of Agriculture, Food and Rural Affairs | 可选 | Requires graduation from veterinary school and passing the national exam |
-| Livestock Engineer | Human Resources Development Service of Korea | 可选 | Requires university major or experience |
-| Research Note Certification | National Research Foundation of Korea | 可选 | Required for government research projects |
+| 兽医执照 | 农业、食品与农村事务部 | 可选 | 要求从兽医学院毕业并通过国家考试 |
+| 畜牧工程师 | 韩国人力资源开发服务局 | 可选 | 需要大学专业或经验 |
+| 研究证明认证 | National Research Foundation of Korea | 可选 | 政府研究项目所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 3,200. Employment is stable due to the growth of K-Food exports and the need for livestock epidemic management, though AI adoption may change some tasks.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 3,200。由于K-Food出口增长和家畜流行病管理的需要，就业稳定，尽管AI应用可能改变某些任务。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★★☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★★☆☆）**
 
 ---
 
@@ -42,93 +40,85 @@ A professional specializing in livestock disease prevention, productivity improv
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry (0–3 years) | $30,000,000~$45,000,000 | Researcher level |
-| Mid (4–9 years) | $45,000,000~$65,000,000 | Senior Researcher |
-| 资深（10年以上） | $65,000,000~$90,000,000 | Principal Researcher or higher |
+| 初级（0-3年） | $30,000,000~$45,000,000 | 研究员级别 |
+| 中等（4-9年） | $45,000,000~$65,000,000 | 高级研究员 |
+| 资深（10年以上） | $65,000,000~$90,000,000 | 首席研究员或更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI improves research efficiency in data analysis, disease prediction modeling, and image diagnosis, but tasks requiring creativity and ethical judgment—such as field experiments, animal behavior observation, and new vaccine development—still rely on human roles.
+AI在数据分析、疾病预测模型和图像诊断方面提高了研究效率，但需要创造力和伦理判断的任务——如实地实验、动物行为观察和新疫苗开发——仍依赖人类角色。
 
 With a master's or doctoral degree, researchers work in institutes, universities, or government agencies, advancing to senior researcher or lab director based on experience.
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data cleaning and statistical analysis
-- Basic image interpretation
-- Literature search and summarization
+- 数据清洗与统计分析
+- 基础图像解读
+- 文献检索与总结
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Disease prediction model development
-- Genomic data analysis
-- Experiment automation
+- 疾病预测模型开发
+- 基因组数据分析
+- 实验自动化
 
-**人类护城河:**
+**人类护城河：**
 
-- Animal experiment design and ethical judgment
-- On-site problem-solving skills
-- Veterinary clinical diagnosis
+- 动物实验设计与伦理判断
+- 现场解决问题的能力
+- 兽医临床诊断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI/ML basics
-- Data visualization
-- Animal welfare and ethics
+- AI/ML基础
+- 数据可视化
+- 动物福利与伦理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Livestock disease prevention
-- Livestock product safety
-- Animal welfare
-- Smart livestock farming
+- 家畜疫病预防
+- 畜产品安全
+- 动物福利
+- 智慧畜牧业
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | For skilled research personnel, requires proof of expertise |
-| Subclass D-2 (D-2 (Study Abroad)) | For master's/doctoral students, allows research participation |
-| Subclass F-2 (F-2 (Residence)) | Favorable for long-term researchers, step before permanent residency |
-
-**PR友好度: 中低（★★☆☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with a deep interest in life sciences and animals
-- Someone with systematic and meticulous analytical skills
-- Someone who excels at both collaboration and independent research
+- 对生命科学和动物有浓厚兴趣的人
+- 具备系统性和细致分析能力的人
+- 既能协作又能独立研究的人
 
 **谁不适合**
-- Someone who dislikes outdoor fieldwork
-- Someone who lacks patience for repetitive experimental tasks
+- 不喜欢户外实地工作的人
+- 缺乏耐心进行重复实验任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the typical salary for an animal science/veterinary researcher?**
-答：Entry-level: 30–45 million KRW; with experience, it can rise to 90 million KRW.
+**问：动物科学/兽医研究员的典型薪资是多少？**
+答：入门级：3000–4500万韩元；有经验可达9000万韩元。
 
-**问：Can foreigners get a work visa for this occupation?**
-答：Yes. You can work at research institutes or universities on an E-7 visa; a master's degree or higher is advantageous.
+**问：外国人能获得此职业的工作签证吗？**
+答：可以。持有E-7签证可在研究机构或大学工作；硕士及以上学历更有利。
 
-**问：What degree is required?**
-答：Generally a master's degree or higher is required; veterinary research requires a veterinary license.
+**问：需要什么学位？**
+答：通常需要硕士及以上学历；兽医研究需要兽医执照。
 
 
 ---
@@ -146,12 +136,12 @@ With a master's or doctoral degree, researchers work in institutes, universities
 | 工作强度 | 中（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中低（★★☆☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/animal-science-and-veterinary-medicine-researcher/KR)**

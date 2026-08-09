@@ -53,8 +53,6 @@ A retail sales assistant provides product information to customers, assists with
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI will partially replace repetitive tasks like cashiering and inventory checks, but also enhance personalized recommendations and customer service, raising skill requirements and potentially entry barriers.
-
 Junior sales assistants can advance to senior sales, department head, or store manager, or move into purchasing, visual merchandising, and other roles. With experience, they may enter retail management training programs.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Junior sales assistants can advance to senior sales, department head, or store m
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: This occupation is not on the shortage list, requires a General Employment Pe
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-sales-assistant/IE)**

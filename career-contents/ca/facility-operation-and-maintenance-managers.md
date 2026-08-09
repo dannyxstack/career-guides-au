@@ -52,8 +52,6 @@ Facility managers oversee the operation, maintenance, safety and efficiency of b
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Facility operations and maintenance managers significantly benefit from AI enhancement, but automation poses a threat to some routine monitoring and data analysis tasks. Overall, AI will augment rather than replace this role, but proactive learning of new tools is required to maintain competitiveness.
-
 Can start as a facility coordinator, progress to regional facility manager or director, or move into sustainability or asset management.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Can start as a facility coordinator, progress to regional facility manager or di
 | Subclass PNP (Provincial Nominee Program) | Ontario and British Columbia have priority invitations for related occupations. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship for permanent residence |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Yes. This occupation is NOC TEER 0, meets FSW and CEC requirements, but must 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/facility-operation-and-maintenance-managers/CA)**

@@ -4,8 +4,6 @@
 
 In the Republic of Korea Armed Forces, NCOs are mid-level leaders who assist officers and handle administrative, technical, and tactical duties. They exercise expertise between enlisted personnel and officers, responsible for operations and maintenance in each branch.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In the Republic of Korea Armed Forces, NCOs are mid-level leaders who assist off
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation can replace some administrative and maintenance tasks of NCOs, but areas like leadership, command, and tactical judgment remain uniquely human. Overall demand for NCOs may decrease, but technical specialist NCOs will become more important.
-
 NCOs are commissioned as Sergeants and advance to Staff Sergeant, Sergeant First Class, and Sergeant Major; some may become Warrant Officers. Professional development through job rotation and training, with pension benefits for long service.
 
 **Tasks most exposed to AI:**
@@ -93,16 +89,9 @@ NCOs are commissioned as Sergeants and advance to Staff Sergeant, Sergeant First
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Limited permit only for foreigners with military-related technical skills (e.g., weapons maintenance); not applicable to general NCOs. |
-| Subclass F-2 (Residence (F-2)) | Non-commissioned officer appointment is not possible for those who have lost Korean nationality; generally not applicable. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -146,12 +135,12 @@ A: Generally, promotion occurs after 4 years as sergeant, 5-6 years as staff ser
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/noncommissioned-officer-nco/KR)**

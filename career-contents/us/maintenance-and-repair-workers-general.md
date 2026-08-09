@@ -53,8 +53,6 @@ Perform tasks involving two or more maintenance or process occupations to keep m
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Maintenance and repair work is mixed in terms of AI impact: routine inspections and documentation may be automated, but on-site troubleshooting and complex repairs still rely on human experience and hands-on skills; overall demand is stable, and skill requirements will increase
-
 Career progression typically starts with an apprenticeship or junior tradesperson, with experience leading to senior tradesperson, supervisor, or facility manager. Earning specialized certifications (e.g., HVAC, electrical) can increase salary and rank.
 
 **Tasks most exposed to AI:**
@@ -106,8 +104,6 @@ Career progression typically starts with an apprenticeship or junior tradesperso
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Usually requires only a high school diploma; most skills are acquired through
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/maintenance-and-repair-workers-general/US)**

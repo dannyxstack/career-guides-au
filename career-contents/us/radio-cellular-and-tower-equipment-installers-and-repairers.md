@@ -52,8 +52,6 @@ Responsible for installing, maintaining, and repairing mobile or fixed radio tra
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will compress demand: automated network optimization, remote diagnostics, and drone inspections take over many high-altitude tasks, reducing entry-level jobs, but core maintenance still requires human workers.
-
 Entry-level positions typically start as tower installation or repair assistants; gain experience to advance to senior technician or supervisor, some may move to network planning or project management. Continuous learning of new technologies is required to adapt to industry changes.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Entry-level positions typically start as tower installation or repair assistants
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | For skilled workers, requires PERM labor certification, long backlog. |
 | Subclass TN (Trade NAFTA (USMCA) Professional) | Applicable to Canadian or Mexican citizens; profession not explicitly listed but may apply under engineer category. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: This occupation typically can follow the H-1B or EB-3 green card path, but re
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radio-cellular-and-tower-equipment-installers-and-repairers/US)**

@@ -56,8 +56,6 @@ Senior fire officer responsible for commanding fire operations, managing firefig
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on fire chiefs and senior fire officers is mixed: administrative and data analysis tasks can be automated, but on-site command, crisis decision-making, and team leadership remain core human strengths, with AI primarily playing an auxiliary enhancement role.
-
 Typically start as firefighters, gradually promoted to captain, deputy chief, and finally fire chief. Requires completing advanced management training and certifications.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Typically start as firefighters, gradually promoted to captain, deputy chief, an
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually start as firefighters, gain years of experience, then advance to capt
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fire-chiefs-and-senior-firefighting-officers/CA)**

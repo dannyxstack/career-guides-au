@@ -50,8 +50,6 @@ Engineer responsible for designing and developing engines, chassis, electrical s
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will replace some tasks like autonomous driving control and design optimization, but human roles such as creative design, system integration, and legal judgment will remain. AI utilization skills will become essential in the future.
-
 After joining a manufacturer as a new graduate, accumulate OJT in assigned department and advance to project leader or specialist engineer. Later career options include management or consulting.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ After joining a manufacturer as a new graduate, accumulate OJT in assigned depar
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and relevant work experience. Applicable to development work at automobile manufacturers. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Point-based system for core talent at large companies. Easier to obtain permanent residency. |
-| Subclass 特定活動（インターンシップ） (Designated Activities) | Allows stay for a fixed period for industry-academia collaborative R&D purposes. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: In addition to deepening expertise (e.g., in EVs, autonomous driving, softwar
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-engineer-development/JP)**

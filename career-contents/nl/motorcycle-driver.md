@@ -4,8 +4,6 @@
 
 Deliver goods or passengers via motorcycle, commonly used for courier and food delivery services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Deliver goods or passengers via motorcycle, commonly used for courier and food d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Motorcycle drivers face automation compression risks, especially as delivery route optimization and autonomous driving technology may reduce demand for human labor, but real-time decision-making and flexible operations remain difficult to fully replace.
-
 Can be promoted to fleet supervisor or logistics coordinator, with some transitioning to transport management roles.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ Can be promoted to fleet supervisor or logistics coordinator, with some transiti
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-skilled migration, but motorcycle drivers usually do not meet the requirements. |
-| Subclass Highly Skilled Migra (Highly Skilled Migrant (Kennismigrant)) | Must meet the salary threshold, which motorcycle drivers generally cannot satisfy. |
-| Subclass Orientation Year (Orientation Year (Zoekjaar)) | For international students graduating in the Netherlands, allows free work but with lower career threshold. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +143,12 @@ A: Can advance to fleet supervisor, logistics coordinator, or transport manager.
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motorcycle-driver/NL)**

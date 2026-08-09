@@ -51,8 +51,6 @@ Responsible for managing and leading a physical laboratory or research team, inc
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Physics managers and leaders are typical 'AI-augmented' occupations—routine data analysis, report generation, literature searches, etc., can be automated, but team leadership, strategic decision-making, interdisciplinary collaboration, and ethical judgment are enhanced by AI, making roles more focused on high-value management activities.
-
 Typically start as physicist or research scientist, accumulate project management experience to advance to team leader, then department head. Requires continuous learning of new technologies and management skills.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as physicist or research scientist, accumulate project managemen
 | Subclass Skilled Worker (Skilled Immigration Act) | For applicants with a recognized German qualification, an employment contract is required for this position. |
 | Subclass Job Seeker (Job Seeker Visa) | Allows a 6-month stay in Germany to find suitable employment, applicable to highly skilled talent. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a master's or doctoral degree in physics; no additional na
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manager-in-physics/DE)**

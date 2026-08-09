@@ -52,8 +52,6 @@ Teach career, technical, or trade courses at the secondary school level to help 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on secondary school teachers is mixed: repetitive administrative tasks will be automated, but core teaching, emotional care, and complex classroom management are hard to replace. Teachers need to adapt to tech-assisted teaching and improve AI literacy to stay competitive.
-
 Usually start as a part-time or intern teacher, gain experience to advance to head of department or course coordinator; some teachers transition to career advisor or education administrator.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Usually start as a part-time or intern teacher, gain experience to advance to he
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Typically requires a bachelor's degree and state teaching license; some state
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/career-technical-education-teachers-secondary-school/US)**

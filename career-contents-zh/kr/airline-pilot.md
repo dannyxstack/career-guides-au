@@ -1,10 +1,8 @@
-# Airline Pilot 职业分析 · 韩国
+# 航空公司飞行员（Airline Pilot）职业分析 · 韩国
 
-**职业代码: 62111 (KECO)**
+**职业代码：62111 (KECO)**
 
-A professional who operates civil and military aircraft to safely transport passengers and cargo, requiring rigorous qualifications and training.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+操作民用和军用飞机安全运送乘客和货物的专业人员，需要严格的资格和培训。
 
 
 ---
@@ -13,8 +11,8 @@ A professional who operates civil and military aircraft to safely transport pass
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Bachelor's degree in Aeronautical Science or Aviation | 4年 | $30,000,000~$60,000,000（3 million KRW at national universities, up to 6 million KRW at private universities） |
-| Flight training program | 1.5年 | $50,000,000~$99,999,999（Cost varies significantly depending on flight hours acquired） |
+| 航空科学或航空学士学位 | 4年 | $30,000,000~$60,000,000（国立大学300万韩元，私立大学高达600万韩元） |
+| 飞行训练项目 | 1.5年 | $50,000,000~$99,999,999（费用根据获得的飞行小时数差异很大） |
 
 ---
 
@@ -22,18 +20,18 @@ A professional who operates civil and military aircraft to safely transport pass
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 航线运输飞行员执照（ATPL） | Ministry of Land, Infrastructure and Transport | 必备 | Required for civil airline captain; minimum 1,500 flight hours needed |
-| 仪表等级（IR） | Ministry of Land, Infrastructure and Transport | 必备 | Certifies instrument flight proficiency |
-| First-Class Medical Certificate | Ministry of Land, Infrastructure and Transport | 必备 | Requires annual renewal |
+| 航线运输飞行员执照（ATPL） | 国土交通省 | 必备 | 民用航空机长所需；最低需1500飞行小时 |
+| 仪表等级（IR） | 国土交通省 | 必备 | 认证仪表飞行能力 |
+| 一级医疗证书 | 国土交通省 | 必备 | 需每年续签 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★★☆☆）.** 全国从业人数约 8,500. Over the next five years, hiring is expected to increase due to recovery in air travel demand, though workforce size will remain small and elite. Expansion of new airlines may create more opportunities.
+**职位需求量：中（★★★☆☆）** 全国从业人数约 8,500。未来五年，由于航空旅行需求复苏，招聘预计将增加，尽管劳动力规模仍然较小且精英化。新航空公司的扩张可能创造更多机会。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -41,92 +39,85 @@ A professional who operates civil and military aircraft to safely transport pass
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–5 years) | $40,000,000~$70,000,000 | Fixed salary based on LCC First Officer position |
-| Mid-level (5–15 years) | $80,000,000~$99,999,999 | Starting salary for major airline First Officer to Captain |
-| Senior-level (15+ years) | $99,999,999 | Major airline Captain, international routes basis |
+| 入门级（0-5年） | $40,000,000~$70,000,000 | 根据LCC副驾驶职位固定薪资 |
+| 中级（5-15年） | $80,000,000~$99,999,999 | 大型航空公司副机长至机长的起薪 |
+| 高级（15年以上） | $99,999,999 | 主要航空公司机长，国际航线标准 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation technology assist pilot tasks, but human pilots are expected to retain responsibility for handling complex situations and safety. The focus is on improving efficiency rather than reducing tasks due to automation.
+人工智能和自动化技术辅助飞行员任务，但人类飞行员仍负责处理复杂情况和安全。重点在于提高效率，而非因自动化减少任务。
 
-Promotion path: flight training school → First Officer → Captain → Senior Captain or training/management roles. Reaching captain at a major airline typically requires 10–15+ years of experience.
+晋升路径：飞行培训学校→副驾驶→机长→高级机长或培训/管理岗位。在大航司成为机长通常需要10-15年以上经验。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Regular altitude maintenance and automatic flight
-- Fuel optimization calculation
-- Basic communication procedures
+- 定期高度维持与自动飞行
+- 燃油优化计算
+- 基本通信流程
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Emergency situation judgment and decision-making
-- Weather diversion route planning
-- Passenger and crew management
+- 紧急情况判断与决策
+- 天气改航路线规划
+- 乘客和机组管理
 
-**人类护城河:**
+**人类护城河：**
 
-- Crisis response skills
+- 危机应对能力
 - 法律与伦理责任承担
-- Building passenger trust
+- 建立乘客信任
 
-**需构建的技能:**
+**需构建的技能：**
 
-- System monitoring
-- Data analysis
-- Crew resource management
+- 系统监控
+- 数据分析
+- 机组资源管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Growth of low-cost carriers
-- Recovery of international routes
-- Early retirement of pilots
-- Introduction of next-generation aircraft
+- 低成本航空公司增长
+- 国际航线的恢复
+- 飞行员提前退休
+- 下一代飞机介绍
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment visa for foreign pilots; requires proof of skill and expertise. |
-| Subclass F-2 (Residence) | Pre-permanent residence stage; can convert after long-term work. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with high stress tolerance and concentration
-- People who like following systematic procedures
-- People willing to invest in continuous self-care and learning
+- 抗压能力强、专注力高的人
+- 喜欢遵循系统化流程的人
+- 愿意投资持续自我护理和学习的人
 
 **谁不适合**
-- People who struggle with irregular lifestyle and lengthy isolated work
-- People negligent in physical and mental health care
+- 难以适应不规律生活和长时间孤立工作的人
+- 忽视身心健康护理的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of an aircraft pilot?**
-答：First officer starting salary 40–70 million KRW, captain 1.5–300 million KRW, varying greatly by experience and airline size.
+**问：飞机飞行员的平均薪资是多少？**
+答：副机长起薪4000-7000万韩元，机长1.5-3亿韩元，因经验和航空公司规模差异很大。
 
-**问：What visa do foreigners need to work as an aircraft pilot in Korea?**
-答：E-7 (Specific Activities) visa is required; aviation industry experience and licenses must be proven.
+**问：外国人在韩国担任飞机驾驶员需要什么签证？**
+答：需要E-7（特定活动）签证；必须证明航空行业经验和执照。
 
-**问：What is the cost of training to become a pilot?**
-答：The flight training course costs 50 million to 150 million KRW, and including a university degree, it can reach up to 200 million KRW or more.
+**问：成为一名飞行员的培训费用是多少？**
+答：飞行培训课程费用为5000万至1.5亿韩元，包括大学学历最高可达2亿韩元或以上。
 
 
 ---
@@ -144,12 +135,12 @@ Promotion path: flight training school → First Officer → Captain → Senior 
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/airline-pilot/KR)**

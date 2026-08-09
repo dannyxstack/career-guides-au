@@ -4,8 +4,6 @@
 
 Forestry technicians manage forest resources, afforestation, harvesting plans, pest control, and fire prevention, supporting sustainable forestry development.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Forestry technicians manage forest resources, afforestation, harvesting plans, p
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Forestry technician roles face mixed AI impacts: data collection and monitoring tasks are automated, but complex ecological decisions and field operations still rely on human judgment.
-
 From junior technician to senior technician or forest manager, requiring field experience and professional certification.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ From junior technician to senior technician or forest manager, requiring field e
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Targets highly skilled non-EU citizens; annual salary must meet threshold (approx. €28,000); forestry technicians may qualify |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota; employer-sponsored; non-occupations in demand face stronger competition |
-| Subclass Autonomous Work Visa (Self-Employment Visa) | Self-employed forestry consultant or contractor, requires a business plan. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: At least 2-year forestry diploma or 3-year bachelor's degree required, public
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/forestry-technician/IT)**

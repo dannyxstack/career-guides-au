@@ -52,8 +52,6 @@ Plan, direct, or coordinate advertising policies and programs, or produce promot
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-AI will significantly improve marketing efficiency while compressing some repetitive execution roles, but strategy, creativity and client relationship management remain core human strengths, overall opportunities and risks coexist.
-
 Typically promoted from marketing, advertising, or sales roles. Can advance to senior management by obtaining digital marketing certifications, an MBA, or accumulating large project experience.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Typically promoted from marketing, advertising, or sales roles. Can advance to s
 | Subclass EB-3 (EB-3 Skilled Worker) | Requires bachelor's degree and at least 2 years experience, apply through PERM. |
 | Subclass L-1A (L-1A Intracompany Transferee) | Multinational manager, must hold a senior management role in an overseas company. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Usually starts as advertising coordinator, marketing specialist, digital mark
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/advertising-and-promotions-managers/US)**

@@ -54,8 +54,6 @@ Production assistants assist in the daily operations of film, television, or sta
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on production assistant roles: automation threatens administrative tasks like schedule coordination and document organization, but AI tools can enhance on-site coordination and clip pre-screening, shifting the role toward technical assistant.
-
 After gaining project experience, one can advance to roles such as production coordinator, assistant director, or production manager. Some production assistants move into specialized areas like props management or post-production. Networking and a strong portfolio are key.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ After gaining project experience, one can advance to roles such as production co
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to roles such as production coordinator, assistant director, prod
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/production-assistant-film-television-radio-or-stage/NZ)**

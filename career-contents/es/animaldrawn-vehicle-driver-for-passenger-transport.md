@@ -4,8 +4,6 @@
 
 Driving animal-drawn carts (horse-drawn carts, donkey carts, etc.) to transport passengers is commonly seen in short-distance travel in tourist towns or rural areas. The work includes caring for the tending animals, maintaining vehicles, and obeying traffic rules.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Driving animal-drawn carts (horse-drawn carts, donkey carts, etc.) to transport 
 **Future prospect: very low (★☆☆☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-As a passenger driver of animal-powered vehicles, your core driving tasks are easily replaced by electric sightseeing vehicles or low-speed autonomous shuttles. Tourist cities are showing signs of replacement, and job demand has sharply declined.
-
 Usually, they start by caring for animals and assisting with driving, and after gaining experience, can independently drive or manage small fleets. A small number of people turned to tour guides or rickshaw rental businesses.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Usually, they start by caring for animals and assisting with driving, and after 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employed)) | An employer must provide a work contract, but since the occupation is not highly skilled, approval is relatively difficult |
-| Subclass Autorización de resi (Exceptional Circumstances Residence) | For rooted residence, you must have lived in Spain for at least 3 years, among other conditions |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Usually no formal certificate required, but employers may require basic anima
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | very low (★☆☆☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/animaldrawn-vehicle-driver-for-passenger-transport/ES)**

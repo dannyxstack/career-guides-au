@@ -1,10 +1,8 @@
-# Radiologist 职业分析 · 韩国
+# 放射科医生（Radiologist）职业分析 · 韩国
 
-**职业代码: 30119 (KECO)**
+**职业代码：30119 (KECO)**
 
-A specialist who interprets medical images to diagnose diseases and plans/executes radiation treatments.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+解读医学影像以诊断疾病并计划/执行放射治疗的专业人员。
 
 
 ---
@@ -13,8 +11,8 @@ A specialist who interprets medical images to diagnose diseases and plans/execut
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Graduate School of Medicine (Medical School) | 6年 | $60,000,000~$99,999,999（含学费和生活费） |
-| Radiology resident | 4年 | $10,000,000~$20,000,000（Annual salary during training approx. ₩40 million, living expenses separate） |
+| 医学研究生院（医学院） | 6年 | $60,000,000~$99,999,999（含学费和生活费） |
+| 放射科住院医师 | 4年 | $10,000,000~$20,000,000（培训期间年薪约4000万韩元，生活费另计） |
 
 ---
 
@@ -22,18 +20,18 @@ A specialist who interprets medical images to diagnose diseases and plans/execut
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 行医执照 | Ministry of Health and Welfare | 必备 | Passing the national exam |
-| Radiology Specialist | Korean Medical Association | 必备 | Certification exam after residency training |
-| Radiation Safety Manager | Korea Institute of Nuclear Safety | 可选 | Additional qualification related to radiation safety |
+| 行医执照 | 保健福祉部 | 必备 | 通过国家考试 |
+| 放射科专家 | 韩国医学会 | 必备 | 住院医师培训后的认证考试 |
+| 辐射安全经理 | 韩国核安全研究所 | 可选 | 与辐射安全相关的额外资格 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 5,200. Due to aging population and increased demand for health screenings, the need for radiological diagnosis and treatment is steadily rising, leading to favorable employment prospects.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 5,200。由于人口老龄化和健康检查需求增加，放射诊断和治疗的需求稳步上升，就业前景良好。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 很高（★★★★½）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：很高（★★★★½）**
 
 ---
 
@@ -41,93 +39,85 @@ A specialist who interprets medical images to diagnose diseases and plans/execut
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $60,000,000~$99,999,999 | Initial salary after obtaining specialist license |
-| Intermediate (4–9 years) | $99,999,999 | University hospital clinical assistant professor/private practice |
-| Advanced (10+ years) | $99,999,999 | Professor/private practitioner, depending on hospital size |
+| Beginner (0–3 years) | $60,000,000~$99,999,999 | 获得专科医生执照后的初始工资 |
+| 中级（4-9年） | $99,999,999 | 大学医院临床助理教授/私人执业 |
+| 高级（10年以上） | $99,999,999 | 教授/私人执业者，视医院规模而定 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 很高（★★★★½）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：很高（★★★★½）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI is introduced as an image reading aid, improving work efficiency, but final diagnosis and treatment decisions remain the role of human doctors. The effect is expected to be more of job reinforcement than job reduction.
+AI作为图像阅读辅助手段引入，提高工作效率，但最终诊断和治疗决策仍由人类医生负责。预计效果更多是岗位强化而非岗位减少。
 
-General practitioner → Radiology resident (4 years) → Specialist → Subspecialist (internship) or career advancement to university hospital professor/private practitioner.
+全科医生 → 放射科住院医师（4年）→ 专科医生 → 亚专科医生（实习）或晋升至大学医院教授/私人执业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple image reading
-- Repetitive quantitative measurements
+- 简单图像读取
+- 重复性定量测量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Early disease detection
-- Image post-processing and 3D reconstruction
-- Reading report writing
+- 早期疾病检测
+- 图像后处理与三维重建
+- 阅读报告撰写
 
-**人类护城河:**
+**人类护城河：**
 
-- Patient communication and clinical judgment
-- Interpretation of complex and unusual cases
-- Legal responsibility and ethical decisions
+- 患者沟通和临床判断
+- 复杂和异常病例的解读
+- 法律责任与伦理决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing AI image analysis tools
-- Data interpretation and statistics
-- Interventional radiology procedures
-- Patient counseling
+- 利用AI图像分析工具
+- 数据解读与统计
+- 介入放射学手术
+- 患者咨询
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging population,
-- Health checkups,
-- Radiology,
-- AI reading
+- 人口老龄化，
+- 健康检查，
+- 放射学，
+- AI阅读
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targeting foreign doctors in specialized fields, recruitment needed by domestic medical institutions |
-| Subclass F-2 (Residence) | After a certain period of stay, possible to convert to F-5 Permanent Residence |
-| Subclass F-5 (Permanent Residence) | Targeting specialists for long-term stay |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent medical knowledge and judgment
-- People who can focus on image analysis and detailed observation
-- People skilled in patient consultation
+- 具备优秀医学知识和判断力的人
+- 能够专注于图像分析和细致观察的人
+- 擅长患者咨询的人
 
 **谁不适合**
-- People who find it difficult to endure high stress and long training periods
-- People who prefer working alone rather than with others
+- 难以承受高压和长期培训的人
+- 偏好独自工作而非与他人合作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary of a radiologist?**
-答：Starting salary for a specialist is about 60 million to 100 million KRW, and can exceed 500 million KRW with experience.
+**问：放射科医生的平均年薪是多少？**
+答：专员的起薪约为6000万至1亿韩元，有经验后可能超过5亿韩元。
 
-**问：What visa is required for a foreigner to work as a radiologist in Korea?**
-答：Requires E-7 (Specific Activities) visa, with Ministry of Health and Welfare certification and employment at a medical institution mandatory. For long-term residence, can switch to F-2 (Residence) or F-5 (Permanent Residence) visa.
+**问：外国人在韩国从事放射科医生工作需要什么签证？**
+答：需要E-7（特定活动）签证，必须持有保健福利部认证并在医疗机构就业。长期居留可转为F-2（居住）或F-5（永久居留）签证。
 
-**问：How long does it take to study to become a radiologist?**
-答：6 years of medical school (including graduate medical school) plus 4 years of residency, totaling over 10 years.
+**问：学习成为放射技师需要多长时间？**
+答：6年医学院（含研究生医学院）加4年住院医师培训，总计超过10年。
 
 
 ---
@@ -145,12 +135,12 @@ General practitioner → Radiology resident (4 years) → Specialist → Subspec
 | 工作强度 | 很高（★★★★½） |
 | 发展前景 | 很高（★★★★½） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/radiologist/KR)**

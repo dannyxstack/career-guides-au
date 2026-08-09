@@ -1,10 +1,8 @@
-# Prosecutor 职业分析 · 日本
+# 检察官（Prosecutor）职业分析 · 日本
 
-**职业代码: 172 (JSCO)**
+**职业代码：172 (JSCO)**
 
-A prosecutor is a legal professional responsible for investigating, indicting, and maintaining trials in criminal cases. As a national public servant, they belong to the Public Prosecutors Office of the Ministry of Justice and uphold fair criminal justice.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+检察官是负责刑事案件的调查、起诉和庭审维护的法律专业人员。作为国家公务员，他们隶属于法务部检察厅，维护公正的刑事司法。
 
 
 ---
@@ -13,9 +11,9 @@ A prosecutor is a legal professional responsible for investigating, indicting, a
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor's degree (Faculty of Law) | 4年 | $2,600,000~$5,000,000（For national/public universities） |
-| Law school (Master of Laws) | 3年 | $3,000,000~$6,000,000（For private universities） |
-| Legal training | 1年 | $0~$0（Salary provided） |
+| 学士学位（法学院） | 4年 | $2,600,000~$5,000,000（针对国立/公立大学） |
+| 法学院（法学硕士） | 3年 | $3,000,000~$6,000,000（对于私立大学） |
+| 法律培训 | 1年 | $0~$0（提供薪资） |
 
 ---
 
@@ -23,18 +21,18 @@ A prosecutor is a legal professional responsible for investigating, indicting, a
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bar exam | Ministry of Justice | 必备 | Required national exam; pass rate approx. 30% |
-| Completion of legal training | Supreme Court | 必备 | Approximately 1 year of practical training after passing the bar exam |
-| Appointment as prosecutor | Ministry of Justice | 必备 | Hired as a prosecutor after completing legal training |
+| 律师资格考试 | 法务部 | 必备 | 必需通过国家考试，通过率约30% |
+| 完成法律培训 | 最高法院 | 必备 | 通过律师资格考试后约1年实践培训 |
+| 被任命为检察官 | 法务部 | 必备 | 完成法律培训后被任命为检察官 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 2,500. Employment for prosecutors in Japan is stable as it supports the foundation of the criminal justice system, but the number of positions is limited. Due to the declining birthrate and judicial system reforms, new recruitment remains highly competitive with intense competition.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 2,500。日本检察官就业稳定，支撑刑事司法体系基础，但职位数量有限。由于出生率下降和司法改革，新招聘竞争激烈。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -42,95 +40,87 @@ A prosecutor is a legal professional responsible for investigating, indicting, a
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (1–3 years after appointment) | $6,000,000~$8,000,000 | Based on national public servant salary |
-| Mid-level (approx. 10 years) | $10,000,000~$15,000,000 | Chief Prosecutor Class |
-| Veteran (20+ Years) | $15,000,000~$25,000,000 | Deputy Chief Prosecutor and Senior Prosecutor |
+| 入门级（任命后1-3年） | $6,000,000~$8,000,000 | 基于国家公务员薪资 |
+| 中级（约10年） | $10,000,000~$15,000,000 | 首席检察官级 |
+| 资深人士（20年以上） | $15,000,000~$25,000,000 | 副首席检察官和高级检察官 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI cannot completely replace prosecutors' work, but it will be used as a tool to improve efficiency in evidence analysis and document review. Core decisions like prosecution remain essential for human judgment.
+人工智能无法完全取代检察官的工作，但将作为工具提高证据分析和文档审查的效率。起诉等核心决策仍需人类判断。
 
-After passing the bar exam and completing legal training, one becomes a public prosecutor. The typical career path is from assistant prosecutor to prosecutor, and then to senior prosecutor (such as at the Tokyo District Public Prosecutors Office Special Investigation Department).
+通过律师资格考试并完成法律培训后，成为检察官。典型的职业路径是从助理检察官到检察官，再到高级检察官（例如东京地方检察厅特别搜查部）。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document organization
-- Past precedent search
-- Evidence classification
+- 文档整理
+- 过往先例检索
+- 证据分类
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Evidence analysis
-- Crime pattern prediction
-- Document review
+- 证据分析
+- 犯罪模式预测
+- 文件审查
 
-**人类护城河:**
+**人类护城河：**
 
-- Ethical judgment
-- Legal interpretation
-- Courtroom argument
-- Witness examination
+- 道德判断
+- 法律口译
+- 法庭辩论
+- 证人盘问
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
-- AI tool utilization
-- Criminology Knowledge
-- International Law Knowledge
+- 数据分析
+- 人工智能工具运用
+- 犯罪学知识
+- 国际法知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Criminal justice
-- International crime response
-- Cybercrime
-- Organized crime countermeasures
+- 刑事司法
+- 国际犯罪应对
+- 网络犯罪
+- 有组织犯罪对策
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | It is virtually impossible for a foreigner to become a prosecutor. Legal qualifications are required, and only Japanese citizens or permanent residents are eligible. |
-| Subclass 永住者 (Permanent Resident) | To become a prosecutor, Japanese nationality is effectively mandatory. Even for permanent residents, appointment is extremely difficult. |
-| Subclass 高度専門職 (Highly Skilled Professional (i)) | Even if one passes the bar exam, foreign nationals are generally not allowed to become prosecutors. After receiving legal education in Japan on a student visa, naturalization is necessary. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with a strong sense of justice
-- Those with superior logical thinking
-- Those who can endure long periods of concentrated work
+- 有强烈正义感的人
+- 具有卓越逻辑思维的人
+- 能够长时间集中工作的人
 
 **谁不适合**
-- Those who are weak under pressure
-- Those who want to interpret rules flexibly
+- 压力下表现不佳的人
+- 希望灵活解读规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a prosecutor?**
-答：The starting salary is about 6-8 million yen, but it increases with experience, and executive class can exceed 20 million yen. However, as public servants, the upper limit is lower than private lawyers.
+**问：检察官的年收入是多少？**
+答：起薪约600-800万日元，但随经验增长，高管层可超过2000万日元。但作为公务员，上限低于私人律师。
 
-**问：Can foreigners become Japanese prosecutors?**
-答：It is practically impossible. Prosecutors must have Japanese citizenship; foreign nationals would need to naturalize. Additionally, high requirements such as passing the bar exam and completing legal training are necessary.
+**问：外国人能成为日本检察官吗？**
+答：实际上几乎不可能。检察官必须拥有日本国籍；外籍人士需要归化。此外，还需通过司法考试和完成法律培训等高要求。
 
-**问：What is the standard route to become a prosecutor?**
-答：University (law faculty) → law school → pass bar exam → legal training (1 year) → appointment as prosecutor. The earliest appointment age is 25-26.
+**问：成为检察官的标准途径是什么？**
+答：大学（法学院）→法学院→通过司法考试→司法研修（1年）→任命为检察官。最早任命年龄为25-26岁。
 
 
 ---
@@ -148,12 +138,12 @@ After passing the bar exam and completing legal training, one becomes a public p
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/prosecutor/JP)**

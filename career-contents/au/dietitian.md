@@ -54,8 +54,6 @@ Dietitians provide clinical nutrition assessments, personalised dietary plans an
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI's impact on nutritionists is mixed: data analysis and preliminary assessments can be automated, but clinical diagnosis, personalized plans, and interpersonal trust still require human professional judgment.
-
 NDIS has included nutrition services in reimbursable categories, creating significant new employment opportunities for dietitians. Sports nutrition and oncology nutrition are the specialty areas commanding the highest salary premiums.
 
 **Tasks most exposed to AI:**
@@ -112,9 +110,7 @@ NDIS has included nutrition services in reimbursable categories, creating signif
 | Subclass 190 (Skilled Nominated) | State nomination; NDIS and rural nutrition services are prioritised |
 | Subclass 491 (Skilled Work Regional) | Rural and remote healthcare, +15 nomination points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -176,12 +172,13 @@ A: The PR pathway and credential assessment difficulty are similar for both. Phy
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dietitian/AU)**

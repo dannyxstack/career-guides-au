@@ -4,8 +4,6 @@
 
 Prosthetists and orthotists are responsible for designing, making, and fitting prosthetics and orthotics to help patients restore function. You will need to work within a medical team, combining technology with patient care.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -55,8 +53,6 @@ Prosthetists and orthotists are responsible for designing, making, and fitting p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Prosthetists and orthotists have highly personalized tasks that require manual operation, making it difficult for AI to fully replace them. However, AI can optimize design processes and remote adaptation, resulting in a moderately low overall risk.
-
 You can be promoted from technician to team leader or start your own practice, or specialize in a specific area (such as upper limb prosthetics or spinal orthoses). Further studies can include research and development or teaching.
 
 **Tasks most exposed to AI:**
@@ -102,18 +98,9 @@ You can be promoted from technician to team leader or start your own practice, o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Passeport Talent – Profession artistique et culturelle) | Suitable for highly specialized talents, requiring employer contract or project certification, valid for 4 years, with renewable options. |
-| Subclass Salarié (Salarié (Employee)) | A work contract from a French employer must be obtained and reviewed by the French Labour Agency (France Travail), usually requiring proof that no suitable EU candidates are present. |
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for highly skilled talents, with an annual salary of about €53,000 (2024 standard), valid for 1-4 years, and suitable for family reunions. |
-| Subclass Recherche emploi (Recherche d'emploi / Création d'entreprise) | After graduation, you can apply for a 12-month job-seeking residence permit, and once you find a relevant job, you can transfer to Salarié. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -157,12 +144,12 @@ A: Can advance to team leader, open own clinic, or specialize in areas such as s
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/prosthetist-and-orthotist/FR)**

@@ -4,8 +4,6 @@
 
 Fast food preparers are responsible for quickly preparing and preparing simple foods such as burgers, sandwiches, and French fries in fast food restaurants, snack bars, or takeout shops. The work pace is fast, requiring cleanliness and efficiency, with a focus on food safety and customer service.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Fast food preparers are responsible for quickly preparing and preparing simple f
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★★☆☆).**
 
-The work of fast food preparers is highly repetitive and standardized, and AI automation will significantly replace their core tasks. The number of entry-level positions is shrinking, but some customer interactions and complex food preparation still retain human roles.
-
 You can gradually advance from a fast food preparer to kitchen supervisor, duty manager, or restaurant manager. By gaining experience, they can also move on to training or quality control positions in restaurant chains. Some individuals may choose to start their own small fast food businesses.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ You can gradually advance from a fast food preparer to kitchen supervisor, duty 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit (Employer Sponsored)) | Employer sponsorship is required, and there is proof that the position cannot recruit EU citizens. Because this profession requires low skill levels, it is usually difficult to immigrate through this pathway. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain for 6-12 months looking for work, but you must have sufficient financial means. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to kitchen supervisor, duty manager, or restaurant manage
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-preparer/ES)**

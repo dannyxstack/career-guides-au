@@ -1,10 +1,8 @@
-# Product Advertising Salesperson 职业分析 · 韩国
+# 产品广告销售员（Product Advertising Salesperson）职业分析 · 韩国
 
-**职业代码: 61241 (KECO)**
+**职业代码：61241 (KECO)**
 
-This job involves planning and executing product advertising and promotions, and generating sales through sales activities.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+该职位涉及规划和执行产品广告与促销，并通过销售活动产生业绩。
 
 
 ---
@@ -13,8 +11,8 @@ This job involves planning and executing product advertising and promotions, and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (Associate's Degree) | 2 年 | $9,000,000~$15,000,000（Per semester tuition basis） |
-| University (Bachelor's Degree) | 4年 | $18,000,000~$30,000,000（Per semester tuition basis） |
+| 大学（副学士学位） | 2 年 | $9,000,000~$15,000,000（每学期学费标准） |
+| University (Bachelor's Degree) | 4年 | $18,000,000~$30,000,000（每学期学费标准） |
 
 ---
 
@@ -22,17 +20,17 @@ This job involves planning and executing product advertising and promotions, and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Advertising Manager | Korean Advertising Society | 可选 | 可自愿考取 |
-| 营销经理 | Korean Marketing Society | 可选 | 可自愿考取 |
+| 广告经理 | 韩国广告学会 | 可选 | 可自愿考取 |
+| 营销经理 | 韩国营销学会 | 可选 | 可自愿考取 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 50,000. Demand is maintained due to digital marketing transformation and online advertising growth, but some tasks may be replaced by AI automation.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 50,000。由于数字营销转型和在线广告增长，需求保持，但部分任务可能被AI自动化取代。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,88 +38,81 @@ This job involves planning and executing product advertising and promotions, and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0~3 years) | $28,000,000~$35,000,000 | Based on small and medium enterprises |
-| Mid-level (4~7 years) | $38,000,000~$50,000,000 | Including large corporations |
-| 高级（8年+） | $50,000,000~$70,000,000 | Team leader level or above |
+| 入门级（0~3年） | $28,000,000~$35,000,000 | 基于中小企业 |
+| 中级（4~7年） | $38,000,000~$50,000,000 | 含大型企业 |
+| 高级（8年+） | $50,000,000~$70,000,000 | 团队主管级别或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 中高（★★★½☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：中高（★★★½☆）**
 
-AI can replace ad performance analysis, targeting optimization, auto-response, etc., but customer relationship management and creative strategy remain human domains.
+AI 可替代广告效果分析、定向优化、自动回复等，但客户关系管理和创意策略仍是人类领域。
 
-Usually starts as a salesperson or marketing assistant, can be promoted to advertising planning and sales team leader, and can also transition to a digital marketing specialist.
+通常从销售员或营销助理开始，可晋升为广告策划和销售团队负责人，也可转岗为数字营销专家。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Writing advertising performance reports
-- Basic email marketing
-- Basic data collection
+- 撰写广告效果报告
+- 基础电子邮件营销
+- 基础数据收集
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Setting ad targeting
-- Customer segmentation
-- Performance prediction
+- 设置广告定向
+- 客户细分
+- 绩效预测
 
-**人类护城河:**
+**人类护城河：**
 
-- Face-to-face sales skills
-- Creative ad planning
-- Building customer relationships
+- 面对面销售技巧
+- 创意广告策划
+- 建立客户关系
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis
+- 数据分析
 - SQL
-- Digital advertising platforms (Google Ads, Meta)
+- 数字广告平台（Google Ads, Meta）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital marketing
-- Online advertising
-- Data-driven sales
+- 数字营销
+- 在线广告
+- 数据驱动销售
 - SNS advertising
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment possible as a professional worker, but sales positions are difficult to approve |
-| Subclass F-2 (F-2 (Residence)) | Permanent residency possible via points system, but sales roles disadvantageous for points |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Sociable and persuasive individuals
-- Goal-oriented and strong with numbers
+- 善于社交和有说服力的人
+- 目标导向且擅长数字
 
 **谁不适合**
-- Introverted and prefer working alone
-- Prefer repetitive and routine tasks
+- 内向且喜欢独立工作
+- 偏好重复性和例行任务
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a product advertising salesperson?**
-答：Entry-level: approx. 28~35 million KRW, mid-level: 38~50 million KRW, senior: 50~70 million KRW.
+**问：产品广告销售员的平均工资是多少？**
+答：入门级：约2800~3500万韩元，中级：3800~5000万韩元，高级：5000~7000万韩元。
 
-**问：Can I get a Korean work visa for this occupation?**
-答：E-7 visa possible, but sales roles make it hard to prove expertise, so approval rate low. F-2 points system also disadvantageous.
+**问：我能为这个职业获得韩国工作签证吗？**
+答：E-7签证可能，但销售岗位难以证明专业性，批准率低。F-2积分系统也不利。
 
 
 ---
@@ -139,12 +130,12 @@ Usually starts as a salesperson or marketing assistant, can be promoted to adver
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 中高（★★★½☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/product-advertising-salesperson/KR)**

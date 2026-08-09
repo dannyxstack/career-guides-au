@@ -53,8 +53,6 @@ Arborists are responsible for pruning, removal, assessment, and maintenance of u
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Arborists/forestry workers face opportunities with AI-assisted tools for efficiency, but outdoor physical tasks are hard to replace; junior reporting and monitoring tasks may be automated, overall job demand remains strong due to urban greening policies.
-
 Junior arborists can advance to team leaders, consulting arborists, or start their own tree care companies; forestry workers can move into forest management, supervision, or environmental compliance roles. With advanced certifications (e.g., NZQA Level 5), they can transition to advisory roles in risk assessment, urban forestry planning, etc.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior arborists can advance to team leaders, consulting arborists, or start the
 | Subclass SMC (Skilled Migrant Category) | Can apply as a skilled migration occupation, points based on education, work experience, and New Zealand employment contract, meeting the 6-point system requirements. |
 | Subclass AEWV (Accredited Employer Work Visa) | If you do not meet residence criteria, you can work in New Zealand on an accredited employer work visa and gain experience before transitioning to residence. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Arborists are on the Green List Tier 1 direct residence pathway; meeting the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/arborist-forestry-worker/NZ)**

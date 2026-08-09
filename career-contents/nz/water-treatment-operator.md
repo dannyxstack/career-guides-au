@@ -52,8 +52,6 @@ Water treatment operators in New Zealand monitor and operate water treatment equ
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI automation will significantly reduce water treatment operator roles, particularly for data monitoring and report generation tasks, but on-site operations and compliance responsibilities still rely on humans. Competition for entry-level positions will intensify, requiring a shift to advanced operations or environmental management roles.
-
 Career progression: from junior operator to senior operator, team supervisor, or transition to water treatment engineer. Obtain NZWWA certification to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression: from junior operator to senior operator, team supervisor, or
 | Subclass SMC (Skilled Migrant Category) | Meet the 6-point system requirements (e.g., qualifications + work experience) and apply through skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | If direct residency is not achieved, you can first work under a certified employer sponsorship and then transition to residency. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must have New Zealand National Certificate in Water Treatment Operations (Lev
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/water-treatment-operator/NZ)**

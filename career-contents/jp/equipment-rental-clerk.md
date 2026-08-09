@@ -4,8 +4,6 @@
 
 A job responsible for renting out various items, from daily necessities to industrial equipment, at rental shops or leasing companies. It involves a wide range of tasks including customer service, inventory management, and contract procedures.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A job responsible for renting out various items, from daily necessities to indus
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation streamline tasks like inventory management and reservation reception, while face-to-face customer service and transport work are hard to mechanize; some operations shrink but full replacement does not progress.
-
 Career advancement from part-time or temporary to full-time employee is possible. There are promotion routes to store manager or area manager, and major leasing companies also offer paths to sales or management positions.
 
 **Tasks most exposed to AI:**
@@ -89,16 +85,9 @@ Career advancement from part-time or temporary to full-time employee is possible
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher. Can apply for sales or managerial positions at leasing companies. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Not eligible due to job category restrictions. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -142,12 +131,12 @@ A: As a regular employee promoted from a contract employee, you can aim to becom
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/equipment-rental-clerk/JP)**

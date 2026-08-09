@@ -4,8 +4,6 @@
 
 A job that involves assisting cooks, preparing ingredients, and cleaning the kitchen in restaurants or institutional food services.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A job that involves assisting cooks, preparing ingredients, and cleaning the kit
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-AI and automation are highly likely to replace simple repetitive tasks in kitchen assistant work, such as cutting and washing ingredients. However, complex kitchen cooking assistance and hygiene management require human judgment, making full replacement difficult.
-
 With experience, can advance to cook, head chef, or restaurant owner. Many foreign workers (E-9) enter this field, and skilled workers can move to higher-paying kitchen positions.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ With experience, can advance to cook, head chef, or restaurant owner. Many forei
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment) | Most common visa for foreign kitchen assistants. Issued under Employment Permit System. |
-| Subclass F-2 (Residence (F-2-99)) | Convertible from E-9 when meeting certain skill and income requirements. |
-| Subclass F-4 (Overseas Korean) | Available for overseas Koreans to work as kitchen assistants. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Obtaining a cooking skills certificate and gaining field experience makes pro
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kitchen-assistant/KR)**

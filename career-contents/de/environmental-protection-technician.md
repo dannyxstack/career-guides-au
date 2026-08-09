@@ -53,8 +53,6 @@ Engaged in environmental technology work, including environmental monitoring, po
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are profoundly changing the work of environmental technicians: routine monitoring and data analysis will be highly automated, but tasks requiring human judgment such as field operations, emergency response, and regulatory compliance will become more valued.
-
 Career progression can advance from technician to project lead or department head, or shift to environmental engineer or environmental management roles through further study (e.g. technician school or engineering degree).
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can advance from technician to project lead or department hea
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to recognized professional qualifications (e.g., dual vocational training), requires a contract with a German employer. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Based on a points system, allows job seekers to enter the country to find work; requires proof of language ability and qualifications. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Typically requires 3 years of dual vocational training (e.g., environmental t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/environmental-protection-technician/DE)**

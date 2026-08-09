@@ -54,8 +54,6 @@ Directly supervise and coordinate firefighters and fire prevention and control a
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-Firefighter roles will be augmented rather than replaced by AI: AI predicts fires, optimizes dispatch, and drone reconnaissance improve efficiency, but high-risk tasks like firefighting and rescue still require human judgment and physical fitness; job demand grows due to climate change.
-
 Typically promoted from firefighter, can advance to fire captain, assistant fire chief, or fire chief. Requires years of experience and passing promotional exams.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically promoted from firefighter, can advance to fire captain, assistant fire
 | Subclass H-1B (H-1B Specialty Occupation) | Uncommon, as it typically requires a bachelor's degree and the position must be a professional occupation; fire chiefs usually do not meet this. |
 | Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based Immigration) | Very few; private fire companies may sponsor, but the public sector almost never does. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically become a firefighter first, gain sufficient experience (5-10 years)
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-firefighting-and-prevention-workers/US)**

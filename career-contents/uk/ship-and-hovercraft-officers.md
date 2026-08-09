@@ -51,8 +51,6 @@ Ship and boat masters command and navigate ships and other vessels, coordinate d
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Progress from junior deck officer (Third Mate) to Second Mate, Chief Mate, and eventually Captain. Alternatively, transition to port management, maritime safety, or shore-based roles in shipping companies. Requires seagoing experience and advanced certifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Progress from junior deck officer (Third Mate) to Second Mate, Chief Mate, and e
 | Subclass Global Talent (Global Talent visa) | Not applicable, this occupation is not in a cutting-edge field |
 | Subclass Graduate (Graduate visa) | Allows graduates to work in the UK for 2 years (3 years for PhDs) as a transition. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Eligible for Skilled Worker visa, requiring employer sponsorship, annual sala
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-and-hovercraft-officers/UK)**

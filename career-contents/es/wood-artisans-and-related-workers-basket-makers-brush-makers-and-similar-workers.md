@@ -4,8 +4,6 @@
 
 This profession includes craftsmen who handcraft wooden products, baskets, brushes, and other natural materials, preserving traditional techniques while adapting to modern market demands.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ This profession includes craftsmen who handcraft wooden products, baskets, brush
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Manual occupations such as woodworking artisans carry moderate risks in automation. AI tools can assist with design and optimize material utilization, but core craftsmanship and aesthetic judgment are difficult to replace; Entry-level positions have been somewhat reduced, but there is still demand for high-skilled customized directions.
-
 Practitioners can develop their careers as apprentices, skilled craftsmen, workshop supervisors, or start their own businesses, with some transitioning into niche fields such as furniture restoration and custom woodworking.
 
 **Tasks most exposed to AI:**
@@ -101,15 +97,9 @@ Practitioners can develop their careers as apprentices, skilled craftsmen, works
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract Visa) | A Spanish employer-sponsored work contract is required, but artisan positions are usually hard to obtain |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +143,12 @@ A: You can grow into a skilled craftsman, workshop manager, or start a business 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-artisans-and-related-workers-basket-makers-brush-makers-and-similar-workers/ES)**

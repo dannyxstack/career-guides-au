@@ -1,8 +1,8 @@
-# Automotive Engineer (Development) 职业分析 · 日本
+# 汽车工程师（开发）（Automotive Engineer (Development)）职业分析 · 日本
 
-**职业代码: 074 (JSCO)**
+**职业代码：074 (JSCO)**
 
-Engineer responsible for designing and developing engines, chassis, electrical systems, etc. Contributes to performance improvement and environmental compliance from research to mass production.
+负责设计和开发发动机、底盘、电气系统等的工程师。从研发到量产，致力于性能提升和环保合规。
 
 
 ---
@@ -11,8 +11,8 @@ Engineer responsible for designing and developing engines, chassis, electrical s
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Engineering: Mechanical, Electrical, Information) | 4年 | $4,000,000~$6,000,000（National/public: lower, Private: higher） |
-| 硕士课程 | 2 年 | $2,000,000~$4,000,000（Research expenses separate） |
+| 大学（工程：机械、电气、信息） | 4年 | $4,000,000~$6,000,000（国立/公立：较低，私立：较高） |
+| 硕士课程 | 2 年 | $2,000,000~$4,000,000（研究经费另计） |
 
 ---
 
@@ -20,18 +20,18 @@ Engineer responsible for designing and developing engines, chassis, electrical s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Professional Engineer (Mechanical Engineering) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | National qualification demonstrating advanced expertise |
-| Chief Electrical Engineer | Ministry of Economy, Trade and Industry | 可选 | Advantageous for electrical development |
-| JSAE Certified Engineer | Society of Automotive Engineers of Japan | 可选 | Industry association certification, useful for promotion |
+| 专业工程师（机械工程） | 文部科学省 | 可选 | 证明高级专业知识的国家资格 |
+| 首席电气工程师 | 经济产业省 | 可选 | 对电气开发有利 |
+| JSAE认证工程师 | 日本汽车工程师学会 | 可选 | 行业协会认证，有利于晋升 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 250,000. The automotive industry is transitioning to EVs and autonomous driving, with growing demand in electrification and software. However, overall employment is flat, making competition fierce.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 250,000。汽车行业正转向电动汽车和自动驾驶，电气化和软件需求增长。但整体就业平稳，竞争激烈。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,93 +39,86 @@ Engineer responsible for designing and developing engines, chassis, electrical s
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$4,500,000 | Starting salary level at major manufacturers |
-| Mid-level (4–9 years) | $5,000,000~$7,000,000 | Chief class, project participation |
-| 资深（10年以上） | $7,500,000~$12,000,000 | Management or specialist role |
+| 初级（0-3年） | $3,500,000~$4,500,000 | 主要制造商的起薪水平 |
+| 中级（4-9年） | $5,000,000~$7,000,000 | 主管级别，参与项目 |
+| 资深（10年以上） | $7,500,000~$12,000,000 | 管理或专业职位 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 中（★★½☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：中（★★½☆☆）**
 
-AI will replace some tasks like autonomous driving control and design optimization, but human roles such as creative design, system integration, and legal judgment will remain. AI utilization skills will become essential in the future.
+AI将替代自动驾驶控制和设计优化等任务，但创意设计、系统集成和法律判断等人类角色仍然存在。未来AI使用技能将成为必备。
 
-After joining a manufacturer as a new graduate, accumulate OJT in assigned department and advance to project leader or specialist engineer. Later career options include management or consulting.
+作为应届毕业生加入制造商后，在指定部门积累在职培训，并晋升为项目负责人或专业工程师。后期职业选择包括管理或咨询。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple CAD drawing creation
-- Routine strength calculations
-- Template document creation for designs
+- 简单CAD绘图制作
+- 常规强度计算
+- 设计模板文档创建
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Development of control algorithms for autonomous driving
-- Automatic generation and evaluation of design proposals
-- Predictive analysis of quality anomalies
+- 自动驾驶控制算法开发
+- 设计方案的自动生成与评估
+- 质量异常的预测分析
 
-**人类护城河:**
+**人类护城河：**
 
-- Creative design ideas
-- Leadership to manage teams
-- Interpretation of regulations and safety standards
+- 创意设计理念
+- 管理团队所需的领导力
+- 法规和安全标准解读
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine learning
-- Control engineering
+- 机器学习
+- 控制工程
 - 项目管理
-- Software development
+- 软件开发
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Autonomous driving
-- Electrification software
-- Lightweight materials
-- AI control
+- 自动驾驶
+- 电气化软件
+- 轻质材料
+- AI控制
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires a university degree or higher and relevant work experience. Applicable to development work at automobile manufacturers. |
-| Subclass 高度専門職1号 (Highly Skilled Professional) | Point-based system for core talent at large companies. Easier to obtain permanent residency. |
-| Subclass 特定活動（インターンシップ） (Designated Activities) | Allows stay for a fixed period for industry-academia collaborative R&D purposes. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Graduates from mechanical, electrical, or information science/engineering departments
-- People interested in manufacturing and team development
-- People who do not mind continuous learning
+- 机械、电气或信息科学/工程专业的毕业生
+- 对制造业和团队发展感兴趣的人
+- 不介意持续学习的人
 
 **谁不适合**
-- People who prefer routine work
+- 偏好例行工作的人
 - People who find fast-changing fields stressful
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of an automotive engineer?**
-答：Starting annual salary is around 3.5-4.5 million yen; mid-career: 5-7 million yen; veteran managers: 8-12 million yen. Differences between major OEMs and suppliers.
+**问：汽车工程师的平均年收入是多少？**
+答：起薪约350-450万日元；中级：500-700万日元；资深经理：800-1200万日元。主要OEM和供应商之间存在差异。
 
-**问：What visa does a foreigner need to work as an automotive engineer in Japan?**
-答：Mainly requires the "Engineer/Specialist in Humanities/International Services" residence status. A university degree in engineering or equivalent work experience is required. It may also qualify for the Highly Skilled Professional visa.
+**问：外国人在日本从事汽车工程师工作需要什么签证？**
+答：主要需持有“工程师/人文知识/国际服务”在留资格，要求工程类大学学历或同等工作经验，也可能符合高度专业人才签证条件。
 
-**问：How can I advance my career in this field?**
-答：In addition to deepening expertise (e.g., in EVs, autonomous driving, software), project management skills and English proficiency are important. Obtaining certifications such as Professional Engineer is also valued.
+**问：如何在这一领域推进我的职业发展？**
+答：除了深化专业知识（如电动汽车、自动驾驶、软件），项目管理技能和英语能力也很重要。获得专业工程师等认证也受到重视。
 
 
 ---
@@ -143,12 +136,12 @@ After joining a manufacturer as a new graduate, accumulate OJT in assigned depar
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 中（★★½☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/automotive-engineer-development/JP)**

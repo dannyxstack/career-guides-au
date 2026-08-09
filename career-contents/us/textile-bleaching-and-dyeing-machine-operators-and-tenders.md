@@ -49,8 +49,6 @@ Operate or tend machines to bleach, shrink, wash, dye, or finish textiles or syn
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Textile bleaching and dyeing machine operator work is highly repetitive and easily automated; AI and robots will significantly reduce demand, but machine maintenance and exception handling still require human intervention.
-
 Can advance from operator to supervisor or technician, but the industry is shrinking, limiting promotion opportunities.
 
 **Tasks most exposed to AI:**
@@ -100,9 +98,7 @@ Can advance from operator to supervisor or technician, but the industry is shrin
 | Subclass H-1B (H-1B Specialty Occupation) | This occupation typically does not meet the requirements for a professional occupation, making it difficult to obtain an H-1B visa. Only applicable to a few management or technical roles. |
 | Subclass EB-3 (EB-3 Skilled/Unskilled) | Possibly through EB-3 unskilled immigration, but employer sponsorship is difficult and the queue is long. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -142,12 +138,13 @@ A: Usually not possible because this occupation does not require a bachelor's de
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-bleaching-and-dyeing-machine-operators-and-tenders/US)**

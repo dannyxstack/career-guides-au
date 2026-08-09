@@ -51,8 +51,6 @@ Operates looms, knitting machines, and other equipment in the Italian textile in
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Weaving and knitting machine operators face high automation risk; AI and automation will reduce job numbers, but maintenance and programming skills can enhance competitiveness.
-
 Promotion from entry-level operator to senior technician or production supervisor, also to textile quality control, machine maintenance specialist, or technical sales.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Promotion from entry-level operator to senior technician or production superviso
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | For non-EU workers, requires employer sponsorship, subject to annual quota limits |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for high-skilled workers, requiring a higher salary (approx. over €33,000 per year) |
-| Subclass Seasonal Work Visa (Seasonal Work Visa) | Short-term seasonal work for temporary textile production peaks |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +137,12 @@ A: Mainly through the Decreto Flussi quota work visa, requiring employer applica
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weaving-and-knitting-machine-operator/IT)**

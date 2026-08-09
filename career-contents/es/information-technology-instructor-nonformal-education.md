@@ -53,8 +53,6 @@ Teaching information technology courses in informal educational institutions (su
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will replace basic programming teaching and document generation tasks, but also enhance instructional design and interaction capabilities; Entry-level positions face increased competition due to abundant online resources, but demand for advanced training is rising.
-
 Career development paths: Junior Lecturer → Senior Lecturer → Course Supervisor/Training Manager, or transition to edTech product development, consulting, etc. Having industry certifications (such as Cisco and Microsoft) can enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Career development paths: Junior Lecturer → Senior Lecturer → Course Supervi
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tajeta azul UE (EU Blue Card) | For highly skilled professionals, a university degree and a contract with at least 1.5 times the local average salary are required. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | Applies under Law 14/2013 for highly educated technical talent, requiring a work contract and degree certification. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | Standard work residence requires company sponsorship, applicable to foreigners with employment contracts. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted from junior lecturer to senior lecturer, then become a tr
 | Work intensity | medium-low (★★☆☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-technology-instructor-nonformal-education/ES)**

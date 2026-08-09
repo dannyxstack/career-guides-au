@@ -1,8 +1,8 @@
-# Director 职业分析 · 日本
+# 导演（Director）职业分析 · 日本
 
-**职业代码: 234 (JSCO)**
+**职业代码：234 (JSCO)**
 
-A professional who oversees the artistic direction of stage or film productions, guiding actors and staff to unify the overall expression of the work.
+监督舞台或电影制作艺术方向的专业人士，指导演员和工作人员统一作品的整体表现。
 
 
 ---
@@ -11,8 +11,8 @@ A professional who oversees the artistic direction of stage or film productions,
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Arts/Film Studies) | 4年 | $4,000,000~$6,000,000（Private: approx. 1–1.5 million yen/year. Public: about half.） |
-| Vocational School (Direction/Film Course) | 2 年 | $2,000,000~$4,000,000（Total 2–4 million yen. Many have practical curricula.） |
+| 大学（艺术/电影研究） | 4年 | $4,000,000~$6,000,000（私立：约100-150万日元/年。公立：约一半。） |
+| 职业学校 (导演/电影专业) | 2 年 | $2,000,000~$4,000,000（总计200-400万日元。许多课程设有实践课程。） |
 
 ---
 
@@ -20,16 +20,16 @@ A professional who oversees the artistic direction of stage or film productions,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 无特定强制性资质 | 无 | 可选 | Experience and sensibility are prioritized over education or qualifications. |
+| 无特定强制性资质 | 无 | 可选 | 经验和感知重于学历或资格。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 12,000. With the rise of digital distribution, demand for new works exists, but employment is often project-based and unstable. Experienced directors continue to be needed.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 12,000。随着数字发行的兴起，对新作品的需求存在，但就业通常是项目制的且不稳定。经验丰富的导演仍有需求。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -37,85 +37,79 @@ A professional who oversees the artistic direction of stage or film productions,
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,000,000~$5,000,000 | Assistant or assistant director for small theater troupes. |
-| Intermediate (4–10 years) | $5,000,000~$8,000,000 | Stable as director for TV programs or commercial theater. |
-| Advanced (10+ years) | $8,000,000~$15,000,000 | Renowned director juggling multiple projects. |
+| Beginner (0–3 years) | $3,000,000~$5,000,000 | 小型剧团的助理或助理导演。 |
+| 中级（4-10年） | $5,000,000~$8,000,000 | 凭导演身份在电视节目或商业剧院中稳定。 |
+| 高级（10年以上） | $8,000,000~$15,000,000 | 知名导演同时处理多个项目。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI can be used as a tool for script analysis and video editing, but human creativity and team leadership are difficult to replace. Directors who leverage AI for efficiency will survive.
+人工智能可以作为剧本分析和视频编辑的工具，但人类创造力和团队领导力难以被替代。利用AI提高效率的导演将存活下来。
 
-Starting as an assistant, gaining experience, and becoming independent. Some belong to major production companies or theater troupes, while others freelance.
+从助理做起，积累经验，然后独立。有的隶属于大型制作公司或剧团，有的自由职业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple scene transition instructions
-- Automatic script checking
+- 简单场景转换说明
+- 自动脚本检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Audience reaction analysis
-- CG previsualization
+- 观众反应分析
+- CG预可视化
 
-**人类护城河:**
+**人类护城河：**
 
-- Performance direction with human emotion understanding
-- Improvisational staging decisions
+- 基于人类情感理解的表演指导
+- 即兴舞台决策
 
-**需构建的技能:**
+**需构建的技能：**
 
-- AI tool operation
-- Data analysis
+- 人工智能工具操作
+- 数据分析
 - 项目管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Digital Distribution
-- Performing Arts
-- Video Production
-- Experiential Entertainment
+- 数字发行
+- 表演艺术
+- 视频制作
+- 体验式娱乐
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable for roles requiring specialized knowledge in arts and direction. Experience required. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Directors are ineligible. Rarely applicable for related technical roles. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with creativity and leadership
-- People with multitasking ability to manage multiple tasks simultaneously
-- People comfortable giving instructions in front of others
+- 有创造力和领导力的人
+- 具备同时处理多项任务的多任务处理能力的人
+- 在他人面前能够自如下达指令的人
 
 **谁不适合**
-- People who prefer a regular lifestyle
-- People sensitive to criticism or rebuttal
+- 偏好规律生活的人
+- 对批评或反驳敏感的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual income of a director?**
-答：It varies greatly by experience and track record, but typical ranges are 3-5 million yen for entry-level, 5-8 million yen for mid-level, and 8-15 million yen for senior. Successful commercial TV or film projects can earn even more.
+**问：董事的年收入是多少？**
+答：根据经验和业绩差异很大，但典型范围：入门级300-500万日元，中级500-800万日元，高级800-1500万日元。成功的商业电视或电影项目可以赚得更多。
 
-**问：Can foreigners work as directors in Japan?**
-答：Yes, it is possible. You can apply with an Engineer/Specialist in Humanities/International Services visa if you have specialized knowledge or experience in directing. Japanese language ability and industry networks are important.
+**问：外国人能在日本担任董事吗？**
+答：可以。拥有导演方面的专业知识或经验，可申请工程师/人文/国际服务签证。日语能力和行业人脉很重要。
 
 
 ---
@@ -133,12 +127,12 @@ Starting as an assistant, gaining experience, and becoming independent. Some bel
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/director/JP)**

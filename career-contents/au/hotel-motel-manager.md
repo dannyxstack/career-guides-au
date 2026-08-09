@@ -56,8 +56,6 @@ Hotel managers oversee the overall operations of hotels and motels, including fr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Australia's tourism industry (projected value approx. $77 billion in 2026) has fully recovered, with international visitor numbers surpassing pre-COVID levels. Digital transformation in hospitality (OTA management/PMS systems/dynamic pricing) has become industry standard, and managers with hotel technology and operations capabilities are in particularly high demand. The premium accommodation market (boutique hotels/luxury resorts) is growing faster than standard business hotels.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ Australia's tourism industry (projected value approx. $77 billion in 2026) has f
 | Subclass 190 (Skilled Nominated) | State nomination, with tourism-focused states (QLD/SA/TAS/NT) actively nominating |
 | Subclass 491 (Skilled Work Regional) | Remote resorts and tourist areas face extreme hotel staff shortages, +15 points |
 
-**PR friendliness: very high (★★★★★).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: very high (★★★★½).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Hotel managers earn higher salaries ($80k–$105k vs restaurant managers at $
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | very high (★★★★★) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-motel-manager/AU)**

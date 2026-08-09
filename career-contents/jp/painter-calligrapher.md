@@ -4,8 +4,6 @@
 
 Artists who create and sell paintings and calligraphy works. They exhibit through solo shows, galleries, and open competitions; income mainly from sales and commissioned work.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ Artists who create and sell paintings and calligraphy works. They exhibit throug
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Advances in AI technology are partially replacing illustration and design fields with generative AI, but the value of original works and traditional techniques remains. Contemporary art and one-of-a-kind pieces are particularly less threatened by AI.
-
 Most are self-employed; career depends on achievements and recognition. Awards at open competitions, gallery contracts, and overseas exhibitions are key to advancement.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Most are self-employed; career depends on achievements and recognition. Awards a
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | May apply if involved in artistic activities or teaching at educational institutions; requires creativity and expertise. |
-| Subclass 教授 (Professor) | Applies if teaching art or calligraphy at universities or educational institutions. |
-| Subclass 特定活動（芸術興行） (Designated Activities (Artistic Performances)) | Applies when entering for short-term performances or exhibitions. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -147,12 +135,12 @@ A: Awards in open competitions, connections with galleries, information dissemin
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/painter-calligrapher/JP)**

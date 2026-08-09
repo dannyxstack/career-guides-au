@@ -49,8 +49,6 @@ Gig workers engage in non-permanent temporary jobs such as cleaning, moving, gar
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Gig workers face high risk of automation; tasks like cleaning and moving are easily replaced by robots and AI, but the need for interpersonal interaction provides some buffer, overall employment space is shrinking.
-
 Career development paths are limited, typically remaining at entry-level positions; a few may accumulate clients and become self-employed contractors, entering the domestic or maintenance services industry.
 
 **Tasks most exposed to AI:**
@@ -97,15 +95,9 @@ Career development paths are limited, typically remaining at entry-level positio
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Applicable for non-EU seasonal/temporary work, requires employer sponsorship, with annual quota limits |
-| Subclass EU Freedom of Movement (EU Free Movement) | EU citizens can freely engage in gig work in Italy without a visa. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -146,12 +138,12 @@ A: Primarily through the Decreto Flussi quota work visa, requires employer spons
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oddjob-person/IT)**

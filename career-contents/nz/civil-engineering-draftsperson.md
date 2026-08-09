@@ -52,8 +52,6 @@ Civil engineering drafters use CAD software to create detailed construction draw
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Work for architectural and civil drafters is rapidly shrinking due to AI; automation design software will replace most drafting and document generation, entry-level roles significantly reduced, but aspects requiring technical supervision and on-site coordination still have human space.
-
 Junior drafters can advance to senior drafters, project coordinators, or BIM specialists, and then move into engineering management or design consulting, with high qualification recognition and mature career progression.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior drafters can advance to senior drafters, project coordinators, or BIM spe
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category; under the 6-point system, residence can be obtained based on qualifications, work experience, and a New Zealand employer offer. |
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa: after working for 2 years on this visa, you can apply for residence through Green List Tier 2. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -153,12 +149,13 @@ A: The most common qualifications are the New Zealand Diploma in Engineering (Le
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-engineering-draftsperson/NZ)**

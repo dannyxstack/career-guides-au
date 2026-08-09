@@ -49,8 +49,6 @@ A job that operates machines to process meat, seafood, and dairy products for pa
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-In the meat, seafood, and dairy processing machinery operator occupation, the impact of AI and automation is mixed. Simple repetitive tasks (cleaning, cutting, etc.) are being automated rapidly, but quality inspection and non-standard tasks still require human judgment, making full replacement difficult.
-
 Starting as entry-level production staff, promotion is possible to advanced machine operation, quality control, and production management based on experience. Promotion ladders exist in large and mid-sized companies.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Starting as entry-level production staff, promotion is possible to advanced mach
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (E-9 (Non-professional Employment)) | Issued to foreign workers in manufacturing. Many meat and seafood processing companies use this visa. |
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable to skilled workers. Advantage with 5+ years experience. |
-| Subclass F-2 (Residence (F-2)) | Acquired by switching from E-7 or through points system. Allows long-term stay and free employment. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -138,12 +129,12 @@ A: E-9 (Non-professional Employment) visa allows work in manufacturing, can swit
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/meat-seafood-and-dairy-processing-machine-operator/KR)**

@@ -53,8 +53,6 @@ Operates and monitors weaving or knitting machines to produce fabrics and textil
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI and automation technology will significantly reduce demand for loom and knitting machine operators, especially for routine monitoring and quality inspection tasks. Future job numbers will decline, with increased technical skill requirements.
-
 Junior operators can advance to senior operator, production supervisor, or quality control technician. Some may transition to textile machinery maintenance or sales.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior operators can advance to senior operator, production supervisor, or quali
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupations in shortage, requires employer sponsorship, with an annual salary of no less than 30,000 euros. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled positions with a high annual salary threshold (usually >38,000 euros); this occupation typically does not meet it. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: May advance to production supervisor or quality control, but the industry is 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/weaving-and-knitting-machine-operator/IE)**

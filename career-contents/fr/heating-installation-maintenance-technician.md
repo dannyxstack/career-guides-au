@@ -4,8 +4,6 @@
 
 Responsible for installation, commissioning, regular maintenance, and fault repair of heating systems (boilers, heat pumps, radiators, etc.) to ensure safe and efficient operation of equipment. Requires knowledge of gas, electricity, and fluid mechanics.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for installation, commissioning, regular maintenance, and fault repa
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Air conditioning technicians face mixed impacts from AI/automation: routine diagnostics and documentation tasks are replaced, but field operations, compliance judgments, and complex repairs still rely on humans; skill upgrades can help adapt.
-
 You can start as an apprentice or CAP and advance to a technical expert or team leader. After obtaining qualifications such as QualiPAC, they can enter the heat pump field or move to higher value-added positions such as energy auditing or energy-saving retrofits.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ You can start as an apprentice or CAP and advance to a technical expert or team 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee)) | Applicable to technicians who have obtained a work contract with a French employer, must prove that the position cannot be filled by an EU citizen (shortage occupations may be exempted), and their salary must be at least SMIC. |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talents or applicants seeking high-paying positions (annual salary ≥ €53,000), allowing quick access to multi-year residency. |
-| Subclass Carte bleue UE (EU Blue Card) | Applies to technical positions with an annual salary above 1.5 times the French average wage (c.a. €53,000), but heating technician salaries are typically lower and this is not common. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Gas boiler maintenance requires a gas operation certification; Installing hea
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/heating-installation-maintenance-technician/FR)**

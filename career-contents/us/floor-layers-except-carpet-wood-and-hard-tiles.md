@@ -52,8 +52,6 @@ Apply shock-absorbing, soundproof, or decorative blocks, strips, or sheets to co
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation poses low direct replacement threat to floor installers, but entry-level positions are compressed by smart measurement, automated cutting, and online design tools, reducing apprenticeship opportunities.
-
 Start as an apprentice or assistant, gain experience to advance to foreman, project manager, or start your own business. Certification (e.g., CFI) can increase salary and job opportunities.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Start as an apprentice or assistant, gain experience to advance to foreman, proj
 | Subclass EB-3 (EB-3 Skilled Workers / Other Workers) | Can apply through PERM labor certification as a skilled worker or other worker category. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must prove inability to find qualified U.S. workers and may file a PERM application. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory, but OSHA safety certification and CFI certification can increa
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-layers-except-carpet-wood-and-hard-tiles/US)**

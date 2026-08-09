@@ -52,8 +52,6 @@ Diagnose and treat psychological and emotional disorders for individuals, couple
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has a mixed impact on psychologists: some documentation, assessment, and administrative tasks are automated, but core therapeutic relationships, empathy, and complex diagnoses still require humans, amplifying the profession's value.
-
 Typically begins after obtaining a license with a master's degree. Can advance to clinical supervisor, private practitioner, or university teaching. Some move into research or policy advocacy.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically begins after obtaining a license with a master's degree. Can advance t
 | Subclass EB-2 (Employment-Based Second Preference) | Requires PERM labor certification and a master's degree or higher; suitable for long-term residence. |
 | Subclass O-1 (O-1 Extraordinary Ability) | Applicable to those with outstanding achievements in the field; strict review standards. |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Not mandatory, but obtaining AAMFT-recognized Clinical Fellow status can enha
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/marriage-and-family-therapists/US)**

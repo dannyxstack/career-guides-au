@@ -4,8 +4,6 @@
 
 Responsible for coordinating and managing civil safety and rescue operations in France, including emergency responses to fires, natural disasters, and major accidents. Supervise rescue teams, formulate emergency plans, manage resource allocation, and ensure public safety.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for coordinating and managing civil safety and rescue operations in 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on civil safety and rescue command is mixed: automation can take over data analysis and resource scheduling, but decision-making responsibilities and legal risks still fall on humans, and the unpredictability of on-site command limits AI replacement.
-
 Career paths typically start as grassroots firefighters or rescue personnel, advance through promotion to mid-to-senior commanders, and eventually become heads of provincial or national security departments. Years of practical experience and senior management training are required.
 
 **Tasks most exposed to AI:**
@@ -102,17 +98,9 @@ Career paths typically start as grassroots firefighters or rescue personnel, adv
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Applicable to highly skilled talents, requires employer sponsorship and higher education, legal to work in France. |
-| Subclass Salarié (Employee Visa) | For employed work residence, the employer must provide a work contract and meet the conditions for adjusting the French labor market |
-| Subclass Carte bleue UE (EU Blue Card) | Targets highly educated talents, minimum annual salary requirement approximately €54,000, allows mobility within the EU. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -156,12 +144,12 @@ A: Competition is fierce because there are few positions and internal promotion 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/director-of-civil-security-and-emergency-services/FR)**

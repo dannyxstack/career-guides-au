@@ -4,8 +4,6 @@
 
 Commodity brokers facilitate the matching of buyers and sellers for goods or financial products, typically involving commodities, bonds, or foreign exchange transactions in markets such as Italy.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Commodity brokers facilitate the matching of buyers and sellers for goods or fin
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Trade broker jobs will be significantly reshaped by AI, with some standardized matching and data processing tasks automated, but core human capabilities like complex negotiation, relationship management, and strategic advice will be enhanced by AI—a mixed outlook overall.
-
 Junior brokers can gradually advance to senior brokers; experienced ones may move into asset management or start their own brokerage firms.
 
 **Tasks most exposed to AI:**
@@ -99,17 +95,9 @@ Junior brokers can gradually advance to senior brokers; experienced ones may mov
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU personnel, requiring a university degree and a high-paying job contract. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU workers, requiring employer sponsorship. |
-| Subclass Self-employed Work Visa (Self-Employment Visa) | Applies to self-employed individuals planning to set up a brokerage firm in Italy. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +141,12 @@ A: Must be registered with Consob as a financial adviser and complete anti-money
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/trade-broker/IT)**

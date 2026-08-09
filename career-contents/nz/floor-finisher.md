@@ -53,8 +53,6 @@ Floor layers in New Zealand install and repair wooden floors, carpets, and vinyl
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Flooring workers are minimally affected by AI automation, but digital tools and new material technologies will reshape some tasks; demand remains stable, requiring adaptation to tech-assisted construction and management.
-
 Start as an assistant, gain experience, then advance to senior technician or site supervisor, or start your own business; income increases significantly with experience.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as an assistant, gain experience, then advance to senior technician or sit
 | Subclass AEWV (Accredited Employer Work Visa) | If residency requirements are not met, a work visa sponsored by an accredited employer is available for up to 3 years, renewable. |
 | Subclass Green List T2 (Work to Residence Visa) | Can transition to residence after 2 years of work, often overlapping with T1 but with broader coverage |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but holding NZ Certificate in Flooring Level 3 and Site Safe c
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-finisher/NZ)**

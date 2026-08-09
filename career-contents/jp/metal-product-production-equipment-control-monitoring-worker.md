@@ -50,8 +50,6 @@ A field specialist who controls and monitors equipment on metal product producti
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation reduce simple monitoring tasks, but human judgment is essential for equipment abnormalities and diverse product handling. As production equipment advances, skills in collaborating with AI are required.
-
 Generally, gain experience on the manufacturing floor, master control technology, and handle multiple processes to advance to team leader or supervisor. Career changes to equipment manufacturers or maintenance departments are also possible.
 
 **Tasks most exposed to AI:**
@@ -90,16 +88,9 @@ Generally, gain experience on the manufacturing floor, master control technology
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号（素形材・産業機械・電気電子情報関連製造業） (Specified Skilled Worker (i)) | Available if falling under 3 manufacturing fields. Max stay 5 years, requires skills test and Japanese test (approx. N4). |
-| Subclass 技術・人文知識・国際業務（技人国） (Engineer/Specialist in Humanities/International Services) | For graduates of vocational school/university in roles like translation or engineering. Long-term stay and permanent residency possible. |
-| Subclass 技能（外国人技能実習） (Technical Intern Training) | 3-5 year program. Widely used in manufacturing like metalworking. Can transfer to Specified Skilled Worker after. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +134,12 @@ A: Yes. By gaining experience, acquiring qualifications, and becoming multi-skil
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/metal-product-production-equipment-control-monitoring-worker/JP)**

@@ -52,8 +52,6 @@ Personal care workers are in high demand in New Zealand's health services sector
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Career progression paths include advancing from junior caregiver to senior caregiver, team leader, or care coordinator. Further study can lead to registered nurse or healthcare management roles, with salary increasing significantly with experience and qualifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Career progression paths include advancing from junior caregiver to senior careg
 | Subclass Green List T2 (Green List Tier 2) | Eligible to apply for residence after 2 years of work |
 | Subclass SMC (Skilled Migrant Category) | If salary meets requirements or spouse adds points, it may be possible |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Eligible via Green List Tier 2 pathway, apply for residence after 2 years of 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-care-worker/NZ)**

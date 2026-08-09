@@ -53,8 +53,6 @@ Beverage production workers manufacture soft drinks, beer, wine, juice, etc., op
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI will replace some standardized baking tasks (e.g., proportion weighing), but demand for handcrafted decoration and artisan bread is strong, leading to mixed impacts. Entry-level positions remain stable, while senior roles gain value.
-
 Can advance from production operator to team leader or production supervisor, or become a brewer or beverage technician through further training. Some companies offer further training to technical specialist or quality manager.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Can advance from production operator to team leader or production supervisor, or
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Automation is gradually increasing, but the market for small and medium-sized
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/beverage-production-worker/DE)**

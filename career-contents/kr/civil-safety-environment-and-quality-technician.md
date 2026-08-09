@@ -4,8 +4,6 @@
 
 A technical specialist who manages safety, environment, and quality on civil engineering construction sites.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A technical specialist who manages safety, environment, and quality on civil eng
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists with some data analysis and monitoring, but human roles are essential for on-site judgment and safety management.
-
 Starting as a junior technician, one can advance to intermediate, senior technician, and manager positions through field experience and certifications.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ Starting as a junior technician, one can advance to intermediate, senior technic
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Targets skilled professionals; employer sponsorship required |
-| Subclass E-9 (Non-professional Employment) | Not applicable (not a professional job) |
-| Subclass F-2 (Residence) | Long-term stay possible; no employment restrictions |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -144,12 +132,12 @@ A: Through field experience and obtaining certifications, promotion from technic
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/civil-safety-environment-and-quality-technician/KR)**

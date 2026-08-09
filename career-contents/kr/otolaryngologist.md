@@ -4,8 +4,6 @@
 
 A specialist who diagnoses and treats diseases of the ear, nose, and throat, performing surgery and drug treatment for conditions such as allergies, sinusitis, and otitis media.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -52,8 +50,6 @@ A specialist who diagnoses and treats diseases of the ear, nose, and throat, per
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI assists doctors in imaging diagnosis, hearing tests, medication prescription support, etc., but core tasks such as surgery and patient consultations are led by human doctors, so the profession is strengthened.
-
 After graduating from medical school, completing internship and residency, and obtaining a specialist license, one can open a private practice or work at a hospital; career advancement to university hospital professor or private practitioner is possible.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ After graduating from medical school, completing internship and residency, and o
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | As a specialized medical professional, you can work at domestic medical institutions, but a doctor's license certification process is required. |
-| Subclass F-2 (Residence) | As a long-term residence status, there are no restrictions on medical activities. |
-| Subclass F-5 (Permanent Residence) | As a permanent resident, all medical activities are possible. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +130,12 @@ A: Possible, but the doctor's license certification process is strict, Korean la
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/otolaryngologist/KR)**

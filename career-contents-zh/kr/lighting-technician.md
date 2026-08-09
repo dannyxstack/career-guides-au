@@ -1,8 +1,8 @@
-# Lighting Technician 职业分析 · 韩国
+# 灯光技师（Lighting Technician）职业分析 · 韩国
 
-**职业代码: 41671 (KECO)**
+**职业代码：41671 (KECO)**
 
-A specialized technical professional who installs and operates lighting in film, broadcasting, and stage settings to create atmosphere and visual effects.
+在电影、广播和舞台场景中安装和操作照明以营造氛围和视觉效果的专业技术专家。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized technical professional who installs and operates lighting in film,
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Junior College (2-year) | 2 年 | $8,000,000~$15,000,000（Tuition (National/Public)） |
-| University (4-year) Related Department | 4年 | $12,000,000~$25,000,000（Tuition (Private)） |
-| Vocational Training (Private Academy) | 3~6 个月 | $1,000,000~$5,000,000（Varies by program） |
+| 大专（2年制） | 2 年 | $8,000,000~$15,000,000（学费（国立/公立）） |
+| 大学（4年制）相关院系 | 4年 | $12,000,000~$25,000,000（学费（私立）） |
+| 职业培训（私立学院） | 3~6 个月 | $1,000,000~$5,000,000（因项目而异） |
 
 ---
 
@@ -21,17 +21,17 @@ A specialized technical professional who installs and operates lighting in film,
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Stage Lighting Technician (KAWF) | Korea Artists Welfare Foundation | 必备 | Certification in stage lighting |
-| Lighting Technician (KCA) | Korea Communications Agency | 可选 | Nationally recognized certification in broadcasting and video lighting |
+| 舞台灯光技术员（KAWF） | 韩国艺术家福利基金会 | 必备 | 舞台灯光认证 |
+| 照明技师（KCA） | 韩国通信处 | 可选 | 国家认可的广播和视频照明认证 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 15,000. Employment is expected to grow modestly due to increased demand for K-content and revitalization of performances and exhibitions. However, job numbers are limited as most work is in small-scale settings.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 15,000。由于对K-content的需求增加以及演出展览的复兴，就业预计适度增长。然而，工作机会有限，因为大部分工作规模较小。
 
-**竞争度: 中高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -39,91 +39,84 @@ A specialized technical professional who installs and operates lighting in film,
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级（0~3 年） | $24,000,000~$30,000,000 | Average project rate per freelancer |
-| Intermediate (4~7 years) | $35,000,000~$50,000,000 | Average annual salary for regular employees |
-| Advanced (8+ years) | $50,000,000~$80,000,000 | Senior Lighting Technician or Director level |
+| 初级（0~3 年） | $24,000,000~$30,000,000 | 自由职业者平均项目费率 |
+| 中级（4-7年） | $35,000,000~$50,000,000 | 正式员工的平均年薪 |
+| 高级（8年以上） | $50,000,000~$80,000,000 | 高级灯光技术员或总监级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI will not fully replace lighting technicians' work but will improve efficiency through automated lighting control systems and pre-simulation tools. Creative judgment and on-site adaptability remain human domains.
+AI不会完全取代灯光技师的工作，但会通过自动化灯光控制系统和预模拟工具提高效率。创意判断和现场适应性仍属于人类领域。
 
-Typically starts as a lighting assistant, then advances to lighting technician, senior lighting technician, and lighting director. A high proportion are freelancers, and experience and portfolio are important.
+通常从灯光助理做起，再到灯光技术员、高级灯光技术员和灯光总监。高比例是自由职业者，经验和作品集很重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Basic lighting setup automation
-- Repetitive lighting pattern adjustments
+- 基础照明设置自动化
+- 重复的照明模式调整
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Lighting design simulation
-- Real-time lighting correction and monitoring
-- Energy efficiency optimization
+- 照明设计模拟
+- 实时照明校正和监控
+- 能效优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Intuitive lighting direction based on on-site conditions
+- 基于现场条件的直观照明方向
 - Artistic sense and creative use of light
-- Collaboration skills with stage/film production teams
+- 与舞台/电影制作团队的合作技能
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Lighting simulation software
-- Understanding DMX control systems
-- LED/smart lighting technologies
+- 照明仿真软件
+- 理解DMX控制系统
+- LED/智能照明技术
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Video content
-- Performances/festivals
-- LED/smart lighting
-- K-culture
+- 视频内容
+- 演出/节日
+- LED/智能照明
+- 韩流文化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professionals in culture, arts, and sports; requires degree or 5+ years of experience |
-| Subclass F-2 (Residence) | Long-term stay possible under points-based permanent residence; advantageous with recognized skill level |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking in arts; limited activities allowed |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Someone with creativity and technical sensibility
-- Someone who can accept night/weekend work and frequent travel
-- Someone with excellent teamwork and quick reflexes
+- 具有创造力和技术敏感性的人
+- 能接受夜间/周末工作及频繁出差的人
+- 团队合作出色且反应敏捷的人
 
 **谁不适合**
-- Someone who prefers a regular lifestyle and stable workplace
-- Someone who finds rapid field response and physical exertion burdensome
+- 喜欢规律生活和稳定工作场所的人
+- 觉得快速现场响应和体力劳动负担重的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting annual salary for a lighting technician?**
-答：For junior (0-3 years), the annual salary is about 24-30 million KRW; freelancers' pay varies greatly by project.
+**问：灯光技术员的起薪年收入是多少？**
+答：初级（0-3年）年薪约2400-3000万韩元；自由职业者薪酬因项目而异。
 
-**问：What visa does a foreigner need to work as a lighting technician?**
-答：E-7 (Specific Activities) visa is the most common, and you can apply with qualifications as a professional in culture/arts. A degree or 5+ years of experience is required.
+**问：外国人作为灯光技师工作需要什么签证？**
+答：E-7（特定活动）签证最常见，具备文化/艺术领域专业资格即可申请。需学位或5年以上经验。
 
-**问：What career paths are available after gaining experience as a lighting technician?**
-答：You can advance to senior lighting technician, lighting director, or broadcast/film lighting team leader, and also work as an instructor at universities or academies.
+**问：照明技术员积累经验后有哪些职业路径？**
+答：您可以晋升为高级灯光技师、灯光总监或广播/影视灯光团队负责人，也可在高校或院校担任讲师。
 
 
 ---
@@ -141,12 +134,12 @@ Typically starts as a lighting assistant, then advances to lighting technician, 
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/lighting-technician/KR)**

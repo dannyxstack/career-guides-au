@@ -51,8 +51,6 @@ A professional who designs, develops, and maintains electronic measurement equip
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-While AI and automation can replace some instrumentation data analysis or diagnostic tasks, complex judgment and on-site response such as system design, integration, and maintenance still require human intervention, making this an overall low-risk occupation.
-
 Typically starts in a research lab or production technology department, with promotion to senior engineer, team leader, or technical director. A master's or doctoral degree or certification (e.g., Measurement and Control Engineer) is advantageous.
 
 **Tasks most exposed to AI:**
@@ -91,17 +89,9 @@ Typically starts in a research lab or production technology department, with pro
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities (E-7)) | Issued for fields requiring specialized knowledge/technology; possible in instrumentation/control |
-| Subclass D-10 (Job Seeking (D-10)) | Available for degree holders during job-seeking activities |
-| Subclass F-2 (Residence (F-2)) | Long-term stay and free employment; targeted for skilled worker points system |
-| Subclass F-5 (Permanent Residence (F-5)) | Permanent residency, long-term stay and free employment |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +135,12 @@ A: A certification in instrumentation control or electronic engineering is advan
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electronic-measurement-and-control-engineer/KR)**

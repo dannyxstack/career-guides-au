@@ -52,8 +52,6 @@ Chemists perform chemical analysis, R&D, and quality control, working in pharmac
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The work of chemists will undergo complex changes: AI automation will take over routine experiments and data analysis, but experimental design, anomaly diagnosis, and cross-department collaboration will be enhanced by AI, making the overall outlook mixed.
-
 From laboratory technician to senior researcher or management role, also can transition to quality assurance or regulatory affairs.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ From laboratory technician to senior researcher or management role, also can tra
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass EU Blue Card (EU Blue Card) | Applies to highly skilled non-EU citizens, requires a work contract and minimum salary threshold. |
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Annual quota, applicable to non-EU citizens, requiring employer sponsorship. |
-| Subclass Nulla Osta (Nulla Osta) | Work permit, requires employer sponsorship, applicable to specific occupations. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Can progress from laboratory technician to research supervisor, or transition
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/chemist/IT)**

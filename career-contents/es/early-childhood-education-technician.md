@@ -51,8 +51,6 @@ Spanish Early Childhood Education Technician (Técnico en Educación Infantil) i
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Early childhood educators face mixed impacts from AI: administrative and paperwork tasks can be automated, but direct care and emotional interaction are hard to replace; overall demand remains stable.
-
 You can be promoted from assistant to technician, and then serve as a kindergarten coordinator or center supervisor. Further studies can be pursued to obtain a bachelor's or master's degree in education, entering primary school or special education.
 
 **Tasks most exposed to AI:**
@@ -99,15 +97,9 @@ You can be promoted from assistant to technician, and then serve as a kindergart
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Employed work residence) | Sponsored by a Spanish employer, requiring proof that the position is difficult to find locals, applicable to both public and private kindergartens |
-| Subclass Tarjeta azul UE (EU Blue Card) | For high-skilled positions, a bachelor's degree or equivalent is required, with an annual salary meeting (about €34,000 in 2025), but current salaries in this occupation may be relatively low |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +143,12 @@ A: Technicians can be promoted from technician to coordinator, principal, or pur
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/early-childhood-education-technician/ES)**

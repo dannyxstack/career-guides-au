@@ -52,8 +52,6 @@ Fire sprinkler fitters in Canada primarily install and maintain fire sprinkler s
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-On-site installation and compliance inspection for fire sprinkler fitters are difficult to replace by AI, but design planning, documentation, and preliminary testing tasks may be enhanced or partially replaced by automation tools, making it a mixed bag.
-
 Junior fire pipefitters can progress to licensed tradespeople through apprenticeships, become foremen, project managers, or start their own piping companies. Some may transition to fire system design or consulting roles.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior fire pipefitters can progress to licensed tradespeople through apprentice
 | Subclass EE (Express Entry (Trade Occupation)) | Meet the Federal Skilled Trades Program (FSTP) requirements, or obtain provincial nomination points through CEC/FSW. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program for skilled trades |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not fully recognized; need to obtain Canadian qualifications through apprenti
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steamfitters-pipefitters-and-sprinkler-system-installers/CA)**

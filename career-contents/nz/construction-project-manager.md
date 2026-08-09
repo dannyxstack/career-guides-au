@@ -54,8 +54,6 @@ Construction project managers oversee the full lifecycle of construction project
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Career progression starts as project coordinator or field engineer; with experience, can advance to senior project manager, project director, or company partner. Certifications (e.g., NZIOB) and project management qualifications (e.g., PMP) can accelerate promotion
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Career progression starts as project coordinator or field engineer; with experie
 | Subclass SMC (Skilled Migrant Category Resident Visa) | Meets the 6-point requirement (qualifications + work experience); can also apply for skilled migration. |
 | Subclass AEWV (Accredited Employer Work Visa) | As a transition visa, allows gaining experience with an accredited employer before applying for residency. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Usually requires a bachelor's degree in construction management or civil engi
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-project-manager/NZ)**

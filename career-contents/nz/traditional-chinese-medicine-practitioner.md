@@ -52,8 +52,6 @@ New Zealand Chinese Medicine Practitioners use acupuncture, Chinese herbal medic
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI primarily enhances rather than replaces traditional Chinese medicine practitioners, with diagnostic aids and knowledge management tools boosting efficiency, but core diagnosis and manual therapies are difficult to automate, offering positive career prospects.
-
 Traditional Chinese Medicine practitioners can advance from junior clinical work to senior physicians or clinic directors, or open private practices or serve as consultants in medical institutions. Continuous learning and professional development are key to promotion.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Traditional Chinese Medicine practitioners can advance from junior clinical work
 | Subclass SMC (Skilled Migrant Category) | For the 6-point skilled migration pathway, registration and employment contract are required; points are awarded based on qualifications and work experience. |
 | Subclass AEWV (Accredited Employer Work Visa) | Can apply after receiving certified employer offer; valid up to 3 years, laying groundwork for residency application. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Must register with the New Zealand Chinese Medicine Council (NZCMC), complete
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/traditional-chinese-medicine-practitioner/NZ)**

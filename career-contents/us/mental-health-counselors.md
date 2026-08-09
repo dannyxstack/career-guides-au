@@ -51,8 +51,6 @@ Provide psychological and emotional health counseling to individuals and groups,
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The task structure for psychologists will be mixed: basic psychological assessments, document writing, and information retrieval can be automated by AI, but core capabilities like deep empathy, therapeutic alliance building, and complex crisis intervention are hard to replace. AI becomes an auxiliary tool, not a replacement.
-
 Can progress from junior counselor to clinical supervisor, program director, or private practice. Requires accumulating clinical hours and obtaining state licensure.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from junior counselor to clinical supervisor, program director, or 
 | Subclass EB-2 (EB-2 Advanced Degree) | Based on master's degree or higher or exceptional ability, requires PERM labor certification |
 | Subclass EB-3 (EB-3 Skilled Workers) | Requires bachelor degree and 2 years experience, apply through PERM |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Yes, all states require a license. Typically requires a master's degree, supe
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mental-health-counselors/US)**

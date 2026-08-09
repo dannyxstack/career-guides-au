@@ -1,6 +1,6 @@
-# Supervisors and Managers - Mining and Quarrying and Explosives Engineering 职业分析 · 德国
+# 采矿、采石及爆破工程主管与经理（Supervisors and Managers - Mining and Quarrying and Explosives Engineering）职业分析 · 德国
 
-**职业代码: 2119 (KldB)**
+**职业代码：2119 (KldB)**
 
 负责露天矿、地下矿及爆破作业的现场管理与安全监督，协调开采流程、优化资源利用率，并确保符合德国矿业法规与环保标准。
 
@@ -28,10 +28,10 @@
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 12,000. 德国矿产资源有限，煤炭逐步退出，但钾盐、建材等开采持续，数字化与环保要求提升了对高技能管理人才的需求。整体就业稳定，年均岗位约500个，退休替代为主。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 12,000。德国矿产资源有限，煤炭逐步退出，但钾盐、建材等开采持续，数字化与环保要求提升了对高技能管理人才的需求。整体就业稳定，年均岗位约500个，退休替代为主。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 采矿与爆破作业主管的任务中，规程检查、数据记录和基础规划易被AI自动化，但现场决策、安全监督和不可预见的爆破调整依赖人类经验，整体喜忧参半。
 
 从采矿技师或爆破技术员起步，积累现场经验后可晋升为工段主管、采掘负责人，再至矿山运营经理。部分人转向矿业咨询或设备供应商管理岗。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 自动化日常巡检记录和地质数据录入
 - AI生成爆破方案初稿和参数优化
@@ -64,7 +64,7 @@
 - AI分析传感器数据预测设备故障
 - 自动化报告生成和合规文档填写
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - AI实时分析地质数据，辅助爆破设计调整
 - 无人机与传感器融合，增强现场监测能力
@@ -72,7 +72,7 @@
 - 虚拟现实模拟培训提升安全演练效果
 - AI辅助紧急情况快速决策支持
 
-**人类护城河:**
+**人类护城河：**
 
 - 不可预见的现场安全判断与应急处理
 - 复杂爆破作业的创意设计和经验调整
@@ -80,7 +80,7 @@
 - 法规合规责任与最终签字授权
 - 对矿区环境和机械的深度实操理解
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 数字矿山软件与AI辅助决策工具操作
 - 自动化爆破系统与远程监控技术
@@ -89,16 +89,16 @@
 - 跨领域协调与项目管理能力
 - 基本编程技能（Python/R）用于自动化报表
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Mining Technology
-- Safety Management
-- Resource Efficiency
-- Digitalization
+- 采矿技术
+- 安全管理
+- 资源效率
+- 数字化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | 适用于双元制培训或本科学历，需雇主担保 |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | 按积分制发放，允许入境寻找工作，有效期一年 |
 
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**PR友好度：中（★★★☆☆）**
 
 ---
 
@@ -153,12 +151,13 @@
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
+| PR友好度 | 中（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/supervisors-and-managers-mining-and-quarrying-and-explosives-engineering/DE)**

@@ -1,6 +1,6 @@
 # FPGA 工程师（FPGA Engineer）职业分析 · 法国
 
-**职业代码: H1202-FPGA (ROME)**
+**职业代码：H1202-FPGA (ROME)**
 
 FPGA 工程师用 Verilog/VHDL 在可编程逻辑器件上实现高性能数字电路，涵盖信号处理、低延迟计算与硬件加速，主要就业于国防航天、高频交易与半导体/通信公司，岗位稀缺、门槛高、薪资优厚。
 
@@ -28,10 +28,10 @@ FPGA 工程师用 Verilog/VHDL 在可编程逻辑器件上实现高性能数字�
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 800. 在法国，全球芯片自主与 AI 加速需求外溢，FPGA 工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 800。在法国，全球芯片自主与 AI 加速需求外溢，FPGA 工程师岗位稀缺、供给更少，资深人才紧俏、薪资位于电子工程高端。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -48,14 +48,14 @@ FPGA 工程师用 Verilog/VHDL 在可编程逻辑器件上实现高性能数字�
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
 AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降低开发门槛，但高性能、定制化需求增长，岗位总量可能增加，且技能要求提升，不直接替代。
 
 法国 AI 加速器与低功耗/模拟设计为主线，掌握 RTL/时序/版图的工程师稀缺；AI 辅助有限，架构与流片责任高度专业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 基本 RTL 代码生成（如计数器、状态机）
 - 常规仿真验证脚本编写与执行
@@ -63,7 +63,7 @@ AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降�
 - 基础 IP 集成与连接逻辑
 - 错误模式分类与简单调试
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用 AI 进行高层次综合（HLS）优化与资源估算
 - AI 辅助时序分析，自动定位关键路径并提供优化建议
@@ -71,7 +71,7 @@ AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降�
 - AI 驱动的测试用例生成与功能覆盖率闭合
 - AI 辅助硬件/软件分区决策与接口生成
 
-**人类护城河:**
+**人类护城河：**
 
 - 复杂系统级架构设计与权衡（延迟、吞吐、面积）
 - 领域特定算法硬件化（如雷达、深度学习加速）
@@ -79,7 +79,7 @@ AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降�
 - 与客户/系统工程师沟通需求，制定技术路线
 - 对安全关键系统（航空、军工）的合规性与可靠性验证
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 掌握基于 AI 的 EDA 工具（如 Cadence Cerebrus）
 - 学习高层次综合（HLS）与 OpenCL 应用
@@ -88,27 +88,21 @@ AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降�
 - 提升硬件/软件协同验证与敏捷开发能力
 - 学习 FPGA 在云计算（如 AWS F1）中的应用
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Defense & Aerospace Signal Processing (Radar/SDR)
-- high-frequency trading (HFT) low-latency FPGA
-- Video/Image & AI Acceleration (Edge Inference)
-- Communication Baseband & 5G/Satellite
-- FPGA Prototyping & SoC Acceleration
+- 国防与航空航天信号处理（雷达/软件无线电）
+- 高频交易（HFT）低延迟FPGA
+- 视频/图像与AI加速（边缘推理）
+- 通信基带与5G/卫星
+- FPGA原型设计与SoC加速
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+作为欧盟成员国，法国主要通过欧盟蓝卡和国家工作许可途径接纳技术熟练的外国专业人士。资格取决于你的资历、合格的工作邀请和薪资门槛——而非单一职业。规则和薪资门槛每年都会变，所以在做计划前一定要核实官方来源。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass Passeport Talent (Talent passport) | Passeport Talent（salarié qualifié）：合格工程师多年居留 |
-| Subclass Salarié (Employment and residence) | Carte de séjour salarié：雇主合同工作居留 |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[欧盟移民门户](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -160,12 +154,12 @@ AI 对 FPGA 工程师的岗位需求是放大效应：自动化设计工具降�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/fpga-engineer/FR)**

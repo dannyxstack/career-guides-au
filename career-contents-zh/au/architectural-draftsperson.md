@@ -1,6 +1,6 @@
-# Architectural Draftsperson 职业分析 · 澳大利亚
+# 建筑制图员（Architectural Draftsperson）职业分析 · 澳大利亚
 
-**职业代码: 312111 (ANZSCO)**
+**职业代码：312111 (ANZSCO)**
 
 建筑绘图师（Architectural Draftsperson）负责使用CAD和BIM软件绘制建筑施工图和设计文件。澳大利亚住宅建设繁荣和商业开发旺盛带动持续需求，BIM技能成为核心竞争力，移民背景申请者因设计制图经验丰富而受欢迎。
 
@@ -11,7 +11,7 @@
 
 | 阶段 | 周期 | 费用 (AUD) |
 |---|---|---:|
-| Diploma in Architectural Technology / Cert IV in Building Design | 12~24个月 | $3,000~$15,000（TAFE国际学生约$12,000~$15,000；本地补贴后更低） |
+| 建筑技术文凭 / 四级建筑设计证书 | 12~24个月 | $3,000~$15,000（TAFE国际学生约$12,000~$15,000；本地补贴后更低） |
 | Revit / ArchiCAD / AutoCAD 认证培训 | 3~6个月（自学+考试） | $500~$2,000（软件培训费；Autodesk认证考试约$200） |
 | Vetassess Skills Assessment（移民评估） | 3~6个月 | $800~$1,500（Vetassess评估费） |
 
@@ -21,18 +21,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Certificate IV / Diploma in Architectural Technology | TAFE / RTO | 必备 | 主流入行资质 |
-| Autodesk Revit Certified User/Professional | Autodesk | 可选 | BIM市场标准证书 |
+| 建筑技术四级证书/文凭 | TAFE / RTO | 必备 | 主流入行资质 |
+| Autodesk Revit 认证用户/专业人员 | Autodesk | 可选 | BIM市场标准证书 |
 | Vetassess 技能评估 | Vetassess | 可选 | 技能移民评估 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 16,000. 联邦「住宅未来基金」新建计划（至2029年120万套）带动设计文件需求。BIM平台（Revit/ArchiCAD）技能成为招聘标准配置。JSA列为短缺职业（2025）。
+**职位需求量：较高（★★★★☆）** 全国从业人数约 16,000。联邦「住宅未来基金」新建计划（至2029年120万套）带动设计文件需求。BIM平台（Revit/ArchiCAD）技能成为招聘标准配置。JSA列为短缺职业（2025）。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -51,35 +51,35 @@
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 中高（★★★☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：中高（★★★☆☆）**
 
 建筑绘图师受AI影响喜忧参半：简单制图任务被自动化工具替代，但BIM、参数化设计和可持续发展需求反而放大了对有创意、懂协作的高级绘图师需求。
 
 BIM协调和3D建模逐步替代2D AutoCAD，但设计文件审核和客户沟通仍需人工。有BIM技能的绘图师薪资溢价明显。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
 - 生成标准建筑施工图（平面、立面、剖面）
 - 自动标注尺寸、材料明细表
 - 二维图纸的合规性检查与修正
 - 从BIM模型中自动提取图纸和统计量
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
 - 利用生成式AI快速创建设计草案和方案迭代
 - BIM模型中的冲突检测与自动协调
 - AI辅助的能源分析、日照分析等性能优化
 - 基于机器学习的材料选择与成本估算
 
-**人类护城河:**
+**人类护城河：**
 
 - 与建筑师、工程师沟通设计意图的协作能力
 - 对建筑规范、本地法规的深度理解
 - 复杂空间设计中的创造性解决能力
 - 现场勘查与实际情况的灵活调整
 
-**需构建的技能:**
+**需构建的技能：**
 
 - 高级BIM软件（Revit、ArchiCAD）熟练应用
 - 参数化设计（Grasshopper、Dynamo）
@@ -88,16 +88,16 @@ BIM协调和3D建模逐步替代2D AutoCAD，但设计文件审核和客户沟�
 - 跨学科协作与项目管理
 - 编程基础（Python自动化脚本）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Residential Design Documentation
-- Commercial & Mixed-Use Development
-- BIM (Building Information Modelling)
-- Aged Care & Healthcare Facilities
+- 住宅设计文档
+- 商业及混合用途开发
+- BIM（建筑信息模型）
+- 老年护理与医疗设施
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
 
 | 签证类别 | 说明 |
@@ -107,9 +107,7 @@ BIM协调和3D建模逐步替代2D AutoCAD，但设计文件审核和客户沟�
 | Subclass 189 (Skilled Independent) | 积分制独立移民 |
 | Subclass 190 (Skilled Nominated) | 州提名加5分 |
 
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**PR友好度：中高（★★★½☆）**
 
 ---
 
@@ -160,12 +158,13 @@ BIM协调和3D建模逐步替代2D AutoCAD，但设计文件审核和客户沟�
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 中高（★★★☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
+| PR友好度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/architectural-draftsperson/AU)**

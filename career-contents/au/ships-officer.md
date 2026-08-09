@@ -53,8 +53,6 @@ Ship pilots are responsible for driving vessels in sea or inland waterways, ensu
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI-assisted navigation, weather forecasting, and automation systems enhance crew efficiency and safety, but require certification and compliance; the profession is enhanced overall rather than replaced.
-
 Progress from Junior Third Mate to Second Officer, Chief Officer, and eventually qualify as Master. Also possible to transition to port management, maritime safety, or shipping company management roles.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Progress from Junior Third Mate to Second Officer, Chief Officer, and eventually
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent residence, must be on CSOL and nominated by a state (e.g., Western Australia, Queensland) |
 | Subclass 491 (Skilled Work Regional Visa) | Regional state nominated temporary visa, transition to 191 permanent; suitable for those willing to work in remote ports. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Must hold an AMSA-issued Certificate of Competency (at levels of Third Mate, 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ships-officer/AU)**

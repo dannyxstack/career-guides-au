@@ -51,8 +51,6 @@ Operate machines to process textile fibers, yarns, raw hides, and furs, includin
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Highly repetitive physical tasks in this occupation (e.g., washing, combing, dyeing) are being replaced by automated machines and AI visual inspection systems, leading to continuous job shrinkage, but equipment maintenance and anomaly handling still require manual intervention
-
 Usually start as an operator, gain experience to advance to senior operator or supervisor. But industry size limits career growth; transitioning to quality control or equipment maintenance requires additional training.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Usually start as an operator, gain experience to advance to senior operator or s
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Poor prospects, industry shrinking, automation may reduce positions, job oppo
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/textile-fibre-and-yarn-hide-and-pelt-processing-machine-operators-and-workers/CA)**

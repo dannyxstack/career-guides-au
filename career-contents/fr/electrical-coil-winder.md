@@ -53,8 +53,6 @@ Engaged in coil winding, maintenance, and rewinding of electrical equipment such
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Electrical coil winding workers face moderate automation risks, and repetitive manual winding is easily replaced by machines. However, customized repairs and complex fault troubleshooting still require human judgment, intensifying competition for entry-level positions.
-
 Starting as an apprentice or technician, you can gain experience and be promoted to team leader or technical expert. Alternatively, you can pursue higher-level electrical qualifications (such as BTS Electrotechnique) to move into design or management positions.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Starting as an apprentice or technician, you can gain experience and be promoted
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for urgently needed technical talents, eligible for 4-year residence, with family members allowed to accompany the program |
-| Subclass Salarié (Employee Work Permit) | Employer sponsorship required, with the Labor Bureau reviewing the shortage position, valid for 1-4 years |
-| Subclass Carte bleue UE (EU Blue Card) | Requires at least 3 years relevant experience or equivalent qualifications; salary threshold about €45,000. |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -150,12 +141,12 @@ A: This occupation is considered a shortage occupation and can be applied for th
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrical-coil-winder/FR)**

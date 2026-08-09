@@ -56,8 +56,6 @@ Customs officers (Australian Border Force, ABF) inspect goods and travellers at 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI will greatly enhance efficiency in risk analysis and document processing, but law enforcement discretion, physical inspection, and public safety responsibility remain core human barriers. Customs officer roles won't disappear, but entry-level paperwork may shrink.
-
 Australia processes over 200 million inbound parcels annually (driven by surging e-commerce imports), and the ABF has expanded mail centre and port examination staffing. Biosecurity (preventing pests and diseases from entering the country) is one of the ABF's highest priority functions. DAFF (Department of Agriculture, Fisheries and Forestry) biosecurity officers work closely with the ABF. Officers with Mandarin/Cantonese language skills bring unique value in serving international travellers and inspecting Australia–China trade goods.
 
 **Tasks most exposed to AI:**
@@ -111,9 +109,7 @@ Australia processes over 200 million inbound parcels annually (driven by surging
 | Subclass Citizen requirement (Federal government position requirements) | ABF federal roles require Australian citizenship; PRs generally do not meet security clearance requirements |
 | Subclass 189/190 (Citizenship application after skilled migration) | It is recommended to obtain PR through other pathways first, then apply to ABF after residing in Australia for 4 years and obtaining citizenship |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -175,12 +171,13 @@ A: Similar salary ranges (both including allowances: $85k–$130k); Customs Offi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customs-officer-border-force-officer/AU)**

@@ -53,8 +53,6 @@ Inspect agricultural products, processing equipment and facilities, as well as f
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Some tasks of agricultural inspectors can be automated by AI, such as data recording and preliminary analysis, but on-site judgment and regulatory decisions still require humans; AI can enhance monitoring efficiency and predictive capabilities, presenting both opportunities and challenges.
-
 Usually start as a junior inspector, gain experience and advance to senior inspector or regional supervisor. Some move into policy-making or training roles, requiring passing federal or state government civil service exams.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Usually start as a junior inspector, gain experience and advance to senior inspe
 | Subclass H-1B (H-1B Specialty Occupation) | Typically not applicable as the role usually does not require a bachelor's degree, but exceptions may exist |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-2/EB-3)) | Employer sponsorship is difficult as positions are often government-funded; must prove inability to find US workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Difficult. Most positions are government roles; employer-sponsored visas are 
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-inspectors/US)**

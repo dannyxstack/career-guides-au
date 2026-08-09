@@ -53,8 +53,6 @@ This occupation focuses on using information technology to process and analyze b
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will automate standard analysis workflows in bioinformatics, but also enhance complex data integration and model interpretation, requiring practitioners to shift towards advanced computing and cross-domain collaboration.
-
 Career progression can start from junior data analyst or researcher, advancing to senior scientist, team leader, or project manager. In pharmaceutical or biotechnology companies, you can move into R&D management or clinical informatics. A PhD makes it easier to enter leadership roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career progression can start from junior data analyst or researcher, advancing t
 | Subclass Skilled Worker (Skilled Worker Visa (Fachkräfteeinwanderungsgesetz)) | Applicable to professionals with a recognized German degree or equivalent qualification; an employer's intent-to-hire contract is sufficient to apply. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | Points-based job search visa allowing entry to Germany to seek employment, requires meeting conditions such as language, age, and qualifications. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can start as a junior data analyst or researcher, progressing to senior scien
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/bioinformatics-and-medical-informatics-specialist/DE)**

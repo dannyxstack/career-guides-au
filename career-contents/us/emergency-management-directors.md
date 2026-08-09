@@ -52,8 +52,6 @@ Plans and directs disaster response or crisis management activities, provides pr
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core work of an emergency management director (decision-making, coordination, trust) is less impacted by AI, but tasks like data collection and report generation can be automated. The role will evolve into an 'AI-enhanced commander', and entry-level positions are slightly narrowing due to standardized tools.
-
 Typically start as an emergency management specialist or coordinator, with experience can advance to assistant director or deputy director, and eventually become emergency management director. Some can move to regional or national management roles through further education and certification (e.g., CEM).
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as an emergency management specialist or coordinator, with exper
 | Subclass EB-2 (Employment-Based Second Preference) | Requires master's degree or bachelor's plus 5 years of experience, needs PERM labor certification. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must demonstrate no suitable US workers available; process is lengthy |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: AI impact is low. This role requires complex decision-making, interpersonal c
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/emergency-management-directors/US)**

@@ -51,8 +51,6 @@ Responsible for technical operations of air transport, including flight planning
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★★☆☆☆).**
 
-Manual repetitive tasks of aviation transport operators are easily replaced by automation, with high risk of job reduction, but on-site security responsibilities at airports partially retain human judgment.
-
 Entry-level roles like operations assistant can advance to operations supervisor, department manager, or transition to senior positions such as airline management and safety auditing.
 
 **Tasks most exposed to AI:**
@@ -103,9 +101,7 @@ Entry-level roles like operations assistant can advance to operations supervisor
 | Subclass Skilled Worker (Skilled Worker Visa) | Applicable to dual-system training or bachelor's degree, with employer sponsorship |
 | Subclass Chancenkarte (Opportunity Card) | Job-seeking visa based on a points system, available for job hunting in Germany |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: The main pathway is a 3-year dual system training (paid), or an aviation-rela
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-air-transport-operator/DE)**

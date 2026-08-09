@@ -55,8 +55,6 @@ Business analysts help organisations achieve digital transformation and operatio
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Business analysts face medium automation risk from AI, but AI enhancement is significant; entry-level roles narrow due to automation of basic analysis, while high-value hybrid roles become more sought after.
-
 AI-driven Business Process Analysis is the fastest-growing specialisation in 2025–2026; BAs combining data analytics and business strategy command a salary premium of $20k–$30k. Demand for RPA (Robotic Process Automation) specialist BAs is surging.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ AI-driven Business Process Analysis is the fastest-growing specialisation in 202
 | Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC governments have many digital projects |
 | Subclass 491 (Skilled Work Regional) | Regional government BA position, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Both roles offer comparable salaries ($104k–$130k) and similar employment v
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/business-analyst/AU)**

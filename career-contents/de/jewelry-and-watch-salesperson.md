@@ -51,8 +51,6 @@ Jewellery and Watch Salespersons sell high-end items such as jewellery and watch
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 Junior sales staff can advance to senior sales consultant, store manager, or regional manager, or transition to procurement, brand management, or jewelry appraisal.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior sales staff can advance to senior sales consultant, store manager, or reg
 | Subclass Skilled Worker (Skilled Immigration Act Work Permit) | Requires a recognized German vocational qualification (e.g., IHK training certificate) and employer sponsorship. |
 | Subclass Chancenkarte (Opportunity Card) | Points-based job search card for seeking employment in Germany |
 
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can progress from sales assistant to senior sales consultant, store manager, 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/jewelry-and-watch-salesperson/DE)**

@@ -53,8 +53,6 @@ Responsible for operating diversified farms that combine crop cultivation and li
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The work of mixed farming operators is mixed: automation and AI will significantly optimize daily operations in planting and breeding, but decision-making coordination, animal welfare, and ecological management are difficult to replace, requiring proactive adoption of digital tools.
-
 Typically, they start as agricultural apprentices or workers and are promoted to farm managers or independent farm owners. You can switch to agricultural consulting, cooperative management, or agricultural technology promotion.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ Typically, they start as agricultural apprentices or workers and are promoted to
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled agricultural talent or starting an agricultural enterprise, requiring a project plan, valid for 4 years |
-| Subclass Salarié (Salaried Employee Visa) | Employment with French farms or agricultural enterprises requires a work permit, valid for one year |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated agricultural managers with salaries up to 1.5 times the average salary, but agricultural salaries are usually low |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can start as an agricultural worker or apprentice, advance to farm manage
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mixed-crop-and-animal-farmer/FR)**

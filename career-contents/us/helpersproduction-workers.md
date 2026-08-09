@@ -52,8 +52,6 @@ Assist production workers with low-skill tasks such as supplying materials and c
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Production worker assistants face ongoing job reduction due to automated production equipment and AI scheduling systems; entry-level repetitive tasks are replaced by machines, but equipment maintenance and anomaly handling still require demand.
-
 Limited career progression; typically can advance to production worker or specific operator roles, requiring experience or training.
 
 **Tasks most exposed to AI:**
@@ -103,8 +101,6 @@ Limited career progression; typically can advance to production worker or specif
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -144,11 +140,12 @@ A: Generally not, because H-1B requires a specialty occupation, while this occup
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helpersproduction-workers/US)**

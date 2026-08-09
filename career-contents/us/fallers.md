@@ -53,8 +53,6 @@ Fell trees using axes or chainsaws, controlling fall direction based on tree cha
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Logging worker is a high-risk automation occupation; AI and automated equipment will significantly reduce job demand, but manual work in remote areas has a short-term moat.
-
 Junior loggers can improve skills through experience and advance to logging team leader or forest operations supervisor; they can also shift to forest protection, timber procurement, or equipment operation.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Junior loggers can improve skills through experience and advance to logging team
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★½).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Can advance to logging crew leader, forest operations supervisor, or transiti
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fallers/US)**

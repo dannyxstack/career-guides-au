@@ -54,8 +54,6 @@ In Canada, this occupation involves operating textile or footwear production mac
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Textile and footwear machine operator roles face significant automation compression risk. AI-driven visual inspection, robotic sewing, and material handling will replace many repetitive tasks, lowering entry barriers but reducing high-paying positions, shrinking overall career prospects.
-
 Career advancement paths are limited; you can progress from junior operator to senior operator, team leader, or quality inspector. Gaining experience or learning automation technology can improve competitiveness, but transitioning to management requires additional training.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Career advancement paths are limited; you can progress from junior operator to s
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Usually only a high school diploma is required. Some employers may require vo
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-machine-operators-in-textile-and-footwear-production/CA)**

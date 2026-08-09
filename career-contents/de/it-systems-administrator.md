@@ -52,8 +52,6 @@ Responsible for the installation, configuration, maintenance and troubleshooting
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The IT systems administrator role is a mixed blessing: AI and automation will take over many routine operations tasks, but also require higher-level skills to design and oversee automated systems.
-
 From junior systems administrator, you can advance to senior administrator, IT team lead, or IT architect. By accumulating cloud platform (AWS/Azure) or information security certifications, you can also move into higher-paying roles such as DevOps or security engineer.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ From junior systems administrator, you can advance to senior administrator, IT t
 | Subclass Skilled Worker (Skilled Worker Visa) | Suitable for dual vocational training or bachelor's degree; requires employer sponsorship; no hard salary threshold. |
 | Subclass Chancenkarte (Opportunity Card) | Based on a points system, allows entering to look for work before finding a job, suitable for qualified IT professionals. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing an IHK-recognized dual IT systems management tr
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-systems-administrator/DE)**

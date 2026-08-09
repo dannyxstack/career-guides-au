@@ -53,8 +53,6 @@ An IT Project Coordinator is responsible for coordinating the schedule, resource
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-IT project coordinators face dual impact of AI automation and augmentation. Routine tasks like scheduling and report generation will be replaced, but AI cannot replace interpersonal communication and complex decision-making, so overall risk is manageable.
-
 Agile (Scrum/Kanban) project management methodologies have become mainstream in the IT industry, and project coordinators must be familiar with agile tools (Jira, Confluence). Hybrid project management approaches (Agile + Waterfall) are widely used in large government projects, and PMP certification remains a valuable asset.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Agile (Scrum/Kanban) project management methodologies have become mainstream in 
 | Subclass 186 (ENS) | Permanent residency pathway |
 | Subclass 190 (Skilled Nominated) | State nomination |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Demand is stable and strong, with 250–450 active positions consistently lis
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/it-project-coordinator/AU)**

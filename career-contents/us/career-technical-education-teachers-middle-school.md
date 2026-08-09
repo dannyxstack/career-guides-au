@@ -55,8 +55,6 @@ Teach career, technical, or trade-related subjects in U.S. junior high or middle
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on secondary vocational technology teachers is mixed: some tasks (e.g., basic skills training, lesson material preparation) can be automated, but core duties like hands-on practice guidance, career counseling, and safety supervision are hard to replace.
-
 Career path usually starts as a teacher, advancing to teaching director, curriculum coordinator, or school administrator; some move into career counseling or education policy.
 
 **Tasks most exposed to AI:**
@@ -113,8 +111,6 @@ Career path usually starts as a teacher, advancing to teaching director, curricu
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -158,11 +154,12 @@ A: Requires at least a bachelor's degree and state teaching certification, usual
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/career-technical-education-teachers-middle-school/US)**

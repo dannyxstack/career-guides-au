@@ -53,8 +53,6 @@ Provide legal services in property title transfer and land transactions, ensurin
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The work of a property transfer specialist involves both routine processes and legal responsibilities; AI will automate document processing, searches, compliance checks, etc., but core legal judgment, client communication, and signing authority still require humans. Overall, it's a mixed bag, but entry-level positions will be significantly reduced.
-
 Junior conveyancer can advance to senior solicitor or partner. With experience, can practice independently or start a firm. Collaboration with immigration lawyers can expand business
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior conveyancer can advance to senior solicitor or partner. With experience, 
 | Subclass AEWV (Accredited Employer Work Visa) | Obtain employer sponsorship from an accredited employer; apply for residence after 2 years of work |
 | Subclass Green List T2 (Green List Tier 2) | If engaged in specific legal roles, may qualify for work-to-residence pathway |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Typically requires a Bachelor of Laws (LLB) or Graduate Diploma in Law (GDipL
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-professionals-nec/NZ)**

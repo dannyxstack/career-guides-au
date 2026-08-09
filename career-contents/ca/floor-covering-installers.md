@@ -53,8 +53,6 @@ Installs, repairs and renovates various flooring materials (e.g. hardwood, carpe
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI/automation poses low direct replacement threat to floor installers, but entry-level positions are compressed by smart measurement, automated cutting, and online design tools, reducing apprenticeship opportunities.
-
 Typically start as apprentices or assistants, gain experience, and advance to full technician, lead hand, or self-employment. Obtaining Red Seal certification allows mobility across provinces, boosting salary and job opportunities.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Typically start as apprentices or assistants, gain experience, and advance to fu
 | Subclass EE (Express Entry (Federal Skilled Trades)) | Tradespersons meeting FST requirements can apply through Express Entry, provided they meet language and work experience requirements. |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Pilot, suitable for applicants with employer sponsorship in that region |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Typically requires completing a provincial apprenticeship program and obtaini
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/floor-covering-installers/CA)**

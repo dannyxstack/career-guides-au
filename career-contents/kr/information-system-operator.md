@@ -50,8 +50,6 @@ A professional who stably operates, manages, and maintains an organization's inf
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI accelerates operational automation like fault detection and auto-recovery, but complex problem-solving and architecture design remain uniquely human domains, evolving toward collaboration with AI.
-
 Promotion path: junior operator → system administrator → senior engineer/IT manager; with expertise in cloud, security, and automation, one can advance to CTO.
 
 **Tasks most exposed to AI:**
@@ -94,16 +92,9 @@ Promotion path: junior operator → system administrator → senior engineer/IT 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | For skilled IT talent, requires company sponsorship |
-| Subclass F-2 (Residence) | Long-term stay possible through points system, advantageous for high-skilled workers |
-| Subclass D-10 (Job Seeking) | Job search after degree, can switch to E-7 after gaining experience |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +138,12 @@ A: Operator → System Administrator → Senior Engineer → IT Manager/CTO, wit
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/information-system-operator/KR)**

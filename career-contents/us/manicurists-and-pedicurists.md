@@ -53,8 +53,6 @@ Nail technicians clean, trim, and beautify clients' fingernails and toenails, in
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Nail technicians' daily services are highly routine and repetitive; AI and automation tools (e.g., smart nail printers, online booking and image design) will compress demand for basic positions, but customized design and physical services like hygiene retain human advantages.
-
 Nail technicians can advance from junior to senior nail technician, salon supervisor, or manager. With sufficient experience and clients, they can open their own nail studio or join a franchise chain. Some expand into medical nail care or education by obtaining professional qualifications.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Nail technicians can advance from junior to senior nail technician, salon superv
 | Subclass O-1 (O-1 Extraordinary Ability) | Rare, unless you have international reputation and outstanding achievements in nail art |
 | Subclass Green Card (PERM) (EB-2/EB-3 Employment-Based Green Card) | PERM labor certification requires proving domestic labor shortage; nail technician market has sufficient supply, making it difficult for employers to sponsor through this route |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Nail technicians can start as junior technicians and progress to senior techn
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manicurists-and-pedicurists/US)**

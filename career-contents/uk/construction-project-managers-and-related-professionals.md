@@ -53,8 +53,6 @@ Construction project managers oversee and manage major construction and civil en
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Construction project managers benefit overall from AI enhancement, but entry-level coordination tasks face automation pressure, requiring proactive adoption of digital tools to remain competitive.
-
 Usually start as assistant project manager or site supervisor, and can advance to senior project manager, project director, or even business partner with experience. Need to continuously obtain professional certifications.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as assistant project manager or site supervisor, and can advance t
 | Subclass Graduate (Graduate Visa) | UK graduates can stay for 2 years (3 years for PhD) to look for work. |
 | Subclass Scale-up (Scale-up Visa) | Suitable for applicants with a high-growth business sponsor, must meet salary requirements. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Usually through a Skilled Worker visa, requiring employer sponsorship and mee
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/construction-project-managers-and-related-professionals/UK)**

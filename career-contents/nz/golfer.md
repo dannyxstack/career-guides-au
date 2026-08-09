@@ -55,8 +55,6 @@ Professional golfers earn prize money and sponsorship income by participating in
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Professional golfers face significant impact from AI automation; data and AI can simulate training and analyze strategies, but core competition and sponsorship income still rely on human performance, narrowing the entry pathway.
-
 Career progression path: from amateur player to professional qualification, then competing in sub-tours, followed by the PGA Tour of Australasia, and finally international tournaments. Promotion depends on tournament prize money and world rankings, requiring continuous training and participation.
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Career progression path: from amateur player to professional qualification, then
 | Subclass SMC (Skilled Migrant Category) | This occupation typically does not meet ANZSCO skill levels 1-3, cannot directly apply, but high income may qualify for special skills residence. |
 | Subclass Green List T2 (Green List Tier 2 - Work to Residence) | This occupation is not on the Green List and is not suitable for this pathway |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Typically requires NZ PGA professional qualification, amateur and secondary t
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/golfer/NZ)**

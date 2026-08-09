@@ -51,8 +51,6 @@ Coordinate project schedules, timelines, procurement, staffing, and budgets for 
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Project manager role is moderately affected by AI: data tasks like scheduling and budget tracking can be automated, but stakeholder coordination and risk decisions still require human judgment. Entry-level jobs face more competition due to widespread basic project management tools, but senior positions demand more interpersonal skills.
-
 Career progression can lead to senior project manager, project director or PMO manager, and can also transition to product management or operations management. Obtaining PMP certification aids advancement.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career progression can lead to senior project manager, project director or PMO m
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to bachelor's degree or experienced project management specialists; requires PERM labor certification |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Through employer-sponsored green card process, proving no qualified US workers available for the position |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: PMP is the most recognized certification in project management, helping to bo
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/project-management-specialists/US)**

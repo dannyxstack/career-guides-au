@@ -4,8 +4,6 @@
 
 Actors play roles in theater, film, television, or radio, interpreting scripts and conveying emotions through performance. The Spanish film and television industry continues to grow driven by streaming platforms, but competition for jobs is fierce.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Actors play roles in theater, film, television, or radio, interpreting scripts a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Most actors start out in theater, accumulate works, and then move on to film and television roles, with a few advancing to lead roles or directing. Some actors also work as voice actors, advertisers, or teach to maintain their income. Continuous training and multiskilling are key.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Most actors start out in theater, accumulate works, and then move on to film and
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit employed (Cuenta ajena)) | A Spanish film company must provide an employment contract proving that the position cannot be filled by local or EU citizens, making it extremely difficult to get approval |
-| Subclass Cuenta propia (Self-employed work permit (Cuenta propia)) | Actors applying on a self-employed basis must prove stable projects and financial capability |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Although there is no mandatory academic requirement, the industry generally e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/ES)**

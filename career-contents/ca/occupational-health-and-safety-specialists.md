@@ -54,8 +54,6 @@ Occupational health and safety specialists in Canada conduct workplace safety as
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on occupational health and safety experts is mainly enhancement rather than replacement. Automation tools will handle documentation compliance and data monitoring, allowing experts to focus on risk assessment, training design, and emergency response.
-
 Junior officers can advance to senior officer, security manager, or director, or transition to consulting or training. Additional certifications (e.g., CRSP) or management experience can accelerate progress, and can cross industries to high-paying fields like oil & gas or mining.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior officers can advance to senior officer, security manager, or director, or
 | Subclass PNP (Provincial Nominee Program) | Provinces have targeted draws, e.g., BC Tech, Ontario Human Capital; receiving a provincial nomination adds 600 CRS points. |
 | Subclass AIP (Atlantic Immigration Program) | Employer sponsorship in Atlantic provinces like Nova Scotia and Newfoundland is suitable for applicants with a job offer. |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Worth it. CRSP is not mandatory but significantly improves job opportunities 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-health-and-safety-specialists/CA)**

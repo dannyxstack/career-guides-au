@@ -4,8 +4,6 @@
 
 Responsible for managing the team in the soft materials (such as textile, leather, plastic film) production workshop, coordinating daily operations, quality control, and production planning to ensure efficiency and safety.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -55,8 +53,6 @@ Responsible for managing the team in the soft materials (such as textile, leathe
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Supervisor roles suffer dual impacts from AI: some tasks like production scheduling and quality monitoring can be automated, but soft skills like team management, exception handling, and cross-departmental coordination are amplified by AI tools, necessitating a rebalancing of technical and human capabilities.
-
 You can be promoted from technician to team leader, workshop supervisor, and then to production manager or process engineer. Continuous learning of lean management and new technologies is necessary, with future shifts toward supply chain or quality management.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ You can be promoted from technician to team leader, workshop supervisor, and the
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee Work Permit) | Employed work residence requires employer sponsorship, with priority given to EU citizens |
-| Subclass Passeport Talent (Talent Passport) | Applicable to high-skilled or innovative projects, with an annual salary requirement ≥ €36,552, requiring a master's degree or 5 years of experience |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Usually, a background in CAP/BEP technology is required, with BTS or Licence 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisor-of-soft-materials-workshop-or-team/FR)**

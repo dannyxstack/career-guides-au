@@ -1,8 +1,8 @@
-# Natural Sciences Researcher 职业分析 · 日本
+# 自然科学研究员（Natural Sciences Researcher）职业分析 · 日本
 
-**职业代码: 051 (JSCO)**
+**职业代码：051 (JSCO)**
 
-A specialized professional who explores new knowledge through theories and experiments in natural sciences such as physics, chemistry, and biology. Engages in basic and applied research at universities, research institutes, or corporate laboratories.
+在物理学、化学、生物学等自然科学领域通过理论和实验探索新知识的专业人才；在大学、研究机构或企业实验室从事基础与应用研究。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized professional who explores new knowledge through theories and exper
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Bachelor's degree (science/engineering) | 4年 | $2,500,000~$6,000,000（National universities: approx. ¥540,000/year; private universities: approx. ¥1,500,000/year） |
-| Master's degree (science/engineering) | 2 年 | $1,500,000~$3,000,000（National universities: approx. ¥540,000/year; private universities: approx. ¥1,000,000/year） |
-| Doctoral degree (science/engineering) | 3年 | $1,500,000~$3,000,000（National universities: approx. ¥540,000/year; private universities: approx. ¥1,000,000/year） |
+| 学士学位（科学/工程） | 4年 | $2,500,000~$6,000,000（国立大学：约54万日元/年；私立大学：约150万日元/年） |
+| 硕士学位（科学/工程） | 2 年 | $1,500,000~$3,000,000（国立大学：约54万日元/年；私立大学：约100万日元/年） |
+| 博士学位（科学/工程） | 3年 | $1,500,000~$3,000,000（国立大学：约54万日元/年；私立大学：约100万日元/年） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialized professional who explores new knowledge through theories and exper
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 博士学位（PhD） | 大学 | 可选 | Not mandatory for research positions, but advantageous for promotion and funding acquisition |
-| Professional Engineer (Applied Science) | Ministry of Education, Culture, Sports, Science and Technology | 可选 | May be recognized for qualifications in applied research and practical work |
-| Doctor of Philosophy (PhD) | 大学 | 可选 | Overseas PhD may be considered equivalent |
+| 博士学位（PhD） | 大学 | 可选 | 研究职位非强制性，但对晋升和获取资金有利 |
+| 专业工程师（应用科学） | 文部科学省 | 可选 | 应用研究和实践工作可能被认可资格 |
+| 哲学博士（PhD） | 大学 | 可选 | 海外博士可能被视为同等学历 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 175,000. The government is expanding science and technology budgets, driving steady demand for researchers in AI, life sciences, and environmental energy fields. However, postdoctoral positions remain a serious issue, and competition is intense.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 175,000。政府正在扩大科技预算，推动对AI、生命科学和环境能源领域研究人员的稳定需求。然而，博士后职位仍然是一个严重问题，竞争激烈。
 
-**竞争度: 很高（★★★★½）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：很高（★★★★½）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,97 +40,89 @@ A specialized professional who explores new knowledge through theories and exper
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $3,500,000~$5,000,000 | Standard salary range for postdocs |
-| Mid-career (5–10 years) | $5,000,000~$8,000,000 | Assistant Professor/Corporate Researcher Level |
-| Veteran (11+ years) | $8,000,000~$15,000,000 | Associate/Full Professor, Senior Corporate Researcher or Higher |
+| 初级（0-3年） | $3,500,000~$5,000,000 | 博士后标准薪资范围 |
+| 中期职业（5-10年） | $5,000,000~$8,000,000 | 助理教授/企业研究员（同等级别） |
+| 资深（11年以上） | $8,000,000~$15,000,000 | 副教授/正教授、资深企业研究员或以上 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★½☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中高（★★★½☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI enhances the work of natural science researchers. It streamlines data analysis and simulation, allowing focus on creative hypothesis testing. Full human replacement is difficult, but routine experiment automation is advancing.
+AI增强自然科学研究人员的工作。它简化数据分析和模拟，使人们能够专注于创造性假设验证。完全取代人类是困难的，但常规实验自动化正在推进。
 
-After obtaining a PhD, gain experience as a postdoc, then advance from assistant professor to associate professor to professor. In companies, progress from senior researcher to research management. Ability to secure external funding is key to career advancement.
+获得博士学位后，积累博士后经验，然后从助理教授晋升为副教授，再到教授。在企业中，从高级研究员晋升到研究管理岗位。获取外部资金的能力是职业发展的关键。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Routine data collection and preprocessing
-- Simple statistical analysis
-- Comprehensive literature review
+- 日常数据收集与预处理
+- 简单统计分析
+- 综合文献综述
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Large-scale data analysis for hypothesis generation
-- Complex simulation
-- Drug candidate screening
-- Optimization of experimental design
+- 大规模数据分析以生成假设
+- 复杂模拟
+- 候选药物筛选
+- 实验设计优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Setting original research topics
-- Design and interpretation of experimental systems
-- Integration of knowledge through collaboration with other fields
-- Ethical Judgment
+- 设定原创研究课题
+- 实验系统设计与解读
+- 通过跨领域合作实现知识整合
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Machine Learning/Deep Learning
-- Programming (Python, R)
-- Statistics
-- Domain Knowledge (Physics, Chemistry, Biology)
-- English Academic Writing
+- 机器学习/深度学习
+- 编程（Python、R）
+- 统计学
+- 领域知识（物理、化学、生物学）
+- 英文学术写作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- AI and Machine Learning
-- Life Science and Biotechnology
-- Environment and Energy
-- Quantum Technology
+- 人工智能与机器学习
+- 生命科学与生物技术
+- 环境与能源
+- 量子技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 高度専門職1号(イ) (Highly Skilled Professional (i)) | Advanced academic research activities. Requires 70+ points under points system. Residency period: 5 years. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or higher and specialized knowledge. Common in research positions. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i)) | Natural science researchers are not covered by this category. Not applicable. |
-| Subclass 教授 (Professor) | For engaging in research/education at a university. Residency period: 5 years. |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those with strong curiosity and persistence in tackling unknown problems
-- Those with logical thinking, experimental and data analysis skills
-- Those who can communicate in English without difficulty in international joint research
+- 对未知问题有强烈好奇心和毅力的人
+- 具备逻辑思维、实验和数据分析能力的人
+- 在跨国联合研究中能用英语无障碍交流者
 
 **谁不适合**
-- For those seeking stable income immediately
-- For those who prefer monotonous routine work
+- 适合寻求稳定即时收入者
+- 适合喜欢单调重复工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of natural science researchers?**
-答：About 6 million JPY for assistant professors at universities, and about 10 million JPY for professors. Corporate researchers average around 7 million JPY, but it varies by field and performance.
+**问：自然科学研究者的平均年收入是多少？**
+答：大学助理教授约600万日元，教授约1000万日元。企业研究员平均约700万日元，但因领域和绩效而异。
 
-**问：What visa is necessary for foreign researchers to work in Japan?**
-答：Mainly the 'Engineer/Specialist in Humanities/International Services' visa or 'Highly Skilled Professional (i)' visa. The point system also opens a path to permanent residency.
+**问：外国研究人员在日本工作需要什么签证？**
+答：主要是“工程师/人文知识/国际业务”签证或“高度专门职(i)”签证。积分制度也为永久居留开辟了路径。
 
-**问：Can I get a job as a researcher without a PhD?**
-答：Corporate research positions may hire master's graduates, but at universities and public research institutions, a PhD is essentially required. It can be a career barrier.
+**问：没有博士学位能找研究员工作吗？**
+答：企业研究岗位可能招聘硕士毕业生，但在大学和公共研究机构，博士学位基本是必需的。这可能是职业障碍。
 
 
 ---
@@ -148,12 +140,12 @@ After obtaining a PhD, gain experience as a postdoc, then advance from assistant
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★½☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/natural-sciences-researcher/JP)**

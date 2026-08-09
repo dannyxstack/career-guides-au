@@ -4,8 +4,6 @@
 
 Responsible for cargo loading, handling, sorting, and stacking in warehouses, ports, airports, and logistics centers, they are indispensable manual laborers in the logistics chain.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Responsible for cargo loading, handling, sorting, and stacking in warehouses, po
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Cargo handlers and loaders face pressure to replace them with automation, but AI/automation also brings efficiency improvements and opportunities for career advancement. Entry-level positions may shrink, but technical operational roles will grow.
-
 Career advancement paths are limited; you can rise to Supervisor de almacén or Coordinator (Coordinador logístico), which requires gaining experience or further studying FP logistics management courses.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Career advancement paths are limited; you can rise to Supervisor de almacén or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Permit for Employees) | The employer must provide a work contract and prove that the position cannot be filled by an EU citizen. |
-| Subclass Busqueda empleo (Job Search Visa) | You are allowed to stay in Spain and look for work, but you must pay the cost yourself. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to warehouse supervisor or logistics coordinator by obtai
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/freight-and-cargo-handlers/ES)**

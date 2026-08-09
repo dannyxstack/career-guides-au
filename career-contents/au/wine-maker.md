@@ -52,8 +52,6 @@ A winemaker manages the entire wine production process from grape harvesting, fe
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The core sensory tasting and blending decisions of winemakers are not easily replaced by AI, but repetitive tasks such as data collection and quality monitoring will be automated, making this a mixed-blessing occupation.
-
 Entry-level winemakers can advance to senior winemaker, head winemaker, or transition to winery management, wine consulting, export marketing, etc. With experience, they can also start their own brands.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level winemakers can advance to senior winemaker, head winemaker, or trans
 | Subclass 482 (Temporary Skill Shortage Visa) | Employer-sponsored work visa, can later transition to 186 permanent residency. |
 | Subclass 491 (Skilled Work Regional Visa) | Regional State Sponsored Temporary Visa, eligible to transfer to 191 Permanent Residence upon meeting conditions |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance from assistant winemaker to winemaker, chief winemaker, or move i
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wine-maker/AU)**

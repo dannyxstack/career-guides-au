@@ -51,8 +51,6 @@ In the Netherlands, process control technicians monitor and optimize automated p
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The process control technician role will be a mixed bag: AI will handle data monitoring and routine adjustments, but complex troubleshooting, cross-system optimization, and safety compliance decisions still require human experience and judgment. The job won't disappear, but the bar will be raised.
-
 Can advance from junior technician to senior technician or team leader, then to process control engineer or production manager. Continuous learning of PLC and DCS systems is key.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Can advance from junior technician to senior technician or team leader, then to 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant Visa) | Applies to skilled workers with a contract and salary meeting the threshold; employer-sponsored; can include family members. |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for highly educated professionals, with a higher salary threshold, and allows mobility within the EU. |
-| Subclass Orientation Year (Orientation Year Visa) | Graduates of Dutch universities or top 200 global universities may apply for a one-year job search period. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Accessible through high-skilled migration visa or EU Blue Card, requires empl
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/process-control-technician-not-elsewhere-classified/NL)**

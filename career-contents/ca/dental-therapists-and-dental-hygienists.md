@@ -52,8 +52,6 @@ Dental therapists are health care occupations in Canada, requiring provincial re
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI has mixed impacts on dental therapists and hygienists: some diagnostic and documentation tasks are automated, but clinical operations and interpersonal communication remain core moats; jobs are generally stable but harder to enter.
-
 Can advance from junior dental therapist to senior clinician or management. Some move into dental education, public health, or private practice management, requiring continuing education for advancement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior dental therapist to senior clinician or management. Some
 | Subclass PNP (Provincial Nominee Program) | Provincial nominations, e.g., Ontario, BC, can add 600 points |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program, no provincial nomination required |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Must complete an accredited program (2-3 years), pass national or provincial 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/dental-therapists-and-dental-hygienists/CA)**

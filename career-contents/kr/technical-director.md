@@ -4,8 +4,6 @@
 
 A specialized profession responsible for overseeing a sports team's training and game strategies, and for improving players' skills and team performance.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ A specialized profession responsible for overseeing a sports team's training and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI can be used for game data analysis and training plan optimization, but player management and intuitive decision-making during matches remain uniquely human. Overall, automation impact is limited, and it will evolve to enhance data-driven decision-making.
-
 The typical career path involves starting as a player, then completing a coach training course, working as a coach, and advancing to technical director after gaining experience.
 
 **Tasks most exposed to AI:**
@@ -90,17 +86,9 @@ The typical career path involves starting as a player, then completing a coach t
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible when invited as a technical director by a professional sports club. Must meet salary requirements and career criteria. |
-| Subclass F-2 (Residence) | After long-term stay, the step before permanent residence, allows unrestricted supervisory activities. |
-| Subclass F-4 (Overseas Korean) | Issued to overseas Koreans, allows domestic sports supervisory activities (some restrictions apply). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +131,12 @@ A: Not mandatory, but most clubs require it. Without playing experience, one can
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/technical-director/KR)**

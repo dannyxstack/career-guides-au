@@ -1,10 +1,8 @@
 # 飞机驾驶员（Aircraft Pilot）职业分析 · 日本
 
-**职业代码: 624 (JSCO)**
+**职业代码：624 (JSCO)**
 
-A professional who operates passenger aircraft, cargo planes, etc., and flies them to destinations safely and on schedule. Strict training and qualifications are required.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+操作客机、货机等，安全准时飞抵目的地的专业人员。需经过严格培训和资质认证。
 
 
 ---
@@ -13,9 +11,9 @@ A professional who operates passenger aircraft, cargo planes, etc., and flies th
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| University (Pilot Training Course) | 4年 | $5,000,000~$15,000,000（Tuition at private university pilot training program） |
-| Flight Training (Airline-Sponsored) | 2–3 years | $1,000,000~$3,000,000（Self-funded portion of airline training program） |
-| Vocational School (Aviation Department) | 2 年 | $3,000,000~$8,000,000（Flight training fees at vocational school） |
+| 大学（飞行员培训课程） | 4年 | $5,000,000~$15,000,000（私立大学飞行员培训项目学费） |
+| 飞行培训（航空公司资助） | 2–3年 | $1,000,000~$3,000,000（航空公司培训计划的自费部分） |
+| 职业学校（航空系） | 2 年 | $3,000,000~$8,000,000（职业学校的飞行培训费用） |
 
 ---
 
@@ -23,19 +21,19 @@ A professional who operates passenger aircraft, cargo planes, etc., and flies th
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Commercial Pilot License | Ministry of Land, Infrastructure, Transport and Tourism (MLIT) | 必备 | Required for paid flying |
-| Airline Transport Pilot License | Ministry of Land, Infrastructure, Transport and Tourism (MLIT) | 必备 | Required for passenger aircraft captain |
-| Instrument Rating | Ministry of Land, Infrastructure, Transport and Tourism (MLIT) | 必备 | Required for instrument flight in adverse weather |
-| Class 1 Aviation Medical Certificate | MLIT-designated physician | 必备 | Periodic health check and aptitude assessment |
+| 商用飞行员执照 | 国土交通省（MLIT） | 必备 | 付费飞行所需 |
+| 航线运输驾驶员执照 | 国土交通省（MLIT） | 必备 | 客机机长必备 |
+| 仪表等级 | 国土交通省（MLIT） | 必备 | 恶劣天气下仪表飞行所需 |
+| 一级航空体检合格证 | 国土交通省指定医生 | 必备 | 定期健康检查和能力评估 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 16,000. Recruitment remains strong due to post-COVID passenger demand recovery and pilot shortage. With a large number of senior pilots expected to retire over the next decade, new hiring is likely to continue.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 16,000。由于疫情后旅客需求恢复和飞行员短缺，招聘依然强劲。未来十年大量资深飞行员预计退休，新招聘可能持续。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -43,93 +41,85 @@ A professional who operates passenger aircraft, cargo planes, etc., and flies th
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| First Officer (Entry-level 0-5 years) | $5,000,000~$8,000,000 | Major airline, median annual salary |
-| Captain (Mid-level 10-20 years) | $12,000,000~$20,000,000 | Varies by experience and routes |
-| Captain (Senior 20+ years) | $18,000,000~$30,000,000 | International captain, including management allowance |
+| 副驾驶（入门级0-5年） | $5,000,000~$8,000,000 | 主要航空公司，年薪中位数 |
+| 机长（中级，10-20年经验） | $12,000,000~$20,000,000 | 因经验和路线而异 |
+| 船长（高级20年以上） | $18,000,000~$30,000,000 | 国际船长，含管理津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-With advances in AI and automation, flight operations are supplemented and enhanced, but full autonomous flight is still some time away. Human judgment and crisis management skills remain essential.
+随着人工智能和自动化的发展，飞行操作得到补充和增强，但完全自主飞行仍需要时间。人的判断和危机管理技能仍然至关重要。
 
-After promotion from co-pilot to captain, opportunities open up for instructor or management roles. Major airlines have clear career paths, with advancement based on seniority and performance.
+从副机长晋升机长后，可任教官或管理职位。主要航空公司有清晰的职业路径，根据资历和绩效晋升。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Autopilot during cruise
-- Fuel management
-- Route optimization calculation
+- 巡航时自动驾驶
+- 燃料管理
+- 路线优化计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Decision support during anomalies
-- Operational decisions based on weather data analysis
-- Advanced training simulation
+- 异常决策支持
+- 基于天气数据分析的运营决策
+- 高级培训模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Immediate response in emergencies
-- Passenger safety management
-- Intuitive piloting based on experience
+- 紧急情况下即时响应
+- 乘客安全管理
+- 基于经验的直觉驾驶
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Automated System Monitoring
-- Multi-Crew Coordination
-- Data Analysis and Flight Planning
+- 自动化系统监控
+- 多机组成员协调
+- 数据分析与飞行规划
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Regional jet
-- Cargo-only aircraft
-- Expansion of international routes
-- Automation technology
+- 支线喷气机
+- 纯货机
+- 国际航线扩展
+- 自动化技术
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Applicable to airline-trained pilots or those recruited from abroad; requires experience and licenses |
-| Subclass 高度専門職1号 (Highly Skilled Professional 1(c)) | For pilots with high salary and skills; point-based system facilitates permanent residency |
-| Subclass 特定技能 (Specified Skilled Worker (ii)) | Currently aircraft pilots are excluded; may expand in the future |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Those who are calm under pressure
-- Those with strict rule compliance and high sense of responsibility
-- People confident in their physical and mental strength
+- 在压力下保持冷静的人
+- 严格遵守规则且责任心强的人
+- 对自己身心有信心的人
 
 **谁不适合**
-- People afraid of heights
-- People who dislike irregular work schedules
+- 恐高的人
+- 不喜欢不规律工作时间的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：How much is a pilot's annual income?**
-答：Starting salary is around 5-8 million yen, rising significantly to 12-30 million yen as a captain. At major airlines, veteran captains can earn over 20 million yen.
+**问：飞行员的年收入是多少？**
+答：起薪约500-800万日元，升任机长后显著增至1200-3000万日元。大型航空公司资深机长可超过2000万日元。
 
-**问：Can foreign pilots find employment in Japan?**
-答：Yes, it is possible. They can work under an Engineer/Specialist in Humanities/International Services visa or a Highly Skilled Professional visa. However, obtaining a Japanese pilot license and Japanese language proficiency are often required, making the bar quite high.
+**问：外国飞行员可以在日本就业吗？**
+答：是的，有可能。他们可以持工程师/人文科学/国际服务签证或高度专业人才签证工作。然而，通常需要获得日本飞行员执照和日语能力，门槛相当高。
 
-**问：How can I become a pilot?**
-答：Mainly through an airline's ab initio training program or by completing a flight course at a university or vocational school to obtain a commercial pilot license. Training costs range from several million to tens of millions of yen.
+**问：如何成为飞行员？**
+答：主要通过航空公司的初级培训计划，或在大学或职业学院完成飞行课程以获得商业飞行员执照。培训费用从几百万到数千万日元不等。
 
 
 ---
@@ -147,12 +137,12 @@ After promotion from co-pilot to captain, opportunities open up for instructor o
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/aircraft-pilot/JP)**

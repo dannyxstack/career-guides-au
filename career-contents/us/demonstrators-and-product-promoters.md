@@ -53,8 +53,6 @@ Stimulate public purchasing interest by demonstrating products and answering que
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The impact of AI on demonstrators and product promoters is mixed: AI can automate product demonstration scripts, customer Q&A generation, and video production, but human interaction, improvisation, and trust-building still rely on people. Entry-level positions face increased competition due to AI tools, but the barrier to entry has not significantly risen.
-
 Entry-level demonstrators can advance to regional promotion managers, brand representatives, or sales supervisors. Some transition to marketing or event planning.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Entry-level demonstrators can advance to regional promotion managers, brand repr
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: Almost impossible, as the occupation typically requires a high school diploma
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/demonstrators-and-product-promoters/US)**

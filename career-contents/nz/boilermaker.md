@@ -52,8 +52,6 @@ Boilermakers manufacture, install, and repair boilers, pressure vessels, and str
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Boilermakers' core manual welding and assembly are difficult to fully replace by AI in the short term, but AI-driven design optimization, non-destructive testing, and automated welding will significantly change task structures. Entry-level competition intensifies, while experienced tradespeople gain value in complex projects.
-
 Junior boiler makers can advance to senior technician, foreman, or project supervisor. Some obtain certifications in welding or pressure vessel inspection to move into quality control or training roles. With experience, can also become self-employed or start an engineering company.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Junior boiler makers can advance to senior technician, foreman, or project super
 | Subclass SMC (Skilled Migrant Category) | Through a 6-point skilled immigration system, getting a recognized employer offer earns 3 points, and New Zealand qualifications or work experience accumulate more. |
 | Subclass AEWV (Accredited Employer Work Visa) | If not directly meeting residence conditions, can work via Accredited Employer Work Visa first, then later transition to residence |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**PR friendliness: high (★★★★½).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Requires qualification assessment through the Building and Construction Indus
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | low (★☆☆☆☆) |
+| PR friendliness | high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/boilermaker/NZ)**

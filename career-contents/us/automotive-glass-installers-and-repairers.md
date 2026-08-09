@@ -53,8 +53,6 @@ Technician specializing in replacing or repairing automotive windshields and win
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Start as apprentice, gain experience to advance to senior technician or team leader, or start own business. Some technicians move into automotive glass sales or training roles.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Start as apprentice, gain experience to advance to senior technician or team lea
 | Subclass EB-3 (Employment-Based Third Preference) | May apply through EB-3 skilled worker category, but need to prove labor shortage |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employers must undergo PERM labor certification to prove they cannot hire US workers |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Usually requires only a high school diploma, then learn skills through on-the
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-glass-installers-and-repairers/US)**

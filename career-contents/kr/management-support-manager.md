@@ -4,8 +4,6 @@
 
 This is a managerial role that oversees overall business support functions such as HR, general affairs, finance, and accounting, ensuring efficient organizational operation.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ This is a managerial role that oversees overall business support functions such 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and RPA replace repetitive office tasks like data entry and report writing, but areas requiring human judgment such as strategic decision-making and HR management remain important.
-
 Starting from clerical positions, one can advance to department head and executive roles. Obtaining an MBA or professional certifications (CPA, labor attorney) is advantageous. Experience in large corporations and public institutions is common.
 
 **Tasks most exposed to AI:**
@@ -90,16 +86,9 @@ Starting from clerical positions, one can advance to department head and executi
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Possible when invited as management support professional, requires degree and experience |
-| Subclass F-2 (F-2 (Residence)) | Convertible to points system, advantageous for long-term stay |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: At least an associate degree is required, and large companies prefer a bachel
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/management-support-manager/KR)**

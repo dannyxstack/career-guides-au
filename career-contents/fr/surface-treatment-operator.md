@@ -4,8 +4,6 @@
 
 Operate surface treatment equipment (such as electroplating, spraying, chemical conversion), apply plating, anti-corrosion, and beautification treatments to metal or plastic workpieces, and control process parameters to ensure quality.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Operate surface treatment equipment (such as electroplating, spraying, chemical 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Coating and spraying machine operators have mixed prospects: AI optimizes paths and defect detection to improve efficiency, but robot automation is gradually replacing routine operations; meanwhile, custom fine work and complex equipment maintenance still require human skills.
-
 Operators can be promoted from operator to team leader, process technician, and then to production supervisor. After obtaining a BTS or Licence Pro diploma, you can move on to process engineering or quality control positions.
 
 **Tasks most exposed to AI:**
@@ -100,16 +96,9 @@ Operators can be promoted from operator to team leader, process technician, and 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Salarié) Work Permit) | You must obtain a work contract from a French employer and pass the review by the Labor Bureau (proving that no EU citizen is qualified). Suitable for long-term employment. |
-| Subclass Passeport Talent (Talent Passport) | If the annual salary exceeds approximately €53,000 (2025 standard) or falls under an innovative/high-skilled project, you can apply for this residence with simplified procedures. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: Promotion can be to production team leader or process technician; After passi
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/surface-treatment-operator/FR)**

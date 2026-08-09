@@ -4,8 +4,6 @@
 
 In the Netherlands, hunters and trappers primarily engage in wildlife management, population control, and hunting tourism services, requiring valid licenses and strict adherence to environmental regulations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ In the Netherlands, hunters and trappers primarily engage in wildlife management
 **Future prospect: low (★☆☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on hunters and trappers: automated tools (e.g., drone monitoring) can replace some monitoring and reporting tasks, but core on-site decision-making, ethical judgment, and public communication are hard to replace by AI; traditional roles may shrink, but new tech-enabled roles will emerge.
-
 Career path starts as assistant hunter, can advance to hunting guide or wildlife management officer; but promotion opportunities are limited, often combined with other conservation work.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Career path starts as assistant hunter, can advance to hunting guide or wildlife
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Not applicable, this occupation typically does not meet the criteria for highly skilled migrant visas |
-| Subclass Orientation Year (Orientation Year) | Not applicable, this occupation does not require a graduate residence permit. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Must obtain a hunting license (through NVWA exam) and firearms permit, and co
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | low (★☆☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hunter-and-trapper/NL)**

@@ -4,8 +4,6 @@
 
 Judges are the core roles in the judicial system, responsible for hearing cases, interpreting laws, and making fair judgments.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -50,8 +48,6 @@ Judges are the core roles in the judicial system, responsible for hearing cases,
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
-
-AI will assist in legal research, document writing, and case retrieval, greatly improving efficiency, but core trial decisions, discretionary power, and judicial ethics remain irreplaceable barriers for judges.
 
 The career path is clear: from junior judge (juge) to presiding judge (président de chambre), and then to senior positions such as the president of the Court of Appeal. Candidates must pass the National Judicial College (ENM) selection.
 
@@ -99,16 +95,9 @@ The career path is clear: from junior judge (juge) to presiding judge (présiden
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié) | Work residency, but judicial positions are usually not open to non-EU citizens. |
-| Subclass Passeport Talent (Passeport Talent) | Talent passport, only applicable to very few special legal experts, but judicial profession is restricted. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +138,12 @@ A: Extremely difficult. Judge is a regulated occupation, must pass selection by 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/magistrate/FR)**

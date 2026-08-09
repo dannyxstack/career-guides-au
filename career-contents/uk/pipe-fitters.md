@@ -52,8 +52,6 @@ Pipe fitters install, maintain, and repair piping systems in major utilities, in
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI/automation on pipe fitters is mixed: AI planning tools and digital twins optimize design, but on-site installation still relies on manual work. Automated pre-cutting and welding robots can handle repetitive tasks, while complex system diagnostics, material adaptation, and on-site adaptability remain human strengths.
-
 Can start as an apprentice and progress to senior plumber, supervisor, or project manager. May also specialise in gas, steam, or refrigeration pipe systems through further training.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can start as an apprentice and progress to senior plumber, supervisor, or projec
 | Subclass Scale-up (Scale-up visa) | Applies to skilled workers employed by high-growth companies, requiring a minimum salary of at least £33,000 per year. |
 | Subclass Graduate (Graduate visa) | UK graduates can obtain a 2-year work visa, and after gaining experience, they can switch to a Skilled Worker visa. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Good prospects, with stable demand driven by UK infrastructure investment and
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/pipe-fitters/UK)**

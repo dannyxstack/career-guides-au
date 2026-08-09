@@ -4,8 +4,6 @@
 
 In Italy, hunters and trappers primarily engage in wildlife management, hunting, and trapping activities, strictly regulated by law.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ In Italy, hunters and trappers primarily engage in wildlife management, hunting,
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce traditional work for hunters and trappers, particularly tasks such as monitoring, data analysis, and reporting can be automated, with remaining work relying on physical labor and on-site judgment, leading to fewer job opportunities.
-
 Career development paths are limited; most are self-employed or part-time. Can become a hunting guide or wildlife management consultant, but requires additional certification.
 
 **Tasks most exposed to AI:**
@@ -98,15 +94,9 @@ Career development paths are limited; most are self-employed or part-time. Can b
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Only applicable for non-EU seasonal work, but the hunter occupation is not commonly on the quota list |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -147,12 +137,12 @@ A: Very difficult, requires Italian residence, weapons license, and regional hun
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hunter-and-trapper/IT)**

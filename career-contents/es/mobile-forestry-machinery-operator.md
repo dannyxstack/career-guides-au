@@ -4,8 +4,6 @@
 
 Responsible for operating logging and collecting machines, log grabbers, and other mobile forestry machinery and equipment, as well as forest harvesting, timber consolidation, and forest land preparation. Familiarity with mechanical maintenance and safety procedures is required; usually working in wild forest areas, some positions require an operating permit.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for operating logging and collecting machines, log grabbers, and oth
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Junior operators can be promoted to mechanical team leader or forest farm site supervisor by accumulating experience and obtaining higher-level operation certificates. Some experienced operators can transition to forestry machinery sales or maintenance technicians, or participate in forestry consulting and training.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Junior operators can be promoted to mechanical team leader or forest farm site s
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work contract (Employed)) | You must obtain a work contract from a Spanish employer, and the position must prove that it is difficult to recruit locally. Since forestry machinery operators are not in short supply, the Department of Labor usually requires labor market testing, which has a lower success rate. |
-| Subclass Busqueda empleo (Job seeker visa) | You are allowed to stay in Spain for 6 months looking for work, but forestry positions are limited and require a lot of experience, making approval difficult. |
-
-**PR friendliness: very low (½☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Usually requires completing intermediate vocational training (FP Grado Medio)
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mobile-forestry-machinery-operator/ES)**

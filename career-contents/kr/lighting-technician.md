@@ -50,8 +50,6 @@ A specialized technical professional who installs and operates lighting in film,
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will not fully replace lighting technicians' work but will improve efficiency through automated lighting control systems and pre-simulation tools. Creative judgment and on-site adaptability remain human domains.
-
 Typically starts as a lighting assistant, then advances to lighting technician, senior lighting technician, and lighting director. A high proportion are freelancers, and experience and portfolio are important.
 
 **Tasks most exposed to AI:**
@@ -88,16 +86,9 @@ Typically starts as a lighting assistant, then advances to lighting technician, 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Available for professionals in culture, arts, and sports; requires degree or 5+ years of experience |
-| Subclass F-2 (Residence) | Long-term stay possible under points-based permanent residence; advantageous with recognized skill level |
-| Subclass D-10 (Job Seeking) | Visa for job-seeking in arts; limited activities allowed |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -141,12 +132,12 @@ A: You can advance to senior lighting technician, lighting director, or broadcas
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/lighting-technician/KR)**

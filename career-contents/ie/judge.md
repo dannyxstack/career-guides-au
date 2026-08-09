@@ -53,8 +53,6 @@ A judge in the Irish judicial system presides over court proceedings, ensures fa
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The core judicial functions of judges are protected by law and ethics, making AI substitution difficult in the short term; however, auxiliary tasks like legal research and document review will be significantly automated, intensifying competition for entry-level roles, resulting in a mixed outlook.
-
 Judges are typically appointed from senior lawyers or legal scholars; career progression includes moving from district courts to higher courts, appellate courts, and the Supreme Court.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Judges are typically appointed from senior lawyers or legal scholars; career pro
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -155,11 +151,12 @@ A: Judges start at district courts and can progress to circuit courts, high cour
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/IE)**

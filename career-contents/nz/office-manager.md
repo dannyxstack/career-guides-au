@@ -53,8 +53,6 @@ Oversee administration, procurement, facilities and HR coordination; it is the o
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Office manager roles face significant automation compression risk; AI and software directly replace core tasks like admin scheduling, document processing, and budget monitoring, but complex interpersonal coordination and strategic decisions still require humans.
-
 Can progress from administrative assistant to office manager, then to operations manager or administrative director. Some transition to HR or finance coordination roles, and with experience, can manage larger teams or multiple branch operations.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Can progress from administrative assistant to office manager, then to operations
 | Subclass AEWV (Accredited Employer Work Visa) | most common work visa, requires employer accreditation and salary meeting the New Zealand median |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration category, but office manager is not a priority occupation; must meet the 6-point system, which is quite difficult |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Can advance from administrative assistant to office manager, then to operatio
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/office-manager/NZ)**

@@ -4,8 +4,6 @@
 
 Operating sewing machines to stitch and process garments, textiles, and other materials, commonly in manufacturing and garment production
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Operating sewing machines to stitch and process garments, textiles, and other ma
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Sewing machine operators face high automation risk; AI and robots will replace many repetitive sewing tasks. Entry-level roles will decrease significantly, but maintenance and programming jobs may increase.
-
 Junior operators can advance to senior operators or quality inspectors; some may become sample garment makers or production supervisors through training, but overall promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -99,16 +95,9 @@ Junior operators can advance to senior operators or quality inspectors; some may
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Italy admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Decreto Flussi quota work visa (Decreto Flussi Work Visa) | Italian annual quota work visa, applicable to non-EU workers, requires employer sponsorship |
-| Subclass EU Long-term Residence (EU Long-Term Residence) | Eligible after 5 years of legal residence in Italy, subject to income and other conditions |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +141,12 @@ A: Limited promotion opportunities, but can shift to quality inspection, sample 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ISTAT, ISCO-08
+- The National Institute of Statistics (ISTAT) (ISCO-08 (CP))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/sewing-machine-operator/IT)**

@@ -55,8 +55,6 @@ Responsible for installing, assembling, maintaining, and repairing piping system
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: very low (½☆☆☆☆).**
 
-AI's impact on plumbers is mixed: Design coordination, documentation, and other office tasks are amplified by AI, but on-site operations, diagnostics, and compliance responsibilities form a moat; overall job demand is slightly reduced due to automation in construction, but licensing barriers protect core value.
-
 Usually start as apprentice (4-5 years), gradually become journeyman. Can advance to foreman, project manager, or self-employed contractor. Those with multiple skills (e.g., welding, gas) can enter inspection, teaching, or engineering management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Usually start as apprentice (4-5 years), gradually become journeyman. Can advanc
 | Subclass TN (TN NAFTA Professional) | Only for citizens of Canada and Mexico, but plumbers usually do not meet professional occupation requirements, rarely used. |
 | Subclass Green Card (PERM) (Employment-Based Green Card (EB-3)) | Theoretically can apply through EB-3 skilled worker, but requires PERM labor certification and employer proof that no US workers are available; extremely difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Most states require a license, with specific exam and experience requirements
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | very low (½☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plumbers-pipefitters-and-steamfitters/US)**

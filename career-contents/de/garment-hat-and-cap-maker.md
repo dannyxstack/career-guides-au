@@ -51,8 +51,6 @@ Engaged in manual or machine processing of garments, hats, headwear and other te
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Garment manufacturing will be partially automated by AI (layout, quality inspection), but customization and handcraft remain human moats; total jobs shrink but high-end custom demand persists.
-
 Start as an apprentice or assistant, gain experience to advance to professional tailor/milliner, or transition to garment technician, pattern maker; a few can open their own custom workshops.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Start as an apprentice or assistant, gain experience to advance to professional 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -153,11 +149,12 @@ A: Must undergo qualification assessment by the German Federal Office for the Re
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/garment-hat-and-cap-maker/DE)**

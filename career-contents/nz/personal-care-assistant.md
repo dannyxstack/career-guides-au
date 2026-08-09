@@ -55,8 +55,6 @@ Personal care assistants provide daily living support to elderly, disabled, or c
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Personal care workers focus on interpersonal care, with low AI automation, but administrative tasks can be AI-enhanced; entry threshold is stable, but be cautious of AI tools replacing some processes.
-
 Can advance from personal care assistant to senior care assistant, team leader, or care coordinator, requiring experience and higher-level certifications (e.g., New Zealand health and wellbeing qualifications). Some may transition to registered nurse (requires additional study).
 
 **Tasks most exposed to AI:**
@@ -110,9 +108,7 @@ Can advance from personal care assistant to senior care assistant, team leader, 
 | Subclass Essential Skills (Essential Skills Work Visa) | Applies to low-skilled occupations, requires employer sponsorship, but policy is tightening, replaced by AEWV |
 | Subclass Family (Family Residence) | If spouse or parent is a New Zealand resident/citizen, can apply for residence through family category |
 
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: low (★☆☆☆☆).**
 
 ---
 
@@ -156,12 +152,13 @@ A: Can advance to senior care assistant (responsible for new staff training, car
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/personal-care-assistant/NZ)**

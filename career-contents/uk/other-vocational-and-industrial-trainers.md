@@ -53,8 +53,6 @@ Other vocational and industrial trainers provide manual, operational, and other 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI's impact on vocational trainers is mixed: routine training tasks (e.g., basic course delivery) are easily automated by AI, but high-value aspects (e.g., custom course design, industry insights) will be enhanced by AI, requiring proactive transformation.
-
 Junior trainers can progress to senior trainer, training supervisor or training manager. Some move into education management or consultancy. Continuing professional development (CPD) and obtaining teaching qualifications (e.g. PTLLS) aid advancement.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Junior trainers can progress to senior trainer, training supervisor or training 
 | Subclass Graduate (Graduate visa) | For graduates who completed their degree in the UK, allowing 2-3 years of work without employer sponsorship requirements. |
 | Subclass Scale-up (Scale-up visa) | Suited for qualifying rapidly growing businesses, requiring employer sponsorship at the initial stage |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Not mandatory, but holding a teaching qualification such as PTLLS can improve
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/other-vocational-and-industrial-trainers/UK)**

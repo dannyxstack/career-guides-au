@@ -4,8 +4,6 @@
 
 Responsible for ship navigation, safety, and cargo operations, managing the deck department, and performing navigation and communication tasks.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Responsible for ship navigation, safety, and cargo operations, managing the deck
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation have mixed impacts on captains, chief mates, and pilots: route planning, paperwork, and monitoring tasks are enhanced or replaced, but core responsibilities like legal liability, emergency decisions, and crew management are hard to automate; overall risk is manageable.
-
 He was promoted from third mate, second mate, and chief officer step by step to captain. You must accumulate maritime experience and pass a promotion exam. Some captains may transfer to port pilots or maritime management positions.
 
 **Tasks most exposed to AI:**
@@ -101,17 +97,9 @@ He was promoted from third mate, second mate, and chief officer step by step to 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work permit for employed workers) | Employer sponsorship required, labor market testing (if applicable). Homologación and competency certificate recognition are required. |
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for high-skilled candidates (bachelor's degree or above), but must meet the salary threshold (approximately €33,909/year). Academic credentials are required. |
-| Subclass Altamente cualificad (Highly Qualified Professional (Ley 14/2013)) | Suitable for highly skilled professionals, requiring academic credentials and employment contracts. The process is relatively fast. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -152,12 +140,12 @@ A: You must first complete academic certification (homologación) to obtain the 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ship-captains-and-deck-officers/ES)**

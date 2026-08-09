@@ -4,8 +4,6 @@
 
 A national license-required professional who operates diagnostic imaging equipment such as X-ray, CT, and MRI in medical institutions to assist physicians in diagnosis.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A national license-required professional who operates diagnostic imaging equipme
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI is used to assist with image diagnosis and optimize image quality, streamlining technologists' work. However, AI cannot fully replace technologists, as their judgment and equipment operation roles remain. As a result, AI enhances technologists' capabilities, contributing to advanced diagnostic support and operational efficiency.
-
 By gaining experience in hospitals and clinics, there are career paths to chief technologist, management, and educational institutions. Specialized qualifications in radiation therapy and nuclear medicine can also be obtained.
 
 **Tasks most exposed to AI:**
@@ -92,16 +88,9 @@ By gaining experience in hospitals and clinics, there are career paths to chief 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Applicable when overseas radiological technologists work at Japanese medical institutions. National license required. |
-| Subclass 特定活動（高度専門職） (Designated Activities (Highly Skilled Professional)) | For personnel with advanced expertise. Permanent residency possible if conditions met. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -145,12 +134,12 @@ A: Specialized certifications such as Radiation Protection Supervisor, MRI Certi
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/radiological-technologist/JP)**

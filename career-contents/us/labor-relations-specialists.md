@@ -52,8 +52,6 @@ Labor relations specialists mediate disputes between workers and management, neg
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core tasks of labor relations specialists (e.g., contract negotiation, dispute mediation) heavily rely on interpersonal trust and legal judgment, with low AI replacement rate; but clerical work, data analysis, and compliance monitoring will be significantly enhanced by AI. Overall situation is 'mixed'; entry-level positions may be reduced due to basic clerical automation.
-
 Career path: Junior specialist → Senior specialist → Labor Relations Manager → HR Director. Advancement typically requires building negotiation experience and legal knowledge; some transition to legal counsel or HR management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Career path: Junior specialist → Senior specialist → Labor Relations Manager
 | Subclass EB-3 (Employment-Based Third Preference) | Applicable to professionals, skilled workers, and other workers, requiring PERM. |
 | Subclass TN (TN NAFTA Professionals) | Open only to Canadian and Mexican citizens, specific occupations required, but does not include labor relations specialists. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Common path: Junior Specialist → Senior Specialist → Labor Relations Mana
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labor-relations-specialists/US)**

@@ -4,8 +4,6 @@
 
 Underwater operations technicians are responsible for installation, inspection, maintenance, and construction in the diving environment, involving professional skills such as underwater welding, cutting, and non-destructive testing.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Underwater operations technicians are responsible for installation, inspection, 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Underwater operations technicians face mixed impacts: AI-driven autonomous underwater vehicles (AUVs) can take over routine inspection and mapping tasks, but complex maintenance, emergency response, and operations in extreme environments still rely on human judgment; At the same time, AI enhances real-time monitoring and predictive maintenance capabilities, improving efficiency.
-
 Career development can be as a diver to become an underwater supervisor, project supervisor, or dive technical specialist, or transition to management roles in marine engineering companies, or even establish an independent diving service company.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Career development can be as a diver to become an underwater supervisor, project
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | Employed by a French company, the company provides a work contract and applies for a work permit; must prove that no local candidate can fill the position. |
-| Subclass Passeport Talent (Passeport Talent – Salarié qualifié) | For highly skilled talents, they must hold at least a bachelor's degree or equivalent, have a certain salary level, and receive faster approvals |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, applicable for those with higher education and salary at 1.5 times average wage, allows work in France and free movement to other EU countries. |
-
-**PR friendliness: medium (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: You must hold the French Diver's Certificate (CAH) and the Underwater Welding
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★★☆☆) |
-| PR difficulty | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/underwater-intervention-technician/FR)**

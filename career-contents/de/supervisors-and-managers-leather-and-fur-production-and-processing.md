@@ -55,8 +55,6 @@ Responsible for supervising and managing the production and processing of leathe
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Leather and fur production management and supervision roles face dual impacts from automation and AI enhancement: repetitive quality checks, data entry, and scheduling optimization are easily replaced by AI, but tasks involving manual craftsmanship judgment, supply chain coordination, and emergency decision-making are enhanced, overall a mixed bag.
-
 Starting from entry-level production positions, accumulate experience and pursue management courses to advance to middle and senior management roles such as workshop supervisor, production manager, or plant manager.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Starting from entry-level production positions, accumulate experience and pursue
 | Subclass EU Blue Card (EU Blue Card) | Applicable to higher education qualifications, with a higher salary threshold (approx. €43,800 in 2024); this occupation usually does not meet it |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A job-seeking visa based on a points system, allowing job seeking in Germany, requiring conditions such as German language proficiency |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Start as a leather technician, gain experience, then pass trade tests to beco
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisors-and-managers-leather-and-fur-production-and-processing/DE)**

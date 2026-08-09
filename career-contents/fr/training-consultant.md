@@ -52,8 +52,6 @@ Training consultants provide training needs analysis, course design, program imp
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Training and Development Manager roles will see task restructuring: routine training design, evaluation and compliance documentation are accelerated by AI, but strategic planning, personalised coaching and cross-departmental change management still require deep human involvement, presenting both risks and opportunities.
-
 Junior training consultants can be promoted to senior consultants, training managers, or Director of Learning and Development, specializing in specific areas (such as digital learning and compliance training), or starting their own businesses as freelance consultants.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Junior training consultants can be promoted to senior consultants, training mana
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, including training consultants, who must meet educational and salary requirements (usually annual salary ≥ €53,495). |
-| Subclass Salarié (Salaried Employee) | Training consultants employed by French companies can apply for this type of work residence, which requires the company to provide a work contract and prove that the position cannot be filled by local labor |
-| Subclass Carte bleue UE (EU Blue Card) | The EU Blue Card applies to highly skilled non-EU talents, with an annual salary at least 1.5 times the French average (about €53,495). |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Usually, a bachelor's degree or above is required, with common majors such as
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/training-consultant/FR)**

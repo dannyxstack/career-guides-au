@@ -4,8 +4,6 @@
 
 Engineer responsible for design, manufacturing, and quality control in automotive production processes, specializing in vehicle assembly, parts processing, and inspection.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Engineer responsible for design, manufacturing, and quality control in automotiv
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Automation in automotive production technology is rapidly advancing with AI and robots, making simple assembly and inspection tasks more replaceable. Conversely, tasks like AI-driven production line optimization and quality prediction are likely to expand.
-
 New hires are assigned to production lines or quality control departments. With experience, they can advance to production technology leaders or process management positions. Career advancement can also be expected by acquiring specialized knowledge in electric vehicles and autonomous driving.
 
 **Tasks most exposed to AI:**
@@ -92,17 +88,9 @@ New hires are assigned to production lines or quality control departments. With 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of relevant work experience. For automotive engineers, design and development work qualifies. On-site production skills are not covered. |
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Automotive Maintenance)) | Limited to vehicle maintenance. Production engineering technicians excluded. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Vehicle Maintenance)) | For advanced maintenance technicians. Not suitable for production engineers. |
-
-**PR friendliness: medium-low (★★☆☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -143,12 +131,12 @@ A: For R&D, 'Engineer/Specialist in Humanities/International Services' visa appl
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | medium-low (★★☆☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/automotive-engineer-excluding-rd/JP)**

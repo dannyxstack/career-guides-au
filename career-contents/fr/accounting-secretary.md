@@ -4,8 +4,6 @@
 
 The accounting secretary is responsible for handling daily company accounting affairs, including account registration, invoice processing, accounts receivable and payable management, bank reconciliation, etc., while also handling some administrative secretary duties such as answering phone calls, organizing documents, and arranging meetings.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ The accounting secretary is responsible for handling daily company accounting af
 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
-
-AI will automate many data entry, reconciliation, and report generation tasks for bookkeepers, sharply reducing entry-level roles, but practitioners skilled in AI tools can transition to higher-value financial analysis roles.
 
 Career development usually starts as an accounting secretary, and after gaining experience, can be promoted to accounting assistant, accountant, or transition to professional accounting roles (such as tax accounting). By obtaining a BTS Competelité-Gestion or DCG diploma, you can advance to management positions.
 
@@ -100,16 +96,9 @@ Career development usually starts as an accounting secretary, and after gaining 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Employee (Work Permit)) | Requires employer sponsorship, and the company must demonstrate that no suitable candidate can be found within the EU |
-| Subclass Passeport Talent (Talent Passport) | It is suitable for highly skilled talent, but accounting secretaries usually do not meet the requirements |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +142,12 @@ A: You can be promoted to accounting assistant or accountant, or become a financ
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accounting-secretary/FR)**

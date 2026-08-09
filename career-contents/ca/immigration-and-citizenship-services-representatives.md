@@ -56,8 +56,6 @@ Immigration consultants provide Canadian immigration visa advice, application pr
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-Immigration consultant roles benefit from AI-driven document automation and information retrieval, but core client consultations, case strategy, and compliance responsibilities still require human judgment, making them typical human-machine collaboration positions.
-
 Junior career path: immigration assistant or legal clerk → Regulated Canadian Immigration Consultant (RCIC) → senior partner or independent firm owner. Experienced consultants can specialize in refugees, business investment, or provincial nominations, or advance to immigration policy analyst.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Junior career path: immigration assistant or legal clerk → Regulated Canadian 
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, suitable for immigration consultants with a job offer |
 | Subclass Self-employed (Self-employed Persons Program) | Suitable for culture, sports, etc.; generally not for immigration consultants, but those interested in art-related work may consider |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -159,12 +155,13 @@ A: Moderately difficult, requires completing a recognized program (usually 1-2 y
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/immigration-and-citizenship-services-representatives/CA)**

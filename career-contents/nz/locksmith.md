@@ -51,8 +51,6 @@ Locksmiths in New Zealand are responsible for installing, repairing, and upgradi
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Entry demand for locksmiths and safe repairers has been compressed by automation: with the prevalence of smart locks and electronic security systems, traditional mechanical lock repair has declined, simple key cutting and lock opening tasks are replaced by automated machines, reducing positions but maintaining demand for advanced skills.
-
 Can progress from a junior locksmith to a senior security system consultant or open a private store. After obtaining an electronic security license, can undertake high-value commercial projects, significantly increasing income potential.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from a junior locksmith to a senior security system consultant or o
 | Subclass SMC (Skilled Migrant Category) | Meets the 6-point system requirements (professional experience + qualifications/income), eligible for skilled migration |
 | Subclass AEWV (Accredited Employer Work Visa) | Employer-sponsored work visa, can transfer to Green List pathway after 2 years of work |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Must obtain a NZQA-recognized National Certificate in Locksmithing (Level 3 o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/locksmith/NZ)**

@@ -54,8 +54,6 @@ Commercial cleaners are responsible for cleaning and tidying commercial premises
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Commercial cleaners face a risk of automation downsizing; robotic vacuum cleaners and automated cleaning systems can already perform most repetitive cleaning tasks, leading to a clear decline in jobs.
-
 Limited career progression: can advance from junior cleaner to senior cleaner or team leader; some may become cleaning service managers or start their own business. Requires experience and relevant certifications.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Limited career progression: can advance from junior cleaner to senior cleaner or
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Typically requires 2-3 years of experience, good performance, and completion 
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-housekeeper/AU)**

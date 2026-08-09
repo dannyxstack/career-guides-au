@@ -53,8 +53,6 @@ Medical assistants in Irish medical institutions assist doctors and nurses with 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Medical assistant roles are impacted by AI in mixed ways: administrative tasks are easily automated, but clinical operations and interpersonal care still rely on humans. Entry-level competition intensifies due to AI assistance, but those who master new tools can improve efficiency and quality.
-
 Medical assistants can advance to specialist medical assistant or department supervisor, or through further study become nurse practitioners, doctors, or other medical professionals. Some experienced ones move into healthcare management roles.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Medical assistants can advance to specialist medical assistant or department sup
 | Subclass General Employment P (General Employment Permit) | Applicable for positions with salary below the general employment permit threshold, requires employer sponsorship, usually for shortage occupations or after labor market test. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to high-skilled non-EU personnel, requires annual salary no less than the general employment permit threshold; medical assistants typically do not meet high-skilled requirements. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually requires 1-2 years of advanced certificate or diploma as a medical as
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-assistant/IE)**

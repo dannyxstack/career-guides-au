@@ -52,8 +52,6 @@ Provide technical assistance to computer users via phone, online, or on-site to 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
-
 Can advance to senior support specialist, IT manager, or systems administrator; enhance competitiveness through certifications (e.g., CompTIA A+).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can advance to senior support specialist, IT manager, or systems administrator; 
 | Subclass EB-3 (Employment-Based Third Preference) | PERM labor certification, long waiting period |
 | Subclass TN (TN NAFTA Professional) | Open only to Canadian/Mexican citizens, computer-related majors. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Possible via H-1B or EB-3 green card, but highly competitive, requires employ
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/computer-user-support-specialists/US)**

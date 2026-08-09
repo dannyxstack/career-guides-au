@@ -51,8 +51,6 @@ Geotechnical engineers analyze soil, rock and groundwater conditions to provide 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Geotechnical engineering is neutrally to positively impacted by AI: AI can efficiently process exploration data modeling and simulation, but on-site sampling, compliance criteria, and liability determination still require humans; entry-level competition intensifies, but certified experts leverage AI tools to amplify capabilities, resulting in more obvious salary advantages.
-
 Usually starts as a project engineer, gains experience, then advances to senior engineer, project manager, or technical lead; can also transition to geotechnical consulting, geotechnical data analysis, or academia, or become a Chartered Professional Engineer (CPEng).
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Usually starts as a project engineer, gains experience, then advances to senior 
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored skilled migration, with states having sponsorship quotas for geotechnical engineering |
 | Subclass 482 (Skills in Demand Visa) | Employer-sponsored temporary visa, can transfer to 186 permanent residence after meeting conditions |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Can be promoted to project supervisor, technical director, or independent con
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★★☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/geotechnical-engineer-233212/AU)**

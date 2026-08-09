@@ -52,8 +52,6 @@ Patent examiners review patent applications to ensure inventions meet patentabil
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Patent examiner roles will be significantly reshaped by AI: existing search and screening tasks are highly automated, but core aspects like legal discretion and creative judgment still require humans; overall positions will not disappear, but entry pathways narrow, requiring a shift toward higher-value judgment.
-
 Career path: Junior Examiner → Senior Examiner → Lead Examiner → Management (e.g., Department Manager). Can also transition to IP lawyer, patent analyst, or corporate IP consultant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Career path: Junior Examiner → Senior Examiner → Lead Examiner → Managemen
 | Subclass 482 (Temporary Skill Shortage Visa) | Applicable for employer sponsorship, with the option to transition to 186 permanent residence |
 | Subclass 186 (Employer Nomination Scheme) | Permanent residency through employer sponsorship requires a skills assessment |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Can progress from junior examiner to senior examiner, supervisor, then manage
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/patents-examiner/AU)**

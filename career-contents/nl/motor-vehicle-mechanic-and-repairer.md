@@ -51,8 +51,6 @@ Responsible for diagnosing, repairing and maintaining mechanical and electronic 
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Diagnosis and simple repair tasks for automotive mechanics may be assisted or partially automated by AI tools, but complex fault finding, fine manual operations, and customer communication remain core, making the career outlook mixed.
-
 Can progress from junior technician to senior technician, workshop supervisor, or independent auto repair shop owner. Obtaining BOVAG certification or EV high-voltage certification enhances competitiveness.
 
 **Tasks most exposed to AI:**
@@ -95,16 +93,9 @@ Can progress from junior technician to senior technician, workshop supervisor, o
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Suitable for highly educated or skilled tradespeople, requires employer sponsorship, salary threshold approx. €5,000/month (for those over 30). |
-| Subclass EU Blue Card (EU Blue Card) | For highly skilled non-EU citizens, requires employer contract and salary of €5,698/month (2025) |
-| Subclass Orientation Year (Orientation Year) | Graduates from Dutch universities or top 200 global universities can apply for a one-year orientation year visa. |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: Yes, especially electric vehicle repair technicians. The BOVAG report indicat
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/motor-vehicle-mechanic-and-repairer/NL)**

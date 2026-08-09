@@ -52,8 +52,6 @@ Horticulturist (Nursery) responsible for cultivating, planting, maintaining, and
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Core manual operations (transplanting, pruning) of a horticulturist (nursery) are hard to replace in the short term, but AI has significantly improved efficiency in pest diagnosis, irrigation optimization, and inventory management; entry-level positions have narrowed slightly due to the spread of automation tools, but AI cannot replace intuitive judgment of plant health and customized advisory services for clients.
-
 Junior horticulturists can advance to senior horticulturist or supervisor through experience, or specialize in plant pest control or nursery management. Some start their own nurseries or landscaping companies.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Junior horticulturists can advance to senior horticulturist or supervisor throug
 | Subclass 190 (Skilled Nominated Visa) | State-sponsored permanent visa, requires occupation on the CSOL and state nomination |
 | Subclass 494 (Skilled Employer Sponsored Regional (Provisional) Visa) | Regional employer-sponsored visa, with pathway to 191 permanent residency |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Yes. Can advance to nursery supervisor, horticultural consultant, landscape d
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nurseryperson/AU)**

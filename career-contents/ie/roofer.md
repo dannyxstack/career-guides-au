@@ -52,8 +52,6 @@ Roofers install, repair, and replace building roofs, covering materials such as 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Roofers face moderate automation risk; AI and robots will replace human labor in measuring, material estimation, and some installation tasks, but complex roofing, repairs, and waterproofing details still require human judgment. Entry-level positions may decline due to digital tools.
-
 After apprenticeship, can advance to foreman or project manager; some experienced roofers start their own businesses. Ongoing training can lead to new technologies like green roofs.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ After apprenticeship, can advance to foreman or project manager; some experience
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | Roofer is not on the skilled occupation list, so it typically does not apply. |
 | Subclass EU Blue Card (EU Blue Card) | Applicable to high-skilled occupations; roofers do not qualify. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Due to construction growth and housing shortages, demand for roofers is high,
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/roofer/IE)**

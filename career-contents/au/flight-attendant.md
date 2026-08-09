@@ -56,8 +56,6 @@ Cabin crew are responsible for in-flight safety management, passenger service an
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI will handle large volumes of documentation, scheduling, and inquiries, but onboard personal safety, emotional support, complex conflict resolution, and multilingual communication still require humans; demand on Asia-Pacific routes may even increase due to Chinese language service needs.
-
 Australia's international aviation market has made a strong post-COVID recovery, with 2026 passenger numbers surpassing the 2019 record high. Qantas and Virgin Australia continue to expand their fleets, driving strong recruitment demand during peak periods. Multilingual service capability on Asia-Pacific routes (Japan/Korea/China/Southeast Asia) is a valued asset, and business aviation (private charter) cabin crew salaries are significantly higher than those in commercial aviation.
 
 **Tasks most exposed to AI:**
@@ -113,9 +111,7 @@ Australia's international aviation market has made a strong post-COVID recovery,
 | Subclass 189 (SkillSelect Independent) | Invitation-based, requires Vetassess skills assessment, high invitation score required |
 | Subclass 190 (Skilled Nominated) | State nomination pathway; states such as Queensland offer nominations |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -177,12 +173,13 @@ A: Salaries are comparable (flight attendant $65k–$82k vs hotel front office m
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/flight-attendant/AU)**

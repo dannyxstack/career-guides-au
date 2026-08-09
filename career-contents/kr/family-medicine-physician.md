@@ -4,8 +4,6 @@
 
 A family medicine physician provides comprehensive primary care for individuals and families, including prevention, diagnosis, treatment, and management of chronic diseases.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ A family medicine physician provides comprehensive primary care for individuals 
 **Future prospect: very high (★★★★½).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can replace some tasks such as diagnostic assistance, prescription support, and charting, but human roles like building patient relationships, comprehensive judgment, and managing complex chronic diseases remain important, so the scope of work will not shrink.
-
 After graduating from medical school, one completes an internship and residency (4 years) to obtain a specialist license, then works in private practice, hospitals, or public health institutions. Career advancement to university hospital professor or private practitioner is possible.
 
 **Tasks most exposed to AI:**
@@ -96,17 +92,9 @@ After graduating from medical school, one completes an internship and residency 
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Available for foreign doctors with specialist qualifications working at domestic medical institutions; need to prove scarcity |
-| Subclass F-2 (F-2 (Residence)) | Pre-permanent residence stage after long-term stay, possible if income requirements met |
-| Subclass F-5 (F-5 (Permanent Residence)) | Available after long-term contribution as a doctor, permits permanent stay |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -150,12 +138,12 @@ A: Medical school (6 years), internship (1 year), residency (3 years) for a tota
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★½) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/family-medicine-physician/KR)**

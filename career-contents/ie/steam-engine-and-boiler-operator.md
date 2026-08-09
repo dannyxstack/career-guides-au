@@ -54,8 +54,6 @@ Operate and maintain steam boilers and engines to power industrial facilities, h
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Steam engine and boiler operators face significant automation compression risk. AI-driven predictive maintenance, smart sensors, and automated control systems will gradually take over most monitoring, adjustment, and fault diagnosis tasks, leading to reduced job demand.
-
 Can progress from entry-level operator to senior operator or shift supervisor; with higher-level certifications, can become technician or energy management role. Some transition to renewable energy sector.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can progress from entry-level operator to senior operator or shift supervisor; w
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Usually requires completion of an apprenticeship or vocational training, obta
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/steam-engine-and-boiler-operator/IE)**

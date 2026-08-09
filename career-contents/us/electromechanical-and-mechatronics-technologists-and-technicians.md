@@ -51,8 +51,6 @@ Operates, tests, maintains, or adjusts unmanned, automated, servo-mechanical, or
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-AI and automation will deeply change the work of electromechanical and mechatronic technicians, taking over repetitive testing and document generation while enhancing system design and data analysis capabilities, significantly altering job task structures.
-
 Can start as a technician, accumulate experience, and advance to senior technician, team supervisor, or through further study become a mechanical and electrical engineer or automation engineer.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can start as a technician, accumulate experience, and advance to senior technici
 | Subclass EB-3 (Employment-Based Third Preference) | Skilled Worker category, requires PERM labor certification, long waiting period. |
 | Subclass Green Card (PERM) (PERM Labor Certification) | Employer-sponsored green card application, must demonstrate no suitable US workers available. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium (★★½☆☆).**
 
 ---
 
@@ -149,12 +145,13 @@ A: Possibility is medium; requires employer sponsorship and meeting educational 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electromechanical-and-mechatronics-technologists-and-technicians/US)**

@@ -51,8 +51,6 @@ Logistics managers plan, coordinate, and organize the supply chain of goods and 
 **Future prospect: medium-high (★★★★☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Logistics manager positions are mixed under AI influence: automation and AI can handle a lot of repetitive planning and documentation work, but strategic decisions, cross-departmental coordination, and exception handling still require human judgment; overall risk is controllable.
-
 Can progress from logistics supervisor to warehouse manager to logistics manager, further to supply chain director or operations vice president, or cross-industry to e-commerce, manufacturing, etc.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from logistics supervisor to warehouse manager to logistics manager
 | Subclass Global Talent (Global Talent visa) | Suitable for individuals with outstanding achievements or potential in the logistics field |
 | Subclass Scale-up (Scale-up visa) | Suitable for senior logistics personnel sponsored by high-growth enterprises |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Relatively easy; due to occupation shortage, sponsorship threshold is lower, 
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★★☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-logistics/UK)**

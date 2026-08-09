@@ -4,8 +4,6 @@
 
 This occupation involves responding to customer inquiries via phone, chat, email, etc., handling complaints, or providing product/service information. The main work environment is call centers and online consultations.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -51,8 +49,6 @@ This occupation involves responding to customer inquiries via phone, chat, email
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-With the introduction of AI chatbots and automated response systems, simple consultation tasks are being rapidly replaced. The role of customer service representatives will be reduced to complex and emotional consultations, but will not disappear entirely.
-
 Initially, handling inbound/outbound consultations; after 3-5 years of experience, can advance to team leader, quality management, or training instructor positions, or move to related departments such as CRM or marketing.
 
 **Tasks most exposed to AI:**
@@ -91,16 +87,9 @@ Initially, handling inbound/outbound consultations; after 3-5 years of experienc
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Customer service work has low specialization, making E-7 issuance very limited, and almost impossible at general companies other than large call centers |
-| Subclass F-2 (Residence) | Possible for long-term residents to switch from other occupations, but there are not many job placements for customer service representatives per se |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: low (★☆☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -143,12 +132,12 @@ A: Simple repetitive inquiries are being rapidly replaced by AI chatbots, but co
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/customer-service-representative/KR)**

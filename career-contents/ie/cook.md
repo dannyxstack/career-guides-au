@@ -54,8 +54,6 @@ Chefs are core roles in Ireland's hospitality industry, responsible for preparin
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Overall impact of AI automation on ordinary chefs is limited, but AI enhances menu design and inventory management; entry-level positions face slight compression due to AI-assisted equipment and prepared foods, but core cooking skills remain safe.
-
 Clear career progression path: from junior chef, section chef to executive chef or restaurant manager. Further study can lead to becoming a pastry chef, nutritionist, or opening your own restaurant.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Clear career progression path: from junior chef, section chef to executive chef 
 | Subclass General Employment P (General Employment Permit) | Applicable to most chef positions; requires passing a labor market test; after working for 2 years, you can apply for permanent residence. |
 | Subclass EU Blue Card (EU Blue Card) | Applies to non-EU highly skilled chefs, requires annual salary above €34,000 and a degree or 5 years' experience. |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Basic requirement is a Food Safety Certificate (FSAI). Recommended to obtain 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cook/IE)**

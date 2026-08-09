@@ -52,8 +52,6 @@ IT Support Technicians in New Zealand diagnose and resolve hardware, software, a
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on IT support roles is mixed: first-line fault diagnosis and script writing tasks are significantly reduced, but complex system debugging, client communication, and cross-team collaboration abilities are amplified by AI; overall risk is moderate to high.
-
 Entry-level IT support can start at a helpdesk, gain experience, and advance to system administrator, network engineer, or cybersecurity analyst. You can also obtain certifications like Microsoft or Cisco to accelerate advancement, with some transitioning to cloud computing or project management.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Entry-level IT support can start at a helpdesk, gain experience, and advance to 
 | Subclass Green List T2 (Green List Tier 2 (Work to Residence)) | Apply for residence after working 24 months in a Green List occupation, requiring above median wage. |
 | Subclass SMC (Skilled Migrant Category) | Based on EOI comprehensive scoring, meeting the 6-point system requirements (qualifications + work + income), no Green List required. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Not mandatory but highly recommended. CompTIA A+ is foundational; Microsoft M
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/ict-support-technician/NZ)**

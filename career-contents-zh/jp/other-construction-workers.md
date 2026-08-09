@@ -1,8 +1,8 @@
-# Other Construction Workers 职业分析 · 日本
+# 其他建筑工人（Other Construction Workers）职业分析 · 日本
 
-**职业代码: 669 (JSCO)**
+**职业代码：669 (JSCO)**
 
-Carpenters, formwork carpenters, rebar workers, plasterers, scaffolders, and other skilled tradespeople who build structures like buildings and roads at construction sites.
+木工、模板工、钢筋工、抹灰工、脚手架工等熟练技工，在建筑工地建造建筑物和道路等结构。
 
 
 ---
@@ -11,9 +11,9 @@ Carpenters, formwork carpenters, rebar workers, plasterers, scaffolders, and oth
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$3,000,000（Annual cost for public school: approx. ¥500,000 (including meal fees, etc.)） |
-| Vocational Training School (Construction Department) | 1~2年 | $200,000~$800,000（Public vocational training may be free） |
-| Specialized School (Construction Technology Department) | 2 年 | $1,000,000~$3,000,000（Annual tuition for private school: approx. ¥1,000,000–¥1,500,000） |
+| 高中 | 3年 | $0~$3,000,000（公立学校年度费用：约¥500,000（含餐费等）） |
+| 职业培训学校（建筑系） | 1~2年 | $200,000~$800,000（公共职业培训可能免费） |
+| 专门学校（建筑技术系） | 2 年 | $1,000,000~$3,000,000（私立学校年学费：约100万-150万日元） |
 
 ---
 
@@ -21,19 +21,19 @@ Carpenters, formwork carpenters, rebar workers, plasterers, scaffolders, and oth
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Scaffolding Assembly Supervisor | Ministry of Health, Labour and Welfare | 必备 | Essential for safety management of elevated work |
-| Construction Accounting Clerk | Construction Industry Promotion Fund | 可选 | Useful for accounting and clerical work |
-| Certified Skilled Worker (Carpentry, Formwork Carpentry, etc.) | Ministry of Health, Labour and Welfare (Prefectural Vocational Ability Development Association) | 可选 | Levels 1, 2, and 3; valid for skill certification |
-| Construction Machinery Operator | Construction Industry Promotion Fund | 可选 | Required for operating construction machinery |
+| 脚手架组装主管 | 厚生劳动省 | 必备 | 高处作业安全管理必备 |
+| 建筑会计文员 | 建筑行业促进基金 | 可选 | 对会计和文书工作有用 |
+| 认证熟练工（木工、模板木工等） | 厚生劳动省（都道府县职业能力开发协会） | 可选 | 1、2、3级；技能认证有效 |
+| 建筑机械操作员 | 建筑行业促进基金 | 可选 | 操作建筑机械所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 很高（★★★★½）.** 全国从业人数约 480,000. The construction industry faces chronic labor shortages, with demand remaining strong after 2025. Especially as skilled veteran workers retire, the acceptance of young and foreign workers is expected to expand.
+**职位需求量：很高（★★★★½）** 全国从业人数约 480,000。建筑行业长期面临劳动力短缺，2025年后需求仍然强劲。尤其是随着资深技工退休，对年轻和外籍工人的接受度预计将扩大。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +41,86 @@ Carpenters, formwork carpenters, rebar workers, plasterers, scaffolders, and oth
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,000,000~$4,000,000 | Annual income ¥3–4 million, including overtime pay |
-| Intermediate (3–7 years) | $4,000,000~$5,500,000 | Skill development, annual income ¥4–5.5 million |
-| Advanced (7+ years) | $5,500,000~$8,000,000 | Foreman class, annual income ¥5.5–8 million |
+| 入门级（0–3年） | $3,000,000~$4,000,000 | 年薪300-400万日元，含加班费 |
+| 中级（3-7年） | $4,000,000~$5,500,000 | 技能提升，年收入400万-550万日元 |
+| 高级（7年以上） | $5,500,000~$8,000,000 | 工头级别，年收入550万-800万日元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI and automation are introducing rebar tying robots and 3D printer construction, but on-site flexibility and fine finishing depend on humans. Some tasks may be replaced, but overall demand remains high.
+AI和自动化引入了钢筋绑扎机器人和3D打印机施工，但现场灵活性和精细饰面依赖人工。部分任务可能被取代，但总体需求仍高。
 
-By accumulating skill certifications and practical experience, workers can advance to site leaders or forepersons. Independent paths to becoming master craftsmen or business owners are also open.
+通过积累技能证书和实践经验，工人可以晋升为现场主管或工头。独立成为工匠或企业主的道路也同样开放。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple rebar tying tasks
-- Leveling work for concrete pouring
-- Partial automation of surveying
+- 简单的钢筋绑扎任务
+- 混凝土浇筑的找平工作
+- 测量部分自动化
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Progress management using drones
-- Safety education via wearable cameras
-- Optimization of construction procedures using BIM data
+- 使用无人机进行进度管理
+- 通过可穿戴摄像头进行安全教育
+- 利用BIM数据优化施工流程
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site flexibility and judgment
-- Delicate finishing by hand
-- Experience and know-how in safety management
+- 现场灵活性和判断力
+- 精细手工收尾
+- 安全管理经验与知识
 
-**需构建的技能:**
+**需构建的技能：**
 
-- ICT Construction Skills
-- BIM Proficiency
-- Drone Operation
-- Multilingual Communication
+- ICT施工技术
+- BIM能力
+- 无人机操作
+- 多语言沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Formwork carpenter
-- Rebar worker
+- 模板木工
+- 钢筋工
 - 抹灰工
-- Scaffold erector
+- 脚手架搭建工
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Requires N4+ Japanese and construction skills test. Residence up to 5 years, simple tasks allowed. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Construction)) | For skilled veterans. No residence renewal limit, family accompaniment possible. Requires transition from SSWi. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible if university graduate with construction experience. Covers roles like site management. |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who enjoy physical work
-- People interested in manufacturing
-- People who don't mind outdoor work
+- 喜欢体力工作的人
+- 对制造业感兴趣的人
+- 不介意户外工作的人
 
 **谁不适合**
-- People who prefer desk work
-- People who are not good at working at heights
+- 偏好案头工作的人
+- 不擅长高空作业的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：Can beginners get high salaries?**
-答：Starting salary for first year beginners is around 3 million yen, but with skill acquisition, 5 million yen or more is possible.
+**问：初学者能获得高薪吗？**
+答：第一年新人的起薪约为300万日元，但随着技能提升，可能达到500万日元或以上。
 
-**问：What visa is needed for foreigners to work in this occupation?**
-答：Specified Skilled Worker (i) or (ii) in construction is common. Requires JLPT N4 or higher and passing the construction skills test.
+**问：外国人在从事该职业需要什么签证？**
+答：建筑领域常见的是特定技能工人(i)或(ii)。要求日语能力测试N4或以上，并通过建筑技能考试。
 
-**问：Are there ways to advance career?**
-答：You can obtain skill certifications to become a foreman or site supervisor. Starting your own business as a master craftsman is also possible.
+**问：有哪些方法可以推进职业发展？**
+答：可以获得技能认证成为领班或现场主管。作为大师级工匠创业也是可能的。
 
 
 ---
@@ -145,12 +138,12 @@ By accumulating skill certifications and practical experience, workers can advan
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/other-construction-workers/JP)**

@@ -53,8 +53,6 @@ Operate textile processing and cutting machines, handle fibers, yarns and fabric
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Textile processing and cutting laborers face high automation risk; AI and robots can take over repetitive tasks, significantly reducing entry-level positions, but maintenance and anomaly handling still require human intervention.
-
 Usually start as general laborers and can advance to machine operators or production line leaders. Need to gain experience and learn specific machine operations; some may move into quality inspection or maintenance. Industry mobility is high, but large-scale promotion opportunities are limited.
 
 **Tasks most exposed to AI:**
@@ -110,8 +108,6 @@ Usually start as general laborers and can advance to machine operators or produc
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Very difficult, because NOC 95105 is TEER 5 (low-skilled), which does not mee
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/labourers-in-textile-processing-and-cutting/CA)**

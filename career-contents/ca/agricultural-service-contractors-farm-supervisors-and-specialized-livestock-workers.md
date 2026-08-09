@@ -52,8 +52,6 @@ In Canada, agricultural technicians/agrologists are typically classified as agri
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Agricultural service contractors and supervisors face mixed impacts from AI/automation: data recording and routine analysis tasks face replacement, but core duties involving field judgment, personnel management, and animal/plant health monitoring are hard to fully replace by AI.
-
 Agricultural technicians can advance to farm supervisor, agricultural consultant, or farm manager. With experience, they can start their own business as agricultural service contractors or move into management roles at agritech companies.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Agricultural technicians can advance to farm supervisor, agricultural consultant
 | Subclass EE (Express Entry) | Meet Federal Skilled Worker or Canadian Experience Class requirements, need work experience and English CLB 7; agri-tech may get provincial nomination bonus points |
 | Subclass AFIP (Agri-Food Immigration Pilot) | For agri-food industry workers, including mushrooms and livestock, work 12 months to apply for permanent residency |
 
-**PR friendliness: medium-high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Typically requires a 2-3 year diploma from a community college or a universit
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-service-contractors-farm-supervisors-and-specialized-livestock-workers/CA)**

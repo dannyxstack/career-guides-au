@@ -51,8 +51,6 @@ Responsible for organizing, classifying, storing, and retrieving paper and elect
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Archivists' jobs will be significantly compressed by AI automation of document classification and retrieval for entry-level positions, but compliance oversight and complex record management still rely on human judgment; overall risks and opportunities coexist.
-
 Can advance from entry-level filing clerk to senior filing technician, records manager, or information management specialist by gaining experience and obtaining certifications.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Can advance from entry-level filing clerk to senior filing technician, records m
 | Subclass PNP (Provincial Nominee Program) | Some provinces list archivists as a demand occupation |
 | Subclass LMIA (Labour Market Impact Assessment) | Employer sponsorship can lead to work visa |
 
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium (★★★☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: A diploma/degree in information management or archives is typically required.
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/records-management-technicians-12112/CA)**

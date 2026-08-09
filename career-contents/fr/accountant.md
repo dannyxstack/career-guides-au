@@ -4,8 +4,6 @@
 
 Accountants are responsible for managing financial records, preparing financial statements, handling tax filings, and providing financial consulting. In France, accountants can practice in companies, accounting firms, or as a freelancer.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -56,8 +54,6 @@ Accountants are responsible for managing financial records, preparing financial 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-As a highly structured occupation, basic bookkeeping, reconciliation, and tax calculation will be quickly automated by AI, but complex auditing, strategic financial advisory, and compliance judgment—requiring human expertise—are amplified by AI. Entry-level competition is fierce, while senior roles increase in value.
-
 Junior accountants can be promoted to financial manager, audit manager, or financial director. You can also obtain the French Certified Public Accountant (Expert-comptable) qualification, establish your own firm, or serve as a senior financial officer in a company.
 
 **Tasks most exposed to AI:**
@@ -104,17 +100,9 @@ Junior accountants can be promoted to financial manager, audit manager, or finan
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Work Permit)) | For employed work residence, you must obtain a French employer employment contract and meet the salary threshold (usually higher than SMIC). |
-| Subclass Passeport Talent (Passeport Talent - Qualified Employee) | Talent Passport – Qualified employees, applicable to foreign employees holding a master's degree or above with an annual salary exceeding 36,508 euros |
-| Subclass Carte bleue UE (EU Blue Card) | EU Blue Card, suitable for high-skilled non-EU citizens, requiring an annual salary of over €53,836.50 (2023 standard) |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -158,12 +146,12 @@ A: Entry requires DCG (3 years) and DSCG (2 years), after which you can obtain t
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/accountant/FR)**

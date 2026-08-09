@@ -54,8 +54,6 @@ Responsible for coordinating shunting operations in railway trains or yards, ens
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-AI/automation will significantly optimise scheduling and process management, but cannot replace on-site safety judgments and emergency decision-making. The overall trend for the role is a mix of being augmented while some tasks are replaced.
-
 Typically start as railway worker or assistant, accumulate experience to become train conductor/shunter, then advance to dispatch supervisor or operations management.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as railway worker or assistant, accumulate experience to become 
 | Subclass H-1B (H-1B Specialty Occupations) | Rarely applicable, usually requires a bachelor's degree; this occupation does not meet professional position requirements |
 | Subclass EB-3 (EB-3 Skilled Workers) | Theoretically possible, but employers need to prove labor shortage, and approval is difficult. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -148,12 +144,13 @@ A: Very difficult, as this occupation typically does not require a bachelor's de
 | Work intensity | high (★★★★☆) |
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/railroad-conductors-and-yardmasters/US)**

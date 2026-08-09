@@ -50,8 +50,6 @@ A professional research position that conducts quality inspection and test analy
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI can automate some tasks like data analysis and pattern recognition, but physical and judgment-based tasks such as field sampling and sensory testing still require humans.
-
 Typically, entry is through civil service or public research institution exams after college graduation, with promotion to management roles such as research lab director or department head based on experience.
 
 **Tasks most exposed to AI:**
@@ -89,16 +87,9 @@ Typically, entry is through civil service or public research institution exams a
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | E-7 (Specific Activities) targets foreign researchers in specialized fields and skilled workers; E-7-1 and E-7-2 are for agricultural, forestry, and fishery testers. |
-| Subclass F-2 (Residence) | F-2 (Residence) targets long-term residents; no employment restrictions |
-| Subclass E-9 (Non-professional Employment) | E-9 (Non-professional Employment) for non-professional agricultural workers; not suitable for testers but some simple inspection assistance possible |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -142,12 +133,12 @@ A: Promotion is mainly based on internal evaluations and research performance, a
 | Work intensity | low (★½☆☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/agricultural-forestry-and-fishery-testing-officer/KR)**

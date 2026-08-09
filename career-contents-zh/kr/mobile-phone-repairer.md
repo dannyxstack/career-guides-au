@@ -1,8 +1,8 @@
-# Mobile Phone Repairer 职业分析 · 韩国
+# 手机维修工（Mobile Phone Repairer）职业分析 · 韩国
 
-**职业代码: 84121 (KECO)**
+**职业代码：84121 (KECO)**
 
-A professional who diagnoses hardware failures in mobile communication devices such as smartphones and repairs them through part replacement, soldering, and software updates.
+诊断智能手机等移动通信设备硬件故障并通过零件更换、焊接和软件更新进行维修的专业人员。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who diagnoses hardware failures in mobile communication devices s
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High school graduate | 0年 | $0~$0（No required education） |
-| Associate degree (Information & Communications) | 2 年 | $8,000,000~$15,000,000（Based on tuition） |
-| Private repair academy | 3个月 | $1,000,000~$3,000,000（Government course voucher support available） |
+| 高中毕业 | 0年 | $0~$0（无学历要求） |
+| 副学士学位（信息与通信技术） | 2 年 | $8,000,000~$15,000,000（按学费计费） |
+| 私立维修学院 | 3个月 | $1,000,000~$3,000,000（政府课程代金券支持可用） |
 
 ---
 
@@ -21,18 +21,18 @@ A professional who diagnoses hardware failures in mobile communication devices s
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Information & Communication Technology Qualification (ICT Device Repair) | Korea Association of Information & Communication Technology | 可选 | Advantageous for employment at authorized service centers |
-| Radio & Electronic Communication Technician | Human Resources Development Service of Korea | 可选 | Proof of understanding electronic circuits |
-| Radio Equipment Technician | Korea Radio Promotion Association | 可选 | Not mandatory for authorized repair shops |
+| 信息通信技术资格（ICT设备维修） | 韩国信息通信技术协会 | 可选 | 有利于在授权服务中心就业 |
+| 无线电与电子通信技术员 | 韩国人力资源开发服务局 | 可选 | 证明理解电子电路 |
+| 无线电设备技术员 | 韩国广播振兴协会 | 可选 | 授权维修店非强制要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 15,000. With high smartphone penetration and longer replacement cycles, repair demand remains steady, but job growth is expected to stagnate due to declining unit prices and the spread of DIY repair culture.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 15,000。由于智能手机普及率高且更换周期变长，维修需求保持稳定，但因单价下降和DIY维修文化普及，就业增长预计停滞。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中（★★½☆☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中（★★½☆☆）**
 
 ---
 
@@ -40,96 +40,89 @@ A professional who diagnoses hardware failures in mobile communication devices s
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $24,000,000~$30,000,000 | Based on small store |
-| 中级(3-7年) | $30,000,000~$40,000,000 | Including authorized centers |
-| Advanced (7+ years/Center Director) | $40,000,000~$55,000,000 | Bonuses may be included |
+| 入门级（0-3年） | $24,000,000~$30,000,000 | 基于小商店 |
+| 中级(3-7年) | $30,000,000~$40,000,000 | 包括授权中心 |
+| 高级（7年以上/中心主任） | $40,000,000~$55,000,000 | 可能包含奖金 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中低（★★☆☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中低（★★☆☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI/automation aids diagnostic tools (software-based fault analysis) and parts ordering automation, but precision soldering and mechanical repairs still require humans, so full replacement is unlikely.
+AI/自动化辅助诊断工具（基于软件的故障分析）和零件订购自动化，但精密焊接和机械维修仍需人工，因此完全替代不太可能。
 
-One can start by opening a small repair shop or working as a technician at a dealership; obtaining certifications allows for a move to an authorized service center, and with experience, promotion to team leader or center manager is possible.
+可以从开设小型维修店或担任经销商技术人员开始；获得认证后可转到授权服务中心，随着经验积累，可晋升为团队负责人或中心经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Software reset
-- Initialization
-- Simple parts replacement
-- Warranty status check
+- 软件重置
+- 初始化
+- 简单零件更换
+- 保修状态检查
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Fault diagnosis
-- Precision soldering
-- Circuit analysis
-- Defective part identification
+- 故障诊断
+- 精密焊接
+- 电路分析
+- 缺陷部件识别
 
-**人类护城河:**
+**人类护城河：**
 
-- Precision manual soldering
-- Micro-component replacement
-- Building customer trust
-- Handling non-standard failures
+- 精密手工焊接
+- 微组件更换
+- 建立客户信任
+- 处理非标准故障
 
-**需构建的技能:**
+**需构建的技能：**
 
-- BGA Rework
-- Micro Soldering
-- Data Recovery
-- Customer Communication
+- BGA返修
+- 微焊接
+- 数据恢复
+- 客户沟通
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Smartphone repair
-- Parts procurement
-- Precision soldering
-- Software recovery
+- 智能手机维修
+- 零件采购
+- 精密焊接
+- 软件恢复
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable for work requiring skilled repair techniques; education and experience requirements must be met |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Limited use as non-professional repair assistants; subject to employment permit system |
-| Subclass F-2 (F-2 (Residence)) | Possible to open a business after long-term stay under point system |
-
-**PR友好度: 中高（★★★☆☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with excellent manual dexterity
-- People who enjoy disassembling and assembling electronic devices
-- People with patience in customer service
+- 手巧的人
+- 喜欢拆解和组装电子设备的人
+- 有耐心从事客户服务的人
 
 **谁不适合**
-- People who prefer static office work
-- People who easily get bored with repetitive tasks
+- 偏好静态办公室工作的人
+- 容易对重复性任务感到厌倦的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual salary for a mobile phone repair technician?**
-答：Entry-level: 24-30 million KRW; center managers with 7+ years: 40-55 million KRW. Income varies greatly for independent repair shops.
+**问：手机维修技师的平均年薪是多少？**
+答：入门级：2400-3000万韩元；7年以上经验中心经理：4000-5500万韩元。独立修理店收入差异较大。
 
-**问：Can a foreigner work as a mobile phone repair technician?**
-答：Yes. Skilled repair technicians can work on an E-7 visa; E-9 visas are limited under the Employment Permit System.
+**问：外国人可以做手机维修技师吗？**
+答：可以。熟练维修技师可申请E-7签证；E-9签证在雇佣许可制度下有限制。
 
-**问：What is the outlook for this occupation?**
-答：Demand for smartphone repairs is steady, but growth may stall due to large service centers and the rise of DIY repair culture.
+**问：该职业的前景如何？**
+答：智能手机维修需求稳定，但可能因大型服务中心和DIY维修文化的兴起而增长停滞。
 
 
 ---
@@ -147,12 +140,12 @@ One can start by opening a small repair shop or working as a technician at a dea
 | 工作强度 | 中（★★½☆☆） |
 | 发展前景 | 中低（★★☆☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★☆☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/mobile-phone-repairer/KR)**

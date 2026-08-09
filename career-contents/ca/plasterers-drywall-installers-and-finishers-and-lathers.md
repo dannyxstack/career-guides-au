@@ -53,8 +53,6 @@ Canadian plasterers apply plaster, mortar, etc., to building interiors and exter
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Plasterers, drywall installers, and other traditional construction trades are significantly affected by automation; repetitive plastering, cutting, and sanding tasks are easily replaced by robots and prefabrication, potentially reducing job demand.
-
 Starting as a junior apprentice, can advance to senior tradesperson, foreman, or independent contractor, and can work across provinces via Red Seal certification. Some transition to drywall inspector or construction supervisor.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Starting as a junior apprentice, can advance to senior tradesperson, foreman, or
 | Subclass PNP (Provincial Nominee Program) | Most provinces have skilled trades nominations for construction, such as Ontario, BC, and Alberta, usually requiring employer sponsorship |
 | Subclass EMP (Employer-specific work permit (LMIA)) | Obtain a work permit through a Labour Market Impact Assessment, then transition to permanent residence after gaining experience |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Most provinces require a provincial license or apprenticeship certification; 
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/plasterers-drywall-installers-and-finishers-and-lathers/CA)**

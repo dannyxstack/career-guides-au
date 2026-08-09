@@ -53,8 +53,6 @@ Directly supervise and coordinate work activities of cleaning staff in places su
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Usually start as cleaners, gain experience to become supervisors, then further advance to facility manager or area manager.
 
 **Tasks most exposed to AI:**
@@ -109,9 +107,7 @@ Usually start as cleaners, gain experience to become supervisors, then further a
 | Subclass EB-3 (Employment-Based Immigration: Third Preference) | PERM labor certification required, but employers struggle to prove inability to find suitable US workers. |
 | Subclass L-1 (Intracompany Transferee) | Only applicable to managers transferred within multinational corporations. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -155,12 +151,13 @@ A: Typically requires high school diploma and years of cleaning experience; good
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/firstline-supervisors-of-housekeeping-and-janitorial-workers/US)**

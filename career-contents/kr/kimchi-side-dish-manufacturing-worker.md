@@ -50,8 +50,6 @@ Skilled professionals who produce traditional fermented foods such as kimchi, pi
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI and automation are replacing repetitive tasks like cutting, washing, and packaging, but judging fermentation ripeness, taste adjustment, and recipe development still rely on human senses and experience, so complete replacement is difficult. Small and medium-sized workplaces still rely heavily on manual labor.
-
 During the first 1–2 years after hiring, workers learn ingredient preparation and basic fermentation skills, then can advance to skilled positions developing recipes, managing quality, or overseeing production lines.
 
 **Tasks most exposed to AI:**
@@ -93,17 +91,9 @@ During the first 1–2 years after hiring, workers learn ingredient preparation 
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Possible at some large factories under the Employment Permit System in the manufacturing sector; quotas and industry restrictions apply. |
-| Subclass F-2 (Residence (F-2)) | Issued to marriage immigrants or long-term residents via a points system; allows unrestricted employment. |
-| Subclass F-4 (Overseas Korean (F-4)) | Issued to overseas Koreans; restrictions on simple labor jobs, but food manufacturing often allowed. |
-| Subclass E-7 (Specific Activities (E-7)) | Can be issued as Skilled Worker (E-7-1); requires experience and certifications. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +137,12 @@ A: After 2-3 years of initial experience, you can become a skilled worker, then 
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/kimchi-side-dish-manufacturing-worker/KR)**

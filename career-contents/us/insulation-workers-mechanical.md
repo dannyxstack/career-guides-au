@@ -53,8 +53,6 @@ Mechanical insulation workers install insulation materials on pipes, ducts, or o
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Mechanical insulators face medium automation risk: routine measurement and material cutting may be replaced by AI tools, but on-site customization, complex pipeline layout handling, and safety compliance work still require manual labor, providing a relatively strong moat.
-
 Career advancement paths include becoming a foreman, supervisor, or independent contractor. Experienced insulators can also transition to building inspection or project management.
 
 **Tasks most exposed to AI:**
@@ -108,8 +106,6 @@ Career advancement paths include becoming a foreman, supervisor, or independent 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Mechanical insulator is a skilled trade, but the US immigration system offers
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/insulation-workers-mechanical/US)**

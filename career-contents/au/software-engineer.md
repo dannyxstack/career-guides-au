@@ -56,8 +56,6 @@ Software engineers design, develop and maintain software systems across web, mob
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Software engineer positions overall will not be eliminated by AI, but entry-level coding and testing roles will be significantly reduced; developers proficient in AI tools will see greatly increased output and competitiveness, creating a two-tier divide.
-
 AI-assisted coding (GitHub Copilot/Cursor) is reshaping entry-level development roles, but demand for system design, code review, and cross-functional collaboration continues to grow. The salary gap between major Australian tech companies (Atlassian, Canva, WiseTech) and Silicon Valley is narrowing.
 
 **Tasks most exposed to AI:**
@@ -114,9 +112,7 @@ AI-assisted coding (GitHub Copilot/Cursor) is reshaping entry-level development 
 | Subclass 190 (Skilled Nominated) | State nomination; ACT/NSW/VIC technology migration pathway |
 | Subclass 491 (Skilled Work Regional) | Remote area IT role, +15 points |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -178,12 +174,13 @@ A: Both are excellent migration occupations. Software engineers have far greater
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/software-engineer/AU)**

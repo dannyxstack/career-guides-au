@@ -54,8 +54,6 @@ Responsible for pouring, leveling, and finishing concrete surfaces (e.g., floors
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The physical labor of cement masons and concrete finishers is hard to fully replace, but AI automation is gradually taking over programmable tasks like surface smoothing and joint cutting. Job demand will shift toward more complex formwork, decorative finishing, and project management.
-
 Typically start as apprentice or assistant; with experience, can advance to foreman, supervisor, or specialize in decorative concrete; also possible to start own contracting business.
 
 **Tasks most exposed to AI:**
@@ -105,9 +103,7 @@ Typically start as apprentice or assistant; with experience, can advance to fore
 | Subclass H-2B (H-2B Temporary Non-Agricultural Worker) | Temporary non-agricultural worker visa for seasonal or peak labor needs, but requires employer sponsorship and has quota limits. |
 | Subclass EB-3 (Employment-Based Third Preference (Skilled Workers)) | Employment-based third preference (skilled workers), requires PERM labor certification, but this occupation is usually difficult to pass due to its non-professional nature |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: BLS projects about 4% employment growth from 2022 to 2032, about as fast as t
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/cement-masons-and-concrete-finishers/US)**

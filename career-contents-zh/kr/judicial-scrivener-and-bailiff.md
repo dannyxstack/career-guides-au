@@ -1,10 +1,8 @@
-# Judicial Scrivener and Bailiff 职业分析 · 韩国
+# 司法代书人和法警（Judicial Scrivener and Bailiff）职业分析 · 韩国
 
-**职业代码: 22131 (KECO)**
+**职业代码：22131 (KECO)**
 
-A legal profession that involves drafting documents for submission to courts and providing legal consultation, while bailiffs are responsible for enforcing court judgments through compulsory execution.
-
-> **本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+负责起草法庭文件并提供法律咨询的法律职业，而执达员负责通过强制执行法院判决。
 
 
 ---
@@ -13,8 +11,8 @@ A legal profession that involves drafting documents for submission to courts and
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 法学学士 | 4年 | $20,000,000~$40,000,000（Varies by national/private university; scholarships available） |
-| Training after passing the judicial scrivener exam | 1年 | $5,000,000~$10,000,000（Including practical training costs and living expenses at the Korea Judicial Scrivener Training Institute） |
+| 法学学士 | 4年 | $20,000,000~$40,000,000（因国立/私立大学而异；有奖学金） |
+| 通过司法代书人考试后的培训 | 1年 | $5,000,000~$10,000,000（包括韩国司法代笔培训学院的实训费用和生活费） |
 
 ---
 
@@ -22,17 +20,17 @@ A legal profession that involves drafting documents for submission to courts and
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Judicial Scrivener License | Ministry of Justice | 必备 | Must pass the judicial scrivener exam (1st and 2nd rounds) and complete practical training |
-| Attorney License | Ministry of Justice | 可选 | Can work as a judicial scrivener after graduating from law school and passing the bar exam |
+| 司法代书人执照 | 法务部 | 必备 | 必须通过司法代书人考试（第一轮和第二轮）并完成实务培训 |
+| 律师执照 | 法务部 | 可选 | 法学院毕业后通过律师考试可担任司法代书人 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 11,000. Due to Korea's aging population and increasing legal demand, the work of judicial scriveners remains stable, but simple tasks are declining due to the computerization of registration and deposit. Bailiffs operate under a quota system, limiting new hiring.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 11,000。由于韩国人口老龄化和法律需求增加，司法代书人的工作保持稳定，但简单任务因登记和存款计算机化而减少。法警实行配额制，限制新招聘。
 
-**竞争度: 较高（★★★★☆）.**
-**工作强度: 中高（★★★★☆）.**
+**竞争度：较高（★★★★☆）**
+**工作强度：中高（★★★★☆）**
 
 ---
 
@@ -40,94 +38,86 @@ A legal profession that involves drafting documents for submission to courts and
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0-3 years) | $30,000,000~$45,000,000 | Income as office manager or at the start of practice |
-| Mid-level (4-10 years) | $50,000,000~$80,000,000 | When running a stable office |
-| 资深（10年以上） | $80,000,000~$99,999,999 | Representative of a large or joint office |
+| 入门级（0-3年） | $30,000,000~$45,000,000 | 办公室经理收入或执业初期的收入 |
+| 中级（4-10年） | $50,000,000~$80,000,000 | 在稳定的办公室环境中工作时 |
+| 资深（10年以上） | $80,000,000~$99,999,999 | 大型或联合办公室代表 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★★☆☆）.**
-**AI替代风险: 较低（★★☆☆☆）.**
+**发展前景：中（★★★☆☆）**
+**AI替代风险：较低（★★☆☆☆）**
 
-AI and automation are replacing some tasks like legal document review and the computerization of registration and deposit, but areas requiring high-level judgment such as legal interpretation, consultation, and personalized advice still rely heavily on human roles. Overall, rather than being fully replaced by AI, these tools will be used as aids to improve work efficiency.
+AI和自动化正在取代部分任务，如法律文件审查以及登记和存款的计算机化，但在法律解释、咨询和个性化建议等需要高判断力的领域，仍严重依赖人类角色。总体而言，这些工具不会被完全取代，而是作为辅助工具提高工作效率。
 
-Judicial scriveners typically advance from office manager to opening their own office or joining a joint office. Bailiffs are appointed after serving as court officials, with promotions stagnating until retirement.
+司法书士通常从办公室经理晋升，开设自己的事务所或加入联合事务所。法警在担任法院官员后被任命，晋升停滞直至退休。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Data entry for electronic registration and deposit applications
-- Drafting basic legal document templates
-- Reviewing and verifying administrative documents
+- 电子登记和押金申请的数据录入
+- 起草基本法律文件模板
+- 审核和验证行政文件
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Legal research and case law searching
-- Auto-generating document drafts
-- Analyzing client consultation records
+- 法律研究与判例搜索
+- 自动生成文档草稿
+- 分析客户咨询记录
 
-**人类护城河:**
+**人类护城河：**
 
-- High-level legal judgment and interpretation
-- Personalized legal consultation and trust building
-- Court representation and litigation procedure management
+- 高级法律判断与解释
+- 个性化法律咨询和信任建立
+- 法庭代理和诉讼程序管理
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Utilizing electronic litigation systems
-- Data analysis and management
-- Document automation using AI tools
-- Deepening expertise in specialized fields (family, inheritance, real estate)
+- 利用电子诉讼系统
+- 数据分析与管理
+- 利用AI工具实现文档自动化
+- 深化专业领域知识（家庭法、继承法、房地产法）
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Real Estate Registration
-- Legal Consultation
-- Family·Inheritance
-- Electronic Litigation
+- 房地产登记
+- 法律咨询
+- 家族·继承
+- 电子诉讼
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为非技术移民职业。** 通常不在技术移民职业清单上，不能作为独立技术移民提名职业。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible for foreign legal experts (with attorney license) to work at domestic law firms under this visa, but obtaining a judicial scrivener license is practically impossible, making it a very limited employment visa route. |
-| Subclass F-2 (Residence) | Needed to open a legal scrivener practice as a step before permanent residence, but acquiring the qualification itself requires Korean language and legal knowledge, making it an unrealistic path. |
-| Subclass F-5 (Permanent Residence) | Permanent residents can open a practice after obtaining a legal scrivener qualification, but the qualification process is highly difficult even for Koreans, making it unsuitable as an immigration-purpose visa. |
-
-**PR友好度: 较低（★☆☆☆☆）.**
-
-**PR难度: 很高（★★★★½）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who are meticulous and skilled at document work
-- People who continuously study legal knowledge
-- People who are proactive in interpersonal relationships and counseling
+- 注重细节、擅长文档工作的人
+- 持续学习法律知识的人
+- 在人际关系和咨询方面积极主动的人
 
 **谁不适合**
-- People who are insensitive to change and have difficulty adapting to digital
+- 对变化不敏感且难以适应数字化的人
 - 不喜欢重复性任务的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a legal scrivener?**
-答：For those starting a practice or working as an office manager, the annual salary is around 30-45 million KRW, varying greatly by experience and office size.
+**问：司法书士的起薪是多少？**
+答：开办诊所或担任办公室经理，年薪约3000-4500万韩元，视经验和办公室规模而定。
 
-**问：Can a foreigner become a legal scrivener in Korea?**
-答：It is possible but requires Korean language ability and extensive knowledge of Korean law; passing the exam and obtaining the qualification is very difficult, making it practically unsuitable as an immigration route.
+**问：外国人可以在韩国成为司法书士吗？**
+答：可能但需要韩语能力和广泛的韩国法律知识；通过考试获得资格非常困难，因此作为移民途径实际上不可行。
 
-**问：What path is needed to become a court bailiff?**
-答：You must accumulate experience as a court employee (e.g., registry or bailiff office clerk) and then pass the bailiff exam; tenure is guaranteed but recruitment numbers are very small.
+**问：成为法院执达员需要什么途径？**
+答：必须先积累法院雇员经验（如登记处或法警办公室文员），然后通过法警考试；工作有保障但招聘人数极少。
 
 
 ---
@@ -145,12 +135,12 @@ Judicial scriveners typically advance from office manager to opening their own o
 | 工作强度 | 中高（★★★★☆） |
 | 发展前景 | 中（★★★☆☆） |
 | AI替代风险 | 较低（★★☆☆☆） |
-| PR友好度 | 较低（★☆☆☆☆） |
-| PR难度 | 很高（★★★★½） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/judicial-scrivener-and-bailiff/KR)**

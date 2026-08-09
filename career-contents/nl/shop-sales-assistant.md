@@ -4,8 +4,6 @@
 
 Store sales assistants provide product information, assist with purchases, handle cash register transactions, and maintain store displays and inventory in retail stores.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -53,8 +51,6 @@ Store sales assistants provide product information, assist with purchases, handl
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium-high (★★★★☆).**
 
-Store sales assistants will face significant contraction due to AI automation, with tasks like inventory management, checkout, and basic inquiries being replaced, but interpersonal interaction and complex customer service still require humans.
-
 Junior sales assistants can advance to senior sales assistant, department supervisor, store manager, or move laterally to retail support functions like procurement or visual merchandising.
 
 **Tasks most exposed to AI:**
@@ -101,16 +97,9 @@ Junior sales assistants can advance to senior sales assistant, department superv
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for high-skilled migration, but sales assistants generally do not meet the salary threshold (2024 approx. €5,331/month) |
-| Subclass EU Blue Card (EU Blue Card) | Suitable for high-education, high-salary positions; sales assistants usually do not qualify |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +143,12 @@ A: Can advance to senior sales assistant, department supervisor, store manager, 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium-high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/shop-sales-assistant/NL)**

@@ -1,10 +1,8 @@
-# Hanbok Maker 职业分析 · 韩国
+# 韩服制作师（Hanbok Maker）职业分析 · 韩国
 
-**职业代码: 86311 (KECO)**
+**职业代码：86311 (KECO)**
 
-A specialized artisan who creates garments by combining traditional Hanbok design with modern elements, primarily responsible for custom-made Hanbok and repairs.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+将传统韩服设计与现代元素结合制作服装的专业工匠，主要负责定制韩服和修复。
 
 
 ---
@@ -13,8 +11,8 @@ A specialized artisan who creates garments by combining traditional Hanbok desig
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| Fashion Design in College | 2 年 | $3,000,000~$6,000,000（Including tuition and material costs） |
-| Hanbok Manufacturing Technician Academy | 6 months | $500,000~$1,500,000（Eligible for national strategic industry vocational training support） |
+| 大学时装设计 | 2 年 | $3,000,000~$6,000,000（包括学费和材料费） |
+| 韩服制作技师学院 | 6个月 | $500,000~$1,500,000（符合国家战略产业职业培训支持条件） |
 
 ---
 
@@ -22,18 +20,18 @@ A specialized artisan who creates garments by combining traditional Hanbok desig
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Hanbok Technician | Human Resources Development Service of Korea | 可选 | National technical qualification, written and practical exams |
-| Western Clothing Technician | Human Resources Development Service of Korea | 可选 | Optional additional qualification |
-| Fashion Design Industrial Engineer | Human Resources Development Service of Korea | 可选 | Advanced qualification |
+| 韩服技师 | 韩国人力资源开发服务局 | 可选 | 国家技术资格，笔试和实操考试 |
+| 西方服装技师 | 韩国人力资源开发服务局 | 可选 | 可选额外资质 |
+| 时装设计工业工程师 | 韩国人力资源开发服务局 | 可选 | 高级学历 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中（★★½☆☆）.** 全国从业人数约 8,000. Demand remains steady due to the Korean Wave and renewed interest in traditional culture, but job growth is limited by the expansion of ready-made clothing and low-priced imports.
+**职位需求量：中（★★½☆☆）** 全国从业人数约 8,000。受韩流和传统文化复兴影响，需求保持稳定，但成衣和低价进口商品的扩张限制了就业增长。
 
-**竞争度: 中（★★½☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：中（★★½☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -41,67 +39,59 @@ A specialized artisan who creates garments by combining traditional Hanbok desig
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Beginner (0-3 years) | $24,000,000~$30,000,000 | Starting salary after obtaining technician certification |
+| 初级（0-3年） | $24,000,000~$30,000,000 | 获得技术员认证后的起薪 |
 | 中级 (4-7年) | $30,000,000~$40,000,000 | 随经验增加 |
-| Advanced (8+ years) | $40,000,000~$55,000,000 | Master craftsman or self-employed |
+| 高级（8年以上） | $40,000,000~$55,000,000 | 工匠大师或个体经营 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI can assist in Hanbok design or pattern automation, but since Hanbok manufacturing relies on handwork and traditional skills, complete replacement is difficult, so the impact is limited.
+AI可协助韩服设计或图案自动化，但由于韩服制造依赖手工和传统技艺，完全替代困难，因此影响有限。
 
-Starting as a skilled worker, one can grow into a master artisan or Hanbok designer with experience, and self-employment is also possible.
+从技工起步，可成长为高级工匠或韩服设计师，也可自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Automatic pattern generation
-- Simple cutting work
+- 自动图案生成
+- 简单切割工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Custom design support
-- Fabric waste optimization
-- Design simulation
+- 定制设计支持
+- 面料废料优化
+- 设计模拟
 
-**人类护城河:**
+**人类护城河：**
 
-- Handwork skills
-- Traditional dyeing and embroidery
-- Customer fitting
+- 手工艺技能
+- 传统印染刺绣
+- 客户试穿
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Hanbok design
-- Traditional embroidery
-- Customer service
-- Material knowledge
+- 韩服设计
+- 传统刺绣
+- 客户服务
+- 材料知识
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Hallyu
-- Traditional culture
-- Custom clothing
-- Work-life balance
+- 韩流
+- 传统文化
+- 定制服装
+- 工作与生活平衡
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Employment in skilled craft fields is possible, but demand for Hanbok manufacturing is low |
-| Subclass F-2 (Residence) | Long-term stay possible under a points system, classified as professional workforce |
-| Subclass F-4 (Overseas Koreans) | Targets overseas Koreans, no employment restrictions |
-
-**PR友好度: 中高（★★★½☆）.**
-
-**PR难度: 较低（★½☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -109,25 +99,25 @@ Starting as a skilled worker, one can grow into a master artisan or Hanbok desig
 
 **谁适合**
 - 注重细节且耐心的人
-- Person interested in tradition and handicrafts
-- Person who wants to try self-employment
+- 对传统和手工艺感兴趣的人
+- 想尝试自主创业的人
 
 **谁不适合**
-- Person who prefers fast productivity and mass production
-- Person who wants a high-tech oriented job
+- 喜欢快速生产和大规模生产的人
+- 追求高科技工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a Hanbok maker?**
-答：Approximately 24~30 million KRW for entry-level, and 40~55 million KRW for senior artisans with over 8 years of experience.
+**问：韩服制作者的平均工资是多少？**
+答：入门级约2400~3000万韩元，具有8年以上经验的高级工匠约4000~5500万韩元。
 
-**问：What visa does a foreigner need to work as a Hanbok maker?**
-答：E-7 (Specific Activities) visa is possible but demand is low; F-2 (Residence) or F-4 (Overseas Korean) visas are more advantageous.
+**问：外国人制作韩服需要什么签证？**
+答：E-7（特定活动）签证有可能但需求低；F-2（居住）或F-4（在外同胞）签证更有利。
 
-**问：Is a degree necessary to become a Hanbok maker?**
-答：It is not mandatory; a Hanbok technician certification or private academy training is sufficient.
+**问：成为韩服制作者需要学位吗？**
+答：非强制要求；持有韩服技师证书或私立学院培训即可。
 
 
 ---
@@ -145,12 +135,12 @@ Starting as a skilled worker, one can grow into a master artisan or Hanbok desig
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中高（★★★½☆） |
-| PR难度 | 较低（★½☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/hanbok-maker/KR)**

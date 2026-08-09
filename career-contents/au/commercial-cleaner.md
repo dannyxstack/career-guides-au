@@ -52,8 +52,6 @@ Commercial cleaning involves cleaning and hygiene maintenance in office building
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-low (★★☆☆☆).**
 
-High risk of automation in commercial cleaning; AI and robots will replace most repetitive cleaning tasks, significantly compressing entry-level positions, but on-site management and specialty cleaning still require humans.
-
 Can progress into cleaning supervisor or facilities services contracting roles.
 
 **Tasks most exposed to AI:**
@@ -101,9 +99,7 @@ Can progress into cleaning supervisor or facilities services contracting roles.
 
 **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -143,12 +139,13 @@ A: No, this is not a skilled migration occupation.
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-low (★★☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/commercial-cleaner/AU)**

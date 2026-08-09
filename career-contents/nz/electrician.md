@@ -51,8 +51,6 @@ Electricians in NZ work on building, industrial, and maintenance electrical inst
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Electricians in New Zealand are less likely to be fully replaced by AI due to on-site work and regulatory constraints, but AI improves efficiency in automated design, documentation, and fault diagnosis, while potentially reducing demand for entry-level roles.
-
 Path: Apprentice → Licensed Electrician → Foreman/Contractor; EWRB registration, license level, and specialization (high voltage/renewable) determine income.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Path: Apprentice → Licensed Electrician → Foreman/Contractor; EWRB registrat
 | Subclass AEWV (Accredited Employer Work Visa) | Accredited Employer Work Visa |
 | Subclass SMC (Skilled Migrant Category) | Skilled migration points system |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -146,12 +142,13 @@ A: Yes. Electricians are on the Green List Tier 2 (residence after a qualifying 
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/electrician/NZ)**

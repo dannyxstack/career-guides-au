@@ -51,8 +51,6 @@ In accommodation venues such as hotels, motels, and resorts, responsible for gue
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Hotel front desk work is significantly reduced by AI automation; traditional check-in/out, reservations, and inquiry tasks are replaced by self-service systems and chatbots, reducing entry-level positions but creating new roles in technical supervision and customer experience optimization.
-
 Can progress from front desk to front desk supervisor, front office manager, or transition to sales, reservations, and other roles. Multilingual skills (e.g., English, German) aid career advancement.
 
 **Tasks most exposed to AI:**
@@ -96,16 +94,9 @@ Can progress from front desk to front desk supervisor, front office manager, or 
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | For high-skilled immigrants meeting the income threshold; hotel front desk roles usually do not meet salary requirements unless it's a management position. |
-| Subclass EU Blue Card (EU Blue Card) | Applicable to high-education, high-salary positions; front desk usually does not qualify. |
-| Subclass Orientation Year (Or (Orientation Year) | Dutch graduates can work freely for 1 year; receptionist can serve as an entry-level position. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -149,12 +140,12 @@ A: Dutch and English are fundamental; a second foreign language such as German o
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-receptionist/NL)**

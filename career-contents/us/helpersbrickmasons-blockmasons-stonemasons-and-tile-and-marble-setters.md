@@ -53,8 +53,6 @@ Assist bricklayers, blocklayers, stonemasons, and tile/marble layers with auxili
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Bricklaying tasks heavily rely on on-site physical operations and fine manual work, leaving limited room for direct AI replacement; however, automated bricklaying machines and BIM technology have begun to compress routine wall construction tasks, intensifying competition for entry-level positions.
-
 Progressing from helper to skilled worker requires accumulating experience and possibly participating in an apprenticeship, then can advance to bricklayer, stonemason, or tile setter, and further to foreman or project manager.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Progressing from helper to skilled worker requires accumulating experience and p
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -149,11 +145,12 @@ A: Very difficult. This occupation usually does not meet H-1B requirements; H-2B
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/helpersbrickmasons-blockmasons-stonemasons-and-tile-and-marble-setters/US)**

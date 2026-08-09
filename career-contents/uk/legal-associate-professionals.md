@@ -52,8 +52,6 @@ Legal assistant professionals provide administrative support to lawyers, barrist
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium-high (★★★½☆).**
 
-Conveyancer (paralegal) faces medium automation risk: AI can handle document review and template generation, but client communication, liability, and complex case law still rely on human judgment. Entry-level roles shrink slightly due to legal process digitization, but experienced practitioners can leverage AI tools to amplify efficiency.
-
 Junior legal assistants can advance to senior legal assistants or paralegals, or become solicitors or barristers through further study. Some move into specialized areas (e.g., corporate law, property law) or transition to compliance or legal management roles.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior legal assistants can advance to senior legal assistants or paralegals, or
 | Subclass Graduate (Graduate Visa) | UK graduates can apply, stay for 2 years (PhD 3 years) to seek employment, no sponsorship required |
 | Subclass Global Talent (Global Talent Visa) | Not applicable to general legal assistants; must be an internationally recognised legal expert |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**PR friendliness: medium-low (★★☆☆☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: Usually start as a junior assistant, progress to senior assistant or paralega
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium-high (★★★½☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
+| PR friendliness | medium-low (★★☆☆☆) |
 
 ---
 
 ## Data sources
 
-- ONS, National Careers Service, SOC 2020
+- The UK Office for National Statistics (ONS) (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/legal-associate-professionals/UK)**

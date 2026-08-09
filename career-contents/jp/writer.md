@@ -4,8 +4,6 @@
 
 Professional who writes articles for books, magazines, and web media. Works in diverse fields such as novels, non-fiction, and specialized books.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ Professional who writes articles for books, magazines, and web media. Works in d
 **Future prospect: low (★★☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-AI-powered text generation technology is rapidly advancing, posing a high risk of replacement, especially in information-based and practical book fields. However, highly creative literary works and non-fiction with unique perspectives retain human superiority.
-
 Career depends on personal achievements and works. Winning new author awards or securing serializations are keys to advancement. Building networks with editors and other media is important.
 
 **Tasks most exposed to AI:**
@@ -94,17 +90,9 @@ Career depends on personal achievements and works. Winning new author awards or 
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Possible with employment at a publisher etc., but difficult as a freelancer |
-| Subclass 教授 (Professor) | When writing as a university faculty member |
-| Subclass 特定活動 (Designated Activities (Working Holiday)) | Temporary writing activities are possible |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -148,12 +136,12 @@ A: Consistent writing, improving the quality of your work, building relationship
 | Work intensity | medium-high (★★★★☆) |
 | Future prospect | low (★★☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/writer/JP)**

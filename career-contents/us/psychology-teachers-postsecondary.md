@@ -54,8 +54,6 @@ Teach psychology courses at universities, such as child psychology, clinical psy
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI's impact on psychology professors is mixed: data analysis in teaching and research can be automated, but clinical supervision, ethical judgment, and interpersonal insight are irreplaceable.
-
 Usually start as assistant professor, progress to associate professor, professor, or shift to research positions, administrative roles (e.g., department chair). Requires continuous research output.
 
 **Tasks most exposed to AI:**
@@ -112,8 +110,6 @@ Usually start as assistant professor, progress to associate professor, professor
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -157,11 +153,12 @@ A: Starts as assistant professor, then a probation period of about 6 years for t
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/psychology-teachers-postsecondary/US)**

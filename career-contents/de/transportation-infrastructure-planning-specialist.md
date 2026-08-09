@@ -52,8 +52,6 @@ Responsible for planning, designing, and coordinating transport infrastructure p
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Civil engineering tasks are polarizing: repetitive calculations and documentation are compressed by AI, but design innovation, on-site coordination, and safety decisions are amplified by AI; overall demand remains but entry-level competition intensifies.
-
 Junior planners can advance to project leaders or department heads, or through further education (e.g., master's degree or professional certification) move into senior management or specialist consulting.
 
 **Tasks most exposed to AI:**
@@ -107,9 +105,7 @@ Junior planners can advance to project leaders or department heads, or through f
 | Subclass Skilled Worker (Skilled Immigration Act (Employment Visa)) | Applicable if possessing German-recognized professional qualifications (credential assessment); employer sponsorship for work permit. |
 | Subclass Chancenkarte (Opportunity Card (Chancenkarte)) | A points-based job search visa allowing one year to find work in Germany; suitable for applicants with qualifications and language skills. |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -153,12 +149,13 @@ A: AI-assisted design tools (e.g., BIM) will improve efficiency, but core decisi
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/transportation-infrastructure-planning-specialist/DE)**

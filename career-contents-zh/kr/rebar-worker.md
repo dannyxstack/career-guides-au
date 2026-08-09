@@ -1,8 +1,8 @@
-# Rebar Worker 职业分析 · 韩国
+# 钢筋工（Rebar Worker）职业分析 · 韩国
 
-**职业代码: 70131 (KECO)**
+**职业代码：70131 (KECO)**
 
-A specialized construction worker who processes and assembles rebar on construction sites to form the framework of buildings or structures.
+在建筑工地加工和组装钢筋以形成建筑物或结构框架的专业建筑工人。
 
 
 ---
@@ -11,9 +11,9 @@ A specialized construction worker who processes and assembles rebar on construct
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| High School Graduation | 3年 | $0~$0（Compulsory Education, Free） |
-| College (Construction Field) | 2 年 | $6,000,000~$12,000,000（Annual Tuition Fee） |
-| Craftsman Certification Course | 1年 | $1,000,000~$3,000,000（Academy Tuition Fees） |
+| 高中毕业 | 3年 | $0~$0（义务教育，免费） |
+| 学院（建筑领域） | 2 年 | $6,000,000~$12,000,000（年学费） |
+| 工匠认证课程 | 1年 | $1,000,000~$3,000,000（学院学费） |
 
 ---
 
@@ -21,18 +21,18 @@ A specialized construction worker who processes and assembles rebar on construct
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Rebar Concrete Craftsman | Human Resources Development Service of Korea | 可选 | Not mandatory but advantageous for wages and employment |
-| Construction Safety Engineer | Human Resources Development Service of Korea | 可选 | Advantageous for on-site safety management |
-| Welding Craftsman | Human Resources Development Service of Korea | 可选 | Required for rebar welding tasks |
+| 钢筋混凝土技工 | 韩国人力资源开发服务局 | 可选 | 非强制但对工资和就业有利 |
+| 建筑安全工程师 | 韩国人力资源开发服务局 | 可选 | 有利于现场安全管理 |
+| 焊接工匠 | 韩国人力资源开发服务局 | 可选 | 钢筋焊接任务所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 120,000. Labor shortages persist due to aging workforce and lack of new entrants, with demand fluctuating with government construction investment changes.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 120,000。由于劳动力老龄化和新进入者缺乏，劳动力短缺持续存在，需求随政府建设投资变化而波动。
 
-**竞争度: 较低（★½☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：较低（★½☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -40,91 +40,84 @@ A specialized construction worker who processes and assembles rebar on construct
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| 初级 (0-3年) | $30,000,000~$35,000,000 | Pre-tax, night and overtime pay separate |
-| 中级（4-9年） | $38,000,000~$48,000,000 | Higher if skilled worker certification holder |
-| Advanced (10+ years) | $50,000,000~$60,000,000 | Foreman-level, site manager-level separate |
+| 初级 (0-3年) | $30,000,000~$35,000,000 | 税前工资，夜班和加班费另计 |
+| 中级（4-9年） | $38,000,000~$48,000,000 | 如果持有熟练工认证则更高 |
+| 高级（10年以上） | $50,000,000~$60,000,000 | 领班级、现场经理级分开 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-A job with low impact from AI and automation. Rebar processing and assembly require on-site judgment and physical manipulation, making automation difficult. However, BIM (Building Information Modeling) can partially automate design and material estimation.
+受AI和自动化影响低的职业。钢筋加工和组装需要现场判断和物理操作，难以自动化。但BIM（建筑信息模型）可部分自动化设计和材料估算。
 
-Junior Worker → Intermediate Worker → Senior Worker → Foreman (Team Leader) → Site Manager. Acquiring certifications and building experience are crucial.
+初级工→中级工→高级工→工长（团队领导）→现场经理。获得认证和积累经验至关重要。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Repetitive rebar cutting and bending work
-- Rebar quantity takeoff (partial)
+- 重复的钢筋切割和弯曲工作
+- 钢筋工程量计算（部分）
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Reviewing rebar placement drawings and construction
-- Quality inspection and safety checks
+- 审查钢筋布置图纸和施工
+- 质量检验和安全检查
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site adaptability and experience-based judgment
-- Physical strength and dexterity
-- Team collaboration and communication
+- 现场适应能力和基于经验的判断
+- 体力和灵巧度
+- 团队协作与沟通
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Rebar processing and assembly skills
-- Construction drawing interpretation ability
-- Safety management knowledge
-- Smart construction equipment operation
+- 钢筋加工和组装技能
+- 施工图纸解读能力
+- 安全管理知识
+- 智能施工设备操作
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Urban Redevelopment
-- SOC Investment
-- Workforce Aging
-- Smart Construction
+- 城市重建
+- SOC投资
+- 劳动力老龄化
+- 智能建造
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-9 (Non-professional Employment (E-9)) | Foreign workers can be employed in construction, Employment Permit System applies |
-| Subclass E-7 (Specific Activities (E-7)) | Skilled Worker (E-7-1) may also apply to rebar workers |
-| Subclass F-2 (Residence (F-2)) | Long-term stay via points system, cases of conversion to skilled worker |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中（★★½☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- Person with good physical strength and adaptability to field work
-- Person with manual dexterity and meticulous personality
-- Person who values teamwork
+- 体力好、适应野外工作的人
+- 手巧且性格细致的人
+- 重视团队合作的人
 
 **谁不适合**
-- Person with a fear of heights
-- Person who prefers indoor office work
+- 恐高的人
+- 偏好室内办公室工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the annual salary for a rebar worker?**
-答：For entry-level, about 30-35 million KRW; experienced skilled workers with over 10 years of experience can earn up to 50-60 million KRW.
+**问：钢筋工的年薪是多少？**
+答：入门级约3000-3500万韩元；有10年以上经验的技术工人可达5000-6000万韩元。
 
-**问：Can foreigners get a job as a rebar worker?**
-答：Employment is possible with an E-9 (Non-professional Employment) visa or an E-7 (Skilled Worker) visa, especially through the Employment Permit System in the construction industry.
+**问：外国人能当钢筋工吗？**
+答：可通过E-9（非专业就业）签证或E-7（技术工人）签证就业，尤其是在建筑行业的就业许可制度下。
 
-**问：What is the career progression for a rebar worker?**
-答：You can progress from entry-level → intermediate → advanced skilled worker → foreman → site manager; certifications and experience are important.
+**问：钢筋工人的职业发展路径是怎样的？**
+答：可以从入门级→中级→高级技工→工头→现场经理晋升；证书和经验很重要。
 
 
 ---
@@ -142,12 +135,12 @@ Junior Worker → Intermediate Worker → Senior Worker → Foreman (Team Leader
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中（★★½☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/rebar-worker/KR)**

@@ -51,8 +51,6 @@ Operate binding, folding, collating, cutting, and other print finishing equipmen
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: medium-high (★★★☆☆).**
 
-Print bindery and finishing workers face significant automation compression risk; AI and robots will gradually take over repetitive binding and inspection tasks, reducing entry-level positions, but machine maintenance and special material handling still require humans.
-
 Typically start as apprentices or assistants, gaining experience to become senior operators or team leaders. Some may transition to printing machine operation, quality control, or production management. Due to rapid technological updates in the industry, continuous learning of new equipment operation aids advancement.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically start as apprentices or assistants, gaining experience to become senio
 | Subclass PNP (Provincial Nominee Program) | Some provinces (e.g., Ontario, British Columbia) may list printing operators as in-demand occupations, earning additional CRS points through provincial nomination. |
 | Subclass LMIA (Labour Market Impact Assessment) | Employers can apply for LMIA to support work visas, proving that local workers cannot be found. Obtaining an LMIA can add points for Express Entry or allow a closed work permit. |
 
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-low (★★½☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: This occupation is TEER 4; direct immigration via Express Entry is difficult,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | medium-high (★★★☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-low (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/binding-and-finishing-machine-operators/CA)**

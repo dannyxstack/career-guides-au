@@ -53,8 +53,6 @@ A Crane Chaser is responsible for directing crane operations at construction, mi
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The impact of AI on crane operators' tasks is mixed: AI/automation can take over backend tasks like path planning and equipment monitoring, but actual lifting operations remain human-led due to safety and legal risks. Competition for entry-level positions may intensify.
-
 Can progress from signalman to crane operator or lifting supervisor. With experience, can obtain advanced operation licenses or move into project management roles.
 
 **Tasks most exposed to AI:**
@@ -107,8 +105,6 @@ Can progress from signalman to crane operator or lifting supervisor. With experi
 
 **PR friendliness: very low (½☆☆☆☆).**
 
-**PR difficulty: very high (★★★★★).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -152,11 +148,12 @@ A: Requires completing training courses and obtaining relevant safety certificat
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | very low (½☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/crane-chaser/AU)**

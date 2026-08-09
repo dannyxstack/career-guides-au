@@ -53,8 +53,6 @@ Corporate training managers in Canada are responsible for designing, implementin
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-The corporate training manager role is mixed with AI: repetitive course design and basic training delivery will be automated, but demand for strategic planning, executive coaching, and change management rises, leading to a slight increase in total positions.
-
 Progress from training specialist to training manager (NOC 10029) or HR director (NOC 10011), or transition to organizational development consultant or learning experience designer. Later, obtain certifications like CTDP to enhance competitiveness.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Progress from training specialist to training manager (NOC 10029) or HR director
 | Subclass PNP (Provincial Nominee Program) | Ontario, BC, Alberta, etc. have relevant occupation nominations requiring employer sponsorship |
 | Subclass AIP (Atlantic Immigration Program) | Atlantic Immigration Program employer sponsorship, lower threshold |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★★☆☆☆).**
+**PR friendliness: medium-high (★★★★☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Not mandatory, but certifications like CTDP can increase competitiveness, esp
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★★☆☆☆) |
+| PR friendliness | medium-high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/managers-in-other-business-services/CA)**

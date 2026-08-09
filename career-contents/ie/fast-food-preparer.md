@@ -53,8 +53,6 @@ Fast food preparation workers are responsible for preparing and cooking food in 
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Fast food preparers face high risk of automation; AI and robots will replace human labor in tasks like order taking, cooking, and cleaning, but interpersonal service and complex operations will still require human workers.
-
 Entry-level staff can advance to shift supervisor or restaurant manager, or move to other management roles in the food service industry. Experienced staff can transition into training or quality control.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ Entry-level staff can advance to shift supervisor or restaurant manager, or move
 | Subclass General Employment P (General Employment Permit) | Applicable to non-occupation in demand, requires employer sponsorship, annual salary no less than €30,000. |
 | Subclass Intra-Company Transf (Intra-Company Transfer Permit) | Intra-company transfer for multinational companies, suitable for short-term work. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -151,12 +147,13 @@ A: Low possibility because the occupation is not in high demand; requires employ
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★½) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/fast-food-preparer/IE)**

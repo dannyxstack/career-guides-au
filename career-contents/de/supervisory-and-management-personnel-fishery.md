@@ -51,8 +51,6 @@ Responsible for operational management of fishing enterprises, developing catch 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI and automation will significantly reduce demand for fisheries regulatory and management personnel, especially regulatory paperwork and scheduling tasks being efficiently replaced, but on-site decision-making and risk management still require humans.
-
 Can progress from fishing vessel captain or fisheries technician to management, or move into aquaculture management, fisheries policy consulting, etc. Need to accumulate sea experience and business management knowledge.
 
 **Tasks most exposed to AI:**
@@ -105,8 +103,6 @@ Can progress from fishing vessel captain or fisheries technician to management, 
 
 **PR friendliness: medium (★★½☆☆).**
 
-**PR difficulty: medium (★★½☆☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -150,11 +146,12 @@ A: Start as a deckhand or fisheries technician, gain experience to become a skip
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
 | PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/supervisory-and-management-personnel-fishery/DE)**

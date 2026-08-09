@@ -53,8 +53,6 @@ Skilled trades involving cutting, shaping, assembling and finishing wood, includ
 **Future prospect: medium (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Wood processing occupations face dual impacts from automation replacement and AI-assisted enhancement: repetitive cutting and sanding tasks are increasingly replaced by CNC machines, but custom design, complex assembly, and on-site problem-solving remain human advantages. Entry-level jobs are narrowing due to basic task automation, while AI-driven digital twins and optimization tools can amplify craftsmen's efficiency.
-
 Can advance to foreman or production supervisor, or through further training become a wood technician or master carpenter, or transition to specialized areas such as construction carpentry.
 
 **Tasks most exposed to AI:**
@@ -111,8 +109,6 @@ Can advance to foreman or production supervisor, or through further training bec
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: medium-high (★★★½☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -156,11 +152,12 @@ A: Can advance to foreman, production supervisor, or obtain master carpenter qua
 | Future prospect | medium (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Bundesagentur für Arbeit, Destatis, KldB
+- The Federal Statistical Office (Destatis) & the Federal Employment Agency (Bundesagentur für Arbeit) (KldB / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/wood-processing-occupations-without-specialization/DE)**

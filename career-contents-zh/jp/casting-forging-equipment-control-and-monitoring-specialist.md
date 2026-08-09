@@ -1,8 +1,8 @@
-# Casting/Forging Equipment Control and Monitoring Specialist 职业分析 · 日本
+# 铸造/锻造设备控制与监控专家（Casting/Forging Equipment Control and Monitoring Specialist）职业分析 · 日本
 
-**职业代码: 492 (JSCO)**
+**职业代码：492 (JSCO)**
 
-A professional who controls and monitors casting and forging equipment to manage the metal product manufacturing process, ensuring quality and safety while optimizing production efficiency.
+控制和监控铸造及锻造设备以管理金属产品制造过程的专业人员，确保质量和安全，同时优化生产效率。
 
 
 ---
@@ -11,9 +11,9 @@ A professional who controls and monitors casting and forging equipment to manage
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| High School | 3年 | $0~$300,000（In case of public high school） |
-| Vocational School (Mechanical/Metal) | 2 年 | $1,000,000~$2,000,000（Tuition at private vocational schools） |
-| Vocational Training School (Monozukuri/Manufacturing) | 1-2年 | $0~$500,000（Public vocational training may be free） |
+| 高中 | 3年 | $0~$300,000（公立高中的情况） |
+| 职业学校（机械/金属） | 2 年 | $1,000,000~$2,000,000（私立职业学校的学费） |
+| 职业培训学校（制造/生产） | 1-2年 | $0~$500,000（公共职业培训可能免费） |
 
 ---
 
@@ -21,19 +21,19 @@ A professional who controls and monitors casting and forging equipment to manage
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Forklift Operation Skills Training | Prefectural Labor Bureau | 必备 | Required for material handling |
-| Certified Casting Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Levels 1, 2, 3 available, effective for career advancement |
-| Certified Forging Skilled Worker | Ministry of Health, Labour and Welfare | 可选 | Levels 1, 2 available, not mandatory but advantageous |
-| Crane Operator License | Prefectural Labor Bureau | 可选 | Required for large crane operation |
+| 叉车操作技能培训 | 县级劳动局 | 必备 | 物料搬运必需 |
+| 认证铸造技术工人 | 厚生劳动省 | 可选 | 设1、2、3级，对职业晋升有效 |
+| 认证锻造技术工人 | 厚生劳动省 | 可选 | 提供1级、2级，非强制但有利 |
+| 起重机操作员执照 | 县级劳动局 | 可选 | 大型起重机操作所需 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较低（★★☆☆☆）.** 全国从业人数约 110,000. Demand is declining due to the contraction of the domestic manufacturing industry, but there is steady demand for high-quality cast and forged products for automobiles and industrial machinery. Labor shortages persist as this is a target field for Specified Skilled Worker status.
+**职位需求量：较低（★★☆☆☆）** 全国从业人数约 110,000。由于国内制造业萎缩，需求下降，但对汽车和工业机械的高质量铸锻产品需求稳定。劳动力短缺仍然存在，这是特定技能工人的目标领域。
 
-**竞争度: 中高（★★★½☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中高（★★★½☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,93 +41,86 @@ A professional who controls and monitors casting and forging equipment to manage
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Beginner (0–3 years) | $3,000,000~$4,000,000 | Annual salary: base + overtime included |
-| Intermediate (3–10 years) | $4,000,000~$5,500,000 | Wage increase upon skill certification |
-| Advanced (10+ years) | $5,000,000~$7,000,000 | Foreman/Chief level |
+| Beginner (0–3 years) | $3,000,000~$4,000,000 | 年薪：基本工资+含加班 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 技能认证后加薪 |
+| 高级（10年以上） | $5,000,000~$7,000,000 | 领班/主管级别 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较低（★½☆☆☆）.**
-**AI替代风险: 中高（★★★★☆）.**
+**发展前景：较低（★½☆☆☆）**
+**AI替代风险：中高（★★★★☆）**
 
-Automation using AI and robots is advancing, reducing simple monitoring tasks. However, complex quality judgment and equipment troubleshooting remain human roles. AI is used supplementarily; full replacement is difficult, but headcount is expected to decrease.
+利用AI和机器人实现自动化正在推进，减少了简单的监控任务。但复杂的质量判断和设备故障排除仍由人类担任。AI作为辅助使用；完全替代困难，但人员编制预计会减少。
 
-Advance through skill certification and experience to team leader or chief, with further paths to equipment design and production management. AI and robot integration are raising the complexity of monitoring tasks, requiring digital skills.
+通过技能认证和经验晋升为团队负责人或主管，进一步可从事设备设计和生产管理。人工智能和机器人集成提高了监控任务的复杂性，需要数字技能。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Steady monitoring of temperature and pressure
-- Visual inspection of simple castings
-- Standard material input tasks
+- 持续监控温度和压力
+- 简单铸件的目视检查
+- 标准材料输入任务
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Quality prediction via sensor data analysis
-- Advanced defect detection using AI cameras
-- Production schedule optimization planning
+- 通过传感器数据分析进行质量预测
+- 使用AI摄像头进行高级缺陷检测
+- 生产计划优化
 
-**人类护城河:**
+**人类护城河：**
 
-- Emergency response for equipment failures (cause identification, first aid)
-- Skilled sensory quality judgment (touch, sound, etc.)
-- Multi-process supervision capability
+- 设备故障应急响应（原因识别、急救）
+- 熟练的感官质量判断（触觉、声音等）
+- 多流程监督能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis (Python, statistics)
-- PLC and robot programming
-- Quality control (QC methods, ISO)
-- Reading technical documents in English
+- 数据分析（Python、统计学）
+- PLC与机器人编程
+- 质量控制（QC方法，ISO）
+- 阅读英文技术文档
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Casting technology
-- Forging technology
-- Automotive parts
-- Robotization
+- 铸造技术
+- 锻造技术
+- 汽车零部件
+- 机器人化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Foundry, Industrial Machinery, Electrical/Electronic Information Manufacturing)) | Usable in 3 manufacturing fields. Requires skill test and Japanese N4 or higher. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | Requires university degree or 10+ years of practical experience. As a casting/forging engineer. |
-| Subclass 技能 (Skilled Labor (Technical Skills)) | Requires 10+ years of practical experience in casting/forging. Limited fields like Japanese cuisine; casting/forging may not qualify. |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 较高（★★★★☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People interested in machinery and metal processing
-- Those confident in physical strength and wanting to work in manufacturing
-- Someone who can perform routine tasks accurately
+- 对机械和金属加工感兴趣的人
+- 体力充沛、想在制造业工作的人
+- 能准确完成常规任务的人
 
 **谁不适合**
-- Those who prefer desk work or creative jobs
-- People who dislike high heat or noise
+- 偏好案头工作或创意型工作的人
+- 不喜欢高热或噪音的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for beginners?**
-答：First-year annual income is typically around 3-4 million yen, varying with overtime and night shift allowances.
+**问：初学者的起薪是多少？**
+答：第一年年收入通常在300-400万日元左右，视加班和夜班津贴而定。
 
-**问：What visa do foreigners need for this job?**
-答：Specified Skilled Worker (i) (Manufacturing 3 fields) is most realistic. Requires skill exam and Japanese N4. Engineer/Specialist in Humanities/Intl Services visa requires degree or 10+ yrs experience, which is a high hurdle.
+**问：外国人从事这份工作需要什么签证？**
+答：特定技能工人(i)（制造业3个领域）最现实。需通过技能考试和日语N4。工程师/人文知识/国际业务签证需学位或10年以上经验，门槛高。
 
-**问：What qualifications are advantageous for career advancement?**
-答：Certification as Casting Technician or Forging Technician is effective. Knowledge of production control and quality control is also useful.
+**问：哪些资格有利于职业晋升？**
+答：铸造技师或锻造技师认证有效。生产控制和质量控制知识也有用。
 
 
 ---
@@ -145,12 +138,12 @@ Advance through skill certification and experience to team leader or chief, with
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 较低（★½☆☆☆） |
 | AI替代风险 | 中高（★★★★☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 较高（★★★★☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/casting-forging-equipment-control-and-monitoring-specialist/JP)**

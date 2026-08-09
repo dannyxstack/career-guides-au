@@ -1,8 +1,8 @@
-# Sheet Metal Worker and Sheet Metal Machine Operator 职业分析 · 韩国
+# 钣金工和钣金机操作员（Sheet Metal Worker and Sheet Metal Machine Operator）职业分析 · 韩国
 
-**职业代码: 82211 (KECO)**
+**职业代码：82211 (KECO)**
 
-A specialized skilled profession that cuts, bends, and shapes metal sheets to manufacture various products and parts, playing a key role in manufacturing-based industries such as automotive, shipbuilding, and aviation.
+从事切割、弯曲和成型金属板以制造各种产品和零件的专业技能职业，在汽车、造船和航空等制造业中发挥关键作用。
 
 
 ---
@@ -11,8 +11,8 @@ A specialized skilled profession that cuts, bends, and shapes metal sheets to ma
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| 高中毕业 | 3年 | $0~$0（Tuition-free） |
-| Associate degree (Mold/Machinery Department) | 2 年 | $5,000,000~$15,000,000（Including tuition and textbook fees） |
+| 高中毕业 | 3年 | $0~$0（免学费） |
+| 副学士学位（模具/机械系） | 2 年 | $5,000,000~$15,000,000（包括学费和教材费） |
 
 ---
 
@@ -20,17 +20,17 @@ A specialized skilled profession that cuts, bends, and shapes metal sheets to ma
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Sheet Metal & Fabrication Technician | Human Resources Development Service of Korea | 可选 | Written and practical exams |
-| Welding Technician | Human Resources Development Service of Korea | 可选 | Advantageous to acquire concurrently |
+| 钣金与制造技术员 | 韩国人力资源开发服务局 | 可选 | 笔试和实践考试 |
+| 焊接技师 | 韩国人力资源开发服务局 | 可选 | 同时获取更有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 中高（★★★☆☆）.** 全国从业人数约 80,000. With manufacturing automation and the transition to smart factories, simple sheet metal workers are on the decline, but demand for precision sheet metal and CNC sheet metal machine operators requiring advanced skills is expected to remain steady.
+**职位需求量：中高（★★★☆☆）** 全国从业人数约 80,000。随着制造业自动化和向智能工厂转型，简单钣金工在减少，但需要高级技能的精密钣金和数控钣金机床操作员的需求预计将保持稳定。
 
-**竞争度: 较低（★★☆☆☆）.**
-**工作强度: 中高（★★★½☆）.**
+**竞争度：较低（★★☆☆☆）**
+**工作强度：中高（★★★½☆）**
 
 ---
 
@@ -38,90 +38,83 @@ A specialized skilled profession that cuts, bends, and shapes metal sheets to ma
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $25,000,000~$32,000,000 | Based on 40 hours/week, overtime pay separate |
-| Mid-level (4–7 years) | $34,000,000~$42,000,000 | Varies by skill level and certification |
-| 高级（8年+） | $45,000,000~$55,000,000 | Over 60 million KRW possible when promoted to foreman or technical position |
+| 初级（0-3年） | $25,000,000~$32,000,000 | 基于每周40小时，加班费另计 |
+| 中级（4–7年） | $34,000,000~$42,000,000 | 因技能水平和认证而异 |
+| 高级（8年+） | $45,000,000~$55,000,000 | 晋升为工头或技术职位时，可能超过6000万韩元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中（★★½☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中（★★½☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI and automation technologies assist sheet metal workers, but complex mold making and on-site custom work still require human skill, making full replacement difficult.
+AI和自动化技术辅助钣金工人，但复杂模具制造和现场定制仍需要人工技能，完全替代难度较大。
 
-Starting as an entry-level sheet metal worker, one can advance to skilled worker, foreman, or site supervisor based on experience; acquiring CNC equipment operation skills allows transition to technical positions or starting one's own business.
+从入门级钣金工人开始，可根据经验晋升为熟练工、领班或现场主管；掌握CNC设备操作技能可转向技术岗位或自主创业。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple repetitive cutting and bending tasks
-- Manual drawing reading-based work
+- 简单的重复性切割和弯曲任务
+- 基于手工图纸阅读的工作
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- High-speed precision machining using CNC equipment
-- AI-based quality inspection and defect prediction
+- 使用CNC设备进行高速精密加工
+- 基于人工智能的质量检测和缺陷预测
 
-**人类护城河:**
+**人类护城河：**
 
-- On-site custom sheet metal skills and experience
-- Understanding of complex processes such as welding and assembly
-- Adaptability to non-standard tasks
+- 现场定制钣金技能和经验
+- 理解焊接和装配等复杂流程
+- 对非标准任务的适应能力
 
-**需构建的技能:**
+**需构建的技能：**
 
-- CNC Sheet Metal Machine Programming
-- 3D CAD Modeling
-- Automation Equipment Maintenance
-- Data Analysis-Based Quality Management
+- CNC 钣金机器编程
+- 3D CAD建模
+- 自动化设备维护
+- 基于数据分析的质量管理
 
-**主要增长方向:**
+**主要增长方向：**
 
-- CNC sheet metal machine
-- Vehicle Lightweighting
-- Smart Factory
-- Sheet Metal Automation
+- CNC钣金机器
+- 车辆轻量化
+- 智能工厂
+- 钣金自动化
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (E-7-1 (Specific Activities)) | Eligible to apply as E-7-2 (Skilled Worker), requiring experience and certification in sheet metal |
-| Subclass E-9 (E-9 (Non-professional Employment)) | Sheet metal work possible in manufacturing under EPS, can switch to E-7 after skill improvement |
-| Subclass F-2 (Residence (F-2-99)) | Eligible for permanent residence via points system after stay, job search allowed |
-
-**PR友好度: 较低（★½☆☆☆）.**
-
-**PR难度: 中高（★★★☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with good manual dexterity and interest in machine operation
-- People who are patient and continuously learn for precision work
+- 手巧且对机器操作感兴趣的人
+- 耐心细致、持续学习以追求精准工作的人
 
 **谁不适合**
-- People who get bored with repetitive tasks or find it hard to work in one position for long
-- People who do not follow safety rules well
+- 对重复性任务感到厌倦或难以长期从事同一岗位的人
+- 不遵守安全规则的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the starting salary for a sheet metal worker?**
-答：Starting annual salary for new hires is 25-32 million won, and with experience and certifications, can be over 50 million won.
+**问：钣金工的起薪是多少？**
+答：新员工起薪为2500-3200万韩元，随着经验和认证可超过5000万韩元。
 
-**问：Can foreigners get a job as a sheet metal worker?**
-答：Yes, employment is possible under EPS (E-9) or Skilled Worker (E-7) visas. Korean language skills and experience are required.
+**问：外国人可以找到钣金工人的工作吗？**
+答：根据E-9（就业许可）或E-7（熟练工）签证可以就业，需具备韩语能力和经验。
 
-**问：Do I need to go to school to become a sheet metal worker?**
-答：High school diploma or higher is sufficient, but majoring in mold or mechanical engineering at a vocational college is advantageous. Obtaining certifications also helps.
+**问：我需要上学才能成为钣金工人吗？**
+答：高中文凭或以上即可，但职业院校的模具或机械工程专业更有利。获得认证也有帮助。
 
 
 ---
@@ -139,12 +132,12 @@ Starting as an entry-level sheet metal worker, one can advance to skilled worker
 | 工作强度 | 中高（★★★½☆） |
 | 发展前景 | 中（★★½☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较低（★½☆☆☆） |
-| PR难度 | 中高（★★★☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sheet-metal-worker-and-sheet-metal-machine-operator/KR)**

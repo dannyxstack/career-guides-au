@@ -52,8 +52,6 @@ Demonstrate and teach patient care knowledge to nursing students in academic and
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-The role of nursing instructors has mixed prospects: AI can handle basic theoretical teaching and assessment, but aspects requiring human empathy and experience—such as clinical teaching, simulation training, and curriculum design—will become more valuable.
-
 Typically held by registered nurses (RNs) with extensive clinical experience, requiring a master's or doctoral degree. Can advance to nursing department head, dean, or research supervisor, or transition to nursing education management or advanced practice nursing.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Typically held by registered nurses (RNs) with extensive clinical experience, re
 | Subclass EB-2 (Employment-Based Second Preference) | Master's degree or higher can apply for green card via EB-2, requiring PERM. |
 | Subclass EB-3 (Employment-Based Third Preference) | Bachelor's degree eligible, long queue time |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -150,12 +146,13 @@ A: Community colleges usually only require a master's degree, while four-year un
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium-high (★★★☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- U.S. BLS OEWS, O*NET, SOC
+- The U.S. Bureau of Labor Statistics (BLS) Occupational Employment & Wage Statistics and O*NET (SOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/nursing-instructors-and-teachers-postsecondary/US)**

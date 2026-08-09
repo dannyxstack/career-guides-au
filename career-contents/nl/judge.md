@@ -4,8 +4,6 @@
 
 Judges in the Dutch judicial system are responsible for hearing cases, making rulings, and ensuring the fair enforcement of the law. They typically work in district courts, appeal courts, or the Supreme Court, requiring deep legal knowledge and extensive experience.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -54,8 +52,6 @@ Judges in the Dutch judicial system are responsible for hearing cases, making ru
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Judges' core adjudicative power is protected by law, hard to replace by AI; but as senior legal professionals, judges will be greatly enhanced by AI in case management, legal research, document analysis and other auxiliary tasks, significantly improving efficiency.
-
 Career path typically starts as a lawyer or prosecutor, then applies for judge positions after gaining experience. Promotion can go from local courts to appellate courts to the Supreme Court. Requires passing judicial exams and strict selection.
 
 **Tasks most exposed to AI:**
@@ -98,16 +94,9 @@ Career path typically starts as a lawyer or prosecutor, then applies for judge p
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable for highly skilled non-EU immigrants, requiring a salary threshold (approx. €5,331/month in 2024). Judge positions typically meet the requirements. |
-| Subclass EU Blue Card (EU Blue Card) | For highly educated non-EU professionals, requires a work contract and salary 1.5 times above average. Judge salaries usually meet this. |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +140,12 @@ A: Requires a Master of Laws degree from the Netherlands, completion of judicial
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/judge/NL)**

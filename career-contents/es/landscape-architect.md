@@ -53,8 +53,6 @@ Landscape architects are responsible for the design and planning of public and p
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Gardener roles face mixed AI impact: physical and on-site tasks (pruning, planting) are hard to replace, but drafting, irrigation scheduling, and client communication can be enhanced or partly taken over by software and AI, entry barriers may slightly rise due to tool usage.
-
 Career paths typically start as junior designers, and after gaining project experience, they can be promoted to project managers or partners, or specialize in sustainable design or urban ecology. Some enter academic research fields by pursuing master's or doctoral degrees.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ Career paths typically start as junior designers, and after gaining project expe
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Suitable for highly educated professionals, requiring a work contract and earning a salary 1.5 times the Spanish average wage, allowing quick residency eligibility. |
-| Subclass Altamente cualificad (Highly Qualified Professional) | For highly skilled professionals (Ley 14/2013), no labor market testing is required, and the process is simplified. |
-| Subclass Cuenta ajena (Work Contract (Employed)) | General employed residence, requires employer sponsorship and labor market testing, applicable to non-occupations in demand. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -148,12 +139,12 @@ A: You first need to complete academic qualification verification (Homologación
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/landscape-architect/ES)**

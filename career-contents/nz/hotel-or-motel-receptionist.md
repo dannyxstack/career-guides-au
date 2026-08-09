@@ -52,8 +52,6 @@ Greet guests at hotel, motel, or resort front desks, handle check-in/check-out, 
 **Future prospect: medium-low (★★☆☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Hotel manager is a mixed-impact occupation: AI can automate tasks like data analysis and scheduling, but interpersonal service, crisis management, and brand experience remain core human strengths.
-
 Junior receptionists can be promoted to senior receptionist, duty manager, or front desk supervisor, then to housekeeping or operations manager. With customer service and hotel management experience, they can move into sales, reservations, or concierge. They need to learn hotel management systems (e.g., Opera) and improve foreign language skills (especially Japanese, Chinese) to increase opportunities.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Junior receptionists can be promoted to senior receptionist, duty manager, or fr
 
 **PR friendliness: low (★½☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -151,11 +147,12 @@ A: It is difficult to apply directly through the Green List or SMC as this occup
 | Future prospect | medium-low (★★☆☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
 | PR friendliness | low (★½☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Stats NZ, Careers NZ, ANZSCO
+- Stats NZ & the Ministry of Business, Innovation and Employment (MBIE) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/hotel-or-motel-receptionist/NZ)**

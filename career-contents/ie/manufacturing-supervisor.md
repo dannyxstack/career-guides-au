@@ -52,8 +52,6 @@ A manufacturing supervisor oversees production lines and teams, ensuring product
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-Daily scheduling and reporting tasks for manufacturing supervisors face automation compression, but AI enhances their data-driven decision-making and anomaly response capabilities, evolving the role toward a blend of technical coordination and interpersonal leadership.
-
 Can progress from technician to supervisor, then to production manager, factory manager. Accumulating lean production and quality management experience helps advance to operations director.
 
 **Tasks most exposed to AI:**
@@ -106,9 +104,7 @@ Can progress from technician to supervisor, then to production manager, factory 
 | Subclass Critical Skills Empl (Critical Skills Employment Permit) | If the position is on the shortage occupation list, the annual salary must be at least €32,000 for streamlined processing. Currently, manufacturing supervisors usually do not qualify, but can apply. |
 | Subclass EU Blue Card (EU Blue Card) | Suitable for highly skilled non-EU citizens; annual salary must reach 1.5 times the national average (approx. €65,000). Manufacturing supervisors typically do not meet this threshold. |
 
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★☆☆).**
 
 ---
 
@@ -152,12 +148,13 @@ A: Can advance to production manager, factory manager, or operations director, e
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/manufacturing-supervisor/IE)**

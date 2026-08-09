@@ -53,8 +53,6 @@ Anaesthetic technicians assist anaesthetists in preparing and maintaining anaest
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Anaesthesia technicians face mixed AI impacts: some monitoring and documentation tasks are automated, reducing demand, but AI enhances equipment maintenance, real-time data analysis, and training; core clinical judgment and teamwork still require humans.
-
 After gaining experience as an Anaesthetic Technician, you can advance to senior technician or team leader, or move into perioperative care, equipment management, or anaesthesia assistance. Some further study to become an anaesthetic nurse or doctor.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ After gaining experience as an Anaesthetic Technician, you can advance to senior
 | Subclass 189 (Skilled Independent Visa) | Occupation is on the MLTSSL, through the points system, no sponsorship required |
 | Subclass 190 (Skilled Nominated Visa) | Permanent residency through state sponsorship, requires state government nomination |
 
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**PR friendliness: medium-high (★★★½☆).**
 
 ---
 
@@ -154,12 +150,13 @@ A: Occupation in demand, especially in remote areas, with recruitment in both pu
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | medium (★★½☆☆) |
+| PR friendliness | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/anaesthetic-technician/AU)**

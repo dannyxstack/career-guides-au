@@ -4,8 +4,6 @@
 
 A professional research position that analyzes economic theories and data to study economic phenomena and contribute to policy and corporate strategy formulation.
 
-> **This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
-
 
 ---
 
@@ -52,8 +50,6 @@ A professional research position that analyzes economic theories and data to stu
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and machine learning automate some tasks like data analysis and predictive modeling, but humans retain an edge in high-level judgment such as interpreting economic theory and policy proposals. Research productivity increases, but the number of jobs may decrease slightly.
-
 Entry typically requires a master's degree or higher, with promotion from researcher to senior/principal researcher to research fellow/professor. A doctoral degree or overseas experience is advantageous, and career paths include finance, public sector, and academia.
 
 **Tasks most exposed to AI:**
@@ -91,17 +87,9 @@ Entry typically requires a master's degree or higher, with promotion from resear
 
 ## 6. Migration pathways / PR
 
-**This is a non-skilled-migration occupation.** It is generally not on the skilled occupation lists and cannot be used for independent skilled migration.
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Employment as professional research personnel, requiring corporate recommendation |
-| Subclass D-10 (Job-seeking) | Job-seeking allowed for holders of master's degree or higher |
-| Subclass F-2 (Residence) | Possible for immigration via points system, advantageous for long-term stay |
-
-**PR friendliness: low (★½☆☆☆).**
-
-**PR difficulty: very high (★★★★½).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -145,12 +133,12 @@ A: Realistically, it is difficult. Most researcher positions require at least a 
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | low (★½☆☆☆) |
-| PR difficulty | very high (★★★★½) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/economics-researcher/KR)**

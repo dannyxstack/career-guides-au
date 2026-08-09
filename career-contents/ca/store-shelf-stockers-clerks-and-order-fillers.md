@@ -53,8 +53,6 @@ Responsible for restocking shelves, arranging displays, processing orders, and a
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-The core tasks of shelf restocking and order picking can be highly replaced by automation and robotics; AI can optimize inventory management and route planning, but the number of jobs requiring physical labor and flexibility will be significantly reduced, decreasing low-skilled entry opportunities.
-
 Can advance from junior clerk to shelf supervisor, inventory manager, or department manager; some transition to logistics coordination or supply chain roles; with experience, move to wholesale or e-commerce.
 
 **Tasks most exposed to AI:**
@@ -104,9 +102,7 @@ Can advance from junior clerk to shelf supervisor, inventory manager, or departm
 |---|---|
 | Subclass LMIA (Labour Market Impact Assessment) | Employer must prove inability to hire locals; suitable for retail or warehouse roles with employer sponsorship. |
 
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: very high (★★★★★).**
+**PR friendliness: very low (★☆☆☆☆).**
 
 ---
 
@@ -147,12 +143,13 @@ A: Difficult. This occupation typically does not meet skilled migration requirem
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | high (★★★★☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | very high (★★★★★) |
+| PR friendliness | very low (★☆☆☆☆) |
 
 ---
 
 ## Data sources
 
-- Statistics Canada, Job Bank, NOC 2021
+- Statistics Canada & Job Bank (Employment and Social Development Canada) (NOC)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/store-shelf-stockers-clerks-and-order-fillers/CA)**

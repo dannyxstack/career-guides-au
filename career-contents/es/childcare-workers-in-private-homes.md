@@ -4,8 +4,6 @@
 
 Caring for children in employer households, providing daily monitoring, feeding, hygiene, and early education activities.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -54,8 +52,6 @@ Caring for children in employer households, providing daily monitoring, feeding,
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Childcare workers face a mixed outlook: AI can automate some administrative and monitoring tasks, but core emotional interaction and safety supervision are hard to replace.
-
 After gaining experience, you can be promoted to early childhood education assistant or to run family daycare. Some people enter the formal early childhood education industry through further studies to obtain diplomas in early childhood education.
 
 **Tasks most exposed to AI:**
@@ -102,16 +98,9 @@ After gaining experience, you can be promoted to early childhood education assis
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Cuenta ajena (Work Contract (Employed)) | Requires employer to provide work contract and prove inability to recruit suitable candidate within the EU. This occupation is not high-skilled, making approval more difficult. |
-| Subclass Arraigo social (Social Roots) | Those who have been illegally residing in Spain for at least 3 years can apply, and a work contract is required. Switching to legal employment. |
-
-**PR friendliness: low (★☆☆☆☆).**
-
-**PR difficulty: high (★★★★☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -155,12 +144,12 @@ A: No mandatory academic requirements; junior high school graduates are sufficie
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/childcare-workers-in-private-homes/ES)**

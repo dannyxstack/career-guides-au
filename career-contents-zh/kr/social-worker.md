@@ -1,8 +1,8 @@
 # 社会工作者（Social Worker）职业分析 · 韩国
 
-**职业代码: 23111 (KECO)**
+**职业代码：23111 (KECO)**
 
-A social worker is a professional who provides counseling, case management, program planning and operation, and resource linkage to enhance the welfare of individuals, families, and communities.
+社会工作者是提供咨询、个案管理、项目规划和运作以及资源链接的专业人士，以增进个人、家庭和社区的福祉。
 
 
 ---
@@ -11,9 +11,9 @@ A social worker is a professional who provides counseling, case management, prog
 
 | 阶段 | 周期 | 费用 (KRW) |
 |---|---|---:|
-| University (4-year) Social Welfare Department / Vocational School | 4年 | $10,000,000~$20,000,000（Approximately 2.5 to 5 million KRW per semester） |
-| College (2-3 year) Social Welfare Department | 2 年 | $5,000,000~$12,000,000（Approximately 2 to 3 million KRW per semester） |
-| Graduate School (Master's) Social Welfare | 2 年 | $12,000,000~$25,000,000（Approximately 3 to 6 million KRW per semester） |
+| 大学（四年制）社会福利系/职业学校 | 4年 | $10,000,000~$20,000,000（每学期约250万至500万韩元） |
+| 学院（2-3年）社会福利系 | 2 年 | $5,000,000~$12,000,000（每学期约200万至300万韩元） |
+| 研究生院（硕士）社会福利 | 2 年 | $12,000,000~$25,000,000（每学期约300万至600万韩元） |
 
 ---
 
@@ -21,17 +21,17 @@ A social worker is a professional who provides counseling, case management, prog
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Social Worker Level 1 | Korean Association of Social Workers | 必备 | Certification issued after passing the national exam |
-| Social Worker Level 2 | Korean Association of Social Workers | 必备 | Certification issued after completing required courses (no national exam required) |
+| 社会工作者一级 | 韩国社会工作者协会 | 必备 | 通过国家考试后颁发的认证 |
+| 社工二级 | 韩国社会工作者协会 | 必备 | 完成所需课程后颁发的证书（无需国家考试） |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 200,000. With an aging population and increasing welfare needs, employment for social workers is expected to grow steadily, but full-time public sector jobs are limited.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 200,000。随着人口老龄化和福利需求增加，社会工作者的就业预计将稳步增长，但全职公共部门岗位有限。
 
-**竞争度: 中高（★★★☆☆）.**
-**工作强度: 中高（★★★☆☆）.**
+**竞争度：中高（★★★☆☆）**
+**工作强度：中高（★★★☆☆）**
 
 ---
 
@@ -39,92 +39,85 @@ A social worker is a professional who provides counseling, case management, prog
 
 | 经验水平 | 年薪 (KRW) | 备注 |
 |---|---:|---|
-| Entry-level (0–3 years) | $22,000,000~$28,000,000 | Based on public institutions; private sector may be slightly lower |
-| Mid-level (4–9 years) | $30,000,000~$40,000,000 | Increases with experience, excluding allowances |
-| Senior (10+ years/Manager) | $40,000,000~$55,000,000 | Additional allowances for positions like facility director or office manager |
+| 初级（0-3年） | $22,000,000~$28,000,000 | 基于公共机构；私营部门可能略低 |
+| 中级（4-9年） | $30,000,000~$40,000,000 | 随经验增长，不含津贴 |
+| 高级（10年以上/经理） | $40,000,000~$55,000,000 | 设施主任或办公室经理等职位有额外津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 较高（★★★★☆）.**
-**AI替代风险: 较低（★☆☆☆☆）.**
+**发展前景：较高（★★★★☆）**
+**AI替代风险：较低（★☆☆☆☆）**
 
-AI assists with counseling records, welfare benefit calculations, and resource matching, but human empathy and relationship building cannot be replaced, so work will be enhanced and quality improved.
+AI辅助咨询记录、福利计算和资源匹配，但人类的同理心和关系建立无法替代，因此工作将得到增强和质量提升。
 
-Advancement from Level 2 to Level 1 is common, and with a master's degree or higher and experience, one can move into managerial roles such as facility director or office manager.
+从第2级晋升到第1级很常见，拥有硕士或更高学历和经验，可以进入管理岗位，如设施总监或办公室经理。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Document processing
-- Basic counseling records
-- Simple benefit calculations
+- 文档处理
+- 基础咨询记录
+- 简单福利计算
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Case analysis
-- Welfare program design
-- Client evaluation
+- 案例分析
+- 福利项目设计
+- 客户评估
 
-**人类护城河:**
+**人类护城河：**
 
-- Empathy
-- Trust building
-- Ethical judgment
+- 同理心
+- 建立信任
+- 道德判断
 
-**需构建的技能:**
+**需构建的技能：**
 
-- Data analysis using AI
-- Digital counseling skills
-- Understanding of welfare policies
+- 利用AI进行数据分析
+- 数字咨询技能
+- 了解福利政策
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Aging
-- Community integrated care
-- Mental health
-- Child welfare
+- 老龄化
+- 社区综合照护
+- 心理健康
+- 儿童福利
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
+韩国的E-7技术工人签证授予具备本地工作邀请的合格专业人士，长期持有者可转居F-2/F-5居留。要求由韩国移民局制定，并会随时间变化。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass E-7 (Specific Activities) | Possible with employment visa for foreigners in professional social welfare field, meeting degree and experience requirements |
-| Subclass F-2 (Residence) | Long-term stay possible with points-based permanent residence qualification, social worker experience recognized |
-| Subclass F-5 (Permanent Residence) | Permanent residency, long-term settlement possible as social worker |
-
-**PR友好度: 较高（★★★★☆）.**
-
-**PR难度: 较低（★☆☆☆☆）.**
+**官方移民信息来源：**[韩国移民局](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People who find fulfillment in helping others
-- People who show patience in difficult situations
-- People who enjoy communicating with diverse individuals
+- 以帮助他人为乐的人
+- 在困难情况下表现出耐心的人
+- 喜欢与不同人群交流的人
 
 **谁不适合**
-- People who have difficulty controlling emotions and easily tire from others' pain
-- People who prefer a regular and stable work environment
+- 难以控制情绪且易因他人痛苦而疲惫的人
+- 喜欢规律稳定工作环境的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average salary of a social worker?**
-答：Entry-level is about 22-28 million won, managers with over 10 years of experience are at 40-55 million won. There are differences between public and private institutions.
+**问：社会工作者的平均工资是多少？**
+答：初级约2200-2800万韩元，10年以上经验的经理级4000-5500万韩元。公共和私人机构之间存在差异。
 
-**问：Can foreigners work as social workers in Korea?**
-答：Yes. To obtain an E-7 visa, you need a social worker qualification (Level 1 recommended), a degree, and experience. Korean language skills are also important.
+**问：外国人能在韩国担任社会工作者吗？**
+答：可以。要获得E-7签证，需要社工资格（建议一级）、学位和经验。韩语能力也很重要。
 
-**问：How do I get a Level 1 social worker certificate?**
-答：You must complete 14 required courses in social welfare at a university (or graduate school) and pass the national exam administered by the Korean Association of Social Workers after graduation.
+**问：如何获得一级社会工作者证书？**
+答：你必须在大学（或研究生院）完成社会福利领域的14门必修课程，并在毕业后通过韩国社会工作协会组织的国家考试。
 
 
 ---
@@ -142,12 +135,12 @@ Advancement from Level 2 to Level 1 is common, and with a master's degree or hig
 | 工作强度 | 中高（★★★☆☆） |
 | 发展前景 | 较高（★★★★☆） |
 | AI替代风险 | 较低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 较低（★☆☆☆☆） |
 
 ---
 
 ## 数据来源
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/social-worker/KR)**

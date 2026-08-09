@@ -4,8 +4,6 @@
 
 Medical research scientists conduct basic and clinical research to investigate the causes, diagnosis, and treatment development of diseases.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -51,8 +49,6 @@ Medical research scientists conduct basic and clinical research to investigate t
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI automates some tasks like data analysis and drug screening, but creative and judgmental tasks such as hypothesis generation and experimental design remain uniquely human, making it more of a complement than a job transformation.
-
 Career progression: start as a researcher after a master's, advance to senior researcher with a PhD, then principal researcher; opportunities exist at universities, hospitals, pharmaceutical companies, and national research institutes.
 
 **Tasks most exposed to AI:**
@@ -93,17 +89,9 @@ Career progression: start as a researcher after a master's, advance to senior re
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (E-7 (Specific Activities)) | Issuable upon recommendation from a research institution; for skilled and professional workers |
-| Subclass D-10 (Job seeking) | Research Job Visa for Doctoral/Master's Degree Holders |
-| Subclass F-2 (Residence (F-2)) | Convertible to points-based system, allows long-term stay and free activities |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -147,12 +135,12 @@ A: A master's degree is possible, but a doctoral degree is advantageous for prom
 | Work intensity | high (★★★★☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/medical-research-scientist/KR)**

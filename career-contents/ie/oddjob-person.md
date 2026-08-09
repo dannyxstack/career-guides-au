@@ -52,8 +52,6 @@ Gig workers engage in various temporary, unskilled or semi-skilled manual labor 
 **Future prospect: low (★½☆☆☆).**
 **AI replacement risk: high (★★★★☆).**
 
-Gig workers face high risk of automation replacement; tasks like moving, cleaning, and simple repairs are easily replaced by robots or AI dispatch systems; entry-level positions significantly reduced.
-
 Career advancement paths are limited; typically can progress to specific trades (e.g., carpentry, electrical) or site supervisors, requiring formal apprenticeships or training for qualifications.
 
 **Tasks most exposed to AI:**
@@ -109,8 +107,6 @@ Career advancement paths are limited; typically can progress to specific trades 
 
 **PR friendliness: low (★☆☆☆☆).**
 
-**PR difficulty: high (★★★★☆).**
-
 ---
 
 ## 7. Who is / isn't suited
@@ -154,11 +150,12 @@ A: Limited. Can transition to skilled trades (e.g., electrician, plumber) by lea
 | Future prospect | low (★½☆☆☆) |
 | AI replacement risk | high (★★★★☆) |
 | PR friendliness | low (★☆☆☆☆) |
-| PR difficulty | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- CSO Ireland, ISCO-08
+- The Central Statistics Office (CSO Ireland) (ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/oddjob-person/IE)**

@@ -50,8 +50,6 @@ A skilled trade worker who processes and assembles reinforcing bars at construct
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-While full automation by AI and robots is difficult, the introduction of rebar processing machine automation and drawing-reading AI has improved work efficiency. Skills are being enhanced through remote operation of dangerous tasks.
-
 From apprentice to ironworker. Obtain Class 1 skill test or construction management qualification to become site supervisor or independent. Acquiring Specified Skilled Worker (ii) enables long-term career development.
 
 **Tasks most exposed to AI:**
@@ -87,17 +85,9 @@ From apprentice to ironworker. Obtain Class 1 skill test or construction managem
 
 ## 6. Migration pathways / PR
 
+Japan issues status-of-residence work visas by field, and high-scoring professionals can use the Highly Skilled Professional route, which offers a faster path to permanent residence. Eligibility depends on your qualifications and employer, not on any single occupation.
 
-| Visa | Description |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (i) (Construction)) | JLPT N4 or higher, skill test passed. Max stay 5 years, no family accompaniment. |
-| Subclass 特定技能2号 (Specified Skilled Worker (ii) (Construction)) | For skilled workers. Renewable stay, family accompaniment allowed, PR eligible. |
-| Subclass 技人国 (Engineer/Specialist in Humanities/International Services) | University degree or 10+ years experience required. Applicable for construction management, etc. |
-| Subclass 技能 (Skilled Labor Visa) | For skilled workers. Requires certification like Rebar Worker. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium-high (★★★☆☆).**
+**Official immigration source:** [Immigration Services Agency of Japan](https://www.isa.go.jp/en/)
 
 ---
 
@@ -141,12 +131,12 @@ A: Use vocational training schools or apprenticeship programs. About 3 years of 
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium-high (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/reinforcing-ironworker/JP)**

@@ -53,8 +53,6 @@ Data center electrical engineers are responsible for the design and operation an
 **Future prospect: very high (★★★★★).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will enhance the design and operational efficiency of data center electrical engineers, but it cannot replace their on-site decision-making, compliance responsibilities, and cross-system collaboration capabilities; Overall job risk is relatively low, and demand continues to expand due to increased AI computing power.
-
 By 2026, AI data centers will feature hundreds of MW-level power supply and high liquid cooling density, with 2N redundancy, grid-connected capacity, and reliability design at the core. On the operations side, critical facilities are often on duty 24/7, with AI-assisted monitoring, but the responsibility for power supply reliability is borne by engineers.
 
 **Tasks most exposed to AI:**
@@ -108,9 +106,7 @@ By 2026, AI data centers will feature hundreds of MW-level power supply and high
 | Subclass 190 (State / Territory nomination) | State nominations add 5 points; Engineering is a regular on most state urgent lists |
 | Subclass 491 (Guarantees for remote areas) | Remote area state nomination/relative sponsorship temporary residence, then transfer to 191 permanent residence upon meeting conditions. |
 
-**PR friendliness: very high (★★★★½).**
-
-**PR difficulty: medium-low (★★☆☆☆).**
+**PR friendliness: high (★★★★☆).**
 
 ---
 
@@ -162,12 +158,13 @@ A: Yes. Electrical Engineering (233311 family) is in demand; 189/190/482→186 p
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | very high (★★★★★) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | very high (★★★★½) |
-| PR difficulty | medium-low (★★☆☆☆) |
+| PR friendliness | high (★★★★☆) |
 
 ---
 
 ## Data sources
 
-- Jobs and Skills Australia (JSA), ABS, ANZSCO
+- Jobs and Skills Australia & the Australian Bureau of Statistics (ABS) (ANZSCO)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/data-centre-electrical-engineer/AU)**

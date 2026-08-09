@@ -53,8 +53,6 @@ Responsible for daily operations in the food section of supermarkets or stores, 
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-Retail manager roles are mixed in their exposure to AI: routine tasks like inventory counting and scheduling are easily automated, but soft skills like customer experience and team motivation gain value; AI becomes an auxiliary management tool. The role will not disappear but skill requirements will upgrade.
-
 You can be promoted from assistant department manager to department manager, and then develop to regional manager or store manager. You can also move to headquarters roles such as procurement, supply chain, or product planning.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from assistant department manager to department manager, and
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Salarié (Employee Work Permit)) | The employer must provide a CDI contract and prove that suitable candidates cannot be recruited within the EU. Salary must be at least SMIC (about €20k). |
-| Subclass Passeport Talent (Passeport Talent (Talent Passport)) | Suitable for highly skilled talent, with an annual salary of about €42k or above. Retail management positions are usually difficult to reach this salary threshold. |
-| Subclass Carte bleue UE (EU Blue Card) | Annual salary of about €53k is required; retail management positions are rare and meet the requirements. |
-
-**PR friendliness: medium (★★½☆☆).**
-
-**PR difficulty: medium-high (★★★½☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted to store manager, regional manager, or move to headquarte
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium (★★½☆☆) |
-| PR difficulty | medium-high (★★★½☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/grocery-department-manager/FR)**

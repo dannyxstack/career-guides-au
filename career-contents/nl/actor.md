@@ -4,8 +4,6 @@
 
 Actors in the Netherlands perform roles in film, television, theater, and advertising, typically obtaining work through auditions.
 
-> **This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
-
 
 ---
 
@@ -53,8 +51,6 @@ Actors in the Netherlands perform roles in film, television, theater, and advert
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★☆☆☆☆).**
 
-AI has mixed effects on acting careers: automation will replace background roles and digital doubles, but creative performance and emotional connection remain human moats.
-
 Career paths usually start with part-time or small roles, gradually gaining experience before moving into lead roles or directing/screenwriting. Joining a professional union (e.g., Federatie van Film- en Televisiemakers) can help improve recognition.
 
 **Tasks most exposed to AI:**
@@ -100,17 +96,9 @@ Career paths usually start with part-time or small roles, gradually gaining expe
 
 ## 6. Migration pathways / PR
 
-**This is a restricted skilled-migration occupation (employer-sponsored / regional agreements only).** It is not on the independent skilled lists (e.g. 189/190).
+As an EU member state, Netherlands admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Highly Skilled Migra (Highly Skilled Migrant) | Applicable to actors with employer sponsorship, must meet salary threshold (approx. €5,688/month in 2024) |
-| Subclass EU Blue Card (EU Blue Card) | Applicable for high-income actors, but self-employed actors cannot apply |
-| Subclass Orientation Year (Orientation Year) | Orientation year visa for Dutch graduates or specific foreign graduates, allows seeking performance work |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +142,12 @@ A: Demand is stable but competition is fierce. English-language production and s
 | Work intensity | high (★★★★☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★☆☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- CBS, ISCO-08
+- Statistics Netherlands (CBS) (ISCO-08 (BRC))
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/actor/NL)**

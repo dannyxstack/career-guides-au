@@ -1,10 +1,8 @@
 # 钣金工（Sheet Metal Worker）职业分析 · 日本
 
-**职业代码: 526 (JSCO)**
+**职业代码：526 (JSCO)**
 
-A skilled trade that cuts, bends, and welds metal sheets to manufacture automobile and aircraft parts, building materials, etc. Reads blueprints and finishes precision products through manual and machine processing.
-
-> **本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+一门熟练手艺，切割、弯曲和焊接金属板以制造汽车和飞机零件、建筑材料等。需阅读蓝图并通过手工和机器加工完成精密产品。
 
 
 ---
@@ -13,8 +11,8 @@ A skilled trade that cuts, bends, and welds metal sheets to manufacture automobi
 
 | 阶段 | 周期 | 费用 (JPY) |
 |---|---|---:|
-| Vocational School | 2 年 | $1,200,000~$2,500,000（Includes admission fee; facility fees separate.） |
-| Public Vocational Training School | 1~2年 | $300,000~$800,000（Public vocational training may be free.） |
+| 职业学校 | 2 年 | $1,200,000~$2,500,000（含入场费；设施费另计。） |
+| 公共职业培训学校 | 1~2年 | $300,000~$800,000（公立职业培训可能免费。） |
 
 ---
 
@@ -22,18 +20,18 @@ A skilled trade that cuts, bends, and welds metal sheets to manufacture automobi
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Gas Welder Certification | Safety and Health Technical Examination Association | 必备 | Required for welding work. |
-| Arc Welding Special Education | Industrial Safety and Health Act | 必备 | Mandatory for arc welding workers. |
-| Certified Skilled Worker (Sheet Metal) | Ministry of Health, Labour and Welfare | 可选 | Levels 1, 2, and 3. Proof of advanced skills. |
+| 气焊工证书 | 安全与健康技术考试协会 | 必备 | 焊接工作需要。 |
+| 电弧焊特殊教育 | 工业安全与健康法 | 必备 | 电弧焊工必须。 |
+| 认证技术工人（钣金） | 厚生劳动省 | 可选 | 第一、二、三级。需证明高级技能。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量: 较高（★★★★☆）.** 全国从业人数约 68,000. The labor shortage due to the aging population is severe, and this is a target industry for Specified Skilled Worker (ii). There is high demand for skilled workers in the automotive industry and construction sites, and securing young workers is a challenge.
+**职位需求量：较高（★★★★☆）** 全国从业人数约 68,000。由于人口老龄化导致的劳动力短缺严重，这是特定技能工人（ii）的目标行业。汽车行业和建筑工地对熟练工人需求高，确保年轻工人是一大挑战。
 
-**竞争度: 中低（★★☆☆☆）.**
-**工作强度: 较高（★★★★☆）.**
+**竞争度：中低（★★☆☆☆）**
+**工作强度：较高（★★★★☆）**
 
 ---
 
@@ -41,96 +39,87 @@ A skilled trade that cuts, bends, and welds metal sheets to manufacture automobi
 
 | 经验水平 | 年薪 (JPY) | 备注 |
 |---|---:|---|
-| Entry Level (0–3 years) | $3,000,000~$4,000,000 | Annual income. Includes base salary and overtime. |
-| Intermediate (3–10 years) | $4,000,000~$5,500,000 | Increases with Skill Test Level 2 or higher. |
-| Advanced (10+ years) | $5,500,000~$8,000,000 | High earnings with Level 1 certification or management positions. |
+| 入门级（0–3年） | $3,000,000~$4,000,000 | 年收入，包括基本工资和加班费。 |
+| 中级（3-10年） | $4,000,000~$5,500,000 | 获得技能测试2级或以上将提高收入。 |
+| 高级（10年以上） | $5,500,000~$8,000,000 | 拥有1级认证或管理职位可获高收入。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景: 中高（★★★☆☆）.**
-**AI替代风险: 较低（★½☆☆☆）.**
+**发展前景：中高（★★★☆☆）**
+**AI替代风险：较低（★½☆☆☆）**
 
-AI/robot automation advances in some processes, but complex bending/welding and on-site adjustments require human skill. Demand for skilled workers continues.
+AI/机器人自动化在一些流程中推进，但复杂的弯曲和焊接以及现场调整需要人类技能。熟练工人需求持续。
 
-Start as an apprentice and obtain higher-level skills certification. Possible career paths include factory manager or independent business owner. Career advancement can be achieved by learning CAD/CAM and robot operation.
+从学徒开始并获取更高级技能认证。可能的职业路径包括工厂经理或个体经营者。通过学习CAD/CAM和机器人操作可以实现职业发展。
 
-**最易被 AI 替代的任务:**
+**最易被 AI 替代的任务：**
 
-- Simple sheet metal cutting
-- Standard bending
-- Deburring mass-produced parts
+- 简单钣金切割
+- 标准弯曲
+- 批量零件去毛刺
 
-**AI 增强的环节:**
+**AI 增强的环节：**
 
-- Developing developed view drawings with CAD
-- Robot teaching
-- AI-assisted quality inspection
+- 使用CAD绘制展开图
+- 机器人教学
+- AI辅助质量检验
 
-**人类护城河:**
+**人类护城河：**
 
-- Manual processing of complex 3D shapes
-- On-site flexible adjustments
-- Repair and maintenance skills
+- 复杂3D形状的手工加工
+- 现场灵活调整
+- 维修和保养技能
 
-**需构建的技能:**
+**需构建的技能：**
 
 - CAD/CAM
-- Robot programming
-- Heterogeneous material joining techniques
-- 3D scanning
-- Inheritance of craftsmanship
+- 机器人编程
+- 异种材料连接技术
+- 3D扫描
+- 工艺传承
 
-**主要增长方向:**
+**主要增长方向：**
 
-- Sheet metal processing
-- Technical Intern Training (ii)
-- Construction sheet metal
+- 钣金加工
+- 技术实习培训（ii）
+- 建筑钣金
 - CAD/CAM
 
 ---
 
-## 6. 移民路径 / PR难度
+## 6. 移民路径 / PR
 
-**本职业为受限技术移民职业（仅雇主担保 / 偏远地区协议）。** 不在独立技术移民清单（如 189/190）上，可通过雇主担保（482/494）、DAMA 或劳务协议移民，通道受限。
+日本按行业发放居留身份工作签证，高分专业人士可通过高技能专业人士途径获得更快捷的永久居留路径。资格取决于你的资历和雇主，而不是单一职业。
 
-| 签证类别 | 说明 |
-|---|---|
-| Subclass 特定技能1号 (Specified Skilled Worker (Construction)) | Specified Skilled Worker (i) in construction. Pass exam and N4+ Japanese required. Max 5-year stay. |
-| Subclass 特定技能2号 (Specified Skilled Worker (Construction)) | Family accompaniment and permanent residence possible. New in 2023. Requires skilled work experience. |
-| Subclass 技能実習2号 (Technical Intern Training (Construction)) | Construction trades under internship system. 3 years. No job change allowed. |
-| Subclass 技術・人文知識・国際業務 (Engineer/Specialist in Humanities/International Services) | Requires advanced expertise. Covers engineers in design/management roles. |
-
-**PR友好度: 中（★★½☆☆）.**
-
-**PR难度: 中高（★★★½☆）.**
+**官方移民信息来源：**[出入国在留管理厅](https://www.isa.go.jp/en/)
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合**
-- People with dexterous hands
-- People who enjoy making things
-- People confident in physical strength
+- 手巧的人
+- 喜欢动手制作的人
+- 体力充沛的人
 
 **谁不适合**
-- People who dislike detailed tasks
-- People who want to avoid dangerous work
+- 不喜欢细节工作的人
+- 想避免危险工作的人
 
 ---
 
 ## 8. FAQ 常见问题
 
-**问：What is the average annual income of sheet metal workers?**
-答：Approx. 3-4M JPY for beginner, 4-5.5M for intermediate, 5.5-8M for advanced. Varies with overtime pay and skill allowances.
+**问：钣金工人的平均年收入是多少？**
+答：初学者约3-4百万日元，中级4-5.5百万，高级5.5-8百万。视加班费和技能津贴而定。
 
-**问：Can foreigners get jobs in sheet metal?**
-答：Possible with Specified Skilled Worker (i)/(ii) or technical intern. Requires N4 Japanese. Must pass construction field specific skill exam.
+**问：外国人能在钣金行业找到工作吗？**
+答：可通过特定技能签证(i)/(ii)或技术实习生。要求日语N4。必须通过建筑领域特定技能考试。
 
-**问：How to go independent as a sheet metal worker?**
-答：Obtain Grade 1 skill certification, secure capital and clients. File business registration. Common as sole proprietor or corporation.
+**问：如何以钣金工身份独立执业？**
+答：取得1级技能证书，确保资金和客户。提交商业注册。通常以个体户或公司形式运营。
 
 
 ---
@@ -148,12 +137,12 @@ Start as an apprentice and obtain higher-level skills certification. Possible ca
 | 工作强度 | 较高（★★★★☆） |
 | 发展前景 | 中高（★★★☆☆） |
 | AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 中（★★½☆☆） |
-| PR难度 | 中高（★★★½☆） |
 
 ---
 
 ## 数据来源
 
-- MHLW / e-Stat, JSCO (LLM→ISCO map)
+- The Statistics Bureau of Japan & the Ministry of Health, Labour and Welfare (Basic Survey on Wage Structure) (JSCO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[在 aijobrisk.com 查看完整详情](https://aijobrisk.com/zh-Hans/jobs/sheet-metal-worker/JP)**

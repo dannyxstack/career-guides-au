@@ -51,8 +51,6 @@ Assess workplace health risks, prevent occupational diseases and injuries, and e
 **Future prospect: high (★★★★☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-AI will not completely replace occupational health and safety specialists, but it will automate data collection, report generation, and routine monitoring tasks; it will also enhance risk assessment, training design, and compliance analysis. Specialists need to shift toward higher-value consulting and strategy development.
-
 You can be promoted from technician to senior consultant or management level, or move into public health or environmental health.
 
 **Tasks most exposed to AI:**
@@ -98,16 +96,9 @@ You can be promoted from technician to senior consultant or management level, or
 
 ## 6. Migration pathways / PR
 
+As an EU member state, Spain admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Tarjeta azul UE (EU Blue Card) | Applicable to highly skilled professionals, requiring a university degree and employment contract, with an annual salary of no less than 34,216 euros (2024 standard). |
-| Subclass Cuenta ajena (Work Permit (Employee)) | Employed work residency requires employer sponsorship and passes the labor market test |
-| Subclass Altamente cualificad (Highly Qualified Professional) | Based on Ley 14/2013, it is suitable for highly educated or in-demand occupations, with a relatively fast process |
-
-**PR friendliness: medium-high (★★★½☆).**
-
-**PR difficulty: medium (★★½☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -151,12 +142,12 @@ A: Yes, non-EU degrees require homologación certification, usually 6-12 months,
 | Work intensity | medium (★★½☆☆) |
 | Future prospect | high (★★★★☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★½☆) |
-| PR difficulty | medium (★★½☆☆) |
 
 ---
 
 ## Data sources
 
-- INE, SEPE, CNO-11
+- The National Statistics Institute (INE) & the Public Employment Service (SEPE) (CNO / ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/occupational-health-and-hygiene-professionals/ES)**

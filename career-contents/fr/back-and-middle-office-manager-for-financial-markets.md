@@ -53,8 +53,6 @@ Responsible for backend settlement, confirmation, reconciliation, and middle-off
 **Future prospect: medium-high (★★★½☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-The impact of AI on financial market back-office and middle office managers is mixed: automation will take over massive data verification and compliance checks, but strategic decision-making, exception handling, and cross-departmental coordination still require human experience and judgment, with core job responsibilities shifting to higher value.
-
 You can be promoted from junior operations specialist to team leader or department manager, or transition to risk management or compliance.
 
 **Tasks most exposed to AI:**
@@ -101,16 +99,9 @@ You can be promoted from junior operations specialist to team leader or departme
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Carte bleue UE (EU Blue Card) | Suitable for high-paying professionals, with an annual salary over €53,955 (2023 standard). |
-| Subclass Passeport Talent (Talent Passport) | Suitable for highly skilled talents, with work contracts and qualification certificates required. |
-| Subclass Salarié (Work Permit (Salarié)) | Standard work residence requires employer sponsorship and applies to long-term contracts. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -154,12 +145,12 @@ A: You can be promoted from operations specialist to department manager, or shif
 | Work intensity | medium-high (★★★☆☆) |
 | Future prospect | medium-high (★★★½☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/back-and-middle-office-manager-for-financial-markets/FR)**

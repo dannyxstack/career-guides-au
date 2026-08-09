@@ -50,8 +50,6 @@ A professional who conducts tests and inspections to evaluate the quality and sa
 **Future prospect: medium-high (★★★☆☆).**
 **AI replacement risk: medium (★★½☆☆).**
 
-AI and automation are replacing parts of the testing process, but human expertise is still needed for interpreting results and making judgments. Simple repetitive inspections are decreasing, while roles in advanced analysis and quality decision-making are strengthened.
-
 Promotion possible from entry-level mechanical tester to skilled tester and quality control manager; certifications and experience play a key role.
 
 **Tasks most exposed to AI:**
@@ -86,16 +84,9 @@ Promotion possible from entry-level mechanical tester to skilled tester and qual
 
 ## 6. Migration pathways / PR
 
+Korea's E-7 skilled-worker visa is granted to qualifying professionals with a local job offer, and long-term holders may move to F-2/F-5 residence. Requirements are set by the Korea Immigration Service and change over time.
 
-| Visa | Description |
-|---|---|
-| Subclass E-7 (Specific Activities) | Work available as skilled personnel in mechanical testing |
-| Subclass E-9 (Non-professional Employment) | Simple test assistant work possible but limited |
-| Subclass F-2 (Residence) | Long-term stay can lead to permanent residence conversion |
-
-**PR friendliness: high (★★★★☆).**
-
-**PR difficulty: low (★½☆☆☆).**
+**Official immigration source:** [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do)
 
 ---
 
@@ -136,12 +127,12 @@ A: Yes, specialized personnel in mechanical testing are eligible for E-7 visas, 
 | Work intensity | medium (★★★☆☆) |
 | Future prospect | medium-high (★★★☆☆) |
 | AI replacement risk | medium (★★½☆☆) |
-| PR friendliness | high (★★★★☆) |
-| PR difficulty | low (★½☆☆☆) |
 
 ---
 
 ## Data sources
 
-- KOSTAT, KECO, KSCO (LLM→ISCO map)
+- The Korea Employment Information Service (KEIS) WorkNet/KNOW & Statistics Korea (KECO → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/mechanical-tester/KR)**

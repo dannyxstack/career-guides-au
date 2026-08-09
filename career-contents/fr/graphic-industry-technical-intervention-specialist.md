@@ -53,8 +53,6 @@ Responsible for installation, maintenance, commissioning, and troubleshooting of
 **Future prospect: medium (★★½☆☆).**
 **AI replacement risk: low (★½☆☆☆).**
 
-Industrial machinery repairers see mixed impacts from AI automation: predictive maintenance and diagnostic tools boost efficiency, but complex mechanical repairs still rely on human experience; entry-level positions become more competitive due to remote monitoring.
-
 Junior technicians can join after apprenticeship or BTS status, gaining experience and being promoted to team leader or equipment specialist. Some have shifted to digital printing technology support or equipment sales. You can also enhance your professionalism through qualification certifications (such as CQPM).
 
 **Tasks most exposed to AI:**
@@ -100,16 +98,9 @@ Junior technicians can join after apprenticeship or BTS status, gaining experien
 
 ## 6. Migration pathways / PR
 
+As an EU member state, France admits skilled foreign professionals mainly through the EU Blue Card and national work-permit routes. Eligibility depends on your qualifications, a qualifying job offer and salary threshold — not on any single occupation. Rules and salary thresholds change yearly, so always check the official source before making plans.
 
-| Visa | Description |
-|---|---|
-| Subclass Salarié (Work Permit (Salarié)) | For employed work residence, a work contract must be provided by a French employer and meet salary and qualification requirements. |
-| Subclass Passeport Talent (Talent Passport) | Talent Passport, suitable for highly skilled professionals or internal transfers within companies, requires a master's degree or above, or an annual salary of over €40,000. |
-| Subclass Recherche emploi (Job Search Visa (Recherche d'emploi)) | Graduate job seeker visas allow you to stay in France for one year to look for work, and after finding one, you can transfer to Salarié. |
-
-**PR friendliness: medium-high (★★★☆☆).**
-
-**PR difficulty: medium (★★★☆☆).**
+**Official immigration source:** [EU Immigration Portal](https://immigration-portal.ec.europa.eu/index_en)
 
 ---
 
@@ -153,12 +144,12 @@ A: Qualifications must be accredited (reconnaissance des qualifications), assess
 | Work intensity | medium-high (★★★½☆) |
 | Future prospect | medium (★★½☆☆) |
 | AI replacement risk | low (★½☆☆☆) |
-| PR friendliness | medium-high (★★★☆☆) |
-| PR difficulty | medium (★★★☆☆) |
 
 ---
 
 ## Data sources
 
-- INSEE, France Travail, ROME
+- The National Institute of Statistics and Economic Studies (INSEE) & France Travail (ROME / PCS → ISCO-08)
 - AI exposure: ILO Working Paper 140 (Generative AI exposure index, CC BY 4.0) + Eloundou et al. "GPTs are GPTs" (OpenAI, MIT)
+
+🔗 **[Full detail on aijobrisk.com](https://aijobrisk.com/jobs/graphic-industry-technical-intervention-specialist/FR)**
